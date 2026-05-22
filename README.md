@@ -24,6 +24,10 @@ The script regenerates `data.js` from:
 - `https://api-web.nhle.com/v1/club-stats/{TEAM}/now`
 - `https://api-web.nhle.com/v1/playoff-bracket/{YEAR}`
 
+## Hosted Data Freshness
+
+The Vercel deployment is static, so hosted data changes only when `data.js` changes in GitHub. This repo includes a GitHub Actions workflow that runs the updater every day and commits a fresh `data.js` when the NHL API has changed.
+
 ## Daily Refresh On macOS
 
 ```bash

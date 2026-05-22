@@ -507,7 +507,9 @@ def build_bracket(season_id: int | str) -> dict:
         "final": [empty.copy()],
     }
     try:
-        data = fetch_json(f"/playoff-bracket/{str(season_id)[:4]}")
+        season = str(season_id)
+        playoff_year = season[4:] if len(season) >= 8 else season[:4]
+        data = fetch_json(f"/playoff-bracket/{playoff_year}")
     except RuntimeError:
         return bracket
 

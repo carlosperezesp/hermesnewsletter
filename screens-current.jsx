@@ -212,12 +212,13 @@ function Bracket({ bracket, onTeamClick }) {
     }
 
     const decided = !!m.winner;
+    const hasTeams = !!(hi || lo);
 
     return (
-      <div className={`match ${decided ? "match--decided" : "match--live"}`}>
+      <div className={`match ${decided ? "match--decided" : hasTeams ? "match--live" : ""}`}>
         <Row team={hi} wins={hiW} isWinner={decided && m.winner === m.hi} isLoser={decided && m.winner !== m.hi} />
         <Row team={lo} wins={loW} isWinner={decided && m.winner === m.lo} isLoser={decided && m.winner !== m.lo} />
-        {!decided && <div className="match__live">SERIES LIVE · {m.seriesScore}</div>}
+        {!decided && hasTeams && <div className="match__live">SERIES LIVE · {m.seriesScore}</div>}
       </div>
     );
   }
@@ -236,10 +237,7 @@ function Bracket({ bracket, onTeamClick }) {
       <div className="bracket__center">
         <div className="bracket__final">
           <div className="bracket__final-label">Stanley Cup Final</div>
-          <div className="bracket__final-box">
-            <div className="bracket__final-row">— · TBD</div>
-            <div className="bracket__final-row">— · TBD</div>
-          </div>
+          <Match m={bracket.final?.[0] || { hi: null, lo: null, winner: null, seriesScore: "-" }} round="final" />
         </div>
       </div>
 
