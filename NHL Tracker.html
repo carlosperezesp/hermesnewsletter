@@ -448,27 +448,46 @@
       border: 1px solid var(--rule);
       background: var(--bg);
       position: relative;
+      border-radius: 4px;
+      overflow: hidden;
     }
     .match--live { border-color: var(--ink-2); }
     .match__row {
       display: grid;
-      grid-template-columns: 36px 1fr 22px;
+      grid-template-columns: 32px 1fr 22px;
       align-items: center;
       gap: 6px;
-      padding: 6px 8px;
+      padding: 5px 8px;
       border-bottom: 1px solid var(--rule-2);
+      border-left: 3px solid var(--team-color, transparent);
       font-size: 12px;
       cursor: pointer;
       transition: background .15s;
     }
     .match__row:last-child { border-bottom: 0; }
     .match__row:hover { background: var(--bg-2); }
-    .match__row--winner { font-weight: 600; }
-    .match__row--loser  { color: var(--muted); }
-    .match__row--empty  { color: var(--muted-2); cursor: default; }
+    .match__row--winner {
+      font-weight: 600;
+      background: color-mix(in oklch, var(--team-color) 10%, transparent);
+    }
+    .match__row--winner:hover {
+      background: color-mix(in oklch, var(--team-color) 16%, transparent);
+    }
+    .match__row--loser  { opacity: 0.45; }
+    .match__row--empty  { color: var(--muted-2); cursor: default; border-left-color: transparent; }
     .match__row--empty:hover { background: transparent; }
-    .match__code { font-family: var(--mono); font-size: 10.5px; font-weight: 600; color: var(--ink-2); }
-    .match__row--loser .match__code { color: var(--muted); }
+    .match__code { display: flex; align-items: center; }
+    .match__swatch {
+      width: 22px;
+      height: 22px;
+      border-radius: 3px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex: none;
+      overflow: hidden;
+    }
+    .match__swatch img { width: 15px; height: 15px; object-fit: contain; }
     .match__city { font-family: var(--serif); font-size: 13px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
     .match__wins { font-family: var(--mono); font-size: 12px; text-align: right; font-weight: 600; }
     .match__live {

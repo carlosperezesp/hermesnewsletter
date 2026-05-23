@@ -200,12 +200,17 @@ function Bracket({ bracket, onTeamClick }) {
       return (
         <div
           className={`match__row ${isWinner ? "match__row--winner" : ""} ${isLoser ? "match__row--loser" : ""}`}
+          style={{ "--team-color": team.colors?.primary || "#666" }}
           onClick={() => onTeamClick(team)}
           role="button"
           tabIndex={0}
         >
-          <span className="match__code">{team.code}</span>
-          <span className="match__city">{team.city}</span>
+          <span className="match__code">
+            <span className="match__swatch" style={{ background: team.colors?.primary || "#666" }}>
+              <img src={`https://assets.nhle.com/logos/nhl/svg/${team.code}_dark.svg`} alt="" onError={e => { e.target.style.display = "none"; }} />
+            </span>
+          </span>
+          <span className="match__city">{team.shortName || team.city}</span>
           <span className="match__wins">{wins ?? "·"}</span>
         </div>
       );
