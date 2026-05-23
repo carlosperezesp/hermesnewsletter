@@ -4,6 +4,7 @@ function RoadToGlory({ data, onPlayerClick }) {
   const [tab, setTab] = useState("players");
   if (!data) return null;
   const { players, teams, playerThreshold, teamThreshold } = data;
+  const teamsMap = useMemo(() => Object.fromEntries(window.NHL_DATA.TEAMS.map(t => [t.code, t])), []);
 
   function handlePlayerClick(playerId) {
     const player = window.NHL_DATA.PLAYERS.find(p => p.id === playerId);
@@ -49,6 +50,7 @@ function RoadToGlory({ data, onPlayerClick }) {
                 <span className="rtg-row__name">{p.name}</span>
                 <span className="rtg-row__meta">
                   {p.country} · <span className={`pos-badge pos-badge--${p.pos}`}>{p.pos}</span>
+                  {" · "}{teamsMap[p.teamCode]?.commonName || p.teamCode}
                   {p.age ? ` · ${p.age} años` : ""}
                   {` · ${p.seasons} temporadas`}
                   {p.cups > 0 ? ` · ${p.cups} Cup${p.cups > 1 ? "s" : ""}` : ""}
@@ -89,6 +91,7 @@ function YoungGuns({ data, onPlayerClick }) {
   if (!data) return null;
   const { youngProspects, playerThreshold } = data;
   if (!youngProspects || youngProspects.length === 0) return null;
+  const teamsMap = useMemo(() => Object.fromEntries(window.NHL_DATA.TEAMS.map(t => [t.code, t])), []);
 
   function handleClick(playerId) {
     const player = window.NHL_DATA.PLAYERS.find(p => p.id === playerId);
@@ -127,6 +130,7 @@ function YoungGuns({ data, onPlayerClick }) {
                 <span className="rtg-row__name">{p.name}</span>
                 <span className="rtg-row__meta">
                   {p.country} · <span className={`pos-badge pos-badge--${p.pos}`}>{p.pos}</span>
+                  {" · "}{teamsMap[p.teamCode]?.commonName || p.teamCode}
                   {p.age ? ` · ${p.age} años` : ""}
                   {" · score actual "}
                   <span className="mono mono--bold">{p.currentScore}</span>
