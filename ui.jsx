@@ -160,14 +160,22 @@ function PosBadge({ pos }) {
 
 function TeamSwatch({ colors, code }) {
   const primary = colors?.primary || "#666";
-  const secondary = colors?.secondary || "#ddd";
   return (
     <span
       className="team-swatch"
       title={code}
-      style={{ "--team-primary": primary, "--team-secondary": secondary }}
+      style={{ background: primary }}
       aria-hidden="true"
-    />
+    >
+      {code && (
+        <img
+          src={`https://assets.nhle.com/logos/nhl/svg/${code}_light.svg`}
+          alt=""
+          className="team-swatch__logo"
+          onError={e => { e.target.style.display = "none"; }}
+        />
+      )}
+    </span>
   );
 }
 

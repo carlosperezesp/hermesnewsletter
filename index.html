@@ -256,16 +256,32 @@
     }
     .team-cell__city { font-size: 15px; font-family: var(--serif); transition: color .15s; }
     .team-swatch {
-      width: 18px;
-      height: 18px;
+      width: 28px;
+      height: 28px;
       flex: none;
-      border: 1px solid var(--rule);
-      background: linear-gradient(135deg, var(--team-primary) 0 52%, var(--team-secondary) 52% 100%);
+      border-radius: 5px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+    .team-swatch__logo {
+      width: 20px;
+      height: 20px;
+      object-fit: contain;
     }
 
     .player-cell { display: flex; flex-direction: column; gap: 1px; }
     .player-cell__name { font-family: var(--serif); font-size: 15px; transition: color .15s; }
     .player-cell__meta { font-family: var(--mono); font-size: 10.5px; color: var(--muted); }
+    .player-cell__shot {
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      object-fit: cover;
+      flex: none;
+      background: var(--rule-2);
+    }
     .player-line { display: inline-flex; align-items: center; gap: 8px; }
 
     .gd-slash { color: var(--muted-2); padding: 0 2px; }

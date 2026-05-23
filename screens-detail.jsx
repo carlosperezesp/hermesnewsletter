@@ -28,7 +28,10 @@ function TeamDetail({ team, onBack, onPlayerClick, onOpenMethodology }) {
       key: "name", label: "Player",
       render: r => (
         <span className="player-cell">
-          <span className="player-cell__name">{r.name}</span>
+          <span className="player-line">
+            {r.headshot && <img className="player-cell__shot" src={r.headshot} alt="" onError={e => { e.target.style.display = "none"; }} />}
+            <span className="player-cell__name">{r.name}</span>
+          </span>
           <span className="player-cell__meta">{r.age ? `age ${r.age}` : r.teamCode}</span>
         </span>
       ),
