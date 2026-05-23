@@ -169,7 +169,7 @@ function TeamSwatch({ colors, code }) {
     >
       {code && (
         <img
-          src={`https://assets.nhle.com/logos/nhl/svg/${code}_light.svg`}
+          src={`https://assets.nhle.com/logos/nhl/svg/${code}_dark.svg`}
           alt=""
           className="team-swatch__logo"
           onError={e => { e.target.style.display = "none"; }}
