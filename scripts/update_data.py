@@ -295,7 +295,8 @@ def goalie_score(player: dict) -> float:
     gp = max(1, stats["gp"])
     svpct = stats.get("svpct") or 0
     gaa = stats.get("gaa") or 4
-    return (svpct - 0.86) * 900 - gaa * 7 + stats.get("w", 0) * 1.8 + stats.get("so", 0) * 3 + gp * 0.45
+    # svpct/gaa are individual; wins and gp are team/workload — keep them small
+    return (svpct - 0.86) * 1100 - gaa * 8 + stats.get("w", 0) * 0.9 + stats.get("so", 0) * 3 + gp * 0.15
 
 
 def toi_minutes(value: str | None) -> float:
@@ -542,6 +543,13 @@ def build_players(teams: list[dict], season_id: int | str | None = None) -> list
         scores = percentile_scores(group, goalie_score if group and group[0]["pos"] == "G" else skater_score)
         for player in group:
             player["score"] = scores[player["id"]]
+            player["trajectory"][-1] = player["score"]
+
+    # Goalies normalize within a smaller pool (97) so their 35–100 range sits ~30pts
+    # above skaters. Scale them down so an elite starter (~84) ≈ strong top-6 forward.
+    for player in players:
+        if player["pos"] == "G":
+            player["score"] = max(35, round(35 + (player["score"] - 35) * 0.72))
             player["trajectory"][-1] = player["score"]
 
     # Merge playoff stats after scoring so the score formula stays RS-only
