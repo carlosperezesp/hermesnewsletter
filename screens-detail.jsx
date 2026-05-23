@@ -35,8 +35,13 @@ function TeamDetail({ team, onBack, onPlayerClick, onOpenMethodology }) {
     },
     { key: "pos", label: "Pos", w: 52, sortable: false, render: r => <PosBadge pos={r.pos} /> },
     {
-      key: "gp", label: "GP", w: 56, numeric: true,
-      render: r => <span className="mono">{r.stats.gp}</span>,
+      key: "gp", label: "GP", w: 72, numeric: true,
+      render: r => r.stats.gp_po > 0
+        ? <span className="mono" title={`${r.stats.gp - r.stats.gp_po} reg + ${r.stats.gp_po} PO`}>
+            {r.stats.gp - r.stats.gp_po}<span className="mono--muted">+{r.stats.gp_po}</span>
+          </span>
+        : <span className="mono">{r.stats.gp}</span>,
+      value: r => r.stats.gp,
     },
     {
       key: "line1", label: "G / SV%", w: 96, sortable: false, numeric: true,
@@ -172,7 +177,8 @@ function Kpi({ label, value, mono, bold }) {
 
 // ───────────────────────── Player Detail ─────────────────────────
 function PlayerDetail({ player, onBack, onTeamClick, onOpenMethodology }) {
-  const { TEAMS, PLAYERS, METHODOLOGY } = window.NHL_DATA;
+  const { TEAMS, PLAYERS, METHODOLOGY, PLAYER_COMPARISONS } = window.NHL_DATA;
+  const comparison = useMemo(() => PLAYER_COMPARISONS.find(c => c.id === player.id), [PLAYER_COMPARISONS, player]);
   const team = TEAMS.find(t => t.code === player.teamCode);
   const isGoalie = player.pos === "G";
 
@@ -295,6 +301,47 @@ function PlayerDetail({ player, onBack, onTeamClick, onOpenMethodology }) {
           </div>
         </div>
       </section>
+
+      {/* Career season history — available for skaters in PLAYER_COMPARISONS */}
+      {comparison && comparison.seasons.length > 0 && (
+        <section className="block">
+          <div className="block__head">
+            <WFLabel>CAREER NHL SEASONS</WFLabel>
+          </div>
+          <div className="scroll-region" style={{ maxHeight: 360 }}>
+            <table className="table table--dense">
+              <thead>
+                <tr>
+                  <th className="table__th" style={{ width: 80 }}>Season</th>
+                  <th className="table__th" style={{ width: 32 }}>Age</th>
+                  <th className="table__th">Team</th>
+                  <th className="table__th table__th--num" style={{ width: 48 }}>GP</th>
+                  <th className="table__th table__th--num" style={{ width: 44 }}>G</th>
+                  <th className="table__th table__th--num" style={{ width: 44 }}>A</th>
+                  <th className="table__th table__th--num" style={{ width: 52 }}>P</th>
+                  <th className="table__th table__th--num" style={{ width: 44 }}>+/–</th>
+                  <th className="table__th table__th--num" style={{ width: 140 }}>Season score</th>
+                </tr>
+              </thead>
+              <tbody>
+                {[...comparison.seasons].reverse().map(s => (
+                  <tr key={s.seasonId} className="table__row">
+                    <td className="table__td"><span className="mono">{s.season}</span></td>
+                    <td className="table__td"><span className="mono mono--muted">{s.age}</span></td>
+                    <td className="table__td"><span className="mono mono--muted">{s.team}</span></td>
+                    <td className="table__td table__td--num"><span className="mono">{s.gp}</span></td>
+                    <td className="table__td table__td--num"><span className="mono">{s.g}</span></td>
+                    <td className="table__td table__td--num"><span className="mono">{s.a}</span></td>
+                    <td className="table__td table__td--num"><span className="mono mono--bold">{s.p}</span></td>
+                    <td className="table__td table__td--num"><span className="mono mono--muted">{s.pm > 0 ? `+${s.pm}` : s.pm}</span></td>
+                    <td className="table__td table__td--num"><ScoreBar value={s.score} width={68} /></td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      )}
     </div>
   );
 }

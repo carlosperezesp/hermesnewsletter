@@ -91,6 +91,40 @@ LEGEND_IDS = {
     8447687: "BUF",  # Dominik Hasek
 }
 
+# Active stars always fetched for PLAYER_COMPARISONS regardless of current-season rank
+ROAD_TO_GLORY_PLAYER_IDS = {
+    8478402: "EDM",  # Connor McDavid
+    8477492: "COL",  # Nathan MacKinnon
+    8476453: "TBL",  # Nikita Kucherov
+    8480069: "COL",  # Cale Makar
+    8477934: "EDM",  # Leon Draisaitl
+    8484144: "CHI",  # Connor Bedard
+}
+
+# Known Stanley Cup wins for active/recent players
+PLAYER_CUPS = {
+    8471675: 3,  # Sidney Crosby — 2009, 2016, 2017
+    8471214: 1,  # Alex Ovechkin — 2018
+    8477492: 1,  # Nathan MacKinnon — 2022
+    8476453: 2,  # Nikita Kucherov — 2020, 2021
+    8480069: 1,  # Cale Makar — 2022
+    8476346: 2,  # Brayden Point — 2020, 2021
+}
+
+# Current-era franchises building toward all-time dynasty status
+ACTIVE_ERA_TEAMS = [
+    {"teamCode": "COL", "city": "Colorado Avalanche", "era": "2020–present", "cups": 1, "note": "2022 Cup · MacKinnon era"},
+    {"teamCode": "FLA", "city": "Florida Panthers", "era": "2022–present", "cups": 1, "note": "2024 Cup · back-to-back Finals"},
+    {"teamCode": "VGK", "city": "Vegas Golden Knights", "era": "2018–present", "cups": 1, "note": "2023 Cup · fastest expansion dynasty"},
+    {"teamCode": "STL", "city": "St. Louis Blues", "era": "2017–present", "cups": 1, "note": "2019 Cup · first in franchise history"},
+    {"teamCode": "EDM", "city": "Edmonton Oilers", "era": "2021–present", "cups": 0, "note": "McDavid era · 2024 Stanley Cup Finals"},
+    {"teamCode": "CAR", "city": "Carolina Hurricanes", "era": "2019–present", "cups": 0, "note": "6 straight playoff runs · no Cup yet"},
+    {"teamCode": "DAL", "city": "Dallas Stars", "era": "2022–present", "cups": 0, "note": "Back-to-back Conference Finals"},
+    {"teamCode": "BOS", "city": "Boston Bruins", "era": "2019–present", "cups": 0, "note": "Consistent 100+ point seasons"},
+    {"teamCode": "NYR", "city": "New York Rangers", "era": "2022–present", "cups": 0, "note": "2024 Conference Finals · Panarin–Fox era"},
+    {"teamCode": "MIN", "city": "Minnesota Wild", "era": "2020–present", "cups": 0, "note": "5 straight playoffs · Kaprizov era"},
+]
+
 STATIC_HISTORY_TEAMS = [
     {"rank": 1, "era": "1976-79", "city": "Montreal Canadiens", "teamCode": "MTL", "country": "Canada", "conf": "WHA/NHL expansion era", "titles": 4, "score": 99.0, "conf_tier": "B"},
     {"rank": 2, "era": "1983-88", "city": "Edmonton Oilers", "teamCode": "EDM", "country": "Canada", "conf": "Smythe", "titles": 4, "score": 97.8, "conf_tier": "A"},
@@ -286,9 +320,18 @@ def season_raw_score(row: dict, pos: str) -> float:
     return (points / gp) * 55 + (goals / gp) * 15 + (assists / gp) * 8 + (plus_minus / gp) * 12 + (shots / gp) * 1.2 + toi * 0.5
 
 
-def build_player_comparisons(players: list[dict]) -> list[dict]:
+def _young_prospect_ids(players: list[dict]) -> list[int]:
+    candidates = [
+        p for p in players
+        if p["pos"] != "G" and p.get("age") and p["age"] <= 25 and p["score"] >= 50
+    ]
+    candidates.sort(key=lambda p: p["score"], reverse=True)
+    return [p["id"] for p in candidates[:15]]
+
+
+def build_player_comparisons(players: list[dict], extra_ids: list[int] | None = None) -> list[dict]:
     current_ids = [p["id"] for p in sorted((p for p in players if p["pos"] != "G"), key=lambda p: p["score"], reverse=True)[:36]]
-    wanted_ids = list(dict.fromkeys(current_ids + list(LEGEND_IDS.keys())))
+    wanted_ids = list(dict.fromkeys(current_ids + list(LEGEND_IDS.keys()) + list(ROAD_TO_GLORY_PLAYER_IDS.keys()) + (extra_ids or [])))
     comparisons = []
     all_seasons = []
 
@@ -300,7 +343,7 @@ def build_player_comparisons(players: list[dict]) -> list[dict]:
         first = text(landing.get("firstName"))
         last = text(landing.get("lastName"))
         pos = position_code(landing.get("position") or "")
-        team_code = landing.get("currentTeamAbbrev") or LEGEND_IDS.get(player_id)
+        team_code = landing.get("currentTeamAbbrev") or LEGEND_IDS.get(player_id) or ROAD_TO_GLORY_PLAYER_IDS.get(player_id)
         if not team_code:
             featured = landing.get("featuredStats", {}).get("regularSeason", {}).get("subSeason", {})
             team_code = featured.get("teamAbbrev")
@@ -363,9 +406,23 @@ def build_player_comparisons(players: list[dict]) -> list[dict]:
     return sorted(comparisons, key=lambda p: (-(p["age22Season"] or p["bestSeason"])["score"], p["name"]))
 
 
-def build_players(teams: list[dict]) -> list[dict]:
+def _fetch_club_stats(code: str, season_id: int | str | None, game_type: int) -> dict:
+    if season_id:
+        try:
+            return fetch_json(f"/club-stats/{code}/{season_id}/{game_type}")
+        except RuntimeError:
+            pass
+    if game_type == 2:
+        return fetch_json(f"/club-stats/{code}/now")
+    return {}
+
+
+def build_players(teams: list[dict], season_id: int | str | None = None) -> list[dict]:
     players = []
     next_id = 1
+    # Collect playoff stats keyed by player id for merging after scoring
+    po_by_id: dict[int, dict] = {}
+
     for team in teams:
         roster_meta = {}
         try:
@@ -376,7 +433,31 @@ def build_players(teams: list[dict]) -> list[dict]:
         except RuntimeError:
             roster_meta = {}
 
-        club = fetch_json(f"/club-stats/{team['code']}/now")
+        club = _fetch_club_stats(team["code"], season_id, 2)
+
+        # Stash playoff stats for later merging
+        club_po = _fetch_club_stats(team["code"], season_id, 3)
+        for r in club_po.get("skaters", []):
+            pid = int(r.get("playerId") or 0)
+            if pid:
+                po_by_id[pid] = {
+                    "gp": int(r.get("gamesPlayed") or 0),
+                    "g":  int(r.get("goals") or 0),
+                    "a":  int(r.get("assists") or 0),
+                    "p":  int(r.get("points") or 0),
+                    "pm": int(r.get("plusMinus") or 0),
+                }
+        for r in club_po.get("goalies", []):
+            pid = int(r.get("playerId") or 0)
+            if pid:
+                po_by_id[pid] = {
+                    "gp":    int(r.get("gamesPlayed") or 0),
+                    "w":     int(r.get("wins") or 0),
+                    "so":    int(r.get("shutouts") or 0),
+                    "svpct": float(r.get("savePercentage") or 0),
+                    "gaa":   float(r.get("goalsAgainstAverage") or 0),
+                }
+
         for raw in club.get("skaters", []):
             gp = int(raw.get("gamesPlayed") or 0)
             if gp <= 0:
@@ -463,6 +544,33 @@ def build_players(teams: list[dict]) -> list[dict]:
             player["score"] = scores[player["id"]]
             player["trajectory"][-1] = player["score"]
 
+    # Merge playoff stats after scoring so the score formula stays RS-only
+    for player in players:
+        po = po_by_id.get(player["id"])
+        if not po or po.get("gp", 0) == 0:
+            continue
+        po_gp = po["gp"]
+        player["stats"]["gp_po"] = po_gp
+        if player["pos"] == "G":
+            rs_gp = player["stats"]["gp"]
+            total_gp = rs_gp + po_gp
+            player["stats"]["gp"] = total_gp
+            player["stats"]["w"]  = player["stats"]["w"] + po.get("w", 0)
+            player["stats"]["so"] = player["stats"]["so"] + po.get("so", 0)
+            if total_gp > 0:
+                player["stats"]["svpct"] = round(
+                    (player["stats"]["svpct"] * rs_gp + po.get("svpct", 0) * po_gp) / total_gp, 3
+                )
+                player["stats"]["gaa"] = round(
+                    (player["stats"]["gaa"] * rs_gp + po.get("gaa", 0) * po_gp) / total_gp, 2
+                )
+        else:
+            player["stats"]["gp"] = player["stats"]["gp"] + po_gp
+            player["stats"]["g"]  = player["stats"]["g"]  + po.get("g",  0)
+            player["stats"]["a"]  = player["stats"]["a"]  + po.get("a",  0)
+            player["stats"]["p"]  = player["stats"]["p"]  + po.get("p",  0)
+            player["stats"]["pm"] = player["stats"]["pm"] + po.get("pm", 0)
+
     return sorted(players, key=lambda p: (-p["score"], p["name"]))
 
 
@@ -534,6 +642,165 @@ def build_bracket(season_id: int | str) -> dict:
     return bracket
 
 
+def _player_career_score(comparison: dict) -> float:
+    seasons = comparison.get("seasons", [])
+    if not seasons:
+        return 0.0
+    scores = sorted([s["score"] for s in seasons], reverse=True)
+    n = len(scores)
+    top3 = sum(scores[:3]) / min(3, n)
+    top8 = sum(scores[:8]) / min(8, n)
+    length_bonus = min(1.0, n / 18) * 15.0
+    cups_bonus = PLAYER_CUPS.get(comparison["id"], 0) * 4.0
+    return round(min(100.0, top3 * 0.55 + top8 * 0.20 + length_bonus + cups_bonus), 1)
+
+
+def _player_needs_hint(gap: float) -> str:
+    if gap <= 6:
+        return "One elite Cup run could close the gap"
+    if gap <= 13:
+        return "1–2 more elite seasons + sustained excellence"
+    if gap <= 22:
+        return "2–3 peak years + a Cup or two needed"
+    return "Multiple elite seasons + several Cups needed"
+
+
+def _team_needs_hint(gap: float, cups: int) -> str:
+    if cups == 0:
+        return "Needs at least one Cup + years of dominance"
+    if gap > 25:
+        return "2–3 more Cups + another dominant era"
+    if gap > 14:
+        return "1–2 more Cups + sustained regular-season excellence"
+    return "One more Cup run could reach the threshold"
+
+
+# Scaling from current-season percentile score to all-time per-season equivalent.
+# Calibrated so McDavid (score≈100) maps to ~72 on the all-time scale.
+CURRENT_TO_ALLTIME = 0.72
+
+
+def _prospect_projected_score(age: int, score: int) -> float:
+    est = score * CURRENT_TO_ALLTIME
+    # Slight peak boost for very young players who haven't hit their prime
+    peak_boost = 1.05 if age <= 21 else 1.02 if age <= 23 else 1.0
+    top3 = min(100.0, est * peak_boost)
+    top8 = est
+    seasons_played = max(1, age - 17)
+    seasons_remaining = max(0, 38 - age)
+    total_seasons = seasons_played + seasons_remaining
+    length_bonus = min(1.0, total_seasons / 18) * 15.0
+    # Optimistic cup projection for elite young careers
+    cup_proj = 6.0 if age <= 20 else 4.0 if age <= 22 else 2.0
+    return round(min(97.0, top3 * 0.55 + top8 * 0.20 + length_bonus + cup_proj), 1)
+
+
+def _prospect_note(age: int, score: int) -> str:
+    if age <= 20 and score >= 85:
+        return "Historic rookie pace — all-time tier is possible"
+    if age <= 21 and score >= 80:
+        return "Elite start to career — ceiling is very high"
+    if age <= 23 and score >= 78:
+        return "Among the best players of their generation"
+    if score >= 80:
+        return "Elite current form — needs sustained peak + Cups"
+    if score >= 70:
+        return "Strong pedigree — leap to elite level needed"
+    return "Promising young talent — long road ahead"
+
+
+def build_young_prospects(players: list[dict]) -> list[dict]:
+    p_threshold = float(STATIC_HISTORY_PLAYERS[-1]["score"])
+    candidates = []
+    for p in players:
+        if p["pos"] == "G":
+            continue
+        age = p.get("age")
+        if not age or age > 25:
+            continue
+        if p["score"] < 50:
+            continue
+        proj = _prospect_projected_score(age, p["score"])
+        gap = round(max(0.0, p_threshold - proj), 1)
+        candidates.append({
+            "id": p["id"],
+            "name": p["name"],
+            "pos": p["pos"],
+            "teamCode": p["teamCode"],
+            "country": p["country"],
+            "colors": p["colors"],
+            "age": age,
+            "currentScore": p["score"],
+            "projectedScore": proj,
+            "threshold": p_threshold,
+            "gap": gap,
+            "note": _prospect_note(age, p["score"]),
+        })
+    candidates.sort(key=lambda x: x["projectedScore"], reverse=True)
+    return candidates[:10]
+
+
+def build_road_to_glory(player_comparisons: list[dict], current_teams: list[dict], players: list[dict]) -> dict:
+    p_threshold = float(STATIC_HISTORY_PLAYERS[-1]["score"])  # Hasek 93.1
+    t_threshold = float(STATIC_HISTORY_TEAMS[-1]["score"])    # PIT 89.7
+    legend_ids = {p["id"] for p in STATIC_HISTORY_PLAYERS}
+
+    candidates_p = []
+    for comp in player_comparisons:
+        if not comp.get("active") or comp.get("legendScore") is not None:
+            continue
+        if comp["id"] in legend_ids or not comp.get("seasons"):
+            continue
+        cs = _player_career_score(comp)
+        gap = round(p_threshold - cs, 1)
+        candidates_p.append({
+            "id": comp["id"],
+            "name": comp["name"],
+            "pos": comp["pos"],
+            "teamCode": comp["teamCode"],
+            "country": comp["country"],
+            "colors": comp["colors"],
+            "age": age_from_birthdate(comp.get("birthDate")),
+            "careerScore": cs,
+            "threshold": p_threshold,
+            "gap": max(0.0, gap),
+            "cups": PLAYER_CUPS.get(comp["id"], 0),
+            "seasons": len(comp["seasons"]),
+            "note": _player_needs_hint(gap),
+        })
+    candidates_p.sort(key=lambda x: x["careerScore"], reverse=True)
+
+    cups_value = {0: 12, 1: 25, 2: 38, 3: 50, 4: 60}
+    candidates_t = []
+    for era in ACTIVE_ERA_TEAMS:
+        current = next((t for t in current_teams if t["code"] == era["teamCode"]), None)
+        current_score = current["score"] if current else 50
+        ds = round(min(97.0, cups_value.get(era["cups"], 60) + current_score * 0.55), 1)
+        gap = round(t_threshold - ds, 1)
+        candidates_t.append({
+            "teamCode": era["teamCode"],
+            "city": era["city"],
+            "era": era["era"],
+            "cups": era["cups"],
+            "dynastyScore": ds,
+            "threshold": t_threshold,
+            "gap": max(0.0, gap),
+            "note": era["note"],
+            "needs": _team_needs_hint(gap, era["cups"]),
+            "colors": TEAM_COLORS.get(era["teamCode"], {"primary": "#666666", "secondary": "#d9d9d9"}),
+        })
+    candidates_t.sort(key=lambda x: x["dynastyScore"], reverse=True)
+    young_prospects = build_young_prospects(players)
+
+    return {
+        "playerThreshold": p_threshold,
+        "teamThreshold": t_threshold,
+        "players": candidates_p[:10],
+        "teams": candidates_t[:10],
+        "youngProspects": young_prospects,
+    }
+
+
 def write_data(output: Path) -> None:
     standings_data = fetch_json("/standings/now")
     standings = standings_data.get("standings", [])
@@ -547,10 +814,11 @@ def write_data(output: Path) -> None:
         with_colors(item)
 
     season_id = standings[0].get("seasonId") or datetime.now(timezone.utc).year
-    players = build_players(teams)
+    players = build_players(teams, season_id)
     add_roster_strength(teams, players)
     bracket = build_bracket(season_id)
-    player_comparisons = build_player_comparisons(players)
+    player_comparisons = build_player_comparisons(players, extra_ids=_young_prospect_ids(players))
+    road_to_glory = build_road_to_glory(player_comparisons, teams, players)
 
     payload = {
         "TEAMS": teams,
@@ -559,6 +827,7 @@ def write_data(output: Path) -> None:
         "BRACKET": bracket,
         "HISTORY_TEAMS": STATIC_HISTORY_TEAMS,
         "HISTORY_PLAYERS": STATIC_HISTORY_PLAYERS,
+        "ROAD_TO_GLORY": road_to_glory,
         "METHODOLOGY": METHODOLOGY,
         "SEASON": season_label(season_id),
         "LAST_UPDATE": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),

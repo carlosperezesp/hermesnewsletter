@@ -70,6 +70,18 @@ function Sparkline({ values, width = 56, height = 18 }) {
   );
 }
 
+// Progress bar with a threshold marker (red vertical line at threshold%)
+function ThresholdBar({ value, threshold, width = 160 }) {
+  const pct = Math.max(0, Math.min(100, value));
+  const markPct = Math.max(0, Math.min(100, threshold));
+  return (
+    <span className="threshold-bar" style={{ width }}>
+      <span className="threshold-bar__fill" style={{ width: `${pct}%` }} />
+      <span className="threshold-bar__mark" style={{ left: `${markPct}%` }} title={`Top-10 threshold: ${threshold}`} />
+    </span>
+  );
+}
+
 // ───────────────────────── Sortable Table ─────────────────────────
 // Columns: [{ key, label, render?, align?, sort?: (a,b)=>n, w?: cssWidth, numeric? }]
 function SortableTable({ columns, rows, defaultSort, onRowClick, rowKey, dense = false }) {
@@ -250,7 +262,7 @@ function MethodologyOverlay({ open, onClose, data }) {
 
 Object.assign(window, {
   MarginNote, WFLabel, Placeholder,
-  ScoreBar, Sparkline,
+  ScoreBar, Sparkline, ThresholdBar,
   SortableTable,
   PosBadge, TeamSwatch, StatusBadge, TierBadge,
   SectionHead,

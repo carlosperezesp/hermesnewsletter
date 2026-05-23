@@ -21,7 +21,7 @@ function App() {
   if (view.name === "current") {
     screen = <CurrentSeason onTeamClick={onTeamClick} onPlayerClick={onPlayerClick} onOpenMethodology={() => setMethodOpen(true)} />;
   } else if (view.name === "history") {
-    screen = <History onOpenMethodology={() => setMethodOpen(true)} />;
+    screen = <History onOpenMethodology={() => setMethodOpen(true)} onPlayerClick={onPlayerClick} />;
   } else if (view.name === "players") {
     screen = <PlayersCompare onOpenMethodology={() => setMethodOpen(true)} />;
   } else if (view.name === "team") {
