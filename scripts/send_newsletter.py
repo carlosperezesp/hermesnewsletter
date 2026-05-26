@@ -1007,37 +1007,126 @@ def tennis_html(d: dict) -> str:
 
 def cycling_html(d: dict) -> str:
     legends      = d.get("LEGENDS", [])
-    current_race = d.get("CURRENT_RACE") or {}
+    cr           = d.get("CURRENT_RACE") or {}
 
     def lg_meta(p):
         st = p.get("stats", {})
         return (f"{p.get('country','')} · Tour {st.get('tour',0)} · Giro {st.get('giro',0)} · "
                 f"Vuelta {st.get('vuelta',0)} · Monumentos {st.get('monuments',0)}")
 
-    current_race_html = ""
-    if current_race:
-        color  = current_race.get("primary", MUTED)
-        leader = current_race.get("leader", "")
-        name   = current_race.get("name", "")
-        stage  = current_race.get("stage", "")
-        current_race_html = (
-            f'<div style="font-size:13px;color:{INK};padding:10px 0">'
-            f'{swatch(color)}<b>{leader}</b> lidera — {name}'
-            f' <span style="color:{MUTED}">(etapa {stage})</span></div>'
+    def gc_table_html(gc: list) -> str:
+        rows = ""
+        for r in gc[:10]:
+            is_leader = r["rank"] == 1
+            time_color = INK if is_leader else INK2
+            time_style = f'font-weight:700;color:{INK}' if is_leader else f'color:{MUTED};font-family:monospace'
+            rows += (
+                f'<tr style="border-bottom:1px solid {RULE}">'
+                f'<td style="padding:8px 6px;font-size:14px;color:{MUTED};'
+                f'font-variant-numeric:tabular-nums;width:24px">{r["rank"]}</td>'
+                f'<td style="padding:8px 6px 8px 0;font-size:13px;font-weight:600;color:{INK}">'
+                f'{swatch(r["primary"])}{r["name"]}</td>'
+                f'<td style="padding:8px 4px;font-size:10px;color:{MUTED};'
+                f'font-family:monospace">{r.get("country","")}</td>'
+                f'<td style="padding:8px 4px;font-size:10px;color:{MUTED};'
+                f'font-family:monospace;max-width:90px;overflow:hidden">{r.get("team","")}</td>'
+                f'<td style="padding:8px 0;font-size:12px;{time_style};'
+                f'text-align:right;white-space:nowrap">{r.get("time","")}</td>'
+                f'</tr>'
+            )
+        return (f'<table cellpadding="0" cellspacing="0" border="0" '
+                f'style="width:100%;border-collapse:collapse">{rows}</table>')
+
+    def jersey_leaders_html() -> str:
+        pl = cr.get("points_leader") or {}
+        kl = cr.get("kom_leader") or {}
+        yl = cr.get("young_leader") or {}
+        jp = cr.get("jersey_primary", ACCENT)
+        def row(emoji, label, leader):
+            if not leader:
+                return ""
+            color = leader.get("primary", MUTED)
+            val   = leader.get("points") or leader.get("time") or ""
+            return (
+                f'<tr style="border-bottom:1px solid {RULE}">'
+                f'<td style="padding:9px 8px;font-size:18px;width:28px">{emoji}</td>'
+                f'<td style="padding:9px 6px 9px 0;vertical-align:top">'
+                f'<div style="font-size:9px;letter-spacing:.08em;text-transform:uppercase;'
+                f'color:{MUTED};font-family:monospace">{label}</div>'
+                f'<div style="font-size:13px;font-weight:600;color:{INK}">'
+                f'{swatch(color)}{leader.get("name","")}</div>'
+                f'<div style="font-size:11px;color:{MUTED};font-family:monospace">'
+                f'{leader.get("country","")} · {leader.get("team","")}</div>'
+                f'</td>'
+                f'<td style="padding:9px 0;font-size:16px;font-weight:700;color:{ACCENT};'
+                f'text-align:right;white-space:nowrap">{val}</td>'
+                f'</tr>'
+            )
+        rows = row("🟣", "Puntos (Maglia Ciclamino)", pl)
+        rows += row("🔵", "Montaña (Maglia Azzurra)", kl)
+        rows += row("⬜", "Joven (Maglia Bianca)", yl)
+        return (f'<table cellpadding="0" cellspacing="0" border="0" '
+                f'style="width:100%;border-collapse:collapse">{rows}</table>')
+
+    def last_stage_html() -> str:
+        ls = cr.get("last_stage") or {}
+        if not ls:
+            return f'<div style="color:{MUTED};font-family:monospace;padding:8px 0">Sin datos de etapa.</div>'
+        color    = ls.get("winner_primary", MUTED)
+        route    = f'{ls.get("from","")} → {ls.get("to","")}'.strip(" →")
+        type_map = {
+            "Flat stage": "Etapa llana",
+            "Mountain stage": "Etapa de montaña",
+            "Hilly stage": "Etapa con colinas",
+            "Individual time trial": "Contrarreloj individual",
+            "Team time trial": "Contrarreloj por equipos",
+        }
+        type_es = type_map.get(ls.get("type",""), ls.get("type",""))
+        return (
+            f'<div style="font-size:11px;color:{MUTED};font-family:monospace;margin-bottom:6px">'
+            f'{ls.get("date","")} · {type_es} · {route}</div>'
+            f'<div style="font-size:16px;font-weight:600;color:{INK};padding:6px 0">'
+            f'{swatch(color, 12)}{ls.get("winner","")}'
+            f' <span style="font-size:12px;color:{MUTED};font-weight:400">'
+            f'({ls.get("winner_cc","")})</span></div>'
+        )
+
+    if cr:
+        race_name  = cr.get("name","Gran Vuelta")
+        stage_num  = cr.get("stage", 0)
+        total_st   = cr.get("total_stages", 21)
+        gc         = cr.get("gc", [])
+        gc_leader  = gc[0]["name"] if gc else ""
+        jersey_nm  = cr.get("jersey_name","")
+        updated    = d.get("UPDATED","")
+        sections_html = (
+            section("Última etapa", f"Etapa {stage_num} de {total_st}",
+                    f"{race_name} 2026 · en directo",
+                    last_stage_html())
+            + section("Clasificación General", f"GC — Etapa {stage_num}/{total_st}",
+                      f"Líder: {gc_leader} · {jersey_nm}",
+                      gc_table_html(gc))
+            + section("Líderes de maillot",
+                      "Puntos · Montaña · Mejor joven",
+                      "Clasificaciones secundarias en curso.",
+                      jersey_leaders_html())
         )
     else:
-        current_race_html = (
+        sections_html = section(
+            "En curso", "Gran vuelta activa",
+            "No hay gran vuelta en curso actualmente.",
             f'<div style="padding:10px 0;font-size:13px;color:{MUTED};font-family:monospace">'
-            f'No hay gran vuelta en curso actualmente.</div>'
+            f'Próxima carrera: Tour de France (4 jul).</div>'
         )
 
     return (
         f'<div style="margin-top:32px"></div>'
-        + sport_header("Cycling", "2026", d.get("UPDATED",""), title="UCI Road Cycling")
-        + section("En curso", "Gran vuelta activa", "Estado en tiempo real.", current_race_html)
+        + sport_header("Cycling", "2026", d.get("UPDATED",""),
+                       title=cr.get("name","UCI Road Cycling") + " 2026" if cr else "UCI Road Cycling")
+        + sections_html
         + section("Road to Glory · Leyendas del Ciclismo",
                   "Los mejores de la historia",
-                  "Score: Tour/Giro/Vuelta × 5 + Monumentos × 3 + Mundiales × 4",
+                  "Tour × 12 · Giro × 9 · Vuelta × 8 · Monumentos × 4 · Mundiales × 5",
                   player_list_html(legends[:10], "legendScore", "Legend",
                                    lambda p: "", lg_meta))
     )

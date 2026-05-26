@@ -1,6 +1,6 @@
-// Auto-generated 2026-05-25 21:27 UTC
+// Auto-generated 2026-05-26 05:42 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-05-25 21:27 UTC",
+  "UPDATED": "2026-05-26 05:42 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -383,5 +383,141 @@ window.CYCLING_DATA = {
       }
     }
   ],
-  "CURRENT_RACE": null
+  "CURRENT_RACE": {
+    "name": "Giro d'Italia",
+    "stage": 15,
+    "total_stages": 21,
+    "jersey_primary": "#E8006D",
+    "jersey_name": "Maglia Rosa",
+    "last_stage": {
+      "stage": 15,
+      "date": "24 May",
+      "type": "Flat stage",
+      "from": "Voghera",
+      "to": "Milan",
+      "winner": "Fredrik Dversnes",
+      "winner_cc": "NOR",
+      "winner_primary": "#EF2B2D",
+      "winner_logo": "https://flagcdn.com/24x18/no.png"
+    },
+    "gc": [
+      {
+        "rank": 1,
+        "name": "Jonas Vingegaard",
+        "country": "DEN",
+        "logo": "https://flagcdn.com/24x18/dk.png",
+        "team": "TVL men",
+        "primary": "#C60C30",
+        "time": "59h 12' 56\""
+      },
+      {
+        "rank": 2,
+        "name": "Afonso Eulálio",
+        "country": "POR",
+        "logo": "https://flagcdn.com/24x18/pt.png",
+        "team": "TBV",
+        "primary": "#006600",
+        "time": "+ 2' 26\""
+      },
+      {
+        "rank": 3,
+        "name": "Felix Gall",
+        "country": "AUT",
+        "logo": "https://flagcdn.com/24x18/at.png",
+        "team": "DCT",
+        "primary": "#ED2939",
+        "time": "+ 2' 50\""
+      },
+      {
+        "rank": 4,
+        "name": "Thymen Arensman",
+        "country": "NED",
+        "logo": "https://flagcdn.com/24x18/nl.png",
+        "team": "NCI",
+        "primary": "#AE1C28",
+        "time": "+ 3' 03\""
+      },
+      {
+        "rank": 5,
+        "name": "Jai Hindley",
+        "country": "AUS",
+        "logo": "https://flagcdn.com/24x18/au.png",
+        "team": "RBH",
+        "primary": "#00008B",
+        "time": "+ 3' 43\""
+      },
+      {
+        "rank": 6,
+        "name": "Giulio Pellizzari",
+        "country": "ITA",
+        "logo": "https://flagcdn.com/24x18/it.png",
+        "team": "RBH",
+        "primary": "#009246",
+        "time": "+ 4' 22\""
+      },
+      {
+        "rank": 7,
+        "name": "Michael Storer",
+        "country": "AUS",
+        "logo": "https://flagcdn.com/24x18/au.png",
+        "team": "TUD",
+        "primary": "#00008B",
+        "time": "+ 4' 46\""
+      },
+      {
+        "rank": 8,
+        "name": "Ben O'Connor",
+        "country": "AUS",
+        "logo": "https://flagcdn.com/24x18/au.png",
+        "team": "JAY men",
+        "primary": "#00008B",
+        "time": "+ 5' 22\""
+      },
+      {
+        "rank": 9,
+        "name": "Derek Gee-West",
+        "country": "CAN",
+        "logo": "https://flagcdn.com/24x18/ca.png",
+        "team": "LTK men",
+        "primary": "#FF0000",
+        "time": "+ 5' 41\""
+      },
+      {
+        "rank": 10,
+        "name": "Davide Piganzoli",
+        "country": "ITA",
+        "logo": "https://flagcdn.com/24x18/it.png",
+        "team": "TVL men",
+        "primary": "#009246",
+        "time": "+ 6' 13\""
+      }
+    ],
+    "points_leader": {
+      "rank": 1,
+      "name": "Paul Magnier",
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "team": "SOQ",
+      "primary": "#002395",
+      "points": 145
+    },
+    "kom_leader": {
+      "rank": 1,
+      "name": "Jonas Vingegaard",
+      "country": "DEN",
+      "logo": "https://flagcdn.com/24x18/dk.png",
+      "team": "TVL men",
+      "primary": "#C60C30",
+      "points": 161
+    },
+    "young_leader": {
+      "rank": 1,
+      "name": "Afonso Eulálio",
+      "country": "POR",
+      "logo": "https://flagcdn.com/24x18/pt.png",
+      "team": "TBV",
+      "primary": "#006600",
+      "time": "59h 15' 22\""
+    }
+  }
 };

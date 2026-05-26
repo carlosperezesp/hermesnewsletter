@@ -844,7 +844,9 @@ function NewsletterApp() {
         {/* ── CYCLING ─────────────────────────────────────────── */}
         {window.CYCLING_DATA && (() => {
           const CYC = window.CYCLING_DATA;
+          const cr  = CYC.CURRENT_RACE;
           const cycLegends = (CYC.LEGENDS || []).map(p => ({ ...p, colors: { primary: p.primary, secondary: p.secondary } })).slice(0, 10);
+
           function cycNote(p) {
             const s = p.stats;
             const parts = [];
@@ -860,22 +862,111 @@ function NewsletterApp() {
             const status = s.birth >= 1985 ? "Activo" : "Retirado";
             return `Ciclismo · ${p.country} · ${s.birth} · ${status}`;
           }
+
+          const typeES = {
+            "Flat stage": "Etapa llana",
+            "Mountain stage": "Etapa de montaña",
+            "Hilly stage": "Etapa con colinas",
+            "Individual time trial": "Contrarreloj individual",
+            "Team time trial": "Contrarreloj por equipos",
+          };
+
           return (
             <>
               <header className="newsletter-hero" style={{ marginTop: 48 }}>
                 <div className="newsletter-hero__masthead">
                   <span>Ciclismo</span>
-                  <span>Road Cycling</span>
+                  <span>{cr ? cr.name : "Road Cycling"}</span>
                   <span>Actualizado {CYC.UPDATED}</span>
                 </div>
                 <div className="newsletter-hero__title-row">
-                  <h1>Grandes Vueltas · Leyendas</h1>
+                  <h1>{cr ? `${cr.name} 2026` : "Grandes Vueltas · Leyendas"}</h1>
                   <p>
-                    Score 0–100 ponderando Grandes Vueltas (TDF×12, Giro×9, Vuelta×8), Monumentos (×4) y Mundiales (×5).
-                    Merckx como referencia absoluta: 100.
+                    {cr
+                      ? `Etapa ${cr.stage} de ${cr.total_stages} · ${cr.jersey_name} · GC en directo.`
+                      : "Score 0–100 ponderando Grandes Vueltas (TDF×12, Giro×9, Vuelta×8), Monumentos (×4) y Mundiales (×5)."}
                   </p>
                 </div>
               </header>
+
+              {cr && cr.last_stage && (() => {
+                const ls = cr.last_stage;
+                return (
+                  <NewsletterSection
+                    kicker={`Etapa ${ls.stage} / ${cr.total_stages}`}
+                    title={`${ls.date} · ${typeES[ls.type] || ls.type}`}
+                    sub={`${ls.from} → ${ls.to}`}
+                  >
+                    <div style={{ display: "flex", alignItems: "center", gap: 10, padding: "12px 0" }}>
+                      <img src={ls.winner_logo} alt={ls.winner_cc} style={{ width: 24, height: 18, borderRadius: 2 }} />
+                      <span style={{ fontSize: 20, fontWeight: 700 }}>{ls.winner}</span>
+                      <span style={{ fontSize: 13, color: "var(--ink2, #555)", fontFamily: "monospace" }}>({ls.winner_cc})</span>
+                    </div>
+                  </NewsletterSection>
+                );
+              })()}
+
+              {cr && cr.gc && cr.gc.length > 0 && (
+                <NewsletterSection
+                  kicker={`Clasificación General — Etapa ${cr.stage}/${cr.total_stages}`}
+                  title="Top 10 GC"
+                  sub={`Líder: ${cr.gc[0].name} (${cr.jersey_name})`}
+                >
+                  <div className="newsletter-list">
+                    {cr.gc.map((r, i) => (
+                      <div key={r.name} style={{
+                        display: "flex", alignItems: "center", gap: 8,
+                        padding: "9px 0", borderBottom: "1px solid var(--rule,#eee)"
+                      }}>
+                        <span style={{ width: 24, fontSize: 15, color: "var(--muted,#888)", fontVariantNumeric: "tabular-nums", flexShrink: 0 }}>{r.rank}</span>
+                        <div style={{ width: 10, height: 10, borderRadius: 2, background: r.primary, flexShrink: 0 }} />
+                        <img src={r.logo} alt={r.country} style={{ width: 20, height: 15, borderRadius: 2, flexShrink: 0 }} />
+                        <div style={{ flex: 1, minWidth: 0 }}>
+                          <div style={{ fontWeight: 600, fontSize: 14 }}>{r.name}</div>
+                          <div style={{ fontSize: 11, color: "var(--muted,#888)", fontFamily: "monospace" }}>{r.team}</div>
+                        </div>
+                        <span style={{
+                          fontFamily: "monospace", fontSize: 13,
+                          fontWeight: i === 0 ? 700 : 400,
+                          color: i === 0 ? "var(--accent,#b84832)" : "var(--ink2,#555)",
+                          whiteSpace: "nowrap"
+                        }}>{r.time}</span>
+                      </div>
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
+
+              {cr && (cr.points_leader || cr.kom_leader || cr.young_leader) && (
+                <NewsletterSection
+                  kicker="Líderes de maillot"
+                  title="Puntos · Montaña · Mejor joven"
+                  sub="Clasificaciones secundarias en curso."
+                >
+                  <div className="newsletter-list">
+                    {[
+                      { emoji: "🟣", label: "Maglia Ciclamino — Puntos", leader: cr.points_leader, val: l => l.points != null ? `${l.points} pts` : "" },
+                      { emoji: "🔵", label: "Maglia Azzurra — Montaña", leader: cr.kom_leader,    val: l => l.points != null ? `${l.points} pts` : "" },
+                      { emoji: "⬜", label: "Maglia Bianca — Mejor joven", leader: cr.young_leader, val: l => l.time || "" },
+                    ].filter(x => x.leader).map(({ emoji, label, leader, val }) => (
+                      <div key={label} style={{
+                        display: "flex", alignItems: "center", gap: 10,
+                        padding: "10px 0", borderBottom: "1px solid var(--rule,#eee)"
+                      }}>
+                        <span style={{ fontSize: 20, width: 28, flexShrink: 0 }}>{emoji}</span>
+                        <img src={leader.logo} alt={leader.country} style={{ width: 20, height: 15, borderRadius: 2, flexShrink: 0 }} />
+                        <div style={{ flex: 1, minWidth: 0 }}>
+                          <div style={{ fontSize: 10, fontFamily: "monospace", color: "var(--muted,#888)", textTransform: "uppercase", letterSpacing: ".06em" }}>{label}</div>
+                          <div style={{ fontWeight: 600, fontSize: 14 }}>{leader.name}</div>
+                          <div style={{ fontSize: 11, color: "var(--muted,#888)", fontFamily: "monospace" }}>{leader.team}</div>
+                        </div>
+                        <span style={{ fontFamily: "monospace", fontSize: 14, fontWeight: 700, color: "var(--accent,#b84832)" }}>{val(leader)}</span>
+                      </div>
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
+
               <NewsletterSection
                 kicker="Road Cycling Legends"
                 title="Top 10 leyendas del ciclismo"
