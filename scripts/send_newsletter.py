@@ -1017,19 +1017,32 @@ def cycling_html(d: dict) -> str:
     def gc_table_html(gc: list) -> str:
         rows = ""
         for r in gc[:10]:
-            is_leader = r["rank"] == 1
-            time_color = INK if is_leader else INK2
+            is_leader  = r["rank"] == 1
             time_style = f'font-weight:700;color:{INK}' if is_leader else f'color:{MUTED};font-family:monospace'
+            lg_score   = r.get("legendScore", 0.0)
+            lg_pct     = min(100.0, lg_score)
+            fill_px    = round(60 * lg_pct / 100)
+            lg_bar     = (
+                f'<table cellpadding="0" cellspacing="0" border="0" '
+                f'style="display:inline-table;width:60px;height:4px;background:{BAR_BG};'
+                f'border-spacing:0;vertical-align:middle;margin-left:4px">'
+                f'<tr>'
+                f'<td style="width:{fill_px}px;background:{BAR_FILL};height:4px;padding:0"></td>'
+                f'<td style="background:{BAR_BG};height:4px;padding:0"></td>'
+                f'</tr></table>'
+                f'<span style="font-size:9px;color:{MUTED};font-family:monospace;'
+                f'margin-left:3px">{lg_score:.0f}</span>'
+            )
             rows += (
                 f'<tr style="border-bottom:1px solid {RULE}">'
                 f'<td style="padding:8px 6px;font-size:14px;color:{MUTED};'
                 f'font-variant-numeric:tabular-nums;width:24px">{r["rank"]}</td>'
                 f'<td style="padding:8px 6px 8px 0;font-size:13px;font-weight:600;color:{INK}">'
-                f'{swatch(r["primary"])}{r["name"]}</td>'
+                f'{swatch(r["primary"])}{r["name"]}'
+                f'<div style="margin-top:3px;display:flex;align-items:center">{lg_bar}</div>'
+                f'</td>'
                 f'<td style="padding:8px 4px;font-size:10px;color:{MUTED};'
                 f'font-family:monospace">{r.get("country","")}</td>'
-                f'<td style="padding:8px 4px;font-size:10px;color:{MUTED};'
-                f'font-family:monospace;max-width:90px;overflow:hidden">{r.get("team","")}</td>'
                 f'<td style="padding:8px 0;font-size:12px;{time_style};'
                 f'text-align:right;white-space:nowrap">{r.get("time","")}</td>'
                 f'</tr>'
@@ -1041,12 +1054,23 @@ def cycling_html(d: dict) -> str:
         pl = cr.get("points_leader") or {}
         kl = cr.get("kom_leader") or {}
         yl = cr.get("young_leader") or {}
-        jp = cr.get("jersey_primary", ACCENT)
         def row(emoji, label, leader):
             if not leader:
                 return ""
-            color = leader.get("primary", MUTED)
-            val   = leader.get("points") or leader.get("time") or ""
+            color    = leader.get("primary", MUTED)
+            val      = leader.get("points") or leader.get("time") or ""
+            lg_score = leader.get("legendScore", 0.0)
+            lg_pct   = min(100.0, lg_score)
+            fill_px  = round(50 * lg_pct / 100)
+            lg_bar   = (
+                f'<table cellpadding="0" cellspacing="0" border="0" '
+                f'style="display:inline-table;width:50px;height:4px;background:{BAR_BG};'
+                f'border-spacing:0;vertical-align:middle;margin-left:4px">'
+                f'<tr><td style="width:{fill_px}px;background:{BAR_FILL};height:4px;padding:0"></td>'
+                f'<td style="background:{BAR_BG};height:4px;padding:0"></td></tr></table>'
+                f'<span style="font-size:9px;color:{MUTED};font-family:monospace;margin-left:3px">'
+                f'{lg_score:.0f}/100</span>'
+            )
             return (
                 f'<tr style="border-bottom:1px solid {RULE}">'
                 f'<td style="padding:9px 8px;font-size:18px;width:28px">{emoji}</td>'
@@ -1055,11 +1079,13 @@ def cycling_html(d: dict) -> str:
                 f'color:{MUTED};font-family:monospace">{label}</div>'
                 f'<div style="font-size:13px;font-weight:600;color:{INK}">'
                 f'{swatch(color)}{leader.get("name","")}</div>'
-                f'<div style="font-size:11px;color:{MUTED};font-family:monospace">'
-                f'{leader.get("country","")} · {leader.get("team","")}</div>'
+                f'<div style="font-size:11px;color:{MUTED};font-family:monospace;'
+                f'margin-top:2px">{leader.get("country","")} · {leader.get("team","")}</div>'
+                f'<div style="margin-top:4px;display:inline-flex;align-items:center">'
+                f'{lg_bar}</div>'
                 f'</td>'
                 f'<td style="padding:9px 0;font-size:16px;font-weight:700;color:{ACCENT};'
-                f'text-align:right;white-space:nowrap">{val}</td>'
+                f'text-align:right;white-space:nowrap;vertical-align:top">{val}</td>'
                 f'</tr>'
             )
         rows = row("🟣", "Puntos (Maglia Ciclamino)", pl)
@@ -1091,6 +1117,26 @@ def cycling_html(d: dict) -> str:
             f'({ls.get("winner_cc","")})</span></div>'
         )
 
+    def next_stage_html() -> str:
+        ns = cr.get("next_stage") or {}
+        if not ns:
+            return f'<div style="color:{MUTED};font-family:monospace;padding:8px 0">Carrera finalizada.</div>'
+        type_map = {
+            "Flat stage": "Etapa llana",
+            "Mountain stage": "Etapa de montaña ⛰️",
+            "Hilly stage": "Etapa con colinas",
+            "Individual time trial": "Contrarreloj individual ⏱️",
+            "Team time trial": "Contrarreloj por equipos ⏱️",
+        }
+        type_es = type_map.get(ns.get("type",""), ns.get("type",""))
+        dist    = f' · {ns["dist_km"]} km' if ns.get("dist_km") else ""
+        route   = f'{ns.get("from","")} → {ns.get("to","")}'.strip(" →")
+        return (
+            f'<div style="font-size:14px;font-weight:600;color:{INK};padding:10px 0 4px">'
+            f'{ns.get("date","")} · {type_es}{dist}</div>'
+            f'<div style="font-size:12px;color:{INK2};font-family:monospace">{route}</div>'
+        )
+
     if cr:
         race_name  = cr.get("name","Gran Vuelta")
         stage_num  = cr.get("stage", 0)
@@ -1098,17 +1144,21 @@ def cycling_html(d: dict) -> str:
         gc         = cr.get("gc", [])
         gc_leader  = gc[0]["name"] if gc else ""
         jersey_nm  = cr.get("jersey_name","")
-        updated    = d.get("UPDATED","")
+        ns         = cr.get("next_stage") or {}
+        ns_label   = f'Etapa {ns["stage"]}' if ns else "Sin etapas pendientes"
         sections_html = (
             section("Última etapa", f"Etapa {stage_num} de {total_st}",
                     f"{race_name} 2026 · en directo",
                     last_stage_html())
+            + section("Próxima etapa", ns_label,
+                      f"{race_name} continúa mañana.",
+                      next_stage_html())
             + section("Clasificación General", f"GC — Etapa {stage_num}/{total_st}",
-                      f"Líder: {gc_leader} · {jersey_nm}",
+                      f"Líder: {gc_leader} · {jersey_nm} · Barra = score histórico leyendas (Merckx=100)",
                       gc_table_html(gc))
             + section("Líderes de maillot",
                       "Puntos · Montaña · Mejor joven",
-                      "Clasificaciones secundarias en curso.",
+                      "Barra = score histórico de leyendas (Merckx=100).",
                       jersey_leaders_html())
         )
     else:

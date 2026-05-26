@@ -1,6 +1,6 @@
-// Auto-generated 2026-05-26 05:42 UTC
+// Auto-generated 2026-05-26 06:00 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-05-26 05:42 UTC",
+  "UPDATED": "2026-05-26 06:00 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -393,12 +393,23 @@ window.CYCLING_DATA = {
       "stage": 15,
       "date": "24 May",
       "type": "Flat stage",
+      "dist_km": 157,
       "from": "Voghera",
       "to": "Milan",
+      "completed": true,
       "winner": "Fredrik Dversnes",
       "winner_cc": "NOR",
       "winner_primary": "#EF2B2D",
       "winner_logo": "https://flagcdn.com/24x18/no.png"
+    },
+    "next_stage": {
+      "stage": 16,
+      "date": "26 May",
+      "type": "Mountain stage",
+      "dist_km": 113,
+      "from": "Bellinzona",
+      "to": "Carì",
+      "completed": false
     },
     "gc": [
       {
@@ -408,7 +419,8 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/dk.png",
         "team": "TVL men",
         "primary": "#C60C30",
-        "time": "59h 12' 56\""
+        "time": "59h 12' 56\"",
+        "legendScore": 11.8
       },
       {
         "rank": 2,
@@ -417,7 +429,8 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/pt.png",
         "team": "TBV",
         "primary": "#006600",
-        "time": "+ 2' 26\""
+        "time": "+ 2' 26\"",
+        "legendScore": 0.0
       },
       {
         "rank": 3,
@@ -426,7 +439,8 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/at.png",
         "team": "DCT",
         "primary": "#ED2939",
-        "time": "+ 2' 50\""
+        "time": "+ 2' 50\"",
+        "legendScore": 0.0
       },
       {
         "rank": 4,
@@ -435,7 +449,8 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/nl.png",
         "team": "NCI",
         "primary": "#AE1C28",
-        "time": "+ 3' 03\""
+        "time": "+ 3' 03\"",
+        "legendScore": 0.0
       },
       {
         "rank": 5,
@@ -444,7 +459,8 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/au.png",
         "team": "RBH",
         "primary": "#00008B",
-        "time": "+ 3' 43\""
+        "time": "+ 3' 43\"",
+        "legendScore": 0.0
       },
       {
         "rank": 6,
@@ -453,7 +469,8 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/it.png",
         "team": "RBH",
         "primary": "#009246",
-        "time": "+ 4' 22\""
+        "time": "+ 4' 22\"",
+        "legendScore": 0.0
       },
       {
         "rank": 7,
@@ -462,7 +479,8 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/au.png",
         "team": "TUD",
         "primary": "#00008B",
-        "time": "+ 4' 46\""
+        "time": "+ 4' 46\"",
+        "legendScore": 0.0
       },
       {
         "rank": 8,
@@ -471,7 +489,8 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/au.png",
         "team": "JAY men",
         "primary": "#00008B",
-        "time": "+ 5' 22\""
+        "time": "+ 5' 22\"",
+        "legendScore": 0.0
       },
       {
         "rank": 9,
@@ -480,7 +499,8 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/ca.png",
         "team": "LTK men",
         "primary": "#FF0000",
-        "time": "+ 5' 41\""
+        "time": "+ 5' 41\"",
+        "legendScore": 0.0
       },
       {
         "rank": 10,
@@ -489,7 +509,8 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/it.png",
         "team": "TVL men",
         "primary": "#009246",
-        "time": "+ 6' 13\""
+        "time": "+ 6' 13\"",
+        "legendScore": 0.0
       }
     ],
     "points_leader": {
@@ -499,7 +520,8 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/fr.png",
       "team": "SOQ",
       "primary": "#002395",
-      "points": 145
+      "points": 145,
+      "legendScore": 0.0
     },
     "kom_leader": {
       "rank": 1,
@@ -508,7 +530,8 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/dk.png",
       "team": "TVL men",
       "primary": "#C60C30",
-      "points": 161
+      "points": 161,
+      "legendScore": 11.8
     },
     "young_leader": {
       "rank": 1,
@@ -517,7 +540,8 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/pt.png",
       "team": "TBV",
       "primary": "#006600",
-      "time": "59h 15' 22\""
+      "time": "59h 15' 22\"",
+      "legendScore": 0.0
     }
   }
 };

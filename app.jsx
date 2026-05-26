@@ -891,18 +891,35 @@ function NewsletterApp() {
 
               {cr && cr.last_stage && (() => {
                 const ls = cr.last_stage;
+                const ns = cr.next_stage;
                 return (
-                  <NewsletterSection
-                    kicker={`Etapa ${ls.stage} / ${cr.total_stages}`}
-                    title={`${ls.date} · ${typeES[ls.type] || ls.type}`}
-                    sub={`${ls.from} → ${ls.to}`}
-                  >
-                    <div style={{ display: "flex", alignItems: "center", gap: 10, padding: "12px 0" }}>
-                      <img src={ls.winner_logo} alt={ls.winner_cc} style={{ width: 24, height: 18, borderRadius: 2 }} />
-                      <span style={{ fontSize: 20, fontWeight: 700 }}>{ls.winner}</span>
-                      <span style={{ fontSize: 13, color: "var(--ink2, #555)", fontFamily: "monospace" }}>({ls.winner_cc})</span>
-                    </div>
-                  </NewsletterSection>
+                  <>
+                    <NewsletterSection
+                      kicker={`Etapa ${ls.stage} / ${cr.total_stages}`}
+                      title={`${ls.date} · ${typeES[ls.type] || ls.type}`}
+                      sub={`${ls.from} → ${ls.to}`}
+                    >
+                      <div style={{ display: "flex", alignItems: "center", gap: 10, padding: "12px 0" }}>
+                        <img src={ls.winner_logo} alt={ls.winner_cc} style={{ width: 24, height: 18, borderRadius: 2 }} />
+                        <span style={{ fontSize: 20, fontWeight: 700 }}>{ls.winner}</span>
+                        <span style={{ fontSize: 13, color: "var(--ink2,#555)", fontFamily: "monospace" }}>({ls.winner_cc})</span>
+                      </div>
+                    </NewsletterSection>
+                    {ns && (
+                      <NewsletterSection
+                        kicker={`Próxima · Etapa ${ns.stage} / ${cr.total_stages}`}
+                        title={`${ns.date} · ${typeES[ns.type] || ns.type}`}
+                        sub={`${ns.from} → ${ns.to}${ns.dist_km ? ` · ${ns.dist_km} km` : ""}`}
+                      >
+                        <div style={{ padding: "8px 0 4px", fontSize: 13, color: "var(--muted,#888)", fontFamily: "monospace" }}>
+                          {ns.type === "Mountain stage" ? "⛰️ Etapa reina — podría haber cambios en GC" :
+                           ns.type === "Individual time trial" ? "⏱️ Contrarreloj — favorece a los especialistas" :
+                           ns.type === "Flat stage" ? "🏁 Etapa llana — probable sprint masivo" :
+                           "Etapa en camino."}
+                        </div>
+                      </NewsletterSection>
+                    )}
+                  </>
                 );
               })()}
 
@@ -910,29 +927,40 @@ function NewsletterApp() {
                 <NewsletterSection
                   kicker={`Clasificación General — Etapa ${cr.stage}/${cr.total_stages}`}
                   title="Top 10 GC"
-                  sub={`Líder: ${cr.gc[0].name} (${cr.jersey_name})`}
+                  sub={`Líder: ${cr.gc[0].name} (${cr.jersey_name}) · Barra = score leyendas (Merckx=100)`}
                 >
                   <div className="newsletter-list">
-                    {cr.gc.map((r, i) => (
-                      <div key={r.name} style={{
-                        display: "flex", alignItems: "center", gap: 8,
-                        padding: "9px 0", borderBottom: "1px solid var(--rule,#eee)"
-                      }}>
-                        <span style={{ width: 24, fontSize: 15, color: "var(--muted,#888)", fontVariantNumeric: "tabular-nums", flexShrink: 0 }}>{r.rank}</span>
-                        <div style={{ width: 10, height: 10, borderRadius: 2, background: r.primary, flexShrink: 0 }} />
-                        <img src={r.logo} alt={r.country} style={{ width: 20, height: 15, borderRadius: 2, flexShrink: 0 }} />
-                        <div style={{ flex: 1, minWidth: 0 }}>
-                          <div style={{ fontWeight: 600, fontSize: 14 }}>{r.name}</div>
-                          <div style={{ fontSize: 11, color: "var(--muted,#888)", fontFamily: "monospace" }}>{r.team}</div>
+                    {cr.gc.map((r, i) => {
+                      const lgScore = r.legendScore || 0;
+                      return (
+                        <div key={r.name} style={{
+                          display: "flex", alignItems: "flex-start", gap: 8,
+                          padding: "9px 0", borderBottom: "1px solid var(--rule,#eee)"
+                        }}>
+                          <span style={{ width: 24, fontSize: 15, color: "var(--muted,#888)", fontVariantNumeric: "tabular-nums", flexShrink: 0, paddingTop: 2 }}>{r.rank}</span>
+                          <div style={{ width: 10, height: 10, borderRadius: 2, background: r.primary, flexShrink: 0, marginTop: 4 }} />
+                          <img src={r.logo} alt={r.country} style={{ width: 20, height: 15, borderRadius: 2, flexShrink: 0, marginTop: 3 }} />
+                          <div style={{ flex: 1, minWidth: 0 }}>
+                            <div style={{ fontWeight: 600, fontSize: 14 }}>{r.name}</div>
+                            <div style={{ fontSize: 11, color: "var(--muted,#888)", fontFamily: "monospace" }}>{r.team}</div>
+                            <div style={{ display: "flex", alignItems: "center", gap: 6, marginTop: 4 }}>
+                              <div style={{ width: 70, height: 4, background: "var(--bar-bg,#dedad6)", borderRadius: 2, overflow: "hidden" }}>
+                                <div style={{ width: `${lgScore}%`, height: "100%", background: lgScore > 0 ? "var(--bar-fill,#4a4745)" : "transparent", borderRadius: 2 }} />
+                              </div>
+                              <span style={{ fontSize: 10, color: "var(--muted,#888)", fontFamily: "monospace" }}>
+                                {lgScore > 0 ? `${lgScore.toFixed(0)}/100 leyenda` : "sin títulos aún"}
+                              </span>
+                            </div>
+                          </div>
+                          <span style={{
+                            fontFamily: "monospace", fontSize: 13,
+                            fontWeight: i === 0 ? 700 : 400,
+                            color: i === 0 ? "var(--accent,#b84832)" : "var(--ink2,#555)",
+                            whiteSpace: "nowrap", paddingTop: 2
+                          }}>{r.time}</span>
                         </div>
-                        <span style={{
-                          fontFamily: "monospace", fontSize: 13,
-                          fontWeight: i === 0 ? 700 : 400,
-                          color: i === 0 ? "var(--accent,#b84832)" : "var(--ink2,#555)",
-                          whiteSpace: "nowrap"
-                        }}>{r.time}</span>
-                      </div>
-                    ))}
+                      );
+                    })}
                   </div>
                 </NewsletterSection>
               )}
@@ -946,23 +974,34 @@ function NewsletterApp() {
                   <div className="newsletter-list">
                     {[
                       { emoji: "🟣", label: "Maglia Ciclamino — Puntos", leader: cr.points_leader, val: l => l.points != null ? `${l.points} pts` : "" },
-                      { emoji: "🔵", label: "Maglia Azzurra — Montaña", leader: cr.kom_leader,    val: l => l.points != null ? `${l.points} pts` : "" },
+                      { emoji: "🔵", label: "Maglia Azzurra — Montaña",  leader: cr.kom_leader,    val: l => l.points != null ? `${l.points} pts` : "" },
                       { emoji: "⬜", label: "Maglia Bianca — Mejor joven", leader: cr.young_leader, val: l => l.time || "" },
-                    ].filter(x => x.leader).map(({ emoji, label, leader, val }) => (
-                      <div key={label} style={{
-                        display: "flex", alignItems: "center", gap: 10,
-                        padding: "10px 0", borderBottom: "1px solid var(--rule,#eee)"
-                      }}>
-                        <span style={{ fontSize: 20, width: 28, flexShrink: 0 }}>{emoji}</span>
-                        <img src={leader.logo} alt={leader.country} style={{ width: 20, height: 15, borderRadius: 2, flexShrink: 0 }} />
-                        <div style={{ flex: 1, minWidth: 0 }}>
-                          <div style={{ fontSize: 10, fontFamily: "monospace", color: "var(--muted,#888)", textTransform: "uppercase", letterSpacing: ".06em" }}>{label}</div>
-                          <div style={{ fontWeight: 600, fontSize: 14 }}>{leader.name}</div>
-                          <div style={{ fontSize: 11, color: "var(--muted,#888)", fontFamily: "monospace" }}>{leader.team}</div>
+                    ].filter(x => x.leader).map(({ emoji, label, leader, val }) => {
+                      const lgScore = leader.legendScore || 0;
+                      return (
+                        <div key={label} style={{
+                          display: "flex", alignItems: "flex-start", gap: 10,
+                          padding: "10px 0", borderBottom: "1px solid var(--rule,#eee)"
+                        }}>
+                          <span style={{ fontSize: 20, width: 28, flexShrink: 0 }}>{emoji}</span>
+                          <img src={leader.logo} alt={leader.country} style={{ width: 20, height: 15, borderRadius: 2, flexShrink: 0, marginTop: 4 }} />
+                          <div style={{ flex: 1, minWidth: 0 }}>
+                            <div style={{ fontSize: 10, fontFamily: "monospace", color: "var(--muted,#888)", textTransform: "uppercase", letterSpacing: ".06em" }}>{label}</div>
+                            <div style={{ fontWeight: 600, fontSize: 14 }}>{leader.name}</div>
+                            <div style={{ fontSize: 11, color: "var(--muted,#888)", fontFamily: "monospace", marginTop: 1 }}>{leader.team}</div>
+                            <div style={{ display: "flex", alignItems: "center", gap: 6, marginTop: 4 }}>
+                              <div style={{ width: 60, height: 4, background: "var(--bar-bg,#dedad6)", borderRadius: 2, overflow: "hidden" }}>
+                                <div style={{ width: `${lgScore}%`, height: "100%", background: lgScore > 0 ? "var(--bar-fill,#4a4745)" : "transparent", borderRadius: 2 }} />
+                              </div>
+                              <span style={{ fontSize: 10, color: "var(--muted,#888)", fontFamily: "monospace" }}>
+                                {lgScore > 0 ? `${lgScore.toFixed(0)}/100` : "0/100"}
+                              </span>
+                            </div>
+                          </div>
+                          <span style={{ fontFamily: "monospace", fontSize: 14, fontWeight: 700, color: "var(--accent,#b84832)", paddingTop: 2 }}>{val(leader)}</span>
                         </div>
-                        <span style={{ fontFamily: "monospace", fontSize: 14, fontWeight: 700, color: "var(--accent,#b84832)" }}>{val(leader)}</span>
-                      </div>
-                    ))}
+                      );
+                    })}
                   </div>
                 </NewsletterSection>
               )}

@@ -201,28 +201,26 @@ def _parse_jersey_class(wt: str, score_type: str = "points") -> list[dict]:
     return sorted(riders, key=lambda r: r["rank"])[:10]
 
 def _parse_stages(wt: str) -> list[dict]:
-    """Parse stage table → list of completed stages (those with a winner)."""
+    """Parse stage table → all stages; completed ones have winner set."""
     stages: list[dict] = []
     for block in wt.split("|-"):
-        # Stage row has: ! scope="row" | [[...#Stage N|N]]
-        stage_m = re.search(r'!\s*scope="row"\s*\|\s*\[\[[^\]]+?#Stage (\d+)\|(\d+)\]\]', block)
+        stage_m = re.search(r'!\s*scope="row"\s*\|\s*\[\[[^\]]+?#Stage (\d+)\|\d+\]\]', block)
         if not stage_m:
             continue
         stage_num = int(stage_m.group(1))
-        fa = _parse_flagathlete(block)
-        if not fa:
-            continue  # no winner yet (future stage)
-        winner, cc3 = fa
         # Date
         date_m = re.search(r'style="text-align:right"\s*\|\s*(\d+\s+\w+)', block)
         stage_date = date_m.group(1).strip() if date_m else ""
         # Stage type
         type_m = re.search(
             r'(Flat stage|Mountain stage|Hilly stage|Individual time trial|Team time trial)',
-            block
+            block,
         )
         stage_type = type_m.group(1) if type_m else "Stage"
-        # Route: extract [[From]] ... [[To]] links, skip File: and years
+        # Distance
+        dist_m = re.search(r'\{\{convert\|(\d+)\|km\|', block)
+        dist_km = int(dist_m.group(1)) if dist_m else None
+        # Route: first two [[...]] links that aren't files or year pages
         links = re.findall(r'\[\[(?:([^\]|]+)\|)?([^\]|]+)\]\]', block)
         locs  = [
             (disp or page).strip()
@@ -231,17 +229,26 @@ def _parse_stages(wt: str) -> list[dict]:
         ]
         from_loc = locs[0] if locs else ""
         to_loc   = locs[1] if len(locs) > 1 else ""
-        stages.append({
-            "stage":          stage_num,
-            "date":           stage_date,
-            "type":           stage_type,
-            "from":           from_loc,
-            "to":             to_loc,
-            "winner":         winner,
-            "winner_cc":      cc3,
-            "winner_primary": _color(cc3),
-            "winner_logo":    _flag(cc3),
-        })
+        # Winner (None for future stages)
+        fa = _parse_flagathlete(block)
+        entry: dict = {
+            "stage":     stage_num,
+            "date":      stage_date,
+            "type":      stage_type,
+            "dist_km":   dist_km,
+            "from":      from_loc,
+            "to":        to_loc,
+            "completed": fa is not None,
+        }
+        if fa:
+            winner, cc3 = fa
+            entry.update({
+                "winner":         winner,
+                "winner_cc":      cc3,
+                "winner_primary": _color(cc3),
+                "winner_logo":    _flag(cc3),
+            })
+        stages.append(entry)
     return stages
 
 # ── Legends ───────────────────────────────────────────────────────────────────
@@ -298,7 +305,7 @@ def build_legends() -> list[dict]:
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
-def fetch_race_data(race: dict) -> dict:
+def fetch_race_data(race: dict, legends: list[dict]) -> dict:
     page  = race["wiki_page"]
     secs  = race["sections"]
     print(f"[Cycling] Fetching {page}…", file=sys.stderr)
@@ -315,20 +322,36 @@ def fetch_race_data(race: dict) -> dict:
     kom_class    = _parse_jersey_class(wt_kom,   "points")
     young_class  = _parse_jersey_class(wt_young, "time")
 
-    current_stage = _current_stage_from_caption(wt_gc) or len(stages)
-    last_stage    = stages[-1] if stages else None
+    current_stage = _current_stage_from_caption(wt_gc) or sum(1 for s in stages if s["completed"])
+    last_stage    = next((s for s in reversed(stages) if s["completed"]), None)
+    next_stage    = next((s for s in stages if not s["completed"]), None)
+
+    # Legend score lookup by normalised name
+    legend_map = {lg["name"].lower(): lg["legendScore"] for lg in legends}
+    def _legend_score(name: str) -> float:
+        return legend_map.get(name.lower(), 0.0)
+
+    for r in gc:
+        r["legendScore"] = _legend_score(r["name"])
+    for r in points_class:
+        r["legendScore"] = _legend_score(r["name"])
+    for r in kom_class:
+        r["legendScore"] = _legend_score(r["name"])
+    for r in young_class:
+        r["legendScore"] = _legend_score(r["name"])
 
     return {
-        "name":          race["name"],
-        "stage":         current_stage,
-        "total_stages":  race["total_stages"],
+        "name":           race["name"],
+        "stage":          current_stage,
+        "total_stages":   race["total_stages"],
         "jersey_primary": race["jersey_primary"],
-        "jersey_name":   race["jersey_name"],
-        "last_stage":    last_stage,
-        "gc":            gc,
-        "points_leader": points_class[0] if points_class else None,
-        "kom_leader":    kom_class[0]    if kom_class    else None,
-        "young_leader":  young_class[0]  if young_class  else None,
+        "jersey_name":    race["jersey_name"],
+        "last_stage":     last_stage,
+        "next_stage":     next_stage,
+        "gc":             gc,
+        "points_leader":  points_class[0] if points_class else None,
+        "kom_leader":     kom_class[0]    if kom_class    else None,
+        "young_leader":   young_class[0]  if young_class  else None,
     }
 
 
@@ -340,7 +363,7 @@ def write_data() -> None:
     current_race = None
     if race_meta:
         try:
-            current_race = fetch_race_data(race_meta)
+            current_race = fetch_race_data(race_meta, legends)
         except Exception as exc:
             print(f"[WARN] Race data fetch failed: {exc}", file=sys.stderr)
 
