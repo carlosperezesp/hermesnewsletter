@@ -21,7 +21,7 @@ function getAlivePlayoffTeams(bracket) {
   return alive;
 }
 
-function NewsletterRankRow({ rank, item, alive, score, scoreDisplay, scoreLabel, meta, note, threshold, logo }) {
+function NewsletterRankRow({ rank, item, alive, score, scoreDisplay, scoreLabel, meta, note, threshold, logo, scoreB, scoreBLabel }) {
   const isAlive = alive.size === 0 || alive.has(item.teamCode);
   const displayed = scoreDisplay !== undefined ? scoreDisplay : score;
 
@@ -35,7 +35,7 @@ function NewsletterRankRow({ rank, item, alive, score, scoreDisplay, scoreLabel,
           <span className="newsletter-row__meta">{meta}</span>
         </span>
       </span>
-      <span className="newsletter-row__score">
+      <span className="newsletter-row__score" style={{ alignItems: "flex-end" }}>
         <span className="newsletter-row__score-label">{scoreLabel}</span>
         {threshold ? (
           <span className="newsletter-row__threshold">
@@ -44,6 +44,12 @@ function NewsletterRankRow({ rank, item, alive, score, scoreDisplay, scoreLabel,
           </span>
         ) : (
           <span className="newsletter-row__score-value">{displayed}</span>
+        )}
+        {scoreB !== undefined && (
+          <span style={{ display: "flex", flexDirection: "column", alignItems: "flex-end", marginTop: 2 }}>
+            <span style={{ fontSize: 8, letterSpacing: "0.08em", textTransform: "uppercase", color: "var(--muted,#888)", fontFamily: "monospace" }}>{scoreBLabel}</span>
+            <span style={{ fontFamily: "monospace", fontSize: 11, color: "var(--muted,#888)", lineHeight: 1.2 }}>{typeof scoreB === "number" ? scoreB.toFixed(1) : scoreB}</span>
+          </span>
         )}
       </span>
       {note && <span className="newsletter-row__note">{note}</span>}
@@ -142,8 +148,21 @@ function NewsletterApp() {
 
   // Tennis data
   const TENNIS = window.TENNIS_DATA;
-  const tennisATP = useMemo(() => (TENNIS?.ATP || []).map(p => ({ ...p, colors: { primary: p.primary, secondary: p.secondary } })).slice(0, 10), [TENNIS]);
-  const tennisWTA = useMemo(() => (TENNIS?.WTA || []).map(p => ({ ...p, colors: { primary: p.primary, secondary: p.secondary } })).slice(0, 10), [TENNIS]);
+  const tennisATPFull = useMemo(() => (TENNIS?.ATP || []).map(p => ({ ...p, colors: { primary: p.primary, secondary: p.secondary } })), [TENNIS]);
+  const tennisWTAFull = useMemo(() => (TENNIS?.WTA || []).map(p => ({ ...p, colors: { primary: p.primary, secondary: p.secondary } })), [TENNIS]);
+  const tennisATP = useMemo(() => tennisATPFull.slice(0, 10), [tennisATPFull]);
+  const tennisWTA = useMemo(() => tennisWTAFull.slice(0, 10), [tennisWTAFull]);
+  function tennisDisplayList(base, full, aliveSet, minAlive = 2) {
+    if (aliveSet.size === 0) return base;
+    let list = [...base];
+    const aliveCount = () => list.filter(p => aliveSet.has(p.id)).length;
+    const seen = new Set(list.map(p => p.id));
+    for (const p of full) {
+      if (aliveCount() >= minAlive) break;
+      if (!seen.has(p.id) && aliveSet.has(p.id)) { list.push(p); seen.add(p.id); }
+    }
+    return list;
+  }
   function tennisPlayerMeta(player, tour) {
     const gs = player.stats?.gs || 0;
     const wk = player.stats?.weeks_no1 || 0;
@@ -156,7 +175,7 @@ function NewsletterApp() {
     if (player.surface?.hard != null) surfParts.push(`H:${Math.round(player.surface.hard * 100)}%`);
     if (player.surface?.clay != null) surfParts.push(`C:${Math.round(player.surface.clay * 100)}%`);
     if (player.surface?.grass != null) surfParts.push(`G:${Math.round(player.surface.grass * 100)}%`);
-    return `Legend ${player.legendScore}${surfParts.length ? " · " + surfParts.join(" · ") : ""}`;
+    return surfParts.join(" · ");
   }
 
   // NBA data
@@ -203,6 +222,15 @@ function NewsletterApp() {
   return (
     <div className="app app--newsletter">
       <main className="newsletter" style={{ display: "flex", flexDirection: "column" }}>
+
+        {/* ── HERMES MASTHEAD ───────────────────────────────── */}
+        <div style={{ order: -9999, textAlign: "center", padding: "48px 0 36px", borderBottom: "2px solid var(--ink,#1a1714)" }}>
+          <div style={{ fontSize: 10, letterSpacing: "0.25em", textTransform: "uppercase", color: "var(--muted,#888)", fontFamily: "monospace", marginBottom: 10 }}>Sports Newsletter</div>
+          <h1 style={{ fontSize: 72, fontFamily: "Newsreader, serif", fontWeight: 600, letterSpacing: "-0.03em", color: "var(--ink,#1a1714)", margin: 0, lineHeight: 1 }}>Hermes</h1>
+          <div style={{ fontSize: 11, color: "var(--muted,#888)", fontFamily: "monospace", marginTop: 14 }}>
+            {new Date().toLocaleDateString("es-ES", { weekday: "long", year: "numeric", month: "long", day: "numeric" })}
+          </div>
+        </div>
 
         <div style={{ order: -Math.round((D?.IMPORTANCE || 5) * 10) }}>
         {/* ── NHL ─────────────────────────────────────────── */}
@@ -709,8 +737,26 @@ function NewsletterApp() {
         {TENNIS && (() => {
           const atpChanges  = TENNIS.ATP_CHANGES  || { entered: [], exited: [] };
           const wtaChanges  = TENNIS.WTA_CHANGES  || { entered: [], exited: [] };
-          const atpLegends  = (TENNIS.ATP_LEGENDS || []).slice(0, 10).map(p => ({ ...p, colors: { primary: p.primary, secondary: p.secondary } }));
-          const wtaLegends  = (TENNIS.WTA_LEGENDS || []).slice(0, 10).map(p => ({ ...p, colors: { primary: p.primary, secondary: p.secondary } }));
+
+          // Merge historical legends with active players by legendScore.
+          // Active players use the richer formula score (normalized to Djokovic/Graf=100).
+          function buildLegendsMerged(histKey, activeList) {
+            const activeByName = Object.fromEntries(activeList.map(p => [p.name, p]));
+            const hist = (TENNIS[histKey] || []).map(p => {
+              const act = activeByName[p.name];
+              // Use richer active legendScore for current players so scores are on same scale
+              return { ...p, colors: { primary: p.primary, secondary: p.secondary },
+                        legendScore: act ? act.legendScore : p.legendScore,
+                        active: act ? true : (p.active || false) };
+            });
+            const seenNames = new Set(hist.map(p => p.name));
+            const activeExtra = activeList
+              .filter(p => p.legendScore > 0 && !seenNames.has(p.name))
+              .map(p => ({ ...p, colors: { primary: p.primary, secondary: p.secondary }, active: true }));
+            return [...hist, ...activeExtra].sort((a, b) => b.legendScore - a.legendScore).slice(0, 12);
+          }
+          const atpLegends = buildLegendsMerged("ATP_LEGENDS", tennisATPFull);
+          const wtaLegends = buildLegendsMerged("WTA_LEGENDS", tennisWTAFull);
 
           function ChangesRow({ changes, tour }) {
             const { entered = [], exited = [], prev_date = "", curr_date = "" } = changes;
@@ -759,11 +805,11 @@ function NewsletterApp() {
               <NewsletterSection
                 kicker="ATP Singles"
                 title="Top 10 ATP Singles — Score activo"
-                sub="Score 0–100 basado en forma reciente, Elo, ranking y win-rate por superficie."
+                sub="Score activo: forma reciente, Elo, ranking y win-rate por superficie. Score leyenda: trayectoria histórica."
               >
                 <ChangesRow changes={atpChanges} tour="ATP" />
                 <div className="newsletter-list">
-                  {tennisATP.map((player, i) => (
+                  {tennisDisplayList(tennisATP, tennisATPFull, new Set()).map((player, i) => (
                     <NewsletterRankRow
                       key={player.id}
                       rank={i + 1}
@@ -771,6 +817,8 @@ function NewsletterApp() {
                       alive={new Set()}
                       score={player.activeScore}
                       scoreLabel="Active"
+                      scoreB={player.legendScore}
+                      scoreBLabel="Legend"
                       meta={tennisPlayerMeta(player, "ATP")}
                       note={tennisPlayerNote(player)}
                       logo={player.logo}
@@ -782,11 +830,11 @@ function NewsletterApp() {
               <NewsletterSection
                 kicker="WTA Singles"
                 title="Top 10 WTA Singles — Score activo"
-                sub="Score 0–100 basado en forma reciente, Elo, ranking y win-rate por superficie."
+                sub="Score activo: forma reciente, Elo, ranking y win-rate por superficie. Score leyenda: trayectoria histórica."
               >
                 <ChangesRow changes={wtaChanges} tour="WTA" />
                 <div className="newsletter-list">
-                  {tennisWTA.map((player, i) => (
+                  {tennisDisplayList(tennisWTA, tennisWTAFull, new Set()).map((player, i) => (
                     <NewsletterRankRow
                       key={player.id}
                       rank={i + 1}
@@ -794,6 +842,8 @@ function NewsletterApp() {
                       alive={new Set()}
                       score={player.activeScore}
                       scoreLabel="Active"
+                      scoreB={player.legendScore}
+                      scoreBLabel="Legend"
                       meta={tennisPlayerMeta(player, "WTA")}
                       note={tennisPlayerNote(player)}
                       logo={player.logo}
@@ -814,11 +864,11 @@ function NewsletterApp() {
                       key={p.id}
                       rank={i + 1}
                       item={p}
-                      alive={new Set(atpLegends.filter(l => l.active).map(l => l.id))}
+                      alive={new Set()}
                       score={p.legendScore}
                       scoreLabel="Legend"
-                      meta={`ATP · ${p.country} · ${p.stats.birth}`}
-                      note={`${p.stats.gs} GS · ${p.stats.year_end_no1}× #1 año · ${p.stats.weeks_no1} sem #1`}
+                      meta={`ATP · ${p.country} · ${p.stats?.birth || ""}${p.active ? " · 🟢 Activo" : ""}`}
+                      note={`${p.stats?.gs || 0} GS · ${p.stats?.year_end_no1 || 0}× #1 año · ${p.stats?.weeks_no1 || 0} sem #1`}
                       logo={p.logo}
                     />
                   ))}
@@ -836,11 +886,11 @@ function NewsletterApp() {
                       key={p.id}
                       rank={i + 1}
                       item={p}
-                      alive={new Set(wtaLegends.filter(l => l.active).map(l => l.id))}
+                      alive={new Set()}
                       score={p.legendScore}
                       scoreLabel="Legend"
-                      meta={`WTA · ${p.country} · ${p.stats.birth}`}
-                      note={`${p.stats.gs} GS · ${p.stats.year_end_no1}× #1 año · ${p.stats.weeks_no1} sem #1`}
+                      meta={`WTA · ${p.country} · ${p.stats?.birth || ""}${p.active ? " · 🟢 Activo" : ""}`}
+                      note={`${p.stats?.gs || 0} GS · ${p.stats?.year_end_no1 || 0}× #1 año · ${p.stats?.weeks_no1 || 0} sem #1`}
                       logo={p.logo}
                     />
                   ))}
