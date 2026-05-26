@@ -169,7 +169,7 @@ def player_list_html(players: list[dict],
                      threshold: float | None = None) -> str:
     rows = ""
     for i, p in enumerate(players[:10], 1):
-        primary = p.get("colors", {}).get("primary", "#666")
+        primary = p.get("colors", {}).get("primary") or p.get("primary", "#666")
         score_val = p.get(score_key, 0)
         gap_txt = ""
         bar_html = ""
@@ -214,7 +214,7 @@ def team_list_html(teams: list[dict],
                    threshold: float | None = None) -> str:
     rows = ""
     for i, t in enumerate(teams[:10], 1):
-        primary = t.get("colors", {}).get("primary", "#666")
+        primary = t.get("colors", {}).get("primary") or t.get("primary", "#666")
         score_val = t.get(score_key, 0)
         gap_txt = ""
         bar_html = ""
@@ -268,7 +268,8 @@ def section(kicker: str, title: str, sub: str, body: str) -> str:
     )
 
 
-def sport_header(sport: str, season: str, last_update: str) -> str:
+def sport_header(sport: str, season: str, last_update: str, title: str = "") -> str:
+    display = title or f"{sport} Playoffs"
     top_border = f'border-top:4px solid {INK}'
     return (
         f'<div style="background:{PAPER};{top_border};border-bottom:1px solid {INK};'
@@ -276,7 +277,7 @@ def sport_header(sport: str, season: str, last_update: str) -> str:
         f'<div style="font-size:9px;letter-spacing:.12em;text-transform:uppercase;'
         f'color:{MUTED};font-family:monospace;margin-bottom:4px">{sport} Tracker · {season}</div>'
         f'<div style="font-size:42px;font-weight:700;color:{INK};letter-spacing:-.02em;'
-        f'line-height:1">{sport} Playoffs</div>'
+        f'line-height:1">{display}</div>'
         f'<div style="font-size:11px;color:{MUTED};font-family:monospace;margin-top:6px">'
         f'Actualizado {last_update}</div>'
         f'</div>'
@@ -576,23 +577,569 @@ def mlb_html(d: dict) -> str:
     )
 
 
+# ── NFL ───────────────────────────────────────────────────────────
+
+NFL_DIV_ORDER = ["AFC East", "AFC North", "AFC South", "AFC West",
+                 "NFC East", "NFC North", "NFC South", "NFC West"]
+
+
+def nfl_html(d: dict) -> str:
+    team_map = {t["code"]: t for t in d.get("TEAMS", [])}
+    players  = d.get("PLAYERS", [])
+    status   = d.get("SEASON_STATUS", "")
+    bracket  = d.get("BRACKET", {})
+
+    qbs = sorted([p for p in players if p.get("stats", {}).get("type") == "passing"],
+                 key=lambda p: -p["score"])[:10]
+
+    def p_meta(p):
+        tn  = team_map.get(p["teamCode"], {}).get("commonName", p["teamCode"])
+        age = f" · {p['age']} años" if p.get("age") else ""
+        return f"NFL · {p.get('pos','')} · {tn}{age}"
+
+    def p_note(p):
+        st = p.get("stats", {})
+        t  = st.get("type", "")
+        if t == "passing":
+            return f"{st.get('yds',0)} yds · {st.get('td',0)} TD · {st.get('int',0)} INT"
+        if t == "rushing":
+            return f"{st.get('yds',0)} yds · {st.get('td',0)} TD"
+        if t == "receiving":
+            return f"{st.get('yds',0)} yds · {st.get('td',0)} TD · {st.get('rec',0)} rec"
+        return ""
+
+    def nfl_standings_html() -> str:
+        div_map = {div: [] for div in NFL_DIV_ORDER}
+        for t in d.get("TEAMS", []):
+            div = t.get("div", "")
+            if div in div_map:
+                div_map[div].append(t)
+        for div in div_map:
+            div_map[div].sort(key=lambda t: (-t["w"], t["l"]))
+
+        div_head = (f'font-size:10px;letter-spacing:.1em;text-transform:uppercase;'
+                    f'color:{MUTED};font-family:monospace;padding:8px 0 4px;'
+                    f'border-bottom:1px solid {RULE};display:block;margin-bottom:2px')
+
+        def div_col(divs: list[str]) -> str:
+            out = ""
+            for div in divs:
+                out += f'<span style="{div_head}">{div}</span>'
+                for i, t in enumerate(div_map.get(div, []), 1):
+                    out += (
+                        f'<table cellpadding="0" cellspacing="0" border="0" '
+                        f'style="width:100%;border-spacing:0;padding:4px 0"><tr>'
+                        f'<td style="width:20px;color:{MUTED};font-size:11px;font-family:monospace">{i}</td>'
+                        f'<td style="padding:0 4px">{swatch(t["colors"]["primary"], 8)}'
+                        f'<span style="font-size:13px;font-weight:600;color:{INK}">{t["shortName"]}</span></td>'
+                        f'<td style="text-align:right;font-size:12px;font-family:monospace;color:{INK2};white-space:nowrap">'
+                        f'{t["w"]}–{t["l"]}</td>'
+                        f'</tr></table>'
+                    )
+            return out
+
+        afc_divs = [d for d in NFL_DIV_ORDER if d.startswith("AFC")]
+        nfc_divs = [d for d in NFL_DIV_ORDER if d.startswith("NFC")]
+        return (
+            f'<table cellpadding="0" cellspacing="0" border="0" style="width:100%;border-spacing:0"><tr>'
+            f'<td style="vertical-align:top;width:48%;padding-right:16px;border-right:1px solid {RULE}">'
+            f'{div_col(afc_divs)}</td>'
+            f'<td style="width:4%"></td>'
+            f'<td style="vertical-align:top;width:48%;padding-left:16px">{div_col(nfc_divs)}</td>'
+            f'</tr></table>'
+        )
+
+    has_playoffs = bool(
+        (bracket.get("afc", {}).get("wc") or [{}])[0].get("hi") or
+        (bracket.get("nfc", {}).get("wc") or [{}])[0].get("hi")
+    )
+    team_colors = {code: t["colors"]["primary"] for code, t in team_map.items()}
+
+    def nfl_bracket_html() -> str:
+        round_labels = {"wc": "Wild Card", "div": "Divisional", "conf": "Conf. Champ."}
+        def conf_col(conf: str) -> str:
+            rows = ""
+            for rnd, label in round_labels.items():
+                for s in bracket.get(conf, {}).get(rnd, []):
+                    rows += _series_row(s, label, team_colors)
+            if conf == "afc":
+                for s in bracket.get("sb", []):
+                    rows += _series_row(s, "Super Bowl", team_colors)
+            return (f'<table cellpadding="0" cellspacing="0" border="0" '
+                    f'style="width:100%;border-spacing:0">{rows}</table>')
+        conf_head = (f'font-size:10px;letter-spacing:.1em;text-transform:uppercase;'
+                     f'color:{MUTED};font-family:monospace;padding-bottom:8px;display:block')
+        return (
+            f'<table cellpadding="0" cellspacing="0" border="0" style="width:100%;border-spacing:0"><tr>'
+            f'<td style="width:48%;vertical-align:top;padding:0 16px 0 0;border-right:1px solid {RULE}">'
+            f'<span style="{conf_head}">AFC</span>{conf_col("afc")}</td>'
+            f'<td style="width:4%"></td>'
+            f'<td style="width:48%;vertical-align:top;padding:0 0 0 16px">'
+            f'<span style="{conf_head}">NFC</span>{conf_col("nfc")}</td>'
+            f'</tr></table>'
+        )
+
+    standings_or_bracket = (
+        section("Playoff bracket", "Camino al Super Bowl",
+                "Wild Card → Divisional → Conf. Champ. → Super Bowl.",
+                nfl_bracket_html())
+        if has_playoffs else
+        section("Clasificación final", f"NFL {d.get('SEASON','')} · Standings por división",
+                "Temporada regular finalizada — ordenados por victorias.",
+                nfl_standings_html())
+    )
+
+    return (
+        f'<div style="margin-top:32px"></div>'
+        + sport_header("NFL", d.get("SEASON",""), d.get("LAST_UPDATE",""),
+                       title="NFL Season")
+        + standings_or_bracket
+        + section("Top quarterbacks", "Top 10 QBs de la temporada",
+                  "Score percentil — yds, TD, INT, completion% ponderados.",
+                  player_list_html(qbs, "score", "Score", p_note, p_meta))
+    )
+
+
+# ── F1 ────────────────────────────────────────────────────────────
+
+def f1_html(d: dict) -> str:
+    drivers      = d.get("DRIVERS", [])
+    constructors = d.get("CONSTRUCTORS", [])
+    last_race    = d.get("LAST_RACE") or {}
+    legends      = d.get("LEGENDS", [])
+    round_num    = d.get("ROUND", 0)
+    total        = d.get("TOTAL_ROUNDS", 0)
+    max_pts      = d.get("MAX_SEASON_PTS", 1)
+    remaining    = max(0, total - round_num)
+    second_pts   = drivers[1]["points"] if len(drivers) > 1 else 0
+    threshold    = min(second_pts + remaining * 25 + 1, max_pts) if remaining > 0 else None
+
+    def d_meta(p):
+        return f"F1 · {p.get('country','')} · {p.get('teamCode','')}"
+
+    def d_note(p):
+        wins = p.get("wins", 0)
+        return f"{wins} victoira{'s' if wins != 1 else ''} · {remaining} carreras restantes"
+
+    def podium_html() -> str:
+        if not last_race:
+            return '<p style="color:{MUTED};font-size:13px">Sin datos de carrera.</p>'
+        podium = last_race.get("podium", [])
+        rows = ""
+        medals = ["🥇", "🥈", "🥉"]
+        for pos in podium[:3]:
+            color   = pos.get("primary", MUTED)
+            medal   = medals[pos["position"] - 1] if pos["position"] <= 3 else str(pos["position"])
+            rows += (
+                f'<tr style="border-bottom:1px solid {RULE}">'
+                f'<td style="padding:9px 8px;font-size:16px;width:28px">{medal}</td>'
+                f'<td style="padding:9px 8px 9px 0;font-size:13px;font-weight:600;color:{INK}">'
+                f'{swatch(color)}{pos.get("name","")}</td>'
+                f'<td style="padding:9px 0;font-size:11px;color:{MUTED};font-family:monospace;'
+                f'text-align:right">{pos.get("team","")}</td>'
+                f'</tr>'
+            )
+        name    = last_race.get("name","")
+        circuit = last_race.get("circuit","")
+        date    = last_race.get("date","")
+        return (
+            f'<div style="font-size:11px;color:{MUTED};font-family:monospace;margin-bottom:8px">'
+            f'{circuit} · {date}</div>'
+            f'<table cellpadding="0" cellspacing="0" border="0" '
+            f'style="width:100%;border-collapse:collapse">{rows}</table>'
+        )
+
+    def lg_meta(p):
+        st = p.get("stats", {})
+        return (f"{p.get('country','')} · {st.get('titles',0)} títulos · "
+                f"{st.get('wins',0)} victorias · {st.get('poles',0)} poles")
+
+    return (
+        f'<div style="margin-top:32px"></div>'
+        + sport_header("F1", d.get("SEASON",""), d.get("UPDATED",""),
+                       title="F1 World Championship")
+        + section("Última carrera", last_race.get("name","Última carrera"),
+                  f"Ronda {round_num}/{total}",
+                  podium_html())
+        + section("Campeonato de Pilotos",
+                  f"Top 10 — Temporada {d.get('SEASON','')}",
+                  f"Puntos máximos de temporada: {max_pts}. Umbral para ser campeón: {threshold} pts.",
+                  player_list_html(drivers[:10], "points", "Puntos", d_note, d_meta, threshold))
+        + section("Campeonato de Constructores",
+                  "Top Constructores",
+                  "Clasificación acumulada por escudería.",
+                  player_list_html(constructors[:10], "points", "Puntos",
+                                   lambda c: c.get("id",""),
+                                   lambda c: ""))
+        + section("Road to Glory · Leyendas F1",
+                  "Los mejores de la historia",
+                  "Score: títulos × 10 + victorias × 0.2 + poles × 0.1",
+                  player_list_html(legends[:10], "legendScore", "Legend",
+                                   lambda p: "", lg_meta))
+    )
+
+
+# ── MotoGP ────────────────────────────────────────────────────────
+
+def motogp_html(d: dict) -> str:
+    riders    = d.get("RIDERS", [])
+    last_race = d.get("LAST_RACE") or {}
+    legends   = d.get("LEGENDS", [])
+    round_num = d.get("ROUND", 0)
+    total     = d.get("TOTAL_ROUNDS", 0)
+    max_pts   = d.get("MAX_SEASON_PTS", 1)
+    remaining = max(0, total - round_num)
+    second_pts = riders[1]["points"] if len(riders) > 1 else 0
+    threshold  = min(second_pts + remaining * 25 + 1, max_pts) if remaining > 0 else None
+
+    def r_meta(p):
+        return f"MotoGP · {p.get('country','')} · {p.get('bike','')}"
+
+    def r_note(p):
+        return f"{remaining} carreras restantes en la temporada"
+
+    def lg_meta(p):
+        st = p.get("stats", {})
+        return (f"{p.get('country','')} · {st.get('titles',0)} títulos · "
+                f"{st.get('wins',0)} victorias · {st.get('poles',0)} poles")
+
+    last_winner_html = ""
+    if last_race:
+        color = last_race.get("primary", MUTED)
+        last_winner_html = (
+            f'<div style="font-size:13px;color:{INK};padding:10px 0">'
+            f'{swatch(color)}<b>{last_race.get("winner","")}</b>'
+            f' <span style="color:{MUTED}">({last_race.get("bike","")})</span> — '
+            f'Ronda {last_race.get("round","")} · {last_race.get("name","")}</div>'
+        )
+
+    return (
+        f'<div style="margin-top:32px"></div>'
+        + sport_header("MotoGP", d.get("SEASON",""), d.get("UPDATED",""),
+                       title="MotoGP World Championship")
+        + section("Última carrera", last_race.get("name","Última carrera"),
+                  f"Ronda {round_num}/{total}",
+                  last_winner_html)
+        + section("Campeonato de Pilotos",
+                  f"Top 10 — Temporada {d.get('SEASON','')}",
+                  f"Puntos máximos: {max_pts}. Umbral para ser campeón: {threshold} pts.",
+                  player_list_html(riders[:10], "points", "Puntos", r_note, r_meta, threshold))
+        + section("Road to Glory · Leyendas MotoGP",
+                  "Los mejores de la historia",
+                  "Score: títulos × 10 + victorias × 0.2 + poles × 0.1",
+                  player_list_html(legends[:10], "legendScore", "Legend",
+                                   lambda p: "", lg_meta))
+    )
+
+
+# ── AFL ───────────────────────────────────────────────────────────
+
+def afl_html(d: dict) -> str:
+    ladder     = d.get("LADDER", [])
+    last_round = d.get("LAST_ROUND", [])
+    legends    = d.get("LEGENDS", [])
+    round_num  = d.get("ROUND", 0)
+
+    def ladder_html() -> str:
+        rows = ""
+        for i, t in enumerate(ladder[:18], 1):
+            color = t.get("primary", MUTED)
+            pct   = f"{t.get('percentage', 0):.1f}%"
+            marker = ""
+            if i == 8:
+                marker = (f'<tr><td colspan="4" style="padding:2px 0;font-size:9px;'
+                          f'letter-spacing:.08em;text-transform:uppercase;color:{MUTED};'
+                          f'font-family:monospace;border-bottom:2px solid {ACCENT}">Línea playoff</td></tr>')
+            rows += (
+                marker +
+                f'<tr style="border-bottom:1px solid {RULE}">'
+                f'<td style="padding:7px 8px;font-size:14px;color:{MUTED};width:28px;'
+                f'font-family:monospace">{i}</td>'
+                f'<td style="padding:7px 4px;font-size:13px;font-weight:600;color:{INK}">'
+                f'{swatch(color, 8)}{t.get("name","")}</td>'
+                f'<td style="padding:7px 8px;font-size:12px;font-family:monospace;color:{INK2};'
+                f'text-align:right;white-space:nowrap">{t.get("wins",0)}–{t.get("losses",0)}</td>'
+                f'<td style="padding:7px 0 7px 8px;font-size:11px;color:{MUTED};'
+                f'font-family:monospace;text-align:right">{pct}</td>'
+                f'</tr>'
+            )
+        return (f'<table cellpadding="0" cellspacing="0" border="0" '
+                f'style="width:100%;border-collapse:collapse">{rows}</table>')
+
+    def results_html() -> str:
+        rows = ""
+        for g in last_round:
+            hw = g.get("winner") == g.get("hteam")
+            aw = g.get("winner") == g.get("ateam")
+            h_style = f'font-weight:{"700" if hw else "400"};color:{INK if hw else MUTED}'
+            a_style = f'font-weight:{"700" if aw else "400"};color:{INK if aw else MUTED}'
+            rows += (
+                f'<tr style="border-bottom:1px solid {RULE}">'
+                f'<td style="padding:7px 8px 7px 0;font-size:12px;{h_style}">'
+                f'{swatch(g.get("hprimary", MUTED), 8)}{g.get("hteam","")}</td>'
+                f'<td style="padding:7px 4px;font-size:12px;font-family:monospace;'
+                f'color:{INK};text-align:center;white-space:nowrap">'
+                f'{g.get("hscore","")} – {g.get("ascore","")}</td>'
+                f'<td style="padding:7px 0 7px 8px;font-size:12px;{a_style};text-align:right">'
+                f'{g.get("ateam","")}{swatch(g.get("aprimary", MUTED), 8)}</td>'
+                f'</tr>'
+            )
+        return (f'<table cellpadding="0" cellspacing="0" border="0" '
+                f'style="width:100%;border-collapse:collapse">{rows}</table>')
+
+    def lg_meta(p):
+        st = p.get("stats", {})
+        return (f"{p.get('teamCode','')} · {st.get('flags',0)} flags VFL/AFL · "
+                f"{st.get('brownlow',0)} Brownlow · {st.get('all_aus',0)} All-Australian")
+
+    return (
+        f'<div style="margin-top:32px"></div>'
+        + sport_header("AFL", d.get("SEASON",""), d.get("UPDATED",""),
+                       title="AFL Season")
+        + section("Clasificación", f"AFL {d.get('SEASON','')} — Jornada {round_num}",
+                  "Ordenado por puntos de competición. Los 8 primeros clasifican a playoffs.",
+                  ladder_html())
+        + section("Última jornada", f"Resultados — Ronda {round_num}",
+                  "Resultados de la última ronda completada.",
+                  results_html())
+        + section("Road to Glory · Leyendas VFL/AFL",
+                  "Los mejores de la historia",
+                  "Score: flags × 8 + Brownlow × 5 + All-Australian × 1.5",
+                  player_list_html(legends[:10], "legendScore", "Legend",
+                                   lambda p: "", lg_meta))
+    )
+
+
+# ── Tennis ────────────────────────────────────────────────────────
+
+def tennis_html(d: dict) -> str:
+    atp       = d.get("ATP", [])
+    wta       = d.get("WTA", [])
+    atp_ch    = d.get("ATP_CHANGES", {})
+    wta_ch    = d.get("WTA_CHANGES", {})
+    atp_lg    = d.get("ATP_LEGENDS", [])
+    wta_lg    = d.get("WTA_LEGENDS", [])
+
+    def p_meta(p):
+        sf  = p.get("surface") or {}
+        h   = int((sf.get("hard")  or 0) * 100)
+        cl  = int((sf.get("clay")  or 0) * 100)
+        gr  = int((sf.get("grass") or 0) * 100)
+        return f"{p.get('country','')} · Dura {h}% · Tierra {cl}% · Hierba {gr}%"
+
+    def p_note(p):
+        st = p.get("stats", {})
+        return f"{st.get('gs',0)} GS · {st.get('titles',0)} títulos · #{p.get('rank','')}"
+
+    def lg_meta(p):
+        st = p.get("stats", {})
+        return (f"{p.get('country','')} · {st.get('gs',0)} Grand Slams · "
+                f"{st.get('year_end_no1',0)} cierres #1 · {st.get('weeks_no1',0)} semanas #1")
+
+    def changes_html(ch: dict) -> str:
+        entered = ch.get("entered", [])
+        exited  = ch.get("exited", [])
+        prev    = ch.get("prev_date", "")
+        curr    = ch.get("curr_date", "")
+        if not entered and not exited:
+            return (f'<div style="padding:10px 0;font-size:13px;color:{MUTED};'
+                    f'font-family:monospace">Sin cambios vs {prev}</div>')
+        rows = ""
+        for p in entered:
+            color = p.get("primary", GOOD)
+            rows += (
+                f'<tr style="border-bottom:1px solid {RULE}">'
+                f'<td style="padding:7px 0;font-size:20px;color:{GOOD};width:24px">↑</td>'
+                f'<td style="padding:7px 8px;font-size:13px;font-weight:600;color:{INK}">'
+                f'{swatch(color)}{p.get("name","")}</td>'
+                f'<td style="padding:7px 0;font-size:12px;font-family:monospace;'
+                f'color:{GOOD};text-align:right">#{p.get("rank","")}</td>'
+                f'</tr>'
+            )
+        for p in exited:
+            color = p.get("primary", ACCENT)
+            rows += (
+                f'<tr style="border-bottom:1px solid {RULE}">'
+                f'<td style="padding:7px 0;font-size:20px;color:{ACCENT};width:24px">↓</td>'
+                f'<td style="padding:7px 8px;font-size:13px;font-weight:600;color:{MUTED}">'
+                f'{swatch(color)}{p.get("name","")}</td>'
+                f'<td style="padding:7px 0;font-size:12px;font-family:monospace;'
+                f'color:{MUTED};text-align:right">salió</td>'
+                f'</tr>'
+            )
+        return (
+            f'<div style="font-size:11px;color:{MUTED};font-family:monospace;margin-bottom:6px">'
+            f'{prev} → {curr}</div>'
+            f'<table cellpadding="0" cellspacing="0" border="0" '
+            f'style="width:100%;border-collapse:collapse">{rows}</table>'
+        )
+
+    updated = d.get("UPDATED", "")
+    return (
+        f'<div style="margin-top:32px"></div>'
+        + sport_header("Tennis", "2026", updated, title="ATP · WTA Rankings")
+        + section("ATP Top 10", "Ranking ATP — esta semana",
+                  "Score de actividad: forma, superficie, ranking WTA/ATP combinado.",
+                  player_list_html(atp[:10], "activeScore", "Score", p_note, p_meta))
+        + section("Cambios ATP Top 10", "Quién entra y sale del top 10",
+                  "Comparado con el ranking de la semana pasada.",
+                  changes_html(atp_ch))
+        + section("WTA Top 10", "Ranking WTA — esta semana",
+                  "Score de actividad: forma, superficie, ranking WTA/ATP combinado.",
+                  player_list_html(wta[:10], "activeScore", "Score", p_note, p_meta))
+        + section("Cambios WTA Top 10", "Quién entra y sale del top 10",
+                  "Comparado con el ranking de la semana pasada.",
+                  changes_html(wta_ch))
+        + section("Road to Glory · Leyendas ATP",
+                  "Los mejores de la historia (ATP)",
+                  "Score: GS × 12 + cierres #1 × 3 + semanas #1 ÷ 10",
+                  player_list_html(atp_lg[:10], "legendScore", "Legend",
+                                   lambda p: "", lg_meta))
+        + section("Road to Glory · Leyendas WTA",
+                  "Los mejores de la historia (WTA)",
+                  "Score: GS × 12 + cierres #1 × 3 + semanas #1 ÷ 10",
+                  player_list_html(wta_lg[:10], "legendScore", "Legend",
+                                   lambda p: "", lg_meta))
+    )
+
+
+# ── Cycling ───────────────────────────────────────────────────────
+
+def cycling_html(d: dict) -> str:
+    legends      = d.get("LEGENDS", [])
+    current_race = d.get("CURRENT_RACE") or {}
+
+    def lg_meta(p):
+        st = p.get("stats", {})
+        return (f"{p.get('country','')} · Tour {st.get('tour',0)} · Giro {st.get('giro',0)} · "
+                f"Vuelta {st.get('vuelta',0)} · Monumentos {st.get('monuments',0)}")
+
+    current_race_html = ""
+    if current_race:
+        color  = current_race.get("primary", MUTED)
+        leader = current_race.get("leader", "")
+        name   = current_race.get("name", "")
+        stage  = current_race.get("stage", "")
+        current_race_html = (
+            f'<div style="font-size:13px;color:{INK};padding:10px 0">'
+            f'{swatch(color)}<b>{leader}</b> lidera — {name}'
+            f' <span style="color:{MUTED}">(etapa {stage})</span></div>'
+        )
+    else:
+        current_race_html = (
+            f'<div style="padding:10px 0;font-size:13px;color:{MUTED};font-family:monospace">'
+            f'No hay gran vuelta en curso actualmente.</div>'
+        )
+
+    return (
+        f'<div style="margin-top:32px"></div>'
+        + sport_header("Cycling", "2026", d.get("UPDATED",""), title="UCI Road Cycling")
+        + section("En curso", "Gran vuelta activa", "Estado en tiempo real.", current_race_html)
+        + section("Road to Glory · Leyendas del Ciclismo",
+                  "Los mejores de la historia",
+                  "Score: Tour/Giro/Vuelta × 5 + Monumentos × 3 + Mundiales × 4",
+                  player_list_html(legends[:10], "legendScore", "Legend",
+                                   lambda p: "", lg_meta))
+    )
+
+
+# ── Sumo ──────────────────────────────────────────────────────────
+
+def sumo_html(d: dict) -> str:
+    banzuke   = d.get("BANZUKE", [])
+    basho     = d.get("BASHO_INFO") or {}
+    legends   = d.get("LEGENDS", [])
+
+    def banzuke_html() -> str:
+        yokozuna = [w for w in banzuke if "Yokozuna" in w.get("rankLabel","")]
+        ozeki    = [w for w in banzuke if "Ozeki" in w.get("rankLabel","")]
+        top_wr   = (yokozuna + ozeki)[:10]
+        rows = ""
+        for w in top_wr:
+            record  = f"{w.get('wins',0)}–{w.get('losses',0)}"
+            if w.get("absences", 0) > 0:
+                record += f"–{w['absences']}A"
+            rank = w.get("rankLabel","").replace(" East","E").replace(" West","W")
+            rows += (
+                f'<tr style="border-bottom:1px solid {RULE}">'
+                f'<td style="padding:7px 8px 7px 0;font-size:11px;color:{MUTED};'
+                f'font-family:monospace;white-space:nowrap">{rank}</td>'
+                f'<td style="padding:7px 4px;font-size:13px;font-weight:600;color:{INK}">'
+                f'{swatch(ACCENT, 8)}{w.get("name","")}</td>'
+                f'<td style="padding:7px 0;font-size:12px;font-family:monospace;'
+                f'color:{INK2};text-align:right">{record}</td>'
+                f'</tr>'
+            )
+        return (f'<table cellpadding="0" cellspacing="0" border="0" '
+                f'style="width:100%;border-collapse:collapse">{rows}</table>')
+
+    def lg_meta(p):
+        st = p.get("stats", {})
+        return (f"{p.get('country','')} · {st.get('yusho',0)} campeonatos (yusho) · "
+                f"{st.get('yokozuna_basho',0)} basho como Yokozuna")
+
+    winner      = basho.get("winner","")
+    basho_id    = basho.get("id","")
+    start       = basho.get("startDate","")[:10]
+    end         = basho.get("endDate","")[:10]
+    basho_note  = f"Basho {basho_id} · {start} – {end}" if basho_id else "Sin basho activo"
+    winner_html = (
+        f'<div style="font-size:13px;color:{INK};padding:10px 0">'
+        f'{swatch(ACCENT)}<b>Campeón: {winner}</b> <span style="color:{MUTED}">({basho_note})</span></div>'
+        if winner else
+        f'<div style="padding:10px 0;font-size:13px;color:{MUTED};font-family:monospace">'
+        f'{basho_note}</div>'
+    )
+
+    return (
+        f'<div style="margin-top:32px"></div>'
+        + sport_header("Sumo", "2026", d.get("UPDATED",""), title="Sumo — Banzuke")
+        + section("Último basho", "Campeón del torneo",
+                  basho_note, winner_html)
+        + section("Banzuke — Yokozuna y Ōzeki",
+                  "Luchadores de mayor rango activos",
+                  "Registro en el último basho.",
+                  banzuke_html())
+        + section("Road to Glory · Leyendas del Sumo",
+                  "Los mejores de la historia",
+                  "Score: yusho × 10 + basho como Yokozuna × 0.5",
+                  player_list_html(legends[:10], "legendScore", "Legend",
+                                   lambda p: "", lg_meta))
+    )
+
+
 # ── Assemble ──────────────────────────────────────────────────────
 
-def build_email(nhl: dict, nba: dict, mlb: dict) -> str:
+def build_email(nhl: dict, nba: dict, mlb: dict,
+                nfl: dict | None = None, f1: dict | None = None,
+                motogp: dict | None = None, afl: dict | None = None,
+                tennis: dict | None = None, cycling: dict | None = None,
+                sumo: dict | None = None) -> str:
     today = date.today().strftime("%-d de %B de %Y")
-    body  = nhl_html(nhl) + (nba_html(nba) if nba else "") + (mlb_html(mlb) if mlb else "")
+    body  = (
+        nhl_html(nhl)
+        + (nba_html(nba)       if nba     else "")
+        + (mlb_html(mlb)       if mlb     else "")
+        + (nfl_html(nfl)       if nfl     else "")
+        + (f1_html(f1)         if f1      else "")
+        + (motogp_html(motogp) if motogp  else "")
+        + (afl_html(afl)       if afl     else "")
+        + (tennis_html(tennis) if tennis  else "")
+        + (cycling_html(cycling) if cycling else "")
+        + (sumo_html(sumo)     if sumo    else "")
+    )
     footer = (
         f'<div style="background:{BG};border-top:1px solid #d5d2ce;padding:16px 28px;'
         f'font-size:10px;color:{MUTED};font-family:monospace">'
-        f'NHL + NBA + MLB Tracker &nbsp;·&nbsp; {today} &nbsp;·&nbsp; '
-        f'scripts/send_newsletter.py'
+        f'Hermes Newsletter &nbsp;·&nbsp; {today} &nbsp;·&nbsp; '
+        f'NHL · NBA · MLB · NFL · F1 · MotoGP · AFL · Tennis · Cycling · Sumo'
         f'</div>'
     )
     return (
         f'<!doctype html><html lang="es"><head>'
         f'<meta charset="utf-8">'
         f'<meta name="viewport" content="width=device-width,initial-scale=1">'
-        f'<title>Tracker Newsletter</title>'
+        f'<title>Hermes Newsletter</title>'
         f'</head>'
         f'<body style="margin:0;padding:0;background:{BG};'
         f'font-family:Arial,Helvetica,sans-serif;font-size:14px;color:{INK}">'
@@ -605,21 +1152,33 @@ def build_email(nhl: dict, nba: dict, mlb: dict) -> str:
 
 # ── Main ──────────────────────────────────────────────────────────
 
+ALL_UPDATES = [
+    ("NHL",     "update_data.py"),
+    ("NBA",     "update_nba_data.py"),
+    ("MLB",     "update_mlb_data.py"),
+    ("NFL",     "update_nfl_data.py"),
+    ("Tennis",  "update_tennis_data.py"),
+    ("Cycling", "update_cycling_data.py"),
+    ("Sumo",    "update_sumo_data.py"),
+    ("F1",      "update_f1_data.py"),
+    ("AFL",     "update_afl_data.py"),
+    ("MotoGP",  "update_motogp_data.py"),
+]
+
+
 def main() -> int:
     load_env()
 
-    # Update all data first — independent of email password
-    print("Actualizando datos NHL…")
-    subprocess.run([sys.executable, str(ROOT / "scripts" / "update_data.py")], check=True)
-
-    print("Actualizando datos NBA…")
-    subprocess.run([sys.executable, str(ROOT / "scripts" / "update_nba_data.py")], check=True)
-
-    print("Actualizando datos MLB…")
-    subprocess.run([sys.executable, str(ROOT / "scripts" / "update_mlb_data.py")], check=True)
-
-    print("Actualizando datos NFL…")
-    subprocess.run([sys.executable, str(ROOT / "scripts" / "update_nfl_data.py")], check=True)
+    for sport, script in ALL_UPDATES:
+        path = ROOT / "scripts" / script
+        if path.exists():
+            print(f"Actualizando {sport}…")
+            try:
+                subprocess.run([sys.executable, str(path)], check=True)
+            except subprocess.CalledProcessError as e:
+                print(f"[WARN] {sport} update failed: {e}", file=sys.stderr)
+        else:
+            print(f"[SKIP] {script} not found", file=sys.stderr)
 
     password = os.environ.get("GMAIL_APP_PASSWORD", "").replace(" ", "").strip()
     if not password:
@@ -629,19 +1188,26 @@ def main() -> int:
             "  GMAIL_APP_PASSWORD=xxxxxxxxxxxxxxxxxxxx",
             file=sys.stderr,
         )
-        return 0  # exit 0: data updated successfully, email skipped
+        return 0
 
-    nhl = load_js_data(ROOT / "data.js")
-    nba = load_js_data(ROOT / "nba_data.js")
-    mlb = load_js_data(ROOT / "mlb_data.js")
+    nhl     = load_js_data(ROOT / "data.js")
+    nba     = load_js_data(ROOT / "nba_data.js")
+    mlb     = load_js_data(ROOT / "mlb_data.js")
+    nfl     = load_js_data(ROOT / "nfl_data.js")
+    f1      = load_js_data(ROOT / "f1_data.js")
+    motogp  = load_js_data(ROOT / "motogp_data.js")
+    afl     = load_js_data(ROOT / "afl_data.js")
+    tennis  = load_js_data(ROOT / "tennis_data.js")
+    cycling = load_js_data(ROOT / "cycling_data.js")
+    sumo    = load_js_data(ROOT / "sumo_data.js")
 
     if not nhl:
         print("Error: data.js vacío.", file=sys.stderr)
         return 1
 
-    html    = build_email(nhl, nba, mlb)
+    html    = build_email(nhl, nba, mlb, nfl, f1, motogp, afl, tennis, cycling, sumo)
     today   = date.today().strftime("%d %b %Y")
-    subject = f"NHL + NBA + MLB Tracker · {today}"
+    subject = f"Hermes Newsletter · {today}"
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
