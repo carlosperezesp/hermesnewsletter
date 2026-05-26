@@ -1,6 +1,6 @@
-// Auto-generated 2026-05-25 21:27 UTC
+// Auto-generated 2026-05-26 11:55 UTC
 window.SUMO_DATA = {
-  "UPDATED": "2026-05-25 21:27 UTC",
+  "UPDATED": "2026-05-26 11:55 UTC",
   "LEGENDS": [
     {
       "id": "hakuho",
@@ -213,7 +213,10 @@ window.SUMO_DATA = {
       "name": "Hoshoryu",
       "wins": 0,
       "losses": 2,
-      "absences": 13
+      "absences": 13,
+      "rankShort": "Yokozuna",
+      "yusho": 3,
+      "legendScore": 7.1
     },
     {
       "side": "West",
@@ -222,7 +225,10 @@ window.SUMO_DATA = {
       "name": "Onosato",
       "wins": 0,
       "losses": 0,
-      "absences": 15
+      "absences": 15,
+      "rankShort": "Yokozuna",
+      "yusho": 5,
+      "legendScore": 10.5
     },
     {
       "side": "East",
@@ -231,7 +237,10 @@ window.SUMO_DATA = {
       "name": "Kotozakura",
       "wins": 3,
       "losses": 9,
-      "absences": 3
+      "absences": 3,
+      "rankShort": "Ozeki",
+      "yusho": 1,
+      "legendScore": 1.9
     },
     {
       "side": "West",
@@ -240,7 +249,10 @@ window.SUMO_DATA = {
       "name": "Aonishiki",
       "wins": 0,
       "losses": 0,
-      "absences": 15
+      "absences": 15,
+      "rankShort": "Ozeki",
+      "yusho": 2,
+      "legendScore": 3.7
     },
     {
       "side": "East",
@@ -249,7 +261,10 @@ window.SUMO_DATA = {
       "name": "Kirishima",
       "wins": 12,
       "losses": 3,
-      "absences": 0
+      "absences": 0,
+      "rankShort": "Ozeki",
+      "yusho": 3,
+      "legendScore": 5.6
     },
     {
       "side": "East",
@@ -258,7 +273,10 @@ window.SUMO_DATA = {
       "name": "Atamifuji",
       "wins": 9,
       "losses": 6,
-      "absences": 0
+      "absences": 0,
+      "rankShort": "Sekiwake",
+      "yusho": 0,
+      "legendScore": 0.0
     },
     {
       "side": "West",
@@ -267,7 +285,10 @@ window.SUMO_DATA = {
       "name": "Kotoshoho",
       "wins": 9,
       "losses": 6,
-      "absences": 0
+      "absences": 0,
+      "rankShort": "Sekiwake",
+      "yusho": 1,
+      "legendScore": 1.9
     },
     {
       "side": "East",
@@ -276,7 +297,10 @@ window.SUMO_DATA = {
       "name": "Wakatakakage",
       "wins": 12,
       "losses": 3,
-      "absences": 0
+      "absences": 0,
+      "rankShort": "Komusubi",
+      "yusho": 2,
+      "legendScore": 3.7
     },
     {
       "side": "West",
@@ -285,7 +309,10 @@ window.SUMO_DATA = {
       "name": "Takayasu",
       "wins": 2,
       "losses": 2,
-      "absences": 11
+      "absences": 11,
+      "rankShort": "Komusubi",
+      "yusho": 0,
+      "legendScore": 0.0
     },
     {
       "side": "East",
@@ -294,7 +321,10 @@ window.SUMO_DATA = {
       "name": "Fujinokawa",
       "wins": 7,
       "losses": 8,
-      "absences": 0
+      "absences": 0,
+      "rankShort": "Maegashira 1",
+      "yusho": 0,
+      "legendScore": 0.0
     },
     {
       "side": "West",
@@ -303,7 +333,10 @@ window.SUMO_DATA = {
       "name": "Takanosho",
       "wins": 7,
       "losses": 8,
-      "absences": 0
+      "absences": 0,
+      "rankShort": "Maegashira 1",
+      "yusho": 0,
+      "legendScore": 0.0
     },
     {
       "side": "East",
@@ -312,7 +345,10 @@ window.SUMO_DATA = {
       "name": "Yoshinofuji",
       "wins": 11,
       "losses": 4,
-      "absences": 0
+      "absences": 0,
+      "rankShort": "Maegashira 2",
+      "yusho": 0,
+      "legendScore": 0.0
     },
     {
       "side": "West",
@@ -321,7 +357,10 @@ window.SUMO_DATA = {
       "name": "Ichiyamamoto",
       "wins": 6,
       "losses": 9,
-      "absences": 0
+      "absences": 0,
+      "rankShort": "Maegashira 2",
+      "yusho": 0,
+      "legendScore": 0.0
     },
     {
       "side": "East",
@@ -330,7 +369,10 @@ window.SUMO_DATA = {
       "name": "Hiradoumi",
       "wins": 7,
       "losses": 8,
-      "absences": 0
+      "absences": 0,
+      "rankShort": "Maegashira 3",
+      "yusho": 0,
+      "legendScore": 0.0
     },
     {
       "side": "West",
@@ -339,7 +381,10 @@ window.SUMO_DATA = {
       "name": "Oho",
       "wins": 9,
       "losses": 6,
-      "absences": 0
+      "absences": 0,
+      "rankShort": "Maegashira 3",
+      "yusho": 0,
+      "legendScore": 0.0
     },
     {
       "side": "East",
@@ -348,7 +393,10 @@ window.SUMO_DATA = {
       "name": "Daieisho",
       "wins": 7,
       "losses": 8,
-      "absences": 0
+      "absences": 0,
+      "rankShort": "Maegashira 4",
+      "yusho": 1,
+      "legendScore": 1.9
     },
     {
       "side": "West",
@@ -357,7 +405,10 @@ window.SUMO_DATA = {
       "name": "Gonoyama",
       "wins": 8,
       "losses": 7,
-      "absences": 0
+      "absences": 0,
+      "rankShort": "Maegashira 4",
+      "yusho": 0,
+      "legendScore": 0.0
     },
     {
       "side": "East",
@@ -366,7 +417,10 @@ window.SUMO_DATA = {
       "name": "Wakamotoharu",
       "wins": 5,
       "losses": 10,
-      "absences": 0
+      "absences": 0,
+      "rankShort": "Maegashira 5",
+      "yusho": 0,
+      "legendScore": 0.0
     },
     {
       "side": "West",
@@ -375,7 +429,10 @@ window.SUMO_DATA = {
       "name": "Shodai",
       "wins": 6,
       "losses": 9,
-      "absences": 0
+      "absences": 0,
+      "rankShort": "Maegashira 5",
+      "yusho": 0,
+      "legendScore": 0.0
     },
     {
       "side": "East",
@@ -384,7 +441,10 @@ window.SUMO_DATA = {
       "name": "Churanoumi",
       "wins": 9,
       "losses": 6,
-      "absences": 0
+      "absences": 0,
+      "rankShort": "Maegashira 6",
+      "yusho": 0,
+      "legendScore": 0.0
     }
   ]
 };

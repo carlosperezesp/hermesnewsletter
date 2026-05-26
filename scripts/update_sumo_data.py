@@ -87,6 +87,19 @@ def _prev_basho_id(basho_id: str) -> str:
         return f"{year}{basho_months[idx-1]:02d}"
     return f"{year-1}11"
 
+def _all_basho_ids(years_back: int = 5) -> list[str]:
+    """All basho IDs from (current_year - years_back) up to current basho."""
+    from datetime import date
+    current = _current_basho_id()
+    months  = [1, 3, 5, 7, 9, 11]
+    result  = []
+    for y in range(date.today().year - years_back, date.today().year + 1):
+        for m in months:
+            bid = f"{y}{m:02d}"
+            if bid <= current:
+                result.append(bid)
+    return result
+
 # ── Banzuke fetch ─────────────────────────────────────────────────────────────
 
 def _fetch_banzuke(basho_id: str) -> list[dict]:
@@ -113,9 +126,9 @@ def _fetch_banzuke(basho_id: str) -> list[dict]:
     rows.sort(key=lambda x: x["rankValue"])
     return rows[:20]
 
-def _fetch_basho_info(basho_id: str) -> dict | None:
+def _fetch_basho_info(basho_id: str, ttl_hours: float = 6.0) -> dict | None:
     url  = f"{SUMO_API}/basho/{basho_id}"
-    data = _fetch_json(url)
+    data = _fetch_json(url, ttl_hours=ttl_hours)
     if not isinstance(data, dict):
         return None
     yusho_list = data.get("yusho", [])
@@ -128,6 +141,28 @@ def _fetch_basho_info(basho_id: str) -> dict | None:
         "endDate":   data.get("endDate", ""),
         "winner":    makuuchi.get("shikonaEn") if makuuchi else None,
     }
+
+def _fetch_career_yusho(current_basho_id: str) -> dict[str, int]:
+    """Count Makuuchi tournament wins per wrestler across the last 5 years."""
+    counts: dict[str, int] = {}
+    for bid in _all_basho_ids(years_back=5):
+        ttl = 2.0 if bid == current_basho_id else 168.0  # past basho never change
+        info = _fetch_basho_info(bid, ttl_hours=ttl)
+        if info and info.get("winner"):
+            # Normalize to first word (stable shikona root) so "Kirishima Tetsuo" → "Kirishima"
+            w = info["winner"].split()[0]
+            counts[w] = counts.get(w, 0) + 1
+    return counts
+
+def _short_rank(label: str) -> str:
+    """Strip East/West positioning — meaningless to non-sumo readers."""
+    label = label.replace(" East", "").replace(" West", "").strip()
+    # For sanyaku, drop the number (only one Yokozuna spot, etc.)
+    for top in ("Yokozuna", "Ozeki", "Sekiwake", "Komusubi"):
+        if label.startswith(top):
+            return top
+    # Maegashira: keep the number (1 = near top, 5 = further down)
+    return label
 
 # ── Scoring ───────────────────────────────────────────────────────────────────
 
@@ -172,6 +207,26 @@ def write_data() -> None:
         banzuke    = _fetch_banzuke(prev_id)
         if banzuke:
             basho_id = prev_id
+
+    # Enrich banzuke with career yusho counts and legend scores
+    max_raw         = max(y["yusho"] * 5 + y["yokozuna_basho"] * 0.5 for y in YOKOZUNA_LEGENDS)
+    full_legend_map = {lg["name"]: lg for lg in legends}
+    career_yusho    = _fetch_career_yusho(basho_id)
+    print(f"  Career yusho data: {dict(sorted(career_yusho.items(), key=lambda x: -x[1])[:8])}", file=sys.stderr)
+
+    for w in banzuke:
+        name = w["name"]
+        # Simplify rank label: drop East/West, drop number for sanyaku
+        w["rankShort"] = _short_rank(w.get("rankLabel", ""))
+        # Legend score: use authoritative data for Yokozunas, career API count for others
+        if name in full_legend_map:
+            lg = full_legend_map[name]
+            w["yusho"]      = lg["stats"]["yusho"]
+            w["legendScore"] = lg["legendScore"]
+        else:
+            yusho = career_yusho.get(name, 0)
+            w["yusho"]       = yusho
+            w["legendScore"] = round(yusho * 5 / max_raw * 100, 1) if yusho else 0.0
 
     payload = {
         "UPDATED":    updated,

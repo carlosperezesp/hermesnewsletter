@@ -1037,8 +1037,6 @@ function NewsletterApp() {
           const sumoLegends = (SUMO.LEGENDS || []).map(p => ({ ...p, colors: { primary: p.primary, secondary: p.secondary } })).slice(0, 10);
           const banzuke     = SUMO.BANZUKE || [];
           const bashoInfo   = SUMO.BASHO_INFO;
-          const legendMap   = Object.fromEntries((SUMO.LEGENDS || []).map(lg => [lg.name.toLowerCase(), lg]));
-
           function bashoLabel(id) {
             if (!id) return "";
             const month = parseInt(id.slice(4));
@@ -1053,17 +1051,13 @@ function NewsletterApp() {
           const top5 = ranked.slice(0, 5);
           const top5Names = new Set(top5.map(w => w.name));
           // Always include Yokozunas even if outside top 5
-          const yokozunas = banzuke.filter(w => w.rankLabel.includes("Yokozuna") && !top5Names.has(w.name));
+          const yokozunas = banzuke.filter(w => w.rankShort === "Yokozuna" && !top5Names.has(w.name));
           const displayList = [...top5, ...yokozunas];
 
           function recordStr(w) {
             if (w.wins === 0 && w.losses === 0) return `Kyujo (${w.absences}A)`;
             return `${w.wins}W–${w.losses}L${w.absences > 0 ? `–${w.absences}A` : ""}`;
           }
-          function shortRank(label) {
-            return label.replace(" East","E").replace(" West","W");
-          }
-
           return (
             <>
               <header className="newsletter-hero" style={{ marginTop: 48 }}>
@@ -1095,8 +1089,7 @@ function NewsletterApp() {
                       </div>
                     )}
                     {top5.map((w, i) => {
-                      const lg = legendMap[w.name.toLowerCase()];
-                      const lgScore = lg ? lg.legendScore : 0;
+                      const lgScore = w.legendScore || 0;
                       const isWinner = bashoInfo?.winner === w.name;
                       return (
                         <div key={w.name} style={{ display: "flex", alignItems: "flex-start", gap: 10, padding: "10px 0", borderBottom: "1px solid var(--rule,#eee)" }}>
@@ -1106,7 +1099,7 @@ function NewsletterApp() {
                               {w.name}
                               {isWinner && <span style={{ fontSize: 12, background: "var(--accent,#b84832)", color: "#fff", borderRadius: 3, padding: "1px 5px", fontWeight: 700 }}>🏆 Campeón</span>}
                             </div>
-                            <div style={{ fontSize: 11, color: "var(--muted,#888)", fontFamily: "monospace", marginTop: 1 }}>{shortRank(w.rankLabel)}</div>
+                            <div style={{ fontSize: 11, color: "var(--muted,#888)", fontFamily: "monospace", marginTop: 1 }}>{w.rankShort}</div>
                             <div style={{ display: "flex", alignItems: "center", gap: 6, marginTop: 4 }}>
                               <div style={{ width: 70, height: 4, background: "var(--bar-bg,#dedad6)", borderRadius: 2, overflow: "hidden" }}>
                                 <div style={{ width: `${lgScore}%`, height: "100%", background: lgScore > 0 ? "var(--bar-fill,#4a4745)" : "transparent", borderRadius: 2 }} />
@@ -1128,14 +1121,13 @@ function NewsletterApp() {
                       </div>
                     )}
                     {yokozunas.map(w => {
-                      const lg = legendMap[w.name.toLowerCase()];
-                      const lgScore = lg ? lg.legendScore : 0;
+                      const lgScore = w.legendScore || 0;
                       return (
                         <div key={w.name} style={{ display: "flex", alignItems: "flex-start", gap: 10, padding: "10px 0", borderBottom: "1px solid var(--rule,#eee)" }}>
                           <span style={{ width: 20, fontSize: 12, flexShrink: 0, paddingTop: 2 }}>Y</span>
                           <div style={{ flex: 1, minWidth: 0 }}>
                             <div style={{ fontWeight: 600, fontSize: 14 }}>{w.name}</div>
-                            <div style={{ fontSize: 11, color: "var(--muted,#888)", fontFamily: "monospace", marginTop: 1 }}>{shortRank(w.rankLabel)}</div>
+                            <div style={{ fontSize: 11, color: "var(--muted,#888)", fontFamily: "monospace", marginTop: 1 }}>{w.rankShort}</div>
                             <div style={{ display: "flex", alignItems: "center", gap: 6, marginTop: 4 }}>
                               <div style={{ width: 70, height: 4, background: "var(--bar-bg,#dedad6)", borderRadius: 2, overflow: "hidden" }}>
                                 <div style={{ width: `${lgScore}%`, height: "100%", background: "var(--bar-fill,#4a4745)", borderRadius: 2 }} />

@@ -1189,8 +1189,6 @@ def sumo_html(d: dict) -> str:
     basho     = d.get("BASHO_INFO") or {}
     legends   = d.get("LEGENDS", [])
 
-    legend_map = {lg["name"].lower(): lg["legendScore"] for lg in legends}
-
     def record_str(w: dict) -> str:
         if w.get("wins", 0) == 0 and w.get("losses", 0) == 0:
             return f'Kyujo ({w.get("absences",0)}A)'
@@ -1205,11 +1203,11 @@ def sumo_html(d: dict) -> str:
         active  = [w for w in banzuke if w.get("wins", 0) > 0 or w.get("losses", 0) > 0]
         top5    = sorted(active, key=lambda w: -w.get("wins", 0))[:5]
         top5_names = {w["name"] for w in top5}
-        yokozunas  = [w for w in banzuke if "Yokozuna" in w.get("rankLabel", "") and w["name"] not in top5_names]
+        yokozunas  = [w for w in banzuke if w.get("rankShort", "") == "Yokozuna" and w["name"] not in top5_names]
 
         def wrestler_row(w: dict, label: str = "") -> str:
-            short_rank = w.get("rankLabel","").replace(" East","E").replace(" West","W")
-            lg_score   = legend_map.get(w["name"].lower(), 0.0)
+            short_rank = w.get("rankShort", w.get("rankLabel", ""))
+            lg_score   = w.get("legendScore", 0.0)
             fill_px    = round(60 * min(100.0, lg_score) / 100)
             is_winner  = w["name"] == winner
             name_html  = f'<b>{w["name"]}</b>'
