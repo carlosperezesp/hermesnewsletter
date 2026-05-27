@@ -42,10 +42,10 @@ jobs:
           fi
 
       # ── Send newsletter email ───────────────────────────────────────────────
-      # Skips silently if GMAIL_APP_PASSWORD secret is not configured
+      # Skips silently if send_newsletter secret is not configured
       - name: Send newsletter email
         env:
-          GMAIL_USER: ${{ secrets.GMAIL_USER }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-          NEWSLETTER_RECIPIENTS: ${{ secrets.NEWSLETTER_RECIPIENTS }}
+          GMAIL_USER: carlosrealmurcia@gmail.com
+          GMAIL_APP_PASSWORD: ${{ secrets.send_newsletter }}
+          NEWSLETTER_RECIPIENTS: carlosrealmurcia@gmail.com
         run: python3 scripts/send_newsletter.py
