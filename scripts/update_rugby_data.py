@@ -27,6 +27,8 @@ K_NORMAL = 28.0
 K_WORLD_CUP = 44.0
 ACTIVE_GRACE_DAYS = 548        # ~18 months without penalty
 DECAY_HALF_LIFE_DAYS = 365     # after grace, rating edge halves roughly yearly
+DYNASTY_MIN_MATCHES = 12
+DYNASTY_DENSITY_TARGET = 6.0   # team tests per year for full credit
 
 ESPN_TEAMS = {
     "England": 1,
@@ -270,6 +272,7 @@ def build() -> dict:
     ratings: dict[str, float] = {}
     records = defaultdict(lambda: {"w": 0, "l": 0, "d": 0})
     last_match_date: dict[str, date] = {}
+    match_dates_by_team: dict[str, list[date]] = defaultdict(list)
     leader_periods: list[dict] = []
 
     first_date = datetime.strptime(matches[0]["date"], "%Y-%m-%d").date()
@@ -314,6 +317,8 @@ def build() -> dict:
 
         last_match_date[home] = match_date
         last_match_date[away] = match_date
+        match_dates_by_team[home].append(match_date)
+        match_dates_by_team[away].append(match_date)
         rating_snapshots[home].append((match_date, ratings[home]))
         rating_snapshots[away].append((match_date, ratings[away]))
 
@@ -381,7 +386,12 @@ def build() -> dict:
             if winner == period["team"] and start.year <= year <= end.year
         ]
         years = days / 365.25
-        raw_score = years * 10.0 + len(wc_years) * 24.0
+        period_match_count = sum(1 for d in match_dates_by_team[period["team"]] if start <= d < end)
+        if period_match_count < DYNASTY_MIN_MATCHES:
+            continue
+        matches_per_year = period_match_count / years if years else 0
+        density_factor = min(1.0, matches_per_year / DYNASTY_DENSITY_TARGET)
+        raw_score = (years * 10.0 * density_factor) + len(wc_years) * 24.0
         dynasty_candidates.append({
             "name": period["team"],
             "teamCode": team_code(period["team"]),
@@ -392,11 +402,14 @@ def build() -> dict:
             "daysNo1": days,
             "yearsNo1": round(years, 1),
             "weeksNo1": round(days / 7),
+            "matchCount": period_match_count,
+            "matchesPerYear": round(matches_per_year, 1),
+            "densityFactor": round(density_factor, 2),
             "worldCups": len(wc_years),
             "worldCupYears": ", ".join(str(y) for y in wc_years) if wc_years else "ninguno",
             "rawDynastyScore": raw_score,
             "colors": team_colors(period["team"]),
-            "note": f"{years:.1f} años como #1 Hermes Elo",
+            "note": f"{years:.1f} años como #1 Hermes Elo · {period_match_count} tests",
         })
 
     dynasty_candidates.sort(key=lambda d: (d["rawDynastyScore"], d["daysNo1"]), reverse=True)
@@ -432,6 +445,8 @@ def build() -> dict:
             "marginCap": 2.35,
             "activityGraceDays": ACTIVE_GRACE_DAYS,
             "decayHalfLifeDays": DECAY_HALF_LIFE_DAYS,
+            "dynastyMinMatches": DYNASTY_MIN_MATCHES,
+            "dynastyDensityTarget": DYNASTY_DENSITY_TARGET,
         },
         "TEAMS": teams,
         "ROAD_TO_GLORY": {

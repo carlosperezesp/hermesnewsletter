@@ -1425,7 +1425,7 @@ def rugby_html(d: dict) -> str:
                 f'style="width:100%;border-collapse:collapse">{rows}</table>')
 
     def dynasty_meta(t):
-        return f'{t.get("era","")} · {t.get("weeksNo1",0)} semanas #1/Elo'
+        return f'{t.get("era","")} · {t.get("weeksNo1",0)} semanas #1/Elo · {t.get("matchCount",0)} tests'
 
     def dynasty_note(t):
         return (f'{wc_label(t.get("worldCups",0))} en la época: '
@@ -1440,7 +1440,7 @@ def rugby_html(d: dict) -> str:
                   rugby_rows(teams))
         + section("Road to Glory",
                   "Dinastías de Elo",
-                  f"Umbral de gran dinastía: {threshold}. Score: duración en la cima + Mundiales conquistados durante la época.",
+                  f"Umbral top 10: {threshold}. Score: años como #1 ajustados por densidad de tests + Mundiales ganados en la época.",
                   team_list_html(dynasties, "dynastyScore", "Dynasty",
                                  dynasty_meta, dynasty_note, threshold))
     )

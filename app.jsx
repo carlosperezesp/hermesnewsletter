@@ -1941,7 +1941,7 @@ function NewsletterApp() {
               <NewsletterSection
                 kicker="Road to Glory"
                 title="Dinastías de Elo"
-                sub={`Umbral de gran dinastía: ${dynastyThreshold.toFixed(1)}. Score: duración en la cima + Mundiales conquistados durante la época.`}
+                sub={`Umbral top 10: ${dynastyThreshold.toFixed(1)}. Score: años como #1 ajustados por densidad de tests + Mundiales ganados en la época.`}
               >
                 <div className="newsletter-list">
                   {dynasties.map((team, i) => (
@@ -1953,7 +1953,7 @@ function NewsletterApp() {
                       score={team.dynastyScore}
                       scoreLabel="Dynasty"
                       threshold={dynastyThreshold}
-                      meta={`${team.era} · ${team.weeksNo1} semanas #1/Elo`}
+                      meta={`${team.era} · ${team.weeksNo1} semanas #1/Elo · ${team.matchCount || 0} tests`}
                       note={`${wcLabel(team.worldCups)} en la época: ${team.worldCupYears}. ${team.note}`}
                     />
                   ))}

@@ -19,7 +19,9 @@ window.RUGBY_DATA = {
     "kWorldCup": 44.0,
     "marginCap": 2.35,
     "activityGraceDays": 548,
-    "decayHalfLifeDays": 365
+    "decayHalfLifeDays": 365,
+    "dynastyMinMatches": 12,
+    "dynastyDensityTarget": 6.0
   },
   "TEAMS": [
     {
@@ -254,28 +256,8 @@ window.RUGBY_DATA = {
     }
   ],
   "ROAD_TO_GLORY": {
-    "dynastyThreshold": 19.8,
+    "dynastyThreshold": 9.9,
     "dynasties": [
-      {
-        "name": "South Africa",
-        "teamCode": "RSA",
-        "country": "South Africa",
-        "era": "1928-1949",
-        "startDate": "1928-09-15",
-        "endDate": "1949-07-09",
-        "daysNo1": 7602,
-        "yearsNo1": 20.8,
-        "weeksNo1": 1086,
-        "worldCups": 0,
-        "worldCupYears": "ninguno",
-        "colors": {
-          "primary": "#007a4d",
-          "secondary": "#ffb612"
-        },
-        "note": "20.8 años como #1 Hermes Elo",
-        "rank": 1,
-        "dynastyScore": 100.0
-      },
       {
         "name": "New Zealand",
         "teamCode": "NZL",
@@ -286,75 +268,18 @@ window.RUGBY_DATA = {
         "daysNo1": 5614,
         "yearsNo1": 15.4,
         "weeksNo1": 802,
+        "matchCount": 207,
+        "matchesPerYear": 13.5,
+        "densityFactor": 1.0,
         "worldCups": 2,
         "worldCupYears": "2011, 2015",
         "colors": {
           "primary": "#111111",
           "secondary": "#d8d8d8"
         },
-        "note": "15.4 años como #1 Hermes Elo",
-        "rank": 2,
-        "dynastyScore": 96.9
-      },
-      {
-        "name": "South Africa",
-        "teamCode": "RSA",
-        "country": "South Africa",
-        "era": "1949-1957",
-        "startDate": "1949-07-16",
-        "endDate": "1957-06-01",
-        "daysNo1": 2877,
-        "yearsNo1": 7.9,
-        "weeksNo1": 411,
-        "worldCups": 0,
-        "worldCupYears": "ninguno",
-        "colors": {
-          "primary": "#007a4d",
-          "secondary": "#ffb612"
-        },
-        "note": "7.9 años como #1 Hermes Elo",
-        "rank": 3,
-        "dynastyScore": 37.8
-      },
-      {
-        "name": "New Zealand",
-        "teamCode": "NZL",
-        "country": "New Zealand",
-        "era": "1963-1971",
-        "startDate": "1963-08-10",
-        "endDate": "1971-06-26",
-        "daysNo1": 2877,
-        "yearsNo1": 7.9,
-        "weeksNo1": 411,
-        "worldCups": 0,
-        "worldCupYears": "ninguno",
-        "colors": {
-          "primary": "#111111",
-          "secondary": "#d8d8d8"
-        },
-        "note": "7.9 años como #1 Hermes Elo",
-        "rank": 4,
-        "dynastyScore": 37.8
-      },
-      {
-        "name": "New Zealand",
-        "teamCode": "NZL",
-        "country": "New Zealand",
-        "era": "1913-1921",
-        "startDate": "1913-11-15",
-        "endDate": "1921-09-03",
-        "daysNo1": 2849,
-        "yearsNo1": 7.8,
-        "weeksNo1": 407,
-        "worldCups": 0,
-        "worldCupYears": "ninguno",
-        "colors": {
-          "primary": "#111111",
-          "secondary": "#d8d8d8"
-        },
-        "note": "7.8 años como #1 Hermes Elo",
-        "rank": 5,
-        "dynastyScore": 37.5
+        "note": "15.4 años como #1 Hermes Elo · 207 tests",
+        "rank": 1,
+        "dynastyScore": 100.0
       },
       {
         "name": "New Zealand",
@@ -366,15 +291,41 @@ window.RUGBY_DATA = {
         "daysNo1": 1820,
         "yearsNo1": 5.0,
         "weeksNo1": 260,
+        "matchCount": 37,
+        "matchesPerYear": 7.4,
+        "densityFactor": 1.0,
         "worldCups": 1,
         "worldCupYears": "1987",
         "colors": {
           "primary": "#111111",
           "secondary": "#d8d8d8"
         },
-        "note": "5.0 años como #1 Hermes Elo",
-        "rank": 6,
-        "dynastyScore": 35.5
+        "note": "5.0 años como #1 Hermes Elo · 37 tests",
+        "rank": 2,
+        "dynastyScore": 36.6
+      },
+      {
+        "name": "New Zealand",
+        "teamCode": "NZL",
+        "country": "New Zealand",
+        "era": "1963-1971",
+        "startDate": "1963-08-10",
+        "endDate": "1971-06-26",
+        "daysNo1": 2877,
+        "yearsNo1": 7.9,
+        "weeksNo1": 411,
+        "matchCount": 35,
+        "matchesPerYear": 4.4,
+        "densityFactor": 0.74,
+        "worldCups": 0,
+        "worldCupYears": "ninguno",
+        "colors": {
+          "primary": "#111111",
+          "secondary": "#d8d8d8"
+        },
+        "note": "7.9 años como #1 Hermes Elo · 35 tests",
+        "rank": 3,
+        "dynastyScore": 28.9
       },
       {
         "name": "Australia",
@@ -386,15 +337,18 @@ window.RUGBY_DATA = {
         "daysNo1": 987,
         "yearsNo1": 2.7,
         "weeksNo1": 141,
+        "matchCount": 25,
+        "matchesPerYear": 9.3,
+        "densityFactor": 1.0,
         "worldCups": 1,
         "worldCupYears": "1999",
         "colors": {
           "primary": "#ffcd00",
           "secondary": "#00843d"
         },
-        "note": "2.7 años como #1 Hermes Elo",
-        "rank": 7,
-        "dynastyScore": 24.5
+        "note": "2.7 años como #1 Hermes Elo · 25 tests",
+        "rank": 4,
+        "dynastyScore": 25.3
       },
       {
         "name": "New Zealand",
@@ -406,35 +360,110 @@ window.RUGBY_DATA = {
         "daysNo1": 1820,
         "yearsNo1": 5.0,
         "weeksNo1": 260,
+        "matchCount": 30,
+        "matchesPerYear": 6.0,
+        "densityFactor": 1.0,
         "worldCups": 0,
         "worldCupYears": "ninguno",
         "colors": {
           "primary": "#111111",
           "secondary": "#d8d8d8"
         },
-        "note": "5.0 años como #1 Hermes Elo",
-        "rank": 8,
-        "dynastyScore": 23.9
+        "note": "5.0 años como #1 Hermes Elo · 30 tests",
+        "rank": 5,
+        "dynastyScore": 24.7
+      },
+      {
+        "name": "South Africa",
+        "teamCode": "RSA",
+        "country": "South Africa",
+        "era": "1949-1957",
+        "startDate": "1949-07-16",
+        "endDate": "1957-06-01",
+        "daysNo1": 2877,
+        "yearsNo1": 7.9,
+        "weeksNo1": 411,
+        "matchCount": 23,
+        "matchesPerYear": 2.9,
+        "densityFactor": 0.49,
+        "worldCups": 0,
+        "worldCupYears": "ninguno",
+        "colors": {
+          "primary": "#007a4d",
+          "secondary": "#ffb612"
+        },
+        "note": "7.9 años como #1 Hermes Elo · 23 tests",
+        "rank": 6,
+        "dynastyScore": 19.0
+      },
+      {
+        "name": "South Africa",
+        "teamCode": "RSA",
+        "country": "South Africa",
+        "era": "1928-1949",
+        "startDate": "1928-09-15",
+        "endDate": "1949-07-09",
+        "daysNo1": 7602,
+        "yearsNo1": 20.8,
+        "weeksNo1": 1086,
+        "matchCount": 17,
+        "matchesPerYear": 0.8,
+        "densityFactor": 0.14,
+        "worldCups": 0,
+        "worldCupYears": "ninguno",
+        "colors": {
+          "primary": "#007a4d",
+          "secondary": "#ffb612"
+        },
+        "note": "20.8 años como #1 Hermes Elo · 17 tests",
+        "rank": 7,
+        "dynastyScore": 14.0
       },
       {
         "name": "New Zealand",
         "teamCode": "NZL",
         "country": "New Zealand",
-        "era": "1906-1910",
-        "startDate": "1906-03-10",
-        "endDate": "1910-06-27",
-        "daysNo1": 1570,
-        "yearsNo1": 4.3,
-        "weeksNo1": 224,
+        "era": "1995-1998",
+        "startDate": "1995-11-18",
+        "endDate": "1998-08-01",
+        "daysNo1": 987,
+        "yearsNo1": 2.7,
+        "weeksNo1": 141,
+        "matchCount": 27,
+        "matchesPerYear": 10.0,
+        "densityFactor": 1.0,
         "worldCups": 0,
         "worldCupYears": "ninguno",
         "colors": {
           "primary": "#111111",
           "secondary": "#d8d8d8"
         },
-        "note": "4.3 años como #1 Hermes Elo",
+        "note": "2.7 años como #1 Hermes Elo · 27 tests",
+        "rank": 8,
+        "dynastyScore": 13.4
+      },
+      {
+        "name": "Wales",
+        "teamCode": "WAL",
+        "country": "Wales",
+        "era": "1902-1906",
+        "startDate": "1902-02-01",
+        "endDate": "1906-03-10",
+        "daysNo1": 1498,
+        "yearsNo1": 4.1,
+        "weeksNo1": 214,
+        "matchCount": 14,
+        "matchesPerYear": 3.4,
+        "densityFactor": 0.57,
+        "worldCups": 0,
+        "worldCupYears": "ninguno",
+        "colors": {
+          "primary": "#c8102e",
+          "secondary": "#ffffff"
+        },
+        "note": "4.1 años como #1 Hermes Elo · 14 tests",
         "rank": 9,
-        "dynastyScore": 20.7
+        "dynastyScore": 11.6
       },
       {
         "name": "Scotland",
@@ -446,15 +475,18 @@ window.RUGBY_DATA = {
         "daysNo1": 1505,
         "yearsNo1": 4.1,
         "weeksNo1": 215,
+        "matchCount": 12,
+        "matchesPerYear": 2.9,
+        "densityFactor": 0.49,
         "worldCups": 0,
         "worldCupYears": "ninguno",
         "colors": {
           "primary": "#005eb8",
           "secondary": "#ffffff"
         },
-        "note": "4.1 años como #1 Hermes Elo",
+        "note": "4.1 años como #1 Hermes Elo · 12 tests",
         "rank": 10,
-        "dynastyScore": 19.8
+        "dynastyScore": 9.9
       }
     ]
   }
