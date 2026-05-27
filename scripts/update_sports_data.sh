@@ -5,21 +5,21 @@ LOG="$PROJECT_DIR/scripts/update.log"
 
 echo "--- $(date '+%Y-%m-%d %H:%M:%S') ---" >> "$LOG"
 
-# 1. Update sports-data.js
-"$PROJECT_DIR/.venv/bin/python" "$SCRIPT_DIR/update_sports_data.py" >> "$LOG" 2>&1
+# 1. Update all generated sport data files
+"$PROJECT_DIR/.venv/bin/python" "$SCRIPT_DIR/update_all_data.py" >> "$LOG" 2>&1
 SPORTS_EXIT=$?
-echo "update_sports_data.py exit: $SPORTS_EXIT" >> "$LOG"
+echo "update_all_data.py exit: $SPORTS_EXIT" >> "$LOG"
 
 # 2. Commit and push if file changed
 cd "$PROJECT_DIR"
-if ! git diff --quiet sports-data.js; then
-  git add sports-data.js >> "$LOG" 2>&1
+if ! git diff --quiet data.js *_data.js; then
+  git add data.js *_data.js >> "$LOG" 2>&1
   git commit -m "Update sports data $(date '+%Y-%m-%d')" >> "$LOG" 2>&1
   git push >> "$LOG" 2>&1
   PUSH_EXIT=$?
   echo "git push exit: $PUSH_EXIT" >> "$LOG"
 else
-  echo "No changes in sports-data.js, skipping commit." >> "$LOG"
+  echo "No generated data changes, skipping commit." >> "$LOG"
 fi
 
 # 3. Send newsletter email (if script exists and env var set)

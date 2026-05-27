@@ -854,9 +854,9 @@ function NewsletterApp() {
             if (!data || !data.length) return null;
             return (
               <NewsletterSection
-                kicker={`${tour} · Resultados recientes`}
-                title={`${tour} — Últimos partidos`}
-                sub="Torneos activos, desde la ronda más avanzada. Actualizado 2× al día."
+                kicker={`${tour} · Partidos importantes`}
+                title={`${tour} — Ayer y hoy`}
+                sub="Grand Slams, Finals, Masters/1000 y 500 activos. Se refresca por la mañana y por la noche."
               >
                 {data.map((tourney, ti) => (
                   <div key={ti} style={{ marginBottom: 20 }}>
@@ -905,7 +905,7 @@ function NewsletterApp() {
                           color: "var(--muted, #888)", textTransform: "uppercase",
                           letterSpacing: "0.05em",
                         }}>
-                          {m.round}
+                          {m.day ? `${m.day} · ${m.round}` : m.round}
                         </span>
                         <span style={{ minWidth: 0, overflow: "hidden" }}>
                           {m.w_logo && <img src={m.w_logo} style={{ width: 16, height: 12, verticalAlign: "middle", marginRight: 4, borderRadius: 1 }} />}
@@ -968,6 +968,9 @@ function NewsletterApp() {
                   </p>
                 </div>
               </header>
+
+              <RecentResults data={atpRecent} tour="ATP" />
+              <RecentResults data={wtaRecent} tour="WTA" />
 
               <NewsletterSection
                 kicker="ATP Singles"

@@ -3,7 +3,8 @@ name: Update sports data & send newsletter
 on:
   workflow_dispatch:
   schedule:
-    - cron: "20 8 * * *"   # 08:20 UTC daily
+    - cron: "20 8 * * *"    # 08:20 UTC daily
+    - cron: "20 20 * * *"   # 20:20 UTC daily
 
 permissions:
   contents: write
@@ -20,20 +21,16 @@ jobs:
         with:
           python-version: "3.11"
 
-      # ── NHL Tracker data ────────────────────────────────────────────────────
-      - name: Update NHL tracker data (data.js)
-        run: python3 scripts/update_data.py
-
-      # ── Sports newsletter data ──────────────────────────────────────────────
-      - name: Update sports newsletter data (sports-data.js)
-        run: python3 scripts/update_sports_data.py
+      # ── All Hermes sport data ───────────────────────────────────────────────
+      - name: Update all sport data
+        run: python3 scripts/update_all_data.py
 
       # ── Commit both files if changed ────────────────────────────────────────
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.js sports-data.js
+          git add data.js *_data.js
           if git diff --cached --quiet; then
             echo "No data changes."
           else

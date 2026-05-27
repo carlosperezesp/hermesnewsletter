@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Fetch ATP + WTA singles data from Jeff Sackmann GitHub CSVs and write tennis_data.js."""
 from __future__ import annotations
-import csv, hashlib, json, math, os, re, sys, time, urllib.request
+import csv, hashlib, html, json, math, os, re, sys, time, urllib.request
 from collections import defaultdict
 from datetime import datetime, timezone, date as _date, timedelta
 from io import StringIO
@@ -143,11 +143,101 @@ _LEVEL_ES: dict[str, str] = {
     "C":  "Challenger",
 }
 _LEVEL_PRIO: dict[str, int] = {"G": 0, "F": 1, "M": 2, "PM": 2, "500": 3, "A": 3, "P": 3, "250": 4}
+_IMPORTANT_LEVELS = {"G", "F", "M", "PM", "P", "A", "500"}
+_TML_URL = "https://stats.tennismylife.org/"
+_TML_IMPORTANT_TOURNAMENTS: dict[str, dict[str, str]] = {
+    "Roland Garros": {"level": "Grand Slam", "surface": "Clay"},
+    "Australian Open": {"level": "Grand Slam", "surface": "Hard"},
+    "Wimbledon": {"level": "Grand Slam", "surface": "Grass"},
+    "Us Open": {"level": "Grand Slam", "surface": "Hard"},
+    "US Open": {"level": "Grand Slam", "surface": "Hard"},
+}
 
 
-def _recent_results(tour: str, lookback_days: int = 14) -> list[dict]:
-    """Return recent match results from active tournaments, ordered by recency + level."""
-    cutoff = (_date.today() - timedelta(days=lookback_days)).strftime("%Y%m%d")
+def _tourney_date(value: str) -> _date | None:
+    try:
+        return _date(int(value[:4]), int(value[4:6]), int(value[6:8]))
+    except Exception:
+        return None
+
+
+def _tourney_window_days(level: str) -> int:
+    if level == "G":
+        return 16
+    if level in {"F", "M", "PM", "P"}:
+        return 12
+    return 9
+
+
+def _match_num(m: dict) -> int:
+    try:
+        return int(m.get("match_num", "0"))
+    except ValueError:
+        return 0
+
+
+def _cell_text(cell_html: str) -> str:
+    text = re.sub(r"<[^>]+>", " ", cell_html)
+    return re.sub(r"\s+", " ", html.unescape(text)).strip()
+
+
+def _player_cell(cell_html: str) -> str:
+    links = re.findall(r'<a[^>]+href="/players/[^"]+"[^>]*>(.*?)</a>', cell_html)
+    if links:
+        return _cell_text(links[-1])
+    return _cell_text(cell_html)
+
+
+def _tml_recent_results() -> list[dict]:
+    """Fetch dated latest important ATP matches from TennisMyLife."""
+    today = _date.today()
+    wanted_dates = {(today - timedelta(days=1)).isoformat(), today.isoformat()}
+    req = urllib.request.Request(_TML_URL, headers={"User-Agent": "Mozilla/5.0"})
+    try:
+        raw = urllib.request.urlopen(req, timeout=20).read().decode("utf-8", "ignore")
+    except Exception as exc:
+        print(f"[WARN] TennisMyLife latest matches unavailable: {exc}", file=sys.stderr)
+        return []
+
+    grouped: dict[str, dict] = {}
+    for row_html in re.findall(r'<tr class="hover:bg-gray-800[^"]*">(.*?)</tr>', raw, flags=re.DOTALL):
+        cells = re.findall(r"<td[^>]*>(.*?)</td>", row_html, flags=re.DOTALL)
+        if len(cells) < 7:
+            continue
+        match_date = _cell_text(cells[0])
+        if match_date not in wanted_dates:
+            continue
+        tournament = _cell_text(cells[1])
+        info = _TML_IMPORTANT_TOURNAMENTS.get(tournament)
+        if not info:
+            continue
+        score = _cell_text(cells[6])
+        if not score or score == "W/O":
+            continue
+        group = grouped.setdefault(tournament, {
+            "name": tournament,
+            "level": info["level"],
+            "surface": info["surface"],
+            "matches": [],
+        })
+        group["matches"].append({
+            "round": _cell_text(cells[2]),
+            "w": _player_cell(cells[4]),
+            "w_logo": "",
+            "l": _player_cell(cells[5]),
+            "l_logo": "",
+            "score": score,
+            "day": "ayer" if match_date == (today - timedelta(days=1)).isoformat() else "hoy",
+        })
+
+    return list(grouped.values())
+
+
+def _recent_results(tour: str) -> list[dict]:
+    """Return latest results from important tournaments active yesterday/today."""
+    today = _date.today()
+    yesterday = today - timedelta(days=1)
+    important_levels = {"G"} if _tennis_importance() >= 10 else _IMPORTANT_LEVELS
     rows   = _matches(tour, CURRENT_YEAR)
     if not rows:
         return []
@@ -156,7 +246,14 @@ def _recent_results(tour: str, lookback_days: int = 14) -> list[dict]:
     meta:   dict[str, dict] = {}
     for m in rows:
         td  = m.get("tourney_date", "")
-        if td < cutoff:
+        level = m.get("tourney_level", "")
+        if level not in important_levels:
+            continue
+        start = _tourney_date(td)
+        if not start:
+            continue
+        end = start + timedelta(days=_tourney_window_days(level))
+        if end < yesterday or start > today:
             continue
         tid = m.get("tourney_id", "")
         if tid not in meta:
@@ -181,7 +278,7 @@ def _recent_results(tour: str, lookback_days: int = 14) -> list[dict]:
         tmeta   = meta[tid]
         matches = sorted(
             by_tid[tid],
-            key=lambda m: (_ROUND_ORDER.get(m.get("round", ""), 9), m.get("winner_name", "")),
+            key=lambda m: (_ROUND_ORDER.get(m.get("round", ""), 9), -_match_num(m), m.get("winner_name", "")),
         )
         entries = [
             {
@@ -191,6 +288,7 @@ def _recent_results(tour: str, lookback_days: int = 14) -> list[dict]:
                 "l":      m.get("loser_name", ""),
                 "l_logo": _flag_url(m.get("loser_ioc", "")),
                 "score":  m.get("score", ""),
+                "day":    "ayer/hoy",
             }
             for m in matches
             if m.get("winner_name") and m.get("score") and "W/O" not in m.get("score", "")
@@ -789,7 +887,7 @@ def write_data() -> None:
     importance = _tennis_importance()
 
     print("Building recent match results…", file=sys.stderr)
-    atp_recent = _recent_results("atp")
+    atp_recent = _tml_recent_results() or _recent_results("atp")
     wta_recent = _recent_results("wta")
 
     payload = {
