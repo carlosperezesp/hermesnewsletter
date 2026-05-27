@@ -29,6 +29,8 @@ ACCENT   = "#b84832"
 GOOD     = "#2d7a3a"
 BAR_FILL = "#4a4745"
 BAR_BG   = "#dedad6"
+WARN     = "#a86513"
+BAD      = "#c92d2d"
 
 
 # ── Config ───────────────────────────────────────────────────────
@@ -79,6 +81,27 @@ def score_bar(value: float, threshold: float, width: int = 130) -> str:
         f'</table>'
     )
     return bar
+
+
+def score_chip(value) -> str:
+    if value is None:
+        return ""
+    try:
+        score = float(value)
+    except (TypeError, ValueError):
+        return ""
+    if score >= 85:
+        bg, fg = "#dcefe2", "#1f7a3d"
+    elif score >= 70:
+        bg, fg = "#e8efdc", "#5f7d1e"
+    elif score >= 55:
+        bg, fg = "#f5ead4", WARN
+    else:
+        bg, fg = "#f8ded9", BAD
+    return (f'<span style="display:inline-block;min-width:34px;margin-left:5px;'
+            f'padding:1px 5px;border-radius:3px;background:{bg};color:{fg};'
+            f'font-family:monospace;font-size:11px;font-weight:700;text-align:center">'
+            f'{score:.1f}</span>')
 
 
 # ── Bracket ───────────────────────────────────────────────────────
@@ -919,6 +942,10 @@ def tennis_html(d: dict) -> str:
     wta_ch    = d.get("WTA_CHANGES", {})
     atp_lg    = d.get("ATP_LEGENDS", [])
     wta_lg    = d.get("WTA_LEGENDS", [])
+    atp_yday  = d.get("ATP_RECENT", [])
+    atp_today = d.get("ATP_TODAY", [])
+    wta_yday  = d.get("WTA_RECENT", [])
+    wta_today = d.get("WTA_TODAY", [])
 
     def p_meta(p):
         sf  = p.get("surface") or {}
@@ -974,10 +1001,59 @@ def tennis_html(d: dict) -> str:
             f'style="width:100%;border-collapse:collapse">{rows}</table>'
         )
 
+    def matches_html(tournaments: list[dict], scheduled: bool = False) -> str:
+        rows = ""
+        for t in tournaments:
+            rows += (
+                f'<tr><td colspan="3" style="padding:10px 0 6px;border-bottom:2px solid {INK};">'
+                f'{swatch("#c47a4b", 9)}'
+                f'<b style="font-size:15px;color:{INK}">{t.get("name","")}</b>'
+                f'<span style="font-size:11px;color:{MUTED};font-family:monospace;'
+                f'text-transform:uppercase;margin-left:8px">{t.get("level","")} · {t.get("surface","")}</span>'
+                f'</td></tr>'
+            )
+            for m in t.get("matches", [])[:8]:
+                left_weight = "400" if scheduled or m.get("scheduled") else "700"
+                sep = "vs" if scheduled or m.get("scheduled") else "def."
+                rows += (
+                    f'<tr style="border-bottom:1px solid {RULE}">'
+                    f'<td style="padding:8px 10px 8px 0;width:82px;vertical-align:top;'
+                    f'font-family:monospace;font-size:11px;color:{MUTED};text-transform:uppercase">'
+                    f'{m.get("day","")} · {m.get("round","")}</td>'
+                    f'<td style="padding:8px 0;vertical-align:top;font-size:13px;color:{INK2}">'
+                    f'<span style="font-weight:{left_weight};color:{INK}">{m.get("w","")}</span>'
+                    f'{score_chip(m.get("w_score"))}'
+                    f'<span style="color:{MUTED};margin:0 6px">{sep}</span>'
+                    f'<span>{m.get("l","")}</span>'
+                    f'{score_chip(m.get("l_score"))}'
+                    f'</td>'
+                    f'<td style="padding:8px 0 8px 8px;text-align:right;vertical-align:top;'
+                    f'font-family:monospace;font-size:12px;color:{MUTED};white-space:nowrap">'
+                    f'{m.get("score","por jugar")}</td>'
+                    f'</tr>'
+                )
+        if not rows:
+            return (f'<div style="padding:10px 0;font-size:13px;color:{MUTED};'
+                    f'font-family:monospace">Sin partidos importantes disponibles.</div>')
+        return (f'<table cellpadding="0" cellspacing="0" border="0" '
+                f'style="width:100%;border-collapse:collapse;background:{PAPER}">{rows}</table>')
+
     updated = d.get("UPDATED", "")
     return (
         f'<div style="margin-top:32px"></div>'
         + sport_header("Tennis", "2026", updated, title="ATP · WTA Rankings")
+        + section("ATP · Partidos importantes", "ATP — Ayer",
+                  "Top resultados de ayer por mejor score individual del duelo.",
+                  matches_html(atp_yday, scheduled=False))
+        + section("ATP · Partidos importantes", "ATP — Hoy",
+                  "Top partidos programados hoy por mejor score individual del duelo.",
+                  matches_html(atp_today, scheduled=True))
+        + (section("WTA · Partidos importantes", "WTA — Ayer",
+                   "Top resultados de ayer por mejor score individual del duelo.",
+                   matches_html(wta_yday, scheduled=False)) if wta_yday else "")
+        + (section("WTA · Partidos importantes", "WTA — Hoy",
+                   "Top partidos programados hoy por mejor score individual del duelo.",
+                   matches_html(wta_today, scheduled=True)) if wta_today else "")
         + section("ATP Top 10", "Ranking ATP — esta semana",
                   "Score de actividad: forma, superficie, ranking WTA/ATP combinado.",
                   player_list_html(atp[:10], "activeScore", "Score", p_note, p_meta))
