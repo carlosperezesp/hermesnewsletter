@@ -31,6 +31,9 @@ BAR_FILL = "#4a4745"
 BAR_BG   = "#dedad6"
 WARN     = "#a86513"
 BAD      = "#c92d2d"
+SERIF    = "Newsreader, Georgia, serif"
+SANS     = "'IBM Plex Sans', Arial, Helvetica, sans-serif"
+MONO     = "'IBM Plex Mono', ui-monospace, monospace"
 
 
 # ── Config ───────────────────────────────────────────────────────
@@ -100,7 +103,7 @@ def score_chip(value) -> str:
         bg, fg = "#f8ded9", BAD
     return (f'<span style="display:inline-block;min-width:34px;margin-left:5px;'
             f'padding:1px 5px;border-radius:3px;background:{bg};color:{fg};'
-            f'font-family:monospace;font-size:11px;font-weight:700;text-align:center">'
+            f'font-family:{MONO};font-size:11px;font-weight:700;text-align:center">'
             f'{score:.1f}</span>')
 
 
@@ -203,20 +206,22 @@ def player_list_html(players: list[dict],
 
         rows += (
             f'<tr style="border-bottom:1px solid {RULE}">'
-            f'<td style="padding:11px 8px;font-size:18px;color:{MUTED};'
-            f'font-variant-numeric:tabular-nums;width:28px;vertical-align:top">{i}</td>'
-            f'<td style="padding:11px 8px 11px 0;vertical-align:top">'
-            f'<div style="font-size:14px;font-weight:600;color:{INK}">'
+            f'<td style="padding:12px 14px 12px 0;font-size:26px;color:{MUTED};'
+            f'font-family:{SERIF};font-variant-numeric:tabular-nums;width:42px;'
+            f'vertical-align:top;text-align:right">{i:02d}</td>'
+            f'<td style="padding:12px 16px 12px 0;vertical-align:top">'
+            f'<div style="font-size:19px;line-height:1.15;font-family:{SERIF};'
+            f'font-weight:500;color:{INK}">'
             f'{swatch(primary)}{p.get("name","")}</div>'
-            f'<div style="font-size:11px;color:{MUTED};font-family:monospace;margin-top:2px">'
+            f'<div style="font-size:10.5px;color:{MUTED};font-family:{MONO};margin-top:4px">'
             f'{meta_fn(p)}</div>'
-            f'<div style="font-size:11px;color:{INK2};font-family:monospace;margin-top:2px">'
+            f'<div style="font-size:10.5px;color:{INK2};font-family:{MONO};margin-top:2px">'
             f'{note_fn(p)}</div>'
             f'</td>'
-            f'<td style="padding:11px 0 11px 8px;text-align:right;vertical-align:top;white-space:nowrap">'
+            f'<td style="padding:12px 0 12px 8px;text-align:right;vertical-align:top;white-space:nowrap">'
             f'<div style="font-size:9px;letter-spacing:.08em;text-transform:uppercase;color:{MUTED};'
-            f'font-family:monospace">{score_label}</div>'
-            f'<div style="font-size:22px;font-weight:700;color:{ACCENT};'
+            f'font-family:{MONO}">{score_label}</div>'
+            f'<div style="font-size:28px;font-weight:500;color:{ACCENT};font-family:{SERIF};'
             f'font-variant-numeric:tabular-nums">{score_val}{gap_txt}</div>'
             f'{bar_html}'
             f'</td>'
@@ -249,20 +254,22 @@ def team_list_html(teams: list[dict],
         name = t.get("city") or t.get("name", "")
         rows += (
             f'<tr style="border-bottom:1px solid {RULE}">'
-            f'<td style="padding:11px 8px;font-size:18px;color:{MUTED};'
-            f'font-variant-numeric:tabular-nums;width:28px;vertical-align:top">{i}</td>'
-            f'<td style="padding:11px 8px 11px 0;vertical-align:top">'
-            f'<div style="font-size:14px;font-weight:600;color:{INK}">'
+            f'<td style="padding:12px 14px 12px 0;font-size:26px;color:{MUTED};'
+            f'font-family:{SERIF};font-variant-numeric:tabular-nums;width:42px;'
+            f'vertical-align:top;text-align:right">{i:02d}</td>'
+            f'<td style="padding:12px 16px 12px 0;vertical-align:top">'
+            f'<div style="font-size:19px;line-height:1.15;font-family:{SERIF};'
+            f'font-weight:500;color:{INK}">'
             f'{swatch(primary)}{name}</div>'
-            f'<div style="font-size:11px;color:{MUTED};font-family:monospace;margin-top:2px">'
+            f'<div style="font-size:10.5px;color:{MUTED};font-family:{MONO};margin-top:4px">'
             f'{meta_fn(t)}</div>'
-            f'<div style="font-size:11px;color:{INK2};font-family:monospace;margin-top:2px">'
+            f'<div style="font-size:10.5px;color:{INK2};font-family:{MONO};margin-top:2px">'
             f'{note_fn(t)}</div>'
             f'</td>'
-            f'<td style="padding:11px 0 11px 8px;text-align:right;vertical-align:top;white-space:nowrap">'
+            f'<td style="padding:12px 0 12px 8px;text-align:right;vertical-align:top;white-space:nowrap">'
             f'<div style="font-size:9px;letter-spacing:.08em;text-transform:uppercase;color:{MUTED};'
-            f'font-family:monospace">{score_label}</div>'
-            f'<div style="font-size:22px;font-weight:700;color:{ACCENT};'
+            f'font-family:{MONO}">{score_label}</div>'
+            f'<div style="font-size:28px;font-weight:500;color:{ACCENT};font-family:{SERIF};'
             f'font-variant-numeric:tabular-nums">{score_val}{gap_txt}</div>'
             f'{bar_html}'
             f'</td>'
@@ -279,13 +286,18 @@ def team_list_html(teams: list[dict],
 
 def section(kicker: str, title: str, sub: str, body: str) -> str:
     return (
-        f'<div style="border-top:1px solid {INK};padding:18px 28px 6px">'
-        f'<div style="font-size:9px;letter-spacing:.12em;text-transform:uppercase;'
-        f'color:{MUTED};font-family:monospace;margin-bottom:3px">{kicker}</div>'
-        f'<div style="font-size:21px;font-weight:700;color:{INK};'
-        f'letter-spacing:-.01em;margin-bottom:4px">{title}</div>'
-        f'<div style="font-size:11px;color:{MUTED};font-family:monospace;'
-        f'margin-bottom:14px">{sub}</div>'
+        f'<div style="border-top:1px solid {INK};padding:18px 28px 0">'
+        f'<table cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;margin-bottom:16px">'
+        f'<tr>'
+        f'<td style="width:18%;vertical-align:top;padding:0 16px 0 0;'
+        f'font-size:11px;letter-spacing:.12em;text-transform:uppercase;'
+        f'color:{MUTED};font-family:{MONO};line-height:1.45">[ {kicker} ]</td>'
+        f'<td style="width:44%;vertical-align:top;padding:0 18px 0 0;'
+        f'font-size:34px;font-weight:500;color:{INK};font-family:{SERIF};'
+        f'letter-spacing:-.01em;line-height:1.02">{title}</td>'
+        f'<td style="width:38%;vertical-align:top;padding:4px 0 0 0;'
+        f'font-size:12px;color:{MUTED};font-family:{MONO};line-height:1.55">{sub}</td>'
+        f'</tr></table>'
         f'{body}'
         f'</div>'
     )
@@ -293,16 +305,20 @@ def section(kicker: str, title: str, sub: str, body: str) -> str:
 
 def sport_header(sport: str, season: str, last_update: str, title: str = "") -> str:
     display = title or f"{sport} Playoffs"
-    top_border = f'border-top:4px solid {INK}'
     return (
-        f'<div style="background:{PAPER};{top_border};border-bottom:1px solid {INK};'
-        f'padding:18px 28px 20px">'
-        f'<div style="font-size:9px;letter-spacing:.12em;text-transform:uppercase;'
-        f'color:{MUTED};font-family:monospace;margin-bottom:4px">{sport} Tracker · {season}</div>'
-        f'<div style="font-size:42px;font-weight:700;color:{INK};letter-spacing:-.02em;'
-        f'line-height:1">{display}</div>'
-        f'<div style="font-size:11px;color:{MUTED};font-family:monospace;margin-top:6px">'
-        f'Actualizado {last_update}</div>'
+        f'<div style="background:{PAPER};border-top:2px solid {INK};'
+        f'border-bottom:1px solid {RULE};padding:18px 28px 28px">'
+        f'<table cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;margin-bottom:22px">'
+        f'<tr>'
+        f'<td style="font-size:10px;letter-spacing:.12em;text-transform:uppercase;'
+        f'color:{MUTED};font-family:{MONO};text-align:left">{sport} Tracker</td>'
+        f'<td style="font-size:10px;letter-spacing:.12em;text-transform:uppercase;'
+        f'color:{MUTED};font-family:{MONO};text-align:center">{season}</td>'
+        f'<td style="font-size:10px;color:{MUTED};font-family:{MONO};text-align:right">'
+        f'Actualizado {last_update}</td>'
+        f'</tr></table>'
+        f'<div style="font-size:56px;font-weight:500;color:{INK};font-family:{SERIF};'
+        f'letter-spacing:-.01em;line-height:1;text-align:left">{display}</div>'
         f'</div>'
     )
 
@@ -1385,8 +1401,8 @@ def build_email(nhl: dict, nba: dict, mlb: dict,
         + (sumo_html(sumo)     if sumo    else "")
     )
     footer = (
-        f'<div style="background:{BG};border-top:1px solid #d5d2ce;padding:16px 28px;'
-        f'font-size:10px;color:{MUTED};font-family:monospace">'
+        f'<div style="background:{PAPER};border-top:1px solid {RULE};padding:18px 28px;'
+        f'font-size:10px;color:{MUTED};font-family:{MONO};letter-spacing:.04em">'
         f'Hermes Newsletter &nbsp;·&nbsp; {today} &nbsp;·&nbsp; '
         f'NHL · NBA · MLB · NFL · F1 · MotoGP · AFL · Tennis · Cycling · Sumo'
         f'</div>'
@@ -1395,11 +1411,12 @@ def build_email(nhl: dict, nba: dict, mlb: dict,
         f'<!doctype html><html lang="es"><head>'
         f'<meta charset="utf-8">'
         f'<meta name="viewport" content="width=device-width,initial-scale=1">'
+        f'<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600;6..72,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">'
         f'<title>Hermes Newsletter</title>'
         f'</head>'
         f'<body style="margin:0;padding:0;background:{BG};'
-        f'font-family:Arial,Helvetica,sans-serif;font-size:14px;color:{INK}">'
-        f'<div style="max-width:680px;margin:0 auto;background:{PAPER}">'
+        f'font-family:{SANS};font-size:14px;color:{INK};line-height:1.45">'
+        f'<div style="max-width:1040px;margin:0 auto;background:{PAPER}">'
         f'{body}{footer}'
         f'</div>'
         f'</body></html>'
