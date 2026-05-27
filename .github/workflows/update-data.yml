@@ -1,9 +1,9 @@
-name: Update NHL data
+name: Update sports data & send newsletter
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "20 8 * * *"
+    - cron: "20 8 * * *"   # 08:20 UTC daily
 
 permissions:
   contents: write
@@ -20,17 +20,32 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Refresh generated data
+      # ── NHL Tracker data ────────────────────────────────────────────────────
+      - name: Update NHL tracker data (data.js)
         run: python3 scripts/update_data.py
 
+      # ── Sports newsletter data ──────────────────────────────────────────────
+      - name: Update sports newsletter data (sports-data.js)
+        run: python3 scripts/update_sports_data.py
+
+      # ── Commit both files if changed ────────────────────────────────────────
       - name: Commit updated data
         run: |
-          if git diff --quiet data.js; then
-            echo "No data changes."
-            exit 0
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.js
-          git commit -m "Update NHL data"
-          git push
+          git add data.js sports-data.js
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "Update sports data $(date '+%Y-%m-%d')"
+            git push
+          fi
+
+      # ── Send newsletter email ───────────────────────────────────────────────
+      # Skips silently if GMAIL_APP_PASSWORD secret is not configured
+      - name: Send newsletter email
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NEWSLETTER_RECIPIENTS: ${{ secrets.NEWSLETTER_RECIPIENTS }}
+        run: python3 scripts/send_newsletter.py
