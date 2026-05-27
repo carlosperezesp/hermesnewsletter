@@ -21,6 +21,7 @@ UPDATES = [
     ("F1",      SCRIPTS / "update_f1_data.py"),
     ("AFL",     SCRIPTS / "update_afl_data.py"),
     ("MotoGP",  SCRIPTS / "update_motogp_data.py"),
+    ("Rugby",   SCRIPTS / "update_rugby_data.py"),
 ]
 
 

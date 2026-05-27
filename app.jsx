@@ -1901,13 +1901,13 @@ function NewsletterApp() {
               <header className="newsletter-hero" style={{ marginTop: 48 }}>
                 <div className="newsletter-hero__masthead">
                   <span>Rugby Tracker</span>
-                  <span>World Rugby · Elo</span>
+                  <span>Hermes Elo · desde 1871</span>
                   <span>Actualizado {RUG.UPDATED}</span>
                 </div>
                 <div className="newsletter-hero__title-row">
                   <h1>Rugby Union</h1>
                   <p>
-                    Top 10 por rating Elo/World Rugby y legado de selecciones: rachas largas en la cima
+                    Top 10 por Hermes Elo y legado de selecciones: rachas largas en la cima
                     y Mundiales conquistados dentro de cada época.
                   </p>
                 </div>
@@ -1916,7 +1916,7 @@ function NewsletterApp() {
               <NewsletterSection
                 kicker="Rugby Elo"
                 title="Top 10 selecciones — Elo actual"
-                sub="Ranking por rating internacional. La segunda métrica muestra Mundiales ganados por cada selección."
+                sub={`Modelo propio desde 1871: ${RUG.SOURCE?.matches || 0} tests procesados hasta ${RUG.SOURCE?.through || RUG.UPDATED}. La segunda métrica muestra Mundiales ganados.`}
               >
                 <div className="newsletter-list">
                   {teams.map((team, i) => (

@@ -1433,10 +1433,10 @@ def rugby_html(d: dict) -> str:
 
     return (
         f'<div style="margin-top:32px"></div>'
-        + sport_header("Rugby", d.get("SEASON",""), d.get("UPDATED",""), title="Rugby Union")
+        + sport_header("Rugby", d.get("SEASON",""), d.get("UPDATED",""), title="Rugby Union · Hermes Elo")
         + section("Rugby Elo",
                   "Top 10 selecciones — Elo actual",
-                  "Ranking por rating internacional. La última columna muestra Mundiales ganados por cada selección.",
+                  f"Modelo propio desde 1871: {d.get('SOURCE',{}).get('matches',0)} tests procesados hasta {d.get('SOURCE',{}).get('through', d.get('UPDATED',''))}. La última columna muestra Mundiales ganados.",
                   rugby_rows(teams))
         + section("Road to Glory",
                   "Dinastías de Elo",
@@ -1503,6 +1503,7 @@ ALL_UPDATES = [
     ("F1",      "update_f1_data.py"),
     ("AFL",     "update_afl_data.py"),
     ("MotoGP",  "update_motogp_data.py"),
+    ("Rugby",   "update_rugby_data.py"),
 ]
 
 
