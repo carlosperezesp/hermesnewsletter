@@ -850,22 +850,33 @@ function NewsletterApp() {
           const wtaRecent = TENNIS.WTA_RECENT || [];
 
           const SURFACE_COLOR = { Clay: "#c47a4b", Grass: "#4a8c3f", Hard: "#3a6ea5", Carpet: "#6a4c9c" };
+          const playerScoreColors = score => {
+            if (score >= 85) return { bg: "#dcefe2", fg: "#1f7a3d" };
+            if (score >= 70) return { bg: "#e8efdc", fg: "#5f7d1e" };
+            if (score >= 55) return { bg: "#f5ead4", fg: "#a86513" };
+            return { bg: "#f8ded9", fg: "#c92d2d" };
+          };
           const playerScoreChip = score => score != null ? (
-            <span style={{
-              display: "inline-flex",
-              alignItems: "center",
-              justifyContent: "center",
-              minWidth: 34,
-              marginLeft: 5,
-              padding: "1px 5px",
-              borderRadius: 3,
-              background: "var(--accent-2, #f5ddd7)",
-              color: "var(--accent, #b84832)",
-              fontFamily: "monospace",
-              fontSize: 10,
-              fontWeight: 700,
-              verticalAlign: "middle",
-            }}>{Number(score).toFixed(1)}</span>
+            (() => {
+              const colors = playerScoreColors(Number(score));
+              return (
+                <span style={{
+                  display: "inline-flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                  minWidth: 34,
+                  marginLeft: 5,
+                  padding: "1px 5px",
+                  borderRadius: 3,
+                  background: colors.bg,
+                  color: colors.fg,
+                  fontFamily: "monospace",
+                  fontSize: 10,
+                  fontWeight: 700,
+                  verticalAlign: "middle",
+                }}>{Number(score).toFixed(1)}</span>
+              );
+            })()
           ) : null;
           function RecentResults({ data, tour }) {
             if (!data || !data.length) return null;
