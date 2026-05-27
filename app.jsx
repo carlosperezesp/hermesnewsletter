@@ -850,6 +850,23 @@ function NewsletterApp() {
           const wtaRecent = TENNIS.WTA_RECENT || [];
 
           const SURFACE_COLOR = { Clay: "#c47a4b", Grass: "#4a8c3f", Hard: "#3a6ea5", Carpet: "#6a4c9c" };
+          const playerScoreChip = score => score != null ? (
+            <span style={{
+              display: "inline-flex",
+              alignItems: "center",
+              justifyContent: "center",
+              minWidth: 34,
+              marginLeft: 5,
+              padding: "1px 5px",
+              borderRadius: 3,
+              background: "var(--accent-2, #f5ddd7)",
+              color: "var(--accent, #b84832)",
+              fontFamily: "monospace",
+              fontSize: 10,
+              fontWeight: 700,
+              verticalAlign: "middle",
+            }}>{Number(score).toFixed(1)}</span>
+          ) : null;
           function RecentResults({ data, tour }) {
             if (!data || !data.length) return null;
             return (
@@ -910,9 +927,11 @@ function NewsletterApp() {
                         <span style={{ minWidth: 0, overflow: "hidden" }}>
                           {m.w_logo && <img src={m.w_logo} style={{ width: 16, height: 12, verticalAlign: "middle", marginRight: 4, borderRadius: 1 }} />}
                           <span style={{ fontWeight: 600 }}>{m.w}</span>
+                          {playerScoreChip(m.w_score)}
                           <span style={{ color: "var(--muted, #888)", margin: "0 6px", fontSize: 11 }}>def.</span>
                           {m.l_logo && <img src={m.l_logo} style={{ width: 16, height: 12, verticalAlign: "middle", marginRight: 4, borderRadius: 1 }} />}
                           <span style={{ color: "var(--ink-2, #666)" }}>{m.l}</span>
+                          {playerScoreChip(m.l_score)}
                         </span>
                         <span style={{ fontFamily: "monospace", fontSize: 12, color: "var(--ink-2, #666)", whiteSpace: "nowrap" }}>
                           {m.score}

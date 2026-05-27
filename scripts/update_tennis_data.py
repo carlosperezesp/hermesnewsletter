@@ -188,7 +188,46 @@ def _player_cell(cell_html: str) -> str:
     return _cell_text(cell_html)
 
 
-def _tml_recent_results() -> list[dict]:
+def _name_key(name: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "", name.lower())
+
+
+def _score_lookup(players: list[dict]) -> dict[str, float]:
+    out: dict[str, float] = {}
+    for p in players:
+        score = p.get("activeScore")
+        if isinstance(score, (int, float)):
+            out[_name_key(p.get("name", ""))] = float(score)
+    return out
+
+
+def _player_score(name: str, scores: dict[str, float]) -> float | None:
+    return scores.get(_name_key(name))
+
+
+def _with_match_scores(match: dict, scores: dict[str, float]) -> dict:
+    w_score = _player_score(match.get("w", ""), scores)
+    l_score = _player_score(match.get("l", ""), scores)
+    numeric = [s for s in (w_score, l_score) if isinstance(s, (int, float))]
+    return {
+        **match,
+        "w_score": round(w_score, 1) if isinstance(w_score, (int, float)) else None,
+        "l_score": round(l_score, 1) if isinstance(l_score, (int, float)) else None,
+        "match_score": round(max(numeric), 1) if numeric else 0.0,
+    }
+
+
+def _rank_recent_tournaments(tournaments: list[dict], scores: dict[str, float], limit: int = 8) -> list[dict]:
+    out = []
+    for t in tournaments:
+        matches = [_with_match_scores(m, scores) for m in t.get("matches", [])]
+        matches.sort(key=lambda m: (-m.get("match_score", 0), m.get("round", ""), m.get("w", "")))
+        if matches:
+            out.append({**t, "matches": matches[:limit]})
+    return out
+
+
+def _tml_recent_results(scores: dict[str, float]) -> list[dict]:
     """Fetch dated latest important ATP matches from TennisMyLife."""
     today = _date.today()
     wanted_dates = {(today - timedelta(days=1)).isoformat(), today.isoformat()}
@@ -230,10 +269,10 @@ def _tml_recent_results() -> list[dict]:
             "day": "ayer" if match_date == (today - timedelta(days=1)).isoformat() else "hoy",
         })
 
-    return list(grouped.values())
+    return _rank_recent_tournaments(list(grouped.values()), scores)
 
 
-def _recent_results(tour: str) -> list[dict]:
+def _recent_results(tour: str, scores: dict[str, float]) -> list[dict]:
     """Return latest results from important tournaments active yesterday/today."""
     today = _date.today()
     yesterday = today - timedelta(days=1)
@@ -293,6 +332,8 @@ def _recent_results(tour: str) -> list[dict]:
             for m in matches
             if m.get("winner_name") and m.get("score") and "W/O" not in m.get("score", "")
         ][:12]
+
+        entries = _rank_recent_tournaments([{"matches": entries}], scores)[0]["matches"] if entries else []
 
         if entries:
             result.append({
@@ -811,9 +852,11 @@ def build_tour_data(tour: str, prev_ranks: dict[str, int] | None = None) -> list
         else:
             p["legendScore"] = 50.0
 
+    score_lookup = {p["name"]: p["activeScore"] for p in scored}
+
     # sort by active score desc, take top N
     scored.sort(key=lambda x: x["activeScore"], reverse=True)
-    return scored[:TOP_N]
+    return scored[:TOP_N], score_lookup
 
 
 # Tournament windows: (month_start, day_start, month_end, day_end, importance)
@@ -868,7 +911,7 @@ def write_data() -> None:
     print("Building ATP data…", file=sys.stderr)
     atp_meta     = _players("atp")
     atp_curr, atp_prev, atp_curr_date, atp_prev_date = _rankings_two_weeks("atp")
-    atp          = build_tour_data("atp", _prev_rank_map(atp_prev))
+    atp, atp_scores = build_tour_data("atp", _prev_rank_map(atp_prev))
     atp_changes  = _top10_changes(atp_curr, atp_prev, atp_meta, atp_curr_date, atp_prev_date)
     atp_legends  = build_legends_tennis("atp")
     # Añadir prevListRank (posición en nuestra lista por activeScore, semana anterior)
@@ -878,7 +921,7 @@ def write_data() -> None:
     print("Building WTA data…", file=sys.stderr)
     wta_meta     = _players("wta")
     wta_curr, wta_prev, wta_curr_date, wta_prev_date = _rankings_two_weeks("wta")
-    wta          = build_tour_data("wta", _prev_rank_map(wta_prev))
+    wta, wta_scores = build_tour_data("wta", _prev_rank_map(wta_prev))
     wta_changes  = _top10_changes(wta_curr, wta_prev, wta_meta, wta_curr_date, wta_prev_date)
     wta_legends  = build_legends_tennis("wta")
     for i, p in enumerate(wta):
@@ -887,8 +930,10 @@ def write_data() -> None:
     importance = _tennis_importance()
 
     print("Building recent match results…", file=sys.stderr)
-    atp_recent = _tml_recent_results() or _recent_results("atp")
-    wta_recent = _recent_results("wta")
+    atp_score_lookup = {_name_key(name): score for name, score in atp_scores.items()}
+    wta_score_lookup = {_name_key(name): score for name, score in wta_scores.items()}
+    atp_recent = _tml_recent_results(atp_score_lookup) or _recent_results("atp", atp_score_lookup)
+    wta_recent = _recent_results("wta", wta_score_lookup)
 
     payload = {
         "UPDATED":     updated,

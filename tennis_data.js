@@ -1,6 +1,6 @@
-// Auto-generated 2026-05-27 11:23 UTC
+// Auto-generated 2026-05-27 11:31 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-05-27 11:23 UTC",
+  "UPDATED": "2026-05-27 11:31 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1311,48 +1311,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Felix Auger-Aliassime",
+          "w": "Jannik Sinner",
           "w_logo": "",
-          "l": "Daniel Altmaier",
+          "l": "Clement Tabur",
           "l_logo": "",
-          "score": "4-6 6-4 4-6 6-1 7-6(7)",
-          "day": "ayer"
-        },
-        {
-          "round": "R128",
-          "w": "Jaime Faria",
-          "w_logo": "",
-          "l": "Denis Shapovalov",
-          "l_logo": "",
-          "score": "6-4 7-5 6-4",
-          "day": "ayer"
-        },
-        {
-          "round": "R128",
-          "w": "Francisco Comesana",
-          "w_logo": "",
-          "l": "Ethan Quinn",
-          "l_logo": "",
-          "score": "6-4 7-6(8) 7-6(4)",
-          "day": "ayer"
-        },
-        {
-          "round": "R128",
-          "w": "Juan Manuel Cerundolo",
-          "w_logo": "",
-          "l": "Jacob Fearnley",
-          "l_logo": "",
-          "score": "6-2 7-6(0) 7-6(7)",
-          "day": "ayer"
-        },
-        {
-          "round": "R128",
-          "w": "Luciano Darderi",
-          "w_logo": "",
-          "l": "Sebastian Ofner",
-          "l_logo": "",
-          "score": "7-6(5) 6-2 6-3",
-          "day": "ayer"
+          "score": "6-1 6-3 6-4",
+          "day": "ayer",
+          "w_score": 100.0,
+          "l_score": 52.7,
+          "match_score": 100.0
         },
         {
           "round": "R128",
@@ -1361,16 +1328,34 @@ window.TENNIS_DATA = {
           "l": "Alexander Bublik",
           "l_logo": "",
           "score": "7-5 6-7(6) 6-4 7-5",
-          "day": "ayer"
+          "day": "ayer",
+          "w_score": 52.9,
+          "l_score": 76.0,
+          "match_score": 76.0
         },
         {
           "round": "R128",
-          "w": "Jannik Sinner",
+          "w": "Felix Auger-Aliassime",
           "w_logo": "",
-          "l": "Clement Tabur",
+          "l": "Daniel Altmaier",
           "l_logo": "",
-          "score": "6-1 6-3 6-4",
-          "day": "ayer"
+          "score": "4-6 6-4 4-6 6-1 7-6(7)",
+          "day": "ayer",
+          "w_score": 75.5,
+          "l_score": 55.3,
+          "match_score": 75.5
+        },
+        {
+          "round": "R128",
+          "w": "Luciano Darderi",
+          "w_logo": "",
+          "l": "Sebastian Ofner",
+          "l_logo": "",
+          "score": "7-6(5) 6-2 6-3",
+          "day": "ayer",
+          "w_score": 66.7,
+          "l_score": 45.0,
+          "match_score": 66.7
         },
         {
           "round": "R128",
@@ -1379,7 +1364,34 @@ window.TENNIS_DATA = {
           "l": "Corentin Moutet",
           "l_logo": "",
           "score": "6-3 5-7 6-4 3-6 6-3",
-          "day": "ayer"
+          "day": "ayer",
+          "w_score": 59.5,
+          "l_score": 62.7,
+          "match_score": 62.7
+        },
+        {
+          "round": "R128",
+          "w": "Jaime Faria",
+          "w_logo": "",
+          "l": "Denis Shapovalov",
+          "l_logo": "",
+          "score": "6-4 7-5 6-4",
+          "day": "ayer",
+          "w_score": 50.9,
+          "l_score": 61.3,
+          "match_score": 61.3
+        },
+        {
+          "round": "R128",
+          "w": "Juan Manuel Cerundolo",
+          "w_logo": "",
+          "l": "Jacob Fearnley",
+          "l_logo": "",
+          "score": "6-2 7-6(0) 7-6(7)",
+          "day": "ayer",
+          "w_score": 57.8,
+          "l_score": 49.0,
+          "match_score": 57.8
         },
         {
           "round": "R128",
@@ -1388,7 +1400,10 @@ window.TENNIS_DATA = {
           "l": "Juan Carlos Prado Angelo",
           "l_logo": "",
           "score": "6-3 4-6 6-2 6-7(3) 6-4",
-          "day": "ayer"
+          "day": "ayer",
+          "w_score": 55.4,
+          "l_score": 53.4,
+          "match_score": 55.4
         }
       ]
     }
