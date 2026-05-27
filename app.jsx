@@ -1916,7 +1916,7 @@ function NewsletterApp() {
               <NewsletterSection
                 kicker="Rugby Elo"
                 title="Top 10 selecciones — Elo actual"
-                sub={`Modelo propio desde 1871: ${RUG.SOURCE?.matches || 0} tests procesados hasta ${RUG.SOURCE?.through || RUG.UPDATED}. La segunda métrica muestra Mundiales ganados.`}
+                sub={`Modelo propio desde 1871: ${RUG.SOURCE?.matches || 0} tests procesados hasta ${RUG.SOURCE?.through || RUG.UPDATED}. Top 10 limitado a selecciones con histórico completo; rivales recientes también ajustan el Elo.`}
               >
                 <div className="newsletter-list">
                   {teams.map((team, i) => (

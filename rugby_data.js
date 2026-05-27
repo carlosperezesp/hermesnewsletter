@@ -1,11 +1,14 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2024-08-17",
+  "UPDATED": "2026-04-10",
   "SOURCE": {
-    "name": "International Rugby Union results from 1871-2024",
+    "name": "International Rugby Union results from 1871-2024 + ESPN rugby results",
     "file": "data_sources/rugby_results.csv",
-    "matches": 2783,
-    "through": "2024-08-17"
+    "incremental": "ESPN scorepanel by national team/year",
+    "historicalThrough": "2024-08-17",
+    "incrementalMatches": 187,
+    "matches": 2970,
+    "through": "2026-04-10"
   },
   "IMPORTANCE": 3.7,
   "ELO_MODEL": {
@@ -18,203 +21,203 @@ window.RUGBY_DATA = {
   "TEAMS": [
     {
       "rank": 1,
-      "name": "Ireland",
-      "teamCode": "IRE",
-      "country": "Ireland",
-      "elo": 1830.3,
-      "peakElo": 1881.6,
-      "peakDate": "2023-10-07",
-      "worldCups": 0,
-      "record": {
-        "w": 295,
-        "l": 357,
-        "d": 30
-      },
-      "colors": {
-        "primary": "#169b62",
-        "secondary": "#ff883e"
-      },
-      "note": "295V-357D-30E desde 1871 · pico 1882"
-    },
-    {
-      "rank": 2,
       "name": "South Africa",
       "teamCode": "RSA",
       "country": "South Africa",
-      "elo": 1813.6,
+      "elo": 1884.3,
       "peakElo": 1937.2,
       "peakDate": "1998-11-28",
       "worldCups": 4,
       "record": {
-        "w": 271,
-        "l": 157,
+        "w": 289,
+        "l": 160,
         "d": 18
       },
       "colors": {
         "primary": "#007a4d",
         "secondary": "#ffb612"
       },
-      "note": "271V-157D-18E desde 1871 · pico 1937"
+      "note": "289V-160D-18E desde 1871 · pico 1937"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "New Zealand",
       "teamCode": "NZL",
       "country": "New Zealand",
-      "elo": 1699.6,
+      "elo": 1794.3,
       "peakElo": 2068.1,
       "peakDate": "2016-10-22",
       "worldCups": 3,
       "record": {
-        "w": 416,
-        "l": 117,
+        "w": 432,
+        "l": 123,
         "d": 19
       },
       "colors": {
         "primary": "#111111",
         "secondary": "#d8d8d8"
       },
-      "note": "416V-117D-19E desde 1871 · pico 2068"
+      "note": "432V-123D-19E desde 1871 · pico 2068"
+    },
+    {
+      "rank": 3,
+      "name": "Ireland",
+      "teamCode": "IRE",
+      "country": "Ireland",
+      "elo": 1758.1,
+      "peakElo": 1881.6,
+      "peakDate": "2023-10-07",
+      "worldCups": 0,
+      "record": {
+        "w": 310,
+        "l": 362,
+        "d": 30
+      },
+      "colors": {
+        "primary": "#169b62",
+        "secondary": "#ff883e"
+      },
+      "note": "310V-362D-30E desde 1871 · pico 1882"
     },
     {
       "rank": 4,
       "name": "France",
       "teamCode": "FRA",
       "country": "France",
-      "elo": 1672.5,
-      "peakElo": 1750.0,
-      "peakDate": "2023-10-06",
+      "elo": 1696.4,
+      "peakElo": 1752.0,
+      "peakDate": "2025-03-15",
       "worldCups": 0,
       "record": {
-        "w": 344,
-        "l": 311,
+        "w": 357,
+        "l": 317,
         "d": 31
       },
       "colors": {
         "primary": "#1d4f91",
         "secondary": "#d80f2a"
       },
-      "note": "344V-311D-31E desde 1871 · pico 1750"
+      "note": "357V-317D-31E desde 1871 · pico 1752"
     },
     {
       "rank": 5,
       "name": "England",
       "teamCode": "ENG",
       "country": "England",
-      "elo": 1508.8,
+      "elo": 1584.3,
       "peakElo": 1925.5,
       "peakDate": "2004-02-21",
       "worldCups": 1,
       "record": {
-        "w": 391,
-        "l": 298,
+        "w": 404,
+        "l": 306,
         "d": 52
       },
       "colors": {
         "primary": "#ffffff",
         "secondary": "#cf142b"
       },
-      "note": "391V-298D-52E desde 1871 · pico 1926"
+      "note": "404V-306D-52E desde 1871 · pico 1926"
     },
     {
       "rank": 6,
       "name": "Scotland",
       "teamCode": "SCO",
       "country": "Scotland",
-      "elo": 1436.1,
+      "elo": 1550.5,
       "peakElo": 1663.9,
       "peakDate": "1892-02-20",
       "worldCups": 0,
       "record": {
-        "w": 259,
-        "l": 378,
+        "w": 270,
+        "l": 387,
         "d": 32
       },
       "colors": {
         "primary": "#005eb8",
         "secondary": "#ffffff"
       },
-      "note": "259V-378D-32E desde 1871 · pico 1664"
+      "note": "270V-387D-32E desde 1871 · pico 1664"
     },
     {
       "rank": 7,
       "name": "Argentina",
       "teamCode": "ARG",
       "country": "Argentina",
-      "elo": 1423.1,
+      "elo": 1518.0,
       "peakElo": 1610.7,
       "peakDate": "2008-06-07",
       "worldCups": 0,
       "record": {
-        "w": 74,
-        "l": 198,
+        "w": 83,
+        "l": 209,
         "d": 9
       },
       "colors": {
         "primary": "#75aadb",
         "secondary": "#f6b40e"
       },
-      "note": "74V-198D-9E desde 1871 · pico 1611"
+      "note": "83V-209D-9E desde 1871 · pico 1611"
     },
     {
       "rank": 8,
       "name": "Australia",
       "teamCode": "AUS",
       "country": "Australia",
-      "elo": 1373.6,
+      "elo": 1402.2,
       "peakElo": 1961.5,
       "peakDate": "2000-11-11",
       "worldCups": 2,
       "record": {
-        "w": 263,
-        "l": 274,
+        "w": 271,
+        "l": 289,
         "d": 19
       },
       "colors": {
         "primary": "#ffcd00",
         "secondary": "#00843d"
       },
-      "note": "263V-274D-19E desde 1871 · pico 1961"
+      "note": "271V-289D-19E desde 1871 · pico 1961"
     },
     {
       "rank": 9,
       "name": "Wales",
       "teamCode": "WAL",
       "country": "Wales",
-      "elo": 1265.2,
+      "elo": 1227.8,
       "peakElo": 1750.6,
       "peakDate": "1978-03-18",
       "worldCups": 0,
       "record": {
-        "w": 322,
-        "l": 342,
+        "w": 325,
+        "l": 358,
         "d": 29
       },
       "colors": {
         "primary": "#c8102e",
         "secondary": "#ffffff"
       },
-      "note": "322V-342D-29E desde 1871 · pico 1751"
+      "note": "325V-358D-29E desde 1871 · pico 1751"
     },
     {
       "rank": 10,
       "name": "Italy",
       "teamCode": "ITA",
       "country": "Italy",
-      "elo": 977.1,
+      "elo": 1219.2,
       "peakElo": 1448.9,
       "peakDate": "1937-10-17",
       "worldCups": 0,
       "record": {
-        "w": 27,
-        "l": 230,
+        "w": 34,
+        "l": 242,
         "d": 3
       },
       "colors": {
         "primary": "#0066b3",
         "secondary": "#009246"
       },
-      "note": "27V-230D-3E desde 1871 · pico 1449"
+      "note": "34V-242D-3E desde 1871 · pico 1449"
     }
   ],
   "ROAD_TO_GLORY": {

@@ -1436,7 +1436,7 @@ def rugby_html(d: dict) -> str:
         + sport_header("Rugby", d.get("SEASON",""), d.get("UPDATED",""), title="Rugby Union · Hermes Elo")
         + section("Rugby Elo",
                   "Top 10 selecciones — Elo actual",
-                  f"Modelo propio desde 1871: {d.get('SOURCE',{}).get('matches',0)} tests procesados hasta {d.get('SOURCE',{}).get('through', d.get('UPDATED',''))}. La última columna muestra Mundiales ganados.",
+                  f"Modelo propio desde 1871: {d.get('SOURCE',{}).get('matches',0)} tests procesados hasta {d.get('SOURCE',{}).get('through', d.get('UPDATED',''))}. Top 10 limitado a selecciones con histórico completo; rivales recientes también ajustan el Elo.",
                   rugby_rows(teams))
         + section("Road to Glory",
                   "Dinastías de Elo",
