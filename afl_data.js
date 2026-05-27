@@ -1,6 +1,6 @@
-// Auto-generated 2026-05-25 21:27 UTC
+// Auto-generated 2026-05-27 11:51 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-05-25 21:27 UTC",
+  "UPDATED": "2026-05-27 11:51 UTC",
   "SEASON": "2026",
   "ROUND": 11,
   "IMPORTANCE": 7.7,
@@ -14,7 +14,8 @@ window.AFL_DATA = {
       "pts": 40,
       "percentage": 135.5,
       "primary": "#2A0D54",
-      "secondary": "#FFFFFF"
+      "secondary": "#FFFFFF",
+      "prevRank": null
     },
     {
       "rank": 2,
@@ -25,7 +26,8 @@ window.AFL_DATA = {
       "pts": 36,
       "percentage": 142.5,
       "primary": "#F57F00",
-      "secondary": "#002040"
+      "secondary": "#002040",
+      "prevRank": null
     },
     {
       "rank": 3,
@@ -36,7 +38,8 @@ window.AFL_DATA = {
       "pts": 32,
       "percentage": 124.4,
       "primary": "#002A54",
-      "secondary": "#FFFFFF"
+      "secondary": "#FFFFFF",
+      "prevRank": null
     },
     {
       "rank": 4,
@@ -47,7 +50,8 @@ window.AFL_DATA = {
       "pts": 30,
       "percentage": 110.4,
       "primary": "#4D2004",
-      "secondary": "#FFD200"
+      "secondary": "#FFD200",
+      "prevRank": null
     },
     {
       "rank": 5,
@@ -58,7 +62,8 @@ window.AFL_DATA = {
       "pts": 28,
       "percentage": 116.9,
       "primary": "#C5002F",
-      "secondary": "#F1B500"
+      "secondary": "#F1B500",
+      "prevRank": null
     },
     {
       "rank": 6,
@@ -69,7 +74,8 @@ window.AFL_DATA = {
       "pts": 28,
       "percentage": 106.7,
       "primary": "#CC2031",
-      "secondary": "#013B9F"
+      "secondary": "#013B9F",
+      "prevRank": null
     },
     {
       "rank": 7,
@@ -80,7 +86,8 @@ window.AFL_DATA = {
       "pts": 24,
       "percentage": 107.9,
       "primary": "#002B5C",
-      "secondary": "#CC2031"
+      "secondary": "#CC2031",
+      "prevRank": null
     },
     {
       "rank": 8,
@@ -91,7 +98,8 @@ window.AFL_DATA = {
       "pts": 24,
       "percentage": 106.6,
       "primary": "#7B1A4B",
-      "secondary": "#F6AE00"
+      "secondary": "#F6AE00",
+      "prevRank": null
     },
     {
       "rank": 9,
@@ -312,7 +320,8 @@ window.AFL_DATA = {
         "brownlow": 0,
         "all_aus": 5,
         "birth": 1947
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "dick_reynolds",
@@ -329,7 +338,8 @@ window.AFL_DATA = {
         "brownlow": 3,
         "all_aus": 0,
         "birth": 1915
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "sam_mitchell",
@@ -346,7 +356,8 @@ window.AFL_DATA = {
         "brownlow": 1,
         "all_aus": 3,
         "birth": 1983
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "ron_barassi",
@@ -363,7 +374,8 @@ window.AFL_DATA = {
         "brownlow": 0,
         "all_aus": 0,
         "birth": 1936
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "leigh_matthews",
@@ -380,7 +392,8 @@ window.AFL_DATA = {
         "brownlow": 0,
         "all_aus": 4,
         "birth": 1952
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "jason_dunstall",
@@ -397,7 +410,8 @@ window.AFL_DATA = {
         "brownlow": 0,
         "all_aus": 3,
         "birth": 1965
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "dustin_martin",
@@ -414,7 +428,8 @@ window.AFL_DATA = {
         "brownlow": 1,
         "all_aus": 5,
         "birth": 1991
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "gary_ablett_jr",
@@ -431,7 +446,8 @@ window.AFL_DATA = {
         "brownlow": 2,
         "all_aus": 6,
         "birth": 1984
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "cyril_rioli",
@@ -448,7 +464,8 @@ window.AFL_DATA = {
         "brownlow": 0,
         "all_aus": 2,
         "birth": 1990
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "adam_goodes",
@@ -465,7 +482,8 @@ window.AFL_DATA = {
         "brownlow": 2,
         "all_aus": 5,
         "birth": 1980
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "wayne_carey",
@@ -482,7 +500,8 @@ window.AFL_DATA = {
         "brownlow": 0,
         "all_aus": 8,
         "birth": 1971
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "patrick_dangerfield",
@@ -499,7 +518,8 @@ window.AFL_DATA = {
         "brownlow": 1,
         "all_aus": 8,
         "birth": 1990
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "nathan_buckley",
@@ -516,7 +536,8 @@ window.AFL_DATA = {
         "brownlow": 1,
         "all_aus": 8,
         "birth": 1972
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "bob_skilton",
@@ -533,7 +554,8 @@ window.AFL_DATA = {
         "brownlow": 3,
         "all_aus": 0,
         "birth": 1938
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "gary_ablett_sr",
@@ -550,7 +572,8 @@ window.AFL_DATA = {
         "brownlow": 1,
         "all_aus": 5,
         "birth": 1961
-      }
+      },
+      "prevRank": null
     }
   ]
 };

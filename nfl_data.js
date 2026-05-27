@@ -763,7 +763,8 @@ window.NFL_DATA = {
         "int": 8,
         "rushYds": 1,
         "rushTd": 0
-      }
+      },
+      "prevRank": null
     },
     {
       "id": 3046779,
@@ -788,7 +789,8 @@ window.NFL_DATA = {
         "int": 8,
         "rushYds": 45,
         "rushTd": 1
-      }
+      },
+      "prevRank": null
     },
     {
       "id": 4431452,
@@ -813,7 +815,8 @@ window.NFL_DATA = {
         "int": 8,
         "rushYds": 450,
         "rushTd": 2
-      }
+      },
+      "prevRank": null
     },
     {
       "id": 2577417,
@@ -838,7 +841,8 @@ window.NFL_DATA = {
         "int": 10,
         "rushYds": 177,
         "rushTd": 0
-      }
+      },
+      "prevRank": null
     },
     {
       "id": 4431611,
@@ -863,7 +867,8 @@ window.NFL_DATA = {
         "int": 7,
         "rushYds": 388,
         "rushTd": 2
-      }
+      },
+      "prevRank": null
     },
     {
       "id": 4360310,
@@ -888,7 +893,8 @@ window.NFL_DATA = {
         "int": 12,
         "rushYds": 359,
         "rushTd": 2
-      }
+      },
+      "prevRank": null
     },
     {
       "id": 4426338,
@@ -913,7 +919,8 @@ window.NFL_DATA = {
         "int": 11,
         "rushYds": 356,
         "rushTd": 3
-      }
+      },
+      "prevRank": null
     },
     {
       "id": 3052587,
@@ -938,7 +945,8 @@ window.NFL_DATA = {
         "int": 11,
         "rushYds": 382,
         "rushTd": 5
-      }
+      },
+      "prevRank": null
     },
     {
       "id": 4040715,
@@ -963,7 +971,8 @@ window.NFL_DATA = {
         "int": 6,
         "rushYds": 421,
         "rushTd": 2
-      }
+      },
+      "prevRank": null
     },
     {
       "id": 3918298,
@@ -988,7 +997,8 @@ window.NFL_DATA = {
         "int": 10,
         "rushYds": 579,
         "rushTd": 5
-      }
+      },
+      "prevRank": null
     },
     {
       "id": 3912547,
@@ -2024,7 +2034,7 @@ window.NFL_DATA = {
   "SEASON": "2025",
   "SEASON_STATUS": "offseason",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-05-26 13:43 UTC",
+  "LAST_UPDATE": "2026-05-27 11:51 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

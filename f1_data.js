@@ -1,6 +1,6 @@
-// Auto-generated 2026-05-26 14:53 UTC
+// Auto-generated 2026-05-27 11:51 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-05-26 14:53 UTC",
+  "UPDATED": "2026-05-27 11:51 UTC",
   "SEASON": "2026",
   "ROUND": 5,
   "TOTAL_ROUNDS": 24,
@@ -27,7 +27,8 @@ window.F1_DATA = {
       "stats": {
         "pts": 131.0,
         "wins": 0
-      }
+      },
+      "prevRank": null
     },
     {
       "position": 2,
@@ -49,7 +50,8 @@ window.F1_DATA = {
       "stats": {
         "pts": 88.0,
         "wins": 0
-      }
+      },
+      "prevRank": null
     },
     {
       "position": 3,
@@ -71,7 +73,8 @@ window.F1_DATA = {
       "stats": {
         "pts": 75.0,
         "wins": 0
-      }
+      },
+      "prevRank": null
     },
     {
       "position": 4,
@@ -93,7 +96,8 @@ window.F1_DATA = {
       "stats": {
         "pts": 72.0,
         "wins": 0
-      }
+      },
+      "prevRank": null
     },
     {
       "position": 5,
@@ -115,7 +119,8 @@ window.F1_DATA = {
       "stats": {
         "pts": 58.0,
         "wins": 0
-      }
+      },
+      "prevRank": null
     },
     {
       "position": 6,
@@ -137,7 +142,8 @@ window.F1_DATA = {
       "stats": {
         "pts": 48.0,
         "wins": 0
-      }
+      },
+      "prevRank": null
     },
     {
       "position": 7,
@@ -159,7 +165,8 @@ window.F1_DATA = {
       "stats": {
         "pts": 43.0,
         "wins": 0
-      }
+      },
+      "prevRank": null
     },
     {
       "position": 8,
@@ -181,7 +188,8 @@ window.F1_DATA = {
       "stats": {
         "pts": 20.0,
         "wins": 0
-      }
+      },
+      "prevRank": null
     },
     {
       "position": 9,
@@ -203,7 +211,8 @@ window.F1_DATA = {
       "stats": {
         "pts": 18.0,
         "wins": 0
-      }
+      },
+      "prevRank": null
     },
     {
       "position": 10,
@@ -225,7 +234,8 @@ window.F1_DATA = {
       "stats": {
         "pts": 16.0,
         "wins": 0
-      }
+      },
+      "prevRank": null
     }
   ],
   "CONSTRUCTORS": [
@@ -317,7 +327,8 @@ window.F1_DATA = {
         "poles": 104,
         "podiums": 197,
         "birth": 1985
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "michael_schumacher",
@@ -335,7 +346,8 @@ window.F1_DATA = {
         "poles": 68,
         "podiums": 155,
         "birth": 1969
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "sebastian_vettel",
@@ -353,7 +365,8 @@ window.F1_DATA = {
         "poles": 57,
         "podiums": 122,
         "birth": 1987
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "max_verstappen",
@@ -371,7 +384,8 @@ window.F1_DATA = {
         "poles": 40,
         "podiums": 113,
         "birth": 1997
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "alain_prost",
@@ -389,7 +403,8 @@ window.F1_DATA = {
         "poles": 33,
         "podiums": 106,
         "birth": 1955
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "juan_manuel_fangio",
@@ -407,7 +422,8 @@ window.F1_DATA = {
         "poles": 29,
         "podiums": 35,
         "birth": 1911
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "ayrton_senna",
@@ -425,7 +441,8 @@ window.F1_DATA = {
         "poles": 65,
         "podiums": 80,
         "birth": 1960
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "niki_lauda",
@@ -443,7 +460,8 @@ window.F1_DATA = {
         "poles": 24,
         "podiums": 54,
         "birth": 1949
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "nelson_piquet",
@@ -461,7 +479,8 @@ window.F1_DATA = {
         "poles": 24,
         "podiums": 60,
         "birth": 1952
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "jackie_stewart",
@@ -479,7 +498,8 @@ window.F1_DATA = {
         "poles": 17,
         "podiums": 43,
         "birth": 1939
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "fernando_alonso",
@@ -497,7 +517,8 @@ window.F1_DATA = {
         "poles": 22,
         "podiums": 106,
         "birth": 1981
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "jim_clark",
@@ -515,7 +536,8 @@ window.F1_DATA = {
         "poles": 33,
         "podiums": 32,
         "birth": 1936
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "mika_hakkinen",
@@ -533,7 +555,8 @@ window.F1_DATA = {
         "poles": 26,
         "podiums": 51,
         "birth": 1968
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "nigel_mansell",
@@ -551,7 +574,8 @@ window.F1_DATA = {
         "poles": 32,
         "podiums": 59,
         "birth": 1953
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "charles_leclerc",
@@ -569,7 +593,8 @@ window.F1_DATA = {
         "poles": 26,
         "podiums": 40,
         "birth": 1997
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "lando_norris",
@@ -587,7 +612,8 @@ window.F1_DATA = {
         "poles": 8,
         "podiums": 33,
         "birth": 2000
-      }
+      },
+      "prevRank": null
     }
   ]
 };

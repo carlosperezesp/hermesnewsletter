@@ -1,6 +1,6 @@
-// Auto-generated 2026-05-26 13:42 UTC
+// Auto-generated 2026-05-27 11:51 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-05-26 13:42 UTC",
+  "UPDATED": "2026-05-27 11:51 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -19,7 +19,8 @@ window.CYCLING_DATA = {
         "monuments": 19,
         "worlds": 3,
         "birth": 1945
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "bernard_hinault",
@@ -38,7 +39,8 @@ window.CYCLING_DATA = {
         "monuments": 6,
         "worlds": 2,
         "birth": 1954
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "fausto_coppi",
@@ -57,7 +59,8 @@ window.CYCLING_DATA = {
         "monuments": 7,
         "worlds": 2,
         "birth": 1919
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "jacques_anquetil",
@@ -76,7 +79,8 @@ window.CYCLING_DATA = {
         "monuments": 2,
         "worlds": 0,
         "birth": 1934
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "miguel_indurain",
@@ -95,7 +99,8 @@ window.CYCLING_DATA = {
         "monuments": 1,
         "worlds": 0,
         "birth": 1964
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "tadej_pogacar",
@@ -114,7 +119,8 @@ window.CYCLING_DATA = {
         "monuments": 6,
         "worlds": 1,
         "birth": 2000
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "chris_froome",
@@ -133,7 +139,8 @@ window.CYCLING_DATA = {
         "monuments": 0,
         "worlds": 0,
         "birth": 1985
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "felice_gimondi",
@@ -152,7 +159,8 @@ window.CYCLING_DATA = {
         "monuments": 4,
         "worlds": 1,
         "birth": 1942
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "alberto_contador",
@@ -171,7 +179,8 @@ window.CYCLING_DATA = {
         "monuments": 0,
         "worlds": 0,
         "birth": 1982
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "laurent_fignon",
@@ -190,7 +199,8 @@ window.CYCLING_DATA = {
         "monuments": 3,
         "worlds": 1,
         "birth": 1960
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "fabian_cancellara",
@@ -209,7 +219,8 @@ window.CYCLING_DATA = {
         "monuments": 11,
         "worlds": 2,
         "birth": 1981
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "vincenzo_nibali",
@@ -228,7 +239,8 @@ window.CYCLING_DATA = {
         "monuments": 3,
         "worlds": 0,
         "birth": 1984
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "greg_lemond",
@@ -247,7 +259,8 @@ window.CYCLING_DATA = {
         "monuments": 1,
         "worlds": 2,
         "birth": 1961
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "primoz_roglic",
@@ -266,7 +279,8 @@ window.CYCLING_DATA = {
         "monuments": 1,
         "worlds": 0,
         "birth": 1989
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "peter_sagan",
@@ -285,7 +299,8 @@ window.CYCLING_DATA = {
         "monuments": 7,
         "worlds": 3,
         "birth": 1990
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "roger_de_vlaeminck",
@@ -304,7 +319,8 @@ window.CYCLING_DATA = {
         "monuments": 8,
         "worlds": 0,
         "birth": 1947
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "remco_evenepoel",
@@ -323,7 +339,8 @@ window.CYCLING_DATA = {
         "monuments": 3,
         "worlds": 2,
         "birth": 2000
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "sean_kelly",
@@ -342,7 +359,8 @@ window.CYCLING_DATA = {
         "monuments": 5,
         "worlds": 0,
         "birth": 1956
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "jonas_vingegaard",
@@ -361,7 +379,8 @@ window.CYCLING_DATA = {
         "monuments": 0,
         "worlds": 0,
         "birth": 1996
-      }
+      },
+      "prevRank": null
     },
     {
       "id": "egan_bernal",
@@ -380,35 +399,36 @@ window.CYCLING_DATA = {
         "monuments": 0,
         "worlds": 0,
         "birth": 1997
-      }
+      },
+      "prevRank": null
     }
   ],
   "CURRENT_RACE": {
     "name": "Giro d'Italia",
-    "stage": 15,
+    "stage": 16,
     "total_stages": 21,
     "jersey_primary": "#E8006D",
     "jersey_name": "Maglia Rosa",
     "last_stage": {
-      "stage": 15,
-      "date": "24 May",
-      "type": "Flat stage",
-      "dist_km": 157,
-      "from": "Voghera",
-      "to": "Milan",
-      "completed": true,
-      "winner": "Fredrik Dversnes",
-      "winner_cc": "NOR",
-      "winner_primary": "#EF2B2D",
-      "winner_logo": "https://flagcdn.com/24x18/no.png"
-    },
-    "next_stage": {
       "stage": 16,
       "date": "26 May",
       "type": "Mountain stage",
       "dist_km": 113,
       "from": "Bellinzona",
       "to": "Carì",
+      "completed": true,
+      "winner": "Jonas Vingegaard",
+      "winner_cc": "DEN",
+      "winner_primary": "#C60C30",
+      "winner_logo": "https://flagcdn.com/24x18/dk.png"
+    },
+    "next_stage": {
+      "stage": 17,
+      "date": "27 May",
+      "type": "Hilly stage",
+      "dist_km": 202,
+      "from": "Cassano d'Adda",
+      "to": "Andalo",
       "completed": false
     },
     "gc": [
@@ -419,57 +439,57 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/dk.png",
         "team": "TVL men",
         "primary": "#C60C30",
-        "time": "59h 12' 56\"",
+        "time": "62h 10' 26\"",
         "legendScore": 11.8
       },
       {
         "rank": 2,
-        "name": "Afonso Eulálio",
-        "country": "POR",
-        "logo": "https://flagcdn.com/24x18/pt.png",
-        "team": "TBV",
-        "primary": "#006600",
-        "time": "+ 2' 26\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 3,
         "name": "Felix Gall",
         "country": "AUT",
         "logo": "https://flagcdn.com/24x18/at.png",
         "team": "DCT",
         "primary": "#ED2939",
-        "time": "+ 2' 50\"",
+        "time": "+ 4' 03\"",
         "legendScore": 0.0
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "Thymen Arensman",
         "country": "NED",
         "logo": "https://flagcdn.com/24x18/nl.png",
         "team": "NCI",
         "primary": "#AE1C28",
-        "time": "+ 3' 03\"",
+        "time": "+ 4' 27\"",
         "legendScore": 0.0
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "Jai Hindley",
         "country": "AUS",
         "logo": "https://flagcdn.com/24x18/au.png",
         "team": "RBH",
         "primary": "#00008B",
-        "time": "+ 3' 43\"",
+        "time": "+ 5' 00\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 5,
+        "name": "Afonso Eulálio",
+        "country": "POR",
+        "logo": "https://flagcdn.com/24x18/pt.png",
+        "team": "TBV",
+        "primary": "#006600",
+        "time": "+ 5' 40\"",
         "legendScore": 0.0
       },
       {
         "rank": 6,
-        "name": "Giulio Pellizzari",
-        "country": "ITA",
-        "logo": "https://flagcdn.com/24x18/it.png",
-        "team": "RBH",
-        "primary": "#009246",
-        "time": "+ 4' 22\"",
+        "name": "Derek Gee-West",
+        "country": "CAN",
+        "logo": "https://flagcdn.com/24x18/ca.png",
+        "team": "LTK men",
+        "primary": "#FF0000",
+        "time": "+ 7' 09\"",
         "legendScore": 0.0
       },
       {
@@ -479,38 +499,38 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/au.png",
         "team": "TUD",
         "primary": "#00008B",
-        "time": "+ 4' 46\"",
+        "time": "+ 7' 14\"",
         "legendScore": 0.0
       },
       {
         "rank": 8,
-        "name": "Ben O'Connor",
-        "country": "AUS",
-        "logo": "https://flagcdn.com/24x18/au.png",
-        "team": "JAY men",
-        "primary": "#00008B",
-        "time": "+ 5' 22\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 9,
-        "name": "Derek Gee-West",
-        "country": "CAN",
-        "logo": "https://flagcdn.com/24x18/ca.png",
-        "team": "LTK men",
-        "primary": "#FF0000",
-        "time": "+ 5' 41\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 10,
         "name": "Davide Piganzoli",
         "country": "ITA",
         "logo": "https://flagcdn.com/24x18/it.png",
         "team": "TVL men",
         "primary": "#009246",
-        "time": "+ 6' 13\"",
+        "time": "+ 7' 57\"",
         "legendScore": 0.0
+      },
+      {
+        "rank": 9,
+        "name": "Ben O'Connor",
+        "country": "AUS",
+        "logo": "https://flagcdn.com/24x18/au.png",
+        "team": "JAY men",
+        "primary": "#00008B",
+        "time": "+ 9' 20\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 10,
+        "name": "Egan Bernal",
+        "country": "COL",
+        "logo": "https://flagcdn.com/24x18/co.png",
+        "team": "NCI",
+        "primary": "#FCD116",
+        "time": "+ 9' 44\"",
+        "legendScore": 10.3
       }
     ],
     "points_leader": {
@@ -530,7 +550,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/dk.png",
       "team": "TVL men",
       "primary": "#C60C30",
-      "points": 161,
+      "points": 211,
       "legendScore": 11.8
     },
     "young_leader": {
@@ -540,7 +560,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/pt.png",
       "team": "TBV",
       "primary": "#006600",
-      "time": "59h 15' 22\"",
+      "time": "62h 16' 06\"",
       "legendScore": 0.0
     }
   },
