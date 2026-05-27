@@ -942,7 +942,7 @@ function NewsletterApp() {
                         </span>
                         <span style={{ minWidth: 0, overflow: "hidden" }}>
                           {m.w_logo && <img src={m.w_logo} style={{ width: 16, height: 12, verticalAlign: "middle", marginRight: 4, borderRadius: 1 }} />}
-                          <span style={{ fontWeight: 600 }}>{m.w}</span>
+                          <span style={{ fontWeight: m.scheduled ? 400 : 600 }}>{m.w}</span>
                           {playerScoreChip(m.w_score)}
                           <span style={{ color: "var(--muted, #888)", margin: "0 6px", fontSize: 11 }}>{m.scheduled ? "vs" : "def."}</span>
                           {m.l_logo && <img src={m.l_logo} style={{ width: 16, height: 12, verticalAlign: "middle", marginRight: 4, borderRadius: 1 }} />}
