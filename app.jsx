@@ -21,7 +21,7 @@ function getAlivePlayoffTeams(bracket) {
   return alive;
 }
 
-function NewsletterRankRow({ rank, item, alive, score, scoreDisplay, scoreLabel, meta, note, threshold, logo, scoreB, scoreBLabel, prevRank }) {
+function NewsletterRankRow({ rank, item, alive, score, scoreDisplay, scoreLabel, meta, note, threshold, logo, scoreB, scoreBLabel, scoreBThreshold, prevRank }) {
   const isAlive = alive.size === 0 || alive.has(item.teamCode);
   const displayed = scoreDisplay !== undefined ? scoreDisplay : score;
   
@@ -59,7 +59,7 @@ function NewsletterRankRow({ rank, item, alive, score, scoreDisplay, scoreLabel,
   }
 
   return (
-    <div className={`newsletter-row ${!isAlive ? "newsletter-row--out" : ""}`}>
+    <div className={`newsletter-row ${scoreB !== undefined ? "newsletter-row--dual-score" : ""} ${!isAlive ? "newsletter-row--out" : ""}`}>
       <span className="newsletter-row__rank" style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 1 }}>
         <span>{String(rank).padStart(2, "0")}</span>
         {changeEl}
@@ -81,13 +81,20 @@ function NewsletterRankRow({ rank, item, alive, score, scoreDisplay, scoreLabel,
         ) : (
           <span className="newsletter-row__score-value">{displayed}</span>
         )}
-        {scoreB !== undefined && (
-          <span style={{ display: "flex", flexDirection: "column", alignItems: "flex-end", marginTop: 4, marginLeft: 10, minWidth: 44 }}>
-            <span style={{ fontSize: 9, letterSpacing: "0.08em", textTransform: "uppercase", color: "var(--muted,#888)", fontFamily: "monospace" }}>{scoreBLabel}</span>
-            <span style={{ fontFamily: "monospace", fontSize: 14, fontWeight: 600, color: "var(--ink-2,#666)", lineHeight: 1.2 }}>{typeof scoreB === "number" ? scoreB.toFixed(1) : scoreB}</span>
-          </span>
-        )}
       </span>
+      {scoreB !== undefined && (
+        <span className="newsletter-row__score newsletter-row__score--secondary">
+          <span className="newsletter-row__score-label">{scoreBLabel}</span>
+          {scoreBThreshold !== undefined ? (
+            <span className="newsletter-row__threshold">
+              <ThresholdBar value={scoreB} threshold={scoreBThreshold} width={104} />
+              <span className="newsletter-row__score-value">{typeof scoreB === "number" ? scoreB.toFixed(1) : scoreB}</span>
+            </span>
+          ) : (
+            <span className="newsletter-row__score-value">{typeof scoreB === "number" ? scoreB.toFixed(1) : scoreB}</span>
+          )}
+        </span>
+      )}
       {note && <span className="newsletter-row__note">{note}</span>}
     </div>
   );
@@ -792,18 +799,131 @@ function NewsletterApp() {
           const atpChanges  = TENNIS.ATP_CHANGES  || { entered: [], exited: [] };
           const wtaChanges  = TENNIS.WTA_CHANGES  || { entered: [], exited: [] };
 
-          // Legends list = hardcoded historical list only; active players get their richer score.
+          // Legends list = historical legacy only. Active players keep the historical score.
           function buildLegendsMerged(histKey, activeList) {
             const activeByName = Object.fromEntries(activeList.map(p => [p.name, p]));
             return (TENNIS[histKey] || []).map(p => {
               const act = activeByName[p.name];
               return { ...p, colors: { primary: p.primary, secondary: p.secondary },
-                        legendScore: act ? act.legendScore : p.legendScore,
                         active: act ? true : (p.active || false) };
-            }).sort((a, b) => b.legendScore - a.legendScore).slice(0, 12);
+            }).sort((a, b) => b.legendScore - a.legendScore).slice(0, 10);
           }
           const atpLegends = buildLegendsMerged("ATP_LEGENDS", tennisATPFull);
           const wtaLegends = buildLegendsMerged("WTA_LEGENDS", tennisWTAFull);
+          const atpLegendRows = TENNIS.ATP_LEGENDS || [];
+          const wtaLegendRows = TENNIS.WTA_LEGENDS || [];
+          const tennisLegendRaw = p => (p.stats?.gs || 0) * 12 + (p.stats?.year_end_no1 || 0) * 3 + Math.floor((p.stats?.weeks_no1 || 0) / 10);
+          const atpLegendTop = [...atpLegendRows].sort((a, b) => b.legendScore - a.legendScore);
+          const wtaLegendTop = [...wtaLegendRows].sort((a, b) => b.legendScore - a.legendScore);
+          const atpLegendScoreByName = Object.fromEntries(atpLegendRows.map(p => [p.name, p.legendScore]));
+          const wtaLegendScoreByName = Object.fromEntries(wtaLegendRows.map(p => [p.name, p.legendScore]));
+          const atpLegendRawByName = Object.fromEntries(atpLegendRows.map(p => [p.name, tennisLegendRaw(p)]));
+          const wtaLegendRawByName = Object.fromEntries(wtaLegendRows.map(p => [p.name, tennisLegendRaw(p)]));
+          const atpLegendMaxRaw = Math.max(...atpLegendRows.map(tennisLegendRaw), 1);
+          const wtaLegendMaxRaw = Math.max(...wtaLegendRows.map(tennisLegendRaw), 1);
+          const atpLegendThreshold = atpLegendTop[9]?.legendScore || 0;
+          const wtaLegendThreshold = wtaLegendTop[9]?.legendScore || 0;
+          const atpLegendThresholdRaw = atpLegendTop[9] ? tennisLegendRaw(atpLegendTop[9]) : 0;
+          const wtaLegendThresholdRaw = wtaLegendTop[9] ? tennisLegendRaw(wtaLegendTop[9]) : 0;
+          const tennisHistoricalLegendScore = (player, scoreMap, maxRaw) => {
+            const score = scoreMap[player.name];
+            if (typeof score === "number") return score;
+            const raw = (player.stats?.gs || 0) * 12 + Math.floor((player.stats?.weeks_no1 || 0) / 10);
+            return Math.round((raw / maxRaw * 100) * 10) / 10;
+          };
+          const tennisHistoricalRaw = (player, rawMap) => {
+            const raw = rawMap[player.name];
+            return typeof raw === "number" ? raw : (player.stats?.gs || 0) * 12 + Math.floor((player.stats?.weeks_no1 || 0) / 10);
+          };
+          const tennisLegendChaseNote = (player, scoreMap, rawMap, maxRaw, threshold, thresholdRaw) => {
+            const score = tennisHistoricalLegendScore(player, scoreMap, maxRaw);
+            if (score >= threshold) return "Ya está en zona top 10 histórico";
+            const gap = Math.max(0, threshold - score);
+            const rawGap = Math.max(0, thresholdRaw - tennisHistoricalRaw(player, rawMap));
+            const gsNeeded = Math.max(1, Math.ceil(rawGap / 12));
+            return rawGap <= 12
+              ? `A ${gap.toFixed(1)} del top 10 · 1 GS lo mete`
+              : `A ${gap.toFixed(1)} del top 10 · ${gsNeeded} GS aprox.`;
+          };
+
+          const atpRecent = TENNIS.ATP_RECENT || [];
+          const wtaRecent = TENNIS.WTA_RECENT || [];
+
+          const SURFACE_COLOR = { Clay: "#c47a4b", Grass: "#4a8c3f", Hard: "#3a6ea5", Carpet: "#6a4c9c" };
+          function RecentResults({ data, tour }) {
+            if (!data || !data.length) return null;
+            return (
+              <NewsletterSection
+                kicker={`${tour} · Resultados recientes`}
+                title={`${tour} — Últimos partidos`}
+                sub="Torneos activos, desde la ronda más avanzada. Actualizado 2× al día."
+              >
+                {data.map((tourney, ti) => (
+                  <div key={ti} style={{ marginBottom: 20 }}>
+                    {/* Cabecera del torneo */}
+                    <div style={{
+                      display: "flex", alignItems: "center", gap: 8,
+                      padding: "6px 0 5px",
+                      borderBottom: "2px solid var(--ink, #1a1714)",
+                      marginBottom: 4,
+                    }}>
+                      <span style={{
+                        width: 8, height: 8, borderRadius: "50%", flexShrink: 0,
+                        background: SURFACE_COLOR[tourney.surface] || "#888",
+                      }} />
+                      <span style={{ fontWeight: 700, fontSize: 14, letterSpacing: "-0.01em" }}>
+                        {tourney.name}
+                      </span>
+                      <span style={{
+                        fontSize: 10, fontFamily: "monospace", color: "var(--muted, #888)",
+                        textTransform: "uppercase", letterSpacing: "0.08em",
+                        background: "var(--bar-bg, #e8e4e0)", borderRadius: 3,
+                        padding: "1px 5px",
+                      }}>
+                        {tourney.level}
+                      </span>
+                      <span style={{
+                        fontSize: 10, fontFamily: "monospace", color: "var(--muted, #888)",
+                        textTransform: "uppercase", letterSpacing: "0.06em",
+                      }}>
+                        {tourney.surface}
+                      </span>
+                    </div>
+                    {/* Partidos */}
+                    {tourney.matches.map((m, mi) => (
+                      <div key={mi} style={{
+                        display: "grid",
+                        gridTemplateColumns: "80px 1fr auto",
+                        gap: "0 10px",
+                        alignItems: "center",
+                        padding: "5px 0",
+                        borderBottom: "1px solid var(--rule, #eee)",
+                        fontSize: 13,
+                      }}>
+                        <span style={{
+                          fontSize: 10, fontFamily: "monospace",
+                          color: "var(--muted, #888)", textTransform: "uppercase",
+                          letterSpacing: "0.05em",
+                        }}>
+                          {m.round}
+                        </span>
+                        <span style={{ minWidth: 0, overflow: "hidden" }}>
+                          {m.w_logo && <img src={m.w_logo} style={{ width: 16, height: 12, verticalAlign: "middle", marginRight: 4, borderRadius: 1 }} />}
+                          <span style={{ fontWeight: 600 }}>{m.w}</span>
+                          <span style={{ color: "var(--muted, #888)", margin: "0 6px", fontSize: 11 }}>def.</span>
+                          {m.l_logo && <img src={m.l_logo} style={{ width: 16, height: 12, verticalAlign: "middle", marginRight: 4, borderRadius: 1 }} />}
+                          <span style={{ color: "var(--ink-2, #666)" }}>{m.l}</span>
+                        </span>
+                        <span style={{ fontFamily: "monospace", fontSize: 12, color: "var(--ink-2, #666)", whiteSpace: "nowrap" }}>
+                          {m.score}
+                        </span>
+                      </div>
+                    ))}
+                  </div>
+                ))}
+              </NewsletterSection>
+            );
+          }
 
           function ChangesRow({ changes, tour }) {
             const { entered = [], exited = [], prev_date = "", curr_date = "" } = changes;
@@ -864,42 +984,22 @@ function NewsletterApp() {
                       item={player}
                       alive={new Set()}
                       score={player.activeScore}
-                      scoreLabel="Active"
+                      scoreLabel="Nivel"
+                      scoreB={tennisHistoricalLegendScore(player, atpLegendScoreByName, atpLegendMaxRaw)}
+                      scoreBLabel="Leyenda"
+                      scoreBThreshold={atpLegendThreshold}
                       meta={tennisPlayerMeta(player, "ATP")}
+                      note={tennisLegendChaseNote(player, atpLegendScoreByName, atpLegendRawByName, atpLegendMaxRaw, atpLegendThreshold, atpLegendThresholdRaw)}
                       logo={player.logo}
                     />
                   ))}
                 </div>
               </NewsletterSection>
 
-              <NewsletterSection
-                kicker="WTA Singles"
-                title="Top 10 WTA Singles — Score activo"
-                sub="Score activo: forma reciente, Elo, ranking y win-rate por superficie. Score leyenda: trayectoria histórica."
-              >
-                <ChangesRow changes={wtaChanges} tour="WTA" />
-                <div className="newsletter-list">
-                  {tennisDisplayList(tennisWTA, tennisWTAFull, new Set()).map((player, i) => (
-                    <NewsletterRankRow
-                      key={player.id}
-                      rank={i + 1}
-                      prevRank={tennisPrevRank(player, i)}
-                      item={player}
-                      alive={new Set()}
-                      score={player.activeScore}
-                      scoreLabel="Active"
-                      meta={tennisPlayerMeta(player, "WTA")}
-                      logo={player.logo}
-                    />
-                  ))}
-                </div>
-              </NewsletterSection>
-
-              {/* Road to Glory */}
               <NewsletterSection
                 kicker="ATP Legends"
                 title="Road to Glory · Leyendas del ATP"
-                sub="Score histórico: GS (×12) + Year-end #1 (×3) + semanas en #1 (÷10). Djokovic como referencia: 100."
+                sub={`Umbral top 10 histórico: ${atpLegendThreshold.toFixed(1)} (${atpLegendTop[9]?.name || "N/A"}). Score histórico: GS (×12) + Year-end #1 (×3) + semanas en #1 (÷10).`}
               >
                 <div className="newsletter-list">
                   {atpLegends.map((p, i) => {
@@ -923,9 +1023,36 @@ function NewsletterApp() {
               </NewsletterSection>
 
               <NewsletterSection
+                kicker="WTA Singles"
+                title="Top 10 WTA Singles — Score activo"
+                sub="Score activo: forma reciente, Elo, ranking y win-rate por superficie. Score leyenda: trayectoria histórica."
+              >
+                <ChangesRow changes={wtaChanges} tour="WTA" />
+                <div className="newsletter-list">
+                  {tennisDisplayList(tennisWTA, tennisWTAFull, new Set()).map((player, i) => (
+                    <NewsletterRankRow
+                      key={player.id}
+                      rank={i + 1}
+                      prevRank={tennisPrevRank(player, i)}
+                      item={player}
+                      alive={new Set()}
+                      score={player.activeScore}
+                      scoreLabel="Nivel"
+                      scoreB={tennisHistoricalLegendScore(player, wtaLegendScoreByName, wtaLegendMaxRaw)}
+                      scoreBLabel="Leyenda"
+                      scoreBThreshold={wtaLegendThreshold}
+                      meta={tennisPlayerMeta(player, "WTA")}
+                      note={tennisLegendChaseNote(player, wtaLegendScoreByName, wtaLegendRawByName, wtaLegendMaxRaw, wtaLegendThreshold, wtaLegendThresholdRaw)}
+                      logo={player.logo}
+                    />
+                  ))}
+                </div>
+              </NewsletterSection>
+
+              <NewsletterSection
                 kicker="WTA Legends"
                 title="Road to Glory · Leyendas del WTA"
-                sub="Score histórico: GS (×12) + Year-end #1 (×3) + semanas en #1 (÷10). Graf como referencia: 100."
+                sub={`Umbral top 10 histórico: ${wtaLegendThreshold.toFixed(1)} (${wtaLegendTop[9]?.name || "N/A"}). Score histórico: GS (×12) + Year-end #1 (×3) + semanas en #1 (÷10).`}
               >
                 <div className="newsletter-list">
                   {wtaLegends.map((p, i) => {

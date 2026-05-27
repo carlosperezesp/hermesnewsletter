@@ -74,10 +74,11 @@ function Sparkline({ values, width = 56, height = 18 }) {
 function ThresholdBar({ value, threshold, width = 160 }) {
   const pct = Math.max(0, Math.min(100, value));
   const markPct = Math.max(0, Math.min(100, threshold));
+  const showMark = value < threshold;
   return (
     <span className="threshold-bar" style={{ width }}>
       <span className="threshold-bar__fill" style={{ width: `${pct}%` }} />
-      <span className="threshold-bar__mark" style={{ left: `${markPct}%` }} title={`Top-10 threshold: ${threshold}`} />
+      {showMark && <span className="threshold-bar__mark" style={{ left: `${markPct}%` }} title={`Top-10 threshold: ${threshold}`} />}
     </span>
   );
 }

@@ -1170,6 +1170,9 @@
       border-bottom: 1px solid var(--rule-2);
       background: var(--paper);
     }
+    .newsletter-row--dual-score {
+      grid-template-columns: 42px minmax(260px, 1fr) 132px 190px minmax(190px, 0.62fr);
+    }
     .newsletter-row:last-child { border-bottom: 0; }
     .newsletter-row--out {
       background:
@@ -1242,6 +1245,10 @@
       line-height: 1;
       font-variant-numeric: tabular-nums;
     }
+    .newsletter-row__score--secondary .newsletter-row__score-value {
+      color: var(--ink-2);
+      font-size: 22px;
+    }
     .newsletter-row__note {
       color: var(--ink-2);
     }
@@ -1282,6 +1289,9 @@
       .newsletter-row {
         grid-template-columns: 34px minmax(0, 1fr) auto;
         gap: 12px;
+      }
+      .newsletter-row--dual-score {
+        grid-template-columns: 34px minmax(0, 1fr) auto auto;
       }
       .newsletter-row__note {
         grid-column: 2 / -1;

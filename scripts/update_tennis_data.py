@@ -3,7 +3,7 @@
 from __future__ import annotations
 import csv, hashlib, json, math, os, re, sys, time, urllib.request
 from collections import defaultdict
-from datetime import datetime, timezone, date as _date
+from datetime import datetime, timezone, date as _date, timedelta
 from io import StringIO
 from pathlib import Path
 
@@ -105,12 +105,106 @@ def _csv(url: str, ttl_hours: float = 720.0) -> list[dict]:
 def _matches(tour: str, year: int) -> list[dict]:
     prefix = "atp_matches" if tour == "atp" else "wta_matches"
     url    = f"{BASE[tour]}/{prefix}_{year}.csv"
-    # current year: short TTL (6h); historical: long TTL (30 days)
-    ttl    = 6.0 if year == CURRENT_YEAR else 720.0
+    # current year: corto TTL (2h) para capturas mañana+noche; histórico: 30 días
+    ttl    = 2.0 if year == CURRENT_YEAR else 720.0
     try:
         return _csv(url, ttl)
     except Exception:
         return []
+
+
+# ── Resultados recientes (últimos 14 días) ────────────────────────────────────
+
+_ROUND_ORDER: dict[str, int] = {
+    "F": 1, "SF": 2, "QF": 3, "R16": 4, "R32": 5, "R64": 6, "R128": 7,
+    "RR": 3, "BR": 4,
+}
+_ROUND_ES: dict[str, str] = {
+    "F":    "Final",
+    "SF":   "Semifinal",
+    "QF":   "Cuartos",
+    "R16":  "Octavos",
+    "R32":  "3ª ronda",
+    "R64":  "2ª ronda",
+    "R128": "1ª ronda",
+    "RR":   "Round Robin",
+    "BR":   "3er puesto",
+}
+_LEVEL_ES: dict[str, str] = {
+    "G":  "Grand Slam",
+    "F":  "Finals",
+    "M":  "Masters 1000",
+    "A":  "ATP 500",
+    "PM": "Premier Mandatory",
+    "P":  "Premier 5",
+    "D":  "Davis Cup",
+    "500": "500",
+    "250": "250",
+    "C":  "Challenger",
+}
+_LEVEL_PRIO: dict[str, int] = {"G": 0, "F": 1, "M": 2, "PM": 2, "500": 3, "A": 3, "P": 3, "250": 4}
+
+
+def _recent_results(tour: str, lookback_days: int = 14) -> list[dict]:
+    """Return recent match results from active tournaments, ordered by recency + level."""
+    cutoff = (_date.today() - timedelta(days=lookback_days)).strftime("%Y%m%d")
+    rows   = _matches(tour, CURRENT_YEAR)
+    if not rows:
+        return []
+
+    by_tid: dict[str, list[dict]] = defaultdict(list)
+    meta:   dict[str, dict] = {}
+    for m in rows:
+        td  = m.get("tourney_date", "")
+        if td < cutoff:
+            continue
+        tid = m.get("tourney_id", "")
+        if tid not in meta:
+            meta[tid] = {
+                "name":    m.get("tourney_name", ""),
+                "surface": m.get("surface", ""),
+                "level":   m.get("tourney_level", ""),
+                "date":    td,
+            }
+        by_tid[tid].append(m)
+
+    if not by_tid:
+        return []
+
+    sorted_tids = sorted(
+        by_tid,
+        key=lambda t: (-int(meta[t]["date"] or "0"), _LEVEL_PRIO.get(meta[t]["level"], 9)),
+    )
+
+    result = []
+    for tid in sorted_tids[:4]:
+        tmeta   = meta[tid]
+        matches = sorted(
+            by_tid[tid],
+            key=lambda m: (_ROUND_ORDER.get(m.get("round", ""), 9), m.get("winner_name", "")),
+        )
+        entries = [
+            {
+                "round":  _ROUND_ES.get(m.get("round", ""), m.get("round", "")),
+                "w":      m.get("winner_name", ""),
+                "w_logo": _flag_url(m.get("winner_ioc", "")),
+                "l":      m.get("loser_name", ""),
+                "l_logo": _flag_url(m.get("loser_ioc", "")),
+                "score":  m.get("score", ""),
+            }
+            for m in matches
+            if m.get("winner_name") and m.get("score") and "W/O" not in m.get("score", "")
+        ][:12]
+
+        if entries:
+            result.append({
+                "name":    tmeta["name"],
+                "level":   _LEVEL_ES.get(tmeta["level"], tmeta["level"]),
+                "surface": tmeta["surface"],
+                "matches": entries,
+            })
+
+    return result
 
 def _players(tour: str) -> dict[str, dict]:
     prefix = "atp_players" if tour == "atp" else "wta_players"
@@ -694,6 +788,10 @@ def write_data() -> None:
 
     importance = _tennis_importance()
 
+    print("Building recent match results…", file=sys.stderr)
+    atp_recent = _recent_results("atp")
+    wta_recent = _recent_results("wta")
+
     payload = {
         "UPDATED":     updated,
         "ATP":         atp,
@@ -702,6 +800,8 @@ def write_data() -> None:
         "WTA_CHANGES": wta_changes,
         "ATP_LEGENDS": atp_legends,
         "WTA_LEGENDS": wta_legends,
+        "ATP_RECENT":  atp_recent,
+        "WTA_RECENT":  wta_recent,
         "IMPORTANCE":  importance,
     }
 
