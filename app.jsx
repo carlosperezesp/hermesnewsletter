@@ -1163,7 +1163,7 @@ function NewsletterApp() {
                   <p>
                     {cr
                       ? `Etapa ${cr.stage} de ${cr.total_stages} · ${cr.jersey_name} · GC en directo.`
-                      : "Score 0–100 ponderando Grandes Vueltas (TDF×12, Giro×9, Vuelta×8), Monumentos (×4) y Mundiales (×5)."}
+                      : "Score 0–100 ponderando Grandes Vueltas (TDF×12, Giro×9, Vuelta×8), Monumentos (×4) y Mundiales (×4)."}
                   </p>
                 </div>
               </header>
@@ -1206,7 +1206,7 @@ function NewsletterApp() {
                 <NewsletterSection
                   kicker={`Clasificación General — Etapa ${cr.stage}/${cr.total_stages}`}
                   title="Top 10 GC"
-                  sub={`Líder: ${cr.gc[0].name} (${cr.jersey_name}). Score leyenda: Tour×12, Giro×9, Vuelta×8, Monumentos×4, Mundiales×5; Merckx=100.`}
+                  sub={`Líder: ${cr.gc[0].name} (${cr.jersey_name}). Score leyenda: Tour×12, Giro×9, Vuelta×8, Monumentos×4, Mundiales×4; Merckx=100.`}
                 >
                   <div className="newsletter-list">
                     {cr.gc.map((r, i) => (

@@ -302,7 +302,7 @@ LEGENDS_RAW = [
     ("Egan Bernal",           "COL", 1997,   1,   1,   0,      0,       0),
 ]
 
-W = {"tour": 12, "giro": 9, "vuelta": 8, "monument": 4, "worlds": 5}
+W = {"tour": 12, "giro": 9, "vuelta": 8, "monument": 4, "worlds": 4}
 
 def build_legends() -> list[dict]:
     raw_scores = [

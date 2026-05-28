@@ -1236,7 +1236,7 @@ def cycling_html(d: dict) -> str:
                       f"{race_name} continúa mañana.",
                       next_stage_html())
             + section("Clasificación General", f"GC — Etapa {stage_num}/{total_st}",
-                      f"Líder: {gc_leader} · {jersey_nm}. Score leyenda: Tour×12, Giro×9, Vuelta×8, Monumentos×4, Mundiales×5; Merckx=100.",
+                      f"Líder: {gc_leader} · {jersey_nm}. Score leyenda: Tour×12, Giro×9, Vuelta×8, Monumentos×4, Mundiales×4; Merckx=100.",
                       gc_table_html(gc))
             + section("Líderes de maillot",
                       "Puntos · Montaña · Mejor joven",
@@ -1258,7 +1258,7 @@ def cycling_html(d: dict) -> str:
         + sections_html
         + section("Road to Glory · Leyendas del Ciclismo",
                   "Los mejores de la historia",
-                  "Tour × 12 · Giro × 9 · Vuelta × 8 · Monumentos × 4 · Mundiales × 5",
+                  "Tour × 12 · Giro × 9 · Vuelta × 8 · Monumentos × 4 · Mundiales × 4",
                   player_list_html(legends[:10], "legendScore", "Legend",
                                    lambda p: "", lg_meta))
     )

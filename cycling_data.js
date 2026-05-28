@@ -1,6 +1,6 @@
-// Auto-generated 2026-05-27 11:51 UTC
+// Auto-generated 2026-05-28 03:19 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-05-27 11:51 UTC",
+  "UPDATED": "2026-05-28 03:19 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -50,7 +50,7 @@ window.CYCLING_DATA = {
       "teamCode": "ITA",
       "primary": "#009246",
       "secondary": "#FFFFFF",
-      "legendScore": 52.5,
+      "legendScore": 52.2,
       "active": false,
       "stats": {
         "tour": 2,
@@ -70,7 +70,7 @@ window.CYCLING_DATA = {
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "legendScore": 46.1,
+      "legendScore": 46.8,
       "active": false,
       "stats": {
         "tour": 5,
@@ -90,7 +90,7 @@ window.CYCLING_DATA = {
       "teamCode": "ESP",
       "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "legendScore": 40.2,
+      "legendScore": 40.8,
       "active": false,
       "stats": {
         "tour": 5,
@@ -130,7 +130,7 @@ window.CYCLING_DATA = {
       "teamCode": "GBR",
       "primary": "#012169",
       "secondary": "#FFFFFF",
-      "legendScore": 35.8,
+      "legendScore": 36.3,
       "active": true,
       "stats": {
         "tour": 4,
@@ -170,7 +170,7 @@ window.CYCLING_DATA = {
       "teamCode": "ESP",
       "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "legendScore": 32.4,
+      "legendScore": 32.8,
       "active": false,
       "stats": {
         "tour": 2,
@@ -210,7 +210,7 @@ window.CYCLING_DATA = {
       "teamCode": "SUI",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "legendScore": 26.5,
+      "legendScore": 25.9,
       "active": false,
       "stats": {
         "tour": 0,
@@ -230,7 +230,7 @@ window.CYCLING_DATA = {
       "teamCode": "ITA",
       "primary": "#009246",
       "secondary": "#FFFFFF",
-      "legendScore": 24.5,
+      "legendScore": 24.9,
       "active": false,
       "stats": {
         "tour": 1,
@@ -250,7 +250,7 @@ window.CYCLING_DATA = {
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "legendScore": 24.5,
+      "legendScore": 23.9,
       "active": false,
       "stats": {
         "tour": 3,
@@ -270,7 +270,7 @@ window.CYCLING_DATA = {
       "teamCode": "SLO",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "legendScore": 22.1,
+      "legendScore": 22.4,
       "active": true,
       "stats": {
         "tour": 0,
@@ -290,7 +290,7 @@ window.CYCLING_DATA = {
       "teamCode": "SVK",
       "primary": "#0B4EA2",
       "secondary": "#FFFFFF",
-      "legendScore": 21.1,
+      "legendScore": 19.9,
       "active": true,
       "stats": {
         "tour": 0,
@@ -310,7 +310,7 @@ window.CYCLING_DATA = {
       "teamCode": "BEL",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "legendScore": 15.7,
+      "legendScore": 15.9,
       "active": false,
       "stats": {
         "tour": 0,
@@ -323,26 +323,6 @@ window.CYCLING_DATA = {
       "prevRank": null
     },
     {
-      "id": "remco_evenepoel",
-      "name": "Remco Evenepoel",
-      "country": "BEL",
-      "logo": "https://flagcdn.com/24x18/be.png",
-      "teamCode": "BEL",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "legendScore": 14.7,
-      "active": true,
-      "stats": {
-        "tour": 0,
-        "giro": 0,
-        "vuelta": 1,
-        "monuments": 3,
-        "worlds": 2,
-        "birth": 2000
-      },
-      "prevRank": null
-    },
-    {
       "id": "sean_kelly",
       "name": "Sean Kelly",
       "country": "IRL",
@@ -350,7 +330,7 @@ window.CYCLING_DATA = {
       "teamCode": "IRL",
       "primary": "#169B62",
       "secondary": "#FFFFFF",
-      "legendScore": 13.7,
+      "legendScore": 13.9,
       "active": false,
       "stats": {
         "tour": 0,
@@ -363,6 +343,26 @@ window.CYCLING_DATA = {
       "prevRank": null
     },
     {
+      "id": "remco_evenepoel",
+      "name": "Remco Evenepoel",
+      "country": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "teamCode": "BEL",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "legendScore": 13.9,
+      "active": true,
+      "stats": {
+        "tour": 0,
+        "giro": 0,
+        "vuelta": 1,
+        "monuments": 3,
+        "worlds": 2,
+        "birth": 2000
+      },
+      "prevRank": null
+    },
+    {
       "id": "jonas_vingegaard",
       "name": "Jonas Vingegaard",
       "country": "DEN",
@@ -370,7 +370,7 @@ window.CYCLING_DATA = {
       "teamCode": "DEN",
       "primary": "#C60C30",
       "secondary": "#FFFFFF",
-      "legendScore": 11.8,
+      "legendScore": 11.9,
       "active": true,
       "stats": {
         "tour": 2,
@@ -390,7 +390,7 @@ window.CYCLING_DATA = {
       "teamCode": "COL",
       "primary": "#FCD116",
       "secondary": "#FFFFFF",
-      "legendScore": 10.3,
+      "legendScore": 10.4,
       "active": true,
       "stats": {
         "tour": 1,
@@ -405,30 +405,30 @@ window.CYCLING_DATA = {
   ],
   "CURRENT_RACE": {
     "name": "Giro d'Italia",
-    "stage": 16,
+    "stage": 17,
     "total_stages": 21,
     "jersey_primary": "#E8006D",
     "jersey_name": "Maglia Rosa",
     "last_stage": {
-      "stage": 16,
-      "date": "26 May",
-      "type": "Mountain stage",
-      "dist_km": 113,
-      "from": "Bellinzona",
-      "to": "Carì",
-      "completed": true,
-      "winner": "Jonas Vingegaard",
-      "winner_cc": "DEN",
-      "winner_primary": "#C60C30",
-      "winner_logo": "https://flagcdn.com/24x18/dk.png"
-    },
-    "next_stage": {
       "stage": 17,
       "date": "27 May",
       "type": "Hilly stage",
       "dist_km": 202,
       "from": "Cassano d'Adda",
       "to": "Andalo",
+      "completed": true,
+      "winner": "Michael Valgren",
+      "winner_cc": "DEN",
+      "winner_primary": "#C60C30",
+      "winner_logo": "https://flagcdn.com/24x18/dk.png"
+    },
+    "next_stage": {
+      "stage": 18,
+      "date": "28 May",
+      "type": "Flat stage",
+      "dist_km": 171,
+      "from": "Fai della Paganella",
+      "to": "Pieve di Soligo",
       "completed": false
     },
     "gc": [
@@ -439,8 +439,8 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/dk.png",
         "team": "TVL men",
         "primary": "#C60C30",
-        "time": "62h 10' 26\"",
-        "legendScore": 11.8
+        "time": "66h 57' 14\"",
+        "legendScore": 11.9
       },
       {
         "rank": 2,
@@ -514,6 +514,16 @@ window.CYCLING_DATA = {
       },
       {
         "rank": 9,
+        "name": "Damiano Caruso",
+        "country": "ITA",
+        "logo": "https://flagcdn.com/24x18/it.png",
+        "team": "TBV",
+        "primary": "#009246",
+        "time": "+ 8' 34\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 10,
         "name": "Ben O'Connor",
         "country": "AUS",
         "logo": "https://flagcdn.com/24x18/au.png",
@@ -521,26 +531,16 @@ window.CYCLING_DATA = {
         "primary": "#00008B",
         "time": "+ 9' 20\"",
         "legendScore": 0.0
-      },
-      {
-        "rank": 10,
-        "name": "Egan Bernal",
-        "country": "COL",
-        "logo": "https://flagcdn.com/24x18/co.png",
-        "team": "NCI",
-        "primary": "#FCD116",
-        "time": "+ 9' 44\"",
-        "legendScore": 10.3
       }
     ],
     "points_leader": {
       "rank": 1,
-      "name": "Paul Magnier",
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "team": "SOQ",
-      "primary": "#002395",
-      "points": 145,
+      "name": "Jhonatan Narváez",
+      "country": "ECU",
+      "logo": "https://flagcdn.com/24x18/ec.png",
+      "team": "UEX",
+      "primary": "#FFD100",
+      "points": 157,
       "legendScore": 0.0
     },
     "kom_leader": {
@@ -551,7 +551,7 @@ window.CYCLING_DATA = {
       "team": "TVL men",
       "primary": "#C60C30",
       "points": 211,
-      "legendScore": 11.8
+      "legendScore": 11.9
     },
     "young_leader": {
       "rank": 1,
@@ -560,7 +560,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/pt.png",
       "team": "TBV",
       "primary": "#006600",
-      "time": "62h 16' 06\"",
+      "time": "67h 02' 54\"",
       "legendScore": 0.0
     }
   },
