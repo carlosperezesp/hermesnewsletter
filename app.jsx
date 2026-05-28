@@ -1206,40 +1206,26 @@ function NewsletterApp() {
                 <NewsletterSection
                   kicker={`Clasificación General — Etapa ${cr.stage}/${cr.total_stages}`}
                   title="Top 10 GC"
-                  sub={`Líder: ${cr.gc[0].name} (${cr.jersey_name}) · Barra = score leyendas (Merckx=100)`}
+                  sub={`Líder: ${cr.gc[0].name} (${cr.jersey_name}). Score leyenda: Tour×12, Giro×9, Vuelta×8, Monumentos×4, Mundiales×5; Merckx=100.`}
                 >
                   <div className="newsletter-list">
-                    {cr.gc.map((r, i) => {
-                      const lgScore = r.legendScore || 0;
-                      return (
-                        <div key={r.name} style={{
-                          display: "flex", alignItems: "flex-start", gap: 8,
-                          padding: "9px 0", borderBottom: "1px solid var(--rule,#eee)"
-                        }}>
-                          <span style={{ width: 24, fontSize: 15, color: "var(--muted,#888)", fontVariantNumeric: "tabular-nums", flexShrink: 0, paddingTop: 2 }}>{r.rank}</span>
-                          <div style={{ width: 10, height: 10, borderRadius: 2, background: r.primary, flexShrink: 0, marginTop: 4 }} />
-                          <img src={r.logo} alt={r.country} style={{ width: 20, height: 15, borderRadius: 2, flexShrink: 0, marginTop: 3 }} />
-                          <div style={{ flex: 1, minWidth: 0 }}>
-                            <div style={{ fontWeight: 600, fontSize: 14 }}>{r.name}</div>
-                            <div style={{ fontSize: 11, color: "var(--muted,#888)", fontFamily: "monospace" }}>{r.team}</div>
-                            <div style={{ display: "flex", alignItems: "center", gap: 6, marginTop: 4 }}>
-                              <div style={{ width: 70, height: 4, background: "var(--bar-bg,#dedad6)", borderRadius: 2, overflow: "hidden" }}>
-                                <div style={{ width: `${lgScore}%`, height: "100%", background: lgScore > 0 ? "var(--bar-fill,#4a4745)" : "transparent", borderRadius: 2 }} />
-                              </div>
-                              <span style={{ fontSize: 10, color: "var(--muted,#888)", fontFamily: "monospace" }}>
-                                {lgScore > 0 ? `${lgScore.toFixed(0)}/100 leyenda` : "sin títulos aún"}
-                              </span>
-                            </div>
-                          </div>
-                          <span style={{
-                            fontFamily: "monospace", fontSize: 13,
-                            fontWeight: i === 0 ? 700 : 400,
-                            color: i === 0 ? "var(--accent,#b84832)" : "var(--ink2,#555)",
-                            whiteSpace: "nowrap", paddingTop: 2
-                          }}>{r.time}</span>
-                        </div>
-                      );
-                    })}
+                    {cr.gc.map((r, i) => (
+                      <NewsletterRankRow
+                        key={r.name}
+                        rank={r.rank || i + 1}
+                        item={{ ...r, colors: { primary: r.primary, secondary: "#ffffff" } }}
+                        alive={new Set()}
+                        score={r.time}
+                        scoreDisplay={r.time}
+                        scoreLabel={i === 0 ? "Tiempo" : "Diferencia"}
+                        scoreB={r.legendScore || 0}
+                        scoreBLabel="Leyenda"
+                        scoreBThreshold={100}
+                        meta={`${r.team} · ${r.country}`}
+                        note={r.legendScore > 0 ? "Ya suma palmarés histórico" : "Sin grandes títulos todavía"}
+                        logo={r.logo}
+                      />
+                    ))}
                   </div>
                 </NewsletterSection>
               )}

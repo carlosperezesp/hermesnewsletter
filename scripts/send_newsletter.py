@@ -192,11 +192,24 @@ def player_list_html(players: list[dict],
                      score_label: str,
                      meta_fn,
                      note_fn,
-                     threshold: float | None = None) -> str:
+                     threshold: float | None = None,
+                     score_b_key: str | None = None,
+                     score_b_label: str = "") -> str:
     rows = ""
     for i, p in enumerate(players[:10], 1):
         primary = p.get("colors", {}).get("primary") or p.get("primary", "#666")
         score_val = p.get(score_key, 0)
+        score_b_val = p.get(score_b_key, "") if score_b_key else ""
+        score_b_html = ""
+        if score_b_key:
+            score_b_html = (
+                f'<td style="padding:12px 12px 12px 8px;text-align:right;vertical-align:top;white-space:nowrap">'
+                f'<div style="font-size:9px;letter-spacing:.08em;text-transform:uppercase;color:{MUTED};'
+                f'font-family:{MONO}">{score_b_label}</div>'
+                f'<div style="font-size:24px;font-weight:500;color:{INK};font-family:{SERIF};'
+                f'font-variant-numeric:tabular-nums">{score_b_val}</div>'
+                f'</td>'
+            )
         gap_txt = ""
         bar_html = ""
         if threshold:
@@ -218,6 +231,7 @@ def player_list_html(players: list[dict],
             f'<div style="font-size:10.5px;color:{INK2};font-family:{MONO};margin-top:2px">'
             f'{note_fn(p)}</div>'
             f'</td>'
+            f'{score_b_html}'
             f'<td style="padding:12px 0 12px 8px;text-align:right;vertical-align:top;white-space:nowrap">'
             f'<div style="font-size:9px;letter-spacing:.08em;text-transform:uppercase;color:{MUTED};'
             f'font-family:{MONO}">{score_label}</div>'
@@ -1107,40 +1121,16 @@ def cycling_html(d: dict) -> str:
                 f"Vuelta {st.get('vuelta',0)} · Monumentos {st.get('monuments',0)}")
 
     def gc_table_html(gc: list) -> str:
-        rows = ""
-        for r in gc[:10]:
-            is_leader  = r["rank"] == 1
-            time_style = f'font-weight:700;color:{INK}' if is_leader else f'color:{MUTED};font-family:monospace'
-            lg_score   = r.get("legendScore", 0.0)
-            lg_pct     = min(100.0, lg_score)
-            fill_px    = round(60 * lg_pct / 100)
-            lg_bar     = (
-                f'<table cellpadding="0" cellspacing="0" border="0" '
-                f'style="display:inline-table;width:60px;height:4px;background:{BAR_BG};'
-                f'border-spacing:0;vertical-align:middle;margin-left:4px">'
-                f'<tr>'
-                f'<td style="width:{fill_px}px;background:{BAR_FILL};height:4px;padding:0"></td>'
-                f'<td style="background:{BAR_BG};height:4px;padding:0"></td>'
-                f'</tr></table>'
-                f'<span style="font-size:9px;color:{MUTED};font-family:monospace;'
-                f'margin-left:3px">{lg_score:.0f}</span>'
-            )
-            rows += (
-                f'<tr style="border-bottom:1px solid {RULE}">'
-                f'<td style="padding:8px 6px;font-size:14px;color:{MUTED};'
-                f'font-variant-numeric:tabular-nums;width:24px">{r["rank"]}</td>'
-                f'<td style="padding:8px 6px 8px 0;font-size:13px;font-weight:600;color:{INK}">'
-                f'{swatch(r["primary"])}{r["name"]}'
-                f'<div style="margin-top:3px;display:flex;align-items:center">{lg_bar}</div>'
-                f'</td>'
-                f'<td style="padding:8px 4px;font-size:10px;color:{MUTED};'
-                f'font-family:monospace">{r.get("country","")}</td>'
-                f'<td style="padding:8px 0;font-size:12px;{time_style};'
-                f'text-align:right;white-space:nowrap">{r.get("time","")}</td>'
-                f'</tr>'
-            )
-        return (f'<table cellpadding="0" cellspacing="0" border="0" '
-                f'style="width:100%;border-collapse:collapse">{rows}</table>')
+        return player_list_html(
+            gc[:10],
+            "legendScore",
+            "Leyenda",
+            lambda r: "Ya suma palmarés histórico" if r.get("legendScore", 0) > 0 else "Sin grandes títulos todavía",
+            lambda r: f'{r.get("team","")} · {r.get("country","")}',
+            threshold=100,
+            score_b_key="time",
+            score_b_label="Tiempo" if (gc and gc[0].get("rank") == 1) else "GC",
+        )
 
     def jersey_leaders_html() -> str:
         pl = cr.get("points_leader") or {}
@@ -1246,7 +1236,7 @@ def cycling_html(d: dict) -> str:
                       f"{race_name} continúa mañana.",
                       next_stage_html())
             + section("Clasificación General", f"GC — Etapa {stage_num}/{total_st}",
-                      f"Líder: {gc_leader} · {jersey_nm} · Barra = score histórico leyendas (Merckx=100)",
+                      f"Líder: {gc_leader} · {jersey_nm}. Score leyenda: Tour×12, Giro×9, Vuelta×8, Monumentos×4, Mundiales×5; Merckx=100.",
                       gc_table_html(gc))
             + section("Líderes de maillot",
                       "Puntos · Montaña · Mejor joven",
