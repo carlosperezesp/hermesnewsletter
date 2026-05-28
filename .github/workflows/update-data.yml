@@ -3,8 +3,12 @@ name: Update sports data & send newsletter
 on:
   workflow_dispatch:
   schedule:
-    - cron: "20 8 * * *"    # 08:20 UTC daily
-    - cron: "20 20 * * *"   # 20:20 UTC daily
+    - cron: "20 5 * * *"    # 07:20 Amsterdam during CEST
+    - cron: "20 6 * * *"    # 07:20 Amsterdam during CET
+    - cron: "41 12 * * *"   # 14:41 Amsterdam during CEST
+    - cron: "41 13 * * *"   # 14:41 Amsterdam during CET
+    - cron: "20 20 * * *"   # 22:20 Amsterdam during CEST
+    - cron: "20 21 * * *"   # 22:20 Amsterdam during CET
 
 permissions:
   contents: write
@@ -13,21 +17,44 @@ jobs:
   update-data:
     runs-on: ubuntu-latest
     steps:
+      - name: Check Amsterdam schedule
+        id: schedule
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "should_run=1" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          local_time="$(TZ=Europe/Amsterdam date '+%H:%M')"
+          case "$local_time" in
+            "07:20"|"14:41"|"22:20")
+              echo "should_run=1" >> "$GITHUB_OUTPUT"
+              ;;
+            *)
+              echo "Skipping duplicate UTC cron for Amsterdam local time: $local_time"
+              echo "should_run=0" >> "$GITHUB_OUTPUT"
+              ;;
+          esac
+
       - name: Check out repository
+        if: steps.schedule.outputs.should_run == '1'
         uses: actions/checkout@v4
 
       - name: Set up Python
+        if: steps.schedule.outputs.should_run == '1'
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       # ── All Hermes sport data ───────────────────────────────────────────────
       - name: Update all sport data
+        if: steps.schedule.outputs.should_run == '1'
         continue-on-error: true
         run: python3 scripts/update_all_data.py
 
       # ── Commit both files if changed ────────────────────────────────────────
       - name: Commit updated data
+        if: steps.schedule.outputs.should_run == '1'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -42,6 +69,7 @@ jobs:
       # ── Send newsletter email ───────────────────────────────────────────────
       # Skips silently if send_newsletter secret is not configured
       - name: Send newsletter email
+        if: steps.schedule.outputs.should_run == '1'
         env:
           GMAIL_USER: carlosrealmurcia@gmail.com
           GMAIL_APP_PASSWORD: ${{ secrets.send_newsletter }}
