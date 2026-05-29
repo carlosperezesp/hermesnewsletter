@@ -1183,9 +1183,10 @@ def _prev_list_rank_map(tour_key: str) -> "dict[str, int]":
     try:
         out_path = ROOT / "tennis_data.js"
         text = out_path.read_text(encoding="utf-8")
+        text = _re.sub(r"^\s*//.*\n", "", text)
         text = _re.sub(r"^window\.TENNIS_DATA\s*=\s*", "", text, flags=_re.MULTILINE).rstrip().rstrip(";")
         players = _json.loads(text).get(tour_key, [])
-        return {str(p.get("id", "")): i + 1 for i, p in enumerate(players[:20]) if p.get("id")}
+        return {str(p.get("id", "")): i + 1 for i, p in enumerate(players) if p.get("id")}
     except Exception:
         return {}
 

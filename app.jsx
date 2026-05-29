@@ -221,14 +221,14 @@ function NewsletterApp() {
 
   // Convierte el delta del ranking oficial ATP/WTA en un prevRank relativo a la posición
   // en la lista para que lo renderice el indicador visual coloreado.
-  // Si ya tenemos prevListRank (posición en lista Hermes) lo usamos; si no, usamos el delta ATP.
+  // Si el ranking oficial no cambió, usa la posición previa en la lista Hermes.
   function tennisPrevRank(player, listIndex) {
-    if (typeof player.prevListRank === "number") return player.prevListRank;
     if (player.prevRank != null && player.rank != null) {
       // delta ATP: positivo = subió en ranking, negativo = bajó
       const atpDelta = player.prevRank - player.rank;  // subió si prevRank > rank
-      return (listIndex + 1) + atpDelta;
+      if (atpDelta !== 0) return (listIndex + 1) + atpDelta;
     }
+    if (typeof player.prevListRank === "number") return player.prevListRank;
     return undefined;
   }
 
