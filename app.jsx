@@ -21,8 +21,9 @@ function getAlivePlayoffTeams(bracket) {
   return alive;
 }
 
-function NewsletterRankRow({ rank, item, alive, score, scoreDisplay, scoreLabel, meta, note, threshold, logo, scoreB, scoreBDisplay, scoreBLabel, scoreBThreshold, prevRank }) {
-  const isAlive = alive.size === 0 || alive.has(item.teamCode);
+function NewsletterRankRow({ rank, item, alive, aliveKey = "teamCode", forceOut = false, score, scoreDisplay, scoreLabel, meta, note, threshold, logo, scoreB, scoreBDisplay, scoreBLabel, scoreBThreshold, prevRank }) {
+  const aliveValue = item?.[aliveKey];
+  const isAlive = !forceOut && (alive.size === 0 || alive.has(aliveValue));
   const displayed = scoreDisplay !== undefined ? scoreDisplay : score;
   
   // Indicador de cambio semanal:
@@ -195,13 +196,13 @@ function NewsletterApp() {
   const tennisWTAFull = useMemo(() => (TENNIS?.WTA || []).map(p => ({ ...p, colors: { primary: p.primary, secondary: p.secondary } })), [TENNIS]);
   const tennisATP = useMemo(() => tennisATPFull.slice(0, 10), [tennisATPFull]);
   const tennisWTA = useMemo(() => tennisWTAFull.slice(0, 10), [tennisWTAFull]);
-  function tennisDisplayList(base, full, aliveSet, minAlive = 2) {
+  function tennisDisplayList(base, full, aliveSet, minAlive = 2, includeAllAlive = false) {
     if (aliveSet.size === 0) return base;
     let list = [...base];
     const aliveCount = () => list.filter(p => aliveSet.has(p.id)).length;
     const seen = new Set(list.map(p => p.id));
     for (const p of full) {
-      if (aliveCount() >= minAlive) break;
+      if (!includeAllAlive && aliveCount() >= minAlive) break;
       if (!seen.has(p.id) && aliveSet.has(p.id)) { list.push(p); seen.add(p.id); }
     }
     return list;
@@ -210,6 +211,12 @@ function NewsletterApp() {
     const gs = player.stats?.gs || 0;
     const gsStr = gs > 0 ? ` · ${gs} GS` : "";
     return `${tour} · #${player.rank}${gsStr}`;
+  }
+  function tennisTournamentNote(player) {
+    const st = player.tournamentStatus;
+    if (!st?.tournament) return "";
+    if (st.state === "alive") return `${st.tournament}: vivo${st.round ? ` · ${st.round}` : ""}`;
+    return st.reason || `${st.tournament}: eliminado/no compite`;
   }
 
   // Convierte el delta del ranking oficial ATP/WTA en un prevRank relativo a la posición
@@ -850,6 +857,12 @@ function NewsletterApp() {
           const atpToday = TENNIS.ATP_TODAY || [];
           const wtaRecent = TENNIS.WTA_RECENT || [];
           const wtaToday = TENNIS.WTA_TODAY || [];
+          const atpTournament = TENNIS.ATP_TOURNAMENT || {};
+          const wtaTournament = TENNIS.WTA_TOURNAMENT || {};
+          const atpAliveIds = new Set(tennisATPFull.filter(p => p.tournamentStatus?.state === "alive").map(p => p.id));
+          const wtaAliveIds = new Set(tennisWTAFull.filter(p => p.tournamentStatus?.state === "alive").map(p => p.id));
+          const atpIncludeAllAlive = atpTournament.aliveCount > 0 && atpTournament.aliveCount <= 8;
+          const wtaIncludeAllAlive = wtaTournament.aliveCount > 0 && wtaTournament.aliveCount <= 8;
 
           const SURFACE_COLOR = { Clay: "#c47a4b", Grass: "#4a8c3f", Hard: "#3a6ea5", Carpet: "#6a4c9c" };
           const playerScoreColors = score => {
@@ -1012,24 +1025,26 @@ function NewsletterApp() {
               <NewsletterSection
                 kicker="ATP Singles"
                 title="Top 10 ATP Singles — Score activo"
-                sub="Score activo: forma reciente, Elo, ranking y win-rate por superficie. Score leyenda: trayectoria histórica."
+                sub={`${atpTournament.name || "Torneo actual"}: vivos en claro; eliminados, lesionados o no inscritos sombreados. Si el cuadro entra en cuartos, se añaden supervivientes fuera del top 10.`}
               >
                 <ChangesRow changes={atpChanges} tour="ATP" />
                 <div className="newsletter-list">
-                  {tennisDisplayList(tennisATP, tennisATPFull, new Set()).map((player, i) => (
+                  {tennisDisplayList(tennisATP, tennisATPFull, atpAliveIds, 2, atpIncludeAllAlive).map((player, i) => (
                     <NewsletterRankRow
                       key={player.id}
                       rank={i + 1}
                       prevRank={tennisPrevRank(player, i)}
                       item={player}
-                      alive={new Set()}
+                      alive={atpAliveIds}
+                      aliveKey="id"
+                      forceOut={player.tournamentStatus?.state && player.tournamentStatus.state !== "alive"}
                       score={player.activeScore}
                       scoreLabel="Nivel"
                       scoreB={tennisHistoricalLegendScore(player, atpLegendScoreByName, atpLegendMaxRaw)}
                       scoreBLabel="Leyenda"
                       scoreBThreshold={atpLegendThreshold}
                       meta={tennisPlayerMeta(player, "ATP")}
-                      note={tennisLegendChaseNote(player, atpLegendScoreByName, atpLegendRawByName, atpLegendMaxRaw, atpLegendThreshold, atpLegendThresholdRaw)}
+                      note={[tennisTournamentNote(player), tennisLegendChaseNote(player, atpLegendScoreByName, atpLegendRawByName, atpLegendMaxRaw, atpLegendThreshold, atpLegendThresholdRaw)].filter(Boolean).join(" · ")}
                       logo={player.logo}
                     />
                   ))}
@@ -1065,24 +1080,26 @@ function NewsletterApp() {
               <NewsletterSection
                 kicker="WTA Singles"
                 title="Top 10 WTA Singles — Score activo"
-                sub="Score activo: forma reciente, Elo, ranking y win-rate por superficie. Score leyenda: trayectoria histórica."
+                sub={`${wtaTournament.name || "Torneo actual"}: vivas en claro; eliminadas, lesionadas o no inscritas sombreadas. Si el cuadro entra en cuartos, se añaden supervivientes fuera del top 10.`}
               >
                 <ChangesRow changes={wtaChanges} tour="WTA" />
                 <div className="newsletter-list">
-                  {tennisDisplayList(tennisWTA, tennisWTAFull, new Set()).map((player, i) => (
+                  {tennisDisplayList(tennisWTA, tennisWTAFull, wtaAliveIds, 2, wtaIncludeAllAlive).map((player, i) => (
                     <NewsletterRankRow
                       key={player.id}
                       rank={i + 1}
                       prevRank={tennisPrevRank(player, i)}
                       item={player}
-                      alive={new Set()}
+                      alive={wtaAliveIds}
+                      aliveKey="id"
+                      forceOut={player.tournamentStatus?.state && player.tournamentStatus.state !== "alive"}
                       score={player.activeScore}
                       scoreLabel="Nivel"
                       scoreB={tennisHistoricalLegendScore(player, wtaLegendScoreByName, wtaLegendMaxRaw)}
                       scoreBLabel="Leyenda"
                       scoreBThreshold={wtaLegendThreshold}
                       meta={tennisPlayerMeta(player, "WTA")}
-                      note={tennisLegendChaseNote(player, wtaLegendScoreByName, wtaLegendRawByName, wtaLegendMaxRaw, wtaLegendThreshold, wtaLegendThresholdRaw)}
+                      note={[tennisTournamentNote(player), tennisLegendChaseNote(player, wtaLegendScoreByName, wtaLegendRawByName, wtaLegendMaxRaw, wtaLegendThreshold, wtaLegendThresholdRaw)].filter(Boolean).join(" · ")}
                       logo={player.logo}
                     />
                   ))}

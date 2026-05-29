@@ -196,9 +196,16 @@ def player_list_html(players: list[dict],
                      score_b_key: str | None = None,
                      score_b_label: str = "") -> str:
     rows = ""
-    for i, p in enumerate(players[:10], 1):
+    for i, p in enumerate(players, 1):
         primary = p.get("colors", {}).get("primary") or p.get("primary", "#666")
         score_val = p.get(score_key, 0)
+        tourney_state = (p.get("tournamentStatus") or {}).get("state")
+        is_out = tourney_state == "out"
+        row_bg = (
+            f'background:repeating-linear-gradient(135deg, rgba(0,0,0,0.025) 0 6px, '
+            f'rgba(0,0,0,0.045) 6px 7px),{BG};'
+        ) if is_out else ""
+        name_color = MUTED if is_out else INK
         score_b_val = p.get(score_b_key, "") if score_b_key else ""
         score_b_html = ""
         if score_b_key:
@@ -218,13 +225,13 @@ def player_list_html(players: list[dict],
             bar_html = f'<div style="margin-top:4px">{score_bar(score_val, threshold)}</div>'
 
         rows += (
-            f'<tr style="border-bottom:1px solid {RULE}">'
+            f'<tr style="border-bottom:1px solid {RULE};{row_bg}">'
             f'<td style="padding:12px 14px 12px 0;font-size:26px;color:{MUTED};'
             f'font-family:{SERIF};font-variant-numeric:tabular-nums;width:42px;'
             f'vertical-align:top;text-align:right">{i:02d}</td>'
             f'<td style="padding:12px 16px 12px 0;vertical-align:top">'
             f'<div style="font-size:19px;line-height:1.15;font-family:{SERIF};'
-            f'font-weight:500;color:{INK}">'
+            f'font-weight:500;color:{name_color}">'
             f'{swatch(primary)}{p.get("name","")}</div>'
             f'<div style="font-size:10.5px;color:{MUTED};font-family:{MONO};margin-top:4px">'
             f'{meta_fn(p)}</div>'
@@ -976,6 +983,8 @@ def tennis_html(d: dict) -> str:
     atp_today = d.get("ATP_TODAY", [])
     wta_yday  = d.get("WTA_RECENT", [])
     wta_today = d.get("WTA_TODAY", [])
+    atp_tourn = d.get("ATP_TOURNAMENT", {})
+    wta_tourn = d.get("WTA_TOURNAMENT", {})
 
     def p_meta(p):
         sf  = p.get("surface") or {}
@@ -986,7 +995,37 @@ def tennis_html(d: dict) -> str:
 
     def p_note(p):
         st = p.get("stats", {})
-        return f"{st.get('gs',0)} GS · {st.get('titles',0)} títulos · #{p.get('rank','')}"
+        tourney = p.get("tournamentStatus") or {}
+        tournament_note = ""
+        if tourney.get("tournament"):
+            if tourney.get("state") == "alive":
+                tournament_note = f'{tourney.get("tournament")}: vivo'
+            else:
+                tournament_note = tourney.get("reason") or f'{tourney.get("tournament")}: eliminado/no compite'
+        base = f"{st.get('gs',0)} GS · {st.get('titles',0)} títulos · #{p.get('rank','')}"
+        return f"{tournament_note} · {base}" if tournament_note else base
+
+    def active_ids(players: list[dict]) -> set[str]:
+        return {str(p.get("id")) for p in players if (p.get("tournamentStatus") or {}).get("state") == "alive"}
+
+    def tournament_display(players: list[dict], tournament: dict) -> list[dict]:
+        base = list(players[:10])
+        alive = active_ids(players)
+        if not alive:
+            return base
+        include_all = 0 < int(tournament.get("aliveCount") or 0) <= 8
+        min_alive = 2
+        seen = {str(p.get("id")) for p in base}
+        def alive_count() -> int:
+            return sum(1 for p in base if str(p.get("id")) in alive)
+        for p in players:
+            if not include_all and alive_count() >= min_alive:
+                break
+            pid = str(p.get("id"))
+            if pid not in seen and pid in alive:
+                base.append(p)
+                seen.add(pid)
+        return base
 
     def lg_meta(p):
         st = p.get("stats", {})
@@ -1085,14 +1124,14 @@ def tennis_html(d: dict) -> str:
                    "Top partidos programados hoy por mejor score individual del duelo.",
                    matches_html(wta_today, scheduled=True)) if wta_today else "")
         + section("ATP Top 10", "Ranking ATP — esta semana",
-                  "Score de actividad: forma, superficie, ranking WTA/ATP combinado.",
-                  player_list_html(atp[:10], "activeScore", "Score", p_note, p_meta))
+                  f'{atp_tourn.get("name","Torneo actual")}: vivos en claro; eliminados/no inscritos sombreados.',
+                  player_list_html(tournament_display(atp, atp_tourn), "activeScore", "Score", p_note, p_meta))
         + section("Cambios ATP Top 10", "Quién entra y sale del top 10",
                   "Comparado con el ranking de la semana pasada.",
                   changes_html(atp_ch))
         + section("WTA Top 10", "Ranking WTA — esta semana",
-                  "Score de actividad: forma, superficie, ranking WTA/ATP combinado.",
-                  player_list_html(wta[:10], "activeScore", "Score", p_note, p_meta))
+                  f'{wta_tourn.get("name","Torneo actual")}: vivas en claro; eliminadas/no inscritas sombreadas.',
+                  player_list_html(tournament_display(wta, wta_tourn), "activeScore", "Score", p_note, p_meta))
         + section("Cambios WTA Top 10", "Quién entra y sale del top 10",
                   "Comparado con el ranking de la semana pasada.",
                   changes_html(wta_ch))

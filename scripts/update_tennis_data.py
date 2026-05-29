@@ -14,7 +14,7 @@ CACHE.mkdir(exist_ok=True)
 CURRENT_YEAR  = datetime.now(timezone.utc).year
 CAREER_START  = 2010
 ACTIVE_YEARS  = [CURRENT_YEAR - 1, CURRENT_YEAR]
-TOP_N         = 15   # players per tour in output
+TOP_N         = 60   # enough depth to show late-round outsiders in active lists
 
 BASE = {
     "atp": "https://raw.githubusercontent.com/JeffSackmann/tennis_atp/master",
@@ -147,12 +147,28 @@ _IMPORTANT_LEVELS = {"G", "F", "M", "PM", "P", "A", "500"}
 _TML_URL = "https://stats.tennismylife.org/"
 _TML_SCHEDULE_URL = "https://stats.tennismylife.org/schedule"
 _ESPN_ATP_SCOREBOARD_URL = "https://site.api.espn.com/apis/site/v2/sports/tennis/atp/scoreboard?dates={date}&limit=300"
+_ESPN_SCOREBOARD_URLS = {
+    "atp": _ESPN_ATP_SCOREBOARD_URL,
+    "wta": "https://site.api.espn.com/apis/site/v2/sports/tennis/wta/scoreboard?dates={date}&limit=300",
+}
 _TML_IMPORTANT_TOURNAMENTS: dict[str, dict[str, str]] = {
     "Roland Garros": {"level": "Grand Slam", "surface": "Clay"},
     "Australian Open": {"level": "Grand Slam", "surface": "Hard"},
     "Wimbledon": {"level": "Grand Slam", "surface": "Grass"},
     "Us Open": {"level": "Grand Slam", "surface": "Hard"},
     "US Open": {"level": "Grand Slam", "surface": "Hard"},
+}
+_TOUR_SINGLES_GROUP = {
+    "atp": "Men's Singles",
+    "wta": "Women's Singles",
+}
+_TOURNAMENT_WITHDRAWALS = {
+    "Roland Garros": {
+        "atp": {
+            "Carlos Alcaraz": "Lesión · no compite en Roland Garros",
+        },
+        "wta": {},
+    },
 }
 
 
@@ -385,6 +401,123 @@ def _espn_day_matches(scores: dict[str, float], target_date: _date) -> list[dict
                 })
 
     return _rank_recent_tournaments(list(grouped.values()), scores)
+
+
+def _espn_current_tournament_status(tour: str, players: list[dict]) -> dict:
+    """Return current Grand Slam/Masters singles survival state from ESPN's draw data."""
+    url_tmpl = _ESPN_SCOREBOARD_URLS.get(tour, _ESPN_ATP_SCOREBOARD_URL)
+    url = url_tmpl.format(date=_date.today().strftime("%Y%m%d"))
+    try:
+        raw = _cache_fetch(url, ttl_hours=0.5)
+        data = json.loads(raw)
+    except Exception as exc:
+        print(f"[WARN] ESPN {tour.upper()} tournament status unavailable: {exc}", file=sys.stderr)
+        return {}
+
+    target_group = _TOUR_SINGLES_GROUP[tour]
+    today = _date.today()
+    selected: dict | None = None
+    selected_info: dict[str, str] = {}
+    for event in data.get("events", []):
+        name = event.get("name", "")
+        info = _TML_IMPORTANT_TOURNAMENTS.get(name)
+        if not info:
+            continue
+        try:
+            start = datetime.fromisoformat((event.get("date", "") or "").replace("Z", "+00:00")).date()
+            end = datetime.fromisoformat((event.get("endDate", "") or "").replace("Z", "+00:00")).date()
+        except Exception:
+            start = today - timedelta(days=1)
+            end = today + timedelta(days=1)
+        if start <= today <= end:
+            selected = event
+            selected_info = info
+            break
+
+    if not selected:
+        return {}
+
+    entrants: dict[str, dict] = {}
+    matches_seen = 0
+
+    def remember(name: str, state: str, round_label: str = "", reason: str = "") -> None:
+        if not name or name == "TBD":
+            return
+        key = _name_key(name)
+        prev = entrants.get(key, {})
+        entrants[key] = {
+            "name": prev.get("name") or name,
+            "state": state,
+            "round": round_label or prev.get("round", ""),
+            "reason": reason or prev.get("reason", ""),
+        }
+
+    competitions: list[dict] = []
+    for grouping in selected.get("groupings", []):
+        if grouping.get("grouping", {}).get("displayName") != target_group:
+            continue
+        competitions.extend(grouping.get("competitions", []))
+
+    competitions.sort(key=lambda c: (
+        c.get("date", ""),
+        _ROUND_ORDER.get(_espn_round_code(c.get("round", {}).get("displayName", "")), 99),
+    ))
+
+    for comp in competitions:
+        round_label = comp.get("round", {}).get("displayName", "")
+        if "Qualifying" in round_label:
+            continue
+        competitors = comp.get("competitors", [])
+        names = [c.get("athlete", {}).get("displayName", "") for c in competitors]
+        names = [n for n in names if n and n != "TBD"]
+        if len(names) != 2:
+            continue
+        matches_seen += 1
+        short_round = _espn_round_code(round_label)
+        completed = comp.get("status", {}).get("type", {}).get("completed") is True
+        if completed:
+            winner = next((c for c in competitors if c.get("winner") is True), None)
+            loser = next((c for c in competitors if c.get("winner") is False), None)
+            if winner and loser:
+                remember(winner.get("athlete", {}).get("displayName", ""), "alive", short_round)
+                remember(loser.get("athlete", {}).get("displayName", ""), "out", short_round, f"Eliminado en {short_round}")
+        else:
+            for name in names:
+                remember(name, "alive", short_round)
+
+    withdrawals = _TOURNAMENT_WITHDRAWALS.get(selected.get("name", ""), {}).get(tour, {})
+    for name, reason in withdrawals.items():
+        remember(name, "out", "", reason)
+
+    alive_keys = {k for k, v in entrants.items() if v.get("state") == "alive"}
+    for player in players:
+        key = _name_key(player.get("name", ""))
+        status = entrants.get(key)
+        if status:
+            player["tournamentStatus"] = {
+                "tournament": selected.get("name", ""),
+                "state": status["state"],
+                "round": status.get("round", ""),
+                "reason": status.get("reason", ""),
+            }
+        else:
+            player["tournamentStatus"] = {
+                "tournament": selected.get("name", ""),
+                "state": "out",
+                "round": "",
+                "reason": f"No compite en {selected.get('name', '')}",
+            }
+
+    return {
+        "name": selected.get("name", ""),
+        "level": selected_info.get("level", ""),
+        "surface": selected_info.get("surface", ""),
+        "tour": tour.upper(),
+        "alive": sorted(v["name"] for v in entrants.values() if v.get("state") == "alive"),
+        "out": sorted(v["name"] for v in entrants.values() if v.get("state") == "out"),
+        "aliveCount": len(alive_keys),
+        "matchesSeen": matches_seen,
+    }
 
 
 def _tml_today_schedule(scores: dict[str, float]) -> list[dict]:
@@ -1088,6 +1221,8 @@ def write_data() -> None:
     print("Building recent match results…", file=sys.stderr)
     atp_score_lookup = {_name_key(name): score for name, score in atp_scores.items()}
     wta_score_lookup = {_name_key(name): score for name, score in wta_scores.items()}
+    atp_tournament = _espn_current_tournament_status("atp", atp)
+    wta_tournament = _espn_current_tournament_status("wta", wta)
     today = _date.today()
     yesterday = today - timedelta(days=1)
     atp_recent = (
@@ -1115,6 +1250,8 @@ def write_data() -> None:
         "ATP_TODAY":   atp_today,
         "WTA_RECENT":  wta_recent,
         "WTA_TODAY":   wta_today,
+        "ATP_TOURNAMENT": atp_tournament,
+        "WTA_TOURNAMENT": wta_tournament,
         "IMPORTANCE":  importance,
     }
 
