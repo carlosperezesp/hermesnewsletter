@@ -1,6 +1,6 @@
-// Auto-generated 2026-05-31 21:17 UTC
+// Auto-generated 2026-05-31 22:31 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-05-31 21:17 UTC",
+  "UPDATED": "2026-05-31 22:31 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -214,9 +214,9 @@ window.TENNIS_DATA = {
       "prevListRank": 7,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "R16",
-        "reason": ""
+        "reason": "Eliminado en R16"
       }
     },
     {
@@ -804,7 +804,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       }
     },
@@ -866,7 +866,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       }
     },
@@ -4411,7 +4411,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Casper Ruud",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 7-6 (10-8) 5-7 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 70.1,
@@ -4457,7 +4457,6 @@ window.TENNIS_DATA = {
     "alive": [
       "Alejandro Tabilo",
       "Alexander Zverev",
-      "Casper Ruud",
       "Felix Auger-Aliassime",
       "Flavio Cobolli",
       "Frances Tiafoe",
@@ -4494,6 +4493,7 @@ window.TENNIS_DATA = {
       "Cameron Norrie",
       "Camilo Ugo Carabelli",
       "Carlos Alcaraz",
+      "Casper Ruud",
       "Chak Lam Coleman Wong",
       "Clement Tabur",
       "Corentin Moutet",
@@ -4587,8 +4587,8 @@ window.TENNIS_DATA = {
       "Zhang Zhizhen",
       "Zizou Bergs"
     ],
-    "aliveCount": 13,
-    "matchesSeen": 121
+    "aliveCount": 12,
+    "matchesSeen": 122
   },
   "WTA_TOURNAMENT": {
     "name": "Roland Garros",

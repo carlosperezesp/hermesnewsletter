@@ -381,6 +381,27 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "TEX",
+      "city": "Texas Rangers",
+      "shortName": "Texas",
+      "commonName": "Rangers",
+      "conf": "AL",
+      "div": "AL West",
+      "gp": 59,
+      "w": 28,
+      "l": 31,
+      "winPct": 0.475,
+      "rf": 237,
+      "ra": 230,
+      "rd": 0,
+      "score": 38,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png",
+      "colors": {
+        "primary": "#c0111f",
+        "secondary": "#003278"
+      }
+    },
+    {
       "code": "BAL",
       "city": "Baltimore Orioles",
       "shortName": "Baltimore",
@@ -399,27 +420,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#df4601",
         "secondary": "#000000"
-      }
-    },
-    {
-      "code": "TEX",
-      "city": "Texas Rangers",
-      "shortName": "Texas",
-      "commonName": "Rangers",
-      "conf": "AL",
-      "div": "AL West",
-      "gp": 58,
-      "w": 27,
-      "l": 31,
-      "winPct": 0.466,
-      "rf": 231,
-      "ra": 227,
-      "rd": 0,
-      "score": 37,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png",
-      "colors": {
-        "primary": "#c0111f",
-        "secondary": "#003278"
       }
     },
     {
@@ -555,12 +555,12 @@ window.MLB_DATA = {
       "commonName": "Royals",
       "conf": "AL",
       "div": "AL Central",
-      "gp": 58,
+      "gp": 59,
       "w": 22,
-      "l": 36,
-      "winPct": 0.379,
-      "rf": 218,
-      "ra": 274,
+      "l": 37,
+      "winPct": 0.373,
+      "rf": 221,
+      "ra": 280,
       "rd": 0,
       "score": 30,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png",
@@ -6932,9 +6932,9 @@ window.MLB_DATA = {
         "city": "Texas Rangers",
         "era": "2023–present",
         "rings": 1,
-        "dynastyScore": 42.2,
+        "dynastyScore": 42.8,
         "threshold": 89.5,
-        "gap": 47.3,
+        "gap": 46.7,
         "note": "2023 World Champions · Seager/García · historic first title",
         "needs": "2–3 more titles + another dominant era needed",
         "colors": {
@@ -7253,7 +7253,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-05-31 21:16 UTC",
+  "LAST_UPDATE": "2026-05-31 22:30 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
