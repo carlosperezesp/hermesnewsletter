@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-01 12:15 UTC
+// Auto-generated 2026-06-01 18:29 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-01 12:15 UTC",
+  "UPDATED": "2026-06-01 18:29 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -494,7 +494,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       }
     },
@@ -773,7 +773,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       }
     },
@@ -1299,9 +1299,9 @@ window.TENNIS_DATA = {
       "prevListRank": 42,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "R16",
-        "reason": ""
+        "reason": "Eliminado en R16"
       }
     },
     {
@@ -2324,9 +2324,9 @@ window.TENNIS_DATA = {
       "prevListRank": 15,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "R16",
-        "reason": ""
+        "reason": "Eliminado en R16"
       }
     },
     {
@@ -2417,9 +2417,9 @@ window.TENNIS_DATA = {
       "prevListRank": 18,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "R16",
-        "reason": ""
+        "reason": "Eliminado en R16"
       }
     },
     {
@@ -2573,7 +2573,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       }
     },
@@ -4346,37 +4346,37 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alejandro Tabilo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 7-5 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.5,
           "l_score": 65.1,
           "match_score": 75.5
         },
         {
           "round": "R16",
-          "w": "Frances Tiafoe",
+          "w": "Matteo Arnaldi",
           "w_logo": "",
-          "l": "Matteo Arnaldi",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 72.9,
-          "l_score": 51.9,
-          "match_score": 72.9
-        },
-        {
-          "round": "R16",
-          "w": "Zachary Svajda",
-          "w_logo": "",
-          "l": "Flavio Cobolli",
+          "l": "Frances Tiafoe",
           "l_logo": "",
           "score": "In Progress",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 48.3,
-          "l_score": 72.2,
+          "w_score": 51.9,
+          "l_score": 72.9,
+          "match_score": 72.9
+        },
+        {
+          "round": "R16",
+          "w": "Flavio Cobolli",
+          "w_logo": "",
+          "l": "Zachary Svajda",
+          "l_logo": "",
+          "score": "6-2 6-3 6-7 (3-7) 7-6 (7-5)",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 72.2,
+          "l_score": 48.3,
           "match_score": 72.2
         },
         {
@@ -4385,9 +4385,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Juan Manuel Cerundolo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 7-6 (7-2) 7-6 (8-6)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 58.0,
           "l_score": 57.8,
           "match_score": 58.0
@@ -4403,24 +4403,22 @@ window.TENNIS_DATA = {
     "surface": "Clay",
     "tour": "ATP",
     "alive": [
-      "Alejandro Tabilo",
       "Alexander Zverev",
       "Felix Auger-Aliassime",
       "Flavio Cobolli",
       "Frances Tiafoe",
       "Jakub Mensik",
       "Joao Fonseca",
-      "Juan Manuel Cerundolo",
       "Matteo Arnaldi",
       "Matteo Berrettini",
-      "Rafael Jodar",
-      "Zachary Svajda"
+      "Rafael Jodar"
     ],
     "out": [
       "Adam Walton",
       "Adolfo Daniel Vallejo",
       "Adrian Mannarino",
       "Alejandro Davidovich Fokina",
+      "Alejandro Tabilo",
       "Aleksandar Kovacevic",
       "Aleksandar Vukic",
       "Alex Michelsen",
@@ -4478,6 +4476,7 @@ window.TENNIS_DATA = {
       "Jesper de Jong",
       "Jiri Lehecka",
       "Juan Carlos Prado Angelo",
+      "Juan Manuel Cerundolo",
       "Jurij Rodionov",
       "Kamil Majchrzak",
       "Karen Khachanov",
@@ -4532,11 +4531,12 @@ window.TENNIS_DATA = {
       "Vit Kopriva",
       "Wu Yibing",
       "Yannick Hanfmann",
+      "Zachary Svajda",
       "Zhang Zhizhen",
       "Zizou Bergs"
     ],
-    "aliveCount": 12,
-    "matchesSeen": 122
+    "aliveCount": 9,
+    "matchesSeen": 123
   },
   "WTA_TOURNAMENT": {
     "name": "Roland Garros",
@@ -4544,13 +4544,10 @@ window.TENNIS_DATA = {
     "surface": "Clay",
     "tour": "WTA",
     "alive": [
-      "Anastasia Potapova",
       "Anna Kalinskaya",
       "Aryna Sabalenka",
       "Diana Shnaider",
-      "Diane Parry",
       "Elina Svitolina",
-      "Madison Keys",
       "Maja Chwalinska",
       "Marta Kostyuk",
       "Mirra Andreeva",
@@ -4565,6 +4562,7 @@ window.TENNIS_DATA = {
       "Alina Korneeva",
       "Alycia Parks",
       "Amanda Anisimova",
+      "Anastasia Potapova",
       "Anastasia Zakharova",
       "Anhelina Kalinina",
       "Ann Li",
@@ -4587,6 +4585,7 @@ window.TENNIS_DATA = {
       "Daria Kasatkina",
       "Daria Snigur",
       "Dayana Yastremska",
+      "Diane Parry",
       "Donna Vekic",
       "Ekaterina Alexandrova",
       "Elena Pridankina",
@@ -4633,6 +4632,7 @@ window.TENNIS_DATA = {
       "Liudmila Samsonova",
       "Lois Boisson",
       "Lucia Bronzetti",
+      "Madison Keys",
       "Magda Linette",
       "Magdalena Frech",
       "Maria Sakkari",
@@ -4675,8 +4675,8 @@ window.TENNIS_DATA = {
       "Zhang Shuai",
       "Zheng Qinwen"
     ],
-    "aliveCount": 12,
-    "matchesSeen": 122
+    "aliveCount": 9,
+    "matchesSeen": 123
   },
   "IMPORTANCE": 10.0
 };

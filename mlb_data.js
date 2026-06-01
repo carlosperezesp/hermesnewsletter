@@ -4859,7 +4859,7 @@ window.MLB_DATA = {
       "name": "Austin Martin",
       "first": "Austin",
       "last": "Martin",
-      "pos": "LF",
+      "pos": "RF",
       "teamCode": "MIN",
       "age": 27,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4297998.png",
@@ -7109,7 +7109,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-01 12:14 UTC",
+  "LAST_UPDATE": "2026-06-01 18:27 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
