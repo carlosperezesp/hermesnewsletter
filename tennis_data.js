@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-01 19:13 UTC
+// Auto-generated 2026-06-01 22:38 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-01 19:13 UTC",
+  "UPDATED": "2026-06-01 22:38 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1891,7 +1891,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       }
     },
@@ -2448,9 +2448,9 @@ window.TENNIS_DATA = {
       "prevListRank": 19,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "R16",
-        "reason": ""
+        "reason": "Eliminado en R16"
       }
     },
     {
@@ -2666,7 +2666,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       }
     },
@@ -4551,7 +4551,6 @@ window.TENNIS_DATA = {
       "Maja Chwalinska",
       "Marta Kostyuk",
       "Mirra Andreeva",
-      "Naomi Osaka",
       "Sorana Cirstea"
     ],
     "out": [
@@ -4642,6 +4641,7 @@ window.TENNIS_DATA = {
       "Mayar Sherif",
       "McCartney Kessler",
       "Moyuka Uchijima",
+      "Naomi Osaka",
       "Nikola Bartunkova",
       "Oksana Selekhmeteva",
       "Oleksandra Oliynykova",
@@ -4675,8 +4675,8 @@ window.TENNIS_DATA = {
       "Zhang Shuai",
       "Zheng Qinwen"
     ],
-    "aliveCount": 9,
-    "matchesSeen": 123
+    "aliveCount": 8,
+    "matchesSeen": 124
   },
   "IMPORTANCE": 10.0
 };
