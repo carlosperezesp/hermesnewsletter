@@ -18409,8 +18409,8 @@ window.NHL_DATA = {
     {
       "id": 8476874,
       "first": "Olli",
-      "last": "Määttä",
-      "name": "Olli Määttä",
+      "last": "Maatta",
+      "name": "Olli Maatta",
       "pos": "D",
       "teamCode": "CGY",
       "age": 31,
@@ -44899,10 +44899,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-02 10:58 UTC",
+  "LAST_UPDATE": "2026-06-02 17:07 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-02T10:58:15Z"
+    "standingsDateTimeUtc": "2026-06-02T17:06:45Z"
   }
 };

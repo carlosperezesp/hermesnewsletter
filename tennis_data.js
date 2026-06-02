@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-02 10:59 UTC
+// Auto-generated 2026-06-02 17:09 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-02 10:59 UTC",
+  "UPDATED": "2026-06-02 17:09 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -369,9 +369,9 @@ window.TENNIS_DATA = {
       "prevListRank": 12,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "Quarterfinal",
-        "reason": ""
+        "reason": "Eliminado en Quarterfinal"
       }
     },
     {
@@ -2045,9 +2045,9 @@ window.TENNIS_DATA = {
       "prevListRank": 6,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "Quarterfinal",
-        "reason": ""
+        "reason": "Eliminado en Quarterfinal"
       }
     },
     {
@@ -2077,7 +2077,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       }
     },
@@ -2108,7 +2108,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       }
     },
@@ -4346,9 +4346,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Rafael Jodar",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-3) 6-1 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 84.5,
           "l_score": 76.6,
           "match_score": 84.5
@@ -4383,8 +4383,7 @@ window.TENNIS_DATA = {
       "Jakub Mensik",
       "Joao Fonseca",
       "Matteo Arnaldi",
-      "Matteo Berrettini",
-      "Rafael Jodar"
+      "Matteo Berrettini"
     ],
     "out": [
       "Adam Walton",
@@ -4477,6 +4476,7 @@ window.TENNIS_DATA = {
       "Pablo Llamas Ruiz",
       "Pierre-Hugues Herbert",
       "Quentin Halys",
+      "Rafael Jodar",
       "Raphael Collignon",
       "Reilly Opelka",
       "Rinky Hijikata",
@@ -4509,7 +4509,7 @@ window.TENNIS_DATA = {
       "Zhang Zhizhen",
       "Zizou Bergs"
     ],
-    "aliveCount": 8,
+    "aliveCount": 7,
     "matchesSeen": 124
   },
   "WTA_TOURNAMENT": {
@@ -4521,7 +4521,6 @@ window.TENNIS_DATA = {
       "Anna Kalinskaya",
       "Aryna Sabalenka",
       "Diana Shnaider",
-      "Elina Svitolina",
       "Maja Chwalinska",
       "Marta Kostyuk",
       "Mirra Andreeva"
@@ -4563,6 +4562,7 @@ window.TENNIS_DATA = {
       "Elena Pridankina",
       "Elena Rybakina",
       "Elena-Gabriela Ruse",
+      "Elina Svitolina",
       "Elisabetta Cocciaretto",
       "Elise Mertens",
       "Ella Seidel",
@@ -4649,8 +4649,8 @@ window.TENNIS_DATA = {
       "Zhang Shuai",
       "Zheng Qinwen"
     ],
-    "aliveCount": 7,
-    "matchesSeen": 124
+    "aliveCount": 6,
+    "matchesSeen": 125
   },
   "IMPORTANCE": 10.0
 };
