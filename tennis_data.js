@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-01 23:14 UTC
+// Auto-generated 2026-06-02 10:59 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-01 23:14 UTC",
+  "UPDATED": "2026-06-02 10:59 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -617,9 +617,9 @@ window.TENNIS_DATA = {
       "prevListRank": 20,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "R16",
-        "reason": ""
+        "reason": "Eliminado en R16"
       }
     },
     {
@@ -2200,9 +2200,9 @@ window.TENNIS_DATA = {
       "prevListRank": 11,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "Quarterfinal",
-        "reason": ""
+        "reason": "Eliminado en Quarterfinal"
       }
     },
     {
@@ -4281,73 +4281,12 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R16",
-          "w": "Alexander Zverev",
-          "w_logo": "",
-          "l": "Jesper de Jong",
-          "l_logo": "",
-          "score": "7-6 (7-3) 6-4 6-1",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 84.5,
-          "l_score": 51.6,
-          "match_score": 84.5
-        },
-        {
-          "round": "R16",
-          "w": "Joao Fonseca",
-          "w_logo": "",
-          "l": "Casper Ruud",
-          "l_logo": "",
-          "score": "7-5 7-6 (10-8) 5-7 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 70.1,
-          "l_score": 79.3,
-          "match_score": 79.3
-        },
-        {
-          "round": "R16",
-          "w": "Rafael Jodar",
-          "w_logo": "",
-          "l": "Pablo Carreno Busta",
-          "l_logo": "",
-          "score": "4-6 4-6 6-1 6-2 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 76.6,
-          "l_score": 48.5,
-          "match_score": 76.6
-        },
-        {
-          "round": "R16",
-          "w": "Jakub Mensik",
-          "w_logo": "",
-          "l": "Andrey Rublev",
-          "l_logo": "",
-          "score": "6-3 7-6 (8-6) 4-6 2-6 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 72.0,
-          "l_score": 74.0,
-          "match_score": 74.0
-        }
-      ]
-    }
-  ],
-  "ATP_TODAY": [
-    {
-      "name": "Roland Garros",
-      "level": "Grand Slam",
-      "surface": "Clay",
-      "matches": [
-        {
-          "round": "R16",
           "w": "Felix Auger-Aliassime",
           "w_logo": "",
           "l": "Alejandro Tabilo",
           "l_logo": "",
           "score": "6-3 7-5 6-1",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 75.5,
           "l_score": 65.1,
@@ -4359,8 +4298,8 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Frances Tiafoe",
           "l_logo": "",
-          "score": "In Progress",
-          "day": "hoy",
+          "score": "7-6 (7-5) 6-7 (5-7) 3-6 7-6 (7-3) 6-4",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 51.9,
           "l_score": 72.9,
@@ -4373,7 +4312,7 @@ window.TENNIS_DATA = {
           "l": "Zachary Svajda",
           "l_logo": "",
           "score": "6-2 6-3 6-7 (3-7) 7-6 (7-5)",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 72.2,
           "l_score": 48.3,
@@ -4386,11 +4325,46 @@ window.TENNIS_DATA = {
           "l": "Juan Manuel Cerundolo",
           "l_logo": "",
           "score": "6-3 7-6 (7-2) 7-6 (8-6)",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 58.0,
           "l_score": 57.8,
           "match_score": 58.0
+        }
+      ]
+    }
+  ],
+  "ATP_TODAY": [
+    {
+      "name": "Roland Garros",
+      "level": "Grand Slam",
+      "surface": "Clay",
+      "matches": [
+        {
+          "round": "Quarterfinal",
+          "w": "Alexander Zverev",
+          "w_logo": "",
+          "l": "Rafael Jodar",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 84.5,
+          "l_score": 76.6,
+          "match_score": 84.5
+        },
+        {
+          "round": "Quarterfinal",
+          "w": "Jakub Mensik",
+          "w_logo": "",
+          "l": "Joao Fonseca",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 72.0,
+          "l_score": 70.1,
+          "match_score": 72.0
         }
       ]
     }
@@ -4406,7 +4380,6 @@ window.TENNIS_DATA = {
       "Alexander Zverev",
       "Felix Auger-Aliassime",
       "Flavio Cobolli",
-      "Frances Tiafoe",
       "Jakub Mensik",
       "Joao Fonseca",
       "Matteo Arnaldi",
@@ -4456,6 +4429,7 @@ window.TENNIS_DATA = {
       "Fabian Marozsan",
       "Facundo Diaz Acosta",
       "Federico Cina",
+      "Frances Tiafoe",
       "Francisco Cerundolo",
       "Francisco Comesana",
       "Gabriel Diallo",
@@ -4535,8 +4509,8 @@ window.TENNIS_DATA = {
       "Zhang Zhizhen",
       "Zizou Bergs"
     ],
-    "aliveCount": 9,
-    "matchesSeen": 123
+    "aliveCount": 8,
+    "matchesSeen": 124
   },
   "WTA_TOURNAMENT": {
     "name": "Roland Garros",
@@ -4550,8 +4524,7 @@ window.TENNIS_DATA = {
       "Elina Svitolina",
       "Maja Chwalinska",
       "Marta Kostyuk",
-      "Mirra Andreeva",
-      "Sorana Cirstea"
+      "Mirra Andreeva"
     ],
     "out": [
       "Ajla Tomljanovic",
@@ -4657,6 +4630,7 @@ window.TENNIS_DATA = {
       "Sloane Stephens",
       "Sofia Kenin",
       "Solana Sierra",
+      "Sorana Cirstea",
       "Susan Bandecchi",
       "Talia Gibson",
       "Tamara Korpatsch",
@@ -4675,7 +4649,7 @@ window.TENNIS_DATA = {
       "Zhang Shuai",
       "Zheng Qinwen"
     ],
-    "aliveCount": 8,
+    "aliveCount": 7,
     "matchesSeen": 124
   },
   "IMPORTANCE": 10.0

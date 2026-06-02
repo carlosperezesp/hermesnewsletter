@@ -15403,7 +15403,7 @@ window.NHL_DATA = {
       "name": "Jake Evans",
       "pos": "C",
       "teamCode": "MTL",
-      "age": 29,
+      "age": 30,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -44899,10 +44899,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-01 23:12 UTC",
+  "LAST_UPDATE": "2026-06-02 10:58 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-01T23:12:00Z"
+    "standingsDateTimeUtc": "2026-06-02T10:58:15Z"
   }
 };
