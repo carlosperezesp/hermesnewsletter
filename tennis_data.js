@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-03 18:13 UTC
+// Auto-generated 2026-06-03 22:36 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-03 18:13 UTC",
+  "UPDATED": "2026-06-03 22:36 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -773,7 +773,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       }
     },
@@ -4329,15 +4329,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Matteo Berrettini",
+          "w": "Matteo Arnaldi",
           "w_logo": "",
-          "l": "Matteo Arnaldi",
+          "l": "Matteo Berrettini",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 5-2 ret",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 58.0,
-          "l_score": 51.9,
+          "scheduled": false,
+          "w_score": 51.9,
+          "l_score": 58.0,
           "match_score": 58.0
         }
       ]
@@ -4354,8 +4354,7 @@ window.TENNIS_DATA = {
       "Alexander Zverev",
       "Flavio Cobolli",
       "Jakub Mensik",
-      "Matteo Arnaldi",
-      "Matteo Berrettini"
+      "Matteo Arnaldi"
     ],
     "out": [
       "Adam Walton",
@@ -4439,6 +4438,7 @@ window.TENNIS_DATA = {
       "Marin Cilic",
       "Martin Landaluce",
       "Marton Fucsovics",
+      "Matteo Berrettini",
       "Mattia Bellucci",
       "Michael Zheng",
       "Miomir Kecmanovic",
@@ -4483,8 +4483,8 @@ window.TENNIS_DATA = {
       "Zhang Zhizhen",
       "Zizou Bergs"
     ],
-    "aliveCount": 5,
-    "matchesSeen": 125
+    "aliveCount": 4,
+    "matchesSeen": 126
   },
   "WTA_TOURNAMENT": {
     "name": "Roland Garros",
