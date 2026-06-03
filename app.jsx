@@ -1168,7 +1168,7 @@ function NewsletterApp() {
 
               <NewsletterSection
                 kicker="ATP Legends"
-                title="Road to Glory · Leyendas del ATP"
+                title="Top 10 leyendas ATP"
                 sub={`Umbral top 10 histórico: ${atpLegendThreshold.toFixed(1)} (${atpLegendTop[9]?.name || "N/A"}). Score histórico: GS (×12) + Year-end #1 (×3) + semanas en #1 (÷10).`}
               >
                 <div className="newsletter-list">
@@ -1223,7 +1223,7 @@ function NewsletterApp() {
 
               <NewsletterSection
                 kicker="WTA Legends"
-                title="Road to Glory · Leyendas del WTA"
+                title="Top 10 leyendas WTA"
                 sub={`Umbral top 10 histórico: ${wtaLegendThreshold.toFixed(1)} (${wtaLegendTop[9]?.name || "N/A"}). Score histórico: GS (×12) + Year-end #1 (×3) + semanas en #1 (÷10).`}
               >
                 <div className="newsletter-list">
@@ -1379,7 +1379,7 @@ function NewsletterApp() {
                 <NewsletterSection
                   kicker={`${raceFinished ? "Clasificación General final" : "Clasificación General"} — Etapa ${cr.stage}/${cr.total_stages}`}
                   title={raceFinished ? "Top 10 GC final" : "Top 10 GC"}
-                  sub={`Líder: ${cr.gc[0].name} (${cr.jersey_name}). Score leyenda: Tour×12, Giro×9, Vuelta×8, Monumentos×4, Mundiales×4; Merckx=100.`}
+                  sub={`${raceFinished ? "Campeón" : "Líder"}: ${cr.gc[0].name} (${cr.jersey_name}). Score leyenda: Tour×12, Giro×9, Vuelta×8, Monumentos×4, Mundiales×4; Merckx=100.`}
                 >
                   <div className="newsletter-list">
                     {cr.gc.map((r, i) => (
@@ -1405,9 +1405,9 @@ function NewsletterApp() {
 
               {cr && (cr.points_leader || cr.kom_leader || cr.young_leader) && (
                 <NewsletterSection
-                  kicker="Líderes de maillot"
+                  kicker={raceFinished ? "Maillots finales" : "Líderes de maillot"}
                   title="Puntos · Montaña · Mejor joven"
-                  sub="Clasificaciones secundarias en curso."
+                  sub={raceFinished ? "Clasificaciones secundarias finales." : "Clasificaciones secundarias en curso."}
                 >
                   <div className="newsletter-list">
                     {[

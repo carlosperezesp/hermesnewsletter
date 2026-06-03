@@ -1,6 +1,6 @@
-// Auto-generated 2026-05-31 18:18 UTC
+// Auto-generated 2026-06-03 09:32 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-05-31 18:18 UTC",
+  "UPDATED": "2026-06-03 09:32 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -122,7 +122,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       }
     },
@@ -214,9 +214,9 @@ window.TENNIS_DATA = {
       "prevListRank": 7,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "R16",
-        "reason": ""
+        "reason": "Eliminado en R16"
       }
     },
     {
@@ -369,9 +369,9 @@ window.TENNIS_DATA = {
       "prevListRank": 12,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "Quarterfinal",
-        "reason": ""
+        "reason": "Eliminado en Quarterfinal"
       }
     },
     {
@@ -494,7 +494,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       }
     },
@@ -524,9 +524,9 @@ window.TENNIS_DATA = {
       "prevListRank": 17,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "R16",
-        "reason": ""
+        "reason": "Eliminado en R16"
       }
     },
     {
@@ -617,9 +617,9 @@ window.TENNIS_DATA = {
       "prevListRank": 20,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "R16",
-        "reason": ""
+        "reason": "Eliminado en R16"
       }
     },
     {
@@ -773,7 +773,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       }
     },
@@ -804,7 +804,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "R16",
+        "round": "Semifinal",
         "reason": ""
       }
     },
@@ -865,9 +865,9 @@ window.TENNIS_DATA = {
       "prevListRank": 28,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
-        "round": "R16",
-        "reason": ""
+        "state": "out",
+        "round": "Quarterfinal",
+        "reason": "Eliminado en Quarterfinal"
       }
     },
     {
@@ -1299,9 +1299,9 @@ window.TENNIS_DATA = {
       "prevListRank": 42,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "R16",
-        "reason": ""
+        "reason": "Eliminado en R16"
       }
     },
     {
@@ -1891,7 +1891,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       }
     },
@@ -2045,9 +2045,9 @@ window.TENNIS_DATA = {
       "prevListRank": 6,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "Quarterfinal",
-        "reason": ""
+        "reason": "Eliminado en Quarterfinal"
       }
     },
     {
@@ -2077,7 +2077,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       }
     },
@@ -2108,7 +2108,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       }
     },
@@ -2200,9 +2200,9 @@ window.TENNIS_DATA = {
       "prevListRank": 11,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "Quarterfinal",
-        "reason": ""
+        "reason": "Eliminado en Quarterfinal"
       }
     },
     {
@@ -2324,9 +2324,9 @@ window.TENNIS_DATA = {
       "prevListRank": 15,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "R16",
-        "reason": ""
+        "reason": "Eliminado en R16"
       }
     },
     {
@@ -2417,9 +2417,9 @@ window.TENNIS_DATA = {
       "prevListRank": 18,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "R16",
-        "reason": ""
+        "reason": "Eliminado en R16"
       }
     },
     {
@@ -2448,9 +2448,9 @@ window.TENNIS_DATA = {
       "prevListRank": 19,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "R16",
-        "reason": ""
+        "reason": "Eliminado en R16"
       }
     },
     {
@@ -2573,7 +2573,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       }
     },
@@ -2666,7 +2666,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       }
     },
@@ -4280,108 +4280,30 @@ window.TENNIS_DATA = {
       "surface": "Clay",
       "matches": [
         {
-          "round": "R32",
-          "w": "Felix Auger-Aliassime",
+          "round": "Quarterfinal",
+          "w": "Alexander Zverev",
           "w_logo": "",
-          "l": "Brandon Nakashima",
+          "l": "Rafael Jodar",
           "l_logo": "",
-          "score": "5-7 6-1 7-6 (7-4) 7-6 (7-1)",
+          "score": "7-6 (7-3) 6-1 6-3",
           "day": "ayer",
           "scheduled": false,
-          "w_score": 75.5,
-          "l_score": 65.4,
-          "match_score": 75.5
+          "w_score": 84.5,
+          "l_score": 76.6,
+          "match_score": 84.5
         },
         {
-          "round": "R32",
-          "w": "Frances Tiafoe",
+          "round": "Quarterfinal",
+          "w": "Jakub Mensik",
           "w_logo": "",
-          "l": "Jaime Faria",
+          "l": "Joao Fonseca",
           "l_logo": "",
-          "score": "4-6 6-7 (2-7) 7-6 (7-4) 6-1 6-2",
+          "score": "6-4 6-3 7-6 (7-3)",
           "day": "ayer",
           "scheduled": false,
-          "w_score": 72.9,
-          "l_score": 50.9,
-          "match_score": 72.9
-        },
-        {
-          "round": "R32",
-          "w": "Zachary Svajda",
-          "w_logo": "",
-          "l": "Francisco Cerundolo",
-          "l_logo": "",
-          "score": "6-3 6-4 3-6 4-6 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 48.3,
-          "l_score": 72.9,
-          "match_score": 72.9
-        },
-        {
-          "round": "R32",
-          "w": "Flavio Cobolli",
-          "w_logo": "",
-          "l": "Learner Tien",
-          "l_logo": "",
-          "score": "6-2 6-2 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 72.2,
-          "l_score": 72.7,
-          "match_score": 72.7
-        },
-        {
-          "round": "R32",
-          "w": "Alejandro Tabilo",
-          "w_logo": "",
-          "l": "Moise Kouame",
-          "l_logo": "",
-          "score": "4-6 6-3 6-4 7-6 (11-9)",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 65.1,
-          "l_score": null,
-          "match_score": 65.1
-        },
-        {
-          "round": "R32",
-          "w": "Matteo Arnaldi",
-          "w_logo": "",
-          "l": "Raphael Collignon",
-          "l_logo": "",
-          "score": "6-4 6-7 (5-7) 5-7 6-4 7-6 (10-4)",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 51.9,
-          "l_score": 58.2,
-          "match_score": 58.2
-        },
-        {
-          "round": "R32",
-          "w": "Matteo Berrettini",
-          "w_logo": "",
-          "l": "Francisco Comesana",
-          "l_logo": "",
-          "score": "7-6 (7-3) 5-7 6-7 (4-7) 6-4 7-6 (15-13)",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 58.0,
-          "l_score": 48.8,
-          "match_score": 58.0
-        },
-        {
-          "round": "R32",
-          "w": "Juan Manuel Cerundolo",
-          "w_logo": "",
-          "l": "Martin Landaluce",
-          "l_logo": "",
-          "score": "6-4 6-7 (7-9) 7-6 (7-4) 6-7 (4-7) 7-6 (10-8)",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 57.8,
-          "l_score": 55.4,
-          "match_score": 57.8
+          "w_score": 72.0,
+          "l_score": 70.1,
+          "match_score": 72.0
         }
       ]
     }
@@ -4393,56 +4315,30 @@ window.TENNIS_DATA = {
       "surface": "Clay",
       "matches": [
         {
-          "round": "R16",
-          "w": "Alexander Zverev",
+          "round": "Quarterfinal",
+          "w": "Felix Auger-Aliassime",
           "w_logo": "",
-          "l": "Jesper de Jong",
-          "l_logo": "",
-          "score": "7-6 (7-3) 6-4 6-1",
-          "day": "hoy",
-          "scheduled": false,
-          "w_score": 84.5,
-          "l_score": 51.6,
-          "match_score": 84.5
-        },
-        {
-          "round": "R16",
-          "w": "Casper Ruud",
-          "w_logo": "",
-          "l": "Joao Fonseca",
+          "l": "Flavio Cobolli",
           "l_logo": "",
           "score": "por jugar",
           "day": "hoy",
           "scheduled": true,
-          "w_score": 79.3,
-          "l_score": 70.1,
-          "match_score": 79.3
+          "w_score": 75.5,
+          "l_score": 72.2,
+          "match_score": 75.5
         },
         {
-          "round": "R16",
-          "w": "Rafael Jodar",
+          "round": "Quarterfinal",
+          "w": "Matteo Berrettini",
           "w_logo": "",
-          "l": "Pablo Carreno Busta",
+          "l": "Matteo Arnaldi",
           "l_logo": "",
-          "score": "4-6 4-6 6-1 6-2 6-2",
+          "score": "por jugar",
           "day": "hoy",
-          "scheduled": false,
-          "w_score": 76.6,
-          "l_score": 48.5,
-          "match_score": 76.6
-        },
-        {
-          "round": "R16",
-          "w": "Andrey Rublev",
-          "w_logo": "",
-          "l": "Jakub Mensik",
-          "l_logo": "",
-          "score": "In Progress",
-          "day": "hoy",
-          "scheduled": false,
-          "w_score": 74.0,
-          "l_score": 72.0,
-          "match_score": 74.0
+          "scheduled": true,
+          "w_score": 58.0,
+          "l_score": 51.9,
+          "match_score": 58.0
         }
       ]
     }
@@ -4455,26 +4351,19 @@ window.TENNIS_DATA = {
     "surface": "Clay",
     "tour": "ATP",
     "alive": [
-      "Alejandro Tabilo",
       "Alexander Zverev",
-      "Andrey Rublev",
-      "Casper Ruud",
       "Felix Auger-Aliassime",
       "Flavio Cobolli",
-      "Frances Tiafoe",
       "Jakub Mensik",
-      "Joao Fonseca",
-      "Juan Manuel Cerundolo",
       "Matteo Arnaldi",
-      "Matteo Berrettini",
-      "Rafael Jodar",
-      "Zachary Svajda"
+      "Matteo Berrettini"
     ],
     "out": [
       "Adam Walton",
       "Adolfo Daniel Vallejo",
       "Adrian Mannarino",
       "Alejandro Davidovich Fokina",
+      "Alejandro Tabilo",
       "Aleksandar Kovacevic",
       "Aleksandar Vukic",
       "Alex Michelsen",
@@ -4485,6 +4374,7 @@ window.TENNIS_DATA = {
       "Alexandre Muller",
       "Alexei Popyrin",
       "Andrea Pellegrino",
+      "Andrey Rublev",
       "Arthur Gea",
       "Arthur Rinderknech",
       "Ben Shelton",
@@ -4494,6 +4384,7 @@ window.TENNIS_DATA = {
       "Cameron Norrie",
       "Camilo Ugo Carabelli",
       "Carlos Alcaraz",
+      "Casper Ruud",
       "Chak Lam Coleman Wong",
       "Clement Tabur",
       "Corentin Moutet",
@@ -4510,6 +4401,7 @@ window.TENNIS_DATA = {
       "Fabian Marozsan",
       "Facundo Diaz Acosta",
       "Federico Cina",
+      "Frances Tiafoe",
       "Francisco Cerundolo",
       "Francisco Comesana",
       "Gabriel Diallo",
@@ -4529,7 +4421,9 @@ window.TENNIS_DATA = {
       "Jenson Brooksby",
       "Jesper de Jong",
       "Jiri Lehecka",
+      "Joao Fonseca",
       "Juan Carlos Prado Angelo",
+      "Juan Manuel Cerundolo",
       "Jurij Rodionov",
       "Kamil Majchrzak",
       "Karen Khachanov",
@@ -4556,6 +4450,7 @@ window.TENNIS_DATA = {
       "Pablo Llamas Ruiz",
       "Pierre-Hugues Herbert",
       "Quentin Halys",
+      "Rafael Jodar",
       "Raphael Collignon",
       "Reilly Opelka",
       "Rinky Hijikata",
@@ -4584,11 +4479,12 @@ window.TENNIS_DATA = {
       "Vit Kopriva",
       "Wu Yibing",
       "Yannick Hanfmann",
+      "Zachary Svajda",
       "Zhang Zhizhen",
       "Zizou Bergs"
     ],
-    "aliveCount": 14,
-    "matchesSeen": 121
+    "aliveCount": 6,
+    "matchesSeen": 125
   },
   "WTA_TOURNAMENT": {
     "name": "Roland Garros",
@@ -4596,18 +4492,12 @@ window.TENNIS_DATA = {
     "surface": "Clay",
     "tour": "WTA",
     "alive": [
-      "Anastasia Potapova",
       "Anna Kalinskaya",
       "Aryna Sabalenka",
       "Diana Shnaider",
-      "Diane Parry",
-      "Elina Svitolina",
-      "Madison Keys",
       "Maja Chwalinska",
       "Marta Kostyuk",
-      "Mirra Andreeva",
-      "Naomi Osaka",
-      "Sorana Cirstea"
+      "Mirra Andreeva"
     ],
     "out": [
       "Ajla Tomljanovic",
@@ -4617,6 +4507,7 @@ window.TENNIS_DATA = {
       "Alina Korneeva",
       "Alycia Parks",
       "Amanda Anisimova",
+      "Anastasia Potapova",
       "Anastasia Zakharova",
       "Anhelina Kalinina",
       "Ann Li",
@@ -4639,11 +4530,13 @@ window.TENNIS_DATA = {
       "Daria Kasatkina",
       "Daria Snigur",
       "Dayana Yastremska",
+      "Diane Parry",
       "Donna Vekic",
       "Ekaterina Alexandrova",
       "Elena Pridankina",
       "Elena Rybakina",
       "Elena-Gabriela Ruse",
+      "Elina Svitolina",
       "Elisabetta Cocciaretto",
       "Elise Mertens",
       "Ella Seidel",
@@ -4685,6 +4578,7 @@ window.TENNIS_DATA = {
       "Liudmila Samsonova",
       "Lois Boisson",
       "Lucia Bronzetti",
+      "Madison Keys",
       "Magda Linette",
       "Magdalena Frech",
       "Maria Sakkari",
@@ -4694,6 +4588,7 @@ window.TENNIS_DATA = {
       "Mayar Sherif",
       "McCartney Kessler",
       "Moyuka Uchijima",
+      "Naomi Osaka",
       "Nikola Bartunkova",
       "Oksana Selekhmeteva",
       "Oleksandra Oliynykova",
@@ -4709,6 +4604,7 @@ window.TENNIS_DATA = {
       "Sloane Stephens",
       "Sofia Kenin",
       "Solana Sierra",
+      "Sorana Cirstea",
       "Susan Bandecchi",
       "Talia Gibson",
       "Tamara Korpatsch",
@@ -4727,8 +4623,8 @@ window.TENNIS_DATA = {
       "Zhang Shuai",
       "Zheng Qinwen"
     ],
-    "aliveCount": 12,
-    "matchesSeen": 122
+    "aliveCount": 6,
+    "matchesSeen": 125
   },
   "IMPORTANCE": 10.0
 };

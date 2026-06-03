@@ -1123,25 +1123,25 @@ def tennis_html(d: dict) -> str:
         + (section("WTA · Partidos importantes", "WTA — Hoy",
                    "Top partidos programados hoy por mejor score individual del duelo.",
                    matches_html(wta_today, scheduled=True)) if wta_today else "")
-        + section("ATP Top 10", "Ranking ATP — esta semana",
+        + section("ATP Top 10", "Top 10 ATP Singles — Score activo",
                   f'{atp_tourn.get("name","Torneo actual")}: vivos en claro; eliminados/no inscritos sombreados.',
                   player_list_html(tournament_display(atp, atp_tourn), "activeScore", "Score", p_note, p_meta))
         + section("Cambios ATP Top 10", "Quién entra y sale del top 10",
                   "Comparado con el ranking de la semana pasada.",
                   changes_html(atp_ch))
-        + section("WTA Top 10", "Ranking WTA — esta semana",
+        + section("WTA Top 10", "Top 10 WTA Singles — Score activo",
                   f'{wta_tourn.get("name","Torneo actual")}: vivas en claro; eliminadas/no inscritas sombreadas.',
                   player_list_html(tournament_display(wta, wta_tourn), "activeScore", "Score", p_note, p_meta))
         + section("Cambios WTA Top 10", "Quién entra y sale del top 10",
                   "Comparado con el ranking de la semana pasada.",
                   changes_html(wta_ch))
         + section("Road to Glory · Leyendas ATP",
-                  "Los mejores de la historia (ATP)",
+                  "Top 10 leyendas ATP",
                   "Score: GS × 12 + cierres #1 × 3 + semanas #1 ÷ 10",
                   player_list_html(atp_lg[:10], "legendScore", "Legend",
                                    lambda p: "", lg_meta))
         + section("Road to Glory · Leyendas WTA",
-                  "Los mejores de la historia (WTA)",
+                  "Top 10 leyendas WTA",
                   "Score: GS × 12 + cierres #1 × 3 + semanas #1 ÷ 10",
                   player_list_html(wta_lg[:10], "legendScore", "Legend",
                                    lambda p: "", lg_meta))
@@ -1266,20 +1266,27 @@ def cycling_html(d: dict) -> str:
         gc_leader  = gc[0]["name"] if gc else ""
         jersey_nm  = cr.get("jersey_name","")
         ns         = cr.get("next_stage") or {}
+        race_finished = bool(stage_num >= total_st and not ns)
+        leader_label = "Campeón" if race_finished else "Líder"
+        gc_title = "GC final" if race_finished else "GC"
+        stage_sub = f"{race_name} 2026 · finalizado" if race_finished else f"{race_name} 2026 · en directo"
+        next_sub = "No quedan etapas pendientes." if race_finished else f"{race_name} continúa mañana."
+        jersey_section = "Maillots finales" if race_finished else "Líderes de maillot"
+        jersey_sub = "Clasificaciones secundarias finales." if race_finished else "Barra = score histórico de leyendas (Merckx=100)."
         ns_label   = f'Etapa {ns["stage"]}' if ns else "Sin etapas pendientes"
         sections_html = (
             section("Última etapa", f"Etapa {stage_num} de {total_st}",
-                    f"{race_name} 2026 · en directo",
+                    stage_sub,
                     last_stage_html())
             + section("Próxima etapa", ns_label,
-                      f"{race_name} continúa mañana.",
+                      next_sub,
                       next_stage_html())
-            + section("Clasificación General", f"GC — Etapa {stage_num}/{total_st}",
-                      f"Líder: {gc_leader} · {jersey_nm}. Score leyenda: Tour×12, Giro×9, Vuelta×8, Monumentos×4, Mundiales×4; Merckx=100.",
+            + section("Clasificación General", f"{gc_title} — Etapa {stage_num}/{total_st}",
+                      f"{leader_label}: {gc_leader} · {jersey_nm}. Score leyenda: Tour×12, Giro×9, Vuelta×8, Monumentos×4, Mundiales×4; Merckx=100.",
                       gc_table_html(gc))
-            + section("Líderes de maillot",
+            + section(jersey_section,
                       "Puntos · Montaña · Mejor joven",
-                      "Barra = score histórico de leyendas (Merckx=100).",
+                      jersey_sub,
                       jersey_leaders_html())
         )
     else:
