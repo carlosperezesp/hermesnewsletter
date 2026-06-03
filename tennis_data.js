@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-03 17:35 UTC
+// Auto-generated 2026-06-03 18:13 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-03 17:35 UTC",
+  "UPDATED": "2026-06-03 18:13 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -493,9 +493,9 @@ window.TENNIS_DATA = {
       "prevListRank": 16,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "Quarterfinal",
-        "reason": ""
+        "reason": "Eliminado en Quarterfinal"
       }
     },
     {
@@ -4320,7 +4320,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Felix Auger-Aliassime",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-4 6-4 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 72.2,
@@ -4352,7 +4352,6 @@ window.TENNIS_DATA = {
     "tour": "ATP",
     "alive": [
       "Alexander Zverev",
-      "Felix Auger-Aliassime",
       "Flavio Cobolli",
       "Jakub Mensik",
       "Matteo Arnaldi",
@@ -4401,6 +4400,7 @@ window.TENNIS_DATA = {
       "Fabian Marozsan",
       "Facundo Diaz Acosta",
       "Federico Cina",
+      "Felix Auger-Aliassime",
       "Frances Tiafoe",
       "Francisco Cerundolo",
       "Francisco Comesana",
@@ -4483,7 +4483,7 @@ window.TENNIS_DATA = {
       "Zhang Zhizhen",
       "Zizou Bergs"
     ],
-    "aliveCount": 6,
+    "aliveCount": 5,
     "matchesSeen": 125
   },
   "WTA_TOURNAMENT": {
