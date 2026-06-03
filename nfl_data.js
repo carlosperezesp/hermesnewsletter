@@ -1180,7 +1180,7 @@ window.NFL_DATA = {
       "name": "Daniel Jones",
       "pos": "QB",
       "teamCode": "IND",
-      "age": 28,
+      "age": 29,
       "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917792.png",
       "colors": {
         "primary": "#002c5f",
@@ -2034,7 +2034,7 @@ window.NFL_DATA = {
   "SEASON": "2025",
   "SEASON_STATUS": "offseason",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-05-27 11:51 UTC",
+  "LAST_UPDATE": "2026-06-03 17:33 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

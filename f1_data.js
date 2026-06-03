@@ -1,6 +1,6 @@
-// Auto-generated 2026-05-27 11:51 UTC
+// Auto-generated 2026-06-03 17:34 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-05-27 11:51 UTC",
+  "UPDATED": "2026-06-03 17:34 UTC",
   "SEASON": "2026",
   "ROUND": 5,
   "TOTAL_ROUNDS": 24,
@@ -280,35 +280,7 @@ window.F1_DATA = {
       "points": 35.0
     }
   ],
-  "LAST_RACE": {
-    "name": "Lenovo Canadian Grand Prix",
-    "date": "2026-05-22",
-    "circuit": "Circuit Gilles-Villeneuve",
-    "round": 0,
-    "podium": [
-      {
-        "position": 1,
-        "name": "Kimi Antonelli",
-        "team": "mercedes",
-        "time": "",
-        "primary": "#00D2BE"
-      },
-      {
-        "position": 2,
-        "name": "George Russell",
-        "team": "mercedes",
-        "time": "",
-        "primary": "#00D2BE"
-      },
-      {
-        "position": 3,
-        "name": "Lewis Hamilton",
-        "team": "ferrari",
-        "time": "",
-        "primary": "#E8002D"
-      }
-    ]
-  },
+  "LAST_RACE": null,
   "LAST_SPRINT": null,
   "LEGENDS": [
     {

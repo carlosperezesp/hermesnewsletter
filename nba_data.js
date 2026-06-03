@@ -5871,7 +5871,7 @@ window.NBA_DATA = {
       "last": "Horford",
       "pos": "C",
       "teamCode": "GS",
-      "age": 39,
+      "age": 40,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3213.png",
       "colors": {
         "primary": "#1d428a",
@@ -9871,7 +9871,7 @@ window.NBA_DATA = {
       "last": "Rupert",
       "pos": "G",
       "teamCode": "POR",
-      "age": 21,
+      "age": 22,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5099752.png",
       "colors": {
         "primary": "#e03a3e",
@@ -9887,7 +9887,7 @@ window.NBA_DATA = {
         "blk": 0.1,
         "min": 16.8
       },
-      "legendScore": 27.1
+      "legendScore": 28.1
     },
     {
       "id": 2326307,
@@ -13064,7 +13064,7 @@ window.NBA_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-05-31 18:47 UTC",
+  "LAST_UPDATE": "2026-06-03 17:33 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

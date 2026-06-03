@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-05-31 18:07 UTC",
+  "UPDATED": "2026-06-03 17:35 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1511,
+    "matches": 1522,
     "archives": [
       {
         "name": "Tests",
@@ -13,15 +13,15 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 143
+        "matches": 145
       },
       {
         "name": "T20Is",
-        "matches": 858
+        "matches": 865
       },
       {
         "name": "IPL",
-        "matches": 146
+        "matches": 148
       },
       {
         "name": "BBL",
@@ -232,15 +232,15 @@ window.CRICKET_DATA = {
       "name": "RA Jadeja",
       "role": "All-rounder",
       "score": 86.3,
-      "legendScore": 67.8,
+      "legendScore": 67.9,
       "stats": {
         "test": 88.5,
         "odi": 88.2,
         "t20": 82.4,
-        "franchise": 80.9,
-        "runs": 1730,
+        "franchise": 81.0,
+        "runs": 1775,
         "wickets": 86,
-        "matches": 57
+        "matches": 58
       },
       "country": "India",
       "teamCode": "IND",
@@ -401,15 +401,15 @@ window.CRICKET_DATA = {
         "name": "RA Jadeja",
         "role": "All-rounder",
         "score": 88.5,
-        "legendScore": 67.8,
+        "legendScore": 67.9,
         "stats": {
           "test": 88.5,
           "odi": 88.2,
           "t20": 82.4,
-          "franchise": 80.9,
-          "runs": 1730,
+          "franchise": 81.0,
+          "runs": 1775,
           "wickets": 86,
-          "matches": 57
+          "matches": 58
         },
         "country": "India",
         "teamCode": "IND",
@@ -715,15 +715,15 @@ window.CRICKET_DATA = {
         "name": "RA Jadeja",
         "role": "All-rounder",
         "score": 88.2,
-        "legendScore": 67.8,
+        "legendScore": 67.9,
         "stats": {
           "test": 88.5,
           "odi": 88.2,
           "t20": 82.4,
-          "franchise": 80.9,
-          "runs": 1730,
+          "franchise": 81.0,
+          "runs": 1775,
           "wickets": 86,
-          "matches": 57
+          "matches": 58
         },
         "country": "India",
         "teamCode": "IND",
@@ -909,15 +909,15 @@ window.CRICKET_DATA = {
         "name": "JA Duffy",
         "role": "Bowler",
         "score": 90.5,
-        "legendScore": 61.5,
+        "legendScore": 61.6,
         "stats": {
           "test": 67.8,
           "odi": 63.7,
           "t20": 90.5,
-          "franchise": 86.1,
+          "franchise": 85.9,
           "runs": 104,
           "wickets": 105,
-          "matches": 52
+          "matches": 53
         },
         "country": "New Zealand",
         "teamCode": "NZ",
@@ -1051,43 +1051,19 @@ window.CRICKET_DATA = {
         "formatScore": 96.5
       },
       {
-        "id": "jo-holder",
-        "name": "JO Holder",
-        "role": "Bowler",
-        "score": 89.2,
-        "legendScore": 49.5,
-        "stats": {
-          "test": 31.5,
-          "odi": 32.2,
-          "t20": 53.6,
-          "franchise": 89.2,
-          "runs": 1245,
-          "wickets": 109,
-          "matches": 85
-        },
-        "country": "West Indies",
-        "teamCode": "WI",
-        "colors": {
-          "primary": "#7a263a",
-          "secondary": "#f6c344"
-        },
-        "logo": "",
-        "formatScore": 89.2
-      },
-      {
         "id": "shaheen-shah-afridi",
         "name": "Shaheen Shah Afridi",
         "role": "Bowler",
-        "score": 88.8,
-        "legendScore": 53.5,
+        "score": 91.6,
+        "legendScore": 54.7,
         "stats": {
           "test": 33.5,
-          "odi": 49.4,
-          "t20": 72.8,
-          "franchise": 88.8,
-          "runs": 444,
-          "wickets": 113,
-          "matches": 77
+          "odi": 52.8,
+          "t20": 76.0,
+          "franchise": 91.6,
+          "runs": 455,
+          "wickets": 117,
+          "matches": 79
         },
         "country": "Pakistan",
         "teamCode": "PAK",
@@ -1096,7 +1072,31 @@ window.CRICKET_DATA = {
           "secondary": "#ffffff"
         },
         "logo": "https://flagcdn.com/24x18/pk.png",
-        "formatScore": 88.8
+        "formatScore": 91.6
+      },
+      {
+        "id": "jo-holder",
+        "name": "JO Holder",
+        "role": "Bowler",
+        "score": 90.5,
+        "legendScore": 49.8,
+        "stats": {
+          "test": 31.5,
+          "odi": 32.2,
+          "t20": 53.6,
+          "franchise": 90.5,
+          "runs": 1252,
+          "wickets": 111,
+          "matches": 87
+        },
+        "country": "West Indies",
+        "teamCode": "WI",
+        "colors": {
+          "primary": "#7a263a",
+          "secondary": "#f6c344"
+        },
+        "logo": "",
+        "formatScore": 90.5
       },
       {
         "id": "jnt-seales",
@@ -1150,16 +1150,16 @@ window.CRICKET_DATA = {
         "id": "haris-rauf",
         "name": "Haris Rauf",
         "role": "Bowler",
-        "score": 86.6,
-        "legendScore": 41.9,
+        "score": 87.1,
+        "legendScore": 42.3,
         "stats": {
           "test": 0.0,
-          "odi": 31.2,
-          "t20": 44.5,
-          "franchise": 86.6,
+          "odi": 33.0,
+          "t20": 44.8,
+          "franchise": 87.1,
           "runs": 164,
-          "wickets": 113,
-          "matches": 80
+          "wickets": 114,
+          "matches": 81
         },
         "country": "Pakistan",
         "teamCode": "PAK",
@@ -1168,7 +1168,7 @@ window.CRICKET_DATA = {
           "secondary": "#ffffff"
         },
         "logo": "https://flagcdn.com/24x18/pk.png",
-        "formatScore": 86.6
+        "formatScore": 87.1
       },
       {
         "id": "m-jansen",
@@ -1198,16 +1198,16 @@ window.CRICKET_DATA = {
         "id": "ja-duffy",
         "name": "JA Duffy",
         "role": "Bowler",
-        "score": 86.1,
-        "legendScore": 61.5,
+        "score": 85.9,
+        "legendScore": 61.6,
         "stats": {
           "test": 67.8,
           "odi": 63.7,
           "t20": 90.5,
-          "franchise": 86.1,
+          "franchise": 85.9,
           "runs": 104,
           "wickets": 105,
-          "matches": 52
+          "matches": 53
         },
         "country": "New Zealand",
         "teamCode": "NZ",
@@ -1216,7 +1216,7 @@ window.CRICKET_DATA = {
           "secondary": "#d8d8d8"
         },
         "logo": "https://flagcdn.com/24x18/nz.png",
-        "formatScore": 86.1
+        "formatScore": 85.9
       },
       {
         "id": "ka-maharaj",
@@ -1580,15 +1580,15 @@ window.CRICKET_DATA = {
         "name": "RA Jadeja",
         "role": "All-rounder",
         "score": 86.3,
-        "legendScore": 67.8,
+        "legendScore": 67.9,
         "stats": {
           "test": 88.5,
           "odi": 88.2,
           "t20": 82.4,
-          "franchise": 80.9,
-          "runs": 1730,
+          "franchise": 81.0,
+          "runs": 1775,
           "wickets": 86,
-          "matches": 57
+          "matches": 58
         },
         "country": "India",
         "teamCode": "IND",

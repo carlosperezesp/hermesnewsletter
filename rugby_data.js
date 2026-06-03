@@ -11,7 +11,7 @@ window.RUGBY_DATA = {
     "matches": 10021,
     "through": "2026-04-10"
   },
-  "IMPORTANCE": 3.7,
+  "IMPORTANCE": 5.0,
   "ELO_MODEL": {
     "base": 1500.0,
     "homeAdvantage": 60.0,

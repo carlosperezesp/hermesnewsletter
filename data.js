@@ -1012,14 +1012,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478403.png",
       "score": 85,
       "stats": {
-        "gp": 90,
+        "gp": 91,
         "g": 29,
-        "a": 79,
-        "p": 108,
-        "pm": 30,
+        "a": 80,
+        "p": 109,
+        "pm": 29,
         "toi": 21.2,
         "shots": 260,
-        "gp_po": 16
+        "gp_po": 17
       },
       "trajectory": [
         53,
@@ -1257,14 +1257,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8475913.png",
       "score": 83,
       "stats": {
-        "gp": 71,
+        "gp": 72,
         "g": 33,
         "a": 50,
         "p": 83,
-        "pm": 25,
+        "pm": 26,
         "toi": 19.2,
         "shots": 130,
-        "gp_po": 11
+        "gp_po": 12
       },
       "trajectory": [
         50,
@@ -2181,14 +2181,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478483.png",
       "score": 76,
       "stats": {
-        "gp": 97,
+        "gp": 98,
         "g": 31,
-        "a": 70,
-        "p": 101,
+        "a": 71,
+        "p": 102,
         "pm": 29,
         "toi": 20.0,
         "shots": 165,
-        "gp_po": 16
+        "gp_po": 17
       },
       "trajectory": [
         51,
@@ -2282,14 +2282,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8478427.png",
       "score": 76,
       "stats": {
-        "gp": 92,
+        "gp": 93,
         "g": 31,
         "a": 56,
         "p": 87,
         "pm": 14,
         "toi": 19.6,
         "shots": 195,
-        "gp_po": 13
+        "gp_po": 14
       },
       "trajectory": [
         51,
@@ -2738,7 +2738,7 @@ window.NHL_DATA = {
       "first": "Seth",
       "last": "Jarvis",
       "name": "Seth Jarvis",
-      "pos": "C",
+      "pos": "RW",
       "teamCode": "CAR",
       "age": 24,
       "country": "Canada",
@@ -2750,14 +2750,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8482093.png",
       "score": 74,
       "stats": {
-        "gp": 84,
+        "gp": 85,
         "g": 35,
         "a": 39,
         "p": 74,
-        "pm": 9,
+        "pm": 8,
         "toi": 18.9,
         "shots": 224,
-        "gp_po": 13
+        "gp_po": 14
       },
       "trajectory": [
         49,
@@ -2978,7 +2978,7 @@ window.NHL_DATA = {
       "name": "Erik Karlsson",
       "pos": "D",
       "teamCode": "PIT",
-      "age": 35,
+      "age": 36,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -3464,14 +3464,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8480830.png",
       "score": 71,
       "stats": {
-        "gp": 92,
+        "gp": 93,
         "g": 34,
         "a": 43,
         "p": 77,
-        "pm": 1,
+        "pm": 0,
         "toi": 17.0,
         "shots": 203,
-        "gp_po": 13
+        "gp_po": 14
       },
       "trajectory": [
         50,
@@ -3729,14 +3729,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8476906.png",
       "score": 71,
       "stats": {
-        "gp": 68,
-        "g": 15,
+        "gp": 69,
+        "g": 16,
         "a": 41,
-        "p": 56,
-        "pm": 15,
+        "p": 57,
+        "pm": 14,
         "toi": 19.2,
         "shots": 116,
-        "gp_po": 13
+        "gp_po": 14
       },
       "trajectory": [
         46,
@@ -4124,14 +4124,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8477940.png",
       "score": 70,
       "stats": {
-        "gp": 94,
-        "g": 30,
+        "gp": 95,
+        "g": 32,
         "a": 50,
-        "p": 80,
-        "pm": 11,
+        "p": 82,
+        "pm": 13,
         "toi": 16.6,
         "shots": 207,
-        "gp_po": 12
+        "gp_po": 13
       },
       "trajectory": [
         50,
@@ -4148,7 +4148,7 @@ window.NHL_DATA = {
       "name": "Roman Josi",
       "pos": "D",
       "teamCode": "NSH",
-      "age": 35,
+      "age": 36,
       "country": "Switzerland",
       "birthCountry": "CHE",
       "colors": {
@@ -4962,14 +4962,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8481604.png",
       "score": 68,
       "stats": {
-        "gp": 98,
+        "gp": 99,
         "g": 47,
         "a": 31,
         "p": 78,
-        "pm": 2,
+        "pm": 1,
         "toi": 17.6,
         "shots": 230,
-        "gp_po": 16
+        "gp_po": 17
       },
       "trajectory": [
         49,
@@ -5266,14 +5266,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8477964.png",
       "score": 67,
       "stats": {
-        "gp": 98,
-        "g": 28,
+        "gp": 99,
+        "g": 29,
         "a": 45,
-        "p": 73,
+        "p": 74,
         "pm": 24,
         "toi": 16.2,
         "shots": 133,
-        "gp_po": 16
+        "gp_po": 17
       },
       "trajectory": [
         48,
@@ -5325,7 +5325,7 @@ window.NHL_DATA = {
       "name": "Jimmy Snuggerud",
       "pos": "RW",
       "teamCode": "STL",
-      "age": 21,
+      "age": 22,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -5350,7 +5350,7 @@ window.NHL_DATA = {
         53,
         67
       ],
-      "legendScore": 56.5
+      "legendScore": 55.7
     },
     {
       "id": 8480064,
@@ -5756,7 +5756,7 @@ window.NHL_DATA = {
       "name": "Jared McCann",
       "pos": "LW",
       "teamCode": "SEA",
-      "age": 29,
+      "age": 30,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -6711,14 +6711,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8482809.png",
       "score": 64,
       "stats": {
-        "gp": 94,
+        "gp": 95,
         "g": 27,
         "a": 41,
         "p": 68,
         "pm": 12,
         "toi": 16.5,
         "shots": 174,
-        "gp_po": 13
+        "gp_po": 14
       },
       "trajectory": [
         47,
@@ -6780,14 +6780,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478397.png",
       "score": 64,
       "stats": {
-        "gp": 97,
+        "gp": 98,
         "g": 17,
         "a": 35,
         "p": 52,
-        "pm": 8,
+        "pm": 9,
         "toi": 23.2,
         "shots": 178,
-        "gp_po": 16
+        "gp_po": 17
       },
       "trajectory": [
         45,
@@ -6847,14 +6847,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8477447.png",
       "score": 64,
       "stats": {
-        "gp": 86,
-        "g": 14,
-        "a": 36,
-        "p": 50,
-        "pm": 27,
+        "gp": 87,
+        "g": 15,
+        "a": 38,
+        "p": 53,
+        "pm": 29,
         "toi": 22.8,
         "shots": 130,
-        "gp_po": 16
+        "gp_po": 17
       },
       "trajectory": [
         44,
@@ -6912,14 +6912,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8476881.png",
       "score": 64,
       "stats": {
-        "gp": 98,
-        "g": 27,
+        "gp": 99,
+        "g": 28,
         "a": 40,
-        "p": 67,
-        "pm": -19,
+        "p": 68,
+        "pm": -18,
         "toi": 17.0,
         "shots": 202,
-        "gp_po": 16
+        "gp_po": 17
       },
       "trajectory": [
         47,
@@ -8291,14 +8291,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8480817.png",
       "score": 61,
       "stats": {
-        "gp": 85,
+        "gp": 86,
         "g": 8,
-        "a": 37,
-        "p": 45,
+        "a": 38,
+        "p": 46,
         "pm": 21,
         "toi": 22.4,
         "shots": 123,
-        "gp_po": 13
+        "gp_po": 14
       },
       "trajectory": [
         44,
@@ -8596,14 +8596,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8475791.png",
       "score": 61,
       "stats": {
-        "gp": 93,
+        "gp": 94,
         "g": 23,
         "a": 41,
         "p": 64,
         "pm": 17,
         "toi": 14.5,
         "shots": 137,
-        "gp_po": 13
+        "gp_po": 14
       },
       "trajectory": [
         46,
@@ -9164,14 +9164,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8482702.png",
       "score": 60,
       "stats": {
-        "gp": 94,
+        "gp": 95,
         "g": 30,
         "a": 26,
         "p": 56,
         "pm": 20,
         "toi": 15.5,
         "shots": 166,
-        "gp_po": 13
+        "gp_po": 14
       },
       "trajectory": [
         45,
@@ -10256,14 +10256,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8473533.png",
       "score": 58,
       "stats": {
-        "gp": 88,
-        "g": 22,
+        "gp": 89,
+        "g": 23,
         "a": 19,
-        "p": 41,
+        "p": 42,
         "pm": 9,
         "toi": 16.2,
         "shots": 107,
-        "gp_po": 13
+        "gp_po": 14
       },
       "trajectory": [
         43,
@@ -10729,14 +10729,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8476448.png",
       "score": 58,
       "stats": {
-        "gp": 24,
-        "g": 5,
+        "gp": 25,
+        "g": 6,
         "a": 7,
-        "p": 12,
-        "pm": 4,
+        "p": 13,
+        "pm": 5,
         "toi": 15.1,
         "shots": 30,
-        "gp_po": 10
+        "gp_po": 11
       },
       "trajectory": [
         38,
@@ -11704,14 +11704,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478396.png",
       "score": 57,
       "stats": {
-        "gp": 87,
+        "gp": 88,
         "g": 3,
         "a": 31,
         "p": 34,
         "pm": 3,
         "toi": 22.6,
         "shots": 135,
-        "gp_po": 16
+        "gp_po": 17
       },
       "trajectory": [
         42,
@@ -11975,14 +11975,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8480336.png",
       "score": 57,
       "stats": {
-        "gp": 94,
+        "gp": 95,
         "g": 9,
         "a": 24,
         "p": 33,
-        "pm": 19,
+        "pm": 17,
         "toi": 21.8,
         "shots": 179,
-        "gp_po": 13
+        "gp_po": 14
       },
       "trajectory": [
         43,
@@ -12243,14 +12243,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8482100.png",
       "score": 56,
       "stats": {
-        "gp": 92,
+        "gp": 93,
         "g": 11,
         "a": 23,
         "p": 34,
-        "pm": 20,
+        "pm": 19,
         "toi": 18.2,
         "shots": 122,
-        "gp_po": 11
+        "gp_po": 12
       },
       "trajectory": [
         43,
@@ -14574,14 +14574,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8476921.png",
       "score": 54,
       "stats": {
-        "gp": 90,
+        "gp": 91,
         "g": 13,
         "a": 19,
         "p": 32,
-        "pm": 6,
+        "pm": 7,
         "toi": 14.8,
         "shots": 109,
-        "gp_po": 13
+        "gp_po": 14
       },
       "trajectory": [
         42,
@@ -15033,7 +15033,7 @@ window.NHL_DATA = {
       "name": "Tanner Laczynski",
       "pos": "C",
       "teamCode": "VGK",
-      "age": 28,
+      "age": 29,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -15109,14 +15109,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8479353.png",
       "score": 53,
       "stats": {
-        "gp": 74,
-        "g": 22,
-        "a": 12,
-        "p": 34,
-        "pm": 0,
+        "gp": 75,
+        "g": 23,
+        "a": 13,
+        "p": 36,
+        "pm": 1,
         "toi": 14.9,
         "shots": 66,
-        "gp_po": 16
+        "gp_po": 17
       },
       "trajectory": [
         41,
@@ -15403,7 +15403,7 @@ window.NHL_DATA = {
       "name": "Jake Evans",
       "pos": "C",
       "teamCode": "MTL",
-      "age": 29,
+      "age": 30,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -15471,7 +15471,7 @@ window.NHL_DATA = {
       "name": "Joel Armia",
       "pos": "RW",
       "teamCode": "LAK",
-      "age": 32,
+      "age": 33,
       "country": "Finland",
       "birthCountry": "FIN",
       "colors": {
@@ -16386,12 +16386,12 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8479394.png",
       "score": 52,
       "stats": {
-        "gp": 34,
-        "w": 23,
-        "svpct": 0.907,
-        "gaa": 2.48,
+        "gp": 35,
+        "w": 24,
+        "svpct": 0.905,
+        "gaa": 2.52,
         "so": 0,
-        "gp_po": 16
+        "gp_po": 17
       },
       "trajectory": [
         50,
@@ -16821,14 +16821,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8476958.png",
       "score": 52,
       "stats": {
-        "gp": 52,
+        "gp": 53,
         "g": 1,
-        "a": 9,
-        "p": 10,
+        "a": 10,
+        "p": 11,
         "pm": 8,
         "toi": 21.3,
         "shots": 63,
-        "gp_po": 13
+        "gp_po": 14
       },
       "trajectory": [
         38,
@@ -16886,14 +16886,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8478970.png",
       "score": 52,
       "stats": {
-        "gp": 85,
+        "gp": 86,
         "g": 3,
-        "a": 19,
-        "p": 22,
-        "pm": 17,
+        "a": 21,
+        "p": 24,
+        "pm": 18,
         "toi": 20.1,
         "shots": 100,
-        "gp_po": 13
+        "gp_po": 14
       },
       "trajectory": [
         40,
@@ -18409,8 +18409,8 @@ window.NHL_DATA = {
     {
       "id": 8476874,
       "first": "Olli",
-      "last": "Määttä",
-      "name": "Olli Määttä",
+      "last": "Maatta",
+      "name": "Olli Maatta",
       "pos": "D",
       "teamCode": "CGY",
       "age": 31,
@@ -18828,14 +18828,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8475188.png",
       "score": 50,
       "stats": {
-        "gp": 78,
+        "gp": 79,
         "g": 6,
-        "a": 10,
-        "p": 16,
-        "pm": 9,
+        "a": 13,
+        "p": 19,
+        "pm": 12,
         "toi": 20.5,
         "shots": 81,
-        "gp_po": 15
+        "gp_po": 16
       },
       "trajectory": [
         39,
@@ -19132,14 +19132,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8476873.png",
       "score": 50,
       "stats": {
-        "gp": 81,
+        "gp": 82,
         "g": 11,
         "a": 14,
         "p": 25,
-        "pm": 10,
+        "pm": 9,
         "toi": 11.2,
         "shots": 63,
-        "gp_po": 13
+        "gp_po": 14
       },
       "trajectory": [
         41,
@@ -19268,14 +19268,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8475343.png",
       "score": 50,
       "stats": {
-        "gp": 91,
+        "gp": 92,
         "g": 8,
         "a": 17,
         "p": 25,
         "pm": -6,
         "toi": 14.5,
         "shots": 66,
-        "gp_po": 16
+        "gp_po": 17
       },
       "trajectory": [
         41,
@@ -19935,14 +19935,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8480762.png",
       "score": 49,
       "stats": {
-        "gp": 80,
+        "gp": 81,
         "g": 15,
         "a": 9,
         "p": 24,
-        "pm": 12,
+        "pm": 11,
         "toi": 11.4,
         "shots": 84,
-        "gp_po": 13
+        "gp_po": 14
       },
       "trajectory": [
         40,
@@ -22742,14 +22742,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8477478.png",
       "score": 48,
       "stats": {
-        "gp": 83,
+        "gp": 84,
         "g": 7,
         "a": 14,
         "p": 21,
-        "pm": 9,
+        "pm": 8,
         "toi": 10.8,
         "shots": 80,
-        "gp_po": 13
+        "gp_po": 14
       },
       "trajectory": [
         40,
@@ -23235,14 +23235,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8482062.png",
       "score": 47,
       "stats": {
-        "gp": 79,
+        "gp": 80,
         "g": 11,
-        "a": 6,
-        "p": 17,
+        "a": 7,
+        "p": 18,
         "pm": -3,
         "toi": 13.3,
         "shots": 69,
-        "gp_po": 16
+        "gp_po": 17
       },
       "trajectory": [
         39,
@@ -23635,14 +23635,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478468.png",
       "score": 47,
       "stats": {
-        "gp": 74,
+        "gp": 75,
         "g": 1,
         "a": 12,
         "p": 13,
-        "pm": -3,
+        "pm": -5,
         "toi": 17.2,
         "shots": 73,
-        "gp_po": 6
+        "gp_po": 7
       },
       "trajectory": [
         39,
@@ -25418,7 +25418,7 @@ window.NHL_DATA = {
       "name": "Nick Seeler",
       "pos": "D",
       "teamCode": "PHI",
-      "age": 32,
+      "age": 33,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -26375,9 +26375,9 @@ window.NHL_DATA = {
       "name": "Charles Alexis Legault",
       "pos": "D",
       "teamCode": "CAR",
-      "age": 22,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#cc0000",
         "secondary": "#111111"
@@ -26452,14 +26452,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8476925.png",
       "score": 45,
       "stats": {
-        "gp": 82,
+        "gp": 83,
         "g": 8,
-        "a": 9,
-        "p": 17,
+        "a": 10,
+        "p": 18,
         "pm": -7,
         "toi": 12.5,
         "shots": 74,
-        "gp_po": 16
+        "gp_po": 17
       },
       "trajectory": [
         39,
@@ -27018,14 +27018,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478434.png",
       "score": 45,
       "stats": {
-        "gp": 98,
+        "gp": 99,
         "g": 7,
         "a": 11,
         "p": 18,
-        "pm": -16,
+        "pm": -15,
         "toi": 11.5,
         "shots": 67,
-        "gp_po": 16
+        "gp_po": 17
       },
       "trajectory": [
         40,
@@ -30104,12 +30104,12 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8475883.png",
       "score": 42,
       "stats": {
-        "gp": 48,
+        "gp": 49,
         "w": 28,
-        "svpct": 0.889,
-        "gaa": 2.61,
+        "svpct": 0.887,
+        "gaa": 2.65,
         "so": 3,
-        "gp_po": 13
+        "gp_po": 14
       },
       "trajectory": [
         50,
@@ -31130,14 +31130,14 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8479639.png",
       "score": 41,
       "stats": {
-        "gp": 11,
+        "gp": 12,
         "g": 1,
         "a": 2,
         "p": 3,
-        "pm": 9,
+        "pm": 7,
         "toi": 15.1,
         "shots": 2,
-        "gp_po": 8
+        "gp_po": 9
       },
       "trajectory": [
         37,
@@ -40781,7 +40781,7 @@ window.NHL_DATA = {
     {
       "id": 8482093,
       "name": "Seth Jarvis",
-      "pos": "C",
+      "pos": "RW",
       "active": true,
       "teamCode": "CAR",
       "country": "Canada",
@@ -43996,7 +43996,7 @@ window.NHL_DATA = {
         "hi": "CAR",
         "lo": "VGK",
         "winner": null,
-        "seriesScore": "0-0"
+        "seriesScore": "0-1"
       }
     ]
   },
@@ -44899,10 +44899,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-05-30 08:47 UTC",
+  "LAST_UPDATE": "2026-06-03 17:33 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-05-30T08:45:45Z"
+    "standingsDateTimeUtc": "2026-06-03T17:33:00Z"
   }
 };
