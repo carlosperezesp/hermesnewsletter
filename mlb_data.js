@@ -660,31 +660,6 @@ window.MLB_DATA = {
       "prevRank": null
     },
     {
-      "id": 660271,
-      "name": "Shohei Ohtani",
-      "first": "Shohei",
-      "last": "Ohtani",
-      "pos": "SP",
-      "teamCode": "LAD",
-      "age": 31,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39832.png",
-      "colors": {
-        "primary": "#005a9c",
-        "secondary": "#ef3e42"
-      },
-      "score": 100,
-      "stats": {
-        "type": "pitching",
-        "g": 9,
-        "w": 5,
-        "era": 0.82,
-        "ip": 55.0,
-        "so": 61,
-        "whip": 0.82
-      },
-      "prevRank": null
-    },
-    {
       "id": 36018,
       "name": "Yordan Alvarez",
       "first": "Yordan",
@@ -1396,30 +1371,6 @@ window.MLB_DATA = {
       "prevRank": null
     },
     {
-      "id": 39832,
-      "name": "Shohei Ohtani",
-      "first": "Shohei",
-      "last": "Ohtani",
-      "pos": "DH",
-      "teamCode": "LAD",
-      "age": 31,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39832.png",
-      "colors": {
-        "primary": "#005a9c",
-        "secondary": "#ef3e42"
-      },
-      "score": 78,
-      "stats": {
-        "type": "batting",
-        "ab": 215,
-        "hr": 10,
-        "rbi": 33,
-        "avg": 0.293,
-        "sb": 6,
-        "ops": 0.927
-      }
-    },
-    {
       "id": 4301949,
       "name": "Casey Schmitt",
       "first": "Casey",
@@ -1924,7 +1875,8 @@ window.MLB_DATA = {
         "ip": 76.0,
         "so": 85,
         "whip": 1.21
-      }
+      },
+      "prevRank": null
     },
     {
       "id": 42507,
@@ -6492,23 +6444,6 @@ window.MLB_DATA = {
     "teamThreshold": 89.5,
     "players": [
       {
-        "id": 660271,
-        "name": "Shohei Ohtani",
-        "pos": "SP",
-        "teamCode": "LAD",
-        "colors": {
-          "primary": "#005a9c",
-          "secondary": "#ef3e42"
-        },
-        "age": 31,
-        "careerScore": 67.3,
-        "threshold": 92.5,
-        "gap": 25.2,
-        "rings": 1,
-        "note": "Multiple elite seasons + several titles needed",
-        "prevRank": null
-      },
-      {
         "id": 36018,
         "name": "Yordan Alvarez",
         "pos": "DH",
@@ -6657,6 +6592,23 @@ window.MLB_DATA = {
         "careerScore": 56.8,
         "threshold": 92.5,
         "gap": 35.7,
+        "rings": 0,
+        "note": "Multiple elite seasons + several titles needed",
+        "prevRank": null
+      },
+      {
+        "id": 5016968,
+        "name": "Ben Rice",
+        "pos": "1B",
+        "teamCode": "NYY",
+        "colors": {
+          "primary": "#003087",
+          "secondary": "#e4002c"
+        },
+        "age": 27,
+        "careerScore": 56.7,
+        "threshold": 92.5,
+        "gap": 35.8,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
         "prevRank": null
@@ -7037,7 +6989,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-03 11:25 UTC",
+  "LAST_UPDATE": "2026-06-03 18:12 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
