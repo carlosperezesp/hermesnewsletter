@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-06-02 22:29 UTC",
+  "UPDATED": "2026-06-03 10:08 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1523,
+    "matches": 1522,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 866
+        "matches": 865
       },
       {
         "name": "IPL",
@@ -1099,30 +1099,6 @@ window.CRICKET_DATA = {
         "formatScore": 90.5
       },
       {
-        "id": "haris-rauf",
-        "name": "Haris Rauf",
-        "role": "Bowler",
-        "score": 88.5,
-        "legendScore": 42.7,
-        "stats": {
-          "test": 0.0,
-          "odi": 33.0,
-          "t20": 46.5,
-          "franchise": 88.5,
-          "runs": 164,
-          "wickets": 116,
-          "matches": 82
-        },
-        "country": "Pakistan",
-        "teamCode": "PAK",
-        "colors": {
-          "primary": "#115740",
-          "secondary": "#ffffff"
-        },
-        "logo": "https://flagcdn.com/24x18/pk.png",
-        "formatScore": 88.5
-      },
-      {
         "id": "jnt-seales",
         "name": "JNT Seales",
         "role": "Bowler",
@@ -1169,6 +1145,30 @@ window.CRICKET_DATA = {
         },
         "logo": "https://flagcdn.com/24x18/nz.png",
         "formatScore": 88.1
+      },
+      {
+        "id": "haris-rauf",
+        "name": "Haris Rauf",
+        "role": "Bowler",
+        "score": 87.1,
+        "legendScore": 42.3,
+        "stats": {
+          "test": 0.0,
+          "odi": 33.0,
+          "t20": 44.8,
+          "franchise": 87.1,
+          "runs": 164,
+          "wickets": 114,
+          "matches": 81
+        },
+        "country": "Pakistan",
+        "teamCode": "PAK",
+        "colors": {
+          "primary": "#115740",
+          "secondary": "#ffffff"
+        },
+        "logo": "https://flagcdn.com/24x18/pk.png",
+        "formatScore": 87.1
       },
       {
         "id": "m-jansen",
