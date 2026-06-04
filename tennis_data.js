@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-04 16:36 UTC
+// Auto-generated 2026-06-04 21:56 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-04 16:36 UTC",
+  "UPDATED": "2026-06-04 21:56 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -2077,7 +2077,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       }
     },
@@ -2665,9 +2665,9 @@ window.TENNIS_DATA = {
       "prevListRank": 26,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "Semifinal",
-        "reason": ""
+        "reason": "Eliminado en Semifinal"
       }
     },
     {
@@ -4570,7 +4570,6 @@ window.TENNIS_DATA = {
     "surface": "Clay",
     "tour": "WTA",
     "alive": [
-      "Diana Shnaider",
       "Maja Chwalinska",
       "Mirra Andreeva"
     ],
@@ -4607,6 +4606,7 @@ window.TENNIS_DATA = {
       "Daria Kasatkina",
       "Daria Snigur",
       "Dayana Yastremska",
+      "Diana Shnaider",
       "Diane Parry",
       "Donna Vekic",
       "Ekaterina Alexandrova",
@@ -4701,8 +4701,8 @@ window.TENNIS_DATA = {
       "Zhang Shuai",
       "Zheng Qinwen"
     ],
-    "aliveCount": 3,
-    "matchesSeen": 126
+    "aliveCount": 2,
+    "matchesSeen": 127
   },
   "IMPORTANCE": 10.0
 };
