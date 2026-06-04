@@ -3221,7 +3221,7 @@ window.NBA_DATA = {
       "last": "Suggs",
       "pos": "G",
       "teamCode": "ORL",
-      "age": 24,
+      "age": 25,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4432165.png",
       "colors": {
         "primary": "#0077c0",
@@ -3237,7 +3237,7 @@ window.NBA_DATA = {
         "blk": 0.7,
         "min": 27.6
       },
-      "legendScore": 41.3
+      "legendScore": 42.3
     },
     {
       "id": 3102530,
@@ -13064,7 +13064,7 @@ window.NBA_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-06-04 10:13 UTC",
+  "LAST_UPDATE": "2026-06-04 16:05 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-04 10:15 UTC
+// Auto-generated 2026-06-04 16:06 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-04 10:15 UTC",
+  "UPDATED": "2026-06-04 16:06 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -2107,9 +2107,9 @@ window.TENNIS_DATA = {
       "prevListRank": 8,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "Semifinal",
-        "reason": ""
+        "reason": "Eliminado en Semifinal"
       }
     },
     {
@@ -4572,7 +4572,6 @@ window.TENNIS_DATA = {
     "alive": [
       "Diana Shnaider",
       "Maja Chwalinska",
-      "Marta Kostyuk",
       "Mirra Andreeva"
     ],
     "out": [
@@ -4662,6 +4661,7 @@ window.TENNIS_DATA = {
       "Maria Sakkari",
       "Marie Bouzkova",
       "Marina Bassols Ribera",
+      "Marta Kostyuk",
       "Maya Joint",
       "Mayar Sherif",
       "McCartney Kessler",
@@ -4701,7 +4701,7 @@ window.TENNIS_DATA = {
       "Zhang Shuai",
       "Zheng Qinwen"
     ],
-    "aliveCount": 4,
+    "aliveCount": 3,
     "matchesSeen": 126
   },
   "IMPORTANCE": 10.0
