@@ -9884,7 +9884,7 @@ window.NHL_DATA = {
       "name": "Jonathan Huberdeau",
       "pos": "LW",
       "teamCode": "CGY",
-      "age": 32,
+      "age": 33,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -44899,10 +44899,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-03 23:16 UTC",
+  "LAST_UPDATE": "2026-06-04 09:01 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-03T23:15:30Z"
+    "standingsDateTimeUtc": "2026-06-04T09:00:45Z"
   }
 };
