@@ -12193,10 +12193,10 @@ window.NBA_DATA = {
     },
     "final": [
       {
-        "hi": "SA",
-        "lo": "NY",
+        "hi": "NY",
+        "lo": "SA",
         "winner": null,
-        "seriesScore": "0-0"
+        "seriesScore": "1-0"
       }
     ]
   },
@@ -13064,7 +13064,7 @@ window.NBA_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-06-03 23:15 UTC",
+  "LAST_UPDATE": "2026-06-04 09:06 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
