@@ -1418,6 +1418,86 @@ def sumo_html(d: dict) -> str:
 
 # ── Rugby ─────────────────────────────────────────────────────────
 
+def golf_html(d: dict) -> str:
+    major  = d.get("CURRENT_MAJOR") or {}
+    current = d.get("CURRENT", [])
+    legends = d.get("LEGENDS", [])
+    road = d.get("ROAD_TO_GLORY", [])
+    threshold = d.get("LEGEND_THRESHOLD") or (legends[9].get("legendScore") if len(legends) >= 10 else 0)
+
+    def p_meta(p):
+        st = p.get("stats", {})
+        return f'{st.get("tour", p.get("teamCode",""))} · {p.get("country","")}'
+
+    def current_note(p):
+        st = p.get("stats", {})
+        return (f'{st.get("majors",0)} majors · {st.get("eliteWins",0)} victorias élite · '
+                f'{st.get("majorTop10",0)} top-10 major')
+
+    def legend_note(p):
+        st = p.get("stats", {})
+        return f'{st.get("majors",0)} majors · {st.get("wins",0)} victorias · dominio {st.get("dominance",0)}'
+
+    def road_note(p):
+        return p.get("note") or (f'A {p.get("gapToTop10",0)} del top 10 histórico' if p.get("gapToTop10", 0) > 0 else "Ya está en zona top 10 histórico")
+
+    state = major.get("state", "")
+    if state == "live":
+        state_txt = f'Ronda {major.get("round",1)} en juego'
+    elif state == "upcoming":
+        days = int(major.get("daysToStart") or 0)
+        state_txt = f'Empieza en {days} día{"s" if days != 1 else ""}'
+    else:
+        state_txt = "Último major completado"
+    tour = "Men's Major"
+
+    def major_rows() -> str:
+        leaderboard = major.get("leaderboard") or []
+        if leaderboard:
+            rows = ""
+            for r in leaderboard[:10]:
+                rows += (
+                    f'<tr style="border-bottom:1px solid {RULE}">'
+                    f'<td style="padding:8px 10px 8px 0;color:{MUTED};font-family:{SERIF};font-size:20px;width:38px;text-align:right">{r.get("rank","")}</td>'
+                    f'<td style="padding:8px 0;font-weight:600;color:{INK}">{swatch("#2f6b3f")}{r.get("name","")}</td>'
+                    f'<td style="padding:8px 0;text-align:right;font-family:{MONO};color:{ACCENT};font-weight:700">{r.get("score","-")}</td>'
+                    f'</tr>'
+                )
+            return f'<table cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse">{rows}</table>'
+        favs = major.get("favorites") or []
+        if not favs:
+            return f'<div style="padding:10px 0;color:{MUTED};font-family:{MONO};font-size:13px">Sin favoritos disponibles.</div>'
+        rows = "".join(
+            f'<tr style="border-bottom:1px solid {RULE}"><td style="padding:8px 0;color:{MUTED};font-family:{SERIF};font-size:20px;width:38px;text-align:right">{i:02d}</td>'
+            f'<td style="padding:8px 0 8px 10px;font-weight:600;color:{INK}">{swatch("#2f6b3f")}{name}</td>'
+            f'<td style="padding:8px 0;text-align:right;font-family:{MONO};font-size:11px;color:{MUTED}">Favorito Hermes</td></tr>'
+            for i, name in enumerate(favs, 1)
+        )
+        return f'<table cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse">{rows}</table>'
+
+    return (
+        f'<div style="margin-top:32px"></div>'
+        + sport_header("Golf", str(d.get("SEASON","")), d.get("UPDATED",""), title="Golf Majors")
+        + section(f"{tour} · {state}",
+                  major.get("name", "Major Championship"),
+                  f'{state_txt}. {major.get("startLabel","")}–{major.get("endLabel","")} · {major.get("venue","")} · {major.get("location","")}. Defiende: {major.get("defending","N/A")}.',
+                  major_rows())
+        + section("Golf · Actuales",
+                  "Top 10 golfistas actuales",
+                  "Score activo PGA: ranking, forma de majors, victorias élite y consistencia reciente.",
+                  player_list_html(current[:10], "activeScore", "Nivel", p_meta, current_note,
+                                   score_b_key="legendScore", score_b_label="Leyenda"))
+        + section("Road to Glory",
+                  "Top 10 golfistas Road to Glory",
+                  f"Umbral top 10 histórico: {threshold}. Ordenado por cercanía al territorio de leyenda.",
+                  player_list_html(road[:10], "legendScore", "Leyenda", p_meta, road_note, threshold))
+        + section("Golf Legends",
+                  "Top 10 golfistas leyendas",
+                  "Score histórico: majors × 12 + victorias × 0.45 + dominio/#1 × 0.10.",
+                  player_list_html(legends[:10], "legendScore", "Legend", p_meta, legend_note, threshold))
+    )
+
+
 def rugby_html(d: dict) -> str:
     teams = sorted(d.get("TEAMS", []), key=lambda t: -t.get("elo", 0))[:10]
     dynasties = d.get("ROAD_TO_GLORY", {}).get("dynasties", [])[:10]
@@ -1482,13 +1562,75 @@ def rugby_html(d: dict) -> str:
     )
 
 
+def football_html(d: dict) -> str:
+    teams = sorted(d.get("TEAMS", []), key=lambda t: -t.get("elo", 0))[:10]
+    rtg = d.get("ROAD_TO_GLORY") or {}
+    contenders = rtg.get("currentContenders", [])[:10]
+    dynasties = rtg.get("dynasties", [])[:10]
+    threshold = rtg.get("dynastyThreshold", 70)
+    raw_threshold = rtg.get("rawDynastyThreshold", 0)
+
+    def trophy_label(wc: int, continental: int) -> str:
+        parts = []
+        if wc:
+            parts.append(f'{wc} Mundial{"es" if wc != 1 else ""}')
+        if continental:
+            parts.append(f'{continental} continental{"es" if continental != 1 else ""}')
+        return " · ".join(parts) if parts else "Sin grandes títulos en la era"
+
+    def elo_rows(rows: list[dict]) -> str:
+        return player_list_html(
+            rows,
+            "eloScore",
+            "Elo",
+            lambda t: f'Selecciones · {t.get("country","")}',
+            lambda t: f'{trophy_label(t.get("worldCups",0), t.get("continentalTitles",0))}. {t.get("note","")}',
+            score_b_key="elo",
+            score_b_label="Rating",
+        )
+
+    def dynasty_meta(t):
+        return f'{t.get("era","")} · {t.get("weeksNo1",0)} semanas #1/Elo · pico {t.get("peakElo",0)}'
+
+    def dynasty_note(t):
+        return f'{trophy_label(t.get("worldCups",0), t.get("continentalTitles",0))}. {t.get("note","")}'
+
+    def contender_meta(t):
+        return f'Ciclo {t.get("cycleYears",0)} años · {t.get("country","")}'
+
+    def contender_note(t):
+        return (f'{trophy_label(t.get("currentWorldCups",0), t.get("currentContinentalTitles",0))} · '
+                f'{t.get("recentFinals",0)} finales recientes. {t.get("note","")}')
+
+    return (
+        f'<div style="margin-top:32px"></div>'
+        + sport_header("Fútbol", "Selecciones", d.get("UPDATED",""), title="Fútbol de Selecciones")
+        + section("Football Elo",
+                  "Top 10 selecciones — Ranking Elo",
+                  f'Snapshot Hermes basado en ratings tipo World Football Elo / MoreElo. Fuente: {d.get("SOURCE",{}).get("name","Elo snapshot")}.',
+                  elo_rows(teams))
+        + section("Road to Glory · Actual",
+                  "Top 10 selecciones con potencial dinástico",
+                  f"Quién puede meterse en el top 10 de dinastías. Umbral bruto estimado: {raw_threshold}. Score: Elo actual + años de ciclo + títulos recientes + finales + curva generacional.",
+                  player_list_html(contenders, "dynastyPotential", "Potencial",
+                                   contender_meta, contender_note, 100,
+                                   score_b_key="elo", score_b_label="Elo"))
+        + section("Road to Glory",
+                  "Top 10 dinastías de selecciones",
+                  f"Umbral top 10: {threshold}. Score: años #1/Elo + Mundiales + títulos continentales + pico Elo.",
+                  team_list_html(dynasties, "dynastyScore", "Dynasty",
+                                 dynasty_meta, dynasty_note, threshold))
+    )
+
+
 # ── Assemble ──────────────────────────────────────────────────────
 
 def build_email(nhl: dict, nba: dict, mlb: dict,
                 nfl: dict | None = None, f1: dict | None = None,
                 motogp: dict | None = None, afl: dict | None = None,
                 tennis: dict | None = None, cycling: dict | None = None,
-                sumo: dict | None = None, rugby: dict | None = None) -> str:
+                sumo: dict | None = None, rugby: dict | None = None,
+                golf: dict | None = None, football: dict | None = None) -> str:
     today = date.today().strftime("%-d de %B de %Y")
     body  = (
         nhl_html(nhl)
@@ -1501,13 +1643,15 @@ def build_email(nhl: dict, nba: dict, mlb: dict,
         + (tennis_html(tennis) if tennis  else "")
         + (cycling_html(cycling) if cycling else "")
         + (sumo_html(sumo)     if sumo    else "")
+        + (golf_html(golf)      if golf    else "")
         + (rugby_html(rugby)    if rugby   else "")
+        + (football_html(football) if football else "")
     )
     footer = (
         f'<div style="background:{PAPER};border-top:1px solid {RULE};padding:18px 28px;'
         f'font-size:10px;color:{MUTED};font-family:{MONO};letter-spacing:.04em">'
         f'Hermes Newsletter &nbsp;·&nbsp; {today} &nbsp;·&nbsp; '
-        f'NHL · NBA · MLB · NFL · F1 · MotoGP · AFL · Tennis · Cycling · Sumo · Rugby'
+        f'NHL · NBA · MLB · NFL · F1 · MotoGP · AFL · Tennis · Cycling · Sumo · Golf · Rugby · Fútbol'
         f'</div>'
     )
     return (
@@ -1538,8 +1682,10 @@ ALL_UPDATES = [
     ("Sumo",    "update_sumo_data.py"),
     ("F1",      "update_f1_data.py"),
     ("AFL",     "update_afl_data.py"),
+    ("Golf",    "update_golf_data.py"),
     ("MotoGP",  "update_motogp_data.py"),
     ("Rugby",   "update_rugby_data.py"),
+    ("Football", "update_football_data.py"),
 ]
 
 
@@ -1581,13 +1727,15 @@ def main() -> int:
     tennis  = load_js_data(ROOT / "tennis_data.js")
     cycling = load_js_data(ROOT / "cycling_data.js")
     sumo    = load_js_data(ROOT / "sumo_data.js")
+    golf    = load_js_data(ROOT / "golf_data.js")
     rugby   = load_js_data(ROOT / "rugby_data.js")
+    football = load_js_data(ROOT / "football_data.js")
 
     if not nhl:
         print("Error: data.js vacío.", file=sys.stderr)
         return 1
 
-    html    = build_email(nhl, nba, mlb, nfl, f1, motogp, afl, tennis, cycling, sumo, rugby)
+    html    = build_email(nhl, nba, mlb, nfl, f1, motogp, afl, tennis, cycling, sumo, rugby, golf, football)
     today   = date.today().strftime("%d %b %Y")
     subject = f"Hermes Newsletter · {today}"
 

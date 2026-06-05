@@ -19,9 +19,13 @@ UPDATES = [
     ("Cycling", SCRIPTS / "update_cycling_data.py"),
     ("Sumo",    SCRIPTS / "update_sumo_data.py"),
     ("F1",      SCRIPTS / "update_f1_data.py"),
+    ("IndyCar", SCRIPTS / "update_indycar_data.py"),
+    ("NASCAR",  SCRIPTS / "update_nascar_data.py"),
     ("AFL",     SCRIPTS / "update_afl_data.py"),
+    ("Golf",    SCRIPTS / "update_golf_data.py"),
     ("MotoGP",  SCRIPTS / "update_motogp_data.py"),
     ("Rugby",   SCRIPTS / "update_rugby_data.py"),
+    ("Football", SCRIPTS / "update_football_data.py"),
     ("Cricket", SCRIPTS / "update_cricket_data.py"),
 ]
 
