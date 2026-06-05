@@ -13064,7 +13064,7 @@ window.NBA_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-06-05 08:54 UTC",
+  "LAST_UPDATE": "2026-06-05 10:18 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
