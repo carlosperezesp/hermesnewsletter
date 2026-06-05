@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-05 16:17 UTC
+// Auto-generated 2026-06-05 21:50 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-05 16:17 UTC",
+  "UPDATED": "2026-06-05 21:50 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -25,7 +25,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 1,
         "top10_wins": 65
       },
-      "prevListRank": 1,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -56,7 +56,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 55
       },
-      "prevListRank": 2,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -87,7 +87,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 228
       },
-      "prevListRank": 3,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -118,11 +118,11 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 58
       },
-      "prevListRank": 4,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       }
     },
@@ -149,7 +149,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 9
       },
-      "prevListRank": 5,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -180,7 +180,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 52
       },
-      "prevListRank": 6,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -211,7 +211,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 21
       },
-      "prevListRank": 7,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -242,7 +242,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 15
       },
-      "prevListRank": 8,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -273,7 +273,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 15
       },
-      "prevListRank": 9,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -304,7 +304,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 22
       },
-      "prevListRank": 10,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -335,7 +335,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 10
       },
-      "prevListRank": 11,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -366,7 +366,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 12,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -397,7 +397,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 8
       },
-      "prevListRank": 13,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -428,7 +428,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 14,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -459,7 +459,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 31
       },
-      "prevListRank": 15,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -490,7 +490,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 25
       },
-      "prevListRank": 16,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -521,7 +521,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 26
       },
-      "prevListRank": 17,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -552,7 +552,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 9
       },
-      "prevListRank": 18,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -583,7 +583,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 19,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -614,7 +614,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 20,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -645,7 +645,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 12
       },
-      "prevListRank": 21,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -676,7 +676,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 16
       },
-      "prevListRank": 22,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -707,7 +707,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 23,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -738,7 +738,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 20
       },
-      "prevListRank": 24,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -769,11 +769,11 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 25,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       }
     },
@@ -800,7 +800,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 9
       },
-      "prevListRank": 26,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -831,7 +831,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 27,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -862,7 +862,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 28,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -893,7 +893,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 16
       },
-      "prevListRank": 29,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -924,7 +924,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 10
       },
-      "prevListRank": 30,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -955,7 +955,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 31,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -986,7 +986,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 32,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1017,7 +1017,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 33,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1048,7 +1048,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 34,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1079,7 +1079,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 35,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1110,7 +1110,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 36,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1141,7 +1141,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 37,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1172,7 +1172,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 38,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1203,7 +1203,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 39,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1234,7 +1234,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 40,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1265,7 +1265,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 41,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1296,7 +1296,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 42,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1327,7 +1327,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 43,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1358,7 +1358,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 44,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1389,7 +1389,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 45,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1420,7 +1420,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 46,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1451,7 +1451,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 47,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1482,7 +1482,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 48,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1513,7 +1513,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 49,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1544,7 +1544,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 50,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1575,7 +1575,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 30
       },
-      "prevListRank": 51,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1606,7 +1606,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 52,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1637,7 +1637,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 53,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1668,7 +1668,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 54,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1699,7 +1699,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 37
       },
-      "prevListRank": 55,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1730,7 +1730,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 56,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1761,7 +1761,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 57,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1792,7 +1792,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 58,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1823,7 +1823,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 59,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1854,12 +1854,4352 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 60,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
         "round": "R128",
         "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "209070",
+      "name": "Arthur Cazaux",
+      "rank": 77,
+      "prevRank": 76,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.8,
+      "legendScore": 16.6,
+      "surface": {
+        "hard": 0.429,
+        "clay": 0.636,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "208118",
+      "name": "Eliot Spizzirri",
+      "rank": 91,
+      "prevRank": 92,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.7,
+      "legendScore": 19.9,
+      "surface": {
+        "hard": 0.588,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "126504",
+      "name": "Andrea Pellegrino",
+      "rank": 124,
+      "prevRank": 126,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.7,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.6,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "200240",
+      "name": "Vit Kopriva",
+      "rank": 66,
+      "prevRank": 63,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.5,
+      "legendScore": 10.2,
+      "surface": {
+        "hard": 0.364,
+        "clay": 0.576,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "126535",
+      "name": "Carlos Taberner",
+      "rank": 145,
+      "prevRank": 145,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.5,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.625,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "209279",
+      "name": "Terence Atmane",
+      "rank": 52,
+      "prevRank": 51,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.4,
+      "legendScore": 0.2,
+      "surface": {
+        "hard": 0.462,
+        "clay": 0.385,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "128034",
+      "name": "Hubert Hurkacz",
+      "rank": 99,
+      "prevRank": 78,
+      "country": "POL",
+      "logo": "https://flagcdn.com/24x18/pl.png",
+      "teamCode": "POL",
+      "primary": "#DC143C",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.2,
+      "legendScore": 33.6,
+      "surface": {
+        "hard": 0.462,
+        "clay": 0.588,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 9,
+        "weeks_no1": 0,
+        "top10_wins": 21
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "208169",
+      "name": "Titouan Droguet",
+      "rank": 107,
+      "prevRank": 110,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.2,
+      "legendScore": 19.9,
+      "surface": {
+        "hard": null,
+        "clay": 0.571,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "209857",
+      "name": "Leandro Riedi",
+      "rank": 120,
+      "prevRank": 121,
+      "country": "SUI",
+      "logo": "https://flagcdn.com/24x18/ch.png",
+      "teamCode": "SUI",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.0,
+      "legendScore": 22.1,
+      "surface": {
+        "hard": 0.6,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "200615",
+      "name": "Alexei Popyrin",
+      "rank": 61,
+      "prevRank": 61,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.7,
+      "legendScore": 23.6,
+      "surface": {
+        "hard": 0.281,
+        "clay": 0.6,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 14
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "202104",
+      "name": "Sebastian Baez",
+      "rank": 64,
+      "prevRank": 62,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.5,
+      "legendScore": 20.8,
+      "surface": {
+        "hard": 0.448,
+        "clay": 0.512,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 7,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "200116",
+      "name": "Camilo Ugo Carabelli",
+      "rank": 59,
+      "prevRank": 68,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.2,
+      "legendScore": 4.9,
+      "surface": {
+        "hard": 0.304,
+        "clay": 0.548,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "209920",
+      "name": "Raphael Collignon",
+      "rank": 62,
+      "prevRank": 64,
+      "country": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "teamCode": "BEL",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.2,
+      "legendScore": 15.9,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.286,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R32",
+        "reason": "Eliminado en R32"
+      }
+    },
+    {
+      "id": "126610",
+      "name": "Matteo Berrettini",
+      "rank": 105,
+      "prevRank": 107,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.0,
+      "legendScore": 31.6,
+      "surface": {
+        "hard": 0.545,
+        "clay": 0.474,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 10,
+        "weeks_no1": 0,
+        "top10_wins": 12
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "Quarterfinal",
+        "reason": "Eliminado en Quarterfinal"
+      }
+    },
+    {
+      "id": "208010",
+      "name": "Pablo Llamas Ruiz",
+      "rank": 122,
+      "prevRank": 124,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.571,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "207678",
+      "name": "Juan Manuel Cerundolo",
+      "rank": 56,
+      "prevRank": 54,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.8,
+      "legendScore": 12.1,
+      "surface": {
+        "hard": null,
+        "clay": 0.444,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R16",
+        "reason": "Eliminado en R16"
+      }
+    },
+    {
+      "id": "209976",
+      "name": "Dino Prizmic",
+      "rank": 72,
+      "prevRank": 71,
+      "country": "CRO",
+      "logo": "https://flagcdn.com/24x18/hr.png",
+      "teamCode": "CRO",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.8,
+      "legendScore": 0.2,
+      "surface": {
+        "hard": 0.333,
+        "clay": 0.6,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "111794",
+      "name": "Kamil Majchrzak",
+      "rank": 78,
+      "prevRank": 77,
+      "country": "POL",
+      "logo": "https://flagcdn.com/24x18/pl.png",
+      "teamCode": "POL",
+      "primary": "#DC143C",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.6,
+      "legendScore": 14.8,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.417,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "200059",
+      "name": "Yibing Wu",
+      "rank": 92,
+      "prevRank": 93,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.6,
+      "legendScore": 16.8,
+      "surface": {
+        "hard": 0.5,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "126663",
+      "name": "Juan Pablo Ficovich",
+      "rank": 200,
+      "prevRank": 203,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.2,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.6,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "207680",
+      "name": "Facundo Diaz Acosta",
+      "rank": 151,
+      "prevRank": 150,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.0,
+      "legendScore": 10.8,
+      "surface": {
+        "hard": 0.6,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "208882",
+      "name": "Roman Andres Burruchaga",
+      "rank": 68,
+      "prevRank": 66,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.9,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.474,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "209409",
+      "name": "Coleman Wong",
+      "rank": 109,
+      "prevRank": 113,
+      "country": "HKG",
+      "logo": "",
+      "teamCode": "HKG",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.8,
+      "legendScore": 22.1,
+      "surface": {
+        "hard": 0.529,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "200175",
+      "name": "Miomir Kecmanovic",
+      "rank": 48,
+      "prevRank": 47,
+      "country": "SRB",
+      "logo": "https://flagcdn.com/24x18/rs.png",
+      "teamCode": "SRB",
+      "primary": "#C6363C",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.5,
+      "legendScore": 22.1,
+      "surface": {
+        "hard": 0.481,
+        "clay": 0.231,
+        "grass": 0.4
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 6
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "209414",
+      "name": "Luca Van Assche",
+      "rank": 100,
+      "prevRank": 103,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.5,
+      "legendScore": 11.9,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "200416",
+      "name": "August Holmgren",
+      "rank": 156,
+      "prevRank": 155,
+      "country": "DEN",
+      "logo": "https://flagcdn.com/24x18/dk.png",
+      "teamCode": "DEN",
+      "primary": "#C60C30",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.5,
+      "legendScore": 22.1,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "111442",
+      "name": "Jordan Thompson",
+      "rank": 149,
+      "prevRank": 148,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.2,
+      "legendScore": 17.7,
+      "surface": {
+        "hard": 0.444,
+        "clay": 0.4,
+        "grass": 0.571
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 7
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "124187",
+      "name": "Reilly Opelka",
+      "rank": 76,
+      "prevRank": 75,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.1,
+      "legendScore": 22.3,
+      "surface": {
+        "hard": 0.523,
+        "clay": 0.25,
+        "grass": 0.6
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 9
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "208843",
+      "name": "Jerome Kym",
+      "rank": 192,
+      "prevRank": 193,
+      "country": "SUI",
+      "logo": "https://flagcdn.com/24x18/ch.png",
+      "teamCode": "SUI",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.1,
+      "legendScore": 22.1,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "209147",
+      "name": "Vilius Gaubas",
+      "rank": 133,
+      "prevRank": 133,
+      "country": "LTU",
+      "logo": "https://flagcdn.com/24x18/lt.png",
+      "teamCode": "LTU",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.8,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.545,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "106218",
+      "name": "Marcos Giron",
+      "rank": 84,
+      "prevRank": 84,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.7,
+      "legendScore": 15.9,
+      "surface": {
+        "hard": 0.479,
+        "clay": 0.308,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 6
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "206499",
+      "name": "Aleksandar Kovacevic",
+      "rank": 67,
+      "prevRank": 94,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.4,
+      "legendScore": 4.4,
+      "surface": {
+        "hard": 0.432,
+        "clay": 0.385,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "212021",
+      "name": "Martin Landaluce",
+      "rank": 69,
+      "prevRank": 67,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.4,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.455,
+        "clay": 0.375,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R32",
+        "reason": "Eliminado en R32"
+      }
+    },
+    {
+      "id": "132283",
+      "name": "Lorenzo Sonego",
+      "rank": 70,
+      "prevRank": 69,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.4,
+      "legendScore": 24.7,
+      "surface": {
+        "hard": 0.488,
+        "clay": 0.182,
+        "grass": 0.556
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 7
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "210338",
+      "name": "Arthur Gea",
+      "rank": 135,
+      "prevRank": 140,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.4,
+      "legendScore": 19.9,
+      "surface": {
+        "hard": 0.5,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "127157",
+      "name": "Daniel Altmaier",
+      "rank": 57,
+      "prevRank": 65,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.3,
+      "legendScore": 18.3,
+      "surface": {
+        "hard": 0.385,
+        "clay": 0.444,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 7
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "144750",
+      "name": "Lloyd Harris",
+      "rank": 143,
+      "prevRank": 144,
+      "country": "RSA",
+      "logo": "https://flagcdn.com/24x18/za.png",
+      "teamCode": "RSA",
+      "primary": "#007749",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.3,
+      "legendScore": 16.8,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "209957",
+      "name": "Jack Pinnington Jones",
+      "rank": 132,
+      "prevRank": 132,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.1,
+      "legendScore": 19.9,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "105777",
+      "name": "Grigor Dimitrov",
+      "rank": 168,
+      "prevRank": 170,
+      "country": "BUL",
+      "logo": "https://flagcdn.com/24x18/bg.png",
+      "teamCode": "BUL",
+      "primary": "#00966E",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.1,
+      "legendScore": 36.6,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.455,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 9,
+        "weeks_no1": 0,
+        "top10_wins": 43
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "126952",
+      "name": "Soon Woo Kwon",
+      "rank": 188,
+      "prevRank": 189,
+      "country": "KOR",
+      "logo": "https://flagcdn.com/24x18/kr.png",
+      "teamCode": "KOR",
+      "primary": "#003478",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.9,
+      "legendScore": 11.9,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "105173",
+      "name": "Adrian Mannarino",
+      "rank": 45,
+      "prevRank": 44,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.7,
+      "legendScore": 24.1,
+      "surface": {
+        "hard": 0.429,
+        "clay": 0.125,
+        "grass": 0.6
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 5,
+        "weeks_no1": 0,
+        "top10_wins": 11
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "208233",
+      "name": "Mattia Bellucci",
+      "rank": 73,
+      "prevRank": 72,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.6,
+      "legendScore": 13.5,
+      "surface": {
+        "hard": 0.36,
+        "clay": 0.417,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "210012",
+      "name": "Henrique Rocha",
+      "rank": 119,
+      "prevRank": 118,
+      "country": "POR",
+      "logo": "https://flagcdn.com/24x18/pt.png",
+      "teamCode": "POR",
+      "primary": "#006600",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.5,
+      "legendScore": 22.1,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "126127",
+      "name": "Benjamin Bonzi",
+      "rank": 95,
+      "prevRank": 98,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.4,
+      "legendScore": 19.4,
+      "surface": {
+        "hard": 0.448,
+        "clay": 0.5,
+        "grass": 0.2
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "209259",
+      "name": "Arthur Fery",
+      "rank": 154,
+      "prevRank": 153,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.3,
+      "legendScore": 13.2,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "207686",
+      "name": "Alexander Shevchenko",
+      "rank": 88,
+      "prevRank": 89,
+      "country": "KAZ",
+      "logo": "https://flagcdn.com/24x18/kz.png",
+      "teamCode": "KAZ",
+      "primary": "#00AFCA",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.7,
+      "legendScore": 12.1,
+      "surface": {
+        "hard": 0.423,
+        "clay": 0.4,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "210319",
+      "name": "Ethan Quinn",
+      "rank": 50,
+      "prevRank": 49,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.5,
+      "legendScore": 19.9,
+      "surface": {
+        "hard": 0.379,
+        "clay": 0.357,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "106065",
+      "name": "Marco Cecchinato",
+      "rank": 178,
+      "prevRank": 180,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.5,
+      "legendScore": 14.6,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "102093",
+      "name": "Martin Damm",
+      "rank": 116,
+      "prevRank": 112,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.4,
+      "legendScore": 13.2,
+      "surface": {
+        "hard": 0.5,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "210389",
+      "name": "Toby Samuel",
+      "rank": 159,
+      "prevRank": 159,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.4,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "206750",
+      "name": "Daniil Glinka",
+      "rank": 175,
+      "prevRank": 174,
+      "country": "EST",
+      "logo": "https://flagcdn.com/24x18/ee.png",
+      "teamCode": "EST",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.4,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "210178",
+      "name": "Juan Carlos Prado Angelo",
+      "rank": 176,
+      "prevRank": 178,
+      "country": "BOL",
+      "logo": "https://flagcdn.com/24x18/bo.png",
+      "teamCode": "BOL",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.4,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "208293",
+      "name": "Gonzalo Bueno",
+      "rank": 183,
+      "prevRank": 185,
+      "country": "PER",
+      "logo": "https://flagcdn.com/24x18/pe.png",
+      "teamCode": "PER",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.4,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "144645",
+      "name": "Zdenek Kolar",
+      "rank": 162,
+      "prevRank": 162,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.3,
+      "legendScore": 13.2,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "105882",
+      "name": "Stefano Travaglia",
+      "rank": 138,
+      "prevRank": 137,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.2,
+      "legendScore": 8.4,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "210136",
+      "name": "Mark Lajal",
+      "rank": 157,
+      "prevRank": 157,
+      "country": "EST",
+      "logo": "https://flagcdn.com/24x18/ee.png",
+      "teamCode": "EST",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.1,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "210053",
+      "name": "Luka Mikrut",
+      "rank": 195,
+      "prevRank": 196,
+      "country": "CRO",
+      "logo": "https://flagcdn.com/24x18/hr.png",
+      "teamCode": "CRO",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.1,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "105526",
+      "name": "Jan Lennard Struff",
+      "rank": 80,
+      "prevRank": 79,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.9,
+      "legendScore": 18.8,
+      "surface": {
+        "hard": 0.346,
+        "clay": 0.333,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 13
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "105477",
+      "name": "Marco Trungelliti",
+      "rank": 81,
+      "prevRank": 81,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.8,
+      "legendScore": 14.3,
+      "surface": {
+        "hard": null,
+        "clay": 0.4,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "207494",
+      "name": "Dalibor Svrcina",
+      "rank": 108,
+      "prevRank": 111,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.7,
+      "legendScore": 13.2,
+      "surface": {
+        "hard": 0.5,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "202127",
+      "name": "Clement Tabur",
+      "rank": 171,
+      "prevRank": 165,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.7,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "200008",
+      "name": "Alexis Galarneau",
+      "rank": 193,
+      "prevRank": 194,
+      "country": "CAN",
+      "logo": "https://flagcdn.com/24x18/ca.png",
+      "teamCode": "CAN",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.7,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "210116",
+      "name": "Michael Zheng",
+      "rank": 146,
+      "prevRank": 146,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.3,
+      "legendScore": 19.9,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "106071",
+      "name": "Bernard Tomic",
+      "rank": 194,
+      "prevRank": 195,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.3,
+      "legendScore": 25.6,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 8
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "124186",
+      "name": "Alexandre Muller",
+      "rank": 127,
+      "prevRank": 108,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.0,
+      "legendScore": 12.6,
+      "surface": {
+        "hard": 0.441,
+        "clay": 0.5,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "208286",
+      "name": "Matteo Arnaldi",
+      "rank": 104,
+      "prevRank": 96,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 51.9,
+      "legendScore": 19.9,
+      "surface": {
+        "hard": 0.406,
+        "clay": 0.5,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 6
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "Semifinal",
+        "reason": "Eliminado en Semifinal"
+      }
+    },
+    {
+      "id": "209209",
+      "name": "Filip Misolic",
+      "rank": 129,
+      "prevRank": 129,
+      "country": "AUT",
+      "logo": "https://flagcdn.com/24x18/at.png",
+      "teamCode": "AUT",
+      "primary": "#ED2939",
+      "secondary": "#FFFFFF",
+      "activeScore": 51.9,
+      "legendScore": 17.0,
+      "surface": {
+        "hard": 0.167,
+        "clay": 0.636,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "207182",
+      "name": "Emilio Nava",
+      "rank": 94,
+      "prevRank": 97,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 51.6,
+      "legendScore": 13.2,
+      "surface": {
+        "hard": 0.4,
+        "clay": 0.417,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "207411",
+      "name": "Jesper De Jong",
+      "rank": 106,
+      "prevRank": 109,
+      "country": "NED",
+      "logo": "https://flagcdn.com/24x18/nl.png",
+      "teamCode": "NED",
+      "primary": "#AE1C28",
+      "secondary": "#FFFFFF",
+      "activeScore": 51.6,
+      "legendScore": 15.9,
+      "surface": {
+        "hard": 0.385,
+        "clay": 0.526,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R16",
+        "reason": "Eliminado en R16"
+      }
+    },
+    {
+      "id": "111460",
+      "name": "Quentin Halys",
+      "rank": 90,
+      "prevRank": 88,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 51.5,
+      "legendScore": 12.8,
+      "surface": {
+        "hard": 0.385,
+        "clay": 0.375,
+        "grass": 0.333
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R32",
+        "reason": "Eliminado en R32"
+      }
+    },
+    {
+      "id": "105138",
+      "name": "Roberto Bautista Agut",
+      "rank": 117,
+      "prevRank": 99,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 51.5,
+      "legendScore": 34.4,
+      "surface": {
+        "hard": 0.304,
+        "clay": 0.368,
+        "grass": 0.556
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 12,
+        "weeks_no1": 0,
+        "top10_wins": 22
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "208013",
+      "name": "Dane Sweeny",
+      "rank": 131,
+      "prevRank": 131,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 51.0,
+      "legendScore": 13.2,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "210460",
+      "name": "Nishesh Basavareddy",
+      "rank": 148,
+      "prevRank": 156,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 51.0,
+      "legendScore": 7.9,
+      "surface": {
+        "hard": 0.455,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "210262",
+      "name": "Jaime Faria",
+      "rank": 115,
+      "prevRank": 117,
+      "country": "POR",
+      "logo": "https://flagcdn.com/24x18/pt.png",
+      "teamCode": "POR",
+      "primary": "#006600",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.9,
+      "legendScore": 11.3,
+      "surface": {
+        "hard": 0.4,
+        "clay": 0.462,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R32",
+        "reason": "Eliminado en R32"
+      }
+    },
+    {
+      "id": "207729",
+      "name": "Tristan Boyer",
+      "rank": 199,
+      "prevRank": 201,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.9,
+      "legendScore": 19.9,
+      "surface": {
+        "hard": 0.455,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "208659",
+      "name": "Giovanni Mpetshi Perricard",
+      "rank": 83,
+      "prevRank": 80,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.8,
+      "legendScore": 14.1,
+      "surface": {
+        "hard": 0.435,
+        "clay": 0.273,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "208353",
+      "name": "Francesco Maestrelli",
+      "rank": 128,
+      "prevRank": 128,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.8,
+      "legendScore": 19.9,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "106109",
+      "name": "Alex Bolt",
+      "rank": 152,
+      "prevRank": 151,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.5,
+      "legendScore": 13.2,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "144870",
+      "name": "Federico Agustin Gomez",
+      "rank": 179,
+      "prevRank": 181,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.5,
+      "legendScore": 13.2,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "208361",
+      "name": "Gustavo Heide",
+      "rank": 186,
+      "prevRank": 187,
+      "country": "BRA",
+      "logo": "https://flagcdn.com/24x18/br.png",
+      "teamCode": "BRA",
+      "primary": "#009C3B",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.5,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "208852",
+      "name": "Stefanos Sakellaridis",
+      "rank": 197,
+      "prevRank": 198,
+      "country": "GRE",
+      "logo": "https://flagcdn.com/24x18/gr.png",
+      "teamCode": "GRE",
+      "primary": "#0D5EAF",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.4,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "105932",
+      "name": "Nikoloz Basilashvili",
+      "rank": 111,
+      "prevRank": 115,
+      "country": "GEO",
+      "logo": "https://flagcdn.com/24x18/ge.png",
+      "teamCode": "GEO",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.3,
+      "legendScore": 21.9,
+      "surface": {
+        "hard": 0.385,
+        "clay": 0.4,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 5,
+        "weeks_no1": 0,
+        "top10_wins": 9
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "106000",
+      "name": "Damir Dzumhur",
+      "rank": 87,
+      "prevRank": 87,
+      "country": "BIH",
+      "logo": "https://flagcdn.com/24x18/ba.png",
+      "teamCode": "BIH",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.1,
+      "legendScore": 18.1,
+      "surface": {
+        "hard": 0.25,
+        "clay": 0.528,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 4
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "106415",
+      "name": "Yoshihito Nishioka",
+      "rank": 174,
+      "prevRank": 176,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "teamCode": "JPN",
+      "primary": "#BC002D",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.0,
+      "legendScore": 16.1,
+      "surface": {
+        "hard": 0.4,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "149282",
+      "name": "Nicolai Budkov Kjaer",
+      "rank": 121,
+      "prevRank": 123,
+      "country": "NOR",
+      "logo": "https://flagcdn.com/24x18/no.png",
+      "teamCode": "NOR",
+      "primary": "#EF2B2D",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.6,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.25,
+        "clay": 0.6,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "106331",
+      "name": "Christopher Oconnell",
+      "rank": 155,
+      "prevRank": 154,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.4,
+      "legendScore": 12.8,
+      "surface": {
+        "hard": 0.414,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "111797",
+      "name": "Nicolas Jarry",
+      "rank": 180,
+      "prevRank": 182,
+      "country": "CHI",
+      "logo": "https://flagcdn.com/24x18/cl.png",
+      "teamCode": "CHI",
+      "primary": "#D52B1E",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.4,
+      "legendScore": 18.3,
+      "surface": {
+        "hard": 0.286,
+        "clay": 0.2,
+        "grass": 0.667
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 11
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "207985",
+      "name": "Jacob Fearnley",
+      "rank": 125,
+      "prevRank": 122,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.0,
+      "legendScore": 19.9,
+      "surface": {
+        "hard": 0.286,
+        "clay": 0.538,
+        "grass": 0.429
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "207681",
+      "name": "Francisco Comesana",
+      "rank": 102,
+      "prevRank": 114,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.8,
+      "legendScore": 18.8,
+      "surface": {
+        "hard": 0.375,
+        "clay": 0.452,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R32",
+        "reason": "Eliminado en R32"
+      }
+    },
+    {
+      "id": "208316",
+      "name": "Valentin Royer",
+      "rank": 74,
+      "prevRank": 73,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.7,
+      "legendScore": 13.2,
+      "surface": {
+        "hard": 0.357,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "111456",
+      "name": "Mackenzie Mcdonald",
+      "rank": 126,
+      "prevRank": 127,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.7,
+      "legendScore": 15.9,
+      "surface": {
+        "hard": 0.318,
+        "clay": 0.4,
+        "grass": 0.4
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 5
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "208021",
+      "name": "Kyrian Jacquet",
+      "rank": 147,
+      "prevRank": 147,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.7,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "105902",
+      "name": "James Duckworth",
+      "rank": 82,
+      "prevRank": 83,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.6,
+      "legendScore": 9.3,
+      "surface": {
+        "hard": 0.364,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "126128",
+      "name": "Roman Safiullin",
+      "rank": 141,
+      "prevRank": 142,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.6,
+      "legendScore": 17.9,
+      "surface": {
+        "hard": 0.353,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "105807",
+      "name": "Pablo Carreno Busta",
+      "rank": 89,
+      "prevRank": 90,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.5,
+      "legendScore": 29.8,
+      "surface": {
+        "hard": 0.368,
+        "clay": 0.3,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 7,
+        "weeks_no1": 0,
+        "top10_wins": 11
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R16",
+        "reason": "Eliminado en R16"
+      }
+    },
+    {
+      "id": "208260",
+      "name": "Zachary Svajda",
+      "rank": 85,
+      "prevRank": 85,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.3,
+      "legendScore": 9.9,
+      "surface": {
+        "hard": 0.333,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R16",
+        "reason": "Eliminado en R16"
+      }
+    },
+    {
+      "id": "208014",
+      "name": "Rinky Hijikata",
+      "rank": 98,
+      "prevRank": 102,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.3,
+      "legendScore": 14.8,
+      "surface": {
+        "hard": 0.433,
+        "clay": 0.143,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "106426",
+      "name": "Cristian Garin",
+      "rank": 114,
+      "prevRank": 116,
+      "country": "CHI",
+      "logo": "https://flagcdn.com/24x18/cl.png",
+      "teamCode": "CHI",
+      "primary": "#D52B1E",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.0,
+      "legendScore": 25.4,
+      "surface": {
+        "hard": null,
+        "clay": 0.357,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 5,
+        "weeks_no1": 0,
+        "top10_wins": 4
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "127760",
+      "name": "Lukas Klein",
+      "rank": 167,
+      "prevRank": 168,
+      "country": "SVK",
+      "logo": "https://flagcdn.com/24x18/sk.png",
+      "teamCode": "SVK",
+      "primary": "#0B4EA2",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.0,
+      "legendScore": 9.9,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "111200",
+      "name": "Elias Ymer",
+      "rank": 191,
+      "prevRank": 179,
+      "country": "SWE",
+      "logo": "https://flagcdn.com/24x18/se.png",
+      "teamCode": "SWE",
+      "primary": "#006AA7",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.9,
+      "legendScore": 3.3,
+      "surface": {
+        "hard": 0.4,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "200514",
+      "name": "Jurij Rodionov",
+      "rank": 158,
+      "prevRank": 158,
+      "country": "AUT",
+      "logo": "https://flagcdn.com/24x18/at.png",
+      "teamCode": "AUT",
+      "primary": "#ED2939",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.8,
+      "legendScore": 13.2,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "200443",
+      "name": "Adam Walton",
+      "rank": 97,
+      "prevRank": 101,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.6,
+      "legendScore": 9.9,
+      "surface": {
+        "hard": 0.378,
+        "clay": 0.429,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "127339",
+      "name": "Borna Gojo",
+      "rank": 184,
+      "prevRank": 172,
+      "country": "CRO",
+      "logo": "https://flagcdn.com/24x18/hr.png",
+      "teamCode": "CRO",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.6,
+      "legendScore": 22.1,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "208134",
+      "name": "Luca Nardi",
+      "rank": 163,
+      "prevRank": 163,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.5,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.435,
+        "clay": 0.2,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "208210",
+      "name": "Chris Rodesch",
+      "rank": 165,
+      "prevRank": 166,
+      "country": "LUX",
+      "logo": "https://flagcdn.com/24x18/lu.png",
+      "teamCode": "LUX",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.3,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "206904",
+      "name": "Gauthier Onclin",
+      "rank": 182,
+      "prevRank": 184,
+      "country": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "teamCode": "BEL",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.3,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "211533",
+      "name": "Gianluca Cadenasso",
+      "rank": 196,
+      "prevRank": 197,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.3,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "206307",
+      "name": "Joao Lucas Reis Da Silva",
+      "rank": 198,
+      "prevRank": 200,
+      "country": "BRA",
+      "logo": "https://flagcdn.com/24x18/br.png",
+      "teamCode": "BRA",
+      "primary": "#009C3B",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.3,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "126846",
+      "name": "Aleksandar Vukic",
+      "rank": 96,
+      "prevRank": 100,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.1,
+      "legendScore": 11.5,
+      "surface": {
+        "hard": 0.368,
+        "clay": 0.25,
+        "grass": 0.2
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "212082",
+      "name": "Joel Schwaerzler",
+      "rank": 170,
+      "prevRank": 169,
+      "country": "AUT",
+      "logo": "https://flagcdn.com/24x18/at.png",
+      "teamCode": "AUT",
+      "primary": "#ED2939",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.1,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "206889",
+      "name": "Clement Chidekh",
+      "rank": 177,
+      "prevRank": 177,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "209903",
+      "name": "Lukas Neumayer",
+      "rank": 187,
+      "prevRank": 188,
+      "country": "AUT",
+      "logo": "https://flagcdn.com/24x18/at.png",
+      "teamCode": "AUT",
+      "primary": "#ED2939",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "209875",
+      "name": "Alex Barrena",
+      "rank": 190,
+      "prevRank": 192,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 46.9,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "121411",
+      "name": "Moez Echargui",
+      "rank": 139,
+      "prevRank": 138,
+      "country": "TUN",
+      "logo": "https://flagcdn.com/24x18/tn.png",
+      "teamCode": "TUN",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 46.8,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "200436",
+      "name": "Zsombor Piros",
+      "rank": 173,
+      "prevRank": 175,
+      "country": "HUN",
+      "logo": "https://flagcdn.com/24x18/hu.png",
+      "teamCode": "HUN",
+      "primary": "#477050",
+      "secondary": "#FFFFFF",
+      "activeScore": 46.8,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "207608",
+      "name": "Timofey Skatov",
+      "rank": 189,
+      "prevRank": 191,
+      "country": "KAZ",
+      "logo": "https://flagcdn.com/24x18/kz.png",
+      "teamCode": "KAZ",
+      "primary": "#00AFCA",
+      "secondary": "#FFFFFF",
+      "activeScore": 46.7,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "200711",
+      "name": "Nicolas Mejia",
+      "rank": 169,
+      "prevRank": 171,
+      "country": "COL",
+      "logo": "https://flagcdn.com/24x18/co.png",
+      "teamCode": "COL",
+      "primary": "#FCD116",
+      "secondary": "#FFFFFF",
+      "activeScore": 46.6,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "208119",
+      "name": "Liam Draxl",
+      "rank": 164,
+      "prevRank": 164,
+      "country": "CAN",
+      "logo": "https://flagcdn.com/24x18/ca.png",
+      "teamCode": "CAN",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 46.5,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "200647",
+      "name": "Sho Shimabukuro",
+      "rank": 103,
+      "prevRank": 105,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "teamCode": "JPN",
+      "primary": "#BC002D",
+      "secondary": "#FFFFFF",
+      "activeScore": 46.3,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.286,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "123828",
+      "name": "Jan Choinski",
+      "rank": 101,
+      "prevRank": 104,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 46.1,
+      "legendScore": 9.9,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "202261",
+      "name": "Otto Virtanen",
+      "rank": 134,
+      "prevRank": 134,
+      "country": "FIN",
+      "logo": "https://flagcdn.com/24x18/fi.png",
+      "teamCode": "FIN",
+      "primary": "#003580",
+      "secondary": "#FFFFFF",
+      "activeScore": 46.0,
+      "legendScore": 11.3,
+      "surface": {
+        "hard": 0.2,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "105583",
+      "name": "Dusan Lajovic",
+      "rank": 137,
+      "prevRank": 136,
+      "country": "SRB",
+      "logo": "https://flagcdn.com/24x18/rs.png",
+      "teamCode": "SRB",
+      "primary": "#C6363C",
+      "secondary": "#FFFFFF",
+      "activeScore": 45.6,
+      "legendScore": 17.9,
+      "surface": {
+        "hard": 0.4,
+        "clay": 0.235,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 10
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "208859",
+      "name": "Francesco Passaro",
+      "rank": 161,
+      "prevRank": 161,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 45.2,
+      "legendScore": 10.2,
+      "surface": {
+        "hard": 0.2,
+        "clay": 0.417,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "124116",
+      "name": "Sebastian Ofner",
+      "rank": 112,
+      "prevRank": 91,
+      "country": "AUT",
+      "logo": "https://flagcdn.com/24x18/at.png",
+      "teamCode": "AUT",
+      "primary": "#ED2939",
+      "secondary": "#FFFFFF",
+      "activeScore": 45.0,
+      "legendScore": 19.0,
+      "surface": {
+        "hard": 0.0,
+        "clay": 0.5,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "200259",
+      "name": "Ugo Blanchet",
+      "rank": 160,
+      "prevRank": 160,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 45.0,
+      "legendScore": 19.9,
+      "surface": {
+        "hard": 0.333,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "104527",
+      "name": "Stan Wawrinka",
+      "rank": 113,
+      "prevRank": 119,
+      "country": "SUI",
+      "logo": "https://flagcdn.com/24x18/ch.png",
+      "teamCode": "SUI",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 44.9,
+      "legendScore": 44.8,
+      "surface": {
+        "hard": 0.348,
+        "clay": 0.25,
+        "grass": null
+      },
+      "stats": {
+        "gs": 3,
+        "titles": 15,
+        "weeks_no1": 0,
+        "top10_wins": 52
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "209262",
+      "name": "Tristan Schoolkate",
+      "rank": 123,
+      "prevRank": 125,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 44.9,
+      "legendScore": 15.0,
+      "surface": {
+        "hard": 0.333,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "209284",
+      "name": "Elmer Moller",
+      "rank": 142,
+      "prevRank": 143,
+      "country": "DEN",
+      "logo": "https://flagcdn.com/24x18/dk.png",
+      "teamCode": "DEN",
+      "primary": "#C60C30",
+      "secondary": "#FFFFFF",
+      "activeScore": 44.6,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.364,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "126129",
+      "name": "Billy Harris",
+      "rank": 150,
+      "prevRank": 149,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 44.5,
+      "legendScore": 9.9,
+      "surface": {
+        "hard": 0.111,
+        "clay": null,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "106198",
+      "name": "Hugo Dellien",
+      "rank": 144,
+      "prevRank": 139,
+      "country": "BOL",
+      "logo": "https://flagcdn.com/24x18/bo.png",
+      "teamCode": "BOL",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 43.8,
+      "legendScore": 6.2,
+      "surface": {
+        "hard": null,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "206748",
+      "name": "Giulio Zeppieri",
+      "rank": 172,
+      "prevRank": 173,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 43.8,
+      "legendScore": 13.2,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "124079",
+      "name": "Pedro Martinez",
+      "rank": 140,
+      "prevRank": 141,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 43.0,
+      "legendScore": 17.0,
+      "surface": {
+        "hard": 0.286,
+        "clay": 0.333,
+        "grass": 0.4
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "207352",
+      "name": "Bu Yunchaokete",
+      "rank": 166,
+      "prevRank": 167,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
+      "secondary": "#FFFFFF",
+      "activeScore": 42.7,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.387,
+        "clay": 0.0,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "200384",
+      "name": "Hugo Gaston",
+      "rank": 118,
+      "prevRank": 120,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 42.0,
+      "legendScore": 14.8,
+      "surface": {
+        "hard": 0.333,
+        "clay": 0.214,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "200516",
+      "name": "Patrick Kypson",
+      "rank": 93,
+      "prevRank": 95,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 41.3,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.167,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "208278",
+      "name": "Shintaro Mochizuki",
+      "rank": 130,
+      "prevRank": 130,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "teamCode": "JPN",
+      "primary": "#BC002D",
+      "secondary": "#FFFFFF",
+      "activeScore": 41.3,
+      "legendScore": 10.2,
+      "surface": {
+        "hard": 0.273,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "212256",
+      "name": "Colton Smith",
+      "rank": 185,
+      "prevRank": 186,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 40.7,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.167,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "202358",
+      "name": "Chun Hsin Tseng",
+      "rank": 181,
+      "prevRank": 183,
+      "country": "TPE",
+      "logo": "https://flagcdn.com/24x18/tw.png",
+      "teamCode": "TPE",
+      "primary": "#FE0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 39.3,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.167,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "210536",
+      "name": "Rei Sakamoto",
+      "rank": 153,
+      "prevRank": 152,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "teamCode": "JPN",
+      "primary": "#BC002D",
+      "secondary": "#FFFFFF",
+      "activeScore": 38.8,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.167,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "144642",
+      "name": "Tomas Barrios Vera",
+      "rank": 136,
+      "prevRank": 135,
+      "country": "CHI",
+      "logo": "https://flagcdn.com/24x18/cl.png",
+      "teamCode": "CHI",
+      "primary": "#D52B1E",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 9.9,
+      "surface": {
+        "hard": null,
+        "clay": 0.111,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
       }
     }
   ],
@@ -1887,7 +6227,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 1,
         "top10_wins": 60
       },
-      "prevListRank": 1,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1918,7 +6258,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 37
       },
-      "prevListRank": 2,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1949,7 +6289,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 35
       },
-      "prevListRank": 3,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -1980,7 +6320,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 30
       },
-      "prevListRank": 4,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2011,7 +6351,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 53
       },
-      "prevListRank": 5,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2042,7 +6382,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 49
       },
-      "prevListRank": 6,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2073,7 +6413,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 7,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
@@ -2104,7 +6444,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 8,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2135,7 +6475,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 19
       },
-      "prevListRank": 9,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2166,7 +6506,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 20
       },
-      "prevListRank": 10,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2197,7 +6537,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 20
       },
-      "prevListRank": 11,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2228,7 +6568,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 12,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2259,7 +6599,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 38
       },
-      "prevListRank": 13,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2290,7 +6630,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 16
       },
-      "prevListRank": 14,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2321,7 +6661,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 33
       },
-      "prevListRank": 15,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2352,7 +6692,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 12
       },
-      "prevListRank": 16,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2383,7 +6723,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 17,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2414,7 +6754,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 8
       },
-      "prevListRank": 18,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2445,7 +6785,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 19,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2476,7 +6816,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 10
       },
-      "prevListRank": 20,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2507,7 +6847,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 21,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2538,7 +6878,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 22,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2569,7 +6909,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 23,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2600,7 +6940,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 15
       },
-      "prevListRank": 24,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2631,7 +6971,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 26
       },
-      "prevListRank": 25,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2662,7 +7002,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 26,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2693,7 +7033,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 27,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2724,7 +7064,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 28,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2755,7 +7095,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 29,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2786,7 +7126,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 19
       },
-      "prevListRank": 30,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2817,7 +7157,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 31,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2848,7 +7188,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 32,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2879,7 +7219,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 39
       },
-      "prevListRank": 33,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2910,7 +7250,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 5
       },
-      "prevListRank": 34,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2941,7 +7281,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 35,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -2972,7 +7312,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 36,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3003,7 +7343,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 37,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3034,7 +7374,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 38,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3065,7 +7405,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 10
       },
-      "prevListRank": 39,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3096,7 +7436,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 40,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3127,7 +7467,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 41,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3158,7 +7498,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 42,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3189,7 +7529,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 43,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3220,7 +7560,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 44,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3251,7 +7591,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 45,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3282,7 +7622,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 5
       },
-      "prevListRank": 46,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3313,7 +7653,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 47,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3344,7 +7684,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 48,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3375,7 +7715,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 49,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3406,7 +7746,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 50,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3437,7 +7777,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 51,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3468,7 +7808,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 52,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3499,7 +7839,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 53,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3530,7 +7870,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 54,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3561,7 +7901,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 16
       },
-      "prevListRank": 55,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3592,7 +7932,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 56,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3623,7 +7963,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 30
       },
-      "prevListRank": 57,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3654,7 +7994,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 5
       },
-      "prevListRank": 58,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3685,7 +8025,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 59,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
@@ -3716,12 +8056,4352 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 60,
+      "prevListRank": null,
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "out",
         "round": "",
         "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "216133",
+      "name": "Xin Yu Wang",
+      "rank": 34,
+      "prevRank": 32,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
+      "secondary": "#FFFFFF",
+      "activeScore": 63.1,
+      "legendScore": 31.6,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.2,
+        "grass": 0.625
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 4
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "220716",
+      "name": "Oleksandra Oliynykova",
+      "rank": 65,
+      "prevRank": 66,
+      "country": "UKR",
+      "logo": "https://flagcdn.com/24x18/ua.png",
+      "teamCode": "UKR",
+      "primary": "#005BBB",
+      "secondary": "#FFFFFF",
+      "activeScore": 63.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.6,
+        "clay": 0.444,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R32",
+        "reason": "Eliminado en R32"
+      }
+    },
+    {
+      "id": "214388",
+      "name": "Anna Bondar",
+      "rank": 57,
+      "prevRank": 58,
+      "country": "HUN",
+      "logo": "https://flagcdn.com/24x18/hu.png",
+      "teamCode": "HUN",
+      "primary": "#477050",
+      "secondary": "#FFFFFF",
+      "activeScore": 62.9,
+      "legendScore": 17.2,
+      "surface": {
+        "hard": 0.357,
+        "clay": 0.636,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "216083",
+      "name": "Caty Mcnally",
+      "rank": 63,
+      "prevRank": 56,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 62.7,
+      "legendScore": 26.1,
+      "surface": {
+        "hard": 0.448,
+        "clay": 0.545,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "215785",
+      "name": "Camila Osorio",
+      "rank": 86,
+      "prevRank": 77,
+      "country": "COL",
+      "logo": "https://flagcdn.com/24x18/co.png",
+      "teamCode": "COL",
+      "primary": "#FCD116",
+      "secondary": "#FFFFFF",
+      "activeScore": 62.6,
+      "legendScore": 20.9,
+      "surface": {
+        "hard": 0.472,
+        "clay": 0.65,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R32",
+        "reason": "Eliminado en R32"
+      }
+    },
+    {
+      "id": "222017",
+      "name": "Anouk Koevermans",
+      "rank": 157,
+      "prevRank": 158,
+      "country": "NED",
+      "logo": "https://flagcdn.com/24x18/nl.png",
+      "teamCode": "NED",
+      "primary": "#AE1C28",
+      "secondary": "#FFFFFF",
+      "activeScore": 62.4,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.8,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "202663",
+      "name": "Magda Linette",
+      "rank": 73,
+      "prevRank": 57,
+      "country": "POL",
+      "logo": "https://flagcdn.com/24x18/pl.png",
+      "teamCode": "POL",
+      "primary": "#DC143C",
+      "secondary": "#FFFFFF",
+      "activeScore": 62.0,
+      "legendScore": 26.7,
+      "surface": {
+        "hard": 0.51,
+        "clay": 0.4,
+        "grass": 0.429
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 8
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R32",
+        "reason": "Eliminado en R32"
+      }
+    },
+    {
+      "id": "263857",
+      "name": "Yuliia Starodubtseva",
+      "rank": 55,
+      "prevRank": 54,
+      "country": "UKR",
+      "logo": "https://flagcdn.com/24x18/ua.png",
+      "teamCode": "UKR",
+      "primary": "#005BBB",
+      "secondary": "#FFFFFF",
+      "activeScore": 61.6,
+      "legendScore": 18.7,
+      "surface": {
+        "hard": 0.238,
+        "clay": 0.667,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R32",
+        "reason": "Eliminado en R32"
+      }
+    },
+    {
+      "id": "203514",
+      "name": "Katarzyna Kawa",
+      "rank": 139,
+      "prevRank": 139,
+      "country": "POL",
+      "logo": "https://flagcdn.com/24x18/pl.png",
+      "teamCode": "POL",
+      "primary": "#DC143C",
+      "secondary": "#FFFFFF",
+      "activeScore": 61.6,
+      "legendScore": 20.2,
+      "surface": {
+        "hard": null,
+        "clay": 0.667,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "220332",
+      "name": "Eva Lys",
+      "rank": 81,
+      "prevRank": 81,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 61.2,
+      "legendScore": 25.5,
+      "surface": {
+        "hard": 0.562,
+        "clay": 0.357,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "238075",
+      "name": "Petra Marcinko",
+      "rank": 51,
+      "prevRank": 76,
+      "country": "CRO",
+      "logo": "https://flagcdn.com/24x18/hr.png",
+      "teamCode": "CRO",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 61.1,
+      "legendScore": 30.7,
+      "surface": {
+        "hard": 0.25,
+        "clay": 0.75,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "213710",
+      "name": "Cristina Bucsa",
+      "rank": 33,
+      "prevRank": 31,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 61.0,
+      "legendScore": 27.9,
+      "surface": {
+        "hard": 0.474,
+        "clay": 0.143,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "215910",
+      "name": "Panna Udvardy",
+      "rank": 59,
+      "prevRank": 68,
+      "country": "HUN",
+      "logo": "https://flagcdn.com/24x18/hu.png",
+      "teamCode": "HUN",
+      "primary": "#477050",
+      "secondary": "#FFFFFF",
+      "activeScore": 60.9,
+      "legendScore": 5.5,
+      "surface": {
+        "hard": 0.429,
+        "clay": 0.611,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "220309",
+      "name": "Zeynep Sonmez",
+      "rank": 66,
+      "prevRank": 59,
+      "country": "TUR",
+      "logo": "https://flagcdn.com/24x18/tr.png",
+      "teamCode": "TUR",
+      "primary": "#E30A17",
+      "secondary": "#FFFFFF",
+      "activeScore": 60.9,
+      "legendScore": 27.9,
+      "surface": {
+        "hard": 0.448,
+        "clay": 0.455,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "222045",
+      "name": "Antonia Ruzic",
+      "rank": 64,
+      "prevRank": 61,
+      "country": "CRO",
+      "logo": "https://flagcdn.com/24x18/hr.png",
+      "teamCode": "CRO",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 60.8,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "211817",
+      "name": "Elena Gabriela Ruse",
+      "rank": 77,
+      "prevRank": 71,
+      "country": "ROU",
+      "logo": "https://flagcdn.com/24x18/ro.png",
+      "teamCode": "ROU",
+      "primary": "#002B7F",
+      "secondary": "#FFFFFF",
+      "activeScore": 60.7,
+      "legendScore": 21.8,
+      "surface": {
+        "hard": 0.292,
+        "clay": 0.6,
+        "grass": 0.667
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "260172",
+      "name": "Lilli Tagger",
+      "rank": 90,
+      "prevRank": 91,
+      "country": "AUT",
+      "logo": "https://flagcdn.com/24x18/at.png",
+      "teamCode": "AUT",
+      "primary": "#ED2939",
+      "secondary": "#FFFFFF",
+      "activeScore": 60.7,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.667,
+        "clay": 0.4,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "221333",
+      "name": "Solana Sierra",
+      "rank": 68,
+      "prevRank": 64,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 60.3,
+      "legendScore": 22.7,
+      "surface": {
+        "hard": 0.353,
+        "clay": 0.556,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R32",
+        "reason": "Eliminado en R32"
+      }
+    },
+    {
+      "id": "222601",
+      "name": "Jessica Bouzas Maneiro",
+      "rank": 50,
+      "prevRank": 51,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 60.2,
+      "legendScore": 31.3,
+      "surface": {
+        "hard": 0.415,
+        "clay": 0.571,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "214082",
+      "name": "Daria Kasatkina",
+      "rank": 53,
+      "prevRank": 62,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 60.0,
+      "legendScore": 52.8,
+      "surface": {
+        "hard": 0.471,
+        "clay": 0.438,
+        "grass": 0.333
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 8,
+        "weeks_no1": 0,
+        "top10_wins": 24
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R32",
+        "reason": "Eliminado en R32"
+      }
+    },
+    {
+      "id": "201533",
+      "name": "Shuai Zhang",
+      "rank": 61,
+      "prevRank": 74,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.9,
+      "legendScore": 29.8,
+      "surface": {
+        "hard": 0.52,
+        "clay": 0.364,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 8
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "215337",
+      "name": "Olga Danilovic",
+      "rank": 151,
+      "prevRank": 153,
+      "country": "SRB",
+      "logo": "https://flagcdn.com/24x18/rs.png",
+      "teamCode": "SRB",
+      "primary": "#C6363C",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.9,
+      "legendScore": 31.3,
+      "surface": {
+        "hard": 0.458,
+        "clay": 0.667,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "223325",
+      "name": "Polina Iatcenko",
+      "rank": 161,
+      "prevRank": 163,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.2,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.667,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "222145",
+      "name": "Janice Tjen",
+      "rank": 40,
+      "prevRank": 41,
+      "country": "INA",
+      "logo": "",
+      "teamCode": "INA",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.0,
+      "legendScore": 30.7,
+      "surface": {
+        "hard": 0.556,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "211684",
+      "name": "Magdalena Frech",
+      "rank": 46,
+      "prevRank": 49,
+      "country": "POL",
+      "logo": "https://flagcdn.com/24x18/pl.png",
+      "teamCode": "POL",
+      "primary": "#DC143C",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.8,
+      "legendScore": 29.1,
+      "surface": {
+        "hard": 0.439,
+        "clay": 0.357,
+        "grass": 0.2
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "214040",
+      "name": "Kimberly Birrell",
+      "rank": 83,
+      "prevRank": 83,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.8,
+      "legendScore": 12.0,
+      "surface": {
+        "hard": 0.525,
+        "clay": null,
+        "grass": 0.333
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "222966",
+      "name": "Dominika Salkova",
+      "rank": 113,
+      "prevRank": 115,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.6,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.625,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "220750",
+      "name": "Daria Snigur",
+      "rank": 93,
+      "prevRank": 95,
+      "country": "UKR",
+      "logo": "https://flagcdn.com/24x18/ua.png",
+      "teamCode": "UKR",
+      "primary": "#005BBB",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.2,
+      "legendScore": 20.9,
+      "surface": {
+        "hard": 0.5,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "204411",
+      "name": "Storm Hunter",
+      "rank": 193,
+      "prevRank": 193,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.2,
+      "legendScore": 15.3,
+      "surface": {
+        "hard": 0.556,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "220348",
+      "name": "Diane Parry",
+      "rank": 92,
+      "prevRank": 94,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.1,
+      "legendScore": 26.4,
+      "surface": {
+        "hard": 0.538,
+        "clay": 0.364,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R16",
+        "reason": "Eliminado en R16"
+      }
+    },
+    {
+      "id": "213583",
+      "name": "Tatjana Maria",
+      "rank": 54,
+      "prevRank": 52,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.0,
+      "legendScore": 22.1,
+      "surface": {
+        "hard": 0.267,
+        "clay": 0.444,
+        "grass": 0.714
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 6
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "219875",
+      "name": "Varvara Gracheva",
+      "rank": 70,
+      "prevRank": 67,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.0,
+      "legendScore": 31.0,
+      "surface": {
+        "hard": 0.4,
+        "clay": 0.4,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 4
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "211651",
+      "name": "Paula Badosa",
+      "rank": 119,
+      "prevRank": 103,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.9,
+      "legendScore": 42.3,
+      "surface": {
+        "hard": 0.531,
+        "clay": 0.455,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 15
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "247669",
+      "name": "Veronika Podrez",
+      "rank": 142,
+      "prevRank": 142,
+      "country": "UKR",
+      "logo": "https://flagcdn.com/24x18/ua.png",
+      "teamCode": "UKR",
+      "primary": "#005BBB",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.7,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.6,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "202499",
+      "name": "Donna Vekic",
+      "rank": 72,
+      "prevRank": 70,
+      "country": "CRO",
+      "logo": "https://flagcdn.com/24x18/hr.png",
+      "teamCode": "CRO",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.4,
+      "legendScore": 35.3,
+      "surface": {
+        "hard": 0.345,
+        "clay": 0.5,
+        "grass": 0.333
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 17
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "221909",
+      "name": "Ashlyn Krueger",
+      "rank": 120,
+      "prevRank": 107,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.3,
+      "legendScore": 20.6,
+      "surface": {
+        "hard": 0.524,
+        "clay": 0.417,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "221124",
+      "name": "Himeno Sakatsume",
+      "rank": 131,
+      "prevRank": 131,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "teamCode": "JPN",
+      "primary": "#BC002D",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.1,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.5,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "220699",
+      "name": "Julia Riera",
+      "rank": 179,
+      "prevRank": 180,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.1,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.625,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "213550",
+      "name": "Sofia Kenin",
+      "rank": 87,
+      "prevRank": 88,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.0,
+      "legendScore": 42.0,
+      "surface": {
+        "hard": 0.409,
+        "clay": 0.579,
+        "grass": null
+      },
+      "stats": {
+        "gs": 1,
+        "titles": 5,
+        "weeks_no1": 0,
+        "top10_wins": 14
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "211337",
+      "name": "Tamara Korpatsch",
+      "rank": 95,
+      "prevRank": 96,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.7,
+      "legendScore": 16.3,
+      "surface": {
+        "hard": 0.75,
+        "clay": 0.286,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R32",
+        "reason": "Eliminado en R32"
+      }
+    },
+    {
+      "id": "213525",
+      "name": "Jil Teichmann",
+      "rank": 170,
+      "prevRank": 207,
+      "country": "SUI",
+      "logo": "https://flagcdn.com/24x18/ch.png",
+      "teamCode": "SUI",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.7,
+      "legendScore": 20.2,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.571,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 8
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R16",
+        "reason": "Eliminado en R16"
+      }
+    },
+    {
+      "id": "213887",
+      "name": "Renata Zarazua",
+      "rank": 74,
+      "prevRank": 72,
+      "country": "MEX",
+      "logo": "https://flagcdn.com/24x18/mx.png",
+      "teamCode": "MEX",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.2,
+      "legendScore": 20.6,
+      "surface": {
+        "hard": 0.379,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "216566",
+      "name": "Mananchaya Sawangkaew",
+      "rank": 173,
+      "prevRank": 174,
+      "country": "THA",
+      "logo": "https://flagcdn.com/24x18/th.png",
+      "teamCode": "THA",
+      "primary": "#A51931",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.2,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "259857",
+      "name": "Akasha Urhobo",
+      "rank": 185,
+      "prevRank": 184,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.2,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "201709",
+      "name": "Yulia Putintseva",
+      "rank": 76,
+      "prevRank": 75,
+      "country": "KAZ",
+      "logo": "https://flagcdn.com/24x18/kz.png",
+      "teamCode": "KAZ",
+      "primary": "#00AFCA",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.1,
+      "legendScore": 34.4,
+      "surface": {
+        "hard": 0.439,
+        "clay": 0.385,
+        "grass": 0.2
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 13
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "219917",
+      "name": "Alycia Parks",
+      "rank": 79,
+      "prevRank": 80,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.0,
+      "legendScore": 20.9,
+      "surface": {
+        "hard": 0.442,
+        "clay": 0.375,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "221354",
+      "name": "Lisa Pigato",
+      "rank": 138,
+      "prevRank": 138,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.5,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.6,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "211880",
+      "name": "Priscilla Hon",
+      "rank": 143,
+      "prevRank": 143,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.5,
+      "legendScore": 20.2,
+      "surface": {
+        "hard": 0.5,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "201499",
+      "name": "Anastasia Pavlyuchenkova",
+      "rank": 112,
+      "prevRank": 114,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.4,
+      "legendScore": 45.4,
+      "surface": {
+        "hard": 0.3,
+        "clay": 0.2,
+        "grass": 0.778
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 12,
+        "weeks_no1": 0,
+        "top10_wins": 34
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "220446",
+      "name": "Jazmin Ortenzi",
+      "rank": 168,
+      "prevRank": 152,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.2,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "203530",
+      "name": "Viktorija Golubic",
+      "rank": 82,
+      "prevRank": 82,
+      "country": "SUI",
+      "logo": "https://flagcdn.com/24x18/ch.png",
+      "teamCode": "SUI",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.9,
+      "legendScore": 19.3,
+      "surface": {
+        "hard": 0.417,
+        "clay": 0.429,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R32",
+        "reason": "Eliminado en R32"
+      }
+    },
+    {
+      "id": "259871",
+      "name": "Jeline Vandromme",
+      "rank": 178,
+      "prevRank": 179,
+      "country": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "teamCode": "BEL",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.9,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "221803",
+      "name": "Carol Young Suh Lee",
+      "rank": 194,
+      "prevRank": 186,
+      "country": "POC",
+      "logo": "",
+      "teamCode": "POC",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.9,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "214254",
+      "name": "Alice Rame",
+      "rank": 200,
+      "prevRank": 197,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.9,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "236972",
+      "name": "Luisina Giovannini",
+      "rank": 190,
+      "prevRank": 189,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.6,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "236957",
+      "name": "Lola Radivojevic",
+      "rank": 147,
+      "prevRank": 147,
+      "country": "SRB",
+      "logo": "https://flagcdn.com/24x18/rs.png",
+      "teamCode": "SRB",
+      "primary": "#C6363C",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.5,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "220466",
+      "name": "Joanna Garland",
+      "rank": 150,
+      "prevRank": 151,
+      "country": "TPE",
+      "logo": "https://flagcdn.com/24x18/tw.png",
+      "teamCode": "TPE",
+      "primary": "#FE0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.5,
+      "legendScore": 30.7,
+      "surface": {
+        "hard": 0.6,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "211227",
+      "name": "Lina Gjorcheska",
+      "rank": 198,
+      "prevRank": 191,
+      "country": "MKD",
+      "logo": "https://flagcdn.com/24x18/mk.png",
+      "teamCode": "MKD",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.5,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "220742",
+      "name": "Leyre Romero Gormaz",
+      "rank": 158,
+      "prevRank": 159,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.3,
+      "legendScore": 30.7,
+      "surface": {
+        "hard": null,
+        "clay": 0.6,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "222290",
+      "name": "Lanlana Tararudee",
+      "rank": 97,
+      "prevRank": 100,
+      "country": "THA",
+      "logo": "https://flagcdn.com/24x18/th.png",
+      "teamCode": "THA",
+      "primary": "#A51931",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.2,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.5,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "216081",
+      "name": "Maja Chwalinska",
+      "rank": 114,
+      "prevRank": 116,
+      "country": "POL",
+      "logo": "https://flagcdn.com/24x18/pl.png",
+      "teamCode": "POL",
+      "primary": "#DC143C",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.1,
+      "legendScore": 20.2,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "alive",
+        "round": "F",
+        "reason": ""
+      }
+    },
+    {
+      "id": "205925",
+      "name": "Aliaksandra Sasnovich",
+      "rank": 124,
+      "prevRank": 126,
+      "country": "BLR",
+      "logo": "https://flagcdn.com/24x18/by.png",
+      "teamCode": "BLR",
+      "primary": "#CF101A",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.0,
+      "legendScore": 28.5,
+      "surface": {
+        "hard": 0.45,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 6
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "221626",
+      "name": "Linda Klimovicova",
+      "rank": 156,
+      "prevRank": 157,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.0,
+      "legendScore": 30.7,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "201548",
+      "name": "Ajla Tomljanovic",
+      "rank": 100,
+      "prevRank": 90,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.9,
+      "legendScore": 30.4,
+      "surface": {
+        "hard": 0.487,
+        "clay": 0.4,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 6
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "213576",
+      "name": "Iryna Shymanovich",
+      "rank": 189,
+      "prevRank": 188,
+      "country": "BLR",
+      "logo": "https://flagcdn.com/24x18/by.png",
+      "teamCode": "BLR",
+      "primary": "#CF101A",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.9,
+      "legendScore": 30.7,
+      "surface": {
+        "hard": null,
+        "clay": 0.5,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "202604",
+      "name": "Despina Papamichail",
+      "rank": 167,
+      "prevRank": 170,
+      "country": "GRE",
+      "logo": "https://flagcdn.com/24x18/gr.png",
+      "teamCode": "GRE",
+      "primary": "#0D5EAF",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.3,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.571,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "220435",
+      "name": "Anastasia Zakharova",
+      "rank": 80,
+      "prevRank": 79,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.0,
+      "legendScore": 30.7,
+      "surface": {
+        "hard": 0.385,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "211685",
+      "name": "Rebecca Sramkova",
+      "rank": 125,
+      "prevRank": 121,
+      "country": "SVK",
+      "logo": "https://flagcdn.com/24x18/sk.png",
+      "teamCode": "SVK",
+      "primary": "#0B4EA2",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.0,
+      "legendScore": 6.1,
+      "surface": {
+        "hard": 0.39,
+        "clay": 0.333,
+        "grass": 0.556
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "215480",
+      "name": "Suzan Lamens",
+      "rank": 128,
+      "prevRank": 129,
+      "country": "NED",
+      "logo": "https://flagcdn.com/24x18/nl.png",
+      "teamCode": "NED",
+      "primary": "#AE1C28",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.0,
+      "legendScore": 22.7,
+      "surface": {
+        "hard": 0.375,
+        "clay": 0.5,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "214461",
+      "name": "Tamara Zidansek",
+      "rank": 134,
+      "prevRank": 134,
+      "country": "SLO",
+      "logo": "https://flagcdn.com/24x18/si.png",
+      "teamCode": "SLO",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.0,
+      "legendScore": 24.2,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "223321",
+      "name": "Sofia Costoulas",
+      "rank": 144,
+      "prevRank": 144,
+      "country": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "teamCode": "BEL",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "221039",
+      "name": "Elsa Jacquemot",
+      "rank": 67,
+      "prevRank": 63,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.9,
+      "legendScore": 22.7,
+      "surface": {
+        "hard": 0.421,
+        "clay": 0.286,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "215306",
+      "name": "Emiliana Arango",
+      "rank": 94,
+      "prevRank": 98,
+      "country": "COL",
+      "logo": "https://flagcdn.com/24x18/co.png",
+      "teamCode": "COL",
+      "primary": "#FCD116",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.9,
+      "legendScore": 12.3,
+      "surface": {
+        "hard": 0.393,
+        "clay": 0.5,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "214646",
+      "name": "Xiaodi You",
+      "rank": 174,
+      "prevRank": 175,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.7,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "215020",
+      "name": "Anna Blinkova",
+      "rank": 103,
+      "prevRank": 99,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.6,
+      "legendScore": 21.8,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.25,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 4
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "222233",
+      "name": "Marina Stakusic",
+      "rank": 133,
+      "prevRank": 133,
+      "country": "CAN",
+      "logo": "https://flagcdn.com/24x18/ca.png",
+      "teamCode": "CAN",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.6,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.4,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "206294",
+      "name": "Yue Yuan",
+      "rank": 116,
+      "prevRank": 118,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.5,
+      "legendScore": 8.3,
+      "surface": {
+        "hard": 0.379,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "221407",
+      "name": "Oksana Selekhmeteva",
+      "rank": 88,
+      "prevRank": 89,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.4,
+      "legendScore": 17.5,
+      "surface": {
+        "hard": 0.417,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "202684",
+      "name": "Lin Zhu",
+      "rank": 137,
+      "prevRank": 137,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.4,
+      "legendScore": 21.2,
+      "surface": {
+        "hard": 0.375,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "239456",
+      "name": "Tiantsoa Sarah Rakotomanga Rajaonah",
+      "rank": 153,
+      "prevRank": 155,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.4,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.6,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "215453",
+      "name": "Marina Bassols Ribera",
+      "rank": 175,
+      "prevRank": 177,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.2,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "221985",
+      "name": "Darja Semenistaja",
+      "rank": 110,
+      "prevRank": 112,
+      "country": "LAT",
+      "logo": "https://flagcdn.com/24x18/lv.png",
+      "teamCode": "LAT",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 51.9,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "215370",
+      "name": "Bianca Andreescu",
+      "rank": 159,
+      "prevRank": 160,
+      "country": "CAN",
+      "logo": "https://flagcdn.com/24x18/ca.png",
+      "teamCode": "CAN",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 51.9,
+      "legendScore": 51.2,
+      "surface": {
+        "hard": 0.167,
+        "clay": 0.545,
+        "grass": null
+      },
+      "stats": {
+        "gs": 1,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 12
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "243420",
+      "name": "Hanne Vandewinkel",
+      "rank": 99,
+      "prevRank": 102,
+      "country": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "teamCode": "BEL",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 51.5,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "215872",
+      "name": "Kamilla Rakhimova",
+      "rank": 89,
+      "prevRank": 86,
+      "country": "UZB",
+      "logo": "https://flagcdn.com/24x18/uz.png",
+      "teamCode": "UZB",
+      "primary": "#1EB53A",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.9,
+      "legendScore": 22.1,
+      "surface": {
+        "hard": 0.259,
+        "clay": 0.333,
+        "grass": 0.571
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "214452",
+      "name": "Caroline Dolehide",
+      "rank": 176,
+      "prevRank": 166,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.8,
+      "legendScore": 16.6,
+      "surface": {
+        "hard": 0.4,
+        "clay": 0.4,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "221237",
+      "name": "Maria Timofeeva",
+      "rank": 118,
+      "prevRank": 119,
+      "country": "UZB",
+      "logo": "https://flagcdn.com/24x18/uz.png",
+      "teamCode": "UZB",
+      "primary": "#1EB53A",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.6,
+      "legendScore": 30.7,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "215037",
+      "name": "Kayla Day",
+      "rank": 145,
+      "prevRank": 145,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.5,
+      "legendScore": 18.1,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "215899",
+      "name": "Simona Waltert",
+      "rank": 91,
+      "prevRank": 93,
+      "country": "SUI",
+      "logo": "https://flagcdn.com/24x18/ch.png",
+      "teamCode": "SUI",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.4,
+      "legendScore": 15.3,
+      "surface": {
+        "hard": 0.333,
+        "clay": 0.5,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "215571",
+      "name": "Guiomar Maristany Zuleta De Reales",
+      "rank": 191,
+      "prevRank": 190,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.1,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "223286",
+      "name": "Victoria Jimenez Kasintseva",
+      "rank": 104,
+      "prevRank": 106,
+      "country": "AND",
+      "logo": "",
+      "teamCode": "AND",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.8,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.385,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "222258",
+      "name": "Linda Fruhvirtova",
+      "rank": 149,
+      "prevRank": 150,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.8,
+      "legendScore": 23.3,
+      "surface": {
+        "hard": 0.462,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "259733",
+      "name": "Kaitlin Quevedo",
+      "rank": 126,
+      "prevRank": 127,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.5,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "220722",
+      "name": "Elvina Kalieva",
+      "rank": 135,
+      "prevRank": 135,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.5,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "211539",
+      "name": "Fiona Ferro",
+      "rank": 181,
+      "prevRank": 200,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.5,
+      "legendScore": 21.5,
+      "surface": {
+        "hard": null,
+        "clay": 0.4,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "230870",
+      "name": "Ella Seidel",
+      "rank": 96,
+      "prevRank": 97,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.3,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.2,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "211316",
+      "name": "Jessika Ponchet",
+      "rank": 180,
+      "prevRank": 181,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.3,
+      "legendScore": 7.4,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "263644",
+      "name": "Emerson Jones",
+      "rank": 136,
+      "prevRank": 136,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.2,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.333,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "261972",
+      "name": "Tyra Caterina Grant",
+      "rank": 184,
+      "prevRank": 219,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.2,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.4,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "214181",
+      "name": "Anastasia Gasanova",
+      "rank": 197,
+      "prevRank": 196,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.2,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "214906",
+      "name": "Claire Liu",
+      "rank": 182,
+      "prevRank": 182,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.7,
+      "legendScore": 16.9,
+      "surface": {
+        "hard": 0.333,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "201478",
+      "name": "Varvara Lepchenko",
+      "rank": 169,
+      "prevRank": 171,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.4,
+      "legendScore": 29.1,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 5
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "206242",
+      "name": "Beatriz Haddad Maia",
+      "rank": 105,
+      "prevRank": 78,
+      "country": "BRA",
+      "logo": "https://flagcdn.com/24x18/br.png",
+      "teamCode": "BRA",
+      "primary": "#009C3B",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.3,
+      "legendScore": 39.0,
+      "surface": {
+        "hard": 0.267,
+        "clay": 0.364,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 12
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "252499",
+      "name": "Alina Korneeva",
+      "rank": 117,
+      "prevRank": 120,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.2,
+      "legendScore": 30.7,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "211279",
+      "name": "Harriet Dart",
+      "rank": 171,
+      "prevRank": 172,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.2,
+      "legendScore": 20.6,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "215946",
+      "name": "Ye Xin Ma",
+      "rank": 183,
+      "prevRank": 183,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.1,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "267439",
+      "name": "Teodora Kostovic",
+      "rank": 187,
+      "prevRank": 176,
+      "country": "SRB",
+      "logo": "https://flagcdn.com/24x18/rs.png",
+      "teamCode": "SRB",
+      "primary": "#C6363C",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.1,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "213889",
+      "name": "Greet Minnen",
+      "rank": 164,
+      "prevRank": 167,
+      "country": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "teamCode": "BEL",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.0,
+      "legendScore": 17.8,
+      "surface": {
+        "hard": 0.333,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "239436",
+      "name": "Kayla Cross",
+      "rank": 199,
+      "prevRank": 198,
+      "country": "CAN",
+      "logo": "https://flagcdn.com/24x18/ca.png",
+      "teamCode": "CAN",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "223168",
+      "name": "Mary Stoiana",
+      "rank": 146,
+      "prevRank": 146,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.9,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "214236",
+      "name": "Angela Fita Boluda",
+      "rank": 192,
+      "prevRank": 192,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.7,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "215138",
+      "name": "Lulu Sun",
+      "rank": 109,
+      "prevRank": 111,
+      "country": "NZL",
+      "logo": "https://flagcdn.com/24x18/nz.png",
+      "teamCode": "NZL",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.5,
+      "legendScore": 23.6,
+      "surface": {
+        "hard": 0.345,
+        "clay": 0.333,
+        "grass": 0.333
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "220733",
+      "name": "Carole Monnet",
+      "rank": 196,
+      "prevRank": 195,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.5,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "220465",
+      "name": "Katie Volynets",
+      "rank": 108,
+      "prevRank": 108,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.4,
+      "legendScore": 15.6,
+      "surface": {
+        "hard": 0.333,
+        "clay": 0.357,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "221406",
+      "name": "Alina Charaeva",
+      "rank": 130,
+      "prevRank": 122,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.2,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "214459",
+      "name": "Lucia Bronzetti",
+      "rank": 172,
+      "prevRank": 173,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.1,
+      "legendScore": 16.6,
+      "surface": {
+        "hard": 0.429,
+        "clay": 0.222,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "236955",
+      "name": "Tatiana Prozorova",
+      "rank": 177,
+      "prevRank": 178,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.1,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "221236",
+      "name": "Polina Kudermetova",
+      "rank": 123,
+      "prevRank": 125,
+      "country": "UZB",
+      "logo": "https://flagcdn.com/24x18/uz.png",
+      "teamCode": "UZB",
+      "primary": "#1EB53A",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.0,
+      "legendScore": 15.3,
+      "surface": {
+        "hard": 0.407,
+        "clay": 0.286,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "221257",
+      "name": "Sinja Kraus",
+      "rank": 98,
+      "prevRank": 101,
+      "country": "AUT",
+      "logo": "https://flagcdn.com/24x18/at.png",
+      "teamCode": "AUT",
+      "primary": "#ED2939",
+      "secondary": "#FFFFFF",
+      "activeScore": 46.9,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.6,
+        "clay": 0.2,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "215572",
+      "name": "Nuria Brancaccio",
+      "rank": 163,
+      "prevRank": 165,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 46.9,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "216097",
+      "name": "Elizabeth Mandlik",
+      "rank": 165,
+      "prevRank": 162,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 46.5,
+      "legendScore": 12.3,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "201621",
+      "name": "Mona Barthel",
+      "rank": 188,
+      "prevRank": 187,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 46.3,
+      "legendScore": 26.4,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 5
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "213646",
+      "name": "Dalma Galfi",
+      "rank": 115,
+      "prevRank": 117,
+      "country": "HUN",
+      "logo": "https://flagcdn.com/24x18/hu.png",
+      "teamCode": "HUN",
+      "primary": "#477050",
+      "secondary": "#FFFFFF",
+      "activeScore": 46.1,
+      "legendScore": 24.5,
+      "surface": {
+        "hard": 0.167,
+        "clay": 0.5,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "215219",
+      "name": "Kaja Juvan",
+      "rank": 111,
+      "prevRank": 113,
+      "country": "SLO",
+      "logo": "https://flagcdn.com/24x18/si.png",
+      "teamCode": "SLO",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 45.4,
+      "legendScore": 28.5,
+      "surface": {
+        "hard": 0.333,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "206417",
+      "name": "Leolia Jeanjean",
+      "rank": 122,
+      "prevRank": 124,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 45.2,
+      "legendScore": 17.8,
+      "surface": {
+        "hard": 0.154,
+        "clay": 0.5,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "220416",
+      "name": "Moyuka Uchijima",
+      "rank": 107,
+      "prevRank": 110,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "teamCode": "JPN",
+      "primary": "#BC002D",
+      "secondary": "#FFFFFF",
+      "activeScore": 44.8,
+      "legendScore": 22.1,
+      "surface": {
+        "hard": 0.233,
+        "clay": 0.462,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "214593",
+      "name": "Lucrezia Stefanini",
+      "rank": 152,
+      "prevRank": 154,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 44.4,
+      "legendScore": 15.3,
+      "surface": {
+        "hard": 0.4,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "202600",
+      "name": "Viktoriya Tomova",
+      "rank": 160,
+      "prevRank": 161,
+      "country": "BUL",
+      "logo": "https://flagcdn.com/24x18/bg.png",
+      "teamCode": "BUL",
+      "primary": "#00966E",
+      "secondary": "#FFFFFF",
+      "activeScore": 44.3,
+      "legendScore": 15.3,
+      "surface": {
+        "hard": 0.353,
+        "clay": 0.273,
+        "grass": 0.2
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "220662",
+      "name": "Veronika Erjavec",
+      "rank": 84,
+      "prevRank": 85,
+      "country": "SLO",
+      "logo": "https://flagcdn.com/24x18/si.png",
+      "teamCode": "SLO",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 43.9,
+      "legendScore": 15.3,
+      "surface": {
+        "hard": 0.167,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      }
+    },
+    {
+      "id": "215250",
+      "name": "Hanyu Guo",
+      "rank": 166,
+      "prevRank": 168,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
+      "secondary": "#FFFFFF",
+      "activeScore": 43.5,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.286,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "213666",
+      "name": "Maddison Inglis",
+      "rank": 141,
+      "prevRank": 141,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 43.0,
+      "legendScore": 22.1,
+      "surface": {
+        "hard": 0.25,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "215936",
+      "name": "Francesca Jones",
+      "rank": 102,
+      "prevRank": 105,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 42.8,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.389,
+        "clay": 0.167,
+        "grass": 0.333
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "223333",
+      "name": "Noma Noha Akugue",
+      "rank": 162,
+      "prevRank": 164,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 42.8,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "221307",
+      "name": "Darja Vidmanova",
+      "rank": 101,
+      "prevRank": 104,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 41.1,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.2,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "211702",
+      "name": "Nao Hibino",
+      "rank": 186,
+      "prevRank": 185,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "teamCode": "JPN",
+      "primary": "#BC002D",
+      "secondary": "#FFFFFF",
+      "activeScore": 40.2,
+      "legendScore": 13.5,
+      "surface": {
+        "hard": 0.2,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "216016",
+      "name": "Xiyu Wang",
+      "rank": 148,
+      "prevRank": 148,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
+      "secondary": "#FFFFFF",
+      "activeScore": 40.0,
+      "legendScore": 17.8,
+      "surface": {
+        "hard": 0.25,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "201551",
+      "name": "Arantxa Rus",
+      "rank": 154,
+      "prevRank": 149,
+      "country": "NED",
+      "logo": "https://flagcdn.com/24x18/nl.png",
+      "teamCode": "NED",
+      "primary": "#AE1C28",
+      "secondary": "#FFFFFF",
+      "activeScore": 38.1,
+      "legendScore": 19.3,
+      "surface": {
+        "hard": 0.0,
+        "clay": 0.429,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "215992",
+      "name": "Whitney Osuigwe",
+      "rank": 195,
+      "prevRank": 194,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 37.8,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.25,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Roland Garros"
+      }
+    },
+    {
+      "id": "211814",
+      "name": "Julia Grabher",
+      "rank": 121,
+      "prevRank": 123,
+      "country": "AUT",
+      "logo": "https://flagcdn.com/24x18/at.png",
+      "teamCode": "AUT",
+      "primary": "#ED2939",
+      "secondary": "#FFFFFF",
+      "activeScore": 36.4,
+      "legendScore": 15.3,
+      "surface": {
+        "hard": 0.231,
+        "clay": 0.167,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
+      }
+    },
+    {
+      "id": "210886",
+      "name": "Mayar Sherif",
+      "rank": 129,
+      "prevRank": 130,
+      "country": "EGY",
+      "logo": "https://flagcdn.com/24x18/eg.png",
+      "teamCode": "EGY",
+      "primary": "#CE1126",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 12.0,
+      "surface": {
+        "hard": 0.1,
+        "clay": 0.0,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "prevListRank": null,
+      "tournamentStatus": {
+        "tournament": "Roland Garros",
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
       }
     }
   ],
@@ -4299,9 +12979,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Matteo Arnaldi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "w/o",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 72.2,
           "l_score": 51.9,
           "match_score": 72.2
@@ -4318,8 +12998,7 @@ window.TENNIS_DATA = {
     "tour": "ATP",
     "alive": [
       "Alexander Zverev",
-      "Flavio Cobolli",
-      "Matteo Arnaldi"
+      "Flavio Cobolli"
     ],
     "out": [
       "Adam Walton",
@@ -4404,6 +13083,7 @@ window.TENNIS_DATA = {
       "Marin Cilic",
       "Martin Landaluce",
       "Marton Fucsovics",
+      "Matteo Arnaldi",
       "Matteo Berrettini",
       "Mattia Bellucci",
       "Michael Zheng",
@@ -4449,8 +13129,8 @@ window.TENNIS_DATA = {
       "Zhang Zhizhen",
       "Zizou Bergs"
     ],
-    "aliveCount": 3,
-    "matchesSeen": 126
+    "aliveCount": 2,
+    "matchesSeen": 127
   },
   "WTA_TOURNAMENT": {
     "name": "Roland Garros",

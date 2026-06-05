@@ -15,7 +15,7 @@ STALE_FETCHES: list[tuple[str, float, float]] = []
 CURRENT_YEAR  = datetime.now(timezone.utc).year
 CAREER_START  = 2010
 ACTIVE_YEARS  = [CURRENT_YEAR - 1, CURRENT_YEAR]
-TOP_N         = 60   # enough depth to show late-round outsiders in active lists
+TOP_N         = 200  # keep enough depth to show Grand Slam late-round outsiders
 
 BASE = {
     "atp": "https://raw.githubusercontent.com/JeffSackmann/tennis_atp/master",
