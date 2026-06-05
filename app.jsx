@@ -114,6 +114,129 @@ function NewsletterSection({ kicker, title, sub, children }) {
   );
 }
 
+function SectionIcon({ type }) {
+  const common = {
+    fill: "none",
+    stroke: "currentColor",
+    strokeWidth: 1.8,
+    strokeLinecap: "round",
+    strokeLinejoin: "round",
+  };
+  const icons = {
+    all: (
+      <>
+        <rect x="4" y="4" width="6" height="6" rx="1" {...common} />
+        <rect x="14" y="4" width="6" height="6" rx="1" {...common} />
+        <rect x="4" y="14" width="6" height="6" rx="1" {...common} />
+        <rect x="14" y="14" width="6" height="6" rx="1" {...common} />
+      </>
+    ),
+    nhl: <path d="M5 19 17 7m-5 12h7m-2-12 2 2" {...common} />,
+    nba: (
+      <>
+        <circle cx="12" cy="12" r="8" {...common} />
+        <path d="M4 12h16M12 4c2 2.4 3 5.1 3 8s-1 5.6-3 8M12 4c-2 2.4-3 5.1-3 8s1 5.6 3 8" {...common} />
+      </>
+    ),
+    mlb: (
+      <>
+        <circle cx="12" cy="12" r="8" {...common} />
+        <path d="M8 6c2.5 3.1 2.5 8.9 0 12M16 6c-2.5 3.1-2.5 8.9 0 12" {...common} />
+      </>
+    ),
+    nfl: (
+      <>
+        <path d="M4 12c2.8-5.2 13.2-5.2 16 0-2.8 5.2-13.2 5.2-16 0Z" {...common} />
+        <path d="M9 12h6m-4-2v4m2-4v4" {...common} />
+      </>
+    ),
+    tennis: (
+      <>
+        <circle cx="11" cy="11" r="7" {...common} />
+        <path d="M6 7c4 1 6 4 7 9M17 17l4 4" {...common} />
+      </>
+    ),
+    cycling: (
+      <>
+        <circle cx="7" cy="16" r="4" {...common} />
+        <circle cx="17" cy="16" r="4" {...common} />
+        <path d="M7 16l4-7 3 7m-3-7h4m-5-3h3" {...common} />
+      </>
+    ),
+    sumo: (
+      <>
+        <circle cx="12" cy="6" r="3" {...common} />
+        <path d="M7 12c2-2 8-2 10 0m-9 6 4-6 4 6M6 15h12" {...common} />
+      </>
+    ),
+    f1: (
+      <>
+        <path d="M5 19V5m0 1h12l-2.2 3L17 12H5" {...common} />
+        <path d="M8 8h2m2 0h2M8 11h2m2 0h2" {...common} />
+      </>
+    ),
+    indycar: (
+      <>
+        <path d="M4 14h16l-2-4H8l-4 4Z" {...common} />
+        <circle cx="8" cy="16" r="2" {...common} />
+        <circle cx="17" cy="16" r="2" {...common} />
+      </>
+    ),
+    nascar: (
+      <>
+        <path d="M3 14h18l-3-5H8l-5 5Z" {...common} />
+        <circle cx="8" cy="16" r="2" {...common} />
+        <circle cx="17" cy="16" r="2" {...common} />
+        <path d="M6 8h3m2 0h3" {...common} />
+      </>
+    ),
+    afl: (
+      <>
+        <path d="M4 12c2.8-4.2 13.2-4.2 16 0-2.8 4.2-13.2 4.2-16 0Z" {...common} />
+        <path d="M9 12h6" {...common} />
+      </>
+    ),
+    golf: (
+      <>
+        <path d="M8 21V4l9 3-9 3" {...common} />
+        <path d="M5 21h7" {...common} />
+        <circle cx="16" cy="18" r="2" {...common} />
+      </>
+    ),
+    motogp: (
+      <>
+        <circle cx="12" cy="11" r="7" {...common} />
+        <path d="M5 12h14M9 16h6M15 6l3 3" {...common} />
+      </>
+    ),
+    rugby: (
+      <>
+        <path d="M4 12c2.8-5.2 13.2-5.2 16 0-2.8 5.2-13.2 5.2-16 0Z" {...common} />
+        <path d="M12 8v8" {...common} />
+      </>
+    ),
+    football: (
+      <>
+        <circle cx="12" cy="12" r="8" {...common} />
+        <path d="m12 8 4 3-1.5 5h-5L8 11l4-3Z" {...common} />
+      </>
+    ),
+    cricket: (
+      <>
+        <path d="M6 20 17 9l2 2L8 22 6 20Z" {...common} />
+        <path d="M14 6 18 2m-2 16 4 4" {...common} />
+        <circle cx="6" cy="6" r="2" {...common} />
+      </>
+    ),
+  };
+
+  return (
+    <svg className="section-nav__icon" viewBox="0 0 24 24" aria-hidden="true">
+      {icons[type] || icons.all}
+    </svg>
+  );
+}
+
 function FinalsShowdown({ teams, players, legendScores, legendThreshold, teamByCode, logoForTeam, playerMeta, scoreNote, title, kicker, sub }) {
   if (!teams || teams.length !== 2) return null;
   const valid = teams.every(code => code && code !== "TBD");
@@ -221,6 +344,11 @@ function NewsletterApp() {
   const mlbRoadPlayers  = (MLB?.ROAD_TO_GLORY?.players || []).slice(0, 10);
   const mlbYoungPlayers = (MLB?.ROAD_TO_GLORY?.youngProspects || []).slice(0, 10);
   const mlbRoadTeams    = (MLB?.ROAD_TO_GLORY?.teams || []).slice(0, 10);
+  const mlbLegends      = (MLB?.HISTORY_PLAYERS || [])
+    .map(p => ({ ...p, legendScore: p.legendScore ?? p.score }))
+    .sort((a, b) => b.legendScore - a.legendScore)
+    .slice(0, 10);
+  const mlbLegendThreshold = mlbLegends[9]?.legendScore || MLB?.ROAD_TO_GLORY?.playerThreshold || 0;
   const mlbDivStandings = useMemo(() => {
     if (!MLB) return {};
     const map = {};
@@ -350,6 +478,15 @@ function NewsletterApp() {
     return `.${String(Math.round(s.avg * 1000)).padStart(3, "0")} AVG · ${s.hr} HR · ${s.rbi} RBI`;
   }
 
+  function mlbRoadNote(player) {
+    const parts = [];
+    if (player.battingScore != null) parts.push(`Bat ${Number(player.battingScore).toFixed(0)}`);
+    if (player.pitchingScore != null) parts.push(`Pit ${Number(player.pitchingScore).toFixed(0)}`);
+    if (player.rings) parts.push(`${player.rings} ring${player.rings !== 1 ? "s" : ""}`);
+    const base = parts.length ? `${parts.join(" · ")}. ` : "";
+    return `${base}${player.note}`;
+  }
+
   function nbaTeamLogo(teamCode) {
     return nbaTeamByCode[teamCode]?.logo || `https://a.espncdn.com/i/teamlogos/nba/500/${(teamCode || "").toLowerCase()}.png`;
   }
@@ -359,6 +496,56 @@ function NewsletterApp() {
     const age = player.age ? ` · ${player.age} años` : "";
     return `NBA · ${player.pos} · ${teamName}${age}`;
   }
+
+  const [activeSection, setActiveSection] = useState("all");
+  function sectionUpdateDate(data) {
+    const raw = data?.UPDATED || data?.LAST_UPDATE;
+    if (!raw) return null;
+    const normalized = String(raw).replace(" UTC", "Z").replace(" ", "T");
+    const date = new Date(normalized);
+    return Number.isNaN(date.getTime()) ? null : date;
+  }
+  function sectionFreshness(data) {
+    const date = sectionUpdateDate(data);
+    if (!date) return { updatedAt: null, isFresh: false };
+    const weekMs = 7 * 24 * 60 * 60 * 1000;
+    const ageMs = Date.now() - date.getTime();
+    return { updatedAt: data.UPDATED || data.LAST_UPDATE, isFresh: ageMs >= 0 && ageMs <= weekMs };
+  }
+  const newsletterSections = useMemo(() => {
+    const sectionData = [
+      { id: "nhl", label: "NHL", icon: "nhl", data: D },
+      { id: "nba", label: "NBA", icon: "nba", data: NBA },
+      { id: "mlb", label: "MLB", icon: "mlb", data: MLB },
+      { id: "nfl", label: "NFL", icon: "nfl", data: NFL },
+      { id: "tennis", label: "Tennis", icon: "tennis", data: TENNIS },
+      { id: "cycling", label: "Cycling", icon: "cycling", data: window.CYCLING_DATA },
+      { id: "sumo", label: "Sumo", icon: "sumo", data: window.SUMO_DATA },
+      { id: "f1", label: "F1", icon: "f1", data: window.F1_DATA },
+      { id: "indycar", label: "IndyCar", icon: "indycar", data: window.INDYCAR_DATA },
+      { id: "nascar", label: "NASCAR", icon: "nascar", data: window.NASCAR_DATA },
+      { id: "afl", label: "AFL", icon: "afl", data: window.AFL_DATA },
+      { id: "golf", label: "Golf", icon: "golf", data: window.GOLF_DATA },
+      { id: "motogp", label: "MotoGP", icon: "motogp", data: window.MOTOGP_DATA },
+      { id: "rugby", label: "Rugby", icon: "rugby", data: window.RUGBY_DATA },
+      { id: "football", label: "Fútbol", icon: "football", data: window.FOOTBALL_DATA },
+      { id: "cricket", label: "Cricket", icon: "cricket", data: window.CRICKET_DATA },
+    ].filter(section => !!section.data).map(section => ({
+      ...section,
+      ...sectionFreshness(section.data),
+    }));
+    const hasFreshSection = sectionData.some(section => section.isFresh);
+    return [
+      { id: "all", label: "Todos", icon: "all", available: true, isFresh: hasFreshSection, updatedAt: hasFreshSection ? "Hay novedades esta semana" : "Sin novedades esta semana" },
+      ...sectionData,
+    ];
+  }, [D, NBA, MLB, NFL, TENNIS]);
+  const visibleSections = newsletterSections.filter(section => section.id !== "all").length;
+  const freshSections = newsletterSections.filter(section => section.id !== "all" && section.isFresh).length;
+  const sectionStyle = (id, importance) => ({
+    order: -Math.round(importance * 10),
+    display: activeSection === "all" || activeSection === id ? "block" : "none",
+  });
 
   return (
     <div className="app app--newsletter">
@@ -373,7 +560,25 @@ function NewsletterApp() {
           </div>
         </div>
 
-        <div style={{ order: -Math.round((D?.IMPORTANCE || 5) * 10) }}>
+        <nav className="section-nav" style={{ order: -9998 }} aria-label="Secciones de Hermes">
+          {newsletterSections.map(section => (
+            <button
+              key={section.id}
+              className={`section-nav__button ${section.isFresh ? "section-nav__button--fresh" : "section-nav__button--stale"} ${activeSection === section.id ? "section-nav__button--on" : ""}`}
+              type="button"
+              onClick={() => setActiveSection(section.id)}
+              aria-pressed={activeSection === section.id}
+              title={`${section.id === "all" ? "Ver todas las secciones" : `Ver solo ${section.label}`} · ${section.isFresh ? "Activo" : "Inactivo"} · ${section.updatedAt || "sin fecha"}`}
+            >
+              <SectionIcon type={section.icon} />
+              <span>{section.label}</span>
+              <i aria-hidden="true" />
+            </button>
+          ))}
+          <span className="section-nav__count mono">{freshSections}/{visibleSections} activos</span>
+        </nav>
+
+        <div data-section="nhl" style={sectionStyle("nhl", D?.IMPORTANCE || 5)}>
         {/* ── NHL ─────────────────────────────────────────── */}
         <header className="newsletter-hero">
           <div className="newsletter-hero__masthead">
@@ -509,7 +714,7 @@ function NewsletterApp() {
         </NewsletterSection>
         </div>
 
-        <div style={{ order: -Math.round((NBA?.IMPORTANCE || 6) * 10) }}>
+        <div data-section="nba" style={sectionStyle("nba", NBA?.IMPORTANCE || 6)}>
         {/* ── NBA ─────────────────────────────────────────── */}
         {NBA && (
           <>
@@ -651,7 +856,7 @@ function NewsletterApp() {
         )}
         </div>
 
-        <div style={{ order: -Math.round((MLB?.IMPORTANCE || 8) * 10) }}>
+        <div data-section="mlb" style={sectionStyle("mlb", MLB?.IMPORTANCE || 8)}>
         {/* ── MLB ─────────────────────────────────────────── */}
         {MLB && (
           <>
@@ -722,6 +927,10 @@ function NewsletterApp() {
                     alive={mlbAlive}
                     score={player.score}
                     scoreLabel="Score"
+                    scoreB={player.legendScore}
+                    scoreBDisplay={player.legendScore?.toFixed?.(1)}
+                    scoreBLabel="Leyenda"
+                    scoreBThreshold={mlbLegendThreshold}
                     meta={mlbPlayerMeta(player)}
                     note={mlbPlayerNote(player)}
                     logo={mlbTeamLogo(player.teamCode)}
@@ -745,6 +954,10 @@ function NewsletterApp() {
                     alive={mlbAlive}
                     score={player.score}
                     scoreLabel="Score"
+                    scoreB={player.legendScore}
+                    scoreBDisplay={player.legendScore?.toFixed?.(1)}
+                    scoreBLabel="Leyenda"
+                    scoreBThreshold={mlbLegendThreshold}
                     meta={mlbPlayerMeta(player)}
                     note={mlbPlayerNote(player)}
                     logo={mlbTeamLogo(player.teamCode)}
@@ -756,7 +969,7 @@ function NewsletterApp() {
             <NewsletterSection
               kicker="Road to glory"
               title="Top 10 jugadores MLB Road To Glory"
-              sub={`Umbral top 10 histórico: ${MLB.ROAD_TO_GLORY?.playerThreshold ?? "N/A"} (Rogers Hornsby).`}
+              sub={`Legend score proyectado en la misma escala que las leyendas históricas. Umbral top 10: ${MLB.ROAD_TO_GLORY?.playerThreshold ?? "N/A"} (Rogers Hornsby).`}
             >
               <div className="newsletter-list">
                 {mlbRoadPlayers.map((player, i) => (
@@ -766,10 +979,33 @@ function NewsletterApp() {
                     prevRank={player.prevRank}
                     item={player}
                     alive={mlbAlive}
-                    score={player.careerScore}
-                    scoreLabel="Career"
+                    score={player.legendScore ?? player.careerScore}
+                    scoreLabel="Legend"
                     threshold={MLB.ROAD_TO_GLORY?.playerThreshold}
-                    meta={`${mlbPlayerMeta(player)} · ${player.rings} ring${player.rings !== 1 ? "s" : ""}`}
+                    meta={`${mlbPlayerMeta(player)} · score actual ${player.currentScore ?? player.score}`}
+                    note={mlbRoadNote(player)}
+                    logo={mlbTeamLogo(player.teamCode)}
+                  />
+                ))}
+              </div>
+            </NewsletterSection>
+
+            <NewsletterSection
+              kicker="MLB Legends"
+              title="Top 10 jugadores por Legend score histórico"
+              sub={`Ranking histórico por Legend score. Corte top 10: ${mlbLegendThreshold.toFixed(1)}.`}
+            >
+              <div className="newsletter-list">
+                {mlbLegends.map((player, i) => (
+                  <NewsletterRankRow
+                    key={`${player.name}-${player.era}`}
+                    rank={i + 1}
+                    item={player}
+                    alive={new Set()}
+                    score={player.legendScore}
+                    scoreLabel="Legend"
+                    threshold={mlbLegendThreshold}
+                    meta={`MLB · ${player.pos} · ${player.era} · tier ${player.tier}`}
                     note={player.note}
                     logo={mlbTeamLogo(player.teamCode)}
                   />
@@ -828,7 +1064,7 @@ function NewsletterApp() {
         )}
         </div>
 
-        <div style={{ order: -Math.round((NFL?.IMPORTANCE || 3) * 10) }}>
+        <div data-section="nfl" style={sectionStyle("nfl", NFL?.IMPORTANCE || 3)}>
         {/* ── NFL ─────────────────────────────────────────── */}
         {NFL && (
           <>
@@ -915,7 +1151,7 @@ function NewsletterApp() {
         )}
         </div>
 
-        <div style={{ order: -Math.round((TENNIS?.IMPORTANCE || 7) * 10) }}>
+        <div data-section="tennis" style={sectionStyle("tennis", TENNIS?.IMPORTANCE || 7)}>
         {/* ── TENNIS ─────────────────────────────────────────── */}
         {TENNIS && (() => {
           const atpChanges  = TENNIS.ATP_CHANGES  || { entered: [], exited: [] };
@@ -1251,7 +1487,7 @@ function NewsletterApp() {
         })()}
         </div>
 
-        <div style={{ order: -Math.round((window.CYCLING_DATA?.IMPORTANCE || 4) * 10) }}>
+        <div data-section="cycling" style={sectionStyle("cycling", window.CYCLING_DATA?.IMPORTANCE || 4)}>
         {/* ── CYCLING ─────────────────────────────────────────── */}
         {window.CYCLING_DATA && (() => {
           const CYC = window.CYCLING_DATA;
@@ -1497,7 +1733,7 @@ function NewsletterApp() {
         })()}
         </div>
 
-        <div style={{ order: -Math.round((window.SUMO_DATA?.IMPORTANCE || 8) * 10) }}>
+        <div data-section="sumo" style={sectionStyle("sumo", window.SUMO_DATA?.IMPORTANCE || 8)}>
         {/* ── SUMO ─────────────────────────────────────────── */}
         {window.SUMO_DATA && (() => {
           const SUMO = window.SUMO_DATA;
@@ -1643,7 +1879,7 @@ function NewsletterApp() {
         })()}
         </div>
 
-        <div style={{ order: -Math.round((window.F1_DATA?.IMPORTANCE || 7) * 10) }}>
+        <div data-section="f1" style={sectionStyle("f1", window.F1_DATA?.IMPORTANCE || 7)}>
         {/* ── F1 ───────────────────────────────────────────── */}
         {window.F1_DATA && (() => {
           const F1 = window.F1_DATA;
@@ -1834,13 +2070,298 @@ function NewsletterApp() {
         })()}
         </div>
 
-        <div style={{ order: -Math.round((window.AFL_DATA?.IMPORTANCE || 7) * 10) }}>
+        <div data-section="indycar" style={sectionStyle("indycar", window.INDYCAR_DATA?.IMPORTANCE || 6.5)}>
+        {/* ── IndyCar ─────────────────────────────────────── */}
+        {window.INDYCAR_DATA && (() => {
+          const IC = window.INDYCAR_DATA;
+          const drivers = (IC.DRIVERS || []).slice(0, 10);
+          const legends = (IC.LEGENDS || []).slice(0, 10);
+          const currentContenders = (IC.CURRENT_CONTENDERS || []).slice(0, 10);
+          const icLegendThreshold = IC.LEGEND_THRESHOLD || legends[9]?.legendScore || 0;
+          const last = IC.LAST_RACE;
+          const maxSeason = IC.MAX_SEASON_PTS || IC.TOTAL_ROUNDS * 54;
+          const remaining = (IC.TOTAL_ROUNDS - IC.ROUND) * 54;
+          const threshold = Math.round(Math.min((drivers[1]?.points || 0) + remaining + 1, maxSeason) / Math.max(maxSeason, 1) * 1000) / 10;
+          const driverByName = Object.fromEntries((IC.DRIVERS || []).map(d => [d.name, d]));
+          return (
+            <>
+              <header className="newsletter-hero" style={{ marginTop: 48 }}>
+                <div className="newsletter-hero__masthead">
+                  <span>IndyCar</span>
+                  <span>Season {IC.SEASON} · Round {IC.ROUND}/{IC.TOTAL_ROUNDS}</span>
+                  <span>Actualizado {IC.UPDATED}</span>
+                </div>
+                <div className="newsletter-hero__title-row">
+                  <h1>IndyCar · Series Championship {IC.SEASON}</h1>
+                  <p>
+                    Importancia: <strong>{IC.IMPORTANCE}/10</strong>.
+                    {drivers.length > 0 && ` Líder: ${drivers[0].name} (${drivers[0].points} pts).`}
+                    {last && ` Última carrera: ${last.name} → ${last.winner}.`}
+                  </p>
+                </div>
+              </header>
+
+              <NewsletterSection
+                kicker="Driver Championship"
+                title="Campeonato de Pilotos"
+                sub={`Barra sobre ${maxSeason} pts máximos estimados. Línea roja = mínimo matemático aproximado para cerrar el título.`}
+              >
+                <div className="newsletter-list">
+                  {drivers.map((d, i) => (
+                    <NewsletterRankRow
+                      key={d.id || d.name}
+                      rank={i + 1}
+                      prevRank={d.prevRank}
+                      item={{ ...d, colors: { primary: d.primary, secondary: d.secondary } }}
+                      alive={new Set()}
+                      score={d.score}
+                      scoreDisplay={d.points}
+                      scoreLabel="Puntos"
+                      threshold={threshold}
+                      scoreB={d.legendScore || 0}
+                      scoreBDisplay={(d.legendScore || 0).toFixed(1)}
+                      scoreBLabel="Leyenda"
+                      scoreBThreshold={icLegendThreshold}
+                      meta={`IndyCar · ${d.country} · ${d.team}`}
+                      note={null}
+                      logo={d.logo}
+                    />
+                  ))}
+                </div>
+              </NewsletterSection>
+
+              {last && last.podium && last.podium.length > 0 && (
+                <NewsletterSection
+                  kicker={`Round ${IC.ROUND} · Última carrera`}
+                  title={last.name}
+                  sub={`${last.circuit || "Resultado"} · ${last.date}`}
+                >
+                  <div className="newsletter-list">
+                    {last.podium.map((p, i) => {
+                      const dInfo = driverByName[p.name] || {};
+                      return (
+                        <div key={`${p.name}-${i}`} className="newsletter-row">
+                          <span className="newsletter-row__rank" style={{ minWidth: 28 }}>{`P${p.position || i + 1}`}</span>
+                          <span className="newsletter-row__identity" style={{ flex: 1 }}>
+                            <span className="newsletter-row__dot" style={{ background: p.primary || dInfo.primary }} />
+                            {(p.logo || dInfo.logo) && <img src={p.logo || dInfo.logo} alt={p.country || dInfo.country} style={{ width: 20, height: 15, borderRadius: 2, marginRight: 6, flexShrink: 0 }} />}
+                            <span className="newsletter-row__copy">
+                              <span className="newsletter-row__name">{p.name}</span>
+                              <span className="newsletter-row__meta">{p.team || dInfo.team}</span>
+                            </span>
+                          </span>
+                        </div>
+                      );
+                    })}
+                  </div>
+                </NewsletterSection>
+              )}
+
+              {currentContenders.length > 0 && (
+                <NewsletterSection
+                  kicker="Road to Glory · Actuales"
+                  title="Más cerca del Top 10 histórico"
+                  sub={`Umbral top 10 histórico: ${icLegendThreshold}.`}
+                >
+                  <div className="newsletter-list">
+                    {currentContenders.map((p, i) => (
+                      <NewsletterRankRow
+                        key={p.id}
+                        rank={i + 1}
+                        prevRank={p.prevRank}
+                        item={p}
+                        alive={new Set()}
+                        score={p.legendScore}
+                        scoreLabel="Leyenda"
+                        threshold={icLegendThreshold}
+                        meta={`IndyCar · ${p.country} · ${p.team}`}
+                        note={p.gapToTop10 > 0 ? `A ${p.gapToTop10} del Top 10 histórico` : "Ya está en zona Top 10 histórico"}
+                        logo={p.logo}
+                      />
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
+
+              <NewsletterSection
+                kicker="Road to Glory · IndyCar"
+                title="Top 10 leyendas IndyCar"
+                sub="Score histórico: títulos IndyCar/CART (×12), victorias (×0.45), poles (×0.2). A. J. Foyt como referencia: 100."
+              >
+                <div className="newsletter-list">
+                  {legends.map((p, i) => (
+                    <NewsletterRankRow
+                      key={p.id}
+                      rank={i + 1}
+                      prevRank={p.prevRank}
+                      item={p}
+                      alive={new Set()}
+                      score={p.legendScore}
+                      scoreLabel="Legend"
+                      threshold={legends[9]?.legendScore}
+                      meta={`IndyCar · ${p.country} · ${p.stats.birth}${p.active ? " · Activo" : ""}`}
+                      note={`${p.stats.titles} títulos · ${p.stats.wins} victorias · ${p.stats.poles} poles`}
+                      logo={p.logo}
+                    />
+                  ))}
+                </div>
+              </NewsletterSection>
+            </>
+          );
+        })()}
+        </div>
+
+        <div data-section="nascar" style={sectionStyle("nascar", window.NASCAR_DATA?.IMPORTANCE || 6.5)}>
+        {/* ── NASCAR ──────────────────────────────────────── */}
+        {window.NASCAR_DATA && (() => {
+          const NC = window.NASCAR_DATA;
+          const playoffRows = (NC.DRIVERS || []).slice(0, 20);
+          const legends = (NC.LEGENDS || []).slice(0, 10);
+          const currentContenders = (NC.CURRENT_CONTENDERS || []).slice(0, 10);
+          const ncLegendThreshold = NC.LEGEND_THRESHOLD || legends[9]?.legendScore || 0;
+          const last = NC.LAST_RACE;
+          const cutoff = NC.PLAYOFF_CUTOFF;
+          const driverByName = Object.fromEntries((NC.DRIVERS || []).map(d => [d.name, d]));
+          return (
+            <>
+              <header className="newsletter-hero" style={{ marginTop: 48 }}>
+                <div className="newsletter-hero__masthead">
+                  <span>NASCAR Cup Series</span>
+                  <span>Season {NC.SEASON} · Race {NC.ROUND}/{NC.TOTAL_ROUNDS}</span>
+                  <span>Actualizado {NC.UPDATED}</span>
+                </div>
+                <div className="newsletter-hero__title-row">
+                  <h1>NASCAR · Playoff Picture {NC.SEASON}</h1>
+                  <p>
+                    Importancia: <strong>{NC.IMPORTANCE}/10</strong>.
+                    {playoffRows.length > 0 && ` Líder playoff: ${playoffRows[0].name} (${playoffRows[0].wins} victorias, ${playoffRows[0].points} pts).`}
+                    {cutoff && ` Corte actual: P16 ${cutoff.driver}.`}
+                  </p>
+                </div>
+              </header>
+
+              <NewsletterSection
+                kicker="Playoff Standings"
+                title="Top 16 + burbuja"
+                sub="Orden playoff: victorias primero y después puntos. La línea roja marca el primer piloto fuera del corte."
+              >
+                <div className="newsletter-list">
+                  {playoffRows.map(d => (
+                    <NewsletterRankRow
+                      key={d.id || d.name}
+                      rank={d.playoffRank}
+                      prevRank={d.prevRank}
+                      rowClassName={d.playoffRank === 17 ? "newsletter-row--stage-gc-gap" : ""}
+                      item={{ ...d, colors: { primary: d.primary, secondary: d.secondary } }}
+                      alive={new Set((NC.DRIVERS || []).filter(x => x.playoffRank <= NC.PLAYOFF_FIELD_SIZE).map(x => x.manufacturer))}
+                      aliveKey="manufacturer"
+                      forceOut={d.playoffRank > NC.PLAYOFF_FIELD_SIZE}
+                      score={d.playoffScore}
+                      scoreDisplay={d.points}
+                      scoreLabel="Puntos"
+                      scoreB={d.legendScore || 0}
+                      scoreBDisplay={(d.legendScore || 0).toFixed(1)}
+                      scoreBLabel="Leyenda"
+                      scoreBThreshold={ncLegendThreshold}
+                      meta={`NASCAR · ${d.manufacturer} · ${d.team}`}
+                      note={d.playoffRank <= NC.PLAYOFF_FIELD_SIZE ? `${d.wins} W · ${d.playoffPoints} playoff pts` : `${d.wins} W · fuera del corte`}
+                      logo={d.logo}
+                    />
+                  ))}
+                </div>
+              </NewsletterSection>
+
+              {last && (
+                <NewsletterSection
+                  kicker="Última carrera"
+                  title={last.name}
+                  sub={`${last.circuit || "Resultado"} · ${last.date}`}
+                >
+                  <div className="newsletter-list">
+                    {(last.podium || []).map((p, i) => {
+                      const dInfo = driverByName[p.name] || {};
+                      return (
+                        <div key={`${p.name}-${i}`} className="newsletter-row">
+                          <span className="newsletter-row__rank" style={{ minWidth: 28 }}>{`P${p.position || i + 1}`}</span>
+                          <span className="newsletter-row__identity" style={{ flex: 1 }}>
+                            <span className="newsletter-row__dot" style={{ background: p.primary || dInfo.primary }} />
+                            {(p.logo || dInfo.logo) && <img src={p.logo || dInfo.logo} alt={p.country || dInfo.country || "USA"} style={{ width: 20, height: 15, borderRadius: 2, marginRight: 6, flexShrink: 0 }} />}
+                            <span className="newsletter-row__copy">
+                              <span className="newsletter-row__name">{p.name}</span>
+                              <span className="newsletter-row__meta">{p.manufacturer || dInfo.manufacturer} · {p.team || dInfo.team}</span>
+                            </span>
+                          </span>
+                        </div>
+                      );
+                    })}
+                  </div>
+                </NewsletterSection>
+              )}
+
+              {currentContenders.length > 0 && (
+                <NewsletterSection
+                  kicker="Road to Glory · Actuales"
+                  title="Más cerca del Top 10 histórico"
+                  sub={`Umbral top 10 histórico: ${ncLegendThreshold}.`}
+                >
+                  <div className="newsletter-list">
+                    {currentContenders.map((p, i) => (
+                      <NewsletterRankRow
+                        key={p.id}
+                        rank={i + 1}
+                        prevRank={p.prevRank}
+                        item={p}
+                        alive={new Set()}
+                        score={p.legendScore}
+                        scoreLabel="Leyenda"
+                        threshold={ncLegendThreshold}
+                        meta={`NASCAR · ${p.manufacturer} · ${p.team}`}
+                        note={p.gapToTop10 > 0 ? `A ${p.gapToTop10} del Top 10 histórico` : "Ya está en zona Top 10 histórico"}
+                        logo={p.logo}
+                      />
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
+
+              <NewsletterSection
+                kicker="Road to Glory · NASCAR"
+                title="Top 10 leyendas NASCAR"
+                sub="Score histórico: Cup Series títulos (×13), victorias (×0.35), poles (×0.15). Richard Petty como referencia: 100."
+              >
+                <div className="newsletter-list">
+                  {legends.map((p, i) => (
+                    <NewsletterRankRow
+                      key={p.id}
+                      rank={i + 1}
+                      prevRank={p.prevRank}
+                      item={p}
+                      alive={new Set()}
+                      score={p.legendScore}
+                      scoreLabel="Legend"
+                      threshold={legends[9]?.legendScore}
+                      meta={`NASCAR · ${p.country} · ${p.stats.birth}${p.active ? " · Activo" : ""}`}
+                      note={`${p.stats.titles} títulos · ${p.stats.wins} victorias · ${p.stats.poles} poles`}
+                      logo={p.logo}
+                    />
+                  ))}
+                </div>
+              </NewsletterSection>
+            </>
+          );
+        })()}
+        </div>
+
+        <div data-section="afl" style={sectionStyle("afl", window.AFL_DATA?.IMPORTANCE || 7)}>
         {/* ── AFL ──────────────────────────────────────────── */}
         {window.AFL_DATA && (() => {
           const AFL     = window.AFL_DATA;
           const ladder  = (AFL.LADDER     || []).slice(0, 8);   // top 8 = finals
+          const performers = (AFL.PERFORMERS || []).slice(0, 10);
           const results = (AFL.LAST_ROUND || []);
           const legends = (AFL.LEGENDS    || []).slice(0, 10);
+          const currentContenders = (AFL.CURRENT_CONTENDERS || []).slice(0, 10);
+          const aflLegendThreshold = AFL.LEGEND_THRESHOLD || legends[9]?.legendScore || 0;
           return (
             <>
               <header className="newsletter-hero" style={{ marginTop: 48 }}>
@@ -1908,6 +2429,61 @@ function NewsletterApp() {
                 </div>
               </NewsletterSection>
 
+              {performers.length > 0 && (
+                <NewsletterSection
+                  kicker="AFL Season Performers"
+                  title="Top 10 performers de la temporada"
+                  sub="Score mixto de temporada: disposals, contested possessions, clearances, goles, tackles, marks, hit-outs y assists."
+                >
+                  <div className="newsletter-list">
+                    {performers.map((p, i) => (
+                      <NewsletterRankRow
+                        key={p.id || p.name}
+                        rank={i + 1}
+                        prevRank={p.prevRank}
+                        item={p}
+                        alive={new Set()}
+                        score={p.score}
+                        scoreLabel="Score"
+                        scoreB={p.legendScore || 0}
+                        scoreBDisplay={(p.legendScore || 0).toFixed(1)}
+                        scoreBLabel="Leyenda"
+                        scoreBThreshold={aflLegendThreshold}
+                        meta={`AFL · ${p.teamCode} · ${p.team}`}
+                        note={`${p.stats.games} GM · ${p.stats.disposals} disp · ${p.stats.goals} goles · ${p.stats.clearances} clearances`}
+                        logo={p.logo}
+                      />
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
+
+              {currentContenders.length > 0 && (
+                <NewsletterSection
+                  kicker="Road to Glory · Actuales"
+                  title="Más cerca del Top 10 histórico"
+                  sub={`Umbral top 10 histórico: ${aflLegendThreshold}.`}
+                >
+                  <div className="newsletter-list">
+                    {currentContenders.map((p, i) => (
+                      <NewsletterRankRow
+                        key={p.id}
+                        rank={i + 1}
+                        prevRank={p.prevRank}
+                        item={p}
+                        alive={new Set()}
+                        score={p.legendScore}
+                        scoreLabel="Leyenda"
+                        threshold={aflLegendThreshold}
+                        meta={`AFL · ${p.teamCode} · ${p.team}`}
+                        note={p.gapToTop10 > 0 ? `A ${p.gapToTop10} del Top 10 histórico` : "Ya está en zona Top 10 histórico"}
+                        logo={p.logo}
+                      />
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
+
               {/* Last round results */}
               {results.length > 0 && (
                 <NewsletterSection
@@ -1939,8 +2515,8 @@ function NewsletterApp() {
 
               {/* AFL Legends */}
               <NewsletterSection
-                kicker="VFL/AFL Legends"
-                title="Road to Glory · Leyendas del AFL"
+                kicker="Road to Glory · VFL/AFL"
+                title="Top 10 leyendas del AFL"
                 sub="Score histórico: premiaciones (×8), Brownlow Medals (×5), selecciones All-Australian (×1.5). Bartlett como referencia: 100."
               >
                 <div className="newsletter-list">
@@ -1950,9 +2526,10 @@ function NewsletterApp() {
                       rank={i + 1}
                       prevRank={p.prevRank}
                       item={p}
-                      alive={new Set(legends.filter(l => l.active).map(l => l.id))}
+                      alive={new Set()}
                       score={p.legendScore}
                       scoreLabel="Legend"
+                      threshold={legends[9]?.legendScore}
                       meta={`AFL · ${p.teamCode} · ${p.stats.birth}`}
                       note={`${p.stats.flags} premios · ${p.stats.brownlow} Brownlow · ${p.stats.all_aus} All-Aus`}
                       logo={p.logo}
@@ -1965,7 +2542,163 @@ function NewsletterApp() {
         })()}
         </div>
 
-        <div style={{ order: -Math.round((window.MOTOGP_DATA?.IMPORTANCE || 7) * 10) }}>
+        <div data-section="golf" style={sectionStyle("golf", window.GOLF_DATA?.IMPORTANCE || 5)}>
+        {/* ── GOLF ─────────────────────────────────────────── */}
+        {window.GOLF_DATA && (() => {
+          const GOLF = window.GOLF_DATA;
+          const major = GOLF.CURRENT_MAJOR || {};
+          const current = (GOLF.CURRENT || []).slice(0, 10);
+          const road = (GOLF.ROAD_TO_GLORY || []).slice(0, 10);
+          const legends = (GOLF.LEGENDS || []).slice(0, 10);
+          const threshold = GOLF.LEGEND_THRESHOLD || legends[9]?.legendScore || 0;
+          const stateLabel = major.state === "live"
+            ? `Ronda ${major.round || 1} en juego`
+            : major.state === "upcoming"
+              ? `Empieza en ${major.daysToStart} día${major.daysToStart === 1 ? "" : "s"}`
+              : "Último major completado";
+          const majorTour = "Men's Major";
+          const golfMeta = p => `${p.stats?.tour || p.teamCode} · ${p.country}`;
+          const currentNote = p => `${p.stats?.majors || 0} majors · ${p.stats?.eliteWins || 0} victorias élite · ${p.stats?.majorTop10 || 0} top-10 major`;
+          const legendNote = p => `${p.stats?.majors || 0} majors · ${p.stats?.wins || 0} victorias · dominio ${p.stats?.dominance || 0}`;
+          return (
+            <>
+              <header className="newsletter-hero" style={{ marginTop: 48 }}>
+                <div className="newsletter-hero__masthead">
+                  <span>Golf Tracker</span>
+                  <span>{majorTour}</span>
+                  <span>Actualizado {GOLF.UPDATED}</span>
+                </div>
+                <div className="newsletter-hero__title-row">
+                  <h1>Golf Majors</h1>
+                  <p>
+                    Major masculino activo o próximo, top actuales PGA y carrera histórica hacia el top 10.
+                    Score leyenda: majors, victorias y dominio/#1.
+                  </p>
+                </div>
+              </header>
+
+              <NewsletterSection
+                kicker={`${majorTour} · ${major.state || "major"}`}
+                title={major.name || "Major Championship"}
+                sub={`${stateLabel}. ${major.startLabel || ""}–${major.endLabel || ""} · ${major.venue || ""}${major.location ? ` · ${major.location}` : ""}. Defiende: ${major.defending || "N/A"}.`}
+              >
+                {major.leaderboard && major.leaderboard.length > 0 ? (
+                  <div className="newsletter-list">
+                    {major.leaderboard.slice(0, 10).map((row, i) => (
+                      <div key={`${row.rank}-${row.name}`} className="newsletter-row">
+                        <span className="newsletter-row__rank">{String(row.rank || i + 1).padStart(2, "0")}</span>
+                        <span className="newsletter-row__identity" style={{ flex: 1 }}>
+                          <span className="newsletter-row__dot" style={{ background: "#2f6b3f" }} />
+                          <span className="newsletter-row__copy">
+                            <span className="newsletter-row__name">{row.name}</span>
+                            <span className="newsletter-row__meta">{row.today ? `Hoy ${row.today}` : major.surface}</span>
+                          </span>
+                        </span>
+                        <span className="newsletter-row__score">
+                          <span className="newsletter-row__score-label">Score</span>
+                          <span className="newsletter-row__score-value">{row.score || "-"}</span>
+                        </span>
+                      </div>
+                    ))}
+                  </div>
+                ) : (
+                  <div className="newsletter-list">
+                    {(major.favorites || []).map((name, i) => (
+                      <div key={name} className="newsletter-row">
+                        <span className="newsletter-row__rank">{String(i + 1).padStart(2, "0")}</span>
+                        <span className="newsletter-row__identity" style={{ flex: 1 }}>
+                          <span className="newsletter-row__dot" style={{ background: "#2f6b3f" }} />
+                          <span className="newsletter-row__copy">
+                            <span className="newsletter-row__name">{name}</span>
+                            <span className="newsletter-row__meta">Favorito Hermes · {major.surface}</span>
+                          </span>
+                        </span>
+                      </div>
+                    ))}
+                  </div>
+                )}
+              </NewsletterSection>
+
+              <NewsletterSection
+                kicker="Golf · Actuales"
+                title="Top 10 golfistas actuales"
+                sub="Score activo PGA: ranking, forma de majors, victorias élite y consistencia reciente."
+              >
+                <div className="newsletter-list">
+                  {current.map((p, i) => (
+                    <NewsletterRankRow
+                      key={p.id}
+                      rank={i + 1}
+                      prevRank={p.prevRank}
+                      item={p}
+                      alive={new Set()}
+                      score={p.activeScore}
+                      scoreLabel="Nivel"
+                      scoreB={p.legendScore}
+                      scoreBDisplay={p.legendScore.toFixed(1)}
+                      scoreBLabel="Leyenda"
+                      scoreBThreshold={threshold}
+                      meta={golfMeta(p)}
+                      note={currentNote(p)}
+                      logo={p.logo}
+                    />
+                  ))}
+                </div>
+              </NewsletterSection>
+
+              <NewsletterSection
+                kicker="Road to Glory"
+                title="Top 10 golfistas Road to Glory"
+                sub={`Umbral top 10 histórico: ${threshold.toFixed(1)}. Ordenado por cercanía al territorio de leyenda.`}
+              >
+                <div className="newsletter-list">
+                  {road.map((p, i) => (
+                    <NewsletterRankRow
+                      key={p.id}
+                      rank={i + 1}
+                      prevRank={p.prevRank}
+                      item={p}
+                      alive={new Set()}
+                      score={p.legendScore}
+                      scoreLabel="Leyenda"
+                      threshold={threshold}
+                      meta={golfMeta(p)}
+                      note={p.note || (p.gapToTop10 > 0 ? `A ${p.gapToTop10} del top 10 histórico` : "Ya está en zona top 10 histórico")}
+                      logo={p.logo}
+                    />
+                  ))}
+                </div>
+              </NewsletterSection>
+
+              <NewsletterSection
+                kicker="Golf Legends"
+                title="Top 10 golfistas leyendas"
+                sub="Score histórico: majors (×12), victorias (×0.45) y dominio mundial/#1 (×0.10)."
+              >
+                <div className="newsletter-list">
+                  {legends.map((p, i) => (
+                    <NewsletterRankRow
+                      key={p.id}
+                      rank={i + 1}
+                      prevRank={p.prevRank}
+                      item={p}
+                      alive={new Set()}
+                      score={p.legendScore}
+                      scoreLabel="Legend"
+                      threshold={threshold}
+                      meta={`${p.stats?.tour || p.teamCode} · ${p.country}${p.active ? " · Activo" : ""}`}
+                      note={legendNote(p)}
+                      logo={p.logo}
+                    />
+                  ))}
+                </div>
+              </NewsletterSection>
+            </>
+          );
+        })()}
+        </div>
+
+        <div data-section="motogp" style={sectionStyle("motogp", window.MOTOGP_DATA?.IMPORTANCE || 7)}>
         {/* ── MotoGP ───────────────────────────────────────── */}
         {window.MOTOGP_DATA && (() => {
           const MG         = window.MOTOGP_DATA;
@@ -2069,7 +2802,7 @@ function NewsletterApp() {
         })()}
         </div>
 
-        <div style={{ order: -Math.round((window.RUGBY_DATA?.IMPORTANCE || 3) * 10) }}>
+        <div data-section="rugby" style={sectionStyle("rugby", window.RUGBY_DATA?.IMPORTANCE || 3)}>
         {/* ── RUGBY ─────────────────────────────────────────── */}
         {window.RUGBY_DATA && (() => {
           const RUG = window.RUGBY_DATA;
@@ -2149,7 +2882,120 @@ function NewsletterApp() {
         })()}
         </div>
 
-        <div style={{ order: -Math.round((window.CRICKET_DATA?.IMPORTANCE || 4) * 10) }}>
+        <div data-section="football" style={sectionStyle("football", window.FOOTBALL_DATA?.IMPORTANCE || 6)}>
+        {/* ── FÚTBOL SELECCIONES ───────────────────────────── */}
+        {window.FOOTBALL_DATA && (() => {
+          const FTB = window.FOOTBALL_DATA;
+          const teams = [...(FTB.TEAMS || [])].sort((a, b) => b.elo - a.elo).slice(0, 10);
+          const contenders = (FTB.ROAD_TO_GLORY?.currentContenders || []).slice(0, 10);
+          const dynasties = (FTB.ROAD_TO_GLORY?.dynasties || []).slice(0, 10);
+          const dynastyThreshold = FTB.ROAD_TO_GLORY?.dynastyThreshold || dynasties[9]?.dynastyScore || 70;
+          const rawDynastyThreshold = FTB.ROAD_TO_GLORY?.rawDynastyThreshold || 0;
+
+          function trophyLabel(wc, continental) {
+            const parts = [];
+            if (wc) parts.push(`${wc} Mundial${wc === 1 ? "" : "es"}`);
+            if (continental) parts.push(`${continental} continental${continental === 1 ? "" : "es"}`);
+            return parts.length ? parts.join(" · ") : "Sin grandes títulos en la era";
+          }
+
+          return (
+            <>
+              <header className="newsletter-hero" style={{ marginTop: 48 }}>
+                <div className="newsletter-hero__masthead">
+                  <span>Fútbol Selecciones</span>
+                  <span>Hermes Elo · masculino</span>
+                  <span>Actualizado {FTB.UPDATED}</span>
+                </div>
+                <div className="newsletter-hero__title-row">
+                  <h1>Fútbol de Selecciones</h1>
+                  <p>
+                    Top 10 masculino por rating Elo y dinastías históricas:
+                    años como referencia mundial, Mundiales y títulos continentales.
+                  </p>
+                </div>
+              </header>
+
+              <NewsletterSection
+                kicker="Football Elo"
+                title="Top 10 selecciones — Ranking Elo"
+                sub={`Snapshot Hermes basado en ratings tipo World Football Elo / MoreElo. Fuente: ${FTB.SOURCE?.name || "Elo snapshot"}.`}
+              >
+                <div className="newsletter-list">
+                  {teams.map((team, i) => (
+                    <NewsletterRankRow
+                      key={team.teamCode}
+                      rank={i + 1}
+                      item={team}
+                      alive={new Set()}
+                      score={team.eloScore}
+                      scoreDisplay={team.elo}
+                      scoreLabel="Elo"
+                      scoreB={team.worldCups}
+                      scoreBDisplay={team.worldCups}
+                      scoreBLabel="Mundiales"
+                      meta={`Selecciones · ${team.country}`}
+                      note={`${trophyLabel(team.worldCups, team.continentalTitles)}. ${team.note}`}
+                      logo={team.logo}
+                    />
+                  ))}
+                </div>
+              </NewsletterSection>
+
+              <NewsletterSection
+                kicker="Road to Glory · Actual"
+                title="Top 10 selecciones con potencial dinástico"
+                sub={`Quién puede meterse en el top 10 de dinastías. Umbral bruto estimado: ${rawDynastyThreshold.toFixed(1)}; score combina Elo actual, años de ciclo, títulos recientes, finales y curva generacional.`}
+              >
+                <div className="newsletter-list">
+                  {contenders.map((team, i) => (
+                    <NewsletterRankRow
+                      key={team.id}
+                      rank={i + 1}
+                      item={team}
+                      alive={new Set()}
+                      score={team.dynastyPotential}
+                      scoreLabel="Potencial"
+                      threshold={100}
+                      scoreB={team.eloScore}
+                      scoreBDisplay={team.elo}
+                      scoreBLabel="Elo"
+                      meta={`Ciclo ${team.cycleYears} años · ${team.country}`}
+                      note={`${trophyLabel(team.currentWorldCups, team.currentContinentalTitles)} · ${team.recentFinals} finales recientes. ${team.note}`}
+                      logo={team.logo}
+                    />
+                  ))}
+                </div>
+              </NewsletterSection>
+
+              <NewsletterSection
+                kicker="Road to Glory"
+                title="Top 10 dinastías de selecciones"
+                sub={`Umbral top 10: ${dynastyThreshold.toFixed(1)}. Score: años #1/Elo + Mundiales + títulos continentales + pico Elo.`}
+              >
+                <div className="newsletter-list">
+                  {dynasties.map((team, i) => (
+                    <NewsletterRankRow
+                      key={team.id}
+                      rank={i + 1}
+                      item={team}
+                      alive={new Set()}
+                      score={team.dynastyScore}
+                      scoreLabel="Dynasty"
+                      threshold={dynastyThreshold}
+                      meta={`${team.era} · ${team.weeksNo1} semanas #1/Elo · pico ${team.peakElo}`}
+                      note={`${trophyLabel(team.worldCups, team.continentalTitles)}. ${team.note}`}
+                      logo={team.logo}
+                    />
+                  ))}
+                </div>
+              </NewsletterSection>
+            </>
+          );
+        })()}
+        </div>
+
+        <div data-section="cricket" style={sectionStyle("cricket", window.CRICKET_DATA?.IMPORTANCE || 4)}>
         {/* ── CRICKET ───────────────────────────────────────── */}
         {window.CRICKET_DATA && (() => {
           const CRI = window.CRICKET_DATA;
@@ -2323,8 +3169,8 @@ function NewsletterApp() {
         </div>
 
         {/* ── PLACEHOLDERS ─────────────────────────────────── */}
-        {["Golf", "Boxeo", "Snooker", "Ciclismo — UCI WorldTour live", "Euroliga", "NASCAR · IndyCar"].map(sport => (
-          <section key={sport} className="newsletter-section" style={{ opacity: 0.45, marginTop: 24 }}>
+        {["Boxeo", "Snooker", "Ciclismo — UCI WorldTour live", "Euroliga"].map(sport => (
+          <section key={sport} className="newsletter-section" style={{ opacity: 0.45, marginTop: 24, display: activeSection === "all" ? "block" : "none" }}>
             <div className="newsletter-section__head">
               <WFLabel>PRÓXIMAMENTE</WFLabel>
               <h2 style={{ fontSize: 18 }}>{sport}</h2>

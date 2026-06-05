@@ -657,6 +657,12 @@ window.MLB_DATA = {
         "so": 103,
         "whip": 1.09
       },
+      "legendScore": 61.3,
+      "currentScore": 100.0,
+      "battingScore": null,
+      "pitchingScore": 100,
+      "twoWayBonus": 0,
+      "rings": 0,
       "prevRank": null
     },
     {
@@ -682,6 +688,12 @@ window.MLB_DATA = {
         "so": 67,
         "whip": 0.79
       },
+      "legendScore": 92.0,
+      "currentScore": 100.0,
+      "battingScore": 78,
+      "pitchingScore": 100,
+      "twoWayBonus": 17.2,
+      "rings": 2,
       "prevRank": null
     },
     {
@@ -707,6 +719,12 @@ window.MLB_DATA = {
         "sb": 1,
         "ops": 1.077
       },
+      "legendScore": 64.9,
+      "currentScore": 100.0,
+      "battingScore": 100,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 1,
       "prevRank": null
     },
     {
@@ -732,6 +750,12 @@ window.MLB_DATA = {
         "sb": 20,
         "ops": 0.831
       },
+      "legendScore": 57.4,
+      "currentScore": 96,
+      "battingScore": 96,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0,
       "prevRank": null
     },
     {
@@ -757,6 +781,12 @@ window.MLB_DATA = {
         "so": 108,
         "whip": 0.79
       },
+      "legendScore": 53.8,
+      "currentScore": 94,
+      "battingScore": null,
+      "pitchingScore": 94,
+      "twoWayBonus": 0,
+      "rings": 0,
       "prevRank": null
     },
     {
@@ -782,6 +812,12 @@ window.MLB_DATA = {
         "sb": 2,
         "ops": 1.03
       },
+      "legendScore": 55.2,
+      "currentScore": 92,
+      "battingScore": 92,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0,
       "prevRank": null
     },
     {
@@ -807,6 +843,12 @@ window.MLB_DATA = {
         "sb": 1,
         "ops": 0.944
       },
+      "legendScore": 60.2,
+      "currentScore": 92,
+      "battingScore": 92,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0,
       "prevRank": null
     },
     {
@@ -832,6 +874,12 @@ window.MLB_DATA = {
         "sb": 8,
         "ops": 0.892
       },
+      "legendScore": 52.2,
+      "currentScore": 91,
+      "battingScore": 91,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0,
       "prevRank": null
     },
     {
@@ -857,6 +905,12 @@ window.MLB_DATA = {
         "sb": 10,
         "ops": 0.929
       },
+      "legendScore": 50.8,
+      "currentScore": 90,
+      "battingScore": 90,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0,
       "prevRank": null
     },
     {
@@ -882,6 +936,12 @@ window.MLB_DATA = {
         "sb": 7,
         "ops": 0.854
       },
+      "legendScore": 51.9,
+      "currentScore": 89,
+      "battingScore": 89,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0,
       "prevRank": null
     },
     {
@@ -907,6 +967,12 @@ window.MLB_DATA = {
         "sb": 9,
         "ops": 0.903
       },
+      "legendScore": 51.4,
+      "currentScore": 88,
+      "battingScore": 88,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0,
       "prevRank": null
     },
     {
@@ -932,6 +998,12 @@ window.MLB_DATA = {
         "sb": 1,
         "ops": 0.898
       },
+      "legendScore": 57.2,
+      "currentScore": 88,
+      "battingScore": 88,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0,
       "prevRank": null
     },
     {
@@ -957,6 +1029,12 @@ window.MLB_DATA = {
         "sb": 1,
         "ops": 0.938
       },
+      "legendScore": 52.2,
+      "currentScore": 88,
+      "battingScore": 88,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0,
       "prevRank": null
     },
     {
@@ -982,6 +1060,12 @@ window.MLB_DATA = {
         "so": 84,
         "whip": 0.86
       },
+      "legendScore": 50.3,
+      "currentScore": 86,
+      "battingScore": null,
+      "pitchingScore": 86,
+      "twoWayBonus": 0,
+      "rings": 0,
       "prevRank": null
     },
     {
@@ -1006,7 +1090,13 @@ window.MLB_DATA = {
         "avg": 0.242,
         "sb": 9,
         "ops": 0.871
-      }
+      },
+      "legendScore": 51.1,
+      "currentScore": 86,
+      "battingScore": 86,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33192,
@@ -1030,7 +1120,13 @@ window.MLB_DATA = {
         "avg": 0.248,
         "sb": 5,
         "ops": 0.907
-      }
+      },
+      "legendScore": 78.9,
+      "currentScore": 85,
+      "battingScore": 85,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4966637,
@@ -1054,7 +1150,13 @@ window.MLB_DATA = {
         "avg": 0.284,
         "sb": 6,
         "ops": 0.937
-      }
+      },
+      "legendScore": 47.0,
+      "currentScore": 83,
+      "battingScore": 83,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 32655,
@@ -1078,7 +1180,13 @@ window.MLB_DATA = {
         "avg": 0.258,
         "sb": 5,
         "ops": 0.871
-      }
+      },
+      "legendScore": 53.9,
+      "currentScore": 82,
+      "battingScore": 82,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4927516,
@@ -1103,6 +1211,12 @@ window.MLB_DATA = {
         "so": 81,
         "whip": 0.95
       },
+      "legendScore": 46.4,
+      "currentScore": 82,
+      "battingScore": null,
+      "pitchingScore": 82,
+      "twoWayBonus": 0,
+      "rings": 0,
       "prevRank": null
     },
     {
@@ -1128,6 +1242,12 @@ window.MLB_DATA = {
         "so": 86,
         "whip": 1.03
       },
+      "legendScore": 58.1,
+      "currentScore": 82,
+      "battingScore": null,
+      "pitchingScore": 82,
+      "twoWayBonus": 0,
+      "rings": 0,
       "prevRank": null
     },
     {
@@ -1152,7 +1272,13 @@ window.MLB_DATA = {
         "avg": 0.28,
         "sb": 10,
         "ops": 0.855
-      }
+      },
+      "legendScore": 47.3,
+      "currentScore": 82,
+      "battingScore": 82,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 32758,
@@ -1176,7 +1302,13 @@ window.MLB_DATA = {
         "avg": 0.247,
         "sb": 0,
         "ops": 0.812
-      }
+      },
+      "legendScore": 55.9,
+      "currentScore": 81,
+      "battingScore": 81,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4810190,
@@ -1200,7 +1332,13 @@ window.MLB_DATA = {
         "avg": 0.303,
         "sb": 1,
         "ops": 0.931
-      }
+      },
+      "legendScore": 47.6,
+      "currentScore": 81,
+      "battingScore": 81,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 42598,
@@ -1224,7 +1362,13 @@ window.MLB_DATA = {
         "avg": 0.289,
         "sb": 0,
         "ops": 0.915
-      }
+      },
+      "legendScore": 50.1,
+      "currentScore": 81,
+      "battingScore": 81,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 42403,
@@ -1248,7 +1392,13 @@ window.MLB_DATA = {
         "avg": 0.281,
         "sb": 21,
         "ops": 0.818
-      }
+      },
+      "legendScore": 47.0,
+      "currentScore": 80,
+      "battingScore": 80,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 32801,
@@ -1272,7 +1422,13 @@ window.MLB_DATA = {
         "avg": 0.245,
         "sb": 22,
         "ops": 0.78
-      }
+      },
+      "legendScore": 53.7,
+      "currentScore": 80,
+      "battingScore": 80,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 42470,
@@ -1296,7 +1452,13 @@ window.MLB_DATA = {
         "avg": 0.301,
         "sb": 3,
         "ops": 0.855
-      }
+      },
+      "legendScore": 47.0,
+      "currentScore": 80,
+      "battingScore": 80,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 5080771,
@@ -1320,7 +1482,13 @@ window.MLB_DATA = {
         "avg": 0.258,
         "sb": 10,
         "ops": 0.818
-      }
+      },
+      "legendScore": 44.5,
+      "currentScore": 80,
+      "battingScore": 80,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 39961,
@@ -1344,7 +1512,13 @@ window.MLB_DATA = {
         "avg": 0.257,
         "sb": 0,
         "ops": 0.873
-      }
+      },
+      "legendScore": 51.5,
+      "currentScore": 79,
+      "battingScore": 79,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 30951,
@@ -1368,7 +1542,13 @@ window.MLB_DATA = {
         "avg": 0.259,
         "sb": 4,
         "ops": 0.873
-      }
+      },
+      "legendScore": 73.5,
+      "currentScore": 79,
+      "battingScore": 79,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4301949,
@@ -1392,7 +1572,13 @@ window.MLB_DATA = {
         "avg": 0.282,
         "sb": 5,
         "ops": 0.844
-      }
+      },
+      "legendScore": 48.1,
+      "currentScore": 79,
+      "battingScore": 79,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 36969,
@@ -1416,7 +1602,13 @@ window.MLB_DATA = {
         "avg": 0.293,
         "sb": 6,
         "ops": 0.943
-      }
+      },
+      "legendScore": 70.5,
+      "currentScore": 79,
+      "battingScore": 79,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 1
     },
     {
       "id": 4725251,
@@ -1440,7 +1632,13 @@ window.MLB_DATA = {
         "avg": 0.268,
         "sb": 1,
         "ops": 0.827
-      }
+      },
+      "legendScore": 48.1,
+      "currentScore": 79,
+      "battingScore": 79,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33481,
@@ -1464,7 +1662,13 @@ window.MLB_DATA = {
         "avg": 0.313,
         "sb": 1,
         "ops": 0.917
-      }
+      },
+      "legendScore": 54.0,
+      "currentScore": 79,
+      "battingScore": 79,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4345076,
@@ -1489,6 +1693,12 @@ window.MLB_DATA = {
         "so": 94,
         "whip": 1.08
       },
+      "legendScore": 46.8,
+      "currentScore": 78,
+      "battingScore": null,
+      "pitchingScore": 78,
+      "twoWayBonus": 0,
+      "rings": 0,
       "prevRank": null
     },
     {
@@ -1513,7 +1723,13 @@ window.MLB_DATA = {
         "avg": 0.301,
         "sb": 6,
         "ops": 0.941
-      }
+      },
+      "legendScore": 92.0,
+      "currentScore": 100.0,
+      "battingScore": 78,
+      "pitchingScore": 100,
+      "twoWayBonus": 17.2,
+      "rings": 2
     },
     {
       "id": 4345620,
@@ -1537,7 +1753,13 @@ window.MLB_DATA = {
         "avg": 0.241,
         "sb": 0,
         "ops": 0.831
-      }
+      },
+      "legendScore": 47.0,
+      "currentScore": 77,
+      "battingScore": 77,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 32532,
@@ -1561,7 +1783,13 @@ window.MLB_DATA = {
         "avg": 0.295,
         "sb": 1,
         "ops": 0.918
-      }
+      },
+      "legendScore": 52.9,
+      "currentScore": 77,
+      "battingScore": 77,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 40810,
@@ -1585,7 +1813,13 @@ window.MLB_DATA = {
         "avg": 0.275,
         "sb": 0,
         "ops": 0.855
-      }
+      },
+      "legendScore": 47.3,
+      "currentScore": 76,
+      "battingScore": 76,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 30836,
@@ -1609,7 +1843,13 @@ window.MLB_DATA = {
         "avg": 0.24,
         "sb": 5,
         "ops": 0.89
-      }
+      },
+      "legendScore": 89.4,
+      "currentScore": 76,
+      "battingScore": 76,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41179,
@@ -1633,7 +1873,13 @@ window.MLB_DATA = {
         "avg": 0.28,
         "sb": 11,
         "ops": 0.869
-      }
+      },
+      "legendScore": 45.1,
+      "currentScore": 75,
+      "battingScore": 75,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33912,
@@ -1657,7 +1903,13 @@ window.MLB_DATA = {
         "avg": 0.273,
         "sb": 7,
         "ops": 0.841
-      }
+      },
+      "legendScore": 48.5,
+      "currentScore": 75,
+      "battingScore": 75,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 42823,
@@ -1682,6 +1934,12 @@ window.MLB_DATA = {
         "so": 73,
         "whip": 1.11
       },
+      "legendScore": 47.6,
+      "currentScore": 75,
+      "battingScore": null,
+      "pitchingScore": 75,
+      "twoWayBonus": 0,
+      "rings": 0,
       "prevRank": null
     },
     {
@@ -1707,6 +1965,12 @@ window.MLB_DATA = {
         "so": 74,
         "whip": 1.07
       },
+      "legendScore": 44.3,
+      "currentScore": 75,
+      "battingScore": null,
+      "pitchingScore": 75,
+      "twoWayBonus": 0,
+      "rings": 0,
       "prevRank": null
     },
     {
@@ -1731,7 +1995,13 @@ window.MLB_DATA = {
         "avg": 0.222,
         "sb": 1,
         "ops": 0.788
-      }
+      },
+      "legendScore": 42.9,
+      "currentScore": 74,
+      "battingScore": 74,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 42404,
@@ -1755,7 +2025,13 @@ window.MLB_DATA = {
         "avg": 0.292,
         "sb": 7,
         "ops": 0.937
-      }
+      },
+      "legendScore": 43.7,
+      "currentScore": 74,
+      "battingScore": 74,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4416591,
@@ -1779,7 +2055,13 @@ window.MLB_DATA = {
         "avg": 0.244,
         "sb": 4,
         "ops": 0.816
-      }
+      },
+      "legendScore": 44.6,
+      "currentScore": 74,
+      "battingScore": 74,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 34945,
@@ -1803,7 +2085,13 @@ window.MLB_DATA = {
         "avg": 0.237,
         "sb": 2,
         "ops": 0.843
-      }
+      },
+      "legendScore": 48.7,
+      "currentScore": 74,
+      "battingScore": 74,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41044,
@@ -1827,7 +2115,13 @@ window.MLB_DATA = {
         "avg": 0.256,
         "sb": 5,
         "ops": 0.772
-      }
+      },
+      "legendScore": 43.7,
+      "currentScore": 74,
+      "battingScore": 74,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4905921,
@@ -1851,7 +2145,13 @@ window.MLB_DATA = {
         "avg": 0.278,
         "sb": 0,
         "ops": 0.879
-      }
+      },
+      "legendScore": 41.2,
+      "currentScore": 74,
+      "battingScore": 74,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 35013,
@@ -1875,7 +2175,13 @@ window.MLB_DATA = {
         "avg": 0.269,
         "sb": 4,
         "ops": 0.839
-      }
+      },
+      "legendScore": 47.4,
+      "currentScore": 73,
+      "battingScore": 73,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 37498,
@@ -1899,7 +2205,13 @@ window.MLB_DATA = {
         "avg": 0.246,
         "sb": 2,
         "ops": 0.771
-      }
+      },
+      "legendScore": 47.6,
+      "currentScore": 72,
+      "battingScore": 72,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4717833,
@@ -1923,7 +2235,13 @@ window.MLB_DATA = {
         "avg": 0.246,
         "sb": 13,
         "ops": 0.745
-      }
+      },
+      "legendScore": 41.8,
+      "currentScore": 72,
+      "battingScore": 72,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 36488,
@@ -1947,7 +2265,13 @@ window.MLB_DATA = {
         "avg": 0.28,
         "sb": 17,
         "ops": 0.801
-      }
+      },
+      "legendScore": 47.6,
+      "currentScore": 72,
+      "battingScore": 72,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4345070,
@@ -1971,7 +2295,13 @@ window.MLB_DATA = {
         "avg": 0.287,
         "sb": 2,
         "ops": 0.795
-      }
+      },
+      "legendScore": 43.8,
+      "currentScore": 71,
+      "battingScore": 71,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 40973,
@@ -1996,6 +2326,12 @@ window.MLB_DATA = {
         "so": 85,
         "whip": 1.21
       },
+      "legendScore": 43.8,
+      "currentScore": 71,
+      "battingScore": null,
+      "pitchingScore": 71,
+      "twoWayBonus": 0,
+      "rings": 0,
       "prevRank": null
     },
     {
@@ -2020,7 +2356,13 @@ window.MLB_DATA = {
         "avg": 0.217,
         "sb": 6,
         "ops": 0.696
-      }
+      },
+      "legendScore": 40.7,
+      "currentScore": 70,
+      "battingScore": 70,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 32512,
@@ -2044,7 +2386,13 @@ window.MLB_DATA = {
         "avg": 0.258,
         "sb": 0,
         "ops": 0.776
-      }
+      },
+      "legendScore": 47.4,
+      "currentScore": 70,
+      "battingScore": 70,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4345164,
@@ -2068,7 +2416,13 @@ window.MLB_DATA = {
         "ip": 73.2,
         "so": 81,
         "whip": 1.05
-      }
+      },
+      "legendScore": 43.2,
+      "currentScore": 70,
+      "battingScore": null,
+      "pitchingScore": 70,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 35183,
@@ -2092,7 +2446,13 @@ window.MLB_DATA = {
         "avg": 0.295,
         "sb": 1,
         "ops": 0.856
-      }
+      },
+      "legendScore": 47.4,
+      "currentScore": 70,
+      "battingScore": 70,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 38980,
@@ -2116,7 +2476,13 @@ window.MLB_DATA = {
         "avg": 0.27,
         "sb": 5,
         "ops": 0.82
-      }
+      },
+      "legendScore": 46.0,
+      "currentScore": 69,
+      "battingScore": 69,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 30193,
@@ -2140,7 +2506,13 @@ window.MLB_DATA = {
         "avg": 0.271,
         "sb": 2,
         "ops": 0.816
-      }
+      },
+      "legendScore": 78.0,
+      "currentScore": 69,
+      "battingScore": 69,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 3
     },
     {
       "id": 41610,
@@ -2164,7 +2536,13 @@ window.MLB_DATA = {
         "avg": 0.215,
         "sb": 10,
         "ops": 0.682
-      }
+      },
+      "legendScore": 44.3,
+      "currentScore": 69,
+      "battingScore": 69,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 5134636,
@@ -2188,7 +2566,13 @@ window.MLB_DATA = {
         "avg": 0.225,
         "sb": 0,
         "ops": 0.743
-      }
+      },
+      "legendScore": 44.3,
+      "currentScore": 69,
+      "battingScore": 69,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41917,
@@ -2212,7 +2596,13 @@ window.MLB_DATA = {
         "avg": 0.332,
         "sb": 10,
         "ops": 0.834
-      }
+      },
+      "legendScore": 42.7,
+      "currentScore": 69,
+      "battingScore": 69,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41282,
@@ -2236,7 +2626,13 @@ window.MLB_DATA = {
         "ip": 74.2,
         "so": 81,
         "whip": 1.03
-      }
+      },
+      "legendScore": 41.3,
+      "currentScore": 68,
+      "battingScore": null,
+      "pitchingScore": 68,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33303,
@@ -2260,7 +2656,13 @@ window.MLB_DATA = {
         "avg": 0.254,
         "sb": 0,
         "ops": 0.86
-      }
+      },
+      "legendScore": 48.8,
+      "currentScore": 68,
+      "battingScore": 68,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33783,
@@ -2284,7 +2686,13 @@ window.MLB_DATA = {
         "avg": 0.279,
         "sb": 0,
         "ops": 0.779
-      }
+      },
+      "legendScore": 43.8,
+      "currentScore": 68,
+      "battingScore": 68,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4719507,
@@ -2308,7 +2716,13 @@ window.MLB_DATA = {
         "ip": 70.0,
         "so": 82,
         "whip": 0.91
-      }
+      },
+      "legendScore": 54.0,
+      "currentScore": 68,
+      "battingScore": null,
+      "pitchingScore": 68,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 42497,
@@ -2332,7 +2746,13 @@ window.MLB_DATA = {
         "avg": 0.237,
         "sb": 9,
         "ops": 0.707
-      }
+      },
+      "legendScore": 39.1,
+      "currentScore": 67,
+      "battingScore": 67,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 32675,
@@ -2356,7 +2776,13 @@ window.MLB_DATA = {
         "ip": 72.1,
         "so": 52,
         "whip": 1.19
-      }
+      },
+      "legendScore": 46.6,
+      "currentScore": 67,
+      "battingScore": null,
+      "pitchingScore": 67,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41326,
@@ -2380,7 +2806,13 @@ window.MLB_DATA = {
         "avg": 0.311,
         "sb": 10,
         "ops": 0.864
-      }
+      },
+      "legendScore": 40.7,
+      "currentScore": 67,
+      "battingScore": 67,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4666100,
@@ -2404,7 +2836,13 @@ window.MLB_DATA = {
         "avg": 0.231,
         "sb": 8,
         "ops": 0.767
-      }
+      },
+      "legendScore": 39.9,
+      "currentScore": 67,
+      "battingScore": 67,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4301067,
@@ -2428,7 +2866,13 @@ window.MLB_DATA = {
         "ip": 78.2,
         "so": 67,
         "whip": 1.08
-      }
+      },
+      "legendScore": 41.0,
+      "currentScore": 66,
+      "battingScore": null,
+      "pitchingScore": 66,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 32985,
@@ -2452,7 +2896,13 @@ window.MLB_DATA = {
         "avg": 0.283,
         "sb": 1,
         "ops": 0.754
-      }
+      },
+      "legendScore": 46.9,
+      "currentScore": 66,
+      "battingScore": 66,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 39882,
@@ -2476,7 +2926,13 @@ window.MLB_DATA = {
         "avg": 0.235,
         "sb": 1,
         "ops": 0.706
-      }
+      },
+      "legendScore": 43.5,
+      "currentScore": 66,
+      "battingScore": 66,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4417203,
@@ -2500,7 +2956,13 @@ window.MLB_DATA = {
         "ip": 68.2,
         "so": 44,
         "whip": 1.0
-      }
+      },
+      "legendScore": 39.4,
+      "currentScore": 66,
+      "battingScore": null,
+      "pitchingScore": 66,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 36185,
@@ -2524,7 +2986,13 @@ window.MLB_DATA = {
         "avg": 0.249,
         "sb": 14,
         "ops": 0.804
-      }
+      },
+      "legendScore": 41.9,
+      "currentScore": 66,
+      "battingScore": 66,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 5132011,
@@ -2548,7 +3016,13 @@ window.MLB_DATA = {
         "ip": 64.1,
         "so": 70,
         "whip": 1.2
-      }
+      },
+      "legendScore": 40.2,
+      "currentScore": 66,
+      "battingScore": null,
+      "pitchingScore": 66,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 40803,
@@ -2572,7 +3046,13 @@ window.MLB_DATA = {
         "avg": 0.333,
         "sb": 5,
         "ops": 0.84
-      }
+      },
+      "legendScore": 41.3,
+      "currentScore": 65,
+      "battingScore": 65,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41217,
@@ -2596,7 +3076,13 @@ window.MLB_DATA = {
         "avg": 0.284,
         "sb": 11,
         "ops": 0.765
-      }
+      },
+      "legendScore": 38.8,
+      "currentScore": 65,
+      "battingScore": 65,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4941056,
@@ -2620,7 +3106,13 @@ window.MLB_DATA = {
         "avg": 0.249,
         "sb": 7,
         "ops": 0.757
-      }
+      },
+      "legendScore": 37.2,
+      "currentScore": 65,
+      "battingScore": 65,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41433,
@@ -2644,7 +3136,13 @@ window.MLB_DATA = {
         "avg": 0.238,
         "sb": 15,
         "ops": 0.705
-      }
+      },
+      "legendScore": 41.3,
+      "currentScore": 65,
+      "battingScore": 65,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 42437,
@@ -2668,7 +3166,13 @@ window.MLB_DATA = {
         "avg": 0.307,
         "sb": 1,
         "ops": 0.84
-      }
+      },
+      "legendScore": 41.3,
+      "currentScore": 65,
+      "battingScore": 65,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 42179,
@@ -2692,7 +3196,13 @@ window.MLB_DATA = {
         "avg": 0.311,
         "sb": 1,
         "ops": 0.864
-      }
+      },
+      "legendScore": 38.8,
+      "currentScore": 65,
+      "battingScore": 65,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 5014349,
@@ -2716,7 +3226,13 @@ window.MLB_DATA = {
         "avg": 0.286,
         "sb": 0,
         "ops": 0.816
-      }
+      },
+      "legendScore": 39.7,
+      "currentScore": 65,
+      "battingScore": 65,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4629081,
@@ -2740,7 +3256,13 @@ window.MLB_DATA = {
         "avg": 0.247,
         "sb": 3,
         "ops": 0.71
-      }
+      },
+      "legendScore": 38.3,
+      "currentScore": 64,
+      "battingScore": 64,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 40854,
@@ -2764,7 +3286,13 @@ window.MLB_DATA = {
         "avg": 0.235,
         "sb": 3,
         "ops": 0.656
-      }
+      },
+      "legendScore": 39.9,
+      "currentScore": 64,
+      "battingScore": 64,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 34984,
@@ -2788,7 +3316,13 @@ window.MLB_DATA = {
         "ip": 67.0,
         "so": 66,
         "whip": 1.19
-      }
+      },
+      "legendScore": 40.8,
+      "currentScore": 64,
+      "battingScore": null,
+      "pitchingScore": 64,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33372,
@@ -2812,7 +3346,13 @@ window.MLB_DATA = {
         "ip": 70.2,
         "so": 42,
         "whip": 1.19
-      }
+      },
+      "legendScore": 46.6,
+      "currentScore": 64,
+      "battingScore": null,
+      "pitchingScore": 64,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41219,
@@ -2836,7 +3376,13 @@ window.MLB_DATA = {
         "avg": 0.253,
         "sb": 12,
         "ops": 0.694
-      }
+      },
+      "legendScore": 41.6,
+      "currentScore": 64,
+      "battingScore": 64,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4722857,
@@ -2860,7 +3406,13 @@ window.MLB_DATA = {
         "avg": 0.278,
         "sb": 3,
         "ops": 0.817
-      }
+      },
+      "legendScore": 40.8,
+      "currentScore": 64,
+      "battingScore": 64,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33377,
@@ -2884,7 +3436,13 @@ window.MLB_DATA = {
         "avg": 0.276,
         "sb": 2,
         "ops": 0.785
-      }
+      },
+      "legendScore": 44.9,
+      "currentScore": 64,
+      "battingScore": 64,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4990055,
@@ -2908,7 +3466,13 @@ window.MLB_DATA = {
         "avg": 0.283,
         "sb": 4,
         "ops": 0.781
-      }
+      },
+      "legendScore": 39.1,
+      "currentScore": 64,
+      "battingScore": 64,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4872587,
@@ -2932,7 +3496,13 @@ window.MLB_DATA = {
         "ip": 69.1,
         "so": 69,
         "whip": 1.0
-      }
+      },
+      "legendScore": 39.9,
+      "currentScore": 64,
+      "battingScore": null,
+      "pitchingScore": 64,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4297897,
@@ -2956,7 +3526,13 @@ window.MLB_DATA = {
         "ip": 70.2,
         "so": 70,
         "whip": 0.95
-      }
+      },
+      "legendScore": 39.4,
+      "currentScore": 63,
+      "battingScore": null,
+      "pitchingScore": 63,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 40700,
@@ -2980,7 +3556,13 @@ window.MLB_DATA = {
         "avg": 0.238,
         "sb": 3,
         "ops": 0.806
-      }
+      },
+      "legendScore": 41.9,
+      "currentScore": 63,
+      "battingScore": 63,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 31261,
@@ -3004,7 +3586,13 @@ window.MLB_DATA = {
         "avg": 0.263,
         "sb": 1,
         "ops": 0.795
-      }
+      },
+      "legendScore": 46.1,
+      "currentScore": 63,
+      "battingScore": 63,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 31606,
@@ -3028,7 +3616,13 @@ window.MLB_DATA = {
         "avg": 0.231,
         "sb": 9,
         "ops": 0.662
-      }
+      },
+      "legendScore": 44.4,
+      "currentScore": 63,
+      "battingScore": 63,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4619649,
@@ -3052,7 +3646,13 @@ window.MLB_DATA = {
         "avg": 0.257,
         "sb": 2,
         "ops": 0.751
-      }
+      },
+      "legendScore": 36.4,
+      "currentScore": 62,
+      "battingScore": 62,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 42450,
@@ -3076,7 +3676,13 @@ window.MLB_DATA = {
         "ip": 70.1,
         "so": 79,
         "whip": 0.97
-      }
+      },
+      "legendScore": 40.5,
+      "currentScore": 62,
+      "battingScore": null,
+      "pitchingScore": 62,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 35066,
@@ -3100,7 +3706,13 @@ window.MLB_DATA = {
         "avg": 0.25,
         "sb": 12,
         "ops": 0.663
-      }
+      },
+      "legendScore": 39.7,
+      "currentScore": 62,
+      "battingScore": 62,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 5218285,
@@ -3124,7 +3736,13 @@ window.MLB_DATA = {
         "avg": 0.27,
         "sb": 14,
         "ops": 0.729
-      }
+      },
+      "legendScore": 34.7,
+      "currentScore": 62,
+      "battingScore": 62,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4228472,
@@ -3148,7 +3766,13 @@ window.MLB_DATA = {
         "avg": 0.285,
         "sb": 1,
         "ops": 0.837
-      }
+      },
+      "legendScore": 39.7,
+      "currentScore": 62,
+      "battingScore": 62,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4925604,
@@ -3172,7 +3796,13 @@ window.MLB_DATA = {
         "avg": 0.252,
         "sb": 10,
         "ops": 0.698
-      }
+      },
+      "legendScore": 35.0,
+      "currentScore": 61,
+      "battingScore": 61,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4987382,
@@ -3196,7 +3826,13 @@ window.MLB_DATA = {
         "avg": 0.286,
         "sb": 6,
         "ops": 0.784
-      }
+      },
+      "legendScore": 36.6,
+      "currentScore": 61,
+      "battingScore": 61,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41889,
@@ -3220,7 +3856,13 @@ window.MLB_DATA = {
         "avg": 0.259,
         "sb": 2,
         "ops": 0.798
-      }
+      },
+      "legendScore": 37.5,
+      "currentScore": 61,
+      "battingScore": 61,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 42415,
@@ -3244,7 +3886,13 @@ window.MLB_DATA = {
         "avg": 0.246,
         "sb": 1,
         "ops": 0.767
-      }
+      },
+      "legendScore": 39.1,
+      "currentScore": 61,
+      "battingScore": 61,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 39895,
@@ -3268,7 +3916,13 @@ window.MLB_DATA = {
         "avg": 0.285,
         "sb": 1,
         "ops": 0.731
-      }
+      },
+      "legendScore": 39.1,
+      "currentScore": 61,
+      "battingScore": 61,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4629089,
@@ -3292,7 +3946,13 @@ window.MLB_DATA = {
         "ip": 70.2,
         "so": 68,
         "whip": 0.96
-      }
+      },
+      "legendScore": 36.9,
+      "currentScore": 60,
+      "battingScore": null,
+      "pitchingScore": 60,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4917889,
@@ -3316,7 +3976,13 @@ window.MLB_DATA = {
         "avg": 0.25,
         "sb": 4,
         "ops": 0.707
-      }
+      },
+      "legendScore": 34.4,
+      "currentScore": 60,
+      "battingScore": 60,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33773,
@@ -3340,7 +4006,13 @@ window.MLB_DATA = {
         "ip": 67.0,
         "so": 65,
         "whip": 1.15
-      }
+      },
+      "legendScore": 40.3,
+      "currentScore": 60,
+      "battingScore": null,
+      "pitchingScore": 60,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4414210,
@@ -3364,7 +4036,13 @@ window.MLB_DATA = {
         "avg": 0.236,
         "sb": 4,
         "ops": 0.68
-      }
+      },
+      "legendScore": 36.9,
+      "currentScore": 60,
+      "battingScore": 60,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 32558,
@@ -3388,7 +4066,13 @@ window.MLB_DATA = {
         "avg": 0.22,
         "sb": 0,
         "ops": 0.702
-      }
+      },
+      "legendScore": 43.6,
+      "currentScore": 60,
+      "battingScore": 60,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 34982,
@@ -3412,7 +4096,13 @@ window.MLB_DATA = {
         "avg": 0.204,
         "sb": 4,
         "ops": 0.632
-      }
+      },
+      "legendScore": 38.9,
+      "currentScore": 59,
+      "battingScore": 59,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 42417,
@@ -3436,7 +4126,13 @@ window.MLB_DATA = {
         "avg": 0.221,
         "sb": 10,
         "ops": 0.647
-      }
+      },
+      "legendScore": 38.0,
+      "currentScore": 59,
+      "battingScore": 59,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4863321,
@@ -3460,7 +4156,13 @@ window.MLB_DATA = {
         "ip": 66.1,
         "so": 63,
         "whip": 1.18
-      }
+      },
+      "legendScore": 34.7,
+      "currentScore": 59,
+      "battingScore": null,
+      "pitchingScore": 59,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33210,
@@ -3484,7 +4186,13 @@ window.MLB_DATA = {
         "avg": 0.224,
         "sb": 1,
         "ops": 0.757
-      }
+      },
+      "legendScore": 40.5,
+      "currentScore": 59,
+      "battingScore": 59,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 32796,
@@ -3508,7 +4216,13 @@ window.MLB_DATA = {
         "ip": 64.2,
         "so": 78,
         "whip": 1.01
-      }
+      },
+      "legendScore": 45.5,
+      "currentScore": 59,
+      "battingScore": null,
+      "pitchingScore": 59,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 32667,
@@ -3532,7 +4246,13 @@ window.MLB_DATA = {
         "ip": 75.0,
         "so": 74,
         "whip": 1.09
-      }
+      },
+      "legendScore": 43.9,
+      "currentScore": 59,
+      "battingScore": null,
+      "pitchingScore": 59,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 5149072,
@@ -3556,7 +4276,13 @@ window.MLB_DATA = {
         "avg": 0.288,
         "sb": 9,
         "ops": 0.802
-      }
+      },
+      "legendScore": 33.0,
+      "currentScore": 59,
+      "battingScore": 59,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 39572,
@@ -3580,7 +4306,13 @@ window.MLB_DATA = {
         "avg": 0.325,
         "sb": 5,
         "ops": 0.8
-      }
+      },
+      "legendScore": 38.9,
+      "currentScore": 59,
+      "battingScore": 59,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33710,
@@ -3604,7 +4336,13 @@ window.MLB_DATA = {
         "avg": 0.228,
         "sb": 12,
         "ops": 0.624
-      }
+      },
+      "legendScore": 41.4,
+      "currentScore": 59,
+      "battingScore": 59,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 34995,
@@ -3628,7 +4366,13 @@ window.MLB_DATA = {
         "avg": 0.212,
         "sb": 4,
         "ops": 0.709
-      }
+      },
+      "legendScore": 38.9,
+      "currentScore": 59,
+      "battingScore": 59,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4346111,
@@ -3652,7 +4396,13 @@ window.MLB_DATA = {
         "avg": 0.32,
         "sb": 3,
         "ops": 0.813
-      }
+      },
+      "legendScore": 38.0,
+      "currentScore": 59,
+      "battingScore": 59,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4686066,
@@ -3676,7 +4426,13 @@ window.MLB_DATA = {
         "avg": 0.231,
         "sb": 1,
         "ops": 0.75
-      }
+      },
+      "legendScore": 34.7,
+      "currentScore": 59,
+      "battingScore": 59,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33675,
@@ -3700,7 +4456,13 @@ window.MLB_DATA = {
         "avg": 0.244,
         "sb": 1,
         "ops": 0.718
-      }
+      },
+      "legendScore": 39.7,
+      "currentScore": 59,
+      "battingScore": 59,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41287,
@@ -3724,7 +4486,13 @@ window.MLB_DATA = {
         "avg": 0.308,
         "sb": 2,
         "ops": 0.779
-      }
+      },
+      "legendScore": 39.2,
+      "currentScore": 58,
+      "battingScore": 58,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 39825,
@@ -3748,7 +4516,13 @@ window.MLB_DATA = {
         "ip": 72.0,
         "so": 74,
         "whip": 1.31
-      }
+      },
+      "legendScore": 39.2,
+      "currentScore": 58,
+      "battingScore": null,
+      "pitchingScore": 58,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 39706,
@@ -3772,7 +4546,13 @@ window.MLB_DATA = {
         "avg": 0.238,
         "sb": 0,
         "ops": 0.731
-      }
+      },
+      "legendScore": 36.7,
+      "currentScore": 58,
+      "battingScore": 58,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4414002,
@@ -3796,7 +4576,13 @@ window.MLB_DATA = {
         "ip": 65.2,
         "so": 60,
         "whip": 1.08
-      }
+      },
+      "legendScore": 36.7,
+      "currentScore": 58,
+      "battingScore": null,
+      "pitchingScore": 58,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 34967,
@@ -3820,7 +4606,13 @@ window.MLB_DATA = {
         "avg": 0.243,
         "sb": 4,
         "ops": 0.735
-      }
+      },
+      "legendScore": 38.3,
+      "currentScore": 58,
+      "battingScore": 58,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 40459,
@@ -3844,7 +4636,13 @@ window.MLB_DATA = {
         "avg": 0.261,
         "sb": 2,
         "ops": 0.715
-      }
+      },
+      "legendScore": 35.8,
+      "currentScore": 58,
+      "battingScore": 58,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 31097,
@@ -3868,7 +4666,13 @@ window.MLB_DATA = {
         "avg": 0.174,
         "sb": 1,
         "ops": 0.619
-      }
+      },
+      "legendScore": 41.7,
+      "currentScore": 58,
+      "battingScore": 58,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 40429,
@@ -3892,7 +4696,13 @@ window.MLB_DATA = {
         "ip": 68.0,
         "so": 65,
         "whip": 1.13
-      }
+      },
+      "legendScore": 40.0,
+      "currentScore": 58,
+      "battingScore": null,
+      "pitchingScore": 58,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 32640,
@@ -3916,7 +4726,13 @@ window.MLB_DATA = {
         "ip": 75.1,
         "so": 65,
         "whip": 1.11
-      }
+      },
+      "legendScore": 42.5,
+      "currentScore": 58,
+      "battingScore": null,
+      "pitchingScore": 58,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 31174,
@@ -3940,7 +4756,13 @@ window.MLB_DATA = {
         "ip": 74.2,
         "so": 74,
         "whip": 1.18
-      }
+      },
+      "legendScore": 44.2,
+      "currentScore": 58,
+      "battingScore": null,
+      "pitchingScore": 58,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4311634,
@@ -3964,7 +4786,13 @@ window.MLB_DATA = {
         "avg": 0.313,
         "sb": 3,
         "ops": 0.754
-      }
+      },
+      "legendScore": 36.7,
+      "currentScore": 58,
+      "battingScore": 58,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 35002,
@@ -3988,7 +4816,13 @@ window.MLB_DATA = {
         "avg": 0.3,
         "sb": 5,
         "ops": 0.782
-      }
+      },
+      "legendScore": 36.7,
+      "currentScore": 58,
+      "battingScore": 58,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41221,
@@ -4012,7 +4846,13 @@ window.MLB_DATA = {
         "ip": 73.2,
         "so": 77,
         "whip": 1.1
-      }
+      },
+      "legendScore": 37.8,
+      "currentScore": 57,
+      "battingScore": null,
+      "pitchingScore": 57,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 35304,
@@ -4036,7 +4876,13 @@ window.MLB_DATA = {
         "avg": 0.255,
         "sb": 0,
         "ops": 0.71
-      }
+      },
+      "legendScore": 39.5,
+      "currentScore": 57,
+      "battingScore": 57,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33859,
@@ -4060,7 +4906,13 @@ window.MLB_DATA = {
         "avg": 0.24,
         "sb": 0,
         "ops": 0.7
-      }
+      },
+      "legendScore": 37.8,
+      "currentScore": 57,
+      "battingScore": 57,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 37729,
@@ -4084,7 +4936,13 @@ window.MLB_DATA = {
         "avg": 0.211,
         "sb": 7,
         "ops": 0.604
-      }
+      },
+      "legendScore": 35.6,
+      "currentScore": 56,
+      "battingScore": 56,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 34986,
@@ -4108,7 +4966,13 @@ window.MLB_DATA = {
         "avg": 0.24,
         "sb": 1,
         "ops": 0.711
-      }
+      },
+      "legendScore": 38.9,
+      "currentScore": 56,
+      "battingScore": 56,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 32159,
@@ -4132,7 +4996,13 @@ window.MLB_DATA = {
         "avg": 0.253,
         "sb": 2,
         "ops": 0.734
-      }
+      },
+      "legendScore": 40.6,
+      "currentScore": 56,
+      "battingScore": 56,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 5080766,
@@ -4156,7 +5026,13 @@ window.MLB_DATA = {
         "avg": 0.216,
         "sb": 8,
         "ops": 0.658
-      }
+      },
+      "legendScore": 32.2,
+      "currentScore": 56,
+      "battingScore": 56,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4872691,
@@ -4180,7 +5056,13 @@ window.MLB_DATA = {
         "avg": 0.207,
         "sb": 10,
         "ops": 0.621
-      }
+      },
+      "legendScore": 32.2,
+      "currentScore": 56,
+      "battingScore": 56,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4345404,
@@ -4204,7 +5086,13 @@ window.MLB_DATA = {
         "ip": 64.0,
         "so": 72,
         "whip": 1.31
-      }
+      },
+      "legendScore": 35.6,
+      "currentScore": 56,
+      "battingScore": null,
+      "pitchingScore": 56,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4722847,
@@ -4228,7 +5116,13 @@ window.MLB_DATA = {
         "ip": 65.1,
         "so": 50,
         "whip": 1.22
-      }
+      },
+      "legendScore": 35.6,
+      "currentScore": 56,
+      "battingScore": null,
+      "pitchingScore": 56,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4109034,
@@ -4252,7 +5146,13 @@ window.MLB_DATA = {
         "ip": 63.2,
         "so": 51,
         "whip": 1.3
-      }
+      },
+      "legendScore": 35.0,
+      "currentScore": 55,
+      "battingScore": null,
+      "pitchingScore": 55,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 5080641,
@@ -4276,7 +5176,13 @@ window.MLB_DATA = {
         "avg": 0.25,
         "sb": 2,
         "ops": 0.682
-      }
+      },
+      "legendScore": 30.9,
+      "currentScore": 55,
+      "battingScore": 55,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 42584,
@@ -4300,7 +5206,13 @@ window.MLB_DATA = {
         "ip": 59.0,
         "so": 55,
         "whip": 1.02
-      }
+      },
+      "legendScore": 37.5,
+      "currentScore": 55,
+      "battingScore": null,
+      "pitchingScore": 55,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4313442,
@@ -4324,7 +5236,13 @@ window.MLB_DATA = {
         "avg": 0.234,
         "sb": 6,
         "ops": 0.727
-      }
+      },
+      "legendScore": 35.0,
+      "currentScore": 55,
+      "battingScore": 55,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 42406,
@@ -4348,7 +5266,13 @@ window.MLB_DATA = {
         "ip": 78.0,
         "so": 64,
         "whip": 1.28
-      }
+      },
+      "legendScore": 35.9,
+      "currentScore": 55,
+      "battingScore": null,
+      "pitchingScore": 55,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 5134621,
@@ -4372,7 +5296,13 @@ window.MLB_DATA = {
         "avg": 0.322,
         "sb": 0,
         "ops": 0.803
-      }
+      },
+      "legendScore": 35.0,
+      "currentScore": 55,
+      "battingScore": 55,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 34895,
@@ -4396,7 +5326,13 @@ window.MLB_DATA = {
         "avg": 0.184,
         "sb": 5,
         "ops": 0.618
-      }
+      },
+      "legendScore": 38.7,
+      "currentScore": 54,
+      "battingScore": 54,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 35983,
@@ -4420,7 +5356,13 @@ window.MLB_DATA = {
         "avg": 0.27,
         "sb": 14,
         "ops": 0.663
-      }
+      },
+      "legendScore": 34.5,
+      "currentScore": 54,
+      "battingScore": 54,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 39667,
@@ -4444,7 +5386,13 @@ window.MLB_DATA = {
         "ip": 67.0,
         "so": 78,
         "whip": 1.31
-      }
+      },
+      "legendScore": 35.3,
+      "currentScore": 54,
+      "battingScore": null,
+      "pitchingScore": 54,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 32517,
@@ -4468,7 +5416,13 @@ window.MLB_DATA = {
         "avg": 0.227,
         "sb": 1,
         "ops": 0.635
-      }
+      },
+      "legendScore": 39.5,
+      "currentScore": 54,
+      "battingScore": 54,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 35142,
@@ -4492,7 +5446,13 @@ window.MLB_DATA = {
         "avg": 0.203,
         "sb": 7,
         "ops": 0.66
-      }
+      },
+      "legendScore": 37.8,
+      "currentScore": 54,
+      "battingScore": 54,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 31127,
@@ -4516,7 +5476,13 @@ window.MLB_DATA = {
         "avg": 0.208,
         "sb": 0,
         "ops": 0.609
-      }
+      },
+      "legendScore": 42.0,
+      "currentScore": 54,
+      "battingScore": 54,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4142424,
@@ -4540,7 +5506,13 @@ window.MLB_DATA = {
         "avg": 0.243,
         "sb": 0,
         "ops": 0.73
-      }
+      },
+      "legendScore": 37.8,
+      "currentScore": 54,
+      "battingScore": 54,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4308037,
@@ -4564,7 +5536,13 @@ window.MLB_DATA = {
         "ip": 64.2,
         "so": 74,
         "whip": 1.42
-      }
+      },
+      "legendScore": 33.9,
+      "currentScore": 53,
+      "battingScore": null,
+      "pitchingScore": 53,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4917812,
@@ -4588,7 +5566,13 @@ window.MLB_DATA = {
         "avg": 0.214,
         "sb": 0,
         "ops": 0.667
-      }
+      },
+      "legendScore": 29.8,
+      "currentScore": 53,
+      "battingScore": 53,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 5136929,
@@ -4612,7 +5596,13 @@ window.MLB_DATA = {
         "avg": 0.272,
         "sb": 1,
         "ops": 0.743
-      }
+      },
+      "legendScore": 31.4,
+      "currentScore": 53,
+      "battingScore": 53,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 40963,
@@ -4636,7 +5626,13 @@ window.MLB_DATA = {
         "avg": 0.257,
         "sb": 4,
         "ops": 0.741
-      }
+      },
+      "legendScore": 35.6,
+      "currentScore": 53,
+      "battingScore": 53,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 39636,
@@ -4660,7 +5656,13 @@ window.MLB_DATA = {
         "ip": 66.0,
         "so": 70,
         "whip": 1.29
-      }
+      },
+      "legendScore": 33.9,
+      "currentScore": 53,
+      "battingScore": null,
+      "pitchingScore": 53,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4433874,
@@ -4684,7 +5686,13 @@ window.MLB_DATA = {
         "ip": 66.1,
         "so": 77,
         "whip": 1.12
-      }
+      },
+      "legendScore": 31.4,
+      "currentScore": 53,
+      "battingScore": null,
+      "pitchingScore": 53,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41178,
@@ -4708,7 +5716,13 @@ window.MLB_DATA = {
         "ip": 64.0,
         "so": 75,
         "whip": 1.14
-      }
+      },
+      "legendScore": 33.1,
+      "currentScore": 53,
+      "battingScore": null,
+      "pitchingScore": 53,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 5134630,
@@ -4732,7 +5746,13 @@ window.MLB_DATA = {
         "ip": 76.0,
         "so": 74,
         "whip": 1.08
-      }
+      },
+      "legendScore": 38.1,
+      "currentScore": 53,
+      "battingScore": null,
+      "pitchingScore": 53,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4424286,
@@ -4756,7 +5776,13 @@ window.MLB_DATA = {
         "avg": 0.214,
         "sb": 0,
         "ops": 0.715
-      }
+      },
+      "legendScore": 33.1,
+      "currentScore": 53,
+      "battingScore": 53,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4109109,
@@ -4780,7 +5806,13 @@ window.MLB_DATA = {
         "avg": 0.21,
         "sb": 2,
         "ops": 0.64
-      }
+      },
+      "legendScore": 34.8,
+      "currentScore": 53,
+      "battingScore": 53,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 38309,
@@ -4804,7 +5836,13 @@ window.MLB_DATA = {
         "avg": 0.251,
         "sb": 0,
         "ops": 0.724
-      }
+      },
+      "legendScore": 37.3,
+      "currentScore": 53,
+      "battingScore": 53,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 3107919,
@@ -4828,7 +5866,13 @@ window.MLB_DATA = {
         "ip": 66.2,
         "so": 46,
         "whip": 1.22
-      }
+      },
+      "legendScore": 35.9,
+      "currentScore": 52,
+      "battingScore": null,
+      "pitchingScore": 52,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 38904,
@@ -4852,7 +5896,13 @@ window.MLB_DATA = {
         "avg": 0.226,
         "sb": 1,
         "ops": 0.591
-      }
+      },
+      "legendScore": 34.2,
+      "currentScore": 52,
+      "battingScore": 52,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41355,
@@ -4876,7 +5926,13 @@ window.MLB_DATA = {
         "avg": 0.23,
         "sb": 8,
         "ops": 0.681
-      }
+      },
+      "legendScore": 32.6,
+      "currentScore": 52,
+      "battingScore": 52,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4311625,
@@ -4900,7 +5956,13 @@ window.MLB_DATA = {
         "ip": 65.1,
         "so": 65,
         "whip": 1.42
-      }
+      },
+      "legendScore": 35.1,
+      "currentScore": 52,
+      "battingScore": null,
+      "pitchingScore": 52,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4905884,
@@ -4924,7 +5986,13 @@ window.MLB_DATA = {
         "avg": 0.268,
         "sb": 4,
         "ops": 0.712
-      }
+      },
+      "legendScore": 32.6,
+      "currentScore": 52,
+      "battingScore": 52,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 32146,
@@ -4948,7 +6016,13 @@ window.MLB_DATA = {
         "avg": 0.22,
         "sb": 5,
         "ops": 0.608
-      }
+      },
+      "legendScore": 40.1,
+      "currentScore": 52,
+      "battingScore": 52,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41034,
@@ -4972,7 +6046,13 @@ window.MLB_DATA = {
         "avg": 0.219,
         "sb": 0,
         "ops": 0.633
-      }
+      },
+      "legendScore": 32.6,
+      "currentScore": 52,
+      "battingScore": 52,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4424141,
@@ -4996,7 +6076,13 @@ window.MLB_DATA = {
         "ip": 66.1,
         "so": 44,
         "whip": 1.1
-      }
+      },
+      "legendScore": 31.7,
+      "currentScore": 52,
+      "battingScore": null,
+      "pitchingScore": 52,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33722,
@@ -5020,7 +6106,13 @@ window.MLB_DATA = {
         "ip": 68.1,
         "so": 51,
         "whip": 1.17
-      }
+      },
+      "legendScore": 35.9,
+      "currentScore": 52,
+      "battingScore": null,
+      "pitchingScore": 52,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 34886,
@@ -5044,7 +6136,13 @@ window.MLB_DATA = {
         "avg": 0.255,
         "sb": 2,
         "ops": 0.694
-      }
+      },
+      "legendScore": 37.0,
+      "currentScore": 51,
+      "battingScore": 51,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33840,
@@ -5068,7 +6166,13 @@ window.MLB_DATA = {
         "ip": 63.0,
         "so": 57,
         "whip": 1.32
-      }
+      },
+      "legendScore": 35.3,
+      "currentScore": 51,
+      "battingScore": null,
+      "pitchingScore": 51,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4622181,
@@ -5092,7 +6196,13 @@ window.MLB_DATA = {
         "ip": 66.1,
         "so": 74,
         "whip": 1.33
-      }
+      },
+      "legendScore": 32.0,
+      "currentScore": 51,
+      "battingScore": null,
+      "pitchingScore": 51,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4866735,
@@ -5116,7 +6226,13 @@ window.MLB_DATA = {
         "avg": 0.199,
         "sb": 15,
         "ops": 0.627
-      }
+      },
+      "legendScore": 30.3,
+      "currentScore": 51,
+      "battingScore": 51,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33743,
@@ -5140,7 +6256,13 @@ window.MLB_DATA = {
         "avg": 0.258,
         "sb": 2,
         "ops": 0.718
-      }
+      },
+      "legendScore": 36.2,
+      "currentScore": 51,
+      "battingScore": 51,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41174,
@@ -5164,7 +6286,13 @@ window.MLB_DATA = {
         "avg": 0.204,
         "sb": 0,
         "ops": 0.621
-      }
+      },
+      "legendScore": 32.0,
+      "currentScore": 51,
+      "battingScore": 51,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4739755,
@@ -5188,7 +6316,13 @@ window.MLB_DATA = {
         "avg": 0.262,
         "sb": 0,
         "ops": 0.7
-      }
+      },
+      "legendScore": 30.3,
+      "currentScore": 51,
+      "battingScore": 51,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 34230,
@@ -5212,7 +6346,13 @@ window.MLB_DATA = {
         "avg": 0.256,
         "sb": 4,
         "ops": 0.684
-      }
+      },
+      "legendScore": 34.5,
+      "currentScore": 51,
+      "battingScore": 51,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4297998,
@@ -5236,7 +6376,13 @@ window.MLB_DATA = {
         "avg": 0.251,
         "sb": 8,
         "ops": 0.69
-      }
+      },
+      "legendScore": 32.3,
+      "currentScore": 50,
+      "battingScore": 50,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4679983,
@@ -5260,7 +6406,13 @@ window.MLB_DATA = {
         "avg": 0.278,
         "sb": 14,
         "ops": 0.642
-      }
+      },
+      "legendScore": 30.6,
+      "currentScore": 50,
+      "battingScore": 50,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33950,
@@ -5284,7 +6436,13 @@ window.MLB_DATA = {
         "ip": 64.2,
         "so": 52,
         "whip": 1.35
-      }
+      },
+      "legendScore": 39.0,
+      "currentScore": 50,
+      "battingScore": null,
+      "pitchingScore": 50,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4977664,
@@ -5308,7 +6466,13 @@ window.MLB_DATA = {
         "avg": 0.245,
         "sb": 10,
         "ops": 0.637
-      }
+      },
+      "legendScore": 29.0,
+      "currentScore": 50,
+      "battingScore": 50,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4422899,
@@ -5332,7 +6496,13 @@ window.MLB_DATA = {
         "avg": 0.198,
         "sb": 7,
         "ops": 0.617
-      }
+      },
+      "legendScore": 31.5,
+      "currentScore": 50,
+      "battingScore": 50,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4326697,
@@ -5356,7 +6526,13 @@ window.MLB_DATA = {
         "ip": 68.0,
         "so": 82,
         "whip": 1.18
-      }
+      },
+      "legendScore": 31.5,
+      "currentScore": 50,
+      "battingScore": null,
+      "pitchingScore": 50,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 35241,
@@ -5380,7 +6556,13 @@ window.MLB_DATA = {
         "ip": 82.1,
         "so": 57,
         "whip": 1.3
-      }
+      },
+      "legendScore": 34.8,
+      "currentScore": 50,
+      "battingScore": null,
+      "pitchingScore": 50,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41169,
@@ -5404,7 +6586,13 @@ window.MLB_DATA = {
         "avg": 0.212,
         "sb": 0,
         "ops": 0.601
-      }
+      },
+      "legendScore": 33.4,
+      "currentScore": 49,
+      "battingScore": 49,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4917921,
@@ -5428,7 +6616,13 @@ window.MLB_DATA = {
         "avg": 0.171,
         "sb": 9,
         "ops": 0.623
-      }
+      },
+      "legendScore": 28.4,
+      "currentScore": 49,
+      "battingScore": 49,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4926296,
@@ -5452,7 +6646,13 @@ window.MLB_DATA = {
         "avg": 0.245,
         "sb": 2,
         "ops": 0.715
-      }
+      },
+      "legendScore": 28.4,
+      "currentScore": 49,
+      "battingScore": 49,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4728688,
@@ -5476,7 +6676,13 @@ window.MLB_DATA = {
         "avg": 0.191,
         "sb": 22,
         "ops": 0.498
-      }
+      },
+      "legendScore": 30.1,
+      "currentScore": 49,
+      "battingScore": 49,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4142423,
@@ -5500,7 +6706,13 @@ window.MLB_DATA = {
         "ip": 63.1,
         "so": 36,
         "whip": 1.26
-      }
+      },
+      "legendScore": 39.3,
+      "currentScore": 49,
+      "battingScore": null,
+      "pitchingScore": 49,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4414528,
@@ -5524,7 +6736,13 @@ window.MLB_DATA = {
         "ip": 68.2,
         "so": 47,
         "whip": 1.44
-      }
+      },
+      "legendScore": 31.2,
+      "currentScore": 48,
+      "battingScore": null,
+      "pitchingScore": 48,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 35397,
@@ -5548,7 +6766,13 @@ window.MLB_DATA = {
         "ip": 70.0,
         "so": 60,
         "whip": 1.24
-      }
+      },
+      "legendScore": 36.2,
+      "currentScore": 48,
+      "battingScore": null,
+      "pitchingScore": 48,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4867679,
@@ -5572,7 +6796,13 @@ window.MLB_DATA = {
         "ip": 65.1,
         "so": 60,
         "whip": 1.13
-      }
+      },
+      "legendScore": 30.4,
+      "currentScore": 48,
+      "battingScore": null,
+      "pitchingScore": 48,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 34873,
@@ -5596,7 +6826,13 @@ window.MLB_DATA = {
         "ip": 76.0,
         "so": 64,
         "whip": 1.36
-      }
+      },
+      "legendScore": 38.7,
+      "currentScore": 48,
+      "battingScore": null,
+      "pitchingScore": 48,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 39639,
@@ -5620,7 +6856,13 @@ window.MLB_DATA = {
         "ip": 71.1,
         "so": 63,
         "whip": 1.37
-      }
+      },
+      "legendScore": 30.4,
+      "currentScore": 48,
+      "battingScore": null,
+      "pitchingScore": 48,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 34923,
@@ -5644,7 +6886,13 @@ window.MLB_DATA = {
         "avg": 0.26,
         "sb": 2,
         "ops": 0.76
-      }
+      },
+      "legendScore": 35.4,
+      "currentScore": 48,
+      "battingScore": 48,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 35578,
@@ -5668,7 +6916,13 @@ window.MLB_DATA = {
         "avg": 0.186,
         "sb": 10,
         "ops": 0.556
-      }
+      },
+      "legendScore": 34.0,
+      "currentScore": 47,
+      "battingScore": 47,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 40937,
@@ -5692,7 +6946,13 @@ window.MLB_DATA = {
         "ip": 66.2,
         "so": 60,
         "whip": 1.29
-      }
+      },
+      "legendScore": 31.5,
+      "currentScore": 47,
+      "battingScore": null,
+      "pitchingScore": 47,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4683365,
@@ -5716,7 +6976,13 @@ window.MLB_DATA = {
         "avg": 0.234,
         "sb": 5,
         "ops": 0.633
-      }
+      },
+      "legendScore": 28.2,
+      "currentScore": 47,
+      "battingScore": 47,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 42414,
@@ -5740,7 +7006,13 @@ window.MLB_DATA = {
         "avg": 0.227,
         "sb": 2,
         "ops": 0.626
-      }
+      },
+      "legendScore": 29.3,
+      "currentScore": 46,
+      "battingScore": 46,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4417606,
@@ -5764,7 +7036,13 @@ window.MLB_DATA = {
         "avg": 0.207,
         "sb": 6,
         "ops": 0.649
-      }
+      },
+      "legendScore": 28.4,
+      "currentScore": 46,
+      "battingScore": 46,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4905919,
@@ -5788,7 +7066,13 @@ window.MLB_DATA = {
         "avg": 0.212,
         "sb": 4,
         "ops": 0.583
-      }
+      },
+      "legendScore": 27.6,
+      "currentScore": 46,
+      "battingScore": 46,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33263,
@@ -5812,7 +7096,13 @@ window.MLB_DATA = {
         "ip": 62.2,
         "so": 65,
         "whip": 1.47
-      }
+      },
+      "legendScore": 34.3,
+      "currentScore": 46,
+      "battingScore": null,
+      "pitchingScore": 46,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41173,
@@ -5836,7 +7126,13 @@ window.MLB_DATA = {
         "ip": 62.0,
         "so": 57,
         "whip": 1.5
-      }
+      },
+      "legendScore": 29.3,
+      "currentScore": 46,
+      "battingScore": null,
+      "pitchingScore": 46,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4417795,
@@ -5860,7 +7156,13 @@ window.MLB_DATA = {
         "avg": 0.223,
         "sb": 4,
         "ops": 0.599
-      }
+      },
+      "legendScore": 29.3,
+      "currentScore": 46,
+      "battingScore": 46,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 35537,
@@ -5884,7 +7186,13 @@ window.MLB_DATA = {
         "avg": 0.196,
         "sb": 3,
         "ops": 0.591
-      }
+      },
+      "legendScore": 34.0,
+      "currentScore": 44,
+      "battingScore": 44,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 36581,
@@ -5908,7 +7216,13 @@ window.MLB_DATA = {
         "ip": 67.2,
         "so": 54,
         "whip": 1.32
-      }
+      },
+      "legendScore": 33.2,
+      "currentScore": 44,
+      "battingScore": null,
+      "pitchingScore": 44,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 5080642,
@@ -5932,7 +7246,13 @@ window.MLB_DATA = {
         "avg": 0.232,
         "sb": 8,
         "ops": 0.634
-      }
+      },
+      "legendScore": 24.9,
+      "currentScore": 44,
+      "battingScore": 44,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33857,
@@ -5956,7 +7276,13 @@ window.MLB_DATA = {
         "avg": 0.235,
         "sb": 0,
         "ops": 0.652
-      }
+      },
+      "legendScore": 34.0,
+      "currentScore": 44,
+      "battingScore": 44,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4916269,
@@ -5980,7 +7306,13 @@ window.MLB_DATA = {
         "ip": 72.1,
         "so": 55,
         "whip": 1.18
-      }
+      },
+      "legendScore": 29.9,
+      "currentScore": 44,
+      "battingScore": null,
+      "pitchingScore": 44,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41462,
@@ -6004,7 +7336,13 @@ window.MLB_DATA = {
         "ip": 67.2,
         "so": 54,
         "whip": 1.43
-      }
+      },
+      "legendScore": 28.2,
+      "currentScore": 44,
+      "battingScore": null,
+      "pitchingScore": 44,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 42959,
@@ -6028,7 +7366,13 @@ window.MLB_DATA = {
         "avg": 0.214,
         "sb": 3,
         "ops": 0.64
-      }
+      },
+      "legendScore": 29.3,
+      "currentScore": 43,
+      "battingScore": 43,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4918155,
@@ -6052,7 +7396,13 @@ window.MLB_DATA = {
         "ip": 68.1,
         "so": 57,
         "whip": 1.54
-      }
+      },
+      "legendScore": 27.6,
+      "currentScore": 43,
+      "battingScore": null,
+      "pitchingScore": 43,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 5007615,
@@ -6076,7 +7426,13 @@ window.MLB_DATA = {
         "avg": 0.194,
         "sb": 5,
         "ops": 0.554
-      }
+      },
+      "legendScore": 27.1,
+      "currentScore": 42,
+      "battingScore": 42,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 31258,
@@ -6100,7 +7456,13 @@ window.MLB_DATA = {
         "ip": 66.2,
         "so": 57,
         "whip": 1.26
-      }
+      },
+      "legendScore": 33.8,
+      "currentScore": 42,
+      "battingScore": null,
+      "pitchingScore": 42,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 33900,
@@ -6124,7 +7486,13 @@ window.MLB_DATA = {
         "avg": 0.247,
         "sb": 1,
         "ops": 0.642
-      }
+      },
+      "legendScore": 33.8,
+      "currentScore": 42,
+      "battingScore": 42,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 5203102,
@@ -6148,7 +7516,13 @@ window.MLB_DATA = {
         "avg": 0.218,
         "sb": 2,
         "ops": 0.642
-      }
+      },
+      "legendScore": 24.6,
+      "currentScore": 42,
+      "battingScore": 42,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 39910,
@@ -6172,7 +7546,13 @@ window.MLB_DATA = {
         "ip": 64.1,
         "so": 43,
         "whip": 1.52
-      }
+      },
+      "legendScore": 29.3,
+      "currentScore": 40,
+      "battingScore": null,
+      "pitchingScore": 40,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4917819,
@@ -6196,7 +7576,13 @@ window.MLB_DATA = {
         "ip": 63.2,
         "so": 46,
         "whip": 1.48
-      }
+      },
+      "legendScore": 24.6,
+      "currentScore": 39,
+      "battingScore": null,
+      "pitchingScore": 39,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4345278,
@@ -6220,7 +7606,13 @@ window.MLB_DATA = {
         "ip": 69.0,
         "so": 60,
         "whip": 1.3
-      }
+      },
+      "legendScore": 26.3,
+      "currentScore": 39,
+      "battingScore": null,
+      "pitchingScore": 39,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 4720856,
@@ -6244,7 +7636,13 @@ window.MLB_DATA = {
         "ip": 61.0,
         "so": 44,
         "whip": 1.67
-      }
+      },
+      "legendScore": 24.1,
+      "currentScore": 35,
+      "battingScore": null,
+      "pitchingScore": 35,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 37237,
@@ -6268,7 +7666,13 @@ window.MLB_DATA = {
         "avg": 0.204,
         "sb": 3,
         "ops": 0.527
-      }
+      },
+      "legendScore": 25.8,
+      "currentScore": 35,
+      "battingScore": 35,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 41996,
@@ -6292,7 +7696,13 @@ window.MLB_DATA = {
         "avg": 0.206,
         "sb": 2,
         "ops": 0.577
-      }
+      },
+      "legendScore": 24.9,
+      "currentScore": 35,
+      "battingScore": 35,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     }
   ],
   "BRACKET": {
@@ -6612,20 +8022,135 @@ window.MLB_DATA = {
     "teamThreshold": 89.5,
     "players": [
       {
-        "id": 660271,
+        "id": 39832,
         "name": "Shohei Ohtani",
-        "pos": "SP",
+        "pos": "DH",
         "teamCode": "LAD",
         "colors": {
           "primary": "#005a9c",
           "secondary": "#ef3e42"
         },
         "age": 31,
-        "careerScore": 67.3,
+        "careerScore": 92.0,
+        "legendScore": 92.0,
+        "currentScore": 100.0,
+        "battingScore": 78,
+        "pitchingScore": 100,
+        "twoWayBonus": 17.2,
         "threshold": 92.5,
-        "gap": 25.2,
+        "gap": 0.5,
+        "rings": 2,
+        "note": "3 MVPs · two-way unicorn · 50/50 season · 2 World Series rings",
+        "prevRank": null
+      },
+      {
+        "id": 30836,
+        "name": "Mike Trout",
+        "pos": "CF",
+        "teamCode": "LAA",
+        "colors": {
+          "primary": "#ba0021",
+          "secondary": "#003263"
+        },
+        "age": 34,
+        "careerScore": 89.4,
+        "legendScore": 89.4,
+        "currentScore": 76,
+        "battingScore": 76,
+        "pitchingScore": null,
+        "twoWayBonus": 0,
+        "threshold": 92.5,
+        "gap": 3.1,
+        "rings": 0,
+        "note": "3 MVPs · inner-circle peak · all-time CF bat",
+        "prevRank": null
+      },
+      {
+        "id": 33192,
+        "name": "Aaron Judge",
+        "pos": "RF",
+        "teamCode": "NYY",
+        "colors": {
+          "primary": "#003087",
+          "secondary": "#e4002c"
+        },
+        "age": 34,
+        "careerScore": 78.9,
+        "legendScore": 78.9,
+        "currentScore": 85,
+        "battingScore": 85,
+        "pitchingScore": null,
+        "twoWayBonus": 0,
+        "threshold": 92.5,
+        "gap": 13.6,
+        "rings": 0,
+        "note": "2 MVPs · AL HR record · historic peak power",
+        "prevRank": null
+      },
+      {
+        "id": 30193,
+        "name": "Freddie Freeman",
+        "pos": "1B",
+        "teamCode": "LAD",
+        "colors": {
+          "primary": "#005a9c",
+          "secondary": "#ef3e42"
+        },
+        "age": 36,
+        "careerScore": 78.0,
+        "legendScore": 78.0,
+        "currentScore": 69,
+        "battingScore": 69,
+        "pitchingScore": null,
+        "twoWayBonus": 0,
+        "threshold": 92.5,
+        "gap": 14.5,
+        "rings": 3,
+        "note": "MVP · 3 rings · 3,000-hit track bat",
+        "prevRank": null
+      },
+      {
+        "id": 30951,
+        "name": "Bryce Harper",
+        "pos": "1B",
+        "teamCode": "PHI",
+        "colors": {
+          "primary": "#e81828",
+          "secondary": "#002d72"
+        },
+        "age": 33,
+        "careerScore": 73.5,
+        "legendScore": 73.5,
+        "currentScore": 79,
+        "battingScore": 79,
+        "pitchingScore": null,
+        "twoWayBonus": 0,
+        "threshold": 92.5,
+        "gap": 19.0,
+        "rings": 0,
+        "note": "2 MVPs · long elite run",
+        "prevRank": null
+      },
+      {
+        "id": 36969,
+        "name": "Juan Soto",
+        "pos": "LF",
+        "teamCode": "NYM",
+        "colors": {
+          "primary": "#002d72",
+          "secondary": "#ff5910"
+        },
+        "age": 27,
+        "careerScore": 70.5,
+        "legendScore": 70.5,
+        "currentScore": 79,
+        "battingScore": 79,
+        "pitchingScore": null,
+        "twoWayBonus": 0,
+        "threshold": 92.5,
+        "gap": 22.0,
         "rings": 1,
-        "note": "Multiple elite seasons + several titles needed",
+        "note": "World Series ring · historic OBP start",
         "prevRank": null
       },
       {
@@ -6638,11 +8163,16 @@ window.MLB_DATA = {
           "secondary": "#002d62"
         },
         "age": 28,
-        "careerScore": 64.8,
+        "careerScore": 64.9,
+        "legendScore": 64.9,
+        "currentScore": 100.0,
+        "battingScore": 100,
+        "pitchingScore": null,
+        "twoWayBonus": 0,
         "threshold": 92.5,
-        "gap": 27.7,
+        "gap": 27.6,
         "rings": 1,
-        "note": "Multiple elite seasons + several titles needed",
+        "note": "World Series ring · elite postseason bat",
         "prevRank": null
       },
       {
@@ -6655,9 +8185,14 @@ window.MLB_DATA = {
           "secondary": "#002d72"
         },
         "age": 29,
-        "careerScore": 61.1,
+        "careerScore": 61.3,
+        "legendScore": 61.3,
+        "currentScore": 100.0,
+        "battingScore": null,
+        "pitchingScore": 100,
+        "twoWayBonus": 0,
         "threshold": 92.5,
-        "gap": 31.4,
+        "gap": 31.2,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
         "prevRank": null
@@ -6672,27 +8207,15 @@ window.MLB_DATA = {
           "secondary": "#002d72"
         },
         "age": 33,
-        "careerScore": 60.1,
+        "careerScore": 60.2,
+        "legendScore": 60.2,
+        "currentScore": 92,
+        "battingScore": 92,
+        "pitchingScore": null,
+        "twoWayBonus": 0,
         "threshold": 92.5,
-        "gap": 32.4,
+        "gap": 32.3,
         "rings": 0,
-        "note": "Multiple elite seasons + several titles needed",
-        "prevRank": null
-      },
-      {
-        "id": 30193,
-        "name": "Freddie Freeman",
-        "pos": "1B",
-        "teamCode": "LAD",
-        "colors": {
-          "primary": "#005a9c",
-          "secondary": "#ef3e42"
-        },
-        "age": 36,
-        "careerScore": 59.1,
-        "threshold": 92.5,
-        "gap": 33.4,
-        "rings": 2,
         "note": "Multiple elite seasons + several titles needed",
         "prevRank": null
       },
@@ -6706,77 +8229,14 @@ window.MLB_DATA = {
           "secondary": "#13274f"
         },
         "age": 37,
-        "careerScore": 58.0,
+        "careerScore": 58.1,
+        "legendScore": 58.1,
+        "currentScore": 82,
+        "battingScore": null,
+        "pitchingScore": 82,
+        "twoWayBonus": 0,
         "threshold": 92.5,
-        "gap": 34.5,
-        "rings": 0,
-        "note": "Multiple elite seasons + several titles needed",
-        "prevRank": null
-      },
-      {
-        "id": 39712,
-        "name": "Oneil Cruz",
-        "pos": "CF",
-        "teamCode": "PIT",
-        "colors": {
-          "primary": "#fdb827",
-          "secondary": "#27251f"
-        },
-        "age": 27,
-        "careerScore": 57.2,
-        "threshold": 92.5,
-        "gap": 35.3,
-        "rings": 0,
-        "note": "Multiple elite seasons + several titles needed",
-        "prevRank": null
-      },
-      {
-        "id": 32767,
-        "name": "Matt Olson",
-        "pos": "1B",
-        "teamCode": "ATL",
-        "colors": {
-          "primary": "#ce1141",
-          "secondary": "#13274f"
-        },
-        "age": 32,
-        "careerScore": 57.1,
-        "threshold": 92.5,
-        "gap": 35.4,
-        "rings": 0,
-        "note": "Multiple elite seasons + several titles needed",
-        "prevRank": null
-      },
-      {
-        "id": 33192,
-        "name": "Aaron Judge",
-        "pos": "RF",
-        "teamCode": "NYY",
-        "colors": {
-          "primary": "#003087",
-          "secondary": "#e4002c"
-        },
-        "age": 34,
-        "careerScore": 57.1,
-        "threshold": 92.5,
-        "gap": 35.4,
-        "rings": 0,
-        "note": "Multiple elite seasons + several titles needed",
-        "prevRank": null
-      },
-      {
-        "id": 32758,
-        "name": "Christian Walker",
-        "pos": "1B",
-        "teamCode": "HOU",
-        "colors": {
-          "primary": "#eb6e1f",
-          "secondary": "#002d62"
-        },
-        "age": 35,
-        "careerScore": 55.8,
-        "threshold": 92.5,
-        "gap": 36.7,
+        "gap": 34.4,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
         "prevRank": null
@@ -7157,7 +8617,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-05 10:18 UTC",
+  "LAST_UPDATE": "2026-06-05 12:09 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
