@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-06-04 22:51 UTC",
+  "UPDATED": "2026-06-05 08:55 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1521,
+    "matches": 1520,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 864
+        "matches": 863
       },
       {
         "name": "IPL",
@@ -1147,30 +1147,6 @@ window.CRICKET_DATA = {
         "formatScore": 88.1
       },
       {
-        "id": "haris-rauf",
-        "name": "Haris Rauf",
-        "role": "Bowler",
-        "score": 87.1,
-        "legendScore": 42.3,
-        "stats": {
-          "test": 0.0,
-          "odi": 33.0,
-          "t20": 44.8,
-          "franchise": 87.1,
-          "runs": 164,
-          "wickets": 114,
-          "matches": 81
-        },
-        "country": "Pakistan",
-        "teamCode": "PAK",
-        "colors": {
-          "primary": "#115740",
-          "secondary": "#ffffff"
-        },
-        "logo": "https://flagcdn.com/24x18/pk.png",
-        "formatScore": 87.1
-      },
-      {
         "id": "m-jansen",
         "name": "M Jansen",
         "role": "Bowler",
@@ -1193,6 +1169,30 @@ window.CRICKET_DATA = {
         },
         "logo": "https://flagcdn.com/24x18/za.png",
         "formatScore": 86.5
+      },
+      {
+        "id": "haris-rauf",
+        "name": "Haris Rauf",
+        "role": "Bowler",
+        "score": 86.4,
+        "legendScore": 42.1,
+        "stats": {
+          "test": 0.0,
+          "odi": 33.0,
+          "t20": 44.1,
+          "franchise": 86.4,
+          "runs": 164,
+          "wickets": 113,
+          "matches": 80
+        },
+        "country": "Pakistan",
+        "teamCode": "PAK",
+        "colors": {
+          "primary": "#115740",
+          "secondary": "#ffffff"
+        },
+        "logo": "https://flagcdn.com/24x18/pk.png",
+        "formatScore": 86.4
       },
       {
         "id": "ja-duffy",

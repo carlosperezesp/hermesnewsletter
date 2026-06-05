@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-04 22:50 UTC
+// Auto-generated 2026-06-05 08:54 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-06-04 22:50 UTC",
+  "UPDATED": "2026-06-05 08:54 UTC",
   "SEASON": "2026",
   "ROUND": 5,
   "TOTAL_ROUNDS": 24,
