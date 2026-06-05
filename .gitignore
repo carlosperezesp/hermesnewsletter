@@ -5,6 +5,8 @@ nhl-tracker-update.log
 .env
 .afl_cache/
 .f1_cache/
+.indycar_cache/
+.nascar_cache/
 .motogp_cache/
 .sumo_cache/
 .tennis_cache/

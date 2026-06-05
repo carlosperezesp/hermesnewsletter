@@ -14,9 +14,15 @@ ROOT = Path(__file__).resolve().parents[1]
 CHECKS = {
     "nhl":     {"file": "data.js",         "var": "NHL_DATA",     "field": "LAST_UPDATE", "max_hours": 36},
     "nba":     {"file": "nba_data.js",     "var": "NBA_DATA",     "field": "LAST_UPDATE", "max_hours": 36},
+    "mlb":     {"file": "mlb_data.js",     "var": "MLB_DATA",     "field": "LAST_UPDATE", "max_hours": 36},
     "tennis":  {"file": "tennis_data.js",  "var": "TENNIS_DATA",  "field": "UPDATED",     "max_hours": 18},
     "cycling": {"file": "cycling_data.js", "var": "CYCLING_DATA", "field": "UPDATED",     "max_hours": 36},
     "cricket": {"file": "cricket_data.js", "var": "CRICKET_DATA", "field": "UPDATED",     "max_hours": 36},
+    "indycar": {"file": "indycar_data.js", "var": "INDYCAR_DATA", "field": "UPDATED",    "max_hours": 72},
+    "nascar":  {"file": "nascar_data.js",  "var": "NASCAR_DATA",  "field": "UPDATED",     "max_hours": 72},
+    "afl":     {"file": "afl_data.js",     "var": "AFL_DATA",     "field": "UPDATED",     "max_hours": 72},
+    "golf":    {"file": "golf_data.js",    "var": "GOLF_DATA",    "field": "UPDATED",     "max_hours": 36},
+    "football": {"file": "football_data.js", "var": "FOOTBALL_DATA", "field": "UPDATED",   "max_hours": 36},
 }
 
 
@@ -52,6 +58,38 @@ def check_structure(name: str, data: dict) -> list[str]:
         race = data.get("CURRENT_RACE") or {}
         if race and race.get("stage") == race.get("total_stages") and not (race.get("gc") or [{}])[0].get("legendScore"):
             errors.append("cycling: final GC leader is missing legendScore")
+    if name == "indycar" and not data.get("DRIVERS"):
+        errors.append("indycar: missing driver standings")
+    if name == "indycar" and not data.get("CURRENT_CONTENDERS"):
+        errors.append("indycar: missing current road-to-glory contenders")
+    if name == "nascar":
+        if not data.get("DRIVERS"):
+            errors.append("nascar: missing driver standings")
+        elif not data.get("PLAYOFF_CUTOFF"):
+            errors.append("nascar: missing playoff cutoff")
+        if not data.get("CURRENT_CONTENDERS"):
+            errors.append("nascar: missing current road-to-glory contenders")
+    if name == "afl":
+        if not data.get("LADDER"):
+            errors.append("afl: missing ladder")
+        if not data.get("PERFORMERS"):
+            errors.append("afl: missing season performers")
+        if not data.get("CURRENT_CONTENDERS"):
+            errors.append("afl: missing current road-to-glory contenders")
+    if name == "golf":
+        if not data.get("CURRENT_MAJOR"):
+            errors.append("golf: missing current major")
+        if not data.get("CURRENT"):
+            errors.append("golf: missing current golfers")
+        if not data.get("LEGENDS"):
+            errors.append("golf: missing legends")
+        if not data.get("ROAD_TO_GLORY"):
+            errors.append("golf: missing road-to-glory golfers")
+    if name == "football":
+        if not data.get("TEAMS"):
+            errors.append("football: missing Elo teams")
+        if not (data.get("ROAD_TO_GLORY") or {}).get("dynasties"):
+            errors.append("football: missing dynasties")
     return errors
 
 

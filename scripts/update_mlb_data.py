@@ -165,21 +165,63 @@ MLB_ACTIVE_ERA_TEAMS = [
     {"teamCode": "SD",  "city": "San Diego Padres",      "era": "2022–present", "rings": 0, "note": "Tatis/Machado era · consistent NL West contender"},
 ]
 
-PLAYER_RINGS = {
-    "Mookie Betts":    3,
-    "Freddie Freeman": 2,
-    "Corey Seager":    2,
-    "José Altuve":     2,
-    "Yordan Alvarez":  1,
-    "Shohei Ohtani":   1,
-    "Clayton Kershaw": 1,
+WORLD_SERIES_CHAMPIONS = {
+    2017: "HOU",
+    2018: "BOS",
+    2019: "WSH",
+    2020: "LAD",
+    2021: "ATL",
+    2022: "HOU",
+    2023: "TEX",
+    2024: "LAD",
+    2025: "LAD",
+}
+
+PLAYER_TEAM_WINDOWS = {
+    "Mookie Betts":    [("BOS", 2014, 2019), ("LAD", 2020, None)],
+    "Freddie Freeman": [("ATL", 2010, 2021), ("LAD", 2022, None)],
+    "Corey Seager":    [("LAD", 2015, 2021), ("TEX", 2022, None)],
+    "José Altuve":     [("HOU", 2011, None)],
+    "Yordan Alvarez":  [("HOU", 2019, None)],
+    "Shohei Ohtani":   [("LAD", 2024, None)],
+    "Clayton Kershaw": [("LAD", 2008, None)],
+    "Juan Soto":       [("WSH", 2018, 2022)],
+}
+
+
+def _player_rings(name: str, extra_champions: dict[int, str] | None = None) -> int:
+    champions = {**WORLD_SERIES_CHAMPIONS, **(extra_champions or {})}
+    total = 0
+    for team_code, start, end in PLAYER_TEAM_WINDOWS.get(name, []):
+        for year, champion_code in champions.items():
+            if champion_code == team_code and start <= year <= (end or year):
+                total += 1
+    return total
+
+ACTIVE_PLAYER_LEGACY = {
+    "Mike Trout":      {"base": 89.0, "note": "3 MVPs · inner-circle peak · all-time CF bat"},
+    "Clayton Kershaw": {"base": 88.0, "note": "3 Cy Young · MVP · generational pitcher"},
+    "Shohei Ohtani":   {"base": 89.0, "note": "3 MVPs · two-way unicorn · 50/50 season · 2 World Series rings"},
+    "Mookie Betts":    {"base": 82.0, "note": "MVP · 4 rings · elite two-way position player"},
+    "Aaron Judge":     {"base": 78.0, "note": "2 MVPs · AL HR record · historic peak power"},
+    "Freddie Freeman": {"base": 78.0, "note": "MVP · 3 rings · 3,000-hit track bat"},
+    "José Altuve":     {"base": 74.0, "note": "MVP · 2 rings · postseason icon"},
+    "Bryce Harper":    {"base": 73.0, "note": "2 MVPs · long elite run"},
+    "Juan Soto":       {"base": 70.0, "note": "World Series ring · historic OBP start"},
+    "Corey Seager":    {"base": 69.0, "note": "2 rings · 2 World Series MVPs"},
+    "Yordan Alvarez":  {"base": 63.0, "note": "World Series ring · elite postseason bat"},
+    "Paul Skenes":     {"base": 54.0, "note": "Cy Young-level early-career arm"},
 }
 
 ROAD_TO_GLORY_STARS = {
     "Shohei Ohtani",
+    "Mike Trout",
+    "Clayton Kershaw",
     "Aaron Judge",
-    "Freddie Freeman",
+    "Bryce Harper",
+    "José Altuve",
     "Mookie Betts",
+    "Freddie Freeman",
     "Juan Soto",
     "Yordan Alvarez",
     "Julio Rodríguez",
@@ -507,15 +549,59 @@ def build_bracket(season_year: int) -> dict:
 
 MLB_CURRENT_TO_ALLTIME = 0.70
 
-def _mlb_career_score(name: str, current_score: int, age: int | None) -> float:
+def _combined_player_rows(players: list[dict]) -> list[dict]:
+    """Merge batting/pitching rows so two-way players get one legend profile."""
+    grouped: dict[str, dict] = {}
+    for p in players:
+        key = p.get("name") or str(p.get("id"))
+        stat_type = (p.get("stats") or {}).get("type")
+        existing = grouped.get(key)
+        if not existing:
+            existing = {**p}
+            existing["battingScore"] = None
+            existing["pitchingScore"] = None
+            grouped[key] = existing
+        if stat_type == "batting":
+            existing["battingScore"] = max(existing.get("battingScore") or 0, p.get("score", 0))
+            if (p.get("score", 0) >= existing.get("score", 0)) or (existing.get("stats") or {}).get("type") != "batting":
+                existing.update({k: v for k, v in p.items() if k not in {"battingScore", "pitchingScore"}})
+        elif stat_type == "pitching":
+            existing["pitchingScore"] = max(existing.get("pitchingScore") or 0, p.get("score", 0))
+            if (p.get("score", 0) > existing.get("score", 0)) and existing.get("battingScore") is None:
+                existing.update({k: v for k, v in p.items() if k not in {"battingScore", "pitchingScore"}})
+    for p in grouped.values():
+        b = p.get("battingScore") or 0
+        q = p.get("pitchingScore") or 0
+        primary = max(b, q, p.get("score", 0))
+        secondary = min(b, q) if b and q else 0
+        p["twoWayBonus"] = round(secondary * 0.22, 1) if secondary else 0
+        p["combinedCurrentScore"] = round(min(100.0, primary + p["twoWayBonus"]), 1)
+    return list(grouped.values())
+
+
+def _mlb_legend_score(name: str, current_score: float, age: int | None, batting_score: float | None = None, pitching_score: float | None = None) -> float:
+    """Project active players onto the same 0-100 legend scale as HISTORY_PLAYERS."""
     seasons_played = max(1, (age or 27) - 21)
-    rings = PLAYER_RINGS.get(name, 0)
-    est = current_score * MLB_CURRENT_TO_ALLTIME
-    top3 = min(100.0, est * 1.05)
-    top8 = est
-    length_bonus = min(1.0, seasons_played / 18) * 15.0
+    rings = _player_rings(name)
+    legacy = ACTIVE_PLAYER_LEGACY.get(name, {})
+    primary = max(batting_score or 0, pitching_score or 0, current_score or 0)
+    secondary = min(batting_score or 0, pitching_score or 0) if batting_score and pitching_score else 0
+    two_way_bonus = secondary * 0.22
+    estimated_peak = min(100.0, primary + two_way_bonus)
+    peak_component = estimated_peak * MLB_CURRENT_TO_ALLTIME
+    longevity_bonus = min(1.0, seasons_played / 18) * 15.0
     rings_bonus = rings * 4.5
-    return round(min(100.0, top3 * 0.55 + top8 * 0.20 + length_bonus + rings_bonus), 1)
+    two_way_legacy_bonus = min(8.0, two_way_bonus * 0.20)
+    projection = peak_component * 0.78 + longevity_bonus + rings_bonus + two_way_legacy_bonus
+    legacy_floor = float(legacy.get("base", 0))
+    if legacy_floor:
+        current_push = max(0.0, estimated_peak - 70.0) * 0.06
+        legacy_floor = min(100.0, legacy_floor + current_push + two_way_legacy_bonus * 0.35)
+    return round(min(100.0, max(projection, legacy_floor)), 1)
+
+
+def _mlb_career_score(name: str, current_score: int, age: int | None) -> float:
+    return _mlb_legend_score(name, current_score, age)
 
 
 def _mlb_prospect_score(current_score: int, age: int) -> float:
@@ -568,17 +654,24 @@ def build_road_to_glory(players: list[dict], teams: list[dict]) -> dict:
     p_threshold = float(STATIC_HISTORY_PLAYERS[-1]["score"])  # Rogers Hornsby 92.5
     t_threshold = float(STATIC_HISTORY_TEAMS[-1]["score"])    # 2017 Astros 89.5
     team_by_code = {t["code"]: t for t in teams}
+    combined_players = _combined_player_rows(players)
 
-    top_ids = {p["id"] for p in sorted(players, key=lambda p: -p["score"])[:30]}
-    star_names = {p["name"] for p in players if p["name"] in ROAD_TO_GLORY_STARS}
+    top_ids = {p["id"] for p in sorted(combined_players, key=lambda p: -p["combinedCurrentScore"])[:30]}
+    star_names = {p["name"] for p in combined_players if p["name"] in ROAD_TO_GLORY_STARS}
     candidates_p = []
-    for p in players:
+    for p in combined_players:
         if p["id"] not in top_ids and p["name"] not in star_names:
             continue
         age = p.get("age")
-        cs = _mlb_career_score(p["name"], p["score"], age)
+        cs = _mlb_legend_score(
+            p["name"],
+            p["combinedCurrentScore"],
+            age,
+            p.get("battingScore"),
+            p.get("pitchingScore"),
+        )
         gap = round(max(0.0, p_threshold - cs), 1)
-        rings = PLAYER_RINGS.get(p["name"], 0)
+        rings = _player_rings(p["name"])
         candidates_p.append({
             "id":          p["id"],
             "name":        p["name"],
@@ -587,10 +680,15 @@ def build_road_to_glory(players: list[dict], teams: list[dict]) -> dict:
             "colors":      p["colors"],
             "age":         age,
             "careerScore": cs,
+            "legendScore":  cs,
+            "currentScore": p["combinedCurrentScore"],
+            "battingScore": p.get("battingScore"),
+            "pitchingScore": p.get("pitchingScore"),
+            "twoWayBonus":  p.get("twoWayBonus", 0),
             "threshold":   p_threshold,
             "gap":         gap,
             "rings":       rings,
-            "note":        _player_needs_hint(gap),
+            "note":        ACTIVE_PLAYER_LEGACY.get(p["name"], {}).get("note") or _player_needs_hint(gap),
         })
     candidates_p.sort(key=lambda x: x["careerScore"], reverse=True)
 
@@ -644,6 +742,25 @@ def build_road_to_glory(players: list[dict], teams: list[dict]) -> dict:
         "teams":           candidates_t[:10],
         "youngProspects":  young[:10],
     }
+
+
+def annotate_player_legend_scores(players: list[dict]) -> None:
+    combined_by_name = {p["name"]: p for p in _combined_player_rows(players)}
+    for p in players:
+        profile = combined_by_name.get(p["name"], p)
+        legend_score = _mlb_legend_score(
+            p["name"],
+            profile.get("combinedCurrentScore", p.get("score", 0)),
+            p.get("age"),
+            profile.get("battingScore"),
+            profile.get("pitchingScore"),
+        )
+        p["legendScore"] = legend_score
+        p["currentScore"] = profile.get("combinedCurrentScore", p.get("score", 0))
+        p["battingScore"] = profile.get("battingScore")
+        p["pitchingScore"] = profile.get("pitchingScore")
+        p["twoWayBonus"] = profile.get("twoWayBonus", 0)
+        p["rings"] = _player_rings(p["name"])
 
 
 def _add_two_way_pitchers(players: list[dict], season_year: int) -> list[dict]:
@@ -771,6 +888,7 @@ def write_data(output: Path) -> None:
 
     # Supplement two-way players missing from pitcher_data (e.g. Ohtani)
     players = _add_two_way_pitchers(players, season_year)
+    annotate_player_legend_scores(players)
 
     print("Fetching MLB playoff bracket…")
     bracket = build_bracket(season_year)
