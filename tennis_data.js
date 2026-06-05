@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-05 10:20 UTC
+// Auto-generated 2026-06-05 16:20 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-05 10:20 UTC",
+  "UPDATED": "2026-06-05 16:20 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -803,9 +803,9 @@ window.TENNIS_DATA = {
       "prevListRank": 26,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "Semifinal",
-        "reason": ""
+        "reason": "Eliminado en Semifinal"
       }
     },
     {
@@ -4286,9 +4286,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jakub Mensik",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-2 3-6 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 84.5,
           "l_score": 72.0,
           "match_score": 84.5
@@ -4319,7 +4319,6 @@ window.TENNIS_DATA = {
     "alive": [
       "Alexander Zverev",
       "Flavio Cobolli",
-      "Jakub Mensik",
       "Matteo Arnaldi"
     ],
     "out": [
@@ -4379,6 +4378,7 @@ window.TENNIS_DATA = {
       "Ignacio Buse",
       "Jacob Fearnley",
       "Jaime Faria",
+      "Jakub Mensik",
       "James Duckworth",
       "Jan-Lennard Struff",
       "Jannik Sinner",
@@ -4449,7 +4449,7 @@ window.TENNIS_DATA = {
       "Zhang Zhizhen",
       "Zizou Bergs"
     ],
-    "aliveCount": 4,
+    "aliveCount": 3,
     "matchesSeen": 126
   },
   "WTA_TOURNAMENT": {

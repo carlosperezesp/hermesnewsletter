@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-05 10:18 UTC
+// Auto-generated 2026-06-05 16:19 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-06-05 10:18 UTC",
+  "UPDATED": "2026-06-05 16:19 UTC",
   "SEASON": "2026",
   "ROUND": 5,
   "TOTAL_ROUNDS": 24,
@@ -280,7 +280,35 @@ window.F1_DATA = {
       "points": 35.0
     }
   ],
-  "LAST_RACE": null,
+  "LAST_RACE": {
+    "name": "Monaco Grand Prix",
+    "date": "2026-06-05",
+    "circuit": "Circuit de Monaco",
+    "round": 0,
+    "podium": [
+      {
+        "position": 1,
+        "name": "Charles Leclerc",
+        "team": "ferrari",
+        "time": "",
+        "primary": "#E8002D"
+      },
+      {
+        "position": 2,
+        "name": "Lewis Hamilton",
+        "team": "ferrari",
+        "time": "",
+        "primary": "#E8002D"
+      },
+      {
+        "position": 3,
+        "name": "Max Verstappen",
+        "team": "red_bull",
+        "time": "",
+        "primary": "#3671C6"
+      }
+    ]
+  },
   "LAST_SPRINT": null,
   "LEGENDS": [
     {
