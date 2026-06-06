@@ -213,6 +213,27 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "CHC",
+      "city": "Chicago Cubs",
+      "shortName": "Chicago",
+      "commonName": "Cubs",
+      "conf": "NL",
+      "div": "NL Central",
+      "gp": 65,
+      "w": 34,
+      "l": 31,
+      "winPct": 0.523,
+      "rf": 302,
+      "ra": 298,
+      "rd": 0,
+      "score": 42,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png",
+      "colors": {
+        "primary": "#0e3386",
+        "secondary": "#cc3433"
+      }
+    },
+    {
       "code": "CHW",
       "city": "Chicago White Sox",
       "shortName": "Chicago",
@@ -252,27 +273,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#a71930",
         "secondary": "#e3d4ad"
-      }
-    },
-    {
-      "code": "CHC",
-      "city": "Chicago Cubs",
-      "shortName": "Chicago",
-      "commonName": "Cubs",
-      "conf": "NL",
-      "div": "NL Central",
-      "gp": 64,
-      "w": 33,
-      "l": 31,
-      "winPct": 0.516,
-      "rf": 299,
-      "ra": 296,
-      "rd": 0,
-      "score": 41,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png",
-      "colors": {
-        "primary": "#0e3386",
-        "secondary": "#cc3433"
       }
     },
     {
@@ -345,18 +345,39 @@ window.MLB_DATA = {
       "commonName": "Orioles",
       "conf": "AL",
       "div": "AL East",
-      "gp": 64,
+      "gp": 65,
       "w": 31,
-      "l": 33,
-      "winPct": 0.484,
-      "rf": 301,
-      "ra": 328,
+      "l": 34,
+      "winPct": 0.477,
+      "rf": 305,
+      "ra": 334,
       "rd": 0,
-      "score": 39,
+      "score": 38,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bal.png",
       "colors": {
         "primary": "#df4601",
         "secondary": "#000000"
+      }
+    },
+    {
+      "code": "TOR",
+      "city": "Toronto Blue Jays",
+      "shortName": "Toronto",
+      "commonName": "Blue Jays",
+      "conf": "AL",
+      "div": "AL East",
+      "gp": 65,
+      "w": 31,
+      "l": 34,
+      "winPct": 0.477,
+      "rf": 266,
+      "ra": 281,
+      "rd": 0,
+      "score": 38,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
+      "colors": {
+        "primary": "#134a8e",
+        "secondary": "#e8291c"
       }
     },
     {
@@ -399,27 +420,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#003831",
         "secondary": "#efb21e"
-      }
-    },
-    {
-      "code": "TOR",
-      "city": "Toronto Blue Jays",
-      "shortName": "Toronto",
-      "commonName": "Blue Jays",
-      "conf": "AL",
-      "div": "AL East",
-      "gp": 64,
-      "w": 30,
-      "l": 34,
-      "winPct": 0.469,
-      "rf": 260,
-      "ra": 277,
-      "rd": 0,
-      "score": 38,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
-      "colors": {
-        "primary": "#134a8e",
-        "secondary": "#e8291c"
       }
     },
     {
@@ -576,12 +576,12 @@ window.MLB_DATA = {
       "commonName": "Giants",
       "conf": "NL",
       "div": "NL West",
-      "gp": 64,
+      "gp": 65,
       "w": 26,
-      "l": 38,
-      "winPct": 0.406,
-      "rf": 268,
-      "ra": 316,
+      "l": 39,
+      "winPct": 0.4,
+      "rf": 270,
+      "ra": 319,
       "rd": 0,
       "score": 32,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png",
@@ -8196,9 +8196,9 @@ window.MLB_DATA = {
         "city": "Baltimore Orioles",
         "era": "2022–present",
         "rings": 0,
-        "dynastyScore": 33.4,
+        "dynastyScore": 32.8,
         "threshold": 89.5,
-        "gap": 56.1,
+        "gap": 56.7,
         "note": "Gunnar Henderson era · homegrown rebuild · AL East rising force",
         "needs": "Needs at least one title + sustained dominance",
         "colors": {
@@ -8437,7 +8437,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-06 21:19 UTC",
+  "LAST_UPDATE": "2026-06-06 22:33 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
