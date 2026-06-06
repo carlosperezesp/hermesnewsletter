@@ -305,6 +305,7 @@ function NewsletterApp() {
   const D = window.NHL_DATA;
   const NBA = window.NBA_DATA;
   const { TEAMS, PLAYERS, BRACKET, ROAD_TO_GLORY } = D;
+  const nhlSeasonShort = D.SEASON ? D.SEASON.replace(/^(\d{2})(\d{2})-/, "$2-") : "";
   const teamByCode = useMemo(() => Object.fromEntries(TEAMS.map(t => [t.code, t])), [TEAMS]);
   const alive = useMemo(() => getAlivePlayoffTeams(BRACKET), [BRACKET]);
   const aliveLabel = [...alive].sort().join(" · ");
@@ -587,7 +588,7 @@ function NewsletterApp() {
             <span>Actualizado {D.LAST_UPDATE}</span>
           </div>
           <div className="newsletter-hero__title-row">
-            <h1>Playoff newsletter</h1>
+            <h1>NHL {nhlSeasonShort || D.SEASON}</h1>
             <p>
               Bracket vivo y rankings top 10 con una lectura rápida:
               las filas sombreadas pertenecen a equipos que ya no siguen vivos en playoff.
