@@ -9719,7 +9719,7 @@ window.NHL_DATA = {
       "name": "J.J. Moser",
       "pos": "D",
       "teamCode": "TBL",
-      "age": 25,
+      "age": 26,
       "country": "Switzerland",
       "birthCountry": "CHE",
       "colors": {
@@ -9744,8 +9744,7 @@ window.NHL_DATA = {
         47,
         49,
         59
-      ],
-      "legendScore": 48.9
+      ]
     },
     {
       "id": 8484170,
@@ -16172,7 +16171,7 @@ window.NHL_DATA = {
       "name": "Yegor Sharangovich",
       "pos": "C",
       "teamCode": "CGY",
-      "age": 27,
+      "age": 28,
       "country": "Belarus",
       "birthCountry": "BLR",
       "colors": {
@@ -44899,10 +44898,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-05 16:19 UTC",
+  "LAST_UPDATE": "2026-06-06 08:04 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-05T16:17:30Z"
+    "standingsDateTimeUtc": "2026-06-06T08:04:00Z"
   }
 };

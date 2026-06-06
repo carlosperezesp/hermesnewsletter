@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-05 16:19 UTC
+// Auto-generated 2026-06-06 08:05 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-06-05 16:19 UTC",
+  "UPDATED": "2026-06-06 08:05 UTC",
   "SEASON": "2026",
   "ROUND": 7,
   "TOTAL_ROUNDS": 22,
@@ -178,9 +178,25 @@ window.MOTOGP_DATA = {
     "podium": [
       {
         "pos": 1,
-        "name": "Francesco Bagnaia",
+        "name": "Marco Bezzecchi",
         "country": "ITA",
         "logo": "https://flagcdn.com/24x18/it.png",
+        "bike": "Aprilia",
+        "primary": "#003366"
+      },
+      {
+        "pos": 2,
+        "name": "Raúl Fernández",
+        "country": "SPA",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "bike": "Aprilia",
+        "primary": "#003366"
+      },
+      {
+        "pos": 3,
+        "name": "Jorge Martín",
+        "country": "SPA",
+        "logo": "https://flagcdn.com/24x18/es.png",
         "bike": "Aprilia",
         "primary": "#003366"
       }

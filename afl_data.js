@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-05 16:19 UTC
+// Auto-generated 2026-06-06 08:05 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-06-05 16:19 UTC",
+  "UPDATED": "2026-06-06 08:05 UTC",
   "SEASON": "2026",
   "ROUND": 13,
   "IMPORTANCE": 7.8,
@@ -9,11 +9,11 @@ window.AFL_DATA = {
     {
       "rank": 1,
       "name": "Fremantle",
-      "wins": 11,
+      "wins": 12,
       "losses": 1,
       "draws": 0,
-      "pts": 44,
-      "percentage": 135.2,
+      "pts": 48,
+      "percentage": 147.9,
       "primary": "#2A0D54",
       "secondary": "#FFFFFF",
       "prevRank": null
@@ -150,10 +150,10 @@ window.AFL_DATA = {
       "rank": 13,
       "name": "North Melbourne",
       "wins": 5,
-      "losses": 6,
+      "losses": 7,
       "draws": 0,
       "pts": 20,
-      "percentage": 97.6,
+      "percentage": 87.7,
       "primary": "#CC2031",
       "secondary": "#013B9F"
     },
@@ -1075,6 +1075,16 @@ window.AFL_DATA = {
       "date": "2026-06-05",
       "hprimary": "#4D2004",
       "aprimary": "#0039A6"
+    },
+    {
+      "hteam": "North Melbourne",
+      "hscore": 31,
+      "ateam": "Fremantle",
+      "ascore": 155,
+      "winner": "Fremantle",
+      "date": "2026-06-06",
+      "hprimary": "#CC2031",
+      "aprimary": "#2A0D54"
     }
   ],
   "CURRENT_CONTENDERS": [
