@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-05 16:16 UTC
+// Auto-generated 2026-06-06 14:20 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-05 16:16 UTC",
+  "UPDATED": "2026-06-06 14:20 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "U.S. Open",
@@ -15,7 +15,7 @@ window.GOLF_DATA = {
     "startLabel": "18 Jun",
     "endLabel": "21 Jun",
     "round": 0,
-    "daysToStart": 13,
+    "daysToStart": 12,
     "leaderboard": [],
     "favorites": [
       "Scottie Scheffler",

@@ -1005,7 +1005,7 @@ window.NFL_DATA = {
       "name": "Sam Darnold",
       "pos": "QB",
       "teamCode": "SEA",
-      "age": 28,
+      "age": 29,
       "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3912547.png",
       "colors": {
         "primary": "#002244",
@@ -2034,7 +2034,7 @@ window.NFL_DATA = {
   "SEASON": "2025",
   "SEASON_STATUS": "offseason",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-06-05 16:15 UTC",
+  "LAST_UPDATE": "2026-06-06 14:19 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

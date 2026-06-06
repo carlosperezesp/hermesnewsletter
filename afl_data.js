@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-05 16:16 UTC
+// Auto-generated 2026-06-06 14:20 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-06-05 16:16 UTC",
+  "UPDATED": "2026-06-06 14:20 UTC",
   "SEASON": "2026",
   "ROUND": 13,
   "IMPORTANCE": 7.8,
@@ -9,11 +9,11 @@ window.AFL_DATA = {
     {
       "rank": 1,
       "name": "Fremantle",
-      "wins": 11,
+      "wins": 12,
       "losses": 1,
       "draws": 0,
-      "pts": 44,
-      "percentage": 135.2,
+      "pts": 48,
+      "percentage": 147.9,
       "primary": "#2A0D54",
       "secondary": "#FFFFFF",
       "prevRank": null
@@ -70,10 +70,10 @@ window.AFL_DATA = {
       "rank": 6,
       "name": "Gold Coast",
       "wins": 7,
-      "losses": 4,
+      "losses": 5,
       "draws": 0,
       "pts": 28,
-      "percentage": 116.9,
+      "percentage": 112.2,
       "primary": "#C5002F",
       "secondary": "#F1B500",
       "prevRank": null
@@ -92,6 +92,18 @@ window.AFL_DATA = {
     },
     {
       "rank": 8,
+      "name": "Brisbane Lions",
+      "wins": 7,
+      "losses": 6,
+      "draws": 0,
+      "pts": 28,
+      "percentage": 106.2,
+      "primary": "#7B1A4B",
+      "secondary": "#F6AE00",
+      "prevRank": null
+    },
+    {
+      "rank": 9,
       "name": "Melbourne",
       "wins": 7,
       "losses": 5,
@@ -99,19 +111,7 @@ window.AFL_DATA = {
       "pts": 28,
       "percentage": 101.8,
       "primary": "#CC2031",
-      "secondary": "#013B9F",
-      "prevRank": null
-    },
-    {
-      "rank": 9,
-      "name": "Brisbane Lions",
-      "wins": 6,
-      "losses": 6,
-      "draws": 0,
-      "pts": 24,
-      "percentage": 103.9,
-      "primary": "#7B1A4B",
-      "secondary": "#F6AE00"
+      "secondary": "#013B9F"
     },
     {
       "rank": 10,
@@ -150,15 +150,26 @@ window.AFL_DATA = {
       "rank": 13,
       "name": "North Melbourne",
       "wins": 5,
-      "losses": 6,
+      "losses": 7,
       "draws": 0,
       "pts": 20,
-      "percentage": 97.6,
+      "percentage": 87.7,
       "primary": "#CC2031",
       "secondary": "#013B9F"
     },
     {
       "rank": 14,
+      "name": "Port Adelaide",
+      "wins": 4,
+      "losses": 8,
+      "draws": 0,
+      "pts": 16,
+      "percentage": 101.4,
+      "primary": "#002B5C",
+      "secondary": "#CC2031"
+    },
+    {
+      "rank": 15,
       "name": "Carlton",
       "wins": 4,
       "losses": 8,
@@ -169,26 +180,15 @@ window.AFL_DATA = {
       "secondary": "#FFFFFF"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "West Coast",
       "wins": 4,
-      "losses": 8,
+      "losses": 9,
       "draws": 0,
       "pts": 16,
-      "percentage": 70.0,
+      "percentage": 71.3,
       "primary": "#002B5C",
       "secondary": "#F5C209"
-    },
-    {
-      "rank": 16,
-      "name": "Port Adelaide",
-      "wins": 3,
-      "losses": 8,
-      "draws": 0,
-      "pts": 12,
-      "percentage": 100.9,
-      "primary": "#002B5C",
-      "secondary": "#CC2031"
     },
     {
       "rank": 17,
@@ -1075,6 +1075,36 @@ window.AFL_DATA = {
       "date": "2026-06-05",
       "hprimary": "#4D2004",
       "aprimary": "#0039A6"
+    },
+    {
+      "hteam": "North Melbourne",
+      "hscore": 31,
+      "ateam": "Fremantle",
+      "ascore": 155,
+      "winner": "Fremantle",
+      "date": "2026-06-06",
+      "hprimary": "#CC2031",
+      "aprimary": "#2A0D54"
+    },
+    {
+      "hteam": "Gold Coast",
+      "hscore": 75,
+      "ateam": "Brisbane Lions",
+      "ascore": 106,
+      "winner": "Brisbane Lions",
+      "date": "2026-06-06",
+      "hprimary": "#C5002F",
+      "aprimary": "#7B1A4B"
+    },
+    {
+      "hteam": "West Coast",
+      "hscore": 71,
+      "ateam": "Port Adelaide",
+      "ascore": 77,
+      "winner": "Port Adelaide",
+      "date": "2026-06-06",
+      "hprimary": "#002B5C",
+      "aprimary": "#002B5C"
     }
   ],
   "CURRENT_CONTENDERS": [
