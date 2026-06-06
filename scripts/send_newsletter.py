@@ -416,6 +416,8 @@ def nba_html(d: dict) -> str:
     bracket     = d.get("BRACKET", {})
     rtg         = d.get("ROAD_TO_GLORY", {})
     team_colors = {code: t["colors"]["primary"] for code, t in team_map.items()}
+    stats_scope = d.get("STATS_SCOPE") or "temporada"
+    stats_label = "playoffs" if stats_scope == "playoffs" else "temporada"
 
     top       = sorted(players, key=lambda p: -p["score"])[:10]
     p_thresh  = rtg.get("playerThreshold")
@@ -449,8 +451,8 @@ def nba_html(d: dict) -> str:
         + section("Playoff bracket", "Camino a las NBA Finals",
                   "Series al mejor de siete.",
                   bracket_html(bracket, "NBA", team_colors))
-        + section("Top performers", "Top 10 de la temporada",
-                  "Score percentil — pts, reb, ast, stl, blk ponderados.",
+        + section("Top performers", f"Top 10 de {stats_label}",
+                  f"Score percentil de {stats_label} — pts, reb, ast, stl, blk ponderados.",
                   player_list_html(top, "score", "Score", p_note, p_meta))
         + section("Road to Glory · Jugadores",
                   "Top 10 Road to Glory",

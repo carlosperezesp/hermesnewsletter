@@ -172,11 +172,11 @@ ROAD_TO_GLORY_STARS = {
 
 METHODOLOGY = {
     "player": {
-        "formula": "Current NBA box-score percentile using ESPN regular-season statistics",
+        "formula": "Current NBA box-score percentile using ESPN regular-season or playoff statistics, depending on active context",
         "bullets": [
             "Points, rebounds, assists, steals, blocks per game plus minutes played",
             "All positions (G, F, C) scored together — formula naturally rewards all-around play",
-            "Scores normalized 0-100 using min-max percentile within qualified players (10+ GP)",
+            "Scores normalized 0-100 using min-max percentile within qualified players",
             "Road to Glory career score uses current peak scaled to all-time equivalent",
             "This is a transparent tracker score, not an official NBA metric",
         ],
@@ -282,7 +282,7 @@ def nba_raw_score(stats: dict) -> float:
     return pts * 3.5 + reb * 1.8 + ast * 2.0 + (stl + blk) * 2.5 + min_pg * 0.25
 
 
-def build_players(player_data: dict, team_by_id: dict) -> list[dict]:
+def build_players(player_data: dict, team_by_id: dict, min_gp: int = 10) -> list[dict]:
     # Map category labels from top-level categories definition
     cat_labels = {c["name"]: c.get("abbreviations", []) for c in player_data.get("categories", [])}
     gen_labels = cat_labels.get("general", [])
@@ -313,7 +313,7 @@ def build_players(player_data: dict, team_by_id: dict) -> list[dict]:
         if not gen or not off:
             continue
         gp = int(gen[gp_idx]) if len(gen) > gp_idx else 0
-        if gp < 10:
+        if gp < min_gp:
             continue
 
         # Team from `teams` array (more reliable than teamId mapping)
@@ -371,6 +371,24 @@ def build_players(player_data: dict, team_by_id: dict) -> list[dict]:
             del p["raw"]
 
     return sorted(players, key=lambda p: (-p["score"], p["name"]))
+
+
+def fetch_players_for_context(season_year: int, team_by_id: dict, bracket: dict) -> tuple[list[dict], str]:
+    playoff_active = _nba_importance(bracket) >= 7.0
+    if playoff_active:
+        print("Fetching NBA playoff player stats…")
+        playoff_raw = fetch_json(
+            f"{API_PLAYERS}?season={season_year}&seasontype=3&limit=500&isqualified=true"
+        )
+        playoff_players = build_players(playoff_raw, team_by_id, min_gp=1)
+        if len(playoff_players) >= 10:
+            return playoff_players, "playoffs"
+
+    print("Fetching NBA regular-season player stats…")
+    regular_raw = fetch_json(
+        f"{API_PLAYERS}?season={season_year}&seasontype=2&limit=500&isqualified=true"
+    )
+    return build_players(regular_raw, team_by_id, min_gp=10), "regular season"
 
 
 def _parse_round_conf(headline: str) -> tuple[str | None, str | None]:
@@ -647,15 +665,11 @@ def write_data(output: Path) -> None:
     # NBA season spans two years: Oct 2025–Jun 2026 → season_year 2026
     season_year = now.year + 1 if now.month >= 10 else now.year
 
-    print("Fetching NBA player stats…")
-    player_raw = fetch_json(
-        f"{API_PLAYERS}?season={season_year}&seasontype=2&limit=500&isqualified=true"
-    )
-    players = build_players(player_raw, team_by_id)
-    annotate_player_legend_scores(players)
-
     print("Fetching NBA playoff bracket…")
     bracket = build_bracket(season_year)
+
+    players, stats_scope = fetch_players_for_context(season_year, team_by_id, bracket)
+    annotate_player_legend_scores(players)
 
     for item in STATIC_HISTORY_TEAMS:
         with_nba_colors(item)
@@ -687,6 +701,7 @@ def write_data(output: Path) -> None:
         "ROAD_TO_GLORY":   road_to_glory,
         "METHODOLOGY":     METHODOLOGY,
         "SEASON":          season_label,
+        "STATS_SCOPE":     stats_scope,
         "IMPORTANCE":      importance,
         "LAST_UPDATE":     datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
         "SOURCE":          {"name": "ESPN API", "baseUrl": "sports.core.api.espn.com"},

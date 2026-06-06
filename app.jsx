@@ -444,6 +444,8 @@ function NewsletterApp() {
   const nbaRoadPlayers  = (NBA?.ROAD_TO_GLORY?.players || []).slice(0, 10);
   const nbaYoungPlayers = (NBA?.ROAD_TO_GLORY?.youngProspects || []).slice(0, 10);
   const nbaRoadTeams    = (NBA?.ROAD_TO_GLORY?.teams || []).slice(0, 10);
+  const nbaStatsScope = NBA?.STATS_SCOPE || "temporada";
+  const nbaStatsLabel = nbaStatsScope === "playoffs" ? "playoffs" : "temporada";
   const nbaFinalsTeams = useMemo(() => {
     const f = NBA?.BRACKET?.final?.[0];
     return f?.hi && f?.lo && f.hi !== "TBD" && f.lo !== "TBD" ? [f.hi, f.lo] : null;
@@ -762,8 +764,8 @@ function NewsletterApp() {
 
             <NewsletterSection
               kicker="Top performers"
-              title="Top 10 performers NBA esta temporada"
-              sub="Ranking por score actual — pts, reb, ast, stl, blk ponderados por posición."
+              title={`Top 10 performers NBA ${nbaStatsLabel}`}
+              sub={`Ranking por score actual de ${nbaStatsLabel} — pts, reb, ast, stl, blk ponderados por posición.`}
             >
               <div className="newsletter-list">
                 {nbaTopPerformers.map((player, i) => (
