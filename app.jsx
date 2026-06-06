@@ -401,13 +401,14 @@ function NewsletterApp() {
   const tennisATP = useMemo(() => tennisATPFull.slice(0, 10), [tennisATPFull]);
   const tennisWTA = useMemo(() => tennisWTAFull.slice(0, 10), [tennisWTAFull]);
   function tennisDisplayList(base, full, aliveSet, minAlive = 2, includeAllAlive = false) {
-    if (aliveSet.size === 0) return base;
-    let list = [...base];
+    const withRank = (player, index) => ({ ...player, displayRank: index + 1 });
+    if (aliveSet.size === 0) return base.map(withRank);
+    let list = base.map(withRank);
     const aliveCount = () => list.filter(p => aliveSet.has(p.id)).length;
     const seen = new Set(list.map(p => p.id));
-    for (const p of full) {
+    for (const [index, p] of full.entries()) {
       if (!includeAllAlive && aliveCount() >= minAlive) break;
-      if (!seen.has(p.id) && aliveSet.has(p.id)) { list.push(p); seen.add(p.id); }
+      if (!seen.has(p.id) && aliveSet.has(p.id)) { list.push(withRank(p, index)); seen.add(p.id); }
     }
     return list;
   }
@@ -1384,8 +1385,8 @@ function NewsletterApp() {
                   {tennisDisplayList(tennisATP, tennisATPFull, atpAliveIds, 2, atpIncludeAllAlive).map((player, i) => (
                     <NewsletterRankRow
                       key={player.id}
-                      rank={i + 1}
-                      prevRank={tennisPrevRank(player, i)}
+                      rank={player.displayRank || i + 1}
+                      prevRank={tennisPrevRank(player, (player.displayRank || i + 1) - 1)}
                       item={player}
                       alive={atpAliveIds}
                       aliveKey="id"
@@ -1439,8 +1440,8 @@ function NewsletterApp() {
                   {tennisDisplayList(tennisWTA, tennisWTAFull, wtaAliveIds, 2, wtaIncludeAllAlive).map((player, i) => (
                     <NewsletterRankRow
                       key={player.id}
-                      rank={i + 1}
-                      prevRank={tennisPrevRank(player, i)}
+                      rank={player.displayRank || i + 1}
+                      prevRank={tennisPrevRank(player, (player.displayRank || i + 1) - 1)}
                       item={player}
                       alive={wtaAliveIds}
                       aliveKey="id"
