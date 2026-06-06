@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-06 14:20 UTC
+// Auto-generated 2026-06-06 21:20 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-06 14:20 UTC",
+  "UPDATED": "2026-06-06 21:20 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -9950,9 +9950,9 @@ window.TENNIS_DATA = {
       "prevListRank": 121,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "F",
-        "reason": ""
+        "reason": "Eliminado en F"
       }
     },
     {
@@ -13250,7 +13250,6 @@ window.TENNIS_DATA = {
     "surface": "Clay",
     "tour": "WTA",
     "alive": [
-      "Maja Chwalinska",
       "Mirra Andreeva"
     ],
     "out": [
@@ -13338,6 +13337,7 @@ window.TENNIS_DATA = {
       "Madison Keys",
       "Magda Linette",
       "Magdalena Frech",
+      "Maja Chwalinska",
       "Maria Sakkari",
       "Marie Bouzkova",
       "Marina Bassols Ribera",
@@ -13381,7 +13381,7 @@ window.TENNIS_DATA = {
       "Zhang Shuai",
       "Zheng Qinwen"
     ],
-    "aliveCount": 2,
+    "aliveCount": 1,
     "matchesSeen": 127
   },
   "IMPORTANCE": 10.0
