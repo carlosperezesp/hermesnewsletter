@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-06 22:34 UTC
+// Auto-generated 2026-06-07 09:43 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-06-06 22:34 UTC",
+  "UPDATED": "2026-06-07 09:43 UTC",
   "SEASON": "2026",
   "ROUND": 13,
   "IMPORTANCE": 7.8,
@@ -21,11 +21,11 @@ window.AFL_DATA = {
     {
       "rank": 2,
       "name": "Sydney",
-      "wins": 10,
+      "wins": 11,
       "losses": 2,
       "draws": 0,
-      "pts": 40,
-      "percentage": 152.4,
+      "pts": 44,
+      "percentage": 147.3,
       "primary": "#F57F00",
       "secondary": "#002040",
       "prevRank": null
@@ -139,10 +139,10 @@ window.AFL_DATA = {
       "rank": 12,
       "name": "St Kilda",
       "wins": 5,
-      "losses": 7,
+      "losses": 8,
       "draws": 0,
       "pts": 20,
-      "percentage": 102.3,
+      "percentage": 101.9,
       "primary": "#ED1C2E",
       "secondary": "#000000"
     },
@@ -1105,6 +1105,16 @@ window.AFL_DATA = {
       "date": "2026-06-06",
       "hprimary": "#002B5C",
       "aprimary": "#002B5C"
+    },
+    {
+      "hteam": "Sydney",
+      "hscore": 104,
+      "ateam": "St Kilda",
+      "ascore": 102,
+      "winner": "Sydney",
+      "date": "2026-06-07",
+      "hprimary": "#F57F00",
+      "aprimary": "#ED1C2E"
     }
   ],
   "CURRENT_CONTENDERS": [

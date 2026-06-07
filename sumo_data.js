@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-06 22:34 UTC
+// Auto-generated 2026-06-07 09:43 UTC
 window.SUMO_DATA = {
-  "UPDATED": "2026-06-06 22:34 UTC",
+  "UPDATED": "2026-06-07 09:43 UTC",
   "LEGENDS": [
     {
       "id": "hakuho",
@@ -271,7 +271,7 @@ window.SUMO_DATA = {
       "rankShort": "Yokozuna",
       "yusho": 5,
       "legendScore": 10.5,
-      "age": 25
+      "age": 26
     },
     {
       "side": "East",

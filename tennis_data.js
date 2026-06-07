@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-06 22:35 UTC
+// Auto-generated 2026-06-07 09:44 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-06 22:35 UTC",
+  "UPDATED": "2026-06-07 09:44 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -12953,41 +12953,7 @@ window.TENNIS_DATA = {
       }
     }
   ],
-  "ATP_RECENT": [
-    {
-      "name": "Roland Garros",
-      "level": "Grand Slam",
-      "surface": "Clay",
-      "matches": [
-        {
-          "round": "Semifinal",
-          "w": "Alexander Zverev",
-          "w_logo": "",
-          "l": "Jakub Mensik",
-          "l_logo": "",
-          "score": "7-5 6-2 3-6 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 84.5,
-          "l_score": 72.0,
-          "match_score": 84.5
-        },
-        {
-          "round": "Semifinal",
-          "w": "Flavio Cobolli",
-          "w_logo": "",
-          "l": "Matteo Arnaldi",
-          "l_logo": "",
-          "score": "w/o",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 72.2,
-          "l_score": 51.9,
-          "match_score": 72.2
-        }
-      ]
-    }
-  ],
+  "ATP_RECENT": [],
   "ATP_TODAY": [
     {
       "name": "Roland Garros",
@@ -12995,108 +12961,17 @@ window.TENNIS_DATA = {
       "surface": "Clay",
       "matches": [
         {
-          "round": "R64",
-          "w": "Jannik Sinner",
+          "round": "F",
+          "w": "Alexander Zverev",
           "w_logo": "",
-          "l": "Sebastian Ofner",
+          "l": "Flavio Cobolli",
           "l_logo": "",
           "score": "por jugar",
           "day": "hoy",
           "scheduled": true,
-          "w_score": 100.0,
-          "l_score": 45.0,
-          "match_score": 100.0
-        },
-        {
-          "round": "R64",
-          "w": "Andrea Pellegrino",
-          "w_logo": "",
-          "l": "Arthur Fils",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 59.7,
-          "l_score": 81.9,
-          "match_score": 81.9
-        },
-        {
-          "round": "R32",
-          "w": "Casper Ruud",
-          "w_logo": "",
-          "l": "Jiri Lehecka",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 79.3,
-          "l_score": 77.0,
-          "match_score": 79.3
-        },
-        {
-          "round": "R64",
-          "w": "Daniil Medvedev",
-          "w_logo": "",
-          "l": "Tomas Machac",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 79.3,
-          "l_score": 67.7,
-          "match_score": 79.3
-        },
-        {
-          "round": "R32",
-          "w": "Matteo Arnaldi",
-          "w_logo": "",
-          "l": "Rafael Jodar",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 51.9,
-          "l_score": 76.6,
-          "match_score": 76.6
-        },
-        {
-          "round": "R64",
-          "w": "Ben Shelton",
-          "w_logo": "",
-          "l": "Nikoloz Basilashvili",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 76.2,
-          "l_score": 50.3,
-          "match_score": 76.2
-        },
-        {
-          "round": "R64",
-          "w": "Felix Auger Aliassime",
-          "w_logo": "",
-          "l": "Mariano Navone",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 75.5,
-          "l_score": 64.6,
-          "match_score": 75.5
-        },
-        {
-          "round": "R64",
-          "w": "Andrey Rublev",
-          "w_logo": "",
-          "l": "Miomir Kecmanovic",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 74.0,
-          "l_score": 56.5,
-          "match_score": 74.0
+          "w_score": 84.5,
+          "l_score": 72.2,
+          "match_score": 84.5
         }
       ]
     }
