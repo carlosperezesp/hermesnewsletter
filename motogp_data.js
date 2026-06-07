@@ -1,8 +1,8 @@
-// Auto-generated 2026-06-07 09:43 UTC
+// Auto-generated 2026-06-07 14:32 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-06-07 09:43 UTC",
+  "UPDATED": "2026-06-07 14:32 UTC",
   "SEASON": "2026",
-  "ROUND": 7,
+  "ROUND": 8,
   "TOTAL_ROUNDS": 22,
   "MAX_SEASON_PTS": 550,
   "IMPORTANCE": 10.0,
@@ -47,12 +47,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 134.0,
-      "score": 24.4,
+      "points": 138.0,
+      "score": 25.1,
       "stats": {
-        "pts": 134.0
+        "pts": 138.0
       },
-      "seasonPct": 24.4,
+      "seasonPct": 25.1,
       "prevRank": null
     },
     {
@@ -63,16 +63,64 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#E86825",
       "secondary": "#000000",
-      "points": 112.0,
-      "score": 20.4,
+      "points": 132.0,
+      "score": 24.0,
       "stats": {
-        "pts": 112.0
+        "pts": 132.0
       },
-      "seasonPct": 20.4,
+      "seasonPct": 24.0,
       "prevRank": null
     },
     {
       "position": 5,
+      "name": "Marc Márquez",
+      "country": "ESP",
+      "bike": "Ducati",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "primary": "#CC0000",
+      "secondary": "#FFD200",
+      "points": 108.0,
+      "score": 19.6,
+      "stats": {
+        "pts": 108.0
+      },
+      "seasonPct": 19.6,
+      "prevRank": null
+    },
+    {
+      "position": 6,
+      "name": "Ai Ogura",
+      "country": "JPN",
+      "bike": "Aprilia",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#003366",
+      "secondary": "#E8002D",
+      "points": 105.0,
+      "score": 19.1,
+      "stats": {
+        "pts": 105.0
+      },
+      "seasonPct": 19.1,
+      "prevRank": null
+    },
+    {
+      "position": 7,
+      "name": "Francesco Bagnaia",
+      "country": "ITA",
+      "bike": "Ducati",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "primary": "#CC0000",
+      "secondary": "#FFD200",
+      "points": 99.0,
+      "score": 18.0,
+      "stats": {
+        "pts": 99.0
+      },
+      "seasonPct": 18.0,
+      "prevRank": null
+    },
+    {
+      "position": 8,
       "name": "Raúl Fernández",
       "country": "ESP",
       "bike": "Aprilia",
@@ -85,54 +133,6 @@ window.MOTOGP_DATA = {
         "pts": 94.0
       },
       "seasonPct": 17.1,
-      "prevRank": null
-    },
-    {
-      "position": 6,
-      "name": "Ai Ogura",
-      "country": "JPN",
-      "bike": "Aprilia",
-      "logo": "https://flagcdn.com/24x18/jp.png",
-      "primary": "#003366",
-      "secondary": "#E8002D",
-      "points": 92.0,
-      "score": 16.7,
-      "stats": {
-        "pts": 92.0
-      },
-      "seasonPct": 16.7,
-      "prevRank": null
-    },
-    {
-      "position": 7,
-      "name": "Francesco Bagnaia",
-      "country": "ITA",
-      "bike": "Ducati",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "primary": "#CC0000",
-      "secondary": "#FFD200",
-      "points": 83.0,
-      "score": 15.1,
-      "stats": {
-        "pts": 83.0
-      },
-      "seasonPct": 15.1,
-      "prevRank": null
-    },
-    {
-      "position": 8,
-      "name": "Marc Márquez",
-      "country": "ESP",
-      "bike": "Ducati",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "primary": "#CC0000",
-      "secondary": "#FFD200",
-      "points": 83.0,
-      "score": 15.1,
-      "stats": {
-        "pts": 83.0
-      },
-      "seasonPct": 15.1,
       "prevRank": null
     },
     {
@@ -169,20 +169,20 @@ window.MOTOGP_DATA = {
     }
   ],
   "LAST_RACE": {
-    "round": 7,
-    "name": "Italian motorcycle Grand Prix",
-    "winner": "Francesco Bagnaia",
-    "country": "ITA",
-    "bike": "Aprilia",
-    "primary": "#003366",
+    "round": 8,
+    "name": "Hungarian motorcycle Grand Prix",
+    "winner": "Marc Márquez",
+    "country": "SPA",
+    "bike": "Ducati",
+    "primary": "#CC0000",
     "podium": [
       {
         "pos": 1,
-        "name": "Francesco Bagnaia",
-        "country": "ITA",
-        "logo": "https://flagcdn.com/24x18/it.png",
-        "bike": "Aprilia",
-        "primary": "#003366"
+        "name": "Marc Márquez",
+        "country": "SPA",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "bike": "Ducati",
+        "primary": "#CC0000"
       }
     ]
   },

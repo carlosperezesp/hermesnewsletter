@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-07 09:43 UTC
+// Auto-generated 2026-06-07 14:32 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-06-07 09:43 UTC",
+  "UPDATED": "2026-06-07 14:32 UTC",
   "SEASON": "2026",
   "ROUND": 13,
   "IMPORTANCE": 7.8,
@@ -148,6 +148,17 @@ window.AFL_DATA = {
     },
     {
       "rank": 13,
+      "name": "Carlton",
+      "wins": 5,
+      "losses": 8,
+      "draws": 0,
+      "pts": 20,
+      "percentage": 88.7,
+      "primary": "#0E1E2D",
+      "secondary": "#FFFFFF"
+    },
+    {
+      "rank": 14,
       "name": "North Melbourne",
       "wins": 5,
       "losses": 7,
@@ -158,7 +169,7 @@ window.AFL_DATA = {
       "secondary": "#013B9F"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Port Adelaide",
       "wins": 4,
       "losses": 8,
@@ -167,17 +178,6 @@ window.AFL_DATA = {
       "percentage": 101.4,
       "primary": "#002B5C",
       "secondary": "#CC2031"
-    },
-    {
-      "rank": 15,
-      "name": "Carlton",
-      "wins": 4,
-      "losses": 8,
-      "draws": 0,
-      "pts": 16,
-      "percentage": 87.5,
-      "primary": "#0E1E2D",
-      "secondary": "#FFFFFF"
     },
     {
       "rank": 16,
@@ -205,10 +205,10 @@ window.AFL_DATA = {
       "rank": 18,
       "name": "Essendon",
       "wins": 1,
-      "losses": 11,
+      "losses": 12,
       "draws": 0,
       "pts": 4,
-      "percentage": 70.5,
+      "percentage": 71.7,
       "primary": "#CC2031",
       "secondary": "#000000"
     }
@@ -1115,6 +1115,16 @@ window.AFL_DATA = {
       "date": "2026-06-07",
       "hprimary": "#F57F00",
       "aprimary": "#ED1C2E"
+    },
+    {
+      "hteam": "Essendon",
+      "hscore": 67,
+      "ateam": "Carlton",
+      "ascore": 72,
+      "winner": "Carlton",
+      "date": "2026-06-07",
+      "hprimary": "#CC2031",
+      "aprimary": "#0E1E2D"
     }
   ],
   "CURRENT_CONTENDERS": [
