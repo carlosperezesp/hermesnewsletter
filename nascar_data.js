@@ -1,11 +1,11 @@
 window.NASCAR_DATA = {
-  "UPDATED": "2026-06-07 15:14 UTC",
+  "UPDATED": "2026-06-07 21:37 UTC",
   "SEASON": 2026,
-  "ROUND": 18,
+  "ROUND": 19,
   "TOTAL_ROUNDS": 36,
   "REGULAR_SEASON_ROUNDS": 26,
   "PLAYOFF_FIELD_SIZE": 16,
-  "IMPORTANCE": 8.0,
+  "IMPORTANCE": 8.1,
   "LEGEND_THRESHOLD": 14.7,
   "PLAYOFF_CUTOFF": {
     "rank": 16,
@@ -1381,20 +1381,20 @@ window.NASCAR_DATA = {
     }
   ],
   "LAST_RACE": {
-    "date": "Sun, May 31",
-    "name": "NASCAR Cup Series at Nashville",
-    "circuit": "Nashville Superspeedway",
-    "winner": "Denny Hamlin",
-    "manufacturer": "Toyota",
-    "url": "https://www.espn.com/racing/raceresults/_/series/sprint/raceId/202605314001",
+    "date": "Sun, Jun 7",
+    "name": "NASCAR Cup Series at Michigan",
+    "circuit": "Michigan International Speedway",
+    "winner": "Current Leader:",
+    "manufacturer": "NASCAR",
+    "url": "https://www.espn.com/racing/raceresults/_/series/sprint/raceId/202606070014",
     "podium": [
       {
         "position": 1,
-        "name": "Denny Hamlin",
-        "team": "Joe Gibbs Racing",
-        "manufacturer": "Toyota",
+        "name": "Chase Elliott (leads on lap 131 of 200)",
+        "team": "NASCAR Cup",
+        "manufacturer": "NASCAR",
         "logo": "https://flagcdn.com/24x18/us.png",
-        "primary": "#EB0A1E"
+        "primary": "#E4002B"
       },
       {
         "position": 2,
@@ -1406,24 +1406,24 @@ window.NASCAR_DATA = {
       },
       {
         "position": 3,
-        "name": "Chase Briscoe",
+        "name": "William Byron",
+        "team": "Hendrick Motorsports",
+        "manufacturer": "Chevrolet",
+        "logo": "https://flagcdn.com/24x18/us.png",
+        "primary": "#F7C600"
+      },
+      {
+        "position": 4,
+        "name": "Denny Hamlin",
         "team": "Joe Gibbs Racing",
         "manufacturer": "Toyota",
         "logo": "https://flagcdn.com/24x18/us.png",
         "primary": "#EB0A1E"
       },
       {
-        "position": 4,
-        "name": "Ricky Stenhouse Jr.",
-        "team": "NASCAR Cup",
-        "manufacturer": "Chevrolet",
-        "logo": "https://flagcdn.com/24x18/us.png",
-        "primary": "#F7C600"
-      },
-      {
         "position": 5,
-        "name": "Shane van Gisbergen",
-        "team": "Trackhouse Racing",
+        "name": "Kyle Larson",
+        "team": "Hendrick Motorsports",
         "manufacturer": "Chevrolet",
         "logo": "https://flagcdn.com/24x18/us.png",
         "primary": "#F7C600"

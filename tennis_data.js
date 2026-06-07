@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-07 15:15 UTC
+// Auto-generated 2026-06-07 21:39 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-07 15:15 UTC",
+  "UPDATED": "2026-06-07 21:39 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -772,9 +772,9 @@ window.TENNIS_DATA = {
       "prevListRank": 25,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
+        "state": "out",
         "round": "F",
-        "reason": ""
+        "reason": "Eliminado en F"
       }
     },
     {
@@ -12966,7 +12966,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Flavio Cobolli",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 4-6 6-4 6-7 (5-7) 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": 84.5,
@@ -12984,8 +12984,7 @@ window.TENNIS_DATA = {
     "surface": "Clay",
     "tour": "ATP",
     "alive": [
-      "Alexander Zverev",
-      "Flavio Cobolli"
+      "Alexander Zverev"
     ],
     "out": [
       "Adam Walton",
@@ -13031,6 +13030,7 @@ window.TENNIS_DATA = {
       "Facundo Diaz Acosta",
       "Federico Cina",
       "Felix Auger-Aliassime",
+      "Flavio Cobolli",
       "Frances Tiafoe",
       "Francisco Cerundolo",
       "Francisco Comesana",
@@ -13116,7 +13116,7 @@ window.TENNIS_DATA = {
       "Zhang Zhizhen",
       "Zizou Bergs"
     ],
-    "aliveCount": 2,
+    "aliveCount": 1,
     "matchesSeen": 127
   },
   "WTA_TOURNAMENT": {
