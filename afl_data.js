@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-07 21:37 UTC
+// Auto-generated 2026-06-08 09:56 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-06-07 21:37 UTC",
+  "UPDATED": "2026-06-08 09:56 UTC",
   "SEASON": "2026",
   "ROUND": 13,
   "IMPORTANCE": 7.8,
@@ -56,6 +56,18 @@ window.AFL_DATA = {
     },
     {
       "rank": 5,
+      "name": "Melbourne",
+      "wins": 8,
+      "losses": 5,
+      "draws": 0,
+      "pts": 32,
+      "percentage": 102.3,
+      "primary": "#CC2031",
+      "secondary": "#013B9F",
+      "prevRank": null
+    },
+    {
+      "rank": 6,
       "name": "Western Bulldogs",
       "wins": 8,
       "losses": 5,
@@ -67,7 +79,7 @@ window.AFL_DATA = {
       "prevRank": null
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Gold Coast",
       "wins": 7,
       "losses": 5,
@@ -79,7 +91,7 @@ window.AFL_DATA = {
       "prevRank": null
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Adelaide",
       "wins": 7,
       "losses": 5,
@@ -91,7 +103,7 @@ window.AFL_DATA = {
       "prevRank": null
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Brisbane Lions",
       "wins": 7,
       "losses": 6,
@@ -99,19 +111,7 @@ window.AFL_DATA = {
       "pts": 28,
       "percentage": 106.2,
       "primary": "#7B1A4B",
-      "secondary": "#F6AE00",
-      "prevRank": null
-    },
-    {
-      "rank": 9,
-      "name": "Melbourne",
-      "wins": 7,
-      "losses": 5,
-      "draws": 0,
-      "pts": 28,
-      "percentage": 101.8,
-      "primary": "#CC2031",
-      "secondary": "#013B9F"
+      "secondary": "#F6AE00"
     },
     {
       "rank": 10,
@@ -128,10 +128,10 @@ window.AFL_DATA = {
       "rank": 11,
       "name": "Collingwood",
       "wins": 5,
-      "losses": 6,
+      "losses": 7,
       "draws": 1,
       "pts": 22,
-      "percentage": 99.9,
+      "percentage": 99.2,
       "primary": "#000000",
       "secondary": "#FFFFFF"
     },
@@ -1125,6 +1125,16 @@ window.AFL_DATA = {
       "date": "2026-06-07",
       "hprimary": "#CC2031",
       "aprimary": "#0E1E2D"
+    },
+    {
+      "hteam": "Collingwood",
+      "hscore": 75,
+      "ateam": "Melbourne",
+      "ascore": 83,
+      "winner": "Melbourne",
+      "date": "2026-06-08",
+      "hprimary": "#000000",
+      "aprimary": "#CC2031"
     }
   ],
   "CURRENT_CONTENDERS": [

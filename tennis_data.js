@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-07 21:39 UTC
+// Auto-generated 2026-06-08 09:58 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-07 21:39 UTC",
+  "UPDATED": "2026-06-08 09:58 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -25,13 +25,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 1,
         "top10_wins": 65
       },
-      "prevListRank": 1,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 1
     },
     {
       "id": "207989",
@@ -56,13 +50,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 55
       },
-      "prevListRank": 2,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "Lesión · no compite en Roland Garros"
-      }
+      "prevListRank": 2
     },
     {
       "id": "104925",
@@ -87,13 +75,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 228
       },
-      "prevListRank": 3,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 3
     },
     {
       "id": "100644",
@@ -118,13 +100,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 58
       },
-      "prevListRank": 4,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "alive",
-        "round": "F",
-        "reason": ""
-      }
+      "prevListRank": 4
     },
     {
       "id": "209950",
@@ -149,13 +125,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 9
       },
-      "prevListRank": 5,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 5
     },
     {
       "id": "106421",
@@ -180,13 +150,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 52
       },
-      "prevListRank": 6,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 6
     },
     {
       "id": "134770",
@@ -211,13 +175,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 21
       },
-      "prevListRank": 7,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R16",
-        "reason": "Eliminado en R16"
-      }
+      "prevListRank": 7
     },
     {
       "id": "126205",
@@ -242,13 +200,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 15
       },
-      "prevListRank": 8,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 8
     },
     {
       "id": "207518",
@@ -273,13 +225,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 15
       },
-      "prevListRank": 9,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 9
     },
     {
       "id": "200282",
@@ -304,13 +250,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 22
       },
-      "prevListRank": 10,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 10
     },
     {
       "id": "208103",
@@ -335,13 +275,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 10
       },
-      "prevListRank": 11,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 11
     },
     {
       "id": "212588",
@@ -366,13 +300,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 12,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "Quarterfinal",
-        "reason": "Eliminado en Quarterfinal"
-      }
+      "prevListRank": 12
     },
     {
       "id": "210097",
@@ -397,13 +325,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 8
       },
-      "prevListRank": 13,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 13
     },
     {
       "id": "122330",
@@ -428,13 +350,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 14,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 14
     },
     {
       "id": "126203",
@@ -459,13 +375,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 31
       },
-      "prevListRank": 15,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 15
     },
     {
       "id": "200000",
@@ -490,13 +400,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 25
       },
-      "prevListRank": 16,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "Quarterfinal",
-        "reason": "Eliminado en Quarterfinal"
-      }
+      "prevListRank": 16
     },
     {
       "id": "126094",
@@ -521,13 +425,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 26
       },
-      "prevListRank": 17,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R16",
-        "reason": "Eliminado en R16"
-      }
+      "prevListRank": 17
     },
     {
       "id": "207733",
@@ -552,13 +450,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 9
       },
-      "prevListRank": 18,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 18
     },
     {
       "id": "200473",
@@ -583,13 +475,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 19,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 19
     },
     {
       "id": "126207",
@@ -614,13 +500,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 20,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R16",
-        "reason": "Eliminado en R16"
-      }
+      "prevListRank": 20
     },
     {
       "id": "200221",
@@ -645,13 +525,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 12
       },
-      "prevListRank": 21,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 21
     },
     {
       "id": "202103",
@@ -676,13 +550,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 16
       },
-      "prevListRank": 22,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 22
     },
     {
       "id": "210530",
@@ -707,13 +575,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 23,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 23
     },
     {
       "id": "208029",
@@ -738,13 +600,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 20
       },
-      "prevListRank": 24,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 24
     },
     {
       "id": "207925",
@@ -769,13 +625,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 25,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "F",
-        "reason": "Eliminado en F"
-      }
+      "prevListRank": 25
     },
     {
       "id": "210150",
@@ -800,13 +650,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 9
       },
-      "prevListRank": 26,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "Semifinal",
-        "reason": "Eliminado en Semifinal"
-      }
+      "prevListRank": 26
     },
     {
       "id": "210696",
@@ -831,13 +675,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 27,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 27
     },
     {
       "id": "211663",
@@ -862,13 +700,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 28,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "Quarterfinal",
-        "reason": "Eliminado en Quarterfinal"
-      }
+      "prevListRank": 28
     },
     {
       "id": "111575",
@@ -893,13 +725,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 16
       },
-      "prevListRank": 29,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 29
     },
     {
       "id": "200624",
@@ -924,13 +750,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 10
       },
-      "prevListRank": 30,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 30
     },
     {
       "id": "209860",
@@ -955,13 +775,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 31,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 31
     },
     {
       "id": "111815",
@@ -986,13 +800,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 32,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 32
     },
     {
       "id": "144684",
@@ -1017,13 +825,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 33,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 33
     },
     {
       "id": "207830",
@@ -1048,13 +850,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 34,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 34
     },
     {
       "id": "134868",
@@ -1079,13 +875,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 35,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 35
     },
     {
       "id": "209260",
@@ -1110,13 +900,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 36,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 36
     },
     {
       "id": "144869",
@@ -1141,13 +925,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 37,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 37
     },
     {
       "id": "200005",
@@ -1172,13 +950,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 38,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 38
     },
     {
       "id": "126239",
@@ -1203,13 +975,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 39,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 39
     },
     {
       "id": "206909",
@@ -1234,13 +1000,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 40,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 40
     },
     {
       "id": "144719",
@@ -1265,13 +1025,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 41,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 41
     },
     {
       "id": "126214",
@@ -1296,13 +1050,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 42,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R16",
-        "reason": "Eliminado en R16"
-      }
+      "prevListRank": 42
     },
     {
       "id": "210506",
@@ -1327,13 +1075,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 43,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 43
     },
     {
       "id": "208363",
@@ -1358,13 +1100,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 44,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 44
     },
     {
       "id": "202058",
@@ -1389,13 +1125,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 45,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 45
     },
     {
       "id": "210017",
@@ -1420,13 +1150,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 46,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 46
     },
     {
       "id": "209098",
@@ -1451,13 +1175,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 47,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 47
     },
     {
       "id": "105870",
@@ -1482,13 +1200,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 48,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 48
     },
     {
       "id": "122298",
@@ -1513,13 +1225,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 49,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 49
     },
     {
       "id": "144895",
@@ -1544,13 +1250,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 50,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 50
     },
     {
       "id": "105227",
@@ -1575,13 +1275,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 30
       },
-      "prevListRank": 51,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 51
     },
     {
       "id": "200267",
@@ -1606,13 +1300,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 52,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 52
     },
     {
       "id": "209113",
@@ -1637,13 +1325,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 53,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 53
     },
     {
       "id": "133430",
@@ -1668,13 +1350,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 54,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 54
     },
     {
       "id": "126774",
@@ -1699,13 +1375,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 37
       },
-      "prevListRank": 55,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 55
     },
     {
       "id": "206681",
@@ -1730,13 +1400,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 56,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 56
     },
     {
       "id": "209226",
@@ -1761,13 +1425,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 57,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 57
     },
     {
       "id": "202385",
@@ -1792,13 +1450,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 58,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 58
     },
     {
       "id": "132686",
@@ -1823,13 +1475,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 59,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 59
     },
     {
       "id": "105916",
@@ -1854,13 +1500,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 60,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 60
     },
     {
       "id": "209070",
@@ -1885,13 +1525,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 61,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 61
     },
     {
       "id": "208118",
@@ -1916,13 +1550,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 62,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 62
     },
     {
       "id": "126504",
@@ -1947,13 +1575,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 63,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 63
     },
     {
       "id": "200240",
@@ -1978,13 +1600,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 64,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 64
     },
     {
       "id": "126535",
@@ -2009,13 +1625,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 65,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 65
     },
     {
       "id": "209279",
@@ -2040,13 +1650,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 66,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 66
     },
     {
       "id": "128034",
@@ -2071,13 +1675,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 21
       },
-      "prevListRank": 67,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 67
     },
     {
       "id": "208169",
@@ -2102,13 +1700,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 68,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 68
     },
     {
       "id": "209857",
@@ -2133,13 +1725,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 69,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 69
     },
     {
       "id": "200615",
@@ -2164,13 +1750,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 70,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 70
     },
     {
       "id": "202104",
@@ -2195,13 +1775,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 71,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 71
     },
     {
       "id": "200116",
@@ -2226,13 +1800,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 72,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 72
     },
     {
       "id": "209920",
@@ -2257,13 +1825,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 73,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 73
     },
     {
       "id": "126610",
@@ -2288,13 +1850,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 12
       },
-      "prevListRank": 74,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "Quarterfinal",
-        "reason": "Eliminado en Quarterfinal"
-      }
+      "prevListRank": 74
     },
     {
       "id": "208010",
@@ -2319,13 +1875,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 75,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 75
     },
     {
       "id": "207678",
@@ -2350,13 +1900,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 76,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R16",
-        "reason": "Eliminado en R16"
-      }
+      "prevListRank": 76
     },
     {
       "id": "209976",
@@ -2381,13 +1925,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 77,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 77
     },
     {
       "id": "111794",
@@ -2412,13 +1950,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 78,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 78
     },
     {
       "id": "200059",
@@ -2443,13 +1975,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 79,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 79
     },
     {
       "id": "126663",
@@ -2474,13 +2000,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 80,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 80
     },
     {
       "id": "207680",
@@ -2505,13 +2025,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 81,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 81
     },
     {
       "id": "208882",
@@ -2536,13 +2050,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 82,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 82
     },
     {
       "id": "209409",
@@ -2567,13 +2075,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 83,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 83
     },
     {
       "id": "200175",
@@ -2598,13 +2100,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 84,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 84
     },
     {
       "id": "209414",
@@ -2629,13 +2125,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 85,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 85
     },
     {
       "id": "200416",
@@ -2660,13 +2150,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 86,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 86
     },
     {
       "id": "111442",
@@ -2691,13 +2175,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 87,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 87
     },
     {
       "id": "124187",
@@ -2722,13 +2200,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 9
       },
-      "prevListRank": 88,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 88
     },
     {
       "id": "208843",
@@ -2753,13 +2225,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 89,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 89
     },
     {
       "id": "209147",
@@ -2784,13 +2250,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 90,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 90
     },
     {
       "id": "106218",
@@ -2815,13 +2275,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 91,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 91
     },
     {
       "id": "206499",
@@ -2846,13 +2300,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 92,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 92
     },
     {
       "id": "212021",
@@ -2877,13 +2325,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 93,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 93
     },
     {
       "id": "132283",
@@ -2908,13 +2350,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 94,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 94
     },
     {
       "id": "210338",
@@ -2939,13 +2375,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 95,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 95
     },
     {
       "id": "127157",
@@ -2970,13 +2400,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 96,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 96
     },
     {
       "id": "144750",
@@ -3001,13 +2425,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 97,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 97
     },
     {
       "id": "209957",
@@ -3032,13 +2450,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 98,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 98
     },
     {
       "id": "105777",
@@ -3063,13 +2475,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 43
       },
-      "prevListRank": 99,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 99
     },
     {
       "id": "126952",
@@ -3094,13 +2500,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 100,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 100
     },
     {
       "id": "105173",
@@ -3125,13 +2525,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 101,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 101
     },
     {
       "id": "208233",
@@ -3156,13 +2550,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 102,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 102
     },
     {
       "id": "210012",
@@ -3187,13 +2575,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 103,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 103
     },
     {
       "id": "126127",
@@ -3218,13 +2600,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 104,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 104
     },
     {
       "id": "209259",
@@ -3249,13 +2625,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 105,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 105
     },
     {
       "id": "207686",
@@ -3280,13 +2650,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 106,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 106
     },
     {
       "id": "210319",
@@ -3311,13 +2675,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 107,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 107
     },
     {
       "id": "106065",
@@ -3342,13 +2700,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 108,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 108
     },
     {
       "id": "102093",
@@ -3373,13 +2725,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 109,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 109
     },
     {
       "id": "210389",
@@ -3404,13 +2750,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 110,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 110
     },
     {
       "id": "206750",
@@ -3435,13 +2775,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 111,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 111
     },
     {
       "id": "210178",
@@ -3466,13 +2800,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 112,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 112
     },
     {
       "id": "208293",
@@ -3497,13 +2825,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 113,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 113
     },
     {
       "id": "144645",
@@ -3528,13 +2850,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 114,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 114
     },
     {
       "id": "105882",
@@ -3559,13 +2875,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 115,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 115
     },
     {
       "id": "210136",
@@ -3590,13 +2900,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 116,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 116
     },
     {
       "id": "210053",
@@ -3621,13 +2925,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 117,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 117
     },
     {
       "id": "105526",
@@ -3652,13 +2950,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 118,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 118
     },
     {
       "id": "105477",
@@ -3683,13 +2975,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 119,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 119
     },
     {
       "id": "207494",
@@ -3714,13 +3000,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 120,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 120
     },
     {
       "id": "202127",
@@ -3745,13 +3025,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 121,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 121
     },
     {
       "id": "200008",
@@ -3776,13 +3050,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 122,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 122
     },
     {
       "id": "210116",
@@ -3807,13 +3075,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 123,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 123
     },
     {
       "id": "106071",
@@ -3838,13 +3100,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 8
       },
-      "prevListRank": 124,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 124
     },
     {
       "id": "124186",
@@ -3869,13 +3125,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 125,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 125
     },
     {
       "id": "208286",
@@ -3900,13 +3150,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 126,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "Semifinal",
-        "reason": "Eliminado en Semifinal"
-      }
+      "prevListRank": 126
     },
     {
       "id": "209209",
@@ -3931,13 +3175,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 127,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 127
     },
     {
       "id": "207182",
@@ -3962,13 +3200,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 128,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 128
     },
     {
       "id": "207411",
@@ -3993,13 +3225,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 129,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R16",
-        "reason": "Eliminado en R16"
-      }
+      "prevListRank": 129
     },
     {
       "id": "111460",
@@ -4024,13 +3250,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 130,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 130
     },
     {
       "id": "105138",
@@ -4055,13 +3275,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 22
       },
-      "prevListRank": 131,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 131
     },
     {
       "id": "208013",
@@ -4086,13 +3300,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 132,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 132
     },
     {
       "id": "210460",
@@ -4117,13 +3325,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 133,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 133
     },
     {
       "id": "210262",
@@ -4148,13 +3350,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 134,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 134
     },
     {
       "id": "207729",
@@ -4179,13 +3375,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 135,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 135
     },
     {
       "id": "208659",
@@ -4210,13 +3400,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 136,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 136
     },
     {
       "id": "208353",
@@ -4241,13 +3425,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 137,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 137
     },
     {
       "id": "106109",
@@ -4272,13 +3450,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 138,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 138
     },
     {
       "id": "144870",
@@ -4303,13 +3475,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 139,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 139
     },
     {
       "id": "208361",
@@ -4334,13 +3500,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 140,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 140
     },
     {
       "id": "208852",
@@ -4365,13 +3525,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 141,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 141
     },
     {
       "id": "105932",
@@ -4396,13 +3550,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 9
       },
-      "prevListRank": 142,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 142
     },
     {
       "id": "106000",
@@ -4427,13 +3575,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 143,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 143
     },
     {
       "id": "106415",
@@ -4458,13 +3600,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 144,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 144
     },
     {
       "id": "149282",
@@ -4489,13 +3625,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 145,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 145
     },
     {
       "id": "106331",
@@ -4520,13 +3650,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 146,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 146
     },
     {
       "id": "111797",
@@ -4551,13 +3675,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 147,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 147
     },
     {
       "id": "207985",
@@ -4582,13 +3700,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 148,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 148
     },
     {
       "id": "207681",
@@ -4613,13 +3725,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 149,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 149
     },
     {
       "id": "208316",
@@ -4644,13 +3750,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 150,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 150
     },
     {
       "id": "111456",
@@ -4675,13 +3775,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 5
       },
-      "prevListRank": 151,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 151
     },
     {
       "id": "208021",
@@ -4706,13 +3800,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 152,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 152
     },
     {
       "id": "105902",
@@ -4737,13 +3825,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 153,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 153
     },
     {
       "id": "126128",
@@ -4768,13 +3850,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 154,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 154
     },
     {
       "id": "105807",
@@ -4799,13 +3875,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 155,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R16",
-        "reason": "Eliminado en R16"
-      }
+      "prevListRank": 155
     },
     {
       "id": "208260",
@@ -4830,13 +3900,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 156,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R16",
-        "reason": "Eliminado en R16"
-      }
+      "prevListRank": 156
     },
     {
       "id": "208014",
@@ -4861,13 +3925,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 157,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 157
     },
     {
       "id": "106426",
@@ -4892,13 +3950,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 158,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 158
     },
     {
       "id": "127760",
@@ -4923,13 +3975,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 159,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 159
     },
     {
       "id": "111200",
@@ -4954,13 +4000,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 160,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 160
     },
     {
       "id": "200514",
@@ -4985,13 +4025,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 161,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 161
     },
     {
       "id": "200443",
@@ -5016,13 +4050,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 162,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 162
     },
     {
       "id": "127339",
@@ -5047,13 +4075,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 163,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 163
     },
     {
       "id": "208134",
@@ -5078,13 +4100,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 164,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 164
     },
     {
       "id": "208210",
@@ -5109,13 +4125,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 165,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 165
     },
     {
       "id": "206904",
@@ -5140,13 +4150,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 166,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 166
     },
     {
       "id": "211533",
@@ -5171,13 +4175,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 167,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 167
     },
     {
       "id": "206307",
@@ -5202,13 +4200,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 168,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 168
     },
     {
       "id": "126846",
@@ -5233,13 +4225,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 169,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 169
     },
     {
       "id": "212082",
@@ -5264,13 +4250,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 170,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 170
     },
     {
       "id": "206889",
@@ -5295,13 +4275,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 171,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 171
     },
     {
       "id": "209903",
@@ -5326,13 +4300,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 172,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 172
     },
     {
       "id": "209875",
@@ -5357,13 +4325,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 173,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 173
     },
     {
       "id": "121411",
@@ -5388,13 +4350,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 174,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 174
     },
     {
       "id": "200436",
@@ -5419,13 +4375,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 175,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 175
     },
     {
       "id": "207608",
@@ -5450,13 +4400,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 176,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 176
     },
     {
       "id": "200711",
@@ -5481,13 +4425,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 177,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 177
     },
     {
       "id": "208119",
@@ -5512,13 +4450,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 178,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 178
     },
     {
       "id": "200647",
@@ -5543,13 +4475,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 179,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 179
     },
     {
       "id": "123828",
@@ -5574,13 +4500,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 180,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 180
     },
     {
       "id": "202261",
@@ -5605,13 +4525,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 181,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 181
     },
     {
       "id": "105583",
@@ -5636,13 +4550,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 10
       },
-      "prevListRank": 182,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 182
     },
     {
       "id": "208859",
@@ -5667,13 +4575,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 183,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 183
     },
     {
       "id": "124116",
@@ -5698,13 +4600,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 184,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 184
     },
     {
       "id": "200259",
@@ -5729,13 +4625,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 185,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 185
     },
     {
       "id": "104527",
@@ -5760,13 +4650,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 52
       },
-      "prevListRank": 186,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 186
     },
     {
       "id": "209262",
@@ -5791,13 +4675,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 187,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 187
     },
     {
       "id": "209284",
@@ -5822,13 +4700,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 188,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 188
     },
     {
       "id": "126129",
@@ -5853,13 +4725,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 189,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 189
     },
     {
       "id": "106198",
@@ -5884,13 +4750,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 190,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 190
     },
     {
       "id": "206748",
@@ -5915,13 +4775,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 191,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 191
     },
     {
       "id": "124079",
@@ -5946,13 +4800,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 192,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 192
     },
     {
       "id": "207352",
@@ -5977,13 +4825,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 193,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 193
     },
     {
       "id": "200384",
@@ -6008,13 +4850,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 194,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 194
     },
     {
       "id": "200516",
@@ -6039,13 +4875,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 195,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 195
     },
     {
       "id": "208278",
@@ -6070,13 +4900,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 196,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 196
     },
     {
       "id": "212256",
@@ -6101,13 +4925,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 197,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 197
     },
     {
       "id": "202358",
@@ -6132,13 +4950,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 198,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 198
     },
     {
       "id": "210536",
@@ -6163,13 +4975,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 199,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 199
     },
     {
       "id": "144642",
@@ -6194,13 +5000,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 200,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 200
     }
   ],
   "WTA": [
@@ -6227,13 +5027,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 1,
         "top10_wins": 60
       },
-      "prevListRank": 1,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "Quarterfinal",
-        "reason": "Eliminado en Quarterfinal"
-      }
+      "prevListRank": 1
     },
     {
       "id": "214981",
@@ -6258,13 +5052,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 37
       },
-      "prevListRank": 2,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 2
     },
     {
       "id": "221103",
@@ -6289,13 +5077,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 35
       },
-      "prevListRank": 3,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 3
     },
     {
       "id": "202468",
@@ -6320,13 +5102,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 30
       },
-      "prevListRank": 4,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 4
     },
     {
       "id": "216347",
@@ -6351,13 +5127,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 53
       },
-      "prevListRank": 5,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R16",
-        "reason": "Eliminado en R16"
-      }
+      "prevListRank": 5
     },
     {
       "id": "202494",
@@ -6382,13 +5152,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 49
       },
-      "prevListRank": 6,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "Quarterfinal",
-        "reason": "Eliminado en Quarterfinal"
-      }
+      "prevListRank": 6
     },
     {
       "id": "259799",
@@ -6413,13 +5177,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 7,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "alive",
-        "round": "F",
-        "reason": ""
-      }
+      "prevListRank": 7
     },
     {
       "id": "216146",
@@ -6444,13 +5202,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 8,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "Semifinal",
-        "reason": "Eliminado en Semifinal"
-      }
+      "prevListRank": 8
     },
     {
       "id": "216153",
@@ -6475,13 +5227,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 19
       },
-      "prevListRank": 9,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 9
     },
     {
       "id": "214096",
@@ -6506,13 +5252,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 20
       },
-      "prevListRank": 10,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 10
     },
     {
       "id": "201514",
@@ -6537,13 +5277,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 20
       },
-      "prevListRank": 11,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "Quarterfinal",
-        "reason": "Eliminado en Quarterfinal"
-      }
+      "prevListRank": 11
     },
     {
       "id": "239475",
@@ -6568,13 +5302,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 12,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 12
     },
     {
       "id": "202505",
@@ -6599,13 +5327,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 38
       },
-      "prevListRank": 13,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R16",
-        "reason": "Eliminado en R16"
-      }
+      "prevListRank": 13
     },
     {
       "id": "214954",
@@ -6630,13 +5352,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 16
       },
-      "prevListRank": 14,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 14
     },
     {
       "id": "201619",
@@ -6661,13 +5377,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 33
       },
-      "prevListRank": 15,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R16",
-        "reason": "Eliminado en R16"
-      }
+      "prevListRank": 15
     },
     {
       "id": "222328",
@@ -6692,13 +5402,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 12
       },
-      "prevListRank": 16,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 16
     },
     {
       "id": "210722",
@@ -6723,13 +5427,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 17,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 17
     },
     {
       "id": "215713",
@@ -6754,13 +5452,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 8
       },
-      "prevListRank": 18,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R16",
-        "reason": "Eliminado en R16"
-      }
+      "prevListRank": 18
     },
     {
       "id": "211768",
@@ -6785,13 +5477,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 19,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R16",
-        "reason": "Eliminado en R16"
-      }
+      "prevListRank": 19
     },
     {
       "id": "211148",
@@ -6816,13 +5502,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 10
       },
-      "prevListRank": 20,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 20
     },
     {
       "id": "260300",
@@ -6847,13 +5527,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 21,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 21
     },
     {
       "id": "221012",
@@ -6878,13 +5552,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 22,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 22
     },
     {
       "id": "214939",
@@ -6909,13 +5577,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 23,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "Quarterfinal",
-        "reason": "Eliminado en Quarterfinal"
-      }
+      "prevListRank": 23
     },
     {
       "id": "206252",
@@ -6940,13 +5602,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 15
       },
-      "prevListRank": 24,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 24
     },
     {
       "id": "211533",
@@ -6971,13 +5627,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 26
       },
-      "prevListRank": 25,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 25
     },
     {
       "id": "223670",
@@ -7002,13 +5652,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 26,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "Semifinal",
-        "reason": "Eliminado en Semifinal"
-      }
+      "prevListRank": 26
     },
     {
       "id": "221024",
@@ -7033,13 +5677,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 27,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 27
     },
     {
       "id": "215613",
@@ -7064,13 +5702,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 28,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 28
     },
     {
       "id": "213631",
@@ -7095,13 +5727,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 29,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 29
     },
     {
       "id": "206420",
@@ -7126,13 +5752,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 19
       },
-      "prevListRank": 30,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 30
     },
     {
       "id": "220367",
@@ -7157,13 +5777,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 31,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 31
     },
     {
       "id": "211713",
@@ -7188,13 +5802,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 32,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 32
     },
     {
       "id": "201662",
@@ -7219,13 +5827,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 39
       },
-      "prevListRank": 33,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 33
     },
     {
       "id": "220704",
@@ -7250,13 +5852,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 5
       },
-      "prevListRank": 34,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 34
     },
     {
       "id": "215983",
@@ -7281,13 +5877,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 35,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 35
     },
     {
       "id": "266671",
@@ -7312,13 +5902,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 36,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 36
     },
     {
       "id": "223253",
@@ -7343,13 +5927,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 37,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 37
     },
     {
       "id": "220714",
@@ -7374,13 +5952,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 38,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 38
     },
     {
       "id": "214643",
@@ -7405,13 +5977,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 10
       },
-      "prevListRank": 39,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 39
     },
     {
       "id": "220520",
@@ -7436,13 +6002,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 40,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 40
     },
     {
       "id": "221054",
@@ -7467,13 +6027,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 41,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 41
     },
     {
       "id": "222391",
@@ -7498,13 +6052,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 42,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 42
     },
     {
       "id": "201696",
@@ -7529,13 +6077,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 43,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 43
     },
     {
       "id": "222661",
@@ -7560,13 +6102,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 44,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 44
     },
     {
       "id": "238184",
@@ -7591,13 +6127,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 45,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 45
     },
     {
       "id": "215035",
@@ -7622,13 +6152,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 5
       },
-      "prevListRank": 46,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 46
     },
     {
       "id": "203501",
@@ -7653,13 +6177,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 47,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 47
     },
     {
       "id": "239383",
@@ -7684,13 +6202,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 48,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 48
     },
     {
       "id": "210622",
@@ -7715,13 +6227,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 49,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 49
     },
     {
       "id": "211701",
@@ -7746,13 +6252,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 50,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 50
     },
     {
       "id": "223194",
@@ -7777,13 +6277,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 51,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 51
     },
     {
       "id": "233741",
@@ -7808,13 +6302,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 52,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 52
     },
     {
       "id": "211107",
@@ -7839,13 +6327,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 53,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 53
     },
     {
       "id": "221883",
@@ -7870,13 +6352,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 54,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 54
     },
     {
       "id": "206368",
@@ -7901,13 +6377,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 16
       },
-      "prevListRank": 55,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 55
     },
     {
       "id": "220548",
@@ -7932,13 +6402,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 56,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 56
     },
     {
       "id": "206289",
@@ -7963,13 +6427,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 30
       },
-      "prevListRank": 57,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 57
     },
     {
       "id": "211843",
@@ -7994,13 +6452,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 5
       },
-      "prevListRank": 58,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 58
     },
     {
       "id": "223360",
@@ -8025,13 +6477,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 59,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 59
     },
     {
       "id": "214119",
@@ -8056,13 +6502,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 60,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 60
     },
     {
       "id": "216133",
@@ -8087,13 +6527,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 61,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 61
     },
     {
       "id": "220716",
@@ -8118,13 +6552,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 62,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 62
     },
     {
       "id": "214388",
@@ -8149,13 +6577,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 63,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 63
     },
     {
       "id": "216083",
@@ -8180,13 +6602,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 64,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 64
     },
     {
       "id": "215785",
@@ -8211,13 +6627,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 65,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 65
     },
     {
       "id": "222017",
@@ -8242,13 +6652,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 66,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 66
     },
     {
       "id": "202663",
@@ -8273,13 +6677,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 8
       },
-      "prevListRank": 67,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 67
     },
     {
       "id": "263857",
@@ -8304,13 +6702,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 68,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 68
     },
     {
       "id": "203514",
@@ -8335,13 +6727,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 69,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 69
     },
     {
       "id": "220332",
@@ -8366,13 +6752,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 70,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 70
     },
     {
       "id": "238075",
@@ -8397,13 +6777,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 71,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 71
     },
     {
       "id": "213710",
@@ -8428,13 +6802,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 72,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 72
     },
     {
       "id": "215910",
@@ -8459,13 +6827,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 73,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 73
     },
     {
       "id": "220309",
@@ -8490,13 +6852,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 74,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 74
     },
     {
       "id": "222045",
@@ -8521,13 +6877,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 75,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 75
     },
     {
       "id": "211817",
@@ -8552,13 +6902,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 76,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 76
     },
     {
       "id": "260172",
@@ -8583,13 +6927,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 77,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 77
     },
     {
       "id": "221333",
@@ -8614,13 +6952,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 78,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 78
     },
     {
       "id": "222601",
@@ -8645,13 +6977,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 79,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 79
     },
     {
       "id": "214082",
@@ -8676,13 +7002,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 24
       },
-      "prevListRank": 80,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 80
     },
     {
       "id": "201533",
@@ -8707,13 +7027,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 8
       },
-      "prevListRank": 81,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 81
     },
     {
       "id": "215337",
@@ -8738,13 +7052,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 82,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 82
     },
     {
       "id": "223325",
@@ -8769,13 +7077,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 83,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 83
     },
     {
       "id": "222145",
@@ -8800,13 +7102,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 84,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 84
     },
     {
       "id": "211684",
@@ -8831,13 +7127,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 85,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 85
     },
     {
       "id": "214040",
@@ -8862,13 +7152,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 86,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 86
     },
     {
       "id": "222966",
@@ -8893,13 +7177,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 87,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 87
     },
     {
       "id": "220750",
@@ -8924,13 +7202,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 88,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 88
     },
     {
       "id": "204411",
@@ -8955,13 +7227,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 89,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 89
     },
     {
       "id": "220348",
@@ -8986,13 +7252,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 90,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R16",
-        "reason": "Eliminado en R16"
-      }
+      "prevListRank": 90
     },
     {
       "id": "213583",
@@ -9017,13 +7277,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 91,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 91
     },
     {
       "id": "219875",
@@ -9048,13 +7302,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 92,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 92
     },
     {
       "id": "211651",
@@ -9079,13 +7327,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 15
       },
-      "prevListRank": 93,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 93
     },
     {
       "id": "247669",
@@ -9110,13 +7352,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 94,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 94
     },
     {
       "id": "202499",
@@ -9141,13 +7377,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 17
       },
-      "prevListRank": 95,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 95
     },
     {
       "id": "221909",
@@ -9172,13 +7402,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 96,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 96
     },
     {
       "id": "221124",
@@ -9203,13 +7427,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 97,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 97
     },
     {
       "id": "220699",
@@ -9234,13 +7452,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 98,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 98
     },
     {
       "id": "213550",
@@ -9265,13 +7477,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 99,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 99
     },
     {
       "id": "211337",
@@ -9296,13 +7502,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 100,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 100
     },
     {
       "id": "213525",
@@ -9327,13 +7527,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 8
       },
-      "prevListRank": 101,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R16",
-        "reason": "Eliminado en R16"
-      }
+      "prevListRank": 101
     },
     {
       "id": "213887",
@@ -9358,13 +7552,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 102,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 102
     },
     {
       "id": "216566",
@@ -9389,13 +7577,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 103,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 103
     },
     {
       "id": "259857",
@@ -9420,13 +7602,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 104,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 104
     },
     {
       "id": "201709",
@@ -9451,13 +7627,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 105,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 105
     },
     {
       "id": "219917",
@@ -9482,13 +7652,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 106,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 106
     },
     {
       "id": "221354",
@@ -9513,13 +7677,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 107,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 107
     },
     {
       "id": "211880",
@@ -9544,13 +7702,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 108,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 108
     },
     {
       "id": "201499",
@@ -9575,13 +7727,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 34
       },
-      "prevListRank": 109,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 109
     },
     {
       "id": "220446",
@@ -9606,13 +7752,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 110,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 110
     },
     {
       "id": "203530",
@@ -9637,13 +7777,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 111,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R32",
-        "reason": "Eliminado en R32"
-      }
+      "prevListRank": 111
     },
     {
       "id": "259871",
@@ -9668,13 +7802,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 112,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 112
     },
     {
       "id": "221803",
@@ -9699,13 +7827,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 113,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 113
     },
     {
       "id": "214254",
@@ -9730,13 +7852,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 114,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 114
     },
     {
       "id": "236972",
@@ -9761,13 +7877,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 115,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 115
     },
     {
       "id": "236957",
@@ -9792,13 +7902,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 116,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 116
     },
     {
       "id": "220466",
@@ -9823,13 +7927,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 117,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 117
     },
     {
       "id": "211227",
@@ -9854,13 +7952,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 118,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 118
     },
     {
       "id": "220742",
@@ -9885,13 +7977,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 119,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 119
     },
     {
       "id": "222290",
@@ -9916,13 +8002,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 120,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 120
     },
     {
       "id": "216081",
@@ -9947,13 +8027,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 121,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "F",
-        "reason": "Eliminado en F"
-      }
+      "prevListRank": 121
     },
     {
       "id": "205925",
@@ -9978,13 +8052,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 122,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 122
     },
     {
       "id": "221626",
@@ -10009,13 +8077,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 123,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 123
     },
     {
       "id": "201548",
@@ -10040,13 +8102,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 124,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 124
     },
     {
       "id": "213576",
@@ -10071,13 +8127,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 125,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 125
     },
     {
       "id": "202604",
@@ -10102,13 +8152,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 126,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 126
     },
     {
       "id": "220435",
@@ -10133,13 +8177,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 127,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 127
     },
     {
       "id": "211685",
@@ -10164,13 +8202,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 128,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 128
     },
     {
       "id": "215480",
@@ -10195,13 +8227,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 129,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 129
     },
     {
       "id": "214461",
@@ -10226,13 +8252,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 130,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 130
     },
     {
       "id": "223321",
@@ -10257,13 +8277,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 131,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 131
     },
     {
       "id": "221039",
@@ -10288,13 +8302,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 132,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 132
     },
     {
       "id": "215306",
@@ -10319,13 +8327,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 133,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 133
     },
     {
       "id": "214646",
@@ -10350,13 +8352,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 134,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 134
     },
     {
       "id": "215020",
@@ -10381,13 +8377,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 135,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 135
     },
     {
       "id": "222233",
@@ -10412,13 +8402,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 136,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 136
     },
     {
       "id": "206294",
@@ -10443,13 +8427,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 137,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 137
     },
     {
       "id": "221407",
@@ -10474,13 +8452,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 138,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 138
     },
     {
       "id": "202684",
@@ -10505,13 +8477,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 139,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 139
     },
     {
       "id": "239456",
@@ -10536,13 +8502,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 140,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 140
     },
     {
       "id": "215453",
@@ -10567,13 +8527,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 141,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 141
     },
     {
       "id": "221985",
@@ -10598,13 +8552,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 142,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 142
     },
     {
       "id": "215370",
@@ -10629,13 +8577,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 12
       },
-      "prevListRank": 143,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 143
     },
     {
       "id": "243420",
@@ -10660,13 +8602,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 144,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 144
     },
     {
       "id": "215872",
@@ -10691,13 +8627,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 145,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 145
     },
     {
       "id": "214452",
@@ -10722,13 +8652,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 146,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 146
     },
     {
       "id": "221237",
@@ -10753,13 +8677,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 147,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 147
     },
     {
       "id": "215037",
@@ -10784,13 +8702,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 148,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 148
     },
     {
       "id": "215899",
@@ -10815,13 +8727,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 149,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 149
     },
     {
       "id": "215571",
@@ -10846,13 +8752,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 150,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 150
     },
     {
       "id": "223286",
@@ -10877,13 +8777,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 151,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 151
     },
     {
       "id": "222258",
@@ -10908,13 +8802,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 152,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 152
     },
     {
       "id": "259733",
@@ -10939,13 +8827,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 153,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 153
     },
     {
       "id": "220722",
@@ -10970,13 +8852,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 154,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 154
     },
     {
       "id": "211539",
@@ -11001,13 +8877,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 155,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 155
     },
     {
       "id": "230870",
@@ -11032,13 +8902,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 156,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 156
     },
     {
       "id": "211316",
@@ -11063,13 +8927,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 157,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 157
     },
     {
       "id": "263644",
@@ -11094,13 +8952,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 158,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 158
     },
     {
       "id": "261972",
@@ -11125,13 +8977,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 159,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 159
     },
     {
       "id": "214181",
@@ -11156,13 +9002,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 160,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 160
     },
     {
       "id": "214906",
@@ -11187,13 +9027,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 161,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 161
     },
     {
       "id": "201478",
@@ -11218,13 +9052,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 5
       },
-      "prevListRank": 162,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 162
     },
     {
       "id": "206242",
@@ -11249,13 +9077,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 12
       },
-      "prevListRank": 163,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 163
     },
     {
       "id": "252499",
@@ -11280,13 +9102,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 164,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 164
     },
     {
       "id": "211279",
@@ -11311,13 +9127,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 165,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 165
     },
     {
       "id": "215946",
@@ -11342,13 +9152,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 166,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 166
     },
     {
       "id": "267439",
@@ -11373,13 +9177,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 167,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 167
     },
     {
       "id": "213889",
@@ -11404,13 +9202,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 168,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 168
     },
     {
       "id": "239436",
@@ -11435,13 +9227,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 169,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 169
     },
     {
       "id": "223168",
@@ -11466,13 +9252,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 170,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 170
     },
     {
       "id": "214236",
@@ -11497,13 +9277,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 171,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 171
     },
     {
       "id": "215138",
@@ -11528,13 +9302,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 172,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 172
     },
     {
       "id": "220733",
@@ -11559,13 +9327,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 173,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 173
     },
     {
       "id": "220465",
@@ -11590,13 +9352,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 174,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 174
     },
     {
       "id": "221406",
@@ -11621,13 +9377,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 175,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 175
     },
     {
       "id": "214459",
@@ -11652,13 +9402,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 176,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 176
     },
     {
       "id": "236955",
@@ -11683,13 +9427,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 177,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 177
     },
     {
       "id": "221236",
@@ -11714,13 +9452,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 178,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 178
     },
     {
       "id": "221257",
@@ -11745,13 +9477,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 179,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 179
     },
     {
       "id": "215572",
@@ -11776,13 +9502,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 180,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 180
     },
     {
       "id": "216097",
@@ -11807,13 +9527,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 181,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 181
     },
     {
       "id": "201621",
@@ -11838,13 +9552,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 5
       },
-      "prevListRank": 182,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 182
     },
     {
       "id": "213646",
@@ -11869,13 +9577,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 183,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 183
     },
     {
       "id": "215219",
@@ -11900,13 +9602,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 184,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 184
     },
     {
       "id": "206417",
@@ -11931,13 +9627,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 185,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 185
     },
     {
       "id": "220416",
@@ -11962,13 +9652,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 186,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 186
     },
     {
       "id": "214593",
@@ -11993,13 +9677,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 187,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 187
     },
     {
       "id": "202600",
@@ -12024,13 +9702,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 188,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 188
     },
     {
       "id": "220662",
@@ -12055,13 +9727,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 189,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      }
+      "prevListRank": 189
     },
     {
       "id": "215250",
@@ -12086,13 +9752,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 190,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 190
     },
     {
       "id": "213666",
@@ -12117,13 +9777,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 191,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 191
     },
     {
       "id": "215936",
@@ -12148,13 +9802,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 192,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 192
     },
     {
       "id": "223333",
@@ -12179,13 +9827,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 193,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 193
     },
     {
       "id": "221307",
@@ -12210,13 +9852,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 194,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 194
     },
     {
       "id": "211702",
@@ -12241,13 +9877,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 195,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 195
     },
     {
       "id": "216016",
@@ -12272,13 +9902,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 196,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 196
     },
     {
       "id": "201551",
@@ -12303,13 +9927,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 197,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 197
     },
     {
       "id": "215992",
@@ -12334,13 +9952,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 198,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Roland Garros"
-      }
+      "prevListRank": 198
     },
     {
       "id": "211814",
@@ -12365,13 +9977,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 199,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 199
     },
     {
       "id": "210886",
@@ -12396,13 +10002,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 200,
-      "tournamentStatus": {
-        "tournament": "Roland Garros",
-        "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
-      }
+      "prevListRank": 200
     }
   ],
   "ATP_CHANGES": {
@@ -12953,8 +10553,7 @@ window.TENNIS_DATA = {
       }
     }
   ],
-  "ATP_RECENT": [],
-  "ATP_TODAY": [
+  "ATP_RECENT": [
     {
       "name": "Roland Garros",
       "level": "Grand Slam",
@@ -12967,7 +10566,7 @@ window.TENNIS_DATA = {
           "l": "Flavio Cobolli",
           "l_logo": "",
           "score": "6-1 4-6 6-4 6-7 (5-7) 6-1",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 84.5,
           "l_score": 72.2,
@@ -12976,288 +10575,122 @@ window.TENNIS_DATA = {
       ]
     }
   ],
+  "ATP_TODAY": [
+    {
+      "name": "Roland Garros",
+      "level": "Grand Slam",
+      "surface": "Clay",
+      "matches": [
+        {
+          "round": "R64",
+          "w": "Jannik Sinner",
+          "w_logo": "",
+          "l": "Sebastian Ofner",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 100.0,
+          "l_score": 45.0,
+          "match_score": 100.0
+        },
+        {
+          "round": "R64",
+          "w": "Andrea Pellegrino",
+          "w_logo": "",
+          "l": "Arthur Fils",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 59.7,
+          "l_score": 81.9,
+          "match_score": 81.9
+        },
+        {
+          "round": "R32",
+          "w": "Casper Ruud",
+          "w_logo": "",
+          "l": "Jiri Lehecka",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 79.3,
+          "l_score": 77.0,
+          "match_score": 79.3
+        },
+        {
+          "round": "R64",
+          "w": "Daniil Medvedev",
+          "w_logo": "",
+          "l": "Tomas Machac",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 79.3,
+          "l_score": 67.7,
+          "match_score": 79.3
+        },
+        {
+          "round": "R32",
+          "w": "Matteo Arnaldi",
+          "w_logo": "",
+          "l": "Rafael Jodar",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 51.9,
+          "l_score": 76.6,
+          "match_score": 76.6
+        },
+        {
+          "round": "R64",
+          "w": "Ben Shelton",
+          "w_logo": "",
+          "l": "Nikoloz Basilashvili",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 76.2,
+          "l_score": 50.3,
+          "match_score": 76.2
+        },
+        {
+          "round": "R64",
+          "w": "Felix Auger Aliassime",
+          "w_logo": "",
+          "l": "Mariano Navone",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 75.5,
+          "l_score": 64.6,
+          "match_score": 75.5
+        },
+        {
+          "round": "R64",
+          "w": "Andrey Rublev",
+          "w_logo": "",
+          "l": "Miomir Kecmanovic",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 74.0,
+          "l_score": 56.5,
+          "match_score": 74.0
+        }
+      ]
+    }
+  ],
   "WTA_RECENT": [],
   "WTA_TODAY": [],
-  "ATP_TOURNAMENT": {
-    "name": "Roland Garros",
-    "level": "Grand Slam",
-    "surface": "Clay",
-    "tour": "ATP",
-    "alive": [
-      "Alexander Zverev"
-    ],
-    "out": [
-      "Adam Walton",
-      "Adolfo Daniel Vallejo",
-      "Adrian Mannarino",
-      "Alejandro Davidovich Fokina",
-      "Alejandro Tabilo",
-      "Aleksandar Kovacevic",
-      "Aleksandar Vukic",
-      "Alex Michelsen",
-      "Alex de Minaur",
-      "Alexander Blockx",
-      "Alexander Bublik",
-      "Alexandr Shevchenko",
-      "Alexandre Muller",
-      "Alexei Popyrin",
-      "Andrea Pellegrino",
-      "Andrey Rublev",
-      "Arthur Gea",
-      "Arthur Rinderknech",
-      "Ben Shelton",
-      "Benjamin Bonzi",
-      "Botic Van De Zandschulp",
-      "Brandon Nakashima",
-      "Cameron Norrie",
-      "Camilo Ugo Carabelli",
-      "Carlos Alcaraz",
-      "Casper Ruud",
-      "Chak Lam Coleman Wong",
-      "Clement Tabur",
-      "Corentin Moutet",
-      "Cristian Garin",
-      "Damir Dzumhur",
-      "Daniel Altmaier",
-      "Daniel Merida",
-      "Daniil Medvedev",
-      "Denis Shapovalov",
-      "Dino Prizmic",
-      "Eliot Spizzirri",
-      "Emilio Nava",
-      "Ethan Quinn",
-      "Fabian Marozsan",
-      "Facundo Diaz Acosta",
-      "Federico Cina",
-      "Felix Auger-Aliassime",
-      "Flavio Cobolli",
-      "Frances Tiafoe",
-      "Francisco Cerundolo",
-      "Francisco Comesana",
-      "Gabriel Diallo",
-      "Gael Monfils",
-      "Giovanni Mpetshi Perricard",
-      "Hamad Medjedovic",
-      "Hubert Hurkacz",
-      "Hugo Dellien",
-      "Hugo Gaston",
-      "Ignacio Buse",
-      "Jacob Fearnley",
-      "Jaime Faria",
-      "Jakub Mensik",
-      "James Duckworth",
-      "Jan-Lennard Struff",
-      "Jannik Sinner",
-      "Jaume Munar",
-      "Jenson Brooksby",
-      "Jesper de Jong",
-      "Jiri Lehecka",
-      "Joao Fonseca",
-      "Juan Carlos Prado Angelo",
-      "Juan Manuel Cerundolo",
-      "Jurij Rodionov",
-      "Kamil Majchrzak",
-      "Karen Khachanov",
-      "Kyrian Jacquet",
-      "Learner Tien",
-      "Lorenzo Sonego",
-      "Luca Van Assche",
-      "Luciano Darderi",
-      "Luka Pavlovic",
-      "Marco Trungelliti",
-      "Marcos Giron",
-      "Mariano Navone",
-      "Marin Cilic",
-      "Martin Landaluce",
-      "Marton Fucsovics",
-      "Matteo Arnaldi",
-      "Matteo Berrettini",
-      "Mattia Bellucci",
-      "Michael Zheng",
-      "Miomir Kecmanovic",
-      "Moise Kouame",
-      "Nishesh Basavareddy",
-      "Novak Djokovic",
-      "Nuno Borges",
-      "Pablo Carreno Busta",
-      "Pablo Llamas Ruiz",
-      "Pierre-Hugues Herbert",
-      "Quentin Halys",
-      "Rafael Jodar",
-      "Raphael Collignon",
-      "Reilly Opelka",
-      "Rinky Hijikata",
-      "Roberto Bautista Agut",
-      "Roman Andres Burruchaga",
-      "Roman Safiullin",
-      "Sebastian Baez",
-      "Sebastian Ofner",
-      "Stan Wawrinka",
-      "Stefanos Tsitsipas",
-      "Tallon Griekspoor",
-      "Taylor Fritz",
-      "Terence Atmane",
-      "Thanasi Kokkinakis",
-      "Thiago Agustin Tirante",
-      "Thomas Faurel",
-      "Titouan Droguet",
-      "Toby Samuel",
-      "Tomas Machac",
-      "Tomas Martin Etcheverry",
-      "Tommy Paul",
-      "Ugo Humbert",
-      "Valentin Royer",
-      "Valentin Vacherot",
-      "Vilius Gaubas",
-      "Vit Kopriva",
-      "Wu Yibing",
-      "Yannick Hanfmann",
-      "Zachary Svajda",
-      "Zhang Zhizhen",
-      "Zizou Bergs"
-    ],
-    "aliveCount": 1,
-    "matchesSeen": 127
-  },
-  "WTA_TOURNAMENT": {
-    "name": "Roland Garros",
-    "level": "Grand Slam",
-    "surface": "Clay",
-    "tour": "WTA",
-    "alive": [
-      "Mirra Andreeva"
-    ],
-    "out": [
-      "Ajla Tomljanovic",
-      "Akasha Urhobo",
-      "Alexandra Eala",
-      "Alice Tubello",
-      "Alina Korneeva",
-      "Alycia Parks",
-      "Amanda Anisimova",
-      "Anastasia Potapova",
-      "Anastasia Zakharova",
-      "Anhelina Kalinina",
-      "Ann Li",
-      "Anna Blinkova",
-      "Anna Bondar",
-      "Anna Kalinskaya",
-      "Antonia Ruzic",
-      "Aryna Sabalenka",
-      "Ashlyn Krueger",
-      "Barbora Krejcikova",
-      "Beatriz Haddad Maia",
-      "Belinda Bencic",
-      "Camila Osorio",
-      "Catherine McNally",
-      "Claire Liu",
-      "Clara Burel",
-      "Clara Tauson",
-      "Coco Gauff",
-      "Cristina Bucsa",
-      "Dalma Galfi",
-      "Danka Kovinic",
-      "Daria Kasatkina",
-      "Daria Snigur",
-      "Dayana Yastremska",
-      "Diana Shnaider",
-      "Diane Parry",
-      "Donna Vekic",
-      "Ekaterina Alexandrova",
-      "Elena Pridankina",
-      "Elena Rybakina",
-      "Elena-Gabriela Ruse",
-      "Elina Svitolina",
-      "Elisabetta Cocciaretto",
-      "Elise Mertens",
-      "Ella Seidel",
-      "Elsa Jacquemot",
-      "Emerson Jones",
-      "Emiliana Arango",
-      "Emma Navarro",
-      "Emma Raducanu",
-      "Eva Lys",
-      "Fiona Ferro",
-      "Francesca Jones",
-      "Guo Hanyu",
-      "Hailey Baptiste",
-      "Hanne Vandewinkel",
-      "Iga Swiatek",
-      "Iva Jovic",
-      "Janice Tjen",
-      "Jaqueline Cristian",
-      "Jasmine Paolini",
-      "Jelena Ostapenko",
-      "Jessica Bouzas Maneiro",
-      "Jessica Pegula",
-      "Jil Teichmann",
-      "Julia Grabher",
-      "Kaitlin Quevedo",
-      "Kamilla Rakhimova",
-      "Karolina Muchova",
-      "Katerina Siniakova",
-      "Katie Boulter",
-      "Katie Volynets",
-      "Kimberly Birrell",
-      "Ksenia Efremova",
-      "Laura Siegemund",
-      "Leolia Jeanjean",
-      "Leylah Fernandez",
-      "Lilli Tagger",
-      "Linda Fruhvirtova",
-      "Linda Noskova",
-      "Liudmila Samsonova",
-      "Lois Boisson",
-      "Lucia Bronzetti",
-      "Madison Keys",
-      "Magda Linette",
-      "Magdalena Frech",
-      "Maja Chwalinska",
-      "Maria Sakkari",
-      "Marie Bouzkova",
-      "Marina Bassols Ribera",
-      "Marta Kostyuk",
-      "Maya Joint",
-      "Mayar Sherif",
-      "McCartney Kessler",
-      "Moyuka Uchijima",
-      "Naomi Osaka",
-      "Nikola Bartunkova",
-      "Oksana Selekhmeteva",
-      "Oleksandra Oliynykova",
-      "Panna Udvardy",
-      "Petra Marcinko",
-      "Peyton Stearns",
-      "Rebecca Sramkova",
-      "Renata Zarazua",
-      "Sara Bejlek",
-      "Sara Sorribes Tormo",
-      "Simona Waltert",
-      "Sinja Kraus",
-      "Sloane Stephens",
-      "Sofia Kenin",
-      "Solana Sierra",
-      "Sorana Cirstea",
-      "Susan Bandecchi",
-      "Talia Gibson",
-      "Tamara Korpatsch",
-      "Tatjana Maria",
-      "Taylor Townsend",
-      "Tereza Valentova",
-      "Tiantsoa Rakotomanga Rajaonah",
-      "Veronika Erjavec",
-      "Victoria Mboko",
-      "Viktorija Golubic",
-      "Wang Xinyu",
-      "Wang Xiyu",
-      "Yulia Putintseva",
-      "Yuliia Starodubtseva",
-      "Zeynep Sonmez",
-      "Zhang Shuai",
-      "Zheng Qinwen"
-    ],
-    "aliveCount": 1,
-    "matchesSeen": 127
-  },
+  "ATP_TOURNAMENT": {},
+  "WTA_TOURNAMENT": {},
   "IMPORTANCE": 10.0
 };

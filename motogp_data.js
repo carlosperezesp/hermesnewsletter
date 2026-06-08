@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-07 21:37 UTC
+// Auto-generated 2026-06-08 09:57 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-06-07 21:37 UTC",
+  "UPDATED": "2026-06-08 09:57 UTC",
   "SEASON": "2026",
   "ROUND": 8,
   "TOTAL_ROUNDS": 22,
@@ -127,12 +127,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 94.0,
-      "score": 17.1,
+      "points": 93.0,
+      "score": 16.9,
       "stats": {
-        "pts": 94.0
+        "pts": 93.0
       },
-      "seasonPct": 17.1,
+      "seasonPct": 16.9,
       "prevRank": null
     },
     {
@@ -159,12 +159,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 63.0,
-      "score": 11.5,
+      "points": 64.0,
+      "score": 11.6,
       "stats": {
-        "pts": 63.0
+        "pts": 64.0
       },
-      "seasonPct": 11.5,
+      "seasonPct": 11.6,
       "prevRank": null
     }
   ],
@@ -179,7 +179,23 @@ window.MOTOGP_DATA = {
       {
         "pos": 1,
         "name": "Marc Márquez",
-        "country": "ESP",
+        "country": "SPA",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "bike": "Ducati",
+        "primary": "#CC0000"
+      },
+      {
+        "pos": 2,
+        "name": "Pedro Acosta",
+        "country": "SPA",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "bike": "KTM",
+        "primary": "#E86825"
+      },
+      {
+        "pos": 3,
+        "name": "Fermín Aldeguer",
+        "country": "SPA",
         "logo": "https://flagcdn.com/24x18/es.png",
         "bike": "Ducati",
         "primary": "#CC0000"
