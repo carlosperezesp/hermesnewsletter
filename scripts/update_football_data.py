@@ -169,6 +169,73 @@ DYNASTIES_RAW = [
         "peakElo": 2075,
         "note": "Mundial 2014 y Confederaciones 2017 con profundidad de plantilla.",
     },
+    # --- Eras históricas incorporadas ---
+    {
+        "name": "Argentina",
+        "era": "1978-1986",
+        "yearsNo1": 3.5,
+        "weeksNo1": 182,
+        "worldCups": 2,
+        "continentalTitles": 1,
+        "matchCount": 88,
+        "peakElo": 2095,
+        "note": "Kempes 78 y Maradona 86: dos Mundiales con estilos y leyendas opuestos.",
+    },
+    {
+        "name": "Uruguay",
+        "era": "1928-1950",
+        "yearsNo1": 4.5,
+        "weeksNo1": 234,
+        "worldCups": 2,
+        "continentalTitles": 2,
+        "matchCount": 65,
+        "peakElo": 2065,
+        "note": "Fundadores del fútbol moderno: primer Mundial, Copa Am 35/42 y el Maracanazo.",
+    },
+    {
+        "name": "Germany",
+        "era": "1980-1990",
+        "yearsNo1": 4.0,
+        "weeksNo1": 208,
+        "worldCups": 1,
+        "continentalTitles": 1,
+        "matchCount": 112,
+        "peakElo": 2095,
+        "note": "Euro 80, tres finales mundialistas en ocho años y campeones en Italia 90.",
+    },
+    {
+        "name": "Italy",
+        "era": "2000-2006",
+        "yearsNo1": 2.0,
+        "weeksNo1": 104,
+        "worldCups": 1,
+        "continentalTitles": 0,
+        "matchCount": 68,
+        "peakElo": 2078,
+        "note": "Final Euro 2000 y campeones del mundo en Alemania 2006 con Cannavaro.",
+    },
+    {
+        "name": "Italy",
+        "era": "1982-1984",
+        "yearsNo1": 1.5,
+        "weeksNo1": 78,
+        "worldCups": 1,
+        "continentalTitles": 0,
+        "matchCount": 38,
+        "peakElo": 2062,
+        "note": "Paolo Rossi y el tercer Mundial italiano; pico breve pero irrepetible.",
+    },
+    {
+        "name": "Germany",
+        "era": "1954-1956",
+        "yearsNo1": 1.5,
+        "weeksNo1": 78,
+        "worldCups": 1,
+        "continentalTitles": 0,
+        "matchCount": 32,
+        "peakElo": 2042,
+        "note": "Milagro de Berna: Alemania Occidental derrota a la invicta Hungría en la final.",
+    },
 ]
 
 
@@ -229,8 +296,22 @@ def dynasty_raw(row: dict) -> float:
     )
 
 
+def _enrich_dynasties(rows: list[dict]) -> list[dict]:
+    """Auto-compute yearsNo1 for active ('present') dynasties from era start year."""
+    today = date.today()
+    enriched = []
+    for row in rows:
+        if row["era"].endswith("present"):
+            start_year = int(row["era"].split("-")[0])
+            elapsed = (today - date(start_year, 1, 1)).days / 365.25
+            row = dict(row)
+            row["yearsNo1"] = round(elapsed, 1)
+        enriched.append(row)
+    return enriched
+
+
 def build_dynasties() -> list[dict]:
-    scored = [(dynasty_raw(r), r) for r in DYNASTIES_RAW]
+    scored = [(dynasty_raw(r), r) for r in _enrich_dynasties(DYNASTIES_RAW)]
     max_raw = max(raw for raw, _ in scored)
     out = []
     for raw, item in sorted(scored, reverse=True):

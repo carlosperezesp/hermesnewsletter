@@ -172,10 +172,10 @@ PLAYER_CUPS = {
 # Current-era franchises building toward all-time dynasty status
 ACTIVE_ERA_TEAMS = [
     {"teamCode": "COL", "city": "Colorado Avalanche", "era": "2020–present", "cups": 1, "note": "2022 Cup · MacKinnon era"},
-    {"teamCode": "FLA", "city": "Florida Panthers", "era": "2022–present", "cups": 1, "note": "2024 Cup · back-to-back Finals"},
+    {"teamCode": "FLA", "city": "Florida Panthers", "era": "2022–present", "cups": 2, "note": "2024 & 2025 Cups · back-to-back Champions"},
     {"teamCode": "VGK", "city": "Vegas Golden Knights", "era": "2018–present", "cups": 1, "note": "2023 Cup · fastest expansion dynasty"},
     {"teamCode": "STL", "city": "St. Louis Blues", "era": "2017–present", "cups": 1, "note": "2019 Cup · first in franchise history"},
-    {"teamCode": "EDM", "city": "Edmonton Oilers", "era": "2021–present", "cups": 0, "note": "McDavid era · 2024 Stanley Cup Finals"},
+    {"teamCode": "EDM", "city": "Edmonton Oilers", "era": "2021–present", "cups": 0, "note": "McDavid era · 2024 & 2025 Stanley Cup Finals"},
     {"teamCode": "CAR", "city": "Carolina Hurricanes", "era": "2019–present", "cups": 0, "note": "6 straight playoff runs · no Cup yet"},
     {"teamCode": "DAL", "city": "Dallas Stars", "era": "2022–present", "cups": 0, "note": "Back-to-back Conference Finals"},
     {"teamCode": "BOS", "city": "Boston Bruins", "era": "2019–present", "cups": 0, "note": "Consistent 100+ point seasons"},

@@ -705,7 +705,7 @@ window.NBA_DATA = {
         "blk": 0.9,
         "min": 36.3
       },
-      "legendScore": 61.1,
+      "legendScore": 66.1,
       "prevRank": null
     },
     {
@@ -6845,6 +6845,23 @@ window.NBA_DATA = {
         "prevRank": null
       },
       {
+        "id": 4278073,
+        "name": "Shai Gilgeous-Alexander",
+        "pos": "G",
+        "teamCode": "OKC",
+        "colors": {
+          "primary": "#007ac1",
+          "secondary": "#ef3b24"
+        },
+        "age": 27,
+        "careerScore": 66.1,
+        "threshold": 92.1,
+        "gap": 26.0,
+        "rings": 1,
+        "note": "Multiple elite seasons + several titles needed",
+        "prevRank": null
+      },
+      {
         "id": 4065648,
         "name": "Jayson Tatum",
         "pos": "F",
@@ -6891,23 +6908,6 @@ window.NBA_DATA = {
         "careerScore": 63.3,
         "threshold": 92.1,
         "gap": 28.8,
-        "rings": 0,
-        "note": "Multiple elite seasons + several titles needed",
-        "prevRank": null
-      },
-      {
-        "id": 4278073,
-        "name": "Shai Gilgeous-Alexander",
-        "pos": "G",
-        "teamCode": "OKC",
-        "colors": {
-          "primary": "#007ac1",
-          "secondary": "#ef3b24"
-        },
-        "age": 27,
-        "careerScore": 61.1,
-        "threshold": 92.1,
-        "gap": 31.0,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
         "prevRank": null
@@ -6966,6 +6966,22 @@ window.NBA_DATA = {
     ],
     "teams": [
       {
+        "teamCode": "OKC",
+        "city": "Oklahoma City Thunder",
+        "era": "2023–present",
+        "rings": 1,
+        "dynastyScore": 68.2,
+        "threshold": 89.4,
+        "gap": 21.2,
+        "note": "2025 Champions · SGA Finals MVP · dynasty begins",
+        "needs": "1–2 more titles + sustained regular-season excellence",
+        "colors": {
+          "primary": "#007ac1",
+          "secondary": "#ef3b24"
+        },
+        "prevRank": null
+      },
+      {
         "teamCode": "BOS",
         "city": "Boston Celtics",
         "era": "2022–present",
@@ -6994,22 +7010,6 @@ window.NBA_DATA = {
         "colors": {
           "primary": "#0e2240",
           "secondary": "#fec524"
-        },
-        "prevRank": null
-      },
-      {
-        "teamCode": "OKC",
-        "city": "Oklahoma City Thunder",
-        "era": "2023–present",
-        "rings": 0,
-        "dynastyScore": 56.2,
-        "threshold": 89.4,
-        "gap": 33.2,
-        "note": "SGA era · 2025 #1 seed West · dynasty in the making",
-        "needs": "Needs at least one title + sustained dominance",
-        "colors": {
-          "primary": "#007ac1",
-          "secondary": "#ef3b24"
         },
         "prevRank": null
       },
@@ -7053,7 +7053,7 @@ window.NBA_DATA = {
         "dynastyScore": 45.2,
         "threshold": 89.4,
         "gap": 44.2,
-        "note": "2025 Eastern Conference Finals · resurgent era",
+        "note": "2025 NBA Finals · resurgent era",
         "needs": "Needs at least one title + sustained dominance",
         "colors": {
           "primary": "#006bb6",
@@ -7117,7 +7117,7 @@ window.NBA_DATA = {
         "dynastyScore": 12.8,
         "threshold": 89.4,
         "gap": 76.6,
-        "note": "2025 Eastern Conference Finals · Haliburton era",
+        "note": "2025 NBA Finals · Haliburton era",
         "needs": "Needs at least one title + sustained dominance",
         "colors": {
           "primary": "#002d62",
@@ -7340,7 +7340,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-06-06 13:23 UTC",
+  "LAST_UPDATE": "2026-06-06 20:50 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

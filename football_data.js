@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-06 08:05 UTC
+// Auto-generated 2026-06-08 13:51 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-06 08:05 UTC",
+  "UPDATED": "2026-06-08 13:51 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Hermes curated snapshot using World Football Elo / MoreElo-style ratings",
     "notes": "Daily-generated static snapshot; update CURRENT_RAW seeds when source rankings move.",
-    "through": "2026-06-06 08:05 UTC"
+    "through": "2026-06-08 13:51 UTC"
   },
   "IMPORTANCE": 9.0,
   "TEAMS": [
@@ -201,7 +201,7 @@ window.FOOTBALL_DATA = {
     }
   ],
   "ROAD_TO_GLORY": {
-    "dynastyThreshold": 20.7,
+    "dynastyThreshold": 42.1,
     "rawDynastyThreshold": 39.4,
     "dynasties": [
       {
@@ -247,6 +247,69 @@ window.FOOTBALL_DATA = {
         "note": "Romário, Ronaldo, Rivaldo y Ronaldinho: dos Mundiales y una final más."
       },
       {
+        "id": "uruguay_1928_1950",
+        "name": "Uruguay",
+        "teamCode": "URU",
+        "country": "Uruguay",
+        "logo": "https://flagcdn.com/24x18/uy.png",
+        "colors": {
+          "primary": "#75AADB",
+          "secondary": "#FFFFFF"
+        },
+        "rank": 3,
+        "era": "1928-1950",
+        "yearsNo1": 4.5,
+        "weeksNo1": 234,
+        "matchCount": 65,
+        "worldCups": 2,
+        "continentalTitles": 2,
+        "peakElo": 2065,
+        "dynastyScore": 68.3,
+        "note": "Fundadores del fútbol moderno: primer Mundial, Copa Am 35/42 y el Maracanazo."
+      },
+      {
+        "id": "argentina_2021_now",
+        "name": "Argentina",
+        "teamCode": "ARG",
+        "country": "Argentina",
+        "logo": "https://flagcdn.com/24x18/ar.png",
+        "colors": {
+          "primary": "#75AADB",
+          "secondary": "#FFFFFF"
+        },
+        "rank": 4,
+        "era": "2021-present",
+        "yearsNo1": 5.4,
+        "weeksNo1": 166,
+        "matchCount": 58,
+        "worldCups": 1,
+        "continentalTitles": 2,
+        "peakElo": 2133,
+        "dynastyScore": 60.4,
+        "note": "Copa América, Mundial y nueva Copa América en una racha larguísima sin derrota."
+      },
+      {
+        "id": "argentina_1978_1986",
+        "name": "Argentina",
+        "teamCode": "ARG",
+        "country": "Argentina",
+        "logo": "https://flagcdn.com/24x18/ar.png",
+        "colors": {
+          "primary": "#75AADB",
+          "secondary": "#FFFFFF"
+        },
+        "rank": 5,
+        "era": "1978-1986",
+        "yearsNo1": 3.5,
+        "weeksNo1": 182,
+        "matchCount": 88,
+        "worldCups": 2,
+        "continentalTitles": 1,
+        "peakElo": 2095,
+        "dynastyScore": 58.7,
+        "note": "Kempes 78 y Maradona 86: dos Mundiales con estilos y leyendas opuestos."
+      },
+      {
         "id": "spain_2008_2012",
         "name": "Spain",
         "teamCode": "ESP",
@@ -256,7 +319,7 @@ window.FOOTBALL_DATA = {
           "primary": "#AA151B",
           "secondary": "#F1BF00"
         },
-        "rank": 3,
+        "rank": 6,
         "era": "2008-2012",
         "yearsNo1": 4.1,
         "weeksNo1": 214,
@@ -277,7 +340,7 @@ window.FOOTBALL_DATA = {
           "primary": "#0066B3",
           "secondary": "#009246"
         },
-        "rank": 4,
+        "rank": 7,
         "era": "1934-1938",
         "yearsNo1": 3.5,
         "weeksNo1": 182,
@@ -289,25 +352,25 @@ window.FOOTBALL_DATA = {
         "note": "Primer bicampeón mundial; dominio de los años treinta."
       },
       {
-        "id": "argentina_2021_now",
-        "name": "Argentina",
-        "teamCode": "ARG",
-        "country": "Argentina",
-        "logo": "https://flagcdn.com/24x18/ar.png",
+        "id": "germany_1980_1990",
+        "name": "Germany",
+        "teamCode": "GER",
+        "country": "Germany",
+        "logo": "https://flagcdn.com/24x18/de.png",
         "colors": {
-          "primary": "#75AADB",
-          "secondary": "#FFFFFF"
+          "primary": "#000000",
+          "secondary": "#DD0000"
         },
-        "rank": 5,
-        "era": "2021-present",
-        "yearsNo1": 3.2,
-        "weeksNo1": 166,
-        "matchCount": 58,
+        "rank": 8,
+        "era": "1980-1990",
+        "yearsNo1": 4.0,
+        "weeksNo1": 208,
+        "matchCount": 112,
         "worldCups": 1,
-        "continentalTitles": 2,
-        "peakElo": 2133,
-        "dynastyScore": 48.8,
-        "note": "Copa América, Mundial y nueva Copa América en una racha larguísima sin derrota."
+        "continentalTitles": 1,
+        "peakElo": 2095,
+        "dynastyScore": 46.6,
+        "note": "Euro 80, tres finales mundialistas en ocho años y campeones en Italia 90."
       },
       {
         "id": "germany_1972_1976",
@@ -319,7 +382,7 @@ window.FOOTBALL_DATA = {
           "primary": "#000000",
           "secondary": "#DD0000"
         },
-        "rank": 6,
+        "rank": 9,
         "era": "1972-1976",
         "yearsNo1": 3.7,
         "weeksNo1": 193,
@@ -340,7 +403,7 @@ window.FOOTBALL_DATA = {
           "primary": "#002395",
           "secondary": "#ED2939"
         },
-        "rank": 7,
+        "rank": 10,
         "era": "1998-2001",
         "yearsNo1": 3.0,
         "weeksNo1": 156,
@@ -350,69 +413,6 @@ window.FOOTBALL_DATA = {
         "peakElo": 2118,
         "dynastyScore": 42.1,
         "note": "Zidane, Desailly, Thuram, Henry: Mundial y Euro consecutivos."
-      },
-      {
-        "id": "france_2018_2022",
-        "name": "France",
-        "teamCode": "FRA",
-        "country": "France",
-        "logo": "https://flagcdn.com/24x18/fr.png",
-        "colors": {
-          "primary": "#002395",
-          "secondary": "#ED2939"
-        },
-        "rank": 8,
-        "era": "2018-2022",
-        "yearsNo1": 2.8,
-        "weeksNo1": 146,
-        "matchCount": 67,
-        "worldCups": 1,
-        "continentalTitles": 0,
-        "peakElo": 2096,
-        "dynastyScore": 35.1,
-        "note": "Mundial 2018, Nations League y final de Qatar 2022."
-      },
-      {
-        "id": "germany_2014_2017",
-        "name": "Germany",
-        "teamCode": "GER",
-        "country": "Germany",
-        "logo": "https://flagcdn.com/24x18/de.png",
-        "colors": {
-          "primary": "#000000",
-          "secondary": "#DD0000"
-        },
-        "rank": 9,
-        "era": "2014-2017",
-        "yearsNo1": 2.5,
-        "weeksNo1": 130,
-        "matchCount": 63,
-        "worldCups": 1,
-        "continentalTitles": 0,
-        "peakElo": 2075,
-        "dynastyScore": 32.9,
-        "note": "Mundial 2014 y Confederaciones 2017 con profundidad de plantilla."
-      },
-      {
-        "id": "netherlands_1974_1978",
-        "name": "Netherlands",
-        "teamCode": "NED",
-        "country": "Netherlands",
-        "logo": "https://flagcdn.com/24x18/nl.png",
-        "colors": {
-          "primary": "#FF4F00",
-          "secondary": "#21468B"
-        },
-        "rank": 10,
-        "era": "1974-1978",
-        "yearsNo1": 2.9,
-        "weeksNo1": 151,
-        "matchCount": 48,
-        "worldCups": 0,
-        "continentalTitles": 0,
-        "peakElo": 2088,
-        "dynastyScore": 20.7,
-        "note": "Fútbol total: dos finales mundialistas y enorme pico Elo sin título."
       }
     ],
     "currentContenders": [

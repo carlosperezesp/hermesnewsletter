@@ -130,28 +130,29 @@ STATIC_HISTORY_PLAYERS = [
 ]
 
 NBA_ACTIVE_ERA_TEAMS = [
-    {"teamCode": "OKC", "city": "Oklahoma City Thunder",      "era": "2023–present", "rings": 0, "note": "SGA era · 2025 #1 seed West · dynasty in the making"},
+    {"teamCode": "OKC", "city": "Oklahoma City Thunder",      "era": "2023–present", "rings": 1, "note": "2025 Champions · SGA Finals MVP · dynasty begins"},
     {"teamCode": "BOS", "city": "Boston Celtics",             "era": "2022–present", "rings": 1, "note": "2024 Champions · Tatum/Brown core"},
     {"teamCode": "DEN", "city": "Denver Nuggets",             "era": "2019–present", "rings": 1, "note": "2023 Champions · Jokic 3× MVP era"},
     {"teamCode": "MIL", "city": "Milwaukee Bucks",            "era": "2019–present", "rings": 1, "note": "2021 Champions · Giannis 2× MVP era"},
     {"teamCode": "SA",  "city": "San Antonio Spurs",          "era": "2023–present", "rings": 0, "note": "Wembanyama era · generational rebuild underway"},
-    {"teamCode": "NY",  "city": "New York Knicks",            "era": "2022–present", "rings": 0, "note": "2025 Eastern Conference Finals · resurgent era"},
+    {"teamCode": "NY",  "city": "New York Knicks",            "era": "2022–present", "rings": 0, "note": "2025 NBA Finals · resurgent era"},
     {"teamCode": "MIN", "city": "Minnesota Timberwolves",     "era": "2022–present", "rings": 0, "note": "2025 Western Conference Finals · Edwards era"},
     {"teamCode": "GS",  "city": "Golden State Warriors",      "era": "2021–present", "rings": 1, "note": "2022 Champions · Curry's final dynasty chapter"},
-    {"teamCode": "IND", "city": "Indiana Pacers",             "era": "2024–present", "rings": 0, "note": "2025 Eastern Conference Finals · Haliburton era"},
+    {"teamCode": "IND", "city": "Indiana Pacers",             "era": "2024–present", "rings": 0, "note": "2025 NBA Finals · Haliburton era"},
     {"teamCode": "LAL", "city": "Los Angeles Lakers",         "era": "2020–present", "rings": 1, "note": "2020 Bubble Champions · LeBron/AD · finals ambitions"},
 ]
 
 # Known rings for active/recent players — used for Road to Glory bonus
 PLAYER_RINGS = {
-    "LeBron James":           4,
-    "Stephen Curry":          4,
-    "Kevin Durant":           2,
-    "Kawhi Leonard":          2,
-    "Giannis Antetokounmpo":  1,
-    "Nikola Jokic":           1,
-    "Jayson Tatum":           1,
-    "Jaylen Brown":           1,
+    "LeBron James":               4,
+    "Stephen Curry":              4,
+    "Kevin Durant":               2,
+    "Kawhi Leonard":              2,
+    "Giannis Antetokounmpo":      1,
+    "Nikola Jokic":               1,
+    "Jayson Tatum":               1,
+    "Jaylen Brown":               1,
+    "Shai Gilgeous-Alexander":    1,  # 2025
 }
 
 # Active stars always included in Road to Glory tracking

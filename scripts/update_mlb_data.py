@@ -153,7 +153,7 @@ STATIC_HISTORY_PLAYERS = [
 ]
 
 MLB_ACTIVE_ERA_TEAMS = [
-    {"teamCode": "LAD", "city": "Los Angeles Dodgers",   "era": "2017–present", "rings": 2, "note": "2020+2024 champions · Ohtani/Betts/Freeman era · highest payroll · dynasty contender"},
+    {"teamCode": "LAD", "city": "Los Angeles Dodgers",   "era": "2017–present", "rings": 3, "note": "2020+2024+2025 champions · Ohtani/Betts/Freeman era · dynasty confirmed"},
     {"teamCode": "HOU", "city": "Houston Astros",        "era": "2015–present", "rings": 2, "note": "2017+2022 champions · Alvarez era · model organization · sustained excellence"},
     {"teamCode": "NYY", "city": "New York Yankees",      "era": "2019–present", "rings": 0, "note": "2024 WS · Judge/Cole core · 27 all-time titles · perennial threat"},
     {"teamCode": "ATL", "city": "Atlanta Braves",        "era": "2019–present", "rings": 1, "note": "2021 champions · Acuña/Olson core · NL East powerhouse"},
