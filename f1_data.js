@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-08 16:39 UTC
+// Auto-generated 2026-06-08 22:02 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-06-08 16:39 UTC",
+  "UPDATED": "2026-06-08 22:02 UTC",
   "SEASON": "2026",
   "ROUND": 6,
   "TOTAL_ROUNDS": 24,
@@ -51,7 +51,7 @@ window.F1_DATA = {
         "pts": 90.0,
         "wins": 0
       },
-      "prevRank": 4
+      "prevRank": 2
     },
     {
       "position": 3,
@@ -74,7 +74,7 @@ window.F1_DATA = {
         "pts": 88.0,
         "wins": 0
       },
-      "prevRank": 2
+      "prevRank": 3
     },
     {
       "position": 4,
@@ -97,7 +97,7 @@ window.F1_DATA = {
         "pts": 75.0,
         "wins": 0
       },
-      "prevRank": 3
+      "prevRank": 4
     },
     {
       "position": 5,
@@ -120,7 +120,7 @@ window.F1_DATA = {
         "pts": 60.0,
         "wins": 0
       },
-      "prevRank": 6
+      "prevRank": 5
     },
     {
       "position": 6,
@@ -143,7 +143,7 @@ window.F1_DATA = {
         "pts": 58.0,
         "wins": 0
       },
-      "prevRank": 5
+      "prevRank": 6
     },
     {
       "position": 7,
@@ -189,7 +189,7 @@ window.F1_DATA = {
         "pts": 29.0,
         "wins": 0
       },
-      "prevRank": null
+      "prevRank": 8
     },
     {
       "position": 9,
@@ -212,7 +212,7 @@ window.F1_DATA = {
         "pts": 26.0,
         "wins": 0
       },
-      "prevRank": 10
+      "prevRank": 9
     },
     {
       "position": 10,
@@ -235,7 +235,7 @@ window.F1_DATA = {
         "pts": 26.0,
         "wins": 0
       },
-      "prevRank": 8
+      "prevRank": 10
     }
   ],
   "CONSTRUCTORS": [

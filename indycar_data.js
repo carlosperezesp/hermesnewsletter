@@ -1,5 +1,5 @@
 window.INDYCAR_DATA = {
-  "UPDATED": "2026-06-08 16:39 UTC",
+  "UPDATED": "2026-06-08 22:02 UTC",
   "SEASON": 2026,
   "ROUND": 9,
   "TOTAL_ROUNDS": 19,
@@ -134,7 +134,7 @@ window.INDYCAR_DATA = {
       "points": 238.0,
       "score": 23.2,
       "legendScore": 33.3,
-      "prevRank": 8,
+      "prevRank": 6,
       "stats": {
         "pts": 238.0
       }
@@ -178,7 +178,7 @@ window.INDYCAR_DATA = {
       "points": 221.0,
       "score": 21.5,
       "legendScore": 1.3,
-      "prevRank": 6,
+      "prevRank": 8,
       "stats": {
         "pts": 221.0
       }
@@ -200,7 +200,7 @@ window.INDYCAR_DATA = {
       "points": 196.0,
       "score": 19.1,
       "legendScore": 1.4,
-      "prevRank": 12,
+      "prevRank": 9,
       "stats": {
         "pts": 196.0
       }
@@ -244,7 +244,7 @@ window.INDYCAR_DATA = {
       "points": 193.0,
       "score": 18.8,
       "legendScore": 0.0,
-      "prevRank": 9,
+      "prevRank": 11,
       "stats": {
         "pts": 193.0
       }
@@ -266,7 +266,7 @@ window.INDYCAR_DATA = {
       "points": 192.0,
       "score": 18.7,
       "legendScore": 84.1,
-      "prevRank": 11,
+      "prevRank": 12,
       "stats": {
         "pts": 192.0
       }
@@ -376,7 +376,7 @@ window.INDYCAR_DATA = {
       "points": 145.0,
       "score": 14.1,
       "legendScore": 46.0,
-      "prevRank": 18,
+      "prevRank": 17,
       "stats": {
         "pts": 145.0
       }
@@ -398,7 +398,7 @@ window.INDYCAR_DATA = {
       "points": 133.0,
       "score": 13.0,
       "legendScore": 0.0,
-      "prevRank": 17,
+      "prevRank": 18,
       "stats": {
         "pts": 133.0
       }
@@ -442,7 +442,7 @@ window.INDYCAR_DATA = {
       "points": 117.0,
       "score": 11.4,
       "legendScore": 0.0,
-      "prevRank": 21,
+      "prevRank": 20,
       "stats": {
         "pts": 117.0
       }
@@ -464,7 +464,7 @@ window.INDYCAR_DATA = {
       "points": 116.0,
       "score": 11.3,
       "legendScore": 0.0,
-      "prevRank": 20,
+      "prevRank": 21,
       "stats": {
         "pts": 116.0
       }
@@ -486,7 +486,7 @@ window.INDYCAR_DATA = {
       "points": 112.0,
       "score": 10.9,
       "legendScore": 0.0,
-      "prevRank": 24,
+      "prevRank": 22,
       "stats": {
         "pts": 112.0
       }
@@ -508,7 +508,7 @@ window.INDYCAR_DATA = {
       "points": 99.0,
       "score": 9.6,
       "legendScore": 0.0,
-      "prevRank": 22,
+      "prevRank": 23,
       "stats": {
         "pts": 99.0
       }
@@ -530,7 +530,7 @@ window.INDYCAR_DATA = {
       "points": 89.0,
       "score": 8.7,
       "legendScore": 0.0,
-      "prevRank": 25,
+      "prevRank": 24,
       "stats": {
         "pts": 89.0
       }
@@ -552,7 +552,7 @@ window.INDYCAR_DATA = {
       "points": 89.0,
       "score": 8.7,
       "legendScore": 0.0,
-      "prevRank": 23,
+      "prevRank": 25,
       "stats": {
         "pts": 89.0
       }
