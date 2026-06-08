@@ -1174,6 +1174,22 @@ _TENNIS_CALENDAR = [
     (8,  5, 8, 24,  8.0),   # Canada + Cincinnati
     (10, 4, 10, 12,  8.0),  # Shanghai
     (10, 26, 11,  8,  8.0), # Paris Bercy
+    # ATP 500 / WTA 500 (7.5)
+    (1, 27,  2,  3,  7.5),  # Rotterdam ATP 500
+    (2, 16,  2, 23,  7.5),  # Dubai ATP 500 + WTA 500
+    (2, 23,  3,  2,  7.5),  # Acapulco ATP 500
+    (4, 20,  4, 27,  7.5),  # Barcelona ATP 500
+    (4, 27,  5,  3,  7.5),  # Stuttgart WTA 500
+    (5, 18,  5, 24,  7.5),  # Strasbourg WTA 500
+    (6,  8,  6, 15,  7.5),  # Halle ATP 500 + Berlin WTA 500
+    (6, 15,  6, 22,  7.5),  # Queen's Club ATP 500
+    (7, 13,  7, 20,  7.5),  # Hamburg ATP 500
+    (7, 27,  8,  3,  7.5),  # Washington ATP 500 + WTA 500
+    (9, 14,  9, 21,  7.5),  # Beijing ATP 500
+    (9, 28, 10,  5,  7.5),  # Tokyo ATP 500
+    (10, 12, 10, 19, 7.5),  # Wuhan WTA 500
+    (10, 19, 10, 26, 7.5),  # Vienna ATP 500
+    (10, 26, 11,  2, 7.5),  # Basel ATP 500 + Guadalajara WTA 500
     # Copa Davis Group Stage (7.5)
     (9,  9, 9, 14,  7.5),   # Davis Cup Group Stage
 ]

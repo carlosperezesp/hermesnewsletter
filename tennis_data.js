@@ -106,15 +106,15 @@ window.TENNIS_DATA = {
       "primary": "#000000",
       "secondary": "#FFFFFF",
       "activeScore": 84.5,
-      "legendScore": 57.2,
+      "legendScore": 57.7,
       "surface": {
         "hard": 0.697,
         "clay": 0.738,
         "grass": 0.667
       },
       "stats": {
-        "gs": 0,
-        "titles": 25,
+        "gs": 1,
+        "titles": 26,
         "weeks_no1": 0,
         "top10_wins": 58
       },
@@ -122,7 +122,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "F",
+        "round": "Campeón 🏆",
         "reason": ""
       }
     },
@@ -772,9 +772,9 @@ window.TENNIS_DATA = {
       "prevListRank": 25,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
-        "round": "F",
-        "reason": ""
+        "state": "out",
+        "round": "",
+        "reason": "Finalista Roland Garros 2026"
       }
     },
     {
@@ -6401,15 +6401,15 @@ window.TENNIS_DATA = {
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
       "activeScore": 89.4,
-      "legendScore": 43.9,
+      "legendScore": 45.9,
       "surface": {
         "hard": 0.717,
         "clay": 0.788,
         "grass": 0.625
       },
       "stats": {
-        "gs": 0,
-        "titles": 5,
+        "gs": 1,
+        "titles": 6,
         "weeks_no1": 0,
         "top10_wins": 11
       },
@@ -6417,7 +6417,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Roland Garros",
         "state": "alive",
-        "round": "F",
+        "round": "Campeón 🏆",
         "reason": ""
       }
     },
@@ -9950,9 +9950,9 @@ window.TENNIS_DATA = {
       "prevListRank": 121,
       "tournamentStatus": {
         "tournament": "Roland Garros",
-        "state": "alive",
-        "round": "F",
-        "reason": ""
+        "state": "out",
+        "round": "",
+        "reason": "Finalista Roland Garros 2026"
       }
     },
     {
@@ -12960,6 +12960,19 @@ window.TENNIS_DATA = {
       "surface": "Clay",
       "matches": [
         {
+          "round": "Final",
+          "w": "Alexander Zverev",
+          "w_logo": "",
+          "l": "Flavio Cobolli",
+          "l_logo": "",
+          "score": "🏆",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 84.5,
+          "l_score": 72.2,
+          "match_score": 84.5
+        },
+        {
           "round": "Semifinal",
           "w": "Alexander Zverev",
           "w_logo": "",
@@ -13101,7 +13114,28 @@ window.TENNIS_DATA = {
       ]
     }
   ],
-  "WTA_RECENT": [],
+  "WTA_RECENT": [
+    {
+      "name": "Roland Garros",
+      "level": "Grand Slam",
+      "surface": "Clay",
+      "matches": [
+        {
+          "round": "Final",
+          "w": "Mirra Andreeva",
+          "w_logo": "",
+          "l": "Maja Chwalinska",
+          "l_logo": "",
+          "score": "🏆",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 89.4,
+          "l_score": 54.1,
+          "match_score": 89.4
+        }
+      ]
+    }
+  ],
   "WTA_TODAY": [],
   "ATP_TOURNAMENT": {
     "name": "Roland Garros",

@@ -18,6 +18,7 @@ def _prev_rank_map(filepath: Path, js_var: str, *path: str) -> "dict[str, int]":
     import re as _re, json as _json
     try:
         text = filepath.read_text(encoding="utf-8")
+        text = _re.sub(r"^\s*//[^\n]*\n?", "", text, flags=_re.MULTILINE)
         text = _re.sub(
             r"^window\." + _re.escape(js_var) + r"\s*=\s*", "", text, flags=_re.MULTILINE
         ).rstrip().rstrip(";")

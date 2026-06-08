@@ -28,7 +28,7 @@ window.F1_DATA = {
         "pts": 131.0,
         "wins": 0
       },
-      "prevRank": null
+      "prevRank": 1
     },
     {
       "position": 2,
@@ -51,7 +51,7 @@ window.F1_DATA = {
         "pts": 88.0,
         "wins": 0
       },
-      "prevRank": null
+      "prevRank": 2
     },
     {
       "position": 3,
@@ -74,7 +74,7 @@ window.F1_DATA = {
         "pts": 75.0,
         "wins": 0
       },
-      "prevRank": null
+      "prevRank": 3
     },
     {
       "position": 4,
@@ -97,7 +97,7 @@ window.F1_DATA = {
         "pts": 72.0,
         "wins": 0
       },
-      "prevRank": null
+      "prevRank": 4
     },
     {
       "position": 5,
@@ -120,7 +120,7 @@ window.F1_DATA = {
         "pts": 58.0,
         "wins": 0
       },
-      "prevRank": null
+      "prevRank": 5
     },
     {
       "position": 6,
@@ -143,7 +143,7 @@ window.F1_DATA = {
         "pts": 48.0,
         "wins": 0
       },
-      "prevRank": null
+      "prevRank": 6
     },
     {
       "position": 7,
@@ -166,7 +166,7 @@ window.F1_DATA = {
         "pts": 43.0,
         "wins": 0
       },
-      "prevRank": null
+      "prevRank": 7
     },
     {
       "position": 8,
@@ -189,7 +189,7 @@ window.F1_DATA = {
         "pts": 20.0,
         "wins": 0
       },
-      "prevRank": null
+      "prevRank": 8
     },
     {
       "position": 9,
@@ -212,7 +212,7 @@ window.F1_DATA = {
         "pts": 18.0,
         "wins": 0
       },
-      "prevRank": null
+      "prevRank": 9
     },
     {
       "position": 10,
@@ -235,7 +235,7 @@ window.F1_DATA = {
         "pts": 16.0,
         "wins": 0
       },
-      "prevRank": null
+      "prevRank": 10
     }
   ],
   "CONSTRUCTORS": [
@@ -328,7 +328,7 @@ window.F1_DATA = {
         "podiums": 197,
         "birth": 1985
       },
-      "prevRank": null
+      "prevRank": 1
     },
     {
       "id": "michael_schumacher",
@@ -347,7 +347,7 @@ window.F1_DATA = {
         "podiums": 155,
         "birth": 1969
       },
-      "prevRank": null
+      "prevRank": 2
     },
     {
       "id": "sebastian_vettel",
@@ -366,7 +366,7 @@ window.F1_DATA = {
         "podiums": 122,
         "birth": 1987
       },
-      "prevRank": null
+      "prevRank": 3
     },
     {
       "id": "max_verstappen",
@@ -385,7 +385,7 @@ window.F1_DATA = {
         "podiums": 113,
         "birth": 1997
       },
-      "prevRank": null
+      "prevRank": 4
     },
     {
       "id": "alain_prost",
@@ -404,7 +404,7 @@ window.F1_DATA = {
         "podiums": 106,
         "birth": 1955
       },
-      "prevRank": null
+      "prevRank": 5
     },
     {
       "id": "juan_manuel_fangio",
@@ -423,7 +423,7 @@ window.F1_DATA = {
         "podiums": 35,
         "birth": 1911
       },
-      "prevRank": null
+      "prevRank": 6
     },
     {
       "id": "ayrton_senna",
@@ -442,7 +442,7 @@ window.F1_DATA = {
         "podiums": 80,
         "birth": 1960
       },
-      "prevRank": null
+      "prevRank": 7
     },
     {
       "id": "niki_lauda",
@@ -461,7 +461,7 @@ window.F1_DATA = {
         "podiums": 54,
         "birth": 1949
       },
-      "prevRank": null
+      "prevRank": 8
     },
     {
       "id": "nelson_piquet",
@@ -480,7 +480,7 @@ window.F1_DATA = {
         "podiums": 60,
         "birth": 1952
       },
-      "prevRank": null
+      "prevRank": 9
     },
     {
       "id": "jackie_stewart",
@@ -499,7 +499,7 @@ window.F1_DATA = {
         "podiums": 43,
         "birth": 1939
       },
-      "prevRank": null
+      "prevRank": 10
     },
     {
       "id": "fernando_alonso",
@@ -518,7 +518,7 @@ window.F1_DATA = {
         "podiums": 106,
         "birth": 1981
       },
-      "prevRank": null
+      "prevRank": 11
     },
     {
       "id": "jim_clark",
@@ -537,7 +537,7 @@ window.F1_DATA = {
         "podiums": 32,
         "birth": 1936
       },
-      "prevRank": null
+      "prevRank": 12
     },
     {
       "id": "mika_hakkinen",
@@ -556,7 +556,7 @@ window.F1_DATA = {
         "podiums": 51,
         "birth": 1968
       },
-      "prevRank": null
+      "prevRank": 13
     },
     {
       "id": "nigel_mansell",
@@ -575,7 +575,7 @@ window.F1_DATA = {
         "podiums": 59,
         "birth": 1953
       },
-      "prevRank": null
+      "prevRank": 14
     },
     {
       "id": "charles_leclerc",
@@ -594,7 +594,7 @@ window.F1_DATA = {
         "podiums": 40,
         "birth": 1997
       },
-      "prevRank": null
+      "prevRank": 15
     },
     {
       "id": "lando_norris",
@@ -613,7 +613,7 @@ window.F1_DATA = {
         "podiums": 33,
         "birth": 2000
       },
-      "prevRank": null
+      "prevRank": 16
     }
   ]
 };

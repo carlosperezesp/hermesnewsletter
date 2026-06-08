@@ -21,7 +21,7 @@ function getAlivePlayoffTeams(bracket) {
   return alive;
 }
 
-function NewsletterRankRow({ rank, item, alive, aliveKey = "teamCode", forceOut = false, score, scoreDisplay, scoreLabel, meta, note, threshold, logo, scoreB, scoreBDisplay, scoreBLabel, scoreBThreshold, prevRank, rowClassName = "" }) {
+function NewsletterRankRow({ rank, item, alive, aliveKey = "teamCode", forceOut = false, score, scoreDisplay, scoreLabel, meta, note, threshold, logo, scoreB, scoreBDisplay, scoreBLabel, scoreBThreshold, prevRank, rowClassName = "", legendActive = false }) {
   const aliveValue = item?.[aliveKey];
   const isAlive = !forceOut && (alive.size === 0 || alive.has(aliveValue));
   const displayed = scoreDisplay !== undefined ? scoreDisplay : score;
@@ -60,7 +60,7 @@ function NewsletterRankRow({ rank, item, alive, aliveKey = "teamCode", forceOut 
   }
 
   return (
-    <div className={`newsletter-row ${scoreB !== undefined ? "newsletter-row--dual-score" : ""} ${!isAlive ? "newsletter-row--out" : ""} ${rowClassName}`}>
+    <div className={`newsletter-row ${scoreB !== undefined ? "newsletter-row--dual-score" : ""} ${!isAlive ? "newsletter-row--out" : ""} ${legendActive && isAlive ? "newsletter-row--legend-active" : ""} ${rowClassName}`}>
       <span className="newsletter-row__rank" style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 1 }}>
         <span>{String(rank).padStart(2, "0")}</span>
         {changeEl}
@@ -458,6 +458,14 @@ function NewsletterApp() {
     ];
     return Object.fromEntries(pairs);
   }, [NBA]);
+  const nbaHistoryPlayers = useMemo(() => (NBA?.HISTORY_PLAYERS || [])
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 10), [NBA]);
+  const nbaHistoryThreshold = nbaHistoryPlayers[9]?.score || NBA?.ROAD_TO_GLORY?.playerThreshold || 0;
+  const nbaHistoryTeams = useMemo(() => (NBA?.HISTORY_TEAMS || [])
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 10), [NBA]);
+  const nbaHistoryTeamThreshold = nbaHistoryTeams[9]?.score || NBA?.ROAD_TO_GLORY?.teamThreshold || 0;
 
   function playerMeta(player) {
     const teamName = teamByCode[player.teamCode]?.commonName || player.teamCode;
@@ -856,6 +864,53 @@ function NewsletterApp() {
                 ))}
               </div>
             </NewsletterSection>
+
+            <NewsletterSection
+              kicker="NBA Legends"
+              title="Top 10 jugadores NBA histórico"
+              sub={`Ranking all-time cross-era ajustado por posición. Umbral top 10: ${nbaHistoryThreshold.toFixed(1)} (Tim Duncan).`}
+            >
+              <div className="newsletter-list">
+                {nbaHistoryPlayers.map((player, i) => (
+                  <NewsletterRankRow
+                    key={`${player.name}-${player.era}`}
+                    rank={i + 1}
+                    item={player}
+                    alive={new Set()}
+                    score={player.score}
+                    scoreLabel="Legend"
+                    threshold={nbaHistoryThreshold}
+                    meta={`NBA · ${player.pos} · ${player.era} · tier ${player.tier}`}
+                    note={player.note}
+                    logo={nbaTeamLogo(player.teamCode)}
+                    legendActive={player.era?.includes("present")}
+                  />
+                ))}
+              </div>
+            </NewsletterSection>
+
+            <NewsletterSection
+              kicker="NBA Dynasties"
+              title="Top 10 franquicias NBA histórico"
+              sub="Las mayores dinastías de la historia de la NBA ordenadas por score all-time."
+            >
+              <div className="newsletter-list">
+                {nbaHistoryTeams.map((team, i) => (
+                  <NewsletterRankRow
+                    key={`${team.teamCode}-${team.era}`}
+                    rank={i + 1}
+                    item={{ ...team, name: team.city }}
+                    alive={new Set()}
+                    score={team.score}
+                    scoreLabel="Score"
+                    threshold={nbaHistoryTeamThreshold}
+                    meta={`${team.conf} · ${team.era} · ${team.titles} título${team.titles !== 1 ? "s" : ""}`}
+                    note={team.note}
+                    logo={nbaTeamLogo(team.teamCode)}
+                  />
+                ))}
+              </div>
+            </NewsletterSection>
           </>
         )}
         </div>
@@ -1012,6 +1067,7 @@ function NewsletterApp() {
                     meta={`MLB · ${player.pos} · ${player.era} · tier ${player.tier}`}
                     note={player.note}
                     logo={mlbTeamLogo(player.teamCode)}
+                    legendActive={player.era?.includes("present")}
                   />
                 ))}
               </div>
@@ -1426,6 +1482,7 @@ function NewsletterApp() {
                       meta={`ATP · ${p.country} · ${era}${p.active ? " · 🟢 Activo" : ""}`}
                       note={`${p.stats?.gs || 0} GS · ${p.stats?.year_end_no1 || 0}× #1 año · ${p.stats?.weeks_no1 || 0} sem #1`}
                       logo={p.logo}
+                      legendActive={p.active}
                     />
                     );
                   })}
@@ -1481,6 +1538,7 @@ function NewsletterApp() {
                       meta={`WTA · ${p.country} · ${era}${p.active ? " · 🟢 Activo" : ""}`}
                       note={`${p.stats?.gs || 0} GS · ${p.stats?.year_end_no1 || 0}× #1 año · ${p.stats?.weeks_no1 || 0} sem #1`}
                       logo={p.logo}
+                      legendActive={p.active}
                     />
                     );
                   })}
@@ -1728,6 +1786,7 @@ function NewsletterApp() {
                       meta={cycMeta(p)}
                       note={cycNote(p)}
                       logo={p.logo}
+                      legendActive={p.active}
                     />
                   ))}
                 </div>
@@ -1874,6 +1933,7 @@ function NewsletterApp() {
                       meta={`${p.country} · ${p.stats.yok_start ? `Yokozuna ${p.stats.yok_start}–${p.stats.yok_end || "hoy"}` : ""}`}
                       note={`${p.stats.yusho} yusho · ${p.stats.yokozuna_basho} basho como Yokozuna`}
                       logo={p.logo}
+                      legendActive={!p.stats?.yok_end}
                     />
                   ))}
                 </div>
@@ -1895,6 +1955,7 @@ function NewsletterApp() {
           const f1MaxSeason  = F1.MAX_SEASON_PTS || F1.TOTAL_ROUNDS * 25;
           const f1Remaining  = (F1.TOTAL_ROUNDS - F1.ROUND) * 25;
           const f1Threshold  = Math.round(Math.min((drivers[1]?.points || 0) + f1Remaining + 1, f1MaxSeason) / f1MaxSeason * 1000) / 10;
+          const f1LegendByName = Object.fromEntries((F1.LEGENDS || []).map(p => [p.name, p.legendScore]));
           const f1DriverByName = Object.fromEntries((F1.DRIVERS || []).map(d => [d.name, d]));
           return (
             <>
@@ -1905,7 +1966,7 @@ function NewsletterApp() {
                   <span>Actualizado {F1.UPDATED}</span>
                 </div>
                 <div className="newsletter-hero__title-row">
-                  <h1>F1 · World Championship {F1.SEASON}</h1>
+                  <h1>F1 {F1.SEASON}</h1>
                   <p>
                     Importancia del campeonato: <strong>{F1.IMPORTANCE}/10</strong>.
                     {drivers.length > 0 && ` Líder: ${drivers[0].name} (${drivers[0].points} pts).`}
@@ -1921,7 +1982,9 @@ function NewsletterApp() {
                 sub={`Barra sobre ${f1MaxSeason} pts máximos. Línea roja = mínimo para ser campeón matemático (2º + puntos restantes + 1).`}
               >
                 <div className="newsletter-list">
-                  {drivers.map((d, i) => (
+                  {drivers.map((d, i) => {
+                    const lgScore = f1LegendByName[d.name];
+                    return (
                     <NewsletterRankRow
                       key={d.name}
                       rank={i + 1}
@@ -1932,10 +1995,15 @@ function NewsletterApp() {
                       scoreDisplay={d.points}
                       scoreLabel="Puntos"
                       threshold={f1Threshold}
+                      scoreB={lgScore ?? 0}
+                      scoreBDisplay={lgScore != null ? lgScore.toFixed(1) : "—"}
+                      scoreBLabel="Legend"
                       meta={`F1 · ${d.country} · ${d.team || d.teamCode}`}
                       note={null}
                       logo={d.logo}
                     />
+                    );
+                  }}
                   ))}
                 </div>
               </NewsletterSection>
@@ -2065,6 +2133,7 @@ function NewsletterApp() {
                       meta={`F1 · ${p.country} · ${p.stats.birth}${p.active ? " · 🟢 Activo" : ""}`}
                       note={`${p.stats.titles} títulos · ${p.stats.wins} victorias · ${p.stats.poles} poles`}
                       logo={p.logo}
+                      legendActive={p.active}
                     />
                   ))}
                 </div>
@@ -2206,6 +2275,7 @@ function NewsletterApp() {
                       meta={`IndyCar · ${p.country} · ${p.stats.birth}${p.active ? " · Activo" : ""}`}
                       note={`${p.stats.titles} títulos · ${p.stats.wins} victorias · ${p.stats.poles} poles`}
                       logo={p.logo}
+                      legendActive={p.active}
                     />
                   ))}
                 </div>
@@ -2347,6 +2417,7 @@ function NewsletterApp() {
                       meta={`NASCAR · ${p.country} · ${p.stats.birth}${p.active ? " · Activo" : ""}`}
                       note={`${p.stats.titles} títulos · ${p.stats.wins} victorias · ${p.stats.poles} poles`}
                       logo={p.logo}
+                      legendActive={p.active}
                     />
                   ))}
                 </div>
@@ -2537,6 +2608,7 @@ function NewsletterApp() {
                       meta={`AFL · ${p.teamCode} · ${p.stats.birth}`}
                       note={`${p.stats.flags} premios · ${p.stats.brownlow} Brownlow · ${p.stats.all_aus} All-Aus`}
                       logo={p.logo}
+                      legendActive={p.active}
                     />
                   ))}
                 </div>
@@ -2693,6 +2765,7 @@ function NewsletterApp() {
                       meta={`${p.stats?.tour || p.teamCode} · ${p.country}${p.active ? " · Activo" : ""}`}
                       note={legendNote(p)}
                       logo={p.logo}
+                      legendActive={p.active}
                     />
                   ))}
                 </div>
@@ -2797,6 +2870,7 @@ function NewsletterApp() {
                       meta={`MotoGP · ${p.country} · ${p.stats.birth}${p.active ? " · 🟢 Activo" : ""}`}
                       note={`${p.stats.titles} títulos · ${p.stats.wins} victorias · ${p.stats.poles} poles`}
                       logo={p.logo}
+                      legendActive={p.active}
                     />
                   ))}
                 </div>
