@@ -3445,36 +3445,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 33377,
-      "name": "Teoscar Hernandez",
-      "first": "Teoscar",
-      "last": "Hernandez",
-      "pos": "LF",
-      "teamCode": "LAD",
-      "age": 33,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33377.png",
-      "colors": {
-        "primary": "#005a9c",
-        "secondary": "#ef3e42"
-      },
-      "score": 61,
-      "stats": {
-        "type": "batting",
-        "ab": 181,
-        "hr": 7,
-        "rbi": 31,
-        "avg": 0.276,
-        "sb": 2,
-        "ops": 0.785
-      },
-      "legendScore": 43.3,
-      "currentScore": 61,
-      "battingScore": 61,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 34995,
       "name": "Trent Grisham",
       "first": "Trent",
@@ -8437,7 +8407,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-08 09:56 UTC",
+  "LAST_UPDATE": "2026-06-08 16:58 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

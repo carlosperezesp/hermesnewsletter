@@ -3846,7 +3846,7 @@ window.NBA_DATA = {
       "last": "Clarkson",
       "pos": "G",
       "teamCode": "NY",
-      "age": 33,
+      "age": 34,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/2528426.png",
       "colors": {
         "primary": "#006bb6",
@@ -7340,7 +7340,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-06-08 09:56 UTC",
+  "LAST_UPDATE": "2026-06-08 16:58 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
