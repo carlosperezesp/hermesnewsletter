@@ -1,8 +1,8 @@
-// Auto-generated 2026-06-06 08:05 UTC
+// Auto-generated 2026-06-09 10:06 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-06-06 08:05 UTC",
+  "UPDATED": "2026-06-09 10:06 UTC",
   "SEASON": "2026",
-  "ROUND": 5,
+  "ROUND": 6,
   "TOTAL_ROUNDS": 24,
   "MAX_SEASON_PTS": 600,
   "IMPORTANCE": 10.0,
@@ -21,17 +21,40 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 131.0,
+      "points": 156.0,
       "wins": 0,
-      "score": 21.8,
+      "score": 26.0,
       "stats": {
-        "pts": 131.0,
+        "pts": 156.0,
         "wins": 0
       },
-      "prevRank": 1
+      "prevRank": null
     },
     {
       "position": 2,
+      "name": "Lewis Hamilton",
+      "nationality": "",
+      "country": "GBR",
+      "teamCode": "ferrari",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
+      "primary": "#DC0000",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#DC0000",
+        "secondary": "#FFFFFF"
+      },
+      "team": "",
+      "points": 90.0,
+      "wins": 0,
+      "score": 15.0,
+      "stats": {
+        "pts": 90.0,
+        "wins": 0
+      },
+      "prevRank": null
+    },
+    {
+      "position": 3,
       "name": "George Russell",
       "nationality": "",
       "country": "GBR",
@@ -51,10 +74,10 @@ window.F1_DATA = {
         "pts": 88.0,
         "wins": 0
       },
-      "prevRank": 2
+      "prevRank": null
     },
     {
-      "position": 3,
+      "position": 4,
       "name": "Charles Leclerc",
       "nationality": "",
       "country": "MON",
@@ -74,33 +97,33 @@ window.F1_DATA = {
         "pts": 75.0,
         "wins": 0
       },
-      "prevRank": 3
-    },
-    {
-      "position": 4,
-      "name": "Lewis Hamilton",
-      "nationality": "",
-      "country": "GBR",
-      "teamCode": "ferrari",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
-      "primary": "#DC0000",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#DC0000",
-        "secondary": "#FFFFFF"
-      },
-      "team": "",
-      "points": 72.0,
-      "wins": 0,
-      "score": 12.0,
-      "stats": {
-        "pts": 72.0,
-        "wins": 0
-      },
-      "prevRank": 4
+      "prevRank": null
     },
     {
       "position": 5,
+      "name": "Oscar Piastri",
+      "nationality": "",
+      "country": "AUS",
+      "teamCode": "mclaren",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+      "primary": "#FF8700",
+      "secondary": "#000000",
+      "colors": {
+        "primary": "#FF8700",
+        "secondary": "#000000"
+      },
+      "team": "",
+      "points": 60.0,
+      "wins": 0,
+      "score": 10.0,
+      "stats": {
+        "pts": 60.0,
+        "wins": 0
+      },
+      "prevRank": null
+    },
+    {
+      "position": 6,
       "name": "Lando Norris",
       "nationality": "",
       "country": "GBR",
@@ -120,30 +143,7 @@ window.F1_DATA = {
         "pts": 58.0,
         "wins": 0
       },
-      "prevRank": 5
-    },
-    {
-      "position": 6,
-      "name": "Oscar Piastri",
-      "nationality": "",
-      "country": "AUS",
-      "teamCode": "mclaren",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
-      "primary": "#FF8700",
-      "secondary": "#000000",
-      "colors": {
-        "primary": "#FF8700",
-        "secondary": "#000000"
-      },
-      "team": "",
-      "points": 48.0,
-      "wins": 0,
-      "score": 8.0,
-      "stats": {
-        "pts": 48.0,
-        "wins": 0
-      },
-      "prevRank": 6
+      "prevRank": null
     },
     {
       "position": 7,
@@ -166,56 +166,33 @@ window.F1_DATA = {
         "pts": 43.0,
         "wins": 0
       },
-      "prevRank": 7
+      "prevRank": null
     },
     {
       "position": 8,
-      "name": "Pierre Gasly",
+      "name": "Isack Hadjar",
       "nationality": "",
       "country": "FRA",
-      "teamCode": "alpine",
+      "teamCode": "rb",
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
-      "primary": "#FFF500",
-      "secondary": "#FF0000",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
       "colors": {
-        "primary": "#FFF500",
-        "secondary": "#FF0000"
+        "primary": "#555555",
+        "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 20.0,
+      "points": 29.0,
       "wins": 0,
-      "score": 3.3,
+      "score": 4.8,
       "stats": {
-        "pts": 20.0,
+        "pts": 29.0,
         "wins": 0
       },
-      "prevRank": 8
+      "prevRank": null
     },
     {
       "position": 9,
-      "name": "Oliver Bearman",
-      "nationality": "",
-      "country": "GBR",
-      "teamCode": "haas",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
-      "primary": "#5A5A5A",
-      "secondary": "#E8002D",
-      "colors": {
-        "primary": "#5A5A5A",
-        "secondary": "#E8002D"
-      },
-      "team": "",
-      "points": 18.0,
-      "wins": 0,
-      "score": 3.0,
-      "stats": {
-        "pts": 18.0,
-        "wins": 0
-      },
-      "prevRank": 9
-    },
-    {
-      "position": 10,
       "name": "Liam Lawson",
       "nationality": "",
       "country": "NZL",
@@ -228,14 +205,37 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 16.0,
+      "points": 26.0,
       "wins": 0,
-      "score": 2.7,
+      "score": 4.3,
       "stats": {
-        "pts": 16.0,
+        "pts": 26.0,
         "wins": 0
       },
-      "prevRank": 10
+      "prevRank": null
+    },
+    {
+      "position": 10,
+      "name": "Pierre Gasly",
+      "nationality": "",
+      "country": "FRA",
+      "teamCode": "alpine",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+      "primary": "#FFF500",
+      "secondary": "#FF0000",
+      "colors": {
+        "primary": "#FFF500",
+        "secondary": "#FF0000"
+      },
+      "team": "",
+      "points": 26.0,
+      "wins": 0,
+      "score": 4.3,
+      "stats": {
+        "pts": 26.0,
+        "wins": 0
+      },
+      "prevRank": null
     }
   ],
   "CONSTRUCTORS": [
@@ -245,7 +245,7 @@ window.F1_DATA = {
       "id": "mercedes",
       "primary": "#00D2BE",
       "secondary": "#000000",
-      "points": 219.0
+      "points": 244.0
     },
     {
       "position": 2,
@@ -253,7 +253,7 @@ window.F1_DATA = {
       "id": "ferrari",
       "primary": "#DC0000",
       "secondary": "#FFFFFF",
-      "points": 147.0
+      "points": 165.0
     },
     {
       "position": 3,
@@ -261,7 +261,7 @@ window.F1_DATA = {
       "id": "mclaren",
       "primary": "#FF8700",
       "secondary": "#000000",
-      "points": 106.0
+      "points": 118.0
     },
     {
       "position": 4,
@@ -269,7 +269,7 @@ window.F1_DATA = {
       "id": "red_bull",
       "primary": "#00327D",
       "secondary": "#CC1E4A",
-      "points": 57.0
+      "points": 72.0
     },
     {
       "position": 5,
@@ -277,7 +277,7 @@ window.F1_DATA = {
       "id": "alpine",
       "primary": "#FFF500",
       "secondary": "#FF0000",
-      "points": 35.0
+      "points": 41.0
     }
   ],
   "LAST_RACE": {
@@ -328,7 +328,7 @@ window.F1_DATA = {
         "podiums": 197,
         "birth": 1985
       },
-      "prevRank": 1
+      "prevRank": null
     },
     {
       "id": "michael_schumacher",
@@ -347,7 +347,7 @@ window.F1_DATA = {
         "podiums": 155,
         "birth": 1969
       },
-      "prevRank": 2
+      "prevRank": null
     },
     {
       "id": "sebastian_vettel",
@@ -366,7 +366,7 @@ window.F1_DATA = {
         "podiums": 122,
         "birth": 1987
       },
-      "prevRank": 3
+      "prevRank": null
     },
     {
       "id": "max_verstappen",
@@ -385,7 +385,7 @@ window.F1_DATA = {
         "podiums": 113,
         "birth": 1997
       },
-      "prevRank": 4
+      "prevRank": null
     },
     {
       "id": "alain_prost",
@@ -404,7 +404,7 @@ window.F1_DATA = {
         "podiums": 106,
         "birth": 1955
       },
-      "prevRank": 5
+      "prevRank": null
     },
     {
       "id": "juan_manuel_fangio",
@@ -423,7 +423,7 @@ window.F1_DATA = {
         "podiums": 35,
         "birth": 1911
       },
-      "prevRank": 6
+      "prevRank": null
     },
     {
       "id": "ayrton_senna",
@@ -442,7 +442,7 @@ window.F1_DATA = {
         "podiums": 80,
         "birth": 1960
       },
-      "prevRank": 7
+      "prevRank": null
     },
     {
       "id": "niki_lauda",
@@ -461,7 +461,7 @@ window.F1_DATA = {
         "podiums": 54,
         "birth": 1949
       },
-      "prevRank": 8
+      "prevRank": null
     },
     {
       "id": "nelson_piquet",
@@ -480,7 +480,7 @@ window.F1_DATA = {
         "podiums": 60,
         "birth": 1952
       },
-      "prevRank": 9
+      "prevRank": null
     },
     {
       "id": "jackie_stewart",
@@ -499,7 +499,7 @@ window.F1_DATA = {
         "podiums": 43,
         "birth": 1939
       },
-      "prevRank": 10
+      "prevRank": null
     },
     {
       "id": "fernando_alonso",
@@ -518,7 +518,7 @@ window.F1_DATA = {
         "podiums": 106,
         "birth": 1981
       },
-      "prevRank": 11
+      "prevRank": null
     },
     {
       "id": "jim_clark",
@@ -537,7 +537,7 @@ window.F1_DATA = {
         "podiums": 32,
         "birth": 1936
       },
-      "prevRank": 12
+      "prevRank": null
     },
     {
       "id": "mika_hakkinen",
@@ -556,7 +556,7 @@ window.F1_DATA = {
         "podiums": 51,
         "birth": 1968
       },
-      "prevRank": 13
+      "prevRank": null
     },
     {
       "id": "nigel_mansell",
@@ -575,7 +575,7 @@ window.F1_DATA = {
         "podiums": 59,
         "birth": 1953
       },
-      "prevRank": 14
+      "prevRank": null
     },
     {
       "id": "charles_leclerc",
@@ -594,7 +594,7 @@ window.F1_DATA = {
         "podiums": 40,
         "birth": 1997
       },
-      "prevRank": 15
+      "prevRank": null
     },
     {
       "id": "lando_norris",
@@ -613,7 +613,7 @@ window.F1_DATA = {
         "podiums": 33,
         "birth": 2000
       },
-      "prevRank": 16
+      "prevRank": null
     }
   ]
 };
