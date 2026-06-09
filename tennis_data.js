@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-08 22:53 UTC
+// Auto-generated 2026-06-09 16:22 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-08 22:53 UTC",
+  "UPDATED": "2026-06-09 16:22 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10574,134 +10574,105 @@ window.TENNIS_DATA = {
       "surface": "Clay",
       "matches": [
         {
-          "round": "F",
+          "round": "Cuartos",
           "w": "Alexander Zverev",
-          "w_logo": "",
+          "w_logo": "https://flagcdn.com/24x18/de.png",
+          "l": "Rafael Jodar",
+          "l_logo": "https://flagcdn.com/24x18/es.png",
+          "score": "7-6(3) 6-1 6-3",
+          "day": "ayer/hoy",
+          "w_score": 87.4,
+          "l_score": 78.0,
+          "match_score": 87.4
+        },
+        {
+          "round": "Final",
+          "w": "Alexander Zverev",
+          "w_logo": "https://flagcdn.com/24x18/de.png",
           "l": "Flavio Cobolli",
-          "l_logo": "",
-          "score": "6-1 4-6 6-4 6-7 (5-7) 6-1",
-          "day": "ayer",
-          "scheduled": false,
+          "l_logo": "https://flagcdn.com/24x18/it.png",
+          "score": "6-1 4-6 6-4 6-7(5) 6-1",
+          "day": "ayer/hoy",
           "w_score": 87.4,
           "l_score": 75.4,
           "match_score": 87.4
-        }
-      ]
-    }
-  ],
-  "ATP_TODAY": [
-    {
-      "name": "Roland Garros",
-      "level": "Grand Slam",
-      "surface": "Clay",
-      "matches": [
-        {
-          "round": "R64",
-          "w": "Jannik Sinner",
-          "w_logo": "",
-          "l": "Sebastian Ofner",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 100.0,
-          "l_score": 44.1,
-          "match_score": 100.0
         },
         {
-          "round": "R64",
-          "w": "Andrea Pellegrino",
-          "w_logo": "",
-          "l": "Arthur Fils",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 57.5,
-          "l_score": 82.7,
-          "match_score": 82.7
+          "round": "Octavos",
+          "w": "Alexander Zverev",
+          "w_logo": "https://flagcdn.com/24x18/de.png",
+          "l": "Jesper De Jong",
+          "l_logo": "https://flagcdn.com/24x18/nl.png",
+          "score": "7-6(3) 6-4 6-1",
+          "day": "ayer/hoy",
+          "w_score": 87.4,
+          "l_score": 55.3,
+          "match_score": 87.4
         },
         {
-          "round": "R32",
-          "w": "Casper Ruud",
-          "w_logo": "",
-          "l": "Jiri Lehecka",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 81.1,
-          "l_score": 76.4,
+          "round": "Semifinal",
+          "w": "Alexander Zverev",
+          "w_logo": "https://flagcdn.com/24x18/de.png",
+          "l": "Jakub Mensik",
+          "l_logo": "https://flagcdn.com/24x18/cz.png",
+          "score": "7-5 6-2 3-6 6-3",
+          "day": "ayer/hoy",
+          "w_score": 87.4,
+          "l_score": 76.1,
+          "match_score": 87.4
+        },
+        {
+          "round": "Octavos",
+          "w": "Joao Fonseca",
+          "w_logo": "https://flagcdn.com/24x18/br.png",
+          "l": "Casper Ruud",
+          "l_logo": "https://flagcdn.com/24x18/no.png",
+          "score": "7-5 7-6(8) 5-7 6-2",
+          "day": "ayer/hoy",
+          "w_score": 73.7,
+          "l_score": 81.1,
           "match_score": 81.1
         },
         {
-          "round": "R64",
-          "w": "Daniil Medvedev",
-          "w_logo": "",
-          "l": "Tomas Machac",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 78.7,
-          "l_score": 68.0,
-          "match_score": 78.7
-        },
-        {
-          "round": "R32",
-          "w": "Matteo Arnaldi",
-          "w_logo": "",
-          "l": "Rafael Jodar",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 65.3,
-          "l_score": 78.0,
+          "round": "Octavos",
+          "w": "Rafael Jodar",
+          "w_logo": "https://flagcdn.com/24x18/es.png",
+          "l": "Pablo Carreno Busta",
+          "l_logo": "https://flagcdn.com/24x18/es.png",
+          "score": "4-6 4-6 6-1 6-2 6-2",
+          "day": "ayer/hoy",
+          "w_score": 78.0,
+          "l_score": 55.8,
           "match_score": 78.0
         },
         {
-          "round": "R64",
-          "w": "Felix Auger Aliassime",
-          "w_logo": "",
-          "l": "Mariano Navone",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 77.7,
-          "l_score": 65.0,
+          "round": "Cuartos",
+          "w": "Flavio Cobolli",
+          "w_logo": "https://flagcdn.com/24x18/it.png",
+          "l": "Felix Auger Aliassime",
+          "l_logo": "https://flagcdn.com/24x18/ca.png",
+          "score": "4-6 6-4 6-4 6-4",
+          "day": "ayer/hoy",
+          "w_score": 75.4,
+          "l_score": 77.7,
           "match_score": 77.7
         },
         {
-          "round": "R64",
-          "w": "Ben Shelton",
-          "w_logo": "",
-          "l": "Nikoloz Basilashvili",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 76.5,
-          "l_score": 50.6,
-          "match_score": 76.5
-        },
-        {
-          "round": "R64",
-          "w": "Alexei Popyrin",
-          "w_logo": "",
-          "l": "Jakub Mensik",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 55.2,
-          "l_score": 76.1,
-          "match_score": 76.1
+          "round": "Octavos",
+          "w": "Felix Auger Aliassime",
+          "w_logo": "https://flagcdn.com/24x18/ca.png",
+          "l": "Alejandro Tabilo",
+          "l_logo": "https://flagcdn.com/24x18/cl.png",
+          "score": "6-3 7-5 6-1",
+          "day": "ayer/hoy",
+          "w_score": 77.7,
+          "l_score": 66.4,
+          "match_score": 77.7
         }
       ]
     }
   ],
+  "ATP_TODAY": [],
   "WTA_RECENT": [
     {
       "name": "Roland Garros",
@@ -10810,5 +10781,5 @@ window.TENNIS_DATA = {
   "WTA_TODAY": [],
   "ATP_TOURNAMENT": {},
   "WTA_TOURNAMENT": {},
-  "IMPORTANCE": 10.0
+  "IMPORTANCE": 7.5
 };

@@ -2340,7 +2340,7 @@ window.NHL_DATA = {
       "name": "Zach Hyman",
       "pos": "LW",
       "teamCode": "EDM",
-      "age": 33,
+      "age": 34,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -14232,7 +14232,7 @@ window.NHL_DATA = {
       "name": "Barrett Hayton",
       "pos": "C",
       "teamCode": "UTA",
-      "age": 25,
+      "age": 26,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -14257,8 +14257,7 @@ window.NHL_DATA = {
         46,
         48,
         54
-      ],
-      "legendScore": 46.2
+      ]
     },
     {
       "id": 8476869,
@@ -16645,7 +16644,7 @@ window.NHL_DATA = {
       "name": "Drew O'Connor",
       "pos": "LW",
       "teamCode": "VAN",
-      "age": 27,
+      "age": 28,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -27938,7 +27937,7 @@ window.NHL_DATA = {
       "name": "Jake Bean",
       "pos": "D",
       "teamCode": "CGY",
-      "age": 27,
+      "age": 28,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -44899,10 +44898,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-08 22:52 UTC",
+  "LAST_UPDATE": "2026-06-09 16:21 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-08T22:52:15Z"
+    "standingsDateTimeUtc": "2026-06-09T16:20:46Z"
   }
 };
