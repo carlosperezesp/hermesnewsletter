@@ -15,10 +15,25 @@
 <body>
   <div id="root"></div>
 
+  <script>
+    window.addEventListener("error", event => {
+      const root = document.getElementById("root");
+      if (!root || root.childElementCount) return;
+      root.innerHTML = `<pre style="padding:24px;font:14px/1.5 monospace;color:#8a1f11;background:#fff4f0;white-space:pre-wrap">JavaScript error:\n${event.message}\n${event.filename || ""}:${event.lineno || ""}:${event.colno || ""}</pre>`;
+    });
+
+    window.addEventListener("unhandledrejection", event => {
+      const root = document.getElementById("root");
+      if (!root || root.childElementCount) return;
+      const reason = event.reason?.stack || event.reason?.message || String(event.reason);
+      root.innerHTML = `<pre style="padding:24px;font:14px/1.5 monospace;color:#8a1f11;background:#fff4f0;white-space:pre-wrap">Promise error:\n${reason}</pre>`;
+    });
+  </script>
+
   <!-- React + Babel -->
-  <script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
-  <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
-  <script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/react@18.3.1/umd/react.development.js" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" crossorigin="anonymous"></script>
 
   <!-- Data + components -->
   <script src="data.js"></script>

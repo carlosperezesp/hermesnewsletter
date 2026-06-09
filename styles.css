@@ -1519,6 +1519,252 @@
       color: var(--ink-2);
     }
 
+    .tennis-movement-row {
+      display: grid;
+      grid-template-columns: 34px minmax(0, 1fr) 74px 58px;
+      gap: 10px;
+      align-items: center;
+      min-height: 58px;
+      padding: 9px 10px;
+      border-bottom: 1px solid var(--rule-2);
+      background: var(--paper);
+      min-width: 0;
+    }
+    .tennis-movement-row:last-child {
+      border-bottom: 0;
+    }
+    .tennis-movement-row--up {
+      border-left: 3px solid #c9a227;
+      background: linear-gradient(100deg, rgba(201,162,39,0.07) 0%, rgba(201,162,39,0.02) 100%), var(--paper);
+    }
+    .tennis-movement-row__rank {
+      color: var(--muted-2);
+      font-family: var(--serif);
+      font-size: 22px;
+      line-height: 1;
+      text-align: right;
+      font-variant-numeric: tabular-nums;
+    }
+    .tennis-movement-row--up .tennis-movement-row__rank,
+    .tennis-movement-row--up .tennis-movement-row__name {
+      color: #8b6208;
+    }
+    .tennis-movement-row__identity {
+      display: flex;
+      align-items: center;
+      gap: 9px;
+      min-width: 0;
+    }
+    .tennis-movement-row__copy {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+      min-width: 0;
+    }
+    .tennis-movement-row__name {
+      overflow: hidden;
+      color: var(--ink);
+      font-family: var(--serif);
+      font-size: 17px;
+      line-height: 1.1;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .tennis-movement-row__meta,
+    .tennis-movement-row__label {
+      overflow: hidden;
+      color: var(--muted);
+      font-family: var(--mono);
+      font-size: 9.5px;
+      line-height: 1.35;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .tennis-movement-row__score {
+      justify-self: end;
+      text-align: right;
+    }
+    .tennis-movement-row__label {
+      display: block;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+    .tennis-movement-row__value {
+      display: block;
+      color: var(--accent);
+      font-family: var(--serif);
+      font-size: 23px;
+      line-height: 1;
+      font-variant-numeric: tabular-nums;
+    }
+    .tennis-movement-row__delta {
+      justify-self: end;
+      min-width: 48px;
+      border-radius: 3px;
+      padding: 3px 5px;
+      font-family: var(--mono);
+      font-size: 12px;
+      font-weight: 700;
+      line-height: 1;
+      text-align: right;
+      font-variant-numeric: tabular-nums;
+    }
+    .tennis-movement-row--up .tennis-movement-row__delta {
+      background: #dcefe2;
+      color: #1f7a3d;
+    }
+    .tennis-movement-row--down .tennis-movement-row__delta {
+      background: #f8ded9;
+      color: #c92d2d;
+    }
+
+    .afl-ladder {
+      background: var(--paper);
+      border-top: 1px solid var(--ink-2);
+      border-bottom: 1px solid var(--rule);
+      overflow-x: auto;
+    }
+    .afl-ladder__head,
+    .afl-ladder__row {
+      display: grid;
+      grid-template-columns: 58px minmax(220px, 1fr) 68px 68px 68px 78px 86px;
+      gap: 12px;
+      align-items: center;
+      min-width: 620px;
+    }
+    .afl-ladder__head {
+      padding: 8px 12px;
+      border-bottom: 2px solid var(--ink);
+      color: var(--muted);
+      font-family: var(--mono);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+    .afl-ladder__head span:not(:nth-child(2)),
+    .afl-ladder__row > span:not(.afl-ladder__team):not(.afl-ladder__rank) {
+      text-align: right;
+    }
+    .afl-ladder__row {
+      min-height: 46px;
+      padding: 7px 12px;
+      border-bottom: 1px solid var(--rule-2);
+      font-family: var(--mono);
+      font-size: 16px;
+      font-variant-numeric: tabular-nums;
+    }
+    .afl-ladder__row:last-child {
+      border-bottom: 0;
+    }
+    .afl-ladder__row--finals {
+      background: linear-gradient(90deg, rgba(201,162,39,0.08), transparent 55%), var(--paper);
+    }
+    .afl-ladder__rank {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 5px;
+      color: var(--muted-2);
+      font-family: var(--serif);
+      font-size: 25px;
+      line-height: 1;
+    }
+    .afl-ladder__team {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      min-width: 0;
+    }
+    .afl-ladder__name {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+      min-width: 0;
+      overflow: hidden;
+      color: var(--ink);
+      font-family: var(--serif);
+      font-size: 20px;
+      line-height: 1.1;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .afl-ladder__name span {
+      flex-shrink: 0;
+      border-radius: 3px;
+      background: rgba(201,162,39,0.14);
+      color: #8b6208;
+      font-family: var(--mono);
+      font-size: 8.5px;
+      line-height: 1;
+      padding: 2px 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+    .afl-results-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px 18px;
+    }
+    .afl-match {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+      gap: 12px;
+      align-items: center;
+      padding: 12px;
+      border-top: 1px solid var(--ink-2);
+      border-bottom: 1px solid var(--rule);
+      background: var(--paper);
+      min-width: 0;
+    }
+    .afl-match__team {
+      display: flex;
+      align-items: center;
+      gap: 9px;
+      min-width: 0;
+      color: var(--ink-2);
+      font-family: var(--serif);
+      font-size: 17px;
+      line-height: 1.1;
+    }
+    .afl-match__team > span:not(.team-swatch) {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .afl-match__team--away {
+      justify-content: flex-end;
+      text-align: right;
+    }
+    .afl-match__team--winner {
+      color: var(--ink);
+      font-weight: 700;
+    }
+    .afl-match__score {
+      display: inline-flex;
+      align-items: baseline;
+      gap: 6px;
+      color: var(--muted);
+      font-family: var(--mono);
+      font-size: 12px;
+      white-space: nowrap;
+    }
+    .afl-match__score strong {
+      color: var(--accent);
+      font-family: var(--serif);
+      font-size: 24px;
+      font-weight: 500;
+      line-height: 1;
+      font-variant-numeric: tabular-nums;
+    }
+    .afl-match__date {
+      grid-column: 1 / -1;
+      color: var(--muted);
+      font-family: var(--mono);
+      font-size: 10px;
+      text-align: center;
+      letter-spacing: 0.04em;
+    }
+
     /* ─────────────────────── Footer ─────────────────────── */
     .footer {
       border-top: 1px solid var(--rule);

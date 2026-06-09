@@ -547,9 +547,12 @@ function NewsletterApp() {
       ...sectionFreshness(section.data),
     }));
     const hasFreshSection = sectionData.some(section => section.isFresh);
+    const navSections = [...sectionData].sort((a, b) =>
+      a.label.localeCompare(b.label, "es", { sensitivity: "base" })
+    );
     return [
       { id: "all", label: "Todos", icon: "all", available: true, isFresh: hasFreshSection, updatedAt: hasFreshSection ? "Hay novedades esta semana" : "Sin novedades esta semana" },
-      ...sectionData,
+      ...navSections,
     ];
   }, [D, NBA, MLB, NFL, TENNIS]);
   const visibleSections = newsletterSections.filter(section => section.id !== "all").length;
@@ -1411,6 +1414,141 @@ function NewsletterApp() {
             );
           }
 
+          function tennisFinalTournaments(recent = []) {
+            return recent.filter(tourney =>
+              (tourney.matches || []).some(m =>
+                m.round === "Final" && !m.scheduled && m.score && m.score !== "por jugar"
+              )
+            );
+          }
+
+          function tennisWithoutFinishedTournaments(tournaments = [], finished = []) {
+            const finishedNames = new Set(finished.map(t => t.name).filter(Boolean));
+            return tournaments.filter(t => !finishedNames.has(t.name));
+          }
+
+          function tennisTournamentScoreDelta(player, tournament) {
+            const st = player.tournamentStatus || {};
+            if (!tournament?.name || st.tournament !== tournament.name) return null;
+            const final = (tournament.matches || []).find(m => m.round === "Final" && !m.scheduled);
+            if (final?.w === player.name) return 4.0;
+            if (final?.l === player.name) return 3.0;
+
+            const round = String(st.round || st.reason || "").toLowerCase();
+            const top32 = (player.prevRank ?? player.rank ?? 999) <= 32;
+            if (round.includes("campe")) return 4.0;
+            if (round.includes("semifinal")) return 2.0;
+            if (round.includes("quarter")) return 1.2;
+            if (round.includes("r16")) return 0.4;
+            if (round.includes("r32")) return top32 ? -0.5 : 0.2;
+            if (round.includes("r64")) return top32 ? -1.2 : -0.4;
+            if (round.includes("r128")) return top32 ? -2.0 : -0.8;
+            if (String(st.reason || "").toLowerCase().includes("lesi")) return top32 ? -0.8 : -0.2;
+            if (String(st.reason || "").toLowerCase().includes("no compite")) return top32 ? -1.0 : -0.2;
+            return null;
+          }
+
+          function tennisMovementRows(players = [], tournament = null) {
+            const enriched = players
+              .map(player => {
+                const previousScore = player.prevActiveScore ?? player.previousActiveScore ?? player.preTournamentActiveScore;
+                if (typeof player.activeScore !== "number") return null;
+                const hasPreviousScore = typeof previousScore === "number";
+                const rawDelta = hasPreviousScore
+                  ? player.activeScore - previousScore
+                  : tennisTournamentScoreDelta(player, tournament);
+                if (typeof rawDelta !== "number") return null;
+                const scoreDelta = Math.round(rawDelta * 10) / 10;
+                return {
+                  ...player,
+                  previousScore,
+                  hasPreviousScore,
+                  scoreDelta,
+                };
+              })
+              .filter(Boolean)
+              .filter(player => player.scoreDelta !== 0);
+
+            return {
+              risers: enriched
+                .filter(player => player.scoreDelta > 0)
+                .sort((a, b) => b.scoreDelta - a.scoreDelta || b.activeScore - a.activeScore)
+                .slice(0, 5),
+              fallers: enriched
+                .filter(player => player.scoreDelta < 0 && (player.prevRank ?? player.rank ?? 999) <= 32)
+                .sort((a, b) => a.scoreDelta - b.scoreDelta || b.activeScore - a.activeScore)
+                .slice(0, 5),
+            };
+          }
+
+          function TennisMovementCard({ title, rows, tone, tour }) {
+            if (!rows.length) return null;
+            const isUp = tone === "up";
+            return (
+              <div className="newsletter-list" style={{ flex: 1, minWidth: 280 }}>
+                <div style={{
+                  padding: "6px 0 8px",
+                  borderBottom: "2px solid var(--ink,#1a1714)",
+                  fontSize: 12,
+                  fontWeight: 700,
+                  letterSpacing: "0.02em",
+                  textTransform: "uppercase",
+                }}>
+                  {title}
+                </div>
+                {rows.map((player, i) => (
+                  <div
+                    key={`${tour}-${tone}-${player.id}`}
+                    className={`tennis-movement-row ${isUp ? "tennis-movement-row--up" : "tennis-movement-row--down"}`}
+                  >
+                    <span className="tennis-movement-row__rank">{String(i + 1).padStart(2, "0")}</span>
+                    <span className="tennis-movement-row__identity">
+                      <TeamSwatch colors={player.colors} code={player.teamCode} logo={player.logo} />
+                      <span className="tennis-movement-row__copy">
+                        <span className="tennis-movement-row__name">{player.name}</span>
+                        <span className="tennis-movement-row__meta">
+                          {tour} · #{player.rank} · {player.hasPreviousScore ? `antes ${player.previousScore.toFixed(1)}` : "impacto torneo"}
+                        </span>
+                      </span>
+                    </span>
+                    <span className="tennis-movement-row__score">
+                      <span className="tennis-movement-row__label">Nivel</span>
+                      <span className="tennis-movement-row__value">{player.activeScore.toFixed(1)}</span>
+                    </span>
+                    <span className="tennis-movement-row__delta">
+                      {isUp ? "+" : ""}{player.scoreDelta.toFixed(1)}
+                    </span>
+                  </div>
+                ))}
+              </div>
+            );
+          }
+
+          function TennisTournamentMovement({ tournament, tour, players }) {
+            const movement = tennisMovementRows(players, tournament);
+            if (!movement.risers.length && !movement.fallers.length) return null;
+            const hasPreviousScores = [...movement.risers, ...movement.fallers].some(player => player.hasPreviousScore);
+            return (
+              <NewsletterSection
+                kicker={`${tour} · Movimiento post-final`}
+                title={`${tournament.name} — quién sube y quién baja`}
+                sub={hasPreviousScores
+                  ? "Cambio de score Hermes tras la final. Bajadas filtradas a jugadores que venían del top 32."
+                  : "Impacto de score del torneo hasta que exista snapshot previo de Nivel. Bajadas filtradas a jugadores que venían del top 32."}
+              >
+                <div style={{ display: "flex", gap: 18, flexWrap: "wrap" }}>
+                  <TennisMovementCard title="Más suben" rows={movement.risers} tone="up" tour={tour} />
+                  <TennisMovementCard title="Más bajan · top 32 previo" rows={movement.fallers} tone="down" tour={tour} />
+                </div>
+              </NewsletterSection>
+            );
+          }
+
+          const atpFinalTournaments = tennisFinalTournaments(atpRecent);
+          const wtaFinalTournaments = tennisFinalTournaments(wtaRecent);
+          const atpTodayOpen = tennisWithoutFinishedTournaments(atpToday, atpFinalTournaments);
+          const wtaTodayOpen = tennisWithoutFinishedTournaments(wtaToday, wtaFinalTournaments);
+
           return (
             <>
               <header className="newsletter-hero" style={{ marginTop: 48 }}>
@@ -1429,9 +1567,25 @@ function NewsletterApp() {
               </header>
 
               <RecentResults data={atpRecent} tour="ATP" />
-              <RecentResults data={atpToday} tour="ATP" mode="schedule" />
+              <RecentResults data={atpTodayOpen} tour="ATP" mode="schedule" />
               <RecentResults data={wtaRecent} tour="WTA" />
-              <RecentResults data={wtaToday} tour="WTA" mode="schedule" />
+              <RecentResults data={wtaTodayOpen} tour="WTA" mode="schedule" />
+              {atpFinalTournaments.map(tournament => (
+                <TennisTournamentMovement
+                  key={`atp-movement-${tournament.name}`}
+                  tournament={tournament}
+                  tour="ATP"
+                  players={tennisATPFull}
+                />
+              ))}
+              {wtaFinalTournaments.map(tournament => (
+                <TennisTournamentMovement
+                  key={`wta-movement-${tournament.name}`}
+                  tournament={tournament}
+                  tour="WTA"
+                  players={tennisWTAFull}
+                />
+              ))}
 
               <NewsletterSection
                 kicker="ATP Singles"
@@ -2003,8 +2157,7 @@ function NewsletterApp() {
                       logo={d.logo}
                     />
                     );
-                  }}
-                  ))}
+                  })}
                 </div>
               </NewsletterSection>
 
@@ -2431,12 +2584,38 @@ function NewsletterApp() {
         {/* ── AFL ──────────────────────────────────────────── */}
         {window.AFL_DATA && (() => {
           const AFL     = window.AFL_DATA;
-          const ladder  = (AFL.LADDER     || []).slice(0, 8);   // top 8 = finals
+          const ladder  = (AFL.LADDER     || []);
           const performers = (AFL.PERFORMERS || []).slice(0, 10);
           const results = (AFL.LAST_ROUND || []);
           const legends = (AFL.LEGENDS    || []).slice(0, 10);
           const currentContenders = (AFL.CURRENT_CONTENDERS || []).slice(0, 10);
           const aflLegendThreshold = AFL.LEGEND_THRESHOLD || legends[9]?.legendScore || 0;
+          const aflLogoCodeByTeam = {
+            "Adelaide": "adel",
+            "Brisbane Lions": "bl",
+            "Carlton": "carl",
+            "Collingwood": "coll",
+            "Essendon": "ess",
+            "Fremantle": "fre",
+            "Geelong": "geel",
+            "Gold Coast": "gc",
+            "Greater Western Sydney": "gws",
+            "Hawthorn": "haw",
+            "Melbourne": "mel",
+            "North Melbourne": "nm",
+            "Port Adelaide": "pa",
+            "Richmond": "rich",
+            "St Kilda": "stk",
+            "Sydney": "syd",
+            "South Melbourne": "syd",
+            "West Coast": "wce",
+            "Western Bulldogs": "wb",
+          };
+          const aflTeamLogo = team => {
+            const code = aflLogoCodeByTeam[team] || aflLogoCodeByTeam[String(team || "").trim()];
+            return code ? `https://a.espncdn.com/i/teamlogos/afl/500/${code}.png` : null;
+          };
+          const aflTeamByName = Object.fromEntries(ladder.map(t => [t.name, t]));
           return (
             <>
               <header className="newsletter-hero" style={{ marginTop: 48 }}>
@@ -2455,16 +2634,23 @@ function NewsletterApp() {
                 </div>
               </header>
 
-              {/* Ladder top 8 */}
+              {/* Full ladder */}
               <NewsletterSection
                 kicker="AFL Ladder"
-                title="Top 8 — Clasificación"
+                title="Clasificación completa"
                 sub={`Tras la ronda ${AFL.ROUND}. Los 8 primeros disputan las finals.`}
               >
-                <div className="newsletter-list">
+                <div className="afl-ladder">
+                  <div className="afl-ladder__head">
+                    <span>#</span>
+                    <span>Equipo</span>
+                    <span>W</span>
+                    <span>L</span>
+                    <span>D</span>
+                    <span>Pts</span>
+                    <span>%</span>
+                  </div>
                   {ladder.map((t, i) => {
-                    const maxPts = ladder[0].pts || 1;
-                    const score  = Math.round(t.pts / maxPts * 100);
                     const pr = t.prevRank;
                     const diff2 = typeof pr === "number" ? pr - (i+1) : null;
                     const chipStyle = (bg) => ({ display:"inline-flex", alignItems:"center", justifyContent:"center",
@@ -2472,32 +2658,26 @@ function NewsletterApp() {
                       background: bg, borderRadius: 3, padding: "2px 4px", minWidth: 22 });
                     const changeEl = diff2 != null && diff2 !== 0
                       ? <span style={chipStyle(diff2 > 0 ? "#2a7a2a" : "#a02020")}>{diff2 > 0 ? `↑${diff2}` : `↓${-diff2}`}</span>
-                      : pr === null ? <span style={{ ...chipStyle("#1a5fa8"), fontSize: 9, letterSpacing: "0.04em" }}>NEW</span>
                       : null;
+                    const isFinals = i < 8;
                     return (
-                      <div key={t.name} className="newsletter-row">
-                        <span className="newsletter-row__rank" style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 1 }}>
-                          <span>{String(i + 1).padStart(2, "0")}</span>
+                      <div key={t.name} className={`afl-ladder__row ${isFinals ? "afl-ladder__row--finals" : ""}`}>
+                        <span className="afl-ladder__rank">
+                          <span>{i + 1}</span>
                           {changeEl}
                         </span>
-                        <span className="newsletter-row__identity" style={{ flex: 1 }}>
-                          <span
-                            className="newsletter-row__dot"
-                            style={{ background: t.primary, border: `1px solid ${t.secondary}` }}
-                          />
-                          <span className="newsletter-row__copy">
-                            <span className="newsletter-row__name">{t.name}</span>
-                            <span className="newsletter-row__meta">
-                              {`W${t.wins} L${t.losses}${t.draws > 0 ? ` D${t.draws}` : ""} · ${t.percentage}%`}
-                            </span>
+                        <span className="afl-ladder__team">
+                          <TeamSwatch colors={{ primary: t.primary, secondary: t.secondary }} code={t.name} logo={aflTeamLogo(t.name)} />
+                          <span className="afl-ladder__name">
+                            {t.name}
+                            {isFinals && <span>Finals</span>}
                           </span>
                         </span>
-                        <span style={{ display: "flex", alignItems: "center", gap: 8 }}>
-                          <span className="newsletter-bar" style={{ "--pct": `${score}%`, "--clr": t.primary }} />
-                          <span style={{ fontSize: 12, fontVariantNumeric: "tabular-nums", minWidth: 28, textAlign: "right" }}>
-                            {t.pts} pts
-                          </span>
-                        </span>
+                        <span>{t.wins}</span>
+                        <span>{t.losses}</span>
+                        <span>{t.draws}</span>
+                        <span>{t.pts}</span>
+                        <span>{t.percentage.toFixed(1)}</span>
                       </div>
                     );
                   })}
@@ -2526,7 +2706,7 @@ function NewsletterApp() {
                         scoreBThreshold={aflLegendThreshold}
                         meta={`AFL · ${p.teamCode} · ${p.team}`}
                         note={`${p.stats.games} GM · ${p.stats.disposals} disp · ${p.stats.goals} goles · ${p.stats.clearances} clearances`}
-                        logo={p.logo}
+                        logo={aflTeamLogo(p.team)}
                       />
                     ))}
                   </div>
@@ -2552,7 +2732,7 @@ function NewsletterApp() {
                         threshold={aflLegendThreshold}
                         meta={`AFL · ${p.teamCode} · ${p.team}`}
                         note={p.gapToTop10 > 0 ? `A ${p.gapToTop10} del Top 10 histórico` : "Ya está en zona Top 10 histórico"}
-                        logo={p.logo}
+                        logo={aflTeamLogo(p.team)}
                       />
                     ))}
                   </div>
@@ -2566,24 +2746,29 @@ function NewsletterApp() {
                   title={`Resultados — Ronda ${AFL.ROUND}`}
                   sub="Resultados completos de la última ronda disputada."
                 >
-                  <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "0 32px" }}>
-                    {results.map((g, i) => (
-                      <div key={i} className="newsletter-row" style={{ padding: "5px 0", alignItems: "center" }}>
-                        <span style={{ flex: 1, fontSize: 12 }}>
-                          <span style={{
-                            fontWeight: g.winner === g.hteam ? 700 : 400,
-                            color: g.winner === g.hteam ? g.hprimary : "var(--ink-2)"
-                          }}>{g.hteam}</span>
-                          <span style={{ margin: "0 4px", color: "var(--ink-3)" }}>
-                            {g.hscore}–{g.ascore}
-                          </span>
-                          <span style={{
-                            fontWeight: g.winner === g.ateam ? 700 : 400,
-                            color: g.winner === g.ateam ? g.aprimary : "var(--ink-2)"
-                          }}>{g.ateam}</span>
+                  <div className="afl-results-grid">
+                    {results.map((g, i) => {
+                      const home = aflTeamByName[g.hteam] || { primary: g.hprimary, secondary: "#fff" };
+                      const away = aflTeamByName[g.ateam] || { primary: g.aprimary, secondary: "#fff" };
+                      return (
+                      <div key={i} className="afl-match">
+                        <span className={`afl-match__team ${g.winner === g.hteam ? "afl-match__team--winner" : ""}`}>
+                          <TeamSwatch colors={{ primary: home.primary, secondary: home.secondary }} code={g.hteam} logo={aflTeamLogo(g.hteam)} />
+                          <span>{g.hteam}</span>
                         </span>
+                        <span className="afl-match__score">
+                          <strong>{g.hscore}</strong>
+                          <span>–</span>
+                          <strong>{g.ascore}</strong>
+                        </span>
+                        <span className={`afl-match__team afl-match__team--away ${g.winner === g.ateam ? "afl-match__team--winner" : ""}`}>
+                          <span>{g.ateam}</span>
+                          <TeamSwatch colors={{ primary: away.primary, secondary: away.secondary }} code={g.ateam} logo={aflTeamLogo(g.ateam)} />
+                        </span>
+                        <span className="afl-match__date">{g.date}</span>
                       </div>
-                    ))}
+                      );
+                    })}
                   </div>
                 </NewsletterSection>
               )}
@@ -2607,7 +2792,7 @@ function NewsletterApp() {
                       threshold={legends[9]?.legendScore}
                       meta={`AFL · ${p.teamCode} · ${p.stats.birth}`}
                       note={`${p.stats.flags} premios · ${p.stats.brownlow} Brownlow · ${p.stats.all_aus} All-Aus`}
-                      logo={p.logo}
+                      logo={aflTeamLogo(p.teamCode)}
                       legendActive={p.active}
                     />
                   ))}
