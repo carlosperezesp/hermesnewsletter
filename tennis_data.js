@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-09 10:07 UTC
+// Auto-generated 2026-06-09 16:21 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-09 10:07 UTC",
+  "UPDATED": "2026-06-09 16:21 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -25,7 +25,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 1,
         "top10_wins": 65
       },
-      "prevListRank": 1
+      "prevListRank": 1,
+      "prevActiveScore": 100.0
     },
     {
       "id": "207989",
@@ -50,7 +51,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 55
       },
-      "prevListRank": 2
+      "prevListRank": 2,
+      "prevActiveScore": 97.1
     },
     {
       "id": "100644",
@@ -75,7 +77,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 58
       },
-      "prevListRank": 3
+      "prevListRank": 3,
+      "prevActiveScore": 87.4
     },
     {
       "id": "104925",
@@ -100,7 +103,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 228
       },
-      "prevListRank": 4
+      "prevListRank": 4,
+      "prevActiveScore": 87.4
     },
     {
       "id": "209950",
@@ -125,7 +129,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 9
       },
-      "prevListRank": 5
+      "prevListRank": 5,
+      "prevActiveScore": 82.7
     },
     {
       "id": "134770",
@@ -150,7 +155,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 21
       },
-      "prevListRank": 6
+      "prevListRank": 6,
+      "prevActiveScore": 81.1
     },
     {
       "id": "207518",
@@ -175,7 +181,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 15
       },
-      "prevListRank": 7
+      "prevListRank": 7,
+      "prevActiveScore": 79.3
     },
     {
       "id": "126205",
@@ -200,7 +207,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 15
       },
-      "prevListRank": 8
+      "prevListRank": 8,
+      "prevActiveScore": 79.1
     },
     {
       "id": "106421",
@@ -225,7 +233,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 52
       },
-      "prevListRank": 9
+      "prevListRank": 9,
+      "prevActiveScore": 78.7
     },
     {
       "id": "212588",
@@ -250,7 +259,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 10
+      "prevListRank": 10,
+      "prevActiveScore": 78.0
     },
     {
       "id": "200000",
@@ -275,7 +285,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 25
       },
-      "prevListRank": 11
+      "prevListRank": 11,
+      "prevActiveScore": 77.7
     },
     {
       "id": "200282",
@@ -300,7 +311,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 22
       },
-      "prevListRank": 12
+      "prevListRank": 12,
+      "prevActiveScore": 77.0
     },
     {
       "id": "210097",
@@ -325,7 +337,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 8
       },
-      "prevListRank": 13
+      "prevListRank": 13,
+      "prevActiveScore": 76.5
     },
     {
       "id": "208103",
@@ -350,7 +363,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 10
       },
-      "prevListRank": 14
+      "prevListRank": 14,
+      "prevActiveScore": 76.4
     },
     {
       "id": "210150",
@@ -375,7 +389,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 10
       },
-      "prevListRank": 15
+      "prevListRank": 15,
+      "prevActiveScore": 76.1
     },
     {
       "id": "122330",
@@ -400,7 +415,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 16
+      "prevListRank": 16,
+      "prevActiveScore": 76.0
     },
     {
       "id": "126203",
@@ -425,7 +441,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 31
       },
-      "prevListRank": 17
+      "prevListRank": 17,
+      "prevActiveScore": 75.7
     },
     {
       "id": "207925",
@@ -450,7 +467,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 18
+      "prevListRank": 18,
+      "prevActiveScore": 75.4
     },
     {
       "id": "126094",
@@ -475,7 +493,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 26
       },
-      "prevListRank": 19
+      "prevListRank": 19,
+      "prevActiveScore": 75.3
     },
     {
       "id": "200473",
@@ -500,7 +519,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 20
+      "prevListRank": 20,
+      "prevActiveScore": 74.8
     },
     {
       "id": "210530",
@@ -525,7 +545,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 21
+      "prevListRank": 21,
+      "prevActiveScore": 74.7
     },
     {
       "id": "211663",
@@ -550,7 +571,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 22
+      "prevListRank": 22,
+      "prevActiveScore": 73.7
     },
     {
       "id": "126207",
@@ -575,7 +597,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 23
+      "prevListRank": 23,
+      "prevActiveScore": 73.7
     },
     {
       "id": "202103",
@@ -600,7 +623,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 16
       },
-      "prevListRank": 24
+      "prevListRank": 24,
+      "prevActiveScore": 73.3
     },
     {
       "id": "200221",
@@ -625,7 +649,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 12
       },
-      "prevListRank": 25
+      "prevListRank": 25,
+      "prevActiveScore": 72.8
     },
     {
       "id": "210696",
@@ -650,7 +675,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 26
+      "prevListRank": 26,
+      "prevActiveScore": 72.1
     },
     {
       "id": "207733",
@@ -675,7 +701,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 9
       },
-      "prevListRank": 27
+      "prevListRank": 27,
+      "prevActiveScore": 71.5
     },
     {
       "id": "208029",
@@ -700,7 +727,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 20
       },
-      "prevListRank": 28
+      "prevListRank": 28,
+      "prevActiveScore": 71.2
     },
     {
       "id": "111575",
@@ -725,7 +753,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 16
       },
-      "prevListRank": 29
+      "prevListRank": 29,
+      "prevActiveScore": 71.0
     },
     {
       "id": "200624",
@@ -750,7 +779,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 10
       },
-      "prevListRank": 30
+      "prevListRank": 30,
+      "prevActiveScore": 68.8
     },
     {
       "id": "144684",
@@ -775,7 +805,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 31
+      "prevListRank": 31,
+      "prevActiveScore": 68.6
     },
     {
       "id": "209860",
@@ -800,7 +831,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 32
+      "prevListRank": 32,
+      "prevActiveScore": 68.3
     },
     {
       "id": "207830",
@@ -825,7 +857,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 33
+      "prevListRank": 33,
+      "prevActiveScore": 68.0
     },
     {
       "id": "206909",
@@ -850,7 +883,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 34
+      "prevListRank": 34,
+      "prevActiveScore": 67.5
     },
     {
       "id": "111815",
@@ -875,7 +909,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 35
+      "prevListRank": 35,
+      "prevActiveScore": 67.4
     },
     {
       "id": "126610",
@@ -900,7 +935,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 12
       },
-      "prevListRank": 36
+      "prevListRank": 36,
+      "prevActiveScore": 66.8
     },
     {
       "id": "210506",
@@ -925,7 +961,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 37
+      "prevListRank": 37,
+      "prevActiveScore": 66.6
     },
     {
       "id": "126214",
@@ -950,7 +987,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 38
+      "prevListRank": 38,
+      "prevActiveScore": 66.4
     },
     {
       "id": "209260",
@@ -975,7 +1013,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 39
+      "prevListRank": 39,
+      "prevActiveScore": 66.2
     },
     {
       "id": "200005",
@@ -1000,7 +1039,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 40
+      "prevListRank": 40,
+      "prevActiveScore": 66.2
     },
     {
       "id": "202058",
@@ -1025,7 +1065,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 41
+      "prevListRank": 41,
+      "prevActiveScore": 66.1
     },
     {
       "id": "126239",
@@ -1050,7 +1091,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 42
+      "prevListRank": 42,
+      "prevActiveScore": 66.0
     },
     {
       "id": "134868",
@@ -1075,7 +1117,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 43
+      "prevListRank": 43,
+      "prevActiveScore": 65.9
     },
     {
       "id": "208286",
@@ -1100,7 +1143,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 44
+      "prevListRank": 44,
+      "prevActiveScore": 65.3
     },
     {
       "id": "144869",
@@ -1125,7 +1169,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 45
+      "prevListRank": 45,
+      "prevActiveScore": 65.2
     },
     {
       "id": "208363",
@@ -1150,7 +1195,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 46
+      "prevListRank": 46,
+      "prevActiveScore": 65.0
     },
     {
       "id": "144719",
@@ -1175,7 +1221,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 47
+      "prevListRank": 47,
+      "prevActiveScore": 64.4
     },
     {
       "id": "209098",
@@ -1200,7 +1247,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 48
+      "prevListRank": 48,
+      "prevActiveScore": 63.5
     },
     {
       "id": "209920",
@@ -1225,7 +1273,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 49
+      "prevListRank": 49,
+      "prevActiveScore": 62.6
     },
     {
       "id": "144895",
@@ -1250,7 +1299,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 50
+      "prevListRank": 50,
+      "prevActiveScore": 62.4
     },
     {
       "id": "122298",
@@ -1275,7 +1325,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 51
+      "prevListRank": 51,
+      "prevActiveScore": 62.2
     },
     {
       "id": "105227",
@@ -1300,7 +1351,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 30
       },
-      "prevListRank": 52
+      "prevListRank": 52,
+      "prevActiveScore": 61.9
     },
     {
       "id": "105870",
@@ -1325,7 +1377,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 53
+      "prevListRank": 53,
+      "prevActiveScore": 61.8
     },
     {
       "id": "132686",
@@ -1350,7 +1403,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 54
+      "prevListRank": 54,
+      "prevActiveScore": 61.7
     },
     {
       "id": "210017",
@@ -1375,7 +1429,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 55
+      "prevListRank": 55,
+      "prevActiveScore": 61.6
     },
     {
       "id": "126774",
@@ -1400,7 +1455,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 37
       },
-      "prevListRank": 56
+      "prevListRank": 56,
+      "prevActiveScore": 61.5
     },
     {
       "id": "200267",
@@ -1425,7 +1481,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 57
+      "prevListRank": 57,
+      "prevActiveScore": 61.3
     },
     {
       "id": "209226",
@@ -1450,7 +1507,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 58
+      "prevListRank": 58,
+      "prevActiveScore": 61.2
     },
     {
       "id": "207678",
@@ -1475,7 +1533,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 59
+      "prevListRank": 59,
+      "prevActiveScore": 61.1
     },
     {
       "id": "209113",
@@ -1500,7 +1559,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 60
+      "prevListRank": 60,
+      "prevActiveScore": 60.5
     },
     {
       "id": "111581",
@@ -1525,7 +1585,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 61
+      "prevListRank": 61,
+      "prevActiveScore": 60.2
     },
     {
       "id": "133430",
@@ -1550,7 +1611,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 62
+      "prevListRank": 62,
+      "prevActiveScore": 60.1
     },
     {
       "id": "200240",
@@ -1575,7 +1637,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 63
+      "prevListRank": 63,
+      "prevActiveScore": 60.1
     },
     {
       "id": "128034",
@@ -1600,7 +1663,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 21
       },
-      "prevListRank": 64
+      "prevListRank": 64,
+      "prevActiveScore": 60.0
     },
     {
       "id": "126535",
@@ -1625,7 +1689,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 65
+      "prevListRank": 65,
+      "prevActiveScore": 59.9
     },
     {
       "id": "209070",
@@ -1650,7 +1715,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 66
+      "prevListRank": 66,
+      "prevActiveScore": 59.8
     },
     {
       "id": "206681",
@@ -1675,7 +1741,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 67
+      "prevListRank": 67,
+      "prevActiveScore": 59.5
     },
     {
       "id": "202104",
@@ -1700,7 +1767,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 68
+      "prevListRank": 68,
+      "prevActiveScore": 59.3
     },
     {
       "id": "209414",
@@ -1725,7 +1793,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 69
+      "prevListRank": 69,
+      "prevActiveScore": 59.3
     },
     {
       "id": "209857",
@@ -1750,7 +1819,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 70
+      "prevListRank": 70,
+      "prevActiveScore": 59.3
     },
     {
       "id": "212021",
@@ -1775,7 +1845,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 71
+      "prevListRank": 71,
+      "prevActiveScore": 59.2
     },
     {
       "id": "209279",
@@ -1800,7 +1871,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 72
+      "prevListRank": 72,
+      "prevActiveScore": 59.0
     },
     {
       "id": "208118",
@@ -1825,7 +1897,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 73
+      "prevListRank": 73,
+      "prevActiveScore": 59.0
     },
     {
       "id": "202385",
@@ -1850,7 +1923,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 74
+      "prevListRank": 74,
+      "prevActiveScore": 58.7
     },
     {
       "id": "208882",
@@ -1875,7 +1949,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 75
+      "prevListRank": 75,
+      "prevActiveScore": 58.6
     },
     {
       "id": "200116",
@@ -1900,7 +1975,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 76
+      "prevListRank": 76,
+      "prevActiveScore": 58.3
     },
     {
       "id": "105916",
@@ -1925,7 +2001,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 77
+      "prevListRank": 77,
+      "prevActiveScore": 58.2
     },
     {
       "id": "209976",
@@ -1950,7 +2027,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 78
+      "prevListRank": 78,
+      "prevActiveScore": 58.1
     },
     {
       "id": "200175",
@@ -1975,7 +2053,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 79
+      "prevListRank": 79,
+      "prevActiveScore": 57.8
     },
     {
       "id": "126504",
@@ -2000,7 +2079,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 80
+      "prevListRank": 80,
+      "prevActiveScore": 57.5
     },
     {
       "id": "208260",
@@ -2025,7 +2105,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 81
+      "prevListRank": 81,
+      "prevActiveScore": 57.4
     },
     {
       "id": "200059",
@@ -2050,7 +2131,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 82
+      "prevListRank": 82,
+      "prevActiveScore": 57.4
     },
     {
       "id": "111794",
@@ -2075,7 +2157,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 83
+      "prevListRank": 83,
+      "prevActiveScore": 56.9
     },
     {
       "id": "200416",
@@ -2100,7 +2183,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 84
+      "prevListRank": 84,
+      "prevActiveScore": 56.9
     },
     {
       "id": "132283",
@@ -2125,7 +2209,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 85
+      "prevListRank": 85,
+      "prevActiveScore": 56.6
     },
     {
       "id": "209409",
@@ -2150,7 +2235,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 86
+      "prevListRank": 86,
+      "prevActiveScore": 56.6
     },
     {
       "id": "208169",
@@ -2175,7 +2261,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 87
+      "prevListRank": 87,
+      "prevActiveScore": 56.6
     },
     {
       "id": "111442",
@@ -2200,7 +2287,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 88
+      "prevListRank": 88,
+      "prevActiveScore": 56.6
     },
     {
       "id": "105807",
@@ -2225,7 +2313,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 89
+      "prevListRank": 89,
+      "prevActiveScore": 55.8
     },
     {
       "id": "144750",
@@ -2250,7 +2339,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 90
+      "prevListRank": 90,
+      "prevActiveScore": 55.7
     },
     {
       "id": "105777",
@@ -2275,7 +2365,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 43
       },
-      "prevListRank": 91
+      "prevListRank": 91,
+      "prevActiveScore": 55.6
     },
     {
       "id": "209957",
@@ -2300,7 +2391,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 92
+      "prevListRank": 92,
+      "prevActiveScore": 55.4
     },
     {
       "id": "207411",
@@ -2325,7 +2417,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 93
+      "prevListRank": 93,
+      "prevActiveScore": 55.3
     },
     {
       "id": "126952",
@@ -2350,7 +2443,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 94
+      "prevListRank": 94,
+      "prevActiveScore": 55.3
     },
     {
       "id": "200615",
@@ -2375,7 +2469,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 95
+      "prevListRank": 95,
+      "prevActiveScore": 55.2
     },
     {
       "id": "208010",
@@ -2400,7 +2495,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 96
+      "prevListRank": 96,
+      "prevActiveScore": 55.2
     },
     {
       "id": "210338",
@@ -2425,7 +2521,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 97
+      "prevListRank": 97,
+      "prevActiveScore": 55.0
     },
     {
       "id": "210012",
@@ -2450,7 +2547,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 98
+      "prevListRank": 98,
+      "prevActiveScore": 54.8
     },
     {
       "id": "124187",
@@ -2475,7 +2573,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 9
       },
-      "prevListRank": 99
+      "prevListRank": 99,
+      "prevActiveScore": 54.7
     },
     {
       "id": "105173",
@@ -2500,7 +2599,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 100
+      "prevListRank": 100,
+      "prevActiveScore": 54.6
     },
     {
       "id": "209259",
@@ -2525,7 +2625,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 101
+      "prevListRank": 101,
+      "prevActiveScore": 54.6
     },
     {
       "id": "106218",
@@ -2550,7 +2651,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 102
+      "prevListRank": 102,
+      "prevActiveScore": 54.4
     },
     {
       "id": "206499",
@@ -2575,7 +2677,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 103
+      "prevListRank": 103,
+      "prevActiveScore": 54.3
     },
     {
       "id": "111460",
@@ -2600,7 +2703,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 104
+      "prevListRank": 104,
+      "prevActiveScore": 54.3
     },
     {
       "id": "209147",
@@ -2625,7 +2729,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 105
+      "prevListRank": 105,
+      "prevActiveScore": 53.9
     },
     {
       "id": "106065",
@@ -2650,7 +2755,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 106
+      "prevListRank": 106,
+      "prevActiveScore": 53.9
     },
     {
       "id": "210262",
@@ -2675,7 +2781,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 107
+      "prevListRank": 107,
+      "prevActiveScore": 53.7
     },
     {
       "id": "102093",
@@ -2700,7 +2807,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 108
+      "prevListRank": 108,
+      "prevActiveScore": 53.7
     },
     {
       "id": "206750",
@@ -2725,7 +2833,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 109
+      "prevListRank": 109,
+      "prevActiveScore": 53.7
     },
     {
       "id": "208293",
@@ -2750,7 +2859,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 110
+      "prevListRank": 110,
+      "prevActiveScore": 53.7
     },
     {
       "id": "144645",
@@ -2775,7 +2885,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 111
+      "prevListRank": 111,
+      "prevActiveScore": 53.6
     },
     {
       "id": "105526",
@@ -2800,7 +2911,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 112
+      "prevListRank": 112,
+      "prevActiveScore": 53.5
     },
     {
       "id": "126127",
@@ -2825,7 +2937,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 113
+      "prevListRank": 113,
+      "prevActiveScore": 53.5
     },
     {
       "id": "105882",
@@ -2850,7 +2963,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 114
+      "prevListRank": 114,
+      "prevActiveScore": 53.5
     },
     {
       "id": "105477",
@@ -2875,7 +2989,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 115
+      "prevListRank": 115,
+      "prevActiveScore": 53.4
     },
     {
       "id": "210136",
@@ -2900,7 +3015,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 116
+      "prevListRank": 116,
+      "prevActiveScore": 53.4
     },
     {
       "id": "210053",
@@ -2925,7 +3041,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 117
+      "prevListRank": 117,
+      "prevActiveScore": 53.4
     },
     {
       "id": "208233",
@@ -2950,7 +3067,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 118
+      "prevListRank": 118,
+      "prevActiveScore": 53.1
     },
     {
       "id": "207494",
@@ -2975,7 +3093,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 119
+      "prevListRank": 119,
+      "prevActiveScore": 53.0
     },
     {
       "id": "200008",
@@ -3000,7 +3119,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 120
+      "prevListRank": 120,
+      "prevActiveScore": 53.0
     },
     {
       "id": "106071",
@@ -3025,7 +3145,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 8
       },
-      "prevListRank": 121
+      "prevListRank": 121,
+      "prevActiveScore": 52.6
     },
     {
       "id": "207686",
@@ -3050,7 +3171,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 122
+      "prevListRank": 122,
+      "prevActiveScore": 52.5
     },
     {
       "id": "209209",
@@ -3075,7 +3197,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 123
+      "prevListRank": 123,
+      "prevActiveScore": 52.3
     },
     {
       "id": "202127",
@@ -3100,7 +3223,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 124
+      "prevListRank": 124,
+      "prevActiveScore": 52.3
     },
     {
       "id": "127157",
@@ -3125,7 +3249,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 125
+      "prevListRank": 125,
+      "prevActiveScore": 52.1
     },
     {
       "id": "124186",
@@ -3150,7 +3275,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 126
+      "prevListRank": 126,
+      "prevActiveScore": 51.8
     },
     {
       "id": "210116",
@@ -3175,7 +3301,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 127
+      "prevListRank": 127,
+      "prevActiveScore": 51.7
     },
     {
       "id": "207681",
@@ -3200,7 +3327,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 128
+      "prevListRank": 128,
+      "prevActiveScore": 51.5
     },
     {
       "id": "105138",
@@ -3225,7 +3353,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 22
       },
-      "prevListRank": 129
+      "prevListRank": 129,
+      "prevActiveScore": 51.4
     },
     {
       "id": "207182",
@@ -3250,7 +3379,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 130
+      "prevListRank": 130,
+      "prevActiveScore": 51.2
     },
     {
       "id": "208013",
@@ -3275,7 +3405,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 131
+      "prevListRank": 131,
+      "prevActiveScore": 51.2
     },
     {
       "id": "207729",
@@ -3300,7 +3431,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 132
+      "prevListRank": 132,
+      "prevActiveScore": 51.2
     },
     {
       "id": "208353",
@@ -3325,7 +3457,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 133
+      "prevListRank": 133,
+      "prevActiveScore": 51.0
     },
     {
       "id": "106109",
@@ -3350,7 +3483,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 134
+      "prevListRank": 134,
+      "prevActiveScore": 50.8
     },
     {
       "id": "208361",
@@ -3375,7 +3509,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 135
+      "prevListRank": 135,
+      "prevActiveScore": 50.8
     },
     {
       "id": "210319",
@@ -3400,7 +3535,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 136
+      "prevListRank": 136,
+      "prevActiveScore": 50.6
     },
     {
       "id": "105932",
@@ -3425,7 +3561,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 9
       },
-      "prevListRank": 137
+      "prevListRank": 137,
+      "prevActiveScore": 50.6
     },
     {
       "id": "210460",
@@ -3450,7 +3587,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 138
+      "prevListRank": 138,
+      "prevActiveScore": 50.6
     },
     {
       "id": "208852",
@@ -3475,7 +3613,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 139
+      "prevListRank": 139,
+      "prevActiveScore": 50.6
     },
     {
       "id": "106415",
@@ -3500,7 +3639,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 140
+      "prevListRank": 140,
+      "prevActiveScore": 50.4
     },
     {
       "id": "149282",
@@ -3525,7 +3665,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 141
+      "prevListRank": 141,
+      "prevActiveScore": 49.9
     },
     {
       "id": "106331",
@@ -3550,7 +3691,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 142
+      "prevListRank": 142,
+      "prevActiveScore": 49.7
     },
     {
       "id": "208659",
@@ -3575,7 +3717,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 143
+      "prevListRank": 143,
+      "prevActiveScore": 49.6
     },
     {
       "id": "111797",
@@ -3600,7 +3743,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 144
+      "prevListRank": 144,
+      "prevActiveScore": 49.6
     },
     {
       "id": "106148",
@@ -3625,7 +3769,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 145
+      "prevListRank": 145,
+      "prevActiveScore": 49.4
     },
     {
       "id": "200443",
@@ -3650,7 +3795,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 146
+      "prevListRank": 146,
+      "prevActiveScore": 49.2
     },
     {
       "id": "207680",
@@ -3675,7 +3821,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 147
+      "prevListRank": 147,
+      "prevActiveScore": 49.2
     },
     {
       "id": "111456",
@@ -3700,7 +3847,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 5
       },
-      "prevListRank": 148
+      "prevListRank": 148,
+      "prevActiveScore": 49.1
     },
     {
       "id": "126128",
@@ -3725,7 +3873,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 149
+      "prevListRank": 149,
+      "prevActiveScore": 48.8
     },
     {
       "id": "127760",
@@ -3750,7 +3899,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 150
+      "prevListRank": 150,
+      "prevActiveScore": 48.3
     },
     {
       "id": "111200",
@@ -3775,7 +3925,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 151
+      "prevListRank": 151,
+      "prevActiveScore": 48.1
     },
     {
       "id": "106000",
@@ -3800,7 +3951,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 152
+      "prevListRank": 152,
+      "prevActiveScore": 48.0
     },
     {
       "id": "208014",
@@ -3825,7 +3977,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 153
+      "prevListRank": 153,
+      "prevActiveScore": 48.0
     },
     {
       "id": "207985",
@@ -3850,7 +4003,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 154
+      "prevListRank": 154,
+      "prevActiveScore": 47.9
     },
     {
       "id": "208021",
@@ -3875,7 +4029,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 155
+      "prevListRank": 155,
+      "prevActiveScore": 47.9
     },
     {
       "id": "127339",
@@ -3900,7 +4055,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 156
+      "prevListRank": 156,
+      "prevActiveScore": 47.9
     },
     {
       "id": "200514",
@@ -3925,7 +4081,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 157
+      "prevListRank": 157,
+      "prevActiveScore": 47.8
     },
     {
       "id": "208134",
@@ -3950,7 +4107,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 158
+      "prevListRank": 158,
+      "prevActiveScore": 47.8
     },
     {
       "id": "105902",
@@ -3975,7 +4133,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 159
+      "prevListRank": 159,
+      "prevActiveScore": 47.7
     },
     {
       "id": "210389",
@@ -4000,7 +4159,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 160
+      "prevListRank": 160,
+      "prevActiveScore": 47.6
     },
     {
       "id": "206904",
@@ -4025,7 +4185,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 161
+      "prevListRank": 161,
+      "prevActiveScore": 47.6
     },
     {
       "id": "211533",
@@ -4050,7 +4211,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 162
+      "prevListRank": 162,
+      "prevActiveScore": 47.6
     },
     {
       "id": "200329",
@@ -4075,7 +4237,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 163
+      "prevListRank": 163,
+      "prevActiveScore": 47.6
     },
     {
       "id": "212063",
@@ -4100,7 +4263,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 164
+      "prevListRank": 164,
+      "prevActiveScore": 47.6
     },
     {
       "id": "208210",
@@ -4125,7 +4289,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 165
+      "prevListRank": 165,
+      "prevActiveScore": 47.5
     },
     {
       "id": "210178",
@@ -4150,7 +4315,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 166
+      "prevListRank": 166,
+      "prevActiveScore": 47.4
     },
     {
       "id": "106426",
@@ -4175,7 +4341,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 167
+      "prevListRank": 167,
+      "prevActiveScore": 47.3
     },
     {
       "id": "209903",
@@ -4200,7 +4367,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 168
+      "prevListRank": 168,
+      "prevActiveScore": 47.3
     },
     {
       "id": "212082",
@@ -4225,7 +4393,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 169
+      "prevListRank": 169,
+      "prevActiveScore": 47.3
     },
     {
       "id": "209875",
@@ -4250,7 +4419,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 170
+      "prevListRank": 170,
+      "prevActiveScore": 47.2
     },
     {
       "id": "206889",
@@ -4275,7 +4445,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 171
+      "prevListRank": 171,
+      "prevActiveScore": 47.2
     },
     {
       "id": "121411",
@@ -4300,7 +4471,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 172
+      "prevListRank": 172,
+      "prevActiveScore": 46.9
     },
     {
       "id": "207608",
@@ -4325,7 +4497,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 173
+      "prevListRank": 173,
+      "prevActiveScore": 46.9
     },
     {
       "id": "200436",
@@ -4350,7 +4523,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 174
+      "prevListRank": 174,
+      "prevActiveScore": 46.9
     },
     {
       "id": "200711",
@@ -4375,7 +4549,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 175
+      "prevListRank": 175,
+      "prevActiveScore": 46.8
     },
     {
       "id": "208119",
@@ -4400,7 +4575,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 176
+      "prevListRank": 176,
+      "prevActiveScore": 46.7
     },
     {
       "id": "200647",
@@ -4425,7 +4601,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 177
+      "prevListRank": 177,
+      "prevActiveScore": 46.5
     },
     {
       "id": "202261",
@@ -4450,7 +4627,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 178
+      "prevListRank": 178,
+      "prevActiveScore": 46.3
     },
     {
       "id": "123828",
@@ -4475,7 +4653,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 179
+      "prevListRank": 179,
+      "prevActiveScore": 46.2
     },
     {
       "id": "208316",
@@ -4500,7 +4679,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 180
+      "prevListRank": 180,
+      "prevActiveScore": 45.9
     },
     {
       "id": "126846",
@@ -4525,7 +4705,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 181
+      "prevListRank": 181,
+      "prevActiveScore": 45.7
     },
     {
       "id": "105583",
@@ -4550,7 +4731,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 10
       },
-      "prevListRank": 182
+      "prevListRank": 182,
+      "prevActiveScore": 45.7
     },
     {
       "id": "208859",
@@ -4575,7 +4757,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 183
+      "prevListRank": 183,
+      "prevActiveScore": 45.3
     },
     {
       "id": "200259",
@@ -4600,7 +4783,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 184
+      "prevListRank": 184,
+      "prevActiveScore": 45.3
     },
     {
       "id": "209262",
@@ -4625,7 +4809,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 185
+      "prevListRank": 185,
+      "prevActiveScore": 45.0
     },
     {
       "id": "209284",
@@ -4650,7 +4835,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 186
+      "prevListRank": 186,
+      "prevActiveScore": 44.9
     },
     {
       "id": "126129",
@@ -4675,7 +4861,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 187
+      "prevListRank": 187,
+      "prevActiveScore": 44.7
     },
     {
       "id": "104527",
@@ -4700,7 +4887,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 52
       },
-      "prevListRank": 188
+      "prevListRank": 188,
+      "prevActiveScore": 44.5
     },
     {
       "id": "124116",
@@ -4725,7 +4913,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 189
+      "prevListRank": 189,
+      "prevActiveScore": 44.1
     },
     {
       "id": "206748",
@@ -4750,7 +4939,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 190
+      "prevListRank": 190,
+      "prevActiveScore": 44.0
     },
     {
       "id": "124079",
@@ -4775,7 +4965,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 191
+      "prevListRank": 191,
+      "prevActiveScore": 43.2
     },
     {
       "id": "207352",
@@ -4800,7 +4991,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 192
+      "prevListRank": 192,
+      "prevActiveScore": 43.0
     },
     {
       "id": "200384",
@@ -4825,7 +5017,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 193
+      "prevListRank": 193,
+      "prevActiveScore": 42.6
     },
     {
       "id": "106198",
@@ -4850,7 +5043,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 194
+      "prevListRank": 194,
+      "prevActiveScore": 42.5
     },
     {
       "id": "210748",
@@ -4875,7 +5069,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 195
+      "prevListRank": 195,
+      "prevActiveScore": 42.2
     },
     {
       "id": "208278",
@@ -4900,7 +5095,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 196
+      "prevListRank": 196,
+      "prevActiveScore": 41.4
     },
     {
       "id": "212256",
@@ -4925,7 +5121,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 197
+      "prevListRank": 197,
+      "prevActiveScore": 40.8
     },
     {
       "id": "200516",
@@ -4950,7 +5147,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 198
+      "prevListRank": 198,
+      "prevActiveScore": 40.6
     },
     {
       "id": "210536",
@@ -4975,7 +5173,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 199
+      "prevListRank": 199,
+      "prevActiveScore": 38.9
     },
     {
       "id": "144642",
@@ -5000,7 +5199,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 200
+      "prevListRank": 200,
+      "prevActiveScore": 35.0
     }
   ],
   "WTA": [
@@ -5027,7 +5227,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 1,
         "top10_wins": 60
       },
-      "prevListRank": 1
+      "prevListRank": 1,
+      "prevActiveScore": 100.0
     },
     {
       "id": "214981",
@@ -5052,7 +5253,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 37
       },
-      "prevListRank": 2
+      "prevListRank": 2,
+      "prevActiveScore": 93.3
     },
     {
       "id": "259799",
@@ -5077,7 +5279,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 3
+      "prevListRank": 3,
+      "prevActiveScore": 91.9
     },
     {
       "id": "216347",
@@ -5102,7 +5305,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 53
       },
-      "prevListRank": 4
+      "prevListRank": 4,
+      "prevActiveScore": 91.4
     },
     {
       "id": "221103",
@@ -5127,7 +5331,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 35
       },
-      "prevListRank": 5
+      "prevListRank": 5,
+      "prevActiveScore": 91.1
     },
     {
       "id": "202494",
@@ -5152,7 +5357,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 49
       },
-      "prevListRank": 6
+      "prevListRank": 6,
+      "prevActiveScore": 90.5
     },
     {
       "id": "216146",
@@ -5177,7 +5383,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 16
       },
-      "prevListRank": 7
+      "prevListRank": 7,
+      "prevActiveScore": 90.5
     },
     {
       "id": "202468",
@@ -5202,7 +5409,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 30
       },
-      "prevListRank": 8
+      "prevListRank": 8,
+      "prevActiveScore": 90.2
     },
     {
       "id": "216153",
@@ -5227,7 +5435,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 19
       },
-      "prevListRank": 9
+      "prevListRank": 9,
+      "prevActiveScore": 86.7
     },
     {
       "id": "201514",
@@ -5252,7 +5461,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 20
       },
-      "prevListRank": 10
+      "prevListRank": 10,
+      "prevActiveScore": 85.9
     },
     {
       "id": "214096",
@@ -5277,7 +5487,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 20
       },
-      "prevListRank": 11
+      "prevListRank": 11,
+      "prevActiveScore": 85.8
     },
     {
       "id": "239475",
@@ -5302,7 +5513,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 12
+      "prevListRank": 12,
+      "prevActiveScore": 85.3
     },
     {
       "id": "202505",
@@ -5327,7 +5539,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 38
       },
-      "prevListRank": 13
+      "prevListRank": 13,
+      "prevActiveScore": 84.9
     },
     {
       "id": "216081",
@@ -5352,7 +5565,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 14
+      "prevListRank": 14,
+      "prevActiveScore": 81.1
     },
     {
       "id": "201619",
@@ -5377,7 +5591,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 34
       },
-      "prevListRank": 15
+      "prevListRank": 15,
+      "prevActiveScore": 80.7
     },
     {
       "id": "211768",
@@ -5402,7 +5617,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 16
+      "prevListRank": 16,
+      "prevActiveScore": 80.2
     },
     {
       "id": "215713",
@@ -5427,7 +5643,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 9
       },
-      "prevListRank": 17
+      "prevListRank": 17,
+      "prevActiveScore": 80.2
     },
     {
       "id": "214954",
@@ -5452,7 +5669,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 16
       },
-      "prevListRank": 18
+      "prevListRank": 18,
+      "prevActiveScore": 80.2
     },
     {
       "id": "222328",
@@ -5477,7 +5695,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 12
       },
-      "prevListRank": 19
+      "prevListRank": 19,
+      "prevActiveScore": 78.6
     },
     {
       "id": "210722",
@@ -5502,7 +5721,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 20
+      "prevListRank": 20,
+      "prevActiveScore": 77.2
     },
     {
       "id": "214939",
@@ -5527,7 +5747,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 21
+      "prevListRank": 21,
+      "prevActiveScore": 77.0
     },
     {
       "id": "223670",
@@ -5552,7 +5773,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 22
+      "prevListRank": 22,
+      "prevActiveScore": 76.3
     },
     {
       "id": "260300",
@@ -5577,7 +5799,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 23
+      "prevListRank": 23,
+      "prevActiveScore": 76.3
     },
     {
       "id": "211148",
@@ -5602,7 +5825,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 10
       },
-      "prevListRank": 24
+      "prevListRank": 24,
+      "prevActiveScore": 74.7
     },
     {
       "id": "213631",
@@ -5627,7 +5851,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 25
+      "prevListRank": 25,
+      "prevActiveScore": 72.4
     },
     {
       "id": "215613",
@@ -5652,7 +5877,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 26
+      "prevListRank": 26,
+      "prevActiveScore": 72.2
     },
     {
       "id": "211533",
@@ -5677,7 +5903,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 26
       },
-      "prevListRank": 27
+      "prevListRank": 27,
+      "prevActiveScore": 71.4
     },
     {
       "id": "221024",
@@ -5702,7 +5929,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 28
+      "prevListRank": 28,
+      "prevActiveScore": 71.3
     },
     {
       "id": "206252",
@@ -5727,7 +5955,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 15
       },
-      "prevListRank": 29
+      "prevListRank": 29,
+      "prevActiveScore": 70.9
     },
     {
       "id": "201662",
@@ -5752,7 +5981,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 39
       },
-      "prevListRank": 30
+      "prevListRank": 30,
+      "prevActiveScore": 70.4
     },
     {
       "id": "206420",
@@ -5777,7 +6007,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 19
       },
-      "prevListRank": 31
+      "prevListRank": 31,
+      "prevActiveScore": 70.2
     },
     {
       "id": "220367",
@@ -5802,7 +6033,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 32
+      "prevListRank": 32,
+      "prevActiveScore": 69.6
     },
     {
       "id": "220520",
@@ -5827,7 +6059,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 33
+      "prevListRank": 33,
+      "prevActiveScore": 69.3
     },
     {
       "id": "211713",
@@ -5852,7 +6085,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 34
+      "prevListRank": 34,
+      "prevActiveScore": 69.1
     },
     {
       "id": "266671",
@@ -5877,7 +6111,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 35
+      "prevListRank": 35,
+      "prevActiveScore": 68.6
     },
     {
       "id": "223253",
@@ -5902,7 +6137,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 36
+      "prevListRank": 36,
+      "prevActiveScore": 68.4
     },
     {
       "id": "215983",
@@ -5927,7 +6163,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 37
+      "prevListRank": 37,
+      "prevActiveScore": 68.0
     },
     {
       "id": "220704",
@@ -5952,7 +6189,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 5
       },
-      "prevListRank": 38
+      "prevListRank": 38,
+      "prevActiveScore": 67.8
     },
     {
       "id": "221012",
@@ -5977,7 +6215,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 39
+      "prevListRank": 39,
+      "prevActiveScore": 67.6
     },
     {
       "id": "220548",
@@ -6002,7 +6241,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 40
+      "prevListRank": 40,
+      "prevActiveScore": 67.1
     },
     {
       "id": "220714",
@@ -6027,7 +6267,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 41
+      "prevListRank": 41,
+      "prevActiveScore": 66.4
     },
     {
       "id": "206289",
@@ -6052,7 +6293,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 30
       },
-      "prevListRank": 42
+      "prevListRank": 42,
+      "prevActiveScore": 66.0
     },
     {
       "id": "215785",
@@ -6077,7 +6319,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 43
+      "prevListRank": 43,
+      "prevActiveScore": 65.8
     },
     {
       "id": "214643",
@@ -6102,7 +6345,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 10
       },
-      "prevListRank": 44
+      "prevListRank": 44,
+      "prevActiveScore": 65.7
     },
     {
       "id": "221054",
@@ -6127,7 +6371,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 45
+      "prevListRank": 45,
+      "prevActiveScore": 65.7
     },
     {
       "id": "201696",
@@ -6152,7 +6397,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 46
+      "prevListRank": 46,
+      "prevActiveScore": 65.7
     },
     {
       "id": "220348",
@@ -6177,7 +6423,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 47
+      "prevListRank": 47,
+      "prevActiveScore": 65.7
     },
     {
       "id": "211701",
@@ -6202,7 +6449,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 48
+      "prevListRank": 48,
+      "prevActiveScore": 65.1
     },
     {
       "id": "210622",
@@ -6227,7 +6475,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 49
+      "prevListRank": 49,
+      "prevActiveScore": 65.0
     },
     {
       "id": "223194",
@@ -6252,7 +6501,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 50
+      "prevListRank": 50,
+      "prevActiveScore": 64.8
     },
     {
       "id": "220716",
@@ -6277,7 +6527,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 51
+      "prevListRank": 51,
+      "prevActiveScore": 64.7
     },
     {
       "id": "222661",
@@ -6302,7 +6553,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 52
+      "prevListRank": 52,
+      "prevActiveScore": 64.6
     },
     {
       "id": "202663",
@@ -6327,7 +6579,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 8
       },
-      "prevListRank": 53
+      "prevListRank": 53,
+      "prevActiveScore": 64.1
     },
     {
       "id": "211107",
@@ -6352,7 +6605,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 54
+      "prevListRank": 54,
+      "prevActiveScore": 63.9
     },
     {
       "id": "233741",
@@ -6377,7 +6631,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 55
+      "prevListRank": 55,
+      "prevActiveScore": 63.8
     },
     {
       "id": "239383",
@@ -6402,7 +6657,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 56
+      "prevListRank": 56,
+      "prevActiveScore": 63.7
     },
     {
       "id": "215035",
@@ -6427,7 +6683,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 5
       },
-      "prevListRank": 57
+      "prevListRank": 57,
+      "prevActiveScore": 63.7
     },
     {
       "id": "238184",
@@ -6452,7 +6709,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 58
+      "prevListRank": 58,
+      "prevActiveScore": 63.4
     },
     {
       "id": "223360",
@@ -6477,7 +6735,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 59
+      "prevListRank": 59,
+      "prevActiveScore": 63.2
     },
     {
       "id": "216133",
@@ -6502,7 +6761,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 60
+      "prevListRank": 60,
+      "prevActiveScore": 62.9
     },
     {
       "id": "214119",
@@ -6527,7 +6787,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 61
+      "prevListRank": 61,
+      "prevActiveScore": 62.8
     },
     {
       "id": "203501",
@@ -6552,7 +6813,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 62
+      "prevListRank": 62,
+      "prevActiveScore": 62.5
     },
     {
       "id": "221333",
@@ -6577,7 +6839,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 63
+      "prevListRank": 63,
+      "prevActiveScore": 62.3
     },
     {
       "id": "216083",
@@ -6602,7 +6865,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 64
+      "prevListRank": 64,
+      "prevActiveScore": 62.2
     },
     {
       "id": "206368",
@@ -6627,7 +6891,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 16
       },
-      "prevListRank": 65
+      "prevListRank": 65,
+      "prevActiveScore": 61.8
     },
     {
       "id": "263857",
@@ -6652,7 +6917,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 66
+      "prevListRank": 66,
+      "prevActiveScore": 61.7
     },
     {
       "id": "222045",
@@ -6677,7 +6943,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 67
+      "prevListRank": 67,
+      "prevActiveScore": 61.3
     },
     {
       "id": "222017",
@@ -6702,7 +6969,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 68
+      "prevListRank": 68,
+      "prevActiveScore": 61.3
     },
     {
       "id": "211843",
@@ -6727,7 +6995,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 5
       },
-      "prevListRank": 69
+      "prevListRank": 69,
+      "prevActiveScore": 60.8
     },
     {
       "id": "220332",
@@ -6752,7 +7021,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 70
+      "prevListRank": 70,
+      "prevActiveScore": 60.5
     },
     {
       "id": "203514",
@@ -6777,7 +7047,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 71
+      "prevListRank": 71,
+      "prevActiveScore": 60.4
     },
     {
       "id": "211337",
@@ -6802,7 +7073,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 72
+      "prevListRank": 72,
+      "prevActiveScore": 60.1
     },
     {
       "id": "213525",
@@ -6827,7 +7099,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 9
       },
-      "prevListRank": 73
+      "prevListRank": 73,
+      "prevActiveScore": 59.4
     },
     {
       "id": "214388",
@@ -6852,7 +7125,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 74
+      "prevListRank": 74,
+      "prevActiveScore": 59.1
     },
     {
       "id": "220750",
@@ -6877,7 +7151,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 75
+      "prevListRank": 75,
+      "prevActiveScore": 58.8
     },
     {
       "id": "215337",
@@ -6902,7 +7177,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 76
+      "prevListRank": 76,
+      "prevActiveScore": 58.8
     },
     {
       "id": "213710",
@@ -6927,7 +7203,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 77
+      "prevListRank": 77,
+      "prevActiveScore": 58.4
     },
     {
       "id": "211684",
@@ -6952,7 +7229,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 78
+      "prevListRank": 78,
+      "prevActiveScore": 58.2
     },
     {
       "id": "214082",
@@ -6977,7 +7255,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 24
       },
-      "prevListRank": 79
+      "prevListRank": 79,
+      "prevActiveScore": 58.2
     },
     {
       "id": "222601",
@@ -7002,7 +7281,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 80
+      "prevListRank": 80,
+      "prevActiveScore": 58.1
     },
     {
       "id": "238075",
@@ -7027,7 +7307,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 81
+      "prevListRank": 81,
+      "prevActiveScore": 58.0
     },
     {
       "id": "220309",
@@ -7052,7 +7333,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 82
+      "prevListRank": 82,
+      "prevActiveScore": 58.0
     },
     {
       "id": "260172",
@@ -7077,7 +7359,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 83
+      "prevListRank": 83,
+      "prevActiveScore": 58.0
     },
     {
       "id": "222391",
@@ -7102,7 +7385,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 84
+      "prevListRank": 84,
+      "prevActiveScore": 58.0
     },
     {
       "id": "223325",
@@ -7127,7 +7411,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 85
+      "prevListRank": 85,
+      "prevActiveScore": 58.0
     },
     {
       "id": "201533",
@@ -7152,7 +7437,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 8
       },
-      "prevListRank": 86
+      "prevListRank": 86,
+      "prevActiveScore": 57.6
     },
     {
       "id": "203530",
@@ -7177,7 +7463,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 87
+      "prevListRank": 87,
+      "prevActiveScore": 57.4
     },
     {
       "id": "211817",
@@ -7202,7 +7489,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 88
+      "prevListRank": 88,
+      "prevActiveScore": 57.4
     },
     {
       "id": "222966",
@@ -7227,7 +7515,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 89
+      "prevListRank": 89,
+      "prevActiveScore": 57.4
     },
     {
       "id": "215910",
@@ -7252,7 +7541,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 90
+      "prevListRank": 90,
+      "prevActiveScore": 57.3
     },
     {
       "id": "214826",
@@ -7277,7 +7567,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 91
+      "prevListRank": 91,
+      "prevActiveScore": 57.3
     },
     {
       "id": "221883",
@@ -7302,7 +7593,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 92
+      "prevListRank": 92,
+      "prevActiveScore": 56.9
     },
     {
       "id": "204411",
@@ -7327,7 +7619,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 93
+      "prevListRank": 93,
+      "prevActiveScore": 56.9
     },
     {
       "id": "222145",
@@ -7352,7 +7645,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 94
+      "prevListRank": 94,
+      "prevActiveScore": 56.7
     },
     {
       "id": "219875",
@@ -7377,7 +7671,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 95
+      "prevListRank": 95,
+      "prevActiveScore": 56.7
     },
     {
       "id": "211651",
@@ -7402,7 +7697,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 15
       },
-      "prevListRank": 96
+      "prevListRank": 96,
+      "prevActiveScore": 56.7
     },
     {
       "id": "247669",
@@ -7427,7 +7723,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 97
+      "prevListRank": 97,
+      "prevActiveScore": 56.5
     },
     {
       "id": "202499",
@@ -7452,7 +7749,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 17
       },
-      "prevListRank": 98
+      "prevListRank": 98,
+      "prevActiveScore": 56.1
     },
     {
       "id": "213583",
@@ -7477,7 +7775,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 99
+      "prevListRank": 99,
+      "prevActiveScore": 55.9
     },
     {
       "id": "220699",
@@ -7502,7 +7801,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 100
+      "prevListRank": 100,
+      "prevActiveScore": 55.9
     },
     {
       "id": "221124",
@@ -7527,7 +7827,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 101
+      "prevListRank": 101,
+      "prevActiveScore": 55.8
     },
     {
       "id": "219917",
@@ -7552,7 +7853,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 102
+      "prevListRank": 102,
+      "prevActiveScore": 55.6
     },
     {
       "id": "214040",
@@ -7577,7 +7879,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 103
+      "prevListRank": 103,
+      "prevActiveScore": 55.4
     },
     {
       "id": "221909",
@@ -7602,7 +7905,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 104
+      "prevListRank": 104,
+      "prevActiveScore": 55.1
     },
     {
       "id": "216566",
@@ -7627,7 +7931,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 105
+      "prevListRank": 105,
+      "prevActiveScore": 55.0
     },
     {
       "id": "221354",
@@ -7652,7 +7957,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 106
+      "prevListRank": 106,
+      "prevActiveScore": 54.2
     },
     {
       "id": "211880",
@@ -7677,7 +7983,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 107
+      "prevListRank": 107,
+      "prevActiveScore": 54.2
     },
     {
       "id": "201499",
@@ -7702,7 +8009,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 34
       },
-      "prevListRank": 108
+      "prevListRank": 108,
+      "prevActiveScore": 54.1
     },
     {
       "id": "220446",
@@ -7727,7 +8035,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 109
+      "prevListRank": 109,
+      "prevActiveScore": 53.8
     },
     {
       "id": "259871",
@@ -7752,7 +8061,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 110
+      "prevListRank": 110,
+      "prevActiveScore": 53.6
     },
     {
       "id": "260168",
@@ -7777,7 +8087,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 111
+      "prevListRank": 111,
+      "prevActiveScore": 53.6
     },
     {
       "id": "221803",
@@ -7802,7 +8113,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 112
+      "prevListRank": 112,
+      "prevActiveScore": 53.6
     },
     {
       "id": "213550",
@@ -7827,7 +8139,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 113
+      "prevListRank": 113,
+      "prevActiveScore": 53.3
     },
     {
       "id": "201709",
@@ -7852,7 +8165,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 114
+      "prevListRank": 114,
+      "prevActiveScore": 53.1
     },
     {
       "id": "222290",
@@ -7877,7 +8191,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 115
+      "prevListRank": 115,
+      "prevActiveScore": 53.1
     },
     {
       "id": "236957",
@@ -7902,7 +8217,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 116
+      "prevListRank": 116,
+      "prevActiveScore": 53.1
     },
     {
       "id": "236972",
@@ -7927,7 +8243,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 117
+      "prevListRank": 117,
+      "prevActiveScore": 53.1
     },
     {
       "id": "220466",
@@ -7952,7 +8269,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 118
+      "prevListRank": 118,
+      "prevActiveScore": 53.1
     },
     {
       "id": "252499",
@@ -7977,7 +8295,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 119
+      "prevListRank": 119,
+      "prevActiveScore": 53.0
     },
     {
       "id": "213887",
@@ -8002,7 +8321,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 120
+      "prevListRank": 120,
+      "prevActiveScore": 52.9
     },
     {
       "id": "220742",
@@ -8027,7 +8347,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 121
+      "prevListRank": 121,
+      "prevActiveScore": 52.9
     },
     {
       "id": "205925",
@@ -8052,7 +8373,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 122
+      "prevListRank": 122,
+      "prevActiveScore": 52.7
     },
     {
       "id": "216055",
@@ -8077,7 +8399,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 123
+      "prevListRank": 123,
+      "prevActiveScore": 52.7
     },
     {
       "id": "221626",
@@ -8102,7 +8425,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 124
+      "prevListRank": 124,
+      "prevActiveScore": 52.6
     },
     {
       "id": "259857",
@@ -8127,7 +8451,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 125
+      "prevListRank": 125,
+      "prevActiveScore": 52.5
     },
     {
       "id": "202604",
@@ -8152,7 +8477,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 126
+      "prevListRank": 126,
+      "prevActiveScore": 51.9
     },
     {
       "id": "215872",
@@ -8177,7 +8503,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 127
+      "prevListRank": 127,
+      "prevActiveScore": 51.8
     },
     {
       "id": "201548",
@@ -8202,7 +8529,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 128
+      "prevListRank": 128,
+      "prevActiveScore": 51.8
     },
     {
       "id": "215480",
@@ -8227,7 +8555,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 129
+      "prevListRank": 129,
+      "prevActiveScore": 51.6
     },
     {
       "id": "214461",
@@ -8252,7 +8581,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 130
+      "prevListRank": 130,
+      "prevActiveScore": 51.6
     },
     {
       "id": "215453",
@@ -8277,7 +8607,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 131
+      "prevListRank": 131,
+      "prevActiveScore": 51.6
     },
     {
       "id": "223321",
@@ -8302,7 +8633,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 132
+      "prevListRank": 132,
+      "prevActiveScore": 51.6
     },
     {
       "id": "206294",
@@ -8327,7 +8659,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 133
+      "prevListRank": 133,
+      "prevActiveScore": 51.1
     },
     {
       "id": "222233",
@@ -8352,7 +8685,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 134
+      "prevListRank": 134,
+      "prevActiveScore": 51.1
     },
     {
       "id": "214646",
@@ -8377,7 +8711,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 135
+      "prevListRank": 135,
+      "prevActiveScore": 51.1
     },
     {
       "id": "202684",
@@ -8402,7 +8737,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 136
+      "prevListRank": 136,
+      "prevActiveScore": 50.9
     },
     {
       "id": "215370",
@@ -8427,7 +8763,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 12
       },
-      "prevListRank": 137
+      "prevListRank": 137,
+      "prevActiveScore": 50.5
     },
     {
       "id": "221985",
@@ -8452,7 +8789,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 138
+      "prevListRank": 138,
+      "prevActiveScore": 50.4
     },
     {
       "id": "221039",
@@ -8477,7 +8815,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 139
+      "prevListRank": 139,
+      "prevActiveScore": 50.2
     },
     {
       "id": "221407",
@@ -8502,7 +8841,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 140
+      "prevListRank": 140,
+      "prevActiveScore": 50.2
     },
     {
       "id": "221237",
@@ -8527,7 +8867,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 141
+      "prevListRank": 141,
+      "prevActiveScore": 50.0
     },
     {
       "id": "215020",
@@ -8552,7 +8893,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 142
+      "prevListRank": 142,
+      "prevActiveScore": 50.0
     },
     {
       "id": "211685",
@@ -8577,7 +8919,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 143
+      "prevListRank": 143,
+      "prevActiveScore": 49.9
     },
     {
       "id": "215306",
@@ -8602,7 +8945,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 144
+      "prevListRank": 144,
+      "prevActiveScore": 49.7
     },
     {
       "id": "239456",
@@ -8627,7 +8971,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 145
+      "prevListRank": 145,
+      "prevActiveScore": 49.7
     },
     {
       "id": "214452",
@@ -8652,7 +8997,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 146
+      "prevListRank": 146,
+      "prevActiveScore": 49.4
     },
     {
       "id": "243420",
@@ -8677,7 +9023,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 147
+      "prevListRank": 147,
+      "prevActiveScore": 49.0
     },
     {
       "id": "215037",
@@ -8702,7 +9049,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 148
+      "prevListRank": 148,
+      "prevActiveScore": 48.9
     },
     {
       "id": "259733",
@@ -8727,7 +9075,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 149
+      "prevListRank": 149,
+      "prevActiveScore": 48.7
     },
     {
       "id": "215571",
@@ -8752,7 +9101,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 150
+      "prevListRank": 150,
+      "prevActiveScore": 48.6
     },
     {
       "id": "223286",
@@ -8777,7 +9127,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 151
+      "prevListRank": 151,
+      "prevActiveScore": 48.3
     },
     {
       "id": "220722",
@@ -8802,7 +9153,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 152
+      "prevListRank": 152,
+      "prevActiveScore": 48.0
     },
     {
       "id": "220435",
@@ -8827,7 +9179,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 153
+      "prevListRank": 153,
+      "prevActiveScore": 47.6
     },
     {
       "id": "261972",
@@ -8852,7 +9205,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 154
+      "prevListRank": 154,
+      "prevActiveScore": 47.6
     },
     {
       "id": "211316",
@@ -8877,7 +9231,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 155
+      "prevListRank": 155,
+      "prevActiveScore": 47.6
     },
     {
       "id": "215899",
@@ -8902,7 +9257,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 156
+      "prevListRank": 156,
+      "prevActiveScore": 47.4
     },
     {
       "id": "214906",
@@ -8927,7 +9283,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 157
+      "prevListRank": 157,
+      "prevActiveScore": 47.3
     },
     {
       "id": "263644",
@@ -8952,7 +9309,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 158
+      "prevListRank": 158,
+      "prevActiveScore": 47.1
     },
     {
       "id": "201478",
@@ -8977,7 +9335,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 5
       },
-      "prevListRank": 159
+      "prevListRank": 159,
+      "prevActiveScore": 46.7
     },
     {
       "id": "260203",
@@ -9002,7 +9361,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 160
+      "prevListRank": 160,
+      "prevActiveScore": 46.7
     },
     {
       "id": "220465",
@@ -9027,7 +9387,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 161
+      "prevListRank": 161,
+      "prevActiveScore": 46.6
     },
     {
       "id": "211279",
@@ -9052,7 +9413,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 162
+      "prevListRank": 162,
+      "prevActiveScore": 46.6
     },
     {
       "id": "267439",
@@ -9077,7 +9439,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 163
+      "prevListRank": 163,
+      "prevActiveScore": 46.5
     },
     {
       "id": "215946",
@@ -9102,7 +9465,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 164
+      "prevListRank": 164,
+      "prevActiveScore": 46.5
     },
     {
       "id": "230870",
@@ -9127,7 +9491,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 165
+      "prevListRank": 165,
+      "prevActiveScore": 46.4
     },
     {
       "id": "220454",
@@ -9152,7 +9517,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 166
+      "prevListRank": 166,
+      "prevActiveScore": 46.4
     },
     {
       "id": "215042",
@@ -9177,7 +9543,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 167
+      "prevListRank": 167,
+      "prevActiveScore": 46.4
     },
     {
       "id": "223168",
@@ -9202,7 +9569,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 168
+      "prevListRank": 168,
+      "prevActiveScore": 46.3
     },
     {
       "id": "239436",
@@ -9227,7 +9595,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 169
+      "prevListRank": 169,
+      "prevActiveScore": 46.3
     },
     {
       "id": "214236",
@@ -9252,7 +9621,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 170
+      "prevListRank": 170,
+      "prevActiveScore": 46.1
     },
     {
       "id": "206242",
@@ -9277,7 +9647,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 12
       },
-      "prevListRank": 171
+      "prevListRank": 171,
+      "prevActiveScore": 46.0
     },
     {
       "id": "215138",
@@ -9302,7 +9673,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 172
+      "prevListRank": 172,
+      "prevActiveScore": 46.0
     },
     {
       "id": "220733",
@@ -9327,7 +9699,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 173
+      "prevListRank": 173,
+      "prevActiveScore": 45.9
     },
     {
       "id": "221406",
@@ -9352,7 +9725,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 174
+      "prevListRank": 174,
+      "prevActiveScore": 45.5
     },
     {
       "id": "236955",
@@ -9377,7 +9751,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 175
+      "prevListRank": 175,
+      "prevActiveScore": 45.5
     },
     {
       "id": "221236",
@@ -9402,7 +9777,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 176
+      "prevListRank": 176,
+      "prevActiveScore": 45.3
     },
     {
       "id": "215572",
@@ -9427,7 +9803,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 177
+      "prevListRank": 177,
+      "prevActiveScore": 45.2
     },
     {
       "id": "221257",
@@ -9452,7 +9829,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 178
+      "prevListRank": 178,
+      "prevActiveScore": 45.0
     },
     {
       "id": "211539",
@@ -9477,7 +9855,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 179
+      "prevListRank": 179,
+      "prevActiveScore": 45.0
     },
     {
       "id": "214459",
@@ -9502,7 +9881,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 180
+      "prevListRank": 180,
+      "prevActiveScore": 44.9
     },
     {
       "id": "216097",
@@ -9527,7 +9907,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 181
+      "prevListRank": 181,
+      "prevActiveScore": 44.8
     },
     {
       "id": "201621",
@@ -9552,7 +9933,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 5
       },
-      "prevListRank": 182
+      "prevListRank": 182,
+      "prevActiveScore": 44.5
     },
     {
       "id": "215219",
@@ -9577,7 +9959,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 183
+      "prevListRank": 183,
+      "prevActiveScore": 43.8
     },
     {
       "id": "215936",
@@ -9602,7 +9985,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 184
+      "prevListRank": 184,
+      "prevActiveScore": 43.4
     },
     {
       "id": "216016",
@@ -9627,7 +10011,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 185
+      "prevListRank": 185,
+      "prevActiveScore": 43.3
     },
     {
       "id": "222258",
@@ -9652,7 +10037,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 186
+      "prevListRank": 186,
+      "prevActiveScore": 43.0
     },
     {
       "id": "214593",
@@ -9677,7 +10063,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 187
+      "prevListRank": 187,
+      "prevActiveScore": 42.7
     },
     {
       "id": "202600",
@@ -9702,7 +10089,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 188
+      "prevListRank": 188,
+      "prevActiveScore": 42.6
     },
     {
       "id": "213646",
@@ -9727,7 +10115,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 189
+      "prevListRank": 189,
+      "prevActiveScore": 42.4
     },
     {
       "id": "220416",
@@ -9752,7 +10141,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 190
+      "prevListRank": 190,
+      "prevActiveScore": 42.1
     },
     {
       "id": "206417",
@@ -9777,7 +10167,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 191
+      "prevListRank": 191,
+      "prevActiveScore": 41.7
     },
     {
       "id": "220662",
@@ -9802,7 +10193,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 192
+      "prevListRank": 192,
+      "prevActiveScore": 41.2
     },
     {
       "id": "213666",
@@ -9827,7 +10219,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 193
+      "prevListRank": 193,
+      "prevActiveScore": 41.2
     },
     {
       "id": "223333",
@@ -9852,7 +10245,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 194
+      "prevListRank": 194,
+      "prevActiveScore": 41.0
     },
     {
       "id": "215250",
@@ -9877,7 +10271,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 195
+      "prevListRank": 195,
+      "prevActiveScore": 41.0
     },
     {
       "id": "221307",
@@ -9902,7 +10297,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 196
+      "prevListRank": 196,
+      "prevActiveScore": 39.2
     },
     {
       "id": "211814",
@@ -9927,7 +10323,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 197
+      "prevListRank": 197,
+      "prevActiveScore": 37.4
     },
     {
       "id": "201551",
@@ -9952,7 +10349,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 198
+      "prevListRank": 198,
+      "prevActiveScore": 36.2
     },
     {
       "id": "215992",
@@ -9977,7 +10375,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 199
+      "prevListRank": 199,
+      "prevActiveScore": 35.8
     },
     {
       "id": "210886",
@@ -10002,7 +10401,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 200
+      "prevListRank": 200,
+      "prevActiveScore": 35.0
     }
   ],
   "ATP_CHANGES": {
@@ -10781,5 +11181,5 @@ window.TENNIS_DATA = {
   "WTA_TODAY": [],
   "ATP_TOURNAMENT": {},
   "WTA_TOURNAMENT": {},
-  "IMPORTANCE": 7.0
+  "IMPORTANCE": 7.5
 };

@@ -8007,12 +8007,12 @@ window.MLB_DATA = {
         "teamCode": "LAD",
         "city": "Los Angeles Dodgers",
         "era": "2017–present",
-        "rings": 2,
-        "dynastyScore": 62.6,
+        "rings": 3,
+        "dynastyScore": 74.6,
         "threshold": 89.5,
-        "gap": 26.9,
-        "note": "2020+2024 champions · Ohtani/Betts/Freeman era · highest payroll · dynasty contender",
-        "needs": "2–3 more titles + another dominant era needed",
+        "gap": 14.9,
+        "note": "2020+2024+2025 champions · Ohtani/Betts/Freeman era · dynasty confirmed",
+        "needs": "1–2 more titles + sustained regular-season excellence",
         "colors": {
           "primary": "#005a9c",
           "secondary": "#ef3e42"
@@ -8377,7 +8377,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-09 10:06 UTC",
+  "LAST_UPDATE": "2026-06-09 16:19 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

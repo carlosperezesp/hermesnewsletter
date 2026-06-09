@@ -44526,6 +44526,22 @@ window.NHL_DATA = {
         "prevRank": null
       },
       {
+        "teamCode": "FLA",
+        "city": "Florida Panthers",
+        "era": "2022–present",
+        "cups": 2,
+        "dynastyScore": 66.6,
+        "threshold": 89.7,
+        "gap": 23.1,
+        "note": "2024 & 2025 Cups · back-to-back Champions",
+        "needs": "1–2 more Cups + sustained regular-season excellence",
+        "colors": {
+          "primary": "#041e42",
+          "secondary": "#c8102e"
+        },
+        "prevRank": null
+      },
+      {
         "teamCode": "VGK",
         "city": "Vegas Golden Knights",
         "era": "2018–present",
@@ -44538,22 +44554,6 @@ window.NHL_DATA = {
         "colors": {
           "primary": "#b4975a",
           "secondary": "#333f48"
-        },
-        "prevRank": null
-      },
-      {
-        "teamCode": "FLA",
-        "city": "Florida Panthers",
-        "era": "2022–present",
-        "cups": 1,
-        "dynastyScore": 53.6,
-        "threshold": 89.7,
-        "gap": 36.1,
-        "note": "2024 Cup · back-to-back Finals",
-        "needs": "2–3 more Cups + another dominant era",
-        "colors": {
-          "primary": "#041e42",
-          "secondary": "#c8102e"
         },
         "prevRank": null
       },
@@ -44645,7 +44645,7 @@ window.NHL_DATA = {
         "dynastyScore": 44.5,
         "threshold": 89.7,
         "gap": 45.2,
-        "note": "McDavid era · 2024 Stanley Cup Finals",
+        "note": "McDavid era · 2024 & 2025 Stanley Cup Finals",
         "needs": "Needs at least one Cup + years of dominance",
         "colors": {
           "primary": "#041e42",
@@ -44898,10 +44898,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-09 10:06 UTC",
+  "LAST_UPDATE": "2026-06-09 16:19 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-09T10:05:45Z"
+    "standingsDateTimeUtc": "2026-06-09T16:19:01Z"
   }
 };
