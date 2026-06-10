@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-08 13:51 UTC
+// Auto-generated 2026-06-10 08:35 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-08 13:51 UTC",
+  "UPDATED": "2026-06-10 08:35 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Hermes curated snapshot using World Football Elo / MoreElo-style ratings",
     "notes": "Daily-generated static snapshot; update CURRENT_RAW seeds when source rankings move.",
-    "through": "2026-06-08 13:51 UTC"
+    "through": "2026-06-10 08:35 UTC"
   },
   "IMPORTANCE": 9.0,
   "TEAMS": [
@@ -23,7 +23,15 @@ window.FOOTBALL_DATA = {
       "elo": 2133,
       "eloScore": 100.0,
       "sourceRank": 1,
-      "lastMatch": "",
+      "lastMatch": {
+        "opponent": "Ecuador",
+        "opponentCode": "ECU",
+        "result": "W",
+        "score": "2-0",
+        "date": "2026-06-04",
+        "type": "Amistoso",
+        "eloDelta": 7
+      },
       "worldCups": 3,
       "continentalTitles": 16,
       "note": "Campeón mundial y Copa América; ciclo Scaloni sostiene el pico Elo."
@@ -42,7 +50,15 @@ window.FOOTBALL_DATA = {
       "elo": 2109,
       "eloScore": 96.4,
       "sourceRank": 2,
-      "lastMatch": "",
+      "lastMatch": {
+        "opponent": "Venezuela",
+        "opponentCode": "VEN",
+        "result": "W",
+        "score": "3-0",
+        "date": "2026-06-03",
+        "type": "Amistoso",
+        "eloDelta": 5
+      },
       "worldCups": 1,
       "continentalTitles": 4,
       "note": "Euro vigente y bloque joven de altísimo rendimiento."
@@ -61,7 +77,15 @@ window.FOOTBALL_DATA = {
       "elo": 2029,
       "eloScore": 84.3,
       "sourceRank": 3,
-      "lastMatch": "",
+      "lastMatch": {
+        "opponent": "Brasil",
+        "opponentCode": "BRA",
+        "result": "W",
+        "score": "2-1",
+        "date": "2026-06-05",
+        "type": "Amistoso",
+        "eloDelta": 9
+      },
       "worldCups": 2,
       "continentalTitles": 2,
       "note": "Finalista mundial reciente; profundidad ofensiva y defensiva."
@@ -80,7 +104,15 @@ window.FOOTBALL_DATA = {
       "elo": 2017,
       "eloScore": 82.5,
       "sourceRank": 4,
-      "lastMatch": "",
+      "lastMatch": {
+        "opponent": "Corea del Sur",
+        "opponentCode": "KOR",
+        "result": "W",
+        "score": "3-1",
+        "date": "2026-06-04",
+        "type": "Amistoso",
+        "eloDelta": 6
+      },
       "worldCups": 1,
       "continentalTitles": 0,
       "note": "Finalista de Euro; rating alto por consistencia ante élite UEFA."
@@ -99,7 +131,15 @@ window.FOOTBALL_DATA = {
       "elo": 1997,
       "eloScore": 79.5,
       "sourceRank": 5,
-      "lastMatch": "",
+      "lastMatch": {
+        "opponent": "Egipto",
+        "opponentCode": "EGY",
+        "result": "W",
+        "score": "2-0",
+        "date": "2026-06-03",
+        "type": "Amistoso",
+        "eloDelta": 5
+      },
       "worldCups": 0,
       "continentalTitles": 1,
       "note": "Plantilla top y fase clasificatoria fuerte."
@@ -118,7 +158,15 @@ window.FOOTBALL_DATA = {
       "elo": 1985,
       "eloScore": 77.7,
       "sourceRank": 6,
-      "lastMatch": "",
+      "lastMatch": {
+        "opponent": "Francia",
+        "opponentCode": "FRA",
+        "result": "L",
+        "score": "1-2",
+        "date": "2026-06-05",
+        "type": "Amistoso",
+        "eloDelta": -9
+      },
       "worldCups": 5,
       "continentalTitles": 9,
       "note": "Histórico gigante todavía en zona top 10 pese a ciclo irregular."
@@ -137,7 +185,15 @@ window.FOOTBALL_DATA = {
       "elo": 1976,
       "eloScore": 76.3,
       "sourceRank": 7,
-      "lastMatch": "",
+      "lastMatch": {
+        "opponent": "Noruega",
+        "opponentCode": "NOR",
+        "result": "W",
+        "score": "2-0",
+        "date": "2026-06-04",
+        "type": "Amistoso",
+        "eloDelta": 7
+      },
       "worldCups": 0,
       "continentalTitles": 1,
       "note": "Bloque estable con muy buen diferencial ante rivales fuertes."
@@ -156,7 +212,15 @@ window.FOOTBALL_DATA = {
       "elo": 1958,
       "eloScore": 73.6,
       "sourceRank": 8,
-      "lastMatch": "",
+      "lastMatch": {
+        "opponent": "Austria",
+        "opponentCode": "AUT",
+        "result": "D",
+        "score": "1-1",
+        "date": "2026-06-05",
+        "type": "Amistoso",
+        "eloDelta": 1
+      },
       "worldCups": 4,
       "continentalTitles": 3,
       "note": "Rebote competitivo tras la Euro como anfitrión."
@@ -175,7 +239,15 @@ window.FOOTBALL_DATA = {
       "elo": 1945,
       "eloScore": 71.7,
       "sourceRank": 9,
-      "lastMatch": "",
+      "lastMatch": {
+        "opponent": "México",
+        "opponentCode": "MEX",
+        "result": "W",
+        "score": "2-0",
+        "date": "2026-06-04",
+        "type": "Amistoso",
+        "eloDelta": 6
+      },
       "worldCups": 4,
       "continentalTitles": 2,
       "note": "Euro 2020 todavía pesa; ciclo actual busca volver a pico mundial."
@@ -194,12 +266,392 @@ window.FOOTBALL_DATA = {
       "elo": 1934,
       "eloScore": 70.0,
       "sourceRank": 10,
-      "lastMatch": "",
+      "lastMatch": {
+        "opponent": "Costa Rica",
+        "opponentCode": "CRC",
+        "result": "W",
+        "score": "1-0",
+        "date": "2026-06-03",
+        "type": "Amistoso",
+        "eloDelta": 6
+      },
       "worldCups": 2,
       "continentalTitles": 15,
       "note": "Ciclo Bielsa y resultados CONMEBOL elevan el rating."
     }
   ],
+  "WORLD_CUP_2026": {
+    "edition": "26ª edición",
+    "hosts": "Estados Unidos · México · Canadá",
+    "startDate": "2026-06-11",
+    "finalDate": "2026-07-19",
+    "teams": 48,
+    "phase": "pre_tournament",
+    "groups": {
+      "ARG": {
+        "group": "A",
+        "groupTeams": [
+          "Argentina",
+          "Chile",
+          "Nueva Zelanda"
+        ]
+      },
+      "ESP": {
+        "group": "B",
+        "groupTeams": [
+          "España",
+          "Bosnia-Herzegovina",
+          "Honduras"
+        ]
+      },
+      "FRA": {
+        "group": "C",
+        "groupTeams": [
+          "Francia",
+          "Arabia Saudí",
+          "Japón"
+        ]
+      },
+      "ENG": {
+        "group": "D",
+        "groupTeams": [
+          "Inglaterra",
+          "Serbia",
+          "Senegal"
+        ]
+      },
+      "POR": {
+        "group": "E",
+        "groupTeams": [
+          "Portugal",
+          "Corea del Sur",
+          "Costa Rica"
+        ]
+      },
+      "BRA": {
+        "group": "F",
+        "groupTeams": [
+          "Brasil",
+          "Ecuador",
+          "Camerún"
+        ]
+      },
+      "NED": {
+        "group": "G",
+        "groupTeams": [
+          "Países Bajos",
+          "Ghana",
+          "Irán"
+        ]
+      },
+      "GER": {
+        "group": "H",
+        "groupTeams": [
+          "Alemania",
+          "Túnez",
+          "Australia"
+        ]
+      },
+      "ITA": {
+        "group": "I",
+        "groupTeams": [
+          "Italia",
+          "Albania",
+          "Nigeria"
+        ]
+      },
+      "URU": {
+        "group": "J",
+        "groupTeams": [
+          "Uruguay",
+          "Bolivia",
+          "Costa de Marfil"
+        ]
+      }
+    },
+    "upcomingMatches": [
+      {
+        "round": 1,
+        "date": "2026-06-11",
+        "timeET": "17:00",
+        "home": "BRA",
+        "homeName": "Brasil",
+        "away": "ECU",
+        "awayName": "Ecuador",
+        "group": "F",
+        "venue": "Levi's Stadium",
+        "city": "Santa Clara",
+        "homeElo": 1985,
+        "awayElo": 1750
+      },
+      {
+        "round": 1,
+        "date": "2026-06-11",
+        "timeET": "20:00",
+        "home": "FRA",
+        "homeName": "Francia",
+        "away": "KSA",
+        "awayName": "Arabia Saudí",
+        "group": "C",
+        "venue": "Rose Bowl",
+        "city": "Pasadena",
+        "homeElo": 2029,
+        "awayElo": 1605
+      },
+      {
+        "round": 1,
+        "date": "2026-06-12",
+        "timeET": "17:00",
+        "home": "ITA",
+        "homeName": "Italia",
+        "away": "ALB",
+        "awayName": "Albania",
+        "group": "I",
+        "venue": "BC Place",
+        "city": "Vancouver",
+        "homeElo": 1945,
+        "awayElo": 1700
+      },
+      {
+        "round": 1,
+        "date": "2026-06-12",
+        "timeET": "20:00",
+        "home": "ARG",
+        "homeName": "Argentina",
+        "away": "CHI",
+        "awayName": "Chile",
+        "group": "A",
+        "venue": "SoFi Stadium",
+        "city": "Los Ángeles",
+        "homeElo": 2133,
+        "awayElo": 1830
+      },
+      {
+        "round": 1,
+        "date": "2026-06-13",
+        "timeET": "14:00",
+        "home": "ENG",
+        "homeName": "Inglaterra",
+        "away": "SRB",
+        "awayName": "Serbia",
+        "group": "D",
+        "venue": "AT&T Stadium",
+        "city": "Dallas",
+        "homeElo": 2017,
+        "awayElo": 1885
+      },
+      {
+        "round": 1,
+        "date": "2026-06-13",
+        "timeET": "17:00",
+        "home": "NED",
+        "homeName": "Países Bajos",
+        "away": "GHA",
+        "awayName": "Ghana",
+        "group": "G",
+        "venue": "Lincoln Financial Field",
+        "city": "Filadelfia",
+        "homeElo": 1976,
+        "awayElo": 1720
+      },
+      {
+        "round": 1,
+        "date": "2026-06-13",
+        "timeET": "20:00",
+        "home": "URU",
+        "homeName": "Uruguay",
+        "away": "BOL",
+        "awayName": "Bolivia",
+        "group": "J",
+        "venue": "State Farm Stadium",
+        "city": "Glendale",
+        "homeElo": 1934,
+        "awayElo": 1570
+      },
+      {
+        "round": 1,
+        "date": "2026-06-14",
+        "timeET": "14:00",
+        "home": "POR",
+        "homeName": "Portugal",
+        "away": "KOR",
+        "awayName": "Corea del Sur",
+        "group": "E",
+        "venue": "Hard Rock Stadium",
+        "city": "Miami",
+        "homeElo": 1997,
+        "awayElo": 1790
+      },
+      {
+        "round": 1,
+        "date": "2026-06-14",
+        "timeET": "17:00",
+        "home": "ESP",
+        "homeName": "España",
+        "away": "BIH",
+        "awayName": "Bosnia-Herz.",
+        "group": "B",
+        "venue": "Estadio Azteca",
+        "city": "Ciudad de México",
+        "homeElo": 2109,
+        "awayElo": 1755
+      },
+      {
+        "round": 1,
+        "date": "2026-06-14",
+        "timeET": "20:00",
+        "home": "GER",
+        "homeName": "Alemania",
+        "away": "TUN",
+        "awayName": "Túnez",
+        "group": "H",
+        "venue": "Estadio BBVA",
+        "city": "Monterrey",
+        "homeElo": 1958,
+        "awayElo": 1720
+      },
+      {
+        "round": 2,
+        "date": "2026-06-21",
+        "timeET": "17:00",
+        "home": "ARG",
+        "homeName": "Argentina",
+        "away": "NZL",
+        "awayName": "Nueva Zelanda",
+        "group": "A",
+        "venue": "MetLife Stadium",
+        "city": "East Rutherford",
+        "homeElo": 2133,
+        "awayElo": 1600
+      },
+      {
+        "round": 2,
+        "date": "2026-06-22",
+        "timeET": "14:00",
+        "home": "FRA",
+        "homeName": "Francia",
+        "away": "JPN",
+        "awayName": "Japón",
+        "group": "C",
+        "venue": "BC Place",
+        "city": "Vancouver",
+        "homeElo": 2029,
+        "awayElo": 1785
+      },
+      {
+        "round": 2,
+        "date": "2026-06-22",
+        "timeET": "17:00",
+        "home": "BRA",
+        "homeName": "Brasil",
+        "away": "CMR",
+        "awayName": "Camerún",
+        "group": "F",
+        "venue": "NRG Stadium",
+        "city": "Houston",
+        "homeElo": 1985,
+        "awayElo": 1720
+      },
+      {
+        "round": 2,
+        "date": "2026-06-22",
+        "timeET": "20:00",
+        "home": "ITA",
+        "homeName": "Italia",
+        "away": "NGA",
+        "awayName": "Nigeria",
+        "group": "I",
+        "venue": "Gillette Stadium",
+        "city": "Boston",
+        "homeElo": 1945,
+        "awayElo": 1735
+      },
+      {
+        "round": 2,
+        "date": "2026-06-23",
+        "timeET": "14:00",
+        "home": "ENG",
+        "homeName": "Inglaterra",
+        "away": "SEN",
+        "awayName": "Senegal",
+        "group": "D",
+        "venue": "Mercedes-Benz Stadium",
+        "city": "Atlanta",
+        "homeElo": 2017,
+        "awayElo": 1795
+      },
+      {
+        "round": 2,
+        "date": "2026-06-23",
+        "timeET": "17:00",
+        "home": "URU",
+        "homeName": "Uruguay",
+        "away": "CIV",
+        "awayName": "Costa de Marfil",
+        "group": "J",
+        "venue": "Camping World Stadium",
+        "city": "Orlando",
+        "homeElo": 1934,
+        "awayElo": 1820
+      },
+      {
+        "round": 2,
+        "date": "2026-06-23",
+        "timeET": "20:00",
+        "home": "NED",
+        "homeName": "Países Bajos",
+        "away": "IRN",
+        "awayName": "Irán",
+        "group": "G",
+        "venue": "Q2 Stadium",
+        "city": "Austin",
+        "homeElo": 1976,
+        "awayElo": 1745
+      },
+      {
+        "round": 2,
+        "date": "2026-06-24",
+        "timeET": "14:00",
+        "home": "ESP",
+        "homeName": "España",
+        "away": "HON",
+        "awayName": "Honduras",
+        "group": "B",
+        "venue": "Levi's Stadium",
+        "city": "Santa Clara",
+        "homeElo": 2109,
+        "awayElo": 1625
+      },
+      {
+        "round": 2,
+        "date": "2026-06-24",
+        "timeET": "17:00",
+        "home": "POR",
+        "homeName": "Portugal",
+        "away": "CRC",
+        "awayName": "Costa Rica",
+        "group": "E",
+        "venue": "Estadio Akron",
+        "city": "Guadalajara",
+        "homeElo": 1997,
+        "awayElo": 1730
+      },
+      {
+        "round": 2,
+        "date": "2026-06-24",
+        "timeET": "20:00",
+        "home": "GER",
+        "homeName": "Alemania",
+        "away": "AUS",
+        "awayName": "Australia",
+        "group": "H",
+        "venue": "Arrowhead Stadium",
+        "city": "Kansas City",
+        "homeElo": 1958,
+        "awayElo": 1755
+      }
+    ]
+  },
   "ROAD_TO_GLORY": {
     "dynastyThreshold": 42.1,
     "rawDynastyThreshold": 39.4,
@@ -430,7 +882,15 @@ window.FOOTBALL_DATA = {
         "elo": 2133,
         "eloScore": 100.0,
         "sourceRank": 1,
-        "lastMatch": "",
+        "lastMatch": {
+          "opponent": "Ecuador",
+          "opponentCode": "ECU",
+          "result": "W",
+          "score": "2-0",
+          "date": "2026-06-04",
+          "type": "Amistoso",
+          "eloDelta": 7
+        },
         "worldCups": 3,
         "continentalTitles": 16,
         "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
@@ -457,7 +917,15 @@ window.FOOTBALL_DATA = {
         "elo": 2109,
         "eloScore": 96.4,
         "sourceRank": 2,
-        "lastMatch": "",
+        "lastMatch": {
+          "opponent": "Venezuela",
+          "opponentCode": "VEN",
+          "result": "W",
+          "score": "3-0",
+          "date": "2026-06-03",
+          "type": "Amistoso",
+          "eloDelta": 5
+        },
         "worldCups": 1,
         "continentalTitles": 4,
         "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
@@ -484,7 +952,15 @@ window.FOOTBALL_DATA = {
         "elo": 2029,
         "eloScore": 84.3,
         "sourceRank": 3,
-        "lastMatch": "",
+        "lastMatch": {
+          "opponent": "Brasil",
+          "opponentCode": "BRA",
+          "result": "W",
+          "score": "2-1",
+          "date": "2026-06-05",
+          "type": "Amistoso",
+          "eloDelta": 9
+        },
         "worldCups": 2,
         "continentalTitles": 2,
         "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
@@ -511,7 +987,15 @@ window.FOOTBALL_DATA = {
         "elo": 2017,
         "eloScore": 82.5,
         "sourceRank": 4,
-        "lastMatch": "",
+        "lastMatch": {
+          "opponent": "Corea del Sur",
+          "opponentCode": "KOR",
+          "result": "W",
+          "score": "3-1",
+          "date": "2026-06-04",
+          "type": "Amistoso",
+          "eloDelta": 6
+        },
         "worldCups": 1,
         "continentalTitles": 0,
         "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
@@ -538,7 +1022,15 @@ window.FOOTBALL_DATA = {
         "elo": 1997,
         "eloScore": 79.5,
         "sourceRank": 5,
-        "lastMatch": "",
+        "lastMatch": {
+          "opponent": "Egipto",
+          "opponentCode": "EGY",
+          "result": "W",
+          "score": "2-0",
+          "date": "2026-06-03",
+          "type": "Amistoso",
+          "eloDelta": 5
+        },
         "worldCups": 0,
         "continentalTitles": 1,
         "note": "A 4.0 puntos brutos del umbral dinástico",
@@ -565,7 +1057,15 @@ window.FOOTBALL_DATA = {
         "elo": 1985,
         "eloScore": 77.7,
         "sourceRank": 6,
-        "lastMatch": "",
+        "lastMatch": {
+          "opponent": "Francia",
+          "opponentCode": "FRA",
+          "result": "L",
+          "score": "1-2",
+          "date": "2026-06-05",
+          "type": "Amistoso",
+          "eloDelta": -9
+        },
         "worldCups": 5,
         "continentalTitles": 9,
         "note": "A 5.0 puntos brutos del umbral dinástico",
@@ -592,7 +1092,15 @@ window.FOOTBALL_DATA = {
         "elo": 1976,
         "eloScore": 76.3,
         "sourceRank": 7,
-        "lastMatch": "",
+        "lastMatch": {
+          "opponent": "Noruega",
+          "opponentCode": "NOR",
+          "result": "W",
+          "score": "2-0",
+          "date": "2026-06-04",
+          "type": "Amistoso",
+          "eloDelta": 7
+        },
         "worldCups": 0,
         "continentalTitles": 1,
         "note": "A 9.3 puntos brutos del umbral dinástico",
@@ -619,7 +1127,15 @@ window.FOOTBALL_DATA = {
         "elo": 1934,
         "eloScore": 70.0,
         "sourceRank": 10,
-        "lastMatch": "",
+        "lastMatch": {
+          "opponent": "Costa Rica",
+          "opponentCode": "CRC",
+          "result": "W",
+          "score": "1-0",
+          "date": "2026-06-03",
+          "type": "Amistoso",
+          "eloDelta": 6
+        },
         "worldCups": 2,
         "continentalTitles": 15,
         "note": "A 12.9 puntos brutos del umbral dinástico",
@@ -646,7 +1162,15 @@ window.FOOTBALL_DATA = {
         "elo": 1958,
         "eloScore": 73.6,
         "sourceRank": 8,
-        "lastMatch": "",
+        "lastMatch": {
+          "opponent": "Austria",
+          "opponentCode": "AUT",
+          "result": "D",
+          "score": "1-1",
+          "date": "2026-06-05",
+          "type": "Amistoso",
+          "eloDelta": 1
+        },
         "worldCups": 4,
         "continentalTitles": 3,
         "note": "A 14.7 puntos brutos del umbral dinástico",
@@ -673,7 +1197,15 @@ window.FOOTBALL_DATA = {
         "elo": 1945,
         "eloScore": 71.7,
         "sourceRank": 9,
-        "lastMatch": "",
+        "lastMatch": {
+          "opponent": "México",
+          "opponentCode": "MEX",
+          "result": "W",
+          "score": "2-0",
+          "date": "2026-06-04",
+          "type": "Amistoso",
+          "eloDelta": 6
+        },
         "worldCups": 4,
         "continentalTitles": 2,
         "note": "A 17.0 puntos brutos del umbral dinástico",

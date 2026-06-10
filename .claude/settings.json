@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(kill 60685)",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 -m http.server 7824 --directory /Users/c02fvoptq6lr/Documents/HERMES)",
+      "Bash(open \"http://localhost:7824/#football\")"
+    ]
+  }
+}

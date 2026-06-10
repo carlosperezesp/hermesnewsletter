@@ -43995,7 +43995,7 @@ window.NHL_DATA = {
         "hi": "CAR",
         "lo": "VGK",
         "winner": null,
-        "seriesScore": "1-2"
+        "seriesScore": "2-2"
       }
     ]
   },
@@ -44529,11 +44529,11 @@ window.NHL_DATA = {
         "teamCode": "VGK",
         "city": "Vegas Golden Knights",
         "era": "2018–present",
-        "cups": 1,
+        "cups": 2,
         "dynastyScore": 58.0,
         "threshold": 89.7,
         "gap": 31.7,
-        "note": "2023 Cup · fastest expansion dynasty",
+        "note": "2023 & 2025 Cups · fastest expansion dynasty · 2026 Finals",
         "needs": "2–3 more Cups + another dominant era",
         "colors": {
           "primary": "#b4975a",

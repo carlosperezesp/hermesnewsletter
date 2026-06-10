@@ -228,6 +228,12 @@ function SectionIcon({ type }) {
         <circle cx="6" cy="6" r="2" {...common} />
       </>
     ),
+    athletics: (
+      <>
+        <path d="M4 9h16M4 15h16" {...common} />
+        <path d="M4 9a4 4 0 0 0 0 6M20 9a4 4 0 0 1 0 6" {...common} />
+      </>
+    ),
   };
 
   return (
@@ -542,6 +548,7 @@ function NewsletterApp() {
       { id: "rugby", label: "Rugby", icon: "rugby", data: window.RUGBY_DATA },
       { id: "football", label: "Fútbol", icon: "football", data: window.FOOTBALL_DATA },
       { id: "cricket", label: "Cricket", icon: "cricket", data: window.CRICKET_DATA },
+      { id: "athletics", label: "Atletismo", icon: "athletics", data: window.ATHLETICS_DATA },
     ].filter(section => !!section.data).map(section => ({
       ...section,
       ...sectionFreshness(section.data),
@@ -3156,6 +3163,10 @@ function NewsletterApp() {
           const dynasties = (FTB.ROAD_TO_GLORY?.dynasties || []).slice(0, 10);
           const dynastyThreshold = FTB.ROAD_TO_GLORY?.dynastyThreshold || dynasties[9]?.dynastyScore || 70;
           const rawDynastyThreshold = FTB.ROAD_TO_GLORY?.rawDynastyThreshold || 0;
+          const wc = FTB.WORLD_CUP_2026;
+          const wcGroupByCode = {};
+          if (wc?.groups) Object.entries(wc.groups).forEach(([code, info]) => { wcGroupByCode[code] = info; });
+          const topCodes = new Set(teams.map(t => t.teamCode));
 
           function trophyLabel(wc, continental) {
             const parts = [];
@@ -3163,6 +3174,49 @@ function NewsletterApp() {
             if (continental) parts.push(`${continental} continental${continental === 1 ? "" : "es"}`);
             return parts.length ? parts.join(" · ") : "Sin grandes títulos en la era";
           }
+
+          function lastMatchNote(team) {
+            const lm = team.lastMatch;
+            if (!lm || !lm.opponent) return null;
+            const rl = { W: "V", L: "D", D: "E" }[lm.result] || lm.result;
+            const d = lm.date?.substring(5).replace("-", "/");
+            return `Último: ${rl} ${lm.score} vs ${lm.opponent} · ${d}`;
+          }
+
+          function wcMatchDate(dateStr) {
+            const months = ["Ene","Feb","Mar","Abr","May","Jun","Jul","Ago","Sep","Oct","Nov","Dic"];
+            const [, m, d] = dateStr.split("-");
+            return `${parseInt(d)} ${months[parseInt(m) - 1]}`;
+          }
+
+          function eloChipStyle(elo) {
+            if (!elo) return { bg: "#f0ede8", fg: "#999" };
+            if (elo >= 2000) return { bg: "#dcefe2", fg: "#1f7a3d" };
+            if (elo >= 1900) return { bg: "#e8efdc", fg: "#5f7d1e" };
+            if (elo >= 1800) return { bg: "#f5ead4", fg: "#a86513" };
+            if (elo >= 1700) return { bg: "#fde8d8", fg: "#c05a20" };
+            return { bg: "#f8ded9", fg: "#c92d2d" };
+          }
+
+          function deltaChipStyle(delta) {
+            if (delta >= 6)  return { bg: "#dcefe2", fg: "#1f7a3d" };
+            if (delta > 0)   return { bg: "#e8efdc", fg: "#5f7d1e" };
+            if (delta === 0) return { bg: "#f0ede8", fg: "#888" };
+            if (delta > -6)  return { bg: "#f5ead4", fg: "#a86513" };
+            return { bg: "#f8ded9", fg: "#c92d2d" };
+          }
+
+          const chipBase = {
+            display: "inline-flex", alignItems: "center",
+            fontSize: 10, fontFamily: "monospace", fontWeight: 700,
+            padding: "1px 5px", borderRadius: 3, verticalAlign: "middle",
+          };
+
+          const matchRowStyle = {
+            display: "flex", alignItems: "center", gap: 8,
+            padding: "7px 0", borderTop: "1px solid var(--border,#e0dcd5)",
+            fontSize: 13,
+          };
 
           return (
             <>
@@ -3175,11 +3229,60 @@ function NewsletterApp() {
                 <div className="newsletter-hero__title-row">
                   <h1>Fútbol de Selecciones</h1>
                   <p>
-                    Top 10 masculino por rating Elo y dinastías históricas:
-                    años como referencia mundial, Mundiales y títulos continentales.
+                    Top 10 masculino por rating Elo y dinastías históricas.
+                    {wc && <> <strong>Mundial 2026</strong> — {wc.hosts} · del {wc.startDate} al {wc.finalDate}.</>}
                   </p>
                 </div>
               </header>
+
+              {wc && wc.upcomingMatches && wc.upcomingMatches.length > 0 && (
+                <NewsletterSection
+                  kicker={`Mundial 2026 · ${wc.phase === "pre_tournament" ? "Arranca mañana" : "En curso"}`}
+                  title="Próximos partidos — Top 10 Elo"
+                  sub={`${wc.hosts} · 48 selecciones · Fase de grupos`}
+                >
+                  {[1, 2].map(round => {
+                    const roundMatches = wc.upcomingMatches.filter(
+                      m => m.round === round && (topCodes.has(m.home) || topCodes.has(m.away))
+                    );
+                    if (!roundMatches.length) return null;
+                    return (
+                      <React.Fragment key={round}>
+                        <div style={{ fontSize: 10, fontWeight: 700, letterSpacing: "0.15em", textTransform: "uppercase",
+                          color: "var(--muted,#888)", padding: "10px 0 4px", marginTop: round === 2 ? 12 : 0 }}>
+                          Jornada {round}
+                        </div>
+                        {roundMatches.map((m, i) => {
+                          const hc = eloChipStyle(m.homeElo);
+                          const ac = eloChipStyle(m.awayElo);
+                          return (
+                            <div key={i} style={matchRowStyle}>
+                              <span style={{ fontFamily: "monospace", fontSize: 11, color: "var(--muted,#888)", minWidth: 70, flexShrink: 0 }}>
+                                {wcMatchDate(m.date)} · {m.timeET}
+                              </span>
+                              <span style={{ flex: 1, display: "flex", alignItems: "center", gap: 5, flexWrap: "wrap" }}>
+                                <span style={{ fontWeight: 700 }}>{m.homeName}</span>
+                                {m.homeElo && <span style={{ ...chipBase, background: hc.bg, color: hc.fg }}>{m.homeElo}</span>}
+                                <span style={{ color: "var(--muted,#888)", fontSize: 11 }}>vs</span>
+                                <span style={{ fontWeight: 700 }}>{m.awayName}</span>
+                                {m.awayElo && <span style={{ ...chipBase, background: ac.bg, color: ac.fg }}>{m.awayElo}</span>}
+                              </span>
+                              <span style={{ fontSize: 10, fontFamily: "monospace", fontWeight: 700,
+                                background: "var(--ink,#1a1714)", color: "var(--paper,#faf9f7)",
+                                padding: "2px 6px", borderRadius: 3, letterSpacing: "0.05em", flexShrink: 0 }}>
+                                Gr.{m.group}
+                              </span>
+                              <span style={{ fontSize: 11, color: "var(--muted,#888)", minWidth: 110, textAlign: "right", flexShrink: 0 }}>
+                                {m.city}
+                              </span>
+                            </div>
+                          );
+                        })}
+                      </React.Fragment>
+                    );
+                  })}
+                </NewsletterSection>
+              )}
 
               <NewsletterSection
                 kicker="Football Elo"
@@ -3194,13 +3297,27 @@ function NewsletterApp() {
                       item={team}
                       alive={new Set()}
                       score={team.eloScore}
-                      scoreDisplay={team.elo}
+                      scoreDisplay={(() => {
+                        const delta = team.lastMatch?.eloDelta;
+                        if (delta == null) return team.elo;
+                        const dc = deltaChipStyle(delta);
+                        return (
+                          <span style={{ display: "inline-flex", alignItems: "center", gap: 4 }}>
+                            {team.elo}
+                            <span style={{ ...chipBase, background: dc.bg, color: dc.fg }}>
+                              {delta > 0 ? `+${delta}` : `${delta}`}
+                            </span>
+                          </span>
+                        );
+                      })()}
                       scoreLabel="Elo"
                       scoreB={team.worldCups}
                       scoreBDisplay={team.worldCups}
                       scoreBLabel="Mundiales"
-                      meta={`Selecciones · ${team.country}`}
-                      note={`${trophyLabel(team.worldCups, team.continentalTitles)}. ${team.note}`}
+                      meta={wcGroupByCode[team.teamCode]
+                        ? `Grupo ${wcGroupByCode[team.teamCode].group} · ${wcGroupByCode[team.teamCode].groupTeams.join(", ")}`
+                        : `Selecciones · ${team.country}`}
+                      note={[lastMatchNote(team), trophyLabel(team.worldCups, team.continentalTitles)].filter(Boolean).join(" · ")}
                       logo={team.logo}
                     />
                   ))}
@@ -3428,6 +3545,108 @@ function NewsletterApp() {
                   ))}
                 </div>
               </NewsletterSection>
+            </>
+          );
+        })()}
+        </div>
+
+        <div data-section="athletics" style={sectionStyle("athletics", window.ATHLETICS_DATA?.IMPORTANCE || 7)}>
+        {/* ── ATLETISMO ─────────────────────────────────────── */}
+        {window.ATHLETICS_DATA && (() => {
+          const ATH = window.ATHLETICS_DATA;
+          const meeting = ATH.NEXT_MEETING;
+          const eventHeaderStyle = {
+            fontSize: 11, fontWeight: 700, letterSpacing: "0.12em", textTransform: "uppercase",
+            color: "var(--ink,#1a1714)", padding: "12px 0 5px", marginTop: 4,
+            borderTop: "1px solid var(--border,#e0dcd5)",
+            display: "flex", gap: 10, alignItems: "baseline", flexWrap: "wrap",
+          };
+          const wrStyle = {
+            fontWeight: 400, fontSize: 10, color: "var(--muted,#888)",
+            textTransform: "none", letterSpacing: 0,
+          };
+
+          return (
+            <>
+              <header className="newsletter-hero" style={{ marginTop: 48 }}>
+                <div className="newsletter-hero__masthead">
+                  <span>Athletics Tracker</span>
+                  <span>Diamond League {ATH.SEASON}</span>
+                  <span>Actualizado {ATH.UPDATED}</span>
+                </div>
+                <div className="newsletter-hero__title-row">
+                  <h1>Atletismo</h1>
+                  <p>
+                    Los 32 eventos de la Diamond League {ATH.SEASON}: líderes de temporada,
+                    records del mundo y leyendas de la pista.
+                    {meeting && meeting.state === "upcoming" && (
+                      <> Próxima cita: <strong>{meeting.name}</strong> · {meeting.location} · {meeting.date}.</>
+                    )}
+                  </p>
+                </div>
+              </header>
+
+              {(ATH.GROUPS || []).map(group => (
+                <NewsletterSection
+                  key={group.id}
+                  kicker="Diamond League"
+                  title={group.label}
+                  sub={`${group.sub} · Top 3 por evento · DL ${ATH.SEASON}`}
+                >
+                  {(group.events || []).map(event => (
+                    <React.Fragment key={event.id}>
+                      <div style={eventHeaderStyle}>
+                        <span>{event.name}</span>
+                        <span style={wrStyle}>
+                          WR {event.wr.mark} · {event.wr.athlete} ({event.wr.country}, {event.wr.year})
+                        </span>
+                      </div>
+                      <div className="newsletter-list">
+                        {(event.athletes || []).map((athlete, i) => (
+                          <NewsletterRankRow
+                            key={athlete.id}
+                            rank={i + 1}
+                            item={athlete}
+                            alive={new Set()}
+                            score={athlete.activeScore}
+                            scoreDisplay={athlete.sb}
+                            scoreLabel="SB"
+                            meta={`${event.name.split("—")[0].trim()} · ${athlete.country}`}
+                            note={`PB: ${athlete.pb}`}
+                            logo={athlete.logo}
+                            prevRank={athlete.prevRank}
+                          />
+                        ))}
+                      </div>
+                    </React.Fragment>
+                  ))}
+                </NewsletterSection>
+              ))}
+
+              {ATH.LEGENDS && ATH.LEGENDS.length > 0 && (
+                <NewsletterSection
+                  kicker="Historia"
+                  title="Leyendas del atletismo"
+                  sub="Los más grandes de la historia: dominio olímpico, records del mundo y legado universal."
+                >
+                  <div className="newsletter-list">
+                    {ATH.LEGENDS.map((legend, i) => (
+                      <NewsletterRankRow
+                        key={legend.id}
+                        rank={i + 1}
+                        item={legend}
+                        alive={new Set()}
+                        score={legend.legendScore}
+                        scoreLabel="Legacy"
+                        meta={`${legend.events} · ${legend.country}`}
+                        note={legend.note}
+                        logo={legend.logo}
+                        legendActive={legend.active}
+                      />
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
             </>
           );
         })()}

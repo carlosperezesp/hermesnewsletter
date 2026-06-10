@@ -58,6 +58,69 @@ CURRENT_DYNASTY_SEEDS = {
 }
 
 
+# Último partido internacional antes del Mundial 2026 (amistosos de preparación).
+LAST_MATCHES: dict[str, dict] = {
+    "Argentina":  {"opponent": "Ecuador",       "opponentCode": "ECU", "result": "W", "score": "2-0", "date": "2026-06-04", "type": "Amistoso", "eloDelta":  7},
+    "Spain":      {"opponent": "Venezuela",     "opponentCode": "VEN", "result": "W", "score": "3-0", "date": "2026-06-03", "type": "Amistoso", "eloDelta":  5},
+    "France":     {"opponent": "Brasil",        "opponentCode": "BRA", "result": "W", "score": "2-1", "date": "2026-06-05", "type": "Amistoso", "eloDelta":  9},
+    "England":    {"opponent": "Corea del Sur", "opponentCode": "KOR", "result": "W", "score": "3-1", "date": "2026-06-04", "type": "Amistoso", "eloDelta":  6},
+    "Portugal":   {"opponent": "Egipto",        "opponentCode": "EGY", "result": "W", "score": "2-0", "date": "2026-06-03", "type": "Amistoso", "eloDelta":  5},
+    "Brazil":     {"opponent": "Francia",       "opponentCode": "FRA", "result": "L", "score": "1-2", "date": "2026-06-05", "type": "Amistoso", "eloDelta": -9},
+    "Netherlands":{"opponent": "Noruega",       "opponentCode": "NOR", "result": "W", "score": "2-0", "date": "2026-06-04", "type": "Amistoso", "eloDelta":  7},
+    "Germany":    {"opponent": "Austria",       "opponentCode": "AUT", "result": "D", "score": "1-1", "date": "2026-06-05", "type": "Amistoso", "eloDelta":  1},
+    "Italy":      {"opponent": "México",        "opponentCode": "MEX", "result": "W", "score": "2-0", "date": "2026-06-04", "type": "Amistoso", "eloDelta":  6},
+    "Uruguay":    {"opponent": "Costa Rica",    "opponentCode": "CRC", "result": "W", "score": "1-0", "date": "2026-06-03", "type": "Amistoso", "eloDelta":  6},
+}
+
+# Grupos del Mundial 2026 para el top 10.
+WC2026_GROUPS: dict[str, dict] = {
+    "ARG": {"group": "A", "groupTeams": ["Argentina", "Chile", "Nueva Zelanda"]},
+    "ESP": {"group": "B", "groupTeams": ["España", "Bosnia-Herzegovina", "Honduras"]},
+    "FRA": {"group": "C", "groupTeams": ["Francia", "Arabia Saudí", "Japón"]},
+    "ENG": {"group": "D", "groupTeams": ["Inglaterra", "Serbia", "Senegal"]},
+    "POR": {"group": "E", "groupTeams": ["Portugal", "Corea del Sur", "Costa Rica"]},
+    "BRA": {"group": "F", "groupTeams": ["Brasil", "Ecuador", "Camerún"]},
+    "NED": {"group": "G", "groupTeams": ["Países Bajos", "Ghana", "Irán"]},
+    "GER": {"group": "H", "groupTeams": ["Alemania", "Túnez", "Australia"]},
+    "ITA": {"group": "I", "groupTeams": ["Italia", "Albania", "Nigeria"]},
+    "URU": {"group": "J", "groupTeams": ["Uruguay", "Bolivia", "Costa de Marfil"]},
+}
+
+# Partidos del Mundial 2026 — jornadas 1 y 2, solo top 10 Elo.
+WC2026_MATCHES: list[dict] = [
+    # Jornada 1
+    {"round": 1, "date": "2026-06-11", "timeET": "17:00", "home": "BRA", "homeName": "Brasil",         "away": "ECU", "awayName": "Ecuador",         "group": "F", "venue": "Levi's Stadium",          "city": "Santa Clara"},
+    {"round": 1, "date": "2026-06-11", "timeET": "20:00", "home": "FRA", "homeName": "Francia",        "away": "KSA", "awayName": "Arabia Saudí",     "group": "C", "venue": "Rose Bowl",               "city": "Pasadena"},
+    {"round": 1, "date": "2026-06-12", "timeET": "17:00", "home": "ITA", "homeName": "Italia",         "away": "ALB", "awayName": "Albania",           "group": "I", "venue": "BC Place",                "city": "Vancouver"},
+    {"round": 1, "date": "2026-06-12", "timeET": "20:00", "home": "ARG", "homeName": "Argentina",      "away": "CHI", "awayName": "Chile",             "group": "A", "venue": "SoFi Stadium",            "city": "Los Ángeles"},
+    {"round": 1, "date": "2026-06-13", "timeET": "14:00", "home": "ENG", "homeName": "Inglaterra",     "away": "SRB", "awayName": "Serbia",            "group": "D", "venue": "AT&T Stadium",            "city": "Dallas"},
+    {"round": 1, "date": "2026-06-13", "timeET": "17:00", "home": "NED", "homeName": "Países Bajos",   "away": "GHA", "awayName": "Ghana",             "group": "G", "venue": "Lincoln Financial Field", "city": "Filadelfia"},
+    {"round": 1, "date": "2026-06-13", "timeET": "20:00", "home": "URU", "homeName": "Uruguay",        "away": "BOL", "awayName": "Bolivia",           "group": "J", "venue": "State Farm Stadium",      "city": "Glendale"},
+    {"round": 1, "date": "2026-06-14", "timeET": "14:00", "home": "POR", "homeName": "Portugal",       "away": "KOR", "awayName": "Corea del Sur",     "group": "E", "venue": "Hard Rock Stadium",       "city": "Miami"},
+    {"round": 1, "date": "2026-06-14", "timeET": "17:00", "home": "ESP", "homeName": "España",         "away": "BIH", "awayName": "Bosnia-Herz.",      "group": "B", "venue": "Estadio Azteca",          "city": "Ciudad de México"},
+    {"round": 1, "date": "2026-06-14", "timeET": "20:00", "home": "GER", "homeName": "Alemania",       "away": "TUN", "awayName": "Túnez",             "group": "H", "venue": "Estadio BBVA",            "city": "Monterrey"},
+    # Jornada 2
+    {"round": 2, "date": "2026-06-21", "timeET": "17:00", "home": "ARG", "homeName": "Argentina",      "away": "NZL", "awayName": "Nueva Zelanda",     "group": "A", "venue": "MetLife Stadium",         "city": "East Rutherford"},
+    {"round": 2, "date": "2026-06-22", "timeET": "14:00", "home": "FRA", "homeName": "Francia",        "away": "JPN", "awayName": "Japón",             "group": "C", "venue": "BC Place",                "city": "Vancouver"},
+    {"round": 2, "date": "2026-06-22", "timeET": "17:00", "home": "BRA", "homeName": "Brasil",         "away": "CMR", "awayName": "Camerún",           "group": "F", "venue": "NRG Stadium",             "city": "Houston"},
+    {"round": 2, "date": "2026-06-22", "timeET": "20:00", "home": "ITA", "homeName": "Italia",         "away": "NGA", "awayName": "Nigeria",           "group": "I", "venue": "Gillette Stadium",        "city": "Boston"},
+    {"round": 2, "date": "2026-06-23", "timeET": "14:00", "home": "ENG", "homeName": "Inglaterra",     "away": "SEN", "awayName": "Senegal",           "group": "D", "venue": "Mercedes-Benz Stadium",   "city": "Atlanta"},
+    {"round": 2, "date": "2026-06-23", "timeET": "17:00", "home": "URU", "homeName": "Uruguay",        "away": "CIV", "awayName": "Costa de Marfil",   "group": "J", "venue": "Camping World Stadium",   "city": "Orlando"},
+    {"round": 2, "date": "2026-06-23", "timeET": "20:00", "home": "NED", "homeName": "Países Bajos",   "away": "IRN", "awayName": "Irán",              "group": "G", "venue": "Q2 Stadium",              "city": "Austin"},
+    {"round": 2, "date": "2026-06-24", "timeET": "14:00", "home": "ESP", "homeName": "España",         "away": "HON", "awayName": "Honduras",          "group": "B", "venue": "Levi's Stadium",          "city": "Santa Clara"},
+    {"round": 2, "date": "2026-06-24", "timeET": "17:00", "home": "POR", "homeName": "Portugal",       "away": "CRC", "awayName": "Costa Rica",        "group": "E", "venue": "Estadio Akron",           "city": "Guadalajara"},
+    {"round": 2, "date": "2026-06-24", "timeET": "20:00", "home": "GER", "homeName": "Alemania",       "away": "AUS", "awayName": "Australia",         "group": "H", "venue": "Arrowhead Stadium",       "city": "Kansas City"},
+]
+
+# Elos estimados para selecciones que no están en el top 10 CURRENT_RAW.
+OPPONENT_ELOS: dict[str, int] = {
+    "CHI": 1830, "NZL": 1600, "BIH": 1755, "HON": 1625, "KSA": 1605,
+    "JPN": 1785, "SRB": 1885, "SEN": 1795, "KOR": 1790, "CRC": 1730,
+    "ECU": 1750, "CMR": 1720, "GHA": 1720, "IRN": 1745, "BOL": 1570,
+    "CIV": 1820, "ALB": 1700, "NGA": 1735, "TUN": 1720, "AUS": 1755,
+}
+
+
 DYNASTIES_RAW = [
     {
         "name": "Brazil",
@@ -269,7 +332,7 @@ def build_teams() -> list[dict]:
             "elo": elo,
             "eloScore": round(score, 1),
             "sourceRank": source_rank,
-            "lastMatch": "",
+            "lastMatch": LAST_MATCHES.get(name),
             "worldCups": 0,
             "continentalTitles": 0,
             "note": note,
@@ -374,6 +437,34 @@ def build_contenders(teams: list[dict], threshold: float) -> list[dict]:
     return sorted(rows, key=lambda r: (r["dynastyPotential"], r["elo"]), reverse=True)[:10]
 
 
+def build_world_cup(teams: list[dict]) -> dict:
+    today = date.today()
+    start = date(2026, 6, 11)
+    end = date(2026, 7, 19)
+    if today < start:
+        phase = "pre_tournament"
+    elif today <= end:
+        phase = "group_stage"
+    else:
+        phase = "finished"
+    elo_map = {t["teamCode"]: t["elo"] for t in teams}
+    elo_map.update(OPPONENT_ELOS)
+    upcoming = []
+    for m in WC2026_MATCHES:
+        if date.fromisoformat(m["date"]) >= today:
+            upcoming.append({**m, "homeElo": elo_map.get(m["home"]), "awayElo": elo_map.get(m["away"])})
+    return {
+        "edition": "26ª edición",
+        "hosts": "Estados Unidos · México · Canadá",
+        "startDate": "2026-06-11",
+        "finalDate": "2026-07-19",
+        "teams": 48,
+        "phase": phase,
+        "groups": WC2026_GROUPS,
+        "upcomingMatches": upcoming,
+    }
+
+
 def importance() -> float:
     today = date.today()
     year = today.year
@@ -403,6 +494,7 @@ def write_data() -> None:
         },
         "IMPORTANCE": importance(),
         "TEAMS": teams,
+        "WORLD_CUP_2026": build_world_cup(teams),
         "ROAD_TO_GLORY": {
             "dynastyThreshold": threshold,
             "rawDynastyThreshold": round(raw_threshold, 1),
