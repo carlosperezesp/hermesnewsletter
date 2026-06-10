@@ -3388,6 +3388,9 @@ function NewsletterApp() {
             ["T20", CRI.FORMAT_KINGS?.t20 || []],
           ];
           const wtc = CRI.WTC?.standings || [];
+          const wtcRecent = CRI.WTC?.recentMatches || [];
+          const wtcUpcoming = CRI.WTC?.upcomingMatches || [];
+          const wtcPlayers = CRI.WTC?.players || [];
           const trophies = CRI.TROPHIES || [];
           const road = CRI.ROAD_TO_GLORY?.players || [];
           const legendThreshold = CRI.ROAD_TO_GLORY?.playerThreshold || 79;
@@ -3401,6 +3404,21 @@ function NewsletterApp() {
           function cricketNote(p) {
             const s = p.stats || {};
             return `Test ${s.test ?? "-"} · ODI ${s.odi ?? "-"} · T20 ${s.t20 ?? "-"} · Franq. ${s.franchise ?? "-"}`;
+          }
+
+          const wtcMatchRow = {
+            display: "grid",
+            gridTemplateColumns: "78px minmax(0,1fr)",
+            columnGap: 10,
+            rowGap: 2,
+            alignItems: "center",
+            padding: "8px 0",
+            borderTop: "1px solid var(--border,#e0dcd5)",
+            fontSize: 12,
+          };
+
+          function wtcMatchLine(m) {
+            return `${m.match} · ${m.home} v ${m.away}`;
           }
 
           return (
@@ -3479,7 +3497,7 @@ function NewsletterApp() {
               <NewsletterSection
                 kicker="World Test Championship"
                 title={`WTC Race ${CRI.WTC?.cycle || ""}`}
-                sub="Snapshot Hermes de la carrera: PCT como score y línea roja aproximada del corte actual de final."
+                sub={`${CRI.WTC?.sourceNote || "Tabla WTC actual."} PCT como score y línea roja aproximada del corte actual de final.`}
               >
                 <div className="newsletter-list">
                   {wtc.map((team, i) => (
@@ -3492,9 +3510,73 @@ function NewsletterApp() {
                       scoreDisplay={`${team.pct.toFixed(1)}%`}
                       scoreLabel="PCT"
                       threshold={wtcThreshold}
-                      meta={`WTC · ${team.country} · ${team.played} Tests`}
-                      note={team.note}
+                      meta={`WTC · ${team.played} Tests · ${team.points} pts`}
+                      note={`${team.won}V-${team.lost}D-${team.drawn}E. ${team.note}`}
                       logo={team.logo}
+                    />
+                  ))}
+                </div>
+              </NewsletterSection>
+
+              <NewsletterSection
+                kicker="WTC Fixture Board"
+                title="Últimos 5 y próximos 5 Tests WTC"
+                sub="Resultados recientes y calendario inmediato del ciclo 2025-27."
+              >
+                <div className="cricket-format-grid">
+                  <div className="cricket-format">
+                    <div className="cricket-format__head">Últimos 5</div>
+                    {wtcRecent.map((m, i) => (
+                      <div key={`recent-${i}`} style={wtcMatchRow}>
+                        <span style={{ fontFamily: "monospace", color: "var(--muted,#888)" }}>{m.date}</span>
+                        <span>
+                          <strong>{wtcMatchLine(m)}</strong>
+                          <br />
+                          <span style={{ color: "var(--muted,#888)" }}>{m.venue}</span>
+                        </span>
+                        <span style={{ gridColumn: "2", fontWeight: 700 }}>{m.result}</span>
+                      </div>
+                    ))}
+                  </div>
+                  <div className="cricket-format">
+                    <div className="cricket-format__head">Próximos 5</div>
+                    {wtcUpcoming.map((m, i) => (
+                      <div key={`upcoming-${i}`} style={wtcMatchRow}>
+                        <span style={{ fontFamily: "monospace", color: "var(--muted,#888)" }}>{m.date}</span>
+                        <span>
+                          <strong>{wtcMatchLine(m)}</strong>
+                          <br />
+                          <span style={{ color: "var(--muted,#888)" }}>{m.venue}</span>
+                        </span>
+                        <span style={{ gridColumn: "2", color: "var(--muted,#888)" }}>{m.series}</span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              </NewsletterSection>
+
+              <NewsletterSection
+                kicker="WTC Player Index"
+                title="Top 10 jugadores del ciclo WTC 2025-27"
+                sub="Nivel 0-100 del ciclo Test actual, acompañado de score de leyenda de carrera."
+              >
+                <div className="newsletter-list">
+                  {wtcPlayers.map((p, i) => (
+                    <NewsletterRankRow
+                      key={p.id}
+                      rank={i + 1}
+                      item={p}
+                      alive={new Set()}
+                      score={p.level}
+                      scoreDisplay={p.level.toFixed(1)}
+                      scoreLabel="WTC"
+                      scoreB={p.legendScore}
+                      scoreBDisplay={p.legendScore.toFixed(1)}
+                      scoreBLabel="Leyenda"
+                      scoreBThreshold={legendThreshold}
+                      meta={`WTC 2025-27 · ${p.country} · ${p.role}`}
+                      note={`${p.stats.runs} runs · ${p.stats.wickets} wickets. ${p.note}`}
+                      logo={p.logo}
                     />
                   ))}
                 </div>

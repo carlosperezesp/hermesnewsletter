@@ -106,6 +106,49 @@ TROPHIES = [
 
 HISTORIC_TOP_10_THRESHOLD = 79.0
 
+WTC_TEAMS = {"Australia", "Bangladesh", "England", "India", "New Zealand", "Pakistan", "South Africa", "Sri Lanka", "West Indies"}
+
+WTC_STANDINGS = [
+    {"rank": 1, "name": "Australia", "played": 8, "won": 7, "lost": 1, "drawn": 0, "points": 84, "pct": 87.50, "note": "7 victorias en 8 Tests; ritmo claro de final."},
+    {"rank": 2, "name": "South Africa", "played": 4, "won": 3, "lost": 1, "drawn": 0, "points": 36, "pct": 75.00, "note": "Actual campeona WTC, todavía en plaza de final."},
+    {"rank": 3, "name": "Sri Lanka", "played": 2, "won": 1, "lost": 0, "drawn": 1, "points": 16, "pct": 66.67, "note": "Pocos partidos, PCT alto y margen estrecho."},
+    {"rank": 4, "name": "New Zealand", "played": 4, "won": 2, "lost": 1, "drawn": 1, "points": 28, "pct": 58.33, "note": "Cayó al cuarto puesto tras perder en Lord's."},
+    {"rank": 5, "name": "Bangladesh", "played": 4, "won": 2, "lost": 1, "drawn": 1, "points": 28, "pct": 58.33, "note": "Empatada con NZ en PCT tras barrer a Pakistán."},
+    {"rank": 6, "name": "India", "played": 9, "won": 4, "lost": 4, "drawn": 1, "points": 52, "pct": 48.15, "note": "Mucho volumen jugado; necesita una racha fuerte."},
+    {"rank": 7, "name": "England", "played": 11, "won": 4, "lost": 6, "drawn": 1, "points": 50, "pct": 37.88, "note": "La victoria ante NZ ayuda, pero sigue lejos del corte."},
+    {"rank": 8, "name": "Pakistan", "played": 4, "won": 1, "lost": 3, "drawn": 0, "points": 4, "pct": 8.33, "note": "Penalizada con -8 puntos por over-rate."},
+    {"rank": 9, "name": "West Indies", "played": 8, "won": 0, "lost": 7, "drawn": 1, "points": 4, "pct": 4.17, "note": "Sin victoria en el ciclo; necesita giro drástico."},
+]
+
+WTC_RECENT_MATCHES = [
+    {"date": "2026-06-07", "series": "England v New Zealand", "match": "1st Test", "home": "England", "away": "New Zealand", "venue": "Lord's, London", "result": "England ganó por 115 runs", "winner": "ENG"},
+    {"date": "2026-05-20", "series": "Bangladesh v Pakistan", "match": "2nd Test", "home": "Bangladesh", "away": "Pakistan", "venue": "Sylhet", "result": "Bangladesh ganó por 78 runs", "winner": "BAN"},
+    {"date": "2026-05-12", "series": "Bangladesh v Pakistan", "match": "1st Test", "home": "Bangladesh", "away": "Pakistan", "venue": "Mirpur, Dhaka", "result": "Bangladesh ganó por 104 runs", "winner": "BAN"},
+    {"date": "2025-12-22", "series": "New Zealand v West Indies", "match": "3rd Test", "home": "New Zealand", "away": "West Indies", "venue": "Bay Oval, Mount Maunganui", "result": "New Zealand selló la serie 2-0", "winner": "NZ"},
+    {"date": "2025-12-12", "series": "New Zealand v West Indies", "match": "2nd Test", "home": "New Zealand", "away": "West Indies", "venue": "Basin Reserve, Wellington", "result": "New Zealand ganó por 9 wickets", "winner": "NZ"},
+]
+
+WTC_UPCOMING_MATCHES = [
+    {"date": "2026-06-17", "series": "England v New Zealand", "match": "2nd Test", "home": "England", "away": "New Zealand", "venue": "The Oval, London"},
+    {"date": "2026-06-25", "series": "England v New Zealand", "match": "3rd Test", "home": "England", "away": "New Zealand", "venue": "Trent Bridge, Nottingham"},
+    {"date": "2026-06-25", "series": "West Indies v Sri Lanka", "match": "1st Test", "home": "West Indies", "away": "Sri Lanka", "venue": "Sir Vivian Richards Stadium, North Sound"},
+    {"date": "2026-07-03", "series": "West Indies v Sri Lanka", "match": "2nd Test", "home": "West Indies", "away": "Sri Lanka", "venue": "Sir Vivian Richards Stadium, North Sound"},
+    {"date": "2026-07-25", "series": "West Indies v Pakistan", "match": "1st Test", "home": "West Indies", "away": "Pakistan", "venue": "Caribbean venue TBC"},
+]
+
+WTC_PLAYER_SEEDS = [
+    {"name": "Shubman Gill", "country": "India", "role": "Batter", "level": 100.0, "runs": 950, "wickets": 0, "note": "950 runs, cinco cientos y 269 como pico del ciclo."},
+    {"name": "Joe Root", "country": "England", "role": "Batter", "level": 97.8, "runs": 937, "wickets": 0, "note": "937 runs; sigue sosteniendo el techo técnico de Inglaterra."},
+    {"name": "Travis Head", "country": "Australia", "role": "Batter", "level": 92.4, "runs": 853, "wickets": 0, "note": "Impacto enorme en el dominio australiano."},
+    {"name": "Harry Brook", "country": "England", "role": "Batter", "level": 90.7, "runs": 839, "wickets": 0, "note": "Volumen, velocidad y cuatro fifties en el ciclo."},
+    {"name": "Mitchell Starc", "country": "Australia", "role": "Bowler", "level": 89.8, "runs": 120, "wickets": 34, "note": "Picos de 7/58 y 6/9; wicket-taking de élite."},
+    {"name": "KL Rahul", "country": "India", "role": "Batter", "level": 86.3, "runs": 796, "wickets": 0, "note": "Promedio cerca de 50 y tres cientos."},
+    {"name": "Jacob Duffy", "country": "New Zealand", "role": "Bowler", "level": 84.1, "runs": 70, "wickets": 23, "note": "Jugador de la serie ante West Indies; NZ revive con su pelota."},
+    {"name": "Keshav Maharaj", "country": "South Africa", "role": "Bowler", "level": 82.9, "runs": 155, "wickets": 18, "note": "7/102 en Rawalpindi y control largo de innings."},
+    {"name": "Aiden Markram", "country": "South Africa", "role": "Batter", "level": 81.6, "runs": 510, "wickets": 1, "note": "Runs importantes y campo de élite para la campeona."},
+    {"name": "Nahid Rana", "country": "Bangladesh", "role": "Bowler", "level": 80.2, "runs": 35, "wickets": 15, "note": "Spell decisivo en la victoria histórica ante Pakistán."},
+]
+
 
 def fetch_archive(name: str, max_age_hours: float = 18.0) -> bytes | None:
     path = CACHE / f"{name}_json.zip"
@@ -349,23 +392,45 @@ def trophy_rows() -> list[dict]:
 
 
 def wtc_rows(groups: dict[str, list[dict]]) -> list[dict]:
-    # WTC official standings are awkward to consume reliably. This proxy is
-    # recalculated from recent completed Tests and clearly labelled in the UI.
-    by_team: dict[str, float] = defaultdict(float)
-    for p in groups.get("test", [])[:30]:
-        by_team[p["country"]] += p["score"]
     rows = []
-    for team, total in by_team.items():
-        meta = team_meta(team)
+    for seed in WTC_STANDINGS:
+        meta = team_meta(seed["name"])
         rows.append({
             **meta,
-            "name": team,
-            "score": round(total / 3.0, 1),
-            "pct": round(total / 3.0, 1),
-            "played": 0,
-            "note": "Proxy Hermes desde rendimiento Test reciente; sustituible por standings ICC oficiales.",
+            "name": seed["name"],
+            "rank": seed["rank"],
+            "score": seed["pct"],
+            "pct": seed["pct"],
+            "played": seed["played"],
+            "won": seed["won"],
+            "lost": seed["lost"],
+            "drawn": seed["drawn"],
+            "points": seed["points"],
+            "note": seed["note"],
         })
-    return sorted(rows, key=lambda x: x["score"], reverse=True)[:8]
+    return rows
+
+
+def wtc_player_rows() -> list[dict]:
+    rows = []
+    for seed in WTC_PLAYER_SEEDS:
+        meta = team_meta(seed["country"])
+        legend = max(
+            LEGACY_SEEDS.get(seed["name"], 0.0),
+            min(96.0, seed["level"] * 0.48 + math.log1p(seed["runs"] + seed["wickets"] * 35) * 5.4),
+        )
+        rows.append({
+            **meta,
+            "id": seed["name"].lower().replace(" ", "-").replace(".", ""),
+            "name": seed["name"],
+            "role": seed["role"],
+            "score": seed["level"],
+            "level": seed["level"],
+            "legendScore": round(legend, 1),
+            "stats": {"runs": seed["runs"], "wickets": seed["wickets"]},
+            "note": seed["note"],
+        })
+    return sorted(rows, key=lambda x: x["level"], reverse=True)[:10]
 
 
 def main() -> int:
@@ -418,7 +483,15 @@ def main() -> int:
             "t20": groups.get("t20", []),
             "franchise": groups.get("franchise", []),
         },
-        "WTC": {"cycle": "2025-27", "standings": wtc_rows(groups), "mode": "Hermes Test proxy"},
+        "WTC": {
+            "cycle": "2025-27",
+            "mode": "ICC table snapshot + Hermes WTC player index",
+            "sourceNote": "Standings snapshot through England v New Zealand, 1st Test, 8 Jun 2026.",
+            "standings": wtc_rows(groups),
+            "recentMatches": WTC_RECENT_MATCHES,
+            "upcomingMatches": WTC_UPCOMING_MATCHES,
+            "players": wtc_player_rows(),
+        },
         "TROPHIES": trophy_rows(),
         "ROAD_TO_GLORY": {"playerThreshold": HISTORIC_TOP_10_THRESHOLD, "players": road},
     }
