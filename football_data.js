@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-10 08:35 UTC
+// Auto-generated 2026-06-10 18:37 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-10 08:35 UTC",
+  "UPDATED": "2026-06-10 18:37 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Hermes curated snapshot using World Football Elo / MoreElo-style ratings",
     "notes": "Daily-generated static snapshot; update CURRENT_RAW seeds when source rankings move.",
-    "through": "2026-06-10 08:35 UTC"
+    "through": "2026-06-10 18:37 UTC"
   },
   "IMPORTANCE": 9.0,
   "TEAMS": [
@@ -289,366 +289,339 @@ window.FOOTBALL_DATA = {
     "phase": "pre_tournament",
     "groups": {
       "ARG": {
-        "group": "A",
+        "group": "J",
         "groupTeams": [
           "Argentina",
-          "Chile",
-          "Nueva Zelanda"
+          "Argelia",
+          "Austria",
+          "Jordania"
         ]
       },
       "ESP": {
-        "group": "B",
+        "group": "H",
         "groupTeams": [
           "España",
-          "Bosnia-Herzegovina",
-          "Honduras"
+          "Cabo Verde",
+          "Arabia Saudí",
+          "Uruguay"
         ]
       },
       "FRA": {
-        "group": "C",
+        "group": "I",
         "groupTeams": [
           "Francia",
-          "Arabia Saudí",
-          "Japón"
+          "Senegal",
+          "Irak",
+          "Noruega"
         ]
       },
       "ENG": {
-        "group": "D",
+        "group": "L",
         "groupTeams": [
           "Inglaterra",
-          "Serbia",
-          "Senegal"
+          "Croacia",
+          "Ghana",
+          "Panamá"
         ]
       },
       "POR": {
-        "group": "E",
+        "group": "K",
         "groupTeams": [
           "Portugal",
-          "Corea del Sur",
-          "Costa Rica"
+          "RD Congo",
+          "Uzbekistán",
+          "Colombia"
         ]
       },
       "BRA": {
-        "group": "F",
+        "group": "C",
         "groupTeams": [
           "Brasil",
-          "Ecuador",
-          "Camerún"
+          "Marruecos",
+          "Haití",
+          "Escocia"
         ]
       },
       "NED": {
-        "group": "G",
+        "group": "F",
         "groupTeams": [
           "Países Bajos",
-          "Ghana",
-          "Irán"
+          "Japón",
+          "Suecia",
+          "Túnez"
         ]
       },
       "GER": {
-        "group": "H",
+        "group": "E",
         "groupTeams": [
           "Alemania",
-          "Túnez",
-          "Australia"
-        ]
-      },
-      "ITA": {
-        "group": "I",
-        "groupTeams": [
-          "Italia",
-          "Albania",
-          "Nigeria"
+          "Curazao",
+          "Costa de Marfil",
+          "Ecuador"
         ]
       },
       "URU": {
-        "group": "J",
+        "group": "H",
         "groupTeams": [
-          "Uruguay",
-          "Bolivia",
-          "Costa de Marfil"
+          "España",
+          "Cabo Verde",
+          "Arabia Saudí",
+          "Uruguay"
         ]
       }
     },
     "upcomingMatches": [
       {
         "round": 1,
-        "date": "2026-06-11",
-        "timeET": "17:00",
+        "date": "2026-06-13",
+        "timeET": "TBD",
         "home": "BRA",
         "homeName": "Brasil",
-        "away": "ECU",
-        "awayName": "Ecuador",
-        "group": "F",
-        "venue": "Levi's Stadium",
-        "city": "Santa Clara",
-        "homeElo": 1985,
-        "awayElo": 1750
-      },
-      {
-        "round": 1,
-        "date": "2026-06-11",
-        "timeET": "20:00",
-        "home": "FRA",
-        "homeName": "Francia",
-        "away": "KSA",
-        "awayName": "Arabia Saudí",
+        "away": "MAR",
+        "awayName": "Marruecos",
         "group": "C",
-        "venue": "Rose Bowl",
-        "city": "Pasadena",
-        "homeElo": 2029,
-        "awayElo": 1605
-      },
-      {
-        "round": 1,
-        "date": "2026-06-12",
-        "timeET": "17:00",
-        "home": "ITA",
-        "homeName": "Italia",
-        "away": "ALB",
-        "awayName": "Albania",
-        "group": "I",
-        "venue": "BC Place",
-        "city": "Vancouver",
-        "homeElo": 1945,
-        "awayElo": 1700
-      },
-      {
-        "round": 1,
-        "date": "2026-06-12",
-        "timeET": "20:00",
-        "home": "ARG",
-        "homeName": "Argentina",
-        "away": "CHI",
-        "awayName": "Chile",
-        "group": "A",
-        "venue": "SoFi Stadium",
-        "city": "Los Ángeles",
-        "homeElo": 2133,
-        "awayElo": 1830
-      },
-      {
-        "round": 1,
-        "date": "2026-06-13",
-        "timeET": "14:00",
-        "home": "ENG",
-        "homeName": "Inglaterra",
-        "away": "SRB",
-        "awayName": "Serbia",
-        "group": "D",
-        "venue": "AT&T Stadium",
-        "city": "Dallas",
-        "homeElo": 2017,
-        "awayElo": 1885
-      },
-      {
-        "round": 1,
-        "date": "2026-06-13",
-        "timeET": "17:00",
-        "home": "NED",
-        "homeName": "Países Bajos",
-        "away": "GHA",
-        "awayName": "Ghana",
-        "group": "G",
-        "venue": "Lincoln Financial Field",
-        "city": "Filadelfia",
-        "homeElo": 1976,
-        "awayElo": 1720
-      },
-      {
-        "round": 1,
-        "date": "2026-06-13",
-        "timeET": "20:00",
-        "home": "URU",
-        "homeName": "Uruguay",
-        "away": "BOL",
-        "awayName": "Bolivia",
-        "group": "J",
-        "venue": "State Farm Stadium",
-        "city": "Glendale",
-        "homeElo": 1934,
-        "awayElo": 1570
-      },
-      {
-        "round": 1,
-        "date": "2026-06-14",
-        "timeET": "14:00",
-        "home": "POR",
-        "homeName": "Portugal",
-        "away": "KOR",
-        "awayName": "Corea del Sur",
-        "group": "E",
-        "venue": "Hard Rock Stadium",
-        "city": "Miami",
-        "homeElo": 1997,
-        "awayElo": 1790
-      },
-      {
-        "round": 1,
-        "date": "2026-06-14",
-        "timeET": "17:00",
-        "home": "ESP",
-        "homeName": "España",
-        "away": "BIH",
-        "awayName": "Bosnia-Herz.",
-        "group": "B",
-        "venue": "Estadio Azteca",
-        "city": "Ciudad de México",
-        "homeElo": 2109,
-        "awayElo": 1755
-      },
-      {
-        "round": 1,
-        "date": "2026-06-14",
-        "timeET": "20:00",
-        "home": "GER",
-        "homeName": "Alemania",
-        "away": "TUN",
-        "awayName": "Túnez",
-        "group": "H",
-        "venue": "Estadio BBVA",
-        "city": "Monterrey",
-        "homeElo": 1958,
-        "awayElo": 1720
-      },
-      {
-        "round": 2,
-        "date": "2026-06-21",
-        "timeET": "17:00",
-        "home": "ARG",
-        "homeName": "Argentina",
-        "away": "NZL",
-        "awayName": "Nueva Zelanda",
-        "group": "A",
         "venue": "MetLife Stadium",
         "city": "East Rutherford",
-        "homeElo": 2133,
-        "awayElo": 1600
+        "homeElo": 1985,
+        "awayElo": 1875
       },
       {
-        "round": 2,
-        "date": "2026-06-22",
-        "timeET": "14:00",
-        "home": "FRA",
-        "homeName": "Francia",
+        "round": 1,
+        "date": "2026-06-14",
+        "timeET": "TBD",
+        "home": "GER",
+        "homeName": "Alemania",
+        "away": "CUW",
+        "awayName": "Curazao",
+        "group": "E",
+        "venue": "NRG Stadium",
+        "city": "Houston",
+        "homeElo": 1958,
+        "awayElo": 1560
+      },
+      {
+        "round": 1,
+        "date": "2026-06-14",
+        "timeET": "TBD",
+        "home": "NED",
+        "homeName": "Países Bajos",
         "away": "JPN",
         "awayName": "Japón",
-        "group": "C",
-        "venue": "BC Place",
-        "city": "Vancouver",
-        "homeElo": 2029,
+        "group": "F",
+        "venue": "AT&T Stadium",
+        "city": "Dallas",
+        "homeElo": 1976,
         "awayElo": 1785
       },
       {
-        "round": 2,
-        "date": "2026-06-22",
-        "timeET": "17:00",
-        "home": "BRA",
-        "homeName": "Brasil",
-        "away": "CMR",
-        "awayName": "Camerún",
-        "group": "F",
-        "venue": "NRG Stadium",
-        "city": "Houston",
-        "homeElo": 1985,
-        "awayElo": 1720
+        "round": 1,
+        "date": "2026-06-15",
+        "timeET": "TBD",
+        "home": "KSA",
+        "homeName": "Arabia Saudí",
+        "away": "URU",
+        "awayName": "Uruguay",
+        "group": "H",
+        "venue": "Hard Rock Stadium",
+        "city": "Miami",
+        "homeElo": 1605,
+        "awayElo": 1934
       },
       {
-        "round": 2,
-        "date": "2026-06-22",
-        "timeET": "20:00",
-        "home": "ITA",
-        "homeName": "Italia",
-        "away": "NGA",
-        "awayName": "Nigeria",
-        "group": "I",
-        "venue": "Gillette Stadium",
-        "city": "Boston",
-        "homeElo": 1945,
-        "awayElo": 1735
-      },
-      {
-        "round": 2,
-        "date": "2026-06-23",
-        "timeET": "14:00",
-        "home": "ENG",
-        "homeName": "Inglaterra",
-        "away": "SEN",
-        "awayName": "Senegal",
-        "group": "D",
+        "round": 1,
+        "date": "2026-06-15",
+        "timeET": "TBD",
+        "home": "ESP",
+        "homeName": "España",
+        "away": "CPV",
+        "awayName": "Cabo Verde",
+        "group": "H",
         "venue": "Mercedes-Benz Stadium",
         "city": "Atlanta",
-        "homeElo": 2017,
+        "homeElo": 2109,
+        "awayElo": 1615
+      },
+      {
+        "round": 1,
+        "date": "2026-06-16",
+        "timeET": "TBD",
+        "home": "FRA",
+        "homeName": "Francia",
+        "away": "SEN",
+        "awayName": "Senegal",
+        "group": "I",
+        "venue": "MetLife Stadium",
+        "city": "East Rutherford",
+        "homeElo": 2029,
         "awayElo": 1795
       },
       {
+        "round": 1,
+        "date": "2026-06-16",
+        "timeET": "TBD",
+        "home": "ARG",
+        "homeName": "Argentina",
+        "away": "ALG",
+        "awayName": "Argelia",
+        "group": "J",
+        "venue": "Arrowhead Stadium",
+        "city": "Kansas City",
+        "homeElo": 2133,
+        "awayElo": 1800
+      },
+      {
+        "round": 1,
+        "date": "2026-06-17",
+        "timeET": "TBD",
+        "home": "ENG",
+        "homeName": "Inglaterra",
+        "away": "CRO",
+        "awayName": "Croacia",
+        "group": "L",
+        "venue": "AT&T Stadium",
+        "city": "Dallas",
+        "homeElo": 2017,
+        "awayElo": 1835
+      },
+      {
+        "round": 1,
+        "date": "2026-06-17",
+        "timeET": "TBD",
+        "home": "POR",
+        "homeName": "Portugal",
+        "away": "COD",
+        "awayName": "RD Congo",
+        "group": "K",
+        "venue": "NRG Stadium",
+        "city": "Houston",
+        "homeElo": 1997,
+        "awayElo": 1665
+      },
+      {
         "round": 2,
-        "date": "2026-06-23",
-        "timeET": "17:00",
-        "home": "URU",
-        "homeName": "Uruguay",
+        "date": "2026-06-19",
+        "timeET": "TBD",
+        "home": "BRA",
+        "homeName": "Brasil",
+        "away": "HAI",
+        "awayName": "Haití",
+        "group": "C",
+        "venue": "Lincoln Financial Field",
+        "city": "Filadelfia",
+        "homeElo": 1985,
+        "awayElo": 1545
+      },
+      {
+        "round": 2,
+        "date": "2026-06-20",
+        "timeET": "TBD",
+        "home": "GER",
+        "homeName": "Alemania",
         "away": "CIV",
         "awayName": "Costa de Marfil",
-        "group": "J",
-        "venue": "Camping World Stadium",
-        "city": "Orlando",
-        "homeElo": 1934,
+        "group": "E",
+        "venue": "BMO Field",
+        "city": "Toronto",
+        "homeElo": 1958,
         "awayElo": 1820
       },
       {
         "round": 2,
-        "date": "2026-06-23",
-        "timeET": "20:00",
+        "date": "2026-06-20",
+        "timeET": "TBD",
         "home": "NED",
         "homeName": "Países Bajos",
-        "away": "IRN",
-        "awayName": "Irán",
-        "group": "G",
-        "venue": "Q2 Stadium",
-        "city": "Austin",
+        "away": "SWE",
+        "awayName": "Suecia",
+        "group": "F",
+        "venue": "NRG Stadium",
+        "city": "Houston",
         "homeElo": 1976,
-        "awayElo": 1745
+        "awayElo": 1790
       },
       {
         "round": 2,
-        "date": "2026-06-24",
-        "timeET": "14:00",
+        "date": "2026-06-21",
+        "timeET": "TBD",
+        "home": "URU",
+        "homeName": "Uruguay",
+        "away": "CPV",
+        "awayName": "Cabo Verde",
+        "group": "H",
+        "venue": "Hard Rock Stadium",
+        "city": "Miami",
+        "homeElo": 1934,
+        "awayElo": 1615
+      },
+      {
+        "round": 2,
+        "date": "2026-06-21",
+        "timeET": "TBD",
         "home": "ESP",
         "homeName": "España",
-        "away": "HON",
-        "awayName": "Honduras",
-        "group": "B",
-        "venue": "Levi's Stadium",
-        "city": "Santa Clara",
+        "away": "KSA",
+        "awayName": "Arabia Saudí",
+        "group": "H",
+        "venue": "Mercedes-Benz Stadium",
+        "city": "Atlanta",
         "homeElo": 2109,
-        "awayElo": 1625
+        "awayElo": 1605
       },
       {
         "round": 2,
-        "date": "2026-06-24",
-        "timeET": "17:00",
+        "date": "2026-06-22",
+        "timeET": "TBD",
+        "home": "FRA",
+        "homeName": "Francia",
+        "away": "IRQ",
+        "awayName": "Irak",
+        "group": "I",
+        "venue": "Lincoln Financial Field",
+        "city": "Filadelfia",
+        "homeElo": 2029,
+        "awayElo": 1660
+      },
+      {
+        "round": 2,
+        "date": "2026-06-22",
+        "timeET": "TBD",
+        "home": "ARG",
+        "homeName": "Argentina",
+        "away": "AUT",
+        "awayName": "Austria",
+        "group": "J",
+        "venue": "AT&T Stadium",
+        "city": "Dallas",
+        "homeElo": 2133,
+        "awayElo": 1840
+      },
+      {
+        "round": 2,
+        "date": "2026-06-23",
+        "timeET": "TBD",
+        "home": "ENG",
+        "homeName": "Inglaterra",
+        "away": "GHA",
+        "awayName": "Ghana",
+        "group": "L",
+        "venue": "Gillette Stadium",
+        "city": "Boston",
+        "homeElo": 2017,
+        "awayElo": 1720
+      },
+      {
+        "round": 2,
+        "date": "2026-06-23",
+        "timeET": "TBD",
         "home": "POR",
         "homeName": "Portugal",
-        "away": "CRC",
-        "awayName": "Costa Rica",
-        "group": "E",
-        "venue": "Estadio Akron",
-        "city": "Guadalajara",
+        "away": "UZB",
+        "awayName": "Uzbekistán",
+        "group": "K",
+        "venue": "NRG Stadium",
+        "city": "Houston",
         "homeElo": 1997,
-        "awayElo": 1730
-      },
-      {
-        "round": 2,
-        "date": "2026-06-24",
-        "timeET": "20:00",
-        "home": "GER",
-        "homeName": "Alemania",
-        "away": "AUS",
-        "awayName": "Australia",
-        "group": "H",
-        "venue": "Arrowhead Stadium",
-        "city": "Kansas City",
-        "homeElo": 1958,
-        "awayElo": 1755
+        "awayElo": 1625
       }
     ]
   },
