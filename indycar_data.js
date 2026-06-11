@@ -1,5 +1,5 @@
 window.INDYCAR_DATA = {
-  "UPDATED": "2026-06-10 16:52 UTC",
+  "UPDATED": "2026-06-11 16:40 UTC",
   "SEASON": 2026,
   "ROUND": 9,
   "TOTAL_ROUNDS": 19,
@@ -734,55 +734,7 @@ window.INDYCAR_DATA = {
       }
     }
   ],
-  "LAST_RACE": {
-    "round": null,
-    "name": "Grand Prix of Illinois",
-    "circuit": "Grand Prix of Illinois",
-    "date": "2026-06-08",
-    "winner": "Josef Newgarden",
-    "podium": [
-      {
-        "position": 1,
-        "name": "Josef Newgarden",
-        "country": "USA",
-        "team": "Team Penske",
-        "logo": "https://flagcdn.com/24x18/us.png",
-        "primary": "#E31837"
-      },
-      {
-        "position": 2,
-        "name": "Marcus Ericsson",
-        "country": "SWE",
-        "team": "Andretti Global",
-        "logo": "https://flagcdn.com/24x18/se.png",
-        "primary": "#003DA5"
-      },
-      {
-        "position": 3,
-        "name": "Christian Rasmussen",
-        "country": "DEN",
-        "team": "Ed Carpenter Racing",
-        "logo": "https://flagcdn.com/24x18/dk.png",
-        "primary": "#005EB8"
-      },
-      {
-        "position": 4,
-        "name": "Rinus VeeKay",
-        "country": "NED",
-        "team": "Dale Coyne Racing",
-        "logo": "https://flagcdn.com/24x18/nl.png",
-        "primary": "#111111"
-      },
-      {
-        "position": 5,
-        "name": "Scott McLaughlin",
-        "country": "NZL",
-        "team": "Team Penske",
-        "logo": "https://flagcdn.com/24x18/nz.png",
-        "primary": "#E31837"
-      }
-    ]
-  },
+  "LAST_RACE": null,
   "CURRENT_CONTENDERS": [
     {
       "id": "scott_dixon",

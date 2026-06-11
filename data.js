@@ -44510,6 +44510,22 @@ window.NHL_DATA = {
     ],
     "teams": [
       {
+        "teamCode": "VGK",
+        "city": "Vegas Golden Knights",
+        "era": "2018–present",
+        "cups": 2,
+        "dynastyScore": 71.0,
+        "threshold": 89.7,
+        "gap": 18.7,
+        "note": "2023 & 2025 Cups · fastest expansion dynasty · 2026 Finals",
+        "needs": "1–2 more Cups + sustained regular-season excellence",
+        "colors": {
+          "primary": "#b4975a",
+          "secondary": "#333f48"
+        },
+        "prevRank": null
+      },
+      {
         "teamCode": "COL",
         "city": "Colorado Avalanche",
         "era": "2020–present",
@@ -44529,31 +44545,15 @@ window.NHL_DATA = {
         "teamCode": "FLA",
         "city": "Florida Panthers",
         "era": "2022–present",
-        "cups": 2,
-        "dynastyScore": 66.6,
+        "cups": 1,
+        "dynastyScore": 53.6,
         "threshold": 89.7,
-        "gap": 23.1,
-        "note": "2024 & 2025 Cups · back-to-back Champions",
-        "needs": "1–2 more Cups + sustained regular-season excellence",
+        "gap": 36.1,
+        "note": "2024 Cup · 2022–present contender",
+        "needs": "2–3 more Cups + another dominant era",
         "colors": {
           "primary": "#041e42",
           "secondary": "#c8102e"
-        },
-        "prevRank": null
-      },
-      {
-        "teamCode": "VGK",
-        "city": "Vegas Golden Knights",
-        "era": "2018–present",
-        "cups": 2,
-        "dynastyScore": 58.0,
-        "threshold": 89.7,
-        "gap": 31.7,
-        "note": "2023 & 2025 Cups · fastest expansion dynasty · 2026 Finals",
-        "needs": "2–3 more Cups + another dominant era",
-        "colors": {
-          "primary": "#b4975a",
-          "secondary": "#333f48"
         },
         "prevRank": null
       },
@@ -44898,10 +44898,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-10 16:52 UTC",
+  "LAST_UPDATE": "2026-06-11 16:40 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-10T16:51:15Z"
+    "standingsDateTimeUtc": "2026-06-11T16:39:45Z"
   }
 };

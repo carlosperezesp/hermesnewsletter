@@ -1,13 +1,13 @@
-// Auto-generated 2026-06-10 18:38 UTC
+// Auto-generated 2026-06-11 16:41 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-10 18:38 UTC",
+  "UPDATED": "2026-06-11 16:41 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Hermes curated snapshot using World Football Elo / MoreElo-style ratings",
     "notes": "Daily-generated static snapshot; update CURRENT_RAW seeds when source rankings move.",
-    "through": "2026-06-10 18:38 UTC"
+    "through": "2026-06-11 16:41 UTC"
   },
-  "IMPORTANCE": 9.0,
+  "IMPORTANCE": 10.0,
   "TEAMS": [
     {
       "id": "argentina",
@@ -286,7 +286,7 @@ window.FOOTBALL_DATA = {
     "startDate": "2026-06-11",
     "finalDate": "2026-07-19",
     "teams": 48,
-    "phase": "pre_tournament",
+    "phase": "group_stage",
     "groups": {
       "ARG": {
         "group": "J",
