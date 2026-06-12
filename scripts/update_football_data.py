@@ -58,20 +58,6 @@ CURRENT_DYNASTY_SEEDS = {
 }
 
 
-# Último partido internacional antes del Mundial 2026 (amistosos de preparación).
-LAST_MATCHES: dict[str, dict] = {
-    "Argentina":  {"opponent": "Ecuador",       "opponentCode": "ECU", "result": "W", "score": "2-0", "date": "2026-06-04", "type": "Amistoso", "eloDelta":  7},
-    "Spain":      {"opponent": "Venezuela",     "opponentCode": "VEN", "result": "W", "score": "3-0", "date": "2026-06-03", "type": "Amistoso", "eloDelta":  5},
-    "France":     {"opponent": "Brasil",        "opponentCode": "BRA", "result": "W", "score": "2-1", "date": "2026-06-05", "type": "Amistoso", "eloDelta":  9},
-    "England":    {"opponent": "Corea del Sur", "opponentCode": "KOR", "result": "W", "score": "3-1", "date": "2026-06-04", "type": "Amistoso", "eloDelta":  6},
-    "Portugal":   {"opponent": "Egipto",        "opponentCode": "EGY", "result": "W", "score": "2-0", "date": "2026-06-03", "type": "Amistoso", "eloDelta":  5},
-    "Brazil":     {"opponent": "Francia",       "opponentCode": "FRA", "result": "L", "score": "1-2", "date": "2026-06-05", "type": "Amistoso", "eloDelta": -9},
-    "Netherlands":{"opponent": "Noruega",       "opponentCode": "NOR", "result": "W", "score": "2-0", "date": "2026-06-04", "type": "Amistoso", "eloDelta":  7},
-    "Germany":    {"opponent": "Austria",       "opponentCode": "AUT", "result": "D", "score": "1-1", "date": "2026-06-05", "type": "Amistoso", "eloDelta":  1},
-    "Italy":      {"opponent": "México",        "opponentCode": "MEX", "result": "W", "score": "2-0", "date": "2026-06-04", "type": "Amistoso", "eloDelta":  6},
-    "Uruguay":    {"opponent": "Costa Rica",    "opponentCode": "CRC", "result": "W", "score": "1-0", "date": "2026-06-03", "type": "Amistoso", "eloDelta":  6},
-}
-
 # Grupos del Mundial 2026 para el top 10.
 WC2026_GROUPS: dict[str, dict] = {
     "ARG": {"group": "J", "groupTeams": ["Argentina", "Argelia", "Austria", "Jordania"]},
@@ -330,7 +316,6 @@ def build_teams() -> list[dict]:
             "elo": elo,
             "eloScore": round(score, 1),
             "sourceRank": source_rank,
-            "lastMatch": LAST_MATCHES.get(name),
             "worldCups": 0,
             "continentalTitles": 0,
             "note": note,
@@ -463,6 +448,26 @@ def build_world_cup(teams: list[dict]) -> dict:
     }
 
 
+def attach_next_matches(teams: list[dict], world_cup: dict) -> None:
+    by_code = {team["teamCode"]: team for team in teams}
+    for match in world_cup.get("upcomingMatches", []):
+        for side, other in (("home", "away"), ("away", "home")):
+            code = match.get(side)
+            team = by_code.get(code)
+            if not team or team.get("nextMatch"):
+                continue
+            team["nextMatch"] = {
+                "date": match["date"],
+                "round": match["round"],
+                "opponent": match[f"{other}Name"],
+                "opponentCode": match[other],
+                "venue": match["venue"],
+                "city": match["city"],
+                "group": match["group"],
+                "type": "Mundial 2026",
+            }
+
+
 def importance() -> float:
     today = date.today()
     year = today.year
@@ -477,6 +482,8 @@ def importance() -> float:
 
 def write_data() -> None:
     teams = build_teams()
+    world_cup = build_world_cup(teams)
+    attach_next_matches(teams, world_cup)
     dynasties = build_dynasties()
     threshold = dynasties[9]["dynastyScore"] if len(dynasties) >= 10 else 70.0
     raw_threshold = min(dynasty_raw(row) for row in DYNASTIES_RAW)
@@ -492,7 +499,7 @@ def write_data() -> None:
         },
         "IMPORTANCE": importance(),
         "TEAMS": teams,
-        "WORLD_CUP_2026": build_world_cup(teams),
+        "WORLD_CUP_2026": world_cup,
         "ROAD_TO_GLORY": {
             "dynastyThreshold": threshold,
             "rawDynastyThreshold": round(raw_threshold, 1),

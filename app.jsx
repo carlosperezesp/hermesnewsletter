@@ -3175,12 +3175,12 @@ function NewsletterApp() {
             return parts.length ? parts.join(" · ") : "Sin grandes títulos en la era";
           }
 
-          function lastMatchNote(team) {
-            const lm = team.lastMatch;
-            if (!lm || !lm.opponent) return null;
-            const rl = { W: "V", L: "D", D: "E" }[lm.result] || lm.result;
-            const d = lm.date?.substring(5).replace("-", "/");
-            return `Último: ${rl} ${lm.score} vs ${lm.opponent} · ${d}`;
+          function nextMatchNote(team) {
+            const nm = team.nextMatch;
+            if (!nm || !nm.opponent) return null;
+            const d = nm.date?.substring(5).replace("-", "/");
+            const place = nm.city ? ` · ${nm.city}` : "";
+            return `Próximo: vs ${nm.opponent} · ${d}${place}`;
           }
 
           function wcMatchDate(dateStr) {
@@ -3297,19 +3297,7 @@ function NewsletterApp() {
                       item={team}
                       alive={new Set()}
                       score={team.eloScore}
-                      scoreDisplay={(() => {
-                        const delta = team.lastMatch?.eloDelta;
-                        if (delta == null) return team.elo;
-                        const dc = deltaChipStyle(delta);
-                        return (
-                          <span style={{ display: "inline-flex", alignItems: "center", gap: 4 }}>
-                            {team.elo}
-                            <span style={{ ...chipBase, background: dc.bg, color: dc.fg }}>
-                              {delta > 0 ? `+${delta}` : `${delta}`}
-                            </span>
-                          </span>
-                        );
-                      })()}
+                      scoreDisplay={team.elo}
                       scoreLabel="Elo"
                       scoreB={team.worldCups}
                       scoreBDisplay={team.worldCups}
@@ -3317,7 +3305,7 @@ function NewsletterApp() {
                       meta={wcGroupByCode[team.teamCode]
                         ? `Grupo ${wcGroupByCode[team.teamCode].group} · ${wcGroupByCode[team.teamCode].groupTeams.join(", ")}`
                         : `Selecciones · ${team.country}`}
-                      note={[lastMatchNote(team), trophyLabel(team.worldCups, team.continentalTitles)].filter(Boolean).join(" · ")}
+                      note={[nextMatchNote(team), trophyLabel(team.worldCups, team.continentalTitles)].filter(Boolean).join(" · ")}
                       logo={team.logo}
                     />
                   ))}

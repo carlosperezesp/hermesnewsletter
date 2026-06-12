@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-11 16:41 UTC
+// Auto-generated 2026-06-12 05:12 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-11 16:41 UTC",
+  "UPDATED": "2026-06-12 05:12 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Hermes curated snapshot using World Football Elo / MoreElo-style ratings",
     "notes": "Daily-generated static snapshot; update CURRENT_RAW seeds when source rankings move.",
-    "through": "2026-06-11 16:41 UTC"
+    "through": "2026-06-12 05:12 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -23,18 +23,19 @@ window.FOOTBALL_DATA = {
       "elo": 2133,
       "eloScore": 100.0,
       "sourceRank": 1,
-      "lastMatch": {
-        "opponent": "Ecuador",
-        "opponentCode": "ECU",
-        "result": "W",
-        "score": "2-0",
-        "date": "2026-06-04",
-        "type": "Amistoso",
-        "eloDelta": 7
-      },
       "worldCups": 3,
       "continentalTitles": 16,
-      "note": "Campeón mundial y Copa América; ciclo Scaloni sostiene el pico Elo."
+      "note": "Campeón mundial y Copa América; ciclo Scaloni sostiene el pico Elo.",
+      "nextMatch": {
+        "date": "2026-06-16",
+        "round": 1,
+        "opponent": "Argelia",
+        "opponentCode": "ALG",
+        "venue": "Arrowhead Stadium",
+        "city": "Kansas City",
+        "group": "J",
+        "type": "Mundial 2026"
+      }
     },
     {
       "id": "spain",
@@ -50,18 +51,19 @@ window.FOOTBALL_DATA = {
       "elo": 2109,
       "eloScore": 96.4,
       "sourceRank": 2,
-      "lastMatch": {
-        "opponent": "Venezuela",
-        "opponentCode": "VEN",
-        "result": "W",
-        "score": "3-0",
-        "date": "2026-06-03",
-        "type": "Amistoso",
-        "eloDelta": 5
-      },
       "worldCups": 1,
       "continentalTitles": 4,
-      "note": "Euro vigente y bloque joven de altísimo rendimiento."
+      "note": "Euro vigente y bloque joven de altísimo rendimiento.",
+      "nextMatch": {
+        "date": "2026-06-15",
+        "round": 1,
+        "opponent": "Cabo Verde",
+        "opponentCode": "CPV",
+        "venue": "Mercedes-Benz Stadium",
+        "city": "Atlanta",
+        "group": "H",
+        "type": "Mundial 2026"
+      }
     },
     {
       "id": "france",
@@ -77,18 +79,19 @@ window.FOOTBALL_DATA = {
       "elo": 2029,
       "eloScore": 84.3,
       "sourceRank": 3,
-      "lastMatch": {
-        "opponent": "Brasil",
-        "opponentCode": "BRA",
-        "result": "W",
-        "score": "2-1",
-        "date": "2026-06-05",
-        "type": "Amistoso",
-        "eloDelta": 9
-      },
       "worldCups": 2,
       "continentalTitles": 2,
-      "note": "Finalista mundial reciente; profundidad ofensiva y defensiva."
+      "note": "Finalista mundial reciente; profundidad ofensiva y defensiva.",
+      "nextMatch": {
+        "date": "2026-06-16",
+        "round": 1,
+        "opponent": "Senegal",
+        "opponentCode": "SEN",
+        "venue": "MetLife Stadium",
+        "city": "East Rutherford",
+        "group": "I",
+        "type": "Mundial 2026"
+      }
     },
     {
       "id": "england",
@@ -104,18 +107,19 @@ window.FOOTBALL_DATA = {
       "elo": 2017,
       "eloScore": 82.5,
       "sourceRank": 4,
-      "lastMatch": {
-        "opponent": "Corea del Sur",
-        "opponentCode": "KOR",
-        "result": "W",
-        "score": "3-1",
-        "date": "2026-06-04",
-        "type": "Amistoso",
-        "eloDelta": 6
-      },
       "worldCups": 1,
       "continentalTitles": 0,
-      "note": "Finalista de Euro; rating alto por consistencia ante élite UEFA."
+      "note": "Finalista de Euro; rating alto por consistencia ante élite UEFA.",
+      "nextMatch": {
+        "date": "2026-06-17",
+        "round": 1,
+        "opponent": "Croacia",
+        "opponentCode": "CRO",
+        "venue": "AT&T Stadium",
+        "city": "Dallas",
+        "group": "L",
+        "type": "Mundial 2026"
+      }
     },
     {
       "id": "portugal",
@@ -131,18 +135,19 @@ window.FOOTBALL_DATA = {
       "elo": 1997,
       "eloScore": 79.5,
       "sourceRank": 5,
-      "lastMatch": {
-        "opponent": "Egipto",
-        "opponentCode": "EGY",
-        "result": "W",
-        "score": "2-0",
-        "date": "2026-06-03",
-        "type": "Amistoso",
-        "eloDelta": 5
-      },
       "worldCups": 0,
       "continentalTitles": 1,
-      "note": "Plantilla top y fase clasificatoria fuerte."
+      "note": "Plantilla top y fase clasificatoria fuerte.",
+      "nextMatch": {
+        "date": "2026-06-17",
+        "round": 1,
+        "opponent": "RD Congo",
+        "opponentCode": "COD",
+        "venue": "NRG Stadium",
+        "city": "Houston",
+        "group": "K",
+        "type": "Mundial 2026"
+      }
     },
     {
       "id": "brazil",
@@ -158,18 +163,19 @@ window.FOOTBALL_DATA = {
       "elo": 1985,
       "eloScore": 77.7,
       "sourceRank": 6,
-      "lastMatch": {
-        "opponent": "Francia",
-        "opponentCode": "FRA",
-        "result": "L",
-        "score": "1-2",
-        "date": "2026-06-05",
-        "type": "Amistoso",
-        "eloDelta": -9
-      },
       "worldCups": 5,
       "continentalTitles": 9,
-      "note": "Histórico gigante todavía en zona top 10 pese a ciclo irregular."
+      "note": "Histórico gigante todavía en zona top 10 pese a ciclo irregular.",
+      "nextMatch": {
+        "date": "2026-06-13",
+        "round": 1,
+        "opponent": "Marruecos",
+        "opponentCode": "MAR",
+        "venue": "MetLife Stadium",
+        "city": "East Rutherford",
+        "group": "C",
+        "type": "Mundial 2026"
+      }
     },
     {
       "id": "netherlands",
@@ -185,18 +191,19 @@ window.FOOTBALL_DATA = {
       "elo": 1976,
       "eloScore": 76.3,
       "sourceRank": 7,
-      "lastMatch": {
-        "opponent": "Noruega",
-        "opponentCode": "NOR",
-        "result": "W",
-        "score": "2-0",
-        "date": "2026-06-04",
-        "type": "Amistoso",
-        "eloDelta": 7
-      },
       "worldCups": 0,
       "continentalTitles": 1,
-      "note": "Bloque estable con muy buen diferencial ante rivales fuertes."
+      "note": "Bloque estable con muy buen diferencial ante rivales fuertes.",
+      "nextMatch": {
+        "date": "2026-06-14",
+        "round": 1,
+        "opponent": "Japón",
+        "opponentCode": "JPN",
+        "venue": "AT&T Stadium",
+        "city": "Dallas",
+        "group": "F",
+        "type": "Mundial 2026"
+      }
     },
     {
       "id": "germany",
@@ -212,18 +219,19 @@ window.FOOTBALL_DATA = {
       "elo": 1958,
       "eloScore": 73.6,
       "sourceRank": 8,
-      "lastMatch": {
-        "opponent": "Austria",
-        "opponentCode": "AUT",
-        "result": "D",
-        "score": "1-1",
-        "date": "2026-06-05",
-        "type": "Amistoso",
-        "eloDelta": 1
-      },
       "worldCups": 4,
       "continentalTitles": 3,
-      "note": "Rebote competitivo tras la Euro como anfitrión."
+      "note": "Rebote competitivo tras la Euro como anfitrión.",
+      "nextMatch": {
+        "date": "2026-06-14",
+        "round": 1,
+        "opponent": "Curazao",
+        "opponentCode": "CUW",
+        "venue": "NRG Stadium",
+        "city": "Houston",
+        "group": "E",
+        "type": "Mundial 2026"
+      }
     },
     {
       "id": "italy",
@@ -239,15 +247,6 @@ window.FOOTBALL_DATA = {
       "elo": 1945,
       "eloScore": 71.7,
       "sourceRank": 9,
-      "lastMatch": {
-        "opponent": "México",
-        "opponentCode": "MEX",
-        "result": "W",
-        "score": "2-0",
-        "date": "2026-06-04",
-        "type": "Amistoso",
-        "eloDelta": 6
-      },
       "worldCups": 4,
       "continentalTitles": 2,
       "note": "Euro 2020 todavía pesa; ciclo actual busca volver a pico mundial."
@@ -266,18 +265,19 @@ window.FOOTBALL_DATA = {
       "elo": 1934,
       "eloScore": 70.0,
       "sourceRank": 10,
-      "lastMatch": {
-        "opponent": "Costa Rica",
-        "opponentCode": "CRC",
-        "result": "W",
-        "score": "1-0",
-        "date": "2026-06-03",
-        "type": "Amistoso",
-        "eloDelta": 6
-      },
       "worldCups": 2,
       "continentalTitles": 15,
-      "note": "Ciclo Bielsa y resultados CONMEBOL elevan el rating."
+      "note": "Ciclo Bielsa y resultados CONMEBOL elevan el rating.",
+      "nextMatch": {
+        "date": "2026-06-15",
+        "round": 1,
+        "opponent": "Arabia Saudí",
+        "opponentCode": "KSA",
+        "venue": "Hard Rock Stadium",
+        "city": "Miami",
+        "group": "H",
+        "type": "Mundial 2026"
+      }
     }
   ],
   "WORLD_CUP_2026": {
@@ -855,18 +855,19 @@ window.FOOTBALL_DATA = {
         "elo": 2133,
         "eloScore": 100.0,
         "sourceRank": 1,
-        "lastMatch": {
-          "opponent": "Ecuador",
-          "opponentCode": "ECU",
-          "result": "W",
-          "score": "2-0",
-          "date": "2026-06-04",
-          "type": "Amistoso",
-          "eloDelta": 7
-        },
         "worldCups": 3,
         "continentalTitles": 16,
         "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
+        "nextMatch": {
+          "date": "2026-06-16",
+          "round": 1,
+          "opponent": "Argelia",
+          "opponentCode": "ALG",
+          "venue": "Arrowhead Stadium",
+          "city": "Kansas City",
+          "group": "J",
+          "type": "Mundial 2026"
+        },
         "dynastyPotential": 100.0,
         "rawDynastyPotential": 121.9,
         "gapToDynastyTop10": 0.0,
@@ -890,18 +891,19 @@ window.FOOTBALL_DATA = {
         "elo": 2109,
         "eloScore": 96.4,
         "sourceRank": 2,
-        "lastMatch": {
-          "opponent": "Venezuela",
-          "opponentCode": "VEN",
-          "result": "W",
-          "score": "3-0",
-          "date": "2026-06-03",
-          "type": "Amistoso",
-          "eloDelta": 5
-        },
         "worldCups": 1,
         "continentalTitles": 4,
         "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
+        "nextMatch": {
+          "date": "2026-06-15",
+          "round": 1,
+          "opponent": "Cabo Verde",
+          "opponentCode": "CPV",
+          "venue": "Mercedes-Benz Stadium",
+          "city": "Atlanta",
+          "group": "H",
+          "type": "Mundial 2026"
+        },
         "dynastyPotential": 100.0,
         "rawDynastyPotential": 57.1,
         "gapToDynastyTop10": 0.0,
@@ -925,18 +927,19 @@ window.FOOTBALL_DATA = {
         "elo": 2029,
         "eloScore": 84.3,
         "sourceRank": 3,
-        "lastMatch": {
-          "opponent": "Brasil",
-          "opponentCode": "BRA",
-          "result": "W",
-          "score": "2-1",
-          "date": "2026-06-05",
-          "type": "Amistoso",
-          "eloDelta": 9
-        },
         "worldCups": 2,
         "continentalTitles": 2,
         "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
+        "nextMatch": {
+          "date": "2026-06-16",
+          "round": 1,
+          "opponent": "Senegal",
+          "opponentCode": "SEN",
+          "venue": "MetLife Stadium",
+          "city": "East Rutherford",
+          "group": "I",
+          "type": "Mundial 2026"
+        },
         "dynastyPotential": 100.0,
         "rawDynastyPotential": 87.8,
         "gapToDynastyTop10": 0.0,
@@ -960,18 +963,19 @@ window.FOOTBALL_DATA = {
         "elo": 2017,
         "eloScore": 82.5,
         "sourceRank": 4,
-        "lastMatch": {
-          "opponent": "Corea del Sur",
-          "opponentCode": "KOR",
-          "result": "W",
-          "score": "3-1",
-          "date": "2026-06-04",
-          "type": "Amistoso",
-          "eloDelta": 6
-        },
         "worldCups": 1,
         "continentalTitles": 0,
         "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
+        "nextMatch": {
+          "date": "2026-06-17",
+          "round": 1,
+          "opponent": "Croacia",
+          "opponentCode": "CRO",
+          "venue": "AT&T Stadium",
+          "city": "Dallas",
+          "group": "L",
+          "type": "Mundial 2026"
+        },
         "dynastyPotential": 100.0,
         "rawDynastyPotential": 54.8,
         "gapToDynastyTop10": 0.0,
@@ -995,18 +999,19 @@ window.FOOTBALL_DATA = {
         "elo": 1997,
         "eloScore": 79.5,
         "sourceRank": 5,
-        "lastMatch": {
-          "opponent": "Egipto",
-          "opponentCode": "EGY",
-          "result": "W",
-          "score": "2-0",
-          "date": "2026-06-03",
-          "type": "Amistoso",
-          "eloDelta": 5
-        },
         "worldCups": 0,
         "continentalTitles": 1,
         "note": "A 4.0 puntos brutos del umbral dinástico",
+        "nextMatch": {
+          "date": "2026-06-17",
+          "round": 1,
+          "opponent": "RD Congo",
+          "opponentCode": "COD",
+          "venue": "NRG Stadium",
+          "city": "Houston",
+          "group": "K",
+          "type": "Mundial 2026"
+        },
         "dynastyPotential": 89.8,
         "rawDynastyPotential": 35.4,
         "gapToDynastyTop10": 4.0,
@@ -1030,18 +1035,19 @@ window.FOOTBALL_DATA = {
         "elo": 1985,
         "eloScore": 77.7,
         "sourceRank": 6,
-        "lastMatch": {
-          "opponent": "Francia",
-          "opponentCode": "FRA",
-          "result": "L",
-          "score": "1-2",
-          "date": "2026-06-05",
-          "type": "Amistoso",
-          "eloDelta": -9
-        },
         "worldCups": 5,
         "continentalTitles": 9,
         "note": "A 5.0 puntos brutos del umbral dinástico",
+        "nextMatch": {
+          "date": "2026-06-13",
+          "round": 1,
+          "opponent": "Marruecos",
+          "opponentCode": "MAR",
+          "venue": "MetLife Stadium",
+          "city": "East Rutherford",
+          "group": "C",
+          "type": "Mundial 2026"
+        },
         "dynastyPotential": 87.4,
         "rawDynastyPotential": 34.5,
         "gapToDynastyTop10": 5.0,
@@ -1065,18 +1071,19 @@ window.FOOTBALL_DATA = {
         "elo": 1976,
         "eloScore": 76.3,
         "sourceRank": 7,
-        "lastMatch": {
-          "opponent": "Noruega",
-          "opponentCode": "NOR",
-          "result": "W",
-          "score": "2-0",
-          "date": "2026-06-04",
-          "type": "Amistoso",
-          "eloDelta": 7
-        },
         "worldCups": 0,
         "continentalTitles": 1,
         "note": "A 9.3 puntos brutos del umbral dinástico",
+        "nextMatch": {
+          "date": "2026-06-14",
+          "round": 1,
+          "opponent": "Japón",
+          "opponentCode": "JPN",
+          "venue": "AT&T Stadium",
+          "city": "Dallas",
+          "group": "F",
+          "type": "Mundial 2026"
+        },
         "dynastyPotential": 76.4,
         "rawDynastyPotential": 30.1,
         "gapToDynastyTop10": 9.3,
@@ -1100,18 +1107,19 @@ window.FOOTBALL_DATA = {
         "elo": 1934,
         "eloScore": 70.0,
         "sourceRank": 10,
-        "lastMatch": {
-          "opponent": "Costa Rica",
-          "opponentCode": "CRC",
-          "result": "W",
-          "score": "1-0",
-          "date": "2026-06-03",
-          "type": "Amistoso",
-          "eloDelta": 6
-        },
         "worldCups": 2,
         "continentalTitles": 15,
         "note": "A 12.9 puntos brutos del umbral dinástico",
+        "nextMatch": {
+          "date": "2026-06-15",
+          "round": 1,
+          "opponent": "Arabia Saudí",
+          "opponentCode": "KSA",
+          "venue": "Hard Rock Stadium",
+          "city": "Miami",
+          "group": "H",
+          "type": "Mundial 2026"
+        },
         "dynastyPotential": 67.2,
         "rawDynastyPotential": 26.5,
         "gapToDynastyTop10": 12.9,
@@ -1135,18 +1143,19 @@ window.FOOTBALL_DATA = {
         "elo": 1958,
         "eloScore": 73.6,
         "sourceRank": 8,
-        "lastMatch": {
-          "opponent": "Austria",
-          "opponentCode": "AUT",
-          "result": "D",
-          "score": "1-1",
-          "date": "2026-06-05",
-          "type": "Amistoso",
-          "eloDelta": 1
-        },
         "worldCups": 4,
         "continentalTitles": 3,
         "note": "A 14.7 puntos brutos del umbral dinástico",
+        "nextMatch": {
+          "date": "2026-06-14",
+          "round": 1,
+          "opponent": "Curazao",
+          "opponentCode": "CUW",
+          "venue": "NRG Stadium",
+          "city": "Houston",
+          "group": "E",
+          "type": "Mundial 2026"
+        },
         "dynastyPotential": 62.6,
         "rawDynastyPotential": 24.7,
         "gapToDynastyTop10": 14.7,
@@ -1170,15 +1179,6 @@ window.FOOTBALL_DATA = {
         "elo": 1945,
         "eloScore": 71.7,
         "sourceRank": 9,
-        "lastMatch": {
-          "opponent": "México",
-          "opponentCode": "MEX",
-          "result": "W",
-          "score": "2-0",
-          "date": "2026-06-04",
-          "type": "Amistoso",
-          "eloDelta": 6
-        },
         "worldCups": 4,
         "continentalTitles": 2,
         "note": "A 17.0 puntos brutos del umbral dinástico",
