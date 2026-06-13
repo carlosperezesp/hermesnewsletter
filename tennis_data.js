@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-13 17:57 UTC
+// Auto-generated 2026-06-13 18:22 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-13 17:57 UTC",
+  "UPDATED": "2026-06-13 18:22 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -703,7 +703,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 16
       },
-      "prevListRank": 29,
+      "prevListRank": 27,
       "prevActiveScore": 71.0
     },
     {
@@ -729,7 +729,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 32,
+      "prevListRank": 28,
       "prevActiveScore": 68.3
     },
     {
@@ -755,7 +755,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 33,
+      "prevListRank": 29,
       "prevActiveScore": 68.0
     },
     {
@@ -781,7 +781,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 34,
+      "prevListRank": 30,
       "prevActiveScore": 67.5
     },
     {
@@ -807,7 +807,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 35,
+      "prevListRank": 31,
       "prevActiveScore": 67.4
     },
     {
@@ -833,7 +833,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 12
       },
-      "prevListRank": 36,
+      "prevListRank": 32,
       "prevActiveScore": 66.8
     },
     {
@@ -859,7 +859,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 37,
+      "prevListRank": 33,
       "prevActiveScore": 66.6
     },
     {
@@ -885,7 +885,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 38,
+      "prevListRank": 34,
       "prevActiveScore": 66.4
     },
     {
@@ -911,7 +911,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 39,
+      "prevListRank": 35,
       "prevActiveScore": 66.2
     },
     {
@@ -937,7 +937,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 40,
+      "prevListRank": 36,
       "prevActiveScore": 66.2
     },
     {
@@ -963,7 +963,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 41,
+      "prevListRank": 37,
       "prevActiveScore": 66.1
     },
     {
@@ -989,7 +989,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 42,
+      "prevListRank": 38,
       "prevActiveScore": 66.0
     },
     {
@@ -1015,7 +1015,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 43,
+      "prevListRank": 39,
       "prevActiveScore": 65.9
     },
     {
@@ -1043,7 +1043,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
-      "prevListRank": 27,
+      "prevListRank": 40,
       "prevActiveScore": 71.5
     },
     {
@@ -1069,7 +1069,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 44,
+      "prevListRank": 41,
       "prevActiveScore": 65.3
     },
     {
@@ -1095,7 +1095,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 45,
+      "prevListRank": 42,
       "prevActiveScore": 65.2
     },
     {
@@ -1121,7 +1121,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 46,
+      "prevListRank": 43,
       "prevActiveScore": 65.0
     },
     {
@@ -1147,7 +1147,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 47,
+      "prevListRank": 44,
       "prevActiveScore": 64.4
     },
     {
@@ -1173,7 +1173,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 48,
+      "prevListRank": 45,
       "prevActiveScore": 63.5
     },
     {
@@ -1199,7 +1199,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 49,
+      "prevListRank": 46,
       "prevActiveScore": 62.6
     },
     {
@@ -1227,7 +1227,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
-      "prevListRank": 31,
+      "prevListRank": 47,
       "prevActiveScore": 68.6
     },
     {
@@ -1253,7 +1253,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 50,
+      "prevListRank": 48,
       "prevActiveScore": 62.4
     },
     {
@@ -1279,7 +1279,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 51,
+      "prevListRank": 49,
       "prevActiveScore": 62.2
     },
     {
@@ -1305,7 +1305,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 30
       },
-      "prevListRank": 52,
+      "prevListRank": 50,
       "prevActiveScore": 61.9
     },
     {
@@ -1331,7 +1331,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 53,
+      "prevListRank": 51,
       "prevActiveScore": 61.8
     },
     {
@@ -1357,7 +1357,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 54,
+      "prevListRank": 52,
       "prevActiveScore": 61.7
     },
     {
@@ -1383,7 +1383,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 55,
+      "prevListRank": 53,
       "prevActiveScore": 61.6
     },
     {
@@ -1409,7 +1409,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 37
       },
-      "prevListRank": 56,
+      "prevListRank": 54,
       "prevActiveScore": 61.5
     },
     {
@@ -1435,7 +1435,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 57,
+      "prevListRank": 55,
       "prevActiveScore": 61.3
     },
     {
@@ -1461,7 +1461,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 58,
+      "prevListRank": 56,
       "prevActiveScore": 61.2
     },
     {
@@ -1487,7 +1487,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 59,
+      "prevListRank": 57,
       "prevActiveScore": 61.1
     },
     {
@@ -1513,7 +1513,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 60,
+      "prevListRank": 58,
       "prevActiveScore": 60.5
     },
     {
@@ -1539,7 +1539,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 62,
+      "prevListRank": 59,
       "prevActiveScore": 60.1
     },
     {
@@ -1565,7 +1565,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 63,
+      "prevListRank": 60,
       "prevActiveScore": 60.1
     },
     {
@@ -1591,7 +1591,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 21
       },
-      "prevListRank": 64,
+      "prevListRank": 61,
       "prevActiveScore": 60.0
     },
     {
@@ -1617,7 +1617,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 67,
+      "prevListRank": 62,
       "prevActiveScore": 59.5
     },
     {
@@ -1643,7 +1643,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 68,
+      "prevListRank": 63,
       "prevActiveScore": 59.3
     },
     {
@@ -1669,7 +1669,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 69,
+      "prevListRank": 64,
       "prevActiveScore": 59.3
     },
     {
@@ -1695,7 +1695,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 71,
+      "prevListRank": 65,
       "prevActiveScore": 59.2
     },
     {
@@ -1721,7 +1721,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 72,
+      "prevListRank": 66,
       "prevActiveScore": 59.0
     },
     {
@@ -1747,7 +1747,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 73,
+      "prevListRank": 67,
       "prevActiveScore": 59.0
     },
     {
@@ -1773,7 +1773,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 74,
+      "prevListRank": 68,
       "prevActiveScore": 58.7
     },
     {
@@ -1799,7 +1799,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 75,
+      "prevListRank": 69,
       "prevActiveScore": 58.6
     },
     {
@@ -1825,7 +1825,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 76,
+      "prevListRank": 70,
       "prevActiveScore": 58.3
     },
     {
@@ -1851,7 +1851,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 77,
+      "prevListRank": 71,
       "prevActiveScore": 58.2
     },
     {
@@ -1877,7 +1877,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 78,
+      "prevListRank": 72,
       "prevActiveScore": 58.1
     },
     {
@@ -1903,7 +1903,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 79,
+      "prevListRank": 73,
       "prevActiveScore": 57.8
     },
     {
@@ -1929,7 +1929,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 80,
+      "prevListRank": 74,
       "prevActiveScore": 57.5
     },
     {
@@ -1955,7 +1955,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 81,
+      "prevListRank": 75,
       "prevActiveScore": 57.4
     },
     {
@@ -1981,7 +1981,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 82,
+      "prevListRank": 76,
       "prevActiveScore": 57.4
     },
     {
@@ -2007,7 +2007,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 83,
+      "prevListRank": 77,
       "prevActiveScore": 56.9
     },
     {
@@ -2033,7 +2033,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 85,
+      "prevListRank": 78,
       "prevActiveScore": 56.6
     },
     {
@@ -2059,7 +2059,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 86,
+      "prevListRank": 79,
       "prevActiveScore": 56.6
     },
     {
@@ -2085,7 +2085,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 87,
+      "prevListRank": 80,
       "prevActiveScore": 56.6
     },
     {
@@ -2113,7 +2113,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 32,
       "inactivePenalty": 15.0,
-      "prevListRank": 28,
+      "prevListRank": 81,
       "prevActiveScore": 71.2
     },
     {
@@ -2139,7 +2139,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 89,
+      "prevListRank": 82,
       "prevActiveScore": 55.8
     },
     {
@@ -2167,7 +2167,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 10,
       "inactivePenalty": 13.4,
-      "prevListRank": 30,
+      "prevListRank": 83,
       "prevActiveScore": 68.8
     },
     {
@@ -2193,7 +2193,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 93,
+      "prevListRank": 84,
       "prevActiveScore": 55.3
     },
     {
@@ -2219,7 +2219,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 94,
+      "prevListRank": 85,
       "prevActiveScore": 55.3
     },
     {
@@ -2245,7 +2245,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 95,
+      "prevListRank": 86,
       "prevActiveScore": 55.2
     },
     {
@@ -2271,7 +2271,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 96,
+      "prevListRank": 87,
       "prevActiveScore": 55.2
     },
     {
@@ -2297,7 +2297,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 97,
+      "prevListRank": 88,
       "prevActiveScore": 55.0
     },
     {
@@ -2323,7 +2323,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 9
       },
-      "prevListRank": 99,
+      "prevListRank": 89,
       "prevActiveScore": 54.7
     },
     {
@@ -2349,7 +2349,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 100,
+      "prevListRank": 90,
       "prevActiveScore": 54.6
     },
     {
@@ -2375,7 +2375,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 102,
+      "prevListRank": 91,
       "prevActiveScore": 54.4
     },
     {
@@ -2401,7 +2401,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 103,
+      "prevListRank": 92,
       "prevActiveScore": 54.3
     },
     {
@@ -2427,7 +2427,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 104,
+      "prevListRank": 93,
       "prevActiveScore": 54.3
     },
     {
@@ -2453,7 +2453,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 105,
+      "prevListRank": 94,
       "prevActiveScore": 53.9
     },
     {
@@ -2479,7 +2479,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 106,
+      "prevListRank": 95,
       "prevActiveScore": 53.9
     },
     {
@@ -2505,7 +2505,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 107,
+      "prevListRank": 96,
       "prevActiveScore": 53.7
     },
     {
@@ -2531,7 +2531,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 109,
+      "prevListRank": 97,
       "prevActiveScore": 53.7
     },
     {
@@ -2557,7 +2557,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 110,
+      "prevListRank": 98,
       "prevActiveScore": 53.7
     },
     {
@@ -2583,7 +2583,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 111,
+      "prevListRank": 99,
       "prevActiveScore": 53.6
     },
     {
@@ -2609,7 +2609,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 112,
+      "prevListRank": 100,
       "prevActiveScore": 53.5
     },
     {
@@ -2635,7 +2635,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 113,
+      "prevListRank": 101,
       "prevActiveScore": 53.5
     },
     {
@@ -2661,7 +2661,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 114,
+      "prevListRank": 102,
       "prevActiveScore": 53.5
     },
     {
@@ -2687,7 +2687,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 115,
+      "prevListRank": 103,
       "prevActiveScore": 53.4
     },
     {
@@ -2713,7 +2713,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 117,
+      "prevListRank": 104,
       "prevActiveScore": 53.4
     },
     {
@@ -2739,7 +2739,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 118,
+      "prevListRank": 105,
       "prevActiveScore": 53.1
     },
     {
@@ -2765,7 +2765,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 119,
+      "prevListRank": 106,
       "prevActiveScore": 53.0
     },
     {
@@ -2791,7 +2791,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 122,
+      "prevListRank": 107,
       "prevActiveScore": 52.5
     },
     {
@@ -2817,7 +2817,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 124,
+      "prevListRank": 108,
       "prevActiveScore": 52.3
     },
     {
@@ -2845,7 +2845,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 5,
       "inactivePenalty": 3.4,
-      "prevListRank": 91,
+      "prevListRank": 109,
       "prevActiveScore": 55.6
     },
     {
@@ -2871,7 +2871,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 125,
+      "prevListRank": 110,
       "prevActiveScore": 52.1
     },
     {
@@ -2897,7 +2897,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 126,
+      "prevListRank": 111,
       "prevActiveScore": 51.8
     },
     {
@@ -2923,7 +2923,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 127,
+      "prevListRank": 112,
       "prevActiveScore": 51.7
     },
     {
@@ -2949,7 +2949,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 128,
+      "prevListRank": 113,
       "prevActiveScore": 51.5
     },
     {
@@ -2975,7 +2975,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 22
       },
-      "prevListRank": 129,
+      "prevListRank": 114,
       "prevActiveScore": 51.4
     },
     {
@@ -3001,7 +3001,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 130,
+      "prevListRank": 115,
       "prevActiveScore": 51.2
     },
     {
@@ -3027,7 +3027,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 133,
+      "prevListRank": 116,
       "prevActiveScore": 51.0
     },
     {
@@ -3053,7 +3053,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 136,
+      "prevListRank": 117,
       "prevActiveScore": 50.6
     },
     {
@@ -3079,7 +3079,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 9
       },
-      "prevListRank": 137,
+      "prevListRank": 118,
       "prevActiveScore": 50.6
     },
     {
@@ -3105,7 +3105,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 138,
+      "prevListRank": 119,
       "prevActiveScore": 50.6
     },
     {
@@ -3133,7 +3133,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 5,
       "inactivePenalty": 3.4,
-      "prevListRank": 108,
+      "prevListRank": 120,
       "prevActiveScore": 53.7
     },
     {
@@ -3159,7 +3159,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 143,
+      "prevListRank": 121,
       "prevActiveScore": 49.6
     },
     {
@@ -3185,7 +3185,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 146,
+      "prevListRank": 122,
       "prevActiveScore": 49.2
     },
     {
@@ -3211,7 +3211,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 147,
+      "prevListRank": 123,
       "prevActiveScore": 49.2
     },
     {
@@ -3237,7 +3237,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 149,
+      "prevListRank": 124,
       "prevActiveScore": 48.8
     },
     {
@@ -3263,7 +3263,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 152,
+      "prevListRank": 125,
       "prevActiveScore": 48.0
     },
     {
@@ -3289,7 +3289,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 153,
+      "prevListRank": 126,
       "prevActiveScore": 48.0
     },
     {
@@ -3315,7 +3315,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 154,
+      "prevListRank": 127,
       "prevActiveScore": 47.9
     },
     {
@@ -3341,7 +3341,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 155,
+      "prevListRank": 128,
       "prevActiveScore": 47.9
     },
     {
@@ -3367,7 +3367,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 157,
+      "prevListRank": 129,
       "prevActiveScore": 47.8
     },
     {
@@ -3393,7 +3393,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 158,
+      "prevListRank": 130,
       "prevActiveScore": 47.8
     },
     {
@@ -3419,7 +3419,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 159,
+      "prevListRank": 131,
       "prevActiveScore": 47.7
     },
     {
@@ -3445,7 +3445,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 160,
+      "prevListRank": 132,
       "prevActiveScore": 47.6
     },
     {
@@ -3471,7 +3471,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 162,
+      "prevListRank": 133,
       "prevActiveScore": 47.6
     },
     {
@@ -3497,7 +3497,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 166,
+      "prevListRank": 134,
       "prevActiveScore": 47.4
     },
     {
@@ -3523,7 +3523,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 167,
+      "prevListRank": 135,
       "prevActiveScore": 47.3
     },
     {
@@ -3551,7 +3551,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 5,
       "inactivePenalty": 3.4,
-      "prevListRank": 141,
+      "prevListRank": 136,
       "prevActiveScore": 49.9
     },
     {
@@ -3579,7 +3579,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 10,
       "inactivePenalty": 13.4,
-      "prevListRank": 66,
+      "prevListRank": 137,
       "prevActiveScore": 59.8
     },
     {
@@ -3605,7 +3605,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 180,
+      "prevListRank": 138,
       "prevActiveScore": 45.9
     },
     {
@@ -3631,7 +3631,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 181,
+      "prevListRank": 139,
       "prevActiveScore": 45.7
     },
     {
@@ -3659,7 +3659,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 92,
+      "prevListRank": 140,
       "prevActiveScore": 55.4
     },
     {
@@ -3687,7 +3687,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 20,
       "inactivePenalty": 15.0,
-      "prevListRank": 61,
+      "prevListRank": 141,
       "prevActiveScore": 60.2
     },
     {
@@ -3715,7 +3715,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
-      "prevListRank": 65,
+      "prevListRank": 142,
       "prevActiveScore": 59.9
     },
     {
@@ -3743,7 +3743,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 98,
+      "prevListRank": 143,
       "prevActiveScore": 54.8
     },
     {
@@ -3769,7 +3769,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 52
       },
-      "prevListRank": 188,
+      "prevListRank": 144,
       "prevActiveScore": 44.5
     },
     {
@@ -3797,7 +3797,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 39,
       "inactivePenalty": 15.0,
-      "prevListRank": 70,
+      "prevListRank": 145,
       "prevActiveScore": 59.3
     },
     {
@@ -3823,7 +3823,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 189,
+      "prevListRank": 146,
       "prevActiveScore": 44.1
     },
     {
@@ -3849,7 +3849,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 193,
+      "prevListRank": 147,
       "prevActiveScore": 42.6
     },
     {
@@ -3875,7 +3875,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 194,
+      "prevListRank": 148,
       "prevActiveScore": 42.5
     },
     {
@@ -3903,7 +3903,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 5,
       "inactivePenalty": 3.4,
-      "prevListRank": 182,
+      "prevListRank": 149,
       "prevActiveScore": 45.7
     },
     {
@@ -3929,7 +3929,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 195,
+      "prevListRank": 150,
       "prevActiveScore": 42.2
     },
     {
@@ -3957,7 +3957,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 34,
       "inactivePenalty": 15.0,
-      "prevListRank": 84,
+      "prevListRank": 151,
       "prevActiveScore": 56.9
     },
     {
@@ -3985,7 +3985,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
-      "prevListRank": 88,
+      "prevListRank": 152,
       "prevActiveScore": 56.6
     },
     {
@@ -4013,7 +4013,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 5,
       "inactivePenalty": 3.4,
-      "prevListRank": 186,
+      "prevListRank": 153,
       "prevActiveScore": 44.9
     },
     {
@@ -4041,7 +4041,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 10,
       "inactivePenalty": 13.4,
-      "prevListRank": 101,
+      "prevListRank": 154,
       "prevActiveScore": 54.6
     },
     {
@@ -4069,7 +4069,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 134,
+      "prevListRank": 155,
       "prevActiveScore": 50.8
     },
     {
@@ -4097,7 +4097,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 39,
       "inactivePenalty": 15.0,
-      "prevListRank": 90,
+      "prevListRank": 156,
       "prevActiveScore": 55.7
     },
     {
@@ -4123,7 +4123,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 198,
+      "prevListRank": 157,
       "prevActiveScore": 40.6
     },
     {
@@ -4151,7 +4151,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 139,
+      "prevListRank": 158,
       "prevActiveScore": 50.6
     },
     {
@@ -4179,7 +4179,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
-      "prevListRank": 178,
+      "prevListRank": 159,
       "prevActiveScore": 46.3
     },
     {
@@ -4207,7 +4207,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 142,
+      "prevListRank": 160,
       "prevActiveScore": 49.7
     },
     {
@@ -4235,7 +4235,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 148,
+      "prevListRank": 161,
       "prevActiveScore": 49.1
     },
     {
@@ -4263,7 +4263,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 32,
       "inactivePenalty": 15.0,
-      "prevListRank": 116,
+      "prevListRank": 162,
       "prevActiveScore": 53.4
     },
     {
@@ -4291,7 +4291,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
-      "prevListRank": 120,
+      "prevListRank": 163,
       "prevActiveScore": 53.0
     },
     {
@@ -4319,7 +4319,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 32,
       "inactivePenalty": 15.0,
-      "prevListRank": 121,
+      "prevListRank": 164,
       "prevActiveScore": 52.6
     },
     {
@@ -4347,7 +4347,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
-      "prevListRank": 123,
+      "prevListRank": 165,
       "prevActiveScore": 52.3
     },
     {
@@ -4375,7 +4375,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
-      "prevListRank": 191,
+      "prevListRank": 166,
       "prevActiveScore": 43.2
     },
     {
@@ -4403,7 +4403,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 173,
+      "prevListRank": 167,
       "prevActiveScore": 46.9
     },
     {
@@ -4431,7 +4431,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 176,
+      "prevListRank": 168,
       "prevActiveScore": 46.7
     },
     {
@@ -4459,7 +4459,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 179,
+      "prevListRank": 169,
       "prevActiveScore": 46.2
     },
     {
@@ -4487,7 +4487,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
-      "prevListRank": 131,
+      "prevListRank": 170,
       "prevActiveScore": 51.2
     },
     {
@@ -4515,7 +4515,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 39,
       "inactivePenalty": 15.0,
-      "prevListRank": 132,
+      "prevListRank": 171,
       "prevActiveScore": 51.2
     },
     {
@@ -4543,7 +4543,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 14,
       "inactivePenalty": 15.0,
-      "prevListRank": 135,
+      "prevListRank": 172,
       "prevActiveScore": 50.8
     },
     {
@@ -4571,7 +4571,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 34,
       "inactivePenalty": 15.0,
-      "prevListRank": 140,
+      "prevListRank": 173,
       "prevActiveScore": 50.4
     },
     {
@@ -4599,8 +4599,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
-      "prevListRank": 177,
-      "prevActiveScore": 46.5
+      "prevListRank": 174,
+      "prevActiveScore": 50.0
     },
     {
       "id": "209262",
@@ -4627,8 +4627,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
-      "prevListRank": 185,
-      "prevActiveScore": 45.0
+      "prevListRank": 175,
+      "prevActiveScore": 50.0
     },
     {
       "id": "208278",
@@ -4655,8 +4655,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 14,
       "inactivePenalty": 15.0,
-      "prevListRank": 196,
-      "prevActiveScore": 41.4
+      "prevListRank": 176,
+      "prevActiveScore": 50.0
     },
     {
       "id": "207352",
@@ -4683,8 +4683,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
-      "prevListRank": 192,
-      "prevActiveScore": 43.0
+      "prevListRank": 177,
+      "prevActiveScore": 50.0
     },
     {
       "id": "144642",
@@ -4711,8 +4711,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 10,
       "inactivePenalty": 13.4,
-      "prevListRank": 200,
-      "prevActiveScore": 35.0
+      "prevListRank": 178,
+      "prevActiveScore": 48.4
     },
     {
       "id": "121411",
@@ -4739,8 +4739,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 13,
       "inactivePenalty": 15.0,
-      "prevListRank": 172,
-      "prevActiveScore": 46.9
+      "prevListRank": 179,
+      "prevActiveScore": 50.0
     },
     {
       "id": "126129",
@@ -4767,8 +4767,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 20,
       "inactivePenalty": 15.0,
-      "prevListRank": 187,
-      "prevActiveScore": 44.7
+      "prevListRank": 180,
+      "prevActiveScore": 50.0
     },
     {
       "id": "210536",
@@ -4795,8 +4795,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 10,
       "inactivePenalty": 13.4,
-      "prevListRank": 199,
-      "prevActiveScore": 38.9
+      "prevListRank": 181,
+      "prevActiveScore": 48.4
     },
     {
       "id": "208859",
@@ -4823,8 +4823,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 13,
       "inactivePenalty": 15.0,
-      "prevListRank": 183,
-      "prevActiveScore": 45.3
+      "prevListRank": 182,
+      "prevActiveScore": 50.0
     },
     {
       "id": "200711",
@@ -4851,8 +4851,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 45,
       "inactivePenalty": 15.0,
-      "prevListRank": 175,
-      "prevActiveScore": 46.8
+      "prevListRank": 183,
+      "prevActiveScore": 50.0
     },
     {
       "id": "209903",
@@ -4879,8 +4879,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 44,
       "inactivePenalty": 15.0,
-      "prevListRank": 168,
-      "prevActiveScore": 47.3
+      "prevListRank": 184,
+      "prevActiveScore": 50.0
     },
     {
       "id": "200259",
@@ -4907,8 +4907,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 16,
       "inactivePenalty": 15.0,
-      "prevListRank": 184,
-      "prevActiveScore": 45.3
+      "prevListRank": 185,
+      "prevActiveScore": 50.0
     },
     {
       "id": "212082",
@@ -4935,8 +4935,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 44,
       "inactivePenalty": 15.0,
-      "prevListRank": 169,
-      "prevActiveScore": 47.3
+      "prevListRank": 186,
+      "prevActiveScore": 50.0
     },
     {
       "id": "212256",
@@ -4963,8 +4963,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 197,
-      "prevActiveScore": 40.8
+      "prevListRank": 187,
+      "prevActiveScore": 45.0
     },
     {
       "id": "208210",
@@ -4991,8 +4991,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 47,
       "inactivePenalty": 15.0,
-      "prevListRank": 165,
-      "prevActiveScore": 47.5
+      "prevListRank": 188,
+      "prevActiveScore": 50.0
     },
     {
       "id": "127339",
@@ -5019,8 +5019,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 53,
       "inactivePenalty": 15.0,
-      "prevListRank": 156,
-      "prevActiveScore": 47.9
+      "prevListRank": 189,
+      "prevActiveScore": 50.0
     },
     {
       "id": "127760",
@@ -5047,8 +5047,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 71,
       "inactivePenalty": 15.0,
-      "prevListRank": 150,
-      "prevActiveScore": 48.3
+      "prevListRank": 190,
+      "prevActiveScore": 50.0
     },
     {
       "id": "200436",
@@ -5075,8 +5075,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 39,
       "inactivePenalty": 15.0,
-      "prevListRank": 174,
-      "prevActiveScore": 46.9
+      "prevListRank": 191,
+      "prevActiveScore": 50.0
     },
     {
       "id": "111200",
@@ -5103,8 +5103,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 13,
       "inactivePenalty": 15.0,
-      "prevListRank": 151,
-      "prevActiveScore": 48.1
+      "prevListRank": 192,
+      "prevActiveScore": 50.0
     },
     {
       "id": "206904",
@@ -5131,8 +5131,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 71,
       "inactivePenalty": 15.0,
-      "prevListRank": 161,
-      "prevActiveScore": 47.6
+      "prevListRank": 193,
+      "prevActiveScore": 50.0
     },
     {
       "id": "111797",
@@ -5159,8 +5159,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 13,
       "inactivePenalty": 15.0,
-      "prevListRank": 144,
-      "prevActiveScore": 49.6
+      "prevListRank": 194,
+      "prevActiveScore": 50.0
     },
     {
       "id": "106148",
@@ -5187,8 +5187,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 14,
       "inactivePenalty": 15.0,
-      "prevListRank": 145,
-      "prevActiveScore": 49.4
+      "prevListRank": 195,
+      "prevActiveScore": 50.0
     },
     {
       "id": "206748",
@@ -5215,8 +5215,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 32,
       "inactivePenalty": 15.0,
-      "prevListRank": 190,
-      "prevActiveScore": 44.0
+      "prevListRank": 196,
+      "prevActiveScore": 50.0
     },
     {
       "id": "200329",
@@ -5243,8 +5243,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 31,
       "inactivePenalty": 15.0,
-      "prevListRank": 163,
-      "prevActiveScore": 47.6
+      "prevListRank": 197,
+      "prevActiveScore": 50.0
     },
     {
       "id": "209875",
@@ -5271,8 +5271,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 13,
       "inactivePenalty": 15.0,
-      "prevListRank": 170,
-      "prevActiveScore": 47.2
+      "prevListRank": 198,
+      "prevActiveScore": 50.0
     },
     {
       "id": "212063",
@@ -5299,8 +5299,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 44,
       "inactivePenalty": 15.0,
-      "prevListRank": 164,
-      "prevActiveScore": 47.6
+      "prevListRank": 199,
+      "prevActiveScore": 50.0
     },
     {
       "id": "206889",
@@ -5327,8 +5327,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 67,
       "inactivePenalty": 15.0,
-      "prevListRank": 171,
-      "prevActiveScore": 47.2
+      "prevListRank": 200,
+      "prevActiveScore": 50.0
     }
   ],
   "WTA": [
@@ -5797,7 +5797,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 12
       },
-      "prevListRank": 19,
+      "prevListRank": 18,
       "prevActiveScore": 78.6
     },
     {
@@ -5823,7 +5823,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 20,
+      "prevListRank": 19,
       "prevActiveScore": 77.2
     },
     {
@@ -5849,7 +5849,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 21,
+      "prevListRank": 20,
       "prevActiveScore": 77.0
     },
     {
@@ -5875,7 +5875,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 22,
+      "prevListRank": 21,
       "prevActiveScore": 76.3
     },
     {
@@ -5901,7 +5901,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 23,
+      "prevListRank": 22,
       "prevActiveScore": 76.3
     },
     {
@@ -5927,7 +5927,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 10
       },
-      "prevListRank": 24,
+      "prevListRank": 23,
       "prevActiveScore": 74.7
     },
     {
@@ -5953,7 +5953,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 25,
+      "prevListRank": 24,
       "prevActiveScore": 72.4
     },
     {
@@ -5979,7 +5979,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 26,
+      "prevListRank": 25,
       "prevActiveScore": 72.2
     },
     {
@@ -6005,7 +6005,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 26
       },
-      "prevListRank": 27,
+      "prevListRank": 26,
       "prevActiveScore": 71.4
     },
     {
@@ -6031,7 +6031,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 28,
+      "prevListRank": 27,
       "prevActiveScore": 71.3
     },
     {
@@ -6057,7 +6057,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 15
       },
-      "prevListRank": 29,
+      "prevListRank": 28,
       "prevActiveScore": 70.9
     },
     {
@@ -6083,7 +6083,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 39
       },
-      "prevListRank": 30,
+      "prevListRank": 29,
       "prevActiveScore": 70.4
     },
     {
@@ -6109,7 +6109,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 19
       },
-      "prevListRank": 31,
+      "prevListRank": 30,
       "prevActiveScore": 70.2
     },
     {
@@ -6135,7 +6135,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 7
       },
-      "prevListRank": 32,
+      "prevListRank": 31,
       "prevActiveScore": 69.6
     },
     {
@@ -6161,7 +6161,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 33,
+      "prevListRank": 32,
       "prevActiveScore": 69.3
     },
     {
@@ -6187,7 +6187,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 34,
+      "prevListRank": 33,
       "prevActiveScore": 69.1
     },
     {
@@ -6213,7 +6213,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 36,
+      "prevListRank": 34,
       "prevActiveScore": 68.4
     },
     {
@@ -6239,7 +6239,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 37,
+      "prevListRank": 35,
       "prevActiveScore": 68.0
     },
     {
@@ -6265,7 +6265,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 5
       },
-      "prevListRank": 38,
+      "prevListRank": 36,
       "prevActiveScore": 67.8
     },
     {
@@ -6291,7 +6291,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 39,
+      "prevListRank": 37,
       "prevActiveScore": 67.6
     },
     {
@@ -6317,7 +6317,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 40,
+      "prevListRank": 38,
       "prevActiveScore": 67.1
     },
     {
@@ -6343,7 +6343,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 41,
+      "prevListRank": 39,
       "prevActiveScore": 66.4
     },
     {
@@ -6369,7 +6369,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 30
       },
-      "prevListRank": 42,
+      "prevListRank": 40,
       "prevActiveScore": 66.0
     },
     {
@@ -6395,7 +6395,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 43,
+      "prevListRank": 41,
       "prevActiveScore": 65.8
     },
     {
@@ -6421,7 +6421,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 10
       },
-      "prevListRank": 44,
+      "prevListRank": 42,
       "prevActiveScore": 65.7
     },
     {
@@ -6447,7 +6447,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 45,
+      "prevListRank": 43,
       "prevActiveScore": 65.7
     },
     {
@@ -6473,7 +6473,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 46,
+      "prevListRank": 44,
       "prevActiveScore": 65.7
     },
     {
@@ -6499,7 +6499,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 47,
+      "prevListRank": 45,
       "prevActiveScore": 65.7
     },
     {
@@ -6527,7 +6527,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 19,
       "inactivePenalty": 15.0,
-      "prevListRank": 18,
+      "prevListRank": 46,
       "prevActiveScore": 80.2
     },
     {
@@ -6553,7 +6553,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 11
       },
-      "prevListRank": 48,
+      "prevListRank": 47,
       "prevActiveScore": 65.1
     },
     {
@@ -6581,7 +6581,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
-      "prevListRank": 35,
+      "prevListRank": 48,
       "prevActiveScore": 68.6
     },
     {
@@ -6607,7 +6607,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 51,
+      "prevListRank": 49,
       "prevActiveScore": 64.7
     },
     {
@@ -6633,7 +6633,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 8
       },
-      "prevListRank": 53,
+      "prevListRank": 50,
       "prevActiveScore": 64.1
     },
     {
@@ -6659,7 +6659,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 54,
+      "prevListRank": 51,
       "prevActiveScore": 63.9
     },
     {
@@ -6685,7 +6685,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 55,
+      "prevListRank": 52,
       "prevActiveScore": 63.8
     },
     {
@@ -6711,7 +6711,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 56,
+      "prevListRank": 53,
       "prevActiveScore": 63.7
     },
     {
@@ -6737,7 +6737,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 5
       },
-      "prevListRank": 57,
+      "prevListRank": 54,
       "prevActiveScore": 63.7
     },
     {
@@ -6763,7 +6763,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 58,
+      "prevListRank": 55,
       "prevActiveScore": 63.4
     },
     {
@@ -6789,7 +6789,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 59,
+      "prevListRank": 56,
       "prevActiveScore": 63.2
     },
     {
@@ -6815,7 +6815,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 60,
+      "prevListRank": 57,
       "prevActiveScore": 62.9
     },
     {
@@ -6841,7 +6841,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 61,
+      "prevListRank": 58,
       "prevActiveScore": 62.8
     },
     {
@@ -6867,7 +6867,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 62,
+      "prevListRank": 59,
       "prevActiveScore": 62.5
     },
     {
@@ -6893,7 +6893,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 63,
+      "prevListRank": 60,
       "prevActiveScore": 62.3
     },
     {
@@ -6919,7 +6919,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 64,
+      "prevListRank": 61,
       "prevActiveScore": 62.2
     },
     {
@@ -6945,7 +6945,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 66,
+      "prevListRank": 62,
       "prevActiveScore": 61.7
     },
     {
@@ -6971,7 +6971,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 67,
+      "prevListRank": 63,
       "prevActiveScore": 61.3
     },
     {
@@ -6997,7 +6997,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 5
       },
-      "prevListRank": 69,
+      "prevListRank": 64,
       "prevActiveScore": 60.8
     },
     {
@@ -7023,7 +7023,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 70,
+      "prevListRank": 65,
       "prevActiveScore": 60.5
     },
     {
@@ -7049,7 +7049,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 72,
+      "prevListRank": 66,
       "prevActiveScore": 60.1
     },
     {
@@ -7075,7 +7075,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 9
       },
-      "prevListRank": 73,
+      "prevListRank": 67,
       "prevActiveScore": 59.4
     },
     {
@@ -7101,7 +7101,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 74,
+      "prevListRank": 68,
       "prevActiveScore": 59.1
     },
     {
@@ -7127,7 +7127,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 75,
+      "prevListRank": 69,
       "prevActiveScore": 58.8
     },
     {
@@ -7153,7 +7153,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 77,
+      "prevListRank": 70,
       "prevActiveScore": 58.4
     },
     {
@@ -7179,7 +7179,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 78,
+      "prevListRank": 71,
       "prevActiveScore": 58.2
     },
     {
@@ -7205,7 +7205,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 24
       },
-      "prevListRank": 79,
+      "prevListRank": 72,
       "prevActiveScore": 58.2
     },
     {
@@ -7231,7 +7231,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 80,
+      "prevListRank": 73,
       "prevActiveScore": 58.1
     },
     {
@@ -7257,7 +7257,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 81,
+      "prevListRank": 74,
       "prevActiveScore": 58.0
     },
     {
@@ -7283,7 +7283,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 82,
+      "prevListRank": 75,
       "prevActiveScore": 58.0
     },
     {
@@ -7309,7 +7309,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 83,
+      "prevListRank": 76,
       "prevActiveScore": 58.0
     },
     {
@@ -7335,7 +7335,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 84,
+      "prevListRank": 77,
       "prevActiveScore": 58.0
     },
     {
@@ -7361,7 +7361,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 8
       },
-      "prevListRank": 86,
+      "prevListRank": 78,
       "prevActiveScore": 57.6
     },
     {
@@ -7387,7 +7387,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 87,
+      "prevListRank": 79,
       "prevActiveScore": 57.4
     },
     {
@@ -7413,7 +7413,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 88,
+      "prevListRank": 80,
       "prevActiveScore": 57.4
     },
     {
@@ -7439,7 +7439,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 90,
+      "prevListRank": 81,
       "prevActiveScore": 57.3
     },
     {
@@ -7465,7 +7465,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 91,
+      "prevListRank": 82,
       "prevActiveScore": 57.3
     },
     {
@@ -7491,7 +7491,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 92,
+      "prevListRank": 83,
       "prevActiveScore": 56.9
     },
     {
@@ -7517,7 +7517,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 94,
+      "prevListRank": 84,
       "prevActiveScore": 56.7
     },
     {
@@ -7543,7 +7543,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 17
       },
-      "prevListRank": 98,
+      "prevListRank": 85,
       "prevActiveScore": 56.1
     },
     {
@@ -7569,7 +7569,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 99,
+      "prevListRank": 86,
       "prevActiveScore": 55.9
     },
     {
@@ -7595,7 +7595,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 102,
+      "prevListRank": 87,
       "prevActiveScore": 55.6
     },
     {
@@ -7621,7 +7621,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "prevListRank": 103,
+      "prevListRank": 88,
       "prevActiveScore": 55.4
     },
     {
@@ -7647,7 +7647,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 104,
+      "prevListRank": 89,
       "prevActiveScore": 55.1
     },
     {
@@ -7673,7 +7673,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 106,
+      "prevListRank": 90,
       "prevActiveScore": 54.2
     },
     {
@@ -7699,7 +7699,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 110,
+      "prevListRank": 91,
       "prevActiveScore": 53.6
     },
     {
@@ -7725,7 +7725,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 111,
+      "prevListRank": 92,
       "prevActiveScore": 53.6
     },
     {
@@ -7751,7 +7751,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 112,
+      "prevListRank": 93,
       "prevActiveScore": 53.6
     },
     {
@@ -7777,7 +7777,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 14
       },
-      "prevListRank": 113,
+      "prevListRank": 94,
       "prevActiveScore": 53.3
     },
     {
@@ -7803,7 +7803,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 13
       },
-      "prevListRank": 114,
+      "prevListRank": 95,
       "prevActiveScore": 53.1
     },
     {
@@ -7829,7 +7829,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 116,
+      "prevListRank": 96,
       "prevActiveScore": 53.1
     },
     {
@@ -7855,7 +7855,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 117,
+      "prevListRank": 97,
       "prevActiveScore": 53.1
     },
     {
@@ -7881,7 +7881,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 119,
+      "prevListRank": 98,
       "prevActiveScore": 53.0
     },
     {
@@ -7909,7 +7909,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
-      "prevListRank": 96,
+      "prevListRank": 99,
       "prevActiveScore": 56.7
     },
     {
@@ -7935,7 +7935,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 120,
+      "prevListRank": 100,
       "prevActiveScore": 52.9
     },
     {
@@ -7961,7 +7961,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 125,
+      "prevListRank": 101,
       "prevActiveScore": 52.5
     },
     {
@@ -7987,7 +7987,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 127,
+      "prevListRank": 102,
       "prevActiveScore": 51.8
     },
     {
@@ -8013,7 +8013,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 6
       },
-      "prevListRank": 128,
+      "prevListRank": 103,
       "prevActiveScore": 51.8
     },
     {
@@ -8039,7 +8039,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 131,
+      "prevListRank": 104,
       "prevActiveScore": 51.6
     },
     {
@@ -8067,7 +8067,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
-      "prevListRank": 89,
+      "prevListRank": 105,
       "prevActiveScore": 57.4
     },
     {
@@ -8093,7 +8093,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 135,
+      "prevListRank": 106,
       "prevActiveScore": 51.1
     },
     {
@@ -8121,7 +8121,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
-      "prevListRank": 97,
+      "prevListRank": 107,
       "prevActiveScore": 56.5
     },
     {
@@ -8147,7 +8147,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 12
       },
-      "prevListRank": 137,
+      "prevListRank": 108,
       "prevActiveScore": 50.5
     },
     {
@@ -8175,7 +8175,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
-      "prevListRank": 108,
+      "prevListRank": 109,
       "prevActiveScore": 54.1
     },
     {
@@ -8203,7 +8203,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 71,
+      "prevListRank": 110,
       "prevActiveScore": 60.4
     },
     {
@@ -8229,7 +8229,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 139,
+      "prevListRank": 111,
       "prevActiveScore": 50.2
     },
     {
@@ -8255,7 +8255,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 140,
+      "prevListRank": 112,
       "prevActiveScore": 50.2
     },
     {
@@ -8281,7 +8281,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 4
       },
-      "prevListRank": 142,
+      "prevListRank": 113,
       "prevActiveScore": 50.0
     },
     {
@@ -8309,7 +8309,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 35,
       "inactivePenalty": 15.0,
-      "prevListRank": 49,
+      "prevListRank": 114,
       "prevActiveScore": 65.0
     },
     {
@@ -8335,7 +8335,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 143,
+      "prevListRank": 115,
       "prevActiveScore": 49.9
     },
     {
@@ -8363,7 +8363,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
-      "prevListRank": 50,
+      "prevListRank": 116,
       "prevActiveScore": 64.8
     },
     {
@@ -8389,7 +8389,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 144,
+      "prevListRank": 117,
       "prevActiveScore": 49.7
     },
     {
@@ -8415,7 +8415,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 145,
+      "prevListRank": 118,
       "prevActiveScore": 49.7
     },
     {
@@ -8443,7 +8443,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
-      "prevListRank": 52,
+      "prevListRank": 119,
       "prevActiveScore": 64.6
     },
     {
@@ -8469,7 +8469,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 147,
+      "prevListRank": 120,
       "prevActiveScore": 49.0
     },
     {
@@ -8495,7 +8495,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 149,
+      "prevListRank": 121,
       "prevActiveScore": 48.7
     },
     {
@@ -8521,7 +8521,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 153,
+      "prevListRank": 122,
       "prevActiveScore": 47.6
     },
     {
@@ -8547,7 +8547,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 154,
+      "prevListRank": 123,
       "prevActiveScore": 47.6
     },
     {
@@ -8573,7 +8573,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 156,
+      "prevListRank": 124,
       "prevActiveScore": 47.4
     },
     {
@@ -8599,7 +8599,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 157,
+      "prevListRank": 125,
       "prevActiveScore": 47.3
     },
     {
@@ -8625,7 +8625,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 158,
+      "prevListRank": 126,
       "prevActiveScore": 47.1
     },
     {
@@ -8653,7 +8653,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 32,
       "inactivePenalty": 15.0,
-      "prevListRank": 65,
+      "prevListRank": 127,
       "prevActiveScore": 61.8
     },
     {
@@ -8681,7 +8681,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
-      "prevListRank": 122,
+      "prevListRank": 128,
       "prevActiveScore": 52.7
     },
     {
@@ -8707,7 +8707,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 161,
+      "prevListRank": 129,
       "prevActiveScore": 46.6
     },
     {
@@ -8733,7 +8733,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 165,
+      "prevListRank": 130,
       "prevActiveScore": 46.4
     },
     {
@@ -8761,7 +8761,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 42,
       "inactivePenalty": 15.0,
-      "prevListRank": 68,
+      "prevListRank": 131,
       "prevActiveScore": 61.3
     },
     {
@@ -8787,7 +8787,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 170,
+      "prevListRank": 132,
       "prevActiveScore": 46.1
     },
     {
@@ -8813,7 +8813,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 12
       },
-      "prevListRank": 171,
+      "prevListRank": 133,
       "prevActiveScore": 46.0
     },
     {
@@ -8841,7 +8841,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 100,
+      "prevListRank": 134,
       "prevActiveScore": 55.9
     },
     {
@@ -8867,7 +8867,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 177,
+      "prevListRank": 135,
       "prevActiveScore": 45.2
     },
     {
@@ -8893,7 +8893,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 178,
+      "prevListRank": 136,
       "prevActiveScore": 45.0
     },
     {
@@ -8919,7 +8919,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 179,
+      "prevListRank": 137,
       "prevActiveScore": 45.0
     },
     {
@@ -8945,7 +8945,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 180,
+      "prevListRank": 138,
       "prevActiveScore": 44.9
     },
     {
@@ -8973,7 +8973,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
-      "prevListRank": 151,
+      "prevListRank": 139,
       "prevActiveScore": 48.3
     },
     {
@@ -9001,7 +9001,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
-      "prevListRank": 152,
+      "prevListRank": 140,
       "prevActiveScore": 48.0
     },
     {
@@ -9057,7 +9057,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 109,
+      "prevListRank": 142,
       "prevActiveScore": 53.8
     },
     {
@@ -9085,7 +9085,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 16,
       "inactivePenalty": 15.0,
-      "prevListRank": 76,
+      "prevListRank": 143,
       "prevActiveScore": 58.8
     },
     {
@@ -9111,7 +9111,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 184,
+      "prevListRank": 144,
       "prevActiveScore": 43.4
     },
     {
@@ -9137,7 +9137,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 185,
+      "prevListRank": 145,
       "prevActiveScore": 43.3
     },
     {
@@ -9165,7 +9165,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 10,
       "inactivePenalty": 13.7,
-      "prevListRank": 95,
+      "prevListRank": 146,
       "prevActiveScore": 56.7
     },
     {
@@ -9193,7 +9193,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 30,
       "inactivePenalty": 15.0,
-      "prevListRank": 85,
+      "prevListRank": 147,
       "prevActiveScore": 58.0
     },
     {
@@ -9219,7 +9219,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 186,
+      "prevListRank": 148,
       "prevActiveScore": 43.0
     },
     {
@@ -9245,7 +9245,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 187,
+      "prevListRank": 149,
       "prevActiveScore": 42.7
     },
     {
@@ -9271,7 +9271,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 189,
+      "prevListRank": 150,
       "prevActiveScore": 42.4
     },
     {
@@ -9297,7 +9297,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 190,
+      "prevListRank": 151,
       "prevActiveScore": 42.1
     },
     {
@@ -9325,7 +9325,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 126,
+      "prevListRank": 152,
       "prevActiveScore": 51.9
     },
     {
@@ -9353,7 +9353,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
-      "prevListRank": 93,
+      "prevListRank": 153,
       "prevActiveScore": 56.9
     },
     {
@@ -9381,7 +9381,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
-      "prevListRank": 174,
+      "prevListRank": 154,
       "prevActiveScore": 45.5
     },
     {
@@ -9407,7 +9407,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 1
       },
-      "prevListRank": 191,
+      "prevListRank": 155,
       "prevActiveScore": 41.7
     },
     {
@@ -9435,7 +9435,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 132,
+      "prevListRank": 156,
       "prevActiveScore": 51.6
     },
     {
@@ -9463,7 +9463,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
-      "prevListRank": 155,
+      "prevListRank": 157,
       "prevActiveScore": 47.6
     },
     {
@@ -9489,7 +9489,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 192,
+      "prevListRank": 158,
       "prevActiveScore": 41.2
     },
     {
@@ -9517,7 +9517,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 133,
+      "prevListRank": 159,
       "prevActiveScore": 51.1
     },
     {
@@ -9543,7 +9543,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 195,
+      "prevListRank": 160,
       "prevActiveScore": 41.0
     },
     {
@@ -9571,7 +9571,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
-      "prevListRank": 101,
+      "prevListRank": 161,
       "prevActiveScore": 55.8
     },
     {
@@ -9599,7 +9599,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 138,
+      "prevListRank": 162,
       "prevActiveScore": 50.4
     },
     {
@@ -9627,7 +9627,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
-      "prevListRank": 105,
+      "prevListRank": 163,
       "prevActiveScore": 55.0
     },
     {
@@ -9655,7 +9655,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 146,
+      "prevListRank": 164,
       "prevActiveScore": 49.4
     },
     {
@@ -9683,7 +9683,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 13,
       "inactivePenalty": 15.0,
-      "prevListRank": 107,
+      "prevListRank": 165,
       "prevActiveScore": 54.2
     },
     {
@@ -9711,7 +9711,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 148,
+      "prevListRank": 166,
       "prevActiveScore": 48.9
     },
     {
@@ -9739,7 +9739,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 150,
+      "prevListRank": 167,
       "prevActiveScore": 48.6
     },
     {
@@ -9767,7 +9767,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
-      "prevListRank": 115,
+      "prevListRank": 168,
       "prevActiveScore": 53.1
     },
     {
@@ -9795,7 +9795,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 30,
       "inactivePenalty": 15.0,
-      "prevListRank": 118,
+      "prevListRank": 169,
       "prevActiveScore": 53.1
     },
     {
@@ -9823,7 +9823,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 45,
       "inactivePenalty": 15.0,
-      "prevListRank": 121,
+      "prevListRank": 170,
       "prevActiveScore": 52.9
     },
     {
@@ -9851,7 +9851,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 48,
       "inactivePenalty": 15.0,
-      "prevListRank": 123,
+      "prevListRank": 171,
       "prevActiveScore": 52.7
     },
     {
@@ -9879,7 +9879,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 16,
       "inactivePenalty": 15.0,
-      "prevListRank": 124,
+      "prevListRank": 172,
       "prevActiveScore": 52.6
     },
     {
@@ -9905,7 +9905,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 197,
+      "prevListRank": 173,
       "prevActiveScore": 37.4
     },
     {
@@ -9933,7 +9933,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 159,
+      "prevListRank": 174,
       "prevActiveScore": 46.7
     },
     {
@@ -9961,7 +9961,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 16,
       "inactivePenalty": 15.0,
-      "prevListRank": 129,
+      "prevListRank": 175,
       "prevActiveScore": 51.6
     },
     {
@@ -9989,7 +9989,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 16,
       "inactivePenalty": 15.0,
-      "prevListRank": 130,
+      "prevListRank": 176,
       "prevActiveScore": 51.6
     },
     {
@@ -10017,7 +10017,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
-      "prevListRank": 188,
+      "prevListRank": 177,
       "prevActiveScore": 42.6
     },
     {
@@ -10045,7 +10045,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 168,
+      "prevListRank": 178,
       "prevActiveScore": 46.3
     },
     {
@@ -10073,7 +10073,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
-      "prevListRank": 134,
+      "prevListRank": 179,
       "prevActiveScore": 51.1
     },
     {
@@ -10101,7 +10101,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 172,
+      "prevListRank": 180,
       "prevActiveScore": 46.0
     },
     {
@@ -10129,7 +10129,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 20,
       "inactivePenalty": 15.0,
-      "prevListRank": 136,
+      "prevListRank": 181,
       "prevActiveScore": 50.9
     },
     {
@@ -10157,7 +10157,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 173,
+      "prevListRank": 182,
       "prevActiveScore": 45.9
     },
     {
@@ -10185,7 +10185,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 176,
+      "prevListRank": 183,
       "prevActiveScore": 45.3
     },
     {
@@ -10211,7 +10211,7 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 2
       },
-      "prevListRank": 200,
+      "prevListRank": 184,
       "prevActiveScore": 35.0
     },
     {
@@ -10239,8 +10239,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 196,
-      "prevActiveScore": 39.2
+      "prevListRank": 185,
+      "prevActiveScore": 45.0
     },
     {
       "id": "215219",
@@ -10267,8 +10267,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 13,
       "inactivePenalty": 15.0,
-      "prevListRank": 183,
-      "prevActiveScore": 43.8
+      "prevListRank": 186,
+      "prevActiveScore": 50.0
     },
     {
       "id": "213666",
@@ -10295,8 +10295,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
-      "prevListRank": 193,
-      "prevActiveScore": 41.2
+      "prevListRank": 187,
+      "prevActiveScore": 50.0
     },
     {
       "id": "223333",
@@ -10323,7 +10323,7 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
-      "prevListRank": 194,
+      "prevListRank": 188,
       "prevActiveScore": 41.0
     },
     {
@@ -10351,8 +10351,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 44,
       "inactivePenalty": 15.0,
-      "prevListRank": 162,
-      "prevActiveScore": 46.6
+      "prevListRank": 189,
+      "prevActiveScore": 50.0
     },
     {
       "id": "236955",
@@ -10379,8 +10379,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 30,
       "inactivePenalty": 15.0,
-      "prevListRank": 175,
-      "prevActiveScore": 45.5
+      "prevListRank": 190,
+      "prevActiveScore": 50.0
     },
     {
       "id": "216097",
@@ -10407,8 +10407,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
-      "prevListRank": 181,
-      "prevActiveScore": 44.8
+      "prevListRank": 191,
+      "prevActiveScore": 45.0
     },
     {
       "id": "201551",
@@ -10435,8 +10435,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 45,
       "inactivePenalty": 15.0,
-      "prevListRank": 198,
-      "prevActiveScore": 36.2
+      "prevListRank": 192,
+      "prevActiveScore": 50.0
     },
     {
       "id": "267439",
@@ -10463,8 +10463,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 16,
       "inactivePenalty": 15.0,
-      "prevListRank": 163,
-      "prevActiveScore": 46.5
+      "prevListRank": 193,
+      "prevActiveScore": 50.0
     },
     {
       "id": "215992",
@@ -10491,8 +10491,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 13,
       "inactivePenalty": 15.0,
-      "prevListRank": 199,
-      "prevActiveScore": 35.8
+      "prevListRank": 194,
+      "prevActiveScore": 50.0
     },
     {
       "id": "220454",
@@ -10519,8 +10519,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 36,
       "inactivePenalty": 15.0,
-      "prevListRank": 166,
-      "prevActiveScore": 46.4
+      "prevListRank": 195,
+      "prevActiveScore": 50.0
     },
     {
       "id": "215946",
@@ -10547,8 +10547,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 30,
       "inactivePenalty": 15.0,
-      "prevListRank": 164,
-      "prevActiveScore": 46.5
+      "prevListRank": 196,
+      "prevActiveScore": 50.0
     },
     {
       "id": "201621",
@@ -10575,8 +10575,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 16,
       "inactivePenalty": 15.0,
-      "prevListRank": 182,
-      "prevActiveScore": 44.5
+      "prevListRank": 197,
+      "prevActiveScore": 50.0
     },
     {
       "id": "239436",
@@ -10603,8 +10603,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 43,
       "inactivePenalty": 15.0,
-      "prevListRank": 169,
-      "prevActiveScore": 46.3
+      "prevListRank": 198,
+      "prevActiveScore": 50.0
     },
     {
       "id": "260203",
@@ -10631,8 +10631,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 16,
       "inactivePenalty": 15.0,
-      "prevListRank": 160,
-      "prevActiveScore": 46.7
+      "prevListRank": 199,
+      "prevActiveScore": 50.0
     },
     {
       "id": "215042",
@@ -10659,8 +10659,8 @@ window.TENNIS_DATA = {
       },
       "inactiveWeeks": 20,
       "inactivePenalty": 15.0,
-      "prevListRank": 167,
-      "prevActiveScore": 46.4
+      "prevListRank": 200,
+      "prevActiveScore": 50.0
     }
   ],
   "ATP_CHANGES": {
@@ -11231,5 +11231,4009 @@ window.TENNIS_DATA = {
   "WTA_TODAY": [],
   "ATP_TOURNAMENT": {},
   "WTA_TOURNAMENT": {},
+  "ATP_SCORE_LOG": {
+    "206173": [
+      [
+        "20260606",
+        100.0
+      ],
+      [
+        "20260613",
+        100.0
+      ]
+    ],
+    "207989": [
+      [
+        "20260606",
+        97.1
+      ],
+      [
+        "20260613",
+        91.1
+      ]
+    ],
+    "100644": [
+      [
+        "20260606",
+        87.4
+      ],
+      [
+        "20260613",
+        87.4
+      ]
+    ],
+    "104925": [
+      [
+        "20260606",
+        87.4
+      ],
+      [
+        "20260613",
+        87.4
+      ]
+    ],
+    "209950": [
+      [
+        "20260606",
+        82.7
+      ],
+      [
+        "20260613",
+        82.7
+      ]
+    ],
+    "134770": [
+      [
+        "20260606",
+        81.1
+      ],
+      [
+        "20260613",
+        81.1
+      ]
+    ],
+    "207518": [
+      [
+        "20260606",
+        79.3
+      ],
+      [
+        "20260613",
+        79.3
+      ]
+    ],
+    "126205": [
+      [
+        "20260606",
+        79.1
+      ],
+      [
+        "20260613",
+        79.1
+      ]
+    ],
+    "106421": [
+      [
+        "20260606",
+        78.7
+      ],
+      [
+        "20260613",
+        78.7
+      ]
+    ],
+    "212588": [
+      [
+        "20260606",
+        78.0
+      ],
+      [
+        "20260613",
+        78.0
+      ]
+    ],
+    "200000": [
+      [
+        "20260606",
+        77.7
+      ],
+      [
+        "20260613",
+        77.7
+      ]
+    ],
+    "200282": [
+      [
+        "20260606",
+        77.0
+      ],
+      [
+        "20260613",
+        77.0
+      ]
+    ],
+    "210097": [
+      [
+        "20260606",
+        76.5
+      ],
+      [
+        "20260613",
+        76.5
+      ]
+    ],
+    "208103": [
+      [
+        "20260606",
+        76.4
+      ],
+      [
+        "20260613",
+        76.4
+      ]
+    ],
+    "210150": [
+      [
+        "20260606",
+        76.1
+      ],
+      [
+        "20260613",
+        76.1
+      ]
+    ],
+    "122330": [
+      [
+        "20260606",
+        76.0
+      ],
+      [
+        "20260613",
+        76.0
+      ]
+    ],
+    "126203": [
+      [
+        "20260606",
+        75.7
+      ],
+      [
+        "20260613",
+        75.7
+      ]
+    ],
+    "207925": [
+      [
+        "20260606",
+        75.4
+      ],
+      [
+        "20260613",
+        75.4
+      ]
+    ],
+    "126094": [
+      [
+        "20260606",
+        75.3
+      ],
+      [
+        "20260613",
+        75.3
+      ]
+    ],
+    "200473": [
+      [
+        "20260606",
+        74.8
+      ],
+      [
+        "20260613",
+        74.8
+      ]
+    ],
+    "210530": [
+      [
+        "20260606",
+        74.7
+      ],
+      [
+        "20260613",
+        74.7
+      ]
+    ],
+    "211663": [
+      [
+        "20260606",
+        73.7
+      ],
+      [
+        "20260613",
+        73.7
+      ]
+    ],
+    "126207": [
+      [
+        "20260606",
+        73.7
+      ],
+      [
+        "20260613",
+        73.7
+      ]
+    ],
+    "202103": [
+      [
+        "20260606",
+        73.3
+      ],
+      [
+        "20260613",
+        73.3
+      ]
+    ],
+    "200221": [
+      [
+        "20260606",
+        72.8
+      ],
+      [
+        "20260613",
+        72.8
+      ]
+    ],
+    "210696": [
+      [
+        "20260606",
+        72.1
+      ],
+      [
+        "20260613",
+        72.1
+      ]
+    ],
+    "111575": [
+      [
+        "20260606",
+        71.0
+      ],
+      [
+        "20260613",
+        71.0
+      ]
+    ],
+    "209860": [
+      [
+        "20260606",
+        68.3
+      ],
+      [
+        "20260613",
+        68.3
+      ]
+    ],
+    "207830": [
+      [
+        "20260606",
+        68.0
+      ],
+      [
+        "20260613",
+        68.0
+      ]
+    ],
+    "206909": [
+      [
+        "20260606",
+        67.5
+      ],
+      [
+        "20260613",
+        67.5
+      ]
+    ],
+    "111815": [
+      [
+        "20260606",
+        67.4
+      ],
+      [
+        "20260613",
+        67.4
+      ]
+    ],
+    "126610": [
+      [
+        "20260606",
+        66.8
+      ],
+      [
+        "20260613",
+        66.8
+      ]
+    ],
+    "210506": [
+      [
+        "20260606",
+        66.6
+      ],
+      [
+        "20260613",
+        66.6
+      ]
+    ],
+    "126214": [
+      [
+        "20260606",
+        66.4
+      ],
+      [
+        "20260613",
+        66.4
+      ]
+    ],
+    "209260": [
+      [
+        "20260606",
+        66.2
+      ],
+      [
+        "20260613",
+        66.2
+      ]
+    ],
+    "200005": [
+      [
+        "20260606",
+        66.2
+      ],
+      [
+        "20260613",
+        66.2
+      ]
+    ],
+    "202058": [
+      [
+        "20260606",
+        66.1
+      ],
+      [
+        "20260613",
+        66.1
+      ]
+    ],
+    "126239": [
+      [
+        "20260606",
+        66.0
+      ],
+      [
+        "20260613",
+        66.0
+      ]
+    ],
+    "134868": [
+      [
+        "20260606",
+        65.9
+      ],
+      [
+        "20260613",
+        65.9
+      ]
+    ],
+    "207733": [
+      [
+        "20260606",
+        71.5
+      ],
+      [
+        "20260613",
+        65.5
+      ]
+    ],
+    "208286": [
+      [
+        "20260606",
+        65.3
+      ],
+      [
+        "20260613",
+        65.3
+      ]
+    ],
+    "144869": [
+      [
+        "20260606",
+        65.2
+      ],
+      [
+        "20260613",
+        65.2
+      ]
+    ],
+    "208363": [
+      [
+        "20260606",
+        65.0
+      ],
+      [
+        "20260613",
+        65.0
+      ]
+    ],
+    "144719": [
+      [
+        "20260606",
+        64.4
+      ],
+      [
+        "20260613",
+        64.4
+      ]
+    ],
+    "209098": [
+      [
+        "20260606",
+        63.5
+      ],
+      [
+        "20260613",
+        63.5
+      ]
+    ],
+    "209920": [
+      [
+        "20260606",
+        62.6
+      ],
+      [
+        "20260613",
+        62.6
+      ]
+    ],
+    "144684": [
+      [
+        "20260606",
+        68.6
+      ],
+      [
+        "20260613",
+        62.6
+      ]
+    ],
+    "144895": [
+      [
+        "20260606",
+        62.4
+      ],
+      [
+        "20260613",
+        62.4
+      ]
+    ],
+    "122298": [
+      [
+        "20260606",
+        62.2
+      ],
+      [
+        "20260613",
+        62.2
+      ]
+    ],
+    "105227": [
+      [
+        "20260606",
+        61.9
+      ],
+      [
+        "20260613",
+        61.9
+      ]
+    ],
+    "105870": [
+      [
+        "20260606",
+        61.8
+      ],
+      [
+        "20260613",
+        61.8
+      ]
+    ],
+    "132686": [
+      [
+        "20260606",
+        61.7
+      ],
+      [
+        "20260613",
+        61.7
+      ]
+    ],
+    "210017": [
+      [
+        "20260606",
+        61.6
+      ],
+      [
+        "20260613",
+        61.6
+      ]
+    ],
+    "126774": [
+      [
+        "20260606",
+        61.5
+      ],
+      [
+        "20260613",
+        61.5
+      ]
+    ],
+    "200267": [
+      [
+        "20260606",
+        61.3
+      ],
+      [
+        "20260613",
+        61.3
+      ]
+    ],
+    "209226": [
+      [
+        "20260606",
+        61.2
+      ],
+      [
+        "20260613",
+        61.2
+      ]
+    ],
+    "207678": [
+      [
+        "20260606",
+        61.1
+      ],
+      [
+        "20260613",
+        61.1
+      ]
+    ],
+    "209113": [
+      [
+        "20260606",
+        60.5
+      ],
+      [
+        "20260613",
+        60.5
+      ]
+    ],
+    "133430": [
+      [
+        "20260606",
+        60.1
+      ],
+      [
+        "20260613",
+        60.1
+      ]
+    ],
+    "200240": [
+      [
+        "20260606",
+        60.1
+      ],
+      [
+        "20260613",
+        60.1
+      ]
+    ],
+    "128034": [
+      [
+        "20260606",
+        60.0
+      ],
+      [
+        "20260613",
+        60.0
+      ]
+    ],
+    "206681": [
+      [
+        "20260606",
+        59.5
+      ],
+      [
+        "20260613",
+        59.5
+      ]
+    ],
+    "202104": [
+      [
+        "20260606",
+        59.3
+      ],
+      [
+        "20260613",
+        59.3
+      ]
+    ],
+    "209414": [
+      [
+        "20260606",
+        59.3
+      ],
+      [
+        "20260613",
+        59.3
+      ]
+    ],
+    "212021": [
+      [
+        "20260606",
+        59.2
+      ],
+      [
+        "20260613",
+        59.2
+      ]
+    ],
+    "209279": [
+      [
+        "20260606",
+        59.0
+      ],
+      [
+        "20260613",
+        59.0
+      ]
+    ],
+    "208118": [
+      [
+        "20260606",
+        59.0
+      ],
+      [
+        "20260613",
+        59.0
+      ]
+    ],
+    "202385": [
+      [
+        "20260606",
+        58.7
+      ],
+      [
+        "20260613",
+        58.7
+      ]
+    ],
+    "208882": [
+      [
+        "20260606",
+        58.6
+      ],
+      [
+        "20260613",
+        58.6
+      ]
+    ],
+    "200116": [
+      [
+        "20260606",
+        58.3
+      ],
+      [
+        "20260613",
+        58.3
+      ]
+    ],
+    "105916": [
+      [
+        "20260606",
+        58.2
+      ],
+      [
+        "20260613",
+        58.2
+      ]
+    ],
+    "209976": [
+      [
+        "20260606",
+        58.1
+      ],
+      [
+        "20260613",
+        58.1
+      ]
+    ],
+    "200175": [
+      [
+        "20260606",
+        57.8
+      ],
+      [
+        "20260613",
+        57.8
+      ]
+    ],
+    "126504": [
+      [
+        "20260606",
+        57.5
+      ],
+      [
+        "20260613",
+        57.5
+      ]
+    ],
+    "208260": [
+      [
+        "20260606",
+        57.4
+      ],
+      [
+        "20260613",
+        57.4
+      ]
+    ],
+    "200059": [
+      [
+        "20260606",
+        57.4
+      ],
+      [
+        "20260613",
+        57.4
+      ]
+    ],
+    "111794": [
+      [
+        "20260606",
+        56.9
+      ],
+      [
+        "20260613",
+        56.9
+      ]
+    ],
+    "132283": [
+      [
+        "20260606",
+        56.6
+      ],
+      [
+        "20260613",
+        56.6
+      ]
+    ],
+    "209409": [
+      [
+        "20260606",
+        56.6
+      ],
+      [
+        "20260613",
+        56.6
+      ]
+    ],
+    "208169": [
+      [
+        "20260606",
+        56.6
+      ],
+      [
+        "20260613",
+        56.6
+      ]
+    ],
+    "208029": [
+      [
+        "20260606",
+        71.2
+      ],
+      [
+        "20260613",
+        56.2
+      ]
+    ],
+    "105807": [
+      [
+        "20260606",
+        55.8
+      ],
+      [
+        "20260613",
+        55.8
+      ]
+    ],
+    "200624": [
+      [
+        "20260606",
+        68.8
+      ],
+      [
+        "20260613",
+        55.4
+      ]
+    ],
+    "207411": [
+      [
+        "20260606",
+        55.3
+      ],
+      [
+        "20260613",
+        55.3
+      ]
+    ],
+    "126952": [
+      [
+        "20260606",
+        55.3
+      ],
+      [
+        "20260613",
+        55.3
+      ]
+    ],
+    "200615": [
+      [
+        "20260606",
+        55.2
+      ],
+      [
+        "20260613",
+        55.2
+      ]
+    ],
+    "208010": [
+      [
+        "20260606",
+        55.2
+      ],
+      [
+        "20260613",
+        55.2
+      ]
+    ],
+    "210338": [
+      [
+        "20260606",
+        55.0
+      ],
+      [
+        "20260613",
+        55.0
+      ]
+    ],
+    "124187": [
+      [
+        "20260606",
+        54.7
+      ],
+      [
+        "20260613",
+        54.7
+      ]
+    ],
+    "105173": [
+      [
+        "20260606",
+        54.6
+      ],
+      [
+        "20260613",
+        54.6
+      ]
+    ],
+    "106218": [
+      [
+        "20260606",
+        54.4
+      ],
+      [
+        "20260613",
+        54.4
+      ]
+    ],
+    "206499": [
+      [
+        "20260606",
+        54.3
+      ],
+      [
+        "20260613",
+        54.3
+      ]
+    ],
+    "111460": [
+      [
+        "20260606",
+        54.3
+      ],
+      [
+        "20260613",
+        54.3
+      ]
+    ],
+    "209147": [
+      [
+        "20260606",
+        53.9
+      ],
+      [
+        "20260613",
+        53.9
+      ]
+    ],
+    "106065": [
+      [
+        "20260606",
+        53.9
+      ],
+      [
+        "20260613",
+        53.9
+      ]
+    ],
+    "210262": [
+      [
+        "20260606",
+        53.7
+      ],
+      [
+        "20260613",
+        53.7
+      ]
+    ],
+    "206750": [
+      [
+        "20260606",
+        53.7
+      ],
+      [
+        "20260613",
+        53.7
+      ]
+    ],
+    "208293": [
+      [
+        "20260606",
+        53.7
+      ],
+      [
+        "20260613",
+        53.7
+      ]
+    ],
+    "144645": [
+      [
+        "20260606",
+        53.6
+      ],
+      [
+        "20260613",
+        53.6
+      ]
+    ],
+    "105526": [
+      [
+        "20260606",
+        53.5
+      ],
+      [
+        "20260613",
+        53.5
+      ]
+    ],
+    "126127": [
+      [
+        "20260606",
+        53.5
+      ],
+      [
+        "20260613",
+        53.5
+      ]
+    ],
+    "105882": [
+      [
+        "20260606",
+        53.5
+      ],
+      [
+        "20260613",
+        53.5
+      ]
+    ],
+    "105477": [
+      [
+        "20260606",
+        53.4
+      ],
+      [
+        "20260613",
+        53.4
+      ]
+    ],
+    "210053": [
+      [
+        "20260606",
+        53.4
+      ],
+      [
+        "20260613",
+        53.4
+      ]
+    ],
+    "208233": [
+      [
+        "20260606",
+        53.1
+      ],
+      [
+        "20260613",
+        53.1
+      ]
+    ],
+    "207494": [
+      [
+        "20260606",
+        53.0
+      ],
+      [
+        "20260613",
+        53.0
+      ]
+    ],
+    "207686": [
+      [
+        "20260606",
+        52.5
+      ],
+      [
+        "20260613",
+        52.5
+      ]
+    ],
+    "202127": [
+      [
+        "20260606",
+        52.3
+      ],
+      [
+        "20260613",
+        52.3
+      ]
+    ],
+    "105777": [
+      [
+        "20260606",
+        55.6
+      ],
+      [
+        "20260613",
+        52.2
+      ]
+    ],
+    "127157": [
+      [
+        "20260606",
+        52.1
+      ],
+      [
+        "20260613",
+        52.1
+      ]
+    ],
+    "124186": [
+      [
+        "20260606",
+        51.8
+      ],
+      [
+        "20260613",
+        51.8
+      ]
+    ],
+    "210116": [
+      [
+        "20260606",
+        51.7
+      ],
+      [
+        "20260613",
+        51.7
+      ]
+    ],
+    "207681": [
+      [
+        "20260606",
+        51.5
+      ],
+      [
+        "20260613",
+        51.5
+      ]
+    ],
+    "105138": [
+      [
+        "20260606",
+        51.4
+      ],
+      [
+        "20260613",
+        51.4
+      ]
+    ],
+    "207182": [
+      [
+        "20260606",
+        51.2
+      ],
+      [
+        "20260613",
+        51.2
+      ]
+    ],
+    "208353": [
+      [
+        "20260606",
+        51.0
+      ],
+      [
+        "20260613",
+        51.0
+      ]
+    ],
+    "210319": [
+      [
+        "20260606",
+        50.6
+      ],
+      [
+        "20260613",
+        50.6
+      ]
+    ],
+    "105932": [
+      [
+        "20260606",
+        50.6
+      ],
+      [
+        "20260613",
+        50.6
+      ]
+    ],
+    "210460": [
+      [
+        "20260606",
+        50.6
+      ],
+      [
+        "20260613",
+        50.6
+      ]
+    ],
+    "102093": [
+      [
+        "20260606",
+        53.7
+      ],
+      [
+        "20260613",
+        50.3
+      ]
+    ],
+    "208659": [
+      [
+        "20260606",
+        49.6
+      ],
+      [
+        "20260613",
+        49.6
+      ]
+    ],
+    "200443": [
+      [
+        "20260606",
+        49.2
+      ],
+      [
+        "20260613",
+        49.2
+      ]
+    ],
+    "207680": [
+      [
+        "20260606",
+        49.2
+      ],
+      [
+        "20260613",
+        49.2
+      ]
+    ],
+    "126128": [
+      [
+        "20260606",
+        48.8
+      ],
+      [
+        "20260613",
+        48.8
+      ]
+    ],
+    "106000": [
+      [
+        "20260606",
+        48.0
+      ],
+      [
+        "20260613",
+        48.0
+      ]
+    ],
+    "208014": [
+      [
+        "20260606",
+        48.0
+      ],
+      [
+        "20260613",
+        48.0
+      ]
+    ],
+    "207985": [
+      [
+        "20260606",
+        47.9
+      ],
+      [
+        "20260613",
+        47.9
+      ]
+    ],
+    "208021": [
+      [
+        "20260606",
+        47.9
+      ],
+      [
+        "20260613",
+        47.9
+      ]
+    ],
+    "200514": [
+      [
+        "20260606",
+        47.8
+      ],
+      [
+        "20260613",
+        47.8
+      ]
+    ],
+    "208134": [
+      [
+        "20260606",
+        47.8
+      ],
+      [
+        "20260613",
+        47.8
+      ]
+    ],
+    "105902": [
+      [
+        "20260606",
+        47.7
+      ],
+      [
+        "20260613",
+        47.7
+      ]
+    ],
+    "210389": [
+      [
+        "20260606",
+        47.6
+      ],
+      [
+        "20260613",
+        47.6
+      ]
+    ],
+    "211533": [
+      [
+        "20260606",
+        47.6
+      ],
+      [
+        "20260613",
+        47.6
+      ]
+    ],
+    "210178": [
+      [
+        "20260606",
+        47.4
+      ],
+      [
+        "20260613",
+        47.4
+      ]
+    ],
+    "106426": [
+      [
+        "20260606",
+        47.3
+      ],
+      [
+        "20260613",
+        47.3
+      ]
+    ],
+    "149282": [
+      [
+        "20260606",
+        49.9
+      ],
+      [
+        "20260613",
+        46.5
+      ]
+    ],
+    "209070": [
+      [
+        "20260606",
+        59.8
+      ],
+      [
+        "20260613",
+        46.4
+      ]
+    ],
+    "208316": [
+      [
+        "20260606",
+        45.9
+      ],
+      [
+        "20260613",
+        45.9
+      ]
+    ],
+    "126846": [
+      [
+        "20260606",
+        45.7
+      ],
+      [
+        "20260613",
+        45.7
+      ]
+    ],
+    "209957": [
+      [
+        "20260606",
+        55.4
+      ],
+      [
+        "20260613",
+        45.4
+      ]
+    ],
+    "111581": [
+      [
+        "20260606",
+        60.2
+      ],
+      [
+        "20260613",
+        45.2
+      ]
+    ],
+    "126535": [
+      [
+        "20260606",
+        59.9
+      ],
+      [
+        "20260613",
+        44.9
+      ]
+    ],
+    "210012": [
+      [
+        "20260606",
+        54.8
+      ],
+      [
+        "20260613",
+        44.8
+      ]
+    ],
+    "104527": [
+      [
+        "20260606",
+        44.5
+      ],
+      [
+        "20260613",
+        44.5
+      ]
+    ],
+    "209857": [
+      [
+        "20260606",
+        59.3
+      ],
+      [
+        "20260613",
+        44.3
+      ]
+    ],
+    "124116": [
+      [
+        "20260606",
+        44.1
+      ],
+      [
+        "20260613",
+        44.1
+      ]
+    ],
+    "200384": [
+      [
+        "20260606",
+        42.6
+      ],
+      [
+        "20260613",
+        42.6
+      ]
+    ],
+    "106198": [
+      [
+        "20260606",
+        42.5
+      ],
+      [
+        "20260613",
+        42.5
+      ]
+    ],
+    "105583": [
+      [
+        "20260606",
+        45.7
+      ],
+      [
+        "20260613",
+        42.3
+      ]
+    ],
+    "210748": [
+      [
+        "20260606",
+        42.2
+      ],
+      [
+        "20260613",
+        42.2
+      ]
+    ],
+    "200416": [
+      [
+        "20260606",
+        56.9
+      ],
+      [
+        "20260613",
+        41.9
+      ]
+    ],
+    "111442": [
+      [
+        "20260606",
+        56.6
+      ],
+      [
+        "20260613",
+        41.6
+      ]
+    ],
+    "209284": [
+      [
+        "20260606",
+        44.9
+      ],
+      [
+        "20260613",
+        41.5
+      ]
+    ],
+    "209259": [
+      [
+        "20260606",
+        54.6
+      ],
+      [
+        "20260613",
+        41.2
+      ]
+    ],
+    "106109": [
+      [
+        "20260606",
+        50.8
+      ],
+      [
+        "20260613",
+        40.8
+      ]
+    ],
+    "144750": [
+      [
+        "20260606",
+        55.7
+      ],
+      [
+        "20260613",
+        40.7
+      ]
+    ],
+    "200516": [
+      [
+        "20260606",
+        40.6
+      ],
+      [
+        "20260613",
+        40.6
+      ]
+    ],
+    "208852": [
+      [
+        "20260606",
+        50.6
+      ],
+      [
+        "20260613",
+        40.6
+      ]
+    ],
+    "202261": [
+      [
+        "20260606",
+        46.3
+      ],
+      [
+        "20260613",
+        40.3
+      ]
+    ],
+    "106331": [
+      [
+        "20260606",
+        49.7
+      ],
+      [
+        "20260613",
+        39.7
+      ]
+    ],
+    "111456": [
+      [
+        "20260606",
+        49.1
+      ],
+      [
+        "20260613",
+        39.1
+      ]
+    ],
+    "210136": [
+      [
+        "20260606",
+        53.4
+      ],
+      [
+        "20260613",
+        38.4
+      ]
+    ],
+    "200008": [
+      [
+        "20260606",
+        53.0
+      ],
+      [
+        "20260613",
+        38.0
+      ]
+    ],
+    "106071": [
+      [
+        "20260606",
+        52.6
+      ],
+      [
+        "20260613",
+        37.6
+      ]
+    ],
+    "209209": [
+      [
+        "20260606",
+        52.3
+      ],
+      [
+        "20260613",
+        37.3
+      ]
+    ],
+    "124079": [
+      [
+        "20260606",
+        43.2
+      ],
+      [
+        "20260613",
+        37.2
+      ]
+    ],
+    "207608": [
+      [
+        "20260606",
+        46.9
+      ],
+      [
+        "20260613",
+        36.9
+      ]
+    ],
+    "208119": [
+      [
+        "20260606",
+        46.7
+      ],
+      [
+        "20260613",
+        36.7
+      ]
+    ],
+    "123828": [
+      [
+        "20260606",
+        46.2
+      ],
+      [
+        "20260613",
+        36.2
+      ]
+    ],
+    "208013": [
+      [
+        "20260606",
+        51.2
+      ],
+      [
+        "20260613",
+        36.2
+      ]
+    ],
+    "207729": [
+      [
+        "20260606",
+        51.2
+      ],
+      [
+        "20260613",
+        36.2
+      ]
+    ],
+    "208361": [
+      [
+        "20260606",
+        50.8
+      ],
+      [
+        "20260613",
+        35.8
+      ]
+    ],
+    "106415": [
+      [
+        "20260606",
+        50.4
+      ],
+      [
+        "20260613",
+        35.4
+      ]
+    ],
+    "200647": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "209262": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "208278": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "207352": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "144642": [
+      [
+        "20260606",
+        48.4
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "121411": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "126129": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "210536": [
+      [
+        "20260606",
+        48.4
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "208859": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "200711": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "209903": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "200259": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "212082": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "212256": [
+      [
+        "20260606",
+        45.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "208210": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "127339": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "127760": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "200436": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "111200": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "206904": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "111797": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "106148": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "206748": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "200329": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "209875": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "212063": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "206889": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ]
+  },
+  "WTA_SCORE_LOG": {
+    "214544": [
+      [
+        "20260606",
+        100.0
+      ],
+      [
+        "20260613",
+        100.0
+      ]
+    ],
+    "214981": [
+      [
+        "20260606",
+        93.3
+      ],
+      [
+        "20260613",
+        93.3
+      ]
+    ],
+    "259799": [
+      [
+        "20260606",
+        91.9
+      ],
+      [
+        "20260613",
+        91.9
+      ]
+    ],
+    "216347": [
+      [
+        "20260606",
+        91.4
+      ],
+      [
+        "20260613",
+        91.4
+      ]
+    ],
+    "221103": [
+      [
+        "20260606",
+        91.1
+      ],
+      [
+        "20260613",
+        91.1
+      ]
+    ],
+    "202494": [
+      [
+        "20260606",
+        90.5
+      ],
+      [
+        "20260613",
+        90.5
+      ]
+    ],
+    "216146": [
+      [
+        "20260606",
+        90.5
+      ],
+      [
+        "20260613",
+        90.5
+      ]
+    ],
+    "202468": [
+      [
+        "20260606",
+        90.2
+      ],
+      [
+        "20260613",
+        90.2
+      ]
+    ],
+    "216153": [
+      [
+        "20260606",
+        86.7
+      ],
+      [
+        "20260613",
+        86.7
+      ]
+    ],
+    "201514": [
+      [
+        "20260606",
+        85.9
+      ],
+      [
+        "20260613",
+        85.9
+      ]
+    ],
+    "214096": [
+      [
+        "20260606",
+        85.8
+      ],
+      [
+        "20260613",
+        85.8
+      ]
+    ],
+    "239475": [
+      [
+        "20260606",
+        85.3
+      ],
+      [
+        "20260613",
+        85.3
+      ]
+    ],
+    "202505": [
+      [
+        "20260606",
+        84.9
+      ],
+      [
+        "20260613",
+        84.9
+      ]
+    ],
+    "216081": [
+      [
+        "20260606",
+        81.1
+      ],
+      [
+        "20260613",
+        81.1
+      ]
+    ],
+    "201619": [
+      [
+        "20260606",
+        80.7
+      ],
+      [
+        "20260613",
+        80.7
+      ]
+    ],
+    "211768": [
+      [
+        "20260606",
+        80.2
+      ],
+      [
+        "20260613",
+        80.2
+      ]
+    ],
+    "215713": [
+      [
+        "20260606",
+        80.2
+      ],
+      [
+        "20260613",
+        80.2
+      ]
+    ],
+    "222328": [
+      [
+        "20260606",
+        78.6
+      ],
+      [
+        "20260613",
+        78.6
+      ]
+    ],
+    "210722": [
+      [
+        "20260606",
+        77.2
+      ],
+      [
+        "20260613",
+        77.2
+      ]
+    ],
+    "214939": [
+      [
+        "20260606",
+        77.0
+      ],
+      [
+        "20260613",
+        77.0
+      ]
+    ],
+    "223670": [
+      [
+        "20260606",
+        76.3
+      ],
+      [
+        "20260613",
+        76.3
+      ]
+    ],
+    "260300": [
+      [
+        "20260606",
+        76.3
+      ],
+      [
+        "20260613",
+        76.3
+      ]
+    ],
+    "211148": [
+      [
+        "20260606",
+        74.7
+      ],
+      [
+        "20260613",
+        74.7
+      ]
+    ],
+    "213631": [
+      [
+        "20260606",
+        72.4
+      ],
+      [
+        "20260613",
+        72.4
+      ]
+    ],
+    "215613": [
+      [
+        "20260606",
+        72.2
+      ],
+      [
+        "20260613",
+        72.2
+      ]
+    ],
+    "211533": [
+      [
+        "20260606",
+        71.4
+      ],
+      [
+        "20260613",
+        71.4
+      ]
+    ],
+    "221024": [
+      [
+        "20260606",
+        71.3
+      ],
+      [
+        "20260613",
+        71.3
+      ]
+    ],
+    "206252": [
+      [
+        "20260606",
+        70.9
+      ],
+      [
+        "20260613",
+        70.9
+      ]
+    ],
+    "201662": [
+      [
+        "20260606",
+        70.4
+      ],
+      [
+        "20260613",
+        70.4
+      ]
+    ],
+    "206420": [
+      [
+        "20260606",
+        70.2
+      ],
+      [
+        "20260613",
+        70.2
+      ]
+    ],
+    "220367": [
+      [
+        "20260606",
+        69.6
+      ],
+      [
+        "20260613",
+        69.6
+      ]
+    ],
+    "220520": [
+      [
+        "20260606",
+        69.3
+      ],
+      [
+        "20260613",
+        69.3
+      ]
+    ],
+    "211713": [
+      [
+        "20260606",
+        69.1
+      ],
+      [
+        "20260613",
+        69.1
+      ]
+    ],
+    "223253": [
+      [
+        "20260606",
+        68.4
+      ],
+      [
+        "20260613",
+        68.4
+      ]
+    ],
+    "215983": [
+      [
+        "20260606",
+        68.0
+      ],
+      [
+        "20260613",
+        68.0
+      ]
+    ],
+    "220704": [
+      [
+        "20260606",
+        67.8
+      ],
+      [
+        "20260613",
+        67.8
+      ]
+    ],
+    "221012": [
+      [
+        "20260606",
+        67.6
+      ],
+      [
+        "20260613",
+        67.6
+      ]
+    ],
+    "220548": [
+      [
+        "20260606",
+        67.1
+      ],
+      [
+        "20260613",
+        67.1
+      ]
+    ],
+    "220714": [
+      [
+        "20260606",
+        66.4
+      ],
+      [
+        "20260613",
+        66.4
+      ]
+    ],
+    "206289": [
+      [
+        "20260606",
+        66.0
+      ],
+      [
+        "20260613",
+        66.0
+      ]
+    ],
+    "215785": [
+      [
+        "20260606",
+        65.8
+      ],
+      [
+        "20260613",
+        65.8
+      ]
+    ],
+    "214643": [
+      [
+        "20260606",
+        65.7
+      ],
+      [
+        "20260613",
+        65.7
+      ]
+    ],
+    "221054": [
+      [
+        "20260606",
+        65.7
+      ],
+      [
+        "20260613",
+        65.7
+      ]
+    ],
+    "201696": [
+      [
+        "20260606",
+        65.7
+      ],
+      [
+        "20260613",
+        65.7
+      ]
+    ],
+    "220348": [
+      [
+        "20260606",
+        65.7
+      ],
+      [
+        "20260613",
+        65.7
+      ]
+    ],
+    "214954": [
+      [
+        "20260606",
+        80.2
+      ],
+      [
+        "20260613",
+        65.2
+      ]
+    ],
+    "211701": [
+      [
+        "20260606",
+        65.1
+      ],
+      [
+        "20260613",
+        65.1
+      ]
+    ],
+    "266671": [
+      [
+        "20260606",
+        68.6
+      ],
+      [
+        "20260613",
+        64.9
+      ]
+    ],
+    "220716": [
+      [
+        "20260606",
+        64.7
+      ],
+      [
+        "20260613",
+        64.7
+      ]
+    ],
+    "202663": [
+      [
+        "20260606",
+        64.1
+      ],
+      [
+        "20260613",
+        64.1
+      ]
+    ],
+    "211107": [
+      [
+        "20260606",
+        63.9
+      ],
+      [
+        "20260613",
+        63.9
+      ]
+    ],
+    "233741": [
+      [
+        "20260606",
+        63.8
+      ],
+      [
+        "20260613",
+        63.8
+      ]
+    ],
+    "239383": [
+      [
+        "20260606",
+        63.7
+      ],
+      [
+        "20260613",
+        63.7
+      ]
+    ],
+    "215035": [
+      [
+        "20260606",
+        63.7
+      ],
+      [
+        "20260613",
+        63.7
+      ]
+    ],
+    "238184": [
+      [
+        "20260606",
+        63.4
+      ],
+      [
+        "20260613",
+        63.4
+      ]
+    ],
+    "223360": [
+      [
+        "20260606",
+        63.2
+      ],
+      [
+        "20260613",
+        63.2
+      ]
+    ],
+    "216133": [
+      [
+        "20260606",
+        62.9
+      ],
+      [
+        "20260613",
+        62.9
+      ]
+    ],
+    "214119": [
+      [
+        "20260606",
+        62.8
+      ],
+      [
+        "20260613",
+        62.8
+      ]
+    ],
+    "203501": [
+      [
+        "20260606",
+        62.5
+      ],
+      [
+        "20260613",
+        62.5
+      ]
+    ],
+    "221333": [
+      [
+        "20260606",
+        62.3
+      ],
+      [
+        "20260613",
+        62.3
+      ]
+    ],
+    "216083": [
+      [
+        "20260606",
+        62.2
+      ],
+      [
+        "20260613",
+        62.2
+      ]
+    ],
+    "263857": [
+      [
+        "20260606",
+        61.7
+      ],
+      [
+        "20260613",
+        61.7
+      ]
+    ],
+    "222045": [
+      [
+        "20260606",
+        61.3
+      ],
+      [
+        "20260613",
+        61.3
+      ]
+    ],
+    "211843": [
+      [
+        "20260606",
+        60.8
+      ],
+      [
+        "20260613",
+        60.8
+      ]
+    ],
+    "220332": [
+      [
+        "20260606",
+        60.5
+      ],
+      [
+        "20260613",
+        60.5
+      ]
+    ],
+    "211337": [
+      [
+        "20260606",
+        60.1
+      ],
+      [
+        "20260613",
+        60.1
+      ]
+    ],
+    "213525": [
+      [
+        "20260606",
+        59.4
+      ],
+      [
+        "20260613",
+        59.4
+      ]
+    ],
+    "214388": [
+      [
+        "20260606",
+        59.1
+      ],
+      [
+        "20260613",
+        59.1
+      ]
+    ],
+    "220750": [
+      [
+        "20260606",
+        58.8
+      ],
+      [
+        "20260613",
+        58.8
+      ]
+    ],
+    "213710": [
+      [
+        "20260606",
+        58.4
+      ],
+      [
+        "20260613",
+        58.4
+      ]
+    ],
+    "211684": [
+      [
+        "20260606",
+        58.2
+      ],
+      [
+        "20260613",
+        58.2
+      ]
+    ],
+    "214082": [
+      [
+        "20260606",
+        58.2
+      ],
+      [
+        "20260613",
+        58.2
+      ]
+    ],
+    "222601": [
+      [
+        "20260606",
+        58.1
+      ],
+      [
+        "20260613",
+        58.1
+      ]
+    ],
+    "238075": [
+      [
+        "20260606",
+        58.0
+      ],
+      [
+        "20260613",
+        58.0
+      ]
+    ],
+    "220309": [
+      [
+        "20260606",
+        58.0
+      ],
+      [
+        "20260613",
+        58.0
+      ]
+    ],
+    "260172": [
+      [
+        "20260606",
+        58.0
+      ],
+      [
+        "20260613",
+        58.0
+      ]
+    ],
+    "222391": [
+      [
+        "20260606",
+        58.0
+      ],
+      [
+        "20260613",
+        58.0
+      ]
+    ],
+    "201533": [
+      [
+        "20260606",
+        57.6
+      ],
+      [
+        "20260613",
+        57.6
+      ]
+    ],
+    "203530": [
+      [
+        "20260606",
+        57.4
+      ],
+      [
+        "20260613",
+        57.4
+      ]
+    ],
+    "211817": [
+      [
+        "20260606",
+        57.4
+      ],
+      [
+        "20260613",
+        57.4
+      ]
+    ],
+    "215910": [
+      [
+        "20260606",
+        57.3
+      ],
+      [
+        "20260613",
+        57.3
+      ]
+    ],
+    "214826": [
+      [
+        "20260606",
+        57.3
+      ],
+      [
+        "20260613",
+        57.3
+      ]
+    ],
+    "221883": [
+      [
+        "20260606",
+        56.9
+      ],
+      [
+        "20260613",
+        56.9
+      ]
+    ],
+    "222145": [
+      [
+        "20260606",
+        56.7
+      ],
+      [
+        "20260613",
+        56.7
+      ]
+    ],
+    "202499": [
+      [
+        "20260606",
+        56.1
+      ],
+      [
+        "20260613",
+        56.1
+      ]
+    ],
+    "213583": [
+      [
+        "20260606",
+        55.9
+      ],
+      [
+        "20260613",
+        55.9
+      ]
+    ],
+    "219917": [
+      [
+        "20260606",
+        55.6
+      ],
+      [
+        "20260613",
+        55.6
+      ]
+    ],
+    "214040": [
+      [
+        "20260606",
+        55.4
+      ],
+      [
+        "20260613",
+        55.4
+      ]
+    ],
+    "221909": [
+      [
+        "20260606",
+        55.1
+      ],
+      [
+        "20260613",
+        55.1
+      ]
+    ],
+    "221354": [
+      [
+        "20260606",
+        54.2
+      ],
+      [
+        "20260613",
+        54.2
+      ]
+    ],
+    "259871": [
+      [
+        "20260606",
+        53.6
+      ],
+      [
+        "20260613",
+        53.6
+      ]
+    ],
+    "260168": [
+      [
+        "20260606",
+        53.6
+      ],
+      [
+        "20260613",
+        53.6
+      ]
+    ],
+    "221803": [
+      [
+        "20260606",
+        53.6
+      ],
+      [
+        "20260613",
+        53.6
+      ]
+    ],
+    "213550": [
+      [
+        "20260606",
+        53.3
+      ],
+      [
+        "20260613",
+        53.3
+      ]
+    ],
+    "201709": [
+      [
+        "20260606",
+        53.1
+      ],
+      [
+        "20260613",
+        53.1
+      ]
+    ],
+    "236957": [
+      [
+        "20260606",
+        53.1
+      ],
+      [
+        "20260613",
+        53.1
+      ]
+    ],
+    "236972": [
+      [
+        "20260606",
+        53.1
+      ],
+      [
+        "20260613",
+        53.1
+      ]
+    ],
+    "252499": [
+      [
+        "20260606",
+        53.0
+      ],
+      [
+        "20260613",
+        53.0
+      ]
+    ],
+    "211651": [
+      [
+        "20260606",
+        56.7
+      ],
+      [
+        "20260613",
+        53.0
+      ]
+    ],
+    "213887": [
+      [
+        "20260606",
+        52.9
+      ],
+      [
+        "20260613",
+        52.9
+      ]
+    ],
+    "259857": [
+      [
+        "20260606",
+        52.5
+      ],
+      [
+        "20260613",
+        52.5
+      ]
+    ],
+    "215872": [
+      [
+        "20260606",
+        51.8
+      ],
+      [
+        "20260613",
+        51.8
+      ]
+    ],
+    "201548": [
+      [
+        "20260606",
+        51.8
+      ],
+      [
+        "20260613",
+        51.8
+      ]
+    ],
+    "215453": [
+      [
+        "20260606",
+        51.6
+      ],
+      [
+        "20260613",
+        51.6
+      ]
+    ],
+    "222966": [
+      [
+        "20260606",
+        57.4
+      ],
+      [
+        "20260613",
+        51.4
+      ]
+    ],
+    "214646": [
+      [
+        "20260606",
+        51.1
+      ],
+      [
+        "20260613",
+        51.1
+      ]
+    ],
+    "247669": [
+      [
+        "20260606",
+        56.5
+      ],
+      [
+        "20260613",
+        50.5
+      ]
+    ],
+    "215370": [
+      [
+        "20260606",
+        50.5
+      ],
+      [
+        "20260613",
+        50.5
+      ]
+    ],
+    "201499": [
+      [
+        "20260606",
+        54.1
+      ],
+      [
+        "20260613",
+        50.4
+      ]
+    ],
+    "203514": [
+      [
+        "20260606",
+        60.4
+      ],
+      [
+        "20260613",
+        50.4
+      ]
+    ],
+    "221039": [
+      [
+        "20260606",
+        50.2
+      ],
+      [
+        "20260613",
+        50.2
+      ]
+    ],
+    "221407": [
+      [
+        "20260606",
+        50.2
+      ],
+      [
+        "20260613",
+        50.2
+      ]
+    ],
+    "215020": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        50.0
+      ]
+    ],
+    "210622": [
+      [
+        "20260606",
+        65.0
+      ],
+      [
+        "20260613",
+        50.0
+      ]
+    ],
+    "211685": [
+      [
+        "20260606",
+        49.9
+      ],
+      [
+        "20260613",
+        49.9
+      ]
+    ],
+    "223194": [
+      [
+        "20260606",
+        64.8
+      ],
+      [
+        "20260613",
+        49.8
+      ]
+    ],
+    "215306": [
+      [
+        "20260606",
+        49.7
+      ],
+      [
+        "20260613",
+        49.7
+      ]
+    ],
+    "239456": [
+      [
+        "20260606",
+        49.7
+      ],
+      [
+        "20260613",
+        49.7
+      ]
+    ],
+    "222661": [
+      [
+        "20260606",
+        64.6
+      ],
+      [
+        "20260613",
+        49.6
+      ]
+    ],
+    "243420": [
+      [
+        "20260606",
+        49.0
+      ],
+      [
+        "20260613",
+        49.0
+      ]
+    ],
+    "259733": [
+      [
+        "20260606",
+        48.7
+      ],
+      [
+        "20260613",
+        48.7
+      ]
+    ],
+    "220435": [
+      [
+        "20260606",
+        47.6
+      ],
+      [
+        "20260613",
+        47.6
+      ]
+    ],
+    "261972": [
+      [
+        "20260606",
+        47.6
+      ],
+      [
+        "20260613",
+        47.6
+      ]
+    ],
+    "215899": [
+      [
+        "20260606",
+        47.4
+      ],
+      [
+        "20260613",
+        47.4
+      ]
+    ],
+    "214906": [
+      [
+        "20260606",
+        47.3
+      ],
+      [
+        "20260613",
+        47.3
+      ]
+    ],
+    "263644": [
+      [
+        "20260606",
+        47.1
+      ],
+      [
+        "20260613",
+        47.1
+      ]
+    ],
+    "206368": [
+      [
+        "20260606",
+        61.8
+      ],
+      [
+        "20260613",
+        46.8
+      ]
+    ],
+    "205925": [
+      [
+        "20260606",
+        52.7
+      ],
+      [
+        "20260613",
+        46.7
+      ]
+    ],
+    "220465": [
+      [
+        "20260606",
+        46.6
+      ],
+      [
+        "20260613",
+        46.6
+      ]
+    ],
+    "230870": [
+      [
+        "20260606",
+        46.4
+      ],
+      [
+        "20260613",
+        46.4
+      ]
+    ],
+    "222017": [
+      [
+        "20260606",
+        61.3
+      ],
+      [
+        "20260613",
+        46.3
+      ]
+    ],
+    "214236": [
+      [
+        "20260606",
+        46.1
+      ],
+      [
+        "20260613",
+        46.1
+      ]
+    ],
+    "206242": [
+      [
+        "20260606",
+        46.0
+      ],
+      [
+        "20260613",
+        46.0
+      ]
+    ],
+    "220699": [
+      [
+        "20260606",
+        55.9
+      ],
+      [
+        "20260613",
+        45.9
+      ]
+    ],
+    "215572": [
+      [
+        "20260606",
+        45.2
+      ],
+      [
+        "20260613",
+        45.2
+      ]
+    ],
+    "221257": [
+      [
+        "20260606",
+        45.0
+      ],
+      [
+        "20260613",
+        45.0
+      ]
+    ],
+    "211539": [
+      [
+        "20260606",
+        45.0
+      ],
+      [
+        "20260613",
+        45.0
+      ]
+    ],
+    "214459": [
+      [
+        "20260606",
+        44.9
+      ],
+      [
+        "20260613",
+        44.9
+      ]
+    ],
+    "223286": [
+      [
+        "20260606",
+        48.3
+      ],
+      [
+        "20260613",
+        44.6
+      ]
+    ],
+    "220722": [
+      [
+        "20260606",
+        48.0
+      ],
+      [
+        "20260613",
+        44.3
+      ]
+    ],
+    "221237": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        44.0
+      ]
+    ],
+    "220446": [
+      [
+        "20260606",
+        53.8
+      ],
+      [
+        "20260613",
+        43.8
+      ]
+    ],
+    "215337": [
+      [
+        "20260606",
+        58.8
+      ],
+      [
+        "20260613",
+        43.8
+      ]
+    ],
+    "215936": [
+      [
+        "20260606",
+        43.4
+      ],
+      [
+        "20260613",
+        43.4
+      ]
+    ],
+    "216016": [
+      [
+        "20260606",
+        43.3
+      ],
+      [
+        "20260613",
+        43.3
+      ]
+    ],
+    "219875": [
+      [
+        "20260606",
+        56.7
+      ],
+      [
+        "20260613",
+        43.0
+      ]
+    ],
+    "223325": [
+      [
+        "20260606",
+        58.0
+      ],
+      [
+        "20260613",
+        43.0
+      ]
+    ],
+    "222258": [
+      [
+        "20260606",
+        43.0
+      ],
+      [
+        "20260613",
+        43.0
+      ]
+    ],
+    "214593": [
+      [
+        "20260606",
+        42.7
+      ],
+      [
+        "20260613",
+        42.7
+      ]
+    ],
+    "213646": [
+      [
+        "20260606",
+        42.4
+      ],
+      [
+        "20260613",
+        42.4
+      ]
+    ],
+    "220416": [
+      [
+        "20260606",
+        42.1
+      ],
+      [
+        "20260613",
+        42.1
+      ]
+    ],
+    "202604": [
+      [
+        "20260606",
+        51.9
+      ],
+      [
+        "20260613",
+        41.9
+      ]
+    ],
+    "204411": [
+      [
+        "20260606",
+        56.9
+      ],
+      [
+        "20260613",
+        41.9
+      ]
+    ],
+    "221406": [
+      [
+        "20260606",
+        45.5
+      ],
+      [
+        "20260613",
+        41.8
+      ]
+    ],
+    "206417": [
+      [
+        "20260606",
+        41.7
+      ],
+      [
+        "20260613",
+        41.7
+      ]
+    ],
+    "223321": [
+      [
+        "20260606",
+        51.6
+      ],
+      [
+        "20260613",
+        41.6
+      ]
+    ],
+    "211316": [
+      [
+        "20260606",
+        47.6
+      ],
+      [
+        "20260613",
+        41.6
+      ]
+    ],
+    "220662": [
+      [
+        "20260606",
+        41.2
+      ],
+      [
+        "20260613",
+        41.2
+      ]
+    ],
+    "206294": [
+      [
+        "20260606",
+        51.1
+      ],
+      [
+        "20260613",
+        41.1
+      ]
+    ],
+    "215250": [
+      [
+        "20260606",
+        41.0
+      ],
+      [
+        "20260613",
+        41.0
+      ]
+    ],
+    "221124": [
+      [
+        "20260606",
+        55.8
+      ],
+      [
+        "20260613",
+        40.8
+      ]
+    ],
+    "221985": [
+      [
+        "20260606",
+        50.4
+      ],
+      [
+        "20260613",
+        40.4
+      ]
+    ],
+    "216566": [
+      [
+        "20260606",
+        55.0
+      ],
+      [
+        "20260613",
+        40.0
+      ]
+    ],
+    "214452": [
+      [
+        "20260606",
+        49.4
+      ],
+      [
+        "20260613",
+        39.4
+      ]
+    ],
+    "211880": [
+      [
+        "20260606",
+        54.2
+      ],
+      [
+        "20260613",
+        39.2
+      ]
+    ],
+    "215037": [
+      [
+        "20260606",
+        48.9
+      ],
+      [
+        "20260613",
+        38.9
+      ]
+    ],
+    "215571": [
+      [
+        "20260606",
+        48.6
+      ],
+      [
+        "20260613",
+        38.6
+      ]
+    ],
+    "222290": [
+      [
+        "20260606",
+        53.1
+      ],
+      [
+        "20260613",
+        38.1
+      ]
+    ],
+    "220466": [
+      [
+        "20260606",
+        53.1
+      ],
+      [
+        "20260613",
+        38.1
+      ]
+    ],
+    "220742": [
+      [
+        "20260606",
+        52.9
+      ],
+      [
+        "20260613",
+        37.9
+      ]
+    ],
+    "216055": [
+      [
+        "20260606",
+        52.7
+      ],
+      [
+        "20260613",
+        37.7
+      ]
+    ],
+    "221626": [
+      [
+        "20260606",
+        52.6
+      ],
+      [
+        "20260613",
+        37.6
+      ]
+    ],
+    "211814": [
+      [
+        "20260606",
+        37.4
+      ],
+      [
+        "20260613",
+        37.4
+      ]
+    ],
+    "201478": [
+      [
+        "20260606",
+        46.7
+      ],
+      [
+        "20260613",
+        36.7
+      ]
+    ],
+    "215480": [
+      [
+        "20260606",
+        51.6
+      ],
+      [
+        "20260613",
+        36.6
+      ]
+    ],
+    "214461": [
+      [
+        "20260606",
+        51.6
+      ],
+      [
+        "20260613",
+        36.6
+      ]
+    ],
+    "202600": [
+      [
+        "20260606",
+        42.6
+      ],
+      [
+        "20260613",
+        36.6
+      ]
+    ],
+    "223168": [
+      [
+        "20260606",
+        46.3
+      ],
+      [
+        "20260613",
+        36.3
+      ]
+    ],
+    "222233": [
+      [
+        "20260606",
+        51.1
+      ],
+      [
+        "20260613",
+        36.1
+      ]
+    ],
+    "215138": [
+      [
+        "20260606",
+        46.0
+      ],
+      [
+        "20260613",
+        36.0
+      ]
+    ],
+    "202684": [
+      [
+        "20260606",
+        50.9
+      ],
+      [
+        "20260613",
+        35.9
+      ]
+    ],
+    "220733": [
+      [
+        "20260606",
+        45.9
+      ],
+      [
+        "20260613",
+        35.9
+      ]
+    ],
+    "221236": [
+      [
+        "20260606",
+        45.3
+      ],
+      [
+        "20260613",
+        35.3
+      ]
+    ],
+    "210886": [
+      [
+        "20260606",
+        35.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "221307": [
+      [
+        "20260606",
+        45.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "215219": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "213666": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "223333": [
+      [
+        "20260606",
+        41.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "211279": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "236955": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "216097": [
+      [
+        "20260606",
+        45.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "201551": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "267439": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "215992": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "220454": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "215946": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "201621": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "239436": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "260203": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ],
+    "215042": [
+      [
+        "20260606",
+        50.0
+      ],
+      [
+        "20260613",
+        35.0
+      ]
+    ]
+  },
   "IMPORTANCE": 7.5
 };

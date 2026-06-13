@@ -1282,12 +1282,66 @@ def _prev_active_score_map(tour_key: str) -> "dict[str, float]":
         return {}
 
 
+def _prev_score_log_map(log_key: str) -> "dict[str, list]":
+    """Return {player_id: [[YYYYMMDD, score], ...]} from a *_SCORE_LOG key before overwrite."""
+    import re as _re, json as _json
+    try:
+        out_path = ROOT / "tennis_data.js"
+        text = out_path.read_text(encoding="utf-8")
+        text = _re.sub(r"^\s*//.*\n", "", text)
+        text = _re.sub(r"^window\.TENNIS_DATA\s*=\s*", "", text, flags=_re.MULTILINE).rstrip().rstrip(";")
+        log = _json.loads(text).get(log_key, {}) or {}
+        return {str(k): v for k, v in log.items() if isinstance(v, list)}
+    except Exception:
+        return {}
+
+
+# Histórico de Nivel para medir el cambio semanal del chip (sube/baja según desempeño).
+# El cron corre varias veces al día, así que comparar contra el run anterior daría ~0;
+# guardamos un log diario y comparamos el Nivel de hoy contra el de hace ~7 días.
+_SCORE_LOG_KEEP_DAYS = 16   # días de histórico que conservamos por jugador
+_SCORE_DELTA_WINDOW  = 7    # ventana de comparación del chip (≈1 semana)
+
+def _update_score_log(players: list[dict], prev_log: "dict[str, list]", today: _date) -> "dict[str, list]":
+    """Añade el Nivel de hoy al log, poda lo viejo y fija prevActiveScore = Nivel de hace ~7 días
+    (o el más antiguo disponible mientras el histórico aún no llega a una semana)."""
+    today_str   = today.strftime("%Y%m%d")
+    cutoff_keep = (today - timedelta(days=_SCORE_LOG_KEEP_DAYS)).strftime("%Y%m%d")
+    week_ago    = (today - timedelta(days=_SCORE_DELTA_WINDOW)).strftime("%Y%m%d")
+    log: dict[str, list] = {}
+    for p in players:
+        pid = str(p.get("id", ""))
+        score = p.get("activeScore")
+        if not pid or not isinstance(score, (int, float)):
+            continue
+        hist = [e for e in prev_log.get(pid, [])
+                if isinstance(e, list) and len(e) == 2 and e[0] != today_str and e[0] >= cutoff_keep]
+        hist.sort(key=lambda e: e[0])
+        # Cold-start: sin histórico, sembramos un punto a "hace 7 días" con el Nivel
+        # previo a la penalización por inactividad, para que el chip muestre desde el
+        # primer día la bajada real de quien lleva semanas parado.
+        if not hist:
+            seed = round(float(score) + float(p.get("inactivePenalty", 0) or 0), 1)
+            hist = [[week_ago, seed]]
+        # baseline: entrada más reciente con fecha <= hace 7 días; si no hay, la más antigua
+        baseline = None
+        for d, s in hist:
+            if d <= week_ago:
+                baseline = s
+        if baseline is None:
+            baseline = hist[0][1]
+        p["prevActiveScore"] = round(float(baseline), 1)
+        hist.append([today_str, round(float(score), 1)])
+        log[pid] = hist
+    return log
+
+
 def write_data() -> None:
     # Capturar snapshot Hermes ANTES de sobreescribir
     prev_atp_list = _prev_list_rank_map("ATP")
     prev_wta_list = _prev_list_rank_map("WTA")
-    prev_atp_scores = _prev_active_score_map("ATP")
-    prev_wta_scores = _prev_active_score_map("WTA")
+    prev_atp_log = _prev_score_log_map("ATP_SCORE_LOG")
+    prev_wta_log = _prev_score_log_map("WTA_SCORE_LOG")
 
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
@@ -1297,12 +1351,9 @@ def write_data() -> None:
     atp, atp_scores = build_tour_data("atp", _prev_rank_map(atp_prev))
     atp_changes  = _top10_changes(atp_curr, atp_prev, atp_meta, atp_curr_date, atp_prev_date)
     atp_legends  = build_legends_tennis("atp")
-    # Añadir snapshot previo: posición Hermes y score activo para medir deltas post-torneo.
+    # Posición Hermes previa para el indicador de ranking de la lista.
     for i, p in enumerate(atp):
-        pid = str(p.get("id", ""))
-        p["prevListRank"] = prev_atp_list.get(pid)
-        if pid in prev_atp_scores:
-            p["prevActiveScore"] = round(prev_atp_scores[pid], 1)
+        p["prevListRank"] = prev_atp_list.get(str(p.get("id", "")))
 
     print("Building WTA data…", file=sys.stderr)
     wta_meta     = _players("wta")
@@ -1311,10 +1362,7 @@ def write_data() -> None:
     wta_changes  = _top10_changes(wta_curr, wta_prev, wta_meta, wta_curr_date, wta_prev_date)
     wta_legends  = build_legends_tennis("wta")
     for i, p in enumerate(wta):
-        pid = str(p.get("id", ""))
-        p["prevListRank"] = prev_wta_list.get(pid)
-        if pid in prev_wta_scores:
-            p["prevActiveScore"] = round(prev_wta_scores[pid], 1)
+        p["prevListRank"] = prev_wta_list.get(str(p.get("id", "")))
 
     importance = _tennis_importance()
 
@@ -1338,6 +1386,11 @@ def write_data() -> None:
     wta_recent = _recent_results("wta", wta_score_lookup)
     wta_today: list[dict] = []
 
+    # Actualizar histórico de Nivel y fijar prevActiveScore = Nivel de hace ~7 días,
+    # para que el chip refleje la subida/bajada por desempeño de la última semana.
+    atp_score_log = _update_score_log(atp, prev_atp_log, today)
+    wta_score_log = _update_score_log(wta, prev_wta_log, today)
+
     payload = {
         "UPDATED":     updated,
         "ATP":         atp,
@@ -1352,6 +1405,8 @@ def write_data() -> None:
         "WTA_TODAY":   wta_today,
         "ATP_TOURNAMENT": atp_tournament,
         "WTA_TOURNAMENT": wta_tournament,
+        "ATP_SCORE_LOG": atp_score_log,
+        "WTA_SCORE_LOG": wta_score_log,
         "IMPORTANCE":  importance,
     }
 
