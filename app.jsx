@@ -551,12 +551,95 @@ function NewsletterApp() {
     const date = new Date(normalized);
     return Number.isNaN(date.getTime()) ? null : date;
   }
-  function sectionFreshness(data) {
-    const date = sectionUpdateDate(data);
-    if (!date) return { updatedAt: null, isFresh: false };
-    const weekMs = 7 * 24 * 60 * 60 * 1000;
-    const ageMs = Date.now() - date.getTime();
-    return { updatedAt: data.UPDATED || data.LAST_UPDATE, isFresh: ageMs >= 0 && ageMs <= weekMs };
+  // "Activo" = hay competición real alrededor de ahora (ventana ±10 días para eventos
+  // puntuales; temporada en curso para ligas/series), no solo que el archivo se haya
+  // refrescado. La frescura del dato es un guard adicional: si un pipeline deja de
+  // actualizar (p. ej. rugby), el deporte se apaga aunque "estuviera en temporada".
+  const SECTION_SEASON = {
+    nhl: [10, 6], nba: [10, 6], mlb: [3, 11], tennis: [1, 11],
+    f1: [3, 12], motogp: [3, 11], indycar: [3, 9], nascar: [2, 11],
+    afl: [3, 9], cricket: [1, 12],
+  };
+  function parseLooseDate(v) {
+    if (!v) return null;
+    const iso = new Date(String(v).replace(" UTC", "Z").replace(" ", "T"));
+    if (!Number.isNaN(iso.getTime())) return iso;
+    const months = { ene: 0, jan: 0, feb: 1, mar: 2, abr: 3, apr: 3, may: 4, jun: 5, jul: 6, ago: 7, aug: 7, sep: 8, oct: 9, nov: 10, dic: 11, dec: 11 };
+    const m = String(v).trim().match(/^(\d{1,2})\s+([A-Za-z]{3})/);
+    if (m && months[m[2].toLowerCase()] !== undefined) {
+      return new Date(new Date().getFullYear(), months[m[2].toLowerCase()], parseInt(m[1], 10));
+    }
+    return null;
+  }
+  function sectionActivity(id, data) {
+    const WINDOW_DAYS = 10;
+    const FRESH_MS = WINDOW_DAYS * 24 * 60 * 60 * 1000;
+    const now = Date.now();
+    const upd = sectionUpdateDate(data);
+    const updatedAt = data?.UPDATED || data?.LAST_UPDATE || null;
+    const fresh = upd ? (now - upd.getTime() >= 0 && now - upd.getTime() <= FRESH_MS) : false;
+    const month = new Date().getMonth() + 1;
+    const inSeason = ([s, e]) => (s <= e ? month >= s && month <= e : month >= s || month <= e);
+    const within = (d, days = WINDOW_DAYS) => {
+      if (!d) return false;
+      const diff = (d.getTime() - now) / 86400000;
+      return diff >= -days && diff <= days;
+    };
+    const withinSpan = (startV, endV, pad = WINDOW_DAYS) => {
+      const s = parseLooseDate(startV);
+      const e = parseLooseDate(endV) || s;
+      if (!s) return false;
+      return now >= s.getTime() - pad * 86400000 && now <= e.getTime() + pad * 86400000;
+    };
+
+    let active, reason;
+    switch (id) {
+      case "nfl":
+        active = fresh && data?.SEASON_STATUS !== "offseason";
+        reason = data?.SEASON_STATUS === "offseason" ? "Fuera de temporada" : "Temporada en curso";
+        break;
+      case "golf": {
+        const cm = data?.CURRENT_MAJOR;
+        const live = cm && (cm.state === "live" || cm.state === "in_progress");
+        active = fresh && !!cm && (live || withinSpan(cm.start, cm.end));
+        reason = active ? (cm?.name || "Torneo cercano") : "Sin torneo cercano";
+        break;
+      }
+      case "sumo": {
+        const bi = data?.BASHO_INFO;
+        active = fresh && !!bi && withinSpan(bi.startDate, bi.endDate);
+        reason = active ? "Basho en ventana" : "Entre bashos";
+        break;
+      }
+      case "athletics": {
+        const nm = data?.NEXT_MEETING;
+        active = within(parseLooseDate(nm?.date));
+        reason = active ? (nm?.name || "Mitin cercano") : "Sin mitin cercano";
+        break;
+      }
+      case "cycling": {
+        const cr = data?.CURRENT_RACE;
+        const ongoing = cr && typeof cr.stage === "number" && typeof cr.total_stages === "number" && cr.stage < cr.total_stages;
+        active = fresh && !!cr && (ongoing || within(parseLooseDate(cr.last_stage?.date)));
+        reason = active ? (cr?.name || "Carrera en curso") : "Sin carrera cercana";
+        break;
+      }
+      case "football": {
+        const wc = data?.WORLD_CUP_2026 && (month === 6 || month === 7);
+        active = fresh && (inSeason([8, 5]) || !!wc);
+        reason = wc ? "Mundial 2026" : active ? "Temporada en curso" : "Receso";
+        break;
+      }
+      default:
+        if (SECTION_SEASON[id]) {
+          active = fresh && inSeason(SECTION_SEASON[id]);
+          reason = active ? "Temporada en curso" : "Fuera de temporada";
+        } else {
+          active = fresh;
+          reason = fresh ? "Datos recientes" : "Sin datos recientes";
+        }
+    }
+    return { updatedAt, isFresh: !!active, activityReason: reason };
   }
   const newsletterSections = useMemo(() => {
     const sectionData = [
@@ -579,7 +662,7 @@ function NewsletterApp() {
       { id: "athletics", label: "Atletismo", icon: "athletics", data: window.ATHLETICS_DATA },
     ].filter(section => !!section.data).map(section => ({
       ...section,
-      ...sectionFreshness(section.data),
+      ...sectionActivity(section.id, section.data),
     }));
     const hasFreshSection = sectionData.some(section => section.isFresh);
     const navSections = [...sectionData].sort((a, b) =>
@@ -618,7 +701,7 @@ function NewsletterApp() {
               type="button"
               onClick={() => setActiveSection(section.id)}
               aria-pressed={activeSection === section.id}
-              title={`${section.id === "all" ? "Ver todas las secciones" : `Ver solo ${section.label}`} · ${section.isFresh ? "Activo" : "Inactivo"} · ${section.updatedAt || "sin fecha"}`}
+              title={`${section.id === "all" ? "Ver todas las secciones" : `Ver solo ${section.label}`} · ${section.isFresh ? "Activo" : "Inactivo"}${section.activityReason ? ` (${section.activityReason})` : ""} · ${section.updatedAt || "sin fecha"}`}
             >
               <SectionIcon type={section.icon} />
               <span>{section.label}</span>
