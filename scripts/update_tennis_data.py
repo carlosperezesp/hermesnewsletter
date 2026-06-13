@@ -772,6 +772,26 @@ def _build_form(active_matches: list[dict]) -> dict[str, float]:
         form[pid] = sum(r for _, r in last20) / len(last20) if last20 else 0.5
     return form
 
+def _build_last_match_date(active_matches: list[dict]) -> dict[str, str]:
+    """{player_id: latest tourney_date (YYYYMMDD)} across recent singles matches."""
+    last: dict[str, str] = {}
+    for m in active_matches:
+        date = m.get("tourney_date", "")
+        if not date:
+            continue
+        for key in ("winner_id", "loser_id"):
+            pid = m.get(key, "").strip()
+            if pid and date > last.get(pid, ""):
+                last[pid] = date
+    return last
+
+# Inactividad: cuánto baja el Nivel de un jugador que lleva semanas sin competir.
+# La referencia es el torneo más reciente del propio dataset (no el reloj real),
+# así no penalizamos a todos cuando los datos de Sackmann van con unos días de retraso.
+_INACTIVE_GRACE_DAYS = 21      # margen normal entre torneos: no penaliza
+_INACTIVE_PEN_PER_WEEK = 2.0   # puntos de Nivel por semana extra parado
+_INACTIVE_PEN_CAP = 15.0       # tope de penalización
+
 # ── Opponent quality (avg rank of opponents beaten, lower rank = tougher) ───
 
 def _build_opp_quality(active_matches: list[dict]) -> dict[str, float]:
@@ -1144,6 +1164,26 @@ def build_tour_data(tour: str, prev_ranks: dict[str, int] | None = None) -> list
             p["legendScore"] = round((p["legendScore"] - l_min) / (l_max - l_min) * 100, 1)
         else:
             p["legendScore"] = 50.0
+
+    # inactivity decay: a player who hasn't competed in weeks loses a bit of Nivel,
+    # and recovers it naturally once they play again (form/Elo recompute, gap resets).
+    last_match = _build_last_match_date(active_matches)
+    ref_str = max(last_match.values()) if last_match else None
+    ref_date = _tourney_date(ref_str) if ref_str else None
+    if ref_date:
+        for p in scored:
+            lm = _tourney_date(last_match.get(p["id"], ""))
+            if not lm:
+                continue
+            gap = (ref_date - lm).days
+            if gap <= _INACTIVE_GRACE_DAYS:
+                continue
+            penalty = min(_INACTIVE_PEN_CAP, (gap - _INACTIVE_GRACE_DAYS) / 7.0 * _INACTIVE_PEN_PER_WEEK)
+            if penalty <= 0:
+                continue
+            p["activeScore"] = round(max(35.0, p["activeScore"] - penalty), 1)
+            p["inactiveWeeks"] = round(gap / 7.0)
+            p["inactivePenalty"] = round(penalty, 1)
 
     score_lookup = {p["name"]: p["activeScore"] for p in scored}
 

@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-11 16:42 UTC
+// Auto-generated 2026-06-13 16:21 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-11 16:42 UTC",
+  "UPDATED": "2026-06-13 16:21 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -38,7 +38,7 @@ window.TENNIS_DATA = {
       "teamCode": "ESP",
       "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "activeScore": 97.1,
+      "activeScore": 91.1,
       "legendScore": 58.7,
       "surface": {
         "hard": 0.859,
@@ -51,6 +51,8 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 55
       },
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
       "prevListRank": 2,
       "prevActiveScore": 97.1
     },
@@ -679,58 +681,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 72.1
     },
     {
-      "id": "207733",
-      "name": "Jack Draper",
-      "rank": 112,
-      "prevRank": 75,
-      "country": "GBR",
-      "logo": "https://flagcdn.com/24x18/gb.png",
-      "teamCode": "GBR",
-      "primary": "#012169",
-      "secondary": "#FFFFFF",
-      "activeScore": 71.5,
-      "legendScore": 26.5,
-      "surface": {
-        "hard": 0.75,
-        "clay": 0.706,
-        "grass": 0.667
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 9
-      },
-      "prevListRank": 27,
-      "prevActiveScore": 71.5
-    },
-    {
-      "id": "208029",
-      "name": "Holger Rune",
-      "rank": 64,
-      "prevRank": 44,
-      "country": "DEN",
-      "logo": "https://flagcdn.com/24x18/dk.png",
-      "teamCode": "DEN",
-      "primary": "#C60C30",
-      "secondary": "#FFFFFF",
-      "activeScore": 71.2,
-      "legendScore": 29.6,
-      "surface": {
-        "hard": 0.639,
-        "clay": 0.643,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 5,
-        "weeks_no1": 0,
-        "top10_wins": 20
-      },
-      "prevListRank": 28,
-      "prevActiveScore": 71.2
-    },
-    {
       "id": "111575",
       "name": "Karen Khachanov",
       "rank": 15,
@@ -755,58 +705,6 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 29,
       "prevActiveScore": 71.0
-    },
-    {
-      "id": "200624",
-      "name": "Sebastian Korda",
-      "rank": 60,
-      "prevRank": 47,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 68.8,
-      "legendScore": 25.6,
-      "surface": {
-        "hard": 0.604,
-        "clay": 0.5,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 10
-      },
-      "prevListRank": 30,
-      "prevActiveScore": 68.8
-    },
-    {
-      "id": "144684",
-      "name": "Alex Molcan",
-      "rank": 102,
-      "prevRank": 110,
-      "country": "SVK",
-      "logo": "https://flagcdn.com/24x18/sk.png",
-      "teamCode": "SVK",
-      "primary": "#0B4EA2",
-      "secondary": "#FFFFFF",
-      "activeScore": 68.6,
-      "legendScore": 19.0,
-      "surface": {
-        "hard": null,
-        "clay": 0.714,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "prevListRank": 31,
-      "prevActiveScore": 68.6
     },
     {
       "id": "209860",
@@ -1121,6 +1019,34 @@ window.TENNIS_DATA = {
       "prevActiveScore": 65.9
     },
     {
+      "id": "207733",
+      "name": "Jack Draper",
+      "rank": 112,
+      "prevRank": 75,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 65.5,
+      "legendScore": 26.5,
+      "surface": {
+        "hard": 0.75,
+        "clay": 0.706,
+        "grass": 0.667
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 9
+      },
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
+      "prevListRank": 27,
+      "prevActiveScore": 71.5
+    },
+    {
       "id": "208286",
       "name": "Matteo Arnaldi",
       "rank": 34,
@@ -1275,6 +1201,34 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 49,
       "prevActiveScore": 62.6
+    },
+    {
+      "id": "144684",
+      "name": "Alex Molcan",
+      "rank": 102,
+      "prevRank": 110,
+      "country": "SVK",
+      "logo": "https://flagcdn.com/24x18/sk.png",
+      "teamCode": "SVK",
+      "primary": "#0B4EA2",
+      "secondary": "#FFFFFF",
+      "activeScore": 62.6,
+      "legendScore": 19.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.714,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
+      "prevListRank": 31,
+      "prevActiveScore": 68.6
     },
     {
       "id": "144895",
@@ -1563,32 +1517,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 60.5
     },
     {
-      "id": "111581",
-      "name": "Michael Mmoh",
-      "rank": 195,
-      "prevRank": 216,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 60.2,
-      "legendScore": 14.6,
-      "surface": {
-        "hard": 0.571,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 61,
-      "prevActiveScore": 60.2
-    },
-    {
       "id": "133430",
       "name": "Denis Shapovalov",
       "rank": 42,
@@ -1667,58 +1595,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 60.0
     },
     {
-      "id": "126535",
-      "name": "Carlos Taberner",
-      "rank": 143,
-      "prevRank": 145,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
-      "secondary": "#FFFFFF",
-      "activeScore": 59.9,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": 0.625,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 65,
-      "prevActiveScore": 59.9
-    },
-    {
-      "id": "209070",
-      "name": "Arthur Cazaux",
-      "rank": 81,
-      "prevRank": 77,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
-      "secondary": "#FFFFFF",
-      "activeScore": 59.8,
-      "legendScore": 16.6,
-      "surface": {
-        "hard": 0.429,
-        "clay": 0.636,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "prevListRank": 66,
-      "prevActiveScore": 59.8
-    },
-    {
       "id": "206681",
       "name": "Fabian Marozsan",
       "rank": 61,
@@ -1794,32 +1670,6 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "prevListRank": 69,
-      "prevActiveScore": 59.3
-    },
-    {
-      "id": "209857",
-      "name": "Leandro Riedi",
-      "rank": 117,
-      "prevRank": 120,
-      "country": "SUI",
-      "logo": "https://flagcdn.com/24x18/ch.png",
-      "teamCode": "SUI",
-      "primary": "#FF0000",
-      "secondary": "#FFFFFF",
-      "activeScore": 59.3,
-      "legendScore": 22.1,
-      "surface": {
-        "hard": 0.6,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 70,
       "prevActiveScore": 59.3
     },
     {
@@ -2161,32 +2011,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 56.9
     },
     {
-      "id": "200416",
-      "name": "August Holmgren",
-      "rank": 148,
-      "prevRank": 156,
-      "country": "DEN",
-      "logo": "https://flagcdn.com/24x18/dk.png",
-      "teamCode": "DEN",
-      "primary": "#C60C30",
-      "secondary": "#FFFFFF",
-      "activeScore": 56.9,
-      "legendScore": 22.1,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 84,
-      "prevActiveScore": 56.9
-    },
-    {
       "id": "132283",
       "name": "Lorenzo Sonego",
       "rank": 66,
@@ -2265,30 +2089,32 @@ window.TENNIS_DATA = {
       "prevActiveScore": 56.6
     },
     {
-      "id": "111442",
-      "name": "Jordan Thompson",
-      "rank": 152,
-      "prevRank": 149,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
+      "id": "208029",
+      "name": "Holger Rune",
+      "rank": 64,
+      "prevRank": 44,
+      "country": "DEN",
+      "logo": "https://flagcdn.com/24x18/dk.png",
+      "teamCode": "DEN",
+      "primary": "#C60C30",
       "secondary": "#FFFFFF",
-      "activeScore": 56.6,
-      "legendScore": 17.7,
+      "activeScore": 56.2,
+      "legendScore": 29.6,
       "surface": {
-        "hard": 0.444,
-        "clay": 0.4,
-        "grass": 0.571
+        "hard": 0.639,
+        "clay": 0.643,
+        "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 1,
+        "titles": 5,
         "weeks_no1": 0,
-        "top10_wins": 7
+        "top10_wins": 20
       },
-      "prevListRank": 88,
-      "prevActiveScore": 56.6
+      "inactiveWeeks": 32,
+      "inactivePenalty": 15.0,
+      "prevListRank": 28,
+      "prevActiveScore": 71.2
     },
     {
       "id": "105807",
@@ -2317,82 +2143,32 @@ window.TENNIS_DATA = {
       "prevActiveScore": 55.8
     },
     {
-      "id": "144750",
-      "name": "Lloyd Harris",
-      "rank": 160,
-      "prevRank": 143,
-      "country": "RSA",
-      "logo": "https://flagcdn.com/24x18/za.png",
-      "teamCode": "RSA",
-      "primary": "#007749",
-      "secondary": "#FFFFFF",
-      "activeScore": 55.7,
-      "legendScore": 16.8,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 3
-      },
-      "prevListRank": 90,
-      "prevActiveScore": 55.7
-    },
-    {
-      "id": "105777",
-      "name": "Grigor Dimitrov",
-      "rank": 170,
-      "prevRank": 168,
-      "country": "BUL",
-      "logo": "https://flagcdn.com/24x18/bg.png",
-      "teamCode": "BUL",
-      "primary": "#00966E",
-      "secondary": "#FFFFFF",
-      "activeScore": 55.6,
-      "legendScore": 36.6,
-      "surface": {
-        "hard": 0.5,
-        "clay": 0.455,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 9,
-        "weeks_no1": 0,
-        "top10_wins": 43
-      },
-      "prevListRank": 91,
-      "prevActiveScore": 55.6
-    },
-    {
-      "id": "209957",
-      "name": "Jack Pinnington Jones",
-      "rank": 133,
-      "prevRank": 132,
-      "country": "GBR",
-      "logo": "https://flagcdn.com/24x18/gb.png",
-      "teamCode": "GBR",
-      "primary": "#012169",
+      "id": "200624",
+      "name": "Sebastian Korda",
+      "rank": 60,
+      "prevRank": 47,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
       "secondary": "#FFFFFF",
       "activeScore": 55.4,
-      "legendScore": 19.9,
+      "legendScore": 25.6,
       "surface": {
-        "hard": null,
-        "clay": null,
+        "hard": 0.604,
+        "clay": 0.5,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 3,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 10
       },
-      "prevListRank": 92,
-      "prevActiveScore": 55.4
+      "inactiveWeeks": 10,
+      "inactivePenalty": 13.4,
+      "prevListRank": 30,
+      "prevActiveScore": 68.8
     },
     {
       "id": "207411",
@@ -2525,32 +2301,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 55.0
     },
     {
-      "id": "210012",
-      "name": "Henrique Rocha",
-      "rank": 121,
-      "prevRank": 119,
-      "country": "POR",
-      "logo": "https://flagcdn.com/24x18/pt.png",
-      "teamCode": "POR",
-      "primary": "#006600",
-      "secondary": "#FFFFFF",
-      "activeScore": 54.8,
-      "legendScore": 22.1,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 98,
-      "prevActiveScore": 54.8
-    },
-    {
       "id": "124187",
       "name": "Reilly Opelka",
       "rank": 86,
@@ -2600,32 +2350,6 @@ window.TENNIS_DATA = {
         "top10_wins": 11
       },
       "prevListRank": 100,
-      "prevActiveScore": 54.6
-    },
-    {
-      "id": "209259",
-      "name": "Arthur Fery",
-      "rank": 141,
-      "prevRank": 154,
-      "country": "GBR",
-      "logo": "https://flagcdn.com/24x18/gb.png",
-      "teamCode": "GBR",
-      "primary": "#012169",
-      "secondary": "#FFFFFF",
-      "activeScore": 54.6,
-      "legendScore": 13.2,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 101,
       "prevActiveScore": 54.6
     },
     {
@@ -2782,32 +2506,6 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "prevListRank": 107,
-      "prevActiveScore": 53.7
-    },
-    {
-      "id": "102093",
-      "name": "Martin Damm",
-      "rank": 114,
-      "prevRank": 116,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 53.7,
-      "legendScore": 13.2,
-      "surface": {
-        "hard": 0.5,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 108,
       "prevActiveScore": 53.7
     },
     {
@@ -2993,32 +2691,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 53.4
     },
     {
-      "id": "210136",
-      "name": "Mark Lajal",
-      "rank": 154,
-      "prevRank": 157,
-      "country": "EST",
-      "logo": "https://flagcdn.com/24x18/ee.png",
-      "teamCode": "EST",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "activeScore": 53.4,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 116,
-      "prevActiveScore": 53.4
-    },
-    {
       "id": "210053",
       "name": "Luka Mikrut",
       "rank": 169,
@@ -3097,58 +2769,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 53.0
     },
     {
-      "id": "200008",
-      "name": "Alexis Galarneau",
-      "rank": 187,
-      "prevRank": 193,
-      "country": "CAN",
-      "logo": "https://flagcdn.com/24x18/ca.png",
-      "teamCode": "CAN",
-      "primary": "#FF0000",
-      "secondary": "#FFFFFF",
-      "activeScore": 53.0,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 120,
-      "prevActiveScore": 53.0
-    },
-    {
-      "id": "106071",
-      "name": "Bernard Tomic",
-      "rank": 188,
-      "prevRank": 194,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
-      "secondary": "#FFFFFF",
-      "activeScore": 52.6,
-      "legendScore": 25.6,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 4,
-        "weeks_no1": 0,
-        "top10_wins": 8
-      },
-      "prevListRank": 121,
-      "prevActiveScore": 52.6
-    },
-    {
       "id": "207686",
       "name": "Alexander Shevchenko",
       "rank": 97,
@@ -3175,32 +2795,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 52.5
     },
     {
-      "id": "209209",
-      "name": "Filip Misolic",
-      "rank": 164,
-      "prevRank": 129,
-      "country": "AUT",
-      "logo": "https://flagcdn.com/24x18/at.png",
-      "teamCode": "AUT",
-      "primary": "#ED2939",
-      "secondary": "#FFFFFF",
-      "activeScore": 52.3,
-      "legendScore": 17.0,
-      "surface": {
-        "hard": 0.167,
-        "clay": 0.636,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 123,
-      "prevActiveScore": 52.3
-    },
-    {
       "id": "202127",
       "name": "Clement Tabur",
       "rank": 190,
@@ -3225,6 +2819,34 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 124,
       "prevActiveScore": 52.3
+    },
+    {
+      "id": "105777",
+      "name": "Grigor Dimitrov",
+      "rank": 170,
+      "prevRank": 168,
+      "country": "BUL",
+      "logo": "https://flagcdn.com/24x18/bg.png",
+      "teamCode": "BUL",
+      "primary": "#00966E",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.2,
+      "legendScore": 36.6,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.455,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 9,
+        "weeks_no1": 0,
+        "top10_wins": 43
+      },
+      "inactiveWeeks": 5,
+      "inactivePenalty": 3.4,
+      "prevListRank": 91,
+      "prevActiveScore": 55.6
     },
     {
       "id": "127157",
@@ -3383,58 +3005,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 51.2
     },
     {
-      "id": "208013",
-      "name": "Dane Sweeny",
-      "rank": 132,
-      "prevRank": 131,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
-      "secondary": "#FFFFFF",
-      "activeScore": 51.2,
-      "legendScore": 13.2,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 131,
-      "prevActiveScore": 51.2
-    },
-    {
-      "id": "207729",
-      "name": "Tristan Boyer",
-      "rank": 198,
-      "prevRank": 199,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 51.2,
-      "legendScore": 19.9,
-      "surface": {
-        "hard": 0.455,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 132,
-      "prevActiveScore": 51.2
-    },
-    {
       "id": "208353",
       "name": "Francesco Maestrelli",
       "rank": 126,
@@ -3459,58 +3029,6 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 133,
       "prevActiveScore": 51.0
-    },
-    {
-      "id": "106109",
-      "name": "Alex Bolt",
-      "rank": 157,
-      "prevRank": 152,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
-      "secondary": "#FFFFFF",
-      "activeScore": 50.8,
-      "legendScore": 13.2,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 134,
-      "prevActiveScore": 50.8
-    },
-    {
-      "id": "208361",
-      "name": "Gustavo Heide",
-      "rank": 182,
-      "prevRank": 186,
-      "country": "BRA",
-      "logo": "https://flagcdn.com/24x18/br.png",
-      "teamCode": "BRA",
-      "primary": "#009C3B",
-      "secondary": "#FFFFFF",
-      "activeScore": 50.8,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 135,
-      "prevActiveScore": 50.8
     },
     {
       "id": "210319",
@@ -3591,19 +3109,19 @@ window.TENNIS_DATA = {
       "prevActiveScore": 50.6
     },
     {
-      "id": "208852",
-      "name": "Stefanos Sakellaridis",
-      "rank": 155,
-      "prevRank": 197,
-      "country": "GRE",
-      "logo": "https://flagcdn.com/24x18/gr.png",
-      "teamCode": "GRE",
-      "primary": "#0D5EAF",
+      "id": "102093",
+      "name": "Martin Damm",
+      "rank": 114,
+      "prevRank": 116,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 50.6,
-      "legendScore": 0.0,
+      "activeScore": 50.3,
+      "legendScore": 13.2,
       "surface": {
-        "hard": null,
+        "hard": 0.5,
         "clay": null,
         "grass": null
       },
@@ -3613,86 +3131,10 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 139,
-      "prevActiveScore": 50.6
-    },
-    {
-      "id": "106415",
-      "name": "Yoshihito Nishioka",
-      "rank": 181,
-      "prevRank": 174,
-      "country": "JPN",
-      "logo": "https://flagcdn.com/24x18/jp.png",
-      "teamCode": "JPN",
-      "primary": "#BC002D",
-      "secondary": "#FFFFFF",
-      "activeScore": 50.4,
-      "legendScore": 16.1,
-      "surface": {
-        "hard": 0.4,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 3
-      },
-      "prevListRank": 140,
-      "prevActiveScore": 50.4
-    },
-    {
-      "id": "149282",
-      "name": "Nicolai Budkov Kjaer",
-      "rank": 122,
-      "prevRank": 121,
-      "country": "NOR",
-      "logo": "https://flagcdn.com/24x18/no.png",
-      "teamCode": "NOR",
-      "primary": "#EF2B2D",
-      "secondary": "#FFFFFF",
-      "activeScore": 49.9,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": 0.25,
-        "clay": 0.6,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 141,
-      "prevActiveScore": 49.9
-    },
-    {
-      "id": "106331",
-      "name": "Christopher Oconnell",
-      "rank": 156,
-      "prevRank": 155,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
-      "secondary": "#FFFFFF",
-      "activeScore": 49.7,
-      "legendScore": 12.8,
-      "surface": {
-        "hard": 0.414,
-        "clay": 0.333,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 142,
-      "prevActiveScore": 49.7
+      "inactiveWeeks": 5,
+      "inactivePenalty": 3.4,
+      "prevListRank": 108,
+      "prevActiveScore": 53.7
     },
     {
       "id": "208659",
@@ -3719,58 +3161,6 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 143,
       "prevActiveScore": 49.6
-    },
-    {
-      "id": "111797",
-      "name": "Nicolas Jarry",
-      "rank": 189,
-      "prevRank": 180,
-      "country": "CHI",
-      "logo": "https://flagcdn.com/24x18/cl.png",
-      "teamCode": "CHI",
-      "primary": "#D52B1E",
-      "secondary": "#FFFFFF",
-      "activeScore": 49.6,
-      "legendScore": 18.3,
-      "surface": {
-        "hard": 0.286,
-        "clay": 0.2,
-        "grass": 0.667
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 11
-      },
-      "prevListRank": 144,
-      "prevActiveScore": 49.6
-    },
-    {
-      "id": "106148",
-      "name": "Roberto Carballes Baena",
-      "rank": 191,
-      "prevRank": 203,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
-      "secondary": "#FFFFFF",
-      "activeScore": 49.4,
-      "legendScore": 15.7,
-      "surface": {
-        "hard": 0.389,
-        "clay": 0.364,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "prevListRank": 145,
-      "prevActiveScore": 49.4
     },
     {
       "id": "200443",
@@ -3825,32 +3215,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 49.2
     },
     {
-      "id": "111456",
-      "name": "Mackenzie Mcdonald",
-      "rank": 125,
-      "prevRank": 126,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 49.1,
-      "legendScore": 15.9,
-      "surface": {
-        "hard": 0.318,
-        "clay": 0.4,
-        "grass": 0.4
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 5
-      },
-      "prevListRank": 148,
-      "prevActiveScore": 49.1
-    },
-    {
       "id": "126128",
       "name": "Roman Safiullin",
       "rank": 135,
@@ -3875,58 +3239,6 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 149,
       "prevActiveScore": 48.8
-    },
-    {
-      "id": "127760",
-      "name": "Lukas Klein",
-      "rank": 179,
-      "prevRank": 167,
-      "country": "SVK",
-      "logo": "https://flagcdn.com/24x18/sk.png",
-      "teamCode": "SVK",
-      "primary": "#0B4EA2",
-      "secondary": "#FFFFFF",
-      "activeScore": 48.3,
-      "legendScore": 9.9,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 150,
-      "prevActiveScore": 48.3
-    },
-    {
-      "id": "111200",
-      "name": "Elias Ymer",
-      "rank": 184,
-      "prevRank": 191,
-      "country": "SWE",
-      "logo": "https://flagcdn.com/24x18/se.png",
-      "teamCode": "SWE",
-      "primary": "#006AA7",
-      "secondary": "#FFFFFF",
-      "activeScore": 48.1,
-      "legendScore": 3.3,
-      "surface": {
-        "hard": 0.4,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 151,
-      "prevActiveScore": 48.1
     },
     {
       "id": "106000",
@@ -4030,32 +3342,6 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "prevListRank": 155,
-      "prevActiveScore": 47.9
-    },
-    {
-      "id": "127339",
-      "name": "Borna Gojo",
-      "rank": 178,
-      "prevRank": 184,
-      "country": "CRO",
-      "logo": "https://flagcdn.com/24x18/hr.png",
-      "teamCode": "CRO",
-      "primary": "#FF0000",
-      "secondary": "#FFFFFF",
-      "activeScore": 47.9,
-      "legendScore": 22.1,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 156,
       "prevActiveScore": 47.9
     },
     {
@@ -4163,32 +3449,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 47.6
     },
     {
-      "id": "206904",
-      "name": "Gauthier Onclin",
-      "rank": 186,
-      "prevRank": 182,
-      "country": "BEL",
-      "logo": "https://flagcdn.com/24x18/be.png",
-      "teamCode": "BEL",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "activeScore": 47.6,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 161,
-      "prevActiveScore": 47.6
-    },
-    {
       "id": "211533",
       "name": "Gianluca Cadenasso",
       "rank": 193,
@@ -4213,84 +3473,6 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 162,
       "prevActiveScore": 47.6
-    },
-    {
-      "id": "200329",
-      "name": "Remy Bertola",
-      "rank": 196,
-      "prevRank": 208,
-      "country": "SUI",
-      "logo": "https://flagcdn.com/24x18/ch.png",
-      "teamCode": "SUI",
-      "primary": "#FF0000",
-      "secondary": "#FFFFFF",
-      "activeScore": 47.6,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 163,
-      "prevActiveScore": 47.6
-    },
-    {
-      "id": "212063",
-      "name": "Matej Dodig",
-      "rank": 199,
-      "prevRank": 201,
-      "country": "CRO",
-      "logo": "https://flagcdn.com/24x18/hr.png",
-      "teamCode": "CRO",
-      "primary": "#FF0000",
-      "secondary": "#FFFFFF",
-      "activeScore": 47.6,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 164,
-      "prevActiveScore": 47.6
-    },
-    {
-      "id": "208210",
-      "name": "Chris Rodesch",
-      "rank": 177,
-      "prevRank": 165,
-      "country": "LUX",
-      "logo": "https://flagcdn.com/24x18/lu.png",
-      "teamCode": "LUX",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "activeScore": 47.5,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 165,
-      "prevActiveScore": 47.5
     },
     {
       "id": "210178",
@@ -4345,20 +3527,20 @@ window.TENNIS_DATA = {
       "prevActiveScore": 47.3
     },
     {
-      "id": "209903",
-      "name": "Lukas Neumayer",
-      "rank": 168,
-      "prevRank": 187,
-      "country": "AUT",
-      "logo": "https://flagcdn.com/24x18/at.png",
-      "teamCode": "AUT",
-      "primary": "#ED2939",
+      "id": "149282",
+      "name": "Nicolai Budkov Kjaer",
+      "rank": 122,
+      "prevRank": 121,
+      "country": "NOR",
+      "logo": "https://flagcdn.com/24x18/no.png",
+      "teamCode": "NOR",
+      "primary": "#EF2B2D",
       "secondary": "#FFFFFF",
-      "activeScore": 47.3,
+      "activeScore": 46.5,
       "legendScore": 0.0,
       "surface": {
-        "hard": null,
-        "clay": null,
+        "hard": 0.25,
+        "clay": 0.6,
         "grass": null
       },
       "stats": {
@@ -4367,294 +3549,38 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 168,
-      "prevActiveScore": 47.3
+      "inactiveWeeks": 5,
+      "inactivePenalty": 3.4,
+      "prevListRank": 141,
+      "prevActiveScore": 49.9
     },
     {
-      "id": "212082",
-      "name": "Joel Schwaerzler",
-      "rank": 174,
-      "prevRank": 170,
-      "country": "AUT",
-      "logo": "https://flagcdn.com/24x18/at.png",
-      "teamCode": "AUT",
-      "primary": "#ED2939",
-      "secondary": "#FFFFFF",
-      "activeScore": 47.3,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 169,
-      "prevActiveScore": 47.3
-    },
-    {
-      "id": "209875",
-      "name": "Alex Barrena",
-      "rank": 197,
-      "prevRank": 190,
-      "country": "ARG",
-      "logo": "https://flagcdn.com/24x18/ar.png",
-      "teamCode": "ARG",
-      "primary": "#74ACDF",
-      "secondary": "#FFFFFF",
-      "activeScore": 47.2,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 170,
-      "prevActiveScore": 47.2
-    },
-    {
-      "id": "206889",
-      "name": "Clement Chidekh",
-      "rank": 200,
-      "prevRank": 177,
+      "id": "209070",
+      "name": "Arthur Cazaux",
+      "rank": 81,
+      "prevRank": 77,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 47.2,
-      "legendScore": 0.0,
+      "activeScore": 46.4,
+      "legendScore": 16.6,
       "surface": {
-        "hard": null,
-        "clay": null,
+        "hard": 0.429,
+        "clay": 0.636,
         "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 1
       },
-      "prevListRank": 171,
-      "prevActiveScore": 47.2
-    },
-    {
-      "id": "121411",
-      "name": "Moez Echargui",
-      "rank": 142,
-      "prevRank": 139,
-      "country": "TUN",
-      "logo": "https://flagcdn.com/24x18/tn.png",
-      "teamCode": "TUN",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "activeScore": 46.9,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 172,
-      "prevActiveScore": 46.9
-    },
-    {
-      "id": "207608",
-      "name": "Timofey Skatov",
-      "rank": 175,
-      "prevRank": 189,
-      "country": "KAZ",
-      "logo": "https://flagcdn.com/24x18/kz.png",
-      "teamCode": "KAZ",
-      "primary": "#00AFCA",
-      "secondary": "#FFFFFF",
-      "activeScore": 46.9,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 173,
-      "prevActiveScore": 46.9
-    },
-    {
-      "id": "200436",
-      "name": "Zsombor Piros",
-      "rank": 183,
-      "prevRank": 173,
-      "country": "HUN",
-      "logo": "https://flagcdn.com/24x18/hu.png",
-      "teamCode": "HUN",
-      "primary": "#477050",
-      "secondary": "#FFFFFF",
-      "activeScore": 46.9,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 174,
-      "prevActiveScore": 46.9
-    },
-    {
-      "id": "200711",
-      "name": "Nicolas Mejia",
-      "rank": 167,
-      "prevRank": 169,
-      "country": "COL",
-      "logo": "https://flagcdn.com/24x18/co.png",
-      "teamCode": "COL",
-      "primary": "#FCD116",
-      "secondary": "#FFFFFF",
-      "activeScore": 46.8,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 175,
-      "prevActiveScore": 46.8
-    },
-    {
-      "id": "208119",
-      "name": "Liam Draxl",
-      "rank": 163,
-      "prevRank": 164,
-      "country": "CAN",
-      "logo": "https://flagcdn.com/24x18/ca.png",
-      "teamCode": "CAN",
-      "primary": "#FF0000",
-      "secondary": "#FFFFFF",
-      "activeScore": 46.7,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 176,
-      "prevActiveScore": 46.7
-    },
-    {
-      "id": "200647",
-      "name": "Sho Shimabukuro",
-      "rank": 104,
-      "prevRank": 103,
-      "country": "JPN",
-      "logo": "https://flagcdn.com/24x18/jp.png",
-      "teamCode": "JPN",
-      "primary": "#BC002D",
-      "secondary": "#FFFFFF",
-      "activeScore": 46.5,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": 0.286,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 177,
-      "prevActiveScore": 46.5
-    },
-    {
-      "id": "202261",
-      "name": "Otto Virtanen",
-      "rank": 158,
-      "prevRank": 134,
-      "country": "FIN",
-      "logo": "https://flagcdn.com/24x18/fi.png",
-      "teamCode": "FIN",
-      "primary": "#003580",
-      "secondary": "#FFFFFF",
-      "activeScore": 46.3,
-      "legendScore": 11.3,
-      "surface": {
-        "hard": 0.2,
-        "clay": 0.333,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 178,
-      "prevActiveScore": 46.3
-    },
-    {
-      "id": "123828",
-      "name": "Jan Choinski",
-      "rank": 105,
-      "prevRank": 101,
-      "country": "GBR",
-      "logo": "https://flagcdn.com/24x18/gb.png",
-      "teamCode": "GBR",
-      "primary": "#012169",
-      "secondary": "#FFFFFF",
-      "activeScore": 46.2,
-      "legendScore": 9.9,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 179,
-      "prevActiveScore": 46.2
+      "inactiveWeeks": 10,
+      "inactivePenalty": 13.4,
+      "prevListRank": 66,
+      "prevActiveScore": 59.8
     },
     {
       "id": "208316",
@@ -4709,151 +3635,21 @@ window.TENNIS_DATA = {
       "prevActiveScore": 45.7
     },
     {
-      "id": "105583",
-      "name": "Dusan Lajovic",
-      "rank": 140,
-      "prevRank": 137,
-      "country": "SRB",
-      "logo": "https://flagcdn.com/24x18/rs.png",
-      "teamCode": "SRB",
-      "primary": "#C6363C",
-      "secondary": "#FFFFFF",
-      "activeScore": 45.7,
-      "legendScore": 17.9,
-      "surface": {
-        "hard": 0.4,
-        "clay": 0.235,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 10
-      },
-      "prevListRank": 182,
-      "prevActiveScore": 45.7
-    },
-    {
-      "id": "208859",
-      "name": "Francesco Passaro",
-      "rank": 166,
-      "prevRank": 161,
-      "country": "ITA",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "teamCode": "ITA",
-      "primary": "#009246",
-      "secondary": "#FFFFFF",
-      "activeScore": 45.3,
-      "legendScore": 10.2,
-      "surface": {
-        "hard": 0.2,
-        "clay": 0.417,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "prevListRank": 183,
-      "prevActiveScore": 45.3
-    },
-    {
-      "id": "200259",
-      "name": "Ugo Blanchet",
-      "rank": 173,
-      "prevRank": 160,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
-      "secondary": "#FFFFFF",
-      "activeScore": 45.3,
-      "legendScore": 19.9,
-      "surface": {
-        "hard": 0.333,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 184,
-      "prevActiveScore": 45.3
-    },
-    {
-      "id": "209262",
-      "name": "Tristan Schoolkate",
-      "rank": 123,
-      "prevRank": 123,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
-      "secondary": "#FFFFFF",
-      "activeScore": 45.0,
-      "legendScore": 15.0,
-      "surface": {
-        "hard": 0.333,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 185,
-      "prevActiveScore": 45.0
-    },
-    {
-      "id": "209284",
-      "name": "Elmer Moller",
-      "rank": 151,
-      "prevRank": 142,
-      "country": "DEN",
-      "logo": "https://flagcdn.com/24x18/dk.png",
-      "teamCode": "DEN",
-      "primary": "#C60C30",
-      "secondary": "#FFFFFF",
-      "activeScore": 44.9,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": 0.364,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 186,
-      "prevActiveScore": 44.9
-    },
-    {
-      "id": "126129",
-      "name": "Billy Harris",
-      "rank": 144,
-      "prevRank": 150,
+      "id": "209957",
+      "name": "Jack Pinnington Jones",
+      "rank": 133,
+      "prevRank": 132,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
       "primary": "#012169",
       "secondary": "#FFFFFF",
-      "activeScore": 44.7,
-      "legendScore": 9.9,
+      "activeScore": 45.4,
+      "legendScore": 19.9,
       "surface": {
-        "hard": 0.111,
+        "hard": null,
         "clay": null,
-        "grass": 0.5
+        "grass": null
       },
       "stats": {
         "gs": 0,
@@ -4861,8 +3657,94 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 187,
-      "prevActiveScore": 44.7
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 92,
+      "prevActiveScore": 55.4
+    },
+    {
+      "id": "111581",
+      "name": "Michael Mmoh",
+      "rank": 195,
+      "prevRank": 216,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 45.2,
+      "legendScore": 14.6,
+      "surface": {
+        "hard": 0.571,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 20,
+      "inactivePenalty": 15.0,
+      "prevListRank": 61,
+      "prevActiveScore": 60.2
+    },
+    {
+      "id": "126535",
+      "name": "Carlos Taberner",
+      "rank": 143,
+      "prevRank": 145,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 44.9,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.625,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 18,
+      "inactivePenalty": 15.0,
+      "prevListRank": 65,
+      "prevActiveScore": 59.9
+    },
+    {
+      "id": "210012",
+      "name": "Henrique Rocha",
+      "rank": 121,
+      "prevRank": 119,
+      "country": "POR",
+      "logo": "https://flagcdn.com/24x18/pt.png",
+      "teamCode": "POR",
+      "primary": "#006600",
+      "secondary": "#FFFFFF",
+      "activeScore": 44.8,
+      "legendScore": 22.1,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 98,
+      "prevActiveScore": 54.8
     },
     {
       "id": "104527",
@@ -4891,6 +3773,34 @@ window.TENNIS_DATA = {
       "prevActiveScore": 44.5
     },
     {
+      "id": "209857",
+      "name": "Leandro Riedi",
+      "rank": 117,
+      "prevRank": 120,
+      "country": "SUI",
+      "logo": "https://flagcdn.com/24x18/ch.png",
+      "teamCode": "SUI",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 44.3,
+      "legendScore": 22.1,
+      "surface": {
+        "hard": 0.6,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 39,
+      "inactivePenalty": 15.0,
+      "prevListRank": 70,
+      "prevActiveScore": 59.3
+    },
+    {
       "id": "124116",
       "name": "Sebastian Ofner",
       "rank": 124,
@@ -4915,84 +3825,6 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 189,
       "prevActiveScore": 44.1
-    },
-    {
-      "id": "206748",
-      "name": "Giulio Zeppieri",
-      "rank": 192,
-      "prevRank": 172,
-      "country": "ITA",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "teamCode": "ITA",
-      "primary": "#009246",
-      "secondary": "#FFFFFF",
-      "activeScore": 44.0,
-      "legendScore": 13.2,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 190,
-      "prevActiveScore": 44.0
-    },
-    {
-      "id": "124079",
-      "name": "Pedro Martinez",
-      "rank": 139,
-      "prevRank": 140,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
-      "secondary": "#FFFFFF",
-      "activeScore": 43.2,
-      "legendScore": 17.0,
-      "surface": {
-        "hard": 0.286,
-        "clay": 0.333,
-        "grass": 0.4
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "prevListRank": 191,
-      "prevActiveScore": 43.2
-    },
-    {
-      "id": "207352",
-      "name": "Bu Yunchaokete",
-      "rank": 131,
-      "prevRank": 166,
-      "country": "CHN",
-      "logo": "https://flagcdn.com/24x18/cn.png",
-      "teamCode": "CHN",
-      "primary": "#DE2910",
-      "secondary": "#FFFFFF",
-      "activeScore": 43.0,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": 0.387,
-        "clay": 0.0,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "prevListRank": 192,
-      "prevActiveScore": 43.0
     },
     {
       "id": "200384",
@@ -5047,6 +3879,34 @@ window.TENNIS_DATA = {
       "prevActiveScore": 42.5
     },
     {
+      "id": "105583",
+      "name": "Dusan Lajovic",
+      "rank": 140,
+      "prevRank": 137,
+      "country": "SRB",
+      "logo": "https://flagcdn.com/24x18/rs.png",
+      "teamCode": "SRB",
+      "primary": "#C6363C",
+      "secondary": "#FFFFFF",
+      "activeScore": 42.3,
+      "legendScore": 17.9,
+      "surface": {
+        "hard": 0.4,
+        "clay": 0.235,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 10
+      },
+      "inactiveWeeks": 5,
+      "inactivePenalty": 3.4,
+      "prevListRank": 182,
+      "prevActiveScore": 45.7
+    },
+    {
       "id": "210748",
       "name": "Federico Cina",
       "rank": 185,
@@ -5073,45 +3933,19 @@ window.TENNIS_DATA = {
       "prevActiveScore": 42.2
     },
     {
-      "id": "208278",
-      "name": "Shintaro Mochizuki",
-      "rank": 129,
-      "prevRank": 130,
-      "country": "JPN",
-      "logo": "https://flagcdn.com/24x18/jp.png",
-      "teamCode": "JPN",
-      "primary": "#BC002D",
+      "id": "200416",
+      "name": "August Holmgren",
+      "rank": 148,
+      "prevRank": 156,
+      "country": "DEN",
+      "logo": "https://flagcdn.com/24x18/dk.png",
+      "teamCode": "DEN",
+      "primary": "#C60C30",
       "secondary": "#FFFFFF",
-      "activeScore": 41.4,
-      "legendScore": 10.2,
+      "activeScore": 41.9,
+      "legendScore": 22.1,
       "surface": {
-        "hard": 0.273,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "prevListRank": 196,
-      "prevActiveScore": 41.4
-    },
-    {
-      "id": "212256",
-      "name": "Colton Smith",
-      "rank": 176,
-      "prevRank": 185,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 40.8,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": 0.167,
+        "hard": null,
         "clay": null,
         "grass": null
       },
@@ -5121,8 +3955,150 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 197,
-      "prevActiveScore": 40.8
+      "inactiveWeeks": 34,
+      "inactivePenalty": 15.0,
+      "prevListRank": 84,
+      "prevActiveScore": 56.9
+    },
+    {
+      "id": "111442",
+      "name": "Jordan Thompson",
+      "rank": 152,
+      "prevRank": 149,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 41.6,
+      "legendScore": 17.7,
+      "surface": {
+        "hard": 0.444,
+        "clay": 0.4,
+        "grass": 0.571
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 7
+      },
+      "inactiveWeeks": 18,
+      "inactivePenalty": 15.0,
+      "prevListRank": 88,
+      "prevActiveScore": 56.6
+    },
+    {
+      "id": "209284",
+      "name": "Elmer Moller",
+      "rank": 151,
+      "prevRank": 142,
+      "country": "DEN",
+      "logo": "https://flagcdn.com/24x18/dk.png",
+      "teamCode": "DEN",
+      "primary": "#C60C30",
+      "secondary": "#FFFFFF",
+      "activeScore": 41.5,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.364,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 5,
+      "inactivePenalty": 3.4,
+      "prevListRank": 186,
+      "prevActiveScore": 44.9
+    },
+    {
+      "id": "209259",
+      "name": "Arthur Fery",
+      "rank": 141,
+      "prevRank": 154,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 41.2,
+      "legendScore": 13.2,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 10,
+      "inactivePenalty": 13.4,
+      "prevListRank": 101,
+      "prevActiveScore": 54.6
+    },
+    {
+      "id": "106109",
+      "name": "Alex Bolt",
+      "rank": 157,
+      "prevRank": 152,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 40.8,
+      "legendScore": 13.2,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 134,
+      "prevActiveScore": 50.8
+    },
+    {
+      "id": "144750",
+      "name": "Lloyd Harris",
+      "rank": 160,
+      "prevRank": 143,
+      "country": "RSA",
+      "logo": "https://flagcdn.com/24x18/za.png",
+      "teamCode": "RSA",
+      "primary": "#007749",
+      "secondary": "#FFFFFF",
+      "activeScore": 40.7,
+      "legendScore": 16.8,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "inactiveWeeks": 39,
+      "inactivePenalty": 15.0,
+      "prevListRank": 90,
+      "prevActiveScore": 55.7
     },
     {
       "id": "200516",
@@ -5151,19 +4127,19 @@ window.TENNIS_DATA = {
       "prevActiveScore": 40.6
     },
     {
-      "id": "210536",
-      "name": "Rei Sakamoto",
-      "rank": 149,
-      "prevRank": 153,
-      "country": "JPN",
-      "logo": "https://flagcdn.com/24x18/jp.png",
-      "teamCode": "JPN",
-      "primary": "#BC002D",
+      "id": "208852",
+      "name": "Stefanos Sakellaridis",
+      "rank": 155,
+      "prevRank": 197,
+      "country": "GRE",
+      "logo": "https://flagcdn.com/24x18/gr.png",
+      "teamCode": "GRE",
+      "primary": "#0D5EAF",
       "secondary": "#FFFFFF",
-      "activeScore": 38.9,
+      "activeScore": 40.6,
       "legendScore": 0.0,
       "surface": {
-        "hard": 0.167,
+        "hard": null,
         "clay": null,
         "grass": null
       },
@@ -5173,8 +4149,542 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 199,
-      "prevActiveScore": 38.9
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 139,
+      "prevActiveScore": 50.6
+    },
+    {
+      "id": "202261",
+      "name": "Otto Virtanen",
+      "rank": 158,
+      "prevRank": 134,
+      "country": "FIN",
+      "logo": "https://flagcdn.com/24x18/fi.png",
+      "teamCode": "FIN",
+      "primary": "#003580",
+      "secondary": "#FFFFFF",
+      "activeScore": 40.3,
+      "legendScore": 11.3,
+      "surface": {
+        "hard": 0.2,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
+      "prevListRank": 178,
+      "prevActiveScore": 46.3
+    },
+    {
+      "id": "106331",
+      "name": "Christopher Oconnell",
+      "rank": 156,
+      "prevRank": 155,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 39.7,
+      "legendScore": 12.8,
+      "surface": {
+        "hard": 0.414,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 142,
+      "prevActiveScore": 49.7
+    },
+    {
+      "id": "111456",
+      "name": "Mackenzie Mcdonald",
+      "rank": 125,
+      "prevRank": 126,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 39.1,
+      "legendScore": 15.9,
+      "surface": {
+        "hard": 0.318,
+        "clay": 0.4,
+        "grass": 0.4
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 5
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 148,
+      "prevActiveScore": 49.1
+    },
+    {
+      "id": "210136",
+      "name": "Mark Lajal",
+      "rank": 154,
+      "prevRank": 157,
+      "country": "EST",
+      "logo": "https://flagcdn.com/24x18/ee.png",
+      "teamCode": "EST",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 38.4,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 32,
+      "inactivePenalty": 15.0,
+      "prevListRank": 116,
+      "prevActiveScore": 53.4
+    },
+    {
+      "id": "200008",
+      "name": "Alexis Galarneau",
+      "rank": 187,
+      "prevRank": 193,
+      "country": "CAN",
+      "logo": "https://flagcdn.com/24x18/ca.png",
+      "teamCode": "CAN",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 38.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 12,
+      "inactivePenalty": 15.0,
+      "prevListRank": 120,
+      "prevActiveScore": 53.0
+    },
+    {
+      "id": "106071",
+      "name": "Bernard Tomic",
+      "rank": 188,
+      "prevRank": 194,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 37.6,
+      "legendScore": 25.6,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 8
+      },
+      "inactiveWeeks": 32,
+      "inactivePenalty": 15.0,
+      "prevListRank": 121,
+      "prevActiveScore": 52.6
+    },
+    {
+      "id": "209209",
+      "name": "Filip Misolic",
+      "rank": 164,
+      "prevRank": 129,
+      "country": "AUT",
+      "logo": "https://flagcdn.com/24x18/at.png",
+      "teamCode": "AUT",
+      "primary": "#ED2939",
+      "secondary": "#FFFFFF",
+      "activeScore": 37.3,
+      "legendScore": 17.0,
+      "surface": {
+        "hard": 0.167,
+        "clay": 0.636,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 18,
+      "inactivePenalty": 15.0,
+      "prevListRank": 123,
+      "prevActiveScore": 52.3
+    },
+    {
+      "id": "124079",
+      "name": "Pedro Martinez",
+      "rank": 139,
+      "prevRank": 140,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 37.2,
+      "legendScore": 17.0,
+      "surface": {
+        "hard": 0.286,
+        "clay": 0.333,
+        "grass": 0.4
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
+      "prevListRank": 191,
+      "prevActiveScore": 43.2
+    },
+    {
+      "id": "207608",
+      "name": "Timofey Skatov",
+      "rank": 175,
+      "prevRank": 189,
+      "country": "KAZ",
+      "logo": "https://flagcdn.com/24x18/kz.png",
+      "teamCode": "KAZ",
+      "primary": "#00AFCA",
+      "secondary": "#FFFFFF",
+      "activeScore": 36.9,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 173,
+      "prevActiveScore": 46.9
+    },
+    {
+      "id": "208119",
+      "name": "Liam Draxl",
+      "rank": 163,
+      "prevRank": 164,
+      "country": "CAN",
+      "logo": "https://flagcdn.com/24x18/ca.png",
+      "teamCode": "CAN",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 36.7,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 176,
+      "prevActiveScore": 46.7
+    },
+    {
+      "id": "123828",
+      "name": "Jan Choinski",
+      "rank": 105,
+      "prevRank": 101,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 36.2,
+      "legendScore": 9.9,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 179,
+      "prevActiveScore": 46.2
+    },
+    {
+      "id": "208013",
+      "name": "Dane Sweeny",
+      "rank": 132,
+      "prevRank": 131,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 36.2,
+      "legendScore": 13.2,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 18,
+      "inactivePenalty": 15.0,
+      "prevListRank": 131,
+      "prevActiveScore": 51.2
+    },
+    {
+      "id": "207729",
+      "name": "Tristan Boyer",
+      "rank": 198,
+      "prevRank": 199,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 36.2,
+      "legendScore": 19.9,
+      "surface": {
+        "hard": 0.455,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 39,
+      "inactivePenalty": 15.0,
+      "prevListRank": 132,
+      "prevActiveScore": 51.2
+    },
+    {
+      "id": "208361",
+      "name": "Gustavo Heide",
+      "rank": 182,
+      "prevRank": 186,
+      "country": "BRA",
+      "logo": "https://flagcdn.com/24x18/br.png",
+      "teamCode": "BRA",
+      "primary": "#009C3B",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.8,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 14,
+      "inactivePenalty": 15.0,
+      "prevListRank": 135,
+      "prevActiveScore": 50.8
+    },
+    {
+      "id": "106415",
+      "name": "Yoshihito Nishioka",
+      "rank": 181,
+      "prevRank": 174,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "teamCode": "JPN",
+      "primary": "#BC002D",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.4,
+      "legendScore": 16.1,
+      "surface": {
+        "hard": 0.4,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "inactiveWeeks": 34,
+      "inactivePenalty": 15.0,
+      "prevListRank": 140,
+      "prevActiveScore": 50.4
+    },
+    {
+      "id": "200647",
+      "name": "Sho Shimabukuro",
+      "rank": 104,
+      "prevRank": 103,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "teamCode": "JPN",
+      "primary": "#BC002D",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.286,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 12,
+      "inactivePenalty": 15.0,
+      "prevListRank": 177,
+      "prevActiveScore": 46.5
+    },
+    {
+      "id": "209262",
+      "name": "Tristan Schoolkate",
+      "rank": 123,
+      "prevRank": 123,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 15.0,
+      "surface": {
+        "hard": 0.333,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 12,
+      "inactivePenalty": 15.0,
+      "prevListRank": 185,
+      "prevActiveScore": 45.0
+    },
+    {
+      "id": "208278",
+      "name": "Shintaro Mochizuki",
+      "rank": 129,
+      "prevRank": 130,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "teamCode": "JPN",
+      "primary": "#BC002D",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 10.2,
+      "surface": {
+        "hard": 0.273,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 14,
+      "inactivePenalty": 15.0,
+      "prevListRank": 196,
+      "prevActiveScore": 41.4
+    },
+    {
+      "id": "207352",
+      "name": "Bu Yunchaokete",
+      "rank": 131,
+      "prevRank": 166,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.387,
+        "clay": 0.0,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 18,
+      "inactivePenalty": 15.0,
+      "prevListRank": 192,
+      "prevActiveScore": 43.0
     },
     {
       "id": "144642",
@@ -5199,8 +4709,626 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
+      "inactiveWeeks": 10,
+      "inactivePenalty": 13.4,
       "prevListRank": 200,
       "prevActiveScore": 35.0
+    },
+    {
+      "id": "121411",
+      "name": "Moez Echargui",
+      "rank": 142,
+      "prevRank": 139,
+      "country": "TUN",
+      "logo": "https://flagcdn.com/24x18/tn.png",
+      "teamCode": "TUN",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 13,
+      "inactivePenalty": 15.0,
+      "prevListRank": 172,
+      "prevActiveScore": 46.9
+    },
+    {
+      "id": "126129",
+      "name": "Billy Harris",
+      "rank": 144,
+      "prevRank": 150,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 9.9,
+      "surface": {
+        "hard": 0.111,
+        "clay": null,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 20,
+      "inactivePenalty": 15.0,
+      "prevListRank": 187,
+      "prevActiveScore": 44.7
+    },
+    {
+      "id": "210536",
+      "name": "Rei Sakamoto",
+      "rank": 149,
+      "prevRank": 153,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "teamCode": "JPN",
+      "primary": "#BC002D",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.167,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 10,
+      "inactivePenalty": 13.4,
+      "prevListRank": 199,
+      "prevActiveScore": 38.9
+    },
+    {
+      "id": "208859",
+      "name": "Francesco Passaro",
+      "rank": 166,
+      "prevRank": 161,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 10.2,
+      "surface": {
+        "hard": 0.2,
+        "clay": 0.417,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 13,
+      "inactivePenalty": 15.0,
+      "prevListRank": 183,
+      "prevActiveScore": 45.3
+    },
+    {
+      "id": "200711",
+      "name": "Nicolas Mejia",
+      "rank": 167,
+      "prevRank": 169,
+      "country": "COL",
+      "logo": "https://flagcdn.com/24x18/co.png",
+      "teamCode": "COL",
+      "primary": "#FCD116",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 45,
+      "inactivePenalty": 15.0,
+      "prevListRank": 175,
+      "prevActiveScore": 46.8
+    },
+    {
+      "id": "209903",
+      "name": "Lukas Neumayer",
+      "rank": 168,
+      "prevRank": 187,
+      "country": "AUT",
+      "logo": "https://flagcdn.com/24x18/at.png",
+      "teamCode": "AUT",
+      "primary": "#ED2939",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 44,
+      "inactivePenalty": 15.0,
+      "prevListRank": 168,
+      "prevActiveScore": 47.3
+    },
+    {
+      "id": "200259",
+      "name": "Ugo Blanchet",
+      "rank": 173,
+      "prevRank": 160,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 19.9,
+      "surface": {
+        "hard": 0.333,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 16,
+      "inactivePenalty": 15.0,
+      "prevListRank": 184,
+      "prevActiveScore": 45.3
+    },
+    {
+      "id": "212082",
+      "name": "Joel Schwaerzler",
+      "rank": 174,
+      "prevRank": 170,
+      "country": "AUT",
+      "logo": "https://flagcdn.com/24x18/at.png",
+      "teamCode": "AUT",
+      "primary": "#ED2939",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 44,
+      "inactivePenalty": 15.0,
+      "prevListRank": 169,
+      "prevActiveScore": 47.3
+    },
+    {
+      "id": "212256",
+      "name": "Colton Smith",
+      "rank": 176,
+      "prevRank": 185,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.167,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 197,
+      "prevActiveScore": 40.8
+    },
+    {
+      "id": "208210",
+      "name": "Chris Rodesch",
+      "rank": 177,
+      "prevRank": 165,
+      "country": "LUX",
+      "logo": "https://flagcdn.com/24x18/lu.png",
+      "teamCode": "LUX",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 47,
+      "inactivePenalty": 15.0,
+      "prevListRank": 165,
+      "prevActiveScore": 47.5
+    },
+    {
+      "id": "127339",
+      "name": "Borna Gojo",
+      "rank": 178,
+      "prevRank": 184,
+      "country": "CRO",
+      "logo": "https://flagcdn.com/24x18/hr.png",
+      "teamCode": "CRO",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 22.1,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 53,
+      "inactivePenalty": 15.0,
+      "prevListRank": 156,
+      "prevActiveScore": 47.9
+    },
+    {
+      "id": "127760",
+      "name": "Lukas Klein",
+      "rank": 179,
+      "prevRank": 167,
+      "country": "SVK",
+      "logo": "https://flagcdn.com/24x18/sk.png",
+      "teamCode": "SVK",
+      "primary": "#0B4EA2",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 9.9,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 71,
+      "inactivePenalty": 15.0,
+      "prevListRank": 150,
+      "prevActiveScore": 48.3
+    },
+    {
+      "id": "200436",
+      "name": "Zsombor Piros",
+      "rank": 183,
+      "prevRank": 173,
+      "country": "HUN",
+      "logo": "https://flagcdn.com/24x18/hu.png",
+      "teamCode": "HUN",
+      "primary": "#477050",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 39,
+      "inactivePenalty": 15.0,
+      "prevListRank": 174,
+      "prevActiveScore": 46.9
+    },
+    {
+      "id": "111200",
+      "name": "Elias Ymer",
+      "rank": 184,
+      "prevRank": 191,
+      "country": "SWE",
+      "logo": "https://flagcdn.com/24x18/se.png",
+      "teamCode": "SWE",
+      "primary": "#006AA7",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 3.3,
+      "surface": {
+        "hard": 0.4,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 13,
+      "inactivePenalty": 15.0,
+      "prevListRank": 151,
+      "prevActiveScore": 48.1
+    },
+    {
+      "id": "206904",
+      "name": "Gauthier Onclin",
+      "rank": 186,
+      "prevRank": 182,
+      "country": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "teamCode": "BEL",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 71,
+      "inactivePenalty": 15.0,
+      "prevListRank": 161,
+      "prevActiveScore": 47.6
+    },
+    {
+      "id": "111797",
+      "name": "Nicolas Jarry",
+      "rank": 189,
+      "prevRank": 180,
+      "country": "CHI",
+      "logo": "https://flagcdn.com/24x18/cl.png",
+      "teamCode": "CHI",
+      "primary": "#D52B1E",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 18.3,
+      "surface": {
+        "hard": 0.286,
+        "clay": 0.2,
+        "grass": 0.667
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 11
+      },
+      "inactiveWeeks": 13,
+      "inactivePenalty": 15.0,
+      "prevListRank": 144,
+      "prevActiveScore": 49.6
+    },
+    {
+      "id": "106148",
+      "name": "Roberto Carballes Baena",
+      "rank": 191,
+      "prevRank": 203,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 15.7,
+      "surface": {
+        "hard": 0.389,
+        "clay": 0.364,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 14,
+      "inactivePenalty": 15.0,
+      "prevListRank": 145,
+      "prevActiveScore": 49.4
+    },
+    {
+      "id": "206748",
+      "name": "Giulio Zeppieri",
+      "rank": 192,
+      "prevRank": 172,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 13.2,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 32,
+      "inactivePenalty": 15.0,
+      "prevListRank": 190,
+      "prevActiveScore": 44.0
+    },
+    {
+      "id": "200329",
+      "name": "Remy Bertola",
+      "rank": 196,
+      "prevRank": 208,
+      "country": "SUI",
+      "logo": "https://flagcdn.com/24x18/ch.png",
+      "teamCode": "SUI",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 31,
+      "inactivePenalty": 15.0,
+      "prevListRank": 163,
+      "prevActiveScore": 47.6
+    },
+    {
+      "id": "209875",
+      "name": "Alex Barrena",
+      "rank": 197,
+      "prevRank": 190,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 13,
+      "inactivePenalty": 15.0,
+      "prevListRank": 170,
+      "prevActiveScore": 47.2
+    },
+    {
+      "id": "212063",
+      "name": "Matej Dodig",
+      "rank": 199,
+      "prevRank": 201,
+      "country": "CRO",
+      "logo": "https://flagcdn.com/24x18/hr.png",
+      "teamCode": "CRO",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 44,
+      "inactivePenalty": 15.0,
+      "prevListRank": 164,
+      "prevActiveScore": 47.6
+    },
+    {
+      "id": "206889",
+      "name": "Clement Chidekh",
+      "rank": 200,
+      "prevRank": 177,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 67,
+      "inactivePenalty": 15.0,
+      "prevListRank": 171,
+      "prevActiveScore": 47.2
     }
   ],
   "WTA": [
@@ -5647,32 +5775,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 80.2
     },
     {
-      "id": "214954",
-      "name": "Marketa Vondrousova",
-      "rank": 48,
-      "prevRank": 44,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 80.2,
-      "legendScore": 50.0,
-      "surface": {
-        "hard": 0.55,
-        "clay": null,
-        "grass": 0.857
-      },
-      "stats": {
-        "gs": 1,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 16
-      },
-      "prevListRank": 18,
-      "prevActiveScore": 80.2
-    },
-    {
       "id": "222328",
       "name": "Linda Noskova",
       "rank": 13,
@@ -6089,32 +6191,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 69.1
     },
     {
-      "id": "266671",
-      "name": "Laura Samson",
-      "rank": 137,
-      "prevRank": 155,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 68.6,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": 0.875,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 35,
-      "prevActiveScore": 68.6
-    },
-    {
       "id": "223253",
       "name": "Alexandra Eala",
       "rank": 33,
@@ -6427,6 +6503,34 @@ window.TENNIS_DATA = {
       "prevActiveScore": 65.7
     },
     {
+      "id": "214954",
+      "name": "Marketa Vondrousova",
+      "rank": 48,
+      "prevRank": 44,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 65.2,
+      "legendScore": 50.0,
+      "surface": {
+        "hard": 0.55,
+        "clay": null,
+        "grass": 0.857
+      },
+      "stats": {
+        "gs": 1,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 16
+      },
+      "inactiveWeeks": 19,
+      "inactivePenalty": 15.0,
+      "prevListRank": 18,
+      "prevActiveScore": 80.2
+    },
+    {
       "id": "211701",
       "name": "Katerina Siniakova",
       "rank": 32,
@@ -6453,56 +6557,32 @@ window.TENNIS_DATA = {
       "prevActiveScore": 65.1
     },
     {
-      "id": "210622",
-      "name": "Andrea Lazaro Garcia",
-      "rank": 153,
-      "prevRank": 140,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
+      "id": "266671",
+      "name": "Laura Samson",
+      "rank": 137,
+      "prevRank": 155,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 65.0,
+      "activeScore": 64.9,
       "legendScore": 0.0,
       "surface": {
         "hard": null,
-        "clay": 0.8,
+        "clay": 0.875,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 1,
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 49,
-      "prevActiveScore": 65.0
-    },
-    {
-      "id": "223194",
-      "name": "Taylah Preston",
-      "rank": 126,
-      "prevRank": 127,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
-      "secondary": "#FFFFFF",
-      "activeScore": 64.8,
-      "legendScore": 15.3,
-      "surface": {
-        "hard": 0.667,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 50,
-      "prevActiveScore": 64.8
+      "inactiveWeeks": 5,
+      "inactivePenalty": 3.7,
+      "prevListRank": 35,
+      "prevActiveScore": 68.6
     },
     {
       "id": "220716",
@@ -6529,32 +6609,6 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 51,
       "prevActiveScore": 64.7
-    },
-    {
-      "id": "222661",
-      "name": "Sonay Kartal",
-      "rank": 72,
-      "prevRank": 62,
-      "country": "GBR",
-      "logo": "https://flagcdn.com/24x18/gb.png",
-      "teamCode": "GBR",
-      "primary": "#012169",
-      "secondary": "#FFFFFF",
-      "activeScore": 64.6,
-      "legendScore": 26.4,
-      "surface": {
-        "hard": 0.538,
-        "clay": 0.429,
-        "grass": 0.556
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "prevListRank": 52,
-      "prevActiveScore": 64.6
     },
     {
       "id": "202663",
@@ -6869,32 +6923,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 62.2
     },
     {
-      "id": "206368",
-      "name": "Veronika Kudermetova",
-      "rank": 104,
-      "prevRank": 85,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "activeScore": 61.8,
-      "legendScore": 39.0,
-      "surface": {
-        "hard": 0.531,
-        "clay": 0.583,
-        "grass": 0.5
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 16
-      },
-      "prevListRank": 65,
-      "prevActiveScore": 61.8
-    },
-    {
       "id": "263857",
       "name": "Yuliia Starodubtseva",
       "rank": 57,
@@ -6944,32 +6972,6 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "prevListRank": 67,
-      "prevActiveScore": 61.3
-    },
-    {
-      "id": "222017",
-      "name": "Anouk Koevermans",
-      "rank": 161,
-      "prevRank": 157,
-      "country": "NED",
-      "logo": "https://flagcdn.com/24x18/nl.png",
-      "teamCode": "NED",
-      "primary": "#AE1C28",
-      "secondary": "#FFFFFF",
-      "activeScore": 61.3,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": 0.8,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 68,
       "prevActiveScore": 61.3
     },
     {
@@ -7023,32 +7025,6 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 70,
       "prevActiveScore": 60.5
-    },
-    {
-      "id": "203514",
-      "name": "Katarzyna Kawa",
-      "rank": 143,
-      "prevRank": 139,
-      "country": "POL",
-      "logo": "https://flagcdn.com/24x18/pl.png",
-      "teamCode": "POL",
-      "primary": "#DC143C",
-      "secondary": "#FFFFFF",
-      "activeScore": 60.4,
-      "legendScore": 20.2,
-      "surface": {
-        "hard": null,
-        "clay": 0.667,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 71,
-      "prevActiveScore": 60.4
     },
     {
       "id": "211337",
@@ -7152,32 +7128,6 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "prevListRank": 75,
-      "prevActiveScore": 58.8
-    },
-    {
-      "id": "215337",
-      "name": "Olga Danilovic",
-      "rank": 197,
-      "prevRank": 151,
-      "country": "SRB",
-      "logo": "https://flagcdn.com/24x18/rs.png",
-      "teamCode": "SRB",
-      "primary": "#C6363C",
-      "secondary": "#FFFFFF",
-      "activeScore": 58.8,
-      "legendScore": 31.3,
-      "surface": {
-        "hard": 0.458,
-        "clay": 0.667,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 3
-      },
-      "prevListRank": 76,
       "prevActiveScore": 58.8
     },
     {
@@ -7389,32 +7339,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 58.0
     },
     {
-      "id": "223325",
-      "name": "Polina Iatcenko",
-      "rank": 163,
-      "prevRank": 161,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "activeScore": 58.0,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": 0.667,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 85,
-      "prevActiveScore": 58.0
-    },
-    {
       "id": "201533",
       "name": "Shuai Zhang",
       "rank": 64,
@@ -7490,32 +7414,6 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "prevListRank": 88,
-      "prevActiveScore": 57.4
-    },
-    {
-      "id": "222966",
-      "name": "Dominika Salkova",
-      "rank": 114,
-      "prevRank": 113,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 57.4,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": 0.625,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 89,
       "prevActiveScore": 57.4
     },
     {
@@ -7597,32 +7495,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 56.9
     },
     {
-      "id": "204411",
-      "name": "Storm Hunter",
-      "rank": 187,
-      "prevRank": 193,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
-      "secondary": "#FFFFFF",
-      "activeScore": 56.9,
-      "legendScore": 15.3,
-      "surface": {
-        "hard": 0.556,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 93,
-      "prevActiveScore": 56.9
-    },
-    {
       "id": "222145",
       "name": "Janice Tjen",
       "rank": 40,
@@ -7647,84 +7519,6 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 94,
       "prevActiveScore": 56.7
-    },
-    {
-      "id": "219875",
-      "name": "Varvara Gracheva",
-      "rank": 71,
-      "prevRank": 70,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
-      "secondary": "#FFFFFF",
-      "activeScore": 56.7,
-      "legendScore": 31.0,
-      "surface": {
-        "hard": 0.4,
-        "clay": 0.4,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 4
-      },
-      "prevListRank": 95,
-      "prevActiveScore": 56.7
-    },
-    {
-      "id": "211651",
-      "name": "Paula Badosa",
-      "rank": 141,
-      "prevRank": 119,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
-      "secondary": "#FFFFFF",
-      "activeScore": 56.7,
-      "legendScore": 42.3,
-      "surface": {
-        "hard": 0.531,
-        "clay": 0.455,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 4,
-        "weeks_no1": 0,
-        "top10_wins": 15
-      },
-      "prevListRank": 96,
-      "prevActiveScore": 56.7
-    },
-    {
-      "id": "247669",
-      "name": "Veronika Podrez",
-      "rank": 145,
-      "prevRank": 142,
-      "country": "UKR",
-      "logo": "https://flagcdn.com/24x18/ua.png",
-      "teamCode": "UKR",
-      "primary": "#005BBB",
-      "secondary": "#FFFFFF",
-      "activeScore": 56.5,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": 0.6,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 97,
-      "prevActiveScore": 56.5
     },
     {
       "id": "202499",
@@ -7777,58 +7571,6 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 99,
       "prevActiveScore": 55.9
-    },
-    {
-      "id": "220699",
-      "name": "Julia Riera",
-      "rank": 181,
-      "prevRank": 179,
-      "country": "ARG",
-      "logo": "https://flagcdn.com/24x18/ar.png",
-      "teamCode": "ARG",
-      "primary": "#74ACDF",
-      "secondary": "#FFFFFF",
-      "activeScore": 55.9,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": 0.625,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 100,
-      "prevActiveScore": 55.9
-    },
-    {
-      "id": "221124",
-      "name": "Himeno Sakatsume",
-      "rank": 127,
-      "prevRank": 131,
-      "country": "JPN",
-      "logo": "https://flagcdn.com/24x18/jp.png",
-      "teamCode": "JPN",
-      "primary": "#BC002D",
-      "secondary": "#FFFFFF",
-      "activeScore": 55.8,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": 0.5,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 101,
-      "prevActiveScore": 55.8
     },
     {
       "id": "219917",
@@ -7909,32 +7651,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 55.1
     },
     {
-      "id": "216566",
-      "name": "Mananchaya Sawangkaew",
-      "rank": 166,
-      "prevRank": 173,
-      "country": "THA",
-      "logo": "https://flagcdn.com/24x18/th.png",
-      "teamCode": "THA",
-      "primary": "#A51931",
-      "secondary": "#FFFFFF",
-      "activeScore": 55.0,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 105,
-      "prevActiveScore": 55.0
-    },
-    {
       "id": "221354",
       "name": "Lisa Pigato",
       "rank": 132,
@@ -7959,84 +7675,6 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 106,
       "prevActiveScore": 54.2
-    },
-    {
-      "id": "211880",
-      "name": "Priscilla Hon",
-      "rank": 146,
-      "prevRank": 143,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
-      "secondary": "#FFFFFF",
-      "activeScore": 54.2,
-      "legendScore": 20.2,
-      "surface": {
-        "hard": 0.5,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 107,
-      "prevActiveScore": 54.2
-    },
-    {
-      "id": "201499",
-      "name": "Anastasia Pavlyuchenkova",
-      "rank": 115,
-      "prevRank": 112,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "activeScore": 54.1,
-      "legendScore": 45.4,
-      "surface": {
-        "hard": 0.3,
-        "clay": 0.2,
-        "grass": 0.778
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 12,
-        "weeks_no1": 0,
-        "top10_wins": 34
-      },
-      "prevListRank": 108,
-      "prevActiveScore": 54.1
-    },
-    {
-      "id": "220446",
-      "name": "Jazmin Ortenzi",
-      "rank": 159,
-      "prevRank": 168,
-      "country": "ARG",
-      "logo": "https://flagcdn.com/24x18/ar.png",
-      "teamCode": "ARG",
-      "primary": "#74ACDF",
-      "secondary": "#FFFFFF",
-      "activeScore": 53.8,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 109,
-      "prevActiveScore": 53.8
     },
     {
       "id": "259871",
@@ -8169,32 +7807,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 53.1
     },
     {
-      "id": "222290",
-      "name": "Lanlana Tararudee",
-      "rank": 94,
-      "prevRank": 97,
-      "country": "THA",
-      "logo": "https://flagcdn.com/24x18/th.png",
-      "teamCode": "THA",
-      "primary": "#A51931",
-      "secondary": "#FFFFFF",
-      "activeScore": 53.1,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": 0.5,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 115,
-      "prevActiveScore": 53.1
-    },
-    {
       "id": "236957",
       "name": "Lola Radivojevic",
       "rank": 152,
@@ -8247,32 +7859,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 53.1
     },
     {
-      "id": "220466",
-      "name": "Joanna Garland",
-      "rank": 186,
-      "prevRank": 150,
-      "country": "TPE",
-      "logo": "https://flagcdn.com/24x18/tw.png",
-      "teamCode": "TPE",
-      "primary": "#FE0000",
-      "secondary": "#FFFFFF",
-      "activeScore": 53.1,
-      "legendScore": 30.7,
-      "surface": {
-        "hard": 0.6,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 118,
-      "prevActiveScore": 53.1
-    },
-    {
       "id": "252499",
       "name": "Alina Korneeva",
       "rank": 96,
@@ -8297,6 +7883,34 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 119,
       "prevActiveScore": 53.0
+    },
+    {
+      "id": "211651",
+      "name": "Paula Badosa",
+      "rank": 141,
+      "prevRank": 119,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.0,
+      "legendScore": 42.3,
+      "surface": {
+        "hard": 0.531,
+        "clay": 0.455,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 15
+      },
+      "inactiveWeeks": 5,
+      "inactivePenalty": 3.7,
+      "prevListRank": 96,
+      "prevActiveScore": 56.7
     },
     {
       "id": "213887",
@@ -8325,110 +7939,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 52.9
     },
     {
-      "id": "220742",
-      "name": "Leyre Romero Gormaz",
-      "rank": 149,
-      "prevRank": 158,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
-      "secondary": "#FFFFFF",
-      "activeScore": 52.9,
-      "legendScore": 30.7,
-      "surface": {
-        "hard": null,
-        "clay": 0.6,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 121,
-      "prevActiveScore": 52.9
-    },
-    {
-      "id": "205925",
-      "name": "Aliaksandra Sasnovich",
-      "rank": 123,
-      "prevRank": 124,
-      "country": "BLR",
-      "logo": "https://flagcdn.com/24x18/by.png",
-      "teamCode": "BLR",
-      "primary": "#CF101A",
-      "secondary": "#FFFFFF",
-      "activeScore": 52.7,
-      "legendScore": 28.5,
-      "surface": {
-        "hard": 0.45,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 6
-      },
-      "prevListRank": 122,
-      "prevActiveScore": 52.7
-    },
-    {
-      "id": "216055",
-      "name": "Francisca Jorge",
-      "rank": 196,
-      "prevRank": 205,
-      "country": "POR",
-      "logo": "https://flagcdn.com/24x18/pt.png",
-      "teamCode": "POR",
-      "primary": "#006600",
-      "secondary": "#FFFFFF",
-      "activeScore": 52.7,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 123,
-      "prevActiveScore": 52.7
-    },
-    {
-      "id": "221626",
-      "name": "Linda Klimovicova",
-      "rank": 165,
-      "prevRank": 156,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 52.6,
-      "legendScore": 30.7,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 124,
-      "prevActiveScore": 52.6
-    },
-    {
       "id": "259857",
       "name": "Akasha Urhobo",
       "rank": 180,
@@ -8453,32 +7963,6 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 125,
       "prevActiveScore": 52.5
-    },
-    {
-      "id": "202604",
-      "name": "Despina Papamichail",
-      "rank": 168,
-      "prevRank": 167,
-      "country": "GRE",
-      "logo": "https://flagcdn.com/24x18/gr.png",
-      "teamCode": "GRE",
-      "primary": "#0D5EAF",
-      "secondary": "#FFFFFF",
-      "activeScore": 51.9,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": 0.571,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 126,
-      "prevActiveScore": 51.9
     },
     {
       "id": "215872",
@@ -8533,58 +8017,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 51.8
     },
     {
-      "id": "215480",
-      "name": "Suzan Lamens",
-      "rank": 125,
-      "prevRank": 128,
-      "country": "NED",
-      "logo": "https://flagcdn.com/24x18/nl.png",
-      "teamCode": "NED",
-      "primary": "#AE1C28",
-      "secondary": "#FFFFFF",
-      "activeScore": 51.6,
-      "legendScore": 22.7,
-      "surface": {
-        "hard": 0.375,
-        "clay": 0.5,
-        "grass": 0.5
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 129,
-      "prevActiveScore": 51.6
-    },
-    {
-      "id": "214461",
-      "name": "Tamara Zidansek",
-      "rank": 134,
-      "prevRank": 134,
-      "country": "SLO",
-      "logo": "https://flagcdn.com/24x18/si.png",
-      "teamCode": "SLO",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "activeScore": 51.6,
-      "legendScore": 24.2,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "prevListRank": 130,
-      "prevActiveScore": 51.6
-    },
-    {
       "id": "215453",
       "name": "Marina Bassols Ribera",
       "rank": 144,
@@ -8611,19 +8043,19 @@ window.TENNIS_DATA = {
       "prevActiveScore": 51.6
     },
     {
-      "id": "223321",
-      "name": "Sofia Costoulas",
-      "rank": 150,
-      "prevRank": 144,
-      "country": "BEL",
-      "logo": "https://flagcdn.com/24x18/be.png",
-      "teamCode": "BEL",
-      "primary": "#000000",
+      "id": "222966",
+      "name": "Dominika Salkova",
+      "rank": 114,
+      "prevRank": 113,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 51.6,
+      "activeScore": 51.4,
       "legendScore": 0.0,
       "surface": {
-        "hard": null,
+        "hard": 0.625,
         "clay": null,
         "grass": null
       },
@@ -8633,60 +8065,10 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 132,
-      "prevActiveScore": 51.6
-    },
-    {
-      "id": "206294",
-      "name": "Yue Yuan",
-      "rank": 112,
-      "prevRank": 116,
-      "country": "CHN",
-      "logo": "https://flagcdn.com/24x18/cn.png",
-      "teamCode": "CHN",
-      "primary": "#DE2910",
-      "secondary": "#FFFFFF",
-      "activeScore": 51.1,
-      "legendScore": 8.3,
-      "surface": {
-        "hard": 0.379,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "prevListRank": 133,
-      "prevActiveScore": 51.1
-    },
-    {
-      "id": "222233",
-      "name": "Marina Stakusic",
-      "rank": 139,
-      "prevRank": 133,
-      "country": "CAN",
-      "logo": "https://flagcdn.com/24x18/ca.png",
-      "teamCode": "CAN",
-      "primary": "#FF0000",
-      "secondary": "#FFFFFF",
-      "activeScore": 51.1,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": 0.4,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 134,
-      "prevActiveScore": 51.1
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
+      "prevListRank": 89,
+      "prevActiveScore": 57.4
     },
     {
       "id": "214646",
@@ -8715,30 +8097,32 @@ window.TENNIS_DATA = {
       "prevActiveScore": 51.1
     },
     {
-      "id": "202684",
-      "name": "Lin Zhu",
-      "rank": 138,
-      "prevRank": 137,
-      "country": "CHN",
-      "logo": "https://flagcdn.com/24x18/cn.png",
-      "teamCode": "CHN",
-      "primary": "#DE2910",
+      "id": "247669",
+      "name": "Veronika Podrez",
+      "rank": 145,
+      "prevRank": 142,
+      "country": "UKR",
+      "logo": "https://flagcdn.com/24x18/ua.png",
+      "teamCode": "UKR",
+      "primary": "#005BBB",
       "secondary": "#FFFFFF",
-      "activeScore": 50.9,
-      "legendScore": 21.2,
+      "activeScore": 50.5,
+      "legendScore": 0.0,
       "surface": {
-        "hard": 0.375,
-        "clay": null,
+        "hard": null,
+        "clay": 0.6,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 1,
+        "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 3
+        "top10_wins": 0
       },
-      "prevListRank": 136,
-      "prevActiveScore": 50.9
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
+      "prevListRank": 97,
+      "prevActiveScore": 56.5
     },
     {
       "id": "215370",
@@ -8767,20 +8151,48 @@ window.TENNIS_DATA = {
       "prevActiveScore": 50.5
     },
     {
-      "id": "221985",
-      "name": "Darja Semenistaja",
-      "rank": 102,
-      "prevRank": 110,
-      "country": "LAT",
-      "logo": "https://flagcdn.com/24x18/lv.png",
-      "teamCode": "LAT",
-      "primary": "#555555",
+      "id": "201499",
+      "name": "Anastasia Pavlyuchenkova",
+      "rank": 115,
+      "prevRank": 112,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
       "secondary": "#FFFFFF",
       "activeScore": 50.4,
-      "legendScore": 0.0,
+      "legendScore": 45.4,
+      "surface": {
+        "hard": 0.3,
+        "clay": 0.2,
+        "grass": 0.778
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 12,
+        "weeks_no1": 0,
+        "top10_wins": 34
+      },
+      "inactiveWeeks": 5,
+      "inactivePenalty": 3.7,
+      "prevListRank": 108,
+      "prevActiveScore": 54.1
+    },
+    {
+      "id": "203514",
+      "name": "Katarzyna Kawa",
+      "rank": 143,
+      "prevRank": 139,
+      "country": "POL",
+      "logo": "https://flagcdn.com/24x18/pl.png",
+      "teamCode": "POL",
+      "primary": "#DC143C",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.4,
+      "legendScore": 20.2,
       "surface": {
         "hard": null,
-        "clay": null,
+        "clay": 0.667,
         "grass": null
       },
       "stats": {
@@ -8789,8 +8201,10 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 138,
-      "prevActiveScore": 50.4
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 71,
+      "prevActiveScore": 60.4
     },
     {
       "id": "221039",
@@ -8845,32 +8259,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 50.2
     },
     {
-      "id": "221237",
-      "name": "Maria Timofeeva",
-      "rank": 93,
-      "prevRank": 118,
-      "country": "UZB",
-      "logo": "https://flagcdn.com/24x18/uz.png",
-      "teamCode": "UZB",
-      "primary": "#1EB53A",
-      "secondary": "#FFFFFF",
-      "activeScore": 50.0,
-      "legendScore": 30.7,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 141,
-      "prevActiveScore": 50.0
-    },
-    {
       "id": "215020",
       "name": "Anna Blinkova",
       "rank": 105,
@@ -8897,6 +8285,34 @@ window.TENNIS_DATA = {
       "prevActiveScore": 50.0
     },
     {
+      "id": "210622",
+      "name": "Andrea Lazaro Garcia",
+      "rank": 153,
+      "prevRank": 140,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.8,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 35,
+      "inactivePenalty": 15.0,
+      "prevListRank": 49,
+      "prevActiveScore": 65.0
+    },
+    {
       "id": "211685",
       "name": "Rebecca Sramkova",
       "rank": 120,
@@ -8921,6 +8337,34 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 143,
       "prevActiveScore": 49.9
+    },
+    {
+      "id": "223194",
+      "name": "Taylah Preston",
+      "rank": 126,
+      "prevRank": 127,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.8,
+      "legendScore": 15.3,
+      "surface": {
+        "hard": 0.667,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 18,
+      "inactivePenalty": 15.0,
+      "prevListRank": 50,
+      "prevActiveScore": 64.8
     },
     {
       "id": "215306",
@@ -8975,30 +8419,32 @@ window.TENNIS_DATA = {
       "prevActiveScore": 49.7
     },
     {
-      "id": "214452",
-      "name": "Caroline Dolehide",
-      "rank": 198,
-      "prevRank": 176,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
+      "id": "222661",
+      "name": "Sonay Kartal",
+      "rank": 72,
+      "prevRank": 62,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
       "secondary": "#FFFFFF",
-      "activeScore": 49.4,
-      "legendScore": 16.6,
+      "activeScore": 49.6,
+      "legendScore": 26.4,
       "surface": {
-        "hard": 0.4,
-        "clay": 0.4,
-        "grass": null
+        "hard": 0.538,
+        "clay": 0.429,
+        "grass": 0.556
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 1,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 1
       },
-      "prevListRank": 146,
-      "prevActiveScore": 49.4
+      "inactiveWeeks": 12,
+      "inactivePenalty": 15.0,
+      "prevListRank": 52,
+      "prevActiveScore": 64.6
     },
     {
       "id": "243420",
@@ -9027,32 +8473,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 49.0
     },
     {
-      "id": "215037",
-      "name": "Kayla Day",
-      "rank": 136,
-      "prevRank": 145,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 48.9,
-      "legendScore": 18.1,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 148,
-      "prevActiveScore": 48.9
-    },
-    {
       "id": "259733",
       "name": "Kaitlin Quevedo",
       "rank": 107,
@@ -9077,84 +8497,6 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 149,
       "prevActiveScore": 48.7
-    },
-    {
-      "id": "215571",
-      "name": "Guiomar Maristany Zuleta De Reales",
-      "rank": 179,
-      "prevRank": 191,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
-      "secondary": "#FFFFFF",
-      "activeScore": 48.6,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 150,
-      "prevActiveScore": 48.6
-    },
-    {
-      "id": "223286",
-      "name": "Victoria Jimenez Kasintseva",
-      "rank": 124,
-      "prevRank": 104,
-      "country": "AND",
-      "logo": "",
-      "teamCode": "AND",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "activeScore": 48.3,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": 0.385,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 151,
-      "prevActiveScore": 48.3
-    },
-    {
-      "id": "220722",
-      "name": "Elvina Kalieva",
-      "rank": 135,
-      "prevRank": 135,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 48.0,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 152,
-      "prevActiveScore": 48.0
     },
     {
       "id": "220435",
@@ -9206,32 +8548,6 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "prevListRank": 154,
-      "prevActiveScore": 47.6
-    },
-    {
-      "id": "211316",
-      "name": "Jessika Ponchet",
-      "rank": 190,
-      "prevRank": 180,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
-      "secondary": "#FFFFFF",
-      "activeScore": 47.6,
-      "legendScore": 7.4,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 155,
       "prevActiveScore": 47.6
     },
     {
@@ -9313,45 +8629,47 @@ window.TENNIS_DATA = {
       "prevActiveScore": 47.1
     },
     {
-      "id": "201478",
-      "name": "Varvara Lepchenko",
-      "rank": 175,
-      "prevRank": 169,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
+      "id": "206368",
+      "name": "Veronika Kudermetova",
+      "rank": 104,
+      "prevRank": 85,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 46.7,
-      "legendScore": 29.1,
+      "activeScore": 46.8,
+      "legendScore": 39.0,
       "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
+        "hard": 0.531,
+        "clay": 0.583,
+        "grass": 0.5
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 2,
         "weeks_no1": 0,
-        "top10_wins": 5
+        "top10_wins": 16
       },
-      "prevListRank": 159,
-      "prevActiveScore": 46.7
+      "inactiveWeeks": 32,
+      "inactivePenalty": 15.0,
+      "prevListRank": 65,
+      "prevActiveScore": 61.8
     },
     {
-      "id": "260203",
-      "name": "Vendula Valdmannova",
-      "rank": 199,
-      "prevRank": 201,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
+      "id": "205925",
+      "name": "Aliaksandra Sasnovich",
+      "rank": 123,
+      "prevRank": 124,
+      "country": "BLR",
+      "logo": "https://flagcdn.com/24x18/by.png",
+      "teamCode": "BLR",
+      "primary": "#CF101A",
       "secondary": "#FFFFFF",
       "activeScore": 46.7,
-      "legendScore": 0.0,
+      "legendScore": 28.5,
       "surface": {
-        "hard": null,
+        "hard": 0.45,
         "clay": null,
         "grass": null
       },
@@ -9359,10 +8677,12 @@ window.TENNIS_DATA = {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 6
       },
-      "prevListRank": 160,
-      "prevActiveScore": 46.7
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
+      "prevListRank": 122,
+      "prevActiveScore": 52.7
     },
     {
       "id": "220465",
@@ -9391,84 +8711,6 @@ window.TENNIS_DATA = {
       "prevActiveScore": 46.6
     },
     {
-      "id": "211279",
-      "name": "Harriet Dart",
-      "rank": 160,
-      "prevRank": 171,
-      "country": "GBR",
-      "logo": "https://flagcdn.com/24x18/gb.png",
-      "teamCode": "GBR",
-      "primary": "#012169",
-      "secondary": "#FFFFFF",
-      "activeScore": 46.6,
-      "legendScore": 20.6,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "prevListRank": 162,
-      "prevActiveScore": 46.6
-    },
-    {
-      "id": "267439",
-      "name": "Teodora Kostovic",
-      "rank": 182,
-      "prevRank": 187,
-      "country": "SRB",
-      "logo": "https://flagcdn.com/24x18/rs.png",
-      "teamCode": "SRB",
-      "primary": "#C6363C",
-      "secondary": "#FFFFFF",
-      "activeScore": 46.5,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 163,
-      "prevActiveScore": 46.5
-    },
-    {
-      "id": "215946",
-      "name": "Ye Xin Ma",
-      "rank": 189,
-      "prevRank": 183,
-      "country": "CHN",
-      "logo": "https://flagcdn.com/24x18/cn.png",
-      "teamCode": "CHN",
-      "primary": "#DE2910",
-      "secondary": "#FFFFFF",
-      "activeScore": 46.5,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 164,
-      "prevActiveScore": 46.5
-    },
-    {
       "id": "230870",
       "name": "Ella Seidel",
       "rank": 95,
@@ -9495,72 +8737,20 @@ window.TENNIS_DATA = {
       "prevActiveScore": 46.4
     },
     {
-      "id": "220454",
-      "name": "Yeon Woo Ku",
-      "rank": 188,
-      "prevRank": 207,
-      "country": "KOR",
-      "logo": "https://flagcdn.com/24x18/kr.png",
-      "teamCode": "KOR",
-      "primary": "#003478",
-      "secondary": "#FFFFFF",
-      "activeScore": 46.4,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 166,
-      "prevActiveScore": 46.4
-    },
-    {
-      "id": "215042",
-      "name": "Katie Swan",
-      "rank": 200,
-      "prevRank": 203,
-      "country": "GBR",
-      "logo": "https://flagcdn.com/24x18/gb.png",
-      "teamCode": "GBR",
-      "primary": "#012169",
-      "secondary": "#FFFFFF",
-      "activeScore": 46.4,
-      "legendScore": 8.6,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 167,
-      "prevActiveScore": 46.4
-    },
-    {
-      "id": "223168",
-      "name": "Mary Stoiana",
-      "rank": 142,
-      "prevRank": 146,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
+      "id": "222017",
+      "name": "Anouk Koevermans",
+      "rank": 161,
+      "prevRank": 157,
+      "country": "NED",
+      "logo": "https://flagcdn.com/24x18/nl.png",
+      "teamCode": "NED",
+      "primary": "#AE1C28",
       "secondary": "#FFFFFF",
       "activeScore": 46.3,
       "legendScore": 0.0,
       "surface": {
         "hard": null,
-        "clay": null,
+        "clay": 0.8,
         "grass": null
       },
       "stats": {
@@ -9569,34 +8759,10 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 168,
-      "prevActiveScore": 46.3
-    },
-    {
-      "id": "239436",
-      "name": "Kayla Cross",
-      "rank": 194,
-      "prevRank": 199,
-      "country": "CAN",
-      "logo": "https://flagcdn.com/24x18/ca.png",
-      "teamCode": "CAN",
-      "primary": "#FF0000",
-      "secondary": "#FFFFFF",
-      "activeScore": 46.3,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 169,
-      "prevActiveScore": 46.3
+      "inactiveWeeks": 42,
+      "inactivePenalty": 15.0,
+      "prevListRank": 68,
+      "prevActiveScore": 61.3
     },
     {
       "id": "214236",
@@ -9651,46 +8817,20 @@ window.TENNIS_DATA = {
       "prevActiveScore": 46.0
     },
     {
-      "id": "215138",
-      "name": "Lulu Sun",
-      "rank": 110,
-      "prevRank": 109,
-      "country": "NZL",
-      "logo": "https://flagcdn.com/24x18/nz.png",
-      "teamCode": "NZL",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "activeScore": 46.0,
-      "legendScore": 23.6,
-      "surface": {
-        "hard": 0.345,
-        "clay": 0.333,
-        "grass": 0.333
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "prevListRank": 172,
-      "prevActiveScore": 46.0
-    },
-    {
-      "id": "220733",
-      "name": "Carole Monnet",
-      "rank": 191,
-      "prevRank": 196,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
+      "id": "220699",
+      "name": "Julia Riera",
+      "rank": 181,
+      "prevRank": 179,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
       "secondary": "#FFFFFF",
       "activeScore": 45.9,
       "legendScore": 0.0,
       "surface": {
         "hard": null,
-        "clay": null,
+        "clay": 0.625,
         "grass": null
       },
       "stats": {
@@ -9699,86 +8839,10 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 173,
-      "prevActiveScore": 45.9
-    },
-    {
-      "id": "221406",
-      "name": "Alina Charaeva",
-      "rank": 129,
-      "prevRank": 130,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "activeScore": 45.5,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 174,
-      "prevActiveScore": 45.5
-    },
-    {
-      "id": "236955",
-      "name": "Tatiana Prozorova",
-      "rank": 172,
-      "prevRank": 177,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "activeScore": 45.5,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 175,
-      "prevActiveScore": 45.5
-    },
-    {
-      "id": "221236",
-      "name": "Polina Kudermetova",
-      "rank": 121,
-      "prevRank": 123,
-      "country": "UZB",
-      "logo": "https://flagcdn.com/24x18/uz.png",
-      "teamCode": "UZB",
-      "primary": "#1EB53A",
-      "secondary": "#FFFFFF",
-      "activeScore": 45.3,
-      "legendScore": 15.3,
-      "surface": {
-        "hard": 0.407,
-        "clay": 0.286,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "prevListRank": 176,
-      "prevActiveScore": 45.3
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 100,
+      "prevActiveScore": 55.9
     },
     {
       "id": "215572",
@@ -9885,17 +8949,45 @@ window.TENNIS_DATA = {
       "prevActiveScore": 44.9
     },
     {
-      "id": "216097",
-      "name": "Elizabeth Mandlik",
-      "rank": 174,
-      "prevRank": 165,
+      "id": "223286",
+      "name": "Victoria Jimenez Kasintseva",
+      "rank": 124,
+      "prevRank": 104,
+      "country": "AND",
+      "logo": "",
+      "teamCode": "AND",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 44.6,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.385,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 5,
+      "inactivePenalty": 3.7,
+      "prevListRank": 151,
+      "prevActiveScore": 48.3
+    },
+    {
+      "id": "220722",
+      "name": "Elvina Kalieva",
+      "rank": 135,
+      "prevRank": 135,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 44.8,
-      "legendScore": 12.3,
+      "activeScore": 44.3,
+      "legendScore": 0.0,
       "surface": {
         "hard": null,
         "clay": null,
@@ -9907,21 +8999,23 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 181,
-      "prevActiveScore": 44.8
+      "inactiveWeeks": 5,
+      "inactivePenalty": 3.7,
+      "prevListRank": 152,
+      "prevActiveScore": 48.0
     },
     {
-      "id": "201621",
-      "name": "Mona Barthel",
-      "rank": 193,
-      "prevRank": 188,
-      "country": "GER",
-      "logo": "https://flagcdn.com/24x18/de.png",
-      "teamCode": "GER",
-      "primary": "#000000",
+      "id": "221237",
+      "name": "Maria Timofeeva",
+      "rank": 93,
+      "prevRank": 118,
+      "country": "UZB",
+      "logo": "https://flagcdn.com/24x18/uz.png",
+      "teamCode": "UZB",
+      "primary": "#1EB53A",
       "secondary": "#FFFFFF",
-      "activeScore": 44.5,
-      "legendScore": 26.4,
+      "activeScore": 44.0,
+      "legendScore": 30.7,
       "surface": {
         "hard": null,
         "clay": null,
@@ -9929,27 +9023,29 @@ window.TENNIS_DATA = {
       },
       "stats": {
         "gs": 0,
-        "titles": 4,
+        "titles": 1,
         "weeks_no1": 0,
-        "top10_wins": 5
+        "top10_wins": 0
       },
-      "prevListRank": 182,
-      "prevActiveScore": 44.5
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
+      "prevListRank": 141,
+      "prevActiveScore": 50.0
     },
     {
-      "id": "215219",
-      "name": "Kaja Juvan",
-      "rank": 128,
-      "prevRank": 111,
-      "country": "SLO",
-      "logo": "https://flagcdn.com/24x18/si.png",
-      "teamCode": "SLO",
-      "primary": "#555555",
+      "id": "220446",
+      "name": "Jazmin Ortenzi",
+      "rank": 159,
+      "prevRank": 168,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
       "secondary": "#FFFFFF",
       "activeScore": 43.8,
-      "legendScore": 28.5,
+      "legendScore": 0.0,
       "surface": {
-        "hard": 0.333,
+        "hard": null,
         "clay": null,
         "grass": null
       },
@@ -9957,10 +9053,40 @@ window.TENNIS_DATA = {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 2
+        "top10_wins": 0
       },
-      "prevListRank": 183,
-      "prevActiveScore": 43.8
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 109,
+      "prevActiveScore": 53.8
+    },
+    {
+      "id": "215337",
+      "name": "Olga Danilovic",
+      "rank": 197,
+      "prevRank": 151,
+      "country": "SRB",
+      "logo": "https://flagcdn.com/24x18/rs.png",
+      "teamCode": "SRB",
+      "primary": "#C6363C",
+      "secondary": "#FFFFFF",
+      "activeScore": 43.8,
+      "legendScore": 31.3,
+      "surface": {
+        "hard": 0.458,
+        "clay": 0.667,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "inactiveWeeks": 16,
+      "inactivePenalty": 15.0,
+      "prevListRank": 76,
+      "prevActiveScore": 58.8
     },
     {
       "id": "215936",
@@ -10015,6 +9141,62 @@ window.TENNIS_DATA = {
       "prevActiveScore": 43.3
     },
     {
+      "id": "219875",
+      "name": "Varvara Gracheva",
+      "rank": 71,
+      "prevRank": 70,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 43.0,
+      "legendScore": 31.0,
+      "surface": {
+        "hard": 0.4,
+        "clay": 0.4,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 4
+      },
+      "inactiveWeeks": 10,
+      "inactivePenalty": 13.7,
+      "prevListRank": 95,
+      "prevActiveScore": 56.7
+    },
+    {
+      "id": "223325",
+      "name": "Polina Iatcenko",
+      "rank": 163,
+      "prevRank": 161,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 43.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.667,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 30,
+      "inactivePenalty": 15.0,
+      "prevListRank": 85,
+      "prevActiveScore": 58.0
+    },
+    {
       "id": "222258",
       "name": "Linda Fruhvirtova",
       "rank": 164,
@@ -10065,32 +9247,6 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 187,
       "prevActiveScore": 42.7
-    },
-    {
-      "id": "202600",
-      "name": "Viktoriya Tomova",
-      "rank": 167,
-      "prevRank": 160,
-      "country": "BUL",
-      "logo": "https://flagcdn.com/24x18/bg.png",
-      "teamCode": "BUL",
-      "primary": "#00966E",
-      "secondary": "#FFFFFF",
-      "activeScore": 42.6,
-      "legendScore": 15.3,
-      "surface": {
-        "hard": 0.353,
-        "clay": 0.273,
-        "grass": 0.2
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 188,
-      "prevActiveScore": 42.6
     },
     {
       "id": "213646",
@@ -10145,6 +9301,90 @@ window.TENNIS_DATA = {
       "prevActiveScore": 42.1
     },
     {
+      "id": "202604",
+      "name": "Despina Papamichail",
+      "rank": 168,
+      "prevRank": 167,
+      "country": "GRE",
+      "logo": "https://flagcdn.com/24x18/gr.png",
+      "teamCode": "GRE",
+      "primary": "#0D5EAF",
+      "secondary": "#FFFFFF",
+      "activeScore": 41.9,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.571,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 126,
+      "prevActiveScore": 51.9
+    },
+    {
+      "id": "204411",
+      "name": "Storm Hunter",
+      "rank": 187,
+      "prevRank": 193,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 41.9,
+      "legendScore": 15.3,
+      "surface": {
+        "hard": 0.556,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 12,
+      "inactivePenalty": 15.0,
+      "prevListRank": 93,
+      "prevActiveScore": 56.9
+    },
+    {
+      "id": "221406",
+      "name": "Alina Charaeva",
+      "rank": 129,
+      "prevRank": 130,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 41.8,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 5,
+      "inactivePenalty": 3.7,
+      "prevListRank": 174,
+      "prevActiveScore": 45.5
+    },
+    {
       "id": "206417",
       "name": "Leolia Jeanjean",
       "rank": 130,
@@ -10169,6 +9409,62 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 191,
       "prevActiveScore": 41.7
+    },
+    {
+      "id": "223321",
+      "name": "Sofia Costoulas",
+      "rank": 150,
+      "prevRank": 144,
+      "country": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "teamCode": "BEL",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 41.6,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 132,
+      "prevActiveScore": 51.6
+    },
+    {
+      "id": "211316",
+      "name": "Jessika Ponchet",
+      "rank": 190,
+      "prevRank": 180,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 41.6,
+      "legendScore": 7.4,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
+      "prevListRank": 155,
+      "prevActiveScore": 47.6
     },
     {
       "id": "220662",
@@ -10197,56 +9493,32 @@ window.TENNIS_DATA = {
       "prevActiveScore": 41.2
     },
     {
-      "id": "213666",
-      "name": "Maddison Inglis",
-      "rank": 151,
-      "prevRank": 141,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
+      "id": "206294",
+      "name": "Yue Yuan",
+      "rank": 112,
+      "prevRank": 116,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
       "secondary": "#FFFFFF",
-      "activeScore": 41.2,
-      "legendScore": 22.1,
+      "activeScore": 41.1,
+      "legendScore": 8.3,
       "surface": {
-        "hard": 0.25,
+        "hard": 0.379,
         "clay": null,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 1,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 1
       },
-      "prevListRank": 193,
-      "prevActiveScore": 41.2
-    },
-    {
-      "id": "223333",
-      "name": "Noma Noha Akugue",
-      "rank": 154,
-      "prevRank": 162,
-      "country": "GER",
-      "logo": "https://flagcdn.com/24x18/de.png",
-      "teamCode": "GER",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "activeScore": 41.0,
-      "legendScore": 0.0,
-      "surface": {
-        "hard": null,
-        "clay": 0.333,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "prevListRank": 194,
-      "prevActiveScore": 41.0
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 133,
+      "prevActiveScore": 51.1
     },
     {
       "id": "215250",
@@ -10275,19 +9547,19 @@ window.TENNIS_DATA = {
       "prevActiveScore": 41.0
     },
     {
-      "id": "221307",
-      "name": "Darja Vidmanova",
-      "rank": 119,
-      "prevRank": 101,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
+      "id": "221124",
+      "name": "Himeno Sakatsume",
+      "rank": 127,
+      "prevRank": 131,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "teamCode": "JPN",
+      "primary": "#BC002D",
       "secondary": "#FFFFFF",
-      "activeScore": 39.2,
+      "activeScore": 40.8,
       "legendScore": 0.0,
       "surface": {
-        "hard": 0.2,
+        "hard": 0.5,
         "clay": null,
         "grass": null
       },
@@ -10297,8 +9569,318 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 196,
-      "prevActiveScore": 39.2
+      "inactiveWeeks": 12,
+      "inactivePenalty": 15.0,
+      "prevListRank": 101,
+      "prevActiveScore": 55.8
+    },
+    {
+      "id": "221985",
+      "name": "Darja Semenistaja",
+      "rank": 102,
+      "prevRank": 110,
+      "country": "LAT",
+      "logo": "https://flagcdn.com/24x18/lv.png",
+      "teamCode": "LAT",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 40.4,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 138,
+      "prevActiveScore": 50.4
+    },
+    {
+      "id": "216566",
+      "name": "Mananchaya Sawangkaew",
+      "rank": 166,
+      "prevRank": 173,
+      "country": "THA",
+      "logo": "https://flagcdn.com/24x18/th.png",
+      "teamCode": "THA",
+      "primary": "#A51931",
+      "secondary": "#FFFFFF",
+      "activeScore": 40.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 18,
+      "inactivePenalty": 15.0,
+      "prevListRank": 105,
+      "prevActiveScore": 55.0
+    },
+    {
+      "id": "214452",
+      "name": "Caroline Dolehide",
+      "rank": 198,
+      "prevRank": 176,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 39.4,
+      "legendScore": 16.6,
+      "surface": {
+        "hard": 0.4,
+        "clay": 0.4,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 146,
+      "prevActiveScore": 49.4
+    },
+    {
+      "id": "211880",
+      "name": "Priscilla Hon",
+      "rank": 146,
+      "prevRank": 143,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 39.2,
+      "legendScore": 20.2,
+      "surface": {
+        "hard": 0.5,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 13,
+      "inactivePenalty": 15.0,
+      "prevListRank": 107,
+      "prevActiveScore": 54.2
+    },
+    {
+      "id": "215037",
+      "name": "Kayla Day",
+      "rank": 136,
+      "prevRank": 145,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 38.9,
+      "legendScore": 18.1,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 148,
+      "prevActiveScore": 48.9
+    },
+    {
+      "id": "215571",
+      "name": "Guiomar Maristany Zuleta De Reales",
+      "rank": 179,
+      "prevRank": 191,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 38.6,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 150,
+      "prevActiveScore": 48.6
+    },
+    {
+      "id": "222290",
+      "name": "Lanlana Tararudee",
+      "rank": 94,
+      "prevRank": 97,
+      "country": "THA",
+      "logo": "https://flagcdn.com/24x18/th.png",
+      "teamCode": "THA",
+      "primary": "#A51931",
+      "secondary": "#FFFFFF",
+      "activeScore": 38.1,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.5,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 12,
+      "inactivePenalty": 15.0,
+      "prevListRank": 115,
+      "prevActiveScore": 53.1
+    },
+    {
+      "id": "220466",
+      "name": "Joanna Garland",
+      "rank": 186,
+      "prevRank": 150,
+      "country": "TPE",
+      "logo": "https://flagcdn.com/24x18/tw.png",
+      "teamCode": "TPE",
+      "primary": "#FE0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 38.1,
+      "legendScore": 30.7,
+      "surface": {
+        "hard": 0.6,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 30,
+      "inactivePenalty": 15.0,
+      "prevListRank": 118,
+      "prevActiveScore": 53.1
+    },
+    {
+      "id": "220742",
+      "name": "Leyre Romero Gormaz",
+      "rank": 149,
+      "prevRank": 158,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 37.9,
+      "legendScore": 30.7,
+      "surface": {
+        "hard": null,
+        "clay": 0.6,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 45,
+      "inactivePenalty": 15.0,
+      "prevListRank": 121,
+      "prevActiveScore": 52.9
+    },
+    {
+      "id": "216055",
+      "name": "Francisca Jorge",
+      "rank": 196,
+      "prevRank": 205,
+      "country": "POR",
+      "logo": "https://flagcdn.com/24x18/pt.png",
+      "teamCode": "POR",
+      "primary": "#006600",
+      "secondary": "#FFFFFF",
+      "activeScore": 37.7,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 48,
+      "inactivePenalty": 15.0,
+      "prevListRank": 123,
+      "prevActiveScore": 52.7
+    },
+    {
+      "id": "221626",
+      "name": "Linda Klimovicova",
+      "rank": 165,
+      "prevRank": 156,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 37.6,
+      "legendScore": 30.7,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 16,
+      "inactivePenalty": 15.0,
+      "prevListRank": 124,
+      "prevActiveScore": 52.6
     },
     {
       "id": "211814",
@@ -10327,45 +9909,131 @@ window.TENNIS_DATA = {
       "prevActiveScore": 37.4
     },
     {
-      "id": "201551",
-      "name": "Arantxa Rus",
-      "rank": 178,
-      "prevRank": 154,
+      "id": "201478",
+      "name": "Varvara Lepchenko",
+      "rank": 175,
+      "prevRank": 169,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 36.7,
+      "legendScore": 29.1,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 5
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 159,
+      "prevActiveScore": 46.7
+    },
+    {
+      "id": "215480",
+      "name": "Suzan Lamens",
+      "rank": 125,
+      "prevRank": 128,
       "country": "NED",
       "logo": "https://flagcdn.com/24x18/nl.png",
       "teamCode": "NED",
       "primary": "#AE1C28",
       "secondary": "#FFFFFF",
-      "activeScore": 36.2,
-      "legendScore": 19.3,
+      "activeScore": 36.6,
+      "legendScore": 22.7,
       "surface": {
-        "hard": 0.0,
-        "clay": 0.429,
+        "hard": 0.375,
+        "clay": 0.5,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 16,
+      "inactivePenalty": 15.0,
+      "prevListRank": 129,
+      "prevActiveScore": 51.6
+    },
+    {
+      "id": "214461",
+      "name": "Tamara Zidansek",
+      "rank": 134,
+      "prevRank": 134,
+      "country": "SLO",
+      "logo": "https://flagcdn.com/24x18/si.png",
+      "teamCode": "SLO",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 36.6,
+      "legendScore": 24.2,
+      "surface": {
+        "hard": null,
+        "clay": null,
         "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 1,
         "weeks_no1": 0,
-        "top10_wins": 2
+        "top10_wins": 1
       },
-      "prevListRank": 198,
-      "prevActiveScore": 36.2
+      "inactiveWeeks": 16,
+      "inactivePenalty": 15.0,
+      "prevListRank": 130,
+      "prevActiveScore": 51.6
     },
     {
-      "id": "215992",
-      "name": "Whitney Osuigwe",
-      "rank": 183,
-      "prevRank": 195,
+      "id": "202600",
+      "name": "Viktoriya Tomova",
+      "rank": 167,
+      "prevRank": 160,
+      "country": "BUL",
+      "logo": "https://flagcdn.com/24x18/bg.png",
+      "teamCode": "BUL",
+      "primary": "#00966E",
+      "secondary": "#FFFFFF",
+      "activeScore": 36.6,
+      "legendScore": 15.3,
+      "surface": {
+        "hard": 0.353,
+        "clay": 0.273,
+        "grass": 0.2
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
+      "prevListRank": 188,
+      "prevActiveScore": 42.6
+    },
+    {
+      "id": "223168",
+      "name": "Mary Stoiana",
+      "rank": 142,
+      "prevRank": 146,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 35.8,
+      "activeScore": 36.3,
       "legendScore": 0.0,
       "surface": {
-        "hard": 0.25,
+        "hard": null,
         "clay": null,
         "grass": null
       },
@@ -10375,8 +10043,150 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "prevListRank": 199,
-      "prevActiveScore": 35.8
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 168,
+      "prevActiveScore": 46.3
+    },
+    {
+      "id": "222233",
+      "name": "Marina Stakusic",
+      "rank": 139,
+      "prevRank": 133,
+      "country": "CAN",
+      "logo": "https://flagcdn.com/24x18/ca.png",
+      "teamCode": "CAN",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 36.1,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.4,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 12,
+      "inactivePenalty": 15.0,
+      "prevListRank": 134,
+      "prevActiveScore": 51.1
+    },
+    {
+      "id": "215138",
+      "name": "Lulu Sun",
+      "rank": 110,
+      "prevRank": 109,
+      "country": "NZL",
+      "logo": "https://flagcdn.com/24x18/nz.png",
+      "teamCode": "NZL",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 36.0,
+      "legendScore": 23.6,
+      "surface": {
+        "hard": 0.345,
+        "clay": 0.333,
+        "grass": 0.333
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 172,
+      "prevActiveScore": 46.0
+    },
+    {
+      "id": "202684",
+      "name": "Lin Zhu",
+      "rank": 138,
+      "prevRank": 137,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.9,
+      "legendScore": 21.2,
+      "surface": {
+        "hard": 0.375,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "inactiveWeeks": 20,
+      "inactivePenalty": 15.0,
+      "prevListRank": 136,
+      "prevActiveScore": 50.9
+    },
+    {
+      "id": "220733",
+      "name": "Carole Monnet",
+      "rank": 191,
+      "prevRank": 196,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.9,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 173,
+      "prevActiveScore": 45.9
+    },
+    {
+      "id": "221236",
+      "name": "Polina Kudermetova",
+      "rank": 121,
+      "prevRank": 123,
+      "country": "UZB",
+      "logo": "https://flagcdn.com/24x18/uz.png",
+      "teamCode": "UZB",
+      "primary": "#1EB53A",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.3,
+      "legendScore": 15.3,
+      "surface": {
+        "hard": 0.407,
+        "clay": 0.286,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 176,
+      "prevActiveScore": 45.3
     },
     {
       "id": "210886",
@@ -10403,6 +10213,454 @@ window.TENNIS_DATA = {
       },
       "prevListRank": 200,
       "prevActiveScore": 35.0
+    },
+    {
+      "id": "221307",
+      "name": "Darja Vidmanova",
+      "rank": 119,
+      "prevRank": 101,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.2,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 196,
+      "prevActiveScore": 39.2
+    },
+    {
+      "id": "215219",
+      "name": "Kaja Juvan",
+      "rank": 128,
+      "prevRank": 111,
+      "country": "SLO",
+      "logo": "https://flagcdn.com/24x18/si.png",
+      "teamCode": "SLO",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 28.5,
+      "surface": {
+        "hard": 0.333,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "inactiveWeeks": 13,
+      "inactivePenalty": 15.0,
+      "prevListRank": 183,
+      "prevActiveScore": 43.8
+    },
+    {
+      "id": "213666",
+      "name": "Maddison Inglis",
+      "rank": 151,
+      "prevRank": 141,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 22.1,
+      "surface": {
+        "hard": 0.25,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 18,
+      "inactivePenalty": 15.0,
+      "prevListRank": 193,
+      "prevActiveScore": 41.2
+    },
+    {
+      "id": "223333",
+      "name": "Noma Noha Akugue",
+      "rank": 154,
+      "prevRank": 162,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
+      "prevListRank": 194,
+      "prevActiveScore": 41.0
+    },
+    {
+      "id": "211279",
+      "name": "Harriet Dart",
+      "rank": 160,
+      "prevRank": 171,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 20.6,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 44,
+      "inactivePenalty": 15.0,
+      "prevListRank": 162,
+      "prevActiveScore": 46.6
+    },
+    {
+      "id": "236955",
+      "name": "Tatiana Prozorova",
+      "rank": 172,
+      "prevRank": 177,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 30,
+      "inactivePenalty": 15.0,
+      "prevListRank": 175,
+      "prevActiveScore": 45.5
+    },
+    {
+      "id": "216097",
+      "name": "Elizabeth Mandlik",
+      "rank": 174,
+      "prevRank": 165,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 12.3,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "prevListRank": 181,
+      "prevActiveScore": 44.8
+    },
+    {
+      "id": "201551",
+      "name": "Arantxa Rus",
+      "rank": 178,
+      "prevRank": 154,
+      "country": "NED",
+      "logo": "https://flagcdn.com/24x18/nl.png",
+      "teamCode": "NED",
+      "primary": "#AE1C28",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 19.3,
+      "surface": {
+        "hard": 0.0,
+        "clay": 0.429,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "inactiveWeeks": 45,
+      "inactivePenalty": 15.0,
+      "prevListRank": 198,
+      "prevActiveScore": 36.2
+    },
+    {
+      "id": "267439",
+      "name": "Teodora Kostovic",
+      "rank": 182,
+      "prevRank": 187,
+      "country": "SRB",
+      "logo": "https://flagcdn.com/24x18/rs.png",
+      "teamCode": "SRB",
+      "primary": "#C6363C",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 16,
+      "inactivePenalty": 15.0,
+      "prevListRank": 163,
+      "prevActiveScore": 46.5
+    },
+    {
+      "id": "215992",
+      "name": "Whitney Osuigwe",
+      "rank": 183,
+      "prevRank": 195,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": 0.25,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 13,
+      "inactivePenalty": 15.0,
+      "prevListRank": 199,
+      "prevActiveScore": 35.8
+    },
+    {
+      "id": "220454",
+      "name": "Yeon Woo Ku",
+      "rank": 188,
+      "prevRank": 207,
+      "country": "KOR",
+      "logo": "https://flagcdn.com/24x18/kr.png",
+      "teamCode": "KOR",
+      "primary": "#003478",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 36,
+      "inactivePenalty": 15.0,
+      "prevListRank": 166,
+      "prevActiveScore": 46.4
+    },
+    {
+      "id": "215946",
+      "name": "Ye Xin Ma",
+      "rank": 189,
+      "prevRank": 183,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 30,
+      "inactivePenalty": 15.0,
+      "prevListRank": 164,
+      "prevActiveScore": 46.5
+    },
+    {
+      "id": "201621",
+      "name": "Mona Barthel",
+      "rank": 193,
+      "prevRank": 188,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 26.4,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 5
+      },
+      "inactiveWeeks": 16,
+      "inactivePenalty": 15.0,
+      "prevListRank": 182,
+      "prevActiveScore": 44.5
+    },
+    {
+      "id": "239436",
+      "name": "Kayla Cross",
+      "rank": 194,
+      "prevRank": 199,
+      "country": "CAN",
+      "logo": "https://flagcdn.com/24x18/ca.png",
+      "teamCode": "CAN",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 43,
+      "inactivePenalty": 15.0,
+      "prevListRank": 169,
+      "prevActiveScore": 46.3
+    },
+    {
+      "id": "260203",
+      "name": "Vendula Valdmannova",
+      "rank": 199,
+      "prevRank": 201,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 16,
+      "inactivePenalty": 15.0,
+      "prevListRank": 160,
+      "prevActiveScore": 46.7
+    },
+    {
+      "id": "215042",
+      "name": "Katie Swan",
+      "rank": 200,
+      "prevRank": 203,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 8.6,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 20,
+      "inactivePenalty": 15.0,
+      "prevListRank": 167,
+      "prevActiveScore": 46.4
     }
   ],
   "ATP_CHANGES": {
@@ -10967,217 +11225,9 @@ window.TENNIS_DATA = {
       }
     }
   ],
-  "ATP_RECENT": [
-    {
-      "name": "Roland Garros",
-      "level": "Grand Slam",
-      "surface": "Clay",
-      "matches": [
-        {
-          "round": "Cuartos",
-          "w": "Alexander Zverev",
-          "w_logo": "https://flagcdn.com/24x18/de.png",
-          "l": "Rafael Jodar",
-          "l_logo": "https://flagcdn.com/24x18/es.png",
-          "score": "7-6(3) 6-1 6-3",
-          "day": "ayer/hoy",
-          "w_score": 87.4,
-          "l_score": 78.0,
-          "match_score": 87.4
-        },
-        {
-          "round": "Final",
-          "w": "Alexander Zverev",
-          "w_logo": "https://flagcdn.com/24x18/de.png",
-          "l": "Flavio Cobolli",
-          "l_logo": "https://flagcdn.com/24x18/it.png",
-          "score": "6-1 4-6 6-4 6-7(5) 6-1",
-          "day": "ayer/hoy",
-          "w_score": 87.4,
-          "l_score": 75.4,
-          "match_score": 87.4
-        },
-        {
-          "round": "Octavos",
-          "w": "Alexander Zverev",
-          "w_logo": "https://flagcdn.com/24x18/de.png",
-          "l": "Jesper De Jong",
-          "l_logo": "https://flagcdn.com/24x18/nl.png",
-          "score": "7-6(3) 6-4 6-1",
-          "day": "ayer/hoy",
-          "w_score": 87.4,
-          "l_score": 55.3,
-          "match_score": 87.4
-        },
-        {
-          "round": "Semifinal",
-          "w": "Alexander Zverev",
-          "w_logo": "https://flagcdn.com/24x18/de.png",
-          "l": "Jakub Mensik",
-          "l_logo": "https://flagcdn.com/24x18/cz.png",
-          "score": "7-5 6-2 3-6 6-3",
-          "day": "ayer/hoy",
-          "w_score": 87.4,
-          "l_score": 76.1,
-          "match_score": 87.4
-        },
-        {
-          "round": "Octavos",
-          "w": "Joao Fonseca",
-          "w_logo": "https://flagcdn.com/24x18/br.png",
-          "l": "Casper Ruud",
-          "l_logo": "https://flagcdn.com/24x18/no.png",
-          "score": "7-5 7-6(8) 5-7 6-2",
-          "day": "ayer/hoy",
-          "w_score": 73.7,
-          "l_score": 81.1,
-          "match_score": 81.1
-        },
-        {
-          "round": "Octavos",
-          "w": "Rafael Jodar",
-          "w_logo": "https://flagcdn.com/24x18/es.png",
-          "l": "Pablo Carreno Busta",
-          "l_logo": "https://flagcdn.com/24x18/es.png",
-          "score": "4-6 4-6 6-1 6-2 6-2",
-          "day": "ayer/hoy",
-          "w_score": 78.0,
-          "l_score": 55.8,
-          "match_score": 78.0
-        },
-        {
-          "round": "Cuartos",
-          "w": "Flavio Cobolli",
-          "w_logo": "https://flagcdn.com/24x18/it.png",
-          "l": "Felix Auger Aliassime",
-          "l_logo": "https://flagcdn.com/24x18/ca.png",
-          "score": "4-6 6-4 6-4 6-4",
-          "day": "ayer/hoy",
-          "w_score": 75.4,
-          "l_score": 77.7,
-          "match_score": 77.7
-        },
-        {
-          "round": "Octavos",
-          "w": "Felix Auger Aliassime",
-          "w_logo": "https://flagcdn.com/24x18/ca.png",
-          "l": "Alejandro Tabilo",
-          "l_logo": "https://flagcdn.com/24x18/cl.png",
-          "score": "6-3 7-5 6-1",
-          "day": "ayer/hoy",
-          "w_score": 77.7,
-          "l_score": 66.4,
-          "match_score": 77.7
-        }
-      ]
-    }
-  ],
+  "ATP_RECENT": [],
   "ATP_TODAY": [],
-  "WTA_RECENT": [
-    {
-      "name": "Roland Garros",
-      "level": "Grand Slam",
-      "surface": "Clay",
-      "matches": [
-        {
-          "round": "Cuartos",
-          "w": "Diana Shnaider",
-          "w_logo": "https://flagcdn.com/24x18/ru.png",
-          "l": "Aryna Sabalenka",
-          "l_logo": "https://flagcdn.com/24x18/by.png",
-          "score": "3-6 7-5 6-0",
-          "day": "ayer/hoy",
-          "w_score": 76.3,
-          "l_score": 100.0,
-          "match_score": 100.0
-        },
-        {
-          "round": "Cuartos",
-          "w": "Mirra Andreeva",
-          "w_logo": "https://flagcdn.com/24x18/ru.png",
-          "l": "Sorana Cirstea",
-          "l_logo": "https://flagcdn.com/24x18/ro.png",
-          "score": "6-0 6-3",
-          "day": "ayer/hoy",
-          "w_score": 91.9,
-          "l_score": 85.9,
-          "match_score": 91.9
-        },
-        {
-          "round": "Final",
-          "w": "Mirra Andreeva",
-          "w_logo": "https://flagcdn.com/24x18/ru.png",
-          "l": "Maja Chwalinska",
-          "l_logo": "https://flagcdn.com/24x18/pl.png",
-          "score": "6-3 6-2",
-          "day": "ayer/hoy",
-          "w_score": 91.9,
-          "l_score": 81.1,
-          "match_score": 91.9
-        },
-        {
-          "round": "Octavos",
-          "w": "Mirra Andreeva",
-          "w_logo": "https://flagcdn.com/24x18/ru.png",
-          "l": "Jil Teichmann",
-          "l_logo": "https://flagcdn.com/24x18/ch.png",
-          "score": "6-3 6-2",
-          "day": "ayer/hoy",
-          "w_score": 91.9,
-          "l_score": 59.4,
-          "match_score": 91.9
-        },
-        {
-          "round": "Semifinal",
-          "w": "Mirra Andreeva",
-          "w_logo": "https://flagcdn.com/24x18/ru.png",
-          "l": "Marta Kostyuk",
-          "l_logo": "https://flagcdn.com/24x18/ua.png",
-          "score": "6-1 6-3",
-          "day": "ayer/hoy",
-          "w_score": 91.9,
-          "l_score": 90.5,
-          "match_score": 91.9
-        },
-        {
-          "round": "Octavos",
-          "w": "Marta Kostyuk",
-          "w_logo": "https://flagcdn.com/24x18/ua.png",
-          "l": "Iga Swiatek",
-          "l_logo": "https://flagcdn.com/24x18/pl.png",
-          "score": "7-5 6-1",
-          "day": "ayer/hoy",
-          "w_score": 90.5,
-          "l_score": 91.4,
-          "match_score": 91.4
-        },
-        {
-          "round": "Cuartos",
-          "w": "Marta Kostyuk",
-          "w_logo": "https://flagcdn.com/24x18/ua.png",
-          "l": "Elina Svitolina",
-          "l_logo": "https://flagcdn.com/24x18/ua.png",
-          "score": "6-3 2-6 6-2",
-          "day": "ayer/hoy",
-          "w_score": 90.5,
-          "l_score": 90.5,
-          "match_score": 90.5
-        },
-        {
-          "round": "Octavos",
-          "w": "Elina Svitolina",
-          "w_logo": "https://flagcdn.com/24x18/ua.png",
-          "l": "Belinda Bencic",
-          "l_logo": "https://flagcdn.com/24x18/ch.png",
-          "score": "4-6 6-4 6-0",
-          "day": "ayer/hoy",
-          "w_score": 90.5,
-          "l_score": 84.9,
-          "match_score": 90.5
-        }
-      ]
-    }
-  ],
+  "WTA_RECENT": [],
   "WTA_TODAY": [],
   "ATP_TOURNAMENT": {},
   "WTA_TOURNAMENT": {},

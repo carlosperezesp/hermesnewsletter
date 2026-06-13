@@ -21,7 +21,7 @@ function getAlivePlayoffTeams(bracket) {
   return alive;
 }
 
-function NewsletterRankRow({ rank, item, alive, aliveKey = "teamCode", forceOut = false, score, scoreDisplay, scoreLabel, meta, note, threshold, logo, scoreB, scoreBDisplay, scoreBLabel, scoreBThreshold, prevRank, rowClassName = "", legendActive = false }) {
+function NewsletterRankRow({ rank, item, alive, aliveKey = "teamCode", forceOut = false, score, scoreDisplay, scoreLabel, scoreDelta, meta, note, threshold, logo, scoreB, scoreBDisplay, scoreBLabel, scoreBThreshold, prevRank, rowClassName = "", legendActive = false }) {
   const aliveValue = item?.[aliveKey];
   const isAlive = !forceOut && (alive.size === 0 || alive.has(aliveValue));
   const displayed = scoreDisplay !== undefined ? scoreDisplay : score;
@@ -59,6 +59,20 @@ function NewsletterRankRow({ rank, item, alive, aliveKey = "teamCode", forceOut 
     );
   }
 
+  // Chip de variación de score respecto a la semana pasada (verde sube / rojo baja).
+  let deltaChip = null;
+  if (typeof scoreDelta === "number" && Math.abs(scoreDelta) >= 0.1) {
+    const up = scoreDelta > 0;
+    deltaChip = (
+      <span style={{ display:"inline-flex", alignItems:"center", gap:1,
+        fontSize: 9, fontWeight: 700, lineHeight: 1, color: "#fff",
+        background: up ? "#2a7a2a" : "#a02020", borderRadius: 3, padding: "2px 4px",
+        fontFamily: "monospace" }}>
+        {up ? "▲" : "▼"}{Math.abs(scoreDelta).toFixed(1)}
+      </span>
+    );
+  }
+
   return (
     <div className={`newsletter-row ${scoreB !== undefined ? "newsletter-row--dual-score" : ""} ${!isAlive ? "newsletter-row--out" : ""} ${legendActive && isAlive ? "newsletter-row--legend-active" : ""} ${rowClassName}`}>
       <span className="newsletter-row__rank" style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 1 }}>
@@ -78,9 +92,13 @@ function NewsletterRankRow({ rank, item, alive, aliveKey = "teamCode", forceOut 
           <span className="newsletter-row__threshold">
             <ThresholdBar value={score} threshold={threshold} width={124} />
             <span className="newsletter-row__score-value">{displayed}</span>
+            {deltaChip}
           </span>
         ) : (
-          <span className="newsletter-row__score-value">{displayed}</span>
+          <span style={{ display: "inline-flex", alignItems: "baseline", gap: 5 }}>
+            <span className="newsletter-row__score-value">{displayed}</span>
+            {deltaChip}
+          </span>
         )}
       </span>
       {scoreB !== undefined && (
@@ -428,6 +446,16 @@ function NewsletterApp() {
     if (!st?.tournament) return "";
     if (st.state === "alive") return `${st.tournament}: vivo${st.round ? ` · ${st.round}` : ""}`;
     return st.reason || `${st.tournament}: eliminado/no compite`;
+  }
+  // Nota cuando el Nivel baja por inactividad (semanas sin competir).
+  function tennisInactiveNote(player) {
+    if (!player.inactiveWeeks || !player.inactivePenalty) return "";
+    return `Inactivo ~${player.inactiveWeeks} sem · −${player.inactivePenalty} Nivel`;
+  }
+  // Variación de Nivel respecto a la semana pasada, redondeada a 1 decimal.
+  function tennisScoreDelta(player) {
+    if (player.prevActiveScore == null || player.activeScore == null) return undefined;
+    return Math.round((player.activeScore - player.prevActiveScore) * 10) / 10;
   }
 
   // Convierte el delta del ranking oficial ATP/WTA en un prevRank relativo a la posición
@@ -1612,11 +1640,12 @@ function NewsletterApp() {
                       forceOut={player.tournamentStatus?.state && player.tournamentStatus.state !== "alive"}
                       score={player.activeScore}
                       scoreLabel="Nivel"
+                      scoreDelta={tennisScoreDelta(player)}
                       scoreB={tennisHistoricalLegendScore(player, atpLegendScoreByName, atpLegendMaxRaw)}
                       scoreBLabel="Leyenda"
                       scoreBThreshold={atpLegendThreshold}
                       meta={tennisPlayerMeta(player, "ATP")}
-                      note={[tennisTournamentNote(player), tennisLegendChaseNote(player, atpLegendScoreByName, atpLegendRawByName, atpLegendMaxRaw, atpLegendThreshold, atpLegendThresholdRaw)].filter(Boolean).join(" · ")}
+                      note={[tennisTournamentNote(player), tennisInactiveNote(player), tennisLegendChaseNote(player, atpLegendScoreByName, atpLegendRawByName, atpLegendMaxRaw, atpLegendThreshold, atpLegendThresholdRaw)].filter(Boolean).join(" · ")}
                       logo={player.logo}
                     />
                   ))}
@@ -1668,11 +1697,12 @@ function NewsletterApp() {
                       forceOut={player.tournamentStatus?.state && player.tournamentStatus.state !== "alive"}
                       score={player.activeScore}
                       scoreLabel="Nivel"
+                      scoreDelta={tennisScoreDelta(player)}
                       scoreB={tennisHistoricalLegendScore(player, wtaLegendScoreByName, wtaLegendMaxRaw)}
                       scoreBLabel="Leyenda"
                       scoreBThreshold={wtaLegendThreshold}
                       meta={tennisPlayerMeta(player, "WTA")}
-                      note={[tennisTournamentNote(player), tennisLegendChaseNote(player, wtaLegendScoreByName, wtaLegendRawByName, wtaLegendMaxRaw, wtaLegendThreshold, wtaLegendThresholdRaw)].filter(Boolean).join(" · ")}
+                      note={[tennisTournamentNote(player), tennisInactiveNote(player), tennisLegendChaseNote(player, wtaLegendScoreByName, wtaLegendRawByName, wtaLegendMaxRaw, wtaLegendThreshold, wtaLegendThresholdRaw)].filter(Boolean).join(" · ")}
                       logo={player.logo}
                     />
                   ))}
