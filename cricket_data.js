@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-06-11 16:42 UTC",
+  "UPDATED": "2026-06-12 10:45 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1519,
+    "matches": 1513,
     "archives": [
       {
         "name": "Tests",
@@ -13,11 +13,11 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 150
+        "matches": 149
       },
       {
         "name": "T20Is",
-        "matches": 856
+        "matches": 851
       },
       {
         "name": "IPL",
@@ -185,16 +185,16 @@ window.CRICKET_DATA = {
       "id": "jnt-seales",
       "name": "JNT Seales",
       "role": "Bowler",
-      "score": 87.8,
-      "legendScore": 68.1,
+      "score": 85.6,
+      "legendScore": 66.8,
       "stats": {
         "test": 74.6,
-        "odi": 97.2,
-        "t20": 94.1,
-        "franchise": 88.9,
+        "odi": 93.8,
+        "t20": 90.8,
+        "franchise": 86.0,
         "runs": 253,
-        "wickets": 109,
-        "matches": 52
+        "wickets": 105,
+        "matches": 51
       },
       "country": "West Indies",
       "teamCode": "WI",
@@ -254,16 +254,16 @@ window.CRICKET_DATA = {
       "id": "mehedi-hasan-miraz",
       "name": "Mehedi Hasan Miraz",
       "role": "All-rounder",
-      "score": 82.5,
-      "legendScore": 63.8,
+      "score": 82.8,
+      "legendScore": 63.9,
       "stats": {
         "test": 86.3,
-        "odi": 83.5,
-        "t20": 80.4,
-        "franchise": 71.4,
-        "runs": 1119,
+        "odi": 84.3,
+        "t20": 81.0,
+        "franchise": 71.9,
+        "runs": 1118,
         "wickets": 73,
-        "matches": 39
+        "matches": 38
       },
       "country": "Bangladesh",
       "teamCode": "BAN",
@@ -449,15 +449,15 @@ window.CRICKET_DATA = {
         "name": "Mehedi Hasan Miraz",
         "role": "All-rounder",
         "score": 86.3,
-        "legendScore": 63.8,
+        "legendScore": 63.9,
         "stats": {
           "test": 86.3,
-          "odi": 83.5,
-          "t20": 80.4,
-          "franchise": 71.4,
-          "runs": 1119,
+          "odi": 84.3,
+          "t20": 81.0,
+          "franchise": 71.9,
+          "runs": 1118,
           "wickets": 73,
-          "matches": 39
+          "matches": 38
         },
         "country": "Bangladesh",
         "teamCode": "BAN",
@@ -591,30 +591,6 @@ window.CRICKET_DATA = {
         "formatScore": 97.3
       },
       {
-        "id": "jnt-seales",
-        "name": "JNT Seales",
-        "role": "Bowler",
-        "score": 97.2,
-        "legendScore": 68.1,
-        "stats": {
-          "test": 74.6,
-          "odi": 97.2,
-          "t20": 94.1,
-          "franchise": 88.9,
-          "runs": 253,
-          "wickets": 109,
-          "matches": 52
-        },
-        "country": "West Indies",
-        "teamCode": "WI",
-        "colors": {
-          "primary": "#7a263a",
-          "secondary": "#f6c344"
-        },
-        "logo": "",
-        "formatScore": 97.2
-      },
-      {
         "id": "taijul-islam",
         "name": "Taijul Islam",
         "role": "Bowler",
@@ -637,6 +613,30 @@ window.CRICKET_DATA = {
         },
         "logo": "https://flagcdn.com/24x18/bd.png",
         "formatScore": 94.8
+      },
+      {
+        "id": "jnt-seales",
+        "name": "JNT Seales",
+        "role": "Bowler",
+        "score": 93.8,
+        "legendScore": 66.8,
+        "stats": {
+          "test": 74.6,
+          "odi": 93.8,
+          "t20": 90.8,
+          "franchise": 86.0,
+          "runs": 253,
+          "wickets": 105,
+          "matches": 51
+        },
+        "country": "West Indies",
+        "teamCode": "WI",
+        "colors": {
+          "primary": "#7a263a",
+          "secondary": "#f6c344"
+        },
+        "logo": "",
+        "formatScore": 93.8
       },
       {
         "id": "jj-bumrah",
@@ -833,30 +833,6 @@ window.CRICKET_DATA = {
         "formatScore": 94.1
       },
       {
-        "id": "jnt-seales",
-        "name": "JNT Seales",
-        "role": "Bowler",
-        "score": 94.1,
-        "legendScore": 68.1,
-        "stats": {
-          "test": 74.6,
-          "odi": 97.2,
-          "t20": 94.1,
-          "franchise": 88.9,
-          "runs": 253,
-          "wickets": 109,
-          "matches": 52
-        },
-        "country": "West Indies",
-        "teamCode": "WI",
-        "colors": {
-          "primary": "#7a263a",
-          "secondary": "#f6c344"
-        },
-        "logo": "",
-        "formatScore": 94.1
-      },
-      {
         "id": "ma-starc",
         "name": "MA Starc",
         "role": "Bowler",
@@ -927,6 +903,30 @@ window.CRICKET_DATA = {
         },
         "logo": "https://flagcdn.com/24x18/za.png",
         "formatScore": 92.3
+      },
+      {
+        "id": "jnt-seales",
+        "name": "JNT Seales",
+        "role": "Bowler",
+        "score": 90.8,
+        "legendScore": 66.8,
+        "stats": {
+          "test": 74.6,
+          "odi": 93.8,
+          "t20": 90.8,
+          "franchise": 86.0,
+          "runs": 253,
+          "wickets": 105,
+          "matches": 51
+        },
+        "country": "West Indies",
+        "teamCode": "WI",
+        "colors": {
+          "primary": "#7a263a",
+          "secondary": "#f6c344"
+        },
+        "logo": "",
+        "formatScore": 90.8
       },
       {
         "id": "ja-duffy",
@@ -1054,16 +1054,16 @@ window.CRICKET_DATA = {
         "id": "shaheen-shah-afridi",
         "name": "Shaheen Shah Afridi",
         "role": "Bowler",
-        "score": 93.7,
-        "legendScore": 55.5,
+        "score": 91.5,
+        "legendScore": 54.9,
         "stats": {
           "test": 33.2,
           "odi": 54.3,
-          "t20": 78.4,
-          "franchise": 93.7,
-          "runs": 455,
-          "wickets": 120,
-          "matches": 80
+          "t20": 76.0,
+          "franchise": 91.5,
+          "runs": 446,
+          "wickets": 117,
+          "matches": 79
         },
         "country": "Pakistan",
         "teamCode": "PAK",
@@ -1072,7 +1072,7 @@ window.CRICKET_DATA = {
           "secondary": "#ffffff"
         },
         "logo": "https://flagcdn.com/24x18/pk.png",
-        "formatScore": 93.7
+        "formatScore": 91.5
       },
       {
         "id": "jo-holder",
@@ -1097,30 +1097,6 @@ window.CRICKET_DATA = {
         },
         "logo": "",
         "formatScore": 90.5
-      },
-      {
-        "id": "jnt-seales",
-        "name": "JNT Seales",
-        "role": "Bowler",
-        "score": 88.9,
-        "legendScore": 68.1,
-        "stats": {
-          "test": 74.6,
-          "odi": 97.2,
-          "t20": 94.1,
-          "franchise": 88.9,
-          "runs": 253,
-          "wickets": 109,
-          "matches": 52
-        },
-        "country": "West Indies",
-        "teamCode": "WI",
-        "colors": {
-          "primary": "#7a263a",
-          "secondary": "#f6c344"
-        },
-        "logo": "",
-        "formatScore": 88.9
       },
       {
         "id": "mj-henry",
@@ -1150,16 +1126,16 @@ window.CRICKET_DATA = {
         "id": "haris-rauf",
         "name": "Haris Rauf",
         "role": "Bowler",
-        "score": 87.1,
+        "score": 87.2,
         "legendScore": 42.3,
         "stats": {
           "test": 0.0,
           "odi": 32.9,
-          "t20": 44.9,
-          "franchise": 87.1,
-          "runs": 164,
+          "t20": 45.1,
+          "franchise": 87.2,
+          "runs": 162,
           "wickets": 114,
-          "matches": 81
+          "matches": 80
         },
         "country": "Pakistan",
         "teamCode": "PAK",
@@ -1168,7 +1144,7 @@ window.CRICKET_DATA = {
           "secondary": "#ffffff"
         },
         "logo": "https://flagcdn.com/24x18/pk.png",
-        "formatScore": 87.1
+        "formatScore": 87.2
       },
       {
         "id": "m-jansen",
@@ -1193,6 +1169,30 @@ window.CRICKET_DATA = {
         },
         "logo": "https://flagcdn.com/24x18/za.png",
         "formatScore": 86.5
+      },
+      {
+        "id": "jnt-seales",
+        "name": "JNT Seales",
+        "role": "Bowler",
+        "score": 86.0,
+        "legendScore": 66.8,
+        "stats": {
+          "test": 74.6,
+          "odi": 93.8,
+          "t20": 90.8,
+          "franchise": 86.0,
+          "runs": 253,
+          "wickets": 105,
+          "matches": 51
+        },
+        "country": "West Indies",
+        "teamCode": "WI",
+        "colors": {
+          "primary": "#7a263a",
+          "secondary": "#f6c344"
+        },
+        "logo": "",
+        "formatScore": 86.0
       },
       {
         "id": "ja-duffy",
@@ -1937,29 +1937,6 @@ window.CRICKET_DATA = {
         "logo": "https://flagcdn.com/24x18/gb-eng.png"
       },
       {
-        "id": "jnt-seales",
-        "name": "JNT Seales",
-        "role": "Bowler",
-        "score": 87.8,
-        "legendScore": 68.1,
-        "stats": {
-          "test": 74.6,
-          "odi": 97.2,
-          "t20": 94.1,
-          "franchise": 88.9,
-          "runs": 253,
-          "wickets": 109,
-          "matches": 52
-        },
-        "country": "West Indies",
-        "teamCode": "WI",
-        "colors": {
-          "primary": "#7a263a",
-          "secondary": "#f6c344"
-        },
-        "logo": ""
-      },
-      {
         "id": "ka-maharaj",
         "name": "KA Maharaj",
         "role": "Bowler",
@@ -2006,6 +1983,29 @@ window.CRICKET_DATA = {
         "logo": "https://flagcdn.com/24x18/in.png"
       },
       {
+        "id": "jnt-seales",
+        "name": "JNT Seales",
+        "role": "Bowler",
+        "score": 85.6,
+        "legendScore": 66.8,
+        "stats": {
+          "test": 74.6,
+          "odi": 93.8,
+          "t20": 90.8,
+          "franchise": 86.0,
+          "runs": 253,
+          "wickets": 105,
+          "matches": 51
+        },
+        "country": "West Indies",
+        "teamCode": "WI",
+        "colors": {
+          "primary": "#7a263a",
+          "secondary": "#f6c344"
+        },
+        "logo": ""
+      },
+      {
         "id": "mj-henry",
         "name": "MJ Henry",
         "role": "Bowler",
@@ -2032,16 +2032,16 @@ window.CRICKET_DATA = {
         "id": "mehedi-hasan-miraz",
         "name": "Mehedi Hasan Miraz",
         "role": "All-rounder",
-        "score": 82.5,
-        "legendScore": 63.8,
+        "score": 82.8,
+        "legendScore": 63.9,
         "stats": {
           "test": 86.3,
-          "odi": 83.5,
-          "t20": 80.4,
-          "franchise": 71.4,
-          "runs": 1119,
+          "odi": 84.3,
+          "t20": 81.0,
+          "franchise": 71.9,
+          "runs": 1118,
           "wickets": 73,
-          "matches": 39
+          "matches": 38
         },
         "country": "Bangladesh",
         "teamCode": "BAN",
