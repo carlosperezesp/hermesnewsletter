@@ -28,4 +28,10 @@ if [ -f "$SCRIPT_DIR/send_newsletter.py" ] && [ -n "$GMAIL_APP_PASSWORD" ]; then
   echo "send_newsletter.py exit: $?" >> "$LOG"
 fi
 
+# 4. Send Glory digest (lee .env por su cuenta; solo envía si hay hechos nuevos)
+if [ -f "$SCRIPT_DIR/send_glory_email.py" ]; then
+  "$PROJECT_DIR/.venv/bin/python" "$SCRIPT_DIR/send_glory_email.py" >> "$LOG" 2>&1
+  echo "send_glory_email.py exit: $?" >> "$LOG"
+fi
+
 echo "Done." >> "$LOG"

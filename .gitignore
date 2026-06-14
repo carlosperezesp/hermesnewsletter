@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 nhl-tracker-update.log
 .env
+scripts/.glory_sent.json
 .afl_cache/
 .f1_cache/
 .indycar_cache/
