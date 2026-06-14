@@ -366,6 +366,117 @@ def _nfl_importance(status: str, bracket: dict) -> float:
     return 8.0  # Regular season
 
 
+# ── Panteón QB all-time (es leyenda) ─────────────────────────────────────────
+# La NFL en Hermes es una liga de QBs: el top histórico son mariscales de campo.
+STATIC_HISTORY_PLAYERS = [
+    {"rank": 1,  "name": "Tom Brady",       "pos": "QB", "teamCode": "NE",  "era": "2000-22",      "score": 100.0, "note": "7 Super Bowls · 5 SB MVP · GOAT indiscutible"},
+    {"rank": 2,  "name": "Peyton Manning",  "pos": "QB", "teamCode": "IND", "era": "1998-15",      "score": 96.0,  "note": "5 MVP · 2 Super Bowls · cerebro ofensivo"},
+    {"rank": 3,  "name": "Joe Montana",     "pos": "QB", "teamCode": "SF",  "era": "1979-94",      "score": 94.0,  "note": "4 Super Bowls · 3 SB MVP · 'Joe Cool'"},
+    {"rank": 4,  "name": "Patrick Mahomes", "pos": "QB", "teamCode": "KC",  "era": "2017-present", "score": 93.0,  "note": "3 Super Bowls · 2 MVP · leyenda en construcción"},
+    {"rank": 5,  "name": "Johnny Unitas",   "pos": "QB", "teamCode": "BAL", "era": "1956-73",      "score": 92.5,  "note": "3 títulos · pionero del juego aéreo moderno"},
+    {"rank": 6,  "name": "Brett Favre",     "pos": "QB", "teamCode": "GB",  "era": "1991-10",      "score": 92.0,  "note": "3 MVP · Super Bowl XXXI · récord de durabilidad"},
+    {"rank": 7,  "name": "Aaron Rodgers",   "pos": "QB", "teamCode": "GB",  "era": "2005-present", "score": 91.5,  "note": "4 MVP · Super Bowl XLV · precisión histórica"},
+    {"rank": 8,  "name": "Drew Brees",      "pos": "QB", "teamCode": "NO",  "era": "2001-20",      "score": 91.0,  "note": "Super Bowl XLIV · récords de yardas y completados"},
+    {"rank": 9,  "name": "John Elway",      "pos": "QB", "teamCode": "DEN", "era": "1983-98",      "score": 90.5,  "note": "2 Super Bowls · 'The Drive' · brazo legendario"},
+    {"rank": 10, "name": "Dan Marino",      "pos": "QB", "teamCode": "MIA", "era": "1983-99",      "score": 90.0,  "note": "MVP · récords de pase de su era (sin anillo)"},
+]
+
+# Anillos de Super Bowl de QBs en activo — bonus para el Camino a la Gloria.
+PLAYER_RINGS = {
+    "Patrick Mahomes": 3, "Matthew Stafford": 1, "Jalen Hurts": 1, "Aaron Rodgers": 1,
+}
+
+# QBs en activo que siempre se siguen en el Camino a la Gloria.
+ROAD_TO_GLORY_STARS = {
+    "Patrick Mahomes", "Josh Allen", "Joe Burrow", "Justin Herbert", "Lamar Jackson",
+    "Jalen Hurts", "Jayden Daniels", "C.J. Stroud", "Brock Purdy", "Caleb Williams",
+}
+
+NFL_CURRENT_TO_ALLTIME = 0.86
+
+
+def _nfl_career_score(name: str, current_score: int, age: "int | None") -> float:
+    seasons = max(1, (age or 27) - 21)
+    rings = PLAYER_RINGS.get(name, 0)
+    est = current_score * NFL_CURRENT_TO_ALLTIME
+    top3 = min(100.0, est * 1.06)
+    length_bonus = min(1.0, seasons / 13) * 16.0
+    rings_bonus = rings * 4.5
+    return round(min(100.0, top3 * 0.55 + est * 0.20 + length_bonus + rings_bonus), 1)
+
+
+def _nfl_prospect_score(current_score: int, age: int) -> float:
+    est = current_score * NFL_CURRENT_TO_ALLTIME
+    peak = 1.08 if age <= 23 else 1.04 if age <= 25 else 1.0
+    top3 = min(100.0, est * peak)
+    seasons_total = max(1, (age - 21) + max(0, 38 - age))
+    length_bonus = min(1.0, seasons_total / 13) * 16.0
+    ring_proj = 7.0 if age <= 24 else 4.0
+    return round(min(97.0, top3 * 0.55 + est * 0.20 + length_bonus + ring_proj), 1)
+
+
+def _nfl_player_note(gap: float) -> str:
+    if gap <= 6:
+        return "Un anillo + temporada elite y entra al panteón"
+    if gap <= 13:
+        return "1–2 temporadas elite + un Super Bowl"
+    if gap <= 22:
+        return "2–3 años de pico + varios anillos"
+    return "Largo camino: años elite y títulos por delante"
+
+
+def _nfl_prospect_note(age: int, score: int) -> str:
+    if age <= 23 and score >= 85:
+        return "Arranque histórico — techo de leyenda"
+    if age <= 24 and score >= 80:
+        return "Inicio elite — techo altísimo"
+    if age <= 26 and score >= 78:
+        return "De los mejores de su generación"
+    if score >= 78:
+        return "Forma elite — falta sostener pico y anillos"
+    return "Joven con pedigrí — salto a elite pendiente"
+
+
+def build_road_to_glory_nfl(players: list[dict]) -> dict:
+    threshold = float(STATIC_HISTORY_PLAYERS[-1]["score"])  # Marino 90.0
+    legend_names = {p["name"] for p in STATIC_HISTORY_PLAYERS}
+    top_ids = {p["id"] for p in sorted(players, key=lambda p: -p["score"])[:24]}
+    star_names = {p["name"] for p in players if p["name"] in ROAD_TO_GLORY_STARS}
+
+    chase = []
+    for p in players:
+        if p["id"] not in top_ids and p["name"] not in star_names:
+            continue
+        if p["name"] in legend_names:
+            continue
+        cs = _nfl_career_score(p["name"], p["score"], p.get("age"))
+        gap = round(max(0.0, threshold - cs), 1)
+        chase.append({
+            "id": p["id"], "name": p["name"], "pos": p["pos"], "teamCode": p["teamCode"],
+            "colors": p["colors"], "age": p.get("age"), "careerScore": cs,
+            "threshold": threshold, "gap": gap, "rings": PLAYER_RINGS.get(p["name"], 0),
+            "note": _nfl_player_note(gap), "prevRank": None,
+        })
+    chase.sort(key=lambda x: x["careerScore"], reverse=True)
+
+    young = []
+    for p in players:
+        age = p.get("age")
+        if not age or age > 25 or p["score"] < 50 or p["name"] in legend_names:
+            continue
+        proj = _nfl_prospect_score(p["score"], age)
+        young.append({
+            "id": p["id"], "name": p["name"], "pos": p["pos"], "teamCode": p["teamCode"],
+            "colors": p["colors"], "age": age, "currentScore": p["score"],
+            "projectedScore": proj, "threshold": threshold,
+            "gap": round(max(0.0, threshold - proj), 1),
+            "note": _nfl_prospect_note(age, p["score"]), "prevRank": None,
+        })
+    young.sort(key=lambda x: x["projectedScore"], reverse=True)
+
+    return {"playerThreshold": threshold, "players": chase[:10], "youngProspects": young[:10]}
+
+
 def write_data(output: Path) -> None:
     prev_players = _prev_rank_map(output, "NFL_DATA", "PLAYERS")
 
@@ -394,10 +505,14 @@ def write_data(output: Path) -> None:
     for p in sorted(players, key=lambda x: x["score"], reverse=True)[:10]:
         p["prevRank"] = prev_players.get(str(p.get("id") or p.get("name", "")))
 
+    road_to_glory = build_road_to_glory_nfl(players)
+
     payload = {
         "TEAMS":         teams,
         "PLAYERS":       players,
         "BRACKET":       bracket,
+        "HISTORY_PLAYERS": STATIC_HISTORY_PLAYERS,
+        "ROAD_TO_GLORY": road_to_glory,
         "DIVISIONS":     list(NFL_DIVISIONS.keys()),
         "SEASON":        str(season_year),
         "SEASON_STATUS": status,

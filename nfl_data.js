@@ -2021,6 +2021,377 @@ window.NFL_DATA = {
       }
     ]
   },
+  "HISTORY_PLAYERS": [
+    {
+      "rank": 1,
+      "name": "Tom Brady",
+      "pos": "QB",
+      "teamCode": "NE",
+      "era": "2000-22",
+      "score": 100.0,
+      "note": "7 Super Bowls · 5 SB MVP · GOAT indiscutible"
+    },
+    {
+      "rank": 2,
+      "name": "Peyton Manning",
+      "pos": "QB",
+      "teamCode": "IND",
+      "era": "1998-15",
+      "score": 96.0,
+      "note": "5 MVP · 2 Super Bowls · cerebro ofensivo"
+    },
+    {
+      "rank": 3,
+      "name": "Joe Montana",
+      "pos": "QB",
+      "teamCode": "SF",
+      "era": "1979-94",
+      "score": 94.0,
+      "note": "4 Super Bowls · 3 SB MVP · 'Joe Cool'"
+    },
+    {
+      "rank": 4,
+      "name": "Patrick Mahomes",
+      "pos": "QB",
+      "teamCode": "KC",
+      "era": "2017-present",
+      "score": 93.0,
+      "note": "3 Super Bowls · 2 MVP · leyenda en construcción"
+    },
+    {
+      "rank": 5,
+      "name": "Johnny Unitas",
+      "pos": "QB",
+      "teamCode": "BAL",
+      "era": "1956-73",
+      "score": 92.5,
+      "note": "3 títulos · pionero del juego aéreo moderno"
+    },
+    {
+      "rank": 6,
+      "name": "Brett Favre",
+      "pos": "QB",
+      "teamCode": "GB",
+      "era": "1991-10",
+      "score": 92.0,
+      "note": "3 MVP · Super Bowl XXXI · récord de durabilidad"
+    },
+    {
+      "rank": 7,
+      "name": "Aaron Rodgers",
+      "pos": "QB",
+      "teamCode": "GB",
+      "era": "2005-present",
+      "score": 91.5,
+      "note": "4 MVP · Super Bowl XLV · precisión histórica"
+    },
+    {
+      "rank": 8,
+      "name": "Drew Brees",
+      "pos": "QB",
+      "teamCode": "NO",
+      "era": "2001-20",
+      "score": 91.0,
+      "note": "Super Bowl XLIV · récords de yardas y completados"
+    },
+    {
+      "rank": 9,
+      "name": "John Elway",
+      "pos": "QB",
+      "teamCode": "DEN",
+      "era": "1983-98",
+      "score": 90.5,
+      "note": "2 Super Bowls · 'The Drive' · brazo legendario"
+    },
+    {
+      "rank": 10,
+      "name": "Dan Marino",
+      "pos": "QB",
+      "teamCode": "MIA",
+      "era": "1983-99",
+      "score": 90.0,
+      "note": "MVP · récords de pase de su era (sin anillo)"
+    }
+  ],
+  "ROAD_TO_GLORY": {
+    "playerThreshold": 90.0,
+    "players": [
+      {
+        "id": 12483,
+        "name": "Matthew Stafford",
+        "pos": "QB",
+        "teamCode": "LAR",
+        "colors": {
+          "primary": "#003594",
+          "secondary": "#ffd100"
+        },
+        "age": 38,
+        "careerScore": 87.8,
+        "threshold": 90.0,
+        "gap": 2.2,
+        "rings": 1,
+        "note": "Un anillo + temporada elite y entra al panteón",
+        "prevRank": null
+      },
+      {
+        "id": 3046779,
+        "name": "Jared Goff",
+        "pos": "QB",
+        "teamCode": "DET",
+        "colors": {
+          "primary": "#0076b6",
+          "secondary": "#b0b7bc"
+        },
+        "age": 31,
+        "careerScore": 72.2,
+        "threshold": 90.0,
+        "gap": 17.8,
+        "rings": 0,
+        "note": "2–3 años de pico + varios anillos",
+        "prevRank": null
+      },
+      {
+        "id": 2577417,
+        "name": "Dak Prescott",
+        "pos": "QB",
+        "teamCode": "DAL",
+        "colors": {
+          "primary": "#003594",
+          "secondary": "#869397"
+        },
+        "age": 32,
+        "careerScore": 70.1,
+        "threshold": 90.0,
+        "gap": 19.9,
+        "rings": 0,
+        "note": "2–3 años de pico + varios anillos",
+        "prevRank": null
+      },
+      {
+        "id": 2578570,
+        "name": "Jacoby Brissett",
+        "pos": "QB",
+        "teamCode": "ARI",
+        "colors": {
+          "primary": "#97233f",
+          "secondary": "#ffb612"
+        },
+        "age": 33,
+        "careerScore": 63.3,
+        "threshold": 90.0,
+        "gap": 26.7,
+        "rings": 0,
+        "note": "Largo camino: años elite y títulos por delante",
+        "prevRank": null
+      },
+      {
+        "id": 3052587,
+        "name": "Baker Mayfield",
+        "pos": "QB",
+        "teamCode": "TB",
+        "colors": {
+          "primary": "#d50a0a",
+          "secondary": "#ff7900"
+        },
+        "age": 31,
+        "careerScore": 62.1,
+        "threshold": 90.0,
+        "gap": 27.9,
+        "rings": 0,
+        "note": "Largo camino: años elite y títulos por delante",
+        "prevRank": null
+      },
+      {
+        "id": 4040715,
+        "name": "Jalen Hurts",
+        "pos": "QB",
+        "teamCode": "PHI",
+        "colors": {
+          "primary": "#004c54",
+          "secondary": "#a5acaf"
+        },
+        "age": 27,
+        "careerScore": 61.7,
+        "threshold": 90.0,
+        "gap": 28.3,
+        "rings": 1,
+        "note": "Largo camino: años elite y títulos por delante",
+        "prevRank": null
+      },
+      {
+        "id": 3918298,
+        "name": "Josh Allen",
+        "pos": "QB",
+        "teamCode": "BUF",
+        "colors": {
+          "primary": "#00338d",
+          "secondary": "#c60c30"
+        },
+        "age": 30,
+        "careerScore": 60.9,
+        "threshold": 90.0,
+        "gap": 29.1,
+        "rings": 0,
+        "note": "Largo camino: años elite y títulos por delante",
+        "prevRank": null
+      },
+      {
+        "id": 4431452,
+        "name": "Drake Maye",
+        "pos": "QB",
+        "teamCode": "NE",
+        "colors": {
+          "primary": "#002244",
+          "secondary": "#c60c30"
+        },
+        "age": 23,
+        "careerScore": 60.4,
+        "threshold": 90.0,
+        "gap": 29.6,
+        "rings": 0,
+        "note": "Largo camino: años elite y títulos por delante",
+        "prevRank": null
+      },
+      {
+        "id": 3912547,
+        "name": "Sam Darnold",
+        "pos": "QB",
+        "teamCode": "SEA",
+        "colors": {
+          "primary": "#002244",
+          "secondary": "#69be28"
+        },
+        "age": 29,
+        "careerScore": 59.7,
+        "threshold": 90.0,
+        "gap": 30.3,
+        "rings": 0,
+        "note": "Largo camino: años elite y títulos por delante",
+        "prevRank": null
+      },
+      {
+        "id": 4360310,
+        "name": "Trevor Lawrence",
+        "pos": "QB",
+        "teamCode": "JAX",
+        "colors": {
+          "primary": "#006778",
+          "secondary": "#9f792c"
+        },
+        "age": 26,
+        "careerScore": 58.7,
+        "threshold": 90.0,
+        "gap": 31.3,
+        "rings": 0,
+        "note": "Largo camino: años elite y títulos por delante",
+        "prevRank": null
+      }
+    ],
+    "youngProspects": [
+      {
+        "id": 4431452,
+        "name": "Drake Maye",
+        "pos": "QB",
+        "teamCode": "NE",
+        "colors": {
+          "primary": "#002244",
+          "secondary": "#c60c30"
+        },
+        "age": 23,
+        "currentScore": 86,
+        "projectedScore": 81.7,
+        "threshold": 90.0,
+        "gap": 8.3,
+        "note": "Arranque histórico — techo de leyenda",
+        "prevRank": null
+      },
+      {
+        "id": 4431611,
+        "name": "Caleb Williams",
+        "pos": "QB",
+        "teamCode": "CHI",
+        "colors": {
+          "primary": "#0b162a",
+          "secondary": "#c83803"
+        },
+        "age": 24,
+        "currentScore": 79,
+        "projectedScore": 75.4,
+        "threshold": 90.0,
+        "gap": 14.6,
+        "note": "De los mejores de su generación",
+        "prevRank": null
+      },
+      {
+        "id": 4685720,
+        "name": "Bryce Young",
+        "pos": "QB",
+        "teamCode": "CAR",
+        "colors": {
+          "primary": "#0085ca",
+          "secondary": "#101820"
+        },
+        "age": 24,
+        "currentScore": 67,
+        "projectedScore": 67.5,
+        "threshold": 90.0,
+        "gap": 22.5,
+        "note": "Joven con pedigrí — salto a elite pendiente",
+        "prevRank": null
+      },
+      {
+        "id": 4432577,
+        "name": "C.J. Stroud",
+        "pos": "QB",
+        "teamCode": "HOU",
+        "colors": {
+          "primary": "#03202f",
+          "secondary": "#a71930"
+        },
+        "age": 24,
+        "currentScore": 66,
+        "projectedScore": 66.8,
+        "threshold": 90.0,
+        "gap": 23.2,
+        "note": "Joven con pedigrí — salto a elite pendiente",
+        "prevRank": null
+      },
+      {
+        "id": 4688380,
+        "name": "Cam Ward",
+        "pos": "QB",
+        "teamCode": "TEN",
+        "colors": {
+          "primary": "#0c2340",
+          "secondary": "#4b92db"
+        },
+        "age": 24,
+        "currentScore": 64,
+        "projectedScore": 65.5,
+        "threshold": 90.0,
+        "gap": 24.5,
+        "note": "Joven con pedigrí — salto a elite pendiente",
+        "prevRank": null
+      },
+      {
+        "id": 4689114,
+        "name": "Jaxson Dart",
+        "pos": "QB",
+        "teamCode": "NYG",
+        "colors": {
+          "primary": "#0b2265",
+          "secondary": "#a71930"
+        },
+        "age": 23,
+        "currentScore": 60,
+        "projectedScore": 64.0,
+        "threshold": 90.0,
+        "gap": 26.0,
+        "note": "Joven con pedigrí — salto a elite pendiente",
+        "prevRank": null
+      }
+    ]
+  },
   "DIVISIONS": [
     "AFC East",
     "AFC North",
@@ -2034,7 +2405,7 @@ window.NFL_DATA = {
   "SEASON": "2025",
   "SEASON_STATUS": "offseason",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-06-14 21:39 UTC",
+  "LAST_UPDATE": "2026-06-14 21:55 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

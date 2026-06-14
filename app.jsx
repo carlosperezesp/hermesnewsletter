@@ -393,6 +393,10 @@ function NewsletterApp() {
   const nflAlive = useMemo(() => NFL ? getAlivePlayoffTeams({ ...NFL.BRACKET, east: NFL.BRACKET?.afc, west: NFL.BRACKET?.nfc, final: NFL.BRACKET?.sb }) : new Set(), [NFL]);
   const nflHasPlayoffs = useMemo(() => !!(NFL?.BRACKET?.sb?.[0]?.hi || NFL?.BRACKET?.afc?.conf?.[0]?.hi || NFL?.BRACKET?.nfc?.conf?.[0]?.hi), [NFL]);
   const nflTopQBs = useMemo(() => NFL ? [...NFL.PLAYERS].sort((a, b) => b.score - a.score).slice(0, 10) : [], [NFL]);
+  const nflHistoryPlayers = (NFL?.HISTORY_PLAYERS || []).slice(0, 10);
+  const nflRoadPlayers = (NFL?.ROAD_TO_GLORY?.players || []).slice(0, 10);
+  const nflYoungPlayers = (NFL?.ROAD_TO_GLORY?.youngProspects || []).slice(0, 10);
+  const nflPlayerThreshold = NFL?.ROAD_TO_GLORY?.playerThreshold || 0;
   const nflDivStandings = useMemo(() => {
     if (!NFL) return {};
     const map = {};
@@ -1694,6 +1698,80 @@ function NewsletterApp() {
                       scoreLabel="Score"
                       meta={nflPlayerMeta(player)}
                       note={nflPlayerNote(player)}
+                      logo={nflTeamLogo(player.teamCode)}
+                    />
+                  ))}
+                </div>
+              </NewsletterSection>
+            )}
+
+            {nflRoadPlayers.length > 0 && (
+              <NewsletterSection
+                kicker="Road to glory"
+                title="QBs camino del panteón"
+                sub={`Score de carrera proyectado. Umbral top 10 histórico: ${nflPlayerThreshold} (Dan Marino).`}
+              >
+                <div className="newsletter-list">
+                  {nflRoadPlayers.map((player, i) => (
+                    <NewsletterRankRow
+                      key={player.id}
+                      rank={i + 1}
+                      item={player}
+                      alive={nflAlive}
+                      score={player.careerScore}
+                      scoreLabel="Carrera"
+                      threshold={nflPlayerThreshold}
+                      meta={`${nflPlayerMeta(player)} · ${player.rings} anillo${player.rings !== 1 ? "s" : ""}`}
+                      note={player.note}
+                      logo={nflTeamLogo(player.teamCode)}
+                    />
+                  ))}
+                </div>
+              </NewsletterSection>
+            )}
+
+            {nflYoungPlayers.length > 0 && (
+              <NewsletterSection
+                kicker="Young road to glory"
+                title="Jóvenes promesa NFL"
+                sub="Proyección de carrera para QBs de 25 años o menos — quién ha empezado fuerte."
+              >
+                <div className="newsletter-list">
+                  {nflYoungPlayers.map((player, i) => (
+                    <NewsletterRankRow
+                      key={player.id}
+                      rank={i + 1}
+                      item={player}
+                      alive={nflAlive}
+                      score={player.projectedScore}
+                      scoreLabel="Proy."
+                      threshold={nflPlayerThreshold}
+                      meta={`${nflPlayerMeta(player)} · score actual ${player.currentScore}`}
+                      note={player.note}
+                      logo={nflTeamLogo(player.teamCode)}
+                    />
+                  ))}
+                </div>
+              </NewsletterSection>
+            )}
+
+            {nflHistoryPlayers.length > 0 && (
+              <NewsletterSection
+                kicker="NFL Legends"
+                title="Top 10 QBs de la historia"
+                sub="Panteón all-time de mariscales de campo."
+              >
+                <div className="newsletter-list">
+                  {nflHistoryPlayers.map((player, i) => (
+                    <NewsletterRankRow
+                      key={`${player.name}-${player.era}`}
+                      rank={i + 1}
+                      item={{ ...player, colors: player.colors || { primary: "#555", secondary: "#ccc" } }}
+                      alive={new Set()}
+                      score={player.score}
+                      scoreLabel="Histórico"
+                      meta={`NFL QB · ${player.teamCode} · ${player.era}`}
+                      note={player.note}
                       logo={nflTeamLogo(player.teamCode)}
                     />
                   ))}
