@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-14 07:04 UTC",
+  "UPDATED": "2026-06-14 07:53 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Michigan:Denny Hamlin",
@@ -43,5 +43,36 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-14"
     }
   ],
-  "REPORTS": []
+  "REPORTS": [
+    {
+      "id": "cycling:gc:Giro d'Italia:Jonas Vingegaard",
+      "sport": "cycling",
+      "competition": "Ciclismo",
+      "champion": "Jonas Vingegaard gana el Giro d'Italia",
+      "scopeLabel": "General final",
+      "top5": [
+        {
+          "name": "Jonas Vingegaard",
+          "sub": "TVL men"
+        },
+        {
+          "name": "Felix Gall",
+          "sub": "DCT"
+        },
+        {
+          "name": "Jai Hindley",
+          "sub": "RBH"
+        },
+        {
+          "name": "Thymen Arensman",
+          "sub": "NCI"
+        },
+        {
+          "name": "Derek Gee-West",
+          "sub": "LTK men"
+        }
+      ],
+      "firstSeen": "2026-06-14"
+    }
+  ]
 };

@@ -32,6 +32,8 @@ SOURCES = {
     "sumo": ("sumo_data.js", "Sumo"),
     "nascar": ("nascar_data.js", "NASCAR"),
     "motogp": ("motogp_data.js", "MotoGP"),
+    "f1": ("f1_data.js", "F1"),
+    "indycar": ("indycar_data.js", "IndyCar"),
 }
 
 
@@ -90,6 +92,16 @@ def _events_for(sid: str, label: str, d: dict) -> list[dict]:
         lr = d.get("LAST_RACE") or {}
         if lr.get("winner"):
             add(f"nascar:win:{lr.get('name')}:{lr['winner']}", f"{lr['winner']} ganó en {lr.get('circuit') or lr.get('name', '')}", 100)
+    elif sid == "indycar":
+        lr = d.get("LAST_RACE") or {}
+        winner = lr.get("winner") or ((lr.get("podium") or [{}])[0].get("name"))
+        if winner:
+            add(f"indycar:win:{lr.get('name')}:{winner}", f"{winner} ganó en {lr.get('circuit') or lr.get('name', '')}", 100)
+    elif sid == "f1":
+        lr = d.get("LAST_RACE") or {}
+        pod = lr.get("podium") or []
+        if pod and pod[0].get("name"):
+            add(f"f1:win:{lr.get('name')}:{pod[0]['name']}", f"{pod[0]['name']} ganó el {lr.get('name', 'último GP')}", 100)
     elif sid == "cycling":
         cr = d.get("CURRENT_RACE") or {}
         ls = cr.get("last_stage") or {}
@@ -143,6 +155,17 @@ def _report_for(sid: str, label: str, d: dict) -> dict | None:
             "sport": "mlb", "competition": label,
             "champion": f"{_team_name(d, ws['winner'])} gana las World Series",
             "scopeLabel": "Top 5 de la temporada", "top5": top5,
+        }
+    if sid == "cycling":
+        cr = d.get("CURRENT_RACE") or {}
+        if not cr.get("finished") or not cr.get("gc_winner"):
+            return None
+        top5 = [{"name": r.get("name"), "sub": r.get("team")} for r in cr.get("gc", [])[:5]]
+        return {
+            "id": f"cycling:gc:{cr.get('name')}:{cr['gc_winner']}",
+            "sport": "cycling", "competition": label,
+            "champion": f"{cr['gc_winner']} gana el {cr.get('name')}",
+            "scopeLabel": "General final", "top5": top5,
         }
     if sid == "sumo":
         bi = d.get("BASHO_INFO") or {}

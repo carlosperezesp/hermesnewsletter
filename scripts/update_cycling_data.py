@@ -732,6 +732,10 @@ def fetch_race_data(race: dict, legends: list[dict]) -> dict:
     for r in young_class:
         r["legendScore"] = _legend_score(r["name"])
 
+    # Ganador de la general: solo cuando la carrera ha terminado (todas las etapas).
+    finished = current_stage >= race["total_stages"] and next_stage is None
+    gc_winner = gc[0]["name"] if (finished and gc) else None
+
     return {
         "name":           race["name"],
         "stage":          current_stage,
@@ -741,6 +745,8 @@ def fetch_race_data(race: dict, legends: list[dict]) -> dict:
         "last_stage":     last_stage,
         "next_stage":     next_stage,
         "last_stage_result": last_stage_result,
+        "finished":       finished,
+        "gc_winner":      gc_winner,
         "gc":             gc,
         "points_leader":  points_class[0] if points_class else None,
         "kom_leader":     kom_class[0]    if kom_class    else None,

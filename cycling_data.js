@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-12 10:44 UTC
+// Auto-generated 2026-06-14 07:50 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-06-12 10:44 UTC",
+  "UPDATED": "2026-06-14 07:50 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -667,33 +667,35 @@ window.CYCLING_DATA = {
         "time": "+ 0\""
       },
       {
-        "rank": null,
+        "rank": 104,
         "name": "Jonas Vingegaard",
         "country": "DEN",
         "logo": "https://flagcdn.com/24x18/dk.png",
         "team": "TVL men",
-        "time": "",
+        "time": "00:00:00",
         "gc_rank": 1
       },
       {
-        "rank": null,
+        "rank": 34,
         "name": "Felix Gall",
         "country": "AUT",
         "logo": "https://flagcdn.com/24x18/at.png",
         "team": "DCT",
-        "time": "",
+        "time": "00:00:00",
         "gc_rank": 2
       },
       {
-        "rank": null,
+        "rank": 33,
         "name": "Jai Hindley",
         "country": "AUS",
         "logo": "https://flagcdn.com/24x18/au.png",
         "team": "RBH",
-        "time": "",
+        "time": "00:00:00",
         "gc_rank": 3
       }
     ],
+    "finished": true,
+    "gc_winner": "Jonas Vingegaard",
     "gc": [
       {
         "rank": 1,
