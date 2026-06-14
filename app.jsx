@@ -758,6 +758,47 @@ function NewsletterApp() {
     } catch (e) { /* noop */ }
     return ev;
   }
+  // ── Informe de cierre: se dispara cuando una competición importante termina ──
+  // (campeón en el cuadro / basho cerrado). Función pura de los datos actuales;
+  // aparece sola cuando el cron publica el campeón. La persistencia para email
+  // llegará con el Glory log en backend.
+  function teamNameByCode(data, code) {
+    const t = (data.TEAMS || []).find(x => x.code === code || x.teamCode === code);
+    return t ? (t.commonName || t.shortName || t.city || t.name || code) : code;
+  }
+  function recentlyEnded(dv, days) {
+    const d = parseLooseDate(dv);
+    if (!d) return false;
+    const diff = (Date.now() - d.getTime()) / 86400000;
+    return diff >= 0 && diff <= days;
+  }
+  function competitionReport(id, data) {
+    try {
+      if (id === "nba" || id === "nhl") {
+        const fin = (data.BRACKET?.final || [])[0];
+        if (!fin?.winner) return null;
+        const champ = teamNameByCode(data, fin.winner);
+        const other = teamNameByCode(data, fin.winner === fin.hi ? fin.lo : fin.hi);
+        const scope = data.STATS_SCOPE === "playoffs" ? "los playoffs" : "la temporada";
+        const top5 = (data.PLAYERS || []).slice(0, 5).map(p => ({ name: p.name, score: p.score }));
+        return { competition: id === "nba" ? "NBA" : "NHL", champion: `${champ} se proclama campeón${fin.seriesScore ? ` (${fin.seriesScore} a ${other})` : ""}`, scopeLabel: `Top 5 de ${scope}`, top5 };
+      }
+      if (id === "mlb") {
+        const wsRaw = data.BRACKET?.ws;
+        const ws = Array.isArray(wsRaw) ? wsRaw[0] : wsRaw;
+        if (!ws?.winner) return null;
+        const top5 = (data.PLAYERS || []).slice(0, 5).map(p => ({ name: p.name, score: p.score }));
+        return { competition: "MLB", champion: `${teamNameByCode(data, ws.winner)} gana las World Series`, scopeLabel: "Top 5 de la temporada", top5 };
+      }
+      if (id === "sumo") {
+        const bi = data.BASHO_INFO;
+        if (!bi?.winner || !recentlyEnded(bi.endDate, 16)) return null;
+        const top5 = (data.BANZUKE || []).slice(0, 5).map(r => ({ name: r.name, sub: r.rankLabel }));
+        return { competition: "Sumo", champion: `${bi.winner} conquista el basho`, scopeLabel: "Cabeza del banzuke", top5 };
+      }
+    } catch (e) { /* noop */ }
+    return null;
+  }
   // ── Agenda: próximos eventos con fecha real presente en los datos ───────
   function sectionUpcomingEvents(id, data) {
     const out = [];
@@ -840,6 +881,13 @@ function NewsletterApp() {
     });
     return out.sort((a, b) => b.w - a.w).slice(0, 14);
   })();
+  // Informes de cierre activos (una competición importante terminó hace poco).
+  const reports = [];
+  newsletterSections.forEach(s => {
+    if (s.id === "all" || !s.data || !s.dataFresh) return;
+    const r = competitionReport(s.id, s.data);
+    if (r) reports.push({ ...r, id: s.id, icon: s.icon });
+  });
   // Agenda: próximos eventos con fecha (≤45 días), ordenados por fecha.
   const agendaItems = (() => {
     const today = new Date(); today.setHours(0, 0, 0, 0);
@@ -889,8 +937,32 @@ function NewsletterApp() {
           <span className="section-nav__count mono">{freshSections}/{visibleSections} activos</span>
         </nav>
 
+        {activeSection === "all" && reports.length > 0 && (
+          <div style={{ order: -9997, display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))", gap: 20, padding: "26px 0 6px" }}>
+            {reports.map(r => (
+              <div key={r.id} style={{ border: "1px solid var(--ink,#1a1714)", borderTop: "4px solid var(--ink,#1a1714)", padding: "16px 18px" }}>
+                <div style={{ fontSize: 10, letterSpacing: "0.18em", textTransform: "uppercase", color: "var(--muted,#888)", fontFamily: "monospace", marginBottom: 8 }}>Informe de cierre · {r.competition}</div>
+                <div style={{ fontSize: 18, fontFamily: "Newsreader, serif", fontWeight: 600, lineHeight: 1.25, color: "var(--ink,#1a1714)", marginBottom: 12 }}>{r.champion}</div>
+                {r.top5?.length > 0 && (
+                  <>
+                    <div style={{ fontSize: 10, letterSpacing: "0.1em", textTransform: "uppercase", color: "var(--muted,#999)", fontFamily: "monospace", marginBottom: 4 }}>{r.scopeLabel}</div>
+                    {r.top5.map((p, i) => (
+                      <div key={i} style={{ display: "flex", alignItems: "baseline", gap: 8, padding: "3px 0", fontSize: 13, borderBottom: i < r.top5.length - 1 ? "1px solid var(--rule,#eee)" : "none" }}>
+                        <span style={{ width: 16, fontFamily: "monospace", color: "var(--muted,#999)" }}>{i + 1}</span>
+                        <span style={{ flex: 1, color: "var(--ink,#1a1714)" }}>{p.name}</span>
+                        {p.sub && <span style={{ fontSize: 10, fontFamily: "monospace", color: "var(--muted,#999)" }}>{p.sub}</span>}
+                        {p.score != null && <span style={{ fontFamily: "monospace", fontWeight: 700, color: "var(--ink,#1a1714)" }}>{p.score}</span>}
+                      </div>
+                    ))}
+                  </>
+                )}
+              </div>
+            ))}
+          </div>
+        )}
+
         {activeSection === "all" && (gloryFeed.length > 0 || agendaItems.length > 0) && (
-          <div style={{ order: -9997, display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))", gap: 28, padding: "30px 0 8px", borderBottom: "1px solid var(--rule, #e6e1da)", marginBottom: 8 }}>
+          <div style={{ order: -9996, display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))", gap: 28, padding: "30px 0 8px", borderBottom: "1px solid var(--rule, #e6e1da)", marginBottom: 8 }}>
             {/* ── GLORIA: lo último ── */}
             {gloryFeed.length > 0 && (
               <div>
