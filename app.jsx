@@ -639,7 +639,7 @@ function NewsletterApp() {
           reason = fresh ? "Datos recientes" : "Sin datos recientes";
         }
     }
-    return { updatedAt, isFresh: !!active, activityReason: reason };
+    return { updatedAt, isFresh: !!active, activityReason: reason, dataFresh: fresh };
   }
   // ── Portada transversal: titular más relevante por deporte ──────────────
   function fmtShortDate(d) {
@@ -714,6 +714,48 @@ function NewsletterApp() {
       }
     } catch (e) { return null; }
   }
+  // ── Feed de Gloria: hechos templados (sin IA) — quién gana, sube o baja ──
+  // Devuelve eventos { w (peso), text, detail }. Los pesos colocan los hechos
+  // recientes (victorias, entradas al top 10, saltos de Nivel) por encima del
+  // estado estático (líder de la tabla).
+  function sectionGloryEvents(id, data) {
+    const ev = [];
+    try {
+      switch (id) {
+        case "motogp": {
+          const lr = data.LAST_RACE;
+          if (lr?.winner) ev.push({ w: 100, text: `${lr.winner} ganó el ${lr.name || "último GP"}`, detail: "MotoGP" });
+          break;
+        }
+        case "nascar": {
+          const lr = data.LAST_RACE;
+          if (lr?.winner) ev.push({ w: 100, text: `${lr.winner} ganó en ${lr.circuit || lr.name || ""}`, detail: "NASCAR" });
+          break;
+        }
+        case "cycling": {
+          const ls = data.CURRENT_RACE?.last_stage;
+          if (ls?.winner) ev.push({ w: 88, text: `${ls.winner} ganó la última etapa del ${data.CURRENT_RACE.name}`, detail: "Ciclismo" });
+          break;
+        }
+        case "tennis": {
+          [["ATP", data.ATP_CHANGES], ["WTA", data.WTA_CHANGES]].forEach(([tour, changes]) => {
+            (changes?.entered || []).forEach(p => ev.push({ w: 90, text: `${p.name} entra en el top 10 ${tour}`, detail: "Tenis" }));
+            (changes?.exited || []).forEach(p => ev.push({ w: 78, text: `${p.name} sale del top 10 ${tour}`, detail: "Tenis" }));
+          });
+          const movers = [...(data.ATP || []), ...(data.WTA || [])]
+            .filter(p => p.prevActiveScore != null && p.activeScore != null && (p.rank == null || p.rank <= 20))
+            .map(p => ({ name: p.name, d: Math.round((p.activeScore - p.prevActiveScore) * 10) / 10 }))
+            .filter(p => Math.abs(p.d) >= 0.5)
+            .sort((a, b) => Math.abs(b.d) - Math.abs(a.d))
+            .slice(0, 3);
+          movers.forEach(m => ev.push({ w: 70 + Math.min(15, Math.abs(m.d)), text: `${m.name} ${m.d > 0 ? "sube" : "baja"} su Nivel (${m.d > 0 ? "+" : ""}${m.d.toFixed(1)})`, detail: "Tenis" }));
+          break;
+        }
+        default: break;
+      }
+    } catch (e) { /* noop */ }
+    return ev;
+  }
   // ── Agenda: próximos eventos con fecha real presente en los datos ───────
   function sectionUpcomingEvents(id, data) {
     const out = [];
@@ -775,12 +817,27 @@ function NewsletterApp() {
   }, [D, NBA, MLB, NFL, TENNIS]);
   const visibleSections = newsletterSections.filter(section => section.id !== "all").length;
   const freshSections = newsletterSections.filter(section => section.id !== "all" && section.isFresh).length;
-  // Portada: titulares de los deportes activos, ordenados por importancia.
-  const digestItems = newsletterSections
-    .filter(s => s.id !== "all" && s.isFresh && s.data)
-    .map(s => ({ id: s.id, label: s.label, icon: s.icon, importance: s.data?.IMPORTANCE || 0, headline: sectionHeadline(s.id, s.data) }))
-    .filter(s => s.headline)
-    .sort((a, b) => b.importance - a.importance);
+  // Feed de Gloria: hechos recientes (victorias, top-10, saltos de Nivel) por
+  // encima del estado estático (líder). Cada deporte activo aporta al menos una
+  // línea: si no hay evento, su titular de estado como respaldo.
+  const gloryFeed = (() => {
+    const out = [];
+    newsletterSections.forEach(s => {
+      if (s.id === "all" || !s.data) return;
+      const imp = (s.data.IMPORTANCE || 0) / 100;
+      // Hechos (victorias, top-10, saltos de Nivel): basta con que el pipeline esté
+      // vivo, para que el resultado de una competición se vea justo al terminar.
+      const events = s.dataFresh ? sectionGloryEvents(s.id, s.data) : [];
+      if (events.length) {
+        events.forEach(e => out.push({ id: s.id, text: e.text, detail: e.detail, sport: s.label, icon: s.icon, w: e.w + imp }));
+      } else if (s.isFresh) {
+        // Respaldo de estado (líder): solo si el deporte está realmente en temporada.
+        const h = sectionHeadline(s.id, s.data);
+        if (h) out.push({ id: s.id, text: h, detail: s.label, sport: s.label, icon: s.icon, w: 30 + imp });
+      }
+    });
+    return out.sort((a, b) => b.w - a.w).slice(0, 14);
+  })();
   // Agenda: próximos eventos con fecha (≤45 días), ordenados por fecha.
   const agendaItems = (() => {
     const today = new Date(); today.setHours(0, 0, 0, 0);
@@ -830,23 +887,23 @@ function NewsletterApp() {
           <span className="section-nav__count mono">{freshSections}/{visibleSections} activos</span>
         </nav>
 
-        {activeSection === "all" && (digestItems.length > 0 || agendaItems.length > 0) && (
+        {activeSection === "all" && (gloryFeed.length > 0 || agendaItems.length > 0) && (
           <div style={{ order: -9997, display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))", gap: 28, padding: "30px 0 8px", borderBottom: "1px solid var(--rule, #e6e1da)", marginBottom: 8 }}>
-            {/* ── PORTADA: esta semana en Hermes ── */}
-            {digestItems.length > 0 && (
+            {/* ── GLORIA: lo último ── */}
+            {gloryFeed.length > 0 && (
               <div>
-                <div style={{ fontSize: 10, letterSpacing: "0.18em", textTransform: "uppercase", color: "var(--muted,#888)", fontFamily: "monospace", marginBottom: 12 }}>Esta semana en Hermes</div>
+                <div style={{ fontSize: 10, letterSpacing: "0.18em", textTransform: "uppercase", color: "var(--muted,#888)", fontFamily: "monospace", marginBottom: 12 }}>Gloria · lo último</div>
                 <div style={{ display: "flex", flexDirection: "column" }}>
-                  {digestItems.map(item => (
+                  {gloryFeed.map((item, i) => (
                     <button
-                      key={item.id}
+                      key={i}
                       type="button"
                       onClick={() => setActiveSection(item.id)}
                       style={{ display: "flex", alignItems: "baseline", gap: 10, padding: "7px 0", background: "none", border: "none", borderBottom: "1px solid var(--rule,#eee)", textAlign: "left", cursor: "pointer", width: "100%" }}
-                      title={`Ver ${item.label}`}
+                      title={`Ver ${item.sport}`}
                     >
-                      <span style={{ flexShrink: 0, width: 58, fontSize: 10, fontFamily: "monospace", textTransform: "uppercase", letterSpacing: "0.06em", color: "var(--muted,#999)", paddingTop: 2 }}>{item.label}</span>
-                      <span style={{ fontSize: 14, lineHeight: 1.35, color: "var(--ink,#1a1714)" }}>{item.headline}</span>
+                      <span style={{ flexShrink: 0, width: 58, fontSize: 10, fontFamily: "monospace", textTransform: "uppercase", letterSpacing: "0.06em", color: "var(--muted,#999)", paddingTop: 2 }}>{item.detail || item.sport}</span>
+                      <span style={{ fontSize: 14, lineHeight: 1.35, color: "var(--ink,#1a1714)" }}>{item.text}</span>
                     </button>
                   ))}
                 </div>
