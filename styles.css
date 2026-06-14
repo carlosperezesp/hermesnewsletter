@@ -35,6 +35,8 @@
       text-rendering: optimizeLegibility;
     }
     button { font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; }
+    summary { list-style: none; }
+    summary::-webkit-details-marker { display: none; }
     h1, h2, h3, h4 { margin: 0; font-family: var(--serif); font-weight: 500; letter-spacing: -0.01em; }
 
     /* ─────────────────────── Type helpers ─────────────────────── */

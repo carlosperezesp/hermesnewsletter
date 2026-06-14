@@ -934,6 +934,16 @@ function NewsletterApp() {
           <div style={{ fontSize: 11, color: "var(--muted,#888)", fontFamily: "monospace", marginTop: 14 }}>
             {new Date().toLocaleDateString("es-ES", { weekday: "long", year: "numeric", month: "long", day: "numeric" })}
           </div>
+          <details style={{ marginTop: 18, maxWidth: 560, marginLeft: "auto", marginRight: "auto", textAlign: "left" }}>
+            <summary style={{ fontSize: 10, letterSpacing: "0.14em", textTransform: "uppercase", color: "var(--muted,#888)", fontFamily: "monospace", cursor: "pointer", textAlign: "center", listStyle: "none" }}>
+              Cómo se calculan los scores
+            </summary>
+            <div style={{ fontSize: 13, lineHeight: 1.5, color: "var(--ink-2,#444)", marginTop: 12, paddingTop: 12, borderTop: "1px solid var(--rule,#e6e1da)" }}>
+              <p style={{ margin: "0 0 8px" }}><strong style={{ color: "var(--ink,#1a1714)" }}>Nivel (0–100)</strong> — lo bueno que es ahora mismo: forma reciente, Elo, ranking y solidez según superficie o contexto. Baja si lleva semanas sin competir y se recupera al volver a jugar.</p>
+              <p style={{ margin: "0 0 8px" }}><strong style={{ color: "var(--ink,#1a1714)" }}>Leyenda (0–100)</strong> — su lugar en la historia del deporte: grandes títulos, tiempo en lo más alto y hitos de carrera, medido contra las leyendas de cada deporte (la cima histórica = 100).</p>
+              <p style={{ margin: 0, color: "var(--muted,#888)" }}>Cada score solo se compara dentro de su propio deporte: un 100 en tenis no equivale a un 100 en F1. Todo se calcula de forma automática a partir de datos públicos, sin IA.</p>
+            </div>
+          </details>
         </div>
 
         <nav className="section-nav" style={{ order: -9998 }} aria-label="Secciones de Hermes">
