@@ -544,6 +544,7 @@ function NewsletterApp() {
   }
 
   const [activeSection, setActiveSection] = useState("all");
+  const [searchQuery, setSearchQuery] = useState("");
   function sectionUpdateDate(data) {
     const raw = data?.UPDATED || data?.LAST_UPDATE;
     if (!raw) return null;
@@ -905,6 +906,34 @@ function NewsletterApp() {
     });
     return out;
   })();
+  // Buscador global: índice de nombres (atletas/equipos) de todos los deportes.
+  const SEARCH_KEYS = ["PLAYERS", "TEAMS", "ATP", "WTA", "DRIVERS", "RIDERS", "LADDER", "BANZUKE", "CURRENT", "CURRENT_RIDERS", "LEGENDS", "ATP_LEGENDS", "WTA_LEGENDS"];
+  const searchIndex = (() => {
+    const out = [], seen = new Set();
+    newsletterSections.forEach(s => {
+      if (s.id === "all" || !s.data) return;
+      SEARCH_KEYS.forEach(k => {
+        const arr = s.data[k];
+        if (!Array.isArray(arr)) return;
+        arr.forEach(it => {
+          const name = it && (it.name || it.commonName || it.city);
+          if (!name) return;
+          const key = s.id + ":" + name;
+          if (seen.has(key)) return;
+          seen.add(key);
+          out.push({ name, sport: s.id, sportLabel: s.label });
+        });
+      });
+    });
+    return out;
+  })();
+  const searchResults = (() => {
+    const q = searchQuery.trim();
+    if (q.length < 2) return [];
+    const norm = x => x.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+    const nq = norm(q);
+    return searchIndex.filter(e => norm(e.name).includes(nq)).slice(0, 8);
+  })();
   // Agenda: próximos eventos con fecha (≤45 días), ordenados por fecha.
   const agendaItems = (() => {
     const today = new Date(); today.setHours(0, 0, 0, 0);
@@ -944,6 +973,30 @@ function NewsletterApp() {
               <p style={{ margin: 0, color: "var(--muted,#888)" }}>Cada score solo se compara dentro de su propio deporte: un 100 en tenis no equivale a un 100 en F1. Todo se calcula de forma automática a partir de datos públicos, sin IA.</p>
             </div>
           </details>
+          <div style={{ marginTop: 18, position: "relative", maxWidth: 340, marginLeft: "auto", marginRight: "auto" }}>
+            <input
+              value={searchQuery}
+              onChange={e => setSearchQuery(e.target.value)}
+              placeholder="Buscar atleta o equipo…"
+              aria-label="Buscar atleta o equipo"
+              style={{ width: "100%", padding: "8px 12px", fontFamily: "monospace", fontSize: 12, border: "1px solid var(--rule,#ddd)", borderRadius: 4, background: "var(--paper,#fff)", color: "var(--ink,#1a1714)", textAlign: "center" }}
+            />
+            {searchResults.length > 0 && (
+              <div style={{ position: "absolute", top: "calc(100% + 2px)", left: 0, right: 0, zIndex: 50, background: "var(--paper,#fff)", border: "1px solid var(--rule,#ddd)", textAlign: "left", maxHeight: 300, overflowY: "auto", boxShadow: "0 10px 28px rgba(0,0,0,0.10)" }}>
+                {searchResults.map((r, i) => (
+                  <button
+                    key={i}
+                    type="button"
+                    onClick={() => { setActiveSection(r.sport); setSearchQuery(""); }}
+                    style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline", gap: 10, width: "100%", padding: "8px 12px", borderBottom: i < searchResults.length - 1 ? "1px solid var(--rule-2,#eee)" : "none", background: "none", border: "none", cursor: "pointer", textAlign: "left" }}
+                  >
+                    <span style={{ fontSize: 13, color: "var(--ink,#1a1714)" }}>{r.name}</span>
+                    <span style={{ fontSize: 10, fontFamily: "monospace", textTransform: "uppercase", letterSpacing: "0.06em", color: "var(--muted,#999)", flexShrink: 0 }}>{r.sportLabel}</span>
+                  </button>
+                ))}
+              </div>
+            )}
+          </div>
         </div>
 
         <nav className="section-nav" style={{ order: -9998 }} aria-label="Secciones de Hermes">
