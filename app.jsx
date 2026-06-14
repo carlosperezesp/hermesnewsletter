@@ -738,17 +738,19 @@ function NewsletterApp() {
           break;
         }
         case "tennis": {
+          const allPlayers = [...(data.ATP || []), ...(data.WTA || [])];
+          const leyendaOf = name => { const p = allPlayers.find(x => x.name === name); return (typeof p?.leyendaScore === "number" && p.leyendaScore > 0) ? ` · Leyenda ${p.leyendaScore.toFixed(1)}` : ""; };
           [["ATP", data.ATP_CHANGES], ["WTA", data.WTA_CHANGES]].forEach(([tour, changes]) => {
-            (changes?.entered || []).forEach(p => ev.push({ w: 90, text: `${p.name} entra en el top 10 ${tour}`, detail: "Tenis" }));
+            (changes?.entered || []).forEach(p => ev.push({ w: 90, text: `${p.name} entra en el top 10 ${tour}${leyendaOf(p.name)}`, detail: "Tenis" }));
             (changes?.exited || []).forEach(p => ev.push({ w: 78, text: `${p.name} sale del top 10 ${tour}`, detail: "Tenis" }));
           });
-          const movers = [...(data.ATP || []), ...(data.WTA || [])]
+          const movers = allPlayers
             .filter(p => p.prevActiveScore != null && p.activeScore != null && (p.rank == null || p.rank <= 20))
             .map(p => ({ name: p.name, d: Math.round((p.activeScore - p.prevActiveScore) * 10) / 10 }))
             .filter(p => Math.abs(p.d) >= 0.5)
             .sort((a, b) => Math.abs(b.d) - Math.abs(a.d))
             .slice(0, 3);
-          movers.forEach(m => ev.push({ w: 70 + Math.min(15, Math.abs(m.d)), text: `${m.name} ${m.d > 0 ? "sube" : "baja"} su Nivel (${m.d > 0 ? "+" : ""}${m.d.toFixed(1)})`, detail: "Tenis" }));
+          movers.forEach(m => ev.push({ w: 70 + Math.min(15, Math.abs(m.d)), text: `${m.name} ${m.d > 0 ? "sube" : "baja"} su Nivel (${m.d > 0 ? "+" : ""}${m.d.toFixed(1)})${leyendaOf(m.name)}`, detail: "Tenis" }));
           break;
         }
         default: break;
@@ -1583,6 +1585,8 @@ function NewsletterApp() {
           const atpLegendThresholdRaw = atpLegendTop[9] ? tennisLegendRaw(atpLegendTop[9]) : 0;
           const wtaLegendThresholdRaw = wtaLegendTop[9] ? tennisLegendRaw(wtaLegendTop[9]) : 0;
           const tennisHistoricalLegendScore = (player, scoreMap, maxRaw) => {
+            // Score Leyenda canónico almacenado por el backend (lo que se cita en feed/email).
+            if (typeof player.leyendaScore === "number") return player.leyendaScore;
             const score = scoreMap[player.name];
             if (typeof score === "number") return score;
             const raw = (player.stats?.gs || 0) * 12 + Math.floor((player.stats?.weeks_no1 || 0) / 10);

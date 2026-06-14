@@ -1302,6 +1302,26 @@ def _prev_score_log_map(log_key: str) -> "dict[str, list]":
 _SCORE_LOG_KEEP_DAYS = 16   # días de histórico que conservamos por jugador
 _SCORE_DELTA_WINDOW  = 7    # ventana de comparación del chip (≈1 semana)
 
+def _assign_canonical_legend(players: list[dict], legends: list[dict]) -> None:
+    """Guarda en cada jugador el score Leyenda CANÓNICO = el que se muestra en la web.
+    Así se puede citar en feed/informes/email sin recalcular ni contradecir la vista.
+    Réplica exacta de tennisHistoricalLegendScore (app.jsx): si el jugador también está
+    en la lista de leyendas usa su legendScore; si no, normaliza GS+semanas#1 contra el
+    máximo histórico (raw de las leyendas, que incluye year-end #1)."""
+    def legend_raw(L: dict) -> int:
+        s = L.get("stats", {})
+        return s.get("gs", 0) * 12 + s.get("year_end_no1", 0) * 3 + s.get("weeks_no1", 0) // 10
+    max_raw = max((legend_raw(L) for L in legends), default=1) or 1
+    score_by_name = {L["name"]: L["legendScore"] for L in legends if "legendScore" in L}
+    for p in players:
+        if p.get("name") in score_by_name:
+            p["leyendaScore"] = score_by_name[p["name"]]
+        else:
+            s = p.get("stats", {})
+            raw_p = s.get("gs", 0) * 12 + s.get("weeks_no1", 0) // 10
+            p["leyendaScore"] = round(raw_p / max_raw * 100, 1)
+
+
 def _update_score_log(players: list[dict], prev_log: "dict[str, list]", today: _date) -> "dict[str, list]":
     """Añade el Nivel de hoy al log, poda lo viejo y fija prevActiveScore = Nivel de hace ~7 días
     (o el más antiguo disponible mientras el histórico aún no llega a una semana)."""
@@ -1351,6 +1371,7 @@ def write_data() -> None:
     atp, atp_scores = build_tour_data("atp", _prev_rank_map(atp_prev))
     atp_changes  = _top10_changes(atp_curr, atp_prev, atp_meta, atp_curr_date, atp_prev_date)
     atp_legends  = build_legends_tennis("atp")
+    _assign_canonical_legend(atp, atp_legends)
     # Posición Hermes previa para el indicador de ranking de la lista.
     for i, p in enumerate(atp):
         p["prevListRank"] = prev_atp_list.get(str(p.get("id", "")))
@@ -1361,6 +1382,7 @@ def write_data() -> None:
     wta, wta_scores = build_tour_data("wta", _prev_rank_map(wta_prev))
     wta_changes  = _top10_changes(wta_curr, wta_prev, wta_meta, wta_curr_date, wta_prev_date)
     wta_legends  = build_legends_tennis("wta")
+    _assign_canonical_legend(wta, wta_legends)
     for i, p in enumerate(wta):
         p["prevListRank"] = prev_wta_list.get(str(p.get("id", "")))
 
