@@ -630,6 +630,14 @@ function NewsletterApp() {
         reason = wc ? "Mundial 2026" : active ? "Temporada en curso" : "Receso";
         break;
       }
+      case "rugby": {
+        // El rugby de selecciones es esporádico: activo solo si hubo un test reciente.
+        // (UPDATED ya es hora de ejecución; la fecha real del test va en LAST_MATCH.)
+        const lm = parseLooseDate(data?.LAST_MATCH);
+        active = fresh && within(lm, 14);
+        reason = active ? "Test reciente" : "Sin test reciente";
+        break;
+      }
       default:
         if (SECTION_SEASON[id]) {
           active = fresh && inSeason(SECTION_SEASON[id]);
@@ -922,7 +930,7 @@ function NewsletterApp() {
         {/* ── HERMES MASTHEAD ───────────────────────────────── */}
         <div style={{ order: -9999, textAlign: "center", padding: "48px 0 36px", borderBottom: "2px solid var(--ink,#1a1714)" }}>
           <div style={{ fontSize: 10, letterSpacing: "0.25em", textTransform: "uppercase", color: "var(--muted,#888)", fontFamily: "monospace", marginBottom: 10 }}>Sports Newsletter</div>
-          <h1 style={{ fontSize: 72, fontFamily: "Newsreader, serif", fontWeight: 600, letterSpacing: "-0.03em", color: "var(--ink,#1a1714)", margin: 0, lineHeight: 1 }}>Hermes</h1>
+          <h1 style={{ fontSize: "clamp(44px, 13vw, 72px)", fontFamily: "Newsreader, serif", fontWeight: 600, letterSpacing: "-0.03em", color: "var(--ink,#1a1714)", margin: 0, lineHeight: 1 }}>Hermes</h1>
           <div style={{ fontSize: 11, color: "var(--muted,#888)", fontFamily: "monospace", marginTop: 14 }}>
             {new Date().toLocaleDateString("es-ES", { weekday: "long", year: "numeric", month: "long", day: "numeric" })}
           </div>

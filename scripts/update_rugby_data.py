@@ -14,7 +14,7 @@ import math
 import sys
 from urllib.request import Request, urlopen
 from collections import defaultdict
-from datetime import date, datetime
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -425,7 +425,11 @@ def build() -> dict:
 
     return {
         "SEASON": "1871-present",
-        "UPDATED": last_date.isoformat(),
+        # UPDATED = hora de ejecución del pipeline (igual que el resto de deportes),
+        # para poder detectar si el updater deja de correr. La fecha del último test
+        # va aparte en LAST_MATCH (el rugby de selecciones es esporádico).
+        "UPDATED": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
+        "LAST_MATCH": last_date.isoformat(),
         "SOURCE": {
             "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
             "file": "data_sources/rugby_mens_data.csv",
