@@ -641,6 +641,106 @@ function NewsletterApp() {
     }
     return { updatedAt, isFresh: !!active, activityReason: reason };
   }
+  // ── Portada transversal: titular más relevante por deporte ──────────────
+  function fmtShortDate(d) {
+    if (!d) return "";
+    return d.toLocaleDateString("es-ES", { day: "numeric", month: "short" }).replace(".", "");
+  }
+  const firstOf = arr => (Array.isArray(arr) && arr.length ? arr[0] : null);
+  function sectionHeadline(id, data) {
+    try {
+      switch (id) {
+        case "tennis": {
+          const top = firstOf(data.ATP);
+          // Solo destacamos movimientos de jugadores relevantes (top 20), no de
+          // tapados del puesto 180 que tocan el tope de penalización por inactividad.
+          const movers = [...(data.ATP || []), ...(data.WTA || [])]
+            .filter(p => p.prevActiveScore != null && p.activeScore != null && (p.rank == null || p.rank <= 20))
+            .map(p => ({ name: p.name, d: Math.round((p.activeScore - p.prevActiveScore) * 10) / 10 }))
+            .filter(p => Math.abs(p.d) >= 0.1)
+            .sort((a, b) => Math.abs(b.d) - Math.abs(a.d));
+          const mv = movers[0];
+          if (top && mv) return `#1 ${top.name} · ${mv.d > 0 ? "▲" : "▼"}${Math.abs(mv.d).toFixed(1)} ${mv.name}`;
+          return top ? `#1 ${top.name}` : null;
+        }
+        case "f1": {
+          const l = firstOf(data.DRIVERS);
+          return l ? `Líder: ${l.name}${data.LAST_WEEKEND?.name ? ` · últ. ${data.LAST_WEEKEND.name}` : ""}` : null;
+        }
+        case "motogp": {
+          const lr = data.LAST_RACE;
+          if (lr?.winner) return `${lr.winner} ganó ${lr.name || "la última"}`;
+          const l = firstOf(data.RIDERS); return l ? `Líder: ${l.name}` : null;
+        }
+        case "nascar": {
+          const lr = data.LAST_RACE;
+          if (lr?.winner) return `${lr.winner} ganó en ${lr.circuit || lr.name || ""}`;
+          const l = firstOf(data.DRIVERS); return l ? `Líder: ${l.name}` : null;
+        }
+        case "indycar": {
+          const l = firstOf(data.DRIVERS) || firstOf(data.CURRENT_CONTENDERS);
+          return l ? `Líder: ${l.name}` : null;
+        }
+        case "afl": {
+          const l = firstOf(data.LADDER);
+          return l ? `Lidera ${l.name} (${l.wins}-${l.losses})` : null;
+        }
+        case "golf": {
+          const cm = data.CURRENT_MAJOR, top = firstOf(data.CURRENT);
+          if (cm?.name) return `${cm.name}${top ? ` · #1 ${top.name}` : ""}`;
+          return top ? `#1 ${top.name}` : null;
+        }
+        case "nba": case "mlb": case "nhl": {
+          const t = firstOf(data.TEAMS);
+          const nm = t ? (t.commonName || t.shortName || t.city || t.name) : null;
+          if (!nm) return null;
+          const rec = (t.w != null && t.l != null) ? ` (${t.w}-${t.l})` : "";
+          return `Mejor récord: ${nm}${rec}`;
+        }
+        case "sumo":
+          return data.BASHO_INFO?.winner ? `Último basho: ${data.BASHO_INFO.winner}` : null;
+        case "football": {
+          const wc = data.WORLD_CUP_2026;
+          if (wc) return `Mundial 2026 · ${wc.phase === "group_stage" ? "fase de grupos" : (wc.phase || "en juego")}`;
+          return null;
+        }
+        case "cricket": {
+          const s = firstOf(data.WTC?.standings);
+          return s ? `WTC líder: ${s.country}` : null;
+        }
+        case "cycling":
+          return data.CURRENT_RACE?.name || null;
+        default: return null;
+      }
+    } catch (e) { return null; }
+  }
+  // ── Agenda: próximos eventos con fecha real presente en los datos ───────
+  function sectionUpcomingEvents(id, data) {
+    const out = [];
+    const add = (dv, title, sub) => { const d = parseLooseDate(dv); if (d) out.push({ date: d, title, sub: sub || "" }); };
+    try {
+      switch (id) {
+        case "golf": {
+          const cm = data.CURRENT_MAJOR;
+          if (cm?.start) add(cm.start, `Golf · ${cm.name}`, [cm.venue, cm.location].filter(Boolean).join(" · "));
+          break;
+        }
+        case "football":
+          (data.TEAMS || []).forEach(t => {
+            const nm = t?.nextMatch;
+            if (nm?.date && nm?.opponent) add(nm.date, `${t.name}–${nm.opponent}`, [nm.city, nm.group ? `Grupo ${nm.group}` : ""].filter(Boolean).join(" · "));
+          });
+          break;
+        case "athletics": {
+          const nm = data.NEXT_MEETING;
+          if (nm?.date) add(nm.date, `Atletismo · ${nm.name}`, nm.location);
+          break;
+        }
+        default: break;
+      }
+    } catch (e) { /* noop */ }
+    return out;
+  }
   const newsletterSections = useMemo(() => {
     const sectionData = [
       { id: "nhl", label: "NHL", icon: "nhl", data: D },
@@ -675,6 +775,25 @@ function NewsletterApp() {
   }, [D, NBA, MLB, NFL, TENNIS]);
   const visibleSections = newsletterSections.filter(section => section.id !== "all").length;
   const freshSections = newsletterSections.filter(section => section.id !== "all" && section.isFresh).length;
+  // Portada: titulares de los deportes activos, ordenados por importancia.
+  const digestItems = newsletterSections
+    .filter(s => s.id !== "all" && s.isFresh && s.data)
+    .map(s => ({ id: s.id, label: s.label, icon: s.icon, importance: s.data?.IMPORTANCE || 0, headline: sectionHeadline(s.id, s.data) }))
+    .filter(s => s.headline)
+    .sort((a, b) => b.importance - a.importance);
+  // Agenda: próximos eventos con fecha (≤45 días), ordenados por fecha.
+  const agendaItems = (() => {
+    const today = new Date(); today.setHours(0, 0, 0, 0);
+    const horizon = new Date(today.getTime() + 45 * 86400000);
+    const items = [];
+    newsletterSections.forEach(s => {
+      if (s.id === "all" || !s.data) return;
+      sectionUpcomingEvents(s.id, s.data).forEach(ev => {
+        if (ev.date >= today && ev.date <= horizon) items.push({ ...ev, icon: s.icon });
+      });
+    });
+    return items.sort((a, b) => a.date - b.date).slice(0, 10);
+  })();
   const sectionStyle = (id, importance) => ({
     order: -Math.round(importance * 10),
     display: activeSection === "all" || activeSection === id ? "block" : "none",
@@ -710,6 +829,48 @@ function NewsletterApp() {
           ))}
           <span className="section-nav__count mono">{freshSections}/{visibleSections} activos</span>
         </nav>
+
+        {activeSection === "all" && (digestItems.length > 0 || agendaItems.length > 0) && (
+          <div style={{ order: -9997, display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))", gap: 28, padding: "30px 0 8px", borderBottom: "1px solid var(--rule, #e6e1da)", marginBottom: 8 }}>
+            {/* ── PORTADA: esta semana en Hermes ── */}
+            {digestItems.length > 0 && (
+              <div>
+                <div style={{ fontSize: 10, letterSpacing: "0.18em", textTransform: "uppercase", color: "var(--muted,#888)", fontFamily: "monospace", marginBottom: 12 }}>Esta semana en Hermes</div>
+                <div style={{ display: "flex", flexDirection: "column" }}>
+                  {digestItems.map(item => (
+                    <button
+                      key={item.id}
+                      type="button"
+                      onClick={() => setActiveSection(item.id)}
+                      style={{ display: "flex", alignItems: "baseline", gap: 10, padding: "7px 0", background: "none", border: "none", borderBottom: "1px solid var(--rule,#eee)", textAlign: "left", cursor: "pointer", width: "100%" }}
+                      title={`Ver ${item.label}`}
+                    >
+                      <span style={{ flexShrink: 0, width: 58, fontSize: 10, fontFamily: "monospace", textTransform: "uppercase", letterSpacing: "0.06em", color: "var(--muted,#999)", paddingTop: 2 }}>{item.label}</span>
+                      <span style={{ fontSize: 14, lineHeight: 1.35, color: "var(--ink,#1a1714)" }}>{item.headline}</span>
+                    </button>
+                  ))}
+                </div>
+              </div>
+            )}
+            {/* ── AGENDA: próximos eventos ── */}
+            {agendaItems.length > 0 && (
+              <div>
+                <div style={{ fontSize: 10, letterSpacing: "0.18em", textTransform: "uppercase", color: "var(--muted,#888)", fontFamily: "monospace", marginBottom: 12 }}>En el calendario</div>
+                <div style={{ display: "flex", flexDirection: "column" }}>
+                  {agendaItems.map((ev, i) => (
+                    <div key={i} style={{ display: "flex", alignItems: "baseline", gap: 10, padding: "7px 0", borderBottom: "1px solid var(--rule, #eee)" }}>
+                      <span style={{ flexShrink: 0, width: 52, fontSize: 11, fontFamily: "monospace", fontWeight: 600, color: "var(--ink-2,#555)", paddingTop: 1 }}>{fmtShortDate(ev.date)}</span>
+                      <span style={{ minWidth: 0 }}>
+                        <span style={{ fontSize: 14, lineHeight: 1.3, color: "var(--ink,#1a1714)" }}>{ev.title}</span>
+                        {ev.sub && <span style={{ display: "block", fontSize: 11, color: "var(--muted,#999)", fontFamily: "monospace", marginTop: 1 }}>{ev.sub}</span>}
+                      </span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
+        )}
 
         <div data-section="nhl" style={sectionStyle("nhl", D?.IMPORTANCE || 5)}>
         {/* ── NHL ─────────────────────────────────────────── */}
