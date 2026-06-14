@@ -2192,6 +2192,35 @@ function NewsletterApp() {
                   })}
                 </div>
               </NewsletterSection>
+
+              {[["ATP", TENNIS.ATP_PROSPECTS], ["WTA", TENNIS.WTA_PROSPECTS]].map(([tour, prospects]) =>
+                (prospects || []).length > 0 && (
+                  <NewsletterSection
+                    key={`${tour}-prospects`}
+                    kicker={`${tour} · Cantera`}
+                    title={`Jóvenes promesa ${tour}`}
+                    sub="Sub-23 con mejor Nivel actual — quién ha empezado fuerte camino del panteón."
+                  >
+                    <div className="newsletter-list">
+                      {prospects.map((p, i) => (
+                        <NewsletterRankRow
+                          key={p.id}
+                          rank={i + 1}
+                          item={{ ...p, colors: { primary: p.primary, secondary: p.secondary } }}
+                          alive={new Set()}
+                          score={p.activeScore}
+                          scoreLabel="Nivel"
+                          scoreB={p.leyendaScore}
+                          scoreBLabel="Leyenda"
+                          meta={`${tour} · #${p.rank} · ${p.age} años`}
+                          note={p.note}
+                          logo={p.logo}
+                        />
+                      ))}
+                    </div>
+                  </NewsletterSection>
+                )
+              )}
             </>
           );
         })()}

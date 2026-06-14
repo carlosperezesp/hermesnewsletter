@@ -183,6 +183,18 @@ def _tourney_date(value: str) -> _date | None:
         return None
 
 
+def _age_from_dob(dob: str) -> "int | None":
+    dob = (dob or "").strip()
+    if len(dob) < 8:
+        return None
+    try:
+        d = _date(int(dob[:4]), int(dob[4:6]), int(dob[6:8]))
+    except ValueError:
+        return None
+    today = _date.today()
+    return today.year - d.year - ((today.month, today.day) < (d.month, d.day))
+
+
 def _tourney_window_days(level: str) -> int:
     if level == "G":
         return 16
@@ -1134,6 +1146,7 @@ def build_tour_data(tour: str, prev_ranks: dict[str, int] | None = None) -> list
             "secondary":   "#FFFFFF",
             "activeScore": active,
             "legendScore": legend,
+            "age":         _age_from_dob(meta.get("dob", "")),
             "surface": {
                 "hard":   surf.get("hard"),
                 "clay":   surf.get("clay"),
@@ -1322,6 +1335,34 @@ def _assign_canonical_legend(players: list[dict], legends: list[dict]) -> None:
             p["leyendaScore"] = round(raw_p / max_raw * 100, 1)
 
 
+def _tennis_prospects(players: list[dict], tour: str, max_age: int = 22, top_n: int = 8) -> list[dict]:
+    """Jóvenes promesa: los que han empezado fuerte = sub-23 con mejor Nivel actual.
+    El pilar 'quién puede llegar a ser leyenda' de la filosofía Hermes."""
+    cands = [p for p in players if isinstance(p.get("age"), int) and p["age"] <= max_age]
+    cands.sort(key=lambda p: p.get("activeScore", 0), reverse=True)
+    out: list[dict] = []
+    for p in cands[:top_n]:
+        age = p["age"]
+        gs = (p.get("stats") or {}).get("gs", 0)
+        rank = p.get("rank", 999)
+        if gs > 0:
+            note = f"Ya con {gs} Grand Slam{'s' if gs > 1 else ''} a los {age}"
+        elif rank <= 10:
+            note = f"Top 10 a los {age}"
+        elif rank <= 30:
+            note = f"Top 30 a los {age}"
+        else:
+            note = f"Irrumpe a los {age} (#{rank})"
+        out.append({
+            "id": p["id"], "name": p["name"], "age": age, "rank": rank,
+            "country": p.get("country"), "logo": p.get("logo"),
+            "primary": p.get("primary"), "secondary": p.get("secondary"),
+            "activeScore": p.get("activeScore"), "leyendaScore": p.get("leyendaScore"),
+            "note": note,
+        })
+    return out
+
+
 def _update_score_log(players: list[dict], prev_log: "dict[str, list]", today: _date) -> "dict[str, list]":
     """Añade el Nivel de hoy al log, poda lo viejo y fija prevActiveScore = Nivel de hace ~7 días
     (o el más antiguo disponible mientras el histórico aún no llega a una semana)."""
@@ -1429,6 +1470,8 @@ def write_data() -> None:
         "WTA_TOURNAMENT": wta_tournament,
         "ATP_SCORE_LOG": atp_score_log,
         "WTA_SCORE_LOG": wta_score_log,
+        "ATP_PROSPECTS": _tennis_prospects(atp, "ATP"),
+        "WTA_PROSPECTS": _tennis_prospects(wta, "WTA"),
         "IMPORTANCE":  importance,
     }
 
