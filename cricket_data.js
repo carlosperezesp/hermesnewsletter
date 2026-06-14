@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-06-12 10:45 UTC",
+  "UPDATED": "2026-06-14 21:41 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1513,
+    "matches": 1500,
     "archives": [
       {
         "name": "Tests",
@@ -13,11 +13,11 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 149
+        "matches": 148
       },
       {
         "name": "T20Is",
-        "matches": 851
+        "matches": 839
       },
       {
         "name": "IPL",
@@ -254,16 +254,16 @@ window.CRICKET_DATA = {
       "id": "mehedi-hasan-miraz",
       "name": "Mehedi Hasan Miraz",
       "role": "All-rounder",
-      "score": 82.8,
-      "legendScore": 63.9,
+      "score": 82.7,
+      "legendScore": 63.7,
       "stats": {
         "test": 86.3,
-        "odi": 84.3,
-        "t20": 81.0,
-        "franchise": 71.9,
-        "runs": 1118,
+        "odi": 84.1,
+        "t20": 80.8,
+        "franchise": 71.6,
+        "runs": 1041,
         "wickets": 73,
-        "matches": 38
+        "matches": 37
       },
       "country": "Bangladesh",
       "teamCode": "BAN",
@@ -449,15 +449,15 @@ window.CRICKET_DATA = {
         "name": "Mehedi Hasan Miraz",
         "role": "All-rounder",
         "score": 86.3,
-        "legendScore": 63.9,
+        "legendScore": 63.7,
         "stats": {
           "test": 86.3,
-          "odi": 84.3,
-          "t20": 81.0,
-          "franchise": 71.9,
-          "runs": 1118,
+          "odi": 84.1,
+          "t20": 80.8,
+          "franchise": 71.6,
+          "runs": 1041,
           "wickets": 73,
-          "matches": 38
+          "matches": 37
         },
         "country": "Bangladesh",
         "teamCode": "BAN",
@@ -2032,16 +2032,16 @@ window.CRICKET_DATA = {
         "id": "mehedi-hasan-miraz",
         "name": "Mehedi Hasan Miraz",
         "role": "All-rounder",
-        "score": 82.8,
-        "legendScore": 63.9,
+        "score": 82.7,
+        "legendScore": 63.7,
         "stats": {
           "test": 86.3,
-          "odi": 84.3,
-          "t20": 81.0,
-          "franchise": 71.9,
-          "runs": 1118,
+          "odi": 84.1,
+          "t20": 80.8,
+          "franchise": 71.6,
+          "runs": 1041,
           "wickets": 73,
-          "matches": 38
+          "matches": 37
         },
         "country": "Bangladesh",
         "teamCode": "BAN",

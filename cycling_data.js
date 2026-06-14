@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-14 07:50 UTC
+// Auto-generated 2026-06-14 21:40 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-06-14 07:50 UTC",
+  "UPDATED": "2026-06-14 21:40 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -667,30 +667,30 @@ window.CYCLING_DATA = {
         "time": "+ 0\""
       },
       {
-        "rank": 104,
+        "rank": null,
         "name": "Jonas Vingegaard",
         "country": "DEN",
         "logo": "https://flagcdn.com/24x18/dk.png",
         "team": "TVL men",
-        "time": "00:00:00",
+        "time": "",
         "gc_rank": 1
       },
       {
-        "rank": 34,
+        "rank": null,
         "name": "Felix Gall",
         "country": "AUT",
         "logo": "https://flagcdn.com/24x18/at.png",
         "team": "DCT",
-        "time": "00:00:00",
+        "time": "",
         "gc_rank": 2
       },
       {
-        "rank": 33,
+        "rank": null,
         "name": "Jai Hindley",
         "country": "AUS",
         "logo": "https://flagcdn.com/24x18/au.png",
         "team": "RBH",
-        "time": "00:00:00",
+        "time": "",
         "gc_rank": 3
       }
     ],

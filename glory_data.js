@@ -1,12 +1,12 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-14 07:53 UTC",
+  "UPDATED": "2026-06-14 21:41 UTC",
   "EVENTS": [
     {
-      "id": "nascar:win:NASCAR Cup Series at Michigan:Denny Hamlin",
+      "id": "nascar:win:NASCAR Cup Series at Pocono:Denny Hamlin",
       "sport": "nascar",
       "detail": "NASCAR",
-      "text": "Denny Hamlin ganó en Michigan International Speedway",
+      "text": "Denny Hamlin ganó en Pocono Raceway",
       "weight": 100,
       "firstSeen": "2026-06-14"
     },
@@ -15,6 +15,22 @@ window.GLORY_DATA = {
       "sport": "motogp",
       "detail": "MotoGP",
       "text": "Marc Márquez ganó el Hungarian motorcycle Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "id": "f1:win:MSC Cruises Barcelona-Catalunya Grand Prix:George Russell",
+      "sport": "f1",
+      "detail": "F1",
+      "text": "George Russell ganó el MSC Cruises Barcelona-Catalunya Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "id": "nascar:win:NASCAR Cup Series at Michigan:Denny Hamlin",
+      "sport": "nascar",
+      "detail": "NASCAR",
+      "text": "Denny Hamlin ganó en Michigan International Speedway",
       "weight": 100,
       "firstSeen": "2026-06-14"
     },
@@ -44,6 +60,36 @@ window.GLORY_DATA = {
     }
   ],
   "REPORTS": [
+    {
+      "id": "nba:champ:NY:2025-26",
+      "sport": "nba",
+      "competition": "NBA",
+      "champion": "Knicks se proclama campeón (4-1 a Spurs)",
+      "scopeLabel": "Top 5 de los playoffs",
+      "top5": [
+        {
+          "name": "Nikola Jokic",
+          "score": 100
+        },
+        {
+          "name": "Cade Cunningham",
+          "score": 95
+        },
+        {
+          "name": "Paolo Banchero",
+          "score": 95
+        },
+        {
+          "name": "Shai Gilgeous-Alexander",
+          "score": 93
+        },
+        {
+          "name": "Jalen Brunson",
+          "score": 92
+        }
+      ],
+      "firstSeen": "2026-06-14"
+    },
     {
       "id": "cycling:gc:Giro d'Italia:Jonas Vingegaard",
       "sport": "cycling",

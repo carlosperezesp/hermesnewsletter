@@ -895,7 +895,7 @@ window.NHL_DATA = {
       "name": "Macklin Celebrini",
       "pos": "C",
       "teamCode": "SJS",
-      "age": 19,
+      "age": 20,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -7410,7 +7410,7 @@ window.NHL_DATA = {
       "name": "Bowen Byram",
       "pos": "D",
       "teamCode": "BUF",
-      "age": 24,
+      "age": 25,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -11796,7 +11796,7 @@ window.NHL_DATA = {
       "name": "Ryan McDonagh",
       "pos": "D",
       "teamCode": "TBL",
-      "age": 36,
+      "age": 37,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -19924,7 +19924,7 @@ window.NHL_DATA = {
       "name": "Eric Robinson",
       "pos": "LW",
       "teamCode": "CAR",
-      "age": 30,
+      "age": 31,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -27475,7 +27475,7 @@ window.NHL_DATA = {
       "name": "Ville Koivunen",
       "pos": "RW",
       "teamCode": "PIT",
-      "age": 22,
+      "age": 23,
       "country": "Finland",
       "birthCountry": "FIN",
       "colors": {
@@ -44699,7 +44699,7 @@ window.NHL_DATA = {
           "primary": "#006d75",
           "secondary": "#ea7200"
         },
-        "age": 19,
+        "age": 20,
         "currentScore": 89,
         "projectedScore": 70.8,
         "threshold": 93.1,
@@ -44898,10 +44898,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-12 10:44 UTC",
+  "LAST_UPDATE": "2026-06-14 21:39 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-12T10:43:30Z"
+    "standingsDateTimeUtc": "2026-06-14T21:39:16Z"
   }
 };

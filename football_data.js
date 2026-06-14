@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-12 10:44 UTC
+// Auto-generated 2026-06-14 21:40 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-12 10:44 UTC",
+  "UPDATED": "2026-06-14 21:40 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Hermes curated snapshot using World Football Elo / MoreElo-style ratings",
     "notes": "Daily-generated static snapshot; update CURRENT_RAW seeds when source rankings move.",
-    "through": "2026-06-12 10:44 UTC"
+    "through": "2026-06-14 21:40 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -167,12 +167,12 @@ window.FOOTBALL_DATA = {
       "continentalTitles": 9,
       "note": "Histórico gigante todavía en zona top 10 pese a ciclo irregular.",
       "nextMatch": {
-        "date": "2026-06-13",
-        "round": 1,
-        "opponent": "Marruecos",
-        "opponentCode": "MAR",
-        "venue": "MetLife Stadium",
-        "city": "East Rutherford",
+        "date": "2026-06-19",
+        "round": 2,
+        "opponent": "Haití",
+        "opponentCode": "HAI",
+        "venue": "Lincoln Financial Field",
+        "city": "Filadelfia",
         "group": "C",
         "type": "Mundial 2026"
       }
@@ -371,20 +371,6 @@ window.FOOTBALL_DATA = {
       }
     },
     "upcomingMatches": [
-      {
-        "round": 1,
-        "date": "2026-06-13",
-        "timeET": "TBD",
-        "home": "BRA",
-        "homeName": "Brasil",
-        "away": "MAR",
-        "awayName": "Marruecos",
-        "group": "C",
-        "venue": "MetLife Stadium",
-        "city": "East Rutherford",
-        "homeElo": 1985,
-        "awayElo": 1875
-      },
       {
         "round": 1,
         "date": "2026-06-14",
@@ -1039,12 +1025,12 @@ window.FOOTBALL_DATA = {
         "continentalTitles": 9,
         "note": "A 5.0 puntos brutos del umbral dinástico",
         "nextMatch": {
-          "date": "2026-06-13",
-          "round": 1,
-          "opponent": "Marruecos",
-          "opponentCode": "MAR",
-          "venue": "MetLife Stadium",
-          "city": "East Rutherford",
+          "date": "2026-06-19",
+          "round": 2,
+          "opponent": "Haití",
+          "opponentCode": "HAI",
+          "venue": "Lincoln Financial Field",
+          "city": "Filadelfia",
           "group": "C",
           "type": "Mundial 2026"
         },
