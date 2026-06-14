@@ -881,13 +881,22 @@ function NewsletterApp() {
     });
     return out.sort((a, b) => b.w - a.w).slice(0, 14);
   })();
-  // Informes de cierre activos (una competición importante terminó hace poco).
-  const reports = [];
-  newsletterSections.forEach(s => {
-    if (s.id === "all" || !s.data || !s.dataFresh) return;
-    const r = competitionReport(s.id, s.data);
-    if (r) reports.push({ ...r, id: s.id, icon: s.icon });
-  });
+  // Informes de cierre: preferimos el Glory log persistido (backend) — sobrevive
+  // aunque los datos del deporte cambien y es la misma fuente que usará el email.
+  // Si aún no existe glory_data.js, derivamos en vivo como respaldo.
+  const reports = (() => {
+    const GLORY = typeof window !== "undefined" ? window.GLORY_DATA : null;
+    if (GLORY && Array.isArray(GLORY.REPORTS)) {
+      return GLORY.REPORTS.map(r => ({ ...r, id: r.id || r.sport }));
+    }
+    const out = [];
+    newsletterSections.forEach(s => {
+      if (s.id === "all" || !s.data || !s.dataFresh) return;
+      const r = competitionReport(s.id, s.data);
+      if (r) out.push({ ...r, id: s.id, icon: s.icon });
+    });
+    return out;
+  })();
   // Agenda: próximos eventos con fecha (≤45 días), ordenados por fecha.
   const agendaItems = (() => {
     const today = new Date(); today.setHours(0, 0, 0, 0);
