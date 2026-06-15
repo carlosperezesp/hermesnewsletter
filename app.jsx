@@ -4115,11 +4115,8 @@ function NewsletterApp() {
         {window.CRICKET_DATA && (() => {
           const CRI = window.CRICKET_DATA;
           const players = CRI.PLAYERS || [];
-          const formatGroups = [
-            ["Test", CRI.FORMAT_KINGS?.test || []],
-            ["ODI", CRI.FORMAT_KINGS?.odi || []],
-            ["T20", CRI.FORMAT_KINGS?.t20 || []],
-          ];
+          const cricketFormats = [["Test", "test"], ["ODI", "odi"], ["T20", "t20"], ["Franquicia", "franchise"]];
+          const cricketDisciplines = [["Overall", "overall"], ["Bateadores", "batting"], ["Bowlers", "bowling"]];
           const wtc = CRI.WTC?.standings || [];
           const wtcRecent = CRI.WTC?.recentMatches || [];
           const wtcUpcoming = CRI.WTC?.upcomingMatches || [];
@@ -4197,35 +4194,44 @@ function NewsletterApp() {
                 </div>
               </NewsletterSection>
 
-              <NewsletterSection
-                kicker="Format Kings"
-                title="Top 5 por formato"
-                sub="Tres lecturas separadas para no mezclar un monstruo Test con un especialista T20."
-              >
-                <div className="cricket-format-grid">
-                  {formatGroups.map(([label, rows]) => (
-                    <div className="cricket-format" key={label}>
-                      <div className="cricket-format__head">{label}</div>
-                      <div className="newsletter-list">
-                        {rows.slice(0, 5).map((p, i) => (
-                          <NewsletterRankRow
-                            key={`${label}-${p.id}`}
-                            rank={i + 1}
-                            item={p}
-                            alive={new Set()}
-                            score={p.score}
-                            scoreDisplay={p.score.toFixed(1)}
-                            scoreLabel={label}
-                            meta={`${p.country} · ${p.role}`}
-                            note={label === "T20" ? `T20I ${p.stats.t20} · Franq. ${p.stats.franchise}` : `${label} score ${p.stats[label.toLowerCase()]}`}
-                            logo={p.logo}
-                          />
-                        ))}
-                      </div>
+              {cricketFormats.map(([label, fkey]) => {
+                const g = CRI.FORMAT_KINGS?.[fkey] || {};
+                if (!(g.overall || []).length) return null;
+                return (
+                  <NewsletterSection
+                    key={fkey}
+                    kicker={`Cricket · ${label}`}
+                    title={`${label} — overall, bateadores y bowlers`}
+                    sub="Bateo y bowling por separado (como bateadores y lanzadores en béisbol); overall valora al jugador completo."
+                  >
+                    <div className="cricket-format-grid">
+                      {cricketDisciplines.map(([clabel, disc]) => (
+                        <div className="cricket-format" key={disc}>
+                          <div className="cricket-format__head">{clabel}</div>
+                          <div className="newsletter-list">
+                            {(g[disc] || []).slice(0, 5).map((p, i) => (
+                              <NewsletterRankRow
+                                key={`${fkey}-${disc}-${p.id}`}
+                                rank={i + 1}
+                                item={p}
+                                alive={new Set()}
+                                score={p.score}
+                                scoreDisplay={(p.score ?? 0).toFixed(1)}
+                                scoreLabel={clabel}
+                                meta={`${p.country} · ${p.role}`}
+                                note={disc === "batting" ? `${p.runs} runs · bowl ${p.bowling}`
+                                  : disc === "bowling" ? `${p.wickets} wickets · bat ${p.batting}`
+                                  : `bat ${p.batting} · bowl ${p.bowling}`}
+                                logo={p.logo}
+                              />
+                            ))}
+                          </div>
+                        </div>
+                      ))}
                     </div>
-                  ))}
-                </div>
-              </NewsletterSection>
+                  </NewsletterSection>
+                );
+              })}
 
               <NewsletterSection
                 kicker="World Test Championship"

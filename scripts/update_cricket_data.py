@@ -193,6 +193,8 @@ def empty_player() -> dict:
         "matches": 0,
         "teams": defaultdict(int),
         "formats": defaultdict(float),
+        "bat_formats": defaultdict(float),
+        "bowl_formats": defaultdict(float),
     }
 
 
@@ -245,11 +247,18 @@ def add_match(stats: dict, match: dict, archive: dict, today: date) -> bool:
         # Cheap but robust: if a player appeared in the scorecard, translate their
         # current aggregate into a format-specific raw score after this match.
         if row["matches"]:
-            row["formats"][fmt] = raw_score(row, fmt) * weight
+            batting, bowling, involvement = raw_components(row, fmt)
+            row["formats"][fmt] = max(0.0, batting + bowling + involvement) * weight
+            # Las listas de bateo/bowling llevan un poco de "involvement" para amortiguar
+            # muestras pequeñas, pero sin contaminar (un bowler puro no sube en bateo).
+            row["bat_formats"][fmt] = (batting + involvement * 0.3) * weight
+            row["bowl_formats"][fmt] = (bowling + involvement * 0.3) * weight
     return True
 
 
-def raw_score(row: dict, fmt: str) -> float:
+def raw_components(row: dict, fmt: str) -> tuple[float, float, float]:
+    """Devuelve (batting, bowling, involvement) por separado — como en béisbol
+    bateadores y lanzadores son disciplinas distintas."""
     runs = row["runs"]
     balls = max(1, row["balls"])
     outs = max(1, row["outs"])
@@ -268,6 +277,11 @@ def raw_score(row: dict, fmt: str) -> float:
     bowling = wickets * 4.5 + wkts_per_match * 34 - economy * (2.2 if fmt in {"t20", "franchise"} else 1.2)
 
     involvement = min(14.0, math.log1p(matches) * 4.0)
+    return max(0.0, batting), max(0.0, bowling), involvement
+
+
+def raw_score(row: dict, fmt: str) -> float:
+    batting, bowling, involvement = raw_components(row, fmt)
     return max(0.0, batting + bowling + involvement)
 
 
@@ -326,51 +340,50 @@ def role_for(row: dict) -> str:
     return "Cricketer"
 
 
-def player_rows(stats: dict) -> tuple[list[dict], dict[str, list[dict]]]:
-    format_values = {
-        fmt: normalise({name: row["formats"].get(fmt, 0.0) for name, row in stats.items() if row["formats"].get(fmt, 0.0) > 0})
-        for fmt in ("test", "odi", "t20", "franchise")
-    }
+def player_rows(stats: dict) -> tuple[list[dict], dict[str, dict]]:
+    fmts = ("test", "odi", "t20", "franchise")
+    format_values = {fmt: normalise({n: r["formats"].get(fmt, 0.0) for n, r in stats.items() if r["formats"].get(fmt, 0.0) > 0}) for fmt in fmts}
+    bat_values = {fmt: normalise({n: r["bat_formats"].get(fmt, 0.0) for n, r in stats.items() if r["bat_formats"].get(fmt, 0.0) > 0}) for fmt in fmts}
+    bowl_values = {fmt: normalise({n: r["bowl_formats"].get(fmt, 0.0) for n, r in stats.items() if r["bowl_formats"].get(fmt, 0.0) > 0}) for fmt in fmts}
 
     rows = []
     for name, row in stats.items():
-        test = format_values["test"].get(name, 0.0)
-        odi = format_values["odi"].get(name, 0.0)
-        t20 = format_values["t20"].get(name, 0.0)
-        franchise = format_values["franchise"].get(name, 0.0)
-        if max(test, odi, t20, franchise) < 18:
+        overall = {fmt: format_values[fmt].get(name, 0.0) for fmt in fmts}
+        if max(overall.values()) < 18:
             continue
-        score = round(test * 0.34 + odi * 0.24 + t20 * 0.18 + franchise * 0.14 + max(test, odi, t20, franchise) * 0.10, 1)
+        score = round(overall["test"] * 0.34 + overall["odi"] * 0.24 + overall["t20"] * 0.18 + overall["franchise"] * 0.14 + max(overall.values()) * 0.10, 1)
         country = infer_country(name, row)
         meta = team_meta(country)
         legend = max(LEGACY_SEEDS.get(name, 0.0), min(96.0, score * 0.55 + math.log1p(row["matches"]) * 5.0))
+        format_scores = {fmt: {"overall": overall[fmt], "batting": bat_values[fmt].get(name, 0.0), "bowling": bowl_values[fmt].get(name, 0.0)} for fmt in fmts}
         rows.append({
             "id": name.lower().replace(" ", "-").replace(".", ""),
             "name": name,
             "role": role_for(row),
             "score": score,
             "legendScore": round(legend, 1),
-            "stats": {
-                "test": test,
-                "odi": odi,
-                "t20": t20,
-                "franchise": franchise,
-                "runs": row["runs"],
-                "wickets": row["wickets"],
-                "matches": row["matches"],
-            },
+            "stats": {**overall, "runs": row["runs"], "wickets": row["wickets"], "matches": row["matches"]},
+            "formatScores": format_scores,
             **meta,
         })
     rows.sort(key=lambda x: x["score"], reverse=True)
 
+    # Por formato, tres rankings: overall, batting (bateadores) y bowling — como en
+    # béisbol bateadores y lanzadores van por separado.
+    def entry(r: dict, fmt: str, disc: str) -> dict:
+        fs = r["formatScores"][fmt]
+        return {k: r[k] for k in ("id", "name", "role", "country", "teamCode", "colors", "logo")} | {
+            "score": fs[disc], "batting": fs["batting"], "bowling": fs["bowling"], "overall": fs["overall"],
+            "runs": r["stats"]["runs"], "wickets": r["stats"]["wickets"],
+        }
     groups = {}
-    for fmt in ("test", "odi", "t20", "franchise"):
-        key = "franchise" if fmt == "franchise" else fmt
-        groups[key] = sorted(
-            ({**r, "score": r["stats"][fmt], "formatScore": r["stats"][fmt]} for r in rows if r["stats"][fmt] > 0),
-            key=lambda x: x["score"],
-            reverse=True,
-        )[:10]
+    for fmt in fmts:
+        elig = [r for r in rows if r["formatScores"][fmt]["overall"] > 0]
+        groups[fmt] = {
+            "overall": sorted((entry(r, fmt, "overall") for r in elig), key=lambda x: x["score"], reverse=True)[:10],
+            "batting": sorted((entry(r, fmt, "batting") for r in elig if r["formatScores"][fmt]["batting"] > 0), key=lambda x: x["score"], reverse=True)[:10],
+            "bowling": sorted((entry(r, fmt, "bowling") for r in elig if r["formatScores"][fmt]["bowling"] > 0), key=lambda x: x["score"], reverse=True)[:10],
+        }
     return rows[:10], groups
 
 
