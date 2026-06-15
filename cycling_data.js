@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-14 21:40 UTC
+// Auto-generated 2026-06-15 06:06 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-06-14 21:40 UTC",
+  "UPDATED": "2026-06-15 06:06 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -12,6 +12,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 100.0,
       "active": false,
+      "age": 81,
       "stats": {
         "tour": 5,
         "giro": 5,
@@ -32,6 +33,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 67.2,
       "active": false,
+      "age": 72,
       "stats": {
         "tour": 5,
         "giro": 3,
@@ -52,6 +54,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 52.2,
       "active": false,
+      "age": 107,
       "stats": {
         "tour": 2,
         "giro": 5,
@@ -72,6 +75,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 46.8,
       "active": false,
+      "age": 92,
       "stats": {
         "tour": 5,
         "giro": 2,
@@ -92,6 +96,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 40.8,
       "active": false,
+      "age": 62,
       "stats": {
         "tour": 5,
         "giro": 2,
@@ -112,6 +117,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 36.3,
       "active": true,
+      "age": 26,
       "stats": {
         "tour": 3,
         "giro": 1,
@@ -132,6 +138,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 36.3,
       "active": true,
+      "age": 41,
       "stats": {
         "tour": 4,
         "giro": 1,
@@ -152,6 +159,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 33.3,
       "active": false,
+      "age": 84,
       "stats": {
         "tour": 1,
         "giro": 3,
@@ -172,6 +180,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 32.8,
       "active": false,
+      "age": 44,
       "stats": {
         "tour": 2,
         "giro": 2,
@@ -192,6 +201,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 28.9,
       "active": false,
+      "age": 66,
       "stats": {
         "tour": 2,
         "giro": 2,
@@ -212,6 +222,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 25.9,
       "active": false,
+      "age": 45,
       "stats": {
         "tour": 0,
         "giro": 0,
@@ -232,6 +243,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 24.9,
       "active": false,
+      "age": 42,
       "stats": {
         "tour": 1,
         "giro": 2,
@@ -252,6 +264,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 23.9,
       "active": false,
+      "age": 65,
       "stats": {
         "tour": 3,
         "giro": 0,
@@ -272,6 +285,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 22.4,
       "active": true,
+      "age": 37,
       "stats": {
         "tour": 0,
         "giro": 1,
@@ -292,6 +306,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 19.9,
       "active": true,
+      "age": 36,
       "stats": {
         "tour": 0,
         "giro": 0,
@@ -312,6 +327,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 16.4,
       "active": true,
+      "age": 30,
       "stats": {
         "tour": 2,
         "giro": 1,
@@ -332,6 +348,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 15.9,
       "active": false,
+      "age": 79,
       "stats": {
         "tour": 0,
         "giro": 0,
@@ -352,6 +369,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 13.9,
       "active": false,
+      "age": 70,
       "stats": {
         "tour": 0,
         "giro": 0,
@@ -372,6 +390,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 13.9,
       "active": true,
+      "age": 26,
       "stats": {
         "tour": 0,
         "giro": 0,
@@ -392,6 +411,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 10.4,
       "active": true,
+      "age": 29,
       "stats": {
         "tour": 1,
         "giro": 1,
@@ -414,6 +434,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 36.3,
       "active": true,
+      "age": 26,
       "stats": {
         "tour": 3,
         "giro": 1,
@@ -434,6 +455,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 22.4,
       "active": true,
+      "age": 37,
       "stats": {
         "tour": 0,
         "giro": 1,
@@ -454,6 +476,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 17.9,
       "active": true,
+      "age": 31,
       "stats": {
         "tour": 0,
         "giro": 0,
@@ -474,6 +497,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 16.4,
       "active": true,
+      "age": 30,
       "stats": {
         "tour": 2,
         "giro": 1,
@@ -494,6 +518,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 13.9,
       "active": true,
+      "age": 26,
       "stats": {
         "tour": 0,
         "giro": 0,
@@ -514,6 +539,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 10.4,
       "active": true,
+      "age": 29,
       "stats": {
         "tour": 1,
         "giro": 1,
@@ -534,6 +560,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 6.0,
       "active": true,
+      "age": 34,
       "stats": {
         "tour": 0,
         "giro": 0,
@@ -554,6 +581,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 4.5,
       "active": true,
+      "age": 33,
       "stats": {
         "tour": 0,
         "giro": 1,
@@ -574,6 +602,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 4.5,
       "active": true,
+      "age": 30,
       "stats": {
         "tour": 0,
         "giro": 1,
@@ -594,6 +623,7 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 4.0,
       "active": true,
+      "age": 32,
       "stats": {
         "tour": 0,
         "giro": 0,
@@ -603,6 +633,92 @@ window.CYCLING_DATA = {
         "birth": 1994
       },
       "insight": "Una grande ya cuenta; necesita repetir para escalar"
+    }
+  ],
+  "CURRENT_PROSPECTS": [
+    {
+      "id": "tadej_pogacar",
+      "name": "Tadej Pogacar",
+      "country": "SLO",
+      "logo": "https://flagcdn.com/24x18/si.png",
+      "teamCode": "SLO",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "legendScore": 36.3,
+      "active": true,
+      "age": 26,
+      "stats": {
+        "tour": 3,
+        "giro": 1,
+        "vuelta": 0,
+        "monuments": 6,
+        "worlds": 1,
+        "birth": 2000
+      },
+      "note": "Ya con 4 grandes vueltas a los 26"
+    },
+    {
+      "id": "remco_evenepoel",
+      "name": "Remco Evenepoel",
+      "country": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "teamCode": "BEL",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "legendScore": 13.9,
+      "active": true,
+      "age": 26,
+      "stats": {
+        "tour": 0,
+        "giro": 0,
+        "vuelta": 1,
+        "monuments": 3,
+        "worlds": 2,
+        "birth": 2000
+      },
+      "note": "Una gran vuelta a los 26"
+    },
+    {
+      "id": "tom_pidcock",
+      "name": "Tom Pidcock",
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "legendScore": 2.0,
+      "active": true,
+      "age": 27,
+      "stats": {
+        "tour": 0,
+        "giro": 0,
+        "vuelta": 0,
+        "monuments": 1,
+        "worlds": 0,
+        "birth": 1999
+      },
+      "note": "1 monumento a los 27"
+    },
+    {
+      "id": "joão_almeida",
+      "name": "João Almeida",
+      "country": "POR",
+      "logo": "https://flagcdn.com/24x18/pt.png",
+      "teamCode": "POR",
+      "primary": "#006600",
+      "secondary": "#FFFFFF",
+      "legendScore": 0.0,
+      "active": true,
+      "age": 28,
+      "stats": {
+        "tour": 0,
+        "giro": 0,
+        "vuelta": 0,
+        "monuments": 0,
+        "worlds": 0,
+        "birth": 1998
+      },
+      "note": "Emerge a los 28"
     }
   ],
   "CURRENT_RACE": {
@@ -667,30 +783,30 @@ window.CYCLING_DATA = {
         "time": "+ 0\""
       },
       {
-        "rank": null,
+        "rank": 104,
         "name": "Jonas Vingegaard",
         "country": "DEN",
         "logo": "https://flagcdn.com/24x18/dk.png",
         "team": "TVL men",
-        "time": "",
+        "time": "00:00:00",
         "gc_rank": 1
       },
       {
-        "rank": null,
+        "rank": 34,
         "name": "Felix Gall",
         "country": "AUT",
         "logo": "https://flagcdn.com/24x18/at.png",
         "team": "DCT",
-        "time": "",
+        "time": "00:00:00",
         "gc_rank": 2
       },
       {
-        "rank": null,
+        "rank": 33,
         "name": "Jai Hindley",
         "country": "AUS",
         "logo": "https://flagcdn.com/24x18/au.png",
         "team": "RBH",
-        "time": "",
+        "time": "00:00:00",
         "gc_rank": 3
       }
     ],

@@ -635,6 +635,7 @@ def _cycling_player(row: tuple, max_raw: int, prev_rank: int | None = None) -> d
         "secondary":   "#FFFFFF",
         "legendScore": round(_cycling_raw_score(row) / max_raw * 100, 1),
         "active":      birth >= 1985,
+        "age":         (datetime.now(timezone.utc).year - birth) if birth else None,
         "stats":       {"tour": tour, "giro": giro, "vuelta": vuelta,
                         "monuments": monuments, "worlds": worlds, "birth": birth},
     }
@@ -680,6 +681,36 @@ def build_legends() -> list[dict]:
     for raw, row in sorted(raw_scores, reverse=True):
         out.append(_cycling_player(row, max_raw))
     return out
+
+
+def build_prospects(max_age: int = 28, top_n: int = 8) -> list[dict]:
+    """Jóvenes promesa del ciclismo: sub-29 con mejor palmarés ya acumulado —
+    los que han empezado fuerte camino del panteón."""
+    max_raw = max(_cycling_raw_score(row) for row in LEGENDS_RAW)
+    year = datetime.now(timezone.utc).year
+    out = []
+    for row in CURRENT_RIDERS_RAW:
+        birth = row[2]
+        age = year - birth if birth else None
+        if not age or age > max_age:
+            continue
+        p = _cycling_player(row, max_raw)
+        s = p["stats"]
+        gt = s["tour"] + s["giro"] + s["vuelta"]
+        if gt >= 2:
+            note = f"Ya con {gt} grandes vueltas a los {age}"
+        elif gt == 1:
+            note = f"Una gran vuelta a los {age}"
+        elif s["monuments"] >= 1:
+            note = f"{s['monuments']} monumento{'s' if s['monuments'] > 1 else ''} a los {age}"
+        elif s["worlds"] >= 1:
+            note = f"Arcoíris a los {age}"
+        else:
+            note = f"Emerge a los {age}"
+        p["note"] = note
+        out.append(p)
+    out.sort(key=lambda r: r["legendScore"], reverse=True)
+    return out[:top_n]
 
 
 def build_current_riders(prev_rank: dict[str, int]) -> list[dict]:
@@ -790,6 +821,7 @@ def write_data() -> None:
         "UPDATED":      updated,
         "LEGENDS":      legends,
         "CURRENT_RIDERS": current_riders,
+        "CURRENT_PROSPECTS": build_prospects(),
         "CURRENT_RACE": current_race,
         "IMPORTANCE":   importance,
     }

@@ -2313,6 +2313,7 @@ function NewsletterApp() {
           const cycLegendTop = [...(CYC.LEGENDS || [])].sort((a, b) => b.legendScore - a.legendScore);
           const cycLegendThreshold = cycLegendTop[9]?.legendScore || 0;
           const cycCurrentRiders = (CYC.CURRENT_RIDERS || []).map(p => ({ ...p, colors: { primary: p.primary, secondary: p.secondary } })).slice(0, 10);
+          const cycProspects = (CYC.CURRENT_PROSPECTS || []).map(p => ({ ...p, colors: { primary: p.primary, secondary: p.secondary } }));
           const cyclingLegendChaseNote = p => {
             if (!cycLegendThreshold) return p.note || "";
             if (p.legendScore >= cycLegendThreshold) return "Ya está en zona top 10 histórico";
@@ -2516,6 +2517,31 @@ function NewsletterApp() {
                         threshold={cycLegendThreshold}
                         meta={cycMeta(p)}
                         note={cyclingLegendChaseNote(p)}
+                        logo={p.logo}
+                      />
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
+
+              {cycProspects.length > 0 && (
+                <NewsletterSection
+                  kicker="Cantera"
+                  title="Jóvenes promesa del ciclismo"
+                  sub="Sub-29 con mejor palmarés ya acumulado — quién ha empezado fuerte camino del panteón."
+                >
+                  <div className="newsletter-list">
+                    {cycProspects.map((p, i) => (
+                      <NewsletterRankRow
+                        key={p.id}
+                        rank={i + 1}
+                        item={p}
+                        alive={new Set()}
+                        score={p.legendScore}
+                        scoreLabel="Leyenda"
+                        threshold={cycLegendThreshold}
+                        meta={`${p.country} · ${p.age} años`}
+                        note={p.note}
                         logo={p.logo}
                       />
                     ))}
