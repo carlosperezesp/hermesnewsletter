@@ -3122,6 +3122,7 @@ function NewsletterApp() {
         {window.NASCAR_DATA && (() => {
           const NC = window.NASCAR_DATA;
           const playoffRows = (NC.DRIVERS || []).slice(0, 20);
+          const ncProspects = (NC.PROSPECTS || []).map(p => ({ ...p, colors: p.colors || { primary: p.primary, secondary: p.secondary } }));
           const legends = (NC.LEGENDS || []).slice(0, 10);
           const currentContenders = (NC.CURRENT_CONTENDERS || []).slice(0, 10);
           const ncLegendThreshold = NC.LEGEND_THRESHOLD || legends[9]?.legendScore || 0;
@@ -3223,6 +3224,30 @@ function NewsletterApp() {
                         threshold={ncLegendThreshold}
                         meta={`NASCAR · ${p.manufacturer} · ${p.team}`}
                         note={p.gapToTop10 > 0 ? `A ${p.gapToTop10} del Top 10 histórico` : "Ya está en zona Top 10 histórico"}
+                        logo={p.logo}
+                      />
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
+
+              {ncProspects.length > 0 && (
+                <NewsletterSection
+                  kicker="Cantera"
+                  title="Jóvenes promesa NASCAR"
+                  sub="Pilotos sub-27 con mejor marcha en el campeonato — quién ha empezado fuerte."
+                >
+                  <div className="newsletter-list">
+                    {ncProspects.map((p, i) => (
+                      <NewsletterRankRow
+                        key={p.id || p.name}
+                        rank={i + 1}
+                        item={p}
+                        alive={new Set()}
+                        score={p.score}
+                        scoreLabel="Score"
+                        meta={`NASCAR · ${p.manufacturer || p.team || p.country} · ${p.age} años`}
+                        note={p.note}
                         logo={p.logo}
                       />
                     ))}

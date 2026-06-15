@@ -349,12 +349,78 @@ def _importance(completed: int) -> float:
     return round(min(8.8, 6.6 + completed / 26 * 2.0), 1)
 
 
+NASCAR_STANDINGS_API = "https://site.api.espn.com/apis/v2/sports/racing/nascar-premier/standings"
+NASCAR_ATHLETE_API = "https://sports.core.api.espn.com/v2/sports/racing/leagues/nascar-premier/athletes/{id}"
+
+
+def _fetch_json(url: str, ttl_hours: float = 720.0) -> dict | None:
+    key = __import__("hashlib").md5(url.encode()).hexdigest()
+    path = CACHE / f"{key}.json"
+    if path.exists() and (time.time() - path.stat().st_mtime) / 3600 < ttl_hours:
+        try:
+            return json.loads(path.read_text())
+        except Exception:
+            pass
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Hermes/1.0"})
+        with urllib.request.urlopen(req, timeout=20) as res:
+            data = json.loads(res.read().decode("utf-8"))
+        path.write_text(json.dumps(data), encoding="utf-8")
+        return data
+    except Exception as exc:
+        print(f"[WARN] NASCAR json fetch failed ({exc})", file=sys.stderr)
+        return json.loads(path.read_text()) if path.exists() else None
+
+
+def _nascar_ages() -> dict[str, int]:
+    """Mapa nombre→edad usando la fecha de nacimiento del core API de ESPN (sin fabricar)."""
+    data = _fetch_json(NASCAR_STANDINGS_API, ttl_hours=12.0)
+    entries = (((data or {}).get("children") or [{}])[0].get("standings") or {}).get("entries") or []
+    today = datetime.now(timezone.utc).date()
+    ages: dict[str, int] = {}
+    for e in entries:
+        a = e.get("athlete") or {}
+        aid, name = a.get("id"), a.get("displayName")
+        if not aid or not name:
+            continue
+        det = _fetch_json(NASCAR_ATHLETE_API.format(id=aid), ttl_hours=720.0)
+        dob = (det or {}).get("dateOfBirth")
+        if not dob:
+            continue
+        try:
+            d = datetime.strptime(dob[:10], "%Y-%m-%d").date()
+        except ValueError:
+            continue
+        ages[name] = today.year - d.year - ((today.month, today.day) < (d.month, d.day))
+    return ages
+
+
+def _nascar_prospects(drivers: list[dict], max_age: int = 26, top_n: int = 6) -> list[dict]:
+    out = []
+    for d in drivers:
+        age = d.get("age")
+        if not age or age > max_age:
+            continue
+        pos = d.get("position", 99)
+        wins = d.get("wins", 0)
+        note = (f"Líder del campeonato a los {age}" if pos == 1
+                else f"{wins} victoria{'s' if wins > 1 else ''} a los {age}" if wins >= 1
+                else f"Top {pos} a los {age}" if pos <= 5
+                else f"Irrumpe a los {age} (P{pos})")
+        out.append({k: d.get(k) for k in ("id", "name", "country", "team", "manufacturer", "teamCode", "logo", "primary", "secondary", "colors", "score", "position", "wins", "age")} | {"note": note})
+    out.sort(key=lambda x: x["score"], reverse=True)
+    return out[:top_n]
+
+
 def main() -> int:
     drivers = parse_standings()
     if not drivers:
         print("No NASCAR standings found", file=sys.stderr)
         return 1
     by_name = {driver["name"]: driver for driver in drivers}
+    ages = _nascar_ages()
+    for d in drivers:
+        d["age"] = ages.get(d["name"])
     last_race, completed = parse_results(by_name)
     cutoff = next((d for d in drivers if d["playoffRank"] == 16), drivers[min(len(drivers), 16) - 1])
     legends = build_legends()
@@ -370,6 +436,7 @@ def main() -> int:
         "LEGEND_THRESHOLD": legend_threshold,
         "PLAYOFF_CUTOFF": {"rank": 16, "driver": cutoff["name"], "points": cutoff["points"], "wins": cutoff["wins"]},
         "DRIVERS": drivers,
+        "PROSPECTS": _nascar_prospects(drivers),
         "LAST_RACE": last_race,
         "CURRENT_CONTENDERS": build_current_contenders(legend_threshold),
         "LEGENDS": legends,
