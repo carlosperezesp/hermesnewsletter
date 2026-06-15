@@ -156,6 +156,43 @@ def build_current(prev: dict[str, int], legends: list[dict]) -> list[dict]:
     return sorted(out, key=lambda p: p["activeScore"], reverse=True)
 
 
+# Jóvenes promesa: lista curada (como el resto del roster de golf, que es manual).
+# Año de nacimiento = dato público estable; nivel = seed de fuerza en el ranking mundial.
+GOLF_PROSPECTS_RAW = [
+    # name, cc3, dob (YYYY-MM-DD, dato público estable), nivel_seed
+    ("Ludvig Aberg", "SWE", "1999-11-16", 87),
+    ("Tom Kim", "KOR", "2002-06-21", 72),
+    ("Akshay Bhatia", "USA", "2002-01-31", 64),
+    ("Nicolai Hojgaard", "DEN", "2001-03-16", 57),
+    ("Nick Dunlap", "USA", "2003-12-18", 56),
+    ("Rasmus Hojgaard", "DEN", "2001-03-16", 54),
+    ("Aldrich Potgieter", "RSA", "2004-07-01", 52),
+]
+
+
+def build_golf_prospects(max_age: int = 26, top_n: int = 8) -> list[dict]:
+    today = date.today()
+    out = []
+    for name, cc3, dob, seed in GOLF_PROSPECTS_RAW:
+        d = date.fromisoformat(dob)
+        age = today.year - d.year - ((today.month, today.day) < (d.month, d.day))
+        if age > max_age:
+            continue
+        p = _player_base(name, cc3, "PGA")
+        if age <= 21:
+            note = f"Talento generacional a los {age}"
+        elif seed >= 80:
+            note = f"Ya entre la élite a los {age}"
+        elif seed >= 62:
+            note = f"Top del circuito a los {age}"
+        else:
+            note = f"Promesa emergente a los {age}"
+        p.update({"activeScore": float(seed), "age": age, "note": note})
+        out.append(p)
+    out.sort(key=lambda p: p["activeScore"], reverse=True)
+    return out[:top_n]
+
+
 def build_road_to_glory(prev: dict[str, int], current: list[dict], legends: list[dict]) -> list[dict]:
     threshold = sorted((p["legendScore"] for p in legends), reverse=True)[9]
     rows = []
@@ -287,6 +324,7 @@ def write_data() -> None:
         "SEASON": CURRENT_YEAR,
         "CURRENT_MAJOR": major,
         "CURRENT": current,
+        "PROSPECTS": build_golf_prospects(),
         "LEGENDS": legends,
         "ROAD_TO_GLORY": road,
         "LEGEND_THRESHOLD": round(legend_threshold, 1),

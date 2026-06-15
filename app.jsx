@@ -3513,6 +3513,7 @@ function NewsletterApp() {
           const GOLF = window.GOLF_DATA;
           const major = GOLF.CURRENT_MAJOR || {};
           const current = (GOLF.CURRENT || []).slice(0, 10);
+          const golfProspects = (GOLF.PROSPECTS || []).map(p => ({ ...p, colors: p.colors || { primary: p.primary, secondary: p.secondary } }));
           const road = (GOLF.ROAD_TO_GLORY || []).slice(0, 10);
           const legends = (GOLF.LEGENDS || []).slice(0, 10);
           const threshold = GOLF.LEGEND_THRESHOLD || legends[9]?.legendScore || 0;
@@ -3634,6 +3635,30 @@ function NewsletterApp() {
                   ))}
                 </div>
               </NewsletterSection>
+
+              {golfProspects.length > 0 && (
+                <NewsletterSection
+                  kicker="Cantera"
+                  title="Jóvenes promesa del golf"
+                  sub="Sub-27 con mejor posición en el ranking mundial — quién ha empezado fuerte camino del panteón."
+                >
+                  <div className="newsletter-list">
+                    {golfProspects.map((p, i) => (
+                      <NewsletterRankRow
+                        key={p.id}
+                        rank={i + 1}
+                        item={p}
+                        alive={new Set()}
+                        score={p.activeScore}
+                        scoreLabel="Nivel"
+                        meta={`Golf · ${p.country} · ${p.age} años`}
+                        note={p.note}
+                        logo={p.logo}
+                      />
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
 
               <NewsletterSection
                 kicker="Golf Legends"

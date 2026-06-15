@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-14 21:40 UTC
+// Auto-generated 2026-06-15 20:34 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-14 21:40 UTC",
+  "UPDATED": "2026-06-15 20:34 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "U.S. Open",
@@ -15,7 +15,7 @@ window.GOLF_DATA = {
     "startLabel": "18 Jun",
     "endLabel": "21 Jun",
     "round": 0,
-    "daysToStart": 4,
+    "daysToStart": 3,
     "leaderboard": [],
     "favorites": [
       "Scottie Scheffler",
@@ -278,6 +278,120 @@ window.GOLF_DATA = {
         "tour": "PGA"
       },
       "prevRank": null
+    }
+  ],
+  "PROSPECTS": [
+    {
+      "id": "ludvig_aberg",
+      "name": "Ludvig Aberg",
+      "country": "SWE",
+      "logo": "https://flagcdn.com/24x18/se.png",
+      "teamCode": "PGA",
+      "primary": "#006AA7",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#006AA7",
+        "secondary": "#FFFFFF"
+      },
+      "activeScore": 87.0,
+      "age": 26,
+      "note": "Ya entre la élite a los 26"
+    },
+    {
+      "id": "tom_kim",
+      "name": "Tom Kim",
+      "country": "KOR",
+      "logo": "https://flagcdn.com/24x18/kr.png",
+      "teamCode": "PGA",
+      "primary": "#003478",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#003478",
+        "secondary": "#FFFFFF"
+      },
+      "activeScore": 72.0,
+      "age": 23,
+      "note": "Top del circuito a los 23"
+    },
+    {
+      "id": "akshay_bhatia",
+      "name": "Akshay Bhatia",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "PGA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#B22234",
+        "secondary": "#FFFFFF"
+      },
+      "activeScore": 64.0,
+      "age": 24,
+      "note": "Top del circuito a los 24"
+    },
+    {
+      "id": "nicolai_hojgaard",
+      "name": "Nicolai Hojgaard",
+      "country": "DEN",
+      "logo": "https://flagcdn.com/24x18/dk.png",
+      "teamCode": "PGA",
+      "primary": "#C60C30",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#C60C30",
+        "secondary": "#FFFFFF"
+      },
+      "activeScore": 57.0,
+      "age": 25,
+      "note": "Promesa emergente a los 25"
+    },
+    {
+      "id": "nick_dunlap",
+      "name": "Nick Dunlap",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "PGA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#B22234",
+        "secondary": "#FFFFFF"
+      },
+      "activeScore": 56.0,
+      "age": 22,
+      "note": "Promesa emergente a los 22"
+    },
+    {
+      "id": "rasmus_hojgaard",
+      "name": "Rasmus Hojgaard",
+      "country": "DEN",
+      "logo": "https://flagcdn.com/24x18/dk.png",
+      "teamCode": "PGA",
+      "primary": "#C60C30",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#C60C30",
+        "secondary": "#FFFFFF"
+      },
+      "activeScore": 54.0,
+      "age": 25,
+      "note": "Promesa emergente a los 25"
+    },
+    {
+      "id": "aldrich_potgieter",
+      "name": "Aldrich Potgieter",
+      "country": "RSA",
+      "logo": "https://flagcdn.com/24x18/za.png",
+      "teamCode": "PGA",
+      "primary": "#007749",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#007749",
+        "secondary": "#FFFFFF"
+      },
+      "activeScore": 52.0,
+      "age": 21,
+      "note": "Talento generacional a los 21"
     }
   ],
   "LEGENDS": [
