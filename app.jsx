@@ -2729,6 +2729,7 @@ function NewsletterApp() {
         {window.F1_DATA && (() => {
           const F1 = window.F1_DATA;
           const drivers      = (F1.DRIVERS      || []).slice(0, 10);
+          const f1Prospects  = (F1.PROSPECTS    || []).map(p => ({ ...p, colors: p.colors || { primary: p.primary, secondary: p.secondary } }));
           const constructors = (F1.CONSTRUCTORS || []).slice(0, 5);
           const lastRace     = F1.LAST_RACE;
           const lastWeekend  = F1.LAST_WEEKEND;
@@ -2892,6 +2893,30 @@ function NewsletterApp() {
                       </div>
                       );
                     })}
+                  </div>
+                </NewsletterSection>
+              )}
+
+              {f1Prospects.length > 0 && (
+                <NewsletterSection
+                  kicker="Cantera"
+                  title="Jóvenes promesa F1"
+                  sub="Pilotos sub-26 con mejor marcha en el campeonato — quién ha empezado fuerte."
+                >
+                  <div className="newsletter-list">
+                    {f1Prospects.map((p, i) => (
+                      <NewsletterRankRow
+                        key={p.name}
+                        rank={i + 1}
+                        item={{ ...p, teamCode: p.country }}
+                        alive={new Set()}
+                        score={p.score}
+                        scoreLabel="Score"
+                        meta={`F1 · ${p.team || p.country} · ${p.age} años`}
+                        note={p.note}
+                        logo={p.logo}
+                      />
+                    ))}
                   </div>
                 </NewsletterSection>
               )}

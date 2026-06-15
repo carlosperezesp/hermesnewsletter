@@ -383,6 +383,45 @@ def build_legends() -> list[dict]:
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
+# Año de nacimiento del grid actual (para el pilar "jóvenes promesa").
+F1_DRIVER_BIRTH = {
+    "Max Verstappen": 1997, "Lewis Hamilton": 1985, "Charles Leclerc": 1997,
+    "Lando Norris": 1999, "Oscar Piastri": 2001, "George Russell": 1998,
+    "Carlos Sainz": 1994, "Fernando Alonso": 1981, "Pierre Gasly": 1996,
+    "Esteban Ocon": 1996, "Lance Stroll": 1998, "Alexander Albon": 1996,
+    "Alex Albon": 1996, "Yuki Tsunoda": 2000, "Nico Hulkenberg": 1987,
+    "Kimi Antonelli": 2006, "Andrea Kimi Antonelli": 2006, "Liam Lawson": 2002,
+    "Isack Hadjar": 2004, "Oliver Bearman": 2005, "Gabriel Bortoleto": 2004,
+    "Franco Colapinto": 2003, "Jack Doohan": 2003,
+}
+
+
+def _f1_prospects(drivers: list[dict], max_age: int = 25, top_n: int = 6) -> list[dict]:
+    """Jóvenes promesa F1: pilotos sub-26 con mejor marcha en el campeonato."""
+    out = []
+    for d in drivers:
+        age = d.get("age")
+        if not age or age > max_age:
+            continue
+        pos = d.get("position", 99)
+        wins = d.get("wins", 0)
+        if pos == 1:
+            note = f"Líder del campeonato a los {age}"
+        elif wins >= 1:
+            note = f"{wins} victoria{'s' if wins > 1 else ''} a los {age}"
+        elif pos <= 5:
+            note = f"Top {pos} a los {age}"
+        else:
+            note = f"Irrumpe a los {age} (P{pos})"
+        out.append({
+            "name": d["name"], "country": d.get("country"), "logo": d.get("logo"),
+            "primary": d.get("primary"), "secondary": d.get("secondary"), "colors": d.get("colors"),
+            "team": d.get("team"), "score": d.get("score"), "position": pos, "age": age, "note": note,
+        })
+    out.sort(key=lambda x: x["score"], reverse=True)
+    return out[:top_n]
+
+
 def write_data() -> None:
     out_path = ROOT / "f1_data.js"
     prev_drivers = _prev_rank_map(out_path, "F1_DATA", "DRIVERS")
@@ -425,6 +464,11 @@ def write_data() -> None:
     for lg in legends:
         lg["prevRank"] = prev_legends.get(str(lg.get("id") or lg.get("name", "")))
 
+    for d in drivers:
+        b = F1_DRIVER_BIRTH.get(d["name"])
+        d["age"] = (CURRENT_YEAR - b) if b else None
+    prospects = _f1_prospects(drivers)
+
     payload = {
         "UPDATED":        updated,
         "SEASON":         str(CURRENT_YEAR),
@@ -433,6 +477,7 @@ def write_data() -> None:
         "MAX_SEASON_PTS": max_season_pts,
         "IMPORTANCE":   importance,
         "DRIVERS":      drivers[:10],
+        "PROSPECTS":    prospects,
         "CONSTRUCTORS": constructors[:5],
         "LAST_WEEKEND": last_weekend,
         "LAST_RACE":    last_race,

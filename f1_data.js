@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-14 21:40 UTC
+// Auto-generated 2026-06-15 06:12 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-06-14 21:40 UTC",
+  "UPDATED": "2026-06-15 06:12 UTC",
   "SEASON": "2026",
   "ROUND": 6,
   "TOTAL_ROUNDS": 24,
@@ -29,7 +29,8 @@ window.F1_DATA = {
         "pts": 156.0,
         "wins": 0
       },
-      "prevRank": 1
+      "prevRank": 1,
+      "age": 20
     },
     {
       "position": 2,
@@ -53,7 +54,8 @@ window.F1_DATA = {
         "pts": 115.0,
         "wins": 0
       },
-      "prevRank": 2
+      "prevRank": 2,
+      "age": 41
     },
     {
       "position": 3,
@@ -77,7 +79,8 @@ window.F1_DATA = {
         "pts": 106.0,
         "wins": 0
       },
-      "prevRank": 3
+      "prevRank": 3,
+      "age": 28
     },
     {
       "position": 4,
@@ -101,7 +104,8 @@ window.F1_DATA = {
         "pts": 75.0,
         "wins": 0
       },
-      "prevRank": 4
+      "prevRank": 4,
+      "age": 29
     },
     {
       "position": 5,
@@ -125,7 +129,8 @@ window.F1_DATA = {
         "pts": 73.0,
         "wins": 0
       },
-      "prevRank": 6
+      "prevRank": 5,
+      "age": 27
     },
     {
       "position": 6,
@@ -149,7 +154,8 @@ window.F1_DATA = {
         "pts": 68.0,
         "wins": 0
       },
-      "prevRank": 5
+      "prevRank": 6,
+      "age": 25
     },
     {
       "position": 7,
@@ -173,7 +179,8 @@ window.F1_DATA = {
         "pts": 55.0,
         "wins": 0
       },
-      "prevRank": 7
+      "prevRank": 7,
+      "age": 29
     },
     {
       "position": 8,
@@ -197,7 +204,8 @@ window.F1_DATA = {
         "pts": 41.0,
         "wins": 0
       },
-      "prevRank": 10
+      "prevRank": 8,
+      "age": 30
     },
     {
       "position": 9,
@@ -221,7 +229,8 @@ window.F1_DATA = {
         "pts": 34.0,
         "wins": 0
       },
-      "prevRank": 8
+      "prevRank": 9,
+      "age": 22
     },
     {
       "position": 10,
@@ -245,7 +254,106 @@ window.F1_DATA = {
         "pts": 28.0,
         "wins": 0
       },
-      "prevRank": 9
+      "prevRank": 10,
+      "age": 24
+    }
+  ],
+  "PROSPECTS": [
+    {
+      "name": "Kimi Antonelli",
+      "country": "ITA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+      "primary": "#00D2BE",
+      "secondary": "#000000",
+      "colors": {
+        "primary": "#00D2BE",
+        "secondary": "#000000"
+      },
+      "team": "",
+      "score": 26.0,
+      "position": 1,
+      "age": 20,
+      "note": "Líder del campeonato a los 20"
+    },
+    {
+      "name": "Oscar Piastri",
+      "country": "AUS",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+      "primary": "#FF8700",
+      "secondary": "#000000",
+      "colors": {
+        "primary": "#FF8700",
+        "secondary": "#000000"
+      },
+      "team": "",
+      "score": 11.3,
+      "position": 6,
+      "age": 25,
+      "note": "Irrumpe a los 25 (P6)"
+    },
+    {
+      "name": "Isack Hadjar",
+      "country": "FRA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#555555",
+        "secondary": "#FFFFFF"
+      },
+      "team": "",
+      "score": 5.7,
+      "position": 9,
+      "age": 22,
+      "note": "Irrumpe a los 22 (P9)"
+    },
+    {
+      "name": "Liam Lawson",
+      "country": "NZL",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nzl.png",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#555555",
+        "secondary": "#FFFFFF"
+      },
+      "team": "",
+      "score": 4.7,
+      "position": 10,
+      "age": 24,
+      "note": "Irrumpe a los 24 (P10)"
+    },
+    {
+      "name": "Oliver Bearman",
+      "country": "GBR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
+      "primary": "#5A5A5A",
+      "secondary": "#E8002D",
+      "colors": {
+        "primary": "#5A5A5A",
+        "secondary": "#E8002D"
+      },
+      "team": "",
+      "score": 3.0,
+      "position": 11,
+      "age": 21,
+      "note": "Irrumpe a los 21 (P11)"
+    },
+    {
+      "name": "Franco Colapinto",
+      "country": "ARG",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+      "primary": "#FFF500",
+      "secondary": "#FF0000",
+      "colors": {
+        "primary": "#FFF500",
+        "secondary": "#FF0000"
+      },
+      "team": "",
+      "score": 2.7,
+      "position": 12,
+      "age": 23,
+      "note": "Irrumpe a los 23 (P12)"
     }
   ],
   "CONSTRUCTORS": [
