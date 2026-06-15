@@ -2955,6 +2955,7 @@ function NewsletterApp() {
         {window.INDYCAR_DATA && (() => {
           const IC = window.INDYCAR_DATA;
           const drivers = (IC.DRIVERS || []).slice(0, 10);
+          const icProspects = (IC.PROSPECTS || []).map(p => ({ ...p, colors: p.colors || { primary: p.primary, secondary: p.secondary } }));
           const legends = (IC.LEGENDS || []).slice(0, 10);
           const currentContenders = (IC.CURRENT_CONTENDERS || []).slice(0, 10);
           const icLegendThreshold = IC.LEGEND_THRESHOLD || legends[9]?.legendScore || 0;
@@ -3056,6 +3057,30 @@ function NewsletterApp() {
                         threshold={icLegendThreshold}
                         meta={`IndyCar · ${p.country} · ${p.team}`}
                         note={p.gapToTop10 > 0 ? `A ${p.gapToTop10} del Top 10 histórico` : "Ya está en zona Top 10 histórico"}
+                        logo={p.logo}
+                      />
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
+
+              {icProspects.length > 0 && (
+                <NewsletterSection
+                  kicker="Cantera"
+                  title="Jóvenes promesa IndyCar"
+                  sub="Pilotos sub-26 con mejor marcha en el campeonato — quién ha empezado fuerte."
+                >
+                  <div className="newsletter-list">
+                    {icProspects.map((p, i) => (
+                      <NewsletterRankRow
+                        key={p.id || p.name}
+                        rank={i + 1}
+                        item={p}
+                        alive={new Set()}
+                        score={p.score}
+                        scoreLabel="Score"
+                        meta={`IndyCar · ${p.team || p.country} · ${p.age} años`}
+                        note={p.note}
                         logo={p.logo}
                       />
                     ))}

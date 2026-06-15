@@ -182,6 +182,40 @@ def _race_stats(entries: list[dict]) -> tuple[int, int, list[str]]:
     return played, len(race_names), race_names
 
 
+ESPN_ATHLETE = "https://sports.core.api.espn.com/v2/sports/racing/leagues/irl/athletes/{id}"
+
+
+def _athlete_age(athlete_id: str) -> "int | None":
+    """Edad desde la fecha de nacimiento que da el core API de ESPN (sin fabricar)."""
+    if not athlete_id or not str(athlete_id).isdigit():
+        return None
+    data = _fetch(ESPN_ATHLETE.format(id=athlete_id), ttl_hours=720.0)
+    dob = (data or {}).get("dateOfBirth")
+    if not dob:
+        return None
+    try:
+        d = datetime.strptime(dob[:10], "%Y-%m-%d").date()
+    except ValueError:
+        return None
+    today = datetime.now(timezone.utc).date()
+    return today.year - d.year - ((today.month, today.day) < (d.month, d.day))
+
+
+def _indycar_prospects(drivers: list[dict], max_age: int = 25, top_n: int = 6) -> list[dict]:
+    out = []
+    for d in drivers:
+        age = d.get("age")
+        if not age or age > max_age:
+            continue
+        pos = d.get("position", 99)
+        note = (f"Líder del campeonato a los {age}" if pos == 1
+                else f"Top {pos} a los {age}" if pos <= 5
+                else f"Irrumpe a los {age} (P{pos})")
+        out.append({k: d.get(k) for k in ("id", "name", "country", "team", "teamCode", "logo", "primary", "secondary", "colors", "score", "position", "age")} | {"note": note})
+    out.sort(key=lambda x: x["score"], reverse=True)
+    return out[:top_n]
+
+
 def build_standings() -> tuple[list[dict], int, int]:
     data = _fetch(ESPN_STANDINGS)
     entries = (((data or {}).get("children") or [{}])[0].get("standings") or {}).get("entries") or []
@@ -219,6 +253,7 @@ def build_standings() -> tuple[list[dict], int, int]:
             "points": points,
             "score": round(points / max_pts * 100, 1),
             "legendScore": legend_by_name.get(name.lower().replace("á", "a"), 0.0),
+            "age": _athlete_age(row_id),
             "prevRank": prev.get(row_id, prev.get(name)),
             "stats": {"pts": points},
         })
@@ -337,6 +372,7 @@ def main() -> int:
         "IMPORTANCE": _importance(drivers, completed, total),
         "LEGEND_THRESHOLD": legend_threshold,
         "DRIVERS": drivers,
+        "PROSPECTS": _indycar_prospects(drivers),
         "LAST_RACE": build_last_race(by_name),
         "CURRENT_CONTENDERS": build_current_contenders(legend_threshold),
         "LEGENDS": legends,

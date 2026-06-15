@@ -1,5 +1,5 @@
 window.INDYCAR_DATA = {
-  "UPDATED": "2026-06-14 21:40 UTC",
+  "UPDATED": "2026-06-15 06:38 UTC",
   "SEASON": 2026,
   "ROUND": 9,
   "TOTAL_ROUNDS": 19,
@@ -24,6 +24,7 @@ window.INDYCAR_DATA = {
       "points": 342.0,
       "score": 33.3,
       "legendScore": 45.7,
+      "age": 29,
       "prevRank": 1,
       "stats": {
         "pts": 342.0
@@ -46,6 +47,7 @@ window.INDYCAR_DATA = {
       "points": 293.0,
       "score": 28.6,
       "legendScore": 1.6,
+      "age": null,
       "prevRank": 2,
       "stats": {
         "pts": 293.0
@@ -68,6 +70,7 @@ window.INDYCAR_DATA = {
       "points": 274.0,
       "score": 26.7,
       "legendScore": 0.2,
+      "age": null,
       "prevRank": 3,
       "stats": {
         "pts": 274.0
@@ -90,6 +93,7 @@ window.INDYCAR_DATA = {
       "points": 246.0,
       "score": 24.0,
       "legendScore": 0.0,
+      "age": null,
       "prevRank": 4,
       "stats": {
         "pts": 246.0
@@ -112,6 +116,7 @@ window.INDYCAR_DATA = {
       "points": 239.0,
       "score": 23.3,
       "legendScore": 3.5,
+      "age": 27,
       "prevRank": 5,
       "stats": {
         "pts": 239.0
@@ -134,6 +139,7 @@ window.INDYCAR_DATA = {
       "points": 238.0,
       "score": 23.2,
       "legendScore": 33.3,
+      "age": null,
       "prevRank": 6,
       "stats": {
         "pts": 238.0
@@ -156,6 +162,7 @@ window.INDYCAR_DATA = {
       "points": 222.0,
       "score": 21.6,
       "legendScore": 4.2,
+      "age": null,
       "prevRank": 7,
       "stats": {
         "pts": 222.0
@@ -178,6 +185,7 @@ window.INDYCAR_DATA = {
       "points": 221.0,
       "score": 21.5,
       "legendScore": 1.3,
+      "age": null,
       "prevRank": 8,
       "stats": {
         "pts": 221.0
@@ -200,6 +208,7 @@ window.INDYCAR_DATA = {
       "points": 196.0,
       "score": 19.1,
       "legendScore": 1.4,
+      "age": 35,
       "prevRank": 9,
       "stats": {
         "pts": 196.0
@@ -222,6 +231,7 @@ window.INDYCAR_DATA = {
       "points": 196.0,
       "score": 19.1,
       "legendScore": 0.0,
+      "age": 25,
       "prevRank": 10,
       "stats": {
         "pts": 196.0
@@ -244,6 +254,7 @@ window.INDYCAR_DATA = {
       "points": 193.0,
       "score": 18.8,
       "legendScore": 0.0,
+      "age": 37,
       "prevRank": 11,
       "stats": {
         "pts": 193.0
@@ -266,6 +277,7 @@ window.INDYCAR_DATA = {
       "points": 192.0,
       "score": 18.7,
       "legendScore": 84.1,
+      "age": 45,
       "prevRank": 12,
       "stats": {
         "pts": 192.0
@@ -288,6 +300,7 @@ window.INDYCAR_DATA = {
       "points": 175.0,
       "score": 17.1,
       "legendScore": 0.7,
+      "age": null,
       "prevRank": 13,
       "stats": {
         "pts": 175.0
@@ -310,6 +323,7 @@ window.INDYCAR_DATA = {
       "points": 152.0,
       "score": 14.8,
       "legendScore": 0.0,
+      "age": 34,
       "prevRank": 14,
       "stats": {
         "pts": 152.0
@@ -332,6 +346,7 @@ window.INDYCAR_DATA = {
       "points": 147.0,
       "score": 14.3,
       "legendScore": 0.0,
+      "age": 21,
       "prevRank": 15,
       "stats": {
         "pts": 147.0
@@ -354,6 +369,7 @@ window.INDYCAR_DATA = {
       "points": 146.0,
       "score": 14.2,
       "legendScore": 0.0,
+      "age": null,
       "prevRank": 16,
       "stats": {
         "pts": 146.0
@@ -376,6 +392,7 @@ window.INDYCAR_DATA = {
       "points": 145.0,
       "score": 14.1,
       "legendScore": 46.0,
+      "age": 45,
       "prevRank": 17,
       "stats": {
         "pts": 145.0
@@ -398,6 +415,7 @@ window.INDYCAR_DATA = {
       "points": 133.0,
       "score": 13.0,
       "legendScore": 0.0,
+      "age": 23,
       "prevRank": 18,
       "stats": {
         "pts": 133.0
@@ -420,6 +438,7 @@ window.INDYCAR_DATA = {
       "points": 131.0,
       "score": 12.8,
       "legendScore": 0.0,
+      "age": 22,
       "prevRank": 19,
       "stats": {
         "pts": 131.0
@@ -442,6 +461,7 @@ window.INDYCAR_DATA = {
       "points": 117.0,
       "score": 11.4,
       "legendScore": 0.0,
+      "age": 40,
       "prevRank": 20,
       "stats": {
         "pts": 117.0
@@ -464,6 +484,7 @@ window.INDYCAR_DATA = {
       "points": 116.0,
       "score": 11.3,
       "legendScore": 0.0,
+      "age": 21,
       "prevRank": 21,
       "stats": {
         "pts": 116.0
@@ -486,6 +507,7 @@ window.INDYCAR_DATA = {
       "points": 112.0,
       "score": 10.9,
       "legendScore": 0.0,
+      "age": 25,
       "prevRank": 22,
       "stats": {
         "pts": 112.0
@@ -508,6 +530,7 @@ window.INDYCAR_DATA = {
       "points": 99.0,
       "score": 9.6,
       "legendScore": 0.0,
+      "age": null,
       "prevRank": 23,
       "stats": {
         "pts": 99.0
@@ -530,6 +553,7 @@ window.INDYCAR_DATA = {
       "points": 89.0,
       "score": 8.7,
       "legendScore": 0.0,
+      "age": 27,
       "prevRank": 24,
       "stats": {
         "pts": 89.0
@@ -552,6 +576,7 @@ window.INDYCAR_DATA = {
       "points": 89.0,
       "score": 8.7,
       "legendScore": 0.0,
+      "age": 24,
       "prevRank": 25,
       "stats": {
         "pts": 89.0
@@ -574,6 +599,7 @@ window.INDYCAR_DATA = {
       "points": 24.0,
       "score": 2.3,
       "legendScore": 0.0,
+      "age": 34,
       "prevRank": 26,
       "stats": {
         "pts": 24.0
@@ -596,6 +622,7 @@ window.INDYCAR_DATA = {
       "points": 20.0,
       "score": 1.9,
       "legendScore": 0.0,
+      "age": 49,
       "prevRank": 27,
       "stats": {
         "pts": 20.0
@@ -618,6 +645,7 @@ window.INDYCAR_DATA = {
       "points": 8.0,
       "score": 0.8,
       "legendScore": 0.0,
+      "age": 33,
       "prevRank": 28,
       "stats": {
         "pts": 8.0
@@ -640,6 +668,7 @@ window.INDYCAR_DATA = {
       "points": 6.0,
       "score": 0.6,
       "legendScore": 0.0,
+      "age": 25,
       "prevRank": 29,
       "stats": {
         "pts": 6.0
@@ -662,6 +691,7 @@ window.INDYCAR_DATA = {
       "points": 5.0,
       "score": 0.5,
       "legendScore": 0.0,
+      "age": 51,
       "prevRank": 30,
       "stats": {
         "pts": 5.0
@@ -684,6 +714,7 @@ window.INDYCAR_DATA = {
       "points": 5.0,
       "score": 0.5,
       "legendScore": 0.0,
+      "age": 45,
       "prevRank": 31,
       "stats": {
         "pts": 5.0
@@ -706,6 +737,7 @@ window.INDYCAR_DATA = {
       "points": 5.0,
       "score": 0.5,
       "legendScore": 0.0,
+      "age": 45,
       "prevRank": 32,
       "stats": {
         "pts": 5.0
@@ -728,10 +760,121 @@ window.INDYCAR_DATA = {
       "points": 5.0,
       "score": 0.5,
       "legendScore": 0.0,
+      "age": 45,
       "prevRank": 33,
       "stats": {
         "pts": 5.0
       }
+    }
+  ],
+  "PROSPECTS": [
+    {
+      "id": "5753",
+      "name": "Marcus Armstrong",
+      "country": "NZL",
+      "team": "Meyer Shank Racing",
+      "teamCode": "MEYER",
+      "logo": "https://flagcdn.com/24x18/nz.png",
+      "primary": "#EE2737",
+      "secondary": "#111111",
+      "colors": {
+        "primary": "#EE2737",
+        "secondary": "#111111"
+      },
+      "score": 19.1,
+      "position": 9,
+      "age": 25,
+      "note": "Irrumpe a los 25 (P9)"
+    },
+    {
+      "id": "5798",
+      "name": "Kyffin Simpson",
+      "country": "CAY",
+      "team": "Chip Ganassi Racing",
+      "teamCode": "CHIP",
+      "logo": "https://flagcdn.com/24x18/ky.png",
+      "primary": "#D71920",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#D71920",
+        "secondary": "#FFFFFF"
+      },
+      "score": 14.3,
+      "position": 15,
+      "age": 21,
+      "note": "Irrumpe a los 21 (P15)"
+    },
+    {
+      "id": "5766",
+      "name": "Dennis Hauger",
+      "country": "NOR",
+      "team": "IndyCar",
+      "teamCode": "INDYCAR",
+      "logo": "https://flagcdn.com/24x18/no.png",
+      "primary": "#BA0C2F",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#BA0C2F",
+        "secondary": "#FFFFFF"
+      },
+      "score": 13.0,
+      "position": 18,
+      "age": 23,
+      "note": "Irrumpe a los 23 (P18)"
+    },
+    {
+      "id": "5842",
+      "name": "Louis Foster",
+      "country": "GBR",
+      "team": "Rahal Letterman Lanigan",
+      "teamCode": "RAHAL",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "primary": "#005BBB",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#005BBB",
+        "secondary": "#FFFFFF"
+      },
+      "score": 12.8,
+      "position": 19,
+      "age": 22,
+      "note": "Irrumpe a los 22 (P19)"
+    },
+    {
+      "id": "5810",
+      "name": "Nolan Siegel",
+      "country": "USA",
+      "team": "Arrow McLaren",
+      "teamCode": "ARROW",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "primary": "#FF8700",
+      "secondary": "#111111",
+      "colors": {
+        "primary": "#FF8700",
+        "secondary": "#111111"
+      },
+      "score": 11.3,
+      "position": 21,
+      "age": 21,
+      "note": "Irrumpe a los 21 (P21)"
+    },
+    {
+      "id": "5797",
+      "name": "Christian Rasmussen",
+      "country": "DEN",
+      "team": "Ed Carpenter Racing",
+      "teamCode": "ED",
+      "logo": "https://flagcdn.com/24x18/dk.png",
+      "primary": "#005EB8",
+      "secondary": "#F2A900",
+      "colors": {
+        "primary": "#005EB8",
+        "secondary": "#F2A900"
+      },
+      "score": 10.9,
+      "position": 22,
+      "age": 25,
+      "note": "Irrumpe a los 25 (P22)"
     }
   ],
   "LAST_RACE": null,
