@@ -3619,6 +3619,7 @@ function NewsletterApp() {
         {window.MOTOGP_DATA && (() => {
           const MG         = window.MOTOGP_DATA;
           const riders     = (MG.RIDERS  || []).slice(0, 10);
+          const mgProspects = (MG.PROSPECTS || []).map(p => ({ ...p, colors: { primary: p.primary, secondary: p.secondary } }));
           const legends    = (MG.LEGENDS || []).slice(0, 10);
           const last       = MG.LAST_RACE;
           const mgMaxSeason = MG.MAX_SEASON_PTS || MG.TOTAL_ROUNDS * 25;
@@ -3686,6 +3687,30 @@ function NewsletterApp() {
                           </span>
                         </span>
                       </div>
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
+
+              {mgProspects.length > 0 && (
+                <NewsletterSection
+                  kicker="Cantera"
+                  title="Jóvenes promesa MotoGP"
+                  sub="Pilotos sub-26 con mejor marcha en el Mundial — quién ha empezado fuerte."
+                >
+                  <div className="newsletter-list">
+                    {mgProspects.map((p, i) => (
+                      <NewsletterRankRow
+                        key={p.name}
+                        rank={i + 1}
+                        item={{ ...p, teamCode: p.country }}
+                        alive={new Set()}
+                        score={p.score}
+                        scoreLabel="Score"
+                        meta={`MotoGP · ${p.bike || p.country} · ${p.age} años`}
+                        note={p.note}
+                        logo={p.logo}
+                      />
                     ))}
                   </div>
                 </NewsletterSection>

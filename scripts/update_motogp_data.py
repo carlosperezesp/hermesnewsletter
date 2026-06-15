@@ -348,6 +348,36 @@ def _importance(riders: list[dict], completed: int, total: int) -> float:
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
+MOTOGP_RIDER_BIRTH = {
+    "Marc Márquez": 1993, "Álex Márquez": 1996, "Francesco Bagnaia": 1997,
+    "Jorge Martín": 1998, "Marco Bezzecchi": 1998, "Fabio Di Giannantonio": 1998,
+    "Pedro Acosta": 2004, "Fermín Aldeguer": 2005, "Ai Ogura": 2001,
+    "Raúl Fernández": 2000, "Fabio Quartararo": 1999, "Brad Binder": 1995,
+    "Maverick Viñales": 1995, "Enea Bastianini": 1997, "Franco Morbidelli": 1994,
+    "Joan Mir": 1997, "Johann Zarco": 1990, "Alex Rins": 1995, "Jack Miller": 1995,
+}
+
+
+def _motogp_prospects(riders: list[dict], max_age: int = 25, top_n: int = 6) -> list[dict]:
+    """Jóvenes promesa MotoGP: pilotos sub-26 con mejor marcha en el campeonato."""
+    out = []
+    for r in riders:
+        age = r.get("age")
+        if not age or age > max_age:
+            continue
+        pos = r.get("position", 99)
+        note = (f"Líder del Mundial a los {age}" if pos == 1
+                else f"Top {pos} a los {age}" if pos <= 5
+                else f"Irrumpe a los {age} (P{pos})")
+        out.append({
+            "name": r["name"], "country": r.get("country"), "logo": r.get("logo"),
+            "primary": r.get("primary"), "secondary": r.get("secondary"),
+            "bike": r.get("bike"), "score": r.get("score"), "position": pos, "age": age, "note": note,
+        })
+    out.sort(key=lambda x: x["score"], reverse=True)
+    return out[:top_n]
+
+
 def write_data() -> None:
     out_path = ROOT / "motogp_data.js"
     prev_riders  = _prev_rank_map(out_path, "MOTOGP_DATA", "RIDERS")
@@ -375,6 +405,11 @@ def write_data() -> None:
     for lg in legends:
         lg["prevRank"] = prev_legends.get(str(lg.get("id") or lg.get("name", "")))
 
+    for r in riders:
+        b = MOTOGP_RIDER_BIRTH.get(r["name"])
+        r["age"] = (CURRENT_YEAR - b) if b else None
+    prospects = _motogp_prospects(riders)
+
     payload = {
         "UPDATED":        updated,
         "SEASON":         str(year),
@@ -383,6 +418,7 @@ def write_data() -> None:
         "MAX_SEASON_PTS": max_season_pts,
         "IMPORTANCE":     importance,
         "RIDERS":         riders[:10],
+        "PROSPECTS":      prospects,
         "LAST_RACE":      last_race,
         "LEGENDS":        legends,
     }

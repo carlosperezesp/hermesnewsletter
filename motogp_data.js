@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-14 21:40 UTC
+// Auto-generated 2026-06-15 06:20 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-06-14 21:40 UTC",
+  "UPDATED": "2026-06-15 06:20 UTC",
   "SEASON": "2026",
   "ROUND": 8,
   "TOTAL_ROUNDS": 22,
@@ -21,7 +21,8 @@ window.MOTOGP_DATA = {
         "pts": 180.0
       },
       "seasonPct": 32.7,
-      "prevRank": null
+      "prevRank": null,
+      "age": 28
     },
     {
       "position": 2,
@@ -37,7 +38,8 @@ window.MOTOGP_DATA = {
         "pts": 160.0
       },
       "seasonPct": 29.1,
-      "prevRank": null
+      "prevRank": null,
+      "age": 28
     },
     {
       "position": 3,
@@ -53,7 +55,8 @@ window.MOTOGP_DATA = {
         "pts": 138.0
       },
       "seasonPct": 25.1,
-      "prevRank": null
+      "prevRank": null,
+      "age": 28
     },
     {
       "position": 4,
@@ -69,7 +72,8 @@ window.MOTOGP_DATA = {
         "pts": 132.0
       },
       "seasonPct": 24.0,
-      "prevRank": null
+      "prevRank": null,
+      "age": 22
     },
     {
       "position": 5,
@@ -85,7 +89,8 @@ window.MOTOGP_DATA = {
         "pts": 108.0
       },
       "seasonPct": 19.6,
-      "prevRank": null
+      "prevRank": null,
+      "age": 33
     },
     {
       "position": 6,
@@ -101,7 +106,8 @@ window.MOTOGP_DATA = {
         "pts": 105.0
       },
       "seasonPct": 19.1,
-      "prevRank": null
+      "prevRank": null,
+      "age": 25
     },
     {
       "position": 7,
@@ -117,7 +123,8 @@ window.MOTOGP_DATA = {
         "pts": 99.0
       },
       "seasonPct": 18.0,
-      "prevRank": null
+      "prevRank": null,
+      "age": 29
     },
     {
       "position": 8,
@@ -133,7 +140,8 @@ window.MOTOGP_DATA = {
         "pts": 93.0
       },
       "seasonPct": 16.9,
-      "prevRank": null
+      "prevRank": null,
+      "age": 26
     },
     {
       "position": 9,
@@ -149,7 +157,8 @@ window.MOTOGP_DATA = {
         "pts": 67.0
       },
       "seasonPct": 12.2,
-      "prevRank": null
+      "prevRank": null,
+      "age": 30
     },
     {
       "position": 10,
@@ -165,7 +174,46 @@ window.MOTOGP_DATA = {
         "pts": 64.0
       },
       "seasonPct": 11.6,
-      "prevRank": null
+      "prevRank": null,
+      "age": 21
+    }
+  ],
+  "PROSPECTS": [
+    {
+      "name": "Pedro Acosta",
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "primary": "#E86825",
+      "secondary": "#000000",
+      "bike": "KTM",
+      "score": 24.0,
+      "position": 4,
+      "age": 22,
+      "note": "Top 4 a los 22"
+    },
+    {
+      "name": "Ai Ogura",
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#003366",
+      "secondary": "#E8002D",
+      "bike": "Aprilia",
+      "score": 19.1,
+      "position": 6,
+      "age": 25,
+      "note": "Irrumpe a los 25 (P6)"
+    },
+    {
+      "name": "Fermín Aldeguer",
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "primary": "#CC0000",
+      "secondary": "#FFD200",
+      "bike": "Ducati",
+      "score": 11.6,
+      "position": 10,
+      "age": 21,
+      "note": "Irrumpe a los 21 (P10)"
     }
   ],
   "LAST_RACE": {
@@ -179,7 +227,23 @@ window.MOTOGP_DATA = {
       {
         "pos": 1,
         "name": "Marc Márquez",
-        "country": "ESP",
+        "country": "SPA",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "bike": "Ducati",
+        "primary": "#CC0000"
+      },
+      {
+        "pos": 2,
+        "name": "Pedro Acosta",
+        "country": "SPA",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "bike": "KTM",
+        "primary": "#E86825"
+      },
+      {
+        "pos": 3,
+        "name": "Fermín Aldeguer",
+        "country": "SPA",
         "logo": "https://flagcdn.com/24x18/es.png",
         "bike": "Ducati",
         "primary": "#CC0000"
