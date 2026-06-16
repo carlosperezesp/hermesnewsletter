@@ -345,24 +345,32 @@ def player_rows(stats: dict) -> tuple[list[dict], dict[str, dict]]:
     format_values = {fmt: normalise({n: r["formats"].get(fmt, 0.0) for n, r in stats.items() if r["formats"].get(fmt, 0.0) > 0}) for fmt in fmts}
     bat_values = {fmt: normalise({n: r["bat_formats"].get(fmt, 0.0) for n, r in stats.items() if r["bat_formats"].get(fmt, 0.0) > 0}) for fmt in fmts}
     bowl_values = {fmt: normalise({n: r["bowl_formats"].get(fmt, 0.0) for n, r in stats.items() if r["bowl_formats"].get(fmt, 0.0) > 0}) for fmt in fmts}
+    # Overall = mejor COMBINADO de bateo+bowling (índice all-rounder). Media geométrica
+    # √(bat×bowl): premia ser bueno en LAS DOS disciplinas, no a un especialista que
+    # arrasa en una sola (un bowler con bate flojo no sube; un Jadeja/Miraz sí).
+    combined_values = {
+        fmt: normalise({n: math.sqrt(bat_values[fmt].get(n, 0.0) * bowl_values[fmt].get(n, 0.0))
+                        for n in set(bat_values[fmt]) | set(bowl_values[fmt])})
+        for fmt in fmts
+    }
 
     rows = []
     for name, row in stats.items():
-        overall = {fmt: format_values[fmt].get(name, 0.0) for fmt in fmts}
-        if max(overall.values()) < 18:
+        impact = {fmt: format_values[fmt].get(name, 0.0) for fmt in fmts}
+        if max(impact.values()) < 18:
             continue
-        score = round(overall["test"] * 0.34 + overall["odi"] * 0.24 + overall["t20"] * 0.18 + overall["franchise"] * 0.14 + max(overall.values()) * 0.10, 1)
+        score = round(impact["test"] * 0.34 + impact["odi"] * 0.24 + impact["t20"] * 0.18 + impact["franchise"] * 0.14 + max(impact.values()) * 0.10, 1)
         country = infer_country(name, row)
         meta = team_meta(country)
         legend = max(LEGACY_SEEDS.get(name, 0.0), min(96.0, score * 0.55 + math.log1p(row["matches"]) * 5.0))
-        format_scores = {fmt: {"overall": overall[fmt], "batting": bat_values[fmt].get(name, 0.0), "bowling": bowl_values[fmt].get(name, 0.0)} for fmt in fmts}
+        format_scores = {fmt: {"overall": combined_values[fmt].get(name, 0.0), "batting": bat_values[fmt].get(name, 0.0), "bowling": bowl_values[fmt].get(name, 0.0)} for fmt in fmts}
         rows.append({
             "id": name.lower().replace(" ", "-").replace(".", ""),
             "name": name,
             "role": role_for(row),
             "score": score,
             "legendScore": round(legend, 1),
-            "stats": {**overall, "runs": row["runs"], "wickets": row["wickets"], "matches": row["matches"]},
+            "stats": {**impact, "runs": row["runs"], "wickets": row["wickets"], "matches": row["matches"]},
             "formatScores": format_scores,
             **meta,
         })

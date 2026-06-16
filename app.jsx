@@ -4202,7 +4202,7 @@ function NewsletterApp() {
                     key={fkey}
                     kicker={`Cricket · ${label}`}
                     title={`${label} — overall, bateadores y bowlers`}
-                    sub="Bateo y bowling por separado (como bateadores y lanzadores en béisbol); overall valora al jugador completo."
+                    sub="Bateo y bowling por separado (como bateadores y lanzadores en béisbol); overall = mejor combinado de ambas (índice all-rounder)."
                   >
                     <div className="cricket-format-grid">
                       {cricketDisciplines.map(([clabel, disc]) => (
