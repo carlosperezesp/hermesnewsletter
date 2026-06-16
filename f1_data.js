@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-15 06:12 UTC
+// Auto-generated 2026-06-16 07:12 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-06-15 06:12 UTC",
+  "UPDATED": "2026-06-16 07:12 UTC",
   "SEASON": "2026",
   "ROUND": 6,
   "TOTAL_ROUNDS": 24,
@@ -356,6 +356,162 @@ window.F1_DATA = {
       "note": "Irrumpe a los 23 (P12)"
     }
   ],
+  "LEGEND_CHASE": [
+    {
+      "id": "lewis_hamilton",
+      "name": "Lewis Hamilton",
+      "country": "GBR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "legendScore": 100.0,
+      "active": true,
+      "stats": {
+        "titles": 7,
+        "wins": 103,
+        "poles": 104,
+        "podiums": 197,
+        "birth": 1985
+      },
+      "prevRank": 1,
+      "gap": 0.0,
+      "threshold": 32.2,
+      "note": "Ya en zona top 10 histórico · 7 títulos · 103 victorias"
+    },
+    {
+      "id": "max_verstappen",
+      "name": "Max Verstappen",
+      "country": "NED",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+      "teamCode": "NED",
+      "primary": "#AE1C28",
+      "secondary": "#FFFFFF",
+      "legendScore": 55.4,
+      "active": true,
+      "stats": {
+        "titles": 4,
+        "wins": 63,
+        "poles": 40,
+        "podiums": 113,
+        "birth": 1997
+      },
+      "prevRank": 4,
+      "gap": 0.0,
+      "threshold": 32.2,
+      "note": "Ya en zona top 10 histórico · 4 títulos · 63 victorias"
+    },
+    {
+      "id": "fernando_alonso",
+      "name": "Fernando Alonso",
+      "country": "ESP",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "legendScore": 31.5,
+      "active": true,
+      "stats": {
+        "titles": 2,
+        "wins": 32,
+        "poles": 22,
+        "podiums": 106,
+        "birth": 1981
+      },
+      "prevRank": 11,
+      "gap": 0.7,
+      "threshold": 32.2,
+      "note": "A 0.7 del top 10 histórico · 2 títulos · 32 victorias"
+    },
+    {
+      "id": "charles_leclerc",
+      "name": "Charles Leclerc",
+      "country": "MON",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mon.png",
+      "teamCode": "MON",
+      "primary": "#CE1126",
+      "secondary": "#FFFFFF",
+      "legendScore": 8.2,
+      "active": true,
+      "stats": {
+        "titles": 0,
+        "wins": 8,
+        "poles": 26,
+        "podiums": 40,
+        "birth": 1997
+      },
+      "prevRank": 15,
+      "gap": 24.0,
+      "threshold": 32.2,
+      "note": "A 24.0 del top 10 histórico · 0 títulos · 8 victorias"
+    },
+    {
+      "id": "lando_norris",
+      "name": "Lando Norris",
+      "country": "GBR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "legendScore": 4.5,
+      "active": true,
+      "stats": {
+        "titles": 0,
+        "wins": 5,
+        "poles": 8,
+        "podiums": 33,
+        "birth": 2000
+      },
+      "prevRank": 16,
+      "gap": 27.7,
+      "threshold": 32.2,
+      "note": "A 27.7 del top 10 histórico · 0 títulos · 5 victorias"
+    },
+    {
+      "id": "oscar_piastri",
+      "name": "Oscar Piastri",
+      "country": "AUS",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "legendScore": 3.6,
+      "active": true,
+      "stats": {
+        "titles": 0,
+        "wins": 8,
+        "poles": 4,
+        "podiums": 18,
+        "birth": 2001
+      },
+      "prevRank": 17,
+      "gap": 28.6,
+      "threshold": 32.2,
+      "note": "A 28.6 del top 10 histórico · 0 títulos · 8 victorias"
+    },
+    {
+      "id": "george_russell",
+      "name": "George Russell",
+      "country": "GBR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "legendScore": 3.3,
+      "active": true,
+      "stats": {
+        "titles": 0,
+        "wins": 4,
+        "poles": 6,
+        "podiums": 22,
+        "birth": 1998
+      },
+      "prevRank": 18,
+      "gap": 28.9,
+      "threshold": 32.2,
+      "note": "A 28.9 del top 10 histórico · 0 títulos · 4 victorias"
+    }
+  ],
   "CONSTRUCTORS": [
     {
       "position": 1,
@@ -401,7 +557,7 @@ window.F1_DATA = {
   "LAST_WEEKEND": {
     "id": "600057435",
     "name": "MSC Cruises Barcelona-Catalunya Grand Prix",
-    "label": "ESP",
+    "label": "BAR",
     "includesSprint": false
   },
   "LAST_RACE": {
@@ -738,6 +894,44 @@ window.F1_DATA = {
         "birth": 2000
       },
       "prevRank": 16
+    },
+    {
+      "id": "oscar_piastri",
+      "name": "Oscar Piastri",
+      "country": "AUS",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "legendScore": 3.6,
+      "active": true,
+      "stats": {
+        "titles": 0,
+        "wins": 8,
+        "poles": 4,
+        "podiums": 18,
+        "birth": 2001
+      },
+      "prevRank": 17
+    },
+    {
+      "id": "george_russell",
+      "name": "George Russell",
+      "country": "GBR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "legendScore": 3.3,
+      "active": true,
+      "stats": {
+        "titles": 0,
+        "wins": 4,
+        "poles": 6,
+        "podiums": 22,
+        "birth": 1998
+      },
+      "prevRank": 18
     }
   ]
 };

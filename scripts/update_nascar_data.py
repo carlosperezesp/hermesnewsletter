@@ -412,6 +412,24 @@ def _nascar_prospects(drivers: list[dict], max_age: int = 26, top_n: int = 6) ->
     return out[:top_n]
 
 
+def build_legend_chase(legends: list[dict], top_n: int = 8) -> list[dict]:
+    """Candidato a leyenda: pilotos en activo por trayectoria histórica y distancia al top-10."""
+    ranked = sorted(legends, key=lambda x: x["legendScore"], reverse=True)
+    threshold = ranked[9]["legendScore"] if len(ranked) >= 10 else 0.0
+    chase = []
+    for p in ranked:
+        if not p.get("active"):
+            continue
+        s = p.get("stats", {})
+        gap = round(max(0.0, threshold - p["legendScore"]), 1)
+        tt, ww = s.get('titles', 0), s.get('wins', 0)
+        palmares = f"{tt} título{'' if tt == 1 else 's'} · {ww} victoria{'' if ww == 1 else 's'}"
+        note = (f"Ya en zona top 10 histórico · {palmares}" if p["legendScore"] >= threshold
+                else f"A {gap} del top 10 histórico · {palmares}")
+        chase.append({**p, "gap": gap, "threshold": round(threshold, 1), "note": note})
+    return chase[:top_n]
+
+
 def main() -> int:
     drivers = parse_standings()
     if not drivers:
@@ -437,6 +455,7 @@ def main() -> int:
         "PLAYOFF_CUTOFF": {"rank": 16, "driver": cutoff["name"], "points": cutoff["points"], "wins": cutoff["wins"]},
         "DRIVERS": drivers,
         "PROSPECTS": _nascar_prospects(drivers),
+        "LEGEND_CHASE": build_legend_chase(legends),
         "LAST_RACE": last_race,
         "CURRENT_CONTENDERS": build_current_contenders(legend_threshold),
         "LEGENDS": legends,

@@ -2730,6 +2730,7 @@ function NewsletterApp() {
           const F1 = window.F1_DATA;
           const drivers      = (F1.DRIVERS      || []).slice(0, 10);
           const f1Prospects  = (F1.PROSPECTS    || []).map(p => ({ ...p, colors: p.colors || { primary: p.primary, secondary: p.secondary } }));
+          const f1LegendChase = (F1.LEGEND_CHASE || []).map(p => ({ ...p, colors: p.colors || { primary: p.primary, secondary: p.secondary } }));
           const constructors = (F1.CONSTRUCTORS || []).slice(0, 5);
           const lastRace     = F1.LAST_RACE;
           const lastWeekend  = F1.LAST_WEEKEND;
@@ -2921,6 +2922,31 @@ function NewsletterApp() {
                 </NewsletterSection>
               )}
 
+              {f1LegendChase.length > 0 && (
+                <NewsletterSection
+                  kicker="Candidato a leyenda"
+                  title="F1 · camino del panteón"
+                  sub={`Pilotos en activo por trayectoria histórica (títulos, victorias, poles, podios). Umbral top 10: ${(f1LegendChase[0]?.threshold ?? 0)}.`}
+                >
+                  <div className="newsletter-list">
+                    {f1LegendChase.map((p, i) => (
+                      <NewsletterRankRow
+                        key={p.id}
+                        rank={i + 1}
+                        item={p}
+                        alive={new Set()}
+                        score={p.legendScore}
+                        scoreLabel="Leyenda"
+                        threshold={p.threshold}
+                        meta={`F1 · ${p.country} · ${p.stats?.titles ?? 0} títulos`}
+                        note={p.note}
+                        logo={p.logo}
+                      />
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
+
               {/* F1 Legends */}
               <NewsletterSection
                 kicker="F1 Legends"
@@ -2956,6 +2982,7 @@ function NewsletterApp() {
           const IC = window.INDYCAR_DATA;
           const drivers = (IC.DRIVERS || []).slice(0, 10);
           const icProspects = (IC.PROSPECTS || []).map(p => ({ ...p, colors: p.colors || { primary: p.primary, secondary: p.secondary } }));
+          const icLegendChase = (IC.LEGEND_CHASE || []).map(p => ({ ...p, colors: p.colors || { primary: p.primary, secondary: p.secondary } }));
           const legends = (IC.LEGENDS || []).slice(0, 10);
           const currentContenders = (IC.CURRENT_CONTENDERS || []).slice(0, 10);
           const icLegendThreshold = IC.LEGEND_THRESHOLD || legends[9]?.legendScore || 0;
@@ -3088,6 +3115,31 @@ function NewsletterApp() {
                 </NewsletterSection>
               )}
 
+              {icLegendChase.length > 0 && (
+                <NewsletterSection
+                  kicker="Candidato a leyenda"
+                  title="IndyCar · camino del panteón"
+                  sub={`Pilotos en activo por trayectoria histórica (títulos, victorias). Umbral top 10: ${(icLegendChase[0]?.threshold ?? 0)}.`}
+                >
+                  <div className="newsletter-list">
+                    {icLegendChase.map((p, i) => (
+                      <NewsletterRankRow
+                        key={p.id || p.name}
+                        rank={i + 1}
+                        item={p}
+                        alive={new Set()}
+                        score={p.legendScore}
+                        scoreLabel="Leyenda"
+                        threshold={p.threshold}
+                        meta={`IndyCar · ${p.country} · ${p.stats?.titles ?? 0} títulos`}
+                        note={p.note}
+                        logo={p.logo}
+                      />
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
+
               <NewsletterSection
                 kicker="Road to Glory · IndyCar"
                 title="Top 10 leyendas IndyCar"
@@ -3123,6 +3175,7 @@ function NewsletterApp() {
           const NC = window.NASCAR_DATA;
           const playoffRows = (NC.DRIVERS || []).slice(0, 20);
           const ncProspects = (NC.PROSPECTS || []).map(p => ({ ...p, colors: p.colors || { primary: p.primary, secondary: p.secondary } }));
+          const ncLegendChase = (NC.LEGEND_CHASE || []).map(p => ({ ...p, colors: p.colors || { primary: p.primary, secondary: p.secondary } }));
           const legends = (NC.LEGENDS || []).slice(0, 10);
           const currentContenders = (NC.CURRENT_CONTENDERS || []).slice(0, 10);
           const ncLegendThreshold = NC.LEGEND_THRESHOLD || legends[9]?.legendScore || 0;
@@ -3247,6 +3300,31 @@ function NewsletterApp() {
                         score={p.score}
                         scoreLabel="Score"
                         meta={`NASCAR · ${p.manufacturer || p.team || p.country} · ${p.age} años`}
+                        note={p.note}
+                        logo={p.logo}
+                      />
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
+
+              {ncLegendChase.length > 0 && (
+                <NewsletterSection
+                  kicker="Candidato a leyenda"
+                  title="NASCAR · camino del panteón"
+                  sub={`Pilotos en activo por trayectoria histórica (títulos, victorias). Umbral top 10: ${(ncLegendChase[0]?.threshold ?? 0)}.`}
+                >
+                  <div className="newsletter-list">
+                    {ncLegendChase.map((p, i) => (
+                      <NewsletterRankRow
+                        key={p.id || p.name}
+                        rank={i + 1}
+                        item={p}
+                        alive={new Set()}
+                        score={p.legendScore}
+                        scoreLabel="Leyenda"
+                        threshold={p.threshold}
+                        meta={`NASCAR · ${p.country} · ${p.stats?.titles ?? 0} títulos`}
                         note={p.note}
                         logo={p.logo}
                       />
@@ -3695,6 +3773,7 @@ function NewsletterApp() {
           const MG         = window.MOTOGP_DATA;
           const riders     = (MG.RIDERS  || []).slice(0, 10);
           const mgProspects = (MG.PROSPECTS || []).map(p => ({ ...p, colors: { primary: p.primary, secondary: p.secondary } }));
+          const mgLegendChase = (MG.LEGEND_CHASE || []).map(p => ({ ...p, colors: p.colors || { primary: p.primary, secondary: p.secondary } }));
           const legends    = (MG.LEGENDS || []).slice(0, 10);
           const last       = MG.LAST_RACE;
           const mgMaxSeason = MG.MAX_SEASON_PTS || MG.TOTAL_ROUNDS * 25;
@@ -3783,6 +3862,31 @@ function NewsletterApp() {
                         score={p.score}
                         scoreLabel="Score"
                         meta={`MotoGP · ${p.bike || p.country} · ${p.age} años`}
+                        note={p.note}
+                        logo={p.logo}
+                      />
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
+
+              {mgLegendChase.length > 0 && (
+                <NewsletterSection
+                  kicker="Candidato a leyenda"
+                  title="MotoGP · camino del panteón"
+                  sub={`Pilotos en activo por trayectoria histórica (títulos, victorias). Umbral top 10: ${(mgLegendChase[0]?.threshold ?? 0)}.`}
+                >
+                  <div className="newsletter-list">
+                    {mgLegendChase.map((p, i) => (
+                      <NewsletterRankRow
+                        key={p.id || p.name}
+                        rank={i + 1}
+                        item={p}
+                        alive={new Set()}
+                        score={p.legendScore}
+                        scoreLabel="Leyenda"
+                        threshold={p.threshold}
+                        meta={`MotoGP · ${p.country} · ${p.stats?.titles ?? 0} títulos`}
                         note={p.note}
                         logo={p.logo}
                       />

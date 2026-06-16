@@ -378,6 +378,24 @@ def _motogp_prospects(riders: list[dict], max_age: int = 25, top_n: int = 6) -> 
     return out[:top_n]
 
 
+def build_legend_chase(legends: list[dict], top_n: int = 8) -> list[dict]:
+    """Candidato a leyenda: pilotos en activo por trayectoria histórica y distancia al top-10."""
+    ranked = sorted(legends, key=lambda x: x["legendScore"], reverse=True)
+    threshold = ranked[9]["legendScore"] if len(ranked) >= 10 else 0.0
+    chase = []
+    for p in ranked:
+        if not p.get("active"):
+            continue
+        s = p.get("stats", {})
+        gap = round(max(0.0, threshold - p["legendScore"]), 1)
+        tt, ww = s.get('titles', 0), s.get('wins', 0)
+        palmares = f"{tt} título{'' if tt == 1 else 's'} · {ww} victoria{'' if ww == 1 else 's'}"
+        note = (f"Ya en zona top 10 histórico · {palmares}" if p["legendScore"] >= threshold
+                else f"A {gap} del top 10 histórico · {palmares}")
+        chase.append({**p, "gap": gap, "threshold": round(threshold, 1), "note": note})
+    return chase[:top_n]
+
+
 def write_data() -> None:
     out_path = ROOT / "motogp_data.js"
     prev_riders  = _prev_rank_map(out_path, "MOTOGP_DATA", "RIDERS")
@@ -419,6 +437,7 @@ def write_data() -> None:
         "IMPORTANCE":     importance,
         "RIDERS":         riders[:10],
         "PROSPECTS":      prospects,
+        "LEGEND_CHASE":   build_legend_chase(legends),
         "LAST_RACE":      last_race,
         "LEGENDS":        legends,
     }

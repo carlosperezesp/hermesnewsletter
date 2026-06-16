@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-15 06:20 UTC
+// Auto-generated 2026-06-16 07:12 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-06-15 06:20 UTC",
+  "UPDATED": "2026-06-16 07:12 UTC",
   "SEASON": "2026",
   "ROUND": 8,
   "TOTAL_ROUNDS": 22,
@@ -214,6 +214,71 @@ window.MOTOGP_DATA = {
       "position": 10,
       "age": 21,
       "note": "Irrumpe a los 21 (P10)"
+    }
+  ],
+  "LEGEND_CHASE": [
+    {
+      "id": "marc_marquez",
+      "name": "Marc Márquez",
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#C80000",
+      "secondary": "#FFFFFF",
+      "legendScore": 80.1,
+      "active": true,
+      "stats": {
+        "titles": 6,
+        "wins": 65,
+        "poles": 63,
+        "birth": 1993
+      },
+      "prevRank": null,
+      "gap": 0.0,
+      "threshold": 29.1,
+      "note": "Ya en zona top 10 histórico · 6 títulos · 65 victorias"
+    },
+    {
+      "id": "francesco_bagnaia",
+      "name": "Francesco Bagnaia",
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#C80000",
+      "secondary": "#FFFFFF",
+      "legendScore": 29.1,
+      "active": true,
+      "stats": {
+        "titles": 2,
+        "wins": 31,
+        "poles": 26,
+        "birth": 1997
+      },
+      "prevRank": null,
+      "gap": 0.0,
+      "threshold": 29.1,
+      "note": "Ya en zona top 10 histórico · 2 títulos · 31 victorias"
+    },
+    {
+      "id": "jorge_martín",
+      "name": "Jorge Martín",
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#C80000",
+      "secondary": "#FFFFFF",
+      "legendScore": 14.9,
+      "active": true,
+      "stats": {
+        "titles": 1,
+        "wins": 14,
+        "poles": 20,
+        "birth": 1988
+      },
+      "prevRank": null,
+      "gap": 14.2,
+      "threshold": 29.1,
+      "note": "A 14.2 del top 10 histórico · 1 título · 14 victorias"
     }
   ],
   "LAST_RACE": {

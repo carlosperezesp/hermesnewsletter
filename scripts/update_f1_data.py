@@ -113,6 +113,8 @@ F1_LEGENDS_RAW = [
     ("Nigel Mansell",      "GBR", 1953, 1,  31,  32,  59, False),
     ("Charles Leclerc",    "MON", 1997, 0,   8,  26,  40, True),
     ("Lando Norris",       "GBR", 2000, 0,   5,   8,  33, True),
+    ("George Russell",     "GBR", 1998, 0,   4,   6,  22, True),
+    ("Oscar Piastri",      "AUS", 2001, 0,   8,   4,  18, True),
 ]
 
 COUNTRY_COLORS: dict[str, str] = {
@@ -381,6 +383,25 @@ def build_legends() -> list[dict]:
         })
     return out
 
+def build_legend_chase(legends: list[dict], top_n: int = 8) -> list[dict]:
+    """Candidato a leyenda (pilar 3): pilotos en activo ordenados por su trayectoria
+    histórica (títulos, victorias, poles, podios) y su distancia al panteón top-10."""
+    ranked = sorted(legends, key=lambda x: x["legendScore"], reverse=True)
+    threshold = ranked[9]["legendScore"] if len(ranked) >= 10 else 0.0
+    chase = []
+    for p in ranked:
+        if not p.get("active"):
+            continue
+        s = p.get("stats", {})
+        gap = round(max(0.0, threshold - p["legendScore"]), 1)
+        tt, ww = s.get('titles', 0), s.get('wins', 0)
+        palmares = f"{tt} título{'' if tt == 1 else 's'} · {ww} victoria{'' if ww == 1 else 's'}"
+        note = (f"Ya en zona top 10 histórico · {palmares}" if p["legendScore"] >= threshold
+                else f"A {gap} del top 10 histórico · {palmares}")
+        chase.append({**p, "gap": gap, "threshold": round(threshold, 1), "note": note})
+    return chase[:top_n]
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 # Año de nacimiento del grid actual (para el pilar "jóvenes promesa").
@@ -478,6 +499,7 @@ def write_data() -> None:
         "IMPORTANCE":   importance,
         "DRIVERS":      drivers[:10],
         "PROSPECTS":    prospects,
+        "LEGEND_CHASE": build_legend_chase(legends),
         "CONSTRUCTORS": constructors[:5],
         "LAST_WEEKEND": last_weekend,
         "LAST_RACE":    last_race,

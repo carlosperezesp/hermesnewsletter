@@ -355,6 +355,24 @@ def _importance(drivers: list[dict], completed: int, total: int) -> float:
     return round(min(9.5, base), 1)
 
 
+def build_legend_chase(legends: list[dict], top_n: int = 8) -> list[dict]:
+    """Candidato a leyenda: pilotos en activo por trayectoria histórica y distancia al top-10."""
+    ranked = sorted(legends, key=lambda x: x["legendScore"], reverse=True)
+    threshold = ranked[9]["legendScore"] if len(ranked) >= 10 else 0.0
+    chase = []
+    for p in ranked:
+        if not p.get("active"):
+            continue
+        s = p.get("stats", {})
+        gap = round(max(0.0, threshold - p["legendScore"]), 1)
+        tt, ww = s.get('titles', 0), s.get('wins', 0)
+        palmares = f"{tt} título{'' if tt == 1 else 's'} · {ww} victoria{'' if ww == 1 else 's'}"
+        note = (f"Ya en zona top 10 histórico · {palmares}" if p["legendScore"] >= threshold
+                else f"A {gap} del top 10 histórico · {palmares}")
+        chase.append({**p, "gap": gap, "threshold": round(threshold, 1), "note": note})
+    return chase[:top_n]
+
+
 def main() -> int:
     drivers, completed, total = build_standings()
     if not drivers:
@@ -373,6 +391,7 @@ def main() -> int:
         "LEGEND_THRESHOLD": legend_threshold,
         "DRIVERS": drivers,
         "PROSPECTS": _indycar_prospects(drivers),
+        "LEGEND_CHASE": build_legend_chase(legends),
         "LAST_RACE": build_last_race(by_name),
         "CURRENT_CONTENDERS": build_current_contenders(legend_threshold),
         "LEGENDS": legends,

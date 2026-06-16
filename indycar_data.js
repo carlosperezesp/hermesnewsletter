@@ -1,5 +1,5 @@
 window.INDYCAR_DATA = {
-  "UPDATED": "2026-06-15 06:38 UTC",
+  "UPDATED": "2026-06-16 07:12 UTC",
   "SEASON": 2026,
   "ROUND": 9,
   "TOTAL_ROUNDS": 19,
@@ -875,6 +875,104 @@ window.INDYCAR_DATA = {
       "position": 22,
       "age": 25,
       "note": "Irrumpe a los 25 (P22)"
+    }
+  ],
+  "LEGEND_CHASE": [
+    {
+      "id": "scott_dixon",
+      "name": "Scott Dixon",
+      "country": "NZL",
+      "logo": "https://flagcdn.com/24x18/nz.png",
+      "teamCode": "NZL",
+      "primary": "#00247D",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#00247D",
+        "secondary": "#FFFFFF"
+      },
+      "legendScore": 84.1,
+      "active": true,
+      "stats": {
+        "titles": 6,
+        "wins": 58,
+        "poles": 34,
+        "birth": 1980
+      },
+      "gap": 0.0,
+      "threshold": 19.2,
+      "note": "Ya en zona top 10 histórico · 6 títulos · 58 victorias"
+    },
+    {
+      "id": "will_power",
+      "name": "Will Power",
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#00008B",
+        "secondary": "#FFFFFF"
+      },
+      "legendScore": 46.0,
+      "active": true,
+      "stats": {
+        "titles": 2,
+        "wins": 43,
+        "poles": 70,
+        "birth": 1981
+      },
+      "gap": 0.0,
+      "threshold": 19.2,
+      "note": "Ya en zona top 10 histórico · 2 títulos · 43 victorias"
+    },
+    {
+      "id": "alex_palou",
+      "name": "Alex Palou",
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#AA151B",
+        "secondary": "#FFFFFF"
+      },
+      "legendScore": 45.7,
+      "active": true,
+      "stats": {
+        "titles": 4,
+        "wins": 17,
+        "poles": 7,
+        "birth": 1997
+      },
+      "gap": 0.0,
+      "threshold": 19.2,
+      "note": "Ya en zona top 10 histórico · 4 títulos · 17 victorias"
+    },
+    {
+      "id": "josef_newgarden",
+      "name": "Josef Newgarden",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#B22234",
+        "secondary": "#FFFFFF"
+      },
+      "legendScore": 33.3,
+      "active": true,
+      "stats": {
+        "titles": 2,
+        "wins": 31,
+        "poles": 18,
+        "birth": 1990
+      },
+      "gap": 0.0,
+      "threshold": 19.2,
+      "note": "Ya en zona top 10 histórico · 2 títulos · 31 victorias"
     }
   ],
   "LAST_RACE": null,
