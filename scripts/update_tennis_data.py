@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-"""Fetch ATP + WTA singles data from Jeff Sackmann GitHub CSVs and write tennis_data.js."""
+"""Fetch ATP + WTA singles data and write tennis_data.js.
+
+Live current rankings come from ESPN's tennis API (the Jeff Sackmann GitHub
+CSVs that historically fed rankings went offline in June 2026). Historical
+match-level CSVs are still read from the local Sackmann cache for Elo / career
+/ surface stats, which drift slowly and tolerate a frozen cache.
+"""
 from __future__ import annotations
 import csv, hashlib, html, json, math, os, re, sys, time, urllib.request
 from collections import defaultdict
@@ -109,8 +115,11 @@ def _csv(url: str, ttl_hours: float = 720.0) -> list[dict]:
 def _matches(tour: str, year: int) -> list[dict]:
     prefix = "atp_matches" if tour == "atp" else "wta_matches"
     url    = f"{BASE[tour]}/{prefix}_{year}.csv"
-    # current year: corto TTL (2h) para capturas mañana+noche; histórico: 30 días
-    ttl    = 2.0 if year == CURRENT_YEAR else 720.0
+    # The Sackmann match CSVs went offline (June 2026); serve them from cache
+    # without a short TTL so the dead source can't trip the freshness guard.
+    # Recent results now come live from ESPN; these feed slow-moving Elo/career
+    # stats, which tolerate a frozen cache. 720h for every year.
+    ttl    = 720.0
     try:
         return _csv(url, ttl)
     except Exception:
@@ -660,7 +669,126 @@ def _players(tour: str) -> dict[str, dict]:
             out[pid] = r
     return out
 
+# ── ESPN live rankings (Sackmann rankings CSVs went offline June 2026) ────────
+# We pull current ATP/WTA singles rankings from ESPN and map each athlete back
+# to a Sackmann player_id (by normalised full name, with country/age tiebreaks)
+# so the live ranking still joins with the cached Elo / career / surface stats,
+# all of which are keyed by Sackmann player_id.
+
+_ESPN_RANKINGS_URLS = {
+    "atp": "https://site.api.espn.com/apis/site/v2/sports/tennis/atp/rankings",
+    "wta": "https://site.api.espn.com/apis/site/v2/sports/tennis/wta/rankings",
+}
+
+def _strip_accents(s: str) -> str:
+    import unicodedata
+    return "".join(c for c in unicodedata.normalize("NFKD", s) if not unicodedata.combining(c))
+
+def _norm_name(s: str) -> str:
+    s = _strip_accents(s or "").lower()
+    s = re.sub(r"[^a-z ]", " ", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+def _espn_flag_ioc(athlete: dict) -> str:
+    """3-letter country code from an ESPN athlete's flag URL (…/countries/500/ger.png)."""
+    url = athlete.get("flag") or ""
+    m = re.search(r"/countries/\d+/([a-z]{2,3})\.png", url)
+    return m.group(1).upper() if m else ""
+
+def _sackmann_name_index(tour: str) -> "tuple[dict, dict]":
+    """Build (by_fullname → pid, by_last → [(pid, ioc, dob)]) from cached player metadata."""
+    meta = _players(tour)
+    by_full: dict[str, str] = {}
+    by_last: "dict[str, list]" = defaultdict(list)
+    for pid, r in meta.items():
+        first = _norm_name(r.get("name_first", ""))
+        last  = _norm_name(r.get("name_last", ""))
+        ioc   = (r.get("ioc") or "").strip().upper()
+        dob   = (r.get("dob") or "").strip()
+        full  = f"{first} {last}".strip()
+        if full and full not in by_full:
+            by_full[full] = pid
+        if last:
+            by_last[last].append((pid, ioc, dob))
+    return by_full, by_last
+
+def _match_espn_athlete(athlete: dict, by_full: dict, by_last: dict) -> "str | None":
+    first = _norm_name(athlete.get("firstName", ""))
+    last  = _norm_name(athlete.get("lastName", ""))
+    full  = f"{first} {last}".strip()
+    if full in by_full:
+        return by_full[full]
+    disp = _norm_name(athlete.get("displayName", ""))
+    if disp in by_full:
+        return by_full[disp]
+    # Reversed order (e.g. Chinese names ESPN lists family-name-first).
+    if f"{last} {first}" in by_full:
+        return by_full[f"{last} {first}"]
+    # Fallbacks for name-order / spelling differences: last name + country, then age.
+    cands = by_last.get(last, [])
+    if len(cands) == 1:
+        return cands[0][0]
+    ioc = _espn_flag_ioc(athlete)
+    same_ioc = [c for c in cands if c[1] == ioc]
+    if len(same_ioc) == 1:
+        return same_ioc[0][0]
+    age = athlete.get("age")
+    pool = same_ioc or cands
+    if age and pool:
+        try:
+            yr = _date.today().year - int(age)
+            best = min(pool, key=lambda c: abs(int(c[2][:4]) - yr) if c[2][:4].isdigit() else 999)
+            return best[0]
+        except (ValueError, TypeError):
+            pass
+    return None
+
+def _espn_rankings(tour: str) -> list[dict]:
+    """Current singles rankings from ESPN, shaped like the old Sackmann rows:
+    {rank, player(pid), points, ranking_date, previous}. Empty list on failure."""
+    url = _ESPN_RANKINGS_URLS.get(tour)
+    if not url:
+        return []
+    try:
+        # ttl <= 24h → if ESPN is unreachable and the cache is stale, this trips
+        # the freshness guard in write_data() (we never publish without rankings).
+        raw  = _cache_fetch(url, ttl_hours=12.0)
+        data = json.loads(raw)
+    except Exception as exc:
+        print(f"[WARN] ESPN {tour} rankings fetch failed ({exc})", file=sys.stderr)
+        return []
+    groups = data.get("rankings") or []
+    if not groups:
+        return []
+    ranks  = groups[0].get("ranks") or []
+    update = (groups[0].get("update") or "")[:10].replace("-", "")
+    by_full, by_last = _sackmann_name_index(tour)
+    out: list[dict] = []
+    unmapped: list[str] = []
+    for entry in ranks:
+        ath = entry.get("athlete") or {}
+        pid = _match_espn_athlete(ath, by_full, by_last)
+        if not pid:
+            unmapped.append(ath.get("displayName", "?"))
+            continue
+        out.append({
+            "rank":         str(entry.get("current", "")),
+            "player":       pid,
+            "points":       str(entry.get("points") or ""),
+            "ranking_date": update,
+            "previous":     str(entry.get("previous") or ""),
+        })
+    if unmapped:
+        print(f"[{tour.upper()}] ESPN rankings: {len(out)} mapped, "
+              f"{len(unmapped)} unmapped ({', '.join(unmapped[:8])})", file=sys.stderr)
+    return out
+
+
 def _rankings_current(tour: str) -> list[dict]:
+    espn = _espn_rankings(tour)
+    if espn:
+        return espn
+    # Fallback to the legacy Sackmann CSV cache (offline since June 2026).
     prefix = "atp_rankings" if tour == "atp" else "wta_rankings"
     url    = f"{BASE[tour]}/{prefix}_current.csv"
     rows   = _csv(url, ttl_hours=6.0)
@@ -671,6 +799,17 @@ def _rankings_current(tour: str) -> list[dict]:
 
 def _rankings_two_weeks(tour: str) -> tuple[list[dict], list[dict], str, str]:
     """Return (current, previous) weekly rankings and their dates."""
+    espn = _espn_rankings(tour)
+    if espn:
+        curr      = espn
+        curr_date = espn[0].get("ranking_date", "")
+        # Previous-week ranks come from ESPN's per-player `previous` field.
+        prev = [
+            {"rank": r["previous"], "player": r["player"], "ranking_date": ""}
+            for r in espn if r.get("previous") and r["previous"] != "0"
+        ]
+        return curr, prev, curr_date, ""
+    # Fallback to the legacy Sackmann CSV cache.
     prefix = "atp_rankings" if tour == "atp" else "wta_rankings"
     url    = f"{BASE[tour]}/{prefix}_current.csv"
     rows   = _csv(url, ttl_hours=6.0)
