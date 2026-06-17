@@ -171,6 +171,90 @@ _TML_IMPORTANT_TOURNAMENTS: dict[str, dict[str, str]] = {
     "Us Open": {"level": "Grand Slam", "surface": "Hard"},
     "US Open": {"level": "Grand Slam", "surface": "Hard"},
 }
+
+# ── Tournament registry ───────────────────────────────────────────────────────
+# ESPN's scoreboard exposes neither the tour tier nor the court surface, so we
+# curate them for the events worth surfacing in the "current tournament" and
+# "recent results" panels: Grand Slams, the season finals, Masters 1000 /
+# WTA 1000, ATP/WTA 500s, and the team / Olympic events. Each entry's `keys` are
+# matched (lowercase substring) against the ESPN event name *and* its venue city,
+# so sponsor-name changes don't break the mapping. Entries are scanned in order —
+# list higher tiers first. An optional `tour` scopes an entry to one tour for
+# shared cities that differ by tour (e.g. Stuttgart: ATP grass vs WTA clay;
+# Dubai: ATP 500 vs WTA 1000). Review yearly for calendar changes.
+_TOURNAMENT_REGISTRY: list[dict] = [
+    # Grand Slams
+    {"keys": ("australian open", "melbourne"),                  "level": "Grand Slam",    "surface": "Hard"},
+    {"keys": ("roland garros", "french open"),                  "level": "Grand Slam",    "surface": "Clay"},
+    {"keys": ("wimbledon",),                                    "level": "Grand Slam",    "surface": "Grass"},
+    {"keys": ("us open", "flushing"),                           "level": "Grand Slam",    "surface": "Hard"},
+    # Season finals
+    {"keys": ("atp finals", "nitto", "torino", "turin"),        "level": "ATP Finals",    "surface": "Hard"},
+    {"keys": ("wta finals",),                                   "level": "WTA Finals",    "surface": "Hard"},
+    # Team & Olympics
+    {"keys": ("olympic", "jeux olympiques", "juegos olimpicos"),"level": "Juegos Olímpicos","surface": "Hard"},
+    {"keys": ("davis cup",),                                    "level": "Copa Davis",    "surface": "Hard"},
+    {"keys": ("billie jean king cup", "bjk cup", "fed cup"),    "level": "BJK Cup",       "surface": "Hard"},
+    {"keys": ("united cup",),                                   "level": "United Cup",    "surface": "Hard"},
+    # Masters 1000 / WTA 1000
+    {"keys": ("indian wells",),                                 "level": "Masters 1000",  "surface": "Hard"},
+    {"keys": ("miami",),                                        "level": "Masters 1000",  "surface": "Hard"},
+    {"keys": ("monte-carlo", "monte carlo", "monaco"),          "level": "Masters 1000",  "surface": "Clay"},
+    {"keys": ("madrid",),                                       "level": "Masters 1000",  "surface": "Clay"},
+    {"keys": ("internazionali bnl", "italian open", "rome,"),   "level": "Masters 1000",  "surface": "Clay"},
+    {"keys": ("national bank", "toronto", "montreal", "canad"), "level": "Masters 1000",  "surface": "Hard"},
+    {"keys": ("cincinnati",),                                   "level": "Masters 1000",  "surface": "Hard"},
+    {"keys": ("shanghai",),                                     "level": "Masters 1000",  "surface": "Hard"},
+    {"keys": ("rolex paris", "paris masters", "bercy"),         "level": "Masters 1000",  "surface": "Hard"},
+    {"keys": ("china open", "beijing"), "tour": "wta",          "level": "WTA 1000",      "surface": "Hard"},
+    {"keys": ("wuhan",),                                        "level": "WTA 1000",      "surface": "Hard"},
+    {"keys": ("dubai",),                "tour": "wta",          "level": "WTA 1000",      "surface": "Hard"},
+    {"keys": ("qatar", "doha"),         "tour": "wta",          "level": "WTA 1000",      "surface": "Hard"},
+    {"keys": ("guadalajara",),                                  "level": "WTA 1000",      "surface": "Hard"},
+    # ATP 500 / WTA 500
+    {"keys": ("rotterdam",),                                    "level": "ATP 500",       "surface": "Hard"},
+    {"keys": ("rio de janeiro", "rio open"),                    "level": "ATP 500",       "surface": "Clay"},
+    {"keys": ("dubai",),                "tour": "atp",          "level": "ATP 500",       "surface": "Hard"},
+    {"keys": ("acapulco", "mexican open", "abierto mexicano"),  "level": "ATP 500",       "surface": "Hard"},
+    {"keys": ("barcelona",),                                    "level": "ATP 500",       "surface": "Clay"},
+    {"keys": ("munich", "münchen", "munchen", "bmw open"),      "level": "ATP 500",       "surface": "Clay"},
+    {"keys": ("terra wortmann", "halle, germany"),             "level": "ATP 500",       "surface": "Grass"},
+    {"keys": ("queen", "hsbc championships", "cinch champ"),     "level": "ATP 500",       "surface": "Grass"},
+    {"keys": ("hamburg",),                                      "level": "ATP 500",       "surface": "Clay"},
+    {"keys": ("washington", "citi open"),                       "level": "500",           "surface": "Hard"},
+    {"keys": ("vienna", "erste bank"),                          "level": "ATP 500",       "surface": "Hard"},
+    {"keys": ("basel", "swiss indoors"),                        "level": "ATP 500",       "surface": "Hard"},
+    {"keys": ("beijing", "china open"), "tour": "atp",          "level": "ATP 500",       "surface": "Hard"},
+    {"keys": ("tokyo",),                "tour": "atp",          "level": "ATP 500",       "surface": "Hard"},
+    {"keys": ("tokyo", "pan pacific"),  "tour": "wta",          "level": "WTA 500",       "surface": "Hard"},
+    {"keys": ("stuttgart",),            "tour": "wta",          "level": "WTA 500",       "surface": "Clay"},
+    {"keys": ("stuttgart",),            "tour": "atp",          "level": "ATP 250",       "surface": "Grass"},
+    {"keys": ("berlin",),                                       "level": "WTA 500",       "surface": "Grass"},
+    {"keys": ("eastbourne",),                                   "level": "500",           "surface": "Grass"},
+    {"keys": ("charleston",),                                   "level": "WTA 500",       "surface": "Clay"},
+    {"keys": ("adelaide",),                                     "level": "500",           "surface": "Hard"},
+    {"keys": ("ningbo",),                                       "level": "WTA 500",       "surface": "Hard"},
+]
+
+def _classify_tournament(name: str, venue: str = "", tour: str = "") -> "dict | None":
+    """Map an ESPN event (name + venue city) to {level, surface}, or None if it is
+    not a tier we surface. A tour-scoped entry wins when it matches `tour`."""
+    text = f"{name} {venue}".lower()
+    agnostic: dict | None = None
+    for entry in _TOURNAMENT_REGISTRY:
+        if not any(k in text for k in entry["keys"]):
+            continue
+        etour = entry.get("tour")
+        if etour:
+            if etour == tour:
+                return {"level": entry["level"], "surface": entry["surface"]}
+            continue
+        if agnostic is None:
+            agnostic = entry
+    return {"level": agnostic["level"], "surface": agnostic["surface"]} if agnostic else None
+
+def _event_venue(event: dict) -> str:
+    return (event.get("venue", {}) or {}).get("displayName", "") or ""
 _TOUR_SINGLES_GROUP = {
     "atp": "Men's Singles",
     "wta": "Women's Singles",
@@ -353,24 +437,27 @@ def _espn_note_score(note: str) -> str:
     return m.group(1).strip()
 
 
-def _espn_day_matches(scores: dict[str, float], target_date: _date) -> list[dict]:
-    """Fetch real ATP singles matches for a date from ESPN's tournament scoreboard."""
-    url = _ESPN_ATP_SCOREBOARD_URL.format(date=target_date.strftime("%Y%m%d"))
+def _espn_day_matches(scores: dict[str, float], target_date: _date, tour: str = "atp") -> list[dict]:
+    """Fetch real singles matches for a date from ESPN's tournament scoreboard,
+    for any tour tier we surface (Grand Slams, Masters/1000, 500s, finals, …)."""
+    url_tmpl = _ESPN_SCOREBOARD_URLS.get(tour, _ESPN_ATP_SCOREBOARD_URL)
+    url = url_tmpl.format(date=target_date.strftime("%Y%m%d"))
+    singles_group = _TOUR_SINGLES_GROUP.get(tour, "Men's Singles")
     try:
         raw = _cache_fetch(url, ttl_hours=0.5)
         data = json.loads(raw)
     except Exception as exc:
-        print(f"[WARN] ESPN ATP scoreboard unavailable: {exc}", file=sys.stderr)
+        print(f"[WARN] ESPN {tour.upper()} scoreboard unavailable: {exc}", file=sys.stderr)
         return []
 
     grouped: dict[str, dict] = {}
     for event in data.get("events", []):
         tournament = event.get("name", "")
-        info = _TML_IMPORTANT_TOURNAMENTS.get(tournament)
+        info = _classify_tournament(tournament, _event_venue(event), tour)
         if not info:
             continue
         for grouping in event.get("groupings", []):
-            if grouping.get("grouping", {}).get("displayName") != "Men's Singles":
+            if grouping.get("grouping", {}).get("displayName") != singles_group:
                 continue
             for comp in grouping.get("competitions", []):
                 comp_date = (comp.get("date") or "")[:10]
@@ -429,7 +516,8 @@ def _espn_day_matches(scores: dict[str, float], target_date: _date) -> list[dict
 
 
 def _espn_current_tournament_status(tour: str, players: list[dict]) -> dict:
-    """Return current Grand Slam/Masters singles survival state from ESPN's draw data."""
+    """Return the current tournament's singles survival state from ESPN's draw data,
+    for any tier we surface (Grand Slams, Masters/1000, 500s, finals, team events)."""
     url_tmpl = _ESPN_SCOREBOARD_URLS.get(tour, _ESPN_ATP_SCOREBOARD_URL)
     url = url_tmpl.format(date=_date.today().strftime("%Y%m%d"))
     try:
@@ -445,7 +533,7 @@ def _espn_current_tournament_status(tour: str, players: list[dict]) -> dict:
     selected_info: dict[str, str] = {}
     for event in data.get("events", []):
         name = event.get("name", "")
-        info = _TML_IMPORTANT_TOURNAMENTS.get(name)
+        info = _classify_tournament(name, _event_venue(event), tour)
         if not info:
             continue
         try:
@@ -1576,17 +1664,20 @@ def write_data() -> None:
     today = _date.today()
     yesterday = today - timedelta(days=1)
     atp_recent = (
-        _espn_day_matches(atp_score_lookup, yesterday)
+        _espn_day_matches(atp_score_lookup, yesterday, "atp")
         or _tml_recent_results(atp_score_lookup, "yesterday")
         or _recent_results("atp", atp_score_lookup)
     )
     atp_today  = (
-        _espn_day_matches(atp_score_lookup, today)
+        _espn_day_matches(atp_score_lookup, today, "atp")
         or _tml_today_schedule(atp_score_lookup)
         or _tml_recent_results(atp_score_lookup, "today")
     )
-    wta_recent = _recent_results("wta", wta_score_lookup)
-    wta_today: list[dict] = []
+    wta_recent = (
+        _espn_day_matches(wta_score_lookup, yesterday, "wta")
+        or _recent_results("wta", wta_score_lookup)
+    )
+    wta_today = _espn_day_matches(wta_score_lookup, today, "wta")
 
     # Actualizar histórico de Nivel y fijar prevActiveScore = Nivel de hace ~7 días,
     # para que el chip refleje la subida/bajada por desempeño de la última semana.

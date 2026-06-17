@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-17 08:06 UTC
+// Auto-generated 2026-06-17 09:00 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-17 08:06 UTC",
+  "UPDATED": "2026-06-17 09:00 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -28,6 +28,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 16.0,
       "prevListRank": 1,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 100.0
     },
     {
@@ -58,6 +64,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 6.0,
       "leyendaScore": 25.9,
       "prevListRank": 2,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 97.1
     },
     {
@@ -86,6 +98,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 3.4,
       "prevListRank": 3,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 87.4
     },
     {
@@ -114,6 +132,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 100.0,
       "prevListRank": 4,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 87.4
     },
     {
@@ -142,6 +166,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 5,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 82.7
     },
     {
@@ -170,6 +200,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 6,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 81.1
     },
     {
@@ -198,6 +234,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 7,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 79.3
     },
     {
@@ -226,6 +268,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 8,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 79.1
     },
     {
@@ -254,6 +302,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 3.4,
       "prevListRank": 9,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 78.7
     },
     {
@@ -282,6 +336,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 10,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 78.0
     },
     {
@@ -310,6 +370,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 11,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 77.7
     },
     {
@@ -338,6 +404,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 12,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 77.0
     },
     {
@@ -366,6 +438,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 13,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 76.5
     },
     {
@@ -394,6 +472,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 14,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 76.4
     },
     {
@@ -422,6 +506,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 15,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 76.0
     },
     {
@@ -450,6 +540,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 16,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 75.7
     },
     {
@@ -478,6 +574,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 17,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 75.4
     },
     {
@@ -506,6 +608,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 18,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 75.3
     },
     {
@@ -534,6 +642,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 19,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 74.7
     },
     {
@@ -562,6 +676,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 20,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 74.8
     },
     {
@@ -590,6 +710,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 21,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 73.7
     },
     {
@@ -618,6 +744,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 22,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 73.7
     },
     {
@@ -646,6 +778,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 23,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 73.3
     },
     {
@@ -674,6 +812,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 24,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 72.8
     },
     {
@@ -702,6 +846,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 25,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 72.1
     },
     {
@@ -730,6 +880,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 26,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 71.0
     },
     {
@@ -758,6 +914,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 27,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 68.3
     },
     {
@@ -786,6 +948,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 28,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 68.0
     },
     {
@@ -814,6 +982,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 29,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 67.5
     },
     {
@@ -842,6 +1016,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 30,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 67.4
     },
     {
@@ -870,6 +1050,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 31,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 66.6
     },
     {
@@ -898,6 +1084,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 32,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 66.8
     },
     {
@@ -926,6 +1118,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 33,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 66.4
     },
     {
@@ -954,6 +1152,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 34,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 66.2
     },
     {
@@ -982,6 +1186,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 35,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 66.2
     },
     {
@@ -1010,6 +1220,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 36,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 66.0
     },
     {
@@ -1038,6 +1254,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 37,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 65.9
     },
     {
@@ -1066,6 +1288,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 38,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 66.1
     },
     {
@@ -1096,6 +1324,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
       "prevListRank": 39,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 71.5
     },
     {
@@ -1124,6 +1358,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 40,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 65.3
     },
     {
@@ -1152,6 +1392,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 41,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 65.2
     },
     {
@@ -1180,6 +1426,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 42,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 65.0
     },
     {
@@ -1208,6 +1460,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 43,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 64.4
     },
     {
@@ -1236,6 +1494,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 44,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 63.5
     },
     {
@@ -1264,6 +1528,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 45,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 63.0
     },
     {
@@ -1292,6 +1562,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 46,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 62.6
     },
     {
@@ -1322,6 +1598,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
       "prevListRank": 47,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 68.6
     },
     {
@@ -1350,6 +1632,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 48,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 62.4
     },
     {
@@ -1378,6 +1666,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 49,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 62.2
     },
     {
@@ -1406,6 +1700,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 3.4,
       "prevListRank": 50,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 61.9
     },
     {
@@ -1434,6 +1734,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 51,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 61.5
     },
     {
@@ -1462,6 +1768,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 52,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 61.8
     },
     {
@@ -1490,6 +1802,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 53,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 61.7
     },
     {
@@ -1518,6 +1836,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 54,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 61.2
     },
     {
@@ -1546,6 +1870,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 55,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 61.1
     },
     {
@@ -1574,6 +1904,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 56,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 61.3
     },
     {
@@ -1602,6 +1938,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 57,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 60.1
     },
     {
@@ -1630,6 +1972,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 58,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 56.9
     },
     {
@@ -1658,6 +2006,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 59,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 60.1
     },
     {
@@ -1686,6 +2040,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 60,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 60.0
     },
     {
@@ -1714,6 +2074,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 61,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 59.5
     },
     {
@@ -1742,6 +2108,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 62,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 59.3
     },
     {
@@ -1770,6 +2142,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 63,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 59.0
     },
     {
@@ -1798,6 +2176,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 64,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 59.0
     },
     {
@@ -1826,6 +2210,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 65,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 59.3
     },
     {
@@ -1854,6 +2244,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 66,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 58.6
     },
     {
@@ -1882,6 +2278,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 67,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 58.7
     },
     {
@@ -1910,6 +2312,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 68,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 58.5
     },
     {
@@ -1938,6 +2346,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 69,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 58.3
     },
     {
@@ -1966,6 +2380,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 70,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 58.2
     },
     {
@@ -1994,6 +2414,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 71,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 57.8
     },
     {
@@ -2022,6 +2448,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 72,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 57.4
     },
     {
@@ -2050,6 +2482,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 73,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 57.5
     },
     {
@@ -2078,6 +2516,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 74,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 60.5
     },
     {
@@ -2106,6 +2550,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 75,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 56.6
     },
     {
@@ -2134,6 +2584,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 76,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 58.1
     },
     {
@@ -2162,6 +2618,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 77,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 57.4
     },
     {
@@ -2190,6 +2652,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 78,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 55.3
     },
     {
@@ -2218,6 +2686,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 79,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 56.6
     },
     {
@@ -2248,6 +2722,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 80,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 71.2
     },
     {
@@ -2276,6 +2756,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 81,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 55.8
     },
     {
@@ -2304,6 +2790,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 82,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 55.5
     },
     {
@@ -2334,6 +2826,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
       "prevListRank": 83,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 68.8
     },
     {
@@ -2362,6 +2860,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 84,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 55.2
     },
     {
@@ -2390,6 +2894,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 85,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 55.2
     },
     {
@@ -2418,6 +2928,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 86,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 55.0
     },
     {
@@ -2446,6 +2962,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 87,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 54.6
     },
     {
@@ -2474,6 +2996,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 88,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 53.5
     },
     {
@@ -2502,6 +3030,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 89,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 54.4
     },
     {
@@ -2530,6 +3064,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 90,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 54.3
     },
     {
@@ -2558,6 +3098,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 91,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 54.3
     },
     {
@@ -2586,6 +3132,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 92,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 53.9
     },
     {
@@ -2614,6 +3166,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 93,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 53.7
     },
     {
@@ -2642,6 +3200,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 94,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 53.1
     },
     {
@@ -2670,6 +3234,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 95,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 53.5
     },
     {
@@ -2698,6 +3268,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 96,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 53.4
     },
     {
@@ -2726,6 +3302,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 97,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 53.5
     },
     {
@@ -2754,6 +3336,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 98,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 54.7
     },
     {
@@ -2782,6 +3370,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 99,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 53.0
     },
     {
@@ -2810,6 +3404,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 100,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 52.5
     },
     {
@@ -2838,6 +3438,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 101,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 52.1
     },
     {
@@ -2866,6 +3472,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 102,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 53.4
     },
     {
@@ -2894,6 +3506,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 103,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 51.8
     },
     {
@@ -2922,6 +3540,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 104,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 51.7
     },
     {
@@ -2950,6 +3574,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 105,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 51.5
     },
     {
@@ -2978,6 +3608,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 106,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 51.2
     },
     {
@@ -3006,6 +3642,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 107,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 51.4
     },
     {
@@ -3034,6 +3676,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 108,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 51.0
     },
     {
@@ -3062,6 +3710,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 109,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 50.6
     },
     {
@@ -3090,6 +3744,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 110,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 50.6
     },
     {
@@ -3118,6 +3778,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 111,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 50.6
     },
     {
@@ -3146,6 +3812,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 112,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 49.6
     },
     {
@@ -3176,6 +3848,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 3.4,
       "leyendaScore": 0.0,
       "prevListRank": 113,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 53.7
     },
     {
@@ -3204,6 +3882,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 114,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 49.2
     },
     {
@@ -3232,6 +3916,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 115,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 49.2
     },
     {
@@ -3260,6 +3950,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 116,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 48.8
     },
     {
@@ -3288,6 +3984,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 117,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 48.0
     },
     {
@@ -3316,6 +4018,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 118,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 48.0
     },
     {
@@ -3344,6 +4052,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 119,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 47.9
     },
     {
@@ -3372,6 +4086,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 120,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 47.7
     },
     {
@@ -3400,6 +4120,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 121,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 47.9
     },
     {
@@ -3428,6 +4154,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 122,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 47.6
     },
     {
@@ -3456,6 +4188,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 123,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 47.3
     },
     {
@@ -3486,6 +4224,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
       "prevListRank": 124,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 59.8
     },
     {
@@ -3516,6 +4260,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 3.4,
       "leyendaScore": 0.0,
       "prevListRank": 125,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 49.9
     },
     {
@@ -3544,6 +4294,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 126,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 45.7
     },
     {
@@ -3572,6 +4328,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 127,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 45.9
     },
     {
@@ -3602,6 +4364,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
       "prevListRank": 128,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 55.4
     },
     {
@@ -3632,6 +4400,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
       "prevListRank": 129,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 54.8
     },
     {
@@ -3662,6 +4436,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 130,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 59.9
     },
     {
@@ -3690,6 +4470,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 10.3,
       "prevListRank": 131,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 44.5
     },
     {
@@ -3720,6 +4506,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 132,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 59.3
     },
     {
@@ -3748,6 +4540,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 133,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 44.1
     },
     {
@@ -3776,6 +4574,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 134,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 42.6
     },
     {
@@ -3806,6 +4610,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 3.4,
       "leyendaScore": 0.0,
       "prevListRank": 135,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 45.7
     },
     {
@@ -3836,6 +4646,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 136,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 56.9
     },
     {
@@ -3866,6 +4682,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
       "prevListRank": 137,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 54.6
     },
     {
@@ -3894,6 +4716,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 138,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 40.6
     },
     {
@@ -3924,6 +4752,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
       "prevListRank": 139,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 49.1
     },
     {
@@ -3954,6 +4788,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
       "prevListRank": 140,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 43.2
     },
     {
@@ -3984,6 +4824,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 141,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 51.2
     },
     {
@@ -4014,6 +4860,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
       "prevListRank": 142,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 46.2
     },
     {
@@ -4044,6 +4896,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 143,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 50.0
     },
     {
@@ -4074,6 +4932,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 144,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 50.0
     },
     {
@@ -4104,6 +4968,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
       "prevListRank": 145,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 48.4
     },
     {
@@ -4134,6 +5004,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 146,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 50.0
     },
     {
@@ -4164,6 +5040,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 147,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 50.0
     },
     {
@@ -4194,6 +5076,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
       "prevListRank": 148,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 48.4
     },
     {
@@ -4224,6 +5112,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 149,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 50.0
     },
     {
@@ -4254,6 +5148,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 150,
+      "tournamentStatus": {
+        "tournament": "Terra Wortmann Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Terra Wortmann Open"
+      },
       "prevActiveScore": 50.0
     }
   ],
@@ -4284,6 +5184,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 22.2,
       "prevListRank": 1,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 100.0
     },
     {
@@ -4312,6 +5218,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 7.4,
       "prevListRank": 2,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 93.3
     },
     {
@@ -4340,6 +5252,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 3.7,
       "prevListRank": 3,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 91.9
     },
     {
@@ -4368,6 +5286,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 30.5,
       "prevListRank": 4,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 91.4
     },
     {
@@ -4396,6 +5320,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 7.4,
       "prevListRank": 5,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 91.1
     },
     {
@@ -4424,6 +5354,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 6,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 90.5
     },
     {
@@ -4452,6 +5388,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 7,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 90.5
     },
     {
@@ -4480,6 +5422,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 8,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 90.2
     },
     {
@@ -4508,6 +5456,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 9,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 86.7
     },
     {
@@ -4536,6 +5490,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 10,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 85.9
     },
     {
@@ -4564,6 +5524,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 11,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 85.8
     },
     {
@@ -4592,6 +5558,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 12,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 85.3
     },
     {
@@ -4620,6 +5592,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 13,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 84.9
     },
     {
@@ -4648,6 +5626,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 14,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 81.1
     },
     {
@@ -4676,6 +5660,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 3.7,
       "prevListRank": 15,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 80.7
     },
     {
@@ -4704,6 +5694,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 16,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 80.2
     },
     {
@@ -4732,6 +5728,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 14.8,
       "prevListRank": 17,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 80.2
     },
     {
@@ -4760,6 +5762,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 18,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 78.6
     },
     {
@@ -4788,6 +5796,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 19,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 77.0
     },
     {
@@ -4816,6 +5830,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 20,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 77.2
     },
     {
@@ -4844,6 +5864,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 21,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 76.3
     },
     {
@@ -4872,6 +5898,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 22,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 76.3
     },
     {
@@ -4900,6 +5932,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 23,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 74.7
     },
     {
@@ -4928,6 +5966,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 24,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 72.4
     },
     {
@@ -4956,6 +6000,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 25,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 72.2
     },
     {
@@ -4984,6 +6034,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 26,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 70.4
     },
     {
@@ -5012,6 +6068,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 7.4,
       "prevListRank": 27,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 70.9
     },
     {
@@ -5040,6 +6102,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 28,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 71.3
     },
     {
@@ -5068,6 +6136,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 3.7,
       "prevListRank": 29,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 71.4
     },
     {
@@ -5096,6 +6170,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 30,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 70.2
     },
     {
@@ -5124,6 +6204,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 31,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 69.6
     },
     {
@@ -5152,6 +6238,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 32,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 69.1
     },
     {
@@ -5180,6 +6272,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 33,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 69.3
     },
     {
@@ -5208,6 +6306,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 34,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 68.4
     },
     {
@@ -5236,6 +6340,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 35,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 68.0
     },
     {
@@ -5264,6 +6374,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 36,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 67.8
     },
     {
@@ -5292,6 +6408,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 3.7,
       "prevListRank": 37,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 65.7
     },
     {
@@ -5320,6 +6442,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 38,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 67.1
     },
     {
@@ -5348,6 +6476,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 39,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 63.9
     },
     {
@@ -5376,6 +6510,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 40,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 65.7
     },
     {
@@ -5404,6 +6544,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 41,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 66.4
     },
     {
@@ -5432,6 +6578,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 42,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 64.1
     },
     {
@@ -5460,6 +6612,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 43,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 65.8
     },
     {
@@ -5488,6 +6646,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 44,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 66.0
     },
     {
@@ -5516,6 +6680,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 45,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 65.7
     },
     {
@@ -5546,6 +6716,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 3.7,
       "prevListRank": 46,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 80.2
     },
     {
@@ -5574,6 +6750,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 47,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 65.7
     },
     {
@@ -5602,6 +6784,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 48,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 65.1
     },
     {
@@ -5632,6 +6820,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
       "prevListRank": 49,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 68.6
     },
     {
@@ -5660,6 +6854,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 50,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 64.7
     },
     {
@@ -5688,6 +6888,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 51,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 63.8
     },
     {
@@ -5716,6 +6922,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 52,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 63.7
     },
     {
@@ -5744,6 +6956,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 53,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 63.7
     },
     {
@@ -5772,6 +6990,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 54,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 63.2
     },
     {
@@ -5800,6 +7024,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 55,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 62.2
     },
     {
@@ -5828,6 +7058,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 56,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 62.5
     },
     {
@@ -5856,6 +7092,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 57,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 62.8
     },
     {
@@ -5884,6 +7126,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 58,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 62.3
     },
     {
@@ -5912,6 +7160,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 59,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 62.0
     },
     {
@@ -5940,6 +7194,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 60,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 56.1
     },
     {
@@ -5968,6 +7228,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 61,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 61.7
     },
     {
@@ -5996,6 +7262,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 62,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 63.4
     },
     {
@@ -6024,6 +7296,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 63,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 61.3
     },
     {
@@ -6052,6 +7330,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 64,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 60.5
     },
     {
@@ -6080,6 +7364,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 65,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 60.8
     },
     {
@@ -6108,6 +7398,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 66,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 60.1
     },
     {
@@ -6136,6 +7432,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 67,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 58.8
     },
     {
@@ -6164,6 +7466,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 68,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 59.4
     },
     {
@@ -6192,6 +7500,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 69,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 59.1
     },
     {
@@ -6220,6 +7534,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 70,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 58.0
     },
     {
@@ -6248,6 +7568,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 71,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 58.0
     },
     {
@@ -6276,6 +7602,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 72,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 58.4
     },
     {
@@ -6304,6 +7636,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 73,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 58.2
     },
     {
@@ -6332,6 +7670,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 74,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 58.1
     },
     {
@@ -6360,6 +7704,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 75,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 58.0
     },
     {
@@ -6388,6 +7738,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 76,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 58.2
     },
     {
@@ -6416,6 +7772,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 77,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 57.3
     },
     {
@@ -6444,6 +7806,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 78,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 57.3
     },
     {
@@ -6472,6 +7840,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 79,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 57.4
     },
     {
@@ -6500,6 +7874,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 80,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 56.9
     },
     {
@@ -6528,6 +7908,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 81,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 56.7
     },
     {
@@ -6556,6 +7942,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 82,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 57.4
     },
     {
@@ -6584,6 +7976,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 83,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 55.6
     },
     {
@@ -6612,6 +8010,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 84,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 55.1
     },
     {
@@ -6640,6 +8044,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 85,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 55.4
     },
     {
@@ -6668,6 +8078,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 86,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 54.2
     },
     {
@@ -6696,6 +8112,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 87,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 51.8
     },
     {
@@ -6724,6 +8146,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 88,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 53.1
     },
     {
@@ -6752,6 +8180,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 3.7,
       "prevListRank": 89,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 53.3
     },
     {
@@ -6780,6 +8214,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 90,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 53.1
     },
     {
@@ -6810,6 +8250,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
       "prevListRank": 91,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 56.7
     },
     {
@@ -6838,6 +8284,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 92,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 52.9
     },
     {
@@ -6866,6 +8318,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 93,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 53.0
     },
     {
@@ -6894,6 +8352,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 94,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 51.8
     },
     {
@@ -6922,6 +8386,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 95,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 51.6
     },
     {
@@ -6952,6 +8422,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
       "prevListRank": 96,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 57.4
     },
     {
@@ -6980,6 +8456,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 97,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 50.2
     },
     {
@@ -7010,6 +8492,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
       "prevListRank": 98,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 56.5
     },
     {
@@ -7040,6 +8528,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
       "prevListRank": 99,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 54.1
     },
     {
@@ -7070,6 +8564,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
       "prevListRank": 100,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 60.4
     },
     {
@@ -7098,6 +8598,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 101,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 50.2
     },
     {
@@ -7126,6 +8632,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 102,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 50.0
     },
     {
@@ -7154,6 +8666,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 103,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 55.9
     },
     {
@@ -7182,6 +8700,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 104,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 49.9
     },
     {
@@ -7212,6 +8736,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 105,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 64.8
     },
     {
@@ -7240,6 +8770,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 106,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 49.7
     },
     {
@@ -7268,6 +8804,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 107,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 49.0
     },
     {
@@ -7296,6 +8838,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 108,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 48.7
     },
     {
@@ -7326,6 +8874,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 109,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 64.6
     },
     {
@@ -7354,6 +8908,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 110,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 47.4
     },
     {
@@ -7382,6 +8942,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 111,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 47.3
     },
     {
@@ -7410,6 +8976,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 112,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 47.1
     },
     {
@@ -7438,6 +9010,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 113,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 47.6
     },
     {
@@ -7468,6 +9046,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 114,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 61.8
     },
     {
@@ -7498,6 +9082,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
       "prevListRank": 115,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 52.7
     },
     {
@@ -7526,6 +9116,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 116,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 46.6
     },
     {
@@ -7554,6 +9150,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 117,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 46.4
     },
     {
@@ -7582,6 +9184,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 118,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 46.0
     },
     {
@@ -7610,6 +9218,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 119,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 45.0
     },
     {
@@ -7638,6 +9252,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 120,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 44.9
     },
     {
@@ -7668,6 +9288,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
       "prevListRank": 121,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 48.3
     },
     {
@@ -7698,6 +9324,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
       "prevListRank": 122,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 48.0
     },
     {
@@ -7728,6 +9360,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
       "prevListRank": 123,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 50.0
     },
     {
@@ -7756,6 +9394,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 124,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 43.3
     },
     {
@@ -7784,6 +9428,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 125,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 43.4
     },
     {
@@ -7814,6 +9464,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 13.7,
       "leyendaScore": 0.0,
       "prevListRank": 126,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 56.7
     },
     {
@@ -7842,6 +9498,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 127,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 42.4
     },
     {
@@ -7870,6 +9532,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 128,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 42.1
     },
     {
@@ -7900,6 +9568,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
       "prevListRank": 129,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 45.5
     },
     {
@@ -7928,6 +9602,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 130,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 41.7
     },
     {
@@ -7956,6 +9636,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 131,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 41.2
     },
     {
@@ -7986,6 +9672,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
       "prevListRank": 132,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 51.1
     },
     {
@@ -8016,6 +9708,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 133,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 55.8
     },
     {
@@ -8046,6 +9744,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
       "prevListRank": 134,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 50.4
     },
     {
@@ -8076,6 +9780,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 135,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 54.2
     },
     {
@@ -8106,6 +9816,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
       "prevListRank": 136,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 48.9
     },
     {
@@ -8136,6 +9852,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 137,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 53.1
     },
     {
@@ -8166,6 +9888,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 138,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 52.9
     },
     {
@@ -8194,6 +9922,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 139,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 37.4
     },
     {
@@ -8224,6 +9958,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 140,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 51.6
     },
     {
@@ -8254,6 +9994,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 141,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 51.6
     },
     {
@@ -8284,6 +10030,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
       "prevListRank": 142,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 46.3
     },
     {
@@ -8314,6 +10066,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 143,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 51.1
     },
     {
@@ -8344,6 +10102,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
       "prevListRank": 144,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 46.0
     },
     {
@@ -8374,6 +10138,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 145,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 50.9
     },
     {
@@ -8404,6 +10174,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
       "prevListRank": 146,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 45.3
     },
     {
@@ -8434,6 +10210,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
       "prevListRank": 147,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 45.0
     },
     {
@@ -8462,6 +10244,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 148,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 35.0
     },
     {
@@ -8492,6 +10280,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 149,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 50.0
     },
     {
@@ -8522,6 +10316,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 150,
+      "tournamentStatus": {
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+      },
       "prevActiveScore": 50.0
     }
   ],
@@ -9073,12 +10873,646 @@ window.TENNIS_DATA = {
       }
     }
   ],
-  "ATP_RECENT": [],
-  "ATP_TODAY": [],
-  "WTA_RECENT": [],
-  "WTA_TODAY": [],
-  "ATP_TOURNAMENT": {},
-  "WTA_TOURNAMENT": {},
+  "ATP_RECENT": [
+    {
+      "name": "Terra Wortmann Open",
+      "level": "ATP 500",
+      "surface": "Grass",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Alexander Zverev",
+          "w_logo": "",
+          "l": "Vit Kopriva",
+          "l_logo": "",
+          "score": "6-3 4-6 6-2",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 87.4,
+          "l_score": 60.1,
+          "match_score": 87.4
+        },
+        {
+          "round": "R128",
+          "w": "Daniil Medvedev",
+          "w_logo": "",
+          "l": "Tomas Martin Etcheverry",
+          "l_logo": "",
+          "score": "6-3 6-4",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 78.8,
+          "l_score": 65.1,
+          "match_score": 78.8
+        },
+        {
+          "round": "R128",
+          "w": "Mattia Bellucci",
+          "w_logo": "",
+          "l": "Alexander Bublik",
+          "l_logo": "",
+          "score": "7-6 (8-6) 6-1",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 53.5,
+          "l_score": 75.9,
+          "match_score": 75.9
+        },
+        {
+          "round": "R128",
+          "w": "Hubert Hurkacz",
+          "w_logo": "",
+          "l": "Andrey Rublev",
+          "l_logo": "",
+          "score": "6-3 6-2",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 59.5,
+          "l_score": 75.3,
+          "match_score": 75.3
+        },
+        {
+          "round": "R128",
+          "w": "Yannick Hanfmann",
+          "w_logo": "",
+          "l": "Joao Fonseca",
+          "l_logo": "",
+          "score": "6-2 6-2",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 61.7,
+          "l_score": 73.7,
+          "match_score": 73.7
+        },
+        {
+          "round": "R128",
+          "w": "Ethan Quinn",
+          "w_logo": "",
+          "l": "Karen Khachanov",
+          "l_logo": "",
+          "score": "1-6 6-4 6-4",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 50.6,
+          "l_score": 70.5,
+          "match_score": 70.5
+        },
+        {
+          "round": "R128",
+          "w": "Sho Shimabukuro",
+          "w_logo": "",
+          "l": "Tallon Griekspoor",
+          "l_logo": "",
+          "score": "6-4 3-6 6-4",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 35.0,
+          "l_score": 66.0,
+          "match_score": 66.0
+        },
+        {
+          "round": "R128",
+          "w": "Raphael Collignon",
+          "w_logo": "",
+          "l": "Alexei Popyrin",
+          "l_logo": "",
+          "score": "6-4 6-2",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 62.6,
+          "l_score": 55.1,
+          "match_score": 62.6
+        }
+      ]
+    },
+    {
+      "name": "HSBC Championships",
+      "level": "ATP 500",
+      "surface": "Grass",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Alex de Minaur",
+          "w_logo": "",
+          "l": "Gabriel Diallo",
+          "l_logo": "",
+          "score": "7-6 (10-8) 6-3",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 76.9,
+          "l_score": 57.1,
+          "match_score": 76.9
+        },
+        {
+          "round": "R128",
+          "w": "Jiri Lehecka",
+          "w_logo": "",
+          "l": "Kamil Majchrzak",
+          "l_logo": "",
+          "score": "7-5 7-6 (7-4)",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 76.3,
+          "l_score": 60.1,
+          "match_score": 76.3
+        },
+        {
+          "round": "R128",
+          "w": "Francisco Cerundolo",
+          "w_logo": "",
+          "l": "Aleksandar Kovacevic",
+          "l_logo": "",
+          "score": "6-4 6-7 (5-7) 6-2",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 73.3,
+          "l_score": 54.3,
+          "match_score": 73.3
+        },
+        {
+          "round": "R128",
+          "w": "Alejandro Davidovich Fokina",
+          "w_logo": "",
+          "l": "Cameron Norrie",
+          "l_logo": "",
+          "score": "7-6 (8-6) 6-2",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 72.7,
+          "l_score": 67.2,
+          "match_score": 72.7
+        },
+        {
+          "round": "R128",
+          "w": "Ignacio Buse",
+          "w_logo": "",
+          "l": "Marcos Giron",
+          "l_logo": "",
+          "score": "3-6 7-5 7-6 (10-8)",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 68.2,
+          "l_score": 54.6,
+          "match_score": 68.2
+        },
+        {
+          "round": "R128",
+          "w": "Brandon Nakashima",
+          "w_logo": "",
+          "l": "Marton Fucsovics",
+          "l_logo": "",
+          "score": "6-3 6-3",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 67.4,
+          "l_score": 58.0,
+          "match_score": 67.4
+        },
+        {
+          "round": "R128",
+          "w": "Rinky Hijikata",
+          "w_logo": "",
+          "l": "Alejandro Tabilo",
+          "l_logo": "",
+          "score": "6-2 6-4",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 48.0,
+          "l_score": 66.4,
+          "match_score": 66.4
+        },
+        {
+          "round": "R128",
+          "w": "Ugo Humbert",
+          "w_logo": "",
+          "l": "Marin Cilic",
+          "l_logo": "",
+          "score": "7-5 6-3",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 66.1,
+          "l_score": 61.9,
+          "match_score": 66.1
+        }
+      ]
+    }
+  ],
+  "ATP_TODAY": [
+    {
+      "name": "Terra Wortmann Open",
+      "level": "ATP 500",
+      "surface": "Grass",
+      "matches": [
+        {
+          "round": "R64",
+          "w": "Daniil Medvedev",
+          "w_logo": "",
+          "l": "Terence Atmane",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 78.8,
+          "l_score": 59.0,
+          "match_score": 78.8
+        },
+        {
+          "round": "R64",
+          "w": "Felix Auger-Aliassime",
+          "w_logo": "",
+          "l": "Learner Tien",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 77.6,
+          "l_score": 74.6,
+          "match_score": 77.6
+        },
+        {
+          "round": "R128",
+          "w": "Ben Shelton",
+          "w_logo": "",
+          "l": "Lorenzo Sonego",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 76.4,
+          "l_score": 56.7,
+          "match_score": 76.4
+        },
+        {
+          "round": "R128",
+          "w": "Taylor Fritz",
+          "w_logo": "",
+          "l": "Zizou Bergs",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 75.7,
+          "l_score": 60.4,
+          "match_score": 75.7
+        },
+        {
+          "round": "R64",
+          "w": "Frances Tiafoe",
+          "w_logo": "",
+          "l": "Sho Shimabukuro",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 73.5,
+          "l_score": 35.0,
+          "match_score": 73.5
+        },
+        {
+          "round": "R64",
+          "w": "Hubert Hurkacz",
+          "w_logo": "",
+          "l": "Daniel Altmaier",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 59.5,
+          "l_score": 52.5,
+          "match_score": 59.5
+        }
+      ]
+    },
+    {
+      "name": "HSBC Championships",
+      "level": "ATP 500",
+      "surface": "Grass",
+      "matches": [
+        {
+          "round": "R64",
+          "w": "Alex de Minaur",
+          "w_logo": "",
+          "l": "Denis Shapovalov",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 76.9,
+          "l_score": 60.1,
+          "match_score": 76.9
+        },
+        {
+          "round": "R64",
+          "w": "Francisco Cerundolo",
+          "w_logo": "",
+          "l": "Jenson Brooksby",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 73.3,
+          "l_score": 58.6,
+          "match_score": 73.3
+        },
+        {
+          "round": "R64",
+          "w": "Ignacio Buse",
+          "w_logo": "",
+          "l": "Brandon Nakashima",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 68.2,
+          "l_score": 67.4,
+          "match_score": 68.2
+        },
+        {
+          "round": "R64",
+          "w": "Adrian Mannarino",
+          "w_logo": "",
+          "l": "Arthur Fery",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 54.7,
+          "l_score": 41.1,
+          "match_score": 54.7
+        }
+      ]
+    }
+  ],
+  "WTA_RECENT": [
+    {
+      "name": "VANDA Pharmaceuticals Berlin Tennis Open",
+      "level": "WTA 500",
+      "surface": "Grass",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Elina Svitolina",
+          "w_logo": "",
+          "l": "Anna Kalinskaya",
+          "l_logo": "",
+          "score": "6-1 4-1 ret",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 90.5,
+          "l_score": 77.0,
+          "match_score": 90.5
+        },
+        {
+          "round": "R128",
+          "w": "Karolina Muchova",
+          "w_logo": "",
+          "l": "Zhang Shuai",
+          "l_logo": "",
+          "score": "6-1 6-3",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 85.8,
+          "l_score": null,
+          "match_score": 85.8
+        },
+        {
+          "round": "R128",
+          "w": "Madison Keys",
+          "w_logo": "",
+          "l": "Wang Xinyu",
+          "l_logo": "",
+          "score": "7-6 (7-3) 6-1",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 80.5,
+          "l_score": null,
+          "match_score": 80.5
+        },
+        {
+          "round": "R128",
+          "w": "Linda Noskova",
+          "w_logo": "",
+          "l": "Renata Zarazua",
+          "l_logo": "",
+          "score": "6-1 6-4",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 78.6,
+          "l_score": 52.9,
+          "match_score": 78.6
+        },
+        {
+          "round": "R128",
+          "w": "Diane Parry",
+          "w_logo": "",
+          "l": "Clara Tauson",
+          "l_logo": "",
+          "score": "6-3 6-4",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 65.0,
+          "l_score": 67.9,
+          "match_score": 67.9
+        },
+        {
+          "round": "R128",
+          "w": "Katerina Siniakova",
+          "w_logo": "",
+          "l": "Rebeka Masarova",
+          "l_logo": "",
+          "score": "6-2 6-4",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 64.9,
+          "l_score": 62.8,
+          "match_score": 64.9
+        },
+        {
+          "round": "R128",
+          "w": "Eva Lys",
+          "w_logo": "",
+          "l": "Magdalena Frech",
+          "l_logo": "",
+          "score": "7-6 (9-7) 6-3",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 60.8,
+          "l_score": 58.0,
+          "match_score": 60.8
+        },
+        {
+          "round": "R128",
+          "w": "Paula Badosa",
+          "w_logo": "",
+          "l": "Suzan Lamens",
+          "l_logo": "",
+          "score": "6-3 6-2",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 53.0,
+          "l_score": 36.6,
+          "match_score": 53.0
+        }
+      ]
+    }
+  ],
+  "WTA_TODAY": [
+    {
+      "name": "VANDA Pharmaceuticals Berlin Tennis Open",
+      "level": "WTA 500",
+      "surface": "Grass",
+      "matches": [
+        {
+          "round": "R64",
+          "w": "Aryna Sabalenka",
+          "w_logo": "",
+          "l": "Ekaterina Alexandrova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 100.0,
+          "l_score": 70.0,
+          "match_score": 100.0
+        },
+        {
+          "round": "R64",
+          "w": "Coco Gauff",
+          "w_logo": "",
+          "l": "Paula Badosa",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 91.1,
+          "l_score": 53.0,
+          "match_score": 91.1
+        },
+        {
+          "round": "R64",
+          "w": "Jessica Pegula",
+          "w_logo": "",
+          "l": "Katerina Siniakova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 90.2,
+          "l_score": 64.9,
+          "match_score": 90.2
+        },
+        {
+          "round": "R64",
+          "w": "Elise Mertens",
+          "w_logo": "",
+          "l": "Nikola Bartunkova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 77.0,
+          "l_score": 63.0,
+          "match_score": 77.0
+        },
+        {
+          "round": "R128",
+          "w": "Alexandra Eala",
+          "w_logo": "",
+          "l": "Donna Vekic",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 68.1,
+          "l_score": 61.5,
+          "match_score": 68.1
+        }
+      ]
+    }
+  ],
+  "ATP_TOURNAMENT": {
+    "name": "Terra Wortmann Open",
+    "level": "ATP 500",
+    "surface": "Grass",
+    "tour": "ATP",
+    "alive": [
+      "Alexander Zverev",
+      "Ben Shelton",
+      "Daniel Altmaier",
+      "Daniil Medvedev",
+      "Ethan Quinn",
+      "Fabian Marozsan",
+      "Felix Auger-Aliassime",
+      "Frances Tiafoe",
+      "Hubert Hurkacz",
+      "Learner Tien",
+      "Lorenzo Sonego",
+      "Mattia Bellucci",
+      "Raphael Collignon",
+      "Sho Shimabukuro",
+      "Taylor Fritz",
+      "Terence Atmane",
+      "Yannick Hanfmann",
+      "Zizou Bergs"
+    ],
+    "out": [
+      "Alexander Bublik",
+      "Alexei Popyrin",
+      "Andrey Rublev",
+      "Flavio Cobolli",
+      "Joao Fonseca",
+      "Karen Khachanov",
+      "Martin Landaluce",
+      "Max Schoenhaus",
+      "Miomir Kecmanovic",
+      "Nikoloz Basilashvili",
+      "Nuno Borges",
+      "Tallon Griekspoor",
+      "Tomas Martin Etcheverry",
+      "Vit Kopriva"
+    ],
+    "aliveCount": 18,
+    "matchesSeen": 22
+  },
+  "WTA_TOURNAMENT": {
+    "name": "VANDA Pharmaceuticals Berlin Tennis Open",
+    "level": "WTA 500",
+    "surface": "Grass",
+    "tour": "WTA",
+    "alive": [
+      "Alexandra Eala",
+      "Aryna Sabalenka",
+      "Coco Gauff",
+      "Diane Parry",
+      "Donna Vekic",
+      "Ekaterina Alexandrova",
+      "Elina Svitolina",
+      "Elise Mertens",
+      "Eva Lys",
+      "Jessica Pegula",
+      "Karolina Muchova",
+      "Katerina Siniakova",
+      "Linda Noskova",
+      "Madison Keys",
+      "Nikola Bartunkova",
+      "Paula Badosa"
+    ],
+    "out": [
+      "Anastasia Potapova",
+      "Anna Kalinskaya",
+      "Clara Tauson",
+      "Diana Shnaider",
+      "Liudmila Samsonova",
+      "Magdalena Frech",
+      "Rebeka Masarova",
+      "Renata Zarazua",
+      "Suzan Lamens",
+      "Wang Xinyu",
+      "Zhang Shuai"
+    ],
+    "aliveCount": 16,
+    "matchesSeen": 19
+  },
   "ATP_SCORE_LOG": {
     "206173": [
       [
