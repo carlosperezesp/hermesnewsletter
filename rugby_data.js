@@ -1,6 +1,6 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-06-14 21:40 UTC",
+  "UPDATED": "2026-06-18 17:31 UTC",
   "LAST_MATCH": "2026-04-10",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
@@ -12,7 +12,7 @@ window.RUGBY_DATA = {
     "matches": 10021,
     "through": "2026-04-10"
   },
-  "IMPORTANCE": 5.0,
+  "IMPORTANCE": 3.5,
   "ELO_MODEL": {
     "base": 1500.0,
     "homeAdvantage": 60.0,

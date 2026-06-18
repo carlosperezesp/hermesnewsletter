@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-14 21:49 UTC",
+  "UPDATED": "2026-06-18 17:31 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Pocono:Denny Hamlin",
@@ -60,6 +60,36 @@ window.GLORY_DATA = {
     }
   ],
   "REPORTS": [
+    {
+      "id": "nhl:champ:CAR:2025-26",
+      "sport": "nhl",
+      "competition": "NHL",
+      "champion": "Hurricanes se proclama campeón (4-2 a Golden Knights)",
+      "scopeLabel": "Top 5 de la temporada",
+      "top5": [
+        {
+          "name": "Nathan MacKinnon",
+          "score": 100
+        },
+        {
+          "name": "Nikita Kucherov",
+          "score": 100
+        },
+        {
+          "name": "Oliver Bonk",
+          "score": 100
+        },
+        {
+          "name": "Connor McDavid",
+          "score": 99
+        },
+        {
+          "name": "Leon Draisaitl",
+          "score": 92
+        }
+      ],
+      "firstSeen": "2026-06-18"
+    },
     {
       "id": "nba:champ:NY:2025-26",
       "sport": "nba",

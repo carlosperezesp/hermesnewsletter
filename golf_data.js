@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-15 20:34 UTC
+// Auto-generated 2026-06-18 17:30 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-15 20:34 UTC",
+  "UPDATED": "2026-06-18 17:30 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "U.S. Open",
@@ -11,11 +11,11 @@ window.GOLF_DATA = {
     "location": "Southampton, New York",
     "surface": "U.S. Open setup",
     "defending": "J.J. Spaun",
-    "state": "upcoming",
+    "state": "live",
     "startLabel": "18 Jun",
     "endLabel": "21 Jun",
-    "round": 0,
-    "daysToStart": 3,
+    "round": 1,
+    "daysToStart": 0,
     "leaderboard": [],
     "favorites": [
       "Scottie Scheffler",
@@ -1001,5 +1001,5 @@ window.GOLF_DATA = {
     }
   ],
   "LEGEND_THRESHOLD": 37.5,
-  "IMPORTANCE": 8.5
+  "IMPORTANCE": 10.0
 };

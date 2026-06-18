@@ -921,7 +921,7 @@ window.NBA_DATA = {
       "last": "Barrett",
       "pos": "F",
       "teamCode": "TOR",
-      "age": 25,
+      "age": 26,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4395625.png",
       "colors": {
         "primary": "#ce1141",
@@ -937,7 +937,7 @@ window.NBA_DATA = {
         "blk": 0.3,
         "min": 38.7
       },
-      "legendScore": 55.7
+      "legendScore": 56.7
     },
     {
       "id": 4871144,
@@ -3271,7 +3271,7 @@ window.NBA_DATA = {
       "last": "Jones",
       "pos": "F",
       "teamCode": "DEN",
-      "age": 24,
+      "age": 25,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4592427.png",
       "colors": {
         "primary": "#0e2240",
@@ -3287,7 +3287,7 @@ window.NBA_DATA = {
         "blk": 1.2,
         "min": 24.2
       },
-      "legendScore": 35.1
+      "legendScore": 36.1
     },
     {
       "id": 2991043,
@@ -3896,7 +3896,7 @@ window.NBA_DATA = {
       "last": "Vincent",
       "pos": "G",
       "teamCode": "ATL",
-      "age": 29,
+      "age": 30,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3137259.png",
       "colors": {
         "primary": "#e03a3e",
@@ -3912,7 +3912,7 @@ window.NBA_DATA = {
         "blk": 0.2,
         "min": 15.5
       },
-      "legendScore": 36.2
+      "legendScore": 37.2
     },
     {
       "id": 4592691,
@@ -6146,7 +6146,7 @@ window.NBA_DATA = {
       "last": "Coffey",
       "pos": "G",
       "teamCode": "PHX",
-      "age": 28,
+      "age": 29,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4066387.png",
       "colors": {
         "primary": "#1d1160",
@@ -6162,7 +6162,7 @@ window.NBA_DATA = {
         "blk": 0.0,
         "min": 1.5
       },
-      "legendScore": 29.6
+      "legendScore": 30.6
     },
     {
       "id": 4683935,
@@ -7213,23 +7213,6 @@ window.NBA_DATA = {
         "prevRank": null
       },
       {
-        "id": 4395625,
-        "name": "RJ Barrett",
-        "pos": "F",
-        "teamCode": "TOR",
-        "colors": {
-          "primary": "#ce1141",
-          "secondary": "#000000"
-        },
-        "age": 25,
-        "currentScore": 87,
-        "projectedScore": 65.0,
-        "threshold": 92.1,
-        "gap": 27.1,
-        "note": "Elite current form — needs sustained peak + rings",
-        "prevRank": null
-      },
-      {
         "id": 4431678,
         "name": "Tyrese Maxey",
         "pos": "G",
@@ -7296,6 +7279,23 @@ window.NBA_DATA = {
         "gap": 29.3,
         "note": "Elite current form — needs sustained peak + rings",
         "prevRank": null
+      },
+      {
+        "id": 5124612,
+        "name": "VJ Edgecombe",
+        "pos": "G",
+        "teamCode": "PHI",
+        "colors": {
+          "primary": "#006bb6",
+          "secondary": "#ed174c"
+        },
+        "age": 20,
+        "currentScore": 70,
+        "projectedScore": 62.5,
+        "threshold": 92.1,
+        "gap": 29.6,
+        "note": "Strong pedigree — leap to elite level needed",
+        "prevRank": null
       }
     ]
   },
@@ -7340,7 +7340,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-06-14 21:39 UTC",
+  "LAST_UPDATE": "2026-06-18 17:30 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

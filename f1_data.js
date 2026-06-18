@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-16 07:12 UTC
+// Auto-generated 2026-06-18 17:30 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-06-16 07:12 UTC",
+  "UPDATED": "2026-06-18 17:30 UTC",
   "SEASON": "2026",
   "ROUND": 6,
   "TOTAL_ROUNDS": 24,
@@ -560,35 +560,7 @@ window.F1_DATA = {
     "label": "BAR",
     "includesSprint": false
   },
-  "LAST_RACE": {
-    "name": "MSC Cruises Barcelona-Catalunya Grand Prix",
-    "date": "2026-06-12",
-    "circuit": "Circuit de Catalunya",
-    "round": 0,
-    "podium": [
-      {
-        "position": 1,
-        "name": "George Russell",
-        "team": "mercedes",
-        "time": "",
-        "primary": "#00D2BE"
-      },
-      {
-        "position": 2,
-        "name": "Oscar Piastri",
-        "team": "mclaren",
-        "time": "",
-        "primary": "#FF8000"
-      },
-      {
-        "position": 3,
-        "name": "Charles Leclerc",
-        "team": "ferrari",
-        "time": "",
-        "primary": "#E8002D"
-      }
-    ]
-  },
+  "LAST_RACE": null,
   "LAST_SPRINT": null,
   "LEGENDS": [
     {
