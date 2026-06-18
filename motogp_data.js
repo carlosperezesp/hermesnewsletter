@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-18 17:30 UTC
+// Auto-generated 2026-06-18 23:14 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-06-18 17:30 UTC",
+  "UPDATED": "2026-06-18 23:14 UTC",
   "SEASON": "2026",
   "ROUND": 8,
   "TOTAL_ROUNDS": 22,
@@ -292,7 +292,23 @@ window.MOTOGP_DATA = {
       {
         "pos": 1,
         "name": "Marc Márquez",
-        "country": "ESP",
+        "country": "SPA",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "bike": "Ducati",
+        "primary": "#CC0000"
+      },
+      {
+        "pos": 2,
+        "name": "Pedro Acosta",
+        "country": "SPA",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "bike": "KTM",
+        "primary": "#E86825"
+      },
+      {
+        "pos": 3,
+        "name": "Fermín Aldeguer",
+        "country": "SPA",
         "logo": "https://flagcdn.com/24x18/es.png",
         "bike": "Ducati",
         "primary": "#CC0000"
