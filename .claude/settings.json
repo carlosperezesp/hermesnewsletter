@@ -4,7 +4,25 @@
       "Bash(kill 60685)",
       "Bash(python3 -c ' *)",
       "Bash(python3 -m http.server 7824 --directory /Users/c02fvoptq6lr/Documents/HERMES)",
-      "Bash(open \"http://localhost:7824/#football\")"
+      "Bash(open \"http://localhost:7824/#football\")",
+      "Bash(python3 -c \"import ast; ast.parse\\(open\\('scripts/update_tennis_data.py'\\).read\\(\\)\\); print\\('python OK'\\)\")",
+      "Bash(node -e \"require\\('@babel/core'\\)\")",
+      "Bash(HERMES_ALLOW_STALE_TENNIS=1 timeout 280 python3 scripts/update_tennis_data.py)",
+      "Bash(HERMES_ALLOW_STALE_TENNIS=1 python3 scripts/update_tennis_data.py)",
+      "Bash(git commit -m ' *)",
+      "Bash(git commit *)",
+      "Bash(curl -s \"https://hermesnewsletter.vercel.app/tennis_data.js?cb=$\\(date +%s\\)\")",
+      "Bash(git ls-remote *)",
+      "Bash(grep -nA6 'LAST_WEEKEND:\\\\|LAST_RACE:' f1_data.js)",
+      "Bash(grep -nA5 'LAST_ROUND:' afl_data.js)",
+      "Bash(grep -nA8 'CURRENT_RACE:' cycling_data.js)",
+      "Bash(awk '/LAST_WEEKEND/{f=1} f{print; n++} n>10{exit}' f1_data.js)",
+      "Bash(grep -nA3 'SEASON_STATUS' nfl_data.js)",
+      "Bash(awk '/\"CURRENT_MAJOR\"|\"CURRENT\":/{f=1} f{print; n++} n>12{exit}' golf_data.js)",
+      "Bash(awk '/BASHO_INFO/{f=1} f{print; n++} n>10{exit}' sumo_data.js)",
+      "Bash(awk '/NEXT_MEETING/{f=1} f{print; n++} n>7{exit}' athletics_data.js)",
+      "Bash(awk '/CURRENT_RACE/{f=1} f{print; n++} n>10{exit}' cycling_data.js)",
+      "Bash(awk '/\"ATP_TOURNAMENT\"/{f=1} f{print; n++} n>12{exit}' tennis_data.js)"
     ]
   }
 }
