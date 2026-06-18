@@ -2314,6 +2314,21 @@ function NewsletterApp() {
           const cycLegendThreshold = cycLegendTop[9]?.legendScore || 0;
           const cycCurrentRiders = (CYC.CURRENT_RIDERS || []).map(p => ({ ...p, colors: { primary: p.primary, secondary: p.secondary } })).slice(0, 10);
           const cycProspects = (CYC.CURRENT_PROSPECTS || []).map(p => ({ ...p, colors: { primary: p.primary, secondary: p.secondary } }));
+
+          // Calendario por categorías (tiers, estilo Masters del tenis).
+          const cycCalendar = CYC.RACE_CALENDAR || [];
+          const cycOlympic = CYC.OLYMPIC_ROAD;
+          const cycTierOrder = ["Gran Vuelta", "Monumento", "Mundial", "JJOO", "Vuelta de una semana", "Clásica"];
+          const cycTierLabel = {
+            "Gran Vuelta": "Grandes Vueltas", "Monumento": "Monumentos", "Mundial": "Mundial",
+            "JJOO": "Juegos Olímpicos", "Vuelta de una semana": "Vueltas de una semana", "Clásica": "Clásicas",
+          };
+          const cycTiers = cycTierOrder.map(t => ({
+            tier: t,
+            races: t === "JJOO" ? (cycOlympic ? [cycOlympic] : []) : cycCalendar.filter(r => r.tier === t),
+          })).filter(g => g.races.length);
+          const cycOngoing = cycCalendar.find(r => r.status === "ongoing");
+          const cycNext = cycCalendar.filter(r => r.status === "upcoming").sort((a, b) => a.start.localeCompare(b.start))[0];
           const cyclingLegendChaseNote = p => {
             if (!cycLegendThreshold) return p.note || "";
             if (p.legendScore >= cycLegendThreshold) return "Ya está en zona top 10 histórico";
@@ -2367,6 +2382,69 @@ function NewsletterApp() {
                   </p>
                 </div>
               </header>
+
+              {cycTiers.length > 0 && (() => {
+                const statusBadge = (status) => {
+                  const map = {
+                    upcoming: { t: "Próxima", bg: "#eceae6", fg: "#6b675f" },
+                    ongoing:  { t: "En curso", bg: "#dcebf7", fg: "#1a5fa8" },
+                    pending:  { t: "Resultado pendiente", bg: "#f3efe6", fg: "#9a7b1e" },
+                  }[status];
+                  if (!map) return null;
+                  return (
+                    <span style={{ fontSize: 10, fontWeight: 700, fontFamily: "monospace",
+                      background: map.bg, color: map.fg, padding: "2px 7px", borderRadius: 3, flexShrink: 0 }}>
+                      {map.t}
+                    </span>
+                  );
+                };
+                const winnerChip = (w, tier) => (
+                  <span style={{ display: "inline-flex", alignItems: "center", gap: 5, flexShrink: 0 }}>
+                    {w.logo && <img src={w.logo} alt="" width={18} height={13}
+                      style={{ borderRadius: 1, objectFit: "cover" }} />}
+                    <span style={{ fontWeight: 700, fontSize: 13 }}>{w.name}</span>
+                    {tier === "JJOO"
+                      ? <span style={{ fontSize: 10, color: "var(--muted,#888)" }}>· vigente</span>
+                      : <span style={{ fontSize: 13 }}>🏆</span>}
+                  </span>
+                );
+                return (
+                  <NewsletterSection
+                    kicker="Calendario 2026 · por categorías"
+                    title="La temporada de un vistazo"
+                    sub={[
+                      cycOngoing ? `En curso: ${cycOngoing.name}.` : null,
+                      cycNext ? `Próxima grande: ${cycNext.name} (${cycNext.dateLabel}).` : null,
+                      "Ganador auto-actualizado desde Wikipedia tras cada carrera.",
+                    ].filter(Boolean).join(" ")}
+                  >
+                    {cycTiers.map(({ tier, races }) => (
+                      <div key={tier} style={{ marginBottom: 14 }}>
+                        <div style={{ fontSize: 10, fontWeight: 700, letterSpacing: "0.14em", textTransform: "uppercase",
+                          color: "var(--muted,#888)", padding: "8px 0 2px", borderBottom: "1px solid var(--border,#e0dcd5)" }}>
+                          {cycTierLabel[tier] || tier}
+                        </div>
+                        {races.map((r, i) => (
+                          <div key={r.name + i} style={{ display: "flex", alignItems: "center", gap: 10,
+                            padding: "7px 0", borderTop: i === 0 ? "none" : "1px solid var(--border,#efece7)", fontSize: 13 }}>
+                            <span style={{ fontFamily: "monospace", fontSize: 11, color: "var(--muted,#888)",
+                              minWidth: 64, flexShrink: 0 }}>
+                              {tier === "JJOO" ? r.edition : r.dateLabel}
+                            </span>
+                            <span style={{ flex: 1, fontWeight: 600 }}>{r.name}</span>
+                            {r.winner ? winnerChip(r.winner, tier) : statusBadge(r.status)}
+                          </div>
+                        ))}
+                        {tier === "JJOO" && cycOlympic?.next && (
+                          <div style={{ fontSize: 11, color: "var(--muted,#888)", paddingTop: 3 }}>
+                            No hay carrera en 2026 · próximos {cycOlympic.next}.
+                          </div>
+                        )}
+                      </div>
+                    ))}
+                  </NewsletterSection>
+                );
+              })()}
 
               {cr && cr.last_stage && (() => {
                 const ls = cr.last_stage;

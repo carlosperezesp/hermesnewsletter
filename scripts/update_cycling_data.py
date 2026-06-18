@@ -130,6 +130,46 @@ def _active_race() -> dict | None:
     past = [r for r in GRAND_TOURS if r["end"] < today]
     return max(past, key=lambda r: r["end"]) if past else None
 
+
+# ── Calendario por categorías (tiers, estilo Masters del tenis) ────────────────
+# Curated 2026 calendar of the major one-day and stage races, grouped by tier.
+# The winner of each is auto-extracted from the race's Wikipedia infobox (|first=),
+# so finished races fill in by themselves day to day; upcoming ones stay pending.
+# tier · name (ES) · exact Wikipedia title · start · end (one-day: start==end)
+MAJOR_RACES: list[dict] = [
+    # Grandes Vueltas (la cúspide, ya con seguimiento live aparte)
+    ("Gran Vuelta", "Giro d'Italia",        "2026 Giro d'Italia",        "2026-05-08", "2026-06-01"),
+    ("Gran Vuelta", "Tour de Francia",       "2026 Tour de France",       "2026-07-04", "2026-07-27"),
+    ("Gran Vuelta", "Vuelta a España",       "2026 Vuelta a España",      "2026-08-15", "2026-09-06"),
+    # Monumentos (los 5 clásicos de un día de máximo prestigio)
+    ("Monumento", "Milán-San Remo",          "2026 Milan–San Remo",                 "2026-03-21", "2026-03-21"),
+    ("Monumento", "Tour de Flandes",         "2026 Tour of Flanders (men's race)",  "2026-04-05", "2026-04-05"),
+    ("Monumento", "París-Roubaix",           "2026 Paris–Roubaix",                  "2026-04-12", "2026-04-12"),
+    ("Monumento", "Lieja-Bastoña-Lieja",     "2026 Liège–Bastogne–Liège",           "2026-04-26", "2026-04-26"),
+    ("Monumento", "Il Lombardia",            "2026 Il Lombardia",                   "2026-10-10", "2026-10-10"),
+    # Mundial (pináculo de un día, anual)
+    ("Mundial", "Mundial en ruta",  "2026 UCI Road World Championships – Men's road race", "2026-09-27", "2026-09-27"),
+    # Vueltas de una semana (WorldTour por etapas)
+    ("Vuelta de una semana", "Paris-Niza",        "2026 Paris–Nice",             "2026-03-08", "2026-03-15"),
+    ("Vuelta de una semana", "Tirreno-Adriático", "2026 Tirreno–Adriatico",      "2026-03-09", "2026-03-15"),
+    ("Vuelta de una semana", "Itzulia País Vasco","2026 Tour of the Basque Country", "2026-04-06", "2026-04-11"),
+    ("Vuelta de una semana", "Critérium du Dauphiné","2026 Critérium du Dauphiné","2026-06-07", "2026-06-14"),
+    ("Vuelta de una semana", "Tour de Suisse",    "2026 Tour de Suisse",         "2026-06-14", "2026-06-21"),
+    # Clásicas grandes (un día, fuera de Monumentos)
+    ("Clásica", "Strade Bianche",   "2026 Strade Bianche",          "2026-03-07", "2026-03-07"),
+    ("Clásica", "Amstel Gold Race", "2026 Amstel Gold Race",        "2026-04-19", "2026-04-19"),
+    ("Clásica", "Flecha Valona",    "2026 La Flèche Wallonne",      "2026-04-22", "2026-04-22"),
+    ("Clásica", "San Sebastián",    "2026 Clásica de San Sebastián","2026-08-01", "2026-08-01"),
+]
+
+TIER_ORDER = ["Gran Vuelta", "Monumento", "Mundial", "JJOO", "Vuelta de una semana", "Clásica"]
+
+# JJOO: cada 4 años (no hay en 2026). Mostramos al campeón olímpico vigente.
+OLYMPIC_ROAD = {
+    "name": "Remco Evenepoel", "cc3": "BEL",
+    "edition": "París 2024", "next": "Los Ángeles 2028",
+}
+
 # ── Wikipedia helpers ─────────────────────────────────────────────────────────
 
 def _fetch_wiki_section(page: str, section: int, ttl_hours: float = 2.0) -> str:
@@ -167,7 +207,8 @@ def _fetch_wiki_page(page: str, ttl_hours: float = 2.0) -> str:
         with urllib.request.urlopen(req, timeout=15) as r:
             d = json.loads(r.read())
         wt = d.get("parse", {}).get("wikitext", {}).get("*", "")
-        path.write_text(wt)
+        if wt:  # no cacheamos vacíos (página inexistente o 429) para poder reintentar
+            path.write_text(wt)
         return wt
     except Exception as exc:
         print(f"[WARN] Wikipedia page fetch failed ({exc})", file=sys.stderr)
@@ -796,6 +837,77 @@ def _cycling_importance(current_race: dict | None) -> float:
     return 7.0  # Monuments, Worlds, other stage races
 
 
+def _fetch_race_winner(wiki_title: str) -> dict | None:
+    """Ganador de una carrera desde el infobox de Wikipedia (|first= / |first_nat=).
+    Funciona para carreras de un día y vueltas por etapas (general). None si la
+    página no existe o aún no tiene ganador (carrera futura o en curso)."""
+    wt = _fetch_wiki_page(wiki_title, ttl_hours=6.0)
+    if not wt:
+        return None
+    m = re.search(r"\|\s*first\s*=\s*\[\[(?:[^\]|]+\|)?([^\]|\n]+)\]\]", wt)
+    if not m:
+        return None
+    name = m.group(1).strip()
+    nat = re.search(r"\|\s*first_nat\s*=\s*([A-Za-z]{2,4})", wt)
+    cc3 = nat.group(1).strip().upper() if nat else None
+    return {"name": name, "cc3": cc3}
+
+
+def _race_date_label(start: date, end: date) -> str:
+    months = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"]
+    if start == end:
+        return f"{start.day} {months[start.month - 1]}"
+    if start.month == end.month:
+        return f"{start.day}–{end.day} {months[start.month - 1]}"
+    return f"{start.day} {months[start.month - 1]}–{end.day} {months[end.month - 1]}"
+
+
+def build_race_calendar() -> list[dict]:
+    """Calendario por categorías con ganador auto-extraído de Wikipedia."""
+    today = date.today()
+    rows = []
+    for tier, name, wiki, start_s, end_s in MAJOR_RACES:
+        start = date.fromisoformat(start_s)
+        end = date.fromisoformat(end_s)
+        # Carreras futuras: no hay página/ganador todavía, evitamos el fetch.
+        if today < start:
+            winner = None
+        else:
+            winner = _fetch_race_winner(wiki)
+            time.sleep(0.4)  # cortesía con la API de Wikipedia (evita 429 en ráfaga)
+        if winner:
+            status = "finished"
+            cc3 = winner.get("cc3") or ""
+            winner = {
+                "name": winner["name"],
+                "cc3": cc3,
+                "logo": _flag(cc3) if cc3 else None,
+                "color": _color(cc3) if cc3 else "#555",
+            }
+        elif today < start:
+            status = "upcoming"
+        elif today > end:
+            status = "pending"  # ya disputada pero sin página/ganador todavía
+        else:
+            status = "ongoing"
+        rows.append({
+            "tier": tier, "name": name, "dateLabel": _race_date_label(start, end),
+            "start": start_s, "end": end_s, "status": status, "winner": winner,
+        })
+    rows.sort(key=lambda r: (TIER_ORDER.index(r["tier"]), r["start"]))
+    return rows
+
+
+def build_olympic_road() -> dict:
+    cc3 = OLYMPIC_ROAD["cc3"]
+    return {
+        "tier": "JJOO", "name": "Juegos Olímpicos · ruta",
+        "status": "reigning",
+        "winner": {"name": OLYMPIC_ROAD["name"], "cc3": cc3, "logo": _flag(cc3), "color": _color(cc3)},
+        "edition": OLYMPIC_ROAD["edition"], "next": OLYMPIC_ROAD["next"],
+    }
+
+
 def write_data() -> None:
     out_path = ROOT / "cycling_data.js"
     prev_legends = _prev_rank_map(out_path, "CYCLING_DATA", "LEGENDS")
@@ -817,12 +929,15 @@ def write_data() -> None:
 
     importance = _cycling_importance(current_race)
 
+    race_calendar = build_race_calendar()
     payload = {
         "UPDATED":      updated,
         "LEGENDS":      legends,
         "CURRENT_RIDERS": current_riders,
         "CURRENT_PROSPECTS": build_prospects(),
         "CURRENT_RACE": current_race,
+        "RACE_CALENDAR": race_calendar,
+        "OLYMPIC_ROAD": build_olympic_road(),
         "IMPORTANCE":   importance,
     }
 

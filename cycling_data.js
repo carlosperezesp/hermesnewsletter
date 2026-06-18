@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-18 17:30 UTC
+// Auto-generated 2026-06-18 20:13 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-06-18 17:30 UTC",
+  "UPDATED": "2026-06-18 20:13 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -783,30 +783,30 @@ window.CYCLING_DATA = {
         "time": "+ 0\""
       },
       {
-        "rank": null,
+        "rank": 104,
         "name": "Jonas Vingegaard",
         "country": "DEN",
         "logo": "https://flagcdn.com/24x18/dk.png",
         "team": "TVL men",
-        "time": "",
+        "time": "00:00:00",
         "gc_rank": 1
       },
       {
-        "rank": null,
+        "rank": 34,
         "name": "Felix Gall",
         "country": "AUT",
         "logo": "https://flagcdn.com/24x18/at.png",
         "team": "DCT",
-        "time": "",
+        "time": "00:00:00",
         "gc_rank": 2
       },
       {
-        "rank": null,
+        "rank": 33,
         "name": "Jai Hindley",
         "country": "AUS",
         "logo": "https://flagcdn.com/24x18/au.png",
         "team": "RBH",
-        "time": "",
+        "time": "00:00:00",
         "gc_rank": 3
       }
     ],
@@ -944,6 +944,238 @@ window.CYCLING_DATA = {
       "time": "83h 32' 30\"",
       "legendScore": 0.0
     }
+  },
+  "RACE_CALENDAR": [
+    {
+      "tier": "Gran Vuelta",
+      "name": "Giro d'Italia",
+      "dateLabel": "8 may–1 jun",
+      "start": "2026-05-08",
+      "end": "2026-06-01",
+      "status": "finished",
+      "winner": {
+        "name": "Jonas Vingegaard",
+        "cc3": "DEN",
+        "logo": "https://flagcdn.com/24x18/dk.png",
+        "color": "#C60C30"
+      }
+    },
+    {
+      "tier": "Gran Vuelta",
+      "name": "Tour de Francia",
+      "dateLabel": "4–27 jul",
+      "start": "2026-07-04",
+      "end": "2026-07-27",
+      "status": "upcoming",
+      "winner": null
+    },
+    {
+      "tier": "Gran Vuelta",
+      "name": "Vuelta a España",
+      "dateLabel": "15 ago–6 sep",
+      "start": "2026-08-15",
+      "end": "2026-09-06",
+      "status": "upcoming",
+      "winner": null
+    },
+    {
+      "tier": "Monumento",
+      "name": "Milán-San Remo",
+      "dateLabel": "21 mar",
+      "start": "2026-03-21",
+      "end": "2026-03-21",
+      "status": "finished",
+      "winner": {
+        "name": "Tadej Pogačar",
+        "cc3": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "color": "#003DA5"
+      }
+    },
+    {
+      "tier": "Monumento",
+      "name": "Tour de Flandes",
+      "dateLabel": "5 abr",
+      "start": "2026-04-05",
+      "end": "2026-04-05",
+      "status": "finished",
+      "winner": {
+        "name": "Tadej Pogačar",
+        "cc3": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "color": "#003DA5"
+      }
+    },
+    {
+      "tier": "Monumento",
+      "name": "París-Roubaix",
+      "dateLabel": "12 abr",
+      "start": "2026-04-12",
+      "end": "2026-04-12",
+      "status": "finished",
+      "winner": {
+        "name": "Wout van Aert",
+        "cc3": "BEL",
+        "logo": "https://flagcdn.com/24x18/be.png",
+        "color": "#000000"
+      }
+    },
+    {
+      "tier": "Monumento",
+      "name": "Lieja-Bastoña-Lieja",
+      "dateLabel": "26 abr",
+      "start": "2026-04-26",
+      "end": "2026-04-26",
+      "status": "finished",
+      "winner": {
+        "name": "Tadej Pogačar",
+        "cc3": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "color": "#003DA5"
+      }
+    },
+    {
+      "tier": "Monumento",
+      "name": "Il Lombardia",
+      "dateLabel": "10 oct",
+      "start": "2026-10-10",
+      "end": "2026-10-10",
+      "status": "upcoming",
+      "winner": null
+    },
+    {
+      "tier": "Mundial",
+      "name": "Mundial en ruta",
+      "dateLabel": "27 sep",
+      "start": "2026-09-27",
+      "end": "2026-09-27",
+      "status": "upcoming",
+      "winner": null
+    },
+    {
+      "tier": "Vuelta de una semana",
+      "name": "Paris-Niza",
+      "dateLabel": "8–15 mar",
+      "start": "2026-03-08",
+      "end": "2026-03-15",
+      "status": "finished",
+      "winner": {
+        "name": "Jonas Vingegaard",
+        "cc3": "DEN",
+        "logo": "https://flagcdn.com/24x18/dk.png",
+        "color": "#C60C30"
+      }
+    },
+    {
+      "tier": "Vuelta de una semana",
+      "name": "Tirreno-Adriático",
+      "dateLabel": "9–15 mar",
+      "start": "2026-03-09",
+      "end": "2026-03-15",
+      "status": "finished",
+      "winner": {
+        "name": "Isaac del Toro",
+        "cc3": "MEX",
+        "logo": "https://flagcdn.com/24x18/me.png",
+        "color": "#555555"
+      }
+    },
+    {
+      "tier": "Vuelta de una semana",
+      "name": "Itzulia País Vasco",
+      "dateLabel": "6–11 abr",
+      "start": "2026-04-06",
+      "end": "2026-04-11",
+      "status": "finished",
+      "winner": {
+        "name": "Paul Seixas",
+        "cc3": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "color": "#002395"
+      }
+    },
+    {
+      "tier": "Vuelta de una semana",
+      "name": "Critérium du Dauphiné",
+      "dateLabel": "7–14 jun",
+      "start": "2026-06-07",
+      "end": "2026-06-14",
+      "status": "pending",
+      "winner": null
+    },
+    {
+      "tier": "Vuelta de una semana",
+      "name": "Tour de Suisse",
+      "dateLabel": "14–21 jun",
+      "start": "2026-06-14",
+      "end": "2026-06-21",
+      "status": "ongoing",
+      "winner": null
+    },
+    {
+      "tier": "Clásica",
+      "name": "Strade Bianche",
+      "dateLabel": "7 mar",
+      "start": "2026-03-07",
+      "end": "2026-03-07",
+      "status": "finished",
+      "winner": {
+        "name": "Tadej Pogačar",
+        "cc3": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "color": "#003DA5"
+      }
+    },
+    {
+      "tier": "Clásica",
+      "name": "Amstel Gold Race",
+      "dateLabel": "19 abr",
+      "start": "2026-04-19",
+      "end": "2026-04-19",
+      "status": "finished",
+      "winner": {
+        "name": "Remco Evenepoel",
+        "cc3": "BEL",
+        "logo": "https://flagcdn.com/24x18/be.png",
+        "color": "#000000"
+      }
+    },
+    {
+      "tier": "Clásica",
+      "name": "Flecha Valona",
+      "dateLabel": "22 abr",
+      "start": "2026-04-22",
+      "end": "2026-04-22",
+      "status": "finished",
+      "winner": {
+        "name": "Paul Seixas",
+        "cc3": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "color": "#002395"
+      }
+    },
+    {
+      "tier": "Clásica",
+      "name": "San Sebastián",
+      "dateLabel": "1 ago",
+      "start": "2026-08-01",
+      "end": "2026-08-01",
+      "status": "upcoming",
+      "winner": null
+    }
+  ],
+  "OLYMPIC_ROAD": {
+    "tier": "JJOO",
+    "name": "Juegos Olímpicos · ruta",
+    "status": "reigning",
+    "winner": {
+      "name": "Remco Evenepoel",
+      "cc3": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "color": "#000000"
+    },
+    "edition": "París 2024",
+    "next": "Los Ángeles 2028"
   },
   "IMPORTANCE": 9.0
 };
