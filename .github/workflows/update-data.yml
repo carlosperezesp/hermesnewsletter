@@ -28,15 +28,22 @@ jobs:
           python-version: "3.11"
 
       # ── All Hermes sport data ───────────────────────────────────────────────
+      # continue-on-error: a single flaky feed (ESPN 403/429 from GitHub's IPs,
+      # an offline source, etc.) must NOT block publishing the sports that did
+      # regenerate. Each update script writes its file only on success, so a
+      # failed sport simply keeps its previous data and never gets committed.
       - name: Update all sport data
+        continue-on-error: true
         run: python3 scripts/update_all_data.py
 
       # Tennis is time-sensitive during Slams. Run it strictly after the broad
       # update so stale cache/network failures are visible and do not publish.
       - name: Update tennis data strictly
+        continue-on-error: true
         run: python3 scripts/update_tennis_data.py
 
       - name: Check data freshness
+        continue-on-error: true
         run: python3 scripts/check_data_freshness.py
 
       # ── Commit both files if changed ────────────────────────────────────────
