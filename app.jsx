@@ -2363,23 +2363,47 @@ function NewsletterApp() {
           const rankText = rank => rank ? `${rank}.` : "s/d";
           const raceFinished = !!cr && Number(cr.stage || 0) >= Number(cr.total_stages || 0) && !cr.next_stage;
 
+          // ¿La Grande Vuelta del deep-dive sigue siendo de actualidad? (en curso o
+          // terminada hace <=12 días). Si no, no la mostramos como sección principal.
+          const daysSince = iso => iso ? Math.floor((Date.now() - new Date(iso + "T00:00:00Z").getTime()) / 86400000) : 999;
+          const gtLive = !!cr && !raceFinished;
+          const gtRecent = !!cr && (gtLive || daysSince(cr.end) <= 12);
+
+          // Última carrera ganada (cualquier tier) para titulares de respaldo.
+          const cycRecentWon = [...cycCalendar]
+            .filter(r => r.status === "finished" && r.winner)
+            .sort((a, b) => b.start.localeCompare(a.start))[0];
+
+          // El hero refleja lo que pasa AHORA, no la última Grande Vuelta congelada.
+          let cycHero;
+          if (gtLive) {
+            cycHero = { mast: cr.name, title: `${cr.name} 2026`,
+              sub: `Etapa ${cr.stage} de ${cr.total_stages} · ${cr.jersey_name} · GC en directo.` };
+          } else if (cycOngoing) {
+            cycHero = { mast: `${cycOngoing.name} · en curso`, title: `${cycOngoing.name} 2026`,
+              sub: `${cycTierLabel[cycOngoing.tier] || cycOngoing.tier} en disputa ahora mismo · ${cycOngoing.dateLabel}.` };
+          } else if (cycNext) {
+            cycHero = { mast: `Próxima · ${cycNext.name}`, title: `Próxima cita: ${cycNext.name}`,
+              sub: `${cycTierLabel[cycNext.tier] || cycNext.tier} · ${cycNext.dateLabel}.${cycRecentWon ? ` Última: ${cycRecentWon.name} → ${cycRecentWon.winner.name}.` : ""}` };
+          } else if (cycRecentWon) {
+            cycHero = { mast: cycRecentWon.name, title: `${cycRecentWon.name} 2026`,
+              sub: `Ganador: ${cycRecentWon.winner.name}.` };
+          } else {
+            cycHero = { mast: "Road Cycling", title: "Grandes Vueltas · Leyendas",
+              sub: "Score 0–100 ponderando Grandes Vueltas (TDF×12, Giro×9, Vuelta×8), Monumentos (×4) y Mundiales (×4)." };
+          }
+
           return (
             <>
               <header className="newsletter-hero" style={{ marginTop: 48 }}>
                 <div className="newsletter-hero__masthead">
                   <span>Ciclismo</span>
-                  <span>{cr ? cr.name : "Road Cycling"}</span>
+                  <span>{cycHero.mast}</span>
                   <span>Actualizado {CYC.UPDATED}</span>
                 </div>
                 <div className="newsletter-hero__title-row">
-                  <h1>{cr ? `${cr.name} 2026` : "Grandes Vueltas · Leyendas"}</h1>
-                  <p>
-                    {cr
-                      ? raceFinished
-                        ? `Finalizado · ${cr.stage}/${cr.total_stages} etapas · campeón: ${cr.gc?.[0]?.name || cr.jersey_name}.`
-                        : `Etapa ${cr.stage} de ${cr.total_stages} · ${cr.jersey_name} · GC en directo.`
-                      : "Score 0–100 ponderando Grandes Vueltas (TDF×12, Giro×9, Vuelta×8), Monumentos (×4) y Mundiales (×4)."}
-                  </p>
+                  <h1>{cycHero.title}</h1>
+                  <p>{cycHero.sub}</p>
                 </div>
               </header>
 
@@ -2446,7 +2470,7 @@ function NewsletterApp() {
                 );
               })()}
 
-              {cr && cr.last_stage && (() => {
+              {gtRecent && cr.last_stage && (() => {
                 const ls = cr.last_stage;
                 const ns = cr.next_stage;
                 return (
@@ -2507,7 +2531,7 @@ function NewsletterApp() {
                 );
               })()}
 
-              {cr && cr.gc && cr.gc.length > 0 && (
+              {gtRecent && cr.gc && cr.gc.length > 0 && (
                 <NewsletterSection
                   kicker={`${raceFinished ? "Clasificación General final" : "Clasificación General"} — Etapa ${cr.stage}/${cr.total_stages}`}
                   title={raceFinished ? "Top 10 GC final" : "Top 10 GC"}
@@ -2535,7 +2559,7 @@ function NewsletterApp() {
                 </NewsletterSection>
               )}
 
-              {cr && (cr.points_leader || cr.kom_leader || cr.young_leader) && (
+              {gtRecent && (cr.points_leader || cr.kom_leader || cr.young_leader) && (
                 <NewsletterSection
                   kicker={raceFinished ? "Maillots finales" : "Líderes de maillot"}
                   title="Puntos · Montaña · Mejor joven"

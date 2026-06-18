@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-18 20:13 UTC
+// Auto-generated 2026-06-18 20:22 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-06-18 20:13 UTC",
+  "UPDATED": "2026-06-18 20:22 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -723,6 +723,8 @@ window.CYCLING_DATA = {
   ],
   "CURRENT_RACE": {
     "name": "Giro d'Italia",
+    "start": "2026-05-08",
+    "end": "2026-06-01",
     "stage": 21,
     "total_stages": 21,
     "jersey_primary": "#E8006D",

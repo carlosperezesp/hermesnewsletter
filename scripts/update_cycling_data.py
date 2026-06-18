@@ -810,6 +810,8 @@ def fetch_race_data(race: dict, legends: list[dict]) -> dict:
 
     return {
         "name":           race["name"],
+        "start":          race.get("start"),
+        "end":            race.get("end"),
         "stage":          current_stage,
         "total_stages":   race["total_stages"],
         "jersey_primary": race["jersey_primary"],
