@@ -430,21 +430,53 @@ def build_legend_chase(legends: list[dict], top_n: int = 8) -> list[dict]:
     return chase[:top_n]
 
 
+def _load_prev_payload() -> dict | None:
+    try:
+        text = (ROOT / "nascar_data.js").read_text(encoding="utf-8")
+        text = re.sub(r"^window\.NASCAR_DATA\s*=\s*", "", text).rstrip().rstrip(";")
+        return json.loads(text)
+    except Exception:
+        return None
+
+
 def main() -> int:
     drivers = parse_standings()
+    legends = build_legends()
+    legend_threshold = legends[9]["legendScore"] if len(legends) >= 10 else 0
+    updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+
     if not drivers:
-        print("No NASCAR standings found", file=sys.stderr)
-        return 1
+        # Graceful degradation: the live standings scrape is often blocked from
+        # cloud IPs (ESPN HTTP 202/403). The pantheon pillar (legends / candidato
+        # a leyenda) is fully curated and network-free, so we still publish it,
+        # reusing the previous live standings rather than failing the whole run.
+        prev = _load_prev_payload()
+        if prev is None:
+            print("No NASCAR standings and no previous data to fall back on", file=sys.stderr)
+            return 1
+        print("[WARN] NASCAR standings unavailable; refreshing curated pantheon over previous live data", file=sys.stderr)
+        prev.update({
+            "UPDATED": updated,
+            "LEGEND_THRESHOLD": legend_threshold,
+            "LEGEND_CHASE": build_legend_chase(legends),
+            "CURRENT_CONTENDERS": build_current_contenders(legend_threshold),
+            "LEGENDS": legends,
+        })
+        (ROOT / "nascar_data.js").write_text(
+            "window.NASCAR_DATA = " + json.dumps(prev, ensure_ascii=False, indent=2) + ";\n",
+            encoding="utf-8",
+        )
+        print(f"NASCAR pantheon refreshed (standings reused); {len(prev.get('LEGEND_CHASE', []))} legend-chase entries")
+        return 0
+
     by_name = {driver["name"]: driver for driver in drivers}
     ages = _nascar_ages()
     for d in drivers:
         d["age"] = ages.get(d["name"])
     last_race, completed = parse_results(by_name)
     cutoff = next((d for d in drivers if d["playoffRank"] == 16), drivers[min(len(drivers), 16) - 1])
-    legends = build_legends()
-    legend_threshold = legends[9]["legendScore"] if len(legends) >= 10 else 0
     payload = {
-        "UPDATED": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
+        "UPDATED": updated,
         "SEASON": CURRENT_YEAR,
         "ROUND": completed,
         "TOTAL_ROUNDS": 36,

@@ -1,5 +1,5 @@
 window.NASCAR_DATA = {
-  "UPDATED": "2026-06-14 21:40 UTC",
+  "UPDATED": "2026-06-18 18:05 UTC",
   "SEASON": 2026,
   "ROUND": 20,
   "TOTAL_ROUNDS": 36,
@@ -47,7 +47,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 25,
       "playoffScore": 100.0,
       "score": 100.0,
-      "legendScore": 2.2
+      "legendScore": 2.2,
+      "age": 30
     },
     {
       "id": "denny_hamlin",
@@ -82,7 +83,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 20,
       "playoffScore": 93.8,
       "score": 97.3,
-      "legendScore": 14.2
+      "legendScore": 14.2,
+      "age": 45
     },
     {
       "id": "chase_elliott",
@@ -117,7 +119,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 10,
       "playoffScore": 87.5,
       "score": 72.3,
-      "legendScore": 12.0
+      "legendScore": 12.0,
+      "age": 30
     },
     {
       "id": "ryan_blaney",
@@ -152,7 +155,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 5,
       "playoffScore": 81.2,
       "score": 76.6,
-      "legendScore": 10.7
+      "legendScore": 10.7,
+      "age": 32
     },
     {
       "id": "ty_gibbs",
@@ -187,7 +191,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 5,
       "playoffScore": 75.0,
       "score": 71.9,
-      "legendScore": 0.3
+      "legendScore": 0.3,
+      "age": 23
     },
     {
       "id": "daniel_suarez",
@@ -216,13 +221,14 @@ window.NASCAR_DATA = {
         "top5": 2,
         "top10": 5
       },
-      "prevRank": 7,
+      "prevRank": 6,
       "playoffRank": 6,
       "locked": true,
       "playoffPoints": 5,
       "playoffScore": 68.8,
       "score": 63.9,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 34
     },
     {
       "id": "carson_hocevar",
@@ -251,13 +257,14 @@ window.NASCAR_DATA = {
         "top5": 4,
         "top10": 7
       },
-      "prevRank": 6,
+      "prevRank": 7,
       "playoffRank": 7,
       "locked": true,
       "playoffPoints": 5,
       "playoffScore": 62.5,
       "score": 63.8,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 23
     },
     {
       "id": "shane_van_gisbergen",
@@ -292,7 +299,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 5,
       "playoffScore": 56.2,
       "score": 51.3,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": null
     },
     {
       "id": "kyle_larson",
@@ -327,7 +335,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 0,
       "playoffScore": 50.0,
       "score": 70.2,
-      "legendScore": 14.7
+      "legendScore": 14.7,
+      "age": 33
     },
     {
       "id": "chris_buescher",
@@ -362,7 +371,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 0,
       "playoffScore": 43.8,
       "score": 65.5,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 33
     },
     {
       "id": "christopher_bell",
@@ -397,7 +407,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 0,
       "playoffScore": 37.5,
       "score": 59.8,
-      "legendScore": 2.8
+      "legendScore": 2.8,
+      "age": 31
     },
     {
       "id": "william_byron",
@@ -426,13 +437,14 @@ window.NASCAR_DATA = {
         "top5": 3,
         "top10": 8
       },
-      "prevRank": 13,
+      "prevRank": 12,
       "playoffRank": 12,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 31.2,
       "score": 58.9,
-      "legendScore": 3.9
+      "legendScore": 3.9,
+      "age": 28
     },
     {
       "id": "chase_briscoe",
@@ -461,13 +473,14 @@ window.NASCAR_DATA = {
         "top5": 5,
         "top10": 7
       },
-      "prevRank": 14,
+      "prevRank": 13,
       "playoffRank": 13,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 25.0,
       "score": 58.4,
-      "legendScore": 0.7
+      "legendScore": 0.7,
+      "age": 31
     },
     {
       "id": "bubba_wallace",
@@ -496,13 +509,14 @@ window.NASCAR_DATA = {
         "top5": 2,
         "top10": 7
       },
-      "prevRank": 12,
+      "prevRank": 14,
       "playoffRank": 14,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 18.8,
       "score": 56.0,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 32
     },
     {
       "id": "erik_jones",
@@ -531,13 +545,14 @@ window.NASCAR_DATA = {
         "top5": 1,
         "top10": 4
       },
-      "prevRank": 18,
+      "prevRank": 15,
       "playoffRank": 15,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 12.5,
       "score": 50.4,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 30
     },
     {
       "id": "austin_cindric",
@@ -572,7 +587,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 0,
       "playoffScore": 6.2,
       "score": 50.4,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 27
     },
     {
       "id": "brad_keselowski",
@@ -601,13 +617,14 @@ window.NASCAR_DATA = {
         "top5": 2,
         "top10": 4
       },
-      "prevRank": 15,
+      "prevRank": 17,
       "playoffRank": 17,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 49.9,
-      "legendScore": 15.8
+      "legendScore": 15.8,
+      "age": 42
     },
     {
       "id": "joey_logano",
@@ -636,13 +653,14 @@ window.NASCAR_DATA = {
         "top5": 2,
         "top10": 5
       },
-      "prevRank": 17,
+      "prevRank": 18,
       "playoffRank": 18,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 47.4,
-      "legendScore": 31.4
+      "legendScore": 31.4,
+      "age": 36
     },
     {
       "id": "ryan_preece",
@@ -677,7 +695,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 45.7,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 35
     },
     {
       "id": "michael_mcdowell",
@@ -712,7 +731,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 43.5,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 41
     },
     {
       "id": "aj_allmendinger",
@@ -747,7 +767,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 42.8,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 44
     },
     {
       "id": "ricky_stenhouse_jr",
@@ -776,13 +797,14 @@ window.NASCAR_DATA = {
         "top5": 2,
         "top10": 3
       },
-      "prevRank": 23,
+      "prevRank": 22,
       "playoffRank": 22,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 42.5,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 38
     },
     {
       "id": "ross_chastain",
@@ -811,13 +833,14 @@ window.NASCAR_DATA = {
         "top5": 1,
         "top10": 3
       },
-      "prevRank": 24,
+      "prevRank": 23,
       "playoffRank": 23,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 41.8,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 33
     },
     {
       "id": "zane_smith",
@@ -846,13 +869,14 @@ window.NASCAR_DATA = {
         "top5": 1,
         "top10": 5
       },
-      "prevRank": 22,
+      "prevRank": 24,
       "playoffRank": 24,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 40.2,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 27
     },
     {
       "id": "todd_gilliland",
@@ -887,7 +911,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 40.2,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 26
     },
     {
       "id": "john_hunter_nemechek",
@@ -916,13 +941,14 @@ window.NASCAR_DATA = {
         "top5": 1,
         "top10": 2
       },
-      "prevRank": 28,
+      "prevRank": 26,
       "playoffRank": 26,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 39.3,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 29
     },
     {
       "id": "riley_herbst",
@@ -951,13 +977,14 @@ window.NASCAR_DATA = {
         "top5": 0,
         "top10": 1
       },
-      "prevRank": 26,
+      "prevRank": 27,
       "playoffRank": 27,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 38.5,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 27
     },
     {
       "id": "austin_dillon",
@@ -986,13 +1013,14 @@ window.NASCAR_DATA = {
         "top5": 0,
         "top10": 1
       },
-      "prevRank": 27,
+      "prevRank": 28,
       "playoffRank": 28,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 36.5,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 36
     },
     {
       "id": "noah_gragson",
@@ -1027,7 +1055,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 30.4,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 27
     },
     {
       "id": "josh_berry",
@@ -1062,7 +1091,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 28.4,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 35
     },
     {
       "id": "ty_dillon",
@@ -1097,7 +1127,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 27.7,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 34
     },
     {
       "id": "alex_bowman",
@@ -1132,7 +1163,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 26.7,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 33
     },
     {
       "id": "cole_custer",
@@ -1167,7 +1199,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 26.7,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 28
     },
     {
       "id": "connor_zilisch",
@@ -1202,7 +1235,8 @@ window.NASCAR_DATA = {
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 23.0,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 19
     },
     {
       "id": "cody_ware",
@@ -1237,46 +1271,12 @@ window.NASCAR_DATA = {
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 19.6,
-      "legendScore": 0.0
-    },
-    {
-      "id": "daniel_dye",
-      "position": 36,
-      "name": "Daniel Dye",
-      "country": "USA",
-      "team": "NASCAR Cup",
-      "manufacturer": "NASCAR",
-      "teamCode": "NAS",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "primary": "#E4002B",
-      "secondary": "#FFD200",
-      "colors": {
-        "primary": "#E4002B",
-        "secondary": "#FFD200"
-      },
-      "points": 13,
-      "wins": 0,
-      "poles": 0,
-      "top5": 0,
-      "top10": 0,
-      "stats": {
-        "pts": 13,
-        "wins": 0,
-        "poles": 0,
-        "top5": 0,
-        "top10": 0
-      },
-      "prevRank": null,
-      "playoffRank": 36,
-      "locked": false,
-      "playoffPoints": 0,
-      "playoffScore": 0.0,
-      "score": 1.8,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 30
     },
     {
       "id": "casey_mears",
-      "position": 37,
+      "position": 36,
       "name": "Casey Mears",
       "country": "USA",
       "team": "NASCAR Cup",
@@ -1302,16 +1302,17 @@ window.NASCAR_DATA = {
         "top10": 0
       },
       "prevRank": 36,
-      "playoffRank": 37,
+      "playoffRank": 36,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 1.4,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 48
     },
     {
       "id": "katherine_legge",
-      "position": 38,
+      "position": 37,
       "name": "Katherine Legge",
       "country": "USA",
       "team": "NASCAR Cup",
@@ -1337,16 +1338,17 @@ window.NASCAR_DATA = {
         "top10": 0
       },
       "prevRank": 37,
-      "playoffRank": 38,
+      "playoffRank": 37,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 1.1,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 45
     },
     {
       "id": "bj_mcleod",
-      "position": 39,
+      "position": 38,
       "name": "B.J. McLeod",
       "country": "USA",
       "team": "NASCAR Cup",
@@ -1372,16 +1374,17 @@ window.NASCAR_DATA = {
         "top10": 0
       },
       "prevRank": 38,
-      "playoffRank": 39,
+      "playoffRank": 38,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 0.4,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 42
     },
     {
       "id": "jimmie_johnson",
-      "position": 40,
+      "position": 39,
       "name": "Jimmie Johnson",
       "country": "USA",
       "team": "NASCAR Cup",
@@ -1407,12 +1410,193 @@ window.NASCAR_DATA = {
         "top10": 0
       },
       "prevRank": 39,
-      "playoffRank": 40,
+      "playoffRank": 39,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 0.0,
       "score": 0.0,
-      "legendScore": 0.0
+      "legendScore": 0.0,
+      "age": 50
+    }
+  ],
+  "PROSPECTS": [
+    {
+      "id": "ty_gibbs",
+      "name": "Ty Gibbs",
+      "country": "USA",
+      "team": "Joe Gibbs Racing",
+      "manufacturer": "Toyota",
+      "teamCode": "TOY",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "primary": "#EB0A1E",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#EB0A1E",
+        "secondary": "#FFFFFF"
+      },
+      "score": 71.9,
+      "position": 5,
+      "wins": 1,
+      "age": 23,
+      "note": "1 victoria a los 23"
+    },
+    {
+      "id": "carson_hocevar",
+      "name": "Carson Hocevar",
+      "country": "USA",
+      "team": "Spire Motorsports",
+      "manufacturer": "Chevrolet",
+      "teamCode": "CHE",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "primary": "#F7C600",
+      "secondary": "#111111",
+      "colors": {
+        "primary": "#F7C600",
+        "secondary": "#111111"
+      },
+      "score": 63.8,
+      "position": 9,
+      "wins": 1,
+      "age": 23,
+      "note": "1 victoria a los 23"
+    },
+    {
+      "id": "todd_gilliland",
+      "name": "Todd Gilliland",
+      "country": "USA",
+      "team": "NASCAR Cup",
+      "manufacturer": "NASCAR",
+      "teamCode": "NAS",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "primary": "#E4002B",
+      "secondary": "#FFD200",
+      "colors": {
+        "primary": "#E4002B",
+        "secondary": "#FFD200"
+      },
+      "score": 40.2,
+      "position": 25,
+      "wins": 0,
+      "age": 26,
+      "note": "Irrumpe a los 26 (P25)"
+    },
+    {
+      "id": "connor_zilisch",
+      "name": "Connor Zilisch",
+      "country": "USA",
+      "team": "NASCAR Cup",
+      "manufacturer": "NASCAR",
+      "teamCode": "NAS",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "primary": "#E4002B",
+      "secondary": "#FFD200",
+      "colors": {
+        "primary": "#E4002B",
+        "secondary": "#FFD200"
+      },
+      "score": 23.0,
+      "position": 34,
+      "wins": 0,
+      "age": 19,
+      "note": "Irrumpe a los 19 (P34)"
+    }
+  ],
+  "LEGEND_CHASE": [
+    {
+      "id": "joey_logano",
+      "name": "Joey Logano",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#E4002B",
+      "secondary": "#FFD200",
+      "colors": {
+        "primary": "#E4002B",
+        "secondary": "#FFD200"
+      },
+      "legendScore": 31.4,
+      "active": true,
+      "stats": {
+        "titles": 3,
+        "wins": 36,
+        "poles": 32,
+        "birth": 1990
+      },
+      "gap": 0.0,
+      "threshold": 14.7,
+      "note": "Ya en zona top 10 histórico · 3 títulos · 36 victorias"
+    },
+    {
+      "id": "kyle_busch",
+      "name": "Kyle Busch",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#E4002B",
+      "secondary": "#FFD200",
+      "colors": {
+        "primary": "#E4002B",
+        "secondary": "#FFD200"
+      },
+      "legendScore": 29.5,
+      "active": true,
+      "stats": {
+        "titles": 2,
+        "wins": 63,
+        "poles": 33,
+        "birth": 1985
+      },
+      "gap": 0.0,
+      "threshold": 14.7,
+      "note": "Ya en zona top 10 histórico · 2 títulos · 63 victorias"
+    },
+    {
+      "id": "kyle_larson",
+      "name": "Kyle Larson",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#E4002B",
+      "secondary": "#FFD200",
+      "colors": {
+        "primary": "#E4002B",
+        "secondary": "#FFD200"
+      },
+      "legendScore": 14.7,
+      "active": true,
+      "stats": {
+        "titles": 1,
+        "wins": 29,
+        "poles": 21,
+        "birth": 1992
+      },
+      "gap": 0.0,
+      "threshold": 14.7,
+      "note": "Ya en zona top 10 histórico · 1 título · 29 victorias"
+    },
+    {
+      "id": "denny_hamlin",
+      "name": "Denny Hamlin",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#E4002B",
+      "secondary": "#FFD200",
+      "colors": {
+        "primary": "#E4002B",
+        "secondary": "#FFD200"
+      },
+      "legendScore": 14.2,
+      "active": true,
+      "stats": {
+        "titles": 0,
+        "wins": 55,
+        "poles": 41,
+        "birth": 1980
+      },
+      "gap": 0.5,
+      "threshold": 14.7,
+      "note": "A 0.5 del top 10 histórico · 0 títulos · 55 victorias"
     }
   ],
   "LAST_RACE": {
