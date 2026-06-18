@@ -4084,6 +4084,56 @@ function NewsletterApp() {
                 </div>
               </header>
 
+              {(FTB.RECENT_MATCHES || []).length > 0 && (() => {
+                const results = FTB.RECENT_MATCHES.slice(0, 12);
+                const resultChip = (delta) => {
+                  const flat = Math.abs(delta) < 0.1;
+                  const up = delta > 0;
+                  const bg = flat ? "#9a948c" : up ? "#2a7a2a" : "#a02020";
+                  return (
+                    <span style={{ ...chipBase, background: bg, color: "#fff", gap: 1 }}>
+                      {flat ? "▪" : up ? "▲" : "▼"}{Math.abs(delta).toFixed(1)}
+                    </span>
+                  );
+                };
+                const sideName = (s) => (
+                  <span style={{ display: "inline-flex", alignItems: "center", gap: 5 }}>
+                    {s.logo && <img src={s.logo} alt="" width={18} height={13}
+                      style={{ borderRadius: 1, objectFit: "cover", flexShrink: 0 }} />}
+                    <span style={{ fontWeight: 700 }}>{s.name}</span>
+                  </span>
+                );
+                return (
+                  <NewsletterSection
+                    kicker="Resultados · variación Elo"
+                    title="Últimos partidos de selecciones"
+                    sub="Resultado real (ESPN) y cuánto Elo gana o pierde cada equipo tras el partido. Chip verde sube, rojo baja."
+                  >
+                    {results.map((m, i) => (
+                      <div key={m.id || i} style={matchRowStyle}>
+                        <span style={{ fontFamily: "monospace", fontSize: 11, color: "var(--muted,#888)", minWidth: 56, flexShrink: 0 }}>
+                          {wcMatchDate(m.date)}
+                        </span>
+                        <span style={{ flex: 1, display: "flex", alignItems: "center", gap: 6, flexWrap: "wrap" }}>
+                          {sideName(m.home)}
+                          {resultChip(m.home.delta)}
+                          <span style={{ fontFamily: "monospace", fontWeight: 700, fontSize: 14, padding: "0 2px" }}>
+                            {m.home.score}–{m.away.score}
+                          </span>
+                          {resultChip(m.away.delta)}
+                          {sideName(m.away)}
+                        </span>
+                        <span style={{ fontSize: 10, fontFamily: "monospace", fontWeight: 700,
+                          background: "var(--ink,#1a1714)", color: "var(--paper,#faf9f7)",
+                          padding: "2px 6px", borderRadius: 3, letterSpacing: "0.04em", flexShrink: 0 }}>
+                          {m.league}
+                        </span>
+                      </div>
+                    ))}
+                  </NewsletterSection>
+                );
+              })()}
+
               {wc && wc.upcomingMatches && wc.upcomingMatches.length > 0 && (
                 <NewsletterSection
                   kicker={`Mundial 2026 · ${wc.phase === "pre_tournament" ? "Arranca mañana" : "En curso"}`}
@@ -4147,6 +4197,7 @@ function NewsletterApp() {
                       alive={new Set()}
                       score={team.eloScore}
                       scoreDisplay={team.elo}
+                      scoreDelta={team.recentDelta}
                       scoreLabel="Elo"
                       scoreB={team.worldCups}
                       scoreBDisplay={team.worldCups}

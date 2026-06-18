@@ -4,7 +4,9 @@ from __future__ import annotations
 
 import json
 import re
-from datetime import date, datetime, timezone
+import sys
+import urllib.request
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -103,6 +105,217 @@ OPPONENT_ELOS: dict[str, int] = {
     "JPN": 1785, "KSA": 1605, "MAR": 1875, "SEN": 1795, "SWE": 1790,
     "UZB": 1625,
 }
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Resultados reales + variación Elo
+# ─────────────────────────────────────────────────────────────────────────────
+# El snapshot curado (CURRENT_RAW / OPPONENT_ELOS) es el rating de partida; a
+# partir de él reproducimos los partidos de selecciones publicados por ESPN y
+# aplicamos la fórmula de World Football Elo para mostrar cuánto Elo gana o
+# pierde cada equipo tras cada partido (chips verdes/rojos en la web).
+
+# Punto de partida del replay. Reproducimos desde el arranque del Mundial 2026
+# para que las variaciones acumuladas del torneo se reflejen en el Elo actual.
+REPLAY_START = date(2026, 6, 11)
+REPLAY_MAX_DAYS = 60  # red de seguridad: nunca reproducir más de N días hacia atrás
+
+# Ligas de selecciones que consultamos en el scoreboard de ESPN (slug -> etiqueta ES).
+ESPN_NATIONAL_LEAGUES: dict[str, str] = {
+    "fifa.world": "Mundial 2026",
+    "fifa.friendly": "Amistoso",
+    "uefa.nations": "UEFA Nations League",
+    "uefa.euroq": "Clasificación Euro",
+    "concacaf.nations.league": "CONCACAF Nations League",
+}
+
+# K-factor (peso del partido) por liga; fórmula eloratings.net.
+K_BY_LEAGUE: dict[str, int] = {
+    "fifa.world": 60,
+    "uefa.euroq": 40,
+    "uefa.nations": 40,
+    "concacaf.nations.league": 35,
+    "fifa.friendly": 20,
+}
+DEFAULT_K = 30
+# Ventaja de campo: 0 en torneos a sede neutral (Mundial), ~60 en el resto.
+HOME_ADV_BY_LEAGUE: dict[str, int] = {"fifa.world": 0}
+DEFAULT_HOME_ADV = 60
+
+# Elo de partida por selección (abreviatura ESPN). Top 10 = CURRENT_RAW; el resto
+# son estimaciones curadas tipo World Football Elo para tener un universo cerrado.
+ELO_SEED: dict[str, int] = {
+    "ARG": 2133, "ESP": 2109, "FRA": 2029, "ENG": 2017, "POR": 1997,
+    "BRA": 1985, "NED": 1976, "GER": 1958, "ITA": 1945, "URU": 1934,
+    "COL": 1960, "BEL": 1925, "MAR": 1875, "AUT": 1840, "CRO": 1835,
+    "CIV": 1820, "SUI": 1820, "NOR": 1815, "USA": 1800, "ALG": 1800,
+    "SEN": 1795, "SWE": 1790, "MEX": 1790, "SCO": 1790, "JPN": 1785,
+    "TUR": 1780, "KOR": 1770, "IRN": 1760, "CZE": 1760, "CAN": 1760,
+    "ECU": 1750, "EGY": 1740, "AUS": 1730, "PAR": 1730, "GHA": 1720,
+    "TUN": 1700, "BIH": 1700, "QAT": 1690, "RSA": 1670, "COD": 1665,
+    "IRQ": 1660, "PAN": 1655, "UZB": 1625, "CPV": 1615, "KSA": 1605,
+    "CUW": 1560, "NZL": 1560, "JOR": 1545, "HAI": 1545,
+}
+DEFAULT_SEED_ELO = 1600
+
+# Nombre en español por abreviatura (para la UI). Fallback: displayName de ESPN.
+NAME_ES: dict[str, str] = {
+    "ARG": "Argentina", "ESP": "España", "FRA": "Francia", "ENG": "Inglaterra",
+    "POR": "Portugal", "BRA": "Brasil", "NED": "Países Bajos", "GER": "Alemania",
+    "ITA": "Italia", "URU": "Uruguay", "COL": "Colombia", "BEL": "Bélgica",
+    "MAR": "Marruecos", "AUT": "Austria", "CRO": "Croacia", "CIV": "Costa de Marfil",
+    "SUI": "Suiza", "NOR": "Noruega", "USA": "Estados Unidos", "ALG": "Argelia",
+    "SEN": "Senegal", "SWE": "Suecia", "MEX": "México", "SCO": "Escocia",
+    "JPN": "Japón", "TUR": "Türkiye", "KOR": "Corea del Sur", "IRN": "Irán",
+    "CZE": "Chequia", "CAN": "Canadá", "ECU": "Ecuador", "EGY": "Egipto",
+    "AUS": "Australia", "PAR": "Paraguay", "GHA": "Ghana", "TUN": "Túnez",
+    "BIH": "Bosnia", "QAT": "Catar", "RSA": "Sudáfrica", "COD": "RD Congo",
+    "IRQ": "Irak", "PAN": "Panamá", "UZB": "Uzbekistán", "CPV": "Cabo Verde",
+    "KSA": "Arabia Saudí", "CUW": "Curazao", "NZL": "Nueva Zelanda",
+    "JOR": "Jordania", "HAI": "Haití",
+}
+
+# Selecciones destacadas: las del top 10 curado. Solo mostramos en el feed de
+# resultados los partidos que involucran a alguna de ellas.
+FEATURED_CODES = {COUNTRIES[name]["code"] for name, *_ in CURRENT_RAW}
+
+
+def _expected_score(elo_a: float, elo_b: float) -> float:
+    return 1.0 / (1.0 + 10 ** ((elo_b - elo_a) / 400.0))
+
+
+def _goal_index(goal_diff: int) -> float:
+    gd = abs(goal_diff)
+    if gd <= 1:
+        return 1.0
+    if gd == 2:
+        return 1.5
+    return (11 + gd) / 8.0
+
+
+def _fetch_espn_events(slug: str, start: date, end: date) -> list[dict]:
+    url = (
+        f"https://site.api.espn.com/apis/site/v2/sports/soccer/{slug}/scoreboard"
+        f"?dates={start:%Y%m%d}-{end:%Y%m%d}&limit=300"
+    )
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Hermes/1.0"})
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            data = json.load(resp)
+    except Exception as exc:  # noqa: BLE001 - never break the build on a feed hiccup
+        print(f"[WARN] ESPN soccer {slug} unavailable: {exc}", file=sys.stderr)
+        return []
+    return data.get("events", [])
+
+
+def _parse_match(event: dict, slug: str) -> dict | None:
+    """Convierte un evento ESPN finalizado en un dict de partido normalizado."""
+    status = event.get("status", {}).get("type", {})
+    if not status.get("completed"):
+        return None
+    comps = event.get("competitions", [{}])[0].get("competitors", [])
+    if len(comps) != 2:
+        return None
+    sides = {}
+    for c in comps:
+        team = c.get("team", {})
+        code = (team.get("abbreviation") or "").upper()
+        try:
+            score = int(c.get("score"))
+        except (TypeError, ValueError):
+            return None
+        sides[c.get("homeAway", "home")] = {
+            "code": code,
+            "espnName": team.get("displayName") or code,
+            "name": NAME_ES.get(code, team.get("displayName") or code),
+            "logo": team.get("logo") or team.get("flag"),
+            "score": score,
+        }
+    if "home" not in sides or "away" not in sides:
+        return None
+    return {
+        "id": event.get("id"),
+        "date": (event.get("date") or "")[:10],
+        "slug": slug,
+        "league": ESPN_NATIONAL_LEAGUES.get(slug, slug),
+        "home": sides["home"],
+        "away": sides["away"],
+    }
+
+
+def _collect_matches(start: date, end: date) -> list[dict]:
+    seen: set[str] = set()
+    matches: list[dict] = []
+    for slug in ESPN_NATIONAL_LEAGUES:
+        for event in _fetch_espn_events(slug, start, end):
+            match = _parse_match(event, slug)
+            if not match:
+                continue
+            key = match["id"] or f"{match['date']}-{match['home']['code']}-{match['away']['code']}"
+            if key in seen:
+                continue
+            seen.add(key)
+            matches.append(match)
+    matches.sort(key=lambda m: (m["date"], m["id"] or ""))
+    return matches
+
+
+def replay_elo(seed_elos: dict[str, int]) -> tuple[list[dict], dict[str, float], dict[str, float], dict[str, int]]:
+    """Reproduce los partidos del periodo y devuelve (feed, elos_finales, deltas_netos, partidos)."""
+    today = date.today()
+    start = max(REPLAY_START, today - timedelta(days=REPLAY_MAX_DAYS))
+    matches = _collect_matches(start, today)
+    elos: dict[str, float] = {}
+
+    def elo_of(code: str) -> float:
+        if code not in elos:
+            elos[code] = float(seed_elos.get(code, DEFAULT_SEED_ELO))
+        return elos[code]
+
+    net_delta: dict[str, float] = {}
+    played: dict[str, int] = {}
+    feed: list[dict] = []
+    for m in matches:
+        hc, ac = m["home"]["code"], m["away"]["code"]
+        hs, as_ = m["home"]["score"], m["away"]["score"]
+        eh, ea = elo_of(hc), elo_of(ac)
+        k = K_BY_LEAGUE.get(m["slug"], DEFAULT_K)
+        home_adv = HOME_ADV_BY_LEAGUE.get(m["slug"], DEFAULT_HOME_ADV)
+        exp_home = _expected_score(eh + home_adv, ea)
+        result_home = 1.0 if hs > as_ else (0.5 if hs == as_ else 0.0)
+        delta_home = k * _goal_index(hs - as_) * (result_home - exp_home)
+        elos[hc] = eh + delta_home
+        elos[ac] = ea - delta_home
+        for code, d in ((hc, delta_home), (ac, -delta_home)):
+            net_delta[code] = net_delta.get(code, 0.0) + d
+            played[code] = played.get(code, 0) + 1
+
+        def side(code, before, delta, score, opp_score, meta):
+            return {
+                "code": code,
+                "name": meta["name"],
+                "logo": meta["logo"],
+                "score": score,
+                "eloBefore": round(before),
+                "eloAfter": round(before + delta),
+                "delta": round(delta, 1),
+                "result": "W" if score > opp_score else ("D" if score == opp_score else "L"),
+            }
+
+        featured = [c for c in (hc, ac) if c in FEATURED_CODES]
+        if featured:
+            feed.append({
+                "id": m["id"],
+                "date": m["date"],
+                "league": m["league"],
+                "slug": m["slug"],
+                "featured": featured,
+                "home": side(hc, eh, delta_home, hs, as_, m["home"]),
+                "away": side(ac, ea, -delta_home, as_, hs, m["away"]),
+            })
+
+    feed.sort(key=lambda f: (f["date"], f["id"] or ""), reverse=True)
+    return feed, dict(elos), net_delta, played
 
 
 DYNASTIES_RAW = [
@@ -480,8 +693,39 @@ def importance() -> float:
     return 6.0
 
 
+def apply_recent_results(teams: list[dict]) -> list[dict]:
+    """Reproduce resultados reales sobre el Elo semilla y actualiza el top 10.
+
+    Devuelve el feed de partidos recientes (con variación Elo por equipo).
+    """
+    seed = dict(ELO_SEED)
+    for team in teams:  # el snapshot curado manda sobre la estimación
+        seed[team["teamCode"]] = team["elo"]
+    feed, final_elos, net_delta, played = replay_elo(seed)
+    for team in teams:
+        code = team["teamCode"]
+        if code in final_elos:
+            team["eloPrev"] = team["elo"]
+            team["elo"] = round(final_elos[code])
+            team["recentDelta"] = round(net_delta.get(code, 0.0), 1)
+            team["recentMatches"] = played.get(code, 0)
+        else:
+            team["recentDelta"] = 0.0
+            team["recentMatches"] = 0
+    # Re-ranking y re-escalado del eloScore tras incorporar resultados.
+    teams.sort(key=lambda t: t["elo"], reverse=True)
+    max_elo = max(t["elo"] for t in teams)
+    min_elo = min(t["elo"] for t in teams)
+    span = (max_elo - min_elo) or 1
+    for i, team in enumerate(teams):
+        team["rank"] = i + 1
+        team["eloScore"] = round(70 + (team["elo"] - min_elo) / span * 30, 1)
+    return feed
+
+
 def write_data() -> None:
     teams = build_teams()
+    recent_matches = apply_recent_results(teams)
     world_cup = build_world_cup(teams)
     attach_next_matches(teams, world_cup)
     dynasties = build_dynasties()
@@ -493,12 +737,13 @@ def write_data() -> None:
         "UPDATED": updated,
         "SEASON": "Men's national teams",
         "SOURCE": {
-            "name": "Hermes curated snapshot using World Football Elo / MoreElo-style ratings",
-            "notes": "Daily-generated static snapshot; update CURRENT_RAW seeds when source rankings move.",
+            "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
+            "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
             "through": updated,
         },
         "IMPORTANCE": importance(),
         "TEAMS": teams,
+        "RECENT_MATCHES": recent_matches,
         "WORLD_CUP_2026": world_cup,
         "ROAD_TO_GLORY": {
             "dynastyThreshold": threshold,
@@ -511,7 +756,7 @@ def write_data() -> None:
         f"// Auto-generated {updated}\nwindow.FOOTBALL_DATA = {json.dumps(payload, ensure_ascii=False, indent=2)};\n",
         encoding="utf-8",
     )
-    print(f"Wrote {OUT.relative_to(ROOT)} · {len(teams)} teams · {len(dynasties)} dynasties")
+    print(f"Wrote {OUT.relative_to(ROOT)} · {len(teams)} teams · {len(dynasties)} dynasties · {len(recent_matches)} recent matches")
 
 
 if __name__ == "__main__":
