@@ -1296,7 +1296,7 @@ window.NBA_DATA = {
       "last": "Mobley",
       "pos": "C",
       "teamCode": "CLE",
-      "age": 24,
+      "age": 25,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4432158.png",
       "colors": {
         "primary": "#860038",
@@ -1312,7 +1312,7 @@ window.NBA_DATA = {
         "blk": 1.8,
         "min": 35.6
       },
-      "legendScore": 49.7
+      "legendScore": 50.7
     },
     {
       "id": 3136195,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-06-19 10:59 UTC",
+  "LAST_UPDATE": "2026-06-19 15:53 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

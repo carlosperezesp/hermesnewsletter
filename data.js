@@ -105,7 +105,7 @@ window.NHL_DATA = {
       "gf": 290,
       "ga": 231,
       "gd": 59,
-      "score": 69,
+      "score": 68,
       "logo": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
       "colors": {
         "primary": "#002868",
@@ -611,7 +611,7 @@ window.NHL_DATA = {
       "gf": 253,
       "ga": 299,
       "gd": -46,
-      "score": 46,
+      "score": 47,
       "logo": "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg",
       "colors": {
         "primary": "#00205b",
@@ -2070,25 +2070,24 @@ window.NHL_DATA = {
       "last": "Raddysh",
       "name": "Darren Raddysh",
       "pos": "D",
-      "teamCode": "TBL",
+      "teamCode": "TOR",
       "age": 30,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
-        "primary": "#002868",
+        "primary": "#00205b",
         "secondary": "#ffffff"
       },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8478178.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8478178.png",
       "score": 76,
       "stats": {
-        "gp": 80,
-        "g": 23,
-        "a": 49,
-        "p": 72,
-        "pm": 22,
+        "gp": 73,
+        "g": 22,
+        "a": 48,
+        "p": 70,
+        "pm": 21,
         "toi": 22.7,
-        "shots": 212,
-        "gp_po": 7
+        "shots": 212
       },
       "trajectory": [
         50,
@@ -45006,10 +45005,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-19 10:59 UTC",
+  "LAST_UPDATE": "2026-06-19 15:53 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-19T10:59:15Z"
+    "standingsDateTimeUtc": "2026-06-19T15:52:16Z"
   }
 };
