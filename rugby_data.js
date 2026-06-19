@@ -1,16 +1,16 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-06-19 16:20 UTC",
-  "LAST_MATCH": "2026-03-14",
+  "UPDATED": "2026-06-19 21:36 UTC",
+  "LAST_MATCH": "2026-04-10",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 226,
-    "teams": 160,
-    "matches": 9921,
-    "through": "2026-03-14"
+    "incrementalMatches": 326,
+    "teams": 162,
+    "matches": 10021,
+    "through": "2026-04-10"
   },
   "IMPORTANCE": 3.5,
   "ELO_MODEL": {
@@ -30,80 +30,80 @@ window.RUGBY_DATA = {
       "name": "South Africa",
       "teamCode": "RSA",
       "country": "South Africa",
-      "elo": 2687.4,
-      "eloRaw": 2687.4,
+      "elo": 2702.8,
+      "eloRaw": 2702.8,
       "lastMatch": "2025-11-29",
-      "inactiveDays": 105,
-      "peakElo": 2687.4,
+      "inactiveDays": 132,
+      "peakElo": 2702.8,
       "peakDate": "2025-11-29",
       "worldCups": 4,
       "record": {
-        "w": 353,
-        "l": 177,
+        "w": 356,
+        "l": 178,
         "d": 25
       },
       "colors": {
         "primary": "#007a4d",
         "secondary": "#ffb612"
       },
-      "note": "353V-177D-25E · último 2025-11-29 · raw 2687"
+      "note": "356V-178D-25E · último 2025-11-29 · raw 2703"
     },
     {
       "rank": 2,
       "name": "New Zealand",
       "teamCode": "NZL",
       "country": "New Zealand",
-      "elo": 2598.5,
-      "eloRaw": 2598.5,
+      "elo": 2608.0,
+      "eloRaw": 2608.0,
       "lastMatch": "2025-11-22",
-      "inactiveDays": 112,
+      "inactiveDays": 139,
       "peakElo": 2749.6,
       "peakDate": "2016-10-22",
       "worldCups": 3,
       "record": {
-        "w": 550,
-        "l": 139,
+        "w": 551,
+        "l": 141,
         "d": 26
       },
       "colors": {
         "primary": "#111111",
         "secondary": "#d8d8d8"
       },
-      "note": "550V-139D-26E · último 2025-11-22 · raw 2599"
+      "note": "551V-141D-26E · último 2025-11-22 · raw 2608"
     },
     {
       "rank": 3,
       "name": "Ireland",
       "teamCode": "IRE",
       "country": "Ireland",
-      "elo": 2549.9,
-      "eloRaw": 2549.9,
+      "elo": 2556.2,
+      "eloRaw": 2556.2,
       "lastMatch": "2026-03-14",
-      "inactiveDays": 0,
+      "inactiveDays": 27,
       "peakElo": 2684.1,
       "peakDate": "2023-10-07",
       "worldCups": 0,
       "record": {
-        "w": 375,
-        "l": 345,
+        "w": 377,
+        "l": 347,
         "d": 64
       },
       "colors": {
         "primary": "#169b62",
         "secondary": "#ff883e"
       },
-      "note": "375V-345D-64E · último 2026-03-14 · raw 2550"
+      "note": "377V-347D-64E · último 2026-03-14 · raw 2556"
     },
     {
       "rank": 4,
       "name": "France",
       "teamCode": "FRA",
       "country": "France",
-      "elo": 2512.1,
-      "eloRaw": 2512.1,
+      "elo": 2511.6,
+      "eloRaw": 2511.6,
       "lastMatch": "2026-03-14",
-      "inactiveDays": 0,
-      "peakElo": 2589.7,
+      "inactiveDays": 27,
+      "peakElo": 2587.1,
       "peakDate": "2025-03-15",
       "worldCups": 0,
       "record": {
@@ -122,34 +122,34 @@ window.RUGBY_DATA = {
       "name": "England",
       "teamCode": "ENG",
       "country": "England",
-      "elo": 2413.1,
-      "eloRaw": 2413.1,
+      "elo": 2382.2,
+      "eloRaw": 2382.2,
       "lastMatch": "2026-03-14",
-      "inactiveDays": 0,
+      "inactiveDays": 27,
       "peakElo": 2568.0,
       "peakDate": "2019-10-26",
       "worldCups": 1,
       "record": {
         "w": 455,
-        "l": 307,
+        "l": 308,
         "d": 82
       },
       "colors": {
         "primary": "#ffffff",
         "secondary": "#cf142b"
       },
-      "note": "455V-307D-82E · último 2026-03-14 · raw 2413"
+      "note": "455V-308D-82E · último 2026-03-14 · raw 2382"
     },
     {
       "rank": 6,
       "name": "Argentina",
       "teamCode": "ARG",
       "country": "Argentina",
-      "elo": 2342.0,
-      "eloRaw": 2342.0,
+      "elo": 2344.4,
+      "eloRaw": 2344.4,
       "lastMatch": "2025-11-23",
-      "inactiveDays": 111,
-      "peakElo": 2352.2,
+      "inactiveDays": 138,
+      "peakElo": 2354.6,
       "peakDate": "2025-11-16",
       "worldCups": 0,
       "record": {
@@ -161,18 +161,18 @@ window.RUGBY_DATA = {
         "primary": "#75aadb",
         "secondary": "#f6b40e"
       },
-      "note": "258V-228D-13E · último 2025-11-23 · raw 2342"
+      "note": "258V-228D-13E · último 2025-11-23 · raw 2344"
     },
     {
       "rank": 7,
       "name": "Scotland",
       "teamCode": "SCO",
       "country": "Scotland",
-      "elo": 2330.9,
-      "eloRaw": 2330.9,
+      "elo": 2331.2,
+      "eloRaw": 2331.2,
       "lastMatch": "2026-03-14",
-      "inactiveDays": 0,
-      "peakElo": 2363.1,
+      "inactiveDays": 27,
+      "peakElo": 2365.2,
       "peakDate": "2025-02-01",
       "worldCups": 0,
       "record": {
@@ -191,11 +191,11 @@ window.RUGBY_DATA = {
       "name": "Fiji",
       "teamCode": "FIJ",
       "country": "Fiji",
-      "elo": 2237.1,
-      "eloRaw": 2237.1,
+      "elo": 2236.5,
+      "eloRaw": 2236.5,
       "lastMatch": "2025-11-22",
-      "inactiveDays": 112,
-      "peakElo": 2250.9,
+      "inactiveDays": 139,
+      "peakElo": 2249.9,
       "peakDate": "2025-09-21",
       "worldCups": 0,
       "record": {
@@ -214,10 +214,10 @@ window.RUGBY_DATA = {
       "name": "Australia",
       "teamCode": "AUS",
       "country": "Australia",
-      "elo": 2210.6,
-      "eloRaw": 2210.6,
+      "elo": 2211.4,
+      "eloRaw": 2211.4,
       "lastMatch": "2025-11-22",
-      "inactiveDays": 112,
+      "inactiveDays": 139,
       "peakElo": 2471.1,
       "peakDate": "2015-10-25",
       "worldCups": 2,
@@ -237,11 +237,11 @@ window.RUGBY_DATA = {
       "name": "Italy",
       "teamCode": "ITA",
       "country": "Italy",
-      "elo": 2137.1,
-      "eloRaw": 2137.1,
+      "elo": 2138.4,
+      "eloRaw": 2138.4,
       "lastMatch": "2026-03-14",
-      "inactiveDays": 0,
-      "peakElo": 2180.3,
+      "inactiveDays": 27,
+      "peakElo": 2181.6,
       "peakDate": "2026-03-07",
       "worldCups": 0,
       "record": {
@@ -253,11 +253,11 @@ window.RUGBY_DATA = {
         "primary": "#0066b3",
         "secondary": "#009246"
       },
-      "note": "215V-334D-15E · último 2026-03-14 · raw 2137"
+      "note": "215V-334D-15E · último 2026-03-14 · raw 2138"
     }
   ],
   "ROAD_TO_GLORY": {
-    "dynastyThreshold": 11.6,
+    "dynastyThreshold": 9.9,
     "dynasties": [
       {
         "name": "New Zealand",
@@ -444,29 +444,6 @@ window.RUGBY_DATA = {
         "dynastyScore": 13.4
       },
       {
-        "name": "Ireland",
-        "teamCode": "IRE",
-        "country": "Ireland",
-        "era": "2022-2025",
-        "startDate": "2022-07-09",
-        "endDate": "2025-03-08",
-        "daysNo1": 973,
-        "yearsNo1": 2.7,
-        "weeksNo1": 139,
-        "matchCount": 29,
-        "matchesPerYear": 10.9,
-        "densityFactor": 1.0,
-        "worldCups": 0,
-        "worldCupYears": "ninguno",
-        "colors": {
-          "primary": "#169b62",
-          "secondary": "#ff883e"
-        },
-        "note": "2.7 años como #1 Hermes Elo · 29 tests",
-        "rank": 9,
-        "dynastyScore": 13.2
-      },
-      {
         "name": "Wales",
         "teamCode": "WAL",
         "country": "Wales",
@@ -486,8 +463,31 @@ window.RUGBY_DATA = {
           "secondary": "#ffffff"
         },
         "note": "4.1 años como #1 Hermes Elo · 14 tests",
-        "rank": 10,
+        "rank": 9,
         "dynastyScore": 11.6
+      },
+      {
+        "name": "Scotland",
+        "teamCode": "SCO",
+        "country": "Scotland",
+        "era": "1896-1900",
+        "startDate": "1896-02-01",
+        "endDate": "1900-03-17",
+        "daysNo1": 1505,
+        "yearsNo1": 4.1,
+        "weeksNo1": 215,
+        "matchCount": 12,
+        "matchesPerYear": 2.9,
+        "densityFactor": 0.49,
+        "worldCups": 0,
+        "worldCupYears": "ninguno",
+        "colors": {
+          "primary": "#005eb8",
+          "secondary": "#ffffff"
+        },
+        "note": "4.1 años como #1 Hermes Elo · 12 tests",
+        "rank": 10,
+        "dynastyScore": 9.9
       }
     ]
   }

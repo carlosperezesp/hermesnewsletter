@@ -171,6 +171,27 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "CHC",
+      "city": "Chicago Cubs",
+      "shortName": "Chicago",
+      "commonName": "Cubs",
+      "conf": "NL",
+      "div": "NL Central",
+      "gp": 76,
+      "w": 40,
+      "l": 36,
+      "winPct": 0.526,
+      "rf": 360,
+      "ra": 337,
+      "rd": 0,
+      "score": 42,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png",
+      "colors": {
+        "primary": "#0e3386",
+        "secondary": "#cc3433"
+      }
+    },
+    {
       "code": "CHW",
       "city": "Chicago White Sox",
       "shortName": "Chicago",
@@ -231,27 +252,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#ab0003",
         "secondary": "#14225a"
-      }
-    },
-    {
-      "code": "CHC",
-      "city": "Chicago Cubs",
-      "shortName": "Chicago",
-      "commonName": "Cubs",
-      "conf": "NL",
-      "div": "NL Central",
-      "gp": 75,
-      "w": 39,
-      "l": 36,
-      "winPct": 0.52,
-      "rf": 344,
-      "ra": 335,
-      "rd": 0,
-      "score": 42,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png",
-      "colors": {
-        "primary": "#0e3386",
-        "secondary": "#cc3433"
       }
     },
     {
@@ -318,27 +318,6 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "TOR",
-      "city": "Toronto Blue Jays",
-      "shortName": "Toronto",
-      "commonName": "Blue Jays",
-      "conf": "AL",
-      "div": "AL East",
-      "gp": 75,
-      "w": 37,
-      "l": 38,
-      "winPct": 0.493,
-      "rf": 306,
-      "ra": 319,
-      "rd": 0,
-      "score": 39,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
-      "colors": {
-        "primary": "#134a8e",
-        "secondary": "#e8291c"
-      }
-    },
-    {
       "code": "ATH",
       "city": "Athletics",
       "shortName": "Athletics",
@@ -357,6 +336,27 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#003831",
         "secondary": "#efb21e"
+      }
+    },
+    {
+      "code": "TOR",
+      "city": "Toronto Blue Jays",
+      "shortName": "Toronto",
+      "commonName": "Blue Jays",
+      "conf": "AL",
+      "div": "AL East",
+      "gp": 76,
+      "w": 37,
+      "l": 39,
+      "winPct": 0.487,
+      "rf": 308,
+      "ra": 335,
+      "rd": 0,
+      "score": 39,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
+      "colors": {
+        "primary": "#134a8e",
+        "secondary": "#e8291c"
       }
     },
     {
@@ -8137,7 +8137,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-19 16:19 UTC",
+  "LAST_UPDATE": "2026-06-19 21:35 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
