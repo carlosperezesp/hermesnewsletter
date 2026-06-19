@@ -20086,7 +20086,7 @@ window.NHL_DATA = {
       "name": "Jonny Brodzinski",
       "pos": "C",
       "teamCode": "NYR",
-      "age": 32,
+      "age": 33,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -45006,10 +45006,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-18 23:13 UTC",
+  "LAST_UPDATE": "2026-06-19 09:53 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-18T23:12:45Z"
+    "standingsDateTimeUtc": "2026-06-19T09:53:00Z"
   }
 };

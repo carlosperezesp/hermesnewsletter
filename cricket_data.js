@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-06-18 23:15 UTC",
+  "UPDATED": "2026-06-19 09:55 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1489,
+    "matches": 1485,
     "archives": [
       {
         "name": "Tests",
@@ -13,11 +13,11 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 151
+        "matches": 150
       },
       {
         "name": "T20Is",
-        "matches": 825
+        "matches": 822
       },
       {
         "name": "IPL",
@@ -452,16 +452,16 @@ window.CRICKET_DATA = {
       "id": "mehedi-hasan-miraz",
       "name": "Mehedi Hasan Miraz",
       "role": "All-rounder",
-      "score": 82.5,
-      "legendScore": 63.7,
+      "score": 82.6,
+      "legendScore": 63.6,
       "stats": {
         "test": 86.3,
         "odi": 83.7,
-        "t20": 80.5,
-        "franchise": 71.4,
-        "runs": 1063,
+        "t20": 80.8,
+        "franchise": 71.7,
+        "runs": 1037,
         "wickets": 73,
-        "matches": 38
+        "matches": 37
       },
       "formatScores": {
         "test": {
@@ -476,13 +476,13 @@ window.CRICKET_DATA = {
         },
         "t20": {
           "overall": 86.2,
-          "batting": 25.8,
-          "bowling": 68.9
+          "batting": 25.7,
+          "bowling": 69.2
         },
         "franchise": {
-          "overall": 84.2,
-          "batting": 25.8,
-          "bowling": 60.8
+          "overall": 84.3,
+          "batting": 25.7,
+          "bowling": 61.1
         }
       },
       "country": "Bangladesh",
@@ -530,7 +530,7 @@ window.CRICKET_DATA = {
           "batting": 35.4,
           "bowling": 73.8,
           "overall": 91.3,
-          "runs": 1063,
+          "runs": 1037,
           "wickets": 73
         },
         {
@@ -1114,7 +1114,7 @@ window.CRICKET_DATA = {
           "batting": 34.1,
           "bowling": 76.7,
           "overall": 87.0,
-          "runs": 1063,
+          "runs": 1037,
           "wickets": 73
         },
         {
@@ -1190,6 +1190,24 @@ window.CRICKET_DATA = {
           "wickets": 74
         },
         {
+          "id": "m-jansen",
+          "name": "M Jansen",
+          "role": "Bowler",
+          "country": "South Africa",
+          "teamCode": "SA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb81c"
+          },
+          "logo": "https://flagcdn.com/24x18/za.png",
+          "score": 74.8,
+          "batting": 27.8,
+          "bowling": 69.6,
+          "overall": 74.8,
+          "runs": 556,
+          "wickets": 104
+        },
+        {
           "id": "taijul-islam",
           "name": "Taijul Islam",
           "role": "Bowler",
@@ -1206,24 +1224,6 @@ window.CRICKET_DATA = {
           "overall": 74.0,
           "runs": 249,
           "wickets": 68
-        },
-        {
-          "id": "m-jansen",
-          "name": "M Jansen",
-          "role": "Bowler",
-          "country": "South Africa",
-          "teamCode": "SA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb81c"
-          },
-          "logo": "https://flagcdn.com/24x18/za.png",
-          "score": 73.5,
-          "batting": 26.9,
-          "bowling": 69.4,
-          "overall": 73.5,
-          "runs": 566,
-          "wickets": 105
         }
       ],
       "batting": [
@@ -1264,24 +1264,6 @@ window.CRICKET_DATA = {
           "wickets": 0
         },
         {
-          "id": "h-klaasen",
-          "name": "H Klaasen",
-          "role": "Batter",
-          "country": "South Africa",
-          "teamCode": "SA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb81c"
-          },
-          "logo": "https://flagcdn.com/24x18/za.png",
-          "score": 77.7,
-          "batting": 77.7,
-          "bowling": 0.5,
-          "overall": 10.6,
-          "runs": 1768,
-          "wickets": 0
-        },
-        {
           "id": "je-root",
           "name": "JE Root",
           "role": "Batter",
@@ -1298,6 +1280,24 @@ window.CRICKET_DATA = {
           "overall": 42.8,
           "runs": 3151,
           "wickets": 8
+        },
+        {
+          "id": "h-klaasen",
+          "name": "H Klaasen",
+          "role": "Batter",
+          "country": "South Africa",
+          "teamCode": "SA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb81c"
+          },
+          "logo": "https://flagcdn.com/24x18/za.png",
+          "score": 74.6,
+          "batting": 74.6,
+          "bowling": 0.4,
+          "overall": 9.3,
+          "runs": 1682,
+          "wickets": 0
         },
         {
           "id": "ld-chandimal",
@@ -1659,10 +1659,10 @@ window.CRICKET_DATA = {
           },
           "logo": "https://flagcdn.com/24x18/bd.png",
           "score": 86.2,
-          "batting": 25.8,
-          "bowling": 68.9,
+          "batting": 25.7,
+          "bowling": 69.2,
           "overall": 86.2,
-          "runs": 1063,
+          "runs": 1037,
           "wickets": 73
         },
         {
@@ -1866,24 +1866,6 @@ window.CRICKET_DATA = {
           "wickets": 0
         },
         {
-          "id": "h-klaasen",
-          "name": "H Klaasen",
-          "role": "Batter",
-          "country": "South Africa",
-          "teamCode": "SA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb81c"
-          },
-          "logo": "https://flagcdn.com/24x18/za.png",
-          "score": 62.1,
-          "batting": 62.1,
-          "bowling": 0.4,
-          "overall": 10.2,
-          "runs": 1768,
-          "wickets": 0
-        },
-        {
           "id": "je-root",
           "name": "JE Root",
           "role": "Batter",
@@ -1900,6 +1882,24 @@ window.CRICKET_DATA = {
           "overall": 40.5,
           "runs": 3151,
           "wickets": 8
+        },
+        {
+          "id": "h-klaasen",
+          "name": "H Klaasen",
+          "role": "Batter",
+          "country": "South Africa",
+          "teamCode": "SA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb81c"
+          },
+          "logo": "https://flagcdn.com/24x18/za.png",
+          "score": 60.1,
+          "batting": 60.1,
+          "bowling": 0.4,
+          "overall": 10.0,
+          "runs": 1682,
+          "wickets": 0
         },
         {
           "id": "hamza-dar",
@@ -2224,11 +2224,11 @@ window.CRICKET_DATA = {
             "secondary": "#f42a41"
           },
           "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 84.2,
-          "batting": 25.8,
-          "bowling": 60.8,
-          "overall": 84.2,
-          "runs": 1063,
+          "score": 84.3,
+          "batting": 25.7,
+          "bowling": 61.1,
+          "overall": 84.3,
+          "runs": 1037,
           "wickets": 73
         },
         {
@@ -2278,12 +2278,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffb81c"
           },
           "logo": "https://flagcdn.com/24x18/za.png",
-          "score": 76.8,
-          "batting": 16.1,
-          "bowling": 80.9,
-          "overall": 76.8,
-          "runs": 566,
-          "wickets": 105
+          "score": 77.1,
+          "batting": 16.4,
+          "bowling": 80.2,
+          "overall": 77.1,
+          "runs": 556,
+          "wickets": 104
         },
         {
           "id": "virandeep-singh",
@@ -2552,12 +2552,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 88.5,
-          "batting": 11.4,
-          "bowling": 88.5,
+          "score": 87.8,
+          "batting": 11.5,
+          "bowling": 87.8,
           "overall": 67.6,
           "runs": 446,
-          "wickets": 117
+          "wickets": 116
         },
         {
           "id": "mj-henry",
@@ -3627,51 +3627,6 @@ window.CRICKET_DATA = {
         "logo": "https://flagcdn.com/24x18/nz.png"
       },
       {
-        "id": "mehedi-hasan-miraz",
-        "name": "Mehedi Hasan Miraz",
-        "role": "All-rounder",
-        "score": 82.5,
-        "legendScore": 63.7,
-        "stats": {
-          "test": 86.3,
-          "odi": 83.7,
-          "t20": 80.5,
-          "franchise": 71.4,
-          "runs": 1063,
-          "wickets": 73,
-          "matches": 38
-        },
-        "formatScores": {
-          "test": {
-            "overall": 91.3,
-            "batting": 35.4,
-            "bowling": 73.8
-          },
-          "odi": {
-            "overall": 87.0,
-            "batting": 34.1,
-            "bowling": 76.7
-          },
-          "t20": {
-            "overall": 86.2,
-            "batting": 25.8,
-            "bowling": 68.9
-          },
-          "franchise": {
-            "overall": 84.2,
-            "batting": 25.8,
-            "bowling": 60.8
-          }
-        },
-        "country": "Bangladesh",
-        "teamCode": "BAN",
-        "colors": {
-          "primary": "#006a4e",
-          "secondary": "#f42a41"
-        },
-        "logo": "https://flagcdn.com/24x18/bd.png"
-      },
-      {
         "id": "taijul-islam",
         "name": "Taijul Islam",
         "role": "Bowler",
@@ -3706,6 +3661,51 @@ window.CRICKET_DATA = {
             "overall": 73.3,
             "batting": 15.9,
             "bowling": 74.7
+          }
+        },
+        "country": "Bangladesh",
+        "teamCode": "BAN",
+        "colors": {
+          "primary": "#006a4e",
+          "secondary": "#f42a41"
+        },
+        "logo": "https://flagcdn.com/24x18/bd.png"
+      },
+      {
+        "id": "mehedi-hasan-miraz",
+        "name": "Mehedi Hasan Miraz",
+        "role": "All-rounder",
+        "score": 82.6,
+        "legendScore": 63.6,
+        "stats": {
+          "test": 86.3,
+          "odi": 83.7,
+          "t20": 80.8,
+          "franchise": 71.7,
+          "runs": 1037,
+          "wickets": 73,
+          "matches": 37
+        },
+        "formatScores": {
+          "test": {
+            "overall": 91.3,
+            "batting": 35.4,
+            "bowling": 73.8
+          },
+          "odi": {
+            "overall": 87.0,
+            "batting": 34.1,
+            "bowling": 76.7
+          },
+          "t20": {
+            "overall": 86.2,
+            "batting": 25.7,
+            "bowling": 69.2
+          },
+          "franchise": {
+            "overall": 84.3,
+            "batting": 25.7,
+            "bowling": 61.1
           }
         },
         "country": "Bangladesh",
