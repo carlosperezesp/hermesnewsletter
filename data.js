@@ -43997,6 +43997,116 @@ window.NHL_DATA = {
       }
     ]
   },
+  "FINALS_TOP": [
+    {
+      "id": 8477940,
+      "teamCode": "CAR",
+      "name": "N. Ehlers",
+      "pos": "LW",
+      "gp": 6,
+      "stats": {
+        "gp": 6,
+        "g": 4,
+        "a": 5,
+        "p": 9,
+        "pm": 6,
+        "shots": 14,
+        "toi": 18.5
+      },
+      "finalsScore": 100,
+      "colors": {
+        "primary": "#cc0000",
+        "secondary": "#111111"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8477940.png"
+    },
+    {
+      "id": 8478483,
+      "teamCode": "VGK",
+      "name": "M. Marner",
+      "pos": "RW",
+      "gp": 6,
+      "stats": {
+        "gp": 6,
+        "g": 3,
+        "a": 5,
+        "p": 8,
+        "pm": -1,
+        "shots": 18,
+        "toi": 23.2
+      },
+      "finalsScore": 97,
+      "colors": {
+        "primary": "#b4975a",
+        "secondary": "#333f48"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478483.png"
+    },
+    {
+      "id": 8477447,
+      "teamCode": "VGK",
+      "name": "S. Theodore",
+      "pos": "D",
+      "gp": 6,
+      "stats": {
+        "gp": 6,
+        "g": 2,
+        "a": 5,
+        "p": 7,
+        "pm": 2,
+        "shots": 11,
+        "toi": 27.3
+      },
+      "finalsScore": 94,
+      "colors": {
+        "primary": "#b4975a",
+        "secondary": "#333f48"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8477447.png"
+    },
+    {
+      "id": 8473533,
+      "teamCode": "CAR",
+      "name": "J. Staal",
+      "pos": "C",
+      "gp": 6,
+      "stats": {
+        "gp": 6,
+        "g": 6,
+        "a": 1,
+        "p": 7,
+        "pm": 2,
+        "shots": 18,
+        "toi": 18.4
+      },
+      "finalsScore": 90,
+      "colors": {
+        "primary": "#cc0000",
+        "secondary": "#111111"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8473533.png"
+    },
+    {
+      "id": 8483548,
+      "teamCode": "CAR",
+      "name": "B. Bussi",
+      "pos": "G",
+      "gp": 4,
+      "stats": {
+        "gp": 4,
+        "w": 3,
+        "svpct": 0.931,
+        "gaa": 1.6,
+        "so": 1
+      },
+      "finalsScore": 82,
+      "colors": {
+        "primary": "#cc0000",
+        "secondary": "#111111"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8483548.png"
+    }
+  ],
   "HISTORY_TEAMS": [
     {
       "rank": 1,

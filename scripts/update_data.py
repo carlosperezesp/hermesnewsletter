@@ -711,6 +711,132 @@ def build_bracket(season_id: int | str) -> dict:
     return bracket
 
 
+def build_finals_top(bracket: dict, season_id: int | str, n: int = 5) -> list[dict]:
+    """Top-N players ranked by box-score score across the Stanley Cup Final only.
+
+    Aggregates each completed Final game (skaters and goalies separately) and
+    scores them with the same per-position formulas used for the season ranking,
+    percentiled within the Final field. Degrades gracefully to [] on any failure.
+    """
+    final = (bracket.get("final") or [{}])[0]
+    if not final.get("hi") or not final.get("lo"):
+        return []
+
+    season = str(season_id)
+    start_year = season[:4] if len(season) >= 4 else season
+    winner = final.get("winner")
+
+    skaters: dict[int, dict] = {}
+    goalies: dict[int, dict] = {}
+    games_seen = 0
+    for g in range(1, 8):
+        gid = f"{start_year}03041{g}"
+        try:
+            box = fetch_json(f"/gamecenter/{gid}/boxscore")
+        except RuntimeError:
+            continue
+        if box.get("gameState") not in ("OFF", "FINAL", "OVER"):
+            continue
+        games_seen += 1
+        sides = box.get("playerByGameStats", {})
+        team_meta = {
+            "homeTeam": (box.get("homeTeam", {}).get("abbrev", ""), box.get("homeTeam", {}).get("score", 0)),
+            "awayTeam": (box.get("awayTeam", {}).get("abbrev", ""), box.get("awayTeam", {}).get("score", 0)),
+        }
+        home_score = team_meta["homeTeam"][1]
+        away_score = team_meta["awayTeam"][1]
+        for side_key in ("homeTeam", "awayTeam"):
+            code, team_score = team_meta[side_key]
+            won = team_score > (away_score if side_key == "homeTeam" else home_score)
+            side = sides.get(side_key, {})
+            for group in ("forwards", "defense"):
+                for raw in side.get(group, []):
+                    pid = int(raw.get("playerId") or 0)
+                    if not pid:
+                        continue
+                    rec = skaters.setdefault(pid, {
+                        "id": pid, "teamCode": code,
+                        "name": (raw.get("name") or {}).get("default", ""),
+                        "pos": position_code(raw.get("position") or group[:1].upper()),
+                        "gp": 0, "g": 0, "a": 0, "p": 0, "pm": 0, "shots": 0, "toi": 0.0,
+                    })
+                    rec["teamCode"] = code
+                    rec["gp"]    += 1
+                    rec["g"]     += int(raw.get("goals") or 0)
+                    rec["a"]     += int(raw.get("assists") or 0)
+                    rec["p"]     += int(raw.get("points") or 0)
+                    rec["pm"]    += int(raw.get("plusMinus") or 0)
+                    rec["shots"] += int(raw.get("sog") or 0)
+                    rec["toi"]   += toi_minutes(raw.get("toi"))
+            for raw in side.get("goalies", []):
+                pid = int(raw.get("playerId") or 0)
+                if not pid:
+                    continue
+                toi_min = toi_minutes(raw.get("toi"))
+                if toi_min <= 0:
+                    continue
+                rec = goalies.setdefault(pid, {
+                    "id": pid, "teamCode": code,
+                    "name": (raw.get("name") or {}).get("default", ""),
+                    "pos": "G",
+                    "gp": 0, "saves": 0, "sa": 0, "ga": 0, "toi": 0.0, "w": 0, "so": 0,
+                })
+                rec["teamCode"] = code
+                ga = int(raw.get("goalsAgainst") or 0)
+                rec["gp"]    += 1
+                rec["saves"] += int(raw.get("saves") or 0)
+                rec["sa"]    += int(raw.get("shotsAgainst") or 0)
+                rec["ga"]    += ga
+                rec["toi"]   += toi_min
+                if won and toi_min >= 30:
+                    rec["w"] += 1
+                if ga == 0 and toi_min >= 55:
+                    rec["so"] += 1
+
+    if games_seen == 0 or (not skaters and not goalies):
+        return []
+
+    skater_items = []
+    for r in skaters.values():
+        gp = max(1, r["gp"])
+        stats = {
+            "gp": r["gp"], "g": r["g"], "a": r["a"], "p": r["p"],
+            "pm": r["pm"], "shots": r["shots"], "toi": round(r["toi"] / gp, 1),
+        }
+        skater_items.append({**r, "stats": stats})
+    goalie_items = []
+    for r in goalies.values():
+        gp = max(1, r["gp"])
+        svpct = round(r["saves"] / r["sa"], 3) if r["sa"] else 0.0
+        gaa = round(r["ga"] * 60.0 / r["toi"], 2) if r["toi"] else 0.0
+        stats = {"gp": r["gp"], "w": r["w"], "svpct": svpct, "gaa": gaa, "so": r["so"]}
+        goalie_items.append({**r, "stats": stats})
+
+    pool = []
+    if skater_items:
+        sc = percentile_scores(skater_items, skater_score)
+        for p in skater_items:
+            p["finalsScore"] = sc[p["id"]]
+            pool.append(p)
+    if goalie_items:
+        gc = percentile_scores(goalie_items, goalie_score)
+        for p in goalie_items:
+            # Match the season ranking: compress goalie pool so an elite starter
+            # sits near a strong skater rather than dominating the list.
+            p["finalsScore"] = max(35, round(35 + (gc[p["id"]] - 35) * 0.72))
+            pool.append(p)
+
+    for p in pool:
+        p["colors"] = TEAM_COLORS.get(p["teamCode"], {"primary": "#666666", "secondary": "#d9d9d9"})
+        p["headshot"] = f"https://assets.nhle.com/mugs/nhl/{season}/{p['teamCode']}/{p['id']}.png"
+        p.pop("toi", None)
+        for k in ("g", "a", "p", "pm", "shots", "saves", "sa", "ga", "w", "so"):
+            p.pop(k, None)
+
+    pool.sort(key=lambda p: (-p["finalsScore"], -p["stats"].get("p", 0), p["name"]))
+    return pool[:n]
+
+
 def _player_career_score(comparison: dict) -> float:
     seasons = comparison.get("seasons", [])
     if not seasons:
@@ -941,11 +1067,15 @@ def write_data(output: Path) -> None:
 
     importance = _nhl_importance(bracket)
 
+    print("Computing Stanley Cup Final top performers…")
+    finals_top = build_finals_top(bracket, season_id)
+
     payload = {
         "TEAMS": teams,
         "PLAYERS": players,
         "PLAYER_COMPARISONS": player_comparisons,
         "BRACKET": bracket,
+        "FINALS_TOP": finals_top,
         "HISTORY_TEAMS": STATIC_HISTORY_TEAMS,
         "HISTORY_PLAYERS": STATIC_HISTORY_PLAYERS,
         "ROAD_TO_GLORY": road_to_glory,

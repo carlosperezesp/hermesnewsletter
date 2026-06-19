@@ -1,5 +1,8 @@
 // app.jsx — single-page newsletter view
 
+// Stable empty set: rows passed this are never shaded as "eliminated".
+const EMPTY_ALIVE = new Set();
+
 function getAlivePlayoffTeams(bracket) {
   const alive = new Set();
   const groups = [
@@ -1129,6 +1132,32 @@ function NewsletterApp() {
           sub="Aparece cuando están definidos los dos equipos de la Stanley Cup. Score actual de temporada y score leyenda/Road To Glory."
         />
 
+        {(D.FINALS_TOP?.length > 0) && (
+          <NewsletterSection
+            kicker="Stanley Cup Final"
+            title="Top 5 de la Final"
+            sub="Los 5 mejores por score calculado únicamente con los partidos de la Stanley Cup Final."
+          >
+            <div className="newsletter-list">
+              {D.FINALS_TOP.slice(0, 5).map((player, i) => (
+                <NewsletterRankRow
+                  key={player.id}
+                  rank={i + 1}
+                  item={player}
+                  alive={EMPTY_ALIVE}
+                  score={player.finalsScore}
+                  scoreLabel="Final"
+                  meta={playerMeta(player)}
+                  note={player.pos === "G"
+                    ? `${player.stats.svpct.toFixed(3)} SV% · ${player.stats.gaa} GAA · ${player.gp} PJ`
+                    : `${player.stats.p} P · ${player.stats.g} G · ${player.stats.a} A · ${player.gp} PJ`}
+                  logo={teamByCode[player.teamCode]?.logo || `https://assets.nhle.com/logos/nhl/svg/${player.teamCode}_light.svg`}
+                />
+              ))}
+            </div>
+          </NewsletterSection>
+        )}
+
         <NewsletterSection
           kicker="Top performers"
           title="Top 10 performers de esta temporada"
@@ -1266,6 +1295,30 @@ function NewsletterApp() {
               title="Top 10 performers por finalista"
               sub="Aparece cuando están definidos los dos equipos de las NBA Finals. Score actual de temporada y score leyenda/Road To Glory."
             />
+
+            {(NBA.FINALS_TOP?.length > 0) && (
+              <NewsletterSection
+                kicker="NBA Finals"
+                title="Top 5 de las Finales"
+                sub="Los 5 mejores por score calculado únicamente con los partidos de las NBA Finals."
+              >
+                <div className="newsletter-list">
+                  {NBA.FINALS_TOP.slice(0, 5).map((player, i) => (
+                    <NewsletterRankRow
+                      key={player.id}
+                      rank={i + 1}
+                      item={player}
+                      alive={EMPTY_ALIVE}
+                      score={player.finalsScore}
+                      scoreLabel="Final"
+                      meta={nbaPlayerMeta(player)}
+                      note={`${player.stats.pts} PPG · ${player.stats.reb} REB · ${player.stats.ast} AST · ${player.gp} PJ`}
+                      logo={nbaTeamLogo(player.teamCode)}
+                    />
+                  ))}
+                </div>
+              </NewsletterSection>
+            )}
 
             <NewsletterSection
               kicker="Top performers"

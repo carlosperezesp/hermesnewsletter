@@ -69,6 +69,7 @@ def _prev_rank_map_teams(filepath: Path, js_var: str, *path: str) -> "dict[str, 
 API_STANDINGS  = "https://site.api.espn.com/apis/v2/sports/basketball/nba/standings"
 API_PLAYERS    = "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/statistics/byathlete"
 API_SCOREBOARD = "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard"
+API_SUMMARY    = "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary"
 
 NBA_TEAM_COLORS = {
     "ATL":  {"primary": "#e03a3e", "secondary": "#c1d32f"},
@@ -487,6 +488,136 @@ def build_bracket(season_year: int) -> dict:
     return bracket
 
 
+def _finals_game_ids(season_year: int) -> list[str]:
+    """Completed NBA Finals game IDs for the given playoff season."""
+    try:
+        start = f"{season_year}0401"
+        today = date.today().strftime("%Y%m%d")
+        data = fetch_json(f"{API_SCOREBOARD}?seasontype=3&dates={start}-{today}&limit=300")
+    except RuntimeError:
+        return []
+    games = []
+    for event in data.get("events", []):
+        comp = event.get("competitions", [{}])[0]
+        notes = comp.get("notes", [])
+        headline = notes[0].get("headline", "").lower() if notes else ""
+        if "nba finals" not in headline:
+            continue
+        if comp.get("status", {}).get("type", {}).get("completed"):
+            games.append(event["id"])
+    return games
+
+
+def build_finals_top(bracket: dict, season_year: int, n: int = 5) -> list[dict]:
+    """Top-N players ranked by box-score score across the NBA Finals games only.
+
+    Aggregates per-game stats from each completed Finals game, averages them,
+    and scores them with the same formula used elsewhere, percentiled within the
+    Finals field. Degrades gracefully to [] if data is unavailable.
+    """
+    final = (bracket.get("final") or [{}])[0]
+    if not final.get("hi") or not final.get("lo"):
+        return []
+    game_ids = _finals_game_ids(season_year)
+    if not game_ids:
+        return []
+
+    def _num(values: list, labels: dict, key: str) -> float:
+        idx = labels.get(key)
+        if idx is None or idx >= len(values):
+            return 0.0
+        raw = str(values[idx]).split("-")[0].replace("+", "")
+        try:
+            return float(raw)
+        except ValueError:
+            return 0.0
+
+    agg: dict[int, dict] = {}
+    for gid in game_ids:
+        try:
+            summary = fetch_json(f"{API_SUMMARY}?event={gid}")
+        except RuntimeError:
+            continue
+        for team_block in summary.get("boxscore", {}).get("players", []):
+            code = team_block.get("team", {}).get("abbreviation", "")
+            groups = team_block.get("statistics", [])
+            if not groups:
+                continue
+            grp = groups[0]
+            labels = {lab: i for i, lab in enumerate(grp.get("labels", []))}
+            for ath in grp.get("athletes", []):
+                if ath.get("didNotPlay"):
+                    continue
+                values = ath.get("stats", [])
+                if not values:
+                    continue
+                info = ath.get("athlete", {})
+                pid = int(info.get("id", 0))
+                if not pid:
+                    continue
+                rec = agg.setdefault(pid, {
+                    "id": pid,
+                    "name": info.get("displayName", ""),
+                    "teamCode": code,
+                    "pos": (info.get("position", {}) or {}).get("abbreviation", "")
+                            if isinstance(info.get("position"), dict) else "",
+                    "gp": 0, "pts": 0.0, "reb": 0.0, "ast": 0.0,
+                    "stl": 0.0, "blk": 0.0, "min": 0.0,
+                })
+                rec["teamCode"] = code
+                rec["gp"]  += 1
+                rec["pts"] += _num(values, labels, "PTS")
+                rec["reb"] += _num(values, labels, "REB")
+                rec["ast"] += _num(values, labels, "AST")
+                rec["stl"] += _num(values, labels, "STL")
+                rec["blk"] += _num(values, labels, "BLK")
+                rec["min"] += _num(values, labels, "MIN")
+
+    if not agg:
+        return []
+
+    # Require a meaningful share of the series (≥ half the games) when possible.
+    min_gp = max(1, len(game_ids) // 2)
+    qualified = [r for r in agg.values() if r["gp"] >= min_gp]
+    while len(qualified) < n and min_gp > 1:
+        min_gp -= 1
+        qualified = [r for r in agg.values() if r["gp"] >= min_gp]
+    if not qualified:
+        qualified = list(agg.values())
+
+    players = []
+    for r in qualified:
+        gp = max(1, r["gp"])
+        stats = {
+            "gp":  r["gp"],
+            "pts": round(r["pts"] / gp, 1),
+            "reb": round(r["reb"] / gp, 1),
+            "ast": round(r["ast"] / gp, 1),
+            "stl": round(r["stl"] / gp, 1),
+            "blk": round(r["blk"] / gp, 1),
+            "min": round(r["min"] / gp, 1),
+        }
+        players.append({
+            "id":       r["id"],
+            "name":     r["name"],
+            "teamCode": r["teamCode"],
+            "pos":      r["pos"] or "F",
+            "colors":   NBA_TEAM_COLORS.get(r["teamCode"], {"primary": "#666666", "secondary": "#d9d9d9"}),
+            "headshot": f"https://a.espncdn.com/i/headshots/nba/players/full/{r['id']}.png",
+            "gp":       r["gp"],
+            "stats":    stats,
+            "raw":      nba_raw_score(stats),
+        })
+
+    scores = percentile_scores(players, lambda p: p["raw"])
+    for p in players:
+        p["finalsScore"] = scores[p["id"]]
+        del p["raw"]
+
+    players.sort(key=lambda p: (-p["finalsScore"], -p["stats"]["pts"], p["name"]))
+    return players[:n]
+
+
 # Scaling factor: current-season percentile → all-time per-season equivalent
 NBA_CURRENT_TO_ALLTIME = 0.72
 
@@ -693,10 +824,14 @@ def write_data(output: Path) -> None:
 
     importance = _nba_importance(bracket)
 
+    print("Computing NBA Finals top performers…")
+    finals_top = build_finals_top(bracket, season_year)
+
     payload = {
         "TEAMS":           teams,
         "PLAYERS":         players,
         "BRACKET":         bracket,
+        "FINALS_TOP":      finals_top,
         "HISTORY_TEAMS":   STATIC_HISTORY_TEAMS,
         "HISTORY_PLAYERS": STATIC_HISTORY_PLAYERS,
         "ROAD_TO_GLORY":   road_to_glory,

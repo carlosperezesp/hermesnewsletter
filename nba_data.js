@@ -6475,6 +6475,118 @@ window.NBA_DATA = {
       }
     ]
   },
+  "FINALS_TOP": [
+    {
+      "id": 3934672,
+      "name": "Jalen Brunson",
+      "teamCode": "NY",
+      "pos": "G",
+      "colors": {
+        "primary": "#006bb6",
+        "secondary": "#f58426"
+      },
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3934672.png",
+      "gp": 5,
+      "stats": {
+        "gp": 5,
+        "pts": 32.6,
+        "reb": 4.2,
+        "ast": 4.6,
+        "stl": 2.0,
+        "blk": 0.0,
+        "min": 39.0
+      },
+      "finalsScore": 100
+    },
+    {
+      "id": 5104157,
+      "name": "Victor Wembanyama",
+      "teamCode": "SA",
+      "pos": "F",
+      "colors": {
+        "primary": "#c4ced4",
+        "secondary": "#000000"
+      },
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5104157.png",
+      "gp": 5,
+      "stats": {
+        "gp": 5,
+        "pts": 26.0,
+        "reb": 11.2,
+        "ast": 2.6,
+        "stl": 1.0,
+        "blk": 3.6,
+        "min": 39.8
+      },
+      "finalsScore": 97
+    },
+    {
+      "id": 3934719,
+      "name": "OG Anunoby",
+      "teamCode": "NY",
+      "pos": "F",
+      "colors": {
+        "primary": "#006bb6",
+        "secondary": "#f58426"
+      },
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3934719.png",
+      "gp": 5,
+      "stats": {
+        "gp": 5,
+        "pts": 21.2,
+        "reb": 4.8,
+        "ast": 1.0,
+        "stl": 1.4,
+        "blk": 1.4,
+        "min": 36.0
+      },
+      "finalsScore": 80
+    },
+    {
+      "id": 5037871,
+      "name": "Dylan Harper",
+      "teamCode": "SA",
+      "pos": "G",
+      "colors": {
+        "primary": "#c4ced4",
+        "secondary": "#000000"
+      },
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5037871.png",
+      "gp": 5,
+      "stats": {
+        "gp": 5,
+        "pts": 18.0,
+        "reb": 6.4,
+        "ast": 3.0,
+        "stl": 0.4,
+        "blk": 0.2,
+        "min": 31.0
+      },
+      "finalsScore": 75
+    },
+    {
+      "id": 3136195,
+      "name": "Karl-Anthony Towns",
+      "teamCode": "NY",
+      "pos": "C",
+      "colors": {
+        "primary": "#006bb6",
+        "secondary": "#f58426"
+      },
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3136195.png",
+      "gp": 5,
+      "stats": {
+        "gp": 5,
+        "pts": 13.0,
+        "reb": 10.6,
+        "ast": 2.4,
+        "stl": 1.4,
+        "blk": 1.0,
+        "min": 31.0
+      },
+      "finalsScore": 72
+    }
+  ],
   "HISTORY_TEAMS": [
     {
       "rank": 1,
