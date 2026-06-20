@@ -67,6 +67,25 @@ MAJORS = [
 ]
 
 
+# ── Elevated tier (golf's "Masters 1000") ───────────────────────────────────
+# The closest analogue to ATP Masters 1000: the PGA Tour Signature Events
+# (limited fields, elevated purses) plus THE PLAYERS, the Tour's flagship. We
+# don't hard-code their dates — they're read live from ESPN's season calendar,
+# so the tracker follows whichever one is current with no yearly maintenance.
+PGA_SCOREBOARD_URL = "https://site.api.espn.com/apis/site/v2/sports/golf/pga/scoreboard"
+
+SIGNATURE_KEYS = (
+    "sentry", "pebble beach", "genesis invitational", "arnold palmer", "bay hill",
+    "players championship", "rbc heritage", "cadillac championship",
+    "truist championship", "wells fargo", "memorial tournament", "travelers",
+)
+
+
+def _is_signature(name: str) -> bool:
+    n = (name or "").lower()
+    return any(k in n for k in SIGNATURE_KEYS)
+
+
 # name, cc3, tour, rank points, majors, elite wins, recent major top10, active score seed
 CURRENT_RAW = [
     ("Scottie Scheffler", "USA", "PGA", 100, 4, 12, 15, 100),
@@ -244,66 +263,164 @@ def _fetch_url(url: str, ttl_hours: float = 6.0) -> str:
         return path.read_text(encoding="utf-8") if path.exists() else ""
 
 
-def fetch_leaderboard(major: dict) -> list[dict]:
-    # ESPN's public golf APIs vary by event; keep this best-effort and harmless.
-    candidates = [
-        "https://site.web.api.espn.com/apis/v2/sports/golf/leaderboard",
-        "https://site.api.espn.com/apis/site/v2/sports/golf/scoreboard",
-    ]
-    for url in candidates:
-        text = _fetch_url(url, ttl_hours=2.0)
-        if not text or not text.lstrip().startswith("{"):
-            continue
-        try:
-            data = json.loads(text)
-        except json.JSONDecodeError:
-            continue
-        rows = []
-        for comp in data.get("competitions", []) + data.get("events", []):
-            name = json.dumps(comp).lower()
-            if major["name"].split()[0].lower().replace(".", "") not in name:
-                continue
-            competitors = comp.get("competitors") or comp.get("leaderboard") or []
-            for i, c in enumerate(competitors[:10]):
-                athlete = c.get("athlete") or c.get("competitor") or c
-                pname = athlete.get("displayName") or athlete.get("name")
-                if not pname:
-                    continue
-                rows.append({
-                    "rank": c.get("rank") or c.get("position") or i + 1,
-                    "name": pname,
-                    "score": c.get("score") or c.get("total") or c.get("displayScore") or "",
-                    "today": c.get("today") or c.get("roundScore") or "",
-                })
-            if rows:
-                return rows
-    return []
+def _fetch_pga_scoreboard(ttl_hours: float = 2.0) -> dict:
+    text = _fetch_url(PGA_SCOREBOARD_URL, ttl_hours=ttl_hours)
+    if not text or not text.lstrip().startswith("{"):
+        return {}
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        return {}
 
 
-def major_payload(today: date, current: list[dict]) -> dict:
-    major = select_major(today)
-    start = date.fromisoformat(major["start"])
-    end = date.fromisoformat(major["end"])
-    leaderboard = fetch_leaderboard(major) if major["state"] == "live" else []
-    favorites = [p["name"] for p in current if p["teamCode"] == "PGA"][:5]
-    days_to_start = (start - today).days
+def _norm(s: str) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", (s or "").lower()).strip()
+
+
+# Distinctive words that confirm two event names refer to the same tournament,
+# so "U.S. Open" never cross-matches "The Open" on the shared word "open".
+_STRONG_TOKENS = {
+    "masters", "pga", "sentry", "genesis", "arnold", "palmer", "players",
+    "heritage", "cadillac", "truist", "memorial", "travelers", "pebble", "sawgrass",
+}
+
+
+def _same_event(a: str, b: str) -> bool:
+    na, nb = _norm(a), _norm(b)
+    if not na or not nb:
+        return False
+    if na in nb or nb in na:
+        return True
+    shared = set(na.split()) & set(nb.split())
+    return bool(shared & _STRONG_TOKENS) or len(shared) >= 2
+
+
+def _clean_event_name(name: str) -> str:
+    # Drop the sponsor tail ESPN appends, e.g. "the Memorial Tournament pres. by Workday".
+    return re.split(r"\s+pres(?:ented)?\.?\s+by\s+", name, flags=re.IGNORECASE)[0].strip()
+
+
+def _parse_leaderboard(competitors: list, limit: int = 10) -> list[dict]:
+    rows = []
+    for i, c in enumerate(competitors):
+        ath = c.get("athlete") or {}
+        name = ath.get("displayName") or ath.get("fullName")
+        if not name:
+            continue
+        score = c.get("score")
+        if isinstance(score, dict):
+            score = score.get("displayValue")
+        rounds = c.get("linescores") or []
+        today = rounds[-1].get("displayValue", "") if rounds else ""
+        if today in ("-", "--"):  # hasn't teed off in the current round yet
+            today = ""
+        rows.append({
+            "rank": c.get("order") or i + 1,
+            "name": name,
+            "country": (ath.get("flag") or {}).get("alt", ""),
+            "score": score or "",
+            "today": today,
+        })
+        if len(rows) >= limit:
+            break
+    return rows
+
+
+def _scoreboard_current(data: dict) -> dict:
+    """The PGA event being played this week, plus its parsed leaderboard."""
+    events = data.get("events") or []
+    if not events:
+        return {}
+    ev = events[0]
+    comp = (ev.get("competitions") or [{}])[0]
+    state = (comp.get("status") or {}).get("type", {}).get("state", "")
     return {
-        **major,
+        "name": ev.get("name") or ev.get("shortName") or "",
+        "state": state,  # "pre" | "in" | "post"
+        "leaderboard": _parse_leaderboard(comp.get("competitors") or []),
+    }
+
+
+def _calendar_events(data: dict) -> list[dict]:
+    lg = (data.get("leagues") or [{}])[0]
+    out = []
+    for c in lg.get("calendar") or []:
+        if not isinstance(c, dict):
+            continue
+        label = c.get("label") or c.get("value") or ""
+        sd = (c.get("startDate") or "")[:10]
+        ed = (c.get("endDate") or "")[:10]
+        if label and sd and ed:
+            out.append({"name": label, "start": sd, "end": ed})
+    return out
+
+
+def _window_state(start: str, end: str, today: date) -> str:
+    s, e = date.fromisoformat(start), date.fromisoformat(end)
+    if s <= today <= e:
+        return "live"
+    return "upcoming" if today < s else "completed"
+
+
+def select_signature(calendar: list[dict], today: date) -> dict:
+    elevated = [
+        {**e, "state": _window_state(e["start"], e["end"], today)}
+        for e in calendar if _is_signature(e["name"])
+    ]
+    if not elevated:
+        return {}
+    live = [e for e in elevated if e["state"] == "live"]
+    if live:
+        return sorted(live, key=lambda e: e["start"])[0]
+    upcoming = [e for e in elevated if e["state"] == "upcoming"]
+    if upcoming:
+        return sorted(upcoming, key=lambda e: e["start"])[0]
+    completed = [e for e in elevated if e["state"] == "completed"]
+    return sorted(completed, key=lambda e: e["end"])[-1] if completed else {}
+
+
+def _event_payload(event: dict, today: date, current: list[dict],
+                   current_event: dict, tier: str) -> dict:
+    start = date.fromisoformat(event["start"])
+    end = date.fromisoformat(event["end"])
+    live = event.get("state") == "live"
+    leaderboard = (
+        current_event.get("leaderboard", [])
+        if live and current_event and _same_event(event["name"], current_event.get("name", ""))
+        else []
+    )
+    favorites = [p["name"] for p in current if p["teamCode"] == "PGA"][:5]
+    return {
+        **event,
+        "name": _clean_event_name(event["name"]),
+        "tier": tier,
         "startLabel": start.strftime("%d %b"),
         "endLabel": end.strftime("%d %b"),
-        "round": min(4, max(0, (today - start).days + 1)) if major["state"] == "live" else 0,
-        "daysToStart": max(0, days_to_start),
+        "round": min(4, max(0, (today - start).days + 1)) if live else 0,
+        "daysToStart": max(0, (start - today).days),
         "leaderboard": leaderboard,
         "favorites": favorites,
     }
 
 
-def _importance(major: dict) -> float:
-    if major["state"] == "live":
+def major_payload(today: date, current: list[dict], current_event: dict) -> dict:
+    return _event_payload(select_major(today), today, current, current_event, "Major")
+
+
+def signature_payload(today: date, calendar: list[dict], current: list[dict],
+                      current_event: dict) -> dict:
+    sig = select_signature(calendar, today)
+    return _event_payload(sig, today, current, current_event, "Signature Event") if sig else {}
+
+
+def _importance(major: dict, signature: dict) -> float:
+    if major.get("state") == "live" or signature.get("state") == "live":
         return 10.0
-    if major["state"] == "upcoming" and major.get("daysToStart", 99) <= 7:
+    soon = (major.get("state") == "upcoming" and major.get("daysToStart", 99) <= 7) or \
+           (signature.get("state") == "upcoming" and signature.get("daysToStart", 99) <= 7)
+    if soon:
         return 8.5
-    if major["state"] == "completed":
+    if major.get("state") == "completed":
         return 6.5
     return 5.0
 
@@ -316,26 +433,34 @@ def write_data() -> None:
     legends = build_legends(prev_legends)
     current = build_current(prev_current, legends)
     road = build_road_to_glory(prev_road, current, legends)
-    major = major_payload(date.today(), current)
+    today = date.today()
+    scoreboard = _fetch_pga_scoreboard()
+    current_event = _scoreboard_current(scoreboard)
+    calendar = _calendar_events(scoreboard)
+    major = major_payload(today, current, current_event)
+    signature = signature_payload(today, calendar, current, current_event)
     legend_threshold = sorted((p["legendScore"] for p in legends), reverse=True)[9]
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     payload = {
         "UPDATED": updated,
         "SEASON": CURRENT_YEAR,
         "CURRENT_MAJOR": major,
+        "CURRENT_SIGNATURE": signature,
         "CURRENT": current,
         "PROSPECTS": build_golf_prospects(),
         "LEGENDS": legends,
         "ROAD_TO_GLORY": road,
         "LEGEND_THRESHOLD": round(legend_threshold, 1),
-        "IMPORTANCE": _importance(major),
+        "IMPORTANCE": _importance(major, signature),
     }
     out_path.write_text(
         f"// Auto-generated {updated}\nwindow.GOLF_DATA = {json.dumps(payload, ensure_ascii=False, indent=2)};\n",
         encoding="utf-8",
     )
     print(f"Written: {out_path}", file=sys.stderr)
-    print(f"  Major: {major['name']} ({major['state']}) — {major['venue']}", file=sys.stderr)
+    print(f"  Major: {major['name']} ({major['state']}) — {major.get('venue', '')}", file=sys.stderr)
+    if signature:
+        print(f"  Signature: {signature['name']} ({signature['state']}) — {len(signature['leaderboard'])} lb rows", file=sys.stderr)
     print(f"  Current #1: {current[0]['name']} ({current[0]['activeScore']})", file=sys.stderr)
 
 

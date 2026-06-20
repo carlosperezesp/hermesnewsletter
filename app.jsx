@@ -3755,6 +3755,12 @@ function NewsletterApp() {
             : major.state === "upcoming"
               ? `Empieza en ${major.daysToStart} día${major.daysToStart === 1 ? "" : "s"}`
               : "Último major completado";
+          const signature = GOLF.CURRENT_SIGNATURE || {};
+          const signatureStateLabel = signature.state === "live"
+            ? `Ronda ${signature.round || 1} en juego`
+            : signature.state === "upcoming"
+              ? `Empieza en ${signature.daysToStart} día${signature.daysToStart === 1 ? "" : "s"}`
+              : "Último Signature Event completado";
           const majorTour = "Men's Major";
           const golfMeta = p => `${p.stats?.tour || p.teamCode} · ${p.country}`;
           const currentNote = p => `${p.stats?.majors || 0} majors · ${p.stats?.eliteWins || 0} victorias élite · ${p.stats?.majorTop10 || 0} top-10 major`;
@@ -3770,7 +3776,8 @@ function NewsletterApp() {
                 <div className="newsletter-hero__title-row">
                   <h1>Golf Majors</h1>
                   <p>
-                    Major masculino activo o próximo, top actuales PGA y carrera histórica hacia el top 10.
+                    Major masculino y Signature Event (el "Masters 1000" del golf) activos o próximos,
+                    top actuales PGA y carrera histórica hacia el top 10.
                     Score leyenda: majors, victorias y dominio/#1.
                   </p>
                 </div>
@@ -3817,6 +3824,50 @@ function NewsletterApp() {
                   </div>
                 )}
               </NewsletterSection>
+
+              {signature.name && (
+                <NewsletterSection
+                  kicker={`Signature Event · ${signature.state || "evento"}`}
+                  title={signature.name}
+                  sub={`${signatureStateLabel}. ${signature.startLabel || ""}–${signature.endLabel || ""}${signature.venue ? ` · ${signature.venue}` : ""}. El equivalente en golf a un Masters 1000: campo reducido, élite y bolsa elevada.`}
+                >
+                  {signature.leaderboard && signature.leaderboard.length > 0 ? (
+                    <div className="newsletter-list">
+                      {signature.leaderboard.slice(0, 10).map((row, i) => (
+                        <div key={`${row.rank}-${row.name}`} className="newsletter-row">
+                          <span className="newsletter-row__rank">{String(row.rank || i + 1).padStart(2, "0")}</span>
+                          <span className="newsletter-row__identity" style={{ flex: 1 }}>
+                            <span className="newsletter-row__dot" style={{ background: "#b5872f" }} />
+                            <span className="newsletter-row__copy">
+                              <span className="newsletter-row__name">{row.name}</span>
+                              <span className="newsletter-row__meta">{row.today ? `Hoy ${row.today}` : (row.country || "")}</span>
+                            </span>
+                          </span>
+                          <span className="newsletter-row__score">
+                            <span className="newsletter-row__score-label">Score</span>
+                            <span className="newsletter-row__score-value">{row.score || "-"}</span>
+                          </span>
+                        </div>
+                      ))}
+                    </div>
+                  ) : (
+                    <div className="newsletter-list">
+                      {(signature.favorites || []).map((name, i) => (
+                        <div key={name} className="newsletter-row">
+                          <span className="newsletter-row__rank">{String(i + 1).padStart(2, "0")}</span>
+                          <span className="newsletter-row__identity" style={{ flex: 1 }}>
+                            <span className="newsletter-row__dot" style={{ background: "#b5872f" }} />
+                            <span className="newsletter-row__copy">
+                              <span className="newsletter-row__name">{name}</span>
+                              <span className="newsletter-row__meta">Favorito Hermes</span>
+                            </span>
+                          </span>
+                        </div>
+                      ))}
+                    </div>
+                  )}
+                </NewsletterSection>
+              )}
 
               <NewsletterSection
                 kicker="Golf · Actuales"

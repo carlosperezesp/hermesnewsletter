@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-20 09:47 UTC
+// Auto-generated 2026-06-20 14:28 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-20 09:47 UTC",
+  "UPDATED": "2026-06-20 14:28 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "U.S. Open",
@@ -12,10 +12,101 @@ window.GOLF_DATA = {
     "surface": "U.S. Open setup",
     "defending": "J.J. Spaun",
     "state": "live",
+    "tier": "Major",
     "startLabel": "18 Jun",
     "endLabel": "21 Jun",
     "round": 3,
     "daysToStart": 0,
+    "leaderboard": [
+      {
+        "rank": 1,
+        "name": "Wyndham Clark",
+        "country": "USA",
+        "score": "-7",
+        "today": ""
+      },
+      {
+        "rank": 2,
+        "name": "Xander Schauffele",
+        "country": "USA",
+        "score": "-3",
+        "today": ""
+      },
+      {
+        "rank": 3,
+        "name": "Tom Kim",
+        "country": "South Korea",
+        "score": "-3",
+        "today": ""
+      },
+      {
+        "rank": 4,
+        "name": "Sam Stevens",
+        "country": "USA",
+        "score": "-3",
+        "today": ""
+      },
+      {
+        "rank": 5,
+        "name": "Matt Fitzpatrick",
+        "country": "England",
+        "score": "-3",
+        "today": ""
+      },
+      {
+        "rank": 6,
+        "name": "Collin Morikawa",
+        "country": "USA",
+        "score": "-2",
+        "today": ""
+      },
+      {
+        "rank": 7,
+        "name": "Sahith Theegala",
+        "country": "USA",
+        "score": "-1",
+        "today": ""
+      },
+      {
+        "rank": 8,
+        "name": "Justin Thomas",
+        "country": "USA",
+        "score": "-1",
+        "today": ""
+      },
+      {
+        "rank": 9,
+        "name": "Harry Higgs",
+        "country": "USA",
+        "score": "-1",
+        "today": ""
+      },
+      {
+        "rank": 10,
+        "name": "Sam Burns",
+        "country": "USA",
+        "score": "-1",
+        "today": ""
+      }
+    ],
+    "favorites": [
+      "Scottie Scheffler",
+      "Rory McIlroy",
+      "Xander Schauffele",
+      "Ludvig Aberg",
+      "Jon Rahm"
+    ]
+  },
+  "CURRENT_SIGNATURE": {
+    "name": "Travelers Championship",
+    "start": "2026-06-25",
+    "end": "2026-06-28",
+    "state": "upcoming",
+    "tier": "Signature Event",
+    "startLabel": "25 Jun",
+    "endLabel": "28 Jun",
+    "round": 0,
+    "daysToStart": 5,
     "leaderboard": [],
     "favorites": [
       "Scottie Scheffler",

@@ -16,4 +16,5 @@ scripts/.glory_sent.json
 .nba_cache/
 .mlb_cache/
 .nfl_cache/
+.golf_cache/
 .vscode/
