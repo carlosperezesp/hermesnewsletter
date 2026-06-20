@@ -5525,7 +5525,7 @@ window.NHL_DATA = {
       "name": "Sam Bennett",
       "pos": "C",
       "teamCode": "FLA",
-      "age": 29,
+      "age": 30,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -26507,7 +26507,7 @@ window.NHL_DATA = {
       "name": "Dante Fabbro",
       "pos": "D",
       "teamCode": "CBJ",
-      "age": 27,
+      "age": 28,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -45005,10 +45005,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-19 22:16 UTC",
+  "LAST_UPDATE": "2026-06-20 08:28 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-19T22:16:00Z"
+    "standingsDateTimeUtc": "2026-06-20T08:28:16Z"
   }
 };

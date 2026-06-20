@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-19 22:17 UTC
+// Auto-generated 2026-06-20 08:29 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-06-19 22:17 UTC",
+  "UPDATED": "2026-06-20 08:29 UTC",
   "SEASON": "2026",
   "ROUND": 15,
   "IMPORTANCE": 8.0,
@@ -56,26 +56,26 @@ window.AFL_DATA = {
     },
     {
       "rank": 5,
-      "name": "Melbourne",
+      "name": "Adelaide",
       "wins": 9,
       "losses": 5,
       "draws": 0,
       "pts": 36,
-      "percentage": 105.7,
-      "primary": "#CC2031",
-      "secondary": "#013B9F",
+      "percentage": 113.2,
+      "primary": "#002B5C",
+      "secondary": "#CC2031",
       "prevRank": null
     },
     {
       "rank": 6,
-      "name": "Adelaide",
-      "wins": 8,
-      "losses": 5,
+      "name": "Melbourne",
+      "wins": 9,
+      "losses": 6,
       "draws": 0,
-      "pts": 32,
-      "percentage": 112.4,
-      "primary": "#002B5C",
-      "secondary": "#CC2031",
+      "pts": 36,
+      "percentage": 104.2,
+      "primary": "#CC2031",
+      "secondary": "#013B9F",
       "prevRank": null
     },
     {
@@ -1075,6 +1075,16 @@ window.AFL_DATA = {
       "date": "2026-06-19",
       "hprimary": "#C5002F",
       "aprimary": "#4D2004"
+    },
+    {
+      "hteam": "Adelaide",
+      "hscore": 79,
+      "ateam": "Melbourne",
+      "ascore": 62,
+      "winner": "Adelaide",
+      "date": "2026-06-20",
+      "hprimary": "#002B5C",
+      "aprimary": "#CC2031"
     }
   ],
   "CURRENT_CONTENDERS": [

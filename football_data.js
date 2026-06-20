@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-19 22:17 UTC
+// Auto-generated 2026-06-20 08:30 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-19 22:17 UTC",
+  "UPDATED": "2026-06-20 08:30 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-06-19 22:17 UTC"
+    "through": "2026-06-20 08:30 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -144,25 +144,15 @@ window.FOOTBALL_DATA = {
         "secondary": "#FFDF00"
       },
       "rank": 5,
-      "elo": 1976,
-      "eloScore": 78.2,
+      "elo": 1983,
+      "eloScore": 79.1,
       "sourceRank": 6,
       "worldCups": 5,
       "continentalTitles": 9,
       "note": "Histórico gigante todavía en zona top 10 pese a ciclo irregular.",
       "eloPrev": 1985,
-      "recentDelta": -9.2,
-      "recentMatches": 1,
-      "nextMatch": {
-        "date": "2026-06-19",
-        "round": 2,
-        "opponent": "Haití",
-        "opponentCode": "HAI",
-        "venue": "Lincoln Financial Field",
-        "city": "Filadelfia",
-        "group": "C",
-        "type": "Mundial 2026"
-      }
+      "recentDelta": -1.6,
+      "recentMatches": 2
     },
     {
       "id": "portugal",
@@ -310,6 +300,35 @@ window.FOOTBALL_DATA = {
     }
   ],
   "RECENT_MATCHES": [
+    {
+      "id": "760444",
+      "date": "2026-06-20",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "BRA"
+      ],
+      "home": {
+        "code": "BRA",
+        "name": "Brasil",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+        "score": 3,
+        "eloBefore": 1976,
+        "eloAfter": 1983,
+        "delta": 7.6,
+        "result": "W"
+      },
+      "away": {
+        "code": "HAI",
+        "name": "Haití",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hai.png",
+        "score": 0,
+        "eloBefore": 1533,
+        "eloAfter": 1526,
+        "delta": -7.6,
+        "result": "L"
+      }
+    },
     {
       "id": "760437",
       "date": "2026-06-17",
@@ -663,20 +682,6 @@ window.FOOTBALL_DATA = {
       }
     },
     "upcomingMatches": [
-      {
-        "round": 2,
-        "date": "2026-06-19",
-        "timeET": "TBD",
-        "home": "BRA",
-        "homeName": "Brasil",
-        "away": "HAI",
-        "awayName": "Haití",
-        "group": "C",
-        "venue": "Lincoln Financial Field",
-        "city": "Filadelfia",
-        "homeElo": 1976,
-        "awayElo": 1545
-      },
       {
         "round": 2,
         "date": "2026-06-20",
@@ -1164,6 +1169,35 @@ window.FOOTBALL_DATA = {
         "ageCurve": 0.88
       },
       {
+        "id": "brazil",
+        "name": "Brazil",
+        "teamCode": "BRA",
+        "country": "Brazil",
+        "logo": "https://flagcdn.com/24x18/br.png",
+        "colors": {
+          "primary": "#009C3B",
+          "secondary": "#FFDF00"
+        },
+        "rank": 5,
+        "elo": 1983,
+        "eloScore": 79.1,
+        "sourceRank": 6,
+        "worldCups": 5,
+        "continentalTitles": 9,
+        "note": "A 5.1 puntos brutos del umbral dinástico",
+        "eloPrev": 1985,
+        "recentDelta": -1.6,
+        "recentMatches": 2,
+        "dynastyPotential": 87.1,
+        "rawDynastyPotential": 34.4,
+        "gapToDynastyTop10": 5.1,
+        "cycleYears": 1.2,
+        "currentWorldCups": 0,
+        "currentContinentalTitles": 0,
+        "recentFinals": 1,
+        "ageCurve": 0.84
+      },
+      {
         "id": "portugal",
         "name": "Portugal",
         "teamCode": "POR",
@@ -1201,45 +1235,6 @@ window.FOOTBALL_DATA = {
         "currentContinentalTitles": 0,
         "recentFinals": 0,
         "ageCurve": 0.86
-      },
-      {
-        "id": "brazil",
-        "name": "Brazil",
-        "teamCode": "BRA",
-        "country": "Brazil",
-        "logo": "https://flagcdn.com/24x18/br.png",
-        "colors": {
-          "primary": "#009C3B",
-          "secondary": "#FFDF00"
-        },
-        "rank": 5,
-        "elo": 1976,
-        "eloScore": 78.2,
-        "sourceRank": 6,
-        "worldCups": 5,
-        "continentalTitles": 9,
-        "note": "A 5.5 puntos brutos del umbral dinástico",
-        "eloPrev": 1985,
-        "recentDelta": -9.2,
-        "recentMatches": 1,
-        "nextMatch": {
-          "date": "2026-06-19",
-          "round": 2,
-          "opponent": "Haití",
-          "opponentCode": "HAI",
-          "venue": "Lincoln Financial Field",
-          "city": "Filadelfia",
-          "group": "C",
-          "type": "Mundial 2026"
-        },
-        "dynastyPotential": 86.2,
-        "rawDynastyPotential": 34.0,
-        "gapToDynastyTop10": 5.5,
-        "cycleYears": 1.2,
-        "currentWorldCups": 0,
-        "currentContinentalTitles": 0,
-        "recentFinals": 1,
-        "ageCurve": 0.84
       },
       {
         "id": "netherlands",
