@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-20 21:42 UTC
+// Auto-generated 2026-06-20 22:39 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-20 21:42 UTC",
+  "UPDATED": "2026-06-20 22:39 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-06-20 21:42 UTC"
+    "through": "2026-06-20 22:39 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -165,6 +165,37 @@ window.FOOTBALL_DATA = {
       }
     },
     {
+      "id": "germany",
+      "name": "Germany",
+      "teamCode": "GER",
+      "country": "Germany",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#DD0000"
+      },
+      "rank": 6,
+      "elo": 1989,
+      "eloScore": 79.9,
+      "sourceRank": 8,
+      "worldCups": 4,
+      "continentalTitles": 3,
+      "note": "Rebote competitivo tras la Euro como anfitrión.",
+      "eloPrev": 1958,
+      "recentDelta": 31.3,
+      "recentMatches": 2,
+      "nextMatch": {
+        "date": "2026-06-20",
+        "round": 2,
+        "opponent": "Costa de Marfil",
+        "opponentCode": "CIV",
+        "venue": "BMO Field",
+        "city": "Toronto",
+        "group": "E",
+        "type": "Mundial 2026"
+      }
+    },
+    {
       "id": "brazil",
       "name": "Brazil",
       "teamCode": "BRA",
@@ -174,7 +205,7 @@ window.FOOTBALL_DATA = {
         "primary": "#009C3B",
         "secondary": "#FFDF00"
       },
-      "rank": 6,
+      "rank": 7,
       "elo": 1983,
       "eloScore": 79.1,
       "sourceRank": 6,
@@ -195,7 +226,7 @@ window.FOOTBALL_DATA = {
         "primary": "#006600",
         "secondary": "#FF0000"
       },
-      "rank": 7,
+      "rank": 8,
       "elo": 1975,
       "eloScore": 78.1,
       "sourceRank": 5,
@@ -213,37 +244,6 @@ window.FOOTBALL_DATA = {
         "venue": "NRG Stadium",
         "city": "Houston",
         "group": "K",
-        "type": "Mundial 2026"
-      }
-    },
-    {
-      "id": "germany",
-      "name": "Germany",
-      "teamCode": "GER",
-      "country": "Germany",
-      "logo": "https://flagcdn.com/24x18/de.png",
-      "colors": {
-        "primary": "#000000",
-        "secondary": "#DD0000"
-      },
-      "rank": 8,
-      "elo": 1970,
-      "eloScore": 77.4,
-      "sourceRank": 8,
-      "worldCups": 4,
-      "continentalTitles": 3,
-      "note": "Rebote competitivo tras la Euro como anfitrión.",
-      "eloPrev": 1958,
-      "recentDelta": 11.7,
-      "recentMatches": 1,
-      "nextMatch": {
-        "date": "2026-06-20",
-        "round": 2,
-        "opponent": "Costa de Marfil",
-        "opponentCode": "CIV",
-        "venue": "BMO Field",
-        "city": "Toronto",
-        "group": "E",
         "type": "Mundial 2026"
       }
     },
@@ -300,6 +300,35 @@ window.FOOTBALL_DATA = {
     }
   ],
   "RECENT_MATCHES": [
+    {
+      "id": "760448",
+      "date": "2026-06-20",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "GER"
+      ],
+      "home": {
+        "code": "GER",
+        "name": "Alemania",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+        "score": 2,
+        "eloBefore": 1970,
+        "eloAfter": 1989,
+        "delta": 19.6,
+        "result": "W"
+      },
+      "away": {
+        "code": "CIV",
+        "name": "Costa de Marfil",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png",
+        "score": 1,
+        "eloBefore": 1844,
+        "eloAfter": 1824,
+        "delta": -19.6,
+        "result": "L"
+      }
+    },
     {
       "id": "760447",
       "date": "2026-06-20",
@@ -722,7 +751,7 @@ window.FOOTBALL_DATA = {
         "group": "E",
         "venue": "BMO Field",
         "city": "Toronto",
-        "homeElo": 1970,
+        "homeElo": 1989,
         "awayElo": 1820
       },
       {
@@ -1207,7 +1236,7 @@ window.FOOTBALL_DATA = {
           "primary": "#009C3B",
           "secondary": "#FFDF00"
         },
-        "rank": 6,
+        "rank": 7,
         "elo": 1983,
         "eloScore": 79.1,
         "sourceRank": 6,
@@ -1236,7 +1265,7 @@ window.FOOTBALL_DATA = {
           "primary": "#006600",
           "secondary": "#FF0000"
         },
-        "rank": 7,
+        "rank": 8,
         "elo": 1975,
         "eloScore": 78.1,
         "sourceRank": 5,
@@ -1314,16 +1343,16 @@ window.FOOTBALL_DATA = {
           "primary": "#000000",
           "secondary": "#DD0000"
         },
-        "rank": 8,
-        "elo": 1970,
-        "eloScore": 77.4,
+        "rank": 6,
+        "elo": 1989,
+        "eloScore": 79.9,
         "sourceRank": 8,
         "worldCups": 4,
         "continentalTitles": 3,
-        "note": "A 14.1 puntos brutos del umbral dinástico",
+        "note": "A 13.0 puntos brutos del umbral dinástico",
         "eloPrev": 1958,
-        "recentDelta": 11.7,
-        "recentMatches": 1,
+        "recentDelta": 31.3,
+        "recentMatches": 2,
         "nextMatch": {
           "date": "2026-06-20",
           "round": 2,
@@ -1334,9 +1363,9 @@ window.FOOTBALL_DATA = {
           "group": "E",
           "type": "Mundial 2026"
         },
-        "dynastyPotential": 64.3,
-        "rawDynastyPotential": 25.4,
-        "gapToDynastyTop10": 14.1,
+        "dynastyPotential": 67.0,
+        "rawDynastyPotential": 26.4,
+        "gapToDynastyTop10": 13.0,
         "cycleYears": 1.0,
         "currentWorldCups": 0,
         "currentContinentalTitles": 0,

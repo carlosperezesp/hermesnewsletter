@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-20 21:41 UTC
+// Auto-generated 2026-06-20 22:39 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-20 21:41 UTC",
+  "UPDATED": "2026-06-20 22:39 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "U.S. Open",
@@ -22,71 +22,71 @@ window.GOLF_DATA = {
         "rank": 1,
         "name": "Wyndham Clark",
         "country": "USA",
-        "score": "-7",
-        "today": "E"
+        "score": "-6",
+        "today": "+1"
       },
       {
         "rank": 2,
-        "name": "Sam Stevens",
-        "country": "USA",
-        "score": "-4",
-        "today": "-1"
-      },
-      {
-        "rank": 3,
-        "name": "Xander Schauffele",
-        "country": "USA",
+        "name": "Tom Kim",
+        "country": "South Korea",
         "score": "-2",
         "today": "+1"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "Scottie Scheffler",
         "country": "USA",
         "score": "-1",
         "today": "-1"
       },
       {
-        "rank": 5,
-        "name": "Sam Burns",
+        "rank": 4,
+        "name": "Sam Stevens",
         "country": "USA",
-        "score": "-1",
-        "today": "E"
-      },
-      {
-        "rank": 6,
-        "name": "Tom Kim",
-        "country": "South Korea",
         "score": "-1",
         "today": "+2"
       },
       {
-        "rank": 7,
+        "rank": 5,
         "name": "Emiliano Grillo",
         "country": "Argentina",
         "score": "E",
         "today": "-3"
       },
       {
-        "rank": 8,
+        "rank": 6,
+        "name": "Keith Mitchell",
+        "country": "USA",
+        "score": "E",
+        "today": "E"
+      },
+      {
+        "rank": 7,
         "name": "Sahith Theegala",
         "country": "USA",
         "score": "E",
         "today": "+1"
       },
       {
-        "rank": 9,
-        "name": "Justin Thomas",
+        "rank": 8,
+        "name": "Sam Burns",
         "country": "USA",
         "score": "E",
         "today": "+1"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "Collin Morikawa",
         "country": "USA",
         "score": "E",
         "today": "+2"
+      },
+      {
+        "rank": 10,
+        "name": "Matt Fitzpatrick",
+        "country": "England",
+        "score": "E",
+        "today": "+3"
       }
     ],
     "favorites": [
