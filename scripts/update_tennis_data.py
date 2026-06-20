@@ -516,8 +516,15 @@ def _espn_day_matches(scores: dict[str, float], target_date: _date, tour: str = 
 
 
 def _espn_current_tournament_status(tour: str, players: list[dict]) -> dict:
-    """Return the current tournament's singles survival state from ESPN's draw data,
-    for any tier we surface (Grand Slams, Masters/1000, 500s, finals, team events)."""
+    """Return the current singles survival state from ESPN's draw data, for any
+    tier we surface (Grand Slams, Masters/1000, 500s, finals, team events).
+
+    Grass and hard-court weeks routinely run two or more same-tier events at once
+    (e.g. Halle's Terra Wortmann Open alongside Queen's), so we scan *every*
+    in-window event we recognise and merge their draws. A player keeps the status
+    of whichever event they actually entered; only players in none of the live
+    events are flagged as not competing. Picking a single event used to shade
+    everyone in the other tournaments as absent."""
     url_tmpl = _ESPN_SCOREBOARD_URLS.get(tour, _ESPN_ATP_SCOREBOARD_URL)
     url = url_tmpl.format(date=_date.today().strftime("%Y%m%d"))
     try:
@@ -529,8 +536,7 @@ def _espn_current_tournament_status(tour: str, players: list[dict]) -> dict:
 
     target_group = _TOUR_SINGLES_GROUP[tour]
     today = _date.today()
-    selected: dict | None = None
-    selected_info: dict[str, str] = {}
+    selected_events: list[tuple[dict, dict]] = []
     for event in data.get("events", []):
         name = event.get("name", "")
         info = _classify_tournament(name, _event_venue(event), tour)
@@ -543,64 +549,77 @@ def _espn_current_tournament_status(tour: str, players: list[dict]) -> dict:
             start = today - timedelta(days=1)
             end = today + timedelta(days=1)
         if start <= today <= end:
-            selected = event
-            selected_info = info
-            break
+            selected_events.append((event, info))
 
-    if not selected:
+    if not selected_events:
         return {}
 
     entrants: dict[str, dict] = {}
     matches_seen = 0
 
-    def remember(name: str, state: str, round_label: str = "", reason: str = "") -> None:
+    def remember(name: str, state: str, tournament: str, round_label: str = "", reason: str = "") -> None:
         if not name or name == "TBD":
             return
         key = _name_key(name)
-        prev = entrants.get(key, {})
+        prev = entrants.get(key)
+        # When concurrent draws mention the same player, the one where they are
+        # still alive wins (a singles player only truly plays one event a week).
+        if prev and prev.get("state") == "alive" and state != "alive":
+            return
         entrants[key] = {
-            "name": prev.get("name") or name,
+            "name": (prev or {}).get("name") or name,
             "state": state,
-            "round": round_label or prev.get("round", ""),
-            "reason": reason or prev.get("reason", ""),
+            "tournament": tournament,
+            "round": round_label or (prev or {}).get("round", ""),
+            "reason": reason or (prev or {}).get("reason", ""),
         }
 
-    competitions: list[dict] = []
-    for grouping in selected.get("groupings", []):
-        if grouping.get("grouping", {}).get("displayName") != target_group:
-            continue
-        competitions.extend(grouping.get("competitions", []))
+    for event, _info in selected_events:
+        event_name = event.get("name", "")
+        competitions: list[dict] = []
+        for grouping in event.get("groupings", []):
+            if grouping.get("grouping", {}).get("displayName") != target_group:
+                continue
+            competitions.extend(grouping.get("competitions", []))
 
-    competitions.sort(key=lambda c: (
-        c.get("date", ""),
-        _ROUND_ORDER.get(_espn_round_code(c.get("round", {}).get("displayName", "")), 99),
-    ))
+        competitions.sort(key=lambda c: (
+            c.get("date", ""),
+            _ROUND_ORDER.get(_espn_round_code(c.get("round", {}).get("displayName", "")), 99),
+        ))
 
-    for comp in competitions:
-        round_label = comp.get("round", {}).get("displayName", "")
-        if "Qualifying" in round_label:
-            continue
-        competitors = comp.get("competitors", [])
-        names = [c.get("athlete", {}).get("displayName", "") for c in competitors]
-        names = [n for n in names if n and n != "TBD"]
-        if len(names) != 2:
-            continue
-        matches_seen += 1
-        short_round = _espn_round_code(round_label)
-        completed = comp.get("status", {}).get("type", {}).get("completed") is True
-        if completed:
-            winner = next((c for c in competitors if c.get("winner") is True), None)
-            loser = next((c for c in competitors if c.get("winner") is False), None)
-            if winner and loser:
-                remember(winner.get("athlete", {}).get("displayName", ""), "alive", short_round)
-                remember(loser.get("athlete", {}).get("displayName", ""), "out", short_round, f"Eliminado en {short_round}")
-        else:
-            for name in names:
-                remember(name, "alive", short_round)
+        for comp in competitions:
+            round_label = comp.get("round", {}).get("displayName", "")
+            if "Qualifying" in round_label:
+                continue
+            competitors = comp.get("competitors", [])
+            names = [c.get("athlete", {}).get("displayName", "") for c in competitors]
+            names = [n for n in names if n and n != "TBD"]
+            if len(names) != 2:
+                continue
+            matches_seen += 1
+            short_round = _espn_round_code(round_label)
+            completed = comp.get("status", {}).get("type", {}).get("completed") is True
+            if completed:
+                winner = next((c for c in competitors if c.get("winner") is True), None)
+                loser = next((c for c in competitors if c.get("winner") is False), None)
+                if winner and loser:
+                    remember(winner.get("athlete", {}).get("displayName", ""), "alive", event_name, short_round)
+                    remember(loser.get("athlete", {}).get("displayName", ""), "out", event_name, short_round, f"Eliminado en {short_round}")
+            else:
+                for name in names:
+                    remember(name, "alive", event_name, short_round)
 
-    withdrawals = _TOURNAMENT_WITHDRAWALS.get(selected.get("name", ""), {}).get(tour, {})
-    for name, reason in withdrawals.items():
-        remember(name, "out", "", reason)
+        withdrawals = _TOURNAMENT_WITHDRAWALS.get(event_name, {}).get(tour, {})
+        for name, reason in withdrawals.items():
+            remember(name, "out", event_name, "", reason)
+
+    event_names = [ev.get("name", "") for ev, _ in selected_events if ev.get("name")]
+    combined_name = " · ".join(event_names)
+    # One event: name it (the familiar, precise wording). Several at once: stay
+    # concise — the section subtitle already lists every live tournament.
+    not_competing_reason = (
+        f"No compite en {event_names[0]}" if len(event_names) == 1 else "No compite esta semana"
+    )
 
     alive_keys = {k for k, v in entrants.items() if v.get("state") == "alive"}
     for player in players:
@@ -608,24 +627,29 @@ def _espn_current_tournament_status(tour: str, players: list[dict]) -> dict:
         status = entrants.get(key)
         if status:
             player["tournamentStatus"] = {
-                "tournament": selected.get("name", ""),
+                "tournament": status.get("tournament") or combined_name,
                 "state": status["state"],
                 "round": status.get("round", ""),
                 "reason": status.get("reason", ""),
             }
         else:
             player["tournamentStatus"] = {
-                "tournament": selected.get("name", ""),
+                "tournament": combined_name,
                 "state": "out",
                 "round": "",
-                "reason": f"No compite en {selected.get('name', '')}",
+                "reason": not_competing_reason,
             }
 
+    primary_info = selected_events[0][1]
     return {
-        "name": selected.get("name", ""),
-        "level": selected_info.get("level", ""),
-        "surface": selected_info.get("surface", ""),
+        "name": combined_name,
+        "level": primary_info.get("level", ""),
+        "surface": primary_info.get("surface", ""),
         "tour": tour.upper(),
+        "events": [
+            {"name": ev.get("name", ""), "level": inf.get("level", ""), "surface": inf.get("surface", "")}
+            for ev, inf in selected_events
+        ],
         "alive": sorted(v["name"] for v in entrants.values() if v.get("state") == "alive"),
         "out": sorted(v["name"] for v in entrants.values() if v.get("state") == "out"),
         "aliveCount": len(alive_keys),

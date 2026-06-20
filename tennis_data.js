@@ -29,10 +29,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 16.0,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 100.0
     },
@@ -65,10 +65,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 25.9,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 97.1
     },
@@ -101,7 +101,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Terra Wortmann Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 87.4
@@ -133,10 +133,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 100.0,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 87.4
     },
@@ -167,10 +167,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 82.7
     },
@@ -201,10 +201,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 81.1
     },
@@ -235,10 +235,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 79.3
     },
@@ -269,10 +269,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "tournament": "HSBC Championships",
+        "state": "alive",
+        "round": "Semifinal",
+        "reason": ""
       },
       "prevActiveScore": 79.1
     },
@@ -337,10 +337,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 78.0
     },
@@ -405,10 +405,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "tournament": "HSBC Championships",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 77.0
     },
@@ -441,7 +441,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Terra Wortmann Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 76.5
@@ -473,10 +473,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "tournament": "HSBC Championships",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 76.4
     },
@@ -543,7 +543,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Terra Wortmann Open",
         "state": "alive",
-        "round": "R128",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 75.7
@@ -645,7 +645,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Terra Wortmann Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 74.7
@@ -677,10 +677,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 74.8
     },
@@ -747,7 +747,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Terra Wortmann Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 73.7
@@ -779,10 +779,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "tournament": "HSBC Championships",
+        "state": "alive",
+        "round": "Semifinal",
+        "reason": ""
       },
       "prevActiveScore": 73.3
     },
@@ -813,10 +813,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "tournament": "HSBC Championships",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 72.8
     },
@@ -847,10 +847,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 72.1
     },
@@ -915,10 +915,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "tournament": "HSBC Championships",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 68.3
     },
@@ -949,10 +949,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 68.0
     },
@@ -983,10 +983,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "tournament": "HSBC Championships",
+        "state": "alive",
+        "round": "Semifinal",
+        "reason": ""
       },
       "prevActiveScore": 67.5
     },
@@ -1017,10 +1017,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 30,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "HSBC Championships",
         "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 67.4
     },
@@ -1051,10 +1051,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 31,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 66.6
     },
@@ -1085,10 +1085,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 66.8
     },
@@ -1119,10 +1119,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "HSBC Championships",
         "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 66.4
     },
@@ -1153,10 +1153,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 34,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 66.2
     },
@@ -1187,10 +1187,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "tournament": "HSBC Championships",
+        "state": "alive",
+        "round": "Semifinal",
+        "reason": ""
       },
       "prevActiveScore": 66.2
     },
@@ -1221,10 +1221,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "HSBC Championships",
         "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 66.0
     },
@@ -1289,10 +1289,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 38,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 66.1
     },
@@ -1325,10 +1325,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 71.5
     },
@@ -1359,10 +1359,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.3
     },
@@ -1427,10 +1427,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.0
     },
@@ -1461,10 +1461,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 64.4
     },
@@ -1495,10 +1495,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "tournament": "HSBC Championships",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 63.5
     },
@@ -1529,10 +1529,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 45,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "HSBC Championships",
         "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 63.0
     },
@@ -1599,10 +1599,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 47,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 68.6
     },
@@ -1633,10 +1633,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "tournament": "HSBC Championships",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 62.4
     },
@@ -1667,10 +1667,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 49,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "tournament": "HSBC Championships",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 62.2
     },
@@ -1701,10 +1701,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "HSBC Championships",
         "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 61.9
     },
@@ -1735,10 +1735,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 61.5
     },
@@ -1771,7 +1771,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Terra Wortmann Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 61.8
@@ -1837,10 +1837,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 54,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 61.2
     },
@@ -1871,10 +1871,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 55,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 61.1
     },
@@ -1906,9 +1906,9 @@ window.TENNIS_DATA = {
       "prevListRank": 56,
       "tournamentStatus": {
         "tournament": "Terra Wortmann Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 61.3
     },
@@ -1939,10 +1939,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "tournament": "HSBC Championships",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 60.1
     },
@@ -1973,10 +1973,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "HSBC Championships",
         "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 56.9
     },
@@ -2043,7 +2043,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Terra Wortmann Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 60.0
@@ -2109,10 +2109,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 62,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.3
     },
@@ -2145,7 +2145,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Terra Wortmann Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 59.0
@@ -2177,10 +2177,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.0
     },
@@ -2211,10 +2211,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.3
     },
@@ -2245,10 +2245,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 66,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.6
     },
@@ -2279,10 +2279,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "tournament": "HSBC Championships",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 58.7
     },
@@ -2347,10 +2347,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.3
     },
@@ -2381,10 +2381,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "HSBC Championships",
         "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 58.2
     },
@@ -2449,10 +2449,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.4
     },
@@ -2483,10 +2483,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 73,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.5
     },
@@ -2517,10 +2517,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "HSBC Championships",
         "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 60.5
     },
@@ -2552,9 +2552,9 @@ window.TENNIS_DATA = {
       "prevListRank": 75,
       "tournamentStatus": {
         "tournament": "Terra Wortmann Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 56.6
     },
@@ -2585,10 +2585,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 76,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.1
     },
@@ -2619,10 +2619,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "HSBC Championships",
         "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.4
     },
@@ -2653,10 +2653,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 55.3
     },
@@ -2687,10 +2687,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 79,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 56.6
     },
@@ -2723,10 +2723,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 80,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 71.2
     },
@@ -2757,10 +2757,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 55.8
     },
@@ -2791,10 +2791,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 55.5
     },
@@ -2827,10 +2827,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 83,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 68.8
     },
@@ -2895,10 +2895,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 55.2
     },
@@ -2929,10 +2929,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 55.0
     },
@@ -2963,10 +2963,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "tournament": "HSBC Championships",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 54.6
     },
@@ -2997,10 +2997,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.5
     },
@@ -3031,10 +3031,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "HSBC Championships",
         "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 54.4
     },
@@ -3065,10 +3065,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "HSBC Championships",
         "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 54.3
     },
@@ -3099,10 +3099,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 54.3
     },
@@ -3133,10 +3133,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 92,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.9
     },
@@ -3167,10 +3167,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.7
     },
@@ -3203,7 +3203,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Terra Wortmann Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 53.1
@@ -3235,10 +3235,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 95,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.5
     },
@@ -3269,10 +3269,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.4
     },
@@ -3303,10 +3303,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.5
     },
@@ -3337,10 +3337,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 54.7
     },
@@ -3371,10 +3371,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.0
     },
@@ -3405,10 +3405,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.5
     },
@@ -3441,7 +3441,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Terra Wortmann Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 52.1
@@ -3473,10 +3473,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.4
     },
@@ -3507,10 +3507,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.8
     },
@@ -3541,10 +3541,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.7
     },
@@ -3575,10 +3575,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.5
     },
@@ -3609,10 +3609,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.2
     },
@@ -3643,10 +3643,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.4
     },
@@ -3677,10 +3677,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.0
     },
@@ -3779,10 +3779,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 111,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.6
     },
@@ -3813,10 +3813,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "HSBC Championships",
         "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 49.6
     },
@@ -3849,10 +3849,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 113,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "HSBC Championships",
         "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 53.7
     },
@@ -3883,10 +3883,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.2
     },
@@ -3917,10 +3917,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.2
     },
@@ -3951,10 +3951,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.8
     },
@@ -3985,10 +3985,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 117,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "tournament": "HSBC Championships",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 48.0
     },
@@ -4019,10 +4019,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 118,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.0
     },
@@ -4053,10 +4053,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 119,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.9
     },
@@ -4087,10 +4087,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.7
     },
@@ -4121,10 +4121,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.9
     },
@@ -4155,10 +4155,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "HSBC Championships",
         "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 47.6
     },
@@ -4189,10 +4189,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.3
     },
@@ -4225,10 +4225,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.8
     },
@@ -4261,10 +4261,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.9
     },
@@ -4295,10 +4295,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 45.7
     },
@@ -4329,10 +4329,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 45.9
     },
@@ -4365,10 +4365,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 128,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "HSBC Championships",
         "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 55.4
     },
@@ -4401,10 +4401,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 54.8
     },
@@ -4437,10 +4437,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.9
     },
@@ -4471,10 +4471,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 10.3,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 44.5
     },
@@ -4507,10 +4507,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.3
     },
@@ -4541,10 +4541,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 44.1
     },
@@ -4575,10 +4575,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 42.6
     },
@@ -4611,10 +4611,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 45.7
     },
@@ -4647,10 +4647,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 56.9
     },
@@ -4683,10 +4683,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "tournament": "HSBC Championships",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 54.6
     },
@@ -4717,10 +4717,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 138,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 40.6
     },
@@ -4753,10 +4753,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.1
     },
@@ -4789,10 +4789,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 43.2
     },
@@ -4825,10 +4825,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.2
     },
@@ -4861,10 +4861,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 46.2
     },
@@ -4899,7 +4899,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Terra Wortmann Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 50.0
@@ -4933,10 +4933,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.0
     },
@@ -4969,10 +4969,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.4
     },
@@ -5005,10 +5005,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.0
     },
@@ -5041,10 +5041,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.0
     },
@@ -5077,10 +5077,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.4
     },
@@ -5113,10 +5113,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.0
     },
@@ -5149,10 +5149,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
+        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en Terra Wortmann Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.0
     }
@@ -5187,7 +5187,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 100.0
@@ -5221,8 +5221,8 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "out",
-        "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "round": "R64",
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 93.3
     },
@@ -5253,10 +5253,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 91.9
     },
@@ -5287,10 +5287,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 30.5,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 91.4
     },
@@ -5322,9 +5322,9 @@ window.TENNIS_DATA = {
       "prevListRank": 5,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 91.1
     },
@@ -5389,10 +5389,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 90.5
     },
@@ -5425,7 +5425,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 90.2
@@ -5457,10 +5457,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 86.7
     },
@@ -5491,10 +5491,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 85.9
     },
@@ -5527,7 +5527,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 85.8
@@ -5559,10 +5559,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 85.3
     },
@@ -5593,10 +5593,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 84.9
     },
@@ -5627,10 +5627,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 81.1
     },
@@ -5729,10 +5729,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 14.8,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 80.2
     },
@@ -5765,7 +5765,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 78.6
@@ -5833,7 +5833,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 77.2
@@ -5865,10 +5865,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 76.3
     },
@@ -5933,10 +5933,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 74.7
     },
@@ -5967,10 +5967,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 72.4
     },
@@ -6001,10 +6001,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 72.2
     },
@@ -6035,10 +6035,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 70.4
     },
@@ -6069,10 +6069,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 70.9
     },
@@ -6103,10 +6103,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 71.3
     },
@@ -6137,10 +6137,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 71.4
     },
@@ -6173,7 +6173,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 70.2
@@ -6205,10 +6205,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 31,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 69.6
     },
@@ -6239,10 +6239,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 69.1
     },
@@ -6273,10 +6273,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 69.3
     },
@@ -6309,7 +6309,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
-        "round": "R128",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 68.4
@@ -6341,10 +6341,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 68.0
     },
@@ -6409,10 +6409,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.7
     },
@@ -6443,10 +6443,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 38,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 67.1
     },
@@ -6477,10 +6477,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 63.9
     },
@@ -6511,10 +6511,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.7
     },
@@ -6545,10 +6545,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 66.4
     },
@@ -6579,10 +6579,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 64.1
     },
@@ -6613,10 +6613,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.8
     },
@@ -6647,10 +6647,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 66.0
     },
@@ -6717,10 +6717,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 80.2
     },
@@ -6753,7 +6753,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 65.7
@@ -6787,7 +6787,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 65.1
@@ -6821,10 +6821,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 49,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 68.6
     },
@@ -6855,10 +6855,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 64.7
     },
@@ -6889,10 +6889,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 63.8
     },
@@ -6923,10 +6923,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 63.7
     },
@@ -6957,10 +6957,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 63.7
     },
@@ -7025,10 +7025,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 55,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.2
     },
@@ -7059,10 +7059,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.5
     },
@@ -7127,10 +7127,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.3
     },
@@ -7161,10 +7161,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.0
     },
@@ -7196,9 +7196,9 @@ window.TENNIS_DATA = {
       "prevListRank": 60,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 56.1
     },
@@ -7229,10 +7229,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 61.7
     },
@@ -7263,10 +7263,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 62,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 63.4
     },
@@ -7297,10 +7297,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 63,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 61.3
     },
@@ -7333,7 +7333,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 60.5
@@ -7365,10 +7365,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 60.8
     },
@@ -7399,10 +7399,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 66,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 60.1
     },
@@ -7433,10 +7433,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.8
     },
@@ -7467,10 +7467,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.4
     },
@@ -7501,10 +7501,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.1
     },
@@ -7535,10 +7535,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.0
     },
@@ -7569,10 +7569,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.0
     },
@@ -7603,10 +7603,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.4
     },
@@ -7671,10 +7671,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.1
     },
@@ -7705,10 +7705,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.0
     },
@@ -7739,10 +7739,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 76,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.2
     },
@@ -7773,10 +7773,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.3
     },
@@ -7807,10 +7807,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.3
     },
@@ -7841,10 +7841,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 79,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.4
     },
@@ -7875,10 +7875,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 80,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 56.9
     },
@@ -7909,10 +7909,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 56.7
     },
@@ -7943,10 +7943,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.4
     },
@@ -7977,10 +7977,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 83,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 55.6
     },
@@ -8011,10 +8011,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 55.1
     },
@@ -8045,10 +8045,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 55.4
     },
@@ -8079,10 +8079,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 54.2
     },
@@ -8113,10 +8113,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.8
     },
@@ -8147,10 +8147,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.1
     },
@@ -8181,10 +8181,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.3
     },
@@ -8215,10 +8215,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.1
     },
@@ -8319,10 +8319,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.0
     },
@@ -8353,10 +8353,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.8
     },
@@ -8387,10 +8387,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 95,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.6
     },
@@ -8423,10 +8423,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.4
     },
@@ -8457,10 +8457,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.2
     },
@@ -8493,10 +8493,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 56.5
     },
@@ -8529,10 +8529,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 54.1
     },
@@ -8565,10 +8565,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 60.4
     },
@@ -8599,10 +8599,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 101,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.2
     },
@@ -8633,10 +8633,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.0
     },
@@ -8667,10 +8667,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 55.9
     },
@@ -8701,10 +8701,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.9
     },
@@ -8737,10 +8737,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 64.8
     },
@@ -8771,10 +8771,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.7
     },
@@ -8805,10 +8805,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.0
     },
@@ -8839,10 +8839,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.7
     },
@@ -8875,10 +8875,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 109,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 64.6
     },
@@ -8909,10 +8909,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.4
     },
@@ -8943,10 +8943,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 111,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.3
     },
@@ -8977,10 +8977,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.1
     },
@@ -9011,10 +9011,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 113,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.6
     },
@@ -9047,10 +9047,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 61.8
     },
@@ -9083,10 +9083,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.7
     },
@@ -9117,10 +9117,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 46.6
     },
@@ -9151,10 +9151,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 117,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 46.4
     },
@@ -9185,10 +9185,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 118,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 46.0
     },
@@ -9219,10 +9219,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 119,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 45.0
     },
@@ -9253,10 +9253,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 44.9
     },
@@ -9289,10 +9289,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.3
     },
@@ -9325,10 +9325,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.0
     },
@@ -9361,10 +9361,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.0
     },
@@ -9395,10 +9395,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 43.3
     },
@@ -9429,10 +9429,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 43.4
     },
@@ -9465,10 +9465,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 56.7
     },
@@ -9499,10 +9499,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 42.4
     },
@@ -9533,10 +9533,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 128,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 42.1
     },
@@ -9569,10 +9569,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 45.5
     },
@@ -9603,10 +9603,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 41.7
     },
@@ -9637,10 +9637,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 41.2
     },
@@ -9673,10 +9673,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.1
     },
@@ -9709,10 +9709,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 55.8
     },
@@ -9745,10 +9745,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.4
     },
@@ -9781,10 +9781,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 54.2
     },
@@ -9817,10 +9817,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.9
     },
@@ -9853,10 +9853,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.1
     },
@@ -9889,10 +9889,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 138,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.9
     },
@@ -9923,10 +9923,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 37.4
     },
@@ -9959,10 +9959,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.6
     },
@@ -10031,10 +10031,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 46.3
     },
@@ -10067,10 +10067,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.1
     },
@@ -10103,10 +10103,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 46.0
     },
@@ -10139,10 +10139,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.9
     },
@@ -10175,10 +10175,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 45.3
     },
@@ -10211,10 +10211,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 45.0
     },
@@ -10245,10 +10245,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -10281,10 +10281,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.0
     },
@@ -10317,10 +10317,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en VANDA Pharmaceuticals Berlin Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.0
     }
@@ -11431,60 +11431,119 @@ window.TENNIS_DATA = {
     }
   ],
   "ATP_TOURNAMENT": {
-    "name": "Terra Wortmann Open",
+    "name": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
     "level": "ATP 500",
     "surface": "Grass",
     "tour": "ATP",
+    "events": [
+      {
+        "name": "Terra Wortmann Open",
+        "level": "ATP 500",
+        "surface": "Grass"
+      },
+      {
+        "name": "HSBC Championships",
+        "level": "ATP 500",
+        "surface": "Grass"
+      },
+      {
+        "name": "Lexus Eastbourne Open",
+        "level": "500",
+        "surface": "Grass"
+      }
+    ],
     "alive": [
+      "Adrian Mannarino",
+      "Alejandro Davidovich Fokina",
+      "Alex de Minaur",
       "Alexander Zverev",
+      "Arthur Fery",
       "Ben Shelton",
+      "Botic Van De Zandschulp",
+      "Brandon Nakashima",
+      "Corentin Moutet",
       "Daniel Altmaier",
       "Daniil Medvedev",
+      "Denis Shapovalov",
       "Ethan Quinn",
       "Fabian Marozsan",
       "Felix Auger-Aliassime",
       "Frances Tiafoe",
+      "Francisco Cerundolo",
+      "Hamad Medjedovic",
       "Hubert Hurkacz",
+      "Ignacio Buse",
+      "Jenson Brooksby",
+      "Jiri Lehecka",
       "Learner Tien",
-      "Lorenzo Sonego",
       "Mattia Bellucci",
       "Raphael Collignon",
+      "Rinky Hijikata",
       "Sho Shimabukuro",
       "Taylor Fritz",
       "Terence Atmane",
-      "Yannick Hanfmann",
-      "Zizou Bergs"
+      "Tommy Paul",
+      "Ugo Humbert",
+      "Yannick Hanfmann"
     ],
     "out": [
+      "Alejandro Tabilo",
+      "Aleksandar Kovacevic",
       "Alexander Bublik",
       "Alexei Popyrin",
       "Andrey Rublev",
+      "Arthur Rinderknech",
+      "Cameron Norrie",
       "Flavio Cobolli",
+      "Gabriel Diallo",
+      "Giovanni Mpetshi Perricard",
+      "Harry Wendelken",
+      "Jack Pinnington Jones",
+      "Jakub Mensik",
       "Joao Fonseca",
+      "Kamil Majchrzak",
       "Karen Khachanov",
+      "Lorenzo Sonego",
+      "Marcos Giron",
+      "Marin Cilic",
+      "Martin Damm",
       "Martin Landaluce",
+      "Marton Fucsovics",
       "Max Schoenhaus",
       "Miomir Kecmanovic",
       "Nikoloz Basilashvili",
       "Nuno Borges",
       "Tallon Griekspoor",
+      "Toby Samuel",
       "Tomas Martin Etcheverry",
-      "Vit Kopriva"
+      "Vit Kopriva",
+      "Zachary Svajda",
+      "Zizou Bergs"
     ],
-    "aliveCount": 18,
-    "matchesSeen": 22
+    "aliveCount": 32,
+    "matchesSeen": 60
   },
   "WTA_TOURNAMENT": {
-    "name": "VANDA Pharmaceuticals Berlin Tennis Open",
+    "name": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
     "level": "WTA 500",
     "surface": "Grass",
     "tour": "WTA",
+    "events": [
+      {
+        "name": "VANDA Pharmaceuticals Berlin Tennis Open",
+        "level": "WTA 500",
+        "surface": "Grass"
+      },
+      {
+        "name": "Lexus Eastbourne Open",
+        "level": "500",
+        "surface": "Grass"
+      }
+    ],
     "alive": [
       "Alexandra Eala",
       "Aryna Sabalenka",
-      "Coco Gauff",
       "Diane Parry",
-      "Donna Vekic",
       "Ekaterina Alexandrova",
       "Elina Svitolina",
       "Elise Mertens",
@@ -11501,7 +11560,10 @@ window.TENNIS_DATA = {
       "Anastasia Potapova",
       "Anna Kalinskaya",
       "Clara Tauson",
+      "Coco Gauff",
       "Diana Shnaider",
+      "Donna Vekic",
+      "Elena Rybakina",
       "Liudmila Samsonova",
       "Magdalena Frech",
       "Rebeka Masarova",
@@ -11510,8 +11572,8 @@ window.TENNIS_DATA = {
       "Wang Xinyu",
       "Zhang Shuai"
     ],
-    "aliveCount": 16,
-    "matchesSeen": 19
+    "aliveCount": 14,
+    "matchesSeen": 26
   },
   "ATP_SCORE_LOG": {
     "206173": [
