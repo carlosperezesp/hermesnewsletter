@@ -5946,7 +5946,7 @@ window.NBA_DATA = {
       "last": "Krejci",
       "pos": "G",
       "teamCode": "POR",
-      "age": 25,
+      "age": 26,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4578893.png",
       "colors": {
         "primary": "#e03a3e",
@@ -5962,7 +5962,7 @@ window.NBA_DATA = {
         "blk": 0.0,
         "min": 4.0
       },
-      "legendScore": 27.7
+      "legendScore": 28.7
     },
     {
       "id": 4700852,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-06-20 09:46 UTC",
+  "LAST_UPDATE": "2026-06-20 14:55 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

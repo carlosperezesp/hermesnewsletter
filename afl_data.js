@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-20 09:47 UTC
+// Auto-generated 2026-06-20 14:56 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-06-20 09:47 UTC",
+  "UPDATED": "2026-06-20 14:56 UTC",
   "SEASON": "2026",
   "ROUND": 15,
   "IMPORTANCE": 8.0,
@@ -115,6 +115,17 @@ window.AFL_DATA = {
     },
     {
       "rank": 10,
+      "name": "Collingwood",
+      "wins": 6,
+      "losses": 7,
+      "draws": 1,
+      "pts": 26,
+      "percentage": 101.6,
+      "primary": "#000000",
+      "secondary": "#FFFFFF"
+    },
+    {
+      "rank": 11,
       "name": "St Kilda",
       "wins": 6,
       "losses": 8,
@@ -125,7 +136,7 @@ window.AFL_DATA = {
       "secondary": "#000000"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Greater Western Sydney",
       "wins": 6,
       "losses": 8,
@@ -136,7 +147,7 @@ window.AFL_DATA = {
       "secondary": "#002040"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Carlton",
       "wins": 6,
       "losses": 8,
@@ -147,7 +158,7 @@ window.AFL_DATA = {
       "secondary": "#FFFFFF"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "North Melbourne",
       "wins": 6,
       "losses": 7,
@@ -158,24 +169,13 @@ window.AFL_DATA = {
       "secondary": "#013B9F"
     },
     {
-      "rank": 14,
-      "name": "Collingwood",
-      "wins": 5,
-      "losses": 7,
-      "draws": 1,
-      "pts": 22,
-      "percentage": 99.2,
-      "primary": "#000000",
-      "secondary": "#FFFFFF"
-    },
-    {
       "rank": 15,
       "name": "Port Adelaide",
       "wins": 4,
-      "losses": 9,
+      "losses": 10,
       "draws": 0,
       "pts": 16,
-      "percentage": 101.0,
+      "percentage": 98.6,
       "primary": "#002B5C",
       "secondary": "#CC2031"
     },
@@ -1095,6 +1095,16 @@ window.AFL_DATA = {
       "date": "2026-06-20",
       "hprimary": "#F57F00",
       "aprimary": "#0E1E2D"
+    },
+    {
+      "hteam": "Collingwood",
+      "hscore": 78,
+      "ateam": "Port Adelaide",
+      "ascore": 51,
+      "winner": "Collingwood",
+      "date": "2026-06-20",
+      "hprimary": "#000000",
+      "aprimary": "#002B5C"
     }
   ],
   "CURRENT_CONTENDERS": [
