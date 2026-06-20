@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-20 14:57 UTC
+// Auto-generated 2026-06-20 15:25 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-20 14:57 UTC",
+  "UPDATED": "2026-06-20 15:25 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11047,15 +11047,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Tommy Paul",
+          "w": "Ugo Humbert",
           "w_logo": "",
-          "l": "Ugo Humbert",
+          "l": "Tommy Paul",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 79.0,
-          "l_score": 66.1,
+          "scheduled": false,
+          "w_score": 66.1,
+          "l_score": 79.0,
           "match_score": 79.0
         },
         {
@@ -11064,7 +11064,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Brandon Nakashima",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (5-7) 6-3 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 73.3,
