@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-20 13:59 UTC
+// Auto-generated 2026-06-20 14:46 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-20 13:59 UTC",
+  "UPDATED": "2026-06-20 14:46 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5187,7 +5187,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 100.0
@@ -11018,7 +11018,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alexander Zverev",
           "l_logo": "",
-          "score": "4-3",
+          "score": "In Progress",
           "day": "hoy",
           "scheduled": false,
           "w_score": 75.7,
@@ -11147,7 +11147,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Aryna Sabalenka",
           "l_logo": "",
-          "score": "4-6 6-6",
+          "score": "6-4 6-7 (4-7) 6-0",
           "day": "hoy",
           "scheduled": false,
           "w_score": 90.2,

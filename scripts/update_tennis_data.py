@@ -7,7 +7,7 @@ match-level CSVs are still read from the local Sackmann cache for Elo / career
 / surface stats, which drift slowly and tolerate a frozen cache.
 """
 from __future__ import annotations
-import csv, hashlib, html, json, math, os, re, sys, time, urllib.request
+import csv, gzip, hashlib, html, json, math, os, re, sys, time, urllib.request
 from collections import defaultdict
 from datetime import datetime, timezone, date as _date, timedelta
 from io import StringIO
@@ -16,6 +16,11 @@ from pathlib import Path
 ROOT   = Path(__file__).resolve().parent.parent
 CACHE  = ROOT / ".tennis_cache"
 CACHE.mkdir(exist_ok=True)
+# Committed, gzipped snapshot of the offline Sackmann history (match CSVs, player
+# metadata, ranking files). The upstream source died in June 2026 and the live
+# cache is gitignored, so cloud CI has no history to rebuild Elo/career stats
+# from — it falls back here so the tennis tracker keeps updating daily.
+SEED   = ROOT / "data_sources" / "tennis_seed"
 STALE_FETCHES: list[tuple[str, float, float]] = []
 
 CURRENT_YEAR  = datetime.now(timezone.utc).year
@@ -87,6 +92,15 @@ def _flag_url(ioc3: str) -> str:
 
 # ── Cache helpers ─────────────────────────────────────────────────────────────
 
+def _seed_read(key: str) -> str | None:
+    """Committed snapshot for a cache key, gzipped or plain. None if absent."""
+    gz = SEED / f"{key}.gz"
+    if gz.exists():
+        return gzip.decompress(gz.read_bytes()).decode("utf-8")
+    raw = SEED / key
+    return raw.read_text(encoding="utf-8") if raw.exists() else None
+
+
 def _cache_fetch(url: str, ttl_hours: float = 720.0) -> str:
     key  = hashlib.md5(url.encode()).hexdigest()
     path = CACHE / key
@@ -94,6 +108,14 @@ def _cache_fetch(url: str, ttl_hours: float = 720.0) -> str:
         age_h = (time.time() - path.stat().st_mtime) / 3600
         if age_h < ttl_hours:
             return path.read_text(encoding="utf-8")
+    # No fresh local cache: prefer the committed seed over a round trip to the
+    # (often dead) source. Only the long-lived history is seeded, so live feeds
+    # like ESPN — which have no seed — still fetch fresh below.
+    if not path.exists():
+        seed = _seed_read(key)
+        if seed is not None:
+            path.write_text(seed, encoding="utf-8")
+            return seed
     try:
         with urllib.request.urlopen(url, timeout=30) as r:
             text = r.read().decode("utf-8")
@@ -106,6 +128,10 @@ def _cache_fetch(url: str, ttl_hours: float = 720.0) -> str:
                 STALE_FETCHES.append((url, age_h, ttl_hours))
             print(f"[WARN] fetch failed ({exc}), using stale cache: {url}", file=sys.stderr)
             return path.read_text(encoding="utf-8")
+        seed = _seed_read(key)
+        if seed is not None:
+            path.write_text(seed, encoding="utf-8")
+            return seed
         raise
 
 def _csv(url: str, ttl_hours: float = 720.0) -> list[dict]:
