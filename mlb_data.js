@@ -51,14 +51,14 @@ window.MLB_DATA = {
       "commonName": "Yankees",
       "conf": "AL",
       "div": "AL East",
-      "gp": 74,
+      "gp": 75,
       "w": 46,
-      "l": 28,
-      "winPct": 0.622,
-      "rf": 386,
-      "ra": 263,
+      "l": 29,
+      "winPct": 0.613,
+      "rf": 388,
+      "ra": 273,
       "rd": 0,
-      "score": 50,
+      "score": 49,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
       "colors": {
         "primary": "#003087",
@@ -177,12 +177,12 @@ window.MLB_DATA = {
       "commonName": "Cubs",
       "conf": "NL",
       "div": "NL Central",
-      "gp": 76,
+      "gp": 77,
       "w": 40,
-      "l": 36,
-      "winPct": 0.526,
-      "rf": 360,
-      "ra": 337,
+      "l": 37,
+      "winPct": 0.519,
+      "rf": 366,
+      "ra": 345,
       "rd": 0,
       "score": 42,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png",
@@ -198,12 +198,12 @@ window.MLB_DATA = {
       "commonName": "White Sox",
       "conf": "AL",
       "div": "AL Central",
-      "gp": 74,
+      "gp": 75,
       "w": 39,
-      "l": 35,
-      "winPct": 0.527,
-      "rf": 348,
-      "ra": 348,
+      "l": 36,
+      "winPct": 0.52,
+      "rf": 349,
+      "ra": 352,
       "rd": 0,
       "score": 42,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chw.png",
@@ -297,6 +297,27 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "TOR",
+      "city": "Toronto Blue Jays",
+      "shortName": "Toronto",
+      "commonName": "Blue Jays",
+      "conf": "AL",
+      "div": "AL East",
+      "gp": 77,
+      "w": 38,
+      "l": 39,
+      "winPct": 0.494,
+      "rf": 316,
+      "ra": 341,
+      "rd": 0,
+      "score": 39,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
+      "colors": {
+        "primary": "#134a8e",
+        "secondary": "#e8291c"
+      }
+    },
+    {
       "code": "SD",
       "city": "San Diego Padres",
       "shortName": "San Diego",
@@ -357,27 +378,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#fdb827",
         "secondary": "#27251f"
-      }
-    },
-    {
-      "code": "TOR",
-      "city": "Toronto Blue Jays",
-      "shortName": "Toronto",
-      "commonName": "Blue Jays",
-      "conf": "AL",
-      "div": "AL East",
-      "gp": 76,
-      "w": 37,
-      "l": 39,
-      "winPct": 0.487,
-      "rf": 308,
-      "ra": 335,
-      "rd": 0,
-      "score": 39,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
-      "colors": {
-        "primary": "#134a8e",
-        "secondary": "#e8291c"
       }
     },
     {
@@ -444,6 +444,27 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "CIN",
+      "city": "Cincinnati Reds",
+      "shortName": "Cincinnati",
+      "commonName": "Reds",
+      "conf": "NL",
+      "div": "NL Central",
+      "gp": 75,
+      "w": 36,
+      "l": 39,
+      "winPct": 0.48,
+      "rf": 321,
+      "ra": 370,
+      "rd": 0,
+      "score": 38,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cin.png",
+      "colors": {
+        "primary": "#c6011f",
+        "secondary": "#000000"
+      }
+    },
+    {
       "code": "BAL",
       "city": "Baltimore Orioles",
       "shortName": "Baltimore",
@@ -461,27 +482,6 @@ window.MLB_DATA = {
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bal.png",
       "colors": {
         "primary": "#df4601",
-        "secondary": "#000000"
-      }
-    },
-    {
-      "code": "CIN",
-      "city": "Cincinnati Reds",
-      "shortName": "Cincinnati",
-      "commonName": "Reds",
-      "conf": "NL",
-      "div": "NL Central",
-      "gp": 74,
-      "w": 35,
-      "l": 39,
-      "winPct": 0.473,
-      "rf": 311,
-      "ra": 368,
-      "rd": 0,
-      "score": 38,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cin.png",
-      "colors": {
-        "primary": "#c6011f",
         "secondary": "#000000"
       }
     },
@@ -507,6 +507,27 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "DET",
+      "city": "Detroit Tigers",
+      "shortName": "Detroit",
+      "commonName": "Tigers",
+      "conf": "AL",
+      "div": "AL Central",
+      "gp": 76,
+      "w": 32,
+      "l": 44,
+      "winPct": 0.421,
+      "rf": 309,
+      "ra": 315,
+      "rd": 0,
+      "score": 34,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png",
+      "colors": {
+        "primary": "#0c2340",
+        "secondary": "#fa4616"
+      }
+    },
+    {
       "code": "KC",
       "city": "Kansas City Royals",
       "shortName": "Kansas City",
@@ -525,27 +546,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#004687",
         "secondary": "#c09a5b"
-      }
-    },
-    {
-      "code": "DET",
-      "city": "Detroit Tigers",
-      "shortName": "Detroit",
-      "commonName": "Tigers",
-      "conf": "AL",
-      "div": "AL Central",
-      "gp": 75,
-      "w": 31,
-      "l": 44,
-      "winPct": 0.413,
-      "rf": 305,
-      "ra": 314,
-      "rd": 0,
-      "score": 33,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png",
-      "colors": {
-        "primary": "#0c2340",
-        "secondary": "#fa4616"
       }
     },
     {
@@ -7832,9 +7832,9 @@ window.MLB_DATA = {
         "city": "New York Yankees",
         "era": "2019–present",
         "rings": 0,
-        "dynastyScore": 40.0,
+        "dynastyScore": 39.4,
         "threshold": 89.5,
-        "gap": 49.5,
+        "gap": 50.1,
         "note": "2024 WS · Judge/Cole core · 27 all-time titles · perennial threat",
         "needs": "Needs at least one title + sustained dominance",
         "colors": {
@@ -8137,7 +8137,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-20 15:24 UTC",
+  "LAST_UPDATE": "2026-06-20 21:40 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

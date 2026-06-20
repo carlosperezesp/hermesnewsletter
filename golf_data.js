@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-20 15:25 UTC
+// Auto-generated 2026-06-20 21:41 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-20 15:25 UTC",
+  "UPDATED": "2026-06-20 21:41 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "U.S. Open",
@@ -23,70 +23,70 @@ window.GOLF_DATA = {
         "name": "Wyndham Clark",
         "country": "USA",
         "score": "-7",
-        "today": ""
+        "today": "E"
       },
       {
         "rank": 2,
-        "name": "Xander Schauffele",
+        "name": "Sam Stevens",
         "country": "USA",
-        "score": "-3",
-        "today": ""
+        "score": "-4",
+        "today": "-1"
       },
       {
         "rank": 3,
-        "name": "Tom Kim",
-        "country": "South Korea",
-        "score": "-3",
-        "today": ""
+        "name": "Xander Schauffele",
+        "country": "USA",
+        "score": "-2",
+        "today": "+1"
       },
       {
         "rank": 4,
-        "name": "Sam Stevens",
+        "name": "Scottie Scheffler",
         "country": "USA",
-        "score": "-3",
-        "today": ""
+        "score": "-1",
+        "today": "-1"
       },
       {
         "rank": 5,
-        "name": "Matt Fitzpatrick",
-        "country": "England",
-        "score": "-3",
-        "today": ""
-      },
-      {
-        "rank": 6,
-        "name": "Collin Morikawa",
-        "country": "USA",
-        "score": "-2",
-        "today": ""
-      },
-      {
-        "rank": 7,
-        "name": "Sahith Theegala",
-        "country": "USA",
-        "score": "-1",
-        "today": ""
-      },
-      {
-        "rank": 8,
-        "name": "Justin Thomas",
-        "country": "USA",
-        "score": "-1",
-        "today": ""
-      },
-      {
-        "rank": 9,
-        "name": "Harry Higgs",
-        "country": "USA",
-        "score": "-1",
-        "today": ""
-      },
-      {
-        "rank": 10,
         "name": "Sam Burns",
         "country": "USA",
         "score": "-1",
-        "today": ""
+        "today": "E"
+      },
+      {
+        "rank": 6,
+        "name": "Tom Kim",
+        "country": "South Korea",
+        "score": "-1",
+        "today": "+2"
+      },
+      {
+        "rank": 7,
+        "name": "Emiliano Grillo",
+        "country": "Argentina",
+        "score": "E",
+        "today": "-3"
+      },
+      {
+        "rank": 8,
+        "name": "Sahith Theegala",
+        "country": "USA",
+        "score": "E",
+        "today": "+1"
+      },
+      {
+        "rank": 9,
+        "name": "Justin Thomas",
+        "country": "USA",
+        "score": "E",
+        "today": "+1"
+      },
+      {
+        "rank": 10,
+        "name": "Collin Morikawa",
+        "country": "USA",
+        "score": "E",
+        "today": "+2"
       }
     ],
     "favorites": [

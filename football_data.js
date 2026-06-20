@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-20 15:25 UTC
+// Auto-generated 2026-06-20 21:42 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-20 15:25 UTC",
+  "UPDATED": "2026-06-20 21:42 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-06-20 15:25 UTC"
+    "through": "2026-06-20 21:42 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -134,6 +134,37 @@ window.FOOTBALL_DATA = {
       }
     },
     {
+      "id": "netherlands",
+      "name": "Netherlands",
+      "teamCode": "NED",
+      "country": "Netherlands",
+      "logo": "https://flagcdn.com/24x18/nl.png",
+      "colors": {
+        "primary": "#FF4F00",
+        "secondary": "#21468B"
+      },
+      "rank": 5,
+      "elo": 1997,
+      "eloScore": 80.9,
+      "sourceRank": 7,
+      "worldCups": 0,
+      "continentalTitles": 1,
+      "note": "Bloque estable con muy buen diferencial ante rivales fuertes.",
+      "eloPrev": 1976,
+      "recentDelta": 21.3,
+      "recentMatches": 2,
+      "nextMatch": {
+        "date": "2026-06-20",
+        "round": 2,
+        "opponent": "Suecia",
+        "opponentCode": "SWE",
+        "venue": "NRG Stadium",
+        "city": "Houston",
+        "group": "F",
+        "type": "Mundial 2026"
+      }
+    },
+    {
       "id": "brazil",
       "name": "Brazil",
       "teamCode": "BRA",
@@ -143,7 +174,7 @@ window.FOOTBALL_DATA = {
         "primary": "#009C3B",
         "secondary": "#FFDF00"
       },
-      "rank": 5,
+      "rank": 6,
       "elo": 1983,
       "eloScore": 79.1,
       "sourceRank": 6,
@@ -164,7 +195,7 @@ window.FOOTBALL_DATA = {
         "primary": "#006600",
         "secondary": "#FF0000"
       },
-      "rank": 6,
+      "rank": 7,
       "elo": 1975,
       "eloScore": 78.1,
       "sourceRank": 5,
@@ -195,7 +226,7 @@ window.FOOTBALL_DATA = {
         "primary": "#000000",
         "secondary": "#DD0000"
       },
-      "rank": 7,
+      "rank": 8,
       "elo": 1970,
       "eloScore": 77.4,
       "sourceRank": 8,
@@ -213,37 +244,6 @@ window.FOOTBALL_DATA = {
         "venue": "BMO Field",
         "city": "Toronto",
         "group": "E",
-        "type": "Mundial 2026"
-      }
-    },
-    {
-      "id": "netherlands",
-      "name": "Netherlands",
-      "teamCode": "NED",
-      "country": "Netherlands",
-      "logo": "https://flagcdn.com/24x18/nl.png",
-      "colors": {
-        "primary": "#FF4F00",
-        "secondary": "#21468B"
-      },
-      "rank": 8,
-      "elo": 1961,
-      "eloScore": 76.3,
-      "sourceRank": 7,
-      "worldCups": 0,
-      "continentalTitles": 1,
-      "note": "Bloque estable con muy buen diferencial ante rivales fuertes.",
-      "eloPrev": 1976,
-      "recentDelta": -15.0,
-      "recentMatches": 1,
-      "nextMatch": {
-        "date": "2026-06-20",
-        "round": 2,
-        "opponent": "Suecia",
-        "opponentCode": "SWE",
-        "venue": "NRG Stadium",
-        "city": "Houston",
-        "group": "F",
         "type": "Mundial 2026"
       }
     },
@@ -300,6 +300,35 @@ window.FOOTBALL_DATA = {
     }
   ],
   "RECENT_MATCHES": [
+    {
+      "id": "760447",
+      "date": "2026-06-20",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "NED"
+      ],
+      "home": {
+        "code": "NED",
+        "name": "Países Bajos",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+        "score": 5,
+        "eloBefore": 1961,
+        "eloAfter": 1997,
+        "delta": 36.3,
+        "result": "W"
+      },
+      "away": {
+        "code": "SWE",
+        "name": "Suecia",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
+        "score": 1,
+        "eloBefore": 1832,
+        "eloAfter": 1796,
+        "delta": -36.3,
+        "result": "L"
+      }
+    },
     {
       "id": "760444",
       "date": "2026-06-20",
@@ -707,7 +736,7 @@ window.FOOTBALL_DATA = {
         "group": "F",
         "venue": "NRG Stadium",
         "city": "Houston",
-        "homeElo": 1961,
+        "homeElo": 1997,
         "awayElo": 1790
       },
       {
@@ -1178,7 +1207,7 @@ window.FOOTBALL_DATA = {
           "primary": "#009C3B",
           "secondary": "#FFDF00"
         },
-        "rank": 5,
+        "rank": 6,
         "elo": 1983,
         "eloScore": 79.1,
         "sourceRank": 6,
@@ -1207,7 +1236,7 @@ window.FOOTBALL_DATA = {
           "primary": "#006600",
           "secondary": "#FF0000"
         },
-        "rank": 6,
+        "rank": 7,
         "elo": 1975,
         "eloScore": 78.1,
         "sourceRank": 5,
@@ -1246,16 +1275,16 @@ window.FOOTBALL_DATA = {
           "primary": "#FF4F00",
           "secondary": "#21468B"
         },
-        "rank": 8,
-        "elo": 1961,
-        "eloScore": 76.3,
+        "rank": 5,
+        "elo": 1997,
+        "eloScore": 80.9,
         "sourceRank": 7,
         "worldCups": 0,
         "continentalTitles": 1,
-        "note": "A 10.2 puntos brutos del umbral dinástico",
+        "note": "A 8.2 puntos brutos del umbral dinástico",
         "eloPrev": 1976,
-        "recentDelta": -15.0,
-        "recentMatches": 1,
+        "recentDelta": 21.3,
+        "recentMatches": 2,
         "nextMatch": {
           "date": "2026-06-20",
           "round": 2,
@@ -1266,9 +1295,9 @@ window.FOOTBALL_DATA = {
           "group": "F",
           "type": "Mundial 2026"
         },
-        "dynastyPotential": 74.3,
-        "rawDynastyPotential": 29.3,
-        "gapToDynastyTop10": 10.2,
+        "dynastyPotential": 79.3,
+        "rawDynastyPotential": 31.3,
+        "gapToDynastyTop10": 8.2,
         "cycleYears": 1.4,
         "currentWorldCups": 0,
         "currentContinentalTitles": 0,
@@ -1285,7 +1314,7 @@ window.FOOTBALL_DATA = {
           "primary": "#000000",
           "secondary": "#DD0000"
         },
-        "rank": 7,
+        "rank": 8,
         "elo": 1970,
         "eloScore": 77.4,
         "sourceRank": 8,

@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-20 15:25 UTC
+// Auto-generated 2026-06-20 21:42 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-20 15:25 UTC",
+  "UPDATED": "2026-06-20 21:42 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -101,7 +101,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Terra Wortmann Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 87.4
@@ -271,7 +271,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "HSBC Championships",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 79.1
@@ -543,7 +543,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Terra Wortmann Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 75.7
@@ -747,7 +747,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Terra Wortmann Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 73.7
@@ -781,7 +781,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "HSBC Championships",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 73.3
@@ -5425,7 +5425,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 90.2
@@ -5765,7 +5765,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 78.6
@@ -6309,7 +6309,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 68.4
@@ -11018,7 +11018,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alexander Zverev",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (4-7) 6-4 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": 75.7,
@@ -11031,9 +11031,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Daniel Altmaier",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 73.5,
           "l_score": 52.5,
           "match_score": 73.5
@@ -11047,15 +11047,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Ugo Humbert",
+          "w": "Tommy Paul",
           "w_logo": "",
-          "l": "Tommy Paul",
+          "l": "Ugo Humbert",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 66.1,
-          "l_score": 79.0,
+          "w_score": 79.0,
+          "l_score": 66.1,
           "match_score": 79.0
         },
         {
@@ -11160,9 +11160,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alexandra Eala",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 78.6,
           "l_score": 68.1,
           "match_score": 78.6
@@ -11268,7 +11268,7 @@ window.TENNIS_DATA = {
       "Zachary Svajda"
     ],
     "aliveCount": 43,
-    "matchesSeen": 69
+    "matchesSeen": 71
   },
   "WTA_TOURNAMENT": {
     "name": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
@@ -11339,7 +11339,7 @@ window.TENNIS_DATA = {
       "Zhang Shuai"
     ],
     "aliveCount": 33,
-    "matchesSeen": 36
+    "matchesSeen": 37
   },
   "ATP_SCORE_LOG": {
     "206173": [

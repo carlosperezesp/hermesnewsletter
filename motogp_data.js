@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-20 15:25 UTC
+// Auto-generated 2026-06-20 21:41 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-06-20 15:25 UTC",
+  "UPDATED": "2026-06-20 21:41 UTC",
   "SEASON": "2026",
   "ROUND": 8,
   "TOTAL_ROUNDS": 22,
@@ -32,12 +32,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 160.0,
-      "score": 29.1,
+      "points": 165.0,
+      "score": 30.0,
       "stats": {
-        "pts": 160.0
+        "pts": 165.0
       },
-      "seasonPct": 29.1,
+      "seasonPct": 30.0,
       "prevRank": null,
       "age": 28
     },
@@ -49,12 +49,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 138.0,
-      "score": 25.1,
+      "points": 144.0,
+      "score": 26.2,
       "stats": {
-        "pts": 138.0
+        "pts": 144.0
       },
-      "seasonPct": 25.1,
+      "seasonPct": 26.2,
       "prevRank": null,
       "age": 28
     },
@@ -83,12 +83,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 108.0,
-      "score": 19.6,
+      "points": 115.0,
+      "score": 20.9,
       "stats": {
-        "pts": 108.0
+        "pts": 115.0
       },
-      "seasonPct": 19.6,
+      "seasonPct": 20.9,
       "prevRank": null,
       "age": 33
     },
@@ -100,12 +100,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/jp.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 105.0,
-      "score": 19.1,
+      "points": 114.0,
+      "score": 20.7,
       "stats": {
-        "pts": 105.0
+        "pts": 114.0
       },
-      "seasonPct": 19.1,
+      "seasonPct": 20.7,
       "prevRank": null,
       "age": 25
     },
@@ -117,12 +117,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 99.0,
-      "score": 18.0,
+      "points": 111.0,
+      "score": 20.2,
       "stats": {
-        "pts": 99.0
+        "pts": 111.0
       },
-      "seasonPct": 18.0,
+      "seasonPct": 20.2,
       "prevRank": null,
       "age": 29
     },
@@ -134,12 +134,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 93.0,
-      "score": 16.9,
+      "points": 97.0,
+      "score": 17.6,
       "stats": {
-        "pts": 93.0
+        "pts": 97.0
       },
-      "seasonPct": 16.9,
+      "seasonPct": 17.6,
       "prevRank": null,
       "age": 26
     },
@@ -168,12 +168,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 64.0,
-      "score": 11.6,
+      "points": 66.0,
+      "score": 12.0,
       "stats": {
-        "pts": 64.0
+        "pts": 66.0
       },
-      "seasonPct": 11.6,
+      "seasonPct": 12.0,
       "prevRank": null,
       "age": 21
     }
@@ -198,7 +198,7 @@ window.MOTOGP_DATA = {
       "primary": "#003366",
       "secondary": "#E8002D",
       "bike": "Aprilia",
-      "score": 19.1,
+      "score": 20.7,
       "position": 6,
       "age": 25,
       "note": "Irrumpe a los 25 (P6)"
@@ -210,7 +210,7 @@ window.MOTOGP_DATA = {
       "primary": "#CC0000",
       "secondary": "#FFD200",
       "bike": "Ducati",
-      "score": 11.6,
+      "score": 12.0,
       "position": 10,
       "age": 21,
       "note": "Irrumpe a los 21 (P10)"
