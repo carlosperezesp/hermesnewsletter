@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-20 08:29 UTC
+// Auto-generated 2026-06-20 09:47 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-06-20 08:29 UTC",
+  "UPDATED": "2026-06-20 09:47 UTC",
   "SEASON": "2026",
   "ROUND": 15,
   "IMPORTANCE": 8.0,
@@ -128,15 +128,26 @@ window.AFL_DATA = {
       "rank": 11,
       "name": "Greater Western Sydney",
       "wins": 6,
-      "losses": 7,
+      "losses": 8,
       "draws": 0,
       "pts": 24,
-      "percentage": 102.3,
+      "percentage": 100.3,
       "primary": "#F57F00",
       "secondary": "#002040"
     },
     {
       "rank": 12,
+      "name": "Carlton",
+      "wins": 6,
+      "losses": 8,
+      "draws": 0,
+      "pts": 24,
+      "percentage": 91.1,
+      "primary": "#0E1E2D",
+      "secondary": "#FFFFFF"
+    },
+    {
+      "rank": 13,
       "name": "North Melbourne",
       "wins": 6,
       "losses": 7,
@@ -147,7 +158,7 @@ window.AFL_DATA = {
       "secondary": "#013B9F"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Collingwood",
       "wins": 5,
       "losses": 7,
@@ -155,17 +166,6 @@ window.AFL_DATA = {
       "pts": 22,
       "percentage": 99.2,
       "primary": "#000000",
-      "secondary": "#FFFFFF"
-    },
-    {
-      "rank": 14,
-      "name": "Carlton",
-      "wins": 5,
-      "losses": 8,
-      "draws": 0,
-      "pts": 20,
-      "percentage": 88.7,
-      "primary": "#0E1E2D",
       "secondary": "#FFFFFF"
     },
     {
@@ -1085,6 +1085,16 @@ window.AFL_DATA = {
       "date": "2026-06-20",
       "hprimary": "#002B5C",
       "aprimary": "#CC2031"
+    },
+    {
+      "hteam": "Greater Western Sydney",
+      "hscore": 65,
+      "ateam": "Carlton",
+      "ascore": 88,
+      "winner": "Carlton",
+      "date": "2026-06-20",
+      "hprimary": "#F57F00",
+      "aprimary": "#0E1E2D"
     }
   ],
   "CURRENT_CONTENDERS": [
