@@ -59,12 +59,7 @@ jobs:
             git push
           fi
 
-      # ── Send newsletter email ───────────────────────────────────────────────
-      # Skips silently if send_newsletter secret is not configured
-      - name: Send newsletter email
-        env:
-          GMAIL_USER: carlosrealmurcia@gmail.com
-          GMAIL_APP_PASSWORD: ${{ secrets.send_newsletter }}
-          NEWSLETTER_RECIPIENTS: carlosrealmurcia@gmail.com
-          HERMES_SKIP_UPDATES: "1"
-        run: python3 scripts/send_newsletter.py
+      # Newsletter email disabled by request (2026-06-20): the site still updates
+      # and deploys 6×/day; no email is sent. To re-enable, restore a "Send
+      # newsletter email" step running scripts/send_newsletter.py with the
+      # GMAIL_APP_PASSWORD secret (and ideally gate it to a single daily slot).
