@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-21 15:31 UTC",
+  "UPDATED": "2026-06-21 21:45 UTC",
   "EVENTS": [
+    {
+      "id": "indycar:win:Grand Prix of Road America:Christian Lundgaard",
+      "sport": "indycar",
+      "detail": "IndyCar",
+      "text": "Christian Lundgaard ganó en Grand Prix of Road America",
+      "weight": 100,
+      "firstSeen": "2026-06-21"
+    },
     {
       "id": "nascar:win:NASCAR Cup Series at Pocono:Denny Hamlin",
       "sport": "nascar",

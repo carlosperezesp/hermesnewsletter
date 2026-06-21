@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-21 15:31 UTC
+// Auto-generated 2026-06-21 21:45 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-21 15:31 UTC",
+  "UPDATED": "2026-06-21 21:45 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -271,7 +271,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "HSBC Championships",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 79.1
@@ -1359,10 +1359,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 65.3
     },
@@ -2279,7 +2279,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "HSBC Championships",
+        "tournament": "Lexus Eastbourne Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -2861,8 +2861,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open",
-        "state": "out",
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -4295,10 +4295,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 45.7
     },
@@ -4861,10 +4861,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Terra Wortmann Open · HSBC Championships · Lexus Eastbourne Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 36.2
     },
@@ -5425,7 +5425,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 90.2
@@ -6069,10 +6069,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 70.9
     },
@@ -6545,10 +6545,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 66.4
     },
@@ -6889,10 +6889,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 63.8
     },
@@ -7229,10 +7229,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 61.7
     },
@@ -7297,10 +7297,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 63,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 61.3
     },
@@ -7365,10 +7365,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 60.8
     },
@@ -7433,10 +7433,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 58.8
     },
@@ -7535,10 +7535,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 58.0
     },
@@ -7705,10 +7705,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 58.0
     },
@@ -8045,10 +8045,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 55.4
     },
@@ -8353,10 +8353,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 51.8
     },
@@ -8771,10 +8771,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 49.7
     },
@@ -9011,10 +9011,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 113,
       "tournamentStatus": {
-        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 47.6
     },
@@ -10969,15 +10969,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Tommy Paul",
+          "w": "Francisco Cerundolo",
           "w_logo": "",
-          "l": "Francisco Cerundolo",
+          "l": "Tommy Paul",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (4-7) 6-4 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 79.0,
-          "l_score": 73.3,
+          "w_score": 73.3,
+          "l_score": 79.0,
           "match_score": 79.0
         }
       ]
@@ -11026,15 +11026,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Jessica Pegula",
+          "w": "Linda Noskova",
           "w_logo": "",
-          "l": "Linda Noskova",
+          "l": "Jessica Pegula",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 4-6 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 90.2,
-          "l_score": 78.6,
+          "scheduled": false,
+          "w_score": 78.6,
+          "l_score": 90.2,
           "match_score": 90.2
         }
       ]
@@ -11066,8 +11066,10 @@ window.TENNIS_DATA = {
       "Adrian Mannarino",
       "Alejandro Davidovich Fokina",
       "Aleksandar Kovacevic",
+      "Aleksandar Vukic",
       "Alex de Minaur",
       "Alexander Zverev",
+      "Alexei Popyrin",
       "Arthur Fery",
       "Ben Shelton",
       "Botic Van De Zandschulp",
@@ -11083,17 +11085,20 @@ window.TENNIS_DATA = {
       "Frances Tiafoe",
       "Francisco Cerundolo",
       "Gabriel Diallo",
+      "Giles Hussey",
       "Hamad Medjedovic",
       "Hubert Hurkacz",
       "Ignacio Buse",
       "Jack Draper",
       "Jack Pinnington Jones",
       "Jacob Fearnley",
+      "Jan Choinski",
       "Jaume Munar",
       "Jenson Brooksby",
       "Jiri Lehecka",
       "Juan Manuel Cerundolo",
       "Learner Tien",
+      "Matteo Arnaldi",
       "Mattia Bellucci",
       "Raphael Collignon",
       "Rinky Hijikata",
@@ -11110,7 +11115,6 @@ window.TENNIS_DATA = {
     "out": [
       "Alejandro Tabilo",
       "Alexander Bublik",
-      "Alexei Popyrin",
       "Andrey Rublev",
       "Arthur Rinderknech",
       "Cameron Norrie",
@@ -11137,8 +11141,8 @@ window.TENNIS_DATA = {
       "Vit Kopriva",
       "Zachary Svajda"
     ],
-    "aliveCount": 43,
-    "matchesSeen": 71
+    "aliveCount": 48,
+    "matchesSeen": 74
   },
   "WTA_TOURNAMENT": {
     "name": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
@@ -11158,19 +11162,28 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
+      "Ajla Tomljanovic",
       "Alexandra Eala",
       "Alicia Dudeney",
+      "Anastasia Zakharova",
+      "Anhelina Kalinina",
       "Anna Bondar",
+      "Antonia Ruzic",
       "Aryna Sabalenka",
+      "Barbora Krejcikova",
       "Catherine McNally",
       "Daria Kasatkina",
+      "Daria Snigur",
       "Diane Parry",
       "Ekaterina Alexandrova",
       "Elina Svitolina",
+      "Elisabetta Cocciaretto",
       "Elise Mertens",
+      "Emiliana Arango",
       "Eva Lys",
       "Francesca Jones",
       "Hannah Klugman",
+      "Harriet Dart",
       "Janice Tjen",
       "Jasmine Paolini",
       "Jelena Ostapenko",
@@ -11178,17 +11191,22 @@ window.TENNIS_DATA = {
       "Jessica Pegula",
       "Karolina Muchova",
       "Katerina Siniakova",
+      "Kimberly Birrell",
       "Laura Siegemund",
       "Linda Noskova",
       "Madison Keys",
+      "Maya Joint",
       "McCartney Kessler",
       "Nikola Bartunkova",
       "Panna Udvardy",
       "Paula Badosa",
+      "Petra Marcinko",
       "Sara Bejlek",
       "Talia Gibson",
       "Tatjana Maria",
-      "Tereza Valentova"
+      "Tereza Valentova",
+      "Yuliia Starodubtseva",
+      "Zeynep Sonmez"
     ],
     "out": [
       "Anastasia Potapova",
@@ -11206,8 +11224,8 @@ window.TENNIS_DATA = {
       "Wang Xinyu",
       "Zhang Shuai"
     ],
-    "aliveCount": 31,
-    "matchesSeen": 36
+    "aliveCount": 45,
+    "matchesSeen": 43
   },
   "ATP_SCORE_LOG": {
     "206173": [

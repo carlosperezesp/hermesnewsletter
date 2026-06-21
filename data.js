@@ -14699,15 +14699,15 @@ window.NHL_DATA = {
       "last": "Samoskevich",
       "name": "Mackie Samoskevich",
       "pos": "RW",
-      "teamCode": "FLA",
+      "teamCode": "SEA",
       "age": 23,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
+        "primary": "#001628",
+        "secondary": "#99d9d9"
       },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8482713.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8482713.png",
       "score": 54,
       "stats": {
         "gp": 77,
@@ -45005,10 +45005,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-21 15:30 UTC",
+  "LAST_UPDATE": "2026-06-21 21:43 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-21T15:29:31Z"
+    "standingsDateTimeUtc": "2026-06-21T21:42:16Z"
   }
 };

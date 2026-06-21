@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-21 15:31 UTC
+// Auto-generated 2026-06-21 21:44 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-21 15:31 UTC",
+  "UPDATED": "2026-06-21 21:44 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-06-21 15:31 UTC"
+    "through": "2026-06-21 21:44 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -51,15 +51,15 @@ window.FOOTBALL_DATA = {
         "secondary": "#F1BF00"
       },
       "rank": 2,
-      "elo": 2082,
-      "eloScore": 91.8,
+      "elo": 2090,
+      "eloScore": 92.8,
       "sourceRank": 2,
       "worldCups": 1,
       "continentalTitles": 4,
       "note": "Euro vigente y bloque joven de altísimo rendimiento.",
       "eloPrev": 2109,
-      "recentDelta": -26.7,
-      "recentMatches": 1,
+      "recentDelta": -19.1,
+      "recentMatches": 2,
       "nextMatch": {
         "date": "2026-06-21",
         "round": 2,
@@ -280,6 +280,35 @@ window.FOOTBALL_DATA = {
     }
   ],
   "RECENT_MATCHES": [
+    {
+      "id": "760453",
+      "date": "2026-06-21",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "ESP"
+      ],
+      "home": {
+        "code": "ESP",
+        "name": "España",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+        "score": 4,
+        "eloBefore": 2082,
+        "eloAfter": 2090,
+        "delta": 7.6,
+        "result": "W"
+      },
+      "away": {
+        "code": "KSA",
+        "name": "Arabia Saudí",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ksa.png",
+        "score": 0,
+        "eloBefore": 1627,
+        "eloAfter": 1620,
+        "delta": -7.6,
+        "result": "L"
+      }
+    },
     {
       "id": "760448",
       "date": "2026-06-20",
@@ -745,7 +774,7 @@ window.FOOTBALL_DATA = {
         "group": "H",
         "venue": "Mercedes-Benz Stadium",
         "city": "Atlanta",
-        "homeElo": 2082,
+        "homeElo": 2090,
         "awayElo": 1605
       },
       {
@@ -1072,15 +1101,15 @@ window.FOOTBALL_DATA = {
           "secondary": "#F1BF00"
         },
         "rank": 2,
-        "elo": 2082,
-        "eloScore": 91.8,
+        "elo": 2090,
+        "eloScore": 92.8,
         "sourceRank": 2,
         "worldCups": 1,
         "continentalTitles": 4,
         "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
         "eloPrev": 2109,
-        "recentDelta": -26.7,
-        "recentMatches": 1,
+        "recentDelta": -19.1,
+        "recentMatches": 2,
         "nextMatch": {
           "date": "2026-06-21",
           "round": 2,
@@ -1092,7 +1121,7 @@ window.FOOTBALL_DATA = {
           "type": "Mundial 2026"
         },
         "dynastyPotential": 100.0,
-        "rawDynastyPotential": 55.6,
+        "rawDynastyPotential": 56.0,
         "gapToDynastyTop10": 0.0,
         "cycleYears": 1.6,
         "currentWorldCups": 0,

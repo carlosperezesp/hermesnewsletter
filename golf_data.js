@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-21 15:30 UTC
+// Auto-generated 2026-06-21 21:43 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-21 15:30 UTC",
+  "UPDATED": "2026-06-21 21:43 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "U.S. Open",
@@ -22,71 +22,71 @@ window.GOLF_DATA = {
         "rank": 1,
         "name": "Wyndham Clark",
         "country": "USA",
-        "score": "-7",
-        "today": ""
+        "score": "-4",
+        "today": "+3"
       },
       {
         "rank": 2,
-        "name": "Scottie Scheffler",
+        "name": "Sam Burns",
         "country": "USA",
-        "score": "-1",
-        "today": ""
+        "score": "-3",
+        "today": "-3"
       },
       {
         "rank": 3,
-        "name": "Sahith Theegala",
+        "name": "Keith Mitchell",
         "country": "USA",
         "score": "-1",
-        "today": ""
+        "today": "-1"
       },
       {
         "rank": 4,
         "name": "Tom Kim",
         "country": "South Korea",
         "score": "-1",
-        "today": ""
+        "today": "E"
       },
       {
         "rank": 5,
-        "name": "Sam Stevens",
+        "name": "Scottie Scheffler",
         "country": "USA",
         "score": "-1",
-        "today": ""
+        "today": "E"
       },
       {
         "rank": 6,
-        "name": "Emiliano Grillo",
-        "country": "Argentina",
+        "name": "J.T. Poston",
+        "country": "USA",
         "score": "E",
-        "today": ""
+        "today": "-3"
       },
       {
         "rank": 7,
-        "name": "Keith Mitchell",
-        "country": "USA",
-        "score": "E",
-        "today": ""
+        "name": "Joaquín Niemann",
+        "country": "Chile",
+        "score": "+1",
+        "today": "-4"
       },
       {
         "rank": 8,
-        "name": "Sam Burns",
-        "country": "USA",
-        "score": "E",
-        "today": ""
+        "name": "Tyrrell Hatton",
+        "country": "England",
+        "score": "+1",
+        "today": "-3"
       },
       {
         "rank": 9,
-        "name": "Xander Schauffele",
+        "name": "Gary Woodland",
         "country": "USA",
-        "score": "E",
-        "today": ""
+        "score": "+1",
+        "today": "-2"
       },
       {
         "rank": 10,
         "name": "Tommy Fleetwood",
         "country": "England",
         "score": "+1",
-        "today": ""
+        "today": "E"
       }
     ],
     "favorites": [
