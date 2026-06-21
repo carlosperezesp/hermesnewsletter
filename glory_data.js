@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-21 09:05 UTC",
+  "UPDATED": "2026-06-21 10:09 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Pocono:Denny Hamlin",

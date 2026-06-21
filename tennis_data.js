@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-21 09:05 UTC
+// Auto-generated 2026-06-21 10:09 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-21 09:05 UTC",
+  "UPDATED": "2026-06-21 10:09 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -6889,10 +6889,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Lexus Eastbourne Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 63.8
     },
@@ -7841,10 +7841,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 79,
       "tournamentStatus": {
-        "tournament": "Lexus Eastbourne Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.4
     },
@@ -11181,7 +11181,6 @@ window.TENNIS_DATA = {
       "Laura Siegemund",
       "Linda Noskova",
       "Madison Keys",
-      "Maya Joint",
       "McCartney Kessler",
       "Nikola Bartunkova",
       "Panna Udvardy",
@@ -11189,8 +11188,7 @@ window.TENNIS_DATA = {
       "Sara Bejlek",
       "Talia Gibson",
       "Tatjana Maria",
-      "Tereza Valentova",
-      "Viktorija Golubic"
+      "Tereza Valentova"
     ],
     "out": [
       "Anastasia Potapova",
@@ -11208,8 +11206,8 @@ window.TENNIS_DATA = {
       "Wang Xinyu",
       "Zhang Shuai"
     ],
-    "aliveCount": 33,
-    "matchesSeen": 37
+    "aliveCount": 31,
+    "matchesSeen": 36
   },
   "ATP_SCORE_LOG": {
     "206173": [
