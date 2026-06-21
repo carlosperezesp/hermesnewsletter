@@ -1,7 +1,23 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-21 21:45 UTC",
+  "UPDATED": "2026-06-21 22:40 UTC",
   "EVENTS": [
+    {
+      "id": "nascar:win:NASCAR Cup Series at San Diego:Current Leader:",
+      "sport": "nascar",
+      "detail": "NASCAR",
+      "text": "Current Leader: ganó en Naval Base Coronado",
+      "weight": 100,
+      "firstSeen": "2026-06-21"
+    },
+    {
+      "id": "motogp:win:Czech Republic motorcycle Grand Prix:Fabio Di Giannantonio",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "text": "Fabio Di Giannantonio ganó el Czech Republic motorcycle Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-06-21"
+    },
     {
       "id": "indycar:win:Grand Prix of Road America:Christian Lundgaard",
       "sport": "indycar",

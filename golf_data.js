@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-21 21:43 UTC
+// Auto-generated 2026-06-21 22:39 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-21 21:43 UTC",
+  "UPDATED": "2026-06-21 22:39 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "U.S. Open",
@@ -34,31 +34,31 @@ window.GOLF_DATA = {
       },
       {
         "rank": 3,
-        "name": "Keith Mitchell",
-        "country": "USA",
-        "score": "-1",
-        "today": "-1"
-      },
-      {
-        "rank": 4,
         "name": "Tom Kim",
         "country": "South Korea",
         "score": "-1",
         "today": "E"
       },
       {
-        "rank": 5,
-        "name": "Scottie Scheffler",
-        "country": "USA",
-        "score": "-1",
-        "today": "E"
-      },
-      {
-        "rank": 6,
+        "rank": 4,
         "name": "J.T. Poston",
         "country": "USA",
         "score": "E",
         "today": "-3"
+      },
+      {
+        "rank": 5,
+        "name": "Keith Mitchell",
+        "country": "USA",
+        "score": "E",
+        "today": "E"
+      },
+      {
+        "rank": 6,
+        "name": "Scottie Scheffler",
+        "country": "USA",
+        "score": "E",
+        "today": "+1"
       },
       {
         "rank": 7,
@@ -83,10 +83,10 @@ window.GOLF_DATA = {
       },
       {
         "rank": 10,
-        "name": "Tommy Fleetwood",
-        "country": "England",
+        "name": "Sam Stevens",
+        "country": "USA",
         "score": "+1",
-        "today": "E"
+        "today": "+2"
       }
     ],
     "favorites": [

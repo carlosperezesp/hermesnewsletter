@@ -1,11 +1,11 @@
 window.NASCAR_DATA = {
-  "UPDATED": "2026-06-21 21:43 UTC",
+  "UPDATED": "2026-06-21 22:39 UTC",
   "SEASON": 2026,
-  "ROUND": 20,
+  "ROUND": 21,
   "TOTAL_ROUNDS": 36,
   "REGULAR_SEASON_ROUNDS": 26,
   "PLAYOFF_FIELD_SIZE": 16,
-  "IMPORTANCE": 8.1,
+  "IMPORTANCE": 8.2,
   "LEGEND_THRESHOLD": 14.7,
   "PLAYOFF_CUTOFF": {
     "rank": 16,
@@ -1600,52 +1600,52 @@ window.NASCAR_DATA = {
     }
   ],
   "LAST_RACE": {
-    "date": "Sun, Jun 14",
-    "name": "NASCAR Cup Series at Pocono",
-    "circuit": "Pocono Raceway",
-    "winner": "Denny Hamlin",
-    "manufacturer": "Toyota",
-    "url": "https://www.espn.com/racing/raceresults/_/series/sprint/raceId/202606140011",
+    "date": "Sun, Jun 21",
+    "name": "NASCAR Cup Series at San Diego",
+    "circuit": "Naval Base Coronado",
+    "winner": "Current Leader:",
+    "manufacturer": "NASCAR",
+    "url": "https://www.espn.com/racing/raceresults/_/series/sprint/raceId/202606214266",
     "podium": [
       {
         "position": 1,
-        "name": "Denny Hamlin",
-        "team": "Joe Gibbs Racing",
-        "manufacturer": "Toyota",
-        "logo": "https://flagcdn.com/24x18/us.png",
-        "primary": "#EB0A1E"
-      },
-      {
-        "position": 2,
-        "name": "Tyler Reddick",
-        "team": "23XI Racing",
-        "manufacturer": "Toyota",
-        "logo": "https://flagcdn.com/24x18/us.png",
-        "primary": "#EB0A1E"
-      },
-      {
-        "position": 3,
-        "name": "William Byron",
-        "team": "Hendrick Motorsports",
-        "manufacturer": "Chevrolet",
-        "logo": "https://flagcdn.com/24x18/us.png",
-        "primary": "#F7C600"
-      },
-      {
-        "position": 4,
-        "name": "John Hunter Nemechek",
+        "name": "Zane Smith (leads on lap 35 of 75)",
         "team": "NASCAR Cup",
         "manufacturer": "NASCAR",
         "logo": "https://flagcdn.com/24x18/us.png",
         "primary": "#E4002B"
       },
       {
-        "position": 5,
+        "position": 2,
         "name": "Kyle Larson",
         "team": "Hendrick Motorsports",
         "manufacturer": "Chevrolet",
         "logo": "https://flagcdn.com/24x18/us.png",
         "primary": "#F7C600"
+      },
+      {
+        "position": 3,
+        "name": "Riley Herbst",
+        "team": "NASCAR Cup",
+        "manufacturer": "NASCAR",
+        "logo": "https://flagcdn.com/24x18/us.png",
+        "primary": "#E4002B"
+      },
+      {
+        "position": 4,
+        "name": "Joey Logano",
+        "team": "Team Penske",
+        "manufacturer": "Ford",
+        "logo": "https://flagcdn.com/24x18/us.png",
+        "primary": "#003478"
+      },
+      {
+        "position": 5,
+        "name": "Corey Heim",
+        "team": "NASCAR Cup",
+        "manufacturer": "NASCAR",
+        "logo": "https://flagcdn.com/24x18/us.png",
+        "primary": "#E4002B"
       }
     ]
   },
