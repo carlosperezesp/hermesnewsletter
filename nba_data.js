@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-06-20 22:38 UTC",
+  "LAST_UPDATE": "2026-06-21 09:03 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

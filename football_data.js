@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-20 22:39 UTC
+// Auto-generated 2026-06-21 09:04 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-20 22:39 UTC",
+  "UPDATED": "2026-06-21 09:04 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-06-20 22:39 UTC"
+    "through": "2026-06-21 09:04 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -152,17 +152,7 @@ window.FOOTBALL_DATA = {
       "note": "Bloque estable con muy buen diferencial ante rivales fuertes.",
       "eloPrev": 1976,
       "recentDelta": 21.3,
-      "recentMatches": 2,
-      "nextMatch": {
-        "date": "2026-06-20",
-        "round": 2,
-        "opponent": "Suecia",
-        "opponentCode": "SWE",
-        "venue": "NRG Stadium",
-        "city": "Houston",
-        "group": "F",
-        "type": "Mundial 2026"
-      }
+      "recentMatches": 2
     },
     {
       "id": "germany",
@@ -183,17 +173,7 @@ window.FOOTBALL_DATA = {
       "note": "Rebote competitivo tras la Euro como anfitrión.",
       "eloPrev": 1958,
       "recentDelta": 31.3,
-      "recentMatches": 2,
-      "nextMatch": {
-        "date": "2026-06-20",
-        "round": 2,
-        "opponent": "Costa de Marfil",
-        "opponentCode": "CIV",
-        "venue": "BMO Field",
-        "city": "Toronto",
-        "group": "E",
-        "type": "Mundial 2026"
-      }
+      "recentMatches": 2
     },
     {
       "id": "brazil",
@@ -742,34 +722,6 @@ window.FOOTBALL_DATA = {
     "upcomingMatches": [
       {
         "round": 2,
-        "date": "2026-06-20",
-        "timeET": "TBD",
-        "home": "GER",
-        "homeName": "Alemania",
-        "away": "CIV",
-        "awayName": "Costa de Marfil",
-        "group": "E",
-        "venue": "BMO Field",
-        "city": "Toronto",
-        "homeElo": 1989,
-        "awayElo": 1820
-      },
-      {
-        "round": 2,
-        "date": "2026-06-20",
-        "timeET": "TBD",
-        "home": "NED",
-        "homeName": "Países Bajos",
-        "away": "SWE",
-        "awayName": "Suecia",
-        "group": "F",
-        "venue": "NRG Stadium",
-        "city": "Houston",
-        "homeElo": 1997,
-        "awayElo": 1790
-      },
-      {
-        "round": 2,
         "date": "2026-06-21",
         "timeET": "TBD",
         "home": "URU",
@@ -1314,16 +1266,6 @@ window.FOOTBALL_DATA = {
         "eloPrev": 1976,
         "recentDelta": 21.3,
         "recentMatches": 2,
-        "nextMatch": {
-          "date": "2026-06-20",
-          "round": 2,
-          "opponent": "Suecia",
-          "opponentCode": "SWE",
-          "venue": "NRG Stadium",
-          "city": "Houston",
-          "group": "F",
-          "type": "Mundial 2026"
-        },
         "dynastyPotential": 79.3,
         "rawDynastyPotential": 31.3,
         "gapToDynastyTop10": 8.2,
@@ -1353,16 +1295,6 @@ window.FOOTBALL_DATA = {
         "eloPrev": 1958,
         "recentDelta": 31.3,
         "recentMatches": 2,
-        "nextMatch": {
-          "date": "2026-06-20",
-          "round": 2,
-          "opponent": "Costa de Marfil",
-          "opponentCode": "CIV",
-          "venue": "BMO Field",
-          "city": "Toronto",
-          "group": "E",
-          "type": "Mundial 2026"
-        },
         "dynastyPotential": 67.0,
         "rawDynastyPotential": 26.4,
         "gapToDynastyTop10": 13.0,

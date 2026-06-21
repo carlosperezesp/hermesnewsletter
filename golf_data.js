@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-20 22:39 UTC
+// Auto-generated 2026-06-21 09:03 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-20 22:39 UTC",
+  "UPDATED": "2026-06-21 09:03 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "U.S. Open",
@@ -15,78 +15,78 @@ window.GOLF_DATA = {
     "tier": "Major",
     "startLabel": "18 Jun",
     "endLabel": "21 Jun",
-    "round": 3,
+    "round": 4,
     "daysToStart": 0,
     "leaderboard": [
       {
         "rank": 1,
         "name": "Wyndham Clark",
         "country": "USA",
-        "score": "-6",
-        "today": "+1"
+        "score": "-7",
+        "today": ""
       },
       {
         "rank": 2,
-        "name": "Tom Kim",
-        "country": "South Korea",
-        "score": "-2",
-        "today": "+1"
-      },
-      {
-        "rank": 3,
         "name": "Scottie Scheffler",
         "country": "USA",
         "score": "-1",
-        "today": "-1"
+        "today": ""
+      },
+      {
+        "rank": 3,
+        "name": "Sahith Theegala",
+        "country": "USA",
+        "score": "-1",
+        "today": ""
       },
       {
         "rank": 4,
-        "name": "Sam Stevens",
-        "country": "USA",
+        "name": "Tom Kim",
+        "country": "South Korea",
         "score": "-1",
-        "today": "+2"
+        "today": ""
       },
       {
         "rank": 5,
-        "name": "Emiliano Grillo",
-        "country": "Argentina",
-        "score": "E",
-        "today": "-3"
+        "name": "Sam Stevens",
+        "country": "USA",
+        "score": "-1",
+        "today": ""
       },
       {
         "rank": 6,
-        "name": "Keith Mitchell",
-        "country": "USA",
+        "name": "Emiliano Grillo",
+        "country": "Argentina",
         "score": "E",
-        "today": "E"
+        "today": ""
       },
       {
         "rank": 7,
-        "name": "Sahith Theegala",
+        "name": "Keith Mitchell",
         "country": "USA",
         "score": "E",
-        "today": "+1"
+        "today": ""
       },
       {
         "rank": 8,
         "name": "Sam Burns",
         "country": "USA",
         "score": "E",
-        "today": "+1"
+        "today": ""
       },
       {
         "rank": 9,
-        "name": "Collin Morikawa",
+        "name": "Xander Schauffele",
         "country": "USA",
         "score": "E",
-        "today": "+2"
+        "today": ""
       },
       {
         "rank": 10,
-        "name": "Matt Fitzpatrick",
+        "name": "Tommy Fleetwood",
         "country": "England",
-        "score": "E",
-        "today": "+3"
+        "score": "+1",
+        "today": ""
       }
     ],
     "favorites": [
@@ -106,7 +106,7 @@ window.GOLF_DATA = {
     "startLabel": "25 Jun",
     "endLabel": "28 Jun",
     "round": 0,
-    "daysToStart": 5,
+    "daysToStart": 4,
     "leaderboard": [],
     "favorites": [
       "Scottie Scheffler",
@@ -401,8 +401,8 @@ window.GOLF_DATA = {
         "secondary": "#FFFFFF"
       },
       "activeScore": 72.0,
-      "age": 23,
-      "note": "Top del circuito a los 23"
+      "age": 24,
+      "note": "Top del circuito a los 24"
     },
     {
       "id": "akshay_bhatia",
