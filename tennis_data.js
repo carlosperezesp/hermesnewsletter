@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-21 10:09 UTC
+// Auto-generated 2026-06-21 15:03 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-21 10:09 UTC",
+  "UPDATED": "2026-06-21 15:03 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -543,7 +543,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Terra Wortmann Open",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 75.7
@@ -10949,15 +10949,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Taylor Fritz",
+          "w": "Frances Tiafoe",
           "w_logo": "",
-          "l": "Frances Tiafoe",
+          "l": "Taylor Fritz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 75.7,
-          "l_score": 73.5,
+          "scheduled": false,
+          "w_score": 73.5,
+          "l_score": 75.7,
           "match_score": 75.7
         }
       ]
@@ -10973,9 +10973,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Francisco Cerundolo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 79.0,
           "l_score": 73.3,
           "match_score": 79.0
