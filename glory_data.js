@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-22 12:32 UTC",
+  "UPDATED": "2026-06-22 17:20 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at San Diego:Current Leader:",

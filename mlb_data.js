@@ -8227,7 +8227,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-22 12:29 UTC",
+  "LAST_UPDATE": "2026-06-22 17:18 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

@@ -193,7 +193,7 @@ window.NHL_DATA = {
       "gf": 278,
       "ga": 246,
       "gd": 32,
-      "score": 63,
+      "score": 62,
       "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
       "colors": {
         "primary": "#c52032",
@@ -545,7 +545,7 @@ window.NHL_DATA = {
       "gf": 251,
       "ga": 276,
       "gd": -25,
-      "score": 52,
+      "score": 53,
       "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
       "colors": {
         "primary": "#041e42",
@@ -2472,25 +2472,24 @@ window.NHL_DATA = {
       "last": "Tkachuk",
       "name": "Brady Tkachuk",
       "pos": "LW",
-      "teamCode": "OTT",
+      "teamCode": "FLA",
       "age": 26,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
-        "primary": "#c52032",
-        "secondary": "#c2912c"
+        "primary": "#041e42",
+        "secondary": "#c8102e"
       },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8480801.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8480801.png",
       "score": 74,
       "stats": {
-        "gp": 64,
+        "gp": 60,
         "g": 22,
         "a": 37,
         "p": 59,
-        "pm": 0,
+        "pm": 4,
         "toi": 17.0,
-        "shots": 221,
-        "gp_po": 4
+        "shots": 221
       },
       "trajectory": [
         48,
@@ -44653,9 +44652,9 @@ window.NHL_DATA = {
         "city": "Florida Panthers",
         "era": "2022–present",
         "cups": 1,
-        "dynastyScore": 53.6,
+        "dynastyScore": 54.2,
         "threshold": 89.7,
-        "gap": 36.1,
+        "gap": 35.5,
         "note": "2024 Cup · 2022–present contender",
         "needs": "2–3 more Cups + another dominant era",
         "colors": {
@@ -45005,10 +45004,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-22 12:29 UTC",
+  "LAST_UPDATE": "2026-06-22 17:18 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-22T12:29:00Z"
+    "standingsDateTimeUtc": "2026-06-22T17:17:31Z"
   }
 };
