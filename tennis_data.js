@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-22 10:50 UTC
+// Auto-generated 2026-06-22 12:32 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-22 10:50 UTC",
+  "UPDATED": "2026-06-22 12:32 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -7330,9 +7330,9 @@ window.TENNIS_DATA = {
       "prevListRank": 64,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 58.8
     },
@@ -11087,15 +11087,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Maya Joint",
+          "w": "Emiliana Arango",
           "w_logo": "",
-          "l": "Emiliana Arango",
+          "l": "Maya Joint",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 63.8,
-          "l_score": 49.6,
+          "scheduled": false,
+          "w_score": 49.6,
+          "l_score": 63.8,
           "match_score": 63.8
         },
         {
@@ -11113,15 +11113,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Antonia Ruzic",
+          "w": "Petra Marcinko",
           "w_logo": "",
-          "l": "Petra Marcinko",
+          "l": "Antonia Ruzic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 61.0,
-          "l_score": 57.9,
+          "scheduled": false,
+          "w_score": 57.9,
+          "l_score": 61.0,
           "match_score": 61.0
         },
         {
@@ -11130,7 +11130,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Daria Snigur",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-1) 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": 60.7,
@@ -11221,7 +11221,6 @@ window.TENNIS_DATA = {
       "Barbora Krejcikova",
       "Catherine McNally",
       "Daria Kasatkina",
-      "Daria Snigur",
       "Diane Parry",
       "Ekaterina Alexandrova",
       "Elina Svitolina",
@@ -11261,6 +11260,7 @@ window.TENNIS_DATA = {
       "Anna Kalinskaya",
       "Clara Tauson",
       "Coco Gauff",
+      "Daria Snigur",
       "Diana Shnaider",
       "Donna Vekic",
       "Elena Rybakina",
@@ -11272,7 +11272,7 @@ window.TENNIS_DATA = {
       "Wang Xinyu",
       "Zhang Shuai"
     ],
-    "aliveCount": 45,
+    "aliveCount": 44,
     "matchesSeen": 43
   },
   "ATP_SCORE_LOG": {

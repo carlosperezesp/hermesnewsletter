@@ -1,5 +1,5 @@
 window.INDYCAR_DATA = {
-  "UPDATED": "2026-06-22 10:48 UTC",
+  "UPDATED": "2026-06-22 12:30 UTC",
   "SEASON": 2026,
   "ROUND": 10,
   "TOTAL_ROUNDS": 19,
@@ -48,7 +48,7 @@ window.INDYCAR_DATA = {
       "score": 30.6,
       "legendScore": 0.2,
       "age": null,
-      "prevRank": 3,
+      "prevRank": 2,
       "stats": {
         "pts": 314.0
       }
@@ -71,7 +71,7 @@ window.INDYCAR_DATA = {
       "score": 30.5,
       "legendScore": 1.6,
       "age": null,
-      "prevRank": 2,
+      "prevRank": 3,
       "stats": {
         "pts": 313.0
       }
@@ -140,7 +140,7 @@ window.INDYCAR_DATA = {
       "score": 24.2,
       "legendScore": 1.3,
       "age": null,
-      "prevRank": 8,
+      "prevRank": 6,
       "stats": {
         "pts": 248.0
       }
@@ -186,7 +186,7 @@ window.INDYCAR_DATA = {
       "score": 24.1,
       "legendScore": 33.3,
       "age": null,
-      "prevRank": 6,
+      "prevRank": 8,
       "stats": {
         "pts": 247.0
       }
@@ -232,7 +232,7 @@ window.INDYCAR_DATA = {
       "score": 20.6,
       "legendScore": 84.1,
       "age": 45,
-      "prevRank": 12,
+      "prevRank": 10,
       "stats": {
         "pts": 211.0
       }
@@ -255,7 +255,7 @@ window.INDYCAR_DATA = {
       "score": 19.8,
       "legendScore": 0.0,
       "age": 25,
-      "prevRank": 10,
+      "prevRank": 11,
       "stats": {
         "pts": 203.0
       }
@@ -278,7 +278,7 @@ window.INDYCAR_DATA = {
       "score": 19.5,
       "legendScore": 0.0,
       "age": 37,
-      "prevRank": 11,
+      "prevRank": 12,
       "stats": {
         "pts": 200.0
       }
@@ -324,7 +324,7 @@ window.INDYCAR_DATA = {
       "score": 17.5,
       "legendScore": 46.0,
       "age": 45,
-      "prevRank": 17,
+      "prevRank": 14,
       "stats": {
         "pts": 180.0
       }
@@ -347,7 +347,7 @@ window.INDYCAR_DATA = {
       "score": 17.5,
       "legendScore": 0.0,
       "age": 34,
-      "prevRank": 14,
+      "prevRank": 15,
       "stats": {
         "pts": 180.0
       }
@@ -370,7 +370,7 @@ window.INDYCAR_DATA = {
       "score": 17.4,
       "legendScore": 0.0,
       "age": 21,
-      "prevRank": 15,
+      "prevRank": 16,
       "stats": {
         "pts": 179.0
       }
@@ -393,7 +393,7 @@ window.INDYCAR_DATA = {
       "score": 16.4,
       "legendScore": 0.0,
       "age": null,
-      "prevRank": 16,
+      "prevRank": 17,
       "stats": {
         "pts": 168.0
       }
@@ -416,7 +416,7 @@ window.INDYCAR_DATA = {
       "score": 14.3,
       "legendScore": 0.0,
       "age": 22,
-      "prevRank": 19,
+      "prevRank": 18,
       "stats": {
         "pts": 147.0
       }
@@ -439,7 +439,7 @@ window.INDYCAR_DATA = {
       "score": 13.9,
       "legendScore": 0.0,
       "age": 23,
-      "prevRank": 18,
+      "prevRank": 19,
       "stats": {
         "pts": 143.0
       }
