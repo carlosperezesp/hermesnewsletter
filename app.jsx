@@ -3750,6 +3750,16 @@ function NewsletterApp() {
           const road = (GOLF.ROAD_TO_GLORY || []).slice(0, 10);
           const legends = (GOLF.LEGENDS || []).slice(0, 10);
           const threshold = GOLF.LEGEND_THRESHOLD || legends[9]?.legendScore || 0;
+          // Nivel actual (activeScore) + score leyenda (legendScore) for any
+          // tracked player, to gauge over/under-performance on a major podium.
+          const scoreByName = {};
+          [...(GOLF.CURRENT || []), ...(GOLF.ROAD_TO_GLORY || []), ...(GOLF.PROSPECTS || []), ...(GOLF.LEGENDS || [])].forEach(p => {
+            if (!p || !p.name) return;
+            const e = scoreByName[p.name] || {};
+            if (p.activeScore != null && e.activeScore == null) e.activeScore = p.activeScore;
+            if (p.legendScore != null && e.legendScore == null) e.legendScore = p.legendScore;
+            scoreByName[p.name] = e;
+          });
           const stateLabel = major.state === "live"
             ? `Ronda ${major.round || 1} en juego`
             : major.state === "upcoming"
@@ -3832,22 +3842,34 @@ function NewsletterApp() {
                   sub={`Campeón ${GOLF.SEASON}. ${GOLF.LAST_MAJOR.endLabel} · ${GOLF.LAST_MAJOR.venue || ""}${GOLF.LAST_MAJOR.location ? ` · ${GOLF.LAST_MAJOR.location}` : ""}.`}
                 >
                   <div className="newsletter-list">
-                    {(GOLF.LAST_MAJOR.podium || []).map((row, i) => (
-                      <div key={`${row.rank}-${row.name}`} className="newsletter-row">
+                    {(GOLF.LAST_MAJOR.podium || []).map((row, i) => {
+                      const s = scoreByName[row.name] || {};
+                      const tracked = s.activeScore != null || s.legendScore != null;
+                      return (
+                      <div key={`${row.rank}-${row.name}`} className="newsletter-row newsletter-row--dual-score">
                         <span className="newsletter-row__rank">{String(row.rank || i + 1).padStart(2, "0")}</span>
                         <span className="newsletter-row__identity" style={{ flex: 1 }}>
                           <span className="newsletter-row__dot" style={{ background: i === 0 ? "#c8a225" : "#2f6b3f" }} />
                           <span className="newsletter-row__copy">
                             <span className="newsletter-row__name">{row.name}{i === 0 ? " 🏆" : ""}</span>
-                            <span className="newsletter-row__meta">{row.country || GOLF.LAST_MAJOR.surface}</span>
+                            <span className="newsletter-row__meta">{tracked ? (row.country || GOLF.LAST_MAJOR.surface) : `${row.country || ""}${row.country ? " · " : ""}fuera del top`}</span>
                           </span>
+                        </span>
+                        <span className="newsletter-row__score">
+                          <span className="newsletter-row__score-label">Nivel</span>
+                          <span className="newsletter-row__score-value">{s.activeScore != null ? s.activeScore : "—"}</span>
+                        </span>
+                        <span className="newsletter-row__score">
+                          <span className="newsletter-row__score-label">Leyenda</span>
+                          <span className="newsletter-row__score-value">{s.legendScore != null ? s.legendScore : "—"}</span>
                         </span>
                         <span className="newsletter-row__score">
                           <span className="newsletter-row__score-label">Final</span>
                           <span className="newsletter-row__score-value">{row.score || "-"}</span>
                         </span>
                       </div>
-                    ))}
+                      );
+                    })}
                   </div>
                 </NewsletterSection>
               )}
