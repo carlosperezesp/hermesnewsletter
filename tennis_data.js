@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-22 17:20 UTC
+// Auto-generated 2026-06-22 18:08 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-22 17:20 UTC",
+  "UPDATED": "2026-06-22 18:08 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10943,9 +10943,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Zizou Bergs",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 64.3,
           "l_score": 60.4,
           "match_score": 64.3
