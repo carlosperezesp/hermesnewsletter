@@ -1,94 +1,23 @@
-// Auto-generated 2026-06-21 22:39 UTC
+// Auto-generated 2026-06-22 07:25 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-21 22:39 UTC",
+  "UPDATED": "2026-06-22 07:25 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
-    "name": "U.S. Open",
+    "name": "The Open Championship",
     "tour": "Men",
-    "start": "2026-06-18",
-    "end": "2026-06-21",
-    "venue": "Shinnecock Hills Golf Club",
-    "location": "Southampton, New York",
-    "surface": "U.S. Open setup",
-    "defending": "J.J. Spaun",
-    "state": "live",
+    "start": "2026-07-16",
+    "end": "2026-07-19",
+    "venue": "Royal Birkdale Golf Club",
+    "location": "Southport, England",
+    "surface": "Links",
+    "defending": "Scottie Scheffler",
+    "state": "upcoming",
     "tier": "Major",
-    "startLabel": "18 Jun",
-    "endLabel": "21 Jun",
-    "round": 4,
-    "daysToStart": 0,
-    "leaderboard": [
-      {
-        "rank": 1,
-        "name": "Wyndham Clark",
-        "country": "USA",
-        "score": "-4",
-        "today": "+3"
-      },
-      {
-        "rank": 2,
-        "name": "Sam Burns",
-        "country": "USA",
-        "score": "-3",
-        "today": "-3"
-      },
-      {
-        "rank": 3,
-        "name": "Tom Kim",
-        "country": "South Korea",
-        "score": "-1",
-        "today": "E"
-      },
-      {
-        "rank": 4,
-        "name": "J.T. Poston",
-        "country": "USA",
-        "score": "E",
-        "today": "-3"
-      },
-      {
-        "rank": 5,
-        "name": "Keith Mitchell",
-        "country": "USA",
-        "score": "E",
-        "today": "E"
-      },
-      {
-        "rank": 6,
-        "name": "Scottie Scheffler",
-        "country": "USA",
-        "score": "E",
-        "today": "+1"
-      },
-      {
-        "rank": 7,
-        "name": "Joaquín Niemann",
-        "country": "Chile",
-        "score": "+1",
-        "today": "-4"
-      },
-      {
-        "rank": 8,
-        "name": "Tyrrell Hatton",
-        "country": "England",
-        "score": "+1",
-        "today": "-3"
-      },
-      {
-        "rank": 9,
-        "name": "Gary Woodland",
-        "country": "USA",
-        "score": "+1",
-        "today": "-2"
-      },
-      {
-        "rank": 10,
-        "name": "Sam Stevens",
-        "country": "USA",
-        "score": "+1",
-        "today": "+2"
-      }
-    ],
+    "startLabel": "16 Jul",
+    "endLabel": "19 Jul",
+    "round": 0,
+    "daysToStart": 24,
+    "leaderboard": [],
     "favorites": [
       "Scottie Scheffler",
       "Rory McIlroy",
@@ -106,7 +35,7 @@ window.GOLF_DATA = {
     "startLabel": "25 Jun",
     "endLabel": "28 Jun",
     "round": 0,
-    "daysToStart": 4,
+    "daysToStart": 3,
     "leaderboard": [],
     "favorites": [
       "Scottie Scheffler",
@@ -1092,5 +1021,5 @@ window.GOLF_DATA = {
     }
   ],
   "LEGEND_THRESHOLD": 37.5,
-  "IMPORTANCE": 10.0
+  "IMPORTANCE": 8.5
 };

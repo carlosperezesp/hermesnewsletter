@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-21 22:38 UTC
+// Auto-generated 2026-06-22 07:25 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-06-21 22:38 UTC",
+  "UPDATED": "2026-06-22 07:25 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -785,30 +785,30 @@ window.CYCLING_DATA = {
         "time": "+ 0\""
       },
       {
-        "rank": null,
+        "rank": 104,
         "name": "Jonas Vingegaard",
         "country": "DEN",
         "logo": "https://flagcdn.com/24x18/dk.png",
         "team": "TVL men",
-        "time": "",
+        "time": "00:00:00",
         "gc_rank": 1
       },
       {
-        "rank": null,
+        "rank": 34,
         "name": "Felix Gall",
         "country": "AUT",
         "logo": "https://flagcdn.com/24x18/at.png",
         "team": "DCT",
-        "time": "",
+        "time": "00:00:00",
         "gc_rank": 2
       },
       {
-        "rank": null,
+        "rank": 33,
         "name": "Jai Hindley",
         "country": "AUS",
         "logo": "https://flagcdn.com/24x18/au.png",
         "team": "RBH",
-        "time": "",
+        "time": "00:00:00",
         "gc_rank": 3
       }
     ],
@@ -1014,8 +1014,13 @@ window.CYCLING_DATA = {
       "dateLabel": "12 abr",
       "start": "2026-04-12",
       "end": "2026-04-12",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Wout van Aert",
+        "cc3": "BEL",
+        "logo": "https://flagcdn.com/24x18/be.png",
+        "color": "#000000"
+      }
     },
     {
       "tier": "Monumento",
@@ -1023,8 +1028,13 @@ window.CYCLING_DATA = {
       "dateLabel": "26 abr",
       "start": "2026-04-26",
       "end": "2026-04-26",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Tadej Pogačar",
+        "cc3": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "color": "#003DA5"
+      }
     },
     {
       "tier": "Monumento",
@@ -1050,8 +1060,13 @@ window.CYCLING_DATA = {
       "dateLabel": "8–15 mar",
       "start": "2026-03-08",
       "end": "2026-03-15",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Jonas Vingegaard",
+        "cc3": "DEN",
+        "logo": "https://flagcdn.com/24x18/dk.png",
+        "color": "#C60C30"
+      }
     },
     {
       "tier": "Vuelta de una semana",
@@ -1059,8 +1074,13 @@ window.CYCLING_DATA = {
       "dateLabel": "9–15 mar",
       "start": "2026-03-09",
       "end": "2026-03-15",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Isaac del Toro",
+        "cc3": "MEX",
+        "logo": "https://flagcdn.com/24x18/me.png",
+        "color": "#555555"
+      }
     },
     {
       "tier": "Vuelta de una semana",
@@ -1068,8 +1088,13 @@ window.CYCLING_DATA = {
       "dateLabel": "6–11 abr",
       "start": "2026-04-06",
       "end": "2026-04-11",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Paul Seixas",
+        "cc3": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "color": "#002395"
+      }
     },
     {
       "tier": "Vuelta de una semana",
@@ -1086,7 +1111,7 @@ window.CYCLING_DATA = {
       "dateLabel": "14–21 jun",
       "start": "2026-06-14",
       "end": "2026-06-21",
-      "status": "ongoing",
+      "status": "pending",
       "winner": null
     },
     {
@@ -1095,8 +1120,13 @@ window.CYCLING_DATA = {
       "dateLabel": "7 mar",
       "start": "2026-03-07",
       "end": "2026-03-07",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Tadej Pogačar",
+        "cc3": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "color": "#003DA5"
+      }
     },
     {
       "tier": "Clásica",
@@ -1104,8 +1134,13 @@ window.CYCLING_DATA = {
       "dateLabel": "19 abr",
       "start": "2026-04-19",
       "end": "2026-04-19",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Remco Evenepoel",
+        "cc3": "BEL",
+        "logo": "https://flagcdn.com/24x18/be.png",
+        "color": "#000000"
+      }
     },
     {
       "tier": "Clásica",
@@ -1113,8 +1148,13 @@ window.CYCLING_DATA = {
       "dateLabel": "22 abr",
       "start": "2026-04-22",
       "end": "2026-04-22",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Paul Seixas",
+        "cc3": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "color": "#002395"
+      }
     },
     {
       "tier": "Clásica",
