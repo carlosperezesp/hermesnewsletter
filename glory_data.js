@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-21 22:40 UTC",
+  "UPDATED": "2026-06-22 10:50 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at San Diego:Current Leader:",
@@ -59,6 +59,14 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-14"
     },
     {
+      "id": "tennis:in:WTA:Linda Noskova:20260618",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Linda Noskova entra en el top 10 WTA",
+      "weight": 90,
+      "firstSeen": "2026-06-22"
+    },
+    {
       "id": "tennis:in:ATP:Flavio Cobolli:20260608",
       "sport": "tennis",
       "detail": "Tenis",
@@ -73,6 +81,14 @@ window.GLORY_DATA = {
       "text": "Jonathan Milan ganó la última etapa del Giro d'Italia",
       "weight": 88,
       "firstSeen": "2026-06-14"
+    },
+    {
+      "id": "tennis:out:WTA:Karolina Muchova:20260618",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Karolina Muchova sale del top 10 WTA",
+      "weight": 78,
+      "firstSeen": "2026-06-22"
     },
     {
       "id": "tennis:out:ATP:Alexander Bublik:20260608",

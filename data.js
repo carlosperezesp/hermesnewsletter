@@ -11492,7 +11492,7 @@ window.NHL_DATA = {
       "name": "Lukas Dostal",
       "pos": "G",
       "teamCode": "ANA",
-      "age": 25,
+      "age": 26,
       "country": "Czechia",
       "birthCountry": "CZE",
       "colors": {
@@ -45005,10 +45005,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-21 22:38 UTC",
+  "LAST_UPDATE": "2026-06-22 10:48 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-21T22:38:00Z"
+    "standingsDateTimeUtc": "2026-06-22T10:47:00Z"
   }
 };

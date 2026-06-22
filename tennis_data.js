@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-22 07:25 UTC
+// Auto-generated 2026-06-22 10:50 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-22 07:25 UTC",
+  "UPDATED": "2026-06-22 10:50 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -335,7 +335,7 @@ window.TENNIS_DATA = {
         "top10_wins": 25
       },
       "leyendaScore": 0.0,
-      "prevListRank": 11,
+      "prevListRank": 10,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -369,7 +369,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 10,
+      "prevListRank": 11,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -709,7 +709,7 @@ window.TENNIS_DATA = {
         "top10_wins": 13
       },
       "leyendaScore": 0.0,
-      "prevListRank": 22,
+      "prevListRank": 21,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -743,7 +743,7 @@ window.TENNIS_DATA = {
         "top10_wins": 16
       },
       "leyendaScore": 0.0,
-      "prevListRank": 23,
+      "prevListRank": 22,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -777,7 +777,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 21,
+      "prevListRank": 23,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -947,12 +947,12 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 29,
+      "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "Lexus Eastbourne Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Lexus Eastbourne Open · Wimbledon",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 67.5
     },
@@ -981,7 +981,7 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 28,
+      "prevListRank": 29,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -1049,7 +1049,7 @@ window.TENNIS_DATA = {
         "top10_wins": 12
       },
       "leyendaScore": 0.0,
-      "prevListRank": 32,
+      "prevListRank": 31,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -1083,7 +1083,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 34,
+      "prevListRank": 32,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -1117,7 +1117,7 @@ window.TENNIS_DATA = {
         "top10_wins": 14
       },
       "leyendaScore": 0.0,
-      "prevListRank": 35,
+      "prevListRank": 33,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -1151,7 +1151,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 33,
+      "prevListRank": 34,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -1185,7 +1185,7 @@ window.TENNIS_DATA = {
         "top10_wins": 7
       },
       "leyendaScore": 0.0,
-      "prevListRank": 37,
+      "prevListRank": 35,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -1219,7 +1219,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 31,
+      "prevListRank": 36,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -1253,7 +1253,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 38,
+      "prevListRank": 37,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -1287,7 +1287,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 36,
+      "prevListRank": 38,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -1321,7 +1321,7 @@ window.TENNIS_DATA = {
         "top10_wins": 6
       },
       "leyendaScore": 0.0,
-      "prevListRank": 40,
+      "prevListRank": 39,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -1355,7 +1355,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 42,
+      "prevListRank": 40,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -1423,7 +1423,7 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 43,
+      "prevListRank": 42,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -1457,7 +1457,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 44,
+      "prevListRank": 43,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -1491,7 +1491,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 46,
+      "prevListRank": 44,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -1559,7 +1559,7 @@ window.TENNIS_DATA = {
         "top10_wins": 7
       },
       "leyendaScore": 0.0,
-      "prevListRank": 49,
+      "prevListRank": 46,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -1663,7 +1663,7 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 52,
+      "prevListRank": 49,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -1697,7 +1697,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 53,
+      "prevListRank": 50,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -1731,7 +1731,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 55,
+      "prevListRank": 51,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -1765,7 +1765,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 54,
+      "prevListRank": 52,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -1799,7 +1799,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 65,
+      "prevListRank": 53,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -1833,7 +1833,7 @@ window.TENNIS_DATA = {
         "top10_wins": 37
       },
       "leyendaScore": 0.0,
-      "prevListRank": 51,
+      "prevListRank": 54,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -1867,7 +1867,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 56,
+      "prevListRank": 55,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -1901,7 +1901,7 @@ window.TENNIS_DATA = {
         "top10_wins": 30
       },
       "leyendaScore": 3.4,
-      "prevListRank": 50,
+      "prevListRank": 56,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -1935,7 +1935,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 58,
+      "prevListRank": 57,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -1969,7 +1969,7 @@ window.TENNIS_DATA = {
         "top10_wins": 13
       },
       "leyendaScore": 0.0,
-      "prevListRank": 57,
+      "prevListRank": 58,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2003,7 +2003,7 @@ window.TENNIS_DATA = {
         "top10_wins": 21
       },
       "leyendaScore": 0.0,
-      "prevListRank": 60,
+      "prevListRank": 59,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2037,7 +2037,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 59,
+      "prevListRank": 60,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2071,7 +2071,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 63,
+      "prevListRank": 61,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -2105,7 +2105,7 @@ window.TENNIS_DATA = {
         "top10_wins": 6
       },
       "leyendaScore": 0.0,
-      "prevListRank": 61,
+      "prevListRank": 62,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2139,7 +2139,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 67,
+      "prevListRank": 63,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -2173,7 +2173,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 62,
+      "prevListRank": 64,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2207,7 +2207,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 64,
+      "prevListRank": 65,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2241,12 +2241,12 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 69,
+      "prevListRank": 66,
       "tournamentStatus": {
-        "tournament": "Lexus Eastbourne Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Lexus Eastbourne Open · Wimbledon",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.3
     },
@@ -2275,7 +2275,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 66,
+      "prevListRank": 67,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -2343,7 +2343,7 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 70,
+      "prevListRank": 69,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2377,7 +2377,7 @@ window.TENNIS_DATA = {
         "top10_wins": 6
       },
       "leyendaScore": 0.0,
-      "prevListRank": 71,
+      "prevListRank": 70,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2411,7 +2411,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 72,
+      "prevListRank": 71,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2445,7 +2445,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 73,
+      "prevListRank": 72,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2479,7 +2479,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 76,
+      "prevListRank": 73,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2513,7 +2513,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 77,
+      "prevListRank": 74,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2547,7 +2547,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 79,
+      "prevListRank": 75,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2581,7 +2581,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 74,
+      "prevListRank": 76,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -2615,7 +2615,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 78,
+      "prevListRank": 77,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2649,7 +2649,7 @@ window.TENNIS_DATA = {
         "top10_wins": 7
       },
       "leyendaScore": 0.0,
-      "prevListRank": 75,
+      "prevListRank": 78,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2683,7 +2683,7 @@ window.TENNIS_DATA = {
         "top10_wins": 11
       },
       "leyendaScore": 0.0,
-      "prevListRank": 81,
+      "prevListRank": 79,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2717,7 +2717,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 82,
+      "prevListRank": 80,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2753,7 +2753,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 10,
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
-      "prevListRank": 83,
+      "prevListRank": 81,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2787,7 +2787,7 @@ window.TENNIS_DATA = {
         "top10_wins": 11
       },
       "leyendaScore": 0.0,
-      "prevListRank": 87,
+      "prevListRank": 82,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2821,7 +2821,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 85,
+      "prevListRank": 83,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2855,7 +2855,7 @@ window.TENNIS_DATA = {
         "top10_wins": 7
       },
       "leyendaScore": 0.0,
-      "prevListRank": 101,
+      "prevListRank": 84,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -2889,7 +2889,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 86,
+      "prevListRank": 85,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -2923,12 +2923,12 @@ window.TENNIS_DATA = {
         "top10_wins": 6
       },
       "leyendaScore": 0.0,
-      "prevListRank": 89,
+      "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "Lexus Eastbourne Open · Wimbledon",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 54.4
     },
@@ -2957,7 +2957,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 94,
+      "prevListRank": 87,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -2993,7 +2993,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 32,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 80,
+      "prevListRank": 88,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -3027,7 +3027,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 88,
+      "prevListRank": 89,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -3095,7 +3095,7 @@ window.TENNIS_DATA = {
         "top10_wins": 14
       },
       "leyendaScore": 0.0,
-      "prevListRank": 84,
+      "prevListRank": 91,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -3163,7 +3163,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": null,
+      "prevListRank": 93,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -3197,7 +3197,7 @@ window.TENNIS_DATA = {
         "top10_wins": 14
       },
       "leyendaScore": 0.0,
-      "prevListRank": 95,
+      "prevListRank": 94,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -3231,7 +3231,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 91,
+      "prevListRank": 95,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -3333,7 +3333,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 93,
+      "prevListRank": 98,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -3367,7 +3367,7 @@ window.TENNIS_DATA = {
         "top10_wins": 9
       },
       "leyendaScore": 0.0,
-      "prevListRank": 98,
+      "prevListRank": 99,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -3401,7 +3401,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 99,
+      "prevListRank": 100,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -3435,7 +3435,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 100,
+      "prevListRank": 101,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -3471,10 +3471,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "Lexus Eastbourne Open · Wimbledon",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 53.4
     },
@@ -3639,7 +3639,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 109,
+      "prevListRank": 107,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -3707,7 +3707,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 112,
+      "prevListRank": 109,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -3811,7 +3811,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.4,
       "leyendaScore": 0.0,
-      "prevListRank": 113,
+      "prevListRank": 112,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -3845,7 +3845,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 117,
+      "prevListRank": 113,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -3879,7 +3879,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 115,
+      "prevListRank": 114,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -3913,7 +3913,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 114,
+      "prevListRank": 115,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -3981,7 +3981,7 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 118,
+      "prevListRank": 117,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4015,7 +4015,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 120,
+      "prevListRank": 118,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4049,7 +4049,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 121,
+      "prevListRank": 119,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4083,7 +4083,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": null,
+      "prevListRank": 120,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4117,7 +4117,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 122,
+      "prevListRank": 121,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4151,7 +4151,7 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 123,
+      "prevListRank": 122,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4187,7 +4187,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 10,
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
-      "prevListRank": 124,
+      "prevListRank": 123,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4223,7 +4223,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.4,
       "leyendaScore": 0.0,
-      "prevListRank": 125,
+      "prevListRank": 124,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4257,7 +4257,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 127,
+      "prevListRank": 125,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4327,7 +4327,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 128,
+      "prevListRank": 127,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -4363,7 +4363,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 129,
+      "prevListRank": 128,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4397,7 +4397,7 @@ window.TENNIS_DATA = {
         "top10_wins": 52
       },
       "leyendaScore": 10.3,
-      "prevListRank": 131,
+      "prevListRank": 129,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4431,7 +4431,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 133,
+      "prevListRank": 130,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4467,7 +4467,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 39,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 132,
+      "prevListRank": 131,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4501,7 +4501,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 134,
+      "prevListRank": 132,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4537,7 +4537,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 34,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 136,
+      "prevListRank": 133,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4573,7 +4573,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.4,
       "leyendaScore": 0.0,
-      "prevListRank": null,
+      "prevListRank": 134,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4609,7 +4609,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 10,
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
-      "prevListRank": 137,
+      "prevListRank": 135,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -4643,7 +4643,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 138,
+      "prevListRank": 136,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4679,7 +4679,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": null,
+      "prevListRank": 137,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4715,7 +4715,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": null,
+      "prevListRank": 138,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4895,7 +4895,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 14,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": null,
+      "prevListRank": 143,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4931,7 +4931,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 143,
+      "prevListRank": 144,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -4967,7 +4967,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 144,
+      "prevListRank": 145,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -5003,7 +5003,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 10,
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
-      "prevListRank": 145,
+      "prevListRank": 146,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -5075,7 +5075,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 149,
+      "prevListRank": 148,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -5111,7 +5111,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 10,
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
-      "prevListRank": 148,
+      "prevListRank": 149,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -5147,7 +5147,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 14,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 146,
+      "prevListRank": 150,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -5693,7 +5693,7 @@ window.TENNIS_DATA = {
         "top10_wins": 14
       },
       "leyendaScore": 14.8,
-      "prevListRank": 17,
+      "prevListRank": 16,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -5727,7 +5727,7 @@ window.TENNIS_DATA = {
         "top10_wins": 9
       },
       "leyendaScore": 0.0,
-      "prevListRank": 16,
+      "prevListRank": 17,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "out",
@@ -5965,7 +5965,7 @@ window.TENNIS_DATA = {
         "top10_wins": 39
       },
       "leyendaScore": 0.0,
-      "prevListRank": 26,
+      "prevListRank": 24,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -5999,7 +5999,7 @@ window.TENNIS_DATA = {
         "top10_wins": 11
       },
       "leyendaScore": 0.0,
-      "prevListRank": 24,
+      "prevListRank": 25,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -6033,7 +6033,7 @@ window.TENNIS_DATA = {
         "top10_wins": 7
       },
       "leyendaScore": 0.0,
-      "prevListRank": 25,
+      "prevListRank": 26,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -6101,7 +6101,7 @@ window.TENNIS_DATA = {
         "top10_wins": 26
       },
       "leyendaScore": 3.7,
-      "prevListRank": 29,
+      "prevListRank": 28,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -6135,7 +6135,7 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 28,
+      "prevListRank": 29,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -6271,7 +6271,7 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 34,
+      "prevListRank": 33,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
@@ -6305,7 +6305,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 35,
+      "prevListRank": 34,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -6339,7 +6339,7 @@ window.TENNIS_DATA = {
         "top10_wins": 5
       },
       "leyendaScore": 0.0,
-      "prevListRank": 36,
+      "prevListRank": 35,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "out",
@@ -6373,7 +6373,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 3.7,
-      "prevListRank": 37,
+      "prevListRank": 36,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -6407,7 +6407,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 38,
+      "prevListRank": 37,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -6441,7 +6441,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 47,
+      "prevListRank": 38,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
@@ -6475,7 +6475,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 33,
+      "prevListRank": 39,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -6577,7 +6577,7 @@ window.TENNIS_DATA = {
         "top10_wins": 30
       },
       "leyendaScore": 0.0,
-      "prevListRank": 44,
+      "prevListRank": 42,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -6611,7 +6611,7 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 39,
+      "prevListRank": 43,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -6645,7 +6645,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 43,
+      "prevListRank": 44,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -6679,7 +6679,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 54,
+      "prevListRank": 45,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
@@ -6713,7 +6713,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 50,
+      "prevListRank": 46,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -6747,7 +6747,7 @@ window.TENNIS_DATA = {
         "top10_wins": 11
       },
       "leyendaScore": 0.0,
-      "prevListRank": 48,
+      "prevListRank": 47,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
@@ -6783,7 +6783,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 49,
+      "prevListRank": 48,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -6817,7 +6817,7 @@ window.TENNIS_DATA = {
         "top10_wins": 10
       },
       "leyendaScore": 0.0,
-      "prevListRank": 45,
+      "prevListRank": 49,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "out",
@@ -6851,7 +6851,7 @@ window.TENNIS_DATA = {
         "top10_wins": 8
       },
       "leyendaScore": 0.0,
-      "prevListRank": 42,
+      "prevListRank": 50,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -6885,7 +6885,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 52,
+      "prevListRank": 51,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -6919,7 +6919,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 51,
+      "prevListRank": 52,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -6953,7 +6953,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 55,
+      "prevListRank": 53,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -6987,7 +6987,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 56,
+      "prevListRank": 54,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -7021,7 +7021,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 58,
+      "prevListRank": 55,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -7055,7 +7055,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 61,
+      "prevListRank": 56,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -7089,7 +7089,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 62,
+      "prevListRank": 57,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -7123,7 +7123,7 @@ window.TENNIS_DATA = {
         "top10_wins": 5
       },
       "leyendaScore": 0.0,
-      "prevListRank": 53,
+      "prevListRank": 58,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -7157,7 +7157,7 @@ window.TENNIS_DATA = {
         "top10_wins": 17
       },
       "leyendaScore": 0.0,
-      "prevListRank": 60,
+      "prevListRank": 59,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "out",
@@ -7191,7 +7191,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 64,
+      "prevListRank": 60,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
@@ -7225,7 +7225,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 63,
+      "prevListRank": 61,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -7259,7 +7259,7 @@ window.TENNIS_DATA = {
         "top10_wins": 5
       },
       "leyendaScore": 0.0,
-      "prevListRank": 65,
+      "prevListRank": 62,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -7293,7 +7293,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 66,
+      "prevListRank": 63,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -7327,7 +7327,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 67,
+      "prevListRank": 64,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -7361,7 +7361,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 59,
+      "prevListRank": 65,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -7395,7 +7395,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 70,
+      "prevListRank": 66,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -7429,7 +7429,7 @@ window.TENNIS_DATA = {
         "top10_wins": 9
       },
       "leyendaScore": 0.0,
-      "prevListRank": 68,
+      "prevListRank": 67,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -7463,7 +7463,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 69,
+      "prevListRank": 68,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -7497,7 +7497,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 74,
+      "prevListRank": 69,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -7533,7 +7533,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 19,
       "inactivePenalty": 15.0,
       "leyendaScore": 3.7,
-      "prevListRank": 46,
+      "prevListRank": 70,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -7601,7 +7601,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 73,
+      "prevListRank": 72,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "out",
@@ -7635,7 +7635,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 79,
+      "prevListRank": 73,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -7669,7 +7669,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 72,
+      "prevListRank": 74,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -7703,7 +7703,7 @@ window.TENNIS_DATA = {
         "top10_wins": 24
       },
       "leyendaScore": 0.0,
-      "prevListRank": 76,
+      "prevListRank": 75,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -7737,7 +7737,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 75,
+      "prevListRank": 76,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -7771,7 +7771,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 80,
+      "prevListRank": 77,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -7805,7 +7805,7 @@ window.TENNIS_DATA = {
         "top10_wins": 8
       },
       "leyendaScore": 0.0,
-      "prevListRank": 77,
+      "prevListRank": 78,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -7839,7 +7839,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 81,
+      "prevListRank": 79,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -7873,7 +7873,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 78,
+      "prevListRank": 80,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -7907,7 +7907,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 82,
+      "prevListRank": 81,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -7941,7 +7941,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 83,
+      "prevListRank": 82,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -7975,7 +7975,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 85,
+      "prevListRank": 83,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -8043,7 +8043,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 86,
+      "prevListRank": 85,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8077,7 +8077,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 87,
+      "prevListRank": 86,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8111,7 +8111,7 @@ window.TENNIS_DATA = {
         "top10_wins": 13
       },
       "leyendaScore": 0.0,
-      "prevListRank": 88,
+      "prevListRank": 87,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8145,7 +8145,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 93,
+      "prevListRank": 88,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8247,7 +8247,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 92,
+      "prevListRank": 91,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "out",
@@ -8283,7 +8283,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 91,
+      "prevListRank": 92,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "alive",
@@ -8317,7 +8317,7 @@ window.TENNIS_DATA = {
         "top10_wins": 6
       },
       "leyendaScore": 0.0,
-      "prevListRank": 94,
+      "prevListRank": 93,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -8351,7 +8351,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 95,
+      "prevListRank": 94,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8387,7 +8387,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 96,
+      "prevListRank": 95,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8421,7 +8421,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 97,
+      "prevListRank": 96,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8457,7 +8457,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 98,
+      "prevListRank": 97,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8493,7 +8493,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 99,
+      "prevListRank": 98,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8529,7 +8529,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 100,
+      "prevListRank": 99,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8563,7 +8563,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 101,
+      "prevListRank": 100,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8597,7 +8597,7 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 102,
+      "prevListRank": 101,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8631,7 +8631,7 @@ window.TENNIS_DATA = {
         "top10_wins": 6
       },
       "leyendaScore": 0.0,
-      "prevListRank": 103,
+      "prevListRank": 102,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
@@ -8667,7 +8667,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 35,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": null,
+      "prevListRank": 103,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8805,7 +8805,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 108,
+      "prevListRank": 107,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8839,7 +8839,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 107,
+      "prevListRank": 108,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -9081,7 +9081,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 116,
+      "prevListRank": 115,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -9117,7 +9117,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 115,
+      "prevListRank": 116,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -9219,7 +9219,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 124,
+      "prevListRank": 119,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -9287,7 +9287,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 119,
+      "prevListRank": 121,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -9323,7 +9323,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 121,
+      "prevListRank": 122,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -9359,7 +9359,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 122,
+      "prevListRank": 123,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -9395,7 +9395,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 123,
+      "prevListRank": 124,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -9959,7 +9959,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 16,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 141,
+      "prevListRank": 140,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open",
         "state": "out",
@@ -9995,7 +9995,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 16,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 140,
+      "prevListRank": 141,
       "tournamentStatus": {
         "tournament": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -10939,19 +10939,6 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Brandon Nakashima",
-          "w_logo": "",
-          "l": "Jack Draper",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 67.5,
-          "l_score": null,
-          "match_score": 67.5
-        },
-        {
-          "round": "R128",
           "w": "Jaume Munar",
           "w_logo": "",
           "l": "Zizou Bergs",
@@ -10982,25 +10969,25 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Gabriel Diallo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 59.3,
           "l_score": 56.3,
           "match_score": 59.3
         },
         {
           "round": "R128",
-          "w": "Camilo Ugo Carabelli",
+          "w": "Marcos Giron",
           "w_logo": "",
-          "l": "Jack Pinnington Jones",
+          "l": "Jack Draper",
           "l_logo": "",
           "score": "por jugar",
           "day": "hoy",
           "scheduled": true,
-          "w_score": 58.2,
-          "l_score": 45.3,
-          "match_score": 58.2
+          "w_score": 54.6,
+          "l_score": null,
+          "match_score": 54.6
         },
         {
           "round": "R128",
@@ -11014,6 +11001,19 @@ window.TENNIS_DATA = {
           "w_score": 54.0,
           "l_score": 36.1,
           "match_score": 54.0
+        },
+        {
+          "round": "R128",
+          "w": "Marco Trungelliti",
+          "w_logo": "",
+          "l": "Jack Pinnington Jones",
+          "l_logo": "",
+          "score": "In Progress",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 51.7,
+          "l_score": 45.3,
+          "match_score": 51.7
         }
       ]
     }
@@ -11104,9 +11104,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Hannah Klugman",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 61.6,
           "l_score": null,
           "match_score": 61.6
@@ -11130,9 +11130,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Daria Snigur",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 60.7,
           "l_score": 59.6,
           "match_score": 60.7
@@ -11162,8 +11162,6 @@ window.TENNIS_DATA = {
       "Aleksandar Vukic",
       "Alexei Popyrin",
       "Arthur Fery",
-      "Brandon Nakashima",
-      "Camilo Ugo Carabelli",
       "Daniel Altmaier",
       "Gabriel Diallo",
       "Giles Hussey",
@@ -11174,6 +11172,8 @@ window.TENNIS_DATA = {
       "Jaume Munar",
       "Jenson Brooksby",
       "Juan Manuel Cerundolo",
+      "Marco Trungelliti",
+      "Marcos Giron",
       "Matteo Arnaldi",
       "Mattia Bellucci",
       "Raphael Collignon",
