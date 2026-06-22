@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-22 18:08 UTC
+// Auto-generated 2026-06-22 22:19 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-22 18:08 UTC",
+  "UPDATED": "2026-06-22 22:19 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -541,10 +541,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 16,
       "tournamentStatus": {
-        "tournament": "Lexus Eastbourne Open · Wimbledon",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lexus Eastbourne Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 75.7
     },
@@ -1426,9 +1426,9 @@ window.TENNIS_DATA = {
       "prevListRank": 42,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 64.4
     },
@@ -3098,9 +3098,9 @@ window.TENNIS_DATA = {
       "prevListRank": 91,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 55.2
     },
@@ -4863,7 +4863,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 36.2
@@ -6479,7 +6479,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 69.3
@@ -7263,7 +7263,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 60.8
@@ -7706,9 +7706,9 @@ window.TENNIS_DATA = {
       "prevListRank": 75,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 58.2
     },
@@ -10939,15 +10939,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Jaume Munar",
+          "w": "Zizou Bergs",
           "w_logo": "",
-          "l": "Zizou Bergs",
+          "l": "Jaume Munar",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 64.3,
-          "l_score": 60.4,
+          "w_score": 60.4,
+          "l_score": 64.3,
           "match_score": 64.3
         },
         {
@@ -10991,15 +10991,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Alexei Popyrin",
+          "w": "Jan Choinski",
           "w_logo": "",
-          "l": "Jan Choinski",
+          "l": "Alexei Popyrin",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "1-6 6-2 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 54.0,
-          "l_score": 36.1,
+          "w_score": 36.1,
+          "l_score": 54.0,
           "match_score": 54.0
         },
         {
@@ -11061,15 +11061,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Daria Kasatkina",
+          "w": "McCartney Kessler",
           "w_logo": "",
-          "l": "McCartney Kessler",
+          "l": "Daria Kasatkina",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 7-6 (7-3)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 58.0,
-          "l_score": 66.4,
+          "w_score": 66.4,
+          "l_score": 58.0,
           "match_score": 66.4
         },
         {
@@ -11160,7 +11160,6 @@ window.TENNIS_DATA = {
     "alive": [
       "Aleksandar Kovacevic",
       "Aleksandar Vukic",
-      "Alexei Popyrin",
       "Arthur Fery",
       "Daniel Altmaier",
       "Gabriel Diallo",
@@ -11169,25 +11168,27 @@ window.TENNIS_DATA = {
       "Jack Pinnington Jones",
       "Jacob Fearnley",
       "Jan Choinski",
-      "Jaume Munar",
       "Jenson Brooksby",
       "Juan Manuel Cerundolo",
       "Matteo Arnaldi",
       "Mattia Bellucci",
       "Roman Andres Burruchaga",
+      "Taylor Fritz",
       "Thiago Agustin Tirante",
       "Tomas Martin Etcheverry",
       "Ugo Humbert",
       "Zizou Bergs"
     ],
     "out": [
+      "Alexei Popyrin",
+      "Jaume Munar",
       "Marco Trungelliti",
       "Marcos Giron",
       "Raphael Collignon",
       "Terence Atmane"
     ],
-    "aliveCount": 21,
-    "matchesSeen": 14
+    "aliveCount": 20,
+    "matchesSeen": 15
   },
   "WTA_TOURNAMENT": {
     "name": "VANDA Pharmaceuticals Berlin Tennis Open · Lexus Eastbourne Open · Wimbledon",
@@ -11221,7 +11222,6 @@ window.TENNIS_DATA = {
       "Aryna Sabalenka",
       "Barbora Krejcikova",
       "Catherine McNally",
-      "Daria Kasatkina",
       "Diane Parry",
       "Ekaterina Alexandrova",
       "Elina Svitolina",
@@ -11258,6 +11258,7 @@ window.TENNIS_DATA = {
       "Antonia Ruzic",
       "Clara Tauson",
       "Coco Gauff",
+      "Daria Kasatkina",
       "Daria Snigur",
       "Diana Shnaider",
       "Donna Vekic",
@@ -11274,8 +11275,8 @@ window.TENNIS_DATA = {
       "Wang Xinyu",
       "Zhang Shuai"
     ],
-    "aliveCount": 39,
-    "matchesSeen": 44
+    "aliveCount": 38,
+    "matchesSeen": 45
   },
   "ATP_SCORE_LOG": {
     "206173": [

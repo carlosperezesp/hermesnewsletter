@@ -3895,6 +3895,36 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
+      "id": 32985,
+      "name": "Ildemaro Vargas",
+      "first": "Ildemaro",
+      "last": "Vargas",
+      "pos": "1B",
+      "teamCode": "ARI",
+      "age": 34,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32985.png",
+      "colors": {
+        "primary": "#a71930",
+        "secondary": "#e3d4ad"
+      },
+      "score": 61,
+      "stats": {
+        "type": "batting",
+        "ab": 240,
+        "hr": 7,
+        "rbi": 42,
+        "avg": 0.263,
+        "sb": 1,
+        "ops": 0.713
+      },
+      "legendScore": 44.1,
+      "currentScore": 61,
+      "battingScore": 61,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
       "id": 39706,
       "name": "Isaac Paredes",
       "first": "Isaac",
@@ -4308,36 +4338,6 @@ window.MLB_DATA = {
         "ops": 0.706
       },
       "legendScore": 37.8,
-      "currentScore": 60,
-      "battingScore": 60,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 32985,
-      "name": "Ildemaro Vargas",
-      "first": "Ildemaro",
-      "last": "Vargas",
-      "pos": "1B",
-      "teamCode": "ARI",
-      "age": 34,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32985.png",
-      "colors": {
-        "primary": "#a71930",
-        "secondary": "#e3d4ad"
-      },
-      "score": 60,
-      "stats": {
-        "type": "batting",
-        "ab": 240,
-        "hr": 7,
-        "rbi": 42,
-        "avg": 0.258,
-        "sb": 1,
-        "ops": 0.705
-      },
-      "legendScore": 43.6,
       "currentScore": 60,
       "battingScore": 60,
       "pitchingScore": null,
@@ -5595,7 +5595,7 @@ window.MLB_DATA = {
         "era": 3.93,
         "ip": 94.0,
         "so": 104,
-        "whip": 1.04
+        "whip": 1.05
       },
       "legendScore": 33.7,
       "currentScore": 54,
@@ -8227,7 +8227,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-22 18:06 UTC",
+  "LAST_UPDATE": "2026-06-22 22:17 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
