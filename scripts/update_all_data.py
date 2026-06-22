@@ -27,6 +27,7 @@ UPDATES = [
     ("Rugby",   SCRIPTS / "update_rugby_data.py"),
     ("Football", SCRIPTS / "update_football_data.py"),
     ("Cricket", SCRIPTS / "update_cricket_data.py"),
+    ("Athletics", SCRIPTS / "update_athletics_data.py"),
     # Glory log: debe ir el ÚLTIMO, lee los *_data.js ya generados.
     ("Glory",   SCRIPTS / "update_glory.py"),
 ]

@@ -51,7 +51,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.js *_data.js
+          # athletics_seed evolves when a record cracks an all-time top 10 — it
+          # must be committed so the new mark persists (and isn't re-announced).
+          git add data.js *_data.js data_sources/athletics_seed
           if git diff --cached --quiet; then
             echo "No data changes."
           else

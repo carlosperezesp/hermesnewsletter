@@ -1,0 +1,98 @@
+{
+  "event": "1500m_m",
+  "page": "1500 metres",
+  "gender": "men",
+  "unit": "time",
+  "marks": [
+    {
+      "mark": "3:26.00",
+      "athlete": "Hicham El Guerrouj",
+      "country": "MAR",
+      "year": 1998,
+      "date": "14 July 1998",
+      "venue": "Rome",
+      "rank": 1
+    },
+    {
+      "mark": "3:26.12",
+      "athlete": "El Guerrouj",
+      "country": "MAR",
+      "year": 2001,
+      "date": "24 August 2001",
+      "venue": "Brussels",
+      "rank": 2
+    },
+    {
+      "mark": "3:26.34",
+      "athlete": "Bernard Lagat",
+      "country": "KEN",
+      "year": 2001,
+      "date": "24 August 2001",
+      "venue": "Brussels",
+      "rank": 3
+    },
+    {
+      "mark": "3:26.45",
+      "athlete": "El Guerrouj",
+      "country": "MAR",
+      "year": 1998,
+      "date": "12 August 1998",
+      "venue": "Zürich",
+      "rank": 4
+    },
+    {
+      "mark": "3:26.69",
+      "athlete": "Asbel Kiprop",
+      "country": "KEN",
+      "year": 2015,
+      "date": "17 July 2015",
+      "venue": "Monaco",
+      "rank": 5
+    },
+    {
+      "mark": "3:26.73",
+      "athlete": "Jakob Ingebrigtsen",
+      "country": "NOR",
+      "year": 2024,
+      "date": "12 July 2024",
+      "venue": "Monaco",
+      "rank": 6
+    },
+    {
+      "mark": "3:26.89",
+      "athlete": "El Guerrouj",
+      "country": "MAR",
+      "year": 2002,
+      "date": "16 August 2002",
+      "venue": "Zürich",
+      "rank": 7
+    },
+    {
+      "mark": "3:26.96",
+      "athlete": "El Guerrouj",
+      "country": "MAR",
+      "year": 2002,
+      "date": "8 September 2002",
+      "venue": "Rieti",
+      "rank": 8
+    },
+    {
+      "mark": "3:27.14",
+      "athlete": "Jakob Ingebrigtsen",
+      "country": "NOR",
+      "year": 2023,
+      "date": "16 July 2023",
+      "venue": "Chorzów",
+      "rank": 9
+    },
+    {
+      "mark": "3:27.21",
+      "athlete": "El Guerrouj",
+      "country": "MAR",
+      "year": 2000,
+      "date": "11 August 2000",
+      "venue": "Zürich",
+      "rank": 10
+    }
+  ]
+}

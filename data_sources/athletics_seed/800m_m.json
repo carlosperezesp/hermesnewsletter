@@ -1,0 +1,98 @@
+{
+  "event": "800m_m",
+  "page": "800 metres",
+  "gender": "men",
+  "unit": "time",
+  "marks": [
+    {
+      "mark": "1:40.91",
+      "athlete": "David Rudisha",
+      "country": "KEN",
+      "year": 2012,
+      "date": "9 August 2012",
+      "venue": "London",
+      "rank": 1
+    },
+    {
+      "mark": "1:41.01",
+      "athlete": "David Rudisha",
+      "country": "KEN",
+      "year": 2010,
+      "date": "29 August 2010",
+      "venue": "Rieti",
+      "rank": 2
+    },
+    {
+      "mark": "1:41.09",
+      "athlete": "David Rudisha",
+      "country": "KEN",
+      "year": 2010,
+      "date": "22 August 2010",
+      "venue": "Berlin",
+      "rank": 3
+    },
+    {
+      "mark": "1:41.11",
+      "athlete": "Wilson Kipketer",
+      "country": "DEN",
+      "year": 1997,
+      "date": "24 August 1997",
+      "venue": "Cologne",
+      "rank": 4
+    },
+    {
+      "mark": "1:41.19",
+      "athlete": "Emmanuel Wanyonyi",
+      "country": "KEN",
+      "year": 2024,
+      "date": "10 August 2024",
+      "venue": "Saint-Denis",
+      "rank": 5
+    },
+    {
+      "mark": "1:41.20",
+      "athlete": "Marco Arop",
+      "country": "CAN",
+      "year": 2024,
+      "date": "10 August 2024",
+      "venue": "Saint-Denis",
+      "rank": 6
+    },
+    {
+      "mark": "1:41.24",
+      "athlete": "Wilson Kipketer",
+      "country": "DEN",
+      "year": 1997,
+      "date": "13 August 1997",
+      "venue": "Zürich",
+      "rank": 7
+    },
+    {
+      "mark": "1:41.33",
+      "athlete": "David Rudisha",
+      "country": "KEN",
+      "year": 2011,
+      "date": "10 September 2011",
+      "venue": "Rieti",
+      "rank": 8
+    },
+    {
+      "mark": "1:41.44",
+      "athlete": "Emmanuel Wanyonyi",
+      "country": "KEN",
+      "year": 2025,
+      "date": "11 July 2025",
+      "venue": "Monaco",
+      "rank": 9
+    },
+    {
+      "mark": "1:41.46",
+      "athlete": "Djamel Sedjati",
+      "country": "ALG",
+      "year": 2024,
+      "date": "12 July 2024",
+      "venue": "Monaco",
+      "rank": 10
+    }
+  ]
+}

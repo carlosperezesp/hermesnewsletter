@@ -1,0 +1,98 @@
+{
+  "event": "3000msc_w",
+  "page": "3000 metres steeplechase",
+  "gender": "women",
+  "unit": "time",
+  "marks": [
+    {
+      "mark": "8:44.32",
+      "athlete": "Beatrice Chepkoech",
+      "country": "KEN",
+      "year": 2018,
+      "date": "20 July 2018",
+      "venue": "Monaco",
+      "rank": 1
+    },
+    {
+      "mark": "8:44.39",
+      "athlete": "Winfred Yavi",
+      "country": "BHR",
+      "year": 2024,
+      "date": "30 August 2024",
+      "venue": "Rome",
+      "rank": 2
+    },
+    {
+      "mark": "8:45.25",
+      "athlete": "Winfred Yavi",
+      "country": "BHR",
+      "year": 2025,
+      "date": "5 July 2025",
+      "venue": "Eugene",
+      "rank": 3
+    },
+    {
+      "mark": "8:48.03",
+      "athlete": "Peruth Chemutai",
+      "country": "UGA",
+      "year": 2024,
+      "date": "30 August 2024",
+      "venue": "Rome",
+      "rank": 4
+    },
+    {
+      "mark": "8:48.71",
+      "athlete": "Faith Cherotich",
+      "country": "KEN",
+      "year": 2025,
+      "date": "5 July 2025",
+      "venue": "Eugene",
+      "rank": 5
+    },
+    {
+      "mark": "8:49.59",
+      "athlete": "Winfred Yavi",
+      "country": "BHR",
+      "year": 2025,
+      "date": "19 July 2025",
+      "venue": "Heusden-Zolder",
+      "rank": 6
+    },
+    {
+      "mark": "8:50.66",
+      "athlete": "Winfred Yavi",
+      "country": "BHR",
+      "year": 2023,
+      "date": "16 September 2023",
+      "venue": "Eugene",
+      "rank": 7
+    },
+    {
+      "mark": "8:51.06",
+      "athlete": "Peruth Chemutai",
+      "country": "UGA",
+      "year": 2026,
+      "date": "23 May 2026",
+      "venue": "Xiamen",
+      "rank": 8
+    },
+    {
+      "mark": "8:51.47",
+      "athlete": "Peruth Chemutai",
+      "country": "UGA",
+      "year": 2026,
+      "date": "16 May 2026",
+      "venue": "Shaoxing",
+      "rank": 9
+    },
+    {
+      "mark": "8:51.48",
+      "athlete": "Faith Cherotich",
+      "country": "KEN",
+      "year": 2026,
+      "date": "16 May 2026",
+      "venue": "Shaoxing",
+      "rank": 10
+    }
+  ]
+}

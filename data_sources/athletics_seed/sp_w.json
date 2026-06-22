@@ -1,0 +1,98 @@
+{
+  "event": "sp_w",
+  "page": "Shot put",
+  "gender": "women",
+  "unit": "dist",
+  "marks": [
+    {
+      "mark": "22.63",
+      "athlete": "Natalya Lisovskaya",
+      "country": "URS",
+      "year": 1987,
+      "date": "7 June 1987",
+      "venue": "Moscow",
+      "rank": 1
+    },
+    {
+      "mark": "22.60",
+      "athlete": "Natalya Lisovskaya",
+      "country": "URS",
+      "year": 1987,
+      "date": "7 June 1987",
+      "venue": "Moscow",
+      "rank": 2
+    },
+    {
+      "mark": "22.55",
+      "athlete": "Natalya Lisovskaya",
+      "country": "URS",
+      "year": 1988,
+      "date": "5 July 1988",
+      "venue": "Tallinn",
+      "rank": 3
+    },
+    {
+      "mark": "22.53",
+      "athlete": "Natalya Lisovskaya",
+      "country": "URS",
+      "year": 1984,
+      "date": "27 May 1984",
+      "venue": "Sochi",
+      "rank": 4
+    },
+    {
+      "mark": "22.45",
+      "athlete": "Ilona Slupianek",
+      "country": "GDR",
+      "year": 1980,
+      "date": "11 May 1980",
+      "venue": "Potsdam",
+      "rank": 5
+    },
+    {
+      "mark": "22.41",
+      "athlete": "Ilona Slupianek",
+      "country": "GDR",
+      "year": 1980,
+      "date": "24 July 1980",
+      "venue": "Moscow",
+      "rank": 6
+    },
+    {
+      "mark": "22.40",
+      "athlete": "Ilona Slupianek",
+      "country": "GDR",
+      "year": 1983,
+      "date": "3 June 1983",
+      "venue": "Berlin",
+      "rank": 7
+    },
+    {
+      "mark": "22.38",
+      "athlete": "Ilona Slupianek",
+      "country": "GDR",
+      "year": 1980,
+      "date": "25 May 1980",
+      "venue": "Karl-Marx-Stadt",
+      "rank": 8
+    },
+    {
+      "mark": "22.36",
+      "athlete": "Ilona Slupianek",
+      "country": "GDR",
+      "year": 1980,
+      "date": "2 May 1980",
+      "venue": "Celje",
+      "rank": 9
+    },
+    {
+      "mark": "22.34",
+      "athlete": "Ilona Slupianek",
+      "country": "GDR",
+      "year": 1980,
+      "date": "7 May 1980",
+      "venue": "Berlin",
+      "rank": 10
+    }
+  ]
+}

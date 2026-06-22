@@ -1,0 +1,98 @@
+{
+  "event": "400mh_w",
+  "page": "400 metres hurdles",
+  "gender": "women",
+  "unit": "time",
+  "marks": [
+    {
+      "mark": "50.37",
+      "athlete": "Sydney McLaughlin-Levrone",
+      "country": "USA",
+      "year": 2024,
+      "date": "8 August 2024",
+      "venue": "Saint-Denis",
+      "rank": 1
+    },
+    {
+      "mark": "50.65",
+      "athlete": "Sydney McLaughlin-Levrone",
+      "country": "USA",
+      "year": 2024,
+      "date": "30 June 2024",
+      "venue": "Eugene",
+      "rank": 2
+    },
+    {
+      "mark": "50.68",
+      "athlete": "Sydney McLaughlin-Levrone",
+      "country": "USA",
+      "year": 2022,
+      "date": "22 July 2022",
+      "venue": "Eugene",
+      "rank": 3
+    },
+    {
+      "mark": "50.95",
+      "athlete": "Femke Bol",
+      "country": "NED",
+      "year": 2024,
+      "date": "14 July 2024",
+      "venue": "La Chaux-de-Fonds",
+      "rank": 4
+    },
+    {
+      "mark": "51.30",
+      "athlete": "Femke Bol",
+      "country": "NED",
+      "year": 2024,
+      "date": "20 July 2024",
+      "venue": "London",
+      "rank": 5
+    },
+    {
+      "mark": "51.41",
+      "athlete": "Sydney McLaughlin-Levrone",
+      "country": "USA",
+      "year": 2022,
+      "date": "25 June 2022",
+      "venue": "Eugene",
+      "rank": 6
+    },
+    {
+      "mark": "51.45",
+      "athlete": "Femke Bol",
+      "country": "NED",
+      "year": 2023,
+      "date": "23 July 2023",
+      "venue": "London",
+      "rank": 7
+    },
+    {
+      "mark": "51.46",
+      "athlete": "Sydney McLaughlin-Levrone",
+      "country": "USA",
+      "year": 2021,
+      "date": "4 August 2021",
+      "venue": "Tokyo",
+      "rank": 8
+    },
+    {
+      "mark": "51.54",
+      "athlete": "Femke Bol",
+      "country": "NED",
+      "year": 2025,
+      "date": "19 September 2025",
+      "venue": "Tokyo",
+      "rank": 9
+    },
+    {
+      "mark": "51.58",
+      "athlete": "Dalilah Muhammad",
+      "country": "USA",
+      "year": 2021,
+      "date": "4 August 2021",
+      "venue": "Tokyo",
+      "rank": 10
+    }
+  ]
+}

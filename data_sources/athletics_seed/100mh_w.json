@@ -1,0 +1,98 @@
+{
+  "event": "100mh_w",
+  "page": "100 metres hurdles",
+  "gender": "women",
+  "unit": "time",
+  "marks": [
+    {
+      "mark": "12.12",
+      "athlete": "Tobi Amusan",
+      "country": "NGR",
+      "year": 2022,
+      "date": "24 July 2022",
+      "venue": "Eugene",
+      "rank": 1
+    },
+    {
+      "mark": "12.14",
+      "athlete": "Masai Russell",
+      "country": "USA",
+      "year": 2026,
+      "date": "23 May 2026",
+      "venue": "Xiamen",
+      "rank": 2
+    },
+    {
+      "mark": "12.17",
+      "athlete": "Masai Russell",
+      "country": "USA",
+      "year": 2025,
+      "date": "2 May 2025",
+      "venue": "Miramar",
+      "rank": 3
+    },
+    {
+      "mark": "12.19",
+      "athlete": "Tia Jones",
+      "country": "USA",
+      "year": 2025,
+      "date": "2 May 2025",
+      "venue": "Miramar",
+      "rank": 4
+    },
+    {
+      "mark": "12.19",
+      "athlete": "Masai Russell",
+      "country": "USA",
+      "year": 2025,
+      "date": "16 August 2025",
+      "venue": "Chorzów",
+      "rank": 5
+    },
+    {
+      "mark": "12.20",
+      "athlete": "Kendra Harrison",
+      "country": "USA",
+      "year": 2016,
+      "date": "22 July 2016",
+      "venue": "",
+      "rank": 6
+    },
+    {
+      "mark": "12.21",
+      "athlete": "Yordanka Donkova",
+      "country": "BUL",
+      "year": 1988,
+      "date": "20 August 1988",
+      "venue": "Stara Zagora",
+      "rank": 7
+    },
+    {
+      "mark": "12.22",
+      "athlete": "Masai Russell",
+      "country": "USA",
+      "year": 2025,
+      "date": "2 August 2025",
+      "venue": "Eugene",
+      "rank": 8
+    },
+    {
+      "mark": "12.24",
+      "athlete": "Yordanka Donkova",
+      "country": "BUL",
+      "year": 1988,
+      "date": "28 August 1988",
+      "venue": "Stara Zagora",
+      "rank": 9
+    },
+    {
+      "mark": "12.24",
+      "athlete": "Ackera Nugent",
+      "country": "JAM",
+      "year": 2024,
+      "date": "30 August 2024",
+      "venue": "Rome",
+      "rank": 10
+    }
+  ]
+}

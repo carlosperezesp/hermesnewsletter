@@ -1,0 +1,98 @@
+{
+  "event": "5000m_m",
+  "page": "5000 metres",
+  "gender": "men",
+  "unit": "time",
+  "marks": [
+    {
+      "mark": "12:35.36",
+      "athlete": "Joshua Cheptegei",
+      "country": "UGA",
+      "year": 2020,
+      "date": "14 August 2020",
+      "venue": "Monaco",
+      "rank": 1
+    },
+    {
+      "mark": "12:36.73",
+      "athlete": "Hagos Gebrhiwet",
+      "country": "ETH",
+      "year": 2024,
+      "date": "30 May 2024",
+      "venue": "Oslo",
+      "rank": 2
+    },
+    {
+      "mark": "12:37.35",
+      "athlete": "Kenenisa Bekele",
+      "country": "ETH",
+      "year": 2004,
+      "date": "31 May 2004",
+      "venue": "Hengelo",
+      "rank": 3
+    },
+    {
+      "mark": "12:38.95",
+      "athlete": "Yomif Kejelcha",
+      "country": "ETH",
+      "year": 2024,
+      "date": "30 May 2024",
+      "venue": "Oslo",
+      "rank": 4
+    },
+    {
+      "mark": "12:39.36",
+      "athlete": "Haile Gebrselassie",
+      "country": "ETH",
+      "year": 1998,
+      "date": "13 June 1998",
+      "venue": "Helsinki",
+      "rank": 5
+    },
+    {
+      "mark": "12:39.74",
+      "athlete": "Daniel Komen",
+      "country": "KEN",
+      "year": 1997,
+      "date": "22 August 1997",
+      "venue": "Brussels",
+      "rank": 6
+    },
+    {
+      "mark": "12:40.18",
+      "athlete": "K. Bekele",
+      "country": "ETH",
+      "year": 2005,
+      "date": "1 July 2005",
+      "venue": "Saint-Denis",
+      "rank": 7
+    },
+    {
+      "mark": "12:40.45",
+      "athlete": "Berihu Aregawi",
+      "country": "ETH",
+      "year": 2023,
+      "date": "30 June 2023",
+      "venue": "Lausanne",
+      "rank": 8
+    },
+    {
+      "mark": "12:40.96",
+      "athlete": "Jacob Kiplimo",
+      "country": "UGA",
+      "year": 2024,
+      "date": "30 May 2024",
+      "venue": "Oslo",
+      "rank": 9
+    },
+    {
+      "mark": "12:41.61",
+      "athlete": "Joshua Cheptegei",
+      "country": "UGA",
+      "year": 2023,
+      "date": "30 June 2023",
+      "venue": "Lausanne",
+      "rank": 10
+    }
+  ]
+}

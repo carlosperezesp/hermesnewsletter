@@ -3825,6 +3825,33 @@ function NewsletterApp() {
                 )}
               </NewsletterSection>
 
+              {GOLF.LAST_MAJOR && GOLF.LAST_MAJOR.champion && GOLF.LAST_MAJOR.name !== major.name && (
+                <NewsletterSection
+                  kicker={`${majorTour} · Ganador`}
+                  title={`${GOLF.LAST_MAJOR.name} — ${GOLF.LAST_MAJOR.champion.name}`}
+                  sub={`Campeón ${GOLF.SEASON}. ${GOLF.LAST_MAJOR.endLabel} · ${GOLF.LAST_MAJOR.venue || ""}${GOLF.LAST_MAJOR.location ? ` · ${GOLF.LAST_MAJOR.location}` : ""}.`}
+                >
+                  <div className="newsletter-list">
+                    {(GOLF.LAST_MAJOR.podium || []).map((row, i) => (
+                      <div key={`${row.rank}-${row.name}`} className="newsletter-row">
+                        <span className="newsletter-row__rank">{String(row.rank || i + 1).padStart(2, "0")}</span>
+                        <span className="newsletter-row__identity" style={{ flex: 1 }}>
+                          <span className="newsletter-row__dot" style={{ background: i === 0 ? "#c8a225" : "#2f6b3f" }} />
+                          <span className="newsletter-row__copy">
+                            <span className="newsletter-row__name">{row.name}{i === 0 ? " 🏆" : ""}</span>
+                            <span className="newsletter-row__meta">{row.country || GOLF.LAST_MAJOR.surface}</span>
+                          </span>
+                        </span>
+                        <span className="newsletter-row__score">
+                          <span className="newsletter-row__score-label">Final</span>
+                          <span className="newsletter-row__score-value">{row.score || "-"}</span>
+                        </span>
+                      </div>
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
+
               {signature.name && (
                 <NewsletterSection
                   kicker={`Signature Event · ${signature.state || "evento"}`}
@@ -4747,58 +4774,92 @@ function NewsletterApp() {
             fontWeight: 400, fontSize: 10, color: "var(--muted,#888)",
             textTransform: "none", letterSpacing: 0,
           };
+          const listLabelStyle = {
+            fontSize: 10, fontWeight: 700, letterSpacing: "0.1em",
+            textTransform: "uppercase", color: "var(--muted,#888)", padding: "6px 0 3px",
+          };
+          const emptyStyle = {
+            fontSize: 12, color: "var(--muted,#999)", padding: "8px 0", fontStyle: "italic",
+          };
+          const EMPTY = new Set();
+          // One mark = one row: rank · flag · athlete · country · mark · (year/meet)
+          const AthRow = ({ r, when }) => (
+            <NewsletterRankRow
+              rank={r.rank}
+              item={{ name: r.athlete, teamCode: r.country,
+                      colors: { primary: r.primary, secondary: "#FFFFFF" } }}
+              alive={EMPTY}
+              score={r.mark}
+              scoreDisplay={r.mark}
+              scoreLabel=""
+              meta={[r.country, r.venue, when].filter(Boolean).join(" · ")}
+              logo={r.flag}
+            />
+          );
 
           return (
             <>
               <header className="newsletter-hero" style={{ marginTop: 48 }}>
                 <div className="newsletter-hero__masthead">
                   <span>Athletics Tracker</span>
-                  <span>Diamond League {ATH.SEASON}</span>
+                  <span>Récords · Temporada {ATH.SEASON}</span>
                   <span>Actualizado {ATH.UPDATED}</span>
                 </div>
                 <div className="newsletter-hero__title-row">
                   <h1>Atletismo</h1>
                   <p>
-                    Los 32 eventos de la Diamond League {ATH.SEASON}: líderes de temporada,
-                    records del mundo y leyendas de la pista.
-                    {meeting && meeting.state === "upcoming" && (
-                      <> Próxima cita: <strong>{meeting.name}</strong> · {meeting.location} · {meeting.date}.</>
-                    )}
+                    Las 10 mejores marcas de la historia y de la temporada {ATH.SEASON} en
+                    cada disciplina. Cuando una marca se cuela en el top-10, la lista se
+                    actualiza sola tras cada gran competición.
                   </p>
                 </div>
               </header>
 
+              {(ATH.NEW_RECORDS || []).length > 0 && (
+                <div style={{
+                  margin: "0 0 18px", padding: "10px 14px", borderRadius: 8,
+                  background: "linear-gradient(90deg,#1a5fa8,#2a7a2a)", color: "#fff",
+                  fontSize: 13, fontWeight: 600 }}>
+                  ★ Nuevo récord en el top-10: {ATH.NEW_RECORDS.join(" · ")}
+                </div>
+              )}
+
               {(ATH.GROUPS || []).map(group => (
                 <NewsletterSection
                   key={group.id}
-                  kicker="Diamond League"
+                  kicker="Récords"
                   title={group.label}
-                  sub={`${group.sub} · Top 3 por evento · DL ${ATH.SEASON}`}
+                  sub={`${group.sub} · Top 10 histórico + temporada ${ATH.SEASON}`}
                 >
                   {(group.events || []).map(event => (
                     <React.Fragment key={event.id}>
                       <div style={eventHeaderStyle}>
                         <span>{event.name}</span>
                         <span style={wrStyle}>
-                          WR {event.wr.mark} · {event.wr.athlete} ({event.wr.country}, {event.wr.year})
+                          WR {event.wr.mark} · {event.wr.athlete} ({event.wr.country}{event.wr.year ? `, ${event.wr.year}` : ""})
                         </span>
                       </div>
-                      <div className="newsletter-list">
-                        {(event.athletes || []).map((athlete, i) => (
-                          <NewsletterRankRow
-                            key={athlete.id}
-                            rank={i + 1}
-                            item={athlete}
-                            alive={new Set()}
-                            score={athlete.activeScore}
-                            scoreDisplay={athlete.sb}
-                            scoreLabel="SB"
-                            meta={`${event.name.split("—")[0].trim()} · ${athlete.country}`}
-                            note={`PB: ${athlete.pb}`}
-                            logo={athlete.logo}
-                            prevRank={athlete.prevRank}
-                          />
-                        ))}
+                      <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))", gap: "0 28px" }}>
+                        <div>
+                          <div style={listLabelStyle}>Histórico · Top 10</div>
+                          <div className="newsletter-list">
+                            {(event.allTime || []).map(r => (
+                              <AthRow key={`a${r.rank}`} r={r} when={r.year} />
+                            ))}
+                          </div>
+                        </div>
+                        <div>
+                          <div style={listLabelStyle}>Temporada {ATH.SEASON}</div>
+                          {(event.season && event.season.length) ? (
+                            <div className="newsletter-list">
+                              {event.season.map(r => (
+                                <AthRow key={`s${r.rank}`} r={r} when={r.date} />
+                              ))}
+                            </div>
+                          ) : (
+                            <div style={emptyStyle}>Sin marcas registradas todavía.</div>
+                          )}
+                        </div>
                       </div>
                     </React.Fragment>
                   ))}

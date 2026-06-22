@@ -1,0 +1,98 @@
+{
+  "event": "hj_w",
+  "page": "High jump",
+  "gender": "women",
+  "unit": "dist",
+  "marks": [
+    {
+      "mark": "2.10",
+      "athlete": "Yaroslava Mahuchikh",
+      "country": "UKR",
+      "year": 2024,
+      "date": "7 July 2024",
+      "venue": "Paris",
+      "rank": 1
+    },
+    {
+      "mark": "2.09",
+      "athlete": "Stefka Kostadinova",
+      "country": "BUL",
+      "year": 1987,
+      "date": "30 August 1987",
+      "venue": "Rome",
+      "rank": 2
+    },
+    {
+      "mark": "2.08",
+      "athlete": "Stefka Kostadinova",
+      "country": "BUL",
+      "year": 1986,
+      "date": "31 May 1986",
+      "venue": "Sofia",
+      "rank": 3
+    },
+    {
+      "mark": "2.08",
+      "athlete": "Blanka Vlašić",
+      "country": "CRO",
+      "year": 2009,
+      "date": "31 August 2009",
+      "venue": "Zagreb",
+      "rank": 4
+    },
+    {
+      "mark": "2.07",
+      "athlete": "Lyudmila Andonova",
+      "country": "BUL",
+      "year": 1984,
+      "date": "20 July 1984",
+      "venue": "Berlin",
+      "rank": 5
+    },
+    {
+      "mark": "2.07",
+      "athlete": "Stefka Kostadinova",
+      "country": "BUL",
+      "year": 1986,
+      "date": "25 May 1986",
+      "venue": "Sofia",
+      "rank": 6
+    },
+    {
+      "mark": "2.07",
+      "athlete": "Anna Chicherova",
+      "country": "RUS",
+      "year": 2011,
+      "date": "22 July 2011",
+      "venue": "Cheboksary",
+      "rank": 7
+    },
+    {
+      "mark": "2.06",
+      "athlete": "Stefka Kostadinova",
+      "country": "BUL",
+      "year": 1985,
+      "date": "18 August 1985",
+      "venue": "Moscow",
+      "rank": 8
+    },
+    {
+      "mark": "2.06",
+      "athlete": "Kajsa Bergqvist",
+      "country": "SWE",
+      "year": 2003,
+      "date": "26 July 2003",
+      "venue": "Eberstadt",
+      "rank": 9
+    },
+    {
+      "mark": "2.06",
+      "athlete": "Blanka Vlašić",
+      "country": "CRO",
+      "year": 2007,
+      "date": "30 July 2007",
+      "venue": "Thessaloniki",
+      "rank": 10
+    }
+  ]
+}

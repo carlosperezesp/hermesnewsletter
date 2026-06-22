@@ -1,0 +1,98 @@
+{
+  "event": "tj_m",
+  "page": "Triple jump",
+  "gender": "men",
+  "unit": "dist",
+  "marks": [
+    {
+      "mark": "18.29",
+      "athlete": "Jonathan Edwards",
+      "country": "GBR",
+      "year": 1995,
+      "date": "7 August 1995",
+      "venue": "Gothenburg",
+      "rank": 1
+    },
+    {
+      "mark": "18.21",
+      "athlete": "Christian Taylor",
+      "country": "USA",
+      "year": 2015,
+      "date": "27 August 2015",
+      "venue": "Beijing",
+      "rank": 2
+    },
+    {
+      "mark": "18.18",
+      "athlete": "Jordan Díaz",
+      "country": "ESP",
+      "year": 2024,
+      "date": "11 June 2024",
+      "venue": "Rome",
+      "rank": 3
+    },
+    {
+      "mark": "18.16",
+      "athlete": "Jonathan Edwards",
+      "country": "GBR",
+      "year": 1995,
+      "date": "7 August 1995",
+      "venue": "Gothenburg",
+      "rank": 4
+    },
+    {
+      "mark": "18.14",
+      "athlete": "Will Claye",
+      "country": "USA",
+      "year": 2019,
+      "date": "29 June 2019",
+      "venue": "Long Beach",
+      "rank": 5
+    },
+    {
+      "mark": "18.11",
+      "athlete": "Christian Taylor",
+      "country": "USA",
+      "year": 2017,
+      "date": "27 May 2017",
+      "venue": "Eugene",
+      "rank": 6
+    },
+    {
+      "mark": "18.09",
+      "athlete": "Kenny Harrison",
+      "country": "USA",
+      "year": 1996,
+      "date": "27 July 1996",
+      "venue": "Atlanta",
+      "rank": 7
+    },
+    {
+      "mark": "18.08",
+      "athlete": "Pedro Pichardo",
+      "country": "CUB",
+      "year": 2015,
+      "date": "28 May 2015",
+      "venue": "Havana",
+      "rank": 8
+    },
+    {
+      "mark": "18.06",
+      "athlete": "Pedro Pichardo",
+      "country": "CUB",
+      "year": 2015,
+      "date": "15 May 2015",
+      "venue": "Doha",
+      "rank": 9
+    },
+    {
+      "mark": "18.04",
+      "athlete": "Teddy Tamgho",
+      "country": "FRA",
+      "year": 2013,
+      "date": "18 August 2013",
+      "venue": "Moscow",
+      "rank": 10
+    }
+  ]
+}

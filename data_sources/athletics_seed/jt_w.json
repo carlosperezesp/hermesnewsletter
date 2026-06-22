@@ -1,0 +1,97 @@
+{
+  "event": "jt_w",
+  "page": "Javelin throw",
+  "gender": "women",
+  "unit": "dist",
+  "marks": [
+    {
+      "rank": 1,
+      "mark": "72.28",
+      "athlete": "Barbora Špotáková",
+      "country": "CZE",
+      "year": 2008,
+      "date": "13 September 2008",
+      "venue": "Stuttgart"
+    },
+    {
+      "rank": 2,
+      "mark": "71.74",
+      "athlete": "Yan Ziyi",
+      "country": "CHN",
+      "year": 2026,
+      "date": "23 May 2026",
+      "venue": "Xiamen"
+    },
+    {
+      "rank": 3,
+      "mark": "71.74",
+      "athlete": "Ziyi Yan",
+      "country": "CHN",
+      "year": 2026,
+      "venue": "Egret Stadium"
+    },
+    {
+      "rank": 4,
+      "mark": "71.70",
+      "athlete": "Osleidys Menéndez",
+      "country": "CUB",
+      "year": 2005,
+      "date": "14 August 2005",
+      "venue": "Helsinki"
+    },
+    {
+      "rank": 5,
+      "mark": "71.58",
+      "athlete": "Barbora Špotáková",
+      "country": "CZE",
+      "year": 2011,
+      "date": "2 September 2011",
+      "venue": "Daegu"
+    },
+    {
+      "rank": 6,
+      "mark": "71.54",
+      "athlete": "Osleidys Menéndez",
+      "country": "CUB",
+      "year": 2001,
+      "date": "1 July 2001",
+      "venue": "Rethymno"
+    },
+    {
+      "rank": 7,
+      "mark": "71.53",
+      "athlete": "Osleidys Menéndez",
+      "country": "CUB",
+      "year": 2004,
+      "date": "27 August 2004",
+      "venue": "Athens"
+    },
+    {
+      "rank": 8,
+      "mark": "71.42",
+      "athlete": "Barbora Špotáková",
+      "country": "CZE",
+      "year": 2008,
+      "date": "21 August 2008",
+      "venue": "Beijing"
+    },
+    {
+      "rank": 9,
+      "mark": "71.40",
+      "athlete": "Maria Andrejczyk",
+      "country": "POL",
+      "year": 2021,
+      "date": "9 May 2021",
+      "venue": "Split"
+    },
+    {
+      "rank": 10,
+      "mark": "70.53",
+      "athlete": "Mariya Abakumova",
+      "country": "RUS",
+      "year": 2013,
+      "date": "1 September 2013",
+      "venue": "Berlin"
+    }
+  ]
+}

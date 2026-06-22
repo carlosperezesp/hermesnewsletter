@@ -1,0 +1,98 @@
+{
+  "event": "100m_w",
+  "page": "100 metres",
+  "gender": "women",
+  "unit": "time",
+  "marks": [
+    {
+      "mark": "10.49",
+      "athlete": "Florence Griffith Joyner",
+      "country": "USA",
+      "year": 1988,
+      "date": "16 July 1988",
+      "venue": "Indianapolis",
+      "rank": 1
+    },
+    {
+      "mark": "10.54",
+      "athlete": "Elaine Thompson-Herah",
+      "country": "JAM",
+      "year": 2021,
+      "date": "21 August 2021",
+      "venue": "Eugene",
+      "rank": 2
+    },
+    {
+      "mark": "10.60",
+      "athlete": "Shelly-Ann Fraser-Pryce",
+      "country": "JAM",
+      "year": 2021,
+      "date": "26 August 2021",
+      "venue": "Lausanne",
+      "rank": 3
+    },
+    {
+      "mark": "10.61",
+      "athlete": "Florence Griffith Joyner",
+      "country": "USA",
+      "year": 1988,
+      "date": "17 July 1988",
+      "venue": "Indianapolis",
+      "rank": 4
+    },
+    {
+      "mark": "10.61",
+      "athlete": "Melissa Jefferson-Wooden",
+      "country": "USA",
+      "year": 2025,
+      "date": "14 September 2025",
+      "venue": "Tokyo",
+      "rank": 5
+    },
+    {
+      "mark": "10.62",
+      "athlete": "Florence Griffith Joyner",
+      "country": "USA",
+      "year": 1988,
+      "date": "24 September 1988",
+      "venue": "Seoul",
+      "rank": 6
+    },
+    {
+      "mark": "10.63",
+      "athlete": "Shelly-Ann Fraser-Pryce",
+      "country": "JAM",
+      "year": 2021,
+      "date": "5 June 2021",
+      "venue": "Kingston",
+      "rank": 7
+    },
+    {
+      "mark": "10.63",
+      "athlete": "Adaejah Hodge",
+      "country": "IVB",
+      "year": 2026,
+      "date": "11 June 2026",
+      "venue": "Eugene",
+      "rank": 8
+    },
+    {
+      "mark": "10.64",
+      "athlete": "Carmelita Jeter",
+      "country": "USA",
+      "year": 2009,
+      "date": "20 September 2009",
+      "venue": "Shanghai",
+      "rank": 9
+    },
+    {
+      "mark": "10.64",
+      "athlete": "Elaine Thompson-Herah",
+      "country": "JAM",
+      "year": 2021,
+      "date": "26 August 2021",
+      "venue": "Lausanne",
+      "rank": 10
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "event": "lj_m",
+  "page": "Long jump",
+  "gender": "men",
+  "unit": "dist",
+  "marks": [
+    {
+      "mark": "8.95",
+      "athlete": "Mike Powell",
+      "country": "USA",
+      "year": 1991,
+      "date": "30 August 1991",
+      "venue": "Tokyo",
+      "rank": 1
+    },
+    {
+      "mark": "8.90",
+      "athlete": "Bob Beamon",
+      "country": "USA",
+      "year": 1968,
+      "date": "18 October 1968",
+      "venue": "Mexico City",
+      "rank": 2
+    },
+    {
+      "mark": "8.87",
+      "athlete": "Carl Lewis",
+      "country": "USA",
+      "year": 1991,
+      "date": "30 August 1991",
+      "venue": "Tokyo",
+      "rank": 3
+    },
+    {
+      "mark": "8.86",
+      "athlete": "Robert Emmiyan",
+      "country": "URS",
+      "year": 1987,
+      "date": "22 May 1987",
+      "venue": "Tsaghkadzor",
+      "rank": 4
+    },
+    {
+      "mark": "8.84",
+      "athlete": "Carl Lewis",
+      "country": "USA",
+      "year": 1991,
+      "date": "30 August 1991",
+      "venue": "Tokyo",
+      "rank": 5
+    },
+    {
+      "mark": "8.79",
+      "athlete": "Carl Lewis",
+      "country": "USA",
+      "year": 1983,
+      "date": "19 June 1983",
+      "venue": "Indianapolis",
+      "rank": 6
+    },
+    {
+      "mark": "8.79",
+      "athlete": "Carl Lewis",
+      "country": "USA",
+      "year": 1984,
+      "date": "27 January 1984",
+      "venue": "New York City",
+      "rank": 7
+    },
+    {
+      "mark": "8.76",
+      "athlete": "Carl Lewis",
+      "country": "USA",
+      "year": 1982,
+      "date": "24 July 1982",
+      "venue": "Indianapolis",
+      "rank": 8
+    },
+    {
+      "mark": "8.74",
+      "athlete": "Larry Myricks",
+      "country": "USA",
+      "year": 1988,
+      "date": "18 July 1988",
+      "venue": "Indianapolis",
+      "rank": 9
+    },
+    {
+      "mark": "8.74",
+      "athlete": "Erick Walder",
+      "country": "USA",
+      "year": 1994,
+      "date": "2 April 1994",
+      "venue": "El Paso",
+      "rank": 10
+    }
+  ]
+}

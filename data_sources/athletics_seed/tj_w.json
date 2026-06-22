@@ -1,0 +1,98 @@
+{
+  "event": "tj_w",
+  "page": "Triple jump",
+  "gender": "women",
+  "unit": "dist",
+  "marks": [
+    {
+      "mark": "15.67",
+      "athlete": "Yulimar Rojas",
+      "country": "VEN",
+      "year": 2021,
+      "date": "1 August 2021",
+      "venue": "Tokyo",
+      "rank": 1
+    },
+    {
+      "mark": "15.52",
+      "athlete": "Yulimar Rojas",
+      "country": "VEN",
+      "year": 2021,
+      "date": "26 August 2021",
+      "venue": "Lausanne",
+      "rank": 2
+    },
+    {
+      "mark": "15.50",
+      "athlete": "Inessa Kravets",
+      "country": "UKR",
+      "year": 1995,
+      "date": "10 August 1995",
+      "venue": "Gothenburg",
+      "rank": 3
+    },
+    {
+      "mark": "15.48",
+      "athlete": "Yulimar Rojas",
+      "country": "VEN",
+      "year": 2021,
+      "date": "9 September 2021",
+      "venue": "Zürich",
+      "rank": 4
+    },
+    {
+      "mark": "15.47",
+      "athlete": "Yulimar Rojas",
+      "country": "VEN",
+      "year": 2022,
+      "date": "18 July 2022",
+      "venue": "Eugene",
+      "rank": 5
+    },
+    {
+      "mark": "15.43",
+      "athlete": "Yulimar Rojas",
+      "country": "VEN",
+      "year": 2021,
+      "date": "22 May 2021",
+      "venue": "Andújar",
+      "rank": 6
+    },
+    {
+      "mark": "15.41",
+      "athlete": "Yulimar Rojas",
+      "country": "VEN",
+      "year": 2019,
+      "date": "6 September 2019",
+      "venue": "Andújar",
+      "rank": 7
+    },
+    {
+      "mark": "15.39",
+      "athlete": "Françoise Mbango Etone",
+      "country": "CMR",
+      "year": 2008,
+      "date": "17 August 2008",
+      "venue": "Beijing",
+      "rank": 8
+    },
+    {
+      "mark": "15.37",
+      "athlete": "Yulimar Rojas",
+      "country": "VEN",
+      "year": 2019,
+      "date": "5 October 2019",
+      "venue": "Doha",
+      "rank": 9
+    },
+    {
+      "mark": "15.35",
+      "athlete": "Yulimar Rojas",
+      "country": "VEN",
+      "year": 2023,
+      "date": "16 September 2023",
+      "venue": "Eugene",
+      "rank": 10
+    }
+  ]
+}

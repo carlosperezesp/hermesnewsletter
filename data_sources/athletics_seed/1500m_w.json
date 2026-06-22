@@ -1,0 +1,98 @@
+{
+  "event": "1500m_w",
+  "page": "1500 metres",
+  "gender": "women",
+  "unit": "time",
+  "marks": [
+    {
+      "mark": "3:48.68",
+      "athlete": "Faith Kipyegon",
+      "country": "KEN",
+      "year": 2025,
+      "date": "5 July 2025",
+      "venue": "Eugene",
+      "rank": 1
+    },
+    {
+      "mark": "3:49.04",
+      "athlete": "Faith Kipyegon",
+      "country": "KEN",
+      "year": 2024,
+      "date": "7 July 2024",
+      "venue": "Paris",
+      "rank": 2
+    },
+    {
+      "mark": "3:49.11",
+      "athlete": "Faith Kipyegon",
+      "country": "KEN",
+      "year": 2023,
+      "date": "2 June 2023",
+      "venue": "Florence",
+      "rank": 3
+    },
+    {
+      "mark": "3:50.07",
+      "athlete": "Genzebe Dibaba",
+      "country": "ETH",
+      "year": 2015,
+      "date": "17 July 2015",
+      "venue": "Monaco",
+      "rank": 4
+    },
+    {
+      "mark": "3:50.30",
+      "athlete": "Gudaf Tsegay",
+      "country": "ETH",
+      "year": 2024,
+      "date": "20 April 2024",
+      "venue": "Xiamen",
+      "rank": 5
+    },
+    {
+      "mark": "3:50.37",
+      "athlete": "Faith Kipyegon",
+      "country": "KEN",
+      "year": 2022,
+      "date": "10 August 2022",
+      "venue": "Monaco",
+      "rank": 6
+    },
+    {
+      "mark": "3:50.46",
+      "athlete": "Qu Yunxia",
+      "country": "CHN",
+      "year": 1993,
+      "date": "11 September 1993",
+      "venue": "Beijing",
+      "rank": 7
+    },
+    {
+      "mark": "3:50.62",
+      "athlete": "Gudaf Tsegay",
+      "country": "ETH",
+      "year": 2025,
+      "date": "16 August 2025",
+      "venue": "Chorzów",
+      "rank": 8
+    },
+    {
+      "mark": "3:50.72",
+      "athlete": "Faith Kipyegon",
+      "country": "KEN",
+      "year": 2023,
+      "date": "16 September 2023",
+      "venue": "Eugene",
+      "rank": 9
+    },
+    {
+      "mark": "3:50.83",
+      "athlete": "Jessica Hull",
+      "country": "AUS",
+      "year": 2024,
+      "date": "7 July 2024",
+      "venue": "Paris",
+      "rank": 10
+    }
+  ]
+}

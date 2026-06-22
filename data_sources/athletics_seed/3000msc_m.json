@@ -1,0 +1,98 @@
+{
+  "event": "3000msc_m",
+  "page": "3000 metres steeplechase",
+  "gender": "men",
+  "unit": "time",
+  "marks": [
+    {
+      "mark": "7:52.11",
+      "athlete": "Lamecha Girma",
+      "country": "ETH",
+      "year": 2023,
+      "date": "9 June 2023",
+      "venue": "Paris",
+      "rank": 1
+    },
+    {
+      "mark": "7:53.63",
+      "athlete": "Saif Saaeed Shaheen",
+      "country": "QAT",
+      "year": 2004,
+      "date": "3 September 2004",
+      "venue": "Brussels",
+      "rank": 2
+    },
+    {
+      "mark": "7:53.64",
+      "athlete": "Brimin Kipruto",
+      "country": "KEN",
+      "year": 2011,
+      "date": "22 July 2011",
+      "venue": "Monaco",
+      "rank": 3
+    },
+    {
+      "mark": "7:54.31",
+      "athlete": "Paul Kipsiele Koech",
+      "country": "KEN",
+      "year": 2012,
+      "date": "31 May 2012",
+      "venue": "Rome",
+      "rank": 4
+    },
+    {
+      "mark": "7:55.28",
+      "athlete": "Brahim Boulami",
+      "country": "MAR",
+      "year": 2001,
+      "date": "24 August 2001",
+      "venue": "Brussels",
+      "rank": 5
+    },
+    {
+      "mark": "7:55.51",
+      "athlete": "Saif Saaeed Shaheen",
+      "country": "QAT",
+      "year": 2005,
+      "date": "26 August 2005",
+      "venue": "Brussels",
+      "rank": 6
+    },
+    {
+      "mark": "7:55.72",
+      "athlete": "Bernard Barmasai",
+      "country": "KEN",
+      "year": 1997,
+      "date": "24 August 1997",
+      "venue": "Cologne",
+      "rank": 7
+    },
+    {
+      "mark": "7:55.76",
+      "athlete": "Ezekiel Kemboi",
+      "country": "KEN",
+      "year": 2011,
+      "date": "22 July 2011",
+      "venue": "Monaco",
+      "rank": 8
+    },
+    {
+      "mark": "7:56.16",
+      "athlete": "Moses Kiptanui",
+      "country": "KEN",
+      "year": 1997,
+      "date": "24 August 1997",
+      "venue": "Cologne",
+      "rank": 9
+    },
+    {
+      "mark": "7:56.32",
+      "athlete": "Saif Saaeed Shaheen",
+      "country": "QAT",
+      "year": 2006,
+      "date": "3 July 2006",
+      "venue": "Athens",
+      "rank": 10
+    }
+  ]
+}

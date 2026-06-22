@@ -1,0 +1,98 @@
+{
+  "event": "jt_m",
+  "page": "Javelin throw",
+  "gender": "men",
+  "unit": "dist",
+  "marks": [
+    {
+      "mark": "98.48",
+      "athlete": "Jan Železný",
+      "country": "CZE",
+      "year": 1996,
+      "date": "25 May 1996",
+      "venue": "Jena",
+      "rank": 1
+    },
+    {
+      "mark": "97.76",
+      "athlete": "Johannes Vetter",
+      "country": "GER",
+      "year": 2020,
+      "date": "6 September 2020",
+      "venue": "Chorzów",
+      "rank": 2
+    },
+    {
+      "mark": "96.29",
+      "athlete": "Johannes Vetter",
+      "country": "GER",
+      "year": 2021,
+      "date": "29 May 2021",
+      "venue": "Chorzów",
+      "rank": 3
+    },
+    {
+      "mark": "95.66",
+      "athlete": "Jan Železný",
+      "country": "CZE",
+      "year": 1993,
+      "date": "29 August 1993",
+      "venue": "Sheffield",
+      "rank": 4
+    },
+    {
+      "mark": "95.54",
+      "athlete": "Jan Železný",
+      "country": "CZE",
+      "year": 1993,
+      "date": "6 April 1993",
+      "venue": "Pietersburg",
+      "rank": 5
+    },
+    {
+      "mark": "94.64",
+      "athlete": "Jan Železný",
+      "country": "CZE",
+      "year": 1996,
+      "date": "31 May 1996",
+      "venue": "Ostrava",
+      "rank": 6
+    },
+    {
+      "mark": "94.44",
+      "athlete": "Johannes Vetter",
+      "country": "GER",
+      "year": 2017,
+      "date": "11 July 2017",
+      "venue": "Luzern",
+      "rank": 7
+    },
+    {
+      "mark": "94.20",
+      "athlete": "Johannes Vetter",
+      "country": "GER",
+      "year": 2021,
+      "date": "19 May 2021",
+      "venue": "Ostrava",
+      "rank": 8
+    },
+    {
+      "mark": "94.02",
+      "athlete": "Jan Železný",
+      "country": "CZE",
+      "year": 1997,
+      "date": "26 March 1997",
+      "venue": "Stellenbosch",
+      "rank": 9
+    },
+    {
+      "mark": "93.90",
+      "athlete": "Thomas Röhler",
+      "country": "GER",
+      "year": 2017,
+      "date": "5 May 2017",
+      "venue": "Doha",
+      "rank": 10
+    }
+  ]
+}

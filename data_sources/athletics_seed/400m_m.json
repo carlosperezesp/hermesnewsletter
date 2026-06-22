@@ -1,0 +1,98 @@
+{
+  "event": "400m_m",
+  "page": "400 metres",
+  "gender": "men",
+  "unit": "time",
+  "marks": [
+    {
+      "mark": "43.03",
+      "athlete": "Wayde van Niekerk",
+      "country": "RSA",
+      "year": 2016,
+      "date": "14 August 2016",
+      "venue": "Rio de Janeiro",
+      "rank": 1
+    },
+    {
+      "mark": "43.18",
+      "athlete": "Michael Johnson",
+      "country": "USA",
+      "year": 1999,
+      "date": "26 August 1999",
+      "venue": "Seville",
+      "rank": 2
+    },
+    {
+      "mark": "43.29",
+      "athlete": "Butch Reynolds",
+      "country": "USA",
+      "year": 1988,
+      "date": "17 August 1988",
+      "venue": "Zürich",
+      "rank": 3
+    },
+    {
+      "mark": "43.38",
+      "athlete": "Samuel Ogazi",
+      "country": "NGA",
+      "year": 2026,
+      "date": "12 June 2026",
+      "venue": "Eugene",
+      "rank": 4
+    },
+    {
+      "mark": "43.39",
+      "athlete": "Michael Johnson",
+      "country": "USA",
+      "year": 1995,
+      "date": "9 August 1995",
+      "venue": "Gothenburg",
+      "rank": 5
+    },
+    {
+      "mark": "43.40",
+      "athlete": "Quincy Hall",
+      "country": "USA",
+      "year": 2024,
+      "date": "7 August 2024",
+      "venue": "Saint-Denis",
+      "rank": 6
+    },
+    {
+      "mark": "43.44",
+      "athlete": "Michael Johnson",
+      "country": "USA",
+      "year": 1996,
+      "date": "19 June 1996",
+      "venue": "Atlanta",
+      "rank": 7
+    },
+    {
+      "mark": "43.44",
+      "athlete": "Matthew Hudson-Smith",
+      "country": "GBR",
+      "year": 2024,
+      "date": "7 August 2024",
+      "venue": "Saint-Denis",
+      "rank": 8
+    },
+    {
+      "mark": "43.45",
+      "athlete": "Jeremy Wariner",
+      "country": "USA",
+      "year": 2007,
+      "date": "31 August 2007",
+      "venue": "Osaka",
+      "rank": 9
+    },
+    {
+      "mark": "43.48",
+      "athlete": "van Niekerk",
+      "country": "RSA",
+      "year": 2015,
+      "date": "26 August 2015",
+      "venue": "Beijing",
+      "rank": 10
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "event": "dt_m",
+  "page": "Discus throw",
+  "gender": "men",
+  "unit": "dist",
+  "marks": [
+    {
+      "mark": "75.56",
+      "athlete": "Mykolas Alekna",
+      "country": "LTU",
+      "year": 2025,
+      "date": "13 April 2025",
+      "venue": "Ramona",
+      "rank": 1
+    },
+    {
+      "mark": "74.89",
+      "athlete": "M. Alekna",
+      "country": "LTU",
+      "year": 2025,
+      "date": "13 April 2025",
+      "venue": "Ramona",
+      "rank": 2
+    },
+    {
+      "mark": "74.78",
+      "athlete": "Matthew Denny",
+      "country": "AUS",
+      "year": 2025,
+      "date": "13 April 2025",
+      "venue": "Ramona",
+      "rank": 3
+    },
+    {
+      "mark": "74.35",
+      "athlete": "M. Alekna",
+      "country": "LTU",
+      "year": 2024,
+      "date": "14 April 2024",
+      "venue": "Ramona",
+      "rank": 4
+    },
+    {
+      "mark": "74.25",
+      "athlete": "Matthew Denny",
+      "country": "AUS",
+      "year": 2025,
+      "date": "10 April 2025",
+      "venue": "Ramona",
+      "rank": 5
+    },
+    {
+      "mark": "74.08",
+      "athlete": "Jürgen Schult",
+      "country": "GDR",
+      "year": 1986,
+      "date": "6 June 1986",
+      "venue": "Neubrandenburg",
+      "rank": 6
+    },
+    {
+      "mark": "74.04",
+      "athlete": "Matthew Denny",
+      "country": "AUS",
+      "year": 2026,
+      "date": "9 April 2026",
+      "venue": "Ramona",
+      "rank": 7
+    },
+    {
+      "mark": "74.00",
+      "athlete": "Steven Richter",
+      "country": "GER",
+      "year": 2026,
+      "date": "9 April 2026",
+      "venue": "Ramona",
+      "rank": 8
+    },
+    {
+      "mark": "73.88",
+      "athlete": "Virgilijus Alekna",
+      "country": "LTU",
+      "year": 2000,
+      "date": "3 August 2000",
+      "venue": "Kaunas",
+      "rank": 9
+    },
+    {
+      "mark": "73.58",
+      "athlete": "Matthew Denny",
+      "country": "AUS",
+      "year": 2026,
+      "date": "11 April 2026",
+      "venue": "Ramona",
+      "rank": 10
+    }
+  ]
+}

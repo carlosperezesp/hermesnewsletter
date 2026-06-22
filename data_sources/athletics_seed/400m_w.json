@@ -1,0 +1,98 @@
+{
+  "event": "400m_w",
+  "page": "400 metres",
+  "gender": "women",
+  "unit": "time",
+  "marks": [
+    {
+      "mark": "47.60",
+      "athlete": "Marita Koch",
+      "country": "GDR",
+      "year": 1985,
+      "date": "6 October 1985",
+      "venue": "Canberra",
+      "rank": 1
+    },
+    {
+      "mark": "47.78",
+      "athlete": "Sydney McLaughlin-Levrone",
+      "country": "USA",
+      "year": 2025,
+      "date": "18 September 2025",
+      "venue": "Tokyo",
+      "rank": 2
+    },
+    {
+      "mark": "47.98",
+      "athlete": "Marileidy Paulino",
+      "country": "DOM",
+      "year": 2025,
+      "date": "18 September 2025",
+      "venue": "Tokyo",
+      "rank": 3
+    },
+    {
+      "mark": "47.99",
+      "athlete": "Jarmila Kratochvílová",
+      "country": "TCH",
+      "year": 1983,
+      "date": "10 August 1983",
+      "venue": "Helsinki",
+      "rank": 4
+    },
+    {
+      "mark": "48.14",
+      "athlete": "Salwa Eid Naser",
+      "country": "BHR",
+      "year": 2019,
+      "date": "3 October 2019",
+      "venue": "Doha",
+      "rank": 5
+    },
+    {
+      "mark": "48.16",
+      "athlete": "Marita Koch",
+      "country": "GDR",
+      "year": 1982,
+      "date": "8 September 1982",
+      "venue": "Athens",
+      "rank": 6
+    },
+    {
+      "mark": "48.17",
+      "athlete": "Marileidy Paulino",
+      "country": "DOM",
+      "year": 2024,
+      "date": "9 August 2024",
+      "venue": "Saint-Denis",
+      "rank": 7
+    },
+    {
+      "mark": "48.19",
+      "athlete": "Salwa Eid Naser",
+      "country": "BHR",
+      "year": 2025,
+      "date": "18 September 2025",
+      "venue": "Tokyo",
+      "rank": 8
+    },
+    {
+      "mark": "48.22",
+      "athlete": "Marita Koch",
+      "country": "GDR",
+      "year": 1986,
+      "date": "28 August 1986",
+      "venue": "Stuttgart",
+      "rank": 9
+    },
+    {
+      "mark": "48.25",
+      "athlete": "Marie-José Pérec",
+      "country": "FRA",
+      "year": 1996,
+      "date": "29 July 1996",
+      "venue": "Atlanta",
+      "rank": 10
+    }
+  ]
+}

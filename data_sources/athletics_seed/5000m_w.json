@@ -1,0 +1,98 @@
+{
+  "event": "5000m_w",
+  "page": "5000 metres",
+  "gender": "women",
+  "unit": "time",
+  "marks": [
+    {
+      "mark": "13:58.06",
+      "athlete": "Beatrice Chebet",
+      "country": "KEN",
+      "year": 2025,
+      "date": "5 July 2025",
+      "venue": "Eugene",
+      "rank": 1
+    },
+    {
+      "mark": "14:00.21",
+      "athlete": "Gudaf Tsegay",
+      "country": "ETH",
+      "year": 2023,
+      "date": "17 September 2023",
+      "venue": "Eugene",
+      "rank": 2
+    },
+    {
+      "mark": "14:01.29",
+      "athlete": "Agnes Jebet Ngetich",
+      "country": "KEN",
+      "year": 2025,
+      "date": "5 July 2025",
+      "venue": "Eugene",
+      "rank": 3
+    },
+    {
+      "mark": "14:03.69",
+      "athlete": "Beatrice Chebet",
+      "country": "KEN",
+      "year": 2025,
+      "date": "6 June 2025",
+      "venue": "Rome",
+      "rank": 4
+    },
+    {
+      "mark": "14:04.41",
+      "athlete": "Gudaf Tsegay",
+      "country": "ETH",
+      "year": 2025,
+      "date": "5 July 2025",
+      "venue": "Eugene",
+      "rank": 5
+    },
+    {
+      "mark": "14:05.20",
+      "athlete": "Faith Kipyegon",
+      "country": "KEN",
+      "year": 2023,
+      "date": "9 June 2023",
+      "venue": "Paris",
+      "rank": 6
+    },
+    {
+      "mark": "14:05.92",
+      "athlete": "Beatrice Chebet",
+      "country": "KEN",
+      "year": 2023,
+      "date": "17 September 2023",
+      "venue": "Eugene",
+      "rank": 7
+    },
+    {
+      "mark": "14:06.62",
+      "athlete": "Letesenbet Gidey",
+      "country": "ETH",
+      "year": 2020,
+      "date": "7 October 2020",
+      "venue": "Valencia",
+      "rank": 8
+    },
+    {
+      "mark": "14:07.94",
+      "athlete": "Letesenbet Gidey",
+      "country": "ETH",
+      "year": 2023,
+      "date": "9 June 2023",
+      "venue": "Paris",
+      "rank": 9
+    },
+    {
+      "mark": "14:08.79",
+      "athlete": "Letesenbet Gidey",
+      "country": "ETH",
+      "year": 2023,
+      "date": "3 September 2023",
+      "venue": "Berlin",
+      "rank": 10
+    }
+  ]
+}

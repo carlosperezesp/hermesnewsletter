@@ -1,0 +1,97 @@
+{
+  "event": "110mh_m",
+  "page": "110 metres hurdles",
+  "gender": "men",
+  "unit": "time",
+  "marks": [
+    {
+      "rank": 1,
+      "mark": "12.75",
+      "athlete": "Ja'Kobe Tharp",
+      "country": "USA",
+      "year": 2026,
+      "date": "10 June 2026",
+      "venue": "Eugene"
+    },
+    {
+      "rank": 2,
+      "mark": "12.75",
+      "athlete": "Ja&#39;Kobe Tharp",
+      "country": "USA",
+      "year": 2026,
+      "venue": "Hayward Field"
+    },
+    {
+      "rank": 3,
+      "mark": "12.80",
+      "athlete": "Aries Merritt",
+      "country": "USA",
+      "year": 2012,
+      "date": "7 September 2012",
+      "venue": "Brussels"
+    },
+    {
+      "rank": 4,
+      "mark": "12.81",
+      "athlete": "Grant Holloway",
+      "country": "USA",
+      "year": 2021,
+      "date": "26 June 2021",
+      "venue": "Eugene"
+    },
+    {
+      "rank": 5,
+      "mark": "12.84",
+      "athlete": "Devon Allen",
+      "country": "USA",
+      "year": 2022,
+      "date": "12 June 2022",
+      "venue": "New York City"
+    },
+    {
+      "rank": 6,
+      "mark": "12.86",
+      "athlete": "Grant Holloway",
+      "country": "USA",
+      "year": 2024,
+      "date": "28 June 2024",
+      "venue": "Eugene"
+    },
+    {
+      "rank": 7,
+      "mark": "12.87",
+      "athlete": "Dayron Robles",
+      "country": "CUB",
+      "year": 2008,
+      "date": "12 June 2008",
+      "venue": "Ostrava"
+    },
+    {
+      "rank": 8,
+      "mark": "12.87",
+      "athlete": "Cordell Tinch",
+      "country": "USA",
+      "year": 2025,
+      "date": "3 May 2025",
+      "venue": "Shaoxing"
+    },
+    {
+      "rank": 9,
+      "mark": "12.88",
+      "athlete": "Liu Xiang",
+      "country": "CHN",
+      "year": 2006,
+      "date": "11 July 2006",
+      "venue": "Lausanne"
+    },
+    {
+      "rank": 10,
+      "mark": "12.88",
+      "athlete": "Dayron Robles",
+      "country": "CUB",
+      "year": 2008,
+      "date": "18 July 2008",
+      "venue": "Saint-Denis"
+    }
+  ]
+}

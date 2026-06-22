@@ -1,0 +1,98 @@
+{
+  "event": "dt_w",
+  "page": "Discus throw",
+  "gender": "women",
+  "unit": "dist",
+  "marks": [
+    {
+      "mark": "76.80",
+      "athlete": "Gabriele Reinsch",
+      "country": "GDR",
+      "year": 1988,
+      "date": "9 July 1988",
+      "venue": "Neubrandenburg",
+      "rank": 1
+    },
+    {
+      "mark": "74.56",
+      "athlete": "Zdeňka Šilhavá",
+      "country": "TCH",
+      "year": 1984,
+      "date": "26 August 1984",
+      "venue": "Nitra",
+      "rank": 2
+    },
+    {
+      "mark": "74.44",
+      "athlete": "Gabriele Reinsch",
+      "country": "GDR",
+      "year": 1988,
+      "date": "13 September 1988",
+      "venue": "Berlin",
+      "rank": 3
+    },
+    {
+      "mark": "74.40",
+      "athlete": "Ilke Wyludda",
+      "country": "GDR",
+      "year": 1988,
+      "date": "13 September 1988",
+      "venue": "Berlin",
+      "rank": 4
+    },
+    {
+      "mark": "74.08",
+      "athlete": "Diana Gansky",
+      "country": "GDR",
+      "year": 1987,
+      "date": "20 June 1987",
+      "venue": "Karl-Marx-Stadt",
+      "rank": 5
+    },
+    {
+      "mark": "73.90",
+      "athlete": "Diana Gansky",
+      "country": "GDR",
+      "year": 1987,
+      "date": "27 June 1987",
+      "venue": "Prague",
+      "rank": 6
+    },
+    {
+      "mark": "73.84",
+      "athlete": "Daniela Costian",
+      "country": "ROU",
+      "year": 1988,
+      "date": "30 April 1988",
+      "venue": "Bucharest",
+      "rank": 7
+    },
+    {
+      "mark": "73.78",
+      "athlete": "Daniela Costian",
+      "country": "ROU",
+      "year": 1988,
+      "date": "24 April 1988",
+      "venue": "Bucharest",
+      "rank": 8
+    },
+    {
+      "mark": "73.52",
+      "athlete": "Valarie Allman",
+      "country": "USA",
+      "year": 2025,
+      "date": "12 April 2025",
+      "venue": "Ramona",
+      "rank": 9
+    },
+    {
+      "mark": "73.42",
+      "athlete": "Gabriele Reinsch",
+      "country": "GDR",
+      "year": 1988,
+      "date": "12 June 1988",
+      "venue": "Karl-Marx-Stadt",
+      "rank": 10
+    }
+  ]
+}

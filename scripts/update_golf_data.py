@@ -273,6 +273,19 @@ def _fetch_pga_scoreboard(ttl_hours: float = 2.0) -> dict:
         return {}
 
 
+def _fetch_scoreboard_window(start: str, end: str, ttl_hours: float = 24.0) -> dict:
+    """ESPN scoreboard for a specific date window (e.g. a finished major's
+    week), so we can read its final leaderboard once ESPN moves on."""
+    url = f"{PGA_SCOREBOARD_URL}?dates={start.replace('-', '')}-{end.replace('-', '')}"
+    text = _fetch_url(url, ttl_hours=ttl_hours)
+    if not text or not text.lstrip().startswith("{"):
+        return {}
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        return {}
+
+
 def _norm(s: str) -> str:
     return re.sub(r"[^a-z0-9]+", " ", (s or "").lower()).strip()
 
@@ -407,6 +420,38 @@ def major_payload(today: date, current: list[dict], current_event: dict) -> dict
     return _event_payload(select_major(today), today, current, current_event, "Major")
 
 
+def select_last_major(today: date) -> dict:
+    """The most recently finished major (so its champion is never dropped when
+    CURRENT_MAJOR rolls forward to the next, far-off one)."""
+    done = [{**m, "state": _major_state(m, today)} for m in MAJORS]
+    done = [m for m in done if m["state"] == "completed"]
+    return sorted(done, key=lambda m: m["end"])[-1] if done else {}
+
+
+def last_major_payload(today: date, current_event: dict) -> dict:
+    m = select_last_major(today)
+    if not m:
+        return {}
+    # Final leaderboard: prefer the live scoreboard if it still sits on this
+    # event in "post" state; otherwise pull the major's own date window.
+    lb = []
+    if (current_event and current_event.get("state") == "post"
+            and _same_event(m["name"], current_event.get("name", ""))):
+        lb = current_event.get("leaderboard", [])
+    if not lb:
+        cur = _scoreboard_current(_fetch_scoreboard_window(m["start"], m["end"]))
+        if cur.get("state") == "post" and _same_event(m["name"], cur.get("name", "")):
+            lb = cur.get("leaderboard", [])
+    end = date.fromisoformat(m["end"])
+    return {
+        "name": _clean_event_name(m["name"]),
+        "venue": m["venue"], "location": m["location"], "surface": m["surface"],
+        "tour": m["tour"], "end": m["end"], "endLabel": end.strftime("%d %b %Y"),
+        "champion": lb[0] if lb else None,
+        "podium": lb[:5],
+    }
+
+
 def signature_payload(today: date, calendar: list[dict], current: list[dict],
                       current_event: dict) -> dict:
     sig = select_signature(calendar, today)
@@ -438,6 +483,7 @@ def write_data() -> None:
     current_event = _scoreboard_current(scoreboard)
     calendar = _calendar_events(scoreboard)
     major = major_payload(today, current, current_event)
+    last_major = last_major_payload(today, current_event)
     signature = signature_payload(today, calendar, current, current_event)
     legend_threshold = sorted((p["legendScore"] for p in legends), reverse=True)[9]
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
@@ -445,6 +491,7 @@ def write_data() -> None:
         "UPDATED": updated,
         "SEASON": CURRENT_YEAR,
         "CURRENT_MAJOR": major,
+        "LAST_MAJOR": last_major,
         "CURRENT_SIGNATURE": signature,
         "CURRENT": current,
         "PROSPECTS": build_golf_prospects(),
@@ -459,6 +506,9 @@ def write_data() -> None:
     )
     print(f"Written: {out_path}", file=sys.stderr)
     print(f"  Major: {major['name']} ({major['state']}) — {major.get('venue', '')}", file=sys.stderr)
+    if last_major:
+        champ = (last_major.get("champion") or {}).get("name", "—")
+        print(f"  Last major: {last_major['name']} → {champ} ({last_major.get('champion', {}).get('score', '')})", file=sys.stderr)
     if signature:
         print(f"  Signature: {signature['name']} ({signature['state']}) — {len(signature['leaderboard'])} lb rows", file=sys.stderr)
     print(f"  Current #1: {current[0]['name']} ({current[0]['activeScore']})", file=sys.stderr)

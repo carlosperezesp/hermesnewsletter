@@ -1,0 +1,96 @@
+{
+  "event": "pv_m",
+  "page": "Pole vault",
+  "gender": "men",
+  "unit": "dist",
+  "marks": [
+    {
+      "rank": 1,
+      "mark": "6.31",
+      "athlete": "Armand Duplantis",
+      "country": "SWE",
+      "year": 2026,
+      "venue": "IFU Arena"
+    },
+    {
+      "rank": 2,
+      "mark": "6.30",
+      "athlete": "Armand Duplantis",
+      "country": "SWE",
+      "year": 2025,
+      "date": "15 September 2025",
+      "venue": "Tokyo"
+    },
+    {
+      "rank": 3,
+      "mark": "6.29",
+      "athlete": "Armand Duplantis",
+      "country": "SWE",
+      "year": 2025,
+      "date": "12 August 2025",
+      "venue": "Budapest"
+    },
+    {
+      "rank": 4,
+      "mark": "6.28",
+      "athlete": "Armand Duplantis",
+      "country": "SWE",
+      "year": 2025,
+      "date": "15 June 2025",
+      "venue": "Stockholm"
+    },
+    {
+      "rank": 5,
+      "mark": "6.26",
+      "athlete": "Armand Duplantis",
+      "country": "SWE",
+      "year": 2024,
+      "date": "25 August 2024",
+      "venue": "Chorzów"
+    },
+    {
+      "rank": 6,
+      "mark": "6.25",
+      "athlete": "Armand Duplantis",
+      "country": "SWE",
+      "year": 2024,
+      "date": "5 August 2024",
+      "venue": "Saint-Denis"
+    },
+    {
+      "rank": 7,
+      "mark": "6.24",
+      "athlete": "Armand Duplantis",
+      "country": "SWE",
+      "year": 2024,
+      "date": "20 April 2024",
+      "venue": "Xiamen"
+    },
+    {
+      "rank": 8,
+      "mark": "6.23",
+      "athlete": "Armand Duplantis",
+      "country": "SWE",
+      "year": 2023,
+      "date": "17 September 2023",
+      "venue": "Eugene"
+    },
+    {
+      "rank": 9,
+      "mark": "6.21",
+      "athlete": "Armand Duplantis",
+      "country": "SWE",
+      "year": 2022,
+      "date": "24 July 2022",
+      "venue": "Eugene"
+    },
+    {
+      "rank": 10,
+      "mark": "6.17",
+      "athlete": "Emmanouil Karalis",
+      "country": "GRE",
+      "year": 2026,
+      "venue": "Olympic Sports Complex of Paiania"
+    }
+  ]
+}

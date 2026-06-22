@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-22 12:30 UTC
+// Auto-generated 2026-06-22 14:48 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-22 12:30 UTC",
+  "UPDATED": "2026-06-22 14:48 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -24,6 +24,59 @@ window.GOLF_DATA = {
       "Xander Schauffele",
       "Ludvig Aberg",
       "Jon Rahm"
+    ]
+  },
+  "LAST_MAJOR": {
+    "name": "U.S. Open",
+    "venue": "Shinnecock Hills Golf Club",
+    "location": "Southampton, New York",
+    "surface": "U.S. Open setup",
+    "tour": "Men",
+    "end": "2026-06-21",
+    "endLabel": "21 Jun 2026",
+    "champion": {
+      "rank": 1,
+      "name": "Wyndham Clark",
+      "country": "USA",
+      "score": "-4",
+      "today": "+3"
+    },
+    "podium": [
+      {
+        "rank": 1,
+        "name": "Wyndham Clark",
+        "country": "USA",
+        "score": "-4",
+        "today": "+3"
+      },
+      {
+        "rank": 2,
+        "name": "Sam Burns",
+        "country": "USA",
+        "score": "-3",
+        "today": "-3"
+      },
+      {
+        "rank": 3,
+        "name": "Tom Kim",
+        "country": "South Korea",
+        "score": "-1",
+        "today": "E"
+      },
+      {
+        "rank": 4,
+        "name": "J.T. Poston",
+        "country": "USA",
+        "score": "E",
+        "today": "-3"
+      },
+      {
+        "rank": 5,
+        "name": "Keith Mitchell",
+        "country": "USA",
+        "score": "E",
+        "today": "E"
+      }
     ]
   },
   "CURRENT_SIGNATURE": {

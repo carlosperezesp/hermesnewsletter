@@ -1,0 +1,98 @@
+{
+  "event": "400mh_m",
+  "page": "400 metres hurdles",
+  "gender": "men",
+  "unit": "time",
+  "marks": [
+    {
+      "mark": "45.94",
+      "athlete": "Karsten Warholm",
+      "country": "NOR",
+      "year": 2021,
+      "date": "3 August 2021",
+      "venue": "Tokyo",
+      "rank": 1
+    },
+    {
+      "mark": "46.17",
+      "athlete": "Rai Benjamin",
+      "country": "USA",
+      "year": 2021,
+      "date": "3 August 2021",
+      "venue": "Tokyo",
+      "rank": 2
+    },
+    {
+      "mark": "46.28",
+      "athlete": "Karsten Warholm",
+      "country": "NOR",
+      "year": 2025,
+      "date": "16 August 2025",
+      "venue": "Chorzów",
+      "rank": 3
+    },
+    {
+      "mark": "46.29",
+      "athlete": "Alison dos Santos",
+      "country": "BRA",
+      "year": 2022,
+      "date": "19 July 2022",
+      "venue": "Eugene",
+      "rank": 4
+    },
+    {
+      "mark": "46.39",
+      "athlete": "Rai Benjamin",
+      "country": "USA",
+      "year": 2023,
+      "date": "16 September 2023",
+      "venue": "Eugene",
+      "rank": 5
+    },
+    {
+      "mark": "46.46",
+      "athlete": "Rai Benjamin",
+      "country": "USA",
+      "year": 2024,
+      "date": "30 June 2024",
+      "venue": "Eugene",
+      "rank": 6
+    },
+    {
+      "mark": "46.51",
+      "athlete": "Karsten Warholm",
+      "country": "NOR",
+      "year": 2023,
+      "date": "21 July 2023",
+      "venue": "Monaco",
+      "rank": 7
+    },
+    {
+      "mark": "46.52",
+      "athlete": "Karsten Warholm",
+      "country": "NOR",
+      "year": 2023,
+      "date": "15 June 2023",
+      "venue": "Oslo",
+      "rank": 8
+    },
+    {
+      "mark": "46.53",
+      "athlete": "Karsten Warholm",
+      "country": "NOR",
+      "year": 2023,
+      "date": "16 September 2023",
+      "venue": "Eugene",
+      "rank": 9
+    },
+    {
+      "mark": "46.54",
+      "athlete": "Rai Benjamin",
+      "country": "USA",
+      "year": 2025,
+      "date": "15 June 2025",
+      "venue": "Stockholm",
+      "rank": 10
+    }
+  ]
+}

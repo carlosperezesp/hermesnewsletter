@@ -1,0 +1,98 @@
+{
+  "event": "hj_m",
+  "page": "High jump",
+  "gender": "men",
+  "unit": "dist",
+  "marks": [
+    {
+      "mark": "2.45",
+      "athlete": "Javier Sotomayor",
+      "country": "CUB",
+      "year": 1993,
+      "date": "27 July 1993",
+      "venue": "Salamanca",
+      "rank": 1
+    },
+    {
+      "mark": "2.44",
+      "athlete": "Javier Sotomayor",
+      "country": "CUB",
+      "year": 1989,
+      "date": "29 July 1989",
+      "venue": "San Juan",
+      "rank": 2
+    },
+    {
+      "mark": "2.43",
+      "athlete": "Javier Sotomayor",
+      "country": "CUB",
+      "year": 1988,
+      "date": "8 September 1988",
+      "venue": "Salamanca",
+      "rank": 3
+    },
+    {
+      "mark": "2.43",
+      "athlete": "Mutaz Essa Barshim",
+      "country": "QAT",
+      "year": 2014,
+      "date": "5 September 2014",
+      "venue": "Brussels",
+      "rank": 4
+    },
+    {
+      "mark": "2.42",
+      "athlete": "Patrik Sjöberg",
+      "country": "SWE",
+      "year": 1987,
+      "date": "30 June 1987",
+      "venue": "Stockholm",
+      "rank": 5
+    },
+    {
+      "mark": "2.42",
+      "athlete": "Javier Sotomayor",
+      "country": "CUB",
+      "year": 1994,
+      "date": "5 June 1994",
+      "venue": "Seville",
+      "rank": 6
+    },
+    {
+      "mark": "2.42",
+      "athlete": "Bohdan Bondarenko",
+      "country": "UKR",
+      "year": 2014,
+      "date": "14 June 2014",
+      "venue": "New York City",
+      "rank": 7
+    },
+    {
+      "mark": "2.42",
+      "athlete": "Mutaz Essa Barshim",
+      "country": "QAT",
+      "year": 2014,
+      "date": "14 June 2014",
+      "venue": "New York City",
+      "rank": 8
+    },
+    {
+      "mark": "2.41",
+      "athlete": "Igor Paklin",
+      "country": "URS",
+      "year": 1985,
+      "date": "4 September 1985",
+      "venue": "Kobe",
+      "rank": 9
+    },
+    {
+      "mark": "2.41",
+      "athlete": "Javier Sotomayor",
+      "country": "CUB",
+      "year": 1994,
+      "date": "25 June 1994",
+      "venue": "Havana",
+      "rank": 10
+    }
+  ]
+}
