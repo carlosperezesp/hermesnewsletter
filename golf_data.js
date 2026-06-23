@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-23 10:08 UTC
+// Auto-generated 2026-06-23 10:10 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-23 10:08 UTC",
+  "UPDATED": "2026-06-23 10:10 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -37,45 +37,63 @@ window.GOLF_DATA = {
     "champion": {
       "rank": 1,
       "name": "Wyndham Clark",
+      "id": "11119",
       "country": "USA",
       "score": "-4",
-      "today": "+3"
+      "today": "+3",
+      "nivel": 94,
+      "legend": 11.4
     },
     "podium": [
       {
         "rank": 1,
         "name": "Wyndham Clark",
+        "id": "11119",
         "country": "USA",
         "score": "-4",
-        "today": "+3"
+        "today": "+3",
+        "nivel": 94,
+        "legend": 11.4
       },
       {
         "rank": 2,
         "name": "Sam Burns",
+        "id": "9938",
         "country": "USA",
         "score": "-3",
-        "today": "-3"
+        "today": "-3",
+        "nivel": 96,
+        "legend": 0.0
       },
       {
         "rank": 3,
         "name": "Tom Kim",
+        "id": "4602673",
         "country": "South Korea",
         "score": "-1",
-        "today": "E"
+        "today": "E",
+        "nivel": 92,
+        "legend": 0.0
       },
       {
         "rank": 4,
         "name": "J.T. Poston",
+        "id": "10505",
         "country": "USA",
         "score": "E",
-        "today": "-3"
+        "today": "-3",
+        "nivel": 64,
+        "legend": 0.0
       },
       {
         "rank": 5,
         "name": "Keith Mitchell",
+        "id": "8906",
         "country": "USA",
         "score": "E",
-        "today": "E"
+        "today": "E",
+        "nivel": 91,
+        "legend": 0.0
       }
     ]
   },

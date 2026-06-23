@@ -129,6 +129,56 @@ def _legend_raw(majors: int, wins: int, dominance: int) -> float:
     return majors * W_LEGEND["major"] + wins * W_LEGEND["win"] + dominance * W_LEGEND["dominance"]
 
 
+# ── Podium enrichment: Nivel (current form) + Leyenda (legacy) for ANY golfer ──
+# Career majors for likely podium names that aren't in the curated CURRENT/LEGEND
+# pools. Kept small and to well-known champions; everyone else defaults to 0.
+CAREER_MAJORS = {
+    "Wyndham Clark": 2, "Brooks Koepka": 5, "Jordan Spieth": 3,
+    "Justin Thomas": 2, "Shane Lowry": 1, "Matt Fitzpatrick": 1,
+    "Cameron Smith": 1, "Brian Harman": 1, "J.J. Spaun": 1,
+    "Keegan Bradley": 1, "Adam Scott": 1, "Sergio Garcia": 1,
+    "Jason Day": 1, "Gary Woodland": 1, "Phil Mickelson": 6,
+}
+_RAW_MAJORS = {r[0]: r[4] for r in CURRENT_RAW}          # name -> career majors
+_RAW_MAJORS.update({r[0]: r[3] for r in LEGENDS_RAW})
+
+
+def _career_majors(name: str) -> int:
+    if name in _RAW_MAJORS:
+        return _RAW_MAJORS[name]
+    return CAREER_MAJORS.get(name, 0)
+
+
+def _leyenda(majors: int) -> float:
+    # Same scale as the curated legendScore (majors are the dominant term);
+    # other terms unknown for arbitrary players, so this is a majors-floor.
+    return round(min(72.0, _legend_raw(majors, 0, 0) / 210 * 100), 1)
+
+
+def _nivel_from_rank(rank: int | None) -> int | None:
+    # Season scoring-average rank → 0-100 "current level". Rank 1 ≈ 100.
+    if not rank:
+        return None
+    return round(max(45, 100 - (rank - 1) * 0.55))
+
+
+def _athlete_scoring_rank(athlete_id) -> int | None:
+    """Player's season scoring-average rank from ESPN (proxy for current form)."""
+    if not athlete_id:
+        return None
+    url = (f"https://site.web.api.espn.com/apis/common/v3/sports/golf/pga/"
+           f"athletes/{athlete_id}")
+    text = _fetch_url(url, ttl_hours=24.0)
+    if not text or not text.lstrip().startswith("{"):
+        return None
+    try:
+        stats = json.loads(text)["athlete"]["statsSummary"]["statistics"]
+    except (json.JSONDecodeError, KeyError, TypeError):
+        return None
+    sa = next((s for s in stats if s.get("name") == "scoringAverage"), None)
+    return sa.get("rank") if sa else None
+
+
 def _player_base(name: str, cc3: str, tour: str, primary: str | None = None) -> dict:
     return {
         "id": _slug(name),
@@ -330,6 +380,7 @@ def _parse_leaderboard(competitors: list, limit: int = 10) -> list[dict]:
         rows.append({
             "rank": c.get("order") or i + 1,
             "name": name,
+            "id": c.get("id"),  # ESPN athlete id — used to fetch season form
             "country": (ath.get("flag") or {}).get("alt", ""),
             "score": score or "",
             "today": today,
@@ -443,12 +494,18 @@ def last_major_payload(today: date, current_event: dict) -> dict:
         if cur.get("state") == "post" and _same_event(m["name"], cur.get("name", "")):
             lb = cur.get("leaderboard", [])
     end = date.fromisoformat(m["end"])
+    podium = lb[:5]
+    # Nivel (current form from ESPN season stats) + Leyenda (career majors) for
+    # every podium player, so over/under-performance is visible at a glance.
+    for row in podium:
+        row["nivel"] = _nivel_from_rank(_athlete_scoring_rank(row.get("id")))
+        row["legend"] = _leyenda(_career_majors(row["name"]))
     return {
         "name": _clean_event_name(m["name"]),
         "venue": m["venue"], "location": m["location"], "surface": m["surface"],
         "tour": m["tour"], "end": m["end"], "endLabel": end.strftime("%d %b %Y"),
-        "champion": lb[0] if lb else None,
-        "podium": lb[:5],
+        "champion": podium[0] if podium else None,
+        "podium": podium,
     }
 
 
