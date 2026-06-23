@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-23 15:41 UTC
+// Auto-generated 2026-06-23 16:14 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-23 15:41 UTC",
+  "UPDATED": "2026-06-23 16:14 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1735,7 +1735,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 61.1
@@ -2278,9 +2278,9 @@ window.TENNIS_DATA = {
       "prevListRank": 67,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 58.6
     },
@@ -4613,7 +4613,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 41.2
@@ -6889,7 +6889,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 63.7
@@ -7399,7 +7399,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 58.0
@@ -11040,7 +11040,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Roman Andres Burruchaga",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 4-6 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": 41.1,
@@ -11236,15 +11236,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Harriet Dart",
+          "w": "Zeynep Sonmez",
           "w_logo": "",
-          "l": "Zeynep Sonmez",
+          "l": "Harriet Dart",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-2 7-5",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 59.5,
+          "w_score": 59.5,
+          "l_score": null,
           "match_score": 59.5
         },
         {
@@ -11306,7 +11306,6 @@ window.TENNIS_DATA = {
       "Juan Manuel Cerundolo",
       "Mattia Bellucci",
       "Quentin Halys",
-      "Roman Andres Burruchaga",
       "Taylor Fritz",
       "Thiago Agustin Tirante",
       "Toby Samuel",
@@ -11323,10 +11322,11 @@ window.TENNIS_DATA = {
       "Marcos Giron",
       "Matteo Arnaldi",
       "Raphael Collignon",
+      "Roman Andres Burruchaga",
       "Terence Atmane"
     ],
-    "aliveCount": 19,
-    "matchesSeen": 17
+    "aliveCount": 18,
+    "matchesSeen": 18
   },
   "WTA_TOURNAMENT": {
     "name": "Lexus Eastbourne Open · Wimbledon",
@@ -11352,7 +11352,6 @@ window.TENNIS_DATA = {
       "Barbora Krejcikova",
       "Catherine McNally",
       "Emiliana Arango",
-      "Harriet Dart",
       "Jelena Ostapenko",
       "Jessica Bouzas Maneiro",
       "Kimberly Birrell",
@@ -11374,6 +11373,7 @@ window.TENNIS_DATA = {
       "Elisabetta Cocciaretto",
       "Francesca Jones",
       "Hannah Klugman",
+      "Harriet Dart",
       "Janice Tjen",
       "Jasmine Paolini",
       "Laura Siegemund",
@@ -11381,8 +11381,8 @@ window.TENNIS_DATA = {
       "Talia Gibson",
       "Yuliia Starodubtseva"
     ],
-    "aliveCount": 18,
-    "matchesSeen": 22
+    "aliveCount": 17,
+    "matchesSeen": 23
   },
   "ATP_SCORE_LOG": {
     "206173": [
