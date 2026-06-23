@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-23 21:53 UTC
+// Auto-generated 2026-06-23 22:47 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-23 21:53 UTC",
+  "UPDATED": "2026-06-23 22:47 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-06-23 21:53 UTC"
+    "through": "2026-06-23 22:47 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -83,15 +83,15 @@ window.FOOTBALL_DATA = {
         "secondary": "#CE1124"
       },
       "rank": 4,
-      "elo": 2040,
-      "eloScore": 86.5,
+      "elo": 2020,
+      "eloScore": 84.3,
       "sourceRank": 4,
       "worldCups": 1,
       "continentalTitles": 0,
       "note": "Finalista de Euro; rating alto por consistencia ante élite UEFA.",
       "eloPrev": 2017,
-      "recentDelta": 23.4,
-      "recentMatches": 1,
+      "recentDelta": 2.6,
+      "recentMatches": 2,
       "nextMatch": {
         "date": "2026-06-23",
         "round": 2,
@@ -267,6 +267,35 @@ window.FOOTBALL_DATA = {
         "eloAfter": 1600,
         "delta": -13.3,
         "result": "L"
+      }
+    },
+    {
+      "id": "760458",
+      "date": "2026-06-23",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "ENG"
+      ],
+      "home": {
+        "code": "ENG",
+        "name": "Inglaterra",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+        "score": 0,
+        "eloBefore": 2040,
+        "eloAfter": 2020,
+        "delta": -20.8,
+        "result": "D"
+      },
+      "away": {
+        "code": "GHA",
+        "name": "Ghana",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gha.png",
+        "score": 0,
+        "eloBefore": 1744,
+        "eloAfter": 1765,
+        "delta": 20.8,
+        "result": "D"
       }
     },
     {
@@ -836,7 +865,7 @@ window.FOOTBALL_DATA = {
         "group": "L",
         "venue": "Gillette Stadium",
         "city": "Boston",
-        "homeElo": 2040,
+        "homeElo": 2020,
         "awayElo": 1720
       },
       {
@@ -1169,15 +1198,15 @@ window.FOOTBALL_DATA = {
           "secondary": "#CE1124"
         },
         "rank": 4,
-        "elo": 2040,
-        "eloScore": 86.5,
+        "elo": 2020,
+        "eloScore": 84.3,
         "sourceRank": 4,
         "worldCups": 1,
         "continentalTitles": 0,
         "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
         "eloPrev": 2017,
-        "recentDelta": 23.4,
-        "recentMatches": 1,
+        "recentDelta": 2.6,
+        "recentMatches": 2,
         "nextMatch": {
           "date": "2026-06-23",
           "round": 2,
@@ -1189,7 +1218,7 @@ window.FOOTBALL_DATA = {
           "type": "Mundial 2026"
         },
         "dynastyPotential": 100.0,
-        "rawDynastyPotential": 56.1,
+        "rawDynastyPotential": 55.0,
         "gapToDynastyTop10": 0.0,
         "cycleYears": 2.4,
         "currentWorldCups": 0,
