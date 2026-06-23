@@ -3763,7 +3763,7 @@ function NewsletterApp() {
               : "Último Signature Event completado";
           const majorTour = "Men's Major";
           const golfMeta = p => `${p.stats?.tour || p.teamCode} · ${p.country}`;
-          const currentNote = p => `${p.stats?.majors || 0} majors · ${p.stats?.eliteWins || 0} victorias élite · ${p.stats?.majorTop10 || 0} top-10 major`;
+          const currentNote = p => `${p.stats?.majors || 0} majors · ${p.stats?.wins || 0} victorias 2026 · ${p.stats?.topTen || 0} top-10 2026`;
           const legendNote = p => `${p.stats?.majors || 0} majors · ${p.stats?.wins || 0} victorias · dominio ${p.stats?.dominance || 0}`;
           return (
             <>
@@ -3907,7 +3907,7 @@ function NewsletterApp() {
               <NewsletterSection
                 kicker="Golf · Actuales"
                 title="Top 10 golfistas actuales"
-                sub="Score activo PGA: ranking, forma de majors, victorias élite y consistencia reciente."
+                sub="Nivel = forma de la temporada (FedEx Cup); Leyenda = majors de carrera. Solo PGA Tour (no LIV)."
               >
                 <div className="newsletter-list">
                   {current.map((p, i) => (

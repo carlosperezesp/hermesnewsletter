@@ -23,6 +23,24 @@ CC3_TO_CC2 = {
     "ESP": "es", "JPN": "jp", "KOR": "kr", "SWE": "se", "NOR": "no", "AUS": "au",
     "NZL": "nz", "CAN": "ca", "FRA": "fr", "GER": "de", "RSA": "za", "THA": "th",
     "CHN": "cn", "IRL": "ie", "MEX": "mx", "ITA": "it", "DEN": "dk", "BEL": "be",
+    "AUT": "at", "NED": "nl", "ARG": "ar", "CHI": "cl", "COL": "co", "VEN": "ve",
+    "TPE": "tw", "IND": "in", "PHI": "ph", "FIJ": "fj", "ZIM": "zw", "FIN": "fi",
+    "POR": "pt", "PUR": "pr",
+}
+
+# ESPN reports the FedEx-standings nationality as a full name — map it to cc3.
+NAME_TO_CC3 = {
+    "United States": "USA", "USA": "USA", "England": "ENG", "Scotland": "SCO",
+    "Wales": "WAL", "Northern Ireland": "NIR", "Ireland": "IRL",
+    "South Korea": "KOR", "Korea": "KOR", "Japan": "JPN", "Sweden": "SWE",
+    "Norway": "NOR", "Denmark": "DEN", "Finland": "FIN", "Spain": "ESP",
+    "France": "FRA", "Germany": "GER", "Italy": "ITA", "Austria": "AUT",
+    "Belgium": "BEL", "Netherlands": "NED", "Portugal": "POR", "Australia": "AUS",
+    "New Zealand": "NZL", "Canada": "CAN", "South Africa": "RSA",
+    "Argentina": "ARG", "Chile": "CHI", "Mexico": "MEX", "Colombia": "COL",
+    "Venezuela": "VEN", "China": "CHN", "Chinese Taipei": "TPE", "Taiwan": "TPE",
+    "India": "IND", "Thailand": "THA", "Philippines": "PHI", "Fiji": "FIJ",
+    "Zimbabwe": "ZIM", "Puerto Rico": "PUR",
 }
 
 COUNTRY_COLORS = {
@@ -31,7 +49,10 @@ COUNTRY_COLORS = {
     "NOR": "#EF2B2D", "AUS": "#00008B", "NZL": "#00247D", "CAN": "#FF0000",
     "FRA": "#002395", "GER": "#000000", "RSA": "#007749", "THA": "#A51931",
     "CHN": "#DE2910", "IRL": "#169B62", "MEX": "#006341", "ITA": "#009246",
-    "DEN": "#C60C30", "BEL": "#000000",
+    "DEN": "#C60C30", "BEL": "#000000", "AUT": "#ED2939", "NED": "#AE1C28",
+    "ARG": "#74ACDF", "CHI": "#0039A6", "COL": "#FCD116", "VEN": "#CF142B",
+    "TPE": "#000095", "IND": "#FF9933", "PHI": "#0038A8", "FIN": "#003580",
+    "POR": "#006600", "WAL": "#00AB39", "PUR": "#0050A4",
 }
 
 
@@ -155,28 +176,67 @@ def _leyenda(majors: int) -> float:
     return round(min(72.0, _legend_raw(majors, 0, 0) / 210 * 100), 1)
 
 
-def _nivel_from_rank(rank: int | None) -> int | None:
-    # Season scoring-average rank → 0-100 "current level". Rank 1 ≈ 100.
+def _nivel_from_fedex_rank(rank: int | None) -> int | None:
+    # FedEx Cup standing → 0-100 "current level" (current-season form). Rank 1 ≈ 100.
     if not rank:
         return None
-    return round(max(45, 100 - (rank - 1) * 0.55))
+    return round(max(48, 100 - (rank - 1) * 0.85))
 
 
-def _athlete_scoring_rank(athlete_id) -> int | None:
-    """Player's season scoring-average rank from ESPN (proxy for current form)."""
-    if not athlete_id:
-        return None
-    url = (f"https://site.web.api.espn.com/apis/common/v3/sports/golf/pga/"
-           f"athletes/{athlete_id}")
-    text = _fetch_url(url, ttl_hours=24.0)
-    if not text or not text.lstrip().startswith("{"):
-        return None
+def _to_int(s) -> int:
     try:
-        stats = json.loads(text)["athlete"]["statsSummary"]["statistics"]
-    except (json.JSONDecodeError, KeyError, TypeError):
-        return None
-    sa = next((s for s in stats if s.get("name") == "scoringAverage"), None)
-    return sa.get("rank") if sa else None
+        return int(float(str(s).replace(",", "")))
+    except (ValueError, TypeError):
+        return 0
+
+
+# FedEx Cup standings (season-long form): the SINGLE source for both the current
+# top-10 list and per-player Nivel, so they always agree. NB: PGA Tour only —
+# LIV players (Rahm, DeChambeau…) earn no FedEx points and won't appear.
+FEDEX_STATS = ("https://site.web.api.espn.com/apis/common/v3/sports/golf/pga/"
+               "statistics/byathlete?limit=50")
+_FEDEX_CACHE: "list[dict] | None" = None
+
+
+def fetch_fedex_standings() -> "list[dict]":
+    global _FEDEX_CACHE
+    if _FEDEX_CACHE is not None:
+        return _FEDEX_CACHE
+    players: list[dict] = []
+    for page in range(1, 10):
+        text = _fetch_url(FEDEX_STATS + (f"&page={page}" if page > 1 else ""),
+                          ttl_hours=12.0)
+        if not text or not text.lstrip().startswith("{"):
+            continue
+        try:
+            athletes = json.loads(text).get("athletes", [])
+        except json.JSONDecodeError:
+            continue
+        for a in athletes:
+            ath = a.get("athlete") or {}
+            tot = ((a.get("categories") or [{}])[0]).get("totals") or []
+            if len(tot) < 8:
+                continue
+            cc_name = (ath.get("flag") or {}).get("alt") or ath.get("citizenship") or ""
+            players.append({
+                "id": str(ath.get("id") or ""),
+                "name": ath.get("displayName") or "",
+                "cc3": NAME_TO_CC3.get(cc_name, ""),
+                "points": float(_to_int(tot[1])),
+                "wins": _to_int(tot[6]), "topTen": _to_int(tot[5]),
+            })
+    players.sort(key=lambda p: p["points"], reverse=True)
+    for i, p in enumerate(players, 1):
+        p["rank"] = i
+    _FEDEX_CACHE = players
+    return players
+
+
+def _fedex_rank(name: str | None = None, athlete_id=None) -> int | None:
+    for p in fetch_fedex_standings():
+        if (athlete_id and p["id"] == str(athlete_id)) or (name and p["name"] == name):
+            return p["rank"]
+    return None
 
 
 def _player_base(name: str, cc3: str, tour: str, primary: str | None = None) -> dict:
@@ -209,20 +269,23 @@ def build_legends(prev: dict[str, int]) -> list[dict]:
     return out
 
 
-def build_current(prev: dict[str, int], legends: list[dict]) -> list[dict]:
-    legend_by_name = {p["name"]: p["legendScore"] for p in legends}
+def build_current(prev: dict[str, int]) -> list[dict]:
+    """Top current golfers by FedEx Cup form. Nivel = FedEx standing; Leyenda =
+    career majors — the same two measures used on the major podium, so a player's
+    numbers are identical wherever they appear."""
     out = []
-    for name, cc3, tour, rank_pts, majors, elite_wins, major_top10, active_seed in CURRENT_RAW:
-        p = _player_base(name, cc3, tour)
-        raw_legend = _legend_raw(majors, elite_wins, major_top10 * 4)
-        p.update({
-            "activeScore": round(active_seed, 1),
-            "legendScore": round(legend_by_name.get(name, min(72.0, raw_legend / 210 * 100)), 1),
-            "stats": {"majors": majors, "eliteWins": elite_wins, "majorTop10": major_top10, "rankPoints": rank_pts, "tour": tour},
-            "prevRank": prev.get(_slug(name)),
+    for p in fetch_fedex_standings()[:12]:
+        majors = _career_majors(p["name"])
+        base = _player_base(p["name"], p["cc3"] or "USA", "PGA")
+        base.update({
+            "activeScore": _nivel_from_fedex_rank(p["rank"]),
+            "legendScore": _leyenda(majors),
+            "stats": {"majors": majors, "wins": p["wins"], "topTen": p["topTen"],
+                      "fedexRank": p["rank"], "tour": "PGA"},
+            "prevRank": prev.get(_slug(p["name"])),
         })
-        out.append(p)
-    return sorted(out, key=lambda p: p["activeScore"], reverse=True)
+        out.append(base)
+    return out  # already best-first (FedEx order)
 
 
 # Jóvenes promesa: lista curada (como el resto del roster de golf, que es manual).
@@ -498,7 +561,8 @@ def last_major_payload(today: date, current_event: dict) -> dict:
     # Nivel (current form from ESPN season stats) + Leyenda (career majors) for
     # every podium player, so over/under-performance is visible at a glance.
     for row in podium:
-        row["nivel"] = _nivel_from_rank(_athlete_scoring_rank(row.get("id")))
+        row["nivel"] = _nivel_from_fedex_rank(
+            _fedex_rank(name=row["name"], athlete_id=row.get("id")))
         row["legend"] = _leyenda(_career_majors(row["name"]))
     return {
         "name": _clean_event_name(m["name"]),
@@ -533,7 +597,7 @@ def write_data() -> None:
     prev_legends = _prev_rank_map(out_path, "GOLF_DATA", "LEGENDS")
     prev_road = _prev_rank_map(out_path, "GOLF_DATA", "ROAD_TO_GLORY")
     legends = build_legends(prev_legends)
-    current = build_current(prev_current, legends)
+    current = build_current(prev_current)
     road = build_road_to_glory(prev_road, current, legends)
     today = date.today()
     scoreboard = _fetch_pga_scoreboard()
