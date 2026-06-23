@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-22 12:30 UTC
+// Auto-generated 2026-06-23 06:16 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-06-22 12:30 UTC",
+  "UPDATED": "2026-06-23 06:16 UTC",
   "SEASON": "2026",
   "ROUND": 8,
   "TOTAL_ROUNDS": 22,
@@ -21,7 +21,7 @@ window.MOTOGP_DATA = {
         "pts": 180.0
       },
       "seasonPct": 32.7,
-      "prevRank": null,
+      "prevRank": 1,
       "age": 28
     },
     {
@@ -38,7 +38,7 @@ window.MOTOGP_DATA = {
         "pts": 172.0
       },
       "seasonPct": 31.3,
-      "prevRank": null,
+      "prevRank": 2,
       "age": 28
     },
     {
@@ -55,7 +55,7 @@ window.MOTOGP_DATA = {
         "pts": 157.0
       },
       "seasonPct": 28.5,
-      "prevRank": null,
+      "prevRank": 3,
       "age": 28
     },
     {
@@ -72,7 +72,7 @@ window.MOTOGP_DATA = {
         "pts": 140.0
       },
       "seasonPct": 25.5,
-      "prevRank": null,
+      "prevRank": 4,
       "age": 33
     },
     {
@@ -89,7 +89,7 @@ window.MOTOGP_DATA = {
         "pts": 134.0
       },
       "seasonPct": 24.4,
-      "prevRank": null,
+      "prevRank": 5,
       "age": 25
     },
     {
@@ -106,7 +106,7 @@ window.MOTOGP_DATA = {
         "pts": 132.0
       },
       "seasonPct": 24.0,
-      "prevRank": null,
+      "prevRank": 6,
       "age": 22
     },
     {
@@ -123,7 +123,7 @@ window.MOTOGP_DATA = {
         "pts": 127.0
       },
       "seasonPct": 23.1,
-      "prevRank": null,
+      "prevRank": 7,
       "age": 29
     },
     {
@@ -140,7 +140,7 @@ window.MOTOGP_DATA = {
         "pts": 106.0
       },
       "seasonPct": 19.3,
-      "prevRank": null,
+      "prevRank": 8,
       "age": 26
     },
     {
@@ -157,7 +157,7 @@ window.MOTOGP_DATA = {
         "pts": 76.0
       },
       "seasonPct": 13.8,
-      "prevRank": null,
+      "prevRank": 9,
       "age": 21
     },
     {
@@ -174,7 +174,7 @@ window.MOTOGP_DATA = {
         "pts": 67.0
       },
       "seasonPct": 12.2,
-      "prevRank": null,
+      "prevRank": 10,
       "age": 30
     }
   ],
@@ -233,7 +233,7 @@ window.MOTOGP_DATA = {
         "poles": 63,
         "birth": 1993
       },
-      "prevRank": null,
+      "prevRank": 3,
       "gap": 0.0,
       "threshold": 29.1,
       "note": "Ya en zona top 10 histórico · 6 títulos · 65 victorias"
@@ -254,7 +254,7 @@ window.MOTOGP_DATA = {
         "poles": 26,
         "birth": 1997
       },
-      "prevRank": null,
+      "prevRank": 10,
       "gap": 0.0,
       "threshold": 29.1,
       "note": "Ya en zona top 10 histórico · 2 títulos · 31 victorias"
@@ -275,7 +275,7 @@ window.MOTOGP_DATA = {
         "poles": 20,
         "birth": 1988
       },
-      "prevRank": null,
+      "prevRank": 12,
       "gap": 14.2,
       "threshold": 29.1,
       "note": "A 14.2 del top 10 histórico · 1 título · 14 victorias"
@@ -332,7 +332,7 @@ window.MOTOGP_DATA = {
         "poles": 54,
         "birth": 1942
       },
-      "prevRank": null
+      "prevRank": 1
     },
     {
       "id": "valentino_rossi",
@@ -350,7 +350,7 @@ window.MOTOGP_DATA = {
         "poles": 65,
         "birth": 1979
       },
-      "prevRank": null
+      "prevRank": 2
     },
     {
       "id": "marc_marquez",
@@ -368,7 +368,7 @@ window.MOTOGP_DATA = {
         "poles": 63,
         "birth": 1993
       },
-      "prevRank": null
+      "prevRank": 3
     },
     {
       "id": "mick_doohan",
@@ -386,7 +386,7 @@ window.MOTOGP_DATA = {
         "poles": 58,
         "birth": 1965
       },
-      "prevRank": null
+      "prevRank": 4
     },
     {
       "id": "eddie_lawson",
@@ -404,7 +404,7 @@ window.MOTOGP_DATA = {
         "poles": 18,
         "birth": 1958
       },
-      "prevRank": null
+      "prevRank": 5
     },
     {
       "id": "jorge_lorenzo",
@@ -422,7 +422,7 @@ window.MOTOGP_DATA = {
         "poles": 65,
         "birth": 1987
       },
-      "prevRank": null
+      "prevRank": 6
     },
     {
       "id": "kenny_roberts",
@@ -440,7 +440,7 @@ window.MOTOGP_DATA = {
         "poles": 22,
         "birth": 1951
       },
-      "prevRank": null
+      "prevRank": 7
     },
     {
       "id": "wayne_rainey",
@@ -458,7 +458,7 @@ window.MOTOGP_DATA = {
         "poles": 19,
         "birth": 1960
       },
-      "prevRank": null
+      "prevRank": 8
     },
     {
       "id": "casey_stoner",
@@ -476,7 +476,7 @@ window.MOTOGP_DATA = {
         "poles": 56,
         "birth": 1985
       },
-      "prevRank": null
+      "prevRank": 9
     },
     {
       "id": "francesco_bagnaia",
@@ -494,7 +494,7 @@ window.MOTOGP_DATA = {
         "poles": 26,
         "birth": 1997
       },
-      "prevRank": null
+      "prevRank": 10
     },
     {
       "id": "kevin_schwantz",
@@ -512,7 +512,7 @@ window.MOTOGP_DATA = {
         "poles": 25,
         "birth": 1964
       },
-      "prevRank": null
+      "prevRank": 11
     },
     {
       "id": "jorge_martín",
@@ -530,7 +530,7 @@ window.MOTOGP_DATA = {
         "poles": 20,
         "birth": 1988
       },
-      "prevRank": null
+      "prevRank": 12
     }
   ]
 };

@@ -764,7 +764,7 @@ window.NFL_DATA = {
         "rushYds": 1,
         "rushTd": 0
       },
-      "prevRank": null
+      "prevRank": 1
     },
     {
       "id": 3046779,
@@ -790,7 +790,7 @@ window.NFL_DATA = {
         "rushYds": 45,
         "rushTd": 1
       },
-      "prevRank": null
+      "prevRank": 2
     },
     {
       "id": 4431452,
@@ -816,7 +816,7 @@ window.NFL_DATA = {
         "rushYds": 450,
         "rushTd": 2
       },
-      "prevRank": null
+      "prevRank": 3
     },
     {
       "id": 2577417,
@@ -842,7 +842,7 @@ window.NFL_DATA = {
         "rushYds": 177,
         "rushTd": 0
       },
-      "prevRank": null
+      "prevRank": 4
     },
     {
       "id": 4431611,
@@ -868,7 +868,7 @@ window.NFL_DATA = {
         "rushYds": 388,
         "rushTd": 2
       },
-      "prevRank": null
+      "prevRank": 5
     },
     {
       "id": 4360310,
@@ -894,7 +894,7 @@ window.NFL_DATA = {
         "rushYds": 359,
         "rushTd": 2
       },
-      "prevRank": null
+      "prevRank": 6
     },
     {
       "id": 4426338,
@@ -920,7 +920,7 @@ window.NFL_DATA = {
         "rushYds": 356,
         "rushTd": 3
       },
-      "prevRank": null
+      "prevRank": 7
     },
     {
       "id": 3052587,
@@ -946,7 +946,7 @@ window.NFL_DATA = {
         "rushYds": 382,
         "rushTd": 5
       },
-      "prevRank": null
+      "prevRank": 8
     },
     {
       "id": 4040715,
@@ -972,7 +972,7 @@ window.NFL_DATA = {
         "rushYds": 421,
         "rushTd": 2
       },
-      "prevRank": null
+      "prevRank": 9
     },
     {
       "id": 3918298,
@@ -998,7 +998,7 @@ window.NFL_DATA = {
         "rushYds": 579,
         "rushTd": 5
       },
-      "prevRank": null
+      "prevRank": 10
     },
     {
       "id": 3912547,
@@ -2131,7 +2131,7 @@ window.NFL_DATA = {
         "gap": 2.2,
         "rings": 1,
         "note": "Un anillo + temporada elite y entra al panteón",
-        "prevRank": null
+        "prevRank": 1
       },
       {
         "id": 3046779,
@@ -2148,7 +2148,7 @@ window.NFL_DATA = {
         "gap": 17.8,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": null
+        "prevRank": 2
       },
       {
         "id": 2577417,
@@ -2165,7 +2165,7 @@ window.NFL_DATA = {
         "gap": 19.9,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": null
+        "prevRank": 3
       },
       {
         "id": 2578570,
@@ -2182,7 +2182,7 @@ window.NFL_DATA = {
         "gap": 26.7,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": null
+        "prevRank": 4
       },
       {
         "id": 3052587,
@@ -2199,7 +2199,7 @@ window.NFL_DATA = {
         "gap": 27.9,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": null
+        "prevRank": 5
       },
       {
         "id": 4040715,
@@ -2216,7 +2216,7 @@ window.NFL_DATA = {
         "gap": 28.3,
         "rings": 1,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": null
+        "prevRank": 6
       },
       {
         "id": 3918298,
@@ -2233,7 +2233,7 @@ window.NFL_DATA = {
         "gap": 29.1,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": null
+        "prevRank": 7
       },
       {
         "id": 4431452,
@@ -2250,7 +2250,7 @@ window.NFL_DATA = {
         "gap": 29.6,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": null
+        "prevRank": 8
       },
       {
         "id": 3912547,
@@ -2267,7 +2267,7 @@ window.NFL_DATA = {
         "gap": 30.3,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": null
+        "prevRank": 9
       },
       {
         "id": 4360310,
@@ -2284,7 +2284,7 @@ window.NFL_DATA = {
         "gap": 31.3,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": null
+        "prevRank": 10
       }
     ],
     "youngProspects": [
@@ -2303,7 +2303,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 8.3,
         "note": "Arranque histórico — techo de leyenda",
-        "prevRank": null
+        "prevRank": 1
       },
       {
         "id": 4431611,
@@ -2320,7 +2320,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 14.6,
         "note": "De los mejores de su generación",
-        "prevRank": null
+        "prevRank": 2
       },
       {
         "id": 4685720,
@@ -2337,7 +2337,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 22.5,
         "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": null
+        "prevRank": 3
       },
       {
         "id": 4432577,
@@ -2354,7 +2354,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 23.2,
         "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": null
+        "prevRank": 4
       },
       {
         "id": 4688380,
@@ -2371,7 +2371,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 24.5,
         "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": null
+        "prevRank": 5
       },
       {
         "id": 4689114,
@@ -2388,7 +2388,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 26.0,
         "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": null
+        "prevRank": 6
       }
     ]
   },
@@ -2405,7 +2405,7 @@ window.NFL_DATA = {
   "SEASON": "2025",
   "SEASON_STATUS": "offseason",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-06-22 22:58 UTC",
+  "LAST_UPDATE": "2026-06-23 06:14 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

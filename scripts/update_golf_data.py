@@ -52,9 +52,9 @@ def _prev_rank_map(filepath: Path, js_var: str, key: str) -> dict[str, int]:
     try:
         text = filepath.read_text(encoding="utf-8")
         text = re.sub(r"^window\." + re.escape(js_var) + r"\s*=\s*", "", text, flags=re.MULTILINE).rstrip().rstrip(";")
-        obj = json.loads(text)
+        obj = json.loads(text[text.find("{"):text.rfind("}") + 1])
         rows = obj.get(key) or []
-        return {str(item.get("id") or item.get("name")): i + 1 for i, item in enumerate(rows[:20])}
+        return {str(item.get("id") or item.get("name")): i + 1 for i, item in enumerate(rows[:60])}
     except Exception:
         return {}
 

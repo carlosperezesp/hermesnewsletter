@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-22 22:58 UTC
+// Auto-generated 2026-06-23 06:16 UTC
 window.SUMO_DATA = {
-  "UPDATED": "2026-06-22 22:58 UTC",
+  "UPDATED": "2026-06-23 06:16 UTC",
   "LEGENDS": [
     {
       "id": "hakuho",
@@ -18,7 +18,7 @@ window.SUMO_DATA = {
         "yok_start": 2007,
         "yok_end": 2021
       },
-      "prevRank": null
+      "prevRank": 1
     },
     {
       "id": "taiho",
@@ -36,7 +36,7 @@ window.SUMO_DATA = {
         "yok_start": 1961,
         "yok_end": 1971
       },
-      "prevRank": null
+      "prevRank": 2
     },
     {
       "id": "chiyonofuji",
@@ -54,7 +54,7 @@ window.SUMO_DATA = {
         "yok_start": 1981,
         "yok_end": 1991
       },
-      "prevRank": null
+      "prevRank": 3
     },
     {
       "id": "asashoryu",
@@ -72,7 +72,7 @@ window.SUMO_DATA = {
         "yok_start": 2003,
         "yok_end": 2010
       },
-      "prevRank": null
+      "prevRank": 4
     },
     {
       "id": "kitanoumi",
@@ -90,7 +90,7 @@ window.SUMO_DATA = {
         "yok_start": 1974,
         "yok_end": 1985
       },
-      "prevRank": null
+      "prevRank": 5
     },
     {
       "id": "musashimaru",
@@ -108,7 +108,7 @@ window.SUMO_DATA = {
         "yok_start": 1999,
         "yok_end": 2003
       },
-      "prevRank": null
+      "prevRank": 6
     },
     {
       "id": "futabayama",
@@ -126,7 +126,7 @@ window.SUMO_DATA = {
         "yok_start": 1936,
         "yok_end": 1943
       },
-      "prevRank": null
+      "prevRank": 7
     },
     {
       "id": "akebono",
@@ -144,7 +144,7 @@ window.SUMO_DATA = {
         "yok_start": 1993,
         "yok_end": 2001
       },
-      "prevRank": null
+      "prevRank": 8
     },
     {
       "id": "harumafuji",
@@ -162,7 +162,7 @@ window.SUMO_DATA = {
         "yok_start": 2012,
         "yok_end": 2017
       },
-      "prevRank": null
+      "prevRank": 9
     },
     {
       "id": "terunofuji",
@@ -180,7 +180,7 @@ window.SUMO_DATA = {
         "yok_start": 2021,
         "yok_end": 2024
       },
-      "prevRank": null
+      "prevRank": 10
     },
     {
       "id": "kakuryu",
@@ -198,7 +198,7 @@ window.SUMO_DATA = {
         "yok_start": 2014,
         "yok_end": 2021
       },
-      "prevRank": null
+      "prevRank": 11
     },
     {
       "id": "onosato",
@@ -216,7 +216,7 @@ window.SUMO_DATA = {
         "yok_start": 2025,
         "yok_end": null
       },
-      "prevRank": null
+      "prevRank": 12
     },
     {
       "id": "hoshoryu",
@@ -234,7 +234,7 @@ window.SUMO_DATA = {
         "yok_start": 2024,
         "yok_end": null
       },
-      "prevRank": null
+      "prevRank": 13
     }
   ],
   "BASHO_ID": "202605",

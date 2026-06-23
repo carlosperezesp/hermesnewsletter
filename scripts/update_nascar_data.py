@@ -158,7 +158,7 @@ def _prev_rank_map(path_key: str = "DRIVERS") -> dict[str, int]:
     try:
         text = (ROOT / "nascar_data.js").read_text(encoding="utf-8")
         text = re.sub(r"^window\.NASCAR_DATA\s*=\s*", "", text).rstrip().rstrip(";")
-        obj = json.loads(text)
+        obj = json.loads(text[text.find("{"):text.rfind("}") + 1])
         return {str(row.get("id") or row.get("name")): i + 1 for i, row in enumerate(obj.get(path_key) or [])}
     except Exception:
         return {}

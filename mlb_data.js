@@ -9,14 +9,14 @@ window.MLB_DATA = {
       "commonName": "Dodgers",
       "conf": "NL",
       "div": "NL West",
-      "gp": 78,
-      "w": 49,
+      "gp": 79,
+      "w": 50,
       "l": 29,
-      "winPct": 0.628,
-      "rf": 405,
-      "ra": 272,
+      "winPct": 0.633,
+      "rf": 407,
+      "ra": 273,
       "rd": 0,
-      "score": 50,
+      "score": 51,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/lad.png",
       "colors": {
         "primary": "#005a9c",
@@ -30,39 +30,18 @@ window.MLB_DATA = {
       "commonName": "Braves",
       "conf": "NL",
       "div": "NL East",
-      "gp": 76,
+      "gp": 77,
       "w": 48,
-      "l": 28,
-      "winPct": 0.632,
+      "l": 29,
+      "winPct": 0.623,
       "rf": 377,
-      "ra": 280,
+      "ra": 281,
       "rd": 0,
-      "score": 51,
+      "score": 50,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/atl.png",
       "colors": {
         "primary": "#ce1141",
         "secondary": "#13274f"
-      }
-    },
-    {
-      "code": "NYY",
-      "city": "New York Yankees",
-      "shortName": "New York",
-      "commonName": "Yankees",
-      "conf": "AL",
-      "div": "AL East",
-      "gp": 76,
-      "w": 46,
-      "l": 30,
-      "winPct": 0.605,
-      "rf": 389,
-      "ra": 277,
-      "rd": 0,
-      "score": 48,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
-      "colors": {
-        "primary": "#003087",
-        "secondary": "#e4002c"
       }
     },
     {
@@ -72,12 +51,12 @@ window.MLB_DATA = {
       "commonName": "Brewers",
       "conf": "NL",
       "div": "NL Central",
-      "gp": 75,
-      "w": 46,
+      "gp": 76,
+      "w": 47,
       "l": 29,
-      "winPct": 0.613,
-      "rf": 397,
-      "ra": 278,
+      "winPct": 0.618,
+      "rf": 399,
+      "ra": 279,
       "rd": 0,
       "score": 49,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mil.png",
@@ -87,18 +66,39 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "NYY",
+      "city": "New York Yankees",
+      "shortName": "New York",
+      "commonName": "Yankees",
+      "conf": "AL",
+      "div": "AL East",
+      "gp": 77,
+      "w": 46,
+      "l": 31,
+      "winPct": 0.597,
+      "rf": 392,
+      "ra": 282,
+      "rd": 0,
+      "score": 48,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
+      "colors": {
+        "primary": "#003087",
+        "secondary": "#e4002c"
+      }
+    },
+    {
       "code": "TB",
       "city": "Tampa Bay Rays",
       "shortName": "Tampa Bay",
       "commonName": "Rays",
       "conf": "AL",
       "div": "AL East",
-      "gp": 74,
+      "gp": 75,
       "w": 43,
-      "l": 31,
-      "winPct": 0.581,
-      "rf": 327,
-      "ra": 319,
+      "l": 32,
+      "winPct": 0.573,
+      "rf": 328,
+      "ra": 321,
       "rd": 0,
       "score": 46,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png",
@@ -108,20 +108,41 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "STL",
+      "city": "St. Louis Cardinals",
+      "shortName": "St. Louis",
+      "commonName": "Cardinals",
+      "conf": "NL",
+      "div": "NL Central",
+      "gp": 76,
+      "w": 42,
+      "l": 34,
+      "winPct": 0.553,
+      "rf": 352,
+      "ra": 347,
+      "rd": 0,
+      "score": 44,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/stl.png",
+      "colors": {
+        "primary": "#c41e3a",
+        "secondary": "#0c2340"
+      }
+    },
+    {
       "code": "PHI",
       "city": "Philadelphia Phillies",
       "shortName": "Philadelphia",
       "commonName": "Phillies",
       "conf": "NL",
       "div": "NL East",
-      "gp": 77,
+      "gp": 78,
       "w": 42,
-      "l": 35,
-      "winPct": 0.545,
-      "rf": 329,
-      "ra": 333,
+      "l": 36,
+      "winPct": 0.538,
+      "rf": 330,
+      "ra": 337,
       "rd": 0,
-      "score": 44,
+      "score": 43,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/phi.png",
       "colors": {
         "primary": "#e81828",
@@ -135,12 +156,12 @@ window.MLB_DATA = {
       "commonName": "Guardians",
       "conf": "AL",
       "div": "AL Central",
-      "gp": 78,
+      "gp": 79,
       "w": 41,
-      "l": 37,
-      "winPct": 0.526,
-      "rf": 310,
-      "ra": 317,
+      "l": 38,
+      "winPct": 0.519,
+      "rf": 315,
+      "ra": 323,
       "rd": 0,
       "score": 42,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cle.png",
@@ -150,24 +171,45 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "STL",
-      "city": "St. Louis Cardinals",
-      "shortName": "St. Louis",
-      "commonName": "Cardinals",
+      "code": "WSH",
+      "city": "Washington Nationals",
+      "shortName": "Washington",
+      "commonName": "Nationals",
       "conf": "NL",
-      "div": "NL Central",
-      "gp": 75,
+      "div": "NL East",
+      "gp": 79,
       "w": 41,
-      "l": 34,
-      "winPct": 0.547,
-      "rf": 349,
-      "ra": 345,
+      "l": 38,
+      "winPct": 0.519,
+      "rf": 420,
+      "ra": 405,
       "rd": 0,
-      "score": 44,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/stl.png",
+      "score": 42,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png",
       "colors": {
-        "primary": "#c41e3a",
-        "secondary": "#0c2340"
+        "primary": "#ab0003",
+        "secondary": "#14225a"
+      }
+    },
+    {
+      "code": "CHW",
+      "city": "Chicago White Sox",
+      "shortName": "Chicago",
+      "commonName": "White Sox",
+      "conf": "AL",
+      "div": "AL Central",
+      "gp": 77,
+      "w": 40,
+      "l": 37,
+      "winPct": 0.519,
+      "rf": 359,
+      "ra": 362,
+      "rd": 0,
+      "score": 42,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chw.png",
+      "colors": {
+        "primary": "#27251f",
+        "secondary": "#c4ced4"
       }
     },
     {
@@ -213,18 +255,39 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "SD",
+      "city": "San Diego Padres",
+      "shortName": "San Diego",
+      "commonName": "Padres",
+      "conf": "NL",
+      "div": "NL West",
+      "gp": 77,
+      "w": 40,
+      "l": 37,
+      "winPct": 0.519,
+      "rf": 297,
+      "ra": 306,
+      "rd": 0,
+      "score": 42,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sd.png",
+      "colors": {
+        "primary": "#2f241d",
+        "secondary": "#ffc425"
+      }
+    },
+    {
       "code": "MIA",
       "city": "Miami Marlins",
       "shortName": "Miami",
       "commonName": "Marlins",
       "conf": "NL",
       "div": "NL East",
-      "gp": 78,
+      "gp": 79,
       "w": 40,
-      "l": 38,
-      "winPct": 0.513,
-      "rf": 336,
-      "ra": 336,
+      "l": 39,
+      "winPct": 0.506,
+      "rf": 339,
+      "ra": 340,
       "rd": 0,
       "score": 41,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mia.png",
@@ -234,87 +297,24 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "WSH",
-      "city": "Washington Nationals",
-      "shortName": "Washington",
-      "commonName": "Nationals",
-      "conf": "NL",
-      "div": "NL East",
-      "gp": 78,
-      "w": 40,
-      "l": 38,
-      "winPct": 0.513,
-      "rf": 416,
-      "ra": 404,
-      "rd": 0,
-      "score": 41,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png",
-      "colors": {
-        "primary": "#ab0003",
-        "secondary": "#14225a"
-      }
-    },
-    {
-      "code": "CHW",
-      "city": "Chicago White Sox",
-      "shortName": "Chicago",
-      "commonName": "White Sox",
+      "code": "TOR",
+      "city": "Toronto Blue Jays",
+      "shortName": "Toronto",
+      "commonName": "Blue Jays",
       "conf": "AL",
-      "div": "AL Central",
-      "gp": 76,
+      "div": "AL East",
+      "gp": 78,
       "w": 39,
-      "l": 37,
-      "winPct": 0.513,
-      "rf": 353,
-      "ra": 357,
+      "l": 39,
+      "winPct": 0.5,
+      "rf": 320,
+      "ra": 343,
       "rd": 0,
-      "score": 41,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chw.png",
+      "score": 40,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
       "colors": {
-        "primary": "#27251f",
-        "secondary": "#c4ced4"
-      }
-    },
-    {
-      "code": "SD",
-      "city": "San Diego Padres",
-      "shortName": "San Diego",
-      "commonName": "Padres",
-      "conf": "NL",
-      "div": "NL West",
-      "gp": 76,
-      "w": 39,
-      "l": 37,
-      "winPct": 0.513,
-      "rf": 296,
-      "ra": 306,
-      "rd": 0,
-      "score": 41,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sd.png",
-      "colors": {
-        "primary": "#2f241d",
-        "secondary": "#ffc425"
-      }
-    },
-    {
-      "code": "ARI",
-      "city": "Arizona Diamondbacks",
-      "shortName": "Arizona",
-      "commonName": "Diamondbacks",
-      "conf": "NL",
-      "div": "NL West",
-      "gp": 77,
-      "w": 39,
-      "l": 38,
-      "winPct": 0.506,
-      "rf": 331,
-      "ra": 356,
-      "rd": 0,
-      "score": 41,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ari.png",
-      "colors": {
-        "primary": "#a71930",
-        "secondary": "#e3d4ad"
+        "primary": "#134a8e",
+        "secondary": "#e8291c"
       }
     },
     {
@@ -339,24 +339,24 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "TOR",
-      "city": "Toronto Blue Jays",
-      "shortName": "Toronto",
-      "commonName": "Blue Jays",
-      "conf": "AL",
-      "div": "AL East",
-      "gp": 77,
-      "w": 38,
+      "code": "ARI",
+      "city": "Arizona Diamondbacks",
+      "shortName": "Arizona",
+      "commonName": "Diamondbacks",
+      "conf": "NL",
+      "div": "NL West",
+      "gp": 78,
+      "w": 39,
       "l": 39,
-      "winPct": 0.494,
-      "rf": 316,
-      "ra": 341,
+      "winPct": 0.5,
+      "rf": 333,
+      "ra": 359,
       "rd": 0,
-      "score": 39,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
+      "score": 40,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ari.png",
       "colors": {
-        "primary": "#134a8e",
-        "secondary": "#e8291c"
+        "primary": "#a71930",
+        "secondary": "#e3d4ad"
       }
     },
     {
@@ -381,41 +381,20 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "MIN",
-      "city": "Minnesota Twins",
-      "shortName": "Minnesota",
-      "commonName": "Twins",
-      "conf": "AL",
-      "div": "AL Central",
-      "gp": 79,
-      "w": 38,
-      "l": 41,
-      "winPct": 0.481,
-      "rf": 388,
-      "ra": 406,
-      "rd": 0,
-      "score": 38,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png",
-      "colors": {
-        "primary": "#002b5c",
-        "secondary": "#d31145"
-      }
-    },
-    {
       "code": "TEX",
       "city": "Texas Rangers",
       "shortName": "Texas",
       "commonName": "Rangers",
       "conf": "AL",
       "div": "AL West",
-      "gp": 77,
-      "w": 37,
+      "gp": 78,
+      "w": 38,
       "l": 40,
-      "winPct": 0.481,
-      "rf": 309,
-      "ra": 320,
+      "winPct": 0.487,
+      "rf": 313,
+      "ra": 323,
       "rd": 0,
-      "score": 38,
+      "score": 39,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png",
       "colors": {
         "primary": "#c0111f",
@@ -429,18 +408,39 @@ window.MLB_DATA = {
       "commonName": "Orioles",
       "conf": "AL",
       "div": "AL East",
-      "gp": 79,
-      "w": 37,
+      "gp": 80,
+      "w": 38,
       "l": 42,
-      "winPct": 0.468,
-      "rf": 369,
-      "ra": 394,
+      "winPct": 0.475,
+      "rf": 375,
+      "ra": 395,
       "rd": 0,
-      "score": 37,
+      "score": 38,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bal.png",
       "colors": {
         "primary": "#df4601",
         "secondary": "#000000"
+      }
+    },
+    {
+      "code": "MIN",
+      "city": "Minnesota Twins",
+      "shortName": "Minnesota",
+      "commonName": "Twins",
+      "conf": "AL",
+      "div": "AL Central",
+      "gp": 80,
+      "w": 38,
+      "l": 42,
+      "winPct": 0.475,
+      "rf": 389,
+      "ra": 408,
+      "rd": 0,
+      "score": 38,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png",
+      "colors": {
+        "primary": "#002b5c",
+        "secondary": "#d31145"
       }
     },
     {
@@ -450,12 +450,12 @@ window.MLB_DATA = {
       "commonName": "Astros",
       "conf": "AL",
       "div": "AL West",
-      "gp": 79,
+      "gp": 80,
       "w": 37,
-      "l": 42,
-      "winPct": 0.468,
-      "rf": 356,
-      "ra": 397,
+      "l": 43,
+      "winPct": 0.463,
+      "rf": 358,
+      "ra": 401,
       "rd": 0,
       "score": 37,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png",
@@ -471,18 +471,39 @@ window.MLB_DATA = {
       "commonName": "Reds",
       "conf": "NL",
       "div": "NL Central",
-      "gp": 76,
+      "gp": 77,
       "w": 37,
-      "l": 39,
-      "winPct": 0.487,
-      "rf": 325,
-      "ra": 371,
+      "l": 40,
+      "winPct": 0.481,
+      "rf": 326,
+      "ra": 373,
       "rd": 0,
-      "score": 39,
+      "score": 38,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cin.png",
       "colors": {
         "primary": "#c6011f",
         "secondary": "#000000"
+      }
+    },
+    {
+      "code": "DET",
+      "city": "Detroit Tigers",
+      "shortName": "Detroit",
+      "commonName": "Tigers",
+      "conf": "AL",
+      "div": "AL Central",
+      "gp": 78,
+      "w": 34,
+      "l": 44,
+      "winPct": 0.436,
+      "rf": 319,
+      "ra": 322,
+      "rd": 0,
+      "score": 35,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png",
+      "colors": {
+        "primary": "#0c2340",
+        "secondary": "#fa4616"
       }
     },
     {
@@ -507,39 +528,18 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "DET",
-      "city": "Detroit Tigers",
-      "shortName": "Detroit",
-      "commonName": "Tigers",
-      "conf": "AL",
-      "div": "AL Central",
-      "gp": 77,
-      "w": 33,
-      "l": 44,
-      "winPct": 0.429,
-      "rf": 314,
-      "ra": 319,
-      "rd": 0,
-      "score": 34,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png",
-      "colors": {
-        "primary": "#0c2340",
-        "secondary": "#fa4616"
-      }
-    },
-    {
       "code": "KC",
       "city": "Kansas City Royals",
       "shortName": "Kansas City",
       "commonName": "Royals",
       "conf": "AL",
       "div": "AL Central",
-      "gp": 78,
-      "w": 32,
+      "gp": 79,
+      "w": 33,
       "l": 46,
-      "winPct": 0.41,
-      "rf": 331,
-      "ra": 375,
+      "winPct": 0.418,
+      "rf": 333,
+      "ra": 376,
       "rd": 0,
       "score": 33,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png",
@@ -555,12 +555,12 @@ window.MLB_DATA = {
       "commonName": "Angels",
       "conf": "AL",
       "div": "AL West",
-      "gp": 79,
+      "gp": 80,
       "w": 32,
-      "l": 47,
-      "winPct": 0.405,
-      "rf": 361,
-      "ra": 397,
+      "l": 48,
+      "winPct": 0.4,
+      "rf": 362,
+      "ra": 403,
       "rd": 0,
       "score": 32,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/laa.png",
@@ -576,12 +576,12 @@ window.MLB_DATA = {
       "commonName": "Red Sox",
       "conf": "AL",
       "div": "AL East",
-      "gp": 75,
+      "gp": 76,
       "w": 31,
-      "l": 44,
-      "winPct": 0.413,
-      "rf": 294,
-      "ra": 301,
+      "l": 45,
+      "winPct": 0.408,
+      "rf": 296,
+      "ra": 304,
       "rd": 0,
       "score": 33,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png",
@@ -618,12 +618,12 @@ window.MLB_DATA = {
       "commonName": "Rockies",
       "conf": "NL",
       "div": "NL West",
-      "gp": 78,
-      "w": 30,
+      "gp": 79,
+      "w": 31,
       "l": 48,
-      "winPct": 0.385,
-      "rf": 356,
-      "ra": 446,
+      "winPct": 0.392,
+      "rf": 359,
+      "ra": 448,
       "rd": 0,
       "score": 31,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/col.png",
@@ -663,7 +663,7 @@ window.MLB_DATA = {
       "pitchingScore": 100,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 1
     },
     {
       "id": 660271,
@@ -694,7 +694,7 @@ window.MLB_DATA = {
       "pitchingScore": 100,
       "twoWayBonus": 18.3,
       "rings": 2,
-      "prevRank": null
+      "prevRank": 2
     },
     {
       "id": 36018,
@@ -725,7 +725,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 1,
-      "prevRank": null
+      "prevRank": 1
     },
     {
       "id": 33712,
@@ -756,7 +756,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 2
     },
     {
       "id": 4966637,
@@ -787,7 +787,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 3
     },
     {
       "id": 4918256,
@@ -818,7 +818,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 4
     },
     {
       "id": 4684778,
@@ -849,7 +849,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 5
     },
     {
       "id": 5016968,
@@ -880,7 +880,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 6
     },
     {
       "id": 42402,
@@ -911,7 +911,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 7
     },
     {
       "id": 32655,
@@ -942,7 +942,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 8
     },
     {
       "id": 42359,
@@ -973,7 +973,7 @@ window.MLB_DATA = {
       "pitchingScore": 90,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 3
     },
     {
       "id": 5134581,
@@ -1004,7 +1004,7 @@ window.MLB_DATA = {
       "pitchingScore": 88,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 4
     },
     {
       "id": 4717833,
@@ -1035,7 +1035,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 9
     },
     {
       "id": 32767,
@@ -1066,7 +1066,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 10
     },
     {
       "id": 39712,
@@ -1247,7 +1247,7 @@ window.MLB_DATA = {
       "pitchingScore": 82,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 5
     },
     {
       "id": 36969,
@@ -1908,7 +1908,7 @@ window.MLB_DATA = {
       "pitchingScore": 77,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 6
     },
     {
       "id": 35013,
@@ -2359,7 +2359,7 @@ window.MLB_DATA = {
       "pitchingScore": 71,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 7
     },
     {
       "id": 30193,
@@ -2720,7 +2720,7 @@ window.MLB_DATA = {
       "pitchingScore": 68,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 8
     },
     {
       "id": 4686066,
@@ -2781,7 +2781,7 @@ window.MLB_DATA = {
       "pitchingScore": 68,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 9
     },
     {
       "id": 42823,
@@ -2812,7 +2812,7 @@ window.MLB_DATA = {
       "pitchingScore": 67,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 10
     },
     {
       "id": 4345076,
@@ -7651,7 +7651,7 @@ window.MLB_DATA = {
         "gap": 0.4,
         "rings": 2,
         "note": "3 MVPs · two-way unicorn · 50/50 season · 2 World Series rings",
-        "prevRank": null
+        "prevRank": 1
       },
       {
         "id": 30836,
@@ -7673,7 +7673,7 @@ window.MLB_DATA = {
         "gap": 3.1,
         "rings": 0,
         "note": "3 MVPs · inner-circle peak · all-time CF bat",
-        "prevRank": null
+        "prevRank": 2
       },
       {
         "id": 33192,
@@ -7695,7 +7695,7 @@ window.MLB_DATA = {
         "gap": 14.1,
         "rings": 0,
         "note": "2 MVPs · AL HR record · historic peak power",
-        "prevRank": null
+        "prevRank": 3
       },
       {
         "id": 30193,
@@ -7717,7 +7717,7 @@ window.MLB_DATA = {
         "gap": 14.5,
         "rings": 3,
         "note": "MVP · 3 rings · 3,000-hit track bat",
-        "prevRank": null
+        "prevRank": 4
       },
       {
         "id": 30951,
@@ -7739,7 +7739,7 @@ window.MLB_DATA = {
         "gap": 18.9,
         "rings": 0,
         "note": "2 MVPs · long elite run",
-        "prevRank": null
+        "prevRank": 5
       },
       {
         "id": 36969,
@@ -7761,7 +7761,7 @@ window.MLB_DATA = {
         "gap": 21.8,
         "rings": 1,
         "note": "World Series ring · historic OBP start",
-        "prevRank": null
+        "prevRank": 6
       },
       {
         "id": 36018,
@@ -7783,7 +7783,7 @@ window.MLB_DATA = {
         "gap": 27.6,
         "rings": 1,
         "note": "World Series ring · elite postseason bat",
-        "prevRank": null
+        "prevRank": 7
       },
       {
         "id": 33712,
@@ -7805,7 +7805,7 @@ window.MLB_DATA = {
         "gap": 29.5,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": null
+        "prevRank": 8
       },
       {
         "id": 32655,
@@ -7827,7 +7827,7 @@ window.MLB_DATA = {
         "gap": 34.2,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": null
+        "prevRank": 9
       },
       {
         "id": 5080761,
@@ -7849,7 +7849,7 @@ window.MLB_DATA = {
         "gap": 35.4,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": null
+        "prevRank": 10
       }
     ],
     "teams": [
@@ -7858,16 +7858,16 @@ window.MLB_DATA = {
         "city": "Los Angeles Dodgers",
         "era": "2017–present",
         "rings": 3,
-        "dynastyScore": 74.0,
+        "dynastyScore": 74.6,
         "threshold": 89.5,
-        "gap": 15.5,
+        "gap": 14.9,
         "note": "2020+2024+2025 champions · Ohtani/Betts/Freeman era · dynasty confirmed",
         "needs": "1–2 more titles + sustained regular-season excellence",
         "colors": {
           "primary": "#005a9c",
           "secondary": "#ef3e42"
         },
-        "prevRank": null
+        "prevRank": 1
       },
       {
         "teamCode": "HOU",
@@ -7883,39 +7883,39 @@ window.MLB_DATA = {
           "primary": "#eb6e1f",
           "secondary": "#002d62"
         },
-        "prevRank": null
+        "prevRank": 2
       },
       {
         "teamCode": "ATL",
         "city": "Atlanta Braves",
         "era": "2019–present",
         "rings": 1,
-        "dynastyScore": 50.6,
+        "dynastyScore": 50.0,
         "threshold": 89.5,
-        "gap": 38.9,
+        "gap": 39.5,
         "note": "2021 champions · Acuña/Olson core · NL East powerhouse",
         "needs": "2–3 more titles + another dominant era needed",
         "colors": {
           "primary": "#ce1141",
           "secondary": "#13274f"
         },
-        "prevRank": null
+        "prevRank": 3
       },
       {
         "teamCode": "TEX",
         "city": "Texas Rangers",
         "era": "2023–present",
         "rings": 1,
-        "dynastyScore": 42.8,
+        "dynastyScore": 43.4,
         "threshold": 89.5,
-        "gap": 46.7,
+        "gap": 46.1,
         "note": "2023 World Champions · Seager/García · historic first title",
         "needs": "2–3 more titles + another dominant era needed",
         "colors": {
           "primary": "#c0111f",
           "secondary": "#003278"
         },
-        "prevRank": null
+        "prevRank": 4
       },
       {
         "teamCode": "NYY",
@@ -7931,23 +7931,39 @@ window.MLB_DATA = {
           "primary": "#003087",
           "secondary": "#e4002c"
         },
-        "prevRank": null
+        "prevRank": 5
       },
       {
         "teamCode": "PHI",
         "city": "Philadelphia Phillies",
         "era": "2022–present",
         "rings": 0,
-        "dynastyScore": 36.4,
+        "dynastyScore": 35.8,
         "threshold": 89.5,
-        "gap": 53.1,
+        "gap": 53.7,
         "note": "Back-to-back WS appearances · Harper/Nola/Turner · consistent NL contender",
         "needs": "Needs at least one title + sustained dominance",
         "colors": {
           "primary": "#e81828",
           "secondary": "#002d72"
         },
-        "prevRank": null
+        "prevRank": 6
+      },
+      {
+        "teamCode": "SD",
+        "city": "San Diego Padres",
+        "era": "2022–present",
+        "rings": 0,
+        "dynastyScore": 35.2,
+        "threshold": 89.5,
+        "gap": 54.3,
+        "note": "Tatis/Machado era · consistent NL West contender",
+        "needs": "Needs at least one title + sustained dominance",
+        "colors": {
+          "primary": "#2f241d",
+          "secondary": "#ffc425"
+        },
+        "prevRank": 7
       },
       {
         "teamCode": "SEA",
@@ -7963,39 +7979,23 @@ window.MLB_DATA = {
           "primary": "#0c2c56",
           "secondary": "#005c5c"
         },
-        "prevRank": null
-      },
-      {
-        "teamCode": "SD",
-        "city": "San Diego Padres",
-        "era": "2022–present",
-        "rings": 0,
-        "dynastyScore": 34.6,
-        "threshold": 89.5,
-        "gap": 54.9,
-        "note": "Tatis/Machado era · consistent NL West contender",
-        "needs": "Needs at least one title + sustained dominance",
-        "colors": {
-          "primary": "#2f241d",
-          "secondary": "#ffc425"
-        },
-        "prevRank": null
+        "prevRank": 8
       },
       {
         "teamCode": "BAL",
         "city": "Baltimore Orioles",
         "era": "2022–present",
         "rings": 0,
-        "dynastyScore": 32.2,
+        "dynastyScore": 32.8,
         "threshold": 89.5,
-        "gap": 57.3,
+        "gap": 56.7,
         "note": "Gunnar Henderson era · homegrown rebuild · AL East rising force",
         "needs": "Needs at least one title + sustained dominance",
         "colors": {
           "primary": "#df4601",
           "secondary": "#000000"
         },
-        "prevRank": null
+        "prevRank": 9
       },
       {
         "teamCode": "NYM",
@@ -8011,7 +8011,7 @@ window.MLB_DATA = {
           "primary": "#002d72",
           "secondary": "#ff5910"
         },
-        "prevRank": null
+        "prevRank": 10
       }
     ],
     "youngProspects": [
@@ -8030,7 +8030,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 18.5,
         "note": "Among the best players of their generation",
-        "prevRank": null
+        "prevRank": 1
       },
       {
         "id": 4966637,
@@ -8047,7 +8047,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 21.2,
         "note": "Elite start to career — ceiling is very high",
-        "prevRank": null
+        "prevRank": 2
       },
       {
         "id": 4918256,
@@ -8064,7 +8064,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 22.2,
         "note": "Elite start to career — ceiling is very high",
-        "prevRank": null
+        "prevRank": 3
       },
       {
         "id": 4684778,
@@ -8081,7 +8081,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 22.2,
         "note": "Among the best players of their generation",
-        "prevRank": null
+        "prevRank": 4
       },
       {
         "id": 5080771,
@@ -8098,7 +8098,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 24.2,
         "note": "Elite start to career — ceiling is very high",
-        "prevRank": null
+        "prevRank": 5
       },
       {
         "id": 4717833,
@@ -8115,7 +8115,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 25.5,
         "note": "Among the best players of their generation",
-        "prevRank": null
+        "prevRank": 6
       },
       {
         "id": 42402,
@@ -8132,7 +8132,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 25.8,
         "note": "Among the best players of their generation",
-        "prevRank": null
+        "prevRank": 7
       },
       {
         "id": 5134581,
@@ -8149,7 +8149,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 28.0,
         "note": "Among the best players of their generation",
-        "prevRank": null
+        "prevRank": 8
       },
       {
         "id": 4927516,
@@ -8166,7 +8166,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 28.2,
         "note": "Elite start to career — ceiling is very high",
-        "prevRank": null
+        "prevRank": 9
       },
       {
         "id": 42468,
@@ -8183,7 +8183,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 30.1,
         "note": "Among the best players of their generation",
-        "prevRank": null
+        "prevRank": 10
       }
     ]
   },
@@ -8227,7 +8227,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-22 22:58 UTC",
+  "LAST_UPDATE": "2026-06-23 06:04 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

@@ -21,7 +21,7 @@ def _prev_rank_map(filepath: Path, js_var: str, *path: str) -> "dict[str, int]":
         text = _re.sub(
             r"^window\." + _re.escape(js_var) + r"\s*=\s*", "", text, flags=_re.MULTILINE
         ).rstrip().rstrip(";")
-        obj = _json.loads(text)
+        obj = _json.loads(text[text.find("{"):text.rfind("}") + 1])
         for key in path:
             obj = obj.get(key) if isinstance(obj, dict) else None
             if obj is None:
@@ -29,7 +29,7 @@ def _prev_rank_map(filepath: Path, js_var: str, *path: str) -> "dict[str, int]":
         if not isinstance(obj, list):
             return {}
         result: dict[str, int] = {}
-        for i, item in enumerate(obj[:20]):
+        for i, item in enumerate(obj[:60]):
             k = str(item.get("id") or item.get("name", ""))
             if k:
                 result[k] = i + 1

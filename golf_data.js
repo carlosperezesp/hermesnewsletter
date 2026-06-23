@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-22 22:58 UTC
+// Auto-generated 2026-06-23 06:16 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-22 22:58 UTC",
+  "UPDATED": "2026-06-23 06:16 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -16,7 +16,7 @@ window.GOLF_DATA = {
     "startLabel": "16 Jul",
     "endLabel": "19 Jul",
     "round": 0,
-    "daysToStart": 24,
+    "daysToStart": 23,
     "leaderboard": [],
     "favorites": [
       "Scottie Scheffler",
@@ -88,7 +88,7 @@ window.GOLF_DATA = {
     "startLabel": "25 Jun",
     "endLabel": "28 Jun",
     "round": 0,
-    "daysToStart": 3,
+    "daysToStart": 2,
     "leaderboard": [],
     "favorites": [
       "Scottie Scheffler",
@@ -120,7 +120,7 @@ window.GOLF_DATA = {
         "rankPoints": 100,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 1
     },
     {
       "id": "rory_mcilroy",
@@ -143,7 +143,7 @@ window.GOLF_DATA = {
         "rankPoints": 94,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 2
     },
     {
       "id": "xander_schauffele",
@@ -166,7 +166,7 @@ window.GOLF_DATA = {
         "rankPoints": 88,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 3
     },
     {
       "id": "ludvig_aberg",
@@ -189,7 +189,7 @@ window.GOLF_DATA = {
         "rankPoints": 84,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 4
     },
     {
       "id": "jon_rahm",
@@ -212,7 +212,7 @@ window.GOLF_DATA = {
         "rankPoints": 82,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 5
     },
     {
       "id": "collin_morikawa",
@@ -235,7 +235,7 @@ window.GOLF_DATA = {
         "rankPoints": 80,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 6
     },
     {
       "id": "hideki_matsuyama",
@@ -258,7 +258,7 @@ window.GOLF_DATA = {
         "rankPoints": 78,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 7
     },
     {
       "id": "bryson_dechambeau",
@@ -281,7 +281,7 @@ window.GOLF_DATA = {
         "rankPoints": 76,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 8
     },
     {
       "id": "viktor_hovland",
@@ -304,7 +304,7 @@ window.GOLF_DATA = {
         "rankPoints": 74,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 9
     },
     {
       "id": "tommy_fleetwood",
@@ -327,7 +327,7 @@ window.GOLF_DATA = {
         "rankPoints": 72,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 10
     },
     {
       "id": "patrick_cantlay",
@@ -350,7 +350,7 @@ window.GOLF_DATA = {
         "rankPoints": 70,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 11
     }
   ],
   "PROSPECTS": [
@@ -488,7 +488,7 @@ window.GOLF_DATA = {
         "dominance": 683,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 1
     },
     {
       "id": "jack_nicklaus",
@@ -510,7 +510,7 @@ window.GOLF_DATA = {
         "dominance": 160,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 2
     },
     {
       "id": "walter_hagen",
@@ -532,7 +532,7 @@ window.GOLF_DATA = {
         "dominance": 120,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 3
     },
     {
       "id": "ben_hogan",
@@ -554,7 +554,7 @@ window.GOLF_DATA = {
         "dominance": 95,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 4
     },
     {
       "id": "sam_snead",
@@ -576,7 +576,7 @@ window.GOLF_DATA = {
         "dominance": 65,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 5
     },
     {
       "id": "gary_player",
@@ -598,7 +598,7 @@ window.GOLF_DATA = {
         "dominance": 80,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 6
     },
     {
       "id": "tom_watson",
@@ -620,7 +620,7 @@ window.GOLF_DATA = {
         "dominance": 75,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 7
     },
     {
       "id": "arnold_palmer",
@@ -642,7 +642,7 @@ window.GOLF_DATA = {
         "dominance": 70,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 8
     },
     {
       "id": "harry_vardon",
@@ -664,7 +664,7 @@ window.GOLF_DATA = {
         "dominance": 70,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 9
     },
     {
       "id": "gene_sarazen",
@@ -686,7 +686,7 @@ window.GOLF_DATA = {
         "dominance": 55,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 10
     },
     {
       "id": "bobby_jones",
@@ -708,7 +708,7 @@ window.GOLF_DATA = {
         "dominance": 100,
         "tour": "Amateur"
       },
-      "prevRank": null
+      "prevRank": 11
     },
     {
       "id": "phil_mickelson",
@@ -730,7 +730,7 @@ window.GOLF_DATA = {
         "dominance": 65,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 12
     },
     {
       "id": "rory_mcilroy",
@@ -752,7 +752,7 @@ window.GOLF_DATA = {
         "dominance": 122,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 13
     },
     {
       "id": "lee_trevino",
@@ -774,7 +774,7 @@ window.GOLF_DATA = {
         "dominance": 55,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 14
     },
     {
       "id": "seve_ballesteros",
@@ -796,7 +796,7 @@ window.GOLF_DATA = {
         "dominance": 60,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 15
     },
     {
       "id": "scottie_scheffler",
@@ -818,7 +818,7 @@ window.GOLF_DATA = {
         "dominance": 115,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 16
     }
   ],
   "ROAD_TO_GLORY": [
@@ -843,7 +843,7 @@ window.GOLF_DATA = {
         "rankPoints": 94,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 1,
       "gapToTop10": 3.4,
       "note": "A 3.4 del top 10 histórico"
     },
@@ -868,7 +868,7 @@ window.GOLF_DATA = {
         "rankPoints": 100,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 2,
       "gapToTop10": 13.8,
       "note": "A 13.8 del top 10 histórico"
     },
@@ -893,7 +893,7 @@ window.GOLF_DATA = {
         "rankPoints": 88,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 3,
       "gapToTop10": 21.3,
       "note": "A 21.3 del top 10 histórico"
     },
@@ -918,7 +918,7 @@ window.GOLF_DATA = {
         "rankPoints": 82,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 4,
       "gapToTop10": 22.2,
       "note": "A 22.2 del top 10 histórico"
     },
@@ -943,7 +943,7 @@ window.GOLF_DATA = {
         "rankPoints": 80,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 5,
       "gapToTop10": 22.5,
       "note": "A 22.5 del top 10 histórico"
     },
@@ -968,7 +968,7 @@ window.GOLF_DATA = {
         "rankPoints": 76,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 6,
       "gapToTop10": 23.3,
       "note": "A 23.3 del top 10 histórico"
     },
@@ -993,7 +993,7 @@ window.GOLF_DATA = {
         "rankPoints": 78,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 7,
       "gapToTop10": 28.1,
       "note": "A 28.1 del top 10 histórico"
     },
@@ -1018,7 +1018,7 @@ window.GOLF_DATA = {
         "rankPoints": 70,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 8,
       "gapToTop10": 34.3,
       "note": "A 34.3 del top 10 histórico"
     },
@@ -1043,7 +1043,7 @@ window.GOLF_DATA = {
         "rankPoints": 72,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 9,
       "gapToTop10": 34.9,
       "note": "A 34.9 del top 10 histórico"
     },
@@ -1068,7 +1068,7 @@ window.GOLF_DATA = {
         "rankPoints": 74,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 10,
       "gapToTop10": 35.1,
       "note": "A 35.1 del top 10 histórico"
     }

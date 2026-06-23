@@ -1546,7 +1546,7 @@ def _prev_list_rank_map(tour_key: str) -> "dict[str, int]":
         text = out_path.read_text(encoding="utf-8")
         text = _re.sub(r"^\s*//.*\n", "", text)
         text = _re.sub(r"^window\.TENNIS_DATA\s*=\s*", "", text, flags=_re.MULTILINE).rstrip().rstrip(";")
-        players = _json.loads(text).get(tour_key, [])
+        players = _json.loads(text[text.find("{"):text.rfind("}") + 1]).get(tour_key, [])
         return {str(p.get("id", "")): i + 1 for i, p in enumerate(players) if p.get("id")}
     except Exception:
         return {}
@@ -1560,7 +1560,7 @@ def _prev_active_score_map(tour_key: str) -> "dict[str, float]":
         text = out_path.read_text(encoding="utf-8")
         text = _re.sub(r"^\s*//.*\n", "", text)
         text = _re.sub(r"^window\.TENNIS_DATA\s*=\s*", "", text, flags=_re.MULTILINE).rstrip().rstrip(";")
-        players = _json.loads(text).get(tour_key, [])
+        players = _json.loads(text[text.find("{"):text.rfind("}") + 1]).get(tour_key, [])
         out: dict[str, float] = {}
         for p in players:
             pid = str(p.get("id", ""))
@@ -1580,7 +1580,7 @@ def _prev_score_log_map(log_key: str) -> "dict[str, list]":
         text = out_path.read_text(encoding="utf-8")
         text = _re.sub(r"^\s*//.*\n", "", text)
         text = _re.sub(r"^window\.TENNIS_DATA\s*=\s*", "", text, flags=_re.MULTILINE).rstrip().rstrip(";")
-        log = _json.loads(text).get(log_key, {}) or {}
+        log = _json.loads(text[text.find("{"):text.rfind("}") + 1]).get(log_key, {}) or {}
         return {str(k): v for k, v in log.items() if isinstance(v, list)}
     except Exception:
         return {}

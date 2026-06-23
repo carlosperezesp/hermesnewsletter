@@ -26,7 +26,7 @@ def _prev_rank_map(filepath: Path, js_var: str, *path: str) -> "dict[str, int]":
         text = _re.sub(
             r"^window\." + _re.escape(js_var) + r"\s*=\s*", "", text, flags=_re.MULTILINE
         ).rstrip().rstrip(";")
-        obj = _json.loads(text)
+        obj = _json.loads(text[text.find("{"):text.rfind("}") + 1])
         for key in path:
             obj = obj.get(key) if isinstance(obj, dict) else None
             if obj is None:
@@ -34,7 +34,7 @@ def _prev_rank_map(filepath: Path, js_var: str, *path: str) -> "dict[str, int]":
         if not isinstance(obj, list):
             return {}
         result: dict[str, int] = {}
-        for i, item in enumerate(obj[:20]):
+        for i, item in enumerate(obj[:60]):
             k = str(item.get("id") or item.get("name", ""))
             if k:
                 result[k] = i + 1
@@ -50,7 +50,7 @@ def _prev_rank_map_teams(filepath: Path, js_var: str, *path: str) -> "dict[str, 
         text = _re.sub(
             r"^window\." + _re.escape(js_var) + r"\s*=\s*", "", text, flags=_re.MULTILINE
         ).rstrip().rstrip(";")
-        obj = _json.loads(text)
+        obj = _json.loads(text[text.find("{"):text.rfind("}") + 1])
         for key in path:
             obj = obj.get(key) if isinstance(obj, dict) else None
             if obj is None:
@@ -58,7 +58,7 @@ def _prev_rank_map_teams(filepath: Path, js_var: str, *path: str) -> "dict[str, 
         if not isinstance(obj, list):
             return {}
         result: dict[str, int] = {}
-        for i, item in enumerate(obj[:20]):
+        for i, item in enumerate(obj[:60]):
             k = f"{item.get('teamCode','')}-{item.get('era','')}"
             if k != "-":
                 result[k] = i + 1
@@ -856,10 +856,10 @@ def write_data(output: Path) -> None:
         try:
             text = output.read_text(encoding="utf-8")
             text = _re2.sub(r"^window\.MLB_DATA\s*=\s*", "", text, flags=_re2.MULTILINE).rstrip().rstrip(";")
-            items = _json2.loads(text).get("PLAYERS", [])
+            items = _json2.loads(text[text.find("{"):text.rfind("}") + 1]).get("PLAYERS", [])
             filtered = [p for p in items if (p.get("stats") or {}).get("type") == stat_type]
             filtered.sort(key=lambda x: x.get("score", 0), reverse=True)
-            return {str(p.get("id") or p.get("name", "")): i + 1 for i, p in enumerate(filtered[:20])}
+            return {str(p.get("id") or p.get("name", "")): i + 1 for i, p in enumerate(filtered[:60])}
         except Exception:
             return {}
 

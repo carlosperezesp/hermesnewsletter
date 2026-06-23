@@ -1,14 +1,14 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-22 22:59 UTC",
+  "UPDATED": "2026-06-22 21:15 UTC",
   "EVENTS": [
     {
-      "id": "nascar:win:NASCAR Cup Series at San Diego:Current Leader:",
+      "id": "nascar:win:NASCAR Cup Series at San Diego:Corey Heim",
       "sport": "nascar",
       "detail": "NASCAR",
-      "text": "Current Leader: ganó en Naval Base Coronado",
+      "text": "Corey Heim ganó en Naval Base Coronado",
       "weight": 100,
-      "firstSeen": "2026-06-21"
+      "firstSeen": "2026-06-22"
     },
     {
       "id": "motogp:win:Czech Republic motorcycle Grand Prix:Fabio Di Giannantonio",
@@ -23,6 +23,14 @@ window.GLORY_DATA = {
       "sport": "indycar",
       "detail": "IndyCar",
       "text": "Christian Lundgaard ganó en Grand Prix of Road America",
+      "weight": 100,
+      "firstSeen": "2026-06-21"
+    },
+    {
+      "id": "nascar:win:NASCAR Cup Series at San Diego:Current Leader:",
+      "sport": "nascar",
+      "detail": "NASCAR",
+      "text": "Current Leader: ganó en Naval Base Coronado",
       "weight": 100,
       "firstSeen": "2026-06-21"
     },

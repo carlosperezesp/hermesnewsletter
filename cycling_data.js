@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-22 22:58 UTC
+// Auto-generated 2026-06-23 06:16 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-06-22 22:58 UTC",
+  "UPDATED": "2026-06-23 06:16 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -21,7 +21,7 @@ window.CYCLING_DATA = {
         "worlds": 3,
         "birth": 1945
       },
-      "prevRank": null
+      "prevRank": 1
     },
     {
       "id": "bernard_hinault",
@@ -42,7 +42,7 @@ window.CYCLING_DATA = {
         "worlds": 2,
         "birth": 1954
       },
-      "prevRank": null
+      "prevRank": 2
     },
     {
       "id": "fausto_coppi",
@@ -63,7 +63,7 @@ window.CYCLING_DATA = {
         "worlds": 2,
         "birth": 1919
       },
-      "prevRank": null
+      "prevRank": 3
     },
     {
       "id": "jacques_anquetil",
@@ -84,7 +84,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1934
       },
-      "prevRank": null
+      "prevRank": 4
     },
     {
       "id": "miguel_indurain",
@@ -105,7 +105,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1964
       },
-      "prevRank": null
+      "prevRank": 5
     },
     {
       "id": "tadej_pogacar",
@@ -126,7 +126,7 @@ window.CYCLING_DATA = {
         "worlds": 1,
         "birth": 2000
       },
-      "prevRank": null
+      "prevRank": 6
     },
     {
       "id": "chris_froome",
@@ -147,7 +147,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1985
       },
-      "prevRank": null
+      "prevRank": 7
     },
     {
       "id": "felice_gimondi",
@@ -168,7 +168,7 @@ window.CYCLING_DATA = {
         "worlds": 1,
         "birth": 1942
       },
-      "prevRank": null
+      "prevRank": 8
     },
     {
       "id": "alberto_contador",
@@ -189,7 +189,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1982
       },
-      "prevRank": null
+      "prevRank": 9
     },
     {
       "id": "laurent_fignon",
@@ -210,7 +210,7 @@ window.CYCLING_DATA = {
         "worlds": 1,
         "birth": 1960
       },
-      "prevRank": null
+      "prevRank": 10
     },
     {
       "id": "fabian_cancellara",
@@ -231,7 +231,7 @@ window.CYCLING_DATA = {
         "worlds": 2,
         "birth": 1981
       },
-      "prevRank": null
+      "prevRank": 11
     },
     {
       "id": "vincenzo_nibali",
@@ -252,7 +252,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1984
       },
-      "prevRank": null
+      "prevRank": 12
     },
     {
       "id": "greg_lemond",
@@ -273,7 +273,7 @@ window.CYCLING_DATA = {
         "worlds": 2,
         "birth": 1961
       },
-      "prevRank": null
+      "prevRank": 13
     },
     {
       "id": "primoz_roglic",
@@ -294,7 +294,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1989
       },
-      "prevRank": null
+      "prevRank": 14
     },
     {
       "id": "peter_sagan",
@@ -315,7 +315,7 @@ window.CYCLING_DATA = {
         "worlds": 3,
         "birth": 1990
       },
-      "prevRank": null
+      "prevRank": 15
     },
     {
       "id": "jonas_vingegaard",
@@ -336,7 +336,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1996
       },
-      "prevRank": null
+      "prevRank": 16
     },
     {
       "id": "roger_de_vlaeminck",
@@ -357,7 +357,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1947
       },
-      "prevRank": null
+      "prevRank": 17
     },
     {
       "id": "sean_kelly",
@@ -378,7 +378,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1956
       },
-      "prevRank": null
+      "prevRank": 18
     },
     {
       "id": "remco_evenepoel",
@@ -399,7 +399,7 @@ window.CYCLING_DATA = {
         "worlds": 2,
         "birth": 2000
       },
-      "prevRank": null
+      "prevRank": 19
     },
     {
       "id": "egan_bernal",
@@ -420,7 +420,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1997
       },
-      "prevRank": null
+      "prevRank": 20
     }
   ],
   "CURRENT_RIDERS": [
@@ -443,6 +443,7 @@ window.CYCLING_DATA = {
         "worlds": 1,
         "birth": 2000
       },
+      "prevRank": 1,
       "insight": "A una gran victoria de entrar en zona top 10"
     },
     {
@@ -464,6 +465,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1989
       },
+      "prevRank": 2,
       "insight": "Palmarés de Grand Tour ya muy serio"
     },
     {
@@ -485,6 +487,7 @@ window.CYCLING_DATA = {
         "worlds": 1,
         "birth": 1995
       },
+      "prevRank": 3,
       "insight": "Legado de clásicas y Mundial sostienen su score"
     },
     {
@@ -506,6 +509,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1996
       },
+      "prevRank": 4,
       "insight": "Base de grandes vueltas; el siguiente salto pesa mucho"
     },
     {
@@ -527,6 +531,7 @@ window.CYCLING_DATA = {
         "worlds": 2,
         "birth": 2000
       },
+      "prevRank": 5,
       "insight": "El camino al top histórico pasa por seguir sumando monumentos"
     },
     {
@@ -548,6 +553,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1997
       },
+      "prevRank": 6,
       "insight": "Base de grandes vueltas; el siguiente salto pesa mucho"
     },
     {
@@ -569,6 +575,7 @@ window.CYCLING_DATA = {
         "worlds": 2,
         "birth": 1992
       },
+      "prevRank": 7,
       "insight": "Doble arcoíris: le falta más volumen de grandes victorias"
     },
     {
@@ -590,6 +597,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1993
       },
+      "prevRank": 8,
       "insight": "Una grande ya cuenta; necesita repetir para escalar"
     },
     {
@@ -611,6 +619,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1996
       },
+      "prevRank": 9,
       "insight": "Una grande ya cuenta; necesita repetir para escalar"
     },
     {
@@ -632,6 +641,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1994
       },
+      "prevRank": 10,
       "insight": "Una grande ya cuenta; necesita repetir para escalar"
     }
   ],
@@ -785,30 +795,30 @@ window.CYCLING_DATA = {
         "time": "+ 0\""
       },
       {
-        "rank": null,
+        "rank": 104,
         "name": "Jonas Vingegaard",
         "country": "DEN",
         "logo": "https://flagcdn.com/24x18/dk.png",
         "team": "TVL men",
-        "time": "",
+        "time": "00:00:00",
         "gc_rank": 1
       },
       {
-        "rank": null,
+        "rank": 34,
         "name": "Felix Gall",
         "country": "AUT",
         "logo": "https://flagcdn.com/24x18/at.png",
         "team": "DCT",
-        "time": "",
+        "time": "00:00:00",
         "gc_rank": 2
       },
       {
-        "rank": null,
+        "rank": 33,
         "name": "Jai Hindley",
         "country": "AUS",
         "logo": "https://flagcdn.com/24x18/au.png",
         "team": "RBH",
-        "time": "",
+        "time": "00:00:00",
         "gc_rank": 3
       }
     ],
@@ -1014,8 +1024,13 @@ window.CYCLING_DATA = {
       "dateLabel": "12 abr",
       "start": "2026-04-12",
       "end": "2026-04-12",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Wout van Aert",
+        "cc3": "BEL",
+        "logo": "https://flagcdn.com/24x18/be.png",
+        "color": "#000000"
+      }
     },
     {
       "tier": "Monumento",
@@ -1023,8 +1038,13 @@ window.CYCLING_DATA = {
       "dateLabel": "26 abr",
       "start": "2026-04-26",
       "end": "2026-04-26",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Tadej Pogačar",
+        "cc3": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "color": "#003DA5"
+      }
     },
     {
       "tier": "Monumento",
@@ -1050,8 +1070,13 @@ window.CYCLING_DATA = {
       "dateLabel": "8–15 mar",
       "start": "2026-03-08",
       "end": "2026-03-15",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Jonas Vingegaard",
+        "cc3": "DEN",
+        "logo": "https://flagcdn.com/24x18/dk.png",
+        "color": "#C60C30"
+      }
     },
     {
       "tier": "Vuelta de una semana",
@@ -1059,8 +1084,13 @@ window.CYCLING_DATA = {
       "dateLabel": "9–15 mar",
       "start": "2026-03-09",
       "end": "2026-03-15",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Isaac del Toro",
+        "cc3": "MEX",
+        "logo": "https://flagcdn.com/24x18/me.png",
+        "color": "#555555"
+      }
     },
     {
       "tier": "Vuelta de una semana",
@@ -1068,8 +1098,13 @@ window.CYCLING_DATA = {
       "dateLabel": "6–11 abr",
       "start": "2026-04-06",
       "end": "2026-04-11",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Paul Seixas",
+        "cc3": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "color": "#002395"
+      }
     },
     {
       "tier": "Vuelta de una semana",
@@ -1086,8 +1121,13 @@ window.CYCLING_DATA = {
       "dateLabel": "14–21 jun",
       "start": "2026-06-14",
       "end": "2026-06-21",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Tadej Pogačar",
+        "cc3": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "color": "#003DA5"
+      }
     },
     {
       "tier": "Clásica",
@@ -1095,8 +1135,13 @@ window.CYCLING_DATA = {
       "dateLabel": "7 mar",
       "start": "2026-03-07",
       "end": "2026-03-07",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Tadej Pogačar",
+        "cc3": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "color": "#003DA5"
+      }
     },
     {
       "tier": "Clásica",
@@ -1104,8 +1149,13 @@ window.CYCLING_DATA = {
       "dateLabel": "19 abr",
       "start": "2026-04-19",
       "end": "2026-04-19",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Remco Evenepoel",
+        "cc3": "BEL",
+        "logo": "https://flagcdn.com/24x18/be.png",
+        "color": "#000000"
+      }
     },
     {
       "tier": "Clásica",
@@ -1113,8 +1163,13 @@ window.CYCLING_DATA = {
       "dateLabel": "22 abr",
       "start": "2026-04-22",
       "end": "2026-04-22",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Paul Seixas",
+        "cc3": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "color": "#002395"
+      }
     },
     {
       "tier": "Clásica",

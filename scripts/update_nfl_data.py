@@ -24,7 +24,7 @@ def _prev_rank_map(filepath: Path, js_var: str, *path: str) -> "dict[str, int]":
         text = _re.sub(
             r"^window\." + _re.escape(js_var) + r"\s*=\s*", "", text, flags=_re.MULTILINE
         ).rstrip().rstrip(";")
-        obj = _json.loads(text)
+        obj = _json.loads(text[text.find("{"):text.rfind("}") + 1])
         for key in path:
             obj = obj.get(key) if isinstance(obj, dict) else None
             if obj is None:
@@ -32,7 +32,7 @@ def _prev_rank_map(filepath: Path, js_var: str, *path: str) -> "dict[str, int]":
         if not isinstance(obj, list):
             return {}
         result: dict[str, int] = {}
-        for i, item in enumerate(obj[:20]):
+        for i, item in enumerate(obj[:60]):
             k = str(item.get("id") or item.get("name", ""))
             if k:
                 result[k] = i + 1
@@ -506,6 +506,14 @@ def write_data(output: Path) -> None:
         p["prevRank"] = prev_players.get(str(p.get("id") or p.get("name", "")))
 
     road_to_glory = build_road_to_glory_nfl(players)
+    # Road-to-Glory lists also need week-over-week ranks (else they show NEW
+    # forever, like the main player list did before).
+    prev_rtg_players = _prev_rank_map(output, "NFL_DATA", "ROAD_TO_GLORY", "players")
+    prev_rtg_young = _prev_rank_map(output, "NFL_DATA", "ROAD_TO_GLORY", "youngProspects")
+    for p in road_to_glory.get("players", []):
+        p["prevRank"] = prev_rtg_players.get(str(p.get("id") or p.get("name", "")))
+    for p in road_to_glory.get("youngProspects", []):
+        p["prevRank"] = prev_rtg_young.get(str(p.get("id") or p.get("name", "")))
 
     payload = {
         "TEAMS":         teams,
