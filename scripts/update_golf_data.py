@@ -7,6 +7,7 @@ import json
 import re
 import sys
 import time
+import unicodedata
 import urllib.request
 from datetime import date, datetime, timezone
 from pathlib import Path
@@ -232,9 +233,22 @@ def fetch_fedex_standings() -> "list[dict]":
     return players
 
 
+_SPECIAL_LETTERS = str.maketrans({
+    "ø": "o", "Ø": "o", "ł": "l", "Ł": "l", "đ": "d", "ı": "i",
+    "ß": "ss", "æ": "ae", "œ": "oe",
+})
+
+
+def _norm_name(s: str) -> str:
+    s = unicodedata.normalize("NFKD", s or "")
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    return s.translate(_SPECIAL_LETTERS).lower().strip()
+
+
 def _fedex_rank(name: str | None = None, athlete_id=None) -> int | None:
+    nn = _norm_name(name) if name else None
     for p in fetch_fedex_standings():
-        if (athlete_id and p["id"] == str(athlete_id)) or (name and p["name"] == name):
+        if (athlete_id and p["id"] == str(athlete_id)) or (nn and _norm_name(p["name"]) == nn):
             return p["rank"]
     return None
 
@@ -311,15 +325,20 @@ def build_golf_prospects(max_age: int = 26, top_n: int = 8) -> list[dict]:
         if age > max_age:
             continue
         p = _player_base(name, cc3, "PGA")
+        # Nivel from the same FedEx source as the top-10 / podium, so a player's
+        # score matches everywhere; the seed is a fallback for youngsters not yet
+        # in the FedEx standings.
+        fedex_nivel = _nivel_from_fedex_rank(_fedex_rank(name=name))
+        nivel = fedex_nivel if fedex_nivel is not None else float(seed)
         if age <= 21:
             note = f"Talento generacional a los {age}"
-        elif seed >= 80:
+        elif nivel >= 80:
             note = f"Ya entre la élite a los {age}"
-        elif seed >= 62:
+        elif nivel >= 62:
             note = f"Top del circuito a los {age}"
         else:
             note = f"Promesa emergente a los {age}"
-        p.update({"activeScore": float(seed), "age": age, "note": note})
+        p.update({"activeScore": nivel, "age": age, "note": note})
         out.append(p)
     out.sort(key=lambda p: p["activeScore"], reverse=True)
     return out[:top_n]
