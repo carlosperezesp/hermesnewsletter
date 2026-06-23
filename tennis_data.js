@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-23 08:41 UTC
+// Auto-generated 2026-06-23 10:09 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-23 08:41 UTC",
+  "UPDATED": "2026-06-23 10:09 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10999,7 +10999,7 @@ window.TENNIS_DATA = {
           "round": "R128",
           "w": "Thiago Agustin Tirante",
           "w_logo": "",
-          "l": "Jacob Fearnley",
+          "l": "Hamish Stewart",
           "l_logo": "",
           "score": "por jugar",
           "day": "hoy",
@@ -11300,9 +11300,9 @@ window.TENNIS_DATA = {
       "Daniel Altmaier",
       "Gabriel Diallo",
       "Giles Hussey",
+      "Hamish Stewart",
       "Jack Draper",
       "Jack Pinnington Jones",
-      "Jacob Fearnley",
       "Jan Choinski",
       "Jenson Brooksby",
       "Juan Manuel Cerundolo",

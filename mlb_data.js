@@ -849,7 +849,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 6
+      "prevRank": 5
     },
     {
       "id": 32655,
@@ -880,7 +880,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 8
+      "prevRank": 6
     },
     {
       "id": 42402,
@@ -942,7 +942,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 5
+      "prevRank": 8
     },
     {
       "id": 42359,
@@ -1066,7 +1066,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 11
+      "prevRank": 10
     },
     {
       "id": 32767,
@@ -1114,12 +1114,12 @@ window.MLB_DATA = {
       "score": 84,
       "stats": {
         "type": "batting",
-        "ab": 267,
+        "ab": 266,
         "hr": 17,
         "rbi": 44,
-        "avg": 0.296,
+        "avg": 0.297,
         "sb": 6,
-        "ops": 0.976
+        "ops": 0.979
       },
       "legendScore": 92.1,
       "currentScore": 100.0,
@@ -2630,7 +2630,7 @@ window.MLB_DATA = {
       "pitchingScore": 69,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 11
+      "prevRank": 8
     },
     {
       "id": 40459,
@@ -2781,7 +2781,7 @@ window.MLB_DATA = {
       "pitchingScore": 68,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 8
+      "prevRank": 9
     },
     {
       "id": 4686066,
@@ -2842,7 +2842,7 @@ window.MLB_DATA = {
       "pitchingScore": 68,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 9
+      "prevRank": 10
     },
     {
       "id": 42823,
@@ -2960,6 +2960,36 @@ window.MLB_DATA = {
       "legendScore": 45.7,
       "currentScore": 67,
       "battingScore": 67,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 42497,
+      "name": "Angel Martinez",
+      "first": "Angel",
+      "last": "Martinez",
+      "pos": "LF",
+      "teamCode": "CLE",
+      "age": 24,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42497.png",
+      "colors": {
+        "primary": "#e31937",
+        "secondary": "#002b5c"
+      },
+      "score": 66,
+      "stats": {
+        "type": "batting",
+        "ab": 226,
+        "hr": 11,
+        "rbi": 33,
+        "avg": 0.239,
+        "sb": 9,
+        "ops": 0.719
+      },
+      "legendScore": 38.5,
+      "currentScore": 66,
+      "battingScore": 66,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
@@ -3916,6 +3946,36 @@ window.MLB_DATA = {
         "avg": 0.247,
         "sb": 2,
         "ops": 0.773
+      },
+      "legendScore": 39.7,
+      "currentScore": 62,
+      "battingScore": 62,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 36185,
+      "name": "Ronald Acuna Jr.",
+      "first": "Ronald",
+      "last": "Acuna Jr.",
+      "pos": "RF",
+      "teamCode": "ATL",
+      "age": 28,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/36185.png",
+      "colors": {
+        "primary": "#ce1141",
+        "secondary": "#13274f"
+      },
+      "score": 62,
+      "stats": {
+        "type": "batting",
+        "ab": 195,
+        "hr": 7,
+        "rbi": 22,
+        "avg": 0.251,
+        "sb": 15,
+        "ops": 0.793
       },
       "legendScore": 39.7,
       "currentScore": 62,
@@ -6535,6 +6595,36 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
+      "id": 40947,
+      "name": "Anthony Kay",
+      "first": "Anthony",
+      "last": "Kay",
+      "pos": "SP",
+      "teamCode": "CHW",
+      "age": 31,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40947.png",
+      "colors": {
+        "primary": "#27251f",
+        "secondary": "#c4ced4"
+      },
+      "score": 49,
+      "stats": {
+        "type": "pitching",
+        "g": 16,
+        "w": 6,
+        "era": 4.24,
+        "ip": 76.1,
+        "so": 63,
+        "whip": 1.39
+      },
+      "legendScore": 35.1,
+      "currentScore": 49,
+      "battingScore": null,
+      "pitchingScore": 49,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
       "id": 36581,
       "name": "Framber Valdez",
       "first": "Framber",
@@ -6805,6 +6895,36 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
+      "id": 42959,
+      "name": "Isaac Collins",
+      "first": "Isaac",
+      "last": "Collins",
+      "pos": "LF",
+      "teamCode": "KC",
+      "age": 28,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42959.png",
+      "colors": {
+        "primary": "#004687",
+        "secondary": "#c09a5b"
+      },
+      "score": 46,
+      "stats": {
+        "type": "batting",
+        "ab": 220,
+        "hr": 3,
+        "rbi": 23,
+        "avg": 0.227,
+        "sb": 4,
+        "ops": 0.657
+      },
+      "legendScore": 30.9,
+      "currentScore": 46,
+      "battingScore": 46,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
       "id": 4424141,
       "name": "Michael McGreevy",
       "first": "Michael",
@@ -6828,36 +6948,6 @@ window.MLB_DATA = {
         "whip": 1.15
       },
       "legendScore": 28.4,
-      "currentScore": 46,
-      "battingScore": null,
-      "pitchingScore": 46,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 33722,
-      "name": "Mitch Keller",
-      "first": "Mitch",
-      "last": "Keller",
-      "pos": "SP",
-      "teamCode": "PIT",
-      "age": 30,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33722.png",
-      "colors": {
-        "primary": "#fdb827",
-        "secondary": "#27251f"
-      },
-      "score": 46,
-      "stats": {
-        "type": "pitching",
-        "g": 15,
-        "w": 5,
-        "era": 4.92,
-        "ip": 82.1,
-        "so": 65,
-        "whip": 1.32
-      },
-      "legendScore": 32.6,
       "currentScore": 46,
       "battingScore": null,
       "pitchingScore": 46,
@@ -6925,32 +7015,32 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 42959,
-      "name": "Isaac Collins",
-      "first": "Isaac",
-      "last": "Collins",
-      "pos": "LF",
-      "teamCode": "KC",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42959.png",
+      "id": 33722,
+      "name": "Mitch Keller",
+      "first": "Mitch",
+      "last": "Keller",
+      "pos": "SP",
+      "teamCode": "PIT",
+      "age": 30,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33722.png",
       "colors": {
-        "primary": "#004687",
-        "secondary": "#c09a5b"
+        "primary": "#fdb827",
+        "secondary": "#27251f"
       },
       "score": 45,
       "stats": {
-        "type": "batting",
-        "ab": 219,
-        "hr": 3,
-        "rbi": 23,
-        "avg": 0.224,
-        "sb": 4,
-        "ops": 0.651
+        "type": "pitching",
+        "g": 15,
+        "w": 5,
+        "era": 5.25,
+        "ip": 82.1,
+        "so": 65,
+        "whip": 1.34
       },
-      "legendScore": 30.4,
+      "legendScore": 32.1,
       "currentScore": 45,
-      "battingScore": 45,
-      "pitchingScore": null,
+      "battingScore": null,
+      "pitchingScore": 45,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -7191,6 +7281,36 @@ window.MLB_DATA = {
       "currentScore": 41,
       "battingScore": null,
       "pitchingScore": 41,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 4918155,
+      "name": "Mike Burrows",
+      "first": "Mike",
+      "last": "Burrows",
+      "pos": "SP",
+      "teamCode": "HOU",
+      "age": 26,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4918155.png",
+      "colors": {
+        "primary": "#eb6e1f",
+        "secondary": "#002d62"
+      },
+      "score": 38,
+      "stats": {
+        "type": "pitching",
+        "g": 15,
+        "w": 3,
+        "era": 5.79,
+        "ip": 79.1,
+        "so": 66,
+        "whip": 1.58
+      },
+      "legendScore": 24.9,
+      "currentScore": 38,
+      "battingScore": null,
+      "pitchingScore": 38,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -8167,7 +8287,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-23 08:38 UTC",
+  "LAST_UPDATE": "2026-06-23 10:07 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
