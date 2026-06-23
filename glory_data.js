@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-22 21:15 UTC",
+  "UPDATED": "2026-06-23 08:41 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at San Diego:Corey Heim",

@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-22 21:15 UTC
+// Auto-generated 2026-06-23 08:40 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-22 21:15 UTC",
+  "UPDATED": "2026-06-23 08:40 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-06-22 21:15 UTC"
+    "through": "2026-06-23 08:40 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -28,17 +28,7 @@ window.FOOTBALL_DATA = {
       "note": "Campeón mundial y Copa América; ciclo Scaloni sostiene el pico Elo.",
       "eloPrev": 2133,
       "recentDelta": 27.6,
-      "recentMatches": 2,
-      "nextMatch": {
-        "date": "2026-06-22",
-        "round": 2,
-        "opponent": "Austria",
-        "opponentCode": "AUT",
-        "venue": "AT&T Stadium",
-        "city": "Dallas",
-        "group": "J",
-        "type": "Mundial 2026"
-      }
+      "recentMatches": 2
     },
     {
       "id": "spain",
@@ -72,25 +62,15 @@ window.FOOTBALL_DATA = {
         "secondary": "#ED2939"
       },
       "rank": 3,
-      "elo": 2048,
-      "eloScore": 87.4,
+      "elo": 2056,
+      "eloScore": 88.3,
       "sourceRank": 3,
       "worldCups": 2,
       "continentalTitles": 2,
       "note": "Finalista mundial reciente; profundidad ofensiva y defensiva.",
       "eloPrev": 2029,
-      "recentDelta": 18.6,
-      "recentMatches": 1,
-      "nextMatch": {
-        "date": "2026-06-22",
-        "round": 2,
-        "opponent": "Irak",
-        "opponentCode": "IRQ",
-        "venue": "Lincoln Financial Field",
-        "city": "Filadelfia",
-        "group": "I",
-        "type": "Mundial 2026"
-      }
+      "recentDelta": 27.3,
+      "recentMatches": 2
     },
     {
       "id": "england",
@@ -260,6 +240,35 @@ window.FOOTBALL_DATA = {
     }
   ],
   "RECENT_MATCHES": [
+    {
+      "id": "760457",
+      "date": "2026-06-22",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "FRA"
+      ],
+      "home": {
+        "code": "FRA",
+        "name": "Francia",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+        "score": 3,
+        "eloBefore": 2048,
+        "eloAfter": 2056,
+        "delta": 8.7,
+        "result": "W"
+      },
+      "away": {
+        "code": "IRQ",
+        "name": "Irak",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irq.png",
+        "score": 0,
+        "eloBefore": 1629,
+        "eloAfter": 1621,
+        "delta": -8.7,
+        "result": "L"
+      }
+    },
     {
       "id": "760456",
       "date": "2026-06-22",
@@ -789,34 +798,6 @@ window.FOOTBALL_DATA = {
     "upcomingMatches": [
       {
         "round": 2,
-        "date": "2026-06-22",
-        "timeET": "TBD",
-        "home": "FRA",
-        "homeName": "Francia",
-        "away": "IRQ",
-        "awayName": "Irak",
-        "group": "I",
-        "venue": "Lincoln Financial Field",
-        "city": "Filadelfia",
-        "homeElo": 2048,
-        "awayElo": 1660
-      },
-      {
-        "round": 2,
-        "date": "2026-06-22",
-        "timeET": "TBD",
-        "home": "ARG",
-        "homeName": "Argentina",
-        "away": "AUT",
-        "awayName": "Austria",
-        "group": "J",
-        "venue": "AT&T Stadium",
-        "city": "Dallas",
-        "homeElo": 2161,
-        "awayElo": 1840
-      },
-      {
-        "round": 2,
         "date": "2026-06-23",
         "timeET": "TBD",
         "home": "ENG",
@@ -1081,16 +1062,6 @@ window.FOOTBALL_DATA = {
         "eloPrev": 2133,
         "recentDelta": 27.6,
         "recentMatches": 2,
-        "nextMatch": {
-          "date": "2026-06-22",
-          "round": 2,
-          "opponent": "Austria",
-          "opponentCode": "AUT",
-          "venue": "AT&T Stadium",
-          "city": "Dallas",
-          "group": "J",
-          "type": "Mundial 2026"
-        },
         "dynastyPotential": 100.0,
         "rawDynastyPotential": 123.4,
         "gapToDynastyTop10": 0.0,
@@ -1140,27 +1111,17 @@ window.FOOTBALL_DATA = {
           "secondary": "#ED2939"
         },
         "rank": 3,
-        "elo": 2048,
-        "eloScore": 87.4,
+        "elo": 2056,
+        "eloScore": 88.3,
         "sourceRank": 3,
         "worldCups": 2,
         "continentalTitles": 2,
         "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
         "eloPrev": 2029,
-        "recentDelta": 18.6,
-        "recentMatches": 1,
-        "nextMatch": {
-          "date": "2026-06-22",
-          "round": 2,
-          "opponent": "Irak",
-          "opponentCode": "IRQ",
-          "venue": "Lincoln Financial Field",
-          "city": "Filadelfia",
-          "group": "I",
-          "type": "Mundial 2026"
-        },
+        "recentDelta": 27.3,
+        "recentMatches": 2,
         "dynastyPotential": 100.0,
-        "rawDynastyPotential": 88.8,
+        "rawDynastyPotential": 89.3,
         "gapToDynastyTop10": 0.0,
         "cycleYears": 2.8,
         "currentWorldCups": 1,
