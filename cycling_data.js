@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-23 16:12 UTC
+// Auto-generated 2026-06-23 21:51 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-06-23 16:12 UTC",
+  "UPDATED": "2026-06-23 21:51 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -1024,13 +1024,8 @@ window.CYCLING_DATA = {
       "dateLabel": "12 abr",
       "start": "2026-04-12",
       "end": "2026-04-12",
-      "status": "finished",
-      "winner": {
-        "name": "Wout van Aert",
-        "cc3": "BEL",
-        "logo": "https://flagcdn.com/24x18/be.png",
-        "color": "#000000"
-      }
+      "status": "pending",
+      "winner": null
     },
     {
       "tier": "Monumento",
@@ -1163,8 +1158,13 @@ window.CYCLING_DATA = {
       "dateLabel": "22 abr",
       "start": "2026-04-22",
       "end": "2026-04-22",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Paul Seixas",
+        "cc3": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "color": "#002395"
+      }
     },
     {
       "tier": "Clásica",

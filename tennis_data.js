@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-23 16:14 UTC
+// Auto-generated 2026-06-23 21:53 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-23 16:14 UTC",
+  "UPDATED": "2026-06-23 21:53 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1121,7 +1121,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 66.2
@@ -1871,7 +1871,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 61.3
@@ -2143,7 +2143,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 58.7
@@ -2859,7 +2859,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 52.1
@@ -2960,9 +2960,9 @@ window.TENNIS_DATA = {
       "prevListRank": 87,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 53.1
     },
@@ -3064,9 +3064,9 @@ window.TENNIS_DATA = {
       "prevListRank": 90,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 54.3
     },
@@ -6070,9 +6070,9 @@ window.TENNIS_DATA = {
       "prevListRank": 27,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 70.9
     },
@@ -7741,7 +7741,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 58.0
@@ -7979,7 +7979,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.4
@@ -10988,9 +10988,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mattia Bellucci",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-5) 6-7 (1-7) 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 66.4,
           "l_score": 54.4,
           "match_score": 66.4
@@ -11049,15 +11049,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Aleksandar Kovacevic",
+          "w": "Daniel Altmaier",
           "w_logo": "",
-          "l": "Daniel Altmaier",
+          "l": "Aleksandar Kovacevic",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 7-6 (7-4)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 54.1,
-          "l_score": 55.0,
+          "w_score": 55.0,
+          "l_score": 54.1,
           "match_score": 55.0
         }
       ]
@@ -11197,15 +11197,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Barbora Krejcikova",
+          "w": "Kimberly Birrell",
           "w_logo": "",
-          "l": "Kimberly Birrell",
+          "l": "Barbora Krejcikova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 7-6 (8-6)",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 72.0,
-          "l_score": 55.6,
+          "scheduled": false,
+          "w_score": 55.6,
+          "l_score": 72.0,
           "match_score": 72.0
         },
         {
@@ -11294,7 +11294,6 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
-      "Aleksandar Kovacevic",
       "Arthur Fery",
       "Daniel Altmaier",
       "Gabriel Diallo",
@@ -11304,7 +11303,6 @@ window.TENNIS_DATA = {
       "Jan Choinski",
       "Jenson Brooksby",
       "Juan Manuel Cerundolo",
-      "Mattia Bellucci",
       "Quentin Halys",
       "Taylor Fritz",
       "Thiago Agustin Tirante",
@@ -11314,6 +11312,7 @@ window.TENNIS_DATA = {
       "Zizou Bergs"
     ],
     "out": [
+      "Aleksandar Kovacevic",
       "Aleksandar Vukic",
       "Alexei Popyrin",
       "Hamish Stewart",
@@ -11321,12 +11320,13 @@ window.TENNIS_DATA = {
       "Marco Trungelliti",
       "Marcos Giron",
       "Matteo Arnaldi",
+      "Mattia Bellucci",
       "Raphael Collignon",
       "Roman Andres Burruchaga",
       "Terence Atmane"
     ],
-    "aliveCount": 18,
-    "matchesSeen": 18
+    "aliveCount": 16,
+    "matchesSeen": 20
   },
   "WTA_TOURNAMENT": {
     "name": "Lexus Eastbourne Open · Wimbledon",
@@ -11349,7 +11349,6 @@ window.TENNIS_DATA = {
       "Ajla Tomljanovic",
       "Anastasia Zakharova",
       "Anhelina Kalinina",
-      "Barbora Krejcikova",
       "Catherine McNally",
       "Emiliana Arango",
       "Jelena Ostapenko",
@@ -11368,6 +11367,7 @@ window.TENNIS_DATA = {
       "Alicia Dudeney",
       "Anna Bondar",
       "Antonia Ruzic",
+      "Barbora Krejcikova",
       "Daria Kasatkina",
       "Daria Snigur",
       "Elisabetta Cocciaretto",
@@ -11381,8 +11381,8 @@ window.TENNIS_DATA = {
       "Talia Gibson",
       "Yuliia Starodubtseva"
     ],
-    "aliveCount": 17,
-    "matchesSeen": 23
+    "aliveCount": 16,
+    "matchesSeen": 24
   },
   "ATP_SCORE_LOG": {
     "206173": [

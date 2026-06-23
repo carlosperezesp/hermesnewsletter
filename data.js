@@ -193,7 +193,7 @@ window.NHL_DATA = {
       "gf": 278,
       "ga": 246,
       "gd": 32,
-      "score": 62,
+      "score": 63,
       "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
       "colors": {
         "primary": "#c52032",
@@ -457,7 +457,7 @@ window.NHL_DATA = {
       "gf": 230,
       "ga": 254,
       "gd": -24,
-      "score": 52,
+      "score": 51,
       "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
       "colors": {
         "primary": "#ce1126",
@@ -655,7 +655,7 @@ window.NHL_DATA = {
       "gf": 212,
       "ga": 259,
       "gd": -47,
-      "score": 45,
+      "score": 46,
       "logo": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg",
       "colors": {
         "primary": "#c8102e",
@@ -7942,15 +7942,15 @@ window.NHL_DATA = {
       "last": "Eklund",
       "name": "William Eklund",
       "pos": "LW",
-      "teamCode": "SJS",
+      "teamCode": "OTT",
       "age": 23,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
-        "primary": "#006d75",
-        "secondary": "#ea7200"
+        "primary": "#c52032",
+        "secondary": "#c2912c"
       },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8482667.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8482667.png",
       "score": 62,
       "stats": {
         "gp": 78,
@@ -14996,15 +14996,15 @@ window.NHL_DATA = {
       "last": "Nemec",
       "name": "Simon Nemec",
       "pos": "D",
-      "teamCode": "NJD",
+      "teamCode": "CGY",
       "age": 22,
       "country": "Slovakia",
       "birthCountry": "SVK",
       "colors": {
-        "primary": "#ce1126",
-        "secondary": "#111111"
+        "primary": "#c8102e",
+        "secondary": "#f1be48"
       },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8483495.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8483495.png",
       "score": 54,
       "stats": {
         "gp": 68,
@@ -32299,15 +32299,15 @@ window.NHL_DATA = {
       "last": "Tsyplakov",
       "name": "Maxim Tsyplakov",
       "pos": "RW",
-      "teamCode": "NJD",
+      "teamCode": "CGY",
       "age": 27,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
-        "primary": "#ce1126",
-        "secondary": "#111111"
+        "primary": "#c8102e",
+        "secondary": "#f1be48"
       },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8484958.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8484958.png",
       "score": 40,
       "stats": {
         "gp": 49,
@@ -45004,10 +45004,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-23 16:12 UTC",
+  "LAST_UPDATE": "2026-06-23 21:51 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-23T16:12:00Z"
+    "standingsDateTimeUtc": "2026-06-23T21:51:01Z"
   }
 };

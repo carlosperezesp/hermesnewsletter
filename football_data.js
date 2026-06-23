@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-23 16:13 UTC
+// Auto-generated 2026-06-23 21:53 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-23 16:13 UTC",
+  "UPDATED": "2026-06-23 21:53 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-06-23 16:13 UTC"
+    "through": "2026-06-23 21:53 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -146,27 +146,6 @@ window.FOOTBALL_DATA = {
       "recentMatches": 2
     },
     {
-      "id": "brazil",
-      "name": "Brazil",
-      "teamCode": "BRA",
-      "country": "Brazil",
-      "logo": "https://flagcdn.com/24x18/br.png",
-      "colors": {
-        "primary": "#009C3B",
-        "secondary": "#FFDF00"
-      },
-      "rank": 7,
-      "elo": 1983,
-      "eloScore": 80.1,
-      "sourceRank": 6,
-      "worldCups": 5,
-      "continentalTitles": 9,
-      "note": "Histórico gigante todavía en zona top 10 pese a ciclo irregular.",
-      "eloPrev": 1985,
-      "recentDelta": -1.6,
-      "recentMatches": 2
-    },
-    {
       "id": "portugal",
       "name": "Portugal",
       "teamCode": "POR",
@@ -176,16 +155,16 @@ window.FOOTBALL_DATA = {
         "primary": "#006600",
         "secondary": "#FF0000"
       },
-      "rank": 8,
-      "elo": 1975,
-      "eloScore": 79.3,
+      "rank": 7,
+      "elo": 1988,
+      "eloScore": 80.7,
       "sourceRank": 5,
       "worldCups": 0,
       "continentalTitles": 1,
       "note": "Plantilla top y fase clasificatoria fuerte.",
       "eloPrev": 1997,
-      "recentDelta": -22.3,
-      "recentMatches": 1,
+      "recentDelta": -8.9,
+      "recentMatches": 2,
       "nextMatch": {
         "date": "2026-06-23",
         "round": 2,
@@ -196,6 +175,27 @@ window.FOOTBALL_DATA = {
         "group": "K",
         "type": "Mundial 2026"
       }
+    },
+    {
+      "id": "brazil",
+      "name": "Brazil",
+      "teamCode": "BRA",
+      "country": "Brazil",
+      "logo": "https://flagcdn.com/24x18/br.png",
+      "colors": {
+        "primary": "#009C3B",
+        "secondary": "#FFDF00"
+      },
+      "rank": 8,
+      "elo": 1983,
+      "eloScore": 80.1,
+      "sourceRank": 6,
+      "worldCups": 5,
+      "continentalTitles": 9,
+      "note": "Histórico gigante todavía en zona top 10 pese a ciclo irregular.",
+      "eloPrev": 1985,
+      "recentDelta": -1.6,
+      "recentMatches": 2
     },
     {
       "id": "italy",
@@ -240,6 +240,35 @@ window.FOOTBALL_DATA = {
     }
   ],
   "RECENT_MATCHES": [
+    {
+      "id": "760461",
+      "date": "2026-06-23",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "POR"
+      ],
+      "home": {
+        "code": "POR",
+        "name": "Portugal",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+        "score": 5,
+        "eloBefore": 1975,
+        "eloAfter": 1988,
+        "delta": 13.3,
+        "result": "W"
+      },
+      "away": {
+        "code": "UZB",
+        "name": "Uzbekistán",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png",
+        "score": 0,
+        "eloBefore": 1614,
+        "eloAfter": 1600,
+        "delta": -13.3,
+        "result": "L"
+      }
+    },
     {
       "id": "760457",
       "date": "2026-06-22",
@@ -821,7 +850,7 @@ window.FOOTBALL_DATA = {
         "group": "K",
         "venue": "NRG Stadium",
         "city": "Houston",
-        "homeElo": 1975,
+        "homeElo": 1988,
         "awayElo": 1625
       }
     ]
@@ -1169,6 +1198,45 @@ window.FOOTBALL_DATA = {
         "ageCurve": 0.88
       },
       {
+        "id": "portugal",
+        "name": "Portugal",
+        "teamCode": "POR",
+        "country": "Portugal",
+        "logo": "https://flagcdn.com/24x18/pt.png",
+        "colors": {
+          "primary": "#006600",
+          "secondary": "#FF0000"
+        },
+        "rank": 7,
+        "elo": 1988,
+        "eloScore": 80.7,
+        "sourceRank": 5,
+        "worldCups": 0,
+        "continentalTitles": 1,
+        "note": "A 4.5 puntos brutos del umbral dinástico",
+        "eloPrev": 1997,
+        "recentDelta": -8.9,
+        "recentMatches": 2,
+        "nextMatch": {
+          "date": "2026-06-23",
+          "round": 2,
+          "opponent": "Uzbekistán",
+          "opponentCode": "UZB",
+          "venue": "NRG Stadium",
+          "city": "Houston",
+          "group": "K",
+          "type": "Mundial 2026"
+        },
+        "dynastyPotential": 88.6,
+        "rawDynastyPotential": 34.9,
+        "gapToDynastyTop10": 4.5,
+        "cycleYears": 1.8,
+        "currentWorldCups": 0,
+        "currentContinentalTitles": 0,
+        "recentFinals": 0,
+        "ageCurve": 0.86
+      },
+      {
         "id": "brazil",
         "name": "Brazil",
         "teamCode": "BRA",
@@ -1178,7 +1246,7 @@ window.FOOTBALL_DATA = {
           "primary": "#009C3B",
           "secondary": "#FFDF00"
         },
-        "rank": 7,
+        "rank": 8,
         "elo": 1983,
         "eloScore": 80.1,
         "sourceRank": 6,
@@ -1196,45 +1264,6 @@ window.FOOTBALL_DATA = {
         "currentContinentalTitles": 0,
         "recentFinals": 1,
         "ageCurve": 0.84
-      },
-      {
-        "id": "portugal",
-        "name": "Portugal",
-        "teamCode": "POR",
-        "country": "Portugal",
-        "logo": "https://flagcdn.com/24x18/pt.png",
-        "colors": {
-          "primary": "#006600",
-          "secondary": "#FF0000"
-        },
-        "rank": 8,
-        "elo": 1975,
-        "eloScore": 79.3,
-        "sourceRank": 5,
-        "worldCups": 0,
-        "continentalTitles": 1,
-        "note": "A 5.2 puntos brutos del umbral dinástico",
-        "eloPrev": 1997,
-        "recentDelta": -22.3,
-        "recentMatches": 1,
-        "nextMatch": {
-          "date": "2026-06-23",
-          "round": 2,
-          "opponent": "Uzbekistán",
-          "opponentCode": "UZB",
-          "venue": "NRG Stadium",
-          "city": "Houston",
-          "group": "K",
-          "type": "Mundial 2026"
-        },
-        "dynastyPotential": 86.7,
-        "rawDynastyPotential": 34.2,
-        "gapToDynastyTop10": 5.2,
-        "cycleYears": 1.8,
-        "currentWorldCups": 0,
-        "currentContinentalTitles": 0,
-        "recentFinals": 0,
-        "ageCurve": 0.86
       },
       {
         "id": "netherlands",
