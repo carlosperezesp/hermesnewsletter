@@ -1,15 +1,15 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-06-23 10:08 UTC",
+  "UPDATED": "2026-06-23 15:40 UTC",
   "LAST_MATCH": "2026-04-10",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 315,
+    "incrementalMatches": 326,
     "teams": 162,
-    "matches": 10010,
+    "matches": 10021,
     "through": "2026-04-10"
   },
   "IMPORTANCE": 3.5,
