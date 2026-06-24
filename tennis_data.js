@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-24 15:59 UTC
+// Auto-generated 2026-06-24 21:49 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-24 15:59 UTC",
+  "UPDATED": "2026-06-24 21:49 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1392,9 +1392,9 @@ window.TENNIS_DATA = {
       "prevListRank": 41,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 65.1
     },
@@ -1871,7 +1871,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 60.4
@@ -2585,7 +2585,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 57.1
@@ -4331,7 +4331,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 45.3
@@ -4863,7 +4863,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 36.1
@@ -7741,7 +7741,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 57.8
@@ -7979,7 +7979,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 55.6
@@ -11010,15 +11010,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Tomas Martin Etcheverry",
+          "w": "Gabriel Diallo",
           "w_logo": "",
-          "l": "Gabriel Diallo",
+          "l": "Tomas Martin Etcheverry",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (11-13) 6-3 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 64.9,
-          "l_score": 56.3,
+          "w_score": 56.3,
+          "l_score": 64.9,
           "match_score": 64.9
         },
         {
@@ -11062,15 +11062,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Jack Pinnington Jones",
+          "w": "Jack Draper",
           "w_logo": "",
-          "l": "Jack Draper",
+          "l": "Jack Pinnington Jones",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 45.3,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 45.3,
           "match_score": 45.3
         },
         {
@@ -11079,7 +11079,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Felix Gill",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-7 (4-7) 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 36.1,
@@ -11275,15 +11275,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Kimberly Birrell",
+          "w": "Petra Marcinko",
           "w_logo": "",
-          "l": "Petra Marcinko",
+          "l": "Kimberly Birrell",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 55.6,
-          "l_score": 57.9,
+          "w_score": 57.9,
+          "l_score": 55.6,
           "match_score": 57.9
         },
         {
@@ -11335,7 +11335,6 @@ window.TENNIS_DATA = {
     "alive": [
       "Arthur Fery",
       "Daniel Altmaier",
-      "Felix Gill",
       "Gabriel Diallo",
       "Giles Hussey",
       "Jack Draper",
@@ -11346,7 +11345,6 @@ window.TENNIS_DATA = {
       "Quentin Halys",
       "Thiago Agustin Tirante",
       "Toby Samuel",
-      "Tomas Martin Etcheverry",
       "Ugo Humbert",
       "Zizou Bergs"
     ],
@@ -11354,6 +11352,7 @@ window.TENNIS_DATA = {
       "Aleksandar Kovacevic",
       "Aleksandar Vukic",
       "Alexei Popyrin",
+      "Felix Gill",
       "Hamish Stewart",
       "Jaume Munar",
       "Marco Trungelliti",
@@ -11362,10 +11361,11 @@ window.TENNIS_DATA = {
       "Mattia Bellucci",
       "Raphael Collignon",
       "Roman Andres Burruchaga",
-      "Terence Atmane"
+      "Terence Atmane",
+      "Tomas Martin Etcheverry"
     ],
-    "aliveCount": 16,
-    "matchesSeen": 22
+    "aliveCount": 14,
+    "matchesSeen": 24
   },
   "WTA_TOURNAMENT": {
     "name": "Lexus Eastbourne Open · Wimbledon",
@@ -11421,7 +11421,7 @@ window.TENNIS_DATA = {
       "Yuliia Starodubtseva"
     ],
     "aliveCount": 16,
-    "matchesSeen": 27
+    "matchesSeen": 28
   },
   "ATP_SCORE_LOG": {
     "206173": [

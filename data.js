@@ -15331,25 +15331,24 @@ window.NHL_DATA = {
       "last": "Drury",
       "name": "Jack Drury",
       "pos": "C",
-      "teamCode": "COL",
+      "teamCode": "NSH",
       "age": 26,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
-        "primary": "#6f263d",
-        "secondary": "#236192"
+        "primary": "#ffb81c",
+        "secondary": "#041e42"
       },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/COL/8480835.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8480835.png",
       "score": 53,
       "stats": {
-        "gp": 95,
-        "g": 13,
-        "a": 19,
-        "p": 32,
+        "gp": 82,
+        "g": 10,
+        "a": 17,
+        "p": 27,
         "pm": 15,
         "toi": 14.5,
-        "shots": 99,
-        "gp_po": 13
+        "shots": 99
       },
       "trajectory": [
         42,
@@ -22786,39 +22785,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8482742,
-      "first": "Zachary",
-      "last": "L'Heureux",
-      "name": "Zachary L'Heureux",
-      "pos": "LW",
-      "teamCode": "NSH",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
-      "colors": {
-        "primary": "#ffb81c",
-        "secondary": "#041e42"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8482742.png",
-      "score": 48,
-      "stats": {
-        "gp": 25,
-        "g": 4,
-        "a": 1,
-        "p": 5,
-        "pm": 3,
-        "toi": 13.4,
-        "shots": 32
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        48
-      ]
-    },
-    {
       "id": 8474641,
       "first": "Adam",
       "last": "Henrique",
@@ -23420,15 +23386,15 @@ window.NHL_DATA = {
       "last": "Svechkov",
       "name": "Fedor Svechkov",
       "pos": "C",
-      "teamCode": "NSH",
+      "teamCode": "COL",
       "age": 23,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
-        "primary": "#ffb81c",
-        "secondary": "#041e42"
+        "primary": "#6f263d",
+        "secondary": "#236192"
       },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8482768.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/COL/8482768.png",
       "score": 47,
       "stats": {
         "gp": 70,
@@ -45002,10 +44968,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-24 15:56 UTC",
+  "LAST_UPDATE": "2026-06-24 21:46 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-24T15:55:48Z"
+    "standingsDateTimeUtc": "2026-06-24T21:45:30Z"
   }
 };

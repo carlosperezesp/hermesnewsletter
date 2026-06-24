@@ -150,6 +150,48 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "CHC",
+      "city": "Chicago Cubs",
+      "shortName": "Chicago",
+      "commonName": "Cubs",
+      "conf": "NL",
+      "div": "NL Central",
+      "gp": 79,
+      "w": 42,
+      "l": 37,
+      "winPct": 0.532,
+      "rf": 385,
+      "ra": 354,
+      "rd": 0,
+      "score": 43,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png",
+      "colors": {
+        "primary": "#0e3386",
+        "secondary": "#cc3433"
+      }
+    },
+    {
+      "code": "MIA",
+      "city": "Miami Marlins",
+      "shortName": "Miami",
+      "commonName": "Marlins",
+      "conf": "NL",
+      "div": "NL East",
+      "gp": 81,
+      "w": 42,
+      "l": 39,
+      "winPct": 0.519,
+      "rf": 349,
+      "ra": 346,
+      "rd": 0,
+      "score": 41,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mia.png",
+      "colors": {
+        "primary": "#00a3e0",
+        "secondary": "#ef3340"
+      }
+    },
+    {
       "code": "CHW",
       "city": "Chicago White Sox",
       "shortName": "Chicago",
@@ -213,27 +255,6 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "CHC",
-      "city": "Chicago Cubs",
-      "shortName": "Chicago",
-      "commonName": "Cubs",
-      "conf": "NL",
-      "div": "NL Central",
-      "gp": 78,
-      "w": 41,
-      "l": 37,
-      "winPct": 0.526,
-      "rf": 375,
-      "ra": 351,
-      "rd": 0,
-      "score": 42,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png",
-      "colors": {
-        "primary": "#0e3386",
-        "secondary": "#cc3433"
-      }
-    },
-    {
       "code": "SD",
       "city": "San Diego Padres",
       "shortName": "San Diego",
@@ -252,27 +273,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#2f241d",
         "secondary": "#ffc425"
-      }
-    },
-    {
-      "code": "MIA",
-      "city": "Miami Marlins",
-      "shortName": "Miami",
-      "commonName": "Marlins",
-      "conf": "NL",
-      "div": "NL East",
-      "gp": 80,
-      "w": 41,
-      "l": 39,
-      "winPct": 0.512,
-      "rf": 345,
-      "ra": 344,
-      "rd": 0,
-      "score": 41,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mia.png",
-      "colors": {
-        "primary": "#00a3e0",
-        "secondary": "#ef3340"
       }
     },
     {
@@ -387,12 +387,12 @@ window.MLB_DATA = {
       "commonName": "Rangers",
       "conf": "AL",
       "div": "AL West",
-      "gp": 79,
+      "gp": 80,
       "w": 38,
-      "l": 41,
-      "winPct": 0.481,
-      "rf": 317,
-      "ra": 329,
+      "l": 42,
+      "winPct": 0.475,
+      "rf": 319,
+      "ra": 333,
       "rd": 0,
       "score": 38,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png",
@@ -534,14 +534,14 @@ window.MLB_DATA = {
       "commonName": "Mets",
       "conf": "NL",
       "div": "NL East",
-      "gp": 78,
+      "gp": 79,
       "w": 34,
-      "l": 44,
-      "winPct": 0.436,
-      "rf": 317,
-      "ra": 351,
+      "l": 45,
+      "winPct": 0.43,
+      "rf": 320,
+      "ra": 361,
       "rd": 0,
-      "score": 35,
+      "score": 34,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nym.png",
       "colors": {
         "primary": "#002d72",
@@ -7762,9 +7762,9 @@ window.MLB_DATA = {
         "city": "New York Mets",
         "era": "2024–present",
         "rings": 0,
-        "dynastyScore": 31.0,
+        "dynastyScore": 30.4,
         "threshold": 89.5,
-        "gap": 58.5,
+        "gap": 59.1,
         "note": "Soto/Alonso era · 2024 NLCS · rising NL East power",
         "needs": "Needs at least one title + sustained dominance",
         "colors": {
@@ -7987,7 +7987,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-24 15:56 UTC",
+  "LAST_UPDATE": "2026-06-24 21:46 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
