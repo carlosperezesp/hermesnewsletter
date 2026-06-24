@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-24 12:42 UTC",
+  "UPDATED": "2026-06-24 15:24 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at San Diego:Corey Heim",
@@ -67,6 +67,14 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-14"
     },
     {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Mike Trout",
+      "sport": "mlb",
+      "detail": "MLB",
+      "text": "Mike Trout es nuevo nº1 · Road to Glory",
+      "weight": 92,
+      "firstSeen": "2026-06-24"
+    },
+    {
       "id": "tennis:in:WTA:Linda Noskova:20260618",
       "sport": "tennis",
       "detail": "Tenis",
@@ -91,6 +99,14 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-14"
     },
     {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Cristopher Sanchez",
+      "sport": "mlb",
+      "detail": "MLB",
+      "text": "Cristopher Sanchez entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-06-24"
+    },
+    {
       "id": "tennis:out:WTA:Karolina Muchova:20260618",
       "sport": "tennis",
       "detail": "Tenis",
@@ -105,6 +121,14 @@ window.GLORY_DATA = {
       "text": "Alexander Bublik sale del top 10 ATP",
       "weight": 78,
       "firstSeen": "2026-06-14"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:out:Shohei Ohtani",
+      "sport": "mlb",
+      "detail": "MLB",
+      "text": "Shohei Ohtani cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-06-24"
     }
   ],
   "REPORTS": [
@@ -273,7 +297,6 @@ window.GLORY_DATA = {
       "VJ Edgecombe"
     ],
     "mlb:ROAD_TO_GLORY.players": [
-      "Shohei Ohtani",
       "Mike Trout",
       "Aaron Judge",
       "Freddie Freeman",
@@ -282,7 +305,8 @@ window.GLORY_DATA = {
       "Yordan Alvarez",
       "Kyle Schwarber",
       "Byron Buxton",
-      "Jacob Misiorowski"
+      "Jacob Misiorowski",
+      "Cristopher Sanchez"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",

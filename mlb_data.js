@@ -666,37 +666,6 @@ window.MLB_DATA = {
       "prevRank": 1
     },
     {
-      "id": 660271,
-      "name": "Shohei Ohtani",
-      "first": "Shohei",
-      "last": "Ohtani",
-      "pos": "SP",
-      "teamCode": "LAD",
-      "age": 31,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39832.png",
-      "colors": {
-        "primary": "#005a9c",
-        "secondary": "#ef3e42"
-      },
-      "score": 100,
-      "stats": {
-        "type": "pitching",
-        "g": 12,
-        "w": 7,
-        "era": 1.47,
-        "ip": 73.2,
-        "so": 78,
-        "whip": 0.88
-      },
-      "legendScore": 92.1,
-      "currentScore": 100.0,
-      "battingScore": 84,
-      "pitchingScore": 100,
-      "twoWayBonus": 18.5,
-      "rings": 2,
-      "prevRank": 2
-    },
-    {
       "id": 36018,
       "name": "Yordan Alvarez",
       "first": "Yordan",
@@ -1159,36 +1128,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 39832,
-      "name": "Shohei Ohtani",
-      "first": "Shohei",
-      "last": "Ohtani",
-      "pos": "DH",
-      "teamCode": "LAD",
-      "age": 31,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39832.png",
-      "colors": {
-        "primary": "#005a9c",
-        "secondary": "#ef3e42"
-      },
-      "score": 84,
-      "stats": {
-        "type": "batting",
-        "ab": 270,
-        "hr": 17,
-        "rbi": 45,
-        "avg": 0.293,
-        "sb": 6,
-        "ops": 0.966
-      },
-      "legendScore": 92.1,
-      "currentScore": 100.0,
-      "battingScore": 84,
-      "pitchingScore": 100,
-      "twoWayBonus": 18.5,
-      "rings": 2
-    },
-    {
       "id": 42403,
       "name": "Bobby Witt Jr.",
       "first": "Bobby",
@@ -1254,7 +1193,7 @@ window.MLB_DATA = {
       "name": "Casey Schmitt",
       "first": "Casey",
       "last": "Schmitt",
-      "pos": "DH",
+      "pos": "LF",
       "teamCode": "SF",
       "age": 27,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4301949.png",
@@ -2932,7 +2871,8 @@ window.MLB_DATA = {
       "battingScore": null,
       "pitchingScore": 68,
       "twoWayBonus": 0,
-      "rings": 0
+      "rings": 0,
+      "prevRank": 11
     },
     {
       "id": 42417,
@@ -3719,7 +3659,7 @@ window.MLB_DATA = {
       "name": "Bo Bichette",
       "first": "Bo",
       "last": "Bichette",
-      "pos": "3B",
+      "pos": "SS",
       "teamCode": "NYM",
       "age": 28,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/38904.png",
@@ -7452,28 +7392,6 @@ window.MLB_DATA = {
     "teamThreshold": 89.5,
     "players": [
       {
-        "id": 39832,
-        "name": "Shohei Ohtani",
-        "pos": "DH",
-        "teamCode": "LAD",
-        "colors": {
-          "primary": "#005a9c",
-          "secondary": "#ef3e42"
-        },
-        "age": 31,
-        "careerScore": 92.1,
-        "legendScore": 92.1,
-        "currentScore": 100.0,
-        "battingScore": 84,
-        "pitchingScore": 100,
-        "twoWayBonus": 18.5,
-        "threshold": 92.5,
-        "gap": 0.4,
-        "rings": 2,
-        "note": "3 MVPs · two-way unicorn · 50/50 season · 2 World Series rings",
-        "prevRank": 1
-      },
-      {
         "id": 30836,
         "name": "Mike Trout",
         "pos": "CF",
@@ -7670,6 +7588,28 @@ window.MLB_DATA = {
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
         "prevRank": 10
+      },
+      {
+        "id": 42359,
+        "name": "Cristopher Sanchez",
+        "pos": "SP",
+        "teamCode": "PHI",
+        "colors": {
+          "primary": "#e81828",
+          "secondary": "#002d72"
+        },
+        "age": 29,
+        "careerScore": 55.8,
+        "legendScore": 55.8,
+        "currentScore": 90,
+        "battingScore": null,
+        "pitchingScore": 90,
+        "twoWayBonus": 0,
+        "threshold": 92.5,
+        "gap": 36.7,
+        "rings": 0,
+        "note": "Multiple elite seasons + several titles needed",
+        "prevRank": null
       }
     ],
     "teams": [
@@ -8047,7 +7987,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-24 09:53 UTC",
+  "LAST_UPDATE": "2026-06-24 15:22 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

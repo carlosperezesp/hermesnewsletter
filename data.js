@@ -83,7 +83,7 @@ window.NHL_DATA = {
       "gf": 288,
       "ga": 241,
       "gd": 47,
-      "score": 69,
+      "score": 68,
       "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
       "colors": {
         "primary": "#003087",
@@ -7407,25 +7407,24 @@ window.NHL_DATA = {
       "last": "Byram",
       "name": "Bowen Byram",
       "pos": "D",
-      "teamCode": "BUF",
+      "teamCode": "CHI",
       "age": 25,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
-        "primary": "#003087",
-        "secondary": "#ffb81c"
+        "primary": "#cf0a2c",
+        "secondary": "#111111"
       },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8481524.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8481524.png",
       "score": 62,
       "stats": {
-        "gp": 95,
-        "g": 15,
-        "a": 34,
-        "p": 49,
+        "gp": 82,
+        "g": 11,
+        "a": 31,
+        "p": 42,
         "pm": 15,
         "toi": 22.3,
-        "shots": 109,
-        "gp_po": 13
+        "shots": 109
       },
       "trajectory": [
         45,
@@ -7473,15 +7472,15 @@ window.NHL_DATA = {
       "last": "McMichael",
       "name": "Connor McMichael",
       "pos": "LW",
-      "teamCode": "WSH",
+      "teamCode": "STL",
       "age": 25,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
+        "primary": "#002f87",
+        "secondary": "#fcb514"
       },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8481580.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/STL/8481580.png",
       "score": 62,
       "stats": {
         "gp": 78,
@@ -7640,15 +7639,15 @@ window.NHL_DATA = {
       "last": "Kyrou",
       "name": "Jordan Kyrou",
       "pos": "RW",
-      "teamCode": "STL",
+      "teamCode": "WSH",
       "age": 28,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
-        "primary": "#002f87",
-        "secondary": "#fcb514"
+        "primary": "#041e42",
+        "secondary": "#c8102e"
       },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/STL/8479385.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8479385.png",
       "score": 62,
       "stats": {
         "gp": 72,
@@ -18141,15 +18140,15 @@ window.NHL_DATA = {
       "last": "Crevier",
       "name": "Louis Crevier",
       "pos": "D",
-      "teamCode": "CHI",
+      "teamCode": "BUF",
       "age": 25,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
-        "primary": "#cf0a2c",
-        "secondary": "#111111"
+        "primary": "#003087",
+        "secondary": "#ffb81c"
       },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8481806.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8481806.png",
       "score": 51,
       "stats": {
         "gp": 78,
@@ -28031,25 +28030,24 @@ window.NHL_DATA = {
       "last": "Greenway",
       "name": "Jordan Greenway",
       "pos": "LW",
-      "teamCode": "BUF",
+      "teamCode": "CHI",
       "age": 29,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
-        "primary": "#003087",
-        "secondary": "#ffb81c"
+        "primary": "#cf0a2c",
+        "secondary": "#111111"
       },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8478413.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8478413.png",
       "score": 44,
       "stats": {
-        "gp": 53,
-        "g": 3,
-        "a": 6,
-        "p": 9,
-        "pm": -11,
+        "gp": 40,
+        "g": 1,
+        "a": 5,
+        "p": 6,
+        "pm": -10,
         "toi": 12.4,
-        "shots": 32,
-        "gp_po": 13
+        "shots": 32
       },
       "trajectory": [
         38,
@@ -45004,10 +45002,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-24 09:53 UTC",
+  "LAST_UPDATE": "2026-06-24 15:22 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-24T09:53:00Z"
+    "standingsDateTimeUtc": "2026-06-24T15:22:00Z"
   }
 };
