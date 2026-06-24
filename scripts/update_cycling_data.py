@@ -691,7 +691,7 @@ def _cycling_player(row: tuple, max_raw: int, prev_rank: int | None = None) -> d
         "primary":     _color(cc3),
         "secondary":   "#FFFFFF",
         "legendScore": round(_cycling_raw_score(row) / max_raw * 100, 1),
-        "active":      birth >= 1985,
+        "active":      bool(birth) and birth >= 1985,
         "age":         (datetime.now(timezone.utc).year - birth) if birth else None,
         "stats":       {"tour": tour, "giro": giro, "vuelta": vuelta,
                         "monuments": monuments, "worlds": worlds, "birth": birth},
@@ -750,6 +750,58 @@ def _apply_majors(row: tuple, majors: dict[str, dict[str, int]]) -> tuple:
     )
 
 
+def _season_wins_2026_by_rider(race_calendar: list[dict]) -> dict[str, list[dict]]:
+    """Todas las victorias de 2026 ya disputadas, por corredor (cualquier
+    categoría). Sirve para descubrir corredores y para medir la forma del año
+    en las Promesas — incluso las que no puntúan para el panteón."""
+    out: dict[str, list[dict]] = {}
+    for row in race_calendar:
+        if row.get("status") != "finished" or not row.get("winner"):
+            continue
+        out.setdefault(_norm_name(row["winner"]["name"]), []).append(
+            {"tier": row["tier"], "name": row["name"]}
+        )
+    return out
+
+
+def _fetch_rider_birth(name: str) -> int | None:
+    """Año de nacimiento desde el infobox del corredor en Wikipedia."""
+    wt = _fetch_wiki_page(name, ttl_hours=72.0)
+    if not wt:
+        return None
+    m = re.search(r"[Bb]irth date(?:\s+and\s+age)?\s*\|\s*(?:df=\w+\s*\|\s*)?(\d{4})", wt)
+    return int(m.group(1)) if m else None
+
+
+def _discover_new_riders(
+    race_calendar: list[dict],
+    majors: dict[str, dict[str, int]],
+    known_norm: set[str],
+) -> list[tuple]:
+    """Cualquier ganador de 2026 que no esté ya en el roster se incorpora solo:
+    nombre y país salen del calendario, el año de nacimiento de su página de
+    Wikipedia. Base de palmarés 0 (hasta 2025) + sus victorias panteón de 2026,
+    para que emerja en Promesas sin tocar tablas a mano."""
+    new_rows: list[tuple] = []
+    seen = set(known_norm)
+    for row in race_calendar:
+        if row.get("status") != "finished" or not row.get("winner"):
+            continue
+        w = row["winner"]
+        key = _norm_name(w["name"])
+        if key in seen:
+            continue
+        seen.add(key)
+        birth = _fetch_rider_birth(w["name"])
+        time.sleep(0.3)  # cortesía con la API de Wikipedia
+        add = majors.get(key, {"tour": 0, "giro": 0, "vuelta": 0, "monuments": 0, "worlds": 0})
+        new_rows.append((
+            w["name"], (w.get("cc3") or ""), birth,
+            add["tour"], add["giro"], add["vuelta"], add["monuments"], add["worlds"],
+        ))
+    return new_rows
+
+
 def _auto_current_insight(player: dict, threshold: float) -> str:
     s = player.get("stats", {})
     score = float(player.get("legendScore", 0))
@@ -788,9 +840,13 @@ def build_legends(legends_rows: list[tuple], max_raw: int) -> list[dict]:
     return out
 
 
-def build_prospects(current_rows: list[tuple], max_raw: int, max_age: int = 28, top_n: int = 8) -> list[dict]:
-    """Jóvenes promesa del ciclismo: sub-29 con mejor palmarés ya acumulado —
-    los que han empezado fuerte camino del panteón."""
+def build_prospects(current_rows: list[tuple], max_raw: int,
+                    season_wins: dict[str, list[dict]] | None = None,
+                    max_age: int = 28, top_n: int = 8) -> list[dict]:
+    """Jóvenes promesa del ciclismo: sub-29 que ya están dejando huella —
+    palmarés acumulado camino del panteón y/o victorias en la temporada actual.
+    El desempate por forma 2026 hace emerger a los recién llegados."""
+    season_wins = season_wins or {}
     year = datetime.now(timezone.utc).year
     out = []
     for row in current_rows:
@@ -800,6 +856,7 @@ def build_prospects(current_rows: list[tuple], max_raw: int, max_age: int = 28, 
             continue
         p = _cycling_player(row, max_raw)
         s = p["stats"]
+        wins2026 = season_wins.get(_norm_name(row[0]), [])
         gt = s["tour"] + s["giro"] + s["vuelta"]
         if gt >= 2:
             note = f"Ya con {gt} grandes vueltas a los {age}"
@@ -809,11 +866,17 @@ def build_prospects(current_rows: list[tuple], max_raw: int, max_age: int = 28, 
             note = f"{s['monuments']} monumento{'s' if s['monuments'] > 1 else ''} a los {age}"
         elif s["worlds"] >= 1:
             note = f"Arcoíris a los {age}"
+        elif wins2026:
+            n = len(wins2026)
+            note = f"{n} victoria{'s' if n > 1 else ''} de relieve en 2026 a los {age}"
         else:
             note = f"Emerge a los {age}"
         p["note"] = note
+        p["_season"] = len(wins2026)
         out.append(p)
-    out.sort(key=lambda r: r["legendScore"], reverse=True)
+    # Orden: palmarés panteón primero; a igualdad, la forma de 2026 desempata
+    # (así un recién llegado que está ganando sube por delante de uno parado).
+    out.sort(key=lambda r: (r["legendScore"], r.pop("_season")), reverse=True)
     return out[:top_n]
 
 
@@ -983,8 +1046,16 @@ def write_data() -> None:
     # de él derivamos las victorias que se suman al palmarés base de las tablas.
     race_calendar = build_race_calendar()
     majors = _majors_2026_by_rider(race_calendar)
+    season_wins = _season_wins_2026_by_rider(race_calendar)
     legends_rows = [_apply_majors(r, majors) for r in LEGENDS_RAW]
     current_rows = [_apply_majors(r, majors) for r in CURRENT_RIDERS_RAW]
+
+    # Auto-descubrimiento: cualquier ganador de 2026 que no esté ya en el roster
+    # se incorpora solo (nacimiento/país desde Wikipedia), así emerge sin editar
+    # las tablas a mano.
+    known = {_norm_name(r[0]) for r in legends_rows} | {_norm_name(r[0]) for r in current_rows}
+    current_rows += _discover_new_riders(race_calendar, majors, known)
+
     max_raw = max(_cycling_raw_score(r) for r in legends_rows)
 
     legends = build_legends(legends_rows, max_raw)
@@ -1006,7 +1077,7 @@ def write_data() -> None:
         "UPDATED":      updated,
         "LEGENDS":      legends,
         "CURRENT_RIDERS": current_riders,
-        "CURRENT_PROSPECTS": build_prospects(current_rows, max_raw),
+        "CURRENT_PROSPECTS": build_prospects(current_rows, max_raw, season_wins),
         "CURRENT_RACE": current_race,
         "RACE_CALENDAR": race_calendar,
         "OLYMPIC_ROAD": build_olympic_road(),

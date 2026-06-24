@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-24 09:53 UTC
+// Auto-generated 2026-06-24 10:14 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-06-24 09:53 UTC",
+  "UPDATED": "2026-06-24 10:14 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -710,6 +710,48 @@ window.CYCLING_DATA = {
       "note": "1 monumento a los 27"
     },
     {
+      "id": "isaac_del_toro",
+      "name": "Isaac del Toro",
+      "country": "MEX",
+      "logo": "https://flagcdn.com/24x18/mx.png",
+      "teamCode": "MEX",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "legendScore": 0.0,
+      "active": true,
+      "age": 23,
+      "stats": {
+        "tour": 0,
+        "giro": 0,
+        "vuelta": 0,
+        "monuments": 0,
+        "worlds": 0,
+        "birth": 2003
+      },
+      "note": "2 victorias de relieve en 2026 a los 23"
+    },
+    {
+      "id": "paul_seixas",
+      "name": "Paul Seixas",
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "legendScore": 0.0,
+      "active": true,
+      "age": 20,
+      "stats": {
+        "tour": 0,
+        "giro": 0,
+        "vuelta": 0,
+        "monuments": 0,
+        "worlds": 0,
+        "birth": 2006
+      },
+      "note": "2 victorias de relieve en 2026 a los 20"
+    },
+    {
       "id": "joão_almeida",
       "name": "João Almeida",
       "country": "POR",
@@ -795,30 +837,30 @@ window.CYCLING_DATA = {
         "time": "+ 0\""
       },
       {
-        "rank": null,
+        "rank": 104,
         "name": "Jonas Vingegaard",
         "country": "DEN",
         "logo": "https://flagcdn.com/24x18/dk.png",
         "team": "TVL men",
-        "time": "",
+        "time": "00:00:00",
         "gc_rank": 1
       },
       {
-        "rank": null,
+        "rank": 34,
         "name": "Felix Gall",
         "country": "AUT",
         "logo": "https://flagcdn.com/24x18/at.png",
         "team": "DCT",
-        "time": "",
+        "time": "00:00:00",
         "gc_rank": 2
       },
       {
-        "rank": null,
+        "rank": 33,
         "name": "Jai Hindley",
         "country": "AUS",
         "logo": "https://flagcdn.com/24x18/au.png",
         "team": "RBH",
-        "time": "",
+        "time": "00:00:00",
         "gc_rank": 3
       }
     ],
