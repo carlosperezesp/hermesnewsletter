@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Cycling data: live Grand Tour GC + jerseys via Wikipedia, plus all-time legends."""
 from __future__ import annotations
-import hashlib, json, re, sys, time, urllib.request, urllib.parse
+import hashlib, json, re, sys, time, urllib.request, urllib.parse, urllib.error
 from html.parser import HTMLParser
 from html import unescape
 from datetime import datetime, timezone, date
@@ -12,6 +12,27 @@ CACHE = ROOT / ".cycling_cache"
 CACHE.mkdir(exist_ok=True)
 
 WIKI_API = "https://en.wikipedia.org/w/api.php"
+
+# Wikipedia's API policy requires a descriptive User-Agent with contact info;
+# a generic one ("Hermes/1.0") gets throttled with 429s in bursts.
+USER_AGENT = "Hermes/1.0 (https://github.com/carlosrealmurcia-wq; carlosrealmurcia@gmail.com)"
+
+
+def _urlopen_retry(url: str, timeout: int = 15, tries: int = 4):
+    """GET with exponential backoff on 429/503 (Wikipedia throttling)."""
+    last_exc: Exception | None = None
+    for attempt in range(tries):
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        try:
+            return urllib.request.urlopen(req, timeout=timeout).read()
+        except urllib.error.HTTPError as exc:
+            last_exc = exc
+            if exc.code in (429, 503) and attempt < tries - 1:
+                time.sleep(2 ** attempt)  # 1s, 2s, 4s
+                continue
+            raise
+    if last_exc:
+        raise last_exc
 
 
 # ── Prev-rank helper ─────────────────────────────────────────────────────────
@@ -48,7 +69,7 @@ CC3_TO_CC2: dict[str, str] = {
     "ECU": "ec", "URU": "uy", "CAN": "ca", "RUS": "ru", "KAZ": "kz",
     "LAT": "lv", "EST": "ee", "LTU": "lt", "CZE": "cz", "CRO": "hr",
     "RSA": "za", "NZL": "nz", "ARG": "ar", "BRA": "br", "UKR": "ua",
-    "BLR": "by", "SVN": "si",
+    "BLR": "by", "SVN": "si", "MEX": "mx", "ERI": "er", "JPN": "jp",
 }
 COUNTRY_COLORS: dict[str, str] = {
     "BEL": "#000000", "FRA": "#002395", "ITA": "#009246", "ESP": "#AA151B",
@@ -153,7 +174,8 @@ MAJOR_RACES: list[dict] = [
     ("Vuelta de una semana", "Paris-Niza",        "2026 Paris–Nice",             "2026-03-08", "2026-03-15"),
     ("Vuelta de una semana", "Tirreno-Adriático", "2026 Tirreno–Adriatico",      "2026-03-09", "2026-03-15"),
     ("Vuelta de una semana", "Itzulia País Vasco","2026 Tour of the Basque Country", "2026-04-06", "2026-04-11"),
-    ("Vuelta de una semana", "Critérium du Dauphiné","2026 Critérium du Dauphiné","2026-06-07", "2026-06-14"),
+    # El Dauphiné pasó a llamarse Tour Auvergne-Rhône-Alpes en 2026.
+    ("Vuelta de una semana", "Tour Auvergne-Rhône-Alpes","2026 Tour Auvergne-Rhône-Alpes","2026-06-07", "2026-06-14"),
     ("Vuelta de una semana", "Tour de Suisse",    "2026 Tour de Suisse",         "2026-06-14", "2026-06-21"),
     # Clásicas grandes (un día, fuera de Monumentos)
     ("Clásica", "Strade Bianche",   "2026 Strade Bianche",          "2026-03-07", "2026-03-07"),
@@ -182,9 +204,7 @@ def _fetch_wiki_section(page: str, section: int, ttl_hours: float = 2.0) -> str:
         if age_h < ttl_hours:
             return path.read_text()
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "Hermes/1.0"})
-        with urllib.request.urlopen(req, timeout=15) as r:
-            d = json.loads(r.read())
+        d = json.loads(_urlopen_retry(url))
         wt = d.get("parse", {}).get("wikitext", {}).get("*", "")
         path.write_text(wt)
         return wt
@@ -203,9 +223,7 @@ def _fetch_wiki_page(page: str, ttl_hours: float = 2.0) -> str:
         if age_h < ttl_hours:
             return path.read_text()
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "Hermes/1.0"})
-        with urllib.request.urlopen(req, timeout=15) as r:
-            d = json.loads(r.read())
+        d = json.loads(_urlopen_retry(url))
         wt = d.get("parse", {}).get("wikitext", {}).get("*", "")
         if wt:  # no cacheamos vacíos (página inexistente o 429) para poder reintentar
             path.write_text(wt)
@@ -223,9 +241,7 @@ def _fetch_url(url: str, ttl_hours: float = 1.0) -> str:
         if age_h < ttl_hours:
             return path.read_text()
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "Hermes/1.0"})
-        with urllib.request.urlopen(req, timeout=15) as r:
-            text = r.read().decode("utf-8", errors="replace")
+        text = _urlopen_retry(url).decode("utf-8", errors="replace")
         path.write_text(text)
         return text
     except Exception as exc:
@@ -685,6 +701,55 @@ def _cycling_player(row: tuple, max_raw: int, prev_rank: int | None = None) -> d
     return out
 
 
+# ── Palmarés auto-incremental ──────────────────────────────────────────────────
+# Las tablas LEGENDS_RAW / CURRENT_RIDERS_RAW reflejan el palmarés HASTA 2025.
+# Las victorias de 2026 que ya detectamos del calendario de Wikipedia (grandes
+# vueltas, monumentos y mundial) se suman encima, de modo que los top-10 se
+# actualizan solos sin tocar las tablas a mano. (Las vueltas de una semana y las
+# clásicas no entran en el score, así que no se contabilizan.)
+_GT_FIELD = {
+    "Giro d'Italia":   "giro",
+    "Tour de Francia": "tour",
+    "Vuelta a España": "vuelta",
+}
+
+
+def _majors_2026_by_rider(race_calendar: list[dict]) -> dict[str, dict[str, int]]:
+    out: dict[str, dict[str, int]] = {}
+    for row in race_calendar:
+        if row.get("status") != "finished" or not row.get("winner"):
+            continue
+        tier = row.get("tier")
+        if tier == "Gran Vuelta":
+            field = _GT_FIELD.get(row.get("name"))
+        elif tier == "Monumento":
+            field = "monuments"
+        elif tier == "Mundial":
+            field = "worlds"
+        else:
+            continue  # vueltas de una semana / clásicas no puntúan
+        if not field:
+            continue
+        bucket = out.setdefault(
+            _norm_name(row["winner"]["name"]),
+            {"tour": 0, "giro": 0, "vuelta": 0, "monuments": 0, "worlds": 0},
+        )
+        bucket[field] += 1
+    return out
+
+
+def _apply_majors(row: tuple, majors: dict[str, dict[str, int]]) -> tuple:
+    add = majors.get(_norm_name(row[0]))
+    if not add:
+        return row
+    name, cc3, birth, tour, giro, vuelta, monuments, worlds = row[:8]
+    return (
+        name, cc3, birth,
+        tour + add["tour"], giro + add["giro"], vuelta + add["vuelta"],
+        monuments + add["monuments"], worlds + add["worlds"],
+    )
+
+
 def _auto_current_insight(player: dict, threshold: float) -> str:
     s = player.get("stats", {})
     score = float(player.get("legendScore", 0))
@@ -712,25 +777,23 @@ def _auto_current_insight(player: dict, threshold: float) -> str:
     return "Necesita una victoria mayor para activar el salto histórico"
 
 
-def build_legends() -> list[dict]:
+def build_legends(legends_rows: list[tuple], max_raw: int) -> list[dict]:
     raw_scores = [
         (_cycling_raw_score(row), row)
-        for row in LEGENDS_RAW
+        for row in legends_rows
     ]
-    max_raw = max(s for s, _ in raw_scores)
     out = []
     for raw, row in sorted(raw_scores, reverse=True):
         out.append(_cycling_player(row, max_raw))
     return out
 
 
-def build_prospects(max_age: int = 28, top_n: int = 8) -> list[dict]:
+def build_prospects(current_rows: list[tuple], max_raw: int, max_age: int = 28, top_n: int = 8) -> list[dict]:
     """Jóvenes promesa del ciclismo: sub-29 con mejor palmarés ya acumulado —
     los que han empezado fuerte camino del panteón."""
-    max_raw = max(_cycling_raw_score(row) for row in LEGENDS_RAW)
     year = datetime.now(timezone.utc).year
     out = []
-    for row in CURRENT_RIDERS_RAW:
+    for row in current_rows:
         birth = row[2]
         age = year - birth if birth else None
         if not age or age > max_age:
@@ -754,11 +817,10 @@ def build_prospects(max_age: int = 28, top_n: int = 8) -> list[dict]:
     return out[:top_n]
 
 
-def build_current_riders(prev_rank: dict[str, int]) -> list[dict]:
-    max_raw = max(_cycling_raw_score(row) for row in LEGENDS_RAW)
-    legend_scores = sorted((_cycling_player(row, max_raw)["legendScore"] for row in LEGENDS_RAW), reverse=True)
+def build_current_riders(current_rows: list[tuple], legends_rows: list[tuple], max_raw: int, prev_rank: dict[str, int]) -> list[dict]:
+    legend_scores = sorted((_cycling_player(row, max_raw)["legendScore"] for row in legends_rows), reverse=True)
     threshold = legend_scores[9] if len(legend_scores) >= 10 else 0.0
-    riders = [_cycling_player(row, max_raw, prev_rank.get(row[0].lower().replace(" ", "_"))) for row in CURRENT_RIDERS_RAW]
+    riders = [_cycling_player(row, max_raw, prev_rank.get(row[0].lower().replace(" ", "_"))) for row in current_rows]
     for rider in riders:
         rider["insight"] = _auto_current_insight(rider, threshold)
     return sorted(riders, key=lambda r: r["legendScore"], reverse=True)[:10]
@@ -916,10 +978,19 @@ def write_data() -> None:
     prev_current = _prev_rank_map(out_path, "CYCLING_DATA", "CURRENT_RIDERS")
 
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    legends = build_legends()
+
+    # El calendario (con ganadores de 2026 de Wikipedia) se construye primero:
+    # de él derivamos las victorias que se suman al palmarés base de las tablas.
+    race_calendar = build_race_calendar()
+    majors = _majors_2026_by_rider(race_calendar)
+    legends_rows = [_apply_majors(r, majors) for r in LEGENDS_RAW]
+    current_rows = [_apply_majors(r, majors) for r in CURRENT_RIDERS_RAW]
+    max_raw = max(_cycling_raw_score(r) for r in legends_rows)
+
+    legends = build_legends(legends_rows, max_raw)
     for lg in legends:
         lg["prevRank"] = prev_legends.get(str(lg.get("id") or lg.get("name", "")))
-    current_riders = build_current_riders(prev_current)
+    current_riders = build_current_riders(current_rows, legends_rows, max_raw, prev_current)
 
     race_meta   = _active_race()
     current_race = None
@@ -931,12 +1002,11 @@ def write_data() -> None:
 
     importance = _cycling_importance(current_race)
 
-    race_calendar = build_race_calendar()
     payload = {
         "UPDATED":      updated,
         "LEGENDS":      legends,
         "CURRENT_RIDERS": current_riders,
-        "CURRENT_PROSPECTS": build_prospects(),
+        "CURRENT_PROSPECTS": build_prospects(current_rows, max_raw),
         "CURRENT_RACE": current_race,
         "RACE_CALENDAR": race_calendar,
         "OLYMPIC_ROAD": build_olympic_road(),
