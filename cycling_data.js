@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-24 08:02 UTC
+// Auto-generated 2026-06-24 08:34 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-06-24 08:02 UTC",
+  "UPDATED": "2026-06-24 08:34 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -105,7 +105,7 @@ window.CYCLING_DATA = {
         "worlds": 1,
         "birth": 2000
       },
-      "prevRank": 6
+      "prevRank": 5
     },
     {
       "id": "miguel_indurain",
@@ -126,7 +126,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1964
       },
-      "prevRank": 5
+      "prevRank": 6
     },
     {
       "id": "chris_froome",
@@ -315,7 +315,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1996
       },
-      "prevRank": 16
+      "prevRank": 15
     },
     {
       "id": "peter_sagan",
@@ -336,7 +336,7 @@ window.CYCLING_DATA = {
         "worlds": 3,
         "birth": 1990
       },
-      "prevRank": 15
+      "prevRank": 16
     },
     {
       "id": "roger_de_vlaeminck",
@@ -487,7 +487,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1996
       },
-      "prevRank": 4,
+      "prevRank": 3,
       "insight": "Palmarés de Grand Tour ya muy serio"
     },
     {
@@ -509,7 +509,7 @@ window.CYCLING_DATA = {
         "worlds": 1,
         "birth": 1995
       },
-      "prevRank": 3,
+      "prevRank": 4,
       "insight": "Legado de clásicas y Mundial sostienen su score"
     },
     {
@@ -641,6 +641,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1994
       },
+      "prevRank": 10,
       "insight": "Necesita una victoria mayor para activar el salto histórico"
     }
   ],
@@ -794,30 +795,30 @@ window.CYCLING_DATA = {
         "time": "+ 0\""
       },
       {
-        "rank": 104,
+        "rank": null,
         "name": "Jonas Vingegaard",
         "country": "DEN",
         "logo": "https://flagcdn.com/24x18/dk.png",
         "team": "TVL men",
-        "time": "00:00:00",
+        "time": "",
         "gc_rank": 1
       },
       {
-        "rank": 34,
+        "rank": null,
         "name": "Felix Gall",
         "country": "AUT",
         "logo": "https://flagcdn.com/24x18/at.png",
         "team": "DCT",
-        "time": "00:00:00",
+        "time": "",
         "gc_rank": 2
       },
       {
-        "rank": 33,
+        "rank": null,
         "name": "Jai Hindley",
         "country": "AUS",
         "logo": "https://flagcdn.com/24x18/au.png",
         "team": "RBH",
-        "time": "00:00:00",
+        "time": "",
         "gc_rank": 3
       }
     ],

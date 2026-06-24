@@ -7843,7 +7843,7 @@ window.NHL_DATA = {
       "name": "Pierre-Luc Dubois",
       "pos": "C",
       "teamCode": "WSH",
-      "age": 27,
+      "age": 28,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -10616,7 +10616,7 @@ window.NHL_DATA = {
       "name": "Vasily Podkolzin",
       "pos": "RW",
       "teamCode": "EDM",
-      "age": 24,
+      "age": 25,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
@@ -31412,7 +31412,7 @@ window.NHL_DATA = {
       "name": "Kai Uchacz",
       "pos": "C",
       "teamCode": "VGK",
-      "age": 22,
+      "age": 23,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -45004,10 +45004,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-23 22:46 UTC",
+  "LAST_UPDATE": "2026-06-24 08:34 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-23T22:45:30Z"
+    "standingsDateTimeUtc": "2026-06-24T08:33:16Z"
   }
 };

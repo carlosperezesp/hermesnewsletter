@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-23 22:46 UTC
+// Auto-generated 2026-06-24 08:34 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-23 22:46 UTC",
+  "UPDATED": "2026-06-24 08:34 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -16,7 +16,7 @@ window.GOLF_DATA = {
     "startLabel": "16 Jul",
     "endLabel": "19 Jul",
     "round": 0,
-    "daysToStart": 23,
+    "daysToStart": 22,
     "leaderboard": [],
     "favorites": [
       "Scottie Scheffler",
@@ -106,7 +106,7 @@ window.GOLF_DATA = {
     "startLabel": "25 Jun",
     "endLabel": "28 Jun",
     "round": 0,
-    "daysToStart": 2,
+    "daysToStart": 1,
     "leaderboard": [],
     "favorites": [
       "Scottie Scheffler",

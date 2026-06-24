@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-23 22:47 UTC
+// Auto-generated 2026-06-24 08:35 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-23 22:47 UTC",
+  "UPDATED": "2026-06-24 08:35 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-06-23 22:47 UTC"
+    "through": "2026-06-24 08:35 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -91,17 +91,7 @@ window.FOOTBALL_DATA = {
       "note": "Finalista de Euro; rating alto por consistencia ante élite UEFA.",
       "eloPrev": 2017,
       "recentDelta": 2.6,
-      "recentMatches": 2,
-      "nextMatch": {
-        "date": "2026-06-23",
-        "round": 2,
-        "opponent": "Ghana",
-        "opponentCode": "GHA",
-        "venue": "Gillette Stadium",
-        "city": "Boston",
-        "group": "L",
-        "type": "Mundial 2026"
-      }
+      "recentMatches": 2
     },
     {
       "id": "netherlands",
@@ -164,17 +154,7 @@ window.FOOTBALL_DATA = {
       "note": "Plantilla top y fase clasificatoria fuerte.",
       "eloPrev": 1997,
       "recentDelta": -8.9,
-      "recentMatches": 2,
-      "nextMatch": {
-        "date": "2026-06-23",
-        "round": 2,
-        "opponent": "Uzbekistán",
-        "opponentCode": "UZB",
-        "venue": "NRG Stadium",
-        "city": "Houston",
-        "group": "K",
-        "type": "Mundial 2026"
-      }
+      "recentMatches": 2
     },
     {
       "id": "brazil",
@@ -853,36 +833,7 @@ window.FOOTBALL_DATA = {
         ]
       }
     },
-    "upcomingMatches": [
-      {
-        "round": 2,
-        "date": "2026-06-23",
-        "timeET": "TBD",
-        "home": "ENG",
-        "homeName": "Inglaterra",
-        "away": "GHA",
-        "awayName": "Ghana",
-        "group": "L",
-        "venue": "Gillette Stadium",
-        "city": "Boston",
-        "homeElo": 2020,
-        "awayElo": 1720
-      },
-      {
-        "round": 2,
-        "date": "2026-06-23",
-        "timeET": "TBD",
-        "home": "POR",
-        "homeName": "Portugal",
-        "away": "UZB",
-        "awayName": "Uzbekistán",
-        "group": "K",
-        "venue": "NRG Stadium",
-        "city": "Houston",
-        "homeElo": 1988,
-        "awayElo": 1625
-      }
-    ]
+    "upcomingMatches": []
   },
   "ROAD_TO_GLORY": {
     "dynastyThreshold": 42.1,
@@ -1207,16 +1158,6 @@ window.FOOTBALL_DATA = {
         "eloPrev": 2017,
         "recentDelta": 2.6,
         "recentMatches": 2,
-        "nextMatch": {
-          "date": "2026-06-23",
-          "round": 2,
-          "opponent": "Ghana",
-          "opponentCode": "GHA",
-          "venue": "Gillette Stadium",
-          "city": "Boston",
-          "group": "L",
-          "type": "Mundial 2026"
-        },
         "dynastyPotential": 100.0,
         "rawDynastyPotential": 55.0,
         "gapToDynastyTop10": 0.0,
@@ -1246,16 +1187,6 @@ window.FOOTBALL_DATA = {
         "eloPrev": 1997,
         "recentDelta": -8.9,
         "recentMatches": 2,
-        "nextMatch": {
-          "date": "2026-06-23",
-          "round": 2,
-          "opponent": "Uzbekistán",
-          "opponentCode": "UZB",
-          "venue": "NRG Stadium",
-          "city": "Houston",
-          "group": "K",
-          "type": "Mundial 2026"
-        },
         "dynastyPotential": 88.6,
         "rawDynastyPotential": 34.9,
         "gapToDynastyTop10": 4.5,
