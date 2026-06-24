@@ -4522,11 +4522,9 @@ function NewsletterApp() {
           const CRI = window.CRICKET_DATA;
           const players = CRI.PLAYERS || [];
           const cricketFormats = [["Test", "test"], ["ODI", "odi"], ["T20", "t20"], ["Franquicia", "franchise"]];
-          const cricketDisciplines = [["Overall", "overall"], ["Bateadores", "batting"], ["Bowlers", "bowling"]];
           const wtc = CRI.WTC?.standings || [];
           const wtcRecent = CRI.WTC?.recentMatches || [];
           const wtcUpcoming = CRI.WTC?.upcomingMatches || [];
-          const wtcPlayers = CRI.WTC?.players || [];
           const trophies = CRI.TROPHIES || [];
           const road = CRI.ROAD_TO_GLORY?.players || [];
           const legendThreshold = CRI.ROAD_TO_GLORY?.playerThreshold || 79;
@@ -4600,44 +4598,39 @@ function NewsletterApp() {
                 </div>
               </NewsletterSection>
 
-              {cricketFormats.map(([label, fkey]) => {
-                const g = CRI.FORMAT_KINGS?.[fkey] || {};
-                if (!(g.overall || []).length) return null;
-                return (
-                  <NewsletterSection
-                    key={fkey}
-                    kicker={`Cricket · ${label}`}
-                    title={`${label} — overall, bateadores y bowlers`}
-                    sub="Bateo y bowling por separado (como bateadores y lanzadores en béisbol); overall = mejor combinado de ambas (índice all-rounder)."
-                  >
-                    <div className="cricket-format-grid">
-                      {cricketDisciplines.map(([clabel, disc]) => (
-                        <div className="cricket-format" key={disc}>
-                          <div className="cricket-format__head">{clabel}</div>
-                          <div className="newsletter-list">
-                            {(g[disc] || []).slice(0, 5).map((p, i) => (
-                              <NewsletterRankRow
-                                key={`${fkey}-${disc}-${p.id}`}
-                                rank={i + 1}
-                                item={p}
-                                alive={new Set()}
-                                score={p.score}
-                                scoreDisplay={(p.score ?? 0).toFixed(1)}
-                                scoreLabel={clabel}
-                                meta={`${p.country} · ${p.role}`}
-                                note={disc === "batting" ? `${p.runs} runs · bowl ${p.bowling}`
-                                  : disc === "bowling" ? `${p.wickets} wickets · bat ${p.batting}`
-                                  : `bat ${p.batting} · bowl ${p.bowling}`}
-                                logo={p.logo}
-                              />
-                            ))}
-                          </div>
+              <NewsletterSection
+                kicker="Cricket · Reyes por formato"
+                title="Mejor combinado por formato"
+                sub="Overall = índice all-rounder (bateo + bowling) en cada formato. Top 5 actual en Test, ODI, T20I y franquicias."
+              >
+                <div className="cricket-format-grid">
+                  {cricketFormats.map(([label, fkey]) => {
+                    const overall = (CRI.FORMAT_KINGS?.[fkey]?.overall || []).slice(0, 5);
+                    if (!overall.length) return null;
+                    return (
+                      <div className="cricket-format" key={fkey}>
+                        <div className="cricket-format__head">{label}</div>
+                        <div className="newsletter-list">
+                          {overall.map((p, i) => (
+                            <NewsletterRankRow
+                              key={`${fkey}-${p.id}`}
+                              rank={i + 1}
+                              item={p}
+                              alive={new Set()}
+                              score={p.score}
+                              scoreDisplay={(p.score ?? 0).toFixed(1)}
+                              scoreLabel={label}
+                              meta={`${p.country} · ${p.role}`}
+                              note={`bat ${p.batting} · bowl ${p.bowling}`}
+                              logo={p.logo}
+                            />
+                          ))}
                         </div>
-                      ))}
-                    </div>
-                  </NewsletterSection>
-                );
-              })}
+                      </div>
+                    );
+                  })}
+                </div>
+              </NewsletterSection>
 
               <NewsletterSection
                 kicker="World Test Championship"
@@ -4697,33 +4690,6 @@ function NewsletterApp() {
                       </div>
                     ))}
                   </div>
-                </div>
-              </NewsletterSection>
-
-              <NewsletterSection
-                kicker="WTC Player Index"
-                title="Top 10 jugadores del ciclo WTC 2025-27"
-                sub="Nivel 0-100 del ciclo Test actual, acompañado de score de leyenda de carrera."
-              >
-                <div className="newsletter-list">
-                  {wtcPlayers.map((p, i) => (
-                    <NewsletterRankRow
-                      key={p.id}
-                      rank={i + 1}
-                      item={p}
-                      alive={new Set()}
-                      score={p.level}
-                      scoreDisplay={p.level.toFixed(1)}
-                      scoreLabel="WTC"
-                      scoreB={p.legendScore}
-                      scoreBDisplay={p.legendScore.toFixed(1)}
-                      scoreBLabel="Leyenda"
-                      scoreBThreshold={legendThreshold}
-                      meta={`WTC 2025-27 · ${p.country} · ${p.role}`}
-                      note={`${p.stats.runs} runs · ${p.stats.wickets} wickets. ${p.note}`}
-                      logo={p.logo}
-                    />
-                  ))}
                 </div>
               </NewsletterSection>
 
