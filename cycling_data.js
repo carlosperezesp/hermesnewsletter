@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-24 10:14 UTC
+// Auto-generated 2026-06-24 10:22 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-06-24 10:14 UTC",
+  "UPDATED": "2026-06-24 10:22 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -647,69 +647,6 @@ window.CYCLING_DATA = {
   ],
   "CURRENT_PROSPECTS": [
     {
-      "id": "tadej_pogacar",
-      "name": "Tadej Pogacar",
-      "country": "SLO",
-      "logo": "https://flagcdn.com/24x18/si.png",
-      "teamCode": "SLO",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "legendScore": 42.3,
-      "active": true,
-      "age": 26,
-      "stats": {
-        "tour": 3,
-        "giro": 1,
-        "vuelta": 0,
-        "monuments": 9,
-        "worlds": 1,
-        "birth": 2000
-      },
-      "note": "Ya con 4 grandes vueltas a los 26"
-    },
-    {
-      "id": "remco_evenepoel",
-      "name": "Remco Evenepoel",
-      "country": "BEL",
-      "logo": "https://flagcdn.com/24x18/be.png",
-      "teamCode": "BEL",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "legendScore": 13.9,
-      "active": true,
-      "age": 26,
-      "stats": {
-        "tour": 0,
-        "giro": 0,
-        "vuelta": 1,
-        "monuments": 3,
-        "worlds": 2,
-        "birth": 2000
-      },
-      "note": "Una gran vuelta a los 26"
-    },
-    {
-      "id": "tom_pidcock",
-      "name": "Tom Pidcock",
-      "country": "GBR",
-      "logo": "https://flagcdn.com/24x18/gb.png",
-      "teamCode": "GBR",
-      "primary": "#012169",
-      "secondary": "#FFFFFF",
-      "legendScore": 2.0,
-      "active": true,
-      "age": 27,
-      "stats": {
-        "tour": 0,
-        "giro": 0,
-        "vuelta": 0,
-        "monuments": 1,
-        "worlds": 0,
-        "birth": 1999
-      },
-      "note": "1 monumento a los 27"
-    },
-    {
       "id": "isaac_del_toro",
       "name": "Isaac del Toro",
       "country": "MEX",
@@ -750,27 +687,6 @@ window.CYCLING_DATA = {
         "birth": 2006
       },
       "note": "2 victorias de relieve en 2026 a los 20"
-    },
-    {
-      "id": "joão_almeida",
-      "name": "João Almeida",
-      "country": "POR",
-      "logo": "https://flagcdn.com/24x18/pt.png",
-      "teamCode": "POR",
-      "primary": "#006600",
-      "secondary": "#FFFFFF",
-      "legendScore": 0.0,
-      "active": true,
-      "age": 28,
-      "stats": {
-        "tour": 0,
-        "giro": 0,
-        "vuelta": 0,
-        "monuments": 0,
-        "worlds": 0,
-        "birth": 1998
-      },
-      "note": "Emerge a los 28"
     }
   ],
   "CURRENT_RACE": {

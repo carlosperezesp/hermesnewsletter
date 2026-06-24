@@ -842,8 +842,8 @@ def build_legends(legends_rows: list[tuple], max_raw: int) -> list[dict]:
 
 def build_prospects(current_rows: list[tuple], max_raw: int,
                     season_wins: dict[str, list[dict]] | None = None,
-                    max_age: int = 28, top_n: int = 8) -> list[dict]:
-    """Jóvenes promesa del ciclismo: sub-29 que ya están dejando huella —
+                    max_age: int = 24, top_n: int = 8) -> list[dict]:
+    """Jóvenes promesa del ciclismo: sub-25 que ya están dejando huella —
     palmarés acumulado camino del panteón y/o victorias en la temporada actual.
     El desempate por forma 2026 hace emerger a los recién llegados."""
     season_wins = season_wins or {}
