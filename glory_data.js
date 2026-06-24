@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-24 08:36 UTC",
+  "UPDATED": "2026-06-24 09:55 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at San Diego:Corey Heim",
@@ -143,27 +143,27 @@ window.GLORY_DATA = {
       "sport": "nba",
       "competition": "NBA",
       "champion": "Knicks se proclama campeón (4-1 a Spurs)",
-      "scopeLabel": "Top 5 de la temporada",
+      "scopeLabel": "Top 5 de los playoffs",
       "top5": [
         {
-          "name": "Luka Doncic",
+          "name": "Nikola Jokic",
           "score": 100
         },
         {
-          "name": "Nikola Jokic",
-          "score": 97
+          "name": "Cade Cunningham",
+          "score": 95
+        },
+        {
+          "name": "Paolo Banchero",
+          "score": 95
         },
         {
           "name": "Shai Gilgeous-Alexander",
+          "score": 93
+        },
+        {
+          "name": "Jalen Brunson",
           "score": 92
-        },
-        {
-          "name": "Giannis Antetokounmpo",
-          "score": 89
-        },
-        {
-          "name": "Jaylen Brown",
-          "score": 88
         }
       ],
       "firstSeen": "2026-06-14"
