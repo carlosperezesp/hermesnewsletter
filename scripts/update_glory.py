@@ -22,11 +22,13 @@ EVENT_RETENTION_DAYS = 14   # cuánto vive un hecho discreto en el feed
 REPORT_RETENTION_DAYS = 21  # cuánto vive un informe de cierre
 SUMO_REPORT_WINDOW = 16     # un basho cuenta como "recién cerrado" estos días
 
-# id de sección -> (archivo, etiqueta visible)
+# id de sección -> (archivo, etiqueta visible). TODOS los deportes: de aquí salen
+# tanto los hechos puntuales (victorias) e informes como las tablas vigiladas.
 SOURCES = {
     "nhl": ("data.js", "NHL"),
     "nba": ("nba_data.js", "NBA"),
     "mlb": ("mlb_data.js", "MLB"),
+    "nfl": ("nfl_data.js", "NFL"),
     "tennis": ("tennis_data.js", "Tenis"),
     "cycling": ("cycling_data.js", "Ciclismo"),
     "sumo": ("sumo_data.js", "Sumo"),
@@ -34,7 +36,57 @@ SOURCES = {
     "motogp": ("motogp_data.js", "MotoGP"),
     "f1": ("f1_data.js", "F1"),
     "indycar": ("indycar_data.js", "IndyCar"),
+    "golf": ("golf_data.js", "Golf"),
+    "afl": ("afl_data.js", "AFL"),
+    "rugby": ("rugby_data.js", "Rugby"),
+    "football": ("football_data.js", "Fútbol"),
+    "cricket": ("cricket_data.js", "Cricket"),
+    "athletics": ("athletics_data.js", "Atletismo"),
 }
+
+# ── Tablas vigiladas: cualquier top-10 que se renderiza en la web ────────────
+# Cada tabla -> (ruta dentro del *_data.js, etiqueta de la tabla, clave del nombre,
+# modo). modo "full" = avisa de nuevo nº1 + entradas + salidas; "leader" = solo
+# del nuevo nº1 (para tablas donde entradas/salidas ya se cubren aparte, p. ej.
+# el top-10 ATP/WTA lo lleva ATP_CHANGES). Las rutas con punto bajan a subobjetos.
+RANK_TABLES = {
+    "nhl": [("ROAD_TO_GLORY.players", "Road to Glory", "name", "full"),
+            ("ROAD_TO_GLORY.teams", "dinastías", "city", "full"),
+            ("ROAD_TO_GLORY.youngProspects", "jóvenes promesas", "name", "full")],
+    "nba": [("ROAD_TO_GLORY.players", "Road to Glory", "name", "full"),
+            ("ROAD_TO_GLORY.teams", "dinastías", "city", "full"),
+            ("ROAD_TO_GLORY.youngProspects", "jóvenes promesas", "name", "full")],
+    "mlb": [("ROAD_TO_GLORY.players", "Road to Glory", "name", "full"),
+            ("ROAD_TO_GLORY.teams", "dinastías", "city", "full"),
+            ("ROAD_TO_GLORY.youngProspects", "jóvenes promesas", "name", "full")],
+    "nfl": [("ROAD_TO_GLORY.players", "Road to Glory", "name", "full"),
+            ("ROAD_TO_GLORY.youngProspects", "jóvenes promesas", "name", "full")],
+    "cricket": [("ROAD_TO_GLORY.players", "Road to Glory", "name", "full")],
+    "rugby": [("ROAD_TO_GLORY.dynasties", "dinastías", "name", "full")],
+    "football": [("ROAD_TO_GLORY.dynasties", "dinastías", "name", "full"),
+                 ("ROAD_TO_GLORY.currentContenders", "aspirantes", "name", "full")],
+    "tennis": [("ATP", "ATP", "name", "leader"),
+               ("WTA", "WTA", "name", "leader"),
+               ("ATP_LEGENDS", "leyendas ATP", "name", "full"),
+               ("WTA_LEGENDS", "leyendas WTA", "name", "full")],
+    "cycling": [("LEGENDS", "leyendas", "name", "full"),
+                ("CURRENT_RIDERS", "corredores actuales", "name", "full"),
+                ("CURRENT_PROSPECTS", "promesas", "name", "full")],
+    "golf": [("CURRENT", "Nivel actual", "name", "full"),
+             ("LEGENDS", "leyendas", "name", "full")],
+    "motogp": [("RIDERS", "Mundial", "name", "full"),
+               ("LEGENDS", "leyendas", "name", "full")],
+    "f1": [("DRIVERS", "Mundial", "name", "full"),
+           ("LEGENDS", "leyendas", "name", "full")],
+    "indycar": [("DRIVERS", "campeonato", "name", "full"),
+                ("LEGENDS", "leyendas", "name", "full")],
+    "nascar": [("DRIVERS", "Cup Series", "name", "full"),
+               ("LEGENDS", "leyendas", "name", "full")],
+    "sumo": [("BANZUKE", "banzuke", "name", "full")],
+    "afl": [("LADDER", "clasificación", "name", "full")],
+}
+
+TOP_N = 10  # tamaño del top vigilado en cada tabla
 
 
 def _load_js(path: Path) -> dict | None:
@@ -74,6 +126,83 @@ def _team_name(d: dict, code: str) -> str:
         if t.get("code") == code or t.get("teamCode") == code:
             return t.get("commonName") or t.get("shortName") or t.get("city") or t.get("name") or code
     return code
+
+
+# ── Cambios de clasificación (nuevo nº1 / entra / sale del top-10) ────────────
+# Determinista: guardamos la foto del top-10 de cada tabla en glory_data.js y la
+# comparamos con la anterior. El cambio aparece solo, sin tocar rosters.
+
+def _dig(d: dict, path: str):
+    cur = d
+    for part in path.split("."):
+        if not isinstance(cur, dict):
+            return None
+        cur = cur.get(part)
+    return cur
+
+
+def _top_names(arr, name_key: str, top_n: int = TOP_N) -> list[str] | None:
+    if not isinstance(arr, list):
+        return None
+    out = []
+    for it in arr[:top_n]:
+        if isinstance(it, dict):
+            nm = it.get(name_key) or it.get("name") or it.get("city")
+            if nm:
+                out.append(nm)
+    return out
+
+
+def _rank_events_for(sid: str, label: str, d: dict, prev_snaps: dict, new_snaps: dict) -> list[dict]:
+    """Compara cada tabla del deporte con su foto previa y emite los cambios."""
+    ev: list[dict] = []
+    for path, tlabel, name_key, mode in RANK_TABLES.get(sid, []):
+        cur = _top_names(_dig(d, path), name_key)
+        if not cur:
+            continue
+        key = f"{sid}:{path}"
+        prev = prev_snaps.get(key)
+        new_snaps[key] = cur            # la foto de hoy queda para la próxima vuelta
+        if prev is None:
+            continue                    # primera vez: solo fijamos la base, sin avisos
+        historic = "LEGENDS" in path or "leyenda" in tlabel
+        leader_new = cur[0] if cur and prev and cur[0] != prev[0] else None
+        if leader_new:
+            ev.append({"id": f"rank:{key}:new1:{leader_new}", "sport": sid, "detail": label,
+                       "text": f"{leader_new} es nuevo nº1 · {tlabel}", "weight": 96 if historic else 92})
+        if mode == "full":
+            prev_set, cur_set = set(prev), set(cur)
+            for nm in cur:
+                if nm not in prev_set and nm != leader_new:
+                    ev.append({"id": f"rank:{key}:in:{nm}", "sport": sid, "detail": label,
+                               "text": f"{nm} entra en el top-10 · {tlabel}", "weight": 88 if historic else 84})
+            for nm in prev:
+                if nm not in cur_set:
+                    ev.append({"id": f"rank:{key}:out:{nm}", "sport": sid, "detail": label,
+                               "text": f"{nm} cae del top-10 · {tlabel}", "weight": 74})
+    return ev
+
+
+def _athletics_rank_events(d: dict, prev_snaps: dict, new_snaps: dict) -> list[dict]:
+    """Atletismo: una nueva marca que entra en el top-10 histórico de un evento."""
+    ev: list[dict] = []
+    for g in d.get("GROUPS", []):
+        for e in g.get("events", []):
+            eid = e.get("id")
+            ath = [r.get("athlete") for r in (e.get("allTime") or [])[:TOP_N] if r.get("athlete")]
+            if not eid or not ath:
+                continue
+            key = f"athletics:allTime:{eid}"
+            prev = prev_snaps.get(key)
+            new_snaps[key] = ath
+            if prev is None:
+                continue
+            prev_set = set(prev)
+            for nm in ath:
+                if nm not in prev_set:
+                    ev.append({"id": f"rank:{key}:in:{nm}", "sport": "athletics", "detail": "Atletismo",
+                               "text": f"{nm} entra en el top-10 histórico · {e.get('name')}", "weight": 90})
+    return ev
 
 
 # ── Hechos discretos (victorias, top 10) ─────────────────────────────────────
@@ -212,14 +341,21 @@ def build() -> None:
     prev = _load_js(ROOT / "glory_data.js") or {}
     prev_events = prev.get("EVENTS", []) if isinstance(prev, dict) else []
     prev_reports = prev.get("REPORTS", []) if isinstance(prev, dict) else []
+    prev_snaps = prev.get("SNAPSHOTS", {}) if isinstance(prev, dict) else {}
 
     events: list[dict] = []
     reports: list[dict] = []
+    # Las fotos previas de los deportes con datos viejos se conservan tal cual,
+    # para no inventar "salidas" cuando un *_data.js no se ha regenerado.
+    new_snaps: dict = dict(prev_snaps)
     for sid, (fname, label) in SOURCES.items():
         d = _load_js(ROOT / fname)
         if not d or not _data_fresh(d):
             continue
         events.extend(_events_for(sid, label, d))
+        events.extend(_rank_events_for(sid, label, d, prev_snaps, new_snaps))
+        if sid == "athletics":
+            events.extend(_athletics_rank_events(d, prev_snaps, new_snaps))
         r = _report_for(sid, label, d)
         if r:
             reports.append(r)
@@ -233,6 +369,7 @@ def build() -> None:
         "UPDATED": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
         "EVENTS": events,
         "REPORTS": reports,
+        "SNAPSHOTS": new_snaps,
     }
     out_path = ROOT / "glory_data.js"
     with open(out_path, "w", encoding="utf-8") as f:

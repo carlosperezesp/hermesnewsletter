@@ -880,17 +880,27 @@ function NewsletterApp() {
   // encima del estado estático (líder). Cada deporte activo aporta al menos una
   // línea: si no hay evento, su titular de estado como respaldo.
   const gloryFeed = (() => {
+    // Preferimos el Glory log persistido (backend): incluye victorias y, sobre
+    // todo, los CAMBIOS DE CLASIFICACIÓN (nuevo nº1 / entra / sale del top-10) de
+    // todas las tablas, que solo pueden detectarse comparando con la foto anterior
+    // —algo que el navegador, con solo los datos de hoy, no puede hacer en vivo.
+    const GLORY = typeof window !== "undefined" ? window.GLORY_DATA : null;
+    if (GLORY && Array.isArray(GLORY.EVENTS)) {
+      return GLORY.EVENTS
+        .map(e => ({ id: e.sport, text: e.text, detail: e.detail, sport: e.detail, w: e.weight || 0 }))
+        .sort((a, b) => b.w - a.w)
+        .slice(0, 14);
+    }
+    // Respaldo en vivo (si aún no se ha cargado glory_data.js): hechos puntuales
+    // del día y, si no hay, el titular de estado del deporte en temporada.
     const out = [];
     newsletterSections.forEach(s => {
       if (s.id === "all" || !s.data) return;
       const imp = (s.data.IMPORTANCE || 0) / 100;
-      // Hechos (victorias, top-10, saltos de Nivel): basta con que el pipeline esté
-      // vivo, para que el resultado de una competición se vea justo al terminar.
       const events = s.dataFresh ? sectionGloryEvents(s.id, s.data) : [];
       if (events.length) {
         events.forEach(e => out.push({ id: s.id, text: e.text, detail: e.detail, sport: s.label, icon: s.icon, w: e.w + imp }));
       } else if (s.isFresh) {
-        // Respaldo de estado (líder): solo si el deporte está realmente en temporada.
         const h = sectionHeadline(s.id, s.data);
         if (h) out.push({ id: s.id, text: h, detail: s.label, sport: s.label, icon: s.icon, w: 30 + imp });
       }
