@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-25 16:07 UTC
+// Auto-generated 2026-06-25 22:53 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-06-25 16:07 UTC",
+  "UPDATED": "2026-06-25 22:53 UTC",
   "SEASON": "2026",
   "ROUND": 8,
   "TOTAL_ROUNDS": 22,
@@ -284,10 +284,10 @@ window.MOTOGP_DATA = {
   "LAST_RACE": {
     "round": 9,
     "name": "Czech Republic motorcycle Grand Prix",
-    "winner": "Fabio Di Giannantonio",
-    "country": "ITA",
-    "bike": "Ducati",
-    "primary": "#CC0000",
+    "winner": "Ai Ogura",
+    "country": "JPN",
+    "bike": "Aprilia",
+    "primary": "#003366",
     "podium": [
       {
         "pos": 1,

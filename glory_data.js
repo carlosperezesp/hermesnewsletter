@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-25 16:08 UTC",
+  "UPDATED": "2026-06-25 22:54 UTC",
   "EVENTS": [
+    {
+      "id": "motogp:win:Czech Republic motorcycle Grand Prix:Ai Ogura",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "text": "Ai Ogura ganó el Czech Republic motorcycle Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-06-25"
+    },
     {
       "id": "nascar:win:NASCAR Cup Series at San Diego:Corey Heim",
       "sport": "nascar",
@@ -35,6 +43,14 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-21"
     },
     {
+      "id": "f1:win:MSC Cruises Barcelona-Catalunya Grand Prix:George Russell",
+      "sport": "f1",
+      "detail": "F1",
+      "text": "George Russell ganó el MSC Cruises Barcelona-Catalunya Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-06-14"
+    },
+    {
       "id": "nascar:win:NASCAR Cup Series at Pocono:Denny Hamlin",
       "sport": "nascar",
       "detail": "NASCAR",
@@ -47,14 +63,6 @@ window.GLORY_DATA = {
       "sport": "motogp",
       "detail": "MotoGP",
       "text": "Marc Márquez ganó el Hungarian motorcycle Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-06-14"
-    },
-    {
-      "id": "f1:win:MSC Cruises Barcelona-Catalunya Grand Prix:George Russell",
-      "sport": "f1",
-      "detail": "F1",
-      "text": "George Russell ganó el MSC Cruises Barcelona-Catalunya Grand Prix",
       "weight": 100,
       "firstSeen": "2026-06-14"
     },
@@ -392,9 +400,9 @@ window.GLORY_DATA = {
       "Pete Crow-Armstrong",
       "Sal Stewart",
       "CJ Abrams",
+      "Junior Caminero",
       "Chase Burns",
-      "Cam Schlittler",
-      "Junior Caminero"
+      "Cam Schlittler"
     ],
     "nfl:ROAD_TO_GLORY.players": [
       "Matthew Stafford",
@@ -668,8 +676,8 @@ window.GLORY_DATA = {
       "Brazil",
       "Portugal",
       "Netherlands",
-      "Germany",
       "Uruguay",
+      "Germany",
       "Italy"
     ],
     "cricket:ROAD_TO_GLORY.players": [
@@ -1067,6 +1075,30 @@ window.GLORY_DATA = {
       "Barbora Špotáková",
       "Maria Andrejczyk",
       "Mariya Abakumova"
+    ],
+    "rugby:ROAD_TO_GLORY.dynasties:era": [
+      "New Zealand (2004-2019)",
+      "New Zealand (1987-1992)",
+      "New Zealand (1963-1971)",
+      "Australia (1999-2002)",
+      "New Zealand (1981-1986)",
+      "South Africa (1949-1957)",
+      "South Africa (1928-1949)",
+      "New Zealand (1995-1998)",
+      "Wales (1902-1906)",
+      "Scotland (1896-1900)"
+    ],
+    "football:ROAD_TO_GLORY.dynasties:era": [
+      "Brazil (1958-1970)",
+      "Brazil (1994-2002)",
+      "Uruguay (1928-1950)",
+      "Argentina (2021-present)",
+      "Argentina (1978-1986)",
+      "Spain (2008-2012)",
+      "Italy (1934-1938)",
+      "Germany (1980-1990)",
+      "Germany (1972-1976)",
+      "France (1998-2001)"
     ]
   }
 };

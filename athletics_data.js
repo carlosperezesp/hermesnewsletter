@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-25 16:07 UTC
+// Auto-generated 2026-06-25 22:53 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-06-25 16:07 UTC",
+  "UPDATED": "2026-06-25 22:53 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -5816,13 +5816,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 3,
-              "mark": "22.34",
+              "mark": "22.44",
               "athlete": "Rajindra Campbell",
               "country": "JAM",
               "flag": "https://flagcdn.com/24x18/jm.png",
               "primary": "#000000",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
+              "venue": "Sports Park Mladost",
+              "date": "25 JUN 2026"
             },
             {
               "rank": 4,
@@ -6985,5 +6985,138 @@ window.ATHLETICS_DATA = {
     }
   ],
   "NEW_RECORDS": [],
-  "LEGENDS": []
+  "LEGENDS": [
+    {
+      "id": "usain_bolt",
+      "name": "Usain Bolt",
+      "events": "100 m · 200 m",
+      "country": "JAM",
+      "logo": "https://flagcdn.com/24x18/jm.png",
+      "primary": "#C0392B",
+      "legendScore": 100.0,
+      "active": false,
+      "note": "8 oros olímpicos · récords mundiales de 100 m y 200 m"
+    },
+    {
+      "id": "eliud_kipchoge",
+      "name": "Eliud Kipchoge",
+      "events": "Maratón",
+      "country": "KEN",
+      "logo": "https://flagcdn.com/24x18/ke.png",
+      "primary": "#C0392B",
+      "legendScore": 96.0,
+      "active": false,
+      "note": "Récord mundial de maratón y primer sub-2 horas; doble oro olímpico"
+    },
+    {
+      "id": "carl_lewis",
+      "name": "Carl Lewis",
+      "events": "100 m · Salto de longitud",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "primary": "#C0392B",
+      "legendScore": 96.0,
+      "active": false,
+      "note": "9 oros olímpicos en cuatro Juegos"
+    },
+    {
+      "id": "kenenisa_bekele",
+      "name": "Kenenisa Bekele",
+      "events": "5000 m · 10 000 m",
+      "country": "ETH",
+      "logo": "https://flagcdn.com/24x18/et.png",
+      "primary": "#C0392B",
+      "legendScore": 95.0,
+      "active": false,
+      "note": "Récords mundiales de 5000 y 10 000 m"
+    },
+    {
+      "id": "allyson_felix",
+      "name": "Allyson Felix",
+      "events": "200 m · 400 m",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "primary": "#C0392B",
+      "legendScore": 94.0,
+      "active": false,
+      "note": "La atleta con más medallas olímpicas de la historia (11)"
+    },
+    {
+      "id": "michael_johnson",
+      "name": "Michael Johnson",
+      "events": "200 m · 400 m",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "primary": "#C0392B",
+      "legendScore": 93.0,
+      "active": false,
+      "note": "Dobletes 200/400 y récords mundiales legendarios"
+    },
+    {
+      "id": "haile_gebrselassie",
+      "name": "Haile Gebrselassie",
+      "events": "10 000 m · Maratón",
+      "country": "ETH",
+      "logo": "https://flagcdn.com/24x18/et.png",
+      "primary": "#C0392B",
+      "legendScore": 93.0,
+      "active": false,
+      "note": "27 récords mundiales en pruebas de fondo"
+    },
+    {
+      "id": "hicham_el_guerrouj",
+      "name": "Hicham El Guerrouj",
+      "events": "1500 m · Milla",
+      "country": "MAR",
+      "logo": "https://flagcdn.com/24x18/ma.png",
+      "primary": "#C0392B",
+      "legendScore": 92.0,
+      "active": false,
+      "note": "Récords de 1500 m y milla aún vigentes"
+    },
+    {
+      "id": "sergey_bubka",
+      "name": "Sergey Bubka",
+      "events": "Pértiga",
+      "country": "UKR",
+      "logo": "https://flagcdn.com/24x18/ua.png",
+      "primary": "#C0392B",
+      "legendScore": 92.0,
+      "active": false,
+      "note": "35 récords mundiales de salto con pértiga"
+    },
+    {
+      "id": "jackie_joyner_kersee",
+      "name": "Jackie Joyner-Kersee",
+      "events": "Heptatlón · Longitud",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "primary": "#C0392B",
+      "legendScore": 92.0,
+      "active": false,
+      "note": "Récord mundial de heptatlón aún vigente"
+    },
+    {
+      "id": "florence_griffith_joyner",
+      "name": "Florence Griffith-Joyner",
+      "events": "100 m · 200 m",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "primary": "#C0392B",
+      "legendScore": 91.0,
+      "active": false,
+      "note": "Récords mundiales de 100 y 200 m intactos desde 1988"
+    },
+    {
+      "id": "mondo_duplantis",
+      "name": "Mondo Duplantis",
+      "events": "Pértiga",
+      "country": "SWE",
+      "logo": "https://flagcdn.com/24x18/se.png",
+      "primary": "#C0392B",
+      "legendScore": 90.0,
+      "active": true,
+      "note": "Plusmarquista mundial en activo y oro olímpico"
+    }
+  ]
 };

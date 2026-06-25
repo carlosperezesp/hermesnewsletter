@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-25 16:07 UTC
+// Auto-generated 2026-06-25 22:53 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-25 16:07 UTC",
+  "UPDATED": "2026-06-25 22:53 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -113,15 +113,15 @@ window.GOLF_DATA = {
         "name": "Eric Cole",
         "id": "10522",
         "country": "USA",
-        "score": "-6",
+        "score": "-7",
         "today": ""
       },
       {
         "rank": 2,
-        "name": "Robert MacIntyre",
-        "id": "11378",
-        "country": "Scotland",
-        "score": "-4",
+        "name": "Nico Echavarria",
+        "id": "4408316",
+        "country": "Colombia",
+        "score": "-6",
         "today": ""
       },
       {
@@ -129,63 +129,63 @@ window.GOLF_DATA = {
         "name": "Ben Griffin",
         "id": "4404992",
         "country": "USA",
-        "score": "-4",
+        "score": "-6",
         "today": ""
       },
       {
         "rank": 4,
-        "name": "Tom Hoge",
-        "id": "6086",
-        "country": "USA",
-        "score": "-3",
+        "name": "Matt Fitzpatrick",
+        "id": "9037",
+        "country": "England",
+        "score": "-6",
         "today": ""
       },
       {
         "rank": 5,
-        "name": "Ben James",
-        "id": "5077389",
-        "country": "USA",
-        "score": "-3",
+        "name": "Kristoffer Reitan",
+        "id": "4348470",
+        "country": "Norway",
+        "score": "-6",
         "today": ""
       },
       {
         "rank": 6,
-        "name": "Nick Taylor",
-        "id": "3792",
-        "country": "Canada",
-        "score": "-3",
+        "name": "Bud Cauley",
+        "id": "5338",
+        "country": "USA",
+        "score": "-6",
         "today": ""
       },
       {
         "rank": 7,
-        "name": "Jackson Suber",
-        "id": "4982182",
+        "name": "Scottie Scheffler",
+        "id": "9478",
         "country": "USA",
-        "score": "-2",
+        "score": "-6",
         "today": ""
       },
       {
         "rank": 8,
-        "name": "Ryan Gerard",
-        "id": "5076021",
+        "name": "Patrick Cantlay",
+        "id": "6007",
         "country": "USA",
-        "score": "-2",
+        "score": "-5",
         "today": ""
       },
       {
         "rank": 9,
-        "name": "Patrick Cantlay",
-        "id": "6007",
+        "name": "Brandt Snedeker",
+        "id": "1222",
         "country": "USA",
-        "score": "-2",
+        "score": "-5",
         "today": ""
       },
       {
         "rank": 10,
-        "name": "Brandt Snedeker",
-        "id": "1222",
-        "country": "USA",
-        "score": "-2",
+        "name": "Aaron Rai",
+        "id": "10906",
+        "country": "England",
+        "score": "-5",
         "today": ""
       }
     ],

@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-25 16:07 UTC
+// Auto-generated 2026-06-25 22:53 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-25 16:07 UTC",
+  "UPDATED": "2026-06-25 22:53 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-06-25 16:07 UTC"
+    "through": "2026-06-25 22:53 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -136,27 +136,6 @@ window.FOOTBALL_DATA = {
       "recentMatches": 2
     },
     {
-      "id": "germany",
-      "name": "Germany",
-      "teamCode": "GER",
-      "country": "Germany",
-      "logo": "https://flagcdn.com/24x18/de.png",
-      "colors": {
-        "primary": "#000000",
-        "secondary": "#DD0000"
-      },
-      "rank": 7,
-      "elo": 1989,
-      "eloScore": 80.8,
-      "sourceRank": 8,
-      "worldCups": 4,
-      "continentalTitles": 3,
-      "note": "Rebote competitivo tras la Euro como anfitrión.",
-      "eloPrev": 1958,
-      "recentDelta": 31.3,
-      "recentMatches": 2
-    },
-    {
       "id": "portugal",
       "name": "Portugal",
       "teamCode": "POR",
@@ -166,7 +145,7 @@ window.FOOTBALL_DATA = {
         "primary": "#006600",
         "secondary": "#FF0000"
       },
-      "rank": 8,
+      "rank": 7,
       "elo": 1988,
       "eloScore": 80.7,
       "sourceRank": 5,
@@ -187,7 +166,7 @@ window.FOOTBALL_DATA = {
         "primary": "#0066B3",
         "secondary": "#009246"
       },
-      "rank": 9,
+      "rank": 8,
       "elo": 1945,
       "eloScore": 75.9,
       "sourceRank": 9,
@@ -196,6 +175,27 @@ window.FOOTBALL_DATA = {
       "note": "Euro 2020 todavía pesa; ciclo actual busca volver a pico mundial.",
       "recentDelta": 0.0,
       "recentMatches": 0
+    },
+    {
+      "id": "germany",
+      "name": "Germany",
+      "teamCode": "GER",
+      "country": "Germany",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#DD0000"
+      },
+      "rank": 9,
+      "elo": 1939,
+      "eloScore": 75.2,
+      "sourceRank": 8,
+      "worldCups": 4,
+      "continentalTitles": 3,
+      "note": "Rebote competitivo tras la Euro como anfitrión.",
+      "eloPrev": 1958,
+      "recentDelta": -18.6,
+      "recentMatches": 3
     },
     {
       "id": "uruguay",
@@ -220,6 +220,35 @@ window.FOOTBALL_DATA = {
     }
   ],
   "RECENT_MATCHES": [
+    {
+      "id": "760468",
+      "date": "2026-06-25",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "GER"
+      ],
+      "home": {
+        "code": "ECU",
+        "name": "Ecuador",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png",
+        "score": 2,
+        "eloBefore": 1712,
+        "eloAfter": 1762,
+        "delta": 49.9,
+        "result": "W"
+      },
+      "away": {
+        "code": "GER",
+        "name": "Alemania",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+        "score": 1,
+        "eloBefore": 1989,
+        "eloAfter": 1939,
+        "delta": -49.9,
+        "result": "L"
+      }
+    },
     {
       "id": "760465",
       "date": "2026-06-24",
@@ -1235,7 +1264,7 @@ window.FOOTBALL_DATA = {
           "primary": "#006600",
           "secondary": "#FF0000"
         },
-        "rank": 8,
+        "rank": 7,
         "elo": 1988,
         "eloScore": 80.7,
         "sourceRank": 5,
@@ -1284,35 +1313,6 @@ window.FOOTBALL_DATA = {
         "ageCurve": 0.85
       },
       {
-        "id": "germany",
-        "name": "Germany",
-        "teamCode": "GER",
-        "country": "Germany",
-        "logo": "https://flagcdn.com/24x18/de.png",
-        "colors": {
-          "primary": "#000000",
-          "secondary": "#DD0000"
-        },
-        "rank": 7,
-        "elo": 1989,
-        "eloScore": 80.8,
-        "sourceRank": 8,
-        "worldCups": 4,
-        "continentalTitles": 3,
-        "note": "A 13.0 puntos brutos del umbral dinástico",
-        "eloPrev": 1958,
-        "recentDelta": 31.3,
-        "recentMatches": 2,
-        "dynastyPotential": 67.0,
-        "rawDynastyPotential": 26.4,
-        "gapToDynastyTop10": 13.0,
-        "cycleYears": 1.0,
-        "currentWorldCups": 0,
-        "currentContinentalTitles": 0,
-        "recentFinals": 0,
-        "ageCurve": 0.82
-      },
-      {
         "id": "uruguay",
         "name": "Uruguay",
         "teamCode": "URU",
@@ -1342,6 +1342,35 @@ window.FOOTBALL_DATA = {
         "ageCurve": 0.83
       },
       {
+        "id": "germany",
+        "name": "Germany",
+        "teamCode": "GER",
+        "country": "Germany",
+        "logo": "https://flagcdn.com/24x18/de.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#DD0000"
+        },
+        "rank": 9,
+        "elo": 1939,
+        "eloScore": 75.2,
+        "sourceRank": 8,
+        "worldCups": 4,
+        "continentalTitles": 3,
+        "note": "A 15.8 puntos brutos del umbral dinástico",
+        "eloPrev": 1958,
+        "recentDelta": -18.6,
+        "recentMatches": 3,
+        "dynastyPotential": 59.9,
+        "rawDynastyPotential": 23.6,
+        "gapToDynastyTop10": 15.8,
+        "cycleYears": 1.0,
+        "currentWorldCups": 0,
+        "currentContinentalTitles": 0,
+        "recentFinals": 0,
+        "ageCurve": 0.82
+      },
+      {
         "id": "italy",
         "name": "Italy",
         "teamCode": "ITA",
@@ -1351,7 +1380,7 @@ window.FOOTBALL_DATA = {
           "primary": "#0066B3",
           "secondary": "#009246"
         },
-        "rank": 9,
+        "rank": 8,
         "elo": 1945,
         "eloScore": 75.9,
         "sourceRank": 9,

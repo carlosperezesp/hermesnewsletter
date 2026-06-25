@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-25 16:08 UTC
+// Auto-generated 2026-06-25 22:54 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-25 16:08 UTC",
+  "UPDATED": "2026-06-25 22:54 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1121,7 +1121,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 66.1
@@ -3235,7 +3235,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 54.1
@@ -5663,7 +5663,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 80.5
@@ -7741,7 +7741,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 57.8
@@ -11010,15 +11010,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Quentin Halys",
+          "w": "Ugo Humbert",
           "w_logo": "",
-          "l": "Ugo Humbert",
+          "l": "Quentin Halys",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 53.4,
-          "l_score": 66.4,
+          "w_score": 66.4,
+          "l_score": 53.4,
           "match_score": 66.4
         },
         {
@@ -11227,7 +11227,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Catherine McNally",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 4-6 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 57.9,
@@ -11287,7 +11287,7 @@ window.TENNIS_DATA = {
       "Tomas Martin Etcheverry"
     ],
     "aliveCount": 14,
-    "matchesSeen": 25
+    "matchesSeen": 26
   },
   "WTA_TOURNAMENT": {
     "name": "Lexus Eastbourne Open · Wimbledon",
@@ -11343,7 +11343,7 @@ window.TENNIS_DATA = {
       "Yuliia Starodubtseva"
     ],
     "aliveCount": 16,
-    "matchesSeen": 29
+    "matchesSeen": 30
   },
   "ATP_SCORE_LOG": {
     "206173": [
