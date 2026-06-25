@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-25 08:33 UTC",
+  "UPDATED": "2026-06-25 09:50 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at San Diego:Corey Heim",
@@ -99,6 +99,14 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-14"
     },
     {
+      "id": "rank:rugby:ROAD_TO_GLORY.dynasties:in:Ireland",
+      "sport": "rugby",
+      "detail": "Rugby",
+      "text": "Ireland entra en el top-10 · dinastías",
+      "weight": 84,
+      "firstSeen": "2026-06-25"
+    },
+    {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Matt Olson",
       "sport": "mlb",
       "detail": "MLB",
@@ -129,6 +137,14 @@ window.GLORY_DATA = {
       "text": "Alexander Bublik sale del top 10 ATP",
       "weight": 78,
       "firstSeen": "2026-06-14"
+    },
+    {
+      "id": "rank:rugby:ROAD_TO_GLORY.dynasties:out:Scotland",
+      "sport": "rugby",
+      "detail": "Rugby",
+      "text": "Scotland cae del top-10 · dinastías",
+      "weight": 74,
+      "firstSeen": "2026-06-25"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:out:Cristopher Sanchez",
@@ -597,8 +613,8 @@ window.GLORY_DATA = {
       "South Africa",
       "South Africa",
       "New Zealand",
-      "Wales",
-      "Scotland"
+      "Ireland",
+      "Wales"
     ],
     "football:ROAD_TO_GLORY.dynasties": [
       "Brazil",

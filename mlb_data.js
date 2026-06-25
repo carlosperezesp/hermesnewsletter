@@ -787,7 +787,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 5
+      "prevRank": 4
     },
     {
       "id": 4918256,
@@ -818,7 +818,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 6
+      "prevRank": 5
     },
     {
       "id": 4684778,
@@ -849,7 +849,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 7
+      "prevRank": 6
     },
     {
       "id": 5016968,
@@ -880,7 +880,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 8
+      "prevRank": 7
     },
     {
       "id": 32655,
@@ -911,7 +911,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 4
+      "prevRank": 8
     },
     {
       "id": 4717833,
@@ -2961,7 +2961,7 @@ window.MLB_DATA = {
       "pitchingScore": 65,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 18
+      "prevRank": 9
     },
     {
       "id": 4987382,
@@ -7639,7 +7639,7 @@ window.MLB_DATA = {
         "gap": 36.4,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": null
+        "prevRank": 10
       }
     ],
     "teams": [
@@ -7939,7 +7939,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 28.7,
         "note": "Elite start to career — ceiling is very high",
-        "prevRank": 9
+        "prevRank": 8
       },
       {
         "id": 5134581,
@@ -7956,7 +7956,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 29.0,
         "note": "Among the best players of their generation",
-        "prevRank": 8
+        "prevRank": 9
       },
       {
         "id": 4905921,
@@ -8017,7 +8017,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-25 08:31 UTC",
+  "LAST_UPDATE": "2026-06-25 09:48 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
