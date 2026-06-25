@@ -62,8 +62,10 @@ RANK_TABLES = {
     "nfl": [("ROAD_TO_GLORY.players", "Road to Glory", "name", "full"),
             ("ROAD_TO_GLORY.youngProspects", "jóvenes promesas", "name", "full")],
     "cricket": [("ROAD_TO_GLORY.players", "Road to Glory", "name", "full")],
-    "rugby": [("ROAD_TO_GLORY.dynasties", "dinastías", "name", "full")],
-    "football": [("ROAD_TO_GLORY.dynasties", "dinastías", "name", "full"),
+    # Dinastías: una misma selección aparece en varias eras, así que la identidad
+    # lleva la era (5º campo) para no fundir filas distintas al comparar.
+    "rugby": [("ROAD_TO_GLORY.dynasties", "dinastías", "name", "full", "era")],
+    "football": [("ROAD_TO_GLORY.dynasties", "dinastías", "name", "full", "era"),
                  ("ROAD_TO_GLORY.currentContenders", "aspirantes", "name", "full")],
     "tennis": [("ATP", "ATP", "name", "leader"),
                ("WTA", "WTA", "name", "leader"),
@@ -141,26 +143,32 @@ def _dig(d: dict, path: str):
     return cur
 
 
-def _top_names(arr, name_key: str, top_n: int = TOP_N) -> list[str] | None:
+def _top_names(arr, name_key: str, top_n: int = TOP_N, sub_key: str | None = None) -> list[str] | None:
     if not isinstance(arr, list):
         return None
     out = []
     for it in arr[:top_n]:
         if isinstance(it, dict):
             nm = it.get(name_key) or it.get("name") or it.get("city")
-            if nm:
-                out.append(nm)
+            if not nm:
+                continue
+            sub = it.get(sub_key) if sub_key else None
+            out.append(f"{nm} ({sub})" if sub else nm)
     return out
 
 
 def _rank_events_for(sid: str, label: str, d: dict, prev_snaps: dict, new_snaps: dict) -> list[dict]:
     """Compara cada tabla del deporte con su foto previa y emite los cambios."""
     ev: list[dict] = []
-    for path, tlabel, name_key, mode in RANK_TABLES.get(sid, []):
-        cur = _top_names(_dig(d, path), name_key)
+    for spec in RANK_TABLES.get(sid, []):
+        path, tlabel, name_key, mode = spec[:4]
+        sub_key = spec[4] if len(spec) > 4 else None
+        cur = _top_names(_dig(d, path), name_key, sub_key=sub_key)
         if not cur:
             continue
-        key = f"{sid}:{path}"
+        # La sub-clave entra en el id de la foto: si cambia el formato de identidad
+        # la tabla re-arranca (bootstrap) en vez de inventar entradas/salidas.
+        key = f"{sid}:{path}" + (f":{sub_key}" if sub_key else "")
         prev = prev_snaps.get(key)
         new_snaps[key] = cur            # la foto de hoy queda para la próxima vuelta
         if prev is None:
