@@ -322,40 +322,52 @@ def _parse_event(ev: dict) -> dict | None:
         })
     if not podium:
         return None
+    state   = (ev.get("competitions", [{}])[0].get("status", {}).get("type", {}).get("state") or "")
     circuit = ev.get("circuit", {})
     return {
         "name":    ev.get("name", ""),
         "date":    ev.get("date", "")[:10],
         "circuit": circuit.get("fullName") or circuit.get("shortName", ""),
         "round":   0,
+        "state":   state,
         "podium":  podium,
     }
 
+
+def _season_events() -> list[dict]:
+    """Eventos de toda la temporada (orden cronológico). El scoreboard sin fechas
+    solo trae la semana en curso, así que entre carreras viene vacío; con un rango
+    AAAA0101-hoy devuelve todas las pruebas ya disputadas."""
+    today = datetime.now(timezone.utc).strftime("%Y%m%d")
+    url = f"{ESPN_SCOREBOARD}?dates={CURRENT_YEAR}0101-{today}"
+    data = _fetch(url, ttl_hours=1.0)
+    if not data:  # respaldo: scoreboard de la semana en curso
+        data = _fetch(ESPN_SCOREBOARD, ttl_hours=1.0)
+    return (data or {}).get("events", [])
+
+def _completed(result: dict | None) -> bool:
+    """True si la prueba terminó y tiene un ganador real (1º con nombre)."""
+    return bool(result and result.get("state") == "post"
+                and result["podium"] and result["podium"][0].get("name"))
+
 def _last_race() -> dict | None:
-    data = _fetch(ESPN_SCOREBOARD, ttl_hours=1.0)
-    if not data:
-        return None
-    events = data.get("events", [])
-    # Find most recent completed non-sprint grand prix
-    for ev in events:
+    # La más reciente Gran Premio (no sprint) ya completada.
+    for ev in reversed(_season_events()):
         if "sprint" in ev.get("name", "").lower():
             continue
         result = _parse_event(ev)
-        if result and result["podium"]:
+        if _completed(result):
             return result
-    # Fallback: any completed event
-    return _parse_event(events[0]) if events else None
+    return None
 
 def _last_sprint() -> dict | None:
     """Return the most recent sprint race result, or None if no sprint this season."""
-    data = _fetch(ESPN_SCOREBOARD, ttl_hours=1.0)
-    if not data:
-        return None
-    for ev in data.get("events", []):
-        if "sprint" in ev.get("name", "").lower():
-            result = _parse_event(ev)
-            if result and result["podium"]:
-                return result
+    for ev in reversed(_season_events()):
+        if "sprint" not in ev.get("name", "").lower():
+            continue
+        result = _parse_event(ev)
+        if _completed(result):
+            return result
     return None
 
 # ── Legends ───────────────────────────────────────────────────────────────────
