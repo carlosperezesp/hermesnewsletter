@@ -2801,63 +2801,41 @@ function NewsletterApp() {
                         Top por victorias
                       </div>
                     )}
-                    {top5.map((w, i) => {
-                      const lgScore = w.legendScore || 0;
-                      const isWinner = bashoInfo?.winner === w.name;
-                      return (
-                        <div key={w.name} style={{ display: "flex", alignItems: "flex-start", gap: 10, padding: "10px 0", borderBottom: "1px solid var(--rule,#eee)" }}>
-                          <span style={{ width: 20, fontSize: 15, color: "var(--muted,#888)", fontVariantNumeric: "tabular-nums", flexShrink: 0, paddingTop: 2 }}>{i + 1}</span>
-                          <div style={{ flex: 1, minWidth: 0 }}>
-                            <div style={{ fontWeight: 600, fontSize: 14, display: "flex", alignItems: "center", gap: 6 }}>
-                              {w.name}
-                              {w.age != null && <span style={{ fontSize: 11, color: "var(--muted,#888)", fontWeight: 400 }}>{w.age} años</span>}
-                              {isWinner && <span style={{ fontSize: 12, background: "var(--accent,#b84832)", color: "#fff", borderRadius: 3, padding: "1px 5px", fontWeight: 700 }}>🏆 Campeón</span>}
-                            </div>
-                            <div style={{ fontSize: 11, color: "var(--muted,#888)", fontFamily: "monospace", marginTop: 1 }}>{w.rankShort}</div>
-                            <div style={{ display: "flex", alignItems: "center", gap: 6, marginTop: 4 }}>
-                              <div style={{ width: 70, height: 4, background: "var(--bar-bg,#dedad6)", borderRadius: 2, overflow: "hidden" }}>
-                                <div style={{ width: `${lgScore}%`, height: "100%", background: lgScore > 0 ? "var(--bar-fill,#4a4745)" : "transparent", borderRadius: 2 }} />
-                              </div>
-                              <span style={{ fontSize: 10, color: "var(--muted,#888)", fontFamily: "monospace" }}>
-                                {lgScore > 0 ? `${lgScore.toFixed(0)}/100` : "0/100"}
-                              </span>
-                            </div>
-                          </div>
-                          <span style={{ fontFamily: "monospace", fontSize: 13, fontWeight: 600, color: "var(--ink,#1a1714)", whiteSpace: "nowrap", paddingTop: 2 }}>
-                            {recordStr(w)}
-                          </span>
-                        </div>
-                      );
-                    })}
+                    {top5.map((w, i) => (
+                      <NewsletterRankRow
+                        key={w.name}
+                        rank={i + 1}
+                        item={{ ...w, colors: { primary: "#4a4745" } }}
+                        alive={new Set()}
+                        scoreDisplay={recordStr(w)}
+                        scoreLabel="Basho"
+                        scoreB={w.legendScore || 0}
+                        scoreBLabel="Leyenda"
+                        scoreBThreshold={100}
+                        meta={`${w.rankShort}${w.age != null ? ` · ${w.age} años` : ""}`}
+                        note={bashoInfo?.winner === w.name ? "🏆 Campeón del basho" : undefined}
+                      />
+                    ))}
                     {yokozunas.length > 0 && (
                       <div style={{ fontSize: 9, letterSpacing: ".1em", textTransform: "uppercase", color: "var(--muted,#888)", fontFamily: "monospace", padding: "8px 0 6px", borderBottom: "2px solid var(--ink,#1a1714)", marginTop: 4 }}>
                         Yokozunas
                       </div>
                     )}
-                    {yokozunas.map(w => {
-                      const lgScore = w.legendScore || 0;
-                      return (
-                        <div key={w.name} style={{ display: "flex", alignItems: "flex-start", gap: 10, padding: "10px 0", borderBottom: "1px solid var(--rule,#eee)" }}>
-                          <span style={{ width: 20, fontSize: 12, flexShrink: 0, paddingTop: 2 }}>Y</span>
-                          <div style={{ flex: 1, minWidth: 0 }}>
-                            <div style={{ fontWeight: 600, fontSize: 14, display: "flex", alignItems: "center", gap: 6 }}>
-                              {w.name}
-                              {w.age != null && <span style={{ fontSize: 11, color: "var(--muted,#888)", fontWeight: 400 }}>{w.age} años</span>}
-                            </div>
-                            <div style={{ fontSize: 11, color: "var(--muted,#888)", fontFamily: "monospace", marginTop: 1 }}>{w.rankShort}</div>
-                            <div style={{ display: "flex", alignItems: "center", gap: 6, marginTop: 4 }}>
-                              <div style={{ width: 70, height: 4, background: "var(--bar-bg,#dedad6)", borderRadius: 2, overflow: "hidden" }}>
-                                <div style={{ width: `${lgScore}%`, height: "100%", background: "var(--bar-fill,#4a4745)", borderRadius: 2 }} />
-                              </div>
-                              <span style={{ fontSize: 10, color: "var(--muted,#888)", fontFamily: "monospace" }}>{lgScore.toFixed(0)}/100</span>
-                            </div>
-                          </div>
-                          <span style={{ fontFamily: "monospace", fontSize: 13, color: "var(--muted,#888)", whiteSpace: "nowrap", paddingTop: 2 }}>
-                            {recordStr(w)}
-                          </span>
-                        </div>
-                      );
-                    })}
+                    {yokozunas.map((w, i) => (
+                      <NewsletterRankRow
+                        key={w.name}
+                        rank={i + 1}
+                        item={{ ...w, colors: { primary: "#4a4745" } }}
+                        alive={new Set()}
+                        scoreDisplay={recordStr(w)}
+                        scoreLabel="Basho"
+                        scoreB={w.legendScore || 0}
+                        scoreBLabel="Leyenda"
+                        scoreBThreshold={100}
+                        meta={`${w.rankShort}${w.age != null ? ` · ${w.age} años` : ""}`}
+                        note={bashoInfo?.winner === w.name ? "🏆 Campeón del basho" : undefined}
+                      />
+                    ))}
                   </div>
                 </NewsletterSection>
               )}
