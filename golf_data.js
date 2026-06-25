@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-24 22:43 UTC
+// Auto-generated 2026-06-25 08:32 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-24 22:43 UTC",
+  "UPDATED": "2026-06-25 08:32 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -16,7 +16,7 @@ window.GOLF_DATA = {
     "startLabel": "16 Jul",
     "endLabel": "19 Jul",
     "round": 0,
-    "daysToStart": 22,
+    "daysToStart": 21,
     "leaderboard": [],
     "favorites": [
       "Scottie Scheffler",
@@ -101,13 +101,94 @@ window.GOLF_DATA = {
     "name": "Travelers Championship",
     "start": "2026-06-25",
     "end": "2026-06-28",
-    "state": "upcoming",
+    "state": "live",
     "tier": "Signature Event",
     "startLabel": "25 Jun",
     "endLabel": "28 Jun",
-    "round": 0,
-    "daysToStart": 1,
-    "leaderboard": [],
+    "round": 1,
+    "daysToStart": 0,
+    "leaderboard": [
+      {
+        "rank": 1,
+        "name": "Ryan Fox",
+        "id": "4251",
+        "country": "New Zealand",
+        "score": "E",
+        "today": ""
+      },
+      {
+        "rank": 2,
+        "name": "Matt McCarty",
+        "id": "4901368",
+        "country": "USA",
+        "score": "E",
+        "today": ""
+      },
+      {
+        "rank": 3,
+        "name": "Tom Hoge",
+        "id": "6086",
+        "country": "USA",
+        "score": "E",
+        "today": ""
+      },
+      {
+        "rank": 4,
+        "name": "Jackson Suber",
+        "id": "4982182",
+        "country": "USA",
+        "score": "E",
+        "today": ""
+      },
+      {
+        "rank": 5,
+        "name": "Nicolai Højgaard",
+        "id": "11250",
+        "country": "Denmark",
+        "score": "E",
+        "today": ""
+      },
+      {
+        "rank": 6,
+        "name": "Min Woo Lee",
+        "id": "4410932",
+        "country": "Australia",
+        "score": "E",
+        "today": ""
+      },
+      {
+        "rank": 7,
+        "name": "Lucas Glover",
+        "id": "676",
+        "country": "USA",
+        "score": "E",
+        "today": ""
+      },
+      {
+        "rank": 8,
+        "name": "Eric Cole",
+        "id": "10522",
+        "country": "USA",
+        "score": "E",
+        "today": ""
+      },
+      {
+        "rank": 9,
+        "name": "Jake Knapp",
+        "id": "9843",
+        "country": "USA",
+        "score": "E",
+        "today": ""
+      },
+      {
+        "rank": 10,
+        "name": "Ryan Gerard",
+        "id": "5076021",
+        "country": "USA",
+        "score": "E",
+        "today": ""
+      }
+    ],
     "favorites": [
       "Scottie Scheffler",
       "Matt Fitzpatrick",
@@ -1115,5 +1196,5 @@ window.GOLF_DATA = {
     }
   ],
   "LEGEND_THRESHOLD": 37.5,
-  "IMPORTANCE": 8.5
+  "IMPORTANCE": 10.0
 };

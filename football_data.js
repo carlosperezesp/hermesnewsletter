@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-24 22:43 UTC
+// Auto-generated 2026-06-25 08:32 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-24 22:43 UTC",
+  "UPDATED": "2026-06-25 08:32 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-06-24 22:43 UTC"
+    "through": "2026-06-25 08:32 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -94,6 +94,27 @@ window.FOOTBALL_DATA = {
       "recentMatches": 2
     },
     {
+      "id": "brazil",
+      "name": "Brazil",
+      "teamCode": "BRA",
+      "country": "Brazil",
+      "logo": "https://flagcdn.com/24x18/br.png",
+      "colors": {
+        "primary": "#009C3B",
+        "secondary": "#FFDF00"
+      },
+      "rank": 5,
+      "elo": 2008,
+      "eloScore": 82.9,
+      "sourceRank": 6,
+      "worldCups": 5,
+      "continentalTitles": 9,
+      "note": "Histórico gigante todavía en zona top 10 pese a ciclo irregular.",
+      "eloPrev": 1985,
+      "recentDelta": 23.1,
+      "recentMatches": 3
+    },
+    {
       "id": "netherlands",
       "name": "Netherlands",
       "teamCode": "NED",
@@ -103,7 +124,7 @@ window.FOOTBALL_DATA = {
         "primary": "#FF4F00",
         "secondary": "#21468B"
       },
-      "rank": 5,
+      "rank": 6,
       "elo": 1997,
       "eloScore": 81.7,
       "sourceRank": 7,
@@ -124,7 +145,7 @@ window.FOOTBALL_DATA = {
         "primary": "#000000",
         "secondary": "#DD0000"
       },
-      "rank": 6,
+      "rank": 7,
       "elo": 1989,
       "eloScore": 80.8,
       "sourceRank": 8,
@@ -145,7 +166,7 @@ window.FOOTBALL_DATA = {
         "primary": "#006600",
         "secondary": "#FF0000"
       },
-      "rank": 7,
+      "rank": 8,
       "elo": 1988,
       "eloScore": 80.7,
       "sourceRank": 5,
@@ -154,27 +175,6 @@ window.FOOTBALL_DATA = {
       "note": "Plantilla top y fase clasificatoria fuerte.",
       "eloPrev": 1997,
       "recentDelta": -8.9,
-      "recentMatches": 2
-    },
-    {
-      "id": "brazil",
-      "name": "Brazil",
-      "teamCode": "BRA",
-      "country": "Brazil",
-      "logo": "https://flagcdn.com/24x18/br.png",
-      "colors": {
-        "primary": "#009C3B",
-        "secondary": "#FFDF00"
-      },
-      "rank": 8,
-      "elo": 1983,
-      "eloScore": 80.1,
-      "sourceRank": 6,
-      "worldCups": 5,
-      "continentalTitles": 9,
-      "note": "Histórico gigante todavía en zona top 10 pese a ciclo irregular.",
-      "eloPrev": 1985,
-      "recentDelta": -1.6,
       "recentMatches": 2
     },
     {
@@ -220,6 +220,35 @@ window.FOOTBALL_DATA = {
     }
   ],
   "RECENT_MATCHES": [
+    {
+      "id": "760465",
+      "date": "2026-06-24",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "BRA"
+      ],
+      "home": {
+        "code": "SCO",
+        "name": "Escocia",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png",
+        "score": 0,
+        "eloBefore": 1779,
+        "eloAfter": 1754,
+        "delta": -24.7,
+        "result": "L"
+      },
+      "away": {
+        "code": "BRA",
+        "name": "Brasil",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+        "score": 3,
+        "eloBefore": 1983,
+        "eloAfter": 2008,
+        "delta": 24.7,
+        "result": "W"
+      }
+    },
     {
       "id": "760461",
       "date": "2026-06-23",
@@ -1168,6 +1197,35 @@ window.FOOTBALL_DATA = {
         "ageCurve": 0.88
       },
       {
+        "id": "brazil",
+        "name": "Brazil",
+        "teamCode": "BRA",
+        "country": "Brazil",
+        "logo": "https://flagcdn.com/24x18/br.png",
+        "colors": {
+          "primary": "#009C3B",
+          "secondary": "#FFDF00"
+        },
+        "rank": 5,
+        "elo": 2008,
+        "eloScore": 82.9,
+        "sourceRank": 6,
+        "worldCups": 5,
+        "continentalTitles": 9,
+        "note": "A 3.7 puntos brutos del umbral dinástico",
+        "eloPrev": 1985,
+        "recentDelta": 23.1,
+        "recentMatches": 3,
+        "dynastyPotential": 90.7,
+        "rawDynastyPotential": 35.8,
+        "gapToDynastyTop10": 3.7,
+        "cycleYears": 1.2,
+        "currentWorldCups": 0,
+        "currentContinentalTitles": 0,
+        "recentFinals": 1,
+        "ageCurve": 0.84
+      },
+      {
         "id": "portugal",
         "name": "Portugal",
         "teamCode": "POR",
@@ -1177,7 +1235,7 @@ window.FOOTBALL_DATA = {
           "primary": "#006600",
           "secondary": "#FF0000"
         },
-        "rank": 7,
+        "rank": 8,
         "elo": 1988,
         "eloScore": 80.7,
         "sourceRank": 5,
@@ -1197,35 +1255,6 @@ window.FOOTBALL_DATA = {
         "ageCurve": 0.86
       },
       {
-        "id": "brazil",
-        "name": "Brazil",
-        "teamCode": "BRA",
-        "country": "Brazil",
-        "logo": "https://flagcdn.com/24x18/br.png",
-        "colors": {
-          "primary": "#009C3B",
-          "secondary": "#FFDF00"
-        },
-        "rank": 8,
-        "elo": 1983,
-        "eloScore": 80.1,
-        "sourceRank": 6,
-        "worldCups": 5,
-        "continentalTitles": 9,
-        "note": "A 5.1 puntos brutos del umbral dinástico",
-        "eloPrev": 1985,
-        "recentDelta": -1.6,
-        "recentMatches": 2,
-        "dynastyPotential": 87.1,
-        "rawDynastyPotential": 34.4,
-        "gapToDynastyTop10": 5.1,
-        "cycleYears": 1.2,
-        "currentWorldCups": 0,
-        "currentContinentalTitles": 0,
-        "recentFinals": 1,
-        "ageCurve": 0.84
-      },
-      {
         "id": "netherlands",
         "name": "Netherlands",
         "teamCode": "NED",
@@ -1235,7 +1264,7 @@ window.FOOTBALL_DATA = {
           "primary": "#FF4F00",
           "secondary": "#21468B"
         },
-        "rank": 5,
+        "rank": 6,
         "elo": 1997,
         "eloScore": 81.7,
         "sourceRank": 7,
@@ -1264,7 +1293,7 @@ window.FOOTBALL_DATA = {
           "primary": "#000000",
           "secondary": "#DD0000"
         },
-        "rank": 6,
+        "rank": 7,
         "elo": 1989,
         "eloScore": 80.8,
         "sourceRank": 8,

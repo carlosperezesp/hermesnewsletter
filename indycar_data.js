@@ -1,5 +1,5 @@
 window.INDYCAR_DATA = {
-  "UPDATED": "2026-06-24 22:43 UTC",
+  "UPDATED": "2026-06-25 08:32 UTC",
   "SEASON": 2026,
   "ROUND": 10,
   "TOTAL_ROUNDS": 19,
@@ -975,55 +975,7 @@ window.INDYCAR_DATA = {
       "note": "Ya en zona top 10 histórico · 2 títulos · 31 victorias"
     }
   ],
-  "LAST_RACE": {
-    "round": null,
-    "name": "Grand Prix of Road America",
-    "circuit": "Grand Prix of Road America",
-    "date": "2026-06-21",
-    "winner": "Christian Lundgaard",
-    "podium": [
-      {
-        "position": 1,
-        "name": "Christian Lundgaard",
-        "country": "DEN",
-        "team": "Arrow McLaren",
-        "logo": "https://flagcdn.com/24x18/dk.png",
-        "primary": "#FF8700"
-      },
-      {
-        "position": 2,
-        "name": "David Malukas",
-        "country": "USA",
-        "team": "A. J. Foyt Racing",
-        "logo": "https://flagcdn.com/24x18/us.png",
-        "primary": "#C8102E"
-      },
-      {
-        "position": 3,
-        "name": "Will Power",
-        "country": "AUS",
-        "team": "Team Penske",
-        "logo": "https://flagcdn.com/24x18/au.png",
-        "primary": "#E31837"
-      },
-      {
-        "position": 4,
-        "name": "Kyffin Simpson",
-        "country": "CAY",
-        "team": "Chip Ganassi Racing",
-        "logo": "https://flagcdn.com/24x18/ky.png",
-        "primary": "#D71920"
-      },
-      {
-        "position": 5,
-        "name": "Álex Palou",
-        "country": "ESP",
-        "team": "Chip Ganassi Racing",
-        "logo": "https://flagcdn.com/24x18/es.png",
-        "primary": "#D71920"
-      }
-    ]
-  },
+  "LAST_RACE": null,
   "CURRENT_CONTENDERS": [
     {
       "id": "scott_dixon",

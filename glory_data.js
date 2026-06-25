@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-24 22:44 UTC",
+  "UPDATED": "2026-06-25 08:33 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at San Diego:Corey Heim",
@@ -99,6 +99,14 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-14"
     },
     {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Matt Olson",
+      "sport": "mlb",
+      "detail": "MLB",
+      "text": "Matt Olson entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-06-25"
+    },
+    {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Cristopher Sanchez",
       "sport": "mlb",
       "detail": "MLB",
@@ -121,6 +129,14 @@ window.GLORY_DATA = {
       "text": "Alexander Bublik sale del top 10 ATP",
       "weight": 78,
       "firstSeen": "2026-06-14"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:out:Cristopher Sanchez",
+      "sport": "mlb",
+      "detail": "MLB",
+      "text": "Cristopher Sanchez cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-06-25"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:out:Shohei Ohtani",
@@ -306,7 +322,7 @@ window.GLORY_DATA = {
       "Kyle Schwarber",
       "Byron Buxton",
       "Jacob Misiorowski",
-      "Cristopher Sanchez"
+      "Matt Olson"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -328,8 +344,8 @@ window.GLORY_DATA = {
       "Pete Crow-Armstrong",
       "Sal Stewart",
       "CJ Abrams",
-      "Cam Schlittler",
       "Chase Burns",
+      "Cam Schlittler",
       "Junior Caminero"
     ],
     "nfl:ROAD_TO_GLORY.players": [
@@ -601,8 +617,8 @@ window.GLORY_DATA = {
       "Spain",
       "France",
       "England",
-      "Portugal",
       "Brazil",
+      "Portugal",
       "Netherlands",
       "Germany",
       "Uruguay",

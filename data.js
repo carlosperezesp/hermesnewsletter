@@ -4545,7 +4545,7 @@ window.NHL_DATA = {
       "name": "Mikhail Sergachev",
       "pos": "D",
       "teamCode": "UTA",
-      "age": 27,
+      "age": 28,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
@@ -6600,7 +6600,7 @@ window.NHL_DATA = {
       "name": "Brandon Bussi",
       "pos": "G",
       "teamCode": "CAR",
-      "age": 27,
+      "age": 28,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -9817,7 +9817,7 @@ window.NHL_DATA = {
       "name": "Jaden Schwartz",
       "pos": "LW",
       "teamCode": "SEA",
-      "age": 33,
+      "age": 34,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -10011,7 +10011,7 @@ window.NHL_DATA = {
       "name": "Philip Broberg",
       "pos": "D",
       "teamCode": "STL",
-      "age": 24,
+      "age": 25,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -13739,7 +13739,7 @@ window.NHL_DATA = {
       "name": "Pyotr Kochetkov",
       "pos": "G",
       "teamCode": "CAR",
-      "age": 26,
+      "age": 27,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
@@ -19421,7 +19421,7 @@ window.NHL_DATA = {
       "name": "Sam Rinzel",
       "pos": "D",
       "teamCode": "CHI",
-      "age": 21,
+      "age": 22,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -19446,7 +19446,7 @@ window.NHL_DATA = {
         47,
         50
       ],
-      "legendScore": 47.0
+      "legendScore": 46.4
     },
     {
       "id": 8480043,
@@ -26072,7 +26072,7 @@ window.NHL_DATA = {
       "name": "Alexey Toropchenko",
       "pos": "RW",
       "teamCode": "STL",
-      "age": 26,
+      "age": 27,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
@@ -29092,7 +29092,7 @@ window.NHL_DATA = {
       "name": "Landon Slaggert",
       "pos": "LW",
       "teamCode": "CHI",
-      "age": 23,
+      "age": 24,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -44968,10 +44968,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-24 22:42 UTC",
+  "LAST_UPDATE": "2026-06-25 08:31 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-24T22:42:15Z"
+    "standingsDateTimeUtc": "2026-06-25T08:31:17Z"
   }
 };
