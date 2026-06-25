@@ -3,6 +3,19 @@
 // Stable empty set: rows passed this are never shaded as "eliminated".
 const EMPTY_ALIVE = new Set();
 
+// Deep-linking por sección: cada sección tiene su URL (#sumo, #futbol, …). El
+// slug es el id salvo los que tienen nombre español natural.
+const SECTION_SLUG = { football: "futbol", tennis: "tenis", cycling: "ciclismo", athletics: "atletismo" };
+const SLUG_TO_ID = Object.fromEntries(Object.entries(SECTION_SLUG).map(([id, s]) => [s, id]));
+const VALID_SECTIONS = new Set(["all", "nhl", "nba", "mlb", "nfl", "tennis", "cycling", "sumo", "f1",
+  "indycar", "nascar", "afl", "golf", "motogp", "rugby", "football", "cricket", "athletics"]);
+const idToSlug = id => SECTION_SLUG[id] || id;
+const sectionFromHash = () => {
+  const slug = (typeof window !== "undefined" ? window.location.hash : "").replace(/^#/, "");
+  const id = SLUG_TO_ID[slug] || slug;
+  return VALID_SECTIONS.has(id) ? id : "all";
+};
+
 function getAlivePlayoffTeams(bracket) {
   const alive = new Set();
   const groups = [
@@ -550,7 +563,19 @@ function NewsletterApp() {
     return `NBA · ${player.pos} · ${teamName}${age}`;
   }
 
-  const [activeSection, setActiveSection] = useState("all");
+  const [activeSection, setActiveSection] = useState(sectionFromHash);
+  // La URL refleja la sección activa y viceversa (atrás/adelante y enlaces directos).
+  useEffect(() => {
+    const onHash = () => setActiveSection(sectionFromHash());
+    window.addEventListener("hashchange", onHash);
+    return () => window.removeEventListener("hashchange", onHash);
+  }, []);
+  useEffect(() => {
+    const want = activeSection === "all" ? "" : `#${idToSlug(activeSection)}`;
+    if ((window.location.hash || "") !== want) {
+      window.history.replaceState(null, "", want || window.location.pathname + window.location.search);
+    }
+  }, [activeSection]);
   const [searchQuery, setSearchQuery] = useState("");
   function sectionUpdateDate(data) {
     const raw = data?.UPDATED || data?.LAST_UPDATE;
@@ -2805,15 +2830,14 @@ function NewsletterApp() {
                       <NewsletterRankRow
                         key={w.name}
                         rank={i + 1}
-                        item={{ ...w, colors: { primary: "#4a4745" } }}
+                        item={{ ...w, colors: { primary: w.primary || "#4a4745" } }}
                         alive={new Set()}
-                        scoreDisplay={recordStr(w)}
-                        scoreLabel="Basho"
-                        scoreB={w.legendScore || 0}
-                        scoreBLabel="Leyenda"
-                        scoreBThreshold={100}
+                        logo={w.logo}
+                        score={w.legendScore || 0}
+                        scoreLabel="Leyenda"
+                        threshold={100}
                         meta={`${w.rankShort}${w.age != null ? ` · ${w.age} años` : ""}`}
-                        note={bashoInfo?.winner === w.name ? "🏆 Campeón del basho" : undefined}
+                        note={`Basho ${recordStr(w)}${bashoInfo?.winner === w.name ? " · 🏆 Campeón" : ""}`}
                       />
                     ))}
                     {yokozunas.length > 0 && (
@@ -2825,15 +2849,14 @@ function NewsletterApp() {
                       <NewsletterRankRow
                         key={w.name}
                         rank={i + 1}
-                        item={{ ...w, colors: { primary: "#4a4745" } }}
+                        item={{ ...w, colors: { primary: w.primary || "#4a4745" } }}
                         alive={new Set()}
-                        scoreDisplay={recordStr(w)}
-                        scoreLabel="Basho"
-                        scoreB={w.legendScore || 0}
-                        scoreBLabel="Leyenda"
-                        scoreBThreshold={100}
+                        logo={w.logo}
+                        score={w.legendScore || 0}
+                        scoreLabel="Leyenda"
+                        threshold={100}
                         meta={`${w.rankShort}${w.age != null ? ` · ${w.age} años` : ""}`}
-                        note={bashoInfo?.winner === w.name ? "🏆 Campeón del basho" : undefined}
+                        note={`Basho ${recordStr(w)}${bashoInfo?.winner === w.name ? " · 🏆 Campeón" : ""}`}
                       />
                     ))}
                   </div>
@@ -2851,13 +2874,14 @@ function NewsletterApp() {
                       <NewsletterRankRow
                         key={p.id}
                         rank={i + 1}
-                        item={{ ...p, colors: { primary: "#4a4745" } }}
+                        item={{ ...p, colors: { primary: p.primary || "#4a4745" } }}
                         alive={new Set()}
+                        logo={p.logo}
                         score={p.projectedScore}
                         scoreLabel="Promesa"
                         threshold={100}
                         meta={`${p.rankShort} · ${p.age} años`}
-                        note={recordStr(p) + (p.yusho > 0 ? ` · ${p.yusho} yusho` : "")}
+                        note={`Basho ${recordStr(p)}${p.yusho > 0 ? ` · ${p.yusho} yusho` : ""}`}
                       />
                     ))}
                   </div>

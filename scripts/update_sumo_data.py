@@ -55,6 +55,23 @@ def _flag(cc3: str) -> str:
     cc2 = JSA_TO_CC2.get(cc3, "")
     return f"https://flagcdn.com/24x18/{cc2}.png" if cc2 else ""
 
+# shusshin (origen del rikishi) -> código JSA. Los japoneses traen una prefectura
+# (Tokyo, Hokkaido…), así que cualquier origen no reconocido como país extranjero
+# se asume Japón.
+_FOREIGN_SHUSSHIN: dict[str, str] = {
+    "Mongolia": "MGL", "Georgia": "GEO", "Russia": "RUS", "Brazil": "BRA",
+    "Bulgaria": "BUL", "Kazakhstan": "KAZ", "China": "CHN", "Ukraine": "UKR",
+    "Estonia": "EST", "Tonga": "TGA", "Korea": "KOR", "Czech": "CZE",
+    "Australia": "AUS", "Hawaii": "USA", "United States": "USA",
+}
+
+def _rikishi_country(shusshin: str) -> str:
+    s = shusshin or ""
+    for key, cc in _FOREIGN_SHUSSHIN.items():
+        if key in s:
+            return cc
+    return "JPN"
+
 # ── Yokozuna legends (hardcoded — authoritative source: JSA official records) ─
 # yusho = Emperor's Cup wins; yokozuna_basho = basho competed at Yokozuna rank
 YOKOZUNA_LEGENDS = [
@@ -153,23 +170,24 @@ def _fetch_banzuke(basho_id: str) -> list[dict]:
     rows.sort(key=lambda x: x["rankValue"])
     return rows[:20]
 
-def _fetch_rikishi_age(rikishi_id: int) -> int | None:
-    """Fetch wrestler birth date and return current age. Cached 30 days (birth never changes)."""
+def _fetch_rikishi_info(rikishi_id: int) -> dict:
+    """Perfil del luchador: edad (de birthDate) y país (de shusshin). Cacheado 30
+    días — ni el nacimiento ni el origen cambian."""
     if not rikishi_id:
-        return None
-    url  = f"{SUMO_API}/rikishi/{rikishi_id}"
-    data = _fetch_json(url, ttl_hours=720.0)
+        return {}
+    data = _fetch_json(f"{SUMO_API}/rikishi/{rikishi_id}", ttl_hours=720.0)
     if not isinstance(data, dict):
-        return None
+        return {}
+    out: dict = {"country": _rikishi_country(data.get("shusshin", ""))}
     bd = data.get("birthDate", "")
-    if not bd:
-        return None
-    try:
-        born = datetime.fromisoformat(bd.replace("Z", "+00:00")).date()
-        today = _date.today()
-        return today.year - born.year - ((today.month, today.day) < (born.month, born.day))
-    except Exception:
-        return None
+    if bd:
+        try:
+            born = datetime.fromisoformat(bd.replace("Z", "+00:00")).date()
+            today = _date.today()
+            out["age"] = today.year - born.year - ((today.month, today.day) < (born.month, born.day))
+        except Exception:
+            pass
+    return out
 
 def _fetch_basho_info(basho_id: str, ttl_hours: float = 6.0) -> dict | None:
     url  = f"{SUMO_API}/basho/{basho_id}"
@@ -244,6 +262,9 @@ def build_young_prospects(banzuke: list[dict]) -> list[dict]:
         "losses":         w.get("losses", 0),
         "absences":       w.get("absences", 0),
         "yusho":          w.get("yusho", 0),
+        "country":        w.get("country"),
+        "logo":           w.get("logo"),
+        "primary":        w.get("primary", "#4a4745"),
         "projectedScore": _prospect_score(w.get("rankShort", ""), w.get("age")),
     } for w in banzuke if w.get("age") and w["age"] <= PROSPECT_MAX_AGE]
     out.sort(key=lambda p: -p["projectedScore"])
@@ -327,10 +348,14 @@ def write_data() -> None:
             yusho = career_yusho.get(name, 0)
             w["yusho"]       = yusho
             w["legendScore"] = round(yusho * 5 / max_raw * 100, 1) if yusho else 0.0
-        # Fetch age from rikishi profile (cached 30 days)
-        age = _fetch_rikishi_age(w.get("rikishiID"))
-        if age is not None:
-            w["age"] = age
+        # Edad y país desde el perfil del rikishi (cacheado 30 días)
+        info = _fetch_rikishi_info(w.get("rikishiID"))
+        if info.get("age") is not None:
+            w["age"] = info["age"]
+        cc = info.get("country", "JPN")
+        w["country"] = cc
+        w["logo"]    = _flag(cc)
+        w["primary"] = COUNTRY_COLORS.get(cc, "#4a4745")
 
     importance = _sumo_importance(banzuke)
     young_prospects = build_young_prospects(banzuke)

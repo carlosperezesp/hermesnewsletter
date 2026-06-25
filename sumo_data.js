@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-25 22:53 UTC
+// Auto-generated 2026-06-25 23:30 UTC
 window.SUMO_DATA = {
-  "UPDATED": "2026-06-25 22:53 UTC",
+  "UPDATED": "2026-06-25 23:30 UTC",
   "LEGENDS": [
     {
       "id": "hakuho",
@@ -257,7 +257,10 @@ window.SUMO_DATA = {
       "rankShort": "Yokozuna",
       "yusho": 3,
       "legendScore": 7.1,
-      "age": 27
+      "age": 27,
+      "country": "MGL",
+      "logo": "https://flagcdn.com/24x18/mn.png",
+      "primary": "#C4272F"
     },
     {
       "side": "West",
@@ -271,7 +274,10 @@ window.SUMO_DATA = {
       "rankShort": "Yokozuna",
       "yusho": 5,
       "legendScore": 10.5,
-      "age": 26
+      "age": 26,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D"
     },
     {
       "side": "East",
@@ -285,7 +291,10 @@ window.SUMO_DATA = {
       "rankShort": "Ozeki",
       "yusho": 1,
       "legendScore": 1.9,
-      "age": 28
+      "age": 28,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D"
     },
     {
       "side": "West",
@@ -299,7 +308,10 @@ window.SUMO_DATA = {
       "rankShort": "Ozeki",
       "yusho": 2,
       "legendScore": 3.7,
-      "age": 22
+      "age": 22,
+      "country": "UKR",
+      "logo": "https://flagcdn.com/24x18/ua.png",
+      "primary": "#4a4745"
     },
     {
       "side": "East",
@@ -313,7 +325,10 @@ window.SUMO_DATA = {
       "rankShort": "Ozeki",
       "yusho": 3,
       "legendScore": 5.6,
-      "age": 30
+      "age": 30,
+      "country": "MGL",
+      "logo": "https://flagcdn.com/24x18/mn.png",
+      "primary": "#C4272F"
     },
     {
       "side": "East",
@@ -327,7 +342,10 @@ window.SUMO_DATA = {
       "rankShort": "Sekiwake",
       "yusho": 0,
       "legendScore": 0.0,
-      "age": 23
+      "age": 23,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D"
     },
     {
       "side": "West",
@@ -341,7 +359,10 @@ window.SUMO_DATA = {
       "rankShort": "Sekiwake",
       "yusho": 1,
       "legendScore": 1.9,
-      "age": 26
+      "age": 26,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D"
     },
     {
       "side": "East",
@@ -355,7 +376,10 @@ window.SUMO_DATA = {
       "rankShort": "Komusubi",
       "yusho": 2,
       "legendScore": 3.7,
-      "age": 31
+      "age": 31,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D"
     },
     {
       "side": "West",
@@ -369,7 +393,10 @@ window.SUMO_DATA = {
       "rankShort": "Komusubi",
       "yusho": 0,
       "legendScore": 0.0,
-      "age": 36
+      "age": 36,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D"
     },
     {
       "side": "East",
@@ -383,7 +410,10 @@ window.SUMO_DATA = {
       "rankShort": "Maegashira 1",
       "yusho": 0,
       "legendScore": 0.0,
-      "age": 21
+      "age": 21,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D"
     },
     {
       "side": "West",
@@ -397,7 +427,10 @@ window.SUMO_DATA = {
       "rankShort": "Maegashira 1",
       "yusho": 0,
       "legendScore": 0.0,
-      "age": 31
+      "age": 31,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D"
     },
     {
       "side": "East",
@@ -411,7 +444,10 @@ window.SUMO_DATA = {
       "rankShort": "Maegashira 2",
       "yusho": 0,
       "legendScore": 0.0,
-      "age": 25
+      "age": 25,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D"
     },
     {
       "side": "West",
@@ -425,7 +461,10 @@ window.SUMO_DATA = {
       "rankShort": "Maegashira 2",
       "yusho": 0,
       "legendScore": 0.0,
-      "age": 32
+      "age": 32,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D"
     },
     {
       "side": "East",
@@ -439,7 +478,10 @@ window.SUMO_DATA = {
       "rankShort": "Maegashira 3",
       "yusho": 0,
       "legendScore": 0.0,
-      "age": 26
+      "age": 26,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D"
     },
     {
       "side": "West",
@@ -453,7 +495,10 @@ window.SUMO_DATA = {
       "rankShort": "Maegashira 3",
       "yusho": 0,
       "legendScore": 0.0,
-      "age": 26
+      "age": 26,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D"
     },
     {
       "side": "East",
@@ -467,7 +512,10 @@ window.SUMO_DATA = {
       "rankShort": "Maegashira 4",
       "yusho": 1,
       "legendScore": 1.9,
-      "age": 32
+      "age": 32,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D"
     },
     {
       "side": "West",
@@ -481,7 +529,10 @@ window.SUMO_DATA = {
       "rankShort": "Maegashira 4",
       "yusho": 0,
       "legendScore": 0.0,
-      "age": 28
+      "age": 28,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D"
     },
     {
       "side": "East",
@@ -495,7 +546,10 @@ window.SUMO_DATA = {
       "rankShort": "Maegashira 5",
       "yusho": 0,
       "legendScore": 0.0,
-      "age": 32
+      "age": 32,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D"
     },
     {
       "side": "West",
@@ -509,7 +563,10 @@ window.SUMO_DATA = {
       "rankShort": "Maegashira 5",
       "yusho": 0,
       "legendScore": 0.0,
-      "age": 34
+      "age": 34,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D"
     },
     {
       "side": "East",
@@ -523,7 +580,10 @@ window.SUMO_DATA = {
       "rankShort": "Maegashira 6",
       "yusho": 0,
       "legendScore": 0.0,
-      "age": 33
+      "age": 33,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D"
     }
   ],
   "YOUNG_PROSPECTS": [
@@ -536,6 +596,9 @@ window.SUMO_DATA = {
       "losses": 0,
       "absences": 15,
       "yusho": 2,
+      "country": "UKR",
+      "logo": "https://flagcdn.com/24x18/ua.png",
+      "primary": "#4a4745",
       "projectedScore": 92.5
     },
     {
@@ -547,6 +610,9 @@ window.SUMO_DATA = {
       "losses": 6,
       "absences": 0,
       "yusho": 0,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D",
       "projectedScore": 79.0
     },
     {
@@ -558,6 +624,9 @@ window.SUMO_DATA = {
       "losses": 8,
       "absences": 0,
       "yusho": 0,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D",
       "projectedScore": 66.0
     },
     {
@@ -569,6 +638,9 @@ window.SUMO_DATA = {
       "losses": 4,
       "absences": 0,
       "yusho": 0,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#BC002D",
       "projectedScore": 57.0
     }
   ],
