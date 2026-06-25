@@ -319,6 +319,14 @@ def _parse_last_race(wt: str) -> dict | None:
     podium = _fetch_race_podium(last["name"], CURRENT_YEAR)
     if podium:
         last["podium"] = podium
+        # El podio (con posiciones reales del artículo de carrera) manda sobre la
+        # tabla de temporada, cuya heurística de columnas a veces coge pole/vuelta
+        # rápida en vez del ganador. Alineamos winner con el 1º del podio.
+        p1 = podium[0]
+        last["winner"]  = p1["name"]
+        last["country"] = p1.get("country", last["country"])
+        last["bike"]    = p1.get("bike", last["bike"])
+        last["primary"] = p1.get("primary", last["primary"])
     else:
         last["podium"] = [{
             "pos": 1, "name": last["winner"], "country": last["country"],
