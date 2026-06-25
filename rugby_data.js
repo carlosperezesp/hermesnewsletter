@@ -1,15 +1,15 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-06-25 15:36 UTC",
+  "UPDATED": "2026-06-25 16:07 UTC",
   "LAST_MATCH": "2026-04-10",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 325,
+    "incrementalMatches": 326,
     "teams": 162,
-    "matches": 10020,
+    "matches": 10021,
     "through": "2026-04-10"
   },
   "IMPORTANCE": 3.5,
@@ -237,11 +237,11 @@ window.RUGBY_DATA = {
       "name": "Italy",
       "teamCode": "ITA",
       "country": "Italy",
-      "elo": 2138.8,
-      "eloRaw": 2138.8,
+      "elo": 2138.4,
+      "eloRaw": 2138.4,
       "lastMatch": "2026-03-14",
       "inactiveDays": 27,
-      "peakElo": 2182.0,
+      "peakElo": 2181.6,
       "peakDate": "2026-03-07",
       "worldCups": 0,
       "record": {
@@ -253,7 +253,7 @@ window.RUGBY_DATA = {
         "primary": "#0066b3",
         "secondary": "#009246"
       },
-      "note": "215V-334D-15E · último 2026-03-14 · raw 2139"
+      "note": "215V-334D-15E · último 2026-03-14 · raw 2138"
     }
   ],
   "ROAD_TO_GLORY": {

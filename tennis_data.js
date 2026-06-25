@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-25 15:37 UTC
+// Auto-generated 2026-06-25 16:08 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-25 15:37 UTC",
+  "UPDATED": "2026-06-25 16:08 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -6105,7 +6105,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 71.1
@@ -7093,7 +7093,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 61.5
@@ -8635,7 +8635,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 50.0
@@ -11210,15 +11210,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Tereza Valentova",
+          "w": "Tatjana Maria",
           "w_logo": "",
-          "l": "Tatjana Maria",
+          "l": "Tereza Valentova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 7-5",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 61.6,
-          "l_score": 50.0,
+          "w_score": 50.0,
+          "l_score": 61.6,
           "match_score": 61.6
         },
         {
@@ -11227,9 +11227,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Catherine McNally",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 57.9,
           "l_score": null,
           "match_score": 57.9
@@ -11343,7 +11343,7 @@ window.TENNIS_DATA = {
       "Yuliia Starodubtseva"
     ],
     "aliveCount": 16,
-    "matchesSeen": 28
+    "matchesSeen": 29
   },
   "ATP_SCORE_LOG": {
     "206173": [

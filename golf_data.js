@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-25 15:35 UTC
+// Auto-generated 2026-06-25 16:07 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-25 15:35 UTC",
+  "UPDATED": "2026-06-25 16:07 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -113,11 +113,27 @@ window.GOLF_DATA = {
         "name": "Eric Cole",
         "id": "10522",
         "country": "USA",
-        "score": "-5",
+        "score": "-6",
         "today": ""
       },
       {
         "rank": 2,
+        "name": "Robert MacIntyre",
+        "id": "11378",
+        "country": "Scotland",
+        "score": "-4",
+        "today": ""
+      },
+      {
+        "rank": 3,
+        "name": "Ben Griffin",
+        "id": "4404992",
+        "country": "USA",
+        "score": "-4",
+        "today": ""
+      },
+      {
+        "rank": 4,
         "name": "Tom Hoge",
         "id": "6086",
         "country": "USA",
@@ -125,23 +141,23 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 3,
-        "name": "Robert MacIntyre",
-        "id": "11378",
-        "country": "Scotland",
-        "score": "-3",
-        "today": ""
-      },
-      {
-        "rank": 4,
-        "name": "Ben Griffin",
-        "id": "4404992",
+        "rank": 5,
+        "name": "Ben James",
+        "id": "5077389",
         "country": "USA",
         "score": "-3",
         "today": ""
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "name": "Nick Taylor",
+        "id": "3792",
+        "country": "Canada",
+        "score": "-3",
+        "today": ""
+      },
+      {
+        "rank": 7,
         "name": "Jackson Suber",
         "id": "4982182",
         "country": "USA",
@@ -149,41 +165,25 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 6,
-        "name": "Ben James",
-        "id": "5077389",
-        "country": "USA",
-        "score": "-2",
-        "today": ""
-      },
-      {
-        "rank": 7,
-        "name": "Brandt Snedeker",
-        "id": "1222",
-        "country": "USA",
-        "score": "-2",
-        "today": ""
-      },
-      {
         "rank": 8,
-        "name": "Harry Hall",
-        "id": "4589438",
-        "country": "England",
+        "name": "Ryan Gerard",
+        "id": "5076021",
+        "country": "USA",
         "score": "-2",
         "today": ""
       },
       {
         "rank": 9,
-        "name": "Nick Taylor",
-        "id": "3792",
-        "country": "Canada",
+        "name": "Patrick Cantlay",
+        "id": "6007",
+        "country": "USA",
         "score": "-2",
         "today": ""
       },
       {
         "rank": 10,
-        "name": "Russell Henley",
-        "id": "5409",
+        "name": "Brandt Snedeker",
+        "id": "1222",
         "country": "USA",
         "score": "-2",
         "today": ""
