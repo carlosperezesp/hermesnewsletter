@@ -1,8 +1,8 @@
-// Auto-generated 2026-06-25 09:49 UTC
+// Auto-generated 2026-06-25 15:35 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-06-25 09:49 UTC",
+  "UPDATED": "2026-06-25 15:35 UTC",
   "SEASON": "2026",
-  "ROUND": 15,
+  "ROUND": 16,
   "IMPORTANCE": 8.0,
   "LEGEND_THRESHOLD": 70.5,
   "LADDER": [
@@ -22,10 +22,10 @@ window.AFL_DATA = {
       "rank": 2,
       "name": "Sydney",
       "wins": 12,
-      "losses": 2,
+      "losses": 3,
       "draws": 0,
       "pts": 48,
-      "percentage": 143.7,
+      "percentage": 135.7,
       "primary": "#F57F00",
       "secondary": "#002040",
       "prevRank": 2
@@ -68,6 +68,18 @@ window.AFL_DATA = {
     },
     {
       "rank": 6,
+      "name": "Brisbane Lions",
+      "wins": 9,
+      "losses": 6,
+      "draws": 0,
+      "pts": 36,
+      "percentage": 111.0,
+      "primary": "#7B1A4B",
+      "secondary": "#F6AE00",
+      "prevRank": 8
+    },
+    {
+      "rank": 7,
       "name": "Melbourne",
       "wins": 9,
       "losses": 6,
@@ -79,7 +91,7 @@ window.AFL_DATA = {
       "prevRank": 6
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Western Bulldogs",
       "wins": 9,
       "losses": 6,
@@ -89,18 +101,6 @@ window.AFL_DATA = {
       "primary": "#0039A6",
       "secondary": "#CC2031",
       "prevRank": 7
-    },
-    {
-      "rank": 8,
-      "name": "Brisbane Lions",
-      "wins": 8,
-      "losses": 6,
-      "draws": 0,
-      "pts": 32,
-      "percentage": 108.4,
-      "primary": "#7B1A4B",
-      "secondary": "#F6AE00",
-      "prevRank": 8
     },
     {
       "rank": 9,
@@ -1057,74 +1057,14 @@ window.AFL_DATA = {
   ],
   "LAST_ROUND": [
     {
-      "hteam": "Fremantle",
-      "hscore": 99,
-      "ateam": "Geelong",
-      "ascore": 90,
-      "winner": "Fremantle",
-      "date": "2026-06-18",
-      "hprimary": "#2A0D54",
-      "aprimary": "#002A54"
-    },
-    {
-      "hteam": "Gold Coast",
-      "hscore": 97,
-      "ateam": "Hawthorn",
-      "ascore": 113,
-      "winner": "Hawthorn",
-      "date": "2026-06-19",
-      "hprimary": "#C5002F",
-      "aprimary": "#4D2004"
-    },
-    {
-      "hteam": "Adelaide",
-      "hscore": 79,
-      "ateam": "Melbourne",
-      "ascore": 62,
-      "winner": "Adelaide",
-      "date": "2026-06-20",
-      "hprimary": "#002B5C",
-      "aprimary": "#CC2031"
-    },
-    {
-      "hteam": "Greater Western Sydney",
-      "hscore": 65,
-      "ateam": "Carlton",
-      "ascore": 88,
-      "winner": "Carlton",
-      "date": "2026-06-20",
-      "hprimary": "#F57F00",
-      "aprimary": "#0E1E2D"
-    },
-    {
-      "hteam": "Collingwood",
-      "hscore": 78,
-      "ateam": "Port Adelaide",
-      "ascore": 51,
-      "winner": "Collingwood",
-      "date": "2026-06-20",
-      "hprimary": "#000000",
-      "aprimary": "#002B5C"
-    },
-    {
-      "hteam": "Richmond",
-      "hscore": 48,
-      "ateam": "North Melbourne",
-      "ascore": 73,
-      "winner": "North Melbourne",
-      "date": "2026-06-21",
-      "hprimary": "#FFD200",
-      "aprimary": "#CC2031"
-    },
-    {
-      "hteam": "St Kilda",
-      "hscore": 61,
-      "ateam": "Western Bulldogs",
+      "hteam": "Brisbane Lions",
+      "hscore": 126,
+      "ateam": "Sydney",
       "ascore": 83,
-      "winner": "Western Bulldogs",
-      "date": "2026-06-21",
-      "hprimary": "#ED1C2E",
-      "aprimary": "#0039A6"
+      "winner": "Brisbane Lions",
+      "date": "2026-06-25",
+      "hprimary": "#7B1A4B",
+      "aprimary": "#F57F00"
     }
   ],
   "CURRENT_CONTENDERS": [

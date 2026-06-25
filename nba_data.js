@@ -1471,7 +1471,7 @@ window.NBA_DATA = {
       "last": "Bane",
       "pos": "G",
       "teamCode": "ORL",
-      "age": 27,
+      "age": 28,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4066320.png",
       "colors": {
         "primary": "#0077c0",
@@ -1487,7 +1487,7 @@ window.NBA_DATA = {
         "blk": 0.3,
         "min": 36.1
       },
-      "legendScore": 51.0
+      "legendScore": 52.0
     },
     {
       "id": 4566434,
@@ -1671,7 +1671,7 @@ window.NBA_DATA = {
       "last": "Mitchell",
       "pos": "G",
       "teamCode": "OKC",
-      "age": 23,
+      "age": 24,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4900671.png",
       "colors": {
         "primary": "#007ac1",
@@ -1687,7 +1687,7 @@ window.NBA_DATA = {
         "blk": 0.1,
         "min": 28.8
       },
-      "legendScore": 44.2
+      "legendScore": 45.2
     },
     {
       "id": 4397002,
@@ -2096,7 +2096,7 @@ window.NBA_DATA = {
       "last": "Sheppard",
       "pos": "G",
       "teamCode": "HOU",
-      "age": 21,
+      "age": 22,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4711272.png",
       "colors": {
         "primary": "#ce1141",
@@ -2112,7 +2112,7 @@ window.NBA_DATA = {
         "blk": 0.8,
         "min": 32.0
       },
-      "legendScore": 39.9
+      "legendScore": 40.9
     },
     {
       "id": 4277847,
@@ -2321,7 +2321,7 @@ window.NBA_DATA = {
       "last": "Gillespie",
       "pos": "G",
       "teamCode": "PHX",
-      "age": 26,
+      "age": 27,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4278585.png",
       "colors": {
         "primary": "#1d1160",
@@ -2337,7 +2337,7 @@ window.NBA_DATA = {
         "blk": 0.2,
         "min": 28.5
       },
-      "legendScore": 43.3
+      "legendScore": 44.3
     },
     {
       "id": 4278129,
@@ -2546,7 +2546,7 @@ window.NBA_DATA = {
       "last": "Kennard",
       "pos": "G",
       "teamCode": "LAL",
-      "age": 29,
+      "age": 30,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3913174.png",
       "colors": {
         "primary": "#552583",
@@ -2562,7 +2562,7 @@ window.NBA_DATA = {
         "blk": 0.1,
         "min": 32.6
       },
-      "legendScore": 45.7
+      "legendScore": 46.7
     },
     {
       "id": 4066211,
@@ -5871,7 +5871,7 @@ window.NBA_DATA = {
       "last": "Shulga",
       "pos": "G",
       "teamCode": "BOS",
-      "age": 23,
+      "age": 24,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4701992.png",
       "colors": {
         "primary": "#007a33",
@@ -5887,7 +5887,7 @@ window.NBA_DATA = {
         "blk": 0.0,
         "min": 2.5
       },
-      "legendScore": 25.7
+      "legendScore": 26.7
     },
     {
       "id": 4888725,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-06-25 09:48 UTC",
+  "LAST_UPDATE": "2026-06-25 15:34 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

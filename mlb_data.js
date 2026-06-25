@@ -666,6 +666,37 @@ window.MLB_DATA = {
       "prevRank": 1
     },
     {
+      "id": 660271,
+      "name": "Shohei Ohtani",
+      "first": "Shohei",
+      "last": "Ohtani",
+      "pos": "SP",
+      "teamCode": "LAD",
+      "age": 31,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39832.png",
+      "colors": {
+        "primary": "#005a9c",
+        "secondary": "#ef3e42"
+      },
+      "score": 100,
+      "stats": {
+        "type": "pitching",
+        "g": 13,
+        "w": 8,
+        "era": 1.58,
+        "ip": 79.2,
+        "so": 86,
+        "whip": 0.9
+      },
+      "legendScore": 92.1,
+      "currentScore": 100.0,
+      "battingScore": 85,
+      "pitchingScore": 100,
+      "twoWayBonus": 18.7,
+      "rings": 2,
+      "prevRank": null
+    },
+    {
       "id": 36018,
       "name": "Yordan Alvarez",
       "first": "Yordan",
@@ -1066,6 +1097,36 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
+    },
+    {
+      "id": 39832,
+      "name": "Shohei Ohtani",
+      "first": "Shohei",
+      "last": "Ohtani",
+      "pos": "DH",
+      "teamCode": "LAD",
+      "age": 31,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39832.png",
+      "colors": {
+        "primary": "#005a9c",
+        "secondary": "#ef3e42"
+      },
+      "score": 85,
+      "stats": {
+        "type": "batting",
+        "ab": 275,
+        "hr": 17,
+        "rbi": 46,
+        "avg": 0.295,
+        "sb": 6,
+        "ops": 0.963
+      },
+      "legendScore": 92.1,
+      "currentScore": 100.0,
+      "battingScore": 85,
+      "pitchingScore": 100,
+      "twoWayBonus": 18.7,
+      "rings": 2
     },
     {
       "id": 42468,
@@ -3111,8 +3172,7 @@ window.MLB_DATA = {
       "battingScore": null,
       "pitchingScore": 65,
       "twoWayBonus": 0,
-      "rings": 0,
-      "prevRank": 10
+      "rings": 0
     },
     {
       "id": 38904,
@@ -7422,6 +7482,28 @@ window.MLB_DATA = {
     "teamThreshold": 89.5,
     "players": [
       {
+        "id": 39832,
+        "name": "Shohei Ohtani",
+        "pos": "DH",
+        "teamCode": "LAD",
+        "colors": {
+          "primary": "#005a9c",
+          "secondary": "#ef3e42"
+        },
+        "age": 31,
+        "careerScore": 92.1,
+        "legendScore": 92.1,
+        "currentScore": 100.0,
+        "battingScore": 85,
+        "pitchingScore": 100,
+        "twoWayBonus": 18.7,
+        "threshold": 92.5,
+        "gap": 0.4,
+        "rings": 2,
+        "note": "3 MVPs · two-way unicorn · 50/50 season · 2 World Series rings",
+        "prevRank": null
+      },
+      {
         "id": 30836,
         "name": "Mike Trout",
         "pos": "CF",
@@ -7618,28 +7700,6 @@ window.MLB_DATA = {
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
         "prevRank": 9
-      },
-      {
-        "id": 32767,
-        "name": "Matt Olson",
-        "pos": "1B",
-        "teamCode": "ATL",
-        "colors": {
-          "primary": "#ce1141",
-          "secondary": "#13274f"
-        },
-        "age": 32,
-        "careerScore": 56.1,
-        "legendScore": 56.1,
-        "currentScore": 86,
-        "battingScore": 86,
-        "pitchingScore": null,
-        "twoWayBonus": 0,
-        "threshold": 92.5,
-        "gap": 36.4,
-        "rings": 0,
-        "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 10
       }
     ],
     "teams": [
@@ -8017,7 +8077,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-25 09:48 UTC",
+  "LAST_UPDATE": "2026-06-25 15:34 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

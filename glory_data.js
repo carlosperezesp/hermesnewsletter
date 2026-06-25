@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-25 09:50 UTC",
+  "UPDATED": "2026-06-25 15:37 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at San Diego:Corey Heim",
@@ -67,6 +67,14 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-14"
     },
     {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
+      "sport": "mlb",
+      "detail": "MLB",
+      "text": "Shohei Ohtani es nuevo nº1 · Road to Glory",
+      "weight": 92,
+      "firstSeen": "2026-06-25"
+    },
+    {
       "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Mike Trout",
       "sport": "mlb",
       "detail": "MLB",
@@ -97,6 +105,14 @@ window.GLORY_DATA = {
       "text": "Jonathan Milan ganó la última etapa del Giro d'Italia",
       "weight": 88,
       "firstSeen": "2026-06-14"
+    },
+    {
+      "id": "rank:rugby:ROAD_TO_GLORY.dynasties:in:Scotland",
+      "sport": "rugby",
+      "detail": "Rugby",
+      "text": "Scotland entra en el top-10 · dinastías",
+      "weight": 84,
+      "firstSeen": "2026-06-25"
     },
     {
       "id": "rank:rugby:ROAD_TO_GLORY.dynasties:in:Ireland",
@@ -137,6 +153,22 @@ window.GLORY_DATA = {
       "text": "Alexander Bublik sale del top 10 ATP",
       "weight": 78,
       "firstSeen": "2026-06-14"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:out:Matt Olson",
+      "sport": "mlb",
+      "detail": "MLB",
+      "text": "Matt Olson cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-06-25"
+    },
+    {
+      "id": "rank:rugby:ROAD_TO_GLORY.dynasties:out:Ireland",
+      "sport": "rugby",
+      "detail": "Rugby",
+      "text": "Ireland cae del top-10 · dinastías",
+      "weight": 74,
+      "firstSeen": "2026-06-25"
     },
     {
       "id": "rank:rugby:ROAD_TO_GLORY.dynasties:out:Scotland",
@@ -329,6 +361,7 @@ window.GLORY_DATA = {
       "VJ Edgecombe"
     ],
     "mlb:ROAD_TO_GLORY.players": [
+      "Shohei Ohtani",
       "Mike Trout",
       "Aaron Judge",
       "Freddie Freeman",
@@ -337,8 +370,7 @@ window.GLORY_DATA = {
       "Yordan Alvarez",
       "Kyle Schwarber",
       "Byron Buxton",
-      "Jacob Misiorowski",
-      "Matt Olson"
+      "Jacob Misiorowski"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -598,9 +630,9 @@ window.GLORY_DATA = {
       "Hawthorn",
       "Geelong",
       "Adelaide",
+      "Brisbane Lions",
       "Melbourne",
       "Western Bulldogs",
-      "Brisbane Lions",
       "Gold Coast",
       "North Melbourne"
     ],
@@ -613,8 +645,8 @@ window.GLORY_DATA = {
       "South Africa",
       "South Africa",
       "New Zealand",
-      "Ireland",
-      "Wales"
+      "Wales",
+      "Scotland"
     ],
     "football:ROAD_TO_GLORY.dynasties": [
       "Brazil",
