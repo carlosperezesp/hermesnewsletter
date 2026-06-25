@@ -29,7 +29,6 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 SEED_DIR = ROOT / "data_sources" / "athletics_seed"
 OUT = ROOT / "athletics_data.js"
-LEGACY = ROOT / "athletics_data.js"   # source of the LEGENDS section to preserve
 CTX = ssl.create_default_context()
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) HermesBot/1.0"}
 YEAR = datetime.now(timezone.utc).year
@@ -212,34 +211,49 @@ def decorate(rows, date_key):
     return out
 
 
-def load_legends():
-    """Preserve the curated LEGENDS array from the previous athletics_data.js."""
-    try:
-        text = LEGACY.read_text(encoding="utf-8")
-    except FileNotFoundError:
-        return []
-    i = text.find("LEGENDS:")
-    if i < 0:
-        return []
-    start = text.find("[", i)
-    depth = 0
-    for j in range(start, len(text)):
-        if text[j] == "[":
-            depth += 1
-        elif text[j] == "]":
-            depth -= 1
-            if depth == 0:
-                arr = text[start:j + 1]
-                break
-    else:
-        return []
-    # NB: no comment-stripping here — values contain "https://…" URLs.
-    arr = re.sub(r"([{,]\s*)([A-Za-z_]\w*):", r'\1"\2":', arr)  # quote keys
-    arr = re.sub(r",(\s*[}\]])", r"\1", arr)                    # trailing commas
-    try:
-        return json.loads(arr)
-    except json.JSONDecodeError:
-        return []
+# ── Leyendas del atletismo (curado, determinista) ────────────────────────────
+# El "pilar Leyenda" de la sección: las grandes figuras de la historia del
+# atletismo, abarcando disciplinas (velocidad, fondo, maratón, saltos, pértiga,
+# multipruebas) y ambos sexos. legendScore es una valoración curada anclada en
+# Bolt = 100. El frontend muestra la sección "Leyendas del atletismo" en cuanto
+# este array no está vacío.
+_ATH_RED = "#C0392B"
+
+
+def _legend(slug, name, events, cc3, iso2, score, note, active=False):
+    return {
+        "id": slug, "name": name, "events": events, "country": cc3,
+        "logo": f"https://flagcdn.com/24x18/{iso2}.png", "primary": _ATH_RED,
+        "legendScore": float(score), "active": active, "note": note,
+    }
+
+
+ATHLETICS_LEGENDS = [
+    _legend("usain_bolt", "Usain Bolt", "100 m · 200 m", "JAM", "jm", 100,
+            "8 oros olímpicos · récords mundiales de 100 m y 200 m"),
+    _legend("eliud_kipchoge", "Eliud Kipchoge", "Maratón", "KEN", "ke", 96,
+            "Récord mundial de maratón y primer sub-2 horas; doble oro olímpico"),
+    _legend("carl_lewis", "Carl Lewis", "100 m · Salto de longitud", "USA", "us", 96,
+            "9 oros olímpicos en cuatro Juegos"),
+    _legend("kenenisa_bekele", "Kenenisa Bekele", "5000 m · 10 000 m", "ETH", "et", 95,
+            "Récords mundiales de 5000 y 10 000 m"),
+    _legend("allyson_felix", "Allyson Felix", "200 m · 400 m", "USA", "us", 94,
+            "La atleta con más medallas olímpicas de la historia (11)"),
+    _legend("michael_johnson", "Michael Johnson", "200 m · 400 m", "USA", "us", 93,
+            "Dobletes 200/400 y récords mundiales legendarios"),
+    _legend("haile_gebrselassie", "Haile Gebrselassie", "10 000 m · Maratón", "ETH", "et", 93,
+            "27 récords mundiales en pruebas de fondo"),
+    _legend("hicham_el_guerrouj", "Hicham El Guerrouj", "1500 m · Milla", "MAR", "ma", 92,
+            "Récords de 1500 m y milla aún vigentes"),
+    _legend("sergey_bubka", "Sergey Bubka", "Pértiga", "UKR", "ua", 92,
+            "35 récords mundiales de salto con pértiga"),
+    _legend("jackie_joyner_kersee", "Jackie Joyner-Kersee", "Heptatlón · Longitud", "USA", "us", 92,
+            "Récord mundial de heptatlón aún vigente"),
+    _legend("florence_griffith_joyner", "Florence Griffith-Joyner", "100 m · 200 m", "USA", "us", 91,
+            "Récords mundiales de 100 y 200 m intactos desde 1988"),
+    _legend("mondo_duplantis", "Mondo Duplantis", "Pértiga", "SWE", "se", 90,
+            "Plusmarquista mundial en activo y oro olímpico", active=True),
+]
 
 
 def main():
@@ -310,7 +324,7 @@ def main():
         "IMPORTANCE": 7,
         "GROUPS": groups_out,
         "NEW_RECORDS": new_records,
-        "LEGENDS": load_legends(),
+        "LEGENDS": ATHLETICS_LEGENDS,
     }
     OUT.write_text("// Auto-generated " + stamp + "\nwindow.ATHLETICS_DATA = "
                    + json.dumps(data, ensure_ascii=False, indent=2) + ";\n",
