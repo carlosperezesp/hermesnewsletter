@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-25 16:06 UTC
+// Auto-generated 2026-06-25 22:25 UTC
 window.SUMO_DATA = {
-  "UPDATED": "2026-06-25 16:06 UTC",
+  "UPDATED": "2026-06-25 22:25 UTC",
   "LEGENDS": [
     {
       "id": "hakuho",
@@ -524,6 +524,52 @@ window.SUMO_DATA = {
       "yusho": 0,
       "legendScore": 0.0,
       "age": 33
+    }
+  ],
+  "YOUNG_PROSPECTS": [
+    {
+      "id": "aonishiki",
+      "name": "Aonishiki",
+      "rankShort": "Ozeki",
+      "age": 22,
+      "wins": 0,
+      "losses": 0,
+      "absences": 15,
+      "yusho": 2,
+      "projectedScore": 92.5
+    },
+    {
+      "id": "atamifuji",
+      "name": "Atamifuji",
+      "rankShort": "Sekiwake",
+      "age": 23,
+      "wins": 9,
+      "losses": 6,
+      "absences": 0,
+      "yusho": 0,
+      "projectedScore": 79.0
+    },
+    {
+      "id": "fujinokawa",
+      "name": "Fujinokawa",
+      "rankShort": "Maegashira 1",
+      "age": 21,
+      "wins": 7,
+      "losses": 8,
+      "absences": 0,
+      "yusho": 0,
+      "projectedScore": 66.0
+    },
+    {
+      "id": "yoshinofuji",
+      "name": "Yoshinofuji",
+      "rankShort": "Maegashira 2",
+      "age": 25,
+      "wins": 11,
+      "losses": 4,
+      "absences": 0,
+      "yusho": 0,
+      "projectedScore": 57.0
     }
   ],
   "IMPORTANCE": 8.5
