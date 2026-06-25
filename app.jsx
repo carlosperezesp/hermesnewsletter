@@ -2748,6 +2748,7 @@ function NewsletterApp() {
           const SUMO = window.SUMO_DATA;
           const sumoLegends = (SUMO.LEGENDS || []).map(p => ({ ...p, colors: { primary: p.primary, secondary: p.secondary } })).slice(0, 10);
           const banzuke     = SUMO.BANZUKE || [];
+          const youngProspects = SUMO.YOUNG_PROSPECTS || [];
           const bashoInfo   = SUMO.BASHO_INFO;
           function bashoLabel(id) {
             if (!id) return "";
@@ -2852,6 +2853,42 @@ function NewsletterApp() {
                             </div>
                           </div>
                           <span style={{ fontFamily: "monospace", fontSize: 13, color: "var(--muted,#888)", whiteSpace: "nowrap", paddingTop: 2 }}>
+                            {recordStr(w)}
+                          </span>
+                        </div>
+                      );
+                    })}
+                  </div>
+                </NewsletterSection>
+              )}
+
+              {youngProspects.length > 0 && (
+                <NewsletterSection
+                  kicker="Road to Glory · Jóvenes promesa"
+                  title="Jóvenes promesa (≤25 años)"
+                  sub="Proyección por el rango alcanzado a su edad + bonus de juventud. Llegar arriba muy joven es la mejor señal de un futuro Yokozuna."
+                >
+                  <div className="newsletter-list">
+                    {youngProspects.map((w, i) => {
+                      const sc = w.projectedScore || 0;
+                      return (
+                        <div key={w.id} style={{ display: "flex", alignItems: "flex-start", gap: 10, padding: "10px 0", borderBottom: "1px solid var(--rule,#eee)" }}>
+                          <span style={{ width: 20, fontSize: 15, color: "var(--muted,#888)", fontVariantNumeric: "tabular-nums", flexShrink: 0, paddingTop: 2 }}>{i + 1}</span>
+                          <div style={{ flex: 1, minWidth: 0 }}>
+                            <div style={{ fontWeight: 600, fontSize: 14, display: "flex", alignItems: "center", gap: 6 }}>
+                              {w.name}
+                              {w.age != null && <span style={{ fontSize: 11, color: "var(--muted,#888)", fontWeight: 400 }}>{w.age} años</span>}
+                              {w.yusho > 0 && <span style={{ fontSize: 11, color: "var(--muted,#888)", fontWeight: 400 }}>· {w.yusho} yusho</span>}
+                            </div>
+                            <div style={{ fontSize: 11, color: "var(--muted,#888)", fontFamily: "monospace", marginTop: 1 }}>{w.rankShort}</div>
+                            <div style={{ display: "flex", alignItems: "center", gap: 6, marginTop: 4 }}>
+                              <div style={{ width: 70, height: 4, background: "var(--bar-bg,#dedad6)", borderRadius: 2, overflow: "hidden" }}>
+                                <div style={{ width: `${sc}%`, height: "100%", background: "var(--bar-fill,#4a4745)", borderRadius: 2 }} />
+                              </div>
+                              <span style={{ fontSize: 10, color: "var(--muted,#888)", fontFamily: "monospace" }}>{sc.toFixed(0)}/100 proy.</span>
+                            </div>
+                          </div>
+                          <span style={{ fontFamily: "monospace", fontSize: 13, fontWeight: 600, color: "var(--ink,#1a1714)", whiteSpace: "nowrap", paddingTop: 2 }}>
                             {recordStr(w)}
                           </span>
                         </div>

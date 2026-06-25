@@ -215,6 +215,40 @@ def _legend_score(y: int, yb: int, max_raw: float) -> float:
     raw = y * 5.0 + yb * 0.5
     return round(raw / max_raw * 100, 1)
 
+# ── Jóvenes promesa (pilar 5) ─────────────────────────────────────────────────
+# Sumo no trae un score de "devenir" como el resto, pero el banzuke ya da edad,
+# rango y resultados. La promesa = haber llegado MUY alto siendo MUY joven, así
+# que proyectamos con una base por tier de rango + un bonus de juventud. Es
+# determinista y explicable (sin IA).
+PROSPECT_MAX_AGE = 25
+_TIER_SCORE = {"Yokozuna": 100.0, "Ozeki": 88.0, "Sekiwake": 76.0, "Komusubi": 68.0}
+
+def _prospect_score(rank_short: str, age: "int | None") -> float:
+    base = _TIER_SCORE.get(rank_short)
+    if base is None:  # Maegashira N: 1 cerca de la cúspide, baja con N
+        try:
+            n = int(rank_short.split()[-1])
+        except (ValueError, IndexError):
+            n = 10
+        base = max(30.0, 60.0 - (n - 1) * 3.0)
+    youth = max(0, PROSPECT_MAX_AGE - age) * 1.5 if age else 0.0
+    return round(min(100.0, base + youth), 1)
+
+def build_young_prospects(banzuke: list[dict]) -> list[dict]:
+    out = [{
+        "id":             w["name"].lower().replace(" ", "_"),
+        "name":           w["name"],
+        "rankShort":      w.get("rankShort", ""),
+        "age":            w.get("age"),
+        "wins":           w.get("wins", 0),
+        "losses":         w.get("losses", 0),
+        "absences":       w.get("absences", 0),
+        "yusho":          w.get("yusho", 0),
+        "projectedScore": _prospect_score(w.get("rankShort", ""), w.get("age")),
+    } for w in banzuke if w.get("age") and w["age"] <= PROSPECT_MAX_AGE]
+    out.sort(key=lambda p: -p["projectedScore"])
+    return out[:6]
+
 def _sumo_importance(banzuke: list) -> float:
     active = [w for w in banzuke if w.get("wins", 0) or w.get("losses", 0) or w.get("absences", 0)]
     if not active:
@@ -299,14 +333,16 @@ def write_data() -> None:
             w["age"] = age
 
     importance = _sumo_importance(banzuke)
+    young_prospects = build_young_prospects(banzuke)
 
     payload = {
-        "UPDATED":    updated,
-        "LEGENDS":    legends,
-        "BASHO_ID":   basho_id,
-        "BASHO_INFO": basho_info,
-        "BANZUKE":    banzuke,
-        "IMPORTANCE": importance,
+        "UPDATED":        updated,
+        "LEGENDS":        legends,
+        "BASHO_ID":       basho_id,
+        "BASHO_INFO":     basho_info,
+        "BANZUKE":        banzuke,
+        "YOUNG_PROSPECTS": young_prospects,
+        "IMPORTANCE":     importance,
     }
 
     out = ROOT / "sumo_data.js"
