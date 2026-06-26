@@ -10,10 +10,15 @@ const SLUG_TO_ID = Object.fromEntries(Object.entries(SECTION_SLUG).map(([id, s])
 const VALID_SECTIONS = new Set(["all", "nhl", "nba", "mlb", "nfl", "tennis", "cycling", "sumo", "f1",
   "indycar", "nascar", "afl", "golf", "motogp", "rugby", "football", "cricket", "athletics"]);
 const idToSlug = id => SECTION_SLUG[id] || id;
-const sectionFromHash = () => {
-  const slug = (typeof window !== "undefined" ? window.location.hash : "").replace(/^#/, "");
-  const id = SLUG_TO_ID[slug] || slug;
-  return VALID_SECTIONS.has(id) ? id : "all";
+// Hash = #seccion  ó  #seccion/tabla (deep-link a una clasificación concreta).
+// Devuelve la sección y, si la hay, el id del ancla de tabla ("{sport}-{tabla}").
+const parseHash = () => {
+  const raw = (typeof window !== "undefined" ? window.location.hash : "").replace(/^#/, "");
+  if (!raw) return { section: "all", anchor: null };
+  const [slug, table] = raw.split("/");
+  const section = SLUG_TO_ID[slug] || slug;
+  if (!VALID_SECTIONS.has(section)) return { section: "all", anchor: null };
+  return { section, anchor: table ? `${section}-${table}` : null };
 };
 
 function getAlivePlayoffTeams(bracket) {
@@ -135,9 +140,9 @@ function NewsletterRankRow({ rank, item, alive, aliveKey = "teamCode", forceOut 
   );
 }
 
-function NewsletterSection({ kicker, title, sub, children }) {
+function NewsletterSection({ kicker, title, sub, children, anchor }) {
   return (
-    <section className="newsletter-section">
+    <section className="newsletter-section" id={anchor}>
       <div className="newsletter-section__head">
         <WFLabel>{kicker}</WFLabel>
         <h2>{title}</h2>
@@ -563,19 +568,39 @@ function NewsletterApp() {
     return `NBA · ${player.pos} · ${teamName}${age}`;
   }
 
-  const [activeSection, setActiveSection] = useState(sectionFromHash);
-  // La URL refleja la sección activa y viceversa (atrás/adelante y enlaces directos).
+  const [activeSection, setActiveSection] = useState(() => parseHash().section);
+  const scrollToAnchor = (anchor) => {
+    if (!anchor) return;
+    setTimeout(() => {
+      const el = document.getElementById(anchor);
+      if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 80);
+  };
+  // Atrás/adelante o edición manual de la URL: refleja sección + scroll a la tabla.
   useEffect(() => {
-    const onHash = () => setActiveSection(sectionFromHash());
+    const onHash = () => { const { section, anchor } = parseHash(); setActiveSection(section); scrollToAnchor(anchor); };
     window.addEventListener("hashchange", onHash);
     return () => window.removeEventListener("hashchange", onHash);
   }, []);
+  // Refleja la SECCIÓN en la URL, sin pisar el sub-ancla de tabla si ya coincide.
   useEffect(() => {
-    const want = activeSection === "all" ? "" : `#${idToSlug(activeSection)}`;
-    if ((window.location.hash || "") !== want) {
+    const cur = (window.location.hash || "").replace(/^#/, "");
+    const curSlug = cur.split("/")[0];
+    const curSection = VALID_SECTIONS.has(SLUG_TO_ID[curSlug] || curSlug) ? (SLUG_TO_ID[curSlug] || curSlug) : "all";
+    if (curSection !== activeSection) {
+      const want = activeSection === "all" ? "" : `#${idToSlug(activeSection)}`;
       window.history.replaceState(null, "", want || window.location.pathname + window.location.search);
     }
   }, [activeSection]);
+  // Scroll inicial si se entra con deep-link a una tabla (#mlb/road-to-glory).
+  useEffect(() => { scrollToAnchor(parseHash().anchor); }, []);
+  // Ir a una clasificación concreta: activa su sección, URL #seccion/tabla y scroll.
+  const goToTable = (sport, anchor) => {
+    setActiveSection(sport);
+    const table = anchor && anchor.startsWith(sport + "-") ? anchor.slice(sport.length + 1) : "";
+    window.history.replaceState(null, "", table ? `#${idToSlug(sport)}/${table}` : `#${idToSlug(sport)}`);
+    scrollToAnchor(anchor);
+  };
   const [searchQuery, setSearchQuery] = useState("");
   function sectionUpdateDate(data) {
     const raw = data?.UPDATED || data?.LAST_UPDATE;
@@ -911,26 +936,19 @@ function NewsletterApp() {
     // —algo que el navegador, con solo los datos de hoy, no puede hacer en vivo.
     const GLORY = typeof window !== "undefined" ? window.GLORY_DATA : null;
     if (GLORY && Array.isArray(GLORY.EVENTS)) {
+      // Solo CAMBIOS DE CLASIFICACIÓN: nuevo nº1 / entra / sale del top-10 (incluye
+      // el top-10 ATP/WTA de tenis). Las victorias sueltas quedan fuera del feed.
+      const isChange = id => typeof id === "string" &&
+        (id.startsWith("rank:") || id.startsWith("tennis:in:") || id.startsWith("tennis:out:"));
       return GLORY.EVENTS
-        .map(e => ({ id: e.sport, text: e.text, detail: e.detail, sport: e.detail, w: e.weight || 0 }))
-        .sort((a, b) => b.w - a.w)
+        .filter(e => isChange(e.id))
+        .map(e => ({ id: e.sport, anchor: e.anchor, text: e.text, detail: e.detail, sport: e.detail, date: e.firstSeen, w: e.weight || 0 }))
+        .sort((a, b) => (b.date || "").localeCompare(a.date || "") || b.w - a.w)
         .slice(0, 14);
     }
-    // Respaldo en vivo (si aún no se ha cargado glory_data.js): hechos puntuales
-    // del día y, si no hay, el titular de estado del deporte en temporada.
-    const out = [];
-    newsletterSections.forEach(s => {
-      if (s.id === "all" || !s.data) return;
-      const imp = (s.data.IMPORTANCE || 0) / 100;
-      const events = s.dataFresh ? sectionGloryEvents(s.id, s.data) : [];
-      if (events.length) {
-        events.forEach(e => out.push({ id: s.id, text: e.text, detail: e.detail, sport: s.label, icon: s.icon, w: e.w + imp }));
-      } else if (s.isFresh) {
-        const h = sectionHeadline(s.id, s.data);
-        if (h) out.push({ id: s.id, text: h, detail: s.label, sport: s.label, icon: s.icon, w: 30 + imp });
-      }
-    });
-    return out.sort((a, b) => b.w - a.w).slice(0, 14);
+    // Sin glory_data.js no hay cambios de clasificación: no pueden derivarse en
+    // vivo (haría falta la foto anterior). El feed queda vacío hasta que cargue.
+    return [];
   })();
   // Informes de cierre: preferimos el Glory log persistido (backend) — sobrevive
   // aunque los datos del deporte cambien y es la misma fuente que usará el email.
@@ -1094,11 +1112,12 @@ function NewsletterApp() {
                     <button
                       key={i}
                       type="button"
-                      onClick={() => setActiveSection(item.id)}
+                      onClick={() => goToTable(item.id, item.anchor)}
                       style={{ display: "flex", alignItems: "baseline", gap: 10, padding: "7px 0", background: "none", border: "none", borderBottom: "1px solid var(--rule,#eee)", textAlign: "left", cursor: "pointer", width: "100%" }}
-                      title={`Ver ${item.sport}`}
+                      title={`Ir a la clasificación · ${item.detail || item.sport}`}
                     >
-                      <span style={{ flexShrink: 0, width: 58, fontSize: 10, fontFamily: "monospace", textTransform: "uppercase", letterSpacing: "0.06em", color: "var(--muted,#999)", paddingTop: 2 }}>{item.detail || item.sport}</span>
+                      <span style={{ flexShrink: 0, width: 46, fontSize: 11, fontFamily: "monospace", fontWeight: 600, color: "var(--ink-2,#555)", paddingTop: 2 }}>{fmtShortDate(parseLooseDate(item.date))}</span>
+                      <span style={{ flexShrink: 0, width: 52, fontSize: 10, fontFamily: "monospace", textTransform: "uppercase", letterSpacing: "0.06em", color: "var(--muted,#999)", paddingTop: 2 }}>{item.detail || item.sport}</span>
                       <span style={{ fontSize: 14, lineHeight: 1.35, color: "var(--ink,#1a1714)" }}>{item.text}</span>
                     </button>
                   ))}
@@ -1218,6 +1237,7 @@ function NewsletterApp() {
         </NewsletterSection>
 
         <NewsletterSection
+          anchor="nhl-road-to-glory"
           kicker="Road to glory"
           title="Top 10 jugadores Road To Glory"
           sub={`Umbral top 10 historico: ${ROAD_TO_GLORY?.playerThreshold ?? "N/A"}.`}
@@ -1379,6 +1399,7 @@ function NewsletterApp() {
             </NewsletterSection>
 
             <NewsletterSection
+              anchor="nba-road-to-glory"
               kicker="Road to glory"
               title="Top 10 jugadores NBA Road To Glory"
               sub={`Umbral top 10 histórico: ${NBA.ROAD_TO_GLORY?.playerThreshold ?? "N/A"} (Tim Duncan).`}
@@ -1611,6 +1632,7 @@ function NewsletterApp() {
             </NewsletterSection>
 
             <NewsletterSection
+              anchor="mlb-road-to-glory"
               kicker="Road to glory"
               title="Top 10 jugadores MLB Road To Glory"
               sub={`Legend score proyectado en la misma escala que las leyendas históricas. Umbral top 10: ${MLB.ROAD_TO_GLORY?.playerThreshold ?? "N/A"} (Rogers Hornsby).`}
@@ -2246,6 +2268,7 @@ function NewsletterApp() {
               ))}
 
               <NewsletterSection
+                anchor="tennis-atp"
                 kicker="ATP Singles"
                 title="Top 10 ATP Singles — Score activo"
                 sub={`${atpTournament.name || "Torneo actual"}: vivos en claro; eliminados, lesionados o no inscritos sombreados. Si el cuadro entra en cuartos, se añaden supervivientes fuera del top 10.`}
@@ -2303,6 +2326,7 @@ function NewsletterApp() {
               </NewsletterSection>
 
               <NewsletterSection
+                anchor="tennis-wta"
                 kicker="WTA Singles"
                 title="Top 10 WTA Singles — Score activo"
                 sub={`${wtaTournament.name || "Torneo actual"}: vivas en claro; eliminadas, lesionadas o no inscritas sombreadas. Si el cuadro entra en cuartos, se añaden supervivientes fuera del top 10.`}
@@ -2816,6 +2840,7 @@ function NewsletterApp() {
 
               {banzuke.length > 0 && (
                 <NewsletterSection
+                  anchor="sumo-banzuke"
                   kicker={`Clasificación — ${bashoLabel(SUMO.BASHO_ID)}`}
                   title="Top 5 + Yokozunas"
                   sub="Ordenado por victorias. Score de leyendas (Hakuho=100) al lado de cada luchador."
@@ -4835,9 +4860,10 @@ function NewsletterApp() {
                 </div>
               )}
 
-              {(ATH.GROUPS || []).map(group => (
+              {(ATH.GROUPS || []).map((group, gi) => (
                 <NewsletterSection
                   key={group.id}
+                  anchor={gi === 0 ? "athletics-records" : undefined}
                   kicker="Récords"
                   title={group.label}
                   sub={`${group.sub} · Top 10 histórico + temporada ${ATH.SEASON}`}

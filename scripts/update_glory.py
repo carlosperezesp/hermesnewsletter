@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import json
 import re
+import unicodedata
 from datetime import date, datetime, timezone
 from pathlib import Path
 
@@ -157,6 +158,14 @@ def _top_names(arr, name_key: str, top_n: int = TOP_N, sub_key: str | None = Non
     return out
 
 
+def _slug(s: str) -> str:
+    """Slug ASCII estable para anclas de URL (debe coincidir con el id de la
+    sección en el frontend). 'Road to Glory' -> 'road-to-glory'."""
+    s = unicodedata.normalize("NFD", str(s)).encode("ascii", "ignore").decode()
+    s = re.sub(r"[^a-zA-Z0-9]+", "-", s).strip("-").lower()
+    return s
+
+
 def _rank_events_for(sid: str, label: str, d: dict, prev_snaps: dict, new_snaps: dict) -> list[dict]:
     """Compara cada tabla del deporte con su foto previa y emite los cambios."""
     ev: list[dict] = []
@@ -169,6 +178,7 @@ def _rank_events_for(sid: str, label: str, d: dict, prev_snaps: dict, new_snaps:
         # La sub-clave entra en el id de la foto: si cambia el formato de identidad
         # la tabla re-arranca (bootstrap) en vez de inventar entradas/salidas.
         key = f"{sid}:{path}" + (f":{sub_key}" if sub_key else "")
+        anchor = f"{sid}-{_slug(tlabel)}"   # ancla de la tabla en la web (deep-link)
         prev = prev_snaps.get(key)
         new_snaps[key] = cur            # la foto de hoy queda para la próxima vuelta
         if prev is None:
@@ -176,17 +186,17 @@ def _rank_events_for(sid: str, label: str, d: dict, prev_snaps: dict, new_snaps:
         historic = "LEGENDS" in path or "leyenda" in tlabel
         leader_new = cur[0] if cur and prev and cur[0] != prev[0] else None
         if leader_new:
-            ev.append({"id": f"rank:{key}:new1:{leader_new}", "sport": sid, "detail": label,
+            ev.append({"id": f"rank:{key}:new1:{leader_new}", "sport": sid, "detail": label, "anchor": anchor,
                        "text": f"{leader_new} es nuevo nº1 · {tlabel}", "weight": 96 if historic else 92})
         if mode == "full":
             prev_set, cur_set = set(prev), set(cur)
             for nm in cur:
                 if nm not in prev_set and nm != leader_new:
-                    ev.append({"id": f"rank:{key}:in:{nm}", "sport": sid, "detail": label,
+                    ev.append({"id": f"rank:{key}:in:{nm}", "sport": sid, "detail": label, "anchor": anchor,
                                "text": f"{nm} entra en el top-10 · {tlabel}", "weight": 88 if historic else 84})
             for nm in prev:
                 if nm not in cur_set:
-                    ev.append({"id": f"rank:{key}:out:{nm}", "sport": sid, "detail": label,
+                    ev.append({"id": f"rank:{key}:out:{nm}", "sport": sid, "detail": label, "anchor": anchor,
                                "text": f"{nm} cae del top-10 · {tlabel}", "weight": 74})
     return ev
 
@@ -209,6 +219,7 @@ def _athletics_rank_events(d: dict, prev_snaps: dict, new_snaps: dict) -> list[d
             for nm in ath:
                 if nm not in prev_set:
                     ev.append({"id": f"rank:{key}:in:{nm}", "sport": "athletics", "detail": "Atletismo",
+                               "anchor": "athletics-records",
                                "text": f"{nm} entra en el top-10 histórico · {e.get('name')}", "weight": 90})
     return ev
 
@@ -218,8 +229,11 @@ def _athletics_rank_events(d: dict, prev_snaps: dict, new_snaps: dict) -> list[d
 def _events_for(sid: str, label: str, d: dict) -> list[dict]:
     ev: list[dict] = []
 
-    def add(eid, text, weight, detail=label):
-        ev.append({"id": eid, "sport": sid, "detail": detail, "text": text, "weight": weight})
+    def add(eid, text, weight, detail=label, anchor=None):
+        e = {"id": eid, "sport": sid, "detail": detail, "text": text, "weight": weight}
+        if anchor:
+            e["anchor"] = anchor
+        ev.append(e)
 
     if sid == "motogp":
         lr = d.get("LAST_RACE") or {}
@@ -256,10 +270,11 @@ def _events_for(sid: str, label: str, d: dict) -> list[dict]:
         for tour, key in (("ATP", "ATP_CHANGES"), ("WTA", "WTA_CHANGES")):
             ch = d.get(key) or {}
             cd = ch.get("curr_date", "")
+            anchor = f"tennis-{tour.lower()}"
             for p in ch.get("entered", []):
-                add(f"tennis:in:{tour}:{p['name']}:{cd}", f"{p['name']} entra en el top 10 {tour}{tail(p['name'])}", 90, "Tenis")
+                add(f"tennis:in:{tour}:{p['name']}:{cd}", f"{p['name']} entra en el top 10 {tour}{tail(p['name'])}", 90, "Tenis", anchor)
             for p in ch.get("exited", []):
-                add(f"tennis:out:{tour}:{p['name']}:{cd}", f"{p['name']} sale del top 10 {tour}", 78, "Tenis")
+                add(f"tennis:out:{tour}:{p['name']}:{cd}", f"{p['name']} sale del top 10 {tour}", 78, "Tenis", anchor)
     return ev
 
 
@@ -345,6 +360,53 @@ def _within(iso: str, days: int) -> bool:
     return (date.today() - dd).days <= days
 
 
+_RANK_PHRASES = (("new1", " es nuevo nº1"), ("in", " entra en el top-10"), ("out", " cae del top-10"))
+
+
+def _parse_rank(e: dict) -> tuple[str, str, str]:
+    """(anchor, nombre, kind) de un evento de cambio, leyendo el texto."""
+    txt = str(e.get("text", ""))
+    for kind, phrase in _RANK_PHRASES:
+        if phrase in txt:
+            return e.get("anchor", ""), txt.split(phrase)[0].strip(), kind
+    return e.get("anchor", ""), txt, "?"
+
+
+def _dedup_rank_events(events: list[dict]) -> list[dict]:
+    """Limpia el churn del recálculo: si un mismo nombre entra y vuelve a salir de
+    una tabla dentro de la ventana, no es una novedad real (neto cero) y se omite;
+    si sigue dentro, se queda el evento vigente (nuevo nº1 antes que simple entrada)."""
+    rank = [e for e in events if str(e.get("id", "")).startswith("rank:")]
+    other = [e for e in events if not str(e.get("id", "")).startswith("rank:")]
+    groups: dict[tuple, list] = {}
+    for e in rank:
+        anchor, name, kind = _parse_rank(e)
+        groups.setdefault((anchor, name), []).append((kind, e))
+    fs = lambda e: e.get("firstSeen", "")
+    best_in = lambda lst: max(lst, key=lambda e: (fs(e), 1 if "nuevo nº1" in e.get("text", "") else 0))
+    out = list(other)
+    for items in groups.values():
+        ins = [e for k, e in items if k in ("in", "new1")]
+        outs = [e for k, e in items if k == "out"]
+        if ins and outs:
+            if fs(best_in(ins)) > fs(max(outs, key=fs)):
+                out.append(best_in(ins))      # sigue dentro: novedad vigente
+            # si no, entró y salió (o mismo día) → churn, se omite
+        elif ins:
+            out.append(best_in(ins))
+        elif outs:
+            out.append(max(outs, key=fs))
+    # Entre 'nuevo nº1' de una misma tabla, solo el más reciente (el líder vigente).
+    latest_new1: dict = {}
+    for e in out:
+        if "nuevo nº1" in e.get("text", ""):
+            a = e.get("anchor")
+            if a not in latest_new1 or fs(e) > fs(latest_new1[a]):
+                latest_new1[a] = e
+    return [e for e in out
+            if "nuevo nº1" not in e.get("text", "") or latest_new1.get(e.get("anchor")) is e]
+
+
 def build() -> None:
     prev = _load_js(ROOT / "glory_data.js") or {}
     prev_events = prev.get("EVENTS", []) if isinstance(prev, dict) else []
@@ -369,6 +431,21 @@ def build() -> None:
             reports.append(r)
 
     events = _merge(events, prev_events, EVENT_RETENTION_DAYS)
+    # Backfill del anchor para eventos rank persistidos antes de existir el campo
+    # (la etiqueta de la tabla va tras el último " · " del texto).
+    for e in events:
+        eid = str(e.get("id", ""))
+        if e.get("anchor"):
+            continue
+        if eid.startswith("rank:"):
+            sid = e.get("sport", "")
+            e["anchor"] = "athletics-records" if sid == "athletics" \
+                else f"{sid}-{_slug(str(e.get('text', '')).split(' · ')[-1])}"
+        elif eid.startswith("tennis:in:") or eid.startswith("tennis:out:"):
+            parts = eid.split(":")            # tennis:in:WTA:Nombre:fecha
+            if len(parts) >= 3:
+                e["anchor"] = f"tennis-{parts[2].lower()}"
+    events = _dedup_rank_events(events)
     reports = _merge(reports, prev_reports, REPORT_RETENTION_DAYS)
     events.sort(key=lambda e: (e.get("weight", 0), e.get("firstSeen", "")), reverse=True)
     reports.sort(key=lambda r: r.get("firstSeen", ""), reverse=True)

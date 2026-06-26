@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-25 22:54 UTC",
+  "UPDATED": "2026-06-26 00:05 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Czech Republic motorcycle Grand Prix:Ai Ogura",
@@ -80,15 +80,8 @@ window.GLORY_DATA = {
       "detail": "MLB",
       "text": "Shohei Ohtani es nuevo nº1 · Road to Glory",
       "weight": 92,
-      "firstSeen": "2026-06-25"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Mike Trout",
-      "sport": "mlb",
-      "detail": "MLB",
-      "text": "Mike Trout es nuevo nº1 · Road to Glory",
-      "weight": 92,
-      "firstSeen": "2026-06-24"
+      "firstSeen": "2026-06-25",
+      "anchor": "mlb-road-to-glory"
     },
     {
       "id": "tennis:in:WTA:Linda Noskova:20260618",
@@ -96,6 +89,7 @@ window.GLORY_DATA = {
       "detail": "Tenis",
       "text": "Linda Noskova entra en el top 10 WTA",
       "weight": 90,
+      "anchor": "tennis-wta",
       "firstSeen": "2026-06-22"
     },
     {
@@ -104,7 +98,8 @@ window.GLORY_DATA = {
       "detail": "Tenis",
       "text": "Flavio Cobolli entra en el top 10 ATP",
       "weight": 90,
-      "firstSeen": "2026-06-14"
+      "firstSeen": "2026-06-14",
+      "anchor": "tennis-atp"
     },
     {
       "id": "cycling:stage:Giro d'Italia:21:Jonathan Milan",
@@ -115,43 +110,12 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-14"
     },
     {
-      "id": "rank:rugby:ROAD_TO_GLORY.dynasties:in:Scotland",
-      "sport": "rugby",
-      "detail": "Rugby",
-      "text": "Scotland entra en el top-10 · dinastías",
-      "weight": 84,
-      "firstSeen": "2026-06-25"
-    },
-    {
-      "id": "rank:rugby:ROAD_TO_GLORY.dynasties:in:Ireland",
-      "sport": "rugby",
-      "detail": "Rugby",
-      "text": "Ireland entra en el top-10 · dinastías",
-      "weight": 84,
-      "firstSeen": "2026-06-25"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Matt Olson",
-      "sport": "mlb",
-      "detail": "MLB",
-      "text": "Matt Olson entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-06-25"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Cristopher Sanchez",
-      "sport": "mlb",
-      "detail": "MLB",
-      "text": "Cristopher Sanchez entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-06-24"
-    },
-    {
       "id": "tennis:out:WTA:Karolina Muchova:20260618",
       "sport": "tennis",
       "detail": "Tenis",
       "text": "Karolina Muchova sale del top 10 WTA",
       "weight": 78,
+      "anchor": "tennis-wta",
       "firstSeen": "2026-06-22"
     },
     {
@@ -160,47 +124,8 @@ window.GLORY_DATA = {
       "detail": "Tenis",
       "text": "Alexander Bublik sale del top 10 ATP",
       "weight": 78,
-      "firstSeen": "2026-06-14"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:out:Matt Olson",
-      "sport": "mlb",
-      "detail": "MLB",
-      "text": "Matt Olson cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-06-25"
-    },
-    {
-      "id": "rank:rugby:ROAD_TO_GLORY.dynasties:out:Ireland",
-      "sport": "rugby",
-      "detail": "Rugby",
-      "text": "Ireland cae del top-10 · dinastías",
-      "weight": 74,
-      "firstSeen": "2026-06-25"
-    },
-    {
-      "id": "rank:rugby:ROAD_TO_GLORY.dynasties:out:Scotland",
-      "sport": "rugby",
-      "detail": "Rugby",
-      "text": "Scotland cae del top-10 · dinastías",
-      "weight": 74,
-      "firstSeen": "2026-06-25"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:out:Cristopher Sanchez",
-      "sport": "mlb",
-      "detail": "MLB",
-      "text": "Cristopher Sanchez cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-06-25"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:out:Shohei Ohtani",
-      "sport": "mlb",
-      "detail": "MLB",
-      "text": "Shohei Ohtani cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-06-24"
+      "firstSeen": "2026-06-14",
+      "anchor": "tennis-atp"
     }
   ],
   "REPORTS": [
