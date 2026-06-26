@@ -1261,6 +1261,7 @@ function NewsletterApp() {
         </NewsletterSection>
 
         <NewsletterSection
+          anchor="nhl-jovenes-promesa"
           kicker="Young road to glory"
           title="Top 10 jugadores jovenes Road To Glory"
           sub="Proyeccion de carrera para jugadores de 25 años o menos."
@@ -1284,6 +1285,7 @@ function NewsletterApp() {
         </NewsletterSection>
 
         <NewsletterSection
+          anchor="nhl-dinastias"
           kicker="Team road to glory"
           title="Top 10 equipos Road To Glory"
           sub={`Umbral top 10 historico de franquicias: ${ROAD_TO_GLORY?.teamThreshold ?? "N/A"}.`}
@@ -1424,6 +1426,7 @@ function NewsletterApp() {
             </NewsletterSection>
 
             <NewsletterSection
+              anchor="nba-jovenes-promesa"
               kicker="Young road to glory"
               title="Top 10 jóvenes NBA Road To Glory"
               sub="Proyección de carrera para jugadores de 25 años o menos."
@@ -1448,6 +1451,7 @@ function NewsletterApp() {
             </NewsletterSection>
 
             <NewsletterSection
+              anchor="nba-dinastias"
               kicker="Team road to glory"
               title="Top 10 franquicias NBA Road To Glory"
               sub={`Umbral top 10 histórico de franquicias: ${NBA.ROAD_TO_GLORY?.teamThreshold ?? "N/A"}.`}
@@ -1681,6 +1685,7 @@ function NewsletterApp() {
             </NewsletterSection>
 
             <NewsletterSection
+              anchor="mlb-jovenes-promesa"
               kicker="Young road to glory"
               title="Top 10 jóvenes MLB Road To Glory"
               sub="Proyección de carrera para jugadores de 25 años o menos."
@@ -1705,6 +1710,7 @@ function NewsletterApp() {
             </NewsletterSection>
 
             <NewsletterSection
+              anchor="mlb-dinastias"
               kicker="Team road to glory"
               title="Top 10 franquicias MLB Road To Glory"
               sub={`Umbral top 10 histórico de franquicias: ${MLB.ROAD_TO_GLORY?.teamThreshold ?? "N/A"}.`}
@@ -1817,6 +1823,7 @@ function NewsletterApp() {
 
             {nflRoadPlayers.length > 0 && (
               <NewsletterSection
+                anchor="nfl-road-to-glory"
                 kicker="Road to glory"
                 title="QBs camino del panteón"
                 sub={`Score de carrera proyectado. Umbral top 10 histórico: ${nflPlayerThreshold} (Dan Marino).`}
@@ -1842,6 +1849,7 @@ function NewsletterApp() {
 
             {nflYoungPlayers.length > 0 && (
               <NewsletterSection
+                anchor="nfl-jovenes-promesa"
                 kicker="Young road to glory"
                 title="Jóvenes promesa NFL"
                 sub="Proyección de carrera para QBs de 25 años o menos — quién ha empezado fuerte."
@@ -2299,6 +2307,7 @@ function NewsletterApp() {
               </NewsletterSection>
 
               <NewsletterSection
+                anchor="tennis-leyendas-atp"
                 kicker="ATP Legends"
                 title="Top 10 leyendas ATP"
                 sub={`Umbral top 10 histórico: ${atpLegendThreshold.toFixed(1)} (${atpLegendTop[9]?.name || "N/A"}). Score histórico: GS (×12) + Year-end #1 (×3) + semanas en #1 (÷10).`}
@@ -2357,6 +2366,7 @@ function NewsletterApp() {
               </NewsletterSection>
 
               <NewsletterSection
+                anchor="tennis-leyendas-wta"
                 kicker="WTA Legends"
                 title="Top 10 leyendas WTA"
                 sub={`Umbral top 10 histórico: ${wtaLegendThreshold.toFixed(1)} (${wtaLegendTop[9]?.name || "N/A"}). Score histórico: GS (×12) + Year-end #1 (×3) + semanas en #1 (÷10).`}
@@ -2714,6 +2724,7 @@ function NewsletterApp() {
 
               {cycCurrentRiders.length > 0 && (
                 <NewsletterSection
+                  anchor="cycling-corredores-actuales"
                   kicker="Road to Glory · Actuales"
                   title="Top 10 ciclistas actuales — Score leyenda"
                   sub={`Ordenado por legado acumulado. Umbral top 10 histórico: ${cycLegendThreshold.toFixed(1)} (${cycLegendTop[9]?.name || "N/A"}). Score: Tour×12, Giro×9, Vuelta×8, Monumentos×4, Mundiales×4.`}
@@ -2740,6 +2751,7 @@ function NewsletterApp() {
 
               {cycProspects.length > 0 && (
                 <NewsletterSection
+                  anchor="cycling-promesas"
                   kicker="Cantera"
                   title="Jóvenes promesa del ciclismo"
                   sub="Sub-29 con mejor palmarés ya acumulado — quién ha empezado fuerte camino del panteón."
@@ -2764,6 +2776,7 @@ function NewsletterApp() {
               )}
 
               <NewsletterSection
+                anchor="cycling-leyendas"
                 kicker="Road Cycling Legends"
                 title="Top 10 leyendas del ciclismo"
                 sub="Score histórico — Tour de France, Giro d'Italia, Vuelta, Monumentos y Mundiales ponderados."
@@ -2978,6 +2991,7 @@ function NewsletterApp() {
 
               {/* Driver standings */}
               <NewsletterSection
+                anchor="f1-mundial"
                 kicker="Driver Championship"
                 title="Campeonato de Pilotos"
                 sub={`Barra sobre ${f1MaxSeason} pts máximos. Últ. finde = puntos ganados en ${lastWeekend?.label || lastRace?.name || "el último GP"}${F1.LAST_SPRINT ? " incluyendo sprint." : "."}`}
@@ -3166,6 +3180,7 @@ function NewsletterApp() {
 
               {/* F1 Legends */}
               <NewsletterSection
+                anchor="f1-leyendas"
                 kicker="F1 Legends"
                 title="Road to Glory · Leyendas de la F1"
                 sub="Score histórico: títulos (×15), victorias (×0.5), poles (×0.3), podios (×0.15). Hamilton como referencia: 100."
@@ -3227,6 +3242,7 @@ function NewsletterApp() {
               </header>
 
               <NewsletterSection
+                anchor="indycar-campeonato"
                 kicker="Driver Championship"
                 title="Campeonato de Pilotos"
                 sub={`Barra sobre ${maxSeason} pts máximos estimados. Línea roja = mínimo matemático aproximado para cerrar el título.`}
@@ -3358,6 +3374,7 @@ function NewsletterApp() {
               )}
 
               <NewsletterSection
+                anchor="indycar-leyendas"
                 kicker="Road to Glory · IndyCar"
                 title="Top 10 leyendas IndyCar"
                 sub="Score histórico: títulos IndyCar/CART (×12), victorias (×0.45), poles (×0.2). A. J. Foyt como referencia: 100."
@@ -3418,6 +3435,7 @@ function NewsletterApp() {
               </header>
 
               <NewsletterSection
+                anchor="nascar-cup-series"
                 kicker="Playoff Standings"
                 title="Top 16 + burbuja"
                 sub="Orden playoff: victorias primero y después puntos. La línea roja marca el primer piloto fuera del corte."
@@ -3551,6 +3569,7 @@ function NewsletterApp() {
               )}
 
               <NewsletterSection
+                anchor="nascar-leyendas"
                 kicker="Road to Glory · NASCAR"
                 title="Top 10 leyendas NASCAR"
                 sub="Score histórico: Cup Series títulos (×13), victorias (×0.35), poles (×0.15). Richard Petty como referencia: 100."
@@ -3635,6 +3654,7 @@ function NewsletterApp() {
 
               {/* Full ladder */}
               <NewsletterSection
+                anchor="afl-clasificacion"
                 kicker="AFL Ladder"
                 title="Clasificación completa"
                 sub={`Tras la ronda ${AFL.ROUND}. Los 8 primeros disputan las finals.`}
@@ -3967,6 +3987,7 @@ function NewsletterApp() {
               )}
 
               <NewsletterSection
+                anchor="golf-nivel-actual"
                 kicker="Golf · Actuales"
                 title="Top 10 golfistas actuales"
                 sub="Nivel = forma de la temporada (FedEx Cup); Leyenda = majors de carrera. Solo PGA Tour (no LIV)."
@@ -4042,6 +4063,7 @@ function NewsletterApp() {
               )}
 
               <NewsletterSection
+                anchor="golf-leyendas"
                 kicker="Golf Legends"
                 title="Top 10 golfistas leyendas"
                 sub="Score histórico: majors (×12), victorias (×0.45) y dominio mundial/#1 (×0.10)."
@@ -4101,6 +4123,7 @@ function NewsletterApp() {
               </header>
 
               <NewsletterSection
+                anchor="motogp-mundial"
                 kicker="Rider Championship"
                 title="Campeonato de Pilotos"
                 sub={`Barra sobre ${mgMaxSeason} pts máximos. Línea roja = mínimo para ser campeón matemático (2º + puntos restantes + 1).`}
@@ -4199,6 +4222,7 @@ function NewsletterApp() {
               )}
 
               <NewsletterSection
+                anchor="motogp-leyendas"
                 kicker="MotoGP Legends"
                 title="Road to Glory · Leyendas de MotoGP"
                 sub="Score histórico (clase premier): títulos 500cc/MotoGP (×10), victorias (×0.2), poles (×0.1). Agostini como referencia: 100."
@@ -4281,6 +4305,7 @@ function NewsletterApp() {
               </NewsletterSection>
 
               <NewsletterSection
+                anchor="rugby-dinastias"
                 kicker="Road to Glory"
                 title="Dinastías de Elo"
                 sub={`Umbral top 10: ${dynastyThreshold.toFixed(1)}. Score: años como #1 ajustados por densidad de tests + Mundiales ganados en la época.`}
@@ -4516,6 +4541,7 @@ function NewsletterApp() {
               </NewsletterSection>
 
               <NewsletterSection
+                anchor="football-aspirantes"
                 kicker="Road to Glory · Actual"
                 title="Top 10 selecciones con potencial dinástico"
                 sub={`Quién puede meterse en el top 10 de dinastías. Umbral bruto estimado: ${rawDynastyThreshold.toFixed(1)}; score combina Elo actual, años de ciclo, títulos recientes, finales y curva generacional.`}
@@ -4542,6 +4568,7 @@ function NewsletterApp() {
               </NewsletterSection>
 
               <NewsletterSection
+                anchor="football-dinastias"
                 kicker="Road to Glory"
                 title="Top 10 dinastías de selecciones"
                 sub={`Umbral top 10: ${dynastyThreshold.toFixed(1)}. Score: años #1/Elo + Mundiales + títulos continentales + pico Elo.`}
@@ -4769,6 +4796,7 @@ function NewsletterApp() {
               </NewsletterSection>
 
               <NewsletterSection
+                anchor="cricket-road-to-glory"
                 kicker="Road to Glory"
                 title="Top 10 carrera hacia leyenda"
                 sub={`Umbral top 10 histórico estimado: ${legendThreshold.toFixed(1)}. Sirve para ver quién está entrando en territorio de leyenda real.`}
