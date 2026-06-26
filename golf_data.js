@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-26 21:41 UTC
+// Auto-generated 2026-06-26 22:39 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-26 21:41 UTC",
+  "UPDATED": "2026-06-26 22:39 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -142,14 +142,6 @@ window.GOLF_DATA = {
       },
       {
         "rank": 5,
-        "name": "Matt Fitzpatrick",
-        "id": "9037",
-        "country": "England",
-        "score": "-12",
-        "today": ""
-      },
-      {
-        "rank": 6,
         "name": "Bud Cauley",
         "id": "5338",
         "country": "USA",
@@ -157,10 +149,18 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "Ben Griffin",
         "id": "4404992",
         "country": "USA",
+        "score": "-10",
+        "today": ""
+      },
+      {
+        "rank": 7,
+        "name": "Matt Fitzpatrick",
+        "id": "9037",
+        "country": "England",
         "score": "-10",
         "today": ""
       },
@@ -182,8 +182,8 @@ window.GOLF_DATA = {
       },
       {
         "rank": 10,
-        "name": "J.J. Spaun",
-        "id": "10166",
+        "name": "Maverick McNealy",
+        "id": "9530",
         "country": "USA",
         "score": "-9",
         "today": ""
