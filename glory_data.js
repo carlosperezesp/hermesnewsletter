@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-26 09:56 UTC",
+  "UPDATED": "2026-06-26 11:18 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Czech Republic motorcycle Grand Prix:Ai Ogura",
@@ -568,30 +568,6 @@ window.GLORY_DATA = {
       "Western Bulldogs",
       "Gold Coast",
       "North Melbourne"
-    ],
-    "rugby:ROAD_TO_GLORY.dynasties": [
-      "New Zealand",
-      "New Zealand",
-      "New Zealand",
-      "Australia",
-      "New Zealand",
-      "South Africa",
-      "South Africa",
-      "New Zealand",
-      "Wales",
-      "Scotland"
-    ],
-    "football:ROAD_TO_GLORY.dynasties": [
-      "Brazil",
-      "Brazil",
-      "Uruguay",
-      "Argentina",
-      "Argentina",
-      "Spain",
-      "Italy",
-      "Germany",
-      "Germany",
-      "France"
     ],
     "football:ROAD_TO_GLORY.currentContenders": [
       "Argentina",

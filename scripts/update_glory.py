@@ -450,6 +450,10 @@ def build() -> None:
     events.sort(key=lambda e: (e.get("weight", 0), e.get("firstSeen", "")), reverse=True)
     reports.sort(key=lambda r: r.get("firstSeen", ""), reverse=True)
 
+    # Limpia fotos obsoletas: si una tabla migró a identidad por sub-clave (p. ej.
+    # dinastías a "nombre (era)"), la clave pelada queda huérfana — se descarta.
+    new_snaps = {k: v for k, v in new_snaps.items() if f"{k}:era" not in new_snaps}
+
     payload = {
         "UPDATED": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
         "EVENTS": events,
