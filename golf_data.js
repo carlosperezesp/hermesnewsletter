@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-26 09:55 UTC
+// Auto-generated 2026-06-26 15:16 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-26 09:55 UTC",
+  "UPDATED": "2026-06-26 15:16 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -110,6 +110,46 @@ window.GOLF_DATA = {
     "leaderboard": [
       {
         "rank": 1,
+        "name": "Brian Campbell",
+        "id": "9525",
+        "country": "USA",
+        "score": "-8",
+        "today": ""
+      },
+      {
+        "rank": 2,
+        "name": "Viktor Hovland",
+        "id": "4364873",
+        "country": "Norway",
+        "score": "-8",
+        "today": ""
+      },
+      {
+        "rank": 3,
+        "name": "Akshay Bhatia",
+        "id": "4419142",
+        "country": "USA",
+        "score": "-7",
+        "today": ""
+      },
+      {
+        "rank": 4,
+        "name": "J.J. Spaun",
+        "id": "10166",
+        "country": "USA",
+        "score": "-7",
+        "today": ""
+      },
+      {
+        "rank": 5,
+        "name": "Bud Cauley",
+        "id": "5338",
+        "country": "USA",
+        "score": "-7",
+        "today": ""
+      },
+      {
+        "rank": 6,
         "name": "Eric Cole",
         "id": "10522",
         "country": "USA",
@@ -117,47 +157,23 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 2,
-        "name": "Nico Echavarria",
-        "id": "4408316",
-        "country": "Colombia",
-        "score": "-6",
-        "today": ""
-      },
-      {
-        "rank": 3,
-        "name": "Ben Griffin",
-        "id": "4404992",
+        "rank": 7,
+        "name": "Michael Kim",
+        "id": "8974",
         "country": "USA",
         "score": "-6",
         "today": ""
       },
       {
-        "rank": 4,
-        "name": "Matt Fitzpatrick",
-        "id": "9037",
+        "rank": 8,
+        "name": "Justin Rose",
+        "id": "569",
         "country": "England",
         "score": "-6",
         "today": ""
       },
       {
-        "rank": 5,
-        "name": "Kristoffer Reitan",
-        "id": "4348470",
-        "country": "Norway",
-        "score": "-6",
-        "today": ""
-      },
-      {
-        "rank": 6,
-        "name": "Bud Cauley",
-        "id": "5338",
-        "country": "USA",
-        "score": "-6",
-        "today": ""
-      },
-      {
-        "rank": 7,
+        "rank": 9,
         "name": "Scottie Scheffler",
         "id": "9478",
         "country": "USA",
@@ -165,27 +181,11 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 8,
-        "name": "Patrick Cantlay",
-        "id": "6007",
-        "country": "USA",
-        "score": "-5",
-        "today": ""
-      },
-      {
-        "rank": 9,
-        "name": "Brandt Snedeker",
-        "id": "1222",
-        "country": "USA",
-        "score": "-5",
-        "today": ""
-      },
-      {
         "rank": 10,
-        "name": "Aaron Rai",
-        "id": "10906",
-        "country": "England",
-        "score": "-5",
+        "name": "Nico Echavarria",
+        "id": "4408316",
+        "country": "Colombia",
+        "score": "-6",
         "today": ""
       }
     ],

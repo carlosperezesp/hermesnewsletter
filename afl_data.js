@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-26 09:55 UTC
+// Auto-generated 2026-06-26 15:16 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-06-26 09:55 UTC",
+  "UPDATED": "2026-06-26 15:16 UTC",
   "SEASON": "2026",
   "ROUND": 16,
   "IMPORTANCE": 8.0,
@@ -33,11 +33,11 @@ window.AFL_DATA = {
     {
       "rank": 3,
       "name": "Hawthorn",
-      "wins": 9,
+      "wins": 10,
       "losses": 4,
       "draws": 1,
-      "pts": 38,
-      "percentage": 113.5,
+      "pts": 42,
+      "percentage": 113.7,
       "primary": "#4D2004",
       "secondary": "#FFD200",
       "prevRank": 3
@@ -150,10 +150,10 @@ window.AFL_DATA = {
       "rank": 13,
       "name": "Greater Western Sydney",
       "wins": 6,
-      "losses": 8,
+      "losses": 9,
       "draws": 0,
       "pts": 24,
-      "percentage": 100.3,
+      "percentage": 99.3,
       "primary": "#F57F00",
       "secondary": "#002040"
     },
@@ -1064,6 +1064,16 @@ window.AFL_DATA = {
       "winner": "Brisbane Lions",
       "date": "2026-06-25",
       "hprimary": "#7B1A4B",
+      "aprimary": "#F57F00"
+    },
+    {
+      "hteam": "Hawthorn",
+      "hscore": 96,
+      "ateam": "Greater Western Sydney",
+      "ascore": 82,
+      "winner": "Hawthorn",
+      "date": "2026-06-26",
+      "hprimary": "#4D2004",
       "aprimary": "#F57F00"
     }
   ],
