@@ -14934,9 +14934,9 @@ window.NHL_DATA = {
       "name": "Andre Burakovsky",
       "pos": "LW",
       "teamCode": "CHI",
-      "age": 31,
-      "country": "Austria",
-      "birthCountry": "AUT",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#cf0a2c",
         "secondary": "#111111"
@@ -19604,9 +19604,9 @@ window.NHL_DATA = {
       "name": "Olen Zellweger",
       "pos": "D",
       "teamCode": "ANA",
-      "age": 22,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -19629,8 +19629,7 @@ window.NHL_DATA = {
         46,
         48,
         51
-      ],
-      "legendScore": 46.9
+      ]
     },
     {
       "id": 8484197,
@@ -47992,10 +47991,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-26 15:56 UTC",
+  "LAST_UPDATE": "2026-06-26 21:41 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-26T15:56:15Z"
+    "standingsDateTimeUtc": "2026-06-26T21:40:31Z"
   }
 };

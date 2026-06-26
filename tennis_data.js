@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-26 15:58 UTC
+// Auto-generated 2026-06-26 21:42 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-26 15:58 UTC",
+  "UPDATED": "2026-06-26 21:42 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10962,9 +10962,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jack Draper",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 66.4,
           "l_score": null,
           "match_score": 66.4
@@ -11233,7 +11233,7 @@ window.TENNIS_DATA = {
       "Hamish Stewart"
     ],
     "aliveCount": 129,
-    "matchesSeen": 90
+    "matchesSeen": 91
   },
   "WTA_TOURNAMENT": {
     "name": "Lexus Eastbourne Open · Wimbledon",
