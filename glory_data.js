@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-26 08:37 UTC",
+  "UPDATED": "2026-06-26 09:56 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Czech Republic motorcycle Grand Prix:Ai Ogura",
