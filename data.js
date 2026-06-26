@@ -13875,7 +13875,7 @@ window.NHL_DATA = {
       "name": "Braeden Bowman",
       "pos": "RW",
       "teamCode": "VGK",
-      "age": 22,
+      "age": 23,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -13901,7 +13901,7 @@ window.NHL_DATA = {
         49,
         55
       ],
-      "legendScore": 49.1
+      "legendScore": 47.1
     },
     {
       "id": 8475170,
@@ -14110,7 +14110,7 @@ window.NHL_DATA = {
       "name": "Connor Dewar",
       "pos": "C",
       "teamCode": "PIT",
-      "age": 26,
+      "age": 27,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -15064,7 +15064,7 @@ window.NHL_DATA = {
       "name": "Arthur Kaliyev",
       "pos": "RW",
       "teamCode": "OTT",
-      "age": 24,
+      "age": 25,
       "country": "UZB",
       "birthCountry": "UZB",
       "colors": {
@@ -47992,10 +47992,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-25 22:52 UTC",
+  "LAST_UPDATE": "2026-06-26 08:35 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-25T22:52:00Z"
+    "standingsDateTimeUtc": "2026-06-26T08:35:15Z"
   }
 };

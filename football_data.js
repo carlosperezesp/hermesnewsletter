@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-25 22:53 UTC
+// Auto-generated 2026-06-26 08:36 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-25 22:53 UTC",
+  "UPDATED": "2026-06-26 08:36 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-06-25 22:53 UTC"
+    "through": "2026-06-26 08:36 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -125,15 +125,15 @@ window.FOOTBALL_DATA = {
         "secondary": "#21468B"
       },
       "rank": 6,
-      "elo": 1997,
-      "eloScore": 81.7,
+      "elo": 2007,
+      "eloScore": 82.8,
       "sourceRank": 7,
       "worldCups": 0,
       "continentalTitles": 1,
       "note": "Bloque estable con muy buen diferencial ante rivales fuertes.",
       "eloPrev": 1976,
-      "recentDelta": 21.3,
-      "recentMatches": 2
+      "recentDelta": 30.6,
+      "recentMatches": 3
     },
     {
       "id": "portugal",
@@ -220,6 +220,35 @@ window.FOOTBALL_DATA = {
     }
   ],
   "RECENT_MATCHES": [
+    {
+      "id": "760472",
+      "date": "2026-06-25",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "NED"
+      ],
+      "home": {
+        "code": "TUN",
+        "name": "Túnez",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tun.png",
+        "score": 1,
+        "eloBefore": 1624,
+        "eloAfter": 1614,
+        "delta": -9.4,
+        "result": "L"
+      },
+      "away": {
+        "code": "NED",
+        "name": "Países Bajos",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+        "score": 3,
+        "eloBefore": 1997,
+        "eloAfter": 2007,
+        "delta": 9.4,
+        "result": "W"
+      }
+    },
     {
       "id": "760468",
       "date": "2026-06-25",
@@ -1294,18 +1323,18 @@ window.FOOTBALL_DATA = {
           "secondary": "#21468B"
         },
         "rank": 6,
-        "elo": 1997,
-        "eloScore": 81.7,
+        "elo": 2007,
+        "eloScore": 82.8,
         "sourceRank": 7,
         "worldCups": 0,
         "continentalTitles": 1,
-        "note": "A 8.2 puntos brutos del umbral dinástico",
+        "note": "A 7.6 puntos brutos del umbral dinástico",
         "eloPrev": 1976,
-        "recentDelta": 21.3,
-        "recentMatches": 2,
-        "dynastyPotential": 79.3,
-        "rawDynastyPotential": 31.3,
-        "gapToDynastyTop10": 8.2,
+        "recentDelta": 30.6,
+        "recentMatches": 3,
+        "dynastyPotential": 80.7,
+        "rawDynastyPotential": 31.8,
+        "gapToDynastyTop10": 7.6,
         "cycleYears": 1.4,
         "currentWorldCups": 0,
         "currentContinentalTitles": 0,

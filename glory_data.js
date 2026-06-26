@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-26 00:05 UTC",
+  "UPDATED": "2026-06-26 08:37 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Czech Republic motorcycle Grand Prix:Ai Ogura",
@@ -320,14 +320,14 @@ window.GLORY_DATA = {
     "mlb:ROAD_TO_GLORY.youngProspects": [
       "Jacob Misiorowski",
       "Nick Kurtz",
-      "James Wood",
       "Jordan Walker",
+      "James Wood",
       "Pete Crow-Armstrong",
       "Sal Stewart",
-      "CJ Abrams",
       "Junior Caminero",
-      "Chase Burns",
-      "Cam Schlittler"
+      "CJ Abrams",
+      "Cam Schlittler",
+      "Chase Burns"
     ],
     "nfl:ROAD_TO_GLORY.players": [
       "Matthew Stafford",
