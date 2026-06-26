@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-26 15:19 UTC
+// Auto-generated 2026-06-26 15:58 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-26 15:19 UTC",
+  "UPDATED": "2026-06-26 15:58 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10971,15 +10971,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Semifinal",
-          "w": "Toby Samuel",
+          "w": "Zizou Bergs",
           "w_logo": "",
-          "l": "Zizou Bergs",
+          "l": "Toby Samuel",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 7-6 (7-5) 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 47.6,
-          "l_score": 60.4,
+          "w_score": 60.4,
+          "l_score": 47.6,
           "match_score": 60.4
         }
       ]

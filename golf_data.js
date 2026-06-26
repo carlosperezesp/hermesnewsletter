@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-26 15:16 UTC
+// Auto-generated 2026-06-26 15:57 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-26 15:16 UTC",
+  "UPDATED": "2026-06-26 15:57 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -110,6 +110,22 @@ window.GOLF_DATA = {
     "leaderboard": [
       {
         "rank": 1,
+        "name": "Viktor Hovland",
+        "id": "4364873",
+        "country": "Norway",
+        "score": "-10",
+        "today": ""
+      },
+      {
+        "rank": 2,
+        "name": "Akshay Bhatia",
+        "id": "4419142",
+        "country": "USA",
+        "score": "-9",
+        "today": ""
+      },
+      {
+        "rank": 3,
         "name": "Brian Campbell",
         "id": "9525",
         "country": "USA",
@@ -117,23 +133,15 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 2,
-        "name": "Viktor Hovland",
-        "id": "4364873",
-        "country": "Norway",
-        "score": "-8",
-        "today": ""
-      },
-      {
-        "rank": 3,
-        "name": "Akshay Bhatia",
-        "id": "4419142",
+        "rank": 4,
+        "name": "Kurt Kitayama",
+        "id": "10364",
         "country": "USA",
         "score": "-7",
         "today": ""
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "J.J. Spaun",
         "id": "10166",
         "country": "USA",
@@ -141,7 +149,7 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "Bud Cauley",
         "id": "5338",
         "country": "USA",
@@ -149,7 +157,15 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 6,
+        "rank": 7,
+        "name": "Scottie Scheffler",
+        "id": "9478",
+        "country": "USA",
+        "score": "-7",
+        "today": ""
+      },
+      {
+        "rank": 8,
         "name": "Eric Cole",
         "id": "10522",
         "country": "USA",
@@ -157,7 +173,7 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 7,
+        "rank": 9,
         "name": "Michael Kim",
         "id": "8974",
         "country": "USA",
@@ -165,26 +181,10 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 8,
+        "rank": 10,
         "name": "Justin Rose",
         "id": "569",
         "country": "England",
-        "score": "-6",
-        "today": ""
-      },
-      {
-        "rank": 9,
-        "name": "Scottie Scheffler",
-        "id": "9478",
-        "country": "USA",
-        "score": "-6",
-        "today": ""
-      },
-      {
-        "rank": 10,
-        "name": "Nico Echavarria",
-        "id": "4408316",
-        "country": "Colombia",
         "score": "-6",
         "today": ""
       }
