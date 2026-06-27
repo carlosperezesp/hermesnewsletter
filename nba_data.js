@@ -2671,7 +2671,7 @@ window.NBA_DATA = {
       "last": "Gobert",
       "pos": "C",
       "teamCode": "MIN",
-      "age": 33,
+      "age": 34,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3032976.png",
       "colors": {
         "primary": "#0c2340",
@@ -5446,7 +5446,7 @@ window.NBA_DATA = {
       "last": "Bouyea",
       "pos": "G",
       "teamCode": "PHX",
-      "age": 26,
+      "age": 27,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4280245.png",
       "colors": {
         "primary": "#1d1160",
@@ -5462,7 +5462,7 @@ window.NBA_DATA = {
         "blk": 0.0,
         "min": 2.5
       },
-      "legendScore": 29.3
+      "legendScore": 30.3
     },
     {
       "id": 3133635,
@@ -6346,7 +6346,7 @@ window.NBA_DATA = {
       "last": "Hansen",
       "pos": "C",
       "teamCode": "POR",
-      "age": 20,
+      "age": 21,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5217746.png",
       "colors": {
         "primary": "#e03a3e",
@@ -6362,7 +6362,7 @@ window.NBA_DATA = {
         "blk": 0.0,
         "min": 1.2
       },
-      "legendScore": 21.6
+      "legendScore": 22.6
     }
   ],
   "BRACKET": {
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-06-27 09:08 UTC",
+  "LAST_UPDATE": "2026-06-27 14:16 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

@@ -1203,12 +1203,12 @@ window.MLB_DATA = {
       "score": 85,
       "stats": {
         "type": "batting",
-        "ab": 278,
+        "ab": 279,
         "hr": 17,
         "rbi": 46,
-        "avg": 0.295,
+        "avg": 0.294,
         "sb": 6,
-        "ops": 0.96
+        "ops": 0.957
       },
       "legendScore": 92.1,
       "currentScore": 100.0,
@@ -1579,36 +1579,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4872595,
-      "name": "Munetaka Murakami",
-      "first": "Munetaka",
-      "last": "Murakami",
-      "pos": "1B",
-      "teamCode": "CHW",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4872595.png",
-      "colors": {
-        "primary": "#27251f",
-        "secondary": "#c4ced4"
-      },
-      "score": 80,
-      "stats": {
-        "type": "batting",
-        "ab": 200,
-        "hr": 20,
-        "rbi": 41,
-        "avg": 0.24,
-        "sb": 1,
-        "ops": 0.938
-      },
-      "legendScore": 47.8,
-      "currentScore": 80,
-      "battingScore": 80,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 42598,
       "name": "Shea Langeliers",
       "first": "Shea",
@@ -1808,9 +1778,9 @@ window.MLB_DATA = {
         "ab": 287,
         "hr": 11,
         "rbi": 47,
-        "avg": 0.258,
+        "avg": 0.261,
         "sb": 13,
-        "ops": 0.813
+        "ops": 0.82
       },
       "legendScore": 46.8,
       "currentScore": 78,
@@ -3405,7 +3375,7 @@ window.MLB_DATA = {
         "rbi": 34,
         "avg": 0.24,
         "sb": 3,
-        "ops": 0.746
+        "ops": 0.75
       },
       "legendScore": 41.3,
       "currentScore": 65,
@@ -4255,36 +4225,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 31392,
-      "name": "Joc Pederson",
-      "first": "Joc",
-      "last": "Pederson",
-      "pos": "DH",
-      "teamCode": "TEX",
-      "age": 34,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/31392.png",
-      "colors": {
-        "primary": "#c0111f",
-        "secondary": "#003278"
-      },
-      "score": 61,
-      "stats": {
-        "type": "batting",
-        "ab": 214,
-        "hr": 12,
-        "rbi": 28,
-        "avg": 0.248,
-        "sb": 0,
-        "ops": 0.816
-      },
-      "legendScore": 44.1,
-      "currentScore": 61,
-      "battingScore": 61,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 42450,
       "name": "Joe Ryan",
       "first": "Joe",
@@ -4638,36 +4578,6 @@ window.MLB_DATA = {
         "whip": 1.25
       },
       "legendScore": 34.7,
-      "currentScore": 59,
-      "battingScore": null,
-      "pitchingScore": 59,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 39667,
-      "name": "Jesus Luzardo",
-      "first": "Jesus",
-      "last": "Luzardo",
-      "pos": "SP",
-      "teamCode": "PHI",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39667.png",
-      "colors": {
-        "primary": "#e81828",
-        "secondary": "#002d72"
-      },
-      "score": 59,
-      "stats": {
-        "type": "pitching",
-        "g": 16,
-        "w": 6,
-        "era": 4.0,
-        "ip": 92.1,
-        "so": 110,
-        "whip": 1.3
-      },
-      "legendScore": 38.0,
       "currentScore": 59,
       "battingScore": null,
       "pitchingScore": 59,
@@ -5215,29 +5125,29 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4414002,
-      "name": "J.T. Ginn",
-      "first": "J.T.",
-      "last": "Ginn",
+      "id": 39667,
+      "name": "Jesus Luzardo",
+      "first": "Jesus",
+      "last": "Luzardo",
       "pos": "SP",
-      "teamCode": "ATH",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4414002.png",
+      "teamCode": "PHI",
+      "age": 28,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39667.png",
       "colors": {
-        "primary": "#003831",
-        "secondary": "#efb21e"
+        "primary": "#e81828",
+        "secondary": "#002d72"
       },
       "score": 57,
       "stats": {
         "type": "pitching",
-        "g": 18,
+        "g": 16,
         "w": 6,
-        "era": 3.15,
-        "ip": 88.2,
-        "so": 78,
-        "whip": 1.22
+        "era": 4.39,
+        "ip": 92.1,
+        "so": 110,
+        "whip": 1.31
       },
-      "legendScore": 36.1,
+      "legendScore": 37.0,
       "currentScore": 57,
       "battingScore": null,
       "pitchingScore": 57,
@@ -5421,6 +5331,36 @@ window.MLB_DATA = {
       "currentScore": 56,
       "battingScore": 56,
       "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 4414002,
+      "name": "J.T. Ginn",
+      "first": "J.T.",
+      "last": "Ginn",
+      "pos": "SP",
+      "teamCode": "ATH",
+      "age": 27,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4414002.png",
+      "colors": {
+        "primary": "#003831",
+        "secondary": "#efb21e"
+      },
+      "score": 56,
+      "stats": {
+        "type": "pitching",
+        "g": 18,
+        "w": 6,
+        "era": 3.25,
+        "ip": 88.2,
+        "so": 78,
+        "whip": 1.23
+      },
+      "legendScore": 35.6,
+      "currentScore": 56,
+      "battingScore": null,
+      "pitchingScore": 56,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -5685,7 +5625,7 @@ window.MLB_DATA = {
         "era": 3.94,
         "ip": 96.0,
         "so": 84,
-        "whip": 1.34
+        "whip": 1.33
       },
       "legendScore": 35.3,
       "currentScore": 54,
@@ -8257,7 +8197,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-27 09:08 UTC",
+  "LAST_UPDATE": "2026-06-27 14:16 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

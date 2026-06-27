@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-27 09:08 UTC
+// Auto-generated 2026-06-27 14:17 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-06-27 09:08 UTC",
+  "UPDATED": "2026-06-27 14:17 UTC",
   "SEASON": "2026",
   "ROUND": 16,
   "IMPORTANCE": 8.0,
@@ -56,18 +56,6 @@ window.AFL_DATA = {
     },
     {
       "rank": 5,
-      "name": "Adelaide",
-      "wins": 9,
-      "losses": 5,
-      "draws": 0,
-      "pts": 36,
-      "percentage": 113.2,
-      "primary": "#002B5C",
-      "secondary": "#CC2031",
-      "prevRank": 5
-    },
-    {
-      "rank": 6,
       "name": "Brisbane Lions",
       "wins": 9,
       "losses": 6,
@@ -77,6 +65,18 @@ window.AFL_DATA = {
       "primary": "#7B1A4B",
       "secondary": "#F6AE00",
       "prevRank": 6
+    },
+    {
+      "rank": 6,
+      "name": "Adelaide",
+      "wins": 9,
+      "losses": 6,
+      "draws": 0,
+      "pts": 36,
+      "percentage": 110.0,
+      "primary": "#002B5C",
+      "secondary": "#CC2031",
+      "prevRank": 5
     },
     {
       "rank": 7,
@@ -171,11 +171,11 @@ window.AFL_DATA = {
     {
       "rank": 15,
       "name": "Port Adelaide",
-      "wins": 4,
+      "wins": 5,
       "losses": 10,
       "draws": 0,
-      "pts": 16,
-      "percentage": 98.6,
+      "pts": 20,
+      "percentage": 100.8,
       "primary": "#002B5C",
       "secondary": "#CC2031"
     },
@@ -1095,6 +1095,16 @@ window.AFL_DATA = {
       "date": "2026-06-27",
       "hprimary": "#000000",
       "aprimary": "#FFD200"
+    },
+    {
+      "hteam": "Port Adelaide",
+      "hscore": 97,
+      "ateam": "Adelaide",
+      "ascore": 71,
+      "winner": "Port Adelaide",
+      "date": "2026-06-27",
+      "hprimary": "#002B5C",
+      "aprimary": "#002B5C"
     }
   ],
   "CURRENT_CONTENDERS": [

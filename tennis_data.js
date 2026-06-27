@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-27 09:10 UTC
+// Auto-generated 2026-06-27 14:19 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-27 09:10 UTC",
+  "UPDATED": "2026-06-27 14:19 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10936,9 +10936,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Zizou Bergs",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "2-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 66.4,
           "l_score": 60.4,
           "match_score": 66.4
@@ -10993,9 +10993,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tatjana Maria",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 80.6,
           "l_score": 50.0,
           "match_score": 80.6
@@ -11028,13 +11028,13 @@ window.TENNIS_DATA = {
       "Alejandro Tabilo",
       "Aleksandar Kovacevic",
       "Aleksandar Vukic",
+      "Aleksandr Shevchenko",
       "Alex Michelsen",
       "Alex Molcan",
       "Alex de Minaur",
       "Alexander Blockx",
       "Alexander Bublik",
       "Alexander Zverev",
-      "Alexandr Shevchenko",
       "Alexandre Muller",
       "Alexei Popyrin",
       "Andrey Rublev",
