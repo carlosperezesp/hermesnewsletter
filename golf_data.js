@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-27 21:20 UTC
+// Auto-generated 2026-06-27 22:34 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-27 21:20 UTC",
+  "UPDATED": "2026-06-27 22:34 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -110,32 +110,32 @@ window.GOLF_DATA = {
     "leaderboard": [
       {
         "rank": 1,
-        "name": "Scottie Scheffler",
-        "id": "9478",
-        "country": "USA",
+        "name": "Viktor Hovland",
+        "id": "4364873",
+        "country": "Norway",
         "score": "-20",
         "today": ""
       },
       {
         "rank": 2,
-        "name": "Viktor Hovland",
-        "id": "4364873",
-        "country": "Norway",
+        "name": "Scottie Scheffler",
+        "id": "9478",
+        "country": "USA",
         "score": "-19",
         "today": ""
       },
       {
         "rank": 3,
-        "name": "Akshay Bhatia",
-        "id": "4419142",
+        "name": "Patrick Cantlay",
+        "id": "6007",
         "country": "USA",
-        "score": "-16",
+        "score": "-15",
         "today": ""
       },
       {
         "rank": 4,
-        "name": "Patrick Cantlay",
-        "id": "6007",
+        "name": "Akshay Bhatia",
+        "id": "4419142",
         "country": "USA",
         "score": "-15",
         "today": ""
@@ -174,17 +174,17 @@ window.GOLF_DATA = {
       },
       {
         "rank": 9,
-        "name": "Keith Mitchell",
-        "id": "8906",
+        "name": "Eric Cole",
+        "id": "10522",
         "country": "USA",
-        "score": "-12",
+        "score": "-13",
         "today": ""
       },
       {
         "rank": 10,
-        "name": "Si Woo Kim",
-        "id": "7081",
-        "country": "South Korea",
+        "name": "Keith Mitchell",
+        "id": "8906",
+        "country": "USA",
         "score": "-12",
         "today": ""
       }
