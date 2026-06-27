@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-27 08:07 UTC
+// Auto-generated 2026-06-27 09:08 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-06-27 08:07 UTC",
+  "UPDATED": "2026-06-27 09:08 UTC",
   "SEASON": "2026",
   "ROUND": 16,
   "IMPORTANCE": 8.0,
@@ -104,6 +104,17 @@ window.AFL_DATA = {
     },
     {
       "rank": 9,
+      "name": "Collingwood",
+      "wins": 7,
+      "losses": 7,
+      "draws": 1,
+      "pts": 30,
+      "percentage": 104.3,
+      "primary": "#000000",
+      "secondary": "#FFFFFF"
+    },
+    {
+      "rank": 10,
       "name": "Gold Coast",
       "wins": 7,
       "losses": 7,
@@ -114,7 +125,7 @@ window.AFL_DATA = {
       "secondary": "#F1B500"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Carlton",
       "wins": 7,
       "losses": 8,
@@ -125,7 +136,7 @@ window.AFL_DATA = {
       "secondary": "#FFFFFF"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "North Melbourne",
       "wins": 7,
       "losses": 7,
@@ -134,17 +145,6 @@ window.AFL_DATA = {
       "percentage": 90.7,
       "primary": "#CC2031",
       "secondary": "#013B9F"
-    },
-    {
-      "rank": 12,
-      "name": "Collingwood",
-      "wins": 6,
-      "losses": 7,
-      "draws": 1,
-      "pts": 26,
-      "percentage": 101.6,
-      "primary": "#000000",
-      "secondary": "#FFFFFF"
     },
     {
       "rank": 13,
@@ -194,10 +194,10 @@ window.AFL_DATA = {
       "rank": 17,
       "name": "Richmond",
       "wins": 2,
-      "losses": 12,
+      "losses": 13,
       "draws": 0,
       "pts": 8,
-      "percentage": 61.3,
+      "percentage": 61.8,
       "primary": "#FFD200",
       "secondary": "#000000"
     },
@@ -1085,6 +1085,16 @@ window.AFL_DATA = {
       "date": "2026-06-27",
       "hprimary": "#0E1E2D",
       "aprimary": "#002B5C"
+    },
+    {
+      "hteam": "Collingwood",
+      "hscore": 106,
+      "ateam": "Richmond",
+      "ascore": 72,
+      "winner": "Collingwood",
+      "date": "2026-06-27",
+      "hprimary": "#000000",
+      "aprimary": "#FFD200"
     }
   ],
   "CURRENT_CONTENDERS": [

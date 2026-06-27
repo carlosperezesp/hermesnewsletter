@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-27 08:09 UTC",
+  "UPDATED": "2026-06-27 09:10 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Lenovo Austrian Grand Prix:Kimi Antonelli",
@@ -118,20 +118,20 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-14"
     },
     {
+      "id": "rank:afl:LADDER:in:Collingwood",
+      "sport": "afl",
+      "detail": "AFL",
+      "anchor": "afl-clasificacion",
+      "text": "Collingwood entra en el top-10 · clasificación",
+      "weight": 84,
+      "firstSeen": "2026-06-27"
+    },
+    {
       "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Andy Pages",
       "sport": "mlb",
       "detail": "MLB",
       "anchor": "mlb-jovenes-promesas",
       "text": "Andy Pages entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-06-27"
-    },
-    {
-      "id": "rank:afl:LADDER:in:Carlton",
-      "sport": "afl",
-      "detail": "AFL",
-      "anchor": "afl-clasificacion",
-      "text": "Carlton entra en el top-10 · clasificación",
       "weight": 84,
       "firstSeen": "2026-06-27"
     },
@@ -610,8 +610,8 @@ window.GLORY_DATA = {
       "Brisbane Lions",
       "Melbourne",
       "Western Bulldogs",
-      "Gold Coast",
-      "Carlton"
+      "Collingwood",
+      "Gold Coast"
     ],
     "football:ROAD_TO_GLORY.currentContenders": [
       "Argentina",
