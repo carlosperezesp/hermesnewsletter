@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-26 22:39 UTC
+// Auto-generated 2026-06-27 08:07 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-06-26 22:39 UTC",
+  "UPDATED": "2026-06-27 08:07 UTC",
   "SEASON": "2026",
   "ROUND": 16,
   "IMPORTANCE": 8.0,
@@ -115,6 +115,17 @@ window.AFL_DATA = {
     },
     {
       "rank": 10,
+      "name": "Carlton",
+      "wins": 7,
+      "losses": 8,
+      "draws": 0,
+      "pts": 28,
+      "percentage": 95.6,
+      "primary": "#0E1E2D",
+      "secondary": "#FFFFFF"
+    },
+    {
+      "rank": 11,
       "name": "North Melbourne",
       "wins": 7,
       "losses": 7,
@@ -125,7 +136,7 @@ window.AFL_DATA = {
       "secondary": "#013B9F"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Collingwood",
       "wins": 6,
       "losses": 7,
@@ -136,7 +147,7 @@ window.AFL_DATA = {
       "secondary": "#FFFFFF"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "St Kilda",
       "wins": 6,
       "losses": 9,
@@ -147,7 +158,7 @@ window.AFL_DATA = {
       "secondary": "#000000"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Greater Western Sydney",
       "wins": 6,
       "losses": 9,
@@ -156,17 +167,6 @@ window.AFL_DATA = {
       "percentage": 99.3,
       "primary": "#F57F00",
       "secondary": "#002040"
-    },
-    {
-      "rank": 14,
-      "name": "Carlton",
-      "wins": 6,
-      "losses": 8,
-      "draws": 0,
-      "pts": 24,
-      "percentage": 91.1,
-      "primary": "#0E1E2D",
-      "secondary": "#FFFFFF"
     },
     {
       "rank": 15,
@@ -183,10 +183,10 @@ window.AFL_DATA = {
       "rank": 16,
       "name": "West Coast",
       "wins": 4,
-      "losses": 10,
+      "losses": 11,
       "draws": 0,
       "pts": 16,
-      "percentage": 72.7,
+      "percentage": 71.3,
       "primary": "#002B5C",
       "secondary": "#F5C209"
     },
@@ -1075,6 +1075,16 @@ window.AFL_DATA = {
       "date": "2026-06-26",
       "hprimary": "#4D2004",
       "aprimary": "#F57F00"
+    },
+    {
+      "hteam": "Carlton",
+      "hscore": 117,
+      "ateam": "West Coast",
+      "ascore": 64,
+      "winner": "Carlton",
+      "date": "2026-06-27",
+      "hprimary": "#0E1E2D",
+      "aprimary": "#002B5C"
     }
   ],
   "CURRENT_CONTENDERS": [

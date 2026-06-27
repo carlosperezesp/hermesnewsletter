@@ -5120,9 +5120,9 @@ window.NHL_DATA = {
       "name": "Pavel Dorofeyev",
       "pos": "RW",
       "teamCode": "VGK",
-      "age": 25,
-      "country": "Russia",
-      "birthCountry": "RUS",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
@@ -5145,8 +5145,7 @@ window.NHL_DATA = {
         54,
         56,
         68
-      ],
-      "legendScore": 53.7
+      ]
     },
     {
       "id": 8474564,
@@ -8513,9 +8512,9 @@ window.NHL_DATA = {
       "name": "JJ Peterka",
       "pos": "RW",
       "teamCode": "UTA",
-      "age": 24,
-      "country": "Germany",
-      "birthCountry": "DEU",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#69b3e7",
         "secondary": "#010101"
@@ -8538,8 +8537,7 @@ window.NHL_DATA = {
         50,
         52,
         61
-      ],
-      "legendScore": 49.9
+      ]
     },
     {
       "id": 8475753,
@@ -11043,9 +11041,9 @@ window.NHL_DATA = {
       "name": "Mason McTavish",
       "pos": "C",
       "teamCode": "ANA",
-      "age": 23,
-      "country": "Switzerland",
-      "birthCountry": "CHE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -11068,8 +11066,7 @@ window.NHL_DATA = {
         49,
         51,
         58
-      ],
-      "legendScore": 48.8
+      ]
     },
     {
       "id": 8482679,
@@ -16029,7 +16026,7 @@ window.NHL_DATA = {
       "name": "Emmitt Finnie",
       "pos": "C",
       "teamCode": "DET",
-      "age": 20,
+      "age": 21,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -16054,7 +16051,7 @@ window.NHL_DATA = {
         49,
         53
       ],
-      "legendScore": 50.7
+      "legendScore": 48.7
     },
     {
       "id": 8483573,
@@ -18140,7 +18137,7 @@ window.NHL_DATA = {
       "name": "Kevin Bahl",
       "pos": "D",
       "teamCode": "CGY",
-      "age": 25,
+      "age": 26,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -18164,8 +18161,7 @@ window.NHL_DATA = {
         45,
         47,
         52
-      ],
-      "legendScore": 45.1
+      ]
     },
     {
       "id": 8481024,
@@ -30133,7 +30129,7 @@ window.NHL_DATA = {
       "name": "Florian Xhekaj",
       "pos": "LW",
       "teamCode": "MTL",
-      "age": 21,
+      "age": 22,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47991,10 +47987,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-26 22:39 UTC",
+  "LAST_UPDATE": "2026-06-27 08:06 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-26T22:38:45Z"
+    "standingsDateTimeUtc": "2026-06-27T08:06:15Z"
   }
 };

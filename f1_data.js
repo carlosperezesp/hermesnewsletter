@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-26 22:39 UTC
+// Auto-generated 2026-06-27 08:07 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-06-26 22:39 UTC",
+  "UPDATED": "2026-06-27 08:07 UTC",
   "SEASON": "2026",
   "ROUND": 6,
   "TOTAL_ROUNDS": 24,
@@ -561,32 +561,32 @@ window.F1_DATA = {
     "includesSprint": false
   },
   "LAST_RACE": {
-    "name": "MSC Cruises Barcelona-Catalunya Grand Prix",
-    "date": "2026-06-12",
-    "circuit": "Circuit de Catalunya",
+    "name": "Lenovo Austrian Grand Prix",
+    "date": "2026-06-26",
+    "circuit": "Red Bull Ring",
     "round": 0,
     "state": "post",
     "podium": [
       {
         "position": 1,
-        "name": "George Russell",
+        "name": "Kimi Antonelli",
         "team": "mercedes",
         "time": "",
         "primary": "#00D2BE"
       },
       {
         "position": 2,
+        "name": "George Russell",
+        "team": "mercedes",
+        "time": "",
+        "primary": "#00D2BE"
+      },
+      {
+        "position": 3,
         "name": "Oscar Piastri",
         "team": "mclaren",
         "time": "",
         "primary": "#FF8000"
-      },
-      {
-        "position": 3,
-        "name": "Charles Leclerc",
-        "team": "ferrari",
-        "time": "",
-        "primary": "#E8002D"
       }
     ]
   },

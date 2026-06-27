@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-26 22:40 UTC",
+  "UPDATED": "2026-06-27 08:09 UTC",
   "EVENTS": [
+    {
+      "id": "f1:win:Lenovo Austrian Grand Prix:Kimi Antonelli",
+      "sport": "f1",
+      "detail": "F1",
+      "text": "Kimi Antonelli ganó el Lenovo Austrian Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-06-27"
+    },
     {
       "id": "motogp:win:Czech Republic motorcycle Grand Prix:Ai Ogura",
       "sport": "motogp",
@@ -110,6 +118,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-14"
     },
     {
+      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Andy Pages",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-jovenes-promesas",
+      "text": "Andy Pages entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "id": "rank:afl:LADDER:in:Carlton",
+      "sport": "afl",
+      "detail": "AFL",
+      "anchor": "afl-clasificacion",
+      "text": "Carlton entra en el top-10 · clasificación",
+      "weight": 84,
+      "firstSeen": "2026-06-27"
+    },
+    {
       "id": "tennis:out:WTA:Karolina Muchova:20260618",
       "sport": "tennis",
       "detail": "Tenis",
@@ -126,6 +152,24 @@ window.GLORY_DATA = {
       "weight": 78,
       "firstSeen": "2026-06-14",
       "anchor": "tennis-atp"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:out:Chase Burns",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-jovenes-promesas",
+      "text": "Chase Burns cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "id": "rank:afl:LADDER:out:North Melbourne",
+      "sport": "afl",
+      "detail": "AFL",
+      "anchor": "afl-clasificacion",
+      "text": "North Melbourne cae del top-10 · clasificación",
+      "weight": 74,
+      "firstSeen": "2026-06-27"
     }
   ],
   "REPORTS": [
@@ -322,12 +366,12 @@ window.GLORY_DATA = {
       "Nick Kurtz",
       "Jordan Walker",
       "James Wood",
+      "Junior Caminero",
       "Pete Crow-Armstrong",
       "Sal Stewart",
-      "Junior Caminero",
       "CJ Abrams",
       "Cam Schlittler",
-      "Chase Burns"
+      "Andy Pages"
     ],
     "nfl:ROAD_TO_GLORY.players": [
       "Matthew Stafford",
@@ -567,7 +611,7 @@ window.GLORY_DATA = {
       "Melbourne",
       "Western Bulldogs",
       "Gold Coast",
-      "North Melbourne"
+      "Carlton"
     ],
     "football:ROAD_TO_GLORY.currentContenders": [
       "Argentina",
