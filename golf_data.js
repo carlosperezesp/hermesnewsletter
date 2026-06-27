@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-27 15:04 UTC
+// Auto-generated 2026-06-27 21:20 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-27 15:04 UTC",
+  "UPDATED": "2026-06-27 21:20 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -113,7 +113,7 @@ window.GOLF_DATA = {
         "name": "Scottie Scheffler",
         "id": "9478",
         "country": "USA",
-        "score": "-16",
+        "score": "-20",
         "today": ""
       },
       {
@@ -121,7 +121,7 @@ window.GOLF_DATA = {
         "name": "Viktor Hovland",
         "id": "4364873",
         "country": "Norway",
-        "score": "-14",
+        "score": "-19",
         "today": ""
       },
       {
@@ -129,63 +129,63 @@ window.GOLF_DATA = {
         "name": "Akshay Bhatia",
         "id": "4419142",
         "country": "USA",
-        "score": "-12",
+        "score": "-16",
         "today": ""
       },
       {
         "rank": 4,
-        "name": "Eric Cole",
-        "id": "10522",
+        "name": "Patrick Cantlay",
+        "id": "6007",
+        "country": "USA",
+        "score": "-15",
+        "today": ""
+      },
+      {
+        "rank": 5,
+        "name": "Shane Lowry",
+        "id": "4587",
+        "country": "Ireland",
+        "score": "-13",
+        "today": ""
+      },
+      {
+        "rank": 6,
+        "name": "Wyndham Clark",
+        "id": "11119",
+        "country": "USA",
+        "score": "-13",
+        "today": ""
+      },
+      {
+        "rank": 7,
+        "name": "Matt Fitzpatrick",
+        "id": "9037",
+        "country": "England",
+        "score": "-13",
+        "today": ""
+      },
+      {
+        "rank": 8,
+        "name": "Ben Griffin",
+        "id": "4404992",
+        "country": "USA",
+        "score": "-13",
+        "today": ""
+      },
+      {
+        "rank": 9,
+        "name": "Keith Mitchell",
+        "id": "8906",
         "country": "USA",
         "score": "-12",
         "today": ""
       },
       {
-        "rank": 5,
-        "name": "Matt Fitzpatrick",
-        "id": "9037",
-        "country": "England",
-        "score": "-10",
-        "today": ""
-      },
-      {
-        "rank": 6,
-        "name": "Ben Griffin",
-        "id": "4404992",
-        "country": "USA",
-        "score": "-10",
-        "today": ""
-      },
-      {
-        "rank": 7,
-        "name": "Bud Cauley",
-        "id": "5338",
-        "country": "USA",
-        "score": "-10",
-        "today": ""
-      },
-      {
-        "rank": 8,
-        "name": "Brian Campbell",
-        "id": "9525",
-        "country": "USA",
-        "score": "-9",
-        "today": ""
-      },
-      {
-        "rank": 9,
-        "name": "Maverick McNealy",
-        "id": "9530",
-        "country": "USA",
-        "score": "-9",
-        "today": ""
-      },
-      {
         "rank": 10,
-        "name": "Tommy Fleetwood",
-        "id": "5539",
-        "country": "England",
-        "score": "-9",
+        "name": "Si Woo Kim",
+        "id": "7081",
+        "country": "South Korea",
+        "score": "-12",
         "today": ""
       }
     ],

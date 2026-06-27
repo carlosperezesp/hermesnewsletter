@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-27 15:05 UTC
+// Auto-generated 2026-06-27 21:22 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-27 15:05 UTC",
+  "UPDATED": "2026-06-27 21:22 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10924,28 +10924,7 @@ window.TENNIS_DATA = {
       ]
     }
   ],
-  "ATP_TODAY": [
-    {
-      "name": "Lexus Eastbourne Open",
-      "level": "500",
-      "surface": "Grass",
-      "matches": [
-        {
-          "round": "F",
-          "w": "Ugo Humbert",
-          "w_logo": "",
-          "l": "Zizou Bergs",
-          "l_logo": "",
-          "score": "2-1",
-          "day": "hoy",
-          "scheduled": false,
-          "w_score": 66.4,
-          "l_score": 60.4,
-          "match_score": 66.4
-        }
-      ]
-    }
-  ],
+  "ATP_TODAY": [],
   "WTA_RECENT": [
     {
       "name": "Lexus Eastbourne Open",

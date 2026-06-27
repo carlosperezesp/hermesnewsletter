@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-27 15:04 UTC
+// Auto-generated 2026-06-27 21:20 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-06-27 15:04 UTC",
+  "UPDATED": "2026-06-27 21:20 UTC",
   "SEASON": "2026",
   "ROUND": 6,
   "TOTAL_ROUNDS": 24,
@@ -47,7 +47,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 115.0,
-      "lastWeekendPoints": 25.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 19.2,
       "stats": {
@@ -72,7 +72,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 106.0,
-      "lastWeekendPoints": 18.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 17.7,
       "stats": {
@@ -122,7 +122,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 73.0,
-      "lastWeekendPoints": 15.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 12.2,
       "stats": {
@@ -147,7 +147,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 68.0,
-      "lastWeekendPoints": 10.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 11.3,
       "stats": {
@@ -172,7 +172,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 55.0,
-      "lastWeekendPoints": 12.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 9.2,
       "stats": {
@@ -197,7 +197,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 41.0,
-      "lastWeekendPoints": 6.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 6.8,
       "stats": {
@@ -222,7 +222,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 34.0,
-      "lastWeekendPoints": 8.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 5.7,
       "stats": {
@@ -247,7 +247,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 28.0,
-      "lastWeekendPoints": 4.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 4.7,
       "stats": {
@@ -555,9 +555,9 @@ window.F1_DATA = {
     }
   ],
   "LAST_WEEKEND": {
-    "id": "600057435",
-    "name": "MSC Cruises Barcelona-Catalunya Grand Prix",
-    "label": "BAR",
+    "id": "600057436",
+    "name": "Lenovo Austrian Grand Prix",
+    "label": "AUT",
     "includesSprint": false
   },
   "LAST_RACE": {

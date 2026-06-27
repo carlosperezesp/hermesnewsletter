@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-27 15:05 UTC
+// Auto-generated 2026-06-27 21:21 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-06-27 15:05 UTC",
+  "UPDATED": "2026-06-27 21:21 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -4083,6 +4083,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 4,
+              "mark": "2.31",
+              "athlete": "Sarvesh Anil Kushare",
+              "country": "IND",
+              "flag": "https://flagcdn.com/24x18/in.png",
+              "primary": "#4A4745",
+              "venue": "Kalinga Stadium",
+              "date": "27 JUN 2026"
+            },
+            {
+              "rank": 5,
               "mark": "2.30",
               "athlete": "Mateusz Kołodziejski",
               "country": "POL",
@@ -4092,7 +4102,7 @@ window.ATHLETICS_DATA = {
               "date": "07 FEB 2026"
             },
             {
-              "rank": 5,
+              "rank": 6,
               "mark": "2.30",
               "athlete": "Naoto Hasegawa",
               "country": "JPN",
@@ -4102,7 +4112,7 @@ window.ATHLETICS_DATA = {
               "date": "07 FEB 2026"
             },
             {
-              "rank": 6,
+              "rank": 7,
               "mark": "2.30",
               "athlete": "Stepan Vetkin",
               "country": "RUS",
@@ -4112,7 +4122,7 @@ window.ATHLETICS_DATA = {
               "date": "07 FEB 2026"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "2.30",
               "athlete": "Tomohiro Shinno",
               "country": "JPN",
@@ -4122,7 +4132,7 @@ window.ATHLETICS_DATA = {
               "date": "24 FEB 2026"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "2.30",
               "athlete": "Sanghyeok Woo",
               "country": "KOR",
@@ -4132,7 +4142,7 @@ window.ATHLETICS_DATA = {
               "date": "24 FEB 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "2.30",
               "athlete": "Oleh Doroshchuk",
               "country": "UKR",
@@ -4140,16 +4150,6 @@ window.ATHLETICS_DATA = {
               "primary": "#005BBB",
               "venue": "KMSHVSM Arena",
               "date": "28 FEB 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "2.30",
-              "athlete": "Christian Falocchi",
-              "country": "ITA",
-              "flag": "https://flagcdn.com/24x18/it.png",
-              "primary": "#009246",
-              "venue": "Palaindoor Ancona",
-              "date": "01 MAR 2026"
             }
           ]
         },
@@ -5198,6 +5198,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
+              "mark": "6.88",
+              "athlete": "Ancy Sojan Edappilly",
+              "country": "IND",
+              "flag": "https://flagcdn.com/24x18/in.png",
+              "primary": "#4A4745",
+              "venue": "Kalinga Stadium",
+              "date": "27 JUN 2026"
+            },
+            {
+              "rank": 8,
               "mark": "6.87",
               "athlete": "Malaika Mihambo",
               "country": "GER",
@@ -5207,7 +5217,7 @@ window.ATHLETICS_DATA = {
               "date": "31 MAY 2026"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "6.86",
               "athlete": "Jasmine Moore",
               "country": "USA",
@@ -5217,7 +5227,7 @@ window.ATHLETICS_DATA = {
               "date": "13 FEB 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "6.85",
               "athlete": "Sophia Beckmon",
               "country": "USA",
@@ -5225,16 +5235,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Randal Tyson Indoor Center",
               "date": "30 JAN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "6.84",
-              "athlete": "Delta Amidzovski",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "Olympic Park",
-              "date": "10 APR 2026"
             }
           ]
         },

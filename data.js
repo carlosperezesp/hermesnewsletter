@@ -3453,9 +3453,9 @@ window.NHL_DATA = {
       "name": "John Carlson",
       "pos": "D",
       "teamCode": "ANA",
-      "age": 36,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -23066,9 +23066,9 @@ window.NHL_DATA = {
       "name": "Brandon Carlo",
       "pos": "D",
       "teamCode": "TOR",
-      "age": 29,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#ffffff"
@@ -30828,9 +30828,9 @@ window.NHL_DATA = {
       "name": "Adam Edstrom",
       "pos": "C",
       "teamCode": "NYR",
-      "age": 25,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#0038a8",
         "secondary": "#ce1126"
@@ -47987,10 +47987,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-27 15:03 UTC",
+  "LAST_UPDATE": "2026-06-27 21:20 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-27T15:03:15Z"
+    "standingsDateTimeUtc": "2026-06-27T21:19:30Z"
   }
 };

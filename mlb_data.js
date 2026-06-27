@@ -72,12 +72,12 @@ window.MLB_DATA = {
       "commonName": "Yankees",
       "conf": "AL",
       "div": "AL East",
-      "gp": 81,
+      "gp": 82,
       "w": 48,
-      "l": 33,
-      "winPct": 0.593,
-      "rf": 404,
-      "ra": 299,
+      "l": 34,
+      "winPct": 0.585,
+      "rf": 405,
+      "ra": 303,
       "rd": 0,
       "score": 47,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
@@ -276,6 +276,27 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "HOU",
+      "city": "Houston Astros",
+      "shortName": "Houston",
+      "commonName": "Astros",
+      "conf": "AL",
+      "div": "AL West",
+      "gp": 85,
+      "w": 41,
+      "l": 44,
+      "winPct": 0.482,
+      "rf": 380,
+      "ra": 424,
+      "rd": 0,
+      "score": 39,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png",
+      "colors": {
+        "primary": "#eb6e1f",
+        "secondary": "#002d62"
+      }
+    },
+    {
       "code": "ARI",
       "city": "Arizona Diamondbacks",
       "shortName": "Arizona",
@@ -381,27 +402,6 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "HOU",
-      "city": "Houston Astros",
-      "shortName": "Houston",
-      "commonName": "Astros",
-      "conf": "AL",
-      "div": "AL West",
-      "gp": 84,
-      "w": 40,
-      "l": 44,
-      "winPct": 0.476,
-      "rf": 372,
-      "ra": 418,
-      "rd": 0,
-      "score": 38,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png",
-      "colors": {
-        "primary": "#eb6e1f",
-        "secondary": "#002d62"
-      }
-    },
-    {
       "code": "TOR",
       "city": "Toronto Blue Jays",
       "shortName": "Toronto",
@@ -486,45 +486,45 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "DET",
-      "city": "Detroit Tigers",
-      "shortName": "Detroit",
-      "commonName": "Tigers",
-      "conf": "AL",
-      "div": "AL Central",
-      "gp": 82,
-      "w": 35,
-      "l": 47,
-      "winPct": 0.427,
-      "rf": 333,
-      "ra": 332,
-      "rd": 0,
-      "score": 34,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png",
-      "colors": {
-        "primary": "#0c2340",
-        "secondary": "#fa4616"
-      }
-    },
-    {
       "code": "BOS",
       "city": "Boston Red Sox",
       "shortName": "Boston",
       "commonName": "Red Sox",
       "conf": "AL",
       "div": "AL East",
-      "gp": 80,
-      "w": 34,
+      "gp": 81,
+      "w": 35,
       "l": 46,
-      "winPct": 0.425,
-      "rf": 319,
-      "ra": 318,
+      "winPct": 0.432,
+      "rf": 323,
+      "ra": 319,
       "rd": 0,
-      "score": 34,
+      "score": 35,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png",
       "colors": {
         "primary": "#bd3039",
         "secondary": "#0c2340"
+      }
+    },
+    {
+      "code": "DET",
+      "city": "Detroit Tigers",
+      "shortName": "Detroit",
+      "commonName": "Tigers",
+      "conf": "AL",
+      "div": "AL Central",
+      "gp": 83,
+      "w": 35,
+      "l": 48,
+      "winPct": 0.422,
+      "rf": 339,
+      "ra": 340,
+      "rd": 0,
+      "score": 34,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png",
+      "colors": {
+        "primary": "#0c2340",
+        "secondary": "#fa4616"
       }
     },
     {
@@ -7844,9 +7844,9 @@ window.MLB_DATA = {
         "city": "Houston Astros",
         "era": "2015–present",
         "rings": 2,
-        "dynastyScore": 54.8,
+        "dynastyScore": 55.4,
         "threshold": 89.5,
-        "gap": 34.7,
+        "gap": 34.1,
         "note": "2017+2022 champions · Alvarez era · model organization · sustained excellence",
         "needs": "2–3 more titles + another dominant era needed",
         "colors": {
@@ -8197,7 +8197,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-27 15:03 UTC",
+  "LAST_UPDATE": "2026-06-27 21:20 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
