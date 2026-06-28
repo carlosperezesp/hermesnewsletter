@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-28 09:38 UTC
+// Auto-generated 2026-06-28 14:26 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-28 09:38 UTC",
+  "UPDATED": "2026-06-28 14:26 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -158,17 +158,17 @@ window.GOLF_DATA = {
       },
       {
         "rank": 7,
-        "name": "Matt Fitzpatrick",
-        "id": "9037",
-        "country": "England",
+        "name": "Ben Griffin",
+        "id": "4404992",
+        "country": "USA",
         "score": "-13",
         "today": ""
       },
       {
         "rank": 8,
-        "name": "Ben Griffin",
-        "id": "4404992",
-        "country": "USA",
+        "name": "Matt Fitzpatrick",
+        "id": "9037",
+        "country": "England",
         "score": "-13",
         "today": ""
       },

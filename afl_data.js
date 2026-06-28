@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-28 09:38 UTC
+// Auto-generated 2026-06-28 14:26 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-06-28 09:38 UTC",
+  "UPDATED": "2026-06-28 14:26 UTC",
   "SEASON": "2026",
   "ROUND": 16,
   "IMPORTANCE": 8.0,
@@ -9,11 +9,11 @@ window.AFL_DATA = {
     {
       "rank": 1,
       "name": "Fremantle",
-      "wins": 13,
+      "wins": 14,
       "losses": 1,
       "draws": 0,
-      "pts": 52,
-      "percentage": 144.4,
+      "pts": 56,
+      "percentage": 148.2,
       "primary": "#2A0D54",
       "secondary": "#FFFFFF",
       "prevRank": 1
@@ -128,10 +128,10 @@ window.AFL_DATA = {
       "rank": 11,
       "name": "Gold Coast",
       "wins": 7,
-      "losses": 7,
+      "losses": 8,
       "draws": 0,
       "pts": 28,
-      "percentage": 105.3,
+      "percentage": 101.2,
       "primary": "#C5002F",
       "secondary": "#F1B500"
     },

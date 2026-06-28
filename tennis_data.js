@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-28 09:39 UTC
+// Auto-generated 2026-06-28 14:27 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-28 09:39 UTC",
+  "UPDATED": "2026-06-28 14:27 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10896,15 +10896,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Ugo Humbert",
+          "w": "Zizou Bergs",
           "w_logo": "",
-          "l": "Zizou Bergs",
+          "l": "Ugo Humbert",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "3-6 6-1 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 66.4,
-          "l_score": 60.4,
+          "scheduled": false,
+          "w_score": 60.4,
+          "l_score": 66.4,
           "match_score": 66.4
         }
       ]

@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-28 09:39 UTC",
+  "UPDATED": "2026-06-28 14:27 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Lenovo Austrian Grand Prix:Kimi Antonelli",
@@ -81,6 +81,15 @@ window.GLORY_DATA = {
       "text": "Denny Hamlin ganó en Michigan International Speedway",
       "weight": 100,
       "firstSeen": "2026-06-14"
+    },
+    {
+      "id": "rank:motogp:RIDERS:new1:Jorge Martín",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "anchor": "motogp-mundial",
+      "text": "Jorge Martín es nuevo nº1 · Mundial",
+      "weight": 92,
+      "firstSeen": "2026-06-28"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
@@ -533,16 +542,16 @@ window.GLORY_DATA = {
       "Kyle Larson"
     ],
     "motogp:RIDERS": [
-      "Marco Bezzecchi",
       "Jorge Martín",
+      "Marco Bezzecchi",
       "Fabio Di Giannantonio",
-      "Marc Márquez",
       "Ai Ogura",
+      "Marc Márquez",
+      "Raúl Fernández",
       "Pedro Acosta",
       "Francesco Bagnaia",
-      "Raúl Fernández",
-      "Fermín Aldeguer",
-      "Álex Márquez"
+      "Álex Márquez",
+      "Fermín Aldeguer"
     ],
     "motogp:LEGENDS": [
       "Giacomo Agostini",
