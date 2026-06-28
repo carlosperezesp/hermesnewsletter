@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-27 22:34 UTC
+// Auto-generated 2026-06-28 08:31 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-27 22:34 UTC",
+  "UPDATED": "2026-06-28 08:31 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-06-27 22:34 UTC"
+    "through": "2026-06-28 08:31 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -20,15 +20,15 @@ window.FOOTBALL_DATA = {
         "secondary": "#FFFFFF"
       },
       "rank": 1,
-      "elo": 2161,
+      "elo": 2163,
       "eloScore": 100.0,
       "sourceRank": 1,
       "worldCups": 3,
       "continentalTitles": 16,
       "note": "Campeón mundial y Copa América; ciclo Scaloni sostiene el pico Elo.",
       "eloPrev": 2133,
-      "recentDelta": 27.6,
-      "recentMatches": 2
+      "recentDelta": 29.7,
+      "recentMatches": 3
     },
     {
       "id": "spain",
@@ -42,7 +42,7 @@ window.FOOTBALL_DATA = {
       },
       "rank": 2,
       "elo": 2105,
-      "eloScore": 94.1,
+      "eloScore": 93.9,
       "sourceRank": 2,
       "worldCups": 1,
       "continentalTitles": 4,
@@ -63,7 +63,7 @@ window.FOOTBALL_DATA = {
       },
       "rank": 3,
       "elo": 2083,
-      "eloScore": 91.7,
+      "eloScore": 91.6,
       "sourceRank": 3,
       "worldCups": 2,
       "continentalTitles": 2,
@@ -83,15 +83,15 @@ window.FOOTBALL_DATA = {
         "secondary": "#CE1124"
       },
       "rank": 4,
-      "elo": 2020,
-      "eloScore": 85.1,
+      "elo": 2028,
+      "eloScore": 85.8,
       "sourceRank": 4,
       "worldCups": 1,
       "continentalTitles": 0,
       "note": "Finalista de Euro; rating alto por consistencia ante élite UEFA.",
       "eloPrev": 2017,
-      "recentDelta": 2.6,
-      "recentMatches": 2
+      "recentDelta": 10.6,
+      "recentMatches": 3
     },
     {
       "id": "brazil",
@@ -105,7 +105,7 @@ window.FOOTBALL_DATA = {
       },
       "rank": 5,
       "elo": 2008,
-      "eloScore": 83.8,
+      "eloScore": 83.7,
       "sourceRank": 6,
       "worldCups": 5,
       "continentalTitles": 9,
@@ -126,7 +126,7 @@ window.FOOTBALL_DATA = {
       },
       "rank": 6,
       "elo": 2007,
-      "eloScore": 83.7,
+      "eloScore": 83.6,
       "sourceRank": 7,
       "worldCups": 0,
       "continentalTitles": 1,
@@ -146,15 +146,15 @@ window.FOOTBALL_DATA = {
         "secondary": "#FF0000"
       },
       "rank": 7,
-      "elo": 1988,
-      "eloScore": 81.7,
+      "elo": 1987,
+      "eloScore": 81.5,
       "sourceRank": 5,
       "worldCups": 0,
       "continentalTitles": 1,
       "note": "Plantilla top y fase clasificatoria fuerte.",
       "eloPrev": 1997,
-      "recentDelta": -8.9,
-      "recentMatches": 2
+      "recentDelta": -9.5,
+      "recentMatches": 3
     },
     {
       "id": "italy",
@@ -188,7 +188,7 @@ window.FOOTBALL_DATA = {
       },
       "rank": 9,
       "elo": 1939,
-      "eloScore": 76.5,
+      "eloScore": 76.4,
       "sourceRank": 8,
       "worldCups": 4,
       "continentalTitles": 3,
@@ -220,6 +220,93 @@ window.FOOTBALL_DATA = {
     }
   ],
   "RECENT_MATCHES": [
+    {
+      "id": "760483",
+      "date": "2026-06-28",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "ARG"
+      ],
+      "home": {
+        "code": "JOR",
+        "name": "Jordania",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jor.png",
+        "score": 1,
+        "eloBefore": 1520,
+        "eloAfter": 1518,
+        "delta": -2.2,
+        "result": "L"
+      },
+      "away": {
+        "code": "ARG",
+        "name": "Argentina",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+        "score": 3,
+        "eloBefore": 2161,
+        "eloAfter": 2163,
+        "delta": 2.2,
+        "result": "W"
+      }
+    },
+    {
+      "id": "760485",
+      "date": "2026-06-27",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "ENG"
+      ],
+      "home": {
+        "code": "PAN",
+        "name": "Panamá",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pan.png",
+        "score": 0,
+        "eloBefore": 1615,
+        "eloAfter": 1607,
+        "delta": -8.0,
+        "result": "L"
+      },
+      "away": {
+        "code": "ENG",
+        "name": "Inglaterra",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+        "score": 2,
+        "eloBefore": 2020,
+        "eloAfter": 2028,
+        "delta": 8.0,
+        "result": "W"
+      }
+    },
+    {
+      "id": "760481",
+      "date": "2026-06-27",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "POR"
+      ],
+      "home": {
+        "code": "COL",
+        "name": "Colombia",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/col.png",
+        "score": 0,
+        "eloBefore": 1981,
+        "eloAfter": 1982,
+        "delta": 0.6,
+        "result": "D"
+      },
+      "away": {
+        "code": "POR",
+        "name": "Portugal",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+        "score": 0,
+        "eloBefore": 1988,
+        "eloAfter": 1987,
+        "delta": -0.6,
+        "result": "D"
+      }
+    },
     {
       "id": "760479",
       "date": "2026-06-27",
@@ -1208,17 +1295,17 @@ window.FOOTBALL_DATA = {
           "secondary": "#FFFFFF"
         },
         "rank": 1,
-        "elo": 2161,
+        "elo": 2163,
         "eloScore": 100.0,
         "sourceRank": 1,
         "worldCups": 3,
         "continentalTitles": 16,
         "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
         "eloPrev": 2133,
-        "recentDelta": 27.6,
-        "recentMatches": 2,
+        "recentDelta": 29.7,
+        "recentMatches": 3,
         "dynastyPotential": 100.0,
-        "rawDynastyPotential": 123.4,
+        "rawDynastyPotential": 123.5,
         "gapToDynastyTop10": 0.0,
         "cycleYears": 3.2,
         "currentWorldCups": 1,
@@ -1238,7 +1325,7 @@ window.FOOTBALL_DATA = {
         },
         "rank": 2,
         "elo": 2105,
-        "eloScore": 94.1,
+        "eloScore": 93.9,
         "sourceRank": 2,
         "worldCups": 1,
         "continentalTitles": 4,
@@ -1267,7 +1354,7 @@ window.FOOTBALL_DATA = {
         },
         "rank": 3,
         "elo": 2083,
-        "eloScore": 91.7,
+        "eloScore": 91.6,
         "sourceRank": 3,
         "worldCups": 2,
         "continentalTitles": 2,
@@ -1295,17 +1382,17 @@ window.FOOTBALL_DATA = {
           "secondary": "#CE1124"
         },
         "rank": 4,
-        "elo": 2020,
-        "eloScore": 85.1,
+        "elo": 2028,
+        "eloScore": 85.8,
         "sourceRank": 4,
         "worldCups": 1,
         "continentalTitles": 0,
         "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
         "eloPrev": 2017,
-        "recentDelta": 2.6,
-        "recentMatches": 2,
+        "recentDelta": 10.6,
+        "recentMatches": 3,
         "dynastyPotential": 100.0,
-        "rawDynastyPotential": 55.0,
+        "rawDynastyPotential": 55.4,
         "gapToDynastyTop10": 0.0,
         "cycleYears": 2.4,
         "currentWorldCups": 0,
@@ -1325,7 +1412,7 @@ window.FOOTBALL_DATA = {
         },
         "rank": 5,
         "elo": 2008,
-        "eloScore": 83.8,
+        "eloScore": 83.7,
         "sourceRank": 6,
         "worldCups": 5,
         "continentalTitles": 9,
@@ -1353,18 +1440,18 @@ window.FOOTBALL_DATA = {
           "secondary": "#FF0000"
         },
         "rank": 7,
-        "elo": 1988,
-        "eloScore": 81.7,
+        "elo": 1987,
+        "eloScore": 81.5,
         "sourceRank": 5,
         "worldCups": 0,
         "continentalTitles": 1,
-        "note": "A 4.5 puntos brutos del umbral dinástico",
+        "note": "A 4.6 puntos brutos del umbral dinástico",
         "eloPrev": 1997,
-        "recentDelta": -8.9,
-        "recentMatches": 2,
-        "dynastyPotential": 88.6,
+        "recentDelta": -9.5,
+        "recentMatches": 3,
+        "dynastyPotential": 88.4,
         "rawDynastyPotential": 34.9,
-        "gapToDynastyTop10": 4.5,
+        "gapToDynastyTop10": 4.6,
         "cycleYears": 1.8,
         "currentWorldCups": 0,
         "currentContinentalTitles": 0,
@@ -1383,7 +1470,7 @@ window.FOOTBALL_DATA = {
         },
         "rank": 6,
         "elo": 2007,
-        "eloScore": 83.7,
+        "eloScore": 83.6,
         "sourceRank": 7,
         "worldCups": 0,
         "continentalTitles": 1,
@@ -1441,7 +1528,7 @@ window.FOOTBALL_DATA = {
         },
         "rank": 9,
         "elo": 1939,
-        "eloScore": 76.5,
+        "eloScore": 76.4,
         "sourceRank": 8,
         "worldCups": 4,
         "continentalTitles": 3,

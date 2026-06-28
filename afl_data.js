@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-27 22:33 UTC
+// Auto-generated 2026-06-28 08:29 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-06-27 22:33 UTC",
+  "UPDATED": "2026-06-28 08:29 UTC",
   "SEASON": "2026",
   "ROUND": 16,
   "IMPORTANCE": 8.0,
@@ -104,6 +104,17 @@ window.AFL_DATA = {
     },
     {
       "rank": 9,
+      "name": "North Melbourne",
+      "wins": 8,
+      "losses": 7,
+      "draws": 0,
+      "pts": 32,
+      "percentage": 92.2,
+      "primary": "#CC2031",
+      "secondary": "#013B9F"
+    },
+    {
+      "rank": 10,
       "name": "Collingwood",
       "wins": 7,
       "losses": 7,
@@ -114,7 +125,7 @@ window.AFL_DATA = {
       "secondary": "#FFFFFF"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Gold Coast",
       "wins": 7,
       "losses": 7,
@@ -125,7 +136,7 @@ window.AFL_DATA = {
       "secondary": "#F1B500"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Carlton",
       "wins": 7,
       "losses": 8,
@@ -134,17 +145,6 @@ window.AFL_DATA = {
       "percentage": 95.6,
       "primary": "#0E1E2D",
       "secondary": "#FFFFFF"
-    },
-    {
-      "rank": 12,
-      "name": "North Melbourne",
-      "wins": 7,
-      "losses": 7,
-      "draws": 0,
-      "pts": 28,
-      "percentage": 90.7,
-      "primary": "#CC2031",
-      "secondary": "#013B9F"
     },
     {
       "rank": 13,
@@ -205,10 +205,10 @@ window.AFL_DATA = {
       "rank": 18,
       "name": "Essendon",
       "wins": 1,
-      "losses": 13,
+      "losses": 14,
       "draws": 0,
       "pts": 4,
-      "percentage": 70.4,
+      "percentage": 71.0,
       "primary": "#CC2031",
       "secondary": "#000000"
     }
@@ -1105,6 +1105,16 @@ window.AFL_DATA = {
       "date": "2026-06-27",
       "hprimary": "#002B5C",
       "aprimary": "#002B5C"
+    },
+    {
+      "hteam": "North Melbourne",
+      "hscore": 79,
+      "ateam": "Essendon",
+      "ascore": 65,
+      "winner": "North Melbourne",
+      "date": "2026-06-28",
+      "hprimary": "#CC2031",
+      "aprimary": "#CC2031"
     }
   ],
   "CURRENT_CONTENDERS": [

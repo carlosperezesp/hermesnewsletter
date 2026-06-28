@@ -7239,7 +7239,7 @@ window.NHL_DATA = {
       "name": "Cole Hutson",
       "pos": "D",
       "teamCode": "WSH",
-      "age": 19,
+      "age": 20,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -18001,7 +18001,7 @@ window.NHL_DATA = {
       "name": "Joel Edmundson",
       "pos": "D",
       "teamCode": "LAK",
-      "age": 32,
+      "age": 33,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47987,10 +47987,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-27 22:33 UTC",
+  "LAST_UPDATE": "2026-06-28 08:29 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-27T22:32:16Z"
+    "standingsDateTimeUtc": "2026-06-28T08:28:15Z"
   }
 };

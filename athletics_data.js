@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-27 22:35 UTC
+// Auto-generated 2026-06-28 08:32 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-06-27 22:35 UTC",
+  "UPDATED": "2026-06-28 08:32 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -630,6 +630,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 8,
+              "mark": "19.87",
+              "athlete": "Jos&#233; Figueroa",
+              "country": "PUR",
+              "flag": "https://flagcdn.com/24x18/pr.png",
+              "primary": "#4A4745",
+              "venue": "Alfonso Galvis Duque Stadium",
+              "date": "27 JUN 2026"
+            },
+            {
+              "rank": 9,
               "mark": "19.88",
               "athlete": "Aidan Murphy",
               "country": "AUS",
@@ -639,7 +649,7 @@ window.ATHLETICS_DATA = {
               "date": "12 APR 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "19.88",
               "athlete": "Makanakaishe Charamba",
               "country": "ZIM",
@@ -647,16 +657,6 @@ window.ATHLETICS_DATA = {
               "primary": "#4A4745",
               "venue": "Cushing Stadium",
               "date": "06 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "19.91",
-              "athlete": "Noah Lyles",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Percy Beard Track",
-              "date": "17 APR 2026"
             }
           ]
         },

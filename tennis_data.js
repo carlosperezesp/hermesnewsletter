@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-27 22:35 UTC
+// Auto-generated 2026-06-28 08:32 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-27 22:35 UTC",
+  "UPDATED": "2026-06-28 08:32 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5366,7 +5366,7 @@ window.TENNIS_DATA = {
       "id": "216146",
       "name": "Marta Kostyuk",
       "rank": 13,
-      "prevRank": 12,
+      "prevRank": 13,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
@@ -5374,7 +5374,7 @@ window.TENNIS_DATA = {
       "secondary": "#FFFFFF",
       "activeScore": 90.4,
       "legendScore": 37.7,
-      "age": 23,
+      "age": 24,
       "surface": {
         "hard": 0.595,
         "clay": 0.846,
@@ -5465,6 +5465,40 @@ window.TENNIS_DATA = {
       "prevActiveScore": 86.6
     },
     {
+      "id": "214096",
+      "name": "Karolina Muchova",
+      "rank": 9,
+      "prevRank": 11,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 85.9,
+      "legendScore": 39.0,
+      "age": 29,
+      "surface": {
+        "hard": 0.705,
+        "clay": 0.6,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 20
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 10,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 85.8
+    },
+    {
       "id": "201514",
       "name": "Sorana Cirstea",
       "rank": 18,
@@ -5489,7 +5523,7 @@ window.TENNIS_DATA = {
         "top10_wins": 20
       },
       "leyendaScore": 0.0,
-      "prevListRank": 10,
+      "prevListRank": 11,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -5499,50 +5533,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 85.9
     },
     {
-      "id": "214096",
-      "name": "Karolina Muchova",
-      "rank": 11,
-      "prevRank": 10,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 85.7,
-      "legendScore": 39.0,
-      "age": 29,
-      "surface": {
-        "hard": 0.705,
-        "clay": 0.6,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 20
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 11,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 85.8
-    },
-    {
       "id": "239475",
       "name": "Victoria Mboko",
-      "rank": 9,
+      "rank": 10,
       "prevRank": 9,
       "country": "CAN",
       "logo": "https://flagcdn.com/24x18/ca.png",
       "teamCode": "CAN",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 85.3,
+      "activeScore": 85.2,
       "legendScore": 34.7,
       "age": 19,
       "surface": {
@@ -5569,14 +5569,14 @@ window.TENNIS_DATA = {
     {
       "id": "202505",
       "name": "Belinda Bencic",
-      "rank": 12,
-      "prevRank": 11,
+      "rank": 11,
+      "prevRank": 12,
       "country": "SUI",
       "logo": "https://flagcdn.com/24x18/ch.png",
       "teamCode": "SUI",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 84.8,
+      "activeScore": 84.9,
       "legendScore": 61.7,
       "age": 29,
       "surface": {
@@ -5599,6 +5599,40 @@ window.TENNIS_DATA = {
         "reason": ""
       },
       "prevActiveScore": 84.9
+    },
+    {
+      "id": "201619",
+      "name": "Madison Keys",
+      "rank": 22,
+      "prevRank": 27,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 81.3,
+      "legendScore": 61.7,
+      "age": 31,
+      "surface": {
+        "hard": 0.711,
+        "clay": 0.696,
+        "grass": 0.571
+      },
+      "stats": {
+        "gs": 1,
+        "titles": 10,
+        "weeks_no1": 0,
+        "top10_wins": 34
+      },
+      "leyendaScore": 3.7,
+      "prevListRank": 14,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 80.5
     },
     {
       "id": "216081",
@@ -5625,7 +5659,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 14,
+      "prevListRank": 15,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -5635,50 +5669,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 81.1
     },
     {
-      "id": "201619",
-      "name": "Madison Keys",
-      "rank": 27,
-      "prevRank": 28,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 80.6,
-      "legendScore": 61.7,
-      "age": 31,
-      "surface": {
-        "hard": 0.711,
-        "clay": 0.696,
-        "grass": 0.571
-      },
-      "stats": {
-        "gs": 1,
-        "titles": 10,
-        "weeks_no1": 0,
-        "top10_wins": 34
-      },
-      "leyendaScore": 3.7,
-      "prevListRank": 15,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 80.5
-    },
-    {
       "id": "211768",
       "name": "Naomi Osaka",
-      "rank": 15,
+      "rank": 14,
       "prevRank": 15,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "teamCode": "JPN",
       "primary": "#BC002D",
       "secondary": "#FFFFFF",
-      "activeScore": 80.2,
+      "activeScore": 80.3,
       "legendScore": 60.7,
       "age": 28,
       "surface": {
@@ -5706,7 +5706,7 @@ window.TENNIS_DATA = {
       "id": "215713",
       "name": "Anastasia Potapova",
       "rank": 28,
-      "prevRank": 26,
+      "prevRank": 28,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -5739,14 +5739,14 @@ window.TENNIS_DATA = {
     {
       "id": "222328",
       "name": "Linda Noskova",
-      "rank": 10,
-      "prevRank": 13,
+      "rank": 12,
+      "prevRank": 10,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 79.0,
+      "activeScore": 78.7,
       "legendScore": 36.5,
       "age": 21,
       "surface": {
@@ -5805,50 +5805,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 77.0
     },
     {
-      "id": "210722",
-      "name": "Elise Mertens",
-      "rank": 26,
-      "prevRank": 24,
-      "country": "BEL",
-      "logo": "https://flagcdn.com/24x18/be.png",
-      "teamCode": "BEL",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "activeScore": 76.7,
-      "legendScore": 39.3,
-      "age": 30,
-      "surface": {
-        "hard": 0.635,
-        "clay": 0.55,
-        "grass": 0.8
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 10,
-        "weeks_no1": 0,
-        "top10_wins": 13
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 20,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 77.0
-    },
-    {
       "id": "260300",
       "name": "Iva Jovic",
-      "rank": 17,
+      "rank": 16,
       "prevRank": 17,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 76.4,
+      "activeScore": 76.6,
       "legendScore": 33.4,
       "age": 18,
       "surface": {
@@ -5863,7 +5829,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 21,
+      "prevListRank": 20,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -5873,16 +5839,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 76.4
     },
     {
+      "id": "210722",
+      "name": "Elise Mertens",
+      "rank": 27,
+      "prevRank": 26,
+      "country": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "teamCode": "BEL",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 76.6,
+      "legendScore": 39.3,
+      "age": 30,
+      "surface": {
+        "hard": 0.635,
+        "clay": 0.55,
+        "grass": 0.8
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 10,
+        "weeks_no1": 0,
+        "top10_wins": 13
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 21,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 77.0
+    },
+    {
       "id": "223670",
       "name": "Diana Shnaider",
-      "rank": 16,
+      "rank": 15,
       "prevRank": 16,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 76.3,
+      "activeScore": 76.4,
       "legendScore": 36.2,
       "age": 22,
       "surface": {
@@ -5909,14 +5909,14 @@ window.TENNIS_DATA = {
     {
       "id": "211148",
       "name": "Jasmine Paolini",
-      "rank": 14,
+      "rank": 17,
       "prevRank": 14,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
       "primary": "#009246",
       "secondary": "#FFFFFF",
-      "activeScore": 74.7,
+      "activeScore": 74.3,
       "legendScore": 38.3,
       "age": 30,
       "surface": {
@@ -5943,14 +5943,14 @@ window.TENNIS_DATA = {
     {
       "id": "201662",
       "name": "Karolina Pliskova",
-      "rank": 74,
-      "prevRank": 87,
+      "rank": 73,
+      "prevRank": 74,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 73.6,
+      "activeScore": 73.8,
       "legendScore": 67.2,
       "age": 34,
       "surface": {
@@ -5977,14 +5977,14 @@ window.TENNIS_DATA = {
     {
       "id": "213631",
       "name": "Marie Bouzkova",
-      "rank": 22,
-      "prevRank": 27,
+      "rank": 23,
+      "prevRank": 22,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 73.2,
+      "activeScore": 73.1,
       "legendScore": 30.7,
       "age": 27,
       "surface": {
@@ -6011,14 +6011,14 @@ window.TENNIS_DATA = {
     {
       "id": "215613",
       "name": "Emma Navarro",
-      "rank": 24,
-      "prevRank": 25,
+      "rank": 26,
+      "prevRank": 24,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 72.4,
+      "activeScore": 72.1,
       "legendScore": 37.7,
       "age": 25,
       "surface": {
@@ -6043,50 +6043,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 72.2
     },
     {
-      "id": "206252",
-      "name": "Barbora Krejcikova",
-      "rank": 37,
-      "prevRank": 39,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 72.0,
-      "legendScore": 51.5,
-      "age": 30,
-      "surface": {
-        "hard": 0.636,
-        "clay": 0.333,
-        "grass": 0.667
-      },
-      "stats": {
-        "gs": 2,
-        "titles": 8,
-        "weeks_no1": 0,
-        "top10_wins": 15
-      },
-      "leyendaScore": 7.4,
-      "prevListRank": 27,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 71.7
-    },
-    {
       "id": "211533",
       "name": "Jelena Ostapenko",
-      "rank": 35,
-      "prevRank": 38,
+      "rank": 31,
+      "prevRank": 35,
       "country": "LAT",
       "logo": "https://flagcdn.com/24x18/lv.png",
       "teamCode": "LAT",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 71.4,
+      "activeScore": 72.0,
       "legendScore": 52.1,
       "age": 29,
       "surface": {
@@ -6101,7 +6067,7 @@ window.TENNIS_DATA = {
         "top10_wins": 26
       },
       "leyendaScore": 3.7,
-      "prevListRank": 28,
+      "prevListRank": 27,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -6111,16 +6077,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 71.1
     },
     {
+      "id": "206252",
+      "name": "Barbora Krejcikova",
+      "rank": 38,
+      "prevRank": 37,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 71.8,
+      "legendScore": 51.5,
+      "age": 30,
+      "surface": {
+        "hard": 0.636,
+        "clay": 0.333,
+        "grass": 0.667
+      },
+      "stats": {
+        "gs": 2,
+        "titles": 8,
+        "weeks_no1": 0,
+        "top10_wins": 15
+      },
+      "leyendaScore": 7.4,
+      "prevListRank": 28,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 71.7
+    },
+    {
       "id": "221024",
       "name": "Hailey Baptiste",
-      "rank": 31,
-      "prevRank": 30,
+      "rank": 30,
+      "prevRank": 31,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 71.2,
+      "activeScore": 71.3,
       "legendScore": 31.6,
       "age": 24,
       "surface": {
@@ -6181,14 +6181,14 @@ window.TENNIS_DATA = {
     {
       "id": "220367",
       "name": "Leylah Fernandez",
-      "rank": 23,
-      "prevRank": 22,
+      "rank": 24,
+      "prevRank": 23,
       "country": "CAN",
       "logo": "https://flagcdn.com/24x18/ca.png",
       "teamCode": "CAN",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 69.6,
+      "activeScore": 69.4,
       "legendScore": 35.0,
       "age": 23,
       "surface": {
@@ -6215,14 +6215,14 @@ window.TENNIS_DATA = {
     {
       "id": "211713",
       "name": "Jaqueline Cristian",
-      "rank": 38,
-      "prevRank": 40,
+      "rank": 37,
+      "prevRank": 38,
       "country": "ROU",
       "logo": "https://flagcdn.com/24x18/ro.png",
       "teamCode": "ROU",
       "primary": "#002B7F",
       "secondary": "#FFFFFF",
-      "activeScore": 69.1,
+      "activeScore": 69.3,
       "legendScore": 22.4,
       "age": 28,
       "surface": {
@@ -6249,14 +6249,14 @@ window.TENNIS_DATA = {
     {
       "id": "223253",
       "name": "Alexandra Eala",
-      "rank": 30,
-      "prevRank": 35,
+      "rank": 32,
+      "prevRank": 30,
       "country": "PHI",
       "logo": "",
       "teamCode": "PHI",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 68.7,
+      "activeScore": 68.5,
       "legendScore": 11.3,
       "age": 21,
       "surface": {
@@ -6318,7 +6318,7 @@ window.TENNIS_DATA = {
       "id": "220704",
       "name": "Clara Tauson",
       "rank": 25,
-      "prevRank": 23,
+      "prevRank": 25,
       "country": "DEN",
       "logo": "https://flagcdn.com/24x18/dk.png",
       "teamCode": "DEN",
@@ -6349,44 +6349,78 @@ window.TENNIS_DATA = {
       "prevActiveScore": 67.9
     },
     {
-      "id": "221054",
-      "name": "Emma Raducanu",
-      "rank": 32,
-      "prevRank": 31,
-      "country": "GBR",
-      "logo": "https://flagcdn.com/24x18/gb.png",
-      "teamCode": "GBR",
-      "primary": "#012169",
+      "id": "221012",
+      "name": "Qinwen Zheng",
+      "rank": 138,
+      "prevRank": 153,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
       "secondary": "#FFFFFF",
-      "activeScore": 67.0,
-      "legendScore": 68.1,
+      "activeScore": 67.6,
+      "legendScore": 38.7,
       "age": 23,
       "surface": {
-        "hard": 0.522,
-        "clay": 0.5,
-        "grass": 0.625
+        "hard": 0.571,
+        "clay": 0.65,
+        "grass": null
       },
       "stats": {
-        "gs": 1,
-        "titles": 1,
+        "gs": 0,
+        "titles": 5,
         "weeks_no1": 0,
-        "top10_wins": 3
+        "top10_wins": 11
       },
-      "leyendaScore": 3.7,
+      "leyendaScore": 0.0,
       "prevListRank": 36,
+      "tournamentStatus": {
+        "tournament": "Lexus Eastbourne Open · Wimbledon",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 67.6
+    },
+    {
+      "id": "220520",
+      "name": "Mccartney Kessler",
+      "rank": 57,
+      "prevRank": 62,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 67.0,
+      "legendScore": 19.3,
+      "age": 26,
+      "surface": {
+        "hard": 0.577,
+        "clay": 0.357,
+        "grass": 0.75
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 37,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 67.1
+      "prevActiveScore": 68.6
     },
     {
       "id": "220548",
       "name": "Peyton Stearns",
       "rank": 63,
-      "prevRank": 64,
+      "prevRank": 63,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -6407,7 +6441,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 37,
+      "prevListRank": 38,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -6417,16 +6451,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 66.9
     },
     {
+      "id": "221054",
+      "name": "Emma Raducanu",
+      "rank": 33,
+      "prevRank": 32,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 66.9,
+      "legendScore": 68.1,
+      "age": 23,
+      "surface": {
+        "hard": 0.522,
+        "clay": 0.5,
+        "grass": 0.625
+      },
+      "stats": {
+        "gs": 1,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "leyendaScore": 3.7,
+      "prevListRank": 39,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 67.1
+    },
+    {
       "id": "220348",
       "name": "Diane Parry",
-      "rank": 47,
-      "prevRank": 60,
+      "rank": 49,
+      "prevRank": 47,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 66.6,
+      "activeScore": 66.4,
       "legendScore": 28.8,
       "age": 23,
       "surface": {
@@ -6441,7 +6509,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 38,
+      "prevListRank": 40,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -6451,44 +6519,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 65.0
     },
     {
-      "id": "220520",
-      "name": "Mccartney Kessler",
-      "rank": 62,
-      "prevRank": 44,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 66.4,
-      "legendScore": 19.3,
-      "age": 26,
-      "surface": {
-        "hard": 0.577,
-        "clay": 0.357,
-        "grass": 0.75
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 39,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 68.6
-    },
-    {
       "id": "201696",
       "name": "Laura Siegemund",
       "rank": 40,
-      "prevRank": 42,
+      "prevRank": 40,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
@@ -6509,7 +6543,7 @@ window.TENNIS_DATA = {
         "top10_wins": 13
       },
       "leyendaScore": 0.0,
-      "prevListRank": 40,
+      "prevListRank": 41,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -6519,118 +6553,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 65.9
     },
     {
-      "id": "220714",
-      "name": "Elisabetta Cocciaretto",
-      "rank": 44,
-      "prevRank": 46,
-      "country": "ITA",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "teamCode": "ITA",
-      "primary": "#009246",
-      "secondary": "#FFFFFF",
-      "activeScore": 66.0,
-      "legendScore": 26.4,
-      "age": 25,
-      "surface": {
-        "hard": 0.514,
-        "clay": 0.375,
-        "grass": 0.625
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 3
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 41,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 65.7
-    },
-    {
-      "id": "206289",
-      "name": "Maria Sakkari",
-      "rank": 39,
-      "prevRank": 41,
-      "country": "GRE",
-      "logo": "https://flagcdn.com/24x18/gr.png",
-      "teamCode": "GRE",
-      "primary": "#0D5EAF",
-      "secondary": "#FFFFFF",
-      "activeScore": 65.7,
-      "legendScore": 41.7,
-      "age": 30,
-      "surface": {
-        "hard": 0.444,
-        "clay": 0.444,
-        "grass": 0.5
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 30
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 42,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 65.5
-    },
-    {
-      "id": "211107",
-      "name": "Katie Boulter",
-      "rank": 59,
-      "prevRank": 56,
-      "country": "GBR",
-      "logo": "https://flagcdn.com/24x18/gb.png",
-      "teamCode": "GBR",
-      "primary": "#012169",
-      "secondary": "#FFFFFF",
-      "activeScore": 65.7,
-      "legendScore": 30.7,
-      "age": 29,
-      "surface": {
-        "hard": 0.5,
-        "clay": 0.429,
-        "grass": 0.571
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 4,
-        "weeks_no1": 0,
-        "top10_wins": 4
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 43,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 66.0
-    },
-    {
       "id": "215785",
       "name": "Camila Osorio",
-      "rank": 69,
-      "prevRank": 70,
+      "rank": 68,
+      "prevRank": 69,
       "country": "COL",
       "logo": "https://flagcdn.com/24x18/co.png",
       "teamCode": "COL",
       "primary": "#FCD116",
       "secondary": "#FFFFFF",
-      "activeScore": 65.7,
+      "activeScore": 65.8,
       "legendScore": 22.7,
       "age": 24,
       "surface": {
@@ -6645,7 +6577,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 44,
+      "prevListRank": 42,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -6655,28 +6587,96 @@ window.TENNIS_DATA = {
       "prevActiveScore": 65.6
     },
     {
-      "id": "223360",
-      "name": "Nikola Bartunkova",
+      "id": "220714",
+      "name": "Elisabetta Cocciaretto",
       "rank": 46,
-      "prevRank": 62,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
+      "prevRank": 44,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
       "secondary": "#FFFFFF",
-      "activeScore": 65.0,
-      "legendScore": 30.7,
-      "age": 20,
+      "activeScore": 65.7,
+      "legendScore": 26.4,
+      "age": 25,
       "surface": {
-        "hard": 0.571,
-        "clay": null,
-        "grass": null
+        "hard": 0.514,
+        "clay": 0.375,
+        "grass": 0.625
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 2,
         "weeks_no1": 0,
-        "top10_wins": 1
+        "top10_wins": 3
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 43,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 65.7
+    },
+    {
+      "id": "211107",
+      "name": "Katie Boulter",
+      "rank": 60,
+      "prevRank": 59,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 65.5,
+      "legendScore": 30.7,
+      "age": 29,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.429,
+        "grass": 0.571
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 4
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 44,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 66.0
+    },
+    {
+      "id": "206289",
+      "name": "Maria Sakkari",
+      "rank": 43,
+      "prevRank": 39,
+      "country": "GRE",
+      "logo": "https://flagcdn.com/24x18/gr.png",
+      "teamCode": "GRE",
+      "primary": "#0D5EAF",
+      "secondary": "#FFFFFF",
+      "activeScore": 65.3,
+      "legendScore": 41.7,
+      "age": 30,
+      "surface": {
+        "hard": 0.444,
+        "clay": 0.444,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 30
       },
       "leyendaScore": 0.0,
       "prevListRank": 45,
@@ -6686,31 +6686,31 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 63.0
+      "prevActiveScore": 65.5
     },
     {
-      "id": "220716",
-      "name": "Oleksandra Oliynykova",
-      "rank": 49,
-      "prevRank": 51,
-      "country": "UKR",
-      "logo": "https://flagcdn.com/24x18/ua.png",
-      "teamCode": "UKR",
-      "primary": "#005BBB",
+      "id": "214643",
+      "name": "Liudmila Samsonova",
+      "rank": 41,
+      "prevRank": 42,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 65.0,
-      "legendScore": 30.7,
-      "age": 25,
+      "activeScore": 64.9,
+      "legendScore": 38.3,
+      "age": 27,
       "surface": {
-        "hard": 0.6,
-        "clay": 0.5,
-        "grass": null
+        "hard": 0.452,
+        "clay": 0.524,
+        "grass": 0.7
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 5,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 10
       },
       "leyendaScore": 0.0,
       "prevListRank": 46,
@@ -6720,47 +6720,13 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 64.7
-    },
-    {
-      "id": "211701",
-      "name": "Katerina Siniakova",
-      "rank": 34,
-      "prevRank": 34,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 64.9,
-      "legendScore": 27.6,
-      "age": 30,
-      "surface": {
-        "hard": 0.513,
-        "clay": 0.333,
-        "grass": 0.429
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 5,
-        "weeks_no1": 0,
-        "top10_wins": 11
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 47,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 64.9
+      "prevActiveScore": 65.4
     },
     {
       "id": "266671",
       "name": "Laura Samson",
-      "rank": 146,
-      "prevRank": 147,
+      "rank": 147,
+      "prevRank": 146,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -6783,7 +6749,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 48,
+      "prevListRank": 47,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -6793,28 +6759,62 @@ window.TENNIS_DATA = {
       "prevActiveScore": 64.9
     },
     {
-      "id": "214643",
-      "name": "Liudmila Samsonova",
-      "rank": 42,
-      "prevRank": 37,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
+      "id": "223360",
+      "name": "Nikola Bartunkova",
+      "rank": 48,
+      "prevRank": 46,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
       "secondary": "#FFFFFF",
       "activeScore": 64.8,
-      "legendScore": 38.3,
-      "age": 27,
+      "legendScore": 30.7,
+      "age": 20,
       "surface": {
-        "hard": 0.452,
-        "clay": 0.524,
-        "grass": 0.7
+        "hard": 0.571,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 48,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 63.0
+    },
+    {
+      "id": "211701",
+      "name": "Katerina Siniakova",
+      "rank": 36,
+      "prevRank": 34,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 64.6,
+      "legendScore": 27.6,
+      "age": 30,
+      "surface": {
+        "hard": 0.513,
+        "clay": 0.333,
+        "grass": 0.429
       },
       "stats": {
         "gs": 0,
         "titles": 5,
         "weeks_no1": 0,
-        "top10_wins": 10
+        "top10_wins": 11
       },
       "leyendaScore": 0.0,
       "prevListRank": 49,
@@ -6824,13 +6824,47 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 65.4
+      "prevActiveScore": 64.9
+    },
+    {
+      "id": "220716",
+      "name": "Oleksandra Oliynykova",
+      "rank": 53,
+      "prevRank": 49,
+      "country": "UKR",
+      "logo": "https://flagcdn.com/24x18/ua.png",
+      "teamCode": "UKR",
+      "primary": "#005BBB",
+      "secondary": "#FFFFFF",
+      "activeScore": 64.4,
+      "legendScore": 30.7,
+      "age": 25,
+      "surface": {
+        "hard": 0.6,
+        "clay": 0.5,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 50,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 64.7
     },
     {
       "id": "202663",
       "name": "Magda Linette",
-      "rank": 58,
-      "prevRank": 48,
+      "rank": 59,
+      "prevRank": 58,
       "country": "POL",
       "logo": "https://flagcdn.com/24x18/pl.png",
       "teamCode": "POL",
@@ -6851,7 +6885,7 @@ window.TENNIS_DATA = {
         "top10_wins": 8
       },
       "leyendaScore": 0.0,
-      "prevListRank": 50,
+      "prevListRank": 51,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -6864,7 +6898,7 @@ window.TENNIS_DATA = {
       "id": "239383",
       "name": "Sara Bejlek",
       "rank": 45,
-      "prevRank": 47,
+      "prevRank": 45,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -6885,7 +6919,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 51,
+      "prevListRank": 52,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -6895,44 +6929,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 63.6
     },
     {
-      "id": "233741",
-      "name": "Maya Joint",
-      "rank": 53,
-      "prevRank": 53,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
-      "secondary": "#FFFFFF",
-      "activeScore": 63.8,
-      "legendScore": 13.5,
-      "age": 20,
-      "surface": {
-        "hard": 0.489,
-        "clay": 0.5,
-        "grass": 0.833
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 52,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 63.8
-    },
-    {
       "id": "216083",
       "name": "Caty Mcnally",
       "rank": 50,
-      "prevRank": 54,
+      "prevRank": 50,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -6965,14 +6965,14 @@ window.TENNIS_DATA = {
     {
       "id": "203501",
       "name": "Taylor Townsend",
-      "rank": 81,
+      "rank": 79,
       "prevRank": 81,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 62.8,
+      "activeScore": 63.0,
       "legendScore": 23.0,
       "age": 30,
       "surface": {
@@ -6997,10 +6997,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 62.8
     },
     {
+      "id": "238184",
+      "name": "Tereza Valentova",
+      "rank": 54,
+      "prevRank": 61,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 62.5,
+      "legendScore": 30.7,
+      "age": 19,
+      "surface": {
+        "hard": 0.591,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 55,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 61.5
+    },
+    {
       "id": "221333",
       "name": "Solana Sierra",
       "rank": 56,
-      "prevRank": 58,
+      "prevRank": 56,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
@@ -7021,7 +7055,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 55,
+      "prevListRank": 56,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -7034,7 +7068,7 @@ window.TENNIS_DATA = {
       "id": "263857",
       "name": "Yuliia Starodubtseva",
       "rank": 55,
-      "prevRank": 59,
+      "prevRank": 55,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
@@ -7055,7 +7089,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 56,
+      "prevListRank": 57,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -7065,50 +7099,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 61.5
     },
     {
-      "id": "238184",
-      "name": "Tereza Valentova",
-      "rank": 61,
-      "prevRank": 63,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 61.6,
-      "legendScore": 30.7,
-      "age": 19,
-      "surface": {
-        "hard": 0.591,
-        "clay": 0.333,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 57,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 61.5
-    },
-    {
       "id": "215035",
       "name": "Dayana Yastremska",
-      "rank": 66,
-      "prevRank": 50,
+      "rank": 67,
+      "prevRank": 66,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
       "primary": "#005BBB",
       "secondary": "#FFFFFF",
-      "activeScore": 61.6,
+      "activeScore": 61.5,
       "legendScore": 31.3,
       "age": 26,
       "surface": {
@@ -7135,16 +7135,16 @@ window.TENNIS_DATA = {
     {
       "id": "202499",
       "name": "Donna Vekic",
-      "rank": 33,
+      "rank": 34,
       "prevRank": 33,
       "country": "CRO",
       "logo": "https://flagcdn.com/24x18/hr.png",
       "teamCode": "CRO",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 61.5,
+      "activeScore": 61.4,
       "legendScore": 35.3,
-      "age": 29,
+      "age": 30,
       "surface": {
         "hard": 0.345,
         "clay": 0.5,
@@ -7169,14 +7169,14 @@ window.TENNIS_DATA = {
     {
       "id": "220332",
       "name": "Eva Lys",
-      "rank": 77,
-      "prevRank": 80,
+      "rank": 76,
+      "prevRank": 77,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 61.1,
+      "activeScore": 61.3,
       "legendScore": 26.1,
       "age": 24,
       "surface": {
@@ -7201,50 +7201,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 60.8
     },
     {
-      "id": "222045",
-      "name": "Antonia Ruzic",
-      "rank": 60,
-      "prevRank": 57,
-      "country": "CRO",
-      "logo": "https://flagcdn.com/24x18/hr.png",
-      "teamCode": "CRO",
-      "primary": "#FF0000",
+      "id": "230319",
+      "name": "Xinyu",
+      "rank": 39,
+      "prevRank": 52,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
       "secondary": "#FFFFFF",
-      "activeScore": 61.0,
-      "legendScore": 15.3,
-      "age": 23,
+      "activeScore": 61.1,
+      "legendScore": 0.0,
+      "age": null,
       "surface": {
-        "hard": 0.5,
-        "clay": 0.375,
+        "hard": null,
+        "clay": null,
         "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 1
+        "top10_wins": 0
       },
       "leyendaScore": 0.0,
       "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "tournament": "Lexus Eastbourne Open · Wimbledon",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 61.4
+      "prevActiveScore": 62.0
     },
     {
       "id": "211843",
       "name": "Anhelina Kalinina",
-      "rank": 70,
-      "prevRank": 71,
+      "rank": 66,
+      "prevRank": 70,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
       "primary": "#005BBB",
       "secondary": "#FFFFFF",
-      "activeScore": 60.7,
+      "activeScore": 61.1,
       "legendScore": 23.9,
       "age": 29,
       "surface": {
@@ -7269,16 +7269,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 60.5
     },
     {
+      "id": "222045",
+      "name": "Antonia Ruzic",
+      "rank": 61,
+      "prevRank": 60,
+      "country": "CRO",
+      "logo": "https://flagcdn.com/24x18/hr.png",
+      "teamCode": "CRO",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 60.9,
+      "legendScore": 15.3,
+      "age": 23,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.375,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 63,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 61.4
+    },
+    {
       "id": "211337",
       "name": "Tamara Korpatsch",
-      "rank": 79,
-      "prevRank": 78,
+      "rank": 78,
+      "prevRank": 79,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 60.1,
+      "activeScore": 60.2,
       "legendScore": 20.2,
       "age": 31,
       "surface": {
@@ -7293,7 +7327,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 63,
+      "prevListRank": 64,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -7303,84 +7337,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 60.2
     },
     {
-      "id": "220750",
-      "name": "Daria Snigur",
-      "rank": 78,
-      "prevRank": 75,
-      "country": "UKR",
-      "logo": "https://flagcdn.com/24x18/ua.png",
-      "teamCode": "UKR",
-      "primary": "#005BBB",
-      "secondary": "#FFFFFF",
-      "activeScore": 59.6,
-      "legendScore": 23.3,
-      "age": 24,
-      "surface": {
-        "hard": 0.5,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 64,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 60.0
-    },
-    {
-      "id": "230319",
-      "name": "Xinyu",
-      "rank": 52,
-      "prevRank": 32,
-      "country": "CHN",
-      "logo": "https://flagcdn.com/24x18/cn.png",
-      "teamCode": "CHN",
-      "primary": "#DE2910",
-      "secondary": "#FFFFFF",
-      "activeScore": 59.5,
-      "legendScore": 0.0,
-      "age": null,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 65,
-      "tournamentStatus": {
-        "tournament": "Lexus Eastbourne Open · Wimbledon",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 62.0
-    },
-    {
       "id": "220309",
       "name": "Zeynep Sonmez",
-      "rank": 54,
-      "prevRank": 61,
+      "rank": 51,
+      "prevRank": 54,
       "country": "TUR",
       "logo": "https://flagcdn.com/24x18/tr.png",
       "teamCode": "TUR",
       "primary": "#E30A17",
       "secondary": "#FFFFFF",
-      "activeScore": 59.5,
+      "activeScore": 60.0,
       "legendScore": 25.8,
       "age": 24,
       "surface": {
@@ -7395,7 +7361,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 66,
+      "prevListRank": 65,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -7405,10 +7371,112 @@ window.TENNIS_DATA = {
       "prevActiveScore": 58.7
     },
     {
+      "id": "220750",
+      "name": "Daria Snigur",
+      "rank": 77,
+      "prevRank": 78,
+      "country": "UKR",
+      "logo": "https://flagcdn.com/24x18/ua.png",
+      "teamCode": "UKR",
+      "primary": "#005BBB",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.7,
+      "legendScore": 23.3,
+      "age": 24,
+      "surface": {
+        "hard": 0.5,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 66,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 60.0
+    },
+    {
+      "id": "233741",
+      "name": "Maya Joint",
+      "rank": 87,
+      "prevRank": 53,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.6,
+      "legendScore": 13.5,
+      "age": 20,
+      "surface": {
+        "hard": 0.489,
+        "clay": 0.5,
+        "grass": 0.833
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 67,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 63.8
+    },
+    {
+      "id": "211817",
+      "name": "Elena Gabriela Ruse",
+      "rank": 71,
+      "prevRank": 105,
+      "country": "ROU",
+      "logo": "https://flagcdn.com/24x18/ro.png",
+      "teamCode": "ROU",
+      "primary": "#002B7F",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.5,
+      "legendScore": 20.9,
+      "age": 28,
+      "surface": {
+        "hard": 0.292,
+        "clay": 0.562,
+        "grass": 0.667
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 68,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 55.9
+    },
+    {
       "id": "213525",
       "name": "Jil Teichmann",
-      "rank": 126,
-      "prevRank": 130,
+      "rank": 124,
+      "prevRank": 126,
       "country": "SUI",
       "logo": "https://flagcdn.com/24x18/ch.png",
       "teamCode": "SUI",
@@ -7429,7 +7497,7 @@ window.TENNIS_DATA = {
         "top10_wins": 9
       },
       "leyendaScore": 0.0,
-      "prevListRank": 67,
+      "prevListRank": 69,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -7441,14 +7509,14 @@ window.TENNIS_DATA = {
     {
       "id": "214388",
       "name": "Anna Bondar",
-      "rank": 75,
-      "prevRank": 74,
+      "rank": 74,
+      "prevRank": 75,
       "country": "HUN",
       "logo": "https://flagcdn.com/24x18/hu.png",
       "teamCode": "HUN",
       "primary": "#477050",
       "secondary": "#FFFFFF",
-      "activeScore": 59.1,
+      "activeScore": 59.3,
       "legendScore": 16.3,
       "age": 29,
       "surface": {
@@ -7463,7 +7531,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 68,
+      "prevListRank": 70,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -7473,44 +7541,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 59.3
     },
     {
-      "id": "222601",
-      "name": "Jessica Bouzas Maneiro",
-      "rank": 48,
-      "prevRank": 55,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
-      "secondary": "#FFFFFF",
-      "activeScore": 58.8,
-      "legendScore": 31.3,
-      "age": 23,
-      "surface": {
-        "hard": 0.415,
-        "clay": 0.545,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 3
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 69,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 58.0
-    },
-    {
       "id": "214954",
       "name": "Marketa Vondrousova",
-      "rank": 122,
-      "prevRank": 49,
+      "rank": 120,
+      "prevRank": 122,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -7518,7 +7552,7 @@ window.TENNIS_DATA = {
       "secondary": "#FFFFFF",
       "activeScore": 58.7,
       "legendScore": 50.0,
-      "age": 26,
+      "age": 27,
       "surface": {
         "hard": 0.55,
         "clay": null,
@@ -7533,7 +7567,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 19,
       "inactivePenalty": 15.0,
       "leyendaScore": 3.7,
-      "prevListRank": 70,
+      "prevListRank": 71,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -7543,84 +7577,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 65.0
     },
     {
-      "id": "260172",
-      "name": "Lilli Tagger",
-      "rank": 83,
-      "prevRank": 84,
-      "country": "AUT",
-      "logo": "https://flagcdn.com/24x18/at.png",
-      "teamCode": "AUT",
-      "primary": "#ED2939",
-      "secondary": "#FFFFFF",
-      "activeScore": 58.4,
-      "legendScore": 0.0,
-      "age": 18,
-      "surface": {
-        "hard": 0.667,
-        "clay": 0.333,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 71,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 58.2
-    },
-    {
-      "id": "211684",
-      "name": "Magdalena Frech",
-      "rank": 43,
-      "prevRank": 45,
-      "country": "POL",
-      "logo": "https://flagcdn.com/24x18/pl.png",
-      "teamCode": "POL",
-      "primary": "#DC143C",
-      "secondary": "#FFFFFF",
-      "activeScore": 58.2,
-      "legendScore": 29.1,
-      "age": 28,
-      "surface": {
-        "hard": 0.439,
-        "clay": 0.375,
-        "grass": 0.2
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 72,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 58.0
-    },
-    {
       "id": "203530",
       "name": "Viktorija Golubic",
-      "rank": 64,
-      "prevRank": 76,
+      "rank": 62,
+      "prevRank": 64,
       "country": "SUI",
       "logo": "https://flagcdn.com/24x18/ch.png",
       "teamCode": "SUI",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 58.2,
+      "activeScore": 58.5,
       "legendScore": 20.6,
       "age": 33,
       "surface": {
@@ -7635,7 +7601,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 73,
+      "prevListRank": 72,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -7645,84 +7611,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 56.7
     },
     {
-      "id": "213710",
-      "name": "Cristina Bucsa",
-      "rank": 36,
-      "prevRank": 36,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
+      "id": "260172",
+      "name": "Lilli Tagger",
+      "rank": 82,
+      "prevRank": 83,
+      "country": "AUT",
+      "logo": "https://flagcdn.com/24x18/at.png",
+      "teamCode": "AUT",
+      "primary": "#ED2939",
       "secondary": "#FFFFFF",
-      "activeScore": 58.1,
-      "legendScore": 27.3,
-      "age": 28,
+      "activeScore": 58.5,
+      "legendScore": 0.0,
+      "age": 18,
       "surface": {
-        "hard": 0.474,
-        "clay": 0.125,
-        "grass": 0.5
+        "hard": 0.667,
+        "clay": 0.333,
+        "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 1,
+        "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 1
+        "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 74,
-      "tournamentStatus": {
-        "tournament": "Lexus Eastbourne Open · Wimbledon",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 58.1
-    },
-    {
-      "id": "214082",
-      "name": "Daria Kasatkina",
-      "rank": 68,
-      "prevRank": 69,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
-      "secondary": "#FFFFFF",
-      "activeScore": 58.0,
-      "legendScore": 52.8,
-      "age": 29,
-      "surface": {
-        "hard": 0.471,
-        "clay": 0.474,
-        "grass": 0.333
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 8,
-        "weeks_no1": 0,
-        "top10_wins": 24
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 75,
+      "prevListRank": 73,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
-      "prevActiveScore": 57.8
+      "prevActiveScore": 58.2
     },
     {
       "id": "238075",
       "name": "Petra Marcinko",
-      "rank": 51,
-      "prevRank": 52,
+      "rank": 47,
+      "prevRank": 51,
       "country": "CRO",
       "logo": "https://flagcdn.com/24x18/hr.png",
       "teamCode": "CRO",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 57.9,
+      "activeScore": 58.4,
       "legendScore": 20.2,
       "age": 20,
       "surface": {
@@ -7737,7 +7669,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 76,
+      "prevListRank": 74,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -7747,28 +7679,96 @@ window.TENNIS_DATA = {
       "prevActiveScore": 57.8
     },
     {
-      "id": "221883",
-      "name": "Talia Gibson",
-      "rank": 57,
-      "prevRank": 66,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
+      "id": "213710",
+      "name": "Cristina Bucsa",
+      "rank": 35,
+      "prevRank": 36,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "activeScore": 57.6,
-      "legendScore": 15.3,
-      "age": 22,
+      "activeScore": 58.3,
+      "legendScore": 27.3,
+      "age": 28,
       "surface": {
-        "hard": 0.5,
-        "clay": 0.2,
+        "hard": 0.474,
+        "clay": 0.125,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 75,
+      "tournamentStatus": {
+        "tournament": "Lexus Eastbourne Open · Wimbledon",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 58.1
+    },
+    {
+      "id": "222601",
+      "name": "Jessica Bouzas Maneiro",
+      "rank": 52,
+      "prevRank": 48,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.3,
+      "legendScore": 31.3,
+      "age": 23,
+      "surface": {
+        "hard": 0.415,
+        "clay": 0.545,
         "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 1
+        "top10_wins": 3
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 76,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 58.0
+    },
+    {
+      "id": "214082",
+      "name": "Daria Kasatkina",
+      "rank": 65,
+      "prevRank": 68,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.3,
+      "legendScore": 52.8,
+      "age": 29,
+      "surface": {
+        "hard": 0.471,
+        "clay": 0.474,
+        "grass": 0.333
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 8,
+        "weeks_no1": 0,
+        "top10_wins": 24
       },
       "leyendaScore": 0.0,
       "prevListRank": 77,
@@ -7778,19 +7778,53 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": "Eliminado en R128"
       },
-      "prevActiveScore": 56.5
+      "prevActiveScore": 57.8
+    },
+    {
+      "id": "211684",
+      "name": "Magdalena Frech",
+      "rank": 44,
+      "prevRank": 43,
+      "country": "POL",
+      "logo": "https://flagcdn.com/24x18/pl.png",
+      "teamCode": "POL",
+      "primary": "#DC143C",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.1,
+      "legendScore": 29.1,
+      "age": 28,
+      "surface": {
+        "hard": 0.439,
+        "clay": 0.375,
+        "grass": 0.2
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 78,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 58.0
     },
     {
       "id": "201533",
       "name": "Shuai Zhang",
-      "rank": 67,
+      "rank": 64,
       "prevRank": 67,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
       "primary": "#DE2910",
       "secondary": "#FFFFFF",
-      "activeScore": 57.3,
+      "activeScore": 57.6,
       "legendScore": 29.4,
       "age": 37,
       "surface": {
@@ -7805,7 +7839,7 @@ window.TENNIS_DATA = {
         "top10_wins": 8
       },
       "leyendaScore": 0.0,
-      "prevListRank": 78,
+      "prevListRank": 79,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -7815,50 +7849,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 57.3
     },
     {
-      "id": "222145",
-      "name": "Janice Tjen",
-      "rank": 41,
-      "prevRank": 43,
-      "country": "INA",
-      "logo": "",
-      "teamCode": "INA",
-      "primary": "#555555",
+      "id": "221883",
+      "name": "Talia Gibson",
+      "rank": 58,
+      "prevRank": 57,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 56.6,
-      "legendScore": 24.5,
-      "age": 24,
+      "activeScore": 57.5,
+      "legendScore": 15.3,
+      "age": 22,
       "surface": {
-        "hard": 0.556,
-        "clay": 0.286,
+        "hard": 0.5,
+        "clay": 0.2,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 1,
+        "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 79,
+      "prevListRank": 80,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
-      "prevActiveScore": 56.4
+      "prevActiveScore": 56.5
     },
     {
       "id": "215910",
       "name": "Panna Udvardy",
-      "rank": 71,
-      "prevRank": 68,
+      "rank": 69,
+      "prevRank": 71,
       "country": "HUN",
       "logo": "https://flagcdn.com/24x18/hu.png",
       "teamCode": "HUN",
       "primary": "#477050",
       "secondary": "#FFFFFF",
-      "activeScore": 56.6,
+      "activeScore": 56.9,
       "legendScore": 4.9,
       "age": 27,
       "surface": {
@@ -7873,7 +7907,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 80,
+      "prevListRank": 81,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -7883,62 +7917,28 @@ window.TENNIS_DATA = {
       "prevActiveScore": 57.0
     },
     {
-      "id": "211817",
-      "name": "Elena Gabriela Ruse",
-      "rank": 105,
-      "prevRank": 105,
-      "country": "ROU",
-      "logo": "https://flagcdn.com/24x18/ro.png",
-      "teamCode": "ROU",
-      "primary": "#002B7F",
+      "id": "222145",
+      "name": "Janice Tjen",
+      "rank": 42,
+      "prevRank": 41,
+      "country": "INA",
+      "logo": "",
+      "teamCode": "INA",
+      "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 55.9,
-      "legendScore": 20.9,
-      "age": 28,
+      "activeScore": 56.5,
+      "legendScore": 24.5,
+      "age": 24,
       "surface": {
-        "hard": 0.292,
-        "clay": 0.562,
-        "grass": 0.667
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 81,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 55.9
-    },
-    {
-      "id": "219917",
-      "name": "Alycia Parks",
-      "rank": 80,
-      "prevRank": 79,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 55.8,
-      "legendScore": 22.1,
-      "age": 25,
-      "surface": {
-        "hard": 0.442,
-        "clay": 0.389,
+        "hard": 0.556,
+        "clay": 0.286,
         "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 1,
         "weeks_no1": 0,
-        "top10_wins": 2
+        "top10_wins": 0
       },
       "leyendaScore": 0.0,
       "prevListRank": 82,
@@ -7946,21 +7946,21 @@ window.TENNIS_DATA = {
         "tournament": "Wimbledon",
         "state": "alive",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
-      "prevActiveScore": 55.8
+      "prevActiveScore": 56.4
     },
     {
       "id": "214040",
       "name": "Kimberly Birrell",
-      "rank": 73,
+      "rank": 72,
       "prevRank": 73,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
       "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 55.6,
+      "activeScore": 55.7,
       "legendScore": 14.4,
       "age": 28,
       "surface": {
@@ -7985,16 +7985,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 55.6
     },
     {
-      "id": "221909",
-      "name": "Ashlyn Krueger",
-      "rank": 96,
-      "prevRank": 95,
+      "id": "219917",
+      "name": "Alycia Parks",
+      "rank": 81,
+      "prevRank": 80,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
       "activeScore": 55.6,
+      "legendScore": 22.1,
+      "age": 25,
+      "surface": {
+        "hard": 0.442,
+        "clay": 0.389,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 84,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 55.8
+    },
+    {
+      "id": "221909",
+      "name": "Ashlyn Krueger",
+      "rank": 102,
+      "prevRank": 96,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.1,
       "legendScore": 19.6,
       "age": 22,
       "surface": {
@@ -8009,7 +8043,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 84,
+      "prevListRank": 85,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -8021,8 +8055,8 @@ window.TENNIS_DATA = {
     {
       "id": "221354",
       "name": "Lisa Pigato",
-      "rank": 134,
-      "prevRank": 135,
+      "rank": 133,
+      "prevRank": 134,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -8043,7 +8077,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 85,
+      "prevListRank": 86,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8053,50 +8087,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 54.2
     },
     {
-      "id": "215872",
-      "name": "Kamilla Rakhimova",
-      "rank": 65,
-      "prevRank": 65,
-      "country": "UZB",
-      "logo": "https://flagcdn.com/24x18/uz.png",
-      "teamCode": "UZB",
-      "primary": "#1EB53A",
-      "secondary": "#FFFFFF",
-      "activeScore": 53.5,
-      "legendScore": 23.0,
-      "age": 24,
-      "surface": {
-        "hard": 0.259,
-        "clay": 0.364,
-        "grass": 0.571
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 86,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 53.5
-    },
-    {
       "id": "201709",
       "name": "Yulia Putintseva",
-      "rank": 85,
+      "rank": 84,
       "prevRank": 85,
       "country": "KAZ",
       "logo": "https://flagcdn.com/24x18/kz.png",
       "teamCode": "KAZ",
       "primary": "#00AFCA",
       "secondary": "#FFFFFF",
-      "activeScore": 53.4,
+      "activeScore": 53.5,
       "legendScore": 34.4,
       "age": 31,
       "surface": {
@@ -8121,43 +8121,9 @@ window.TENNIS_DATA = {
       "prevActiveScore": 53.4
     },
     {
-      "id": "252499",
-      "name": "Alina Korneeva",
-      "rank": 94,
-      "prevRank": 97,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "activeScore": 53.3,
-      "legendScore": 30.7,
-      "age": 19,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 88,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 52.9
-    },
-    {
       "id": "213550",
       "name": "Sofia Kenin",
-      "rank": 104,
+      "rank": 105,
       "prevRank": 104,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
@@ -8179,7 +8145,7 @@ window.TENNIS_DATA = {
         "top10_wins": 14
       },
       "leyendaScore": 3.7,
-      "prevListRank": 89,
+      "prevListRank": 88,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -8189,10 +8155,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 53.3
     },
     {
+      "id": "213887",
+      "name": "Renata Zarazua",
+      "rank": 75,
+      "prevRank": 76,
+      "country": "MEX",
+      "logo": "https://flagcdn.com/24x18/mx.png",
+      "teamCode": "MEX",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.1,
+      "legendScore": 19.3,
+      "age": 28,
+      "surface": {
+        "hard": 0.379,
+        "clay": 0.286,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 89,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 52.9
+    },
+    {
       "id": "236957",
       "name": "Lola Radivojevic",
-      "rank": 147,
-      "prevRank": 150,
+      "rank": 148,
+      "prevRank": 147,
       "country": "SRB",
       "logo": "https://flagcdn.com/24x18/rs.png",
       "teamCode": "SRB",
@@ -8223,44 +8223,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 53.1
     },
     {
-      "id": "213887",
-      "name": "Renata Zarazua",
-      "rank": 76,
-      "prevRank": 77,
-      "country": "MEX",
-      "logo": "https://flagcdn.com/24x18/mx.png",
-      "teamCode": "MEX",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "activeScore": 53.0,
-      "legendScore": 19.3,
-      "age": 28,
-      "surface": {
-        "hard": 0.379,
-        "clay": 0.286,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 91,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 52.9
-    },
-    {
       "id": "211651",
       "name": "Paula Badosa",
-      "rank": 140,
-      "prevRank": 142,
+      "rank": 141,
+      "prevRank": 140,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -8283,7 +8249,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 92,
+      "prevListRank": 91,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -8293,16 +8259,84 @@ window.TENNIS_DATA = {
       "prevActiveScore": 53.0
     },
     {
+      "id": "215872",
+      "name": "Kamilla Rakhimova",
+      "rank": 70,
+      "prevRank": 65,
+      "country": "UZB",
+      "logo": "https://flagcdn.com/24x18/uz.png",
+      "teamCode": "UZB",
+      "primary": "#1EB53A",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.9,
+      "legendScore": 23.0,
+      "age": 24,
+      "surface": {
+        "hard": 0.259,
+        "clay": 0.364,
+        "grass": 0.571
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 92,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 53.5
+    },
+    {
+      "id": "252499",
+      "name": "Alina Korneeva",
+      "rank": 98,
+      "prevRank": 94,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.8,
+      "legendScore": 30.7,
+      "age": 19,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 93,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 52.9
+    },
+    {
       "id": "201548",
       "name": "Ajla Tomljanovic",
-      "rank": 98,
-      "prevRank": 96,
+      "rank": 94,
+      "prevRank": 98,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
       "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 52.1,
+      "activeScore": 52.5,
       "legendScore": 29.8,
       "age": 33,
       "surface": {
@@ -8317,7 +8351,7 @@ window.TENNIS_DATA = {
         "top10_wins": 6
       },
       "leyendaScore": 0.0,
-      "prevListRank": 93,
+      "prevListRank": 94,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -8329,8 +8363,8 @@ window.TENNIS_DATA = {
     {
       "id": "215453",
       "name": "Marina Bassols Ribera",
-      "rank": 143,
-      "prevRank": 144,
+      "rank": 144,
+      "prevRank": 143,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -8351,7 +8385,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 94,
+      "prevListRank": 95,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8363,8 +8397,8 @@ window.TENNIS_DATA = {
     {
       "id": "222966",
       "name": "Dominika Salkova",
-      "rank": 128,
-      "prevRank": 119,
+      "rank": 126,
+      "prevRank": 128,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -8372,7 +8406,7 @@ window.TENNIS_DATA = {
       "secondary": "#FFFFFF",
       "activeScore": 51.4,
       "legendScore": 0.0,
-      "age": 21,
+      "age": 22,
       "surface": {
         "hard": 0.625,
         "clay": null,
@@ -8387,7 +8421,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 95,
+      "prevListRank": 96,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8397,44 +8431,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 51.4
     },
     {
-      "id": "221407",
-      "name": "Oksana Selekhmeteva",
-      "rank": 89,
-      "prevRank": 89,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
+      "id": "213583",
+      "name": "Tatjana Maria",
+      "rank": 96,
+      "prevRank": 112,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
       "secondary": "#FFFFFF",
       "activeScore": 50.5,
-      "legendScore": 15.3,
-      "age": 23,
+      "legendScore": 21.8,
+      "age": 38,
       "surface": {
-        "hard": 0.417,
-        "clay": null,
-        "grass": null
+        "hard": 0.267,
+        "clay": 0.421,
+        "grass": 0.714
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 4,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 6
       },
       "leyendaScore": 0.0,
-      "prevListRank": 96,
+      "prevListRank": 97,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 50.5
+      "prevActiveScore": 50.0
     },
     {
       "id": "247669",
       "name": "Veronika Podrez",
-      "rank": 144,
-      "prevRank": 145,
+      "rank": 145,
+      "prevRank": 144,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
@@ -8457,7 +8491,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 97,
+      "prevListRank": 98,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8467,46 +8501,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 50.5
     },
     {
-      "id": "201499",
-      "name": "Anastasia Pavlyuchenkova",
-      "rank": 114,
-      "prevRank": 113,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "activeScore": 50.4,
-      "legendScore": 45.4,
-      "age": 34,
-      "surface": {
-        "hard": 0.3,
-        "clay": 0.2,
-        "grass": 0.778
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 12,
-        "weeks_no1": 0,
-        "top10_wins": 34
-      },
-      "inactiveWeeks": 5,
-      "inactivePenalty": 3.7,
-      "leyendaScore": 0.0,
-      "prevListRank": 98,
-      "tournamentStatus": {
-        "tournament": "Lexus Eastbourne Open · Wimbledon",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 50.4
-    },
-    {
       "id": "203514",
       "name": "Katarzyna Kawa",
-      "rank": 121,
-      "prevRank": 120,
+      "rank": 119,
+      "prevRank": 121,
       "country": "POL",
       "logo": "https://flagcdn.com/24x18/pl.png",
       "teamCode": "POL",
@@ -8539,16 +8537,52 @@ window.TENNIS_DATA = {
       "prevActiveScore": 50.4
     },
     {
+      "id": "201499",
+      "name": "Anastasia Pavlyuchenkova",
+      "rank": 128,
+      "prevRank": 114,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.4,
+      "legendScore": 45.4,
+      "age": 34,
+      "surface": {
+        "hard": 0.3,
+        "clay": 0.2,
+        "grass": 0.778
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 12,
+        "weeks_no1": 0,
+        "top10_wins": 34
+      },
+      "inactiveWeeks": 5,
+      "inactivePenalty": 3.7,
+      "leyendaScore": 0.0,
+      "prevListRank": 100,
+      "tournamentStatus": {
+        "tournament": "Lexus Eastbourne Open · Wimbledon",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 50.4
+    },
+    {
       "id": "221039",
       "name": "Elsa Jacquemot",
-      "rank": 82,
+      "rank": 80,
       "prevRank": 82,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 50.0,
+      "activeScore": 50.2,
       "legendScore": 23.6,
       "age": 23,
       "surface": {
@@ -8563,7 +8597,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 100,
+      "prevListRank": 101,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -8573,10 +8607,78 @@ window.TENNIS_DATA = {
       "prevActiveScore": 50.0
     },
     {
+      "id": "221407",
+      "name": "Oksana Selekhmeteva",
+      "rank": 91,
+      "prevRank": 89,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.2,
+      "legendScore": 15.3,
+      "age": 23,
+      "surface": {
+        "hard": 0.417,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 102,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 50.5
+    },
+    {
+      "id": "215306",
+      "name": "Emiliana Arango",
+      "rank": 97,
+      "prevRank": 101,
+      "country": "COL",
+      "logo": "https://flagcdn.com/24x18/co.png",
+      "teamCode": "COL",
+      "primary": "#FCD116",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.0,
+      "legendScore": 10.1,
+      "age": 25,
+      "surface": {
+        "hard": 0.393,
+        "clay": 0.467,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 103,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 49.6
+    },
+    {
       "id": "215020",
       "name": "Anna Blinkova",
-      "rank": 107,
-      "prevRank": 106,
+      "rank": 114,
+      "prevRank": 107,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -8597,7 +8699,7 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 101,
+      "prevListRank": 104,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -8605,82 +8707,12 @@ window.TENNIS_DATA = {
         "reason": ""
       },
       "prevActiveScore": 50.0
-    },
-    {
-      "id": "213583",
-      "name": "Tatjana Maria",
-      "rank": 112,
-      "prevRank": 117,
-      "country": "GER",
-      "logo": "https://flagcdn.com/24x18/de.png",
-      "teamCode": "GER",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "activeScore": 50.0,
-      "legendScore": 21.8,
-      "age": 38,
-      "surface": {
-        "hard": 0.267,
-        "clay": 0.421,
-        "grass": 0.714
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 4,
-        "weeks_no1": 0,
-        "top10_wins": 6
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 102,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 50.0
-    },
-    {
-      "id": "210622",
-      "name": "Andrea Lazaro Garcia",
-      "rank": 150,
-      "prevRank": 151,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
-      "secondary": "#FFFFFF",
-      "activeScore": 50.0,
-      "legendScore": 0.0,
-      "age": 31,
-      "surface": {
-        "hard": null,
-        "clay": 0.8,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 35,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 103,
-      "tournamentStatus": {
-        "tournament": "Lexus Eastbourne Open · Wimbledon",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 65.0
     },
     {
       "id": "211685",
       "name": "Rebecca Sramkova",
-      "rank": 136,
-      "prevRank": 122,
+      "rank": 139,
+      "prevRank": 136,
       "country": "SVK",
       "logo": "https://flagcdn.com/24x18/sk.png",
       "teamCode": "SVK",
@@ -8701,7 +8733,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 104,
+      "prevListRank": 105,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8713,8 +8745,8 @@ window.TENNIS_DATA = {
     {
       "id": "223194",
       "name": "Taylah Preston",
-      "rank": 119,
-      "prevRank": 124,
+      "rank": 117,
+      "prevRank": 119,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -8737,7 +8769,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 105,
+      "prevListRank": 106,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8747,44 +8779,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 49.8
     },
     {
-      "id": "215306",
-      "name": "Emiliana Arango",
-      "rank": 101,
-      "prevRank": 100,
-      "country": "COL",
-      "logo": "https://flagcdn.com/24x18/co.png",
-      "teamCode": "COL",
-      "primary": "#FCD116",
-      "secondary": "#FFFFFF",
-      "activeScore": 49.6,
-      "legendScore": 10.1,
-      "age": 25,
-      "surface": {
-        "hard": 0.393,
-        "clay": 0.467,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 106,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 49.6
-    },
-    {
       "id": "259733",
       "name": "Kaitlin Quevedo",
-      "rank": 106,
-      "prevRank": 107,
+      "rank": 107,
+      "prevRank": 106,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -8817,8 +8815,8 @@ window.TENNIS_DATA = {
     {
       "id": "243420",
       "name": "Hanne Vandewinkel",
-      "rank": 100,
-      "prevRank": 98,
+      "rank": 103,
+      "prevRank": 100,
       "country": "BEL",
       "logo": "https://flagcdn.com/24x18/be.png",
       "teamCode": "BEL",
@@ -8851,14 +8849,14 @@ window.TENNIS_DATA = {
     {
       "id": "222661",
       "name": "Sonay Kartal",
-      "rank": 84,
-      "prevRank": 83,
+      "rank": 83,
+      "prevRank": 84,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
       "primary": "#012169",
       "secondary": "#FFFFFF",
-      "activeScore": 48.1,
+      "activeScore": 48.3,
       "legendScore": 26.4,
       "age": 24,
       "surface": {
@@ -8885,16 +8883,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 48.3
     },
     {
+      "id": "220435",
+      "name": "Anastasia Zakharova",
+      "rank": 85,
+      "prevRank": 91,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.6,
+      "legendScore": 27.0,
+      "age": 24,
+      "surface": {
+        "hard": 0.385,
+        "clay": 0.2,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 110,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 47.0
+    },
+    {
       "id": "215899",
       "name": "Simona Waltert",
-      "rank": 88,
+      "rank": 90,
       "prevRank": 88,
       "country": "SUI",
       "logo": "https://flagcdn.com/24x18/ch.png",
       "teamCode": "SUI",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 47.7,
+      "activeScore": 47.4,
       "legendScore": 12.3,
       "age": 25,
       "surface": {
@@ -8909,7 +8941,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 110,
+      "prevListRank": 111,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -8921,8 +8953,8 @@ window.TENNIS_DATA = {
     {
       "id": "214906",
       "name": "Claire Liu",
-      "rank": 145,
-      "prevRank": 146,
+      "rank": 146,
+      "prevRank": 145,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -8943,7 +8975,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 111,
+      "prevListRank": 112,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -8956,7 +8988,7 @@ window.TENNIS_DATA = {
       "id": "263644",
       "name": "Emerson Jones",
       "rank": 135,
-      "prevRank": 136,
+      "prevRank": 135,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -8977,7 +9009,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 112,
+      "prevListRank": 113,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -8987,44 +9019,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 47.1
     },
     {
-      "id": "220435",
-      "name": "Anastasia Zakharova",
-      "rank": 91,
-      "prevRank": 90,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "activeScore": 46.9,
-      "legendScore": 27.0,
-      "age": 24,
-      "surface": {
-        "hard": 0.385,
-        "clay": 0.2,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 113,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 47.0
-    },
-    {
       "id": "206368",
       "name": "Veronika Kudermetova",
-      "rank": 113,
-      "prevRank": 112,
+      "rank": 115,
+      "prevRank": 113,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -9057,44 +9055,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 46.8
     },
     {
-      "id": "220465",
-      "name": "Katie Volynets",
-      "rank": 99,
-      "prevRank": 102,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 46.7,
-      "legendScore": 16.9,
-      "age": 24,
-      "surface": {
-        "hard": 0.333,
-        "clay": 0.375,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 115,
-      "tournamentStatus": {
-        "tournament": "Lexus Eastbourne Open · Wimbledon",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 46.6
-    },
-    {
       "id": "205925",
       "name": "Aliaksandra Sasnovich",
-      "rank": 124,
-      "prevRank": 121,
+      "rank": 122,
+      "prevRank": 124,
       "country": "BLR",
       "logo": "https://flagcdn.com/24x18/by.png",
       "teamCode": "BLR",
@@ -9117,7 +9081,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 116,
+      "prevListRank": 115,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -9127,44 +9091,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 46.7
     },
     {
-      "id": "230870",
-      "name": "Ella Seidel",
-      "rank": 97,
-      "prevRank": 94,
-      "country": "GER",
-      "logo": "https://flagcdn.com/24x18/de.png",
-      "teamCode": "GER",
-      "primary": "#000000",
+      "id": "220465",
+      "name": "Katie Volynets",
+      "rank": 101,
+      "prevRank": 99,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 46.1,
-      "legendScore": 0.0,
-      "age": 21,
+      "activeScore": 46.6,
+      "legendScore": 16.9,
+      "age": 24,
       "surface": {
-        "hard": 0.5,
-        "clay": 0.167,
+        "hard": 0.333,
+        "clay": 0.375,
         "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 117,
+      "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Lexus Eastbourne Open · Wimbledon",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 46.5
+      "prevActiveScore": 46.6
     },
     {
       "id": "206242",
       "name": "Beatriz Haddad Maia",
-      "rank": 117,
-      "prevRank": 116,
+      "rank": 134,
+      "prevRank": 117,
       "country": "BRA",
       "logo": "https://flagcdn.com/24x18/br.png",
       "teamCode": "BRA",
@@ -9185,7 +9149,7 @@ window.TENNIS_DATA = {
         "top10_wins": 12
       },
       "leyendaScore": 0.0,
-      "prevListRank": 118,
+      "prevListRank": 117,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -9195,10 +9159,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 46.0
     },
     {
+      "id": "230870",
+      "name": "Ella Seidel",
+      "rank": 100,
+      "prevRank": 97,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 45.8,
+      "legendScore": 0.0,
+      "age": 21,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.167,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 118,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 46.5
+    },
+    {
       "id": "216016",
       "name": "Xiyu Wang",
       "rank": 86,
-      "prevRank": 101,
+      "prevRank": 86,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
@@ -9231,8 +9229,8 @@ window.TENNIS_DATA = {
     {
       "id": "214459",
       "name": "Lucia Bronzetti",
-      "rank": 127,
-      "prevRank": 126,
+      "rank": 125,
+      "prevRank": 127,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -9266,7 +9264,7 @@ window.TENNIS_DATA = {
       "id": "221257",
       "name": "Sinja Kraus",
       "rank": 93,
-      "prevRank": 92,
+      "prevRank": 93,
       "country": "AUT",
       "logo": "https://flagcdn.com/24x18/at.png",
       "teamCode": "AUT",
@@ -9299,7 +9297,7 @@ window.TENNIS_DATA = {
     {
       "id": "223286",
       "name": "Victoria Jimenez Kasintseva",
-      "rank": 111,
+      "rank": 110,
       "prevRank": 111,
       "country": "AND",
       "logo": "",
@@ -9335,8 +9333,8 @@ window.TENNIS_DATA = {
     {
       "id": "220722",
       "name": "Elvina Kalieva",
-      "rank": 137,
-      "prevRank": 138,
+      "rank": 136,
+      "prevRank": 137,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -9371,14 +9369,14 @@ window.TENNIS_DATA = {
     {
       "id": "221237",
       "name": "Maria Timofeeva",
-      "rank": 92,
-      "prevRank": 91,
+      "rank": 95,
+      "prevRank": 92,
       "country": "UZB",
       "logo": "https://flagcdn.com/24x18/uz.png",
       "teamCode": "UZB",
       "primary": "#1EB53A",
       "secondary": "#FFFFFF",
-      "activeScore": 44.2,
+      "activeScore": 43.7,
       "legendScore": 30.7,
       "age": 22,
       "surface": {
@@ -9407,8 +9405,8 @@ window.TENNIS_DATA = {
     {
       "id": "215936",
       "name": "Francesca Jones",
-      "rank": 103,
-      "prevRank": 99,
+      "rank": 106,
+      "prevRank": 103,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
@@ -9439,46 +9437,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 43.2
     },
     {
-      "id": "219875",
-      "name": "Varvara Gracheva",
-      "rank": 72,
-      "prevRank": 72,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
-      "secondary": "#FFFFFF",
-      "activeScore": 42.8,
-      "legendScore": 31.0,
-      "age": 25,
-      "surface": {
-        "hard": 0.4,
-        "clay": 0.4,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 4
-      },
-      "inactiveWeeks": 10,
-      "inactivePenalty": 13.7,
-      "leyendaScore": 0.0,
-      "prevListRank": 126,
-      "tournamentStatus": {
-        "tournament": "Lexus Eastbourne Open · Wimbledon",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 42.8
-    },
-    {
       "id": "213646",
       "name": "Dalma Galfi",
-      "rank": 115,
-      "prevRank": 114,
+      "rank": 111,
+      "prevRank": 115,
       "country": "HUN",
       "logo": "https://flagcdn.com/24x18/hu.png",
       "teamCode": "HUN",
@@ -9499,7 +9461,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 127,
+      "prevListRank": 126,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -9512,7 +9474,7 @@ window.TENNIS_DATA = {
       "id": "220416",
       "name": "Moyuka Uchijima",
       "rank": 108,
-      "prevRank": 109,
+      "prevRank": 108,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "teamCode": "JPN",
@@ -9533,7 +9495,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 128,
+      "prevListRank": 127,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -9545,8 +9507,8 @@ window.TENNIS_DATA = {
     {
       "id": "221406",
       "name": "Alina Charaeva",
-      "rank": 120,
-      "prevRank": 128,
+      "rank": 118,
+      "prevRank": 120,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -9569,7 +9531,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 129,
+      "prevListRank": 128,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -9581,8 +9543,8 @@ window.TENNIS_DATA = {
     {
       "id": "206417",
       "name": "Leolia Jeanjean",
-      "rank": 133,
-      "prevRank": 129,
+      "rank": 132,
+      "prevRank": 133,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -9603,7 +9565,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 130,
+      "prevListRank": 129,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -9615,14 +9577,14 @@ window.TENNIS_DATA = {
     {
       "id": "220662",
       "name": "Veronika Erjavec",
-      "rank": 87,
-      "prevRank": 86,
+      "rank": 89,
+      "prevRank": 87,
       "country": "SLO",
       "logo": "https://flagcdn.com/24x18/si.png",
       "teamCode": "SLO",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 41.5,
+      "activeScore": 41.2,
       "legendScore": 12.3,
       "age": 26,
       "surface": {
@@ -9637,7 +9599,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 131,
+      "prevListRank": 130,
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
@@ -9649,7 +9611,7 @@ window.TENNIS_DATA = {
     {
       "id": "206294",
       "name": "Yue Yuan",
-      "rank": 123,
+      "rank": 121,
       "prevRank": 123,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
@@ -9673,7 +9635,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 132,
+      "prevListRank": 131,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -9683,9 +9645,45 @@ window.TENNIS_DATA = {
       "prevActiveScore": 41.1
     },
     {
+      "id": "219875",
+      "name": "Varvara Gracheva",
+      "rank": 88,
+      "prevRank": 72,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 40.9,
+      "legendScore": 31.0,
+      "age": 25,
+      "surface": {
+        "hard": 0.4,
+        "clay": 0.4,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 4
+      },
+      "inactiveWeeks": 10,
+      "inactivePenalty": 13.7,
+      "leyendaScore": 0.0,
+      "prevListRank": 132,
+      "tournamentStatus": {
+        "tournament": "Lexus Eastbourne Open · Wimbledon",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 42.8
+    },
+    {
       "id": "221124",
       "name": "Himeno Sakatsume",
-      "rank": 125,
+      "rank": 123,
       "prevRank": 125,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
@@ -9721,8 +9719,8 @@ window.TENNIS_DATA = {
     {
       "id": "221985",
       "name": "Darja Semenistaja",
-      "rank": 102,
-      "prevRank": 103,
+      "rank": 104,
+      "prevRank": 102,
       "country": "LAT",
       "logo": "https://flagcdn.com/24x18/lv.png",
       "teamCode": "LAT",
@@ -9757,7 +9755,7 @@ window.TENNIS_DATA = {
     {
       "id": "211880",
       "name": "Priscilla Hon",
-      "rank": 149,
+      "rank": 150,
       "prevRank": 149,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
@@ -9793,8 +9791,8 @@ window.TENNIS_DATA = {
     {
       "id": "215037",
       "name": "Kayla Day",
-      "rank": 138,
-      "prevRank": 139,
+      "rank": 137,
+      "prevRank": 138,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -9827,46 +9825,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 38.9
     },
     {
-      "id": "222290",
-      "name": "Lanlana Tararudee",
-      "rank": 95,
-      "prevRank": 93,
-      "country": "THA",
-      "logo": "https://flagcdn.com/24x18/th.png",
-      "teamCode": "THA",
-      "primary": "#A51931",
-      "secondary": "#FFFFFF",
-      "activeScore": 38.0,
-      "legendScore": 0.0,
-      "age": 21,
-      "surface": {
-        "hard": 0.5,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 12,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 137,
-      "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 38.3
-    },
-    {
       "id": "220742",
       "name": "Leyre Romero Gormaz",
-      "rank": 142,
-      "prevRank": 143,
+      "rank": 143,
+      "prevRank": 142,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -9889,7 +9851,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 45,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 138,
+      "prevListRank": 137,
       "tournamentStatus": {
         "tournament": "Lexus Eastbourne Open · Wimbledon",
         "state": "out",
@@ -9899,9 +9861,45 @@ window.TENNIS_DATA = {
       "prevActiveScore": 37.9
     },
     {
+      "id": "222290",
+      "name": "Lanlana Tararudee",
+      "rank": 99,
+      "prevRank": 95,
+      "country": "THA",
+      "logo": "https://flagcdn.com/24x18/th.png",
+      "teamCode": "THA",
+      "primary": "#A51931",
+      "secondary": "#FFFFFF",
+      "activeScore": 37.5,
+      "legendScore": 0.0,
+      "age": 21,
+      "surface": {
+        "hard": 0.5,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 12,
+      "inactivePenalty": 15.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 138,
+      "tournamentStatus": {
+        "tournament": "Wimbledon",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 38.3
+    },
+    {
       "id": "211814",
       "name": "Julia Grabher",
-      "rank": 118,
+      "rank": 116,
       "prevRank": 118,
       "country": "AUT",
       "logo": "https://flagcdn.com/24x18/at.png",
@@ -9936,7 +9934,7 @@ window.TENNIS_DATA = {
       "id": "215480",
       "name": "Suzan Lamens",
       "rank": 129,
-      "prevRank": 134,
+      "prevRank": 129,
       "country": "NED",
       "logo": "https://flagcdn.com/24x18/nl.png",
       "teamCode": "NED",
@@ -9971,8 +9969,8 @@ window.TENNIS_DATA = {
     {
       "id": "214461",
       "name": "Tamara Zidansek",
-      "rank": 132,
-      "prevRank": 133,
+      "rank": 131,
+      "prevRank": 132,
       "country": "SLO",
       "logo": "https://flagcdn.com/24x18/si.png",
       "teamCode": "SLO",
@@ -10007,8 +10005,8 @@ window.TENNIS_DATA = {
     {
       "id": "223168",
       "name": "Mary Stoiana",
-      "rank": 131,
-      "prevRank": 132,
+      "rank": 130,
+      "prevRank": 131,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -10043,8 +10041,8 @@ window.TENNIS_DATA = {
     {
       "id": "222233",
       "name": "Marina Stakusic",
-      "rank": 139,
-      "prevRank": 140,
+      "rank": 140,
+      "prevRank": 139,
       "country": "CAN",
       "logo": "https://flagcdn.com/24x18/ca.png",
       "teamCode": "CAN",
@@ -10079,8 +10077,8 @@ window.TENNIS_DATA = {
     {
       "id": "215138",
       "name": "Lulu Sun",
-      "rank": 109,
-      "prevRank": 110,
+      "rank": 112,
+      "prevRank": 109,
       "country": "NZL",
       "logo": "https://flagcdn.com/24x18/nz.png",
       "teamCode": "NZL",
@@ -10115,8 +10113,8 @@ window.TENNIS_DATA = {
     {
       "id": "202684",
       "name": "Lin Zhu",
-      "rank": 141,
-      "prevRank": 137,
+      "rank": 142,
+      "prevRank": 141,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
@@ -10151,8 +10149,8 @@ window.TENNIS_DATA = {
     {
       "id": "221236",
       "name": "Polina Kudermetova",
-      "rank": 116,
-      "prevRank": 115,
+      "rank": 113,
+      "prevRank": 116,
       "country": "UZB",
       "logo": "https://flagcdn.com/24x18/uz.png",
       "teamCode": "UZB",
@@ -10187,8 +10185,8 @@ window.TENNIS_DATA = {
     {
       "id": "221307",
       "name": "Darja Vidmanova",
-      "rank": 90,
-      "prevRank": 108,
+      "rank": 92,
+      "prevRank": 90,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -10223,8 +10221,8 @@ window.TENNIS_DATA = {
     {
       "id": "210886",
       "name": "Mayar Sherif",
-      "rank": 110,
-      "prevRank": 127,
+      "rank": 109,
+      "prevRank": 110,
       "country": "EGY",
       "logo": "https://flagcdn.com/24x18/eg.png",
       "teamCode": "EGY",
@@ -10257,8 +10255,8 @@ window.TENNIS_DATA = {
     {
       "id": "215219",
       "name": "Kaja Juvan",
-      "rank": 130,
-      "prevRank": 131,
+      "rank": 127,
+      "prevRank": 130,
       "country": "SLO",
       "logo": "https://flagcdn.com/24x18/si.png",
       "teamCode": "SLO",
@@ -10293,7 +10291,7 @@ window.TENNIS_DATA = {
     {
       "id": "213666",
       "name": "Maddison Inglis",
-      "rank": 148,
+      "rank": 149,
       "prevRank": 148,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
@@ -10336,22 +10334,22 @@ window.TENNIS_DATA = {
   "WTA_CHANGES": {
     "entered": [
       {
-        "name": "Linda Noskova",
-        "rank": 10,
+        "name": "Karolina Muchova",
+        "rank": 9,
         "country": "CZE",
         "logo": "https://flagcdn.com/24x18/cz.png"
       }
     ],
     "exited": [
       {
-        "name": "Karolina Muchova",
+        "name": "Linda Noskova",
         "rank": 10,
         "country": "CZE",
         "logo": "https://flagcdn.com/24x18/cz.png"
       }
     ],
     "prev_date": "",
-    "curr_date": "20260618"
+    "curr_date": "20260625"
   },
   "ATP_LEGENDS": [
     {
@@ -10889,78 +10887,30 @@ window.TENNIS_DATA = {
       }
     }
   ],
-  "ATP_RECENT": [
+  "ATP_RECENT": [],
+  "ATP_TODAY": [
     {
       "name": "Lexus Eastbourne Open",
       "level": "500",
       "surface": "Grass",
       "matches": [
         {
-          "round": "Semifinal",
+          "round": "F",
           "w": "Ugo Humbert",
           "w_logo": "",
-          "l": "Jack Draper",
+          "l": "Zizou Bergs",
           "l_logo": "",
-          "score": "7-5 6-3",
-          "day": "ayer",
-          "scheduled": false,
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
           "w_score": 66.4,
-          "l_score": null,
+          "l_score": 60.4,
           "match_score": 66.4
-        },
-        {
-          "round": "Semifinal",
-          "w": "Zizou Bergs",
-          "w_logo": "",
-          "l": "Toby Samuel",
-          "l_logo": "",
-          "score": "4-6 7-6 (7-5) 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 60.4,
-          "l_score": 47.6,
-          "match_score": 60.4
         }
       ]
     }
   ],
-  "ATP_TODAY": [],
   "WTA_RECENT": [
-    {
-      "name": "Lexus Eastbourne Open",
-      "level": "500",
-      "surface": "Grass",
-      "matches": [
-        {
-          "round": "Semifinal",
-          "w": "Madison Keys",
-          "w_logo": "",
-          "l": "Petra Marcinko",
-          "l_logo": "",
-          "score": "6-1 ret",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 80.6,
-          "l_score": 57.9,
-          "match_score": 80.6
-        },
-        {
-          "round": "Semifinal",
-          "w": "Tatjana Maria",
-          "w_logo": "",
-          "l": "Jelena Ostapenko",
-          "l_logo": "",
-          "score": "6-1 1-2 ret",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 50.0,
-          "l_score": 71.4,
-          "match_score": 71.4
-        }
-      ]
-    }
-  ],
-  "WTA_TODAY": [
     {
       "name": "Lexus Eastbourne Open",
       "level": "500",
@@ -10973,15 +10923,16 @@ window.TENNIS_DATA = {
           "l": "Tatjana Maria",
           "l_logo": "",
           "score": "7-5 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
-          "w_score": 80.6,
-          "l_score": 50.0,
-          "match_score": 80.6
+          "w_score": 81.3,
+          "l_score": 50.5,
+          "match_score": 81.3
         }
       ]
     }
   ],
+  "WTA_TODAY": [],
   "ATP_TOURNAMENT": {
     "name": "Lexus Eastbourne Open · Wimbledon",
     "level": "500",
@@ -11332,6 +11283,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         100.0
+      ],
+      [
+        "20260628",
+        100.0
       ]
     ],
     "207989": [
@@ -11377,6 +11332,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        91.0
+      ],
+      [
+        "20260628",
         91.0
       ]
     ],
@@ -11424,6 +11383,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         87.4
+      ],
+      [
+        "20260628",
+        87.4
       ]
     ],
     "104925": [
@@ -11469,6 +11432,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        87.3
+      ],
+      [
+        "20260628",
         87.3
       ]
     ],
@@ -11516,6 +11483,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         82.4
+      ],
+      [
+        "20260628",
+        82.4
       ]
     ],
     "134770": [
@@ -11561,6 +11532,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        81.3
+      ],
+      [
+        "20260628",
         81.3
       ]
     ],
@@ -11608,6 +11583,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         79.4
+      ],
+      [
+        "20260628",
+        79.4
       ]
     ],
     "126205": [
@@ -11653,6 +11632,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        79.4
+      ],
+      [
+        "20260628",
         79.4
       ]
     ],
@@ -11700,6 +11683,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         78.5
+      ],
+      [
+        "20260628",
+        78.5
       ]
     ],
     "200000": [
@@ -11745,6 +11732,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        77.6
+      ],
+      [
+        "20260628",
         77.6
       ]
     ],
@@ -11792,6 +11783,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         77.5
+      ],
+      [
+        "20260628",
+        77.5
       ]
     ],
     "200282": [
@@ -11837,6 +11832,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        76.9
+      ],
+      [
+        "20260628",
         76.9
       ]
     ],
@@ -11884,6 +11883,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         76.4
+      ],
+      [
+        "20260628",
+        76.4
       ]
     ],
     "208103": [
@@ -11929,6 +11932,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        76.1
+      ],
+      [
+        "20260628",
         76.1
       ]
     ],
@@ -11976,6 +11983,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         75.9
+      ],
+      [
+        "20260628",
+        75.9
       ]
     ],
     "126203": [
@@ -12021,6 +12032,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        75.8
+      ],
+      [
+        "20260628",
         75.8
       ]
     ],
@@ -12068,6 +12083,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         75.4
+      ],
+      [
+        "20260628",
+        75.4
       ]
     ],
     "126094": [
@@ -12113,6 +12132,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        75.3
+      ],
+      [
+        "20260628",
         75.3
       ]
     ],
@@ -12160,6 +12183,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         74.7
+      ],
+      [
+        "20260628",
+        74.7
       ]
     ],
     "200473": [
@@ -12205,6 +12232,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        74.6
+      ],
+      [
+        "20260628",
         74.6
       ]
     ],
@@ -12252,6 +12283,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         74.3
+      ],
+      [
+        "20260628",
+        74.3
       ]
     ],
     "202103": [
@@ -12297,6 +12332,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        73.9
+      ],
+      [
+        "20260628",
         73.9
       ]
     ],
@@ -12344,6 +12383,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         73.5
+      ],
+      [
+        "20260628",
+        73.5
       ]
     ],
     "200221": [
@@ -12389,6 +12432,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        72.4
+      ],
+      [
+        "20260628",
         72.4
       ]
     ],
@@ -12436,6 +12483,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         72.0
+      ],
+      [
+        "20260628",
+        72.0
       ]
     ],
     "111575": [
@@ -12481,6 +12532,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        70.1
+      ],
+      [
+        "20260628",
         70.1
       ]
     ],
@@ -12528,6 +12583,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         68.3
+      ],
+      [
+        "20260628",
+        68.3
       ]
     ],
     "206909": [
@@ -12573,6 +12632,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        67.5
+      ],
+      [
+        "20260628",
         67.5
       ]
     ],
@@ -12620,6 +12683,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         67.5
+      ],
+      [
+        "20260628",
+        67.5
       ]
     ],
     "111815": [
@@ -12665,6 +12732,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        67.2
+      ],
+      [
+        "20260628",
         67.2
       ]
     ],
@@ -12712,6 +12783,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         66.6
+      ],
+      [
+        "20260628",
+        66.6
       ]
     ],
     "209260": [
@@ -12757,6 +12832,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        66.4
+      ],
+      [
+        "20260628",
         66.4
       ]
     ],
@@ -12804,6 +12883,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         66.4
+      ],
+      [
+        "20260628",
+        66.4
       ]
     ],
     "126214": [
@@ -12849,6 +12932,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        66.2
+      ],
+      [
+        "20260628",
         66.2
       ]
     ],
@@ -12896,6 +12983,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         66.1
+      ],
+      [
+        "20260628",
+        66.1
       ]
     ],
     "210506": [
@@ -12941,6 +13032,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        66.1
+      ],
+      [
+        "20260628",
         66.1
       ]
     ],
@@ -12988,6 +13083,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         65.8
+      ],
+      [
+        "20260628",
+        65.8
       ]
     ],
     "126239": [
@@ -13033,6 +13132,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        65.5
+      ],
+      [
+        "20260628",
         65.5
       ]
     ],
@@ -13080,6 +13183,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         65.1
+      ],
+      [
+        "20260628",
+        65.1
       ]
     ],
     "208363": [
@@ -13125,6 +13232,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        65.0
+      ],
+      [
+        "20260628",
         65.0
       ]
     ],
@@ -13172,6 +13283,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         64.9
+      ],
+      [
+        "20260628",
+        64.9
       ]
     ],
     "144719": [
@@ -13217,6 +13332,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        64.3
+      ],
+      [
+        "20260628",
         64.3
       ]
     ],
@@ -13264,6 +13383,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         63.9
+      ],
+      [
+        "20260628",
+        63.9
       ]
     ],
     "209920": [
@@ -13310,6 +13433,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         63.4
+      ],
+      [
+        "20260628",
+        63.4
       ]
     ],
     "210084": [
@@ -13347,6 +13474,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        62.9
+      ],
+      [
+        "20260628",
         62.9
       ]
     ],
@@ -13394,6 +13525,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         62.5
+      ],
+      [
+        "20260628",
+        62.5
       ]
     ],
     "144684": [
@@ -13439,6 +13574,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        62.5
+      ],
+      [
+        "20260628",
         62.5
       ]
     ],
@@ -13486,6 +13625,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         62.4
+      ],
+      [
+        "20260628",
+        62.4
       ]
     ],
     "105870": [
@@ -13531,6 +13674,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        62.2
+      ],
+      [
+        "20260628",
         62.2
       ]
     ],
@@ -13578,6 +13725,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         61.4
+      ],
+      [
+        "20260628",
+        61.4
       ]
     ],
     "207678": [
@@ -13623,6 +13774,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        61.0
+      ],
+      [
+        "20260628",
         61.0
       ]
     ],
@@ -13670,6 +13825,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         61.0
+      ],
+      [
+        "20260628",
+        61.0
       ]
     ],
     "209414": [
@@ -13715,6 +13874,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        61.0
+      ],
+      [
+        "20260628",
         61.0
       ]
     ],
@@ -13762,6 +13925,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         61.0
+      ],
+      [
+        "20260628",
+        61.0
       ]
     ],
     "200267": [
@@ -13807,6 +13974,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        60.4
+      ],
+      [
+        "20260628",
         60.4
       ]
     ],
@@ -13854,6 +14025,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         60.4
+      ],
+      [
+        "20260628",
+        60.4
       ]
     ],
     "111794": [
@@ -13899,6 +14074,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        60.2
+      ],
+      [
+        "20260628",
         60.2
       ]
     ],
@@ -13946,6 +14125,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         60.1
+      ],
+      [
+        "20260628",
+        60.1
       ]
     ],
     "128034": [
@@ -13991,6 +14174,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        60.1
+      ],
+      [
+        "20260628",
         60.1
       ]
     ],
@@ -14038,6 +14225,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         59.6
+      ],
+      [
+        "20260628",
+        59.6
       ]
     ],
     "209279": [
@@ -14083,6 +14274,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        59.3
+      ],
+      [
+        "20260628",
         59.3
       ]
     ],
@@ -14130,6 +14325,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         59.3
+      ],
+      [
+        "20260628",
+        59.3
       ]
     ],
     "202385": [
@@ -14175,6 +14374,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        59.3
+      ],
+      [
+        "20260628",
         59.3
       ]
     ],
@@ -14222,6 +14425,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         59.2
+      ],
+      [
+        "20260628",
+        59.2
       ]
     ],
     "208118": [
@@ -14267,6 +14474,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        58.9
+      ],
+      [
+        "20260628",
         58.9
       ]
     ],
@@ -14314,6 +14525,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         58.2
+      ],
+      [
+        "20260628",
+        58.2
       ]
     ],
     "208882": [
@@ -14360,6 +14575,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         58.2
+      ],
+      [
+        "20260628",
+        58.2
       ]
     ],
     "211776": [
@@ -14397,6 +14616,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        58.1
+      ],
+      [
+        "20260628",
         58.1
       ]
     ],
@@ -14444,6 +14667,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         58.0
+      ],
+      [
+        "20260628",
+        58.0
       ]
     ],
     "200175": [
@@ -14490,6 +14717,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         57.5
+      ],
+      [
+        "20260628",
+        57.5
       ]
     ],
     "200059": [
@@ -14527,6 +14758,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        57.4
+      ],
+      [
+        "20260628",
         57.4
       ]
     ],
@@ -14574,6 +14809,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         57.4
+      ],
+      [
+        "20260628",
+        57.4
       ]
     ],
     "209976": [
@@ -14619,6 +14858,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        56.8
+      ],
+      [
+        "20260628",
         56.8
       ]
     ],
@@ -14666,6 +14909,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         56.6
+      ],
+      [
+        "20260628",
+        56.6
       ]
     ],
     "208169": [
@@ -14711,6 +14958,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        56.5
+      ],
+      [
+        "20260628",
         56.5
       ]
     ],
@@ -14758,6 +15009,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         56.3
+      ],
+      [
+        "20260628",
+        56.3
       ]
     ],
     "207411": [
@@ -14803,6 +15058,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        56.2
+      ],
+      [
+        "20260628",
         56.2
       ]
     ],
@@ -14850,6 +15109,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         55.9
+      ],
+      [
+        "20260628",
+        55.9
       ]
     ],
     "105807": [
@@ -14896,6 +15159,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         55.8
+      ],
+      [
+        "20260628",
+        55.8
       ]
     ],
     "120770": [
@@ -14933,6 +15200,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        55.3
+      ],
+      [
+        "20260628",
         55.3
       ]
     ],
@@ -14980,6 +15251,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         55.2
+      ],
+      [
+        "20260628",
+        55.2
       ]
     ],
     "105173": [
@@ -15025,6 +15300,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        55.1
+      ],
+      [
+        "20260628",
         55.1
       ]
     ],
@@ -15072,6 +15351,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         55.1
+      ],
+      [
+        "20260628",
+        55.1
       ]
     ],
     "127157": [
@@ -15117,6 +15400,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        55.0
+      ],
+      [
+        "20260628",
         55.0
       ]
     ],
@@ -15164,6 +15451,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         54.8
+      ],
+      [
+        "20260628",
+        54.8
       ]
     ],
     "106218": [
@@ -15209,6 +15500,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        54.6
+      ],
+      [
+        "20260628",
         54.6
       ]
     ],
@@ -15256,6 +15551,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         54.4
+      ],
+      [
+        "20260628",
+        54.4
       ]
     ],
     "208029": [
@@ -15301,6 +15600,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        54.4
+      ],
+      [
+        "20260628",
         54.4
       ]
     ],
@@ -15348,6 +15651,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         54.2
+      ],
+      [
+        "20260628",
+        54.2
       ]
     ],
     "206499": [
@@ -15393,6 +15700,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        54.1
+      ],
+      [
+        "20260628",
         54.1
       ]
     ],
@@ -15440,6 +15751,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         54.0
+      ],
+      [
+        "20260628",
+        54.0
       ]
     ],
     "209147": [
@@ -15486,6 +15801,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         53.8
+      ],
+      [
+        "20260628",
+        53.8
       ]
     ],
     "206736": [
@@ -15515,6 +15834,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        53.6
+      ],
+      [
+        "20260628",
         53.6
       ]
     ],
@@ -15562,6 +15885,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         53.5
+      ],
+      [
+        "20260628",
+        53.5
       ]
     ],
     "111460": [
@@ -15608,6 +15935,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         53.4
+      ],
+      [
+        "20260628",
+        53.4
       ]
     ],
     "208597": [
@@ -15645,6 +15976,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        53.4
+      ],
+      [
+        "20260628",
         53.4
       ]
     ],
@@ -15692,6 +16027,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         53.4
+      ],
+      [
+        "20260628",
+        53.4
       ]
     ],
     "210262": [
@@ -15737,6 +16076,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        53.2
+      ],
+      [
+        "20260628",
         53.2
       ]
     ],
@@ -15784,6 +16127,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         53.0
+      ],
+      [
+        "20260628",
+        53.0
       ]
     ],
     "207494": [
@@ -15829,6 +16176,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        52.9
+      ],
+      [
+        "20260628",
         52.9
       ]
     ],
@@ -15876,6 +16227,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         52.4
+      ],
+      [
+        "20260628",
+        52.4
       ]
     ],
     "105477": [
@@ -15921,6 +16276,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        51.7
+      ],
+      [
+        "20260628",
         51.7
       ]
     ],
@@ -15968,6 +16327,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         51.7
+      ],
+      [
+        "20260628",
+        51.7
       ]
     ],
     "210116": [
@@ -16013,6 +16376,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        51.6
+      ],
+      [
+        "20260628",
         51.6
       ]
     ],
@@ -16060,6 +16427,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         51.3
+      ],
+      [
+        "20260628",
+        51.3
       ]
     ],
     "207182": [
@@ -16105,6 +16476,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        51.2
+      ],
+      [
+        "20260628",
         51.2
       ]
     ],
@@ -16152,6 +16527,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         51.0
+      ],
+      [
+        "20260628",
+        51.0
       ]
     ],
     "208353": [
@@ -16197,6 +16576,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        50.9
+      ],
+      [
+        "20260628",
         50.9
       ]
     ],
@@ -16244,6 +16627,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         50.6
+      ],
+      [
+        "20260628",
+        50.6
       ]
     ],
     "105932": [
@@ -16289,6 +16676,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        50.6
+      ],
+      [
+        "20260628",
         50.6
       ]
     ],
@@ -16336,6 +16727,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         50.6
+      ],
+      [
+        "20260628",
+        50.6
       ]
     ],
     "102093": [
@@ -16381,6 +16776,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        50.2
+      ],
+      [
+        "20260628",
         50.2
       ]
     ],
@@ -16428,6 +16827,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         49.8
+      ],
+      [
+        "20260628",
+        49.8
       ]
     ],
     "207680": [
@@ -16473,6 +16876,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        49.2
+      ],
+      [
+        "20260628",
         49.2
       ]
     ],
@@ -16520,6 +16927,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         49.1
+      ],
+      [
+        "20260628",
+        49.1
       ]
     ],
     "126128": [
@@ -16565,6 +16976,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        48.7
+      ],
+      [
+        "20260628",
         48.7
       ]
     ],
@@ -16612,6 +17027,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         48.0
+      ],
+      [
+        "20260628",
+        48.0
       ]
     ],
     "105902": [
@@ -16657,6 +17076,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        47.8
+      ],
+      [
+        "20260628",
         47.8
       ]
     ],
@@ -16704,6 +17127,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         47.8
+      ],
+      [
+        "20260628",
+        47.8
       ]
     ],
     "200514": [
@@ -16733,6 +17160,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        47.8
+      ],
+      [
+        "20260628",
         47.8
       ]
     ],
@@ -16780,6 +17211,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         47.6
+      ],
+      [
+        "20260628",
+        47.6
       ]
     ],
     "106426": [
@@ -16825,6 +17260,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        47.2
+      ],
+      [
+        "20260628",
         47.2
       ]
     ],
@@ -16872,6 +17311,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         46.5
+      ],
+      [
+        "20260628",
+        46.5
       ]
     ],
     "149282": [
@@ -16917,6 +17360,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        46.4
+      ],
+      [
+        "20260628",
         46.4
       ]
     ],
@@ -16964,6 +17411,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         45.7
+      ],
+      [
+        "20260628",
+        45.7
       ]
     ],
     "126846": [
@@ -17009,6 +17460,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        45.7
+      ],
+      [
+        "20260628",
         45.7
       ]
     ],
@@ -17056,6 +17511,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         45.3
+      ],
+      [
+        "20260628",
+        45.3
       ]
     ],
     "210012": [
@@ -17101,6 +17560,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        44.7
+      ],
+      [
+        "20260628",
         44.7
       ]
     ],
@@ -17148,6 +17611,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         44.6
+      ],
+      [
+        "20260628",
+        44.6
       ]
     ],
     "124116": [
@@ -17193,6 +17660,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        44.2
+      ],
+      [
+        "20260628",
         44.2
       ]
     ],
@@ -17240,6 +17711,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         44.2
+      ],
+      [
+        "20260628",
+        44.2
       ]
     ],
     "200384": [
@@ -17285,6 +17760,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        42.6
+      ],
+      [
+        "20260628",
         42.6
       ]
     ],
@@ -17332,6 +17811,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         41.7
+      ],
+      [
+        "20260628",
+        41.7
       ]
     ],
     "209284": [
@@ -17361,6 +17844,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        41.5
+      ],
+      [
+        "20260628",
         41.5
       ]
     ],
@@ -17408,6 +17895,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         41.1
+      ],
+      [
+        "20260628",
+        41.1
       ]
     ],
     "200516": [
@@ -17454,6 +17945,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         40.6
+      ],
+      [
+        "20260628",
+        40.6
       ]
     ],
     "208852": [
@@ -17484,6 +17979,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         40.5
+      ],
+      [
+        "20260628",
+        40.5
       ]
     ],
     "202261": [
@@ -17513,6 +18012,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        40.3
+      ],
+      [
+        "20260628",
         40.3
       ]
     ],
@@ -17560,6 +18063,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         39.0
+      ],
+      [
+        "20260628",
+        39.0
       ]
     ],
     "124079": [
@@ -17605,6 +18112,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        37.1
+      ],
+      [
+        "20260628",
         37.1
       ]
     ],
@@ -17652,6 +18163,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         36.2
+      ],
+      [
+        "20260628",
+        36.2
       ]
     ],
     "123828": [
@@ -17698,6 +18213,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         36.1
+      ],
+      [
+        "20260628",
+        36.1
       ]
     ],
     "208361": [
@@ -17727,6 +18246,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        35.6
+      ],
+      [
+        "20260628",
         35.6
       ]
     ],
@@ -17774,6 +18297,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         35.0
+      ],
+      [
+        "20260628",
+        35.0
       ]
     ],
     "207352": [
@@ -17819,6 +18346,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        35.0
+      ],
+      [
+        "20260628",
         35.0
       ]
     ],
@@ -17866,6 +18397,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         35.0
+      ],
+      [
+        "20260628",
+        35.0
       ]
     ],
     "126129": [
@@ -17911,6 +18446,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        35.0
+      ],
+      [
+        "20260628",
         35.0
       ]
     ],
@@ -17958,6 +18497,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         35.0
+      ],
+      [
+        "20260628",
+        35.0
       ]
     ],
     "210536": [
@@ -18004,6 +18547,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         35.0
+      ],
+      [
+        "20260628",
+        35.0
       ]
     ],
     "208278": [
@@ -18049,6 +18596,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        35.0
+      ],
+      [
+        "20260628",
         35.0
       ]
     ]
@@ -18098,6 +18649,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         100.0
+      ],
+      [
+        "20260628",
+        100.0
       ]
     ],
     "214981": [
@@ -18143,6 +18698,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        93.3
+      ],
+      [
+        "20260628",
         93.3
       ]
     ],
@@ -18190,6 +18749,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         92.1
+      ],
+      [
+        "20260628",
+        92.1
       ]
     ],
     "216347": [
@@ -18235,6 +18798,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        91.4
+      ],
+      [
+        "20260628",
         91.4
       ]
     ],
@@ -18282,6 +18849,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         91.1
+      ],
+      [
+        "20260628",
+        91.1
       ]
     ],
     "202494": [
@@ -18327,6 +18898,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        90.5
+      ],
+      [
+        "20260628",
         90.5
       ]
     ],
@@ -18374,6 +18949,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         90.4
+      ],
+      [
+        "20260628",
+        90.4
       ]
     ],
     "202468": [
@@ -18419,6 +18998,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        90.2
+      ],
+      [
+        "20260628",
         90.2
       ]
     ],
@@ -18466,52 +19049,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         86.6
-      ]
-    ],
-    "201514": [
-      [
-        "20260613",
-        85.9
       ],
       [
-        "20260614",
-        85.9
-      ],
-      [
-        "20260617",
-        85.9
-      ],
-      [
-        "20260620",
-        85.9
-      ],
-      [
-        "20260621",
-        85.9
-      ],
-      [
-        "20260622",
-        85.9
-      ],
-      [
-        "20260623",
-        85.9
-      ],
-      [
-        "20260624",
-        85.9
-      ],
-      [
-        "20260625",
-        85.9
-      ],
-      [
-        "20260626",
-        85.9
-      ],
-      [
-        "20260627",
-        85.9
+        "20260628",
+        86.6
       ]
     ],
     "214096": [
@@ -18558,6 +19099,60 @@ window.TENNIS_DATA = {
       [
         "20260627",
         85.7
+      ],
+      [
+        "20260628",
+        85.9
+      ]
+    ],
+    "201514": [
+      [
+        "20260613",
+        85.9
+      ],
+      [
+        "20260614",
+        85.9
+      ],
+      [
+        "20260617",
+        85.9
+      ],
+      [
+        "20260620",
+        85.9
+      ],
+      [
+        "20260621",
+        85.9
+      ],
+      [
+        "20260622",
+        85.9
+      ],
+      [
+        "20260623",
+        85.9
+      ],
+      [
+        "20260624",
+        85.9
+      ],
+      [
+        "20260625",
+        85.9
+      ],
+      [
+        "20260626",
+        85.9
+      ],
+      [
+        "20260627",
+        85.9
+      ],
+      [
+        "20260628",
+        85.9
       ]
     ],
     "239475": [
@@ -18604,6 +19199,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         85.3
+      ],
+      [
+        "20260628",
+        85.2
       ]
     ],
     "202505": [
@@ -18650,52 +19249,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         84.8
-      ]
-    ],
-    "216081": [
-      [
-        "20260613",
-        81.1
       ],
       [
-        "20260614",
-        81.1
-      ],
-      [
-        "20260617",
-        81.1
-      ],
-      [
-        "20260620",
-        81.1
-      ],
-      [
-        "20260621",
-        81.1
-      ],
-      [
-        "20260622",
-        81.1
-      ],
-      [
-        "20260623",
-        81.1
-      ],
-      [
-        "20260624",
-        81.1
-      ],
-      [
-        "20260625",
-        81.1
-      ],
-      [
-        "20260626",
-        81.1
-      ],
-      [
-        "20260627",
-        81.1
+        "20260628",
+        84.9
       ]
     ],
     "201619": [
@@ -18742,6 +19299,60 @@ window.TENNIS_DATA = {
       [
         "20260627",
         80.6
+      ],
+      [
+        "20260628",
+        81.3
+      ]
+    ],
+    "216081": [
+      [
+        "20260613",
+        81.1
+      ],
+      [
+        "20260614",
+        81.1
+      ],
+      [
+        "20260617",
+        81.1
+      ],
+      [
+        "20260620",
+        81.1
+      ],
+      [
+        "20260621",
+        81.1
+      ],
+      [
+        "20260622",
+        81.1
+      ],
+      [
+        "20260623",
+        81.1
+      ],
+      [
+        "20260624",
+        81.1
+      ],
+      [
+        "20260625",
+        81.1
+      ],
+      [
+        "20260626",
+        81.1
+      ],
+      [
+        "20260627",
+        81.1
+      ],
+      [
+        "20260628",
+        81.1
       ]
     ],
     "211768": [
@@ -18788,6 +19399,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         80.2
+      ],
+      [
+        "20260628",
+        80.3
       ]
     ],
     "215713": [
@@ -18833,6 +19448,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        80.1
+      ],
+      [
+        "20260628",
         80.1
       ]
     ],
@@ -18880,6 +19499,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         79.0
+      ],
+      [
+        "20260628",
+        78.7
       ]
     ],
     "214939": [
@@ -18926,52 +19549,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         77.0
-      ]
-    ],
-    "210722": [
-      [
-        "20260613",
-        77.2
       ],
       [
-        "20260614",
-        77.2
-      ],
-      [
-        "20260617",
+        "20260628",
         77.0
-      ],
-      [
-        "20260620",
-        77.0
-      ],
-      [
-        "20260621",
-        77.0
-      ],
-      [
-        "20260622",
-        76.7
-      ],
-      [
-        "20260623",
-        76.7
-      ],
-      [
-        "20260624",
-        76.7
-      ],
-      [
-        "20260625",
-        76.7
-      ],
-      [
-        "20260626",
-        76.7
-      ],
-      [
-        "20260627",
-        76.7
       ]
     ],
     "260300": [
@@ -19018,6 +19599,60 @@ window.TENNIS_DATA = {
       [
         "20260627",
         76.4
+      ],
+      [
+        "20260628",
+        76.6
+      ]
+    ],
+    "210722": [
+      [
+        "20260613",
+        77.2
+      ],
+      [
+        "20260614",
+        77.2
+      ],
+      [
+        "20260617",
+        77.0
+      ],
+      [
+        "20260620",
+        77.0
+      ],
+      [
+        "20260621",
+        77.0
+      ],
+      [
+        "20260622",
+        76.7
+      ],
+      [
+        "20260623",
+        76.7
+      ],
+      [
+        "20260624",
+        76.7
+      ],
+      [
+        "20260625",
+        76.7
+      ],
+      [
+        "20260626",
+        76.7
+      ],
+      [
+        "20260627",
+        76.7
+      ],
+      [
+        "20260628",
+        76.6
       ]
     ],
     "223670": [
@@ -19064,6 +19699,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         76.3
+      ],
+      [
+        "20260628",
+        76.4
       ]
     ],
     "211148": [
@@ -19110,6 +19749,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         74.7
+      ],
+      [
+        "20260628",
+        74.3
       ]
     ],
     "201662": [
@@ -19156,6 +19799,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         73.6
+      ],
+      [
+        "20260628",
+        73.8
       ]
     ],
     "213631": [
@@ -19202,6 +19849,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         73.2
+      ],
+      [
+        "20260628",
+        73.1
       ]
     ],
     "215613": [
@@ -19248,52 +19899,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         72.4
-      ]
-    ],
-    "206252": [
-      [
-        "20260613",
-        70.9
       ],
       [
-        "20260614",
-        70.9
-      ],
-      [
-        "20260617",
-        71.7
-      ],
-      [
-        "20260620",
-        71.7
-      ],
-      [
-        "20260621",
-        71.7
-      ],
-      [
-        "20260622",
-        72.0
-      ],
-      [
-        "20260623",
-        72.0
-      ],
-      [
-        "20260624",
-        72.0
-      ],
-      [
-        "20260625",
-        72.0
-      ],
-      [
-        "20260626",
-        72.0
-      ],
-      [
-        "20260627",
-        72.0
+        "20260628",
+        72.1
       ]
     ],
     "211533": [
@@ -19340,6 +19949,60 @@ window.TENNIS_DATA = {
       [
         "20260627",
         71.4
+      ],
+      [
+        "20260628",
+        72.0
+      ]
+    ],
+    "206252": [
+      [
+        "20260613",
+        70.9
+      ],
+      [
+        "20260614",
+        70.9
+      ],
+      [
+        "20260617",
+        71.7
+      ],
+      [
+        "20260620",
+        71.7
+      ],
+      [
+        "20260621",
+        71.7
+      ],
+      [
+        "20260622",
+        72.0
+      ],
+      [
+        "20260623",
+        72.0
+      ],
+      [
+        "20260624",
+        72.0
+      ],
+      [
+        "20260625",
+        72.0
+      ],
+      [
+        "20260626",
+        72.0
+      ],
+      [
+        "20260627",
+        72.0
+      ],
+      [
+        "20260628",
+        71.8
       ]
     ],
     "221024": [
@@ -19386,6 +20049,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         71.2
+      ],
+      [
+        "20260628",
+        71.3
       ]
     ],
     "206420": [
@@ -19431,6 +20098,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        70.0
+      ],
+      [
+        "20260628",
         70.0
       ]
     ],
@@ -19478,6 +20149,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         69.6
+      ],
+      [
+        "20260628",
+        69.4
       ]
     ],
     "211713": [
@@ -19524,6 +20199,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         69.1
+      ],
+      [
+        "20260628",
+        69.3
       ]
     ],
     "223253": [
@@ -19570,6 +20249,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         68.7
+      ],
+      [
+        "20260628",
+        68.5
       ]
     ],
     "215983": [
@@ -19615,6 +20298,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        68.0
+      ],
+      [
+        "20260628",
         68.0
       ]
     ],
@@ -19662,51 +20349,69 @@ window.TENNIS_DATA = {
       [
         "20260627",
         67.7
+      ],
+      [
+        "20260628",
+        67.7
       ]
     ],
-    "221054": [
+    "221012": [
+      [
+        "20260621",
+        67.6
+      ],
+      [
+        "20260628",
+        67.6
+      ]
+    ],
+    "220520": [
       [
         "20260613",
-        65.7
+        69.3
       ],
       [
         "20260614",
-        65.7
+        69.3
       ],
       [
         "20260617",
-        67.1
+        68.6
       ],
       [
         "20260620",
-        67.1
+        68.6
       ],
       [
         "20260621",
-        67.1
+        68.6
       ],
       [
         "20260622",
-        67.0
+        66.4
       ],
       [
         "20260623",
-        67.0
+        66.4
       ],
       [
         "20260624",
-        67.0
+        66.4
       ],
       [
         "20260625",
-        67.0
+        66.4
       ],
       [
         "20260626",
-        67.0
+        66.4
       ],
       [
         "20260627",
+        66.4
+      ],
+      [
+        "20260628",
         67.0
       ]
     ],
@@ -19754,6 +20459,60 @@ window.TENNIS_DATA = {
       [
         "20260627",
         67.0
+      ],
+      [
+        "20260628",
+        67.0
+      ]
+    ],
+    "221054": [
+      [
+        "20260613",
+        65.7
+      ],
+      [
+        "20260614",
+        65.7
+      ],
+      [
+        "20260617",
+        67.1
+      ],
+      [
+        "20260620",
+        67.1
+      ],
+      [
+        "20260621",
+        67.1
+      ],
+      [
+        "20260622",
+        67.0
+      ],
+      [
+        "20260623",
+        67.0
+      ],
+      [
+        "20260624",
+        67.0
+      ],
+      [
+        "20260625",
+        67.0
+      ],
+      [
+        "20260626",
+        67.0
+      ],
+      [
+        "20260627",
+        67.0
+      ],
+      [
+        "20260628",
+        66.9
       ]
     ],
     "220348": [
@@ -19800,51 +20559,9 @@ window.TENNIS_DATA = {
       [
         "20260627",
         66.6
-      ]
-    ],
-    "220520": [
-      [
-        "20260613",
-        69.3
       ],
       [
-        "20260614",
-        69.3
-      ],
-      [
-        "20260617",
-        68.6
-      ],
-      [
-        "20260620",
-        68.6
-      ],
-      [
-        "20260621",
-        68.6
-      ],
-      [
-        "20260622",
-        66.4
-      ],
-      [
-        "20260623",
-        66.4
-      ],
-      [
-        "20260624",
-        66.4
-      ],
-      [
-        "20260625",
-        66.4
-      ],
-      [
-        "20260626",
-        66.4
-      ],
-      [
-        "20260627",
+        "20260628",
         66.4
       ]
     ],
@@ -19892,6 +20609,60 @@ window.TENNIS_DATA = {
       [
         "20260627",
         66.2
+      ],
+      [
+        "20260628",
+        66.2
+      ]
+    ],
+    "215785": [
+      [
+        "20260613",
+        65.8
+      ],
+      [
+        "20260614",
+        65.8
+      ],
+      [
+        "20260617",
+        65.6
+      ],
+      [
+        "20260620",
+        65.6
+      ],
+      [
+        "20260621",
+        65.6
+      ],
+      [
+        "20260622",
+        65.7
+      ],
+      [
+        "20260623",
+        65.7
+      ],
+      [
+        "20260624",
+        65.7
+      ],
+      [
+        "20260625",
+        65.7
+      ],
+      [
+        "20260626",
+        65.7
+      ],
+      [
+        "20260627",
+        65.7
+      ],
+      [
+        "20260628",
+        65.8
       ]
     ],
     "220714": [
@@ -19938,51 +20709,9 @@ window.TENNIS_DATA = {
       [
         "20260627",
         66.0
-      ]
-    ],
-    "206289": [
-      [
-        "20260613",
-        66.0
       ],
       [
-        "20260614",
-        66.0
-      ],
-      [
-        "20260617",
-        65.5
-      ],
-      [
-        "20260620",
-        65.5
-      ],
-      [
-        "20260621",
-        65.5
-      ],
-      [
-        "20260622",
-        65.7
-      ],
-      [
-        "20260623",
-        65.7
-      ],
-      [
-        "20260624",
-        65.7
-      ],
-      [
-        "20260625",
-        65.7
-      ],
-      [
-        "20260626",
-        65.7
-      ],
-      [
-        "20260627",
+        "20260628",
         65.7
       ]
     ],
@@ -20030,28 +20759,32 @@ window.TENNIS_DATA = {
       [
         "20260627",
         65.7
+      ],
+      [
+        "20260628",
+        65.5
       ]
     ],
-    "215785": [
+    "206289": [
       [
         "20260613",
-        65.8
+        66.0
       ],
       [
         "20260614",
-        65.8
+        66.0
       ],
       [
         "20260617",
-        65.6
+        65.5
       ],
       [
         "20260620",
-        65.6
+        65.5
       ],
       [
         "20260621",
-        65.6
+        65.5
       ],
       [
         "20260622",
@@ -20076,143 +20809,59 @@ window.TENNIS_DATA = {
       [
         "20260627",
         65.7
+      ],
+      [
+        "20260628",
+        65.3
       ]
     ],
-    "223360": [
+    "214643": [
       [
         "20260613",
-        63.2
+        65.7
       ],
       [
         "20260614",
-        63.2
+        65.7
       ],
       [
         "20260617",
-        63.0
+        65.4
       ],
       [
         "20260620",
-        63.0
+        65.4
       ],
       [
         "20260621",
-        63.0
+        65.4
       ],
       [
         "20260622",
-        65.0
+        64.8
       ],
       [
         "20260623",
-        65.0
+        64.8
       ],
       [
         "20260624",
-        65.0
+        64.8
       ],
       [
         "20260625",
-        65.0
+        64.8
       ],
       [
         "20260626",
-        65.0
+        64.8
       ],
       [
         "20260627",
-        65.0
-      ]
-    ],
-    "220716": [
-      [
-        "20260613",
-        64.7
+        64.8
       ],
       [
-        "20260614",
-        64.7
-      ],
-      [
-        "20260617",
-        64.7
-      ],
-      [
-        "20260620",
-        64.7
-      ],
-      [
-        "20260621",
-        64.7
-      ],
-      [
-        "20260622",
-        65.0
-      ],
-      [
-        "20260623",
-        65.0
-      ],
-      [
-        "20260624",
-        65.0
-      ],
-      [
-        "20260625",
-        65.0
-      ],
-      [
-        "20260626",
-        65.0
-      ],
-      [
-        "20260627",
-        65.0
-      ]
-    ],
-    "211701": [
-      [
-        "20260613",
-        65.1
-      ],
-      [
-        "20260614",
-        65.1
-      ],
-      [
-        "20260617",
-        64.9
-      ],
-      [
-        "20260620",
-        64.9
-      ],
-      [
-        "20260621",
-        64.9
-      ],
-      [
-        "20260622",
-        64.9
-      ],
-      [
-        "20260623",
-        64.9
-      ],
-      [
-        "20260624",
-        64.9
-      ],
-      [
-        "20260625",
-        64.9
-      ],
-      [
-        "20260626",
-        64.9
-      ],
-      [
-        "20260627",
+        "20260628",
         64.9
       ]
     ],
@@ -20260,52 +20909,160 @@ window.TENNIS_DATA = {
       [
         "20260627",
         64.9
+      ],
+      [
+        "20260628",
+        64.9
       ]
     ],
-    "214643": [
+    "223360": [
       [
         "20260613",
-        65.7
+        63.2
       ],
       [
         "20260614",
-        65.7
+        63.2
       ],
       [
         "20260617",
-        65.4
+        63.0
       ],
       [
         "20260620",
-        65.4
+        63.0
       ],
       [
         "20260621",
-        65.4
+        63.0
       ],
       [
         "20260622",
-        64.8
+        65.0
       ],
       [
         "20260623",
-        64.8
+        65.0
       ],
       [
         "20260624",
-        64.8
+        65.0
       ],
       [
         "20260625",
-        64.8
+        65.0
       ],
       [
         "20260626",
-        64.8
+        65.0
       ],
       [
         "20260627",
+        65.0
+      ],
+      [
+        "20260628",
         64.8
+      ]
+    ],
+    "211701": [
+      [
+        "20260613",
+        65.1
+      ],
+      [
+        "20260614",
+        65.1
+      ],
+      [
+        "20260617",
+        64.9
+      ],
+      [
+        "20260620",
+        64.9
+      ],
+      [
+        "20260621",
+        64.9
+      ],
+      [
+        "20260622",
+        64.9
+      ],
+      [
+        "20260623",
+        64.9
+      ],
+      [
+        "20260624",
+        64.9
+      ],
+      [
+        "20260625",
+        64.9
+      ],
+      [
+        "20260626",
+        64.9
+      ],
+      [
+        "20260627",
+        64.9
+      ],
+      [
+        "20260628",
+        64.6
+      ]
+    ],
+    "220716": [
+      [
+        "20260613",
+        64.7
+      ],
+      [
+        "20260614",
+        64.7
+      ],
+      [
+        "20260617",
+        64.7
+      ],
+      [
+        "20260620",
+        64.7
+      ],
+      [
+        "20260621",
+        64.7
+      ],
+      [
+        "20260622",
+        65.0
+      ],
+      [
+        "20260623",
+        65.0
+      ],
+      [
+        "20260624",
+        65.0
+      ],
+      [
+        "20260625",
+        65.0
+      ],
+      [
+        "20260626",
+        65.0
+      ],
+      [
+        "20260627",
+        65.0
+      ],
+      [
+        "20260628",
+        64.4
       ]
     ],
     "202663": [
@@ -20351,6 +21108,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        64.3
+      ],
+      [
+        "20260628",
         64.3
       ]
     ],
@@ -20398,51 +21159,9 @@ window.TENNIS_DATA = {
       [
         "20260627",
         63.8
-      ]
-    ],
-    "233741": [
-      [
-        "20260613",
-        63.8
       ],
       [
-        "20260614",
-        63.8
-      ],
-      [
-        "20260617",
-        63.8
-      ],
-      [
-        "20260620",
-        63.8
-      ],
-      [
-        "20260621",
-        63.8
-      ],
-      [
-        "20260622",
-        63.8
-      ],
-      [
-        "20260623",
-        63.8
-      ],
-      [
-        "20260624",
-        63.8
-      ],
-      [
-        "20260625",
-        63.8
-      ],
-      [
-        "20260626",
-        63.8
-      ],
-      [
-        "20260627",
+        "20260628",
         63.8
       ]
     ],
@@ -20490,6 +21209,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         63.4
+      ],
+      [
+        "20260628",
+        63.4
       ]
     ],
     "203501": [
@@ -20536,6 +21259,60 @@ window.TENNIS_DATA = {
       [
         "20260627",
         62.8
+      ],
+      [
+        "20260628",
+        63.0
+      ]
+    ],
+    "238184": [
+      [
+        "20260613",
+        63.4
+      ],
+      [
+        "20260614",
+        63.4
+      ],
+      [
+        "20260617",
+        61.5
+      ],
+      [
+        "20260620",
+        61.5
+      ],
+      [
+        "20260621",
+        61.5
+      ],
+      [
+        "20260622",
+        61.6
+      ],
+      [
+        "20260623",
+        61.6
+      ],
+      [
+        "20260624",
+        61.6
+      ],
+      [
+        "20260625",
+        61.6
+      ],
+      [
+        "20260626",
+        61.6
+      ],
+      [
+        "20260627",
+        61.6
+      ],
+      [
+        "20260628",
+        62.5
       ]
     ],
     "221333": [
@@ -20581,6 +21358,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        62.3
+      ],
+      [
+        "20260628",
         62.3
       ]
     ],
@@ -20628,52 +21409,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         62.0
-      ]
-    ],
-    "238184": [
-      [
-        "20260613",
-        63.4
       ],
       [
-        "20260614",
-        63.4
-      ],
-      [
-        "20260617",
-        61.5
-      ],
-      [
-        "20260620",
-        61.5
-      ],
-      [
-        "20260621",
-        61.5
-      ],
-      [
-        "20260622",
-        61.6
-      ],
-      [
-        "20260623",
-        61.6
-      ],
-      [
-        "20260624",
-        61.6
-      ],
-      [
-        "20260625",
-        61.6
-      ],
-      [
-        "20260626",
-        61.6
-      ],
-      [
-        "20260627",
-        61.6
+        "20260628",
+        62.0
       ]
     ],
     "215035": [
@@ -20720,6 +21459,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         61.6
+      ],
+      [
+        "20260628",
+        61.5
       ]
     ],
     "202499": [
@@ -20766,6 +21509,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         61.5
+      ],
+      [
+        "20260628",
+        61.4
       ]
     ],
     "220332": [
@@ -20811,6 +21558,102 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        61.1
+      ],
+      [
+        "20260628",
+        61.3
+      ]
+    ],
+    "230319": [
+      [
+        "20260617",
+        62.0
+      ],
+      [
+        "20260620",
+        62.0
+      ],
+      [
+        "20260621",
+        62.0
+      ],
+      [
+        "20260622",
+        59.5
+      ],
+      [
+        "20260623",
+        59.5
+      ],
+      [
+        "20260624",
+        59.5
+      ],
+      [
+        "20260625",
+        59.5
+      ],
+      [
+        "20260626",
+        59.5
+      ],
+      [
+        "20260627",
+        59.5
+      ],
+      [
+        "20260628",
+        61.1
+      ]
+    ],
+    "211843": [
+      [
+        "20260613",
+        60.8
+      ],
+      [
+        "20260614",
+        60.8
+      ],
+      [
+        "20260617",
+        60.5
+      ],
+      [
+        "20260620",
+        60.5
+      ],
+      [
+        "20260621",
+        60.5
+      ],
+      [
+        "20260622",
+        60.7
+      ],
+      [
+        "20260623",
+        60.7
+      ],
+      [
+        "20260624",
+        60.7
+      ],
+      [
+        "20260625",
+        60.7
+      ],
+      [
+        "20260626",
+        60.7
+      ],
+      [
+        "20260627",
+        60.7
+      ],
+      [
+        "20260628",
         61.1
       ]
     ],
@@ -20858,52 +21701,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         61.0
-      ]
-    ],
-    "211843": [
-      [
-        "20260613",
-        60.8
       ],
       [
-        "20260614",
-        60.8
-      ],
-      [
-        "20260617",
-        60.5
-      ],
-      [
-        "20260620",
-        60.5
-      ],
-      [
-        "20260621",
-        60.5
-      ],
-      [
-        "20260622",
-        60.7
-      ],
-      [
-        "20260623",
-        60.7
-      ],
-      [
-        "20260624",
-        60.7
-      ],
-      [
-        "20260625",
-        60.7
-      ],
-      [
-        "20260626",
-        60.7
-      ],
-      [
-        "20260627",
-        60.7
+        "20260628",
+        60.9
       ]
     ],
     "211337": [
@@ -20950,6 +21751,60 @@ window.TENNIS_DATA = {
       [
         "20260627",
         60.1
+      ],
+      [
+        "20260628",
+        60.2
+      ]
+    ],
+    "220309": [
+      [
+        "20260613",
+        58.0
+      ],
+      [
+        "20260614",
+        58.0
+      ],
+      [
+        "20260617",
+        58.7
+      ],
+      [
+        "20260620",
+        58.7
+      ],
+      [
+        "20260621",
+        58.7
+      ],
+      [
+        "20260622",
+        59.5
+      ],
+      [
+        "20260623",
+        59.5
+      ],
+      [
+        "20260624",
+        59.5
+      ],
+      [
+        "20260625",
+        59.5
+      ],
+      [
+        "20260626",
+        59.5
+      ],
+      [
+        "20260627",
+        59.5
+      ],
+      [
+        "20260628",
+        60.0
       ]
     ],
     "220750": [
@@ -20996,89 +21851,109 @@ window.TENNIS_DATA = {
       [
         "20260627",
         59.6
+      ],
+      [
+        "20260628",
+        59.7
       ]
     ],
-    "230319": [
-      [
-        "20260617",
-        62.0
-      ],
-      [
-        "20260620",
-        62.0
-      ],
-      [
-        "20260621",
-        62.0
-      ],
-      [
-        "20260622",
-        59.5
-      ],
-      [
-        "20260623",
-        59.5
-      ],
-      [
-        "20260624",
-        59.5
-      ],
-      [
-        "20260625",
-        59.5
-      ],
-      [
-        "20260626",
-        59.5
-      ],
-      [
-        "20260627",
-        59.5
-      ]
-    ],
-    "220309": [
+    "233741": [
       [
         "20260613",
-        58.0
+        63.8
       ],
       [
         "20260614",
-        58.0
+        63.8
       ],
       [
         "20260617",
-        58.7
+        63.8
       ],
       [
         "20260620",
-        58.7
+        63.8
       ],
       [
         "20260621",
-        58.7
+        63.8
       ],
       [
         "20260622",
-        59.5
+        63.8
       ],
       [
         "20260623",
-        59.5
+        63.8
       ],
       [
         "20260624",
-        59.5
+        63.8
       ],
       [
         "20260625",
-        59.5
+        63.8
       ],
       [
         "20260626",
-        59.5
+        63.8
       ],
       [
         "20260627",
+        63.8
+      ],
+      [
+        "20260628",
+        59.6
+      ]
+    ],
+    "211817": [
+      [
+        "20260613",
+        57.4
+      ],
+      [
+        "20260614",
+        57.4
+      ],
+      [
+        "20260617",
+        55.9
+      ],
+      [
+        "20260620",
+        55.9
+      ],
+      [
+        "20260621",
+        55.9
+      ],
+      [
+        "20260622",
+        55.9
+      ],
+      [
+        "20260623",
+        55.9
+      ],
+      [
+        "20260624",
+        55.9
+      ],
+      [
+        "20260625",
+        55.9
+      ],
+      [
+        "20260626",
+        55.9
+      ],
+      [
+        "20260627",
+        55.9
+      ],
+      [
+        "20260628",
         59.5
       ]
     ],
@@ -21126,6 +22001,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         59.4
+      ],
+      [
+        "20260628",
+        59.4
       ]
     ],
     "214388": [
@@ -21172,52 +22051,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         59.1
-      ]
-    ],
-    "222601": [
-      [
-        "20260613",
-        58.1
       ],
       [
-        "20260614",
-        58.1
-      ],
-      [
-        "20260617",
-        58.0
-      ],
-      [
-        "20260620",
-        58.0
-      ],
-      [
-        "20260621",
-        58.0
-      ],
-      [
-        "20260622",
-        58.8
-      ],
-      [
-        "20260623",
-        58.8
-      ],
-      [
-        "20260624",
-        58.8
-      ],
-      [
-        "20260625",
-        58.8
-      ],
-      [
-        "20260626",
-        58.8
-      ],
-      [
-        "20260627",
-        58.8
+        "20260628",
+        59.3
       ]
     ],
     "214954": [
@@ -21264,98 +22101,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         58.7
-      ]
-    ],
-    "260172": [
-      [
-        "20260613",
-        58.0
       ],
       [
-        "20260614",
-        58.0
-      ],
-      [
-        "20260617",
-        58.2
-      ],
-      [
-        "20260620",
-        58.2
-      ],
-      [
-        "20260621",
-        58.2
-      ],
-      [
-        "20260622",
-        58.4
-      ],
-      [
-        "20260623",
-        58.4
-      ],
-      [
-        "20260624",
-        58.4
-      ],
-      [
-        "20260625",
-        58.4
-      ],
-      [
-        "20260626",
-        58.4
-      ],
-      [
-        "20260627",
-        58.4
-      ]
-    ],
-    "211684": [
-      [
-        "20260613",
-        58.2
-      ],
-      [
-        "20260614",
-        58.2
-      ],
-      [
-        "20260617",
-        58.0
-      ],
-      [
-        "20260620",
-        58.0
-      ],
-      [
-        "20260621",
-        58.0
-      ],
-      [
-        "20260622",
-        58.2
-      ],
-      [
-        "20260623",
-        58.2
-      ],
-      [
-        "20260624",
-        58.2
-      ],
-      [
-        "20260625",
-        58.2
-      ],
-      [
-        "20260626",
-        58.2
-      ],
-      [
-        "20260627",
-        58.2
+        "20260628",
+        58.7
       ]
     ],
     "203530": [
@@ -21402,98 +22151,60 @@ window.TENNIS_DATA = {
       [
         "20260627",
         58.2
+      ],
+      [
+        "20260628",
+        58.5
       ]
     ],
-    "213710": [
+    "260172": [
       [
         "20260613",
-        58.4
+        58.0
       ],
       [
         "20260614",
+        58.0
+      ],
+      [
+        "20260617",
+        58.2
+      ],
+      [
+        "20260620",
+        58.2
+      ],
+      [
+        "20260621",
+        58.2
+      ],
+      [
+        "20260622",
         58.4
       ],
       [
-        "20260617",
-        58.1
-      ],
-      [
-        "20260620",
-        58.1
-      ],
-      [
-        "20260621",
-        58.1
-      ],
-      [
-        "20260622",
-        58.1
-      ],
-      [
         "20260623",
-        58.1
+        58.4
       ],
       [
         "20260624",
-        58.1
+        58.4
       ],
       [
         "20260625",
-        58.1
+        58.4
       ],
       [
         "20260626",
-        58.1
+        58.4
       ],
       [
         "20260627",
-        58.1
-      ]
-    ],
-    "214082": [
-      [
-        "20260613",
-        58.2
+        58.4
       ],
       [
-        "20260614",
-        58.2
-      ],
-      [
-        "20260617",
-        57.8
-      ],
-      [
-        "20260620",
-        57.8
-      ],
-      [
-        "20260621",
-        57.8
-      ],
-      [
-        "20260622",
-        58.0
-      ],
-      [
-        "20260623",
-        58.0
-      ],
-      [
-        "20260624",
-        58.0
-      ],
-      [
-        "20260625",
-        58.0
-      ],
-      [
-        "20260626",
-        58.0
-      ],
-      [
-        "20260627",
-        58.0
+        "20260628",
+        58.5
       ]
     ],
     "238075": [
@@ -21540,6 +22251,252 @@ window.TENNIS_DATA = {
       [
         "20260627",
         57.9
+      ],
+      [
+        "20260628",
+        58.4
+      ]
+    ],
+    "213710": [
+      [
+        "20260613",
+        58.4
+      ],
+      [
+        "20260614",
+        58.4
+      ],
+      [
+        "20260617",
+        58.1
+      ],
+      [
+        "20260620",
+        58.1
+      ],
+      [
+        "20260621",
+        58.1
+      ],
+      [
+        "20260622",
+        58.1
+      ],
+      [
+        "20260623",
+        58.1
+      ],
+      [
+        "20260624",
+        58.1
+      ],
+      [
+        "20260625",
+        58.1
+      ],
+      [
+        "20260626",
+        58.1
+      ],
+      [
+        "20260627",
+        58.1
+      ],
+      [
+        "20260628",
+        58.3
+      ]
+    ],
+    "222601": [
+      [
+        "20260613",
+        58.1
+      ],
+      [
+        "20260614",
+        58.1
+      ],
+      [
+        "20260617",
+        58.0
+      ],
+      [
+        "20260620",
+        58.0
+      ],
+      [
+        "20260621",
+        58.0
+      ],
+      [
+        "20260622",
+        58.8
+      ],
+      [
+        "20260623",
+        58.8
+      ],
+      [
+        "20260624",
+        58.8
+      ],
+      [
+        "20260625",
+        58.8
+      ],
+      [
+        "20260626",
+        58.8
+      ],
+      [
+        "20260627",
+        58.8
+      ],
+      [
+        "20260628",
+        58.3
+      ]
+    ],
+    "214082": [
+      [
+        "20260613",
+        58.2
+      ],
+      [
+        "20260614",
+        58.2
+      ],
+      [
+        "20260617",
+        57.8
+      ],
+      [
+        "20260620",
+        57.8
+      ],
+      [
+        "20260621",
+        57.8
+      ],
+      [
+        "20260622",
+        58.0
+      ],
+      [
+        "20260623",
+        58.0
+      ],
+      [
+        "20260624",
+        58.0
+      ],
+      [
+        "20260625",
+        58.0
+      ],
+      [
+        "20260626",
+        58.0
+      ],
+      [
+        "20260627",
+        58.0
+      ],
+      [
+        "20260628",
+        58.3
+      ]
+    ],
+    "211684": [
+      [
+        "20260613",
+        58.2
+      ],
+      [
+        "20260614",
+        58.2
+      ],
+      [
+        "20260617",
+        58.0
+      ],
+      [
+        "20260620",
+        58.0
+      ],
+      [
+        "20260621",
+        58.0
+      ],
+      [
+        "20260622",
+        58.2
+      ],
+      [
+        "20260623",
+        58.2
+      ],
+      [
+        "20260624",
+        58.2
+      ],
+      [
+        "20260625",
+        58.2
+      ],
+      [
+        "20260626",
+        58.2
+      ],
+      [
+        "20260627",
+        58.2
+      ],
+      [
+        "20260628",
+        58.1
+      ]
+    ],
+    "201533": [
+      [
+        "20260617",
+        57.3
+      ],
+      [
+        "20260620",
+        57.3
+      ],
+      [
+        "20260621",
+        57.3
+      ],
+      [
+        "20260622",
+        57.3
+      ],
+      [
+        "20260623",
+        57.3
+      ],
+      [
+        "20260624",
+        57.3
+      ],
+      [
+        "20260625",
+        57.3
+      ],
+      [
+        "20260626",
+        57.3
+      ],
+      [
+        "20260627",
+        57.3
+      ],
+      [
+        "20260628",
+        57.6
       ]
     ],
     "221883": [
@@ -21586,90 +22543,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         57.6
-      ]
-    ],
-    "201533": [
-      [
-        "20260617",
-        57.3
       ],
       [
-        "20260620",
-        57.3
-      ],
-      [
-        "20260621",
-        57.3
-      ],
-      [
-        "20260622",
-        57.3
-      ],
-      [
-        "20260623",
-        57.3
-      ],
-      [
-        "20260624",
-        57.3
-      ],
-      [
-        "20260625",
-        57.3
-      ],
-      [
-        "20260626",
-        57.3
-      ],
-      [
-        "20260627",
-        57.3
-      ]
-    ],
-    "222145": [
-      [
-        "20260613",
-        56.7
-      ],
-      [
-        "20260614",
-        56.7
-      ],
-      [
-        "20260617",
-        56.4
-      ],
-      [
-        "20260620",
-        56.4
-      ],
-      [
-        "20260621",
-        56.4
-      ],
-      [
-        "20260622",
-        56.6
-      ],
-      [
-        "20260623",
-        56.6
-      ],
-      [
-        "20260624",
-        56.6
-      ],
-      [
-        "20260625",
-        56.6
-      ],
-      [
-        "20260626",
-        56.6
-      ],
-      [
-        "20260627",
-        56.6
+        "20260628",
+        57.5
       ]
     ],
     "215910": [
@@ -21716,52 +22593,110 @@ window.TENNIS_DATA = {
       [
         "20260627",
         56.6
+      ],
+      [
+        "20260628",
+        56.9
       ]
     ],
-    "211817": [
+    "222145": [
       [
         "20260613",
-        57.4
+        56.7
       ],
       [
         "20260614",
-        57.4
+        56.7
       ],
       [
         "20260617",
-        55.9
+        56.4
       ],
       [
         "20260620",
-        55.9
+        56.4
       ],
       [
         "20260621",
-        55.9
+        56.4
       ],
       [
         "20260622",
-        55.9
+        56.6
       ],
       [
         "20260623",
-        55.9
+        56.6
       ],
       [
         "20260624",
-        55.9
+        56.6
       ],
       [
         "20260625",
-        55.9
+        56.6
       ],
       [
         "20260626",
-        55.9
+        56.6
       ],
       [
         "20260627",
-        55.9
+        56.6
+      ],
+      [
+        "20260628",
+        56.5
+      ]
+    ],
+    "214040": [
+      [
+        "20260613",
+        55.4
+      ],
+      [
+        "20260614",
+        55.4
+      ],
+      [
+        "20260617",
+        55.6
+      ],
+      [
+        "20260620",
+        55.6
+      ],
+      [
+        "20260621",
+        55.6
+      ],
+      [
+        "20260622",
+        55.6
+      ],
+      [
+        "20260623",
+        55.6
+      ],
+      [
+        "20260624",
+        55.6
+      ],
+      [
+        "20260625",
+        55.6
+      ],
+      [
+        "20260626",
+        55.6
+      ],
+      [
+        "20260627",
+        55.6
+      ],
+      [
+        "20260628",
+        55.7
       ]
     ],
     "219917": [
@@ -21808,51 +22743,9 @@ window.TENNIS_DATA = {
       [
         "20260627",
         55.8
-      ]
-    ],
-    "214040": [
-      [
-        "20260613",
-        55.4
       ],
       [
-        "20260614",
-        55.4
-      ],
-      [
-        "20260617",
-        55.6
-      ],
-      [
-        "20260620",
-        55.6
-      ],
-      [
-        "20260621",
-        55.6
-      ],
-      [
-        "20260622",
-        55.6
-      ],
-      [
-        "20260623",
-        55.6
-      ],
-      [
-        "20260624",
-        55.6
-      ],
-      [
-        "20260625",
-        55.6
-      ],
-      [
-        "20260626",
-        55.6
-      ],
-      [
-        "20260627",
+        "20260628",
         55.6
       ]
     ],
@@ -21900,6 +22793,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         55.6
+      ],
+      [
+        "20260628",
+        55.1
       ]
     ],
     "221354": [
@@ -21946,52 +22843,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         54.2
-      ]
-    ],
-    "215872": [
-      [
-        "20260613",
-        51.8
       ],
       [
-        "20260614",
-        51.8
-      ],
-      [
-        "20260617",
-        53.5
-      ],
-      [
-        "20260620",
-        53.5
-      ],
-      [
-        "20260621",
-        53.5
-      ],
-      [
-        "20260622",
-        53.5
-      ],
-      [
-        "20260623",
-        53.5
-      ],
-      [
-        "20260624",
-        53.5
-      ],
-      [
-        "20260625",
-        53.5
-      ],
-      [
-        "20260626",
-        53.5
-      ],
-      [
-        "20260627",
-        53.5
+        "20260628",
+        54.2
       ]
     ],
     "201709": [
@@ -22038,52 +22893,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         53.4
-      ]
-    ],
-    "252499": [
-      [
-        "20260613",
-        53.0
       ],
       [
-        "20260614",
-        53.0
-      ],
-      [
-        "20260617",
-        52.9
-      ],
-      [
-        "20260620",
-        52.9
-      ],
-      [
-        "20260621",
-        52.9
-      ],
-      [
-        "20260622",
-        53.3
-      ],
-      [
-        "20260623",
-        53.3
-      ],
-      [
-        "20260624",
-        53.3
-      ],
-      [
-        "20260625",
-        53.3
-      ],
-      [
-        "20260626",
-        53.3
-      ],
-      [
-        "20260627",
-        53.3
+        "20260628",
+        53.5
       ]
     ],
     "213550": [
@@ -22130,52 +22943,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         53.3
-      ]
-    ],
-    "236957": [
-      [
-        "20260613",
-        53.1
       ],
       [
-        "20260614",
-        53.1
-      ],
-      [
-        "20260617",
-        53.1
-      ],
-      [
-        "20260620",
-        53.1
-      ],
-      [
-        "20260621",
-        53.1
-      ],
-      [
-        "20260622",
-        53.1
-      ],
-      [
-        "20260623",
-        53.1
-      ],
-      [
-        "20260624",
-        53.1
-      ],
-      [
-        "20260625",
-        53.1
-      ],
-      [
-        "20260626",
-        53.1
-      ],
-      [
-        "20260627",
-        53.1
+        "20260628",
+        53.3
       ]
     ],
     "213887": [
@@ -22222,6 +22993,60 @@ window.TENNIS_DATA = {
       [
         "20260627",
         53.0
+      ],
+      [
+        "20260628",
+        53.1
+      ]
+    ],
+    "236957": [
+      [
+        "20260613",
+        53.1
+      ],
+      [
+        "20260614",
+        53.1
+      ],
+      [
+        "20260617",
+        53.1
+      ],
+      [
+        "20260620",
+        53.1
+      ],
+      [
+        "20260621",
+        53.1
+      ],
+      [
+        "20260622",
+        53.1
+      ],
+      [
+        "20260623",
+        53.1
+      ],
+      [
+        "20260624",
+        53.1
+      ],
+      [
+        "20260625",
+        53.1
+      ],
+      [
+        "20260626",
+        53.1
+      ],
+      [
+        "20260627",
+        53.1
+      ],
+      [
+        "20260628",
+        53.1
       ]
     ],
     "211651": [
@@ -22268,6 +23093,110 @@ window.TENNIS_DATA = {
       [
         "20260627",
         53.0
+      ],
+      [
+        "20260628",
+        53.0
+      ]
+    ],
+    "215872": [
+      [
+        "20260613",
+        51.8
+      ],
+      [
+        "20260614",
+        51.8
+      ],
+      [
+        "20260617",
+        53.5
+      ],
+      [
+        "20260620",
+        53.5
+      ],
+      [
+        "20260621",
+        53.5
+      ],
+      [
+        "20260622",
+        53.5
+      ],
+      [
+        "20260623",
+        53.5
+      ],
+      [
+        "20260624",
+        53.5
+      ],
+      [
+        "20260625",
+        53.5
+      ],
+      [
+        "20260626",
+        53.5
+      ],
+      [
+        "20260627",
+        53.5
+      ],
+      [
+        "20260628",
+        52.9
+      ]
+    ],
+    "252499": [
+      [
+        "20260613",
+        53.0
+      ],
+      [
+        "20260614",
+        53.0
+      ],
+      [
+        "20260617",
+        52.9
+      ],
+      [
+        "20260620",
+        52.9
+      ],
+      [
+        "20260621",
+        52.9
+      ],
+      [
+        "20260622",
+        53.3
+      ],
+      [
+        "20260623",
+        53.3
+      ],
+      [
+        "20260624",
+        53.3
+      ],
+      [
+        "20260625",
+        53.3
+      ],
+      [
+        "20260626",
+        53.3
+      ],
+      [
+        "20260627",
+        53.3
+      ],
+      [
+        "20260628",
+        52.8
       ]
     ],
     "201548": [
@@ -22314,6 +23243,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         52.1
+      ],
+      [
+        "20260628",
+        52.5
       ]
     ],
     "215453": [
@@ -22359,6 +23292,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        51.6
+      ],
+      [
+        "20260628",
         51.6
       ]
     ],
@@ -22406,51 +23343,59 @@ window.TENNIS_DATA = {
       [
         "20260627",
         51.4
+      ],
+      [
+        "20260628",
+        51.4
       ]
     ],
-    "221407": [
+    "213583": [
       [
         "20260613",
-        50.2
+        55.9
       ],
       [
         "20260614",
-        50.2
+        55.9
       ],
       [
         "20260617",
-        50.5
+        50.0
       ],
       [
         "20260620",
-        50.5
+        50.0
       ],
       [
         "20260621",
-        50.5
+        50.0
       ],
       [
         "20260622",
-        50.5
+        50.0
       ],
       [
         "20260623",
-        50.5
+        50.0
       ],
       [
         "20260624",
-        50.5
+        50.0
       ],
       [
         "20260625",
-        50.5
+        50.0
       ],
       [
         "20260626",
-        50.5
+        50.0
       ],
       [
         "20260627",
+        50.0
+      ],
+      [
+        "20260628",
         50.5
       ]
     ],
@@ -22498,6 +23443,60 @@ window.TENNIS_DATA = {
       [
         "20260627",
         50.5
+      ],
+      [
+        "20260628",
+        50.5
+      ]
+    ],
+    "203514": [
+      [
+        "20260613",
+        50.4
+      ],
+      [
+        "20260614",
+        50.4
+      ],
+      [
+        "20260617",
+        50.4
+      ],
+      [
+        "20260620",
+        50.4
+      ],
+      [
+        "20260621",
+        50.4
+      ],
+      [
+        "20260622",
+        50.4
+      ],
+      [
+        "20260623",
+        50.4
+      ],
+      [
+        "20260624",
+        50.4
+      ],
+      [
+        "20260625",
+        50.4
+      ],
+      [
+        "20260626",
+        50.4
+      ],
+      [
+        "20260627",
+        50.4
+      ],
+      [
+        "20260628",
+        50.4
       ]
     ],
     "201499": [
@@ -22544,51 +23543,9 @@ window.TENNIS_DATA = {
       [
         "20260627",
         50.4
-      ]
-    ],
-    "203514": [
-      [
-        "20260613",
-        50.4
       ],
       [
-        "20260614",
-        50.4
-      ],
-      [
-        "20260617",
-        50.4
-      ],
-      [
-        "20260620",
-        50.4
-      ],
-      [
-        "20260621",
-        50.4
-      ],
-      [
-        "20260622",
-        50.4
-      ],
-      [
-        "20260623",
-        50.4
-      ],
-      [
-        "20260624",
-        50.4
-      ],
-      [
-        "20260625",
-        50.4
-      ],
-      [
-        "20260626",
-        50.4
-      ],
-      [
-        "20260627",
+        "20260628",
         50.4
       ]
     ],
@@ -22636,6 +23593,110 @@ window.TENNIS_DATA = {
       [
         "20260627",
         50.0
+      ],
+      [
+        "20260628",
+        50.2
+      ]
+    ],
+    "221407": [
+      [
+        "20260613",
+        50.2
+      ],
+      [
+        "20260614",
+        50.2
+      ],
+      [
+        "20260617",
+        50.5
+      ],
+      [
+        "20260620",
+        50.5
+      ],
+      [
+        "20260621",
+        50.5
+      ],
+      [
+        "20260622",
+        50.5
+      ],
+      [
+        "20260623",
+        50.5
+      ],
+      [
+        "20260624",
+        50.5
+      ],
+      [
+        "20260625",
+        50.5
+      ],
+      [
+        "20260626",
+        50.5
+      ],
+      [
+        "20260627",
+        50.5
+      ],
+      [
+        "20260628",
+        50.2
+      ]
+    ],
+    "215306": [
+      [
+        "20260613",
+        49.7
+      ],
+      [
+        "20260614",
+        49.7
+      ],
+      [
+        "20260617",
+        49.6
+      ],
+      [
+        "20260620",
+        49.6
+      ],
+      [
+        "20260621",
+        49.6
+      ],
+      [
+        "20260622",
+        49.6
+      ],
+      [
+        "20260623",
+        49.6
+      ],
+      [
+        "20260624",
+        49.6
+      ],
+      [
+        "20260625",
+        49.6
+      ],
+      [
+        "20260626",
+        49.6
+      ],
+      [
+        "20260627",
+        49.6
+      ],
+      [
+        "20260628",
+        50.0
       ]
     ],
     "215020": [
@@ -22682,81 +23743,9 @@ window.TENNIS_DATA = {
       [
         "20260627",
         50.0
-      ]
-    ],
-    "213583": [
-      [
-        "20260613",
-        55.9
       ],
       [
-        "20260614",
-        55.9
-      ],
-      [
-        "20260617",
-        50.0
-      ],
-      [
-        "20260620",
-        50.0
-      ],
-      [
-        "20260621",
-        50.0
-      ],
-      [
-        "20260622",
-        50.0
-      ],
-      [
-        "20260623",
-        50.0
-      ],
-      [
-        "20260624",
-        50.0
-      ],
-      [
-        "20260625",
-        50.0
-      ],
-      [
-        "20260626",
-        50.0
-      ],
-      [
-        "20260627",
-        50.0
-      ]
-    ],
-    "210622": [
-      [
-        "20260615",
-        65.0
-      ],
-      [
-        "20260622",
-        50.0
-      ],
-      [
-        "20260623",
-        50.0
-      ],
-      [
-        "20260624",
-        50.0
-      ],
-      [
-        "20260625",
-        50.0
-      ],
-      [
-        "20260626",
-        50.0
-      ],
-      [
-        "20260627",
+        "20260628",
         50.0
       ]
     ],
@@ -22804,6 +23793,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         49.9
+      ],
+      [
+        "20260628",
+        49.9
       ]
     ],
     "223194": [
@@ -22850,52 +23843,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         49.8
-      ]
-    ],
-    "215306": [
-      [
-        "20260613",
-        49.7
       ],
       [
-        "20260614",
-        49.7
-      ],
-      [
-        "20260617",
-        49.6
-      ],
-      [
-        "20260620",
-        49.6
-      ],
-      [
-        "20260621",
-        49.6
-      ],
-      [
-        "20260622",
-        49.6
-      ],
-      [
-        "20260623",
-        49.6
-      ],
-      [
-        "20260624",
-        49.6
-      ],
-      [
-        "20260625",
-        49.6
-      ],
-      [
-        "20260626",
-        49.6
-      ],
-      [
-        "20260627",
-        49.6
+        "20260628",
+        49.8
       ]
     ],
     "259733": [
@@ -22941,6 +23892,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        48.7
+      ],
+      [
+        "20260628",
         48.7
       ]
     ],
@@ -22988,6 +23943,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         48.6
+      ],
+      [
+        "20260628",
+        48.6
       ]
     ],
     "222661": [
@@ -23034,6 +23993,60 @@ window.TENNIS_DATA = {
       [
         "20260627",
         48.1
+      ],
+      [
+        "20260628",
+        48.3
+      ]
+    ],
+    "220435": [
+      [
+        "20260613",
+        47.6
+      ],
+      [
+        "20260614",
+        47.6
+      ],
+      [
+        "20260617",
+        47.0
+      ],
+      [
+        "20260620",
+        47.0
+      ],
+      [
+        "20260621",
+        47.0
+      ],
+      [
+        "20260622",
+        46.9
+      ],
+      [
+        "20260623",
+        46.9
+      ],
+      [
+        "20260624",
+        46.9
+      ],
+      [
+        "20260625",
+        46.9
+      ],
+      [
+        "20260626",
+        46.9
+      ],
+      [
+        "20260627",
+        46.9
+      ],
+      [
+        "20260628",
+        47.6
       ]
     ],
     "215899": [
@@ -23080,6 +24093,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         47.7
+      ],
+      [
+        "20260628",
+        47.4
       ]
     ],
     "214906": [
@@ -23125,6 +24142,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        47.3
+      ],
+      [
+        "20260628",
         47.3
       ]
     ],
@@ -23172,52 +24193,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         47.1
-      ]
-    ],
-    "220435": [
-      [
-        "20260613",
-        47.6
       ],
       [
-        "20260614",
-        47.6
-      ],
-      [
-        "20260617",
-        47.0
-      ],
-      [
-        "20260620",
-        47.0
-      ],
-      [
-        "20260621",
-        47.0
-      ],
-      [
-        "20260622",
-        46.9
-      ],
-      [
-        "20260623",
-        46.9
-      ],
-      [
-        "20260624",
-        46.9
-      ],
-      [
-        "20260625",
-        46.9
-      ],
-      [
-        "20260626",
-        46.9
-      ],
-      [
-        "20260627",
-        46.9
+        "20260628",
+        47.1
       ]
     ],
     "206368": [
@@ -23264,52 +24243,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         46.8
-      ]
-    ],
-    "220465": [
-      [
-        "20260613",
-        46.6
       ],
       [
-        "20260614",
-        46.6
-      ],
-      [
-        "20260617",
-        46.6
-      ],
-      [
-        "20260620",
-        46.6
-      ],
-      [
-        "20260621",
-        46.6
-      ],
-      [
-        "20260622",
-        46.7
-      ],
-      [
-        "20260623",
-        46.7
-      ],
-      [
-        "20260624",
-        46.7
-      ],
-      [
-        "20260625",
-        46.7
-      ],
-      [
-        "20260626",
-        46.7
-      ],
-      [
-        "20260627",
-        46.7
+        "20260628",
+        46.8
       ]
     ],
     "205925": [
@@ -23356,52 +24293,60 @@ window.TENNIS_DATA = {
       [
         "20260627",
         46.7
+      ],
+      [
+        "20260628",
+        46.7
       ]
     ],
-    "230870": [
+    "220465": [
       [
         "20260613",
-        46.4
+        46.6
       ],
       [
         "20260614",
-        46.4
+        46.6
       ],
       [
         "20260617",
-        46.5
+        46.6
       ],
       [
         "20260620",
-        46.5
+        46.6
       ],
       [
         "20260621",
-        46.5
+        46.6
       ],
       [
         "20260622",
-        46.1
+        46.7
       ],
       [
         "20260623",
-        46.1
+        46.7
       ],
       [
         "20260624",
-        46.1
+        46.7
       ],
       [
         "20260625",
-        46.1
+        46.7
       ],
       [
         "20260626",
-        46.1
+        46.7
       ],
       [
         "20260627",
-        46.1
+        46.7
+      ],
+      [
+        "20260628",
+        46.6
       ]
     ],
     "206242": [
@@ -23448,6 +24393,60 @@ window.TENNIS_DATA = {
       [
         "20260627",
         46.0
+      ],
+      [
+        "20260628",
+        46.0
+      ]
+    ],
+    "230870": [
+      [
+        "20260613",
+        46.4
+      ],
+      [
+        "20260614",
+        46.4
+      ],
+      [
+        "20260617",
+        46.5
+      ],
+      [
+        "20260620",
+        46.5
+      ],
+      [
+        "20260621",
+        46.5
+      ],
+      [
+        "20260622",
+        46.1
+      ],
+      [
+        "20260623",
+        46.1
+      ],
+      [
+        "20260624",
+        46.1
+      ],
+      [
+        "20260625",
+        46.1
+      ],
+      [
+        "20260626",
+        46.1
+      ],
+      [
+        "20260627",
+        46.1
+      ],
+      [
+        "20260628",
+        45.8
       ]
     ],
     "216016": [
@@ -23485,6 +24484,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        45.1
+      ],
+      [
+        "20260628",
         45.1
       ]
     ],
@@ -23532,6 +24535,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         44.9
+      ],
+      [
+        "20260628",
+        44.9
       ]
     ],
     "221257": [
@@ -23577,6 +24584,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        44.8
+      ],
+      [
+        "20260628",
         44.8
       ]
     ],
@@ -23624,6 +24635,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         44.6
+      ],
+      [
+        "20260628",
+        44.6
       ]
     ],
     "220722": [
@@ -23669,6 +24684,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        44.3
+      ],
+      [
+        "20260628",
         44.3
       ]
     ],
@@ -23716,6 +24735,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         44.2
+      ],
+      [
+        "20260628",
+        43.7
       ]
     ],
     "215936": [
@@ -23762,52 +24785,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         43.1
-      ]
-    ],
-    "219875": [
-      [
-        "20260613",
-        43.0
       ],
       [
-        "20260614",
-        43.0
-      ],
-      [
-        "20260617",
-        42.8
-      ],
-      [
-        "20260620",
-        42.8
-      ],
-      [
-        "20260621",
-        42.8
-      ],
-      [
-        "20260622",
-        42.8
-      ],
-      [
-        "20260623",
-        42.8
-      ],
-      [
-        "20260624",
-        42.8
-      ],
-      [
-        "20260625",
-        42.8
-      ],
-      [
-        "20260626",
-        42.8
-      ],
-      [
-        "20260627",
-        42.8
+        "20260628",
+        43.1
       ]
     ],
     "213646": [
@@ -23853,6 +24834,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        42.4
+      ],
+      [
+        "20260628",
         42.4
       ]
     ],
@@ -23900,6 +24885,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         42.1
+      ],
+      [
+        "20260628",
+        42.1
       ]
     ],
     "221406": [
@@ -23945,6 +24934,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        41.8
+      ],
+      [
+        "20260628",
         41.8
       ]
     ],
@@ -23992,6 +24985,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         41.7
+      ],
+      [
+        "20260628",
+        41.7
       ]
     ],
     "220662": [
@@ -24038,6 +25035,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         41.5
+      ],
+      [
+        "20260628",
+        41.2
       ]
     ],
     "206294": [
@@ -24076,6 +25077,60 @@ window.TENNIS_DATA = {
       [
         "20260627",
         41.1
+      ],
+      [
+        "20260628",
+        41.1
+      ]
+    ],
+    "219875": [
+      [
+        "20260613",
+        43.0
+      ],
+      [
+        "20260614",
+        43.0
+      ],
+      [
+        "20260617",
+        42.8
+      ],
+      [
+        "20260620",
+        42.8
+      ],
+      [
+        "20260621",
+        42.8
+      ],
+      [
+        "20260622",
+        42.8
+      ],
+      [
+        "20260623",
+        42.8
+      ],
+      [
+        "20260624",
+        42.8
+      ],
+      [
+        "20260625",
+        42.8
+      ],
+      [
+        "20260626",
+        42.8
+      ],
+      [
+        "20260627",
+        42.8
+      ],
+      [
+        "20260628",
+        40.9
       ]
     ],
     "221124": [
@@ -24121,6 +25176,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        40.8
+      ],
+      [
+        "20260628",
         40.8
       ]
     ],
@@ -24168,6 +25227,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         40.4
+      ],
+      [
+        "20260628",
+        40.4
       ]
     ],
     "211880": [
@@ -24213,6 +25276,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        39.2
+      ],
+      [
+        "20260628",
         39.2
       ]
     ],
@@ -24260,52 +25327,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         38.9
-      ]
-    ],
-    "222290": [
-      [
-        "20260613",
-        38.1
       ],
       [
-        "20260614",
-        38.1
-      ],
-      [
-        "20260617",
-        38.3
-      ],
-      [
-        "20260620",
-        38.3
-      ],
-      [
-        "20260621",
-        38.3
-      ],
-      [
-        "20260622",
-        38.0
-      ],
-      [
-        "20260623",
-        38.0
-      ],
-      [
-        "20260624",
-        38.0
-      ],
-      [
-        "20260625",
-        38.0
-      ],
-      [
-        "20260626",
-        38.0
-      ],
-      [
-        "20260627",
-        38.0
+        "20260628",
+        38.9
       ]
     ],
     "220742": [
@@ -24352,6 +25377,60 @@ window.TENNIS_DATA = {
       [
         "20260627",
         37.9
+      ],
+      [
+        "20260628",
+        37.9
+      ]
+    ],
+    "222290": [
+      [
+        "20260613",
+        38.1
+      ],
+      [
+        "20260614",
+        38.1
+      ],
+      [
+        "20260617",
+        38.3
+      ],
+      [
+        "20260620",
+        38.3
+      ],
+      [
+        "20260621",
+        38.3
+      ],
+      [
+        "20260622",
+        38.0
+      ],
+      [
+        "20260623",
+        38.0
+      ],
+      [
+        "20260624",
+        38.0
+      ],
+      [
+        "20260625",
+        38.0
+      ],
+      [
+        "20260626",
+        38.0
+      ],
+      [
+        "20260627",
+        38.0
+      ],
+      [
+        "20260628",
+        37.5
       ]
     ],
     "211814": [
@@ -24397,6 +25476,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        37.4
+      ],
+      [
+        "20260628",
         37.4
       ]
     ],
@@ -24444,6 +25527,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         36.6
+      ],
+      [
+        "20260628",
+        36.6
       ]
     ],
     "214461": [
@@ -24489,6 +25576,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        36.6
+      ],
+      [
+        "20260628",
         36.6
       ]
     ],
@@ -24536,6 +25627,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         36.3
+      ],
+      [
+        "20260628",
+        36.3
       ]
     ],
     "222233": [
@@ -24581,6 +25676,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        36.1
+      ],
+      [
+        "20260628",
         36.1
       ]
     ],
@@ -24628,6 +25727,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         36.0
+      ],
+      [
+        "20260628",
+        36.0
       ]
     ],
     "202684": [
@@ -24665,6 +25768,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        35.9
+      ],
+      [
+        "20260628",
         35.9
       ]
     ],
@@ -24712,6 +25819,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         35.3
+      ],
+      [
+        "20260628",
+        35.3
       ]
     ],
     "221307": [
@@ -24757,6 +25868,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        35.0
+      ],
+      [
+        "20260628",
         35.0
       ]
     ],
@@ -24804,6 +25919,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         35.0
+      ],
+      [
+        "20260628",
+        35.0
       ]
     ],
     "215219": [
@@ -24850,6 +25969,10 @@ window.TENNIS_DATA = {
       [
         "20260627",
         35.0
+      ],
+      [
+        "20260628",
+        35.0
       ]
     ],
     "213666": [
@@ -24895,6 +26018,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260627",
+        35.0
+      ],
+      [
+        "20260628",
         35.0
       ]
     ]
@@ -25036,12 +26163,12 @@ window.TENNIS_DATA = {
       "id": "239475",
       "name": "Victoria Mboko",
       "age": 19,
-      "rank": 9,
+      "rank": 10,
       "country": "CAN",
       "logo": "https://flagcdn.com/24x18/ca.png",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 85.3,
+      "activeScore": 85.2,
       "leyendaScore": 0.0,
       "note": "Top 10 a los 19"
     },
@@ -25049,25 +26176,25 @@ window.TENNIS_DATA = {
       "id": "222328",
       "name": "Linda Noskova",
       "age": 21,
-      "rank": 10,
+      "rank": 12,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 79.0,
+      "activeScore": 78.7,
       "leyendaScore": 0.0,
-      "note": "Top 10 a los 21"
+      "note": "Top 30 a los 21"
     },
     {
       "id": "260300",
       "name": "Iva Jovic",
       "age": 18,
-      "rank": 17,
+      "rank": 16,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 76.4,
+      "activeScore": 76.6,
       "leyendaScore": 0.0,
       "note": "Top 30 a los 18"
     },
@@ -25075,12 +26202,12 @@ window.TENNIS_DATA = {
       "id": "223670",
       "name": "Diana Shnaider",
       "age": 22,
-      "rank": 16,
+      "rank": 15,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 76.3,
+      "activeScore": 76.4,
       "leyendaScore": 0.0,
       "note": "Top 30 a los 22"
     },
@@ -25088,27 +26215,27 @@ window.TENNIS_DATA = {
       "id": "223253",
       "name": "Alexandra Eala",
       "age": 21,
-      "rank": 30,
+      "rank": 32,
       "country": "PHI",
       "logo": "",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 68.7,
+      "activeScore": 68.5,
       "leyendaScore": 0.0,
-      "note": "Top 30 a los 21"
+      "note": "Irrumpe a los 21 (#32)"
     },
     {
-      "id": "223360",
-      "name": "Nikola Bartunkova",
-      "age": 20,
-      "rank": 46,
+      "id": "266671",
+      "name": "Laura Samson",
+      "age": 18,
+      "rank": 147,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 65.0,
+      "activeScore": 64.9,
       "leyendaScore": 0.0,
-      "note": "Irrumpe a los 20 (#46)"
+      "note": "Irrumpe a los 18 (#147)"
     }
   ],
   "IMPORTANCE": 7.0

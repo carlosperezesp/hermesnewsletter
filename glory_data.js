@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-27 22:35 UTC",
+  "UPDATED": "2026-06-28 08:32 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Lenovo Austrian Grand Prix:Kimi Antonelli",
@@ -92,6 +92,15 @@ window.GLORY_DATA = {
       "anchor": "mlb-road-to-glory"
     },
     {
+      "id": "tennis:in:WTA:Karolina Muchova:20260625",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Karolina Muchova entra en el top 10 WTA",
+      "weight": 90,
+      "anchor": "tennis-wta",
+      "firstSeen": "2026-06-28"
+    },
+    {
       "id": "tennis:in:WTA:Linda Noskova:20260618",
       "sport": "tennis",
       "detail": "Tenis",
@@ -118,6 +127,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-14"
     },
     {
+      "id": "rank:afl:LADDER:in:North Melbourne",
+      "sport": "afl",
+      "detail": "AFL",
+      "anchor": "afl-clasificacion",
+      "text": "North Melbourne entra en el top-10 · clasificación",
+      "weight": 84,
+      "firstSeen": "2026-06-28"
+    },
+    {
       "id": "rank:afl:LADDER:in:Collingwood",
       "sport": "afl",
       "detail": "AFL",
@@ -134,6 +152,15 @@ window.GLORY_DATA = {
       "text": "Andy Pages entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-06-27"
+    },
+    {
+      "id": "tennis:out:WTA:Linda Noskova:20260625",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Linda Noskova sale del top 10 WTA",
+      "weight": 78,
+      "anchor": "tennis-wta",
+      "firstSeen": "2026-06-28"
     },
     {
       "id": "tennis:out:WTA:Karolina Muchova:20260618",
@@ -154,20 +181,20 @@ window.GLORY_DATA = {
       "anchor": "tennis-atp"
     },
     {
+      "id": "rank:afl:LADDER:out:Gold Coast",
+      "sport": "afl",
+      "detail": "AFL",
+      "anchor": "afl-clasificacion",
+      "text": "Gold Coast cae del top-10 · clasificación",
+      "weight": 74,
+      "firstSeen": "2026-06-28"
+    },
+    {
       "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:out:Chase Burns",
       "sport": "mlb",
       "detail": "MLB",
       "anchor": "mlb-jovenes-promesas",
       "text": "Chase Burns cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-06-27"
-    },
-    {
-      "id": "rank:afl:LADDER:out:North Melbourne",
-      "sport": "afl",
-      "detail": "AFL",
-      "anchor": "afl-clasificacion",
-      "text": "North Melbourne cae del top-10 · clasificación",
       "weight": 74,
       "firstSeen": "2026-06-27"
     }
@@ -364,11 +391,11 @@ window.GLORY_DATA = {
     "mlb:ROAD_TO_GLORY.youngProspects": [
       "Jacob Misiorowski",
       "Nick Kurtz",
+      "Junior Caminero",
+      "Sal Stewart",
       "Jordan Walker",
       "James Wood",
-      "Junior Caminero",
       "Pete Crow-Armstrong",
-      "Sal Stewart",
       "CJ Abrams",
       "Cam Schlittler",
       "Andy Pages"
@@ -415,7 +442,7 @@ window.GLORY_DATA = {
       "Marta Kostyuk",
       "Jessica Pegula",
       "Amanda Anisimova",
-      "Sorana Cirstea"
+      "Karolina Muchova"
     ],
     "tennis:ATP_LEGENDS": [
       "Novak Djokovic",
@@ -610,8 +637,8 @@ window.GLORY_DATA = {
       "Adelaide",
       "Melbourne",
       "Western Bulldogs",
-      "Collingwood",
-      "Gold Coast"
+      "North Melbourne",
+      "Collingwood"
     ],
     "football:ROAD_TO_GLORY.currentContenders": [
       "Argentina",
