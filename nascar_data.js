@@ -1,11 +1,11 @@
 window.NASCAR_DATA = {
-  "UPDATED": "2026-06-28 15:06 UTC",
+  "UPDATED": "2026-06-28 21:20 UTC",
   "SEASON": 2026,
-  "ROUND": 21,
+  "ROUND": 22,
   "TOTAL_ROUNDS": 36,
   "REGULAR_SEASON_ROUNDS": 26,
   "PLAYOFF_FIELD_SIZE": 16,
-  "IMPORTANCE": 8.2,
+  "IMPORTANCE": 8.3,
   "LEGEND_THRESHOLD": 14.7,
   "PLAYOFF_CUTOFF": {
     "rank": 16,
@@ -175,13 +175,13 @@ window.NASCAR_DATA = {
       },
       "points": 535,
       "wins": 1,
-      "poles": 0,
+      "poles": 1,
       "top5": 6,
       "top10": 10,
       "stats": {
         "pts": 535,
         "wins": 1,
-        "poles": 0,
+        "poles": 1,
         "top5": 6,
         "top10": 10
       },
@@ -1636,16 +1636,16 @@ window.NASCAR_DATA = {
     }
   ],
   "LAST_RACE": {
-    "date": "Sun, Jun 21",
-    "name": "NASCAR Cup Series at San Diego",
-    "circuit": "Naval Base Coronado",
-    "winner": "Corey Heim",
-    "manufacturer": "Toyota",
-    "url": "https://www.espn.com/racing/raceresults/_/series/sprint/raceId/202606214266",
+    "date": "Sun, Jun 28",
+    "name": "NASCAR Cup Series at Sonoma",
+    "circuit": "Sonoma Raceway",
+    "winner": "Current Leader:",
+    "manufacturer": "NASCAR",
+    "url": "https://www.espn.com/racing/raceresults/_/series/sprint/raceId/202606280008",
     "podium": [
       {
         "position": 1,
-        "name": "Corey Heim",
+        "name": "Shane van Gisbergen (leads on lap 59 of 110)",
         "team": "NASCAR Cup",
         "manufacturer": "NASCAR",
         "logo": "https://flagcdn.com/24x18/us.png",
@@ -1653,35 +1653,35 @@ window.NASCAR_DATA = {
       },
       {
         "position": 2,
-        "name": "Bubba Wallace",
-        "team": "23XI Racing",
+        "name": "Connor Zilisch",
+        "team": "NASCAR Cup",
+        "manufacturer": "NASCAR",
+        "logo": "https://flagcdn.com/24x18/us.png",
+        "primary": "#E4002B"
+      },
+      {
+        "position": 3,
+        "name": "Chase Briscoe",
+        "team": "Joe Gibbs Racing",
         "manufacturer": "Toyota",
         "logo": "https://flagcdn.com/24x18/us.png",
         "primary": "#EB0A1E"
       },
       {
-        "position": 3,
+        "position": 4,
+        "name": "Ryan Blaney",
+        "team": "Team Penske",
+        "manufacturer": "Ford",
+        "logo": "https://flagcdn.com/24x18/us.png",
+        "primary": "#003478"
+      },
+      {
+        "position": 5,
         "name": "Kyle Larson",
         "team": "Hendrick Motorsports",
         "manufacturer": "Chevrolet",
         "logo": "https://flagcdn.com/24x18/us.png",
         "primary": "#F7C600"
-      },
-      {
-        "position": 4,
-        "name": "Zane Smith",
-        "team": "NASCAR Cup",
-        "manufacturer": "NASCAR",
-        "logo": "https://flagcdn.com/24x18/us.png",
-        "primary": "#E4002B"
-      },
-      {
-        "position": 5,
-        "name": "AJ Allmendinger",
-        "team": "NASCAR Cup",
-        "manufacturer": "NASCAR",
-        "logo": "https://flagcdn.com/24x18/us.png",
-        "primary": "#E4002B"
       }
     ]
   },

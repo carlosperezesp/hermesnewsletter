@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-28 15:06 UTC
+// Auto-generated 2026-06-28 21:20 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-06-28 15:06 UTC",
+  "UPDATED": "2026-06-28 21:20 UTC",
   "SEASON": "2026",
   "ROUND": 7,
   "TOTAL_ROUNDS": 24,
@@ -54,7 +54,7 @@ window.F1_DATA = {
         "pts": 131.0,
         "wins": 0
       },
-      "prevRank": 3,
+      "prevRank": 2,
       "age": 28
     },
     {
@@ -79,7 +79,7 @@ window.F1_DATA = {
         "pts": 125.0,
         "wins": 0
       },
-      "prevRank": 2,
+      "prevRank": 3,
       "age": 41
     },
     {
@@ -104,7 +104,7 @@ window.F1_DATA = {
         "pts": 80.0,
         "wins": 0
       },
-      "prevRank": 6,
+      "prevRank": 4,
       "age": 25
     },
     {
@@ -154,7 +154,7 @@ window.F1_DATA = {
         "pts": 79.0,
         "wins": 0
       },
-      "prevRank": 4,
+      "prevRank": 6,
       "age": 29
     },
     {
@@ -204,7 +204,7 @@ window.F1_DATA = {
         "pts": 42.0,
         "wins": 0
       },
-      "prevRank": 9,
+      "prevRank": 8,
       "age": 22
     },
     {
@@ -229,7 +229,7 @@ window.F1_DATA = {
         "pts": 41.0,
         "wins": 0
       },
-      "prevRank": 8,
+      "prevRank": 9,
       "age": 30
     },
     {

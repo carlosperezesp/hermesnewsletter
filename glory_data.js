@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-28 15:08 UTC",
+  "UPDATED": "2026-06-28 21:37 UTC",
   "EVENTS": [
+    {
+      "id": "nascar:win:NASCAR Cup Series at Sonoma:Current Leader:",
+      "sport": "nascar",
+      "detail": "NASCAR",
+      "text": "Current Leader: ganó en Sonoma Raceway",
+      "weight": 100,
+      "firstSeen": "2026-06-28"
+    },
     {
       "id": "f1:win:Lenovo Austrian Grand Prix:Kimi Antonelli",
       "sport": "f1",

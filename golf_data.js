@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-28 15:06 UTC
+// Auto-generated 2026-06-28 21:20 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-28 15:06 UTC",
+  "UPDATED": "2026-06-28 21:20 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -110,83 +110,83 @@ window.GOLF_DATA = {
     "leaderboard": [
       {
         "rank": 1,
-        "name": "Viktor Hovland",
-        "id": "4364873",
-        "country": "Norway",
-        "score": "-20",
-        "today": ""
-      },
-      {
-        "rank": 2,
         "name": "Scottie Scheffler",
         "id": "9478",
         "country": "USA",
+        "score": "-20",
+        "today": "-1"
+      },
+      {
+        "rank": 2,
+        "name": "Collin Morikawa",
+        "id": "10592",
+        "country": "USA",
         "score": "-19",
-        "today": ""
+        "today": "-8"
       },
       {
         "rank": 3,
-        "name": "Patrick Cantlay",
-        "id": "6007",
-        "country": "USA",
-        "score": "-15",
-        "today": ""
-      },
-      {
-        "rank": 4,
-        "name": "Akshay Bhatia",
-        "id": "4419142",
-        "country": "USA",
-        "score": "-15",
-        "today": ""
-      },
-      {
-        "rank": 5,
-        "name": "Shane Lowry",
-        "id": "4587",
-        "country": "Ireland",
-        "score": "-13",
-        "today": ""
-      },
-      {
-        "rank": 6,
-        "name": "Wyndham Clark",
-        "id": "11119",
-        "country": "USA",
-        "score": "-13",
-        "today": ""
-      },
-      {
-        "rank": 7,
-        "name": "Ben Griffin",
-        "id": "4404992",
-        "country": "USA",
-        "score": "-13",
-        "today": ""
-      },
-      {
-        "rank": 8,
         "name": "Matt Fitzpatrick",
         "id": "9037",
         "country": "England",
-        "score": "-13",
-        "today": ""
+        "score": "-19",
+        "today": "-6"
+      },
+      {
+        "rank": 4,
+        "name": "Wyndham Clark",
+        "id": "11119",
+        "country": "USA",
+        "score": "-18",
+        "today": "-5"
+      },
+      {
+        "rank": 5,
+        "name": "Viktor Hovland",
+        "id": "4364873",
+        "country": "Norway",
+        "score": "-18",
+        "today": "+2"
+      },
+      {
+        "rank": 6,
+        "name": "Corey Conners",
+        "id": "9126",
+        "country": "Canada",
+        "score": "-17",
+        "today": "-7"
+      },
+      {
+        "rank": 7,
+        "name": "J.J. Spaun",
+        "id": "10166",
+        "country": "USA",
+        "score": "-17",
+        "today": "-6"
+      },
+      {
+        "rank": 8,
+        "name": "Alex Fitzpatrick",
+        "id": "4364865",
+        "country": "England",
+        "score": "-17",
+        "today": "-6"
       },
       {
         "rank": 9,
-        "name": "Eric Cole",
-        "id": "10522",
+        "name": "Akshay Bhatia",
+        "id": "4419142",
         "country": "USA",
-        "score": "-13",
-        "today": ""
+        "score": "-17",
+        "today": "-2"
       },
       {
         "rank": 10,
-        "name": "Keith Mitchell",
-        "id": "8906",
-        "country": "USA",
-        "score": "-12",
-        "today": ""
+        "name": "Robert MacIntyre",
+        "id": "11378",
+        "country": "Scotland",
+        "score": "-16",
+        "today": "-5"
       }
     ],
     "favorites": [
