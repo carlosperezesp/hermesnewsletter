@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-28 21:20 UTC
+// Auto-generated 2026-06-28 22:32 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-28 21:20 UTC",
+  "UPDATED": "2026-06-28 22:32 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -113,56 +113,56 @@ window.GOLF_DATA = {
         "name": "Scottie Scheffler",
         "id": "9478",
         "country": "USA",
-        "score": "-20",
-        "today": "-1"
+        "score": "-21",
+        "today": "-2"
       },
       {
         "rank": 2,
         "name": "Collin Morikawa",
         "id": "10592",
         "country": "USA",
-        "score": "-19",
-        "today": "-8"
+        "score": "-20",
+        "today": "-9"
       },
       {
         "rank": 3,
-        "name": "Matt Fitzpatrick",
-        "id": "9037",
-        "country": "England",
+        "name": "Wyndham Clark",
+        "id": "11119",
+        "country": "USA",
         "score": "-19",
         "today": "-6"
       },
       {
         "rank": 4,
-        "name": "Wyndham Clark",
-        "id": "11119",
-        "country": "USA",
+        "name": "Viktor Hovland",
+        "id": "4364873",
+        "country": "Norway",
+        "score": "-19",
+        "today": "+1"
+      },
+      {
+        "rank": 5,
+        "name": "Matt Fitzpatrick",
+        "id": "9037",
+        "country": "England",
         "score": "-18",
         "today": "-5"
       },
       {
-        "rank": 5,
-        "name": "Viktor Hovland",
-        "id": "4364873",
-        "country": "Norway",
+        "rank": 6,
+        "name": "Akshay Bhatia",
+        "id": "4419142",
+        "country": "USA",
         "score": "-18",
-        "today": "+2"
+        "today": "-3"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "Corey Conners",
         "id": "9126",
         "country": "Canada",
         "score": "-17",
         "today": "-7"
-      },
-      {
-        "rank": 7,
-        "name": "J.J. Spaun",
-        "id": "10166",
-        "country": "USA",
-        "score": "-17",
-        "today": "-6"
       },
       {
         "rank": 8,
@@ -174,11 +174,11 @@ window.GOLF_DATA = {
       },
       {
         "rank": 9,
-        "name": "Akshay Bhatia",
-        "id": "4419142",
+        "name": "J.J. Spaun",
+        "id": "10166",
         "country": "USA",
         "score": "-17",
-        "today": "-2"
+        "today": "-6"
       },
       {
         "rank": 10,
