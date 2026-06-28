@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-28 14:27 UTC",
+  "UPDATED": "2026-06-28 15:08 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Lenovo Austrian Grand Prix:Kimi Antonelli",
@@ -567,14 +567,14 @@ window.GLORY_DATA = {
     ],
     "f1:DRIVERS": [
       "Kimi Antonelli",
-      "Lewis Hamilton",
       "George Russell",
-      "Charles Leclerc",
-      "Lando Norris",
+      "Lewis Hamilton",
       "Oscar Piastri",
+      "Lando Norris",
+      "Charles Leclerc",
       "Max Verstappen",
-      "Pierre Gasly",
       "Isack Hadjar",
+      "Pierre Gasly",
       "Liam Lawson"
     ],
     "f1:LEGENDS": [

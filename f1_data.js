@@ -1,8 +1,8 @@
-// Auto-generated 2026-06-28 14:26 UTC
+// Auto-generated 2026-06-28 15:06 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-06-28 14:26 UTC",
+  "UPDATED": "2026-06-28 15:06 UTC",
   "SEASON": "2026",
-  "ROUND": 6,
+  "ROUND": 7,
   "TOTAL_ROUNDS": 24,
   "MAX_SEASON_PTS": 600,
   "IMPORTANCE": 10.0,
@@ -21,12 +21,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 156.0,
-      "lastWeekendPoints": 0.0,
+      "points": 171.0,
+      "lastWeekendPoints": 15.0,
       "wins": 0,
-      "score": 26.0,
+      "score": 28.5,
       "stats": {
-        "pts": 156.0,
+        "pts": 171.0,
         "wins": 0
       },
       "prevRank": 1,
@@ -34,31 +34,6 @@ window.F1_DATA = {
     },
     {
       "position": 2,
-      "name": "Lewis Hamilton",
-      "nationality": "",
-      "country": "GBR",
-      "teamCode": "ferrari",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
-      "primary": "#DC0000",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#DC0000",
-        "secondary": "#FFFFFF"
-      },
-      "team": "",
-      "points": 115.0,
-      "lastWeekendPoints": 0.0,
-      "wins": 0,
-      "score": 19.2,
-      "stats": {
-        "pts": 115.0,
-        "wins": 0
-      },
-      "prevRank": 2,
-      "age": 41
-    },
-    {
-      "position": 3,
       "name": "George Russell",
       "nationality": "",
       "country": "GBR",
@@ -71,24 +46,24 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 106.0,
-      "lastWeekendPoints": 0.0,
+      "points": 131.0,
+      "lastWeekendPoints": 25.0,
       "wins": 0,
-      "score": 17.7,
+      "score": 21.8,
       "stats": {
-        "pts": 106.0,
+        "pts": 131.0,
         "wins": 0
       },
       "prevRank": 3,
       "age": 28
     },
     {
-      "position": 4,
-      "name": "Charles Leclerc",
+      "position": 3,
+      "name": "Lewis Hamilton",
       "nationality": "",
-      "country": "MON",
+      "country": "GBR",
       "teamCode": "ferrari",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mon.png",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
       "primary": "#DC0000",
       "secondary": "#FFFFFF",
       "colors": {
@@ -96,16 +71,41 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 75.0,
-      "lastWeekendPoints": 0.0,
+      "points": 125.0,
+      "lastWeekendPoints": 10.0,
       "wins": 0,
-      "score": 12.5,
+      "score": 20.8,
       "stats": {
-        "pts": 75.0,
+        "pts": 125.0,
         "wins": 0
       },
-      "prevRank": 4,
-      "age": 29
+      "prevRank": 2,
+      "age": 41
+    },
+    {
+      "position": 4,
+      "name": "Oscar Piastri",
+      "nationality": "",
+      "country": "AUS",
+      "teamCode": "mclaren",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+      "primary": "#FF8700",
+      "secondary": "#000000",
+      "colors": {
+        "primary": "#FF8700",
+        "secondary": "#000000"
+      },
+      "team": "",
+      "points": 80.0,
+      "lastWeekendPoints": 12.0,
+      "wins": 0,
+      "score": 13.3,
+      "stats": {
+        "pts": 80.0,
+        "wins": 0
+      },
+      "prevRank": 6,
+      "age": 25
     },
     {
       "position": 5,
@@ -121,12 +121,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 73.0,
-      "lastWeekendPoints": 0.0,
+      "points": 79.0,
+      "lastWeekendPoints": 6.0,
       "wins": 0,
-      "score": 12.2,
+      "score": 13.2,
       "stats": {
-        "pts": 73.0,
+        "pts": 79.0,
         "wins": 0
       },
       "prevRank": 5,
@@ -134,28 +134,28 @@ window.F1_DATA = {
     },
     {
       "position": 6,
-      "name": "Oscar Piastri",
+      "name": "Charles Leclerc",
       "nationality": "",
-      "country": "AUS",
-      "teamCode": "mclaren",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
-      "primary": "#FF8700",
-      "secondary": "#000000",
+      "country": "MON",
+      "teamCode": "ferrari",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mon.png",
+      "primary": "#DC0000",
+      "secondary": "#FFFFFF",
       "colors": {
-        "primary": "#FF8700",
-        "secondary": "#000000"
+        "primary": "#DC0000",
+        "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 68.0,
-      "lastWeekendPoints": 0.0,
+      "points": 79.0,
+      "lastWeekendPoints": 4.0,
       "wins": 0,
-      "score": 11.3,
+      "score": 13.2,
       "stats": {
-        "pts": 68.0,
+        "pts": 79.0,
         "wins": 0
       },
-      "prevRank": 6,
-      "age": 25
+      "prevRank": 4,
+      "age": 29
     },
     {
       "position": 7,
@@ -171,12 +171,12 @@ window.F1_DATA = {
         "secondary": "#CC1E4A"
       },
       "team": "",
-      "points": 55.0,
-      "lastWeekendPoints": 0.0,
+      "points": 73.0,
+      "lastWeekendPoints": 18.0,
       "wins": 0,
-      "score": 9.2,
+      "score": 12.2,
       "stats": {
-        "pts": 55.0,
+        "pts": 73.0,
         "wins": 0
       },
       "prevRank": 7,
@@ -184,6 +184,31 @@ window.F1_DATA = {
     },
     {
       "position": 8,
+      "name": "Isack Hadjar",
+      "nationality": "",
+      "country": "FRA",
+      "teamCode": "rb",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#555555",
+        "secondary": "#FFFFFF"
+      },
+      "team": "",
+      "points": 42.0,
+      "lastWeekendPoints": 8.0,
+      "wins": 0,
+      "score": 7.0,
+      "stats": {
+        "pts": 42.0,
+        "wins": 0
+      },
+      "prevRank": 9,
+      "age": 22
+    },
+    {
+      "position": 9,
       "name": "Pierre Gasly",
       "nationality": "",
       "country": "FRA",
@@ -208,31 +233,6 @@ window.F1_DATA = {
       "age": 30
     },
     {
-      "position": 9,
-      "name": "Isack Hadjar",
-      "nationality": "",
-      "country": "FRA",
-      "teamCode": "rb",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#555555",
-        "secondary": "#FFFFFF"
-      },
-      "team": "",
-      "points": 34.0,
-      "lastWeekendPoints": 0.0,
-      "wins": 0,
-      "score": 5.7,
-      "stats": {
-        "pts": 34.0,
-        "wins": 0
-      },
-      "prevRank": 9,
-      "age": 22
-    },
-    {
       "position": 10,
       "name": "Liam Lawson",
       "nationality": "",
@@ -246,12 +246,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 28.0,
-      "lastWeekendPoints": 0.0,
+      "points": 30.0,
+      "lastWeekendPoints": 2.0,
       "wins": 0,
-      "score": 4.7,
+      "score": 5.0,
       "stats": {
-        "pts": 28.0,
+        "pts": 30.0,
         "wins": 0
       },
       "prevRank": 10,
@@ -270,7 +270,7 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "score": 26.0,
+      "score": 28.5,
       "position": 1,
       "age": 20,
       "note": "Líder del campeonato a los 20"
@@ -286,10 +286,10 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "score": 11.3,
-      "position": 6,
+      "score": 13.3,
+      "position": 4,
       "age": 25,
-      "note": "Irrumpe a los 25 (P6)"
+      "note": "Top 4 a los 25"
     },
     {
       "name": "Isack Hadjar",
@@ -302,10 +302,10 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "score": 5.7,
-      "position": 9,
+      "score": 7.0,
+      "position": 8,
       "age": 22,
-      "note": "Irrumpe a los 22 (P9)"
+      "note": "Irrumpe a los 22 (P8)"
     },
     {
       "name": "Liam Lawson",
@@ -318,7 +318,7 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "score": 4.7,
+      "score": 5.0,
       "position": 10,
       "age": 24,
       "note": "Irrumpe a los 24 (P10)"
@@ -519,7 +519,7 @@ window.F1_DATA = {
       "id": "mercedes",
       "primary": "#00D2BE",
       "secondary": "#000000",
-      "points": 262.0
+      "points": 302.0
     },
     {
       "position": 2,
@@ -527,7 +527,7 @@ window.F1_DATA = {
       "id": "ferrari",
       "primary": "#DC0000",
       "secondary": "#FFFFFF",
-      "points": 190.0
+      "points": 204.0
     },
     {
       "position": 3,
@@ -535,7 +535,7 @@ window.F1_DATA = {
       "id": "mclaren",
       "primary": "#FF8700",
       "secondary": "#000000",
-      "points": 141.0
+      "points": 159.0
     },
     {
       "position": 4,
@@ -543,7 +543,7 @@ window.F1_DATA = {
       "id": "red_bull",
       "primary": "#00327D",
       "secondary": "#CC1E4A",
-      "points": 89.0
+      "points": 115.0
     },
     {
       "position": 5,
