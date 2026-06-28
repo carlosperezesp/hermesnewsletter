@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-28 08:32 UTC",
+  "UPDATED": "2026-06-28 09:39 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Lenovo Austrian Grand Prix:Kimi Antonelli",

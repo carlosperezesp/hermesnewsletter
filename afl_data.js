@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-28 08:29 UTC
+// Auto-generated 2026-06-28 09:38 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-06-28 08:29 UTC",
+  "UPDATED": "2026-06-28 09:38 UTC",
   "SEASON": "2026",
   "ROUND": 16,
   "IMPORTANCE": 8.0,
@@ -1115,6 +1115,16 @@ window.AFL_DATA = {
       "date": "2026-06-28",
       "hprimary": "#CC2031",
       "aprimary": "#CC2031"
+    },
+    {
+      "hteam": "Fremantle",
+      "hscore": 80,
+      "ateam": "Gold Coast",
+      "ascore": 29,
+      "winner": "Fremantle",
+      "date": "2026-06-28",
+      "hprimary": "#2A0D54",
+      "aprimary": "#C5002F"
     }
   ],
   "CURRENT_CONTENDERS": [
