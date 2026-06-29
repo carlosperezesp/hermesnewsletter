@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-29 11:32 UTC",
+  "UPDATED": "2026-06-29 16:28 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Sonoma:Shane van Gisbergen",
@@ -111,6 +111,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-29"
     },
     {
+      "id": "rank:golf:CURRENT:in:Akshay Bhatia",
+      "sport": "golf",
+      "detail": "Golf",
+      "anchor": "golf-nivel-actual",
+      "text": "Akshay Bhatia entra en el top-10 · Nivel actual",
+      "weight": 84,
+      "firstSeen": "2026-06-29"
+    },
+    {
+      "id": "rank:golf:CURRENT:in:Tommy Fleetwood",
+      "sport": "golf",
+      "detail": "Golf",
+      "anchor": "golf-nivel-actual",
+      "text": "Tommy Fleetwood entra en el top-10 · Nivel actual",
+      "weight": 84,
+      "firstSeen": "2026-06-29"
+    },
+    {
       "id": "rank:afl:LADDER:in:North Melbourne",
       "sport": "afl",
       "detail": "AFL",
@@ -154,6 +172,24 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-wta",
       "firstSeen": "2026-06-22"
+    },
+    {
+      "id": "rank:golf:CURRENT:out:Rory McIlroy",
+      "sport": "golf",
+      "detail": "Golf",
+      "anchor": "golf-nivel-actual",
+      "text": "Rory McIlroy cae del top-10 · Nivel actual",
+      "weight": 74,
+      "firstSeen": "2026-06-29"
+    },
+    {
+      "id": "rank:golf:CURRENT:out:Jacob Bridgeman",
+      "sport": "golf",
+      "detail": "Golf",
+      "anchor": "golf-nivel-actual",
+      "text": "Jacob Bridgeman cae del top-10 · Nivel actual",
+      "weight": 74,
+      "firstSeen": "2026-06-29"
     },
     {
       "id": "rank:afl:LADDER:out:Gold Coast",
@@ -584,12 +620,12 @@ window.GLORY_DATA = {
       "Matt Fitzpatrick",
       "Cameron Young",
       "Wyndham Clark",
-      "Si Woo Kim",
       "Collin Morikawa",
+      "Si Woo Kim",
       "Ludvig Åberg",
-      "Rory McIlroy",
-      "Jacob Bridgeman",
-      "Sam Burns"
+      "Sam Burns",
+      "Akshay Bhatia",
+      "Tommy Fleetwood"
     ],
     "golf:LEGENDS": [
       "Tiger Woods",
@@ -630,11 +666,11 @@ window.GLORY_DATA = {
     "cricket:ROAD_TO_GLORY.players": [
       "JJ Bumrah",
       "MA Starc",
+      "MJ Henry",
       "AAP Atkinson",
+      "JNT Seales",
       "KA Maharaj",
       "RA Jadeja",
-      "JNT Seales",
-      "MJ Henry",
       "Taijul Islam",
       "Mehedi Hasan Miraz",
       "Nauman Ali"

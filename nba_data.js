@@ -3346,7 +3346,7 @@ window.NBA_DATA = {
       "last": "Williams",
       "pos": "F",
       "teamCode": "OKC",
-      "age": 23,
+      "age": 24,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4432823.png",
       "colors": {
         "primary": "#007ac1",
@@ -3362,7 +3362,7 @@ window.NBA_DATA = {
         "blk": 0.2,
         "min": 16.0
       },
-      "legendScore": 33.0
+      "legendScore": 34.0
     },
     {
       "id": 4397020,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-06-29 11:27 UTC",
+  "LAST_UPDATE": "2026-06-29 16:27 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

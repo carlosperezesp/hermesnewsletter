@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-29 11:28 UTC
+// Auto-generated 2026-06-29 16:27 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-29 11:28 UTC",
+  "UPDATED": "2026-06-29 16:27 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -23,7 +23,7 @@ window.GOLF_DATA = {
       "Matt Fitzpatrick",
       "Cameron Young",
       "Wyndham Clark",
-      "Si Woo Kim"
+      "Collin Morikawa"
     ]
   },
   "LAST_MAJOR": {
@@ -62,7 +62,7 @@ window.GOLF_DATA = {
         "country": "USA",
         "score": "-3",
         "today": "-3",
-        "nivel": 92,
+        "nivel": 94,
         "legend": 0.0
       },
       {
@@ -72,7 +72,7 @@ window.GOLF_DATA = {
         "country": "South Korea",
         "score": "-1",
         "today": "E",
-        "nivel": 54,
+        "nivel": 52,
         "legend": 0.0
       },
       {
@@ -82,7 +82,7 @@ window.GOLF_DATA = {
         "country": "USA",
         "score": "E",
         "today": "-3",
-        "nivel": 83,
+        "nivel": 81,
         "legend": 0.0
       },
       {
@@ -110,17 +110,17 @@ window.GOLF_DATA = {
     "leaderboard": [
       {
         "rank": 1,
-        "name": "Scottie Scheffler",
-        "id": "9478",
-        "country": "USA",
-        "score": "-21",
+        "name": "Viktor Hovland",
+        "id": "4364873",
+        "country": "Norway",
+        "score": "-22",
         "today": ""
       },
       {
         "rank": 2,
-        "name": "Viktor Hovland",
-        "id": "4364873",
-        "country": "Norway",
+        "name": "Scottie Scheffler",
+        "id": "9478",
+        "country": "USA",
         "score": "-21",
         "today": ""
       },
@@ -194,7 +194,7 @@ window.GOLF_DATA = {
       "Matt Fitzpatrick",
       "Cameron Young",
       "Wyndham Clark",
-      "Si Woo Kim"
+      "Collin Morikawa"
     ]
   },
   "CURRENT": [
@@ -215,7 +215,7 @@ window.GOLF_DATA = {
       "stats": {
         "majors": 4,
         "wins": 1,
-        "topTen": 8,
+        "topTen": 9,
         "fedexRank": 1,
         "tour": "PGA"
       },
@@ -238,7 +238,7 @@ window.GOLF_DATA = {
       "stats": {
         "majors": 1,
         "wins": 3,
-        "topTen": 6,
+        "topTen": 7,
         "fedexRank": 2,
         "tour": "PGA"
       },
@@ -284,34 +284,11 @@ window.GOLF_DATA = {
       "stats": {
         "majors": 2,
         "wins": 2,
-        "topTen": 3,
+        "topTen": 4,
         "fedexRank": 4,
         "tour": "PGA"
       },
       "prevRank": 4
-    },
-    {
-      "id": "si_woo_kim",
-      "name": "Si Woo Kim",
-      "country": "KOR",
-      "logo": "https://flagcdn.com/24x18/kr.png",
-      "teamCode": "PGA",
-      "primary": "#003478",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#003478",
-        "secondary": "#FFFFFF"
-      },
-      "activeScore": 97,
-      "legendScore": 0.0,
-      "stats": {
-        "majors": 0,
-        "wins": 0,
-        "topTen": 8,
-        "fedexRank": 5,
-        "tour": "PGA"
-      },
-      "prevRank": 5
     },
     {
       "id": "collin_morikawa",
@@ -325,16 +302,39 @@ window.GOLF_DATA = {
         "primary": "#B22234",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 96,
+      "activeScore": 97,
       "legendScore": 11.4,
       "stats": {
         "majors": 2,
         "wins": 1,
-        "topTen": 5,
-        "fedexRank": 6,
+        "topTen": 6,
+        "fedexRank": 5,
         "tour": "PGA"
       },
       "prevRank": 6
+    },
+    {
+      "id": "si_woo_kim",
+      "name": "Si Woo Kim",
+      "country": "KOR",
+      "logo": "https://flagcdn.com/24x18/kr.png",
+      "teamCode": "PGA",
+      "primary": "#003478",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#003478",
+        "secondary": "#FFFFFF"
+      },
+      "activeScore": 96,
+      "legendScore": 0.0,
+      "stats": {
+        "majors": 0,
+        "wins": 0,
+        "topTen": 8,
+        "fedexRank": 6,
+        "tour": "PGA"
+      },
+      "prevRank": 5
     },
     {
       "id": "ludvig_berg",
@@ -360,31 +360,31 @@ window.GOLF_DATA = {
       "prevRank": 7
     },
     {
-      "id": "rory_mcilroy",
-      "name": "Rory McIlroy",
-      "country": "NIR",
-      "logo": "https://flagcdn.com/24x18/gb-nir.png",
+      "id": "sam_burns",
+      "name": "Sam Burns",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "PGA",
-      "primary": "#012169",
+      "primary": "#B22234",
       "secondary": "#FFFFFF",
       "colors": {
-        "primary": "#012169",
+        "primary": "#B22234",
         "secondary": "#FFFFFF"
       },
       "activeScore": 94,
-      "legendScore": 34.3,
+      "legendScore": 0.0,
       "stats": {
-        "majors": 6,
-        "wins": 1,
-        "topTen": 3,
+        "majors": 0,
+        "wins": 0,
+        "topTen": 4,
         "fedexRank": 8,
         "tour": "PGA"
       },
-      "prevRank": 8
+      "prevRank": 10
     },
     {
-      "id": "jacob_bridgeman",
-      "name": "Jacob Bridgeman",
+      "id": "akshay_bhatia",
+      "name": "Akshay Bhatia",
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "PGA",
@@ -403,30 +403,7 @@ window.GOLF_DATA = {
         "fedexRank": 9,
         "tour": "PGA"
       },
-      "prevRank": 9
-    },
-    {
-      "id": "sam_burns",
-      "name": "Sam Burns",
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "PGA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#B22234",
-        "secondary": "#FFFFFF"
-      },
-      "activeScore": 92,
-      "legendScore": 0.0,
-      "stats": {
-        "majors": 0,
-        "wins": 0,
-        "topTen": 4,
-        "fedexRank": 10,
-        "tour": "PGA"
-      },
-      "prevRank": 10
+      "prevRank": null
     },
     {
       "id": "tommy_fleetwood",
@@ -446,10 +423,33 @@ window.GOLF_DATA = {
         "majors": 0,
         "wins": 0,
         "topTen": 6,
-        "fedexRank": 11,
+        "fedexRank": 10,
         "tour": "PGA"
       },
       "prevRank": 11
+    },
+    {
+      "id": "jacob_bridgeman",
+      "name": "Jacob Bridgeman",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "PGA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#B22234",
+        "secondary": "#FFFFFF"
+      },
+      "activeScore": 92,
+      "legendScore": 0.0,
+      "stats": {
+        "majors": 0,
+        "wins": 1,
+        "topTen": 4,
+        "fedexRank": 11,
+        "tour": "PGA"
+      },
+      "prevRank": 9
     },
     {
       "id": "chris_gotterup",
@@ -504,7 +504,7 @@ window.GOLF_DATA = {
         "primary": "#B22234",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 90,
+      "activeScore": 93,
       "age": 24,
       "note": "Ya entre la élite a los 24"
     },
@@ -520,7 +520,7 @@ window.GOLF_DATA = {
         "primary": "#C60C30",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 78,
+      "activeScore": 79,
       "age": 25,
       "note": "Top del circuito a los 25"
     },
@@ -536,7 +536,7 @@ window.GOLF_DATA = {
         "primary": "#003478",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 54,
+      "activeScore": 52,
       "age": 24,
       "note": "Promesa emergente a los 24"
     },
@@ -945,31 +945,6 @@ window.GOLF_DATA = {
   ],
   "ROAD_TO_GLORY": [
     {
-      "id": "rory_mcilroy",
-      "name": "Rory McIlroy",
-      "country": "NIR",
-      "logo": "https://flagcdn.com/24x18/gb-nir.png",
-      "teamCode": "PGA",
-      "primary": "#012169",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#012169",
-        "secondary": "#FFFFFF"
-      },
-      "activeScore": 94,
-      "legendScore": 34.3,
-      "stats": {
-        "majors": 6,
-        "wins": 1,
-        "topTen": 3,
-        "fedexRank": 8,
-        "tour": "PGA"
-      },
-      "prevRank": 1,
-      "gapToTop10": 3.2,
-      "note": "A 3.2 del top 10 histórico"
-    },
-    {
       "id": "scottie_scheffler",
       "name": "Scottie Scheffler",
       "country": "USA",
@@ -986,7 +961,7 @@ window.GOLF_DATA = {
       "stats": {
         "majors": 4,
         "wins": 1,
-        "topTen": 8,
+        "topTen": 9,
         "fedexRank": 1,
         "tour": "PGA"
       },
@@ -1011,7 +986,7 @@ window.GOLF_DATA = {
       "stats": {
         "majors": 2,
         "wins": 2,
-        "topTen": 3,
+        "topTen": 4,
         "fedexRank": 4,
         "tour": "PGA"
       },
@@ -1031,13 +1006,13 @@ window.GOLF_DATA = {
         "primary": "#B22234",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 96,
+      "activeScore": 97,
       "legendScore": 11.4,
       "stats": {
         "majors": 2,
         "wins": 1,
-        "topTen": 5,
-        "fedexRank": 6,
+        "topTen": 6,
+        "fedexRank": 5,
         "tour": "PGA"
       },
       "prevRank": 4,
@@ -1061,7 +1036,7 @@ window.GOLF_DATA = {
       "stats": {
         "majors": 1,
         "wins": 3,
-        "topTen": 6,
+        "topTen": 7,
         "fedexRank": 2,
         "tour": "PGA"
       },
@@ -1106,13 +1081,13 @@ window.GOLF_DATA = {
         "primary": "#003478",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 97,
+      "activeScore": 96,
       "legendScore": 0.0,
       "stats": {
         "majors": 0,
         "wins": 0,
         "topTen": 8,
-        "fedexRank": 5,
+        "fedexRank": 6,
         "tour": "PGA"
       },
       "prevRank": 7,
@@ -1145,8 +1120,33 @@ window.GOLF_DATA = {
       "note": "A 37.5 del top 10 histórico"
     },
     {
-      "id": "jacob_bridgeman",
-      "name": "Jacob Bridgeman",
+      "id": "sam_burns",
+      "name": "Sam Burns",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "PGA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#B22234",
+        "secondary": "#FFFFFF"
+      },
+      "activeScore": 94,
+      "legendScore": 0.0,
+      "stats": {
+        "majors": 0,
+        "wins": 0,
+        "topTen": 4,
+        "fedexRank": 8,
+        "tour": "PGA"
+      },
+      "prevRank": 10,
+      "gapToTop10": 37.5,
+      "note": "A 37.5 del top 10 histórico"
+    },
+    {
+      "id": "akshay_bhatia",
+      "name": "Akshay Bhatia",
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "PGA",
@@ -1165,20 +1165,20 @@ window.GOLF_DATA = {
         "fedexRank": 9,
         "tour": "PGA"
       },
-      "prevRank": 9,
+      "prevRank": null,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     },
     {
-      "id": "sam_burns",
-      "name": "Sam Burns",
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
+      "id": "tommy_fleetwood",
+      "name": "Tommy Fleetwood",
+      "country": "ENG",
+      "logo": "https://flagcdn.com/24x18/gb-eng.png",
       "teamCode": "PGA",
-      "primary": "#B22234",
+      "primary": "#CE1124",
       "secondary": "#FFFFFF",
       "colors": {
-        "primary": "#B22234",
+        "primary": "#CE1124",
         "secondary": "#FFFFFF"
       },
       "activeScore": 92,
@@ -1186,11 +1186,11 @@ window.GOLF_DATA = {
       "stats": {
         "majors": 0,
         "wins": 0,
-        "topTen": 4,
+        "topTen": 6,
         "fedexRank": 10,
         "tour": "PGA"
       },
-      "prevRank": 10,
+      "prevRank": null,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     }

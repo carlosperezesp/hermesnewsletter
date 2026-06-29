@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-29 11:31 UTC
+// Auto-generated 2026-06-29 16:28 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-06-29 11:31 UTC",
+  "UPDATED": "2026-06-29 16:28 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -2176,13 +2176,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 10,
-              "mark": "53.93",
-              "athlete": "Łukasz Baoka",
-              "country": "POL",
-              "flag": "https://flagcdn.com/24x18/pl.png",
-              "primary": "#DC143C",
-              "venue": "Athletics Stadium",
-              "date": "20 JUN 2026"
+              "mark": "54.05",
+              "athlete": "Amalie Iuel",
+              "country": "NOR",
+              "flag": "https://flagcdn.com/24x18/no.png",
+              "primary": "#EF2B2D",
+              "venue": "Stadio Olimpico",
+              "date": "04 JUN 2026"
             }
           ]
         }
@@ -5395,6 +5395,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 5,
+              "mark": "17.40",
+              "athlete": "Wen Su",
+              "country": "CHN",
+              "flag": "https://flagcdn.com/24x18/cn.png",
+              "primary": "#DE2910",
+              "venue": "Kuishan Sports Center",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 6,
               "mark": "17.34",
               "athlete": "Andy Hechavarr&#205;a",
               "country": "CUB",
@@ -5404,7 +5414,7 @@ window.ATHLETICS_DATA = {
               "date": "13 MAR 2026"
             },
             {
-              "rank": 6,
+              "rank": 7,
               "mark": "17.33",
               "athlete": "L&#225;zaro Mart&#205;nez",
               "country": "CUB",
@@ -5414,7 +5424,7 @@ window.ATHLETICS_DATA = {
               "date": "10 JUN 2026"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "17.29",
               "athlete": "Melvin Raffin",
               "country": "FRA",
@@ -5424,7 +5434,7 @@ window.ATHLETICS_DATA = {
               "date": "31 MAY 2026"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "17.25",
               "athlete": "Jonathan Seremes",
               "country": "FRA",
@@ -5434,7 +5444,7 @@ window.ATHLETICS_DATA = {
               "date": "14 MAR 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "17.24",
               "athlete": "Almir Dos Santos",
               "country": "BRA",
@@ -5442,16 +5452,6 @@ window.ATHLETICS_DATA = {
               "primary": "#009C3B",
               "venue": "Alfonso Galvis Duque Stadium",
               "date": "28 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "17.19",
-              "athlete": "Andrea Dallavalle",
-              "country": "ITA",
-              "flag": "https://flagcdn.com/24x18/it.png",
-              "primary": "#009246",
-              "venue": "Suhaim bin Hamad Stadium",
-              "date": "19 JUN 2026"
             }
           ]
         },
@@ -6073,6 +6073,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
+              "mark": "19.36",
+              "athlete": "Linru Zhang",
+              "country": "CHN",
+              "flag": "https://flagcdn.com/24x18/cn.png",
+              "primary": "#DE2910",
+              "venue": "Kuishan Sports Center",
+              "date": "26 JUN 2026"
+            },
+            {
+              "rank": 8,
               "mark": "19.34",
               "athlete": "Danniel Thomas-Dodd",
               "country": "JAM",
@@ -6082,7 +6092,7 @@ window.ATHLETICS_DATA = {
               "date": "11 APR 2026"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "19.34",
               "athlete": "Adelaide Aquilla",
               "country": "USA",
@@ -6092,7 +6102,7 @@ window.ATHLETICS_DATA = {
               "date": "14 JUN 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "19.34",
               "athlete": "Jorinde Van Klinken",
               "country": "NED",
@@ -6100,16 +6110,6 @@ window.ATHLETICS_DATA = {
               "primary": "#AE1C28",
               "venue": "FBK Stadium",
               "date": "21 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "19.23",
-              "athlete": "Abria Smith",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Ocean Breeze Athl. Complex",
-              "date": "28 FEB 2026"
             }
           ]
         },
@@ -6961,6 +6961,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 9,
+              "mark": "62.42",
+              "athlete": "Qianqian Dai",
+              "country": "CHN",
+              "flag": "https://flagcdn.com/24x18/cn.png",
+              "primary": "#DE2910",
+              "venue": "Kuishan Sports Center",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 10,
               "mark": "61.94",
               "athlete": "Leonie H&#220;gli",
               "country": "SUI",
@@ -6968,16 +6978,6 @@ window.ATHLETICS_DATA = {
               "primary": "#D52B1E",
               "venue": "Werferzentrum Brandberge",
               "date": "17 MAY 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "61.83",
-              "athlete": "Yulenmis Aguilar",
-              "country": "ESP",
-              "flag": "https://flagcdn.com/24x18/es.png",
-              "primary": "#AA151B",
-              "venue": "Estadio de Larrabide",
-              "date": "13 JUN 2026"
             }
           ]
         }
