@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-28 22:49 UTC",
+  "UPDATED": "2026-06-29 10:01 UTC",
   "EVENTS": [
+    {
+      "id": "nascar:win:NASCAR Cup Series at Sonoma:Shane van Gisbergen",
+      "sport": "nascar",
+      "detail": "NASCAR",
+      "text": "Shane van Gisbergen ganó en Sonoma Raceway",
+      "weight": 100,
+      "firstSeen": "2026-06-29"
+    },
     {
       "id": "nascar:win:NASCAR Cup Series at Sonoma:Current Leader:",
       "sport": "nascar",
@@ -59,38 +67,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-21"
     },
     {
-      "id": "f1:win:MSC Cruises Barcelona-Catalunya Grand Prix:George Russell",
-      "sport": "f1",
-      "detail": "F1",
-      "text": "George Russell ganó el MSC Cruises Barcelona-Catalunya Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-06-14"
-    },
-    {
-      "id": "nascar:win:NASCAR Cup Series at Pocono:Denny Hamlin",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "text": "Denny Hamlin ganó en Pocono Raceway",
-      "weight": 100,
-      "firstSeen": "2026-06-14"
-    },
-    {
-      "id": "motogp:win:Hungarian motorcycle Grand Prix:Marc Márquez",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "text": "Marc Márquez ganó el Hungarian motorcycle Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-06-14"
-    },
-    {
-      "id": "nascar:win:NASCAR Cup Series at Michigan:Denny Hamlin",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "text": "Denny Hamlin ganó en Michigan International Speedway",
-      "weight": 100,
-      "firstSeen": "2026-06-14"
-    },
-    {
       "id": "rank:motogp:RIDERS:new1:Jorge Martín",
       "sport": "motogp",
       "detail": "MotoGP",
@@ -125,23 +101,6 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-wta",
       "firstSeen": "2026-06-22"
-    },
-    {
-      "id": "tennis:in:ATP:Flavio Cobolli:20260608",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Flavio Cobolli entra en el top 10 ATP",
-      "weight": 90,
-      "firstSeen": "2026-06-14",
-      "anchor": "tennis-atp"
-    },
-    {
-      "id": "cycling:stage:Giro d'Italia:21:Jonathan Milan",
-      "sport": "cycling",
-      "detail": "Ciclismo",
-      "text": "Jonathan Milan ganó la última etapa del Giro d'Italia",
-      "weight": 88,
-      "firstSeen": "2026-06-14"
     },
     {
       "id": "rank:afl:LADDER:in:North Melbourne",
@@ -187,15 +146,6 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-wta",
       "firstSeen": "2026-06-22"
-    },
-    {
-      "id": "tennis:out:ATP:Alexander Bublik:20260608",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Alexander Bublik sale del top 10 ATP",
-      "weight": 78,
-      "firstSeen": "2026-06-14",
-      "anchor": "tennis-atp"
     },
     {
       "id": "rank:afl:LADDER:out:Gold Coast",
@@ -407,8 +357,8 @@ window.GLORY_DATA = {
     ],
     "mlb:ROAD_TO_GLORY.youngProspects": [
       "Jacob Misiorowski",
-      "Nick Kurtz",
       "Junior Caminero",
+      "Nick Kurtz",
       "Sal Stewart",
       "Jordan Walker",
       "James Wood",
@@ -529,11 +479,11 @@ window.GLORY_DATA = {
       "Tyler Reddick",
       "Denny Hamlin",
       "Chase Elliott",
+      "Shane van Gisbergen",
       "Ryan Blaney",
       "Ty Gibbs",
-      "Daniel Suarez",
       "Carson Hocevar",
-      "Shane van Gisbergen",
+      "Daniel Suarez",
       "Kyle Larson",
       "Chris Buescher"
     ],
@@ -817,13 +767,13 @@ window.GLORY_DATA = {
       "Jarmila Kratochvílová",
       "Nadezhda Olizarenko",
       "Audrey Werro",
+      "Audrey Werro",
       "Pamela Jelimo",
       "Caster Semenya",
       "Keely Hodgkinson",
       "Ana Fidelia Quirot",
       "Audrey Werro",
-      "Caster Semenya",
-      "Keely Hodgkinson"
+      "Caster Semenya"
     ],
     "athletics:allTime:1500m_m": [
       "Hicham El Guerrouj",

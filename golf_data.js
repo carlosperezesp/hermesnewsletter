@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-28 22:32 UTC
+// Auto-generated 2026-06-29 10:00 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-28 22:32 UTC",
+  "UPDATED": "2026-06-29 10:00 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -16,7 +16,7 @@ window.GOLF_DATA = {
     "startLabel": "16 Jul",
     "endLabel": "19 Jul",
     "round": 0,
-    "daysToStart": 18,
+    "daysToStart": 17,
     "leaderboard": [],
     "favorites": [
       "Scottie Scheffler",
@@ -100,11 +100,11 @@ window.GOLF_DATA = {
   "CURRENT_SIGNATURE": {
     "name": "Travelers Championship",
     "start": "2026-06-25",
-    "end": "2026-06-28",
+    "end": "2026-06-29",
     "state": "live",
     "tier": "Signature Event",
     "startLabel": "25 Jun",
-    "endLabel": "28 Jun",
+    "endLabel": "29 Jun",
     "round": 4,
     "daysToStart": 0,
     "leaderboard": [
@@ -114,10 +114,18 @@ window.GOLF_DATA = {
         "id": "9478",
         "country": "USA",
         "score": "-21",
-        "today": "-2"
+        "today": ""
       },
       {
         "rank": 2,
+        "name": "Viktor Hovland",
+        "id": "4364873",
+        "country": "Norway",
+        "score": "-21",
+        "today": ""
+      },
+      {
+        "rank": 3,
         "name": "Collin Morikawa",
         "id": "10592",
         "country": "USA",
@@ -125,26 +133,18 @@ window.GOLF_DATA = {
         "today": "-9"
       },
       {
-        "rank": 3,
-        "name": "Wyndham Clark",
-        "id": "11119",
-        "country": "USA",
+        "rank": 4,
+        "name": "Matt Fitzpatrick",
+        "id": "9037",
+        "country": "England",
         "score": "-19",
         "today": "-6"
       },
       {
-        "rank": 4,
-        "name": "Viktor Hovland",
-        "id": "4364873",
-        "country": "Norway",
-        "score": "-19",
-        "today": "+1"
-      },
-      {
         "rank": 5,
-        "name": "Matt Fitzpatrick",
-        "id": "9037",
-        "country": "England",
+        "name": "Wyndham Clark",
+        "id": "11119",
+        "country": "USA",
         "score": "-18",
         "today": "-5"
       },

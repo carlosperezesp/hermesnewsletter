@@ -5,94 +5,93 @@
   "unit": "time",
   "marks": [
     {
+      "rank": 1,
       "mark": "1:53.28",
       "athlete": "Jarmila Kratochvílová",
       "country": "TCH",
       "year": 1983,
       "date": "26 July 1983",
-      "venue": "Munich",
-      "rank": 1
+      "venue": "Munich"
     },
     {
+      "rank": 2,
       "mark": "1:53.43",
       "athlete": "Nadezhda Olizarenko",
       "country": "URS",
       "year": 1980,
       "date": "27 July 1980",
-      "venue": "Moscow",
-      "rank": 2
+      "venue": "Moscow"
     },
     {
+      "rank": 3,
+      "mark": "1:53.80",
+      "athlete": "Audrey Werro",
+      "country": "SUI",
+      "year": 2026,
+      "venue": "Stade Charlty"
+    },
+    {
+      "rank": 4,
       "mark": "1:53.98",
       "athlete": "Audrey Werro",
       "country": "CHE",
       "year": 2026,
       "date": "7 June 2026",
-      "venue": "Stockholm",
-      "rank": 3
+      "venue": "Stockholm"
     },
     {
+      "rank": 5,
       "mark": "1:54.01",
       "athlete": "Pamela Jelimo",
       "country": "KEN",
       "year": 2008,
       "date": "29 August 2008",
-      "venue": "Zürich",
-      "rank": 4
+      "venue": "Zürich"
     },
     {
+      "rank": 6,
       "mark": "1:54.25",
       "athlete": "Caster Semenya",
       "country": "RSA",
       "year": 2018,
       "date": "30 June 2018",
-      "venue": "Paris",
-      "rank": 5
+      "venue": "Paris"
     },
     {
+      "rank": 7,
       "mark": "1:54.33",
       "athlete": "Keely Hodgkinson",
       "country": "GBR",
       "year": 2026,
       "date": "7 June 2026",
-      "venue": "Stockholm",
-      "rank": 6
+      "venue": "Stockholm"
     },
     {
+      "rank": 8,
       "mark": "1:54.44",
       "athlete": "Ana Fidelia Quirot",
       "country": "CUB",
       "year": 1989,
       "date": "9 September 1989",
-      "venue": "Barcelona",
-      "rank": 7
+      "venue": "Barcelona"
     },
     {
+      "rank": 9,
       "mark": "1:54.45",
       "athlete": "Audrey Werro",
       "country": "CHE",
       "year": 2026,
       "date": "16 June 2026",
-      "venue": "Ostrava",
-      "rank": 8
+      "venue": "Ostrava"
     },
     {
+      "rank": 10,
       "mark": "1:54.60",
       "athlete": "Caster Semenya",
       "country": "RSA",
       "year": 2018,
       "date": "20 July 2018",
-      "venue": "Monaco",
-      "rank": 9
-    },
-    {
-      "mark": "1:54.61",
-      "athlete": "Keely Hodgkinson",
-      "country": "GBR",
-      "year": 2024,
-      "date": "20 July 2024",
-      "venue": "London",
-      "rank": 10
+      "venue": "Monaco"
     }
   ]
 }

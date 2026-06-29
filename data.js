@@ -19100,7 +19100,7 @@ window.NHL_DATA = {
       "name": "Filip Hallander",
       "pos": "C",
       "teamCode": "PIT",
-      "age": 25,
+      "age": 26,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -19124,8 +19124,7 @@ window.NHL_DATA = {
         43,
         45,
         51
-      ],
-      "legendScore": 44.5
+      ]
     },
     {
       "id": 8481030,
@@ -36091,7 +36090,7 @@ window.NHL_DATA = {
       "name": "Matt Rempe",
       "pos": "C",
       "teamCode": "NYR",
-      "age": 23,
+      "age": 24,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47987,10 +47986,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-28 22:32 UTC",
+  "LAST_UPDATE": "2026-06-29 09:59 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-28T22:31:15Z"
+    "standingsDateTimeUtc": "2026-06-29T09:59:00Z"
   }
 };

@@ -1,5 +1,5 @@
 window.INDYCAR_DATA = {
-  "UPDATED": "2026-06-28 22:32 UTC",
+  "UPDATED": "2026-06-29 09:59 UTC",
   "SEASON": 2026,
   "ROUND": 10,
   "TOTAL_ROUNDS": 19,
@@ -507,7 +507,7 @@ window.INDYCAR_DATA = {
       "points": 117.0,
       "score": 11.4,
       "legendScore": 0.0,
-      "age": 25,
+      "age": 26,
       "prevRank": 22,
       "stats": {
         "pts": 117.0
@@ -859,22 +859,22 @@ window.INDYCAR_DATA = {
       "note": "Irrumpe a los 21 (P21)"
     },
     {
-      "id": "5797",
-      "name": "Christian Rasmussen",
-      "country": "DEN",
-      "team": "Ed Carpenter Racing",
-      "teamCode": "ED",
-      "logo": "https://flagcdn.com/24x18/dk.png",
-      "primary": "#005EB8",
-      "secondary": "#F2A900",
+      "id": "5750",
+      "name": "Sting Ray Robb",
+      "country": "USA",
+      "team": "Juncos Hollinger Racing",
+      "teamCode": "JUNCOS",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "primary": "#1C8B43",
+      "secondary": "#111111",
       "colors": {
-        "primary": "#005EB8",
-        "secondary": "#F2A900"
+        "primary": "#1C8B43",
+        "secondary": "#111111"
       },
-      "score": 11.4,
-      "position": 22,
-      "age": 25,
-      "note": "Irrumpe a los 25 (P22)"
+      "score": 9.7,
+      "position": 25,
+      "age": 24,
+      "note": "Irrumpe a los 24 (P25)"
     }
   ],
   "LEGEND_CHASE": [
