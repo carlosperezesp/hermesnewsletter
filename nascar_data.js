@@ -1,5 +1,5 @@
 window.NASCAR_DATA = {
-  "UPDATED": "2026-06-29 21:45 UTC",
+  "UPDATED": "2026-06-29 22:34 UTC",
   "SEASON": 2026,
   "ROUND": 22,
   "TOTAL_ROUNDS": 36,
@@ -1301,7 +1301,7 @@ window.NASCAR_DATA = {
         "top5": 0,
         "top10": 0
       },
-      "prevRank": 37,
+      "prevRank": 36,
       "playoffRank": 36,
       "locked": false,
       "playoffPoints": 0,
@@ -1337,7 +1337,7 @@ window.NASCAR_DATA = {
         "top5": 0,
         "top10": 0
       },
-      "prevRank": 38,
+      "prevRank": 37,
       "playoffRank": 37,
       "locked": false,
       "playoffPoints": 0,
@@ -1373,7 +1373,7 @@ window.NASCAR_DATA = {
         "top5": 0,
         "top10": 0
       },
-      "prevRank": 39,
+      "prevRank": 38,
       "playoffRank": 38,
       "locked": false,
       "playoffPoints": 0,
@@ -1409,7 +1409,7 @@ window.NASCAR_DATA = {
         "top5": 0,
         "top10": 0
       },
-      "prevRank": 40,
+      "prevRank": 39,
       "playoffRank": 39,
       "locked": false,
       "playoffPoints": 0,
@@ -1445,7 +1445,7 @@ window.NASCAR_DATA = {
         "top5": 0,
         "top10": 0
       },
-      "prevRank": 41,
+      "prevRank": 40,
       "playoffRank": 40,
       "locked": false,
       "playoffPoints": 0,

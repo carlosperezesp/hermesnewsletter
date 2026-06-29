@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-29 21:47 UTC
+// Auto-generated 2026-06-29 22:37 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-29 21:47 UTC",
+  "UPDATED": "2026-06-29 22:37 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -135,7 +135,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 87.3
@@ -1907,7 +1907,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 61.0
@@ -10934,7 +10934,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Wu Yibing",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 5-7 6-4 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 87.3,
@@ -11244,7 +11244,6 @@ window.TENNIS_DATA = {
       "Valentin Royer",
       "Vilius Gaubas",
       "Vit Kopriva",
-      "Wu Yibing",
       "Yannick Hanfmann",
       "Zachary Svajda",
       "Zizou Bergs"
@@ -11278,10 +11277,11 @@ window.TENNIS_DATA = {
       "Roberto Bautista Agut",
       "Sebastian Baez",
       "Thiago Agustin Tirante",
-      "Tristan Boyer"
+      "Tristan Boyer",
+      "Wu Yibing"
     ],
-    "aliveCount": 99,
-    "matchesSeen": 77
+    "aliveCount": 98,
+    "matchesSeen": 78
   },
   "WTA_TOURNAMENT": {
     "name": "Wimbledon",
