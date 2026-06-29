@@ -14832,9 +14832,9 @@ window.NHL_DATA = {
       "name": "A.J. Greer",
       "pos": "LW",
       "teamCode": "FLA",
-      "age": 29,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -19133,9 +19133,9 @@ window.NHL_DATA = {
       "name": "Jack St. Ivany",
       "pos": "D",
       "teamCode": "PIT",
-      "age": 26,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#111111",
         "secondary": "#cfc493"
@@ -20039,9 +20039,9 @@ window.NHL_DATA = {
       "name": "Brendan Gallagher",
       "pos": "RW",
       "teamCode": "MTL",
-      "age": 34,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#af1e2d",
         "secondary": "#192168"
@@ -24162,9 +24162,9 @@ window.NHL_DATA = {
       "name": "Radko Gudas",
       "pos": "D",
       "teamCode": "ANA",
-      "age": 36,
-      "country": "Czechia",
-      "birthCountry": "CZE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -30559,9 +30559,9 @@ window.NHL_DATA = {
       "name": "Nils Hoglander",
       "pos": "LW",
       "teamCode": "VAN",
-      "age": 25,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#00843d"
@@ -47986,10 +47986,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-29 16:46 UTC",
+  "LAST_UPDATE": "2026-06-29 21:44 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-29T16:45:45Z"
+    "standingsDateTimeUtc": "2026-06-29T21:44:00Z"
   }
 };

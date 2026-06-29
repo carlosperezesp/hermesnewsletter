@@ -1,5 +1,5 @@
 window.NASCAR_DATA = {
-  "UPDATED": "2026-06-29 16:47 UTC",
+  "UPDATED": "2026-06-29 21:45 UTC",
   "SEASON": 2026,
   "ROUND": 22,
   "TOTAL_ROUNDS": 36,
@@ -1275,44 +1275,8 @@ window.NASCAR_DATA = {
       "age": 30
     },
     {
-      "id": "austin_hill",
-      "position": 36,
-      "name": "Austin Hill",
-      "country": "USA",
-      "team": "NASCAR Cup",
-      "manufacturer": "NASCAR",
-      "teamCode": "NAS",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "primary": "#E4002B",
-      "secondary": "#FFD200",
-      "colors": {
-        "primary": "#E4002B",
-        "secondary": "#FFD200"
-      },
-      "points": 51,
-      "wins": 0,
-      "poles": 0,
-      "top5": 0,
-      "top10": 0,
-      "stats": {
-        "pts": 51,
-        "wins": 0,
-        "poles": 0,
-        "top5": 0,
-        "top10": 0
-      },
-      "prevRank": 36,
-      "playoffRank": 36,
-      "locked": false,
-      "playoffPoints": 0,
-      "playoffScore": 0.0,
-      "score": 7.1,
-      "legendScore": 0.0,
-      "age": 32
-    },
-    {
       "id": "kevin_magnussen",
-      "position": 37,
+      "position": 36,
       "name": "Kevin Magnussen",
       "country": "USA",
       "team": "NASCAR Cup",
@@ -1338,7 +1302,7 @@ window.NASCAR_DATA = {
         "top10": 0
       },
       "prevRank": 37,
-      "playoffRank": 37,
+      "playoffRank": 36,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 0.0,
@@ -1348,7 +1312,7 @@ window.NASCAR_DATA = {
     },
     {
       "id": "casey_mears",
-      "position": 38,
+      "position": 37,
       "name": "Casey Mears",
       "country": "USA",
       "team": "NASCAR Cup",
@@ -1374,7 +1338,7 @@ window.NASCAR_DATA = {
         "top10": 0
       },
       "prevRank": 38,
-      "playoffRank": 38,
+      "playoffRank": 37,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 0.0,
@@ -1384,7 +1348,7 @@ window.NASCAR_DATA = {
     },
     {
       "id": "jimmie_johnson",
-      "position": 39,
+      "position": 38,
       "name": "Jimmie Johnson",
       "country": "USA",
       "team": "NASCAR Cup",
@@ -1410,7 +1374,7 @@ window.NASCAR_DATA = {
         "top10": 0
       },
       "prevRank": 39,
-      "playoffRank": 39,
+      "playoffRank": 38,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 0.0,
@@ -1420,7 +1384,7 @@ window.NASCAR_DATA = {
     },
     {
       "id": "katherine_legge",
-      "position": 40,
+      "position": 39,
       "name": "Katherine Legge",
       "country": "USA",
       "team": "NASCAR Cup",
@@ -1446,7 +1410,7 @@ window.NASCAR_DATA = {
         "top10": 0
       },
       "prevRank": 40,
-      "playoffRank": 40,
+      "playoffRank": 39,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 0.0,
@@ -1456,7 +1420,7 @@ window.NASCAR_DATA = {
     },
     {
       "id": "bj_mcleod",
-      "position": 41,
+      "position": 40,
       "name": "B.J. McLeod",
       "country": "USA",
       "team": "NASCAR Cup",
@@ -1482,7 +1446,7 @@ window.NASCAR_DATA = {
         "top10": 0
       },
       "prevRank": 41,
-      "playoffRank": 41,
+      "playoffRank": 40,
       "locked": false,
       "playoffPoints": 0,
       "playoffScore": 0.0,

@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-29 16:47 UTC
+// Auto-generated 2026-06-29 21:46 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-29 16:47 UTC",
+  "UPDATED": "2026-06-29 21:46 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-06-29 16:47 UTC"
+    "through": "2026-06-29 21:46 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -104,15 +104,15 @@ window.FOOTBALL_DATA = {
         "secondary": "#FFDF00"
       },
       "rank": 5,
-      "elo": 2008,
-      "eloScore": 83.7,
+      "elo": 2024,
+      "eloScore": 85.4,
       "sourceRank": 6,
       "worldCups": 5,
       "continentalTitles": 9,
       "note": "Histórico gigante todavía en zona top 10 pese a ciclo irregular.",
       "eloPrev": 1985,
-      "recentDelta": 23.1,
-      "recentMatches": 3
+      "recentDelta": 39.1,
+      "recentMatches": 4
     },
     {
       "id": "netherlands",
@@ -220,6 +220,35 @@ window.FOOTBALL_DATA = {
     }
   ],
   "RECENT_MATCHES": [
+    {
+      "id": "760487",
+      "date": "2026-06-29",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "BRA"
+      ],
+      "home": {
+        "code": "BRA",
+        "name": "Brasil",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+        "score": 2,
+        "eloBefore": 2008,
+        "eloAfter": 2024,
+        "delta": 15.9,
+        "result": "W"
+      },
+      "away": {
+        "code": "JPN",
+        "name": "Japón",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
+        "score": 1,
+        "eloBefore": 1831,
+        "eloAfter": 1815,
+        "delta": -15.9,
+        "result": "L"
+      }
+    },
     {
       "id": "760483",
       "date": "2026-06-28",
@@ -1411,18 +1440,18 @@ window.FOOTBALL_DATA = {
           "secondary": "#FFDF00"
         },
         "rank": 5,
-        "elo": 2008,
-        "eloScore": 83.7,
+        "elo": 2024,
+        "eloScore": 85.4,
         "sourceRank": 6,
         "worldCups": 5,
         "continentalTitles": 9,
-        "note": "A 3.7 puntos brutos del umbral dinástico",
+        "note": "A 2.8 puntos brutos del umbral dinástico",
         "eloPrev": 1985,
-        "recentDelta": 23.1,
-        "recentMatches": 3,
-        "dynastyPotential": 90.7,
-        "rawDynastyPotential": 35.8,
-        "gapToDynastyTop10": 3.7,
+        "recentDelta": 39.1,
+        "recentMatches": 4,
+        "dynastyPotential": 92.9,
+        "rawDynastyPotential": 36.6,
+        "gapToDynastyTop10": 2.8,
         "cycleYears": 1.2,
         "currentWorldCups": 0,
         "currentContinentalTitles": 0,
