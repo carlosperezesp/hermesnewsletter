@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-29 16:28 UTC
+// Auto-generated 2026-06-29 16:48 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-06-29 16:28 UTC",
+  "UPDATED": "2026-06-29 16:48 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -2176,13 +2176,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 10,
-              "mark": "54.05",
-              "athlete": "Amalie Iuel",
-              "country": "NOR",
-              "flag": "https://flagcdn.com/24x18/no.png",
-              "primary": "#EF2B2D",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
+              "mark": "53.93",
+              "athlete": "Łukasz Baoka",
+              "country": "POL",
+              "flag": "https://flagcdn.com/24x18/pl.png",
+              "primary": "#DC143C",
+              "venue": "Athletics Stadium",
+              "date": "20 JUN 2026"
             }
           ]
         }
