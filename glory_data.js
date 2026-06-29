@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-29 10:01 UTC",
+  "UPDATED": "2026-06-29 11:32 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Sonoma:Shane van Gisbergen",
@@ -101,6 +101,14 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-wta",
       "firstSeen": "2026-06-22"
+    },
+    {
+      "id": "cycling:stage:Giro d'Italia:21:Jonathan Milan",
+      "sport": "cycling",
+      "detail": "Ciclismo",
+      "text": "Jonathan Milan ganó la última etapa del Giro d'Italia",
+      "weight": 88,
+      "firstSeen": "2026-06-29"
     },
     {
       "id": "rank:afl:LADDER:in:North Melbourne",

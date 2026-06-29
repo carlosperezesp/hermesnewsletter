@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-29 09:59 UTC
+// Auto-generated 2026-06-29 11:28 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-06-29 09:59 UTC",
+  "UPDATED": "2026-06-29 11:28 UTC",
   "SEASON": "2026",
   "ROUND": 16,
   "IMPORTANCE": 8.0,
@@ -255,7 +255,7 @@ window.AFL_DATA = {
         "primary": "#F57F00",
         "secondary": "#002040"
       },
-      "prevRank": 3,
+      "prevRank": 2,
       "stats": {
         "games": 15,
         "disposals": 475,
@@ -283,7 +283,7 @@ window.AFL_DATA = {
         "primary": "#F57F00",
         "secondary": "#002040"
       },
-      "prevRank": 5,
+      "prevRank": 3,
       "stats": {
         "games": 13,
         "disposals": 357,
@@ -311,7 +311,7 @@ window.AFL_DATA = {
         "primary": "#0E1E2D",
         "secondary": "#FFFFFF"
       },
-      "prevRank": 6,
+      "prevRank": 4,
       "stats": {
         "games": 15,
         "disposals": 402,
@@ -339,7 +339,7 @@ window.AFL_DATA = {
         "primary": "#4D2004",
         "secondary": "#FFD200"
       },
-      "prevRank": 9,
+      "prevRank": 5,
       "stats": {
         "games": 15,
         "disposals": 403,
@@ -367,7 +367,7 @@ window.AFL_DATA = {
         "primary": "#2A0D54",
         "secondary": "#FFFFFF"
       },
-      "prevRank": 7,
+      "prevRank": 6,
       "stats": {
         "games": 15,
         "disposals": 290,
@@ -395,7 +395,7 @@ window.AFL_DATA = {
         "primary": "#CC2031",
         "secondary": "#013B9F"
       },
-      "prevRank": 2,
+      "prevRank": 7,
       "stats": {
         "games": 15,
         "disposals": 324,
@@ -451,7 +451,7 @@ window.AFL_DATA = {
         "primary": "#002B5C",
         "secondary": "#CC2031"
       },
-      "prevRank": 16,
+      "prevRank": 9,
       "stats": {
         "games": 15,
         "disposals": 454,
@@ -479,7 +479,7 @@ window.AFL_DATA = {
         "primary": "#002A54",
         "secondary": "#FFFFFF"
       },
-      "prevRank": 4,
+      "prevRank": 10,
       "stats": {
         "games": 14,
         "disposals": 452,
@@ -507,7 +507,7 @@ window.AFL_DATA = {
         "primary": "#002B5C",
         "secondary": "#CC2031"
       },
-      "prevRank": 15,
+      "prevRank": 11,
       "stats": {
         "games": 15,
         "disposals": 342,
@@ -535,7 +535,7 @@ window.AFL_DATA = {
         "primary": "#CC2031",
         "secondary": "#013B9F"
       },
-      "prevRank": 19,
+      "prevRank": 12,
       "stats": {
         "games": 15,
         "disposals": 470,
@@ -563,7 +563,7 @@ window.AFL_DATA = {
         "primary": "#000000",
         "secondary": "#FFFFFF"
       },
-      "prevRank": 20,
+      "prevRank": 13,
       "stats": {
         "games": 14,
         "disposals": 497,
@@ -591,7 +591,7 @@ window.AFL_DATA = {
         "primary": "#F57F00",
         "secondary": "#002040"
       },
-      "prevRank": 13,
+      "prevRank": 14,
       "stats": {
         "games": 14,
         "disposals": 286,
@@ -619,7 +619,7 @@ window.AFL_DATA = {
         "primary": "#CC2031",
         "secondary": "#013B9F"
       },
-      "prevRank": 10,
+      "prevRank": 15,
       "stats": {
         "games": 15,
         "disposals": 337,
@@ -647,7 +647,7 @@ window.AFL_DATA = {
         "primary": "#002B5C",
         "secondary": "#CC2031"
       },
-      "prevRank": 17,
+      "prevRank": 16,
       "stats": {
         "games": 15,
         "disposals": 339,
@@ -675,7 +675,7 @@ window.AFL_DATA = {
         "primary": "#CC2031",
         "secondary": "#013B9F"
       },
-      "prevRank": 11,
+      "prevRank": 17,
       "stats": {
         "games": 15,
         "disposals": 359,
@@ -703,7 +703,7 @@ window.AFL_DATA = {
         "primary": "#F57F00",
         "secondary": "#002040"
       },
-      "prevRank": 24,
+      "prevRank": 18,
       "stats": {
         "games": 15,
         "disposals": 342,
@@ -731,7 +731,7 @@ window.AFL_DATA = {
         "primary": "#CC2031",
         "secondary": "#013B9F"
       },
-      "prevRank": 23,
+      "prevRank": 19,
       "stats": {
         "games": 15,
         "disposals": 375,
@@ -759,7 +759,7 @@ window.AFL_DATA = {
         "primary": "#0039A6",
         "secondary": "#CC2031"
       },
-      "prevRank": 12,
+      "prevRank": 20,
       "stats": {
         "games": 14,
         "disposals": 352,
@@ -787,7 +787,7 @@ window.AFL_DATA = {
         "primary": "#ED1C2E",
         "secondary": "#000000"
       },
-      "prevRank": 14,
+      "prevRank": 21,
       "stats": {
         "games": 15,
         "disposals": 340,
@@ -843,7 +843,7 @@ window.AFL_DATA = {
         "primary": "#0039A6",
         "secondary": "#CC2031"
       },
-      "prevRank": 18,
+      "prevRank": 23,
       "stats": {
         "games": 15,
         "disposals": 381,
@@ -871,7 +871,7 @@ window.AFL_DATA = {
         "primary": "#F57F00",
         "secondary": "#002040"
       },
-      "prevRank": 28,
+      "prevRank": 24,
       "stats": {
         "games": 15,
         "disposals": 315,
@@ -899,7 +899,7 @@ window.AFL_DATA = {
         "primary": "#002B5C",
         "secondary": "#F5C209"
       },
-      "prevRank": 30,
+      "prevRank": 25,
       "stats": {
         "games": 15,
         "disposals": 354,
@@ -927,7 +927,7 @@ window.AFL_DATA = {
         "primary": "#2A0D54",
         "secondary": "#FFFFFF"
       },
-      "prevRank": 25,
+      "prevRank": 26,
       "stats": {
         "games": 15,
         "disposals": 361,
@@ -955,7 +955,7 @@ window.AFL_DATA = {
         "primary": "#FFD200",
         "secondary": "#000000"
       },
-      "prevRank": null,
+      "prevRank": 27,
       "stats": {
         "games": 13,
         "disposals": 308,
@@ -983,7 +983,7 @@ window.AFL_DATA = {
         "primary": "#CC2031",
         "secondary": "#013B9F"
       },
-      "prevRank": 21,
+      "prevRank": 28,
       "stats": {
         "games": 15,
         "disposals": 321,
@@ -1011,7 +1011,7 @@ window.AFL_DATA = {
         "primary": "#C5002F",
         "secondary": "#F1B500"
       },
-      "prevRank": null,
+      "prevRank": 29,
       "stats": {
         "games": 14,
         "disposals": 404,
@@ -1039,7 +1039,7 @@ window.AFL_DATA = {
         "primary": "#7B1A4B",
         "secondary": "#F6AE00"
       },
-      "prevRank": null,
+      "prevRank": 30,
       "stats": {
         "games": 15,
         "disposals": 407,

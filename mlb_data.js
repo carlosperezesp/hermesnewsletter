@@ -694,7 +694,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 2
+      "prevRank": 1
     },
     {
       "id": 660271,
@@ -756,7 +756,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 1,
-      "prevRank": 1
+      "prevRank": 2
     },
     {
       "id": 4966637,
@@ -849,7 +849,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 6
+      "prevRank": 5
     },
     {
       "id": 42402,
@@ -880,7 +880,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 5
+      "prevRank": 6
     },
     {
       "id": 4918256,
@@ -942,7 +942,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 10
+      "prevRank": 8
     },
     {
       "id": 5016968,
@@ -973,7 +973,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 8
+      "prevRank": 9
     },
     {
       "id": 4416591,
@@ -1004,7 +1004,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 9
+      "prevRank": 10
     },
     {
       "id": 5134581,
@@ -2750,7 +2750,7 @@ window.MLB_DATA = {
       "pitchingScore": 69,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 16
+      "prevRank": 8
     },
     {
       "id": 33783,
@@ -2811,7 +2811,7 @@ window.MLB_DATA = {
       "pitchingScore": 68,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 8
+      "prevRank": 9
     },
     {
       "id": 4345076,
@@ -2842,7 +2842,7 @@ window.MLB_DATA = {
       "pitchingScore": 68,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 12
+      "prevRank": 10
     },
     {
       "id": 41311,
@@ -7957,7 +7957,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 20.9,
         "note": "Historic young season — all-time ceiling is possible",
-        "prevRank": 3
+        "prevRank": 2
       },
       {
         "id": 4966637,
@@ -7974,7 +7974,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 21.2,
         "note": "Elite start to career — ceiling is very high",
-        "prevRank": 2
+        "prevRank": 3
       },
       {
         "id": 5080771,
@@ -8137,7 +8137,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-29 09:59 UTC",
+  "LAST_UPDATE": "2026-06-29 11:27 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
