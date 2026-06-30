@@ -914,6 +914,37 @@ window.MLB_DATA = {
       "prevRank": 7
     },
     {
+      "id": 4717833,
+      "name": "Pete Crow-Armstrong",
+      "first": "Pete",
+      "last": "Crow-Armstrong",
+      "pos": "CF",
+      "teamCode": "CHC",
+      "age": 24,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4717833.png",
+      "colors": {
+        "primary": "#0e3386",
+        "secondary": "#cc3433"
+      },
+      "score": 92,
+      "stats": {
+        "type": "batting",
+        "ab": 320,
+        "hr": 17,
+        "rbi": 45,
+        "avg": 0.284,
+        "sb": 20,
+        "ops": 0.882
+      },
+      "legendScore": 52.7,
+      "currentScore": 92,
+      "battingScore": 92,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0,
+      "prevRank": 9
+    },
+    {
       "id": 4416591,
       "name": "Hunter Goodman",
       "first": "Hunter",
@@ -943,37 +974,6 @@ window.MLB_DATA = {
       "twoWayBonus": 0,
       "rings": 0,
       "prevRank": 8
-    },
-    {
-      "id": 4717833,
-      "name": "Pete Crow-Armstrong",
-      "first": "Pete",
-      "last": "Crow-Armstrong",
-      "pos": "CF",
-      "teamCode": "CHC",
-      "age": 24,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4717833.png",
-      "colors": {
-        "primary": "#0e3386",
-        "secondary": "#cc3433"
-      },
-      "score": 91,
-      "stats": {
-        "type": "batting",
-        "ab": 320,
-        "hr": 17,
-        "rbi": 45,
-        "avg": 0.281,
-        "sb": 20,
-        "ops": 0.876
-      },
-      "legendScore": 52.2,
-      "currentScore": 91,
-      "battingScore": 91,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0,
-      "prevRank": 9
     },
     {
       "id": 5016968,
@@ -1143,12 +1143,12 @@ window.MLB_DATA = {
       "score": 88,
       "stats": {
         "type": "batting",
-        "ab": 293,
+        "ab": 292,
         "hr": 18,
         "rbi": 50,
-        "avg": 0.297,
+        "avg": 0.298,
         "sb": 6,
-        "ops": 0.958
+        "ops": 0.961
       },
       "legendScore": 92.2,
       "currentScore": 100.0,
@@ -7947,10 +7947,10 @@ window.MLB_DATA = {
           "secondary": "#cc3433"
         },
         "age": 24,
-        "currentScore": 91,
-        "projectedScore": 69.2,
+        "currentScore": 92,
+        "projectedScore": 69.7,
         "threshold": 92.5,
-        "gap": 23.3,
+        "gap": 22.8,
         "note": "Among the best players of their generation",
         "prevRank": 7
       },
@@ -8047,7 +8047,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-30 16:10 UTC",
+  "LAST_UPDATE": "2026-06-30 21:46 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

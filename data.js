@@ -13232,9 +13232,9 @@ window.NHL_DATA = {
       "name": "Evan Rodrigues",
       "pos": "C",
       "teamCode": "FLA",
-      "age": 32,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -13677,9 +13677,9 @@ window.NHL_DATA = {
       "name": "Parker Wotherspoon",
       "pos": "D",
       "teamCode": "PIT",
-      "age": 28,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#111111",
         "secondary": "#cfc493"
@@ -17805,9 +17805,9 @@ window.NHL_DATA = {
       "name": "Jacob Markstrom",
       "pos": "G",
       "teamCode": "NJD",
-      "age": 36,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ce1126",
         "secondary": "#111111"
@@ -25548,9 +25548,9 @@ window.NHL_DATA = {
       "name": "Kaedan Korczak",
       "pos": "D",
       "teamCode": "VGK",
-      "age": 25,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
@@ -28730,9 +28730,9 @@ window.NHL_DATA = {
       "name": "Jesper Boqvist",
       "pos": "C",
       "teamCode": "FLA",
-      "age": 27,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -47986,10 +47986,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-30 16:10 UTC",
+  "LAST_UPDATE": "2026-06-30 21:46 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-30T16:09:47Z"
+    "standingsDateTimeUtc": "2026-06-30T21:46:01Z"
   }
 };
