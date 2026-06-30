@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-30 15:20 UTC
+// Auto-generated 2026-06-30 16:11 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-06-30 15:20 UTC",
+  "UPDATED": "2026-06-30 16:11 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -440,9 +440,9 @@ window.TENNIS_DATA = {
       "prevListRank": 13,
       "tournamentStatus": {
         "tournament": "Wimbledon",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 76.4
     },
@@ -3236,9 +3236,9 @@ window.TENNIS_DATA = {
       "prevListRank": 95,
       "tournamentStatus": {
         "tournament": "Wimbledon",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 53.8
     },
@@ -4685,7 +4685,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 41.1
@@ -4791,7 +4791,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 40.3
@@ -11025,9 +11025,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Raphael Collignon",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 82.3,
           "l_score": 63.4,
           "match_score": 82.3
@@ -11047,15 +11047,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Ben Shelton",
+          "w": "Otto Virtanen",
           "w_logo": "",
-          "l": "Otto Virtanen",
+          "l": "Ben Shelton",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 3-6 6-7 (8-10) 6-2 7-6 (11-9)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 76.4,
-          "l_score": 40.3,
+          "w_score": 40.3,
+          "l_score": 76.4,
           "match_score": 76.4
         },
         {
@@ -11238,7 +11238,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lois Boisson",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 1-6 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 93.3,
@@ -11363,7 +11363,6 @@ window.TENNIS_DATA = {
       "Arthur Fery",
       "Arthur Fils",
       "Arthur Rinderknech",
-      "Ben Shelton",
       "Billy Harris",
       "Botic Van De Zandschulp",
       "Brandon Nakashima",
@@ -11430,7 +11429,6 @@ window.TENNIS_DATA = {
       "Tommy Paul",
       "Ugo Humbert",
       "Valentin Royer",
-      "Vilius Gaubas",
       "Vit Kopriva",
       "Yannick Hanfmann",
       "Zachary Svajda",
@@ -11446,6 +11444,7 @@ window.TENNIS_DATA = {
       "Alex Michelsen",
       "Alexandre Muller",
       "Andrey Rublev",
+      "Ben Shelton",
       "Benjamin Bonzi",
       "Cameron Norrie",
       "Camilo Ugo Carabelli",
@@ -11481,10 +11480,11 @@ window.TENNIS_DATA = {
       "Thiago Agustin Tirante",
       "Titouan Droguet",
       "Tristan Boyer",
+      "Vilius Gaubas",
       "Wu Yibing"
     ],
-    "aliveCount": 83,
-    "matchesSeen": 83
+    "aliveCount": 81,
+    "matchesSeen": 84
   },
   "WTA_TOURNAMENT": {
     "name": "Wimbledon",
@@ -11547,7 +11547,6 @@ window.TENNIS_DATA = {
       "Leolia Jeanjean",
       "Linda Noskova",
       "Liudmila Samsonova",
-      "Lois Boisson",
       "Madison Keys",
       "Mananchaya Sawangkaew",
       "Maria Sakkari",
@@ -11611,6 +11610,7 @@ window.TENNIS_DATA = {
       "Leylah Fernandez",
       "Lilli Tagger",
       "Lina Gjorcheska",
+      "Lois Boisson",
       "Magda Linette",
       "Magdalena Frech",
       "Maja Chwalinska",
@@ -11630,7 +11630,7 @@ window.TENNIS_DATA = {
       "Yulia Putintseva",
       "Zheng Qinwen"
     ],
-    "aliveCount": 82,
+    "aliveCount": 81,
     "matchesSeen": 86
   },
   "ATP_SCORE_LOG": {
