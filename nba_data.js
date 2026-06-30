@@ -2396,7 +2396,7 @@ window.NBA_DATA = {
       "last": "Champagnie",
       "pos": "F",
       "teamCode": "SA",
-      "age": 24,
+      "age": 25,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4592479.png",
       "colors": {
         "primary": "#c4ced4",
@@ -2412,7 +2412,7 @@ window.NBA_DATA = {
         "blk": 0.5,
         "min": 30.7
       },
-      "legendScore": 41.3
+      "legendScore": 42.3
     },
     {
       "id": 3133603,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-06-30 10:04 UTC",
+  "LAST_UPDATE": "2026-06-30 15:18 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

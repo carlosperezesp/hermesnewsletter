@@ -11446,9 +11446,9 @@ window.NHL_DATA = {
       "name": "Akira Schmid",
       "pos": "G",
       "teamCode": "VGK",
-      "age": 26,
-      "country": "Switzerland",
-      "birthCountry": "CHE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
@@ -47986,10 +47986,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-30 10:04 UTC",
+  "LAST_UPDATE": "2026-06-30 15:18 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-30T10:03:45Z"
+    "standingsDateTimeUtc": "2026-06-30T15:17:46Z"
   }
 };
