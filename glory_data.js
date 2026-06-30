@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-29 22:37 UTC",
+  "UPDATED": "2026-06-30 08:41 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Sonoma:Shane van Gisbergen",
@@ -403,9 +403,9 @@ window.GLORY_DATA = {
       "Jacob Misiorowski",
       "Junior Caminero",
       "Nick Kurtz",
+      "James Wood",
       "Sal Stewart",
       "Jordan Walker",
-      "James Wood",
       "Pete Crow-Armstrong",
       "CJ Abrams",
       "Cam Schlittler",

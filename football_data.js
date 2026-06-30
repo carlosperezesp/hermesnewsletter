@@ -1,11 +1,11 @@
-// Auto-generated 2026-06-29 22:35 UTC
+// Auto-generated 2026-06-30 08:40 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-06-29 22:35 UTC",
+  "UPDATED": "2026-06-30 08:40 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-06-29 22:35 UTC"
+    "through": "2026-06-30 08:40 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -125,15 +125,15 @@ window.FOOTBALL_DATA = {
         "secondary": "#21468B"
       },
       "rank": 6,
-      "elo": 2007,
-      "eloScore": 83.6,
+      "elo": 1999,
+      "eloScore": 82.7,
       "sourceRank": 7,
       "worldCups": 0,
       "continentalTitles": 1,
       "note": "Bloque estable con muy buen diferencial ante rivales fuertes.",
       "eloPrev": 1976,
-      "recentDelta": 30.6,
-      "recentMatches": 3
+      "recentDelta": 23.0,
+      "recentMatches": 4
     },
     {
       "id": "portugal",
@@ -187,15 +187,15 @@ window.FOOTBALL_DATA = {
         "secondary": "#DD0000"
       },
       "rank": 9,
-      "elo": 1939,
-      "eloScore": 76.4,
+      "elo": 1923,
+      "eloScore": 74.7,
       "sourceRank": 8,
       "worldCups": 4,
       "continentalTitles": 3,
       "note": "Rebote competitivo tras la Euro como anfitrión.",
       "eloPrev": 1958,
-      "recentDelta": -18.6,
-      "recentMatches": 3
+      "recentDelta": -35.2,
+      "recentMatches": 4
     },
     {
       "id": "uruguay",
@@ -220,6 +220,64 @@ window.FOOTBALL_DATA = {
     }
   ],
   "RECENT_MATCHES": [
+    {
+      "id": "760488",
+      "date": "2026-06-30",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "NED"
+      ],
+      "home": {
+        "code": "NED",
+        "name": "Países Bajos",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+        "score": 1,
+        "eloBefore": 2007,
+        "eloAfter": 1999,
+        "delta": -7.6,
+        "result": "D"
+      },
+      "away": {
+        "code": "MAR",
+        "name": "Marruecos",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png",
+        "score": 1,
+        "eloBefore": 1916,
+        "eloAfter": 1924,
+        "delta": 7.6,
+        "result": "D"
+      }
+    },
+    {
+      "id": "760489",
+      "date": "2026-06-29",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "GER"
+      ],
+      "home": {
+        "code": "GER",
+        "name": "Alemania",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+        "score": 1,
+        "eloBefore": 1939,
+        "eloAfter": 1923,
+        "delta": -16.6,
+        "result": "D"
+      },
+      "away": {
+        "code": "PAR",
+        "name": "Paraguay",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
+        "score": 1,
+        "eloBefore": 1723,
+        "eloAfter": 1740,
+        "delta": 16.6,
+        "result": "D"
+      }
+    },
     {
       "id": "760487",
       "date": "2026-06-29",
@@ -1498,18 +1556,18 @@ window.FOOTBALL_DATA = {
           "secondary": "#21468B"
         },
         "rank": 6,
-        "elo": 2007,
-        "eloScore": 83.6,
+        "elo": 1999,
+        "eloScore": 82.7,
         "sourceRank": 7,
         "worldCups": 0,
         "continentalTitles": 1,
-        "note": "A 7.6 puntos brutos del umbral dinástico",
+        "note": "A 8.0 puntos brutos del umbral dinástico",
         "eloPrev": 1976,
-        "recentDelta": 30.6,
-        "recentMatches": 3,
-        "dynastyPotential": 80.7,
-        "rawDynastyPotential": 31.8,
-        "gapToDynastyTop10": 7.6,
+        "recentDelta": 23.0,
+        "recentMatches": 4,
+        "dynastyPotential": 79.6,
+        "rawDynastyPotential": 31.4,
+        "gapToDynastyTop10": 8.0,
         "cycleYears": 1.4,
         "currentWorldCups": 0,
         "currentContinentalTitles": 0,
@@ -1556,18 +1614,18 @@ window.FOOTBALL_DATA = {
           "secondary": "#DD0000"
         },
         "rank": 9,
-        "elo": 1939,
-        "eloScore": 76.4,
+        "elo": 1923,
+        "eloScore": 74.7,
         "sourceRank": 8,
         "worldCups": 4,
         "continentalTitles": 3,
-        "note": "A 15.8 puntos brutos del umbral dinástico",
+        "note": "A 16.7 puntos brutos del umbral dinástico",
         "eloPrev": 1958,
-        "recentDelta": -18.6,
-        "recentMatches": 3,
-        "dynastyPotential": 59.9,
-        "rawDynastyPotential": 23.6,
-        "gapToDynastyTop10": 15.8,
+        "recentDelta": -35.2,
+        "recentMatches": 4,
+        "dynastyPotential": 57.7,
+        "rawDynastyPotential": 22.8,
+        "gapToDynastyTop10": 16.7,
         "cycleYears": 1.0,
         "currentWorldCups": 0,
         "currentContinentalTitles": 0,

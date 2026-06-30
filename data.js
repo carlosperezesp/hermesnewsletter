@@ -31260,7 +31260,7 @@ window.NHL_DATA = {
       "name": "Jacob Bernard-Docker",
       "pos": "D",
       "teamCode": "DET",
-      "age": 25,
+      "age": 26,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47986,10 +47986,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-29 22:34 UTC",
+  "LAST_UPDATE": "2026-06-30 08:38 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-29T22:33:15Z"
+    "standingsDateTimeUtc": "2026-06-30T08:37:15Z"
   }
 };

@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-29 22:35 UTC
+// Auto-generated 2026-06-30 08:39 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-29 22:35 UTC",
+  "UPDATED": "2026-06-30 08:39 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -16,7 +16,7 @@ window.GOLF_DATA = {
     "startLabel": "16 Jul",
     "endLabel": "19 Jul",
     "round": 0,
-    "daysToStart": 17,
+    "daysToStart": 16,
     "leaderboard": [],
     "favorites": [
       "Scottie Scheffler",
@@ -101,94 +101,13 @@ window.GOLF_DATA = {
     "name": "Travelers Championship",
     "start": "2026-06-25",
     "end": "2026-06-29",
-    "state": "live",
+    "state": "completed",
     "tier": "Signature Event",
     "startLabel": "25 Jun",
     "endLabel": "29 Jun",
-    "round": 4,
+    "round": 0,
     "daysToStart": 0,
-    "leaderboard": [
-      {
-        "rank": 1,
-        "name": "Viktor Hovland",
-        "id": "4364873",
-        "country": "Norway",
-        "score": "-22",
-        "today": ""
-      },
-      {
-        "rank": 2,
-        "name": "Scottie Scheffler",
-        "id": "9478",
-        "country": "USA",
-        "score": "-21",
-        "today": ""
-      },
-      {
-        "rank": 3,
-        "name": "Collin Morikawa",
-        "id": "10592",
-        "country": "USA",
-        "score": "-20",
-        "today": "-9"
-      },
-      {
-        "rank": 4,
-        "name": "Matt Fitzpatrick",
-        "id": "9037",
-        "country": "England",
-        "score": "-19",
-        "today": "-6"
-      },
-      {
-        "rank": 5,
-        "name": "Wyndham Clark",
-        "id": "11119",
-        "country": "USA",
-        "score": "-18",
-        "today": "-5"
-      },
-      {
-        "rank": 6,
-        "name": "Akshay Bhatia",
-        "id": "4419142",
-        "country": "USA",
-        "score": "-18",
-        "today": "-3"
-      },
-      {
-        "rank": 7,
-        "name": "Corey Conners",
-        "id": "9126",
-        "country": "Canada",
-        "score": "-17",
-        "today": "-7"
-      },
-      {
-        "rank": 8,
-        "name": "Alex Fitzpatrick",
-        "id": "4364865",
-        "country": "England",
-        "score": "-17",
-        "today": "-6"
-      },
-      {
-        "rank": 9,
-        "name": "J.J. Spaun",
-        "id": "10166",
-        "country": "USA",
-        "score": "-17",
-        "today": "-6"
-      },
-      {
-        "rank": 10,
-        "name": "Robert MacIntyre",
-        "id": "11378",
-        "country": "Scotland",
-        "score": "-16",
-        "today": "-5"
-      }
-    ],
+    "leaderboard": [],
     "favorites": [
       "Scottie Scheffler",
       "Matt Fitzpatrick",
@@ -1196,5 +1115,5 @@ window.GOLF_DATA = {
     }
   ],
   "LEGEND_THRESHOLD": 37.5,
-  "IMPORTANCE": 10.0
+  "IMPORTANCE": 5.0
 };
