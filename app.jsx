@@ -42,7 +42,42 @@ function getAlivePlayoffTeams(bracket) {
   return alive;
 }
 
+// Cambios de clasificación persistidos (mismo log que el feed "Gloria · lo último"),
+// indexados por ancla de tabla. Así los badges de la tabla coinciden SIEMPRE con el
+// feed y duran lo mismo (el `prevRank` de cada deporte se pone al día en horas y
+// pierde el indicador; esto no). Se lee de window.GLORY_DATA, cargado antes que app.
+const GLORY_CHANGES = (() => {
+  const out = {};
+  const G = (typeof window !== "undefined" && window.GLORY_DATA) || {};
+  (G.EVENTS || []).forEach(e => {
+    const a = e.anchor;
+    if (!a) return;
+    const t = e.text || "";
+    let kind, name;
+    if (t.includes(" es nuevo nº1")) { kind = "leader"; name = t.split(" es nuevo nº1")[0]; }
+    else if (t.includes(" entra en el top")) { kind = "in"; name = t.split(" entra en el top")[0]; }
+    else if (t.includes(" cae del top") || t.includes(" sale del top")) { kind = "out"; name = t.split(/ (?:cae del|sale del) top/)[0]; }
+    else return;
+    name = name.trim();
+    const m = out[a] || (out[a] = { in: new Set(), out: new Set(), leader: null });
+    if (kind === "out") m.out.add(name);
+    else { m.in.add(name); if (kind === "leader") m.leader = name; }
+  });
+  return out;
+})();
+const AnchorChangesContext = React.createContext(null);
+
 function NewsletterRankRow({ rank, item, alive, aliveKey = "teamCode", forceOut = false, score, scoreDisplay, scoreLabel, scoreDelta, meta, note, threshold, logo, scoreB, scoreBDisplay, scoreBLabel, scoreBThreshold, prevRank, rowClassName = "", legendActive = false }) {
+  // Badge derivado del log de Gloria (nuevo nº1 / entró), si esta tabla tiene ancla.
+  const tableChanges = React.useContext(AnchorChangesContext);
+  let gloryBadge = null;
+  if (tableChanges && item) {
+    const nm = item.name || item.city;
+    if (tableChanges.leader === nm)
+      gloryBadge = <span style={{ display: "inline-flex", alignItems: "center", justifyContent: "center", fontSize: 9, fontWeight: 700, lineHeight: 1, color: "#fff", background: "#2a7a2a", borderRadius: 3, padding: "2px 4px", letterSpacing: "0.04em" }}>nº1</span>;
+    else if (tableChanges.in.has(nm))
+      gloryBadge = <span style={{ display: "inline-flex", alignItems: "center", justifyContent: "center", fontSize: 9, fontWeight: 700, lineHeight: 1, color: "#fff", background: "#1a5fa8", borderRadius: 3, padding: "2px 4px", letterSpacing: "0.04em" }}>NUEVO</span>;
+  }
   const aliveValue = item?.[aliveKey];
   const isAlive = !forceOut && (alive.size === 0 || alive.has(aliveValue));
   const displayed = scoreDisplay !== undefined ? scoreDisplay : score;
@@ -98,7 +133,7 @@ function NewsletterRankRow({ rank, item, alive, aliveKey = "teamCode", forceOut 
     <div className={`newsletter-row ${scoreB !== undefined ? "newsletter-row--dual-score" : ""} ${!isAlive ? "newsletter-row--out" : ""} ${legendActive && isAlive ? "newsletter-row--legend-active" : ""} ${rowClassName}`}>
       <span className="newsletter-row__rank" style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 1 }}>
         <span>{String(rank).padStart(2, "0")}</span>
-        {changeEl}
+        {gloryBadge || changeEl}
       </span>
       <span className="newsletter-row__identity">
         <TeamSwatch colors={item.colors} code={item.teamCode} logo={logo} />
@@ -141,7 +176,7 @@ function NewsletterRankRow({ rank, item, alive, aliveKey = "teamCode", forceOut 
 }
 
 function NewsletterSection({ kicker, title, sub, children, anchor }) {
-  return (
+  const body = (
     <section className="newsletter-section" id={anchor}>
       <div className="newsletter-section__head">
         <WFLabel>{kicker}</WFLabel>
@@ -151,6 +186,10 @@ function NewsletterSection({ kicker, title, sub, children, anchor }) {
       {children}
     </section>
   );
+  // Si la tabla tiene ancla, expone sus cambios de Gloria a las filas (badges).
+  return anchor
+    ? <AnchorChangesContext.Provider value={GLORY_CHANGES[anchor] || null}>{body}</AnchorChangesContext.Provider>
+    : body;
 }
 
 function SectionIcon({ type }) {
@@ -1261,7 +1300,7 @@ function NewsletterApp() {
         </NewsletterSection>
 
         <NewsletterSection
-          anchor="nhl-jovenes-promesa"
+          anchor="nhl-jovenes-promesas"
           kicker="Young road to glory"
           title="Top 10 jugadores jovenes Road To Glory"
           sub="Proyeccion de carrera para jugadores de 25 años o menos."
@@ -1426,7 +1465,7 @@ function NewsletterApp() {
             </NewsletterSection>
 
             <NewsletterSection
-              anchor="nba-jovenes-promesa"
+              anchor="nba-jovenes-promesas"
               kicker="Young road to glory"
               title="Top 10 jóvenes NBA Road To Glory"
               sub="Proyección de carrera para jugadores de 25 años o menos."
@@ -1685,7 +1724,7 @@ function NewsletterApp() {
             </NewsletterSection>
 
             <NewsletterSection
-              anchor="mlb-jovenes-promesa"
+              anchor="mlb-jovenes-promesas"
               kicker="Young road to glory"
               title="Top 10 jóvenes MLB Road To Glory"
               sub="Proyección de carrera para jugadores de 25 años o menos."
@@ -1849,7 +1888,7 @@ function NewsletterApp() {
 
             {nflYoungPlayers.length > 0 && (
               <NewsletterSection
-                anchor="nfl-jovenes-promesa"
+                anchor="nfl-jovenes-promesas"
                 kicker="Young road to glory"
                 title="Jóvenes promesa NFL"
                 sub="Proyección de carrera para QBs de 25 años o menos — quién ha empezado fuerte."
@@ -3678,12 +3717,16 @@ function NewsletterApp() {
                     const changeEl = diff2 != null && diff2 !== 0
                       ? <span style={chipStyle(diff2 > 0 ? "#2a7a2a" : "#a02020")}>{diff2 > 0 ? `↑${diff2}` : `↓${-diff2}`}</span>
                       : null;
+                    // Badge persistente del log de Gloria (filas custom, no NewsletterRankRow).
+                    const lc = GLORY_CHANGES["afl-clasificacion"];
+                    const gloryBadge = lc && lc.leader === t.name ? <span style={chipStyle("#2a7a2a")}>nº1</span>
+                      : (lc && lc.in.has(t.name) ? <span style={chipStyle("#1a5fa8")}>NUEVO</span> : null);
                     const isFinals = i < 8;
                     return (
                       <div key={t.name} className={`afl-ladder__row ${isFinals ? "afl-ladder__row--finals" : ""}`}>
                         <span className="afl-ladder__rank">
                           <span>{i + 1}</span>
-                          {changeEl}
+                          {gloryBadge || changeEl}
                         </span>
                         <span className="afl-ladder__team">
                           <TeamSwatch colors={{ primary: t.primary, secondary: t.secondary }} code={t.name} logo={aflTeamLogo(t.name)} />
