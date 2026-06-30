@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-30 08:40 UTC
+// Auto-generated 2026-06-30 10:06 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-06-30 08:40 UTC",
+  "UPDATED": "2026-06-30 10:06 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -3392,108 +3392,7 @@ window.ATHLETICS_DATA = {
               "year": 2023
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "14:18.41",
-              "athlete": "Likina Amebaw",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "14:18.54",
-              "athlete": "Aleshign Baweke",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "14:18.94",
-              "athlete": "Freweyni Hailu",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "14:22.37",
-              "athlete": "Senayet Getachew",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "14:22.51",
-              "athlete": "Medina Eisa",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "14:22.56",
-              "athlete": "Hirut Meshesha",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "14:23.44",
-              "athlete": "Fantaye Belayneh",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "14:24.14",
-              "athlete": "Faith Kipyegon",
-              "country": "KEN",
-              "flag": "https://flagcdn.com/24x18/ke.png",
-              "primary": "#006600",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "14:26.41",
-              "athlete": "Asayech Ayichew",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "14:29.97",
-              "athlete": "Mizan Alem",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "3000msc_m",
