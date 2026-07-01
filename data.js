@@ -10573,9 +10573,9 @@ window.NHL_DATA = {
       "name": "Mavrik Bourque",
       "pos": "C",
       "teamCode": "DAL",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#006847",
         "secondary": "#8f8f8c"
@@ -10598,8 +10598,7 @@ window.NHL_DATA = {
         49,
         51,
         59
-      ],
-      "legendScore": 48.9
+      ]
     },
     {
       "id": 8481598,
@@ -18399,9 +18398,9 @@ window.NHL_DATA = {
       "name": "Nicholas Robertson",
       "pos": "LW",
       "teamCode": "TOR",
-      "age": 24,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#ffffff"
@@ -18423,8 +18422,7 @@ window.NHL_DATA = {
         48,
         50,
         52
-      ],
-      "legendScore": 45.1
+      ]
     },
     {
       "id": 8478462,
@@ -26902,9 +26900,9 @@ window.NHL_DATA = {
       "name": "Ilya Lyubushkin",
       "pos": "D",
       "teamCode": "DAL",
-      "age": 32,
-      "country": "Russia",
-      "birthCountry": "RUS",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#006847",
         "secondary": "#8f8f8c"
@@ -47981,10 +47979,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-01 15:23 UTC",
+  "LAST_UPDATE": "2026-07-01 16:09 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-01T15:23:01Z"
+    "standingsDateTimeUtc": "2026-07-01T16:08:15Z"
   }
 };

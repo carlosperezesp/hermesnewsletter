@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-01 15:26 UTC
+// Auto-generated 2026-07-01 16:12 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-01 15:26 UTC",
+  "UPDATED": "2026-07-01 16:12 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11051,7 +11051,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Daniel Merida",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "3-6 6-3 7-5 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 78.5,
@@ -11251,9 +11251,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Barbora Krejcikova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 92.1,
           "l_score": 71.8,
           "match_score": 92.1
@@ -11273,15 +11273,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Jessica Pegula",
+          "w": "Sara Sorribes Tormo",
           "w_logo": "",
-          "l": "Sara Sorribes Tormo",
+          "l": "Jessica Pegula",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 90.2,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 90.2,
           "match_score": 90.2
         },
         {
