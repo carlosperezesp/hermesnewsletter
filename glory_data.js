@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-06-30 22:47 UTC",
+  "UPDATED": "2026-07-01 08:58 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Sonoma:Shane van Gisbergen",
@@ -111,6 +111,42 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-29"
     },
     {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Willson Contreras",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Willson Contreras entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-07-01"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Colson Montgomery",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-jovenes-promesas",
+      "text": "Colson Montgomery entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-07-01"
+    },
+    {
+      "id": "rank:sumo:BANZUKE:in:Yoshinofuji",
+      "sport": "sumo",
+      "detail": "Sumo",
+      "anchor": "sumo-banzuke",
+      "text": "Yoshinofuji entra en el top-10 · banzuke",
+      "weight": 84,
+      "firstSeen": "2026-07-01"
+    },
+    {
+      "id": "rank:sumo:BANZUKE:in:Oho",
+      "sport": "sumo",
+      "detail": "Sumo",
+      "anchor": "sumo-banzuke",
+      "text": "Oho entra en el top-10 · banzuke",
+      "weight": 84,
+      "firstSeen": "2026-07-01"
+    },
+    {
       "id": "rank:golf:CURRENT:in:Akshay Bhatia",
       "sport": "golf",
       "detail": "Golf",
@@ -172,6 +208,42 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-wta",
       "firstSeen": "2026-06-22"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:out:Aaron Judge",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Aaron Judge cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-07-01"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:out:Cam Schlittler",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-jovenes-promesas",
+      "text": "Cam Schlittler cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-07-01"
+    },
+    {
+      "id": "rank:sumo:BANZUKE:out:Takayasu",
+      "sport": "sumo",
+      "detail": "Sumo",
+      "anchor": "sumo-banzuke",
+      "text": "Takayasu cae del top-10 · banzuke",
+      "weight": 74,
+      "firstSeen": "2026-07-01"
+    },
+    {
+      "id": "rank:sumo:BANZUKE:out:Fujinokawa",
+      "sport": "sumo",
+      "detail": "Sumo",
+      "anchor": "sumo-banzuke",
+      "text": "Fujinokawa cae del top-10 · banzuke",
+      "weight": 74,
+      "firstSeen": "2026-07-01"
     },
     {
       "id": "rank:golf:CURRENT:out:Rory McIlroy",
@@ -378,14 +450,14 @@ window.GLORY_DATA = {
     "mlb:ROAD_TO_GLORY.players": [
       "Shohei Ohtani",
       "Mike Trout",
-      "Aaron Judge",
       "Freddie Freeman",
       "Bryce Harper",
       "Juan Soto",
       "Yordan Alvarez",
       "Kyle Schwarber",
       "Byron Buxton",
-      "Jacob Misiorowski"
+      "Jacob Misiorowski",
+      "Willson Contreras"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -402,14 +474,14 @@ window.GLORY_DATA = {
     "mlb:ROAD_TO_GLORY.youngProspects": [
       "Jacob Misiorowski",
       "Junior Caminero",
+      "Sal Stewart",
       "Nick Kurtz",
       "James Wood",
-      "Sal Stewart",
-      "Jordan Walker",
       "Pete Crow-Armstrong",
+      "Jordan Walker",
       "CJ Abrams",
-      "Cam Schlittler",
-      "Andy Pages"
+      "Andy Pages",
+      "Colson Montgomery"
     ],
     "nfl:ROAD_TO_GLORY.players": [
       "Matthew Stafford",
@@ -510,14 +582,14 @@ window.GLORY_DATA = {
     "sumo:BANZUKE": [
       "Hoshoryu",
       "Onosato",
-      "Kotozakura",
-      "Aonishiki",
       "Kirishima",
+      "Kotozakura",
       "Atamifuji",
       "Kotoshoho",
       "Wakatakakage",
-      "Takayasu",
-      "Fujinokawa"
+      "Aonishiki",
+      "Yoshinofuji",
+      "Oho"
     ],
     "nascar:DRIVERS": [
       "Tyler Reddick",

@@ -32026,7 +32026,7 @@ window.NHL_DATA = {
       "name": "Pierre-Olivier Joseph",
       "pos": "D",
       "teamCode": "VAN",
-      "age": 26,
+      "age": 27,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47986,10 +47986,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-06-30 22:44 UTC",
+  "LAST_UPDATE": "2026-07-01 08:56 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-06-30T22:44:15Z"
+    "standingsDateTimeUtc": "2026-07-01T08:55:45Z"
   }
 };

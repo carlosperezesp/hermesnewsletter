@@ -1,6 +1,6 @@
-// Auto-generated 2026-06-30 22:46 UTC
+// Auto-generated 2026-07-01 08:57 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-06-30 22:46 UTC",
+  "UPDATED": "2026-07-01 08:57 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -16,7 +16,7 @@ window.GOLF_DATA = {
     "startLabel": "16 Jul",
     "endLabel": "19 Jul",
     "round": 0,
-    "daysToStart": 16,
+    "daysToStart": 15,
     "leaderboard": [],
     "favorites": [
       "Scottie Scheffler",
@@ -472,8 +472,8 @@ window.GOLF_DATA = {
         "secondary": "#FFFFFF"
       },
       "activeScore": 52,
-      "age": 21,
-      "note": "Talento generacional a los 21"
+      "age": 22,
+      "note": "Promesa emergente a los 22"
     },
     {
       "id": "nick_dunlap",
