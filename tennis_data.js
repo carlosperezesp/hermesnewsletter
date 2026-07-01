@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-01 10:29 UTC
+// Auto-generated 2026-07-01 15:26 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-01 10:29 UTC",
+  "UPDATED": "2026-07-01 15:26 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -31,7 +31,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 100.0
@@ -271,7 +271,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 79.4
@@ -475,7 +475,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 76.1
@@ -577,7 +577,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 75.4
@@ -645,7 +645,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 74.7
@@ -713,7 +713,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 74.3
@@ -815,7 +815,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 72.4
@@ -917,7 +917,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 68.3
@@ -1360,9 +1360,9 @@ window.TENNIS_DATA = {
       "prevListRank": 40,
       "tournamentStatus": {
         "tournament": "Wimbledon",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 65.0
     },
@@ -1601,7 +1601,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 62.5
@@ -1737,7 +1737,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 61.4
@@ -1941,7 +1941,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 59.3
@@ -2111,7 +2111,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 60.1
@@ -2144,9 +2144,9 @@ window.TENNIS_DATA = {
       "prevListRank": 63,
       "tournamentStatus": {
         "tournament": "Wimbledon",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 59.3
     },
@@ -2349,7 +2349,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 58.0
@@ -2383,7 +2383,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 59.3
@@ -2928,9 +2928,9 @@ window.TENNIS_DATA = {
       "prevListRank": 86,
       "tournamentStatus": {
         "tournament": "Wimbledon",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 55.0
     },
@@ -3887,7 +3887,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 50.2
@@ -4159,7 +4159,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 47.8
@@ -4507,7 +4507,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 44.2
@@ -4935,7 +4935,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 36.1
@@ -5187,7 +5187,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 100.0
@@ -5493,7 +5493,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 85.7
@@ -5697,7 +5697,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 80.2
@@ -6071,7 +6071,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 71.4
@@ -6411,7 +6411,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 66.4
@@ -7127,7 +7127,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 61.6
@@ -7297,7 +7297,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 61.0
@@ -7365,7 +7365,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 59.5
@@ -7775,7 +7775,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 58.0
@@ -7945,7 +7945,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 56.6
@@ -8013,7 +8013,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 55.8
@@ -11012,9 +11012,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nuno Borges",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-4) 7-6 (7-2) 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 100.0,
           "l_score": 61.9,
           "match_score": 100.0
@@ -11038,9 +11038,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "SoonWoo Kwon",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 7-6 (7-4) 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 79.3,
           "l_score": null,
           "match_score": 79.3
@@ -11051,9 +11051,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Daniel Merida",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 78.5,
           "l_score": null,
           "match_score": 78.5
@@ -11090,24 +11090,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mariano Navone",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "1-6 7-6 (7-5) 6-3 7-6 (10-8)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.4,
           "l_score": 65.0,
           "match_score": 75.4
         },
         {
           "round": "R64",
-          "w": "Learner Tien",
+          "w": "Marton Fucsovics",
           "w_logo": "",
-          "l": "Marton Fucsovics",
+          "l": "Learner Tien",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-7 (6-8) 6-4 7-6 (7-4) 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 74.8,
-          "l_score": 58.0,
+          "scheduled": false,
+          "w_score": 58.0,
+          "l_score": 74.8,
           "match_score": 74.8
         }
       ]
@@ -11238,9 +11238,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "McCartney Kessler",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 7-6 (11-9)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 100.0,
           "l_score": 67.0,
           "match_score": 100.0
@@ -11264,9 +11264,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Solana Sierra",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 91.1,
           "l_score": 62.3,
           "match_score": 91.1
@@ -11290,9 +11290,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Zhang Shuai",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 85.9,
           "l_score": null,
           "match_score": 85.9
@@ -11316,9 +11316,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anastasia Gasanova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 80.3,
           "l_score": null,
           "match_score": 80.3
@@ -11329,9 +11329,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Diane Parry",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 77.0,
           "l_score": 66.4,
           "match_score": 77.0
@@ -11363,7 +11363,6 @@ window.TENNIS_DATA = {
       "Arthur Rinderknech",
       "Botic Van De Zandschulp",
       "Brandon Nakashima",
-      "Daniel Altmaier",
       "Daniel Merida",
       "Daniil Medvedev",
       "Dino Prizmic",
@@ -11394,7 +11393,6 @@ window.TENNIS_DATA = {
       "Learner Tien",
       "Lorenzo Sonego",
       "Marcos Giron",
-      "Mariano Navone",
       "Martin Damm",
       "Marton Fucsovics",
       "Matteo Berrettini",
@@ -11413,7 +11411,6 @@ window.TENNIS_DATA = {
       "SoonWoo Kwon",
       "Stefanos Tsitsipas",
       "Taylor Fritz",
-      "Terence Atmane",
       "Tommy Paul",
       "Valentin Royer",
       "Yannick Hanfmann",
@@ -11442,6 +11439,7 @@ window.TENNIS_DATA = {
       "Dalibor Svrcina",
       "Damir Dzumhur",
       "Dane Sweeny",
+      "Daniel Altmaier",
       "Denis Shapovalov",
       "Dusan Lajovic",
       "Emilio Nava",
@@ -11457,6 +11455,7 @@ window.TENNIS_DATA = {
       "Luciano Darderi",
       "Mackenzie McDonald",
       "Marco Trungelliti",
+      "Mariano Navone",
       "Marin Cilic",
       "Martin Landaluce",
       "Matteo Arnaldi",
@@ -11472,6 +11471,7 @@ window.TENNIS_DATA = {
       "Sho Shimabukuro",
       "Stan Wawrinka",
       "Tallon Griekspoor",
+      "Terence Atmane",
       "Thanasi Kokkinakis",
       "Thiago Agustin Tirante",
       "Titouan Droguet",
@@ -11483,8 +11483,8 @@ window.TENNIS_DATA = {
       "Vit Kopriva",
       "Wu Yibing"
     ],
-    "aliveCount": 67,
-    "matchesSeen": 93
+    "aliveCount": 64,
+    "matchesSeen": 99
   },
   "WTA_TOURNAMENT": {
     "name": "Wimbledon",
@@ -11631,7 +11631,7 @@ window.TENNIS_DATA = {
       "Zheng Qinwen"
     ],
     "aliveCount": 64,
-    "matchesSeen": 96
+    "matchesSeen": 99
   },
   "ATP_SCORE_LOG": {
     "206173": [
