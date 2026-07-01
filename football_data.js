@@ -1,11 +1,11 @@
-// Auto-generated 2026-07-01 16:11 UTC
+// Auto-generated 2026-07-01 21:49 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-07-01 16:11 UTC",
+  "UPDATED": "2026-07-01 21:49 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-07-01 16:11 UTC"
+    "through": "2026-07-01 21:49 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -83,15 +83,15 @@ window.FOOTBALL_DATA = {
         "secondary": "#CE1124"
       },
       "rank": 4,
-      "elo": 2028,
-      "eloScore": 85.8,
+      "elo": 2036,
+      "eloScore": 86.6,
       "sourceRank": 4,
       "worldCups": 1,
       "continentalTitles": 0,
       "note": "Finalista de Euro; rating alto por consistencia ante élite UEFA.",
       "eloPrev": 2017,
-      "recentDelta": 10.6,
-      "recentMatches": 3
+      "recentDelta": 19.0,
+      "recentMatches": 4
     },
     {
       "id": "brazil",
@@ -220,6 +220,35 @@ window.FOOTBALL_DATA = {
     }
   ],
   "RECENT_MATCHES": [
+    {
+      "id": "760495",
+      "date": "2026-07-01",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "ENG"
+      ],
+      "home": {
+        "code": "ENG",
+        "name": "Inglaterra",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+        "score": 2,
+        "eloBefore": 2028,
+        "eloAfter": 2036,
+        "delta": 8.4,
+        "result": "W"
+      },
+      "away": {
+        "code": "COD",
+        "name": "RD Congo",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rdc.png",
+        "score": 1,
+        "eloBefore": 1713,
+        "eloAfter": 1704,
+        "delta": -8.4,
+        "result": "L"
+      }
+    },
     {
       "id": "760492",
       "date": "2026-06-30",
@@ -1498,17 +1527,17 @@ window.FOOTBALL_DATA = {
           "secondary": "#CE1124"
         },
         "rank": 4,
-        "elo": 2028,
-        "eloScore": 85.8,
+        "elo": 2036,
+        "eloScore": 86.6,
         "sourceRank": 4,
         "worldCups": 1,
         "continentalTitles": 0,
         "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
         "eloPrev": 2017,
-        "recentDelta": 10.6,
-        "recentMatches": 3,
+        "recentDelta": 19.0,
+        "recentMatches": 4,
         "dynastyPotential": 100.0,
-        "rawDynastyPotential": 55.4,
+        "rawDynastyPotential": 55.9,
         "gapToDynastyTop10": 0.0,
         "cycleYears": 2.4,
         "currentWorldCups": 0,
