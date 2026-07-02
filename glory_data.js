@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-02 21:35 UTC",
+  "UPDATED": "2026-07-02 22:33 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Sonoma:Shane van Gisbergen",
