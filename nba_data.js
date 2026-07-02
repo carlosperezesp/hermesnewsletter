@@ -2246,7 +2246,7 @@ window.NBA_DATA = {
       "last": "White",
       "pos": "G",
       "teamCode": "BOS",
-      "age": 31,
+      "age": 32,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3078576.png",
       "colors": {
         "primary": "#007a33",
@@ -2262,7 +2262,7 @@ window.NBA_DATA = {
         "blk": 1.4,
         "min": 35.9
       },
-      "legendScore": 48.8
+      "legendScore": 49.8
     },
     {
       "id": 4433247,
@@ -3771,7 +3771,7 @@ window.NBA_DATA = {
       "last": "Joe",
       "pos": "G",
       "teamCode": "OKC",
-      "age": 26,
+      "age": 27,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4395702.png",
       "colors": {
         "primary": "#007ac1",
@@ -3787,7 +3787,7 @@ window.NBA_DATA = {
         "blk": 0.1,
         "min": 11.0
       },
-      "legendScore": 33.8
+      "legendScore": 34.8
     },
     {
       "id": 4432810,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-02 09:39 UTC",
+  "LAST_UPDATE": "2026-07-02 14:57 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

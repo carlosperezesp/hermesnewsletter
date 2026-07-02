@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-02 09:41 UTC
+// Auto-generated 2026-07-02 14:59 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-02 09:41 UTC",
+  "UPDATED": "2026-07-02 14:59 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -123,7 +123,108 @@ window.ATHLETICS_DATA = {
               "year": 2012
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "9.82",
+              "athlete": "Oblique Seville",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "National Stadium",
+              "date": "19 JUN 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "9.84",
+              "athlete": "Kayinsola Ajayi",
+              "country": "NGR",
+              "flag": "https://flagcdn.com/24x18/ng.png",
+              "primary": "#008751",
+              "venue": "Un. of Kentucky Outdoor Track Facility",
+              "date": "29 MAY 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "9.85",
+              "athlete": "Ronal Longa",
+              "country": "COL",
+              "flag": "https://flagcdn.com/24x18/co.png",
+              "primary": "#4A4745",
+              "venue": "Alfonso Galvis Duque Stadium",
+              "date": "26 JUN 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "9.88",
+              "athlete": "Noah Lyles",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Stadio Olimpico",
+              "date": "04 JUN 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "9.89",
+              "athlete": "Busang Collen Kebinatshipi",
+              "country": "BOT",
+              "flag": "https://flagcdn.com/24x18/bw.png",
+              "primary": "#75AADB",
+              "venue": "National Stadium",
+              "date": "03 APR 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "9.89",
+              "athlete": "Sam Blaskowski",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Ray Conn Sports Complex",
+              "date": "30 MAY 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "9.89",
+              "athlete": "Courtney Lindsey",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Horizon HS",
+              "date": "20 JUN 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "9.90",
+              "athlete": "Max Thomas",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Percy Beard Track",
+              "date": "04 APR 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "9.90",
+              "athlete": "Bryan Levell",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "National Stadium",
+              "date": "19 APR 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "9.91",
+              "athlete": "Jordan Anthony",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Percy Beard Track",
+              "date": "18 APR 2026"
+            }
+          ]
         },
         {
           "id": "100m_w",
@@ -3074,108 +3175,7 @@ window.ATHLETICS_DATA = {
               "year": 2023
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "12:47.62",
-              "athlete": "Addisu Yihune",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "12:47.73",
-              "athlete": "Birhanu Balew",
-              "country": "BRN",
-              "flag": "https://flagcdn.com/24x18/bh.png",
-              "primary": "#CE1126",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "12:48.61",
-              "athlete": "Andreas Almgren",
-              "country": "SWE",
-              "flag": "https://flagcdn.com/24x18/se.png",
-              "primary": "#006AA7",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "12:49.45",
-              "athlete": "Parker Wolfe",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "12:49.61",
-              "athlete": "Grant Fisher",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "12:49.99",
-              "athlete": "Graham Blanks",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "12:50.17",
-              "athlete": "Mezgebu Sime",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "12:50.82",
-              "athlete": "Ky Robinson",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "12:54.35",
-              "athlete": "Biniam Mehary",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "12:55.22",
-              "athlete": "Jacob Krop",
-              "country": "KEN",
-              "flag": "https://flagcdn.com/24x18/ke.png",
-              "primary": "#006600",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "5000m_w",

@@ -6315,7 +6315,7 @@ window.MLB_DATA = {
         "era": 3.31,
         "ip": 89.2,
         "so": 59,
-        "whip": 0.98
+        "whip": 0.99
       },
       "legendScore": 31.2,
       "currentScore": 51,
@@ -8077,7 +8077,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-02 09:39 UTC",
+  "LAST_UPDATE": "2026-07-02 14:57 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
