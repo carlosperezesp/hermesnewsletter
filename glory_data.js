@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-02 15:56 UTC",
+  "UPDATED": "2026-07-02 21:35 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Sonoma:Shane van Gisbergen",
@@ -111,20 +111,20 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-29"
     },
     {
+      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Chase Burns",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-jovenes-promesas",
+      "text": "Chase Burns entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-07-02"
+    },
+    {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Willson Contreras",
       "sport": "mlb",
       "detail": "MLB",
       "anchor": "mlb-road-to-glory",
       "text": "Willson Contreras entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-07-01"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Colson Montgomery",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-jovenes-promesas",
-      "text": "Colson Montgomery entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-07-01"
     },
@@ -271,15 +271,6 @@ window.GLORY_DATA = {
       "text": "Gold Coast cae del top-10 · clasificación",
       "weight": 74,
       "firstSeen": "2026-06-28"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:out:Chase Burns",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-jovenes-promesas",
-      "text": "Chase Burns cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-06-27"
     }
   ],
   "REPORTS": [
@@ -481,7 +472,7 @@ window.GLORY_DATA = {
       "Jordan Walker",
       "CJ Abrams",
       "Andy Pages",
-      "Colson Montgomery"
+      "Chase Burns"
     ],
     "nfl:ROAD_TO_GLORY.players": [
       "Matthew Stafford",

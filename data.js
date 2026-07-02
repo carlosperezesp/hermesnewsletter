@@ -39156,12 +39156,12 @@ window.NHL_DATA = {
       "id": 8471214,
       "name": "Alex Ovechkin",
       "pos": "LW",
-      "active": false,
+      "active": true,
       "teamCode": "WSH",
       "country": "Russia",
       "birthCountry": "RUS",
       "birthDate": "1985-09-17",
-      "headshot": "https://assets.nhle.com/mugs/nhl/latest/8471214.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8471214.png",
       "currentScore": 68,
       "legendScore": 95.8,
       "colors": {
@@ -47979,10 +47979,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-02 15:54 UTC",
+  "LAST_UPDATE": "2026-07-02 21:32 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-02T15:54:15Z"
+    "standingsDateTimeUtc": "2026-07-02T21:32:17Z"
   }
 };
