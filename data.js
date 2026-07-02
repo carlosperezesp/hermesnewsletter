@@ -2239,7 +2239,7 @@ window.NHL_DATA = {
       "name": "Robert Thomas",
       "pos": "C",
       "teamCode": "STL",
-      "age": 26,
+      "age": 27,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -22531,7 +22531,7 @@ window.NHL_DATA = {
       "name": "Stephen Halliday",
       "pos": "C",
       "teamCode": "OTT",
-      "age": 23,
+      "age": 24,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47979,10 +47979,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-01 22:43 UTC",
+  "LAST_UPDATE": "2026-07-02 08:26 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-01T22:43:15Z"
+    "standingsDateTimeUtc": "2026-07-02T08:25:00Z"
   }
 };

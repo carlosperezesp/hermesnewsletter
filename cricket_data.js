@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-07-01 22:45 UTC",
+  "UPDATED": "2026-07-02 08:28 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1541,
+    "matches": 1540,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 861
+        "matches": 860
       },
       {
         "name": "IPL",
@@ -47,12 +47,12 @@ window.CRICKET_DATA = {
       "id": "aap-atkinson",
       "name": "AAP Atkinson",
       "role": "All-rounder",
-      "score": 96.1,
-      "legendScore": 68.3,
+      "score": 96.3,
+      "legendScore": 68.4,
       "stats": {
         "test": 100.0,
         "odi": 100.0,
-        "t20": 89.8,
+        "t20": 91.0,
         "franchise": 85.3,
         "runs": 556,
         "wickets": 81,
@@ -72,7 +72,7 @@ window.CRICKET_DATA = {
         "t20": {
           "overall": 91.8,
           "batting": 23.3,
-          "bowling": 81.3
+          "bowling": 82.5
         },
         "franchise": {
           "overall": 89.7,
@@ -92,12 +92,12 @@ window.CRICKET_DATA = {
       "id": "ma-starc",
       "name": "MA Starc",
       "role": "Bowler",
-      "score": 95.0,
-      "legendScore": 71.1,
+      "score": 95.2,
+      "legendScore": 71.2,
       "stats": {
         "test": 97.3,
         "odi": 95.7,
-        "t20": 87.1,
+        "t20": 88.3,
         "franchise": 96.5,
         "runs": 399,
         "wickets": 113,
@@ -117,7 +117,7 @@ window.CRICKET_DATA = {
         "t20": {
           "overall": 83.1,
           "batting": 19.3,
-          "bowling": 80.5
+          "bowling": 81.6
         },
         "franchise": {
           "overall": 74.9,
@@ -137,12 +137,12 @@ window.CRICKET_DATA = {
       "id": "jj-bumrah",
       "name": "JJ Bumrah",
       "role": "Bowler",
-      "score": 93.1,
-      "legendScore": 72.2,
+      "score": 93.3,
+      "legendScore": 72.3,
       "stats": {
         "test": 89.9,
         "odi": 90.4,
-        "t20": 93.4,
+        "t20": 94.6,
         "franchise": 100.0,
         "runs": 88,
         "wickets": 129,
@@ -162,7 +162,7 @@ window.CRICKET_DATA = {
         "t20": {
           "overall": 47.5,
           "batting": 5.4,
-          "bowling": 93.9
+          "bowling": 95.2
         },
         "franchise": {
           "overall": 48.5,
@@ -182,16 +182,16 @@ window.CRICKET_DATA = {
       "id": "mj-henry",
       "name": "MJ Henry",
       "role": "Bowler",
-      "score": 92.3,
-      "legendScore": 70.3,
+      "score": 92.1,
+      "legendScore": 70.1,
       "stats": {
         "test": 82.3,
         "odi": 95.5,
         "t20": 100.0,
-        "franchise": 95.4,
+        "franchise": 94.1,
         "runs": 121,
-        "wickets": 118,
-        "matches": 49
+        "wickets": 116,
+        "matches": 48
       },
       "formatScores": {
         "test": {
@@ -206,13 +206,13 @@ window.CRICKET_DATA = {
         },
         "t20": {
           "overall": 55.4,
-          "batting": 6.9,
+          "batting": 7.0,
           "bowling": 100.0
         },
         "franchise": {
-          "overall": 54.3,
+          "overall": 53.9,
           "batting": 6.9,
-          "bowling": 94.5
+          "bowling": 93.1
         }
       },
       "country": "New Zealand",
@@ -227,12 +227,12 @@ window.CRICKET_DATA = {
       "id": "nauman-ali",
       "name": "Nauman Ali",
       "role": "Bowler",
-      "score": 91.6,
-      "legendScore": 60.8,
+      "score": 91.9,
+      "legendScore": 60.9,
       "stats": {
         "test": 94.6,
         "odi": 95.2,
-        "t20": 86.6,
+        "t20": 87.8,
         "franchise": 82.3,
         "runs": 116,
         "wickets": 54,
@@ -250,9 +250,9 @@ window.CRICKET_DATA = {
           "bowling": 95.9
         },
         "t20": {
-          "overall": 71.9,
+          "overall": 71.8,
           "batting": 14.0,
-          "bowling": 82.9
+          "bowling": 84.0
         },
         "franchise": {
           "overall": 70.2,
@@ -272,12 +272,12 @@ window.CRICKET_DATA = {
       "id": "taijul-islam",
       "name": "Taijul Islam",
       "role": "Bowler",
-      "score": 89.4,
-      "legendScore": 62.4,
+      "score": 89.6,
+      "legendScore": 62.5,
       "stats": {
         "test": 92.3,
         "odi": 92.8,
-        "t20": 84.4,
+        "t20": 85.5,
         "franchise": 80.2,
         "runs": 249,
         "wickets": 68,
@@ -297,7 +297,7 @@ window.CRICKET_DATA = {
         "t20": {
           "overall": 75.0,
           "batting": 15.9,
-          "bowling": 79.5
+          "bowling": 80.6
         },
         "franchise": {
           "overall": 73.3,
@@ -317,12 +317,12 @@ window.CRICKET_DATA = {
       "id": "jnt-seales",
       "name": "JNT Seales",
       "role": "Bowler",
-      "score": 86.6,
-      "legendScore": 67.4,
+      "score": 86.8,
+      "legendScore": 67.5,
       "stats": {
         "test": 76.2,
         "odi": 95.1,
-        "t20": 88.2,
+        "t20": 89.4,
         "franchise": 89.1,
         "runs": 249,
         "wickets": 109,
@@ -342,7 +342,7 @@ window.CRICKET_DATA = {
         "t20": {
           "overall": 61.3,
           "batting": 9.8,
-          "bowling": 86.2
+          "bowling": 87.5
         },
         "franchise": {
           "overall": 60.4,
@@ -362,12 +362,12 @@ window.CRICKET_DATA = {
       "id": "ka-maharaj",
       "name": "KA Maharaj",
       "role": "Bowler",
-      "score": 86.4,
-      "legendScore": 66.6,
+      "score": 86.6,
+      "legendScore": 66.7,
       "stats": {
         "test": 84.9,
         "odi": 88.2,
-        "t20": 86.1,
+        "t20": 87.3,
         "franchise": 85.8,
         "runs": 317,
         "wickets": 101,
@@ -385,9 +385,9 @@ window.CRICKET_DATA = {
           "bowling": 87.6
         },
         "t20": {
-          "overall": 67.9,
+          "overall": 67.8,
           "batting": 12.5,
-          "bowling": 82.8
+          "bowling": 83.9
         },
         "franchise": {
           "overall": 66.2,
@@ -407,12 +407,12 @@ window.CRICKET_DATA = {
       "id": "ra-jadeja",
       "name": "RA Jadeja",
       "role": "All-rounder",
-      "score": 83.3,
-      "legendScore": 66.2,
+      "score": 83.5,
+      "legendScore": 66.3,
       "stats": {
         "test": 86.1,
         "odi": 84.4,
-        "t20": 76.9,
+        "t20": 78.0,
         "franchise": 81.0,
         "runs": 1775,
         "wickets": 86,
@@ -432,7 +432,7 @@ window.CRICKET_DATA = {
         "t20": {
           "overall": 100.0,
           "batting": 36.9,
-          "bowling": 60.9
+          "bowling": 61.8
         },
         "franchise": {
           "overall": 100.0,
@@ -452,12 +452,12 @@ window.CRICKET_DATA = {
       "id": "mehedi-hasan-miraz",
       "name": "Mehedi Hasan Miraz",
       "role": "All-rounder",
-      "score": 80.6,
-      "legendScore": 62.4,
+      "score": 80.8,
+      "legendScore": 62.5,
       "stats": {
         "test": 84.6,
         "odi": 81.9,
-        "t20": 75.7,
+        "t20": 76.7,
         "franchise": 71.9,
         "runs": 1008,
         "wickets": 73,
@@ -477,7 +477,7 @@ window.CRICKET_DATA = {
         "t20": {
           "overall": 86.4,
           "batting": 25.7,
-          "bowling": 65.3
+          "bowling": 66.2
         },
         "franchise": {
           "overall": 84.5,
@@ -967,7 +967,7 @@ window.CRICKET_DATA = {
           "bowling": 89.2,
           "overall": 44.5,
           "runs": 121,
-          "wickets": 118
+          "wickets": 116
         },
         {
           "id": "ka-maharaj",
@@ -1350,7 +1350,7 @@ window.CRICKET_DATA = {
           "batting": 69.9,
           "bowling": 0.4,
           "overall": 9.4,
-          "runs": 1340,
+          "runs": 1298,
           "wickets": 0
         },
         {
@@ -1425,7 +1425,7 @@ window.CRICKET_DATA = {
           "bowling": 100.0,
           "overall": 48.7,
           "runs": 121,
-          "wickets": 118
+          "wickets": 116
         },
         {
           "id": "jnt-seales",
@@ -1606,7 +1606,7 @@ window.CRICKET_DATA = {
           "logo": "https://flagcdn.com/24x18/in.png",
           "score": 100.0,
           "batting": 36.9,
-          "bowling": 60.9,
+          "bowling": 61.8,
           "overall": 100.0,
           "runs": 1775,
           "wickets": 86
@@ -1624,7 +1624,7 @@ window.CRICKET_DATA = {
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
           "score": 94.1,
           "batting": 36.3,
-          "bowling": 54.8,
+          "bowling": 55.6,
           "overall": 94.1,
           "runs": 957,
           "wickets": 54
@@ -1642,7 +1642,7 @@ window.CRICKET_DATA = {
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
           "score": 91.8,
           "batting": 23.3,
-          "bowling": 81.3,
+          "bowling": 82.5,
           "overall": 91.8,
           "runs": 556,
           "wickets": 81
@@ -1660,7 +1660,7 @@ window.CRICKET_DATA = {
           "logo": "https://flagcdn.com/24x18/bd.png",
           "score": 86.4,
           "batting": 25.7,
-          "bowling": 65.3,
+          "bowling": 66.2,
           "overall": 86.4,
           "runs": 1008,
           "wickets": 73
@@ -1678,7 +1678,7 @@ window.CRICKET_DATA = {
           "logo": "https://flagcdn.com/24x18/au.png",
           "score": 83.1,
           "batting": 19.3,
-          "bowling": 80.5,
+          "bowling": 81.6,
           "overall": 83.1,
           "runs": 399,
           "wickets": 113
@@ -1694,12 +1694,12 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 81.1,
-          "batting": 22.9,
-          "bowling": 64.5,
-          "overall": 81.1,
+          "score": 80.5,
+          "batting": 23.1,
+          "bowling": 63.9,
+          "overall": 80.5,
           "runs": 965,
-          "wickets": 94
+          "wickets": 92
         },
         {
           "id": "bilal-zalmai",
@@ -1712,10 +1712,10 @@ window.CRICKET_DATA = {
             "secondary": "#dddddd"
           },
           "logo": "",
-          "score": 80.5,
+          "score": 80.4,
           "batting": 31.0,
-          "bowling": 47.0,
-          "overall": 80.5,
+          "bowling": 47.6,
+          "overall": 80.4,
           "runs": 1342,
           "wickets": 57
         },
@@ -1732,7 +1732,7 @@ window.CRICKET_DATA = {
           "logo": "",
           "score": 77.8,
           "batting": 30.5,
-          "bowling": 44.6,
+          "bowling": 45.3,
           "overall": 77.8,
           "runs": 920,
           "wickets": 51
@@ -1748,10 +1748,10 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 76.7,
+          "score": 76.8,
           "batting": 42.8,
-          "bowling": 30.9,
-          "overall": 76.7,
+          "bowling": 31.4,
+          "overall": 76.8,
           "runs": 50,
           "wickets": 5
         },
@@ -1766,10 +1766,10 @@ window.CRICKET_DATA = {
             "secondary": "#006341"
           },
           "logo": "https://flagcdn.com/24x18/au.png",
-          "score": 76.6,
+          "score": 76.5,
           "batting": 22.1,
-          "bowling": 59.6,
-          "overall": 76.6,
+          "bowling": 60.4,
+          "overall": 76.5,
           "runs": 432,
           "wickets": 74
         }
@@ -1789,7 +1789,7 @@ window.CRICKET_DATA = {
           "score": 100.0,
           "batting": 100.0,
           "bowling": 0.3,
-          "overall": 11.6,
+          "overall": 11.5,
           "runs": 283,
           "wickets": 0
         },
@@ -1806,8 +1806,8 @@ window.CRICKET_DATA = {
           "logo": "https://flagcdn.com/24x18/bd.png",
           "score": 78.9,
           "batting": 78.9,
-          "bowling": 3.9,
-          "overall": 37.0,
+          "bowling": 4.0,
+          "overall": 37.2,
           "runs": 157,
           "wickets": 2
         },
@@ -1825,7 +1825,7 @@ window.CRICKET_DATA = {
           "score": 78.7,
           "batting": 78.7,
           "bowling": 0.8,
-          "overall": 16.7,
+          "overall": 16.6,
           "runs": 395,
           "wickets": 2
         },
@@ -1843,7 +1843,7 @@ window.CRICKET_DATA = {
           "score": 70.7,
           "batting": 70.7,
           "bowling": 0.3,
-          "overall": 9.7,
+          "overall": 9.6,
           "runs": 146,
           "wickets": 0
         },
@@ -1861,7 +1861,7 @@ window.CRICKET_DATA = {
           "score": 64.7,
           "batting": 64.7,
           "bowling": 3.5,
-          "overall": 31.7,
+          "overall": 31.5,
           "runs": 140,
           "wickets": 2
         },
@@ -1879,7 +1879,7 @@ window.CRICKET_DATA = {
           "score": 62.8,
           "batting": 62.8,
           "bowling": 0.3,
-          "overall": 9.2,
+          "overall": 9.1,
           "runs": 162,
           "wickets": 0
         },
@@ -1897,7 +1897,7 @@ window.CRICKET_DATA = {
           "score": 60.4,
           "batting": 60.4,
           "bowling": 4.6,
-          "overall": 35.2,
+          "overall": 34.9,
           "runs": 93,
           "wickets": 3
         },
@@ -1914,7 +1914,7 @@ window.CRICKET_DATA = {
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
           "score": 60.0,
           "batting": 60.0,
-          "bowling": 7.0,
+          "bowling": 7.1,
           "overall": 43.2,
           "runs": 3313,
           "wickets": 9
@@ -1933,7 +1933,7 @@ window.CRICKET_DATA = {
           "score": 59.4,
           "batting": 59.4,
           "bowling": 0.3,
-          "overall": 8.9,
+          "overall": 8.8,
           "runs": 165,
           "wickets": 0
         },
@@ -1951,7 +1951,7 @@ window.CRICKET_DATA = {
           "score": 57.0,
           "batting": 57.0,
           "bowling": 0.4,
-          "overall": 10.1,
+          "overall": 10.0,
           "runs": 106,
           "wickets": 0
         }
@@ -1969,11 +1969,11 @@ window.CRICKET_DATA = {
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
           "score": 100.0,
-          "batting": 6.9,
+          "batting": 7.0,
           "bowling": 100.0,
           "overall": 55.4,
           "runs": 121,
-          "wickets": 118
+          "wickets": 116
         },
         {
           "id": "jj-bumrah",
@@ -1986,9 +1986,9 @@ window.CRICKET_DATA = {
             "secondary": "#ff9933"
           },
           "logo": "https://flagcdn.com/24x18/in.png",
-          "score": 93.9,
+          "score": 95.2,
           "batting": 5.4,
-          "bowling": 93.9,
+          "bowling": 95.2,
           "overall": 47.5,
           "runs": 88,
           "wickets": 129
@@ -2004,9 +2004,9 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 86.2,
+          "score": 87.5,
           "batting": 9.8,
-          "bowling": 86.2,
+          "bowling": 87.5,
           "overall": 61.3,
           "runs": 249,
           "wickets": 109
@@ -2022,10 +2022,10 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 82.9,
+          "score": 84.0,
           "batting": 14.0,
-          "bowling": 82.9,
-          "overall": 71.9,
+          "bowling": 84.0,
+          "overall": 71.8,
           "runs": 116,
           "wickets": 54
         },
@@ -2040,10 +2040,10 @@ window.CRICKET_DATA = {
             "secondary": "#ffb81c"
           },
           "logo": "https://flagcdn.com/24x18/za.png",
-          "score": 82.8,
+          "score": 83.9,
           "batting": 12.5,
-          "bowling": 82.8,
-          "overall": 67.9,
+          "bowling": 83.9,
+          "overall": 67.8,
           "runs": 317,
           "wickets": 101
         },
@@ -2058,9 +2058,9 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 81.3,
+          "score": 82.5,
           "batting": 23.3,
-          "bowling": 81.3,
+          "bowling": 82.5,
           "overall": 91.8,
           "runs": 556,
           "wickets": 81
@@ -2076,30 +2076,12 @@ window.CRICKET_DATA = {
             "secondary": "#006341"
           },
           "logo": "https://flagcdn.com/24x18/au.png",
-          "score": 80.5,
+          "score": 81.6,
           "batting": 19.3,
-          "bowling": 80.5,
+          "bowling": 81.6,
           "overall": 83.1,
           "runs": 399,
           "wickets": 113
-        },
-        {
-          "id": "ja-duffy",
-          "name": "JA Duffy",
-          "role": "Bowler",
-          "country": "New Zealand",
-          "teamCode": "NZ",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          },
-          "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 79.6,
-          "batting": 10.7,
-          "bowling": 79.6,
-          "overall": 61.6,
-          "runs": 104,
-          "wickets": 102
         },
         {
           "id": "taijul-islam",
@@ -2112,12 +2094,30 @@ window.CRICKET_DATA = {
             "secondary": "#f42a41"
           },
           "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 79.5,
+          "score": 80.6,
           "batting": 15.9,
-          "bowling": 79.5,
+          "bowling": 80.6,
           "overall": 75.0,
           "runs": 249,
           "wickets": 68
+        },
+        {
+          "id": "ja-duffy",
+          "name": "JA Duffy",
+          "role": "Bowler",
+          "country": "New Zealand",
+          "teamCode": "NZ",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          },
+          "logo": "https://flagcdn.com/24x18/nz.png",
+          "score": 77.5,
+          "batting": 10.7,
+          "bowling": 77.5,
+          "overall": 60.3,
+          "runs": 104,
+          "wickets": 98
         },
         {
           "id": "ba-carse",
@@ -2130,9 +2130,9 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 74.2,
+          "score": 75.3,
           "batting": 16.3,
-          "bowling": 74.2,
+          "bowling": 75.3,
           "overall": 73.4,
           "runs": 475,
           "wickets": 83
@@ -2242,12 +2242,12 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 83.5,
-          "batting": 21.5,
-          "bowling": 71.7,
-          "overall": 83.5,
+          "score": 82.8,
+          "batting": 21.6,
+          "bowling": 70.2,
+          "overall": 82.8,
           "runs": 965,
-          "wickets": 94
+          "wickets": 92
         },
         {
           "id": "c-bosch",
@@ -2534,12 +2534,12 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 94.5,
+          "score": 93.1,
           "batting": 6.9,
-          "bowling": 94.5,
-          "overall": 54.3,
+          "bowling": 93.1,
+          "overall": 53.9,
           "runs": 121,
-          "wickets": 118
+          "wickets": 116
         },
         {
           "id": "ma-starc",
@@ -2668,22 +2668,22 @@ window.CRICKET_DATA = {
           "wickets": 101
         },
         {
-          "id": "ja-duffy",
-          "name": "JA Duffy",
+          "id": "m-jansen",
+          "name": "M Jansen",
           "role": "Bowler",
-          "country": "New Zealand",
-          "teamCode": "NZ",
+          "country": "South Africa",
+          "teamCode": "SA",
           "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
+            "primary": "#007a4d",
+            "secondary": "#ffb81c"
           },
-          "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 80.7,
-          "batting": 10.5,
-          "bowling": 80.7,
-          "overall": 61.9,
-          "runs": 104,
-          "wickets": 102
+          "logo": "https://flagcdn.com/24x18/za.png",
+          "score": 80.6,
+          "batting": 16.0,
+          "bowling": 80.6,
+          "overall": 76.4,
+          "runs": 557,
+          "wickets": 105
         }
       ]
     }
@@ -3315,12 +3315,12 @@ window.CRICKET_DATA = {
         "id": "jj-bumrah",
         "name": "JJ Bumrah",
         "role": "Bowler",
-        "score": 93.1,
-        "legendScore": 72.2,
+        "score": 93.3,
+        "legendScore": 72.3,
         "stats": {
           "test": 89.9,
           "odi": 90.4,
-          "t20": 93.4,
+          "t20": 94.6,
           "franchise": 100.0,
           "runs": 88,
           "wickets": 129,
@@ -3340,7 +3340,7 @@ window.CRICKET_DATA = {
           "t20": {
             "overall": 47.5,
             "batting": 5.4,
-            "bowling": 93.9
+            "bowling": 95.2
           },
           "franchise": {
             "overall": 48.5,
@@ -3360,12 +3360,12 @@ window.CRICKET_DATA = {
         "id": "ma-starc",
         "name": "MA Starc",
         "role": "Bowler",
-        "score": 95.0,
-        "legendScore": 71.1,
+        "score": 95.2,
+        "legendScore": 71.2,
         "stats": {
           "test": 97.3,
           "odi": 95.7,
-          "t20": 87.1,
+          "t20": 88.3,
           "franchise": 96.5,
           "runs": 399,
           "wickets": 113,
@@ -3385,7 +3385,7 @@ window.CRICKET_DATA = {
           "t20": {
             "overall": 83.1,
             "batting": 19.3,
-            "bowling": 80.5
+            "bowling": 81.6
           },
           "franchise": {
             "overall": 74.9,
@@ -3405,16 +3405,16 @@ window.CRICKET_DATA = {
         "id": "mj-henry",
         "name": "MJ Henry",
         "role": "Bowler",
-        "score": 92.3,
-        "legendScore": 70.3,
+        "score": 92.1,
+        "legendScore": 70.1,
         "stats": {
           "test": 82.3,
           "odi": 95.5,
           "t20": 100.0,
-          "franchise": 95.4,
+          "franchise": 94.1,
           "runs": 121,
-          "wickets": 118,
-          "matches": 49
+          "wickets": 116,
+          "matches": 48
         },
         "formatScores": {
           "test": {
@@ -3429,13 +3429,13 @@ window.CRICKET_DATA = {
           },
           "t20": {
             "overall": 55.4,
-            "batting": 6.9,
+            "batting": 7.0,
             "bowling": 100.0
           },
           "franchise": {
-            "overall": 54.3,
+            "overall": 53.9,
             "batting": 6.9,
-            "bowling": 94.5
+            "bowling": 93.1
           }
         },
         "country": "New Zealand",
@@ -3450,12 +3450,12 @@ window.CRICKET_DATA = {
         "id": "aap-atkinson",
         "name": "AAP Atkinson",
         "role": "All-rounder",
-        "score": 96.1,
-        "legendScore": 68.3,
+        "score": 96.3,
+        "legendScore": 68.4,
         "stats": {
           "test": 100.0,
           "odi": 100.0,
-          "t20": 89.8,
+          "t20": 91.0,
           "franchise": 85.3,
           "runs": 556,
           "wickets": 81,
@@ -3475,7 +3475,7 @@ window.CRICKET_DATA = {
           "t20": {
             "overall": 91.8,
             "batting": 23.3,
-            "bowling": 81.3
+            "bowling": 82.5
           },
           "franchise": {
             "overall": 89.7,
@@ -3495,12 +3495,12 @@ window.CRICKET_DATA = {
         "id": "jnt-seales",
         "name": "JNT Seales",
         "role": "Bowler",
-        "score": 86.6,
-        "legendScore": 67.4,
+        "score": 86.8,
+        "legendScore": 67.5,
         "stats": {
           "test": 76.2,
           "odi": 95.1,
-          "t20": 88.2,
+          "t20": 89.4,
           "franchise": 89.1,
           "runs": 249,
           "wickets": 109,
@@ -3520,7 +3520,7 @@ window.CRICKET_DATA = {
           "t20": {
             "overall": 61.3,
             "batting": 9.8,
-            "bowling": 86.2
+            "bowling": 87.5
           },
           "franchise": {
             "overall": 60.4,
@@ -3540,12 +3540,12 @@ window.CRICKET_DATA = {
         "id": "ka-maharaj",
         "name": "KA Maharaj",
         "role": "Bowler",
-        "score": 86.4,
-        "legendScore": 66.6,
+        "score": 86.6,
+        "legendScore": 66.7,
         "stats": {
           "test": 84.9,
           "odi": 88.2,
-          "t20": 86.1,
+          "t20": 87.3,
           "franchise": 85.8,
           "runs": 317,
           "wickets": 101,
@@ -3563,9 +3563,9 @@ window.CRICKET_DATA = {
             "bowling": 87.6
           },
           "t20": {
-            "overall": 67.9,
+            "overall": 67.8,
             "batting": 12.5,
-            "bowling": 82.8
+            "bowling": 83.9
           },
           "franchise": {
             "overall": 66.2,
@@ -3585,12 +3585,12 @@ window.CRICKET_DATA = {
         "id": "ra-jadeja",
         "name": "RA Jadeja",
         "role": "All-rounder",
-        "score": 83.3,
-        "legendScore": 66.2,
+        "score": 83.5,
+        "legendScore": 66.3,
         "stats": {
           "test": 86.1,
           "odi": 84.4,
-          "t20": 76.9,
+          "t20": 78.0,
           "franchise": 81.0,
           "runs": 1775,
           "wickets": 86,
@@ -3610,7 +3610,7 @@ window.CRICKET_DATA = {
           "t20": {
             "overall": 100.0,
             "batting": 36.9,
-            "bowling": 60.9
+            "bowling": 61.8
           },
           "franchise": {
             "overall": 100.0,
@@ -3630,12 +3630,12 @@ window.CRICKET_DATA = {
         "id": "taijul-islam",
         "name": "Taijul Islam",
         "role": "Bowler",
-        "score": 89.4,
-        "legendScore": 62.4,
+        "score": 89.6,
+        "legendScore": 62.5,
         "stats": {
           "test": 92.3,
           "odi": 92.8,
-          "t20": 84.4,
+          "t20": 85.5,
           "franchise": 80.2,
           "runs": 249,
           "wickets": 68,
@@ -3655,7 +3655,7 @@ window.CRICKET_DATA = {
           "t20": {
             "overall": 75.0,
             "batting": 15.9,
-            "bowling": 79.5
+            "bowling": 80.6
           },
           "franchise": {
             "overall": 73.3,
@@ -3675,12 +3675,12 @@ window.CRICKET_DATA = {
         "id": "mehedi-hasan-miraz",
         "name": "Mehedi Hasan Miraz",
         "role": "All-rounder",
-        "score": 80.6,
-        "legendScore": 62.4,
+        "score": 80.8,
+        "legendScore": 62.5,
         "stats": {
           "test": 84.6,
           "odi": 81.9,
-          "t20": 75.7,
+          "t20": 76.7,
           "franchise": 71.9,
           "runs": 1008,
           "wickets": 73,
@@ -3700,7 +3700,7 @@ window.CRICKET_DATA = {
           "t20": {
             "overall": 86.4,
             "batting": 25.7,
-            "bowling": 65.3
+            "bowling": 66.2
           },
           "franchise": {
             "overall": 84.5,
@@ -3720,12 +3720,12 @@ window.CRICKET_DATA = {
         "id": "nauman-ali",
         "name": "Nauman Ali",
         "role": "Bowler",
-        "score": 91.6,
-        "legendScore": 60.8,
+        "score": 91.9,
+        "legendScore": 60.9,
         "stats": {
           "test": 94.6,
           "odi": 95.2,
-          "t20": 86.6,
+          "t20": 87.8,
           "franchise": 82.3,
           "runs": 116,
           "wickets": 54,
@@ -3743,9 +3743,9 @@ window.CRICKET_DATA = {
             "bowling": 95.9
           },
           "t20": {
-            "overall": 71.9,
+            "overall": 71.8,
             "batting": 14.0,
-            "bowling": 82.9
+            "bowling": 84.0
           },
           "franchise": {
             "overall": 70.2,

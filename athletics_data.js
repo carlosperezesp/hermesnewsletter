@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-01 22:45 UTC
+// Auto-generated 2026-07-02 08:28 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-01 22:45 UTC",
+  "UPDATED": "2026-07-02 08:28 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -5228,13 +5228,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 10,
-              "mark": "6.85",
-              "athlete": "Sophia Beckmon",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Randal Tyson Indoor Center",
-              "date": "30 JAN 2026"
+              "mark": "6.86",
+              "athlete": "Tessy Ebosele",
+              "country": "ESP",
+              "flag": "https://flagcdn.com/24x18/es.png",
+              "primary": "#AA151B",
+              "venue": "Pistes datletisme Gaet Huguet",
+              "date": "01 JUL 2026"
             }
           ]
         },
