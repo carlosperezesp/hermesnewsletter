@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-03 15:36 UTC
+// Auto-generated 2026-07-03 21:32 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-07-03 15:36 UTC",
+  "UPDATED": "2026-07-03 21:32 UTC",
   "SEASON": "2026",
   "ROUND": 7,
   "TOTAL_ROUNDS": 24,
@@ -22,7 +22,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 171.0,
-      "lastWeekendPoints": 15.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 28.5,
       "stats": {
@@ -47,7 +47,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 131.0,
-      "lastWeekendPoints": 25.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 21.8,
       "stats": {
@@ -72,7 +72,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 125.0,
-      "lastWeekendPoints": 10.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 20.8,
       "stats": {
@@ -97,7 +97,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 80.0,
-      "lastWeekendPoints": 12.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 13.3,
       "stats": {
@@ -122,7 +122,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 79.0,
-      "lastWeekendPoints": 6.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 13.2,
       "stats": {
@@ -147,7 +147,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 79.0,
-      "lastWeekendPoints": 4.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 13.2,
       "stats": {
@@ -172,7 +172,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 73.0,
-      "lastWeekendPoints": 18.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 12.2,
       "stats": {
@@ -197,7 +197,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 42.0,
-      "lastWeekendPoints": 8.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 7.0,
       "stats": {
@@ -247,7 +247,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 30.0,
-      "lastWeekendPoints": 2.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 5.0,
       "stats": {
@@ -555,9 +555,9 @@ window.F1_DATA = {
     }
   ],
   "LAST_WEEKEND": {
-    "id": "600057436",
-    "name": "Lenovo Austrian Grand Prix",
-    "label": "AUT",
+    "id": "600057437",
+    "name": "Pirelli British Grand Prix",
+    "label": "GBR",
     "includesSprint": false
   },
   "LAST_RACE": {
