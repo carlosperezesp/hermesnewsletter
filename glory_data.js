@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-03 21:33 UTC",
+  "UPDATED": "2026-07-03 22:32 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Sonoma:Shane van Gisbergen",
@@ -111,6 +111,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-29"
     },
     {
+      "id": "rank:golf:CURRENT:in:Jacob Bridgeman",
+      "sport": "golf",
+      "detail": "Golf",
+      "anchor": "golf-nivel-actual",
+      "text": "Jacob Bridgeman entra en el top-10 · Nivel actual",
+      "weight": 84,
+      "firstSeen": "2026-07-03"
+    },
+    {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Christian Walker",
       "sport": "mlb",
       "detail": "MLB",
@@ -161,15 +170,6 @@ window.GLORY_DATA = {
       "detail": "Golf",
       "anchor": "golf-nivel-actual",
       "text": "Akshay Bhatia entra en el top-10 · Nivel actual",
-      "weight": 84,
-      "firstSeen": "2026-06-29"
-    },
-    {
-      "id": "rank:golf:CURRENT:in:Tommy Fleetwood",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Tommy Fleetwood entra en el top-10 · Nivel actual",
       "weight": 84,
       "firstSeen": "2026-06-29"
     },
@@ -260,15 +260,6 @@ window.GLORY_DATA = {
       "detail": "Golf",
       "anchor": "golf-nivel-actual",
       "text": "Rory McIlroy cae del top-10 · Nivel actual",
-      "weight": 74,
-      "firstSeen": "2026-06-29"
-    },
-    {
-      "id": "rank:golf:CURRENT:out:Jacob Bridgeman",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Jacob Bridgeman cae del top-10 · Nivel actual",
       "weight": 74,
       "firstSeen": "2026-06-29"
     },
@@ -697,7 +688,7 @@ window.GLORY_DATA = {
       "Ludvig Åberg",
       "Sam Burns",
       "Akshay Bhatia",
-      "Tommy Fleetwood"
+      "Jacob Bridgeman"
     ],
     "golf:LEGENDS": [
       "Tiger Woods",

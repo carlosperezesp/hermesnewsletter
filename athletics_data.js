@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-03 21:33 UTC
+// Auto-generated 2026-07-03 22:31 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-03 21:33 UTC",
+  "UPDATED": "2026-07-03 22:31 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -2390,6 +2390,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 9,
+              "mark": "1:43.60",
+              "athlete": "Francesco Pernici",
+              "country": "ITA",
+              "flag": "https://flagcdn.com/24x18/it.png",
+              "primary": "#009246",
+              "venue": "Stade Raymond Petit",
+              "date": "03 JUL 2026"
+            },
+            {
+              "rank": 10,
               "mark": "1:43.61",
               "athlete": "Tobias Gr&#216;nstad",
               "country": "NOR",
@@ -2397,16 +2407,6 @@ window.ATHLETICS_DATA = {
               "primary": "#EF2B2D",
               "venue": "Bislett Stadion",
               "date": "10 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "1:43.63",
-              "athlete": "Kelvin Kimtai Loti",
-              "country": "KEN",
-              "flag": "https://flagcdn.com/24x18/ke.png",
-              "primary": "#006600",
-              "venue": "Nyayo National Stadium",
-              "date": "24 APR 2026"
             }
           ]
         },
@@ -5135,108 +5135,7 @@ window.ATHLETICS_DATA = {
               "year": 1984
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "7.20",
-              "athlete": "Tara Davis-Woodhall",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "USC Allyson Felix at Loker Track Stadium",
-              "date": "14 JUN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "7.09",
-              "athlete": "Alyssa Jones",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "John McDonnell Field",
-              "date": "28 MAY 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "7.07",
-              "athlete": "Alexis Brown",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Percy Beard Track",
-              "date": "17 APR 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "6.97",
-              "athlete": "Agate De Sousa",
-              "country": "POR",
-              "flag": "https://flagcdn.com/24x18/pt.png",
-              "primary": "#006600",
-              "venue": "Gallur",
-              "date": "06 FEB 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "6.95",
-              "athlete": "Monae&#39; Nichols",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Ansin Sports Complex",
-              "date": "04 APR 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "6.93",
-              "athlete": "Larissa Iapichino",
-              "country": "ITA",
-              "flag": "https://flagcdn.com/24x18/it.png",
-              "primary": "#009246",
-              "venue": "Palaindoor Ancona",
-              "date": "17 JAN 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "6.88",
-              "athlete": "Ancy Sojan Edappilly",
-              "country": "IND",
-              "flag": "https://flagcdn.com/24x18/in.png",
-              "primary": "#4A4745",
-              "venue": "Kalinga Stadium",
-              "date": "27 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "6.87",
-              "athlete": "Malaika Mihambo",
-              "country": "GER",
-              "flag": "https://flagcdn.com/24x18/de.png",
-              "primary": "#000000",
-              "venue": "Heinz-Steyer-Stadion",
-              "date": "31 MAY 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "6.86",
-              "athlete": "Jasmine Moore",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Randal Tyson Indoor Center",
-              "date": "13 FEB 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "6.86",
-              "athlete": "Tessy Ebosele",
-              "country": "ESP",
-              "flag": "https://flagcdn.com/24x18/es.png",
-              "primary": "#AA151B",
-              "venue": "Pistes datletisme Gaet Huguet",
-              "date": "01 JUL 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "tj_m",
@@ -5352,7 +5251,108 @@ window.ATHLETICS_DATA = {
               "year": 2013
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "17.71",
+              "athlete": "Pedro Pichardo",
+              "country": "POR",
+              "flag": "https://flagcdn.com/24x18/pt.png",
+              "primary": "#006600",
+              "venue": "Suhaim bin Hamad Stadium",
+              "date": "19 JUN 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "17.69",
+              "athlete": "Jordan Scott",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Suhaim bin Hamad Stadium",
+              "date": "19 JUN 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "17.67",
+              "athlete": "Yasser Mohammed Triki",
+              "country": "ALG",
+              "flag": "https://flagcdn.com/24x18/dz.png",
+              "primary": "#006233",
+              "venue": "Suhaim bin Hamad Stadium",
+              "date": "19 JUN 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "17.59",
+              "athlete": "Andy D&#205;az Hern&#193;ndez",
+              "country": "ITA",
+              "flag": "https://flagcdn.com/24x18/it.png",
+              "primary": "#009246",
+              "venue": "Stadio Olimpico",
+              "date": "04 JUN 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "17.40",
+              "athlete": "Wen Su",
+              "country": "CHN",
+              "flag": "https://flagcdn.com/24x18/cn.png",
+              "primary": "#DE2910",
+              "venue": "Kuishan Sports Center",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "17.34",
+              "athlete": "Andy Hechavarr&#205;a",
+              "country": "CUB",
+              "flag": "https://flagcdn.com/24x18/cu.png",
+              "primary": "#002A8F",
+              "venue": "Estadio Panamericano",
+              "date": "13 MAR 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "17.33",
+              "athlete": "L&#225;zaro Mart&#205;nez",
+              "country": "CUB",
+              "flag": "https://flagcdn.com/24x18/cu.png",
+              "primary": "#002A8F",
+              "venue": "Bislett Stadion",
+              "date": "10 JUN 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "17.29",
+              "athlete": "Melvin Raffin",
+              "country": "FRA",
+              "flag": "https://flagcdn.com/24x18/fr.png",
+              "primary": "#002395",
+              "venue": "Stade Omnisports Schlossberg",
+              "date": "31 MAY 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "17.25",
+              "athlete": "Jonathan Seremes",
+              "country": "FRA",
+              "flag": "https://flagcdn.com/24x18/fr.png",
+              "primary": "#002395",
+              "venue": "Randal Tyson Indoor Center",
+              "date": "14 MAR 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "17.24",
+              "athlete": "Almir Dos Santos",
+              "country": "BRA",
+              "flag": "https://flagcdn.com/24x18/br.png",
+              "primary": "#009C3B",
+              "venue": "Alfonso Galvis Duque Stadium",
+              "date": "28 JUN 2026"
+            }
+          ]
         },
         {
           "id": "tj_w",
