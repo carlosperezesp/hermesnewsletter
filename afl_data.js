@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-03 14:57 UTC
+// Auto-generated 2026-07-03 15:36 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-03 14:57 UTC",
+  "UPDATED": "2026-07-03 15:36 UTC",
   "SEASON": "2026",
   "ROUND": 17,
   "IMPORTANCE": 8.1,
@@ -16,7 +16,7 @@ window.AFL_DATA = {
       "percentage": 148.2,
       "primary": "#2A0D54",
       "secondary": "#FFFFFF",
-      "prevRank": null
+      "prevRank": 1
     },
     {
       "rank": 2,
@@ -28,7 +28,7 @@ window.AFL_DATA = {
       "percentage": 136.9,
       "primary": "#F57F00",
       "secondary": "#002040",
-      "prevRank": null
+      "prevRank": 2
     },
     {
       "rank": 3,
@@ -40,7 +40,7 @@ window.AFL_DATA = {
       "percentage": 113.7,
       "primary": "#4D2004",
       "secondary": "#FFD200",
-      "prevRank": null
+      "prevRank": 3
     },
     {
       "rank": 4,
@@ -52,7 +52,7 @@ window.AFL_DATA = {
       "percentage": 111.7,
       "primary": "#7B1A4B",
       "secondary": "#F6AE00",
-      "prevRank": null
+      "prevRank": 4
     },
     {
       "rank": 5,
@@ -64,7 +64,7 @@ window.AFL_DATA = {
       "percentage": 111.4,
       "primary": "#002B5C",
       "secondary": "#CC2031",
-      "prevRank": null
+      "prevRank": 5
     },
     {
       "rank": 6,
@@ -76,7 +76,7 @@ window.AFL_DATA = {
       "percentage": 117.1,
       "primary": "#002A54",
       "secondary": "#FFFFFF",
-      "prevRank": null
+      "prevRank": 6
     },
     {
       "rank": 7,
@@ -88,7 +88,7 @@ window.AFL_DATA = {
       "percentage": 104.2,
       "primary": "#CC2031",
       "secondary": "#013B9F",
-      "prevRank": null
+      "prevRank": 7
     },
     {
       "rank": 8,
@@ -100,7 +100,7 @@ window.AFL_DATA = {
       "percentage": 90.8,
       "primary": "#0039A6",
       "secondary": "#CC2031",
-      "prevRank": null
+      "prevRank": 8
     },
     {
       "rank": 9,

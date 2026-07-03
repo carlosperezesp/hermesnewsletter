@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-03 14:58 UTC
+// Auto-generated 2026-07-03 15:37 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-03 14:58 UTC",
+  "UPDATED": "2026-07-03 15:37 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -5352,108 +5352,7 @@ window.ATHLETICS_DATA = {
               "year": 2013
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "17.71",
-              "athlete": "Pedro Pichardo",
-              "country": "POR",
-              "flag": "https://flagcdn.com/24x18/pt.png",
-              "primary": "#006600",
-              "venue": "Suhaim bin Hamad Stadium",
-              "date": "19 JUN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "17.69",
-              "athlete": "Jordan Scott",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Suhaim bin Hamad Stadium",
-              "date": "19 JUN 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "17.67",
-              "athlete": "Yasser Mohammed Triki",
-              "country": "ALG",
-              "flag": "https://flagcdn.com/24x18/dz.png",
-              "primary": "#006233",
-              "venue": "Suhaim bin Hamad Stadium",
-              "date": "19 JUN 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "17.59",
-              "athlete": "Andy D&#205;az Hern&#193;ndez",
-              "country": "ITA",
-              "flag": "https://flagcdn.com/24x18/it.png",
-              "primary": "#009246",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "17.40",
-              "athlete": "Wen Su",
-              "country": "CHN",
-              "flag": "https://flagcdn.com/24x18/cn.png",
-              "primary": "#DE2910",
-              "venue": "Kuishan Sports Center",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "17.34",
-              "athlete": "Andy Hechavarr&#205;a",
-              "country": "CUB",
-              "flag": "https://flagcdn.com/24x18/cu.png",
-              "primary": "#002A8F",
-              "venue": "Estadio Panamericano",
-              "date": "13 MAR 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "17.33",
-              "athlete": "L&#225;zaro Mart&#205;nez",
-              "country": "CUB",
-              "flag": "https://flagcdn.com/24x18/cu.png",
-              "primary": "#002A8F",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "17.29",
-              "athlete": "Melvin Raffin",
-              "country": "FRA",
-              "flag": "https://flagcdn.com/24x18/fr.png",
-              "primary": "#002395",
-              "venue": "Stade Omnisports Schlossberg",
-              "date": "31 MAY 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "17.25",
-              "athlete": "Jonathan Seremes",
-              "country": "FRA",
-              "flag": "https://flagcdn.com/24x18/fr.png",
-              "primary": "#002395",
-              "venue": "Randal Tyson Indoor Center",
-              "date": "14 MAR 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "17.24",
-              "athlete": "Almir Dos Santos",
-              "country": "BRA",
-              "flag": "https://flagcdn.com/24x18/br.png",
-              "primary": "#009C3B",
-              "venue": "Alfonso Galvis Duque Stadium",
-              "date": "28 JUN 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "tj_w",

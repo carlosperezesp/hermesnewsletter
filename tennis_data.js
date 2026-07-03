@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-03 14:58 UTC
+// Auto-generated 2026-07-03 15:37 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-03 14:58 UTC",
+  "UPDATED": "2026-07-03 15:37 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11099,15 +11099,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R32",
-          "w": "Alejandro Davidovich Fokina",
+          "w": "Marton Fucsovics",
           "w_logo": "",
-          "l": "Marton Fucsovics",
+          "l": "Alejandro Davidovich Fokina",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 72.6,
-          "l_score": 58.0,
+          "scheduled": false,
+          "w_score": 58.0,
+          "l_score": 72.6,
           "match_score": 72.6
         }
       ]
