@@ -1,11 +1,11 @@
-// Auto-generated 2026-07-02 22:32 UTC
+// Auto-generated 2026-07-03 08:30 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-07-02 22:32 UTC",
+  "UPDATED": "2026-07-03 08:30 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-07-02 22:32 UTC"
+    "through": "2026-07-03 08:30 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -115,27 +115,6 @@ window.FOOTBALL_DATA = {
       "recentMatches": 4
     },
     {
-      "id": "netherlands",
-      "name": "Netherlands",
-      "teamCode": "NED",
-      "country": "Netherlands",
-      "logo": "https://flagcdn.com/24x18/nl.png",
-      "colors": {
-        "primary": "#FF4F00",
-        "secondary": "#21468B"
-      },
-      "rank": 6,
-      "elo": 1999,
-      "eloScore": 82.7,
-      "sourceRank": 7,
-      "worldCups": 0,
-      "continentalTitles": 1,
-      "note": "Bloque estable con muy buen diferencial ante rivales fuertes.",
-      "eloPrev": 1976,
-      "recentDelta": 23.0,
-      "recentMatches": 4
-    },
-    {
       "id": "portugal",
       "name": "Portugal",
       "teamCode": "POR",
@@ -145,16 +124,37 @@ window.FOOTBALL_DATA = {
         "primary": "#006600",
         "secondary": "#FF0000"
       },
-      "rank": 7,
-      "elo": 1987,
-      "eloScore": 81.5,
+      "rank": 6,
+      "elo": 2006,
+      "eloScore": 83.5,
       "sourceRank": 5,
       "worldCups": 0,
       "continentalTitles": 1,
       "note": "Plantilla top y fase clasificatoria fuerte.",
       "eloPrev": 1997,
-      "recentDelta": -9.5,
-      "recentMatches": 3
+      "recentDelta": 9.3,
+      "recentMatches": 4
+    },
+    {
+      "id": "netherlands",
+      "name": "Netherlands",
+      "teamCode": "NED",
+      "country": "Netherlands",
+      "logo": "https://flagcdn.com/24x18/nl.png",
+      "colors": {
+        "primary": "#FF4F00",
+        "secondary": "#21468B"
+      },
+      "rank": 7,
+      "elo": 1999,
+      "eloScore": 82.7,
+      "sourceRank": 7,
+      "worldCups": 0,
+      "continentalTitles": 1,
+      "note": "Bloque estable con muy buen diferencial ante rivales fuertes.",
+      "eloPrev": 1976,
+      "recentDelta": 23.0,
+      "recentMatches": 4
     },
     {
       "id": "italy",
@@ -246,6 +246,35 @@ window.FOOTBALL_DATA = {
         "eloBefore": 1836,
         "eloAfter": 1818,
         "delta": -18.5,
+        "result": "L"
+      }
+    },
+    {
+      "id": "760496",
+      "date": "2026-07-02",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "POR"
+      ],
+      "home": {
+        "code": "POR",
+        "name": "Portugal",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+        "score": 2,
+        "eloBefore": 1987,
+        "eloAfter": 2006,
+        "delta": 18.9,
+        "result": "W"
+      },
+      "away": {
+        "code": "CRO",
+        "name": "Croacia",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png",
+        "score": 1,
+        "eloBefore": 1852,
+        "eloAfter": 1833,
+        "delta": -18.9,
         "result": "L"
       }
     },
@@ -1613,19 +1642,19 @@ window.FOOTBALL_DATA = {
           "primary": "#006600",
           "secondary": "#FF0000"
         },
-        "rank": 7,
-        "elo": 1987,
-        "eloScore": 81.5,
+        "rank": 6,
+        "elo": 2006,
+        "eloScore": 83.5,
         "sourceRank": 5,
         "worldCups": 0,
         "continentalTitles": 1,
-        "note": "A 4.6 puntos brutos del umbral dinástico",
+        "note": "A 3.5 puntos brutos del umbral dinástico",
         "eloPrev": 1997,
-        "recentDelta": -9.5,
-        "recentMatches": 3,
-        "dynastyPotential": 88.4,
-        "rawDynastyPotential": 34.9,
-        "gapToDynastyTop10": 4.6,
+        "recentDelta": 9.3,
+        "recentMatches": 4,
+        "dynastyPotential": 91.1,
+        "rawDynastyPotential": 35.9,
+        "gapToDynastyTop10": 3.5,
         "cycleYears": 1.8,
         "currentWorldCups": 0,
         "currentContinentalTitles": 0,
@@ -1642,7 +1671,7 @@ window.FOOTBALL_DATA = {
           "primary": "#FF4F00",
           "secondary": "#21468B"
         },
-        "rank": 6,
+        "rank": 7,
         "elo": 1999,
         "eloScore": 82.7,
         "sourceRank": 7,

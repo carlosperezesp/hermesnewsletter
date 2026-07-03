@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-02 22:33 UTC",
+  "UPDATED": "2026-07-03 08:31 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Sonoma:Shane van Gisbergen",
@@ -468,8 +468,8 @@ window.GLORY_DATA = {
       "James Wood",
       "Pete Crow-Armstrong",
       "Sal Stewart",
-      "Nick Kurtz",
       "Jordan Walker",
+      "Nick Kurtz",
       "CJ Abrams",
       "Andy Pages",
       "Chase Burns"
