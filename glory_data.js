@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-03 09:40 UTC",
+  "UPDATED": "2026-07-03 14:58 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Sonoma:Shane van Gisbergen",
@@ -67,6 +67,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-21"
     },
     {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Mike Trout",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Mike Trout es nuevo nº1 · Road to Glory",
+      "weight": 92,
+      "firstSeen": "2026-07-03"
+    },
+    {
       "id": "rank:motogp:RIDERS:new1:Jorge Martín",
       "sport": "motogp",
       "detail": "MotoGP",
@@ -74,15 +83,6 @@ window.GLORY_DATA = {
       "text": "Jorge Martín es nuevo nº1 · Mundial",
       "weight": 92,
       "firstSeen": "2026-06-28"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
-      "sport": "mlb",
-      "detail": "MLB",
-      "text": "Shohei Ohtani es nuevo nº1 · Road to Glory",
-      "weight": 92,
-      "firstSeen": "2026-06-25",
-      "anchor": "mlb-road-to-glory"
     },
     {
       "id": "tennis:in:WTA:Karolina Muchova:20260625",
@@ -109,6 +109,15 @@ window.GLORY_DATA = {
       "text": "Jonathan Milan ganó la última etapa del Giro d'Italia",
       "weight": 88,
       "firstSeen": "2026-06-29"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Christian Walker",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Christian Walker entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-07-03"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Chase Burns",
@@ -439,7 +448,6 @@ window.GLORY_DATA = {
       "VJ Edgecombe"
     ],
     "mlb:ROAD_TO_GLORY.players": [
-      "Shohei Ohtani",
       "Mike Trout",
       "Freddie Freeman",
       "Bryce Harper",
@@ -448,7 +456,8 @@ window.GLORY_DATA = {
       "Kyle Schwarber",
       "Byron Buxton",
       "Jacob Misiorowski",
-      "Willson Contreras"
+      "Willson Contreras",
+      "Christian Walker"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -707,8 +716,8 @@ window.GLORY_DATA = {
       "Sydney",
       "Hawthorn",
       "Brisbane Lions",
-      "Geelong",
       "Adelaide",
+      "Geelong",
       "Melbourne",
       "Western Bulldogs",
       "North Melbourne",

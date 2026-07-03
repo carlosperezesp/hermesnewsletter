@@ -1,11 +1,218 @@
-// Auto-generated 2026-07-03 09:39 UTC
+// Auto-generated 2026-07-03 14:57 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-03 09:39 UTC",
+  "UPDATED": "2026-07-03 14:57 UTC",
   "SEASON": "2026",
-  "ROUND": 0,
-  "IMPORTANCE": 7.0,
+  "ROUND": 17,
+  "IMPORTANCE": 8.1,
   "LEGEND_THRESHOLD": 70.5,
-  "LADDER": [],
+  "LADDER": [
+    {
+      "rank": 1,
+      "name": "Fremantle",
+      "wins": 14,
+      "losses": 1,
+      "draws": 0,
+      "pts": 56,
+      "percentage": 148.2,
+      "primary": "#2A0D54",
+      "secondary": "#FFFFFF",
+      "prevRank": null
+    },
+    {
+      "rank": 2,
+      "name": "Sydney",
+      "wins": 13,
+      "losses": 3,
+      "draws": 0,
+      "pts": 52,
+      "percentage": 136.9,
+      "primary": "#F57F00",
+      "secondary": "#002040",
+      "prevRank": null
+    },
+    {
+      "rank": 3,
+      "name": "Hawthorn",
+      "wins": 10,
+      "losses": 4,
+      "draws": 1,
+      "pts": 42,
+      "percentage": 113.7,
+      "primary": "#4D2004",
+      "secondary": "#FFD200",
+      "prevRank": null
+    },
+    {
+      "rank": 4,
+      "name": "Brisbane Lions",
+      "wins": 10,
+      "losses": 6,
+      "draws": 0,
+      "pts": 40,
+      "percentage": 111.7,
+      "primary": "#7B1A4B",
+      "secondary": "#F6AE00",
+      "prevRank": null
+    },
+    {
+      "rank": 5,
+      "name": "Adelaide",
+      "wins": 10,
+      "losses": 6,
+      "draws": 0,
+      "pts": 40,
+      "percentage": 111.4,
+      "primary": "#002B5C",
+      "secondary": "#CC2031",
+      "prevRank": null
+    },
+    {
+      "rank": 6,
+      "name": "Geelong",
+      "wins": 9,
+      "losses": 7,
+      "draws": 0,
+      "pts": 36,
+      "percentage": 117.1,
+      "primary": "#002A54",
+      "secondary": "#FFFFFF",
+      "prevRank": null
+    },
+    {
+      "rank": 7,
+      "name": "Melbourne",
+      "wins": 9,
+      "losses": 6,
+      "draws": 0,
+      "pts": 36,
+      "percentage": 104.2,
+      "primary": "#CC2031",
+      "secondary": "#013B9F",
+      "prevRank": null
+    },
+    {
+      "rank": 8,
+      "name": "Western Bulldogs",
+      "wins": 9,
+      "losses": 7,
+      "draws": 0,
+      "pts": 36,
+      "percentage": 90.8,
+      "primary": "#0039A6",
+      "secondary": "#CC2031",
+      "prevRank": null
+    },
+    {
+      "rank": 9,
+      "name": "North Melbourne",
+      "wins": 8,
+      "losses": 7,
+      "draws": 0,
+      "pts": 32,
+      "percentage": 92.2,
+      "primary": "#CC2031",
+      "secondary": "#013B9F"
+    },
+    {
+      "rank": 10,
+      "name": "Collingwood",
+      "wins": 7,
+      "losses": 7,
+      "draws": 1,
+      "pts": 30,
+      "percentage": 104.3,
+      "primary": "#000000",
+      "secondary": "#FFFFFF"
+    },
+    {
+      "rank": 11,
+      "name": "Gold Coast",
+      "wins": 7,
+      "losses": 8,
+      "draws": 0,
+      "pts": 28,
+      "percentage": 101.2,
+      "primary": "#C5002F",
+      "secondary": "#F1B500"
+    },
+    {
+      "rank": 12,
+      "name": "Carlton",
+      "wins": 7,
+      "losses": 8,
+      "draws": 0,
+      "pts": 28,
+      "percentage": 95.6,
+      "primary": "#0E1E2D",
+      "secondary": "#FFFFFF"
+    },
+    {
+      "rank": 13,
+      "name": "St Kilda",
+      "wins": 6,
+      "losses": 9,
+      "draws": 0,
+      "pts": 24,
+      "percentage": 100.6,
+      "primary": "#ED1C2E",
+      "secondary": "#000000"
+    },
+    {
+      "rank": 14,
+      "name": "Greater Western Sydney",
+      "wins": 6,
+      "losses": 9,
+      "draws": 0,
+      "pts": 24,
+      "percentage": 99.3,
+      "primary": "#F57F00",
+      "secondary": "#002040"
+    },
+    {
+      "rank": 15,
+      "name": "Port Adelaide",
+      "wins": 5,
+      "losses": 10,
+      "draws": 0,
+      "pts": 20,
+      "percentage": 100.8,
+      "primary": "#002B5C",
+      "secondary": "#CC2031"
+    },
+    {
+      "rank": 16,
+      "name": "West Coast",
+      "wins": 4,
+      "losses": 12,
+      "draws": 0,
+      "pts": 16,
+      "percentage": 71.5,
+      "primary": "#002B5C",
+      "secondary": "#F5C209"
+    },
+    {
+      "rank": 17,
+      "name": "Richmond",
+      "wins": 2,
+      "losses": 13,
+      "draws": 0,
+      "pts": 8,
+      "percentage": 61.8,
+      "primary": "#FFD200",
+      "secondary": "#000000"
+    },
+    {
+      "rank": 18,
+      "name": "Essendon",
+      "wins": 1,
+      "losses": 14,
+      "draws": 0,
+      "pts": 4,
+      "percentage": 71.0,
+      "primary": "#CC2031",
+      "secondary": "#000000"
+    }
+  ],
   "PERFORMERS": [
     {
       "id": "marcus_bontempelli",
@@ -848,7 +1055,38 @@ window.AFL_DATA = {
       "legendScore": 0.0
     }
   ],
-  "LAST_ROUND": [],
+  "LAST_ROUND": [
+    {
+      "hteam": "Geelong",
+      "hscore": 101,
+      "ateam": "Brisbane Lions",
+      "ascore": 123,
+      "winner": "Brisbane Lions",
+      "date": "2026-07-02",
+      "hprimary": "#002A54",
+      "aprimary": "#7B1A4B"
+    },
+    {
+      "hteam": "Sydney",
+      "hscore": 90,
+      "ateam": "Western Bulldogs",
+      "ascore": 55,
+      "winner": "Sydney",
+      "date": "2026-07-03",
+      "hprimary": "#F57F00",
+      "aprimary": "#0039A6"
+    },
+    {
+      "hteam": "West Coast",
+      "hscore": 74,
+      "ateam": "Adelaide",
+      "ascore": 99,
+      "winner": "Adelaide",
+      "date": "2026-07-03",
+      "hprimary": "#002B5C",
+      "aprimary": "#002B5C"
+    }
+  ],
   "CURRENT_CONTENDERS": [
     {
       "id": "dustin_martin",
