@@ -849,7 +849,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 8
+      "prevRank": 5
     },
     {
       "id": 42402,
@@ -880,7 +880,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 5
+      "prevRank": 6
     },
     {
       "id": 4966637,
@@ -911,7 +911,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 6
+      "prevRank": 7
     },
     {
       "id": 4416591,
@@ -942,7 +942,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 7
+      "prevRank": 8
     },
     {
       "id": 4905921,
@@ -3145,36 +3145,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 42823,
-      "name": "Davis Martin",
-      "first": "Davis",
-      "last": "Martin",
-      "pos": "SP",
-      "teamCode": "CHW",
-      "age": 29,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42823.png",
-      "colors": {
-        "primary": "#27251f",
-        "secondary": "#c4ced4"
-      },
-      "score": 66,
-      "stats": {
-        "type": "pitching",
-        "g": 16,
-        "w": 9,
-        "era": 3.0,
-        "ip": 93.0,
-        "so": 90,
-        "whip": 1.18
-      },
-      "legendScore": 42.7,
-      "currentScore": 66,
-      "battingScore": null,
-      "pitchingScore": 66,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 35983,
       "name": "Fernando Tatis Jr.",
       "first": "Fernando",
@@ -3415,6 +3385,36 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
+      "id": 42823,
+      "name": "Davis Martin",
+      "first": "Davis",
+      "last": "Martin",
+      "pos": "SP",
+      "teamCode": "CHW",
+      "age": 29,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42823.png",
+      "colors": {
+        "primary": "#27251f",
+        "secondary": "#c4ced4"
+      },
+      "score": 65,
+      "stats": {
+        "type": "pitching",
+        "g": 17,
+        "w": 9,
+        "era": 3.08,
+        "ip": 96.1,
+        "so": 90,
+        "whip": 1.26
+      },
+      "legendScore": 42.2,
+      "currentScore": 65,
+      "battingScore": null,
+      "pitchingScore": 65,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
       "id": 32675,
       "name": "Eduardo Rodriguez",
       "first": "Eduardo",
@@ -3648,6 +3648,36 @@ window.MLB_DATA = {
         "whip": 1.01
       },
       "legendScore": 38.8,
+      "currentScore": 65,
+      "battingScore": null,
+      "pitchingScore": 65,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 31174,
+      "name": "Nathan Eovaldi",
+      "first": "Nathan",
+      "last": "Eovaldi",
+      "pos": "SP",
+      "teamCode": "TEX",
+      "age": 36,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/31174.png",
+      "colors": {
+        "primary": "#c0111f",
+        "secondary": "#003278"
+      },
+      "score": 65,
+      "stats": {
+        "type": "pitching",
+        "g": 17,
+        "w": 9,
+        "era": 4.02,
+        "ip": 105.1,
+        "so": 110,
+        "whip": 1.17
+      },
+      "legendScore": 48.0,
       "currentScore": 65,
       "battingScore": null,
       "pitchingScore": 65,
@@ -4398,36 +4428,6 @@ window.MLB_DATA = {
         "whip": 1.01
       },
       "legendScore": 40.0,
-      "currentScore": 61,
-      "battingScore": null,
-      "pitchingScore": 61,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 31174,
-      "name": "Nathan Eovaldi",
-      "first": "Nathan",
-      "last": "Eovaldi",
-      "pos": "SP",
-      "teamCode": "TEX",
-      "age": 36,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/31174.png",
-      "colors": {
-        "primary": "#c0111f",
-        "secondary": "#003278"
-      },
-      "score": 61,
-      "stats": {
-        "type": "pitching",
-        "g": 16,
-        "w": 8,
-        "era": 3.95,
-        "ip": 100.1,
-        "so": 101,
-        "whip": 1.16
-      },
-      "legendScore": 45.8,
       "currentScore": 61,
       "battingScore": null,
       "pitchingScore": 61,
@@ -6595,36 +6595,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 40937,
-      "name": "Dustin May",
-      "first": "Dustin",
-      "last": "May",
-      "pos": "SP",
-      "teamCode": "STL",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40937.png",
-      "colors": {
-        "primary": "#c41e3a",
-        "secondary": "#0c2340"
-      },
-      "score": 49,
-      "stats": {
-        "type": "pitching",
-        "g": 15,
-        "w": 5,
-        "era": 4.3,
-        "ip": 83.2,
-        "so": 77,
-        "whip": 1.2
-      },
-      "legendScore": 32.6,
-      "currentScore": 49,
-      "battingScore": null,
-      "pitchingScore": 49,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 31662,
       "name": "Jose Altuve",
       "first": "Jose",
@@ -6835,6 +6805,36 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
+      "id": 40937,
+      "name": "Dustin May",
+      "first": "Dustin",
+      "last": "May",
+      "pos": "SP",
+      "teamCode": "STL",
+      "age": 28,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40937.png",
+      "colors": {
+        "primary": "#c41e3a",
+        "secondary": "#0c2340"
+      },
+      "score": 47,
+      "stats": {
+        "type": "pitching",
+        "g": 16,
+        "w": 5,
+        "era": 4.8,
+        "ip": 84.1,
+        "so": 78,
+        "whip": 1.27
+      },
+      "legendScore": 31.5,
+      "currentScore": 47,
+      "battingScore": null,
+      "pitchingScore": 47,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
       "id": 36581,
       "name": "Framber Valdez",
       "first": "Framber",
@@ -6850,12 +6850,12 @@ window.MLB_DATA = {
       "score": 47,
       "stats": {
         "type": "pitching",
-        "g": 17,
+        "g": 18,
         "w": 4,
-        "era": 4.05,
-        "ip": 95.2,
-        "so": 77,
-        "whip": 1.33
+        "era": 4.29,
+        "ip": 100.2,
+        "so": 78,
+        "whip": 1.38
       },
       "legendScore": 34.8,
       "currentScore": 47,
@@ -6970,12 +6970,12 @@ window.MLB_DATA = {
       "score": 45,
       "stats": {
         "type": "pitching",
-        "g": 17,
+        "g": 18,
         "w": 4,
-        "era": 4.18,
-        "ip": 90.1,
-        "so": 70,
-        "whip": 1.36
+        "era": 4.44,
+        "ip": 95.1,
+        "so": 73,
+        "whip": 1.4
       },
       "legendScore": 29.6,
       "currentScore": 45,
@@ -7995,7 +7995,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 21.7,
         "note": "Among the best players of their generation",
-        "prevRank": 7
+        "prevRank": 6
       },
       {
         "id": 4966637,
@@ -8012,7 +8012,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 22.8,
         "note": "Elite start to career — ceiling is very high",
-        "prevRank": 6
+        "prevRank": 7
       },
       {
         "id": 42402,
@@ -8107,7 +8107,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-03 08:28 UTC",
+  "LAST_UPDATE": "2026-07-03 09:38 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
