@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-04 21:16 UTC
+// Auto-generated 2026-07-04 22:17 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-04 21:16 UTC",
+  "UPDATED": "2026-07-04 22:17 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -363,6 +363,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 3,
+              "mark": "10.78",
+              "athlete": "Melissa Jefferson-Wooden",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 4,
               "mark": "10.80",
               "athlete": "Shenese Walker",
               "country": "JAM",
@@ -372,7 +382,7 @@ window.ATHLETICS_DATA = {
               "date": "18 APR 2026"
             },
             {
-              "rank": 4,
+              "rank": 5,
               "mark": "10.81",
               "athlete": "Shericka Jackson",
               "country": "JAM",
@@ -382,7 +392,7 @@ window.ATHLETICS_DATA = {
               "date": "19 JUN 2026"
             },
             {
-              "rank": 5,
+              "rank": 6,
               "mark": "10.83",
               "athlete": "Brianna Selby",
               "country": "USA",
@@ -390,16 +400,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "John McDonnell Field",
               "date": "30 MAY 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "10.84",
-              "athlete": "Melissa Jefferson-Wooden",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Olympiastadion",
-              "date": "07 JUN 2026"
             },
             {
               "rank": 7,
@@ -433,13 +433,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 10,
-              "mark": "10.91",
-              "athlete": "Tia Clayton",
+              "mark": "10.89",
+              "athlete": "Jonielle Smith",
               "country": "JAM",
               "flag": "https://flagcdn.com/24x18/jm.png",
               "primary": "#000000",
-              "venue": "National Stadium",
-              "date": "09 MAY 2026"
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
             }
           ]
         },
@@ -600,6 +600,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 5,
+              "mark": "19.75",
+              "athlete": "Tate Taylor",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 6,
               "mark": "19.84",
               "athlete": "Andre De Grasse",
               "country": "CAN",
@@ -609,7 +619,7 @@ window.ATHLETICS_DATA = {
               "date": "26 APR 2026"
             },
             {
-              "rank": 6,
+              "rank": 7,
               "mark": "19.84",
               "athlete": "Letsile Tebogo",
               "country": "BOT",
@@ -619,7 +629,7 @@ window.ATHLETICS_DATA = {
               "date": "10 JUN 2026"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "19.87",
               "athlete": "Jelani Watkins",
               "country": "USA",
@@ -629,7 +639,7 @@ window.ATHLETICS_DATA = {
               "date": "16 MAY 2026"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "19.87",
               "athlete": "Jos&#233; Figueroa",
               "country": "PUR",
@@ -639,7 +649,7 @@ window.ATHLETICS_DATA = {
               "date": "27 JUN 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "19.88",
               "athlete": "Aidan Murphy",
               "country": "AUS",
@@ -647,16 +657,6 @@ window.ATHLETICS_DATA = {
               "primary": "#00008B",
               "venue": "Olympic Park",
               "date": "12 APR 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "19.88",
-              "athlete": "Makanakaishe Charamba",
-              "country": "ZIM",
-              "flag": "",
-              "primary": "#4A4745",
-              "venue": "Cushing Stadium",
-              "date": "06 JUN 2026"
             }
           ]
         },
@@ -2587,6 +2587,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
+              "mark": "1:56.19",
+              "athlete": "Lilian Odira",
+              "country": "KEN",
+              "flag": "https://flagcdn.com/24x18/ke.png",
+              "primary": "#006600",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 8,
               "mark": "1:56.83",
               "athlete": "Prudence Sekgodiso",
               "country": "RSA",
@@ -2596,7 +2606,7 @@ window.ATHLETICS_DATA = {
               "date": "28 JUN 2026"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "1:56.85",
               "athlete": "Sanu Jallow",
               "country": "GAM",
@@ -2606,22 +2616,12 @@ window.ATHLETICS_DATA = {
               "date": "13 JUN 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "1:56.93",
               "athlete": "R&#233;nelle Lamote",
               "country": "FRA",
               "flag": "https://flagcdn.com/24x18/fr.png",
               "primary": "#002395",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "1:57.01",
-              "athlete": "Sarah Billings",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
               "venue": "Stade Charlty",
               "date": "28 JUN 2026"
             }
@@ -3859,16 +3859,26 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 4,
-              "mark": "8:58.09",
+              "mark": "8:54.32",
               "athlete": "Marwa Bouzayani",
               "country": "TUN",
               "flag": "https://flagcdn.com/24x18/tn.png",
               "primary": "#4A4745",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
             },
             {
               "rank": 5,
+              "mark": "8:57.89",
+              "athlete": "Doris Lemngole",
+              "country": "KEN",
+              "flag": "https://flagcdn.com/24x18/ke.png",
+              "primary": "#006600",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 6,
               "mark": "8:59.66",
               "athlete": "Kena Tufa",
               "country": "ETH",
@@ -3878,7 +3888,7 @@ window.ATHLETICS_DATA = {
               "date": "16 MAY 2026"
             },
             {
-              "rank": 6,
+              "rank": 7,
               "mark": "9:07.39",
               "athlete": "Elise Thorner",
               "country": "GBR",
@@ -3888,42 +3898,32 @@ window.ATHLETICS_DATA = {
               "date": "23 MAY 2026"
             },
             {
-              "rank": 7,
+              "rank": 8,
+              "mark": "9:07.50",
+              "athlete": "Gesa Felicitas Krause",
+              "country": "GER",
+              "flag": "https://flagcdn.com/24x18/de.png",
+              "primary": "#000000",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "9:09.13",
+              "athlete": "Lea Meyer",
+              "country": "GER",
+              "flag": "https://flagcdn.com/24x18/de.png",
+              "primary": "#000000",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 10,
               "mark": "9:10.05",
               "athlete": "Alemnat Walle",
               "country": "ETH",
               "flag": "https://flagcdn.com/24x18/et.png",
               "primary": "#078930",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "9:10.90",
-              "athlete": "Norah Jeruto",
-              "country": "KAZ",
-              "flag": "https://flagcdn.com/24x18/kz.png",
-              "primary": "#4A4745",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "9:11.72",
-              "athlete": "Gabrielle Jennings",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "USC Allyson Felix at Loker Track Stadium",
-              "date": "14 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "9:12.84",
-              "athlete": "Parul Chaudhary",
-              "country": "IND",
-              "flag": "https://flagcdn.com/24x18/in.png",
-              "primary": "#4A4745",
               "venue": "China Textile City Sports Centre",
               "date": "16 MAY 2026"
             }
@@ -5148,6 +5148,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 2,
+              "mark": "7.12",
+              "athlete": "Larissa Iapichino",
+              "country": "ITA",
+              "flag": "https://flagcdn.com/24x18/it.png",
+              "primary": "#009246",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 3,
               "mark": "7.09",
               "athlete": "Alyssa Jones",
               "country": "USA",
@@ -5157,7 +5167,7 @@ window.ATHLETICS_DATA = {
               "date": "28 MAY 2026"
             },
             {
-              "rank": 3,
+              "rank": 4,
               "mark": "7.07",
               "athlete": "Alexis Brown",
               "country": "USA",
@@ -5167,7 +5177,7 @@ window.ATHLETICS_DATA = {
               "date": "17 APR 2026"
             },
             {
-              "rank": 4,
+              "rank": 5,
               "mark": "6.97",
               "athlete": "Agate De Sousa",
               "country": "POR",
@@ -5177,7 +5187,7 @@ window.ATHLETICS_DATA = {
               "date": "06 FEB 2026"
             },
             {
-              "rank": 5,
+              "rank": 6,
               "mark": "6.95",
               "athlete": "Monae&#39; Nichols",
               "country": "USA",
@@ -5187,17 +5197,17 @@ window.ATHLETICS_DATA = {
               "date": "04 APR 2026"
             },
             {
-              "rank": 6,
-              "mark": "6.93",
-              "athlete": "Larissa Iapichino",
-              "country": "ITA",
-              "flag": "https://flagcdn.com/24x18/it.png",
-              "primary": "#009246",
-              "venue": "Palaindoor Ancona",
-              "date": "17 JAN 2026"
+              "rank": 7,
+              "mark": "6.92",
+              "athlete": "Malaika Mihambo",
+              "country": "GER",
+              "flag": "https://flagcdn.com/24x18/de.png",
+              "primary": "#000000",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "6.88",
               "athlete": "Ancy Sojan Edappilly",
               "country": "IND",
@@ -5205,16 +5215,6 @@ window.ATHLETICS_DATA = {
               "primary": "#4A4745",
               "venue": "Kalinga Stadium",
               "date": "27 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "6.87",
-              "athlete": "Malaika Mihambo",
-              "country": "GER",
-              "flag": "https://flagcdn.com/24x18/de.png",
-              "primary": "#000000",
-              "venue": "Heinz-Steyer-Stadion",
-              "date": "31 MAY 2026"
             },
             {
               "rank": 9,
@@ -6063,13 +6063,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 6,
-              "mark": "19.45",
+              "mark": "19.70",
               "athlete": "Fanny Roos",
               "country": "SWE",
               "flag": "https://flagcdn.com/24x18/se.png",
               "primary": "#006AA7",
-              "venue": "Sportovn Hala",
-              "date": "25 FEB 2026"
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
             },
             {
               "rank": 7,
@@ -6290,6 +6290,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
+              "mark": "71.06",
+              "athlete": "Mykolas Alekna",
+              "country": "LTU",
+              "flag": "https://flagcdn.com/24x18/lt.png",
+              "primary": "#FDB913",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 8,
               "mark": "70.66",
               "athlete": "Roje Stona",
               "country": "JAM",
@@ -6297,16 +6307,6 @@ window.ATHLETICS_DATA = {
               "primary": "#000000",
               "venue": "Millican Field at Throw Town",
               "date": "09 APR 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "70.60",
-              "athlete": "Mykolas Alekna",
-              "country": "LTU",
-              "flag": "https://flagcdn.com/24x18/lt.png",
-              "primary": "#FDB913",
-              "venue": "Heino Lipp Stadium",
-              "date": "16 JUN 2026"
             },
             {
               "rank": 9,
