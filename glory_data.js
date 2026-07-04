@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-03 22:32 UTC",
+  "UPDATED": "2026-07-04 08:07 UTC",
   "EVENTS": [
+    {
+      "id": "f1:win:Pirelli British Grand Prix:Lewis Hamilton",
+      "sport": "f1",
+      "detail": "F1",
+      "text": "Lewis Hamilton ganó el Pirelli British Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-07-04"
+    },
     {
       "id": "nascar:win:NASCAR Cup Series at Sonoma:Shane van Gisbergen",
       "sport": "nascar",
@@ -111,22 +119,22 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-29"
     },
     {
-      "id": "rank:golf:CURRENT:in:Jacob Bridgeman",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Jacob Bridgeman entra en el top-10 · Nivel actual",
-      "weight": 84,
-      "firstSeen": "2026-07-03"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Christian Walker",
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Matt Olson",
       "sport": "mlb",
       "detail": "MLB",
       "anchor": "mlb-road-to-glory",
-      "text": "Christian Walker entra en el top-10 · Road to Glory",
+      "text": "Matt Olson entra en el top-10 · Road to Glory",
       "weight": 84,
-      "firstSeen": "2026-07-03"
+      "firstSeen": "2026-07-04"
+    },
+    {
+      "id": "rank:golf:CURRENT:in:Tommy Fleetwood",
+      "sport": "golf",
+      "detail": "Golf",
+      "anchor": "golf-nivel-actual",
+      "text": "Tommy Fleetwood entra en el top-10 · Nivel actual",
+      "weight": 84,
+      "firstSeen": "2026-07-04"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Chase Burns",
@@ -447,8 +455,8 @@ window.GLORY_DATA = {
       "Kyle Schwarber",
       "Byron Buxton",
       "Jacob Misiorowski",
-      "Willson Contreras",
-      "Christian Walker"
+      "Matt Olson",
+      "Willson Contreras"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -466,10 +474,10 @@ window.GLORY_DATA = {
       "Jacob Misiorowski",
       "Junior Caminero",
       "James Wood",
+      "Nick Kurtz",
       "Pete Crow-Armstrong",
       "Sal Stewart",
       "Jordan Walker",
-      "Nick Kurtz",
       "CJ Abrams",
       "Andy Pages",
       "Chase Burns"
@@ -688,7 +696,7 @@ window.GLORY_DATA = {
       "Ludvig Åberg",
       "Sam Burns",
       "Akshay Bhatia",
-      "Jacob Bridgeman"
+      "Tommy Fleetwood"
     ],
     "golf:LEGENDS": [
       "Tiger Woods",
@@ -708,8 +716,8 @@ window.GLORY_DATA = {
       "Hawthorn",
       "Brisbane Lions",
       "Adelaide",
-      "Geelong",
       "Melbourne",
+      "Geelong",
       "Western Bulldogs",
       "North Melbourne",
       "Collingwood"

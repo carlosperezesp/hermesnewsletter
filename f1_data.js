@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-03 22:30 UTC
+// Auto-generated 2026-07-04 08:05 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-07-03 22:30 UTC",
+  "UPDATED": "2026-07-04 08:05 UTC",
   "SEASON": "2026",
   "ROUND": 7,
   "TOTAL_ROUNDS": 24,
@@ -561,32 +561,32 @@ window.F1_DATA = {
     "includesSprint": false
   },
   "LAST_RACE": {
-    "name": "Lenovo Austrian Grand Prix",
-    "date": "2026-06-26",
-    "circuit": "Red Bull Ring",
+    "name": "Pirelli British Grand Prix",
+    "date": "2026-07-03",
+    "circuit": "Silverstone Circuit",
     "round": 0,
     "state": "post",
     "podium": [
       {
         "position": 1,
+        "name": "Lewis Hamilton",
+        "team": "ferrari",
+        "time": "",
+        "primary": "#E8002D"
+      },
+      {
+        "position": 2,
         "name": "Kimi Antonelli",
         "team": "mercedes",
         "time": "",
         "primary": "#00D2BE"
       },
       {
-        "position": 2,
-        "name": "George Russell",
-        "team": "mercedes",
-        "time": "",
-        "primary": "#00D2BE"
-      },
-      {
         "position": 3,
-        "name": "Oscar Piastri",
-        "team": "mclaren",
+        "name": "Charles Leclerc",
+        "team": "ferrari",
         "time": "",
-        "primary": "#FF8000"
+        "primary": "#E8002D"
       }
     ]
   },

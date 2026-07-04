@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-03 22:30 UTC
+// Auto-generated 2026-07-04 08:06 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-03 22:30 UTC",
+  "UPDATED": "2026-07-04 08:06 UTC",
   "SEASON": "2026",
   "ROUND": 17,
   "IMPORTANCE": 8.1,
@@ -10,10 +10,10 @@ window.AFL_DATA = {
       "rank": 1,
       "name": "Fremantle",
       "wins": 14,
-      "losses": 1,
+      "losses": 2,
       "draws": 0,
       "pts": 56,
-      "percentage": 148.2,
+      "percentage": 141.6,
       "primary": "#2A0D54",
       "secondary": "#FFFFFF",
       "prevRank": 1
@@ -34,10 +34,10 @@ window.AFL_DATA = {
       "rank": 3,
       "name": "Hawthorn",
       "wins": 10,
-      "losses": 4,
+      "losses": 5,
       "draws": 1,
       "pts": 42,
-      "percentage": 113.7,
+      "percentage": 110.0,
       "primary": "#4D2004",
       "secondary": "#FFD200",
       "prevRank": 3
@@ -68,6 +68,18 @@ window.AFL_DATA = {
     },
     {
       "rank": 6,
+      "name": "Melbourne",
+      "wins": 10,
+      "losses": 6,
+      "draws": 0,
+      "pts": 40,
+      "percentage": 106.3,
+      "primary": "#CC2031",
+      "secondary": "#013B9F",
+      "prevRank": 7
+    },
+    {
+      "rank": 7,
       "name": "Geelong",
       "wins": 9,
       "losses": 7,
@@ -77,18 +89,6 @@ window.AFL_DATA = {
       "primary": "#002A54",
       "secondary": "#FFFFFF",
       "prevRank": 6
-    },
-    {
-      "rank": 7,
-      "name": "Melbourne",
-      "wins": 9,
-      "losses": 6,
-      "draws": 0,
-      "pts": 36,
-      "percentage": 104.2,
-      "primary": "#CC2031",
-      "secondary": "#013B9F",
-      "prevRank": 7
     },
     {
       "rank": 8,
@@ -137,6 +137,17 @@ window.AFL_DATA = {
     },
     {
       "rank": 12,
+      "name": "Greater Western Sydney",
+      "wins": 7,
+      "losses": 9,
+      "draws": 0,
+      "pts": 28,
+      "percentage": 100.8,
+      "primary": "#F57F00",
+      "secondary": "#002040"
+    },
+    {
+      "rank": 13,
       "name": "Carlton",
       "wins": 7,
       "losses": 8,
@@ -147,7 +158,7 @@ window.AFL_DATA = {
       "secondary": "#FFFFFF"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "St Kilda",
       "wins": 6,
       "losses": 9,
@@ -156,17 +167,6 @@ window.AFL_DATA = {
       "percentage": 100.6,
       "primary": "#ED1C2E",
       "secondary": "#000000"
-    },
-    {
-      "rank": 14,
-      "name": "Greater Western Sydney",
-      "wins": 6,
-      "losses": 9,
-      "draws": 0,
-      "pts": 24,
-      "percentage": 99.3,
-      "primary": "#F57F00",
-      "secondary": "#002040"
     },
     {
       "rank": 15,
@@ -1085,6 +1085,26 @@ window.AFL_DATA = {
       "date": "2026-07-03",
       "hprimary": "#002B5C",
       "aprimary": "#002B5C"
+    },
+    {
+      "hteam": "Hawthorn",
+      "hscore": 90,
+      "ateam": "Melbourne",
+      "ascore": 125,
+      "winner": "Melbourne",
+      "date": "2026-07-04",
+      "hprimary": "#4D2004",
+      "aprimary": "#CC2031"
+    },
+    {
+      "hteam": "Greater Western Sydney",
+      "hscore": 109,
+      "ateam": "Fremantle",
+      "ascore": 88,
+      "winner": "Greater Western Sydney",
+      "date": "2026-07-04",
+      "hprimary": "#F57F00",
+      "aprimary": "#2A0D54"
     }
   ],
   "CURRENT_CONTENDERS": [

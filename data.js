@@ -4918,7 +4918,7 @@ window.NHL_DATA = {
       "name": "Artturi Lehkonen",
       "pos": "LW",
       "teamCode": "COL",
-      "age": 30,
+      "age": 31,
       "country": "Finland",
       "birthCountry": "FIN",
       "colors": {
@@ -19159,7 +19159,7 @@ window.NHL_DATA = {
       "name": "Jason Dickinson",
       "pos": "C",
       "teamCode": "EDM",
-      "age": 30,
+      "age": 31,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47979,10 +47979,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-03 22:30 UTC",
+  "LAST_UPDATE": "2026-07-04 08:05 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-03T22:29:17Z"
+    "standingsDateTimeUtc": "2026-07-04T08:04:45Z"
   }
 };

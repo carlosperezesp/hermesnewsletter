@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-03 22:30 UTC
+// Auto-generated 2026-07-04 08:05 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-07-03 22:30 UTC",
+  "UPDATED": "2026-07-04 08:05 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -690,230 +690,22 @@ window.CYCLING_DATA = {
     }
   ],
   "CURRENT_RACE": {
-    "name": "Giro d'Italia",
-    "start": "2026-05-08",
-    "end": "2026-06-01",
-    "stage": 21,
+    "name": "Tour de France",
+    "start": "2026-07-04",
+    "end": "2026-07-27",
+    "stage": 1,
     "total_stages": 21,
-    "jersey_primary": "#E8006D",
-    "jersey_name": "Maglia Rosa",
-    "last_stage": {
-      "stage": 21,
-      "date": "31 May",
-      "type": "Flat stage",
-      "dist_km": 131,
-      "from": "Rome",
-      "to": "Rome",
-      "completed": true,
-      "winner": "Jonathan Milan",
-      "winner_cc": "ITA",
-      "winner_primary": "#009246",
-      "winner_logo": "https://flagcdn.com/24x18/it.png"
-    },
+    "jersey_primary": "#FFD700",
+    "jersey_name": "Maillot Jaune",
+    "last_stage": null,
     "next_stage": null,
-    "last_stage_result": [
-      {
-        "rank": 1,
-        "name": "Jonathan Milan",
-        "country": "ITA",
-        "logo": "https://flagcdn.com/24x18/it.png",
-        "team": "LTK men",
-        "time": "3h 05' 50\""
-      },
-      {
-        "rank": 2,
-        "name": "Giovanni Lonardi",
-        "country": "ITA",
-        "logo": "https://flagcdn.com/24x18/it.png",
-        "team": "PTV",
-        "time": "+ 0\""
-      },
-      {
-        "rank": 3,
-        "name": "Paul Penhoët",
-        "country": "FRA",
-        "logo": "https://flagcdn.com/24x18/fr.png",
-        "team": "GFC",
-        "time": "+ 0\""
-      },
-      {
-        "rank": 4,
-        "name": "Dylan Groenewegen",
-        "country": "NED",
-        "logo": "https://flagcdn.com/24x18/nl.png",
-        "team": "URR",
-        "time": "+ 0\""
-      },
-      {
-        "rank": 5,
-        "name": "Madis Mihkels",
-        "country": "EST",
-        "logo": "https://flagcdn.com/24x18/ee.png",
-        "team": "EFE",
-        "time": "+ 0\""
-      },
-      {
-        "rank": null,
-        "name": "Jonas Vingegaard",
-        "country": "DEN",
-        "logo": "https://flagcdn.com/24x18/dk.png",
-        "team": "TVL men",
-        "time": "",
-        "gc_rank": 1
-      },
-      {
-        "rank": null,
-        "name": "Felix Gall",
-        "country": "AUT",
-        "logo": "https://flagcdn.com/24x18/at.png",
-        "team": "DCT",
-        "time": "",
-        "gc_rank": 2
-      },
-      {
-        "rank": null,
-        "name": "Jai Hindley",
-        "country": "AUS",
-        "logo": "https://flagcdn.com/24x18/au.png",
-        "team": "RBH",
-        "time": "",
-        "gc_rank": 3
-      }
-    ],
-    "finished": true,
-    "gc_winner": "Jonas Vingegaard",
-    "gc": [
-      {
-        "rank": 1,
-        "name": "Jonas Vingegaard",
-        "country": "DEN",
-        "logo": "https://flagcdn.com/24x18/dk.png",
-        "team": "TVL men",
-        "primary": "#C60C30",
-        "time": "83h 22' 51\"",
-        "legendScore": 20.9
-      },
-      {
-        "rank": 2,
-        "name": "Felix Gall",
-        "country": "AUT",
-        "logo": "https://flagcdn.com/24x18/at.png",
-        "team": "DCT",
-        "primary": "#ED2939",
-        "time": "+ 5' 22\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 3,
-        "name": "Jai Hindley",
-        "country": "AUS",
-        "logo": "https://flagcdn.com/24x18/au.png",
-        "team": "RBH",
-        "primary": "#00008B",
-        "time": "+ 6' 25\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 4,
-        "name": "Thymen Arensman",
-        "country": "NED",
-        "logo": "https://flagcdn.com/24x18/nl.png",
-        "team": "NCI",
-        "primary": "#AE1C28",
-        "time": "+ 7' 02\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 5,
-        "name": "Derek Gee-West",
-        "country": "CAN",
-        "logo": "https://flagcdn.com/24x18/ca.png",
-        "team": "LTK men",
-        "primary": "#FF0000",
-        "time": "+ 7' 56\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 6,
-        "name": "Afonso Eulálio",
-        "country": "POR",
-        "logo": "https://flagcdn.com/24x18/pt.png",
-        "team": "TBV",
-        "primary": "#006600",
-        "time": "+ 9' 39\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 7,
-        "name": "Michael Storer",
-        "country": "AUS",
-        "logo": "https://flagcdn.com/24x18/au.png",
-        "team": "TUD",
-        "primary": "#00008B",
-        "time": "+ 10' 13\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 8,
-        "name": "Davide Piganzoli",
-        "country": "ITA",
-        "logo": "https://flagcdn.com/24x18/it.png",
-        "team": "TVL men",
-        "primary": "#009246",
-        "time": "+ 10' 52\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 9,
-        "name": "Damiano Caruso",
-        "country": "ITA",
-        "logo": "https://flagcdn.com/24x18/it.png",
-        "team": "TBV",
-        "primary": "#009246",
-        "time": "+ 11' 24\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 10,
-        "name": "Egan Bernal",
-        "country": "COL",
-        "logo": "https://flagcdn.com/24x18/co.png",
-        "team": "NCI",
-        "primary": "#FCD116",
-        "time": "+ 12' 54\"",
-        "legendScore": 10.4
-      }
-    ],
-    "points_leader": {
-      "rank": 1,
-      "name": "Paul Magnier",
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "team": "SOQ",
-      "primary": "#002395",
-      "points": 200,
-      "legendScore": 0.0
-    },
-    "kom_leader": {
-      "rank": 1,
-      "name": "Giulio Ciccone",
-      "country": "ITA",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "team": "LTK men",
-      "primary": "#009246",
-      "points": 277,
-      "legendScore": 0.0
-    },
-    "young_leader": {
-      "rank": 1,
-      "name": "Afonso Eulálio",
-      "country": "POR",
-      "logo": "https://flagcdn.com/24x18/pt.png",
-      "team": "TBV",
-      "primary": "#006600",
-      "time": "83h 32' 30\"",
-      "legendScore": 0.0
-    }
+    "last_stage_result": [],
+    "finished": false,
+    "gc_winner": null,
+    "gc": [],
+    "points_leader": null,
+    "kom_leader": null,
+    "young_leader": null
   },
   "RACE_CALENDAR": [
     {
@@ -936,7 +728,7 @@ window.CYCLING_DATA = {
       "dateLabel": "4–27 jul",
       "start": "2026-07-04",
       "end": "2026-07-27",
-      "status": "upcoming",
+      "status": "ongoing",
       "winner": null
     },
     {
@@ -1157,5 +949,5 @@ window.CYCLING_DATA = {
     "edition": "París 2024",
     "next": "Los Ángeles 2028"
   },
-  "IMPORTANCE": 9.0
+  "IMPORTANCE": 10.0
 };
