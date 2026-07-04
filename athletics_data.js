@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-04 14:52 UTC
+// Auto-generated 2026-07-04 21:16 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-04 14:52 UTC",
+  "UPDATED": "2026-07-04 21:16 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -1084,13 +1084,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 10,
-              "mark": "44.12",
-              "athlete": "Jordan Pierre",
+              "mark": "44.11",
+              "athlete": "Rai Benjamin",
               "country": "USA",
               "flag": "https://flagcdn.com/24x18/us.png",
               "primary": "#B22234",
-              "venue": "Hutsell-Rosen Track",
-              "date": "16 MAY 2026"
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
             }
           ]
         },
@@ -1393,6 +1393,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
+              "mark": "12.86",
+              "athlete": "Jamal Britt",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Hayward Field",
+              "year": 2026
+            },
+            {
+              "rank": 8,
               "mark": "12.87",
               "athlete": "Dayron Robles",
               "country": "CUB",
@@ -1402,7 +1412,7 @@ window.ATHLETICS_DATA = {
               "year": 2008
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "12.87",
               "athlete": "Cordell Tinch",
               "country": "USA",
@@ -1412,7 +1422,7 @@ window.ATHLETICS_DATA = {
               "year": 2025
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "12.88",
               "athlete": "Liu Xiang",
               "country": "CHN",
@@ -1420,16 +1430,6 @@ window.ATHLETICS_DATA = {
               "primary": "#DE2910",
               "venue": "Lausanne",
               "year": 2006
-            },
-            {
-              "rank": 10,
-              "mark": "12.88",
-              "athlete": "Dayron Robles",
-              "country": "CUB",
-              "flag": "https://flagcdn.com/24x18/cu.png",
-              "primary": "#002A8F",
-              "venue": "Saint-Denis",
-              "year": 2008
             }
           ],
           "season": [
@@ -1445,13 +1445,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 2,
-              "mark": "12.89",
+              "mark": "12.86",
               "athlete": "Jamal Britt",
               "country": "USA",
               "flag": "https://flagcdn.com/24x18/us.png",
               "primary": "#B22234",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
             },
             {
               "rank": 3,
@@ -1485,6 +1485,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 6,
+              "mark": "13.01",
+              "athlete": "Demario Prince",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 7,
               "mark": "13.02",
               "athlete": "Kendry L. Men&#201;ndez",
               "country": "CUB",
@@ -1494,7 +1504,7 @@ window.ATHLETICS_DATA = {
               "date": "26 JUN 2026"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "13.04",
               "athlete": "Jamar Marshall",
               "country": "USA",
@@ -1504,7 +1514,7 @@ window.ATHLETICS_DATA = {
               "date": "06 JUN 2026"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "13.05",
               "athlete": "Rachid Muratake",
               "country": "JPN",
@@ -1514,7 +1524,7 @@ window.ATHLETICS_DATA = {
               "date": "10 MAY 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "13.07",
               "athlete": "Braxton Brann",
               "country": "USA",
@@ -1522,16 +1532,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Hayward Field",
               "date": "12 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "13.10",
-              "athlete": "Cordell Tinch",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
             }
           ]
         },

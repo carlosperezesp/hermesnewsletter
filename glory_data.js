@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-04 14:52 UTC",
+  "UPDATED": "2026-07-04 21:16 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Pirelli British Grand Prix:Lewis Hamilton",
@@ -91,6 +91,15 @@ window.GLORY_DATA = {
       "text": "Jorge Martín es nuevo nº1 · Mundial",
       "weight": 92,
       "firstSeen": "2026-06-28"
+    },
+    {
+      "id": "rank:athletics:allTime:110mh_m:in:Jamal Britt",
+      "sport": "athletics",
+      "detail": "Atletismo",
+      "anchor": "athletics-records",
+      "text": "Jamal Britt entra en el top-10 histórico · 110m vallas — H",
+      "weight": 90,
+      "firstSeen": "2026-07-04"
     },
     {
       "id": "tennis:in:WTA:Karolina Muchova:20260625",
@@ -816,10 +825,10 @@ window.GLORY_DATA = {
       "Grant Holloway",
       "Devon Allen",
       "Grant Holloway",
+      "Jamal Britt",
       "Dayron Robles",
       "Cordell Tinch",
-      "Liu Xiang",
-      "Dayron Robles"
+      "Liu Xiang"
     ],
     "athletics:allTime:100mh_w": [
       "Tobi Amusan",

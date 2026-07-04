@@ -93,12 +93,12 @@ window.MLB_DATA = {
       "commonName": "Yankees",
       "conf": "AL",
       "div": "AL East",
-      "gp": 87,
+      "gp": 88,
       "w": 49,
-      "l": 38,
-      "winPct": 0.563,
-      "rf": 422,
-      "ra": 332,
+      "l": 39,
+      "winPct": 0.557,
+      "rf": 426,
+      "ra": 343,
       "rd": 0,
       "score": 45,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
@@ -219,12 +219,12 @@ window.MLB_DATA = {
       "commonName": "Nationals",
       "conf": "NL",
       "div": "NL East",
-      "gp": 89,
+      "gp": 90,
       "w": 46,
-      "l": 43,
-      "winPct": 0.517,
-      "rf": 479,
-      "ra": 458,
+      "l": 44,
+      "winPct": 0.511,
+      "rf": 480,
+      "ra": 465,
       "rd": 0,
       "score": 41,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png",
@@ -303,18 +303,39 @@ window.MLB_DATA = {
       "commonName": "Pirates",
       "conf": "NL",
       "div": "NL Central",
-      "gp": 89,
-      "w": 44,
+      "gp": 90,
+      "w": 45,
       "l": 45,
-      "winPct": 0.494,
-      "rf": 457,
-      "ra": 436,
+      "winPct": 0.5,
+      "rf": 464,
+      "ra": 437,
       "rd": 0,
       "score": 40,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/pit.png",
       "colors": {
         "primary": "#fdb827",
         "secondary": "#27251f"
+      }
+    },
+    {
+      "code": "MIN",
+      "city": "Minnesota Twins",
+      "shortName": "Minnesota",
+      "commonName": "Twins",
+      "conf": "AL",
+      "div": "AL Central",
+      "gp": 90,
+      "w": 43,
+      "l": 47,
+      "winPct": 0.478,
+      "rf": 442,
+      "ra": 464,
+      "rd": 0,
+      "score": 38,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png",
+      "colors": {
+        "primary": "#002b5c",
+        "secondary": "#d31145"
       }
     },
     {
@@ -339,27 +360,6 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "SD",
-      "city": "San Diego Padres",
-      "shortName": "San Diego",
-      "commonName": "Padres",
-      "conf": "NL",
-      "div": "NL West",
-      "gp": 87,
-      "w": 43,
-      "l": 44,
-      "winPct": 0.494,
-      "rf": 343,
-      "ra": 385,
-      "rd": 0,
-      "score": 40,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sd.png",
-      "colors": {
-        "primary": "#2f241d",
-        "secondary": "#ffc425"
-      }
-    },
-    {
       "code": "ARI",
       "city": "Arizona Diamondbacks",
       "shortName": "Arizona",
@@ -381,6 +381,27 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "SD",
+      "city": "San Diego Padres",
+      "shortName": "San Diego",
+      "commonName": "Padres",
+      "conf": "NL",
+      "div": "NL West",
+      "gp": 87,
+      "w": 43,
+      "l": 44,
+      "winPct": 0.494,
+      "rf": 343,
+      "ra": 385,
+      "rd": 0,
+      "score": 40,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sd.png",
+      "colors": {
+        "primary": "#2f241d",
+        "secondary": "#ffc425"
+      }
+    },
+    {
       "code": "TOR",
       "city": "Toronto Blue Jays",
       "shortName": "Toronto",
@@ -399,27 +420,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#134a8e",
         "secondary": "#e8291c"
-      }
-    },
-    {
-      "code": "MIN",
-      "city": "Minnesota Twins",
-      "shortName": "Minnesota",
-      "commonName": "Twins",
-      "conf": "AL",
-      "div": "AL Central",
-      "gp": 89,
-      "w": 42,
-      "l": 47,
-      "winPct": 0.472,
-      "rf": 431,
-      "ra": 460,
-      "rd": 0,
-      "score": 38,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png",
-      "colors": {
-        "primary": "#002b5c",
-        "secondary": "#d31145"
       }
     },
     {
@@ -4109,7 +4109,7 @@ window.MLB_DATA = {
       "name": "Mauricio Dubon",
       "first": "Mauricio",
       "last": "Dubon",
-      "pos": "SS",
+      "pos": "LF",
       "teamCode": "ATL",
       "age": 31,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35304.png",
@@ -8107,7 +8107,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-04 14:51 UTC",
+  "LAST_UPDATE": "2026-07-04 21:14 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
