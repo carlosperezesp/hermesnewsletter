@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-04 14:15 UTC
+// Auto-generated 2026-07-04 14:52 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-04 14:15 UTC",
+  "UPDATED": "2026-07-04 14:52 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11012,9 +11012,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Marcos Giron",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 87.4,
           "l_score": 54.0,
           "match_score": 87.4
@@ -11286,15 +11286,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R32",
-          "w": "Sorana Cirstea",
+          "w": "Linda Noskova",
           "w_logo": "",
-          "l": "Linda Noskova",
+          "l": "Sorana Cirstea",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 85.9,
-          "l_score": 78.7,
+          "scheduled": false,
+          "w_score": 78.7,
+          "l_score": 85.9,
           "match_score": 85.9
         },
         {

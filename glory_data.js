@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-04 14:15 UTC",
+  "UPDATED": "2026-07-04 14:52 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Pirelli British Grand Prix:Lewis Hamilton",
