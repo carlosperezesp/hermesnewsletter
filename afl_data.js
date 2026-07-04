@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-04 08:06 UTC
+// Auto-generated 2026-07-04 09:04 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-04 08:06 UTC",
+  "UPDATED": "2026-07-04 09:04 UTC",
   "SEASON": "2026",
   "ROUND": 17,
   "IMPORTANCE": 8.1,
@@ -76,7 +76,7 @@ window.AFL_DATA = {
       "percentage": 106.3,
       "primary": "#CC2031",
       "secondary": "#013B9F",
-      "prevRank": 7
+      "prevRank": 6
     },
     {
       "rank": 7,
@@ -88,7 +88,7 @@ window.AFL_DATA = {
       "percentage": 117.1,
       "primary": "#002A54",
       "secondary": "#FFFFFF",
-      "prevRank": 6
+      "prevRank": 7
     },
     {
       "rank": 8,
@@ -104,6 +104,17 @@ window.AFL_DATA = {
     },
     {
       "rank": 9,
+      "name": "Collingwood",
+      "wins": 8,
+      "losses": 7,
+      "draws": 1,
+      "pts": 34,
+      "percentage": 104.5,
+      "primary": "#000000",
+      "secondary": "#FFFFFF"
+    },
+    {
+      "rank": 10,
       "name": "North Melbourne",
       "wins": 8,
       "losses": 7,
@@ -114,29 +125,7 @@ window.AFL_DATA = {
       "secondary": "#013B9F"
     },
     {
-      "rank": 10,
-      "name": "Collingwood",
-      "wins": 7,
-      "losses": 7,
-      "draws": 1,
-      "pts": 30,
-      "percentage": 104.3,
-      "primary": "#000000",
-      "secondary": "#FFFFFF"
-    },
-    {
       "rank": 11,
-      "name": "Gold Coast",
-      "wins": 7,
-      "losses": 8,
-      "draws": 0,
-      "pts": 28,
-      "percentage": 101.2,
-      "primary": "#C5002F",
-      "secondary": "#F1B500"
-    },
-    {
-      "rank": 12,
       "name": "Greater Western Sydney",
       "wins": 7,
       "losses": 9,
@@ -145,6 +134,17 @@ window.AFL_DATA = {
       "percentage": 100.8,
       "primary": "#F57F00",
       "secondary": "#002040"
+    },
+    {
+      "rank": 12,
+      "name": "Gold Coast",
+      "wins": 7,
+      "losses": 9,
+      "draws": 0,
+      "pts": 28,
+      "percentage": 100.7,
+      "primary": "#C5002F",
+      "secondary": "#F1B500"
     },
     {
       "rank": 13,
@@ -1105,6 +1105,16 @@ window.AFL_DATA = {
       "date": "2026-07-04",
       "hprimary": "#F57F00",
       "aprimary": "#2A0D54"
+    },
+    {
+      "hteam": "Gold Coast",
+      "hscore": 98,
+      "ateam": "Collingwood",
+      "ascore": 104,
+      "winner": "Collingwood",
+      "date": "2026-07-04",
+      "hprimary": "#C5002F",
+      "aprimary": "#000000"
     }
   ],
   "CURRENT_CONTENDERS": [

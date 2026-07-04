@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-04 08:07 UTC",
+  "UPDATED": "2026-07-04 09:05 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Pirelli British Grand Prix:Lewis Hamilton",
@@ -719,8 +719,8 @@ window.GLORY_DATA = {
       "Melbourne",
       "Geelong",
       "Western Bulldogs",
-      "North Melbourne",
-      "Collingwood"
+      "Collingwood",
+      "North Melbourne"
     ],
     "football:ROAD_TO_GLORY.currentContenders": [
       "Argentina",
