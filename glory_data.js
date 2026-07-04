@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-04 09:05 UTC",
+  "UPDATED": "2026-07-04 14:15 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Pirelli British Grand Prix:Lewis Hamilton",
@@ -75,13 +75,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-21"
     },
     {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Mike Trout",
+      "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
       "sport": "mlb",
       "detail": "MLB",
       "anchor": "mlb-road-to-glory",
-      "text": "Mike Trout es nuevo nº1 · Road to Glory",
+      "text": "Shohei Ohtani es nuevo nº1 · Road to Glory",
       "weight": 92,
-      "firstSeen": "2026-07-03"
+      "firstSeen": "2026-07-04"
     },
     {
       "id": "rank:motogp:RIDERS:new1:Jorge Martín",
@@ -119,6 +119,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-29"
     },
     {
+      "id": "rank:afl:LADDER:in:Carlton",
+      "sport": "afl",
+      "detail": "AFL",
+      "anchor": "afl-clasificacion",
+      "text": "Carlton entra en el top-10 · clasificación",
+      "weight": 84,
+      "firstSeen": "2026-07-04"
+    },
+    {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Matt Olson",
       "sport": "mlb",
       "detail": "MLB",
@@ -146,15 +155,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-02"
     },
     {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Willson Contreras",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "Willson Contreras entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-07-01"
-    },
-    {
       "id": "rank:sumo:BANZUKE:in:Yoshinofuji",
       "sport": "sumo",
       "detail": "Sumo",
@@ -180,15 +180,6 @@ window.GLORY_DATA = {
       "text": "Akshay Bhatia entra en el top-10 · Nivel actual",
       "weight": 84,
       "firstSeen": "2026-06-29"
-    },
-    {
-      "id": "rank:afl:LADDER:in:North Melbourne",
-      "sport": "afl",
-      "detail": "AFL",
-      "anchor": "afl-clasificacion",
-      "text": "North Melbourne entra en el top-10 · clasificación",
-      "weight": 84,
-      "firstSeen": "2026-06-28"
     },
     {
       "id": "rank:afl:LADDER:in:Collingwood",
@@ -447,6 +438,7 @@ window.GLORY_DATA = {
       "VJ Edgecombe"
     ],
     "mlb:ROAD_TO_GLORY.players": [
+      "Shohei Ohtani",
       "Mike Trout",
       "Freddie Freeman",
       "Bryce Harper",
@@ -455,8 +447,7 @@ window.GLORY_DATA = {
       "Kyle Schwarber",
       "Byron Buxton",
       "Jacob Misiorowski",
-      "Matt Olson",
-      "Willson Contreras"
+      "Matt Olson"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -642,9 +633,9 @@ window.GLORY_DATA = {
       "Kimi Antonelli",
       "George Russell",
       "Lewis Hamilton",
-      "Oscar Piastri",
       "Lando Norris",
       "Charles Leclerc",
+      "Oscar Piastri",
       "Max Verstappen",
       "Isack Hadjar",
       "Pierre Gasly",
@@ -720,7 +711,7 @@ window.GLORY_DATA = {
       "Geelong",
       "Western Bulldogs",
       "Collingwood",
-      "North Melbourne"
+      "Carlton"
     ],
     "football:ROAD_TO_GLORY.currentContenders": [
       "Argentina",

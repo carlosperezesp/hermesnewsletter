@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-04 09:04 UTC
+// Auto-generated 2026-07-04 14:13 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-04 09:04 UTC",
+  "UPDATED": "2026-07-04 14:13 UTC",
   "SEASON": "2026",
   "ROUND": 17,
   "IMPORTANCE": 8.1,
@@ -115,6 +115,17 @@ window.AFL_DATA = {
     },
     {
       "rank": 10,
+      "name": "Carlton",
+      "wins": 8,
+      "losses": 8,
+      "draws": 0,
+      "pts": 32,
+      "percentage": 96.0,
+      "primary": "#0E1E2D",
+      "secondary": "#FFFFFF"
+    },
+    {
+      "rank": 11,
       "name": "North Melbourne",
       "wins": 8,
       "losses": 7,
@@ -125,7 +136,7 @@ window.AFL_DATA = {
       "secondary": "#013B9F"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Greater Western Sydney",
       "wins": 7,
       "losses": 9,
@@ -136,7 +147,7 @@ window.AFL_DATA = {
       "secondary": "#002040"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Gold Coast",
       "wins": 7,
       "losses": 9,
@@ -145,17 +156,6 @@ window.AFL_DATA = {
       "percentage": 100.7,
       "primary": "#C5002F",
       "secondary": "#F1B500"
-    },
-    {
-      "rank": 13,
-      "name": "Carlton",
-      "wins": 7,
-      "losses": 8,
-      "draws": 0,
-      "pts": 28,
-      "percentage": 95.6,
-      "primary": "#0E1E2D",
-      "secondary": "#FFFFFF"
     },
     {
       "rank": 14,
@@ -194,10 +194,10 @@ window.AFL_DATA = {
       "rank": 17,
       "name": "Richmond",
       "wins": 2,
-      "losses": 13,
+      "losses": 14,
       "draws": 0,
       "pts": 8,
-      "percentage": 61.8,
+      "percentage": 63.3,
       "primary": "#FFD200",
       "secondary": "#000000"
     },
@@ -1115,6 +1115,16 @@ window.AFL_DATA = {
       "date": "2026-07-04",
       "hprimary": "#C5002F",
       "aprimary": "#000000"
+    },
+    {
+      "hteam": "Richmond",
+      "hscore": 72,
+      "ateam": "Carlton",
+      "ascore": 74,
+      "winner": "Carlton",
+      "date": "2026-07-04",
+      "hprimary": "#FFD200",
+      "aprimary": "#0E1E2D"
     }
   ],
   "CURRENT_CONTENDERS": [

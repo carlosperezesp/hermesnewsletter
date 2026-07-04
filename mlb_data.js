@@ -666,6 +666,37 @@ window.MLB_DATA = {
       "prevRank": 1
     },
     {
+      "id": 660271,
+      "name": "Shohei Ohtani",
+      "first": "Shohei",
+      "last": "Ohtani",
+      "pos": "SP",
+      "teamCode": "LAD",
+      "age": 31,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39832.png",
+      "colors": {
+        "primary": "#005a9c",
+        "secondary": "#ef3e42"
+      },
+      "score": 100,
+      "stats": {
+        "type": "pitching",
+        "g": 14,
+        "w": 8,
+        "era": 1.79,
+        "ip": 85.2,
+        "so": 95,
+        "whip": 0.95
+      },
+      "legendScore": 92.1,
+      "currentScore": 100.0,
+      "battingScore": 83,
+      "pitchingScore": 100,
+      "twoWayBonus": 18.3,
+      "rings": 2,
+      "prevRank": null
+    },
+    {
       "id": 36018,
       "name": "Yordan Alvarez",
       "first": "Yordan",
@@ -1245,6 +1276,36 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
+    },
+    {
+      "id": 39832,
+      "name": "Shohei Ohtani",
+      "first": "Shohei",
+      "last": "Ohtani",
+      "pos": "DH",
+      "teamCode": "LAD",
+      "age": 31,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39832.png",
+      "colors": {
+        "primary": "#005a9c",
+        "secondary": "#ef3e42"
+      },
+      "score": 83,
+      "stats": {
+        "type": "batting",
+        "ab": 309,
+        "hr": 18,
+        "rbi": 50,
+        "avg": 0.288,
+        "sb": 6,
+        "ops": 0.927
+      },
+      "legendScore": 92.1,
+      "currentScore": 100.0,
+      "battingScore": 83,
+      "pitchingScore": 100,
+      "twoWayBonus": 18.3,
+      "rings": 2
     },
     {
       "id": 4345620,
@@ -2841,8 +2902,7 @@ window.MLB_DATA = {
       "battingScore": null,
       "pitchingScore": 67,
       "twoWayBonus": 0,
-      "rings": 0,
-      "prevRank": 10
+      "rings": 0
     },
     {
       "id": 34943,
@@ -4855,36 +4915,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 42480,
-      "name": "Taj Bradley",
-      "first": "Taj",
-      "last": "Bradley",
-      "pos": "SP",
-      "teamCode": "MIN",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42480.png",
-      "colors": {
-        "primary": "#002b5c",
-        "secondary": "#d31145"
-      },
-      "score": 59,
-      "stats": {
-        "type": "pitching",
-        "g": 16,
-        "w": 7,
-        "era": 3.86,
-        "ip": 88.2,
-        "so": 102,
-        "whip": 1.29
-      },
-      "legendScore": 35.5,
-      "currentScore": 59,
-      "battingScore": null,
-      "pitchingScore": 59,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 37729,
       "name": "Andres Gimenez",
       "first": "Andres",
@@ -6805,36 +6835,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 40937,
-      "name": "Dustin May",
-      "first": "Dustin",
-      "last": "May",
-      "pos": "SP",
-      "teamCode": "STL",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40937.png",
-      "colors": {
-        "primary": "#c41e3a",
-        "secondary": "#0c2340"
-      },
-      "score": 47,
-      "stats": {
-        "type": "pitching",
-        "g": 16,
-        "w": 5,
-        "era": 4.8,
-        "ip": 84.1,
-        "so": 78,
-        "whip": 1.27
-      },
-      "legendScore": 31.5,
-      "currentScore": 47,
-      "battingScore": null,
-      "pitchingScore": 47,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 36581,
       "name": "Framber Valdez",
       "first": "Framber",
@@ -7512,6 +7512,28 @@ window.MLB_DATA = {
     "teamThreshold": 89.5,
     "players": [
       {
+        "id": 39832,
+        "name": "Shohei Ohtani",
+        "pos": "DH",
+        "teamCode": "LAD",
+        "colors": {
+          "primary": "#005a9c",
+          "secondary": "#ef3e42"
+        },
+        "age": 31,
+        "careerScore": 92.1,
+        "legendScore": 92.1,
+        "currentScore": 100.0,
+        "battingScore": 83,
+        "pitchingScore": 100,
+        "twoWayBonus": 18.3,
+        "threshold": 92.5,
+        "gap": 0.4,
+        "rings": 2,
+        "note": "3 MVPs · two-way unicorn · 50/50 season · 2 World Series rings",
+        "prevRank": null
+      },
+      {
         "id": 30836,
         "name": "Mike Trout",
         "pos": "CF",
@@ -7708,28 +7730,6 @@ window.MLB_DATA = {
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
         "prevRank": 9
-      },
-      {
-        "id": 32532,
-        "name": "Willson Contreras",
-        "pos": "1B",
-        "teamCode": "BOS",
-        "colors": {
-          "primary": "#bd3039",
-          "secondary": "#0c2340"
-        },
-        "age": 34,
-        "careerScore": 55.6,
-        "legendScore": 55.6,
-        "currentScore": 82,
-        "battingScore": 82,
-        "pitchingScore": null,
-        "twoWayBonus": 0,
-        "threshold": 92.5,
-        "gap": 36.9,
-        "rings": 0,
-        "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 10
       }
     ],
     "teams": [
@@ -8107,7 +8107,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-04 09:03 UTC",
+  "LAST_UPDATE": "2026-07-04 14:13 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

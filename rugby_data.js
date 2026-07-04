@@ -1,15 +1,15 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-07-04 09:04 UTC",
+  "UPDATED": "2026-07-04 14:14 UTC",
   "LAST_MATCH": "2026-07-04",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 327,
+    "incrementalMatches": 329,
     "teams": 162,
-    "matches": 10022,
+    "matches": 10024,
     "through": "2026-07-04"
   },
   "IMPORTANCE": 3.5,
@@ -76,15 +76,15 @@ window.RUGBY_DATA = {
       "name": "Ireland",
       "teamCode": "IRE",
       "country": "Ireland",
-      "elo": 2556.2,
-      "eloRaw": 2556.2,
-      "lastMatch": "2026-03-14",
-      "inactiveDays": 112,
+      "elo": 2560.7,
+      "eloRaw": 2560.7,
+      "lastMatch": "2026-07-04",
+      "inactiveDays": 0,
       "peakElo": 2684.1,
       "peakDate": "2023-10-07",
       "worldCups": 0,
       "record": {
-        "w": 377,
+        "w": 378,
         "l": 347,
         "d": 64
       },
@@ -92,7 +92,7 @@ window.RUGBY_DATA = {
         "primary": "#169b62",
         "secondary": "#ff883e"
       },
-      "note": "377V-347D-64E · último 2026-03-14 · raw 2556"
+      "note": "378V-347D-64E · último 2026-07-04 · raw 2561"
     },
     {
       "rank": 4,
@@ -214,46 +214,46 @@ window.RUGBY_DATA = {
       "name": "Australia",
       "teamCode": "AUS",
       "country": "Australia",
-      "elo": 2211.4,
-      "eloRaw": 2211.4,
-      "lastMatch": "2025-11-22",
-      "inactiveDays": 224,
+      "elo": 2206.8,
+      "eloRaw": 2206.8,
+      "lastMatch": "2026-07-04",
+      "inactiveDays": 0,
       "peakElo": 2471.1,
       "peakDate": "2015-10-25",
       "worldCups": 2,
       "record": {
         "w": 348,
-        "l": 334,
+        "l": 335,
         "d": 20
       },
       "colors": {
         "primary": "#ffcd00",
         "secondary": "#00843d"
       },
-      "note": "348V-334D-20E · último 2025-11-22 · raw 2211"
+      "note": "348V-335D-20E · último 2026-07-04 · raw 2207"
     },
     {
       "rank": 10,
       "name": "Italy",
       "teamCode": "ITA",
       "country": "Italy",
-      "elo": 2138.4,
-      "eloRaw": 2138.4,
-      "lastMatch": "2026-03-14",
-      "inactiveDays": 112,
+      "elo": 2097.4,
+      "eloRaw": 2097.4,
+      "lastMatch": "2026-07-04",
+      "inactiveDays": 0,
       "peakElo": 2181.6,
       "peakDate": "2026-03-07",
       "worldCups": 0,
       "record": {
         "w": 215,
-        "l": 334,
+        "l": 335,
         "d": 15
       },
       "colors": {
         "primary": "#0066b3",
         "secondary": "#009246"
       },
-      "note": "215V-334D-15E · último 2026-03-14 · raw 2138"
+      "note": "215V-335D-15E · último 2026-07-04 · raw 2097"
     }
   ],
   "ROAD_TO_GLORY": {

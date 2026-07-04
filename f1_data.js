@@ -1,8 +1,8 @@
-// Auto-generated 2026-07-04 09:03 UTC
+// Auto-generated 2026-07-04 14:13 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-07-04 09:03 UTC",
+  "UPDATED": "2026-07-04 14:13 UTC",
   "SEASON": "2026",
-  "ROUND": 7,
+  "ROUND": 8,
   "TOTAL_ROUNDS": 24,
   "MAX_SEASON_PTS": 600,
   "IMPORTANCE": 10.0,
@@ -21,12 +21,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 171.0,
-      "lastWeekendPoints": 0.0,
+      "points": 179.0,
+      "lastWeekendPoints": 8.0,
       "wins": 0,
-      "score": 28.5,
+      "score": 29.8,
       "stats": {
-        "pts": 171.0,
+        "pts": 179.0,
         "wins": 0
       },
       "prevRank": 1,
@@ -46,12 +46,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 131.0,
-      "lastWeekendPoints": 0.0,
+      "points": 136.0,
+      "lastWeekendPoints": 5.0,
       "wins": 0,
-      "score": 21.8,
+      "score": 22.7,
       "stats": {
-        "pts": 131.0,
+        "pts": 136.0,
         "wins": 0
       },
       "prevRank": 2,
@@ -71,12 +71,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 125.0,
-      "lastWeekendPoints": 0.0,
+      "points": 132.0,
+      "lastWeekendPoints": 7.0,
       "wins": 0,
-      "score": 20.8,
+      "score": 22.0,
       "stats": {
-        "pts": 125.0,
+        "pts": 132.0,
         "wins": 0
       },
       "prevRank": 3,
@@ -84,31 +84,6 @@ window.F1_DATA = {
     },
     {
       "position": 4,
-      "name": "Oscar Piastri",
-      "nationality": "",
-      "country": "AUS",
-      "teamCode": "mclaren",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
-      "primary": "#FF8700",
-      "secondary": "#000000",
-      "colors": {
-        "primary": "#FF8700",
-        "secondary": "#000000"
-      },
-      "team": "",
-      "points": 80.0,
-      "lastWeekendPoints": 0.0,
-      "wins": 0,
-      "score": 13.3,
-      "stats": {
-        "pts": 80.0,
-        "wins": 0
-      },
-      "prevRank": 4,
-      "age": 25
-    },
-    {
-      "position": 5,
       "name": "Lando Norris",
       "nationality": "",
       "country": "GBR",
@@ -121,19 +96,19 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 79.0,
-      "lastWeekendPoints": 0.0,
+      "points": 85.0,
+      "lastWeekendPoints": 6.0,
       "wins": 0,
-      "score": 13.2,
+      "score": 14.2,
       "stats": {
-        "pts": 79.0,
+        "pts": 85.0,
         "wins": 0
       },
       "prevRank": 5,
       "age": 27
     },
     {
-      "position": 6,
+      "position": 5,
       "name": "Charles Leclerc",
       "nationality": "",
       "country": "MON",
@@ -146,16 +121,41 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 79.0,
-      "lastWeekendPoints": 0.0,
+      "points": 83.0,
+      "lastWeekendPoints": 4.0,
       "wins": 0,
-      "score": 13.2,
+      "score": 13.8,
       "stats": {
-        "pts": 79.0,
+        "pts": 83.0,
         "wins": 0
       },
       "prevRank": 6,
       "age": 29
+    },
+    {
+      "position": 6,
+      "name": "Oscar Piastri",
+      "nationality": "",
+      "country": "AUS",
+      "teamCode": "mclaren",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+      "primary": "#FF8700",
+      "secondary": "#000000",
+      "colors": {
+        "primary": "#FF8700",
+        "secondary": "#000000"
+      },
+      "team": "",
+      "points": 82.0,
+      "lastWeekendPoints": 2.0,
+      "wins": 0,
+      "score": 13.7,
+      "stats": {
+        "pts": 82.0,
+        "wins": 0
+      },
+      "prevRank": 4,
+      "age": 25
     },
     {
       "position": 7,
@@ -171,12 +171,12 @@ window.F1_DATA = {
         "secondary": "#CC1E4A"
       },
       "team": "",
-      "points": 73.0,
-      "lastWeekendPoints": 0.0,
+      "points": 76.0,
+      "lastWeekendPoints": 3.0,
       "wins": 0,
-      "score": 12.2,
+      "score": 12.7,
       "stats": {
-        "pts": 73.0,
+        "pts": 76.0,
         "wins": 0
       },
       "prevRank": 7,
@@ -246,12 +246,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 30.0,
-      "lastWeekendPoints": 0.0,
+      "points": 31.0,
+      "lastWeekendPoints": 1.0,
       "wins": 0,
-      "score": 5.0,
+      "score": 5.2,
       "stats": {
-        "pts": 30.0,
+        "pts": 31.0,
         "wins": 0
       },
       "prevRank": 10,
@@ -270,7 +270,7 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "score": 28.5,
+      "score": 29.8,
       "position": 1,
       "age": 20,
       "note": "Líder del campeonato a los 20"
@@ -286,10 +286,10 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "score": 13.3,
-      "position": 4,
+      "score": 13.7,
+      "position": 6,
       "age": 25,
-      "note": "Top 4 a los 25"
+      "note": "Irrumpe a los 25 (P6)"
     },
     {
       "name": "Isack Hadjar",
@@ -318,7 +318,7 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "score": 5.0,
+      "score": 5.2,
       "position": 10,
       "age": 24,
       "note": "Irrumpe a los 24 (P10)"
@@ -519,7 +519,7 @@ window.F1_DATA = {
       "id": "mercedes",
       "primary": "#00D2BE",
       "secondary": "#000000",
-      "points": 302.0
+      "points": 315.0
     },
     {
       "position": 2,
@@ -527,7 +527,7 @@ window.F1_DATA = {
       "id": "ferrari",
       "primary": "#DC0000",
       "secondary": "#FFFFFF",
-      "points": 204.0
+      "points": 215.0
     },
     {
       "position": 3,
@@ -535,7 +535,7 @@ window.F1_DATA = {
       "id": "mclaren",
       "primary": "#FF8700",
       "secondary": "#000000",
-      "points": 159.0
+      "points": 167.0
     },
     {
       "position": 4,
@@ -543,7 +543,7 @@ window.F1_DATA = {
       "id": "red_bull",
       "primary": "#00327D",
       "secondary": "#CC1E4A",
-      "points": 115.0
+      "points": 118.0
     },
     {
       "position": 5,

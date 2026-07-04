@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-04 09:03 UTC
+// Auto-generated 2026-07-04 14:13 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-07-04 09:03 UTC",
+  "UPDATED": "2026-07-04 14:13 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -693,7 +693,7 @@ window.CYCLING_DATA = {
     "name": "Tour de France",
     "start": "2026-07-04",
     "end": "2026-07-27",
-    "stage": 1,
+    "stage": 0,
     "total_stages": 21,
     "jersey_primary": "#FFD700",
     "jersey_name": "Maillot Jaune",
