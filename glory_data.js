@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-05 21:21 UTC",
+  "UPDATED": "2026-07-05 22:29 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Mid-Ohio:Pato O'Ward",
@@ -471,8 +471,8 @@ window.GLORY_DATA = {
       "Houston Astros",
       "Atlanta Braves",
       "Texas Rangers",
-      "Philadelphia Phillies",
       "New York Yankees",
+      "Philadelphia Phillies",
       "Seattle Mariners",
       "San Diego Padres",
       "Baltimore Orioles",
@@ -735,8 +735,8 @@ window.GLORY_DATA = {
       "Spain",
       "France",
       "England",
-      "Brazil",
       "Portugal",
+      "Brazil",
       "Netherlands",
       "Uruguay",
       "Germany",

@@ -1,11 +1,11 @@
-// Auto-generated 2026-07-05 21:20 UTC
+// Auto-generated 2026-07-05 22:28 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-07-05 21:20 UTC",
+  "UPDATED": "2026-07-05 22:28 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-07-05 21:20 UTC"
+    "through": "2026-07-05 22:28 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -94,27 +94,6 @@ window.FOOTBALL_DATA = {
       "recentMatches": 4
     },
     {
-      "id": "brazil",
-      "name": "Brazil",
-      "teamCode": "BRA",
-      "country": "Brazil",
-      "logo": "https://flagcdn.com/24x18/br.png",
-      "colors": {
-        "primary": "#009C3B",
-        "secondary": "#FFDF00"
-      },
-      "rank": 5,
-      "elo": 2024,
-      "eloScore": 85.2,
-      "sourceRank": 6,
-      "worldCups": 5,
-      "continentalTitles": 9,
-      "note": "Histórico gigante todavía en zona top 10 pese a ciclo irregular.",
-      "eloPrev": 1985,
-      "recentDelta": 39.1,
-      "recentMatches": 4
-    },
-    {
       "id": "portugal",
       "name": "Portugal",
       "teamCode": "POR",
@@ -124,7 +103,7 @@ window.FOOTBALL_DATA = {
         "primary": "#006600",
         "secondary": "#FF0000"
       },
-      "rank": 6,
+      "rank": 5,
       "elo": 2006,
       "eloScore": 83.3,
       "sourceRank": 5,
@@ -145,7 +124,7 @@ window.FOOTBALL_DATA = {
         "primary": "#FF4F00",
         "secondary": "#21468B"
       },
-      "rank": 7,
+      "rank": 6,
       "elo": 1999,
       "eloScore": 82.6,
       "sourceRank": 7,
@@ -155,6 +134,27 @@ window.FOOTBALL_DATA = {
       "eloPrev": 1976,
       "recentDelta": 23.0,
       "recentMatches": 4
+    },
+    {
+      "id": "brazil",
+      "name": "Brazil",
+      "teamCode": "BRA",
+      "country": "Brazil",
+      "logo": "https://flagcdn.com/24x18/br.png",
+      "colors": {
+        "primary": "#009C3B",
+        "secondary": "#FFDF00"
+      },
+      "rank": 7,
+      "elo": 1982,
+      "eloScore": 80.8,
+      "sourceRank": 6,
+      "worldCups": 5,
+      "continentalTitles": 9,
+      "note": "Histórico gigante todavía en zona top 10 pese a ciclo irregular.",
+      "eloPrev": 1985,
+      "recentDelta": -3.2,
+      "recentMatches": 5
     },
     {
       "id": "italy",
@@ -220,6 +220,35 @@ window.FOOTBALL_DATA = {
     }
   ],
   "RECENT_MATCHES": [
+    {
+      "id": "760504",
+      "date": "2026-07-05",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "BRA"
+      ],
+      "home": {
+        "code": "BRA",
+        "name": "Brasil",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+        "score": 1,
+        "eloBefore": 2024,
+        "eloAfter": 1982,
+        "delta": -42.3,
+        "result": "L"
+      },
+      "away": {
+        "code": "NOR",
+        "name": "Noruega",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+        "score": 2,
+        "eloBefore": 1873,
+        "eloAfter": 1915,
+        "delta": 42.3,
+        "result": "W"
+      }
+    },
     {
       "id": "760503",
       "date": "2026-07-04",
@@ -1662,35 +1691,6 @@ window.FOOTBALL_DATA = {
         "ageCurve": 0.88
       },
       {
-        "id": "brazil",
-        "name": "Brazil",
-        "teamCode": "BRA",
-        "country": "Brazil",
-        "logo": "https://flagcdn.com/24x18/br.png",
-        "colors": {
-          "primary": "#009C3B",
-          "secondary": "#FFDF00"
-        },
-        "rank": 5,
-        "elo": 2024,
-        "eloScore": 85.2,
-        "sourceRank": 6,
-        "worldCups": 5,
-        "continentalTitles": 9,
-        "note": "A 2.8 puntos brutos del umbral dinástico",
-        "eloPrev": 1985,
-        "recentDelta": 39.1,
-        "recentMatches": 4,
-        "dynastyPotential": 92.9,
-        "rawDynastyPotential": 36.6,
-        "gapToDynastyTop10": 2.8,
-        "cycleYears": 1.2,
-        "currentWorldCups": 0,
-        "currentContinentalTitles": 0,
-        "recentFinals": 1,
-        "ageCurve": 0.84
-      },
-      {
         "id": "portugal",
         "name": "Portugal",
         "teamCode": "POR",
@@ -1700,7 +1700,7 @@ window.FOOTBALL_DATA = {
           "primary": "#006600",
           "secondary": "#FF0000"
         },
-        "rank": 6,
+        "rank": 5,
         "elo": 2006,
         "eloScore": 83.3,
         "sourceRank": 5,
@@ -1720,6 +1720,35 @@ window.FOOTBALL_DATA = {
         "ageCurve": 0.86
       },
       {
+        "id": "brazil",
+        "name": "Brazil",
+        "teamCode": "BRA",
+        "country": "Brazil",
+        "logo": "https://flagcdn.com/24x18/br.png",
+        "colors": {
+          "primary": "#009C3B",
+          "secondary": "#FFDF00"
+        },
+        "rank": 7,
+        "elo": 1982,
+        "eloScore": 80.8,
+        "sourceRank": 6,
+        "worldCups": 5,
+        "continentalTitles": 9,
+        "note": "A 5.1 puntos brutos del umbral dinástico",
+        "eloPrev": 1985,
+        "recentDelta": -3.2,
+        "recentMatches": 5,
+        "dynastyPotential": 87.0,
+        "rawDynastyPotential": 34.3,
+        "gapToDynastyTop10": 5.1,
+        "cycleYears": 1.2,
+        "currentWorldCups": 0,
+        "currentContinentalTitles": 0,
+        "recentFinals": 1,
+        "ageCurve": 0.84
+      },
+      {
         "id": "netherlands",
         "name": "Netherlands",
         "teamCode": "NED",
@@ -1729,7 +1758,7 @@ window.FOOTBALL_DATA = {
           "primary": "#FF4F00",
           "secondary": "#21468B"
         },
-        "rank": 7,
+        "rank": 6,
         "elo": 1999,
         "eloScore": 82.6,
         "sourceRank": 7,

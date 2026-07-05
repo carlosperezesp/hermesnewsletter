@@ -51,12 +51,12 @@ window.MLB_DATA = {
       "commonName": "Rays",
       "conf": "AL",
       "div": "AL East",
-      "gp": 86,
+      "gp": 87,
       "w": 52,
-      "l": 34,
-      "winPct": 0.605,
+      "l": 35,
+      "winPct": 0.598,
       "rf": 396,
-      "ra": 359,
+      "ra": 361,
       "rd": 0,
       "score": 48,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png",
@@ -72,39 +72,18 @@ window.MLB_DATA = {
       "commonName": "Braves",
       "conf": "NL",
       "div": "NL East",
-      "gp": 87,
+      "gp": 88,
       "w": 52,
-      "l": 35,
-      "winPct": 0.598,
-      "rf": 422,
-      "ra": 325,
+      "l": 36,
+      "winPct": 0.591,
+      "rf": 431,
+      "ra": 335,
       "rd": 0,
-      "score": 48,
+      "score": 47,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/atl.png",
       "colors": {
         "primary": "#ce1141",
         "secondary": "#13274f"
-      }
-    },
-    {
-      "code": "PHI",
-      "city": "Philadelphia Phillies",
-      "shortName": "Philadelphia",
-      "commonName": "Phillies",
-      "conf": "NL",
-      "div": "NL East",
-      "gp": 89,
-      "w": 50,
-      "l": 39,
-      "winPct": 0.562,
-      "rf": 400,
-      "ra": 390,
-      "rd": 0,
-      "score": 45,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/phi.png",
-      "colors": {
-        "primary": "#e81828",
-        "secondary": "#002d72"
       }
     },
     {
@@ -126,6 +105,27 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#0e3386",
         "secondary": "#cc3433"
+      }
+    },
+    {
+      "code": "PHI",
+      "city": "Philadelphia Phillies",
+      "shortName": "Philadelphia",
+      "commonName": "Phillies",
+      "conf": "NL",
+      "div": "NL East",
+      "gp": 90,
+      "w": 50,
+      "l": 40,
+      "winPct": 0.556,
+      "rf": 402,
+      "ra": 395,
+      "rd": 0,
+      "score": 44,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/phi.png",
+      "colors": {
+        "primary": "#e81828",
+        "secondary": "#002d72"
       }
     },
     {
@@ -303,18 +303,39 @@ window.MLB_DATA = {
       "commonName": "Rangers",
       "conf": "AL",
       "div": "AL West",
-      "gp": 89,
+      "gp": 90,
       "w": 45,
-      "l": 44,
-      "winPct": 0.506,
-      "rf": 364,
-      "ra": 369,
+      "l": 45,
+      "winPct": 0.5,
+      "rf": 367,
+      "ra": 375,
       "rd": 0,
       "score": 40,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png",
       "colors": {
         "primary": "#c0111f",
         "secondary": "#003278"
+      }
+    },
+    {
+      "code": "HOU",
+      "city": "Houston Astros",
+      "shortName": "Houston",
+      "commonName": "Astros",
+      "conf": "AL",
+      "div": "AL West",
+      "gp": 92,
+      "w": 45,
+      "l": 47,
+      "winPct": 0.489,
+      "rf": 413,
+      "ra": 457,
+      "rd": 0,
+      "score": 39,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png",
+      "colors": {
+        "primary": "#eb6e1f",
+        "secondary": "#002d62"
       }
     },
     {
@@ -336,27 +357,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#002b5c",
         "secondary": "#d31145"
-      }
-    },
-    {
-      "code": "HOU",
-      "city": "Houston Astros",
-      "shortName": "Houston",
-      "commonName": "Astros",
-      "conf": "AL",
-      "div": "AL West",
-      "gp": 91,
-      "w": 44,
-      "l": 47,
-      "winPct": 0.484,
-      "rf": 411,
-      "ra": 457,
-      "rd": 0,
-      "score": 39,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png",
-      "colors": {
-        "primary": "#eb6e1f",
-        "secondary": "#002d62"
       }
     },
     {
@@ -486,6 +486,27 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "DET",
+      "city": "Detroit Tigers",
+      "shortName": "Detroit",
+      "commonName": "Tigers",
+      "conf": "AL",
+      "div": "AL Central",
+      "gp": 90,
+      "w": 40,
+      "l": 50,
+      "winPct": 0.444,
+      "rf": 379,
+      "ra": 368,
+      "rd": 0,
+      "score": 36,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png",
+      "colors": {
+        "primary": "#0c2340",
+        "secondary": "#fa4616"
+      }
+    },
+    {
       "code": "BOS",
       "city": "Boston Red Sox",
       "shortName": "Boston",
@@ -504,27 +525,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#bd3039",
         "secondary": "#0c2340"
-      }
-    },
-    {
-      "code": "DET",
-      "city": "Detroit Tigers",
-      "shortName": "Detroit",
-      "commonName": "Tigers",
-      "conf": "AL",
-      "div": "AL Central",
-      "gp": 89,
-      "w": 39,
-      "l": 50,
-      "winPct": 0.438,
-      "rf": 373,
-      "ra": 365,
-      "rd": 0,
-      "score": 35,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png",
-      "colors": {
-        "primary": "#0c2340",
-        "secondary": "#fa4616"
       }
     },
     {
@@ -549,6 +549,48 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "NYM",
+      "city": "New York Mets",
+      "shortName": "New York",
+      "commonName": "Mets",
+      "conf": "NL",
+      "div": "NL East",
+      "gp": 90,
+      "w": 37,
+      "l": 53,
+      "winPct": 0.411,
+      "rf": 362,
+      "ra": 423,
+      "rd": 0,
+      "score": 33,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nym.png",
+      "colors": {
+        "primary": "#002d72",
+        "secondary": "#ff5910"
+      }
+    },
+    {
+      "code": "KC",
+      "city": "Kansas City Royals",
+      "shortName": "Kansas City",
+      "commonName": "Royals",
+      "conf": "AL",
+      "div": "AL Central",
+      "gp": 90,
+      "w": 36,
+      "l": 54,
+      "winPct": 0.4,
+      "rf": 369,
+      "ra": 454,
+      "rd": 0,
+      "score": 32,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png",
+      "colors": {
+        "primary": "#004687",
+        "secondary": "#c09a5b"
+      }
+    },
+    {
       "code": "LAA",
       "city": "Los Angeles Angels",
       "shortName": "Los Angeles",
@@ -570,27 +612,6 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "NYM",
-      "city": "New York Mets",
-      "shortName": "New York",
-      "commonName": "Mets",
-      "conf": "NL",
-      "div": "NL East",
-      "gp": 89,
-      "w": 36,
-      "l": 53,
-      "winPct": 0.404,
-      "rf": 352,
-      "ra": 414,
-      "rd": 0,
-      "score": 32,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nym.png",
-      "colors": {
-        "primary": "#002d72",
-        "secondary": "#ff5910"
-      }
-    },
-    {
       "code": "COL",
       "city": "Colorado Rockies",
       "shortName": "Colorado",
@@ -609,27 +630,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#333366",
         "secondary": "#c4ced4"
-      }
-    },
-    {
-      "code": "KC",
-      "city": "Kansas City Royals",
-      "shortName": "Kansas City",
-      "commonName": "Royals",
-      "conf": "AL",
-      "div": "AL Central",
-      "gp": 89,
-      "w": 35,
-      "l": 54,
-      "winPct": 0.393,
-      "rf": 364,
-      "ra": 452,
-      "rd": 0,
-      "score": 31,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png",
-      "colors": {
-        "primary": "#004687",
-        "secondary": "#c09a5b"
       }
     }
   ],
@@ -7710,9 +7710,9 @@ window.MLB_DATA = {
         "city": "Atlanta Braves",
         "era": "2019–present",
         "rings": 1,
-        "dynastyScore": 48.8,
+        "dynastyScore": 48.2,
         "threshold": 89.5,
-        "gap": 40.7,
+        "gap": 41.3,
         "note": "2021 champions · Acuña/Olson core · NL East powerhouse",
         "needs": "2–3 more titles + another dominant era needed",
         "colors": {
@@ -7738,22 +7738,6 @@ window.MLB_DATA = {
         "prevRank": 4
       },
       {
-        "teamCode": "PHI",
-        "city": "Philadelphia Phillies",
-        "era": "2022–present",
-        "rings": 0,
-        "dynastyScore": 37.0,
-        "threshold": 89.5,
-        "gap": 52.5,
-        "note": "Back-to-back WS appearances · Harper/Nola/Turner · consistent NL contender",
-        "needs": "Needs at least one title + sustained dominance",
-        "colors": {
-          "primary": "#e81828",
-          "secondary": "#002d72"
-        },
-        "prevRank": 6
-      },
-      {
         "teamCode": "NYY",
         "city": "New York Yankees",
         "era": "2019–present",
@@ -7766,6 +7750,22 @@ window.MLB_DATA = {
         "colors": {
           "primary": "#003087",
           "secondary": "#e4002c"
+        },
+        "prevRank": 6
+      },
+      {
+        "teamCode": "PHI",
+        "city": "Philadelphia Phillies",
+        "era": "2022–present",
+        "rings": 0,
+        "dynastyScore": 36.4,
+        "threshold": 89.5,
+        "gap": 53.1,
+        "note": "Back-to-back WS appearances · Harper/Nola/Turner · consistent NL contender",
+        "needs": "Needs at least one title + sustained dominance",
+        "colors": {
+          "primary": "#e81828",
+          "secondary": "#002d72"
         },
         "prevRank": 5
       },
@@ -7822,9 +7822,9 @@ window.MLB_DATA = {
         "city": "New York Mets",
         "era": "2024–present",
         "rings": 0,
-        "dynastyScore": 29.2,
+        "dynastyScore": 29.8,
         "threshold": 89.5,
-        "gap": 60.3,
+        "gap": 59.7,
         "note": "Soto/Alonso era · 2024 NLCS · rising NL East power",
         "needs": "Needs at least one title + sustained dominance",
         "colors": {
@@ -8047,7 +8047,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-05 21:19 UTC",
+  "LAST_UPDATE": "2026-07-05 22:27 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
