@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-04 22:16 UTC
+// Auto-generated 2026-07-05 08:18 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-04 22:16 UTC",
+  "UPDATED": "2026-07-05 08:18 UTC",
   "SEASON": "2026",
   "ROUND": 17,
   "IMPORTANCE": 8.1,
@@ -137,6 +137,17 @@ window.AFL_DATA = {
     },
     {
       "rank": 12,
+      "name": "St Kilda",
+      "wins": 7,
+      "losses": 9,
+      "draws": 0,
+      "pts": 28,
+      "percentage": 105.5,
+      "primary": "#ED1C2E",
+      "secondary": "#000000"
+    },
+    {
+      "rank": 13,
       "name": "Greater Western Sydney",
       "wins": 7,
       "losses": 9,
@@ -147,7 +158,7 @@ window.AFL_DATA = {
       "secondary": "#002040"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Gold Coast",
       "wins": 7,
       "losses": 9,
@@ -156,17 +167,6 @@ window.AFL_DATA = {
       "percentage": 100.7,
       "primary": "#C5002F",
       "secondary": "#F1B500"
-    },
-    {
-      "rank": 14,
-      "name": "St Kilda",
-      "wins": 6,
-      "losses": 9,
-      "draws": 0,
-      "pts": 24,
-      "percentage": 100.6,
-      "primary": "#ED1C2E",
-      "secondary": "#000000"
     },
     {
       "rank": 15,
@@ -205,10 +205,10 @@ window.AFL_DATA = {
       "rank": 18,
       "name": "Essendon",
       "wins": 1,
-      "losses": 14,
+      "losses": 15,
       "draws": 0,
       "pts": 4,
-      "percentage": 71.0,
+      "percentage": 69.0,
       "primary": "#CC2031",
       "secondary": "#000000"
     }
@@ -1125,6 +1125,16 @@ window.AFL_DATA = {
       "date": "2026-07-04",
       "hprimary": "#FFD200",
       "aprimary": "#0E1E2D"
+    },
+    {
+      "hteam": "Essendon",
+      "hscore": 50,
+      "ateam": "St Kilda",
+      "ascore": 117,
+      "winner": "St Kilda",
+      "date": "2026-07-05",
+      "hprimary": "#CC2031",
+      "aprimary": "#ED1C2E"
     }
   ],
   "CURRENT_CONTENDERS": [

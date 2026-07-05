@@ -1,11 +1,11 @@
-// Auto-generated 2026-07-04 22:16 UTC
+// Auto-generated 2026-07-05 08:19 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-07-04 22:16 UTC",
+  "UPDATED": "2026-07-05 08:19 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-07-04 22:16 UTC"
+    "through": "2026-07-05 08:19 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -62,15 +62,15 @@ window.FOOTBALL_DATA = {
         "secondary": "#ED2939"
       },
       "rank": 3,
-      "elo": 2100,
-      "eloScore": 93.1,
+      "elo": 2107,
+      "eloScore": 93.9,
       "sourceRank": 3,
       "worldCups": 2,
       "continentalTitles": 2,
       "note": "Finalista mundial reciente; profundidad ofensiva y defensiva.",
       "eloPrev": 2029,
-      "recentDelta": 71.1,
-      "recentMatches": 4
+      "recentDelta": 77.8,
+      "recentMatches": 5
     },
     {
       "id": "england",
@@ -220,6 +220,35 @@ window.FOOTBALL_DATA = {
     }
   ],
   "RECENT_MATCHES": [
+    {
+      "id": "760503",
+      "date": "2026-07-04",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "FRA"
+      ],
+      "home": {
+        "code": "PAR",
+        "name": "Paraguay",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
+        "score": 0,
+        "eloBefore": 1740,
+        "eloAfter": 1733,
+        "delta": -6.7,
+        "result": "L"
+      },
+      "away": {
+        "code": "FRA",
+        "name": "Francia",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+        "score": 1,
+        "eloBefore": 2100,
+        "eloAfter": 2107,
+        "delta": 6.7,
+        "result": "W"
+      }
+    },
     {
       "id": "760500",
       "date": "2026-07-03",
@@ -1585,17 +1614,17 @@ window.FOOTBALL_DATA = {
           "secondary": "#ED2939"
         },
         "rank": 3,
-        "elo": 2100,
-        "eloScore": 93.1,
+        "elo": 2107,
+        "eloScore": 93.9,
         "sourceRank": 3,
         "worldCups": 2,
         "continentalTitles": 2,
         "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
         "eloPrev": 2029,
-        "recentDelta": 71.1,
-        "recentMatches": 4,
+        "recentDelta": 77.8,
+        "recentMatches": 5,
         "dynastyPotential": 100.0,
-        "rawDynastyPotential": 91.7,
+        "rawDynastyPotential": 92.1,
         "gapToDynastyTop10": 0.0,
         "cycleYears": 2.8,
         "currentWorldCups": 1,

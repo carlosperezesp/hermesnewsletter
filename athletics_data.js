@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-04 22:17 UTC
+// Auto-generated 2026-07-05 08:20 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-04 22:17 UTC",
+  "UPDATED": "2026-07-05 08:20 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -5796,6 +5796,16 @@ window.ATHLETICS_DATA = {
           "season": [
             {
               "rank": 1,
+              "mark": "22.74",
+              "athlete": "Leonardo Fabbri",
+              "country": "ITA",
+              "flag": "https://flagcdn.com/24x18/it.png",
+              "primary": "#009246",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 2,
               "mark": "22.58",
               "athlete": "Joe Kovacs",
               "country": "USA",
@@ -5803,16 +5813,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Complexe Sportif Prince Moulay Abdellah",
               "date": "31 MAY 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "22.50",
-              "athlete": "Leonardo Fabbri",
-              "country": "ITA",
-              "flag": "https://flagcdn.com/24x18/it.png",
-              "primary": "#009246",
-              "venue": "Horskool Stadium",
-              "date": "11 FEB 2026"
             },
             {
               "rank": 3,
@@ -5866,6 +5866,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 8,
+              "mark": "21.70",
+              "athlete": "Adrian Piperi",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 9,
               "mark": "21.59",
               "athlete": "Ryan Crouser",
               "country": "USA",
@@ -5875,7 +5885,7 @@ window.ATHLETICS_DATA = {
               "date": "31 MAY 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "21.38",
               "athlete": "Wictor Petersson",
               "country": "SWE",
@@ -5883,16 +5893,6 @@ window.ATHLETICS_DATA = {
               "primary": "#006AA7",
               "venue": "Friidrottens Hus",
               "date": "15 FEB 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "21.34",
-              "athlete": "Konrad Bukowiecki",
-              "country": "POL",
-              "flag": "https://flagcdn.com/24x18/pl.png",
-              "primary": "#DC143C",
-              "venue": "Market square",
-              "date": "31 MAY 2026"
             }
           ]
         },

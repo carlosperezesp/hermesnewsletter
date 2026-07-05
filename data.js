@@ -10903,7 +10903,7 @@ window.NHL_DATA = {
       "name": "Fraser Minten",
       "pos": "C",
       "teamCode": "BOS",
-      "age": 21,
+      "age": 22,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -10929,7 +10929,7 @@ window.NHL_DATA = {
         50,
         58
       ],
-      "legendScore": 51.5
+      "legendScore": 50.8
     },
     {
       "id": 8478458,
@@ -32782,7 +32782,7 @@ window.NHL_DATA = {
       "name": "Elmer Soderblom",
       "pos": "LW",
       "teamCode": "PIT",
-      "age": 24,
+      "age": 25,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -47979,10 +47979,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-04 22:15 UTC",
+  "LAST_UPDATE": "2026-07-05 08:17 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-04T22:14:45Z"
+    "standingsDateTimeUtc": "2026-07-05T08:17:15Z"
   }
 };
