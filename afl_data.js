@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-05 08:18 UTC
+// Auto-generated 2026-07-05 09:25 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-05 08:18 UTC",
+  "UPDATED": "2026-07-05 09:25 UTC",
   "SEASON": "2026",
   "ROUND": 17,
   "IMPORTANCE": 8.1,
@@ -128,10 +128,10 @@ window.AFL_DATA = {
       "rank": 11,
       "name": "North Melbourne",
       "wins": 8,
-      "losses": 7,
+      "losses": 8,
       "draws": 0,
       "pts": 32,
-      "percentage": 92.2,
+      "percentage": 91.1,
       "primary": "#CC2031",
       "secondary": "#013B9F"
     },
@@ -171,11 +171,11 @@ window.AFL_DATA = {
     {
       "rank": 15,
       "name": "Port Adelaide",
-      "wins": 5,
+      "wins": 6,
       "losses": 10,
       "draws": 0,
-      "pts": 20,
-      "percentage": 100.8,
+      "pts": 24,
+      "percentage": 102.5,
       "primary": "#002B5C",
       "secondary": "#CC2031"
     },
@@ -1135,6 +1135,16 @@ window.AFL_DATA = {
       "date": "2026-07-05",
       "hprimary": "#CC2031",
       "aprimary": "#ED1C2E"
+    },
+    {
+      "hteam": "Port Adelaide",
+      "hscore": 73,
+      "ateam": "North Melbourne",
+      "ascore": 52,
+      "winner": "Port Adelaide",
+      "date": "2026-07-05",
+      "hprimary": "#002B5C",
+      "aprimary": "#CC2031"
     }
   ],
   "CURRENT_CONTENDERS": [

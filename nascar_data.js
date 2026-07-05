@@ -1,5 +1,5 @@
 window.NASCAR_DATA = {
-  "UPDATED": "2026-07-05 08:18 UTC",
+  "UPDATED": "2026-07-05 09:25 UTC",
   "SEASON": 2026,
   "ROUND": 22,
   "TOTAL_ROUNDS": 36,
@@ -67,13 +67,13 @@ window.NASCAR_DATA = {
       },
       "points": 719,
       "wins": 4,
-      "poles": 3,
+      "poles": 1,
       "top5": 9,
       "top10": 11,
       "stats": {
         "pts": 719,
         "wins": 4,
-        "poles": 3,
+        "poles": 1,
         "top5": 9,
         "top10": 11
       },
