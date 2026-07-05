@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-05 09:27 UTC
+// Auto-generated 2026-07-05 14:23 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-05 09:27 UTC",
+  "UPDATED": "2026-07-05 14:23 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11025,9 +11025,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Roman Safiullin",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 87.3,
           "l_score": 48.7,
           "match_score": 87.3
@@ -11208,28 +11208,28 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R16",
-          "w": "Jessica Pegula",
+          "w": "Iva Jovic",
           "w_logo": "",
-          "l": "Iva Jovic",
+          "l": "Jessica Pegula",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 90.2,
-          "l_score": 76.6,
+          "scheduled": false,
+          "w_score": 76.6,
+          "l_score": 90.2,
           "match_score": 90.2
         },
         {
           "round": "R16",
-          "w": "Karolina Muchova",
+          "w": "Barbora Krejcikova",
           "w_logo": "",
-          "l": "Barbora Krejcikova",
+          "l": "Karolina Muchova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 85.9,
-          "l_score": 71.8,
+          "scheduled": false,
+          "w_score": 71.8,
+          "l_score": 85.9,
           "match_score": 85.9
         }
       ]
