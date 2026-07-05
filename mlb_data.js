@@ -108,45 +108,45 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "NYY",
-      "city": "New York Yankees",
-      "shortName": "New York",
-      "commonName": "Yankees",
-      "conf": "AL",
-      "div": "AL East",
-      "gp": 88,
-      "w": 49,
-      "l": 39,
-      "winPct": 0.557,
-      "rf": 426,
-      "ra": 343,
-      "rd": 0,
-      "score": 45,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
-      "colors": {
-        "primary": "#003087",
-        "secondary": "#e4002c"
-      }
-    },
-    {
       "code": "CHC",
       "city": "Chicago Cubs",
       "shortName": "Chicago",
       "commonName": "Cubs",
       "conf": "NL",
       "div": "NL Central",
-      "gp": 89,
-      "w": 49,
+      "gp": 90,
+      "w": 50,
       "l": 40,
-      "winPct": 0.551,
-      "rf": 449,
-      "ra": 405,
+      "winPct": 0.556,
+      "rf": 455,
+      "ra": 409,
       "rd": 0,
       "score": 44,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png",
       "colors": {
         "primary": "#0e3386",
         "secondary": "#cc3433"
+      }
+    },
+    {
+      "code": "NYY",
+      "city": "New York Yankees",
+      "shortName": "New York",
+      "commonName": "Yankees",
+      "conf": "AL",
+      "div": "AL East",
+      "gp": 89,
+      "w": 49,
+      "l": 40,
+      "winPct": 0.551,
+      "rf": 427,
+      "ra": 349,
+      "rd": 0,
+      "score": 44,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
+      "colors": {
+        "primary": "#003087",
+        "secondary": "#e4002c"
       }
     },
     {
@@ -198,14 +198,14 @@ window.MLB_DATA = {
       "commonName": "Cardinals",
       "conf": "NL",
       "div": "NL Central",
-      "gp": 86,
+      "gp": 87,
       "w": 47,
-      "l": 39,
-      "winPct": 0.547,
-      "rf": 399,
-      "ra": 384,
+      "l": 40,
+      "winPct": 0.54,
+      "rf": 403,
+      "ra": 390,
       "rd": 0,
-      "score": 44,
+      "score": 43,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/stl.png",
       "colors": {
         "primary": "#c41e3a",
@@ -255,20 +255,41 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "PIT",
+      "city": "Pittsburgh Pirates",
+      "shortName": "Pittsburgh",
+      "commonName": "Pirates",
+      "conf": "NL",
+      "div": "NL Central",
+      "gp": 91,
+      "w": 46,
+      "l": 45,
+      "winPct": 0.505,
+      "rf": 475,
+      "ra": 442,
+      "rd": 0,
+      "score": 40,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/pit.png",
+      "colors": {
+        "primary": "#fdb827",
+        "secondary": "#27251f"
+      }
+    },
+    {
       "code": "WSH",
       "city": "Washington Nationals",
       "shortName": "Washington",
       "commonName": "Nationals",
       "conf": "NL",
       "div": "NL East",
-      "gp": 90,
+      "gp": 91,
       "w": 46,
-      "l": 44,
-      "winPct": 0.511,
-      "rf": 480,
-      "ra": 465,
+      "l": 45,
+      "winPct": 0.505,
+      "rf": 485,
+      "ra": 476,
       "rd": 0,
-      "score": 41,
+      "score": 40,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png",
       "colors": {
         "primary": "#ab0003",
@@ -297,24 +318,24 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "PIT",
-      "city": "Pittsburgh Pirates",
-      "shortName": "Pittsburgh",
-      "commonName": "Pirates",
-      "conf": "NL",
-      "div": "NL Central",
-      "gp": 90,
-      "w": 45,
-      "l": 45,
-      "winPct": 0.5,
-      "rf": 464,
-      "ra": 437,
+      "code": "MIN",
+      "city": "Minnesota Twins",
+      "shortName": "Minnesota",
+      "commonName": "Twins",
+      "conf": "AL",
+      "div": "AL Central",
+      "gp": 91,
+      "w": 44,
+      "l": 47,
+      "winPct": 0.484,
+      "rf": 448,
+      "ra": 465,
       "rd": 0,
-      "score": 40,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/pit.png",
+      "score": 39,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png",
       "colors": {
-        "primary": "#fdb827",
-        "secondary": "#27251f"
+        "primary": "#002b5c",
+        "secondary": "#d31145"
       }
     },
     {
@@ -357,27 +378,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#a71930",
         "secondary": "#e3d4ad"
-      }
-    },
-    {
-      "code": "MIN",
-      "city": "Minnesota Twins",
-      "shortName": "Minnesota",
-      "commonName": "Twins",
-      "conf": "AL",
-      "div": "AL Central",
-      "gp": 90,
-      "w": 43,
-      "l": 47,
-      "winPct": 0.478,
-      "rf": 442,
-      "ra": 464,
-      "rd": 0,
-      "score": 38,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png",
-      "colors": {
-        "primary": "#002b5c",
-        "secondary": "#d31145"
       }
     },
     {
@@ -429,12 +429,12 @@ window.MLB_DATA = {
       "commonName": "Orioles",
       "conf": "AL",
       "div": "AL East",
-      "gp": 90,
+      "gp": 91,
       "w": 42,
-      "l": 48,
-      "winPct": 0.467,
-      "rf": 414,
-      "ra": 441,
+      "l": 49,
+      "winPct": 0.462,
+      "rf": 416,
+      "ra": 444,
       "rd": 0,
       "score": 37,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bal.png",
@@ -471,14 +471,14 @@ window.MLB_DATA = {
       "commonName": "Reds",
       "conf": "NL",
       "div": "NL Central",
-      "gp": 88,
-      "w": 40,
+      "gp": 89,
+      "w": 41,
       "l": 48,
-      "winPct": 0.455,
-      "rf": 369,
-      "ra": 430,
+      "winPct": 0.461,
+      "rf": 372,
+      "ra": 432,
       "rd": 0,
-      "score": 36,
+      "score": 37,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cin.png",
       "colors": {
         "primary": "#c6011f",
@@ -7738,22 +7738,6 @@ window.MLB_DATA = {
         "prevRank": 4
       },
       {
-        "teamCode": "NYY",
-        "city": "New York Yankees",
-        "era": "2019–present",
-        "rings": 0,
-        "dynastyScore": 37.0,
-        "threshold": 89.5,
-        "gap": 52.5,
-        "note": "2024 WS · Judge/Cole core · 27 all-time titles · perennial threat",
-        "needs": "Needs at least one title + sustained dominance",
-        "colors": {
-          "primary": "#003087",
-          "secondary": "#e4002c"
-        },
-        "prevRank": 5
-      },
-      {
         "teamCode": "PHI",
         "city": "Philadelphia Phillies",
         "era": "2022–present",
@@ -7768,6 +7752,22 @@ window.MLB_DATA = {
           "secondary": "#002d72"
         },
         "prevRank": 6
+      },
+      {
+        "teamCode": "NYY",
+        "city": "New York Yankees",
+        "era": "2019–present",
+        "rings": 0,
+        "dynastyScore": 36.4,
+        "threshold": 89.5,
+        "gap": 53.1,
+        "note": "2024 WS · Judge/Cole core · 27 all-time titles · perennial threat",
+        "needs": "Needs at least one title + sustained dominance",
+        "colors": {
+          "primary": "#003087",
+          "secondary": "#e4002c"
+        },
+        "prevRank": 5
       },
       {
         "teamCode": "SEA",
@@ -8047,7 +8047,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-05 15:00 UTC",
+  "LAST_UPDATE": "2026-07-05 21:19 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

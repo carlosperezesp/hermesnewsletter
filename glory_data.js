@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-05 15:02 UTC",
+  "UPDATED": "2026-07-05 21:21 UTC",
   "EVENTS": [
+    {
+      "id": "indycar:win:Grand Prix of Mid-Ohio:Pato O'Ward",
+      "sport": "indycar",
+      "detail": "IndyCar",
+      "text": "Pato O'Ward ganó en Grand Prix of Mid-Ohio",
+      "weight": 100,
+      "firstSeen": "2026-07-05"
+    },
     {
       "id": "f1:win:Pirelli British Grand Prix:Lewis Hamilton",
       "sport": "f1",
@@ -463,8 +471,8 @@ window.GLORY_DATA = {
       "Houston Astros",
       "Atlanta Braves",
       "Texas Rangers",
-      "New York Yankees",
       "Philadelphia Phillies",
+      "New York Yankees",
       "Seattle Mariners",
       "San Diego Padres",
       "Baltimore Orioles",
@@ -642,8 +650,8 @@ window.GLORY_DATA = {
       "Kimi Antonelli",
       "George Russell",
       "Lewis Hamilton",
-      "Lando Norris",
       "Charles Leclerc",
+      "Lando Norris",
       "Oscar Piastri",
       "Max Verstappen",
       "Isack Hadjar",

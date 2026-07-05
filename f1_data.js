@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-05 15:01 UTC
+// Auto-generated 2026-07-05 21:20 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-07-05 15:01 UTC",
+  "UPDATED": "2026-07-05 21:20 UTC",
   "SEASON": "2026",
   "ROUND": 8,
   "TOTAL_ROUNDS": 24,
@@ -46,12 +46,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 136.0,
-      "lastWeekendPoints": 5.0,
+      "points": 154.0,
+      "lastWeekendPoints": 23.0,
       "wins": 0,
-      "score": 22.7,
+      "score": 25.7,
       "stats": {
-        "pts": 136.0,
+        "pts": 154.0,
         "wins": 0
       },
       "prevRank": 2,
@@ -71,12 +71,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 132.0,
-      "lastWeekendPoints": 7.0,
+      "points": 147.0,
+      "lastWeekendPoints": 22.0,
       "wins": 0,
-      "score": 22.0,
+      "score": 24.5,
       "stats": {
-        "pts": 132.0,
+        "pts": 147.0,
         "wins": 0
       },
       "prevRank": 3,
@@ -84,31 +84,6 @@ window.F1_DATA = {
     },
     {
       "position": 4,
-      "name": "Lando Norris",
-      "nationality": "",
-      "country": "GBR",
-      "teamCode": "mclaren",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
-      "primary": "#FF8700",
-      "secondary": "#000000",
-      "colors": {
-        "primary": "#FF8700",
-        "secondary": "#000000"
-      },
-      "team": "",
-      "points": 85.0,
-      "lastWeekendPoints": 6.0,
-      "wins": 0,
-      "score": 14.2,
-      "stats": {
-        "pts": 85.0,
-        "wins": 0
-      },
-      "prevRank": 4,
-      "age": 27
-    },
-    {
-      "position": 5,
       "name": "Charles Leclerc",
       "nationality": "",
       "country": "MON",
@@ -121,16 +96,41 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 83.0,
-      "lastWeekendPoints": 4.0,
+      "points": 108.0,
+      "lastWeekendPoints": 29.0,
       "wins": 0,
-      "score": 13.8,
+      "score": 18.0,
       "stats": {
-        "pts": 83.0,
+        "pts": 108.0,
         "wins": 0
       },
       "prevRank": 5,
       "age": 29
+    },
+    {
+      "position": 5,
+      "name": "Lando Norris",
+      "nationality": "",
+      "country": "GBR",
+      "teamCode": "mclaren",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
+      "primary": "#FF8700",
+      "secondary": "#000000",
+      "colors": {
+        "primary": "#FF8700",
+        "secondary": "#000000"
+      },
+      "team": "",
+      "points": 97.0,
+      "lastWeekendPoints": 18.0,
+      "wins": 0,
+      "score": 16.2,
+      "stats": {
+        "pts": 97.0,
+        "wins": 0
+      },
+      "prevRank": 4,
+      "age": 27
     },
     {
       "position": 6,
@@ -196,12 +196,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 42.0,
-      "lastWeekendPoints": 0.0,
+      "points": 52.0,
+      "lastWeekendPoints": 10.0,
       "wins": 0,
-      "score": 7.0,
+      "score": 8.7,
       "stats": {
-        "pts": 42.0,
+        "pts": 52.0,
         "wins": 0
       },
       "prevRank": 8,
@@ -221,12 +221,12 @@ window.F1_DATA = {
         "secondary": "#FF0000"
       },
       "team": "",
-      "points": 41.0,
-      "lastWeekendPoints": 0.0,
+      "points": 42.0,
+      "lastWeekendPoints": 1.0,
       "wins": 0,
-      "score": 6.8,
+      "score": 7.0,
       "stats": {
-        "pts": 41.0,
+        "pts": 42.0,
         "wins": 0
       },
       "prevRank": 9,
@@ -246,12 +246,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 31.0,
-      "lastWeekendPoints": 1.0,
+      "points": 39.0,
+      "lastWeekendPoints": 9.0,
       "wins": 0,
-      "score": 5.2,
+      "score": 6.5,
       "stats": {
-        "pts": 31.0,
+        "pts": 39.0,
         "wins": 0
       },
       "prevRank": 10,
@@ -302,7 +302,7 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "score": 7.0,
+      "score": 8.7,
       "position": 8,
       "age": 22,
       "note": "Irrumpe a los 22 (P8)"
@@ -318,7 +318,7 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "score": 5.2,
+      "score": 6.5,
       "position": 10,
       "age": 24,
       "note": "Irrumpe a los 24 (P10)"
@@ -335,9 +335,9 @@ window.F1_DATA = {
       },
       "team": "",
       "score": 3.0,
-      "position": 11,
+      "position": 12,
       "age": 21,
-      "note": "Irrumpe a los 21 (P11)"
+      "note": "Irrumpe a los 21 (P12)"
     },
     {
       "name": "Franco Colapinto",
@@ -350,10 +350,10 @@ window.F1_DATA = {
         "secondary": "#FF0000"
       },
       "team": "",
-      "score": 2.7,
-      "position": 12,
+      "score": 3.0,
+      "position": 13,
       "age": 23,
-      "note": "Irrumpe a los 23 (P12)"
+      "note": "Irrumpe a los 23 (P13)"
     }
   ],
   "LEGEND_CHASE": [
@@ -519,7 +519,7 @@ window.F1_DATA = {
       "id": "mercedes",
       "primary": "#00D2BE",
       "secondary": "#000000",
-      "points": 315.0
+      "points": 333.0
     },
     {
       "position": 2,
@@ -527,7 +527,7 @@ window.F1_DATA = {
       "id": "ferrari",
       "primary": "#DC0000",
       "secondary": "#FFFFFF",
-      "points": 215.0
+      "points": 255.0
     },
     {
       "position": 3,
@@ -535,7 +535,7 @@ window.F1_DATA = {
       "id": "mclaren",
       "primary": "#FF8700",
       "secondary": "#000000",
-      "points": 167.0
+      "points": 179.0
     },
     {
       "position": 4,
@@ -543,7 +543,7 @@ window.F1_DATA = {
       "id": "red_bull",
       "primary": "#00327D",
       "secondary": "#CC1E4A",
-      "points": 118.0
+      "points": 128.0
     },
     {
       "position": 5,
@@ -551,7 +551,7 @@ window.F1_DATA = {
       "id": "alpine",
       "primary": "#FFF500",
       "secondary": "#FF0000",
-      "points": 57.0
+      "points": 60.0
     }
   ],
   "LAST_WEEKEND": {
