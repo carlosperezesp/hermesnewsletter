@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-06 16:45 UTC
+// Auto-generated 2026-07-06 21:49 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-06 16:45 UTC",
+  "UPDATED": "2026-07-06 21:49 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -1208,108 +1208,7 @@ window.ATHLETICS_DATA = {
               "year": 1996
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "48.48",
-              "athlete": "Marileidy Paulino",
-              "country": "DOM",
-              "flag": "https://flagcdn.com/24x18/do.png",
-              "primary": "#002D62",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "48.79",
-              "athlete": "Dejanea Oakley",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Hayward Field",
-              "date": "13 JUN 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "48.97",
-              "athlete": "Madison Whyte",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Hayward Field",
-              "date": "13 JUN 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "49.37",
-              "athlete": "Lurdes Gloria Manuel",
-              "country": "CZE",
-              "flag": "https://flagcdn.com/24x18/cz.png",
-              "primary": "#11457E",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "49.47",
-              "athlete": "Ella Onojuvwevwo",
-              "country": "NGR",
-              "flag": "https://flagcdn.com/24x18/ng.png",
-              "primary": "#008751",
-              "venue": "Cushing Stadium",
-              "date": "06 JUN 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "49.48",
-              "athlete": "Stacey Ann Williams",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Sports Park Mladost",
-              "date": "26 JUN 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "49.52",
-              "athlete": "Henriette J&#198;ger",
-              "country": "NOR",
-              "flag": "https://flagcdn.com/24x18/no.png",
-              "primary": "#EF2B2D",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "49.54",
-              "athlete": "Kaylyn Brown",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Hutsell-Rosen Track",
-              "date": "16 MAY 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "49.75",
-              "athlete": "Nickisha Pryce",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "49.78",
-              "athlete": "Aaliyah Butler",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
-            }
-          ]
+          "season": []
         }
       ]
     },

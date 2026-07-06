@@ -114,12 +114,12 @@ window.MLB_DATA = {
       "commonName": "Phillies",
       "conf": "NL",
       "div": "NL East",
-      "gp": 90,
+      "gp": 91,
       "w": 50,
-      "l": 40,
-      "winPct": 0.556,
-      "rf": 402,
-      "ra": 395,
+      "l": 41,
+      "winPct": 0.549,
+      "rf": 403,
+      "ra": 410,
       "rd": 0,
       "score": 44,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/phi.png",
@@ -528,6 +528,27 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "KC",
+      "city": "Kansas City Royals",
+      "shortName": "Kansas City",
+      "commonName": "Royals",
+      "conf": "AL",
+      "div": "AL Central",
+      "gp": 91,
+      "w": 37,
+      "l": 54,
+      "winPct": 0.407,
+      "rf": 384,
+      "ra": 455,
+      "rd": 0,
+      "score": 33,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png",
+      "colors": {
+        "primary": "#004687",
+        "secondary": "#c09a5b"
+      }
+    },
+    {
       "code": "SF",
       "city": "San Francisco Giants",
       "shortName": "San Francisco",
@@ -588,27 +609,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#333366",
         "secondary": "#c4ced4"
-      }
-    },
-    {
-      "code": "KC",
-      "city": "Kansas City Royals",
-      "shortName": "Kansas City",
-      "commonName": "Royals",
-      "conf": "AL",
-      "div": "AL Central",
-      "gp": 90,
-      "w": 36,
-      "l": 54,
-      "winPct": 0.4,
-      "rf": 369,
-      "ra": 454,
-      "rd": 0,
-      "score": 32,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png",
-      "colors": {
-        "primary": "#004687",
-        "secondary": "#c09a5b"
       }
     },
     {
@@ -8047,7 +8047,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-06 16:42 UTC",
+  "LAST_UPDATE": "2026-07-06 21:47 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
