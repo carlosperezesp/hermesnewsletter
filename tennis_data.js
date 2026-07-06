@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-06 21:49 UTC
+// Auto-generated 2026-07-06 22:44 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-06 21:49 UTC",
+  "UPDATED": "2026-07-06 22:44 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10954,19 +10954,6 @@ window.TENNIS_DATA = {
       "level": "Grand Slam",
       "surface": "Grass",
       "matches": [
-        {
-          "round": "R16",
-          "w": "Alexander Zverev",
-          "w_logo": "",
-          "l": "Jiri Lehecka",
-          "l_logo": "",
-          "score": "In Progress",
-          "day": "hoy",
-          "scheduled": false,
-          "w_score": 87.4,
-          "l_score": 76.1,
-          "match_score": 87.4
-        },
         {
           "round": "R16",
           "w": "Flavio Cobolli",
