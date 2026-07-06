@@ -1,11 +1,11 @@
-// Auto-generated 2026-07-05 22:28 UTC
+// Auto-generated 2026-07-06 09:14 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-07-05 22:28 UTC",
+  "UPDATED": "2026-07-06 09:14 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-07-05 22:28 UTC"
+    "through": "2026-07-06 09:14 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -83,15 +83,15 @@ window.FOOTBALL_DATA = {
         "secondary": "#CE1124"
       },
       "rank": 4,
-      "elo": 2036,
-      "eloScore": 86.5,
+      "elo": 2056,
+      "eloScore": 88.5,
       "sourceRank": 4,
       "worldCups": 1,
       "continentalTitles": 0,
       "note": "Finalista de Euro; rating alto por consistencia ante élite UEFA.",
       "eloPrev": 2017,
-      "recentDelta": 19.0,
-      "recentMatches": 4
+      "recentDelta": 38.8,
+      "recentMatches": 5
     },
     {
       "id": "portugal",
@@ -220,6 +220,35 @@ window.FOOTBALL_DATA = {
     }
   ],
   "RECENT_MATCHES": [
+    {
+      "id": "760505",
+      "date": "2026-07-06",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "ENG"
+      ],
+      "home": {
+        "code": "MEX",
+        "name": "México",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png",
+        "score": 2,
+        "eloBefore": 1913,
+        "eloAfter": 1893,
+        "delta": -19.8,
+        "result": "L"
+      },
+      "away": {
+        "code": "ENG",
+        "name": "Inglaterra",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+        "score": 3,
+        "eloBefore": 2036,
+        "eloAfter": 2056,
+        "delta": 19.8,
+        "result": "W"
+      }
+    },
     {
       "id": "760504",
       "date": "2026-07-05",
@@ -1672,17 +1701,17 @@ window.FOOTBALL_DATA = {
           "secondary": "#CE1124"
         },
         "rank": 4,
-        "elo": 2036,
-        "eloScore": 86.5,
+        "elo": 2056,
+        "eloScore": 88.5,
         "sourceRank": 4,
         "worldCups": 1,
         "continentalTitles": 0,
         "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
         "eloPrev": 2017,
-        "recentDelta": 19.0,
-        "recentMatches": 4,
+        "recentDelta": 38.8,
+        "recentMatches": 5,
         "dynastyPotential": 100.0,
-        "rawDynastyPotential": 55.9,
+        "rawDynastyPotential": 57.0,
         "gapToDynastyTop10": 0.0,
         "cycleYears": 2.4,
         "currentWorldCups": 0,

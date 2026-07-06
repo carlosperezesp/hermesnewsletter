@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-05 22:29 UTC",
+  "UPDATED": "2026-07-06 09:14 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Mid-Ohio:Pato O'Ward",
@@ -59,30 +59,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-22"
     },
     {
-      "id": "motogp:win:Czech Republic motorcycle Grand Prix:Fabio Di Giannantonio",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "text": "Fabio Di Giannantonio ganó el Czech Republic motorcycle Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-06-21"
-    },
-    {
-      "id": "indycar:win:Grand Prix of Road America:Christian Lundgaard",
-      "sport": "indycar",
-      "detail": "IndyCar",
-      "text": "Christian Lundgaard ganó en Grand Prix of Road America",
-      "weight": 100,
-      "firstSeen": "2026-06-21"
-    },
-    {
-      "id": "nascar:win:NASCAR Cup Series at San Diego:Current Leader:",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "text": "Current Leader: ganó en Naval Base Coronado",
-      "weight": 100,
-      "firstSeen": "2026-06-21"
-    },
-    {
       "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
       "sport": "mlb",
       "detail": "MLB",
@@ -136,6 +112,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-29"
     },
     {
+      "id": "rank:golf:CURRENT:in:Chris Gotterup",
+      "sport": "golf",
+      "detail": "Golf",
+      "anchor": "golf-nivel-actual",
+      "text": "Chris Gotterup entra en el top-10 · Nivel actual",
+      "weight": 84,
+      "firstSeen": "2026-07-06"
+    },
+    {
+      "id": "rank:rugby:ROAD_TO_GLORY.dynasties:era:in:Ireland (2022-2024)",
+      "sport": "rugby",
+      "detail": "Rugby",
+      "anchor": "rugby-dinastias",
+      "text": "Ireland (2022-2024) entra en el top-10 · dinastías",
+      "weight": 84,
+      "firstSeen": "2026-07-06"
+    },
+    {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Willson Contreras",
       "sport": "mlb",
       "detail": "MLB",
@@ -159,15 +153,6 @@ window.GLORY_DATA = {
       "detail": "AFL",
       "anchor": "afl-clasificacion",
       "text": "Carlton entra en el top-10 · clasificación",
-      "weight": 84,
-      "firstSeen": "2026-07-04"
-    },
-    {
-      "id": "rank:golf:CURRENT:in:Tommy Fleetwood",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Tommy Fleetwood entra en el top-10 · Nivel actual",
       "weight": 84,
       "firstSeen": "2026-07-04"
     },
@@ -233,6 +218,15 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-wta",
       "firstSeen": "2026-06-22"
+    },
+    {
+      "id": "rank:rugby:ROAD_TO_GLORY.dynasties:era:out:Scotland (1896-1900)",
+      "sport": "rugby",
+      "detail": "Rugby",
+      "anchor": "rugby-dinastias",
+      "text": "Scotland (1896-1900) cae del top-10 · dinastías",
+      "weight": 74,
+      "firstSeen": "2026-07-06"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:out:Aaron Judge",
@@ -319,66 +313,6 @@ window.GLORY_DATA = {
         }
       ],
       "firstSeen": "2026-06-18"
-    },
-    {
-      "id": "nba:champ:NY:2025-26",
-      "sport": "nba",
-      "competition": "NBA",
-      "champion": "Knicks se proclama campeón (4-1 a Spurs)",
-      "scopeLabel": "Top 5 de los playoffs",
-      "top5": [
-        {
-          "name": "Nikola Jokic",
-          "score": 100
-        },
-        {
-          "name": "Cade Cunningham",
-          "score": 95
-        },
-        {
-          "name": "Paolo Banchero",
-          "score": 95
-        },
-        {
-          "name": "Shai Gilgeous-Alexander",
-          "score": 93
-        },
-        {
-          "name": "Jalen Brunson",
-          "score": 92
-        }
-      ],
-      "firstSeen": "2026-06-14"
-    },
-    {
-      "id": "cycling:gc:Giro d'Italia:Jonas Vingegaard",
-      "sport": "cycling",
-      "competition": "Ciclismo",
-      "champion": "Jonas Vingegaard gana el Giro d'Italia",
-      "scopeLabel": "General final",
-      "top5": [
-        {
-          "name": "Jonas Vingegaard",
-          "sub": "TVL men"
-        },
-        {
-          "name": "Felix Gall",
-          "sub": "DCT"
-        },
-        {
-          "name": "Jai Hindley",
-          "sub": "RBH"
-        },
-        {
-          "name": "Thymen Arensman",
-          "sub": "NCI"
-        },
-        {
-          "name": "Derek Gee-West",
-          "sub": "LTK men"
-        }
-      ],
-      "firstSeen": "2026-06-14"
     }
   ],
   "SNAPSHOTS": {
@@ -672,15 +606,15 @@ window.GLORY_DATA = {
     ],
     "indycar:DRIVERS": [
       "Álex Palou",
-      "David Malukas",
       "Kyle Kirkwood",
       "Christian Lundgaard",
+      "David Malukas",
       "Pato O'Ward",
+      "Josef Newgarden",
       "Felix Rosenqvist",
       "Scott McLaughlin",
-      "Josef Newgarden",
-      "Marcus Ericsson",
-      "Scott Dixon"
+      "Scott Dixon",
+      "Marcus Ericsson"
     ],
     "indycar:LEGENDS": [
       "A. J. Foyt",
@@ -700,11 +634,11 @@ window.GLORY_DATA = {
       "Cameron Young",
       "Wyndham Clark",
       "Collin Morikawa",
+      "Chris Gotterup",
       "Si Woo Kim",
       "Ludvig Åberg",
       "Sam Burns",
-      "Akshay Bhatia",
-      "Tommy Fleetwood"
+      "Akshay Bhatia"
     ],
     "golf:LEGENDS": [
       "Tiger Woods",
@@ -1147,8 +1081,8 @@ window.GLORY_DATA = {
       "South Africa (1949-1957)",
       "South Africa (1928-1949)",
       "New Zealand (1995-1998)",
-      "Wales (1902-1906)",
-      "Scotland (1896-1900)"
+      "Ireland (2022-2024)",
+      "Wales (1902-1906)"
     ],
     "football:ROAD_TO_GLORY.dynasties:era": [
       "Brazil (1958-1970)",

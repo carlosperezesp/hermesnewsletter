@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-05 22:27 UTC
+// Auto-generated 2026-07-06 09:12 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-05 22:27 UTC",
+  "UPDATED": "2026-07-06 09:12 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -16,7 +16,7 @@ window.GOLF_DATA = {
     "startLabel": "16 Jul",
     "endLabel": "19 Jul",
     "round": 0,
-    "daysToStart": 11,
+    "daysToStart": 10,
     "leaderboard": [],
     "favorites": [
       "Scottie Scheffler",
@@ -62,7 +62,7 @@ window.GOLF_DATA = {
         "country": "USA",
         "score": "-3",
         "today": "-3",
-        "nivel": 94,
+        "nivel": 93,
         "legend": 0.0
       },
       {
@@ -233,6 +233,29 @@ window.GOLF_DATA = {
       "prevRank": 5
     },
     {
+      "id": "chris_gotterup",
+      "name": "Chris Gotterup",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "PGA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#B22234",
+        "secondary": "#FFFFFF"
+      },
+      "activeScore": 96,
+      "legendScore": 0.0,
+      "stats": {
+        "majors": 0,
+        "wins": 3,
+        "topTen": 5,
+        "fedexRank": 6,
+        "tour": "PGA"
+      },
+      "prevRank": 12
+    },
+    {
       "id": "si_woo_kim",
       "name": "Si Woo Kim",
       "country": "KOR",
@@ -244,13 +267,13 @@ window.GOLF_DATA = {
         "primary": "#003478",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 96,
+      "activeScore": 95,
       "legendScore": 0.0,
       "stats": {
         "majors": 0,
         "wins": 0,
         "topTen": 8,
-        "fedexRank": 6,
+        "fedexRank": 7,
         "tour": "PGA"
       },
       "prevRank": 6
@@ -267,13 +290,13 @@ window.GOLF_DATA = {
         "primary": "#006AA7",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 95,
+      "activeScore": 94,
       "legendScore": 0.0,
       "stats": {
         "majors": 0,
         "wins": 0,
         "topTen": 6,
-        "fedexRank": 7,
+        "fedexRank": 8,
         "tour": "PGA"
       },
       "prevRank": 7
@@ -290,13 +313,13 @@ window.GOLF_DATA = {
         "primary": "#B22234",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 94,
+      "activeScore": 93,
       "legendScore": 0.0,
       "stats": {
         "majors": 0,
         "wins": 0,
         "topTen": 4,
-        "fedexRank": 8,
+        "fedexRank": 9,
         "tour": "PGA"
       },
       "prevRank": 8
@@ -313,13 +336,13 @@ window.GOLF_DATA = {
         "primary": "#B22234",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 93,
+      "activeScore": 92,
       "legendScore": 0.0,
       "stats": {
         "majors": 0,
         "wins": 1,
         "topTen": 4,
-        "fedexRank": 9,
+        "fedexRank": 10,
         "tour": "PGA"
       },
       "prevRank": 9
@@ -342,7 +365,7 @@ window.GOLF_DATA = {
         "majors": 0,
         "wins": 0,
         "topTen": 6,
-        "fedexRank": 10,
+        "fedexRank": 11,
         "tour": "PGA"
       },
       "prevRank": 10
@@ -359,39 +382,16 @@ window.GOLF_DATA = {
         "primary": "#B22234",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 92,
+      "activeScore": 91,
       "legendScore": 0.0,
       "stats": {
         "majors": 0,
         "wins": 1,
         "topTen": 4,
-        "fedexRank": 11,
-        "tour": "PGA"
-      },
-      "prevRank": 11
-    },
-    {
-      "id": "chris_gotterup",
-      "name": "Chris Gotterup",
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "PGA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#B22234",
-        "secondary": "#FFFFFF"
-      },
-      "activeScore": 91,
-      "legendScore": 0.0,
-      "stats": {
-        "majors": 0,
-        "wins": 2,
-        "topTen": 4,
         "fedexRank": 12,
         "tour": "PGA"
       },
-      "prevRank": 12
+      "prevRank": 11
     }
   ],
   "PROSPECTS": [
@@ -407,7 +407,7 @@ window.GOLF_DATA = {
         "primary": "#006AA7",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 95,
+      "activeScore": 94,
       "age": 26,
       "note": "Ya entre la élite a los 26"
     },
@@ -423,7 +423,7 @@ window.GOLF_DATA = {
         "primary": "#B22234",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 93,
+      "activeScore": 92,
       "age": 24,
       "note": "Ya entre la élite a los 24"
     },
@@ -471,7 +471,7 @@ window.GOLF_DATA = {
         "primary": "#007749",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 52,
+      "activeScore": 51,
       "age": 22,
       "note": "Promesa emergente a los 22"
     },
@@ -989,6 +989,31 @@ window.GOLF_DATA = {
       "note": "A 37.5 del top 10 histórico"
     },
     {
+      "id": "chris_gotterup",
+      "name": "Chris Gotterup",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "PGA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#B22234",
+        "secondary": "#FFFFFF"
+      },
+      "activeScore": 96,
+      "legendScore": 0.0,
+      "stats": {
+        "majors": 0,
+        "wins": 3,
+        "topTen": 5,
+        "fedexRank": 6,
+        "tour": "PGA"
+      },
+      "prevRank": null,
+      "gapToTop10": 37.5,
+      "note": "A 37.5 del top 10 histórico"
+    },
+    {
       "id": "si_woo_kim",
       "name": "Si Woo Kim",
       "country": "KOR",
@@ -1000,13 +1025,13 @@ window.GOLF_DATA = {
         "primary": "#003478",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 96,
+      "activeScore": 95,
       "legendScore": 0.0,
       "stats": {
         "majors": 0,
         "wins": 0,
         "topTen": 8,
-        "fedexRank": 6,
+        "fedexRank": 7,
         "tour": "PGA"
       },
       "prevRank": 6,
@@ -1025,13 +1050,13 @@ window.GOLF_DATA = {
         "primary": "#006AA7",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 95,
+      "activeScore": 94,
       "legendScore": 0.0,
       "stats": {
         "majors": 0,
         "wins": 0,
         "topTen": 6,
-        "fedexRank": 7,
+        "fedexRank": 8,
         "tour": "PGA"
       },
       "prevRank": 7,
@@ -1050,13 +1075,13 @@ window.GOLF_DATA = {
         "primary": "#B22234",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 94,
+      "activeScore": 93,
       "legendScore": 0.0,
       "stats": {
         "majors": 0,
         "wins": 0,
         "topTen": 4,
-        "fedexRank": 8,
+        "fedexRank": 9,
         "tour": "PGA"
       },
       "prevRank": 8,
@@ -1075,41 +1100,16 @@ window.GOLF_DATA = {
         "primary": "#B22234",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 93,
+      "activeScore": 92,
       "legendScore": 0.0,
       "stats": {
         "majors": 0,
         "wins": 1,
         "topTen": 4,
-        "fedexRank": 9,
-        "tour": "PGA"
-      },
-      "prevRank": 9,
-      "gapToTop10": 37.5,
-      "note": "A 37.5 del top 10 histórico"
-    },
-    {
-      "id": "tommy_fleetwood",
-      "name": "Tommy Fleetwood",
-      "country": "ENG",
-      "logo": "https://flagcdn.com/24x18/gb-eng.png",
-      "teamCode": "PGA",
-      "primary": "#CE1124",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#CE1124",
-        "secondary": "#FFFFFF"
-      },
-      "activeScore": 92,
-      "legendScore": 0.0,
-      "stats": {
-        "majors": 0,
-        "wins": 0,
-        "topTen": 6,
         "fedexRank": 10,
         "tour": "PGA"
       },
-      "prevRank": 10,
+      "prevRank": 9,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     }

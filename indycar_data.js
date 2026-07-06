@@ -1,5 +1,5 @@
 window.INDYCAR_DATA = {
-  "UPDATED": "2026-07-05 22:27 UTC",
+  "UPDATED": "2026-07-06 09:11 UTC",
   "SEASON": 2026,
   "ROUND": 11,
   "TOTAL_ROUNDS": 19,
@@ -21,41 +21,18 @@ window.INDYCAR_DATA = {
         "primary": "#D71920",
         "secondary": "#FFFFFF"
       },
-      "points": 374.0,
-      "score": 36.5,
+      "points": 404.0,
+      "score": 39.4,
       "legendScore": 45.7,
       "age": 29,
       "prevRank": 1,
       "stats": {
-        "pts": 374.0
-      }
-    },
-    {
-      "id": "5706",
-      "position": 2,
-      "name": "David Malukas",
-      "country": "USA",
-      "team": "A. J. Foyt Racing",
-      "teamCode": "A.",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "primary": "#C8102E",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#C8102E",
-        "secondary": "#FFFFFF"
-      },
-      "points": 314.0,
-      "score": 30.6,
-      "legendScore": 0.2,
-      "age": null,
-      "prevRank": 2,
-      "stats": {
-        "pts": 314.0
+        "pts": 404.0
       }
     },
     {
       "id": "5704",
-      "position": 3,
+      "position": 2,
       "name": "Kyle Kirkwood",
       "country": "USA",
       "team": "Andretti Global",
@@ -67,18 +44,18 @@ window.INDYCAR_DATA = {
         "primary": "#003DA5",
         "secondary": "#FFFFFF"
       },
-      "points": 313.0,
-      "score": 30.5,
+      "points": 348.0,
+      "score": 33.9,
       "legendScore": 1.6,
       "age": null,
       "prevRank": 3,
       "stats": {
-        "pts": 313.0
+        "pts": 348.0
       }
     },
     {
       "id": "5691",
-      "position": 4,
+      "position": 3,
       "name": "Christian Lundgaard",
       "country": "DEN",
       "team": "Arrow McLaren",
@@ -90,13 +67,36 @@ window.INDYCAR_DATA = {
         "primary": "#FF8700",
         "secondary": "#111111"
       },
-      "points": 297.0,
-      "score": 28.9,
+      "points": 339.0,
+      "score": 33.0,
       "legendScore": 0.0,
       "age": null,
       "prevRank": 4,
       "stats": {
-        "pts": 297.0
+        "pts": 339.0
+      }
+    },
+    {
+      "id": "5706",
+      "position": 4,
+      "name": "David Malukas",
+      "country": "USA",
+      "team": "A. J. Foyt Racing",
+      "teamCode": "A.",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "primary": "#C8102E",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#FFFFFF"
+      },
+      "points": 338.0,
+      "score": 32.9,
+      "legendScore": 0.2,
+      "age": null,
+      "prevRank": 2,
+      "stats": {
+        "pts": 338.0
       }
     },
     {
@@ -113,64 +113,18 @@ window.INDYCAR_DATA = {
         "primary": "#FF8700",
         "secondary": "#111111"
       },
-      "points": 257.0,
-      "score": 25.0,
+      "points": 310.0,
+      "score": 30.2,
       "legendScore": 3.5,
       "age": 27,
       "prevRank": 5,
       "stats": {
-        "pts": 257.0
-      }
-    },
-    {
-      "id": "5590",
-      "position": 6,
-      "name": "Felix Rosenqvist",
-      "country": "SWE",
-      "team": "Meyer Shank Racing",
-      "teamCode": "MEYER",
-      "logo": "https://flagcdn.com/24x18/se.png",
-      "primary": "#EE2737",
-      "secondary": "#111111",
-      "colors": {
-        "primary": "#EE2737",
-        "secondary": "#111111"
-      },
-      "points": 248.0,
-      "score": 24.2,
-      "legendScore": 1.3,
-      "age": null,
-      "prevRank": 6,
-      "stats": {
-        "pts": 248.0
-      }
-    },
-    {
-      "id": "5648",
-      "position": 6,
-      "name": "Scott McLaughlin",
-      "country": "NZL",
-      "team": "Team Penske",
-      "teamCode": "TEAM",
-      "logo": "https://flagcdn.com/24x18/nz.png",
-      "primary": "#E31837",
-      "secondary": "#002D72",
-      "colors": {
-        "primary": "#E31837",
-        "secondary": "#002D72"
-      },
-      "points": 248.0,
-      "score": 24.2,
-      "legendScore": 4.2,
-      "age": null,
-      "prevRank": 7,
-      "stats": {
-        "pts": 248.0
+        "pts": 310.0
       }
     },
     {
       "id": "4526",
-      "position": 8,
+      "position": 6,
       "name": "Josef Newgarden",
       "country": "USA",
       "team": "Team Penske",
@@ -182,41 +136,64 @@ window.INDYCAR_DATA = {
         "primary": "#E31837",
         "secondary": "#002D72"
       },
-      "points": 247.0,
-      "score": 24.1,
+      "points": 270.0,
+      "score": 26.3,
       "legendScore": 33.3,
       "age": null,
       "prevRank": 8,
       "stats": {
-        "pts": 247.0
+        "pts": 270.0
       }
     },
     {
-      "id": "4622",
-      "position": 9,
-      "name": "Marcus Ericsson",
+      "id": "5590",
+      "position": 7,
+      "name": "Felix Rosenqvist",
       "country": "SWE",
-      "team": "Andretti Global",
-      "teamCode": "ANDRETTI",
+      "team": "Meyer Shank Racing",
+      "teamCode": "MEYER",
       "logo": "https://flagcdn.com/24x18/se.png",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
+      "primary": "#EE2737",
+      "secondary": "#111111",
       "colors": {
-        "primary": "#003DA5",
-        "secondary": "#FFFFFF"
+        "primary": "#EE2737",
+        "secondary": "#111111"
       },
-      "points": 213.0,
-      "score": 20.8,
-      "legendScore": 1.4,
-      "age": 35,
-      "prevRank": 9,
+      "points": 265.0,
+      "score": 25.8,
+      "legendScore": 1.3,
+      "age": null,
+      "prevRank": 6,
       "stats": {
-        "pts": 213.0
+        "pts": 265.0
+      }
+    },
+    {
+      "id": "5648",
+      "position": 8,
+      "name": "Scott McLaughlin",
+      "country": "NZL",
+      "team": "Team Penske",
+      "teamCode": "TEAM",
+      "logo": "https://flagcdn.com/24x18/nz.png",
+      "primary": "#E31837",
+      "secondary": "#002D72",
+      "colors": {
+        "primary": "#E31837",
+        "secondary": "#002D72"
+      },
+      "points": 262.0,
+      "score": 25.5,
+      "legendScore": 4.2,
+      "age": null,
+      "prevRank": 7,
+      "stats": {
+        "pts": 262.0
       }
     },
     {
       "id": "518",
-      "position": 10,
+      "position": 9,
       "name": "Scott Dixon",
       "country": "NZL",
       "team": "Chip Ganassi Racing",
@@ -228,13 +205,59 @@ window.INDYCAR_DATA = {
         "primary": "#D71920",
         "secondary": "#FFFFFF"
       },
-      "points": 211.0,
-      "score": 20.6,
+      "points": 224.0,
+      "score": 21.8,
       "legendScore": 84.1,
       "age": 45,
       "prevRank": 10,
       "stats": {
-        "pts": 211.0
+        "pts": 224.0
+      }
+    },
+    {
+      "id": "4622",
+      "position": 10,
+      "name": "Marcus Ericsson",
+      "country": "SWE",
+      "team": "Andretti Global",
+      "teamCode": "ANDRETTI",
+      "logo": "https://flagcdn.com/24x18/se.png",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#003DA5",
+        "secondary": "#FFFFFF"
+      },
+      "points": 222.0,
+      "score": 21.6,
+      "legendScore": 1.4,
+      "age": 35,
+      "prevRank": 9,
+      "stats": {
+        "pts": 222.0
+      }
+    },
+    {
+      "id": "5634",
+      "position": 11,
+      "name": "Rinus VeeKay",
+      "country": "NED",
+      "team": "Dale Coyne Racing",
+      "teamCode": "DALE",
+      "logo": "https://flagcdn.com/24x18/nl.png",
+      "primary": "#111111",
+      "secondary": "#D71920",
+      "colors": {
+        "primary": "#111111",
+        "secondary": "#D71920"
+      },
+      "points": 219.0,
+      "score": 21.3,
+      "legendScore": 0.7,
+      "age": null,
+      "prevRank": 13,
+      "stats": {
+        "pts": 219.0
       }
     },
     {
@@ -251,18 +274,18 @@ window.INDYCAR_DATA = {
         "primary": "#EE2737",
         "secondary": "#111111"
       },
-      "points": 203.0,
-      "score": 19.8,
+      "points": 219.0,
+      "score": 21.3,
       "legendScore": 0.0,
       "age": 25,
       "prevRank": 11,
       "stats": {
-        "pts": 203.0
+        "pts": 219.0
       }
     },
     {
       "id": "872",
-      "position": 12,
+      "position": 13,
       "name": "Graham Rahal",
       "country": "USA",
       "team": "Rahal Letterman Lanigan",
@@ -274,36 +297,13 @@ window.INDYCAR_DATA = {
         "primary": "#005BBB",
         "secondary": "#FFFFFF"
       },
-      "points": 200.0,
-      "score": 19.5,
+      "points": 218.0,
+      "score": 21.2,
       "legendScore": 0.0,
       "age": 37,
       "prevRank": 12,
       "stats": {
-        "pts": 200.0
-      }
-    },
-    {
-      "id": "5634",
-      "position": 13,
-      "name": "Rinus VeeKay",
-      "country": "NED",
-      "team": "Dale Coyne Racing",
-      "teamCode": "DALE",
-      "logo": "https://flagcdn.com/24x18/nl.png",
-      "primary": "#111111",
-      "secondary": "#D71920",
-      "colors": {
-        "primary": "#111111",
-        "secondary": "#D71920"
-      },
-      "points": 187.0,
-      "score": 18.2,
-      "legendScore": 0.7,
-      "age": null,
-      "prevRank": 13,
-      "stats": {
-        "pts": 187.0
+        "pts": 218.0
       }
     },
     {
@@ -320,41 +320,18 @@ window.INDYCAR_DATA = {
         "primary": "#E31837",
         "secondary": "#002D72"
       },
-      "points": 180.0,
-      "score": 17.5,
+      "points": 209.0,
+      "score": 20.4,
       "legendScore": 46.0,
       "age": 45,
       "prevRank": 14,
       "stats": {
-        "pts": 180.0
-      }
-    },
-    {
-      "id": "4667",
-      "position": 14,
-      "name": "Alexander Rossi",
-      "country": "USA",
-      "team": "Ed Carpenter Racing",
-      "teamCode": "ED",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "primary": "#005EB8",
-      "secondary": "#F2A900",
-      "colors": {
-        "primary": "#005EB8",
-        "secondary": "#F2A900"
-      },
-      "points": 180.0,
-      "score": 17.5,
-      "legendScore": 0.0,
-      "age": 34,
-      "prevRank": 15,
-      "stats": {
-        "pts": 180.0
+        "pts": 209.0
       }
     },
     {
       "id": "5798",
-      "position": 16,
+      "position": 15,
       "name": "Kyffin Simpson",
       "country": "CAY",
       "team": "Chip Ganassi Racing",
@@ -366,13 +343,36 @@ window.INDYCAR_DATA = {
         "primary": "#D71920",
         "secondary": "#FFFFFF"
       },
-      "points": 179.0,
-      "score": 17.4,
+      "points": 194.0,
+      "score": 18.9,
       "legendScore": 0.0,
       "age": 21,
       "prevRank": 16,
       "stats": {
-        "pts": 179.0
+        "pts": 194.0
+      }
+    },
+    {
+      "id": "4667",
+      "position": 16,
+      "name": "Alexander Rossi",
+      "country": "USA",
+      "team": "Ed Carpenter Racing",
+      "teamCode": "ED",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "primary": "#005EB8",
+      "secondary": "#F2A900",
+      "colors": {
+        "primary": "#005EB8",
+        "secondary": "#F2A900"
+      },
+      "points": 190.0,
+      "score": 18.5,
+      "legendScore": 0.0,
+      "age": 34,
+      "prevRank": 15,
+      "stats": {
+        "pts": 190.0
       }
     },
     {
@@ -389,13 +389,13 @@ window.INDYCAR_DATA = {
         "primary": "#C8102E",
         "secondary": "#FFFFFF"
       },
-      "points": 168.0,
-      "score": 16.4,
+      "points": 179.0,
+      "score": 17.4,
       "legendScore": 0.0,
       "age": null,
       "prevRank": 17,
       "stats": {
-        "pts": 168.0
+        "pts": 179.0
       }
     },
     {
@@ -412,13 +412,13 @@ window.INDYCAR_DATA = {
         "primary": "#005BBB",
         "secondary": "#FFFFFF"
       },
-      "points": 147.0,
-      "score": 14.3,
+      "points": 159.0,
+      "score": 15.5,
       "legendScore": 0.0,
       "age": 22,
       "prevRank": 18,
       "stats": {
-        "pts": 147.0
+        "pts": 159.0
       }
     },
     {
@@ -435,41 +435,18 @@ window.INDYCAR_DATA = {
         "primary": "#BA0C2F",
         "secondary": "#FFFFFF"
       },
-      "points": 143.0,
-      "score": 13.9,
+      "points": 148.0,
+      "score": 14.4,
       "legendScore": 0.0,
       "age": 23,
       "prevRank": 19,
       "stats": {
-        "pts": 143.0
-      }
-    },
-    {
-      "id": "4374",
-      "position": 20,
-      "name": "Romain Grosjean",
-      "country": "FRA",
-      "team": "Prema Racing",
-      "teamCode": "PREMA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "primary": "#C8002F",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#C8002F",
-        "secondary": "#FFFFFF"
-      },
-      "points": 132.0,
-      "score": 12.9,
-      "legendScore": 0.0,
-      "age": 40,
-      "prevRank": 20,
-      "stats": {
-        "pts": 132.0
+        "pts": 148.0
       }
     },
     {
       "id": "5810",
-      "position": 21,
+      "position": 20,
       "name": "Nolan Siegel",
       "country": "USA",
       "team": "Arrow McLaren",
@@ -481,18 +458,18 @@ window.INDYCAR_DATA = {
         "primary": "#FF8700",
         "secondary": "#111111"
       },
-      "points": 125.0,
-      "score": 12.2,
+      "points": 145.0,
+      "score": 14.1,
       "legendScore": 0.0,
       "age": 21,
       "prevRank": 21,
       "stats": {
-        "pts": 125.0
+        "pts": 145.0
       }
     },
     {
       "id": "5797",
-      "position": 22,
+      "position": 21,
       "name": "Christian Rasmussen",
       "country": "DEN",
       "team": "Ed Carpenter Racing",
@@ -504,13 +481,36 @@ window.INDYCAR_DATA = {
         "primary": "#005EB8",
         "secondary": "#F2A900"
       },
-      "points": 117.0,
-      "score": 11.4,
+      "points": 143.0,
+      "score": 13.9,
       "legendScore": 0.0,
       "age": 26,
       "prevRank": 22,
       "stats": {
-        "pts": 117.0
+        "pts": 143.0
+      }
+    },
+    {
+      "id": "4374",
+      "position": 22,
+      "name": "Romain Grosjean",
+      "country": "FRA",
+      "team": "Prema Racing",
+      "teamCode": "PREMA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "primary": "#C8002F",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#C8002F",
+        "secondary": "#FFFFFF"
+      },
+      "points": 139.0,
+      "score": 13.5,
+      "legendScore": 0.0,
+      "age": 40,
+      "prevRank": 20,
+      "stats": {
+        "pts": 139.0
       }
     },
     {
@@ -527,13 +527,13 @@ window.INDYCAR_DATA = {
         "primary": "#009C3B",
         "secondary": "#FFFFFF"
       },
-      "points": 113.0,
-      "score": 11.0,
+      "points": 132.0,
+      "score": 12.9,
       "legendScore": 0.0,
       "age": null,
       "prevRank": 23,
       "stats": {
-        "pts": 113.0
+        "pts": 132.0
       }
     },
     {
@@ -550,18 +550,18 @@ window.INDYCAR_DATA = {
         "primary": "#C8002F",
         "secondary": "#FFFFFF"
       },
-      "points": 102.0,
-      "score": 9.9,
+      "points": 108.0,
+      "score": 10.5,
       "legendScore": 0.0,
       "age": 27,
       "prevRank": 24,
       "stats": {
-        "pts": 102.0
+        "pts": 108.0
       }
     },
     {
       "id": "5750",
-      "position": 25,
+      "position": 24,
       "name": "Sting Ray Robb",
       "country": "USA",
       "team": "Juncos Hollinger Racing",
@@ -573,13 +573,13 @@ window.INDYCAR_DATA = {
         "primary": "#1C8B43",
         "secondary": "#111111"
       },
-      "points": 100.0,
-      "score": 9.7,
+      "points": 108.0,
+      "score": 10.5,
       "legendScore": 0.0,
       "age": 24,
       "prevRank": 25,
       "stats": {
-        "pts": 100.0
+        "pts": 108.0
       }
     },
     {
@@ -781,7 +781,7 @@ window.INDYCAR_DATA = {
         "primary": "#EE2737",
         "secondary": "#111111"
       },
-      "score": 19.8,
+      "score": 21.3,
       "position": 11,
       "age": 25,
       "note": "Irrumpe a los 25 (P11)"
@@ -799,10 +799,10 @@ window.INDYCAR_DATA = {
         "primary": "#D71920",
         "secondary": "#FFFFFF"
       },
-      "score": 17.4,
-      "position": 16,
+      "score": 18.9,
+      "position": 15,
       "age": 21,
-      "note": "Irrumpe a los 21 (P16)"
+      "note": "Irrumpe a los 21 (P15)"
     },
     {
       "id": "5842",
@@ -817,7 +817,7 @@ window.INDYCAR_DATA = {
         "primary": "#005BBB",
         "secondary": "#FFFFFF"
       },
-      "score": 14.3,
+      "score": 15.5,
       "position": 18,
       "age": 22,
       "note": "Irrumpe a los 22 (P18)"
@@ -835,7 +835,7 @@ window.INDYCAR_DATA = {
         "primary": "#BA0C2F",
         "secondary": "#FFFFFF"
       },
-      "score": 13.9,
+      "score": 14.4,
       "position": 19,
       "age": 23,
       "note": "Irrumpe a los 23 (P19)"
@@ -853,10 +853,10 @@ window.INDYCAR_DATA = {
         "primary": "#FF8700",
         "secondary": "#111111"
       },
-      "score": 12.2,
-      "position": 21,
+      "score": 14.1,
+      "position": 20,
       "age": 21,
-      "note": "Irrumpe a los 21 (P21)"
+      "note": "Irrumpe a los 21 (P20)"
     },
     {
       "id": "5750",
@@ -871,10 +871,10 @@ window.INDYCAR_DATA = {
         "primary": "#1C8B43",
         "secondary": "#111111"
       },
-      "score": 9.7,
-      "position": 25,
+      "score": 10.5,
+      "position": 24,
       "age": 24,
-      "note": "Irrumpe a los 24 (P25)"
+      "note": "Irrumpe a los 24 (P24)"
     }
   ],
   "LEGEND_CHASE": [

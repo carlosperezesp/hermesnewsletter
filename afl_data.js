@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-05 22:27 UTC
+// Auto-generated 2026-07-06 09:11 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-05 22:27 UTC",
+  "UPDATED": "2026-07-06 09:11 UTC",
   "SEASON": "2026",
   "ROUND": 17,
   "IMPORTANCE": 8.1,
@@ -229,12 +229,12 @@ window.AFL_DATA = {
       },
       "prevRank": 1,
       "stats": {
-        "games": 15,
-        "disposals": 411,
+        "games": 16,
+        "disposals": 430,
         "goals": 20,
-        "tackles": 67,
-        "clearances": 89,
-        "contested": 174,
+        "tackles": 70,
+        "clearances": 98,
+        "contested": 183,
         "marks": 62,
         "hitouts": 4
       },
@@ -257,17 +257,17 @@ window.AFL_DATA = {
       },
       "prevRank": 2,
       "stats": {
-        "games": 15,
-        "disposals": 475,
+        "games": 16,
+        "disposals": 507,
         "goals": 3,
-        "tackles": 77,
-        "clearances": 116,
-        "contested": 226,
-        "marks": 44,
+        "tackles": 82,
+        "clearances": 126,
+        "contested": 243,
+        "marks": 47,
         "hitouts": 0
       },
       "rank": 2,
-      "score": 97.6,
+      "score": 99.3,
       "legendScore": 9.5
     },
     {
@@ -285,17 +285,17 @@ window.AFL_DATA = {
       },
       "prevRank": 3,
       "stats": {
-        "games": 13,
-        "disposals": 357,
-        "goals": 24,
-        "tackles": 70,
-        "clearances": 82,
-        "contested": 173,
-        "marks": 43,
+        "games": 14,
+        "disposals": 384,
+        "goals": 25,
+        "tackles": 76,
+        "clearances": 90,
+        "contested": 186,
+        "marks": 45,
         "hitouts": 0
       },
       "rank": 3,
-      "score": 94.3,
+      "score": 95.8,
       "legendScore": 0.0
     },
     {
@@ -313,18 +313,46 @@ window.AFL_DATA = {
       },
       "prevRank": 4,
       "stats": {
-        "games": 15,
-        "disposals": 402,
-        "goals": 9,
-        "tackles": 74,
-        "clearances": 106,
-        "contested": 219,
-        "marks": 38,
+        "games": 16,
+        "disposals": 427,
+        "goals": 10,
+        "tackles": 77,
+        "clearances": 112,
+        "contested": 234,
+        "marks": 42,
         "hitouts": 2
       },
       "rank": 4,
-      "score": 94.2,
+      "score": 95.3,
       "legendScore": 33.7
+    },
+    {
+      "id": "max_gawn",
+      "name": "Max Gawn",
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "team": "Melbourne",
+      "teamCode": "ME",
+      "primary": "#CC2031",
+      "secondary": "#013B9F",
+      "colors": {
+        "primary": "#CC2031",
+        "secondary": "#013B9F"
+      },
+      "prevRank": 7,
+      "stats": {
+        "games": 16,
+        "disposals": 346,
+        "goals": 10,
+        "tackles": 28,
+        "clearances": 104,
+        "contested": 220,
+        "marks": 66,
+        "hitouts": 507
+      },
+      "rank": 5,
+      "score": 93.9,
+      "legendScore": 0.0
     },
     {
       "id": "jai_newcombe",
@@ -341,17 +369,17 @@ window.AFL_DATA = {
       },
       "prevRank": 5,
       "stats": {
-        "games": 15,
-        "disposals": 403,
+        "games": 16,
+        "disposals": 430,
         "goals": 6,
-        "tackles": 60,
-        "clearances": 125,
-        "contested": 198,
-        "marks": 42,
-        "hitouts": 0
+        "tackles": 61,
+        "clearances": 131,
+        "contested": 211,
+        "marks": 48,
+        "hitouts": 1
       },
-      "rank": 5,
-      "score": 93.5,
+      "rank": 6,
+      "score": 93.7,
       "legendScore": 0.0
     },
     {
@@ -369,45 +397,17 @@ window.AFL_DATA = {
       },
       "prevRank": 6,
       "stats": {
-        "games": 15,
-        "disposals": 290,
-        "goals": 17,
-        "tackles": 79,
+        "games": 16,
+        "disposals": 302,
+        "goals": 19,
+        "tackles": 83,
         "clearances": 75,
-        "contested": 173,
-        "marks": 44,
-        "hitouts": 370
-      },
-      "rank": 6,
-      "score": 92.4,
-      "legendScore": 0.0
-    },
-    {
-      "id": "max_gawn",
-      "name": "Max Gawn",
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "team": "Melbourne",
-      "teamCode": "ME",
-      "primary": "#CC2031",
-      "secondary": "#013B9F",
-      "colors": {
-        "primary": "#CC2031",
-        "secondary": "#013B9F"
-      },
-      "prevRank": 7,
-      "stats": {
-        "games": 15,
-        "disposals": 324,
-        "goals": 10,
-        "tackles": 27,
-        "clearances": 94,
-        "contested": 206,
-        "marks": 61,
-        "hitouts": 476
+        "contested": 180,
+        "marks": 47,
+        "hitouts": 401
       },
       "rank": 7,
-      "score": 92.3,
+      "score": 92.0,
       "legendScore": 0.0
     },
     {
@@ -425,46 +425,18 @@ window.AFL_DATA = {
       },
       "prevRank": 8,
       "stats": {
-        "games": 15,
-        "disposals": 453,
+        "games": 16,
+        "disposals": 481,
         "goals": 4,
-        "tackles": 37,
-        "clearances": 111,
-        "contested": 193,
-        "marks": 83,
+        "tackles": 38,
+        "clearances": 117,
+        "contested": 206,
+        "marks": 87,
         "hitouts": 0
       },
       "rank": 8,
-      "score": 90.9,
+      "score": 90.8,
       "legendScore": 30.5
-    },
-    {
-      "id": "zak_butters",
-      "name": "Zak Butters",
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "team": "Port Adelaide",
-      "teamCode": "PA",
-      "primary": "#002B5C",
-      "secondary": "#CC2031",
-      "colors": {
-        "primary": "#002B5C",
-        "secondary": "#CC2031"
-      },
-      "prevRank": 9,
-      "stats": {
-        "games": 15,
-        "disposals": 454,
-        "goals": 5,
-        "tackles": 65,
-        "clearances": 94,
-        "contested": 191,
-        "marks": 49,
-        "hitouts": 0
-      },
-      "rank": 9,
-      "score": 89.7,
-      "legendScore": 6.3
     },
     {
       "id": "bailey_smith",
@@ -481,18 +453,46 @@ window.AFL_DATA = {
       },
       "prevRank": 10,
       "stats": {
-        "games": 14,
-        "disposals": 452,
+        "games": 15,
+        "disposals": 483,
         "goals": 6,
-        "tackles": 70,
-        "clearances": 77,
-        "contested": 163,
-        "marks": 58,
+        "tackles": 79,
+        "clearances": 84,
+        "contested": 177,
+        "marks": 61,
+        "hitouts": 0
+      },
+      "rank": 9,
+      "score": 90.4,
+      "legendScore": 0.0
+    },
+    {
+      "id": "zak_butters",
+      "name": "Zak Butters",
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "team": "Port Adelaide",
+      "teamCode": "PA",
+      "primary": "#002B5C",
+      "secondary": "#CC2031",
+      "colors": {
+        "primary": "#002B5C",
+        "secondary": "#CC2031"
+      },
+      "prevRank": 9,
+      "stats": {
+        "games": 16,
+        "disposals": 480,
+        "goals": 5,
+        "tackles": 68,
+        "clearances": 99,
+        "contested": 201,
+        "marks": 53,
         "hitouts": 0
       },
       "rank": 10,
-      "score": 87.5,
-      "legendScore": 0.0
+      "score": 89.2,
+      "legendScore": 6.3
     },
     {
       "id": "jason_horne-francis",
@@ -509,17 +509,17 @@ window.AFL_DATA = {
       },
       "prevRank": 11,
       "stats": {
-        "games": 15,
-        "disposals": 342,
-        "goals": 20,
-        "tackles": 51,
-        "clearances": 78,
-        "contested": 140,
-        "marks": 77,
+        "games": 16,
+        "disposals": 366,
+        "goals": 21,
+        "tackles": 55,
+        "clearances": 87,
+        "contested": 153,
+        "marks": 81,
         "hitouts": 0
       },
       "rank": 11,
-      "score": 86.9,
+      "score": 88.5,
       "legendScore": 0.0
     },
     {
@@ -537,17 +537,17 @@ window.AFL_DATA = {
       },
       "prevRank": 12,
       "stats": {
-        "games": 15,
-        "disposals": 470,
-        "goals": 6,
-        "tackles": 66,
-        "clearances": 73,
-        "contested": 154,
-        "marks": 102,
+        "games": 16,
+        "disposals": 510,
+        "goals": 7,
+        "tackles": 75,
+        "clearances": 79,
+        "contested": 166,
+        "marks": 109,
         "hitouts": 0
       },
       "rank": 12,
-      "score": 85.6,
+      "score": 88.3,
       "legendScore": 3.2
     },
     {
@@ -565,17 +565,17 @@ window.AFL_DATA = {
       },
       "prevRank": 13,
       "stats": {
-        "games": 14,
-        "disposals": 497,
-        "goals": 18,
-        "tackles": 31,
-        "clearances": 77,
-        "contested": 146,
-        "marks": 70,
+        "games": 15,
+        "disposals": 528,
+        "goals": 19,
+        "tackles": 36,
+        "clearances": 85,
+        "contested": 157,
+        "marks": 72,
         "hitouts": 0
       },
       "rank": 13,
-      "score": 85.3,
+      "score": 87.9,
       "legendScore": 23.2
     },
     {
@@ -593,17 +593,45 @@ window.AFL_DATA = {
       },
       "prevRank": 14,
       "stats": {
-        "games": 14,
-        "disposals": 286,
+        "games": 15,
+        "disposals": 303,
         "goals": 8,
-        "tackles": 57,
-        "clearances": 89,
-        "contested": 190,
-        "marks": 33,
-        "hitouts": 474
+        "tackles": 62,
+        "clearances": 95,
+        "contested": 199,
+        "marks": 35,
+        "hitouts": 534
       },
       "rank": 14,
-      "score": 84.8,
+      "score": 85.9,
+      "legendScore": 0.0
+    },
+    {
+      "id": "luke_davies-uniacke",
+      "name": "Luke Davies-Uniacke",
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "team": "North Melbourne",
+      "teamCode": "NM",
+      "primary": "#CC2031",
+      "secondary": "#013B9F",
+      "colors": {
+        "primary": "#CC2031",
+        "secondary": "#013B9F"
+      },
+      "prevRank": 19,
+      "stats": {
+        "games": 16,
+        "disposals": 406,
+        "goals": 5,
+        "tackles": 80,
+        "clearances": 90,
+        "contested": 173,
+        "marks": 67,
+        "hitouts": 0
+      },
+      "rank": 15,
+      "score": 85.3,
       "legendScore": 0.0
     },
     {
@@ -621,17 +649,45 @@ window.AFL_DATA = {
       },
       "prevRank": 15,
       "stats": {
-        "games": 15,
-        "disposals": 337,
+        "games": 16,
+        "disposals": 362,
         "goals": 22,
-        "tackles": 71,
-        "clearances": 70,
-        "contested": 133,
-        "marks": 44,
+        "tackles": 76,
+        "clearances": 77,
+        "contested": 142,
+        "marks": 48,
         "hitouts": 0
       },
-      "rank": 15,
-      "score": 84.6,
+      "rank": 16,
+      "score": 85.1,
+      "legendScore": 0.0
+    },
+    {
+      "id": "ed_richards",
+      "name": "Ed Richards",
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "team": "Western Bulldogs",
+      "teamCode": "WB",
+      "primary": "#0039A6",
+      "secondary": "#CC2031",
+      "colors": {
+        "primary": "#0039A6",
+        "secondary": "#CC2031"
+      },
+      "prevRank": 20,
+      "stats": {
+        "games": 15,
+        "disposals": 381,
+        "goals": 11,
+        "tackles": 74,
+        "clearances": 86,
+        "contested": 150,
+        "marks": 61,
+        "hitouts": 0
+      },
+      "rank": 17,
+      "score": 84.9,
       "legendScore": 0.0
     },
     {
@@ -649,16 +705,16 @@ window.AFL_DATA = {
       },
       "prevRank": 16,
       "stats": {
-        "games": 15,
-        "disposals": 339,
+        "games": 16,
+        "disposals": 359,
         "goals": 2,
-        "tackles": 115,
-        "clearances": 77,
-        "contested": 179,
-        "marks": 38,
+        "tackles": 121,
+        "clearances": 82,
+        "contested": 187,
+        "marks": 42,
         "hitouts": 1
       },
-      "rank": 16,
+      "rank": 18,
       "score": 84.5,
       "legendScore": 0.0
     },
@@ -677,16 +733,16 @@ window.AFL_DATA = {
       },
       "prevRank": 17,
       "stats": {
-        "games": 15,
-        "disposals": 359,
+        "games": 16,
+        "disposals": 380,
         "goals": 3,
-        "tackles": 91,
-        "clearances": 82,
-        "contested": 173,
-        "marks": 47,
+        "tackles": 99,
+        "clearances": 85,
+        "contested": 181,
+        "marks": 50,
         "hitouts": 0
       },
-      "rank": 17,
+      "rank": 19,
       "score": 84.4,
       "legendScore": 0.0
     },
@@ -705,101 +761,17 @@ window.AFL_DATA = {
       },
       "prevRank": 18,
       "stats": {
-        "games": 15,
-        "disposals": 342,
-        "goals": 22,
-        "tackles": 49,
-        "clearances": 61,
-        "contested": 137,
-        "marks": 45,
-        "hitouts": 0
-      },
-      "rank": 18,
-      "score": 83.7,
-      "legendScore": 0.0
-    },
-    {
-      "id": "luke_davies-uniacke",
-      "name": "Luke Davies-Uniacke",
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "team": "North Melbourne",
-      "teamCode": "NM",
-      "primary": "#CC2031",
-      "secondary": "#013B9F",
-      "colors": {
-        "primary": "#CC2031",
-        "secondary": "#013B9F"
-      },
-      "prevRank": 19,
-      "stats": {
-        "games": 15,
-        "disposals": 375,
-        "goals": 4,
-        "tackles": 79,
-        "clearances": 83,
-        "contested": 157,
-        "marks": 61,
-        "hitouts": 0
-      },
-      "rank": 19,
-      "score": 82.9,
-      "legendScore": 0.0
-    },
-    {
-      "id": "ed_richards",
-      "name": "Ed Richards",
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "team": "Western Bulldogs",
-      "teamCode": "WB",
-      "primary": "#0039A6",
-      "secondary": "#CC2031",
-      "colors": {
-        "primary": "#0039A6",
-        "secondary": "#CC2031"
-      },
-      "prevRank": 20,
-      "stats": {
-        "games": 14,
-        "disposals": 352,
-        "goals": 11,
-        "tackles": 68,
-        "clearances": 78,
-        "contested": 134,
-        "marks": 58,
+        "games": 16,
+        "disposals": 366,
+        "goals": 23,
+        "tackles": 54,
+        "clearances": 64,
+        "contested": 142,
+        "marks": 48,
         "hitouts": 0
       },
       "rank": 20,
-      "score": 82.7,
-      "legendScore": 0.0
-    },
-    {
-      "id": "hugo_garcia",
-      "name": "Hugo Garcia",
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "team": "St Kilda",
-      "teamCode": "SK",
-      "primary": "#ED1C2E",
-      "secondary": "#000000",
-      "colors": {
-        "primary": "#ED1C2E",
-        "secondary": "#000000"
-      },
-      "prevRank": 21,
-      "stats": {
-        "games": 15,
-        "disposals": 340,
-        "goals": 6,
-        "tackles": 80,
-        "clearances": 92,
-        "contested": 146,
-        "marks": 37,
-        "hitouts": 0
-      },
-      "rank": 21,
-      "score": 80.8,
+      "score": 83.8,
       "legendScore": 0.0
     },
     {
@@ -817,45 +789,45 @@ window.AFL_DATA = {
       },
       "prevRank": 22,
       "stats": {
-        "games": 13,
-        "disposals": 326,
-        "goals": 18,
-        "tackles": 34,
-        "clearances": 75,
-        "contested": 158,
-        "marks": 45,
+        "games": 14,
+        "disposals": 354,
+        "goals": 19,
+        "tackles": 35,
+        "clearances": 82,
+        "contested": 177,
+        "marks": 47,
         "hitouts": 0
       },
-      "rank": 22,
-      "score": 80.1,
+      "rank": 21,
+      "score": 83.2,
       "legendScore": 29.5
     },
     {
-      "id": "matthew_kennedy",
-      "name": "Matthew Kennedy",
+      "id": "hugo_garcia",
+      "name": "Hugo Garcia",
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
-      "team": "Western Bulldogs",
-      "teamCode": "WB",
-      "primary": "#0039A6",
-      "secondary": "#CC2031",
+      "team": "St Kilda",
+      "teamCode": "SK",
+      "primary": "#ED1C2E",
+      "secondary": "#000000",
       "colors": {
-        "primary": "#0039A6",
-        "secondary": "#CC2031"
+        "primary": "#ED1C2E",
+        "secondary": "#000000"
       },
-      "prevRank": 23,
+      "prevRank": 21,
       "stats": {
-        "games": 15,
-        "disposals": 381,
-        "goals": 3,
-        "tackles": 76,
-        "clearances": 89,
-        "contested": 154,
-        "marks": 65,
-        "hitouts": 2
+        "games": 16,
+        "disposals": 369,
+        "goals": 7,
+        "tackles": 85,
+        "clearances": 97,
+        "contested": 156,
+        "marks": 43,
+        "hitouts": 0
       },
-      "rank": 23,
-      "score": 79.3,
+      "rank": 22,
+      "score": 82.3,
       "legendScore": 0.0
     },
     {
@@ -873,101 +845,17 @@ window.AFL_DATA = {
       },
       "prevRank": 24,
       "stats": {
-        "games": 15,
-        "disposals": 315,
-        "goals": 24,
-        "tackles": 39,
-        "clearances": 49,
-        "contested": 132,
-        "marks": 54,
+        "games": 16,
+        "disposals": 341,
+        "goals": 27,
+        "tackles": 43,
+        "clearances": 54,
+        "contested": 145,
+        "marks": 59,
         "hitouts": 0
       },
-      "rank": 24,
-      "score": 78.3,
-      "legendScore": 0.0
-    },
-    {
-      "id": "harley_reid",
-      "name": "Harley Reid",
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "team": "West Coast",
-      "teamCode": "WC",
-      "primary": "#002B5C",
-      "secondary": "#F5C209",
-      "colors": {
-        "primary": "#002B5C",
-        "secondary": "#F5C209"
-      },
-      "prevRank": 25,
-      "stats": {
-        "games": 15,
-        "disposals": 354,
-        "goals": 12,
-        "tackles": 46,
-        "clearances": 88,
-        "contested": 181,
-        "marks": 30,
-        "hitouts": 0
-      },
-      "rank": 25,
-      "score": 78.1,
-      "legendScore": 0.0
-    },
-    {
-      "id": "shai_bolton",
-      "name": "Shai Bolton",
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "team": "Fremantle",
-      "teamCode": "FR",
-      "primary": "#2A0D54",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#2A0D54",
-        "secondary": "#FFFFFF"
-      },
-      "prevRank": 26,
-      "stats": {
-        "games": 15,
-        "disposals": 361,
-        "goals": 13,
-        "tackles": 49,
-        "clearances": 63,
-        "contested": 140,
-        "marks": 46,
-        "hitouts": 0
-      },
-      "rank": 26,
-      "score": 78.1,
-      "legendScore": 0.0
-    },
-    {
-      "id": "tim_taranto",
-      "name": "Tim Taranto",
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "team": "Richmond",
-      "teamCode": "RI",
-      "primary": "#FFD200",
-      "secondary": "#000000",
-      "colors": {
-        "primary": "#FFD200",
-        "secondary": "#000000"
-      },
-      "prevRank": 27,
-      "stats": {
-        "games": 13,
-        "disposals": 308,
-        "goals": 10,
-        "tackles": 59,
-        "clearances": 75,
-        "contested": 162,
-        "marks": 41,
-        "hitouts": 0
-      },
-      "rank": 27,
-      "score": 77.2,
+      "rank": 23,
+      "score": 81.6,
       "legendScore": 0.0
     },
     {
@@ -985,17 +873,129 @@ window.AFL_DATA = {
       },
       "prevRank": 28,
       "stats": {
-        "games": 15,
-        "disposals": 321,
+        "games": 16,
+        "disposals": 347,
         "goals": 6,
-        "tackles": 90,
-        "clearances": 78,
-        "contested": 131,
-        "marks": 41,
+        "tackles": 97,
+        "clearances": 86,
+        "contested": 144,
+        "marks": 43,
         "hitouts": 0
       },
+      "rank": 24,
+      "score": 80.3,
+      "legendScore": 0.0
+    },
+    {
+      "id": "harley_reid",
+      "name": "Harley Reid",
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "team": "West Coast",
+      "teamCode": "WC",
+      "primary": "#002B5C",
+      "secondary": "#F5C209",
+      "colors": {
+        "primary": "#002B5C",
+        "secondary": "#F5C209"
+      },
+      "prevRank": 25,
+      "stats": {
+        "games": 16,
+        "disposals": 377,
+        "goals": 12,
+        "tackles": 50,
+        "clearances": 94,
+        "contested": 199,
+        "marks": 31,
+        "hitouts": 0
+      },
+      "rank": 25,
+      "score": 79.5,
+      "legendScore": 0.0
+    },
+    {
+      "id": "shai_bolton",
+      "name": "Shai Bolton",
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "team": "Fremantle",
+      "teamCode": "FR",
+      "primary": "#2A0D54",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#2A0D54",
+        "secondary": "#FFFFFF"
+      },
+      "prevRank": 26,
+      "stats": {
+        "games": 16,
+        "disposals": 381,
+        "goals": 14,
+        "tackles": 55,
+        "clearances": 68,
+        "contested": 148,
+        "marks": 48,
+        "hitouts": 0
+      },
+      "rank": 26,
+      "score": 79.2,
+      "legendScore": 0.0
+    },
+    {
+      "id": "tim_taranto",
+      "name": "Tim Taranto",
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "team": "Richmond",
+      "teamCode": "RI",
+      "primary": "#FFD200",
+      "secondary": "#000000",
+      "colors": {
+        "primary": "#FFD200",
+        "secondary": "#000000"
+      },
+      "prevRank": 27,
+      "stats": {
+        "games": 14,
+        "disposals": 333,
+        "goals": 10,
+        "tackles": 64,
+        "clearances": 83,
+        "contested": 172,
+        "marks": 44,
+        "hitouts": 0
+      },
+      "rank": 27,
+      "score": 78.7,
+      "legendScore": 0.0
+    },
+    {
+      "id": "matthew_kennedy",
+      "name": "Matthew Kennedy",
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "team": "Western Bulldogs",
+      "teamCode": "WB",
+      "primary": "#0039A6",
+      "secondary": "#CC2031",
+      "colors": {
+        "primary": "#0039A6",
+        "secondary": "#CC2031"
+      },
+      "prevRank": 23,
+      "stats": {
+        "games": 16,
+        "disposals": 403,
+        "goals": 3,
+        "tackles": 78,
+        "clearances": 94,
+        "contested": 164,
+        "marks": 66,
+        "hitouts": 2
+      },
       "rank": 28,
-      "score": 77.2,
+      "score": 78.5,
       "legendScore": 0.0
     },
     {
@@ -1013,17 +1013,17 @@ window.AFL_DATA = {
       },
       "prevRank": 29,
       "stats": {
-        "games": 14,
-        "disposals": 404,
-        "goals": 4,
-        "tackles": 46,
-        "clearances": 75,
-        "contested": 134,
-        "marks": 72,
+        "games": 15,
+        "disposals": 424,
+        "goals": 5,
+        "tackles": 50,
+        "clearances": 80,
+        "contested": 143,
+        "marks": 77,
         "hitouts": 0
       },
       "rank": 29,
-      "score": 75.6,
+      "score": 76.6,
       "legendScore": 0.0
     },
     {
@@ -1041,17 +1041,17 @@ window.AFL_DATA = {
       },
       "prevRank": 30,
       "stats": {
-        "games": 15,
-        "disposals": 407,
+        "games": 16,
+        "disposals": 439,
         "goals": 7,
-        "tackles": 56,
-        "clearances": 74,
-        "contested": 130,
-        "marks": 73,
+        "tackles": 58,
+        "clearances": 80,
+        "contested": 143,
+        "marks": 80,
         "hitouts": 0
       },
       "rank": 30,
-      "score": 75.2,
+      "score": 76.6,
       "legendScore": 0.0
     }
   ],

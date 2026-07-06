@@ -25475,7 +25475,7 @@ window.NHL_DATA = {
       "name": "Jesperi Kotkaniemi",
       "pos": "C",
       "teamCode": "CAR",
-      "age": 25,
+      "age": 26,
       "country": "Finland",
       "birthCountry": "FIN",
       "colors": {
@@ -47979,10 +47979,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-05 22:27 UTC",
+  "LAST_UPDATE": "2026-07-06 09:11 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-05T22:26:31Z"
+    "standingsDateTimeUtc": "2026-07-06T09:10:15Z"
   }
 };
