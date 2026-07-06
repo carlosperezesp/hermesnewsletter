@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-06 16:06 UTC",
+  "UPDATED": "2026-07-06 16:45 UTC",
   "EVENTS": [
+    {
+      "id": "nascar:win:NASCAR Cup Series at Chicago:Chase Briscoe",
+      "sport": "nascar",
+      "detail": "NASCAR",
+      "text": "Chase Briscoe ganó en Chicagoland Speedway",
+      "weight": 100,
+      "firstSeen": "2026-07-06"
+    },
     {
       "id": "indycar:win:Grand Prix of Mid-Ohio:Pato O'Ward",
       "sport": "indycar",
@@ -112,6 +120,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-29"
     },
     {
+      "id": "rank:nascar:DRIVERS:in:Chase Briscoe",
+      "sport": "nascar",
+      "detail": "NASCAR",
+      "anchor": "nascar-cup-series",
+      "text": "Chase Briscoe entra en el top-10 · Cup Series",
+      "weight": 84,
+      "firstSeen": "2026-07-06"
+    },
+    {
       "id": "rank:golf:CURRENT:in:Chris Gotterup",
       "sport": "golf",
       "detail": "Golf",
@@ -209,6 +226,15 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-wta",
       "firstSeen": "2026-06-22"
+    },
+    {
+      "id": "rank:nascar:DRIVERS:out:Chris Buescher",
+      "sport": "nascar",
+      "detail": "NASCAR",
+      "anchor": "nascar-cup-series",
+      "text": "Chris Buescher cae del top-10 · Cup Series",
+      "weight": 74,
+      "firstSeen": "2026-07-06"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:out:Aaron Judge",
@@ -551,10 +577,10 @@ window.GLORY_DATA = {
       "Shane van Gisbergen",
       "Ryan Blaney",
       "Ty Gibbs",
+      "Chase Briscoe",
       "Carson Hocevar",
       "Daniel Suarez",
-      "Kyle Larson",
-      "Chris Buescher"
+      "Kyle Larson"
     ],
     "nascar:LEGENDS": [
       "Richard Petty",

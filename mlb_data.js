@@ -7647,7 +7647,7 @@ window.MLB_DATA = {
         "gap": 36.3,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 10
+        "prevRank": 9
       },
       {
         "id": 32655,
@@ -7669,7 +7669,7 @@ window.MLB_DATA = {
         "gap": 36.9,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 9
+        "prevRank": 10
       }
     ],
     "teams": [
@@ -8047,7 +8047,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-06 16:04 UTC",
+  "LAST_UPDATE": "2026-07-06 16:42 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
