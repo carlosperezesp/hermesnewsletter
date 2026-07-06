@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-06 11:10 UTC",
+  "UPDATED": "2026-07-06 16:06 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Mid-Ohio:Pato O'Ward",
@@ -409,8 +409,8 @@ window.GLORY_DATA = {
       "Yordan Alvarez",
       "Kyle Schwarber",
       "Jacob Misiorowski",
-      "Byron Buxton",
-      "Willson Contreras"
+      "Willson Contreras",
+      "Byron Buxton"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",

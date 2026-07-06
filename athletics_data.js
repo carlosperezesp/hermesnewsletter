@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-06 11:09 UTC
+// Auto-generated 2026-07-06 16:06 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-06 11:09 UTC",
+  "UPDATED": "2026-07-06 16:06 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -5632,6 +5632,26 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
+              "mark": "14.56",
+              "athlete": "Diana Ana Maria Ion",
+              "country": "ROU",
+              "flag": "https://flagcdn.com/24x18/ro.png",
+              "primary": "#002B7F",
+              "venue": "Stadionul de atletism Nicolae Mărășescu",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "14.52",
+              "athlete": "Ilona Masson",
+              "country": "BEL",
+              "flag": "https://flagcdn.com/24x18/be.png",
+              "primary": "#4A4745",
+              "venue": "Stade de Vongy",
+              "date": "05 JUL 2026"
+            },
+            {
+              "rank": 9,
               "mark": "14.51",
               "athlete": "Dariya Derkach",
               "country": "ITA",
@@ -5641,7 +5661,7 @@ window.ATHLETICS_DATA = {
               "date": "26 JUN 2026"
             },
             {
-              "rank": 8,
+              "rank": 10,
               "mark": "14.50",
               "athlete": "Ackelia Smith",
               "country": "JAM",
@@ -5649,26 +5669,6 @@ window.ATHLETICS_DATA = {
               "primary": "#000000",
               "venue": "Bislett Stadion",
               "date": "10 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "14.50",
-              "athlete": "Neja Filipič",
-              "country": "SLO",
-              "flag": "https://flagcdn.com/24x18/si.png",
-              "primary": "#4A4745",
-              "venue": "Štadion Kladivar",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "14.41",
-              "athlete": "Ivana Španović",
-              "country": "SRB",
-              "flag": "https://flagcdn.com/24x18/rs.png",
-              "primary": "#4A4745",
-              "venue": "Atletska dvorana",
-              "date": "28 JAN 2026"
             }
           ]
         }

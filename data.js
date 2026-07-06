@@ -5221,9 +5221,9 @@ window.NHL_DATA = {
       "name": "Vincent Trocheck",
       "pos": "C",
       "teamCode": "NYR",
-      "age": 32,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#0038a8",
         "secondary": "#ce1126"
@@ -6090,9 +6090,9 @@ window.NHL_DATA = {
       "name": "Rasmus Andersson",
       "pos": "D",
       "teamCode": "VGK",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 29,
+      "country": "Sweden",
+      "birthCountry": "SWE",
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
@@ -7006,9 +7006,9 @@ window.NHL_DATA = {
       "name": "Olli Maatta",
       "pos": "D",
       "teamCode": "CGY",
-      "age": 31,
-      "country": "Finland",
-      "birthCountry": "FIN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#c8102e",
         "secondary": "#f1be48"
@@ -8312,9 +8312,9 @@ window.NHL_DATA = {
       "name": "Blake Coleman",
       "pos": "LW",
       "teamCode": "CGY",
-      "age": 34,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#c8102e",
         "secondary": "#f1be48"
@@ -9417,9 +9417,9 @@ window.NHL_DATA = {
       "name": "Jamie Benn",
       "pos": "LW",
       "teamCode": "DAL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 36,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#006847",
         "secondary": "#8f8f8c"
@@ -10118,9 +10118,9 @@ window.NHL_DATA = {
       "name": "Corey Perry",
       "pos": "RW",
       "teamCode": "LAK",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 41,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#111111",
         "secondary": "#a2aaad"
@@ -14466,9 +14466,9 @@ window.NHL_DATA = {
       "name": "Jonatan Berggren",
       "pos": "RW",
       "teamCode": "STL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 25,
+      "country": "Sweden",
+      "birthCountry": "SWE",
       "colors": {
         "primary": "#002f87",
         "secondary": "#fcb514"
@@ -14490,7 +14490,8 @@ window.NHL_DATA = {
         45,
         47,
         55
-      ]
+      ],
+      "legendScore": 46.7
     },
     {
       "id": 8477953,
@@ -14499,9 +14500,9 @@ window.NHL_DATA = {
       "name": "Kasperi Kapanen",
       "pos": "RW",
       "teamCode": "EDM",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 29,
+      "country": "Finland",
+      "birthCountry": "FIN",
       "colors": {
         "primary": "#041e42",
         "secondary": "#ff4c00"
@@ -14698,9 +14699,9 @@ window.NHL_DATA = {
       "name": "Sean Durzi",
       "pos": "D",
       "teamCode": "UTA",
-      "age": 27,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#69b3e7",
         "secondary": "#010101"
@@ -15855,9 +15856,9 @@ window.NHL_DATA = {
       "name": "Tanner Laczynski",
       "pos": "C",
       "teamCode": "VGK",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 29,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
@@ -16393,9 +16394,9 @@ window.NHL_DATA = {
       "name": "Jonathan Drouin",
       "pos": "LW",
       "teamCode": "STL",
-      "age": 31,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#002f87",
         "secondary": "#fcb514"
@@ -17496,9 +17497,9 @@ window.NHL_DATA = {
       "name": "Darnell Nurse",
       "pos": "D",
       "teamCode": "EDM",
-      "age": 31,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#ff4c00"
@@ -18030,9 +18031,9 @@ window.NHL_DATA = {
       "name": "Joonas Korpisalo",
       "pos": "G",
       "teamCode": "BOS",
-      "age": 32,
-      "country": "Finland",
-      "birthCountry": "FIN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ffb81c",
         "secondary": "#111111"
@@ -18062,9 +18063,9 @@ window.NHL_DATA = {
       "name": "Jordan Harris",
       "pos": "D",
       "teamCode": "BOS",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 25,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#ffb81c",
         "secondary": "#111111"
@@ -18087,7 +18088,8 @@ window.NHL_DATA = {
         43,
         45,
         52
-      ]
+      ],
+      "legendScore": 45.1
     },
     {
       "id": 8482087,
@@ -20066,9 +20068,9 @@ window.NHL_DATA = {
       "name": "Carl Grundstrom",
       "pos": "RW",
       "teamCode": "PHI",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 28,
+      "country": "Sweden",
+      "birthCountry": "SWE",
       "colors": {
         "primary": "#f74902",
         "secondary": "#111111"
@@ -20570,9 +20572,9 @@ window.NHL_DATA = {
       "name": "Nick Foligno",
       "pos": "LW",
       "teamCode": "MIN",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 38,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#154734",
         "secondary": "#a6192e"
@@ -20772,9 +20774,9 @@ window.NHL_DATA = {
       "name": "Scott Laughton",
       "pos": "C",
       "teamCode": "LAK",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 32,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#111111",
         "secondary": "#a2aaad"
@@ -21796,9 +21798,9 @@ window.NHL_DATA = {
       "name": "Marcus Pettersson",
       "pos": "D",
       "teamCode": "VAN",
-      "age": 30,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#00843d"
@@ -21997,9 +21999,9 @@ window.NHL_DATA = {
       "name": "Nick Paul",
       "pos": "LW",
       "teamCode": "TBL",
-      "age": 31,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#002868",
         "secondary": "#ffffff"
@@ -22432,9 +22434,9 @@ window.NHL_DATA = {
       "name": "Shakir Mukhamadullin",
       "pos": "D",
       "teamCode": "SJS",
-      "age": 24,
-      "country": "Russia",
-      "birthCountry": "RUS",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#006d75",
         "secondary": "#ea7200"
@@ -22465,9 +22467,9 @@ window.NHL_DATA = {
       "name": "Spencer Stastney",
       "pos": "D",
       "teamCode": "EDM",
-      "age": 26,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#ff4c00"
@@ -22728,9 +22730,9 @@ window.NHL_DATA = {
       "name": "Will Borgen",
       "pos": "D",
       "teamCode": "NYR",
-      "age": 29,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#0038a8",
         "secondary": "#ce1126"
@@ -23523,9 +23525,9 @@ window.NHL_DATA = {
       "name": "Jake Middleton",
       "pos": "D",
       "teamCode": "MIN",
-      "age": 30,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#154734",
         "secondary": "#a6192e"
@@ -23590,9 +23592,9 @@ window.NHL_DATA = {
       "name": "Jonas Rondbjerg",
       "pos": "RW",
       "teamCode": "VGK",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 27,
+      "country": "Denmark",
+      "birthCountry": "DNK",
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
@@ -23689,9 +23691,9 @@ window.NHL_DATA = {
       "name": "Kevin Stenlund",
       "pos": "C",
       "teamCode": "UTA",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 29,
+      "country": "Sweden",
+      "birthCountry": "SWE",
       "colors": {
         "primary": "#69b3e7",
         "secondary": "#010101"
@@ -25044,9 +25046,9 @@ window.NHL_DATA = {
       "name": "Cole Schwindt",
       "pos": "RW",
       "teamCode": "FLA",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 25,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -25441,9 +25443,9 @@ window.NHL_DATA = {
       "name": "Jeremy Lauzon",
       "pos": "D",
       "teamCode": "VGK",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 29,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
@@ -26737,9 +26739,9 @@ window.NHL_DATA = {
       "name": "Donovan Sebrango",
       "pos": "D",
       "teamCode": "FLA",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 24,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -27266,9 +27268,9 @@ window.NHL_DATA = {
       "name": "Max Jones",
       "pos": "LW",
       "teamCode": "EDM",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 28,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#041e42",
         "secondary": "#ff4c00"
@@ -28524,9 +28526,9 @@ window.NHL_DATA = {
       "name": "Erik Gudbranson",
       "pos": "D",
       "teamCode": "CBJ",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 34,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#002654",
         "secondary": "#ce1126"
@@ -28989,9 +28991,9 @@ window.NHL_DATA = {
       "name": "Keegan Kolesar",
       "pos": "RW",
       "teamCode": "VGK",
-      "age": 29,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
@@ -29620,9 +29622,9 @@ window.NHL_DATA = {
       "name": "Zach Bogosian",
       "pos": "D",
       "teamCode": "MIN",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 35,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#154734",
         "secondary": "#a6192e"
@@ -33941,9 +33943,9 @@ window.NHL_DATA = {
       "name": "Dylan Coghlan",
       "pos": "D",
       "teamCode": "VGK",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 28,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
@@ -37008,9 +37010,9 @@ window.NHL_DATA = {
       "name": "Raphael Lavoie",
       "pos": "C",
       "teamCode": "VGK",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 25,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
@@ -39161,7 +39163,7 @@ window.NHL_DATA = {
       "country": "Russia",
       "birthCountry": "RUS",
       "birthDate": "1985-09-17",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8471214.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8471214.png",
       "currentScore": 68,
       "legendScore": 95.8,
       "colors": {
@@ -39479,7 +39481,7 @@ window.NHL_DATA = {
       "country": "Russia",
       "birthCountry": "RUS",
       "birthDate": "1991-10-30",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8478550.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8478550.png",
       "currentScore": 78,
       "legendScore": null,
       "colors": {
@@ -39668,7 +39670,7 @@ window.NHL_DATA = {
       "country": "Canada",
       "birthCountry": "CAN",
       "birthDate": "1997-01-13",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8478402.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8478402.png",
       "currentScore": 99,
       "legendScore": null,
       "colors": {
@@ -39856,7 +39858,7 @@ window.NHL_DATA = {
       "country": "Russia",
       "birthCountry": "RUS",
       "birthDate": "1997-04-26",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8478864.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8478864.png",
       "currentScore": 83,
       "legendScore": null,
       "colors": {
@@ -39967,7 +39969,7 @@ window.NHL_DATA = {
       "country": "Russia",
       "birthCountry": "RUS",
       "birthDate": "1986-07-31",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8471215.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8471215.png",
       "currentScore": 77,
       "legendScore": null,
       "colors": {
@@ -40668,7 +40670,7 @@ window.NHL_DATA = {
       "country": "Canada",
       "birthCountry": "CAN",
       "birthDate": "2006-06-13",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8484801.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8484801.png",
       "currentScore": 89,
       "legendScore": null,
       "colors": {
@@ -40727,7 +40729,7 @@ window.NHL_DATA = {
       "country": "Canada",
       "birthCountry": "CAN",
       "birthDate": "1987-08-07",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8471675.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8471675.png",
       "currentScore": 78,
       "legendScore": 96.2,
       "colors": {
@@ -41045,7 +41047,7 @@ window.NHL_DATA = {
       "country": "Canada",
       "birthCountry": "CAN",
       "birthDate": "1995-09-01",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/COL/8477492.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8477492.png",
       "currentScore": 100,
       "legendScore": null,
       "colors": {
@@ -41551,7 +41553,7 @@ window.NHL_DATA = {
       "country": "Germany",
       "birthCountry": "DEU",
       "birthDate": "1995-10-27",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8477934.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8477934.png",
       "currentScore": 92,
       "legendScore": null,
       "colors": {
@@ -41752,7 +41754,7 @@ window.NHL_DATA = {
       "country": "Canada",
       "birthCountry": "CAN",
       "birthDate": "1998-10-30",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/COL/8480069.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8480069.png",
       "currentScore": 81,
       "legendScore": null,
       "colors": {
@@ -41888,7 +41890,7 @@ window.NHL_DATA = {
       "country": "Czechia",
       "birthCountry": "CZE",
       "birthDate": "1996-05-25",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8477956.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8477956.png",
       "currentScore": 85,
       "legendScore": null,
       "colors": {
@@ -42089,7 +42091,7 @@ window.NHL_DATA = {
       "country": "United States",
       "birthCountry": "USA",
       "birthDate": "1996-10-28",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478403.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VGK/8478403.png",
       "currentScore": 85,
       "legendScore": null,
       "colors": {
@@ -42277,7 +42279,7 @@ window.NHL_DATA = {
       "country": "United States",
       "birthCountry": "USA",
       "birthDate": "2001-05-14",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8481559.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8481559.png",
       "currentScore": 84,
       "legendScore": null,
       "colors": {
@@ -42413,7 +42415,7 @@ window.NHL_DATA = {
       "country": "United States",
       "birthCountry": "USA",
       "birthDate": "1997-12-18",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/DET/8479337.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8479337.png",
       "currentScore": 77,
       "legendScore": null,
       "colors": {
@@ -42575,7 +42577,7 @@ window.NHL_DATA = {
       "country": "United States",
       "birthCountry": "USA",
       "birthDate": "1999-07-22",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8480027.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DAL/8480027.png",
       "currentScore": 83,
       "legendScore": null,
       "colors": {
@@ -42698,7 +42700,7 @@ window.NHL_DATA = {
       "country": "Canada",
       "birthCountry": "CAN",
       "birthDate": "2005-07-17",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8484144.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8484144.png",
       "currentScore": 78,
       "legendScore": null,
       "colors": {
@@ -43153,7 +43155,7 @@ window.NHL_DATA = {
       "country": "United States",
       "birthCountry": "USA",
       "birthDate": "1996-12-09",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8478398.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8478398.png",
       "currentScore": 80,
       "legendScore": null,
       "colors": {
@@ -43328,7 +43330,7 @@ window.NHL_DATA = {
       "country": "Canada",
       "birthCountry": "CAN",
       "birthDate": "2003-05-14",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8482740.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DAL/8482740.png",
       "currentScore": 77,
       "legendScore": null,
       "colors": {
@@ -43425,7 +43427,7 @@ window.NHL_DATA = {
       "country": "United States",
       "birthCountry": "USA",
       "birthDate": "2004-02-14",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8483457.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8483457.png",
       "currentScore": 76,
       "legendScore": null,
       "colors": {
@@ -43484,7 +43486,7 @@ window.NHL_DATA = {
       "country": "Sweden",
       "birthCountry": "SWE",
       "birthDate": "2004-12-26",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8484153.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8484153.png",
       "currentScore": 74,
       "legendScore": null,
       "colors": {
@@ -43556,7 +43558,7 @@ window.NHL_DATA = {
       "country": "Finland",
       "birthCountry": "FIN",
       "birthDate": "1996-10-29",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8478420.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DAL/8478420.png",
       "currentScore": 81,
       "legendScore": null,
       "colors": {
@@ -43757,7 +43759,7 @@ window.NHL_DATA = {
       "country": "Canada",
       "birthCountry": "CAN",
       "birthDate": "2002-02-01",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8482093.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8482093.png",
       "currentScore": 74,
       "legendScore": null,
       "colors": {
@@ -43867,7 +43869,7 @@ window.NHL_DATA = {
       "country": "Sweden",
       "birthCountry": "SWE",
       "birthDate": "2004-01-19",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8483445.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8483445.png",
       "currentScore": 72,
       "legendScore": null,
       "colors": {
@@ -43926,7 +43928,7 @@ window.NHL_DATA = {
       "country": "Canada",
       "birthCountry": "CAN",
       "birthDate": "2003-04-10",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8482699.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8482699.png",
       "currentScore": 73,
       "legendScore": null,
       "colors": {
@@ -44023,7 +44025,7 @@ window.NHL_DATA = {
       "country": "Sweden",
       "birthCountry": "SWE",
       "birthDate": "2002-03-28",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/DET/8482078.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8482078.png",
       "currentScore": 73,
       "legendScore": null,
       "colors": {
@@ -44133,7 +44135,7 @@ window.NHL_DATA = {
       "country": "United States",
       "birthCountry": "USA",
       "birthDate": "2001-04-05",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8481557.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8481557.png",
       "currentScore": 82,
       "legendScore": null,
       "colors": {
@@ -44243,7 +44245,7 @@ window.NHL_DATA = {
       "country": "Germany",
       "birthCountry": "DEU",
       "birthDate": "2002-01-15",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8482116.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8482116.png",
       "currentScore": 78,
       "legendScore": null,
       "colors": {
@@ -44366,7 +44368,7 @@ window.NHL_DATA = {
       "country": "Canada",
       "birthCountry": "CAN",
       "birthDate": "1993-03-15",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8476460.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8476460.png",
       "currentScore": 84,
       "legendScore": null,
       "colors": {
@@ -44580,7 +44582,7 @@ window.NHL_DATA = {
       "country": "Russia",
       "birthCountry": "RUS",
       "birthDate": "1993-06-17",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8476453.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8476453.png",
       "currentScore": 100,
       "legendScore": null,
       "colors": {
@@ -44781,7 +44783,7 @@ window.NHL_DATA = {
       "country": "United States",
       "birthCountry": "USA",
       "birthDate": "2001-01-02",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8481540.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8481540.png",
       "currentScore": 80,
       "legendScore": null,
       "colors": {
@@ -44904,7 +44906,7 @@ window.NHL_DATA = {
       "country": "Canada",
       "birthCountry": "CAN",
       "birthDate": "1992-05-13",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8475913.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VGK/8475913.png",
       "currentScore": 83,
       "legendScore": null,
       "colors": {
@@ -45131,7 +45133,7 @@ window.NHL_DATA = {
       "country": "United States",
       "birthCountry": "USA",
       "birthDate": "1997-12-11",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8479314.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8479314.png",
       "currentScore": 77,
       "legendScore": null,
       "colors": {
@@ -45306,7 +45308,7 @@ window.NHL_DATA = {
       "country": "United States",
       "birthCountry": "USA",
       "birthDate": "1997-07-19",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8478460.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8478460.png",
       "currentScore": 81,
       "legendScore": null,
       "colors": {
@@ -45481,7 +45483,7 @@ window.NHL_DATA = {
       "country": "Canada",
       "birthCountry": "CAN",
       "birthDate": "1999-08-10",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8480018.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8480018.png",
       "currentScore": 85,
       "legendScore": null,
       "colors": {
@@ -45617,7 +45619,7 @@ window.NHL_DATA = {
       "country": "United States",
       "birthCountry": "USA",
       "birthDate": "1998-07-29",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8479343.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8479343.png",
       "currentScore": 79,
       "legendScore": null,
       "colors": {
@@ -45779,7 +45781,7 @@ window.NHL_DATA = {
       "country": "United States",
       "birthCountry": "USA",
       "birthDate": "1994-10-06",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8477404.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8477404.png",
       "currentScore": 80,
       "legendScore": null,
       "colors": {
@@ -45967,7 +45969,7 @@ window.NHL_DATA = {
       "country": "Czechia",
       "birthCountry": "CZE",
       "birthDate": "1999-01-15",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/COL/8480039.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8480039.png",
       "currentScore": 89,
       "legendScore": null,
       "colors": {
@@ -46116,7 +46118,7 @@ window.NHL_DATA = {
       "country": "Canada",
       "birthCountry": "CAN",
       "birthDate": "1999-10-20",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8480803.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8480803.png",
       "currentScore": 83,
       "legendScore": null,
       "colors": {
@@ -46239,7 +46241,7 @@ window.NHL_DATA = {
       "country": "Canada",
       "birthCountry": "CAN",
       "birthDate": "1996-05-01",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8477939.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8477939.png",
       "currentScore": 80,
       "legendScore": null,
       "colors": {
@@ -46427,7 +46429,7 @@ window.NHL_DATA = {
       "country": "Canada",
       "birthCountry": "CAN",
       "birthDate": "1998-08-27",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8479542.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8479542.png",
       "currentScore": 80,
       "legendScore": null,
       "colors": {
@@ -47979,10 +47981,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-06 11:08 UTC",
+  "LAST_UPDATE": "2026-07-06 16:04 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-06T11:08:00Z"
+    "standingsDateTimeUtc": "2026-07-06T16:04:15Z"
   }
 };
