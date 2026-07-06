@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-06 09:14 UTC",
+  "UPDATED": "2026-07-06 11:10 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Mid-Ohio:Pato O'Ward",
@@ -121,15 +121,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-06"
     },
     {
-      "id": "rank:rugby:ROAD_TO_GLORY.dynasties:era:in:Ireland (2022-2024)",
-      "sport": "rugby",
-      "detail": "Rugby",
-      "anchor": "rugby-dinastias",
-      "text": "Ireland (2022-2024) entra en el top-10 · dinastías",
-      "weight": 84,
-      "firstSeen": "2026-07-06"
-    },
-    {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Willson Contreras",
       "sport": "mlb",
       "detail": "MLB",
@@ -220,15 +211,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-22"
     },
     {
-      "id": "rank:rugby:ROAD_TO_GLORY.dynasties:era:out:Scotland (1896-1900)",
-      "sport": "rugby",
-      "detail": "Rugby",
-      "anchor": "rugby-dinastias",
-      "text": "Scotland (1896-1900) cae del top-10 · dinastías",
-      "weight": 74,
-      "firstSeen": "2026-07-06"
-    },
-    {
       "id": "rank:mlb:ROAD_TO_GLORY.players:out:Aaron Judge",
       "sport": "mlb",
       "detail": "MLB",
@@ -284,6 +266,36 @@ window.GLORY_DATA = {
     }
   ],
   "REPORTS": [
+    {
+      "id": "nba:champ:NY:2025-26",
+      "sport": "nba",
+      "competition": "NBA",
+      "champion": "Knicks se proclama campeón (4-1 a Spurs)",
+      "scopeLabel": "Top 5 de los playoffs",
+      "top5": [
+        {
+          "name": "Nikola Jokic",
+          "score": 100
+        },
+        {
+          "name": "Cade Cunningham",
+          "score": 95
+        },
+        {
+          "name": "Paolo Banchero",
+          "score": 95
+        },
+        {
+          "name": "Shai Gilgeous-Alexander",
+          "score": 93
+        },
+        {
+          "name": "Jalen Brunson",
+          "score": 92
+        }
+      ],
+      "firstSeen": "2026-07-06"
+    },
     {
       "id": "nhl:champ:CAR:2025-26",
       "sport": "nhl",
@@ -414,10 +426,10 @@ window.GLORY_DATA = {
     ],
     "mlb:ROAD_TO_GLORY.youngProspects": [
       "Jacob Misiorowski",
+      "Jordan Walker",
       "James Wood",
       "Pete Crow-Armstrong",
       "Sal Stewart",
-      "Jordan Walker",
       "Junior Caminero",
       "Nick Kurtz",
       "CJ Abrams",
@@ -1081,8 +1093,8 @@ window.GLORY_DATA = {
       "South Africa (1949-1957)",
       "South Africa (1928-1949)",
       "New Zealand (1995-1998)",
-      "Ireland (2022-2024)",
-      "Wales (1902-1906)"
+      "Wales (1902-1906)",
+      "Scotland (1896-1900)"
     ],
     "football:ROAD_TO_GLORY.dynasties:era": [
       "Brazil (1958-1970)",
