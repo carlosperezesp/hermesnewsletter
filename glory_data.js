@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-07 10:05 UTC",
+  "UPDATED": "2026-07-07 15:35 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Chicago:Chase Briscoe",

@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-07 10:05 UTC
+// Auto-generated 2026-07-07 15:35 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-07 10:05 UTC",
+  "UPDATED": "2026-07-07 15:35 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -3203,7 +3203,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 53.8
@@ -5425,7 +5425,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 90.2
@@ -10947,9 +10947,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jan-Lennard Struff",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 7-6 (7-4) 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 100.0,
           "l_score": 53.8,
           "match_score": 100.0
@@ -10960,9 +10960,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jiri Lehecka",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 87.4,
           "l_score": 76.1,
           "match_score": 87.4
@@ -11056,9 +11056,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jessica Pegula",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 91.1,
           "l_score": 90.2,
           "match_score": 91.1
@@ -11069,9 +11069,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Naomi Osaka",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 85.9,
           "l_score": 80.3,
           "match_score": 85.9
