@@ -18063,7 +18063,7 @@ window.NHL_DATA = {
       "name": "Jordan Harris",
       "pos": "D",
       "teamCode": "BOS",
-      "age": 25,
+      "age": 26,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -18088,8 +18088,7 @@ window.NHL_DATA = {
         43,
         45,
         52
-      ],
-      "legendScore": 45.1
+      ]
     },
     {
       "id": 8482087,
@@ -47981,10 +47980,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-06 22:42 UTC",
+  "LAST_UPDATE": "2026-07-07 08:42 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-06T22:41:30Z"
+    "standingsDateTimeUtc": "2026-07-07T08:42:31Z"
   }
 };

@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-07-06 22:44 UTC",
+  "UPDATED": "2026-07-07 08:44 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1544,
+    "matches": 1543,
     "archives": [
       {
         "name": "Tests",
@@ -37,7 +37,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "MLC",
-        "matches": 71
+        "matches": 70
       }
     ],
     "note": "Daily-after-results model: no live scores, recalculates from completed Cricsheet scorecards."
@@ -838,7 +838,7 @@ window.CRICKET_DATA = {
           "batting": 54.6,
           "bowling": 4.8,
           "overall": 30.5,
-          "runs": 3084,
+          "runs": 3083,
           "wickets": 9
         },
         {
@@ -2296,12 +2296,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffb81c"
           },
           "logo": "https://flagcdn.com/24x18/za.png",
-          "score": 76.5,
+          "score": 76.2,
           "batting": 14.0,
-          "bowling": 80.6,
-          "overall": 76.5,
+          "bowling": 79.9,
+          "overall": 76.2,
           "runs": 557,
-          "wickets": 105
+          "wickets": 104
         },
         {
           "id": "virandeep-singh",
@@ -2668,22 +2668,22 @@ window.CRICKET_DATA = {
           "wickets": 101
         },
         {
-          "id": "m-jansen",
-          "name": "M Jansen",
+          "id": "taijul-islam",
+          "name": "Taijul Islam",
           "role": "Bowler",
-          "country": "South Africa",
-          "teamCode": "SA",
+          "country": "Bangladesh",
+          "teamCode": "BAN",
           "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb81c"
+            "primary": "#006a4e",
+            "secondary": "#f42a41"
           },
-          "logo": "https://flagcdn.com/24x18/za.png",
-          "score": 80.6,
-          "batting": 14.0,
-          "bowling": 80.6,
-          "overall": 76.5,
-          "runs": 557,
-          "wickets": 105
+          "logo": "https://flagcdn.com/24x18/bd.png",
+          "score": 80.3,
+          "batting": 13.8,
+          "bowling": 80.3,
+          "overall": 75.8,
+          "runs": 266,
+          "wickets": 75
         }
       ]
     }

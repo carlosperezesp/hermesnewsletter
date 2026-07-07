@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-06 22:44 UTC",
+  "UPDATED": "2026-07-07 08:44 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Chicago:Chase Briscoe",
@@ -59,14 +59,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-25"
     },
     {
-      "id": "nascar:win:NASCAR Cup Series at San Diego:Corey Heim",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "text": "Corey Heim ganó en Naval Base Coronado",
-      "weight": 100,
-      "firstSeen": "2026-06-22"
-    },
-    {
       "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
       "sport": "mlb",
       "detail": "MLB",
@@ -103,21 +95,21 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-28"
     },
     {
-      "id": "tennis:in:WTA:Linda Noskova:20260618",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Linda Noskova entra en el top 10 WTA",
-      "weight": 90,
-      "anchor": "tennis-wta",
-      "firstSeen": "2026-06-22"
-    },
-    {
       "id": "cycling:stage:Giro d'Italia:21:Jonathan Milan",
       "sport": "cycling",
       "detail": "Ciclismo",
       "text": "Jonathan Milan ganó la última etapa del Giro d'Italia",
       "weight": 88,
       "firstSeen": "2026-06-29"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Cam Schlittler",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-jovenes-promesas",
+      "text": "Cam Schlittler entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-07-07"
     },
     {
       "id": "rank:nascar:DRIVERS:in:Chase Briscoe",
@@ -143,15 +135,6 @@ window.GLORY_DATA = {
       "detail": "MLB",
       "anchor": "mlb-road-to-glory",
       "text": "Willson Contreras entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-07-05"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Colson Montgomery",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-jovenes-promesas",
-      "text": "Colson Montgomery entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-07-05"
     },
@@ -219,15 +202,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-28"
     },
     {
-      "id": "tennis:out:WTA:Karolina Muchova:20260618",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Karolina Muchova sale del top 10 WTA",
-      "weight": 78,
-      "anchor": "tennis-wta",
-      "firstSeen": "2026-06-22"
-    },
-    {
       "id": "rank:nascar:DRIVERS:out:Chris Buescher",
       "sport": "nascar",
       "detail": "NASCAR",
@@ -242,15 +216,6 @@ window.GLORY_DATA = {
       "detail": "MLB",
       "anchor": "mlb-road-to-glory",
       "text": "Aaron Judge cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-07-01"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:out:Cam Schlittler",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-jovenes-promesas",
-      "text": "Cam Schlittler cae del top-10 · jóvenes promesas",
       "weight": 74,
       "firstSeen": "2026-07-01"
     },
@@ -452,15 +417,15 @@ window.GLORY_DATA = {
     ],
     "mlb:ROAD_TO_GLORY.youngProspects": [
       "Jacob Misiorowski",
-      "Jordan Walker",
       "James Wood",
+      "Jordan Walker",
       "Pete Crow-Armstrong",
       "Sal Stewart",
       "Junior Caminero",
       "Nick Kurtz",
       "CJ Abrams",
-      "Chase Burns",
-      "Colson Montgomery"
+      "Cam Schlittler",
+      "Chase Burns"
     ],
     "nfl:ROAD_TO_GLORY.players": [
       "Matthew Stafford",
