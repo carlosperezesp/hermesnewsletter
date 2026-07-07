@@ -1,5 +1,5 @@
 window.NASCAR_DATA = {
-  "UPDATED": "2026-07-07 08:43 UTC",
+  "UPDATED": "2026-07-07 10:04 UTC",
   "SEASON": 2026,
   "ROUND": 23,
   "TOTAL_ROUNDS": 36,
@@ -257,7 +257,7 @@ window.NASCAR_DATA = {
         "top5": 7,
         "top10": 9
       },
-      "prevRank": 12,
+      "prevRank": 7,
       "playoffRank": 7,
       "locked": true,
       "playoffPoints": 5,
@@ -293,7 +293,7 @@ window.NASCAR_DATA = {
         "top5": 4,
         "top10": 7
       },
-      "prevRank": 7,
+      "prevRank": 8,
       "playoffRank": 8,
       "locked": true,
       "playoffPoints": 5,
@@ -329,7 +329,7 @@ window.NASCAR_DATA = {
         "top5": 2,
         "top10": 5
       },
-      "prevRank": 8,
+      "prevRank": 9,
       "playoffRank": 9,
       "locked": true,
       "playoffPoints": 5,
@@ -365,7 +365,7 @@ window.NASCAR_DATA = {
         "top5": 8,
         "top10": 11
       },
-      "prevRank": 9,
+      "prevRank": 10,
       "playoffRank": 10,
       "locked": false,
       "playoffPoints": 0,
@@ -401,7 +401,7 @@ window.NASCAR_DATA = {
         "top5": 2,
         "top10": 9
       },
-      "prevRank": 10,
+      "prevRank": 11,
       "playoffRank": 11,
       "locked": false,
       "playoffPoints": 0,
@@ -437,7 +437,7 @@ window.NASCAR_DATA = {
         "top5": 7,
         "top10": 8
       },
-      "prevRank": 11,
+      "prevRank": 12,
       "playoffRank": 12,
       "locked": false,
       "playoffPoints": 0,
@@ -545,7 +545,7 @@ window.NASCAR_DATA = {
         "top5": 1,
         "top10": 4
       },
-      "prevRank": 16,
+      "prevRank": 15,
       "playoffRank": 15,
       "locked": false,
       "playoffPoints": 0,
@@ -581,7 +581,7 @@ window.NASCAR_DATA = {
         "top5": 1,
         "top10": 4
       },
-      "prevRank": 17,
+      "prevRank": 16,
       "playoffRank": 16,
       "locked": false,
       "playoffPoints": 0,
@@ -617,7 +617,7 @@ window.NASCAR_DATA = {
         "top5": 0,
         "top10": 3
       },
-      "prevRank": 15,
+      "prevRank": 17,
       "playoffRank": 17,
       "locked": false,
       "playoffPoints": 0,
@@ -653,7 +653,7 @@ window.NASCAR_DATA = {
         "top5": 2,
         "top10": 5
       },
-      "prevRank": 20,
+      "prevRank": 18,
       "playoffRank": 18,
       "locked": false,
       "playoffPoints": 0,
@@ -725,7 +725,7 @@ window.NASCAR_DATA = {
         "top5": 2,
         "top10": 4
       },
-      "prevRank": 18,
+      "prevRank": 20,
       "playoffRank": 20,
       "locked": false,
       "playoffPoints": 0,
@@ -869,7 +869,7 @@ window.NASCAR_DATA = {
         "top5": 0,
         "top10": 3
       },
-      "prevRank": 25,
+      "prevRank": 24,
       "playoffRank": 24,
       "locked": false,
       "playoffPoints": 0,
@@ -905,7 +905,7 @@ window.NASCAR_DATA = {
         "top5": 0,
         "top10": 1
       },
-      "prevRank": 26,
+      "prevRank": 25,
       "playoffRank": 25,
       "locked": false,
       "playoffPoints": 0,
@@ -941,7 +941,7 @@ window.NASCAR_DATA = {
         "top5": 2,
         "top10": 3
       },
-      "prevRank": 24,
+      "prevRank": 26,
       "playoffRank": 26,
       "locked": false,
       "playoffPoints": 0,
@@ -1157,7 +1157,7 @@ window.NASCAR_DATA = {
         "top5": 0,
         "top10": 0
       },
-      "prevRank": 33,
+      "prevRank": 32,
       "playoffRank": 32,
       "locked": false,
       "playoffPoints": 0,
@@ -1193,7 +1193,7 @@ window.NASCAR_DATA = {
         "top5": 0,
         "top10": 0
       },
-      "prevRank": 32,
+      "prevRank": 33,
       "playoffRank": 33,
       "locked": false,
       "playoffPoints": 0,

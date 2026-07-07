@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-07 08:44 UTC
+// Auto-generated 2026-07-07 10:05 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-07 08:44 UTC",
+  "UPDATED": "2026-07-07 10:05 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -6878,7 +6878,108 @@ window.ATHLETICS_DATA = {
               "year": 2013
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "71.74",
+              "athlete": "Ziyi Yan",
+              "country": "CHN",
+              "flag": "https://flagcdn.com/24x18/cn.png",
+              "primary": "#DE2910",
+              "venue": "Egret Stadium",
+              "date": "23 MAY 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "65.00",
+              "athlete": "Sigrid Borge",
+              "country": "NOR",
+              "flag": "https://flagcdn.com/24x18/no.png",
+              "primary": "#EF2B2D",
+              "venue": "Egret Stadium",
+              "date": "23 MAY 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "63.88",
+              "athlete": "Madison Wiltrout",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Univ. of Arizona Roy P. Drachman Stadium",
+              "date": "23 MAY 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "63.83",
+              "athlete": "Adriana Vilagoš",
+              "country": "SRB",
+              "flag": "https://flagcdn.com/24x18/rs.png",
+              "primary": "#4A4745",
+              "venue": "Stade Charlty",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "63.01",
+              "athlete": "Haruka Kitaguchi",
+              "country": "JPN",
+              "flag": "https://flagcdn.com/24x18/jp.png",
+              "primary": "#BC002D",
+              "venue": "Stade Charlty",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "62.78",
+              "athlete": "Maria Andrejczyk",
+              "country": "POL",
+              "flag": "https://flagcdn.com/24x18/pl.png",
+              "primary": "#DC143C",
+              "venue": "Stadion Podskarbińska",
+              "date": "07 JUN 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "62.61",
+              "athlete": "Sara Kolak",
+              "country": "CRO",
+              "flag": "https://flagcdn.com/24x18/hr.png",
+              "primary": "#FF0000",
+              "venue": "Mestsk Stadion",
+              "date": "16 JUN 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "62.54",
+              "athlete": "Lianna Davidson",
+              "country": "AUS",
+              "flag": "https://flagcdn.com/24x18/au.png",
+              "primary": "#00008B",
+              "venue": "Spec Towns Track",
+              "date": "02 MAY 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "62.42",
+              "athlete": "Qianqian Dai",
+              "country": "CHN",
+              "flag": "https://flagcdn.com/24x18/cn.png",
+              "primary": "#DE2910",
+              "venue": "Kuishan Sports Center",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "61.94",
+              "athlete": "Leonie H&#220;gli",
+              "country": "SUI",
+              "flag": "https://flagcdn.com/24x18/ch.png",
+              "primary": "#D52B1E",
+              "venue": "Werferzentrum Brandberge",
+              "date": "17 MAY 2026"
+            }
+          ]
         }
       ]
     }
