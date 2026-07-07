@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-07 21:44 UTC
+// Auto-generated 2026-07-07 22:35 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-07 21:44 UTC",
+  "UPDATED": "2026-07-07 22:35 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -31,7 +31,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 100.0
@@ -135,7 +135,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 87.3
@@ -339,7 +339,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 77.6
@@ -10973,7 +10973,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Felix Auger-Aliassime",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (12-10) 3-6 6-3 6-7 (4-7) 7-6 (10-4)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 87.3,
@@ -11224,7 +11224,7 @@ window.TENNIS_DATA = {
       "Wu Yibing"
     ],
     "aliveCount": 64,
-    "matchesSeen": 124
+    "matchesSeen": 125
   },
   "WTA_TOURNAMENT": {
     "name": "Wimbledon",
