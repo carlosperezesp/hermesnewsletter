@@ -408,14 +408,14 @@ window.MLB_DATA = {
       "commonName": "Blue Jays",
       "conf": "AL",
       "div": "AL East",
-      "gp": 92,
-      "w": 43,
+      "gp": 93,
+      "w": 44,
       "l": 49,
-      "winPct": 0.467,
-      "rf": 366,
+      "winPct": 0.473,
+      "rf": 376,
       "ra": 411,
       "rd": 0,
-      "score": 37,
+      "score": 38,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
       "colors": {
         "primary": "#134a8e",
@@ -549,27 +549,6 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "SF",
-      "city": "San Francisco Giants",
-      "shortName": "San Francisco",
-      "commonName": "Giants",
-      "conf": "NL",
-      "div": "NL West",
-      "gp": 91,
-      "w": 38,
-      "l": 53,
-      "winPct": 0.418,
-      "rf": 377,
-      "ra": 440,
-      "rd": 0,
-      "score": 33,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png",
-      "colors": {
-        "primary": "#fd5a1e",
-        "secondary": "#27251f"
-      }
-    },
-    {
       "code": "NYM",
       "city": "New York Mets",
       "shortName": "New York",
@@ -588,6 +567,27 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#002d72",
         "secondary": "#ff5910"
+      }
+    },
+    {
+      "code": "SF",
+      "city": "San Francisco Giants",
+      "shortName": "San Francisco",
+      "commonName": "Giants",
+      "conf": "NL",
+      "div": "NL West",
+      "gp": 92,
+      "w": 38,
+      "l": 54,
+      "winPct": 0.413,
+      "rf": 377,
+      "ra": 450,
+      "rd": 0,
+      "score": 33,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png",
+      "colors": {
+        "primary": "#fd5a1e",
+        "secondary": "#27251f"
       }
     },
     {
@@ -7987,7 +7987,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-08 21:31 UTC",
+  "LAST_UPDATE": "2026-07-08 22:28 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
