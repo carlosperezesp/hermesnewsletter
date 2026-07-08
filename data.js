@@ -3384,7 +3384,7 @@ window.NHL_DATA = {
       "name": "Jake Sanderson",
       "pos": "D",
       "teamCode": "OTT",
-      "age": 23,
+      "age": 24,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -3410,7 +3410,7 @@ window.NHL_DATA = {
         54,
         72
       ],
-      "legendScore": 56.5
+      "legendScore": 55.9
     },
     {
       "id": 8474590,
@@ -9119,7 +9119,7 @@ window.NHL_DATA = {
       "name": "Andrew Copp",
       "pos": "C",
       "teamCode": "DET",
-      "age": 31,
+      "age": 32,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -11613,7 +11613,7 @@ window.NHL_DATA = {
       "name": "Bobby Brink",
       "pos": "RW",
       "teamCode": "MIN",
-      "age": 24,
+      "age": 25,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -19461,7 +19461,7 @@ window.NHL_DATA = {
       "name": "Nick Lardis",
       "pos": "LW",
       "teamCode": "CHI",
-      "age": 20,
+      "age": 21,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -19486,7 +19486,7 @@ window.NHL_DATA = {
         47,
         51
       ],
-      "legendScore": 49.5
+      "legendScore": 47.5
     },
     {
       "id": 8483668,
@@ -34042,7 +34042,7 @@ window.NHL_DATA = {
       "name": "Haydn Fleury",
       "pos": "D",
       "teamCode": "WPG",
-      "age": 29,
+      "age": 30,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47980,10 +47980,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-07 22:34 UTC",
+  "LAST_UPDATE": "2026-07-08 07:41 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-07T22:33:30Z"
+    "standingsDateTimeUtc": "2026-07-08T07:41:16Z"
   }
 };
