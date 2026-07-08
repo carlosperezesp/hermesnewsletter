@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-08 09:04 UTC
+// Auto-generated 2026-07-08 15:00 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-08 09:04 UTC",
+  "UPDATED": "2026-07-08 15:00 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -4577,13 +4577,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 10,
-              "mark": "5.90",
-              "athlete": "Sam Kendricks",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "IFU Arena",
-              "date": "12 MAR 2026"
+              "mark": "5.91",
+              "athlete": "Thibaut Collet",
+              "country": "FRA",
+              "flag": "https://flagcdn.com/24x18/fr.png",
+              "primary": "#002395",
+              "venue": "Pl. Panathinaikou Stadiou",
+              "date": "05 JUL 2026"
             }
           ]
         },
@@ -4774,6 +4774,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 8,
+              "mark": "4.81",
+              "athlete": "Wilma Heltel&#196;",
+              "country": "FIN",
+              "flag": "https://flagcdn.com/24x18/fi.png",
+              "primary": "#4A4745",
+              "venue": "Pl. Panathinaikou Stadiou",
+              "date": "05 JUL 2026"
+            },
+            {
+              "rank": 9,
               "mark": "4.80",
               "athlete": "Tina Šutej",
               "country": "SLO",
@@ -4783,7 +4793,7 @@ window.ATHLETICS_DATA = {
               "date": "08 FEB 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "4.80",
               "athlete": "Nina Kennedy",
               "country": "AUS",
@@ -4791,16 +4801,6 @@ window.ATHLETICS_DATA = {
               "primary": "#00008B",
               "venue": "Complexe Sportif Prince Moulay Abdellah",
               "date": "31 MAY 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "4.80",
-              "athlete": "Angelica Moser",
-              "country": "SUI",
-              "flag": "https://flagcdn.com/24x18/ch.png",
-              "primary": "#D52B1E",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
             }
           ]
         },
@@ -4918,108 +4918,7 @@ window.ATHLETICS_DATA = {
               "year": 1994
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "8.51",
-              "athlete": "Simon Ehammer",
-              "country": "SUI",
-              "flag": "https://flagcdn.com/24x18/ch.png",
-              "primary": "#D52B1E",
-              "venue": "Msle-Stadium",
-              "date": "30 MAY 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "8.49",
-              "athlete": "Miltiadis Tentoglou",
-              "country": "GRE",
-              "flag": "https://flagcdn.com/24x18/gr.png",
-              "primary": "#4A4745",
-              "venue": "Tsirio Stadium",
-              "date": "29 MAY 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "8.46",
-              "athlete": "Gerson Bald&#201;",
-              "country": "POR",
-              "flag": "https://flagcdn.com/24x18/pt.png",
-              "primary": "#006600",
-              "venue": "Kujawsko-Pomorska Arena",
-              "date": "22 MAR 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "8.46",
-              "athlete": "Jorge A. Hodel&#205;n",
-              "country": "CUB",
-              "flag": "https://flagcdn.com/24x18/cu.png",
-              "primary": "#002A8F",
-              "venue": "Stade Christian Plaziat",
-              "date": "13 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "8.45",
-              "athlete": "Bozhidar Sar&#194;boyukov",
-              "country": "BUL",
-              "flag": "https://flagcdn.com/24x18/bg.png",
-              "primary": "#00966E",
-              "venue": "Atletska dvorana",
-              "date": "11 FEB 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "8.43",
-              "athlete": "Mattia Furlani",
-              "country": "ITA",
-              "flag": "https://flagcdn.com/24x18/it.png",
-              "primary": "#009246",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "8.37",
-              "athlete": "Tafadzwa Chikomba",
-              "country": "ZIM",
-              "flag": "",
-              "primary": "#4A4745",
-              "venue": "Hayward Field",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "8.37",
-              "athlete": "Tajay Gayle",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "National Stadium",
-              "date": "20 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "8.33",
-              "athlete": "Chenlong Yuan",
-              "country": "CHN",
-              "flag": "https://flagcdn.com/24x18/cn.png",
-              "primary": "#DE2910",
-              "venue": "Nanjing (CHN)",
-              "date": "09 MAY 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "8.30",
-              "athlete": "Shahnavaz Khan",
-              "country": "IND",
-              "flag": "https://flagcdn.com/24x18/in.png",
-              "primary": "#4A4745",
-              "venue": "Kalinga Stadium",
-              "date": "28 JUN 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "lj_w",
@@ -5569,7 +5468,108 @@ window.ATHLETICS_DATA = {
               "year": 2023
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "15.25",
+              "athlete": "Thea Lafond",
+              "country": "DMA",
+              "flag": "",
+              "primary": "#4A4745",
+              "venue": "Sports Park Mladost",
+              "date": "26 JUN 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "15.13",
+              "athlete": "Davisleydi Velazco",
+              "country": "CUB",
+              "flag": "https://flagcdn.com/24x18/cu.png",
+              "primary": "#002A8F",
+              "venue": "Suhaim bin Hamad Stadium",
+              "date": "19 JUN 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "14.95",
+              "athlete": "Yulimar Rojas",
+              "country": "VEN",
+              "flag": "https://flagcdn.com/24x18/ve.png",
+              "primary": "#CF142B",
+              "venue": "Veldromo Luis Puig",
+              "date": "14 FEB 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "14.95",
+              "athlete": "Leyanis P&#201;rez Hern&#193;ndez",
+              "country": "CUB",
+              "flag": "https://flagcdn.com/24x18/cu.png",
+              "primary": "#002A8F",
+              "venue": "Kujawsko-Pomorska Arena",
+              "date": "21 MAR 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "14.86",
+              "athlete": "Saly Sarr",
+              "country": "SEN",
+              "flag": "",
+              "primary": "#4A4745",
+              "venue": "Suhaim bin Hamad Stadium",
+              "date": "19 JUN 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "14.58",
+              "athlete": "Liadagmis Povea",
+              "country": "CUB",
+              "flag": "https://flagcdn.com/24x18/cu.png",
+              "primary": "#002A8F",
+              "venue": "Suhaim bin Hamad Stadium",
+              "date": "19 JUN 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "14.56",
+              "athlete": "Diana Ana Maria Ion",
+              "country": "ROU",
+              "flag": "https://flagcdn.com/24x18/ro.png",
+              "primary": "#002B7F",
+              "venue": "Stadionul de atletism Nicolae Mărășescu",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "14.52",
+              "athlete": "Ilona Masson",
+              "country": "BEL",
+              "flag": "https://flagcdn.com/24x18/be.png",
+              "primary": "#4A4745",
+              "venue": "Stade de Vongy",
+              "date": "05 JUL 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "14.51",
+              "athlete": "Dariya Derkach",
+              "country": "ITA",
+              "flag": "https://flagcdn.com/24x18/it.png",
+              "primary": "#009246",
+              "venue": "Sports Park Mladost",
+              "date": "26 JUN 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "14.50",
+              "athlete": "Ackelia Smith",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Bislett Stadion",
+              "date": "10 JUN 2026"
+            }
+          ]
         }
       ]
     },
@@ -6777,7 +6777,108 @@ window.ATHLETICS_DATA = {
               "year": 2013
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "71.74",
+              "athlete": "Ziyi Yan",
+              "country": "CHN",
+              "flag": "https://flagcdn.com/24x18/cn.png",
+              "primary": "#DE2910",
+              "venue": "Egret Stadium",
+              "date": "23 MAY 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "65.00",
+              "athlete": "Sigrid Borge",
+              "country": "NOR",
+              "flag": "https://flagcdn.com/24x18/no.png",
+              "primary": "#EF2B2D",
+              "venue": "Egret Stadium",
+              "date": "23 MAY 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "63.88",
+              "athlete": "Madison Wiltrout",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Univ. of Arizona Roy P. Drachman Stadium",
+              "date": "23 MAY 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "63.83",
+              "athlete": "Adriana Vilagoš",
+              "country": "SRB",
+              "flag": "https://flagcdn.com/24x18/rs.png",
+              "primary": "#4A4745",
+              "venue": "Stade Charlty",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "63.01",
+              "athlete": "Haruka Kitaguchi",
+              "country": "JPN",
+              "flag": "https://flagcdn.com/24x18/jp.png",
+              "primary": "#BC002D",
+              "venue": "Stade Charlty",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "62.78",
+              "athlete": "Maria Andrejczyk",
+              "country": "POL",
+              "flag": "https://flagcdn.com/24x18/pl.png",
+              "primary": "#DC143C",
+              "venue": "Stadion Podskarbińska",
+              "date": "07 JUN 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "62.61",
+              "athlete": "Sara Kolak",
+              "country": "CRO",
+              "flag": "https://flagcdn.com/24x18/hr.png",
+              "primary": "#FF0000",
+              "venue": "Mestsk Stadion",
+              "date": "16 JUN 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "62.54",
+              "athlete": "Lianna Davidson",
+              "country": "AUS",
+              "flag": "https://flagcdn.com/24x18/au.png",
+              "primary": "#00008B",
+              "venue": "Spec Towns Track",
+              "date": "02 MAY 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "62.42",
+              "athlete": "Qianqian Dai",
+              "country": "CHN",
+              "flag": "https://flagcdn.com/24x18/cn.png",
+              "primary": "#DE2910",
+              "venue": "Kuishan Sports Center",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "61.94",
+              "athlete": "Leonie H&#220;gli",
+              "country": "SUI",
+              "flag": "https://flagcdn.com/24x18/ch.png",
+              "primary": "#D52B1E",
+              "venue": "Werferzentrum Brandberge",
+              "date": "17 MAY 2026"
+            }
+          ]
         }
       ]
     }

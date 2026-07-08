@@ -7205,9 +7205,9 @@ window.NHL_DATA = {
       "name": "Claude Giroux",
       "pos": "RW",
       "teamCode": "OTT",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 38,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#c52032",
         "secondary": "#c2912c"
@@ -47980,10 +47980,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-08 09:02 UTC",
+  "LAST_UPDATE": "2026-07-08 14:59 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-08T09:02:00Z"
+    "standingsDateTimeUtc": "2026-07-08T14:59:00Z"
   }
 };

@@ -5246,7 +5246,7 @@ window.NBA_DATA = {
       "last": "Holland II",
       "pos": "F",
       "teamCode": "DET",
-      "age": 20,
+      "age": 21,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683771.png",
       "colors": {
         "primary": "#c8102e",
@@ -5262,7 +5262,7 @@ window.NBA_DATA = {
         "blk": 0.2,
         "min": 6.4
       },
-      "legendScore": 24.4
+      "legendScore": 25.4
     },
     {
       "id": 3934723,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-08 09:02 UTC",
+  "LAST_UPDATE": "2026-07-08 14:59 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
