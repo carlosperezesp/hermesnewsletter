@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-08 07:44 UTC
+// Auto-generated 2026-07-08 09:04 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-08 07:44 UTC",
+  "UPDATED": "2026-07-08 09:04 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -774,7 +774,108 @@ window.ATHLETICS_DATA = {
               "year": 2021
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "21.68",
+              "athlete": "Adaejah Hodge",
+              "country": "IVB",
+              "flag": "https://flagcdn.com/24x18/vg.png",
+              "primary": "#012169",
+              "venue": "Hayward Field",
+              "date": "13 JUN 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "21.70",
+              "athlete": "Gabrielle Thomas",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Cushing Stadium",
+              "date": "06 JUN 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "21.86",
+              "athlete": "Julien Alfred",
+              "country": "LCA",
+              "flag": "https://flagcdn.com/24x18/lc.png",
+              "primary": "#4A4745",
+              "venue": "Mike A. Myers Stadium",
+              "date": "30 APR 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "21.87",
+              "athlete": "Shericka Jackson",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Egret Stadium",
+              "date": "23 MAY 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "21.93",
+              "athlete": "Cambrea Sturgis",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Nyayo National Stadium",
+              "date": "24 APR 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "22.04",
+              "athlete": "Shaunae Miller-Uibo",
+              "country": "BAH",
+              "flag": "https://flagcdn.com/24x18/bs.png",
+              "primary": "#4A4745",
+              "venue": "Egret Stadium",
+              "date": "23 MAY 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "22.07",
+              "athlete": "JaMeesia Ford",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Hutsell-Rosen Track",
+              "date": "25 APR 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "22.07",
+              "athlete": "Kayla White",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Cushing Stadium",
+              "date": "06 JUN 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "22.11",
+              "athlete": "Shanoya Mikalia Douglas",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Kirani James Athletic Stadium",
+              "date": "06 APR 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "22.12",
+              "athlete": "Shawnti Jackson",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Hayward Field",
+              "date": "13 JUN 2026"
+            }
+          ]
         },
         {
           "id": "400m_m",
@@ -6676,108 +6777,7 @@ window.ATHLETICS_DATA = {
               "year": 2013
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "71.74",
-              "athlete": "Ziyi Yan",
-              "country": "CHN",
-              "flag": "https://flagcdn.com/24x18/cn.png",
-              "primary": "#DE2910",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "65.00",
-              "athlete": "Sigrid Borge",
-              "country": "NOR",
-              "flag": "https://flagcdn.com/24x18/no.png",
-              "primary": "#EF2B2D",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "63.88",
-              "athlete": "Madison Wiltrout",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Univ. of Arizona Roy P. Drachman Stadium",
-              "date": "23 MAY 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "63.83",
-              "athlete": "Adriana Vilagoš",
-              "country": "SRB",
-              "flag": "https://flagcdn.com/24x18/rs.png",
-              "primary": "#4A4745",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "63.01",
-              "athlete": "Haruka Kitaguchi",
-              "country": "JPN",
-              "flag": "https://flagcdn.com/24x18/jp.png",
-              "primary": "#BC002D",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "62.78",
-              "athlete": "Maria Andrejczyk",
-              "country": "POL",
-              "flag": "https://flagcdn.com/24x18/pl.png",
-              "primary": "#DC143C",
-              "venue": "Stadion Podskarbińska",
-              "date": "07 JUN 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "62.61",
-              "athlete": "Sara Kolak",
-              "country": "CRO",
-              "flag": "https://flagcdn.com/24x18/hr.png",
-              "primary": "#FF0000",
-              "venue": "Mestsk Stadion",
-              "date": "16 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "62.54",
-              "athlete": "Lianna Davidson",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "Spec Towns Track",
-              "date": "02 MAY 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "62.42",
-              "athlete": "Qianqian Dai",
-              "country": "CHN",
-              "flag": "https://flagcdn.com/24x18/cn.png",
-              "primary": "#DE2910",
-              "venue": "Kuishan Sports Center",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "61.94",
-              "athlete": "Leonie H&#220;gli",
-              "country": "SUI",
-              "flag": "https://flagcdn.com/24x18/ch.png",
-              "primary": "#D52B1E",
-              "venue": "Werferzentrum Brandberge",
-              "date": "17 MAY 2026"
-            }
-          ]
+          "season": []
         }
       ]
     }
