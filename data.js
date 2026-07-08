@@ -16998,9 +16998,9 @@ window.NHL_DATA = {
       "name": "Sergei Murashov",
       "pos": "G",
       "teamCode": "PIT",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 22,
+      "country": "Russia",
+      "birthCountry": "RUS",
       "colors": {
         "primary": "#111111",
         "secondary": "#cfc493"
@@ -47980,10 +47980,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-08 15:52 UTC",
+  "LAST_UPDATE": "2026-07-08 21:31 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-08T15:52:00Z"
+    "standingsDateTimeUtc": "2026-07-08T21:31:00Z"
   }
 };

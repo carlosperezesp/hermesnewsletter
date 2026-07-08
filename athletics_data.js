@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-08 15:54 UTC
+// Auto-generated 2026-07-08 21:33 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-08 15:54 UTC",
+  "UPDATED": "2026-07-08 21:33 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -1432,7 +1432,108 @@ window.ATHLETICS_DATA = {
               "year": 2006
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "12.75",
+              "athlete": "Ja&#39;Kobe Tharp",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Hayward Field",
+              "date": "10 JUN 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "12.86",
+              "athlete": "Jamal Britt",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "12.95",
+              "athlete": "Kendrick Smallwood",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Hayward Field",
+              "date": "12 JUN 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "12.98",
+              "athlete": "Trey Cunningham",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Stadio Olimpico",
+              "date": "04 JUN 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "13.00",
+              "athlete": "Shunsuke Izumiya",
+              "country": "JPN",
+              "flag": "https://flagcdn.com/24x18/jp.png",
+              "primary": "#BC002D",
+              "venue": "Sports Park Mladost",
+              "date": "26 JUN 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "13.01",
+              "athlete": "Demario Prince",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "13.02",
+              "athlete": "Kendry L. Men&#201;ndez",
+              "country": "CUB",
+              "flag": "https://flagcdn.com/24x18/cu.png",
+              "primary": "#002A8F",
+              "venue": "Sports Park Mladost",
+              "date": "26 JUN 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "13.04",
+              "athlete": "Jamar Marshall",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Cushing Stadium",
+              "date": "06 JUN 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "13.05",
+              "athlete": "Rachid Muratake",
+              "country": "JPN",
+              "flag": "https://flagcdn.com/24x18/jp.png",
+              "primary": "#BC002D",
+              "venue": "Yanmar Stadium Nagai",
+              "date": "10 MAY 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "13.07",
+              "athlete": "Braxton Brann",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Hayward Field",
+              "date": "12 JUN 2026"
+            }
+          ]
         },
         {
           "id": "100mh_w",

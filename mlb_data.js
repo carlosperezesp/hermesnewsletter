@@ -5515,36 +5515,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4308037,
-      "name": "Cade Cavalli",
-      "first": "Cade",
-      "last": "Cavalli",
-      "pos": "SP",
-      "teamCode": "WSH",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4308037.png",
-      "colors": {
-        "primary": "#ab0003",
-        "secondary": "#14225a"
-      },
-      "score": 54,
-      "stats": {
-        "type": "pitching",
-        "g": 19,
-        "w": 5,
-        "era": 3.88,
-        "ip": 92.2,
-        "so": 105,
-        "whip": 1.38
-      },
-      "legendScore": 34.5,
-      "currentScore": 54,
-      "battingScore": null,
-      "pitchingScore": 54,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 41287,
       "name": "Ernie Clement",
       "first": "Ernie",
@@ -6535,36 +6505,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 40937,
-      "name": "Dustin May",
-      "first": "Dustin",
-      "last": "May",
-      "pos": "SP",
-      "teamCode": "STL",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40937.png",
-      "colors": {
-        "primary": "#c41e3a",
-        "secondary": "#0c2340"
-      },
-      "score": 48,
-      "stats": {
-        "type": "pitching",
-        "g": 17,
-        "w": 5,
-        "era": 4.55,
-        "ip": 89.0,
-        "so": 85,
-        "whip": 1.25
-      },
-      "legendScore": 32.0,
-      "currentScore": 48,
-      "battingScore": null,
-      "pitchingScore": 48,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 4905884,
       "name": "Maikel Garcia",
       "first": "Maikel",
@@ -7071,36 +7011,6 @@ window.MLB_DATA = {
       "currentScore": 40,
       "battingScore": null,
       "pitchingScore": 40,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 33252,
-      "name": "Michael Lorenzen",
-      "first": "Michael",
-      "last": "Lorenzen",
-      "pos": "SP",
-      "teamCode": "COL",
-      "age": 34,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33252.png",
-      "colors": {
-        "primary": "#333366",
-        "secondary": "#c4ced4"
-      },
-      "score": 36,
-      "stats": {
-        "type": "pitching",
-        "g": 20,
-        "w": 3,
-        "era": 6.65,
-        "ip": 92.0,
-        "so": 72,
-        "whip": 1.79
-      },
-      "legendScore": 30.5,
-      "currentScore": 36,
-      "battingScore": null,
-      "pitchingScore": 36,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -8077,7 +7987,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-08 15:52 UTC",
+  "LAST_UPDATE": "2026-07-08 21:31 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

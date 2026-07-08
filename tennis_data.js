@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-08 15:54 UTC
+// Auto-generated 2026-07-08 21:34 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-08 15:54 UTC",
+  "UPDATED": "2026-07-08 21:34 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -101,7 +101,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 87.4
@@ -543,7 +543,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 75.8
@@ -577,7 +577,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 75.4
@@ -4685,7 +4685,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 41.1
@@ -10947,7 +10947,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Taylor Fritz",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-4 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 87.4,
@@ -10960,7 +10960,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Flavio Cobolli",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 7-6 (7-4) 6-0",
           "day": "hoy",
           "scheduled": false,
           "w_score": 41.1,
@@ -11185,7 +11185,7 @@ window.TENNIS_DATA = {
       "Wu Yibing"
     ],
     "aliveCount": 64,
-    "matchesSeen": 125
+    "matchesSeen": 126
   },
   "WTA_TOURNAMENT": {
     "name": "Wimbledon",
