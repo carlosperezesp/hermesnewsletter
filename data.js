@@ -19094,9 +19094,9 @@ window.NHL_DATA = {
       "name": "Filip Hallander",
       "pos": "C",
       "teamCode": "PIT",
-      "age": 26,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#111111",
         "secondary": "#cfc493"
@@ -20333,9 +20333,9 @@ window.NHL_DATA = {
       "name": "Ilya Solovyov",
       "pos": "D",
       "teamCode": "PIT",
-      "age": 25,
-      "country": "Belarus",
-      "birthCountry": "BLR",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#111111",
         "secondary": "#cfc493"
@@ -20358,8 +20358,7 @@ window.NHL_DATA = {
         43,
         45,
         50
-      ],
-      "legendScore": 44.0
+      ]
     },
     {
       "id": 8481219,
@@ -25376,9 +25375,9 @@ window.NHL_DATA = {
       "name": "Jake Livanavage",
       "pos": "D",
       "teamCode": "PIT",
-      "age": 22,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#111111",
         "secondary": "#cfc493"
@@ -29557,9 +29556,9 @@ window.NHL_DATA = {
       "name": "Ville Koivunen",
       "pos": "RW",
       "teamCode": "PIT",
-      "age": 23,
-      "country": "Finland",
-      "birthCountry": "FIN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#111111",
         "secondary": "#cfc493"
@@ -47980,10 +47979,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-09 10:00 UTC",
+  "LAST_UPDATE": "2026-07-09 15:45 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-09T10:00:15Z"
+    "standingsDateTimeUtc": "2026-07-09T15:45:00Z"
   }
 };

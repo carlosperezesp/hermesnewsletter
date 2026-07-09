@@ -4169,7 +4169,7 @@ window.MLB_DATA = {
       "name": "Spencer Steer",
       "first": "Spencer",
       "last": "Steer",
-      "pos": "LF",
+      "pos": "1B",
       "teamCode": "CIN",
       "age": 28,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4722857.png",
@@ -7927,7 +7927,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-09 10:00 UTC",
+  "LAST_UPDATE": "2026-07-09 15:45 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

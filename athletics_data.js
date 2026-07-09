@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-09 10:02 UTC
+// Auto-generated 2026-07-09 15:47 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-09 10:02 UTC",
+  "UPDATED": "2026-07-09 15:47 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -774,108 +774,7 @@ window.ATHLETICS_DATA = {
               "year": 2021
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "21.68",
-              "athlete": "Adaejah Hodge",
-              "country": "IVB",
-              "flag": "https://flagcdn.com/24x18/vg.png",
-              "primary": "#012169",
-              "venue": "Hayward Field",
-              "date": "13 JUN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "21.70",
-              "athlete": "Gabrielle Thomas",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Cushing Stadium",
-              "date": "06 JUN 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "21.86",
-              "athlete": "Julien Alfred",
-              "country": "LCA",
-              "flag": "https://flagcdn.com/24x18/lc.png",
-              "primary": "#4A4745",
-              "venue": "Mike A. Myers Stadium",
-              "date": "30 APR 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "21.87",
-              "athlete": "Shericka Jackson",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "21.93",
-              "athlete": "Cambrea Sturgis",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Nyayo National Stadium",
-              "date": "24 APR 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "22.04",
-              "athlete": "Shaunae Miller-Uibo",
-              "country": "BAH",
-              "flag": "https://flagcdn.com/24x18/bs.png",
-              "primary": "#4A4745",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "22.07",
-              "athlete": "JaMeesia Ford",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Hutsell-Rosen Track",
-              "date": "25 APR 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "22.07",
-              "athlete": "Kayla White",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Cushing Stadium",
-              "date": "06 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "22.11",
-              "athlete": "Shanoya Mikalia Douglas",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Kirani James Athletic Stadium",
-              "date": "06 APR 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "22.12",
-              "athlete": "Shawnti Jackson",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Hayward Field",
-              "date": "13 JUN 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "400m_m",
@@ -5355,6 +5254,16 @@ window.ATHLETICS_DATA = {
           "season": [
             {
               "rank": 1,
+              "mark": "17.72",
+              "athlete": "Andy D&#205;az Hern&#193;ndez",
+              "country": "ITA",
+              "flag": "https://flagcdn.com/24x18/it.png",
+              "primary": "#009246",
+              "venue": "Stadio Puttilli",
+              "date": "03 JUL 2026"
+            },
+            {
+              "rank": 2,
               "mark": "17.71",
               "athlete": "Pedro Pichardo",
               "country": "POR",
@@ -5364,7 +5273,7 @@ window.ATHLETICS_DATA = {
               "date": "19 JUN 2026"
             },
             {
-              "rank": 2,
+              "rank": 3,
               "mark": "17.69",
               "athlete": "Jordan Scott",
               "country": "JAM",
@@ -5374,7 +5283,7 @@ window.ATHLETICS_DATA = {
               "date": "19 JUN 2026"
             },
             {
-              "rank": 3,
+              "rank": 4,
               "mark": "17.67",
               "athlete": "Yasser Mohammed Triki",
               "country": "ALG",
@@ -5382,16 +5291,6 @@ window.ATHLETICS_DATA = {
               "primary": "#006233",
               "venue": "Suhaim bin Hamad Stadium",
               "date": "19 JUN 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "17.59",
-              "athlete": "Andy D&#205;az Hern&#193;ndez",
-              "country": "ITA",
-              "flag": "https://flagcdn.com/24x18/it.png",
-              "primary": "#009246",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
             },
             {
               "rank": 5,
@@ -6661,7 +6560,108 @@ window.ATHLETICS_DATA = {
               "year": 2017
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "92.62",
+              "athlete": "Rumesh Tharanga Pathirage",
+              "country": "SRI",
+              "flag": "",
+              "primary": "#4A4745",
+              "venue": "Stadio Olimpico",
+              "date": "04 JUN 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "87.05",
+              "athlete": "Rohit Yadav",
+              "country": "IND",
+              "flag": "https://flagcdn.com/24x18/in.png",
+              "primary": "#4A4745",
+              "venue": "Kalinga Stadium",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "86.38",
+              "athlete": "Anderson Peters",
+              "country": "GRN",
+              "flag": "https://flagcdn.com/24x18/gd.png",
+              "primary": "#4A4745",
+              "venue": "Suhaim bin Hamad Stadium",
+              "date": "19 JUN 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "85.99",
+              "athlete": "Curtis Thompson",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Suhaim bin Hamad Stadium",
+              "date": "19 JUN 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "85.69",
+              "athlete": "Neeraj Chopra",
+              "country": "IND",
+              "flag": "https://flagcdn.com/24x18/in.png",
+              "primary": "#4A4745",
+              "venue": "Suhaim bin Hamad Stadium",
+              "date": "19 JUN 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "85.65",
+              "athlete": "Aliaksei Katkavets",
+              "country": "BLR",
+              "flag": "https://flagcdn.com/24x18/by.png",
+              "primary": "#4A4745",
+              "venue": "Regional Sport Complex",
+              "date": "07 MAY 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "85.24",
+              "athlete": "Jakub Vadlejch",
+              "country": "CZE",
+              "flag": "https://flagcdn.com/24x18/cz.png",
+              "primary": "#11457E",
+              "venue": "National Stadium",
+              "date": "17 MAY 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "84.79",
+              "athlete": "Douw Smit",
+              "country": "RSA",
+              "flag": "https://flagcdn.com/24x18/za.png",
+              "primary": "#007749",
+              "venue": "Paul-Greifzu-Stadion",
+              "date": "19 JUN 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "84.68",
+              "athlete": "Chinecherem Nnamdi",
+              "country": "NGR",
+              "flag": "https://flagcdn.com/24x18/ng.png",
+              "primary": "#008751",
+              "venue": "Percy Beard Track",
+              "date": "17 APR 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "84.11",
+              "athlete": "Marc Anthony Minichello",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Drake Stadium",
+              "date": "23 APR 2026"
+            }
+          ]
         },
         {
           "id": "jt_w",
