@@ -1,5 +1,5 @@
 window.INDYCAR_DATA = {
-  "UPDATED": "2026-07-08 22:28 UTC",
+  "UPDATED": "2026-07-09 08:45 UTC",
   "SEASON": 2026,
   "ROUND": 11,
   "TOTAL_ROUNDS": 19,
@@ -975,55 +975,7 @@ window.INDYCAR_DATA = {
       "note": "Ya en zona top 10 histórico · 2 títulos · 31 victorias"
     }
   ],
-  "LAST_RACE": {
-    "round": null,
-    "name": "Grand Prix of Mid-Ohio",
-    "circuit": "Grand Prix of Mid-Ohio",
-    "date": "2026-07-05",
-    "winner": "Pato O'Ward",
-    "podium": [
-      {
-        "position": 1,
-        "name": "Pato O'Ward",
-        "country": "MEX",
-        "team": "Arrow McLaren",
-        "logo": "https://flagcdn.com/24x18/mx.png",
-        "primary": "#FF8700"
-      },
-      {
-        "position": 2,
-        "name": "Christian Lundgaard",
-        "country": "DEN",
-        "team": "Arrow McLaren",
-        "logo": "https://flagcdn.com/24x18/dk.png",
-        "primary": "#FF8700"
-      },
-      {
-        "position": 3,
-        "name": "Kyle Kirkwood",
-        "country": "USA",
-        "team": "Andretti Global",
-        "logo": "https://flagcdn.com/24x18/us.png",
-        "primary": "#003DA5"
-      },
-      {
-        "position": 4,
-        "name": "Rinus VeeKay",
-        "country": "NED",
-        "team": "Dale Coyne Racing",
-        "logo": "https://flagcdn.com/24x18/nl.png",
-        "primary": "#111111"
-      },
-      {
-        "position": 5,
-        "name": "Álex Palou",
-        "country": "ESP",
-        "team": "Chip Ganassi Racing",
-        "logo": "https://flagcdn.com/24x18/es.png",
-        "primary": "#D71920"
-      }
-    ]
-  },
+  "LAST_RACE": null,
   "CURRENT_CONTENDERS": [
     {
       "id": "scott_dixon",

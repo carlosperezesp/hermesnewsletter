@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-07-08 21:33 UTC",
+  "UPDATED": "2026-07-09 08:47 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1541,
+    "matches": 1540,
     "archives": [
       {
         "name": "Tests",
@@ -37,7 +37,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "MLC",
-        "matches": 69
+        "matches": 68
       }
     ],
     "note": "Daily-after-results model: no live scores, recalculates from completed Cricsheet scorecards."
@@ -838,7 +838,7 @@ window.CRICKET_DATA = {
           "batting": 54.6,
           "bowling": 4.8,
           "overall": 30.5,
-          "runs": 3083,
+          "runs": 3051,
           "wickets": 9
         },
         {
@@ -2297,11 +2297,11 @@ window.CRICKET_DATA = {
           },
           "logo": "https://flagcdn.com/24x18/za.png",
           "score": 76.2,
-          "batting": 14.0,
-          "bowling": 79.9,
+          "batting": 14.1,
+          "bowling": 79.3,
           "overall": 76.2,
           "runs": 557,
-          "wickets": 104
+          "wickets": 103
         },
         {
           "id": "virandeep-singh",

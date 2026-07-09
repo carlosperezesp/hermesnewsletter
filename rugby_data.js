@@ -1,15 +1,15 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-07-08 22:29 UTC",
+  "UPDATED": "2026-07-09 08:47 UTC",
   "LAST_MATCH": "2026-07-04",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 332,
+    "incrementalMatches": 331,
     "teams": 162,
-    "matches": 10027,
+    "matches": 10026,
     "through": "2026-07-04"
   },
   "IMPORTANCE": 3.5,
@@ -30,11 +30,11 @@ window.RUGBY_DATA = {
       "name": "South Africa",
       "teamCode": "RSA",
       "country": "South Africa",
-      "elo": 2709.4,
-      "eloRaw": 2709.4,
+      "elo": 2709.5,
+      "eloRaw": 2709.5,
       "lastMatch": "2026-07-04",
       "inactiveDays": 0,
-      "peakElo": 2709.4,
+      "peakElo": 2709.5,
       "peakDate": "2026-07-04",
       "worldCups": 4,
       "record": {
@@ -53,8 +53,8 @@ window.RUGBY_DATA = {
       "name": "New Zealand",
       "teamCode": "NZL",
       "country": "New Zealand",
-      "elo": 2616.5,
-      "eloRaw": 2616.5,
+      "elo": 2618.3,
+      "eloRaw": 2618.3,
       "lastMatch": "2026-07-04",
       "inactiveDays": 0,
       "peakElo": 2749.6,
@@ -69,15 +69,15 @@ window.RUGBY_DATA = {
         "primary": "#111111",
         "secondary": "#d8d8d8"
       },
-      "note": "552V-141D-26E · último 2026-07-04 · raw 2616"
+      "note": "552V-141D-26E · último 2026-07-04 · raw 2618"
     },
     {
       "rank": 3,
       "name": "Ireland",
       "teamCode": "IRE",
       "country": "Ireland",
-      "elo": 2560.7,
-      "eloRaw": 2560.7,
+      "elo": 2558.4,
+      "eloRaw": 2558.4,
       "lastMatch": "2026-07-04",
       "inactiveDays": 0,
       "peakElo": 2684.1,
@@ -92,15 +92,15 @@ window.RUGBY_DATA = {
         "primary": "#169b62",
         "secondary": "#ff883e"
       },
-      "note": "378V-347D-64E · último 2026-07-04 · raw 2561"
+      "note": "378V-347D-64E · último 2026-07-04 · raw 2558"
     },
     {
       "rank": 4,
       "name": "France",
       "teamCode": "FRA",
       "country": "France",
-      "elo": 2503.1,
-      "eloRaw": 2503.1,
+      "elo": 2545.0,
+      "eloRaw": 2545.0,
       "lastMatch": "2026-07-04",
       "inactiveDays": 0,
       "peakElo": 2587.1,
@@ -108,22 +108,22 @@ window.RUGBY_DATA = {
       "worldCups": 0,
       "record": {
         "w": 572,
-        "l": 345,
+        "l": 344,
         "d": 38
       },
       "colors": {
         "primary": "#1d4f91",
         "secondary": "#d80f2a"
       },
-      "note": "572V-345D-38E · último 2026-07-04 · raw 2503"
+      "note": "572V-344D-38E · último 2026-07-04 · raw 2545"
     },
     {
       "rank": 5,
       "name": "England",
       "teamCode": "ENG",
       "country": "England",
-      "elo": 2375.6,
-      "eloRaw": 2375.6,
+      "elo": 2377.0,
+      "eloRaw": 2377.0,
       "lastMatch": "2026-07-04",
       "inactiveDays": 0,
       "peakElo": 2568.0,
@@ -138,22 +138,22 @@ window.RUGBY_DATA = {
         "primary": "#ffffff",
         "secondary": "#cf142b"
       },
-      "note": "455V-309D-82E · último 2026-07-04 · raw 2376"
+      "note": "455V-309D-82E · último 2026-07-04 · raw 2377"
     },
     {
       "rank": 6,
       "name": "Scotland",
       "teamCode": "SCO",
       "country": "Scotland",
-      "elo": 2369.9,
-      "eloRaw": 2369.9,
+      "elo": 2329.9,
+      "eloRaw": 2329.9,
       "lastMatch": "2026-07-04",
       "inactiveDays": 0,
-      "peakElo": 2369.9,
-      "peakDate": "2026-07-04",
+      "peakElo": 2365.2,
+      "peakDate": "2025-02-01",
       "worldCups": 0,
       "record": {
-        "w": 345,
+        "w": 344,
         "l": 393,
         "d": 63
       },
@@ -161,15 +161,15 @@ window.RUGBY_DATA = {
         "primary": "#005eb8",
         "secondary": "#ffffff"
       },
-      "note": "345V-393D-63E · último 2026-07-04 · raw 2370"
+      "note": "344V-393D-63E · último 2026-07-04 · raw 2330"
     },
     {
       "rank": 7,
       "name": "Argentina",
       "teamCode": "ARG",
       "country": "Argentina",
-      "elo": 2305.7,
-      "eloRaw": 2305.7,
+      "elo": 2302.8,
+      "eloRaw": 2302.8,
       "lastMatch": "2026-07-04",
       "inactiveDays": 0,
       "peakElo": 2354.6,
@@ -184,7 +184,7 @@ window.RUGBY_DATA = {
         "primary": "#75aadb",
         "secondary": "#f6b40e"
       },
-      "note": "258V-229D-13E · último 2026-07-04 · raw 2306"
+      "note": "258V-229D-13E · último 2026-07-04 · raw 2303"
     },
     {
       "rank": 8,

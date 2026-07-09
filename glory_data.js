@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-08 22:29 UTC",
+  "UPDATED": "2026-07-09 08:47 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Chicago:Chase Briscoe",
@@ -103,22 +103,22 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-29"
     },
     {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Matt Olson",
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Byron Buxton",
       "sport": "mlb",
       "detail": "MLB",
       "anchor": "mlb-road-to-glory",
-      "text": "Matt Olson entra en el top-10 · Road to Glory",
+      "text": "Byron Buxton entra en el top-10 · Road to Glory",
       "weight": 84,
-      "firstSeen": "2026-07-08"
+      "firstSeen": "2026-07-09"
     },
     {
-      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Colson Montgomery",
+      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Chase Burns",
       "sport": "mlb",
       "detail": "MLB",
       "anchor": "mlb-jovenes-promesas",
-      "text": "Colson Montgomery entra en el top-10 · jóvenes promesas",
+      "text": "Chase Burns entra en el top-10 · jóvenes promesas",
       "weight": 84,
-      "firstSeen": "2026-07-08"
+      "firstSeen": "2026-07-09"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Cam Schlittler",
@@ -209,15 +209,6 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-wta",
       "firstSeen": "2026-06-28"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:out:Byron Buxton",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "Byron Buxton cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-07-08"
     },
     {
       "id": "rank:nascar:DRIVERS:out:Chris Buescher",
@@ -419,15 +410,15 @@ window.GLORY_DATA = {
       "Kyle Schwarber",
       "Jacob Misiorowski",
       "Willson Contreras",
-      "Matt Olson"
+      "Byron Buxton"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
       "Houston Astros",
       "Atlanta Braves",
       "Texas Rangers",
-      "New York Yankees",
       "Philadelphia Phillies",
+      "New York Yankees",
       "Seattle Mariners",
       "San Diego Padres",
       "Baltimore Orioles",
@@ -442,8 +433,8 @@ window.GLORY_DATA = {
       "Junior Caminero",
       "Nick Kurtz",
       "CJ Abrams",
-      "Cam Schlittler",
-      "Colson Montgomery"
+      "Chase Burns",
+      "Cam Schlittler"
     ],
     "nfl:ROAD_TO_GLORY.players": [
       "Matthew Stafford",
