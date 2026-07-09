@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-09 21:46 UTC",
+  "UPDATED": "2026-07-09 22:47 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Chicago:Chase Briscoe",
@@ -103,11 +103,20 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-29"
     },
     {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Byron Buxton",
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Matt Olson",
       "sport": "mlb",
       "detail": "MLB",
       "anchor": "mlb-road-to-glory",
-      "text": "Byron Buxton entra en el top-10 · Road to Glory",
+      "text": "Matt Olson entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-07-09"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Ben Rice",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Ben Rice entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-07-09"
     },
@@ -146,15 +155,6 @@ window.GLORY_DATA = {
       "text": "Chris Gotterup entra en el top-10 · Nivel actual",
       "weight": 84,
       "firstSeen": "2026-07-06"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Willson Contreras",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "Willson Contreras entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-07-05"
     },
     {
       "id": "rank:afl:LADDER:in:Carlton",
@@ -408,9 +408,9 @@ window.GLORY_DATA = {
       "Juan Soto",
       "Yordan Alvarez",
       "Kyle Schwarber",
+      "Matt Olson",
       "Jacob Misiorowski",
-      "Willson Contreras",
-      "Byron Buxton"
+      "Ben Rice"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
