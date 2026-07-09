@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-09 16:16 UTC",
+  "UPDATED": "2026-07-09 21:46 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Chicago:Chase Briscoe",
@@ -417,8 +417,8 @@ window.GLORY_DATA = {
       "Houston Astros",
       "Atlanta Braves",
       "Texas Rangers",
-      "Philadelphia Phillies",
       "New York Yankees",
+      "Philadelphia Phillies",
       "Seattle Mariners",
       "San Diego Padres",
       "Baltimore Orioles",
