@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-10 15:20 UTC
+// Auto-generated 2026-07-10 16:03 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-10 15:20 UTC",
+  "UPDATED": "2026-07-10 16:03 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10896,15 +10896,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Jannik Sinner",
+          "w": "Novak Djokovic",
           "w_logo": "",
-          "l": "Novak Djokovic",
+          "l": "Jannik Sinner",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 100.0,
-          "l_score": 87.3,
+          "scheduled": false,
+          "w_score": 87.3,
+          "l_score": 100.0,
           "match_score": 100.0
         },
         {
