@@ -5,94 +5,93 @@
   "unit": "time",
   "marks": [
     {
+      "rank": 1,
       "mark": "21.34",
       "athlete": "Florence Griffith Joyner",
       "country": "USA",
       "year": 1988,
       "date": "29 September 1988",
-      "venue": "Seoul",
-      "rank": 1
+      "venue": "Seoul"
     },
     {
+      "rank": 2,
       "mark": "21.41",
       "athlete": "Shericka Jackson",
       "country": "JAM",
       "year": 2023,
       "date": "25 August 2023",
-      "venue": "Budapest",
-      "rank": 2
+      "venue": "Budapest"
     },
     {
+      "rank": 3,
       "mark": "21.45",
       "athlete": "Shericka Jackson",
       "country": "JAM",
       "year": 2022,
       "date": "21 July 2022",
-      "venue": "Eugene",
-      "rank": 3
+      "venue": "Eugene"
     },
     {
+      "rank": 4,
       "mark": "21.48",
       "athlete": "Shericka Jackson",
       "country": "JAM",
       "year": 2023,
       "date": "8 September 2023",
-      "venue": "Brussels",
-      "rank": 4
+      "venue": "Brussels"
     },
     {
+      "rank": 5,
+      "mark": "21.51",
+      "athlete": "Julien Alfred",
+      "country": "LCA",
+      "year": 2026,
+      "venue": "Stade Louis II"
+    },
+    {
+      "rank": 6,
       "mark": "21.53",
       "athlete": "Elaine Thompson-Herah",
       "country": "JAM",
       "year": 2021,
       "date": "3 August 2021",
-      "venue": "Tokyo",
-      "rank": 5
+      "venue": "Tokyo"
     },
     {
+      "rank": 7,
       "mark": "21.55",
       "athlete": "Shericka Jackson",
       "country": "JAM",
       "year": 2022,
       "date": "26 June 2022",
-      "venue": "Kingston",
-      "rank": 6
+      "venue": "Kingston"
     },
     {
+      "rank": 8,
       "mark": "21.56",
       "athlete": "Griffith Joyner",
       "country": "USA",
       "year": 1988,
       "date": "29 September 1988",
-      "venue": "Seoul",
-      "rank": 7
+      "venue": "Seoul"
     },
     {
+      "rank": 9,
       "mark": "21.57",
       "athlete": "Shericka Jackson",
       "country": "JAM",
       "year": 2023,
       "date": "17 September 2023",
-      "venue": "Eugene",
-      "rank": 8
+      "venue": "Eugene"
     },
     {
+      "rank": 10,
       "mark": "21.60",
       "athlete": "Gabby Thomas",
       "country": "USA",
       "year": 2023,
       "date": "9 July 2023",
-      "venue": "Eugene",
-      "rank": 9
-    },
-    {
-      "mark": "21.61",
-      "athlete": "Gabby Thomas",
-      "country": "USA",
-      "year": 2021,
-      "date": "26 June 2021",
-      "venue": "Eugene",
-      "rank": 10
+      "venue": "Eugene"
     }
   ]
 }

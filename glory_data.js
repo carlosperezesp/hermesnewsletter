@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-10 16:03 UTC",
+  "UPDATED": "2026-07-10 21:23 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Czech Republic motorcycle Grand Prix:Ai Ogura",
@@ -59,11 +59,11 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-27"
     },
     {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Mike Trout",
+      "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
       "sport": "mlb",
       "detail": "MLB",
       "anchor": "mlb-road-to-glory",
-      "text": "Mike Trout es nuevo nº1 · Road to Glory",
+      "text": "Shohei Ohtani es nuevo nº1 · Road to Glory",
       "weight": 92,
       "firstSeen": "2026-07-10"
     },
@@ -75,6 +75,24 @@ window.GLORY_DATA = {
       "text": "Jorge Martín es nuevo nº1 · Mundial",
       "weight": 92,
       "firstSeen": "2026-06-28"
+    },
+    {
+      "id": "rank:athletics:allTime:200m_w:in:Julien Alfred",
+      "sport": "athletics",
+      "detail": "Atletismo",
+      "anchor": "athletics-records",
+      "text": "Julien Alfred entra en el top-10 histórico · 200m — M",
+      "weight": 90,
+      "firstSeen": "2026-07-10"
+    },
+    {
+      "id": "rank:athletics:allTime:400m_m:in:Busang Collen Kebinatshipi",
+      "sport": "athletics",
+      "detail": "Atletismo",
+      "anchor": "athletics-records",
+      "text": "Busang Collen Kebinatshipi entra en el top-10 histórico · 400m — H",
+      "weight": 90,
+      "firstSeen": "2026-07-10"
     },
     {
       "id": "rank:athletics:allTime:110mh_m:in:Jamal Britt",
@@ -101,15 +119,6 @@ window.GLORY_DATA = {
       "text": "Jonathan Milan ganó la última etapa del Giro d'Italia",
       "weight": 88,
       "firstSeen": "2026-06-29"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Willson Contreras",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "Willson Contreras entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-07-10"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Matt Olson",
@@ -410,6 +419,7 @@ window.GLORY_DATA = {
       "VJ Edgecombe"
     ],
     "mlb:ROAD_TO_GLORY.players": [
+      "Shohei Ohtani",
       "Mike Trout",
       "Freddie Freeman",
       "Bryce Harper",
@@ -418,8 +428,7 @@ window.GLORY_DATA = {
       "Kyle Schwarber",
       "Matt Olson",
       "Jacob Misiorowski",
-      "Ben Rice",
-      "Willson Contreras"
+      "Ben Rice"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -750,11 +759,11 @@ window.GLORY_DATA = {
       "Shericka Jackson",
       "Shericka Jackson",
       "Shericka Jackson",
+      "Julien Alfred",
       "Elaine Thompson-Herah",
       "Shericka Jackson",
       "Griffith Joyner",
       "Shericka Jackson",
-      "Gabby Thomas",
       "Gabby Thomas"
     ],
     "athletics:allTime:400m_m": [
@@ -766,8 +775,8 @@ window.GLORY_DATA = {
       "Quincy Hall",
       "Michael Johnson",
       "Matthew Hudson-Smith",
-      "Jeremy Wariner",
-      "van Niekerk"
+      "Busang Collen Kebinatshipi",
+      "Jeremy Wariner"
     ],
     "athletics:allTime:400m_w": [
       "Marita Koch",
