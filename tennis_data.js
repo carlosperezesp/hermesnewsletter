@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-10 09:58 UTC
+// Auto-generated 2026-07-10 15:20 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-10 09:58 UTC",
+  "UPDATED": "2026-07-10 15:20 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -4685,7 +4685,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 41.1
@@ -10913,9 +10913,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Arthur Fery",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-0) 6-2 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 87.4,
           "l_score": 41.1,
           "match_score": 87.4

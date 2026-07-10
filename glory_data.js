@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-10 09:58 UTC",
+  "UPDATED": "2026-07-10 15:20 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Czech Republic motorcycle Grand Prix:Ai Ogura",
@@ -59,13 +59,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-27"
     },
     {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
+      "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Mike Trout",
       "sport": "mlb",
       "detail": "MLB",
       "anchor": "mlb-road-to-glory",
-      "text": "Shohei Ohtani es nuevo nº1 · Road to Glory",
+      "text": "Mike Trout es nuevo nº1 · Road to Glory",
       "weight": 92,
-      "firstSeen": "2026-07-04"
+      "firstSeen": "2026-07-10"
     },
     {
       "id": "rank:motogp:RIDERS:new1:Jorge Martín",
@@ -101,6 +101,15 @@ window.GLORY_DATA = {
       "text": "Jonathan Milan ganó la última etapa del Giro d'Italia",
       "weight": 88,
       "firstSeen": "2026-06-29"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Willson Contreras",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Willson Contreras entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-07-10"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Matt Olson",
@@ -401,7 +410,6 @@ window.GLORY_DATA = {
       "VJ Edgecombe"
     ],
     "mlb:ROAD_TO_GLORY.players": [
-      "Shohei Ohtani",
       "Mike Trout",
       "Freddie Freeman",
       "Bryce Harper",
@@ -410,7 +418,8 @@ window.GLORY_DATA = {
       "Kyle Schwarber",
       "Matt Olson",
       "Jacob Misiorowski",
-      "Ben Rice"
+      "Ben Rice",
+      "Willson Contreras"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -671,9 +680,9 @@ window.GLORY_DATA = {
       "Brisbane Lions",
       "Adelaide",
       "Melbourne",
+      "Collingwood",
       "Geelong",
       "Western Bulldogs",
-      "Collingwood",
       "Carlton"
     ],
     "football:ROAD_TO_GLORY.currentContenders": [

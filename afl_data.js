@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-10 09:56 UTC
+// Auto-generated 2026-07-10 15:19 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-10 09:56 UTC",
+  "UPDATED": "2026-07-10 15:19 UTC",
   "SEASON": "2026",
   "ROUND": 18,
   "IMPORTANCE": 8.2,
@@ -80,6 +80,18 @@ window.AFL_DATA = {
     },
     {
       "rank": 7,
+      "name": "Collingwood",
+      "wins": 9,
+      "losses": 7,
+      "draws": 1,
+      "pts": 38,
+      "percentage": 104.5,
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "prevRank": 9
+    },
+    {
+      "rank": 8,
       "name": "Geelong",
       "wins": 9,
       "losses": 7,
@@ -91,7 +103,7 @@ window.AFL_DATA = {
       "prevRank": 7
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Western Bulldogs",
       "wins": 9,
       "losses": 7,
@@ -99,19 +111,7 @@ window.AFL_DATA = {
       "pts": 36,
       "percentage": 90.8,
       "primary": "#0039A6",
-      "secondary": "#CC2031",
-      "prevRank": 8
-    },
-    {
-      "rank": 9,
-      "name": "Collingwood",
-      "wins": 8,
-      "losses": 7,
-      "draws": 1,
-      "pts": 34,
-      "percentage": 104.5,
-      "primary": "#000000",
-      "secondary": "#FFFFFF"
+      "secondary": "#CC2031"
     },
     {
       "rank": 10,
@@ -128,10 +128,10 @@ window.AFL_DATA = {
       "rank": 11,
       "name": "North Melbourne",
       "wins": 8,
-      "losses": 8,
+      "losses": 9,
       "draws": 0,
       "pts": 32,
-      "percentage": 91.1,
+      "percentage": 91.4,
       "primary": "#CC2031",
       "secondary": "#013B9F"
     },
@@ -1065,6 +1065,16 @@ window.AFL_DATA = {
       "date": "2026-07-09",
       "hprimary": "#2A0D54",
       "aprimary": "#F57F00"
+    },
+    {
+      "hteam": "Collingwood",
+      "hscore": 89,
+      "ateam": "North Melbourne",
+      "ascore": 85,
+      "winner": "Collingwood",
+      "date": "2026-07-10",
+      "hprimary": "#000000",
+      "aprimary": "#CC2031"
     }
   ],
   "CURRENT_CONTENDERS": [
