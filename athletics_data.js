@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-09 22:47 UTC
+// Auto-generated 2026-07-10 08:43 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-09 22:47 UTC",
+  "UPDATED": "2026-07-10 08:43 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -1866,7 +1866,108 @@ window.ATHLETICS_DATA = {
               "year": 2025
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "46.72",
+              "athlete": "Alison Dos Santos",
+              "country": "BRA",
+              "flag": "https://flagcdn.com/24x18/br.png",
+              "primary": "#009C3B",
+              "venue": "Egret Stadium",
+              "date": "23 MAY 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "46.82",
+              "athlete": "Karsten Warholm",
+              "country": "NOR",
+              "flag": "https://flagcdn.com/24x18/no.png",
+              "primary": "#EF2B2D",
+              "venue": "Egret Stadium",
+              "date": "23 MAY 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "47.37",
+              "athlete": "Ezekiel Nathaniel",
+              "country": "NGR",
+              "flag": "https://flagcdn.com/24x18/ng.png",
+              "primary": "#008751",
+              "venue": "Cushing Stadium",
+              "date": "06 JUN 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "47.37",
+              "athlete": "Trevor Bassitt",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Cushing Stadium",
+              "date": "06 JUN 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "47.37",
+              "athlete": "Matheus Lima",
+              "country": "BRA",
+              "flag": "https://flagcdn.com/24x18/br.png",
+              "primary": "#009C3B",
+              "venue": "Olympiastadion",
+              "date": "07 JUN 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "47.42",
+              "athlete": "Caleb Dean",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Cushing Stadium",
+              "date": "06 JUN 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "47.72",
+              "athlete": "Emil Agyekum",
+              "country": "GER",
+              "flag": "https://flagcdn.com/24x18/de.png",
+              "primary": "#000000",
+              "venue": "Olympiastadion",
+              "date": "07 JUN 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "47.93",
+              "athlete": "Abderrahman Samba",
+              "country": "QAT",
+              "flag": "https://flagcdn.com/24x18/qa.png",
+              "primary": "#8A1538",
+              "venue": "Egret Stadium",
+              "date": "23 MAY 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "48.06",
+              "athlete": "Vance Nilsson",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Hayward Field",
+              "date": "12 JUN 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "48.09",
+              "athlete": "Taiju Goto",
+              "country": "JPN",
+              "flag": "https://flagcdn.com/24x18/jp.png",
+              "primary": "#BC002D",
+              "venue": "Municipal Mizuho Stadium",
+              "date": "14 JUN 2026"
+            }
+          ]
         },
         {
           "id": "400mh_w",

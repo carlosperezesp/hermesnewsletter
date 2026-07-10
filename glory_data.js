@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-09 22:47 UTC",
+  "UPDATED": "2026-07-10 08:43 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Chicago:Chase Briscoe",
@@ -49,14 +49,6 @@ window.GLORY_DATA = {
       "text": "Kimi Antonelli ganó el Lenovo Austrian Grand Prix",
       "weight": 100,
       "firstSeen": "2026-06-27"
-    },
-    {
-      "id": "motogp:win:Czech Republic motorcycle Grand Prix:Ai Ogura",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "text": "Ai Ogura ganó el Czech Republic motorcycle Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-06-25"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
@@ -295,36 +287,6 @@ window.GLORY_DATA = {
         }
       ],
       "firstSeen": "2026-07-06"
-    },
-    {
-      "id": "nhl:champ:CAR:2025-26",
-      "sport": "nhl",
-      "competition": "NHL",
-      "champion": "Hurricanes se proclama campeón (4-2 a Golden Knights)",
-      "scopeLabel": "Top 5 de la temporada",
-      "top5": [
-        {
-          "name": "Nathan MacKinnon",
-          "score": 100
-        },
-        {
-          "name": "Nikita Kucherov",
-          "score": 100
-        },
-        {
-          "name": "Oliver Bonk",
-          "score": 100
-        },
-        {
-          "name": "Connor McDavid",
-          "score": 99
-        },
-        {
-          "name": "Leon Draisaitl",
-          "score": 92
-        }
-      ],
-      "firstSeen": "2026-06-18"
     }
   ],
   "SNAPSHOTS": {
