@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-10 08:43 UTC",
+  "UPDATED": "2026-07-10 09:58 UTC",
   "EVENTS": [
+    {
+      "id": "motogp:win:Czech Republic motorcycle Grand Prix:Ai Ogura",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "text": "Ai Ogura ganó el Czech Republic motorcycle Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-07-10"
+    },
     {
       "id": "nascar:win:NASCAR Cup Series at Chicago:Chase Briscoe",
       "sport": "nascar",
@@ -258,6 +266,36 @@ window.GLORY_DATA = {
     }
   ],
   "REPORTS": [
+    {
+      "id": "nhl:champ:CAR:2025-26",
+      "sport": "nhl",
+      "competition": "NHL",
+      "champion": "Hurricanes se proclama campeón (4-2 a Golden Knights)",
+      "scopeLabel": "Top 5 de la temporada",
+      "top5": [
+        {
+          "name": "Nathan MacKinnon",
+          "score": 100
+        },
+        {
+          "name": "Nikita Kucherov",
+          "score": 100
+        },
+        {
+          "name": "Oliver Bonk",
+          "score": 100
+        },
+        {
+          "name": "Connor McDavid",
+          "score": 99
+        },
+        {
+          "name": "Leon Draisaitl",
+          "score": 92
+        }
+      ],
+      "firstSeen": "2026-07-10"
+    },
     {
       "id": "nba:champ:NY:2025-26",
       "sport": "nba",
