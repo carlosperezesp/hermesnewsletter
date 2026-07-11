@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-11 14:38 UTC
+// Auto-generated 2026-07-11 21:08 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-11 14:38 UTC",
+  "UPDATED": "2026-07-11 21:08 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -2741,7 +2741,108 @@ window.ATHLETICS_DATA = {
               "year": 2000
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "3:28.00",
+              "athlete": "Cameron Myers",
+              "country": "AUS",
+              "flag": "https://flagcdn.com/24x18/au.png",
+              "primary": "#00008B",
+              "venue": "Stade Charlty",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "3:29.80",
+              "athlete": "Azeddine Habz",
+              "country": "FRA",
+              "flag": "https://flagcdn.com/24x18/fr.png",
+              "primary": "#002395",
+              "venue": "Stade Charlty",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "3:29.95",
+              "athlete": "Jake Wightman",
+              "country": "GBR",
+              "flag": "https://flagcdn.com/24x18/gb.png",
+              "primary": "#012169",
+              "venue": "Stade Charlty",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "3:30.11",
+              "athlete": "Yared Nuguse",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Olympiastadion",
+              "date": "07 JUN 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "3:30.17",
+              "athlete": "Anass Essayi",
+              "country": "MAR",
+              "flag": "https://flagcdn.com/24x18/ma.png",
+              "primary": "#C1272D",
+              "venue": "Stade Charlty",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "3:30.28",
+              "athlete": "Reynold Cheruiyot",
+              "country": "KEN",
+              "flag": "https://flagcdn.com/24x18/ke.png",
+              "primary": "#006600",
+              "venue": "Stade Charlty",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "3:30.31",
+              "athlete": "Anas Lagtiy Chaoudar",
+              "country": "FRA",
+              "flag": "https://flagcdn.com/24x18/fr.png",
+              "primary": "#002395",
+              "venue": "Stade Charlty",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "3:30.43",
+              "athlete": "Isaac Nader",
+              "country": "POR",
+              "flag": "https://flagcdn.com/24x18/pt.png",
+              "primary": "#006600",
+              "venue": "Complexe Sportif Prince Moulay Abdellah",
+              "date": "31 MAY 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "3:30.67",
+              "athlete": "Timothy Cheruiyot",
+              "country": "KEN",
+              "flag": "https://flagcdn.com/24x18/ke.png",
+              "primary": "#006600",
+              "venue": "Olympiastadion",
+              "date": "07 JUN 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "3:30.80",
+              "athlete": "Cole Hocker",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "JDL Fast Track",
+              "date": "14 FEB 2026"
+            }
+          ]
         },
         {
           "id": "1500m_w",

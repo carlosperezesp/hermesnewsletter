@@ -22131,9 +22131,9 @@ window.NHL_DATA = {
       "name": "Oskar Sundqvist",
       "pos": "C",
       "teamCode": "STL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 32,
+      "country": "Sweden",
+      "birthCountry": "SWE",
       "colors": {
         "primary": "#002f87",
         "secondary": "#fcb514"
@@ -47979,10 +47979,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-11 14:37 UTC",
+  "LAST_UPDATE": "2026-07-11 21:07 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-11T14:37:01Z"
+    "standingsDateTimeUtc": "2026-07-11T21:06:30Z"
   }
 };

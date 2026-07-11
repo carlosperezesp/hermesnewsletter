@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-11 14:38 UTC
+// Auto-generated 2026-07-11 21:08 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-11 14:38 UTC",
+  "UPDATED": "2026-07-11 21:08 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5493,7 +5493,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 85.9
@@ -10932,15 +10932,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Karolina Muchova",
+          "w": "Linda Noskova",
           "w_logo": "",
-          "l": "Linda Noskova",
+          "l": "Karolina Muchova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 5-7 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 85.9,
-          "l_score": 78.7,
+          "scheduled": false,
+          "w_score": 78.7,
+          "l_score": 85.9,
           "match_score": 85.9
         }
       ]

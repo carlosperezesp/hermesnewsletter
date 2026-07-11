@@ -30,14 +30,14 @@ window.MLB_DATA = {
       "commonName": "Brewers",
       "conf": "NL",
       "div": "NL Central",
-      "gp": 93,
+      "gp": 94,
       "w": 59,
-      "l": 34,
-      "winPct": 0.634,
-      "rf": 476,
-      "ra": 339,
+      "l": 35,
+      "winPct": 0.628,
+      "rf": 482,
+      "ra": 346,
       "rd": 0,
-      "score": 51,
+      "score": 50,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mil.png",
       "colors": {
         "primary": "#ffc52f",
@@ -171,6 +171,27 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "CHW",
+      "city": "Chicago White Sox",
+      "shortName": "Chicago",
+      "commonName": "White Sox",
+      "conf": "AL",
+      "div": "AL Central",
+      "gp": 94,
+      "w": 49,
+      "l": 45,
+      "winPct": 0.521,
+      "rf": 445,
+      "ra": 418,
+      "rd": 0,
+      "score": 42,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chw.png",
+      "colors": {
+        "primary": "#27251f",
+        "secondary": "#c4ced4"
+      }
+    },
+    {
       "code": "CLE",
       "city": "Cleveland Guardians",
       "shortName": "Cleveland",
@@ -213,27 +234,6 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "CHW",
-      "city": "Chicago White Sox",
-      "shortName": "Chicago",
-      "commonName": "White Sox",
-      "conf": "AL",
-      "div": "AL Central",
-      "gp": 93,
-      "w": 48,
-      "l": 45,
-      "winPct": 0.516,
-      "rf": 444,
-      "ra": 418,
-      "rd": 0,
-      "score": 41,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chw.png",
-      "colors": {
-        "primary": "#27251f",
-        "secondary": "#c4ced4"
-      }
-    },
-    {
       "code": "TEX",
       "city": "Texas Rangers",
       "shortName": "Texas",
@@ -252,6 +252,27 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#c0111f",
         "secondary": "#003278"
+      }
+    },
+    {
+      "code": "PIT",
+      "city": "Pittsburgh Pirates",
+      "shortName": "Pittsburgh",
+      "commonName": "Pirates",
+      "conf": "NL",
+      "div": "NL Central",
+      "gp": 95,
+      "w": 48,
+      "l": 47,
+      "winPct": 0.505,
+      "rf": 499,
+      "ra": 465,
+      "rd": 0,
+      "score": 40,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/pit.png",
+      "colors": {
+        "primary": "#fdb827",
+        "secondary": "#27251f"
       }
     },
     {
@@ -294,27 +315,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#0c2c56",
         "secondary": "#005c5c"
-      }
-    },
-    {
-      "code": "PIT",
-      "city": "Pittsburgh Pirates",
-      "shortName": "Pittsburgh",
-      "commonName": "Pirates",
-      "conf": "NL",
-      "div": "NL Central",
-      "gp": 94,
-      "w": 47,
-      "l": 47,
-      "winPct": 0.5,
-      "rf": 492,
-      "ra": 459,
-      "rd": 0,
-      "score": 40,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/pit.png",
-      "colors": {
-        "primary": "#fdb827",
-        "secondary": "#27251f"
       }
     },
     {
@@ -513,12 +513,12 @@ window.MLB_DATA = {
       "commonName": "Athletics",
       "conf": "AL",
       "div": "AL West",
-      "gp": 94,
+      "gp": 95,
       "w": 41,
-      "l": 53,
-      "winPct": 0.436,
+      "l": 54,
+      "winPct": 0.432,
       "rf": 421,
-      "ra": 518,
+      "ra": 519,
       "rd": 0,
       "score": 35,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ath.png",
@@ -7927,7 +7927,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-11 14:37 UTC",
+  "LAST_UPDATE": "2026-07-11 21:07 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
