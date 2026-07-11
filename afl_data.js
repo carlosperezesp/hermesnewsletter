@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-10 22:29 UTC
+// Auto-generated 2026-07-11 07:20 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-10 22:29 UTC",
+  "UPDATED": "2026-07-11 07:20 UTC",
   "SEASON": "2026",
   "ROUND": 18,
   "IMPORTANCE": 8.2,
@@ -115,6 +115,17 @@ window.AFL_DATA = {
     },
     {
       "rank": 10,
+      "name": "St Kilda",
+      "wins": 8,
+      "losses": 9,
+      "draws": 0,
+      "pts": 32,
+      "percentage": 106.1,
+      "primary": "#ED1C2E",
+      "secondary": "#000000"
+    },
+    {
+      "rank": 11,
       "name": "Carlton",
       "wins": 8,
       "losses": 8,
@@ -125,7 +136,7 @@ window.AFL_DATA = {
       "secondary": "#FFFFFF"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "North Melbourne",
       "wins": 8,
       "losses": 9,
@@ -134,17 +145,6 @@ window.AFL_DATA = {
       "percentage": 91.4,
       "primary": "#CC2031",
       "secondary": "#013B9F"
-    },
-    {
-      "rank": 12,
-      "name": "St Kilda",
-      "wins": 7,
-      "losses": 9,
-      "draws": 0,
-      "pts": 28,
-      "percentage": 105.5,
-      "primary": "#ED1C2E",
-      "secondary": "#000000"
     },
     {
       "rank": 13,
@@ -172,10 +172,10 @@ window.AFL_DATA = {
       "rank": 15,
       "name": "Port Adelaide",
       "wins": 6,
-      "losses": 10,
+      "losses": 11,
       "draws": 0,
       "pts": 24,
-      "percentage": 102.5,
+      "percentage": 101.3,
       "primary": "#002B5C",
       "secondary": "#CC2031"
     },
@@ -1075,6 +1075,16 @@ window.AFL_DATA = {
       "date": "2026-07-10",
       "hprimary": "#000000",
       "aprimary": "#CC2031"
+    },
+    {
+      "hteam": "St Kilda",
+      "hscore": 87,
+      "ateam": "Port Adelaide",
+      "ascore": 73,
+      "winner": "St Kilda",
+      "date": "2026-07-11",
+      "hprimary": "#ED1C2E",
+      "aprimary": "#002B5C"
     }
   ],
   "CURRENT_CONTENDERS": [

@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-10 22:30 UTC",
+  "UPDATED": "2026-07-11 07:22 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Czech Republic motorcycle Grand Prix:Ai Ogura",
@@ -121,13 +121,22 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-29"
     },
     {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Matt Olson",
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Willson Contreras",
       "sport": "mlb",
       "detail": "MLB",
       "anchor": "mlb-road-to-glory",
-      "text": "Matt Olson entra en el top-10 · Road to Glory",
+      "text": "Willson Contreras entra en el top-10 · Road to Glory",
       "weight": 84,
-      "firstSeen": "2026-07-09"
+      "firstSeen": "2026-07-11"
+    },
+    {
+      "id": "rank:afl:LADDER:in:St Kilda",
+      "sport": "afl",
+      "detail": "AFL",
+      "anchor": "afl-clasificacion",
+      "text": "St Kilda entra en el top-10 · clasificación",
+      "weight": 84,
+      "firstSeen": "2026-07-11"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Ben Rice",
@@ -173,15 +182,6 @@ window.GLORY_DATA = {
       "text": "Chris Gotterup entra en el top-10 · Nivel actual",
       "weight": 84,
       "firstSeen": "2026-07-06"
-    },
-    {
-      "id": "rank:afl:LADDER:in:Carlton",
-      "sport": "afl",
-      "detail": "AFL",
-      "anchor": "afl-clasificacion",
-      "text": "Carlton entra en el top-10 · clasificación",
-      "weight": 84,
-      "firstSeen": "2026-07-04"
     },
     {
       "id": "rank:sumo:BANZUKE:in:Yoshinofuji",
@@ -426,9 +426,9 @@ window.GLORY_DATA = {
       "Juan Soto",
       "Yordan Alvarez",
       "Kyle Schwarber",
-      "Matt Olson",
       "Jacob Misiorowski",
-      "Ben Rice"
+      "Ben Rice",
+      "Willson Contreras"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -449,8 +449,8 @@ window.GLORY_DATA = {
       "Pete Crow-Armstrong",
       "Sal Stewart",
       "Junior Caminero",
-      "Nick Kurtz",
       "CJ Abrams",
+      "Nick Kurtz",
       "Chase Burns",
       "Cam Schlittler"
     ],
@@ -692,7 +692,7 @@ window.GLORY_DATA = {
       "Collingwood",
       "Geelong",
       "Western Bulldogs",
-      "Carlton"
+      "St Kilda"
     ],
     "football:ROAD_TO_GLORY.currentContenders": [
       "Argentina",

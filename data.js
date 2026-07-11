@@ -8950,7 +8950,7 @@ window.NHL_DATA = {
       "name": "Ryan Strome",
       "pos": "C",
       "teamCode": "CGY",
-      "age": 32,
+      "age": 33,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -34173,7 +34173,7 @@ window.NHL_DATA = {
       "name": "Jordan Binnington",
       "pos": "G",
       "teamCode": "STL",
-      "age": 32,
+      "age": 33,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47979,10 +47979,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-10 22:28 UTC",
+  "LAST_UPDATE": "2026-07-11 07:19 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-10T22:28:15Z"
+    "standingsDateTimeUtc": "2026-07-11T07:19:30Z"
   }
 };
