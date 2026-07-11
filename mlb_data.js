@@ -318,6 +318,27 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "MIN",
+      "city": "Minnesota Twins",
+      "shortName": "Minnesota",
+      "commonName": "Twins",
+      "conf": "AL",
+      "div": "AL Central",
+      "gp": 96,
+      "w": 47,
+      "l": 49,
+      "winPct": 0.49,
+      "rf": 467,
+      "ra": 483,
+      "rd": 0,
+      "score": 39,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png",
+      "colors": {
+        "primary": "#002b5c",
+        "secondary": "#d31145"
+      }
+    },
+    {
       "code": "ARI",
       "city": "Arizona Diamondbacks",
       "shortName": "Arizona",
@@ -336,27 +357,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#a71930",
         "secondary": "#e3d4ad"
-      }
-    },
-    {
-      "code": "MIN",
-      "city": "Minnesota Twins",
-      "shortName": "Minnesota",
-      "commonName": "Twins",
-      "conf": "AL",
-      "div": "AL Central",
-      "gp": 95,
-      "w": 46,
-      "l": 49,
-      "winPct": 0.484,
-      "rf": 462,
-      "ra": 480,
-      "rd": 0,
-      "score": 39,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png",
-      "colors": {
-        "primary": "#002b5c",
-        "secondary": "#d31145"
       }
     },
     {
@@ -618,12 +618,12 @@ window.MLB_DATA = {
       "commonName": "Angels",
       "conf": "AL",
       "div": "AL West",
-      "gp": 95,
+      "gp": 96,
       "w": 38,
-      "l": 57,
-      "winPct": 0.4,
-      "rf": 425,
-      "ra": 476,
+      "l": 58,
+      "winPct": 0.396,
+      "rf": 428,
+      "ra": 481,
       "rd": 0,
       "score": 32,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/laa.png",
@@ -7927,7 +7927,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-11 21:07 UTC",
+  "LAST_UPDATE": "2026-07-11 22:11 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
