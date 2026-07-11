@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-11 08:17 UTC
+// Auto-generated 2026-07-11 14:09 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-11 08:17 UTC",
+  "UPDATED": "2026-07-11 14:09 UTC",
   "SEASON": "2026",
   "ROUND": 18,
   "IMPORTANCE": 8.2,
@@ -33,17 +33,29 @@ window.AFL_DATA = {
     {
       "rank": 3,
       "name": "Hawthorn",
-      "wins": 10,
+      "wins": 11,
       "losses": 5,
       "draws": 1,
-      "pts": 42,
-      "percentage": 110.0,
+      "pts": 46,
+      "percentage": 114.2,
       "primary": "#4D2004",
       "secondary": "#FFD200",
       "prevRank": 3
     },
     {
       "rank": 4,
+      "name": "Adelaide",
+      "wins": 11,
+      "losses": 6,
+      "draws": 0,
+      "pts": 44,
+      "percentage": 116.9,
+      "primary": "#002B5C",
+      "secondary": "#CC2031",
+      "prevRank": 5
+    },
+    {
+      "rank": 5,
       "name": "Brisbane Lions",
       "wins": 10,
       "losses": 6,
@@ -53,18 +65,6 @@ window.AFL_DATA = {
       "primary": "#7B1A4B",
       "secondary": "#F6AE00",
       "prevRank": 4
-    },
-    {
-      "rank": 5,
-      "name": "Adelaide",
-      "wins": 10,
-      "losses": 6,
-      "draws": 0,
-      "pts": 40,
-      "percentage": 111.4,
-      "primary": "#002B5C",
-      "secondary": "#CC2031",
-      "prevRank": 5
     },
     {
       "rank": 6,
@@ -94,10 +94,10 @@ window.AFL_DATA = {
       "rank": 8,
       "name": "Geelong",
       "wins": 9,
-      "losses": 7,
+      "losses": 8,
       "draws": 0,
       "pts": 36,
-      "percentage": 117.1,
+      "percentage": 115.2,
       "primary": "#002A54",
       "secondary": "#FFFFFF",
       "prevRank": 8
@@ -126,17 +126,28 @@ window.AFL_DATA = {
     },
     {
       "rank": 11,
-      "name": "Carlton",
+      "name": "Greater Western Sydney",
       "wins": 8,
-      "losses": 8,
+      "losses": 9,
       "draws": 0,
       "pts": 32,
-      "percentage": 96.0,
+      "percentage": 101.6,
+      "primary": "#F57F00",
+      "secondary": "#002040"
+    },
+    {
+      "rank": 12,
+      "name": "Carlton",
+      "wins": 8,
+      "losses": 9,
+      "draws": 0,
+      "pts": 32,
+      "percentage": 91.9,
       "primary": "#0E1E2D",
       "secondary": "#FFFFFF"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "North Melbourne",
       "wins": 8,
       "losses": 9,
@@ -147,24 +158,13 @@ window.AFL_DATA = {
       "secondary": "#013B9F"
     },
     {
-      "rank": 13,
-      "name": "Greater Western Sydney",
-      "wins": 7,
-      "losses": 9,
-      "draws": 0,
-      "pts": 28,
-      "percentage": 100.8,
-      "primary": "#F57F00",
-      "secondary": "#002040"
-    },
-    {
       "rank": 14,
       "name": "Gold Coast",
       "wins": 7,
-      "losses": 9,
+      "losses": 10,
       "draws": 0,
       "pts": 28,
-      "percentage": 100.7,
+      "percentage": 95.6,
       "primary": "#C5002F",
       "secondary": "#F1B500"
     },
@@ -1085,6 +1085,36 @@ window.AFL_DATA = {
       "date": "2026-07-11",
       "hprimary": "#ED1C2E",
       "aprimary": "#002B5C"
+    },
+    {
+      "hteam": "Greater Western Sydney",
+      "hscore": 86,
+      "ateam": "Geelong",
+      "ascore": 73,
+      "winner": "Greater Western Sydney",
+      "date": "2026-07-11",
+      "hprimary": "#F57F00",
+      "aprimary": "#002A54"
+    },
+    {
+      "hteam": "Carlton",
+      "hscore": 39,
+      "ateam": "Hawthorn",
+      "ascore": 103,
+      "winner": "Hawthorn",
+      "date": "2026-07-11",
+      "hprimary": "#0E1E2D",
+      "aprimary": "#4D2004"
+    },
+    {
+      "hteam": "Adelaide",
+      "hscore": 128,
+      "ateam": "Gold Coast",
+      "ascore": 49,
+      "winner": "Adelaide",
+      "date": "2026-07-11",
+      "hprimary": "#002B5C",
+      "aprimary": "#C5002F"
     }
   ],
   "CURRENT_CONTENDERS": [

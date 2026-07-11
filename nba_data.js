@@ -5221,7 +5221,7 @@ window.NBA_DATA = {
       "last": "Fleming",
       "pos": "F",
       "teamCode": "PHX",
-      "age": 21,
+      "age": 22,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5105977.png",
       "colors": {
         "primary": "#1d1160",
@@ -5237,7 +5237,7 @@ window.NBA_DATA = {
         "blk": 0.2,
         "min": 4.5
       },
-      "legendScore": 25.4
+      "legendScore": 26.4
     },
     {
       "id": 4683771,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-11 08:16 UTC",
+  "LAST_UPDATE": "2026-07-11 14:08 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

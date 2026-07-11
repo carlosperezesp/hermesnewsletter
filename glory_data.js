@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-11 08:18 UTC",
+  "UPDATED": "2026-07-11 14:10 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Czech Republic motorcycle Grand Prix:Ai Ogura",
@@ -686,8 +686,8 @@ window.GLORY_DATA = {
       "Fremantle",
       "Sydney",
       "Hawthorn",
-      "Brisbane Lions",
       "Adelaide",
+      "Brisbane Lions",
       "Melbourne",
       "Collingwood",
       "Geelong",

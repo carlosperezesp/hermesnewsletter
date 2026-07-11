@@ -690,9 +690,9 @@ window.MLB_DATA = {
       },
       "legendScore": 92.1,
       "currentScore": 100.0,
-      "battingScore": 86,
+      "battingScore": 85,
       "pitchingScore": 100,
-      "twoWayBonus": 18.9,
+      "twoWayBonus": 18.7,
       "rings": 2,
       "prevRank": 2
     },
@@ -1067,36 +1067,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 39832,
-      "name": "Shohei Ohtani",
-      "first": "Shohei",
-      "last": "Ohtani",
-      "pos": "DH",
-      "teamCode": "LAD",
-      "age": 32,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39832.png",
-      "colors": {
-        "primary": "#005a9c",
-        "secondary": "#ef3e42"
-      },
-      "score": 86,
-      "stats": {
-        "type": "batting",
-        "ab": 327,
-        "hr": 21,
-        "rbi": 57,
-        "avg": 0.291,
-        "sb": 6,
-        "ops": 0.945
-      },
-      "legendScore": 92.1,
-      "currentScore": 100.0,
-      "battingScore": 86,
-      "pitchingScore": 100,
-      "twoWayBonus": 18.9,
-      "rings": 2
-    },
-    {
       "id": 36969,
       "name": "Juan Soto",
       "first": "Juan",
@@ -1185,6 +1155,36 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
+    },
+    {
+      "id": 39832,
+      "name": "Shohei Ohtani",
+      "first": "Shohei",
+      "last": "Ohtani",
+      "pos": "DH",
+      "teamCode": "LAD",
+      "age": 32,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39832.png",
+      "colors": {
+        "primary": "#005a9c",
+        "secondary": "#ef3e42"
+      },
+      "score": 85,
+      "stats": {
+        "type": "batting",
+        "ab": 328,
+        "hr": 21,
+        "rbi": 57,
+        "avg": 0.29,
+        "sb": 6,
+        "ops": 0.943
+      },
+      "legendScore": 92.1,
+      "currentScore": 100.0,
+      "battingScore": 85,
+      "pitchingScore": 100,
+      "twoWayBonus": 18.7,
+      "rings": 2
     },
     {
       "id": 32655,
@@ -4885,36 +4885,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4863321,
-      "name": "Connelly Early",
-      "first": "Connelly",
-      "last": "Early",
-      "pos": "SP",
-      "teamCode": "BOS",
-      "age": 24,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4863321.png",
-      "colors": {
-        "primary": "#bd3039",
-        "secondary": "#0c2340"
-      },
-      "score": 58,
-      "stats": {
-        "type": "pitching",
-        "g": 17,
-        "w": 7,
-        "era": 3.44,
-        "ip": 91.2,
-        "so": 93,
-        "whip": 1.25
-      },
-      "legendScore": 34.2,
-      "currentScore": 58,
-      "battingScore": null,
-      "pitchingScore": 58,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 4297897,
       "name": "Emerson Hancock",
       "first": "Emerson",
@@ -5635,36 +5605,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 5132011,
-      "name": "Will Warren",
-      "first": "Will",
-      "last": "Warren",
-      "pos": "SP",
-      "teamCode": "NYY",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5132011.png",
-      "colors": {
-        "primary": "#003087",
-        "secondary": "#e4002c"
-      },
-      "score": 55,
-      "stats": {
-        "type": "pitching",
-        "g": 18,
-        "w": 7,
-        "era": 4.15,
-        "ip": 93.1,
-        "so": 94,
-        "whip": 1.37
-      },
-      "legendScore": 35.0,
-      "currentScore": 55,
-      "battingScore": null,
-      "pitchingScore": 55,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 41287,
       "name": "Ernie Clement",
       "first": "Ernie",
@@ -5748,36 +5688,6 @@ window.MLB_DATA = {
         "whip": 1.19
       },
       "legendScore": 41.2,
-      "currentScore": 54,
-      "battingScore": null,
-      "pitchingScore": 54,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 39817,
-      "name": "Ranger Suarez",
-      "first": "Ranger",
-      "last": "Suarez",
-      "pos": "SP",
-      "teamCode": "BOS",
-      "age": 30,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39817.png",
-      "colors": {
-        "primary": "#bd3039",
-        "secondary": "#0c2340"
-      },
-      "score": 54,
-      "stats": {
-        "type": "pitching",
-        "g": 17,
-        "w": 4,
-        "era": 3.15,
-        "ip": 91.1,
-        "so": 97,
-        "whip": 1.16
-      },
-      "legendScore": 37.0,
       "currentScore": 54,
       "battingScore": null,
       "pitchingScore": 54,
@@ -6715,36 +6625,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4905884,
-      "name": "Maikel Garcia",
-      "first": "Maikel",
-      "last": "Garcia",
-      "pos": "3B",
-      "teamCode": "KC",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4905884.png",
-      "colors": {
-        "primary": "#004687",
-        "secondary": "#c09a5b"
-      },
-      "score": 48,
-      "stats": {
-        "type": "batting",
-        "ab": 268,
-        "hr": 3,
-        "rbi": 30,
-        "avg": 0.261,
-        "sb": 5,
-        "ops": 0.693
-      },
-      "legendScore": 30.4,
-      "currentScore": 48,
-      "battingScore": 48,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 33722,
       "name": "Mitch Keller",
       "first": "Mitch",
@@ -6891,36 +6771,6 @@ window.MLB_DATA = {
       "currentScore": 46,
       "battingScore": 46,
       "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 32968,
-      "name": "Merrill Kelly",
-      "first": "Merrill",
-      "last": "Kelly",
-      "pos": "SP",
-      "teamCode": "ARI",
-      "age": 37,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32968.png",
-      "colors": {
-        "primary": "#a71930",
-        "secondary": "#e3d4ad"
-      },
-      "score": 45,
-      "stats": {
-        "type": "pitching",
-        "g": 16,
-        "w": 7,
-        "era": 5.38,
-        "ip": 93.2,
-        "so": 59,
-        "whip": 1.51
-      },
-      "legendScore": 37.9,
-      "currentScore": 45,
-      "battingScore": null,
-      "pitchingScore": 45,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -7494,9 +7344,9 @@ window.MLB_DATA = {
         "careerScore": 92.1,
         "legendScore": 92.1,
         "currentScore": 100.0,
-        "battingScore": 86,
+        "battingScore": 85,
         "pitchingScore": 100,
-        "twoWayBonus": 18.9,
+        "twoWayBonus": 18.7,
         "threshold": 92.5,
         "gap": 0.4,
         "rings": 2,
@@ -8077,7 +7927,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-11 08:16 UTC",
+  "LAST_UPDATE": "2026-07-11 14:08 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
