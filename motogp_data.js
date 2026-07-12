@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-12 14:12 UTC
+// Auto-generated 2026-07-12 14:42 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-07-12 14:12 UTC",
+  "UPDATED": "2026-07-12 14:42 UTC",
   "SEASON": "2026",
   "ROUND": 11,
   "TOTAL_ROUNDS": 22,
@@ -38,7 +38,7 @@ window.MOTOGP_DATA = {
         "pts": 194.0
       },
       "seasonPct": 35.3,
-      "prevRank": 4,
+      "prevRank": 2,
       "age": 25
     },
     {
@@ -55,7 +55,7 @@ window.MOTOGP_DATA = {
         "pts": 190.0
       },
       "seasonPct": 34.5,
-      "prevRank": 5,
+      "prevRank": 3,
       "age": 33
     },
     {
@@ -72,7 +72,7 @@ window.MOTOGP_DATA = {
         "pts": 186.0
       },
       "seasonPct": 33.8,
-      "prevRank": 2,
+      "prevRank": 4,
       "age": 28
     },
     {
@@ -89,7 +89,7 @@ window.MOTOGP_DATA = {
         "pts": 184.0
       },
       "seasonPct": 33.5,
-      "prevRank": 3,
+      "prevRank": 5,
       "age": 28
     },
     {
@@ -174,7 +174,7 @@ window.MOTOGP_DATA = {
         "pts": 79.0
       },
       "seasonPct": 14.4,
-      "prevRank": null,
+      "prevRank": 10,
       "age": null
     }
   ],

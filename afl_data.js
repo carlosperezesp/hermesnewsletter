@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-12 14:12 UTC
+// Auto-generated 2026-07-12 14:42 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-12 14:12 UTC",
+  "UPDATED": "2026-07-12 14:42 UTC",
   "SEASON": "2026",
   "ROUND": 18,
   "IMPORTANCE": 8.2,
@@ -52,7 +52,7 @@ window.AFL_DATA = {
       "percentage": 117.1,
       "primary": "#7B1A4B",
       "secondary": "#F6AE00",
-      "prevRank": 6
+      "prevRank": 4
     },
     {
       "rank": 5,
@@ -64,7 +64,7 @@ window.AFL_DATA = {
       "percentage": 116.9,
       "primary": "#002B5C",
       "secondary": "#CC2031",
-      "prevRank": 4
+      "prevRank": 5
     },
     {
       "rank": 6,
@@ -76,7 +76,7 @@ window.AFL_DATA = {
       "percentage": 109.0,
       "primary": "#CC2031",
       "secondary": "#013B9F",
-      "prevRank": 5
+      "prevRank": 6
     },
     {
       "rank": 7,
