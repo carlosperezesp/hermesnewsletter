@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-12 08:34 UTC
+// Auto-generated 2026-07-12 14:12 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-12 08:34 UTC",
+  "UPDATED": "2026-07-12 14:12 UTC",
   "SEASON": "2026",
   "ROUND": 18,
   "IMPORTANCE": 8.2,
@@ -44,6 +44,18 @@ window.AFL_DATA = {
     },
     {
       "rank": 4,
+      "name": "Brisbane Lions",
+      "wins": 11,
+      "losses": 6,
+      "draws": 0,
+      "pts": 44,
+      "percentage": 117.1,
+      "primary": "#7B1A4B",
+      "secondary": "#F6AE00",
+      "prevRank": 6
+    },
+    {
+      "rank": 5,
       "name": "Adelaide",
       "wins": 11,
       "losses": 6,
@@ -55,7 +67,7 @@ window.AFL_DATA = {
       "prevRank": 4
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Melbourne",
       "wins": 11,
       "losses": 6,
@@ -64,18 +76,6 @@ window.AFL_DATA = {
       "percentage": 109.0,
       "primary": "#CC2031",
       "secondary": "#013B9F",
-      "prevRank": 6
-    },
-    {
-      "rank": 6,
-      "name": "Brisbane Lions",
-      "wins": 10,
-      "losses": 6,
-      "draws": 0,
-      "pts": 40,
-      "percentage": 111.7,
-      "primary": "#7B1A4B",
-      "secondary": "#F6AE00",
       "prevRank": 5
     },
     {
@@ -205,10 +205,10 @@ window.AFL_DATA = {
       "rank": 18,
       "name": "Essendon",
       "wins": 1,
-      "losses": 15,
+      "losses": 16,
       "draws": 0,
       "pts": 4,
-      "percentage": 69.0,
+      "percentage": 66.6,
       "primary": "#CC2031",
       "secondary": "#000000"
     }
@@ -1135,6 +1135,16 @@ window.AFL_DATA = {
       "date": "2026-07-12",
       "hprimary": "#CC2031",
       "aprimary": "#FFD200"
+    },
+    {
+      "hteam": "Brisbane Lions",
+      "hscore": 149,
+      "ateam": "Essendon",
+      "ascore": 59,
+      "winner": "Brisbane Lions",
+      "date": "2026-07-12",
+      "hprimary": "#7B1A4B",
+      "aprimary": "#CC2031"
     }
   ],
   "CURRENT_CONTENDERS": [

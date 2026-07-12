@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-12 08:36 UTC",
+  "UPDATED": "2026-07-12 14:13 UTC",
   "EVENTS": [
+    {
+      "id": "motogp:win:German motorcycle Grand Prix:Marc Márquez",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "text": "Marc Márquez ganó el German motorcycle Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-07-12"
+    },
     {
       "id": "motogp:win:Czech Republic motorcycle Grand Prix:Ai Ogura",
       "sport": "motogp",
@@ -113,6 +121,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-29"
     },
     {
+      "id": "rank:motogp:RIDERS:in:Luca Marini",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "anchor": "motogp-mundial",
+      "text": "Luca Marini entra en el top-10 · Mundial",
+      "weight": 84,
+      "firstSeen": "2026-07-12"
+    },
+    {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Chris Sale",
       "sport": "mlb",
       "detail": "MLB",
@@ -210,6 +227,15 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-wta",
       "firstSeen": "2026-06-28"
+    },
+    {
+      "id": "rank:motogp:RIDERS:out:Fermín Aldeguer",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "anchor": "motogp-mundial",
+      "text": "Fermín Aldeguer cae del top-10 · Mundial",
+      "weight": 74,
+      "firstSeen": "2026-07-12"
     },
     {
       "id": "rank:nascar:DRIVERS:out:Chris Buescher",
@@ -571,15 +597,15 @@ window.GLORY_DATA = {
     ],
     "motogp:RIDERS": [
       "Jorge Martín",
-      "Marco Bezzecchi",
-      "Fabio Di Giannantonio",
       "Ai Ogura",
       "Marc Márquez",
+      "Marco Bezzecchi",
+      "Fabio Di Giannantonio",
       "Raúl Fernández",
       "Pedro Acosta",
       "Francesco Bagnaia",
       "Álex Márquez",
-      "Fermín Aldeguer"
+      "Luca Marini"
     ],
     "motogp:LEGENDS": [
       "Giacomo Agostini",
@@ -669,9 +695,9 @@ window.GLORY_DATA = {
       "Fremantle",
       "Sydney",
       "Hawthorn",
+      "Brisbane Lions",
       "Adelaide",
       "Melbourne",
-      "Brisbane Lions",
       "Western Bulldogs",
       "Collingwood",
       "Geelong",

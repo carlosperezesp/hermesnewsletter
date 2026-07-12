@@ -689,7 +689,7 @@ window.NBA_DATA = {
       "last": "Gilgeous-Alexander",
       "pos": "G",
       "teamCode": "OKC",
-      "age": 27,
+      "age": 28,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4278073.png",
       "colors": {
         "primary": "#007ac1",
@@ -705,7 +705,7 @@ window.NBA_DATA = {
         "blk": 0.9,
         "min": 36.3
       },
-      "legendScore": 66.1,
+      "legendScore": 67.1,
       "prevRank": 4
     },
     {
@@ -4646,7 +4646,7 @@ window.NBA_DATA = {
       "last": "Terry",
       "pos": "F",
       "teamCode": "PHI",
-      "age": 23,
+      "age": 24,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4433159.png",
       "colors": {
         "primary": "#006bb6",
@@ -4662,7 +4662,7 @@ window.NBA_DATA = {
         "blk": 0.0,
         "min": 5.6
       },
-      "legendScore": 28.0
+      "legendScore": 29.0
     },
     {
       "id": 2578185,
@@ -6965,10 +6965,10 @@ window.NBA_DATA = {
           "primary": "#007ac1",
           "secondary": "#ef3b24"
         },
-        "age": 27,
-        "careerScore": 66.1,
+        "age": 28,
+        "careerScore": 67.1,
         "threshold": 92.1,
-        "gap": 26.0,
+        "gap": 25.0,
         "rings": 1,
         "note": "Multiple elite seasons + several titles needed",
         "prevRank": 4
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-12 08:34 UTC",
+  "LAST_UPDATE": "2026-07-12 14:12 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

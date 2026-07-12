@@ -1,8 +1,8 @@
-// Auto-generated 2026-07-12 08:34 UTC
+// Auto-generated 2026-07-12 14:12 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-07-12 08:34 UTC",
+  "UPDATED": "2026-07-12 14:12 UTC",
   "SEASON": "2026",
-  "ROUND": 10,
+  "ROUND": 11,
   "TOTAL_ROUNDS": 22,
   "MAX_SEASON_PTS": 550,
   "IMPORTANCE": 10.0,
@@ -15,17 +15,51 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 197.0,
-      "score": 35.8,
+      "points": 208.0,
+      "score": 37.8,
       "stats": {
-        "pts": 197.0
+        "pts": 208.0
       },
-      "seasonPct": 35.8,
+      "seasonPct": 37.8,
       "prevRank": 1,
       "age": 28
     },
     {
       "position": 2,
+      "name": "Ai Ogura",
+      "country": "JPN",
+      "bike": "Aprilia",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#003366",
+      "secondary": "#E8002D",
+      "points": 194.0,
+      "score": 35.3,
+      "stats": {
+        "pts": 194.0
+      },
+      "seasonPct": 35.3,
+      "prevRank": 4,
+      "age": 25
+    },
+    {
+      "position": 3,
+      "name": "Marc Márquez",
+      "country": "ESP",
+      "bike": "Ducati",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "primary": "#CC0000",
+      "secondary": "#FFD200",
+      "points": 190.0,
+      "score": 34.5,
+      "stats": {
+        "pts": 190.0
+      },
+      "seasonPct": 34.5,
+      "prevRank": 5,
+      "age": 33
+    },
+    {
+      "position": 4,
       "name": "Marco Bezzecchi",
       "country": "ITA",
       "bike": "Aprilia",
@@ -42,7 +76,7 @@ window.MOTOGP_DATA = {
       "age": 28
     },
     {
-      "position": 3,
+      "position": 5,
       "name": "Fabio Di Giannantonio",
       "country": "ITA",
       "bike": "Ducati",
@@ -59,40 +93,6 @@ window.MOTOGP_DATA = {
       "age": 28
     },
     {
-      "position": 4,
-      "name": "Ai Ogura",
-      "country": "JPN",
-      "bike": "Aprilia",
-      "logo": "https://flagcdn.com/24x18/jp.png",
-      "primary": "#003366",
-      "secondary": "#E8002D",
-      "points": 174.0,
-      "score": 31.6,
-      "stats": {
-        "pts": 174.0
-      },
-      "seasonPct": 31.6,
-      "prevRank": 4,
-      "age": 25
-    },
-    {
-      "position": 5,
-      "name": "Marc Márquez",
-      "country": "ESP",
-      "bike": "Ducati",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "primary": "#CC0000",
-      "secondary": "#FFD200",
-      "points": 165.0,
-      "score": 30.0,
-      "stats": {
-        "pts": 165.0
-      },
-      "seasonPct": 30.0,
-      "prevRank": 5,
-      "age": 33
-    },
-    {
       "position": 6,
       "name": "Raúl Fernández",
       "country": "ESP",
@@ -100,12 +100,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 143.0,
-      "score": 26.0,
+      "points": 159.0,
+      "score": 28.9,
       "stats": {
-        "pts": 143.0
+        "pts": 159.0
       },
-      "seasonPct": 26.0,
+      "seasonPct": 28.9,
       "prevRank": 6,
       "age": 26
     },
@@ -117,12 +117,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#E86825",
       "secondary": "#000000",
-      "points": 135.0,
-      "score": 24.5,
+      "points": 147.0,
+      "score": 26.7,
       "stats": {
-        "pts": 135.0
+        "pts": 147.0
       },
-      "seasonPct": 24.5,
+      "seasonPct": 26.7,
       "prevRank": 7,
       "age": 22
     },
@@ -134,12 +134,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 133.0,
-      "score": 24.2,
+      "points": 143.0,
+      "score": 26.0,
       "stats": {
-        "pts": 133.0
+        "pts": 143.0
       },
-      "seasonPct": 24.2,
+      "seasonPct": 26.0,
       "prevRank": 8,
       "age": 29
     },
@@ -162,20 +162,20 @@ window.MOTOGP_DATA = {
     },
     {
       "position": 10,
-      "name": "Fermín Aldeguer",
-      "country": "ESP",
-      "bike": "Ducati",
-      "logo": "https://flagcdn.com/24x18/es.png",
+      "name": "Luca Marini",
+      "country": "ITA",
+      "bike": "Honda",
+      "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#CC0000",
-      "secondary": "#FFD200",
-      "points": 76.0,
-      "score": 13.8,
+      "secondary": "#FFFFFF",
+      "points": 79.0,
+      "score": 14.4,
       "stats": {
-        "pts": 76.0
+        "pts": 79.0
       },
-      "seasonPct": 13.8,
-      "prevRank": 10,
-      "age": 21
+      "seasonPct": 14.4,
+      "prevRank": null,
+      "age": null
     }
   ],
   "PROSPECTS": [
@@ -186,10 +186,10 @@ window.MOTOGP_DATA = {
       "primary": "#003366",
       "secondary": "#E8002D",
       "bike": "Aprilia",
-      "score": 31.6,
-      "position": 4,
+      "score": 35.3,
+      "position": 2,
       "age": 25,
-      "note": "Top 4 a los 25"
+      "note": "Top 2 a los 25"
     },
     {
       "name": "Pedro Acosta",
@@ -198,7 +198,7 @@ window.MOTOGP_DATA = {
       "primary": "#E86825",
       "secondary": "#000000",
       "bike": "KTM",
-      "score": 24.5,
+      "score": 26.7,
       "position": 7,
       "age": 22,
       "note": "Irrumpe a los 22 (P7)"
@@ -211,9 +211,9 @@ window.MOTOGP_DATA = {
       "secondary": "#FFD200",
       "bike": "Ducati",
       "score": 13.8,
-      "position": 10,
+      "position": 11,
       "age": 21,
-      "note": "Irrumpe a los 21 (P10)"
+      "note": "Irrumpe a los 21 (P11)"
     }
   ],
   "LEGEND_CHASE": [
@@ -282,32 +282,32 @@ window.MOTOGP_DATA = {
     }
   ],
   "LAST_RACE": {
-    "round": 9,
-    "name": "Czech Republic motorcycle Grand Prix",
-    "winner": "Ai Ogura",
-    "country": "JPN",
-    "bike": "Aprilia",
-    "primary": "#003366",
+    "round": 11,
+    "name": "German motorcycle Grand Prix",
+    "winner": "Marc Márquez",
+    "country": "SPA",
+    "bike": "Ducati",
+    "primary": "#CC0000",
     "podium": [
       {
         "pos": 1,
-        "name": "Ai Ogura",
-        "country": "JPN",
-        "logo": "https://flagcdn.com/24x18/jp.png",
-        "bike": "Aprilia",
-        "primary": "#003366"
+        "name": "Marc Márquez",
+        "country": "SPA",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "bike": "Ducati",
+        "primary": "#CC0000"
       },
       {
         "pos": 2,
-        "name": "Fabio Di Giannantonio",
-        "country": "ITA",
-        "logo": "https://flagcdn.com/24x18/it.png",
+        "name": "Álex Márquez",
+        "country": "SPA",
+        "logo": "https://flagcdn.com/24x18/es.png",
         "bike": "Ducati",
         "primary": "#CC0000"
       },
       {
         "pos": 3,
-        "name": "Francesco Bagnaia",
+        "name": "Fabio Di Giannantonio",
         "country": "ITA",
         "logo": "https://flagcdn.com/24x18/it.png",
         "bike": "Ducati",
