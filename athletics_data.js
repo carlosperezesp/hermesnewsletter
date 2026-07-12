@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-12 14:43 UTC
+// Auto-generated 2026-07-12 21:09 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-12 14:43 UTC",
+  "UPDATED": "2026-07-12 21:09 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -196,6 +196,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 8,
+              "mark": "9.89",
+              "athlete": "Kadrian Goldson",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Billy J. Murphy Track and Field Complex",
+              "date": "10 JUL 2026"
+            },
+            {
+              "rank": 9,
               "mark": "9.90",
               "athlete": "Max Thomas",
               "country": "USA",
@@ -205,7 +215,7 @@ window.ATHLETICS_DATA = {
               "date": "04 APR 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "9.90",
               "athlete": "Bryan Levell",
               "country": "JAM",
@@ -213,16 +223,6 @@ window.ATHLETICS_DATA = {
               "primary": "#000000",
               "venue": "National Stadium",
               "date": "19 APR 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "9.91",
-              "athlete": "Jordan Anthony",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Percy Beard Track",
-              "date": "18 APR 2026"
             }
           ]
         },
@@ -5395,6 +5395,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 5,
+              "mark": "17.54",
+              "athlete": "Russell Robinson",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Billy J. Murphy Track and Field Complex",
+              "date": "10 JUL 2026"
+            },
+            {
+              "rank": 6,
               "mark": "17.40",
               "athlete": "Wen Su",
               "country": "CHN",
@@ -5404,7 +5414,7 @@ window.ATHLETICS_DATA = {
               "date": "28 JUN 2026"
             },
             {
-              "rank": 6,
+              "rank": 7,
               "mark": "17.34",
               "athlete": "Andy Hechavarr&#205;a",
               "country": "CUB",
@@ -5414,7 +5424,7 @@ window.ATHLETICS_DATA = {
               "date": "13 MAR 2026"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "17.33",
               "athlete": "L&#225;zaro Mart&#205;nez",
               "country": "CUB",
@@ -5424,7 +5434,7 @@ window.ATHLETICS_DATA = {
               "date": "10 JUN 2026"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "17.29",
               "athlete": "Melvin Raffin",
               "country": "FRA",
@@ -5434,7 +5444,7 @@ window.ATHLETICS_DATA = {
               "date": "31 MAY 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "17.25",
               "athlete": "Jonathan Seremes",
               "country": "FRA",
@@ -5442,16 +5452,6 @@ window.ATHLETICS_DATA = {
               "primary": "#002395",
               "venue": "Randal Tyson Indoor Center",
               "date": "14 MAR 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "17.24",
-              "athlete": "Almir Dos Santos",
-              "country": "BRA",
-              "flag": "https://flagcdn.com/24x18/br.png",
-              "primary": "#009C3B",
-              "venue": "Alfonso Galvis Duque Stadium",
-              "date": "28 JUN 2026"
             }
           ]
         },
@@ -5826,13 +5826,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 4,
-              "mark": "22.24",
+              "mark": "22.44",
               "athlete": "Jordan Geist",
               "country": "USA",
               "flag": "https://flagcdn.com/24x18/us.png",
               "primary": "#B22234",
-              "venue": "Iron Wood Throwers Center",
-              "date": "20 JUN 2026"
+              "venue": "Billy J. Murphy Track and Field Complex",
+              "date": "10 JUL 2026"
             },
             {
               "rank": 5,
@@ -5856,6 +5856,26 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
+              "mark": "21.77",
+              "athlete": "Adrian Piperi",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Billy J. Murphy Track and Field Complex",
+              "date": "10 JUL 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "21.76",
+              "athlete": "Payton Otterdahl",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Billy J. Murphy Track and Field Complex",
+              "date": "10 JUL 2026"
+            },
+            {
+              "rank": 9,
               "mark": "21.74",
               "athlete": "Chukwuebuka Enekwechi",
               "country": "NGR",
@@ -5865,17 +5885,7 @@ window.ATHLETICS_DATA = {
               "date": "24 APR 2026"
             },
             {
-              "rank": 8,
-              "mark": "21.70",
-              "athlete": "Adrian Piperi",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Hayward Field",
-              "date": "04 JUL 2026"
-            },
-            {
-              "rank": 9,
+              "rank": 10,
               "mark": "21.59",
               "athlete": "Ryan Crouser",
               "country": "USA",
@@ -5883,16 +5893,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Complexe Sportif Prince Moulay Abdellah",
               "date": "31 MAY 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "21.38",
-              "athlete": "Wictor Petersson",
-              "country": "SWE",
-              "flag": "https://flagcdn.com/24x18/se.png",
-              "primary": "#006AA7",
-              "venue": "Friidrottens Hus",
-              "date": "15 FEB 2026"
             }
           ]
         },

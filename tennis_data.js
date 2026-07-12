@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-12 14:43 UTC
+// Auto-generated 2026-07-12 21:09 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-12 14:43 UTC",
+  "UPDATED": "2026-07-12 21:09 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -101,7 +101,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Wimbledon",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 87.4
@@ -8215,10 +8215,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Wimbledon · ATV Bancomat Tennis Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "ATV Bancomat Tennis Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 53.1
     },
@@ -8633,7 +8633,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "Wimbledon",
+        "tournament": "ATV Bancomat Tennis Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -9253,10 +9253,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Wimbledon · ATV Bancomat Tennis Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "ATV Bancomat Tennis Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 44.9
     },
@@ -9429,8 +9429,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "out",
+        "tournament": "ATV Bancomat Tennis Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -9745,8 +9745,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "Wimbledon",
-        "state": "out",
+        "tournament": "ATV Bancomat Tennis Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -10900,9 +10900,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alexander Zverev",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-7 (7-9) 7-6 (7-2) 6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 100.0,
           "l_score": 87.4,
           "match_score": 100.0
@@ -11098,7 +11098,9 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
+      "Alessandra Mazzola",
       "Alexandra Eala",
+      "Alice Rame",
       "Alycia Parks",
       "Amanda Anisimova",
       "Anastasia Gasanova",
@@ -11107,28 +11109,45 @@ window.TENNIS_DATA = {
       "Antonia Ruzic",
       "Aryna Sabalenka",
       "Ashlyn Krueger",
+      "Aurora Zantedeschi",
       "Barbora Krejcikova",
       "Belinda Bencic",
       "Camila Osorio",
       "Catherine McNally",
       "Claire Liu",
       "Coco Gauff",
+      "Dalila Spiteri",
+      "Danka Kovinic",
       "Daria Kasatkina",
       "Daria Snigur",
+      "Darja Semenistaja",
+      "Darya Astakhova",
       "Dayana Yastremska",
+      "Deborah Chiesa",
       "Diana Shnaider",
       "Diane Parry",
       "Ekaterina Alexandrova",
+      "Elena Malygina",
       "Elena Rybakina",
       "Elise Mertens",
+      "Elizara Yaneva",
       "Emma Navarro",
+      "Eva Vedder",
+      "Federica Urgesi",
+      "Fiona Ferro",
+      "Francesca Jones",
+      "Francesca Pace",
       "Iga Swiatek",
       "Iva Jovic",
       "Janice Tjen",
       "Jasmine Paolini",
       "Jelena Ostapenko",
+      "Jennifer Ruggeri",
       "Jessica Bouzas Maneiro",
       "Jessica Pegula",
+      "Jessica Pieri",
+      "Julia Riera",
+      "Kajsa Rinaldo Persson",
       "Kamilla Rakhimova",
       "Karolina Muchova",
       "Karolina Pliskova",
@@ -11137,8 +11156,11 @@ window.TENNIS_DATA = {
       "Kimberly Birrell",
       "Lanlana Tararudee",
       "Leolia Jeanjean",
+      "Lina Gjorcheska",
       "Linda Noskova",
       "Liudmila Samsonova",
+      "Lola Radivojevic",
+      "Lucia Bronzetti",
       "Madison Keys",
       "Mananchaya Sawangkaew",
       "Maria Sakkari",
@@ -11146,20 +11168,28 @@ window.TENNIS_DATA = {
       "Mariam Bolkvadze",
       "Marie Bouzkova",
       "Marta Kostyuk",
+      "Martina Trevisan",
       "Maya Joint",
       "McCartney Kessler",
       "Mirra Andreeva",
       "Naomi Osaka",
       "Nikola Bartunkova",
+      "Noemi Basiletti",
+      "Noma Noha Akugue",
+      "Nuria Brancaccio",
       "Oksana Selekhmeteva",
+      "Ren Yufei",
       "Sara Sorribes Tormo",
       "Sofia Kenin",
+      "Sofya Lansere",
       "Solana Sierra",
       "Sorana Cirstea",
       "Tatjana Maria",
+      "Teodora Kostovic",
       "Tyra Caterina Grant",
       "Viktorija Golubic",
       "Wang Xinyu",
+      "Yelyzaveta Kotliar",
       "Zeynep Sonmez",
       "Zhang Shuai"
     ],
@@ -11176,7 +11206,6 @@ window.TENNIS_DATA = {
       "Beatriz Haddad Maia",
       "Bianca Andreescu",
       "Clara Tauson",
-      "Darja Semenistaja",
       "Darja Vidmanova",
       "Donna Vekic",
       "Elena-Gabriela Ruse",
@@ -11186,7 +11215,6 @@ window.TENNIS_DATA = {
       "Elsa Jacquemot",
       "Emiliana Arango",
       "Eva Lys",
-      "Francesca Jones",
       "Hannah Klugman",
       "Hanne Vandewinkel",
       "Harriet Dart",
@@ -11198,7 +11226,6 @@ window.TENNIS_DATA = {
       "Laura Siegemund",
       "Leylah Fernandez",
       "Lilli Tagger",
-      "Lina Gjorcheska",
       "Lois Boisson",
       "Magda Linette",
       "Magdalena Frech",
@@ -11221,7 +11248,6 @@ window.TENNIS_DATA = {
       "Talia Gibson",
       "Tamara Korpatsch",
       "Taylor Townsend",
-      "Teodora Kostovic",
       "Tereza Valentova",
       "Veronika Erjavec",
       "Victoria Jimenez Kasintseva",
@@ -11229,8 +11255,8 @@ window.TENNIS_DATA = {
       "Yuliia Starodubtseva",
       "Zheng Qinwen"
     ],
-    "aliveCount": 64,
-    "matchesSeen": 127
+    "aliveCount": 94,
+    "matchesSeen": 143
   },
   "ATP_SCORE_LOG": {
     "206173": [

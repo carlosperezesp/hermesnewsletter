@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-12 14:42 UTC
+// Auto-generated 2026-07-12 21:08 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-07-12 14:42 UTC",
+  "UPDATED": "2026-07-12 21:08 UTC",
   "SEASON": "2026",
   "ROUND": 11,
   "TOTAL_ROUNDS": 22,
@@ -117,12 +117,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#E86825",
       "secondary": "#000000",
-      "points": 147.0,
-      "score": 26.7,
+      "points": 148.0,
+      "score": 26.9,
       "stats": {
-        "pts": 147.0
+        "pts": 148.0
       },
-      "seasonPct": 26.7,
+      "seasonPct": 26.9,
       "prevRank": 7,
       "age": 22
     },
@@ -198,7 +198,7 @@ window.MOTOGP_DATA = {
       "primary": "#E86825",
       "secondary": "#000000",
       "bike": "KTM",
-      "score": 26.7,
+      "score": 26.9,
       "position": 7,
       "age": 22,
       "note": "Irrumpe a los 22 (P7)"

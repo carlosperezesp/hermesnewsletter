@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-12 14:43 UTC",
+  "UPDATED": "2026-07-12 21:09 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:German motorcycle Grand Prix:Marc Márquez",
@@ -121,20 +121,20 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-29"
     },
     {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:James Wood",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "James Wood entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-07-12"
+    },
+    {
       "id": "rank:motogp:RIDERS:in:Luca Marini",
       "sport": "motogp",
       "detail": "MotoGP",
       "anchor": "motogp-mundial",
       "text": "Luca Marini entra en el top-10 · Mundial",
-      "weight": 84,
-      "firstSeen": "2026-07-12"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Chris Sale",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "Chris Sale entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-07-12"
     },
@@ -437,7 +437,7 @@ window.GLORY_DATA = {
       "Kyle Schwarber",
       "Jacob Misiorowski",
       "Ben Rice",
-      "Chris Sale"
+      "James Wood"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -446,8 +446,8 @@ window.GLORY_DATA = {
       "Texas Rangers",
       "New York Yankees",
       "Philadelphia Phillies",
-      "San Diego Padres",
       "Seattle Mariners",
+      "San Diego Padres",
       "Baltimore Orioles",
       "New York Mets"
     ],
@@ -719,8 +719,8 @@ window.GLORY_DATA = {
       "JJ Bumrah",
       "MA Starc",
       "MJ Henry",
-      "AAP Atkinson",
       "JNT Seales",
+      "AAP Atkinson",
       "KA Maharaj",
       "RA Jadeja",
       "Taijul Islam",
