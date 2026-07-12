@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-12 07:38 UTC
+// Auto-generated 2026-07-12 08:34 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-12 07:38 UTC",
+  "UPDATED": "2026-07-12 08:34 UTC",
   "SEASON": "2026",
   "ROUND": 18,
   "IMPORTANCE": 8.2,
@@ -56,6 +56,18 @@ window.AFL_DATA = {
     },
     {
       "rank": 5,
+      "name": "Melbourne",
+      "wins": 11,
+      "losses": 6,
+      "draws": 0,
+      "pts": 44,
+      "percentage": 109.0,
+      "primary": "#CC2031",
+      "secondary": "#013B9F",
+      "prevRank": 6
+    },
+    {
+      "rank": 6,
       "name": "Brisbane Lions",
       "wins": 10,
       "losses": 6,
@@ -67,18 +79,6 @@ window.AFL_DATA = {
       "prevRank": 5
     },
     {
-      "rank": 6,
-      "name": "Melbourne",
-      "wins": 10,
-      "losses": 6,
-      "draws": 0,
-      "pts": 40,
-      "percentage": 106.3,
-      "primary": "#CC2031",
-      "secondary": "#013B9F",
-      "prevRank": 6
-    },
-    {
       "rank": 7,
       "name": "Western Bulldogs",
       "wins": 10,
@@ -88,7 +88,7 @@ window.AFL_DATA = {
       "percentage": 92.3,
       "primary": "#0039A6",
       "secondary": "#CC2031",
-      "prevRank": 9
+      "prevRank": 7
     },
     {
       "rank": 8,
@@ -100,7 +100,7 @@ window.AFL_DATA = {
       "percentage": 104.5,
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "prevRank": 7
+      "prevRank": 8
     },
     {
       "rank": 9,
@@ -194,10 +194,10 @@ window.AFL_DATA = {
       "rank": 17,
       "name": "Richmond",
       "wins": 2,
-      "losses": 14,
+      "losses": 15,
       "draws": 0,
       "pts": 8,
-      "percentage": 63.3,
+      "percentage": 63.0,
       "primary": "#FFD200",
       "secondary": "#000000"
     },
@@ -1125,6 +1125,16 @@ window.AFL_DATA = {
       "date": "2026-07-12",
       "hprimary": "#0039A6",
       "aprimary": "#002B5C"
+    },
+    {
+      "hteam": "Melbourne",
+      "hscore": 111,
+      "ateam": "Richmond",
+      "ascore": 65,
+      "winner": "Melbourne",
+      "date": "2026-07-12",
+      "hprimary": "#CC2031",
+      "aprimary": "#FFD200"
     }
   ],
   "CURRENT_CONTENDERS": [
