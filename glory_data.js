@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-11 22:13 UTC",
+  "UPDATED": "2026-07-12 07:39 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Czech Republic motorcycle Grand Prix:Ai Ogura",
@@ -49,14 +49,6 @@ window.GLORY_DATA = {
       "text": "Current Leader: ganó en Sonoma Raceway",
       "weight": 100,
       "firstSeen": "2026-06-28"
-    },
-    {
-      "id": "f1:win:Lenovo Austrian Grand Prix:Kimi Antonelli",
-      "sport": "f1",
-      "detail": "F1",
-      "text": "Kimi Antonelli ganó el Lenovo Austrian Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-06-27"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
@@ -121,13 +113,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-29"
     },
     {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Willson Contreras",
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Chris Sale",
       "sport": "mlb",
       "detail": "MLB",
       "anchor": "mlb-road-to-glory",
-      "text": "Willson Contreras entra en el top-10 · Road to Glory",
+      "text": "Chris Sale entra en el top-10 · Road to Glory",
       "weight": 84,
-      "firstSeen": "2026-07-11"
+      "firstSeen": "2026-07-12"
     },
     {
       "id": "rank:afl:LADDER:in:St Kilda",
@@ -209,15 +201,6 @@ window.GLORY_DATA = {
       "text": "Akshay Bhatia entra en el top-10 · Nivel actual",
       "weight": 84,
       "firstSeen": "2026-06-29"
-    },
-    {
-      "id": "rank:afl:LADDER:in:Collingwood",
-      "sport": "afl",
-      "detail": "AFL",
-      "anchor": "afl-clasificacion",
-      "text": "Collingwood entra en el top-10 · clasificación",
-      "weight": 84,
-      "firstSeen": "2026-06-27"
     },
     {
       "id": "tennis:out:WTA:Linda Noskova:20260625",
@@ -428,7 +411,7 @@ window.GLORY_DATA = {
       "Kyle Schwarber",
       "Jacob Misiorowski",
       "Ben Rice",
-      "Willson Contreras"
+      "Chris Sale"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -437,8 +420,8 @@ window.GLORY_DATA = {
       "Texas Rangers",
       "New York Yankees",
       "Philadelphia Phillies",
-      "Seattle Mariners",
       "San Diego Padres",
+      "Seattle Mariners",
       "Baltimore Orioles",
       "New York Mets"
     ],
@@ -449,8 +432,8 @@ window.GLORY_DATA = {
       "Pete Crow-Armstrong",
       "Sal Stewart",
       "Junior Caminero",
-      "CJ Abrams",
       "Nick Kurtz",
+      "CJ Abrams",
       "Chase Burns",
       "Cam Schlittler"
     ],
@@ -689,9 +672,9 @@ window.GLORY_DATA = {
       "Adelaide",
       "Brisbane Lions",
       "Melbourne",
+      "Western Bulldogs",
       "Collingwood",
       "Geelong",
-      "Western Bulldogs",
       "St Kilda"
     ],
     "football:ROAD_TO_GLORY.currentContenders": [

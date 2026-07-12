@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-11 22:11 UTC
+// Auto-generated 2026-07-12 07:38 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-11 22:11 UTC",
+  "UPDATED": "2026-07-12 07:38 UTC",
   "SEASON": "2026",
   "ROUND": 18,
   "IMPORTANCE": 8.2,
@@ -80,6 +80,18 @@ window.AFL_DATA = {
     },
     {
       "rank": 7,
+      "name": "Western Bulldogs",
+      "wins": 10,
+      "losses": 7,
+      "draws": 0,
+      "pts": 40,
+      "percentage": 92.3,
+      "primary": "#0039A6",
+      "secondary": "#CC2031",
+      "prevRank": 9
+    },
+    {
+      "rank": 8,
       "name": "Collingwood",
       "wins": 9,
       "losses": 7,
@@ -91,7 +103,7 @@ window.AFL_DATA = {
       "prevRank": 7
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Geelong",
       "wins": 9,
       "losses": 8,
@@ -99,19 +111,7 @@ window.AFL_DATA = {
       "pts": 36,
       "percentage": 115.2,
       "primary": "#002A54",
-      "secondary": "#FFFFFF",
-      "prevRank": 8
-    },
-    {
-      "rank": 9,
-      "name": "Western Bulldogs",
-      "wins": 9,
-      "losses": 7,
-      "draws": 0,
-      "pts": 36,
-      "percentage": 90.8,
-      "primary": "#0039A6",
-      "secondary": "#CC2031"
+      "secondary": "#FFFFFF"
     },
     {
       "rank": 10,
@@ -183,10 +183,10 @@ window.AFL_DATA = {
       "rank": 16,
       "name": "West Coast",
       "wins": 4,
-      "losses": 12,
+      "losses": 13,
       "draws": 0,
       "pts": 16,
-      "percentage": 71.5,
+      "percentage": 72.0,
       "primary": "#002B5C",
       "secondary": "#F5C209"
     },
@@ -1115,6 +1115,16 @@ window.AFL_DATA = {
       "date": "2026-07-11",
       "hprimary": "#002B5C",
       "aprimary": "#C5002F"
+    },
+    {
+      "hteam": "Western Bulldogs",
+      "hscore": 86,
+      "ateam": "West Coast",
+      "ascore": 70,
+      "winner": "Western Bulldogs",
+      "date": "2026-07-12",
+      "hprimary": "#0039A6",
+      "aprimary": "#002B5C"
     }
   ],
   "CURRENT_CONTENDERS": [

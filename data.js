@@ -11682,7 +11682,7 @@ window.NHL_DATA = {
       "name": "Denton Mateychuk",
       "pos": "D",
       "teamCode": "CBJ",
-      "age": 21,
+      "age": 22,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -11707,7 +11707,7 @@ window.NHL_DATA = {
         50,
         57
       ],
-      "legendScore": 50.9
+      "legendScore": 50.2
     },
     {
       "id": 8481716,
@@ -15321,7 +15321,7 @@ window.NHL_DATA = {
       "name": "Jonas Brodin",
       "pos": "D",
       "teamCode": "MIN",
-      "age": 32,
+      "age": 33,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -21571,7 +21571,7 @@ window.NHL_DATA = {
       "name": "Johnathan Kovacevic",
       "pos": "D",
       "teamCode": "NJD",
-      "age": 28,
+      "age": 29,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47979,10 +47979,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-11 22:11 UTC",
+  "LAST_UPDATE": "2026-07-12 07:37 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-11T22:10:45Z"
+    "standingsDateTimeUtc": "2026-07-12T07:37:01Z"
   }
 };
