@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-13 08:30 UTC
+// Auto-generated 2026-07-13 09:53 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-13 08:30 UTC",
+  "UPDATED": "2026-07-13 09:53 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10026,15 +10026,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Francesca Jones",
+          "w": "Dalila Spiteri",
           "w_logo": "",
-          "l": "Dalila Spiteri",
+          "l": "Francesca Jones",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 42.8,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 42.8,
           "match_score": 42.8
         },
         {
@@ -10108,9 +10108,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lola Radivojevic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0

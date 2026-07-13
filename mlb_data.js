@@ -973,7 +973,7 @@ window.MLB_DATA = {
       "pitchingScore": 100,
       "twoWayBonus": 18.7,
       "rings": 2,
-      "prevRank": 15
+      "prevRank": 9
     },
     {
       "id": 5134581,
@@ -1035,7 +1035,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 9
+      "prevRank": 10
     },
     {
       "id": 40459,
@@ -7927,7 +7927,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-13 08:28 UTC",
+  "LAST_UPDATE": "2026-07-13 09:50 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
