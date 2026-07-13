@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-13 21:16 UTC",
+  "UPDATED": "2026-07-13 22:16 UTC",
   "EVENTS": [
+    {
+      "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
+      "sport": "nascar",
+      "detail": "NASCAR",
+      "text": "Ryan Blaney ganó en Echopark Speedway",
+      "weight": 100,
+      "firstSeen": "2026-07-13"
+    },
     {
       "id": "motogp:win:German motorcycle Grand Prix:Marc Márquez",
       "sport": "motogp",
@@ -548,12 +556,12 @@ window.GLORY_DATA = {
     "nascar:DRIVERS": [
       "Tyler Reddick",
       "Denny Hamlin",
+      "Ryan Blaney",
       "Chase Elliott",
       "Shane van Gisbergen",
-      "Ryan Blaney",
       "Ty Gibbs",
-      "Chase Briscoe",
       "Carson Hocevar",
+      "Chase Briscoe",
       "Daniel Suarez",
       "Kyle Larson"
     ],
