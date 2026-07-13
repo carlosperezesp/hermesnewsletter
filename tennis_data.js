@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-13 09:53 UTC
+// Auto-generated 2026-07-13 15:35 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-13 09:53 UTC",
+  "UPDATED": "2026-07-13 15:35 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10026,15 +10026,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Dalila Spiteri",
+          "w": "Francesca Jones",
           "w_logo": "",
-          "l": "Francesca Jones",
+          "l": "Dalila Spiteri",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "1-6 6-1 6-0",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 42.8,
+          "w_score": 42.8,
+          "l_score": null,
           "match_score": 42.8
         },
         {
@@ -10043,9 +10043,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alice Rame",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
@@ -10056,9 +10056,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Kajsa Rinaldo Persson",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10069,9 +10069,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lina Gjorcheska",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10104,11 +10104,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Ren Yufei",
+          "w": "Lola Radivojevic",
           "w_logo": "",
-          "l": "Lola Radivojevic",
+          "l": "Ren Yufei",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-0",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10135,7 +10135,6 @@ window.TENNIS_DATA = {
       "Alessandra Mazzola",
       "Alice Rame",
       "Aurora Zantedeschi",
-      "Dalila Spiteri",
       "Danka Kovinic",
       "Darja Semenistaja",
       "Darya Astakhova",
@@ -10150,7 +10149,6 @@ window.TENNIS_DATA = {
       "Jennifer Ruggeri",
       "Jessica Pieri",
       "Julia Riera",
-      "Kajsa Rinaldo Persson",
       "Lina Gjorcheska",
       "Lola Radivojevic",
       "Lucia Bronzetti",
@@ -10159,14 +10157,17 @@ window.TENNIS_DATA = {
       "Noma Noha Akugue",
       "Nuria Brancaccio",
       "Oksana Selekhmeteva",
-      "Ren Yufei",
       "Sofya Lansere",
       "Teodora Kostovic",
       "Tyra Caterina Grant",
       "Yelyzaveta Kotliar"
     ],
-    "out": [],
-    "aliveCount": 32,
+    "out": [
+      "Dalila Spiteri",
+      "Kajsa Rinaldo Persson",
+      "Ren Yufei"
+    ],
+    "aliveCount": 29,
     "matchesSeen": 16
   },
   "ATP_SCORE_LOG": {

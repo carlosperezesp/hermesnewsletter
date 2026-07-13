@@ -2721,7 +2721,7 @@ window.NBA_DATA = {
       "last": "Queta",
       "pos": "C",
       "teamCode": "BOS",
-      "age": 26,
+      "age": 27,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4397424.png",
       "colors": {
         "primary": "#007a33",
@@ -2737,7 +2737,7 @@ window.NBA_DATA = {
         "blk": 0.9,
         "min": 21.7
       },
-      "legendScore": 41.6
+      "legendScore": 42.6
     },
     {
       "id": 4683692,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-13 09:50 UTC",
+  "LAST_UPDATE": "2026-07-13 15:33 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
