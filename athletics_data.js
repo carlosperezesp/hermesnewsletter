@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-12 22:12 UTC
+// Auto-generated 2026-07-13 08:30 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-12 22:12 UTC",
+  "UPDATED": "2026-07-13 08:30 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -413,6 +413,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 8,
+              "mark": "10.86",
+              "athlete": "Sade Mccreath",
+              "country": "CAN",
+              "flag": "https://flagcdn.com/24x18/ca.png",
+              "primary": "#FF0000",
+              "venue": "Foote Field",
+              "date": "12 JUL 2026"
+            },
+            {
+              "rank": 9,
               "mark": "10.88",
               "athlete": "Jassani Carter",
               "country": "USA",
@@ -422,7 +432,7 @@ window.ATHLETICS_DATA = {
               "date": "30 MAY 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "10.88",
               "athlete": "Shawnti Jackson",
               "country": "USA",
@@ -430,16 +440,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Hayward Field",
               "date": "11 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "10.89",
-              "athlete": "Jonielle Smith",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Hayward Field",
-              "date": "04 JUL 2026"
             }
           ]
         },
@@ -2176,13 +2176,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 10,
-              "mark": "54.05",
-              "athlete": "Amalie Iuel",
-              "country": "NOR",
-              "flag": "https://flagcdn.com/24x18/no.png",
-              "primary": "#EF2B2D",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
+              "mark": "53.97",
+              "athlete": "Emily Newnham",
+              "country": "GBR",
+              "flag": "https://flagcdn.com/24x18/gb.png",
+              "primary": "#012169",
+              "venue": "Ratinan Stadion",
+              "date": "12 JUL 2026"
             }
           ]
         }

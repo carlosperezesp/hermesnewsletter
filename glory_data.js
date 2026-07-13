@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-12 22:12 UTC",
+  "UPDATED": "2026-07-13 08:30 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:German motorcycle Grand Prix:Marc Márquez",
@@ -51,14 +51,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-06-29"
     },
     {
-      "id": "nascar:win:NASCAR Cup Series at Sonoma:Current Leader:",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "text": "Current Leader: ganó en Sonoma Raceway",
-      "weight": 100,
-      "firstSeen": "2026-06-28"
-    },
-    {
       "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
       "sport": "mlb",
       "detail": "MLB",
@@ -68,13 +60,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-10"
     },
     {
-      "id": "rank:motogp:RIDERS:new1:Jorge Martín",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "anchor": "motogp-mundial",
-      "text": "Jorge Martín es nuevo nº1 · Mundial",
-      "weight": 92,
-      "firstSeen": "2026-06-28"
+      "id": "tennis:in:WTA:Linda Noskova:20260709",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Linda Noskova entra en el top 10 WTA",
+      "weight": 90,
+      "anchor": "tennis-wta",
+      "firstSeen": "2026-07-13"
     },
     {
       "id": "rank:athletics:allTime:200m_w:in:Julien Alfred",
@@ -104,21 +96,21 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-04"
     },
     {
-      "id": "tennis:in:WTA:Karolina Muchova:20260625",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Karolina Muchova entra en el top 10 WTA",
-      "weight": 90,
-      "anchor": "tennis-wta",
-      "firstSeen": "2026-06-28"
-    },
-    {
       "id": "cycling:stage:Giro d'Italia:21:Jonathan Milan",
       "sport": "cycling",
       "detail": "Ciclismo",
       "text": "Jonathan Milan ganó la última etapa del Giro d'Italia",
       "weight": 88,
       "firstSeen": "2026-06-29"
+    },
+    {
+      "id": "rank:golf:CURRENT:in:Tommy Fleetwood",
+      "sport": "golf",
+      "detail": "Golf",
+      "anchor": "golf-nivel-actual",
+      "text": "Tommy Fleetwood entra en el top-10 · Nivel actual",
+      "weight": 84,
+      "firstSeen": "2026-07-13"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:James Wood",
@@ -211,22 +203,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-01"
     },
     {
-      "id": "rank:golf:CURRENT:in:Akshay Bhatia",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Akshay Bhatia entra en el top-10 · Nivel actual",
-      "weight": 84,
-      "firstSeen": "2026-06-29"
-    },
-    {
-      "id": "tennis:out:WTA:Linda Noskova:20260625",
+      "id": "tennis:out:WTA:Victoria Mboko:20260709",
       "sport": "tennis",
       "detail": "Tenis",
-      "text": "Linda Noskova sale del top 10 WTA",
+      "text": "Victoria Mboko sale del top 10 WTA",
       "weight": 78,
       "anchor": "tennis-wta",
-      "firstSeen": "2026-06-28"
+      "firstSeen": "2026-07-13"
     },
     {
       "id": "rank:motogp:RIDERS:out:Fermín Aldeguer",
@@ -281,15 +264,6 @@ window.GLORY_DATA = {
       "text": "Rory McIlroy cae del top-10 · Nivel actual",
       "weight": 74,
       "firstSeen": "2026-06-29"
-    },
-    {
-      "id": "rank:afl:LADDER:out:Gold Coast",
-      "sport": "afl",
-      "detail": "AFL",
-      "anchor": "afl-clasificacion",
-      "text": "Gold Coast cae del top-10 · clasificación",
-      "weight": 74,
-      "firstSeen": "2026-06-28"
     }
   ],
   "REPORTS": [
@@ -499,13 +473,13 @@ window.GLORY_DATA = {
       "Aryna Sabalenka",
       "Elena Rybakina",
       "Mirra Andreeva",
-      "Iga Swiatek",
       "Coco Gauff",
-      "Elina Svitolina",
+      "Iga Swiatek",
       "Marta Kostyuk",
       "Jessica Pegula",
-      "Amanda Anisimova",
-      "Karolina Muchova"
+      "Elina Svitolina",
+      "Karolina Muchova",
+      "Amanda Anisimova"
     ],
     "tennis:ATP_LEGENDS": [
       "Novak Djokovic",
@@ -672,12 +646,12 @@ window.GLORY_DATA = {
       "Matt Fitzpatrick",
       "Cameron Young",
       "Wyndham Clark",
-      "Collin Morikawa",
       "Chris Gotterup",
+      "Collin Morikawa",
       "Si Woo Kim",
       "Ludvig Åberg",
-      "Sam Burns",
-      "Akshay Bhatia"
+      "Tommy Fleetwood",
+      "Sam Burns"
     ],
     "golf:LEGENDS": [
       "Tiger Woods",
@@ -720,11 +694,11 @@ window.GLORY_DATA = {
       "MA Starc",
       "MJ Henry",
       "JNT Seales",
-      "AAP Atkinson",
       "KA Maharaj",
       "RA Jadeja",
       "Taijul Islam",
       "Mehedi Hasan Miraz",
+      "AAP Atkinson",
       "Nauman Ali"
     ],
     "athletics:allTime:100m_m": [
