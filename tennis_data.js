@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-13 16:10 UTC
+// Auto-generated 2026-07-13 21:16 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-13 16:10 UTC",
+  "UPDATED": "2026-07-13 21:16 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -7552,9 +7552,9 @@ window.TENNIS_DATA = {
       "prevListRank": 97,
       "tournamentStatus": {
         "tournament": "ATV Bancomat Tennis Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 50.2
     },
@@ -8455,7 +8455,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "ATV Bancomat Tennis Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 43.1
@@ -9413,7 +9413,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "ATV Bancomat Tennis Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 41.0
@@ -10013,15 +10013,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Oksana Selekhmeteva",
+          "w": "Elizara Yaneva",
           "w_logo": "",
-          "l": "Elizara Yaneva",
+          "l": "Oksana Selekhmeteva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 50.3,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 50.3,
           "match_score": 50.3
         },
         {
@@ -10043,7 +10043,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alice Rame",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": 35.0,
@@ -10069,22 +10069,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lina Gjorcheska",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (1-7) 6-3 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
-          "w": "Elena Malygina",
-          "w_logo": "",
-          "l": "Sofya Lansere",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10095,9 +10082,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Yelyzaveta Kotliar",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-0",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10109,6 +10096,19 @@ window.TENNIS_DATA = {
           "l": "Ren Yufei",
           "l_logo": "",
           "score": "6-4 6-0",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Sofya Lansere",
+          "w_logo": "",
+          "l": "Elena Malygina",
+          "l_logo": "",
+          "score": "4-6 6-1 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10133,13 +10133,11 @@ window.TENNIS_DATA = {
     ],
     "alive": [
       "Alessandra Mazzola",
-      "Alice Rame",
       "Aurora Zantedeschi",
       "Danka Kovinic",
       "Darja Semenistaja",
       "Darya Astakhova",
       "Deborah Chiesa",
-      "Elena Malygina",
       "Elizara Yaneva",
       "Eva Vedder",
       "Federica Urgesi",
@@ -10149,26 +10147,28 @@ window.TENNIS_DATA = {
       "Jennifer Ruggeri",
       "Jessica Pieri",
       "Julia Riera",
-      "Lina Gjorcheska",
       "Lola Radivojevic",
       "Lucia Bronzetti",
       "Martina Trevisan",
       "Noemi Basiletti",
       "Noma Noha Akugue",
       "Nuria Brancaccio",
-      "Oksana Selekhmeteva",
       "Sofya Lansere",
       "Teodora Kostovic",
-      "Tyra Caterina Grant",
-      "Yelyzaveta Kotliar"
+      "Tyra Caterina Grant"
     ],
     "out": [
+      "Alice Rame",
       "Dalila Spiteri",
+      "Elena Malygina",
       "Kajsa Rinaldo Persson",
-      "Ren Yufei"
+      "Lina Gjorcheska",
+      "Oksana Selekhmeteva",
+      "Ren Yufei",
+      "Yelyzaveta Kotliar"
     ],
-    "aliveCount": 29,
-    "matchesSeen": 16
+    "aliveCount": 24,
+    "matchesSeen": 20
   },
   "ATP_SCORE_LOG": {
     "206173": [
