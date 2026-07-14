@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-14 15:12 UTC
+// Auto-generated 2026-07-14 21:17 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-14 15:12 UTC",
+  "UPDATED": "2026-07-14 21:17 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8281,7 +8281,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "ATV Bancomat Tennis Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 44.9
@@ -10108,9 +10108,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Martina Trevisan",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 47.3,
           "l_score": null,
           "match_score": 47.3
@@ -10121,9 +10121,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alessandra Mazzola",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 44.6,
           "l_score": null,
           "match_score": 44.6
@@ -10147,7 +10147,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Fiona Ferro",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 2-6 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10173,20 +10173,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Francesca Pace",
           "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
-          "w": "Jennifer Ruggeri",
-          "w_logo": "",
-          "l": "Teodora Kostovic",
-          "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10195,13 +10182,26 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Jessica Pieri",
+          "w": "Nuria Brancaccio",
           "w_logo": "",
-          "l": "Nuria Brancaccio",
+          "l": "Jessica Pieri",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Teodora Kostovic",
+          "w_logo": "",
+          "l": "Jennifer Ruggeri",
+          "l_logo": "",
+          "score": "6-2 6-3",
+          "day": "hoy",
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10223,7 +10223,6 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
-      "Alessandra Mazzola",
       "Aurora Zantedeschi",
       "Danka Kovinic",
       "Darya Astakhova",
@@ -10231,11 +10230,7 @@ window.TENNIS_DATA = {
       "Elizara Yaneva",
       "Eva Vedder",
       "Federica Urgesi",
-      "Fiona Ferro",
       "Francesca Jones",
-      "Francesca Pace",
-      "Jennifer Ruggeri",
-      "Jessica Pieri",
       "Julia Riera",
       "Lola Radivojevic",
       "Lucia Bronzetti",
@@ -10247,10 +10242,15 @@ window.TENNIS_DATA = {
       "Tyra Caterina Grant"
     ],
     "out": [
+      "Alessandra Mazzola",
       "Alice Rame",
       "Dalila Spiteri",
       "Darja Semenistaja",
       "Elena Malygina",
+      "Fiona Ferro",
+      "Francesca Pace",
+      "Jennifer Ruggeri",
+      "Jessica Pieri",
       "Kajsa Rinaldo Persson",
       "Lina Gjorcheska",
       "Noemi Basiletti",
@@ -10258,8 +10258,8 @@ window.TENNIS_DATA = {
       "Ren Yufei",
       "Yelyzaveta Kotliar"
     ],
-    "aliveCount": 22,
-    "matchesSeen": 21
+    "aliveCount": 17,
+    "matchesSeen": 23
   },
   "ATP_SCORE_LOG": {
     "206173": [
