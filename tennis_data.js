@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-14 14:30 UTC
+// Auto-generated 2026-07-14 15:12 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-14 14:30 UTC",
+  "UPDATED": "2026-07-14 15:12 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10147,9 +10147,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Fiona Ferro",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10186,9 +10186,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Teodora Kostovic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
