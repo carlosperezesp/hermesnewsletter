@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-13 22:16 UTC",
+  "UPDATED": "2026-07-14 07:23 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -51,14 +51,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-04"
     },
     {
-      "id": "nascar:win:NASCAR Cup Series at Sonoma:Shane van Gisbergen",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "text": "Shane van Gisbergen ganó en Sonoma Raceway",
-      "weight": 100,
-      "firstSeen": "2026-06-29"
-    },
-    {
       "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
       "sport": "mlb",
       "detail": "MLB",
@@ -102,14 +94,6 @@ window.GLORY_DATA = {
       "text": "Jamal Britt entra en el top-10 histórico · 110m vallas — H",
       "weight": 90,
       "firstSeen": "2026-07-04"
-    },
-    {
-      "id": "cycling:stage:Giro d'Italia:21:Jonathan Milan",
-      "sport": "cycling",
-      "detail": "Ciclismo",
-      "text": "Jonathan Milan ganó la última etapa del Giro d'Italia",
-      "weight": 88,
-      "firstSeen": "2026-06-29"
     },
     {
       "id": "rank:golf:CURRENT:in:Tommy Fleetwood",
@@ -263,15 +247,6 @@ window.GLORY_DATA = {
       "text": "Fujinokawa cae del top-10 · banzuke",
       "weight": 74,
       "firstSeen": "2026-07-01"
-    },
-    {
-      "id": "rank:golf:CURRENT:out:Rory McIlroy",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Rory McIlroy cae del top-10 · Nivel actual",
-      "weight": 74,
-      "firstSeen": "2026-06-29"
     }
   ],
   "REPORTS": [

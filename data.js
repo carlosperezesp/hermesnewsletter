@@ -4051,7 +4051,7 @@ window.NHL_DATA = {
       "name": "John Gibson",
       "pos": "G",
       "teamCode": "DET",
-      "age": 32,
+      "age": 33,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -47979,10 +47979,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-13 22:14 UTC",
+  "LAST_UPDATE": "2026-07-14 07:20 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-13T22:14:00Z"
+    "standingsDateTimeUtc": "2026-07-14T07:20:15Z"
   }
 };
