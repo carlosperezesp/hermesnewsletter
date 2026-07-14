@@ -2646,7 +2646,7 @@ window.NBA_DATA = {
       "last": "Ighodaro",
       "pos": "F",
       "teamCode": "PHX",
-      "age": 23,
+      "age": 24,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4601023.png",
       "colors": {
         "primary": "#1d1160",
@@ -2662,7 +2662,7 @@ window.NBA_DATA = {
         "blk": 0.8,
         "min": 32.2
       },
-      "legendScore": 39.1
+      "legendScore": 40.1
     },
     {
       "id": 3032976,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-14 08:31 UTC",
+  "LAST_UPDATE": "2026-07-14 14:27 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

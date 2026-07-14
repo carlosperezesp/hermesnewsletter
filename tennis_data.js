@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-14 08:33 UTC
+// Auto-generated 2026-07-14 14:30 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-14 08:33 UTC",
+  "UPDATED": "2026-07-14 14:30 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8770,9 +8770,9 @@ window.TENNIS_DATA = {
       "prevListRank": 132,
       "tournamentStatus": {
         "tournament": "ATV Bancomat Tennis Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 40.4
     },
@@ -10130,15 +10130,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Darja Semenistaja",
+          "w": "Julia Riera",
           "w_logo": "",
-          "l": "Julia Riera",
+          "l": "Darja Semenistaja",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 4-6 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 40.1,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 40.1,
           "match_score": 40.1
         },
         {
@@ -10150,6 +10150,19 @@ window.TENNIS_DATA = {
           "score": "por jugar",
           "day": "hoy",
           "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Danka Kovinic",
+          "w_logo": "",
+          "l": "Noemi Basiletti",
+          "l_logo": "",
+          "score": "6-2 1-6 6-4",
+          "day": "hoy",
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10192,19 +10205,6 @@ window.TENNIS_DATA = {
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
-        },
-        {
-          "round": "R128",
-          "w": "Noemi Basiletti",
-          "w_logo": "",
-          "l": "Danka Kovinic",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
         }
       ]
     }
@@ -10226,7 +10226,6 @@ window.TENNIS_DATA = {
       "Alessandra Mazzola",
       "Aurora Zantedeschi",
       "Danka Kovinic",
-      "Darja Semenistaja",
       "Darya Astakhova",
       "Deborah Chiesa",
       "Elizara Yaneva",
@@ -10241,7 +10240,6 @@ window.TENNIS_DATA = {
       "Lola Radivojevic",
       "Lucia Bronzetti",
       "Martina Trevisan",
-      "Noemi Basiletti",
       "Noma Noha Akugue",
       "Nuria Brancaccio",
       "Sofya Lansere",
@@ -10251,15 +10249,17 @@ window.TENNIS_DATA = {
     "out": [
       "Alice Rame",
       "Dalila Spiteri",
+      "Darja Semenistaja",
       "Elena Malygina",
       "Kajsa Rinaldo Persson",
       "Lina Gjorcheska",
+      "Noemi Basiletti",
       "Oksana Selekhmeteva",
       "Ren Yufei",
       "Yelyzaveta Kotliar"
     ],
-    "aliveCount": 24,
-    "matchesSeen": 20
+    "aliveCount": 22,
+    "matchesSeen": 21
   },
   "ATP_SCORE_LOG": {
     "206173": [
