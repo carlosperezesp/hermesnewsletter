@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-14 21:17 UTC",
+  "UPDATED": "2026-07-14 22:29 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -49,6 +49,15 @@ window.GLORY_DATA = {
       "text": "Lewis Hamilton ganó el Pirelli British Grand Prix",
       "weight": 100,
       "firstSeen": "2026-07-04"
+    },
+    {
+      "id": "rank:football:ROAD_TO_GLORY.currentContenders:new1:Spain",
+      "sport": "football",
+      "detail": "Fútbol",
+      "anchor": "football-aspirantes",
+      "text": "Spain es nuevo nº1 · aspirantes",
+      "weight": 92,
+      "firstSeen": "2026-07-14"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
@@ -661,8 +670,8 @@ window.GLORY_DATA = {
       "St Kilda"
     ],
     "football:ROAD_TO_GLORY.currentContenders": [
-      "Argentina",
       "Spain",
+      "Argentina",
       "France",
       "England",
       "Portugal",

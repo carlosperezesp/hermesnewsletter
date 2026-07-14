@@ -6342,10 +6342,10 @@ window.MLB_DATA = {
         "type": "pitching",
         "g": 19,
         "w": 4,
-        "era": 4.11,
+        "era": 4.19,
         "ip": 111.2,
         "so": 99,
-        "whip": 1.38
+        "whip": 1.39
       },
       "legendScore": 32.3,
       "currentScore": 50,
@@ -7927,7 +7927,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-14 21:15 UTC",
+  "LAST_UPDATE": "2026-07-14 22:26 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
