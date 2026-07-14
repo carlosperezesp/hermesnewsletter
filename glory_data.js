@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-14 07:23 UTC",
+  "UPDATED": "2026-07-14 08:33 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -94,6 +94,15 @@ window.GLORY_DATA = {
       "text": "Jamal Britt entra en el top-10 histórico · 110m vallas — H",
       "weight": 90,
       "firstSeen": "2026-07-04"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Cale Makar entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-07-14"
     },
     {
       "id": "rank:golf:CURRENT:in:Tommy Fleetwood",
@@ -202,6 +211,15 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-wta",
       "firstSeen": "2026-07-13"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:out:David Pastrnak",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "David Pastrnak cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-07-14"
     },
     {
       "id": "rank:motogp:RIDERS:out:Fermín Aldeguer",
@@ -319,10 +337,10 @@ window.GLORY_DATA = {
       "Evgeni Malkin",
       "Leon Draisaitl",
       "Artemi Panarin",
-      "David Pastrnak",
       "Mikko Rantanen",
       "Mark Stone",
-      "Jake Guentzel"
+      "Jake Guentzel",
+      "Cale Makar"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",

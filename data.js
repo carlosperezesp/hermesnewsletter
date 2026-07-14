@@ -992,7 +992,6 @@ window.NHL_DATA = {
         62,
         85
       ],
-      "legendScore": 60.0,
       "prevRank": 8
     },
     {
@@ -41880,207 +41879,6 @@ window.NHL_DATA = {
       }
     },
     {
-      "id": 8477956,
-      "name": "David Pastrnak",
-      "pos": "RW",
-      "active": true,
-      "teamCode": "BOS",
-      "country": "Czechia",
-      "birthCountry": "CZE",
-      "birthDate": "1996-05-25",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8477956.png",
-      "currentScore": 85,
-      "legendScore": null,
-      "colors": {
-        "primary": "#ffb81c",
-        "secondary": "#111111"
-      },
-      "seasons": [
-        {
-          "season": "2014-15",
-          "seasonId": 20142015,
-          "age": 18,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 46,
-          "g": 10,
-          "a": 17,
-          "p": 27,
-          "pm": 12,
-          "score": 47
-        },
-        {
-          "season": "2015-16",
-          "seasonId": 20152016,
-          "age": 19,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 51,
-          "g": 15,
-          "a": 11,
-          "p": 26,
-          "pm": 3,
-          "score": 44
-        },
-        {
-          "season": "2016-17",
-          "seasonId": 20162017,
-          "age": 20,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 75,
-          "g": 34,
-          "a": 36,
-          "p": 70,
-          "pm": 11,
-          "score": 56
-        },
-        {
-          "season": "2017-18",
-          "seasonId": 20172018,
-          "age": 21,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 82,
-          "g": 35,
-          "a": 45,
-          "p": 80,
-          "pm": 10,
-          "score": 56
-        },
-        {
-          "season": "2018-19",
-          "seasonId": 20182019,
-          "age": 22,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 66,
-          "g": 38,
-          "a": 43,
-          "p": 81,
-          "pm": 6,
-          "score": 63
-        },
-        {
-          "season": "2019-20",
-          "seasonId": 20192020,
-          "age": 23,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 70,
-          "g": 48,
-          "a": 47,
-          "p": 95,
-          "pm": 21,
-          "score": 67
-        },
-        {
-          "season": "2020-21",
-          "seasonId": 20202021,
-          "age": 24,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 48,
-          "g": 20,
-          "a": 28,
-          "p": 48,
-          "pm": 10,
-          "score": 58
-        },
-        {
-          "season": "2021-22",
-          "seasonId": 20212022,
-          "age": 25,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 72,
-          "g": 40,
-          "a": 37,
-          "p": 77,
-          "pm": 13,
-          "score": 60
-        },
-        {
-          "season": "2022-23",
-          "seasonId": 20222023,
-          "age": 26,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 82,
-          "g": 61,
-          "a": 52,
-          "p": 113,
-          "pm": 34,
-          "score": 69
-        },
-        {
-          "season": "2023-24",
-          "seasonId": 20232024,
-          "age": 27,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 82,
-          "g": 47,
-          "a": 63,
-          "p": 110,
-          "pm": 21,
-          "score": 67
-        },
-        {
-          "season": "2024-25",
-          "seasonId": 20242025,
-          "age": 28,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 82,
-          "g": 43,
-          "a": 63,
-          "p": 106,
-          "pm": 0,
-          "score": 64
-        },
-        {
-          "season": "2025-26",
-          "seasonId": 20252026,
-          "age": 29,
-          "team": "Bruins",
-          "teamName": "Boston Bruins",
-          "gp": 77,
-          "g": 29,
-          "a": 71,
-          "p": 100,
-          "pm": 4,
-          "score": 64
-        }
-      ],
-      "bestSeason": {
-        "season": "2022-23",
-        "seasonId": 20222023,
-        "age": 26,
-        "team": "Bruins",
-        "teamName": "Boston Bruins",
-        "gp": 82,
-        "g": 61,
-        "a": 52,
-        "p": 113,
-        "pm": 34,
-        "score": 69
-      },
-      "age22Season": {
-        "season": "2018-19",
-        "seasonId": 20182019,
-        "age": 22,
-        "team": "Bruins",
-        "teamName": "Boston Bruins",
-        "gp": 66,
-        "g": 38,
-        "a": 43,
-        "p": 81,
-        "pm": 6,
-        "score": 63
-      }
-    },
-    {
       "id": 8478403,
       "name": "Jack Eichel",
       "pos": "C",
@@ -47513,25 +47311,6 @@ window.NHL_DATA = {
         "prevRank": 6
       },
       {
-        "id": 8477956,
-        "name": "David Pastrnak",
-        "pos": "RW",
-        "teamCode": "BOS",
-        "country": "Czechia",
-        "colors": {
-          "primary": "#ffb81c",
-          "secondary": "#111111"
-        },
-        "age": 30,
-        "careerScore": 60.0,
-        "threshold": 93.1,
-        "gap": 33.1,
-        "cups": 0,
-        "seasons": 12,
-        "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 7
-      },
-      {
         "id": 8478420,
         "name": "Mikko Rantanen",
         "pos": "RW",
@@ -47587,6 +47366,25 @@ window.NHL_DATA = {
         "seasons": 11,
         "note": "Multiple elite seasons + several Cups needed",
         "prevRank": 10
+      },
+      {
+        "id": 8480069,
+        "name": "Cale Makar",
+        "pos": "D",
+        "teamCode": "COL",
+        "country": "Canada",
+        "colors": {
+          "primary": "#6f263d",
+          "secondary": "#236192"
+        },
+        "age": 27,
+        "careerScore": 56.3,
+        "threshold": 93.1,
+        "gap": 36.8,
+        "cups": 1,
+        "seasons": 7,
+        "note": "Multiple elite seasons + several Cups needed",
+        "prevRank": null
       }
     ],
     "teams": [
@@ -47979,10 +47777,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-14 07:20 UTC",
+  "LAST_UPDATE": "2026-07-14 08:31 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-14T07:20:15Z"
+    "standingsDateTimeUtc": "2026-07-14T08:31:00Z"
   }
 };
