@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-15 14:27 UTC
+// Auto-generated 2026-07-15 15:12 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-15 14:27 UTC",
+  "UPDATED": "2026-07-15 15:12 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -2307,7 +2307,108 @@ window.ATHLETICS_DATA = {
               "year": 2024
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "1:41.84",
+              "athlete": "Marco Arop",
+              "country": "CAN",
+              "flag": "https://flagcdn.com/24x18/ca.png",
+              "primary": "#FF0000",
+              "venue": "Stade Charlty",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "1:42.08",
+              "athlete": "Cooper Lutkenhaus",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Bislett Stadion",
+              "date": "10 JUN 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "1:42.09",
+              "athlete": "Emmanuel Wanyonyi",
+              "country": "KEN",
+              "flag": "https://flagcdn.com/24x18/ke.png",
+              "primary": "#006600",
+              "venue": "Bislett Stadion",
+              "date": "10 JUN 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "1:42.50",
+              "athlete": "Josh Hoey",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "The Track at New Balance",
+              "date": "24 JAN 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "1:42.98",
+              "athlete": "Max Burgin",
+              "country": "GBR",
+              "flag": "https://flagcdn.com/24x18/gb.png",
+              "primary": "#012169",
+              "venue": "Complexe Sportif Prince Moulay Abdellah",
+              "date": "31 MAY 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "1:43.19",
+              "athlete": "Djamel Sedjati",
+              "country": "ALG",
+              "flag": "https://flagcdn.com/24x18/dz.png",
+              "primary": "#006233",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "14 JUL 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "1:43.41",
+              "athlete": "Slimane Moula",
+              "country": "ALG",
+              "flag": "https://flagcdn.com/24x18/dz.png",
+              "primary": "#006233",
+              "venue": "Olympiastadion",
+              "date": "07 JUN 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "1:43.45",
+              "athlete": "Ko Ochiai",
+              "country": "JPN",
+              "flag": "https://flagcdn.com/24x18/jp.png",
+              "primary": "#BC002D",
+              "venue": "Okura Sports Park Athletics Field",
+              "date": "30 MAY 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "1:43.54",
+              "athlete": "Laban Kipkorir Chepkwony",
+              "country": "KEN",
+              "flag": "https://flagcdn.com/24x18/ke.png",
+              "primary": "#006600",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "14 JUL 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "1:43.60",
+              "athlete": "Niels Laros",
+              "country": "NED",
+              "flag": "https://flagcdn.com/24x18/nl.png",
+              "primary": "#AE1C28",
+              "venue": "Stade Charlty",
+              "date": "28 JUN 2026"
+            }
+          ]
         },
         {
           "id": "800m_w",
