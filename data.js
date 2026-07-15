@@ -4418,7 +4418,7 @@ window.NHL_DATA = {
       "name": "Anthony Cirelli",
       "pos": "C",
       "teamCode": "TBL",
-      "age": 28,
+      "age": 29,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -29620,7 +29620,7 @@ window.NHL_DATA = {
       "name": "Zach Bogosian",
       "pos": "D",
       "teamCode": "MIN",
-      "age": 35,
+      "age": 36,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -47979,10 +47979,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-14 22:26 UTC",
+  "LAST_UPDATE": "2026-07-15 07:23 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-14T22:26:00Z"
+    "standingsDateTimeUtc": "2026-07-15T07:23:30Z"
   }
 };

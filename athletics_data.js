@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-14 22:29 UTC
+// Auto-generated 2026-07-15 07:25 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-14 22:29 UTC",
+  "UPDATED": "2026-07-15 07:25 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -6033,13 +6033,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 3,
-              "mark": "20.42",
+              "mark": "20.66",
               "athlete": "Sarah Mitton",
               "country": "CAN",
               "flag": "https://flagcdn.com/24x18/ca.png",
               "primary": "#FF0000",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
+              "venue": "Swangard Stadium",
+              "date": "14 JUL 2026"
             },
             {
               "rank": 4,

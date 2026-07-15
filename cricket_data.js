@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-07-14 22:29 UTC",
+  "UPDATED": "2026-07-15 07:25 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1572,
+    "matches": 1570,
     "archives": [
       {
         "name": "Tests",
@@ -37,7 +37,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "MLC",
-        "matches": 78
+        "matches": 76
       }
     ],
     "note": "Daily-after-results model: no live scores, recalculates from completed Cricsheet scorecards."
@@ -856,7 +856,7 @@ window.CRICKET_DATA = {
           "batting": 54.6,
           "bowling": 4.8,
           "overall": 30.5,
-          "runs": 3051,
+          "runs": 2997,
           "wickets": 9
         }
       ],
@@ -1260,7 +1260,7 @@ window.CRICKET_DATA = {
           "batting": 78.5,
           "bowling": 0.3,
           "overall": 8.6,
-          "runs": 941,
+          "runs": 940,
           "wickets": 0
         },
         {
@@ -2296,10 +2296,10 @@ window.CRICKET_DATA = {
             "secondary": "#ffb81c"
           },
           "logo": "https://flagcdn.com/24x18/za.png",
-          "score": 76.1,
-          "batting": 16.3,
-          "bowling": 78.5,
-          "overall": 76.1,
+          "score": 76.4,
+          "batting": 16.4,
+          "bowling": 78.6,
+          "overall": 76.4,
           "runs": 564,
           "wickets": 102
         },
