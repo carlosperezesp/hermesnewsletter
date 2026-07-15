@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-15 08:41 UTC
+// Auto-generated 2026-07-15 14:28 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-15 08:41 UTC",
+  "UPDATED": "2026-07-15 14:28 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10134,22 +10134,22 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lola Radivojevic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "R64",
-          "w": "Sofya Lansere",
+          "w": "Elizara Yaneva",
           "w_logo": "",
-          "l": "Elizara Yaneva",
+          "l": "Sofya Lansere",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 7-6 (7-4)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10207,7 +10207,7 @@ window.TENNIS_DATA = {
       "Yelyzaveta Kotliar"
     ],
     "aliveCount": 17,
-    "matchesSeen": 23
+    "matchesSeen": 24
   },
   "ATP_SCORE_LOG": {
     "206173": [

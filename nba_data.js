@@ -3671,7 +3671,7 @@ window.NBA_DATA = {
       "last": "Kornet",
       "pos": "C",
       "teamCode": "SA",
-      "age": 30,
+      "age": 31,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3064560.png",
       "colors": {
         "primary": "#c4ced4",
@@ -3687,7 +3687,7 @@ window.NBA_DATA = {
         "blk": 0.7,
         "min": 12.9
       },
-      "legendScore": 38.3
+      "legendScore": 39.3
     },
     {
       "id": 3195,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-15 08:38 UTC",
+  "LAST_UPDATE": "2026-07-15 14:25 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
