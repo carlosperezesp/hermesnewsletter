@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-15 15:12 UTC
+// Auto-generated 2026-07-15 21:17 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-15 15:12 UTC",
+  "UPDATED": "2026-07-15 21:17 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -7932,9 +7932,9 @@ window.TENNIS_DATA = {
       "prevListRank": 108,
       "tournamentStatus": {
         "tournament": "ATV Bancomat Tennis Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 47.3
     },
@@ -8455,7 +8455,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "ATV Bancomat Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 43.1
@@ -9413,7 +9413,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "ATV Bancomat Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 41.0
@@ -9991,15 +9991,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Tyra Caterina Grant",
+          "w": "Martina Trevisan",
           "w_logo": "",
-          "l": "Martina Trevisan",
+          "l": "Tyra Caterina Grant",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-0 5-3",
           "day": "ayer",
           "scheduled": false,
-          "w_score": 47.3,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 47.3,
           "match_score": 47.3
         },
         {
@@ -10108,9 +10108,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Federica Urgesi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "2-6 6-4 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 42.8,
           "l_score": null,
           "match_score": 42.8
@@ -10121,9 +10121,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Darya Astakhova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "5-7 6-2 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
@@ -10186,8 +10186,7 @@ window.TENNIS_DATA = {
       "Noma Noha Akugue",
       "Nuria Brancaccio",
       "Sofya Lansere",
-      "Teodora Kostovic",
-      "Tyra Caterina Grant"
+      "Teodora Kostovic"
     ],
     "out": [
       "Alessandra Mazzola",
@@ -10204,10 +10203,11 @@ window.TENNIS_DATA = {
       "Noemi Basiletti",
       "Oksana Selekhmeteva",
       "Ren Yufei",
+      "Tyra Caterina Grant",
       "Yelyzaveta Kotliar"
     ],
-    "aliveCount": 17,
-    "matchesSeen": 24
+    "aliveCount": 16,
+    "matchesSeen": 25
   },
   "ATP_SCORE_LOG": {
     "206173": [

@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-15 15:12 UTC",
+  "UPDATED": "2026-07-15 21:17 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -51,13 +51,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-04"
     },
     {
-      "id": "rank:football:ROAD_TO_GLORY.currentContenders:new1:Spain",
+      "id": "rank:football:ROAD_TO_GLORY.currentContenders:new1:Argentina",
       "sport": "football",
       "detail": "Fútbol",
       "anchor": "football-aspirantes",
-      "text": "Spain es nuevo nº1 · aspirantes",
+      "text": "Argentina es nuevo nº1 · aspirantes",
       "weight": 92,
-      "firstSeen": "2026-07-14"
+      "firstSeen": "2026-07-15"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
@@ -670,8 +670,8 @@ window.GLORY_DATA = {
       "St Kilda"
     ],
     "football:ROAD_TO_GLORY.currentContenders": [
-      "Spain",
       "Argentina",
+      "Spain",
       "France",
       "England",
       "Portugal",
