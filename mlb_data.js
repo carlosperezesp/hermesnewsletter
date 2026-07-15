@@ -2911,7 +2911,7 @@ window.MLB_DATA = {
       "last": "Wrobleski",
       "pos": "SP",
       "teamCode": "LAD",
-      "age": 25,
+      "age": 26,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4417203.png",
       "colors": {
         "primary": "#005a9c",
@@ -2927,7 +2927,7 @@ window.MLB_DATA = {
         "so": 73,
         "whip": 1.02
       },
-      "legendScore": 39.9,
+      "legendScore": 40.7,
       "currentScore": 67,
       "battingScore": null,
       "pitchingScore": 67,
@@ -7927,7 +7927,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-15 07:24 UTC",
+  "LAST_UPDATE": "2026-07-15 08:38 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
