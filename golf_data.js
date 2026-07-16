@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-16 08:38 UTC
+// Auto-generated 2026-07-16 14:37 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-16 08:38 UTC",
+  "UPDATED": "2026-07-16 14:37 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -20,6 +20,22 @@ window.GOLF_DATA = {
     "leaderboard": [
       {
         "rank": 1,
+        "name": "Daniel Brown",
+        "id": "1407",
+        "country": "England",
+        "score": "-4",
+        "today": ""
+      },
+      {
+        "rank": 2,
+        "name": "Sungjae Im",
+        "id": "11382",
+        "country": "South Korea",
+        "score": "-4",
+        "today": ""
+      },
+      {
+        "rank": 3,
         "name": "Thomas Detry",
         "id": "4837",
         "country": "Belgium",
@@ -27,75 +43,59 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 2,
-        "name": "Alex Fitzpatrick",
-        "id": "4364865",
-        "country": "England",
-        "score": "-2",
-        "today": ""
-      },
-      {
-        "rank": 3,
-        "name": "Alex Smalley",
-        "id": "9484",
-        "country": "USA",
-        "score": "-2",
-        "today": ""
-      },
-      {
         "rank": 4,
-        "name": "Andy Sullivan",
-        "id": "5956",
-        "country": "England",
-        "score": "-1",
+        "name": "Robert MacIntyre",
+        "id": "11378",
+        "country": "Scotland",
+        "score": "-3",
         "today": ""
       },
       {
         "rank": 5,
-        "name": "Henrik Stenson",
-        "id": "576",
-        "country": "Sweden",
-        "score": "-1",
+        "name": "Francesco Molinari",
+        "id": "1483",
+        "country": "Italy",
+        "score": "-3",
         "today": ""
       },
       {
         "rank": 6,
-        "name": "Robert MacIntyre",
-        "id": "11378",
-        "country": "Scotland",
-        "score": "-1",
+        "name": "Alex Smalley",
+        "id": "9484",
+        "country": "USA",
+        "score": "-3",
         "today": ""
       },
       {
         "rank": 7,
-        "name": "Francesco Molinari",
-        "id": "1483",
-        "country": "Italy",
-        "score": "-1",
+        "name": "Bryson DeChambeau",
+        "id": "10046",
+        "country": "USA",
+        "score": "-3",
         "today": ""
       },
       {
         "rank": 8,
-        "name": "Daniel Hillier",
-        "id": "4425899",
-        "country": "New Zealand",
-        "score": "E",
+        "name": "Ryan Gerard",
+        "id": "5076021",
+        "country": "USA",
+        "score": "-3",
         "today": ""
       },
       {
         "rank": 9,
-        "name": "Joe Dean",
-        "id": "6970",
+        "name": "Laurie Canter",
+        "id": "5550",
         "country": "England",
-        "score": "E",
+        "score": "-3",
         "today": ""
       },
       {
         "rank": 10,
-        "name": "David Duval",
-        "id": "115",
-        "country": "USA",
-        "score": "E",
+        "name": "Henrik Stenson",
+        "id": "576",
+        "country": "Sweden",
+        "score": "-2",
         "today": ""
       }
     ],

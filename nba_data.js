@@ -1421,7 +1421,7 @@ window.NBA_DATA = {
       "last": "Harris",
       "pos": "F",
       "teamCode": "DET",
-      "age": 33,
+      "age": 34,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/6440.png",
       "colors": {
         "primary": "#c8102e",
@@ -5296,7 +5296,7 @@ window.NBA_DATA = {
       "last": "Lawson",
       "pos": "G",
       "teamCode": "TOR",
-      "age": 25,
+      "age": 26,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4067017.png",
       "colors": {
         "primary": "#ce1141",
@@ -5312,7 +5312,7 @@ window.NBA_DATA = {
         "blk": 0.3,
         "min": 7.3
       },
-      "legendScore": 28.8
+      "legendScore": 29.8
     },
     {
       "id": 4397183,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-16 08:37 UTC",
+  "LAST_UPDATE": "2026-07-16 14:36 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

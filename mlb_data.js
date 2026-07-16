@@ -5341,7 +5341,7 @@ window.MLB_DATA = {
       "last": "Vargas",
       "pos": "1B",
       "teamCode": "ARI",
-      "age": 34,
+      "age": 35,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32985.png",
       "colors": {
         "primary": "#a71930",
@@ -5357,7 +5357,7 @@ window.MLB_DATA = {
         "sb": 2,
         "ops": 0.696
       },
-      "legendScore": 40.9,
+      "legendScore": 41.7,
       "currentScore": 55,
       "battingScore": 55,
       "pitchingScore": null,
@@ -5575,36 +5575,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 32558,
-      "name": "Jorge Soler",
-      "first": "Jorge",
-      "last": "Soler",
-      "pos": "DH",
-      "teamCode": "LAA",
-      "age": 34,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32558.png",
-      "colors": {
-        "primary": "#ba0021",
-        "secondary": "#003263"
-      },
-      "score": 54,
-      "stats": {
-        "type": "batting",
-        "ab": 271,
-        "hr": 11,
-        "rbi": 42,
-        "avg": 0.214,
-        "sb": 0,
-        "ops": 0.691
-      },
-      "legendScore": 40.3,
-      "currentScore": 54,
-      "battingScore": 54,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 5203102,
       "name": "Kyle Karros",
       "first": "Kyle",
@@ -5778,6 +5748,36 @@ window.MLB_DATA = {
         "ops": 0.618
       },
       "legendScore": 35.6,
+      "currentScore": 53,
+      "battingScore": 53,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 32558,
+      "name": "Jorge Soler",
+      "first": "Jorge",
+      "last": "Soler",
+      "pos": "DH",
+      "teamCode": "LAA",
+      "age": 34,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32558.png",
+      "colors": {
+        "primary": "#ba0021",
+        "secondary": "#003263"
+      },
+      "score": 53,
+      "stats": {
+        "type": "batting",
+        "ab": 271,
+        "hr": 11,
+        "rbi": 42,
+        "avg": 0.21,
+        "sb": 0,
+        "ops": 0.684
+      },
+      "legendScore": 39.8,
       "currentScore": 53,
       "battingScore": 53,
       "pitchingScore": null,
@@ -7927,7 +7927,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-16 08:37 UTC",
+  "LAST_UPDATE": "2026-07-16 14:36 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
