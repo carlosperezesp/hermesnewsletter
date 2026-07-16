@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-16 07:32 UTC
+// Auto-generated 2026-07-16 08:38 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-16 07:32 UTC",
+  "UPDATED": "2026-07-16 08:38 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -23,27 +23,35 @@ window.GOLF_DATA = {
         "name": "Thomas Detry",
         "id": "4837",
         "country": "Belgium",
-        "score": "-2",
+        "score": "-3",
         "today": ""
       },
       {
         "rank": 2,
-        "name": "Robert MacIntyre",
-        "id": "11378",
-        "country": "Scotland",
+        "name": "Alex Fitzpatrick",
+        "id": "4364865",
+        "country": "England",
         "score": "-2",
         "today": ""
       },
       {
         "rank": 3,
-        "name": "Daniel Hillier",
-        "id": "4425899",
-        "country": "New Zealand",
-        "score": "-1",
+        "name": "Alex Smalley",
+        "id": "9484",
+        "country": "USA",
+        "score": "-2",
         "today": ""
       },
       {
         "rank": 4,
+        "name": "Andy Sullivan",
+        "id": "5956",
+        "country": "England",
+        "score": "-1",
+        "today": ""
+      },
+      {
+        "rank": 5,
         "name": "Henrik Stenson",
         "id": "576",
         "country": "Sweden",
@@ -51,50 +59,42 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 5,
-        "name": "Joe Dean",
-        "id": "6970",
-        "country": "England",
-        "score": "-1",
-        "today": ""
-      },
-      {
         "rank": 6,
-        "name": "Max Homa",
-        "id": "8973",
-        "country": "USA",
+        "name": "Robert MacIntyre",
+        "id": "11378",
+        "country": "Scotland",
         "score": "-1",
         "today": ""
       },
       {
         "rank": 7,
-        "name": "Matthew Southgate",
-        "id": "5852",
-        "country": "England",
+        "name": "Francesco Molinari",
+        "id": "1483",
+        "country": "Italy",
         "score": "-1",
         "today": ""
       },
       {
         "rank": 8,
-        "name": "Jordan Smith",
-        "id": "9506",
-        "country": "England",
-        "score": "-1",
+        "name": "Daniel Hillier",
+        "id": "4425899",
+        "country": "New Zealand",
+        "score": "E",
         "today": ""
       },
       {
         "rank": 9,
-        "name": "Hennie Du Plessis",
-        "id": "9899",
-        "country": "South Africa",
-        "score": "-1",
+        "name": "Joe Dean",
+        "id": "6970",
+        "country": "England",
+        "score": "E",
         "today": ""
       },
       {
         "rank": 10,
-        "name": "Andy Sullivan",
-        "id": "5956",
-        "country": "England",
+        "name": "David Duval",
+        "id": "115",
+        "country": "USA",
         "score": "E",
         "today": ""
       }
