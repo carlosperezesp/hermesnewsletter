@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-16 14:37 UTC
+// Auto-generated 2026-07-16 15:20 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-16 14:37 UTC",
+  "UPDATED": "2026-07-16 15:20 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -84,9 +84,9 @@ window.GOLF_DATA = {
       },
       {
         "rank": 9,
-        "name": "Laurie Canter",
-        "id": "5550",
-        "country": "England",
+        "name": "MJ Daffue",
+        "id": "7110",
+        "country": "South Africa",
         "score": "-3",
         "today": ""
       },
