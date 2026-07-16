@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-16 21:17 UTC
+// Auto-generated 2026-07-16 22:27 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-16 21:17 UTC",
+  "UPDATED": "2026-07-16 22:27 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -219,7 +219,7 @@ window.GOLF_DATA = {
         "fedexRank": 1,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 1
     },
     {
       "id": "matt_fitzpatrick",
@@ -242,7 +242,7 @@ window.GOLF_DATA = {
         "fedexRank": 2,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 2
     },
     {
       "id": "cameron_young",
@@ -265,7 +265,7 @@ window.GOLF_DATA = {
         "fedexRank": 3,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 3
     },
     {
       "id": "wyndham_clark",
@@ -288,7 +288,7 @@ window.GOLF_DATA = {
         "fedexRank": 4,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 4
     },
     {
       "id": "chris_gotterup",
@@ -311,7 +311,7 @@ window.GOLF_DATA = {
         "fedexRank": 5,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 5
     },
     {
       "id": "collin_morikawa",
@@ -334,7 +334,7 @@ window.GOLF_DATA = {
         "fedexRank": 6,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 6
     },
     {
       "id": "si_woo_kim",
@@ -357,7 +357,7 @@ window.GOLF_DATA = {
         "fedexRank": 7,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 7
     },
     {
       "id": "ludvig_berg",
@@ -380,7 +380,7 @@ window.GOLF_DATA = {
         "fedexRank": 8,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 8
     },
     {
       "id": "tommy_fleetwood",
@@ -403,7 +403,7 @@ window.GOLF_DATA = {
         "fedexRank": 9,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 9
     },
     {
       "id": "sam_burns",
@@ -426,7 +426,7 @@ window.GOLF_DATA = {
         "fedexRank": 10,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 10
     },
     {
       "id": "akshay_bhatia",
@@ -449,7 +449,7 @@ window.GOLF_DATA = {
         "fedexRank": 11,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 11
     },
     {
       "id": "rory_mcilroy",
@@ -472,7 +472,7 @@ window.GOLF_DATA = {
         "fedexRank": 12,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 12
     }
   ],
   "PROSPECTS": [
@@ -965,7 +965,7 @@ window.GOLF_DATA = {
         "fedexRank": 12,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 1,
       "gapToTop10": 3.2,
       "note": "A 3.2 del top 10 histórico"
     },
@@ -990,7 +990,7 @@ window.GOLF_DATA = {
         "fedexRank": 1,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 2,
       "gapToTop10": 14.6,
       "note": "A 14.6 del top 10 histórico"
     },
@@ -1015,7 +1015,7 @@ window.GOLF_DATA = {
         "fedexRank": 4,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 3,
       "gapToTop10": 26.1,
       "note": "A 26.1 del top 10 histórico"
     },
@@ -1040,7 +1040,7 @@ window.GOLF_DATA = {
         "fedexRank": 6,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 4,
       "gapToTop10": 26.1,
       "note": "A 26.1 del top 10 histórico"
     },
@@ -1065,7 +1065,7 @@ window.GOLF_DATA = {
         "fedexRank": 2,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 5,
       "gapToTop10": 31.8,
       "note": "A 31.8 del top 10 histórico"
     },
@@ -1090,7 +1090,7 @@ window.GOLF_DATA = {
         "fedexRank": 3,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 6,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     },
@@ -1115,7 +1115,7 @@ window.GOLF_DATA = {
         "fedexRank": 5,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 7,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     },
@@ -1140,7 +1140,7 @@ window.GOLF_DATA = {
         "fedexRank": 7,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 8,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     },
@@ -1165,7 +1165,7 @@ window.GOLF_DATA = {
         "fedexRank": 8,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 9,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     },
@@ -1190,7 +1190,7 @@ window.GOLF_DATA = {
         "fedexRank": 9,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 10,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     }

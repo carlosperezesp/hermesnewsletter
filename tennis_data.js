@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-16 21:18 UTC
+// Auto-generated 2026-07-16 22:28 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-16 21:18 UTC",
+  "UPDATED": "2026-07-16 22:28 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10065,19 +10065,6 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Eva Vedder",
-          "w_logo": "",
-          "l": "Nuria Brancaccio",
-          "l_logo": "",
-          "score": "In Progress",
-          "day": "hoy",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R64",
           "w": "Julia Riera",
           "w_logo": "",
           "l": "Danka Kovinic",
@@ -10096,6 +10083,19 @@ window.TENNIS_DATA = {
           "l": "Aurora Zantedeschi",
           "l_logo": "",
           "score": "6-1 7-6 (7-1)",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R64",
+          "w": "Nuria Brancaccio",
+          "w_logo": "",
+          "l": "Eva Vedder",
+          "l_logo": "",
+          "score": "6-1 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10155,7 +10155,7 @@ window.TENNIS_DATA = {
       "Yelyzaveta Kotliar"
     ],
     "aliveCount": 16,
-    "matchesSeen": 26
+    "matchesSeen": 27
   },
   "ATP_SCORE_LOG": {
     "206173": [
