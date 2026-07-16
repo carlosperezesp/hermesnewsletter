@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-16 15:21 UTC
+// Auto-generated 2026-07-16 21:18 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-16 15:21 UTC",
+  "UPDATED": "2026-07-16 21:18 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -1939,6 +1939,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 8,
+              "mark": "47.77",
+              "athlete": "Yeral Nu&#209;ez",
+              "country": "DOM",
+              "flag": "https://flagcdn.com/24x18/do.png",
+              "primary": "#002D62",
+              "venue": "Estadio Vallehermoso",
+              "date": "16 JUL 2026"
+            },
+            {
+              "rank": 9,
               "mark": "47.93",
               "athlete": "Abderrahman Samba",
               "country": "QAT",
@@ -1948,7 +1958,7 @@ window.ATHLETICS_DATA = {
               "date": "23 MAY 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "48.06",
               "athlete": "Vance Nilsson",
               "country": "USA",
@@ -1956,16 +1966,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Hayward Field",
               "date": "12 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "48.09",
-              "athlete": "Taiju Goto",
-              "country": "JPN",
-              "flag": "https://flagcdn.com/24x18/jp.png",
-              "primary": "#BC002D",
-              "venue": "Municipal Mizuho Stadium",
-              "date": "14 JUN 2026"
             }
           ]
         },
@@ -2176,13 +2176,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 10,
-              "mark": "53.97",
+              "mark": "53.92",
               "athlete": "Emily Newnham",
               "country": "GBR",
               "flag": "https://flagcdn.com/24x18/gb.png",
               "primary": "#012169",
-              "venue": "Ratinan Stadion",
-              "date": "12 JUL 2026"
+              "venue": "Estadio Vallehermoso",
+              "date": "16 JUL 2026"
             }
           ]
         }

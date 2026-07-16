@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-16 15:21 UTC
+// Auto-generated 2026-07-16 21:18 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-16 15:21 UTC",
+  "UPDATED": "2026-07-16 21:18 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10056,9 +10056,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Teodora Kostovic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 44.6,
           "l_score": null,
           "match_score": 44.6
@@ -10069,9 +10069,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nuria Brancaccio",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10082,9 +10082,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Danka Kovinic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "3-6 7-5 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10095,9 +10095,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Aurora Zantedeschi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 7-6 (7-1)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10155,7 +10155,7 @@ window.TENNIS_DATA = {
       "Yelyzaveta Kotliar"
     ],
     "aliveCount": 16,
-    "matchesSeen": 25
+    "matchesSeen": 26
   },
   "ATP_SCORE_LOG": {
     "206173": [
