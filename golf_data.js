@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-15 22:26 UTC
+// Auto-generated 2026-07-16 07:32 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-15 22:26 UTC",
+  "UPDATED": "2026-07-16 07:32 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -11,13 +11,94 @@ window.GOLF_DATA = {
     "location": "Southport, England",
     "surface": "Links",
     "defending": "Scottie Scheffler",
-    "state": "upcoming",
+    "state": "live",
     "tier": "Major",
     "startLabel": "16 Jul",
     "endLabel": "19 Jul",
-    "round": 0,
-    "daysToStart": 1,
-    "leaderboard": [],
+    "round": 1,
+    "daysToStart": 0,
+    "leaderboard": [
+      {
+        "rank": 1,
+        "name": "Thomas Detry",
+        "id": "4837",
+        "country": "Belgium",
+        "score": "-2",
+        "today": ""
+      },
+      {
+        "rank": 2,
+        "name": "Robert MacIntyre",
+        "id": "11378",
+        "country": "Scotland",
+        "score": "-2",
+        "today": ""
+      },
+      {
+        "rank": 3,
+        "name": "Daniel Hillier",
+        "id": "4425899",
+        "country": "New Zealand",
+        "score": "-1",
+        "today": ""
+      },
+      {
+        "rank": 4,
+        "name": "Henrik Stenson",
+        "id": "576",
+        "country": "Sweden",
+        "score": "-1",
+        "today": ""
+      },
+      {
+        "rank": 5,
+        "name": "Joe Dean",
+        "id": "6970",
+        "country": "England",
+        "score": "-1",
+        "today": ""
+      },
+      {
+        "rank": 6,
+        "name": "Max Homa",
+        "id": "8973",
+        "country": "USA",
+        "score": "-1",
+        "today": ""
+      },
+      {
+        "rank": 7,
+        "name": "Matthew Southgate",
+        "id": "5852",
+        "country": "England",
+        "score": "-1",
+        "today": ""
+      },
+      {
+        "rank": 8,
+        "name": "Jordan Smith",
+        "id": "9506",
+        "country": "England",
+        "score": "-1",
+        "today": ""
+      },
+      {
+        "rank": 9,
+        "name": "Hennie Du Plessis",
+        "id": "9899",
+        "country": "South Africa",
+        "score": "-1",
+        "today": ""
+      },
+      {
+        "rank": 10,
+        "name": "Andy Sullivan",
+        "id": "5956",
+        "country": "England",
+        "score": "E",
+        "today": ""
+      }
+    ],
     "favorites": []
   },
   "LAST_MAJOR": {
@@ -575,5 +656,5 @@ window.GOLF_DATA = {
   ],
   "ROAD_TO_GLORY": [],
   "LEGEND_THRESHOLD": 37.5,
-  "IMPORTANCE": 8.5
+  "IMPORTANCE": 10.0
 };

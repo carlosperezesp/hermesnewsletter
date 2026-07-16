@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-15 22:27 UTC",
+  "UPDATED": "2026-07-16 07:34 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -186,24 +186,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-06"
     },
     {
-      "id": "rank:sumo:BANZUKE:in:Yoshinofuji",
-      "sport": "sumo",
-      "detail": "Sumo",
-      "anchor": "sumo-banzuke",
-      "text": "Yoshinofuji entra en el top-10 · banzuke",
-      "weight": 84,
-      "firstSeen": "2026-07-01"
-    },
-    {
-      "id": "rank:sumo:BANZUKE:in:Oho",
-      "sport": "sumo",
-      "detail": "Sumo",
-      "anchor": "sumo-banzuke",
-      "text": "Oho entra en el top-10 · banzuke",
-      "weight": 84,
-      "firstSeen": "2026-07-01"
-    },
-    {
       "id": "tennis:out:WTA:Victoria Mboko:20260709",
       "sport": "tennis",
       "detail": "Tenis",
@@ -229,33 +211,6 @@ window.GLORY_DATA = {
       "text": "Chris Buescher cae del top-10 · Cup Series",
       "weight": 74,
       "firstSeen": "2026-07-06"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:out:Aaron Judge",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "Aaron Judge cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-07-01"
-    },
-    {
-      "id": "rank:sumo:BANZUKE:out:Takayasu",
-      "sport": "sumo",
-      "detail": "Sumo",
-      "anchor": "sumo-banzuke",
-      "text": "Takayasu cae del top-10 · banzuke",
-      "weight": 74,
-      "firstSeen": "2026-07-01"
-    },
-    {
-      "id": "rank:sumo:BANZUKE:out:Fujinokawa",
-      "sport": "sumo",
-      "detail": "Sumo",
-      "anchor": "sumo-banzuke",
-      "text": "Fujinokawa cae del top-10 · banzuke",
-      "weight": 74,
-      "firstSeen": "2026-07-01"
     }
   ],
   "REPORTS": [
