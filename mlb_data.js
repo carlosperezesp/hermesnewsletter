@@ -926,19 +926,19 @@ window.MLB_DATA = {
         "primary": "#092c5c",
         "secondary": "#8fbce6"
       },
-      "score": 89,
+      "score": 88,
       "stats": {
         "type": "batting",
-        "ab": 355,
+        "ab": 359,
         "hr": 28,
         "rbi": 59,
         "avg": 0.279,
         "sb": 2,
-        "ops": 0.927
+        "ops": 0.923
       },
-      "legendScore": 50.3,
-      "currentScore": 89,
-      "battingScore": 89,
+      "legendScore": 49.7,
+      "currentScore": 88,
+      "battingScore": 88,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
@@ -2079,12 +2079,12 @@ window.MLB_DATA = {
       "score": 73,
       "stats": {
         "type": "batting",
-        "ab": 340,
+        "ab": 343,
         "hr": 14,
         "rbi": 64,
-        "avg": 0.297,
+        "avg": 0.294,
         "sb": 0,
-        "ops": 0.865
+        "ops": 0.859
       },
       "legendScore": 45.7,
       "currentScore": 73,
@@ -2350,12 +2350,12 @@ window.MLB_DATA = {
       "score": 71,
       "stats": {
         "type": "batting",
-        "ab": 345,
+        "ab": 349,
         "hr": 13,
         "rbi": 55,
-        "avg": 0.322,
+        "avg": 0.318,
         "sb": 1,
-        "ops": 0.888
+        "ops": 0.879
       },
       "legendScore": 49.6,
       "currentScore": 71,
@@ -3505,6 +3505,36 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
+      "id": 41610,
+      "name": "Jarren Duran",
+      "first": "Jarren",
+      "last": "Duran",
+      "pos": "LF",
+      "teamCode": "BOS",
+      "age": 29,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41610.png",
+      "colors": {
+        "primary": "#bd3039",
+        "secondary": "#0c2340"
+      },
+      "score": 64,
+      "stats": {
+        "type": "batting",
+        "ab": 343,
+        "hr": 13,
+        "rbi": 48,
+        "avg": 0.195,
+        "sb": 14,
+        "ops": 0.608
+      },
+      "legendScore": 41.6,
+      "currentScore": 64,
+      "battingScore": 64,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
       "id": 40854,
       "name": "Jo Adell",
       "first": "Jo",
@@ -3655,36 +3685,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 41610,
-      "name": "Jarren Duran",
-      "first": "Jarren",
-      "last": "Duran",
-      "pos": "LF",
-      "teamCode": "BOS",
-      "age": 29,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41610.png",
-      "colors": {
-        "primary": "#bd3039",
-        "secondary": "#0c2340"
-      },
-      "score": 63,
-      "stats": {
-        "type": "batting",
-        "ab": 340,
-        "hr": 13,
-        "rbi": 45,
-        "avg": 0.194,
-        "sb": 14,
-        "ops": 0.609
-      },
-      "legendScore": 41.1,
-      "currentScore": 63,
-      "battingScore": 63,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 4433874,
       "name": "Nolan McLean",
       "first": "Nolan",
@@ -3711,6 +3711,36 @@ window.MLB_DATA = {
       "currentScore": 63,
       "battingScore": null,
       "pitchingScore": 63,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 4987382,
+      "name": "Ceddanne Rafaela",
+      "first": "Ceddanne",
+      "last": "Rafaela",
+      "pos": "CF",
+      "teamCode": "BOS",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4987382.png",
+      "colors": {
+        "primary": "#bd3039",
+        "secondary": "#0c2340"
+      },
+      "score": 62,
+      "stats": {
+        "type": "batting",
+        "ab": 347,
+        "hr": 8,
+        "rbi": 40,
+        "avg": 0.28,
+        "sb": 13,
+        "ops": 0.758
+      },
+      "legendScore": 37.2,
+      "currentScore": 62,
+      "battingScore": 62,
+      "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -3948,36 +3978,6 @@ window.MLB_DATA = {
         "ops": 0.724
       },
       "legendScore": 35.0,
-      "currentScore": 61,
-      "battingScore": 61,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 4987382,
-      "name": "Ceddanne Rafaela",
-      "first": "Ceddanne",
-      "last": "Rafaela",
-      "pos": "CF",
-      "teamCode": "BOS",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4987382.png",
-      "colors": {
-        "primary": "#bd3039",
-        "secondary": "#0c2340"
-      },
-      "score": 61,
-      "stats": {
-        "type": "batting",
-        "ab": 342,
-        "hr": 8,
-        "rbi": 39,
-        "avg": 0.281,
-        "sb": 12,
-        "ops": 0.761
-      },
-      "legendScore": 36.6,
       "currentScore": 61,
       "battingScore": 61,
       "pitchingScore": null,
@@ -4300,12 +4300,12 @@ window.MLB_DATA = {
       "score": 61,
       "stats": {
         "type": "batting",
-        "ab": 353,
+        "ab": 357,
         "hr": 11,
         "rbi": 43,
         "avg": 0.261,
         "sb": 6,
-        "ops": 0.759
+        "ops": 0.758
       },
       "legendScore": 38.3,
       "currentScore": 61,
@@ -4705,6 +4705,36 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
+      "id": 5007615,
+      "name": "Caleb Durbin",
+      "first": "Caleb",
+      "last": "Durbin",
+      "pos": "3B",
+      "teamCode": "BOS",
+      "age": 26,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5007615.png",
+      "colors": {
+        "primary": "#bd3039",
+        "secondary": "#0c2340"
+      },
+      "score": 58,
+      "stats": {
+        "type": "batting",
+        "ab": 289,
+        "hr": 9,
+        "rbi": 40,
+        "avg": 0.235,
+        "sb": 10,
+        "ops": 0.699
+      },
+      "legendScore": 35.8,
+      "currentScore": 58,
+      "battingScore": 58,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
       "id": 5080641,
       "name": "Cole Young",
       "first": "Cole",
@@ -4910,36 +4940,6 @@ window.MLB_DATA = {
       "legendScore": 38.3,
       "currentScore": 58,
       "battingScore": 58,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 5007615,
-      "name": "Caleb Durbin",
-      "first": "Caleb",
-      "last": "Durbin",
-      "pos": "3B",
-      "teamCode": "BOS",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5007615.png",
-      "colors": {
-        "primary": "#bd3039",
-        "secondary": "#0c2340"
-      },
-      "score": 57,
-      "stats": {
-        "type": "batting",
-        "ab": 285,
-        "hr": 9,
-        "rbi": 39,
-        "avg": 0.228,
-        "sb": 10,
-        "ops": 0.686
-      },
-      "legendScore": 35.3,
-      "currentScore": 57,
-      "battingScore": 57,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
@@ -6670,12 +6670,12 @@ window.MLB_DATA = {
       "score": 47,
       "stats": {
         "type": "batting",
-        "ab": 330,
+        "ab": 333,
         "hr": 0,
         "rbi": 17,
-        "avg": 0.279,
+        "avg": 0.276,
         "sb": 22,
-        "ops": 0.654
+        "ops": 0.648
       },
       "legendScore": 29.0,
       "currentScore": 47,
@@ -7810,10 +7810,10 @@ window.MLB_DATA = {
           "secondary": "#8fbce6"
         },
         "age": 23,
-        "currentScore": 89,
-        "projectedScore": 68.1,
+        "currentScore": 88,
+        "projectedScore": 67.6,
         "threshold": 92.5,
-        "gap": 24.4,
+        "gap": 24.9,
         "note": "Elite start to career — ceiling is very high",
         "prevRank": 6
       },
@@ -7927,7 +7927,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-17 21:08 UTC",
+  "LAST_UPDATE": "2026-07-17 22:09 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
