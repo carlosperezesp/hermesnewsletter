@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-17 14:16 UTC
+// Auto-generated 2026-07-17 15:01 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-17 14:16 UTC",
+  "UPDATED": "2026-07-17 15:01 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -52,14 +52,6 @@ window.GOLF_DATA = {
       },
       {
         "rank": 5,
-        "name": "Sungjae Im",
-        "id": "11382",
-        "country": "South Korea",
-        "score": "-5",
-        "today": "-1"
-      },
-      {
-        "rank": 6,
         "name": "Matt Wallace",
         "id": "10548",
         "country": "England",
@@ -67,7 +59,7 @@ window.GOLF_DATA = {
         "today": "-3"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "Bud Cauley",
         "id": "5338",
         "country": "USA",
@@ -75,26 +67,34 @@ window.GOLF_DATA = {
         "today": "-2"
       },
       {
-        "rank": 8,
-        "name": "Francesco Molinari",
-        "id": "1483",
-        "country": "Italy",
+        "rank": 7,
+        "name": "Thomas Detry",
+        "id": "4837",
+        "country": "Belgium",
         "score": "-4",
         "today": "-1"
       },
       {
-        "rank": 9,
-        "name": "Ryo Hisatsune",
-        "id": "4858572",
-        "country": "Japan",
+        "rank": 8,
+        "name": "Alex Fitzpatrick",
+        "id": "4364865",
+        "country": "England",
         "score": "-4",
-        "today": "-2"
+        "today": "-3"
+      },
+      {
+        "rank": 9,
+        "name": "Sungjae Im",
+        "id": "11382",
+        "country": "South Korea",
+        "score": "-4",
+        "today": "E"
       },
       {
         "rank": 10,
-        "name": "Alex Smalley",
-        "id": "9484",
-        "country": "USA",
+        "name": "Francesco Molinari",
+        "id": "1483",
+        "country": "Italy",
         "score": "-4",
         "today": "-1"
       }
