@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-16 22:28 UTC
+// Auto-generated 2026-07-17 07:31 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-16 22:28 UTC",
+  "UPDATED": "2026-07-17 07:31 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -4050,7 +4050,108 @@ window.ATHLETICS_DATA = {
               "year": 1994
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "2.33",
+              "athlete": "Danil Lysenko",
+              "country": "RUS",
+              "flag": "https://flagcdn.com/24x18/ru.png",
+              "primary": "#0039A6",
+              "venue": "Ural GUFK",
+              "date": "16 JAN 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "2.33",
+              "athlete": "Oleh Doroshchuk",
+              "country": "UKR",
+              "flag": "https://flagcdn.com/24x18/ua.png",
+              "primary": "#005BBB",
+              "venue": "Berdichev (UKR)",
+              "date": "27 JUN 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "2.32",
+              "athlete": "Jan Štefela",
+              "country": "CZE",
+              "flag": "https://flagcdn.com/24x18/cz.png",
+              "primary": "#11457E",
+              "venue": "Športov hala Dukla",
+              "date": "24 FEB 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "2.31",
+              "athlete": "Kimani Jack",
+              "country": "GBR",
+              "flag": "https://flagcdn.com/24x18/gb.png",
+              "primary": "#012169",
+              "venue": "Spec Towns Track",
+              "date": "02 MAY 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "2.31",
+              "athlete": "Sarvesh Anil Kushare",
+              "country": "IND",
+              "flag": "https://flagcdn.com/24x18/in.png",
+              "primary": "#4A4745",
+              "venue": "Kalinga Stadium",
+              "date": "27 JUN 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "2.30",
+              "athlete": "Mateusz Kołodziejski",
+              "country": "POL",
+              "flag": "https://flagcdn.com/24x18/pl.png",
+              "primary": "#DC143C",
+              "venue": "Městsk sportovn hala",
+              "date": "07 FEB 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "2.30",
+              "athlete": "Naoto Hasegawa",
+              "country": "JPN",
+              "flag": "https://flagcdn.com/24x18/jp.png",
+              "primary": "#BC002D",
+              "venue": "Městsk sportovn hala",
+              "date": "07 FEB 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "2.30",
+              "athlete": "Stepan Vetkin",
+              "country": "RUS",
+              "flag": "https://flagcdn.com/24x18/ru.png",
+              "primary": "#0039A6",
+              "venue": "LFK CSKA",
+              "date": "07 FEB 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "2.30",
+              "athlete": "Tomohiro Shinno",
+              "country": "JPN",
+              "flag": "https://flagcdn.com/24x18/jp.png",
+              "primary": "#BC002D",
+              "venue": "Športov hala Dukla",
+              "date": "24 FEB 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "2.30",
+              "athlete": "Sanghyeok Woo",
+              "country": "KOR",
+              "flag": "",
+              "primary": "#4A4745",
+              "venue": "Športov hala Dukla",
+              "date": "24 FEB 2026"
+            }
+          ]
         },
         {
           "id": "hj_w",
@@ -6583,6 +6684,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 3,
+              "mark": "87.04",
+              "athlete": "Julian Weber",
+              "country": "GER",
+              "flag": "https://flagcdn.com/24x18/de.png",
+              "primary": "#000000",
+              "venue": "Stadion Allmend",
+              "date": "16 JUL 2026"
+            },
+            {
+              "rank": 4,
               "mark": "86.38",
               "athlete": "Anderson Peters",
               "country": "GRN",
@@ -6592,7 +6703,7 @@ window.ATHLETICS_DATA = {
               "date": "19 JUN 2026"
             },
             {
-              "rank": 4,
+              "rank": 5,
               "mark": "85.99",
               "athlete": "Curtis Thompson",
               "country": "USA",
@@ -6602,7 +6713,17 @@ window.ATHLETICS_DATA = {
               "date": "19 JUN 2026"
             },
             {
-              "rank": 5,
+              "rank": 6,
+              "mark": "85.73",
+              "athlete": "Cameron Mcentyre",
+              "country": "AUS",
+              "flag": "https://flagcdn.com/24x18/au.png",
+              "primary": "#00008B",
+              "venue": "Stadion Allmend",
+              "date": "16 JUL 2026"
+            },
+            {
+              "rank": 7,
               "mark": "85.69",
               "athlete": "Neeraj Chopra",
               "country": "IND",
@@ -6612,7 +6733,7 @@ window.ATHLETICS_DATA = {
               "date": "19 JUN 2026"
             },
             {
-              "rank": 6,
+              "rank": 8,
               "mark": "85.65",
               "athlete": "Aliaksei Katkavets",
               "country": "BLR",
@@ -6622,7 +6743,7 @@ window.ATHLETICS_DATA = {
               "date": "07 MAY 2026"
             },
             {
-              "rank": 7,
+              "rank": 9,
               "mark": "85.24",
               "athlete": "Jakub Vadlejch",
               "country": "CZE",
@@ -6632,7 +6753,7 @@ window.ATHLETICS_DATA = {
               "date": "17 MAY 2026"
             },
             {
-              "rank": 8,
+              "rank": 10,
               "mark": "84.79",
               "athlete": "Douw Smit",
               "country": "RSA",
@@ -6640,26 +6761,6 @@ window.ATHLETICS_DATA = {
               "primary": "#007749",
               "venue": "Paul-Greifzu-Stadion",
               "date": "19 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "84.68",
-              "athlete": "Chinecherem Nnamdi",
-              "country": "NGR",
-              "flag": "https://flagcdn.com/24x18/ng.png",
-              "primary": "#008751",
-              "venue": "Percy Beard Track",
-              "date": "17 APR 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "84.11",
-              "athlete": "Marc Anthony Minichello",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Drake Stadium",
-              "date": "23 APR 2026"
             }
           ]
         },
@@ -6870,13 +6971,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 10,
-              "mark": "61.94",
+              "mark": "62.18",
               "athlete": "Leonie H&#220;gli",
               "country": "SUI",
               "flag": "https://flagcdn.com/24x18/ch.png",
               "primary": "#D52B1E",
-              "venue": "Werferzentrum Brandberge",
-              "date": "17 MAY 2026"
+              "venue": "Stadion Allmend",
+              "date": "16 JUL 2026"
             }
           ]
         }

@@ -1731,7 +1731,7 @@ window.NHL_DATA = {
       "name": "Connor Bedard",
       "pos": "C",
       "teamCode": "CHI",
-      "age": 20,
+      "age": 21,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -11108,7 +11108,7 @@ window.NHL_DATA = {
       "name": "Oliver Ekman-Larsson",
       "pos": "D",
       "teamCode": "TOR",
-      "age": 34,
+      "age": 35,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -13367,7 +13367,7 @@ window.NHL_DATA = {
       "name": "Marat Khusnutdinov",
       "pos": "C",
       "teamCode": "BOS",
-      "age": 23,
+      "age": 24,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
@@ -13393,7 +13393,7 @@ window.NHL_DATA = {
         50,
         56
       ],
-      "legendScore": 47.7
+      "legendScore": 47.2
     },
     {
       "id": 8479671,
@@ -27331,7 +27331,7 @@ window.NHL_DATA = {
       "name": "Nick Bjugstad",
       "pos": "C",
       "teamCode": "NJD",
-      "age": 33,
+      "age": 34,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -47788,24 +47788,6 @@ window.NHL_DATA = {
         "prevRank": 2
       },
       {
-        "id": 8484144,
-        "name": "Connor Bedard",
-        "pos": "C",
-        "teamCode": "CHI",
-        "country": "Canada",
-        "colors": {
-          "primary": "#cf0a2c",
-          "secondary": "#111111"
-        },
-        "age": 20,
-        "currentScore": 78,
-        "projectedScore": 64.7,
-        "threshold": 93.1,
-        "gap": 28.4,
-        "note": "Among the best players of their generation",
-        "prevRank": 3
-      },
-      {
         "id": 8485406,
         "name": "Porter Martone",
         "pos": "RW",
@@ -47822,6 +47804,24 @@ window.NHL_DATA = {
         "gap": 28.4,
         "note": "Among the best players of their generation",
         "prevRank": 4
+      },
+      {
+        "id": 8484144,
+        "name": "Connor Bedard",
+        "pos": "C",
+        "teamCode": "CHI",
+        "country": "Canada",
+        "colors": {
+          "primary": "#cf0a2c",
+          "secondary": "#111111"
+        },
+        "age": 21,
+        "currentScore": 78,
+        "projectedScore": 62.7,
+        "threshold": 93.1,
+        "gap": 30.4,
+        "note": "Among the best players of their generation",
+        "prevRank": 3
       },
       {
         "id": 8481559,
@@ -47978,10 +47978,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-16 22:26 UTC",
+  "LAST_UPDATE": "2026-07-17 07:29 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-16T22:25:45Z"
+    "standingsDateTimeUtc": "2026-07-17T07:29:01Z"
   }
 };

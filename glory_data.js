@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-16 22:28 UTC",
+  "UPDATED": "2026-07-17 07:31 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -303,8 +303,8 @@ window.GLORY_DATA = {
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Oliver Bonk",
       "Macklin Celebrini",
-      "Connor Bedard",
       "Porter Martone",
+      "Connor Bedard",
       "Jack Hughes",
       "Matt Boldy",
       "Ilya Protas",
