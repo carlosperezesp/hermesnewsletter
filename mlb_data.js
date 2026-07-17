@@ -51,14 +51,14 @@ window.MLB_DATA = {
       "commonName": "Rays",
       "conf": "AL",
       "div": "AL East",
-      "gp": 94,
+      "gp": 95,
       "w": 56,
-      "l": 38,
-      "winPct": 0.596,
+      "l": 39,
+      "winPct": 0.589,
       "rf": 425,
-      "ra": 393,
+      "ra": 403,
       "rd": 0,
-      "score": 48,
+      "score": 47,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png",
       "colors": {
         "primary": "#092c5c",
@@ -297,27 +297,6 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "SEA",
-      "city": "Seattle Mariners",
-      "shortName": "Seattle",
-      "commonName": "Mariners",
-      "conf": "AL",
-      "div": "AL West",
-      "gp": 97,
-      "w": 48,
-      "l": 49,
-      "winPct": 0.495,
-      "rf": 392,
-      "ra": 376,
-      "rd": 0,
-      "score": 40,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sea.png",
-      "colors": {
-        "primary": "#0c2c56",
-        "secondary": "#005c5c"
-      }
-    },
-    {
       "code": "MIN",
       "city": "Minnesota Twins",
       "shortName": "Minnesota",
@@ -336,6 +315,27 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#002b5c",
         "secondary": "#d31145"
+      }
+    },
+    {
+      "code": "SEA",
+      "city": "Seattle Mariners",
+      "shortName": "Seattle",
+      "commonName": "Mariners",
+      "conf": "AL",
+      "div": "AL West",
+      "gp": 97,
+      "w": 48,
+      "l": 49,
+      "winPct": 0.495,
+      "rf": 392,
+      "ra": 376,
+      "rd": 0,
+      "score": 40,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sea.png",
+      "colors": {
+        "primary": "#0c2c56",
+        "secondary": "#005c5c"
       }
     },
     {
@@ -381,6 +381,27 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "BOS",
+      "city": "Boston Red Sox",
+      "shortName": "Boston",
+      "commonName": "Red Sox",
+      "conf": "AL",
+      "div": "AL East",
+      "gp": 95,
+      "w": 47,
+      "l": 48,
+      "winPct": 0.495,
+      "rf": 395,
+      "ra": 358,
+      "rd": 0,
+      "score": 40,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png",
+      "colors": {
+        "primary": "#bd3039",
+        "secondary": "#0c2340"
+      }
+    },
+    {
       "code": "HOU",
       "city": "Houston Astros",
       "shortName": "Houston",
@@ -399,27 +420,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#eb6e1f",
         "secondary": "#002d62"
-      }
-    },
-    {
-      "code": "BOS",
-      "city": "Boston Red Sox",
-      "shortName": "Boston",
-      "commonName": "Red Sox",
-      "conf": "AL",
-      "div": "AL East",
-      "gp": 94,
-      "w": 46,
-      "l": 48,
-      "winPct": 0.489,
-      "rf": 385,
-      "ra": 358,
-      "rd": 0,
-      "score": 39,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png",
-      "colors": {
-        "primary": "#bd3039",
-        "secondary": "#0c2340"
       }
     },
     {
@@ -7927,7 +7927,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-17 15:00 UTC",
+  "LAST_UPDATE": "2026-07-17 21:08 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

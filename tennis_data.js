@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-17 15:02 UTC
+// Auto-generated 2026-07-17 21:10 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-17 15:02 UTC",
+  "UPDATED": "2026-07-17 21:10 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8281,7 +8281,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "ATV Bancomat Tennis Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 44.9
@@ -8455,7 +8455,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "ATV Bancomat Tennis Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 43.1
@@ -9413,7 +9413,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "ATV Bancomat Tennis Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 41.0
@@ -10052,29 +10052,29 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Noma Noha Akugue",
+          "w": "Lucia Bronzetti",
           "w_logo": "",
-          "l": "Francesca Jones",
+          "l": "Deborah Chiesa",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "2-6 6-3 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 35.0,
-          "l_score": 42.8,
-          "match_score": 42.8
+          "w_score": 44.6,
+          "l_score": null,
+          "match_score": 44.6
         },
         {
           "round": "Quarterfinal",
-          "w": "Julia Riera",
+          "w": "Francesca Jones",
           "w_logo": "",
-          "l": "Nuria Brancaccio",
+          "l": "Noma Noha Akugue",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
+          "scheduled": false,
+          "w_score": 42.8,
+          "l_score": 35.0,
+          "match_score": 42.8
         },
         {
           "round": "Quarterfinal",
@@ -10082,22 +10082,22 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elizara Yaneva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 6-2 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "Quarterfinal",
-          "w": "TBD",
+          "w": "Nuria Brancaccio",
           "w_logo": "",
-          "l": "Deborah Chiesa",
+          "l": "Julia Riera",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 1-6 7-6 (7-5)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10155,7 +10155,7 @@ window.TENNIS_DATA = {
       "Yelyzaveta Kotliar"
     ],
     "aliveCount": 16,
-    "matchesSeen": 27
+    "matchesSeen": 30
   },
   "ATP_SCORE_LOG": {
     "206173": [

@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-17 15:01 UTC
+// Auto-generated 2026-07-17 21:08 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-17 15:01 UTC",
+  "UPDATED": "2026-07-17 21:08 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -24,7 +24,7 @@ window.GOLF_DATA = {
         "id": "10343",
         "country": "Australia",
         "score": "-8",
-        "today": "-8"
+        "today": ""
       },
       {
         "rank": 2,
@@ -32,71 +32,71 @@ window.GOLF_DATA = {
         "id": "4425906",
         "country": "USA",
         "score": "-6",
-        "today": "-3"
+        "today": ""
       },
       {
         "rank": 3,
+        "name": "Ryan Gerard",
+        "id": "5076021",
+        "country": "USA",
+        "score": "-6",
+        "today": ""
+      },
+      {
+        "rank": 4,
         "name": "Jackson Suber",
         "id": "4982182",
         "country": "USA",
         "score": "-6",
-        "today": "-1"
+        "today": ""
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Sam Burns",
         "id": "9938",
         "country": "USA",
         "score": "-5",
-        "today": "-8"
+        "today": ""
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "name": "Si Woo Kim",
+        "id": "7081",
+        "country": "South Korea",
+        "score": "-5",
+        "today": ""
+      },
+      {
+        "rank": 7,
+        "name": "Bryson DeChambeau",
+        "id": "10046",
+        "country": "USA",
+        "score": "-5",
+        "today": ""
+      },
+      {
+        "rank": 8,
         "name": "Matt Wallace",
         "id": "10548",
         "country": "England",
         "score": "-4",
-        "today": "-3"
+        "today": ""
       },
       {
-        "rank": 6,
-        "name": "Bud Cauley",
-        "id": "5338",
-        "country": "USA",
-        "score": "-4",
-        "today": "-2"
-      },
-      {
-        "rank": 7,
-        "name": "Thomas Detry",
-        "id": "4837",
-        "country": "Belgium",
-        "score": "-4",
-        "today": "-1"
-      },
-      {
-        "rank": 8,
+        "rank": 9,
         "name": "Alex Fitzpatrick",
         "id": "4364865",
         "country": "England",
         "score": "-4",
-        "today": "-3"
-      },
-      {
-        "rank": 9,
-        "name": "Sungjae Im",
-        "id": "11382",
-        "country": "South Korea",
-        "score": "-4",
-        "today": "E"
+        "today": ""
       },
       {
         "rank": 10,
-        "name": "Francesco Molinari",
-        "id": "1483",
-        "country": "Italy",
+        "name": "Tommy Fleetwood",
+        "id": "5539",
+        "country": "England",
         "score": "-4",
-        "today": "-1"
+        "today": ""
       }
     ],
     "favorites": [
