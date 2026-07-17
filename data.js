@@ -47803,7 +47803,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 28.4,
         "note": "Among the best players of their generation",
-        "prevRank": 4
+        "prevRank": 3
       },
       {
         "id": 8484144,
@@ -47821,7 +47821,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 30.4,
         "note": "Among the best players of their generation",
-        "prevRank": 3
+        "prevRank": 4
       },
       {
         "id": 8481559,
@@ -47978,10 +47978,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-17 07:29 UTC",
+  "LAST_UPDATE": "2026-07-17 08:31 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-17T07:29:01Z"
+    "standingsDateTimeUtc": "2026-07-17T08:30:45Z"
   }
 };

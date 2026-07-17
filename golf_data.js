@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-17 07:30 UTC
+// Auto-generated 2026-07-17 08:32 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-17 07:30 UTC",
+  "UPDATED": "2026-07-17 08:32 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -20,11 +20,11 @@ window.GOLF_DATA = {
     "leaderboard": [
       {
         "rank": 1,
-        "name": "Jackson Suber",
-        "id": "4982182",
+        "name": "Pierceson Coody",
+        "id": "4837368",
         "country": "USA",
-        "score": "-6",
-        "today": "-1"
+        "score": "-5",
+        "today": "-2"
       },
       {
         "rank": 2,
@@ -36,6 +36,14 @@ window.GOLF_DATA = {
       },
       {
         "rank": 3,
+        "name": "Jackson Suber",
+        "id": "4982182",
+        "country": "USA",
+        "score": "-4",
+        "today": "+1"
+      },
+      {
+        "rank": 4,
         "name": "Daniel Brown",
         "id": "1407",
         "country": "England",
@@ -43,7 +51,7 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Sungjae Im",
         "id": "11382",
         "country": "South Korea",
@@ -51,7 +59,7 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "Thomas Detry",
         "id": "4837",
         "country": "Belgium",
@@ -59,7 +67,7 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "Robert MacIntyre",
         "id": "11378",
         "country": "Scotland",
@@ -67,7 +75,7 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "Francesco Molinari",
         "id": "1483",
         "country": "Italy",
@@ -75,7 +83,7 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Alex Smalley",
         "id": "9484",
         "country": "USA",
@@ -83,17 +91,9 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Bryson DeChambeau",
         "id": "10046",
-        "country": "USA",
-        "score": "-3",
-        "today": ""
-      },
-      {
-        "rank": 10,
-        "name": "Ryan Gerard",
-        "id": "5076021",
         "country": "USA",
         "score": "-3",
         "today": ""
