@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-17 08:31 UTC
+// Auto-generated 2026-07-17 14:16 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-17 08:31 UTC",
+  "UPDATED": "2026-07-17 14:16 UTC",
   "SEASON": "2026",
   "ROUND": 19,
   "IMPORTANCE": 8.2,
@@ -22,16 +22,28 @@ window.AFL_DATA = {
       "rank": 2,
       "name": "Sydney",
       "wins": 13,
-      "losses": 4,
+      "losses": 5,
       "draws": 0,
       "pts": 52,
-      "percentage": 131.2,
+      "percentage": 128.3,
       "primary": "#F57F00",
       "secondary": "#002040",
       "prevRank": 2
     },
     {
       "rank": 3,
+      "name": "Adelaide",
+      "wins": 12,
+      "losses": 6,
+      "draws": 0,
+      "pts": 48,
+      "percentage": 117.2,
+      "primary": "#002B5C",
+      "secondary": "#CC2031",
+      "prevRank": 5
+    },
+    {
+      "rank": 4,
       "name": "Hawthorn",
       "wins": 11,
       "losses": 5,
@@ -43,7 +55,7 @@ window.AFL_DATA = {
       "prevRank": 3
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Brisbane Lions",
       "wins": 11,
       "losses": 6,
@@ -53,18 +65,6 @@ window.AFL_DATA = {
       "primary": "#7B1A4B",
       "secondary": "#F6AE00",
       "prevRank": 4
-    },
-    {
-      "rank": 5,
-      "name": "Adelaide",
-      "wins": 11,
-      "losses": 6,
-      "draws": 0,
-      "pts": 44,
-      "percentage": 116.9,
-      "primary": "#002B5C",
-      "secondary": "#CC2031",
-      "prevRank": 5
     },
     {
       "rank": 6,
@@ -1065,6 +1065,16 @@ window.AFL_DATA = {
       "date": "2026-07-16",
       "hprimary": "#002A54",
       "aprimary": "#ED1C2E"
+    },
+    {
+      "hteam": "Sydney",
+      "hscore": 71,
+      "ateam": "Adelaide",
+      "ascore": 87,
+      "winner": "Adelaide",
+      "date": "2026-07-17",
+      "hprimary": "#F57F00",
+      "aprimary": "#002B5C"
     }
   ],
   "CURRENT_CONTENDERS": [

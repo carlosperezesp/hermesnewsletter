@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-17 08:32 UTC
+// Auto-generated 2026-07-17 14:16 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-17 08:32 UTC",
+  "UPDATED": "2026-07-17 14:16 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -20,18 +20,18 @@ window.GOLF_DATA = {
     "leaderboard": [
       {
         "rank": 1,
-        "name": "Pierceson Coody",
-        "id": "4837368",
-        "country": "USA",
-        "score": "-5",
-        "today": "-2"
+        "name": "Lucas Herbert",
+        "id": "10343",
+        "country": "Australia",
+        "score": "-8",
+        "today": "-8"
       },
       {
         "rank": 2,
-        "name": "Matt Wallace",
-        "id": "10548",
-        "country": "England",
-        "score": "-4",
+        "name": "Cameron Young",
+        "id": "4425906",
+        "country": "USA",
+        "score": "-6",
         "today": "-3"
       },
       {
@@ -39,64 +39,64 @@ window.GOLF_DATA = {
         "name": "Jackson Suber",
         "id": "4982182",
         "country": "USA",
-        "score": "-4",
-        "today": "+1"
+        "score": "-6",
+        "today": "-1"
       },
       {
         "rank": 4,
-        "name": "Daniel Brown",
-        "id": "1407",
-        "country": "England",
-        "score": "-4",
-        "today": ""
+        "name": "Sam Burns",
+        "id": "9938",
+        "country": "USA",
+        "score": "-5",
+        "today": "-8"
       },
       {
         "rank": 5,
         "name": "Sungjae Im",
         "id": "11382",
         "country": "South Korea",
-        "score": "-4",
-        "today": ""
+        "score": "-5",
+        "today": "-1"
       },
       {
         "rank": 6,
-        "name": "Thomas Detry",
-        "id": "4837",
-        "country": "Belgium",
-        "score": "-3",
-        "today": ""
+        "name": "Matt Wallace",
+        "id": "10548",
+        "country": "England",
+        "score": "-4",
+        "today": "-3"
       },
       {
         "rank": 7,
-        "name": "Robert MacIntyre",
-        "id": "11378",
-        "country": "Scotland",
-        "score": "-3",
-        "today": ""
+        "name": "Bud Cauley",
+        "id": "5338",
+        "country": "USA",
+        "score": "-4",
+        "today": "-2"
       },
       {
         "rank": 8,
         "name": "Francesco Molinari",
         "id": "1483",
         "country": "Italy",
-        "score": "-3",
-        "today": ""
+        "score": "-4",
+        "today": "-1"
       },
       {
         "rank": 9,
-        "name": "Alex Smalley",
-        "id": "9484",
-        "country": "USA",
-        "score": "-3",
-        "today": ""
+        "name": "Ryo Hisatsune",
+        "id": "4858572",
+        "country": "Japan",
+        "score": "-4",
+        "today": "-2"
       },
       {
         "rank": 10,
-        "name": "Bryson DeChambeau",
-        "id": "10046",
+        "name": "Alex Smalley",
+        "id": "9484",
         "country": "USA",
-        "score": "-3",
-        "today": ""
+        "score": "-4",
+        "today": "-1"
       }
     ],
     "favorites": [
