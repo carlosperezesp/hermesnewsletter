@@ -1271,7 +1271,7 @@ window.NBA_DATA = {
       "last": "Anunoby",
       "pos": "F",
       "teamCode": "NY",
-      "age": 28,
+      "age": 29,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3934719.png",
       "colors": {
         "primary": "#006bb6",
@@ -1287,7 +1287,7 @@ window.NBA_DATA = {
         "blk": 1.1,
         "min": 34.5
       },
-      "legendScore": 54.2
+      "legendScore": 55.2
     },
     {
       "id": 4432158,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-18 08:12 UTC",
+  "LAST_UPDATE": "2026-07-18 14:06 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-18 08:13 UTC
+// Auto-generated 2026-07-18 14:07 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-18 08:13 UTC",
+  "UPDATED": "2026-07-18 14:07 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -1251,6 +1251,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 5,
+              "mark": "49.15",
+              "athlete": "Henriette J&#198;ger",
+              "country": "NOR",
+              "flag": "https://flagcdn.com/24x18/no.png",
+              "primary": "#EF2B2D",
+              "venue": "Olympic Stadium",
+              "date": "18 JUL 2026"
+            },
+            {
+              "rank": 6,
               "mark": "49.37",
               "athlete": "Lurdes Gloria Manuel",
               "country": "CZE",
@@ -1260,7 +1270,7 @@ window.ATHLETICS_DATA = {
               "date": "28 JUN 2026"
             },
             {
-              "rank": 6,
+              "rank": 7,
               "mark": "49.47",
               "athlete": "Ella Onojuvwevwo",
               "country": "NGR",
@@ -1270,7 +1280,7 @@ window.ATHLETICS_DATA = {
               "date": "06 JUN 2026"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "49.48",
               "athlete": "Stacey Ann Williams",
               "country": "JAM",
@@ -1278,16 +1288,6 @@ window.ATHLETICS_DATA = {
               "primary": "#000000",
               "venue": "Sports Park Mladost",
               "date": "26 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "49.52",
-              "athlete": "Henriette J&#198;ger",
-              "country": "NOR",
-              "flag": "https://flagcdn.com/24x18/no.png",
-              "primary": "#EF2B2D",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
             },
             {
               "rank": 9,
@@ -1869,21 +1869,21 @@ window.ATHLETICS_DATA = {
           "season": [
             {
               "rank": 1,
+              "mark": "46.61",
+              "athlete": "Karsten Warholm",
+              "country": "NOR",
+              "flag": "https://flagcdn.com/24x18/no.png",
+              "primary": "#EF2B2D",
+              "venue": "Olympic Stadium",
+              "date": "18 JUL 2026"
+            },
+            {
+              "rank": 2,
               "mark": "46.72",
               "athlete": "Alison Dos Santos",
               "country": "BRA",
               "flag": "https://flagcdn.com/24x18/br.png",
               "primary": "#009C3B",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "46.82",
-              "athlete": "Karsten Warholm",
-              "country": "NOR",
-              "flag": "https://flagcdn.com/24x18/no.png",
-              "primary": "#EF2B2D",
               "venue": "Egret Stadium",
               "date": "23 MAY 2026"
             },
@@ -1929,13 +1929,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
-              "mark": "47.58",
+              "mark": "47.45",
               "athlete": "Emil Agyekum",
               "country": "GER",
               "flag": "https://flagcdn.com/24x18/de.png",
               "primary": "#000000",
-              "venue": "Nemzeti Atltikai Kzpont",
-              "date": "14 JUL 2026"
+              "venue": "Olympic Stadium",
+              "date": "18 JUL 2026"
             },
             {
               "rank": 8,
@@ -2340,6 +2340,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 4,
+              "mark": "1:42.19",
+              "athlete": "Brandon Miller",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Olympic Stadium",
+              "date": "18 JUL 2026"
+            },
+            {
+              "rank": 5,
               "mark": "1:42.50",
               "athlete": "Josh Hoey",
               "country": "USA",
@@ -2349,7 +2359,17 @@ window.ATHLETICS_DATA = {
               "date": "24 JAN 2026"
             },
             {
-              "rank": 5,
+              "rank": 6,
+              "mark": "1:42.97",
+              "athlete": "Mark English",
+              "country": "IRL",
+              "flag": "https://flagcdn.com/24x18/ie.png",
+              "primary": "#4A4745",
+              "venue": "Olympic Stadium",
+              "date": "18 JUL 2026"
+            },
+            {
+              "rank": 7,
               "mark": "1:42.98",
               "athlete": "Max Burgin",
               "country": "GBR",
@@ -2359,7 +2379,7 @@ window.ATHLETICS_DATA = {
               "date": "31 MAY 2026"
             },
             {
-              "rank": 6,
+              "rank": 8,
               "mark": "1:43.19",
               "athlete": "Djamel Sedjati",
               "country": "ALG",
@@ -2369,7 +2389,17 @@ window.ATHLETICS_DATA = {
               "date": "14 JUL 2026"
             },
             {
-              "rank": 7,
+              "rank": 9,
+              "mark": "1:43.34",
+              "athlete": "Ben Pattison",
+              "country": "GBR",
+              "flag": "https://flagcdn.com/24x18/gb.png",
+              "primary": "#012169",
+              "venue": "Olympic Stadium",
+              "date": "18 JUL 2026"
+            },
+            {
+              "rank": 10,
               "mark": "1:43.41",
               "athlete": "Slimane Moula",
               "country": "ALG",
@@ -2377,36 +2407,6 @@ window.ATHLETICS_DATA = {
               "primary": "#006233",
               "venue": "Olympiastadion",
               "date": "07 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "1:43.45",
-              "athlete": "Ko Ochiai",
-              "country": "JPN",
-              "flag": "https://flagcdn.com/24x18/jp.png",
-              "primary": "#BC002D",
-              "venue": "Okura Sports Park Athletics Field",
-              "date": "30 MAY 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "1:43.54",
-              "athlete": "Laban Kipkorir Chepkwony",
-              "country": "KEN",
-              "flag": "https://flagcdn.com/24x18/ke.png",
-              "primary": "#006600",
-              "venue": "Nemzeti Atltikai Kzpont",
-              "date": "14 JUL 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "1:43.60",
-              "athlete": "Niels Laros",
-              "country": "NED",
-              "flag": "https://flagcdn.com/24x18/nl.png",
-              "primary": "#AE1C28",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
             }
           ]
         },
@@ -6457,6 +6457,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 2,
+              "mark": "71.72",
+              "athlete": "Cierra Jackson",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Olympic Stadium",
+              "date": "18 JUL 2026"
+            },
+            {
+              "rank": 3,
               "mark": "70.99",
               "athlete": "Jorinde Van Klinken",
               "country": "NED",
@@ -6466,7 +6476,7 @@ window.ATHLETICS_DATA = {
               "date": "11 APR 2026"
             },
             {
-              "rank": 3,
+              "rank": 4,
               "mark": "69.31",
               "athlete": "Alida Van Daalen",
               "country": "NED",
@@ -6474,16 +6484,6 @@ window.ATHLETICS_DATA = {
               "primary": "#AE1C28",
               "venue": "Un. of Kentucky Outdoor Track Facility",
               "date": "30 MAY 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "67.25",
-              "athlete": "Cierra Jackson",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Millican Field at Throw Town",
-              "date": "11 APR 2026"
             },
             {
               "rank": 5,

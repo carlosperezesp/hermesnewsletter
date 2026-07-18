@@ -1022,12 +1022,12 @@ window.MLB_DATA = {
       "score": 84,
       "stats": {
         "type": "batting",
-        "ab": 338,
+        "ab": 339,
         "hr": 22,
         "rbi": 58,
-        "avg": 0.29,
+        "avg": 0.289,
         "sb": 6,
-        "ops": 0.945
+        "ops": 0.942
       },
       "legendScore": 92.1,
       "currentScore": 100.0,
@@ -8047,7 +8047,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-18 08:12 UTC",
+  "LAST_UPDATE": "2026-07-18 14:06 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

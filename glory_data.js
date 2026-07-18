@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-18 08:14 UTC",
+  "UPDATED": "2026-07-18 14:07 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Moët & Chandon Belgian Grand Prix:Max Verstappen",
@@ -623,13 +623,13 @@ window.GLORY_DATA = {
     "afl:LADDER": [
       "Fremantle",
       "Sydney",
-      "Adelaide",
-      "Hawthorn",
       "Brisbane Lions",
+      "Adelaide",
       "Melbourne",
+      "Hawthorn",
+      "Collingwood",
       "Geelong",
       "Western Bulldogs",
-      "Collingwood",
       "St Kilda"
     ],
     "football:ROAD_TO_GLORY.currentContenders": [

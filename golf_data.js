@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-18 08:13 UTC
+// Auto-generated 2026-07-18 14:06 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-18 08:13 UTC",
+  "UPDATED": "2026-07-18 14:06 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -20,6 +20,14 @@ window.GOLF_DATA = {
     "leaderboard": [
       {
         "rank": 1,
+        "name": "Ryan Fox",
+        "id": "4251",
+        "country": "New Zealand",
+        "score": "-8",
+        "today": "-8"
+      },
+      {
+        "rank": 2,
         "name": "Lucas Herbert",
         "id": "10343",
         "country": "Australia",
@@ -27,7 +35,7 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "Cameron Young",
         "id": "4425906",
         "country": "USA",
@@ -35,7 +43,7 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "Ryan Gerard",
         "id": "5076021",
         "country": "USA",
@@ -43,7 +51,7 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Jackson Suber",
         "id": "4982182",
         "country": "USA",
@@ -51,7 +59,15 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "name": "Sungjae Im",
+        "id": "11382",
+        "country": "South Korea",
+        "score": "-5",
+        "today": "-3"
+      },
+      {
+        "rank": 7,
         "name": "Sam Burns",
         "id": "9938",
         "country": "USA",
@@ -59,7 +75,7 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 6,
+        "rank": 8,
         "name": "Si Woo Kim",
         "id": "7081",
         "country": "South Korea",
@@ -67,7 +83,7 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 7,
+        "rank": 9,
         "name": "Bryson DeChambeau",
         "id": "10046",
         "country": "USA",
@@ -75,28 +91,12 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 8,
-        "name": "Matt Wallace",
-        "id": "10548",
-        "country": "England",
-        "score": "-4",
-        "today": ""
-      },
-      {
-        "rank": 9,
-        "name": "Alex Fitzpatrick",
-        "id": "4364865",
-        "country": "England",
-        "score": "-4",
-        "today": ""
-      },
-      {
         "rank": 10,
-        "name": "Tommy Fleetwood",
-        "id": "5539",
-        "country": "England",
+        "name": "Xander Schauffele",
+        "id": "10140",
+        "country": "USA",
         "score": "-4",
-        "today": ""
+        "today": "-4"
       }
     ],
     "favorites": [
