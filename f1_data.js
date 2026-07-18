@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-17 22:10 UTC
+// Auto-generated 2026-07-18 07:09 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-07-17 22:10 UTC",
+  "UPDATED": "2026-07-18 07:09 UTC",
   "SEASON": "2026",
   "ROUND": 8,
   "TOTAL_ROUNDS": 24,
@@ -561,25 +561,25 @@ window.F1_DATA = {
     "includesSprint": false
   },
   "LAST_RACE": {
-    "name": "Pirelli British Grand Prix",
-    "date": "2026-07-03",
-    "circuit": "Silverstone Circuit",
+    "name": "Moët & Chandon Belgian Grand Prix",
+    "date": "2026-07-17",
+    "circuit": "Circuit de Spa-Francorchamps",
     "round": 0,
     "state": "post",
     "podium": [
       {
         "position": 1,
+        "name": "Max Verstappen",
+        "team": "red_bull",
+        "time": "",
+        "primary": "#3671C6"
+      },
+      {
+        "position": 2,
         "name": "Lewis Hamilton",
         "team": "ferrari",
         "time": "",
         "primary": "#E8002D"
-      },
-      {
-        "position": 2,
-        "name": "Kimi Antonelli",
-        "team": "mercedes",
-        "time": "",
-        "primary": "#00D2BE"
       },
       {
         "position": 3,

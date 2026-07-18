@@ -3350,7 +3350,7 @@ window.NHL_DATA = {
       "name": "Ilya Protas",
       "pos": "LW",
       "teamCode": "WSH",
-      "age": 19,
+      "age": 20,
       "country": "Belarus",
       "birthCountry": "BLR",
       "colors": {
@@ -3556,7 +3556,7 @@ window.NHL_DATA = {
       "name": "Miro Heiskanen",
       "pos": "D",
       "teamCode": "DAL",
-      "age": 26,
+      "age": 27,
       "country": "Finland",
       "birthCountry": "FIN",
       "colors": {
@@ -9417,7 +9417,7 @@ window.NHL_DATA = {
       "name": "Jamie Benn",
       "pos": "LW",
       "teamCode": "DAL",
-      "age": 36,
+      "age": 37,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47869,7 +47869,7 @@ window.NHL_DATA = {
           "primary": "#041e42",
           "secondary": "#c8102e"
         },
-        "age": 19,
+        "age": 20,
         "currentScore": 72,
         "projectedScore": 61.3,
         "threshold": 93.1,
@@ -47978,10 +47978,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-17 22:09 UTC",
+  "LAST_UPDATE": "2026-07-18 07:09 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-17T22:09:15Z"
+    "standingsDateTimeUtc": "2026-07-18T07:09:00Z"
   }
 };

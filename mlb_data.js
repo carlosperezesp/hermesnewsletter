@@ -9,14 +9,14 @@ window.MLB_DATA = {
       "commonName": "Dodgers",
       "conf": "NL",
       "div": "NL West",
-      "gp": 97,
-      "w": 61,
+      "gp": 98,
+      "w": 62,
       "l": 36,
-      "winPct": 0.629,
-      "rf": 506,
-      "ra": 357,
+      "winPct": 0.633,
+      "rf": 508,
+      "ra": 358,
       "rd": 0,
-      "score": 50,
+      "score": 51,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/lad.png",
       "colors": {
         "primary": "#005a9c",
@@ -30,12 +30,12 @@ window.MLB_DATA = {
       "commonName": "Brewers",
       "conf": "NL",
       "div": "NL Central",
-      "gp": 96,
-      "w": 59,
+      "gp": 97,
+      "w": 60,
       "l": 37,
-      "winPct": 0.615,
-      "rf": 489,
-      "ra": 363,
+      "winPct": 0.619,
+      "rf": 491,
+      "ra": 364,
       "rd": 0,
       "score": 49,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mil.png",
@@ -51,12 +51,12 @@ window.MLB_DATA = {
       "commonName": "Rays",
       "conf": "AL",
       "div": "AL East",
-      "gp": 95,
+      "gp": 96,
       "w": 56,
-      "l": 39,
-      "winPct": 0.589,
-      "rf": 425,
-      "ra": 403,
+      "l": 40,
+      "winPct": 0.583,
+      "rf": 428,
+      "ra": 408,
       "rd": 0,
       "score": 47,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png",
@@ -72,14 +72,14 @@ window.MLB_DATA = {
       "commonName": "Braves",
       "conf": "NL",
       "div": "NL East",
-      "gp": 95,
-      "w": 55,
+      "gp": 96,
+      "w": 56,
       "l": 40,
-      "winPct": 0.579,
-      "rf": 460,
-      "ra": 368,
+      "winPct": 0.583,
+      "rf": 475,
+      "ra": 369,
       "rd": 0,
-      "score": 46,
+      "score": 47,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/atl.png",
       "colors": {
         "primary": "#ce1141",
@@ -93,12 +93,12 @@ window.MLB_DATA = {
       "commonName": "Yankees",
       "conf": "AL",
       "div": "AL East",
-      "gp": 96,
+      "gp": 97,
       "w": 54,
-      "l": 42,
-      "winPct": 0.562,
-      "rf": 462,
-      "ra": 371,
+      "l": 43,
+      "winPct": 0.557,
+      "rf": 463,
+      "ra": 373,
       "rd": 0,
       "score": 45,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
@@ -114,12 +114,12 @@ window.MLB_DATA = {
       "commonName": "Cubs",
       "conf": "NL",
       "div": "NL Central",
-      "gp": 96,
+      "gp": 97,
       "w": 54,
-      "l": 42,
-      "winPct": 0.562,
-      "rf": 484,
-      "ra": 432,
+      "l": 43,
+      "winPct": 0.557,
+      "rf": 486,
+      "ra": 437,
       "rd": 0,
       "score": 45,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png",
@@ -156,18 +156,39 @@ window.MLB_DATA = {
       "commonName": "Marlins",
       "conf": "NL",
       "div": "NL East",
-      "gp": 97,
+      "gp": 98,
       "w": 52,
-      "l": 45,
-      "winPct": 0.536,
-      "rf": 439,
-      "ra": 415,
+      "l": 46,
+      "winPct": 0.531,
+      "rf": 440,
+      "ra": 417,
       "rd": 0,
-      "score": 43,
+      "score": 42,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mia.png",
       "colors": {
         "primary": "#00a3e0",
         "secondary": "#ef3340"
+      }
+    },
+    {
+      "code": "CHW",
+      "city": "Chicago White Sox",
+      "shortName": "Chicago",
+      "commonName": "White Sox",
+      "conf": "AL",
+      "div": "AL Central",
+      "gp": 96,
+      "w": 51,
+      "l": 45,
+      "winPct": 0.531,
+      "rf": 466,
+      "ra": 423,
+      "rd": 0,
+      "score": 42,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chw.png",
+      "colors": {
+        "primary": "#27251f",
+        "secondary": "#c4ced4"
       }
     },
     {
@@ -192,39 +213,18 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "CHW",
-      "city": "Chicago White Sox",
-      "shortName": "Chicago",
-      "commonName": "White Sox",
-      "conf": "AL",
-      "div": "AL Central",
-      "gp": 95,
-      "w": 50,
-      "l": 45,
-      "winPct": 0.526,
-      "rf": 454,
-      "ra": 419,
-      "rd": 0,
-      "score": 42,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chw.png",
-      "colors": {
-        "primary": "#27251f",
-        "secondary": "#c4ced4"
-      }
-    },
-    {
       "code": "STL",
       "city": "St. Louis Cardinals",
       "shortName": "St. Louis",
       "commonName": "Cardinals",
       "conf": "NL",
       "div": "NL Central",
-      "gp": 95,
-      "w": 50,
+      "gp": 96,
+      "w": 51,
       "l": 45,
-      "winPct": 0.526,
-      "rf": 429,
-      "ra": 423,
+      "winPct": 0.531,
+      "rf": 434,
+      "ra": 427,
       "rd": 0,
       "score": 42,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/stl.png",
@@ -261,39 +261,18 @@ window.MLB_DATA = {
       "commonName": "Rangers",
       "conf": "AL",
       "div": "AL West",
-      "gp": 96,
+      "gp": 97,
       "w": 49,
-      "l": 47,
-      "winPct": 0.51,
-      "rf": 399,
-      "ra": 414,
+      "l": 48,
+      "winPct": 0.505,
+      "rf": 400,
+      "ra": 429,
       "rd": 0,
-      "score": 41,
+      "score": 40,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png",
       "colors": {
         "primary": "#c0111f",
         "secondary": "#003278"
-      }
-    },
-    {
-      "code": "ARI",
-      "city": "Arizona Diamondbacks",
-      "shortName": "Arizona",
-      "commonName": "Diamondbacks",
-      "conf": "NL",
-      "div": "NL West",
-      "gp": 96,
-      "w": 49,
-      "l": 47,
-      "winPct": 0.51,
-      "rf": 416,
-      "ra": 429,
-      "rd": 0,
-      "score": 41,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ari.png",
-      "colors": {
-        "primary": "#a71930",
-        "secondary": "#e3d4ad"
       }
     },
     {
@@ -303,12 +282,12 @@ window.MLB_DATA = {
       "commonName": "Twins",
       "conf": "AL",
       "div": "AL Central",
-      "gp": 97,
-      "w": 48,
+      "gp": 98,
+      "w": 49,
       "l": 49,
-      "winPct": 0.495,
-      "rf": 471,
-      "ra": 485,
+      "winPct": 0.5,
+      "rf": 476,
+      "ra": 487,
       "rd": 0,
       "score": 40,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png",
@@ -318,45 +297,24 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "SEA",
-      "city": "Seattle Mariners",
-      "shortName": "Seattle",
-      "commonName": "Mariners",
-      "conf": "AL",
-      "div": "AL West",
-      "gp": 97,
-      "w": 48,
-      "l": 49,
-      "winPct": 0.495,
-      "rf": 392,
-      "ra": 376,
-      "rd": 0,
-      "score": 40,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sea.png",
-      "colors": {
-        "primary": "#0c2c56",
-        "secondary": "#005c5c"
-      }
-    },
-    {
-      "code": "SD",
-      "city": "San Diego Padres",
-      "shortName": "San Diego",
-      "commonName": "Padres",
+      "code": "ARI",
+      "city": "Arizona Diamondbacks",
+      "shortName": "Arizona",
+      "commonName": "Diamondbacks",
       "conf": "NL",
       "div": "NL West",
-      "gp": 96,
-      "w": 48,
+      "gp": 97,
+      "w": 49,
       "l": 48,
-      "winPct": 0.5,
-      "rf": 379,
-      "ra": 422,
+      "winPct": 0.505,
+      "rf": 420,
+      "ra": 434,
       "rd": 0,
       "score": 40,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sd.png",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ari.png",
       "colors": {
-        "primary": "#2f241d",
-        "secondary": "#ffc425"
+        "primary": "#a71930",
+        "secondary": "#e3d4ad"
       }
     },
     {
@@ -366,12 +324,12 @@ window.MLB_DATA = {
       "commonName": "Nationals",
       "conf": "NL",
       "div": "NL East",
-      "gp": 97,
-      "w": 48,
+      "gp": 98,
+      "w": 49,
       "l": 49,
-      "winPct": 0.495,
-      "rf": 516,
-      "ra": 509,
+      "winPct": 0.5,
+      "rf": 539,
+      "ra": 513,
       "rd": 0,
       "score": 40,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png",
@@ -387,12 +345,12 @@ window.MLB_DATA = {
       "commonName": "Red Sox",
       "conf": "AL",
       "div": "AL East",
-      "gp": 95,
-      "w": 47,
+      "gp": 96,
+      "w": 48,
       "l": 48,
-      "winPct": 0.495,
-      "rf": 395,
-      "ra": 358,
+      "winPct": 0.5,
+      "rf": 400,
+      "ra": 361,
       "rd": 0,
       "score": 40,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png",
@@ -402,24 +360,45 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "HOU",
-      "city": "Houston Astros",
-      "shortName": "Houston",
-      "commonName": "Astros",
+      "code": "SEA",
+      "city": "Seattle Mariners",
+      "shortName": "Seattle",
+      "commonName": "Mariners",
       "conf": "AL",
       "div": "AL West",
       "gp": 98,
-      "w": 47,
-      "l": 51,
-      "winPct": 0.48,
-      "rf": 449,
-      "ra": 496,
+      "w": 48,
+      "l": 50,
+      "winPct": 0.49,
+      "rf": 392,
+      "ra": 383,
       "rd": 0,
-      "score": 38,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png",
+      "score": 39,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sea.png",
       "colors": {
-        "primary": "#eb6e1f",
-        "secondary": "#002d62"
+        "primary": "#0c2c56",
+        "secondary": "#005c5c"
+      }
+    },
+    {
+      "code": "SD",
+      "city": "San Diego Padres",
+      "shortName": "San Diego",
+      "commonName": "Padres",
+      "conf": "NL",
+      "div": "NL West",
+      "gp": 97,
+      "w": 48,
+      "l": 49,
+      "winPct": 0.495,
+      "rf": 385,
+      "ra": 429,
+      "rd": 0,
+      "score": 40,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sd.png",
+      "colors": {
+        "primary": "#2f241d",
+        "secondary": "#ffc425"
       }
     },
     {
@@ -429,12 +408,12 @@ window.MLB_DATA = {
       "commonName": "Orioles",
       "conf": "AL",
       "div": "AL East",
-      "gp": 97,
-      "w": 46,
+      "gp": 98,
+      "w": 47,
       "l": 51,
-      "winPct": 0.474,
-      "rf": 447,
-      "ra": 466,
+      "winPct": 0.48,
+      "rf": 450,
+      "ra": 468,
       "rd": 0,
       "score": 38,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bal.png",
@@ -444,20 +423,41 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "HOU",
+      "city": "Houston Astros",
+      "shortName": "Houston",
+      "commonName": "Astros",
+      "conf": "AL",
+      "div": "AL West",
+      "gp": 99,
+      "w": 47,
+      "l": 52,
+      "winPct": 0.475,
+      "rf": 451,
+      "ra": 499,
+      "rd": 0,
+      "score": 38,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png",
+      "colors": {
+        "primary": "#eb6e1f",
+        "secondary": "#002d62"
+      }
+    },
+    {
       "code": "TOR",
       "city": "Toronto Blue Jays",
       "shortName": "Toronto",
       "commonName": "Blue Jays",
       "conf": "AL",
       "div": "AL East",
-      "gp": 96,
+      "gp": 97,
       "w": 45,
-      "l": 51,
-      "winPct": 0.469,
-      "rf": 392,
-      "ra": 427,
+      "l": 52,
+      "winPct": 0.464,
+      "rf": 396,
+      "ra": 439,
       "rd": 0,
-      "score": 38,
+      "score": 37,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
       "colors": {
         "primary": "#134a8e",
@@ -471,12 +471,12 @@ window.MLB_DATA = {
       "commonName": "Tigers",
       "conf": "AL",
       "div": "AL Central",
-      "gp": 96,
-      "w": 44,
+      "gp": 97,
+      "w": 45,
       "l": 52,
-      "winPct": 0.458,
-      "rf": 407,
-      "ra": 383,
+      "winPct": 0.464,
+      "rf": 409,
+      "ra": 384,
       "rd": 0,
       "score": 37,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png",
@@ -492,39 +492,18 @@ window.MLB_DATA = {
       "commonName": "Reds",
       "conf": "NL",
       "div": "NL Central",
-      "gp": 95,
-      "w": 43,
+      "gp": 96,
+      "w": 44,
       "l": 52,
-      "winPct": 0.453,
-      "rf": 395,
-      "ra": 455,
+      "winPct": 0.458,
+      "rf": 402,
+      "ra": 457,
       "rd": 0,
-      "score": 36,
+      "score": 37,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cin.png",
       "colors": {
         "primary": "#c6011f",
         "secondary": "#000000"
-      }
-    },
-    {
-      "code": "ATH",
-      "city": "Athletics",
-      "shortName": "Athletics",
-      "commonName": "Athletics",
-      "conf": "AL",
-      "div": "AL West",
-      "gp": 96,
-      "w": 41,
-      "l": 55,
-      "winPct": 0.427,
-      "rf": 422,
-      "ra": 528,
-      "rd": 0,
-      "score": 34,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ath.png",
-      "colors": {
-        "primary": "#003831",
-        "secondary": "#efb21e"
       }
     },
     {
@@ -534,18 +513,39 @@ window.MLB_DATA = {
       "commonName": "Giants",
       "conf": "NL",
       "div": "NL West",
-      "gp": 96,
-      "w": 41,
+      "gp": 97,
+      "w": 42,
       "l": 55,
-      "winPct": 0.427,
-      "rf": 395,
+      "winPct": 0.433,
+      "rf": 402,
       "ra": 459,
       "rd": 0,
-      "score": 34,
+      "score": 35,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png",
       "colors": {
         "primary": "#fd5a1e",
         "secondary": "#27251f"
+      }
+    },
+    {
+      "code": "ATH",
+      "city": "Athletics",
+      "shortName": "Athletics",
+      "commonName": "Athletics",
+      "conf": "AL",
+      "div": "AL West",
+      "gp": 97,
+      "w": 41,
+      "l": 56,
+      "winPct": 0.423,
+      "rf": 426,
+      "ra": 551,
+      "rd": 0,
+      "score": 34,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ath.png",
+      "colors": {
+        "primary": "#003831",
+        "secondary": "#efb21e"
       }
     },
     {
@@ -570,18 +570,39 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "KC",
+      "city": "Kansas City Royals",
+      "shortName": "Kansas City",
+      "commonName": "Royals",
+      "conf": "AL",
+      "div": "AL Central",
+      "gp": 98,
+      "w": 39,
+      "l": 59,
+      "winPct": 0.398,
+      "rf": 418,
+      "ra": 505,
+      "rd": 0,
+      "score": 32,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png",
+      "colors": {
+        "primary": "#004687",
+        "secondary": "#c09a5b"
+      }
+    },
+    {
       "code": "COL",
       "city": "Colorado Rockies",
       "shortName": "Colorado",
       "commonName": "Rockies",
       "conf": "NL",
       "div": "NL West",
-      "gp": 98,
+      "gp": 99,
       "w": 39,
-      "l": 59,
-      "winPct": 0.398,
-      "rf": 466,
-      "ra": 555,
+      "l": 60,
+      "winPct": 0.394,
+      "rf": 468,
+      "ra": 562,
       "rd": 0,
       "score": 32,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/col.png",
@@ -591,39 +612,18 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "KC",
-      "city": "Kansas City Royals",
-      "shortName": "Kansas City",
-      "commonName": "Royals",
-      "conf": "AL",
-      "div": "AL Central",
-      "gp": 97,
-      "w": 38,
-      "l": 59,
-      "winPct": 0.392,
-      "rf": 411,
-      "ra": 499,
-      "rd": 0,
-      "score": 31,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png",
-      "colors": {
-        "primary": "#004687",
-        "secondary": "#c09a5b"
-      }
-    },
-    {
       "code": "LAA",
       "city": "Los Angeles Angels",
       "shortName": "Los Angeles",
       "commonName": "Angels",
       "conf": "AL",
       "div": "AL West",
-      "gp": 97,
+      "gp": 98,
       "w": 38,
-      "l": 59,
-      "winPct": 0.392,
-      "rf": 430,
-      "ra": 485,
+      "l": 60,
+      "winPct": 0.388,
+      "rf": 431,
+      "ra": 487,
       "rd": 0,
       "score": 31,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/laa.png",
@@ -690,9 +690,9 @@ window.MLB_DATA = {
       },
       "legendScore": 92.1,
       "currentScore": 100.0,
-      "battingScore": 85,
+      "battingScore": 84,
       "pitchingScore": 100,
-      "twoWayBonus": 18.7,
+      "twoWayBonus": 18.5,
       "rings": 2,
       "prevRank": 2
     },
@@ -712,12 +712,12 @@ window.MLB_DATA = {
       "score": 100,
       "stats": {
         "type": "batting",
-        "ab": 349,
+        "ab": 352,
         "hr": 31,
-        "rbi": 70,
-        "avg": 0.318,
+        "rbi": 71,
+        "avg": 0.321,
         "sb": 1,
-        "ops": 1.059
+        "ops": 1.067
       },
       "legendScore": 65.8,
       "currentScore": 100.0,
@@ -743,12 +743,12 @@ window.MLB_DATA = {
       "score": 99,
       "stats": {
         "type": "batting",
-        "ab": 369,
+        "ab": 374,
         "hr": 28,
-        "rbi": 64,
-        "avg": 0.279,
+        "rbi": 66,
+        "avg": 0.278,
         "sb": 15,
-        "ops": 0.984
+        "ops": 0.978
       },
       "legendScore": 55.7,
       "currentScore": 99,
@@ -757,37 +757,6 @@ window.MLB_DATA = {
       "twoWayBonus": 0,
       "rings": 0,
       "prevRank": 2
-    },
-    {
-      "id": 5016968,
-      "name": "Ben Rice",
-      "first": "Ben",
-      "last": "Rice",
-      "pos": "1B",
-      "teamCode": "NYY",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5016968.png",
-      "colors": {
-        "primary": "#003087",
-        "secondary": "#e4002c"
-      },
-      "score": 94,
-      "stats": {
-        "type": "batting",
-        "ab": 337,
-        "hr": 29,
-        "rbi": 68,
-        "avg": 0.279,
-        "sb": 2,
-        "ops": 0.971
-      },
-      "legendScore": 56.3,
-      "currentScore": 94,
-      "battingScore": 94,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0,
-      "prevRank": 3
     },
     {
       "id": 4684778,
@@ -805,12 +774,12 @@ window.MLB_DATA = {
       "score": 94,
       "stats": {
         "type": "batting",
-        "ab": 357,
+        "ab": 361,
         "hr": 22,
         "rbi": 74,
         "avg": 0.294,
         "sb": 13,
-        "ops": 0.887
+        "ops": 0.884
       },
       "legendScore": 53.8,
       "currentScore": 94,
@@ -819,6 +788,37 @@ window.MLB_DATA = {
       "twoWayBonus": 0,
       "rings": 0,
       "prevRank": 4
+    },
+    {
+      "id": 5016968,
+      "name": "Ben Rice",
+      "first": "Ben",
+      "last": "Rice",
+      "pos": "1B",
+      "teamCode": "NYY",
+      "age": 27,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5016968.png",
+      "colors": {
+        "primary": "#003087",
+        "secondary": "#e4002c"
+      },
+      "score": 93,
+      "stats": {
+        "type": "batting",
+        "ab": 341,
+        "hr": 29,
+        "rbi": 68,
+        "avg": 0.282,
+        "sb": 2,
+        "ops": 0.974
+      },
+      "legendScore": 55.8,
+      "currentScore": 93,
+      "battingScore": 93,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0,
+      "prevRank": 3
     },
     {
       "id": 33712,
@@ -833,7 +833,7 @@ window.MLB_DATA = {
         "primary": "#e81828",
         "secondary": "#002d72"
       },
-      "score": 92,
+      "score": 91,
       "stats": {
         "type": "batting",
         "ab": 354,
@@ -843,9 +843,9 @@ window.MLB_DATA = {
         "sb": 2,
         "ops": 0.925
       },
-      "legendScore": 60.2,
-      "currentScore": 92,
-      "battingScore": 92,
+      "legendScore": 59.7,
+      "currentScore": 91,
+      "battingScore": 91,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
@@ -864,23 +864,54 @@ window.MLB_DATA = {
         "primary": "#0e3386",
         "secondary": "#cc3433"
       },
-      "score": 92,
+      "score": 91,
       "stats": {
         "type": "batting",
-        "ab": 358,
+        "ab": 361,
         "hr": 21,
         "rbi": 53,
-        "avg": 0.291,
-        "sb": 24,
-        "ops": 0.917
+        "avg": 0.288,
+        "sb": 25,
+        "ops": 0.911
       },
-      "legendScore": 52.7,
-      "currentScore": 92,
-      "battingScore": 92,
+      "legendScore": 52.2,
+      "currentScore": 91,
+      "battingScore": 91,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
       "prevRank": 6
+    },
+    {
+      "id": 4905921,
+      "name": "Junior Caminero",
+      "first": "Junior",
+      "last": "Caminero",
+      "pos": "3B",
+      "teamCode": "TB",
+      "age": 23,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4905921.png",
+      "colors": {
+        "primary": "#092c5c",
+        "secondary": "#8fbce6"
+      },
+      "score": 90,
+      "stats": {
+        "type": "batting",
+        "ab": 363,
+        "hr": 29,
+        "rbi": 60,
+        "avg": 0.281,
+        "sb": 2,
+        "ops": 0.932
+      },
+      "legendScore": 50.8,
+      "currentScore": 90,
+      "battingScore": 90,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0,
+      "prevRank": 8
     },
     {
       "id": 42402,
@@ -898,12 +929,12 @@ window.MLB_DATA = {
       "score": 89,
       "stats": {
         "type": "batting",
-        "ab": 345,
+        "ab": 350,
         "hr": 20,
-        "rbi": 67,
-        "avg": 0.275,
+        "rbi": 68,
+        "avg": 0.277,
         "sb": 15,
-        "ops": 0.862
+        "ops": 0.864
       },
       "legendScore": 51.9,
       "currentScore": 89,
@@ -914,66 +945,35 @@ window.MLB_DATA = {
       "prevRank": 7
     },
     {
-      "id": 4905921,
-      "name": "Junior Caminero",
-      "first": "Junior",
-      "last": "Caminero",
-      "pos": "3B",
-      "teamCode": "TB",
-      "age": 23,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4905921.png",
-      "colors": {
-        "primary": "#092c5c",
-        "secondary": "#8fbce6"
-      },
-      "score": 88,
-      "stats": {
-        "type": "batting",
-        "ab": 359,
-        "hr": 28,
-        "rbi": 59,
-        "avg": 0.279,
-        "sb": 2,
-        "ops": 0.923
-      },
-      "legendScore": 49.7,
-      "currentScore": 88,
-      "battingScore": 88,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0,
-      "prevRank": 8
-    },
-    {
-      "id": 39832,
-      "name": "Shohei Ohtani",
-      "first": "Shohei",
-      "last": "Ohtani",
-      "pos": "DH",
-      "teamCode": "LAD",
+      "id": 32767,
+      "name": "Matt Olson",
+      "first": "Matt",
+      "last": "Olson",
+      "pos": "1B",
+      "teamCode": "ATL",
       "age": 32,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39832.png",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32767.png",
       "colors": {
-        "primary": "#005a9c",
-        "secondary": "#ef3e42"
+        "primary": "#ce1141",
+        "secondary": "#13274f"
       },
       "score": 85,
       "stats": {
         "type": "batting",
-        "ab": 335,
-        "hr": 22,
-        "rbi": 58,
-        "avg": 0.293,
-        "sb": 6,
-        "ops": 0.953
+        "ab": 374,
+        "hr": 26,
+        "rbi": 59,
+        "avg": 0.27,
+        "sb": 2,
+        "ops": 0.887
       },
-      "legendScore": 92.1,
-      "currentScore": 100.0,
+      "legendScore": 55.6,
+      "currentScore": 85,
       "battingScore": 85,
-      "pitchingScore": 100,
-      "twoWayBonus": 18.7,
-      "rings": 2,
-      "prevRank": 9
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0,
+      "prevRank": 13
     },
     {
       "id": 5134581,
@@ -1007,95 +1007,66 @@ window.MLB_DATA = {
       "prevRank": 3
     },
     {
-      "id": 4416591,
-      "name": "Hunter Goodman",
-      "first": "Hunter",
-      "last": "Goodman",
-      "pos": "C",
-      "teamCode": "COL",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4416591.png",
+      "id": 39832,
+      "name": "Shohei Ohtani",
+      "first": "Shohei",
+      "last": "Ohtani",
+      "pos": "DH",
+      "teamCode": "LAD",
+      "age": 32,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39832.png",
       "colors": {
-        "primary": "#333366",
-        "secondary": "#c4ced4"
+        "primary": "#005a9c",
+        "secondary": "#ef3e42"
       },
       "score": 84,
       "stats": {
         "type": "batting",
         "ab": 338,
-        "hr": 27,
-        "rbi": 51,
-        "avg": 0.254,
-        "sb": 5,
-        "ops": 0.863
+        "hr": 22,
+        "rbi": 58,
+        "avg": 0.29,
+        "sb": 6,
+        "ops": 0.945
       },
-      "legendScore": 50.0,
-      "currentScore": 84,
+      "legendScore": 92.1,
+      "currentScore": 100.0,
       "battingScore": 84,
-      "pitchingScore": null,
+      "pitchingScore": 100,
+      "twoWayBonus": 18.5,
+      "rings": 2,
+      "prevRank": 9
+    },
+    {
+      "id": 30948,
+      "name": "Chris Sale",
+      "first": "Chris",
+      "last": "Sale",
+      "pos": "SP",
+      "teamCode": "ATL",
+      "age": 37,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/30948.png",
+      "colors": {
+        "primary": "#ce1141",
+        "secondary": "#13274f"
+      },
+      "score": 83,
+      "stats": {
+        "type": "pitching",
+        "g": 18,
+        "w": 10,
+        "era": 2.06,
+        "ip": 105.0,
+        "so": 123,
+        "whip": 1.06
+      },
+      "legendScore": 58.7,
+      "currentScore": 83,
+      "battingScore": null,
+      "pitchingScore": 83,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 10
-    },
-    {
-      "id": 40459,
-      "name": "Luis Garcia Jr.",
-      "first": "Luis",
-      "last": "Garcia Jr.",
-      "pos": "1B",
-      "teamCode": "WSH",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40459.png",
-      "colors": {
-        "primary": "#ab0003",
-        "secondary": "#14225a"
-      },
-      "score": 84,
-      "stats": {
-        "type": "batting",
-        "ab": 303,
-        "hr": 20,
-        "rbi": 68,
-        "avg": 0.284,
-        "sb": 4,
-        "ops": 0.871
-      },
-      "legendScore": 50.0,
-      "currentScore": 84,
-      "battingScore": 84,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 4966637,
-      "name": "Nick Kurtz",
-      "first": "Nick",
-      "last": "Kurtz",
-      "pos": "1B",
-      "teamCode": "ATH",
-      "age": 23,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4966637.png",
-      "colors": {
-        "primary": "#003831",
-        "secondary": "#efb21e"
-      },
-      "score": 84,
-      "stats": {
-        "type": "batting",
-        "ab": 334,
-        "hr": 20,
-        "rbi": 66,
-        "avg": 0.266,
-        "sb": 7,
-        "ops": 0.902
-      },
-      "legendScore": 47.5,
-      "currentScore": 84,
-      "battingScore": 84,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
+      "prevRank": 6
     },
     {
       "id": 42359,
@@ -1129,29 +1100,29 @@ window.MLB_DATA = {
       "prevRank": 4
     },
     {
-      "id": 32767,
-      "name": "Matt Olson",
-      "first": "Matt",
-      "last": "Olson",
-      "pos": "1B",
-      "teamCode": "ATL",
-      "age": 32,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32767.png",
+      "id": 4416591,
+      "name": "Hunter Goodman",
+      "first": "Hunter",
+      "last": "Goodman",
+      "pos": "C",
+      "teamCode": "COL",
+      "age": 26,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4416591.png",
       "colors": {
-        "primary": "#ce1141",
-        "secondary": "#13274f"
+        "primary": "#333366",
+        "secondary": "#c4ced4"
       },
       "score": 83,
       "stats": {
         "type": "batting",
-        "ab": 371,
-        "hr": 25,
-        "rbi": 58,
-        "avg": 0.267,
-        "sb": 2,
-        "ops": 0.873
+        "ab": 342,
+        "hr": 27,
+        "rbi": 51,
+        "avg": 0.251,
+        "sb": 5,
+        "ops": 0.853
       },
-      "legendScore": 54.5,
+      "legendScore": 49.5,
       "currentScore": 83,
       "battingScore": 83,
       "pitchingScore": null,
@@ -1159,29 +1130,59 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 42453,
-      "name": "Miguel Vargas",
-      "first": "Miguel",
-      "last": "Vargas",
-      "pos": "3B",
-      "teamCode": "CHW",
+      "id": 40459,
+      "name": "Luis Garcia Jr.",
+      "first": "Luis",
+      "last": "Garcia Jr.",
+      "pos": "1B",
+      "teamCode": "WSH",
       "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42453.png",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40459.png",
       "colors": {
-        "primary": "#27251f",
-        "secondary": "#c4ced4"
+        "primary": "#ab0003",
+        "secondary": "#14225a"
       },
       "score": 83,
       "stats": {
         "type": "batting",
-        "ab": 343,
-        "hr": 21,
-        "rbi": 59,
-        "avg": 0.245,
-        "sb": 11,
-        "ops": 0.848
+        "ab": 303,
+        "hr": 20,
+        "rbi": 68,
+        "avg": 0.284,
+        "sb": 4,
+        "ops": 0.871
       },
       "legendScore": 49.5,
+      "currentScore": 83,
+      "battingScore": 83,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 4966637,
+      "name": "Nick Kurtz",
+      "first": "Nick",
+      "last": "Kurtz",
+      "pos": "1B",
+      "teamCode": "ATH",
+      "age": 23,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4966637.png",
+      "colors": {
+        "primary": "#003831",
+        "secondary": "#efb21e"
+      },
+      "score": 83,
+      "stats": {
+        "type": "batting",
+        "ab": 334,
+        "hr": 20,
+        "rbi": 66,
+        "avg": 0.266,
+        "sb": 7,
+        "ops": 0.902
+      },
+      "legendScore": 47.0,
       "currentScore": 83,
       "battingScore": 83,
       "pitchingScore": null,
@@ -1204,16 +1205,46 @@ window.MLB_DATA = {
       "score": 83,
       "stats": {
         "type": "batting",
-        "ab": 363,
+        "ab": 366,
         "hr": 19,
-        "rbi": 65,
-        "avg": 0.256,
+        "rbi": 67,
+        "avg": 0.257,
         "sb": 11,
-        "ops": 0.812
+        "ops": 0.814
       },
       "legendScore": 46.2,
       "currentScore": 83,
       "battingScore": 83,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 42453,
+      "name": "Miguel Vargas",
+      "first": "Miguel",
+      "last": "Vargas",
+      "pos": "3B",
+      "teamCode": "CHW",
+      "age": 26,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42453.png",
+      "colors": {
+        "primary": "#27251f",
+        "secondary": "#c4ced4"
+      },
+      "score": 82,
+      "stats": {
+        "type": "batting",
+        "ab": 347,
+        "hr": 21,
+        "rbi": 59,
+        "avg": 0.245,
+        "sb": 11,
+        "ops": 0.846
+      },
+      "legendScore": 48.9,
+      "currentScore": 82,
+      "battingScore": 82,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
@@ -1231,7 +1262,7 @@ window.MLB_DATA = {
         "primary": "#002b5c",
         "secondary": "#d31145"
       },
-      "score": 82,
+      "score": 81,
       "stats": {
         "type": "batting",
         "ab": 306,
@@ -1241,9 +1272,9 @@ window.MLB_DATA = {
         "sb": 7,
         "ops": 0.904
       },
-      "legendScore": 53.9,
-      "currentScore": 82,
-      "battingScore": 82,
+      "legendScore": 53.4,
+      "currentScore": 81,
+      "battingScore": 81,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
@@ -1261,7 +1292,7 @@ window.MLB_DATA = {
         "primary": "#002d72",
         "secondary": "#ff5910"
       },
-      "score": 82,
+      "score": 81,
       "stats": {
         "type": "batting",
         "ab": 277,
@@ -1272,71 +1303,11 @@ window.MLB_DATA = {
         "ops": 0.976
       },
       "legendScore": 70.7,
-      "currentScore": 82,
-      "battingScore": 82,
+      "currentScore": 81,
+      "battingScore": 81,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 1
-    },
-    {
-      "id": 42468,
-      "name": "Andy Pages",
-      "first": "Andy",
-      "last": "Pages",
-      "pos": "CF",
-      "teamCode": "LAD",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42468.png",
-      "colors": {
-        "primary": "#005a9c",
-        "secondary": "#ef3e42"
-      },
-      "score": 80,
-      "stats": {
-        "type": "batting",
-        "ab": 367,
-        "hr": 17,
-        "rbi": 66,
-        "avg": 0.27,
-        "sb": 8,
-        "ops": 0.807
-      },
-      "legendScore": 47.0,
-      "currentScore": 80,
-      "battingScore": 80,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 37498,
-      "name": "Pete Alonso",
-      "first": "Pete",
-      "last": "Alonso",
-      "pos": "1B",
-      "teamCode": "BAL",
-      "age": 31,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/37498.png",
-      "colors": {
-        "primary": "#df4601",
-        "secondary": "#000000"
-      },
-      "score": 80,
-      "stats": {
-        "type": "batting",
-        "ab": 361,
-        "hr": 21,
-        "rbi": 65,
-        "avg": 0.252,
-        "sb": 2,
-        "ops": 0.82
-      },
-      "legendScore": 52.0,
-      "currentScore": 80,
-      "battingScore": 80,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
     },
     {
       "id": 32532,
@@ -1351,47 +1322,47 @@ window.MLB_DATA = {
         "primary": "#bd3039",
         "secondary": "#0c2340"
       },
-      "score": 80,
+      "score": 81,
       "stats": {
         "type": "batting",
-        "ab": 312,
-        "hr": 20,
-        "rbi": 61,
+        "ab": 316,
+        "hr": 21,
+        "rbi": 62,
         "avg": 0.285,
         "sb": 2,
-        "ops": 0.921
+        "ops": 0.925
       },
-      "legendScore": 54.5,
-      "currentScore": 80,
-      "battingScore": 80,
+      "legendScore": 55.1,
+      "currentScore": 81,
+      "battingScore": 81,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
     },
     {
-      "id": 42403,
-      "name": "Bobby Witt Jr.",
-      "first": "Bobby",
-      "last": "Witt Jr.",
-      "pos": "SS",
-      "teamCode": "KC",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42403.png",
+      "id": 42468,
+      "name": "Andy Pages",
+      "first": "Andy",
+      "last": "Pages",
+      "pos": "CF",
+      "teamCode": "LAD",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42468.png",
       "colors": {
-        "primary": "#004687",
-        "secondary": "#c09a5b"
+        "primary": "#005a9c",
+        "secondary": "#ef3e42"
       },
       "score": 79,
       "stats": {
         "type": "batting",
-        "ab": 360,
-        "hr": 13,
-        "rbi": 39,
-        "avg": 0.286,
-        "sb": 30,
-        "ops": 0.816
+        "ab": 371,
+        "hr": 17,
+        "rbi": 66,
+        "avg": 0.27,
+        "sb": 8,
+        "ops": 0.804
       },
-      "legendScore": 47.3,
+      "legendScore": 46.5,
       "currentScore": 79,
       "battingScore": 79,
       "pitchingScore": null,
@@ -1428,6 +1399,66 @@ window.MLB_DATA = {
       "twoWayBonus": 0,
       "rings": 0,
       "prevRank": 5
+    },
+    {
+      "id": 37498,
+      "name": "Pete Alonso",
+      "first": "Pete",
+      "last": "Alonso",
+      "pos": "1B",
+      "teamCode": "BAL",
+      "age": 31,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/37498.png",
+      "colors": {
+        "primary": "#df4601",
+        "secondary": "#000000"
+      },
+      "score": 79,
+      "stats": {
+        "type": "batting",
+        "ab": 364,
+        "hr": 21,
+        "rbi": 66,
+        "avg": 0.25,
+        "sb": 2,
+        "ops": 0.815
+      },
+      "legendScore": 51.5,
+      "currentScore": 79,
+      "battingScore": 79,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 42403,
+      "name": "Bobby Witt Jr.",
+      "first": "Bobby",
+      "last": "Witt Jr.",
+      "pos": "SS",
+      "teamCode": "KC",
+      "age": 26,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42403.png",
+      "colors": {
+        "primary": "#004687",
+        "secondary": "#c09a5b"
+      },
+      "score": 78,
+      "stats": {
+        "type": "batting",
+        "ab": 364,
+        "hr": 13,
+        "rbi": 39,
+        "avg": 0.283,
+        "sb": 30,
+        "ops": 0.809
+      },
+      "legendScore": 46.8,
+      "currentScore": 78,
+      "battingScore": 78,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
     },
     {
       "id": 39961,
@@ -1475,12 +1506,12 @@ window.MLB_DATA = {
       "score": 78,
       "stats": {
         "type": "batting",
-        "ab": 357,
+        "ab": 361,
         "hr": 14,
         "rbi": 60,
-        "avg": 0.266,
+        "avg": 0.263,
         "sb": 15,
-        "ops": 0.826
+        "ops": 0.819
       },
       "legendScore": 46.8,
       "currentScore": 78,
@@ -1532,53 +1563,22 @@ window.MLB_DATA = {
         "primary": "#ffc52f",
         "secondary": "#12284b"
       },
-      "score": 78,
+      "score": 77,
       "stats": {
         "type": "batting",
-        "ab": 295,
+        "ab": 298,
         "hr": 18,
         "rbi": 59,
-        "avg": 0.268,
+        "avg": 0.265,
         "sb": 6,
-        "ops": 0.881
+        "ops": 0.877
       },
-      "legendScore": 50.1,
-      "currentScore": 78,
-      "battingScore": 78,
+      "legendScore": 49.5,
+      "currentScore": 77,
+      "battingScore": 77,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
-    },
-    {
-      "id": 30948,
-      "name": "Chris Sale",
-      "first": "Chris",
-      "last": "Sale",
-      "pos": "SP",
-      "teamCode": "ATL",
-      "age": 37,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/30948.png",
-      "colors": {
-        "primary": "#ce1141",
-        "secondary": "#13274f"
-      },
-      "score": 77,
-      "stats": {
-        "type": "pitching",
-        "g": 17,
-        "w": 9,
-        "era": 2.2,
-        "ip": 98.0,
-        "so": 117,
-        "whip": 1.11
-      },
-      "legendScore": 55.4,
-      "currentScore": 77,
-      "battingScore": null,
-      "pitchingScore": 77,
-      "twoWayBonus": 0,
-      "rings": 0,
-      "prevRank": 6
     },
     {
       "id": 5134636,
@@ -1596,12 +1596,12 @@ window.MLB_DATA = {
       "score": 77,
       "stats": {
         "type": "batting",
-        "ab": 339,
+        "ab": 342,
         "hr": 22,
         "rbi": 62,
-        "avg": 0.239,
+        "avg": 0.237,
         "sb": 0,
-        "ops": 0.788
+        "ops": 0.785
       },
       "legendScore": 49.5,
       "currentScore": 77,
@@ -1626,11 +1626,11 @@ window.MLB_DATA = {
       "score": 76,
       "stats": {
         "type": "batting",
-        "ab": 350,
+        "ab": 355,
         "hr": 19,
         "rbi": 50,
-        "avg": 0.28,
-        "sb": 7,
+        "avg": 0.282,
+        "sb": 8,
         "ops": 0.805
       },
       "legendScore": 46.5,
@@ -1656,12 +1656,12 @@ window.MLB_DATA = {
       "score": 75,
       "stats": {
         "type": "batting",
-        "ab": 359,
+        "ab": 363,
         "hr": 15,
         "rbi": 67,
         "avg": 0.273,
         "sb": 3,
-        "ops": 0.805
+        "ops": 0.803
       },
       "legendScore": 46.0,
       "currentScore": 75,
@@ -1671,29 +1671,29 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 38980,
-      "name": "Bryan Reynolds",
-      "first": "Bryan",
-      "last": "Reynolds",
-      "pos": "LF",
-      "teamCode": "PIT",
-      "age": 31,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/38980.png",
+      "id": 4872685,
+      "name": "Colson Montgomery",
+      "first": "Colson",
+      "last": "Montgomery",
+      "pos": "SS",
+      "teamCode": "CHW",
+      "age": 24,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4872685.png",
       "colors": {
-        "primary": "#fdb827",
-        "secondary": "#27251f"
+        "primary": "#27251f",
+        "secondary": "#c4ced4"
       },
       "score": 75,
       "stats": {
         "type": "batting",
-        "ab": 350,
-        "hr": 14,
-        "rbi": 59,
-        "avg": 0.283,
-        "sb": 7,
-        "ops": 0.878
+        "ab": 345,
+        "hr": 23,
+        "rbi": 56,
+        "avg": 0.223,
+        "sb": 1,
+        "ops": 0.778
       },
-      "legendScore": 49.3,
+      "legendScore": 43.5,
       "currentScore": 75,
       "battingScore": 75,
       "pitchingScore": null,
@@ -1716,7 +1716,7 @@ window.MLB_DATA = {
       "score": 75,
       "stats": {
         "type": "batting",
-        "ab": 325,
+        "ab": 328,
         "hr": 19,
         "rbi": 60,
         "avg": 0.262,
@@ -1731,29 +1731,29 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 35183,
-      "name": "Ryan O'Hearn",
-      "first": "Ryan",
-      "last": "O'Hearn",
-      "pos": "RF",
-      "teamCode": "PIT",
-      "age": 32,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35183.png",
+      "id": 4917694,
+      "name": "Elly De La Cruz",
+      "first": "Elly",
+      "last": "De La Cruz",
+      "pos": "SS",
+      "teamCode": "CIN",
+      "age": 24,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917694.png",
       "colors": {
-        "primary": "#fdb827",
-        "secondary": "#27251f"
+        "primary": "#c6011f",
+        "secondary": "#000000"
       },
       "score": 75,
       "stats": {
         "type": "batting",
-        "ab": 306,
+        "ab": 308,
         "hr": 16,
-        "rbi": 63,
-        "avg": 0.288,
-        "sb": 1,
-        "ops": 0.838
+        "rbi": 45,
+        "avg": 0.282,
+        "sb": 14,
+        "ops": 0.86
       },
-      "legendScore": 50.1,
+      "legendScore": 43.5,
       "currentScore": 75,
       "battingScore": 75,
       "pitchingScore": null,
@@ -1761,29 +1761,89 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4872685,
-      "name": "Colson Montgomery",
-      "first": "Colson",
-      "last": "Montgomery",
-      "pos": "SS",
-      "teamCode": "CHW",
-      "age": 24,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4872685.png",
+      "id": 42470,
+      "name": "Michael Harris II",
+      "first": "Michael",
+      "last": "Harris II",
+      "pos": "CF",
+      "teamCode": "ATL",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42470.png",
       "colors": {
-        "primary": "#27251f",
+        "primary": "#ce1141",
+        "secondary": "#13274f"
+      },
+      "score": 75,
+      "stats": {
+        "type": "batting",
+        "ab": 340,
+        "hr": 16,
+        "rbi": 56,
+        "avg": 0.297,
+        "sb": 6,
+        "ops": 0.82
+      },
+      "legendScore": 44.3,
+      "currentScore": 75,
+      "battingScore": 75,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 38980,
+      "name": "Bryan Reynolds",
+      "first": "Bryan",
+      "last": "Reynolds",
+      "pos": "LF",
+      "teamCode": "PIT",
+      "age": 31,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/38980.png",
+      "colors": {
+        "primary": "#fdb827",
+        "secondary": "#27251f"
+      },
+      "score": 74,
+      "stats": {
+        "type": "batting",
+        "ab": 350,
+        "hr": 14,
+        "rbi": 59,
+        "avg": 0.283,
+        "sb": 7,
+        "ops": 0.878
+      },
+      "legendScore": 48.7,
+      "currentScore": 74,
+      "battingScore": 74,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 41197,
+      "name": "Jake McCarthy",
+      "first": "Jake",
+      "last": "McCarthy",
+      "pos": "CF",
+      "teamCode": "COL",
+      "age": 28,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41197.png",
+      "colors": {
+        "primary": "#333366",
         "secondary": "#c4ced4"
       },
       "score": 74,
       "stats": {
         "type": "batting",
-        "ab": 341,
-        "hr": 23,
+        "ab": 282,
+        "hr": 10,
         "rbi": 53,
-        "avg": 0.22,
-        "sb": 1,
-        "ops": 0.771
+        "avg": 0.301,
+        "sb": 16,
+        "ops": 0.863
       },
-      "legendScore": 42.9,
+      "legendScore": 46.2,
       "currentScore": 74,
       "battingScore": 74,
       "pitchingScore": null,
@@ -1822,29 +1882,29 @@ window.MLB_DATA = {
       "prevRank": 7
     },
     {
-      "id": 42470,
-      "name": "Michael Harris II",
-      "first": "Michael",
-      "last": "Harris II",
-      "pos": "CF",
-      "teamCode": "ATL",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42470.png",
+      "id": 35183,
+      "name": "Ryan O'Hearn",
+      "first": "Ryan",
+      "last": "O'Hearn",
+      "pos": "RF",
+      "teamCode": "PIT",
+      "age": 32,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35183.png",
       "colors": {
-        "primary": "#ce1141",
-        "secondary": "#13274f"
+        "primary": "#fdb827",
+        "secondary": "#27251f"
       },
       "score": 74,
       "stats": {
         "type": "batting",
-        "ab": 334,
+        "ab": 306,
         "hr": 16,
-        "rbi": 53,
-        "avg": 0.296,
-        "sb": 6,
-        "ops": 0.817
+        "rbi": 63,
+        "avg": 0.288,
+        "sb": 1,
+        "ops": 0.838
       },
-      "legendScore": 43.7,
+      "legendScore": 49.6,
       "currentScore": 74,
       "battingScore": 74,
       "pitchingScore": null,
@@ -1867,76 +1927,16 @@ window.MLB_DATA = {
       "score": 74,
       "stats": {
         "type": "batting",
-        "ab": 371,
+        "ab": 375,
         "hr": 19,
         "rbi": 45,
-        "avg": 0.235,
+        "avg": 0.237,
         "sb": 12,
-        "ops": 0.779
+        "ops": 0.781
       },
       "legendScore": 43.7,
       "currentScore": 74,
       "battingScore": 74,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 32758,
-      "name": "Christian Walker",
-      "first": "Christian",
-      "last": "Walker",
-      "pos": "1B",
-      "teamCode": "HOU",
-      "age": 35,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32758.png",
-      "colors": {
-        "primary": "#eb6e1f",
-        "secondary": "#002d62"
-      },
-      "score": 73,
-      "stats": {
-        "type": "batting",
-        "ab": 359,
-        "hr": 20,
-        "rbi": 58,
-        "avg": 0.237,
-        "sb": 0,
-        "ops": 0.775
-      },
-      "legendScore": 51.5,
-      "currentScore": 73,
-      "battingScore": 73,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 34895,
-      "name": "Dansby Swanson",
-      "first": "Dansby",
-      "last": "Swanson",
-      "pos": "SS",
-      "teamCode": "CHC",
-      "age": 32,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34895.png",
-      "colors": {
-        "primary": "#0e3386",
-        "secondary": "#cc3433"
-      },
-      "score": 73,
-      "stats": {
-        "type": "batting",
-        "ab": 313,
-        "hr": 16,
-        "rbi": 58,
-        "avg": 0.211,
-        "sb": 12,
-        "ops": 0.705
-      },
-      "legendScore": 49.0,
-      "currentScore": 73,
-      "battingScore": 73,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
@@ -1973,36 +1973,6 @@ window.MLB_DATA = {
       "prevRank": 8
     },
     {
-      "id": 4917694,
-      "name": "Elly De La Cruz",
-      "first": "Elly",
-      "last": "De La Cruz",
-      "pos": "SS",
-      "teamCode": "CIN",
-      "age": 24,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917694.png",
-      "colors": {
-        "primary": "#c6011f",
-        "secondary": "#000000"
-      },
-      "score": 73,
-      "stats": {
-        "type": "batting",
-        "ab": 303,
-        "hr": 15,
-        "rbi": 44,
-        "avg": 0.274,
-        "sb": 14,
-        "ops": 0.839
-      },
-      "legendScore": 42.4,
-      "currentScore": 73,
-      "battingScore": 73,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 33773,
       "name": "Foster Griffin",
       "first": "Foster",
@@ -2034,27 +2004,27 @@ window.MLB_DATA = {
       "prevRank": 9
     },
     {
-      "id": 41197,
-      "name": "Jake McCarthy",
-      "first": "Jake",
-      "last": "McCarthy",
-      "pos": "CF",
-      "teamCode": "COL",
+      "id": 42598,
+      "name": "Shea Langeliers",
+      "first": "Shea",
+      "last": "Langeliers",
+      "pos": "C",
+      "teamCode": "ATH",
       "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41197.png",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42598.png",
       "colors": {
-        "primary": "#333366",
-        "secondary": "#c4ced4"
+        "primary": "#003831",
+        "secondary": "#efb21e"
       },
       "score": 73,
       "stats": {
         "type": "batting",
-        "ab": 279,
-        "hr": 10,
-        "rbi": 53,
-        "avg": 0.301,
-        "sb": 15,
-        "ops": 0.863
+        "ab": 354,
+        "hr": 22,
+        "rbi": 47,
+        "avg": 0.257,
+        "sb": 2,
+        "ops": 0.812
       },
       "legendScore": 45.7,
       "currentScore": 73,
@@ -2064,61 +2034,61 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 40810,
-      "name": "Jonathan Aranda",
-      "first": "Jonathan",
-      "last": "Aranda",
+      "id": 32758,
+      "name": "Christian Walker",
+      "first": "Christian",
+      "last": "Walker",
       "pos": "1B",
-      "teamCode": "TB",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40810.png",
+      "teamCode": "HOU",
+      "age": 35,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32758.png",
       "colors": {
-        "primary": "#092c5c",
-        "secondary": "#8fbce6"
+        "primary": "#eb6e1f",
+        "secondary": "#002d62"
       },
-      "score": 73,
+      "score": 72,
       "stats": {
         "type": "batting",
-        "ab": 343,
-        "hr": 14,
-        "rbi": 64,
-        "avg": 0.294,
+        "ab": 363,
+        "hr": 20,
+        "rbi": 58,
+        "avg": 0.234,
         "sb": 0,
-        "ops": 0.859
+        "ops": 0.768
       },
-      "legendScore": 45.7,
-      "currentScore": 73,
-      "battingScore": 73,
+      "legendScore": 51.0,
+      "currentScore": 72,
+      "battingScore": 72,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
     },
     {
-      "id": 36488,
-      "name": "Randy Arozarena",
-      "first": "Randy",
-      "last": "Arozarena",
-      "pos": "LF",
-      "teamCode": "SEA",
-      "age": 31,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/36488.png",
+      "id": 34895,
+      "name": "Dansby Swanson",
+      "first": "Dansby",
+      "last": "Swanson",
+      "pos": "SS",
+      "teamCode": "CHC",
+      "age": 32,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34895.png",
       "colors": {
-        "primary": "#0c2c56",
-        "secondary": "#005c5c"
+        "primary": "#0e3386",
+        "secondary": "#cc3433"
       },
-      "score": 73,
+      "score": 72,
       "stats": {
         "type": "batting",
-        "ab": 325,
-        "hr": 11,
-        "rbi": 45,
-        "avg": 0.286,
-        "sb": 19,
-        "ops": 0.838
+        "ab": 316,
+        "hr": 16,
+        "rbi": 58,
+        "avg": 0.209,
+        "sb": 12,
+        "ops": 0.699
       },
-      "legendScore": 48.2,
-      "currentScore": 73,
-      "battingScore": 73,
+      "legendScore": 48.5,
+      "currentScore": 72,
+      "battingScore": 72,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
@@ -2155,6 +2125,36 @@ window.MLB_DATA = {
       "prevRank": 10
     },
     {
+      "id": 40810,
+      "name": "Jonathan Aranda",
+      "first": "Jonathan",
+      "last": "Aranda",
+      "pos": "1B",
+      "teamCode": "TB",
+      "age": 28,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40810.png",
+      "colors": {
+        "primary": "#092c5c",
+        "secondary": "#8fbce6"
+      },
+      "score": 72,
+      "stats": {
+        "type": "batting",
+        "ab": 347,
+        "hr": 14,
+        "rbi": 64,
+        "avg": 0.291,
+        "sb": 0,
+        "ops": 0.85
+      },
+      "legendScore": 45.1,
+      "currentScore": 72,
+      "battingScore": 72,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
       "id": 41917,
       "name": "Otto Lopez",
       "first": "Otto",
@@ -2170,12 +2170,12 @@ window.MLB_DATA = {
       "score": 72,
       "stats": {
         "type": "batting",
-        "ab": 380,
+        "ab": 384,
         "hr": 9,
         "rbi": 45,
-        "avg": 0.334,
+        "avg": 0.336,
         "sb": 17,
-        "ops": 0.874
+        "ops": 0.877
       },
       "legendScore": 44.3,
       "currentScore": 72,
@@ -2185,29 +2185,29 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 42598,
-      "name": "Shea Langeliers",
-      "first": "Shea",
-      "last": "Langeliers",
-      "pos": "C",
-      "teamCode": "ATH",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42598.png",
+      "id": 36488,
+      "name": "Randy Arozarena",
+      "first": "Randy",
+      "last": "Arozarena",
+      "pos": "LF",
+      "teamCode": "SEA",
+      "age": 31,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/36488.png",
       "colors": {
-        "primary": "#003831",
-        "secondary": "#efb21e"
+        "primary": "#0c2c56",
+        "secondary": "#005c5c"
       },
       "score": 72,
       "stats": {
         "type": "batting",
-        "ab": 350,
-        "hr": 21,
-        "rbi": 46,
-        "avg": 0.257,
-        "sb": 2,
-        "ops": 0.807
+        "ab": 329,
+        "hr": 11,
+        "rbi": 45,
+        "avg": 0.283,
+        "sb": 19,
+        "ops": 0.829
       },
-      "legendScore": 45.1,
+      "legendScore": 47.6,
       "currentScore": 72,
       "battingScore": 72,
       "pitchingScore": null,
@@ -2290,74 +2290,14 @@ window.MLB_DATA = {
       "score": 71,
       "stats": {
         "type": "batting",
-        "ab": 371,
+        "ab": 376,
         "hr": 17,
         "rbi": 54,
-        "avg": 0.256,
+        "avg": 0.255,
         "sb": 4,
-        "ops": 0.772
+        "ops": 0.767
       },
       "legendScore": 47.9,
-      "currentScore": 71,
-      "battingScore": 71,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 33859,
-      "name": "Rafael Devers",
-      "first": "Rafael",
-      "last": "Devers",
-      "pos": "1B",
-      "teamCode": "SF",
-      "age": 29,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33859.png",
-      "colors": {
-        "primary": "#fd5a1e",
-        "secondary": "#27251f"
-      },
-      "score": 71,
-      "stats": {
-        "type": "batting",
-        "ab": 365,
-        "hr": 19,
-        "rbi": 52,
-        "avg": 0.249,
-        "sb": 0,
-        "ops": 0.799
-      },
-      "legendScore": 45.4,
-      "currentScore": 71,
-      "battingScore": 71,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 33481,
-      "name": "Yandy Diaz",
-      "first": "Yandy",
-      "last": "Diaz",
-      "pos": "DH",
-      "teamCode": "TB",
-      "age": 34,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33481.png",
-      "colors": {
-        "primary": "#092c5c",
-        "secondary": "#8fbce6"
-      },
-      "score": 71,
-      "stats": {
-        "type": "batting",
-        "ab": 349,
-        "hr": 13,
-        "rbi": 55,
-        "avg": 0.318,
-        "sb": 1,
-        "ops": 0.879
-      },
-      "legendScore": 49.6,
       "currentScore": 71,
       "battingScore": 71,
       "pitchingScore": null,
@@ -2425,36 +2365,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 30193,
-      "name": "Freddie Freeman",
-      "first": "Freddie",
-      "last": "Freeman",
-      "pos": "1B",
-      "teamCode": "LAD",
-      "age": 36,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/30193.png",
-      "colors": {
-        "primary": "#005a9c",
-        "secondary": "#ef3e42"
-      },
-      "score": 70,
-      "stats": {
-        "type": "batting",
-        "ab": 355,
-        "hr": 15,
-        "rbi": 49,
-        "avg": 0.29,
-        "sb": 3,
-        "ops": 0.862
-      },
-      "legendScore": 78.0,
-      "currentScore": 70,
-      "battingScore": 70,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 3
-    },
-    {
       "id": 41433,
       "name": "Jazz Chisholm Jr.",
       "first": "Jazz",
@@ -2470,12 +2380,12 @@ window.MLB_DATA = {
       "score": 70,
       "stats": {
         "type": "batting",
-        "ab": 319,
+        "ab": 323,
         "hr": 13,
         "rbi": 37,
         "avg": 0.223,
         "sb": 26,
-        "ops": 0.698
+        "ops": 0.695
       },
       "legendScore": 44.1,
       "currentScore": 70,
@@ -2485,29 +2395,29 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4725251,
-      "name": "Liam Hicks",
-      "first": "Liam",
-      "last": "Hicks",
-      "pos": "C",
-      "teamCode": "MIA",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4725251.png",
+      "id": 33859,
+      "name": "Rafael Devers",
+      "first": "Rafael",
+      "last": "Devers",
+      "pos": "1B",
+      "teamCode": "SF",
+      "age": 29,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33859.png",
       "colors": {
-        "primary": "#00a3e0",
-        "secondary": "#ef3340"
+        "primary": "#fd5a1e",
+        "secondary": "#27251f"
       },
       "score": 70,
       "stats": {
         "type": "batting",
-        "ab": 297,
-        "hr": 13,
-        "rbi": 58,
-        "avg": 0.29,
-        "sb": 2,
-        "ops": 0.822
+        "ab": 370,
+        "hr": 19,
+        "rbi": 52,
+        "avg": 0.246,
+        "sb": 0,
+        "ops": 0.789
       },
-      "legendScore": 43.2,
+      "legendScore": 44.9,
       "currentScore": 70,
       "battingScore": 70,
       "pitchingScore": null,
@@ -2515,34 +2425,94 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 39882,
-      "name": "Jake Burger",
-      "first": "Jake",
-      "last": "Burger",
-      "pos": "1B",
-      "teamCode": "TEX",
-      "age": 30,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39882.png",
+      "id": 33481,
+      "name": "Yandy Diaz",
+      "first": "Yandy",
+      "last": "Diaz",
+      "pos": "DH",
+      "teamCode": "TB",
+      "age": 34,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33481.png",
       "colors": {
-        "primary": "#c0111f",
-        "secondary": "#003278"
+        "primary": "#092c5c",
+        "secondary": "#8fbce6"
+      },
+      "score": 70,
+      "stats": {
+        "type": "batting",
+        "ab": 353,
+        "hr": 13,
+        "rbi": 55,
+        "avg": 0.314,
+        "sb": 1,
+        "ops": 0.869
+      },
+      "legendScore": 49.1,
+      "currentScore": 70,
+      "battingScore": 70,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 42404,
+      "name": "Corbin Carroll",
+      "first": "Corbin",
+      "last": "Carroll",
+      "pos": "RF",
+      "teamCode": "ARI",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42404.png",
+      "colors": {
+        "primary": "#a71930",
+        "secondary": "#e3d4ad"
       },
       "score": 69,
       "stats": {
         "type": "batting",
-        "ab": 338,
-        "hr": 16,
-        "rbi": 58,
-        "avg": 0.24,
-        "sb": 2,
-        "ops": 0.727
+        "ab": 349,
+        "hr": 14,
+        "rbi": 47,
+        "avg": 0.252,
+        "sb": 10,
+        "ops": 0.83
       },
-      "legendScore": 45.2,
+      "legendScore": 41.0,
       "currentScore": 69,
       "battingScore": 69,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
+    },
+    {
+      "id": 30193,
+      "name": "Freddie Freeman",
+      "first": "Freddie",
+      "last": "Freeman",
+      "pos": "1B",
+      "teamCode": "LAD",
+      "age": 36,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/30193.png",
+      "colors": {
+        "primary": "#005a9c",
+        "secondary": "#ef3e42"
+      },
+      "score": 69,
+      "stats": {
+        "type": "batting",
+        "ab": 359,
+        "hr": 15,
+        "rbi": 49,
+        "avg": 0.287,
+        "sb": 3,
+        "ops": 0.853
+      },
+      "legendScore": 78.0,
+      "currentScore": 69,
+      "battingScore": 69,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 3
     },
     {
       "id": 39667,
@@ -2575,59 +2545,29 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 31097,
-      "name": "Manny Machado",
-      "first": "Manny",
-      "last": "Machado",
-      "pos": "3B",
-      "teamCode": "SD",
-      "age": 34,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/31097.png",
+      "id": 4725251,
+      "name": "Liam Hicks",
+      "first": "Liam",
+      "last": "Hicks",
+      "pos": "C",
+      "teamCode": "MIA",
+      "age": 27,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4725251.png",
       "colors": {
-        "primary": "#2f241d",
-        "secondary": "#ffc425"
+        "primary": "#00a3e0",
+        "secondary": "#ef3340"
       },
       "score": 69,
       "stats": {
         "type": "batting",
-        "ab": 340,
-        "hr": 19,
-        "rbi": 55,
-        "avg": 0.203,
+        "ab": 301,
+        "hr": 13,
+        "rbi": 58,
+        "avg": 0.289,
         "sb": 2,
-        "ops": 0.708
+        "ops": 0.817
       },
-      "legendScore": 48.5,
-      "currentScore": 69,
-      "battingScore": 69,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 30836,
-      "name": "Mike Trout",
-      "first": "Mike",
-      "last": "Trout",
-      "pos": "CF",
-      "teamCode": "LAA",
-      "age": 34,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/30836.png",
-      "colors": {
-        "primary": "#ba0021",
-        "secondary": "#003263"
-      },
-      "score": 69,
-      "stats": {
-        "type": "batting",
-        "ab": 283,
-        "hr": 18,
-        "rbi": 39,
-        "avg": 0.237,
-        "sb": 7,
-        "ops": 0.863
-      },
-      "legendScore": 89.0,
+      "legendScore": 42.7,
       "currentScore": 69,
       "battingScore": 69,
       "pitchingScore": null,
@@ -2665,6 +2605,36 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
+      "id": 4810190,
+      "name": "Drake Baldwin",
+      "first": "Drake",
+      "last": "Baldwin",
+      "pos": "C",
+      "teamCode": "ATL",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4810190.png",
+      "colors": {
+        "primary": "#ce1141",
+        "secondary": "#13274f"
+      },
+      "score": 68,
+      "stats": {
+        "type": "batting",
+        "ab": 283,
+        "hr": 16,
+        "rbi": 51,
+        "avg": 0.261,
+        "sb": 1,
+        "ops": 0.804
+      },
+      "legendScore": 40.5,
+      "currentScore": 68,
+      "battingScore": 68,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
       "id": 32675,
       "name": "Eduardo Rodriguez",
       "first": "Eduardo",
@@ -2695,29 +2665,89 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 41311,
-      "name": "Kody Clemens",
-      "first": "Kody",
-      "last": "Clemens",
+      "id": 39882,
+      "name": "Jake Burger",
+      "first": "Jake",
+      "last": "Burger",
       "pos": "1B",
-      "teamCode": "MIN",
+      "teamCode": "TEX",
       "age": 30,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41311.png",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39882.png",
       "colors": {
-        "primary": "#002b5c",
-        "secondary": "#d31145"
+        "primary": "#c0111f",
+        "secondary": "#003278"
       },
       "score": 68,
       "stats": {
         "type": "batting",
-        "ab": 301,
+        "ab": 342,
         "hr": 16,
-        "rbi": 46,
-        "avg": 0.243,
-        "sb": 6,
-        "ops": 0.785
+        "rbi": 58,
+        "avg": 0.237,
+        "sb": 2,
+        "ops": 0.719
       },
       "legendScore": 44.6,
+      "currentScore": 68,
+      "battingScore": 68,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 31097,
+      "name": "Manny Machado",
+      "first": "Manny",
+      "last": "Machado",
+      "pos": "3B",
+      "teamCode": "SD",
+      "age": 34,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/31097.png",
+      "colors": {
+        "primary": "#2f241d",
+        "secondary": "#ffc425"
+      },
+      "score": 68,
+      "stats": {
+        "type": "batting",
+        "ab": 344,
+        "hr": 19,
+        "rbi": 55,
+        "avg": 0.201,
+        "sb": 2,
+        "ops": 0.702
+      },
+      "legendScore": 48.0,
+      "currentScore": 68,
+      "battingScore": 68,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 30836,
+      "name": "Mike Trout",
+      "first": "Mike",
+      "last": "Trout",
+      "pos": "CF",
+      "teamCode": "LAA",
+      "age": 34,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/30836.png",
+      "colors": {
+        "primary": "#ba0021",
+        "secondary": "#003263"
+      },
+      "score": 68,
+      "stats": {
+        "type": "batting",
+        "ab": 287,
+        "hr": 18,
+        "rbi": 39,
+        "avg": 0.237,
+        "sb": 7,
+        "ops": 0.862
+      },
+      "legendScore": 89.0,
       "currentScore": 68,
       "battingScore": 68,
       "pitchingScore": null,
@@ -2770,72 +2800,12 @@ window.MLB_DATA = {
       "score": 67,
       "stats": {
         "type": "batting",
-        "ab": 341,
+        "ab": 345,
         "hr": 14,
         "rbi": 51,
         "avg": 0.249,
         "sb": 6,
-        "ops": 0.737
-      },
-      "legendScore": 39.9,
-      "currentScore": 67,
-      "battingScore": 67,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 33912,
-      "name": "Cody Bellinger",
-      "first": "Cody",
-      "last": "Bellinger",
-      "pos": "LF",
-      "teamCode": "NYY",
-      "age": 31,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33912.png",
-      "colors": {
-        "primary": "#003087",
-        "secondary": "#e4002c"
-      },
-      "score": 67,
-      "stats": {
-        "type": "batting",
-        "ab": 347,
-        "hr": 11,
-        "rbi": 51,
-        "avg": 0.254,
-        "sb": 10,
-        "ops": 0.766
-      },
-      "legendScore": 44.9,
-      "currentScore": 67,
-      "battingScore": 67,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 42404,
-      "name": "Corbin Carroll",
-      "first": "Corbin",
-      "last": "Carroll",
-      "pos": "RF",
-      "teamCode": "ARI",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42404.png",
-      "colors": {
-        "primary": "#a71930",
-        "secondary": "#e3d4ad"
-      },
-      "score": 67,
-      "stats": {
-        "type": "batting",
-        "ab": 345,
-        "hr": 13,
-        "rbi": 45,
-        "avg": 0.252,
-        "sb": 10,
-        "ops": 0.825
+        "ops": 0.735
       },
       "legendScore": 39.9,
       "currentScore": 67,
@@ -2935,6 +2905,96 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
+      "id": 41311,
+      "name": "Kody Clemens",
+      "first": "Kody",
+      "last": "Clemens",
+      "pos": "1B",
+      "teamCode": "MIN",
+      "age": 30,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41311.png",
+      "colors": {
+        "primary": "#002b5c",
+        "secondary": "#d31145"
+      },
+      "score": 67,
+      "stats": {
+        "type": "batting",
+        "ab": 305,
+        "hr": 16,
+        "rbi": 46,
+        "avg": 0.239,
+        "sb": 6,
+        "ops": 0.775
+      },
+      "legendScore": 44.1,
+      "currentScore": 67,
+      "battingScore": 67,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 33303,
+      "name": "Max Muncy",
+      "first": "Max",
+      "last": "Muncy",
+      "pos": "3B",
+      "teamCode": "LAD",
+      "age": 35,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33303.png",
+      "colors": {
+        "primary": "#005a9c",
+        "secondary": "#ef3e42"
+      },
+      "score": 67,
+      "stats": {
+        "type": "batting",
+        "ab": 296,
+        "hr": 18,
+        "rbi": 42,
+        "avg": 0.26,
+        "sb": 1,
+        "ops": 0.853
+      },
+      "legendScore": 48.2,
+      "currentScore": 67,
+      "battingScore": 67,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 35241,
+      "name": "Sandy Alcantara",
+      "first": "Sandy",
+      "last": "Alcantara",
+      "pos": "SP",
+      "teamCode": "MIA",
+      "age": 30,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35241.png",
+      "colors": {
+        "primary": "#00a3e0",
+        "secondary": "#ef3340"
+      },
+      "score": 67,
+      "stats": {
+        "type": "pitching",
+        "g": 21,
+        "w": 10,
+        "era": 3.89,
+        "ip": 136.2,
+        "so": 107,
+        "whip": 1.22
+      },
+      "legendScore": 44.1,
+      "currentScore": 67,
+      "battingScore": null,
+      "pitchingScore": 67,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
       "id": 42480,
       "name": "Taj Bradley",
       "first": "Taj",
@@ -2965,59 +3025,29 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 42507,
-      "name": "Gunnar Henderson",
-      "first": "Gunnar",
-      "last": "Henderson",
-      "pos": "SS",
-      "teamCode": "BAL",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42507.png",
+      "id": 33912,
+      "name": "Cody Bellinger",
+      "first": "Cody",
+      "last": "Bellinger",
+      "pos": "LF",
+      "teamCode": "NYY",
+      "age": 31,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33912.png",
       "colors": {
-        "primary": "#df4601",
-        "secondary": "#000000"
+        "primary": "#003087",
+        "secondary": "#e4002c"
       },
       "score": 66,
       "stats": {
         "type": "batting",
-        "ab": 397,
-        "hr": 17,
-        "rbi": 43,
-        "avg": 0.224,
-        "sb": 7,
-        "ops": 0.697
+        "ab": 351,
+        "hr": 11,
+        "rbi": 51,
+        "avg": 0.254,
+        "sb": 10,
+        "ops": 0.763
       },
-      "legendScore": 39.4,
-      "currentScore": 66,
-      "battingScore": 66,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 32801,
-      "name": "Jose Ramirez",
-      "first": "Jose",
-      "last": "Ramirez",
-      "pos": "3B",
-      "teamCode": "CLE",
-      "age": 33,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32801.png",
-      "colors": {
-        "primary": "#e31937",
-        "secondary": "#002b5c"
-      },
-      "score": 66,
-      "stats": {
-        "type": "batting",
-        "ab": 268,
-        "hr": 10,
-        "rbi": 33,
-        "avg": 0.239,
-        "sb": 24,
-        "ops": 0.757
-      },
-      "legendScore": 46.0,
+      "legendScore": 44.4,
       "currentScore": 66,
       "battingScore": 66,
       "pitchingScore": null,
@@ -3040,12 +3070,12 @@ window.MLB_DATA = {
       "score": 66,
       "stats": {
         "type": "batting",
-        "ab": 343,
+        "ab": 347,
         "hr": 13,
         "rbi": 60,
         "avg": 0.248,
         "sb": 1,
-        "ops": 0.735
+        "ops": 0.733
       },
       "legendScore": 46.0,
       "currentScore": 66,
@@ -3085,6 +3115,36 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
+      "id": 33783,
+      "name": "Ozzie Albies",
+      "first": "Ozzie",
+      "last": "Albies",
+      "pos": "2B",
+      "teamCode": "ATL",
+      "age": 29,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33783.png",
+      "colors": {
+        "primary": "#ce1141",
+        "secondary": "#13274f"
+      },
+      "score": 66,
+      "stats": {
+        "type": "batting",
+        "ab": 371,
+        "hr": 14,
+        "rbi": 52,
+        "avg": 0.27,
+        "sb": 1,
+        "ops": 0.762
+      },
+      "legendScore": 42.7,
+      "currentScore": 66,
+      "battingScore": 66,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
       "id": 4142424,
       "name": "Seiya Suzuki",
       "first": "Seiya",
@@ -3100,12 +3160,12 @@ window.MLB_DATA = {
       "score": 66,
       "stats": {
         "type": "batting",
-        "ab": 302,
+        "ab": 305,
         "hr": 15,
         "rbi": 48,
-        "avg": 0.268,
+        "avg": 0.269,
         "sb": 1,
-        "ops": 0.811
+        "ops": 0.814
       },
       "legendScore": 44.4,
       "currentScore": 66,
@@ -3115,29 +3175,29 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4925604,
-      "name": "Carson Benge",
-      "first": "Carson",
-      "last": "Benge",
-      "pos": "RF",
-      "teamCode": "NYM",
-      "age": 23,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4925604.png",
+      "id": 42507,
+      "name": "Gunnar Henderson",
+      "first": "Gunnar",
+      "last": "Henderson",
+      "pos": "SS",
+      "teamCode": "BAL",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42507.png",
       "colors": {
-        "primary": "#002d72",
-        "secondary": "#ff5910"
+        "primary": "#df4601",
+        "secondary": "#000000"
       },
       "score": 65,
       "stats": {
         "type": "batting",
-        "ab": 357,
-        "hr": 11,
-        "rbi": 37,
-        "avg": 0.263,
-        "sb": 16,
-        "ops": 0.726
+        "ab": 401,
+        "hr": 17,
+        "rbi": 43,
+        "avg": 0.222,
+        "sb": 7,
+        "ops": 0.69
       },
-      "legendScore": 37.2,
+      "legendScore": 38.8,
       "currentScore": 65,
       "battingScore": 65,
       "pitchingScore": null,
@@ -3175,29 +3235,29 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 42135,
-      "name": "Jose Caballero",
+      "id": 32801,
+      "name": "Jose Ramirez",
       "first": "Jose",
-      "last": "Caballero",
-      "pos": "SS",
-      "teamCode": "NYY",
-      "age": 29,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42135.png",
+      "last": "Ramirez",
+      "pos": "3B",
+      "teamCode": "CLE",
+      "age": 33,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32801.png",
       "colors": {
-        "primary": "#003087",
-        "secondary": "#e4002c"
+        "primary": "#e31937",
+        "secondary": "#002b5c"
       },
       "score": 65,
       "stats": {
         "type": "batting",
-        "ab": 272,
+        "ab": 268,
         "hr": 10,
-        "rbi": 35,
-        "avg": 0.25,
-        "sb": 22,
-        "ops": 0.698
+        "rbi": 33,
+        "avg": 0.239,
+        "sb": 24,
+        "ops": 0.757
       },
-      "legendScore": 42.2,
+      "legendScore": 45.5,
       "currentScore": 65,
       "battingScore": 65,
       "pitchingScore": null,
@@ -3265,66 +3325,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 33303,
-      "name": "Max Muncy",
-      "first": "Max",
-      "last": "Muncy",
-      "pos": "3B",
-      "teamCode": "LAD",
-      "age": 35,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33303.png",
-      "colors": {
-        "primary": "#005a9c",
-        "secondary": "#ef3e42"
-      },
-      "score": 65,
-      "stats": {
-        "type": "batting",
-        "ab": 293,
-        "hr": 17,
-        "rbi": 40,
-        "avg": 0.259,
-        "sb": 1,
-        "ops": 0.842
-      },
-      "legendScore": 47.2,
-      "currentScore": 65,
-      "battingScore": 65,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 33783,
-      "name": "Ozzie Albies",
-      "first": "Ozzie",
-      "last": "Albies",
-      "pos": "2B",
-      "teamCode": "ATL",
-      "age": 29,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33783.png",
-      "colors": {
-        "primary": "#ce1141",
-        "secondary": "#13274f"
-      },
-      "score": 65,
-      "stats": {
-        "type": "batting",
-        "ab": 367,
-        "hr": 14,
-        "rbi": 51,
-        "avg": 0.267,
-        "sb": 1,
-        "ops": 0.758
-      },
-      "legendScore": 42.2,
-      "currentScore": 65,
-      "battingScore": 65,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 42179,
       "name": "Riley Greene",
       "first": "Riley",
@@ -3340,12 +3340,12 @@ window.MLB_DATA = {
       "score": 65,
       "stats": {
         "type": "batting",
-        "ab": 344,
+        "ab": 347,
         "hr": 13,
         "rbi": 45,
         "avg": 0.288,
         "sb": 2,
-        "ops": 0.842
+        "ops": 0.845
       },
       "legendScore": 38.8,
       "currentScore": 65,
@@ -3355,32 +3355,32 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 35241,
-      "name": "Sandy Alcantara",
-      "first": "Sandy",
-      "last": "Alcantara",
-      "pos": "SP",
-      "teamCode": "MIA",
-      "age": 30,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35241.png",
+      "id": 4990055,
+      "name": "Wilyer Abreu",
+      "first": "Wilyer",
+      "last": "Abreu",
+      "pos": "RF",
+      "teamCode": "BOS",
+      "age": 27,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4990055.png",
       "colors": {
-        "primary": "#00a3e0",
-        "secondary": "#ef3340"
+        "primary": "#bd3039",
+        "secondary": "#0c2340"
       },
       "score": 65,
       "stats": {
-        "type": "pitching",
-        "g": 20,
-        "w": 10,
-        "era": 3.99,
-        "ip": 130.2,
-        "so": 100,
-        "whip": 1.22
+        "type": "batting",
+        "ab": 361,
+        "hr": 13,
+        "rbi": 46,
+        "avg": 0.263,
+        "sb": 6,
+        "ops": 0.777
       },
-      "legendScore": 43.0,
+      "legendScore": 40.5,
       "currentScore": 65,
-      "battingScore": null,
-      "pitchingScore": 65,
+      "battingScore": 65,
+      "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -3415,29 +3415,29 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4810190,
-      "name": "Drake Baldwin",
-      "first": "Drake",
-      "last": "Baldwin",
-      "pos": "C",
-      "teamCode": "ATL",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4810190.png",
+      "id": 4925604,
+      "name": "Carson Benge",
+      "first": "Carson",
+      "last": "Benge",
+      "pos": "RF",
+      "teamCode": "NYM",
+      "age": 23,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4925604.png",
       "colors": {
-        "primary": "#ce1141",
-        "secondary": "#13274f"
+        "primary": "#002d72",
+        "secondary": "#ff5910"
       },
       "score": 64,
       "stats": {
         "type": "batting",
-        "ab": 279,
-        "hr": 15,
-        "rbi": 46,
-        "avg": 0.254,
-        "sb": 1,
-        "ops": 0.782
+        "ab": 357,
+        "hr": 11,
+        "rbi": 37,
+        "avg": 0.263,
+        "sb": 16,
+        "ops": 0.726
       },
-      "legendScore": 38.3,
+      "legendScore": 36.6,
       "currentScore": 64,
       "battingScore": 64,
       "pitchingScore": null,
@@ -3460,12 +3460,12 @@ window.MLB_DATA = {
       "score": 64,
       "stats": {
         "type": "batting",
-        "ab": 296,
+        "ab": 299,
         "hr": 10,
         "rbi": 50,
-        "avg": 0.27,
+        "avg": 0.268,
         "sb": 7,
-        "ops": 0.76
+        "ops": 0.753
       },
       "legendScore": 39.9,
       "currentScore": 64,
@@ -3490,14 +3490,44 @@ window.MLB_DATA = {
       "score": 64,
       "stats": {
         "type": "batting",
-        "ab": 341,
+        "ab": 344,
         "hr": 17,
         "rbi": 42,
-        "avg": 0.22,
+        "avg": 0.221,
         "sb": 4,
         "ops": 0.759
       },
       "legendScore": 43.3,
+      "currentScore": 64,
+      "battingScore": 64,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 4941056,
+      "name": "JJ Wetherholt",
+      "first": "JJ",
+      "last": "Wetherholt",
+      "pos": "2B",
+      "teamCode": "STL",
+      "age": 23,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4941056.png",
+      "colors": {
+        "primary": "#c41e3a",
+        "secondary": "#0c2340"
+      },
+      "score": 64,
+      "stats": {
+        "type": "batting",
+        "ab": 355,
+        "hr": 14,
+        "rbi": 37,
+        "avg": 0.262,
+        "sb": 9,
+        "ops": 0.768
+      },
+      "legendScore": 36.6,
       "currentScore": 64,
       "battingScore": 64,
       "pitchingScore": null,
@@ -3520,12 +3550,12 @@ window.MLB_DATA = {
       "score": 64,
       "stats": {
         "type": "batting",
-        "ab": 343,
+        "ab": 347,
         "hr": 13,
         "rbi": 48,
-        "avg": 0.195,
+        "avg": 0.193,
         "sb": 14,
-        "ops": 0.608
+        "ops": 0.602
       },
       "legendScore": 41.6,
       "currentScore": 64,
@@ -3535,29 +3565,29 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 40854,
-      "name": "Jo Adell",
-      "first": "Jo",
-      "last": "Adell",
-      "pos": "RF",
-      "teamCode": "LAA",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40854.png",
+      "id": 42135,
+      "name": "Jose Caballero",
+      "first": "Jose",
+      "last": "Caballero",
+      "pos": "SS",
+      "teamCode": "NYY",
+      "age": 29,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42135.png",
       "colors": {
-        "primary": "#ba0021",
-        "secondary": "#003263"
+        "primary": "#003087",
+        "secondary": "#e4002c"
       },
       "score": 64,
       "stats": {
         "type": "batting",
-        "ab": 372,
-        "hr": 13,
-        "rbi": 53,
-        "avg": 0.245,
-        "sb": 3,
-        "ops": 0.686
+        "ab": 276,
+        "hr": 10,
+        "rbi": 35,
+        "avg": 0.246,
+        "sb": 22,
+        "ops": 0.688
       },
-      "legendScore": 39.9,
+      "legendScore": 41.6,
       "currentScore": 64,
       "battingScore": 64,
       "pitchingScore": null,
@@ -3580,12 +3610,12 @@ window.MLB_DATA = {
       "score": 64,
       "stats": {
         "type": "batting",
-        "ab": 274,
+        "ab": 278,
         "hr": 16,
         "rbi": 46,
-        "avg": 0.248,
+        "avg": 0.245,
         "sb": 0,
-        "ops": 0.772
+        "ops": 0.762
       },
       "legendScore": 35.8,
       "currentScore": 64,
@@ -3610,12 +3640,12 @@ window.MLB_DATA = {
       "score": 64,
       "stats": {
         "type": "batting",
-        "ab": 335,
+        "ab": 339,
         "hr": 12,
         "rbi": 47,
-        "avg": 0.296,
+        "avg": 0.295,
         "sb": 0,
-        "ops": 0.855
+        "ops": 0.851
       },
       "legendScore": 39.1,
       "currentScore": 64,
@@ -3655,29 +3685,59 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4941056,
-      "name": "JJ Wetherholt",
-      "first": "JJ",
-      "last": "Wetherholt",
-      "pos": "2B",
-      "teamCode": "STL",
+      "id": 4917889,
+      "name": "Daylen Lile",
+      "first": "Daylen",
+      "last": "Lile",
+      "pos": "LF",
+      "teamCode": "WSH",
       "age": 23,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4941056.png",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917889.png",
       "colors": {
-        "primary": "#c41e3a",
-        "secondary": "#0c2340"
+        "primary": "#ab0003",
+        "secondary": "#14225a"
       },
       "score": 63,
       "stats": {
         "type": "batting",
-        "ab": 351,
-        "hr": 13,
-        "rbi": 36,
-        "avg": 0.259,
+        "ab": 376,
+        "hr": 11,
+        "rbi": 48,
+        "avg": 0.247,
         "sb": 9,
-        "ops": 0.755
+        "ops": 0.705
       },
       "legendScore": 36.1,
+      "currentScore": 63,
+      "battingScore": 63,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 40854,
+      "name": "Jo Adell",
+      "first": "Jo",
+      "last": "Adell",
+      "pos": "RF",
+      "teamCode": "LAA",
+      "age": 27,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40854.png",
+      "colors": {
+        "primary": "#ba0021",
+        "secondary": "#003263"
+      },
+      "score": 63,
+      "stats": {
+        "type": "batting",
+        "ab": 376,
+        "hr": 13,
+        "rbi": 53,
+        "avg": 0.242,
+        "sb": 3,
+        "ops": 0.679
+      },
+      "legendScore": 39.4,
       "currentScore": 63,
       "battingScore": 63,
       "pitchingScore": null,
@@ -3715,6 +3775,96 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
+      "id": 4722857,
+      "name": "Spencer Steer",
+      "first": "Spencer",
+      "last": "Steer",
+      "pos": "1B",
+      "teamCode": "CIN",
+      "age": 28,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4722857.png",
+      "colors": {
+        "primary": "#c6011f",
+        "secondary": "#000000"
+      },
+      "score": 63,
+      "stats": {
+        "type": "batting",
+        "ab": 320,
+        "hr": 16,
+        "rbi": 40,
+        "avg": 0.25,
+        "sb": 3,
+        "ops": 0.77
+      },
+      "legendScore": 40.2,
+      "currentScore": 63,
+      "battingScore": 63,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 4686066,
+      "name": "Tyler Soderstrom",
+      "first": "Tyler",
+      "last": "Soderstrom",
+      "pos": "LF",
+      "teamCode": "ATH",
+      "age": 24,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4686066.png",
+      "colors": {
+        "primary": "#003831",
+        "secondary": "#efb21e"
+      },
+      "score": 63,
+      "stats": {
+        "type": "batting",
+        "ab": 302,
+        "hr": 15,
+        "rbi": 44,
+        "avg": 0.242,
+        "sb": 1,
+        "ops": 0.816
+      },
+      "legendScore": 36.9,
+      "currentScore": 63,
+      "battingScore": 63,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 4917812,
+      "name": "Carter Jensen",
+      "first": "Carter",
+      "last": "Jensen",
+      "pos": "C",
+      "teamCode": "KC",
+      "age": 23,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917812.png",
+      "colors": {
+        "primary": "#004687",
+        "secondary": "#c09a5b"
+      },
+      "score": 62,
+      "stats": {
+        "type": "batting",
+        "ab": 314,
+        "hr": 13,
+        "rbi": 51,
+        "avg": 0.242,
+        "sb": 1,
+        "ops": 0.74
+      },
+      "legendScore": 35.5,
+      "currentScore": 62,
+      "battingScore": 62,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
       "id": 4987382,
       "name": "Ceddanne Rafaela",
       "first": "Ceddanne",
@@ -3730,10 +3880,10 @@ window.MLB_DATA = {
       "score": 62,
       "stats": {
         "type": "batting",
-        "ab": 347,
+        "ab": 351,
         "hr": 8,
         "rbi": 40,
-        "avg": 0.28,
+        "avg": 0.279,
         "sb": 13,
         "ops": 0.758
       },
@@ -3820,44 +3970,14 @@ window.MLB_DATA = {
       "score": 62,
       "stats": {
         "type": "batting",
-        "ab": 372,
+        "ab": 377,
         "hr": 5,
-        "rbi": 35,
-        "avg": 0.277,
+        "rbi": 36,
+        "avg": 0.281,
         "sb": 23,
-        "ops": 0.713
+        "ops": 0.72
       },
       "legendScore": 38.9,
-      "currentScore": 62,
-      "battingScore": 62,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 4872691,
-      "name": "Jackson Merrill",
-      "first": "Jackson",
-      "last": "Merrill",
-      "pos": "CF",
-      "teamCode": "SD",
-      "age": 23,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4872691.png",
-      "colors": {
-        "primary": "#2f241d",
-        "secondary": "#ffc425"
-      },
-      "score": 62,
-      "stats": {
-        "type": "batting",
-        "ab": 360,
-        "hr": 10,
-        "rbi": 38,
-        "avg": 0.219,
-        "sb": 19,
-        "ops": 0.628
-      },
-      "legendScore": 35.5,
       "currentScore": 62,
       "battingScore": 62,
       "pitchingScore": null,
@@ -3910,12 +4030,12 @@ window.MLB_DATA = {
       "score": 62,
       "stats": {
         "type": "batting",
-        "ab": 343,
+        "ab": 348,
         "hr": 10,
-        "rbi": 51,
-        "avg": 0.265,
+        "rbi": 52,
+        "avg": 0.267,
         "sb": 3,
-        "ops": 0.739
+        "ops": 0.74
       },
       "legendScore": 42.2,
       "currentScore": 62,
@@ -3955,66 +4075,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4917812,
-      "name": "Carter Jensen",
-      "first": "Carter",
-      "last": "Jensen",
-      "pos": "C",
-      "teamCode": "KC",
-      "age": 23,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917812.png",
-      "colors": {
-        "primary": "#004687",
-        "secondary": "#c09a5b"
-      },
-      "score": 61,
-      "stats": {
-        "type": "batting",
-        "ab": 309,
-        "hr": 13,
-        "rbi": 49,
-        "avg": 0.236,
-        "sb": 1,
-        "ops": 0.724
-      },
-      "legendScore": 35.0,
-      "currentScore": 61,
-      "battingScore": 61,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 4917889,
-      "name": "Daylen Lile",
-      "first": "Daylen",
-      "last": "Lile",
-      "pos": "LF",
-      "teamCode": "WSH",
-      "age": 23,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917889.png",
-      "colors": {
-        "primary": "#ab0003",
-        "secondary": "#14225a"
-      },
-      "score": 61,
-      "stats": {
-        "type": "batting",
-        "ab": 370,
-        "hr": 10,
-        "rbi": 44,
-        "avg": 0.246,
-        "sb": 9,
-        "ops": 0.698
-      },
-      "legendScore": 35.0,
-      "currentScore": 61,
-      "battingScore": 61,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 39706,
       "name": "Isaac Paredes",
       "first": "Isaac",
@@ -4030,9 +4090,9 @@ window.MLB_DATA = {
       "score": 61,
       "stats": {
         "type": "batting",
-        "ab": 331,
+        "ab": 334,
         "hr": 12,
-        "rbi": 49,
+        "rbi": 50,
         "avg": 0.254,
         "sb": 0,
         "ops": 0.766
@@ -4060,12 +4120,12 @@ window.MLB_DATA = {
       "score": 61,
       "stats": {
         "type": "batting",
-        "ab": 319,
+        "ab": 323,
         "hr": 15,
         "rbi": 35,
         "avg": 0.26,
         "sb": 3,
-        "ops": 0.782
+        "ops": 0.778
       },
       "legendScore": 35.0,
       "currentScore": 61,
@@ -4075,29 +4135,29 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 35066,
-      "name": "Josh Naylor",
-      "first": "Josh",
-      "last": "Naylor",
-      "pos": "1B",
-      "teamCode": "SEA",
-      "age": 29,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35066.png",
+      "id": 4872691,
+      "name": "Jackson Merrill",
+      "first": "Jackson",
+      "last": "Merrill",
+      "pos": "CF",
+      "teamCode": "SD",
+      "age": 23,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4872691.png",
       "colors": {
-        "primary": "#0c2c56",
-        "secondary": "#005c5c"
+        "primary": "#2f241d",
+        "secondary": "#ffc425"
       },
       "score": 61,
       "stats": {
         "type": "batting",
-        "ab": 353,
-        "hr": 8,
-        "rbi": 36,
-        "avg": 0.252,
-        "sb": 18,
-        "ops": 0.671
+        "ab": 365,
+        "hr": 10,
+        "rbi": 38,
+        "avg": 0.216,
+        "sb": 19,
+        "ops": 0.619
       },
-      "legendScore": 40.0,
+      "legendScore": 35.0,
       "currentScore": 61,
       "battingScore": 61,
       "pitchingScore": null,
@@ -4195,66 +4255,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 33710,
-      "name": "Trea Turner",
-      "first": "Trea",
-      "last": "Turner",
-      "pos": "SS",
-      "teamCode": "PHI",
-      "age": 33,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33710.png",
-      "colors": {
-        "primary": "#e81828",
-        "secondary": "#002d72"
-      },
-      "score": 61,
-      "stats": {
-        "type": "batting",
-        "ab": 390,
-        "hr": 11,
-        "rbi": 34,
-        "avg": 0.236,
-        "sb": 16,
-        "ops": 0.646
-      },
-      "legendScore": 43.3,
-      "currentScore": 61,
-      "battingScore": 61,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 4686066,
-      "name": "Tyler Soderstrom",
-      "first": "Tyler",
-      "last": "Soderstrom",
-      "pos": "LF",
-      "teamCode": "ATH",
-      "age": 24,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4686066.png",
-      "colors": {
-        "primary": "#003831",
-        "secondary": "#efb21e"
-      },
-      "score": 61,
-      "stats": {
-        "type": "batting",
-        "ab": 299,
-        "hr": 14,
-        "rbi": 42,
-        "avg": 0.241,
-        "sb": 1,
-        "ops": 0.808
-      },
-      "legendScore": 35.8,
-      "currentScore": 61,
-      "battingScore": 61,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 39895,
       "name": "William Contreras",
       "first": "William",
@@ -4270,12 +4270,12 @@ window.MLB_DATA = {
       "score": 61,
       "stats": {
         "type": "batting",
-        "ab": 344,
+        "ab": 346,
         "hr": 9,
         "rbi": 53,
-        "avg": 0.282,
+        "avg": 0.28,
         "sb": 1,
-        "ops": 0.742
+        "ops": 0.743
       },
       "legendScore": 39.1,
       "currentScore": 61,
@@ -4285,29 +4285,29 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4990055,
-      "name": "Wilyer Abreu",
-      "first": "Wilyer",
-      "last": "Abreu",
-      "pos": "RF",
-      "teamCode": "BOS",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4990055.png",
+      "id": 33675,
+      "name": "Willy Adames",
+      "first": "Willy",
+      "last": "Adames",
+      "pos": "SS",
+      "teamCode": "SF",
+      "age": 30,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33675.png",
       "colors": {
-        "primary": "#bd3039",
-        "secondary": "#0c2340"
+        "primary": "#fd5a1e",
+        "secondary": "#27251f"
       },
       "score": 61,
       "stats": {
         "type": "batting",
-        "ab": 357,
-        "hr": 11,
-        "rbi": 43,
-        "avg": 0.261,
-        "sb": 6,
-        "ops": 0.758
+        "ab": 362,
+        "hr": 16,
+        "rbi": 41,
+        "avg": 0.229,
+        "sb": 2,
+        "ops": 0.706
       },
-      "legendScore": 38.3,
+      "legendScore": 40.8,
       "currentScore": 61,
       "battingScore": 61,
       "pitchingScore": null,
@@ -4330,17 +4330,47 @@ window.MLB_DATA = {
       "score": 61,
       "stats": {
         "type": "batting",
-        "ab": 353,
+        "ab": 357,
         "hr": 6,
         "rbi": 37,
         "avg": 0.303,
-        "sb": 13,
-        "ops": 0.81
+        "sb": 14,
+        "ops": 0.806
       },
       "legendScore": 37.5,
       "currentScore": 61,
       "battingScore": 61,
       "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 4308037,
+      "name": "Cade Cavalli",
+      "first": "Cade",
+      "last": "Cavalli",
+      "pos": "SP",
+      "teamCode": "WSH",
+      "age": 27,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4308037.png",
+      "colors": {
+        "primary": "#ab0003",
+        "secondary": "#14225a"
+      },
+      "score": 60,
+      "stats": {
+        "type": "pitching",
+        "g": 21,
+        "w": 6,
+        "era": 3.78,
+        "ip": 104.2,
+        "so": 119,
+        "whip": 1.31
+      },
+      "legendScore": 37.8,
+      "currentScore": 60,
+      "battingScore": null,
+      "pitchingScore": 60,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -4360,12 +4390,12 @@ window.MLB_DATA = {
       "score": 60,
       "stats": {
         "type": "batting",
-        "ab": 270,
+        "ab": 274,
         "hr": 8,
-        "rbi": 44,
-        "avg": 0.274,
+        "rbi": 45,
+        "avg": 0.277,
         "sb": 6,
-        "ops": 0.822
+        "ops": 0.826
       },
       "legendScore": 37.8,
       "currentScore": 60,
@@ -4375,29 +4405,29 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 40700,
-      "name": "Gavin Sheets",
-      "first": "Gavin",
-      "last": "Sheets",
+      "id": 35066,
+      "name": "Josh Naylor",
+      "first": "Josh",
+      "last": "Naylor",
       "pos": "1B",
-      "teamCode": "SD",
-      "age": 30,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40700.png",
+      "teamCode": "SEA",
+      "age": 29,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35066.png",
       "colors": {
-        "primary": "#2f241d",
-        "secondary": "#ffc425"
+        "primary": "#0c2c56",
+        "secondary": "#005c5c"
       },
       "score": 60,
       "stats": {
         "type": "batting",
-        "ab": 280,
-        "hr": 14,
-        "rbi": 40,
-        "avg": 0.221,
-        "sb": 4,
-        "ops": 0.748
+        "ab": 356,
+        "hr": 8,
+        "rbi": 36,
+        "avg": 0.253,
+        "sb": 18,
+        "ops": 0.671
       },
-      "legendScore": 40.3,
+      "legendScore": 39.4,
       "currentScore": 60,
       "battingScore": 60,
       "pitchingScore": null,
@@ -4420,12 +4450,12 @@ window.MLB_DATA = {
       "score": 60,
       "stats": {
         "type": "batting",
-        "ab": 347,
+        "ab": 351,
         "hr": 11,
-        "rbi": 49,
+        "rbi": 50,
         "avg": 0.239,
         "sb": 2,
-        "ops": 0.763
+        "ops": 0.76
       },
       "legendScore": 38.6,
       "currentScore": 60,
@@ -4435,59 +4465,29 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4722857,
-      "name": "Spencer Steer",
-      "first": "Spencer",
-      "last": "Steer",
-      "pos": "1B",
-      "teamCode": "CIN",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4722857.png",
+      "id": 33710,
+      "name": "Trea Turner",
+      "first": "Trea",
+      "last": "Turner",
+      "pos": "SS",
+      "teamCode": "PHI",
+      "age": 33,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33710.png",
       "colors": {
-        "primary": "#c6011f",
-        "secondary": "#000000"
+        "primary": "#e81828",
+        "secondary": "#002d72"
       },
       "score": 60,
       "stats": {
         "type": "batting",
-        "ab": 316,
-        "hr": 14,
-        "rbi": 37,
-        "avg": 0.247,
-        "sb": 3,
-        "ops": 0.749
+        "ab": 390,
+        "hr": 11,
+        "rbi": 34,
+        "avg": 0.236,
+        "sb": 16,
+        "ops": 0.646
       },
-      "legendScore": 38.6,
-      "currentScore": 60,
-      "battingScore": 60,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 4424286,
-      "name": "Spencer Torkelson",
-      "first": "Spencer",
-      "last": "Torkelson",
-      "pos": "1B",
-      "teamCode": "DET",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4424286.png",
-      "colors": {
-        "primary": "#0c2340",
-        "secondary": "#fa4616"
-      },
-      "score": 60,
-      "stats": {
-        "type": "batting",
-        "ab": 322,
-        "hr": 16,
-        "rbi": 43,
-        "avg": 0.208,
-        "sb": 0,
-        "ops": 0.718
-      },
-      "legendScore": 36.9,
+      "legendScore": 42.8,
       "currentScore": 60,
       "battingScore": 60,
       "pitchingScore": null,
@@ -4525,36 +4525,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 38904,
-      "name": "Bo Bichette",
-      "first": "Bo",
-      "last": "Bichette",
-      "pos": "SS",
-      "teamCode": "NYM",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/38904.png",
-      "colors": {
-        "primary": "#002d72",
-        "secondary": "#ff5910"
-      },
-      "score": 59,
-      "stats": {
-        "type": "batting",
-        "ab": 384,
-        "hr": 10,
-        "rbi": 51,
-        "avg": 0.253,
-        "sb": 1,
-        "ops": 0.67
-      },
-      "legendScore": 38.0,
-      "currentScore": 59,
-      "battingScore": 59,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 4297897,
       "name": "Emerson Hancock",
       "first": "Emerson",
@@ -4585,6 +4555,36 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
+      "id": 40700,
+      "name": "Gavin Sheets",
+      "first": "Gavin",
+      "last": "Sheets",
+      "pos": "1B",
+      "teamCode": "SD",
+      "age": 30,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40700.png",
+      "colors": {
+        "primary": "#2f241d",
+        "secondary": "#ffc425"
+      },
+      "score": 59,
+      "stats": {
+        "type": "batting",
+        "ab": 284,
+        "hr": 14,
+        "rbi": 40,
+        "avg": 0.218,
+        "sb": 4,
+        "ops": 0.738
+      },
+      "legendScore": 39.7,
+      "currentScore": 59,
+      "battingScore": 59,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
       "id": 41889,
       "name": "Ivan Herrera",
       "first": "Ivan",
@@ -4600,12 +4600,12 @@ window.MLB_DATA = {
       "score": 59,
       "stats": {
         "type": "batting",
-        "ab": 346,
+        "ab": 350,
         "hr": 11,
-        "rbi": 40,
-        "avg": 0.249,
+        "rbi": 41,
+        "avg": 0.246,
         "sb": 5,
-        "ops": 0.771
+        "ops": 0.762
       },
       "legendScore": 36.4,
       "currentScore": 59,
@@ -4630,12 +4630,12 @@ window.MLB_DATA = {
       "score": 59,
       "stats": {
         "type": "batting",
-        "ab": 350,
+        "ab": 354,
         "hr": 8,
         "rbi": 34,
-        "avg": 0.283,
+        "avg": 0.28,
         "sb": 11,
-        "ops": 0.812
+        "ops": 0.804
       },
       "legendScore": 33.0,
       "currentScore": 59,
@@ -4645,31 +4645,91 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 33675,
-      "name": "Willy Adames",
-      "first": "Willy",
-      "last": "Adames",
-      "pos": "SS",
+      "id": 4345404,
+      "name": "Landen Roupp",
+      "first": "Landen",
+      "last": "Roupp",
+      "pos": "SP",
       "teamCode": "SF",
-      "age": 30,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33675.png",
+      "age": 27,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4345404.png",
       "colors": {
         "primary": "#fd5a1e",
         "secondary": "#27251f"
       },
       "score": 59,
       "stats": {
-        "type": "batting",
-        "ab": 357,
-        "hr": 15,
-        "rbi": 37,
-        "avg": 0.23,
-        "sb": 2,
-        "ops": 0.701
+        "type": "pitching",
+        "g": 19,
+        "w": 7,
+        "era": 3.98,
+        "ip": 104.0,
+        "so": 106,
+        "whip": 1.27
       },
-      "legendScore": 39.7,
+      "legendScore": 37.2,
+      "currentScore": 59,
+      "battingScore": null,
+      "pitchingScore": 59,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 4424286,
+      "name": "Spencer Torkelson",
+      "first": "Spencer",
+      "last": "Torkelson",
+      "pos": "1B",
+      "teamCode": "DET",
+      "age": 26,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4424286.png",
+      "colors": {
+        "primary": "#0c2340",
+        "secondary": "#fa4616"
+      },
+      "score": 59,
+      "stats": {
+        "type": "batting",
+        "ab": 326,
+        "hr": 16,
+        "rbi": 43,
+        "avg": 0.206,
+        "sb": 0,
+        "ops": 0.71
+      },
+      "legendScore": 36.4,
       "currentScore": 59,
       "battingScore": 59,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 38904,
+      "name": "Bo Bichette",
+      "first": "Bo",
+      "last": "Bichette",
+      "pos": "SS",
+      "teamCode": "NYM",
+      "age": 28,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/38904.png",
+      "colors": {
+        "primary": "#002d72",
+        "secondary": "#ff5910"
+      },
+      "score": 58,
+      "stats": {
+        "type": "batting",
+        "ab": 384,
+        "hr": 10,
+        "rbi": 51,
+        "avg": 0.253,
+        "sb": 1,
+        "ops": 0.67
+      },
+      "legendScore": 37.5,
+      "currentScore": 58,
+      "battingScore": 58,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
@@ -4720,12 +4780,12 @@ window.MLB_DATA = {
       "score": 58,
       "stats": {
         "type": "batting",
-        "ab": 289,
+        "ab": 293,
         "hr": 9,
         "rbi": 40,
-        "avg": 0.235,
+        "avg": 0.239,
         "sb": 10,
-        "ops": 0.699
+        "ops": 0.703
       },
       "legendScore": 35.8,
       "currentScore": 58,
@@ -4750,12 +4810,12 @@ window.MLB_DATA = {
       "score": 58,
       "stats": {
         "type": "batting",
-        "ab": 348,
+        "ab": 351,
         "hr": 11,
         "rbi": 43,
-        "avg": 0.253,
+        "avg": 0.251,
         "sb": 3,
-        "ops": 0.707
+        "ops": 0.701
       },
       "legendScore": 32.5,
       "currentScore": 58,
@@ -4870,14 +4930,74 @@ window.MLB_DATA = {
       "score": 58,
       "stats": {
         "type": "batting",
-        "ab": 268,
+        "ab": 272,
         "hr": 12,
         "rbi": 42,
-        "avg": 0.239,
+        "avg": 0.235,
         "sb": 1,
-        "ops": 0.778
+        "ops": 0.767
       },
       "legendScore": 37.5,
+      "currentScore": 58,
+      "battingScore": 58,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 40429,
+      "name": "Michael King",
+      "first": "Michael",
+      "last": "King",
+      "pos": "SP",
+      "teamCode": "SD",
+      "age": 31,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40429.png",
+      "colors": {
+        "primary": "#2f241d",
+        "secondary": "#ffc425"
+      },
+      "score": 58,
+      "stats": {
+        "type": "pitching",
+        "g": 20,
+        "w": 6,
+        "era": 3.34,
+        "ip": 113.1,
+        "so": 96,
+        "whip": 1.16
+      },
+      "legendScore": 40.0,
+      "currentScore": 58,
+      "battingScore": null,
+      "pitchingScore": 58,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 4728688,
+      "name": "Nasim Nunez",
+      "first": "Nasim",
+      "last": "Nunez",
+      "pos": "2B",
+      "teamCode": "WSH",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4728688.png",
+      "colors": {
+        "primary": "#ab0003",
+        "secondary": "#14225a"
+      },
+      "score": 58,
+      "stats": {
+        "type": "batting",
+        "ab": 271,
+        "hr": 1,
+        "rbi": 28,
+        "avg": 0.247,
+        "sb": 35,
+        "ops": 0.625
+      },
+      "legendScore": 35.0,
       "currentScore": 58,
       "battingScore": 58,
       "pitchingScore": null,
@@ -4900,14 +5020,44 @@ window.MLB_DATA = {
       "score": 58,
       "stats": {
         "type": "batting",
-        "ab": 309,
+        "ab": 312,
         "hr": 12,
         "rbi": 40,
-        "avg": 0.243,
+        "avg": 0.24,
         "sb": 3,
-        "ops": 0.731
+        "ops": 0.726
       },
       "legendScore": 43.3,
+      "currentScore": 58,
+      "battingScore": 58,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 5207167,
+      "name": "Sam Antonacci",
+      "first": "Sam",
+      "last": "Antonacci",
+      "pos": "LF",
+      "teamCode": "CHW",
+      "age": 23,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5207167.png",
+      "colors": {
+        "primary": "#27251f",
+        "secondary": "#c4ced4"
+      },
+      "score": 58,
+      "stats": {
+        "type": "batting",
+        "ab": 266,
+        "hr": 7,
+        "rbi": 29,
+        "avg": 0.289,
+        "sb": 13,
+        "ops": 0.81
+      },
+      "legendScore": 33.3,
       "currentScore": 58,
       "battingScore": 58,
       "pitchingScore": null,
@@ -4930,46 +5080,16 @@ window.MLB_DATA = {
       "score": 58,
       "stats": {
         "type": "batting",
-        "ab": 259,
+        "ab": 261,
         "hr": 10,
         "rbi": 40,
-        "avg": 0.236,
+        "avg": 0.234,
         "sb": 7,
-        "ops": 0.757
+        "ops": 0.756
       },
       "legendScore": 38.3,
       "currentScore": 58,
       "battingScore": 58,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 5080766,
-      "name": "Cam Smith",
-      "first": "Cam",
-      "last": "Smith",
-      "pos": "RF",
-      "teamCode": "HOU",
-      "age": 23,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5080766.png",
-      "colors": {
-        "primary": "#eb6e1f",
-        "secondary": "#002d62"
-      },
-      "score": 57,
-      "stats": {
-        "type": "batting",
-        "ab": 321,
-        "hr": 12,
-        "rbi": 34,
-        "avg": 0.218,
-        "sb": 9,
-        "ops": 0.669
-      },
-      "legendScore": 32.8,
-      "currentScore": 57,
-      "battingScore": 57,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
@@ -4990,104 +5110,14 @@ window.MLB_DATA = {
       "score": 57,
       "stats": {
         "type": "batting",
-        "ab": 328,
+        "ab": 332,
         "hr": 7,
         "rbi": 47,
         "avg": 0.244,
         "sb": 6,
-        "ops": 0.716
+        "ops": 0.714
       },
       "legendScore": 37.8,
-      "currentScore": 57,
-      "battingScore": 57,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 39572,
-      "name": "Luis Arraez",
-      "first": "Luis",
-      "last": "Arraez",
-      "pos": "2B",
-      "teamCode": "SF",
-      "age": 29,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39572.png",
-      "colors": {
-        "primary": "#fd5a1e",
-        "secondary": "#27251f"
-      },
-      "score": 57,
-      "stats": {
-        "type": "batting",
-        "ab": 361,
-        "hr": 4,
-        "rbi": 35,
-        "avg": 0.33,
-        "sb": 8,
-        "ops": 0.829
-      },
-      "legendScore": 37.8,
-      "currentScore": 57,
-      "battingScore": 57,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 40429,
-      "name": "Michael King",
-      "first": "Michael",
-      "last": "King",
-      "pos": "SP",
-      "teamCode": "SD",
-      "age": 31,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40429.png",
-      "colors": {
-        "primary": "#2f241d",
-        "secondary": "#ffc425"
-      },
-      "score": 57,
-      "stats": {
-        "type": "pitching",
-        "g": 19,
-        "w": 6,
-        "era": 3.41,
-        "ip": 108.1,
-        "so": 92,
-        "whip": 1.15
-      },
-      "legendScore": 39.5,
-      "currentScore": 57,
-      "battingScore": null,
-      "pitchingScore": 57,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 4728688,
-      "name": "Nasim Nunez",
-      "first": "Nasim",
-      "last": "Nunez",
-      "pos": "2B",
-      "teamCode": "WSH",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4728688.png",
-      "colors": {
-        "primary": "#ab0003",
-        "secondary": "#14225a"
-      },
-      "score": 57,
-      "stats": {
-        "type": "batting",
-        "ab": 265,
-        "hr": 1,
-        "rbi": 28,
-        "avg": 0.242,
-        "sb": 34,
-        "ops": 0.617
-      },
-      "legendScore": 34.5,
       "currentScore": 57,
       "battingScore": 57,
       "pitchingScore": null,
@@ -5110,12 +5140,12 @@ window.MLB_DATA = {
       "score": 57,
       "stats": {
         "type": "batting",
-        "ab": 317,
+        "ab": 321,
         "hr": 9,
-        "rbi": 37,
+        "rbi": 38,
         "avg": 0.224,
         "sb": 12,
-        "ops": 0.648
+        "ops": 0.645
       },
       "legendScore": 41.1,
       "currentScore": 57,
@@ -5125,89 +5155,59 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 41355,
-      "name": "Geraldo Perdomo",
-      "first": "Geraldo",
-      "last": "Perdomo",
-      "pos": "SS",
-      "teamCode": "ARI",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41355.png",
-      "colors": {
-        "primary": "#a71930",
-        "secondary": "#e3d4ad"
-      },
-      "score": 56,
-      "stats": {
-        "type": "batting",
-        "ab": 323,
-        "hr": 6,
-        "rbi": 34,
-        "avg": 0.241,
-        "sb": 15,
-        "ops": 0.71
-      },
-      "legendScore": 34.7,
-      "currentScore": 56,
-      "battingScore": 56,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 42437,
-      "name": "Josh Jung",
-      "first": "Josh",
-      "last": "Jung",
-      "pos": "3B",
-      "teamCode": "TEX",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42437.png",
-      "colors": {
-        "primary": "#c0111f",
-        "secondary": "#003278"
-      },
-      "score": 56,
-      "stats": {
-        "type": "batting",
-        "ab": 336,
-        "hr": 9,
-        "rbi": 34,
-        "avg": 0.298,
-        "sb": 1,
-        "ops": 0.819
-      },
-      "legendScore": 36.4,
-      "currentScore": 56,
-      "battingScore": 56,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 5207167,
-      "name": "Sam Antonacci",
-      "first": "Sam",
-      "last": "Antonacci",
-      "pos": "LF",
-      "teamCode": "CHW",
+      "id": 5080766,
+      "name": "Cam Smith",
+      "first": "Cam",
+      "last": "Smith",
+      "pos": "RF",
+      "teamCode": "HOU",
       "age": 23,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5207167.png",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5080766.png",
       "colors": {
-        "primary": "#27251f",
-        "secondary": "#c4ced4"
+        "primary": "#eb6e1f",
+        "secondary": "#002d62"
       },
       "score": 56,
       "stats": {
         "type": "batting",
-        "ab": 261,
-        "hr": 6,
-        "rbi": 27,
-        "avg": 0.287,
-        "sb": 13,
-        "ops": 0.798
+        "ab": 325,
+        "hr": 12,
+        "rbi": 34,
+        "avg": 0.215,
+        "sb": 9,
+        "ops": 0.661
       },
       "legendScore": 32.2,
+      "currentScore": 56,
+      "battingScore": 56,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 39572,
+      "name": "Luis Arraez",
+      "first": "Luis",
+      "last": "Arraez",
+      "pos": "2B",
+      "teamCode": "SF",
+      "age": 29,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39572.png",
+      "colors": {
+        "primary": "#fd5a1e",
+        "secondary": "#27251f"
+      },
+      "score": 56,
+      "stats": {
+        "type": "batting",
+        "ab": 366,
+        "hr": 4,
+        "rbi": 35,
+        "avg": 0.328,
+        "sb": 8,
+        "ops": 0.823
+      },
+      "legendScore": 37.2,
       "currentScore": 56,
       "battingScore": 56,
       "pitchingScore": null,
@@ -5275,32 +5275,32 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4308037,
-      "name": "Cade Cavalli",
-      "first": "Cade",
-      "last": "Cavalli",
-      "pos": "SP",
-      "teamCode": "WSH",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4308037.png",
+      "id": 34982,
+      "name": "Austin Riley",
+      "first": "Austin",
+      "last": "Riley",
+      "pos": "3B",
+      "teamCode": "ATL",
+      "age": 29,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34982.png",
       "colors": {
-        "primary": "#ab0003",
-        "secondary": "#14225a"
+        "primary": "#ce1141",
+        "secondary": "#13274f"
       },
       "score": 55,
       "stats": {
-        "type": "pitching",
-        "g": 20,
-        "w": 5,
-        "era": 3.83,
-        "ip": 98.2,
-        "so": 110,
-        "whip": 1.35
+        "type": "batting",
+        "ab": 348,
+        "hr": 10,
+        "rbi": 43,
+        "avg": 0.21,
+        "sb": 6,
+        "ops": 0.629
       },
-      "legendScore": 35.0,
+      "legendScore": 36.7,
       "currentScore": 55,
-      "battingScore": null,
-      "pitchingScore": 55,
+      "battingScore": 55,
+      "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -5320,14 +5320,44 @@ window.MLB_DATA = {
       "score": 55,
       "stats": {
         "type": "batting",
-        "ab": 280,
+        "ab": 283,
         "hr": 11,
         "rbi": 30,
-        "avg": 0.2,
+        "avg": 0.201,
         "sb": 14,
-        "ops": 0.617
+        "ops": 0.62
       },
       "legendScore": 38.4,
+      "currentScore": 55,
+      "battingScore": 55,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 41355,
+      "name": "Geraldo Perdomo",
+      "first": "Geraldo",
+      "last": "Perdomo",
+      "pos": "SS",
+      "teamCode": "ARI",
+      "age": 26,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41355.png",
+      "colors": {
+        "primary": "#a71930",
+        "secondary": "#e3d4ad"
+      },
+      "score": 55,
+      "stats": {
+        "type": "batting",
+        "ab": 325,
+        "hr": 6,
+        "rbi": 34,
+        "avg": 0.24,
+        "sb": 15,
+        "ops": 0.709
+      },
+      "legendScore": 34.2,
       "currentScore": 55,
       "battingScore": 55,
       "pitchingScore": null,
@@ -5350,12 +5380,12 @@ window.MLB_DATA = {
       "score": 55,
       "stats": {
         "type": "batting",
-        "ab": 279,
+        "ab": 283,
         "hr": 7,
         "rbi": 47,
         "avg": 0.258,
         "sb": 2,
-        "ops": 0.696
+        "ops": 0.701
       },
       "legendScore": 41.7,
       "currentScore": 55,
@@ -5365,32 +5395,32 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4345404,
-      "name": "Landen Roupp",
-      "first": "Landen",
-      "last": "Roupp",
-      "pos": "SP",
-      "teamCode": "SF",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4345404.png",
+      "id": 42437,
+      "name": "Josh Jung",
+      "first": "Josh",
+      "last": "Jung",
+      "pos": "3B",
+      "teamCode": "TEX",
+      "age": 28,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42437.png",
       "colors": {
-        "primary": "#fd5a1e",
-        "secondary": "#27251f"
+        "primary": "#c0111f",
+        "secondary": "#003278"
       },
       "score": 55,
       "stats": {
-        "type": "pitching",
-        "g": 18,
-        "w": 6,
-        "era": 4.27,
-        "ip": 97.0,
-        "so": 104,
-        "whip": 1.31
+        "type": "batting",
+        "ab": 340,
+        "hr": 9,
+        "rbi": 34,
+        "avg": 0.294,
+        "sb": 1,
+        "ops": 0.81
       },
-      "legendScore": 35.0,
+      "legendScore": 35.9,
       "currentScore": 55,
-      "battingScore": null,
-      "pitchingScore": 55,
+      "battingScore": 55,
+      "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -5425,61 +5455,61 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 35002,
-      "name": "Vladimir Guerrero Jr.",
-      "first": "Vladimir",
-      "last": "Guerrero Jr.",
-      "pos": "1B",
-      "teamCode": "TOR",
+      "id": 4326697,
+      "name": "Reid Detmers",
+      "first": "Reid",
+      "last": "Detmers",
+      "pos": "SP",
+      "teamCode": "LAA",
       "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35002.png",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4326697.png",
       "colors": {
-        "primary": "#134a8e",
-        "secondary": "#e8291c"
+        "primary": "#ba0021",
+        "secondary": "#003263"
       },
       "score": 55,
       "stats": {
-        "type": "batting",
-        "ab": 336,
-        "hr": 6,
-        "rbi": 41,
-        "avg": 0.262,
-        "sb": 7,
-        "ops": 0.703
+        "type": "pitching",
+        "g": 20,
+        "w": 3,
+        "era": 4.16,
+        "ip": 114.2,
+        "so": 130,
+        "whip": 1.12
       },
       "legendScore": 35.0,
       "currentScore": 55,
-      "battingScore": 55,
-      "pitchingScore": null,
+      "battingScore": null,
+      "pitchingScore": 55,
       "twoWayBonus": 0,
       "rings": 0
     },
     {
-      "id": 34886,
-      "name": "Alex Bregman",
-      "first": "Alex",
-      "last": "Bregman",
-      "pos": "3B",
-      "teamCode": "CHC",
-      "age": 32,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34886.png",
+      "id": 34230,
+      "name": "Willi Castro",
+      "first": "Willi",
+      "last": "Castro",
+      "pos": "2B",
+      "teamCode": "COL",
+      "age": 29,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34230.png",
       "colors": {
-        "primary": "#0e3386",
-        "secondary": "#cc3433"
+        "primary": "#333366",
+        "secondary": "#c4ced4"
       },
-      "score": 54,
+      "score": 55,
       "stats": {
         "type": "batting",
-        "ab": 370,
-        "hr": 9,
-        "rbi": 41,
-        "avg": 0.241,
-        "sb": 2,
-        "ops": 0.696
+        "ab": 292,
+        "hr": 8,
+        "rbi": 38,
+        "avg": 0.264,
+        "sb": 6,
+        "ops": 0.724
       },
-      "legendScore": 38.7,
-      "currentScore": 54,
-      "battingScore": 54,
+      "legendScore": 36.7,
+      "currentScore": 55,
+      "battingScore": 55,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
@@ -5530,12 +5560,12 @@ window.MLB_DATA = {
       "score": 54,
       "stats": {
         "type": "batting",
-        "ab": 346,
+        "ab": 349,
         "hr": 9,
         "rbi": 34,
-        "avg": 0.263,
+        "avg": 0.264,
         "sb": 4,
-        "ops": 0.756
+        "ops": 0.758
       },
       "legendScore": 39.5,
       "currentScore": 54,
@@ -5560,17 +5590,47 @@ window.MLB_DATA = {
       "score": 54,
       "stats": {
         "type": "batting",
-        "ab": 358,
+        "ab": 362,
         "hr": 8,
         "rbi": 32,
-        "avg": 0.296,
+        "avg": 0.298,
         "sb": 3,
-        "ops": 0.751
+        "ops": 0.756
       },
       "legendScore": 37.0,
       "currentScore": 54,
       "battingScore": 54,
       "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 5182933,
+      "name": "Keider Montero",
+      "first": "Keider",
+      "last": "Montero",
+      "pos": "SP",
+      "teamCode": "DET",
+      "age": 26,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5182933.png",
+      "colors": {
+        "primary": "#0c2340",
+        "secondary": "#fa4616"
+      },
+      "score": 54,
+      "stats": {
+        "type": "pitching",
+        "g": 21,
+        "w": 6,
+        "era": 3.22,
+        "ip": 100.2,
+        "so": 70,
+        "whip": 0.98
+      },
+      "legendScore": 33.7,
+      "currentScore": 54,
+      "battingScore": null,
+      "pitchingScore": 54,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -5590,12 +5650,12 @@ window.MLB_DATA = {
       "score": 54,
       "stats": {
         "type": "batting",
-        "ab": 278,
+        "ab": 282,
         "hr": 9,
         "rbi": 34,
-        "avg": 0.263,
+        "avg": 0.259,
         "sb": 3,
-        "ops": 0.798
+        "ops": 0.787
       },
       "legendScore": 31.2,
       "currentScore": 54,
@@ -5695,29 +5755,29 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 34230,
-      "name": "Willi Castro",
-      "first": "Willi",
-      "last": "Castro",
-      "pos": "2B",
-      "teamCode": "COL",
-      "age": 29,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34230.png",
+      "id": 35002,
+      "name": "Vladimir Guerrero Jr.",
+      "first": "Vladimir",
+      "last": "Guerrero Jr.",
+      "pos": "1B",
+      "teamCode": "TOR",
+      "age": 27,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35002.png",
       "colors": {
-        "primary": "#333366",
-        "secondary": "#c4ced4"
+        "primary": "#134a8e",
+        "secondary": "#e8291c"
       },
       "score": 54,
       "stats": {
         "type": "batting",
-        "ab": 288,
-        "hr": 7,
-        "rbi": 37,
-        "avg": 0.26,
-        "sb": 6,
-        "ops": 0.71
+        "ab": 340,
+        "hr": 6,
+        "rbi": 41,
+        "avg": 0.262,
+        "sb": 7,
+        "ops": 0.701
       },
-      "legendScore": 36.2,
+      "legendScore": 34.5,
       "currentScore": 54,
       "battingScore": 54,
       "pitchingScore": null,
@@ -5725,29 +5785,29 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 34982,
-      "name": "Austin Riley",
-      "first": "Austin",
-      "last": "Riley",
+      "id": 34886,
+      "name": "Alex Bregman",
+      "first": "Alex",
+      "last": "Bregman",
       "pos": "3B",
-      "teamCode": "ATL",
-      "age": 29,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34982.png",
+      "teamCode": "CHC",
+      "age": 32,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34886.png",
       "colors": {
-        "primary": "#ce1141",
-        "secondary": "#13274f"
+        "primary": "#0e3386",
+        "secondary": "#cc3433"
       },
       "score": 53,
       "stats": {
         "type": "batting",
-        "ab": 343,
+        "ab": 373,
         "hr": 9,
-        "rbi": 42,
-        "avg": 0.207,
-        "sb": 6,
-        "ops": 0.618
+        "rbi": 41,
+        "avg": 0.239,
+        "sb": 2,
+        "ops": 0.692
       },
-      "legendScore": 35.6,
+      "legendScore": 38.1,
       "currentScore": 53,
       "battingScore": 53,
       "pitchingScore": null,
@@ -5770,10 +5830,10 @@ window.MLB_DATA = {
       "score": 53,
       "stats": {
         "type": "batting",
-        "ab": 271,
+        "ab": 273,
         "hr": 11,
         "rbi": 42,
-        "avg": 0.21,
+        "avg": 0.209,
         "sb": 0,
         "ops": 0.684
       },
@@ -5800,12 +5860,12 @@ window.MLB_DATA = {
       "score": 53,
       "stats": {
         "type": "batting",
-        "ab": 331,
+        "ab": 335,
         "hr": 5,
         "rbi": 33,
-        "avg": 0.302,
+        "avg": 0.307,
         "sb": 6,
-        "ops": 0.762
+        "ops": 0.773
       },
       "legendScore": 33.9,
       "currentScore": 53,
@@ -5860,47 +5920,17 @@ window.MLB_DATA = {
       "score": 53,
       "stats": {
         "type": "batting",
-        "ab": 374,
+        "ab": 378,
         "hr": 4,
         "rbi": 38,
-        "avg": 0.233,
+        "avg": 0.235,
         "sb": 14,
-        "ops": 0.631
+        "ops": 0.635
       },
       "legendScore": 35.6,
       "currentScore": 53,
       "battingScore": 53,
       "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 4326697,
-      "name": "Reid Detmers",
-      "first": "Reid",
-      "last": "Detmers",
-      "pos": "SP",
-      "teamCode": "LAA",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4326697.png",
-      "colors": {
-        "primary": "#ba0021",
-        "secondary": "#003263"
-      },
-      "score": 52,
-      "stats": {
-        "type": "pitching",
-        "g": 19,
-        "w": 3,
-        "era": 4.39,
-        "ip": 108.2,
-        "so": 123,
-        "whip": 1.14
-      },
-      "legendScore": 33.4,
-      "currentScore": 52,
-      "battingScore": null,
-      "pitchingScore": 52,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -5917,20 +5947,50 @@ window.MLB_DATA = {
         "primary": "#333366",
         "secondary": "#c4ced4"
       },
-      "score": 52,
+      "score": 53,
       "stats": {
         "type": "batting",
-        "ab": 276,
+        "ab": 279,
         "hr": 3,
-        "rbi": 39,
+        "rbi": 40,
         "avg": 0.301,
         "sb": 4,
-        "ops": 0.79
+        "ops": 0.792
       },
-      "legendScore": 35.1,
-      "currentScore": 52,
-      "battingScore": 52,
+      "legendScore": 35.6,
+      "currentScore": 53,
+      "battingScore": 53,
       "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 4424141,
+      "name": "Michael McGreevy",
+      "first": "Michael",
+      "last": "McGreevy",
+      "pos": "SP",
+      "teamCode": "STL",
+      "age": 26,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png",
+      "colors": {
+        "primary": "#c41e3a",
+        "secondary": "#0c2340"
+      },
+      "score": 52,
+      "stats": {
+        "type": "pitching",
+        "g": 19,
+        "w": 4,
+        "era": 2.92,
+        "ip": 108.0,
+        "so": 71,
+        "whip": 1.1
+      },
+      "legendScore": 32.6,
+      "currentScore": 52,
+      "battingScore": null,
+      "pitchingScore": 52,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -5961,36 +6021,6 @@ window.MLB_DATA = {
       "currentScore": 51,
       "battingScore": null,
       "pitchingScore": 51,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 31662,
-      "name": "Jose Altuve",
-      "first": "Jose",
-      "last": "Altuve",
-      "pos": "2B",
-      "teamCode": "HOU",
-      "age": 36,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/31662.png",
-      "colors": {
-        "primary": "#eb6e1f",
-        "secondary": "#002d62"
-      },
-      "score": 51,
-      "stats": {
-        "type": "batting",
-        "ab": 285,
-        "hr": 11,
-        "rbi": 27,
-        "avg": 0.235,
-        "sb": 2,
-        "ops": 0.71
-      },
-      "legendScore": 40.3,
-      "currentScore": 51,
-      "battingScore": 51,
-      "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -6040,17 +6070,47 @@ window.MLB_DATA = {
       "score": 50,
       "stats": {
         "type": "batting",
-        "ab": 346,
+        "ab": 350,
         "hr": 7,
-        "rbi": 31,
-        "avg": 0.269,
+        "rbi": 32,
+        "avg": 0.271,
         "sb": 2,
-        "ops": 0.72
+        "ops": 0.723
       },
       "legendScore": 29.8,
       "currentScore": 50,
       "battingScore": 50,
       "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 33950,
+      "name": "Colin Rea",
+      "first": "Colin",
+      "last": "Rea",
+      "pos": "SP",
+      "teamCode": "CHC",
+      "age": 36,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33950.png",
+      "colors": {
+        "primary": "#0e3386",
+        "secondary": "#cc3433"
+      },
+      "score": 50,
+      "stats": {
+        "type": "pitching",
+        "g": 20,
+        "w": 7,
+        "era": 4.74,
+        "ip": 100.2,
+        "so": 76,
+        "whip": 1.42
+      },
+      "legendScore": 39.8,
+      "currentScore": 50,
+      "battingScore": null,
+      "pitchingScore": 50,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -6085,32 +6145,32 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 5182933,
-      "name": "Keider Montero",
-      "first": "Keider",
-      "last": "Montero",
-      "pos": "SP",
-      "teamCode": "DET",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5182933.png",
+      "id": 31662,
+      "name": "Jose Altuve",
+      "first": "Jose",
+      "last": "Altuve",
+      "pos": "2B",
+      "teamCode": "HOU",
+      "age": 36,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/31662.png",
       "colors": {
-        "primary": "#0c2340",
-        "secondary": "#fa4616"
+        "primary": "#eb6e1f",
+        "secondary": "#002d62"
       },
       "score": 50,
       "stats": {
-        "type": "pitching",
-        "g": 20,
-        "w": 5,
-        "era": 3.33,
-        "ip": 97.1,
-        "so": 65,
-        "whip": 1.01
+        "type": "batting",
+        "ab": 289,
+        "hr": 11,
+        "rbi": 27,
+        "avg": 0.232,
+        "sb": 2,
+        "ops": 0.701
       },
-      "legendScore": 31.5,
+      "legendScore": 39.8,
       "currentScore": 50,
-      "battingScore": null,
-      "pitchingScore": 50,
+      "battingScore": 50,
+      "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -6160,14 +6220,44 @@ window.MLB_DATA = {
       "score": 50,
       "stats": {
         "type": "batting",
-        "ab": 306,
+        "ab": 309,
         "hr": 4,
         "rbi": 28,
-        "avg": 0.258,
+        "avg": 0.262,
         "sb": 12,
-        "ops": 0.696
+        "ops": 0.704
       },
       "legendScore": 29.0,
+      "currentScore": 50,
+      "battingScore": 50,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 4683365,
+      "name": "Masyn Winn",
+      "first": "Masyn",
+      "last": "Winn",
+      "pos": "SS",
+      "teamCode": "STL",
+      "age": 24,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4683365.png",
+      "colors": {
+        "primary": "#c41e3a",
+        "secondary": "#0c2340"
+      },
+      "score": 50,
+      "stats": {
+        "type": "batting",
+        "ab": 319,
+        "hr": 4,
+        "rbi": 41,
+        "avg": 0.245,
+        "sb": 7,
+        "ops": 0.648
+      },
+      "legendScore": 29.8,
       "currentScore": 50,
       "battingScore": 50,
       "pitchingScore": null,
@@ -6198,66 +6288,6 @@ window.MLB_DATA = {
         "ops": 0.692
       },
       "legendScore": 37.3,
-      "currentScore": 50,
-      "battingScore": 50,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 4424141,
-      "name": "Michael McGreevy",
-      "first": "Michael",
-      "last": "McGreevy",
-      "pos": "SP",
-      "teamCode": "STL",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png",
-      "colors": {
-        "primary": "#c41e3a",
-        "secondary": "#0c2340"
-      },
-      "score": 50,
-      "stats": {
-        "type": "pitching",
-        "g": 18,
-        "w": 4,
-        "era": 3.01,
-        "ip": 101.2,
-        "so": 66,
-        "whip": 1.1
-      },
-      "legendScore": 31.5,
-      "currentScore": 50,
-      "battingScore": null,
-      "pitchingScore": 50,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 4739755,
-      "name": "Nolan Schanuel",
-      "first": "Nolan",
-      "last": "Schanuel",
-      "pos": "1B",
-      "teamCode": "LAA",
-      "age": 24,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4739755.png",
-      "colors": {
-        "primary": "#ba0021",
-        "secondary": "#003263"
-      },
-      "score": 50,
-      "stats": {
-        "type": "batting",
-        "ab": 287,
-        "hr": 6,
-        "rbi": 35,
-        "avg": 0.275,
-        "sb": 0,
-        "ops": 0.741
-      },
-      "legendScore": 29.8,
       "currentScore": 50,
       "battingScore": 50,
       "pitchingScore": null,
@@ -6310,12 +6340,12 @@ window.MLB_DATA = {
       "score": 50,
       "stats": {
         "type": "batting",
-        "ab": 349,
+        "ab": 352,
         "hr": 11,
         "rbi": 37,
-        "avg": 0.209,
+        "avg": 0.21,
         "sb": 0,
-        "ops": 0.593
+        "ops": 0.597
       },
       "legendScore": 39.8,
       "currentScore": 50,
@@ -6385,36 +6415,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 40963,
-      "name": "Daulton Varsho",
-      "first": "Daulton",
-      "last": "Varsho",
-      "pos": "CF",
-      "teamCode": "TOR",
-      "age": 30,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40963.png",
-      "colors": {
-        "primary": "#134a8e",
-        "secondary": "#e8291c"
-      },
-      "score": 49,
-      "stats": {
-        "type": "batting",
-        "ab": 279,
-        "hr": 7,
-        "rbi": 24,
-        "avg": 0.24,
-        "sb": 9,
-        "ops": 0.696
-      },
-      "legendScore": 34.3,
-      "currentScore": 49,
-      "battingScore": 49,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 4866735,
       "name": "Jakob Marsee",
       "first": "Jakob",
@@ -6430,12 +6430,12 @@ window.MLB_DATA = {
       "score": 49,
       "stats": {
         "type": "batting",
-        "ab": 325,
+        "ab": 329,
         "hr": 5,
         "rbi": 25,
-        "avg": 0.197,
+        "avg": 0.195,
         "sb": 19,
-        "ops": 0.615
+        "ops": 0.608
       },
       "legendScore": 30.1,
       "currentScore": 49,
@@ -6475,31 +6475,61 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4683365,
-      "name": "Masyn Winn",
-      "first": "Masyn",
-      "last": "Winn",
-      "pos": "SS",
-      "teamCode": "STL",
+      "id": 4739755,
+      "name": "Nolan Schanuel",
+      "first": "Nolan",
+      "last": "Schanuel",
+      "pos": "1B",
+      "teamCode": "LAA",
       "age": 24,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4683365.png",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4739755.png",
       "colors": {
-        "primary": "#c41e3a",
-        "secondary": "#0c2340"
+        "primary": "#ba0021",
+        "secondary": "#003263"
       },
       "score": 49,
       "stats": {
         "type": "batting",
-        "ab": 317,
-        "hr": 4,
-        "rbi": 38,
-        "avg": 0.243,
-        "sb": 7,
-        "ops": 0.645
+        "ab": 289,
+        "hr": 6,
+        "rbi": 35,
+        "avg": 0.273,
+        "sb": 0,
+        "ops": 0.74
       },
       "legendScore": 29.3,
       "currentScore": 49,
       "battingScore": 49,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 40963,
+      "name": "Daulton Varsho",
+      "first": "Daulton",
+      "last": "Varsho",
+      "pos": "CF",
+      "teamCode": "TOR",
+      "age": 30,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40963.png",
+      "colors": {
+        "primary": "#134a8e",
+        "secondary": "#e8291c"
+      },
+      "score": 48,
+      "stats": {
+        "type": "batting",
+        "ab": 283,
+        "hr": 7,
+        "rbi": 24,
+        "avg": 0.237,
+        "sb": 9,
+        "ops": 0.686
+      },
+      "legendScore": 33.7,
+      "currentScore": 48,
+      "battingScore": 48,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
@@ -6520,44 +6550,14 @@ window.MLB_DATA = {
       "score": 48,
       "stats": {
         "type": "batting",
-        "ab": 284,
+        "ab": 287,
         "hr": 10,
         "rbi": 28,
-        "avg": 0.218,
+        "avg": 0.216,
         "sb": 1,
-        "ops": 0.693
+        "ops": 0.689
       },
       "legendScore": 34.5,
-      "currentScore": 48,
-      "battingScore": 48,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 4917927,
-      "name": "Kyle Manzardo",
-      "first": "Kyle",
-      "last": "Manzardo",
-      "pos": "1B",
-      "teamCode": "CLE",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917927.png",
-      "colors": {
-        "primary": "#e31937",
-        "secondary": "#002b5c"
-      },
-      "score": 48,
-      "stats": {
-        "type": "batting",
-        "ab": 270,
-        "hr": 10,
-        "rbi": 30,
-        "avg": 0.215,
-        "sb": 0,
-        "ops": 0.669
-      },
-      "legendScore": 29.5,
       "currentScore": 48,
       "battingScore": 48,
       "pitchingScore": null,
@@ -6655,6 +6655,36 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
+      "id": 34923,
+      "name": "Taylor Ward",
+      "first": "Taylor",
+      "last": "Ward",
+      "pos": "LF",
+      "teamCode": "BAL",
+      "age": 32,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34923.png",
+      "colors": {
+        "primary": "#df4601",
+        "secondary": "#000000"
+      },
+      "score": 48,
+      "stats": {
+        "type": "batting",
+        "ab": 360,
+        "hr": 7,
+        "rbi": 27,
+        "avg": 0.256,
+        "sb": 3,
+        "ops": 0.755
+      },
+      "legendScore": 35.4,
+      "currentScore": 48,
+      "battingScore": 48,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
       "id": 4679983,
       "name": "Chandler Simpson",
       "first": "Chandler",
@@ -6685,6 +6715,36 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
+      "id": 4917927,
+      "name": "Kyle Manzardo",
+      "first": "Kyle",
+      "last": "Manzardo",
+      "pos": "1B",
+      "teamCode": "CLE",
+      "age": 25,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917927.png",
+      "colors": {
+        "primary": "#e31937",
+        "secondary": "#002b5c"
+      },
+      "score": 47,
+      "stats": {
+        "type": "batting",
+        "ab": 270,
+        "hr": 10,
+        "rbi": 30,
+        "avg": 0.215,
+        "sb": 0,
+        "ops": 0.669
+      },
+      "legendScore": 29.0,
+      "currentScore": 47,
+      "battingScore": 47,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
       "id": 4905919,
       "name": "Ezequiel Tovar",
       "first": "Ezequiel",
@@ -6697,49 +6757,19 @@ window.MLB_DATA = {
         "primary": "#333366",
         "secondary": "#c4ced4"
       },
-      "score": 47,
+      "score": 46,
       "stats": {
         "type": "batting",
-        "ab": 315,
+        "ab": 318,
         "hr": 8,
         "rbi": 32,
-        "avg": 0.2,
+        "avg": 0.198,
         "sb": 5,
-        "ops": 0.574
+        "ops": 0.568
       },
-      "legendScore": 28.2,
-      "currentScore": 47,
-      "battingScore": 47,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 4417795,
-      "name": "Sal Frelick",
-      "first": "Sal",
-      "last": "Frelick",
-      "pos": "RF",
-      "teamCode": "MIL",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4417795.png",
-      "colors": {
-        "primary": "#ffc52f",
-        "secondary": "#12284b"
-      },
-      "score": 47,
-      "stats": {
-        "type": "batting",
-        "ab": 275,
-        "hr": 4,
-        "rbi": 34,
-        "avg": 0.236,
-        "sb": 6,
-        "ops": 0.633
-      },
-      "legendScore": 29.8,
-      "currentScore": 47,
-      "battingScore": 47,
+      "legendScore": 27.6,
+      "currentScore": 46,
+      "battingScore": 46,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
@@ -6760,12 +6790,12 @@ window.MLB_DATA = {
       "score": 46,
       "stats": {
         "type": "batting",
-        "ab": 267,
+        "ab": 272,
         "hr": 5,
-        "rbi": 28,
-        "avg": 0.24,
+        "rbi": 29,
+        "avg": 0.239,
         "sb": 5,
-        "ops": 0.708
+        "ops": 0.703
       },
       "legendScore": 30.9,
       "currentScore": 46,
@@ -6775,29 +6805,89 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 34923,
-      "name": "Taylor Ward",
-      "first": "Taylor",
-      "last": "Ward",
-      "pos": "LF",
-      "teamCode": "BAL",
-      "age": 32,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34923.png",
+      "id": 32968,
+      "name": "Merrill Kelly",
+      "first": "Merrill",
+      "last": "Kelly",
+      "pos": "SP",
+      "teamCode": "ARI",
+      "age": 37,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32968.png",
       "colors": {
-        "primary": "#df4601",
-        "secondary": "#000000"
+        "primary": "#a71930",
+        "secondary": "#e3d4ad"
+      },
+      "score": 46,
+      "stats": {
+        "type": "pitching",
+        "g": 17,
+        "w": 7,
+        "era": 5.2,
+        "ip": 98.2,
+        "so": 62,
+        "whip": 1.49
+      },
+      "legendScore": 38.4,
+      "currentScore": 46,
+      "battingScore": null,
+      "pitchingScore": 46,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 4417795,
+      "name": "Sal Frelick",
+      "first": "Sal",
+      "last": "Frelick",
+      "pos": "RF",
+      "teamCode": "MIL",
+      "age": 26,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4417795.png",
+      "colors": {
+        "primary": "#ffc52f",
+        "secondary": "#12284b"
       },
       "score": 46,
       "stats": {
         "type": "batting",
-        "ab": 357,
-        "hr": 6,
-        "rbi": 25,
-        "avg": 0.255,
-        "sb": 3,
-        "ops": 0.746
+        "ab": 276,
+        "hr": 4,
+        "rbi": 34,
+        "avg": 0.236,
+        "sb": 6,
+        "ops": 0.63
       },
-      "legendScore": 34.3,
+      "legendScore": 29.3,
+      "currentScore": 46,
+      "battingScore": 46,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 4109109,
+      "name": "Vinnie Pasquantino",
+      "first": "Vinnie",
+      "last": "Pasquantino",
+      "pos": "1B",
+      "teamCode": "KC",
+      "age": 28,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4109109.png",
+      "colors": {
+        "primary": "#004687",
+        "secondary": "#c09a5b"
+      },
+      "score": 46,
+      "stats": {
+        "type": "batting",
+        "ab": 265,
+        "hr": 6,
+        "rbi": 32,
+        "avg": 0.223,
+        "sb": 4,
+        "ops": 0.653
+      },
+      "legendScore": 30.9,
       "currentScore": 46,
       "battingScore": 46,
       "pitchingScore": null,
@@ -6828,6 +6918,36 @@ window.MLB_DATA = {
         "whip": 1.45
       },
       "legendScore": 34.6,
+      "currentScore": 45,
+      "battingScore": null,
+      "pitchingScore": 45,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
+      "id": 41172,
+      "name": "Brady Singer",
+      "first": "Brady",
+      "last": "Singer",
+      "pos": "SP",
+      "teamCode": "CIN",
+      "age": 29,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41172.png",
+      "colors": {
+        "primary": "#c6011f",
+        "secondary": "#000000"
+      },
+      "score": 45,
+      "stats": {
+        "type": "pitching",
+        "g": 19,
+        "w": 4,
+        "era": 4.56,
+        "ip": 96.2,
+        "so": 82,
+        "whip": 1.41
+      },
+      "legendScore": 31.2,
       "currentScore": 45,
       "battingScore": null,
       "pitchingScore": 45,
@@ -6877,20 +6997,20 @@ window.MLB_DATA = {
         "primary": "#004687",
         "secondary": "#c09a5b"
       },
-      "score": 44,
+      "score": 45,
       "stats": {
         "type": "pitching",
-        "g": 19,
+        "g": 20,
         "w": 3,
-        "era": 4.56,
-        "ip": 104.2,
-        "so": 86,
-        "whip": 1.43
+        "era": 4.39,
+        "ip": 110.2,
+        "so": 89,
+        "whip": 1.41
       },
-      "legendScore": 36.5,
-      "currentScore": 44,
+      "legendScore": 37.1,
+      "currentScore": 45,
       "battingScore": null,
-      "pitchingScore": 44,
+      "pitchingScore": 45,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -7344,9 +7464,9 @@ window.MLB_DATA = {
         "careerScore": 92.1,
         "legendScore": 92.1,
         "currentScore": 100.0,
-        "battingScore": 85,
+        "battingScore": 84,
         "pitchingScore": 100,
-        "twoWayBonus": 18.7,
+        "twoWayBonus": 18.5,
         "threshold": 92.5,
         "gap": 0.4,
         "rings": 2,
@@ -7365,8 +7485,8 @@ window.MLB_DATA = {
         "age": 34,
         "careerScore": 89.0,
         "legendScore": 89.0,
-        "currentScore": 69,
-        "battingScore": 69,
+        "currentScore": 68,
+        "battingScore": 68,
         "pitchingScore": null,
         "twoWayBonus": 0,
         "threshold": 92.5,
@@ -7387,8 +7507,8 @@ window.MLB_DATA = {
         "age": 36,
         "careerScore": 78.0,
         "legendScore": 78.0,
-        "currentScore": 70,
-        "battingScore": 70,
+        "currentScore": 69,
+        "battingScore": 69,
         "pitchingScore": null,
         "twoWayBonus": 0,
         "threshold": 92.5,
@@ -7431,8 +7551,8 @@ window.MLB_DATA = {
         "age": 27,
         "careerScore": 70.7,
         "legendScore": 70.7,
-        "currentScore": 82,
-        "battingScore": 82,
+        "currentScore": 81,
+        "battingScore": 81,
         "pitchingScore": null,
         "twoWayBonus": 0,
         "threshold": 92.5,
@@ -7473,17 +7593,39 @@ window.MLB_DATA = {
           "secondary": "#002d72"
         },
         "age": 33,
-        "careerScore": 60.2,
-        "legendScore": 60.2,
-        "currentScore": 92,
-        "battingScore": 92,
+        "careerScore": 59.7,
+        "legendScore": 59.7,
+        "currentScore": 91,
+        "battingScore": 91,
         "pitchingScore": null,
         "twoWayBonus": 0,
         "threshold": 92.5,
-        "gap": 32.3,
+        "gap": 32.8,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
         "prevRank": 7
+      },
+      {
+        "id": 30948,
+        "name": "Chris Sale",
+        "pos": "SP",
+        "teamCode": "ATL",
+        "colors": {
+          "primary": "#ce1141",
+          "secondary": "#13274f"
+        },
+        "age": 37,
+        "careerScore": 58.7,
+        "legendScore": 58.7,
+        "currentScore": 83,
+        "battingScore": null,
+        "pitchingScore": 83,
+        "twoWayBonus": 0,
+        "threshold": 92.5,
+        "gap": 33.8,
+        "rings": 0,
+        "note": "Multiple elite seasons + several titles needed",
+        "prevRank": null
       },
       {
         "id": 5080761,
@@ -7517,39 +7659,17 @@ window.MLB_DATA = {
           "secondary": "#e4002c"
         },
         "age": 27,
-        "careerScore": 56.3,
-        "legendScore": 56.3,
-        "currentScore": 94,
-        "battingScore": 94,
+        "careerScore": 55.8,
+        "legendScore": 55.8,
+        "currentScore": 93,
+        "battingScore": 93,
         "pitchingScore": null,
         "twoWayBonus": 0,
         "threshold": 92.5,
-        "gap": 36.2,
+        "gap": 36.7,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
         "prevRank": 9
-      },
-      {
-        "id": 4918256,
-        "name": "James Wood",
-        "pos": "RF",
-        "teamCode": "WSH",
-        "colors": {
-          "primary": "#ab0003",
-          "secondary": "#14225a"
-        },
-        "age": 23,
-        "careerScore": 55.7,
-        "legendScore": 55.7,
-        "currentScore": 99,
-        "battingScore": 99,
-        "pitchingScore": null,
-        "twoWayBonus": 0,
-        "threshold": 92.5,
-        "gap": 36.8,
-        "rings": 0,
-        "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 10
       }
     ],
     "teams": [
@@ -7558,9 +7678,9 @@ window.MLB_DATA = {
         "city": "Los Angeles Dodgers",
         "era": "2017–present",
         "rings": 3,
-        "dynastyScore": 74.0,
+        "dynastyScore": 74.6,
         "threshold": 89.5,
-        "gap": 15.5,
+        "gap": 14.9,
         "note": "2020+2024+2025 champions · Ohtani/Betts/Freeman era · dynasty confirmed",
         "needs": "1–2 more titles + sustained regular-season excellence",
         "colors": {
@@ -7590,9 +7710,9 @@ window.MLB_DATA = {
         "city": "Atlanta Braves",
         "era": "2019–present",
         "rings": 1,
-        "dynastyScore": 47.6,
+        "dynastyScore": 48.2,
         "threshold": 89.5,
-        "gap": 41.9,
+        "gap": 41.3,
         "note": "2021 champions · Acuña/Olson core · NL East powerhouse",
         "needs": "2–3 more titles + another dominant era needed",
         "colors": {
@@ -7606,9 +7726,9 @@ window.MLB_DATA = {
         "city": "Texas Rangers",
         "era": "2023–present",
         "rings": 1,
-        "dynastyScore": 44.6,
+        "dynastyScore": 44.0,
         "threshold": 89.5,
-        "gap": 44.9,
+        "gap": 45.5,
         "note": "2023 World Champions · Seager/García · historic first title",
         "needs": "2–3 more titles + another dominant era needed",
         "colors": {
@@ -7650,22 +7770,6 @@ window.MLB_DATA = {
         "prevRank": 6
       },
       {
-        "teamCode": "SEA",
-        "city": "Seattle Mariners",
-        "era": "2022–present",
-        "rings": 0,
-        "dynastyScore": 34.0,
-        "threshold": 89.5,
-        "gap": 55.5,
-        "note": "Julio Rodríguez era · pitching-first identity · long playoff drought ended",
-        "needs": "Needs at least one title + sustained dominance",
-        "colors": {
-          "primary": "#0c2c56",
-          "secondary": "#005c5c"
-        },
-        "prevRank": 7
-      },
-      {
         "teamCode": "SD",
         "city": "San Diego Padres",
         "era": "2022–present",
@@ -7680,6 +7784,22 @@ window.MLB_DATA = {
           "secondary": "#ffc425"
         },
         "prevRank": 8
+      },
+      {
+        "teamCode": "SEA",
+        "city": "Seattle Mariners",
+        "era": "2022–present",
+        "rings": 0,
+        "dynastyScore": 33.4,
+        "threshold": 89.5,
+        "gap": 56.1,
+        "note": "Julio Rodríguez era · pitching-first identity · long playoff drought ended",
+        "needs": "Needs at least one title + sustained dominance",
+        "colors": {
+          "primary": "#0c2c56",
+          "secondary": "#005c5c"
+        },
+        "prevRank": 7
       },
       {
         "teamCode": "BAL",
@@ -7776,10 +7896,10 @@ window.MLB_DATA = {
           "secondary": "#cc3433"
         },
         "age": 24,
-        "currentScore": 92,
-        "projectedScore": 69.7,
+        "currentScore": 91,
+        "projectedScore": 69.2,
         "threshold": 92.5,
-        "gap": 22.8,
+        "gap": 23.3,
         "note": "Among the best players of their generation",
         "prevRank": 4
       },
@@ -7810,29 +7930,12 @@ window.MLB_DATA = {
           "secondary": "#8fbce6"
         },
         "age": 23,
-        "currentScore": 88,
-        "projectedScore": 67.6,
+        "currentScore": 90,
+        "projectedScore": 68.6,
         "threshold": 92.5,
-        "gap": 24.9,
+        "gap": 23.9,
         "note": "Elite start to career — ceiling is very high",
         "prevRank": 6
-      },
-      {
-        "id": 4966637,
-        "name": "Nick Kurtz",
-        "pos": "1B",
-        "teamCode": "ATH",
-        "colors": {
-          "primary": "#003831",
-          "secondary": "#efb21e"
-        },
-        "age": 23,
-        "currentScore": 84,
-        "projectedScore": 65.4,
-        "threshold": 92.5,
-        "gap": 27.1,
-        "note": "Elite start to career — ceiling is very high",
-        "prevRank": 7
       },
       {
         "id": 42402,
@@ -7850,6 +7953,23 @@ window.MLB_DATA = {
         "gap": 27.4,
         "note": "Among the best players of their generation",
         "prevRank": 8
+      },
+      {
+        "id": 4966637,
+        "name": "Nick Kurtz",
+        "pos": "1B",
+        "teamCode": "ATH",
+        "colors": {
+          "primary": "#003831",
+          "secondary": "#efb21e"
+        },
+        "age": 23,
+        "currentScore": 83,
+        "projectedScore": 64.9,
+        "threshold": 92.5,
+        "gap": 27.6,
+        "note": "Elite start to career — ceiling is very high",
+        "prevRank": 7
       },
       {
         "id": 4927516,
@@ -7927,7 +8047,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-17 22:09 UTC",
+  "LAST_UPDATE": "2026-07-18 07:09 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-17 22:10 UTC
+// Auto-generated 2026-07-18 07:09 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-17 22:10 UTC",
+  "UPDATED": "2026-07-18 07:09 UTC",
   "SEASON": "2026",
   "ROUND": 19,
   "IMPORTANCE": 8.2,
@@ -9,11 +9,11 @@ window.AFL_DATA = {
     {
       "rank": 1,
       "name": "Fremantle",
-      "wins": 15,
+      "wins": 16,
       "losses": 2,
       "draws": 0,
-      "pts": 60,
-      "percentage": 142.3,
+      "pts": 64,
+      "percentage": 142.0,
       "primary": "#2A0D54",
       "secondary": "#FFFFFF",
       "prevRank": 1
@@ -172,10 +172,10 @@ window.AFL_DATA = {
       "rank": 15,
       "name": "Port Adelaide",
       "wins": 6,
-      "losses": 11,
+      "losses": 12,
       "draws": 0,
       "pts": 24,
-      "percentage": 101.3,
+      "percentage": 99.2,
       "primary": "#002B5C",
       "secondary": "#CC2031"
     },
@@ -1075,6 +1075,16 @@ window.AFL_DATA = {
       "date": "2026-07-17",
       "hprimary": "#F57F00",
       "aprimary": "#002B5C"
+    },
+    {
+      "hteam": "Port Adelaide",
+      "hscore": 75,
+      "ateam": "Fremantle",
+      "ascore": 103,
+      "winner": "Fremantle",
+      "date": "2026-07-18",
+      "hprimary": "#002B5C",
+      "aprimary": "#2A0D54"
     }
   ],
   "CURRENT_CONTENDERS": [

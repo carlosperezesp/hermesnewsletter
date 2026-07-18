@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-17 22:11 UTC",
+  "UPDATED": "2026-07-18 07:11 UTC",
   "EVENTS": [
+    {
+      "id": "f1:win:Moët & Chandon Belgian Grand Prix:Max Verstappen",
+      "sport": "f1",
+      "detail": "F1",
+      "text": "Max Verstappen ganó el Moët & Chandon Belgian Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-07-18"
+    },
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
       "sport": "nascar",
@@ -105,6 +113,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-04"
     },
     {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Chris Sale",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Chris Sale entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-07-18"
+    },
+    {
       "id": "rank:golf:CURRENT:in:Tommy Fleetwood",
       "sport": "golf",
       "detail": "Golf",
@@ -112,15 +129,6 @@ window.GLORY_DATA = {
       "text": "Tommy Fleetwood entra en el top-10 · Nivel actual",
       "weight": 84,
       "firstSeen": "2026-07-13"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:James Wood",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "James Wood entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-07-12"
     },
     {
       "id": "rank:motogp:RIDERS:in:Luca Marini",
@@ -356,9 +364,9 @@ window.GLORY_DATA = {
       "Juan Soto",
       "Yordan Alvarez",
       "Kyle Schwarber",
+      "Chris Sale",
       "Jacob Misiorowski",
-      "Ben Rice",
-      "James Wood"
+      "Ben Rice"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -367,8 +375,8 @@ window.GLORY_DATA = {
       "Texas Rangers",
       "New York Yankees",
       "Philadelphia Phillies",
-      "Seattle Mariners",
       "San Diego Padres",
+      "Seattle Mariners",
       "Baltimore Orioles",
       "New York Mets"
     ],
@@ -379,8 +387,8 @@ window.GLORY_DATA = {
       "Pete Crow-Armstrong",
       "Sal Stewart",
       "Junior Caminero",
-      "Nick Kurtz",
       "CJ Abrams",
+      "Nick Kurtz",
       "Chase Burns",
       "Cam Schlittler"
     ],
