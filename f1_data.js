@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-18 14:37 UTC
+// Auto-generated 2026-07-18 21:07 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-07-18 14:37 UTC",
+  "UPDATED": "2026-07-18 21:07 UTC",
   "SEASON": "2026",
   "ROUND": 8,
   "TOTAL_ROUNDS": 24,
@@ -22,7 +22,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 179.0,
-      "lastWeekendPoints": 8.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 29.8,
       "stats": {
@@ -47,7 +47,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 154.0,
-      "lastWeekendPoints": 23.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 25.7,
       "stats": {
@@ -72,7 +72,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 147.0,
-      "lastWeekendPoints": 22.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 24.5,
       "stats": {
@@ -97,7 +97,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 108.0,
-      "lastWeekendPoints": 29.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 18.0,
       "stats": {
@@ -122,7 +122,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 97.0,
-      "lastWeekendPoints": 18.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 16.2,
       "stats": {
@@ -147,7 +147,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 82.0,
-      "lastWeekendPoints": 2.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 13.7,
       "stats": {
@@ -172,7 +172,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 76.0,
-      "lastWeekendPoints": 3.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 12.7,
       "stats": {
@@ -197,7 +197,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 52.0,
-      "lastWeekendPoints": 10.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 8.7,
       "stats": {
@@ -222,7 +222,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 42.0,
-      "lastWeekendPoints": 1.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 7.0,
       "stats": {
@@ -247,7 +247,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 39.0,
-      "lastWeekendPoints": 9.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 6.5,
       "stats": {
@@ -555,9 +555,9 @@ window.F1_DATA = {
     }
   ],
   "LAST_WEEKEND": {
-    "id": "600057437",
-    "name": "Pirelli British Grand Prix",
-    "label": "GBR",
+    "id": "600057439",
+    "name": "Moët & Chandon Belgian Grand Prix",
+    "label": "BEL",
     "includesSprint": false
   },
   "LAST_RACE": {

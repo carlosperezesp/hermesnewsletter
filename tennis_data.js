@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-18 14:38 UTC
+// Auto-generated 2026-07-18 21:09 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-18 14:38 UTC",
+  "UPDATED": "2026-07-18 21:09 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8281,7 +8281,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "ATV Bancomat Tennis Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 44.9
@@ -8455,7 +8455,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "ATV Bancomat Tennis Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 43.1
@@ -10052,15 +10052,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Nuria Brancaccio",
+          "w": "Lucia Bronzetti",
           "w_logo": "",
-          "l": "Lucia Bronzetti",
+          "l": "Nuria Brancaccio",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 5-7 6-0",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 44.6,
+          "w_score": 44.6,
+          "l_score": null,
           "match_score": 44.6
         },
         {
@@ -10069,9 +10069,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Martina Trevisan",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "2-6 6-1 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 42.8,
           "l_score": null,
           "match_score": 42.8
@@ -10129,7 +10129,7 @@ window.TENNIS_DATA = {
       "Yelyzaveta Kotliar"
     ],
     "aliveCount": 16,
-    "matchesSeen": 30
+    "matchesSeen": 31
   },
   "ATP_SCORE_LOG": {
     "206173": [

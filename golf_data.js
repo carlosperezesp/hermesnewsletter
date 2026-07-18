@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-18 14:37 UTC
+// Auto-generated 2026-07-18 21:08 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-18 14:37 UTC",
+  "UPDATED": "2026-07-18 21:08 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -20,26 +20,26 @@ window.GOLF_DATA = {
     "leaderboard": [
       {
         "rank": 1,
-        "name": "Ryan Fox",
-        "id": "4251",
-        "country": "New Zealand",
-        "score": "-8",
-        "today": "-8"
+        "name": "Sam Burns",
+        "id": "9938",
+        "country": "USA",
+        "score": "-10",
+        "today": ""
       },
       {
         "rank": 2,
-        "name": "Lucas Herbert",
-        "id": "10343",
-        "country": "Australia",
+        "name": "Ryan Fox",
+        "id": "4251",
+        "country": "New Zealand",
         "score": "-8",
         "today": ""
       },
       {
         "rank": 3,
-        "name": "Cameron Young",
-        "id": "4425906",
-        "country": "USA",
-        "score": "-6",
+        "name": "Si Woo Kim",
+        "id": "7081",
+        "country": "South Korea",
+        "score": "-8",
         "today": ""
       },
       {
@@ -47,11 +47,35 @@ window.GOLF_DATA = {
         "name": "Ryan Gerard",
         "id": "5076021",
         "country": "USA",
-        "score": "-6",
+        "score": "-7",
         "today": ""
       },
       {
         "rank": 5,
+        "name": "Lucas Herbert",
+        "id": "10343",
+        "country": "Australia",
+        "score": "-7",
+        "today": ""
+      },
+      {
+        "rank": 6,
+        "name": "Ludvig Åberg",
+        "id": "4375972",
+        "country": "Sweden",
+        "score": "-6",
+        "today": ""
+      },
+      {
+        "rank": 7,
+        "name": "Bryson DeChambeau",
+        "id": "10046",
+        "country": "USA",
+        "score": "-6",
+        "today": ""
+      },
+      {
+        "rank": 8,
         "name": "Jackson Suber",
         "id": "4982182",
         "country": "USA",
@@ -59,44 +83,20 @@ window.GOLF_DATA = {
         "today": ""
       },
       {
-        "rank": 6,
+        "rank": 9,
         "name": "Rasmus Neergaard-Petersen",
         "id": "4858859",
         "country": "Denmark",
-        "score": "-5",
-        "today": "-3"
-      },
-      {
-        "rank": 7,
-        "name": "Si Woo Kim",
-        "id": "7081",
-        "country": "South Korea",
-        "score": "-5",
-        "today": "E"
-      },
-      {
-        "rank": 8,
-        "name": "Sam Burns",
-        "id": "9938",
-        "country": "USA",
-        "score": "-5",
-        "today": ""
-      },
-      {
-        "rank": 9,
-        "name": "Bryson DeChambeau",
-        "id": "10046",
-        "country": "USA",
         "score": "-5",
         "today": ""
       },
       {
         "rank": 10,
-        "name": "Eric Cole",
-        "id": "10522",
-        "country": "USA",
-        "score": "-4",
-        "today": "-4"
+        "name": "Tommy Fleetwood",
+        "id": "5539",
+        "country": "England",
+        "score": "-5",
+        "today": ""
       }
     ],
     "favorites": [
