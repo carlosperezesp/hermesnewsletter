@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-18 14:07 UTC
+// Auto-generated 2026-07-18 14:38 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-18 14:07 UTC",
+  "UPDATED": "2026-07-18 14:38 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -991,108 +991,7 @@ window.ATHLETICS_DATA = {
               "year": 2007
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "43.38",
-              "athlete": "Samuel Ogazi",
-              "country": "NGR",
-              "flag": "https://flagcdn.com/24x18/ng.png",
-              "primary": "#008751",
-              "venue": "Hayward Field",
-              "date": "12 JUN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "43.44",
-              "athlete": "Busang Collen Kebinatshipi",
-              "country": "BOT",
-              "flag": "https://flagcdn.com/24x18/bw.png",
-              "primary": "#75AADB",
-              "venue": "Stade Louis II",
-              "date": "10 JUL 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "43.89",
-              "athlete": "Zakithi Nene",
-              "country": "RSA",
-              "flag": "https://flagcdn.com/24x18/za.png",
-              "primary": "#007749",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "43.92",
-              "athlete": "Jonathan Simms",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Hayward Field",
-              "date": "12 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "43.96",
-              "athlete": "Jacory Patterson",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Stade Louis II",
-              "date": "10 JUL 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "43.99",
-              "athlete": "Justin Braun",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Un. of Kentucky Outdoor Track Facility",
-              "date": "29 MAY 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "44.02",
-              "athlete": "Muzala Samukonga",
-              "country": "ZAM",
-              "flag": "https://flagcdn.com/24x18/zm.png",
-              "primary": "#4A4745",
-              "venue": "Nemzeti Atltikai Kzpont",
-              "date": "14 JUL 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "44.06",
-              "athlete": "Chris Bailey",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "44.09",
-              "athlete": "Matthew Hudson-Smith",
-              "country": "GBR",
-              "flag": "https://flagcdn.com/24x18/gb.png",
-              "primary": "#012169",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "44.11",
-              "athlete": "Rai Benjamin",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Hayward Field",
-              "date": "04 JUL 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "400m_w",
@@ -1495,13 +1394,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
-              "mark": "13.02",
+              "mark": "13.01",
               "athlete": "Kendry L. Men&#201;ndez",
               "country": "CUB",
               "flag": "https://flagcdn.com/24x18/cu.png",
               "primary": "#002A8F",
-              "venue": "Sports Park Mladost",
-              "date": "26 JUN 2026"
+              "venue": "Olympic Stadium",
+              "date": "18 JUL 2026"
             },
             {
               "rank": 8,

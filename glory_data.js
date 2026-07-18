@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-18 14:07 UTC",
+  "UPDATED": "2026-07-18 14:38 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Moët & Chandon Belgian Grand Prix:Max Verstappen",

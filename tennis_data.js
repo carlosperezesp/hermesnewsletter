@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-18 14:07 UTC
+// Auto-generated 2026-07-18 14:38 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-18 14:07 UTC",
+  "UPDATED": "2026-07-18 14:38 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10052,15 +10052,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Lucia Bronzetti",
+          "w": "Nuria Brancaccio",
           "w_logo": "",
-          "l": "Nuria Brancaccio",
+          "l": "Lucia Bronzetti",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 44.6,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 44.6,
           "match_score": 44.6
         },
         {

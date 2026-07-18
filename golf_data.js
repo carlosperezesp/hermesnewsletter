@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-18 14:06 UTC
+// Auto-generated 2026-07-18 14:37 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-18 14:06 UTC",
+  "UPDATED": "2026-07-18 14:37 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -60,25 +60,25 @@ window.GOLF_DATA = {
       },
       {
         "rank": 6,
-        "name": "Sungjae Im",
-        "id": "11382",
-        "country": "South Korea",
+        "name": "Rasmus Neergaard-Petersen",
+        "id": "4858859",
+        "country": "Denmark",
         "score": "-5",
         "today": "-3"
       },
       {
         "rank": 7,
-        "name": "Sam Burns",
-        "id": "9938",
-        "country": "USA",
-        "score": "-5",
-        "today": ""
-      },
-      {
-        "rank": 8,
         "name": "Si Woo Kim",
         "id": "7081",
         "country": "South Korea",
+        "score": "-5",
+        "today": "E"
+      },
+      {
+        "rank": 8,
+        "name": "Sam Burns",
+        "id": "9938",
+        "country": "USA",
         "score": "-5",
         "today": ""
       },
@@ -92,8 +92,8 @@ window.GOLF_DATA = {
       },
       {
         "rank": 10,
-        "name": "Xander Schauffele",
-        "id": "10140",
+        "name": "Eric Cole",
+        "id": "10522",
         "country": "USA",
         "score": "-4",
         "today": "-4"
