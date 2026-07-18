@@ -1,15 +1,15 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-07-18 21:08 UTC",
+  "UPDATED": "2026-07-18 22:11 UTC",
   "LAST_MATCH": "2026-07-18",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 343,
+    "incrementalMatches": 344,
     "teams": 162,
-    "matches": 10038,
+    "matches": 10039,
     "through": "2026-07-18"
   },
   "IMPORTANCE": 3.5,
@@ -122,15 +122,15 @@ window.RUGBY_DATA = {
       "name": "England",
       "teamCode": "ENG",
       "country": "England",
-      "elo": 2396.5,
-      "eloRaw": 2396.5,
-      "lastMatch": "2026-07-11",
-      "inactiveDays": 7,
+      "elo": 2423.1,
+      "eloRaw": 2423.1,
+      "lastMatch": "2026-07-18",
+      "inactiveDays": 0,
       "peakElo": 2568.0,
       "peakDate": "2019-10-26",
       "worldCups": 1,
       "record": {
-        "w": 456,
+        "w": 457,
         "l": 309,
         "d": 82
       },
@@ -138,7 +138,7 @@ window.RUGBY_DATA = {
         "primary": "#ffffff",
         "secondary": "#cf142b"
       },
-      "note": "456V-309D-82E · último 2026-07-11 · raw 2397"
+      "note": "457V-309D-82E · último 2026-07-18 · raw 2423"
     },
     {
       "rank": 6,
@@ -168,23 +168,23 @@ window.RUGBY_DATA = {
       "name": "Argentina",
       "teamCode": "ARG",
       "country": "Argentina",
-      "elo": 2317.7,
-      "eloRaw": 2317.7,
-      "lastMatch": "2026-07-11",
-      "inactiveDays": 7,
+      "elo": 2291.1,
+      "eloRaw": 2291.1,
+      "lastMatch": "2026-07-18",
+      "inactiveDays": 0,
       "peakElo": 2354.6,
       "peakDate": "2025-11-16",
       "worldCups": 0,
       "record": {
         "w": 259,
-        "l": 229,
+        "l": 230,
         "d": 13
       },
       "colors": {
         "primary": "#75aadb",
         "secondary": "#f6b40e"
       },
-      "note": "259V-229D-13E · último 2026-07-11 · raw 2318"
+      "note": "259V-230D-13E · último 2026-07-18 · raw 2291"
     },
     {
       "rank": 8,
