@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-18 07:09 UTC
+// Auto-generated 2026-07-18 08:12 UTC
 window.SUMO_DATA = {
-  "UPDATED": "2026-07-18 07:09 UTC",
+  "UPDATED": "2026-07-18 08:12 UTC",
   "LEGENDS": [
     {
       "id": "hakuho",
@@ -473,7 +473,7 @@ window.SUMO_DATA = {
       "name": "Churanoumi",
       "rikishiID": 71,
       "wins": 1,
-      "losses": 5,
+      "losses": 6,
       "absences": 0,
       "rankShort": "Maegashira 2",
       "yusho": 0,
@@ -524,7 +524,7 @@ window.SUMO_DATA = {
       "name": "Daieisho",
       "rikishiID": 9,
       "wins": 5,
-      "losses": 1,
+      "losses": 2,
       "absences": 0,
       "rankShort": "Maegashira 4",
       "yusho": 1,
@@ -540,7 +540,7 @@ window.SUMO_DATA = {
       "rankLabel": "Maegashira 4 West",
       "name": "Ichiyamamoto",
       "rikishiID": 11,
-      "wins": 3,
+      "wins": 4,
       "losses": 3,
       "absences": 0,
       "rankShort": "Maegashira 4",
@@ -558,7 +558,7 @@ window.SUMO_DATA = {
       "name": "Ura",
       "rikishiID": 28,
       "wins": 1,
-      "losses": 5,
+      "losses": 6,
       "absences": 0,
       "rankShort": "Maegashira 5",
       "yusho": 0,
@@ -574,7 +574,7 @@ window.SUMO_DATA = {
       "rankLabel": "Maegashira 5 West",
       "name": "Oshoma",
       "rikishiID": 61,
-      "wins": 1,
+      "wins": 2,
       "losses": 5,
       "absences": 0,
       "rankShort": "Maegashira 5",
