@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-19 21:09 UTC",
+  "UPDATED": "2026-07-19 22:13 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Moët & Chandon Belgian Grand Prix:Max Verstappen",
@@ -51,13 +51,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-05"
     },
     {
-      "id": "rank:football:ROAD_TO_GLORY.currentContenders:new1:Argentina",
+      "id": "rank:football:ROAD_TO_GLORY.currentContenders:new1:Spain",
       "sport": "football",
       "detail": "Fútbol",
       "anchor": "football-aspirantes",
-      "text": "Argentina es nuevo nº1 · aspirantes",
+      "text": "Spain es nuevo nº1 · aspirantes",
       "weight": 92,
-      "firstSeen": "2026-07-15"
+      "firstSeen": "2026-07-19"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
@@ -359,8 +359,8 @@ window.GLORY_DATA = {
       "New York Yankees",
       "Philadelphia Phillies",
       "Seattle Mariners",
-      "Baltimore Orioles",
       "San Diego Padres",
+      "Baltimore Orioles",
       "New York Mets"
     ],
     "mlb:ROAD_TO_GLORY.youngProspects": [
@@ -587,9 +587,9 @@ window.GLORY_DATA = {
       "Chris Gotterup",
       "Collin Morikawa",
       "Si Woo Kim",
-      "Ludvig Åberg",
+      "Sam Burns",
       "Tommy Fleetwood",
-      "Sam Burns"
+      "Ludvig Åberg"
     ],
     "golf:LEGENDS": [
       "Tiger Woods",
@@ -616,8 +616,8 @@ window.GLORY_DATA = {
       "St Kilda"
     ],
     "football:ROAD_TO_GLORY.currentContenders": [
-      "Argentina",
       "Spain",
+      "Argentina",
       "England",
       "France",
       "Portugal",
