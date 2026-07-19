@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-19 14:42 UTC",
+  "UPDATED": "2026-07-19 21:09 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Moët & Chandon Belgian Grand Prix:Max Verstappen",
@@ -533,8 +533,8 @@ window.GLORY_DATA = {
     ],
     "f1:DRIVERS": [
       "Kimi Antonelli",
-      "George Russell",
       "Lewis Hamilton",
+      "George Russell",
       "Charles Leclerc",
       "Lando Norris",
       "Oscar Piastri",

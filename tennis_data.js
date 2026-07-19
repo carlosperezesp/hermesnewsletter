@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-19 14:42 UTC
+// Auto-generated 2026-07-19 21:09 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-19 14:42 UTC",
+  "UPDATED": "2026-07-19 21:09 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8281,7 +8281,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "ATV Bancomat Tennis Open",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 44.9
@@ -10026,15 +10026,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Lucia Bronzetti",
+          "w": "Francesca Jones",
           "w_logo": "",
-          "l": "Francesca Jones",
+          "l": "Lucia Bronzetti",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 44.6,
-          "l_score": 42.8,
+          "scheduled": false,
+          "w_score": 42.8,
+          "l_score": 44.6,
           "match_score": 44.6
         }
       ]

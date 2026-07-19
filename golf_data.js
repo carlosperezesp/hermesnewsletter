@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-19 14:40 UTC
+// Auto-generated 2026-07-19 21:08 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-19 14:40 UTC",
+  "UPDATED": "2026-07-19 21:08 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -20,11 +20,11 @@ window.GOLF_DATA = {
     "leaderboard": [
       {
         "rank": 1,
-        "name": "Si Woo Kim",
-        "id": "7081",
-        "country": "South Korea",
+        "name": "Ryan Fox",
+        "id": "4251",
+        "country": "New Zealand",
         "score": "-10",
-        "today": "-1"
+        "today": "-2"
       },
       {
         "rank": 2,
@@ -36,46 +36,38 @@ window.GOLF_DATA = {
       },
       {
         "rank": 3,
-        "name": "Ryan Fox",
-        "id": "4251",
-        "country": "New Zealand",
-        "score": "-9",
-        "today": "-1"
-      },
-      {
-        "rank": 4,
         "name": "Sam Burns",
         "id": "9938",
         "country": "USA",
-        "score": "-9",
-        "today": "+1"
+        "score": "-8",
+        "today": "+2"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "Scottie Scheffler",
         "id": "9478",
         "country": "USA",
-        "score": "-8",
-        "today": "-4"
-      },
-      {
-        "rank": 6,
-        "name": "Tommy Fleetwood",
-        "id": "5539",
-        "country": "England",
-        "score": "-8",
+        "score": "-7",
         "today": "-3"
       },
       {
-        "rank": 7,
-        "name": "Bryson DeChambeau",
-        "id": "10046",
-        "country": "USA",
-        "score": "-6",
-        "today": "E"
+        "rank": 5,
+        "name": "Tommy Fleetwood",
+        "id": "5539",
+        "country": "England",
+        "score": "-7",
+        "today": "-2"
       },
       {
-        "rank": 8,
+        "rank": 6,
+        "name": "Casey Jarvis",
+        "id": "4610056",
+        "country": "South Africa",
+        "score": "-6",
+        "today": "-4"
+      },
+      {
+        "rank": 7,
         "name": "Lucas Herbert",
         "id": "10343",
         "country": "Australia",
@@ -83,18 +75,26 @@ window.GOLF_DATA = {
         "today": "+1"
       },
       {
-        "rank": 9,
-        "name": "Ryan Gerard",
-        "id": "5076021",
-        "country": "USA",
+        "rank": 8,
+        "name": "Si Woo Kim",
+        "id": "7081",
+        "country": "South Korea",
         "score": "-6",
-        "today": "+1"
+        "today": "+2"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "Russell Henley",
         "id": "5409",
         "country": "USA",
+        "score": "-5",
+        "today": "-4"
+      },
+      {
+        "rank": 10,
+        "name": "Adam Scott",
+        "id": "388",
+        "country": "Australia",
         "score": "-5",
         "today": "-4"
       }
