@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-19 08:38 UTC
+// Auto-generated 2026-07-19 14:10 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-19 08:38 UTC",
+  "UPDATED": "2026-07-19 14:10 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -23,80 +23,80 @@ window.GOLF_DATA = {
         "name": "Sam Burns",
         "id": "9938",
         "country": "USA",
-        "score": "-10",
-        "today": ""
+        "score": "-11",
+        "today": "-1"
       },
       {
         "rank": 2,
         "name": "Ryan Fox",
         "id": "4251",
         "country": "New Zealand",
-        "score": "-8",
-        "today": ""
+        "score": "-9",
+        "today": "-1"
       },
       {
         "rank": 3,
+        "name": "Cameron Young",
+        "id": "4425906",
+        "country": "USA",
+        "score": "-8",
+        "today": "-5"
+      },
+      {
+        "rank": 4,
         "name": "Si Woo Kim",
         "id": "7081",
         "country": "South Korea",
         "score": "-8",
-        "today": ""
+        "today": "E"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "name": "Scottie Scheffler",
+        "id": "9478",
+        "country": "USA",
+        "score": "-7",
+        "today": "-3"
+      },
+      {
+        "rank": 6,
+        "name": "Tommy Fleetwood",
+        "id": "5539",
+        "country": "England",
+        "score": "-7",
+        "today": "-2"
+      },
+      {
+        "rank": 7,
         "name": "Ryan Gerard",
         "id": "5076021",
         "country": "USA",
         "score": "-7",
-        "today": ""
+        "today": "E"
       },
       {
-        "rank": 5,
-        "name": "Lucas Herbert",
-        "id": "10343",
-        "country": "Australia",
-        "score": "-7",
-        "today": ""
-      },
-      {
-        "rank": 6,
-        "name": "Ludvig Åberg",
-        "id": "4375972",
-        "country": "Sweden",
+        "rank": 8,
+        "name": "Russell Henley",
+        "id": "5409",
+        "country": "USA",
         "score": "-6",
-        "today": ""
+        "today": "-5"
       },
       {
-        "rank": 7,
+        "rank": 9,
+        "name": "Kazuma Kobori",
+        "id": "5186648",
+        "country": "New Zealand",
+        "score": "-6",
+        "today": "-2"
+      },
+      {
+        "rank": 10,
         "name": "Bryson DeChambeau",
         "id": "10046",
         "country": "USA",
         "score": "-6",
-        "today": ""
-      },
-      {
-        "rank": 8,
-        "name": "Jackson Suber",
-        "id": "4982182",
-        "country": "USA",
-        "score": "-6",
-        "today": ""
-      },
-      {
-        "rank": 9,
-        "name": "Rasmus Neergaard-Petersen",
-        "id": "4858859",
-        "country": "Denmark",
-        "score": "-5",
-        "today": ""
-      },
-      {
-        "rank": 10,
-        "name": "Tommy Fleetwood",
-        "id": "5539",
-        "country": "England",
-        "score": "-5",
-        "today": ""
+        "today": "E"
       }
     ],
     "favorites": [

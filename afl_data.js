@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-19 08:38 UTC
+// Auto-generated 2026-07-19 14:10 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-19 08:38 UTC",
+  "UPDATED": "2026-07-19 14:10 UTC",
   "SEASON": "2026",
   "ROUND": 19,
   "IMPORTANCE": 8.2,
@@ -88,7 +88,7 @@ window.AFL_DATA = {
       "percentage": 93.2,
       "primary": "#0039A6",
       "secondary": "#CC2031",
-      "prevRank": 9
+      "prevRank": 7
     },
     {
       "rank": 8,
@@ -100,7 +100,7 @@ window.AFL_DATA = {
       "percentage": 105.7,
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "prevRank": 7
+      "prevRank": 8
     },
     {
       "rank": 9,
@@ -128,10 +128,10 @@ window.AFL_DATA = {
       "rank": 11,
       "name": "Greater Western Sydney",
       "wins": 8,
-      "losses": 9,
+      "losses": 10,
       "draws": 0,
       "pts": 32,
-      "percentage": 101.6,
+      "percentage": 101.3,
       "primary": "#F57F00",
       "secondary": "#002040"
     },
@@ -192,6 +192,17 @@ window.AFL_DATA = {
     },
     {
       "rank": 17,
+      "name": "Essendon",
+      "wins": 2,
+      "losses": 16,
+      "draws": 0,
+      "pts": 8,
+      "percentage": 67.9,
+      "primary": "#CC2031",
+      "secondary": "#000000"
+    },
+    {
+      "rank": 18,
       "name": "Richmond",
       "wins": 2,
       "losses": 16,
@@ -199,17 +210,6 @@ window.AFL_DATA = {
       "pts": 8,
       "percentage": 61.7,
       "primary": "#FFD200",
-      "secondary": "#000000"
-    },
-    {
-      "rank": 18,
-      "name": "Essendon",
-      "wins": 1,
-      "losses": 16,
-      "draws": 0,
-      "pts": 4,
-      "percentage": 66.6,
-      "primary": "#CC2031",
       "secondary": "#000000"
     }
   ],
@@ -1135,6 +1135,16 @@ window.AFL_DATA = {
       "date": "2026-07-19",
       "hprimary": "#C5002F",
       "aprimary": "#0039A6"
+    },
+    {
+      "hteam": "Essendon",
+      "hscore": 67,
+      "ateam": "Greater Western Sydney",
+      "ascore": 64,
+      "winner": "Essendon",
+      "date": "2026-07-19",
+      "hprimary": "#CC2031",
+      "aprimary": "#F57F00"
     }
   ],
   "CURRENT_CONTENDERS": [

@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-19 08:40 UTC
+// Auto-generated 2026-07-19 14:11 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-19 08:40 UTC",
+  "UPDATED": "2026-07-19 14:11 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5811,10 +5811,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "MSC Hamburg Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 64.4
     },
@@ -6117,10 +6117,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 55,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "MSC Hamburg Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 61.1
     },
@@ -6355,10 +6355,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 62,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "MSC Hamburg Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 60.2
     },
@@ -6627,10 +6627,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "MSC Hamburg Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 59.3
     },
@@ -7311,10 +7311,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "MSC Hamburg Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 53.0
     },
@@ -7623,10 +7623,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "MSC Hamburg Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 50.4
     },
@@ -7829,10 +7829,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "MSC Hamburg Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 48.7
     },
@@ -7863,10 +7863,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "MSC Hamburg Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 47.4
     },
@@ -7897,10 +7897,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "MSC Hamburg Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 50.2
     },
@@ -8313,10 +8313,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 119,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "MSC Hamburg Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 44.8
     },
@@ -8383,10 +8383,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "MSC Hamburg Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 44.6
     },
@@ -8591,10 +8591,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "MSC Hamburg Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 42.1
     },
@@ -8627,10 +8627,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 128,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "MSC Hamburg Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 41.8
     },
@@ -8769,8 +8769,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
-        "state": "out",
+        "tournament": "MSC Hamburg Ladies Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -8875,10 +8875,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "MSC Hamburg Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 41.2
     },
@@ -8983,10 +8983,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 138,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "MSC Hamburg Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 37.9
     },
@@ -9267,10 +9267,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "MSC Hamburg Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.0
     },
@@ -9411,9 +9411,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "MSC Hamburg Ladies Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 41.0
@@ -10059,28 +10059,50 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
+      "Alina Charaeva",
+      "Anhelina Kalinina",
+      "Anna Bondar",
       "Aurora Zantedeschi",
       "Danka Kovinic",
+      "Darja Semenistaja",
       "Darya Astakhova",
       "Deborah Chiesa",
       "Elizara Yaneva",
+      "Elsa Jacquemot",
       "Eva Vedder",
       "Federica Urgesi",
       "Francesca Jones",
       "Julia Riera",
+      "Julia Stusek",
+      "Kaitlin Quevedo",
+      "Katarzyna Kawa",
+      "Leyre Romero Gormaz",
       "Lola Radivojevic",
       "Lucia Bronzetti",
       "Martina Trevisan",
+      "Mayar Sherif",
+      "Moyuka Uchijima",
+      "Nadia Podoroska",
+      "Nastasja Schunk",
       "Noma Noha Akugue",
       "Nuria Brancaccio",
+      "Oleksandra Oliynykova",
+      "Paula Badosa",
+      "Sara Sorribes Tormo",
+      "Simona Waltert",
+      "Sinja Kraus",
       "Sofya Lansere",
-      "Teodora Kostovic"
+      "Tamara Korpatsch",
+      "Teodora Kostovic",
+      "Tessa Johanna Brockmann",
+      "Valentina Steiner",
+      "Veronika Erjavec",
+      "Victoria Jimenez Kasintseva"
     ],
     "out": [
       "Alessandra Mazzola",
       "Alice Rame",
       "Dalila Spiteri",
-      "Darja Semenistaja",
       "Elena Malygina",
       "Fiona Ferro",
       "Francesca Pace",
@@ -10094,8 +10116,8 @@ window.TENNIS_DATA = {
       "Tyra Caterina Grant",
       "Yelyzaveta Kotliar"
     ],
-    "aliveCount": 16,
-    "matchesSeen": 31
+    "aliveCount": 39,
+    "matchesSeen": 43
   },
   "ATP_SCORE_LOG": {
     "206173": [

@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-19 08:38 UTC
+// Auto-generated 2026-07-19 14:09 UTC
 window.SUMO_DATA = {
-  "UPDATED": "2026-07-19 08:38 UTC",
+  "UPDATED": "2026-07-19 14:09 UTC",
   "LEGENDS": [
     {
       "id": "hakuho",
@@ -251,7 +251,7 @@ window.SUMO_DATA = {
       "rankLabel": "Yokozuna 1 East",
       "name": "Hoshoryu",
       "rikishiID": 19,
-      "wins": 5,
+      "wins": 6,
       "losses": 2,
       "absences": 0,
       "rankShort": "Yokozuna",
@@ -268,7 +268,7 @@ window.SUMO_DATA = {
       "rankLabel": "Yokozuna 1 West",
       "name": "Onosato",
       "rikishiID": 8850,
-      "wins": 4,
+      "wins": 5,
       "losses": 3,
       "absences": 0,
       "rankShort": "Yokozuna",
@@ -302,7 +302,7 @@ window.SUMO_DATA = {
       "rankLabel": "Ozeki 1 West",
       "name": "Kotozakura",
       "rikishiID": 20,
-      "wins": 3,
+      "wins": 4,
       "losses": 4,
       "absences": 0,
       "rankShort": "Ozeki",
@@ -405,7 +405,7 @@ window.SUMO_DATA = {
       "name": "Oho",
       "rikishiID": 41,
       "wins": 1,
-      "losses": 6,
+      "losses": 7,
       "absences": 0,
       "rankShort": "Komusubi",
       "yusho": 0,
@@ -490,7 +490,7 @@ window.SUMO_DATA = {
       "name": "Hiradoumi",
       "rikishiID": 24,
       "wins": 1,
-      "losses": 6,
+      "losses": 7,
       "absences": 0,
       "rankShort": "Maegashira 3",
       "yusho": 0,
@@ -524,7 +524,7 @@ window.SUMO_DATA = {
       "name": "Daieisho",
       "rikishiID": 9,
       "wins": 5,
-      "losses": 2,
+      "losses": 3,
       "absences": 0,
       "rankShort": "Maegashira 4",
       "yusho": 1,

@@ -6865,36 +6865,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 41172,
-      "name": "Brady Singer",
-      "first": "Brady",
-      "last": "Singer",
-      "pos": "SP",
-      "teamCode": "CIN",
-      "age": 29,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41172.png",
-      "colors": {
-        "primary": "#c6011f",
-        "secondary": "#000000"
-      },
-      "score": 45,
-      "stats": {
-        "type": "pitching",
-        "g": 19,
-        "w": 4,
-        "era": 4.56,
-        "ip": 96.2,
-        "so": 82,
-        "whip": 1.41
-      },
-      "legendScore": 31.2,
-      "currentScore": 45,
-      "battingScore": null,
-      "pitchingScore": 45,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 4417795,
       "name": "Sal Frelick",
       "first": "Sal",
@@ -7041,36 +7011,6 @@ window.MLB_DATA = {
       "currentScore": 44,
       "battingScore": null,
       "pitchingScore": 44,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 35397,
-      "name": "Jeffrey Springs",
-      "first": "Jeffrey",
-      "last": "Springs",
-      "pos": "SP",
-      "teamCode": "ATH",
-      "age": 33,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35397.png",
-      "colors": {
-        "primary": "#003831",
-        "secondary": "#efb21e"
-      },
-      "score": 40,
-      "stats": {
-        "type": "pitching",
-        "g": 19,
-        "w": 3,
-        "era": 6.08,
-        "ip": 97.2,
-        "so": 84,
-        "whip": 1.42
-      },
-      "legendScore": 31.8,
-      "currentScore": 40,
-      "battingScore": null,
-      "pitchingScore": 40,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -8047,7 +7987,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-19 08:38 UTC",
+  "LAST_UPDATE": "2026-07-19 14:09 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

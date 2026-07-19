@@ -4496,7 +4496,7 @@ window.NBA_DATA = {
       "last": "Broome",
       "pos": "F",
       "teamCode": "PHI",
-      "age": 23,
+      "age": 24,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4433569.png",
       "colors": {
         "primary": "#006bb6",
@@ -4512,7 +4512,7 @@ window.NBA_DATA = {
         "blk": 0.0,
         "min": 4.0
       },
-      "legendScore": 28.5
+      "legendScore": 29.5
     },
     {
       "id": 6477,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-19 08:38 UTC",
+  "LAST_UPDATE": "2026-07-19 14:09 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
