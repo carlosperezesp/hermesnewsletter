@@ -1419,7 +1419,7 @@ window.NHL_DATA = {
       "name": "Zach Werenski",
       "pos": "D",
       "teamCode": "CBJ",
-      "age": 28,
+      "age": 29,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -47978,10 +47978,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-18 22:10 UTC",
+  "LAST_UPDATE": "2026-07-19 07:35 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-18T22:10:00Z"
+    "standingsDateTimeUtc": "2026-07-19T07:35:15Z"
   }
 };

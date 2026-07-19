@@ -1,11 +1,11 @@
-// Auto-generated 2026-07-18 22:11 UTC
+// Auto-generated 2026-07-19 07:37 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-07-18 22:11 UTC",
+  "UPDATED": "2026-07-19 07:37 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-07-18 22:11 UTC"
+    "through": "2026-07-19 07:37 UTC"
   },
   "IMPORTANCE": 10.0,
   "TEAMS": [
@@ -52,27 +52,6 @@ window.FOOTBALL_DATA = {
       "recentMatches": 7
     },
     {
-      "id": "france",
-      "name": "France",
-      "teamCode": "FRA",
-      "country": "France",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "colors": {
-        "primary": "#002395",
-        "secondary": "#ED2939"
-      },
-      "rank": 3,
-      "elo": 2092,
-      "eloScore": 89.4,
-      "sourceRank": 3,
-      "worldCups": 2,
-      "continentalTitles": 2,
-      "note": "Finalista mundial reciente; profundidad ofensiva y defensiva.",
-      "eloPrev": 2029,
-      "recentDelta": 63.1,
-      "recentMatches": 7
-    },
-    {
       "id": "england",
       "name": "England",
       "teamCode": "ENG",
@@ -82,16 +61,37 @@ window.FOOTBALL_DATA = {
         "primary": "#FFFFFF",
         "secondary": "#CE1124"
       },
-      "rank": 4,
-      "elo": 2054,
-      "eloScore": 86.0,
+      "rank": 3,
+      "elo": 2104,
+      "eloScore": 90.5,
       "sourceRank": 4,
       "worldCups": 1,
       "continentalTitles": 0,
       "note": "Finalista de Euro; rating alto por consistencia ante élite UEFA.",
       "eloPrev": 2017,
-      "recentDelta": 36.8,
-      "recentMatches": 7
+      "recentDelta": 86.7,
+      "recentMatches": 8
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "teamCode": "FRA",
+      "country": "France",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "colors": {
+        "primary": "#002395",
+        "secondary": "#ED2939"
+      },
+      "rank": 4,
+      "elo": 2042,
+      "eloScore": 84.9,
+      "sourceRank": 3,
+      "worldCups": 2,
+      "continentalTitles": 2,
+      "note": "Finalista mundial reciente; profundidad ofensiva y defensiva.",
+      "eloPrev": 2029,
+      "recentDelta": 13.2,
+      "recentMatches": 8
     },
     {
       "id": "netherlands",
@@ -220,6 +220,36 @@ window.FOOTBALL_DATA = {
     }
   ],
   "RECENT_MATCHES": [
+    {
+      "id": "760516",
+      "date": "2026-07-18",
+      "league": "Mundial 2026",
+      "slug": "fifa.world",
+      "featured": [
+        "FRA",
+        "ENG"
+      ],
+      "home": {
+        "code": "FRA",
+        "name": "Francia",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+        "score": 4,
+        "eloBefore": 2092,
+        "eloAfter": 2042,
+        "delta": -49.9,
+        "result": "L"
+      },
+      "away": {
+        "code": "ENG",
+        "name": "Inglaterra",
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+        "score": 6,
+        "eloBefore": 2054,
+        "eloAfter": 2104,
+        "delta": 49.9,
+        "result": "W"
+      }
+    },
     {
       "id": "760515",
       "date": "2026-07-15",
@@ -1897,35 +1927,6 @@ window.FOOTBALL_DATA = {
         "ageCurve": 0.96
       },
       {
-        "id": "france",
-        "name": "France",
-        "teamCode": "FRA",
-        "country": "France",
-        "logo": "https://flagcdn.com/24x18/fr.png",
-        "colors": {
-          "primary": "#002395",
-          "secondary": "#ED2939"
-        },
-        "rank": 3,
-        "elo": 2092,
-        "eloScore": 89.4,
-        "sourceRank": 3,
-        "worldCups": 2,
-        "continentalTitles": 2,
-        "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
-        "eloPrev": 2029,
-        "recentDelta": 63.1,
-        "recentMatches": 7,
-        "dynastyPotential": 100.0,
-        "rawDynastyPotential": 91.3,
-        "gapToDynastyTop10": 0.0,
-        "cycleYears": 2.8,
-        "currentWorldCups": 1,
-        "currentContinentalTitles": 0,
-        "recentFinals": 2,
-        "ageCurve": 0.9
-      },
-      {
         "id": "england",
         "name": "England",
         "teamCode": "ENG",
@@ -1935,24 +1936,53 @@ window.FOOTBALL_DATA = {
           "primary": "#FFFFFF",
           "secondary": "#CE1124"
         },
-        "rank": 4,
-        "elo": 2054,
-        "eloScore": 86.0,
+        "rank": 3,
+        "elo": 2104,
+        "eloScore": 90.5,
         "sourceRank": 4,
         "worldCups": 1,
         "continentalTitles": 0,
         "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
         "eloPrev": 2017,
-        "recentDelta": 36.8,
-        "recentMatches": 7,
+        "recentDelta": 86.7,
+        "recentMatches": 8,
         "dynastyPotential": 100.0,
-        "rawDynastyPotential": 56.9,
+        "rawDynastyPotential": 59.7,
         "gapToDynastyTop10": 0.0,
         "cycleYears": 2.4,
         "currentWorldCups": 0,
         "currentContinentalTitles": 0,
         "recentFinals": 2,
         "ageCurve": 0.88
+      },
+      {
+        "id": "france",
+        "name": "France",
+        "teamCode": "FRA",
+        "country": "France",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "colors": {
+          "primary": "#002395",
+          "secondary": "#ED2939"
+        },
+        "rank": 4,
+        "elo": 2042,
+        "eloScore": 84.9,
+        "sourceRank": 3,
+        "worldCups": 2,
+        "continentalTitles": 2,
+        "note": "Ya está proyectada en zona top 10 si sostiene el ciclo",
+        "eloPrev": 2029,
+        "recentDelta": 13.2,
+        "recentMatches": 8,
+        "dynastyPotential": 100.0,
+        "rawDynastyPotential": 88.5,
+        "gapToDynastyTop10": 0.0,
+        "cycleYears": 2.8,
+        "currentWorldCups": 1,
+        "currentContinentalTitles": 0,
+        "recentFinals": 2,
+        "ageCurve": 0.9
       },
       {
         "id": "portugal",

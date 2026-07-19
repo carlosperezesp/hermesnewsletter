@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-18 22:11 UTC
+// Auto-generated 2026-07-19 07:38 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-18 22:11 UTC",
+  "UPDATED": "2026-07-19 07:38 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -4281,10 +4281,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 22.2,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 100.0
     },
@@ -4315,10 +4315,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 93.3
     },
@@ -4349,10 +4349,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 92.1
     },
@@ -4383,10 +4383,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 91.1
     },
@@ -4417,10 +4417,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 30.5,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 91.4
     },
@@ -4451,10 +4451,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 90.4
     },
@@ -4485,10 +4485,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 90.2
     },
@@ -4519,10 +4519,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 90.5
     },
@@ -4553,10 +4553,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 85.9
     },
@@ -4587,10 +4587,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 86.6
     },
@@ -4621,10 +4621,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 85.9
     },
@@ -4655,10 +4655,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 85.2
     },
@@ -4689,10 +4689,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 84.9
     },
@@ -4723,10 +4723,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 81.3
     },
@@ -4757,10 +4757,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 81.1
     },
@@ -4791,10 +4791,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 14.8,
       "prevListRank": 16,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 80.3
     },
@@ -4825,10 +4825,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 80.1
     },
@@ -4859,10 +4859,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 78.7
     },
@@ -4893,10 +4893,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 19,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 77.0
     },
@@ -4927,10 +4927,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 76.6
     },
@@ -4961,10 +4961,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 76.6
     },
@@ -4995,10 +4995,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 76.4
     },
@@ -5029,10 +5029,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 73.8
     },
@@ -5063,10 +5063,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 74.3
     },
@@ -5097,10 +5097,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 73.1
     },
@@ -5131,10 +5131,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 71.8
     },
@@ -5165,10 +5165,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 72.0
     },
@@ -5199,10 +5199,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 72.1
     },
@@ -5233,10 +5233,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 71.3
     },
@@ -5267,10 +5267,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 30,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 70.0
     },
@@ -5301,10 +5301,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 31,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 69.4
     },
@@ -5335,10 +5335,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 69.3
     },
@@ -5369,10 +5369,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 68.5
     },
@@ -5403,10 +5403,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 34,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 67.0
     },
@@ -5437,10 +5437,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 68.0
     },
@@ -5471,10 +5471,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.8
     },
@@ -5505,10 +5505,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 67.6
     },
@@ -5539,10 +5539,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 38,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 67.0
     },
@@ -5573,10 +5573,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 67.7
     },
@@ -5607,10 +5607,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 66.9
     },
@@ -5641,10 +5641,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.3
     },
@@ -5675,10 +5675,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 66.4
     },
@@ -5709,10 +5709,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 64.8
     },
@@ -5743,10 +5743,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 64.3
     },
@@ -5777,10 +5777,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 45,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 64.6
     },
@@ -5811,10 +5811,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 64.4
     },
@@ -5845,10 +5845,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 47,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.5
     },
@@ -5879,10 +5879,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 63.8
     },
@@ -5913,10 +5913,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 49,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.5
     },
@@ -5947,10 +5947,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.7
     },
@@ -5981,10 +5981,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 63.0
     },
@@ -6015,10 +6015,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 63.4
     },
@@ -6049,10 +6049,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.7
     },
@@ -6083,10 +6083,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 54,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 60.9
     },
@@ -6117,10 +6117,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 55,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 61.1
     },
@@ -6151,10 +6151,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 64.9
     },
@@ -6185,10 +6185,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 61.4
     },
@@ -6219,10 +6219,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.0
     },
@@ -6253,10 +6253,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 61.1
     },
@@ -6287,10 +6287,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.6
     },
@@ -6321,10 +6321,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 61.5
     },
@@ -6355,10 +6355,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 62,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 60.2
     },
@@ -6389,10 +6389,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 63,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 66.2
     },
@@ -6423,10 +6423,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.5
     },
@@ -6457,10 +6457,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 60.0
     },
@@ -6491,10 +6491,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 66,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 61.3
     },
@@ -6525,10 +6525,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.4
     },
@@ -6559,10 +6559,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 55.1
     },
@@ -6593,10 +6593,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.5
     },
@@ -6627,10 +6627,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.3
     },
@@ -6661,10 +6661,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.6
     },
@@ -6697,10 +6697,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.7
     },
@@ -6731,10 +6731,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 73,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.3
     },
@@ -6765,10 +6765,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.4
     },
@@ -6799,10 +6799,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.3
     },
@@ -6833,10 +6833,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 76,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.5
     },
@@ -6867,10 +6867,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.1
     },
@@ -6901,10 +6901,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.3
     },
@@ -6935,10 +6935,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 79,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.5
     },
@@ -6969,10 +6969,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 80,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.3
     },
@@ -7003,10 +7003,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 55.6
     },
@@ -7037,10 +7037,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 56.5
     },
@@ -7071,10 +7071,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 83,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 56.9
     },
@@ -7105,10 +7105,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 55.7
     },
@@ -7139,10 +7139,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 54.2
     },
@@ -7173,10 +7173,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.5
     },
@@ -7207,10 +7207,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.8
     },
@@ -7241,10 +7241,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.3
     },
@@ -7275,10 +7275,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.3
     },
@@ -7311,10 +7311,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.0
     },
@@ -7345,10 +7345,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.5
     },
@@ -7379,10 +7379,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 92,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.5
     },
@@ -7413,10 +7413,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.1
     },
@@ -7447,10 +7447,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.9
     },
@@ -7481,10 +7481,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 95,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.6
     },
@@ -7517,10 +7517,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.4
     },
@@ -7587,10 +7587,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.5
     },
@@ -7623,10 +7623,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.4
     },
@@ -7657,10 +7657,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.0
     },
@@ -7691,10 +7691,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 101,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.0
     },
@@ -7727,10 +7727,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.8
     },
@@ -7761,10 +7761,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.9
     },
@@ -7795,10 +7795,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.6
     },
@@ -7829,10 +7829,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.7
     },
@@ -7863,10 +7863,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.4
     },
@@ -7897,10 +7897,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.2
     },
@@ -7965,10 +7965,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 109,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 46.6
     },
@@ -7999,10 +7999,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.3
     },
@@ -8033,10 +8033,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 111,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.1
     },
@@ -8069,10 +8069,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 46.8
     },
@@ -8105,10 +8105,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 113,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 46.7
     },
@@ -8141,10 +8141,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.3
     },
@@ -8175,10 +8175,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 45.8
     },
@@ -8211,10 +8211,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 43.7
     },
@@ -8245,10 +8245,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 117,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.6
     },
@@ -8313,10 +8313,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 119,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 44.8
     },
@@ -8347,10 +8347,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 45.1
     },
@@ -8383,10 +8383,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 44.6
     },
@@ -8419,10 +8419,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 44.3
     },
@@ -8489,10 +8489,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.7
     },
@@ -8523,10 +8523,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 42.4
     },
@@ -8557,10 +8557,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 42.4
     },
@@ -8591,10 +8591,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 42.1
     },
@@ -8627,10 +8627,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 128,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 41.8
     },
@@ -8661,10 +8661,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 41.7
     },
@@ -8697,10 +8697,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 41.1
     },
@@ -8733,10 +8733,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 40.8
     },
@@ -8805,10 +8805,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 40.9
     },
@@ -8841,10 +8841,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 54.7
     },
@@ -8875,10 +8875,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 41.2
     },
@@ -8911,10 +8911,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 38.9
     },
@@ -8947,10 +8947,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 37.5
     },
@@ -8983,10 +8983,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 138,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 37.9
     },
@@ -9017,10 +9017,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 37.4
     },
@@ -9053,10 +9053,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 36.6
     },
@@ -9089,10 +9089,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 36.6
     },
@@ -9125,10 +9125,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 36.3
     },
@@ -9161,10 +9161,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 36.1
     },
@@ -9197,10 +9197,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 36.0
     },
@@ -9233,10 +9233,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.9
     },
@@ -9267,10 +9267,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -9303,10 +9303,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -9339,10 +9339,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.3
     },
@@ -9375,10 +9375,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "ATV Bancomat Tennis Open",
+        "tournament": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en ATV Bancomat Tennis Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -9990,74 +9990,13 @@ window.TENNIS_DATA = {
       "surface": "Clay",
       "matches": [
         {
-          "round": "Quarterfinal",
-          "w": "Lucia Bronzetti",
-          "w_logo": "",
-          "l": "Deborah Chiesa",
-          "l_logo": "",
-          "score": "2-6 6-3 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 44.6,
-          "l_score": null,
-          "match_score": 44.6
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Francesca Jones",
-          "w_logo": "",
-          "l": "Noma Noha Akugue",
-          "l_logo": "",
-          "score": "6-3 6-1",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 42.8,
-          "l_score": 35.0,
-          "match_score": 42.8
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Martina Trevisan",
-          "w_logo": "",
-          "l": "Elizara Yaneva",
-          "l_logo": "",
-          "score": "4-6 6-2 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Nuria Brancaccio",
-          "w_logo": "",
-          "l": "Julia Riera",
-          "l_logo": "",
-          "score": "6-3 1-6 7-6 (7-5)",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        }
-      ]
-    }
-  ],
-  "WTA_TODAY": [
-    {
-      "name": "ATV Bancomat Tennis Open",
-      "level": "Masters 1000",
-      "surface": "Clay",
-      "matches": [
-        {
           "round": "Semifinal",
           "w": "Lucia Bronzetti",
           "w_logo": "",
           "l": "Nuria Brancaccio",
           "l_logo": "",
           "score": "6-4 5-7 6-0",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 44.6,
           "l_score": null,
@@ -10070,7 +10009,7 @@ window.TENNIS_DATA = {
           "l": "Martina Trevisan",
           "l_logo": "",
           "score": "2-6 6-1 6-1",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 42.8,
           "l_score": null,
@@ -10079,9 +10018,31 @@ window.TENNIS_DATA = {
       ]
     }
   ],
+  "WTA_TODAY": [
+    {
+      "name": "ATV Bancomat Tennis Open",
+      "level": "Masters 1000",
+      "surface": "Clay",
+      "matches": [
+        {
+          "round": "F",
+          "w": "Lucia Bronzetti",
+          "w_logo": "",
+          "l": "Francesca Jones",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 44.6,
+          "l_score": 42.8,
+          "match_score": 44.6
+        }
+      ]
+    }
+  ],
   "ATP_TOURNAMENT": {},
   "WTA_TOURNAMENT": {
-    "name": "ATV Bancomat Tennis Open",
+    "name": "ATV Bancomat Tennis Open · MSC Hamburg Ladies Open",
     "level": "Masters 1000",
     "surface": "Clay",
     "tour": "WTA",
@@ -10089,6 +10050,11 @@ window.TENNIS_DATA = {
       {
         "name": "ATV Bancomat Tennis Open",
         "level": "Masters 1000",
+        "surface": "Clay"
+      },
+      {
+        "name": "MSC Hamburg Ladies Open",
+        "level": "ATP 500",
         "surface": "Clay"
       }
     ],
@@ -10134,10 +10100,6 @@ window.TENNIS_DATA = {
   "ATP_SCORE_LOG": {
     "206173": [
       [
-        "20260702",
-        100.0
-      ],
-      [
         "20260703",
         100.0
       ],
@@ -10199,15 +10161,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        100.0
+      ],
+      [
+        "20260719",
         100.0
       ]
     ],
     "207989": [
       [
-        "20260702",
-        91.0
-      ],
-      [
         "20260703",
         91.0
       ],
@@ -10269,15 +10231,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        90.9
+      ],
+      [
+        "20260719",
         90.9
       ]
     ],
     "100644": [
       [
-        "20260702",
-        87.4
-      ],
-      [
         "20260703",
         87.4
       ],
@@ -10339,15 +10301,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        87.5
+      ],
+      [
+        "20260719",
         87.5
       ]
     ],
     "104925": [
       [
-        "20260702",
-        87.3
-      ],
-      [
         "20260703",
         87.3
       ],
@@ -10409,15 +10371,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        87.4
+      ],
+      [
+        "20260719",
         87.4
       ]
     ],
     "209950": [
       [
-        "20260702",
-        82.3
-      ],
-      [
         "20260703",
         82.3
       ],
@@ -10479,15 +10441,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        82.5
+      ],
+      [
+        "20260719",
         82.5
       ]
     ],
     "134770": [
       [
-        "20260702",
-        81.3
-      ],
-      [
         "20260703",
         81.3
       ],
@@ -10549,15 +10511,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        81.2
+      ],
+      [
+        "20260719",
         81.2
       ]
     ],
     "207518": [
       [
-        "20260702",
-        79.4
-      ],
-      [
         "20260703",
         79.4
       ],
@@ -10619,15 +10581,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        79.6
+      ],
+      [
+        "20260719",
         79.6
       ]
     ],
     "126205": [
       [
-        "20260702",
-        79.3
-      ],
-      [
         "20260703",
         79.3
       ],
@@ -10689,15 +10651,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        79.5
+      ],
+      [
+        "20260719",
         79.5
       ]
     ],
     "106421": [
       [
-        "20260702",
-        78.5
-      ],
-      [
         "20260703",
         78.5
       ],
@@ -10759,15 +10721,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        78.7
+      ],
+      [
+        "20260719",
         78.7
       ]
     ],
     "200000": [
       [
-        "20260702",
-        77.6
-      ],
-      [
         "20260703",
         77.6
       ],
@@ -10829,15 +10791,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        77.7
+      ],
+      [
+        "20260719",
         77.7
       ]
     ],
     "212588": [
       [
-        "20260702",
-        77.5
-      ],
-      [
         "20260703",
         77.5
       ],
@@ -10899,15 +10861,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        77.7
+      ],
+      [
+        "20260719",
         77.7
       ]
     ],
     "200282": [
       [
-        "20260702",
-        76.9
-      ],
-      [
         "20260703",
         76.9
       ],
@@ -10969,15 +10931,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        77.1
+      ],
+      [
+        "20260719",
         77.1
       ]
     ],
     "210097": [
       [
-        "20260702",
-        76.4
-      ],
-      [
         "20260703",
         76.4
       ],
@@ -11039,15 +11001,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        76.4
+      ],
+      [
+        "20260719",
         76.4
       ]
     ],
     "208103": [
       [
-        "20260702",
-        76.1
-      ],
-      [
         "20260703",
         76.1
       ],
@@ -11109,15 +11071,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        76.4
+      ],
+      [
+        "20260719",
         76.4
       ]
     ],
     "122330": [
       [
-        "20260702",
-        75.9
-      ],
-      [
         "20260703",
         75.9
       ],
@@ -11179,15 +11141,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        76.0
+      ],
+      [
+        "20260719",
         76.0
       ]
     ],
     "126203": [
       [
-        "20260702",
-        75.8
-      ],
-      [
         "20260703",
         75.8
       ],
@@ -11249,15 +11211,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        75.7
+      ],
+      [
+        "20260719",
         75.7
       ]
     ],
     "207925": [
       [
-        "20260702",
-        75.4
-      ],
-      [
         "20260703",
         75.4
       ],
@@ -11319,15 +11281,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        75.6
+      ],
+      [
+        "20260719",
         75.6
       ]
     ],
     "210530": [
       [
-        "20260702",
-        74.8
-      ],
-      [
         "20260703",
         74.8
       ],
@@ -11389,15 +11351,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        75.1
+      ],
+      [
+        "20260719",
         75.1
       ]
     ],
     "126094": [
       [
-        "20260702",
-        75.3
-      ],
-      [
         "20260703",
         75.3
       ],
@@ -11459,15 +11421,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        75.0
+      ],
+      [
+        "20260719",
         75.0
       ]
     ],
     "126207": [
       [
-        "20260702",
-        74.3
-      ],
-      [
         "20260703",
         74.3
       ],
@@ -11529,15 +11491,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        74.6
+      ],
+      [
+        "20260719",
         74.6
       ]
     ],
     "200473": [
       [
-        "20260702",
-        74.6
-      ],
-      [
         "20260703",
         74.6
       ],
@@ -11599,15 +11561,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        74.6
+      ],
+      [
+        "20260719",
         74.6
       ]
     ],
     "202103": [
       [
-        "20260702",
-        73.9
-      ],
-      [
         "20260703",
         73.9
       ],
@@ -11669,15 +11631,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        73.9
+      ],
+      [
+        "20260719",
         73.9
       ]
     ],
     "211663": [
       [
-        "20260702",
-        73.5
-      ],
-      [
         "20260703",
         73.5
       ],
@@ -11739,15 +11701,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        73.6
+      ],
+      [
+        "20260719",
         73.6
       ]
     ],
     "200221": [
       [
-        "20260702",
-        72.6
-      ],
-      [
         "20260703",
         72.6
       ],
@@ -11809,15 +11771,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        73.0
+      ],
+      [
+        "20260719",
         73.0
       ]
     ],
     "210696": [
       [
-        "20260702",
-        72.0
-      ],
-      [
         "20260703",
         72.0
       ],
@@ -11879,15 +11841,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        72.1
+      ],
+      [
+        "20260719",
         72.1
       ]
     ],
     "111575": [
       [
-        "20260702",
-        70.1
-      ],
-      [
         "20260703",
         70.1
       ],
@@ -11949,15 +11911,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        69.8
+      ],
+      [
+        "20260719",
         69.8
       ]
     ],
     "209860": [
       [
-        "20260702",
-        68.3
-      ],
-      [
         "20260703",
         68.3
       ],
@@ -12019,15 +11981,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        68.5
+      ],
+      [
+        "20260719",
         68.5
       ]
     ],
     "206909": [
       [
-        "20260702",
-        67.5
-      ],
-      [
         "20260703",
         67.5
       ],
@@ -12089,15 +12051,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        67.5
+      ],
+      [
+        "20260719",
         67.5
       ]
     ],
     "126610": [
       [
-        "20260702",
-        66.4
-      ],
-      [
         "20260703",
         66.4
       ],
@@ -12159,15 +12121,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        67.4
+      ],
+      [
+        "20260719",
         67.4
       ]
     ],
     "207830": [
       [
-        "20260702",
-        67.2
-      ],
-      [
         "20260703",
         67.2
       ],
@@ -12229,15 +12191,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        66.9
+      ],
+      [
+        "20260719",
         66.9
       ]
     ],
     "200005": [
       [
-        "20260702",
-        66.4
-      ],
-      [
         "20260703",
         66.4
       ],
@@ -12299,15 +12261,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        66.6
+      ],
+      [
+        "20260719",
         66.6
       ]
     ],
     "126214": [
       [
-        "20260702",
-        66.2
-      ],
-      [
         "20260703",
         66.2
       ],
@@ -12369,15 +12331,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        66.4
+      ],
+      [
+        "20260719",
         66.4
       ]
     ],
     "111815": [
       [
-        "20260702",
-        67.2
-      ],
-      [
         "20260703",
         67.2
       ],
@@ -12439,15 +12401,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        66.3
+      ],
+      [
+        "20260719",
         66.3
       ]
     ],
     "209260": [
       [
-        "20260702",
-        66.4
-      ],
-      [
         "20260703",
         66.4
       ],
@@ -12509,15 +12471,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        66.2
+      ],
+      [
+        "20260719",
         66.2
       ]
     ],
     "210506": [
       [
-        "20260702",
-        65.6
-      ],
-      [
         "20260703",
         65.6
       ],
@@ -12579,15 +12541,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        65.7
+      ],
+      [
+        "20260719",
         65.7
       ]
     ],
     "126239": [
       [
-        "20260702",
-        65.5
-      ],
-      [
         "20260703",
         65.5
       ],
@@ -12649,15 +12611,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        65.6
+      ],
+      [
+        "20260719",
         65.6
       ]
     ],
     "207733": [
       [
-        "20260702",
-        65.5
-      ],
-      [
         "20260703",
         65.5
       ],
@@ -12719,15 +12681,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        65.5
+      ],
+      [
+        "20260719",
         65.5
       ]
     ],
     "208286": [
       [
-        "20260702",
-        65.1
-      ],
-      [
         "20260703",
         65.1
       ],
@@ -12789,15 +12751,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        65.3
+      ],
+      [
+        "20260719",
         65.3
       ]
     ],
     "144869": [
       [
-        "20260702",
-        64.9
-      ],
-      [
         "20260703",
         64.9
       ],
@@ -12859,15 +12821,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        65.2
+      ],
+      [
+        "20260719",
         65.2
       ]
     ],
     "202058": [
       [
-        "20260702",
-        65.6
-      ],
-      [
         "20260703",
         65.6
       ],
@@ -12929,15 +12891,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        65.1
+      ],
+      [
+        "20260719",
         65.1
       ]
     ],
     "144719": [
       [
-        "20260702",
-        64.3
-      ],
-      [
         "20260703",
         64.3
       ],
@@ -12999,15 +12961,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        64.4
+      ],
+      [
+        "20260719",
         64.4
       ]
     ],
     "134868": [
       [
-        "20260702",
-        64.0
-      ],
-      [
         "20260703",
         64.0
       ],
@@ -13069,15 +13031,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        64.2
+      ],
+      [
+        "20260719",
         64.2
       ]
     ],
     "208363": [
       [
-        "20260702",
-        65.0
-      ],
-      [
         "20260703",
         65.0
       ],
@@ -13139,15 +13101,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        64.0
+      ],
+      [
+        "20260719",
         64.0
       ]
     ],
     "209920": [
       [
-        "20260702",
-        63.4
-      ],
-      [
         "20260703",
         63.4
       ],
@@ -13209,15 +13171,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        63.6
+      ],
+      [
+        "20260719",
         63.6
       ]
     ],
     "209098": [
       [
-        "20260702",
-        63.4
-      ],
-      [
         "20260703",
         63.4
       ],
@@ -13279,15 +13241,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        63.4
+      ],
+      [
+        "20260719",
         63.4
       ]
     ],
     "128034": [
       [
-        "20260702",
-        60.0
-      ],
-      [
         "20260703",
         60.0
       ],
@@ -13349,15 +13311,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        63.2
+      ],
+      [
+        "20260719",
         63.2
       ]
     ],
     "210084": [
       [
-        "20260702",
-        62.8
-      ],
-      [
         "20260703",
         62.8
       ],
@@ -13419,15 +13381,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        62.8
+      ],
+      [
+        "20260719",
         62.8
       ]
     ],
     "105870": [
       [
-        "20260702",
-        62.0
-      ],
-      [
         "20260703",
         62.0
       ],
@@ -13489,15 +13451,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        62.7
+      ],
+      [
+        "20260719",
         62.7
       ]
     ],
     "144684": [
       [
-        "20260702",
-        62.5
-      ],
-      [
         "20260703",
         62.5
       ],
@@ -13559,15 +13521,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        62.6
+      ],
+      [
+        "20260719",
         62.6
       ]
     ],
     "122298": [
       [
-        "20260702",
-        62.2
-      ],
-      [
         "20260703",
         62.2
       ],
@@ -13629,15 +13591,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        62.2
+      ],
+      [
+        "20260719",
         62.2
       ]
     ],
     "144895": [
       [
-        "20260702",
-        62.0
-      ],
-      [
         "20260703",
         62.0
       ],
@@ -13699,15 +13661,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        62.1
+      ],
+      [
+        "20260719",
         62.1
       ]
     ],
     "200267": [
       [
-        "20260702",
-        61.6
-      ],
-      [
         "20260703",
         61.6
       ],
@@ -13769,15 +13731,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        61.9
+      ],
+      [
+        "20260719",
         61.9
       ]
     ],
     "132686": [
       [
-        "20260702",
-        61.9
-      ],
-      [
         "20260703",
         61.9
       ],
@@ -13839,15 +13801,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        61.5
+      ],
+      [
+        "20260719",
         61.5
       ]
     ],
     "209226": [
       [
-        "20260702",
-        61.1
-      ],
-      [
         "20260703",
         61.1
       ],
@@ -13909,15 +13871,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        61.3
+      ],
+      [
+        "20260719",
         61.3
       ]
     ],
     "126774": [
       [
-        "20260702",
-        61.1
-      ],
-      [
         "20260703",
         61.1
       ],
@@ -13979,15 +13941,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        61.3
+      ],
+      [
+        "20260719",
         61.3
       ]
     ],
     "207678": [
       [
-        "20260702",
-        61.4
-      ],
-      [
         "20260703",
         61.4
       ],
@@ -14049,15 +14011,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        61.1
+      ],
+      [
+        "20260719",
         61.1
       ]
     ],
     "209414": [
       [
-        "20260702",
-        61.2
-      ],
-      [
         "20260703",
         61.2
       ],
@@ -14119,15 +14081,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        60.7
+      ],
+      [
+        "20260719",
         60.7
       ]
     ],
     "133430": [
       [
-        "20260702",
-        60.1
-      ],
-      [
         "20260703",
         60.1
       ],
@@ -14189,15 +14151,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        60.4
+      ],
+      [
+        "20260719",
         60.4
       ]
     ],
     "206681": [
       [
-        "20260702",
-        60.4
-      ],
-      [
         "20260703",
         60.4
       ],
@@ -14259,15 +14221,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        60.3
+      ],
+      [
+        "20260719",
         60.3
       ]
     ],
     "200240": [
       [
-        "20260702",
-        60.1
-      ],
-      [
         "20260703",
         60.1
       ],
@@ -14329,15 +14291,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        60.1
+      ],
+      [
+        "20260719",
         60.1
       ]
     ],
     "209279": [
       [
-        "20260702",
-        59.1
-      ],
-      [
         "20260703",
         59.1
       ],
@@ -14399,15 +14361,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        59.4
+      ],
+      [
+        "20260719",
         59.4
       ]
     ],
     "202104": [
       [
-        "20260702",
-        59.1
-      ],
-      [
         "20260703",
         59.1
       ],
@@ -14469,15 +14431,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        59.3
+      ],
+      [
+        "20260719",
         59.3
       ]
     ],
     "208118": [
       [
-        "20260702",
-        58.8
-      ],
-      [
         "20260703",
         58.8
       ],
@@ -14539,15 +14501,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        58.5
+      ],
+      [
+        "20260719",
         58.5
       ]
     ],
     "202385": [
       [
-        "20260702",
-        57.7
-      ],
-      [
         "20260703",
         57.7
       ],
@@ -14609,15 +14571,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        58.3
+      ],
+      [
+        "20260719",
         58.3
       ]
     ],
     "200116": [
       [
-        "20260702",
-        58.0
-      ],
-      [
         "20260703",
         58.0
       ],
@@ -14679,15 +14641,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        58.2
+      ],
+      [
+        "20260719",
         58.2
       ]
     ],
     "208882": [
       [
-        "20260702",
-        58.3
-      ],
-      [
         "20260703",
         58.3
       ],
@@ -14749,15 +14711,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        58.2
+      ],
+      [
+        "20260719",
         58.2
       ]
     ],
     "111794": [
       [
-        "20260702",
-        60.3
-      ],
-      [
         "20260703",
         60.3
       ],
@@ -14819,15 +14781,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        58.0
+      ],
+      [
+        "20260719",
         58.0
       ]
     ],
     "211776": [
       [
-        "20260702",
-        58.0
-      ],
-      [
         "20260703",
         58.0
       ],
@@ -14889,15 +14851,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        57.8
+      ],
+      [
+        "20260719",
         57.8
       ]
     ],
     "105916": [
       [
-        "20260702",
-        58.0
-      ],
-      [
         "20260703",
         58.0
       ],
@@ -14959,15 +14921,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        57.8
+      ],
+      [
+        "20260719",
         57.8
       ]
     ],
     "105526": [
       [
-        "20260702",
-        53.8
-      ],
-      [
         "20260703",
         53.8
       ],
@@ -15029,15 +14991,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        57.6
+      ],
+      [
+        "20260719",
         57.6
       ]
     ],
     "126504": [
       [
-        "20260702",
-        57.4
-      ],
-      [
         "20260703",
         57.4
       ],
@@ -15099,15 +15061,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        57.5
+      ],
+      [
+        "20260719",
         57.5
       ]
     ],
     "200059": [
       [
-        "20260702",
-        57.4
-      ],
-      [
         "20260703",
         57.4
       ],
@@ -15169,15 +15131,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        57.4
+      ],
+      [
+        "20260719",
         57.4
       ]
     ],
     "105227": [
       [
-        "20260702",
-        60.2
-      ],
-      [
         "20260703",
         60.2
       ],
@@ -15239,15 +15201,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        57.3
+      ],
+      [
+        "20260719",
         57.3
       ]
     ],
     "200175": [
       [
-        "20260702",
-        57.6
-      ],
-      [
         "20260703",
         57.6
       ],
@@ -15309,15 +15271,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        56.6
+      ],
+      [
+        "20260719",
         56.6
       ]
     ],
     "209976": [
       [
-        "20260702",
-        55.9
-      ],
-      [
         "20260703",
         55.9
       ],
@@ -15379,15 +15341,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        56.6
+      ],
+      [
+        "20260719",
         56.6
       ]
     ],
     "208169": [
       [
-        "20260702",
-        56.5
-      ],
-      [
         "20260703",
         56.5
       ],
@@ -15449,15 +15411,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        56.6
+      ],
+      [
+        "20260719",
         56.6
       ]
     ],
     "105807": [
       [
-        "20260702",
-        55.8
-      ],
-      [
         "20260703",
         55.8
       ],
@@ -15519,15 +15481,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        56.5
+      ],
+      [
+        "20260719",
         56.5
       ]
     ],
     "207411": [
       [
-        "20260702",
-        56.3
-      ],
-      [
         "20260703",
         56.3
       ],
@@ -15589,15 +15551,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        56.4
+      ],
+      [
+        "20260719",
         56.4
       ]
     ],
     "208260": [
       [
-        "20260702",
-        56.9
-      ],
-      [
         "20260703",
         56.9
       ],
@@ -15659,15 +15621,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        56.3
+      ],
+      [
+        "20260719",
         56.3
       ]
     ],
     "209113": [
       [
-        "20260702",
-        56.6
-      ],
-      [
         "20260703",
         56.6
       ],
@@ -15729,15 +15691,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        56.2
+      ],
+      [
+        "20260719",
         56.2
       ]
     ],
     "120770": [
       [
-        "20260702",
-        55.4
-      ],
-      [
         "20260703",
         55.4
       ],
@@ -15799,15 +15761,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        55.7
+      ],
+      [
+        "20260719",
         55.7
       ]
     ],
     "208010": [
       [
-        "20260702",
-        55.1
-      ],
-      [
         "20260703",
         55.1
       ],
@@ -15869,15 +15831,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        55.2
+      ],
+      [
+        "20260719",
         55.2
       ]
     ],
     "127157": [
       [
-        "20260702",
-        54.7
-      ],
-      [
         "20260703",
         54.7
       ],
@@ -15939,15 +15901,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        55.0
+      ],
+      [
+        "20260719",
         55.0
       ]
     ],
     "200624": [
       [
-        "20260702",
-        55.0
-      ],
-      [
         "20260703",
         55.0
       ],
@@ -16009,15 +15971,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        55.0
+      ],
+      [
+        "20260719",
         55.0
       ]
     ],
     "210338": [
       [
-        "20260702",
-        54.8
-      ],
-      [
         "20260703",
         54.8
       ],
@@ -16079,15 +16041,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        55.0
+      ],
+      [
+        "20260719",
         55.0
       ]
     ],
     "132283": [
       [
-        "20260702",
-        56.2
-      ],
-      [
         "20260703",
         56.2
       ],
@@ -16149,15 +16111,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        54.7
+      ],
+      [
+        "20260719",
         54.7
       ]
     ],
     "106218": [
       [
-        "20260702",
-        54.0
-      ],
-      [
         "20260703",
         54.0
       ],
@@ -16219,15 +16181,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        54.6
+      ],
+      [
+        "20260719",
         54.6
       ]
     ],
     "111460": [
       [
-        "20260702",
-        54.0
-      ],
-      [
         "20260703",
         54.0
       ],
@@ -16289,15 +16251,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        54.6
+      ],
+      [
+        "20260719",
         54.6
       ]
     ],
     "105173": [
       [
-        "20260702",
-        55.1
-      ],
-      [
         "20260703",
         55.1
       ],
@@ -16359,15 +16321,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        54.3
+      ],
+      [
+        "20260719",
         54.3
       ]
     ],
     "208029": [
       [
-        "20260702",
-        54.7
-      ],
-      [
         "20260703",
         54.7
       ],
@@ -16429,15 +16391,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        54.3
+      ],
+      [
+        "20260719",
         54.3
       ]
     ],
     "206499": [
       [
-        "20260702",
-        54.1
-      ],
-      [
         "20260703",
         54.1
       ],
@@ -16499,15 +16461,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        54.2
+      ],
+      [
+        "20260719",
         54.2
       ]
     ],
     "200615": [
       [
-        "20260702",
-        54.0
-      ],
-      [
         "20260703",
         54.0
       ],
@@ -16569,15 +16531,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        54.0
+      ],
+      [
+        "20260719",
         54.0
       ]
     ],
     "210262": [
       [
-        "20260702",
-        53.2
-      ],
-      [
         "20260703",
         53.2
       ],
@@ -16639,15 +16601,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        53.9
+      ],
+      [
+        "20260719",
         53.9
       ]
     ],
     "209147": [
       [
-        "20260702",
-        53.8
-      ],
-      [
         "20260703",
         53.8
       ],
@@ -16709,15 +16671,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        53.9
+      ],
+      [
+        "20260719",
         53.9
       ]
     ],
     "206736": [
       [
-        "20260702",
-        53.6
-      ],
-      [
         "20260703",
         53.6
       ],
@@ -16779,15 +16741,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        53.7
+      ],
+      [
+        "20260719",
         53.7
       ]
     ],
     "126127": [
       [
-        "20260702",
-        54.2
-      ],
-      [
         "20260703",
         54.2
       ],
@@ -16849,15 +16811,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        53.5
+      ],
+      [
+        "20260719",
         53.5
       ]
     ],
     "208597": [
       [
-        "20260702",
-        53.4
-      ],
-      [
         "20260703",
         53.4
       ],
@@ -16919,15 +16881,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        53.5
+      ],
+      [
+        "20260719",
         53.5
       ]
     ],
     "105882": [
       [
-        "20260702",
-        53.4
-      ],
-      [
         "20260703",
         53.4
       ],
@@ -16989,15 +16951,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        53.5
+      ],
+      [
+        "20260719",
         53.5
       ]
     ],
     "124187": [
       [
-        "20260702",
-        53.0
-      ],
-      [
         "20260703",
         53.0
       ],
@@ -17059,15 +17021,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        53.1
+      ],
+      [
+        "20260719",
         53.1
       ]
     ],
     "207494": [
       [
-        "20260702",
-        52.9
-      ],
-      [
         "20260703",
         52.9
       ],
@@ -17129,15 +17091,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        53.0
+      ],
+      [
+        "20260719",
         53.0
       ]
     ],
     "210319": [
       [
-        "20260702",
-        52.8
-      ],
-      [
         "20260703",
         52.8
       ],
@@ -17199,15 +17161,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        52.8
+      ],
+      [
+        "20260719",
         52.8
       ]
     ],
     "208233": [
       [
-        "20260702",
-        54.3
-      ],
-      [
         "20260703",
         54.3
       ],
@@ -17269,15 +17231,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        52.8
+      ],
+      [
+        "20260719",
         52.8
       ]
     ],
     "207686": [
       [
-        "20260702",
-        52.3
-      ],
-      [
         "20260703",
         52.3
       ],
@@ -17339,15 +17301,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        52.2
+      ],
+      [
+        "20260719",
         52.2
       ]
     ],
     "105777": [
       [
-        "20260702",
-        52.2
-      ],
-      [
         "20260703",
         52.2
       ],
@@ -17409,15 +17371,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        52.2
+      ],
+      [
+        "20260719",
         52.2
       ]
     ],
     "124186": [
       [
-        "20260702",
-        51.7
-      ],
-      [
         "20260703",
         51.7
       ],
@@ -17479,15 +17441,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        51.8
+      ],
+      [
+        "20260719",
         51.8
       ]
     ],
     "210116": [
       [
-        "20260702",
-        51.6
-      ],
-      [
         "20260703",
         51.6
       ],
@@ -17549,15 +17511,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        51.7
+      ],
+      [
+        "20260719",
         51.7
       ]
     ],
     "105477": [
       [
-        "20260702",
-        51.7
-      ],
-      [
         "20260703",
         51.7
       ],
@@ -17619,15 +17581,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        51.2
+      ],
+      [
+        "20260719",
         51.2
       ]
     ],
     "208353": [
       [
-        "20260702",
-        50.9
-      ],
-      [
         "20260703",
         50.9
       ],
@@ -17689,15 +17651,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        51.0
+      ],
+      [
+        "20260719",
         51.0
       ]
     ],
     "207681": [
       [
-        "20260702",
-        51.2
-      ],
-      [
         "20260703",
         51.2
       ],
@@ -17759,15 +17721,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        50.9
+      ],
+      [
+        "20260719",
         50.9
       ]
     ],
     "207182": [
       [
-        "20260702",
-        51.3
-      ],
-      [
         "20260703",
         51.3
       ],
@@ -17829,15 +17791,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        50.8
+      ],
+      [
+        "20260719",
         50.8
       ]
     ],
     "200443": [
       [
-        "20260702",
-        49.8
-      ],
-      [
         "20260703",
         49.8
       ],
@@ -17899,15 +17861,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        50.6
+      ],
+      [
+        "20260719",
         50.6
       ]
     ],
     "105932": [
       [
-        "20260702",
-        50.6
-      ],
-      [
         "20260703",
         50.6
       ],
@@ -17969,15 +17931,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        50.6
+      ],
+      [
+        "20260719",
         50.6
       ]
     ],
     "210460": [
       [
-        "20260702",
-        50.6
-      ],
-      [
         "20260703",
         50.6
       ],
@@ -18039,15 +18001,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        50.6
+      ],
+      [
+        "20260719",
         50.6
       ]
     ],
     "102093": [
       [
-        "20260702",
-        50.2
-      ],
-      [
         "20260703",
         50.2
       ],
@@ -18109,15 +18071,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        50.3
+      ],
+      [
+        "20260719",
         50.3
       ]
     ],
     "208659": [
       [
-        "20260702",
-        50.6
-      ],
-      [
         "20260703",
         50.6
       ],
@@ -18179,15 +18141,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        50.0
+      ],
+      [
+        "20260719",
         50.0
       ]
     ],
     "126128": [
       [
-        "20260702",
-        48.7
-      ],
-      [
         "20260703",
         48.7
       ],
@@ -18249,15 +18211,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        49.2
+      ],
+      [
+        "20260719",
         49.2
       ]
     ],
     "207680": [
       [
-        "20260702",
-        49.2
-      ],
-      [
         "20260703",
         49.2
       ],
@@ -18319,15 +18281,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        49.2
+      ],
+      [
+        "20260719",
         49.2
       ]
     ],
     "209259": [
       [
-        "20260702",
-        41.1
-      ],
-      [
         "20260703",
         41.1
       ],
@@ -18389,15 +18351,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        48.4
+      ],
+      [
+        "20260719",
         48.4
       ]
     ],
     "105902": [
       [
-        "20260702",
-        47.7
-      ],
-      [
         "20260703",
         47.7
       ],
@@ -18459,15 +18421,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        48.3
+      ],
+      [
+        "20260719",
         48.3
       ]
     ],
     "208014": [
       [
-        "20260702",
-        49.9
-      ],
-      [
         "20260703",
         49.9
       ],
@@ -18529,15 +18491,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        48.3
+      ],
+      [
+        "20260719",
         48.3
       ]
     ],
     "106000": [
       [
-        "20260702",
-        48.0
-      ],
-      [
         "20260703",
         48.0
       ],
@@ -18599,6 +18561,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        48.0
+      ],
+      [
+        "20260719",
         48.0
       ]
     ],
@@ -18630,13 +18596,13 @@ window.TENNIS_DATA = {
       [
         "20260718",
         47.9
+      ],
+      [
+        "20260719",
+        47.9
       ]
     ],
     "208021": [
-      [
-        "20260702",
-        47.8
-      ],
       [
         "20260703",
         47.8
@@ -18699,15 +18665,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        47.9
+      ],
+      [
+        "20260719",
         47.9
       ]
     ],
     "200514": [
       [
-        "20260702",
-        47.8
-      ],
-      [
         "20260703",
         47.8
       ],
@@ -18769,15 +18735,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        47.8
+      ],
+      [
+        "20260719",
         47.8
       ]
     ],
     "210389": [
       [
-        "20260702",
-        47.6
-      ],
-      [
         "20260703",
         47.6
       ],
@@ -18839,15 +18805,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        47.6
+      ],
+      [
+        "20260719",
         47.6
       ]
     ],
     "106426": [
       [
-        "20260702",
-        47.2
-      ],
-      [
         "20260703",
         47.2
       ],
@@ -18909,15 +18875,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        47.3
+      ],
+      [
+        "20260719",
         47.3
       ]
     ],
     "149282": [
       [
-        "20260702",
-        46.4
-      ],
-      [
         "20260703",
         46.4
       ],
@@ -18979,15 +18945,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        46.5
+      ],
+      [
+        "20260719",
         46.5
       ]
     ],
     "126846": [
       [
-        "20260702",
-        45.7
-      ],
-      [
         "20260703",
         45.7
       ],
@@ -19049,15 +19015,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        45.7
+      ],
+      [
+        "20260719",
         45.7
       ]
     ],
     "208316": [
       [
-        "20260702",
-        45.7
-      ],
-      [
         "20260703",
         45.7
       ],
@@ -19119,15 +19085,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        45.6
+      ],
+      [
+        "20260719",
         45.6
       ]
     ],
     "210012": [
       [
-        "20260702",
-        44.7
-      ],
-      [
         "20260703",
         44.7
       ],
@@ -19189,15 +19155,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        44.8
+      ],
+      [
+        "20260719",
         44.8
       ]
     ],
     "209070": [
       [
-        "20260702",
-        46.7
-      ],
-      [
         "20260703",
         46.7
       ],
@@ -19259,15 +19225,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        44.5
+      ],
+      [
+        "20260719",
         44.5
       ]
     ],
     "104527": [
       [
-        "20260702",
-        44.6
-      ],
-      [
         "20260703",
         44.6
       ],
@@ -19329,15 +19295,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        44.5
+      ],
+      [
+        "20260719",
         44.5
       ]
     ],
     "209857": [
       [
-        "20260702",
-        44.2
-      ],
-      [
         "20260703",
         44.2
       ],
@@ -19399,15 +19365,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        44.3
+      ],
+      [
+        "20260719",
         44.3
       ]
     ],
     "124116": [
       [
-        "20260702",
-        44.2
-      ],
-      [
         "20260703",
         44.2
       ],
@@ -19469,15 +19435,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        44.1
+      ],
+      [
+        "20260719",
         44.1
       ]
     ],
     "200384": [
       [
-        "20260702",
-        42.6
-      ],
-      [
         "20260703",
         42.6
       ],
@@ -19539,6 +19505,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        42.6
+      ],
+      [
+        "20260719",
         42.6
       ]
     ],
@@ -19570,13 +19540,13 @@ window.TENNIS_DATA = {
       [
         "20260718",
         42.5
+      ],
+      [
+        "20260719",
+        42.5
       ]
     ],
     "200516": [
-      [
-        "20260702",
-        40.6
-      ],
       [
         "20260703",
         40.6
@@ -19639,15 +19609,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        40.6
+      ],
+      [
+        "20260719",
         40.6
       ]
     ],
     "208852": [
       [
-        "20260702",
-        40.5
-      ],
-      [
         "20260703",
         40.5
       ],
@@ -19709,15 +19679,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        40.6
+      ],
+      [
+        "20260719",
         40.6
       ]
     ],
     "202261": [
       [
-        "20260702",
-        40.3
-      ],
-      [
         "20260703",
         40.3
       ],
@@ -19779,15 +19749,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        40.3
+      ],
+      [
+        "20260719",
         40.3
       ]
     ],
     "123828": [
       [
-        "20260702",
-        36.1
-      ],
-      [
         "20260703",
         36.1
       ],
@@ -19849,15 +19819,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        39.1
+      ],
+      [
+        "20260719",
         39.1
       ]
     ],
     "111456": [
       [
-        "20260702",
-        39.0
-      ],
-      [
         "20260703",
         39.0
       ],
@@ -19919,15 +19889,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        39.1
+      ],
+      [
+        "20260719",
         39.1
       ]
     ],
     "208013": [
       [
-        "20260702",
-        36.2
-      ],
-      [
         "20260703",
         36.2
       ],
@@ -19989,15 +19959,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        36.2
+      ],
+      [
+        "20260719",
         36.2
       ]
     ],
     "208361": [
       [
-        "20260702",
-        35.6
-      ],
-      [
         "20260703",
         35.6
       ],
@@ -20059,15 +20029,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        35.8
+      ],
+      [
+        "20260719",
         35.8
       ]
     ],
     "200647": [
       [
-        "20260702",
-        35.0
-      ],
-      [
         "20260703",
         35.0
       ],
@@ -20129,15 +20099,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        35.0
+      ],
+      [
+        "20260719",
         35.0
       ]
     ],
     "207352": [
       [
-        "20260702",
-        35.0
-      ],
-      [
         "20260703",
         35.0
       ],
@@ -20199,6 +20169,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        35.0
+      ],
+      [
+        "20260719",
         35.0
       ]
     ],
@@ -20230,6 +20204,10 @@ window.TENNIS_DATA = {
       [
         "20260718",
         35.0
+      ],
+      [
+        "20260719",
+        35.0
       ]
     ],
     "200436": [
@@ -20259,6 +20237,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        35.0
+      ],
+      [
+        "20260719",
         35.0
       ]
     ],
@@ -20290,13 +20272,13 @@ window.TENNIS_DATA = {
       [
         "20260718",
         35.0
+      ],
+      [
+        "20260719",
+        35.0
       ]
     ],
     "144642": [
-      [
-        "20260702",
-        35.0
-      ],
       [
         "20260703",
         35.0
@@ -20359,15 +20341,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        35.0
+      ],
+      [
+        "20260719",
         35.0
       ]
     ],
     "209262": [
       [
-        "20260702",
-        35.0
-      ],
-      [
         "20260703",
         35.0
       ],
@@ -20429,6 +20411,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        35.0
+      ],
+      [
+        "20260719",
         35.0
       ]
     ]
@@ -20436,10 +20422,6 @@ window.TENNIS_DATA = {
   "WTA_SCORE_LOG": {
     "214544": [
       [
-        "20260702",
-        100.0
-      ],
-      [
         "20260703",
         100.0
       ],
@@ -20501,15 +20483,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        100.0
+      ],
+      [
+        "20260719",
         100.0
       ]
     ],
     "214981": [
       [
-        "20260702",
-        93.3
-      ],
-      [
         "20260703",
         93.3
       ],
@@ -20571,15 +20553,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        93.2
+      ],
+      [
+        "20260719",
         93.2
       ]
     ],
     "259799": [
       [
-        "20260702",
-        92.1
-      ],
-      [
         "20260703",
         92.1
       ],
@@ -20641,15 +20623,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        92.1
+      ],
+      [
+        "20260719",
         92.1
       ]
     ],
     "221103": [
       [
-        "20260702",
-        91.1
-      ],
-      [
         "20260703",
         91.1
       ],
@@ -20711,15 +20693,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        91.4
+      ],
+      [
+        "20260719",
         91.4
       ]
     ],
     "216347": [
       [
-        "20260702",
-        91.4
-      ],
-      [
         "20260703",
         91.4
       ],
@@ -20781,15 +20763,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        90.8
+      ],
+      [
+        "20260719",
         90.8
       ]
     ],
     "216146": [
       [
-        "20260702",
-        90.4
-      ],
-      [
         "20260703",
         90.4
       ],
@@ -20851,15 +20833,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        90.6
+      ],
+      [
+        "20260719",
         90.6
       ]
     ],
     "202468": [
       [
-        "20260702",
-        90.2
-      ],
-      [
         "20260703",
         90.2
       ],
@@ -20921,15 +20903,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        90.3
+      ],
+      [
+        "20260719",
         90.3
       ]
     ],
     "202494": [
       [
-        "20260702",
-        90.5
-      ],
-      [
         "20260703",
         90.5
       ],
@@ -20991,15 +20973,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        90.1
+      ],
+      [
+        "20260719",
         90.1
       ]
     ],
     "214096": [
       [
-        "20260702",
-        85.9
-      ],
-      [
         "20260703",
         85.9
       ],
@@ -21061,15 +21043,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        86.3
+      ],
+      [
+        "20260719",
         86.3
       ]
     ],
     "216153": [
       [
-        "20260702",
-        86.6
-      ],
-      [
         "20260703",
         86.6
       ],
@@ -21131,15 +21113,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        86.1
+      ],
+      [
+        "20260719",
         86.1
       ]
     ],
     "201514": [
       [
-        "20260702",
-        85.9
-      ],
-      [
         "20260703",
         85.9
       ],
@@ -21201,15 +21183,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        85.9
+      ],
+      [
+        "20260719",
         85.9
       ]
     ],
     "239475": [
       [
-        "20260702",
-        85.2
-      ],
-      [
         "20260703",
         85.2
       ],
@@ -21271,15 +21253,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        84.9
+      ],
+      [
+        "20260719",
         84.9
       ]
     ],
     "202505": [
       [
-        "20260702",
-        84.9
-      ],
-      [
         "20260703",
         84.9
       ],
@@ -21341,15 +21323,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        84.5
+      ],
+      [
+        "20260719",
         84.5
       ]
     ],
     "201619": [
       [
-        "20260702",
-        81.3
-      ],
-      [
         "20260703",
         81.3
       ],
@@ -21411,15 +21393,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        81.0
+      ],
+      [
+        "20260719",
         81.0
       ]
     ],
     "216081": [
       [
-        "20260702",
-        81.1
-      ],
-      [
         "20260703",
         81.1
       ],
@@ -21481,15 +21463,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        80.8
+      ],
+      [
+        "20260719",
         80.8
       ]
     ],
     "211768": [
       [
-        "20260702",
-        80.3
-      ],
-      [
         "20260703",
         80.3
       ],
@@ -21551,15 +21533,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        80.4
+      ],
+      [
+        "20260719",
         80.4
       ]
     ],
     "215713": [
       [
-        "20260702",
-        80.1
-      ],
-      [
         "20260703",
         80.1
       ],
@@ -21621,15 +21603,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        80.1
+      ],
+      [
+        "20260719",
         80.1
       ]
     ],
     "222328": [
       [
-        "20260702",
-        78.7
-      ],
-      [
         "20260703",
         78.7
       ],
@@ -21691,15 +21673,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        79.2
+      ],
+      [
+        "20260719",
         79.2
       ]
     ],
     "214939": [
       [
-        "20260702",
-        77.0
-      ],
-      [
         "20260703",
         77.0
       ],
@@ -21761,15 +21743,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        76.9
+      ],
+      [
+        "20260719",
         76.9
       ]
     ],
     "210722": [
       [
-        "20260702",
-        76.6
-      ],
-      [
         "20260703",
         76.6
       ],
@@ -21831,15 +21813,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        76.8
+      ],
+      [
+        "20260719",
         76.8
       ]
     ],
     "260300": [
       [
-        "20260702",
-        76.6
-      ],
-      [
         "20260703",
         76.6
       ],
@@ -21901,15 +21883,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        76.5
+      ],
+      [
+        "20260719",
         76.5
       ]
     ],
     "223670": [
       [
-        "20260702",
-        76.4
-      ],
-      [
         "20260703",
         76.4
       ],
@@ -21971,15 +21953,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        76.0
+      ],
+      [
+        "20260719",
         76.0
       ]
     ],
     "201662": [
       [
-        "20260702",
-        73.8
-      ],
-      [
         "20260703",
         73.8
       ],
@@ -22041,15 +22023,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        74.7
+      ],
+      [
+        "20260719",
         74.7
       ]
     ],
     "211148": [
       [
-        "20260702",
-        74.3
-      ],
-      [
         "20260703",
         74.3
       ],
@@ -22111,15 +22093,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        74.5
+      ],
+      [
+        "20260719",
         74.5
       ]
     ],
     "213631": [
       [
-        "20260702",
-        73.1
-      ],
-      [
         "20260703",
         73.1
       ],
@@ -22181,15 +22163,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        73.1
+      ],
+      [
+        "20260719",
         73.1
       ]
     ],
     "206252": [
       [
-        "20260702",
-        71.8
-      ],
-      [
         "20260703",
         71.8
       ],
@@ -22251,15 +22233,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        72.4
+      ],
+      [
+        "20260719",
         72.4
       ]
     ],
     "211533": [
       [
-        "20260702",
-        72.0
-      ],
-      [
         "20260703",
         72.0
       ],
@@ -22321,15 +22303,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        72.1
+      ],
+      [
+        "20260719",
         72.1
       ]
     ],
     "215613": [
       [
-        "20260702",
-        72.1
-      ],
-      [
         "20260703",
         72.1
       ],
@@ -22391,15 +22373,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        72.0
+      ],
+      [
+        "20260719",
         72.0
       ]
     ],
     "221024": [
       [
-        "20260702",
-        71.3
-      ],
-      [
         "20260703",
         71.3
       ],
@@ -22461,15 +22443,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        70.8
+      ],
+      [
+        "20260719",
         70.8
       ]
     ],
     "206420": [
       [
-        "20260702",
-        70.0
-      ],
-      [
         "20260703",
         70.0
       ],
@@ -22531,15 +22513,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        69.8
+      ],
+      [
+        "20260719",
         69.8
       ]
     ],
     "220367": [
       [
-        "20260702",
-        69.4
-      ],
-      [
         "20260703",
         69.4
       ],
@@ -22601,15 +22583,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        69.2
+      ],
+      [
+        "20260719",
         69.2
       ]
     ],
     "211713": [
       [
-        "20260702",
-        69.3
-      ],
-      [
         "20260703",
         69.3
       ],
@@ -22671,15 +22653,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        69.2
+      ],
+      [
+        "20260719",
         69.2
       ]
     ],
     "223253": [
       [
-        "20260702",
-        68.5
-      ],
-      [
         "20260703",
         68.5
       ],
@@ -22741,15 +22723,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        68.8
+      ],
+      [
+        "20260719",
         68.8
       ]
     ],
     "220520": [
       [
-        "20260702",
-        67.0
-      ],
-      [
         "20260703",
         67.0
       ],
@@ -22811,15 +22793,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        68.2
+      ],
+      [
+        "20260719",
         68.2
       ]
     ],
     "215983": [
       [
-        "20260702",
-        68.0
-      ],
-      [
         "20260703",
         68.0
       ],
@@ -22881,15 +22863,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        67.6
+      ],
+      [
+        "20260719",
         67.6
       ]
     ],
     "215785": [
       [
-        "20260702",
-        65.8
-      ],
-      [
         "20260703",
         65.8
       ],
@@ -22951,15 +22933,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        67.5
+      ],
+      [
+        "20260719",
         67.5
       ]
     ],
     "221012": [
       [
-        "20260702",
-        67.6
-      ],
-      [
         "20260703",
         67.6
       ],
@@ -23021,15 +23003,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        67.4
+      ],
+      [
+        "20260719",
         67.4
       ]
     ],
     "220548": [
       [
-        "20260702",
-        67.0
-      ],
-      [
         "20260703",
         67.0
       ],
@@ -23091,15 +23073,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        67.1
+      ],
+      [
+        "20260719",
         67.1
       ]
     ],
     "220704": [
       [
-        "20260702",
-        67.7
-      ],
-      [
         "20260703",
         67.7
       ],
@@ -23161,15 +23143,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        66.9
+      ],
+      [
+        "20260719",
         66.9
       ]
     ],
     "221054": [
       [
-        "20260702",
-        66.9
-      ],
-      [
         "20260703",
         66.9
       ],
@@ -23231,15 +23213,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        66.1
+      ],
+      [
+        "20260719",
         66.1
       ]
     ],
     "206289": [
       [
-        "20260702",
-        65.3
-      ],
-      [
         "20260703",
         65.3
       ],
@@ -23301,15 +23283,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        65.8
+      ],
+      [
+        "20260719",
         65.8
       ]
     ],
     "220348": [
       [
-        "20260702",
-        66.4
-      ],
-      [
         "20260703",
         66.4
       ],
@@ -23371,15 +23353,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        65.5
+      ],
+      [
+        "20260719",
         65.5
       ]
     ],
     "223360": [
       [
-        "20260702",
-        64.8
-      ],
-      [
         "20260703",
         64.8
       ],
@@ -23441,15 +23423,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        65.2
+      ],
+      [
+        "20260719",
         65.2
       ]
     ],
     "202663": [
       [
-        "20260702",
-        64.3
-      ],
-      [
         "20260703",
         64.3
       ],
@@ -23511,15 +23493,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        65.0
+      ],
+      [
+        "20260719",
         65.0
       ]
     ],
     "211701": [
       [
-        "20260702",
-        64.6
-      ],
-      [
         "20260703",
         64.6
       ],
@@ -23581,15 +23563,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        64.7
+      ],
+      [
+        "20260719",
         64.7
       ]
     ],
     "220716": [
       [
-        "20260702",
-        64.4
-      ],
-      [
         "20260703",
         64.4
       ],
@@ -23651,15 +23633,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        64.4
+      ],
+      [
+        "20260719",
         64.4
       ]
     ],
     "211107": [
       [
-        "20260702",
-        65.5
-      ],
-      [
         "20260703",
         65.5
       ],
@@ -23721,15 +23703,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        64.4
+      ],
+      [
+        "20260719",
         64.4
       ]
     ],
     "239383": [
       [
-        "20260702",
-        63.8
-      ],
-      [
         "20260703",
         63.8
       ],
@@ -23791,15 +23773,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        64.1
+      ],
+      [
+        "20260719",
         64.1
       ]
     ],
     "238184": [
       [
-        "20260702",
-        62.5
-      ],
-      [
         "20260703",
         62.5
       ],
@@ -23861,15 +23843,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        62.9
+      ],
+      [
+        "20260719",
         62.9
       ]
     ],
     "220714": [
       [
-        "20260702",
-        65.7
-      ],
-      [
         "20260703",
         65.7
       ],
@@ -23931,15 +23913,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        62.8
+      ],
+      [
+        "20260719",
         62.8
       ]
     ],
     "203501": [
       [
-        "20260702",
-        63.0
-      ],
-      [
         "20260703",
         63.0
       ],
@@ -24001,15 +23983,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        62.7
+      ],
+      [
+        "20260719",
         62.7
       ]
     ],
     "216083": [
       [
-        "20260702",
-        63.4
-      ],
-      [
         "20260703",
         63.4
       ],
@@ -24071,15 +24053,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        62.3
+      ],
+      [
+        "20260719",
         62.3
       ]
     ],
     "220750": [
       [
-        "20260702",
-        59.7
-      ],
-      [
         "20260703",
         59.7
       ],
@@ -24141,15 +24123,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        62.1
+      ],
+      [
+        "20260719",
         62.1
       ]
     ],
     "222045": [
       [
-        "20260702",
-        60.9
-      ],
-      [
         "20260703",
         60.9
       ],
@@ -24211,15 +24193,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        62.0
+      ],
+      [
+        "20260719",
         62.0
       ]
     ],
     "211843": [
       [
-        "20260702",
-        61.1
-      ],
-      [
         "20260703",
         61.1
       ],
@@ -24281,15 +24263,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        61.8
+      ],
+      [
+        "20260719",
         61.8
       ]
     ],
     "214643": [
       [
-        "20260702",
-        64.9
-      ],
-      [
         "20260703",
         64.9
       ],
@@ -24351,15 +24333,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        61.2
+      ],
+      [
+        "20260719",
         61.2
       ]
     ],
     "202499": [
       [
-        "20260702",
-        61.4
-      ],
-      [
         "20260703",
         61.4
       ],
@@ -24421,15 +24403,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        61.0
+      ],
+      [
+        "20260719",
         61.0
       ]
     ],
     "263857": [
       [
-        "20260702",
-        62.0
-      ],
-      [
         "20260703",
         62.0
       ],
@@ -24491,15 +24473,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        61.0
+      ],
+      [
+        "20260719",
         61.0
       ]
     ],
     "230319": [
       [
-        "20260702",
-        61.1
-      ],
-      [
         "20260703",
         61.1
       ],
@@ -24561,15 +24543,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        60.8
+      ],
+      [
+        "20260719",
         60.8
       ]
     ],
     "233741": [
       [
-        "20260702",
-        59.6
-      ],
-      [
         "20260703",
         59.6
       ],
@@ -24631,15 +24613,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        60.6
+      ],
+      [
+        "20260719",
         60.6
       ]
     ],
     "215035": [
       [
-        "20260702",
-        61.5
-      ],
-      [
         "20260703",
         61.5
       ],
@@ -24701,15 +24683,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        60.4
+      ],
+      [
+        "20260719",
         60.4
       ]
     ],
     "211337": [
       [
-        "20260702",
-        60.2
-      ],
-      [
         "20260703",
         60.2
       ],
@@ -24771,15 +24753,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        60.4
+      ],
+      [
+        "20260719",
         60.4
       ]
     ],
     "201696": [
       [
-        "20260702",
-        66.2
-      ],
-      [
         "20260703",
         66.2
       ],
@@ -24841,15 +24823,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        60.2
+      ],
+      [
+        "20260719",
         60.2
       ]
     ],
     "203530": [
       [
-        "20260702",
-        58.5
-      ],
-      [
         "20260703",
         58.5
       ],
@@ -24911,15 +24893,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        60.1
+      ],
+      [
+        "20260719",
         60.1
       ]
     ],
     "220309": [
       [
-        "20260702",
-        60.0
-      ],
-      [
         "20260703",
         60.0
       ],
@@ -24981,15 +24963,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        60.1
+      ],
+      [
+        "20260719",
         60.1
       ]
     ],
     "220332": [
       [
-        "20260702",
-        61.3
-      ],
-      [
         "20260703",
         61.3
       ],
@@ -25051,15 +25033,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        59.9
+      ],
+      [
+        "20260719",
         59.9
       ]
     ],
     "213525": [
       [
-        "20260702",
-        59.4
-      ],
-      [
         "20260703",
         59.4
       ],
@@ -25121,15 +25103,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        59.2
+      ],
+      [
+        "20260719",
         59.2
       ]
     ],
     "221909": [
       [
-        "20260702",
-        55.1
-      ],
-      [
         "20260703",
         55.1
       ],
@@ -25191,15 +25173,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        59.1
+      ],
+      [
+        "20260719",
         59.1
       ]
     ],
     "211817": [
       [
-        "20260702",
-        59.5
-      ],
-      [
         "20260703",
         59.5
       ],
@@ -25261,15 +25243,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        59.1
+      ],
+      [
+        "20260719",
         59.1
       ]
     ],
     "214388": [
       [
-        "20260702",
-        59.3
-      ],
-      [
         "20260703",
         59.3
       ],
@@ -25331,15 +25313,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        59.1
+      ],
+      [
+        "20260719",
         59.1
       ]
     ],
     "201533": [
       [
-        "20260702",
-        57.6
-      ],
-      [
         "20260703",
         57.6
       ],
@@ -25401,15 +25383,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        58.6
+      ],
+      [
+        "20260719",
         58.6
       ]
     ],
     "214954": [
       [
-        "20260702",
-        58.7
-      ],
-      [
         "20260703",
         58.7
       ],
@@ -25471,15 +25453,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        58.6
+      ],
+      [
+        "20260719",
         58.6
       ]
     ],
     "221333": [
       [
-        "20260702",
-        62.3
-      ],
-      [
         "20260703",
         62.3
       ],
@@ -25541,15 +25523,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        58.4
+      ],
+      [
+        "20260719",
         58.4
       ]
     ],
     "238075": [
       [
-        "20260702",
-        58.4
-      ],
-      [
         "20260703",
         58.4
       ],
@@ -25611,15 +25593,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        58.3
+      ],
+      [
+        "20260719",
         58.3
       ]
     ],
     "214082": [
       [
-        "20260702",
-        58.3
-      ],
-      [
         "20260703",
         58.3
       ],
@@ -25681,15 +25663,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        58.3
+      ],
+      [
+        "20260719",
         58.3
       ]
     ],
     "260172": [
       [
-        "20260702",
-        58.5
-      ],
-      [
         "20260703",
         58.5
       ],
@@ -25751,15 +25733,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        58.0
+      ],
+      [
+        "20260719",
         58.0
       ]
     ],
     "211684": [
       [
-        "20260702",
-        58.1
-      ],
-      [
         "20260703",
         58.1
       ],
@@ -25821,15 +25803,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        57.9
+      ],
+      [
+        "20260719",
         57.9
       ]
     ],
     "213710": [
       [
-        "20260702",
-        58.3
-      ],
-      [
         "20260703",
         58.3
       ],
@@ -25891,15 +25873,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        57.3
+      ],
+      [
+        "20260719",
         57.3
       ]
     ],
     "221883": [
       [
-        "20260702",
-        57.5
-      ],
-      [
         "20260703",
         57.5
       ],
@@ -25961,15 +25943,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        57.3
+      ],
+      [
+        "20260719",
         57.3
       ]
     ],
     "222601": [
       [
-        "20260702",
-        58.3
-      ],
-      [
         "20260703",
         58.3
       ],
@@ -26031,15 +26013,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        56.8
+      ],
+      [
+        "20260719",
         56.8
       ]
     ],
     "219917": [
       [
-        "20260702",
-        55.6
-      ],
-      [
         "20260703",
         55.6
       ],
@@ -26101,15 +26083,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        56.8
+      ],
+      [
+        "20260719",
         56.8
       ]
     ],
     "222145": [
       [
-        "20260702",
-        56.5
-      ],
-      [
         "20260703",
         56.5
       ],
@@ -26171,15 +26153,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        56.7
+      ],
+      [
+        "20260719",
         56.7
       ]
     ],
     "215910": [
       [
-        "20260702",
-        56.9
-      ],
-      [
         "20260703",
         56.9
       ],
@@ -26241,15 +26223,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        56.4
+      ],
+      [
+        "20260719",
         56.4
       ]
     ],
     "214040": [
       [
-        "20260702",
-        55.7
-      ],
-      [
         "20260703",
         55.7
       ],
@@ -26311,15 +26293,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        56.3
+      ],
+      [
+        "20260719",
         56.3
       ]
     ],
     "221354": [
       [
-        "20260702",
-        54.2
-      ],
-      [
         "20260703",
         54.2
       ],
@@ -26381,15 +26363,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        53.9
+      ],
+      [
+        "20260719",
         53.9
       ]
     ],
     "201709": [
       [
-        "20260702",
-        53.5
-      ],
-      [
         "20260703",
         53.5
       ],
@@ -26451,15 +26433,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        53.5
+      ],
+      [
+        "20260719",
         53.5
       ]
     ],
     "252499": [
       [
-        "20260702",
-        52.8
-      ],
-      [
         "20260703",
         52.8
       ],
@@ -26521,6 +26503,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        53.5
+      ],
+      [
+        "20260719",
         53.5
       ]
     ],
@@ -26552,13 +26538,13 @@ window.TENNIS_DATA = {
       [
         "20260718",
         53.3
+      ],
+      [
+        "20260719",
+        53.3
       ]
     ],
     "213550": [
-      [
-        "20260702",
-        53.3
-      ],
       [
         "20260703",
         53.3
@@ -26621,15 +26607,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        53.1
+      ],
+      [
+        "20260719",
         53.1
       ]
     ],
     "211651": [
       [
-        "20260702",
-        53.0
-      ],
-      [
         "20260703",
         53.0
       ],
@@ -26691,15 +26677,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        52.8
+      ],
+      [
+        "20260719",
         52.8
       ]
     ],
     "213583": [
       [
-        "20260702",
-        50.5
-      ],
-      [
         "20260703",
         50.5
       ],
@@ -26761,15 +26747,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        52.7
+      ],
+      [
+        "20260719",
         52.7
       ]
     ],
     "201548": [
       [
-        "20260702",
-        52.5
-      ],
-      [
         "20260703",
         52.5
       ],
@@ -26831,15 +26817,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        52.5
+      ],
+      [
+        "20260719",
         52.5
       ]
     ],
     "213887": [
       [
-        "20260702",
-        53.1
-      ],
-      [
         "20260703",
         53.1
       ],
@@ -26901,15 +26887,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        51.9
+      ],
+      [
+        "20260719",
         51.9
       ]
     ],
     "215872": [
       [
-        "20260702",
-        52.9
-      ],
-      [
         "20260703",
         52.9
       ],
@@ -26971,15 +26957,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        51.6
+      ],
+      [
+        "20260719",
         51.6
       ]
     ],
     "215453": [
       [
-        "20260702",
-        51.6
-      ],
-      [
         "20260703",
         51.6
       ],
@@ -27041,15 +27027,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        51.3
+      ],
+      [
+        "20260719",
         51.3
       ]
     ],
     "222966": [
       [
-        "20260702",
-        51.4
-      ],
-      [
         "20260703",
         51.4
       ],
@@ -27111,15 +27097,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        51.2
+      ],
+      [
+        "20260719",
         51.2
       ]
     ],
     "221407": [
       [
-        "20260702",
-        50.2
-      ],
-      [
         "20260703",
         50.2
       ],
@@ -27181,15 +27167,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        50.3
+      ],
+      [
+        "20260719",
         50.3
       ]
     ],
     "247669": [
       [
-        "20260702",
-        50.5
-      ],
-      [
         "20260703",
         50.5
       ],
@@ -27251,15 +27237,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        50.3
+      ],
+      [
+        "20260719",
         50.3
       ]
     ],
     "203514": [
       [
-        "20260702",
-        50.4
-      ],
-      [
         "20260703",
         50.4
       ],
@@ -27321,15 +27307,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        50.2
+      ],
+      [
+        "20260719",
         50.2
       ]
     ],
     "215306": [
       [
-        "20260702",
-        50.0
-      ],
-      [
         "20260703",
         50.0
       ],
@@ -27391,15 +27377,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        49.8
+      ],
+      [
+        "20260719",
         49.8
       ]
     ],
     "215020": [
       [
-        "20260702",
-        50.0
-      ],
-      [
         "20260703",
         50.0
       ],
@@ -27461,15 +27447,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        49.7
+      ],
+      [
+        "20260719",
         49.7
       ]
     ],
     "223194": [
       [
-        "20260702",
-        49.8
-      ],
-      [
         "20260703",
         49.8
       ],
@@ -27531,15 +27517,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        49.6
+      ],
+      [
+        "20260719",
         49.6
       ]
     ],
     "211685": [
       [
-        "20260702",
-        49.9
-      ],
-      [
         "20260703",
         49.9
       ],
@@ -27601,15 +27587,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        49.6
+      ],
+      [
+        "20260719",
         49.6
       ]
     ],
     "243420": [
       [
-        "20260702",
-        48.6
-      ],
-      [
         "20260703",
         48.6
       ],
@@ -27671,15 +27657,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        48.6
+      ],
+      [
+        "20260719",
         48.6
       ]
     ],
     "259733": [
       [
-        "20260702",
-        48.7
-      ],
-      [
         "20260703",
         48.7
       ],
@@ -27741,15 +27727,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        48.4
+      ],
+      [
+        "20260719",
         48.4
       ]
     ],
     "215899": [
       [
-        "20260702",
-        47.4
-      ],
-      [
         "20260703",
         47.4
       ],
@@ -27811,15 +27797,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        48.3
+      ],
+      [
+        "20260719",
         48.3
       ]
     ],
     "221039": [
       [
-        "20260702",
-        50.2
-      ],
-      [
         "20260703",
         50.2
       ],
@@ -27881,6 +27867,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        47.4
+      ],
+      [
+        "20260719",
         47.4
       ]
     ],
@@ -27912,13 +27902,13 @@ window.TENNIS_DATA = {
       [
         "20260718",
         47.3
+      ],
+      [
+        "20260719",
+        47.3
       ]
     ],
     "220465": [
-      [
-        "20260702",
-        46.6
-      ],
       [
         "20260703",
         46.6
@@ -27981,15 +27971,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        47.1
+      ],
+      [
+        "20260719",
         47.1
       ]
     ],
     "214906": [
       [
-        "20260702",
-        47.3
-      ],
-      [
         "20260703",
         47.3
       ],
@@ -28051,15 +28041,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        47.0
+      ],
+      [
+        "20260719",
         47.0
       ]
     ],
     "263644": [
       [
-        "20260702",
-        47.1
-      ],
-      [
         "20260703",
         47.1
       ],
@@ -28121,15 +28111,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        46.8
+      ],
+      [
+        "20260719",
         46.8
       ]
     ],
     "206368": [
       [
-        "20260702",
-        46.8
-      ],
-      [
         "20260703",
         46.8
       ],
@@ -28191,15 +28181,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        46.6
+      ],
+      [
+        "20260719",
         46.6
       ]
     ],
     "205925": [
       [
-        "20260702",
-        46.7
-      ],
-      [
         "20260703",
         46.7
       ],
@@ -28261,15 +28251,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        46.4
+      ],
+      [
+        "20260719",
         46.4
       ]
     ],
     "222661": [
       [
-        "20260702",
-        48.3
-      ],
-      [
         "20260703",
         48.3
       ],
@@ -28331,15 +28321,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        46.0
+      ],
+      [
+        "20260719",
         46.0
       ]
     ],
     "230870": [
       [
-        "20260702",
-        45.8
-      ],
-      [
         "20260703",
         45.8
       ],
@@ -28401,15 +28391,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        45.6
+      ],
+      [
+        "20260719",
         45.6
       ]
     ],
     "221237": [
       [
-        "20260702",
-        43.7
-      ],
-      [
         "20260703",
         43.7
       ],
@@ -28471,15 +28461,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        45.5
+      ],
+      [
+        "20260719",
         45.5
       ]
     ],
     "220435": [
       [
-        "20260702",
-        47.6
-      ],
-      [
         "20260703",
         47.6
       ],
@@ -28541,15 +28531,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        45.5
+      ],
+      [
+        "20260719",
         45.5
       ]
     ],
     "214459": [
       [
-        "20260702",
-        44.9
-      ],
-      [
         "20260703",
         44.9
       ],
@@ -28611,15 +28601,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        44.6
+      ],
+      [
+        "20260719",
         44.6
       ]
     ],
     "221257": [
       [
-        "20260702",
-        44.8
-      ],
-      [
         "20260703",
         44.8
       ],
@@ -28681,15 +28671,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        44.4
+      ],
+      [
+        "20260719",
         44.4
       ]
     ],
     "216016": [
       [
-        "20260702",
-        45.1
-      ],
-      [
         "20260703",
         45.1
       ],
@@ -28751,15 +28741,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        44.3
+      ],
+      [
+        "20260719",
         44.3
       ]
     ],
     "223286": [
       [
-        "20260702",
-        44.6
-      ],
-      [
         "20260703",
         44.6
       ],
@@ -28821,15 +28811,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        44.3
+      ],
+      [
+        "20260719",
         44.3
       ]
     ],
     "220722": [
       [
-        "20260702",
-        44.3
-      ],
-      [
         "20260703",
         44.3
       ],
@@ -28891,15 +28881,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        44.0
+      ],
+      [
+        "20260719",
         44.0
       ]
     ],
     "215936": [
       [
-        "20260702",
-        43.1
-      ],
-      [
         "20260703",
         43.1
       ],
@@ -28961,6 +28951,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        42.8
+      ],
+      [
+        "20260719",
         42.8
       ]
     ],
@@ -28992,6 +28986,10 @@ window.TENNIS_DATA = {
       [
         "20260718",
         42.7
+      ],
+      [
+        "20260719",
+        42.7
       ]
     ],
     "214593": [
@@ -29022,13 +29020,13 @@ window.TENNIS_DATA = {
       [
         "20260718",
         42.4
+      ],
+      [
+        "20260719",
+        42.4
       ]
     ],
     "213646": [
-      [
-        "20260702",
-        42.4
-      ],
       [
         "20260703",
         42.4
@@ -29091,15 +29089,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        42.1
+      ],
+      [
+        "20260719",
         42.1
       ]
     ],
     "220416": [
       [
-        "20260702",
-        42.1
-      ],
-      [
         "20260703",
         42.1
       ],
@@ -29161,15 +29159,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        41.8
+      ],
+      [
+        "20260719",
         41.8
       ]
     ],
     "221406": [
       [
-        "20260702",
-        41.8
-      ],
-      [
         "20260703",
         41.8
       ],
@@ -29231,15 +29229,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        41.5
+      ],
+      [
+        "20260719",
         41.5
       ]
     ],
     "206417": [
       [
-        "20260702",
-        41.7
-      ],
-      [
         "20260703",
         41.7
       ],
@@ -29301,15 +29299,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        41.3
+      ],
+      [
+        "20260719",
         41.3
       ]
     ],
     "206294": [
       [
-        "20260702",
-        41.1
-      ],
-      [
         "20260703",
         41.1
       ],
@@ -29371,15 +29369,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        40.9
+      ],
+      [
+        "20260719",
         40.9
       ]
     ],
     "221124": [
       [
-        "20260702",
-        40.8
-      ],
-      [
         "20260703",
         40.8
       ],
@@ -29441,15 +29439,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        40.5
+      ],
+      [
+        "20260719",
         40.5
       ]
     ],
     "221985": [
       [
-        "20260702",
-        40.4
-      ],
-      [
         "20260703",
         40.4
       ],
@@ -29511,15 +29509,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        40.1
+      ],
+      [
+        "20260719",
         40.1
       ]
     ],
     "219875": [
       [
-        "20260702",
-        40.9
-      ],
-      [
         "20260703",
         40.9
       ],
@@ -29581,6 +29579,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        39.8
+      ],
+      [
+        "20260719",
         39.8
       ]
     ],
@@ -29612,13 +29614,13 @@ window.TENNIS_DATA = {
       [
         "20260718",
         39.7
+      ],
+      [
+        "20260719",
+        39.7
       ]
     ],
     "220662": [
-      [
-        "20260702",
-        41.2
-      ],
       [
         "20260703",
         41.2
@@ -29681,15 +29683,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        39.6
+      ],
+      [
+        "20260719",
         39.6
       ]
     ],
     "215037": [
       [
-        "20260702",
-        38.9
-      ],
-      [
         "20260703",
         38.9
       ],
@@ -29751,15 +29753,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        38.7
+      ],
+      [
+        "20260719",
         38.7
       ]
     ],
     "222290": [
       [
-        "20260702",
-        37.5
-      ],
-      [
         "20260703",
         37.5
       ],
@@ -29821,15 +29823,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        38.2
+      ],
+      [
+        "20260719",
         38.2
       ]
     ],
     "220742": [
       [
-        "20260702",
-        37.9
-      ],
-      [
         "20260703",
         37.9
       ],
@@ -29891,15 +29893,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        37.6
+      ],
+      [
+        "20260719",
         37.6
       ]
     ],
     "211814": [
       [
-        "20260702",
-        37.4
-      ],
-      [
         "20260703",
         37.4
       ],
@@ -29961,15 +29963,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        37.0
+      ],
+      [
+        "20260719",
         37.0
       ]
     ],
     "215480": [
       [
-        "20260702",
-        36.6
-      ],
-      [
         "20260703",
         36.6
       ],
@@ -30031,15 +30033,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        36.3
+      ],
+      [
+        "20260719",
         36.3
       ]
     ],
     "214461": [
       [
-        "20260702",
-        36.6
-      ],
-      [
         "20260703",
         36.6
       ],
@@ -30101,15 +30103,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        36.3
+      ],
+      [
+        "20260719",
         36.3
       ]
     ],
     "223168": [
       [
-        "20260702",
-        36.3
-      ],
-      [
         "20260703",
         36.3
       ],
@@ -30171,15 +30173,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        36.0
+      ],
+      [
+        "20260719",
         36.0
       ]
     ],
     "222233": [
       [
-        "20260702",
-        36.1
-      ],
-      [
         "20260703",
         36.1
       ],
@@ -30241,15 +30243,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        35.9
+      ],
+      [
+        "20260719",
         35.9
       ]
     ],
     "215138": [
       [
-        "20260702",
-        36.0
-      ],
-      [
         "20260703",
         36.0
       ],
@@ -30311,15 +30313,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        35.7
+      ],
+      [
+        "20260719",
         35.7
       ]
     ],
     "202684": [
       [
-        "20260702",
-        35.9
-      ],
-      [
         "20260703",
         35.9
       ],
@@ -30381,15 +30383,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        35.7
+      ],
+      [
+        "20260719",
         35.7
       ]
     ],
     "210886": [
       [
-        "20260702",
-        35.0
-      ],
-      [
         "20260703",
         35.0
       ],
@@ -30451,15 +30453,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        35.0
+      ],
+      [
+        "20260719",
         35.0
       ]
     ],
     "221307": [
       [
-        "20260702",
-        35.0
-      ],
-      [
         "20260703",
         35.0
       ],
@@ -30521,15 +30523,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        35.0
+      ],
+      [
+        "20260719",
         35.0
       ]
     ],
     "221236": [
       [
-        "20260702",
-        35.3
-      ],
-      [
         "20260703",
         35.3
       ],
@@ -30591,15 +30593,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        35.0
+      ],
+      [
+        "20260719",
         35.0
       ]
     ],
     "215219": [
       [
-        "20260702",
-        35.0
-      ],
-      [
         "20260703",
         35.0
       ],
@@ -30661,6 +30663,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        35.0
+      ],
+      [
+        "20260719",
         35.0
       ]
     ],
@@ -30691,6 +30697,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260718",
+        35.0
+      ],
+      [
+        "20260719",
         35.0
       ]
     ]

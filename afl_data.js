@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-18 22:11 UTC
+// Auto-generated 2026-07-19 07:36 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-18 22:11 UTC",
+  "UPDATED": "2026-07-19 07:36 UTC",
   "SEASON": "2026",
   "ROUND": 19,
   "IMPORTANCE": 8.2,
@@ -32,6 +32,18 @@ window.AFL_DATA = {
     },
     {
       "rank": 3,
+      "name": "Hawthorn",
+      "wins": 12,
+      "losses": 5,
+      "draws": 1,
+      "pts": 50,
+      "percentage": 118.4,
+      "primary": "#4D2004",
+      "secondary": "#FFD200",
+      "prevRank": 6
+    },
+    {
+      "rank": 4,
       "name": "Brisbane Lions",
       "wins": 12,
       "losses": 6,
@@ -43,7 +55,7 @@ window.AFL_DATA = {
       "prevRank": 3
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Adelaide",
       "wins": 12,
       "losses": 6,
@@ -55,7 +67,7 @@ window.AFL_DATA = {
       "prevRank": 4
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Melbourne",
       "wins": 12,
       "losses": 6,
@@ -65,18 +77,6 @@ window.AFL_DATA = {
       "primary": "#CC2031",
       "secondary": "#013B9F",
       "prevRank": 5
-    },
-    {
-      "rank": 6,
-      "name": "Hawthorn",
-      "wins": 11,
-      "losses": 5,
-      "draws": 1,
-      "pts": 46,
-      "percentage": 114.2,
-      "primary": "#4D2004",
-      "secondary": "#FFD200",
-      "prevRank": 6
     },
     {
       "rank": 7,
@@ -194,10 +194,10 @@ window.AFL_DATA = {
       "rank": 17,
       "name": "Richmond",
       "wins": 2,
-      "losses": 15,
+      "losses": 16,
       "draws": 0,
       "pts": 8,
-      "percentage": 63.0,
+      "percentage": 61.7,
       "primary": "#FFD200",
       "secondary": "#000000"
     },
@@ -1115,6 +1115,16 @@ window.AFL_DATA = {
       "date": "2026-07-18",
       "hprimary": "#002B5C",
       "aprimary": "#7B1A4B"
+    },
+    {
+      "hteam": "Richmond",
+      "hscore": 52,
+      "ateam": "Hawthorn",
+      "ascore": 122,
+      "winner": "Hawthorn",
+      "date": "2026-07-19",
+      "hprimary": "#FFD200",
+      "aprimary": "#4D2004"
     }
   ],
   "CURRENT_CONTENDERS": [

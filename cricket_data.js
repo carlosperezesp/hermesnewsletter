@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-07-18 21:09 UTC",
+  "UPDATED": "2026-07-19 07:38 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1567,
+    "matches": 1566,
     "archives": [
       {
         "name": "Tests",
@@ -37,7 +37,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "MLC",
-        "matches": 73
+        "matches": 72
       }
     ],
     "note": "Daily-after-results model: no live scores, recalculates from completed Cricsheet scorecards."
@@ -1222,7 +1222,7 @@ window.CRICKET_DATA = {
           "batting": 25.8,
           "bowling": 69.9,
           "overall": 75.1,
-          "runs": 426,
+          "runs": 413,
           "wickets": 73
         }
       ],
@@ -2570,12 +2570,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 91.3,
+          "score": 90.6,
           "batting": 7.8,
-          "bowling": 91.3,
-          "overall": 56.8,
-          "runs": 162,
-          "wickets": 122
+          "bowling": 90.6,
+          "overall": 56.5,
+          "runs": 161,
+          "wickets": 121
         },
         {
           "id": "mj-henry",

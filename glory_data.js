@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-18 22:11 UTC",
+  "UPDATED": "2026-07-19 07:38 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Moët & Chandon Belgian Grand Prix:Max Verstappen",
@@ -51,14 +51,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-05"
     },
     {
-      "id": "f1:win:Pirelli British Grand Prix:Lewis Hamilton",
-      "sport": "f1",
-      "detail": "F1",
-      "text": "Lewis Hamilton ganó el Pirelli British Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-07-04"
-    },
-    {
       "id": "rank:football:ROAD_TO_GLORY.currentContenders:new1:Argentina",
       "sport": "football",
       "detail": "Fútbol",
@@ -102,15 +94,6 @@ window.GLORY_DATA = {
       "text": "Busang Collen Kebinatshipi entra en el top-10 histórico · 400m — H",
       "weight": 90,
       "firstSeen": "2026-07-10"
-    },
-    {
-      "id": "rank:athletics:allTime:110mh_m:in:Jamal Britt",
-      "sport": "athletics",
-      "detail": "Atletismo",
-      "anchor": "athletics-records",
-      "text": "Jamal Britt entra en el top-10 histórico · 110m vallas — H",
-      "weight": 90,
-      "firstSeen": "2026-07-04"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Chris Sale",
@@ -375,9 +358,9 @@ window.GLORY_DATA = {
       "Texas Rangers",
       "New York Yankees",
       "Philadelphia Phillies",
-      "San Diego Padres",
       "Seattle Mariners",
       "Baltimore Orioles",
+      "San Diego Padres",
       "New York Mets"
     ],
     "mlb:ROAD_TO_GLORY.youngProspects": [
@@ -387,8 +370,8 @@ window.GLORY_DATA = {
       "Pete Crow-Armstrong",
       "Sal Stewart",
       "Junior Caminero",
-      "CJ Abrams",
       "Nick Kurtz",
+      "CJ Abrams",
       "Chase Burns",
       "Cam Schlittler"
     ],
@@ -623,10 +606,10 @@ window.GLORY_DATA = {
     "afl:LADDER": [
       "Fremantle",
       "Sydney",
+      "Hawthorn",
       "Brisbane Lions",
       "Adelaide",
       "Melbourne",
-      "Hawthorn",
       "Collingwood",
       "Geelong",
       "Western Bulldogs",
@@ -635,8 +618,8 @@ window.GLORY_DATA = {
     "football:ROAD_TO_GLORY.currentContenders": [
       "Argentina",
       "Spain",
-      "France",
       "England",
+      "France",
       "Portugal",
       "Brazil",
       "Netherlands",
