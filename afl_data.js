@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-19 07:36 UTC
+// Auto-generated 2026-07-19 08:38 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-19 07:36 UTC",
+  "UPDATED": "2026-07-19 08:38 UTC",
   "SEASON": "2026",
   "ROUND": 19,
   "IMPORTANCE": 8.2,
@@ -40,7 +40,7 @@ window.AFL_DATA = {
       "percentage": 118.4,
       "primary": "#4D2004",
       "secondary": "#FFD200",
-      "prevRank": 6
+      "prevRank": 3
     },
     {
       "rank": 4,
@@ -52,7 +52,7 @@ window.AFL_DATA = {
       "percentage": 117.8,
       "primary": "#7B1A4B",
       "secondary": "#F6AE00",
-      "prevRank": 3
+      "prevRank": 4
     },
     {
       "rank": 5,
@@ -64,7 +64,7 @@ window.AFL_DATA = {
       "percentage": 117.2,
       "primary": "#002B5C",
       "secondary": "#CC2031",
-      "prevRank": 4
+      "prevRank": 5
     },
     {
       "rank": 6,
@@ -76,10 +76,22 @@ window.AFL_DATA = {
       "percentage": 109.6,
       "primary": "#CC2031",
       "secondary": "#013B9F",
-      "prevRank": 5
+      "prevRank": 6
     },
     {
       "rank": 7,
+      "name": "Western Bulldogs",
+      "wins": 11,
+      "losses": 7,
+      "draws": 0,
+      "pts": 44,
+      "percentage": 93.2,
+      "primary": "#0039A6",
+      "secondary": "#CC2031",
+      "prevRank": 9
+    },
+    {
+      "rank": 8,
       "name": "Collingwood",
       "wins": 10,
       "losses": 7,
@@ -91,7 +103,7 @@ window.AFL_DATA = {
       "prevRank": 7
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Geelong",
       "wins": 10,
       "losses": 8,
@@ -99,19 +111,7 @@ window.AFL_DATA = {
       "pts": 40,
       "percentage": 116.2,
       "primary": "#002A54",
-      "secondary": "#FFFFFF",
-      "prevRank": 8
-    },
-    {
-      "rank": 9,
-      "name": "Western Bulldogs",
-      "wins": 10,
-      "losses": 7,
-      "draws": 0,
-      "pts": 40,
-      "percentage": 92.3,
-      "primary": "#0039A6",
-      "secondary": "#CC2031"
+      "secondary": "#FFFFFF"
     },
     {
       "rank": 10,
@@ -161,10 +161,10 @@ window.AFL_DATA = {
       "rank": 14,
       "name": "Gold Coast",
       "wins": 7,
-      "losses": 10,
+      "losses": 11,
       "draws": 0,
       "pts": 28,
-      "percentage": 95.6,
+      "percentage": 95.3,
       "primary": "#C5002F",
       "secondary": "#F1B500"
     },
@@ -1125,6 +1125,16 @@ window.AFL_DATA = {
       "date": "2026-07-19",
       "hprimary": "#FFD200",
       "aprimary": "#4D2004"
+    },
+    {
+      "hteam": "Gold Coast",
+      "hscore": 68,
+      "ateam": "Western Bulldogs",
+      "ascore": 77,
+      "winner": "Western Bulldogs",
+      "date": "2026-07-19",
+      "hprimary": "#C5002F",
+      "aprimary": "#0039A6"
     }
   ],
   "CURRENT_CONTENDERS": [

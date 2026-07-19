@@ -1097,7 +1097,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 13
+      "prevRank": 10
     },
     {
       "id": 39832,
@@ -4051,7 +4051,7 @@ window.MLB_DATA = {
       "last": "Dubon",
       "pos": "LF",
       "teamCode": "ATL",
-      "age": 31,
+      "age": 32,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35304.png",
       "colors": {
         "primary": "#ce1141",
@@ -4067,7 +4067,7 @@ window.MLB_DATA = {
         "sb": 3,
         "ops": 0.745
       },
-      "legendScore": 42.2,
+      "legendScore": 43.0,
       "currentScore": 62,
       "battingScore": 62,
       "pitchingScore": null,
@@ -6781,7 +6781,7 @@ window.MLB_DATA = {
       "last": "Manzardo",
       "pos": "1B",
       "teamCode": "CLE",
-      "age": 25,
+      "age": 26,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917927.png",
       "colors": {
         "primary": "#e31937",
@@ -6797,7 +6797,7 @@ window.MLB_DATA = {
         "sb": 0,
         "ops": 0.655
       },
-      "legendScore": 28.4,
+      "legendScore": 29.3,
       "currentScore": 46,
       "battingScore": 46,
       "pitchingScore": null,
@@ -7783,7 +7783,7 @@ window.MLB_DATA = {
           "primary": "#0c2c56",
           "secondary": "#005c5c"
         },
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "teamCode": "BAL",
@@ -7799,7 +7799,7 @@ window.MLB_DATA = {
           "primary": "#df4601",
           "secondary": "#000000"
         },
-        "prevRank": 9
+        "prevRank": 8
       },
       {
         "teamCode": "SD",
@@ -7815,7 +7815,7 @@ window.MLB_DATA = {
           "primary": "#2f241d",
           "secondary": "#ffc425"
         },
-        "prevRank": 7
+        "prevRank": 9
       },
       {
         "teamCode": "NYM",
@@ -7952,7 +7952,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 27.6,
         "note": "Elite start to career — ceiling is very high",
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "id": 42402,
@@ -7969,7 +7969,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 28.0,
         "note": "Among the best players of their generation",
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "id": 4927516,
@@ -8047,7 +8047,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-19 07:35 UTC",
+  "LAST_UPDATE": "2026-07-19 08:38 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
