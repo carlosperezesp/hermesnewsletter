@@ -880,7 +880,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 8
+      "prevRank": 6
     },
     {
       "id": 4717833,
@@ -911,7 +911,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 6
+      "prevRank": 7
     },
     {
       "id": 4905921,
@@ -942,7 +942,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 7
+      "prevRank": 8
     },
     {
       "id": 4416591,
@@ -973,7 +973,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 12
+      "prevRank": 9
     },
     {
       "id": 32767,
@@ -1004,7 +1004,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 9
+      "prevRank": 10
     },
     {
       "id": 5080771,
@@ -1909,7 +1909,7 @@ window.MLB_DATA = {
       "pitchingScore": 73,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 9
+      "prevRank": 7
     },
     {
       "id": 35183,
@@ -2090,7 +2090,7 @@ window.MLB_DATA = {
       "pitchingScore": 72,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": null
+      "prevRank": 8
     },
     {
       "id": 32758,
@@ -2331,7 +2331,7 @@ window.MLB_DATA = {
       "pitchingScore": 70,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 12
+      "prevRank": 9
     },
     {
       "id": 30193,
@@ -2422,7 +2422,7 @@ window.MLB_DATA = {
       "pitchingScore": 69,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 7
+      "prevRank": 10
     },
     {
       "id": 33481,
@@ -7325,7 +7325,7 @@ window.MLB_DATA = {
         "gap": 35.4,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 9
+        "prevRank": 8
       },
       {
         "id": 30948,
@@ -7347,7 +7347,7 @@ window.MLB_DATA = {
         "gap": 35.5,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 8
+        "prevRank": 9
       },
       {
         "id": 32532,
@@ -7369,7 +7369,7 @@ window.MLB_DATA = {
         "gap": 36.3,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": null
+        "prevRank": 10
       }
     ],
     "teams": [
@@ -7601,7 +7601,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 23.1,
         "note": "Elite start to career — ceiling is very high",
-        "prevRank": 5
+        "prevRank": 4
       },
       {
         "id": 4717833,
@@ -7618,7 +7618,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 23.9,
         "note": "Among the best players of their generation",
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "id": 4905921,
@@ -7652,7 +7652,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 26.9,
         "note": "Among the best players of their generation",
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "id": 4966637,
@@ -7669,7 +7669,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 27.6,
         "note": "Elite start to career — ceiling is very high",
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "id": 4872685,
@@ -7686,7 +7686,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 31.4,
         "note": "Among the best players of their generation",
-        "prevRank": null
+        "prevRank": 9
       },
       {
         "id": 5134581,
@@ -7747,7 +7747,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-20 08:18 UTC",
+  "LAST_UPDATE": "2026-07-20 09:38 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
