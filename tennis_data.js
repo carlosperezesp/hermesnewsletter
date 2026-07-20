@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-20 09:40 UTC
+// Auto-generated 2026-07-20 14:57 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-20 09:40 UTC",
+  "UPDATED": "2026-07-20 14:57 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -7040,9 +7040,9 @@ window.TENNIS_DATA = {
       "prevListRank": 82,
       "tournamentStatus": {
         "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 56.4
     },
@@ -7210,9 +7210,9 @@ window.TENNIS_DATA = {
       "prevListRank": 87,
       "tournamentStatus": {
         "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 53.5
     },
@@ -7832,9 +7832,9 @@ window.TENNIS_DATA = {
       "prevListRank": 105,
       "tournamentStatus": {
         "tournament": "MSC Hamburg Ladies Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 48.4
     },
@@ -10005,9 +10005,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Kaitlin Quevedo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 60.9,
           "l_score": 46.7,
           "match_score": 60.9
@@ -10058,18 +10058,24 @@ window.TENNIS_DATA = {
       "Alina Charaeva",
       "Anhelina Kalinina",
       "Anna Bondar",
+      "Arantxa Rus",
       "Darja Semenistaja",
+      "Elena Pridankina",
+      "Elina Avanesyan",
       "Elsa Jacquemot",
+      "Jule Niemeier",
       "Julia Stusek",
-      "Kaitlin Quevedo",
       "Katarzyna Kawa",
       "Leyre Romero Gormaz",
+      "Maria Lourdes Carle",
       "Mayar Sherif",
+      "Mona Barthel",
       "Moyuka Uchijima",
       "Nadia Podoroska",
       "Nastasja Schunk",
       "Noma Noha Akugue",
       "Oleksandra Oliynykova",
+      "Panna Udvardy",
       "Paula Badosa",
       "Sara Sorribes Tormo",
       "Simona Waltert",
@@ -10078,11 +10084,14 @@ window.TENNIS_DATA = {
       "Tessa Johanna Brockmann",
       "Valentina Steiner",
       "Veronika Erjavec",
-      "Victoria Jimenez Kasintseva"
+      "Victoria Jimenez Kasintseva",
+      "Yulia Putintseva"
     ],
-    "out": [],
-    "aliveCount": 24,
-    "matchesSeen": 12
+    "out": [
+      "Kaitlin Quevedo"
+    ],
+    "aliveCount": 31,
+    "matchesSeen": 16
   },
   "ATP_SCORE_LOG": {
     "206173": [

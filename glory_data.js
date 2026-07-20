@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-20 09:40 UTC",
+  "UPDATED": "2026-07-20 14:57 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Moët & Chandon Belgian Grand Prix:Max Verstappen",
@@ -86,6 +86,14 @@ window.GLORY_DATA = {
       "text": "Busang Collen Kebinatshipi entra en el top-10 histórico · 400m — H",
       "weight": 90,
       "firstSeen": "2026-07-10"
+    },
+    {
+      "id": "cycling:stage:Tour de France:15:Remco Evenepoel",
+      "sport": "cycling",
+      "detail": "Ciclismo",
+      "text": "Remco Evenepoel ganó la última etapa del Tour de France",
+      "weight": 88,
+      "firstSeen": "2026-07-20"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Willson Contreras",

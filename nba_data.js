@@ -3746,7 +3746,7 @@ window.NBA_DATA = {
       "last": "Bitadze",
       "pos": "C",
       "teamCode": "ORL",
-      "age": 26,
+      "age": 27,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4348700.png",
       "colors": {
         "primary": "#0077c0",
@@ -3762,7 +3762,7 @@ window.NBA_DATA = {
         "blk": 1.7,
         "min": 13.8
       },
-      "legendScore": 33.8
+      "legendScore": 34.8
     },
     {
       "id": 4395702,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-20 09:38 UTC",
+  "LAST_UPDATE": "2026-07-20 14:55 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
