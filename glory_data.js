@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-20 15:32 UTC",
+  "UPDATED": "2026-07-20 21:35 UTC",
   "EVENTS": [
+    {
+      "id": "indycar:win:Grand Prix of Nashville:Álex Palou",
+      "sport": "indycar",
+      "detail": "IndyCar",
+      "text": "Álex Palou ganó en Grand Prix of Nashville",
+      "weight": 100,
+      "firstSeen": "2026-07-20"
+    },
     {
       "id": "f1:win:Moët & Chandon Belgian Grand Prix:Max Verstappen",
       "sport": "f1",

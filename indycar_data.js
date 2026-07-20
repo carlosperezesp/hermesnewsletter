@@ -1,5 +1,5 @@
 window.INDYCAR_DATA = {
-  "UPDATED": "2026-07-20 15:32 UTC",
+  "UPDATED": "2026-07-20 21:33 UTC",
   "SEASON": 2026,
   "ROUND": 12,
   "TOTAL_ROUNDS": 19,
@@ -975,7 +975,55 @@ window.INDYCAR_DATA = {
       "note": "Ya en zona top 10 histórico · 2 títulos · 31 victorias"
     }
   ],
-  "LAST_RACE": null,
+  "LAST_RACE": {
+    "round": null,
+    "name": "Grand Prix of Nashville",
+    "circuit": "Grand Prix of Nashville",
+    "date": "2026-07-20",
+    "winner": "Álex Palou",
+    "podium": [
+      {
+        "position": 1,
+        "name": "Álex Palou",
+        "country": "ESP",
+        "team": "Chip Ganassi Racing",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "primary": "#D71920"
+      },
+      {
+        "position": 2,
+        "name": "Josef Newgarden",
+        "country": "USA",
+        "team": "Team Penske",
+        "logo": "https://flagcdn.com/24x18/us.png",
+        "primary": "#E31837"
+      },
+      {
+        "position": 3,
+        "name": "David Malukas",
+        "country": "USA",
+        "team": "A. J. Foyt Racing",
+        "logo": "https://flagcdn.com/24x18/us.png",
+        "primary": "#C8102E"
+      },
+      {
+        "position": 4,
+        "name": "Scott McLaughlin",
+        "country": "NZL",
+        "team": "Team Penske",
+        "logo": "https://flagcdn.com/24x18/nz.png",
+        "primary": "#E31837"
+      },
+      {
+        "position": 5,
+        "name": "Felix Rosenqvist",
+        "country": "SWE",
+        "team": "Meyer Shank Racing",
+        "logo": "https://flagcdn.com/24x18/se.png",
+        "primary": "#EE2737"
+      }
+    ]
+  },
   "CURRENT_CONTENDERS": [
     {
       "id": "scott_dixon",
