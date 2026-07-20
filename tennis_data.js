@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-20 14:57 UTC
+// Auto-generated 2026-07-20 14:40 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-20 14:57 UTC",
+  "UPDATED": "2026-07-20 14:40 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -28,6 +28,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 16.0,
       "prevListRank": 1,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 100.0
     },
     {
@@ -58,6 +64,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 6.0,
       "leyendaScore": 25.9,
       "prevListRank": 2,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 90.9
     },
     {
@@ -86,6 +98,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 3.4,
       "prevListRank": 3,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 87.5
     },
     {
@@ -114,6 +132,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 100.0,
       "prevListRank": 4,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 87.4
     },
     {
@@ -142,6 +166,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 5,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 82.5
     },
     {
@@ -170,6 +200,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 6,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 81.2
     },
     {
@@ -198,6 +234,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 7,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 79.6
     },
     {
@@ -226,6 +268,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 8,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 79.5
     },
     {
@@ -254,6 +302,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 3.4,
       "prevListRank": 9,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 78.7
     },
     {
@@ -282,6 +336,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 10,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 77.7
     },
     {
@@ -310,6 +370,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 11,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 77.7
     },
     {
@@ -338,6 +404,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 12,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 77.1
     },
     {
@@ -366,6 +438,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 13,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 76.4
     },
     {
@@ -394,6 +472,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 14,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 76.4
     },
     {
@@ -422,6 +506,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 15,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 76.0
     },
     {
@@ -450,6 +540,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 16,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 75.7
     },
     {
@@ -478,6 +574,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 17,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 75.6
     },
     {
@@ -506,6 +608,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 18,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 75.0
     },
     {
@@ -534,6 +642,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 19,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 75.1
     },
     {
@@ -562,6 +676,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 20,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 74.6
     },
     {
@@ -590,6 +710,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 21,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 74.6
     },
     {
@@ -618,6 +744,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 22,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 73.9
     },
     {
@@ -646,6 +778,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 23,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 73.6
     },
     {
@@ -674,6 +812,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 24,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 73.0
     },
     {
@@ -702,6 +846,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 25,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 72.1
     },
     {
@@ -730,6 +880,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 26,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 69.8
     },
     {
@@ -758,6 +914,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 27,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 68.5
     },
     {
@@ -786,6 +948,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 28,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 67.5
     },
     {
@@ -814,6 +982,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 29,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 67.4
     },
     {
@@ -842,6 +1016,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 30,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 66.9
     },
     {
@@ -870,6 +1050,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 31,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 66.6
     },
     {
@@ -898,6 +1084,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 32,
+      "tournamentStatus": {
+        "tournament": "Millennium Estoril Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 66.4
     },
     {
@@ -926,6 +1118,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 33,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 66.3
     },
     {
@@ -954,6 +1152,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 34,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 66.2
     },
     {
@@ -982,6 +1186,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 35,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 65.7
     },
     {
@@ -1010,6 +1220,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 36,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 65.6
     },
     {
@@ -1038,6 +1254,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 37,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 65.1
     },
     {
@@ -1068,6 +1290,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
       "prevListRank": 38,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 65.5
     },
     {
@@ -1096,6 +1324,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 39,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 65.3
     },
     {
@@ -1124,6 +1358,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 40,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 61.3
     },
     {
@@ -1152,6 +1392,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 41,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 65.2
     },
     {
@@ -1182,6 +1428,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
       "prevListRank": 42,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 62.6
     },
     {
@@ -1210,6 +1462,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 43,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 64.4
     },
     {
@@ -1238,6 +1496,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 44,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 63.6
     },
     {
@@ -1266,6 +1530,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 45,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 64.0
     },
     {
@@ -1294,6 +1564,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 46,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 64.2
     },
     {
@@ -1322,6 +1598,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 47,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 63.4
     },
     {
@@ -1350,6 +1632,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 48,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 62.8
     },
     {
@@ -1378,6 +1666,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 49,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 63.2
     },
     {
@@ -1406,6 +1700,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 50,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 62.7
     },
     {
@@ -1434,6 +1734,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 51,
+      "tournamentStatus": {
+        "tournament": "Millennium Estoril Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 62.2
     },
     {
@@ -1462,6 +1768,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 52,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 61.3
     },
     {
@@ -1490,6 +1802,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 53,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 61.9
     },
     {
@@ -1518,6 +1836,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 54,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 62.1
     },
     {
@@ -1546,6 +1870,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 55,
+      "tournamentStatus": {
+        "tournament": "Millennium Estoril Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 61.5
     },
     {
@@ -1574,6 +1904,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 56,
+      "tournamentStatus": {
+        "tournament": "Millennium Estoril Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 60.7
     },
     {
@@ -1602,6 +1938,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 57,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 61.1
     },
     {
@@ -1630,6 +1972,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 58,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 60.3
     },
     {
@@ -1658,6 +2006,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 59,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 60.1
     },
     {
@@ -1686,6 +2040,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 60,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 59.4
     },
     {
@@ -1714,6 +2074,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 61,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 59.3
     },
     {
@@ -1742,6 +2108,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 62,
+      "tournamentStatus": {
+        "tournament": "Millennium Estoril Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 58.2
     },
     {
@@ -1770,6 +2142,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 63,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 58.3
     },
     {
@@ -1798,6 +2176,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 64,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 58.5
     },
     {
@@ -1826,6 +2210,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 65,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 55.7
     },
     {
@@ -1854,6 +2244,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 66,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 57.8
     },
     {
@@ -1882,6 +2278,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 67,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 57.8
     },
     {
@@ -1910,6 +2312,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 68,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 57.6
     },
     {
@@ -1938,6 +2346,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 3.4,
       "prevListRank": 69,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 57.3
     },
     {
@@ -1966,6 +2380,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 70,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 57.5
     },
     {
@@ -1994,6 +2414,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 71,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 58.0
     },
     {
@@ -2022,6 +2448,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 72,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 57.4
     },
     {
@@ -2050,6 +2482,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 73,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 60.4
     },
     {
@@ -2078,6 +2516,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 74,
+      "tournamentStatus": {
+        "tournament": "Millennium Estoril Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 58.2
     },
     {
@@ -2106,6 +2550,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 75,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 56.6
     },
     {
@@ -2134,6 +2584,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 76,
+      "tournamentStatus": {
+        "tournament": "Millennium Estoril Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 56.6
     },
     {
@@ -2162,6 +2618,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 77,
+      "tournamentStatus": {
+        "tournament": "Millennium Estoril Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 56.5
     },
     {
@@ -2190,6 +2652,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 78,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 56.3
     },
     {
@@ -2218,6 +2686,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 79,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 56.2
     },
     {
@@ -2246,6 +2720,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 80,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 56.6
     },
     {
@@ -2274,6 +2754,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 81,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 54.7
     },
     {
@@ -2302,6 +2788,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 82,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 54.6
     },
     {
@@ -2330,6 +2822,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 83,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 55.2
     },
     {
@@ -2358,6 +2856,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 84,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 55.0
     },
     {
@@ -2388,6 +2892,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
       "prevListRank": 85,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 55.0
     },
     {
@@ -2416,6 +2926,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 86,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 55.0
     },
     {
@@ -2444,6 +2960,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 87,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 54.6
     },
     {
@@ -2472,6 +2994,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 88,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 54.3
     },
     {
@@ -2502,6 +3030,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 89,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 54.3
     },
     {
@@ -2530,6 +3064,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 90,
+      "tournamentStatus": {
+        "tournament": "Millennium Estoril Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 53.9
     },
     {
@@ -2558,6 +3098,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 91,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 54.0
     },
     {
@@ -2586,6 +3132,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 92,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 52.2
     },
     {
@@ -2614,6 +3166,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 93,
+      "tournamentStatus": {
+        "tournament": "Millennium Estoril Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 53.9
     },
     {
@@ -2642,6 +3200,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 94,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 53.7
     },
     {
@@ -2670,6 +3234,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 95,
+      "tournamentStatus": {
+        "tournament": "Millennium Estoril Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 56.4
     },
     {
@@ -2698,6 +3268,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 96,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 53.5
     },
     {
@@ -2726,6 +3302,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 97,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 53.5
     },
     {
@@ -2754,6 +3336,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 98,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 53.5
     },
     {
@@ -2782,6 +3370,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 99,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 52.8
     },
     {
@@ -2810,6 +3404,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 100,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 53.1
     },
     {
@@ -2838,6 +3438,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 101,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 52.8
     },
     {
@@ -2866,6 +3472,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 102,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 53.0
     },
     {
@@ -2896,6 +3508,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 3.4,
       "leyendaScore": 0.0,
       "prevListRank": 103,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 52.2
     },
     {
@@ -2924,6 +3542,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 104,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 51.8
     },
     {
@@ -2952,6 +3576,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 105,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 51.2
     },
     {
@@ -2980,6 +3610,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 106,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 51.7
     },
     {
@@ -3008,6 +3644,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 107,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 54.2
     },
     {
@@ -3036,6 +3678,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 108,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 51.0
     },
     {
@@ -3064,6 +3712,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 109,
+      "tournamentStatus": {
+        "tournament": "Millennium Estoril Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
       "prevActiveScore": 50.6
     },
     {
@@ -3092,6 +3746,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 110,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 50.6
     },
     {
@@ -3122,6 +3782,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 3.4,
       "leyendaScore": 0.0,
       "prevListRank": 111,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 50.3
     },
     {
@@ -3150,6 +3816,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 112,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 50.9
     },
     {
@@ -3178,6 +3850,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 113,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 50.0
     },
     {
@@ -3206,6 +3884,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 114,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 50.8
     },
     {
@@ -3234,6 +3918,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 115,
+      "tournamentStatus": {
+        "tournament": "Millennium Estoril Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 48.0
     },
     {
@@ -3262,6 +3952,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 116,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 49.2
     },
     {
@@ -3290,6 +3986,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 117,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 49.2
     },
     {
@@ -3320,6 +4022,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
       "prevListRank": 118,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 48.4
     },
     {
@@ -3348,6 +4056,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 119,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 48.3
     },
     {
@@ -3376,6 +4090,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 120,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 50.6
     },
     {
@@ -3404,6 +4124,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 121,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 47.9
     },
     {
@@ -3432,6 +4158,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 122,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 47.9
     },
     {
@@ -3460,6 +4192,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 123,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
       "prevActiveScore": 47.8
     },
     {
@@ -3488,6 +4226,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 124,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 47.6
     },
     {
@@ -3516,6 +4260,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 125,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 48.3
     },
     {
@@ -3544,6 +4294,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 126,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 47.3
     },
     {
@@ -3574,6 +4330,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 3.4,
       "leyendaScore": 0.0,
       "prevListRank": 127,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 46.5
     },
     {
@@ -3602,6 +4364,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 128,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 45.6
     },
     {
@@ -3630,6 +4398,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 129,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 45.7
     },
     {
@@ -3660,6 +4434,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
       "prevListRank": 130,
+      "tournamentStatus": {
+        "tournament": "Millennium Estoril Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 44.8
     },
     {
@@ -3688,6 +4468,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 10.3,
       "prevListRank": 131,
+      "tournamentStatus": {
+        "tournament": "Millennium Estoril Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 44.5
     },
     {
@@ -3718,6 +4504,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
       "prevListRank": 132,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 44.5
     },
     {
@@ -3748,6 +4540,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 133,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 44.3
     },
     {
@@ -3776,6 +4574,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 134,
+      "tournamentStatus": {
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 44.1
     },
     {
@@ -3804,6 +4608,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 135,
+      "tournamentStatus": {
+        "tournament": "Millennium Estoril Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 42.6
     },
     {
@@ -3832,6 +4642,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 136,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 42.5
     },
     {
@@ -3860,6 +4676,12 @@ window.TENNIS_DATA = {
       },
       "leyendaScore": 0.0,
       "prevListRank": 137,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 40.6
     },
     {
@@ -3890,6 +4712,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
       "prevListRank": 138,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 40.6
     },
     {
@@ -3920,6 +4748,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
       "prevListRank": 139,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 40.3
     },
     {
@@ -3950,6 +4784,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
       "prevListRank": 140,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 39.1
     },
     {
@@ -3980,6 +4820,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 141,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 53.4
     },
     {
@@ -4010,6 +4856,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
       "prevListRank": 142,
+      "tournamentStatus": {
+        "tournament": "Millennium Estoril Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
       "prevActiveScore": 39.1
     },
     {
@@ -4040,6 +4892,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 143,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 36.2
     },
     {
@@ -4070,6 +4928,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 144,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 35.8
     },
     {
@@ -4100,6 +4964,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 145,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 35.0
     },
     {
@@ -4130,6 +5000,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 146,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 35.0
     },
     {
@@ -4160,6 +5036,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 147,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 35.0
     },
     {
@@ -4190,6 +5072,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 148,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 35.0
     },
     {
@@ -4220,6 +5108,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 149,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 35.0
     },
     {
@@ -4250,6 +5144,12 @@ window.TENNIS_DATA = {
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
       "prevListRank": 150,
+      "tournamentStatus": {
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
       "prevActiveScore": 35.0
     }
   ],
@@ -4281,10 +5181,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 22.2,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 100.0
     },
@@ -4315,10 +5215,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 93.2
     },
@@ -4349,10 +5249,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 92.1
     },
@@ -4383,10 +5283,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 91.4
     },
@@ -4417,10 +5317,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 30.5,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 90.8
     },
@@ -4451,10 +5351,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 90.6
     },
@@ -4485,10 +5385,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 90.3
     },
@@ -4519,10 +5419,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 90.1
     },
@@ -4553,10 +5453,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 86.3
     },
@@ -4587,10 +5487,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 86.1
     },
@@ -4621,10 +5521,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 85.9
     },
@@ -4655,10 +5555,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 84.9
     },
@@ -4689,10 +5589,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 84.5
     },
@@ -4723,10 +5623,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 81.0
     },
@@ -4757,10 +5657,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 80.8
     },
@@ -4791,10 +5691,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 14.8,
       "prevListRank": 16,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 80.4
     },
@@ -4825,10 +5725,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 80.1
     },
@@ -4859,10 +5759,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 79.2
     },
@@ -4893,10 +5793,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 19,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 76.9
     },
@@ -4927,10 +5827,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 76.8
     },
@@ -4961,10 +5861,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 76.5
     },
@@ -4995,10 +5895,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 76.0
     },
@@ -5029,10 +5929,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 74.7
     },
@@ -5063,10 +5963,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 74.5
     },
@@ -5097,10 +5997,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Livesport Prague Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 73.1
     },
@@ -5131,10 +6031,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Livesport Prague Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 72.4
     },
@@ -5165,10 +6065,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 72.0
     },
@@ -5199,10 +6099,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 72.1
     },
@@ -5233,10 +6133,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 70.8
     },
@@ -5267,10 +6167,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 30,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 69.8
     },
@@ -5301,10 +6201,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 31,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 69.2
     },
@@ -5335,10 +6235,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 68.8
     },
@@ -5369,10 +6269,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 69.2
     },
@@ -5403,10 +6303,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 34,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 68.2
     },
@@ -5437,10 +6337,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 67.6
     },
@@ -5471,10 +6371,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 67.5
     },
@@ -5505,10 +6405,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 67.1
     },
@@ -5539,10 +6439,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 38,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 67.4
     },
@@ -5573,10 +6473,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 66.9
     },
@@ -5607,10 +6507,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.8
     },
@@ -5641,10 +6541,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 66.1
     },
@@ -5709,10 +6609,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Livesport Prague Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 65.2
     },
@@ -5743,10 +6643,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.0
     },
@@ -5777,10 +6677,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 45,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Livesport Prague Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 65.5
     },
@@ -5813,10 +6713,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Livesport Prague Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 67.4
     },
@@ -5847,10 +6747,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 47,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 64.7
     },
@@ -5881,10 +6781,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 64.4
     },
@@ -5915,10 +6815,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 49,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Livesport Prague Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 64.1
     },
@@ -5949,10 +6849,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.3
     },
@@ -5983,10 +6883,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.8
     },
@@ -6017,10 +6917,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Livesport Prague Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 62.1
     },
@@ -6051,10 +6951,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.7
     },
@@ -6088,7 +6988,7 @@ window.TENNIS_DATA = {
         "tournament": "MSC Hamburg Ladies Open",
         "state": "alive",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 61.8
     },
@@ -6119,10 +7019,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 55,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Livesport Prague Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 62.0
     },
@@ -6153,10 +7053,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 61.0
     },
@@ -6187,10 +7087,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Livesport Prague Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 62.9
     },
@@ -6221,10 +7121,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 61.2
     },
@@ -6255,10 +7155,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 61.0
     },
@@ -6289,10 +7189,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 60.8
     },
@@ -6323,10 +7223,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Livesport Prague Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 60.6
     },
@@ -6357,10 +7257,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 62,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 60.1
     },
@@ -6391,10 +7291,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 63,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 60.1
     },
@@ -6425,10 +7325,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 60.2
     },
@@ -6459,10 +7359,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.9
     },
@@ -6527,10 +7427,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Livesport Prague Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 58.0
     },
@@ -6561,10 +7461,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.1
     },
@@ -6595,10 +7495,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open",
         "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 59.1
     },
@@ -6631,10 +7531,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.6
     },
@@ -6665,10 +7565,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 60.4
     },
@@ -6699,10 +7599,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.3
     },
@@ -6733,10 +7633,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 73,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.6
     },
@@ -6767,10 +7667,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.4
     },
@@ -6801,10 +7701,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.9
     },
@@ -6835,10 +7735,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 76,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Unicredit Iasi Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 58.3
     },
@@ -6869,10 +7769,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Livesport Prague Open",
         "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 56.8
     },
@@ -6903,10 +7803,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Livesport Prague Open",
         "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 56.8
     },
@@ -6937,10 +7837,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 79,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.3
     },
@@ -6971,10 +7871,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 80,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 56.7
     },
@@ -7005,10 +7905,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 56.3
     },
@@ -7107,10 +8007,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.3
     },
@@ -7141,10 +8041,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.5
     },
@@ -7175,10 +8075,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.9
     },
@@ -7279,10 +8179,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.3
     },
@@ -7313,10 +8213,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.1
     },
@@ -7347,10 +8247,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.7
     },
@@ -7381,10 +8281,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 92,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.5
     },
@@ -7415,10 +8315,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.9
     },
@@ -7449,10 +8349,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.6
     },
@@ -7485,10 +8385,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 95,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Livesport Prague Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 51.2
     },
@@ -7519,10 +8419,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.3
     },
@@ -7591,10 +8491,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Livesport Prague Open",
         "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 50.3
     },
@@ -7627,10 +8527,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.6
     },
@@ -7661,10 +8561,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open",
         "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 49.8
     },
@@ -7695,10 +8595,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 101,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Livesport Prague Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 49.7
     },
@@ -7729,10 +8629,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.6
     },
@@ -7763,10 +8663,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.6
     },
@@ -7797,10 +8697,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.3
     },
@@ -7831,10 +8731,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
+        "tournament": "Unicredit Iasi Open",
+        "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 48.4
     },
@@ -7899,10 +8799,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Palermo Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 47.3
     },
@@ -7935,10 +8835,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 46.6
     },
@@ -7972,7 +8872,7 @@ window.TENNIS_DATA = {
         "tournament": "MSC Hamburg Ladies Open",
         "state": "alive",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 48.3
     },
@@ -8003,10 +8903,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open",
         "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 47.0
     },
@@ -8037,10 +8937,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 111,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.1
     },
@@ -8071,10 +8971,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 46.8
     },
@@ -8107,10 +9007,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 113,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Livesport Prague Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 46.4
     },
@@ -8143,10 +9043,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 46.0
     },
@@ -8211,10 +9111,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 43.9
     },
@@ -8245,10 +9145,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 117,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 45.5
     },
@@ -8279,10 +9179,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 118,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Livesport Prague Open",
         "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 45.6
     },
@@ -8315,10 +9215,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 119,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Livesport Prague Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 45.5
     },
@@ -8349,10 +9249,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Palermo Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 44.6
     },
@@ -8388,7 +9288,7 @@ window.TENNIS_DATA = {
         "tournament": "MSC Hamburg Ladies Open",
         "state": "alive",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 44.3
     },
@@ -8419,10 +9319,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 44.3
     },
@@ -8455,10 +9355,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 44.0
     },
@@ -8491,10 +9391,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 42.7
     },
@@ -8525,10 +9425,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Palermo Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 42.8
     },
@@ -8559,10 +9459,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 42.4
     },
@@ -8596,7 +9496,7 @@ window.TENNIS_DATA = {
         "tournament": "MSC Hamburg Ladies Open",
         "state": "alive",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 41.8
     },
@@ -8663,10 +9563,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 41.3
     },
@@ -8699,10 +9599,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 40.9
     },
@@ -8735,10 +9635,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 40.5
     },
@@ -8807,10 +9707,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 39.7
     },
@@ -8843,10 +9743,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Livesport Prague Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 38.2
     },
@@ -8879,10 +9779,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 39.8
     },
@@ -8949,10 +9849,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 38.7
     },
@@ -9019,10 +9919,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -9053,10 +9953,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 37.0
     },
@@ -9089,10 +9989,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -9125,10 +10025,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.7
     },
@@ -9161,10 +10061,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 36.0
     },
@@ -9197,10 +10097,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "tournament": "Palermo Ladies Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 36.3
     },
@@ -9233,10 +10133,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.7
     },
@@ -9269,10 +10169,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.9
     },
@@ -9305,10 +10205,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.0
     },
@@ -9377,10 +10277,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 36.3
     },
@@ -9413,10 +10313,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
         "state": "out",
         "round": "",
-        "reason": "No compite en MSC Hamburg Ladies Open"
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.0
     }
@@ -9969,9 +10869,202 @@ window.TENNIS_DATA = {
       }
     }
   ],
-  "ATP_RECENT": [],
-  "ATP_TODAY": [],
+  "ATP_RECENT": [
+    {
+      "name": "Nordea Open",
+      "level": "ATP 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "F",
+          "w": "Andrey Rublev",
+          "w_logo": "",
+          "l": "Luciano Darderi",
+          "l_logo": "",
+          "score": "6-4 6-3",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 75.2,
+          "l_score": 65.9,
+          "match_score": 75.2
+        }
+      ]
+    },
+    {
+      "name": "EFG Swiss Open Gstaad",
+      "level": "ATP 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "F",
+          "w": "Stefanos Tsitsipas",
+          "w_logo": "",
+          "l": "Raphael Collignon",
+          "l_logo": "",
+          "score": "6-4 6-7 (3-7) 6-3",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 65.2,
+          "l_score": 64.2,
+          "match_score": 65.2
+        }
+      ]
+    }
+  ],
+  "ATP_TODAY": [
+    {
+      "name": "Generali Open",
+      "level": "ATP 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Ignacio Buse",
+          "w_logo": "",
+          "l": "Vit Kopriva",
+          "l_logo": "",
+          "score": "In Progress",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 68.3,
+          "l_score": 59.7,
+          "match_score": 68.3
+        },
+        {
+          "round": "R128",
+          "w": "Mariano Navone",
+          "w_logo": "",
+          "l": "Alexandre Muller",
+          "l_logo": "",
+          "score": "6-4 6-0",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 64.1,
+          "l_score": 51.8,
+          "match_score": 64.1
+        },
+        {
+          "round": "R128",
+          "w": "Yannick Hanfmann",
+          "w_logo": "",
+          "l": "Lukas Neumayer",
+          "l_logo": "",
+          "score": "7-6 (7-5) 6-4",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 62.5,
+          "l_score": null,
+          "match_score": 62.5
+        },
+        {
+          "round": "R128",
+          "w": "Federico Cina",
+          "w_logo": "",
+          "l": "Facundo Diaz Acosta",
+          "l_logo": "",
+          "score": "In Progress",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 49.2,
+          "match_score": 49.2
+        },
+        {
+          "round": "R128",
+          "w": "Jurij Rodionov",
+          "w_logo": "",
+          "l": "Joel Josef Schwaerzler",
+          "l_logo": "",
+          "score": "6-4 6-2",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 47.8,
+          "l_score": null,
+          "match_score": 47.8
+        }
+      ]
+    },
+    {
+      "name": "Millennium Estoril Open",
+      "level": "ATP 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Luca Van Assche",
+          "w_logo": "",
+          "l": "Frederico Ferreira Silva",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 61.6,
+          "l_score": null,
+          "match_score": 61.6
+        },
+        {
+          "round": "R128",
+          "w": "Camilo Ugo Carabelli",
+          "w_logo": "",
+          "l": "Titouan Droguet",
+          "l_logo": "",
+          "score": "In Progress",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 57.0,
+          "l_score": 56.6,
+          "match_score": 57.0
+        },
+        {
+          "round": "R128",
+          "w": "Tiago Torres",
+          "w_logo": "",
+          "l": "Nikoloz Basilashvili",
+          "l_logo": "",
+          "score": "6-4 6-2",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 50.6,
+          "match_score": 50.6
+        },
+        {
+          "round": "R128",
+          "w": "Henrique Rocha",
+          "w_logo": "",
+          "l": "Pedro Martinez",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 44.8,
+          "l_score": null,
+          "match_score": 44.8
+        }
+      ]
+    }
+  ],
   "WTA_RECENT": [
+    {
+      "name": "Vanda Pharmaceuticals Athens Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "F",
+          "w": "Barbora Krejcikova",
+          "w_logo": "",
+          "l": "Maria Sakkari",
+          "l_logo": "",
+          "score": "7-6 (7-5) 6-3",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 72.3,
+          "l_score": 65.3,
+          "match_score": 72.3
+        }
+      ]
+    },
     {
       "name": "ATV Bancomat Tennis Open",
       "level": "Masters 1000",
@@ -9991,13 +11084,282 @@ window.TENNIS_DATA = {
           "match_score": 42.8
         }
       ]
+    },
+    {
+      "name": "Enka Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "F",
+          "w": "Lanlana Tararudee",
+          "w_logo": "",
+          "l": "Hanne Vandewinkel",
+          "l_logo": "",
+          "score": "6-4 4-6 6-3",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 37.9,
+          "l_score": 47.7,
+          "match_score": 47.7
+        }
+      ]
+    },
+    {
+      "name": "Generali Open Ladies Kitzbühel",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "F",
+          "w": "Sinja Kraus",
+          "w_logo": "",
+          "l": "Julia Grabher",
+          "l_logo": "",
+          "score": "6-3 6-1",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 44.5,
+          "l_score": 35.0,
+          "match_score": 44.5
+        }
+      ]
     }
   ],
   "WTA_TODAY": [
     {
+      "name": "Unicredit Iasi Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "F",
+          "w": "Mayar Sherif",
+          "w_logo": "",
+          "l": "Paula Badosa",
+          "l_logo": "",
+          "score": "6-4 4-0 ret",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 36.0,
+          "l_score": 52.3,
+          "match_score": 52.3
+        }
+      ]
+    },
+    {
+      "name": "Livesport Prague Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Marie Bouzkova",
+          "w_logo": "",
+          "l": "Jessica Bouzas Maneiro",
+          "l_logo": "",
+          "score": "7-5 7-5",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 72.3,
+          "l_score": 55.9,
+          "match_score": 72.3
+        },
+        {
+          "round": "R128",
+          "w": "Daria Snigur",
+          "w_logo": "",
+          "l": "Ella Seidel",
+          "l_logo": "",
+          "score": "7-5 3-6 6-3",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 61.2,
+          "l_score": 43.7,
+          "match_score": 61.2
+        },
+        {
+          "round": "R128",
+          "w": "Antonia Ruzic",
+          "w_logo": "",
+          "l": "Dominika Salkova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 60.8,
+          "l_score": 49.8,
+          "match_score": 60.8
+        },
+        {
+          "round": "R128",
+          "w": "Lucie Havlickova",
+          "w_logo": "",
+          "l": "Alycia Parks",
+          "l_logo": "",
+          "score": "6-2 6-4",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 55.9,
+          "match_score": 55.9
+        },
+        {
+          "round": "R128",
+          "w": "Carol Young Suh Lee",
+          "w_logo": "",
+          "l": "Veronika Podrez",
+          "l_logo": "",
+          "score": "6-1 5-7 6-2",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 48.9,
+          "match_score": 48.9
+        },
+        {
+          "round": "R128",
+          "w": "Oceane Dodin",
+          "w_logo": "",
+          "l": "Alisa Oktiabreva",
+          "l_logo": "",
+          "score": "6-3 6-3",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Sofia Costoulas",
+          "w_logo": "",
+          "l": "Ayla Aksu",
+          "l_logo": "",
+          "score": "In Progress",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Palermo Ladies Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Ane Mintegi Del Olmo",
+          "w_logo": "",
+          "l": "Ekaterine Gorgodze",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Dalila Spiteri",
+          "w_logo": "",
+          "l": "Alessandra Mazzola",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Deborah Chiesa",
+          "w_logo": "",
+          "l": "Yasmine Kabbaj",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Elizara Yaneva",
+          "w_logo": "",
+          "l": "Federica Urgesi",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Erika Andreeva",
+          "w_logo": "",
+          "l": "Lina Gjorcheska",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Jennifer Ruggeri",
+          "w_logo": "",
+          "l": "Amarissa Toth",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Lola Radivojevic",
+          "w_logo": "",
+          "l": "Sofya Lansere",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Ren Yufei",
+          "w_logo": "",
+          "l": "Fiona Ferro",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        }
+      ]
+    },
+    {
       "name": "MSC Hamburg Ladies Open",
-      "level": "ATP 500",
-      "surface": "Clay",
+      "level": "WTA 250",
+      "surface": "",
       "matches": [
         {
           "round": "R128",
@@ -10041,57 +11403,217 @@ window.TENNIS_DATA = {
       ]
     }
   ],
-  "ATP_TOURNAMENT": {},
-  "WTA_TOURNAMENT": {
-    "name": "MSC Hamburg Ladies Open",
-    "level": "ATP 500",
-    "surface": "Clay",
-    "tour": "WTA",
+  "ATP_TOURNAMENT": {
+    "name": "Generali Open · Millennium Estoril Open",
+    "level": "ATP 250",
+    "surface": "",
+    "tour": "ATP",
     "events": [
       {
-        "name": "MSC Hamburg Ladies Open",
-        "level": "ATP 500",
-        "surface": "Clay"
+        "name": "Generali Open",
+        "level": "ATP 250",
+        "surface": ""
+      },
+      {
+        "name": "Millennium Estoril Open",
+        "level": "ATP 250",
+        "surface": ""
       }
     ],
     "alive": [
+      "Adolfo Daniel Vallejo",
+      "Alejandro Tabilo",
+      "Aleksandr Shevchenko",
+      "Alex Molcan",
+      "Botic Van De Zandschulp",
+      "Camilo Ugo Carabelli",
+      "Damir Dzumhur",
+      "Daniel Altmaier",
+      "Daniel Merida",
+      "Facundo Diaz Acosta",
+      "Federico Cina",
+      "Frederico Ferreira Silva",
+      "Gonzalo Bueno",
+      "Henrique Rocha",
+      "Hugo Gaston",
+      "Ignacio Buse",
+      "Jaime Faria",
+      "Jan Choinski",
+      "Jan-Lennard Struff",
+      "Jesper de Jong",
+      "Juan Manuel Cerundolo",
+      "Jurij Rodionov",
+      "Kilian Feldbausch",
+      "Laslo Djere",
+      "Luca Van Assche",
+      "Marco Trungelliti",
+      "Mariano Navone",
+      "Miomir Kecmanovic",
+      "Nuno Borges",
+      "Orlando Luz",
+      "Pablo Carreno Busta",
+      "Pedro Martinez",
+      "Quentin Halys",
+      "Raphael Collignon",
+      "Roman Andres Burruchaga",
+      "Sebastian Baez",
+      "Sebastian Ofner",
+      "Stan Wawrinka",
+      "Taro Daniel",
+      "Tiago Pereira",
+      "Tiago Torres",
+      "Titouan Droguet",
+      "Tomas Martin Etcheverry",
+      "Vilius Gaubas",
+      "Vit Kopriva",
+      "Yannick Hanfmann"
+    ],
+    "out": [
+      "Alexandre Muller",
+      "Joel Josef Schwaerzler",
+      "Lukas Neumayer",
+      "Nikoloz Basilashvili"
+    ],
+    "aliveCount": 46,
+    "matchesSeen": 26
+  },
+  "WTA_TOURNAMENT": {
+    "name": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
+    "level": "WTA 250",
+    "surface": "",
+    "tour": "WTA",
+    "events": [
+      {
+        "name": "Unicredit Iasi Open",
+        "level": "WTA 250",
+        "surface": ""
+      },
+      {
+        "name": "Livesport Prague Open",
+        "level": "WTA 250",
+        "surface": ""
+      },
+      {
+        "name": "Palermo Ladies Open",
+        "level": "WTA 250",
+        "surface": ""
+      },
+      {
+        "name": "MSC Hamburg Ladies Open",
+        "level": "WTA 250",
+        "surface": ""
+      }
+    ],
+    "alive": [
+      "Alessandra Mazzola",
+      "Alevtina Ibragimova",
+      "Aliaksandra Sasnovich",
+      "Alice Rame",
       "Alina Charaeva",
+      "Amarissa Toth",
+      "Anastasia Abbagnato",
+      "Anastasia Tikhonova",
+      "Ane Mintegi Del Olmo",
       "Anhelina Kalinina",
+      "Anna Blinkova",
       "Anna Bondar",
+      "Antonia Ruzic",
       "Arantxa Rus",
+      "Ayla Aksu",
+      "Barbora Krejcikova",
+      "Caijsa Hennemann",
+      "Carol Young Suh Lee",
+      "Caroline Werner",
+      "Clara Burel",
+      "Dalila Spiteri",
+      "Daria Snigur",
       "Darja Semenistaja",
+      "Darya Astakhova",
+      "Deborah Chiesa",
+      "Diane Parry",
+      "Dominika Salkova",
+      "Ekaterine Gorgodze",
       "Elena Pridankina",
       "Elina Avanesyan",
+      "Elizara Yaneva",
       "Elsa Jacquemot",
+      "Erika Andreeva",
+      "Federica Urgesi",
+      "Fiona Ferro",
+      "Francesca Jones",
+      "Gao Xinyu",
+      "Ilary Pistola",
+      "Jana Kovackova",
+      "Jennifer Ruggeri",
       "Jule Niemeier",
       "Julia Stusek",
+      "Kaitlin Quevedo",
       "Katarzyna Kawa",
+      "Lanlana Tararudee",
+      "Laura Samson",
       "Leyre Romero Gormaz",
+      "Lilli Tagger",
+      "Lina Gjorcheska",
+      "Linda Fruhvirtova",
+      "Lola Radivojevic",
+      "Lucia Bronzetti",
+      "Lucie Havlickova",
+      "Mai Hontama",
       "Maria Lourdes Carle",
+      "Maria Timofeeva",
+      "Marie Bouzkova",
+      "Maya Joint",
       "Mayar Sherif",
+      "Mina Hodzic",
+      "Miriam Bulgaru",
       "Mona Barthel",
       "Moyuka Uchijima",
       "Nadia Podoroska",
       "Nastasja Schunk",
+      "Nikola Bartunkova",
+      "Noemi Basiletti",
       "Noma Noha Akugue",
+      "Oceane Dodin",
       "Oleksandra Oliynykova",
       "Panna Udvardy",
       "Paula Badosa",
+      "Petra Marcinko",
+      "Priscilla Hon",
+      "Ren Yufei",
+      "Sara Bejlek",
       "Sara Sorribes Tormo",
       "Simona Waltert",
       "Sinja Kraus",
+      "Sofia Costoulas",
+      "Sofya Lansere",
       "Tamara Korpatsch",
+      "Tamara Zidansek",
+      "Tereza Valentova",
       "Tessa Johanna Brockmann",
+      "Tyra Caterina Grant",
       "Valentina Steiner",
       "Veronika Erjavec",
       "Victoria Jimenez Kasintseva",
+      "Yasmine Kabbaj",
+      "Yuan Yue",
       "Yulia Putintseva"
     ],
     "out": [
-      "Kaitlin Quevedo"
+      "Alisa Oktiabreva",
+      "Alycia Parks",
+      "Claire Liu",
+      "Dalma Galfi",
+      "Elena-Gabriela Ruse",
+      "Ella Seidel",
+      "Emiliana Arango",
+      "Ilinca Amariei",
+      "Ipek Oz",
+      "Jessica Bouzas Maneiro",
+      "Varvara Lepchenko",
+      "Veronika Podrez"
     ],
-    "aliveCount": 31,
-    "matchesSeen": 16
+    "aliveCount": 92,
+    "matchesSeen": 80
   },
   "ATP_SCORE_LOG": {
     "206173": [

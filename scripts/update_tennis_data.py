@@ -246,7 +246,7 @@ _TOURNAMENT_REGISTRY: list[dict] = [
     {"keys": ("munich", "münchen", "munchen", "bmw open"),      "level": "ATP 500",       "surface": "Clay"},
     {"keys": ("terra wortmann", "halle, germany"),             "level": "ATP 500",       "surface": "Grass"},
     {"keys": ("queen", "hsbc championships", "cinch champ"),     "level": "ATP 500",       "surface": "Grass"},
-    {"keys": ("hamburg",),                                      "level": "ATP 500",       "surface": "Clay"},
+    {"keys": ("hamburg",),              "tour": "atp",          "level": "ATP 500",       "surface": "Clay"},
     {"keys": ("washington", "citi open"),                       "level": "500",           "surface": "Hard"},
     {"keys": ("vienna", "erste bank"),                          "level": "ATP 500",       "surface": "Hard"},
     {"keys": ("basel", "swiss indoors"),                        "level": "ATP 500",       "surface": "Hard"},
@@ -261,6 +261,10 @@ _TOURNAMENT_REGISTRY: list[dict] = [
     {"keys": ("adelaide",),                                     "level": "500",           "surface": "Hard"},
     {"keys": ("ningbo",),                                       "level": "WTA 500",       "surface": "Hard"},
 ]
+
+# Tier assigned to any main-tour event not matched by the curated registry above
+# (see the fallback in _classify_tournament). Keyed by tour.
+_GENERIC_TIER = {"atp": "ATP 250", "wta": "WTA 250"}
 
 def _classify_tournament(name: str, venue: str = "", tour: str = "") -> "dict | None":
     """Map an ESPN event (name + venue city) to {level, surface}, or None if it is
@@ -277,7 +281,16 @@ def _classify_tournament(name: str, venue: str = "", tour: str = "") -> "dict | 
             continue
         if agnostic is None:
             agnostic = entry
-    return {"level": agnostic["level"], "surface": agnostic["surface"]} if agnostic else None
+    if agnostic:
+        return {"level": agnostic["level"], "surface": agnostic["surface"]}
+    # Fallback: an unregistered main-tour event — in practice an ATP/WTA 250, the
+    # only tier not curated above. ESPN's atp/wta scoreboard lists only main-tour
+    # singles events, so classifying these generically keeps the "current
+    # tournament" and recent-results panels populated during 250-only weeks (the
+    # summer/indoor swings) instead of going dark. Surface is unknown from ESPN,
+    # so we leave it blank; the app renders a neutral badge with no label.
+    generic = _GENERIC_TIER.get(tour)
+    return {"level": generic, "surface": ""} if generic else None
 
 def _event_venue(event: dict) -> str:
     return (event.get("venue", {}) or {}).get("displayName", "") or ""
