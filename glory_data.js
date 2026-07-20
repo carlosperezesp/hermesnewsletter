@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-19 22:13 UTC",
+  "UPDATED": "2026-07-20 08:20 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Moët & Chandon Belgian Grand Prix:Max Verstappen",
@@ -41,14 +41,6 @@ window.GLORY_DATA = {
       "text": "Chase Briscoe ganó en Chicagoland Speedway",
       "weight": 100,
       "firstSeen": "2026-07-06"
-    },
-    {
-      "id": "indycar:win:Grand Prix of Mid-Ohio:Pato O'Ward",
-      "sport": "indycar",
-      "detail": "IndyCar",
-      "text": "Pato O'Ward ganó en Grand Prix of Mid-Ohio",
-      "weight": 100,
-      "firstSeen": "2026-07-05"
     },
     {
       "id": "rank:football:ROAD_TO_GLORY.currentContenders:new1:Spain",
@@ -96,6 +88,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-10"
     },
     {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Willson Contreras",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Willson Contreras entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-07-20"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Colson Montgomery",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-jovenes-promesas",
+      "text": "Colson Montgomery entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-07-20"
+    },
+    {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Chris Sale",
       "sport": "mlb",
       "detail": "MLB",
@@ -130,24 +140,6 @@ window.GLORY_DATA = {
       "text": "St Kilda entra en el top-10 · clasificación",
       "weight": 84,
       "firstSeen": "2026-07-11"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Ben Rice",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "Ben Rice entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-07-09"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Chase Burns",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-jovenes-promesas",
-      "text": "Chase Burns entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-07-09"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Cam Schlittler",
@@ -347,9 +339,9 @@ window.GLORY_DATA = {
       "Juan Soto",
       "Yordan Alvarez",
       "Kyle Schwarber",
-      "Chris Sale",
       "Jacob Misiorowski",
-      "Ben Rice"
+      "Chris Sale",
+      "Willson Contreras"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -367,12 +359,12 @@ window.GLORY_DATA = {
       "Jacob Misiorowski",
       "James Wood",
       "Jordan Walker",
-      "Pete Crow-Armstrong",
       "Sal Stewart",
+      "Pete Crow-Armstrong",
       "Junior Caminero",
-      "Nick Kurtz",
       "CJ Abrams",
-      "Chase Burns",
+      "Nick Kurtz",
+      "Colson Montgomery",
       "Cam Schlittler"
     ],
     "nfl:ROAD_TO_GLORY.players": [

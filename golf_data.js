@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-19 22:12 UTC
+// Auto-generated 2026-07-20 08:19 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-19 22:12 UTC",
+  "UPDATED": "2026-07-20 08:19 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -11,94 +11,13 @@ window.GOLF_DATA = {
     "location": "Southport, England",
     "surface": "Links",
     "defending": "Scottie Scheffler",
-    "state": "live",
+    "state": "completed",
     "tier": "Major",
     "startLabel": "16 Jul",
     "endLabel": "19 Jul",
-    "round": 4,
+    "round": 0,
     "daysToStart": 0,
-    "leaderboard": [
-      {
-        "rank": 1,
-        "name": "Ryan Fox",
-        "id": "4251",
-        "country": "New Zealand",
-        "score": "-10",
-        "today": "-2"
-      },
-      {
-        "rank": 2,
-        "name": "Cameron Young",
-        "id": "4425906",
-        "country": "USA",
-        "score": "-9",
-        "today": "-6"
-      },
-      {
-        "rank": 3,
-        "name": "Sam Burns",
-        "id": "9938",
-        "country": "USA",
-        "score": "-8",
-        "today": "+2"
-      },
-      {
-        "rank": 4,
-        "name": "Scottie Scheffler",
-        "id": "9478",
-        "country": "USA",
-        "score": "-7",
-        "today": "-3"
-      },
-      {
-        "rank": 5,
-        "name": "Tommy Fleetwood",
-        "id": "5539",
-        "country": "England",
-        "score": "-7",
-        "today": "-2"
-      },
-      {
-        "rank": 6,
-        "name": "Casey Jarvis",
-        "id": "4610056",
-        "country": "South Africa",
-        "score": "-6",
-        "today": "-4"
-      },
-      {
-        "rank": 7,
-        "name": "Lucas Herbert",
-        "id": "10343",
-        "country": "Australia",
-        "score": "-6",
-        "today": "+1"
-      },
-      {
-        "rank": 8,
-        "name": "Si Woo Kim",
-        "id": "7081",
-        "country": "South Korea",
-        "score": "-6",
-        "today": "+2"
-      },
-      {
-        "rank": 9,
-        "name": "Russell Henley",
-        "id": "5409",
-        "country": "USA",
-        "score": "-5",
-        "today": "-4"
-      },
-      {
-        "rank": 10,
-        "name": "Adam Scott",
-        "id": "388",
-        "country": "Australia",
-        "score": "-5",
-        "today": "-4"
-      }
-    ],
+    "leaderboard": [],
     "favorites": [
       "Scottie Scheffler",
       "Matt Fitzpatrick",
@@ -108,72 +27,72 @@ window.GOLF_DATA = {
     ]
   },
   "LAST_MAJOR": {
-    "name": "U.S. Open",
-    "venue": "Shinnecock Hills Golf Club",
-    "location": "Southampton, New York",
-    "surface": "U.S. Open setup",
+    "name": "The Open Championship",
+    "venue": "Royal Birkdale Golf Club",
+    "location": "Southport, England",
+    "surface": "Links",
     "tour": "Men",
-    "end": "2026-06-21",
-    "endLabel": "21 Jun 2026",
+    "end": "2026-07-19",
+    "endLabel": "19 Jul 2026",
     "champion": {
       "rank": 1,
-      "name": "Wyndham Clark",
-      "id": "11119",
-      "country": "USA",
-      "score": "-4",
-      "today": "+3",
-      "nivel": 97,
-      "legend": 11.4
+      "name": "Ryan Fox",
+      "id": "4251",
+      "country": "New Zealand",
+      "score": "-10",
+      "today": "-2",
+      "nivel": 83,
+      "legend": 0.0
     },
     "podium": [
       {
         "rank": 1,
-        "name": "Wyndham Clark",
-        "id": "11119",
-        "country": "USA",
-        "score": "-4",
-        "today": "+3",
-        "nivel": 97,
-        "legend": 11.4
+        "name": "Ryan Fox",
+        "id": "4251",
+        "country": "New Zealand",
+        "score": "-10",
+        "today": "-2",
+        "nivel": 83,
+        "legend": 0.0
       },
       {
         "rank": 2,
-        "name": "Sam Burns",
-        "id": "9938",
+        "name": "Cameron Young",
+        "id": "4425906",
         "country": "USA",
-        "score": "-3",
-        "today": "-3",
-        "nivel": 94,
+        "score": "-9",
+        "today": "-6",
+        "nivel": 98,
         "legend": 0.0
       },
       {
         "rank": 3,
-        "name": "Tom Kim",
-        "id": "4602673",
-        "country": "South Korea",
-        "score": "-1",
-        "today": "E",
-        "nivel": 71,
+        "name": "Sam Burns",
+        "id": "9938",
+        "country": "USA",
+        "score": "-8",
+        "today": "+2",
+        "nivel": 94,
         "legend": 0.0
       },
       {
         "rank": 4,
-        "name": "J.T. Poston",
-        "id": "10505",
+        "name": "Scottie Scheffler",
+        "id": "9478",
         "country": "USA",
-        "score": "E",
+        "score": "-7",
         "today": "-3",
-        "nivel": 79,
-        "legend": 0.0
+        "nivel": 100,
+        "legend": 22.9
       },
       {
         "rank": 5,
-        "name": "Keith Mitchell",
-        "id": "8906",
-        "country": "USA",
-        "score": "E",
-        "today": "E",
-        "nivel": 62,
+        "name": "Tommy Fleetwood",
+        "id": "5539",
+        "country": "England",
+        "score": "-7",
+        "today": "-2",
+        "nivel": 93,
         "legend": 0.0
       }
     ]
@@ -380,7 +299,7 @@ window.GOLF_DATA = {
         "fedexRank": 8,
         "tour": "PGA"
       },
-      "prevRank": 10
+      "prevRank": 8
     },
     {
       "id": "tommy_fleetwood",
@@ -426,7 +345,7 @@ window.GOLF_DATA = {
         "fedexRank": 10,
         "tour": "PGA"
       },
-      "prevRank": 8
+      "prevRank": 10
     },
     {
       "id": "rory_mcilroy",
@@ -449,7 +368,7 @@ window.GOLF_DATA = {
         "fedexRank": 11,
         "tour": "PGA"
       },
-      "prevRank": 12
+      "prevRank": 11
     },
     {
       "id": "akshay_bhatia",
@@ -472,7 +391,7 @@ window.GOLF_DATA = {
         "fedexRank": 12,
         "tour": "PGA"
       },
-      "prevRank": 11
+      "prevRank": 12
     }
   ],
   "PROSPECTS": [
@@ -1165,7 +1084,7 @@ window.GOLF_DATA = {
         "fedexRank": 8,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 9,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     },
@@ -1196,5 +1115,5 @@ window.GOLF_DATA = {
     }
   ],
   "LEGEND_THRESHOLD": 37.5,
-  "IMPORTANCE": 10.0
+  "IMPORTANCE": 6.5
 };

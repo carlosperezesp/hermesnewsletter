@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-07-19 21:09 UTC",
+  "UPDATED": "2026-07-20 08:20 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1566,
+    "matches": 1565,
     "archives": [
       {
         "name": "Tests",
@@ -37,7 +37,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "MLC",
-        "matches": 72
+        "matches": 71
       }
     ],
     "note": "Daily-after-results model: no live scores, recalculates from completed Cricsheet scorecards."
@@ -856,7 +856,7 @@ window.CRICKET_DATA = {
           "batting": 54.6,
           "bowling": 4.8,
           "overall": 30.5,
-          "runs": 2943,
+          "runs": 2890,
           "wickets": 9
         }
       ],
@@ -2304,22 +2304,22 @@ window.CRICKET_DATA = {
           "wickets": 51
         },
         {
-          "id": "taijul-islam",
-          "name": "Taijul Islam",
+          "id": "m-jansen",
+          "name": "M Jansen",
           "role": "Bowler",
-          "country": "Bangladesh",
-          "teamCode": "BAN",
+          "country": "South Africa",
+          "teamCode": "SA",
           "colors": {
-            "primary": "#006a4e",
-            "secondary": "#f42a41"
+            "primary": "#007a4d",
+            "secondary": "#ffb81c"
           },
-          "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 75.8,
-          "batting": 15.8,
-          "bowling": 80.3,
-          "overall": 75.8,
-          "runs": 266,
-          "wickets": 75
+          "logo": "https://flagcdn.com/24x18/za.png",
+          "score": 76.0,
+          "batting": 16.5,
+          "bowling": 77.4,
+          "overall": 76.0,
+          "runs": 564,
+          "wickets": 100
         }
       ],
       "batting": [

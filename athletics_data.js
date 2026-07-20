@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-19 22:13 UTC
+// Auto-generated 2026-07-20 08:20 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-19 22:13 UTC",
+  "UPDATED": "2026-07-20 08:20 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -1649,108 +1649,7 @@ window.ATHLETICS_DATA = {
               "year": 2024
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "12.14",
-              "athlete": "Masai Russell",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "12.28",
-              "athlete": "Tobi Amusan",
-              "country": "NGR",
-              "flag": "https://flagcdn.com/24x18/ng.png",
-              "primary": "#008751",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "12.37",
-              "athlete": "Devynne Charlton",
-              "country": "BAH",
-              "flag": "https://flagcdn.com/24x18/bs.png",
-              "primary": "#4A4745",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "12.38",
-              "athlete": "Grace Stark",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "12.38",
-              "athlete": "Alaysha Johnson",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Stade Louis II",
-              "date": "10 JUL 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "12.40",
-              "athlete": "Demisha Roswell",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "National Stadium",
-              "date": "21 JUN 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "12.41",
-              "athlete": "Nadine Visser",
-              "country": "NED",
-              "flag": "https://flagcdn.com/24x18/nl.png",
-              "primary": "#AE1C28",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "12.43",
-              "athlete": "Rayniah Jones",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Sports Park Mladost",
-              "date": "26 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "12.44",
-              "athlete": "Aaliyah Mccormick",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "John McDonnell Field",
-              "date": "30 MAY 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "12.44",
-              "athlete": "Pia Skrzyszowska",
-              "country": "POL",
-              "flag": "https://flagcdn.com/24x18/pl.png",
-              "primary": "#DC143C",
-              "venue": "Stade Raymond Petit",
-              "date": "03 JUL 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "400mh_m",

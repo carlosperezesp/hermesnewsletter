@@ -4749,7 +4749,7 @@ window.NHL_DATA = {
       "name": "Morgan Geekie",
       "pos": "C",
       "teamCode": "BOS",
-      "age": 27,
+      "age": 28,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -21929,7 +21929,7 @@ window.NHL_DATA = {
       "name": "Nick Cousins",
       "pos": "C",
       "teamCode": "OTT",
-      "age": 32,
+      "age": 33,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -28689,7 +28689,7 @@ window.NHL_DATA = {
       "name": "Jaroslav Chmelar",
       "pos": "RW",
       "teamCode": "NYR",
-      "age": 22,
+      "age": 23,
       "country": "Czechia",
       "birthCountry": "CZE",
       "colors": {
@@ -47978,10 +47978,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-19 22:12 UTC",
+  "LAST_UPDATE": "2026-07-20 08:18 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-19T22:11:47Z"
+    "standingsDateTimeUtc": "2026-07-20T08:17:45Z"
   }
 };
