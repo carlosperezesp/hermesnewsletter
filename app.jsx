@@ -67,7 +67,7 @@ const GLORY_CHANGES = (() => {
 })();
 const AnchorChangesContext = React.createContext(null);
 
-function NewsletterRankRow({ rank, item, alive, aliveKey = "teamCode", forceOut = false, score, scoreDisplay, scoreLabel, scoreDelta, meta, note, threshold, logo, scoreB, scoreBDisplay, scoreBLabel, scoreBThreshold, prevRank, rowClassName = "", legendActive = false }) {
+function NewsletterRankRow({ rank, item, alive, aliveKey = "teamCode", forceOut = false, score, scoreDisplay, scoreLabel, scoreDelta, meta, note, threshold, logo, scoreB, scoreBDisplay, scoreBLabel, scoreBThreshold, prevRank, rowClassName = "", legendActive = false, badge }) {
   // Badge derivado del log de Gloria (nuevo nº1 / entró), si esta tabla tiene ancla.
   const tableChanges = React.useContext(AnchorChangesContext);
   let gloryBadge = null;
@@ -138,7 +138,17 @@ function NewsletterRankRow({ rank, item, alive, aliveKey = "teamCode", forceOut 
       <span className="newsletter-row__identity">
         <TeamSwatch colors={item.colors} code={item.teamCode} logo={logo} />
         <span className="newsletter-row__copy">
-          <span className="newsletter-row__name">{item.name || item.city}</span>
+          <span className="newsletter-row__name">
+            {item.name || item.city}
+            {badge && (
+              <span style={{ display: "inline-flex", alignItems: "center", gap: 3, marginLeft: 8,
+                fontSize: 11, fontWeight: 800, fontFamily: "monospace", lineHeight: 1,
+                background: "var(--ink,#1a1714)", color: "var(--paper,#faf9f7)",
+                padding: "2px 7px", borderRadius: 4, letterSpacing: "0.03em", verticalAlign: "middle" }}>
+                {badge}
+              </span>
+            )}
+          </span>
           <span className="newsletter-row__meta">{meta}</span>
         </span>
       </span>
@@ -2872,6 +2882,11 @@ function NewsletterApp() {
             if (w.wins === 0 && w.losses === 0) return `Kyujo (${w.absences}A)`;
             return `${w.wins}W–${w.losses}L${w.absences > 0 ? `–${w.absences}A` : ""}`;
           }
+          // Récord compacto para el badge destacado del basho en curso (V–D).
+          function bashoBadge(w) {
+            if (w.wins === 0 && w.losses === 0) return `Kyujo`;
+            return `${w.wins}–${w.losses}${w.absences > 0 ? ` · ${w.absences}A` : ""}`;
+          }
           return (
             <>
               <header className="newsletter-hero" style={{ marginTop: 48 }}>
@@ -2895,7 +2910,7 @@ function NewsletterApp() {
                   anchor="sumo-banzuke"
                   kicker={`Clasificación — ${bashoLabel(SUMO.BASHO_ID)}`}
                   title="Top 5 + Yokozunas"
-                  sub="Ordenado por victorias. Score de leyendas (Hakuho=100) al lado de cada luchador."
+                  sub="El recuadro negro junto a cada nombre es el récord del basho en curso (victorias–derrotas). El número grande de la derecha es el score histórico de leyenda (Hakuho=100), no el resultado de este torneo."
                 >
                   <div className="newsletter-list">
                     {top5.length > 0 && (
@@ -2910,11 +2925,12 @@ function NewsletterApp() {
                         item={{ ...w, colors: { primary: w.primary || "#4a4745" } }}
                         alive={new Set()}
                         logo={w.logo}
+                        badge={bashoBadge(w)}
                         score={w.legendScore || 0}
                         scoreLabel="Leyenda"
                         threshold={100}
                         meta={`${w.rankShort}${w.age != null ? ` · ${w.age} años` : ""}`}
-                        note={`Basho ${recordStr(w)}${bashoInfo?.winner === w.name ? " · 🏆 Campeón" : ""}`}
+                        note={bashoInfo?.winner === w.name ? "🏆 Campeón del basho" : `Récord basho ${recordStr(w)}`}
                       />
                     ))}
                     {yokozunas.length > 0 && (
@@ -2929,11 +2945,12 @@ function NewsletterApp() {
                         item={{ ...w, colors: { primary: w.primary || "#4a4745" } }}
                         alive={new Set()}
                         logo={w.logo}
+                        badge={bashoBadge(w)}
                         score={w.legendScore || 0}
                         scoreLabel="Leyenda"
                         threshold={100}
                         meta={`${w.rankShort}${w.age != null ? ` · ${w.age} años` : ""}`}
-                        note={`Basho ${recordStr(w)}${bashoInfo?.winner === w.name ? " · 🏆 Campeón" : ""}`}
+                        note={bashoInfo?.winner === w.name ? "🏆 Campeón del basho" : `Récord basho ${recordStr(w)}`}
                       />
                     ))}
                   </div>
@@ -2944,7 +2961,7 @@ function NewsletterApp() {
                 <NewsletterSection
                   kicker="Road to Glory · Jóvenes promesa"
                   title="Jóvenes promesa (≤25 años)"
-                  sub="Proyección por el rango alcanzado a su edad + bonus de juventud. Llegar arriba muy joven es la mejor señal de un futuro Yokozuna."
+                  sub="El score 'Potencial' (0–100) NO mide cómo va el luchador en este basho, sino su proyección a futuro Yokozuna: base según el rango que ya ha alcanzado (Yokozuna 100 · Ozeki 88 · Sekiwake 76 · Komusubi 68 · Maegashira 60→30) + un bonus de juventud de 1,5 pts por cada año por debajo de 25. Llegar muy arriba muy joven es la mejor señal."
                 >
                   <div className="newsletter-list">
                     {youngProspects.map((p, i) => (
@@ -2954,11 +2971,12 @@ function NewsletterApp() {
                         item={{ ...p, colors: { primary: p.primary || "#4a4745" } }}
                         alive={new Set()}
                         logo={p.logo}
+                        badge={bashoBadge(p)}
                         score={p.projectedScore}
-                        scoreLabel="Promesa"
+                        scoreLabel="Potencial"
                         threshold={100}
                         meta={`${p.rankShort} · ${p.age} años`}
-                        note={`Basho ${recordStr(p)}${p.yusho > 0 ? ` · ${p.yusho} yusho` : ""}`}
+                        note={`Récord basho ${recordStr(p)}${p.yusho > 0 ? ` · ${p.yusho} yusho` : ""}`}
                       />
                     ))}
                   </div>
@@ -4301,6 +4319,29 @@ function NewsletterApp() {
           const dynasties = (RUG.ROAD_TO_GLORY?.dynasties || []).slice(0, 10);
           const dynastyThreshold = RUG.ROAD_TO_GLORY?.dynastyThreshold || 73;
 
+          const cal = RUG.CALENDAR || { recent: [], upcoming: [] };
+          const rugMonths = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"];
+          const fmtRugDate = (iso) => {
+            const [, m, d] = iso.split("-").map(Number);
+            return `${d} ${rugMonths[m - 1]}`;
+          };
+          const rugRowStyle = {
+            display: "flex", alignItems: "center", gap: 8,
+            padding: "7px 0", borderTop: "1px solid var(--border,#e0dcd5)", fontSize: 13,
+          };
+          const rugTeam = (side) => (
+            <span style={{ display: "inline-flex", alignItems: "center", gap: 5 }}>
+              <span style={{ width: 9, height: 9, borderRadius: 2, flexShrink: 0,
+                background: side.colors?.primary || "#8a8178", border: "1px solid rgba(0,0,0,0.15)" }} />
+              <span style={{ fontWeight: 700 }}>{side.name}</span>
+            </span>
+          );
+          const rugComp = (c) => (
+            <span style={{ fontSize: 10, fontFamily: "monospace", fontWeight: 700, flexShrink: 0,
+              background: "var(--ink,#1a1714)", color: "var(--paper,#faf9f7)",
+              padding: "2px 6px", borderRadius: 3, letterSpacing: "0.04em" }}>{c}</span>
+          );
+
           function wcLabel(count) {
             return `${count} Mundial${count === 1 ? "" : "es"}`;
           }
@@ -4321,6 +4362,59 @@ function NewsletterApp() {
                   </p>
                 </div>
               </header>
+
+              {cal.recent.length > 0 && (
+                <NewsletterSection
+                  kicker="Calendario · resultados"
+                  title="Últimos partidos internacionales"
+                  sub="Resultados recientes de partidos entre selecciones (fuente ESPN), actualizados a diario."
+                >
+                  {cal.recent.map((m, i) => (
+                    <div key={`rug-r-${i}`} style={rugRowStyle}>
+                      <span style={{ fontFamily: "monospace", fontSize: 11, color: "var(--muted,#888)", minWidth: 46, flexShrink: 0 }}>
+                        {fmtRugDate(m.date)}
+                      </span>
+                      <span style={{ flex: 1, display: "flex", alignItems: "center", gap: 6, flexWrap: "wrap" }}>
+                        {rugTeam(m.home)}
+                        <span style={{ fontFamily: "monospace", fontWeight: 700, fontSize: 14, padding: "0 2px" }}>
+                          {m.homeScore}–{m.awayScore}
+                        </span>
+                        {rugTeam(m.away)}
+                      </span>
+                      {rugComp(m.competition)}
+                    </div>
+                  ))}
+                </NewsletterSection>
+              )}
+
+              {cal.upcoming.length > 0 && (
+                <NewsletterSection
+                  kicker="Calendario · próximos"
+                  title="Próximos partidos"
+                  sub="Calendario de encuentros entre selecciones en las próximas semanas."
+                >
+                  {cal.upcoming.map((m, i) => (
+                    <div key={`rug-u-${i}`} style={rugRowStyle}>
+                      <span style={{ fontFamily: "monospace", fontSize: 11, color: "var(--muted,#888)", minWidth: 46, flexShrink: 0 }}>
+                        {fmtRugDate(m.date)}
+                      </span>
+                      <span style={{ flex: 1, display: "flex", alignItems: "center", gap: 6, flexWrap: "wrap" }}>
+                        {rugTeam(m.home)}
+                        <span style={{ color: "var(--muted,#888)", fontSize: 11, padding: "0 2px" }}>vs</span>
+                        {rugTeam(m.away)}
+                        {(m.city || m.venue) && (
+                          <span style={{ fontSize: 11, color: "var(--muted,#888)" }}>· {m.city || m.venue}</span>
+                        )}
+                        {m.status === "live" && (
+                          <span style={{ fontSize: 10, fontFamily: "monospace", fontWeight: 700, color: "#fff",
+                            background: "#a02020", padding: "1px 5px", borderRadius: 3 }}>EN JUEGO</span>
+                        )}
+                      </span>
+                      {rugComp(m.competition)}
+                    </div>
+                  ))}
+                </NewsletterSection>
+              )}
 
               <NewsletterSection
                 kicker="Rugby Elo"

@@ -14,7 +14,7 @@ import math
 import sys
 from urllib.request import Request, urlopen
 from collections import defaultdict
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -234,6 +234,122 @@ def fetch_espn_results(start_date: date) -> list[dict]:
     return rows
 
 
+CALENDAR_PAST_DAYS = 24        # recent results window
+CALENDAR_FUTURE_DAYS = 80      # upcoming fixtures window
+
+
+def fetch_calendar() -> dict:
+    """Build a men's international fixtures calendar from ESPN scorepanel.
+
+    Reuses the same per-national-team endpoint the Elo feed uses, but keeps both
+    finalised results (recent window) and scheduled/in-progress fixtures
+    (upcoming window). Opponents are auto-discovered so a fixture against a team
+    outside the seed list still appears once one side is a known nation.
+    """
+    today = date.today()
+    past_cutoff = today - timedelta(days=CALENDAR_PAST_DAYS)
+    future_cutoff = today + timedelta(days=CALENDAR_FUTURE_DAYS)
+    years = sorted({past_cutoff.year, today.year, future_cutoff.year})
+
+    team_ids: dict[int, str] = {tid: name for name, tid in ESPN_TEAMS.items()}
+    by_key: dict[tuple, dict] = {}
+
+    for year in years:
+        pending = list(team_ids)
+        fetched: set[int] = set()
+        while pending:
+            team_id = pending.pop(0)
+            if team_id in fetched:
+                continue
+            fetched.add(team_id)
+            url = ESPN_URL.format(year=year, team_id=team_id)
+            try:
+                data = fetch_json(url)
+            except Exception as exc:
+                print(f"[WARN] ESPN rugby calendar fetch failed for {year}/team {team_id}: {exc}", file=sys.stderr)
+                continue
+            for group in data.get("scores", []):
+                leagues = group.get("leagues") or []
+                league_name = ""
+                if leagues:
+                    league_name = leagues[0].get("name") or leagues[0].get("abbreviation") or ""
+                for event in group.get("events", []):
+                    comp = (event.get("competitions") or [{}])[0]
+                    competitors = comp.get("competitors") or []
+                    if len(competitors) != 2:
+                        continue
+                    # Discover opponents so future rounds pick up their fixtures too.
+                    for competitor in competitors:
+                        team = competitor.get("team", {})
+                        try:
+                            discovered_id = int(team.get("id"))
+                        except (TypeError, ValueError):
+                            continue
+                        discovered_name = normalize_team(team.get("displayName", ""))
+                        if (discovered_name and discovered_name not in EXCLUDED_RANKING_TEAMS
+                                and discovered_id not in team_ids):
+                            team_ids[discovered_id] = discovered_name
+                            pending.append(discovered_id)
+
+                    try:
+                        match_date = datetime.fromisoformat(event["date"].replace("Z", "+00:00")).date()
+                    except (KeyError, ValueError):
+                        continue
+                    if not (past_cutoff <= match_date <= future_cutoff):
+                        continue
+
+                    home = next((c for c in competitors if c.get("homeAway") == "home"), competitors[0])
+                    away = next((c for c in competitors if c.get("homeAway") == "away"), competitors[1])
+                    home_name = normalize_team(home["team"]["displayName"])
+                    away_name = normalize_team(away["team"]["displayName"])
+                    if home_name in EXCLUDED_RANKING_TEAMS or away_name in EXCLUDED_RANKING_TEAMS:
+                        continue
+
+                    status_name = comp.get("status", {}).get("type", {}).get("name", "")
+                    if status_name == "STATUS_FINAL":
+                        status = "final"
+                    elif status_name in ("STATUS_IN_PROGRESS", "STATUS_HALFTIME", "STATUS_END_PERIOD"):
+                        status = "live"
+                    else:
+                        status = "scheduled"
+
+                    def _score(side):
+                        try:
+                            return int(side.get("score"))
+                        except (TypeError, ValueError):
+                            return None
+                    home_score = _score(home) if status != "scheduled" else None
+                    away_score = _score(away) if status != "scheduled" else None
+
+                    venue = comp.get("venue", {})
+                    address = venue.get("address", {})
+                    city = address.get("city", "")
+                    key = (match_date.isoformat(), home_name, away_name)
+                    by_key[key] = {
+                        "date": match_date.isoformat(),
+                        "status": status,
+                        "competition": league_name or "Internacional",
+                        "home": {"name": home_name, "teamCode": team_code(home_name), "colors": team_colors(home_name)},
+                        "away": {"name": away_name, "teamCode": team_code(away_name), "colors": team_colors(away_name)},
+                        "homeScore": home_score,
+                        "awayScore": away_score,
+                        "venue": venue.get("fullName", ""),
+                        "city": city,
+                    }
+
+    matches = list(by_key.values())
+    recent = sorted(
+        [m for m in matches if m["status"] == "final"],
+        key=lambda m: m["date"], reverse=True,
+    )[:12]
+    upcoming = sorted(
+        [m for m in matches if m["status"] != "final"],
+        key=lambda m: m["date"],
+    )[:12]
+    print(f"Rugby calendar: {len(recent)} recent, {len(upcoming)} upcoming (from {len(matches)} in window)", file=sys.stderr)
+    return {"recent": recent, "upcoming": upcoming}
+
+
 def top_team(ratings: dict[str, float]) -> str | None:
     if not ratings:
         return None
@@ -266,6 +382,7 @@ def activity_adjusted_elo(raw_elo: float, last_played: date, as_of: date) -> tup
 def build() -> dict:
     matches = read_matches()
     historical_last_date = datetime.strptime(matches[-1]["date"], "%Y-%m-%d").date()
+    calendar = fetch_calendar()
     recent_matches = fetch_espn_results(historical_last_date)
     matches.extend(recent_matches)
     matches.sort(key=lambda r: (r["date"], r["home_team"], r["away_team"]))
@@ -441,6 +558,7 @@ def build() -> dict:
             "through": last_date.isoformat(),
         },
         "IMPORTANCE": _rugby_importance(),
+        "CALENDAR": calendar,
         "ELO_MODEL": {
             "base": BASE_ELO,
             "homeAdvantage": HOME_ADVANTAGE,

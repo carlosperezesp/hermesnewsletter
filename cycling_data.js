@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-20 09:39 UTC
+// Auto-generated 2026-07-07 14:42 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-07-20 09:39 UTC",
+  "UPDATED": "2026-07-07 14:42 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -693,19 +693,195 @@ window.CYCLING_DATA = {
     "name": "Tour de France",
     "start": "2026-07-04",
     "end": "2026-07-27",
-    "stage": 0,
+    "stage": 3,
     "total_stages": 21,
     "jersey_primary": "#FFD700",
     "jersey_name": "Maillot Jaune",
-    "last_stage": null,
-    "next_stage": null,
-    "last_stage_result": [],
+    "last_stage": {
+      "stage": 3,
+      "date": "6 July",
+      "type": "Mountain stage",
+      "dist_km": null,
+      "from": "Granollers",
+      "to": "Les Angles",
+      "completed": true,
+      "winner": "Tadej Pogačar",
+      "winner_cc": "SLO",
+      "winner_primary": "#003DA5",
+      "winner_logo": "https://flagcdn.com/24x18/si.png"
+    },
+    "next_stage": {
+      "stage": 1,
+      "date": "4 July",
+      "type": "Team time trial",
+      "dist_km": null,
+      "from": "Barcelona",
+      "to": "Team time trial",
+      "completed": false
+    },
+    "last_stage_result": [
+      {
+        "rank": null,
+        "name": "Tadej Pogačar",
+        "country": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "team": "UEX",
+        "time": "",
+        "gc_rank": 1
+      },
+      {
+        "rank": null,
+        "name": "Jonas Vingegaard",
+        "country": "DEN",
+        "logo": "https://flagcdn.com/24x18/dk.png",
+        "team": "TVL men",
+        "time": "",
+        "gc_rank": 2
+      },
+      {
+        "rank": null,
+        "name": "Remco Evenepoel",
+        "country": "BEL",
+        "logo": "https://flagcdn.com/24x18/be.png",
+        "team": "RBH",
+        "time": "",
+        "gc_rank": 3
+      }
+    ],
     "finished": false,
     "gc_winner": null,
-    "gc": [],
-    "points_leader": null,
-    "kom_leader": null,
-    "young_leader": null
+    "gc": [
+      {
+        "rank": 1,
+        "name": "Tadej Pogačar",
+        "country": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "team": "UEX",
+        "primary": "#003DA5",
+        "time": "8h 46' 55\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 2,
+        "name": "Jonas Vingegaard",
+        "country": "DEN",
+        "logo": "https://flagcdn.com/24x18/dk.png",
+        "team": "TVL men",
+        "primary": "#C60C30",
+        "time": "+ 0\"",
+        "legendScore": 20.9
+      },
+      {
+        "rank": 3,
+        "name": "Remco Evenepoel",
+        "country": "BEL",
+        "logo": "https://flagcdn.com/24x18/be.png",
+        "team": "RBH",
+        "primary": "#000000",
+        "time": "+ 23\"",
+        "legendScore": 13.9
+      },
+      {
+        "rank": 4,
+        "name": "Isaac del Toro",
+        "country": "MEX",
+        "logo": "https://flagcdn.com/24x18/mx.png",
+        "team": "UEX",
+        "primary": "#555555",
+        "time": "+ 24\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 5,
+        "name": "Juan Ayuso",
+        "country": "ESP",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "team": "LTK men",
+        "primary": "#AA151B",
+        "time": "+ 27\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 6,
+        "name": "Paul Seixas",
+        "country": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "team": "DCT",
+        "primary": "#002395",
+        "time": "+ 48\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 7,
+        "name": "Florian Lipowitz",
+        "country": "GER",
+        "logo": "https://flagcdn.com/24x18/de.png",
+        "team": "RBH",
+        "primary": "#000000",
+        "time": "+ 53\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 8,
+        "name": "Lenny Martinez",
+        "country": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "team": "TBV",
+        "primary": "#002395",
+        "time": "+ 1' 09\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 9,
+        "name": "Tobias Halland Johannessen",
+        "country": "NOR",
+        "logo": "https://flagcdn.com/24x18/no.png",
+        "team": "UXM men",
+        "primary": "#EF2B2D",
+        "time": "+ 1' 11\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 10,
+        "name": "Ilan Van Wilder",
+        "country": "BEL",
+        "logo": "https://flagcdn.com/24x18/be.png",
+        "team": "SOQ",
+        "primary": "#000000",
+        "time": "+ 1' 17\"",
+        "legendScore": 0.0
+      }
+    ],
+    "points_leader": {
+      "rank": 1,
+      "name": "Tadej Pogačar",
+      "country": "SLO",
+      "logo": "https://flagcdn.com/24x18/si.png",
+      "team": "UEX",
+      "primary": "#003DA5",
+      "points": 55,
+      "legendScore": 0.0
+    },
+    "kom_leader": {
+      "rank": 1,
+      "name": "Alex Baudin",
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "team": "EFE",
+      "primary": "#002395",
+      "points": 12,
+      "legendScore": 0.0
+    },
+    "young_leader": {
+      "rank": 1,
+      "name": "Isaac del Toro",
+      "country": "MEX",
+      "logo": "https://flagcdn.com/24x18/mx.png",
+      "team": "UEX",
+      "primary": "#555555",
+      "time": "8h 47' 19\"",
+      "legendScore": 0.0
+    }
   },
   "RACE_CALENDAR": [
     {

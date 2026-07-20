@@ -1,18 +1,474 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-07-20 09:39 UTC",
-  "LAST_MATCH": "2026-07-18",
+  "UPDATED": "2026-07-07 14:48 UTC",
+  "LAST_MATCH": "2026-07-04",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 344,
+    "incrementalMatches": 332,
     "teams": 162,
-    "matches": 10039,
-    "through": "2026-07-18"
+    "matches": 10027,
+    "through": "2026-07-04"
   },
   "IMPORTANCE": 3.5,
+  "CALENDAR": {
+    "recent": [
+      {
+        "date": "2026-07-04",
+        "status": "final",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "South Africa",
+          "teamCode": "RSA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb612"
+          }
+        },
+        "away": {
+          "name": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#ffffff",
+            "secondary": "#cf142b"
+          }
+        },
+        "homeScore": 45,
+        "awayScore": 21,
+        "venue": "Ellis Park",
+        "city": "Johannesburg"
+      },
+      {
+        "date": "2026-07-04",
+        "status": "final",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Argentina",
+          "teamCode": "ARG",
+          "colors": {
+            "primary": "#75aadb",
+            "secondary": "#f6b40e"
+          }
+        },
+        "away": {
+          "name": "Scotland",
+          "teamCode": "SCO",
+          "colors": {
+            "primary": "#005eb8",
+            "secondary": "#ffffff"
+          }
+        },
+        "homeScore": 38,
+        "awayScore": 47,
+        "venue": "Estadio Mario Alberto Kempes",
+        "city": "Cordoba"
+      },
+      {
+        "date": "2026-07-04",
+        "status": "final",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Australia",
+          "teamCode": "AUS",
+          "colors": {
+            "primary": "#ffcd00",
+            "secondary": "#00843d"
+          }
+        },
+        "away": {
+          "name": "Ireland",
+          "teamCode": "IRE",
+          "colors": {
+            "primary": "#169b62",
+            "secondary": "#ff883e"
+          }
+        },
+        "homeScore": 31,
+        "awayScore": 33,
+        "venue": "Allianz Stadium",
+        "city": "Sydney"
+      },
+      {
+        "date": "2026-07-04",
+        "status": "final",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Fiji",
+          "teamCode": "FIJ",
+          "colors": {
+            "primary": "#6ecff6",
+            "secondary": "#111111"
+          }
+        },
+        "away": {
+          "name": "Wales",
+          "teamCode": "WAL",
+          "colors": {
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
+          }
+        },
+        "homeScore": 24,
+        "awayScore": 39,
+        "venue": "Cardiff City Stadium",
+        "city": "Cardiff"
+      },
+      {
+        "date": "2026-07-04",
+        "status": "final",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "New Zealand",
+          "teamCode": "NZL",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          }
+        },
+        "away": {
+          "name": "France",
+          "teamCode": "FRA",
+          "colors": {
+            "primary": "#1d4f91",
+            "secondary": "#d80f2a"
+          }
+        },
+        "homeScore": 34,
+        "awayScore": 32,
+        "venue": "One NZ Stadium",
+        "city": "Christchurch"
+      },
+      {
+        "date": "2026-07-04",
+        "status": "final",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Japan",
+          "teamCode": "JPN",
+          "colors": {
+            "primary": "#bc002d",
+            "secondary": "#ffffff"
+          }
+        },
+        "away": {
+          "name": "Italy",
+          "teamCode": "ITA",
+          "colors": {
+            "primary": "#0066b3",
+            "secondary": "#009246"
+          }
+        },
+        "homeScore": 27,
+        "awayScore": 10,
+        "venue": "Prince Chichibu Memorial Stadium",
+        "city": "Tokyo"
+      }
+    ],
+    "upcoming": [
+      {
+        "date": "2026-07-11",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Fiji",
+          "teamCode": "FIJ",
+          "colors": {
+            "primary": "#6ecff6",
+            "secondary": "#111111"
+          }
+        },
+        "away": {
+          "name": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#ffffff",
+            "secondary": "#cf142b"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Hill Dickinson Stadium",
+        "city": ""
+      },
+      {
+        "date": "2026-07-11",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "South Africa",
+          "teamCode": "RSA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb612"
+          }
+        },
+        "away": {
+          "name": "Scotland",
+          "teamCode": "SCO",
+          "colors": {
+            "primary": "#005eb8",
+            "secondary": "#ffffff"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Loftus Versfeld",
+        "city": "Pretoria"
+      },
+      {
+        "date": "2026-07-11",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Japan",
+          "teamCode": "JPN",
+          "colors": {
+            "primary": "#bc002d",
+            "secondary": "#ffffff"
+          }
+        },
+        "away": {
+          "name": "Ireland",
+          "teamCode": "IRE",
+          "colors": {
+            "primary": "#169b62",
+            "secondary": "#ff883e"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "McDonald Jones Stadium",
+        "city": "Newcastle"
+      },
+      {
+        "date": "2026-07-11",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Argentina",
+          "teamCode": "ARG",
+          "colors": {
+            "primary": "#75aadb",
+            "secondary": "#f6b40e"
+          }
+        },
+        "away": {
+          "name": "Wales",
+          "teamCode": "WAL",
+          "colors": {
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Estadio Bicentenario",
+        "city": "San Juan"
+      },
+      {
+        "date": "2026-07-11",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Australia",
+          "teamCode": "AUS",
+          "colors": {
+            "primary": "#ffcd00",
+            "secondary": "#00843d"
+          }
+        },
+        "away": {
+          "name": "France",
+          "teamCode": "FRA",
+          "colors": {
+            "primary": "#1d4f91",
+            "secondary": "#d80f2a"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Suncorp Stadium",
+        "city": "Brisbane"
+      },
+      {
+        "date": "2026-07-11",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "New Zealand",
+          "teamCode": "NZL",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          }
+        },
+        "away": {
+          "name": "Italy",
+          "teamCode": "ITA",
+          "colors": {
+            "primary": "#0066b3",
+            "secondary": "#009246"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Hnry Stadium",
+        "city": "Wellington"
+      },
+      {
+        "date": "2026-07-18",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Argentina",
+          "teamCode": "ARG",
+          "colors": {
+            "primary": "#75aadb",
+            "secondary": "#f6b40e"
+          }
+        },
+        "away": {
+          "name": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#ffffff",
+            "secondary": "#cf142b"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Estadio Único Madre de Ciudades",
+        "city": ""
+      },
+      {
+        "date": "2026-07-18",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Fiji",
+          "teamCode": "FIJ",
+          "colors": {
+            "primary": "#6ecff6",
+            "secondary": "#111111"
+          }
+        },
+        "away": {
+          "name": "Scotland",
+          "teamCode": "SCO",
+          "colors": {
+            "primary": "#005eb8",
+            "secondary": "#ffffff"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Scottish Gas Murrayfield",
+        "city": "Edinburgh"
+      },
+      {
+        "date": "2026-07-18",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "New Zealand",
+          "teamCode": "NZL",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          }
+        },
+        "away": {
+          "name": "Ireland",
+          "teamCode": "IRE",
+          "colors": {
+            "primary": "#169b62",
+            "secondary": "#ff883e"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Eden Park",
+        "city": "Auckland"
+      },
+      {
+        "date": "2026-07-18",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "South Africa",
+          "teamCode": "RSA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb612"
+          }
+        },
+        "away": {
+          "name": "Wales",
+          "teamCode": "WAL",
+          "colors": {
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Hollywoodbets Kings Park",
+        "city": "Durban"
+      },
+      {
+        "date": "2026-07-18",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Australia",
+          "teamCode": "AUS",
+          "colors": {
+            "primary": "#ffcd00",
+            "secondary": "#00843d"
+          }
+        },
+        "away": {
+          "name": "Italy",
+          "teamCode": "ITA",
+          "colors": {
+            "primary": "#0066b3",
+            "secondary": "#009246"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "HBF Park",
+        "city": "Perth"
+      },
+      {
+        "date": "2026-07-18",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Japan",
+          "teamCode": "JPN",
+          "colors": {
+            "primary": "#bc002d",
+            "secondary": "#ffffff"
+          }
+        },
+        "away": {
+          "name": "France",
+          "teamCode": "FRA",
+          "colors": {
+            "primary": "#1d4f91",
+            "secondary": "#d80f2a"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "MUFG Stadium",
+        "city": "Tokyo"
+      }
+    ]
+  },
   "ELO_MODEL": {
     "base": 1500.0,
     "homeAdvantage": 60.0,
@@ -30,15 +486,15 @@ window.RUGBY_DATA = {
       "name": "South Africa",
       "teamCode": "RSA",
       "country": "South Africa",
-      "elo": 2716.7,
-      "eloRaw": 2716.7,
-      "lastMatch": "2026-07-18",
+      "elo": 2709.4,
+      "eloRaw": 2709.4,
+      "lastMatch": "2026-07-04",
       "inactiveDays": 0,
-      "peakElo": 2716.7,
-      "peakDate": "2026-07-18",
+      "peakElo": 2709.4,
+      "peakDate": "2026-07-04",
       "worldCups": 4,
       "record": {
-        "w": 359,
+        "w": 357,
         "l": 178,
         "d": 25
       },
@@ -46,22 +502,22 @@ window.RUGBY_DATA = {
         "primary": "#007a4d",
         "secondary": "#ffb612"
       },
-      "note": "359V-178D-25E · último 2026-07-18 · raw 2717"
+      "note": "357V-178D-25E · último 2026-07-04 · raw 2709"
     },
     {
       "rank": 2,
       "name": "New Zealand",
       "teamCode": "NZL",
       "country": "New Zealand",
-      "elo": 2641.2,
-      "eloRaw": 2641.2,
-      "lastMatch": "2026-07-18",
+      "elo": 2616.5,
+      "eloRaw": 2616.5,
+      "lastMatch": "2026-07-04",
       "inactiveDays": 0,
       "peakElo": 2749.6,
       "peakDate": "2016-10-22",
       "worldCups": 3,
       "record": {
-        "w": 554,
+        "w": 552,
         "l": 141,
         "d": 26
       },
@@ -69,45 +525,45 @@ window.RUGBY_DATA = {
         "primary": "#111111",
         "secondary": "#d8d8d8"
       },
-      "note": "554V-141D-26E · último 2026-07-18 · raw 2641"
+      "note": "552V-141D-26E · último 2026-07-04 · raw 2616"
     },
     {
       "rank": 3,
       "name": "Ireland",
       "teamCode": "IRE",
       "country": "Ireland",
-      "elo": 2542.3,
-      "eloRaw": 2542.3,
-      "lastMatch": "2026-07-18",
+      "elo": 2560.7,
+      "eloRaw": 2560.7,
+      "lastMatch": "2026-07-04",
       "inactiveDays": 0,
       "peakElo": 2684.1,
       "peakDate": "2023-10-07",
       "worldCups": 0,
       "record": {
-        "w": 379,
-        "l": 348,
+        "w": 378,
+        "l": 347,
         "d": 64
       },
       "colors": {
         "primary": "#169b62",
         "secondary": "#ff883e"
       },
-      "note": "379V-348D-64E · último 2026-07-18 · raw 2542"
+      "note": "378V-347D-64E · último 2026-07-04 · raw 2561"
     },
     {
       "rank": 4,
       "name": "France",
       "teamCode": "FRA",
       "country": "France",
-      "elo": 2521.7,
-      "eloRaw": 2521.7,
-      "lastMatch": "2026-07-18",
+      "elo": 2503.1,
+      "eloRaw": 2503.1,
+      "lastMatch": "2026-07-04",
       "inactiveDays": 0,
       "peakElo": 2587.1,
       "peakDate": "2025-03-15",
       "worldCups": 0,
       "record": {
-        "w": 574,
+        "w": 572,
         "l": 345,
         "d": 38
       },
@@ -115,22 +571,22 @@ window.RUGBY_DATA = {
         "primary": "#1d4f91",
         "secondary": "#d80f2a"
       },
-      "note": "574V-345D-38E · último 2026-07-18 · raw 2522"
+      "note": "572V-345D-38E · último 2026-07-04 · raw 2503"
     },
     {
       "rank": 5,
       "name": "England",
       "teamCode": "ENG",
       "country": "England",
-      "elo": 2423.1,
-      "eloRaw": 2423.1,
-      "lastMatch": "2026-07-18",
+      "elo": 2375.6,
+      "eloRaw": 2375.6,
+      "lastMatch": "2026-07-04",
       "inactiveDays": 0,
       "peakElo": 2568.0,
       "peakDate": "2019-10-26",
       "worldCups": 1,
       "record": {
-        "w": 457,
+        "w": 455,
         "l": 309,
         "d": 82
       },
@@ -138,122 +594,122 @@ window.RUGBY_DATA = {
         "primary": "#ffffff",
         "secondary": "#cf142b"
       },
-      "note": "457V-309D-82E · último 2026-07-18 · raw 2423"
+      "note": "455V-309D-82E · último 2026-07-04 · raw 2376"
     },
     {
       "rank": 6,
       "name": "Scotland",
       "teamCode": "SCO",
       "country": "Scotland",
-      "elo": 2384.1,
-      "eloRaw": 2384.1,
-      "lastMatch": "2026-07-18",
+      "elo": 2369.9,
+      "eloRaw": 2369.9,
+      "lastMatch": "2026-07-04",
       "inactiveDays": 0,
-      "peakElo": 2384.1,
-      "peakDate": "2026-07-18",
+      "peakElo": 2369.9,
+      "peakDate": "2026-07-04",
       "worldCups": 0,
       "record": {
-        "w": 346,
-        "l": 394,
+        "w": 345,
+        "l": 393,
         "d": 63
       },
       "colors": {
         "primary": "#005eb8",
         "secondary": "#ffffff"
       },
-      "note": "346V-394D-63E · último 2026-07-18 · raw 2384"
+      "note": "345V-393D-63E · último 2026-07-04 · raw 2370"
     },
     {
       "rank": 7,
       "name": "Argentina",
       "teamCode": "ARG",
       "country": "Argentina",
-      "elo": 2291.1,
-      "eloRaw": 2291.1,
-      "lastMatch": "2026-07-18",
+      "elo": 2305.7,
+      "eloRaw": 2305.7,
+      "lastMatch": "2026-07-04",
       "inactiveDays": 0,
       "peakElo": 2354.6,
       "peakDate": "2025-11-16",
       "worldCups": 0,
       "record": {
-        "w": 259,
-        "l": 230,
+        "w": 258,
+        "l": 229,
         "d": 13
       },
       "colors": {
         "primary": "#75aadb",
         "secondary": "#f6b40e"
       },
-      "note": "259V-230D-13E · último 2026-07-18 · raw 2291"
+      "note": "258V-229D-13E · último 2026-07-04 · raw 2306"
     },
     {
       "rank": 8,
       "name": "Australia",
       "teamCode": "AUS",
       "country": "Australia",
-      "elo": 2212.3,
-      "eloRaw": 2212.3,
-      "lastMatch": "2026-07-18",
+      "elo": 2206.8,
+      "eloRaw": 2206.8,
+      "lastMatch": "2026-07-04",
       "inactiveDays": 0,
       "peakElo": 2471.1,
       "peakDate": "2015-10-25",
       "worldCups": 2,
       "record": {
-        "w": 349,
-        "l": 336,
+        "w": 348,
+        "l": 335,
         "d": 20
       },
       "colors": {
         "primary": "#ffcd00",
         "secondary": "#00843d"
       },
-      "note": "349V-336D-20E · último 2026-07-18 · raw 2212"
+      "note": "348V-335D-20E · último 2026-07-04 · raw 2207"
     },
     {
       "rank": 9,
       "name": "Fiji",
       "teamCode": "FIJ",
       "country": "Fiji",
-      "elo": 2142.5,
-      "eloRaw": 2142.5,
-      "lastMatch": "2026-07-18",
+      "elo": 2183.7,
+      "eloRaw": 2183.7,
+      "lastMatch": "2026-07-04",
       "inactiveDays": 0,
       "peakElo": 2249.9,
       "peakDate": "2025-09-21",
       "worldCups": 0,
       "record": {
         "w": 182,
-        "l": 167,
+        "l": 165,
         "d": 10
       },
       "colors": {
         "primary": "#6ecff6",
         "secondary": "#111111"
       },
-      "note": "182V-167D-10E · último 2026-07-18 · raw 2142"
+      "note": "182V-165D-10E · último 2026-07-04 · raw 2184"
     },
     {
       "rank": 10,
       "name": "Wales",
       "teamCode": "WAL",
       "country": "Wales",
-      "elo": 2091.9,
-      "eloRaw": 2091.9,
-      "lastMatch": "2026-07-18",
+      "elo": 2105.2,
+      "eloRaw": 2105.2,
+      "lastMatch": "2026-07-04",
       "inactiveDays": 0,
       "peakElo": 2470.8,
       "peakDate": "2019-03-16",
       "worldCups": 0,
       "record": {
         "w": 415,
-        "l": 361,
+        "l": 359,
         "d": 49
       },
       "colors": {
         "primary": "#c8102e",
         "secondary": "#ffffff"
       },
-      "note": "415V-361D-49E · último 2026-07-18 · raw 2092"
+      "note": "415V-359D-49E · último 2026-07-04 · raw 2105"
     }
   ],
   "ROAD_TO_GLORY": {

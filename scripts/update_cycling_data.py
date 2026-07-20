@@ -213,6 +213,62 @@ def _fetch_wiki_section(page: str, section: int, ttl_hours: float = 2.0) -> str:
         return path.read_text() if path.exists() else ""
 
 
+# Logical section → substring matchers for the Wikipedia heading (lowercased).
+# Matched in order; the first heading that contains a matcher wins.
+_SECTION_TITLE_MATCHERS = {
+    "stages":    ("route and stages", "schedule and route", "stages"),
+    "gc":        ("general classification",),
+    "points":    ("points classification",),
+    "mountains": ("mountains classification",),
+    "young":     ("young rider classification",),
+}
+
+
+def _resolve_sections(page: str, fallback: dict, ttl_hours: float = 2.0) -> dict:
+    """Resolve Wikipedia section indices by heading title, not fixed numbers.
+
+    Hardcoded per-race indices break the moment a page gains or loses a section.
+    The Tour de France article, for example, carries 'Pre-race favourites' and
+    'Race overview' sections that the Giro lacks, pushing every classification
+    heading several positions down (its General classification sits at ~10, not
+    the Giro's 5). Races also add sections as they progress. Matching by title is
+    robust to both. Falls back to the static indices when the section list can't
+    be fetched or a heading isn't present yet.
+    """
+    title = urllib.parse.quote(page)
+    url   = f"{WIKI_API}?action=parse&page={title}&prop=sections&format=json"
+    key   = hashlib.md5(url.encode()).hexdigest()
+    path  = CACHE / key
+    raw   = ""
+    if path.exists() and (time.time() - path.stat().st_mtime) / 3600 < ttl_hours:
+        raw = path.read_text()
+    if not raw:
+        try:
+            data = _urlopen_retry(url)
+            raw = data.decode("utf-8") if isinstance(data, bytes) else data
+            path.write_text(raw)
+        except Exception as exc:
+            print(f"[WARN] Wikipedia sections fetch failed ({exc})", file=sys.stderr)
+            return dict(fallback)
+    try:
+        secs = json.loads(raw).get("parse", {}).get("sections", [])
+    except Exception:
+        return dict(fallback)
+    lines = [(re.sub(r"''+", "", (s.get("line") or "")).strip().lower(), s.get("index"))
+             for s in secs]
+    resolved = dict(fallback)
+    for keyname, matchers in _SECTION_TITLE_MATCHERS.items():
+        for want in matchers:
+            hit = next((idx for line, idx in lines if want in line), None)
+            if hit is not None:
+                try:
+                    resolved[keyname] = int(hit)
+                except (TypeError, ValueError):
+                    pass
+                break
+    return resolved
+
+
 def _fetch_wiki_page(page: str, ttl_hours: float = 2.0) -> str:
     title = urllib.parse.quote(page)
     url   = f"{WIKI_API}?action=parse&page={title}&prop=wikitext&format=json"
@@ -251,9 +307,12 @@ def _fetch_url(url: str, ttl_hours: float = 1.0) -> str:
 # ── Wikitext parsers ──────────────────────────────────────────────────────────
 
 def _parse_flagathlete(block: str) -> tuple[str, str] | None:
-    """Extract (display_name, cc3) from a {{Flagathlete|[[...]]|CC3}} template."""
+    """Extract (display_name, cc3) from a {{Flag athlete|[[...]]|CC3}} template.
+
+    Wikipedia editors use both {{Flagathlete}} (Giro pages) and {{Flag athlete}}
+    (Tour pages) — the optional space keeps both working."""
     m = re.search(
-        r'\{\{Flagathlete\|\[\[(?:[^\]|]+\|)?([^\]|]+)\]\]\|([A-Z]{2,4})\}\}',
+        r'\{\{Flag\s?athlete\|\[\[(?:[^\]|]+\|)?([^\]|]+)\]\]\|([A-Z]{2,4})\}\}',
         block,
     )
     if not m:
@@ -527,7 +586,7 @@ def _parse_gc(wt: str) -> list[dict]:
         team_m = re.search(r'\{\{UCI team code\|([^|]+)\|', block)
         team   = team_m.group(1).strip() if team_m else ""
         # Time is the last style="text-align:right" cell
-        time_m = re.search(r'style="text-align:right;?"\s*\|\s*([^\n|]+)', block)
+        time_m = re.search(r'(?:style="text-align:right;?"|align="right")\s*\|\s*([^\n|]+)', block)
         gap    = time_m.group(1).strip() if time_m else ""
         riders.append({
             "rank":    int(rank_m.group(1)),
@@ -553,7 +612,7 @@ def _parse_jersey_class(wt: str, score_type: str = "points") -> list[dict]:
         name, cc3 = fa
         team_m = re.search(r'\{\{UCI team code\|([^|]+)\|', block)
         team   = team_m.group(1).strip() if team_m else ""
-        val_m  = re.search(r'style="text-align:right;?"\s*\|\s*([^\n|]+)', block)
+        val_m  = re.search(r'(?:style="text-align:right;?"|align="right")\s*\|\s*([^\n|]+)', block)
         val    = val_m.group(1).strip() if val_m else ""
         entry: dict = {
             "rank":    int(rank_m.group(1)),
@@ -892,8 +951,10 @@ def build_current_riders(current_rows: list[tuple], legends_rows: list[tuple], m
 
 def fetch_race_data(race: dict, legends: list[dict]) -> dict:
     page  = race["wiki_page"]
-    secs  = race["sections"]
-    print(f"[Cycling] Fetching {page}…", file=sys.stderr)
+    # Resolve section indices by heading title (robust to page-layout drift and
+    # to sections appearing as the race progresses); fall back to static indices.
+    secs  = _resolve_sections(page, race["sections"])
+    print(f"[Cycling] Fetching {page}… sections={secs}", file=sys.stderr)
 
     wt_stages = _fetch_wiki_section(page, secs["stages"])
     wt_gc     = _fetch_wiki_section(page, secs["gc"])
