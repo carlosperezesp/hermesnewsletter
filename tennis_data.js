@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-20 14:40 UTC
+// Auto-generated 2026-07-20 15:32 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-20 14:40 UTC",
+  "UPDATED": "2026-07-20 15:32 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -507,10 +507,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 76.0
     },
@@ -2518,9 +2518,9 @@ window.TENNIS_DATA = {
       "prevListRank": 74,
       "tournamentStatus": {
         "tournament": "Millennium Estoril Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 58.2
     },
@@ -3989,7 +3989,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Generali Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 49.2
@@ -10958,15 +10958,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Federico Cina",
+          "w": "Facundo Diaz Acosta",
           "w_logo": "",
-          "l": "Facundo Diaz Acosta",
+          "l": "Federico Cina",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-3 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 49.2,
+          "w_score": 49.2,
+          "l_score": null,
           "match_score": 49.2
         },
         {
@@ -10995,24 +10995,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Frederico Ferreira Silva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 61.6,
           "l_score": null,
           "match_score": 61.6
         },
         {
           "round": "R128",
-          "w": "Camilo Ugo Carabelli",
+          "w": "Titouan Droguet",
           "w_logo": "",
-          "l": "Titouan Droguet",
+          "l": "Camilo Ugo Carabelli",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-0 3-6 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 57.0,
-          "l_score": 56.6,
+          "w_score": 56.6,
+          "l_score": 57.0,
           "match_score": 57.0
         },
         {
@@ -11180,15 +11180,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Antonia Ruzic",
+          "w": "Dominika Salkova",
           "w_logo": "",
-          "l": "Dominika Salkova",
+          "l": "Antonia Ruzic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 60.8,
-          "l_score": 49.8,
+          "scheduled": false,
+          "w_score": 49.8,
+          "l_score": 60.8,
           "match_score": 60.8
         },
         {
@@ -11393,9 +11393,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nadia Podoroska",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11425,13 +11425,12 @@ window.TENNIS_DATA = {
       "Alejandro Tabilo",
       "Aleksandr Shevchenko",
       "Alex Molcan",
+      "Alexander Bublik",
       "Botic Van De Zandschulp",
-      "Camilo Ugo Carabelli",
       "Damir Dzumhur",
       "Daniel Altmaier",
       "Daniel Merida",
       "Facundo Diaz Acosta",
-      "Federico Cina",
       "Frederico Ferreira Silva",
       "Gonzalo Bueno",
       "Henrique Rocha",
@@ -11470,12 +11469,14 @@ window.TENNIS_DATA = {
     ],
     "out": [
       "Alexandre Muller",
+      "Camilo Ugo Carabelli",
+      "Federico Cina",
       "Joel Josef Schwaerzler",
       "Lukas Neumayer",
       "Nikoloz Basilashvili"
     ],
-    "aliveCount": 46,
-    "matchesSeen": 26
+    "aliveCount": 45,
+    "matchesSeen": 27
   },
   "WTA_TOURNAMENT": {
     "name": "Unicredit Iasi Open · Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
