@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-21 07:45 UTC
+// Auto-generated 2026-07-21 09:08 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-21 07:45 UTC",
+  "UPDATED": "2026-07-21 09:08 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11750,9 +11750,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elena Pridankina",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 55.0,
           "l_score": null,
           "match_score": 55.0

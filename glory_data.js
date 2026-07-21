@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-21 07:45 UTC",
+  "UPDATED": "2026-07-21 09:08 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Nashville:Álex Palou",
@@ -96,6 +96,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-20"
     },
     {
+      "id": "rank:indycar:DRIVERS:in:Rinus VeeKay",
+      "sport": "indycar",
+      "detail": "IndyCar",
+      "anchor": "indycar-campeonato",
+      "text": "Rinus VeeKay entra en el top-10 · campeonato",
+      "weight": 84,
+      "firstSeen": "2026-07-21"
+    },
+    {
       "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Chase Burns",
       "sport": "mlb",
       "detail": "MLB",
@@ -166,6 +175,15 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-wta",
       "firstSeen": "2026-07-13"
+    },
+    {
+      "id": "rank:indycar:DRIVERS:out:Scott Dixon",
+      "sport": "indycar",
+      "detail": "IndyCar",
+      "anchor": "indycar-campeonato",
+      "text": "Scott Dixon cae del top-10 · campeonato",
+      "weight": 74,
+      "firstSeen": "2026-07-21"
     },
     {
       "id": "rank:motogp:RIDERS:out:Fermín Aldeguer",
@@ -530,15 +548,15 @@ window.GLORY_DATA = {
     ],
     "indycar:DRIVERS": [
       "Álex Palou",
+      "David Malukas",
       "Kyle Kirkwood",
       "Christian Lundgaard",
-      "David Malukas",
       "Pato O'Ward",
       "Josef Newgarden",
       "Felix Rosenqvist",
       "Scott McLaughlin",
-      "Scott Dixon",
-      "Marcus Ericsson"
+      "Marcus Ericsson",
+      "Rinus VeeKay"
     ],
     "indycar:LEGENDS": [
       "A. J. Foyt",
