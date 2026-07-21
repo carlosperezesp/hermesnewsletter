@@ -22,6 +22,10 @@ ROOT = Path(__file__).resolve().parents[1]
 EVENT_RETENTION_DAYS = 14   # cuánto vive un hecho discreto en el feed
 REPORT_RETENTION_DAYS = 10  # cuánto lidera la portada un informe de cierre antes
                             # de retirarse a la sección propia del deporte
+REPORT_LEDGER_DAYS = 400    # cuánto recordamos la fecha de primer avistamiento de
+                            # un campeón (aunque ya no se muestre): impide que un
+                            # campeón todavía presente en el cuadro reaparezca con
+                            # firstSeen=hoy y vuelva a liderar la portada
 SUMO_REPORT_WINDOW = 16     # un basho cuenta como "recién cerrado" estos días
 
 # id de sección -> (archivo, etiqueta visible). TODOS los deportes: de aquí salen
@@ -361,6 +365,36 @@ def _within(iso: str, days: int) -> bool:
     return (date.today() - dd).days <= days
 
 
+def _merge_reports(current: list[dict], ledger_prev: list[dict],
+                   retention_days: int) -> tuple[list[dict], list[dict]]:
+    """Como _merge, pero con un libro mayor (ledger) que NO se poda por ventana.
+
+    El campeón permanece en el cuadro (BRACKET.final) toda la temporada, así que
+    _report_for lo vuelve a emitir en cada ejecución. Si solo guardáramos los
+    informes vigentes y podáramos el resto, al caducar perderíamos su firstSeen y
+    la siguiente ejecución lo re-sellaría con hoy —resucitándolo en la portada
+    para siempre—. Por eso conservamos {id: firstSeen} de cada campeón visto y solo
+    exponemos como REPORTS los que siguen dentro de la ventana."""
+    today = date.today().isoformat()
+    seen = {r.get("id"): r.get("firstSeen") for r in ledger_prev if r.get("id")}
+    active, ledger, done = [], [], set()
+    for r in current:
+        rid = r["id"]
+        fs = seen.get(rid) or today
+        done.add(rid)
+        ledger.append({"id": rid, "firstSeen": fs})
+        if _within(fs, retention_days):
+            active.append({**r, "firstSeen": fs})
+    # recordar campeones que ya no están en los datos (cuadro reseteado por nueva
+    # temporada) durante REPORT_LEDGER_DAYS, para no re-sellarlos si reaparecen
+    for r in ledger_prev:
+        rid = r.get("id")
+        if rid and rid not in done and _within(r.get("firstSeen"), REPORT_LEDGER_DAYS):
+            ledger.append({"id": rid, "firstSeen": r.get("firstSeen")})
+    active.sort(key=lambda r: r.get("firstSeen", ""), reverse=True)
+    return active, ledger
+
+
 _RANK_PHRASES = (("new1", " es nuevo nº1"), ("in", " entra en el top-10"), ("out", " cae del top-10"))
 
 
@@ -413,6 +447,12 @@ def build() -> None:
     prev_events = prev.get("EVENTS", []) if isinstance(prev, dict) else []
     prev_reports = prev.get("REPORTS", []) if isinstance(prev, dict) else []
     prev_snaps = prev.get("SNAPSHOTS", {}) if isinstance(prev, dict) else {}
+    # Ledger persistente de campeones vistos (con su firstSeen real). Migra desde
+    # los REPORTS previos si un glory_data.js antiguo aún no lo tiene.
+    prev_report_ledger = prev.get("REPORT_SEEN", []) if isinstance(prev, dict) else []
+    if not prev_report_ledger:
+        prev_report_ledger = [{"id": r.get("id"), "firstSeen": r.get("firstSeen")}
+                              for r in prev_reports if r.get("id") and r.get("firstSeen")]
 
     events: list[dict] = []
     reports: list[dict] = []
@@ -447,9 +487,8 @@ def build() -> None:
             if len(parts) >= 3:
                 e["anchor"] = f"tennis-{parts[2].lower()}"
     events = _dedup_rank_events(events)
-    reports = _merge(reports, prev_reports, REPORT_RETENTION_DAYS)
+    reports, report_ledger = _merge_reports(reports, prev_report_ledger, REPORT_RETENTION_DAYS)
     events.sort(key=lambda e: (e.get("weight", 0), e.get("firstSeen", "")), reverse=True)
-    reports.sort(key=lambda r: r.get("firstSeen", ""), reverse=True)
 
     # Limpia fotos obsoletas: si una tabla migró a identidad por sub-clave (p. ej.
     # dinastías a "nombre (era)"), la clave pelada queda huérfana — se descarta.
@@ -459,6 +498,7 @@ def build() -> None:
         "UPDATED": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
         "EVENTS": events,
         "REPORTS": reports,
+        "REPORT_SEEN": report_ledger,
         "SNAPSHOTS": new_snaps,
     }
     out_path = ROOT / "glory_data.js"

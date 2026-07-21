@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-21 15:26 UTC",
+  "UPDATED": "2026-07-21 18:59 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Nashville:Álex Palou",
@@ -195,66 +195,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-12"
     }
   ],
-  "REPORTS": [
+  "REPORTS": [],
+  "REPORT_SEEN": [
     {
       "id": "nhl:champ:CAR:2025-26",
-      "sport": "nhl",
-      "competition": "NHL",
-      "champion": "Hurricanes se proclama campeón (4-2 a Golden Knights)",
-      "scopeLabel": "Top 5 de la temporada",
-      "top5": [
-        {
-          "name": "Nathan MacKinnon",
-          "score": 100
-        },
-        {
-          "name": "Nikita Kucherov",
-          "score": 100
-        },
-        {
-          "name": "Oliver Bonk",
-          "score": 100
-        },
-        {
-          "name": "Connor McDavid",
-          "score": 99
-        },
-        {
-          "name": "Leon Draisaitl",
-          "score": 92
-        }
-      ],
-      "firstSeen": "2026-07-21"
+      "firstSeen": "2026-07-10"
     },
     {
       "id": "nba:champ:NY:2025-26",
-      "sport": "nba",
-      "competition": "NBA",
-      "champion": "Knicks se proclama campeón (4-1 a Spurs)",
-      "scopeLabel": "Top 5 de los playoffs",
-      "top5": [
-        {
-          "name": "Nikola Jokic",
-          "score": 100
-        },
-        {
-          "name": "Cade Cunningham",
-          "score": 95
-        },
-        {
-          "name": "Paolo Banchero",
-          "score": 95
-        },
-        {
-          "name": "Shai Gilgeous-Alexander",
-          "score": 93
-        },
-        {
-          "name": "Jalen Brunson",
-          "score": 92
-        }
-      ],
-      "firstSeen": "2026-07-21"
+      "firstSeen": "2026-07-06"
     }
   ],
   "SNAPSHOTS": {
