@@ -20,7 +20,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 
 EVENT_RETENTION_DAYS = 14   # cuánto vive un hecho discreto en el feed
-REPORT_RETENTION_DAYS = 21  # cuánto vive un informe de cierre
+REPORT_RETENTION_DAYS = 10  # cuánto lidera la portada un informe de cierre antes
+                            # de retirarse a la sección propia del deporte
 SUMO_REPORT_WINDOW = 16     # un basho cuenta como "recién cerrado" estos días
 
 # id de sección -> (archivo, etiqueta visible). TODOS los deportes: de aquí salen

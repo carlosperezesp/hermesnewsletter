@@ -1,15 +1,7 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-20 22:28 UTC",
+  "UPDATED": "2026-07-21 07:13 UTC",
   "EVENTS": [
-    {
-      "id": "indycar:win:Grand Prix of Nashville:Álex Palou",
-      "sport": "indycar",
-      "detail": "IndyCar",
-      "text": "Álex Palou ganó en Grand Prix of Nashville",
-      "weight": 100,
-      "firstSeen": "2026-07-20"
-    },
     {
       "id": "f1:win:Moët & Chandon Belgian Grand Prix:Max Verstappen",
       "sport": "f1",
@@ -41,14 +33,6 @@ window.GLORY_DATA = {
       "text": "Ai Ogura ganó el Czech Republic motorcycle Grand Prix",
       "weight": 100,
       "firstSeen": "2026-07-10"
-    },
-    {
-      "id": "nascar:win:NASCAR Cup Series at Chicago:Chase Briscoe",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "text": "Chase Briscoe ganó en Chicagoland Speedway",
-      "weight": 100,
-      "firstSeen": "2026-07-06"
     },
     {
       "id": "rank:football:ROAD_TO_GLORY.currentContenders:new1:Spain",
@@ -167,24 +151,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-07"
     },
     {
-      "id": "rank:nascar:DRIVERS:in:Chase Briscoe",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "anchor": "nascar-cup-series",
-      "text": "Chase Briscoe entra en el top-10 · Cup Series",
-      "weight": 84,
-      "firstSeen": "2026-07-06"
-    },
-    {
-      "id": "rank:golf:CURRENT:in:Chris Gotterup",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Chris Gotterup entra en el top-10 · Nivel actual",
-      "weight": 84,
-      "firstSeen": "2026-07-06"
-    },
-    {
       "id": "tennis:out:WTA:Victoria Mboko:20260709",
       "sport": "tennis",
       "detail": "Tenis",
@@ -201,79 +167,9 @@ window.GLORY_DATA = {
       "text": "Fermín Aldeguer cae del top-10 · Mundial",
       "weight": 74,
       "firstSeen": "2026-07-12"
-    },
-    {
-      "id": "rank:nascar:DRIVERS:out:Chris Buescher",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "anchor": "nascar-cup-series",
-      "text": "Chris Buescher cae del top-10 · Cup Series",
-      "weight": 74,
-      "firstSeen": "2026-07-06"
     }
   ],
-  "REPORTS": [
-    {
-      "id": "nhl:champ:CAR:2025-26",
-      "sport": "nhl",
-      "competition": "NHL",
-      "champion": "Hurricanes se proclama campeón (4-2 a Golden Knights)",
-      "scopeLabel": "Top 5 de la temporada",
-      "top5": [
-        {
-          "name": "Nathan MacKinnon",
-          "score": 100
-        },
-        {
-          "name": "Nikita Kucherov",
-          "score": 100
-        },
-        {
-          "name": "Oliver Bonk",
-          "score": 100
-        },
-        {
-          "name": "Connor McDavid",
-          "score": 99
-        },
-        {
-          "name": "Leon Draisaitl",
-          "score": 92
-        }
-      ],
-      "firstSeen": "2026-07-10"
-    },
-    {
-      "id": "nba:champ:NY:2025-26",
-      "sport": "nba",
-      "competition": "NBA",
-      "champion": "Knicks se proclama campeón (4-1 a Spurs)",
-      "scopeLabel": "Top 5 de los playoffs",
-      "top5": [
-        {
-          "name": "Nikola Jokic",
-          "score": 100
-        },
-        {
-          "name": "Cade Cunningham",
-          "score": 95
-        },
-        {
-          "name": "Paolo Banchero",
-          "score": 95
-        },
-        {
-          "name": "Shai Gilgeous-Alexander",
-          "score": 93
-        },
-        {
-          "name": "Jalen Brunson",
-          "score": 92
-        }
-      ],
-      "firstSeen": "2026-07-06"
-    }
-  ],
+  "REPORTS": [],
   "SNAPSHOTS": {
     "nhl:ROAD_TO_GLORY.players": [
       "Nikita Kucherov",
