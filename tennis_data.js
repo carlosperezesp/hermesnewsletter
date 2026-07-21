@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-21 21:35 UTC
+// Auto-generated 2026-07-21 22:16 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-21 21:35 UTC",
+  "UPDATED": "2026-07-21 22:16 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -9427,7 +9427,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Palermo Ladies Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 42.8
@@ -10098,9 +10098,9 @@ window.TENNIS_DATA = {
       "prevListRank": 144,
       "tournamentStatus": {
         "tournament": "Palermo Ladies Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 36.3
     },
@@ -11639,7 +11639,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tamara Zidansek",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "3-6 6-4 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11661,24 +11661,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Caijsa Hennemann",
-          "w_logo": "",
-          "l": "Miriam Bulgaru",
-          "l_logo": "",
-          "score": "In Progress",
-          "day": "hoy",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
           "w": "Clara Burel",
           "w_logo": "",
           "l": "Anastasia Abbagnato",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11692,6 +11679,19 @@ window.TENNIS_DATA = {
           "l": "Caroline Werner",
           "l_logo": "",
           "score": "6-4 4-6 6-2",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Miriam Bulgaru",
+          "w_logo": "",
+          "l": "Caijsa Hennemann",
+          "l_logo": "",
+          "score": "3-6 6-1 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11931,12 +11931,10 @@ window.TENNIS_DATA = {
       "Alevtina Ibragimova",
       "Alice Rame",
       "Alina Charaeva",
-      "Anastasia Abbagnato",
       "Anhelina Kalinina",
       "Anna Bondar",
       "Ayla Aksu",
       "Barbora Krejcikova",
-      "Caijsa Hennemann",
       "Carol Young Suh Lee",
       "Clara Burel",
       "Dalila Spiteri",
@@ -11977,7 +11975,6 @@ window.TENNIS_DATA = {
       "Simona Waltert",
       "Sinja Kraus",
       "Tamara Korpatsch",
-      "Tamara Zidansek",
       "Tereza Valentova",
       "Tessa Johanna Brockmann",
       "Yasmine Kabbaj",
@@ -11989,11 +11986,13 @@ window.TENNIS_DATA = {
       "Alisa Oktiabreva",
       "Alycia Parks",
       "Amarissa Toth",
+      "Anastasia Abbagnato",
       "Anastasia Tikhonova",
       "Ane Mintegi Del Olmo",
       "Anna Blinkova",
       "Antonia Ruzic",
       "Arantxa Rus",
+      "Caijsa Hennemann",
       "Caroline Werner",
       "Darja Semenistaja",
       "Darya Astakhova",
@@ -12021,14 +12020,15 @@ window.TENNIS_DATA = {
       "Sara Sorribes Tormo",
       "Sofia Costoulas",
       "Sofya Lansere",
+      "Tamara Zidansek",
       "Valentina Steiner",
       "Veronika Erjavec",
       "Veronika Podrez",
       "Victoria Jimenez Kasintseva",
       "Yuan Yue"
     ],
-    "aliveCount": 54,
-    "matchesSeen": 67
+    "aliveCount": 51,
+    "matchesSeen": 70
   },
   "ATP_SCORE_LOG": {
     "206173": [
