@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-21 15:24 UTC
+// Auto-generated 2026-07-21 21:33 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-07-21 15:24 UTC",
+  "UPDATED": "2026-07-21 21:33 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -693,17 +693,17 @@ window.CYCLING_DATA = {
     "name": "Tour de France",
     "start": "2026-07-04",
     "end": "2026-07-27",
-    "stage": 15,
+    "stage": 16,
     "total_stages": 21,
     "jersey_primary": "#FFD700",
     "jersey_name": "Maillot Jaune",
     "last_stage": {
-      "stage": 15,
-      "date": "19 July",
-      "type": "Mountain stage",
+      "stage": 16,
+      "date": "21 July",
+      "type": "Individual time trial",
       "dist_km": null,
-      "from": "Champagnole",
-      "to": "Plateau de Solaison",
+      "from": "Évian-les-Bains",
+      "to": "Thonon-les-Bains",
       "completed": true,
       "winner": "Remco Evenepoel",
       "winner_cc": "BEL",
@@ -758,7 +758,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/si.png",
         "team": "UEX",
         "primary": "#003DA5",
-        "time": "55h 41' 31\"",
+        "time": "56h 14' 18\"",
         "legendScore": 0.0
       },
       {
@@ -768,7 +768,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/be.png",
         "team": "RBH",
         "primary": "#000000",
-        "time": "+ 5' 00\"",
+        "time": "+ 4' 32\"",
         "legendScore": 13.9
       },
       {
@@ -778,7 +778,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/mx.png",
         "team": "UEX",
         "primary": "#555555",
-        "time": "+ 5' 58\"",
+        "time": "+ 6' 51\"",
         "legendScore": 0.0
       },
       {
@@ -788,67 +788,67 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/fr.png",
         "team": "DCT",
         "primary": "#002395",
-        "time": "+ 6' 23\"",
+        "time": "+ 7' 11\"",
         "legendScore": 0.0
       },
       {
         "rank": 5,
-        "name": "Florian Lipowitz",
-        "country": "GER",
-        "logo": "https://flagcdn.com/24x18/de.png",
-        "team": "RBH",
-        "primary": "#000000",
-        "time": "+ 6' 48\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 6,
         "name": "Juan Ayuso",
         "country": "ESP",
         "logo": "https://flagcdn.com/24x18/es.png",
         "team": "LTK men",
         "primary": "#AA151B",
-        "time": "+ 7' 28\"",
+        "time": "+ 9' 22\"",
         "legendScore": 0.0
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "Mattias Skjelmose",
         "country": "DEN",
         "logo": "https://flagcdn.com/24x18/dk.png",
         "team": "LTK men",
         "primary": "#C60C30",
-        "time": "+ 9' 38\"",
+        "time": "+ 10' 14\"",
         "legendScore": 0.0
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "Lenny Martinez",
         "country": "FRA",
         "logo": "https://flagcdn.com/24x18/fr.png",
         "team": "TBV",
         "primary": "#002395",
-        "time": "+ 10' 28\"",
+        "time": "+ 12' 50\"",
         "legendScore": 0.0
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "Tom Pidcock",
         "country": "GBR",
         "logo": "https://flagcdn.com/24x18/gb.png",
         "team": "Q36",
         "primary": "#012169",
-        "time": "+ 11' 19\"",
+        "time": "+ 12' 58\"",
         "legendScore": 0.0
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "Jordan Jegat",
         "country": "FRA",
         "logo": "https://flagcdn.com/24x18/fr.png",
         "team": "TEN",
         "primary": "#002395",
-        "time": "+ 19' 26\"",
+        "time": "+ 22' 50\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 10,
+        "name": "Yannis Voisard",
+        "country": "SUI",
+        "logo": "https://flagcdn.com/24x18/ch.png",
+        "team": "TUD",
+        "primary": "#FF0000",
+        "time": "+ 24' 18\"",
         "legendScore": 0.0
       }
     ],
@@ -869,7 +869,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/si.png",
       "team": "UEX",
       "primary": "#003DA5",
-      "points": 67,
+      "points": 70,
       "legendScore": 0.0
     },
     "young_leader": {
@@ -879,7 +879,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/mx.png",
       "team": "UEX",
       "primary": "#555555",
-      "time": "55h 47' 29\"",
+      "time": "56h 21' 09\"",
       "legendScore": 0.0
     }
   },

@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-21 15:24 UTC
+// Auto-generated 2026-07-21 21:34 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-21 15:24 UTC",
+  "UPDATED": "2026-07-21 21:34 UTC",
   "SEASON": "2026",
   "ROUND": 19,
   "IMPORTANCE": 8.2,

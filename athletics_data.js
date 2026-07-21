@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-21 15:26 UTC
+// Auto-generated 2026-07-21 21:35 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-21 15:26 UTC",
+  "UPDATED": "2026-07-21 21:35 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -206,6 +206,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 9,
+              "mark": "9.89",
+              "athlete": "Bayanda Walaza",
+              "country": "RSA",
+              "flag": "https://flagcdn.com/24x18/za.png",
+              "primary": "#007749",
+              "venue": "Štadin SNP",
+              "date": "21 JUL 2026"
+            },
+            {
+              "rank": 10,
               "mark": "9.90",
               "athlete": "Max Thomas",
               "country": "USA",
@@ -213,16 +223,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Percy Beard Track",
               "date": "04 APR 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "9.90",
-              "athlete": "Bryan Levell",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "National Stadium",
-              "date": "19 APR 2026"
             }
           ]
         },
