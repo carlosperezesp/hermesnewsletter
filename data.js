@@ -3522,7 +3522,7 @@ window.NHL_DATA = {
       "name": "Kirill Marchenko",
       "pos": "RW",
       "teamCode": "CBJ",
-      "age": 25,
+      "age": 26,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
@@ -3546,8 +3546,7 @@ window.NHL_DATA = {
         54,
         56,
         72
-      ],
-      "legendScore": 55.9
+      ]
     },
     {
       "id": 8480036,
@@ -26271,7 +26270,7 @@ window.NHL_DATA = {
       "name": "Ty Dellandrea",
       "pos": "C",
       "teamCode": "SJS",
-      "age": 25,
+      "age": 26,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47978,10 +47977,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-20 22:26 UTC",
+  "LAST_UPDATE": "2026-07-21 07:42 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-20T22:25:45Z"
+    "standingsDateTimeUtc": "2026-07-21T07:42:00Z"
   }
 };

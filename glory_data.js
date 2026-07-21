@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-21 07:13 UTC",
+  "UPDATED": "2026-07-21 07:45 UTC",
   "EVENTS": [
+    {
+      "id": "indycar:win:Grand Prix of Nashville:Álex Palou",
+      "sport": "indycar",
+      "detail": "IndyCar",
+      "text": "Álex Palou ganó en Grand Prix of Nashville",
+      "weight": 100,
+      "firstSeen": "2026-07-21"
+    },
     {
       "id": "f1:win:Moët & Chandon Belgian Grand Prix:Max Verstappen",
       "sport": "f1",
@@ -88,20 +96,20 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-20"
     },
     {
+      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Chase Burns",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-jovenes-promesas",
+      "text": "Chase Burns entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-07-21"
+    },
+    {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Willson Contreras",
       "sport": "mlb",
       "detail": "MLB",
       "anchor": "mlb-road-to-glory",
       "text": "Willson Contreras entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-07-20"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Colson Montgomery",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-jovenes-promesas",
-      "text": "Colson Montgomery entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-07-20"
     },
@@ -169,7 +177,68 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-12"
     }
   ],
-  "REPORTS": [],
+  "REPORTS": [
+    {
+      "id": "nhl:champ:CAR:2025-26",
+      "sport": "nhl",
+      "competition": "NHL",
+      "champion": "Hurricanes se proclama campeón (4-2 a Golden Knights)",
+      "scopeLabel": "Top 5 de la temporada",
+      "top5": [
+        {
+          "name": "Nathan MacKinnon",
+          "score": 100
+        },
+        {
+          "name": "Nikita Kucherov",
+          "score": 100
+        },
+        {
+          "name": "Oliver Bonk",
+          "score": 100
+        },
+        {
+          "name": "Connor McDavid",
+          "score": 99
+        },
+        {
+          "name": "Leon Draisaitl",
+          "score": 92
+        }
+      ],
+      "firstSeen": "2026-07-21"
+    },
+    {
+      "id": "nba:champ:NY:2025-26",
+      "sport": "nba",
+      "competition": "NBA",
+      "champion": "Knicks se proclama campeón (4-1 a Spurs)",
+      "scopeLabel": "Top 5 de los playoffs",
+      "top5": [
+        {
+          "name": "Nikola Jokic",
+          "score": 100
+        },
+        {
+          "name": "Cade Cunningham",
+          "score": 95
+        },
+        {
+          "name": "Paolo Banchero",
+          "score": 95
+        },
+        {
+          "name": "Shai Gilgeous-Alexander",
+          "score": 93
+        },
+        {
+          "name": "Jalen Brunson",
+          "score": 92
+        }
+      ],
+      "firstSeen": "2026-07-21"
+    }
+  ],
   "SNAPSHOTS": {
     "nhl:ROAD_TO_GLORY.players": [
       "Nikita Kucherov",
@@ -263,8 +332,8 @@ window.GLORY_DATA = {
       "New York Yankees",
       "Philadelphia Phillies",
       "Seattle Mariners",
-      "San Diego Padres",
       "Baltimore Orioles",
+      "San Diego Padres",
       "New York Mets"
     ],
     "mlb:ROAD_TO_GLORY.youngProspects": [
@@ -272,12 +341,12 @@ window.GLORY_DATA = {
       "James Wood",
       "Jordan Walker",
       "Sal Stewart",
-      "Pete Crow-Armstrong",
       "Junior Caminero",
+      "Pete Crow-Armstrong",
       "CJ Abrams",
       "Nick Kurtz",
-      "Colson Montgomery",
-      "Cam Schlittler"
+      "Cam Schlittler",
+      "Chase Burns"
     ],
     "nfl:ROAD_TO_GLORY.players": [
       "Matthew Stafford",
