@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-21 09:08 UTC
+// Auto-generated 2026-07-21 14:39 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-21 09:08 UTC",
+  "UPDATED": "2026-07-21 14:39 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -609,10 +609,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Millennium Estoril Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 75.0
     },
@@ -677,10 +677,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 74.6
     },
@@ -917,7 +917,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Generali Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 68.5
@@ -1221,10 +1221,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Generali Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 65.6
     },
@@ -1533,7 +1533,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Generali Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 64.0
@@ -1703,7 +1703,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Generali Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 62.7
@@ -1770,9 +1770,9 @@ window.TENNIS_DATA = {
       "prevListRank": 52,
       "tournamentStatus": {
         "tournament": "Generali Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 61.3
     },
@@ -1907,7 +1907,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Millennium Estoril Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 60.7
@@ -1940,9 +1940,9 @@ window.TENNIS_DATA = {
       "prevListRank": 57,
       "tournamentStatus": {
         "tournament": "Generali Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 61.1
     },
@@ -2077,7 +2077,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Generali Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 59.3
@@ -2315,7 +2315,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Generali Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 57.6
@@ -2552,9 +2552,9 @@ window.TENNIS_DATA = {
       "prevListRank": 75,
       "tournamentStatus": {
         "tournament": "Generali Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 56.6
     },
@@ -2587,7 +2587,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Millennium Estoril Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 56.6
@@ -2621,7 +2621,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Millennium Estoril Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 56.5
@@ -2791,7 +2791,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Generali Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 54.6
@@ -3168,9 +3168,9 @@ window.TENNIS_DATA = {
       "prevListRank": 93,
       "tournamentStatus": {
         "tournament": "Millennium Estoril Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 53.9
     },
@@ -3236,9 +3236,9 @@ window.TENNIS_DATA = {
       "prevListRank": 95,
       "tournamentStatus": {
         "tournament": "Millennium Estoril Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 56.4
     },
@@ -3579,7 +3579,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Generali Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 51.2
@@ -3920,9 +3920,9 @@ window.TENNIS_DATA = {
       "prevListRank": 115,
       "tournamentStatus": {
         "tournament": "Millennium Estoril Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 48.0
     },
@@ -4611,7 +4611,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Millennium Estoril Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 42.6
@@ -4857,10 +4857,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Generali Open · Millennium Estoril Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 39.1
     },
@@ -6678,9 +6678,9 @@ window.TENNIS_DATA = {
       "prevListRank": 45,
       "tournamentStatus": {
         "tournament": "Livesport Prague Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 65.5
     },
@@ -6714,9 +6714,9 @@ window.TENNIS_DATA = {
       "prevListRank": 46,
       "tournamentStatus": {
         "tournament": "Livesport Prague Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 67.4
     },
@@ -6987,7 +6987,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "MSC Hamburg Ladies Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 61.8
@@ -7089,7 +7089,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Livesport Prague Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 62.9
@@ -7225,7 +7225,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Livesport Prague Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 60.6
@@ -7429,7 +7429,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Livesport Prague Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 58.0
@@ -7975,7 +7975,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "MSC Hamburg Ladies Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 59.1
@@ -8799,10 +8799,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "Palermo Ladies Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.3
     },
@@ -9008,9 +9008,9 @@ window.TENNIS_DATA = {
       "prevListRank": 113,
       "tournamentStatus": {
         "tournament": "Livesport Prague Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 46.4
     },
@@ -9672,9 +9672,9 @@ window.TENNIS_DATA = {
       "prevListRank": 132,
       "tournamentStatus": {
         "tournament": "MSC Hamburg Ladies Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 40.1
     },
@@ -9814,9 +9814,9 @@ window.TENNIS_DATA = {
       "prevListRank": 136,
       "tournamentStatus": {
         "tournament": "MSC Hamburg Ladies Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 39.6
     },
@@ -10243,7 +10243,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "MSC Hamburg Ladies Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11010,15 +11010,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Alex Molcan",
+          "w": "Sebastian Ofner",
           "w_logo": "",
-          "l": "Sebastian Ofner",
+          "l": "Alex Molcan",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 64.7,
-          "l_score": 44.1,
+          "scheduled": false,
+          "w_score": 44.1,
+          "l_score": 64.7,
           "match_score": 64.7
         },
         {
@@ -11036,28 +11036,28 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Adolfo Daniel Vallejo",
+          "w": "Kilian Feldbausch",
           "w_logo": "",
-          "l": "Kilian Feldbausch",
+          "l": "Adolfo Daniel Vallejo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-2) 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 62.2,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 62.2,
           "match_score": 62.2
         },
         {
           "round": "R128",
-          "w": "Juan Manuel Cerundolo",
+          "w": "Marco Trungelliti",
           "w_logo": "",
-          "l": "Marco Trungelliti",
+          "l": "Juan Manuel Cerundolo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 60.5,
-          "l_score": 51.7,
+          "scheduled": false,
+          "w_score": 51.7,
+          "l_score": 60.5,
           "match_score": 60.5
         },
         {
@@ -11066,9 +11066,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Miomir Kecmanovic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 3-6 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 59.3,
           "l_score": 56.8,
           "match_score": 59.3
@@ -11079,9 +11079,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Aleksandr Shevchenko",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "3-6 7-6 (7-5) 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 57.6,
           "l_score": null,
           "match_score": 57.6
@@ -11092,9 +11092,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Laslo Djere",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-4) 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 55.4,
           "l_score": null,
           "match_score": 55.4
@@ -11125,9 +11125,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Orlando Luz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 62.0,
           "l_score": null,
           "match_score": 62.0
@@ -11138,9 +11138,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Stan Wawrinka",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 58.9,
           "l_score": 44.5,
           "match_score": 58.9
@@ -11151,37 +11151,37 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Vilius Gaubas",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 56.5,
           "l_score": 53.9,
           "match_score": 56.5
         },
         {
           "round": "R128",
-          "w": "Jesper de Jong",
+          "w": "Timofey Skatov",
           "w_logo": "",
-          "l": "Jan Choinski",
+          "l": "Jesper de Jong",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "1-6 6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 53.6,
-          "l_score": 37.3,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 53.6,
           "match_score": 53.6
         },
         {
           "round": "R128",
-          "w": "Damir Dzumhur",
+          "w": "Hugo Gaston",
           "w_logo": "",
-          "l": "Hugo Gaston",
+          "l": "Damir Dzumhur",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "5-0 ret",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 49.5,
-          "l_score": 42.6,
+          "scheduled": false,
+          "w_score": 42.6,
+          "l_score": 49.5,
           "match_score": 49.5
         },
         {
@@ -11190,22 +11190,22 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Daniel Merida",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 47.9,
           "l_score": null,
           "match_score": 47.9
         },
         {
           "round": "R128",
-          "w": "Tiago Pereira",
+          "w": "Gonzalo Bueno",
           "w_logo": "",
-          "l": "Gonzalo Bueno",
+          "l": "Tiago Pereira",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 1-6 7-6 (7-5)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11515,37 +11515,37 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Yuan Yue",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "3-6 6-4 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 64.0,
           "l_score": null,
           "match_score": 64.0
         },
         {
           "round": "R128",
-          "w": "Diane Parry",
+          "w": "Mai Hontama",
           "w_logo": "",
-          "l": "Mai Hontama",
+          "l": "Diane Parry",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-0",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 63.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 63.7,
           "match_score": 63.7
         },
         {
           "round": "R128",
-          "w": "Laura Samson",
+          "w": "Maya Joint",
           "w_logo": "",
-          "l": "Maya Joint",
+          "l": "Laura Samson",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 3-6 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 63.7,
-          "l_score": 59.4,
+          "scheduled": false,
+          "w_score": 59.4,
+          "l_score": 63.7,
           "match_score": 63.7
         },
         {
@@ -11554,9 +11554,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anna Blinkova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 63.1,
           "l_score": 48.1,
           "match_score": 63.1
@@ -11567,9 +11567,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Priscilla Hon",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 60.0,
           "l_score": null,
           "match_score": 60.0
@@ -11580,24 +11580,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Gao Xinyu",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 58.0,
           "l_score": null,
           "match_score": 58.0
         },
         {
           "round": "R128",
-          "w": "Aliaksandra Sasnovich",
+          "w": "Maria Timofeeva",
           "w_logo": "",
-          "l": "Maria Timofeeva",
+          "l": "Aliaksandra Sasnovich",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 44.9,
-          "l_score": 43.3,
+          "scheduled": false,
+          "w_score": 43.3,
+          "l_score": 44.9,
           "match_score": 44.9
         }
       ]
@@ -11607,19 +11607,6 @@ window.TENNIS_DATA = {
       "level": "WTA 250",
       "surface": "",
       "matches": [
-        {
-          "round": "R128",
-          "w": "Tyra Caterina Grant",
-          "w_logo": "",
-          "l": "Noemi Basiletti",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 45.6,
-          "l_score": null,
-          "match_score": 45.6
-        },
         {
           "round": "R128",
           "w": "Lucia Bronzetti",
@@ -11710,6 +11697,19 @@ window.TENNIS_DATA = {
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Raluka Serban",
+          "w_logo": "",
+          "l": "Noemi Basiletti",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
         }
       ]
     },
@@ -11733,15 +11733,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Tamara Korpatsch",
+          "w": "Victoria Jimenez Kasintseva",
           "w_logo": "",
-          "l": "Victoria Jimenez Kasintseva",
+          "l": "Tamara Korpatsch",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 58.4,
-          "l_score": 42.7,
+          "scheduled": false,
+          "w_score": 42.7,
+          "l_score": 58.4,
           "match_score": 58.4
         },
         {
@@ -11750,7 +11750,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elena Pridankina",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 55.0,
@@ -11763,9 +11763,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mona Barthel",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 7-6 (7-5)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 52.4,
           "l_score": null,
           "match_score": 52.4
@@ -11789,9 +11789,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Darja Semenistaja",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "3-6 6-3 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 44.5,
           "l_score": 38.5,
           "match_score": 44.5
@@ -11802,24 +11802,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sara Sorribes Tormo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 39.8,
           "l_score": null,
           "match_score": 39.8
         },
         {
           "round": "R128",
-          "w": "Veronika Erjavec",
+          "w": "Leyre Romero Gormaz",
           "w_logo": "",
-          "l": "Leyre Romero Gormaz",
+          "l": "Veronika Erjavec",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 37.6,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 37.6,
           "match_score": 37.6
         }
       ]
@@ -11843,13 +11843,12 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
-      "Adolfo Daniel Vallejo",
       "Alejandro Tabilo",
-      "Aleksandr Shevchenko",
       "Alex Molcan",
       "Alexander Bublik",
+      "Andrey Rublev",
+      "Arthur Rinderknech",
       "Botic Van De Zandschulp",
-      "Damir Dzumhur",
       "Daniel Altmaier",
       "Daniel Merida",
       "Facundo Diaz Acosta",
@@ -11857,21 +11856,15 @@ window.TENNIS_DATA = {
       "Hugo Gaston",
       "Ignacio Buse",
       "Jaime Faria",
-      "Jan Choinski",
       "Jan-Lennard Struff",
-      "Jesper de Jong",
-      "Juan Manuel Cerundolo",
       "Jurij Rodionov",
       "Kilian Feldbausch",
       "Kyrian Jacquet",
-      "Laslo Djere",
       "Luca Van Assche",
       "Luciano Darderi",
       "Marco Trungelliti",
       "Mariano Navone",
-      "Miomir Kecmanovic",
       "Nuno Borges",
-      "Orlando Luz",
       "Pablo Carreno Busta",
       "Pedro Martinez",
       "Quentin Halys",
@@ -11880,26 +11873,36 @@ window.TENNIS_DATA = {
       "Sebastian Baez",
       "Sebastian Ofner",
       "Stan Wawrinka",
-      "Tiago Pereira",
       "Tiago Torres",
+      "Timofey Skatov",
       "Titouan Droguet",
       "Tomas Martin Etcheverry",
-      "Vilius Gaubas",
+      "Valentin Vacherot",
       "Yannick Hanfmann"
     ],
     "out": [
+      "Adolfo Daniel Vallejo",
+      "Aleksandr Shevchenko",
       "Alexandre Muller",
       "Camilo Ugo Carabelli",
+      "Damir Dzumhur",
       "Federico Cina",
       "Frederico Ferreira Silva",
       "Henrique Rocha",
+      "Jesper de Jong",
       "Joel Josef Schwaerzler",
+      "Juan Manuel Cerundolo",
+      "Laslo Djere",
       "Lukas Neumayer",
+      "Miomir Kecmanovic",
       "Nikoloz Basilashvili",
+      "Orlando Luz",
+      "Tiago Pereira",
+      "Vilius Gaubas",
       "Vit Kopriva"
     ],
-    "aliveCount": 43,
-    "matchesSeen": 28
+    "aliveCount": 36,
+    "matchesSeen": 36
   },
   "WTA_TOURNAMENT": {
     "name": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open",
@@ -11925,7 +11928,6 @@ window.TENNIS_DATA = {
     ],
     "alive": [
       "Alevtina Ibragimova",
-      "Aliaksandra Sasnovich",
       "Alice Rame",
       "Alina Charaeva",
       "Anastasia Abbagnato",
@@ -11942,27 +11944,21 @@ window.TENNIS_DATA = {
       "Clara Burel",
       "Dalila Spiteri",
       "Daria Snigur",
-      "Darja Semenistaja",
       "Darya Astakhova",
-      "Diane Parry",
       "Dominika Salkova",
       "Ekaterine Gorgodze",
-      "Elena Pridankina",
       "Elina Avanesyan",
       "Elsa Jacquemot",
       "Erika Andreeva",
       "Federica Urgesi",
       "Fiona Ferro",
       "Francesca Jones",
-      "Gao Xinyu",
       "Ilary Pistola",
       "Jana Kovackova",
       "Jennifer Ruggeri",
-      "Jule Niemeier",
       "Julia Stusek",
       "Katarzyna Kawa",
       "Lanlana Tararudee",
-      "Laura Samson",
       "Leyre Romero Gormaz",
       "Lilli Tagger",
       "Linda Fruhvirtova",
@@ -11977,7 +11973,6 @@ window.TENNIS_DATA = {
       "Mayar Sherif",
       "Mina Hodzic",
       "Miriam Bulgaru",
-      "Mona Barthel",
       "Nastasja Schunk",
       "Nikola Bartunkova",
       "Noemi Basiletti",
@@ -11986,7 +11981,7 @@ window.TENNIS_DATA = {
       "Oleksandra Oliynykova",
       "Panna Udvardy",
       "Paula Badosa",
-      "Priscilla Hon",
+      "Raluka Serban",
       "Sara Bejlek",
       "Sara Sorribes Tormo",
       "Simona Waltert",
@@ -11995,36 +11990,44 @@ window.TENNIS_DATA = {
       "Tamara Zidansek",
       "Tereza Valentova",
       "Tessa Johanna Brockmann",
-      "Tyra Caterina Grant",
-      "Valentina Steiner",
-      "Veronika Erjavec",
       "Victoria Jimenez Kasintseva",
       "Yasmine Kabbaj",
-      "Yuan Yue",
       "Yulia Putintseva"
     ],
     "out": [
       "Alessandra Mazzola",
+      "Aliaksandra Sasnovich",
       "Alisa Oktiabreva",
       "Alycia Parks",
       "Amarissa Toth",
       "Ane Mintegi Del Olmo",
       "Antonia Ruzic",
+      "Darja Semenistaja",
       "Deborah Chiesa",
+      "Diane Parry",
+      "Elena Pridankina",
       "Elizara Yaneva",
       "Ella Seidel",
+      "Gao Xinyu",
       "Jessica Bouzas Maneiro",
+      "Jule Niemeier",
       "Kaitlin Quevedo",
+      "Laura Samson",
       "Lina Gjorcheska",
+      "Mona Barthel",
       "Moyuka Uchijima",
       "Nadia Podoroska",
+      "Priscilla Hon",
       "Ren Yufei",
       "Sofia Costoulas",
       "Sofya Lansere",
-      "Veronika Podrez"
+      "Valentina Steiner",
+      "Veronika Erjavec",
+      "Veronika Podrez",
+      "Yuan Yue"
     ],
-    "aliveCount": 78,
-    "matchesSeen": 54
+    "aliveCount": 66,
+    "matchesSeen": 58
   },
   "ATP_SCORE_LOG": {
     "206173": [

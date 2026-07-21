@@ -1114,12 +1114,12 @@ window.MLB_DATA = {
       "score": 81,
       "stats": {
         "type": "batting",
-        "ab": 351,
+        "ab": 352,
         "hr": 22,
         "rbi": 60,
-        "avg": 0.288,
+        "avg": 0.287,
         "sb": 6,
-        "ops": 0.932
+        "ops": 0.93
       },
       "legendScore": 92.0,
       "currentScore": 100.0,
@@ -3415,36 +3415,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4417203,
-      "name": "Justin Wrobleski",
-      "first": "Justin",
-      "last": "Wrobleski",
-      "pos": "SP",
-      "teamCode": "LAD",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4417203.png",
-      "colors": {
-        "primary": "#005a9c",
-        "secondary": "#ef3e42"
-      },
-      "score": 63,
-      "stats": {
-        "type": "pitching",
-        "g": 16,
-        "w": 10,
-        "era": 2.69,
-        "ip": 100.1,
-        "so": 73,
-        "whip": 1.02
-      },
-      "legendScore": 38.6,
-      "currentScore": 63,
-      "battingScore": null,
-      "pitchingScore": 63,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 35241,
       "name": "Sandy Alcantara",
       "first": "Sandy",
@@ -3891,36 +3861,6 @@ window.MLB_DATA = {
       "currentScore": 61,
       "battingScore": null,
       "pitchingScore": 61,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 4917646,
-      "name": "Samuel Basallo",
-      "first": "Samuel",
-      "last": "Basallo",
-      "pos": "C",
-      "teamCode": "BAL",
-      "age": 21,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917646.png",
-      "colors": {
-        "primary": "#df4601",
-        "secondary": "#000000"
-      },
-      "score": 61,
-      "stats": {
-        "type": "batting",
-        "ab": 282,
-        "hr": 16,
-        "rbi": 46,
-        "avg": 0.241,
-        "sb": 0,
-        "ops": 0.756
-      },
-      "legendScore": 34.1,
-      "currentScore": 61,
-      "battingScore": 61,
-      "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -4799,7 +4739,7 @@ window.MLB_DATA = {
       "name": "Bo Bichette",
       "first": "Bo",
       "last": "Bichette",
-      "pos": "SS",
+      "pos": "3B",
       "teamCode": "NYM",
       "age": 28,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/38904.png",
@@ -6685,36 +6625,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 40937,
-      "name": "Dustin May",
-      "first": "Dustin",
-      "last": "May",
-      "pos": "SP",
-      "teamCode": "STL",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40937.png",
-      "colors": {
-        "primary": "#c41e3a",
-        "secondary": "#0c2340"
-      },
-      "score": 44,
-      "stats": {
-        "type": "pitching",
-        "g": 19,
-        "w": 5,
-        "era": 4.78,
-        "ip": 98.0,
-        "so": 95,
-        "whip": 1.32
-      },
-      "legendScore": 29.9,
-      "currentScore": 44,
-      "battingScore": null,
-      "pitchingScore": 44,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 4905919,
       "name": "Ezequiel Tovar",
       "first": "Ezequiel",
@@ -6828,36 +6738,6 @@ window.MLB_DATA = {
         "whip": 1.33
       },
       "legendScore": 30.4,
-      "currentScore": 42,
-      "battingScore": null,
-      "pitchingScore": 42,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 4417208,
-      "name": "Noah Cameron",
-      "first": "Noah",
-      "last": "Cameron",
-      "pos": "SP",
-      "teamCode": "KC",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4417208.png",
-      "colors": {
-        "primary": "#004687",
-        "secondary": "#c09a5b"
-      },
-      "score": 42,
-      "stats": {
-        "type": "pitching",
-        "g": 19,
-        "w": 5,
-        "era": 5.27,
-        "ip": 100.2,
-        "so": 92,
-        "whip": 1.46
-      },
-      "legendScore": 27.9,
       "currentScore": 42,
       "battingScore": null,
       "pitchingScore": 42,
@@ -7897,7 +7777,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-21 09:06 UTC",
+  "LAST_UPDATE": "2026-07-21 14:37 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
