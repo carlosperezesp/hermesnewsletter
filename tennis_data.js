@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-21 14:39 UTC
+// Auto-generated 2026-07-21 15:26 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-21 14:39 UTC",
+  "UPDATED": "2026-07-21 15:26 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -4576,9 +4576,9 @@ window.TENNIS_DATA = {
       "prevListRank": 134,
       "tournamentStatus": {
         "tournament": "Generali Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 44.1
     },
@@ -6611,7 +6611,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Livesport Prague Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 65.2
@@ -9745,7 +9745,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Livesport Prague Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 38.2
@@ -11010,15 +11010,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Sebastian Ofner",
+          "w": "Alex Molcan",
           "w_logo": "",
-          "l": "Alex Molcan",
+          "l": "Sebastian Ofner",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 44.1,
-          "l_score": 64.7,
+          "w_score": 64.7,
+          "l_score": 44.1,
           "match_score": 64.7
         },
         {
@@ -11871,7 +11871,6 @@ window.TENNIS_DATA = {
       "Raphael Collignon",
       "Roman Andres Burruchaga",
       "Sebastian Baez",
-      "Sebastian Ofner",
       "Stan Wawrinka",
       "Tiago Torres",
       "Timofey Skatov",
@@ -11897,11 +11896,12 @@ window.TENNIS_DATA = {
       "Miomir Kecmanovic",
       "Nikoloz Basilashvili",
       "Orlando Luz",
+      "Sebastian Ofner",
       "Tiago Pereira",
       "Vilius Gaubas",
       "Vit Kopriva"
     ],
-    "aliveCount": 36,
+    "aliveCount": 35,
     "matchesSeen": 36
   },
   "WTA_TOURNAMENT": {
@@ -11954,7 +11954,6 @@ window.TENNIS_DATA = {
       "Fiona Ferro",
       "Francesca Jones",
       "Ilary Pistola",
-      "Jana Kovackova",
       "Jennifer Ruggeri",
       "Julia Stusek",
       "Katarzyna Kawa",
@@ -12009,6 +12008,7 @@ window.TENNIS_DATA = {
       "Elizara Yaneva",
       "Ella Seidel",
       "Gao Xinyu",
+      "Jana Kovackova",
       "Jessica Bouzas Maneiro",
       "Jule Niemeier",
       "Kaitlin Quevedo",
@@ -12026,8 +12026,8 @@ window.TENNIS_DATA = {
       "Veronika Podrez",
       "Yuan Yue"
     ],
-    "aliveCount": 66,
-    "matchesSeen": 58
+    "aliveCount": 65,
+    "matchesSeen": 59
   },
   "ATP_SCORE_LOG": {
     "206173": [
