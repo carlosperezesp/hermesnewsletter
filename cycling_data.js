@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-22 14:37 UTC
+// Auto-generated 2026-07-22 15:22 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-07-22 14:37 UTC",
+  "UPDATED": "2026-07-22 15:22 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -693,19 +693,19 @@ window.CYCLING_DATA = {
     "name": "Tour de France",
     "start": "2026-07-04",
     "end": "2026-07-27",
-    "stage": 16,
+    "stage": 17,
     "total_stages": 21,
     "jersey_primary": "#FFD700",
     "jersey_name": "Maillot Jaune",
     "last_stage": {
-      "stage": 16,
-      "date": "21 July",
-      "type": "Individual time trial",
+      "stage": 17,
+      "date": "22 July",
+      "type": "Flat stage",
       "dist_km": null,
-      "from": "Évian-les-Bains",
-      "to": "Thonon-les-Bains",
+      "from": "Chambéry",
+      "to": "Voiron",
       "completed": true,
-      "winner": "Remco Evenepoel",
+      "winner": "Jasper Philipsen",
       "winner_cc": "BEL",
       "winner_primary": "#000000",
       "winner_logo": "https://flagcdn.com/24x18/be.png"
