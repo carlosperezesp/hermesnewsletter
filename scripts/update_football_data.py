@@ -48,7 +48,7 @@ CURRENT_RAW = [
 
 CURRENT_DYNASTY_SEEDS = {
     "Argentina": {"cycleYears": 3.2, "currentWorldCups": 1, "currentContinental": 2, "recentFinals": 3, "ageCurve": 0.78},
-    "Spain": {"cycleYears": 1.6, "currentWorldCups": 0, "currentContinental": 1, "recentFinals": 1, "ageCurve": 0.96},
+    "Spain": {"cycleYears": 1.6, "currentWorldCups": 0, "currentContinental": 1, "currentNations": 1, "cycleEra": "2023-present", "recentFinals": 1, "ageCurve": 0.96},
     "France": {"cycleYears": 2.8, "currentWorldCups": 1, "currentContinental": 0, "recentFinals": 2, "ageCurve": 0.90},
     "England": {"cycleYears": 2.4, "currentWorldCups": 0, "currentContinental": 0, "recentFinals": 2, "ageCurve": 0.88},
     "Portugal": {"cycleYears": 1.8, "currentWorldCups": 0, "currentContinental": 0, "recentFinals": 0, "ageCurve": 0.86},
@@ -119,6 +119,7 @@ OPPONENT_ELOS: dict[str, int] = {
 # para que las variaciones acumuladas del torneo se reflejen en el Elo actual.
 REPLAY_START = date(2026, 6, 11)
 REPLAY_MAX_DAYS = 60  # red de seguridad: nunca reproducir más de N días hacia atrás
+FIXTURE_HORIZON_DAYS = 300  # ventana hacia delante para buscar próximos partidos
 
 # Ligas de selecciones que consultamos en el scoreboard de ESPN (slug -> etiqueta ES).
 ESPN_NATIONAL_LEAGUES: dict[str, str] = {
@@ -260,6 +261,53 @@ def _collect_matches(start: date, end: date) -> list[dict]:
     return matches
 
 
+def _parse_fixture(event: dict, slug: str) -> dict | None:
+    """Convierte un evento ESPN NO finalizado (programado) en un fixture normalizado."""
+    status = event.get("status", {}).get("type", {})
+    if status.get("completed"):
+        return None
+    comps = event.get("competitions", [{}])[0].get("competitors", [])
+    if len(comps) != 2:
+        return None
+    sides = {}
+    for c in comps:
+        team = c.get("team", {})
+        code = (team.get("abbreviation") or "").upper()
+        sides[c.get("homeAway", "home")] = {
+            "code": code,
+            "name": NAME_ES.get(code, team.get("displayName") or code),
+            "logo": team.get("logo") or team.get("flag"),
+        }
+    if "home" not in sides or "away" not in sides:
+        return None
+    return {
+        "id": event.get("id"),
+        "date": (event.get("date") or "")[:10],
+        "slug": slug,
+        "league": ESPN_NATIONAL_LEAGUES.get(slug, slug),
+        "home": sides["home"],
+        "away": sides["away"],
+    }
+
+
+def _collect_fixtures(start: date, end: date) -> list[dict]:
+    """Partidos futuros (programados) de las ligas de selecciones, orden ascendente."""
+    seen: set[str] = set()
+    fixtures: list[dict] = []
+    for slug in ESPN_NATIONAL_LEAGUES:
+        for event in _fetch_espn_events(slug, start, end):
+            fx = _parse_fixture(event, slug)
+            if not fx or not fx["date"]:
+                continue
+            key = fx["id"] or f"{fx['date']}-{fx['home']['code']}-{fx['away']['code']}"
+            if key in seen:
+                continue
+            seen.add(key)
+            fixtures.append(fx)
+    fixtures.sort(key=lambda m: (m["date"], m["id"] or ""))
+    return fixtures
+
+
 def replay_elo(seed_elos: dict[str, int]) -> tuple[list[dict], dict[str, float], dict[str, float], dict[str, int]]:
     """Reproduce los partidos del periodo y devuelve (feed, elos_finales, deltas_netos, partidos)."""
     today = date.today()
@@ -320,181 +368,74 @@ def replay_elo(seed_elos: dict[str, int]) -> tuple[list[dict], dict[str, float],
 
 DYNASTIES_RAW = [
     {
-        "name": "Brazil",
-        "era": "1958-1970",
-        "yearsNo1": 9.2,
-        "weeksNo1": 480,
-        "worldCups": 3,
-        "continentalTitles": 0,
-        "matchCount": 118,
-        "peakElo": 2160,
-        "note": "Pelé, Garrincha, Jairzinho y tres Mundiales en cuatro torneos.",
+        "name": "Brazil", "era": "1994-2002",
+        "yearsNo1": 4.6, "weeksNo1": 239, "matchCount": 155,
+        "worldCups": 2, "continentalTitles": 2, "confederations": 1,
+        "peakElo": 2178,
+        "note": "Romário, Ronaldo, Rivaldo y Ronaldinho: dos Mundiales, dos Copas y la Confederaciones 97.",
     },
     {
-        "name": "Spain",
-        "era": "2008-2012",
-        "yearsNo1": 4.1,
-        "weeksNo1": 214,
-        "worldCups": 1,
-        "continentalTitles": 2,
-        "matchCount": 72,
+        "name": "Uruguay", "era": "1924-1930",
+        "yearsNo1": 3.9, "weeksNo1": 203, "matchCount": 53,
+        "worldCups": 1, "continentalTitles": 2, "olympicPre1930": 2,
+        "peakElo": 2104,
+        "note": "Nasazzi, Andrade y Scarone: dos oros olímpicos (Mundiales de facto) y el primer Mundial.",
+    },
+    {
+        "name": "Brazil", "era": "1958-1962",
+        "yearsNo1": 4.4, "weeksNo1": 229, "matchCount": 56,
+        "worldCups": 2, "continentalTitles": 0,
+        "peakElo": 2195,
+        "note": "Pelé, Garrincha y Didí: dos Mundiales consecutivos (Suecia 58 y Chile 62).",
+    },
+    {
+        "name": "Italy", "era": "1934-1938",
+        "yearsNo1": 4.1, "weeksNo1": 213, "matchCount": 36,
+        "worldCups": 2, "continentalTitles": 0, "olympicPost1930": 1,
+        "peakElo": 2126,
+        "note": "Pozzo, Meazza y Piola: primer bicampeón mundial más el oro olímpico de 1936.",
+    },
+    {
+        "name": "Spain", "era": "2008-2012",
+        "yearsNo1": 3.5, "weeksNo1": 182, "matchCount": 77,
+        "worldCups": 1, "continentalTitles": 2,
         "peakElo": 2164,
         "note": "Euro-Mundial-Euro: la dinastía de posesión más limpia de la era moderna.",
     },
     {
-        "name": "Argentina",
-        "era": "2021-present",
-        "yearsNo1": 3.2,
-        "weeksNo1": 166,
-        "worldCups": 1,
-        "continentalTitles": 2,
-        "matchCount": 58,
-        "peakElo": 2133,
-        "note": "Copa América, Mundial y nueva Copa América en una racha larguísima sin derrota.",
+        "name": "Argentina", "era": "2021-present",
+        "yearsNo1": 1.8, "weeksNo1": 94, "matchCount": 79,
+        "worldCups": 1, "continentalTitles": 2, "finalissima": 1,
+        "peakElo": 2200,
+        "note": "Messi por fin: Copa América, Mundial, Finalissima y otra Copa América casi sin derrotas.",
     },
     {
-        "name": "France",
-        "era": "1998-2001",
-        "yearsNo1": 3.0,
-        "weeksNo1": 156,
-        "worldCups": 1,
-        "continentalTitles": 1,
-        "matchCount": 55,
-        "peakElo": 2118,
-        "note": "Zidane, Desailly, Thuram, Henry: Mundial y Euro consecutivos.",
+        "name": "Germany", "era": "1972-1976",
+        "yearsNo1": 3.2, "weeksNo1": 166, "matchCount": 46,
+        "worldCups": 1, "continentalTitles": 1,
+        "peakElo": 2146,
+        "note": "Beckenbauer y Müller: Eurocopa 72 y Mundial 74 con la RFA en su cima.",
     },
     {
-        "name": "Germany",
-        "era": "1972-1976",
-        "yearsNo1": 3.7,
-        "weeksNo1": 193,
-        "worldCups": 1,
-        "continentalTitles": 1,
-        "matchCount": 61,
-        "peakElo": 2105,
-        "note": "Beckenbauer y Müller sostienen Euro 72, Mundial 74 y final Euro 76.",
+        "name": "France", "era": "1998-2001",
+        "yearsNo1": 2.4, "weeksNo1": 125, "matchCount": 58,
+        "worldCups": 1, "continentalTitles": 1, "confederations": 1,
+        "peakElo": 2135,
+        "note": "Zidane, Desailly y Henry: Mundial, Eurocopa y Confederaciones encadenados.",
     },
     {
-        "name": "Italy",
-        "era": "1934-1938",
-        "yearsNo1": 3.5,
-        "weeksNo1": 182,
-        "worldCups": 2,
-        "continentalTitles": 0,
-        "matchCount": 46,
-        "peakElo": 2070,
-        "note": "Primer bicampeón mundial; dominio de los años treinta.",
+        "name": "Germany", "era": "2014-2017",
+        "yearsNo1": 2.0, "weeksNo1": 104, "matchCount": 57,
+        "worldCups": 1, "continentalTitles": 0, "confederations": 1,
+        "peakElo": 2223,
+        "note": "Mundial 2014 y Confederaciones 2017; el pico Elo más alto jamás medido.",
     },
     {
-        "name": "Brazil",
-        "era": "1994-2002",
-        "yearsNo1": 5.6,
-        "weeksNo1": 292,
-        "worldCups": 2,
-        "continentalTitles": 2,
-        "matchCount": 124,
-        "peakElo": 2120,
-        "note": "Romário, Ronaldo, Rivaldo y Ronaldinho: dos Mundiales y una final más.",
-    },
-    {
-        "name": "France",
-        "era": "2018-2022",
-        "yearsNo1": 2.8,
-        "weeksNo1": 146,
-        "worldCups": 1,
-        "continentalTitles": 0,
-        "matchCount": 67,
-        "peakElo": 2096,
-        "note": "Mundial 2018, Nations League y final de Qatar 2022.",
-    },
-    {
-        "name": "Netherlands",
-        "era": "1974-1978",
-        "yearsNo1": 2.9,
-        "weeksNo1": 151,
-        "worldCups": 0,
-        "continentalTitles": 0,
-        "matchCount": 48,
-        "peakElo": 2088,
-        "note": "Fútbol total: dos finales mundialistas y enorme pico Elo sin título.",
-    },
-    {
-        "name": "Germany",
-        "era": "2014-2017",
-        "yearsNo1": 2.5,
-        "weeksNo1": 130,
-        "worldCups": 1,
-        "continentalTitles": 0,
-        "matchCount": 63,
-        "peakElo": 2075,
-        "note": "Mundial 2014 y Confederaciones 2017 con profundidad de plantilla.",
-    },
-    # --- Eras históricas incorporadas ---
-    {
-        "name": "Argentina",
-        "era": "1978-1986",
-        "yearsNo1": 3.5,
-        "weeksNo1": 182,
-        "worldCups": 2,
-        "continentalTitles": 1,
-        "matchCount": 88,
-        "peakElo": 2095,
-        "note": "Kempes 78 y Maradona 86: dos Mundiales con estilos y leyendas opuestos.",
-    },
-    {
-        "name": "Uruguay",
-        "era": "1928-1950",
-        "yearsNo1": 4.5,
-        "weeksNo1": 234,
-        "worldCups": 2,
-        "continentalTitles": 2,
-        "matchCount": 65,
-        "peakElo": 2065,
-        "note": "Fundadores del fútbol moderno: primer Mundial, Copa Am 35/42 y el Maracanazo.",
-    },
-    {
-        "name": "Germany",
-        "era": "1980-1990",
-        "yearsNo1": 4.0,
-        "weeksNo1": 208,
-        "worldCups": 1,
-        "continentalTitles": 1,
-        "matchCount": 112,
-        "peakElo": 2095,
-        "note": "Euro 80, tres finales mundialistas en ocho años y campeones en Italia 90.",
-    },
-    {
-        "name": "Italy",
-        "era": "2000-2006",
-        "yearsNo1": 2.0,
-        "weeksNo1": 104,
-        "worldCups": 1,
-        "continentalTitles": 0,
-        "matchCount": 68,
-        "peakElo": 2078,
-        "note": "Final Euro 2000 y campeones del mundo en Alemania 2006 con Cannavaro.",
-    },
-    {
-        "name": "Italy",
-        "era": "1982-1984",
-        "yearsNo1": 1.5,
-        "weeksNo1": 78,
-        "worldCups": 1,
-        "continentalTitles": 0,
-        "matchCount": 38,
-        "peakElo": 2062,
-        "note": "Paolo Rossi y el tercer Mundial italiano; pico breve pero irrepetible.",
-    },
-    {
-        "name": "Germany",
-        "era": "1954-1956",
-        "yearsNo1": 1.5,
-        "weeksNo1": 78,
-        "worldCups": 1,
-        "continentalTitles": 0,
-        "matchCount": 32,
-        "peakElo": 2042,
-        "note": "Milagro de Berna: Alemania Occidental derrota a la invicta Hungría en la final.",
+        "name": "France", "era": "2018-2022",
+        "yearsNo1": 0.2, "weeksNo1": 10, "matchCount": 68,
+        "worldCups": 1, "continentalTitles": 0, "nationsLeague": 1,
+        "peakElo": 2127,
+        "note": "Mbappé y Griezmann: Mundial 2018, Nations League 2021 y final de Qatar.",
     },
 ]
 
@@ -563,22 +504,19 @@ def dynasty_raw(row: dict) -> float:
         row["yearsNo1"] * 10.0
         + row["worldCups"] * 28.0
         + row["continentalTitles"] * 10.0
+        + row.get("olympicPre1930", 0) * 16.0   # oro olímpico pre-Mundial (Uruguay 24/28): campeón del mundo de facto
+        + row.get("nationsLeague", 0) * 6.0      # UEFA Nations League: liga de las mejores de Europa
+        + row.get("olympicPost1930", 0) * 4.0    # oro olímpico post-1930: amateur, no reconocido por FIFA
+        + row.get("confederations", 0) * 3.0     # Copa Confederaciones
+        + row.get("finalissima", 0) * 3.0        # Finalissima (partido único)
         + max(0, row["peakElo"] - 1900) / 18.0
     )
 
 
 def _enrich_dynasties(rows: list[dict]) -> list[dict]:
-    """Auto-compute yearsNo1 for active ('present') dynasties from era start year."""
-    today = date.today()
-    enriched = []
-    for row in rows:
-        if row["era"].endswith("present"):
-            start_year = int(row["era"].split("-")[0])
-            elapsed = (today - date(start_year, 1, 1)).days / 365.25
-            row = dict(row)
-            row["yearsNo1"] = round(elapsed, 1)
-        enriched.append(row)
-    return enriched
+    """Copia defensiva. yearsNo1 ya es el tiempo real como nº1 (eloratings.net),
+    así que no se recalcula desde el año de inicio de la era."""
+    return [dict(row) for row in rows]
 
 
 def build_dynasties() -> list[dict]:
@@ -597,12 +535,17 @@ def build_dynasties() -> list[dict]:
             "matchCount": item["matchCount"],
             "worldCups": item["worldCups"],
             "continentalTitles": item["continentalTitles"],
+            "nationsLeague": item.get("nationsLeague", 0),
+            "confederations": item.get("confederations", 0),
+            "finalissima": item.get("finalissima", 0),
+            "olympicPre1930": item.get("olympicPre1930", 0),
+            "olympicPost1930": item.get("olympicPost1930", 0),
             "peakElo": item["peakElo"],
             "dynastyScore": round(raw / max_raw * 100, 1),
             "note": item["note"],
         })
         out.append(row)
-    return out[:10]
+    return out
 
 
 def build_elo_record(teams: list[dict], dynasties: list[dict], prev: dict) -> dict:
@@ -644,6 +587,7 @@ def build_dynasty_chase(teams: list[dict], dynasties: list[dict], max_raw: float
     if champ_code and leader["teamCode"] == champ_code:
         cur_wc += 1  # el Mundial recién ganado cuenta para el ciclo actual del líder
     cur_cont = int(seed.get("currentContinental", 0))
+    cur_nations = int(seed.get("currentNations", 0))
     # Racha como nº1: se conserva mientras no cambie el líder; si cambia, reinicia.
     today = date.today()
     prev_chase = (prev.get("ROAD_TO_GLORY") or {}).get("dynastyChase") or {}
@@ -658,23 +602,37 @@ def build_dynasty_chase(teams: list[dict], dynasties: list[dict], max_raw: float
     years_no1 = max(cycle_years, streak_years)
     peak_elo = leader["elo"]                      # pico del ciclo actual = Elo vivo
     raw = dynasty_raw({"yearsNo1": years_no1, "worldCups": cur_wc,
-                       "continentalTitles": cur_cont, "peakElo": peak_elo})
+                       "continentalTitles": cur_cont, "nationsLeague": cur_nations,
+                       "peakElo": peak_elo})
     score = round(raw / max(max_raw, 1.0) * 100.0, 1)
     gap = round(max(0.0, threshold - score), 1)
     row = team_meta(leader["name"])
     row.update({
         "rank": leader.get("rank", 1),
+        "era": seed.get("cycleEra", "ciclo actual"),
         "elo": leader["elo"],
         "no1Since": no1_since,
         "streakYears": streak_years,
         "cycleYears": cycle_years,
         "yearsNo1": years_no1,
+        "weeksNo1": round(years_no1 * 52),
+        "matchCount": leader.get("recentMatches", 0),
         "currentWorldCups": cur_wc,
         "currentContinentalTitles": cur_cont,
+        "currentNations": cur_nations,
+        "worldCups": cur_wc,
+        "continentalTitles": cur_cont,
+        "nationsLeague": cur_nations,
+        "confederations": 0,
+        "finalissima": 0,
+        "olympicPre1930": 0,
+        "olympicPost1930": 0,
         "peakElo": peak_elo,
         "dynastyScore": score,
         "gapToTop10": gap,
         "qualifies": gap <= 0,
+        "inProgress": True,
+        "note": "Ciclo en marcha: Nations League 2023, Eurocopa 2024 y Mundial 2026.",
     })
     return row
 
@@ -759,6 +717,57 @@ def attach_next_matches(teams: list[dict], world_cup: dict) -> None:
             }
 
 
+def attach_next_matches_from_fixtures(teams: list[dict], fixtures: list[dict]) -> None:
+    """Rellena team.nextMatch con el fixture más próximo de cada selección (los
+    fixtures llegan en orden ascendente). No pisa un nextMatch ya asignado."""
+    by_code = {t["teamCode"]: t for t in teams}
+    for fx in fixtures:
+        for side, other in (("home", "away"), ("away", "home")):
+            team = by_code.get(fx[side]["code"])
+            if not team or team.get("nextMatch"):
+                continue
+            team["nextMatch"] = {
+                "date": fx["date"],
+                "opponent": fx[other]["name"],
+                "opponentCode": fx[other]["code"],
+                "type": fx["league"],
+            }
+
+
+def build_top5_matches(teams: list[dict], recent_feed: list[dict], fixtures: list[dict]) -> dict:
+    """Últimos 5 y próximos 5 partidos (mezclados por fecha) de las 5 selecciones
+    con más Elo. Se alimenta solo del scoreboard/fixtures de ESPN."""
+    top5 = teams[:5]
+    top_codes = [t["teamCode"] for t in top5]
+    code_set = set(top_codes)
+    # Recientes: del feed ya reproducido (orden descendente), los que tocan al top 5.
+    recent = [m for m in recent_feed if code_set & set(m.get("featured", []))][:5]
+    # Próximos: fixtures (orden ascendente) que tocan al top 5, con Elo actual anotado.
+    # Base ELO_SEED (para rivales fuera del top 10) < OPPONENT_ELOS < Elo vivo del top 10.
+    elo_map = dict(ELO_SEED)
+    elo_map.update(OPPONENT_ELOS)
+    elo_map.update({t["teamCode"]: t["elo"] for t in teams})
+    upcoming: list[dict] = []
+    for fx in fixtures:
+        codes = {fx["home"]["code"], fx["away"]["code"]}
+        if not code_set & codes:
+            continue
+        upcoming.append({
+            "id": fx["id"], "date": fx["date"], "league": fx["league"], "slug": fx["slug"],
+            "featured": [c for c in top_codes if c in codes],
+            "home": {**fx["home"], "elo": elo_map.get(fx["home"]["code"])},
+            "away": {**fx["away"], "elo": elo_map.get(fx["away"]["code"])},
+        })
+        if len(upcoming) >= 5:
+            break
+    return {
+        "topCodes": top_codes,
+        "topNames": [t["name"] for t in top5],
+        "recent": recent,
+        "upcoming": upcoming,
+    }
+
+
 def importance() -> float:
     today = date.today()
     year = today.year
@@ -807,14 +816,26 @@ def write_data() -> None:
     recent_matches = apply_recent_results(teams)
     world_cup = build_world_cup(teams)
     attach_next_matches(teams, world_cup)
+    fixtures = _collect_fixtures(date.today(), date.today() + timedelta(days=FIXTURE_HORIZON_DAYS))
+    attach_next_matches_from_fixtures(teams, fixtures)
+    top5_matches = build_top5_matches(teams, recent_matches, fixtures)
     champ_code = detect_wc_champion(recent_matches, world_cup)
     apply_wc_champion(teams, world_cup, champ_code)  # suma el Mundial 2026 al campeón
-    dynasties = build_dynasties()
-    threshold = dynasties[9]["dynastyScore"] if len(dynasties) >= 10 else 70.0
+    historical = build_dynasties()  # todas las dinastías históricas, ya ordenadas
     raw_threshold = min(dynasty_raw(row) for row in DYNASTIES_RAW)
-    max_raw = max(dynasty_raw(row) for row in dynasties)
-    elo_record = build_elo_record(teams, dynasties, prev)
-    dynasty_chase = build_dynasty_chase(teams, dynasties, max_raw, threshold, prev, champ_code)
+    max_raw = max(dynasty_raw(row) for row in _enrich_dynasties(DYNASTIES_RAW))
+    hist_threshold = historical[9]["dynastyScore"] if len(historical) >= 10 else 0.0
+    elo_record = build_elo_record(teams, historical, prev)
+    chase = build_dynasty_chase(teams, historical, max_raw, hist_threshold, prev, champ_code)
+    # El ciclo del nº1 actual se funde en el ranking si su score entra en el top 10;
+    # si no, se muestra aparte como "dinastía en construcción".
+    combined = historical + ([chase] if chase else [])
+    combined.sort(key=lambda d: d["dynastyScore"], reverse=True)
+    for i, d in enumerate(combined):
+        d["rank"] = i + 1
+    dynasties = combined[:10]
+    threshold = dynasties[9]["dynastyScore"] if len(dynasties) >= 10 else 0.0
+    dynasty_chase = None if (chase and chase in dynasties) else chase
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     payload = {
         "UPDATED": updated,
@@ -828,6 +849,7 @@ def write_data() -> None:
         "TEAMS": teams,
         "ELO_RECORD": elo_record,
         "RECENT_MATCHES": recent_matches,
+        "TOP5_MATCHES": top5_matches,
         "WORLD_CUP_2026": world_cup,
         "ROAD_TO_GLORY": {
             "dynastyThreshold": threshold,

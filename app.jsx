@@ -4478,15 +4478,24 @@ function NewsletterApp() {
           const eloRecord = FTB.ELO_RECORD || null;
           const chase = FTB.ROAD_TO_GLORY?.dynastyChase || null;
           const wc = FTB.WORLD_CUP_2026;
-          const wcGroupByCode = {};
-          if (wc?.groups) Object.entries(wc.groups).forEach(([code, info]) => { wcGroupByCode[code] = info; });
-          const topCodes = new Set(teams.map(t => t.teamCode));
 
           function trophyLabel(wc, continental) {
             const parts = [];
             if (wc) parts.push(`${wc} Mundial${wc === 1 ? "" : "es"}`);
             if (continental) parts.push(`${continental} continental${continental === 1 ? "" : "es"}`);
             return parts.length ? parts.join(" · ") : "Sin grandes títulos en la era";
+          }
+
+          function dynastyTrophies(t) {
+            const parts = [];
+            if (t.worldCups) parts.push(`${t.worldCups} Mundial${t.worldCups === 1 ? "" : "es"}`);
+            if (t.continentalTitles) parts.push(`${t.continentalTitles} continental${t.continentalTitles === 1 ? "" : "es"}`);
+            if (t.olympicPre1930) parts.push(`${t.olympicPre1930} oro${t.olympicPre1930 === 1 ? "" : "s"} olímpico${t.olympicPre1930 === 1 ? "" : "s"}`);
+            if (t.olympicPost1930) parts.push("oro olímpico");
+            if (t.nationsLeague) parts.push("Nations League");
+            if (t.confederations) parts.push("Confederaciones");
+            if (t.finalissima) parts.push("Finalissima");
+            return parts.length ? parts.join(" · ") : "Sin grandes títulos";
           }
 
           function nextMatchNote(team) {
@@ -4551,8 +4560,10 @@ function NewsletterApp() {
                 </div>
               </header>
 
-              {(FTB.RECENT_MATCHES || []).length > 0 && (() => {
-                const results = FTB.RECENT_MATCHES.slice(0, 12);
+              {((FTB.TOP5_MATCHES?.recent || FTB.RECENT_MATCHES || []).length > 0) && (() => {
+                const results = FTB.TOP5_MATCHES?.recent?.length
+                  ? FTB.TOP5_MATCHES.recent
+                  : (FTB.RECENT_MATCHES || []).slice(0, 5);
                 const resultChip = (delta) => {
                   const flat = Math.abs(delta) < 0.1;
                   const up = delta > 0;
@@ -4573,8 +4584,8 @@ function NewsletterApp() {
                 return (
                   <NewsletterSection
                     kicker="Resultados · variación Elo"
-                    title="Últimos partidos de selecciones"
-                    sub="Resultado real (ESPN) y cuánto Elo gana o pierde cada equipo tras el partido. Chip verde sube, rojo baja."
+                    title="Últimos partidos — Top 5 Elo"
+                    sub="Los 5 partidos más recientes de las 5 selecciones con más Elo (fuente ESPN) y cuánto Elo gana o pierde cada equipo. Chip verde sube, rojo baja."
                   >
                     {results.map((m, i) => (
                       <div key={m.id || i} style={matchRowStyle}>
@@ -4601,54 +4612,47 @@ function NewsletterApp() {
                 );
               })()}
 
-              {wc && wc.upcomingMatches && wc.upcomingMatches.length > 0 && (
-                <NewsletterSection
-                  kicker={`Mundial 2026 · ${wc.phase === "pre_tournament" ? "Arranca mañana" : "En curso"}`}
-                  title="Próximos partidos — Top 10 Elo"
-                  sub={`${wc.hosts} · 48 selecciones · Fase de grupos`}
-                >
-                  {[1, 2].map(round => {
-                    const roundMatches = wc.upcomingMatches.filter(
-                      m => m.round === round && (topCodes.has(m.home) || topCodes.has(m.away))
-                    );
-                    if (!roundMatches.length) return null;
-                    return (
-                      <React.Fragment key={round}>
-                        <div style={{ fontSize: 10, fontWeight: 700, letterSpacing: "0.15em", textTransform: "uppercase",
-                          color: "var(--muted,#888)", padding: "10px 0 4px", marginTop: round === 2 ? 12 : 0 }}>
-                          Jornada {round}
+              {(FTB.TOP5_MATCHES?.upcoming || []).length > 0 && (() => {
+                const upcoming = FTB.TOP5_MATCHES.upcoming;
+                const sideName = (s) => (
+                  <span style={{ display: "inline-flex", alignItems: "center", gap: 5 }}>
+                    {s.logo && <img src={s.logo} alt="" width={18} height={13}
+                      style={{ borderRadius: 1, objectFit: "cover", flexShrink: 0 }} />}
+                    <span style={{ fontWeight: 700 }}>{s.name}</span>
+                  </span>
+                );
+                return (
+                  <NewsletterSection
+                    kicker="Calendario · próximos"
+                    title="Próximos partidos — Top 5 Elo"
+                    sub="Los 5 próximos compromisos de las 5 selecciones con más Elo, mezclados por fecha (fuente ESPN). Chip con el Elo actual de cada equipo."
+                  >
+                    {upcoming.map((m, i) => {
+                      const hc = eloChipStyle(m.home.elo);
+                      const ac = eloChipStyle(m.away.elo);
+                      return (
+                        <div key={m.id || i} style={matchRowStyle}>
+                          <span style={{ fontFamily: "monospace", fontSize: 11, color: "var(--muted,#888)", minWidth: 56, flexShrink: 0 }}>
+                            {wcMatchDate(m.date)}
+                          </span>
+                          <span style={{ flex: 1, display: "flex", alignItems: "center", gap: 6, flexWrap: "wrap" }}>
+                            {sideName(m.home)}
+                            {m.home.elo && <span style={{ ...chipBase, background: hc.bg, color: hc.fg }}>{m.home.elo}</span>}
+                            <span style={{ color: "var(--muted,#888)", fontSize: 11 }}>vs</span>
+                            {sideName(m.away)}
+                            {m.away.elo && <span style={{ ...chipBase, background: ac.bg, color: ac.fg }}>{m.away.elo}</span>}
+                          </span>
+                          <span style={{ fontSize: 10, fontFamily: "monospace", fontWeight: 700,
+                            background: "var(--ink,#1a1714)", color: "var(--paper,#faf9f7)",
+                            padding: "2px 6px", borderRadius: 3, letterSpacing: "0.04em", flexShrink: 0 }}>
+                            {m.league}
+                          </span>
                         </div>
-                        {roundMatches.map((m, i) => {
-                          const hc = eloChipStyle(m.homeElo);
-                          const ac = eloChipStyle(m.awayElo);
-                          return (
-                            <div key={i} style={matchRowStyle}>
-                              <span style={{ fontFamily: "monospace", fontSize: 11, color: "var(--muted,#888)", minWidth: 70, flexShrink: 0 }}>
-                                {wcMatchDate(m.date)} · {m.timeET}
-                              </span>
-                              <span style={{ flex: 1, display: "flex", alignItems: "center", gap: 5, flexWrap: "wrap" }}>
-                                <span style={{ fontWeight: 700 }}>{m.homeName}</span>
-                                {m.homeElo && <span style={{ ...chipBase, background: hc.bg, color: hc.fg }}>{m.homeElo}</span>}
-                                <span style={{ color: "var(--muted,#888)", fontSize: 11 }}>vs</span>
-                                <span style={{ fontWeight: 700 }}>{m.awayName}</span>
-                                {m.awayElo && <span style={{ ...chipBase, background: ac.bg, color: ac.fg }}>{m.awayElo}</span>}
-                              </span>
-                              <span style={{ fontSize: 10, fontFamily: "monospace", fontWeight: 700,
-                                background: "var(--ink,#1a1714)", color: "var(--paper,#faf9f7)",
-                                padding: "2px 6px", borderRadius: 3, letterSpacing: "0.05em", flexShrink: 0 }}>
-                                Gr.{m.group}
-                              </span>
-                              <span style={{ fontSize: 11, color: "var(--muted,#888)", minWidth: 110, textAlign: "right", flexShrink: 0 }}>
-                                {m.city}
-                              </span>
-                            </div>
-                          );
-                        })}
-                      </React.Fragment>
-                    );
-                  })}
-                </NewsletterSection>
-              )}
+                      );
+                    })}
+                  </NewsletterSection>
+                );
+              })()}
 
               <NewsletterSection
                 anchor="football-ranking-elo"
@@ -4701,9 +4705,7 @@ function NewsletterApp() {
                       scoreB={team.worldCups}
                       scoreBDisplay={team.worldCups}
                       scoreBLabel="Mundiales"
-                      meta={wcGroupByCode[team.teamCode]
-                        ? `Grupo ${wcGroupByCode[team.teamCode].group} · ${wcGroupByCode[team.teamCode].groupTeams.join(", ")}`
-                        : `Selecciones · ${team.country}`}
+                      meta={`Selecciones · ${team.country}`}
                       note={[nextMatchNote(team), trophyLabel(team.worldCups, team.continentalTitles)].filter(Boolean).join(" · ")}
                       logo={team.logo}
                     />
@@ -4715,7 +4717,7 @@ function NewsletterApp() {
                 anchor="football-dinastias"
                 kicker="Road to Glory"
                 title="Top 10 dinastías de selecciones"
-                sub={`Umbral top 10: ${dynastyThreshold.toFixed(1)}. Score: años #1/Elo + Mundiales + títulos continentales + pico Elo.`}
+                sub={`Umbral top 10: ${dynastyThreshold.toFixed(1)}. Score: años como nº1 (Elo real) + Mundiales + continentales + Nations/JJOO/Confed/Finalissima + pico Elo.`}
               >
                 <div className="newsletter-list">
                   {dynasties.map((team, i) => (
@@ -4727,8 +4729,8 @@ function NewsletterApp() {
                       score={team.dynastyScore}
                       scoreLabel="Dynasty"
                       threshold={dynastyThreshold}
-                      meta={`${team.era} · ${team.weeksNo1} semanas #1/Elo · pico ${team.peakElo}`}
-                      note={`${trophyLabel(team.worldCups, team.continentalTitles)}. ${team.note}`}
+                      meta={`${team.era}${team.inProgress ? " · ciclo actual" : ""} · ${team.weeksNo1} semanas nº1 · pico ${team.peakElo}`}
+                      note={`${dynastyTrophies(team)}. ${team.note}`}
                       logo={team.logo}
                     />
                   ))}

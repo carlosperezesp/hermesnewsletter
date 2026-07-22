@@ -1,11 +1,11 @@
-// Auto-generated 2026-07-22 09:04 UTC
+// Auto-generated 2026-07-22 13:34 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-07-22 09:04 UTC",
+  "UPDATED": "2026-07-22 13:34 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-07-22 09:04 UTC"
+    "through": "2026-07-22 13:34 UTC"
   },
   "IMPORTANCE": 9.0,
   "TEAMS": [
@@ -28,7 +28,13 @@ window.FOOTBALL_DATA = {
       "note": "Euro vigente y bloque joven de altísimo rendimiento.",
       "eloPrev": 2109,
       "recentDelta": 123.0,
-      "recentMatches": 8
+      "recentMatches": 8,
+      "nextMatch": {
+        "date": "2026-09-26",
+        "opponent": "Inglaterra",
+        "opponentCode": "ENG",
+        "type": "UEFA Nations League"
+      }
     },
     {
       "id": "argentina",
@@ -70,7 +76,13 @@ window.FOOTBALL_DATA = {
       "note": "Finalista de Euro; rating alto por consistencia ante élite UEFA.",
       "eloPrev": 2017,
       "recentDelta": 86.7,
-      "recentMatches": 8
+      "recentMatches": 8,
+      "nextMatch": {
+        "date": "2026-09-26",
+        "opponent": "España",
+        "opponentCode": "ESP",
+        "type": "UEFA Nations League"
+      }
     },
     {
       "id": "france",
@@ -91,7 +103,13 @@ window.FOOTBALL_DATA = {
       "note": "Finalista mundial reciente; profundidad ofensiva y defensiva.",
       "eloPrev": 2029,
       "recentDelta": 13.2,
-      "recentMatches": 8
+      "recentMatches": 8,
+      "nextMatch": {
+        "date": "2026-09-25",
+        "opponent": "Türkiye",
+        "opponentCode": "TUR",
+        "type": "UEFA Nations League"
+      }
     },
     {
       "id": "netherlands",
@@ -112,7 +130,13 @@ window.FOOTBALL_DATA = {
       "note": "Bloque estable con muy buen diferencial ante rivales fuertes.",
       "eloPrev": 1976,
       "recentDelta": 23.0,
-      "recentMatches": 4
+      "recentMatches": 4,
+      "nextMatch": {
+        "date": "2026-09-24",
+        "opponent": "Alemania",
+        "opponentCode": "GER",
+        "type": "UEFA Nations League"
+      }
     },
     {
       "id": "portugal",
@@ -133,7 +157,13 @@ window.FOOTBALL_DATA = {
       "note": "Plantilla top y fase clasificatoria fuerte.",
       "eloPrev": 1997,
       "recentDelta": -11.0,
-      "recentMatches": 5
+      "recentMatches": 5,
+      "nextMatch": {
+        "date": "2026-09-24",
+        "opponent": "Wales",
+        "opponentCode": "WAL",
+        "type": "UEFA Nations League"
+      }
     },
     {
       "id": "brazil",
@@ -154,7 +184,13 @@ window.FOOTBALL_DATA = {
       "note": "Histórico gigante todavía en zona top 10 pese a ciclo irregular.",
       "eloPrev": 1985,
       "recentDelta": -3.2,
-      "recentMatches": 5
+      "recentMatches": 5,
+      "nextMatch": {
+        "date": "2026-09-25",
+        "opponent": "Australia",
+        "opponentCode": "AUS",
+        "type": "Amistoso"
+      }
     },
     {
       "id": "italy",
@@ -174,7 +210,13 @@ window.FOOTBALL_DATA = {
       "continentalTitles": 2,
       "note": "Euro 2020 todavía pesa; ciclo actual busca volver a pico mundial.",
       "recentDelta": 0.0,
-      "recentMatches": 0
+      "recentMatches": 0,
+      "nextMatch": {
+        "date": "2026-09-25",
+        "opponent": "Bélgica",
+        "opponentCode": "BEL",
+        "type": "UEFA Nations League"
+      }
     },
     {
       "id": "germany",
@@ -195,7 +237,13 @@ window.FOOTBALL_DATA = {
       "note": "Rebote competitivo tras la Euro como anfitrión.",
       "eloPrev": 1958,
       "recentDelta": -35.2,
-      "recentMatches": 4
+      "recentMatches": 4,
+      "nextMatch": {
+        "date": "2026-09-24",
+        "opponent": "Países Bajos",
+        "opponentCode": "NED",
+        "type": "UEFA Nations League"
+      }
     },
     {
       "id": "uruguay",
@@ -227,9 +275,9 @@ window.FOOTBALL_DATA = {
     "when": "2026",
     "current": true,
     "prevRecord": {
-      "elo": 2164,
-      "name": "Spain",
-      "when": "2008-2012"
+      "elo": 2223,
+      "name": "Germany",
+      "when": "2014-2017"
     },
     "heldByCurrentNo1": true
   },
@@ -1604,6 +1652,281 @@ window.FOOTBALL_DATA = {
       }
     }
   ],
+  "TOP5_MATCHES": {
+    "topCodes": [
+      "ESP",
+      "ARG",
+      "ENG",
+      "FRA",
+      "NED"
+    ],
+    "topNames": [
+      "Spain",
+      "Argentina",
+      "England",
+      "France",
+      "Netherlands"
+    ],
+    "recent": [
+      {
+        "id": "760517",
+        "date": "2026-07-19",
+        "league": "Mundial 2026",
+        "slug": "fifa.world",
+        "featured": [
+          "ESP",
+          "ARG"
+        ],
+        "home": {
+          "code": "ESP",
+          "name": "España",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+          "score": 1,
+          "eloBefore": 2201,
+          "eloAfter": 2232,
+          "delta": 30.7,
+          "result": "W"
+        },
+        "away": {
+          "code": "ARG",
+          "name": "Argentina",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+          "score": 0,
+          "eloBefore": 2209,
+          "eloAfter": 2178,
+          "delta": -30.7,
+          "result": "L"
+        }
+      },
+      {
+        "id": "760516",
+        "date": "2026-07-18",
+        "league": "Mundial 2026",
+        "slug": "fifa.world",
+        "featured": [
+          "FRA",
+          "ENG"
+        ],
+        "home": {
+          "code": "FRA",
+          "name": "Francia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+          "score": 4,
+          "eloBefore": 2092,
+          "eloAfter": 2042,
+          "delta": -49.9,
+          "result": "L"
+        },
+        "away": {
+          "code": "ENG",
+          "name": "Inglaterra",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "score": 6,
+          "eloBefore": 2054,
+          "eloAfter": 2104,
+          "delta": 49.9,
+          "result": "W"
+        }
+      },
+      {
+        "id": "760515",
+        "date": "2026-07-15",
+        "league": "Mundial 2026",
+        "slug": "fifa.world",
+        "featured": [
+          "ENG",
+          "ARG"
+        ],
+        "home": {
+          "code": "ENG",
+          "name": "Inglaterra",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "score": 1,
+          "eloBefore": 2074,
+          "eloAfter": 2054,
+          "delta": -20.5,
+          "result": "L"
+        },
+        "away": {
+          "code": "ARG",
+          "name": "Argentina",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+          "score": 2,
+          "eloBefore": 2188,
+          "eloAfter": 2209,
+          "delta": 20.5,
+          "result": "W"
+        }
+      },
+      {
+        "id": "760514",
+        "date": "2026-07-14",
+        "league": "Mundial 2026",
+        "slug": "fifa.world",
+        "featured": [
+          "FRA",
+          "ESP"
+        ],
+        "home": {
+          "code": "FRA",
+          "name": "Francia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+          "score": 0,
+          "eloBefore": 2134,
+          "eloAfter": 2092,
+          "delta": -41.7,
+          "result": "L"
+        },
+        "away": {
+          "code": "ESP",
+          "name": "España",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+          "score": 2,
+          "eloBefore": 2160,
+          "eloAfter": 2201,
+          "delta": 41.7,
+          "result": "W"
+        }
+      },
+      {
+        "id": "760513",
+        "date": "2026-07-12",
+        "league": "Mundial 2026",
+        "slug": "fifa.world",
+        "featured": [
+          "ARG"
+        ],
+        "home": {
+          "code": "ARG",
+          "name": "Argentina",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+          "score": 3,
+          "eloBefore": 2172,
+          "eloAfter": 2188,
+          "delta": 16.8,
+          "result": "W"
+        },
+        "away": {
+          "code": "SUI",
+          "name": "Suiza",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+          "score": 1,
+          "eloBefore": 1916,
+          "eloAfter": 1899,
+          "delta": -16.8,
+          "result": "L"
+        }
+      }
+    ],
+    "upcoming": [
+      {
+        "id": "401861041",
+        "date": "2026-09-24",
+        "league": "UEFA Nations League",
+        "slug": "uefa.nations",
+        "featured": [
+          "NED"
+        ],
+        "home": {
+          "code": "NED",
+          "name": "Países Bajos",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+          "elo": 1999
+        },
+        "away": {
+          "code": "GER",
+          "name": "Alemania",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+          "elo": 1923
+        }
+      },
+      {
+        "id": "401861053",
+        "date": "2026-09-25",
+        "league": "UEFA Nations League",
+        "slug": "uefa.nations",
+        "featured": [
+          "FRA"
+        ],
+        "home": {
+          "code": "TUR",
+          "name": "Türkiye",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
+          "elo": 1780
+        },
+        "away": {
+          "code": "FRA",
+          "name": "Francia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+          "elo": 2042
+        }
+      },
+      {
+        "id": "401861066",
+        "date": "2026-09-26",
+        "league": "UEFA Nations League",
+        "slug": "uefa.nations",
+        "featured": [
+          "ESP",
+          "ENG"
+        ],
+        "home": {
+          "code": "ENG",
+          "name": "Inglaterra",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "elo": 2104
+        },
+        "away": {
+          "code": "ESP",
+          "name": "España",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+          "elo": 2232
+        }
+      },
+      {
+        "id": "401861068",
+        "date": "2026-09-27",
+        "league": "UEFA Nations League",
+        "slug": "uefa.nations",
+        "featured": [
+          "NED"
+        ],
+        "home": {
+          "code": "SRB",
+          "name": "Serbia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sba.png",
+          "elo": null
+        },
+        "away": {
+          "code": "NED",
+          "name": "Países Bajos",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+          "elo": 1999
+        }
+      },
+      {
+        "id": "401861081",
+        "date": "2026-09-28",
+        "league": "UEFA Nations League",
+        "slug": "uefa.nations",
+        "featured": [
+          "FRA"
+        ],
+        "home": {
+          "code": "BEL",
+          "name": "Bélgica",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+          "elo": 1925
+        },
+        "away": {
+          "code": "FRA",
+          "name": "Francia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+          "elo": 2042
+        }
+      }
+    ]
+  },
   "WORLD_CUP_2026": {
     "edition": "26ª edición",
     "hosts": "Estados Unidos · México · Canadá",
@@ -1702,30 +2025,9 @@ window.FOOTBALL_DATA = {
     }
   },
   "ROAD_TO_GLORY": {
-    "dynastyThreshold": 42.1,
-    "rawDynastyThreshold": 39.4,
+    "dynastyThreshold": 49.1,
+    "rawDynastyThreshold": 48.6,
     "dynasties": [
-      {
-        "id": "brazil_1958_1970",
-        "name": "Brazil",
-        "teamCode": "BRA",
-        "country": "Brazil",
-        "logo": "https://flagcdn.com/24x18/br.png",
-        "colors": {
-          "primary": "#009C3B",
-          "secondary": "#FFDF00"
-        },
-        "rank": 1,
-        "era": "1958-1970",
-        "yearsNo1": 9.2,
-        "weeksNo1": 480,
-        "matchCount": 118,
-        "worldCups": 3,
-        "continentalTitles": 0,
-        "peakElo": 2160,
-        "dynastyScore": 100.0,
-        "note": "Pelé, Garrincha, Jairzinho y tres Mundiales en cuatro torneos."
-      },
       {
         "id": "brazil_1994_2002",
         "name": "Brazil",
@@ -1736,19 +2038,24 @@ window.FOOTBALL_DATA = {
           "primary": "#009C3B",
           "secondary": "#FFDF00"
         },
-        "rank": 2,
+        "rank": 1,
         "era": "1994-2002",
-        "yearsNo1": 5.6,
-        "weeksNo1": 292,
-        "matchCount": 124,
+        "yearsNo1": 4.6,
+        "weeksNo1": 239,
+        "matchCount": 155,
         "worldCups": 2,
         "continentalTitles": 2,
-        "peakElo": 2120,
-        "dynastyScore": 75.7,
-        "note": "Romário, Ronaldo, Rivaldo y Ronaldinho: dos Mundiales y una final más."
+        "nationsLeague": 0,
+        "confederations": 1,
+        "finalissima": 0,
+        "olympicPre1930": 0,
+        "olympicPost1930": 0,
+        "peakElo": 2178,
+        "dynastyScore": 100.0,
+        "note": "Romário, Ronaldo, Rivaldo y Ronaldinho: dos Mundiales, dos Copas y la Confederaciones 97."
       },
       {
-        "id": "uruguay_1928_1950",
+        "id": "uruguay_1924_1930",
         "name": "Uruguay",
         "teamCode": "URU",
         "country": "Uruguay",
@@ -1757,79 +2064,47 @@ window.FOOTBALL_DATA = {
           "primary": "#75AADB",
           "secondary": "#FFFFFF"
         },
+        "rank": 2,
+        "era": "1924-1930",
+        "yearsNo1": 3.9,
+        "weeksNo1": 203,
+        "matchCount": 53,
+        "worldCups": 1,
+        "continentalTitles": 2,
+        "nationsLeague": 0,
+        "confederations": 0,
+        "finalissima": 0,
+        "olympicPre1930": 2,
+        "olympicPost1930": 0,
+        "peakElo": 2104,
+        "dynastyScore": 92.8,
+        "note": "Nasazzi, Andrade y Scarone: dos oros olímpicos (Mundiales de facto) y el primer Mundial."
+      },
+      {
+        "id": "brazil_1958_1962",
+        "name": "Brazil",
+        "teamCode": "BRA",
+        "country": "Brazil",
+        "logo": "https://flagcdn.com/24x18/br.png",
+        "colors": {
+          "primary": "#009C3B",
+          "secondary": "#FFDF00"
+        },
         "rank": 3,
-        "era": "1928-1950",
-        "yearsNo1": 4.5,
-        "weeksNo1": 234,
-        "matchCount": 65,
+        "era": "1958-1962",
+        "yearsNo1": 4.4,
+        "weeksNo1": 229,
+        "matchCount": 56,
         "worldCups": 2,
-        "continentalTitles": 2,
-        "peakElo": 2065,
-        "dynastyScore": 68.3,
-        "note": "Fundadores del fútbol moderno: primer Mundial, Copa Am 35/42 y el Maracanazo."
-      },
-      {
-        "id": "argentina_2021_now",
-        "name": "Argentina",
-        "teamCode": "ARG",
-        "country": "Argentina",
-        "logo": "https://flagcdn.com/24x18/ar.png",
-        "colors": {
-          "primary": "#75AADB",
-          "secondary": "#FFFFFF"
-        },
-        "rank": 4,
-        "era": "2021-present",
-        "yearsNo1": 5.6,
-        "weeksNo1": 166,
-        "matchCount": 58,
-        "worldCups": 1,
-        "continentalTitles": 2,
-        "peakElo": 2133,
-        "dynastyScore": 61.4,
-        "note": "Copa América, Mundial y nueva Copa América en una racha larguísima sin derrota."
-      },
-      {
-        "id": "argentina_1978_1986",
-        "name": "Argentina",
-        "teamCode": "ARG",
-        "country": "Argentina",
-        "logo": "https://flagcdn.com/24x18/ar.png",
-        "colors": {
-          "primary": "#75AADB",
-          "secondary": "#FFFFFF"
-        },
-        "rank": 5,
-        "era": "1978-1986",
-        "yearsNo1": 3.5,
-        "weeksNo1": 182,
-        "matchCount": 88,
-        "worldCups": 2,
-        "continentalTitles": 1,
-        "peakElo": 2095,
-        "dynastyScore": 58.7,
-        "note": "Kempes 78 y Maradona 86: dos Mundiales con estilos y leyendas opuestos."
-      },
-      {
-        "id": "spain_2008_2012",
-        "name": "Spain",
-        "teamCode": "ESP",
-        "country": "Spain",
-        "logo": "https://flagcdn.com/24x18/es.png",
-        "colors": {
-          "primary": "#AA151B",
-          "secondary": "#F1BF00"
-        },
-        "rank": 6,
-        "era": "2008-2012",
-        "yearsNo1": 4.1,
-        "weeksNo1": 214,
-        "matchCount": 72,
-        "worldCups": 1,
-        "continentalTitles": 2,
-        "peakElo": 2164,
-        "dynastyScore": 54.4,
-        "note": "Euro-Mundial-Euro: la dinastía de posesión más limpia de la era moderna."
+        "continentalTitles": 0,
+        "nationsLeague": 0,
+        "confederations": 0,
+        "finalissima": 0,
+        "olympicPre1930": 0,
+        "olympicPost1930": 0,
+        "peakElo": 2195,
+        "dynastyScore": 82.9,
+        "note": "Pelé, Garrincha y Didí: dos Mundiales consecutivos (Suecia 58 y Chile 62)."
       },
       {
         "id": "italy_1934_1938",
@@ -1841,37 +2116,73 @@ window.FOOTBALL_DATA = {
           "primary": "#0066B3",
           "secondary": "#009246"
         },
-        "rank": 7,
+        "rank": 4,
         "era": "1934-1938",
-        "yearsNo1": 3.5,
-        "weeksNo1": 182,
-        "matchCount": 46,
+        "yearsNo1": 4.1,
+        "weeksNo1": 213,
+        "matchCount": 36,
         "worldCups": 2,
         "continentalTitles": 0,
-        "peakElo": 2070,
-        "dynastyScore": 52.7,
-        "note": "Primer bicampeón mundial; dominio de los años treinta."
+        "nationsLeague": 0,
+        "confederations": 0,
+        "finalissima": 0,
+        "olympicPre1930": 0,
+        "olympicPost1930": 1,
+        "peakElo": 2126,
+        "dynastyScore": 80.9,
+        "note": "Pozzo, Meazza y Piola: primer bicampeón mundial más el oro olímpico de 1936."
       },
       {
-        "id": "germany_1980_1990",
-        "name": "Germany",
-        "teamCode": "GER",
-        "country": "Germany",
-        "logo": "https://flagcdn.com/24x18/de.png",
+        "id": "spain_2008_2012",
+        "name": "Spain",
+        "teamCode": "ESP",
+        "country": "Spain",
+        "logo": "https://flagcdn.com/24x18/es.png",
         "colors": {
-          "primary": "#000000",
-          "secondary": "#DD0000"
+          "primary": "#AA151B",
+          "secondary": "#F1BF00"
         },
-        "rank": 8,
-        "era": "1980-1990",
-        "yearsNo1": 4.0,
-        "weeksNo1": 208,
-        "matchCount": 112,
+        "rank": 5,
+        "era": "2008-2012",
+        "yearsNo1": 3.5,
+        "weeksNo1": 182,
+        "matchCount": 77,
         "worldCups": 1,
-        "continentalTitles": 1,
-        "peakElo": 2095,
-        "dynastyScore": 46.6,
-        "note": "Euro 80, tres finales mundialistas en ocho años y campeones en Italia 90."
+        "continentalTitles": 2,
+        "nationsLeague": 0,
+        "confederations": 0,
+        "finalissima": 0,
+        "olympicPre1930": 0,
+        "olympicPost1930": 0,
+        "peakElo": 2164,
+        "dynastyScore": 69.5,
+        "note": "Euro-Mundial-Euro: la dinastía de posesión más limpia de la era moderna."
+      },
+      {
+        "id": "argentina_2021_now",
+        "name": "Argentina",
+        "teamCode": "ARG",
+        "country": "Argentina",
+        "logo": "https://flagcdn.com/24x18/ar.png",
+        "colors": {
+          "primary": "#75AADB",
+          "secondary": "#FFFFFF"
+        },
+        "rank": 6,
+        "era": "2021-present",
+        "yearsNo1": 1.8,
+        "weeksNo1": 94,
+        "matchCount": 79,
+        "worldCups": 1,
+        "continentalTitles": 2,
+        "nationsLeague": 0,
+        "confederations": 0,
+        "finalissima": 1,
+        "olympicPre1930": 0,
+        "olympicPost1930": 0,
+        "peakElo": 2200,
+        "dynastyScore": 61.0,
+        "note": "Messi por fin: Copa América, Mundial, Finalissima y otra Copa América casi sin derrotas."
       },
       {
         "id": "germany_1972_1976",
@@ -1883,16 +2194,57 @@ window.FOOTBALL_DATA = {
           "primary": "#000000",
           "secondary": "#DD0000"
         },
-        "rank": 9,
+        "rank": 7,
         "era": "1972-1976",
-        "yearsNo1": 3.7,
-        "weeksNo1": 193,
-        "matchCount": 61,
+        "yearsNo1": 3.2,
+        "weeksNo1": 166,
+        "matchCount": 46,
         "worldCups": 1,
         "continentalTitles": 1,
-        "peakElo": 2105,
-        "dynastyScore": 45.4,
-        "note": "Beckenbauer y Müller sostienen Euro 72, Mundial 74 y final Euro 76."
+        "nationsLeague": 0,
+        "confederations": 0,
+        "finalissima": 0,
+        "olympicPre1930": 0,
+        "olympicPost1930": 0,
+        "peakElo": 2146,
+        "dynastyScore": 59.6,
+        "note": "Beckenbauer y Müller: Eurocopa 72 y Mundial 74 con la RFA en su cima."
+      },
+      {
+        "id": "spain",
+        "name": "Spain",
+        "teamCode": "ESP",
+        "country": "Spain",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "colors": {
+          "primary": "#AA151B",
+          "secondary": "#F1BF00"
+        },
+        "rank": 8,
+        "era": "2023-present",
+        "elo": 2232,
+        "no1Since": "2026-07-22",
+        "streakYears": 0.0,
+        "cycleYears": 1.6,
+        "yearsNo1": 1.6,
+        "weeksNo1": 83,
+        "matchCount": 8,
+        "currentWorldCups": 1,
+        "currentContinentalTitles": 1,
+        "currentNations": 1,
+        "worldCups": 1,
+        "continentalTitles": 1,
+        "nationsLeague": 1,
+        "confederations": 0,
+        "finalissima": 0,
+        "olympicPre1930": 0,
+        "olympicPost1930": 0,
+        "peakElo": 2232,
+        "dynastyScore": 55.9,
+        "gapToTop10": 0.0,
+        "qualifies": true,
+        "inProgress": true,
+        "note": "Ciclo en marcha: Nations League 2023, Eurocopa 2024 y Mundial 2026."
       },
       {
         "id": "france_1998_2001",
@@ -1904,40 +2256,49 @@ window.FOOTBALL_DATA = {
           "primary": "#002395",
           "secondary": "#ED2939"
         },
-        "rank": 10,
+        "rank": 9,
         "era": "1998-2001",
-        "yearsNo1": 3.0,
-        "weeksNo1": 156,
-        "matchCount": 55,
+        "yearsNo1": 2.4,
+        "weeksNo1": 125,
+        "matchCount": 58,
         "worldCups": 1,
         "continentalTitles": 1,
-        "peakElo": 2118,
-        "dynastyScore": 42.1,
-        "note": "Zidane, Desailly, Thuram, Henry: Mundial y Euro consecutivos."
+        "nationsLeague": 0,
+        "confederations": 1,
+        "finalissima": 0,
+        "olympicPre1930": 0,
+        "olympicPost1930": 0,
+        "peakElo": 2135,
+        "dynastyScore": 55.6,
+        "note": "Zidane, Desailly y Henry: Mundial, Eurocopa y Confederaciones encadenados."
+      },
+      {
+        "id": "germany_2014_2017",
+        "name": "Germany",
+        "teamCode": "GER",
+        "country": "Germany",
+        "logo": "https://flagcdn.com/24x18/de.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#DD0000"
+        },
+        "rank": 10,
+        "era": "2014-2017",
+        "yearsNo1": 2.0,
+        "weeksNo1": 104,
+        "matchCount": 57,
+        "worldCups": 1,
+        "continentalTitles": 0,
+        "nationsLeague": 0,
+        "confederations": 1,
+        "finalissima": 0,
+        "olympicPre1930": 0,
+        "olympicPost1930": 0,
+        "peakElo": 2223,
+        "dynastyScore": 49.1,
+        "note": "Mundial 2014 y Confederaciones 2017; el pico Elo más alto jamás medido."
       }
     ],
-    "dynastyChase": {
-      "id": "spain",
-      "name": "Spain",
-      "teamCode": "ESP",
-      "country": "Spain",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "colors": {
-        "primary": "#AA151B",
-        "secondary": "#F1BF00"
-      },
-      "rank": 1,
-      "elo": 2232,
-      "no1Since": "2026-07-22",
-      "streakYears": 0.0,
-      "cycleYears": 1.6,
-      "yearsNo1": 1.6,
-      "currentWorldCups": 1,
-      "currentContinentalTitles": 1,
-      "peakElo": 2232,
-      "dynastyScore": 38.0,
-      "gapToTop10": 4.1,
-      "qualifies": false
-    }
+    "dynastyChase": null
   }
 };
