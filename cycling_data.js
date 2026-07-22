@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-22 15:22 UTC
+// Auto-generated 2026-07-22 21:31 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-07-22 15:22 UTC",
+  "UPDATED": "2026-07-22 21:31 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -758,7 +758,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/si.png",
         "team": "UEX",
         "primary": "#003DA5",
-        "time": "56h 14' 18\"",
+        "time": "60h 04' 17\"",
         "legendScore": 0.0
       },
       {
@@ -838,7 +838,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/fr.png",
         "team": "TEN",
         "primary": "#002395",
-        "time": "+ 22' 50\"",
+        "time": "+ 14' 04\"",
         "legendScore": 0.0
       },
       {
@@ -859,7 +859,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/dk.png",
       "team": "LTK men",
       "primary": "#C60C30",
-      "points": 417,
+      "points": 452,
       "legendScore": 0.0
     },
     "kom_leader": {
@@ -879,7 +879,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/mx.png",
       "team": "UEX",
       "primary": "#555555",
-      "time": "56h 21' 09\"",
+      "time": "60h 11' 08\"",
       "legendScore": 0.0
     }
   },

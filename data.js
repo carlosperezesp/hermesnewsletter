@@ -16589,39 +16589,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8485702,
-      "first": "Maksim",
-      "last": "Shabanov",
-      "name": "Maksim Shabanov",
-      "pos": "RW",
-      "teamCode": "NYI",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
-      "colors": {
-        "primary": "#00539b",
-        "secondary": "#f47d30"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8485702.png",
-      "score": 53,
-      "stats": {
-        "gp": 44,
-        "g": 5,
-        "a": 13,
-        "p": 18,
-        "pm": -5,
-        "toi": 13.7,
-        "shots": 56
-      },
-      "trajectory": [
-        40,
-        43,
-        45,
-        47,
-        53
-      ]
-    },
-    {
       "id": 8479983,
       "first": "Mario",
       "last": "Ferraro",
@@ -16786,6 +16753,39 @@ window.NHL_DATA = {
         46,
         48,
         50,
+        53
+      ]
+    },
+    {
+      "id": 8485702,
+      "first": "Maxim",
+      "last": "Shabanov",
+      "name": "Maxim Shabanov",
+      "pos": "RW",
+      "teamCode": "NYI",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
+      "colors": {
+        "primary": "#00539b",
+        "secondary": "#f47d30"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8485702.png",
+      "score": 53,
+      "stats": {
+        "gp": 44,
+        "g": 5,
+        "a": 13,
+        "p": 18,
+        "pm": -5,
+        "toi": 13.7,
+        "shots": 56
+      },
+      "trajectory": [
+        40,
+        43,
+        45,
+        47,
         53
       ]
     },
@@ -19119,6 +19119,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8481030,
+      "first": "Jack",
+      "last": "St. Ivany",
+      "name": "Jack St. Ivany",
+      "pos": "D",
+      "teamCode": "PIT",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
+      "colors": {
+        "primary": "#111111",
+        "secondary": "#cfc493"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8481030.png",
+      "score": 51,
+      "stats": {
+        "gp": 20,
+        "g": 0,
+        "a": 7,
+        "p": 7,
+        "pm": 4,
+        "toi": 16.3,
+        "shots": 17
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        51
+      ]
+    },
+    {
       "id": 8477450,
       "first": "Jason",
       "last": "Dickinson",
@@ -19210,39 +19243,6 @@ window.NHL_DATA = {
         "pm": -3,
         "toi": 11.5,
         "shots": 11
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        51
-      ]
-    },
-    {
-      "id": 8481030,
-      "first": "John",
-      "last": "St. Ivany",
-      "name": "John St. Ivany",
-      "pos": "D",
-      "teamCode": "PIT",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
-      "colors": {
-        "primary": "#111111",
-        "secondary": "#cfc493"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8481030.png",
-      "score": 51,
-      "stats": {
-        "gp": 20,
-        "g": 0,
-        "a": 7,
-        "p": 7,
-        "pm": 4,
-        "toi": 16.3,
-        "shots": 17
       },
       "trajectory": [
         38,
@@ -20165,9 +20165,9 @@ window.NHL_DATA = {
       "name": "Danton Heinen",
       "pos": "LW",
       "teamCode": "CBJ",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 31,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#002654",
         "secondary": "#ce1126"
@@ -47977,10 +47977,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-22 15:22 UTC",
+  "LAST_UPDATE": "2026-07-22 21:31 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-22T15:21:17Z"
+    "standingsDateTimeUtc": "2026-07-22T21:30:30Z"
   }
 };
