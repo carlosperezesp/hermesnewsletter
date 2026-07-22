@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-22 07:45 UTC
+// Auto-generated 2026-07-22 09:05 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-22 07:45 UTC",
+  "UPDATED": "2026-07-22 09:05 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11717,9 +11717,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Maria Lourdes Carle",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 60.9,
           "l_score": null,
           "match_score": 60.9
