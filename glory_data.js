@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-22 21:33 UTC",
+  "UPDATED": "2026-07-22 22:30 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Nashville:Álex Palou",
@@ -121,6 +121,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-20"
     },
     {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Ben Rice",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Ben Rice entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-07-22"
+    },
+    {
       "id": "rank:football:ROAD_TO_GLORY.dynasties:era:in:Uruguay (1924-1930)",
       "sport": "football",
       "detail": "Fútbol",
@@ -173,15 +182,6 @@ window.GLORY_DATA = {
       "text": "Chase Burns entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-07-21"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Willson Contreras",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "Willson Contreras entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-07-20"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Chris Sale",
@@ -377,7 +377,7 @@ window.GLORY_DATA = {
       "Kyle Schwarber",
       "Jacob Misiorowski",
       "Chris Sale",
-      "Willson Contreras"
+      "Ben Rice"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
