@@ -499,6 +499,18 @@ DYNASTIES_RAW = [
 ]
 
 
+def _load_prev() -> dict:
+    """Lee el football_data.js anterior para conservar estado que no se puede
+    derivar de una sola foto: el récord Elo histórico (marca de agua) y desde
+    cuándo la selección líder es nº1 (para medir su racha)."""
+    try:
+        txt = OUT.read_text(encoding="utf-8")
+        i = txt.find("=")
+        return json.loads(txt[i + 1:].strip().rstrip(";"))
+    except (FileNotFoundError, ValueError):
+        return {}
+
+
 def _id(name: str, suffix: str = "") -> str:
     base = re.sub(r"[^a-z0-9]+", "_", name.lower()).strip("_")
     return f"{base}_{suffix}" if suffix else base
@@ -593,44 +605,76 @@ def build_dynasties() -> list[dict]:
     return out[:10]
 
 
-def build_contenders(teams: list[dict], threshold: float) -> list[dict]:
-    rows = []
-    for team in teams:
-        seed = CURRENT_DYNASTY_SEEDS.get(team["name"], {})
-        cycle_years = float(seed.get("cycleYears", 1.0))
-        current_world_cups = int(seed.get("currentWorldCups", 0))
-        current_continental = int(seed.get("currentContinental", 0))
-        recent_finals = int(seed.get("recentFinals", 0))
-        age_curve = float(seed.get("ageCurve", 0.8))
-        elo_component = max(0.0, team["elo"] - 1900) / 18.0
-        raw = (
-            cycle_years * 10.0
-            + current_world_cups * 28.0
-            + current_continental * 10.0
-            + recent_finals * 6.0
-            + elo_component
-            + age_curve * 14.0
-        )
-        potential = min(100.0, round(raw / max(threshold, 1.0) * 100.0, 1))
-        gap = max(0.0, round(threshold - raw, 1))
-        row = dict(team)
-        row.update({
-            "dynastyPotential": potential,
-            "rawDynastyPotential": round(raw, 1),
-            "gapToDynastyTop10": gap,
-            "cycleYears": cycle_years,
-            "currentWorldCups": current_world_cups,
-            "currentContinentalTitles": current_continental,
-            "recentFinals": recent_finals,
-            "ageCurve": age_curve,
-            "note": (
-                "Ya está proyectada en zona top 10 si sostiene el ciclo"
-                if gap <= 0 else
-                f"A {gap:.1f} puntos brutos del umbral dinástico"
-            ),
-        })
-        rows.append(row)
-    return sorted(rows, key=lambda r: (r["dynastyPotential"], r["elo"]), reverse=True)[:10]
+def build_elo_record(teams: list[dict], dynasties: list[dict], prev: dict) -> dict:
+    """Máximo Elo jamás alcanzado (marca de agua monotónica).
+
+    Candidatos: el pico histórico de las dinastías, el Elo actual más alto y el
+    récord ya almacenado (para que nunca baje). Si el nº1 vivo supera el récord
+    histórico, se guarda el anterior en prevRecord para poder decir 'nuevo máximo'."""
+    hist = max(dynasties, key=lambda d: d["peakElo"]) if dynasties else None
+    cur_top = max(teams, key=lambda t: t["elo"]) if teams else None
+    candidates: list[dict] = []
+    if hist:
+        candidates.append({"elo": hist["peakElo"], "name": hist["name"], "teamCode": hist["teamCode"],
+                           "logo": hist["logo"], "when": hist["era"], "current": False})
+    if cur_top:
+        candidates.append({"elo": cur_top["elo"], "name": cur_top["name"], "teamCode": cur_top["teamCode"],
+                           "logo": cur_top["logo"], "when": str(date.today().year), "current": True})
+    prev_rec = prev.get("ELO_RECORD") or {}
+    if prev_rec.get("elo"):
+        candidates.append({k: prev_rec.get(k) for k in ("elo", "name", "teamCode", "logo", "when", "current")})
+    record = dict(max(candidates, key=lambda c: c["elo"]))
+    if hist and record["elo"] > hist["peakElo"]:
+        record["prevRecord"] = {"elo": hist["peakElo"], "name": hist["name"], "when": hist["era"]}
+    record["heldByCurrentNo1"] = bool(cur_top and cur_top["elo"] >= record["elo"])
+    return record
+
+
+def build_dynasty_chase(teams: list[dict], dynasties: list[dict], max_raw: float,
+                        threshold: float, prev: dict) -> dict | None:
+    """La selección nº1 actual medida en la MISMA escala que las dinastías
+    históricas, para ver cuánto le falta para entrar en el top 10 (o si ya entra).
+    Reemplaza a la antigua tabla de 'potencial dinástico'."""
+    if not teams:
+        return None
+    leader = teams[0]
+    seed = CURRENT_DYNASTY_SEEDS.get(leader["name"], {})
+    cycle_years = float(seed.get("cycleYears", 1.0))
+    cur_wc = int(seed.get("currentWorldCups", 0))
+    cur_cont = int(seed.get("currentContinental", 0))
+    # Racha como nº1: se conserva mientras no cambie el líder; si cambia, reinicia.
+    today = date.today()
+    prev_chase = (prev.get("ROAD_TO_GLORY") or {}).get("dynastyChase") or {}
+    no1_since = prev_chase.get("no1Since")
+    if prev_chase.get("teamCode") != leader["teamCode"] or not no1_since:
+        no1_since = today.isoformat()
+    try:
+        streak_years = round((today - date.fromisoformat(no1_since)).days / 365.25, 1)
+    except ValueError:
+        streak_years = 0.0
+    # yearsNo1 del ciclo vivo: el mayor entre la estimación curada y la racha real.
+    years_no1 = max(cycle_years, streak_years)
+    peak_elo = leader["elo"]                      # pico del ciclo actual = Elo vivo
+    raw = dynasty_raw({"yearsNo1": years_no1, "worldCups": cur_wc,
+                       "continentalTitles": cur_cont, "peakElo": peak_elo})
+    score = round(raw / max(max_raw, 1.0) * 100.0, 1)
+    gap = round(max(0.0, threshold - score), 1)
+    row = team_meta(leader["name"])
+    row.update({
+        "rank": leader.get("rank", 1),
+        "elo": leader["elo"],
+        "no1Since": no1_since,
+        "streakYears": streak_years,
+        "cycleYears": cycle_years,
+        "yearsNo1": years_no1,
+        "currentWorldCups": cur_wc,
+        "currentContinentalTitles": cur_cont,
+        "peakElo": peak_elo,
+        "dynastyScore": score,
+        "gapToTop10": gap,
+        "qualifies": gap <= 0,
+    })
+    return row
 
 
 def build_world_cup(teams: list[dict]) -> dict:
@@ -724,6 +768,7 @@ def apply_recent_results(teams: list[dict]) -> list[dict]:
 
 
 def write_data() -> None:
+    prev = _load_prev()
     teams = build_teams()
     recent_matches = apply_recent_results(teams)
     world_cup = build_world_cup(teams)
@@ -731,7 +776,9 @@ def write_data() -> None:
     dynasties = build_dynasties()
     threshold = dynasties[9]["dynastyScore"] if len(dynasties) >= 10 else 70.0
     raw_threshold = min(dynasty_raw(row) for row in DYNASTIES_RAW)
-    contenders = build_contenders(teams, raw_threshold)
+    max_raw = max(dynasty_raw(row) for row in dynasties)
+    elo_record = build_elo_record(teams, dynasties, prev)
+    dynasty_chase = build_dynasty_chase(teams, dynasties, max_raw, threshold, prev)
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     payload = {
         "UPDATED": updated,
@@ -743,13 +790,14 @@ def write_data() -> None:
         },
         "IMPORTANCE": importance(),
         "TEAMS": teams,
+        "ELO_RECORD": elo_record,
         "RECENT_MATCHES": recent_matches,
         "WORLD_CUP_2026": world_cup,
         "ROAD_TO_GLORY": {
             "dynastyThreshold": threshold,
             "rawDynastyThreshold": round(raw_threshold, 1),
             "dynasties": dynasties,
-            "currentContenders": contenders,
+            "dynastyChase": dynasty_chase,
         },
     }
     OUT.write_text(

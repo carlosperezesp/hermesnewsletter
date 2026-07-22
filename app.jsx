@@ -4473,10 +4473,10 @@ function NewsletterApp() {
         {window.FOOTBALL_DATA && (() => {
           const FTB = window.FOOTBALL_DATA;
           const teams = [...(FTB.TEAMS || [])].sort((a, b) => b.elo - a.elo).slice(0, 10);
-          const contenders = (FTB.ROAD_TO_GLORY?.currentContenders || []).slice(0, 10);
           const dynasties = (FTB.ROAD_TO_GLORY?.dynasties || []).slice(0, 10);
           const dynastyThreshold = FTB.ROAD_TO_GLORY?.dynastyThreshold || dynasties[9]?.dynastyScore || 70;
-          const rawDynastyThreshold = FTB.ROAD_TO_GLORY?.rawDynastyThreshold || 0;
+          const eloRecord = FTB.ELO_RECORD || null;
+          const chase = FTB.ROAD_TO_GLORY?.dynastyChase || null;
           const wc = FTB.WORLD_CUP_2026;
           const wcGroupByCode = {};
           if (wc?.groups) Object.entries(wc.groups).forEach(([code, info]) => { wcGroupByCode[code] = info; });
@@ -4649,10 +4649,42 @@ function NewsletterApp() {
               )}
 
               <NewsletterSection
+                anchor="football-ranking-elo"
                 kicker="Football Elo"
                 title="Top 10 selecciones — Ranking Elo"
-                sub={`Snapshot Hermes basado en ratings tipo World Football Elo / MoreElo. Fuente: ${FTB.SOURCE?.name || "Elo snapshot"}.`}
+                sub={`Se recalcula solo: tras cada partido de selecciones (fuente ESPN) se aplica la fórmula World Football Elo sobre el resultado real. Actualizado ${FTB.SOURCE?.through || FTB.UPDATED}.`}
               >
+                {eloRecord && (() => {
+                  const no1 = teams[0];
+                  const gapToRecord = no1 ? eloRecord.elo - no1.elo : null;
+                  let context;
+                  if (eloRecord.heldByCurrentNo1) {
+                    context = eloRecord.prevRecord
+                      ? <>Nuevo máximo histórico — supera el récord anterior de <strong>{eloRecord.prevRecord.elo}</strong> ({eloRecord.prevRecord.name}, {eloRecord.prevRecord.when}).</>
+                      : <>El nº1 actual ostenta el récord histórico.</>;
+                  } else if (gapToRecord > 0) {
+                    context = <>El nº1 actual, <strong>{no1.name}</strong> ({no1.elo}), está a <strong>{gapToRecord}</strong> Elo de igualar el máximo histórico.</>;
+                  } else {
+                    context = <>El nº1 actual iguala el máximo histórico.</>;
+                  }
+                  return (
+                    <div style={{ display: "flex", alignItems: "center", gap: 14, flexWrap: "wrap",
+                      border: "1px solid var(--border,#e0dcd5)", borderLeft: "4px solid var(--ink,#1a1714)",
+                      padding: "12px 16px", marginBottom: 14, background: "var(--paper-2,#f7f5f1)" }}>
+                      <div style={{ display: "flex", flexDirection: "column", lineHeight: 1 }}>
+                        <span style={{ fontSize: 9, letterSpacing: "0.16em", textTransform: "uppercase",
+                          fontFamily: "monospace", color: "var(--muted,#888)" }}>Máximo Elo jamás alcanzado</span>
+                        <span style={{ fontSize: 30, fontFamily: "Newsreader, serif", fontWeight: 700, color: "var(--ink,#1a1714)", marginTop: 3 }}>{eloRecord.elo}</span>
+                      </div>
+                      <div style={{ display: "flex", alignItems: "center", gap: 7, paddingLeft: 4, borderLeft: "1px solid var(--border,#e0dcd5)" }}>
+                        {eloRecord.logo && <img src={eloRecord.logo} alt="" width={22} height={16} style={{ borderRadius: 1, objectFit: "cover" }} />}
+                        <span style={{ fontWeight: 700, fontSize: 15 }}>{eloRecord.name}</span>
+                        <span style={{ fontFamily: "monospace", fontSize: 11, color: "var(--muted,#888)" }}>{eloRecord.when}</span>
+                      </div>
+                      <span style={{ flex: 1, minWidth: 220, fontSize: 12.5, lineHeight: 1.4, color: "var(--ink-2,#555)" }}>{context}</span>
+                    </div>
+                  );
+                })()}
                 <div className="newsletter-list">
                   {teams.map((team, i) => (
                     <NewsletterRankRow
@@ -4671,33 +4703,6 @@ function NewsletterApp() {
                         ? `Grupo ${wcGroupByCode[team.teamCode].group} · ${wcGroupByCode[team.teamCode].groupTeams.join(", ")}`
                         : `Selecciones · ${team.country}`}
                       note={[nextMatchNote(team), trophyLabel(team.worldCups, team.continentalTitles)].filter(Boolean).join(" · ")}
-                      logo={team.logo}
-                    />
-                  ))}
-                </div>
-              </NewsletterSection>
-
-              <NewsletterSection
-                anchor="football-aspirantes"
-                kicker="Road to Glory · Actual"
-                title="Top 10 selecciones con potencial dinástico"
-                sub={`Quién puede meterse en el top 10 de dinastías. Umbral bruto estimado: ${rawDynastyThreshold.toFixed(1)}; score combina Elo actual, años de ciclo, títulos recientes, finales y curva generacional.`}
-              >
-                <div className="newsletter-list">
-                  {contenders.map((team, i) => (
-                    <NewsletterRankRow
-                      key={team.id}
-                      rank={i + 1}
-                      item={team}
-                      alive={new Set()}
-                      score={team.dynastyPotential}
-                      scoreLabel="Potencial"
-                      threshold={100}
-                      scoreB={team.eloScore}
-                      scoreBDisplay={team.elo}
-                      scoreBLabel="Elo"
-                      meta={`Ciclo ${team.cycleYears} años · ${team.country}`}
-                      note={`${trophyLabel(team.currentWorldCups, team.currentContinentalTitles)} · ${team.recentFinals} finales recientes. ${team.note}`}
                       logo={team.logo}
                     />
                   ))}
@@ -4726,6 +4731,29 @@ function NewsletterApp() {
                     />
                   ))}
                 </div>
+                {chase && (
+                  <div style={{ marginTop: 6, borderTop: "2px dashed var(--border,#d8d3ca)", paddingTop: 12 }}>
+                    <div style={{ fontSize: 9, letterSpacing: "0.16em", textTransform: "uppercase",
+                      fontFamily: "monospace", color: "var(--muted,#888)", marginBottom: 8 }}>
+                      El nº1 actual · dinastía en construcción
+                    </div>
+                    <div style={{ display: "flex", alignItems: "center", gap: 12, flexWrap: "wrap", padding: "4px 0" }}>
+                      <span style={{ width: 22, textAlign: "center", fontFamily: "monospace", color: "var(--muted,#bbb)", fontSize: 16, flexShrink: 0 }}>▸</span>
+                      {chase.logo && <img src={chase.logo} alt="" width={24} height={18} style={{ borderRadius: 1, objectFit: "cover", flexShrink: 0 }} />}
+                      <span style={{ fontWeight: 700, fontSize: 16 }}>{chase.name}</span>
+                      <span style={{ flex: 1, minWidth: 200, fontSize: 12.5, color: "var(--ink-2,#555)", lineHeight: 1.45 }}>
+                        {chase.qualifies
+                          ? <>Ya entraría en el top 10 de dinastías si consolida el ciclo.</>
+                          : <>A <strong>{chase.gapToTop10}</strong> puntos de entrar en el top 10 (umbral {dynastyThreshold.toFixed(1)}).</>}
+                        {" "}Elo {chase.elo} · racha ~{chase.yearsNo1} años como fuerza dominante.
+                      </span>
+                      <span style={{ display: "flex", flexDirection: "column", alignItems: "flex-end", minWidth: 58, flexShrink: 0 }}>
+                        <span style={{ fontFamily: "monospace", fontWeight: 700, fontSize: 18, color: "var(--ink,#1a1714)" }}>{chase.dynastyScore}</span>
+                        <span style={{ fontFamily: "monospace", fontSize: 9, letterSpacing: "0.1em", textTransform: "uppercase", color: "var(--muted,#999)" }}>Dynasty</span>
+                      </span>
+                    </div>
+                  </div>
+                )}
               </NewsletterSection>
             </>
           );

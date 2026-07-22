@@ -72,7 +72,7 @@ RANK_TABLES = {
     # lleva la era (5º campo) para no fundir filas distintas al comparar.
     "rugby": [("ROAD_TO_GLORY.dynasties", "dinastías", "name", "full", "era")],
     "football": [("ROAD_TO_GLORY.dynasties", "dinastías", "name", "full", "era"),
-                 ("ROAD_TO_GLORY.currentContenders", "aspirantes", "name", "full")],
+                 ("TEAMS", "Ranking Elo", "name", "full")],
     "tennis": [("ATP", "ATP", "name", "leader"),
                ("WTA", "WTA", "name", "leader"),
                ("ATP_LEGENDS", "leyendas ATP", "name", "full"),

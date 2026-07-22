@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-21 22:16 UTC",
+  "UPDATED": "2026-07-22 07:27 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Nashville:Álex Palou",
@@ -43,11 +43,11 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-10"
     },
     {
-      "id": "rank:football:ROAD_TO_GLORY.currentContenders:new1:Spain",
+      "id": "rank:football:TEAMS:new1:Spain",
       "sport": "football",
       "detail": "Fútbol",
-      "anchor": "football-aspirantes",
-      "text": "Spain es nuevo nº1 · aspirantes",
+      "anchor": "football-ranking-elo",
+      "text": "Spain es nuevo nº1 · Ranking Elo",
       "weight": 92,
       "firstSeen": "2026-07-19"
     },
@@ -165,15 +165,6 @@ window.GLORY_DATA = {
       "text": "St Kilda entra en el top-10 · clasificación",
       "weight": 84,
       "firstSeen": "2026-07-11"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Cam Schlittler",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-jovenes-promesas",
-      "text": "Cam Schlittler entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-07-07"
     },
     {
       "id": "tennis:out:WTA:Victoria Mboko:20260709",
@@ -562,18 +553,6 @@ window.GLORY_DATA = {
       "Collingwood",
       "Geelong",
       "St Kilda"
-    ],
-    "football:ROAD_TO_GLORY.currentContenders": [
-      "Spain",
-      "Argentina",
-      "England",
-      "France",
-      "Portugal",
-      "Brazil",
-      "Netherlands",
-      "Uruguay",
-      "Germany",
-      "Italy"
     ],
     "cricket:ROAD_TO_GLORY.players": [
       "JJ Bumrah",
@@ -994,6 +973,18 @@ window.GLORY_DATA = {
       "Germany (1980-1990)",
       "Germany (1972-1976)",
       "France (1998-2001)"
+    ],
+    "football:TEAMS": [
+      "Spain",
+      "Argentina",
+      "England",
+      "France",
+      "Netherlands",
+      "Portugal",
+      "Brazil",
+      "Italy",
+      "Germany",
+      "Uruguay"
     ]
   }
 };
