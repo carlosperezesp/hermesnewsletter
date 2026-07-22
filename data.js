@@ -1177,7 +1177,7 @@ window.NHL_DATA = {
       "name": "Jason Robertson",
       "pos": "LW",
       "teamCode": "DAL",
-      "age": 26,
+      "age": 27,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -5988,7 +5988,7 @@ window.NHL_DATA = {
       "name": "Kevin Fiala",
       "pos": "LW",
       "teamCode": "LAK",
-      "age": 29,
+      "age": 30,
       "country": "Switzerland",
       "birthCountry": "CHE",
       "colors": {
@@ -47977,10 +47977,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-21 22:14 UTC",
+  "LAST_UPDATE": "2026-07-22 07:42 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-21T22:14:33Z"
+    "standingsDateTimeUtc": "2026-07-22T07:42:15Z"
   }
 };

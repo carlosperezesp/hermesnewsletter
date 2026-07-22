@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-22 07:27 UTC",
+  "UPDATED": "2026-07-22 07:45 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Nashville:Álex Palou",
@@ -298,8 +298,8 @@ window.GLORY_DATA = {
       "New York Yankees",
       "Philadelphia Phillies",
       "Seattle Mariners",
-      "Baltimore Orioles",
       "San Diego Padres",
+      "Baltimore Orioles",
       "New York Mets"
     ],
     "mlb:ROAD_TO_GLORY.youngProspects": [
@@ -307,12 +307,12 @@ window.GLORY_DATA = {
       "James Wood",
       "Jordan Walker",
       "Sal Stewart",
-      "Junior Caminero",
       "Pete Crow-Armstrong",
       "CJ Abrams",
+      "Junior Caminero",
+      "Chase Burns",
       "Nick Kurtz",
-      "Cam Schlittler",
-      "Chase Burns"
+      "Cam Schlittler"
     ],
     "nfl:ROAD_TO_GLORY.players": [
       "Matthew Stafford",
@@ -558,13 +558,13 @@ window.GLORY_DATA = {
       "JJ Bumrah",
       "MA Starc",
       "MJ Henry",
-      "JNT Seales",
       "KA Maharaj",
       "RA Jadeja",
       "Taijul Islam",
+      "JNT Seales",
       "Mehedi Hasan Miraz",
-      "AAP Atkinson",
-      "Nauman Ali"
+      "Nauman Ali",
+      "AAP Atkinson"
     ],
     "athletics:allTime:100m_m": [
       "Usain Bolt",
