@@ -3888,6 +3888,10 @@ function NewsletterApp() {
         {window.GOLF_DATA && (() => {
           const GOLF = window.GOLF_DATA;
           const major = GOLF.CURRENT_MAJOR || {};
+          // Major recién terminado: el "actual" y el "último" son el mismo evento y ya hay
+          // campeón. En ese caso mostramos el ganador/podio, no los favoritos pre-torneo.
+          const majorDone = major.state === "completed" && GOLF.LAST_MAJOR
+            && GOLF.LAST_MAJOR.champion && GOLF.LAST_MAJOR.name === major.name;
           const current = (GOLF.CURRENT || []).slice(0, 10);
           const golfProspects = (GOLF.PROSPECTS || []).map(p => ({ ...p, colors: p.colors || { primary: p.primary, secondary: p.secondary } }));
           const road = (GOLF.ROAD_TO_GLORY || []).slice(0, 10);
@@ -3926,6 +3930,7 @@ function NewsletterApp() {
                 </div>
               </header>
 
+              {!majorDone && (
               <NewsletterSection
                 kicker={`${majorTour} · ${major.state || "major"}`}
                 title={major.name || "Major Championship"}
@@ -3967,8 +3972,9 @@ function NewsletterApp() {
                   </div>
                 )}
               </NewsletterSection>
+              )}
 
-              {GOLF.LAST_MAJOR && GOLF.LAST_MAJOR.champion && GOLF.LAST_MAJOR.name !== major.name && (
+              {GOLF.LAST_MAJOR && GOLF.LAST_MAJOR.champion && (GOLF.LAST_MAJOR.name !== major.name || majorDone) && (
                 <NewsletterSection
                   kicker={`${majorTour} · Ganador`}
                   title={`${GOLF.LAST_MAJOR.name} — ${GOLF.LAST_MAJOR.champion.name}`}
