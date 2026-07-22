@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-22 09:05 UTC",
+  "UPDATED": "2026-07-22 14:39 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Nashville:Álex Palou",
@@ -41,6 +41,15 @@ window.GLORY_DATA = {
       "text": "Ai Ogura ganó el Czech Republic motorcycle Grand Prix",
       "weight": 100,
       "firstSeen": "2026-07-10"
+    },
+    {
+      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:new1:Brazil (1994-2002)",
+      "sport": "football",
+      "detail": "Fútbol",
+      "anchor": "football-dinastias",
+      "text": "Brazil (1994-2002) es nuevo nº1 · dinastías",
+      "weight": 92,
+      "firstSeen": "2026-07-22"
     },
     {
       "id": "rank:football:TEAMS:new1:Spain",
@@ -102,6 +111,42 @@ window.GLORY_DATA = {
       "text": "Remco Evenepoel ganó la última etapa del Tour de France",
       "weight": 88,
       "firstSeen": "2026-07-20"
+    },
+    {
+      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:in:Uruguay (1924-1930)",
+      "sport": "football",
+      "detail": "Fútbol",
+      "anchor": "football-dinastias",
+      "text": "Uruguay (1924-1930) entra en el top-10 · dinastías",
+      "weight": 84,
+      "firstSeen": "2026-07-22"
+    },
+    {
+      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:in:Brazil (1958-1962)",
+      "sport": "football",
+      "detail": "Fútbol",
+      "anchor": "football-dinastias",
+      "text": "Brazil (1958-1962) entra en el top-10 · dinastías",
+      "weight": 84,
+      "firstSeen": "2026-07-22"
+    },
+    {
+      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:in:Spain (2023-present)",
+      "sport": "football",
+      "detail": "Fútbol",
+      "anchor": "football-dinastias",
+      "text": "Spain (2023-present) entra en el top-10 · dinastías",
+      "weight": 84,
+      "firstSeen": "2026-07-22"
+    },
+    {
+      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:in:Germany (2014-2017)",
+      "sport": "football",
+      "detail": "Fútbol",
+      "anchor": "football-dinastias",
+      "text": "Germany (2014-2017) entra en el top-10 · dinastías",
+      "weight": 84,
+      "firstSeen": "2026-07-22"
     },
     {
       "id": "rank:indycar:DRIVERS:in:Rinus VeeKay",
@@ -174,6 +219,42 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-wta",
       "firstSeen": "2026-07-13"
+    },
+    {
+      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:out:Brazil (1958-1970)",
+      "sport": "football",
+      "detail": "Fútbol",
+      "anchor": "football-dinastias",
+      "text": "Brazil (1958-1970) cae del top-10 · dinastías",
+      "weight": 74,
+      "firstSeen": "2026-07-22"
+    },
+    {
+      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:out:Uruguay (1928-1950)",
+      "sport": "football",
+      "detail": "Fútbol",
+      "anchor": "football-dinastias",
+      "text": "Uruguay (1928-1950) cae del top-10 · dinastías",
+      "weight": 74,
+      "firstSeen": "2026-07-22"
+    },
+    {
+      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:out:Argentina (1978-1986)",
+      "sport": "football",
+      "detail": "Fútbol",
+      "anchor": "football-dinastias",
+      "text": "Argentina (1978-1986) cae del top-10 · dinastías",
+      "weight": 74,
+      "firstSeen": "2026-07-22"
+    },
+    {
+      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:out:Germany (1980-1990)",
+      "sport": "football",
+      "detail": "Fútbol",
+      "anchor": "football-dinastias",
+      "text": "Germany (1980-1990) cae del top-10 · dinastías",
+      "weight": 74,
+      "firstSeen": "2026-07-22"
     },
     {
       "id": "rank:indycar:DRIVERS:out:Scott Dixon",
@@ -963,16 +1044,16 @@ window.GLORY_DATA = {
       "Scotland (1896-1900)"
     ],
     "football:ROAD_TO_GLORY.dynasties:era": [
-      "Brazil (1958-1970)",
       "Brazil (1994-2002)",
-      "Uruguay (1928-1950)",
-      "Argentina (2021-present)",
-      "Argentina (1978-1986)",
-      "Spain (2008-2012)",
+      "Uruguay (1924-1930)",
+      "Brazil (1958-1962)",
       "Italy (1934-1938)",
-      "Germany (1980-1990)",
+      "Spain (2008-2012)",
+      "Argentina (2021-present)",
       "Germany (1972-1976)",
-      "France (1998-2001)"
+      "Spain (2023-present)",
+      "France (1998-2001)",
+      "Germany (2014-2017)"
     ],
     "football:TEAMS": [
       "Spain",
