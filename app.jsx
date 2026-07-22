@@ -4544,7 +4544,9 @@ function NewsletterApp() {
                   <h1>Fútbol de Selecciones</h1>
                   <p>
                     Top 10 masculino por rating Elo y dinastías históricas.
-                    {wc && <> <strong>Mundial 2026</strong> — {wc.hosts} · del {wc.startDate} al {wc.finalDate}.</>}
+                    {wc && (wc.phase === "finished" && wc.champion
+                      ? <> <strong>Mundial 2026</strong> — Campeón: {wc.champion.name}.</>
+                      : <> <strong>Mundial 2026</strong> — {wc.hosts} · del {wc.startDate} al {wc.finalDate}.</>)}
                   </p>
                 </div>
               </header>

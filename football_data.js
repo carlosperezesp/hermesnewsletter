@@ -1,11 +1,11 @@
-// Auto-generated 2026-07-22 07:44 UTC
+// Auto-generated 2026-07-22 08:17 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-07-22 07:44 UTC",
+  "UPDATED": "2026-07-22 08:17 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-07-22 07:44 UTC"
+    "through": "2026-07-22 08:17 UTC"
   },
   "IMPORTANCE": 9.0,
   "TEAMS": [
@@ -23,7 +23,7 @@ window.FOOTBALL_DATA = {
       "elo": 2232,
       "eloScore": 100.0,
       "sourceRank": 2,
-      "worldCups": 1,
+      "worldCups": 2,
       "continentalTitles": 4,
       "note": "Euro vigente y bloque joven de altísimo rendimiento.",
       "eloPrev": 2109,
@@ -1694,7 +1694,12 @@ window.FOOTBALL_DATA = {
         ]
       }
     },
-    "upcomingMatches": []
+    "upcomingMatches": [],
+    "champion": {
+      "code": "ESP",
+      "name": "Spain",
+      "logo": "https://flagcdn.com/24x18/es.png"
+    }
   },
   "ROAD_TO_GLORY": {
     "dynastyThreshold": 42.1,
@@ -1927,11 +1932,11 @@ window.FOOTBALL_DATA = {
       "streakYears": 0.0,
       "cycleYears": 1.6,
       "yearsNo1": 1.6,
-      "currentWorldCups": 0,
+      "currentWorldCups": 1,
       "currentContinentalTitles": 1,
       "peakElo": 2232,
-      "dynastyScore": 23.3,
-      "gapToTop10": 18.8,
+      "dynastyScore": 38.0,
+      "gapToTop10": 4.1,
       "qualifies": false
     }
   }

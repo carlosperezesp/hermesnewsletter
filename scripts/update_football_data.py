@@ -631,7 +631,7 @@ def build_elo_record(teams: list[dict], dynasties: list[dict], prev: dict) -> di
 
 
 def build_dynasty_chase(teams: list[dict], dynasties: list[dict], max_raw: float,
-                        threshold: float, prev: dict) -> dict | None:
+                        threshold: float, prev: dict, champ_code: str | None = None) -> dict | None:
     """La selección nº1 actual medida en la MISMA escala que las dinastías
     históricas, para ver cuánto le falta para entrar en el top 10 (o si ya entra).
     Reemplaza a la antigua tabla de 'potencial dinástico'."""
@@ -641,6 +641,8 @@ def build_dynasty_chase(teams: list[dict], dynasties: list[dict], max_raw: float
     seed = CURRENT_DYNASTY_SEEDS.get(leader["name"], {})
     cycle_years = float(seed.get("cycleYears", 1.0))
     cur_wc = int(seed.get("currentWorldCups", 0))
+    if champ_code and leader["teamCode"] == champ_code:
+        cur_wc += 1  # el Mundial recién ganado cuenta para el ciclo actual del líder
     cur_cont = int(seed.get("currentContinental", 0))
     # Racha como nº1: se conserva mientras no cambie el líder; si cambia, reinicia.
     today = date.today()
@@ -703,6 +705,38 @@ def build_world_cup(teams: list[dict]) -> dict:
         "groups": WC2026_GROUPS,
         "upcomingMatches": upcoming,
     }
+
+
+def detect_wc_champion(recent_matches: list[dict], world_cup: dict) -> str | None:
+    """Campeón del Mundial 2026 leído del resultado real: el ganador del partido
+    de la fecha de la final. Devuelve el teamCode o None si aún no ha terminado."""
+    if world_cup.get("phase") != "finished":
+        return None
+    final_date = world_cup.get("finalDate")
+    finals = [m for m in recent_matches
+              if m.get("date") == final_date
+              and (m.get("slug") == "fifa.world" or "undial" in m.get("league", ""))]
+    if not finals:
+        return None
+    m = finals[0]
+    h, a = m["home"], m["away"]
+    if h["score"] != a["score"]:
+        winner = h if h["score"] > a["score"] else a
+    else:  # empate resuelto en penaltis: ESPN marca el ganador en result W/L
+        winner = h if h.get("result") == "W" else (a if a.get("result") == "W" else None)
+    return winner["code"] if winner else None
+
+
+def apply_wc_champion(teams: list[dict], world_cup: dict, champ_code: str | None) -> None:
+    """Suma el Mundial recién ganado al palmarés histórico del campeón (el baseline
+    curado va hasta antes del Mundial 2026) y lo anota en WORLD_CUP_2026."""
+    if not champ_code:
+        return
+    for t in teams:
+        if t["teamCode"] == champ_code:
+            t["worldCups"] += 1
+            world_cup["champion"] = {"code": champ_code, "name": t["name"], "logo": t["logo"]}
+            return
 
 
 def attach_next_matches(teams: list[dict], world_cup: dict) -> None:
@@ -773,12 +807,14 @@ def write_data() -> None:
     recent_matches = apply_recent_results(teams)
     world_cup = build_world_cup(teams)
     attach_next_matches(teams, world_cup)
+    champ_code = detect_wc_champion(recent_matches, world_cup)
+    apply_wc_champion(teams, world_cup, champ_code)  # suma el Mundial 2026 al campeón
     dynasties = build_dynasties()
     threshold = dynasties[9]["dynastyScore"] if len(dynasties) >= 10 else 70.0
     raw_threshold = min(dynasty_raw(row) for row in DYNASTIES_RAW)
     max_raw = max(dynasty_raw(row) for row in dynasties)
     elo_record = build_elo_record(teams, dynasties, prev)
-    dynasty_chase = build_dynasty_chase(teams, dynasties, max_raw, threshold, prev)
+    dynasty_chase = build_dynasty_chase(teams, dynasties, max_raw, threshold, prev, champ_code)
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     payload = {
         "UPDATED": updated,
