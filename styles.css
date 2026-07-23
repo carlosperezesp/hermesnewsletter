@@ -1064,6 +1064,7 @@
       margin: 0 auto;
       padding: 28px 0 64px;
     }
+    [data-section] { scroll-margin-top: 150px; }
     .section-nav {
       position: sticky;
       top: 0;
@@ -1856,7 +1857,9 @@
     @media (max-width: 560px) {
       .section-nav {
         grid-template-columns: repeat(4, minmax(0, 1fr));
+        position: static;
       }
+      [data-section] { scroll-margin-top: 12px; }
       .section-nav__button span {
         font-size: 8.5px;
       }

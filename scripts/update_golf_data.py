@@ -81,6 +81,17 @@ def _prev_rank_map(filepath: Path, js_var: str, key: str) -> dict[str, int]:
         return {}
 
 
+def _prev_field(filepath: Path, key: str, default):
+    """Lee un campo arbitrario del golf_data.js previo (para estado persistido)."""
+    try:
+        text = filepath.read_text(encoding="utf-8")
+        text = re.sub(r"^window\.GOLF_DATA\s*=\s*", "", text, flags=re.MULTILINE).rstrip().rstrip(";")
+        obj = json.loads(text[text.find("{"):text.rfind("}") + 1])
+        return obj.get(key, default)
+    except Exception:
+        return default
+
+
 MAJORS = [
     {"name": "The Masters", "tour": "Men", "start": "2026-04-09", "end": "2026-04-12", "venue": "Augusta National Golf Club", "location": "Augusta, Georgia", "surface": "Augusta", "defending": "Rory McIlroy"},
     {"name": "PGA Championship", "tour": "Men", "start": "2026-05-14", "end": "2026-05-17", "venue": "Aronimink Golf Club", "location": "Newtown Square, Pennsylvania", "surface": "Parkland", "defending": "Scottie Scheffler"},
@@ -164,11 +175,15 @@ CAREER_MAJORS = {
 _RAW_MAJORS = {r[0]: r[4] for r in CURRENT_RAW}          # name -> career majors
 _RAW_MAJORS.update({r[0]: r[3] for r in LEGENDS_RAW})
 
+# Majors ganados en vivo (persistidos entre ejecuciones): name -> nº. Se suman al
+# palmarés curado para que el campeón de un major refleje su título aunque no
+# figure en las listas de arriba. Lo rellena write_data() desde el fichero previo.
+_MAJORS_WON: dict[str, int] = {}
+
 
 def _career_majors(name: str) -> int:
-    if name in _RAW_MAJORS:
-        return _RAW_MAJORS[name]
-    return CAREER_MAJORS.get(name, 0)
+    base = _RAW_MAJORS[name] if name in _RAW_MAJORS else CAREER_MAJORS.get(name, 0)
+    return base + _MAJORS_WON.get(name, 0)
 
 
 def _leyenda(majors: int) -> float:
@@ -525,16 +540,71 @@ def select_signature(calendar: list[dict], today: date) -> dict:
     return sorted(completed, key=lambda e: e["end"])[-1] if completed else {}
 
 
+# Grandes torneos más allá de los Signature: playoffs de la FedEx Cup y copas.
+BIG_EVENT_KEYS = SIGNATURE_KEYS + (
+    "fedex st. jude", "bmw championship", "tour championship",
+    "presidents cup", "ryder cup",
+)
+
+
+def _is_big(name: str) -> bool:
+    n = name.lower()
+    return any(k in n for k in BIG_EVENT_KEYS)
+
+
+def _big_tier(name: str) -> str:
+    n = name.lower()
+    if _is_signature(name):
+        return "Signature"
+    if "cup" in n:
+        return "Copa"
+    return "Playoff FedEx"
+
+
+def select_next_big(calendar: list[dict], today: date) -> dict:
+    """El próximo gran torneo por venir: major, Signature, playoff FedEx o copa,
+    el que empiece antes. Nunca uno ya terminado."""
+    pool = []
+    for m in MAJORS:
+        if _major_state(m, today) == "upcoming":
+            pool.append({**m, "tier": "Major"})
+    for e in calendar:
+        if _is_big(e["name"]) and e["start"] > today.isoformat():
+            pool.append({**e, "tier": _big_tier(e["name"])})
+    return sorted(pool, key=lambda e: e["start"])[0] if pool else {}
+
+
+def next_big_payload(today: date, calendar: list[dict], current: list[dict]) -> dict:
+    e = select_next_big(calendar, today)
+    if not e:
+        return {}
+    start = date.fromisoformat(e["start"]); end = date.fromisoformat(e["end"])
+    return {
+        "name": _clean_event_name(e["name"]),
+        "tier": e.get("tier", "Evento"),
+        "venue": e.get("venue"), "location": e.get("location"),
+        "start": e["start"], "end": e["end"],
+        "startLabel": start.strftime("%d %b"), "endLabel": end.strftime("%d %b"),
+        "daysToStart": max(0, (start - today).days),
+        "defending": e.get("defending"),
+        "favorites": [p["name"] for p in current if p["teamCode"] == "PGA"][:5],
+    }
+
+
 def _event_payload(event: dict, today: date, current: list[dict],
                    current_event: dict, tier: str) -> dict:
     start = date.fromisoformat(event["start"])
     end = date.fromisoformat(event["end"])
     live = event.get("state") == "live"
-    leaderboard = (
-        current_event.get("leaderboard", [])
-        if live and current_event and _same_event(event["name"], current_event.get("name", ""))
-        else []
-    )
+    leaderboard = []
+    if live and current_event and _same_event(event["name"], current_event.get("name", "")):
+        leaderboard = current_event.get("leaderboard", [])
+    elif event.get("state") == "completed":
+        # Evento ya terminado: traer su leaderboard final (como en el major) para
+        # mostrar al ganador en vez de los favoritos pre-torneo.
+        cur = _scoreboard_current(_fetch_scoreboard_window(event["start"], event["end"]))
+        if cur.get("state") == "post" and _same_event(event["name"], cur.get("name", "")):
+            leaderboard = cur.get("leaderboard", [])
     favorites = [p["name"] for p in current if p["teamCode"] == "PGA"][:5]
     return {
         **event,
@@ -598,11 +668,11 @@ def signature_payload(today: date, calendar: list[dict], current: list[dict],
     return _event_payload(sig, today, current, current_event, "Signature Event") if sig else {}
 
 
-def _importance(major: dict, signature: dict) -> float:
-    if major.get("state") == "live" or signature.get("state") == "live":
+def _importance(major: dict, next_big: dict) -> float:
+    if major.get("state") == "live":
         return 10.0
     soon = (major.get("state") == "upcoming" and major.get("daysToStart", 99) <= 7) or \
-           (signature.get("state") == "upcoming" and signature.get("daysToStart", 99) <= 7)
+           (next_big.get("daysToStart", 99) <= 7)
     if soon:
         return 8.5
     if major.get("state") == "completed":
@@ -612,19 +682,35 @@ def _importance(major: dict, signature: dict) -> float:
 
 def write_data() -> None:
     out_path = ROOT / "golf_data.js"
+    today = date.today()
+    scoreboard = _fetch_pga_scoreboard()
+    current_event = _scoreboard_current(scoreboard)
+    calendar = _calendar_events(scoreboard)
+
+    # Majors ganados en vivo: cuenta persistente y deduplicada por major. Debe
+    # actualizarse ANTES de construir el resto, porque el legend score sale de ahí.
+    global _MAJORS_WON
+    _MAJORS_WON = dict(_prev_field(out_path, "MAJORS_WON", {}))
+    counted = list(_prev_field(out_path, "COUNTED_MAJORS", []))
+    last_major = last_major_payload(today, current_event)
+    if last_major and last_major.get("champion"):
+        key = f"{last_major['name']} {last_major['end'][:4]}"
+        if key not in counted:
+            champ = last_major["champion"]["name"]
+            _MAJORS_WON[champ] = _MAJORS_WON.get(champ, 0) + 1
+            counted.append(key)
+        # el podio se construyó con la cuenta antigua: recalcular su legend
+        for row in last_major.get("podium", []):
+            row["legend"] = _leyenda(_career_majors(row["name"]))
+
     prev_current = _prev_rank_map(out_path, "GOLF_DATA", "CURRENT")
     prev_legends = _prev_rank_map(out_path, "GOLF_DATA", "LEGENDS")
     prev_road = _prev_rank_map(out_path, "GOLF_DATA", "ROAD_TO_GLORY")
     legends = build_legends(prev_legends)
     current = build_current(prev_current)
     road = build_road_to_glory(prev_road, current, legends)
-    today = date.today()
-    scoreboard = _fetch_pga_scoreboard()
-    current_event = _scoreboard_current(scoreboard)
-    calendar = _calendar_events(scoreboard)
     major = major_payload(today, current, current_event)
-    last_major = last_major_payload(today, current_event)
-    signature = signature_payload(today, calendar, current, current_event)
+    next_big = next_big_payload(today, calendar, current)
     legend_threshold = sorted((p["legendScore"] for p in legends), reverse=True)[9]
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     payload = {
@@ -632,13 +718,15 @@ def write_data() -> None:
         "SEASON": CURRENT_YEAR,
         "CURRENT_MAJOR": major,
         "LAST_MAJOR": last_major,
-        "CURRENT_SIGNATURE": signature,
+        "NEXT_BIG": next_big,
         "CURRENT": current,
         "PROSPECTS": build_golf_prospects(),
         "LEGENDS": legends,
         "ROAD_TO_GLORY": road,
         "LEGEND_THRESHOLD": round(legend_threshold, 1),
-        "IMPORTANCE": _importance(major, signature),
+        "IMPORTANCE": _importance(major, next_big),
+        "MAJORS_WON": _MAJORS_WON,
+        "COUNTED_MAJORS": counted,
     }
     out_path.write_text(
         f"// Auto-generated {updated}\nwindow.GOLF_DATA = {json.dumps(payload, ensure_ascii=False, indent=2)};\n",
@@ -649,8 +737,8 @@ def write_data() -> None:
     if last_major:
         champ = (last_major.get("champion") or {}).get("name", "—")
         print(f"  Last major: {last_major['name']} → {champ} ({last_major.get('champion', {}).get('score', '')})", file=sys.stderr)
-    if signature:
-        print(f"  Signature: {signature['name']} ({signature['state']}) — {len(signature['leaderboard'])} lb rows", file=sys.stderr)
+    if next_big:
+        print(f"  Próximo gran torneo: {next_big['name']} ({next_big['tier']}) en {next_big['daysToStart']} días", file=sys.stderr)
     print(f"  Current #1: {current[0]['name']} ({current[0]['activeScore']})", file=sys.stderr)
 
 

@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-22 22:29 UTC
+// Auto-generated 2026-07-23 07:15 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-22 22:29 UTC",
+  "UPDATED": "2026-07-23 07:15 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -17,7 +17,88 @@ window.GOLF_DATA = {
     "endLabel": "19 Jul",
     "round": 0,
     "daysToStart": 0,
-    "leaderboard": [],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "name": "Ryan Fox",
+        "id": "4251",
+        "country": "New Zealand",
+        "score": "-10",
+        "today": "-2"
+      },
+      {
+        "rank": 2,
+        "name": "Cameron Young",
+        "id": "4425906",
+        "country": "USA",
+        "score": "-9",
+        "today": "-6"
+      },
+      {
+        "rank": 3,
+        "name": "Sam Burns",
+        "id": "9938",
+        "country": "USA",
+        "score": "-8",
+        "today": "+2"
+      },
+      {
+        "rank": 4,
+        "name": "Scottie Scheffler",
+        "id": "9478",
+        "country": "USA",
+        "score": "-7",
+        "today": "-3"
+      },
+      {
+        "rank": 5,
+        "name": "Tommy Fleetwood",
+        "id": "5539",
+        "country": "England",
+        "score": "-7",
+        "today": "-2"
+      },
+      {
+        "rank": 6,
+        "name": "Casey Jarvis",
+        "id": "4610056",
+        "country": "South Africa",
+        "score": "-6",
+        "today": "-4"
+      },
+      {
+        "rank": 7,
+        "name": "Lucas Herbert",
+        "id": "10343",
+        "country": "Australia",
+        "score": "-6",
+        "today": "+1"
+      },
+      {
+        "rank": 8,
+        "name": "Si Woo Kim",
+        "id": "7081",
+        "country": "South Korea",
+        "score": "-6",
+        "today": "+2"
+      },
+      {
+        "rank": 9,
+        "name": "Russell Henley",
+        "id": "5409",
+        "country": "USA",
+        "score": "-5",
+        "today": "-4"
+      },
+      {
+        "rank": 10,
+        "name": "Adam Scott",
+        "id": "388",
+        "country": "Australia",
+        "score": "-5",
+        "today": "-4"
+      }
+    ],
     "favorites": [
       "Scottie Scheffler",
       "Matt Fitzpatrick",
@@ -42,7 +123,7 @@ window.GOLF_DATA = {
       "score": "-10",
       "today": "-2",
       "nivel": 83,
-      "legend": 0.0
+      "legend": 5.7
     },
     "podium": [
       {
@@ -53,7 +134,7 @@ window.GOLF_DATA = {
         "score": "-10",
         "today": "-2",
         "nivel": 83,
-        "legend": 0.0
+        "legend": 5.7
       },
       {
         "rank": 2,
@@ -97,17 +178,17 @@ window.GOLF_DATA = {
       }
     ]
   },
-  "CURRENT_SIGNATURE": {
-    "name": "Travelers Championship",
-    "start": "2026-06-25",
-    "end": "2026-06-29",
-    "state": "completed",
-    "tier": "Signature Event",
-    "startLabel": "25 Jun",
-    "endLabel": "29 Jun",
-    "round": 0,
-    "daysToStart": 0,
-    "leaderboard": [],
+  "NEXT_BIG": {
+    "name": "FedEx St. Jude Championship",
+    "tier": "Playoff FedEx",
+    "venue": null,
+    "location": null,
+    "start": "2026-08-13",
+    "end": "2026-08-16",
+    "startLabel": "13 Aug",
+    "endLabel": "16 Aug",
+    "daysToStart": 21,
+    "defending": null,
     "favorites": [
       "Scottie Scheffler",
       "Matt Fitzpatrick",
@@ -138,7 +219,7 @@ window.GOLF_DATA = {
         "fedexRank": 1,
         "tour": "PGA"
       },
-      "prevRank": 1
+      "prevRank": null
     },
     {
       "id": "matt_fitzpatrick",
@@ -161,7 +242,7 @@ window.GOLF_DATA = {
         "fedexRank": 2,
         "tour": "PGA"
       },
-      "prevRank": 2
+      "prevRank": null
     },
     {
       "id": "cameron_young",
@@ -184,7 +265,7 @@ window.GOLF_DATA = {
         "fedexRank": 3,
         "tour": "PGA"
       },
-      "prevRank": 3
+      "prevRank": null
     },
     {
       "id": "wyndham_clark",
@@ -207,7 +288,7 @@ window.GOLF_DATA = {
         "fedexRank": 4,
         "tour": "PGA"
       },
-      "prevRank": 4
+      "prevRank": null
     },
     {
       "id": "chris_gotterup",
@@ -230,7 +311,7 @@ window.GOLF_DATA = {
         "fedexRank": 5,
         "tour": "PGA"
       },
-      "prevRank": 5
+      "prevRank": null
     },
     {
       "id": "collin_morikawa",
@@ -253,7 +334,7 @@ window.GOLF_DATA = {
         "fedexRank": 6,
         "tour": "PGA"
       },
-      "prevRank": 6
+      "prevRank": null
     },
     {
       "id": "si_woo_kim",
@@ -276,7 +357,7 @@ window.GOLF_DATA = {
         "fedexRank": 7,
         "tour": "PGA"
       },
-      "prevRank": 7
+      "prevRank": null
     },
     {
       "id": "sam_burns",
@@ -299,7 +380,7 @@ window.GOLF_DATA = {
         "fedexRank": 8,
         "tour": "PGA"
       },
-      "prevRank": 8
+      "prevRank": null
     },
     {
       "id": "tommy_fleetwood",
@@ -322,7 +403,7 @@ window.GOLF_DATA = {
         "fedexRank": 9,
         "tour": "PGA"
       },
-      "prevRank": 9
+      "prevRank": null
     },
     {
       "id": "ludvig_berg",
@@ -345,7 +426,7 @@ window.GOLF_DATA = {
         "fedexRank": 10,
         "tour": "PGA"
       },
-      "prevRank": 10
+      "prevRank": null
     },
     {
       "id": "rory_mcilroy",
@@ -368,7 +449,7 @@ window.GOLF_DATA = {
         "fedexRank": 11,
         "tour": "PGA"
       },
-      "prevRank": 11
+      "prevRank": null
     },
     {
       "id": "akshay_bhatia",
@@ -391,7 +472,7 @@ window.GOLF_DATA = {
         "fedexRank": 12,
         "tour": "PGA"
       },
-      "prevRank": 12
+      "prevRank": null
     }
   ],
   "PROSPECTS": [
@@ -529,7 +610,7 @@ window.GOLF_DATA = {
         "dominance": 683,
         "tour": "PGA"
       },
-      "prevRank": 1
+      "prevRank": null
     },
     {
       "id": "jack_nicklaus",
@@ -551,7 +632,7 @@ window.GOLF_DATA = {
         "dominance": 160,
         "tour": "PGA"
       },
-      "prevRank": 2
+      "prevRank": null
     },
     {
       "id": "walter_hagen",
@@ -573,7 +654,7 @@ window.GOLF_DATA = {
         "dominance": 120,
         "tour": "PGA"
       },
-      "prevRank": 3
+      "prevRank": null
     },
     {
       "id": "ben_hogan",
@@ -595,7 +676,7 @@ window.GOLF_DATA = {
         "dominance": 95,
         "tour": "PGA"
       },
-      "prevRank": 4
+      "prevRank": null
     },
     {
       "id": "sam_snead",
@@ -617,7 +698,7 @@ window.GOLF_DATA = {
         "dominance": 65,
         "tour": "PGA"
       },
-      "prevRank": 5
+      "prevRank": null
     },
     {
       "id": "gary_player",
@@ -639,7 +720,7 @@ window.GOLF_DATA = {
         "dominance": 80,
         "tour": "PGA"
       },
-      "prevRank": 6
+      "prevRank": null
     },
     {
       "id": "tom_watson",
@@ -661,7 +742,7 @@ window.GOLF_DATA = {
         "dominance": 75,
         "tour": "PGA"
       },
-      "prevRank": 7
+      "prevRank": null
     },
     {
       "id": "arnold_palmer",
@@ -683,7 +764,7 @@ window.GOLF_DATA = {
         "dominance": 70,
         "tour": "PGA"
       },
-      "prevRank": 8
+      "prevRank": null
     },
     {
       "id": "harry_vardon",
@@ -705,7 +786,7 @@ window.GOLF_DATA = {
         "dominance": 70,
         "tour": "PGA"
       },
-      "prevRank": 9
+      "prevRank": null
     },
     {
       "id": "gene_sarazen",
@@ -727,7 +808,7 @@ window.GOLF_DATA = {
         "dominance": 55,
         "tour": "PGA"
       },
-      "prevRank": 10
+      "prevRank": null
     },
     {
       "id": "bobby_jones",
@@ -749,7 +830,7 @@ window.GOLF_DATA = {
         "dominance": 100,
         "tour": "Amateur"
       },
-      "prevRank": 11
+      "prevRank": null
     },
     {
       "id": "phil_mickelson",
@@ -771,7 +852,7 @@ window.GOLF_DATA = {
         "dominance": 65,
         "tour": "PGA"
       },
-      "prevRank": 12
+      "prevRank": null
     },
     {
       "id": "rory_mcilroy",
@@ -793,7 +874,7 @@ window.GOLF_DATA = {
         "dominance": 122,
         "tour": "PGA"
       },
-      "prevRank": 13
+      "prevRank": null
     },
     {
       "id": "lee_trevino",
@@ -815,7 +896,7 @@ window.GOLF_DATA = {
         "dominance": 55,
         "tour": "PGA"
       },
-      "prevRank": 14
+      "prevRank": null
     },
     {
       "id": "seve_ballesteros",
@@ -837,7 +918,7 @@ window.GOLF_DATA = {
         "dominance": 60,
         "tour": "PGA"
       },
-      "prevRank": 15
+      "prevRank": null
     },
     {
       "id": "scottie_scheffler",
@@ -859,7 +940,7 @@ window.GOLF_DATA = {
         "dominance": 115,
         "tour": "PGA"
       },
-      "prevRank": 16
+      "prevRank": null
     }
   ],
   "ROAD_TO_GLORY": [
@@ -884,7 +965,7 @@ window.GOLF_DATA = {
         "fedexRank": 11,
         "tour": "PGA"
       },
-      "prevRank": 1,
+      "prevRank": null,
       "gapToTop10": 3.2,
       "note": "A 3.2 del top 10 histórico"
     },
@@ -909,7 +990,7 @@ window.GOLF_DATA = {
         "fedexRank": 1,
         "tour": "PGA"
       },
-      "prevRank": 2,
+      "prevRank": null,
       "gapToTop10": 14.6,
       "note": "A 14.6 del top 10 histórico"
     },
@@ -934,7 +1015,7 @@ window.GOLF_DATA = {
         "fedexRank": 4,
         "tour": "PGA"
       },
-      "prevRank": 3,
+      "prevRank": null,
       "gapToTop10": 26.1,
       "note": "A 26.1 del top 10 histórico"
     },
@@ -959,7 +1040,7 @@ window.GOLF_DATA = {
         "fedexRank": 6,
         "tour": "PGA"
       },
-      "prevRank": 4,
+      "prevRank": null,
       "gapToTop10": 26.1,
       "note": "A 26.1 del top 10 histórico"
     },
@@ -984,7 +1065,7 @@ window.GOLF_DATA = {
         "fedexRank": 2,
         "tour": "PGA"
       },
-      "prevRank": 5,
+      "prevRank": null,
       "gapToTop10": 31.8,
       "note": "A 31.8 del top 10 histórico"
     },
@@ -1009,7 +1090,7 @@ window.GOLF_DATA = {
         "fedexRank": 3,
         "tour": "PGA"
       },
-      "prevRank": 6,
+      "prevRank": null,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     },
@@ -1034,7 +1115,7 @@ window.GOLF_DATA = {
         "fedexRank": 5,
         "tour": "PGA"
       },
-      "prevRank": 7,
+      "prevRank": null,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     },
@@ -1059,7 +1140,7 @@ window.GOLF_DATA = {
         "fedexRank": 7,
         "tour": "PGA"
       },
-      "prevRank": 8,
+      "prevRank": null,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     },
@@ -1084,7 +1165,7 @@ window.GOLF_DATA = {
         "fedexRank": 8,
         "tour": "PGA"
       },
-      "prevRank": 9,
+      "prevRank": null,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     },
@@ -1109,11 +1190,17 @@ window.GOLF_DATA = {
         "fedexRank": 9,
         "tour": "PGA"
       },
-      "prevRank": 10,
+      "prevRank": null,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     }
   ],
   "LEGEND_THRESHOLD": 37.5,
-  "IMPORTANCE": 6.5
+  "IMPORTANCE": 6.5,
+  "MAJORS_WON": {
+    "Ryan Fox": 1
+  },
+  "COUNTED_MAJORS": [
+    "The Open Championship 2026"
+  ]
 };

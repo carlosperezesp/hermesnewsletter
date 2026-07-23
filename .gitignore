@@ -18,3 +18,5 @@ scripts/.glory_sent.json
 .nfl_cache/
 .golf_cache/
 .vscode/
+.players_cache/
+.eufootball_cache/

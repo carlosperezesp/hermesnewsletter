@@ -650,6 +650,28 @@ function NewsletterApp() {
     window.history.replaceState(null, "", table ? `#${idToSlug(sport)}/${table}` : `#${idToSlug(sport)}`);
     scrollToAnchor(anchor);
   };
+  // Elegir deporte en el nav: activa su sección y salta al inicio de esa sección
+  // (si no, en móvil te quedas a la misma altura, en mitad del nuevo deporte).
+  const selectSport = (id) => {
+    setActiveSection(id);
+    // Tras cambiar de sección la página reflowea (se ocultan las demás). Esperamos
+    // con rAF a que la sección esté maquetada (altura > 0) y saltamos a su inicio,
+    // descontando el nav si sigue siendo sticky (desktop).
+    let tries = 0;
+    const doScroll = () => {
+      if (id === "all") { window.scrollTo(0, 0); return; }
+      const el = document.querySelector(`[data-section="${id}"]`);
+      // Reintentar hasta que React haya montado la sección (altura > 0).
+      if ((!el || el.offsetHeight === 0) && tries++ < 30) { setTimeout(doScroll, 30); return; }
+      if (!el) return;
+      const navEl = document.querySelector(".section-nav");
+      const sticky = navEl && getComputedStyle(navEl).position === "sticky";
+      const navH = sticky ? navEl.offsetHeight + 8 : 8;
+      const y = el.getBoundingClientRect().top + window.scrollY - navH;
+      window.scrollTo(0, Math.max(0, y));
+    };
+    setTimeout(doScroll, 30);
+  };
   const [searchQuery, setSearchQuery] = useState("");
   function sectionUpdateDate(data) {
     const raw = data?.UPDATED || data?.LAST_UPDATE;
@@ -1114,7 +1136,7 @@ function NewsletterApp() {
               key={section.id}
               className={`section-nav__button ${section.isFresh ? "section-nav__button--fresh" : "section-nav__button--stale"} ${activeSection === section.id ? "section-nav__button--on" : ""}`}
               type="button"
-              onClick={() => setActiveSection(section.id)}
+              onClick={() => selectSport(section.id)}
               aria-pressed={activeSection === section.id}
               title={`${section.id === "all" ? "Ver todas las secciones" : `Ver solo ${section.label}`} · ${section.isFresh ? "Activo" : "Inactivo"}${section.activityReason ? ` (${section.activityReason})` : ""} · ${section.updatedAt || "sin fecha"}`}
             >
@@ -3902,16 +3924,13 @@ function NewsletterApp() {
             : major.state === "upcoming"
               ? `Empieza en ${major.daysToStart} día${major.daysToStart === 1 ? "" : "s"}`
               : "Último major completado";
-          const signature = GOLF.CURRENT_SIGNATURE || {};
-          const signatureStateLabel = signature.state === "live"
-            ? `Ronda ${signature.round || 1} en juego`
-            : signature.state === "upcoming"
-              ? `Empieza en ${signature.daysToStart} día${signature.daysToStart === 1 ? "" : "s"}`
-              : "Último Signature Event completado";
+          const nextBig = GOLF.NEXT_BIG || {};
           const majorTour = "Men's Major";
           const golfMeta = p => `${p.stats?.tour || p.teamCode} · ${p.country}`;
-          const currentNote = p => `${p.stats?.majors || 0} majors · ${p.stats?.wins || 0} victorias 2026 · ${p.stats?.topTen || 0} top-10 2026`;
-          const legendNote = p => `${p.stats?.majors || 0} majors · ${p.stats?.wins || 0} victorias · dominio ${p.stats?.dominance || 0}`;
+          const nMajors = n => `${n || 0} major${n === 1 ? "" : "s"}`;
+          const nWins = n => `${n || 0} victoria${n === 1 ? "" : "s"}`;
+          const currentNote = p => `${nMajors(p.stats?.majors)} · ${nWins(p.stats?.wins)} 2026 · ${p.stats?.topTen || 0} top-10 2026`;
+          const legendNote = p => `${nMajors(p.stats?.majors)} · ${nWins(p.stats?.wins)} · dominio ${p.stats?.dominance || 0}`;
           return (
             <>
               <header className="newsletter-hero" style={{ marginTop: 48 }}>
@@ -3976,7 +3995,7 @@ function NewsletterApp() {
 
               {GOLF.LAST_MAJOR && GOLF.LAST_MAJOR.champion && (GOLF.LAST_MAJOR.name !== major.name || majorDone) && (
                 <NewsletterSection
-                  kicker={`${majorTour} · Ganador`}
+                  kicker="Último gran torneo · Ganador"
                   title={`${GOLF.LAST_MAJOR.name} — ${GOLF.LAST_MAJOR.champion.name}`}
                   sub={`Campeón ${GOLF.SEASON}. ${GOLF.LAST_MAJOR.endLabel} · ${GOLF.LAST_MAJOR.venue || ""}${GOLF.LAST_MAJOR.location ? ` · ${GOLF.LAST_MAJOR.location}` : ""}.`}
                 >
@@ -4009,47 +4028,26 @@ function NewsletterApp() {
                 </NewsletterSection>
               )}
 
-              {signature.name && (
+              {nextBig.name && (
                 <NewsletterSection
-                  kicker={`Signature Event · ${signature.state || "evento"}`}
-                  title={signature.name}
-                  sub={`${signatureStateLabel}. ${signature.startLabel || ""}–${signature.endLabel || ""}${signature.venue ? ` · ${signature.venue}` : ""}. El equivalente en golf a un Masters 1000: campo reducido, élite y bolsa elevada.`}
+                  kicker={`Próximo gran torneo · ${nextBig.tier || "evento"}`}
+                  title={nextBig.name}
+                  sub={`Empieza en ${nextBig.daysToStart} día${nextBig.daysToStart === 1 ? "" : "s"} · ${nextBig.startLabel || ""}–${nextBig.endLabel || ""}${nextBig.venue ? ` · ${nextBig.venue}` : ""}${nextBig.defending ? `. Defiende: ${nextBig.defending}` : ""}. El siguiente golpe a los rankings.`}
                 >
-                  {signature.leaderboard && signature.leaderboard.length > 0 ? (
-                    <div className="newsletter-list">
-                      {signature.leaderboard.slice(0, 10).map((row, i) => (
-                        <div key={`${row.rank}-${row.name}`} className="newsletter-row">
-                          <span className="newsletter-row__rank">{String(row.rank || i + 1).padStart(2, "0")}</span>
-                          <span className="newsletter-row__identity" style={{ flex: 1 }}>
-                            <span className="newsletter-row__dot" style={{ background: "#b5872f" }} />
-                            <span className="newsletter-row__copy">
-                              <span className="newsletter-row__name">{row.name}</span>
-                              <span className="newsletter-row__meta">{row.today ? `Hoy ${row.today}` : (row.country || "")}</span>
-                            </span>
+                  <div className="newsletter-list">
+                    {(nextBig.favorites || []).map((name, i) => (
+                      <div key={name} className="newsletter-row">
+                        <span className="newsletter-row__rank">{String(i + 1).padStart(2, "0")}</span>
+                        <span className="newsletter-row__identity" style={{ flex: 1 }}>
+                          <span className="newsletter-row__dot" style={{ background: "#b5872f" }} />
+                          <span className="newsletter-row__copy">
+                            <span className="newsletter-row__name">{name}</span>
+                            <span className="newsletter-row__meta">Favorito Hermes</span>
                           </span>
-                          <span className="newsletter-row__score">
-                            <span className="newsletter-row__score-label">Score</span>
-                            <span className="newsletter-row__score-value">{row.score || "-"}</span>
-                          </span>
-                        </div>
-                      ))}
-                    </div>
-                  ) : (
-                    <div className="newsletter-list">
-                      {(signature.favorites || []).map((name, i) => (
-                        <div key={name} className="newsletter-row">
-                          <span className="newsletter-row__rank">{String(i + 1).padStart(2, "0")}</span>
-                          <span className="newsletter-row__identity" style={{ flex: 1 }}>
-                            <span className="newsletter-row__dot" style={{ background: "#b5872f" }} />
-                            <span className="newsletter-row__copy">
-                              <span className="newsletter-row__name">{name}</span>
-                              <span className="newsletter-row__meta">Favorito Hermes</span>
-                            </span>
-                          </span>
-                        </div>
-                      ))}
-                    </div>
-                  )}
+                        </span>
+                      </div>
+                    ))}
+                  </div>
                 </NewsletterSection>
               )}
 
