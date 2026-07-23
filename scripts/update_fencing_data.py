@@ -211,14 +211,24 @@ def build_event(ev: dict) -> dict:
         row.update({"rank": i + 1, "age": age, "activeScore": nivel,
                     "legendScore": legend, "olympicGold": oly, "worldGold": wc, "note": note})
         ranking.append(row)
-    legends = []
+    # Leyendas = históricos curados + ACTIVOS con palmarés, para que un activo con
+    # currículum de leyenda (p. ej. Cheung, 2 oros olímpicos) aparezca también aquí.
+    entries = {}
     for raw, name, cc3, era, oly, wc, note in sorted(scored, reverse=True):
         row = _base(name, cc3)
-        row.update({
-            "era": era, "olympicGold": oly, "worldGold": wc,
-            "legendScore": round(raw / max_raw * 100, 1), "note": note,
-        })
-        legends.append(row)
+        row.update({"era": era, "olympicGold": oly, "worldGold": wc,
+                    "legendScore": round(raw / max_raw * 100, 1), "note": note, "active": False})
+        entries[row["id"]] = row
+    for name, cc3, age, nivel, note in ev["current"]:
+        oly, wc = CURRENT_TITLES.get(name, (0, 0))
+        rid = _slug(name)
+        if (oly or wc) and rid not in entries:
+            row = _base(name, cc3)
+            row.update({"era": "en activo", "olympicGold": oly, "worldGold": wc,
+                        "legendScore": round((oly * W_OLYMPIC + wc * W_WORLD) / max_raw * 100, 1),
+                        "note": note, "active": True})
+            entries[rid] = row
+    legends = sorted(entries.values(), key=lambda r: -r["legendScore"])
     for i, row in enumerate(legends):
         row["rank"] = i + 1
 

@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-23 10:15 UTC
+// Auto-generated 2026-07-23 11:06 UTC
 window.FENCING_DATA = {
-  "UPDATED": "2026-07-23 10:15 UTC",
+  "UPDATED": "2026-07-23 11:06 UTC",
   "SEASON": "Temporada 2025/26",
   "WORLDS": {
     "name": "Campeonato del Mundo de Esgrima 2026",
@@ -169,6 +169,7 @@ window.FENCING_DATA = {
           "worldGold": 4,
           "legendScore": 100.0,
           "note": "El 'Mozart del florete': 2 oros olímpicos y 4 mundiales.",
+          "active": false,
           "rank": 1
         },
         {
@@ -185,6 +186,7 @@ window.FENCING_DATA = {
           "worldGold": 3,
           "legendScore": 60.3,
           "note": "Oro olímpico 1936 y triple campeón mundial.",
+          "active": false,
           "rank": 2
         },
         {
@@ -201,7 +203,25 @@ window.FENCING_DATA = {
           "worldGold": 0,
           "legendScore": 58.8,
           "note": "Cinco oros en 1920; el más versátil de la historia.",
+          "active": false,
           "rank": 3
+        },
+        {
+          "id": "ka_long_cheung",
+          "name": "Ka Long Cheung",
+          "country": "HKG",
+          "logo": "https://flagcdn.com/24x18/hk.png",
+          "colors": {
+            "primary": "#DE2910",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 2,
+          "worldGold": 0,
+          "legendScore": 58.8,
+          "note": "Bicampeón olímpico (2021, 2024)",
+          "active": true,
+          "rank": 4
         },
         {
           "id": "aleksandr_romankov",
@@ -217,7 +237,8 @@ window.FENCING_DATA = {
           "worldGold": 5,
           "legendScore": 51.5,
           "note": "Cinco veces campeón del mundo, dominio soviético.",
-          "rank": 4
+          "active": false,
+          "rank": 5
         },
         {
           "id": "stefano_cerioni",
@@ -233,7 +254,8 @@ window.FENCING_DATA = {
           "worldGold": 2,
           "legendScore": 50.0,
           "note": "Oro olímpico 1984 y dos mundiales.",
-          "rank": 5
+          "active": false,
+          "rank": 6
         },
         {
           "id": "sergei_golubitsky",
@@ -249,7 +271,8 @@ window.FENCING_DATA = {
           "worldGold": 3,
           "legendScore": 30.9,
           "note": "Tricampeón mundial consecutivo (1997-99).",
-          "rank": 6
+          "active": false,
+          "rank": 7
         },
         {
           "id": "ilgar_mammadov",
@@ -265,7 +288,8 @@ window.FENCING_DATA = {
           "worldGold": 0,
           "legendScore": 29.4,
           "note": "Oro olímpico 1992 con el Equipo Unificado.",
-          "rank": 7
+          "active": false,
+          "rank": 8
         },
         {
           "id": "andrea_cassar",
@@ -281,7 +305,42 @@ window.FENCING_DATA = {
           "worldGold": 2,
           "legendScore": 20.6,
           "note": "Doble campeón del mundo del bloque italiano.",
-          "rank": 8
+          "active": false,
+          "rank": 9
+        },
+        {
+          "id": "tommaso_marini",
+          "name": "Tommaso Marini",
+          "country": "ITA",
+          "logo": "https://flagcdn.com/24x18/it.png",
+          "colors": {
+            "primary": "#009246",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 0,
+          "worldGold": 1,
+          "legendScore": 10.3,
+          "note": "Campeón del mundo 2023",
+          "active": true,
+          "rank": 10
+        },
+        {
+          "id": "enzo_lefort",
+          "name": "Enzo Lefort",
+          "country": "FRA",
+          "logo": "https://flagcdn.com/24x18/fr.png",
+          "colors": {
+            "primary": "#002395",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 0,
+          "worldGold": 1,
+          "legendScore": 10.3,
+          "note": "Campeón del mundo 2019",
+          "active": true,
+          "rank": 11
         }
       ]
     },
@@ -443,6 +502,7 @@ window.FENCING_DATA = {
           "worldGold": 2,
           "legendScore": 100.0,
           "note": "Bicampeona olímpica individual y doble mundial.",
+          "active": false,
           "rank": 1
         },
         {
@@ -459,6 +519,7 @@ window.FENCING_DATA = {
           "worldGold": 2,
           "legendScore": 100.0,
           "note": "'La Guêpe': dos oros olímpicos y dos mundiales.",
+          "active": false,
           "rank": 2
         },
         {
@@ -475,6 +536,7 @@ window.FENCING_DATA = {
           "worldGold": 1,
           "legendScore": 50.0,
           "note": "Oro olímpico 2012 y mundial.",
+          "active": false,
           "rank": 3
         },
         {
@@ -491,6 +553,7 @@ window.FENCING_DATA = {
           "worldGold": 1,
           "legendScore": 50.0,
           "note": "Oro olímpico 2016 y título mundial.",
+          "active": false,
           "rank": 4
         },
         {
@@ -507,7 +570,25 @@ window.FENCING_DATA = {
           "worldGold": 1,
           "legendScore": 50.0,
           "note": "Oro olímpico 2008 y campeona del mundo.",
+          "active": false,
           "rank": 5
+        },
+        {
+          "id": "vivian_kong_man_wai",
+          "name": "Vivian Kong Man Wai",
+          "country": "HKG",
+          "logo": "https://flagcdn.com/24x18/hk.png",
+          "colors": {
+            "primary": "#DE2910",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 1,
+          "worldGold": 0,
+          "legendScore": 37.0,
+          "note": "Campeona olímpica 2024",
+          "active": true,
+          "rank": 6
         },
         {
           "id": "t_mea_nagy",
@@ -523,7 +604,8 @@ window.FENCING_DATA = {
           "worldGold": 2,
           "legendScore": 25.9,
           "note": "Base de la escuela húngara de espada.",
-          "rank": 6
+          "active": false,
+          "rank": 7
         },
         {
           "id": "rossella_fiamingo",
@@ -539,7 +621,8 @@ window.FENCING_DATA = {
           "worldGold": 2,
           "legendScore": 25.9,
           "note": "Bicampeona mundial consecutiva.",
-          "rank": 7
+          "active": false,
+          "rank": 8
         },
         {
           "id": "nathalie_moellhausen",
@@ -555,7 +638,8 @@ window.FENCING_DATA = {
           "worldGold": 1,
           "legendScore": 13.0,
           "note": "Campeona del mundo 2019 (por Brasil).",
-          "rank": 8
+          "active": false,
+          "rank": 9
         }
       ]
     },
@@ -717,6 +801,7 @@ window.FENCING_DATA = {
           "worldGold": 1,
           "legendScore": 100.0,
           "note": "Tricampeón olímpico individual consecutivo.",
+          "active": false,
           "rank": 1
         },
         {
@@ -733,6 +818,7 @@ window.FENCING_DATA = {
           "worldGold": 3,
           "legendScore": 91.0,
           "note": "Siete oros olímpicos en seis Juegos; el GOAT del sable.",
+          "active": false,
           "rank": 2
         },
         {
@@ -749,6 +835,7 @@ window.FENCING_DATA = {
           "worldGold": 2,
           "legendScore": 80.6,
           "note": "Doble oro olímpico individual soviético.",
+          "active": false,
           "rank": 3
         },
         {
@@ -765,6 +852,7 @@ window.FENCING_DATA = {
           "worldGold": 2,
           "legendScore": 80.6,
           "note": "Doble oro olímpico de la dinastía húngara.",
+          "active": false,
           "rank": 4
         },
         {
@@ -781,6 +869,7 @@ window.FENCING_DATA = {
           "worldGold": 4,
           "legendScore": 71.6,
           "note": "Oro olímpico y cuádruple campeón mundial.",
+          "active": false,
           "rank": 5
         },
         {
@@ -797,6 +886,7 @@ window.FENCING_DATA = {
           "worldGold": 1,
           "legendScore": 70.1,
           "note": "Bicampeón olímpico individual.",
+          "active": false,
           "rank": 6
         },
         {
@@ -813,6 +903,7 @@ window.FENCING_DATA = {
           "worldGold": 3,
           "legendScore": 61.2,
           "note": "Oro olímpico y triple campeón del mundo.",
+          "active": false,
           "rank": 7
         },
         {
@@ -829,7 +920,42 @@ window.FENCING_DATA = {
           "worldGold": 2,
           "legendScore": 50.7,
           "note": "Oro olímpico y doble título mundial.",
+          "active": false,
           "rank": 8
+        },
+        {
+          "id": "sanguk_oh",
+          "name": "Sanguk Oh",
+          "country": "KOR",
+          "logo": "https://flagcdn.com/24x18/kr.png",
+          "colors": {
+            "primary": "#003478",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 1,
+          "worldGold": 0,
+          "legendScore": 29.9,
+          "note": "Campeón olímpico 2024",
+          "active": true,
+          "rank": 9
+        },
+        {
+          "id": "sandro_bazadze",
+          "name": "Sandro Bazadze",
+          "country": "GEO",
+          "logo": "https://flagcdn.com/24x18/ge.png",
+          "colors": {
+            "primary": "#FF0000",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 0,
+          "worldGold": 1,
+          "legendScore": 10.4,
+          "note": "Campeón del mundo 2022",
+          "active": true,
+          "rank": 10
         }
       ]
     },
@@ -991,6 +1117,7 @@ window.FENCING_DATA = {
           "worldGold": 5,
           "legendScore": 100.0,
           "note": "El mayor espadista: 13 medallas olímpicas en cinco Juegos.",
+          "active": false,
           "rank": 1
         },
         {
@@ -1007,6 +1134,7 @@ window.FENCING_DATA = {
           "worldGold": 4,
           "legendScore": 87.3,
           "note": "Oro olímpico 2000 y cuádruple campeón del mundo.",
+          "active": false,
           "rank": 2
         },
         {
@@ -1023,6 +1151,7 @@ window.FENCING_DATA = {
           "worldGold": 0,
           "legendScore": 72.7,
           "note": "Pionero: dos oros olímpicos a comienzos del siglo XX.",
+          "active": false,
           "rank": 3
         },
         {
@@ -1039,6 +1168,7 @@ window.FENCING_DATA = {
           "worldGold": 2,
           "legendScore": 61.8,
           "note": "Oro olímpico 1992 y doble campeón del mundo.",
+          "active": false,
           "rank": 4
         },
         {
@@ -1055,6 +1185,7 @@ window.FENCING_DATA = {
           "worldGold": 1,
           "legendScore": 49.1,
           "note": "Oro olímpico 1980 con una táctica revolucionaria.",
+          "active": false,
           "rank": 5
         },
         {
@@ -1071,6 +1202,7 @@ window.FENCING_DATA = {
           "worldGold": 1,
           "legendScore": 49.1,
           "note": "Oro olímpico 1964 de la escuela soviética.",
+          "active": false,
           "rank": 6
         },
         {
@@ -1087,7 +1219,59 @@ window.FENCING_DATA = {
           "worldGold": 1,
           "legendScore": 49.1,
           "note": "Oro olímpico individual 1988.",
+          "active": false,
           "rank": 7
+        },
+        {
+          "id": "koki_kano",
+          "name": "Koki Kano",
+          "country": "JPN",
+          "logo": "https://flagcdn.com/24x18/jp.png",
+          "colors": {
+            "primary": "#BC002D",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 1,
+          "worldGold": 1,
+          "legendScore": 49.1,
+          "note": "Campeón olímpico 2024 y del mundo",
+          "active": true,
+          "rank": 8
+        },
+        {
+          "id": "romain_cannone",
+          "name": "Romain Cannone",
+          "country": "FRA",
+          "logo": "https://flagcdn.com/24x18/fr.png",
+          "colors": {
+            "primary": "#002395",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 1,
+          "worldGold": 1,
+          "legendScore": 49.1,
+          "note": "Campeón olímpico 2021",
+          "active": true,
+          "rank": 9
+        },
+        {
+          "id": "ruben_limardo",
+          "name": "Ruben Limardo",
+          "country": "VEN",
+          "logo": "https://flagcdn.com/24x18/ve.png",
+          "colors": {
+            "primary": "#CF142B",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 1,
+          "worldGold": 0,
+          "legendScore": 36.4,
+          "note": "Campeón olímpico 2012",
+          "active": true,
+          "rank": 10
         },
         {
           "id": "g_za_imre",
@@ -1103,7 +1287,42 @@ window.FENCING_DATA = {
           "worldGold": 1,
           "legendScore": 12.7,
           "note": "Campeón del mundo 2015 y plata olímpica.",
-          "rank": 8
+          "active": false,
+          "rank": 11
+        },
+        {
+          "id": "yannick_borel",
+          "name": "Yannick Borel",
+          "country": "FRA",
+          "logo": "https://flagcdn.com/24x18/fr.png",
+          "colors": {
+            "primary": "#002395",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 0,
+          "worldGold": 1,
+          "legendScore": 12.7,
+          "note": "Campeón del mundo y oro por equipos",
+          "active": true,
+          "rank": 12
+        },
+        {
+          "id": "gergely_sikl_si",
+          "name": "Gergely Siklósi",
+          "country": "HUN",
+          "logo": "https://flagcdn.com/24x18/hu.png",
+          "colors": {
+            "primary": "#436F4D",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 0,
+          "worldGold": 1,
+          "legendScore": 12.7,
+          "note": "Plata olímpica 2020",
+          "active": true,
+          "rank": 13
         }
       ]
     },
@@ -1265,6 +1484,7 @@ window.FENCING_DATA = {
           "worldGold": 6,
           "legendScore": 100.0,
           "note": "La reina del florete: tres oros olímpicos individuales seguidos.",
+          "active": false,
           "rank": 1
         },
         {
@@ -1281,6 +1501,7 @@ window.FENCING_DATA = {
           "worldGold": 2,
           "legendScore": 52.9,
           "note": "Dos oros olímpicos con doce años de diferencia.",
+          "active": false,
           "rank": 2
         },
         {
@@ -1297,6 +1518,7 @@ window.FENCING_DATA = {
           "worldGold": 4,
           "legendScore": 47.1,
           "note": "Oro olímpico 1992 y cuádruple campeona del mundo.",
+          "active": false,
           "rank": 3
         },
         {
@@ -1313,7 +1535,25 @@ window.FENCING_DATA = {
           "worldGold": 3,
           "legendScore": 40.2,
           "note": "Oro olímpico 1984 y triple campeona del mundo.",
+          "active": false,
           "rank": 4
+        },
+        {
+          "id": "lee_kiefer",
+          "name": "Lee Kiefer",
+          "country": "USA",
+          "logo": "https://flagcdn.com/24x18/us.png",
+          "colors": {
+            "primary": "#B22234",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 2,
+          "worldGold": 0,
+          "legendScore": 39.2,
+          "note": "Bicampeona olímpica (2021, 2024)",
+          "active": true,
+          "rank": 5
         },
         {
           "id": "yelena_novikova_belova",
@@ -1329,7 +1569,8 @@ window.FENCING_DATA = {
           "worldGold": 2,
           "legendScore": 33.3,
           "note": "Oro olímpico 1968, escuela soviética.",
-          "rank": 5
+          "active": false,
+          "rank": 6
         },
         {
           "id": "elisa_di_francisca",
@@ -1345,7 +1586,8 @@ window.FENCING_DATA = {
           "worldGold": 2,
           "legendScore": 33.3,
           "note": "Oro olímpico 2012 y doble campeona del mundo.",
-          "rank": 6
+          "active": false,
+          "rank": 7
         },
         {
           "id": "laura_badea",
@@ -1361,7 +1603,8 @@ window.FENCING_DATA = {
           "worldGold": 1,
           "legendScore": 26.5,
           "note": "Oro olímpico 1996 y campeona del mundo.",
-          "rank": 7
+          "active": false,
+          "rank": 8
         },
         {
           "id": "antonella_ragno_lonzi",
@@ -1377,7 +1620,42 @@ window.FENCING_DATA = {
           "worldGold": 1,
           "legendScore": 26.5,
           "note": "Oro olímpico 1972, pionera del florete italiano.",
-          "rank": 8
+          "active": false,
+          "rank": 9
+        },
+        {
+          "id": "alice_volpi",
+          "name": "Alice Volpi",
+          "country": "ITA",
+          "logo": "https://flagcdn.com/24x18/it.png",
+          "colors": {
+            "primary": "#009246",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 0,
+          "worldGold": 2,
+          "legendScore": 13.7,
+          "note": "Campeona del mundo",
+          "active": true,
+          "rank": 10
+        },
+        {
+          "id": "arianna_errigo",
+          "name": "Arianna Errigo",
+          "country": "ITA",
+          "logo": "https://flagcdn.com/24x18/it.png",
+          "colors": {
+            "primary": "#009246",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 0,
+          "worldGold": 2,
+          "legendScore": 13.7,
+          "note": "Múltiple campeona del mundo",
+          "active": true,
+          "rank": 11
         }
       ]
     },
@@ -1539,6 +1817,7 @@ window.FENCING_DATA = {
           "worldGold": 2,
           "legendScore": 100.0,
           "note": "Bicampeona olímpica; la mejor sablista de la historia.",
+          "active": false,
           "rank": 1
         },
         {
@@ -1555,6 +1834,7 @@ window.FENCING_DATA = {
           "worldGold": 4,
           "legendScore": 51.9,
           "note": "Cuádruple campeona del mundo, icono del sable.",
+          "active": false,
           "rank": 2
         },
         {
@@ -1571,7 +1851,25 @@ window.FENCING_DATA = {
           "worldGold": 1,
           "legendScore": 50.0,
           "note": "Oro olímpico individual 2016.",
+          "active": false,
           "rank": 3
+        },
+        {
+          "id": "manon_apithy_brunet",
+          "name": "Manon Apithy-Brunet",
+          "country": "FRA",
+          "logo": "https://flagcdn.com/24x18/fr.png",
+          "colors": {
+            "primary": "#002395",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 1,
+          "worldGold": 0,
+          "legendScore": 37.0,
+          "note": "Campeona olímpica 2024",
+          "active": true,
+          "rank": 4
         },
         {
           "id": "tan_xue",
@@ -1587,7 +1885,8 @@ window.FENCING_DATA = {
           "worldGold": 2,
           "legendScore": 25.9,
           "note": "Doble campeona del mundo y plata olímpica 2008.",
-          "rank": 4
+          "active": false,
+          "rank": 5
         },
         {
           "id": "sofya_velikaya",
@@ -1603,7 +1902,8 @@ window.FENCING_DATA = {
           "worldGold": 2,
           "legendScore": 25.9,
           "note": "Doble campeona del mundo y doble plata olímpica.",
-          "rank": 5
+          "active": false,
+          "rank": 6
         },
         {
           "id": "ekaterina_dyachenko",
@@ -1619,7 +1919,42 @@ window.FENCING_DATA = {
           "worldGold": 1,
           "legendScore": 13.0,
           "note": "Campeona del mundo y oro olímpico por equipos.",
-          "rank": 6
+          "active": false,
+          "rank": 7
+        },
+        {
+          "id": "sara_balzer",
+          "name": "Sara Balzer",
+          "country": "FRA",
+          "logo": "https://flagcdn.com/24x18/fr.png",
+          "colors": {
+            "primary": "#002395",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 0,
+          "worldGold": 1,
+          "legendScore": 13.0,
+          "note": "Plata olímpica 2024 y campeona del mundo",
+          "active": true,
+          "rank": 8
+        },
+        {
+          "id": "misaki_emura",
+          "name": "Misaki Emura",
+          "country": "JPN",
+          "logo": "https://flagcdn.com/24x18/jp.png",
+          "colors": {
+            "primary": "#BC002D",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 0,
+          "worldGold": 1,
+          "legendScore": 13.0,
+          "note": "Campeona del mundo",
+          "active": true,
+          "rank": 9
         }
       ]
     }
