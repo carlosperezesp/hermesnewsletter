@@ -20,7 +20,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "badminton_data.js"
 
-W_OLY, W_WORLD, W_AE, W_WEEKS = 12.0, 6.0, 3.0, 0.04
+W_OLY, W_WORLD, W_AE, W_WEEKS = 12.0, 9.0, 3.0, 0.04
 
 CC2 = {
     "CHN": "cn", "DEN": "dk", "JPN": "jp", "KOR": "kr", "THA": "th", "INA": "id",

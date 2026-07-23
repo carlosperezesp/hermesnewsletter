@@ -4390,7 +4390,7 @@ function NewsletterApp() {
                   <NewsletterSection
                     kicker={`${d.label} · Leyendas`}
                     title={`${d.label} — Leyendas`}
-                    sub="Dominancia histórica: oros olímpicos (×12) + Mundiales (×6) + All England (×3) + semanas nº1, normalizado a 100. Incluye activos que ya lo merecen."
+                    sub="Dominancia histórica: oros olímpicos (×12) + Mundiales (×9) + All England (×3) + semanas nº1, normalizado a 100. Incluye activos que ya lo merecen."
                   >
                     <div className="newsletter-list">
                       {d.LEGENDS.map(l => (
