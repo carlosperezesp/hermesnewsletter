@@ -148,6 +148,14 @@ function NewsletterRankRow({ rank, item, alive, aliveKey = "teamCode", forceOut 
                 {badge}
               </span>
             )}
+            {legendActive && isAlive && (
+              <span style={{ display: "inline-flex", alignItems: "center", marginLeft: 8,
+                fontSize: 8.5, fontWeight: 800, fontFamily: "monospace", lineHeight: 1,
+                background: "#2a7a2a", color: "#fff", padding: "2px 6px", borderRadius: 4,
+                letterSpacing: "0.06em", textTransform: "uppercase", verticalAlign: "middle" }}>
+                activo
+              </span>
+            )}
           </span>
           <span className="newsletter-row__meta">{meta}</span>
         </span>
@@ -253,7 +261,11 @@ function IndividualSport({ data, label, intro, masthead = "Ranking y leyendas", 
         </NewsletterSection>
       )}
 
-      {(data.DISCIPLINES || []).map(d => (
+      {(data.DISCIPLINES || []).map(d => {
+        // Umbral de leyenda = puntuación del último legend mostrado (la "línea" para
+        // entrar). Da la barra de tracker y marca a los activos que aún aspiran.
+        const legendThreshold = Math.max(1, Math.round(Math.min(...(d.LEGENDS || []).map(l => l.legendScore || 0))));
+        return (
         <React.Fragment key={d.id}>
           <NewsletterSection kicker={`${d.label} · Ranking`} title={`${d.label} — Score activo`}
             sub="Fuerza actual. Nivel = forma/ranking; Leyenda = palmarés histórico.">
@@ -261,6 +273,7 @@ function IndividualSport({ data, label, intro, masthead = "Ranking y leyendas", 
               {d.RANKING.map(p => (
                 <NewsletterRankRow key={p.id} rank={p.rank} item={p} alive={new Set()}
                   score={p.activeScore} scoreLabel="Nivel" scoreB={p.legendScore} scoreBLabel="Leyenda"
+                  scoreBThreshold={legendThreshold}
                   meta={`${d.label} · ${p.country}${p.age ? ` · ${p.age} años` : ""}`} note={p.note} logo={p.logo} />
               ))}
             </div>
@@ -270,12 +283,15 @@ function IndividualSport({ data, label, intro, masthead = "Ranking y leyendas", 
             <div className="newsletter-list">
               {d.LEGENDS.map(l => (
                 <NewsletterRankRow key={l.id} rank={l.rank} item={l} alive={new Set()}
-                  score={l.legendScore} scoreLabel="Leyenda" meta={`${l.era} · ${l.country}`} note={l.note} logo={l.logo} />
+                  score={l.legendScore} scoreLabel="Leyenda" threshold={legendThreshold}
+                  legendActive={l.active}
+                  meta={`${l.era} · ${l.country}`} note={l.note} logo={l.logo} />
               ))}
             </div>
           </NewsletterSection>
         </React.Fragment>
-      ))}
+        );
+      })}
     </>
   );
 }
@@ -4298,7 +4314,9 @@ function NewsletterApp() {
                 </div>
               </header>
 
-              {(F.EVENTS || []).map(ev => (
+              {(F.EVENTS || []).map(ev => {
+                const legendThreshold = Math.max(1, Math.round(Math.min(...(ev.LEGENDS || []).map(l => l.legendScore || 0))));
+                return (
                 <React.Fragment key={ev.id}>
                   <NewsletterSection
                     kicker={`${ev.weapon} ${weaponLabel[ev.gender] || ""} · Ranking`}
@@ -4316,6 +4334,7 @@ function NewsletterApp() {
                           scoreLabel="Nivel"
                           scoreB={f.legendScore}
                           scoreBLabel="Leyenda"
+                          scoreBThreshold={legendThreshold}
                           meta={`${ev.weapon} · ${f.country} · ${f.age} años`}
                           note={f.note}
                           logo={f.logo}
@@ -4338,6 +4357,8 @@ function NewsletterApp() {
                           alive={new Set()}
                           score={l.legendScore}
                           scoreLabel="Leyenda"
+                          threshold={legendThreshold}
+                          legendActive={l.active}
                           meta={`${l.era} · ${l.country}`}
                           note={`${l.olympicGold} oro${l.olympicGold === 1 ? "" : "s"} olímpico${l.olympicGold === 1 ? "" : "s"} · ${l.worldGold} Mundial${l.worldGold === 1 ? "" : "es"}. ${l.note}`}
                           logo={l.logo}
@@ -4346,7 +4367,8 @@ function NewsletterApp() {
                     </div>
                   </NewsletterSection>
                 </React.Fragment>
-              ))}
+                );
+              })}
 
               {(F.ROAD_TO_GLORY || []).length > 0 && (
                 <NewsletterSection
@@ -4462,7 +4484,9 @@ function NewsletterApp() {
                 </NewsletterSection>
               )}
 
-              {(B.DISCIPLINES || []).map(d => (
+              {(B.DISCIPLINES || []).map(d => {
+                const legendThreshold = Math.max(1, Math.round(Math.min(...(d.LEGENDS || []).map(l => l.legendScore || 0))));
+                return (
                 <React.Fragment key={d.id}>
                   <NewsletterSection
                     kicker={`${d.label} · Ranking`}
@@ -4480,6 +4504,7 @@ function NewsletterApp() {
                           scoreLabel="Nivel"
                           scoreB={p.legendScore}
                           scoreBLabel="Leyenda"
+                          scoreBThreshold={legendThreshold}
                           meta={`${d.label} · ${p.country} · ${p.age} años`}
                           note={p.note}
                           logo={p.logo}
@@ -4502,6 +4527,8 @@ function NewsletterApp() {
                           alive={new Set()}
                           score={l.legendScore}
                           scoreLabel="Leyenda"
+                          threshold={legendThreshold}
+                          legendActive={l.active}
                           meta={`${l.era} · ${l.country}`}
                           note={`${l.olympicGold} oro${l.olympicGold === 1 ? "" : "s"} · ${l.worldGold} Mundial${l.worldGold === 1 ? "" : "es"} · ${l.allEngland} All England. ${l.note}`}
                           logo={l.logo}
@@ -4510,7 +4537,8 @@ function NewsletterApp() {
                     </div>
                   </NewsletterSection>
                 </React.Fragment>
-              ))}
+                );
+              })}
             </>
           );
         })()}
