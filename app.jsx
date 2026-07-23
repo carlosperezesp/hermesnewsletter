@@ -299,6 +299,13 @@ function SectionIcon({ type }) {
         <circle cx="20" cy="20" r="1.3" {...common} />
       </>
     ),
+    badminton: (
+      <>
+        <circle cx="8" cy="8" r="5" {...common} />
+        <path d="M11.5 11.5L19 19" {...common} />
+        <path d="M15 3.5l4.5 1.5L18 9.5z" {...common} />
+      </>
+    ),
     motogp: (
       <>
         <circle cx="12" cy="11" r="7" {...common} />
@@ -991,6 +998,7 @@ function NewsletterApp() {
       { id: "cricket", label: "Cricket", icon: "cricket", data: window.CRICKET_DATA },
       { id: "athletics", label: "Atletismo", icon: "athletics", data: window.ATHLETICS_DATA },
       { id: "fencing", label: "Esgrima", icon: "fencing", data: window.FENCING_DATA },
+      { id: "badminton", label: "Bádminton", icon: "badminton", data: window.BADMINTON_DATA },
     ].filter(section => !!section.data).map(section => ({
       ...section,
       ...sectionActivity(section.id, section.data),
@@ -4288,6 +4296,120 @@ function NewsletterApp() {
                   </div>
                 </NewsletterSection>
               )}
+            </>
+          );
+        })()}
+        </div>
+
+        <div data-section="badminton" style={sectionStyle("badminton", window.BADMINTON_DATA?.IMPORTANCE || 8)}>
+        {/* ── BÁDMINTON ────────────────────────────────────── */}
+        {window.BADMINTON_DATA && (() => {
+          const B = window.BADMINTON_DATA;
+          const last = B.LAST_TOURNAMENT || {};
+          const next = B.NEXT_TOURNAMENT || {};
+          const personRow = (p, i, metaText) => (
+            <div key={p.id + i} className="newsletter-row">
+              <span className="newsletter-row__rank">{metaText === "champ" ? "🏆" : String(i + 1).padStart(2, "0")}</span>
+              <span className="newsletter-row__identity" style={{ flex: 1, display: "flex", alignItems: "center", gap: 8 }}>
+                {p.logo && <img src={p.logo} alt="" width={18} height={13} style={{ borderRadius: 1, objectFit: "cover", flexShrink: 0 }} />}
+                <span className="newsletter-row__copy">
+                  <span className="newsletter-row__name">{p.name}</span>
+                  <span className="newsletter-row__meta">{metaText === "champ" ? `${p.discipline} · ${p.country}` : `Favorito · ${p.country}`}</span>
+                </span>
+              </span>
+            </div>
+          );
+          return (
+            <>
+              <header className="newsletter-hero" style={{ marginTop: 48 }}>
+                <div className="newsletter-hero__masthead">
+                  <span>Bádminton</span>
+                  <span>BWF · Ranking y leyendas</span>
+                  <span>Actualizado {B.UPDATED}</span>
+                </div>
+                <div className="newsletter-hero__title-row">
+                  <h1>Bádminton</h1>
+                  <p>
+                    Individual masculino y femenino: top actual (Nivel) y leyendas
+                    (Leyenda). Y los torneos importantes que mueven los rankings —
+                    último y próximo.
+                  </p>
+                </div>
+              </header>
+
+              {last.name && (
+                <NewsletterSection
+                  kicker={`Último torneo · ${last.level || ""}`}
+                  title={`${last.name} — ${last.location || ""}`}
+                  sub={`Campeones · ${last.endLabel || ""}.`}
+                >
+                  <div className="newsletter-list">
+                    {(last.champions || []).map((c, i) => personRow(c, i, "champ"))}
+                  </div>
+                </NewsletterSection>
+              )}
+
+              {next.name && (
+                <NewsletterSection
+                  kicker={`Próximo torneo · ${next.level || ""}`}
+                  title={`${next.name} — ${next.location || ""}`}
+                  sub={`Empieza en ${next.daysToStart} día${next.daysToStart === 1 ? "" : "s"} · ${next.startLabel || ""}–${next.endLabel || ""}${next.defending ? `. Defiende: ${next.defending}` : ""}. Favoritos:`}
+                >
+                  <div className="newsletter-list">
+                    {(next.favorites || []).map((f, i) => personRow(f, i, "fav"))}
+                  </div>
+                </NewsletterSection>
+              )}
+
+              {(B.DISCIPLINES || []).map(d => (
+                <React.Fragment key={d.id}>
+                  <NewsletterSection
+                    kicker={`${d.label} · Ranking`}
+                    title={`${d.label} — Score activo`}
+                    sub="Fuerza actual (ranking BWF). Nivel = forma; Leyenda = palmarés histórico."
+                  >
+                    <div className="newsletter-list">
+                      {d.RANKING.map(p => (
+                        <NewsletterRankRow
+                          key={p.id}
+                          rank={p.rank}
+                          item={p}
+                          alive={new Set()}
+                          score={p.activeScore}
+                          scoreLabel="Nivel"
+                          scoreB={p.legendScore}
+                          scoreBLabel="Leyenda"
+                          meta={`${d.label} · ${p.country} · ${p.age} años`}
+                          note={p.note}
+                          logo={p.logo}
+                        />
+                      ))}
+                    </div>
+                  </NewsletterSection>
+
+                  <NewsletterSection
+                    kicker={`${d.label} · Leyendas`}
+                    title={`${d.label} — Leyendas`}
+                    sub="Dominancia histórica: oros olímpicos (×12) + Mundiales (×6) + All England (×3) + semanas nº1, normalizado a 100. Incluye activos que ya lo merecen."
+                  >
+                    <div className="newsletter-list">
+                      {d.LEGENDS.map(l => (
+                        <NewsletterRankRow
+                          key={l.id}
+                          rank={l.rank}
+                          item={l}
+                          alive={new Set()}
+                          score={l.legendScore}
+                          scoreLabel="Leyenda"
+                          meta={`${l.era} · ${l.country}`}
+                          note={`${l.olympicGold} oro${l.olympicGold === 1 ? "" : "s"} · ${l.worldGold} Mundial${l.worldGold === 1 ? "" : "es"} · ${l.allEngland} All England. ${l.note}`}
+                          logo={l.logo}
+                        />
+                      ))}
+                    </div>
+                  </NewsletterSection>
+                </React.Fragment>
+              ))}
             </>
           );
         })()}
