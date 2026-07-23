@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-23 14:53 UTC
+// Auto-generated 2026-07-23 15:34 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-07-23 14:53 UTC",
+  "UPDATED": "2026-07-23 15:34 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -693,22 +693,22 @@ window.CYCLING_DATA = {
     "name": "Tour de France",
     "start": "2026-07-04",
     "end": "2026-07-27",
-    "stage": 17,
+    "stage": 18,
     "total_stages": 21,
     "jersey_primary": "#FFD700",
     "jersey_name": "Maillot Jaune",
     "last_stage": {
-      "stage": 17,
-      "date": "22 July",
-      "type": "Flat stage",
+      "stage": 18,
+      "date": "23 July",
+      "type": "Mountain stage",
       "dist_km": null,
-      "from": "Chambéry",
-      "to": "Voiron",
+      "from": "Voiron",
+      "to": "Orcières-Merlette",
       "completed": true,
-      "winner": "Jasper Philipsen",
-      "winner_cc": "BEL",
-      "winner_primary": "#000000",
-      "winner_logo": "https://flagcdn.com/24x18/be.png"
+      "winner": "Richard Carapaz",
+      "winner_cc": "ECU",
+      "winner_primary": "#FFD100",
+      "winner_logo": "https://flagcdn.com/24x18/ec.png"
     },
     "next_stage": {
       "stage": 1,
