@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-07-22 21:33 UTC",
+  "UPDATED": "2026-07-23 07:47 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1562,
+    "matches": 1561,
     "archives": [
       {
         "name": "Tests",
@@ -37,7 +37,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "MLC",
-        "matches": 69
+        "matches": 68
       }
     ],
     "note": "Daily-after-results model: no live scores, recalculates from completed Cricsheet scorecards."
@@ -228,15 +228,15 @@ window.CRICKET_DATA = {
       "name": "MJ Henry",
       "role": "Bowler",
       "score": 89.7,
-      "legendScore": 68.4,
+      "legendScore": 68.3,
       "stats": {
         "test": 83.7,
         "odi": 89.9,
         "t20": 98.0,
-        "franchise": 87.2,
+        "franchise": 87.5,
         "runs": 108,
         "wickets": 106,
-        "matches": 44
+        "matches": 43
       },
       "formatScores": {
         "test": {
@@ -255,9 +255,9 @@ window.CRICKET_DATA = {
           "bowling": 97.2
         },
         "franchise": {
-          "overall": 51.1,
+          "overall": 51.2,
           "batting": 6.7,
-          "bowling": 86.1
+          "bowling": 86.4
         }
       },
       "country": "New Zealand",
@@ -856,7 +856,7 @@ window.CRICKET_DATA = {
           "batting": 54.6,
           "bowling": 4.8,
           "overall": 30.5,
-          "runs": 2890,
+          "runs": 2834,
           "wickets": 9
         }
       ],
@@ -2570,10 +2570,10 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 90.7,
-          "batting": 7.8,
-          "bowling": 90.7,
-          "overall": 56.6,
+          "score": 90.8,
+          "batting": 7.9,
+          "bowling": 90.8,
+          "overall": 57.0,
           "runs": 161,
           "wickets": 121
         },
@@ -2588,10 +2588,10 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 86.1,
+          "score": 86.4,
           "batting": 6.7,
-          "bowling": 86.1,
-          "overall": 51.1,
+          "bowling": 86.4,
+          "overall": 51.2,
           "runs": 108,
           "wickets": 106
         },
@@ -3406,15 +3406,15 @@ window.CRICKET_DATA = {
         "name": "MJ Henry",
         "role": "Bowler",
         "score": 89.7,
-        "legendScore": 68.4,
+        "legendScore": 68.3,
         "stats": {
           "test": 83.7,
           "odi": 89.9,
           "t20": 98.0,
-          "franchise": 87.2,
+          "franchise": 87.5,
           "runs": 108,
           "wickets": 106,
-          "matches": 44
+          "matches": 43
         },
         "formatScores": {
           "test": {
@@ -3433,9 +3433,9 @@ window.CRICKET_DATA = {
             "bowling": 97.2
           },
           "franchise": {
-            "overall": 51.1,
+            "overall": 51.2,
             "batting": 6.7,
-            "bowling": 86.1
+            "bowling": 86.4
           }
         },
         "country": "New Zealand",

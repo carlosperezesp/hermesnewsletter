@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-23 07:21 UTC
+// Auto-generated 2026-07-23 07:45 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-23 07:21 UTC",
+  "UPDATED": "2026-07-23 07:45 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -1091,7 +1091,7 @@ window.GOLF_DATA = {
       },
       "gapToTop10": 31.8,
       "note": "A 31.8 del top 10 histórico",
-      "prevRank": null
+      "prevRank": 6
     },
     {
       "id": "cameron_young",
@@ -1114,7 +1114,7 @@ window.GOLF_DATA = {
         "fedexRank": 3,
         "tour": "PGA"
       },
-      "prevRank": 6,
+      "prevRank": 7,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     },
@@ -1139,7 +1139,7 @@ window.GOLF_DATA = {
         "fedexRank": 5,
         "tour": "PGA"
       },
-      "prevRank": 7,
+      "prevRank": 8,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     },
@@ -1164,7 +1164,7 @@ window.GOLF_DATA = {
         "fedexRank": 7,
         "tour": "PGA"
       },
-      "prevRank": 8,
+      "prevRank": 9,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     },
@@ -1189,7 +1189,7 @@ window.GOLF_DATA = {
         "fedexRank": 8,
         "tour": "PGA"
       },
-      "prevRank": 9,
+      "prevRank": 10,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     }

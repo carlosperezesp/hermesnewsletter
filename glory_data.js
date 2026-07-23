@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-22 22:30 UTC",
+  "UPDATED": "2026-07-23 07:47 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Nashville:Álex Palou",
@@ -121,13 +121,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-20"
     },
     {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Ben Rice",
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Willson Contreras",
       "sport": "mlb",
       "detail": "MLB",
       "anchor": "mlb-road-to-glory",
-      "text": "Ben Rice entra en el top-10 · Road to Glory",
+      "text": "Willson Contreras entra en el top-10 · Road to Glory",
       "weight": 84,
-      "firstSeen": "2026-07-22"
+      "firstSeen": "2026-07-23"
     },
     {
       "id": "rank:football:ROAD_TO_GLORY.dynasties:era:in:Uruguay (1924-1930)",
@@ -377,7 +377,7 @@ window.GLORY_DATA = {
       "Kyle Schwarber",
       "Jacob Misiorowski",
       "Chris Sale",
-      "Ben Rice"
+      "Willson Contreras"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -387,18 +387,18 @@ window.GLORY_DATA = {
       "New York Yankees",
       "Philadelphia Phillies",
       "Seattle Mariners",
-      "San Diego Padres",
       "Baltimore Orioles",
+      "San Diego Padres",
       "New York Mets"
     ],
     "mlb:ROAD_TO_GLORY.youngProspects": [
       "Jacob Misiorowski",
       "James Wood",
-      "Jordan Walker",
       "Sal Stewart",
-      "Pete Crow-Armstrong",
+      "Jordan Walker",
       "CJ Abrams",
       "Junior Caminero",
+      "Pete Crow-Armstrong",
       "Chase Burns",
       "Nick Kurtz",
       "Cam Schlittler"

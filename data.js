@@ -14169,7 +14169,7 @@ window.NHL_DATA = {
       "name": "Dmitry Orlov",
       "pos": "D",
       "teamCode": "SJS",
-      "age": 34,
+      "age": 35,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
@@ -14498,7 +14498,7 @@ window.NHL_DATA = {
       "name": "Kasperi Kapanen",
       "pos": "RW",
       "teamCode": "EDM",
-      "age": 29,
+      "age": 30,
       "country": "Finland",
       "birthCountry": "FIN",
       "colors": {
@@ -16863,9 +16863,9 @@ window.NHL_DATA = {
       "name": "Nico Daws",
       "pos": "G",
       "teamCode": "NJD",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 25,
+      "country": "Germany",
+      "birthCountry": "DEU",
       "colors": {
         "primary": "#ce1126",
         "secondary": "#111111"
@@ -23721,9 +23721,9 @@ window.NHL_DATA = {
       "name": "Lenni Hameenaho",
       "pos": "RW",
       "teamCode": "NJD",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 21,
+      "country": "Finland",
+      "birthCountry": "FIN",
       "colors": {
         "primary": "#ce1126",
         "secondary": "#111111"
@@ -47977,10 +47977,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-22 22:28 UTC",
+  "LAST_UPDATE": "2026-07-23 07:44 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-22T22:28:15Z"
+    "standingsDateTimeUtc": "2026-07-23T07:44:00Z"
   }
 };
