@@ -397,6 +397,13 @@ function SectionIcon({ type }) {
         <circle cx="12" cy="12" r="1" {...common} />
       </>
     ),
+    tabletennis: (
+      <>
+        <circle cx="10" cy="10" r="6" {...common} />
+        <path d="M14 14l4.5 5.5" {...common} />
+        <circle cx="18" cy="6" r="1.4" {...common} />
+      </>
+    ),
     motogp: (
       <>
         <circle cx="12" cy="11" r="7" {...common} />
@@ -1092,6 +1099,7 @@ function NewsletterApp() {
       { id: "badminton", label: "Bádminton", icon: "badminton", data: window.BADMINTON_DATA },
       { id: "snooker", label: "Snooker", icon: "snooker", data: window.SNOOKER_DATA },
       { id: "darts", label: "Dardos", icon: "darts", data: window.DARTS_DATA },
+      { id: "tabletennis", label: "Tenis de mesa", icon: "tabletennis", data: window.TABLETENNIS_DATA },
     ].filter(section => !!section.data).map(section => ({
       ...section,
       ...sectionActivity(section.id, section.data),
@@ -4532,6 +4540,20 @@ function NewsletterApp() {
             tourWord="torneo"
             intro="Top actual de la PDC (Nivel) y leyendas por palmarés (Leyenda). Más el último y el próximo gran torneo del circuito."
             legendSub="Palmarés: títulos mundiales (×10) + otros majors televisados (×0.5), normalizado a 100 = el más grande. Incluye activos que ya lo merecen."
+          />
+        )}
+        </div>
+
+        <div data-section="tabletennis" style={sectionStyle("tabletennis", window.TABLETENNIS_DATA?.IMPORTANCE || 7)}>
+        {/* ── TENIS DE MESA ────────────────────────────────── */}
+        {window.TABLETENNIS_DATA && (
+          <IndividualSport
+            data={window.TABLETENNIS_DATA}
+            label="Tenis de mesa"
+            masthead="WTT · Ranking y leyendas"
+            tourWord="torneo"
+            intro="Individual masculino y femenino: top actual (Nivel) y leyendas (Leyenda). Más el último y el próximo gran torneo del circuito WTT."
+            legendSub="Palmarés: oro olímpico individual (×12) + Mundial individual (×7) + Copa del Mundo (×3), normalizado a 100. Incluye activos que ya lo merecen."
           />
         )}
         </div>
