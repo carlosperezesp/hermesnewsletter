@@ -1,7 +1,11 @@
-// Auto-generated 2026-07-23 19:41 UTC
+// Auto-generated 2026-07-23 19:57 UTC
 window.SNOOKER_DATA = {
-  "UPDATED": "2026-07-23 19:41 UTC",
+  "UPDATED": "2026-07-23 19:57 UTC",
   "SEASON": "Temporada 2025/26",
+  "SOURCE": {
+    "name": "Palmarés real (Wikipedia: Triple Corona snooker)",
+    "note": "Títulos de Mundial + UK + Masters descargados y contados automáticamente; ranking de forma curado."
+  },
   "LAST_TOURNAMENT": {
     "name": "Campeonato del Mundo",
     "level": "Triple Corona",
@@ -99,7 +103,7 @@ window.SNOOKER_DATA = {
           "rank": 1,
           "age": 37,
           "activeScore": 100,
-          "legendScore": 28.5,
+          "legendScore": 19.4,
           "note": "Nº1 del ranking mundial"
         },
         {
@@ -144,7 +148,7 @@ window.SNOOKER_DATA = {
           "rank": 4,
           "age": 29,
           "activeScore": 90,
-          "legendScore": 10.0,
+          "legendScore": 10.4,
           "note": "Campeón del mundo 2025"
         },
         {
@@ -159,7 +163,7 @@ window.SNOOKER_DATA = {
           "rank": 5,
           "age": 51,
           "activeScore": 87,
-          "legendScore": 40.8,
+          "legendScore": 34.3,
           "note": "Tricampeón del mundo, aún en la élite"
         },
         {
@@ -174,7 +178,7 @@ window.SNOOKER_DATA = {
           "rank": 6,
           "age": 51,
           "activeScore": 84,
-          "legendScore": 49.2,
+          "legendScore": 44.8,
           "note": "Cuádruple campeón del mundo"
         },
         {
@@ -189,7 +193,7 @@ window.SNOOKER_DATA = {
           "rank": 7,
           "age": 44,
           "activeScore": 82,
-          "legendScore": 19.4,
+          "legendScore": 22.4,
           "note": "Campeón del mundo 2010"
         },
         {
@@ -204,7 +208,7 @@ window.SNOOKER_DATA = {
           "rank": 8,
           "age": 43,
           "activeScore": 80,
-          "legendScore": 45.3,
+          "legendScore": 47.8,
           "note": "Cuádruple campeón del mundo"
         }
       ],
@@ -218,10 +222,13 @@ window.SNOOKER_DATA = {
             "primary": "#CE1124",
             "secondary": "#FFFFFF"
           },
-          "era": "1993-presente",
+          "era": "en activo",
+          "worldTitles": 7,
+          "ukTitles": 8,
+          "mastersTitles": 8,
           "legendScore": 100.0,
-          "note": "7 Mundiales · 8 UK · 8 Masters. Récord de 41 títulos de ranking y de Triple Coronas; genio irrepetible.",
-          "active": false,
+          "note": "7 Mundiales · 8 UK · 8 Masters. 'The Rocket': récord absoluto de Triple Coronas; genio irrepetible.",
+          "active": true,
           "rank": 1
         },
         {
@@ -233,8 +240,11 @@ window.SNOOKER_DATA = {
             "primary": "#005EB8",
             "secondary": "#FFFFFF"
           },
-          "era": "1990-1999",
-          "legendScore": 85.4,
+          "era": "—",
+          "worldTitles": 7,
+          "ukTitles": 5,
+          "mastersTitles": 6,
+          "legendScore": 85.1,
           "note": "7 Mundiales · 5 UK · 6 Masters. Dominó los 90 con siete Mundiales; el más precoz.",
           "active": false,
           "rank": 2
@@ -248,26 +258,14 @@ window.SNOOKER_DATA = {
             "primary": "#CE1124",
             "secondary": "#FFFFFF"
           },
-          "era": "1981-1989",
-          "legendScore": 71.2,
+          "era": "—",
+          "worldTitles": 6,
+          "ukTitles": 6,
+          "mastersTitles": 3,
+          "legendScore": 71.6,
           "note": "6 Mundiales · 6 UK · 3 Masters. El icono de los 80 que llevó el snooker a la tele.",
           "active": false,
           "rank": 3
-        },
-        {
-          "id": "john_higgins",
-          "name": "John Higgins",
-          "country": "SCO",
-          "logo": "https://flagcdn.com/24x18/gb-sct.png",
-          "colors": {
-            "primary": "#005EB8",
-            "secondary": "#FFFFFF"
-          },
-          "era": "1998-2011",
-          "legendScore": 49.2,
-          "note": "4 Mundiales · 3 UK · 2 Masters. 'El Mago': uno de los constructores de tacadas más brillantes.",
-          "active": false,
-          "rank": 4
         },
         {
           "id": "mark_selby",
@@ -278,26 +276,32 @@ window.SNOOKER_DATA = {
             "primary": "#CE1124",
             "secondary": "#FFFFFF"
           },
-          "era": "2014-2021",
-          "legendScore": 45.3,
-          "note": "4 Mundiales · 2 UK · 3 Masters. 'El Torturador': cuatro Mundiales a base de táctica.",
-          "active": false,
-          "rank": 5
+          "era": "en activo",
+          "worldTitles": 4,
+          "ukTitles": 3,
+          "mastersTitles": 3,
+          "legendScore": 47.8,
+          "note": "4 Mundiales · 3 UK · 3 Masters. 'El Torturador': cuatro Mundiales a base de táctica.",
+          "active": true,
+          "rank": 4
         },
         {
-          "id": "ray_reardon",
-          "name": "Ray Reardon",
-          "country": "WAL",
-          "logo": "https://flagcdn.com/24x18/gb-wls.png",
+          "id": "john_higgins",
+          "name": "John Higgins",
+          "country": "SCO",
+          "logo": "https://flagcdn.com/24x18/gb-sct.png",
           "colors": {
-            "primary": "#C8102E",
+            "primary": "#005EB8",
             "secondary": "#FFFFFF"
           },
-          "era": "1970-1978",
-          "legendScore": 41.4,
-          "note": "6 Mundiales · 0 UK · 1 Masters. 'Drácula': seis Mundiales en la era pre-Crucible moderna.",
-          "active": false,
-          "rank": 6
+          "era": "en activo",
+          "worldTitles": 4,
+          "ukTitles": 3,
+          "mastersTitles": 2,
+          "legendScore": 44.8,
+          "note": "4 Mundiales · 3 UK · 2 Masters. 'El Mago': uno de los constructores de tacadas más brillantes.",
+          "active": true,
+          "rank": 5
         },
         {
           "id": "mark_williams",
@@ -308,26 +312,14 @@ window.SNOOKER_DATA = {
             "primary": "#C8102E",
             "secondary": "#FFFFFF"
           },
-          "era": "2000-2018",
-          "legendScore": 40.8,
-          "note": "3 Mundiales · 3 UK · 2 Masters. Zurdo letal con dos décadas en la cima.",
-          "active": false,
-          "rank": 7
-        },
-        {
-          "id": "judd_trump",
-          "name": "Judd Trump",
-          "country": "ENG",
-          "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "colors": {
-            "primary": "#CE1124",
-            "secondary": "#FFFFFF"
-          },
-          "era": "2019-presente",
-          "legendScore": 28.5,
-          "note": "1 Mundial · 3 UK · 2 Masters. El más completo de su generación; ataque total.",
-          "active": false,
-          "rank": 8
+          "era": "en activo",
+          "worldTitles": 3,
+          "ukTitles": 2,
+          "mastersTitles": 2,
+          "legendScore": 34.3,
+          "note": "3 Mundiales · 2 UK · 2 Masters. Zurdo letal con dos décadas en la cima.",
+          "active": true,
+          "rank": 6
         },
         {
           "id": "neil_robertson",
@@ -339,14 +331,17 @@ window.SNOOKER_DATA = {
             "secondary": "#FFFFFF"
           },
           "era": "en activo",
-          "legendScore": 19.4,
-          "note": "1 Mundial · 1 UK · 1 Masters. Campeón del mundo 2010",
+          "worldTitles": 1,
+          "ukTitles": 3,
+          "mastersTitles": 2,
+          "legendScore": 22.4,
+          "note": "1 Mundial · 3 UK · 2 Masters. El mejor jugador no británico de la historia.",
           "active": true,
-          "rank": 9
+          "rank": 7
         },
         {
-          "id": "kyren_wilson",
-          "name": "Kyren Wilson",
+          "id": "judd_trump",
+          "name": "Judd Trump",
           "country": "ENG",
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
           "colors": {
@@ -354,25 +349,121 @@ window.SNOOKER_DATA = {
             "secondary": "#FFFFFF"
           },
           "era": "en activo",
-          "legendScore": 10.4,
-          "note": "1 Mundial · 0 UK · 1 Masters. Campeón del mundo 2024",
+          "worldTitles": 1,
+          "ukTitles": 2,
+          "mastersTitles": 2,
+          "legendScore": 19.4,
+          "note": "1 Mundial · 2 UK · 2 Masters. El más completo de su generación; ataque total.",
           "active": true,
+          "rank": 8
+        },
+        {
+          "id": "alex_higgins",
+          "name": "Alex Higgins",
+          "country": "NIR",
+          "logo": "https://flagcdn.com/24x18/gb-nir.png",
+          "colors": {
+            "primary": "#009A44",
+            "secondary": "#FFFFFF"
+          },
+          "era": "—",
+          "worldTitles": 1,
+          "ukTitles": 1,
+          "mastersTitles": 2,
+          "legendScore": 16.4,
+          "note": "1 Mundial · 1 UK · 2 Masters. 'Huracán': el carisma que popularizó el snooker.",
+          "active": false,
+          "rank": 9
+        },
+        {
+          "id": "cliff_thorburn",
+          "name": "Cliff Thorburn",
+          "country": "CAN",
+          "logo": "",
+          "colors": {
+            "primary": "#4A4745",
+            "secondary": "#FFFFFF"
+          },
+          "era": "—",
+          "worldTitles": 1,
+          "ukTitles": 0,
+          "mastersTitles": 3,
+          "legendScore": 16.4,
+          "note": "1 Mundial · 0 UK · 3 Masters. 'El Nugget': primer campeón del mundo de fuera de las islas.",
+          "active": false,
           "rank": 10
         },
         {
-          "id": "zhao_xintong",
-          "name": "Zhao Xintong",
-          "country": "CHN",
-          "logo": "https://flagcdn.com/24x18/cn.png",
+          "id": "ray_reardon",
+          "name": "Ray Reardon",
+          "country": "WAL",
+          "logo": "https://flagcdn.com/24x18/gb-wls.png",
           "colors": {
-            "primary": "#DE2910",
+            "primary": "#C8102E",
             "secondary": "#FFFFFF"
           },
-          "era": "en activo",
-          "legendScore": 10.0,
-          "note": "1 Mundial · 1 UK · 0 Masters. Campeón del mundo 2025",
-          "active": true,
+          "era": "—",
+          "worldTitles": 1,
+          "ukTitles": 1,
+          "mastersTitles": 2,
+          "legendScore": 16.4,
+          "note": "1 Mundial · 1 UK · 2 Masters. 'Drácula': dominador de los 70 (seis Mundiales, dos previos a la Triple Corona).",
+          "active": false,
           "rank": 11
+        },
+        {
+          "id": "shaun_murphy",
+          "name": "Shaun Murphy",
+          "country": "ENG",
+          "logo": "https://flagcdn.com/24x18/gb-eng.png",
+          "colors": {
+            "primary": "#CE1124",
+            "secondary": "#FFFFFF"
+          },
+          "era": "—",
+          "worldTitles": 1,
+          "ukTitles": 1,
+          "mastersTitles": 2,
+          "legendScore": 16.4,
+          "note": "1 Mundial · 1 UK · 2 Masters. Campeón del mundo 2005 saliendo de la fase previa.",
+          "active": false,
+          "rank": 12
+        },
+        {
+          "id": "john_spencer",
+          "name": "John Spencer",
+          "country": "ENG",
+          "logo": "https://flagcdn.com/24x18/gb-eng.png",
+          "colors": {
+            "primary": "#CE1124",
+            "secondary": "#FFFFFF"
+          },
+          "era": "—",
+          "worldTitles": 1,
+          "ukTitles": 1,
+          "mastersTitles": 1,
+          "legendScore": 13.4,
+          "note": "1 Mundial · 1 UK · 1 Masters. Triple Corona: 1 Mundial · 1 UK · 1 Masters.",
+          "active": false,
+          "rank": 13
+        },
+        {
+          "id": "terry_griffiths",
+          "name": "Terry Griffiths",
+          "country": "WAL",
+          "logo": "https://flagcdn.com/24x18/gb-wls.png",
+          "colors": {
+            "primary": "#C8102E",
+            "secondary": "#FFFFFF"
+          },
+          "era": "—",
+          "worldTitles": 1,
+          "ukTitles": 1,
+          "mastersTitles": 1,
+          "legendScore": 13.4,
+          "note": "1 Mundial · 1 UK · 1 Masters. Triple Corona: 1 Mundial · 1 UK · 1 Masters.",
+          "active": false,
+          "rank": 14
         }
       ]
     }
