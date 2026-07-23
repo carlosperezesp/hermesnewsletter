@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-23 21:31 UTC
+// Auto-generated 2026-07-23 22:29 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-23 21:31 UTC",
+  "UPDATED": "2026-07-23 22:29 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -9251,7 +9251,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Palermo Ladies Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 44.6
@@ -11450,7 +11450,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Dalila Spiteri",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 42.8,
@@ -11761,7 +11761,7 @@ window.TENNIS_DATA = {
       "Yuan Yue"
     ],
     "aliveCount": 48,
-    "matchesSeen": 83
+    "matchesSeen": 84
   },
   "ATP_SCORE_LOG": {
     "206173": [
