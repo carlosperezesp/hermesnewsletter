@@ -1236,12 +1236,12 @@ window.MLB_DATA = {
       "score": 79,
       "stats": {
         "type": "batting",
-        "ab": 359,
+        "ab": 360,
         "hr": 22,
         "rbi": 60,
-        "avg": 0.284,
+        "avg": 0.283,
         "sb": 6,
-        "ops": 0.919
+        "ops": 0.917
       },
       "legendScore": 92.0,
       "currentScore": 100.0,
@@ -2515,36 +2515,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 42360,
-      "name": "Curtis Mead",
-      "first": "Curtis",
-      "last": "Mead",
-      "pos": "3B",
-      "teamCode": "WSH",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42360.png",
-      "colors": {
-        "primary": "#ab0003",
-        "secondary": "#14225a"
-      },
-      "score": 67,
-      "stats": {
-        "type": "batting",
-        "ab": 279,
-        "hr": 17,
-        "rbi": 48,
-        "avg": 0.258,
-        "sb": 6,
-        "ops": 0.858
-      },
-      "legendScore": 39.9,
-      "currentScore": 67,
-      "battingScore": 67,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 35983,
       "name": "Fernando Tatis Jr.",
       "first": "Fernando",
@@ -3706,36 +3676,6 @@ window.MLB_DATA = {
         "avg": 0.19,
         "sb": 14,
         "ops": 0.593
-      },
-      "legendScore": 40.0,
-      "currentScore": 61,
-      "battingScore": 61,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 42135,
-      "name": "Jose Caballero",
-      "first": "Jose",
-      "last": "Caballero",
-      "pos": "SS",
-      "teamCode": "NYY",
-      "age": 29,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42135.png",
-      "colors": {
-        "primary": "#003087",
-        "secondary": "#e4002c"
-      },
-      "score": 61,
-      "stats": {
-        "type": "batting",
-        "ab": 287,
-        "hr": 10,
-        "rbi": 37,
-        "avg": 0.244,
-        "sb": 23,
-        "ops": 0.682
       },
       "legendScore": 40.0,
       "currentScore": 61,
@@ -5399,7 +5339,7 @@ window.MLB_DATA = {
       "name": "Salvador Perez",
       "first": "Salvador",
       "last": "Perez",
-      "pos": "C",
+      "pos": "DH",
       "teamCode": "KC",
       "age": 36,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/31127.png",
@@ -6481,7 +6421,7 @@ window.MLB_DATA = {
       "last": "Collins",
       "pos": "LF",
       "teamCode": "KC",
-      "age": 28,
+      "age": 29,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42959.png",
       "colors": {
         "primary": "#004687",
@@ -6497,7 +6437,7 @@ window.MLB_DATA = {
         "sb": 6,
         "ops": 0.707
       },
-      "legendScore": 30.4,
+      "legendScore": 31.2,
       "currentScore": 45,
       "battingScore": 45,
       "pitchingScore": null,
@@ -7897,7 +7837,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-23 09:03 UTC",
+  "LAST_UPDATE": "2026-07-23 14:53 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

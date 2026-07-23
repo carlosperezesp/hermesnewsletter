@@ -2346,7 +2346,7 @@ window.NBA_DATA = {
       "last": "Ayton",
       "pos": "C",
       "teamCode": "LAL",
-      "age": 27,
+      "age": 28,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4278129.png",
       "colors": {
         "primary": "#552583",
@@ -2362,7 +2362,7 @@ window.NBA_DATA = {
         "blk": 0.8,
         "min": 28.5
       },
-      "legendScore": 44.3
+      "legendScore": 45.3
     },
     {
       "id": 3934673,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-23 09:03 UTC",
+  "LAST_UPDATE": "2026-07-23 14:53 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-23 09:05 UTC",
+  "UPDATED": "2026-07-23 14:56 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Nashville:Álex Palou",
@@ -638,8 +638,8 @@ window.GLORY_DATA = {
       "Brisbane Lions",
       "Adelaide",
       "Melbourne",
-      "Western Bulldogs",
       "Collingwood",
+      "Western Bulldogs",
       "Geelong",
       "St Kilda"
     ],
