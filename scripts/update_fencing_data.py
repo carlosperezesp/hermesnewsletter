@@ -223,8 +223,67 @@ def build_event(ev: dict) -> dict:
             "label": ev["label"], "RANKING": ranking, "LEGENDS": legends}
 
 
+# Títulos individuales (oros olímpicos, oros mundiales) de los ACTIVOS, para medir
+# su cercanía a la leyenda en el Road to Glory. Solo los que ya tienen palmarés.
+CURRENT_TITLES = {
+    "Ka Long Cheung": (2, 0), "Tommaso Marini": (0, 1), "Enzo Lefort": (0, 1),
+    "Koki Kano": (1, 1), "Yannick Borel": (0, 1), "Romain Cannone": (1, 1),
+    "Gergely Siklósi": (0, 1), "Ruben Limardo": (1, 0), "Rossella Fiamingo": (0, 2),
+    "Vivian Kong Man Wai": (1, 0), "Lee Kiefer": (2, 0), "Alice Volpi": (0, 2),
+    "Arianna Errigo": (0, 2), "Sanguk Oh": (1, 0), "Áron Szilágyi": (3, 1),
+    "Sandro Bazadze": (0, 1), "Manon Apithy-Brunet": (1, 0), "Sara Balzer": (0, 1),
+    "Misaki Emura": (0, 1),
+}
+
+
+def build_road_to_glory(events: list[dict]) -> list[dict]:
+    """Activos ordenados por cercanía a las leyendas de SU arma. legendScore =
+    palmarés individual (oros olímpicos ×10 + mundiales ×3.5) normalizado a 100 =
+    mejor de la historia de esa arma; gap = distancia a ese 100."""
+    rows = []
+    for ev_raw, ev in zip(EVENTS_RAW, events):
+        max_raw = max((o * W_OLYMPIC + w * W_WORLD for *_, o, w, _ in ev_raw["legends"]),
+                      default=1.0) or 1.0
+        for name, cc3, age, nivel, note in ev_raw["current"]:
+            oly, wc = CURRENT_TITLES.get(name, (0, 0))
+            legend = round((oly * W_OLYMPIC + wc * W_WORLD) / max_raw * 100, 1)
+            gap = round(max(0.0, 100.0 - legend), 1)
+            row = _base(name, cc3)
+            row.update({
+                "weapon": ev["weapon"], "label": ev["label"], "age": age,
+                "activeScore": nivel, "legendScore": legend,
+                "olympicGold": oly, "worldGold": wc, "gapToLegend": gap,
+                "note": f"{oly} oro{'s' if oly != 1 else ''} olímpico{'s' if oly != 1 else ''} · "
+                        f"{wc} Mundial{'es' if wc != 1 else ''} · "
+                        + ("ya en el olimpo del arma" if gap <= 8 else f"a {gap:.0f} del mejor de la historia"),
+            })
+            rows.append(row)
+    rows.sort(key=lambda r: (-r["legendScore"], -r["activeScore"]))
+    for i, r in enumerate(rows):
+        r["rank"] = i + 1
+    return rows[:12]
+
+
+def build_prospects(max_age: int = 25, top_n: int = 8) -> list[dict]:
+    """Cantera: los más jóvenes que ya asoman en el top de cada prueba."""
+    out = []
+    for ev in EVENTS_RAW:
+        for name, cc3, age, nivel, note in ev["current"]:
+            if age <= max_age:
+                row = _base(name, cc3)
+                row.update({"weapon": ev["weapon"], "age": age, "activeScore": nivel,
+                            "note": f"{note} · promesa a los {age}"})
+                out.append(row)
+    out.sort(key=lambda p: p["activeScore"], reverse=True)
+    out = out[:top_n]
+    for i, p in enumerate(out):
+        p["rank"] = i + 1
+    return out
+
+
 def main() -> None:
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    events = [build_event(ev) for ev in EVENTS_RAW]
     payload = {
         "UPDATED": updated,
         "SEASON": "Temporada 2025/26",
@@ -234,7 +293,9 @@ def main() -> None:
         },
         "SOURCE": {"name": "Snapshot curado (rankings FIE + palmarés histórico)",
                    "note": "Datos curados a mano; ampliable a las 6 pruebas."},
-        "EVENTS": [build_event(ev) for ev in EVENTS_RAW],
+        "EVENTS": events,
+        "ROAD_TO_GLORY": build_road_to_glory(events),
+        "PROSPECTS": build_prospects(),
         "IMPORTANCE": 8.5,
     }
     OUT.write_text(

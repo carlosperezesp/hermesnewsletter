@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-23 09:01 UTC
+// Auto-generated 2026-07-23 10:01 UTC
 window.FENCING_DATA = {
-  "UPDATED": "2026-07-23 09:01 UTC",
+  "UPDATED": "2026-07-23 10:01 UTC",
   "SEASON": "Temporada 2025/26",
   "WORLDS": {
     "name": "Campeonato del Mundo de Esgrima 2026",
@@ -1478,6 +1478,370 @@ window.FENCING_DATA = {
           "rank": 6
         }
       ]
+    }
+  ],
+  "ROAD_TO_GLORY": [
+    {
+      "id": "ron_szil_gyi",
+      "name": "Áron Szilágyi",
+      "country": "HUN",
+      "logo": "https://flagcdn.com/24x18/hu.png",
+      "colors": {
+        "primary": "#436F4D",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Sable",
+      "label": "Sable Masculino",
+      "age": 35,
+      "activeScore": 93,
+      "legendScore": 100.0,
+      "olympicGold": 3,
+      "worldGold": 1,
+      "gapToLegend": 0.0,
+      "note": "3 oros olímpicos · 1 Mundial · ya en el olimpo del arma",
+      "rank": 1
+    },
+    {
+      "id": "ka_long_cheung",
+      "name": "Ka Long Cheung",
+      "country": "HKG",
+      "logo": "https://flagcdn.com/24x18/hk.png",
+      "colors": {
+        "primary": "#DE2910",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Florete",
+      "label": "Florete Masculino",
+      "age": 28,
+      "activeScore": 100,
+      "legendScore": 58.8,
+      "olympicGold": 2,
+      "worldGold": 0,
+      "gapToLegend": 41.2,
+      "note": "2 oros olímpicos · 0 Mundiales · a 41 del mejor de la historia",
+      "rank": 2
+    },
+    {
+      "id": "koki_kano",
+      "name": "Koki Kano",
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "colors": {
+        "primary": "#BC002D",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Espada",
+      "label": "Espada Masculina",
+      "age": 27,
+      "activeScore": 100,
+      "legendScore": 49.1,
+      "olympicGold": 1,
+      "worldGold": 1,
+      "gapToLegend": 50.9,
+      "note": "1 oro olímpico · 1 Mundial · a 51 del mejor de la historia",
+      "rank": 3
+    },
+    {
+      "id": "romain_cannone",
+      "name": "Romain Cannone",
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "colors": {
+        "primary": "#002395",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Espada",
+      "label": "Espada Masculina",
+      "age": 28,
+      "activeScore": 88,
+      "legendScore": 49.1,
+      "olympicGold": 1,
+      "worldGold": 1,
+      "gapToLegend": 50.9,
+      "note": "1 oro olímpico · 1 Mundial · a 51 del mejor de la historia",
+      "rank": 4
+    },
+    {
+      "id": "lee_kiefer",
+      "name": "Lee Kiefer",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "colors": {
+        "primary": "#B22234",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Florete",
+      "label": "Florete Femenino",
+      "age": 32,
+      "activeScore": 100,
+      "legendScore": 39.2,
+      "olympicGold": 2,
+      "worldGold": 0,
+      "gapToLegend": 60.8,
+      "note": "2 oros olímpicos · 0 Mundiales · a 61 del mejor de la historia",
+      "rank": 5
+    },
+    {
+      "id": "manon_apithy_brunet",
+      "name": "Manon Apithy-Brunet",
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "colors": {
+        "primary": "#002395",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Sable",
+      "label": "Sable Femenino",
+      "age": 30,
+      "activeScore": 100,
+      "legendScore": 37.0,
+      "olympicGold": 1,
+      "worldGold": 0,
+      "gapToLegend": 63.0,
+      "note": "1 oro olímpico · 0 Mundiales · a 63 del mejor de la historia",
+      "rank": 6
+    },
+    {
+      "id": "vivian_kong_man_wai",
+      "name": "Vivian Kong Man Wai",
+      "country": "HKG",
+      "logo": "https://flagcdn.com/24x18/hk.png",
+      "colors": {
+        "primary": "#DE2910",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Espada",
+      "label": "Espada Femenina",
+      "age": 31,
+      "activeScore": 96,
+      "legendScore": 37.0,
+      "olympicGold": 1,
+      "worldGold": 0,
+      "gapToLegend": 63.0,
+      "note": "1 oro olímpico · 0 Mundiales · a 63 del mejor de la historia",
+      "rank": 7
+    },
+    {
+      "id": "ruben_limardo",
+      "name": "Ruben Limardo",
+      "country": "VEN",
+      "logo": "https://flagcdn.com/24x18/ve.png",
+      "colors": {
+        "primary": "#CF142B",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Espada",
+      "label": "Espada Masculina",
+      "age": 40,
+      "activeScore": 77,
+      "legendScore": 36.4,
+      "olympicGold": 1,
+      "worldGold": 0,
+      "gapToLegend": 63.6,
+      "note": "1 oro olímpico · 0 Mundiales · a 64 del mejor de la historia",
+      "rank": 8
+    },
+    {
+      "id": "sanguk_oh",
+      "name": "Sanguk Oh",
+      "country": "KOR",
+      "logo": "https://flagcdn.com/24x18/kr.png",
+      "colors": {
+        "primary": "#003478",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Sable",
+      "label": "Sable Masculino",
+      "age": 26,
+      "activeScore": 96,
+      "legendScore": 29.9,
+      "olympicGold": 1,
+      "worldGold": 0,
+      "gapToLegend": 70.1,
+      "note": "1 oro olímpico · 0 Mundiales · a 70 del mejor de la historia",
+      "rank": 9
+    },
+    {
+      "id": "rossella_fiamingo",
+      "name": "Rossella Fiamingo",
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "colors": {
+        "primary": "#009246",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Espada",
+      "label": "Espada Femenina",
+      "age": 34,
+      "activeScore": 80,
+      "legendScore": 25.9,
+      "olympicGold": 0,
+      "worldGold": 2,
+      "gapToLegend": 74.1,
+      "note": "0 oros olímpicos · 2 Mundiales · a 74 del mejor de la historia",
+      "rank": 10
+    },
+    {
+      "id": "alice_volpi",
+      "name": "Alice Volpi",
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "colors": {
+        "primary": "#009246",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Florete",
+      "label": "Florete Femenino",
+      "age": 33,
+      "activeScore": 95,
+      "legendScore": 13.7,
+      "olympicGold": 0,
+      "worldGold": 2,
+      "gapToLegend": 86.3,
+      "note": "0 oros olímpicos · 2 Mundiales · a 86 del mejor de la historia",
+      "rank": 11
+    },
+    {
+      "id": "arianna_errigo",
+      "name": "Arianna Errigo",
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "colors": {
+        "primary": "#009246",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Florete",
+      "label": "Florete Femenino",
+      "age": 38,
+      "activeScore": 92,
+      "legendScore": 13.7,
+      "olympicGold": 0,
+      "worldGold": 2,
+      "gapToLegend": 86.3,
+      "note": "0 oros olímpicos · 2 Mundiales · a 86 del mejor de la historia",
+      "rank": 12
+    }
+  ],
+  "PROSPECTS": [
+    {
+      "id": "tommaso_marini",
+      "name": "Tommaso Marini",
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "colors": {
+        "primary": "#009246",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Florete",
+      "age": 25,
+      "activeScore": 96,
+      "note": "Campeón del mundo 2023 · promesa a los 25",
+      "rank": 1
+    },
+    {
+      "id": "filippo_macchi",
+      "name": "Filippo Macchi",
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "colors": {
+        "primary": "#009246",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Florete",
+      "age": 24,
+      "activeScore": 92,
+      "note": "Plata olímpica 2024 · promesa a los 24",
+      "rank": 2
+    },
+    {
+      "id": "martina_favaretto",
+      "name": "Martina Favaretto",
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "colors": {
+        "primary": "#009246",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Florete",
+      "age": 24,
+      "activeScore": 89,
+      "note": "Nº1 del ranking FIE · promesa a los 24",
+      "rank": 3
+    },
+    {
+      "id": "lauren_scruggs",
+      "name": "Lauren Scruggs",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "colors": {
+        "primary": "#B22234",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Florete",
+      "age": 22,
+      "activeScore": 85,
+      "note": "Plata olímpica 2024 · promesa a los 22",
+      "rank": 4
+    },
+    {
+      "id": "sera_song",
+      "name": "Sera Song",
+      "country": "KOR",
+      "logo": "https://flagcdn.com/24x18/kr.png",
+      "colors": {
+        "primary": "#003478",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Espada",
+      "age": 25,
+      "activeScore": 83,
+      "note": "Potencia coreana emergente · promesa a los 25",
+      "rank": 5
+    },
+    {
+      "id": "sebin_choi",
+      "name": "Sebin Choi",
+      "country": "KOR",
+      "logo": "https://flagcdn.com/24x18/kr.png",
+      "colors": {
+        "primary": "#003478",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Sable",
+      "age": 25,
+      "activeScore": 80,
+      "note": "Potencia coreana emergente · promesa a los 25",
+      "rank": 6
+    },
+    {
+      "id": "colin_heathcock",
+      "name": "Colin Heathcock",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "colors": {
+        "primary": "#B22234",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Sable",
+      "age": 21,
+      "activeScore": 78,
+      "note": "Joven campeón del mundo júnior · promesa a los 21",
+      "rank": 7
+    },
+    {
+      "id": "elizabeth_tartakovsky",
+      "name": "Elizabeth Tartakovsky",
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "colors": {
+        "primary": "#B22234",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Sable",
+      "age": 24,
+      "activeScore": 76,
+      "note": "Joven referente estadounidense · promesa a los 24",
+      "rank": 8
     }
   ],
   "IMPORTANCE": 8.5

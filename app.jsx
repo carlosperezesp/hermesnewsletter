@@ -4236,6 +4236,56 @@ function NewsletterApp() {
                   </NewsletterSection>
                 </React.Fragment>
               ))}
+
+              {(F.ROAD_TO_GLORY || []).length > 0 && (
+                <NewsletterSection
+                  anchor="fencing-road"
+                  kicker="Esgrima · Road to Glory"
+                  title="Camino a la leyenda"
+                  sub="Activos ordenados por palmarés individual (oros olímpicos + Mundiales), normalizado al mejor de la historia de su arma. El futuro Elo afinaría esto con los asaltos."
+                >
+                  <div className="newsletter-list">
+                    {F.ROAD_TO_GLORY.map(r => (
+                      <NewsletterRankRow
+                        key={`rtg-${r.id}`}
+                        rank={r.rank}
+                        item={r}
+                        alive={new Set()}
+                        score={r.legendScore}
+                        scoreLabel="Leyenda"
+                        meta={`${r.weapon} · ${r.country} · ${r.age} años`}
+                        note={r.note}
+                        logo={r.logo}
+                      />
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
+
+              {(F.PROSPECTS || []).length > 0 && (
+                <NewsletterSection
+                  anchor="fencing-cantera"
+                  kicker="Esgrima · Cantera"
+                  title="Jóvenes promesa"
+                  sub="Los más jóvenes que ya asoman en el top de las distintas pruebas."
+                >
+                  <div className="newsletter-list">
+                    {F.PROSPECTS.map(p => (
+                      <NewsletterRankRow
+                        key={`can-${p.id}`}
+                        rank={p.rank}
+                        item={p}
+                        alive={new Set()}
+                        score={p.activeScore}
+                        scoreLabel="Nivel"
+                        meta={`${p.weapon} · ${p.country} · ${p.age} años`}
+                        note={p.note}
+                        logo={p.logo}
+                      />
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
             </>
           );
         })()}
