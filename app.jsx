@@ -4205,6 +4205,8 @@ function NewsletterApp() {
                           alive={new Set()}
                           score={f.activeScore}
                           scoreLabel="Nivel"
+                          scoreB={f.legendScore}
+                          scoreBLabel="Leyenda"
                           meta={`${ev.weapon} · ${f.country} · ${f.age} años`}
                           note={f.note}
                           logo={f.logo}

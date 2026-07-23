@@ -197,17 +197,20 @@ EVENTS_RAW = [
 
 
 def build_event(ev: dict) -> dict:
+    # Normalización de leyenda del arma (100 = mejor de la historia), para dar a
+    # cada ACTIVO también su score leyenda por lo que ya ha ganado (como en tenis).
+    scored = [(oly * W_OLYMPIC + wc * W_WORLD, name, cc3, era, oly, wc, note)
+              for name, cc3, era, oly, wc, note in ev["legends"]]
+    max_raw = max((r[0] for r in scored), default=1.0) or 1.0
+
     ranking = []
     for i, (name, cc3, age, nivel, note) in enumerate(ev["current"]):
+        oly, wc = CURRENT_TITLES.get(name, (0, 0))
+        legend = round((oly * W_OLYMPIC + wc * W_WORLD) / max_raw * 100, 1)
         row = _base(name, cc3)
-        row.update({"rank": i + 1, "age": age, "activeScore": nivel, "note": note})
+        row.update({"rank": i + 1, "age": age, "activeScore": nivel,
+                    "legendScore": legend, "olympicGold": oly, "worldGold": wc, "note": note})
         ranking.append(row)
-
-    scored = []
-    for name, cc3, era, oly, wc, note in ev["legends"]:
-        raw = oly * W_OLYMPIC + wc * W_WORLD
-        scored.append((raw, name, cc3, era, oly, wc, note))
-    max_raw = max(r[0] for r in scored) or 1.0
     legends = []
     for raw, name, cc3, era, oly, wc, note in sorted(scored, reverse=True):
         row = _base(name, cc3)

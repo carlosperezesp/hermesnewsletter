@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-23 10:01 UTC
+// Auto-generated 2026-07-23 10:15 UTC
 window.FENCING_DATA = {
-  "UPDATED": "2026-07-23 10:01 UTC",
+  "UPDATED": "2026-07-23 10:15 UTC",
   "SEASON": "Temporada 2025/26",
   "WORLDS": {
     "name": "Campeonato del Mundo de Esgrima 2026",
@@ -29,6 +29,9 @@ window.FENCING_DATA = {
           "rank": 1,
           "age": 28,
           "activeScore": 100,
+          "legendScore": 58.8,
+          "olympicGold": 2,
+          "worldGold": 0,
           "note": "Bicampeón olímpico (2021, 2024)"
         },
         {
@@ -43,6 +46,9 @@ window.FENCING_DATA = {
           "rank": 2,
           "age": 25,
           "activeScore": 96,
+          "legendScore": 10.3,
+          "olympicGold": 0,
+          "worldGold": 1,
           "note": "Campeón del mundo 2023"
         },
         {
@@ -57,6 +63,9 @@ window.FENCING_DATA = {
           "rank": 3,
           "age": 24,
           "activeScore": 92,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Plata olímpica 2024"
         },
         {
@@ -71,6 +80,9 @@ window.FENCING_DATA = {
           "rank": 4,
           "age": 29,
           "activeScore": 88,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Bloque italiano dominante"
         },
         {
@@ -85,6 +97,9 @@ window.FENCING_DATA = {
           "rank": 5,
           "age": 31,
           "activeScore": 84,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Plata olímpica 2016"
         },
         {
@@ -99,6 +114,9 @@ window.FENCING_DATA = {
           "rank": 6,
           "age": 26,
           "activeScore": 82,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Bronce olímpico 2024"
         },
         {
@@ -113,6 +131,9 @@ window.FENCING_DATA = {
           "rank": 7,
           "age": 34,
           "activeScore": 79,
+          "legendScore": 10.3,
+          "olympicGold": 0,
+          "worldGold": 1,
           "note": "Campeón del mundo 2019"
         },
         {
@@ -127,6 +148,9 @@ window.FENCING_DATA = {
           "rank": 8,
           "age": 26,
           "activeScore": 77,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Plata olímpica 2020"
         }
       ],
@@ -279,6 +303,9 @@ window.FENCING_DATA = {
           "rank": 1,
           "age": 31,
           "activeScore": 100,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Nº1 del ranking FIE"
         },
         {
@@ -293,6 +320,9 @@ window.FENCING_DATA = {
           "rank": 2,
           "age": 31,
           "activeScore": 96,
+          "legendScore": 37.0,
+          "olympicGold": 1,
+          "worldGold": 0,
           "note": "Campeona olímpica 2024"
         },
         {
@@ -307,6 +337,9 @@ window.FENCING_DATA = {
           "rank": 3,
           "age": 30,
           "activeScore": 92,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Nº2 mundial, oro por equipos 2024"
         },
         {
@@ -321,6 +354,9 @@ window.FENCING_DATA = {
           "rank": 4,
           "age": 27,
           "activeScore": 89,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Podio mundial constante"
         },
         {
@@ -335,6 +371,9 @@ window.FENCING_DATA = {
           "rank": 5,
           "age": 32,
           "activeScore": 86,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Plata olímpica 2024"
         },
         {
@@ -349,6 +388,9 @@ window.FENCING_DATA = {
           "rank": 6,
           "age": 25,
           "activeScore": 83,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Potencia coreana emergente"
         },
         {
@@ -363,6 +405,9 @@ window.FENCING_DATA = {
           "rank": 7,
           "age": 34,
           "activeScore": 80,
+          "legendScore": 25.9,
+          "olympicGold": 0,
+          "worldGold": 2,
           "note": "Doble campeona del mundo"
         },
         {
@@ -377,6 +422,9 @@ window.FENCING_DATA = {
           "rank": 8,
           "age": 35,
           "activeScore": 77,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Oro olímpico por equipos 2024"
         }
       ],
@@ -529,6 +577,9 @@ window.FENCING_DATA = {
           "rank": 1,
           "age": 27,
           "activeScore": 100,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Nº1 del ranking FIE"
         },
         {
@@ -543,6 +594,9 @@ window.FENCING_DATA = {
           "rank": 2,
           "age": 26,
           "activeScore": 96,
+          "legendScore": 29.9,
+          "olympicGold": 1,
+          "worldGold": 0,
           "note": "Campeón olímpico 2024"
         },
         {
@@ -557,6 +611,9 @@ window.FENCING_DATA = {
           "rank": 3,
           "age": 35,
           "activeScore": 93,
+          "legendScore": 100.0,
+          "olympicGold": 3,
+          "worldGold": 1,
           "note": "Tricampeón olímpico (2012-2020)"
         },
         {
@@ -571,6 +628,9 @@ window.FENCING_DATA = {
           "rank": 4,
           "age": 26,
           "activeScore": 89,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Plata olímpica 2024"
         },
         {
@@ -585,6 +645,9 @@ window.FENCING_DATA = {
           "rank": 5,
           "age": 32,
           "activeScore": 86,
+          "legendScore": 10.4,
+          "olympicGold": 0,
+          "worldGold": 1,
           "note": "Campeón del mundo 2022"
         },
         {
@@ -599,6 +662,9 @@ window.FENCING_DATA = {
           "rank": 6,
           "age": 38,
           "activeScore": 82,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Plata olímpica 2020"
         },
         {
@@ -613,6 +679,9 @@ window.FENCING_DATA = {
           "rank": 7,
           "age": 30,
           "activeScore": 80,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Referente africano del sable"
         },
         {
@@ -627,6 +696,9 @@ window.FENCING_DATA = {
           "rank": 8,
           "age": 21,
           "activeScore": 78,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Joven campeón del mundo júnior"
         }
       ],
@@ -779,6 +851,9 @@ window.FENCING_DATA = {
           "rank": 1,
           "age": 27,
           "activeScore": 100,
+          "legendScore": 49.1,
+          "olympicGold": 1,
+          "worldGold": 1,
           "note": "Campeón olímpico 2024 y del mundo"
         },
         {
@@ -793,6 +868,9 @@ window.FENCING_DATA = {
           "rank": 2,
           "age": 37,
           "activeScore": 95,
+          "legendScore": 12.7,
+          "olympicGold": 0,
+          "worldGold": 1,
           "note": "Campeón del mundo y oro por equipos"
         },
         {
@@ -807,6 +885,9 @@ window.FENCING_DATA = {
           "rank": 3,
           "age": 28,
           "activeScore": 91,
+          "legendScore": 12.7,
+          "olympicGold": 0,
+          "worldGold": 1,
           "note": "Plata olímpica 2020"
         },
         {
@@ -821,6 +902,9 @@ window.FENCING_DATA = {
           "rank": 4,
           "age": 28,
           "activeScore": 88,
+          "legendScore": 49.1,
+          "olympicGold": 1,
+          "worldGold": 1,
           "note": "Campeón olímpico 2021"
         },
         {
@@ -835,6 +919,9 @@ window.FENCING_DATA = {
           "rank": 5,
           "age": 32,
           "activeScore": 84,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Podio mundial constante"
         },
         {
@@ -849,6 +936,9 @@ window.FENCING_DATA = {
           "rank": 6,
           "age": 32,
           "activeScore": 81,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Referente de la espada italiana"
         },
         {
@@ -863,6 +953,9 @@ window.FENCING_DATA = {
           "rank": 7,
           "age": 39,
           "activeScore": 79,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Oro olímpico por equipos 2020"
         },
         {
@@ -877,6 +970,9 @@ window.FENCING_DATA = {
           "rank": 8,
           "age": 40,
           "activeScore": 77,
+          "legendScore": 36.4,
+          "olympicGold": 1,
+          "worldGold": 0,
           "note": "Campeón olímpico 2012"
         }
       ],
@@ -1029,6 +1125,9 @@ window.FENCING_DATA = {
           "rank": 1,
           "age": 32,
           "activeScore": 100,
+          "legendScore": 39.2,
+          "olympicGold": 2,
+          "worldGold": 0,
           "note": "Bicampeona olímpica (2021, 2024)"
         },
         {
@@ -1043,6 +1142,9 @@ window.FENCING_DATA = {
           "rank": 2,
           "age": 33,
           "activeScore": 95,
+          "legendScore": 13.7,
+          "olympicGold": 0,
+          "worldGold": 2,
           "note": "Campeona del mundo"
         },
         {
@@ -1057,6 +1159,9 @@ window.FENCING_DATA = {
           "rank": 3,
           "age": 38,
           "activeScore": 92,
+          "legendScore": 13.7,
+          "olympicGold": 0,
+          "worldGold": 2,
           "note": "Múltiple campeona del mundo"
         },
         {
@@ -1071,6 +1176,9 @@ window.FENCING_DATA = {
           "rank": 4,
           "age": 24,
           "activeScore": 89,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Nº1 del ranking FIE"
         },
         {
@@ -1085,6 +1193,9 @@ window.FENCING_DATA = {
           "rank": 5,
           "age": 22,
           "activeScore": 85,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Plata olímpica 2024"
         },
         {
@@ -1099,6 +1210,9 @@ window.FENCING_DATA = {
           "rank": 6,
           "age": 30,
           "activeScore": 82,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Medallista mundial"
         },
         {
@@ -1113,6 +1227,9 @@ window.FENCING_DATA = {
           "rank": 7,
           "age": 27,
           "activeScore": 79,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Podio de Copa del Mundo"
         },
         {
@@ -1127,6 +1244,9 @@ window.FENCING_DATA = {
           "rank": 8,
           "age": 31,
           "activeScore": 77,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Bloque francés en ascenso"
         }
       ],
@@ -1279,6 +1399,9 @@ window.FENCING_DATA = {
           "rank": 1,
           "age": 30,
           "activeScore": 100,
+          "legendScore": 37.0,
+          "olympicGold": 1,
+          "worldGold": 0,
           "note": "Campeona olímpica 2024"
         },
         {
@@ -1293,6 +1416,9 @@ window.FENCING_DATA = {
           "rank": 2,
           "age": 31,
           "activeScore": 96,
+          "legendScore": 13.0,
+          "olympicGold": 0,
+          "worldGold": 1,
           "note": "Plata olímpica 2024 y campeona del mundo"
         },
         {
@@ -1307,6 +1433,9 @@ window.FENCING_DATA = {
           "rank": 3,
           "age": 30,
           "activeScore": 92,
+          "legendScore": 13.0,
+          "olympicGold": 0,
+          "worldGold": 1,
           "note": "Campeona del mundo"
         },
         {
@@ -1321,6 +1450,9 @@ window.FENCING_DATA = {
           "rank": 4,
           "age": 32,
           "activeScore": 85,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Oro mundial por equipos"
         },
         {
@@ -1335,6 +1467,9 @@ window.FENCING_DATA = {
           "rank": 5,
           "age": 34,
           "activeScore": 82,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Podio europeo y mundial"
         },
         {
@@ -1349,6 +1484,9 @@ window.FENCING_DATA = {
           "rank": 6,
           "age": 25,
           "activeScore": 80,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Potencia coreana emergente"
         },
         {
@@ -1363,6 +1501,9 @@ window.FENCING_DATA = {
           "rank": 7,
           "age": 27,
           "activeScore": 78,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Bloque japonés al alza"
         },
         {
@@ -1377,6 +1518,9 @@ window.FENCING_DATA = {
           "rank": 8,
           "age": 24,
           "activeScore": 76,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
           "note": "Joven referente estadounidense"
         }
       ],
