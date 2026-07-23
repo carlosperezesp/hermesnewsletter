@@ -291,6 +291,14 @@ function SectionIcon({ type }) {
         <circle cx="16" cy="18" r="2" {...common} />
       </>
     ),
+    fencing: (
+      <>
+        <path d="M4 20L20 4" {...common} />
+        <path d="M20 20L4 4" {...common} />
+        <circle cx="4" cy="20" r="1.3" {...common} />
+        <circle cx="20" cy="20" r="1.3" {...common} />
+      </>
+    ),
     motogp: (
       <>
         <circle cx="12" cy="11" r="7" {...common} />
@@ -982,6 +990,7 @@ function NewsletterApp() {
       { id: "football", label: "Fútbol", icon: "football", data: window.FOOTBALL_DATA },
       { id: "cricket", label: "Cricket", icon: "cricket", data: window.CRICKET_DATA },
       { id: "athletics", label: "Atletismo", icon: "athletics", data: window.ATHLETICS_DATA },
+      { id: "fencing", label: "Esgrima", icon: "fencing", data: window.FENCING_DATA },
     ].filter(section => !!section.data).map(section => ({
       ...section,
       ...sectionActivity(section.id, section.data),
@@ -4152,6 +4161,81 @@ function NewsletterApp() {
                   ))}
                 </div>
               </NewsletterSection>
+            </>
+          );
+        })()}
+        </div>
+
+        <div data-section="fencing" style={sectionStyle("fencing", window.FENCING_DATA?.IMPORTANCE || 8)}>
+        {/* ── ESGRIMA ──────────────────────────────────────── */}
+        {window.FENCING_DATA && (() => {
+          const F = window.FENCING_DATA;
+          const weaponLabel = { M: "Masculino", F: "Femenino" };
+          return (
+            <>
+              <header className="newsletter-hero" style={{ marginTop: 48 }}>
+                <div className="newsletter-hero__masthead">
+                  <span>Esgrima</span>
+                  <span>Ranking FIE · Leyendas</span>
+                  <span>Actualizado {F.UPDATED}</span>
+                </div>
+                <div className="newsletter-hero__title-row">
+                  <h1>Esgrima</h1>
+                  <p>
+                    {F.WORLDS?.name ? <><strong>{F.WORLDS.name}</strong>. </> : null}
+                    Por cada prueba: el top actual (score activo) y las leyendas históricas
+                    por palmarés (oros olímpicos y mundiales individuales). {F.WORLDS?.note}
+                  </p>
+                </div>
+              </header>
+
+              {(F.EVENTS || []).map(ev => (
+                <React.Fragment key={ev.id}>
+                  <NewsletterSection
+                    kicker={`${ev.weapon} ${weaponLabel[ev.gender] || ""} · Ranking`}
+                    title={`${ev.label} — Score activo`}
+                    sub="Fuerza actual (ranking FIE y palmarés reciente). Snapshot curado."
+                  >
+                    <div className="newsletter-list">
+                      {ev.RANKING.map(f => (
+                        <NewsletterRankRow
+                          key={f.id}
+                          rank={f.rank}
+                          item={f}
+                          alive={new Set()}
+                          score={f.activeScore}
+                          scoreLabel="Nivel"
+                          meta={`${ev.weapon} · ${f.country} · ${f.age} años`}
+                          note={f.note}
+                          logo={f.logo}
+                        />
+                      ))}
+                    </div>
+                  </NewsletterSection>
+
+                  <NewsletterSection
+                    kicker={`${ev.weapon} ${weaponLabel[ev.gender] || ""} · Leyendas`}
+                    title={`${ev.label} — Leyendas`}
+                    sub="Score histórico: oros olímpicos individuales (×10) + Mundiales individuales (×3.5), normalizado a 100 = mejor del arma."
+                  >
+                    <div className="newsletter-list">
+                      {ev.LEGENDS.map(l => (
+                        <NewsletterRankRow
+                          key={l.id}
+                          rank={l.rank}
+                          item={l}
+                          alive={new Set()}
+                          score={l.legendScore}
+                          scoreLabel="Leyenda"
+                          meta={`${l.era} · ${l.country}`}
+                          note={`${l.olympicGold} oro${l.olympicGold === 1 ? "" : "s"} olímpico${l.olympicGold === 1 ? "" : "s"} · ${l.worldGold} Mundial${l.worldGold === 1 ? "" : "es"}. ${l.note}`}
+                          logo={l.logo}
+                        />
+                      ))}
+                    </div>
+                  </NewsletterSection>
+                </React.Fragment>
+              ))}
             </>
           );
         })()}
