@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-23 15:34 UTC
+// Auto-generated 2026-07-23 21:29 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-07-23 15:34 UTC",
+  "UPDATED": "2026-07-23 21:29 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -758,7 +758,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/si.png",
         "team": "UEX",
         "primary": "#003DA5",
-        "time": "60h 04' 17\"",
+        "time": "64h 35' 13\"",
         "legendScore": 0.0
       },
       {
@@ -843,12 +843,12 @@ window.CYCLING_DATA = {
       },
       {
         "rank": 10,
-        "name": "Yannis Voisard",
-        "country": "SUI",
-        "logo": "https://flagcdn.com/24x18/ch.png",
-        "team": "TUD",
-        "primary": "#FF0000",
-        "time": "+ 24' 18\"",
+        "name": "Richard Carapaz",
+        "country": "ECU",
+        "logo": "https://flagcdn.com/24x18/ec.png",
+        "team": "EFE",
+        "primary": "#FFD100",
+        "time": "+ 21' 00\"",
         "legendScore": 0.0
       }
     ],
@@ -859,7 +859,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/dk.png",
       "team": "LTK men",
       "primary": "#C60C30",
-      "points": 452,
+      "points": 477,
       "legendScore": 0.0
     },
     "kom_leader": {
@@ -879,7 +879,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/mx.png",
       "team": "UEX",
       "primary": "#555555",
-      "time": "60h 11' 08\"",
+      "time": "64h 42' 04\"",
       "legendScore": 0.0
     }
   },
