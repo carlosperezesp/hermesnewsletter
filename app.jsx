@@ -202,6 +202,84 @@ function NewsletterSection({ kicker, title, sub, children, anchor }) {
     : body;
 }
 
+// Sección genérica para deportes individuales tipo tenis/bádminton: hero +
+// último/próximo torneo + por modalidad (Ranking con Nivel/Leyenda + Leyendas).
+// El data file trae el schema { UPDATED, LAST_TOURNAMENT, NEXT_TOURNAMENT,
+// DISCIPLINES:[{id,label,RANKING,LEGENDS}] }. Las notas ya vienen formateadas.
+function IndividualSport({ data, label, intro, masthead = "Ranking y leyendas", tourWord = "torneo", legendSub }) {
+  if (!data) return null;
+  const last = data.LAST_TOURNAMENT || {};
+  const next = data.NEXT_TOURNAMENT || {};
+  const personRow = (p, i, kind) => (
+    <div key={`${p.id}-${i}`} className="newsletter-row">
+      <span className="newsletter-row__rank">{kind === "champ" ? "🏆" : String(i + 1).padStart(2, "0")}</span>
+      <span className="newsletter-row__identity" style={{ flex: 1, display: "flex", alignItems: "center", gap: 8 }}>
+        {p.logo && <img src={p.logo} alt="" width={18} height={13} style={{ borderRadius: 1, objectFit: "cover", flexShrink: 0 }} />}
+        <span className="newsletter-row__copy">
+          <span className="newsletter-row__name">{p.name}</span>
+          <span className="newsletter-row__meta">{kind === "champ" ? `${p.discipline || ""} · ${p.country}` : `Favorito · ${p.country}`}</span>
+        </span>
+      </span>
+    </div>
+  );
+  return (
+    <>
+      <header className="newsletter-hero" style={{ marginTop: 48 }}>
+        <div className="newsletter-hero__masthead">
+          <span>{label}</span><span>{masthead}</span><span>Actualizado {data.UPDATED}</span>
+        </div>
+        <div className="newsletter-hero__title-row">
+          <h1>{label}</h1>
+          <p>{intro}</p>
+        </div>
+      </header>
+
+      {last.name && (
+        <NewsletterSection
+          kicker={`Último ${tourWord} · ${last.level || ""}`}
+          title={`${last.name}${last.location ? ` — ${last.location}` : ""}`}
+          sub={`Campeones · ${last.endLabel || ""}.`}
+        >
+          <div className="newsletter-list">{(last.champions || []).map((c, i) => personRow(c, i, "champ"))}</div>
+        </NewsletterSection>
+      )}
+      {next.name && (
+        <NewsletterSection
+          kicker={`Próximo ${tourWord} · ${next.level || ""}`}
+          title={`${next.name}${next.location ? ` — ${next.location}` : ""}`}
+          sub={`Empieza en ${next.daysToStart} día${next.daysToStart === 1 ? "" : "s"} · ${next.startLabel || ""}–${next.endLabel || ""}${next.defending ? `. Defiende: ${next.defending}` : ""}. Favoritos:`}
+        >
+          <div className="newsletter-list">{(next.favorites || []).map((f, i) => personRow(f, i, "fav"))}</div>
+        </NewsletterSection>
+      )}
+
+      {(data.DISCIPLINES || []).map(d => (
+        <React.Fragment key={d.id}>
+          <NewsletterSection kicker={`${d.label} · Ranking`} title={`${d.label} — Score activo`}
+            sub="Fuerza actual. Nivel = forma/ranking; Leyenda = palmarés histórico.">
+            <div className="newsletter-list">
+              {d.RANKING.map(p => (
+                <NewsletterRankRow key={p.id} rank={p.rank} item={p} alive={new Set()}
+                  score={p.activeScore} scoreLabel="Nivel" scoreB={p.legendScore} scoreBLabel="Leyenda"
+                  meta={`${d.label} · ${p.country}${p.age ? ` · ${p.age} años` : ""}`} note={p.note} logo={p.logo} />
+              ))}
+            </div>
+          </NewsletterSection>
+          <NewsletterSection kicker={`${d.label} · Leyendas`} title={`${d.label} — Leyendas`}
+            sub={legendSub || "Dominancia histórica por palmarés, normalizado a 100 = mejor de la historia. Incluye activos que ya lo merecen."}>
+            <div className="newsletter-list">
+              {d.LEGENDS.map(l => (
+                <NewsletterRankRow key={l.id} rank={l.rank} item={l} alive={new Set()}
+                  score={l.legendScore} scoreLabel="Leyenda" meta={`${l.era} · ${l.country}`} note={l.note} logo={l.logo} />
+              ))}
+            </div>
+          </NewsletterSection>
+        </React.Fragment>
+      ))}
+    </>
+  );
+}
+
 function SectionIcon({ type }) {
   const common = {
     fill: "none",
@@ -304,6 +382,19 @@ function SectionIcon({ type }) {
         <circle cx="8" cy="8" r="5" {...common} />
         <path d="M11.5 11.5L19 19" {...common} />
         <path d="M15 3.5l4.5 1.5L18 9.5z" {...common} />
+      </>
+    ),
+    snooker: (
+      <>
+        <circle cx="8" cy="16" r="4" {...common} />
+        <path d="M11 13L21 3" {...common} />
+      </>
+    ),
+    darts: (
+      <>
+        <circle cx="12" cy="12" r="9" {...common} />
+        <circle cx="12" cy="12" r="4" {...common} />
+        <circle cx="12" cy="12" r="1" {...common} />
       </>
     ),
     motogp: (
@@ -999,6 +1090,8 @@ function NewsletterApp() {
       { id: "athletics", label: "Atletismo", icon: "athletics", data: window.ATHLETICS_DATA },
       { id: "fencing", label: "Esgrima", icon: "fencing", data: window.FENCING_DATA },
       { id: "badminton", label: "Bádminton", icon: "badminton", data: window.BADMINTON_DATA },
+      { id: "snooker", label: "Snooker", icon: "snooker", data: window.SNOOKER_DATA },
+      { id: "darts", label: "Dardos", icon: "darts", data: window.DARTS_DATA },
     ].filter(section => !!section.data).map(section => ({
       ...section,
       ...sectionActivity(section.id, section.data),
@@ -4413,6 +4506,34 @@ function NewsletterApp() {
             </>
           );
         })()}
+        </div>
+
+        <div data-section="snooker" style={sectionStyle("snooker", window.SNOOKER_DATA?.IMPORTANCE || 7)}>
+        {/* ── SNOOKER ──────────────────────────────────────── */}
+        {window.SNOOKER_DATA && (
+          <IndividualSport
+            data={window.SNOOKER_DATA}
+            label="Snooker"
+            masthead="Ranking mundial · Leyendas"
+            tourWord="torneo"
+            intro="Ranking mundial actual (Nivel) y leyendas por Triple Corona (Leyenda). Más el último y el próximo gran torneo, que mueven los rankings."
+            legendSub="Triple Corona: Mundial (×10) + UK (×4) + Masters (×4) + otros títulos de ranking (×0.5), normalizado a 100 = el más grande. Incluye activos que ya lo merecen."
+          />
+        )}
+        </div>
+
+        <div data-section="darts" style={sectionStyle("darts", window.DARTS_DATA?.IMPORTANCE || 7)}>
+        {/* ── DARDOS ───────────────────────────────────────── */}
+        {window.DARTS_DATA && (
+          <IndividualSport
+            data={window.DARTS_DATA}
+            label="Dardos"
+            masthead="PDC · Ranking y leyendas"
+            tourWord="torneo"
+            intro="Top actual de la PDC (Nivel) y leyendas por palmarés (Leyenda). Más el último y el próximo gran torneo del circuito."
+            legendSub="Palmarés: títulos mundiales (×10) + otros majors televisados (×0.5), normalizado a 100 = el más grande. Incluye activos que ya lo merecen."
+          />
+        )}
         </div>
 
         <div data-section="motogp" style={sectionStyle("motogp", window.MOTOGP_DATA?.IMPORTANCE || 7)}>
