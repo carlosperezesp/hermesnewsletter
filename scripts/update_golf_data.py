@@ -359,6 +359,23 @@ def build_golf_prospects(max_age: int = 26, top_n: int = 8) -> list[dict]:
     return out[:top_n]
 
 
+def _major_winner_candidates(winner_cc3: dict) -> list[dict]:
+    """Ganadores de major registrados en vivo, como candidatos al Road to Glory
+    aunque estén fuera del top-12 de la FedEx Cup: ganar un major ES el camino a
+    la leyenda, así que su legend score debe competir junto al resto."""
+    out = []
+    for name in _MAJORS_WON:
+        base = _player_base(name, winner_cc3.get(name, "USA"), "PGA")
+        majors = _career_majors(name)
+        base.update({
+            "activeScore": _nivel_from_fedex_rank(_fedex_rank(name=name)) or 48,
+            "legendScore": _leyenda(majors),
+            "stats": {"majors": majors, "wins": 0, "topTen": 0, "tour": "PGA"},
+        })
+        out.append(base)
+    return out
+
+
 def build_road_to_glory(prev: dict[str, int], current: list[dict], legends: list[dict]) -> list[dict]:
     threshold = sorted((p["legendScore"] for p in legends), reverse=True)[9]
     rows = []
@@ -692,11 +709,14 @@ def write_data() -> None:
     global _MAJORS_WON
     _MAJORS_WON = dict(_prev_field(out_path, "MAJORS_WON", {}))
     counted = list(_prev_field(out_path, "COUNTED_MAJORS", []))
+    winner_cc3 = dict(_prev_field(out_path, "MAJOR_WINNER_CC3", {}))
     last_major = last_major_payload(today, current_event)
     if last_major and last_major.get("champion"):
+        champ = last_major["champion"]["name"]
+        winner_cc3[champ] = NAME_TO_CC3.get(
+            last_major["champion"].get("country", ""), winner_cc3.get(champ, "USA"))
         key = f"{last_major['name']} {last_major['end'][:4]}"
         if key not in counted:
-            champ = last_major["champion"]["name"]
             _MAJORS_WON[champ] = _MAJORS_WON.get(champ, 0) + 1
             counted.append(key)
         # el podio se construyó con la cuenta antigua: recalcular su legend
@@ -708,7 +728,10 @@ def write_data() -> None:
     prev_road = _prev_rank_map(out_path, "GOLF_DATA", "ROAD_TO_GLORY")
     legends = build_legends(prev_legends)
     current = build_current(prev_current)
-    road = build_road_to_glory(prev_road, current, legends)
+    # Pool del Road to Glory: top-12 FedEx + ganadores de major fuera de ese top.
+    extras = [e for e in _major_winner_candidates(winner_cc3)
+              if e["id"] not in {c["id"] for c in current}]
+    road = build_road_to_glory(prev_road, current + extras, legends)
     major = major_payload(today, current, current_event)
     next_big = next_big_payload(today, calendar, current)
     legend_threshold = sorted((p["legendScore"] for p in legends), reverse=True)[9]
@@ -727,6 +750,7 @@ def write_data() -> None:
         "IMPORTANCE": _importance(major, next_big),
         "MAJORS_WON": _MAJORS_WON,
         "COUNTED_MAJORS": counted,
+        "MAJOR_WINNER_CC3": winner_cc3,
     }
     out_path.write_text(
         f"// Auto-generated {updated}\nwindow.GOLF_DATA = {json.dumps(payload, ensure_ascii=False, indent=2)};\n",
