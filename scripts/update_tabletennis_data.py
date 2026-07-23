@@ -13,6 +13,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "tabletennis_data.js"
 W_OLY, W_WORLD, W_WC = 12.0, 7.0, 3.0
+AGE_CUTOFF = 23  # cantera: los del top actual con esta edad o menos
 
 CC2 = {"CHN": "cn", "SWE": "se", "JPN": "jp", "KOR": "kr", "GER": "de", "FRA": "fr",
        "BRA": "br", "TPE": "tw", "HKG": "hk", "SGP": "sg"}
@@ -118,6 +119,24 @@ def build_discipline(d):
     return {"id": d["id"], "label": d["label"], "RANKING": ranking, "LEGENDS": legends}
 
 
+def build_prospects(disciplines, cutoff=AGE_CUTOFF, limit=6):
+    """Cantera automática: los más jóvenes del ranking (≤cutoff), sin curar."""
+    multi = len(disciplines) > 1
+    pool = []
+    for d in disciplines:
+        for p in d.get("RANKING", []):
+            if p.get("age") and p["age"] <= cutoff:
+                q = dict(p)
+                if multi:
+                    q["discipline"] = d["label"]
+                pool.append(q)
+    pool.sort(key=lambda x: (x["age"], -x.get("activeScore", 0)))
+    out = pool[:limit]
+    for i, p in enumerate(out):
+        p["rank"] = i + 1
+    return out
+
+
 def _tour(t, today, kind):
     out = {"name": t["name"], "level": t["level"], "location": t["location"]}
     if kind == "last":
@@ -138,6 +157,7 @@ def main():
                "LAST_TOURNAMENT": _tour(LAST_TOURNAMENT, today, "last"),
                "NEXT_TOURNAMENT": _tour(NEXT_TOURNAMENT, today, "next"),
                "DISCIPLINES": [build_discipline(d) for d in DISCIPLINES_RAW], "IMPORTANCE": 7.5}
+    payload["PROSPECTS"] = build_prospects(payload["DISCIPLINES"])
     OUT.write_text(f"// Auto-generated {updated}\nwindow.TABLETENNIS_DATA = "
                    f"{json.dumps(payload, ensure_ascii=False, indent=2)};\n", encoding="utf-8")
     for d in payload["DISCIPLINES"]:

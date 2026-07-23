@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-23 13:37 UTC
+// Auto-generated 2026-07-23 19:41 UTC
 window.SNOOKER_DATA = {
-  "UPDATED": "2026-07-23 13:37 UTC",
+  "UPDATED": "2026-07-23 19:41 UTC",
   "SEASON": "Temporada 2025/26",
   "LAST_TOURNAMENT": {
     "name": "Campeonato del Mundo",
@@ -97,6 +97,7 @@ window.SNOOKER_DATA = {
             "secondary": "#FFFFFF"
           },
           "rank": 1,
+          "age": 37,
           "activeScore": 100,
           "legendScore": 28.5,
           "note": "Nº1 del ranking mundial"
@@ -111,6 +112,7 @@ window.SNOOKER_DATA = {
             "secondary": "#FFFFFF"
           },
           "rank": 2,
+          "age": 35,
           "activeScore": 94,
           "legendScore": 10.4,
           "note": "Campeón del mundo 2024"
@@ -125,6 +127,7 @@ window.SNOOKER_DATA = {
             "secondary": "#FFFFFF"
           },
           "rank": 3,
+          "age": 51,
           "activeScore": 92,
           "legendScore": 100.0,
           "note": "El más grande de todos los tiempos"
@@ -139,6 +142,7 @@ window.SNOOKER_DATA = {
             "secondary": "#FFFFFF"
           },
           "rank": 4,
+          "age": 29,
           "activeScore": 90,
           "legendScore": 10.0,
           "note": "Campeón del mundo 2025"
@@ -153,6 +157,7 @@ window.SNOOKER_DATA = {
             "secondary": "#FFFFFF"
           },
           "rank": 5,
+          "age": 51,
           "activeScore": 87,
           "legendScore": 40.8,
           "note": "Tricampeón del mundo, aún en la élite"
@@ -167,6 +172,7 @@ window.SNOOKER_DATA = {
             "secondary": "#FFFFFF"
           },
           "rank": 6,
+          "age": 51,
           "activeScore": 84,
           "legendScore": 49.2,
           "note": "Cuádruple campeón del mundo"
@@ -181,6 +187,7 @@ window.SNOOKER_DATA = {
             "secondary": "#FFFFFF"
           },
           "rank": 7,
+          "age": 44,
           "activeScore": 82,
           "legendScore": 19.4,
           "note": "Campeón del mundo 2010"
@@ -195,6 +202,7 @@ window.SNOOKER_DATA = {
             "secondary": "#FFFFFF"
           },
           "rank": 8,
+          "age": 43,
           "activeScore": 80,
           "legendScore": 45.3,
           "note": "Cuádruple campeón del mundo"
@@ -369,5 +377,6 @@ window.SNOOKER_DATA = {
       ]
     }
   ],
+  "PROSPECTS": [],
   "IMPORTANCE": 7.0
 };

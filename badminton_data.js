@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-23 11:42 UTC
+// Auto-generated 2026-07-23 19:41 UTC
 window.BADMINTON_DATA = {
-  "UPDATED": "2026-07-23 11:42 UTC",
+  "UPDATED": "2026-07-23 19:41 UTC",
   "SEASON": "BWF World Tour 2026",
   "SOURCE": {
     "name": "Snapshot curado (rankings BWF + palmarés histórico)",
@@ -864,5 +864,6 @@ window.BADMINTON_DATA = {
       ]
     }
   ],
-  "IMPORTANCE": 8.0
+  "IMPORTANCE": 8.0,
+  "PROSPECTS": []
 };

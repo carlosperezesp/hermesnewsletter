@@ -102,17 +102,19 @@ LEGEND_META = {
 }
 
 # Ranking de forma actual (curado; sin feed abierto del Order of Merit).
+# (nombre, cc3, edad, nivel, nota) — la edad es un dato factual, alimenta la cantera.
 CURRENT = [
-    ("Luke Humphries", "ENG", 100, "Nº1 del Order of Merit"),
-    ("Luke Littler", "ENG", 99, "Bicampeón del mundo con 18 años"),
-    ("Michael van Gerwen", "NED", 92, "Tricampeón del mundo, aún en la élite"),
-    ("Michael Smith", "ENG", 86, "Campeón del mundo 2023"),
-    ("Gerwyn Price", "WAL", 84, "Campeón del mundo 2021"),
-    ("Nathan Aspinall", "ENG", 80, "Ganador de World Matchplay"),
-    ("Rob Cross", "ENG", 79, "Campeón del mundo 2018"),
-    ("Stephen Bunting", "ENG", 77, "Top del Order of Merit"),
+    ("Luke Humphries", "ENG", 31, 100, "Nº1 del Order of Merit"),
+    ("Luke Littler", "ENG", 19, 99, "Bicampeón del mundo siendo adolescente"),
+    ("Michael van Gerwen", "NED", 37, 92, "Tricampeón del mundo, aún en la élite"),
+    ("Michael Smith", "ENG", 36, 86, "Campeón del mundo 2023"),
+    ("Gerwyn Price", "WAL", 41, 84, "Campeón del mundo 2021"),
+    ("Nathan Aspinall", "ENG", 35, 80, "Ganador de World Matchplay"),
+    ("Rob Cross", "ENG", 36, 79, "Campeón del mundo 2018"),
+    ("Stephen Bunting", "ENG", 41, 77, "Top del Order of Merit"),
 ]
 CURRENT_CC = {name: cc for name, cc, *_ in CURRENT}
+AGE_CUTOFF = 23  # cantera: los del top actual con esta edad o menos
 
 LAST_TOURNAMENT = {"name": "World Matchplay", "level": "Major televisado", "location": "Blackpool",
                    "end": "2026-07-19", "champions": [("Luke Humphries", "ENG", "Individual")]}
@@ -127,10 +129,10 @@ def build(titles: dict):
     active_names = {n for n, *_ in CURRENT}
 
     ranking = []
-    for i, (name, cc, nivel, note) in enumerate(CURRENT):
+    for i, (name, cc, age, nivel, note) in enumerate(CURRENT):
         t = titles.get(name, 0)
         row = _base(name, cc)
-        row.update({"rank": i + 1, "activeScore": nivel,
+        row.update({"rank": i + 1, "age": age, "activeScore": nivel,
                     "legendScore": round(t / max_t * 100, 1), "note": note})
         ranking.append(row)
 
@@ -147,6 +149,24 @@ def build(titles: dict):
     for i, row in enumerate(legends):
         row["rank"] = i + 1
     return [{"id": "main", "label": "Individual", "RANKING": ranking, "LEGENDS": legends}]
+
+
+def build_prospects(disciplines, cutoff=AGE_CUTOFF, limit=6):
+    """Cantera automática: los más jóvenes del ranking (≤cutoff), sin curar."""
+    multi = len(disciplines) > 1
+    pool = []
+    for d in disciplines:
+        for p in d.get("RANKING", []):
+            if p.get("age") and p["age"] <= cutoff:
+                q = dict(p)
+                if multi:
+                    q["discipline"] = d["label"]
+                pool.append(q)
+    pool.sort(key=lambda x: (x["age"], -x.get("activeScore", 0)))
+    out = pool[:limit]
+    for i, p in enumerate(out):
+        p["rank"] = i + 1
+    return out
 
 
 def _tour(t, today, kind):
@@ -166,12 +186,14 @@ def main():
     today = date.today()
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     titles = fetch_world_titles()
+    disciplines = build(titles)
     payload = {"UPDATED": updated, "SEASON": "PDC 2026",
                "SOURCE": {"name": "Palmarés real (Wikipedia: campeones PDC + BDO)",
                           "note": "Títulos descargados y contados automáticamente; ranking de forma curado."},
                "LAST_TOURNAMENT": _tour(LAST_TOURNAMENT, today, "last"),
                "NEXT_TOURNAMENT": _tour(NEXT_TOURNAMENT, today, "next"),
-               "DISCIPLINES": build(titles), "IMPORTANCE": 7.0}
+               "DISCIPLINES": disciplines, "PROSPECTS": build_prospects(disciplines),
+               "IMPORTANCE": 7.0}
     OUT.write_text(f"// Auto-generated {updated}\nwindow.DARTS_DATA = "
                    f"{json.dumps(payload, ensure_ascii=False, indent=2)};\n", encoding="utf-8")
     L = payload["DISCIPLINES"][0]

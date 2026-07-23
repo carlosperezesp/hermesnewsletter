@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-23 14:48 UTC
+// Auto-generated 2026-07-23 19:41 UTC
 window.DARTS_DATA = {
-  "UPDATED": "2026-07-23 14:48 UTC",
+  "UPDATED": "2026-07-23 19:41 UTC",
   "SEASON": "PDC 2026",
   "SOURCE": {
     "name": "Palmarés real (Wikipedia: campeones PDC + BDO)",
@@ -101,6 +101,7 @@ window.DARTS_DATA = {
             "secondary": "#FFFFFF"
           },
           "rank": 1,
+          "age": 31,
           "activeScore": 100,
           "legendScore": 6.2,
           "note": "Nº1 del Order of Merit"
@@ -115,9 +116,10 @@ window.DARTS_DATA = {
             "secondary": "#FFFFFF"
           },
           "rank": 2,
+          "age": 19,
           "activeScore": 99,
           "legendScore": 12.5,
-          "note": "Bicampeón del mundo con 18 años"
+          "note": "Bicampeón del mundo siendo adolescente"
         },
         {
           "id": "michael_van_gerwen",
@@ -129,6 +131,7 @@ window.DARTS_DATA = {
             "secondary": "#FFFFFF"
           },
           "rank": 3,
+          "age": 37,
           "activeScore": 92,
           "legendScore": 18.8,
           "note": "Tricampeón del mundo, aún en la élite"
@@ -143,6 +146,7 @@ window.DARTS_DATA = {
             "secondary": "#FFFFFF"
           },
           "rank": 4,
+          "age": 36,
           "activeScore": 86,
           "legendScore": 6.2,
           "note": "Campeón del mundo 2023"
@@ -157,6 +161,7 @@ window.DARTS_DATA = {
             "secondary": "#FFFFFF"
           },
           "rank": 5,
+          "age": 41,
           "activeScore": 84,
           "legendScore": 6.2,
           "note": "Campeón del mundo 2021"
@@ -171,6 +176,7 @@ window.DARTS_DATA = {
             "secondary": "#FFFFFF"
           },
           "rank": 6,
+          "age": 35,
           "activeScore": 80,
           "legendScore": 0.0,
           "note": "Ganador de World Matchplay"
@@ -185,6 +191,7 @@ window.DARTS_DATA = {
             "secondary": "#FFFFFF"
           },
           "rank": 7,
+          "age": 36,
           "activeScore": 79,
           "legendScore": 6.2,
           "note": "Campeón del mundo 2018"
@@ -199,6 +206,7 @@ window.DARTS_DATA = {
             "secondary": "#FFFFFF"
           },
           "rank": 8,
+          "age": 41,
           "activeScore": 77,
           "legendScore": 6.2,
           "note": "Top del Order of Merit"
@@ -430,6 +438,23 @@ window.DARTS_DATA = {
           "rank": 14
         }
       ]
+    }
+  ],
+  "PROSPECTS": [
+    {
+      "id": "luke_littler",
+      "name": "Luke Littler",
+      "country": "ENG",
+      "logo": "https://flagcdn.com/24x18/gb-eng.png",
+      "colors": {
+        "primary": "#CE1124",
+        "secondary": "#FFFFFF"
+      },
+      "rank": 1,
+      "age": 19,
+      "activeScore": 99,
+      "legendScore": 12.5,
+      "note": "Bicampeón del mundo siendo adolescente"
     }
   ],
   "IMPORTANCE": 7.0

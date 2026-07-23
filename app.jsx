@@ -292,6 +292,23 @@ function IndividualSport({ data, label, intro, masthead = "Ranking y leyendas", 
         </React.Fragment>
         );
       })}
+
+      {(data.PROSPECTS || []).length >= 2 && (
+        <NewsletterSection
+          kicker={`${label} · Cantera`}
+          title="Jóvenes promesa"
+          sub="Automático: los más jóvenes (≤23 años) que ya asoman en el top actual. No está curado — sale del propio ranking."
+        >
+          <div className="newsletter-list">
+            {data.PROSPECTS.map(p => (
+              <NewsletterRankRow key={`can-${p.id}`} rank={p.rank} item={p} alive={new Set()}
+                score={p.activeScore} scoreLabel="Nivel"
+                meta={`${p.discipline ? p.discipline + " · " : ""}${p.country} · ${p.age} años`}
+                note={p.note} logo={p.logo} />
+            ))}
+          </div>
+        </NewsletterSection>
+      )}
     </>
   );
 }
@@ -4539,6 +4556,23 @@ function NewsletterApp() {
                 </React.Fragment>
                 );
               })}
+
+              {(B.PROSPECTS || []).length >= 2 && (
+                <NewsletterSection
+                  kicker="Bádminton · Cantera"
+                  title="Jóvenes promesa"
+                  sub="Automático: los más jóvenes (≤23 años) que ya asoman en el top actual. No está curado — sale del ranking BWF."
+                >
+                  <div className="newsletter-list">
+                    {B.PROSPECTS.map(p => (
+                      <NewsletterRankRow key={`can-${p.id}`} rank={p.rank} item={p} alive={new Set()}
+                        score={p.activeScore} scoreLabel="Nivel"
+                        meta={`${p.discipline ? p.discipline + " · " : ""}${p.country} · ${p.age} años`}
+                        note={p.note} logo={p.logo} />
+                    ))}
+                  </div>
+                </NewsletterSection>
+              )}
             </>
           );
         })()}

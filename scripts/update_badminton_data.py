@@ -21,6 +21,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "badminton_data.js"
 
 W_OLY, W_WORLD, W_AE, W_WEEKS = 12.0, 9.0, 3.0, 0.04
+AGE_CUTOFF = 23  # cantera: los del top actual con esta edad o menos
 
 CC2 = {
     "CHN": "cn", "DEN": "dk", "JPN": "jp", "KOR": "kr", "THA": "th", "INA": "id",
@@ -161,6 +162,24 @@ def build_discipline(d: dict) -> dict:
     return {"id": d["id"], "label": d["label"], "RANKING": ranking, "LEGENDS": legends}
 
 
+def build_prospects(disciplines, cutoff=AGE_CUTOFF, limit=6):
+    """Cantera automática: los más jóvenes del ranking (≤cutoff), sin curar."""
+    multi = len(disciplines) > 1
+    pool = []
+    for d in disciplines:
+        for p in d.get("RANKING", []):
+            if p.get("age") and p["age"] <= cutoff:
+                q = dict(p)
+                if multi:
+                    q["discipline"] = d["label"]
+                pool.append(q)
+    pool.sort(key=lambda x: (x["age"], -x.get("activeScore", 0)))
+    out = pool[:limit]
+    for i, p in enumerate(out):
+        p["rank"] = i + 1
+    return out
+
+
 def _champ_row(name, cc3, discipline):
     row = _base(name, cc3); row["discipline"] = discipline; return row
 
@@ -194,6 +213,7 @@ def main() -> None:
         "DISCIPLINES": [build_discipline(d) for d in DISCIPLINES_RAW],
         "IMPORTANCE": 8.0,
     }
+    payload["PROSPECTS"] = build_prospects(payload["DISCIPLINES"])
     OUT.write_text(f"// Auto-generated {updated}\nwindow.BADMINTON_DATA = "
                    f"{json.dumps(payload, ensure_ascii=False, indent=2)};\n", encoding="utf-8")
     print(f"Wrote {OUT.name} · {len(payload['DISCIPLINES'])} modalidades")

@@ -30,17 +30,18 @@ def _base(name, c):
 def _raw(w, u, m, r): return w * W_WORLD + u * W_UK + m * W_MASTERS + r * W_RANK
 
 
-# current: (nombre, cc3, nivel, nota)
+# current: (nombre, cc3, edad, nivel, nota) — la edad alimenta la cantera automática
 CURRENT = [
-    ("Judd Trump", "ENG", 100, "Nº1 del ranking mundial"),
-    ("Kyren Wilson", "ENG", 94, "Campeón del mundo 2024"),
-    ("Ronnie O'Sullivan", "ENG", 92, "El más grande de todos los tiempos"),
-    ("Zhao Xintong", "CHN", 90, "Campeón del mundo 2025"),
-    ("Mark Williams", "WAL", 87, "Tricampeón del mundo, aún en la élite"),
-    ("John Higgins", "SCO", 84, "Cuádruple campeón del mundo"),
-    ("Neil Robertson", "AUS", 82, "Campeón del mundo 2010"),
-    ("Mark Selby", "ENG", 80, "Cuádruple campeón del mundo"),
+    ("Judd Trump", "ENG", 37, 100, "Nº1 del ranking mundial"),
+    ("Kyren Wilson", "ENG", 35, 94, "Campeón del mundo 2024"),
+    ("Ronnie O'Sullivan", "ENG", 51, 92, "El más grande de todos los tiempos"),
+    ("Zhao Xintong", "CHN", 29, 90, "Campeón del mundo 2025"),
+    ("Mark Williams", "WAL", 51, 87, "Tricampeón del mundo, aún en la élite"),
+    ("John Higgins", "SCO", 51, 84, "Cuádruple campeón del mundo"),
+    ("Neil Robertson", "AUS", 44, 82, "Campeón del mundo 2010"),
+    ("Mark Selby", "ENG", 43, 80, "Cuádruple campeón del mundo"),
 ]
+AGE_CUTOFF = 23  # cantera: los del top actual con esta edad o menos
 # legends: (nombre, cc3, era, Mundiales, UK, Masters, ranking_titles, nota)
 LEGENDS = [
     ("Ronnie O'Sullivan", "ENG", "1993-presente", 7, 8, 8, 41, "Récord de 41 títulos de ranking y de Triple Coronas; genio irrepetible."),
@@ -71,10 +72,10 @@ NEXT_TOURNAMENT = {"name": "UK Championship", "level": "Triple Corona", "locatio
 def build():
     max_raw = max(_raw(w, u, m, r) for *_, w, u, m, r, _ in LEGENDS) or 1.0
     ranking = []
-    for i, (name, c, nivel, note) in enumerate(CURRENT):
+    for i, (name, c, age, nivel, note) in enumerate(CURRENT):
         w, u, m, r = CURRENT_TITLES.get(name, (0, 0, 0, 0))
         row = _base(name, c)
-        row.update({"rank": i + 1, "activeScore": nivel,
+        row.update({"rank": i + 1, "age": age, "activeScore": nivel,
                     "legendScore": round(_raw(w, u, m, r) / max_raw * 100, 1), "note": note})
         ranking.append(row)
     entries = {}
@@ -83,7 +84,7 @@ def build():
         row.update({"era": era, "legendScore": round(_raw(w, u, m, r) / max_raw * 100, 1),
                     "note": f"{w} Mundial{'es' if w != 1 else ''} · {u} UK · {m} Masters. {note}", "active": False})
         entries[row["id"]] = row
-    for name, c, nivel, note in CURRENT:
+    for name, c, age, nivel, note in CURRENT:
         rid = _slug(name)
         if rid in entries:
             continue
@@ -98,6 +99,24 @@ def build():
     for i, row in enumerate(legends):
         row["rank"] = i + 1
     return [{"id": "main", "label": "Individual", "RANKING": ranking, "LEGENDS": legends}]
+
+
+def build_prospects(disciplines, cutoff=AGE_CUTOFF, limit=6):
+    """Cantera automática: los más jóvenes del ranking (≤cutoff), sin curar."""
+    multi = len(disciplines) > 1
+    pool = []
+    for d in disciplines:
+        for p in d.get("RANKING", []):
+            if p.get("age") and p["age"] <= cutoff:
+                q = dict(p)
+                if multi:
+                    q["discipline"] = d["label"]
+                pool.append(q)
+    pool.sort(key=lambda x: (x["age"], -x.get("activeScore", 0)))
+    out = pool[:limit]
+    for i, p in enumerate(out):
+        p["rank"] = i + 1
+    return out
 
 
 def _tour(t, today, kind):
@@ -116,10 +135,12 @@ def _tour(t, today, kind):
 def main():
     today = date.today()
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    disciplines = build()
     payload = {"UPDATED": updated, "SEASON": "Temporada 2025/26",
                "LAST_TOURNAMENT": _tour(LAST_TOURNAMENT, today, "last"),
                "NEXT_TOURNAMENT": _tour(NEXT_TOURNAMENT, today, "next"),
-               "DISCIPLINES": build(), "IMPORTANCE": 7.0}
+               "DISCIPLINES": disciplines, "PROSPECTS": build_prospects(disciplines),
+               "IMPORTANCE": 7.0}
     OUT.write_text(f"// Auto-generated {updated}\nwindow.SNOOKER_DATA = "
                    f"{json.dumps(payload, ensure_ascii=False, indent=2)};\n", encoding="utf-8")
     L = payload["DISCIPLINES"][0]

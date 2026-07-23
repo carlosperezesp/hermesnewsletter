@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-23 13:46 UTC
+// Auto-generated 2026-07-23 19:41 UTC
 window.TABLETENNIS_DATA = {
-  "UPDATED": "2026-07-23 13:46 UTC",
+  "UPDATED": "2026-07-23 19:41 UTC",
   "SEASON": "WTT 2026",
   "LAST_TOURNAMENT": {
     "name": "WTT US Smash",
@@ -621,5 +621,87 @@ window.TABLETENNIS_DATA = {
       ]
     }
   ],
-  "IMPORTANCE": 7.5
+  "IMPORTANCE": 7.5,
+  "PROSPECTS": [
+    {
+      "id": "felix_lebrun",
+      "name": "Felix Lebrun",
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "colors": {
+        "primary": "#002395",
+        "secondary": "#FFFFFF"
+      },
+      "rank": 1,
+      "age": 19,
+      "activeScore": 81,
+      "legendScore": 0.0,
+      "note": "Fenómeno francés adolescente",
+      "discipline": "Individual Masculino"
+    },
+    {
+      "id": "lin_shidong",
+      "name": "Lin Shidong",
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "colors": {
+        "primary": "#DE2910",
+        "secondary": "#FFFFFF"
+      },
+      "rank": 2,
+      "age": 20,
+      "activeScore": 100,
+      "legendScore": 0.0,
+      "note": "Nº1 del ranking mundial",
+      "discipline": "Individual Masculino"
+    },
+    {
+      "id": "shin_yubin",
+      "name": "Shin Yubin",
+      "country": "KOR",
+      "logo": "https://flagcdn.com/24x18/kr.png",
+      "colors": {
+        "primary": "#003478",
+        "secondary": "#FFFFFF"
+      },
+      "rank": 3,
+      "age": 21,
+      "activeScore": 81,
+      "legendScore": 0.0,
+      "note": "Estrella coreana emergente",
+      "discipline": "Individual Femenino"
+    },
+    {
+      "id": "tomokazu_harimoto",
+      "name": "Tomokazu Harimoto",
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "colors": {
+        "primary": "#BC002D",
+        "secondary": "#FFFFFF"
+      },
+      "rank": 4,
+      "age": 22,
+      "activeScore": 85,
+      "legendScore": 0.0,
+      "note": "Referente japonés",
+      "discipline": "Individual Masculino"
+    },
+    {
+      "id": "truls_m_reg_rdh",
+      "name": "Truls Möregårdh",
+      "country": "SWE",
+      "logo": "https://flagcdn.com/24x18/se.png",
+      "colors": {
+        "primary": "#006AA7",
+        "secondary": "#FFFFFF"
+      },
+      "rank": 5,
+      "age": 23,
+      "activeScore": 87,
+      "legendScore": 0.0,
+      "note": "Plata olímpica individual 2024",
+      "discipline": "Individual Masculino"
+    }
+  ]
 };
