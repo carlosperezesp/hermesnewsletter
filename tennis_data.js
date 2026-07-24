@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-24 14:25 UTC
+// Auto-generated 2026-07-24 15:17 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-24 14:25 UTC",
+  "UPDATED": "2026-07-24 15:17 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -7975,7 +7975,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "MSC Hamburg Ladies Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 59.1
@@ -8147,7 +8147,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "MSC Hamburg Ladies Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 52.8
@@ -11427,15 +11427,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Paula Badosa",
+          "w": "Mayar Sherif",
           "w_logo": "",
-          "l": "Mayar Sherif",
+          "l": "Paula Badosa",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-4) 6-7 (2-7) 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 52.3,
-          "l_score": 36.0,
+          "w_score": 36.0,
+          "l_score": 52.3,
           "match_score": 52.3
         }
       ]
@@ -11644,7 +11644,7 @@ window.TENNIS_DATA = {
       "Yuan Yue"
     ],
     "aliveCount": 48,
-    "matchesSeen": 85
+    "matchesSeen": 86
   },
   "ATP_SCORE_LOG": {
     "206173": [
