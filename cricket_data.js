@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-07-23 22:29 UTC",
+  "UPDATED": "2026-07-24 07:45 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1561,
+    "matches": 1560,
     "archives": [
       {
         "name": "Tests",
@@ -37,7 +37,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "MLC",
-        "matches": 68
+        "matches": 67
       }
     ],
     "note": "Daily-after-results model: no live scores, recalculates from completed Cricsheet scorecards."
@@ -1350,7 +1350,7 @@ window.CRICKET_DATA = {
           "batting": 66.9,
           "bowling": 0.4,
           "overall": 9.1,
-          "runs": 2298,
+          "runs": 2272,
           "wickets": 0
         },
         {
@@ -1716,8 +1716,8 @@ window.CRICKET_DATA = {
           "batting": 23.6,
           "bowling": 63.1,
           "overall": 78.9,
-          "runs": 941,
-          "wickets": 86
+          "runs": 926,
+          "wickets": 85
         },
         {
           "id": "virandeep-singh",
@@ -2260,12 +2260,12 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 80.8,
-          "batting": 21.9,
-          "bowling": 65.9,
-          "overall": 80.8,
-          "runs": 941,
-          "wickets": 86
+          "score": 80.6,
+          "batting": 22.0,
+          "bowling": 65.3,
+          "overall": 80.6,
+          "runs": 926,
+          "wickets": 85
         },
         {
           "id": "bilal-zalmai",

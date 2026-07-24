@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-23 22:29 UTC",
+  "UPDATED": "2026-07-24 07:45 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Nashville:Álex Palou",
@@ -382,9 +382,9 @@ window.GLORY_DATA = {
       "Bryce Harper",
       "Juan Soto",
       "Yordan Alvarez",
+      "Chris Sale",
       "Kyle Schwarber",
       "Jacob Misiorowski",
-      "Chris Sale",
       "Willson Contreras"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
@@ -405,8 +405,8 @@ window.GLORY_DATA = {
       "Sal Stewart",
       "Jordan Walker",
       "CJ Abrams",
-      "Junior Caminero",
       "Pete Crow-Armstrong",
+      "Junior Caminero",
       "Chase Burns",
       "Nick Kurtz",
       "Cam Schlittler"

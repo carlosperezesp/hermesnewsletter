@@ -37928,7 +37928,7 @@ window.NHL_DATA = {
       "name": "Ryan Johnson",
       "pos": "D",
       "teamCode": "BUF",
-      "age": 24,
+      "age": 25,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -47977,10 +47977,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-23 22:27 UTC",
+  "LAST_UPDATE": "2026-07-24 07:42 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-23T22:27:15Z"
+    "standingsDateTimeUtc": "2026-07-24T07:41:30Z"
   }
 };
