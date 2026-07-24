@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-24 07:45 UTC",
+  "UPDATED": "2026-07-24 08:49 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Nashville:Álex Palou",
@@ -43,6 +43,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-10"
     },
     {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Mike Trout",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Mike Trout es nuevo nº1 · Road to Glory",
+      "weight": 92,
+      "firstSeen": "2026-07-24"
+    },
+    {
       "id": "rank:football:ROAD_TO_GLORY.dynasties:era:new1:Brazil (1994-2002)",
       "sport": "football",
       "detail": "Fútbol",
@@ -59,15 +68,6 @@ window.GLORY_DATA = {
       "text": "Spain es nuevo nº1 · Ranking Elo",
       "weight": 92,
       "firstSeen": "2026-07-19"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "Shohei Ohtani es nuevo nº1 · Road to Glory",
-      "weight": 92,
-      "firstSeen": "2026-07-10"
     },
     {
       "id": "tennis:in:WTA:Linda Noskova:20260709",
@@ -127,6 +127,42 @@ window.GLORY_DATA = {
       "text": "Remco Evenepoel ganó la última etapa del Tour de France",
       "weight": 88,
       "firstSeen": "2026-07-20"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Paul Skenes",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Paul Skenes entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-07-24"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:CJ Abrams",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "CJ Abrams entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-07-24"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Ben Rice",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Ben Rice entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-07-24"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:James Wood",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "James Wood entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-07-24"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Willson Contreras",
@@ -235,6 +271,33 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-wta",
       "firstSeen": "2026-07-13"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:out:Freddie Freeman",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Freddie Freeman cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-07-24"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:out:Bryce Harper",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Bryce Harper cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-07-24"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:out:Kyle Schwarber",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Kyle Schwarber cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-07-24"
     },
     {
       "id": "rank:football:ROAD_TO_GLORY.dynasties:era:out:Brazil (1958-1970)",
@@ -376,16 +439,16 @@ window.GLORY_DATA = {
       "VJ Edgecombe"
     ],
     "mlb:ROAD_TO_GLORY.players": [
-      "Shohei Ohtani",
       "Mike Trout",
-      "Freddie Freeman",
-      "Bryce Harper",
       "Juan Soto",
       "Yordan Alvarez",
       "Chris Sale",
-      "Kyle Schwarber",
       "Jacob Misiorowski",
-      "Willson Contreras"
+      "Willson Contreras",
+      "Paul Skenes",
+      "CJ Abrams",
+      "Ben Rice",
+      "James Wood"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
