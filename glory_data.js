@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-24 15:17 UTC",
+  "UPDATED": "2026-07-24 21:23 UTC",
   "EVENTS": [
     {
       "id": "indycar:win:Grand Prix of Nashville:Álex Palou",
@@ -95,6 +95,14 @@ window.GLORY_DATA = {
       "text": "Busang Collen Kebinatshipi entra en el top-10 histórico · 400m — H",
       "weight": 90,
       "firstSeen": "2026-07-10"
+    },
+    {
+      "id": "cycling:stage:Tour de France:19:Tadej Pogačar",
+      "sport": "cycling",
+      "detail": "Ciclismo",
+      "text": "Tadej Pogačar ganó la última etapa del Tour de France",
+      "weight": 88,
+      "firstSeen": "2026-07-24"
     },
     {
       "id": "cycling:stage:Tour de France:18:Richard Carapaz",

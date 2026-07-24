@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-24 15:15 UTC
+// Auto-generated 2026-07-24 21:21 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-07-24 15:15 UTC",
+  "UPDATED": "2026-07-24 21:21 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -693,22 +693,22 @@ window.CYCLING_DATA = {
     "name": "Tour de France",
     "start": "2026-07-04",
     "end": "2026-07-27",
-    "stage": 18,
+    "stage": 19,
     "total_stages": 21,
     "jersey_primary": "#FFD700",
     "jersey_name": "Maillot Jaune",
     "last_stage": {
-      "stage": 18,
-      "date": "23 July",
+      "stage": 19,
+      "date": "24 July",
       "type": "Mountain stage",
       "dist_km": null,
-      "from": "Voiron",
-      "to": "Orcières-Merlette",
+      "from": "Gap",
+      "to": "Alpe d'Huez",
       "completed": true,
-      "winner": "Richard Carapaz",
-      "winner_cc": "ECU",
-      "winner_primary": "#FFD100",
-      "winner_logo": "https://flagcdn.com/24x18/ec.png"
+      "winner": "Tadej Pogačar",
+      "winner_cc": "SLO",
+      "winner_primary": "#003DA5",
+      "winner_logo": "https://flagcdn.com/24x18/si.png"
     },
     "next_stage": {
       "stage": 1,
@@ -758,7 +758,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/si.png",
         "team": "UEX",
         "primary": "#003DA5",
-        "time": "64h 35' 13\"",
+        "time": "67h 53' 00\"",
         "legendScore": 0.0
       },
       {
@@ -768,7 +768,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/be.png",
         "team": "RBH",
         "primary": "#000000",
-        "time": "+ 4' 32\"",
+        "time": "+ 7' 11\"",
         "legendScore": 13.9
       },
       {
@@ -778,7 +778,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/mx.png",
         "team": "UEX",
         "primary": "#555555",
-        "time": "+ 6' 51\"",
+        "time": "+ 9' 42\"",
         "legendScore": 0.0
       },
       {
@@ -788,17 +788,17 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/fr.png",
         "team": "DCT",
         "primary": "#002395",
-        "time": "+ 7' 11\"",
+        "time": "+ 10' 06\"",
         "legendScore": 0.0
       },
       {
         "rank": 5,
-        "name": "Juan Ayuso",
-        "country": "ESP",
-        "logo": "https://flagcdn.com/24x18/es.png",
-        "team": "LTK men",
-        "primary": "#AA151B",
-        "time": "+ 9' 22\"",
+        "name": "Lenny Martinez",
+        "country": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "team": "TBV",
+        "primary": "#002395",
+        "time": "+ 13' 00\"",
         "legendScore": 0.0
       },
       {
@@ -808,47 +808,47 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/dk.png",
         "team": "LTK men",
         "primary": "#C60C30",
-        "time": "+ 10' 14\"",
+        "time": "+ 13' 09\"",
         "legendScore": 0.0
       },
       {
         "rank": 7,
-        "name": "Lenny Martinez",
-        "country": "FRA",
-        "logo": "https://flagcdn.com/24x18/fr.png",
-        "team": "TBV",
-        "primary": "#002395",
-        "time": "+ 12' 50\"",
+        "name": "Juan Ayuso",
+        "country": "ESP",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "team": "LTK men",
+        "primary": "#AA151B",
+        "time": "+ 15' 58\"",
         "legendScore": 0.0
       },
       {
         "rank": 8,
-        "name": "Tom Pidcock",
-        "country": "GBR",
-        "logo": "https://flagcdn.com/24x18/gb.png",
-        "team": "Q36",
-        "primary": "#012169",
-        "time": "+ 12' 58\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 9,
-        "name": "Jordan Jegat",
-        "country": "FRA",
-        "logo": "https://flagcdn.com/24x18/fr.png",
-        "team": "TEN",
-        "primary": "#002395",
-        "time": "+ 14' 04\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 10,
         "name": "Richard Carapaz",
         "country": "ECU",
         "logo": "https://flagcdn.com/24x18/ec.png",
         "team": "EFE",
         "primary": "#FFD100",
-        "time": "+ 21' 00\"",
+        "time": "+ 21' 15\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 9,
+        "name": "Tom Pidcock",
+        "country": "GBR",
+        "logo": "https://flagcdn.com/24x18/gb.png",
+        "team": "PQT",
+        "primary": "#012169",
+        "time": "+ 21' 30\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 10,
+        "name": "Jordan Jegat",
+        "country": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "team": "TEN",
+        "primary": "#002395",
+        "time": "+ 23' 21\"",
         "legendScore": 0.0
       }
     ],
@@ -859,17 +859,17 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/dk.png",
       "team": "LTK men",
       "primary": "#C60C30",
-      "points": 477,
+      "points": 502,
       "legendScore": 0.0
     },
     "kom_leader": {
       "rank": 1,
-      "name": "Tadej Pogačar",
-      "country": "SLO",
-      "logo": "https://flagcdn.com/24x18/si.png",
-      "team": "UEX",
-      "primary": "#003DA5",
-      "points": 70,
+      "name": "Richard Carapaz",
+      "country": "ECU",
+      "logo": "https://flagcdn.com/24x18/ec.png",
+      "team": "EFE",
+      "primary": "#FFD100",
+      "points": 91,
       "legendScore": 0.0
     },
     "young_leader": {
@@ -879,7 +879,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/mx.png",
       "team": "UEX",
       "primary": "#555555",
-      "time": "64h 42' 04\"",
+      "time": "68h 02' 42\"",
       "legendScore": 0.0
     }
   },
