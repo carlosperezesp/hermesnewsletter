@@ -1,10 +1,10 @@
-// Auto-generated 2026-07-23 19:41 UTC
+// Auto-generated 2026-07-24 14:09 UTC
 window.BADMINTON_DATA = {
-  "UPDATED": "2026-07-23 19:41 UTC",
+  "UPDATED": "2026-07-24 14:09 UTC",
   "SEASON": "BWF World Tour 2026",
   "SOURCE": {
-    "name": "Snapshot curado (rankings BWF + palmarés histórico)",
-    "note": "Datos curados a mano; ampliable a dobles y mixto."
+    "name": "Oro olímpico + Mundial descargados (Wikipedia); All England y semanas nº1 estables",
+    "note": "Los títulos mayores se cuentan automáticamente; All England y semanas nº1 son datos históricos curados."
   },
   "LAST_TOURNAMENT": {
     "name": "Japan Open",
@@ -42,7 +42,7 @@ window.BADMINTON_DATA = {
     "location": "París",
     "startLabel": "24 Aug",
     "endLabel": "30 Aug",
-    "daysToStart": 32,
+    "daysToStart": 31,
     "defending": "Anders Antonsen (M) · An Se-young (F)",
     "favorites": [
       {
@@ -119,9 +119,9 @@ window.BADMINTON_DATA = {
           "rank": 1,
           "age": 30,
           "activeScore": 100,
-          "legendScore": 8.0,
+          "legendScore": 17.5,
           "olympicGold": 0,
-          "worldGold": 0,
+          "worldGold": 1,
           "allEngland": 2,
           "note": "Nº1 del mundo"
         },
@@ -155,9 +155,9 @@ window.BADMINTON_DATA = {
           "rank": 3,
           "age": 29,
           "activeScore": 93,
-          "legendScore": 13.5,
+          "legendScore": 4.0,
           "olympicGold": 0,
-          "worldGold": 1,
+          "worldGold": 0,
           "allEngland": 1,
           "note": "Campeón del mundo 2025"
         },
@@ -268,7 +268,7 @@ window.BADMINTON_DATA = {
           "allEngland": 6,
           "weeksNo1": 200,
           "legendScore": 100.0,
-          "note": "'Super Dan': el más grande. Dos oros olímpicos, cinco Mundiales.",
+          "note": "2 oros olímpicos · 5 Mundiales · 6 All England. 'Super Dan': el más grande de la historia.",
           "active": false,
           "rank": 1
         },
@@ -281,14 +281,14 @@ window.BADMINTON_DATA = {
             "primary": "#C60C30",
             "secondary": "#FFFFFF"
           },
-          "era": "2016-presente",
+          "era": "en activo",
           "olympicGold": 2,
           "worldGold": 2,
           "allEngland": 1,
           "weeksNo1": 130,
           "legendScore": 52.8,
-          "note": "Dos oros olímpicos y dos Mundiales; la era danesa.",
-          "active": false,
+          "note": "2 oros olímpicos · 2 Mundiales · 1 All England. La era danesa; dominador actual.",
+          "active": true,
           "rank": 2
         },
         {
@@ -306,7 +306,7 @@ window.BADMINTON_DATA = {
           "allEngland": 8,
           "weeksNo1": 0,
           "legendScore": 34.7,
-          "note": "Récord de ocho All England, siete consecutivos.",
+          "note": "0 oros olímpicos · 1 Mundial · 8 All England. Récord de ocho All England, siete consecutivos.",
           "active": false,
           "rank": 3
         },
@@ -325,7 +325,7 @@ window.BADMINTON_DATA = {
           "allEngland": 0,
           "weeksNo1": 60,
           "legendScore": 34.1,
-          "note": "Oro olímpico 2016 y doble campeón del mundo.",
+          "note": "1 oro olímpico · 2 Mundiales · 0 All England. Oro olímpico 2016 y doble campeón del mundo.",
           "active": false,
           "rank": 4
         },
@@ -344,7 +344,7 @@ window.BADMINTON_DATA = {
           "allEngland": 4,
           "weeksNo1": 349,
           "legendScore": 27.3,
-          "note": "349 semanas nº1: el mejor de la historia sin un gran oro.",
+          "note": "0 oros olímpicos · 0 Mundiales · 4 All England. 349 semanas nº1: el mejor sin un gran oro.",
           "active": false,
           "rank": 5
         },
@@ -363,7 +363,7 @@ window.BADMINTON_DATA = {
           "allEngland": 0,
           "weeksNo1": 40,
           "legendScore": 23.8,
-          "note": "Oro olímpico 2004 con un revés legendario.",
+          "note": "1 oro olímpico · 1 Mundial · 0 All England. Oro olímpico 2004 con un revés legendario.",
           "active": false,
           "rank": 6
         },
@@ -382,9 +382,28 @@ window.BADMINTON_DATA = {
           "allEngland": 0,
           "weeksNo1": 100,
           "legendScore": 23.2,
-          "note": "Doble campeón del mundo y récord de victorias en una temporada.",
+          "note": "0 oros olímpicos · 2 Mundiales · 0 All England. Doble campeón del mundo y récord de victorias.",
           "active": false,
           "rank": 7
+        },
+        {
+          "id": "yang_yang",
+          "name": "Yang Yang",
+          "country": "CHN",
+          "logo": "https://flagcdn.com/24x18/cn.png",
+          "colors": {
+            "primary": "#DE2910",
+            "secondary": "#FFFFFF"
+          },
+          "era": "—",
+          "olympicGold": 0,
+          "worldGold": 2,
+          "allEngland": 0,
+          "weeksNo1": 0,
+          "legendScore": 18.9,
+          "note": "0 oros olímpicos · 2 Mundiales · 0 All England.",
+          "active": false,
+          "rank": 8
         },
         {
           "id": "morten_frost",
@@ -401,104 +420,9 @@ window.BADMINTON_DATA = {
           "allEngland": 4,
           "weeksNo1": 30,
           "legendScore": 13.9,
-          "note": "Dominó los 80 con cuatro All England pese a no ganar el Mundial.",
+          "note": "0 oros olímpicos · 0 Mundiales · 4 All England. Dominó los 80 con cuatro All England pese a no ganar el Mundial.",
           "active": false,
-          "rank": 8
-        },
-        {
-          "id": "anders_antonsen",
-          "name": "Anders Antonsen",
-          "country": "DEN",
-          "logo": "https://flagcdn.com/24x18/dk.png",
-          "colors": {
-            "primary": "#C60C30",
-            "secondary": "#FFFFFF"
-          },
-          "era": "en activo",
-          "olympicGold": 0,
-          "worldGold": 1,
-          "allEngland": 1,
-          "weeksNo1": 20,
-          "legendScore": 13.5,
-          "note": "Campeón del mundo 2025",
-          "active": true,
           "rank": 9
-        },
-        {
-          "id": "kunlavut_vitidsarn",
-          "name": "Kunlavut Vitidsarn",
-          "country": "THA",
-          "logo": "https://flagcdn.com/24x18/th.png",
-          "colors": {
-            "primary": "#A51931",
-            "secondary": "#FFFFFF"
-          },
-          "era": "en activo",
-          "olympicGold": 0,
-          "worldGold": 1,
-          "allEngland": 0,
-          "weeksNo1": 10,
-          "legendScore": 9.9,
-          "note": "Campeón del mundo 2023, plata olímpica 2024",
-          "active": true,
-          "rank": 10
-        },
-        {
-          "id": "loh_kean_yew",
-          "name": "Loh Kean Yew",
-          "country": "SGP",
-          "logo": "https://flagcdn.com/24x18/sg.png",
-          "colors": {
-            "primary": "#EF3340",
-            "secondary": "#FFFFFF"
-          },
-          "era": "en activo",
-          "olympicGold": 0,
-          "worldGold": 1,
-          "allEngland": 0,
-          "weeksNo1": 5,
-          "legendScore": 9.7,
-          "note": "Campeón del mundo 2021",
-          "active": true,
-          "rank": 11
-        },
-        {
-          "id": "shi_yuqi",
-          "name": "Shi Yuqi",
-          "country": "CHN",
-          "logo": "https://flagcdn.com/24x18/cn.png",
-          "colors": {
-            "primary": "#DE2910",
-            "secondary": "#FFFFFF"
-          },
-          "era": "en activo",
-          "olympicGold": 0,
-          "worldGold": 0,
-          "allEngland": 2,
-          "weeksNo1": 40,
-          "legendScore": 8.0,
-          "note": "Nº1 del mundo",
-          "active": true,
-          "rank": 12
-        },
-        {
-          "id": "lee_zii_jia",
-          "name": "Lee Zii Jia",
-          "country": "MAS",
-          "logo": "https://flagcdn.com/24x18/my.png",
-          "colors": {
-            "primary": "#CC0001",
-            "secondary": "#FFFFFF"
-          },
-          "era": "en activo",
-          "olympicGold": 0,
-          "worldGold": 0,
-          "allEngland": 1,
-          "weeksNo1": 10,
-          "legendScore": 3.6,
-          "note": "Bronce olímpico 2024",
-          "active": true,
-          "rank": 13
         }
       ]
     },
@@ -536,11 +460,11 @@ window.BADMINTON_DATA = {
           "rank": 2,
           "age": 28,
           "activeScore": 95,
-          "legendScore": 47.7,
+          "legendScore": 68.0,
           "olympicGold": 0,
-          "worldGold": 2,
+          "worldGold": 3,
           "allEngland": 0,
-          "note": "Doble campeona del mundo"
+          "note": "Múltiple campeona del mundo"
         },
         {
           "id": "chen_yufei",
@@ -572,10 +496,10 @@ window.BADMINTON_DATA = {
           "rank": 4,
           "age": 25,
           "activeScore": 87,
-          "legendScore": 0.0,
+          "legendScore": 7.7,
           "olympicGold": 0,
           "worldGold": 0,
-          "allEngland": 0,
+          "allEngland": 1,
           "note": "Campeona de All England"
         },
         {
@@ -667,7 +591,7 @@ window.BADMINTON_DATA = {
           "allEngland": 1,
           "weeksNo1": 60,
           "legendScore": 100.0,
-          "note": "Oro olímpico 2016 y triple campeona del mundo; intensidad única.",
+          "note": "1 oro olímpico · 3 Mundiales · 1 All England. Oro olímpico 2016 y triple campeona del mundo; intensidad única.",
           "active": false,
           "rank": 1
         },
@@ -686,7 +610,7 @@ window.BADMINTON_DATA = {
           "allEngland": 4,
           "weeksNo1": 50,
           "legendScore": 78.8,
-          "note": "Oro olímpico 1992 y cuatro All England; icono indonesio.",
+          "note": "1 oro olímpico · 1 Mundial · 4 All England. Oro olímpico 1992 y cuatro All England; icono indonesio.",
           "active": false,
           "rank": 2
         },
@@ -705,9 +629,28 @@ window.BADMINTON_DATA = {
           "allEngland": 0,
           "weeksNo1": 40,
           "legendScore": 77.9,
-          "note": "Bicampeona olímpica (2004, 2008).",
+          "note": "2 oros olímpicos · 1 Mundial · 0 All England. Bicampeona olímpica (2004, 2008).",
           "active": false,
           "rank": 3
+        },
+        {
+          "id": "akane_yamaguchi",
+          "name": "Akane Yamaguchi",
+          "country": "JPN",
+          "logo": "https://flagcdn.com/24x18/jp.png",
+          "colors": {
+            "primary": "#BC002D",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 0,
+          "worldGold": 3,
+          "allEngland": 0,
+          "weeksNo1": 80,
+          "legendScore": 68.0,
+          "note": "0 oros olímpicos · 3 Mundiales · 0 All England. Múltiple campeona del mundo; motor incansable.",
+          "active": true,
+          "rank": 4
         },
         {
           "id": "an_se_young",
@@ -724,146 +667,89 @@ window.BADMINTON_DATA = {
           "allEngland": 1,
           "weeksNo1": 100,
           "legendScore": 63.1,
-          "note": "Campeona olímpica 2024 y nº1",
+          "note": "1 oro olímpico · 1 Mundial · 1 All England. Campeona olímpica 2024 y nº1 dominante.",
           "active": true,
-          "rank": 4
-        },
-        {
-          "id": "li_xuerui",
-          "name": "Li Xuerui",
-          "country": "CHN",
-          "logo": "https://flagcdn.com/24x18/cn.png",
-          "colors": {
-            "primary": "#DE2910",
-            "secondary": "#FFFFFF"
-          },
-          "era": "2011-2014",
-          "olympicGold": 1,
-          "worldGold": 1,
-          "allEngland": 1,
-          "weeksNo1": 60,
-          "legendScore": 59.5,
-          "note": "Oro olímpico 2012 y campeona del mundo.",
-          "active": false,
           "rank": 5
         },
         {
-          "id": "akane_yamaguchi",
-          "name": "Akane Yamaguchi",
-          "country": "JPN",
-          "logo": "https://flagcdn.com/24x18/jp.png",
+          "id": "han_aiping",
+          "name": "Han Aiping",
+          "country": "CHN",
+          "logo": "https://flagcdn.com/24x18/cn.png",
           "colors": {
-            "primary": "#BC002D",
+            "primary": "#DE2910",
             "secondary": "#FFFFFF"
           },
-          "era": "en activo",
+          "era": "—",
           "olympicGold": 0,
           "worldGold": 2,
           "allEngland": 0,
-          "weeksNo1": 80,
-          "legendScore": 47.7,
-          "note": "Doble campeona del mundo",
-          "active": true,
+          "weeksNo1": 0,
+          "legendScore": 40.5,
+          "note": "0 oros olímpicos · 2 Mundiales · 0 All England.",
+          "active": false,
           "rank": 6
         },
         {
-          "id": "chen_yufei",
-          "name": "Chen Yufei",
+          "id": "li_lingwei",
+          "name": "Li Lingwei",
           "country": "CHN",
           "logo": "https://flagcdn.com/24x18/cn.png",
           "colors": {
             "primary": "#DE2910",
             "secondary": "#FFFFFF"
           },
-          "era": "en activo",
-          "olympicGold": 1,
-          "worldGold": 0,
-          "allEngland": 1,
-          "weeksNo1": 40,
-          "legendScore": 37.4,
-          "note": "Campeona olímpica 2021",
-          "active": true,
+          "era": "—",
+          "olympicGold": 0,
+          "worldGold": 2,
+          "allEngland": 0,
+          "weeksNo1": 0,
+          "legendScore": 40.5,
+          "note": "0 oros olímpicos · 2 Mundiales · 0 All England.",
+          "active": false,
           "rank": 7
         },
         {
-          "id": "wang_yihan",
-          "name": "Wang Yihan",
+          "id": "xie_xingfang",
+          "name": "Xie Xingfang",
           "country": "CHN",
           "logo": "https://flagcdn.com/24x18/cn.png",
           "colors": {
             "primary": "#DE2910",
             "secondary": "#FFFFFF"
           },
-          "era": "2010-2013",
+          "era": "—",
           "olympicGold": 0,
-          "worldGold": 1,
-          "allEngland": 1,
-          "weeksNo1": 70,
-          "legendScore": 33.3,
-          "note": "Nº1 sostenida y campeona del mundo 2011.",
+          "worldGold": 2,
+          "allEngland": 0,
+          "weeksNo1": 0,
+          "legendScore": 40.5,
+          "note": "0 oros olímpicos · 2 Mundiales · 0 All England.",
           "active": false,
           "rank": 8
         },
         {
-          "id": "tai_tzu_ying",
-          "name": "Tai Tzu-ying",
-          "country": "TPE",
-          "logo": "https://flagcdn.com/24x18/tw.png",
+          "id": "ye_zhaoying",
+          "name": "Ye Zhaoying",
+          "country": "CHN",
+          "logo": "https://flagcdn.com/24x18/cn.png",
           "colors": {
-            "primary": "#000095",
+            "primary": "#DE2910",
             "secondary": "#FFFFFF"
           },
-          "era": "2016-2024",
+          "era": "—",
           "olympicGold": 0,
-          "worldGold": 0,
-          "allEngland": 2,
-          "weeksNo1": 214,
-          "legendScore": 32.8,
-          "note": "214 semanas nº1: la más dominante sin oro olímpico ni mundial.",
+          "worldGold": 2,
+          "allEngland": 0,
+          "weeksNo1": 0,
+          "legendScore": 40.5,
+          "note": "0 oros olímpicos · 2 Mundiales · 0 All England.",
           "active": false,
           "rank": 9
-        },
-        {
-          "id": "ratchanok_intanon",
-          "name": "Ratchanok Intanon",
-          "country": "THA",
-          "logo": "https://flagcdn.com/24x18/th.png",
-          "colors": {
-            "primary": "#A51931",
-            "secondary": "#FFFFFF"
-          },
-          "era": "2013-2016",
-          "olympicGold": 0,
-          "worldGold": 1,
-          "allEngland": 0,
-          "weeksNo1": 30,
-          "legendScore": 23.0,
-          "note": "Campeona del mundo más joven de la historia (18 años).",
-          "active": false,
-          "rank": 10
-        },
-        {
-          "id": "p_v_sindhu",
-          "name": "P. V. Sindhu",
-          "country": "IND",
-          "logo": "https://flagcdn.com/24x18/in.png",
-          "colors": {
-            "primary": "#FF9933",
-            "secondary": "#FFFFFF"
-          },
-          "era": "2016-2019",
-          "olympicGold": 0,
-          "worldGold": 1,
-          "allEngland": 0,
-          "weeksNo1": 10,
-          "legendScore": 21.2,
-          "note": "Campeona del mundo 2019 y doble medallista olímpica.",
-          "active": false,
-          "rank": 11
         }
       ]
     }
   ],
-  "IMPORTANCE": 8.0,
-  "PROSPECTS": []
+  "PROSPECTS": [],
+  "IMPORTANCE": 8.0
 };
