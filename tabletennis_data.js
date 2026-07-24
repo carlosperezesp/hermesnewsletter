@@ -1,7 +1,11 @@
-// Auto-generated 2026-07-23 19:41 UTC
+// Auto-generated 2026-07-24 12:28 UTC
 window.TABLETENNIS_DATA = {
-  "UPDATED": "2026-07-23 19:41 UTC",
+  "UPDATED": "2026-07-24 12:28 UTC",
   "SEASON": "WTT 2026",
+  "SOURCE": {
+    "name": "Palmarés real (Wikipedia: oro olímpico + Mundial + Copa del Mundo, individual)",
+    "note": "Títulos descargados y contados automáticamente; ranking de forma curado."
+  },
   "LAST_TOURNAMENT": {
     "name": "WTT US Smash",
     "level": "Grand Smash",
@@ -38,7 +42,7 @@ window.TABLETENNIS_DATA = {
     "location": "Pekín",
     "startLabel": "25 Sep",
     "endLabel": "04 Oct",
-    "daysToStart": 64,
+    "daysToStart": 63,
     "defending": "Wang Chuqin (M) · Sun Yingsha (F)",
     "favorites": [
       {
@@ -125,7 +129,7 @@ window.TABLETENNIS_DATA = {
           "rank": 2,
           "age": 25,
           "activeScore": 97,
-          "legendScore": 19.6,
+          "legendScore": 18.5,
           "note": "Campeón olímpico de dobles mixtos 2024"
         },
         {
@@ -140,7 +144,7 @@ window.TABLETENNIS_DATA = {
           "rank": 3,
           "age": 28,
           "activeScore": 95,
-          "legendScore": 54.9,
+          "legendScore": 70.4,
           "note": "Campeón olímpico individual 2024"
         },
         {
@@ -229,41 +233,14 @@ window.TABLETENNIS_DATA = {
             "primary": "#DE2910",
             "secondary": "#FFFFFF"
           },
-          "era": "2011-2021",
+          "era": "en activo",
+          "olympicGold": 2,
+          "worldTitles": 3,
+          "worldCups": 3,
           "legendScore": 100.0,
-          "note": "2 oros olímpicos · 3 Mundiales · 2 Copa del Mundo. El GOAT: doble oro olímpico individual y Grand Slam completo.",
-          "active": false,
+          "note": "2 oros olímpicos · 3 Mundiales · 3 Copa del Mundo. El GOAT: doble oro olímpico y Grand Slam completo.",
+          "active": true,
           "rank": 1
-        },
-        {
-          "id": "jan_ove_waldner",
-          "name": "Jan-Ove Waldner",
-          "country": "SWE",
-          "logo": "https://flagcdn.com/24x18/se.png",
-          "colors": {
-            "primary": "#006AA7",
-            "secondary": "#FFFFFF"
-          },
-          "era": "1989-2000",
-          "legendScore": 56.9,
-          "note": "1 oro olímpico · 2 Mundiales · 1 Copa del Mundo. 'El Mozart': el europeo que dominó a China.",
-          "active": false,
-          "rank": 2
-        },
-        {
-          "id": "zhang_jike",
-          "name": "Zhang Jike",
-          "country": "CHN",
-          "logo": "https://flagcdn.com/24x18/cn.png",
-          "colors": {
-            "primary": "#DE2910",
-            "secondary": "#FFFFFF"
-          },
-          "era": "2011-2014",
-          "legendScore": 56.9,
-          "note": "1 oro olímpico · 2 Mundiales · 1 Copa del Mundo. Grand Slam en tiempo récord (445 días).",
-          "active": false,
-          "rank": 3
         },
         {
           "id": "fan_zhendong",
@@ -275,25 +252,103 @@ window.TABLETENNIS_DATA = {
             "secondary": "#FFFFFF"
           },
           "era": "en activo",
-          "legendScore": 54.9,
-          "note": "1 oro olímpico · 1 Mundial · 3 Copa del Mundo. Campeón olímpico individual 2024",
+          "olympicGold": 1,
+          "worldTitles": 2,
+          "worldCups": 4,
+          "legendScore": 70.4,
+          "note": "1 oro olímpico · 2 Mundiales · 4 Copa del Mundo. Oro olímpico 2024 y dominador de la Copa del Mundo.",
           "active": true,
-          "rank": 4
+          "rank": 2
         },
         {
-          "id": "wang_liqin",
-          "name": "Wang Liqin",
+          "id": "viktor_barna",
+          "name": "Viktor Barna",
+          "country": "HUN",
+          "logo": "https://flagcdn.com/24x18/hu.png",
+          "colors": {
+            "primary": "#436F4D",
+            "secondary": "#FFFFFF"
+          },
+          "era": "—",
+          "olympicGold": 0,
+          "worldTitles": 5,
+          "worldCups": 0,
+          "legendScore": 64.8,
+          "note": "0 oros olímpicos · 5 Mundiales · 0 Copa del Mundo. Cinco Mundiales en los años 30; leyenda fundacional.",
+          "active": false,
+          "rank": 3
+        },
+        {
+          "id": "zhang_jike",
+          "name": "Zhang Jike",
           "country": "CHN",
           "logo": "https://flagcdn.com/24x18/cn.png",
           "colors": {
             "primary": "#DE2910",
             "secondary": "#FFFFFF"
           },
-          "era": "2001-2007",
-          "legendScore": 47.1,
-          "note": "0 oros olímpicos · 3 Mundiales · 1 Copa del Mundo. Triple campeón del mundo individual.",
+          "era": "—",
+          "olympicGold": 1,
+          "worldTitles": 2,
+          "worldCups": 2,
+          "legendScore": 59.3,
+          "note": "1 oro olímpico · 2 Mundiales · 2 Copa del Mundo. Grand Slam en tiempo récord (445 días).",
+          "active": false,
+          "rank": 4
+        },
+        {
+          "id": "jan_ove_waldner",
+          "name": "Jan-Ove Waldner",
+          "country": "SWE",
+          "logo": "https://flagcdn.com/24x18/se.png",
+          "colors": {
+            "primary": "#006AA7",
+            "secondary": "#FFFFFF"
+          },
+          "era": "—",
+          "olympicGold": 1,
+          "worldTitles": 2,
+          "worldCups": 1,
+          "legendScore": 53.7,
+          "note": "1 oro olímpico · 2 Mundiales · 1 Copa del Mundo. 'El Mozart': el europeo que dominó a China.",
           "active": false,
           "rank": 5
+        },
+        {
+          "id": "richard_bergmann",
+          "name": "Richard Bergmann",
+          "country": "AUT",
+          "logo": "https://flagcdn.com/24x18/at.png",
+          "colors": {
+            "primary": "#ED2939",
+            "secondary": "#FFFFFF"
+          },
+          "era": "—",
+          "olympicGold": 0,
+          "worldTitles": 4,
+          "worldCups": 0,
+          "legendScore": 51.9,
+          "note": "0 oros olímpicos · 4 Mundiales · 0 Copa del Mundo.",
+          "active": false,
+          "rank": 6
+        },
+        {
+          "id": "ma_lin",
+          "name": "Ma Lin",
+          "country": "CHN",
+          "logo": "https://flagcdn.com/24x18/cn.png",
+          "colors": {
+            "primary": "#DE2910",
+            "secondary": "#FFFFFF"
+          },
+          "era": "—",
+          "olympicGold": 1,
+          "worldTitles": 0,
+          "worldCups": 4,
+          "legendScore": 44.4,
+          "note": "1 oro olímpico · 0 Mundiales · 4 Copa del Mundo.",
+          "active": false,
+          "rank": 7
         },
         {
           "id": "kong_linghui",
@@ -304,11 +359,14 @@ window.TABLETENNIS_DATA = {
             "primary": "#DE2910",
             "secondary": "#FFFFFF"
           },
-          "era": "1995-2000",
-          "legendScore": 43.1,
-          "note": "1 oro olímpico · 1 Mundial · 1 Copa del Mundo. Uno de los primeros Grand Slam de la historia.",
+          "era": "—",
+          "olympicGold": 1,
+          "worldTitles": 1,
+          "worldCups": 1,
+          "legendScore": 40.7,
+          "note": "1 oro olímpico · 1 Mundial · 1 Copa del Mundo.",
           "active": false,
-          "rank": 6
+          "rank": 8
         },
         {
           "id": "liu_guoliang",
@@ -319,41 +377,32 @@ window.TABLETENNIS_DATA = {
             "primary": "#DE2910",
             "secondary": "#FFFFFF"
           },
-          "era": "1996-1999",
-          "legendScore": 43.1,
-          "note": "1 oro olímpico · 1 Mundial · 1 Copa del Mundo. Grand Slam y después seleccionador legendario.",
+          "era": "—",
+          "olympicGold": 1,
+          "worldTitles": 1,
+          "worldCups": 1,
+          "legendScore": 40.7,
+          "note": "1 oro olímpico · 1 Mundial · 1 Copa del Mundo.",
           "active": false,
-          "rank": 7
+          "rank": 9
         },
         {
-          "id": "wang_chuqin",
-          "name": "Wang Chuqin",
+          "id": "wang_liqin",
+          "name": "Wang Liqin",
           "country": "CHN",
           "logo": "https://flagcdn.com/24x18/cn.png",
           "colors": {
             "primary": "#DE2910",
             "secondary": "#FFFFFF"
           },
-          "era": "en activo",
-          "legendScore": 19.6,
-          "note": "0 oros olímpicos · 1 Mundial · 1 Copa del Mundo. Campeón olímpico de dobles mixtos 2024",
-          "active": true,
-          "rank": 8
-        },
-        {
-          "id": "timo_boll",
-          "name": "Timo Boll",
-          "country": "GER",
-          "logo": "https://flagcdn.com/24x18/de.png",
-          "colors": {
-            "primary": "#000000",
-            "secondary": "#FFFFFF"
-          },
-          "era": "2002-2018",
-          "legendScore": 11.8,
-          "note": "0 oros olímpicos · 0 Mundiales · 2 Copa del Mundo. El mejor europeo de su era; nº1 sin oro olímpico ni mundial.",
+          "era": "—",
+          "olympicGold": 0,
+          "worldTitles": 3,
+          "worldCups": 0,
+          "legendScore": 38.9,
+          "note": "0 oros olímpicos · 3 Mundiales · 0 Copa del Mundo. Triple campeón del mundo individual.",
           "active": false,
-          "rank": 9
+          "rank": 10
         }
       ]
     },
@@ -373,7 +422,7 @@ window.TABLETENNIS_DATA = {
           "rank": 1,
           "age": 25,
           "activeScore": 100,
-          "legendScore": 19.6,
+          "legendScore": 46.0,
           "note": "Nº1 del mundo"
         },
         {
@@ -388,7 +437,7 @@ window.TABLETENNIS_DATA = {
           "rank": 2,
           "age": 26,
           "activeScore": 96,
-          "legendScore": 5.9,
+          "legendScore": 14.0,
           "note": "Múltiple campeona por equipos"
         },
         {
@@ -403,7 +452,7 @@ window.TABLETENNIS_DATA = {
           "rank": 3,
           "age": 31,
           "activeScore": 93,
-          "legendScore": 47.1,
+          "legendScore": 54.0,
           "note": "Bicampeona olímpica individual (2020, 2024)"
         },
         {
@@ -484,21 +533,6 @@ window.TABLETENNIS_DATA = {
       ],
       "LEGENDS": [
         {
-          "id": "deng_yaping",
-          "name": "Deng Yaping",
-          "country": "CHN",
-          "logo": "https://flagcdn.com/24x18/cn.png",
-          "colors": {
-            "primary": "#DE2910",
-            "secondary": "#FFFFFF"
-          },
-          "era": "1991-1997",
-          "legendScore": 100.0,
-          "note": "2 oros olímpicos · 3 Mundiales · 2 Copa del Mundo. La reina: doble oro olímpico individual y dominio absoluto.",
-          "active": false,
-          "rank": 1
-        },
-        {
           "id": "zhang_yining",
           "name": "Zhang Yining",
           "country": "CHN",
@@ -507,9 +541,30 @@ window.TABLETENNIS_DATA = {
             "primary": "#DE2910",
             "secondary": "#FFFFFF"
           },
-          "era": "2004-2008",
-          "legendScore": 98.0,
+          "era": "—",
+          "olympicGold": 2,
+          "worldTitles": 2,
+          "worldCups": 4,
+          "legendScore": 100.0,
           "note": "2 oros olímpicos · 2 Mundiales · 4 Copa del Mundo. Doble oro olímpico y récord de Copas del Mundo.",
+          "active": false,
+          "rank": 1
+        },
+        {
+          "id": "deng_yaping",
+          "name": "Deng Yaping",
+          "country": "CHN",
+          "logo": "https://flagcdn.com/24x18/cn.png",
+          "colors": {
+            "primary": "#DE2910",
+            "secondary": "#FFFFFF"
+          },
+          "era": "—",
+          "olympicGold": 2,
+          "worldTitles": 3,
+          "worldCups": 1,
+          "legendScore": 96.0,
+          "note": "2 oros olímpicos · 3 Mundiales · 1 Copa del Mundo. La reina: doble oro olímpico y dominio absoluto.",
           "active": false,
           "rank": 2
         },
@@ -522,11 +577,32 @@ window.TABLETENNIS_DATA = {
             "primary": "#DE2910",
             "secondary": "#FFFFFF"
           },
-          "era": "1999-2005",
-          "legendScore": 88.2,
-          "note": "1 oro olímpico · 3 Mundiales · 4 Copa del Mundo. Triple campeona del mundo y Grand Slam.",
+          "era": "—",
+          "olympicGold": 1,
+          "worldTitles": 3,
+          "worldCups": 4,
+          "legendScore": 90.0,
+          "note": "1 oro olímpico · 3 Mundiales · 4 Copa del Mundo. Grand Slam y triple campeona del mundo.",
           "active": false,
           "rank": 3
+        },
+        {
+          "id": "angelica_rozeanu",
+          "name": "Angelica Rozeanu",
+          "country": "ROU",
+          "logo": "https://flagcdn.com/24x18/ro.png",
+          "colors": {
+            "primary": "#002B7F",
+            "secondary": "#FFFFFF"
+          },
+          "era": "—",
+          "olympicGold": 0,
+          "worldTitles": 6,
+          "worldCups": 0,
+          "legendScore": 84.0,
+          "note": "0 oros olímpicos · 6 Mundiales · 0 Copa del Mundo. Seis Mundiales seguidos (1950-1955): dominio histórico.",
+          "active": false,
+          "rank": 4
         },
         {
           "id": "ding_ning",
@@ -537,11 +613,32 @@ window.TABLETENNIS_DATA = {
             "primary": "#DE2910",
             "secondary": "#FFFFFF"
           },
-          "era": "2011-2016",
-          "legendScore": 70.6,
-          "note": "1 oro olímpico · 3 Mundiales · 1 Copa del Mundo. Grand Slam y triple campeona del mundo.",
+          "era": "—",
+          "olympicGold": 1,
+          "worldTitles": 3,
+          "worldCups": 3,
+          "legendScore": 84.0,
+          "note": "1 oro olímpico · 3 Mundiales · 3 Copa del Mundo. Grand Slam y triple campeona del mundo.",
           "active": false,
-          "rank": 4
+          "rank": 5
+        },
+        {
+          "id": "m_ria_medny_nszky",
+          "name": "Mária Mednyánszky",
+          "country": "HUN",
+          "logo": "https://flagcdn.com/24x18/hu.png",
+          "colors": {
+            "primary": "#436F4D",
+            "secondary": "#FFFFFF"
+          },
+          "era": "—",
+          "olympicGold": 0,
+          "worldTitles": 5,
+          "worldCups": 0,
+          "legendScore": 70.0,
+          "note": "0 oros olímpicos · 5 Mundiales · 0 Copa del Mundo.",
+          "active": false,
+          "rank": 6
         },
         {
           "id": "chen_meng",
@@ -552,40 +649,13 @@ window.TABLETENNIS_DATA = {
             "primary": "#DE2910",
             "secondary": "#FFFFFF"
           },
-          "era": "2020-2024",
-          "legendScore": 47.1,
-          "note": "2 oros olímpicos · 0 Mundiales · 0 Copa del Mundo. Bicampeona olímpica individual consecutiva.",
-          "active": false,
-          "rank": 5
-        },
-        {
-          "id": "li_xiaoxia",
-          "name": "Li Xiaoxia",
-          "country": "CHN",
-          "logo": "https://flagcdn.com/24x18/cn.png",
-          "colors": {
-            "primary": "#DE2910",
-            "secondary": "#FFFFFF"
-          },
-          "era": "2008-2013",
-          "legendScore": 43.1,
-          "note": "1 oro olímpico · 1 Mundial · 1 Copa del Mundo. Oro olímpico 2012 y Grand Slam.",
-          "active": false,
-          "rank": 6
-        },
-        {
-          "id": "liu_shiwen",
-          "name": "Liu Shiwen",
-          "country": "CHN",
-          "logo": "https://flagcdn.com/24x18/cn.png",
-          "colors": {
-            "primary": "#DE2910",
-            "secondary": "#FFFFFF"
-          },
-          "era": "2009-2019",
-          "legendScore": 43.1,
-          "note": "0 oros olímpicos · 1 Mundial · 5 Copa del Mundo. 'La reina de la Copa del Mundo': cinco títulos.",
-          "active": false,
+          "era": "en activo",
+          "olympicGold": 2,
+          "worldTitles": 0,
+          "worldCups": 1,
+          "legendScore": 54.0,
+          "note": "2 oros olímpicos · 0 Mundiales · 1 Copa del Mundo. Bicampeona olímpica individual consecutiva (2020, 2024).",
+          "active": true,
           "rank": 7
         },
         {
@@ -598,30 +668,53 @@ window.TABLETENNIS_DATA = {
             "secondary": "#FFFFFF"
           },
           "era": "en activo",
-          "legendScore": 19.6,
-          "note": "0 oros olímpicos · 1 Mundial · 1 Copa del Mundo. Nº1 del mundo",
+          "olympicGold": 0,
+          "worldTitles": 2,
+          "worldCups": 3,
+          "legendScore": 46.0,
+          "note": "0 oros olímpicos · 2 Mundiales · 3 Copa del Mundo.",
           "active": true,
           "rank": 8
         },
         {
-          "id": "wang_manyu",
-          "name": "Wang Manyu",
+          "id": "li_xiaoxia",
+          "name": "Li Xiaoxia",
           "country": "CHN",
           "logo": "https://flagcdn.com/24x18/cn.png",
           "colors": {
             "primary": "#DE2910",
             "secondary": "#FFFFFF"
           },
-          "era": "en activo",
-          "legendScore": 5.9,
-          "note": "0 oros olímpicos · 0 Mundiales · 1 Copa del Mundo. Múltiple campeona por equipos",
-          "active": true,
+          "era": "—",
+          "olympicGold": 1,
+          "worldTitles": 1,
+          "worldCups": 1,
+          "legendScore": 44.0,
+          "note": "1 oro olímpico · 1 Mundial · 1 Copa del Mundo. Oro olímpico 2012 y Grand Slam.",
+          "active": false,
           "rank": 9
+        },
+        {
+          "id": "liu_shiwen",
+          "name": "Liu Shiwen",
+          "country": "CHN",
+          "logo": "https://flagcdn.com/24x18/cn.png",
+          "colors": {
+            "primary": "#DE2910",
+            "secondary": "#FFFFFF"
+          },
+          "era": "—",
+          "olympicGold": 0,
+          "worldTitles": 1,
+          "worldCups": 5,
+          "legendScore": 44.0,
+          "note": "0 oros olímpicos · 1 Mundial · 5 Copa del Mundo. 'La reina de la Copa del Mundo': cinco títulos.",
+          "active": false,
+          "rank": 10
         }
       ]
     }
   ],
-  "IMPORTANCE": 7.5,
   "PROSPECTS": [
     {
       "id": "felix_lebrun",
@@ -703,5 +796,6 @@ window.TABLETENNIS_DATA = {
       "note": "Plata olímpica individual 2024",
       "discipline": "Individual Masculino"
     }
-  ]
+  ],
+  "IMPORTANCE": 7.5
 };
