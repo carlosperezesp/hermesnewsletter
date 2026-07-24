@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-24 08:47 UTC
+// Auto-generated 2026-07-24 14:24 UTC
 window.SUMO_DATA = {
-  "UPDATED": "2026-07-24 08:47 UTC",
+  "UPDATED": "2026-07-24 14:24 UTC",
   "LEGENDS": [
     {
       "id": "hakuho",
@@ -252,7 +252,7 @@ window.SUMO_DATA = {
       "name": "Hoshoryu",
       "rikishiID": 19,
       "wins": 7,
-      "losses": 5,
+      "losses": 6,
       "absences": 0,
       "rankShort": "Yokozuna",
       "yusho": 3,
@@ -268,7 +268,7 @@ window.SUMO_DATA = {
       "rankLabel": "Yokozuna 1 West",
       "name": "Onosato",
       "rikishiID": 8850,
-      "wins": 6,
+      "wins": 7,
       "losses": 6,
       "absences": 0,
       "rankShort": "Yokozuna",
@@ -319,7 +319,7 @@ window.SUMO_DATA = {
       "rankLabel": "Sekiwake 1 East",
       "name": "Atamifuji",
       "rikishiID": 74,
-      "wins": 9,
+      "wins": 10,
       "losses": 3,
       "absences": 0,
       "rankShort": "Sekiwake",
@@ -606,7 +606,7 @@ window.SUMO_DATA = {
       "name": "Atamifuji",
       "rankShort": "Sekiwake",
       "age": 23,
-      "wins": 9,
+      "wins": 10,
       "losses": 3,
       "absences": 0,
       "yusho": 0,

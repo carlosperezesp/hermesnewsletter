@@ -2696,7 +2696,7 @@ window.NBA_DATA = {
       "last": "Shead",
       "pos": "G",
       "teamCode": "TOR",
-      "age": 23,
+      "age": 24,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4432241.png",
       "colors": {
         "primary": "#ce1141",
@@ -2712,7 +2712,7 @@ window.NBA_DATA = {
         "blk": 0.1,
         "min": 32.0
       },
-      "legendScore": 38.6
+      "legendScore": 39.6
     },
     {
       "id": 4397424,
@@ -4246,7 +4246,7 @@ window.NBA_DATA = {
       "last": "Green",
       "pos": "G",
       "teamCode": "DET",
-      "age": 32,
+      "age": 33,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/2596112.png",
       "colors": {
         "primary": "#c8102e",
@@ -4262,7 +4262,7 @@ window.NBA_DATA = {
         "blk": 0.5,
         "min": 12.0
       },
-      "legendScore": 38.1
+      "legendScore": 39.1
     },
     {
       "id": 5279133,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-24 08:47 UTC",
+  "LAST_UPDATE": "2026-07-24 14:24 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

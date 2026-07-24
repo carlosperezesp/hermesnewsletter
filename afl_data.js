@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-24 08:47 UTC
+// Auto-generated 2026-07-24 14:24 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-24 08:47 UTC",
+  "UPDATED": "2026-07-24 14:24 UTC",
   "SEASON": "2026",
   "ROUND": 20,
   "IMPORTANCE": 8.3,
@@ -9,11 +9,11 @@ window.AFL_DATA = {
     {
       "rank": 1,
       "name": "Fremantle",
-      "wins": 16,
+      "wins": 17,
       "losses": 2,
       "draws": 0,
-      "pts": 64,
-      "percentage": 142.0,
+      "pts": 68,
+      "percentage": 146.0,
       "primary": "#2A0D54",
       "secondary": "#FFFFFF",
       "prevRank": 1
@@ -70,10 +70,10 @@ window.AFL_DATA = {
       "rank": 6,
       "name": "Melbourne",
       "wins": 12,
-      "losses": 6,
+      "losses": 7,
       "draws": 0,
       "pts": 48,
-      "percentage": 109.6,
+      "percentage": 107.8,
       "primary": "#CC2031",
       "secondary": "#013B9F",
       "prevRank": 6
@@ -92,6 +92,18 @@ window.AFL_DATA = {
     },
     {
       "rank": 8,
+      "name": "Geelong",
+      "wins": 11,
+      "losses": 8,
+      "draws": 0,
+      "pts": 44,
+      "percentage": 116.5,
+      "primary": "#002A54",
+      "secondary": "#FFFFFF",
+      "prevRank": 9
+    },
+    {
+      "rank": 9,
       "name": "Western Bulldogs",
       "wins": 11,
       "losses": 7,
@@ -99,19 +111,7 @@ window.AFL_DATA = {
       "pts": 44,
       "percentage": 93.2,
       "primary": "#0039A6",
-      "secondary": "#CC2031",
-      "prevRank": 8
-    },
-    {
-      "rank": 9,
-      "name": "Geelong",
-      "wins": 10,
-      "losses": 8,
-      "draws": 0,
-      "pts": 40,
-      "percentage": 116.2,
-      "primary": "#002A54",
-      "secondary": "#FFFFFF"
+      "secondary": "#CC2031"
     },
     {
       "rank": 10,
@@ -183,10 +183,10 @@ window.AFL_DATA = {
       "rank": 16,
       "name": "West Coast",
       "wins": 4,
-      "losses": 14,
+      "losses": 15,
       "draws": 0,
       "pts": 16,
-      "percentage": 72.1,
+      "percentage": 70.1,
       "primary": "#002B5C",
       "secondary": "#F5C209"
     },
@@ -1065,6 +1065,26 @@ window.AFL_DATA = {
       "date": "2026-07-23",
       "hprimary": "#002B5C",
       "aprimary": "#000000"
+    },
+    {
+      "hteam": "Melbourne",
+      "hscore": 97,
+      "ateam": "Geelong",
+      "ascore": 117,
+      "winner": "Geelong",
+      "date": "2026-07-24",
+      "hprimary": "#CC2031",
+      "aprimary": "#002A54"
+    },
+    {
+      "hteam": "Fremantle",
+      "hscore": 112,
+      "ateam": "West Coast",
+      "ascore": 42,
+      "winner": "Fremantle",
+      "date": "2026-07-24",
+      "hprimary": "#2A0D54",
+      "aprimary": "#002B5C"
     }
   ],
   "CURRENT_CONTENDERS": [
