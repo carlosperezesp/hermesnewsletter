@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-24 22:32 UTC
+// Auto-generated 2026-07-25 07:29 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-24 22:32 UTC",
+  "UPDATED": "2026-07-25 07:29 UTC",
   "SEASON": "2026",
   "ROUND": 20,
   "IMPORTANCE": 8.3,
@@ -115,6 +115,17 @@ window.AFL_DATA = {
     },
     {
       "rank": 10,
+      "name": "Carlton",
+      "wins": 9,
+      "losses": 10,
+      "draws": 0,
+      "pts": 36,
+      "percentage": 92.4,
+      "primary": "#0E1E2D",
+      "secondary": "#FFFFFF"
+    },
+    {
+      "rank": 11,
       "name": "St Kilda",
       "wins": 8,
       "losses": 10,
@@ -125,7 +136,7 @@ window.AFL_DATA = {
       "secondary": "#000000"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Greater Western Sydney",
       "wins": 8,
       "losses": 10,
@@ -134,17 +145,6 @@ window.AFL_DATA = {
       "percentage": 101.3,
       "primary": "#F57F00",
       "secondary": "#002040"
-    },
-    {
-      "rank": 12,
-      "name": "Carlton",
-      "wins": 8,
-      "losses": 10,
-      "draws": 0,
-      "pts": 32,
-      "percentage": 91.1,
-      "primary": "#0E1E2D",
-      "secondary": "#FFFFFF"
     },
     {
       "rank": 13,
@@ -161,10 +161,10 @@ window.AFL_DATA = {
       "rank": 14,
       "name": "Gold Coast",
       "wins": 7,
-      "losses": 11,
+      "losses": 12,
       "draws": 0,
       "pts": 28,
-      "percentage": 95.3,
+      "percentage": 94.8,
       "primary": "#C5002F",
       "secondary": "#F1B500"
     },
@@ -1085,6 +1085,16 @@ window.AFL_DATA = {
       "date": "2026-07-24",
       "hprimary": "#2A0D54",
       "aprimary": "#002B5C"
+    },
+    {
+      "hteam": "Carlton",
+      "hscore": 110,
+      "ateam": "Gold Coast",
+      "ascore": 97,
+      "winner": "Carlton",
+      "date": "2026-07-25",
+      "hprimary": "#0E1E2D",
+      "aprimary": "#C5002F"
     }
   ],
   "CURRENT_CONTENDERS": [

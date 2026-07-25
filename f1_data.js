@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-24 22:32 UTC
+// Auto-generated 2026-07-25 07:29 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-07-24 22:32 UTC",
+  "UPDATED": "2026-07-25 07:29 UTC",
   "SEASON": "2026",
   "ROUND": 9,
   "TOTAL_ROUNDS": 24,
@@ -561,29 +561,29 @@ window.F1_DATA = {
     "includesSprint": false
   },
   "LAST_RACE": {
-    "name": "Moët & Chandon Belgian Grand Prix",
-    "date": "2026-07-17",
-    "circuit": "Circuit de Spa-Francorchamps",
+    "name": "AWS Hungarian Grand Prix",
+    "date": "2026-07-24",
+    "circuit": "Hungaroring",
     "round": 0,
     "state": "post",
     "podium": [
       {
         "position": 1,
+        "name": "Charles Leclerc",
+        "team": "ferrari",
+        "time": "",
+        "primary": "#E8002D"
+      },
+      {
+        "position": 2,
         "name": "Max Verstappen",
         "team": "red_bull",
         "time": "",
         "primary": "#3671C6"
       },
       {
-        "position": 2,
-        "name": "Lewis Hamilton",
-        "team": "ferrari",
-        "time": "",
-        "primary": "#E8002D"
-      },
-      {
         "position": 3,
-        "name": "Charles Leclerc",
+        "name": "Lewis Hamilton",
         "team": "ferrari",
         "time": "",
         "primary": "#E8002D"

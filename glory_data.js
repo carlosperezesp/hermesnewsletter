@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-24 22:34 UTC",
+  "UPDATED": "2026-07-25 07:31 UTC",
   "EVENTS": [
+    {
+      "id": "f1:win:AWS Hungarian Grand Prix:Charles Leclerc",
+      "sport": "f1",
+      "detail": "F1",
+      "text": "Charles Leclerc ganó el AWS Hungarian Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-07-25"
+    },
     {
       "id": "indycar:win:Grand Prix of Nashville:Álex Palou",
       "sport": "indycar",
@@ -35,21 +43,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-12"
     },
     {
-      "id": "motogp:win:Czech Republic motorcycle Grand Prix:Ai Ogura",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "text": "Ai Ogura ganó el Czech Republic motorcycle Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-07-10"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Mike Trout",
+      "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
       "sport": "mlb",
       "detail": "MLB",
       "anchor": "mlb-road-to-glory",
-      "text": "Mike Trout es nuevo nº1 · Road to Glory",
+      "text": "Shohei Ohtani es nuevo nº1 · Road to Glory",
       "weight": 92,
-      "firstSeen": "2026-07-24"
+      "firstSeen": "2026-07-25"
     },
     {
       "id": "rank:football:ROAD_TO_GLORY.dynasties:era:new1:Brazil (1994-2002)",
@@ -77,24 +77,6 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-wta",
       "firstSeen": "2026-07-13"
-    },
-    {
-      "id": "rank:athletics:allTime:200m_w:in:Julien Alfred",
-      "sport": "athletics",
-      "detail": "Atletismo",
-      "anchor": "athletics-records",
-      "text": "Julien Alfred entra en el top-10 histórico · 200m — M",
-      "weight": 90,
-      "firstSeen": "2026-07-10"
-    },
-    {
-      "id": "rank:athletics:allTime:400m_m:in:Busang Collen Kebinatshipi",
-      "sport": "athletics",
-      "detail": "Atletismo",
-      "anchor": "athletics-records",
-      "text": "Busang Collen Kebinatshipi entra en el top-10 histórico · 400m — H",
-      "weight": 90,
-      "firstSeen": "2026-07-10"
     },
     {
       "id": "cycling:stage:Tour de France:19:Tadej Pogačar",
@@ -137,40 +119,40 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-20"
     },
     {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Paul Skenes",
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Freddie Freeman",
       "sport": "mlb",
       "detail": "MLB",
       "anchor": "mlb-road-to-glory",
-      "text": "Paul Skenes entra en el top-10 · Road to Glory",
+      "text": "Freddie Freeman entra en el top-10 · Road to Glory",
       "weight": 84,
-      "firstSeen": "2026-07-24"
+      "firstSeen": "2026-07-25"
     },
     {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:CJ Abrams",
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Bryce Harper",
       "sport": "mlb",
       "detail": "MLB",
       "anchor": "mlb-road-to-glory",
-      "text": "CJ Abrams entra en el top-10 · Road to Glory",
+      "text": "Bryce Harper entra en el top-10 · Road to Glory",
       "weight": 84,
-      "firstSeen": "2026-07-24"
+      "firstSeen": "2026-07-25"
     },
     {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Ben Rice",
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Kyle Schwarber",
       "sport": "mlb",
       "detail": "MLB",
       "anchor": "mlb-road-to-glory",
-      "text": "Ben Rice entra en el top-10 · Road to Glory",
+      "text": "Kyle Schwarber entra en el top-10 · Road to Glory",
       "weight": 84,
-      "firstSeen": "2026-07-24"
+      "firstSeen": "2026-07-25"
     },
     {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:James Wood",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "James Wood entra en el top-10 · Road to Glory",
+      "id": "rank:afl:LADDER:in:Carlton",
+      "sport": "afl",
+      "detail": "AFL",
+      "anchor": "afl-clasificacion",
+      "text": "Carlton entra en el top-10 · clasificación",
       "weight": 84,
-      "firstSeen": "2026-07-24"
+      "firstSeen": "2026-07-25"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Willson Contreras",
@@ -263,15 +245,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-12"
     },
     {
-      "id": "rank:afl:LADDER:in:St Kilda",
-      "sport": "afl",
-      "detail": "AFL",
-      "anchor": "afl-clasificacion",
-      "text": "St Kilda entra en el top-10 · clasificación",
-      "weight": 84,
-      "firstSeen": "2026-07-11"
-    },
-    {
       "id": "tennis:out:WTA:Victoria Mboko:20260709",
       "sport": "tennis",
       "detail": "Tenis",
@@ -279,33 +252,6 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-wta",
       "firstSeen": "2026-07-13"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:out:Freddie Freeman",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "Freddie Freeman cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-07-24"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:out:Bryce Harper",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "Bryce Harper cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-07-24"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:out:Kyle Schwarber",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "Kyle Schwarber cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-07-24"
     },
     {
       "id": "rank:football:ROAD_TO_GLORY.dynasties:era:out:Brazil (1958-1970)",
@@ -447,16 +393,16 @@ window.GLORY_DATA = {
       "VJ Edgecombe"
     ],
     "mlb:ROAD_TO_GLORY.players": [
+      "Shohei Ohtani",
       "Mike Trout",
+      "Freddie Freeman",
+      "Bryce Harper",
       "Juan Soto",
       "Yordan Alvarez",
       "Chris Sale",
+      "Kyle Schwarber",
       "Jacob Misiorowski",
-      "Willson Contreras",
-      "Paul Skenes",
-      "CJ Abrams",
-      "Ben Rice",
-      "James Wood"
+      "Willson Contreras"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -466,8 +412,8 @@ window.GLORY_DATA = {
       "New York Yankees",
       "Philadelphia Phillies",
       "Seattle Mariners",
-      "Baltimore Orioles",
       "San Diego Padres",
+      "Baltimore Orioles",
       "New York Mets"
     ],
     "mlb:ROAD_TO_GLORY.youngProspects": [
@@ -475,12 +421,12 @@ window.GLORY_DATA = {
       "James Wood",
       "Sal Stewart",
       "Jordan Walker",
-      "CJ Abrams",
       "Pete Crow-Armstrong",
+      "CJ Abrams",
       "Junior Caminero",
+      "Cam Schlittler",
       "Chase Burns",
-      "Nick Kurtz",
-      "Cam Schlittler"
+      "Nick Kurtz"
     ],
     "nfl:ROAD_TO_GLORY.players": [
       "Matthew Stafford",
@@ -720,7 +666,7 @@ window.GLORY_DATA = {
       "Collingwood",
       "Geelong",
       "Western Bulldogs",
-      "St Kilda"
+      "Carlton"
     ],
     "cricket:ROAD_TO_GLORY.players": [
       "JJ Bumrah",

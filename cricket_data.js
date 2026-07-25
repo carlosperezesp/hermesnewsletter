@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-07-24 22:34 UTC",
+  "UPDATED": "2026-07-25 07:31 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1560,
+    "matches": 1558,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 883
+        "matches": 882
       },
       {
         "name": "IPL",
@@ -37,7 +37,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "MLC",
-        "matches": 67
+        "matches": 66
       }
     ],
     "note": "Daily-after-results model: no live scores, recalculates from completed Cricsheet scorecards."
@@ -362,16 +362,16 @@ window.CRICKET_DATA = {
       "id": "aap-atkinson",
       "name": "AAP Atkinson",
       "role": "All-rounder",
-      "score": 83.8,
+      "score": 84.3,
       "legendScore": 61.1,
       "stats": {
         "test": 86.8,
         "odi": 86.3,
-        "t20": 81.9,
-        "franchise": 72.7,
-        "runs": 533,
+        "t20": 83.5,
+        "franchise": 74.1,
+        "runs": 531,
         "wickets": 65,
-        "matches": 19
+        "matches": 18
       },
       "formatScores": {
         "test": {
@@ -385,14 +385,14 @@ window.CRICKET_DATA = {
           "bowling": 79.9
         },
         "t20": {
-          "overall": 84.9,
-          "batting": 24.2,
-          "bowling": 71.3
+          "overall": 87.3,
+          "batting": 25.2,
+          "bowling": 72.5
         },
         "franchise": {
-          "overall": 83.0,
-          "batting": 24.2,
-          "bowling": 62.9
+          "overall": 85.4,
+          "batting": 25.2,
+          "bowling": 64.0
         }
       },
       "country": "England",
@@ -638,7 +638,7 @@ window.CRICKET_DATA = {
           "batting": 21.2,
           "bowling": 80.3,
           "overall": 77.8,
-          "runs": 533,
+          "runs": 531,
           "wickets": 65
         },
         {
@@ -984,7 +984,7 @@ window.CRICKET_DATA = {
           "batting": 21.2,
           "bowling": 80.3,
           "overall": 77.8,
-          "runs": 533,
+          "runs": 531,
           "wickets": 65
         },
         {
@@ -1114,7 +1114,7 @@ window.CRICKET_DATA = {
           "batting": 29.5,
           "bowling": 79.9,
           "overall": 85.8,
-          "runs": 533,
+          "runs": 531,
           "wickets": 65
         },
         {
@@ -1550,7 +1550,7 @@ window.CRICKET_DATA = {
           "batting": 29.5,
           "bowling": 79.9,
           "overall": 85.8,
-          "runs": 533,
+          "runs": 531,
           "wickets": 65
         },
         {
@@ -1630,6 +1630,24 @@ window.CRICKET_DATA = {
           "wickets": 50
         },
         {
+          "id": "aap-atkinson",
+          "name": "AAP Atkinson",
+          "role": "All-rounder",
+          "country": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/gb-eng.png",
+          "score": 87.3,
+          "batting": 25.2,
+          "bowling": 72.5,
+          "overall": 87.3,
+          "runs": 531,
+          "wickets": 65
+        },
+        {
           "id": "mehedi-hasan-miraz",
           "name": "Mehedi Hasan Miraz",
           "role": "All-rounder",
@@ -1646,24 +1664,6 @@ window.CRICKET_DATA = {
           "overall": 86.3,
           "runs": 1045,
           "wickets": 76
-        },
-        {
-          "id": "aap-atkinson",
-          "name": "AAP Atkinson",
-          "role": "All-rounder",
-          "country": "England",
-          "teamCode": "ENG",
-          "colors": {
-            "primary": "#c8102e",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 84.9,
-          "batting": 24.2,
-          "bowling": 71.3,
-          "overall": 84.9,
-          "runs": 533,
-          "wickets": 65
         },
         {
           "id": "ma-starc",
@@ -2196,6 +2196,24 @@ window.CRICKET_DATA = {
           "wickets": 50
         },
         {
+          "id": "aap-atkinson",
+          "name": "AAP Atkinson",
+          "role": "All-rounder",
+          "country": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/gb-eng.png",
+          "score": 85.4,
+          "batting": 25.2,
+          "bowling": 64.0,
+          "overall": 85.4,
+          "runs": 531,
+          "wickets": 65
+        },
+        {
           "id": "mehedi-hasan-miraz",
           "name": "Mehedi Hasan Miraz",
           "role": "All-rounder",
@@ -2212,24 +2230,6 @@ window.CRICKET_DATA = {
           "overall": 84.5,
           "runs": 1045,
           "wickets": 76
-        },
-        {
-          "id": "aap-atkinson",
-          "name": "AAP Atkinson",
-          "role": "All-rounder",
-          "country": "England",
-          "teamCode": "ENG",
-          "colors": {
-            "primary": "#c8102e",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 83.0,
-          "batting": 24.2,
-          "bowling": 62.9,
-          "overall": 83.0,
-          "runs": 533,
-          "wickets": 65
         },
         {
           "id": "c-bosch",
@@ -2614,24 +2614,6 @@ window.CRICKET_DATA = {
           "wickets": 108
         },
         {
-          "id": "jc-archer",
-          "name": "JC Archer",
-          "role": "Bowler",
-          "country": "England",
-          "teamCode": "ENG",
-          "colors": {
-            "primary": "#c8102e",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 84.3,
-          "batting": 13.2,
-          "bowling": 84.3,
-          "overall": 70.9,
-          "runs": 449,
-          "wickets": 109
-        },
-        {
           "id": "shaheen-shah-afridi",
           "name": "Shaheen Shah Afridi",
           "role": "Bowler",
@@ -2648,6 +2630,24 @@ window.CRICKET_DATA = {
           "overall": 65.9,
           "runs": 430,
           "wickets": 110
+        },
+        {
+          "id": "jc-archer",
+          "name": "JC Archer",
+          "role": "Bowler",
+          "country": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/gb-eng.png",
+          "score": 82.8,
+          "batting": 13.2,
+          "bowling": 82.8,
+          "overall": 70.3,
+          "runs": 437,
+          "wickets": 107
         },
         {
           "id": "ka-maharaj",
@@ -3720,16 +3720,16 @@ window.CRICKET_DATA = {
         "id": "aap-atkinson",
         "name": "AAP Atkinson",
         "role": "All-rounder",
-        "score": 83.8,
+        "score": 84.3,
         "legendScore": 61.1,
         "stats": {
           "test": 86.8,
           "odi": 86.3,
-          "t20": 81.9,
-          "franchise": 72.7,
-          "runs": 533,
+          "t20": 83.5,
+          "franchise": 74.1,
+          "runs": 531,
           "wickets": 65,
-          "matches": 19
+          "matches": 18
         },
         "formatScores": {
           "test": {
@@ -3743,14 +3743,14 @@ window.CRICKET_DATA = {
             "bowling": 79.9
           },
           "t20": {
-            "overall": 84.9,
-            "batting": 24.2,
-            "bowling": 71.3
+            "overall": 87.3,
+            "batting": 25.2,
+            "bowling": 72.5
           },
           "franchise": {
-            "overall": 83.0,
-            "batting": 24.2,
-            "bowling": 62.9
+            "overall": 85.4,
+            "batting": 25.2,
+            "bowling": 64.0
           }
         },
         "country": "England",
