@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-25 14:50 UTC
+// Auto-generated 2026-07-25 21:11 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-25 14:50 UTC",
+  "UPDATED": "2026-07-25 21:11 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -167,10 +167,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 82.5
     },
@@ -235,10 +235,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 79.6
     },
@@ -269,10 +269,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 79.5
     },
@@ -371,10 +371,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 77.7
     },
@@ -405,10 +405,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 77.1
     },
@@ -439,10 +439,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 76.4
     },
@@ -541,10 +541,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 16,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 75.7
     },
@@ -643,10 +643,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 19,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 75.1
     },
@@ -711,10 +711,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 74.6
     },
@@ -949,10 +949,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 67.5
     },
@@ -1085,9 +1085,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
-        "state": "out",
-        "round": "R64",
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
         "reason": "Eliminado en R64"
       },
       "prevActiveScore": 66.4
@@ -1187,10 +1187,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 65.7
     },
@@ -1291,10 +1291,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 38,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 65.5
     },
@@ -1325,10 +1325,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 65.3
     },
@@ -1359,10 +1359,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 61.3
     },
@@ -1393,9 +1393,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "Generali Open",
+        "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 65.2
@@ -1565,10 +1565,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 64.2
     },
@@ -1803,10 +1803,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 61.9
     },
@@ -2041,10 +2041,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 59.4
     },
@@ -2415,10 +2415,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 58.0
     },
@@ -2995,10 +2995,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 54.3
     },
@@ -3371,10 +3371,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 52.8
     },
@@ -4611,7 +4611,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Millennium Estoril Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 42.6
@@ -5623,10 +5623,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 81.0
     },
@@ -5725,10 +5725,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 80.1
     },
@@ -6033,7 +6033,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Livesport Prague Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 72.4
@@ -6065,10 +6065,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 72.0
     },
@@ -6201,10 +6201,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 31,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 69.2
     },
@@ -6235,10 +6235,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 68.8
     },
@@ -6337,10 +6337,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 67.6
     },
@@ -6473,10 +6473,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 66.9
     },
@@ -6643,10 +6643,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 65.0
     },
@@ -6781,10 +6781,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 64.4
     },
@@ -6883,10 +6883,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 62.8
     },
@@ -6919,7 +6919,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Livesport Prague Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 62.1
@@ -7121,10 +7121,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 61.2
     },
@@ -7395,7 +7395,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "MSC Hamburg Ladies Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 60.4
@@ -7429,7 +7429,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Livesport Prague Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 58.0
@@ -7461,10 +7461,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 59.1
     },
@@ -7701,10 +7701,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 57.9
     },
@@ -7975,7 +7975,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "MSC Hamburg Ladies Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 59.1
@@ -8213,10 +8213,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 53.1
     },
@@ -8527,10 +8527,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Odlum Brown VanOpen",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 49.6
     },
@@ -8971,10 +8971,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Odlum Brown VanOpen",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 46.8
     },
@@ -9251,7 +9251,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Palermo Ladies Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 44.6
@@ -9427,7 +9427,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Palermo Ladies Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 42.8
@@ -9707,10 +9707,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Odlum Brown VanOpen",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 39.7
     },
@@ -9849,10 +9849,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Odlum Brown VanOpen",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 38.7
     },
@@ -9885,7 +9885,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "MSC Hamburg Ladies Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -10205,10 +10205,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Odlum Brown VanOpen",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 50.0
     },
@@ -10313,10 +10313,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Odlum Brown VanOpen",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 50.0
     }
@@ -10991,15 +10991,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Alexander Blockx",
+          "w": "Luciano Darderi",
           "w_logo": "",
-          "l": "Luciano Darderi",
+          "l": "Alexander Blockx",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 72.0,
-          "l_score": 65.9,
+          "scheduled": false,
+          "w_score": 65.9,
+          "l_score": 72.0,
           "match_score": 72.0
         },
         {
@@ -11008,9 +11008,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Hugo Gaston",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 61.6,
           "l_score": 42.6,
           "match_score": 61.6
@@ -11205,15 +11205,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Barbora Krejcikova",
+          "w": "Lilli Tagger",
           "w_logo": "",
-          "l": "Lilli Tagger",
+          "l": "Barbora Krejcikova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (5-7) 6-3 7-6 (7-4)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 72.3,
-          "l_score": 58.0,
+          "w_score": 58.0,
+          "l_score": 72.3,
           "match_score": 72.3
         },
         {
@@ -11238,15 +11238,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Lucia Bronzetti",
+          "w": "Fiona Ferro",
           "w_logo": "",
-          "l": "Fiona Ferro",
+          "l": "Lucia Bronzetti",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 42.8,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 42.8,
           "match_score": 42.8
         },
         {
@@ -11255,9 +11255,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alevtina Ibragimova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 41.0,
           "l_score": null,
           "match_score": 41.0
@@ -11275,9 +11275,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mayar Sherif",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 2-0 ret",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 58.4,
           "l_score": 36.0,
           "match_score": 58.4
@@ -11288,7 +11288,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elina Avanesyan",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-3) 4-6 7-6 (7-2)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 54.7,
@@ -11326,39 +11326,61 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
+      "Adrian Mannarino",
+      "Alejandro Tabilo",
+      "Alex Michelsen",
       "Alex Molcan",
+      "Alex de Minaur",
       "Alexander Blockx",
       "Alexander Bublik",
       "Andrey Rublev",
+      "Arthur Fils",
+      "Ben Shelton",
+      "Brandon Nakashima",
       "Daniel Altmaier",
+      "Ethan Quinn",
       "Facundo Diaz Acosta",
+      "Frances Tiafoe",
       "Gonzalo Bueno",
       "Hugo Gaston",
       "Ignacio Buse",
+      "Jack Draper",
       "Jaime Faria",
       "Jan-Lennard Struff",
       "Jurij Rodionov",
+      "Kamil Majchrzak",
+      "Kei Nishikori",
       "Kilian Feldbausch",
       "Kyrian Jacquet",
+      "Learner Tien",
+      "Lorenzo Musetti",
       "Luca Van Assche",
       "Luciano Darderi",
       "Marco Trungelliti",
       "Mariano Navone",
+      "Matteo Arnaldi",
       "Nuno Borges",
       "Pablo Carreno Busta",
       "Pedro Martinez",
       "Quentin Halys",
+      "Rafael Jodar",
       "Roman Andres Burruchaga",
       "Sebastian Baez",
+      "Shang Juncheng",
+      "Stefanos Tsitsipas",
+      "Tallon Griekspoor",
+      "Taylor Fritz",
+      "Terence Atmane",
       "Tiago Torres",
       "Timofey Skatov",
       "Titouan Droguet",
       "Tomas Martin Etcheverry",
-      "Yannick Hanfmann"
+      "Tommy Paul",
+      "Yannick Hanfmann",
+      "Zizou Bergs"
     ],
     "out": [
       "Adolfo Daniel Vallejo",
-      "Alejandro Tabilo",
       "Aleksandr Shevchenko",
       "Alexandre Muller",
       "Arthur Rinderknech",
@@ -11385,8 +11407,8 @@ window.TENNIS_DATA = {
       "Vilius Gaubas",
       "Vit Kopriva"
     ],
-    "aliveCount": 29,
-    "matchesSeen": 53
+    "aliveCount": 52,
+    "matchesSeen": 65
   },
   "WTA_TOURNAMENT": {
     "name": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
@@ -11427,39 +11449,71 @@ window.TENNIS_DATA = {
     ],
     "alive": [
       "Alevtina Ibragimova",
+      "Alexandra Eala",
+      "Alexandra Vagramov",
       "Alice Rame",
       "Alina Charaeva",
+      "Anastasia Potapova",
       "Anastasia Zakharova",
       "Anhelina Kalinina",
+      "Ann Li",
       "Anna Bondar",
+      "Annabelle Xu",
+      "Ariana Arseneault",
+      "Ashlyn Krueger",
       "Ayla Aksu",
       "Barbora Krejcikova",
       "Cadence Brace",
       "Carol Young Suh Lee",
+      "Carol Zhao",
+      "Caroline Dolehide",
       "Catherine McNally",
       "Clara Burel",
+      "Clara Tauson",
       "Dalila Spiteri",
       "Daria Snigur",
       "Darja Vidmanova",
       "Dominika Salkova",
       "Ekaterine Gorgodze",
       "Elina Avanesyan",
+      "Elisabetta Cocciaretto",
       "Elsa Jacquemot",
+      "Emerson Jones",
+      "Emma Navarro",
+      "En-Shuo Liang",
       "Erika Andreeva",
       "Federica Urgesi",
       "Fiona Ferro",
       "Francesca Jones",
+      "Greet Minnen",
+      "Harriet Dart",
+      "Haruka Kaji",
+      "Hayu Kinoshita",
       "Jennifer Ruggeri",
       "Julia Stusek",
+      "Katie Boulter",
       "Katie Volynets",
+      "Kayla Cross",
+      "Kayla Day",
+      "Kyoka Okamura",
       "Lanlana Tararudee",
+      "Leylah Fernandez",
       "Leyre Romero Gormaz",
       "Lilli Tagger",
       "Linda Fruhvirtova",
+      "Liudmila Samsonova",
+      "Lizette Cabrera",
       "Lola Radivojevic",
+      "Lu Jia-Jing",
       "Lucia Bronzetti",
       "Lucie Havlickova",
+      "Maddison Inglis",
+      "Madison Brengle",
+      "Madison Keys",
+      "Magda Linette",
+      "Magdalena Frech",
       "Mai Hontama",
+      "Mananchaya Sawangkaew",
       "Maria Lourdes Carle",
       "Maria Timofeeva",
       "Marie Bouzkova",
@@ -11470,6 +11524,7 @@ window.TENNIS_DATA = {
       "McCartney Kessler",
       "Mina Hodzic",
       "Miriam Bulgaru",
+      "Nao Hibino",
       "Nikola Bartunkova",
       "Noemi Basiletti",
       "Noma Noha Akugue",
@@ -11482,17 +11537,23 @@ window.TENNIS_DATA = {
       "Sara Bejlek",
       "Sinja Kraus",
       "Sloane Stephens",
+      "Sofia Costoulas",
+      "Sofia Kenin",
       "Talia Gibson",
       "Tamara Korpatsch",
       "Tatjana Maria",
+      "Taylah Preston",
+      "Teah Chavez",
       "Tereza Valentova",
+      "Venus Williams",
       "Viktorija Golubic",
       "Wang Xiyu",
       "Whitney Osuigwe",
       "Yasmine Kabbaj",
       "Yulia Putintseva",
       "Yuliia Starodubtseva",
-      "Zeynep Sonmez"
+      "Zeynep Sonmez",
+      "Zheng Qinwen"
     ],
     "out": [
       "Alessandra Mazzola",
@@ -11533,7 +11594,6 @@ window.TENNIS_DATA = {
       "Ren Yufei",
       "Sara Sorribes Tormo",
       "Simona Waltert",
-      "Sofia Costoulas",
       "Sofya Lansere",
       "Tamara Zidansek",
       "Tessa Johanna Brockmann",
@@ -11543,8 +11603,8 @@ window.TENNIS_DATA = {
       "Victoria Jimenez Kasintseva",
       "Yuan Yue"
     ],
-    "aliveCount": 67,
-    "matchesSeen": 100
+    "aliveCount": 106,
+    "matchesSeen": 123
   },
   "ATP_SCORE_LOG": {
     "206173": [

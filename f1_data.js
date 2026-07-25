@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-25 14:48 UTC
+// Auto-generated 2026-07-25 21:09 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-07-25 14:48 UTC",
+  "UPDATED": "2026-07-25 21:09 UTC",
   "SEASON": "2026",
   "ROUND": 9,
   "TOTAL_ROUNDS": 24,
@@ -22,7 +22,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 204.0,
-      "lastWeekendPoints": 25.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 34.0,
       "stats": {
@@ -47,7 +47,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 159.0,
-      "lastWeekendPoints": 12.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 26.5,
       "stats": {
@@ -97,7 +97,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 126.0,
-      "lastWeekendPoints": 18.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 21.0,
       "stats": {
@@ -122,7 +122,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 103.0,
-      "lastWeekendPoints": 6.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 17.2,
       "stats": {
@@ -147,7 +147,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 92.0,
-      "lastWeekendPoints": 10.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 15.3,
       "stats": {
@@ -172,7 +172,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 91.0,
-      "lastWeekendPoints": 15.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 15.2,
       "stats": {
@@ -197,7 +197,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 60.0,
-      "lastWeekendPoints": 8.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 10.0,
       "stats": {
@@ -555,9 +555,9 @@ window.F1_DATA = {
     }
   ],
   "LAST_WEEKEND": {
-    "id": "600057439",
-    "name": "Moët & Chandon Belgian Grand Prix",
-    "label": "BEL",
+    "id": "600057440",
+    "name": "AWS Hungarian Grand Prix",
+    "label": "HUN",
     "includesSprint": false
   },
   "LAST_RACE": {

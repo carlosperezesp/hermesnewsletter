@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-25 14:50 UTC",
+  "UPDATED": "2026-07-25 21:11 UTC",
   "EVENTS": [
     {
       "id": "f1:win:AWS Hungarian Grand Prix:Charles Leclerc",

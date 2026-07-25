@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-25 14:49 UTC
+// Auto-generated 2026-07-25 21:11 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-25 14:49 UTC",
+  "UPDATED": "2026-07-25 21:11 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -6250,6 +6250,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 3,
+              "mark": "72.65",
+              "athlete": "Mykolas Alekna",
+              "country": "LTU",
+              "flag": "https://flagcdn.com/24x18/lt.png",
+              "primary": "#FDB913",
+              "venue": "Palangos Stadionas",
+              "date": "25 JUL 2026"
+            },
+            {
+              "rank": 4,
               "mark": "72.61",
               "athlete": "Kristjan Čeh",
               "country": "SLO",
@@ -6259,7 +6269,7 @@ window.ATHLETICS_DATA = {
               "date": "09 APR 2026"
             },
             {
-              "rank": 4,
+              "rank": 5,
               "mark": "72.45",
               "athlete": "Sam Mattis",
               "country": "USA",
@@ -6269,7 +6279,7 @@ window.ATHLETICS_DATA = {
               "date": "09 APR 2026"
             },
             {
-              "rank": 5,
+              "rank": 6,
               "mark": "71.88",
               "athlete": "Lawrence Okoye",
               "country": "GBR",
@@ -6279,7 +6289,7 @@ window.ATHLETICS_DATA = {
               "date": "11 APR 2026"
             },
             {
-              "rank": 6,
+              "rank": 7,
               "mark": "71.22",
               "athlete": "Ruben Rolvink",
               "country": "NED",
@@ -6287,16 +6297,6 @@ window.ATHLETICS_DATA = {
               "primary": "#AE1C28",
               "venue": "Millican Field at Throw Town",
               "date": "31 MAY 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "71.06",
-              "athlete": "Mykolas Alekna",
-              "country": "LTU",
-              "flag": "https://flagcdn.com/24x18/lt.png",
-              "primary": "#FDB913",
-              "venue": "Hayward Field",
-              "date": "04 JUL 2026"
             },
             {
               "rank": 8,
