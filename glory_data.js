@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-25 08:29 UTC",
+  "UPDATED": "2026-07-25 14:17 UTC",
   "EVENTS": [
     {
       "id": "f1:win:AWS Hungarian Grand Prix:Charles Leclerc",
@@ -663,9 +663,9 @@ window.GLORY_DATA = {
       "Brisbane Lions",
       "Adelaide",
       "Melbourne",
+      "Western Bulldogs",
       "Collingwood",
       "Geelong",
-      "Western Bulldogs",
       "Carlton"
     ],
     "cricket:ROAD_TO_GLORY.players": [

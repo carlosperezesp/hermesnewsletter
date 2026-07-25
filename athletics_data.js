@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-25 08:29 UTC
+// Auto-generated 2026-07-25 14:17 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-25 08:29 UTC",
+  "UPDATED": "2026-07-25 14:17 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -5188,6 +5188,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 6,
+              "mark": "6.98",
+              "athlete": "Hilary Kpatcha",
+              "country": "FRA",
+              "flag": "https://flagcdn.com/24x18/fr.png",
+              "primary": "#002395",
+              "venue": "Stadium Municipal",
+              "date": "24 JUL 2026"
+            },
+            {
+              "rank": 7,
               "mark": "6.97",
               "athlete": "Agate De Sousa",
               "country": "POR",
@@ -5197,7 +5207,7 @@ window.ATHLETICS_DATA = {
               "date": "06 FEB 2026"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "6.95",
               "athlete": "Monae&#39; Nichols",
               "country": "USA",
@@ -5207,7 +5217,7 @@ window.ATHLETICS_DATA = {
               "date": "04 APR 2026"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "6.94",
               "athlete": "Claire Bryant",
               "country": "USA",
@@ -5217,7 +5227,7 @@ window.ATHLETICS_DATA = {
               "date": "18 JUL 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "6.89",
               "athlete": "Maja &#197;skag",
               "country": "SWE",
@@ -5225,16 +5235,6 @@ window.ATHLETICS_DATA = {
               "primary": "#006AA7",
               "venue": "Sola Arena",
               "date": "08 JUL 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "6.88",
-              "athlete": "Ancy Sojan Edappilly",
-              "country": "IND",
-              "flag": "https://flagcdn.com/24x18/in.png",
-              "primary": "#4A4745",
-              "venue": "Kalinga Stadium",
-              "date": "27 JUN 2026"
             }
           ]
         },

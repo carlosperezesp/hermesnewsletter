@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-25 08:29 UTC
+// Auto-generated 2026-07-25 14:17 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-25 08:29 UTC",
+  "UPDATED": "2026-07-25 14:17 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -509,7 +509,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Generali Open",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 76.0
@@ -7089,7 +7089,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Livesport Prague Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 62.9
@@ -10971,15 +10971,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Alexander Bublik",
+          "w": "Quentin Halys",
           "w_logo": "",
-          "l": "Quentin Halys",
+          "l": "Alexander Bublik",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 7-6 (8-6)",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 76.0,
-          "l_score": 55.4,
+          "scheduled": false,
+          "w_score": 55.4,
+          "l_score": 76.0,
           "match_score": 76.0
         }
       ]
@@ -11209,9 +11209,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lilli Tagger",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 72.3,
           "l_score": 58.0,
           "match_score": 72.3
@@ -11222,9 +11222,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tereza Valentova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-4) 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 61.2,
           "l_score": 60.0,
           "match_score": 61.2
@@ -11288,9 +11288,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elina Avanesyan",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 54.7,
           "l_score": null,
           "match_score": 54.7

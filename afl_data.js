@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-25 08:27 UTC
+// Auto-generated 2026-07-25 14:16 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-25 08:27 UTC",
+  "UPDATED": "2026-07-25 14:16 UTC",
   "SEASON": "2026",
   "ROUND": 20,
   "IMPORTANCE": 8.3,
@@ -21,11 +21,11 @@ window.AFL_DATA = {
     {
       "rank": 2,
       "name": "Sydney",
-      "wins": 13,
+      "wins": 14,
       "losses": 5,
       "draws": 0,
-      "pts": 52,
-      "percentage": 128.3,
+      "pts": 56,
+      "percentage": 130.0,
       "primary": "#F57F00",
       "secondary": "#002040",
       "prevRank": 2
@@ -33,11 +33,11 @@ window.AFL_DATA = {
     {
       "rank": 3,
       "name": "Hawthorn",
-      "wins": 12,
+      "wins": 13,
       "losses": 5,
       "draws": 1,
-      "pts": 50,
-      "percentage": 118.4,
+      "pts": 54,
+      "percentage": 124.0,
       "primary": "#4D2004",
       "secondary": "#FFD200",
       "prevRank": 3
@@ -80,6 +80,18 @@ window.AFL_DATA = {
     },
     {
       "rank": 7,
+      "name": "Western Bulldogs",
+      "wins": 12,
+      "losses": 7,
+      "draws": 0,
+      "pts": 48,
+      "percentage": 96.8,
+      "primary": "#0039A6",
+      "secondary": "#CC2031",
+      "prevRank": 9
+    },
+    {
+      "rank": 8,
       "name": "Collingwood",
       "wins": 11,
       "losses": 7,
@@ -91,7 +103,7 @@ window.AFL_DATA = {
       "prevRank": 7
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Geelong",
       "wins": 11,
       "losses": 8,
@@ -99,19 +111,7 @@ window.AFL_DATA = {
       "pts": 44,
       "percentage": 116.5,
       "primary": "#002A54",
-      "secondary": "#FFFFFF",
-      "prevRank": 8
-    },
-    {
-      "rank": 9,
-      "name": "Western Bulldogs",
-      "wins": 11,
-      "losses": 7,
-      "draws": 0,
-      "pts": 44,
-      "percentage": 93.2,
-      "primary": "#0039A6",
-      "secondary": "#CC2031"
+      "secondary": "#FFFFFF"
     },
     {
       "rank": 10,
@@ -139,10 +139,10 @@ window.AFL_DATA = {
       "rank": 12,
       "name": "Greater Western Sydney",
       "wins": 8,
-      "losses": 10,
+      "losses": 11,
       "draws": 0,
       "pts": 32,
-      "percentage": 101.3,
+      "percentage": 98.3,
       "primary": "#F57F00",
       "secondary": "#002040"
     },
@@ -194,10 +194,10 @@ window.AFL_DATA = {
       "rank": 17,
       "name": "Essendon",
       "wins": 2,
-      "losses": 16,
+      "losses": 17,
       "draws": 0,
       "pts": 8,
-      "percentage": 67.9,
+      "percentage": 65.4,
       "primary": "#CC2031",
       "secondary": "#000000"
     },
@@ -205,10 +205,10 @@ window.AFL_DATA = {
       "rank": 18,
       "name": "Richmond",
       "wins": 2,
-      "losses": 16,
+      "losses": 17,
       "draws": 0,
       "pts": 8,
-      "percentage": 61.7,
+      "percentage": 60.9,
       "primary": "#FFD200",
       "secondary": "#000000"
     }
@@ -1095,6 +1095,36 @@ window.AFL_DATA = {
       "date": "2026-07-25",
       "hprimary": "#0E1E2D",
       "aprimary": "#C5002F"
+    },
+    {
+      "hteam": "Hawthorn",
+      "hscore": 132,
+      "ateam": "Essendon",
+      "ascore": 39,
+      "winner": "Hawthorn",
+      "date": "2026-07-25",
+      "hprimary": "#4D2004",
+      "aprimary": "#CC2031"
+    },
+    {
+      "hteam": "Greater Western Sydney",
+      "hscore": 88,
+      "ateam": "Sydney",
+      "ascore": 139,
+      "winner": "Sydney",
+      "date": "2026-07-25",
+      "hprimary": "#F57F00",
+      "aprimary": "#F57F00"
+    },
+    {
+      "hteam": "Western Bulldogs",
+      "hscore": 105,
+      "ateam": "Richmond",
+      "ascore": 48,
+      "winner": "Western Bulldogs",
+      "date": "2026-07-25",
+      "hprimary": "#0039A6",
+      "aprimary": "#FFD200"
     }
   ],
   "CURRENT_CONTENDERS": [

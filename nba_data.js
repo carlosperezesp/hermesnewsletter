@@ -946,7 +946,7 @@ window.NBA_DATA = {
       "last": "Sengun",
       "pos": "C",
       "teamCode": "HOU",
-      "age": 23,
+      "age": 24,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4871144.png",
       "colors": {
         "primary": "#ce1141",
@@ -962,7 +962,7 @@ window.NBA_DATA = {
         "blk": 1.3,
         "min": 38.7
       },
-      "legendScore": 53.1
+      "legendScore": 54.1
     },
     {
       "id": 3155526,
@@ -7316,12 +7316,12 @@ window.NBA_DATA = {
           "primary": "#ce1141",
           "secondary": "#c4cdd2"
         },
-        "age": 23,
+        "age": 24,
         "currentScore": 86,
-        "projectedScore": 65.5,
+        "projectedScore": 64.4,
         "threshold": 92.1,
-        "gap": 26.6,
-        "note": "Among the best players of their generation",
+        "gap": 27.7,
+        "note": "Elite current form — needs sustained peak + rings",
         "prevRank": 5
       },
       {
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-25 08:27 UTC",
+  "LAST_UPDATE": "2026-07-25 14:16 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
