@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-25 14:16 UTC
+// Auto-generated 2026-07-25 14:48 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-07-25 14:16 UTC",
+  "UPDATED": "2026-07-25 14:48 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -693,22 +693,22 @@ window.CYCLING_DATA = {
     "name": "Tour de France",
     "start": "2026-07-04",
     "end": "2026-07-27",
-    "stage": 19,
+    "stage": 20,
     "total_stages": 21,
     "jersey_primary": "#FFD700",
     "jersey_name": "Maillot Jaune",
     "last_stage": {
-      "stage": 19,
-      "date": "24 July",
+      "stage": 20,
+      "date": "25 July",
       "type": "Mountain stage",
       "dist_km": null,
-      "from": "Gap",
+      "from": "Le Bourg-d'Oisans",
       "to": "Alpe d'Huez",
       "completed": true,
-      "winner": "Tadej Pogačar",
-      "winner_cc": "SLO",
-      "winner_primary": "#003DA5",
-      "winner_logo": "https://flagcdn.com/24x18/si.png"
+      "winner": "Richard Carapaz",
+      "winner_cc": "ECU",
+      "winner_primary": "#FFD100",
+      "winner_logo": "https://flagcdn.com/24x18/ec.png"
     },
     "next_stage": {
       "stage": 1,
@@ -859,7 +859,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/dk.png",
       "team": "LTK men",
       "primary": "#C60C30",
-      "points": 502,
+      "points": 527,
       "legendScore": 0.0
     },
     "kom_leader": {
@@ -869,7 +869,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/ec.png",
       "team": "EFE",
       "primary": "#FFD100",
-      "points": 91,
+      "points": 156,
       "legendScore": 0.0
     },
     "young_leader": {

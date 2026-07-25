@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-25 14:17 UTC",
+  "UPDATED": "2026-07-25 14:50 UTC",
   "EVENTS": [
     {
       "id": "f1:win:AWS Hungarian Grand Prix:Charles Leclerc",
@@ -77,6 +77,14 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-wta",
       "firstSeen": "2026-07-13"
+    },
+    {
+      "id": "cycling:stage:Tour de France:20:Richard Carapaz",
+      "sport": "cycling",
+      "detail": "Ciclismo",
+      "text": "Richard Carapaz ganó la última etapa del Tour de France",
+      "weight": 88,
+      "firstSeen": "2026-07-25"
     },
     {
       "id": "cycling:stage:Tour de France:19:Tadej Pogačar",

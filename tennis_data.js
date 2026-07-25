@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-25 14:17 UTC
+// Auto-generated 2026-07-25 14:50 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-25 14:17 UTC",
+  "UPDATED": "2026-07-25 14:50 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -29,7 +29,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 16.0,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -65,7 +65,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 25.9,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -99,7 +99,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -133,7 +133,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 100.0,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -167,7 +167,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -201,7 +201,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -235,7 +235,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -269,7 +269,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -303,7 +303,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -337,7 +337,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -371,7 +371,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -405,7 +405,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -439,7 +439,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -473,7 +473,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -541,7 +541,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 16,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -575,7 +575,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -643,7 +643,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 19,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -711,7 +711,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -745,7 +745,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -779,7 +779,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -813,7 +813,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -881,7 +881,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -949,7 +949,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -983,7 +983,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1017,7 +1017,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 30,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1051,7 +1051,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 31,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1119,7 +1119,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1187,7 +1187,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1255,7 +1255,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1291,7 +1291,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 38,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1325,7 +1325,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1359,7 +1359,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1463,7 +1463,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1565,7 +1565,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1599,7 +1599,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 47,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1633,7 +1633,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1667,7 +1667,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 49,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1803,7 +1803,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1837,7 +1837,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 54,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1973,7 +1973,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2041,7 +2041,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2143,7 +2143,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 63,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2177,7 +2177,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2211,7 +2211,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2245,7 +2245,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 66,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2279,7 +2279,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2347,7 +2347,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2381,7 +2381,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2415,7 +2415,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2449,7 +2449,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2483,7 +2483,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 73,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2653,7 +2653,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2687,7 +2687,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 79,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2721,7 +2721,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 80,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2755,7 +2755,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2823,7 +2823,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 83,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2857,7 +2857,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2893,7 +2893,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2961,7 +2961,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2995,7 +2995,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3031,7 +3031,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3099,7 +3099,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3133,7 +3133,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 92,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3201,7 +3201,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3269,7 +3269,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3303,7 +3303,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3337,7 +3337,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3371,7 +3371,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3405,7 +3405,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3439,7 +3439,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 101,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3473,7 +3473,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3509,7 +3509,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3611,7 +3611,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3645,7 +3645,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3679,7 +3679,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3747,7 +3747,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3783,7 +3783,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 111,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3817,7 +3817,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3851,7 +3851,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 113,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3885,7 +3885,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3953,7 +3953,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4023,7 +4023,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 118,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4057,7 +4057,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 119,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4091,7 +4091,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4125,7 +4125,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4227,7 +4227,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4261,7 +4261,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4295,7 +4295,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4331,7 +4331,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4365,7 +4365,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 128,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4399,7 +4399,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4505,7 +4505,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4541,7 +4541,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4643,7 +4643,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4677,7 +4677,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4713,7 +4713,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 138,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4749,7 +4749,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4785,7 +4785,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4821,7 +4821,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4857,7 +4857,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4893,7 +4893,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4929,7 +4929,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4965,7 +4965,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5001,7 +5001,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5037,7 +5037,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5073,7 +5073,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5109,7 +5109,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5145,7 +5145,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5181,7 +5181,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 22.2,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5215,7 +5215,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5249,7 +5249,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5283,7 +5283,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5317,7 +5317,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 30.5,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5351,7 +5351,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5385,7 +5385,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5419,7 +5419,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5453,7 +5453,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5487,7 +5487,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5521,7 +5521,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5555,7 +5555,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5589,7 +5589,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5623,7 +5623,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5657,7 +5657,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5691,7 +5691,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 14.8,
       "prevListRank": 16,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5725,7 +5725,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5759,7 +5759,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5793,7 +5793,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 19,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5827,7 +5827,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5861,7 +5861,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5895,7 +5895,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5929,7 +5929,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5963,7 +5963,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6065,7 +6065,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6099,7 +6099,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6133,7 +6133,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6167,7 +6167,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 30,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6201,7 +6201,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 31,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6235,7 +6235,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6269,7 +6269,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6337,7 +6337,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6371,7 +6371,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6439,7 +6439,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 38,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6473,7 +6473,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6507,7 +6507,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6541,7 +6541,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6643,7 +6643,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6747,7 +6747,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 47,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6781,7 +6781,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6849,7 +6849,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6883,7 +6883,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6951,7 +6951,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7121,7 +7121,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7155,7 +7155,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7189,7 +7189,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7325,7 +7325,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7359,7 +7359,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7461,7 +7461,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7495,7 +7495,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7531,7 +7531,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7565,7 +7565,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7599,7 +7599,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7633,7 +7633,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 73,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7667,7 +7667,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7701,7 +7701,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7735,7 +7735,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 76,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7837,7 +7837,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 79,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7871,7 +7871,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 80,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7905,7 +7905,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8041,7 +8041,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8075,7 +8075,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8179,7 +8179,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8213,7 +8213,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8281,7 +8281,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 92,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8349,7 +8349,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8527,7 +8527,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8561,7 +8561,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8629,7 +8629,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8663,7 +8663,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8697,7 +8697,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8799,7 +8799,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8835,7 +8835,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8903,7 +8903,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8971,7 +8971,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9043,7 +9043,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9111,7 +9111,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9319,7 +9319,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9355,7 +9355,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9391,7 +9391,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9459,7 +9459,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9563,7 +9563,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9599,7 +9599,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9635,7 +9635,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9707,7 +9707,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9779,7 +9779,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9849,7 +9849,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9953,7 +9953,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9989,7 +9989,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10025,7 +10025,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10133,7 +10133,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10169,7 +10169,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10205,7 +10205,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10277,7 +10277,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10313,7 +10313,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -11299,7 +11299,7 @@ window.TENNIS_DATA = {
     }
   ],
   "ATP_TOURNAMENT": {
-    "name": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala Citi DC Open",
+    "name": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
     "level": "ATP 250",
     "surface": "",
     "tour": "ATP",
@@ -11320,7 +11320,7 @@ window.TENNIS_DATA = {
         "surface": ""
       },
       {
-        "name": "Mubadala Citi DC Open",
+        "name": "Mubadala DC Open",
         "level": "500",
         "surface": "Hard"
       }
@@ -11389,7 +11389,7 @@ window.TENNIS_DATA = {
     "matchesSeen": 53
   },
   "WTA_TOURNAMENT": {
-    "name": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala Citi DC Open · The Memphis Classic",
+    "name": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic",
     "level": "WTA 250",
     "surface": "",
     "tour": "WTA",
@@ -11415,7 +11415,7 @@ window.TENNIS_DATA = {
         "surface": "Hard"
       },
       {
-        "name": "Mubadala Citi DC Open",
+        "name": "Mubadala DC Open",
         "level": "500",
         "surface": "Hard"
       },
