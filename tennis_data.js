@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-25 21:11 UTC
+// Auto-generated 2026-07-25 22:16 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-25 21:11 UTC",
+  "UPDATED": "2026-07-25 22:16 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -439,10 +439,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 76.4
     },
@@ -849,7 +849,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Millennium Estoril Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 72.1
@@ -1155,7 +1155,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Millennium Estoril Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 66.2
@@ -1907,7 +1907,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Millennium Estoril Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 60.7
@@ -3371,10 +3371,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Generali Open · Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.8
     },
@@ -10991,15 +10991,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Luciano Darderi",
+          "w": "Alexander Blockx",
           "w_logo": "",
-          "l": "Alexander Blockx",
+          "l": "Luciano Darderi",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "5-7 7-6 (7-1) 7-6 (7-5)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 65.9,
-          "l_score": 72.0,
+          "w_score": 72.0,
+          "l_score": 65.9,
           "match_score": 72.0
         },
         {
@@ -11335,10 +11335,8 @@ window.TENNIS_DATA = {
       "Alexander Bublik",
       "Andrey Rublev",
       "Arthur Fils",
-      "Ben Shelton",
       "Brandon Nakashima",
       "Daniel Altmaier",
-      "Ethan Quinn",
       "Facundo Diaz Acosta",
       "Frances Tiafoe",
       "Gonzalo Bueno",
@@ -11407,7 +11405,7 @@ window.TENNIS_DATA = {
       "Vilius Gaubas",
       "Vit Kopriva"
     ],
-    "aliveCount": 52,
+    "aliveCount": 50,
     "matchesSeen": 65
   },
   "WTA_TOURNAMENT": {

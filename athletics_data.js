@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-25 21:11 UTC
+// Auto-generated 2026-07-25 22:16 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-25 21:11 UTC",
+  "UPDATED": "2026-07-25 22:16 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -6674,6 +6674,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 2,
+              "mark": "87.59",
+              "athlete": "Curtis Thompson",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Icahn Stadium",
+              "date": "25 JUL 2026"
+            },
+            {
+              "rank": 3,
               "mark": "87.05",
               "athlete": "Rohit Yadav",
               "country": "IND",
@@ -6683,7 +6693,7 @@ window.ATHLETICS_DATA = {
               "date": "28 JUN 2026"
             },
             {
-              "rank": 3,
+              "rank": 4,
               "mark": "87.04",
               "athlete": "Julian Weber",
               "country": "GER",
@@ -6693,22 +6703,12 @@ window.ATHLETICS_DATA = {
               "date": "16 JUL 2026"
             },
             {
-              "rank": 4,
+              "rank": 5,
               "mark": "86.38",
               "athlete": "Anderson Peters",
               "country": "GRN",
               "flag": "https://flagcdn.com/24x18/gd.png",
               "primary": "#4A4745",
-              "venue": "Suhaim bin Hamad Stadium",
-              "date": "19 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "85.99",
-              "athlete": "Curtis Thompson",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
               "venue": "Suhaim bin Hamad Stadium",
               "date": "19 JUN 2026"
             },
