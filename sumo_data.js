@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-25 22:14 UTC
+// Auto-generated 2026-07-26 07:46 UTC
 window.SUMO_DATA = {
-  "UPDATED": "2026-07-25 22:14 UTC",
+  "UPDATED": "2026-07-26 07:46 UTC",
   "LEGENDS": [
     {
       "id": "hakuho",
@@ -253,7 +253,7 @@ window.SUMO_DATA = {
       "rikishiID": 19,
       "wins": 7,
       "losses": 7,
-      "absences": 0,
+      "absences": 1,
       "rankShort": "Yokozuna",
       "yusho": 3,
       "legendScore": 7.1,
@@ -355,7 +355,7 @@ window.SUMO_DATA = {
       "rikishiID": 12,
       "wins": 0,
       "losses": 0,
-      "absences": 14,
+      "absences": 15,
       "rankShort": "Sekiwake",
       "yusho": 2,
       "legendScore": 3.7,
@@ -658,5 +658,5 @@ window.SUMO_DATA = {
       "projectedScore": 58.5
     }
   ],
-  "IMPORTANCE": 8.9
+  "IMPORTANCE": 8.5
 };

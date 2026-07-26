@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-25 22:16 UTC",
+  "UPDATED": "2026-07-26 07:48 UTC",
   "EVENTS": [
     {
       "id": "f1:win:AWS Hungarian Grand Prix:Charles Leclerc",
@@ -127,6 +127,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-20"
     },
     {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:CJ Abrams",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "CJ Abrams entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-07-26"
+    },
+    {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Freddie Freeman",
       "sport": "mlb",
       "detail": "MLB",
@@ -161,15 +170,6 @@ window.GLORY_DATA = {
       "text": "Carlton entra en el top-10 · clasificación",
       "weight": 84,
       "firstSeen": "2026-07-25"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Willson Contreras",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "Willson Contreras entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-07-23"
     },
     {
       "id": "rank:football:ROAD_TO_GLORY.dynasties:era:in:Uruguay (1924-1930)",
@@ -410,7 +410,7 @@ window.GLORY_DATA = {
       "Chris Sale",
       "Kyle Schwarber",
       "Jacob Misiorowski",
-      "Willson Contreras"
+      "CJ Abrams"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -419,18 +419,18 @@ window.GLORY_DATA = {
       "Texas Rangers",
       "New York Yankees",
       "Philadelphia Phillies",
-      "Seattle Mariners",
       "San Diego Padres",
       "Baltimore Orioles",
+      "Seattle Mariners",
       "New York Mets"
     ],
     "mlb:ROAD_TO_GLORY.youngProspects": [
       "Jacob Misiorowski",
       "James Wood",
-      "Sal Stewart",
-      "Jordan Walker",
       "Pete Crow-Armstrong",
       "CJ Abrams",
+      "Sal Stewart",
+      "Jordan Walker",
       "Junior Caminero",
       "Cam Schlittler",
       "Chase Burns",

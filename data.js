@@ -2272,7 +2272,7 @@ window.NHL_DATA = {
       "name": "Sebastian Aho",
       "pos": "C",
       "teamCode": "CAR",
-      "age": 28,
+      "age": 29,
       "country": "Finland",
       "birthCountry": "FIN",
       "colors": {
@@ -47977,10 +47977,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-25 22:13 UTC",
+  "LAST_UPDATE": "2026-07-26 07:46 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-25T22:13:15Z"
+    "standingsDateTimeUtc": "2026-07-26T07:45:30Z"
   }
 };
