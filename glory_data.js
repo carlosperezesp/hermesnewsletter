@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-26 07:48 UTC",
+  "UPDATED": "2026-07-26 08:42 UTC",
   "EVENTS": [
     {
       "id": "f1:win:AWS Hungarian Grand Prix:Charles Leclerc",
@@ -127,6 +127,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-20"
     },
     {
+      "id": "rank:afl:LADDER:in:St Kilda",
+      "sport": "afl",
+      "detail": "AFL",
+      "anchor": "afl-clasificacion",
+      "text": "St Kilda entra en el top-10 · clasificación",
+      "weight": 84,
+      "firstSeen": "2026-07-26"
+    },
+    {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:CJ Abrams",
       "sport": "mlb",
       "detail": "MLB",
@@ -159,15 +168,6 @@ window.GLORY_DATA = {
       "detail": "MLB",
       "anchor": "mlb-road-to-glory",
       "text": "Kyle Schwarber entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-07-25"
-    },
-    {
-      "id": "rank:afl:LADDER:in:Carlton",
-      "sport": "afl",
-      "detail": "AFL",
-      "anchor": "afl-clasificacion",
-      "text": "Carlton entra en el top-10 · clasificación",
       "weight": 84,
       "firstSeen": "2026-07-25"
     },
@@ -674,7 +674,7 @@ window.GLORY_DATA = {
       "Western Bulldogs",
       "Collingwood",
       "Geelong",
-      "Carlton"
+      "St Kilda"
     ],
     "cricket:ROAD_TO_GLORY.players": [
       "JJ Bumrah",

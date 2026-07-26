@@ -756,7 +756,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 3
+      "prevRank": 2
     },
     {
       "id": 4918256,
@@ -787,7 +787,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 2
+      "prevRank": 3
     },
     {
       "id": 4717833,
@@ -818,7 +818,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 6
+      "prevRank": 4
     },
     {
       "id": 5016968,
@@ -849,7 +849,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 4
+      "prevRank": 5
     },
     {
       "id": 4684778,
@@ -880,7 +880,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 5
+      "prevRank": 6
     },
     {
       "id": 33712,
@@ -1035,7 +1035,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 11
+      "prevRank": 10
     },
     {
       "id": 32767,
@@ -1609,7 +1609,7 @@ window.MLB_DATA = {
       "pitchingScore": 74,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 12
+      "prevRank": 7
     },
     {
       "id": 42403,
@@ -1700,7 +1700,7 @@ window.MLB_DATA = {
       "pitchingScore": 73,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 7
+      "prevRank": 8
     },
     {
       "id": 5134636,
@@ -1761,7 +1761,7 @@ window.MLB_DATA = {
       "pitchingScore": 73,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 10
+      "prevRank": 9
     },
     {
       "id": 4345070,
@@ -2070,7 +2070,7 @@ window.MLB_DATA = {
       "last": "Williams",
       "pos": "SP",
       "teamCode": "CLE",
-      "age": 26,
+      "age": 27,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png",
       "colors": {
         "primary": "#e31937",
@@ -2086,13 +2086,13 @@ window.MLB_DATA = {
         "so": 156,
         "whip": 1.1
       },
-      "legendScore": 42.4,
+      "legendScore": 43.2,
       "currentScore": 70,
       "battingScore": null,
       "pitchingScore": 70,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 8
+      "prevRank": 10
     },
     {
       "id": 31097,
@@ -5371,7 +5371,7 @@ window.MLB_DATA = {
       "last": "Karros",
       "pos": "3B",
       "teamCode": "COL",
-      "age": 23,
+      "age": 24,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5203102.png",
       "colors": {
         "primary": "#333366",
@@ -5387,7 +5387,7 @@ window.MLB_DATA = {
         "sb": 3,
         "ops": 0.798
       },
-      "legendScore": 30.1,
+      "legendScore": 30.9,
       "currentScore": 52,
       "battingScore": 52,
       "pitchingScore": null,
@@ -7489,7 +7489,7 @@ window.MLB_DATA = {
         "gap": 36.8,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": null
+        "prevRank": 10
       }
     ],
     "teams": [
@@ -7603,7 +7603,7 @@ window.MLB_DATA = {
           "primary": "#2f241d",
           "secondary": "#ffc425"
         },
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "teamCode": "BAL",
@@ -7619,7 +7619,7 @@ window.MLB_DATA = {
           "primary": "#df4601",
           "secondary": "#000000"
         },
-        "prevRank": 9
+        "prevRank": 8
       },
       {
         "teamCode": "SEA",
@@ -7635,7 +7635,7 @@ window.MLB_DATA = {
           "primary": "#0c2c56",
           "secondary": "#005c5c"
         },
-        "prevRank": 7
+        "prevRank": 9
       },
       {
         "teamCode": "NYM",
@@ -7704,7 +7704,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 23.3,
         "note": "Among the best players of their generation",
-        "prevRank": 5
+        "prevRank": 3
       },
       {
         "id": 42402,
@@ -7721,7 +7721,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 23.7,
         "note": "Among the best players of their generation",
-        "prevRank": 6
+        "prevRank": 4
       },
       {
         "id": 5080771,
@@ -7738,7 +7738,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 23.7,
         "note": "Elite start to career — ceiling is very high",
-        "prevRank": 3
+        "prevRank": 5
       },
       {
         "id": 4684778,
@@ -7755,7 +7755,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 24.4,
         "note": "Among the best players of their generation",
-        "prevRank": 4
+        "prevRank": 6
       },
       {
         "id": 4905921,
@@ -7867,7 +7867,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-26 07:46 UTC",
+  "LAST_UPDATE": "2026-07-26 08:41 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
