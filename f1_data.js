@@ -1,8 +1,8 @@
-// Auto-generated 2026-07-26 14:50 UTC
+// Auto-generated 2026-07-26 21:12 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-07-26 14:50 UTC",
+  "UPDATED": "2026-07-26 21:12 UTC",
   "SEASON": "2026",
-  "ROUND": 9,
+  "ROUND": 10,
   "TOTAL_ROUNDS": 24,
   "MAX_SEASON_PTS": 600,
   "IMPORTANCE": 10.0,
@@ -21,12 +21,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 204.0,
-      "lastWeekendPoints": 0.0,
+      "points": 219.0,
+      "lastWeekendPoints": 15.0,
       "wins": 0,
-      "score": 34.0,
+      "score": 36.5,
       "stats": {
-        "pts": 204.0,
+        "pts": 219.0,
         "wins": 0
       },
       "prevRank": 1,
@@ -46,12 +46,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 159.0,
-      "lastWeekendPoints": 0.0,
+      "points": 169.0,
+      "lastWeekendPoints": 10.0,
       "wins": 0,
-      "score": 26.5,
+      "score": 28.2,
       "stats": {
-        "pts": 159.0,
+        "pts": 169.0,
         "wins": 0
       },
       "prevRank": 2,
@@ -71,12 +71,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 154.0,
-      "lastWeekendPoints": 0.0,
+      "points": 160.0,
+      "lastWeekendPoints": 6.0,
       "wins": 0,
-      "score": 25.7,
+      "score": 26.7,
       "stats": {
-        "pts": 154.0,
+        "pts": 160.0,
         "wins": 0
       },
       "prevRank": 3,
@@ -96,12 +96,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 126.0,
-      "lastWeekendPoints": 0.0,
+      "points": 138.0,
+      "lastWeekendPoints": 12.0,
       "wins": 0,
-      "score": 21.0,
+      "score": 23.0,
       "stats": {
-        "pts": 126.0,
+        "pts": 138.0,
         "wins": 0
       },
       "prevRank": 4,
@@ -121,12 +121,12 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "points": 103.0,
-      "lastWeekendPoints": 0.0,
+      "points": 128.0,
+      "lastWeekendPoints": 25.0,
       "wins": 0,
-      "score": 17.2,
+      "score": 21.3,
       "stats": {
-        "pts": 103.0,
+        "pts": 128.0,
         "wins": 0
       },
       "prevRank": 5,
@@ -134,6 +134,31 @@ window.F1_DATA = {
     },
     {
       "position": 6,
+      "name": "Max Verstappen",
+      "nationality": "",
+      "country": "NED",
+      "teamCode": "red_bull",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+      "primary": "#00327D",
+      "secondary": "#CC1E4A",
+      "colors": {
+        "primary": "#00327D",
+        "secondary": "#CC1E4A"
+      },
+      "team": "",
+      "points": 109.0,
+      "lastWeekendPoints": 18.0,
+      "wins": 0,
+      "score": 18.2,
+      "stats": {
+        "pts": 109.0,
+        "wins": 0
+      },
+      "prevRank": 7,
+      "age": 29
+    },
+    {
+      "position": 7,
       "name": "Oscar Piastri",
       "nationality": "",
       "country": "AUS",
@@ -158,31 +183,6 @@ window.F1_DATA = {
       "age": 25
     },
     {
-      "position": 7,
-      "name": "Max Verstappen",
-      "nationality": "",
-      "country": "NED",
-      "teamCode": "red_bull",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
-      "primary": "#00327D",
-      "secondary": "#CC1E4A",
-      "colors": {
-        "primary": "#00327D",
-        "secondary": "#CC1E4A"
-      },
-      "team": "",
-      "points": 91.0,
-      "lastWeekendPoints": 0.0,
-      "wins": 0,
-      "score": 15.2,
-      "stats": {
-        "pts": 91.0,
-        "wins": 0
-      },
-      "prevRank": 7,
-      "age": 29
-    },
-    {
       "position": 8,
       "name": "Isack Hadjar",
       "nationality": "",
@@ -196,12 +196,12 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "points": 60.0,
-      "lastWeekendPoints": 0.0,
+      "points": 68.0,
+      "lastWeekendPoints": 8.0,
       "wins": 0,
-      "score": 10.0,
+      "score": 11.3,
       "stats": {
-        "pts": 60.0,
+        "pts": 68.0,
         "wins": 0
       },
       "prevRank": 8,
@@ -209,6 +209,31 @@ window.F1_DATA = {
     },
     {
       "position": 9,
+      "name": "Liam Lawson",
+      "nationality": "",
+      "country": "NZL",
+      "teamCode": "rb",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nzl.png",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#555555",
+        "secondary": "#FFFFFF"
+      },
+      "team": "",
+      "points": 43.0,
+      "lastWeekendPoints": 4.0,
+      "wins": 0,
+      "score": 7.2,
+      "stats": {
+        "pts": 43.0,
+        "wins": 0
+      },
+      "prevRank": 10,
+      "age": 24
+    },
+    {
+      "position": 10,
       "name": "Pierre Gasly",
       "nationality": "",
       "country": "FRA",
@@ -231,31 +256,6 @@ window.F1_DATA = {
       },
       "prevRank": 9,
       "age": 30
-    },
-    {
-      "position": 10,
-      "name": "Liam Lawson",
-      "nationality": "",
-      "country": "NZL",
-      "teamCode": "rb",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nzl.png",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#555555",
-        "secondary": "#FFFFFF"
-      },
-      "team": "",
-      "points": 39.0,
-      "lastWeekendPoints": 0.0,
-      "wins": 0,
-      "score": 6.5,
-      "stats": {
-        "pts": 39.0,
-        "wins": 0
-      },
-      "prevRank": 10,
-      "age": 24
     }
   ],
   "PROSPECTS": [
@@ -270,7 +270,7 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "score": 34.0,
+      "score": 36.5,
       "position": 1,
       "age": 20,
       "note": "Líder del campeonato a los 20"
@@ -287,9 +287,9 @@ window.F1_DATA = {
       },
       "team": "",
       "score": 15.3,
-      "position": 6,
+      "position": 7,
       "age": 25,
-      "note": "Irrumpe a los 25 (P6)"
+      "note": "Irrumpe a los 25 (P7)"
     },
     {
       "name": "Isack Hadjar",
@@ -302,7 +302,7 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "score": 10.0,
+      "score": 11.3,
       "position": 8,
       "age": 22,
       "note": "Irrumpe a los 22 (P8)"
@@ -318,10 +318,10 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "score": 6.5,
-      "position": 10,
+      "score": 7.2,
+      "position": 9,
       "age": 24,
-      "note": "Irrumpe a los 24 (P10)"
+      "note": "Irrumpe a los 24 (P9)"
     },
     {
       "name": "Franco Colapinto",
@@ -519,7 +519,7 @@ window.F1_DATA = {
       "id": "mercedes",
       "primary": "#00D2BE",
       "secondary": "#000000",
-      "points": 358.0
+      "points": 379.0
     },
     {
       "position": 2,
@@ -527,7 +527,7 @@ window.F1_DATA = {
       "id": "ferrari",
       "primary": "#DC0000",
       "secondary": "#FFFFFF",
-      "points": 285.0
+      "points": 307.0
     },
     {
       "position": 3,
@@ -535,7 +535,7 @@ window.F1_DATA = {
       "id": "mclaren",
       "primary": "#FF8700",
       "secondary": "#000000",
-      "points": 195.0
+      "points": 220.0
     },
     {
       "position": 4,
@@ -543,15 +543,15 @@ window.F1_DATA = {
       "id": "red_bull",
       "primary": "#00327D",
       "secondary": "#CC1E4A",
-      "points": 151.0
+      "points": 177.0
     },
     {
       "position": 5,
-      "name": "Alpine",
-      "id": "alpine",
-      "primary": "#FFF500",
-      "secondary": "#FF0000",
-      "points": 61.0
+      "name": "Racing Bulls",
+      "id": "racing_bulls",
+      "primary": "#6692FF",
+      "secondary": "#FFFFFF",
+      "points": 66.0
     }
   ],
   "LAST_WEEKEND": {

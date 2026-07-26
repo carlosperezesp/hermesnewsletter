@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-26 14:52 UTC
+// Auto-generated 2026-07-26 21:13 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-26 14:52 UTC",
+  "UPDATED": "2026-07-26 21:13 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -1649,108 +1649,7 @@ window.ATHLETICS_DATA = {
               "year": 2024
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "12.14",
-              "athlete": "Masai Russell",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "12.28",
-              "athlete": "Tobi Amusan",
-              "country": "NGR",
-              "flag": "https://flagcdn.com/24x18/ng.png",
-              "primary": "#008751",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "12.37",
-              "athlete": "Devynne Charlton",
-              "country": "BAH",
-              "flag": "https://flagcdn.com/24x18/bs.png",
-              "primary": "#4A4745",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "12.38",
-              "athlete": "Grace Stark",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "12.38",
-              "athlete": "Alaysha Johnson",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Stade Louis II",
-              "date": "10 JUL 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "12.38",
-              "athlete": "Alia Armstrong",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Icahn Stadium",
-              "date": "25 JUL 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "12.40",
-              "athlete": "Demisha Roswell",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "National Stadium",
-              "date": "21 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "12.41",
-              "athlete": "Nadine Visser",
-              "country": "NED",
-              "flag": "https://flagcdn.com/24x18/nl.png",
-              "primary": "#AE1C28",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "12.43",
-              "athlete": "Rayniah Jones",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Sports Park Mladost",
-              "date": "26 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "12.44",
-              "athlete": "Aaliyah Mccormick",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "John McDonnell Field",
-              "date": "30 MAY 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "400mh_m",
@@ -1827,6 +1726,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
+              "mark": "46.48",
+              "athlete": "Alison Dos Santos",
+              "country": "BRA",
+              "flag": "https://flagcdn.com/24x18/br.png",
+              "primary": "#009C3B",
+              "venue": "Estdio Olmpico do Ibirapuera - caro de Castro Melo",
+              "year": 2026
+            },
+            {
+              "rank": 8,
               "mark": "46.51",
               "athlete": "Karsten Warholm",
               "country": "NOR",
@@ -1836,7 +1745,7 @@ window.ATHLETICS_DATA = {
               "year": 2023
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "46.52",
               "athlete": "Karsten Warholm",
               "country": "NOR",
@@ -1846,7 +1755,7 @@ window.ATHLETICS_DATA = {
               "year": 2023
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "46.53",
               "athlete": "Karsten Warholm",
               "country": "NOR",
@@ -1854,21 +1763,21 @@ window.ATHLETICS_DATA = {
               "primary": "#EF2B2D",
               "venue": "Eugene",
               "year": 2023
-            },
-            {
-              "rank": 10,
-              "mark": "46.54",
-              "athlete": "Rai Benjamin",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Stockholm",
-              "year": 2025
             }
           ],
           "season": [
             {
               "rank": 1,
+              "mark": "46.48",
+              "athlete": "Alison Dos Santos",
+              "country": "BRA",
+              "flag": "https://flagcdn.com/24x18/br.png",
+              "primary": "#009C3B",
+              "venue": "Estdio Olmpico do Ibirapuera - caro de Castro Melo",
+              "date": "26 JUL 2026"
+            },
+            {
+              "rank": 2,
               "mark": "46.61",
               "athlete": "Karsten Warholm",
               "country": "NOR",
@@ -1876,16 +1785,6 @@ window.ATHLETICS_DATA = {
               "primary": "#EF2B2D",
               "venue": "Olympic Stadium",
               "date": "18 JUL 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "46.72",
-              "athlete": "Alison Dos Santos",
-              "country": "BRA",
-              "flag": "https://flagcdn.com/24x18/br.png",
-              "primary": "#009C3B",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
             },
             {
               "rank": 3,
@@ -5355,13 +5254,13 @@ window.ATHLETICS_DATA = {
           "season": [
             {
               "rank": 1,
-              "mark": "17.72",
+              "mark": "17.87",
               "athlete": "Andy D&#205;az Hern&#193;ndez",
               "country": "ITA",
               "flag": "https://flagcdn.com/24x18/it.png",
               "primary": "#009246",
-              "venue": "Stadio Puttilli",
-              "date": "03 JUL 2026"
+              "venue": "Stadio Luigi Ridolfi",
+              "date": "25 JUL 2026"
             },
             {
               "rank": 2,
@@ -5445,13 +5344,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 10,
-              "mark": "17.29",
-              "athlete": "Melvin Raffin",
-              "country": "FRA",
-              "flag": "https://flagcdn.com/24x18/fr.png",
-              "primary": "#002395",
-              "venue": "Stade Omnisports Schlossberg",
-              "date": "31 MAY 2026"
+              "mark": "17.32",
+              "athlete": "Simone Biasutti",
+              "country": "ITA",
+              "flag": "https://flagcdn.com/24x18/it.png",
+              "primary": "#009246",
+              "venue": "Stadio Luigi Ridolfi",
+              "date": "25 JUL 2026"
             }
           ]
         },
@@ -6527,13 +6426,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 9,
-              "mark": "66.03",
+              "mark": "66.18",
               "athlete": "Shanice Craft",
               "country": "GER",
               "flag": "https://flagcdn.com/24x18/de.png",
               "primary": "#000000",
-              "venue": "Sportplatz des OSP Magdeburg",
-              "date": "14 MAY 2026"
+              "venue": "Lohrheidestadion",
+              "date": "25 JUL 2026"
             },
             {
               "rank": 10,

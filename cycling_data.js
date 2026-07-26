@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-26 14:50 UTC
+// Auto-generated 2026-07-26 21:11 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-07-26 14:50 UTC",
+  "UPDATED": "2026-07-26 21:11 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -66,6 +66,27 @@ window.CYCLING_DATA = {
       "prevRank": 3
     },
     {
+      "id": "tadej_pogacar",
+      "name": "Tadej Pogacar",
+      "country": "SLO",
+      "logo": "https://flagcdn.com/24x18/si.png",
+      "teamCode": "SLO",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "legendScore": 48.3,
+      "active": true,
+      "age": 26,
+      "stats": {
+        "tour": 4,
+        "giro": 1,
+        "vuelta": 0,
+        "monuments": 9,
+        "worlds": 1,
+        "birth": 2000
+      },
+      "prevRank": 5
+    },
+    {
       "id": "jacques_anquetil",
       "name": "Jacques Anquetil",
       "country": "FRA",
@@ -85,27 +106,6 @@ window.CYCLING_DATA = {
         "birth": 1934
       },
       "prevRank": 4
-    },
-    {
-      "id": "tadej_pogacar",
-      "name": "Tadej Pogacar",
-      "country": "SLO",
-      "logo": "https://flagcdn.com/24x18/si.png",
-      "teamCode": "SLO",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "legendScore": 42.3,
-      "active": true,
-      "age": 26,
-      "stats": {
-        "tour": 3,
-        "giro": 1,
-        "vuelta": 0,
-        "monuments": 9,
-        "worlds": 1,
-        "birth": 2000
-      },
-      "prevRank": 5
     },
     {
       "id": "miguel_indurain",
@@ -432,11 +432,11 @@ window.CYCLING_DATA = {
       "teamCode": "SLO",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "legendScore": 42.3,
+      "legendScore": 48.3,
       "active": true,
       "age": 26,
       "stats": {
-        "tour": 3,
+        "tour": 4,
         "giro": 1,
         "vuelta": 0,
         "monuments": 9,
@@ -693,22 +693,22 @@ window.CYCLING_DATA = {
     "name": "Tour de France",
     "start": "2026-07-04",
     "end": "2026-07-27",
-    "stage": 20,
+    "stage": 21,
     "total_stages": 21,
     "jersey_primary": "#FFD700",
     "jersey_name": "Maillot Jaune",
     "last_stage": {
-      "stage": 20,
-      "date": "25 July",
-      "type": "Mountain stage",
+      "stage": 21,
+      "date": "26 July",
+      "type": "Flat stage",
       "dist_km": null,
-      "from": "Le Bourg-d'Oisans",
-      "to": "Le Bourg-d'Oisans",
+      "from": "Paris",
+      "to": "Champs-Élysées",
       "completed": true,
-      "winner": "Richard Carapaz",
-      "winner_cc": "ECU",
-      "winner_primary": "#FFD100",
-      "winner_logo": "https://flagcdn.com/24x18/ec.png"
+      "winner": "Mathieu van der Poel",
+      "winner_cc": "NED",
+      "winner_primary": "#AE1C28",
+      "winner_logo": "https://flagcdn.com/24x18/nl.png"
     },
     "next_stage": {
       "stage": 1,
@@ -758,7 +758,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/si.png",
         "team": "UEX",
         "primary": "#003DA5",
-        "time": "72h 53' 44\"",
+        "time": "73h 56' 26\"",
         "legendScore": 0.0
       },
       {
@@ -859,7 +859,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/dk.png",
       "team": "LTK men",
       "primary": "#C60C30",
-      "points": 527,
+      "points": 559,
       "legendScore": 0.0
     },
     "kom_leader": {
@@ -879,7 +879,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/mx.png",
       "team": "UEX",
       "primary": "#555555",
-      "time": "73h 03' 26\"",
+      "time": "74h 06' 08\"",
       "legendScore": 0.0
     }
   },
@@ -904,8 +904,13 @@ window.CYCLING_DATA = {
       "dateLabel": "4–27 jul",
       "start": "2026-07-04",
       "end": "2026-07-27",
-      "status": "ongoing",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Tadej Pogačar",
+        "cc3": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "color": "#003DA5"
+      }
     },
     {
       "tier": "Gran Vuelta",

@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-26 14:52 UTC",
+  "UPDATED": "2026-07-26 21:13 UTC",
   "EVENTS": [
     {
       "id": "f1:win:AWS Hungarian Grand Prix:Charles Leclerc",
@@ -70,6 +70,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-19"
     },
     {
+      "id": "rank:athletics:allTime:400mh_m:in:Alison Dos Santos",
+      "sport": "athletics",
+      "detail": "Atletismo",
+      "anchor": "athletics-records",
+      "text": "Alison Dos Santos entra en el top-10 histórico · 400m vallas — H",
+      "weight": 90,
+      "firstSeen": "2026-07-26"
+    },
+    {
       "id": "tennis:in:WTA:Linda Noskova:20260709",
       "sport": "tennis",
       "detail": "Tenis",
@@ -77,6 +86,14 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-wta",
       "firstSeen": "2026-07-13"
+    },
+    {
+      "id": "cycling:stage:Tour de France:21:Mathieu van der Poel",
+      "sport": "cycling",
+      "detail": "Ciclismo",
+      "text": "Mathieu van der Poel ganó la última etapa del Tour de France",
+      "weight": 88,
+      "firstSeen": "2026-07-26"
     },
     {
       "id": "cycling:stage:Tour de France:20:Richard Carapaz",
@@ -455,8 +472,8 @@ window.GLORY_DATA = {
       "New York Yankees",
       "Philadelphia Phillies",
       "San Diego Padres",
-      "Baltimore Orioles",
       "Seattle Mariners",
+      "Baltimore Orioles",
       "New York Mets"
     ],
     "mlb:ROAD_TO_GLORY.youngProspects": [
@@ -543,8 +560,8 @@ window.GLORY_DATA = {
       "Eddy Merckx",
       "Bernard Hinault",
       "Fausto Coppi",
-      "Jacques Anquetil",
       "Tadej Pogacar",
+      "Jacques Anquetil",
       "Miguel Indurain",
       "Chris Froome",
       "Felice Gimondi",
@@ -633,11 +650,11 @@ window.GLORY_DATA = {
       "George Russell",
       "Charles Leclerc",
       "Lando Norris",
-      "Oscar Piastri",
       "Max Verstappen",
+      "Oscar Piastri",
       "Isack Hadjar",
-      "Pierre Gasly",
-      "Liam Lawson"
+      "Liam Lawson",
+      "Pierre Gasly"
     ],
     "f1:LEGENDS": [
       "Lewis Hamilton",
@@ -826,10 +843,10 @@ window.GLORY_DATA = {
       "Alison dos Santos",
       "Rai Benjamin",
       "Rai Benjamin",
+      "Alison Dos Santos",
       "Karsten Warholm",
       "Karsten Warholm",
-      "Karsten Warholm",
-      "Rai Benjamin"
+      "Karsten Warholm"
     ],
     "athletics:allTime:400mh_w": [
       "Sydney McLaughlin-Levrone",
