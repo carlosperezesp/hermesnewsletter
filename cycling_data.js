@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-26 14:13 UTC
+// Auto-generated 2026-07-26 14:50 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-07-26 14:13 UTC",
+  "UPDATED": "2026-07-26 14:50 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -703,7 +703,7 @@ window.CYCLING_DATA = {
       "type": "Mountain stage",
       "dist_km": null,
       "from": "Le Bourg-d'Oisans",
-      "to": "Alpe d'Huez",
+      "to": "Le Bourg-d'Oisans",
       "completed": true,
       "winner": "Richard Carapaz",
       "winner_cc": "ECU",
@@ -740,7 +740,7 @@ window.CYCLING_DATA = {
       },
       {
         "rank": null,
-        "name": "Joe Biden",
+        "name": "Isaac del Toro",
         "country": "MEX",
         "logo": "https://flagcdn.com/24x18/mx.png",
         "team": "UEX",
@@ -773,7 +773,7 @@ window.CYCLING_DATA = {
       },
       {
         "rank": 3,
-        "name": "Joe Biden",
+        "name": "Isaac del Toro",
         "country": "MEX",
         "logo": "https://flagcdn.com/24x18/mx.png",
         "team": "UEX",
