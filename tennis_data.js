@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-26 21:13 UTC
+// Auto-generated 2026-07-26 22:18 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-26 21:13 UTC",
+  "UPDATED": "2026-07-26 22:18 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11075,15 +11075,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Fiona Ferro",
+          "w": "Francesca Jones",
           "w_logo": "",
-          "l": "Francesca Jones",
+          "l": "Fiona Ferro",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-0 4-6 7-6 (8-6)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 41.0,
+          "w_score": 41.0,
+          "l_score": null,
           "match_score": 41.0
         }
       ]

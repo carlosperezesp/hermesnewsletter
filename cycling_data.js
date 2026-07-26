@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-26 21:11 UTC
+// Auto-generated 2026-07-26 22:16 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-07-26 21:11 UTC",
+  "UPDATED": "2026-07-26 22:16 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -84,7 +84,7 @@ window.CYCLING_DATA = {
         "worlds": 1,
         "birth": 2000
       },
-      "prevRank": 5
+      "prevRank": 4
     },
     {
       "id": "jacques_anquetil",
@@ -105,7 +105,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1934
       },
-      "prevRank": 4
+      "prevRank": 5
     },
     {
       "id": "miguel_indurain",
