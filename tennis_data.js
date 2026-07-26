@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-26 08:42 UTC
+// Auto-generated 2026-07-26 14:15 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-26 08:42 UTC",
+  "UPDATED": "2026-07-26 14:15 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -6713,8 +6713,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
-        "state": "out",
+        "tournament": "Axeria Open 2026 powered by Intaro Sport",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -6919,7 +6919,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Livesport Prague Open",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 62.1
@@ -7975,7 +7975,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "MSC Hamburg Ladies Open",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 59.1
@@ -8731,8 +8731,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
+        "tournament": "Axeria Open 2026 powered by Intaro Sport",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -9425,9 +9425,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Palermo Ladies Open",
+        "tournament": "Axeria Open 2026 powered by Intaro Sport",
         "state": "alive",
-        "round": "F",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 42.8
@@ -9671,8 +9671,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
+        "tournament": "Axeria Open 2026 powered by Intaro Sport",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -11055,15 +11055,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Daria Snigur",
+          "w": "Lilli Tagger",
           "w_logo": "",
-          "l": "Lilli Tagger",
+          "l": "Daria Snigur",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-3) 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 61.2,
-          "l_score": 58.0,
+          "scheduled": false,
+          "w_score": 58.0,
+          "l_score": 61.2,
           "match_score": 61.2
         }
       ]
@@ -11099,9 +11099,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anna Bondar",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 58.4,
           "l_score": 54.7,
           "match_score": 58.4
@@ -11305,6 +11305,7 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
+      "Alesia Breaz",
       "Alevtina Ibragimova",
       "Alexandra Eala",
       "Alexandra Vagramov",
@@ -11312,6 +11313,7 @@ window.TENNIS_DATA = {
       "Alina Charaeva",
       "Anastasia Potapova",
       "Anastasia Zakharova",
+      "Anastasiia Sobolieva",
       "Anhelina Kalinina",
       "Ann Li",
       "Anna Bondar",
@@ -11321,17 +11323,23 @@ window.TENNIS_DATA = {
       "Ayla Aksu",
       "Barbora Krejcikova",
       "Cadence Brace",
+      "Caijsa Hennemann",
       "Carol Young Suh Lee",
       "Carol Zhao",
+      "Carole Monnet",
       "Caroline Dolehide",
       "Catherine McNally",
+      "Chloe Paquet",
       "Clara Burel",
       "Clara Tauson",
       "Dalila Spiteri",
       "Daria Snigur",
+      "Darja Semenistaja",
       "Darja Vidmanova",
       "Dominika Salkova",
       "Ekaterine Gorgodze",
+      "Elena Malygina",
+      "Elena Ruxandra Bertea",
       "Elina Avanesyan",
       "Elisabetta Cocciaretto",
       "Elsa Jacquemot",
@@ -11346,14 +11354,19 @@ window.TENNIS_DATA = {
       "Harriet Dart",
       "Haruka Kaji",
       "Hayu Kinoshita",
+      "Irene Burillo",
+      "Irina Fetecau",
       "Jennifer Ruggeri",
       "Julia Stusek",
+      "Julie Struplova",
+      "Kaitlin Quevedo",
       "Katie Boulter",
       "Katie Volynets",
       "Kayla Cross",
       "Kayla Day",
       "Kyoka Okamura",
       "Lanlana Tararudee",
+      "Laura Samson",
       "Leylah Fernandez",
       "Leyre Romero Gormaz",
       "Lilli Tagger",
@@ -11370,6 +11383,7 @@ window.TENNIS_DATA = {
       "Magda Linette",
       "Magdalena Frech",
       "Mai Hontama",
+      "Maia Ilinca Burcescu",
       "Mananchaya Sawangkaew",
       "Maria Lourdes Carle",
       "Maria Timofeeva",
@@ -11379,6 +11393,8 @@ window.TENNIS_DATA = {
       "Maya Joint",
       "Mayar Sherif",
       "McCartney Kessler",
+      "Mia Pohankova",
+      "Mia Ristic",
       "Mina Hodzic",
       "Miriam Bulgaru",
       "Nao Hibino",
@@ -11392,10 +11408,13 @@ window.TENNIS_DATA = {
       "Peyton Stearns",
       "Renata Zarazua",
       "Sara Bejlek",
+      "Sara Sorribes Tormo",
+      "Selena Janicijevic",
       "Sinja Kraus",
       "Sloane Stephens",
       "Sofia Costoulas",
       "Sofia Kenin",
+      "Sofya Lansere",
       "Talia Gibson",
       "Tamara Korpatsch",
       "Tatjana Maria",
@@ -11424,9 +11443,7 @@ window.TENNIS_DATA = {
       "Anna Blinkova",
       "Antonia Ruzic",
       "Arantxa Rus",
-      "Caijsa Hennemann",
       "Caroline Werner",
-      "Darja Semenistaja",
       "Darya Astakhova",
       "Deborah Chiesa",
       "Diane Parry",
@@ -11438,9 +11455,7 @@ window.TENNIS_DATA = {
       "Jana Kovackova",
       "Jessica Bouzas Maneiro",
       "Jule Niemeier",
-      "Kaitlin Quevedo",
       "Katarzyna Kawa",
-      "Laura Samson",
       "Lina Gjorcheska",
       "Mona Barthel",
       "Moyuka Uchijima",
@@ -11449,9 +11464,7 @@ window.TENNIS_DATA = {
       "Priscilla Hon",
       "Raluka Serban",
       "Ren Yufei",
-      "Sara Sorribes Tormo",
       "Simona Waltert",
-      "Sofya Lansere",
       "Tamara Zidansek",
       "Tessa Johanna Brockmann",
       "Valentina Steiner",
@@ -11460,8 +11473,8 @@ window.TENNIS_DATA = {
       "Victoria Jimenez Kasintseva",
       "Yuan Yue"
     ],
-    "aliveCount": 106,
-    "matchesSeen": 123
+    "aliveCount": 125,
+    "matchesSeen": 135
   },
   "ATP_SCORE_LOG": {
     "206173": [

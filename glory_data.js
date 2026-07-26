@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-26 08:42 UTC",
+  "UPDATED": "2026-07-26 14:15 UTC",
   "EVENTS": [
     {
       "id": "f1:win:AWS Hungarian Grand Prix:Charles Leclerc",
@@ -316,7 +316,38 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-12"
     }
   ],
-  "REPORTS": [],
+  "REPORTS": [
+    {
+      "id": "sumo:basho:202607",
+      "sport": "sumo",
+      "competition": "Sumo",
+      "champion": "Aonishiki conquista el basho",
+      "scopeLabel": "Cabeza del banzuke",
+      "top5": [
+        {
+          "name": "Hoshoryu",
+          "sub": "Yokozuna 1 East"
+        },
+        {
+          "name": "Onosato",
+          "sub": "Yokozuna 1 West"
+        },
+        {
+          "name": "Kirishima",
+          "sub": "Ozeki 1 East"
+        },
+        {
+          "name": "Kotozakura",
+          "sub": "Ozeki 1 West"
+        },
+        {
+          "name": "Atamifuji",
+          "sub": "Sekiwake 1 East"
+        }
+      ],
+      "firstSeen": "2026-07-26"
+    }
+  ],
   "REPORT_SEEN": [
     {
       "id": "nhl:champ:CAR:2025-26",
@@ -325,6 +356,10 @@ window.GLORY_DATA = {
     {
       "id": "nba:champ:NY:2025-26",
       "firstSeen": "2026-07-06"
+    },
+    {
+      "id": "sumo:basho:202607",
+      "firstSeen": "2026-07-26"
     }
   ],
   "SNAPSHOTS": {

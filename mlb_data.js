@@ -1038,6 +1038,37 @@ window.MLB_DATA = {
       "prevRank": 10
     },
     {
+      "id": 42359,
+      "name": "Cristopher Sanchez",
+      "first": "Cristopher",
+      "last": "Sanchez",
+      "pos": "SP",
+      "teamCode": "PHI",
+      "age": 29,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42359.png",
+      "colors": {
+        "primary": "#e81828",
+        "secondary": "#002d72"
+      },
+      "score": 82,
+      "stats": {
+        "type": "pitching",
+        "g": 21,
+        "w": 12,
+        "era": 2.65,
+        "ip": 132.2,
+        "so": 151,
+        "whip": 1.19
+      },
+      "legendScore": 51.4,
+      "currentScore": 82,
+      "battingScore": null,
+      "pitchingScore": 82,
+      "twoWayBonus": 0,
+      "rings": 0,
+      "prevRank": 5
+    },
+    {
       "id": 32767,
       "name": "Matt Olson",
       "first": "Matt",
@@ -1097,37 +1128,6 @@ window.MLB_DATA = {
       "twoWayBonus": 0,
       "rings": 0,
       "prevRank": 4
-    },
-    {
-      "id": 42359,
-      "name": "Cristopher Sanchez",
-      "first": "Cristopher",
-      "last": "Sanchez",
-      "pos": "SP",
-      "teamCode": "PHI",
-      "age": 29,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42359.png",
-      "colors": {
-        "primary": "#e81828",
-        "secondary": "#002d72"
-      },
-      "score": 81,
-      "stats": {
-        "type": "pitching",
-        "g": 21,
-        "w": 12,
-        "era": 2.71,
-        "ip": 132.2,
-        "so": 151,
-        "whip": 1.19
-      },
-      "legendScore": 50.9,
-      "currentScore": 81,
-      "battingScore": null,
-      "pitchingScore": 81,
-      "twoWayBonus": 0,
-      "rings": 0,
-      "prevRank": 5
     },
     {
       "id": 32532,
@@ -1205,12 +1205,12 @@ window.MLB_DATA = {
       "score": 79,
       "stats": {
         "type": "batting",
-        "ab": 368,
+        "ab": 369,
         "hr": 22,
         "rbi": 61,
-        "avg": 0.283,
+        "avg": 0.282,
         "sb": 6,
-        "ops": 0.91
+        "ops": 0.908
       },
       "legendScore": 92.0,
       "currentScore": 100.0,
@@ -6565,6 +6565,36 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
+      "id": 39639,
+      "name": "Shane Baz",
+      "first": "Shane",
+      "last": "Baz",
+      "pos": "SP",
+      "teamCode": "BAL",
+      "age": 27,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39639.png",
+      "colors": {
+        "primary": "#df4601",
+        "secondary": "#000000"
+      },
+      "score": 42,
+      "stats": {
+        "type": "pitching",
+        "g": 20,
+        "w": 4,
+        "era": 4.05,
+        "ip": 117.2,
+        "so": 105,
+        "whip": 1.37
+      },
+      "legendScore": 27.9,
+      "currentScore": 42,
+      "battingScore": null,
+      "pitchingScore": 42,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
       "id": 4345278,
       "name": "Tanner Bibee",
       "first": "Tanner",
@@ -6708,36 +6738,6 @@ window.MLB_DATA = {
         "whip": 1.13
       },
       "legendScore": 26.6,
-      "currentScore": 41,
-      "battingScore": null,
-      "pitchingScore": 41,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 39639,
-      "name": "Shane Baz",
-      "first": "Shane",
-      "last": "Baz",
-      "pos": "SP",
-      "teamCode": "BAL",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39639.png",
-      "colors": {
-        "primary": "#df4601",
-        "secondary": "#000000"
-      },
-      "score": 41,
-      "stats": {
-        "type": "pitching",
-        "g": 20,
-        "w": 4,
-        "era": 4.13,
-        "ip": 117.2,
-        "so": 105,
-        "whip": 1.38
-      },
-      "legendScore": 27.4,
       "currentScore": 41,
       "battingScore": null,
       "pitchingScore": 41,
@@ -7867,7 +7867,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-26 08:41 UTC",
+  "LAST_UPDATE": "2026-07-26 14:12 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

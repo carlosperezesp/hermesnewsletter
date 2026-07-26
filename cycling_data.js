@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-26 08:41 UTC
+// Auto-generated 2026-07-26 14:13 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-07-26 08:41 UTC",
+  "UPDATED": "2026-07-26 14:13 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -740,7 +740,7 @@ window.CYCLING_DATA = {
       },
       {
         "rank": null,
-        "name": "Isaac del Toro",
+        "name": "Joe Biden",
         "country": "MEX",
         "logo": "https://flagcdn.com/24x18/mx.png",
         "team": "UEX",
@@ -773,7 +773,7 @@ window.CYCLING_DATA = {
       },
       {
         "rank": 3,
-        "name": "Isaac del Toro",
+        "name": "Joe Biden",
         "country": "MEX",
         "logo": "https://flagcdn.com/24x18/mx.png",
         "team": "UEX",

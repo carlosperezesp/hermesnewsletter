@@ -948,7 +948,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 10.0,
-  "LAST_UPDATE": "2026-07-26 08:41 UTC",
+  "LAST_UPDATE": "2026-07-26 14:12 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

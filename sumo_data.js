@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-26 08:41 UTC
+// Auto-generated 2026-07-26 14:13 UTC
 window.SUMO_DATA = {
-  "UPDATED": "2026-07-26 08:41 UTC",
+  "UPDATED": "2026-07-26 14:13 UTC",
   "LEGENDS": [
     {
       "id": "hakuho",
@@ -242,7 +242,7 @@ window.SUMO_DATA = {
     "id": "202607",
     "startDate": "2026-07-12T00:00:00Z",
     "endDate": "2026-07-26T00:00:00Z",
-    "winner": null
+    "winner": "Aonishiki"
   },
   "BANZUKE": [
     {
@@ -268,7 +268,7 @@ window.SUMO_DATA = {
       "rankLabel": "Yokozuna 1 West",
       "name": "Onosato",
       "rikishiID": 8850,
-      "wins": 8,
+      "wins": 9,
       "losses": 6,
       "absences": 0,
       "rankShort": "Yokozuna",
@@ -285,7 +285,7 @@ window.SUMO_DATA = {
       "rankLabel": "Ozeki 1 East",
       "name": "Kirishima",
       "rikishiID": 7,
-      "wins": 11,
+      "wins": 12,
       "losses": 3,
       "absences": 0,
       "rankShort": "Ozeki",
@@ -303,7 +303,7 @@ window.SUMO_DATA = {
       "name": "Kotozakura",
       "rikishiID": 20,
       "wins": 8,
-      "losses": 6,
+      "losses": 7,
       "absences": 0,
       "rankShort": "Ozeki",
       "yusho": 1,
@@ -337,7 +337,7 @@ window.SUMO_DATA = {
       "name": "Kotoshoho",
       "rikishiID": 8,
       "wins": 6,
-      "losses": 8,
+      "losses": 9,
       "absences": 0,
       "rankShort": "Sekiwake",
       "yusho": 1,
@@ -374,8 +374,8 @@ window.SUMO_DATA = {
       "losses": 3,
       "absences": 0,
       "rankShort": "Sekiwake",
-      "yusho": 2,
-      "legendScore": 3.7,
+      "yusho": 3,
+      "legendScore": 5.6,
       "age": 22,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
@@ -595,7 +595,7 @@ window.SUMO_DATA = {
       "wins": 12,
       "losses": 3,
       "absences": 0,
-      "yusho": 2,
+      "yusho": 3,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "primary": "#4a4745",
