@@ -24517,9 +24517,9 @@ window.NHL_DATA = {
       "name": "Vyacheslav Buteyets",
       "pos": "G",
       "teamCode": "ANA",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 24,
+      "country": "Russia",
+      "birthCountry": "RUS",
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -32116,9 +32116,9 @@ window.NHL_DATA = {
       "name": "Sam Colangelo",
       "pos": "RW",
       "teamCode": "ANA",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 24,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -47977,10 +47977,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-27 21:30 UTC",
+  "LAST_UPDATE": "2026-07-27 22:30 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-27T21:29:30Z"
+    "standingsDateTimeUtc": "2026-07-27T22:29:46Z"
   }
 };
