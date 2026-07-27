@@ -663,7 +663,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 2
+      "prevRank": 1
     },
     {
       "id": 5080761,
@@ -756,7 +756,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 1,
-      "prevRank": 1
+      "prevRank": 2
     },
     {
       "id": 4918256,
@@ -7333,7 +7333,7 @@ window.MLB_DATA = {
         "gap": 34.5,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "id": 42402,
@@ -7355,7 +7355,7 @@ window.MLB_DATA = {
         "gap": 34.6,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 10
+        "prevRank": 8
       },
       {
         "id": 5080761,
@@ -7399,7 +7399,7 @@ window.MLB_DATA = {
         "gap": 37.1,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 7
+        "prevRank": 10
       }
     ],
     "teams": [
@@ -7614,7 +7614,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 21.6,
         "note": "Among the best players of their generation",
-        "prevRank": 4
+        "prevRank": 3
       },
       {
         "id": 4717833,
@@ -7631,7 +7631,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 22.8,
         "note": "Among the best players of their generation",
-        "prevRank": 3
+        "prevRank": 4
       },
       {
         "id": 5080771,
@@ -7699,7 +7699,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 29.3,
         "note": "Elite start to career — ceiling is very high",
-        "prevRank": 10
+        "prevRank": 8
       },
       {
         "id": 5134581,
@@ -7716,7 +7716,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 31.1,
         "note": "Among the best players of their generation",
-        "prevRank": 8
+        "prevRank": 9
       },
       {
         "id": 4927516,
@@ -7733,7 +7733,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 32.0,
         "note": "Among the best players of their generation",
-        "prevRank": 9
+        "prevRank": 10
       }
     ]
   },
@@ -7777,7 +7777,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-27 08:48 UTC",
+  "LAST_UPDATE": "2026-07-27 10:13 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

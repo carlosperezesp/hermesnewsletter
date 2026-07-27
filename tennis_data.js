@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-27 08:50 UTC
+// Auto-generated 2026-07-27 10:15 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-27 08:50 UTC",
+  "UPDATED": "2026-07-27 10:15 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11302,19 +11302,6 @@ window.TENNIS_DATA = {
           "w_score": 46.7,
           "l_score": null,
           "match_score": 46.7
-        },
-        {
-          "round": "R128",
-          "w": "Darja Semenistaja",
-          "w_logo": "",
-          "l": "Mia Ristic",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 38.5,
-          "l_score": null,
-          "match_score": 38.5
         },
         {
           "round": "R128",

@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-27 08:50 UTC",
+  "UPDATED": "2026-07-27 10:15 UTC",
   "EVENTS": [
+    {
+      "id": "motogp:win:German motorcycle Grand Prix:Marc Márquez",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "text": "Marc Márquez ganó el German motorcycle Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-07-27"
+    },
     {
       "id": "f1:win:AWS Hungarian Grand Prix:Charles Leclerc",
       "sport": "f1",
