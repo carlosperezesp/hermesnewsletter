@@ -9683,7 +9683,7 @@ window.NHL_DATA = {
       "name": "Sam Malinski",
       "pos": "D",
       "teamCode": "COL",
-      "age": 27,
+      "age": 28,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -22095,7 +22095,7 @@ window.NHL_DATA = {
       "name": "Nils Lundkvist",
       "pos": "D",
       "teamCode": "DAL",
-      "age": 25,
+      "age": 26,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -47977,10 +47977,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-26 22:16 UTC",
+  "LAST_UPDATE": "2026-07-27 08:48 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-26T22:16:00Z"
+    "standingsDateTimeUtc": "2026-07-27T08:47:15Z"
   }
 };

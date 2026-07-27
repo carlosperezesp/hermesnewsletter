@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-26 22:18 UTC
+// Auto-generated 2026-07-27 08:50 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-26 22:18 UTC",
+  "UPDATED": "2026-07-27 08:50 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -29,7 +29,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 16.0,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -65,12 +65,46 @@ window.TENNIS_DATA = {
       "leyendaScore": 25.9,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
       "prevActiveScore": 90.9
+    },
+    {
+      "id": "104925",
+      "name": "Novak Djokovic",
+      "rank": 5,
+      "prevRank": 7,
+      "country": "SRB",
+      "logo": "https://flagcdn.com/24x18/rs.png",
+      "teamCode": "SRB",
+      "primary": "#C6363C",
+      "secondary": "#FFFFFF",
+      "activeScore": 87.7,
+      "legendScore": 100.0,
+      "age": 39,
+      "surface": {
+        "hard": 0.78,
+        "clay": 0.688,
+        "grass": 0.833
+      },
+      "stats": {
+        "gs": 23,
+        "titles": 85,
+        "weeks_no1": 0,
+        "top10_wins": 228
+      },
+      "leyendaScore": 100.0,
+      "prevListRank": 3,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 87.4
     },
     {
       "id": "100644",
@@ -97,9 +131,9 @@ window.TENNIS_DATA = {
         "top10_wins": 58
       },
       "leyendaScore": 3.4,
-      "prevListRank": 3,
+      "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -107,50 +141,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 87.5
     },
     {
-      "id": "104925",
-      "name": "Novak Djokovic",
-      "rank": 7,
-      "prevRank": 7,
-      "country": "SRB",
-      "logo": "https://flagcdn.com/24x18/rs.png",
-      "teamCode": "SRB",
-      "primary": "#C6363C",
-      "secondary": "#FFFFFF",
-      "activeScore": 87.4,
-      "legendScore": 100.0,
-      "age": 39,
-      "surface": {
-        "hard": 0.78,
-        "clay": 0.688,
-        "grass": 0.833
-      },
-      "stats": {
-        "gs": 23,
-        "titles": 85,
-        "weeks_no1": 0,
-        "top10_wins": 228
-      },
-      "leyendaScore": 100.0,
-      "prevListRank": 4,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 87.4
-    },
-    {
       "id": "209950",
       "name": "Arthur Fils",
-      "rank": 23,
+      "rank": 22,
       "prevRank": 23,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 82.5,
+      "activeScore": 82.6,
       "legendScore": 26.3,
       "age": 22,
       "surface": {
@@ -201,7 +201,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -209,10 +209,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 81.2
     },
     {
+      "id": "126205",
+      "name": "Tommy Paul",
+      "rank": 21,
+      "prevRank": 24,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 79.8,
+      "legendScore": 28.0,
+      "age": 29,
+      "surface": {
+        "hard": 0.682,
+        "clay": 0.742,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 5,
+        "weeks_no1": 0,
+        "top10_wins": 15
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 7,
+      "tournamentStatus": {
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 79.5
+    },
+    {
       "id": "207518",
       "name": "Lorenzo Musetti",
       "rank": 15,
-      "prevRank": 14,
+      "prevRank": 15,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -233,40 +267,6 @@ window.TENNIS_DATA = {
         "top10_wins": 15
       },
       "leyendaScore": 0.0,
-      "prevListRank": 7,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 79.6
-    },
-    {
-      "id": "126205",
-      "name": "Tommy Paul",
-      "rank": 24,
-      "prevRank": 24,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 79.5,
-      "legendScore": 28.0,
-      "age": 29,
-      "surface": {
-        "hard": 0.682,
-        "clay": 0.742,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 5,
-        "weeks_no1": 0,
-        "top10_wins": 15
-      },
-      "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
@@ -279,14 +279,14 @@ window.TENNIS_DATA = {
     {
       "id": "106421",
       "name": "Daniil Medvedev",
-      "rank": 8,
+      "rank": 7,
       "prevRank": 8,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 78.7,
+      "activeScore": 78.8,
       "legendScore": 52.8,
       "age": 30,
       "surface": {
@@ -303,12 +303,46 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
       "prevActiveScore": 78.7
+    },
+    {
+      "id": "212588",
+      "name": "Rafael Jodar",
+      "rank": 24,
+      "prevRank": 25,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 77.8,
+      "legendScore": 23.0,
+      "age": 19,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.826,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 10,
+      "tournamentStatus": {
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 77.7
     },
     {
       "id": "200000",
@@ -335,9 +369,9 @@ window.TENNIS_DATA = {
         "top10_wins": 25
       },
       "leyendaScore": 0.0,
-      "prevListRank": 10,
+      "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -345,50 +379,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 77.7
     },
     {
-      "id": "212588",
-      "name": "Rafael Jodar",
-      "rank": 25,
-      "prevRank": 25,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
-      "secondary": "#FFFFFF",
-      "activeScore": 77.7,
-      "legendScore": 23.0,
-      "age": 19,
-      "surface": {
-        "hard": 0.5,
-        "clay": 0.826,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 11,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 77.7
-    },
-    {
       "id": "200282",
       "name": "Alex De Minaur",
-      "rank": 5,
+      "rank": 6,
       "prevRank": 5,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
       "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 77.1,
+      "activeScore": 77.0,
       "legendScore": 33.8,
       "age": 27,
       "surface": {
@@ -411,40 +411,6 @@ window.TENNIS_DATA = {
         "reason": ""
       },
       "prevActiveScore": 77.1
-    },
-    {
-      "id": "210097",
-      "name": "Ben Shelton",
-      "rank": 6,
-      "prevRank": 6,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 76.4,
-      "legendScore": 27.8,
-      "age": 23,
-      "surface": {
-        "hard": 0.667,
-        "clay": 0.6,
-        "grass": 0.6
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 5,
-        "weeks_no1": 0,
-        "top10_wins": 8
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 13,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 76.4
     },
     {
       "id": "208103",
@@ -471,12 +437,46 @@ window.TENNIS_DATA = {
         "top10_wins": 10
       },
       "leyendaScore": 0.0,
-      "prevListRank": 14,
+      "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 76.4
+    },
+    {
+      "id": "210097",
+      "name": "Ben Shelton",
+      "rank": 8,
+      "prevRank": 6,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 76.1,
+      "legendScore": 27.8,
+      "age": 23,
+      "surface": {
+        "hard": 0.667,
+        "clay": 0.6,
+        "grass": 0.6
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 5,
+        "weeks_no1": 0,
+        "top10_wins": 8
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 14,
+      "tournamentStatus": {
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 76.4
     },
@@ -507,7 +507,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -575,7 +575,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -586,7 +586,7 @@ window.TENNIS_DATA = {
       "id": "126094",
       "name": "Andrey Rublev",
       "rank": 14,
-      "prevRank": 16,
+      "prevRank": 14,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -609,18 +609,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 75.0
+      "prevActiveScore": 75.2
     },
     {
       "id": "210530",
       "name": "Learner Tien",
       "rank": 16,
-      "prevRank": 15,
+      "prevRank": 16,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -648,19 +648,19 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 75.1
+      "prevActiveScore": 75.0
     },
     {
       "id": "200473",
       "name": "Valentin Vacherot",
-      "rank": 19,
-      "prevRank": 21,
+      "rank": 18,
+      "prevRank": 19,
       "country": "MON",
       "logo": "https://flagcdn.com/24x18/mc.png",
       "teamCode": "MON",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 74.9,
+      "activeScore": 75.0,
       "legendScore": 24.1,
       "age": 27,
       "surface": {
@@ -677,24 +677,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 74.6
+      "prevActiveScore": 74.9
     },
     {
       "id": "126207",
       "name": "Frances Tiafoe",
-      "rank": 17,
+      "rank": 19,
       "prevRank": 17,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 74.6,
+      "activeScore": 74.5,
       "legendScore": 26.0,
       "age": 28,
       "surface": {
@@ -721,14 +721,14 @@ window.TENNIS_DATA = {
     {
       "id": "202103",
       "name": "Francisco Cerundolo",
-      "rank": 22,
+      "rank": 20,
       "prevRank": 22,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
       "primary": "#74ACDF",
       "secondary": "#FFFFFF",
-      "activeScore": 73.9,
+      "activeScore": 74.1,
       "legendScore": 26.3,
       "age": 27,
       "surface": {
@@ -745,7 +745,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -755,14 +755,14 @@ window.TENNIS_DATA = {
     {
       "id": "211663",
       "name": "Joao Fonseca",
-      "rank": 28,
-      "prevRank": 27,
+      "rank": 27,
+      "prevRank": 28,
       "country": "BRA",
       "logo": "https://flagcdn.com/24x18/br.png",
       "teamCode": "BRA",
       "primary": "#009C3B",
       "secondary": "#FFFFFF",
-      "activeScore": 73.4,
+      "activeScore": 73.6,
       "legendScore": 25.4,
       "age": 19,
       "surface": {
@@ -779,58 +779,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 73.6
-    },
-    {
-      "id": "200221",
-      "name": "Alejandro Davidovich Fokina",
-      "rank": 20,
-      "prevRank": 20,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
-      "secondary": "#FFFFFF",
-      "activeScore": 73.0,
-      "legendScore": 23.6,
-      "age": 27,
-      "surface": {
-        "hard": 0.609,
-        "clay": 0.565,
-        "grass": 0.714
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 12
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 24,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 73.0
+      "prevActiveScore": 73.4
     },
     {
       "id": "210696",
       "name": "Alexander Blockx",
-      "rank": 38,
-      "prevRank": 37,
+      "rank": 32,
+      "prevRank": 38,
       "country": "BEL",
       "logo": "https://flagcdn.com/24x18/be.png",
       "teamCode": "BEL",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 72.0,
+      "activeScore": 72.6,
       "legendScore": 20.1,
       "age": 21,
       "surface": {
@@ -845,14 +811,48 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
+      "prevListRank": 24,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 72.0
+    },
+    {
+      "id": "200221",
+      "name": "Alejandro Davidovich Fokina",
+      "rank": 25,
+      "prevRank": 20,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 72.5,
+      "legendScore": 23.6,
+      "age": 27,
+      "surface": {
+        "hard": 0.609,
+        "clay": 0.565,
+        "grass": 0.714
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 12
+      },
+      "leyendaScore": 0.0,
       "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
-        "state": "alive",
-        "round": "Semifinal",
-        "reason": ""
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 72.1
+      "prevActiveScore": 73.0
     },
     {
       "id": "111575",
@@ -881,7 +881,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -891,14 +891,14 @@ window.TENNIS_DATA = {
     {
       "id": "209860",
       "name": "Ignacio Buse",
-      "rank": 35,
-      "prevRank": 33,
+      "rank": 34,
+      "prevRank": 35,
       "country": "PER",
       "logo": "https://flagcdn.com/24x18/pe.png",
       "teamCode": "PER",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 68.3,
+      "activeScore": 68.4,
       "legendScore": 0.7,
       "age": 22,
       "surface": {
@@ -915,58 +915,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 68.5
-    },
-    {
-      "id": "206909",
-      "name": "Brandon Nakashima",
-      "rank": 32,
-      "prevRank": 32,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 67.5,
-      "legendScore": 21.9,
-      "age": 24,
-      "surface": {
-        "hard": 0.544,
-        "clay": 0.455,
-        "grass": 0.667
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 28,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 67.5
+      "prevActiveScore": 68.3
     },
     {
       "id": "126610",
       "name": "Matteo Berrettini",
-      "rank": 42,
-      "prevRank": 43,
+      "rank": 41,
+      "prevRank": 42,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
       "primary": "#009246",
       "secondary": "#FFFFFF",
-      "activeScore": 67.5,
+      "activeScore": 67.6,
       "legendScore": 31.6,
       "age": 30,
       "surface": {
@@ -981,26 +947,60 @@ window.TENNIS_DATA = {
         "top10_wins": 12
       },
       "leyendaScore": 0.0,
-      "prevListRank": 29,
+      "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 67.4
+      "prevActiveScore": 67.5
+    },
+    {
+      "id": "206909",
+      "name": "Brandon Nakashima",
+      "rank": 33,
+      "prevRank": 32,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 67.4,
+      "legendScore": 21.9,
+      "age": 24,
+      "surface": {
+        "hard": 0.544,
+        "clay": 0.455,
+        "grass": 0.667
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 29,
+      "tournamentStatus": {
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 67.5
     },
     {
       "id": "207830",
       "name": "Tomas Machac",
-      "rank": 53,
+      "rank": 54,
       "prevRank": 53,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 66.9,
+      "activeScore": 66.7,
       "legendScore": 23.8,
       "age": 25,
       "surface": {
@@ -1017,7 +1017,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 30,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1062,7 +1062,7 @@ window.TENNIS_DATA = {
       "id": "126214",
       "name": "Alejandro Tabilo",
       "rank": 30,
-      "prevRank": 31,
+      "prevRank": 30,
       "country": "CHI",
       "logo": "https://flagcdn.com/24x18/cl.png",
       "teamCode": "CHI",
@@ -1088,15 +1088,49 @@ window.TENNIS_DATA = {
         "tournament": "Mubadala DC Open",
         "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R64"
+        "reason": ""
       },
-      "prevActiveScore": 66.4
+      "prevActiveScore": 66.6
+    },
+    {
+      "id": "210506",
+      "name": "Alex Michelsen",
+      "rank": 40,
+      "prevRank": 44,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 66.4,
+      "legendScore": 18.3,
+      "age": 21,
+      "surface": {
+        "hard": 0.537,
+        "clay": 0.421,
+        "grass": 0.556
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 33,
+      "tournamentStatus": {
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 65.9
     },
     {
       "id": "111815",
       "name": "Cameron Norrie",
       "rank": 39,
-      "prevRank": 38,
+      "prevRank": 39,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
@@ -1117,26 +1151,26 @@ window.TENNIS_DATA = {
         "top10_wins": 13
       },
       "leyendaScore": 0.0,
-      "prevListRank": 33,
+      "prevListRank": 34,
       "tournamentStatus": {
         "tournament": "Mifel Tennis Open by Telcel Oppo",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 66.3
+      "prevActiveScore": 66.2
     },
     {
       "id": "209260",
       "name": "Luciano Darderi",
-      "rank": 21,
-      "prevRank": 18,
+      "rank": 23,
+      "prevRank": 21,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
       "primary": "#009246",
       "secondary": "#FFFFFF",
-      "activeScore": 65.9,
+      "activeScore": 65.6,
       "legendScore": 25.2,
       "age": 24,
       "surface": {
@@ -1151,60 +1185,26 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 34,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
-        "state": "alive",
-        "round": "Quarterfinal",
-        "reason": ""
-      },
-      "prevActiveScore": 66.2
-    },
-    {
-      "id": "210506",
-      "name": "Alex Michelsen",
-      "rank": 44,
-      "prevRank": 46,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 65.9,
-      "legendScore": 18.3,
-      "age": 21,
-      "surface": {
-        "hard": 0.537,
-        "clay": 0.421,
-        "grass": 0.556
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 3
-      },
-      "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 65.7
+      "prevActiveScore": 65.9
     },
     {
       "id": "126239",
       "name": "Arthur Rinderknech",
-      "rank": 27,
-      "prevRank": 28,
+      "rank": 28,
+      "prevRank": 27,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 65.7,
+      "activeScore": 65.6,
       "legendScore": 17.0,
       "age": 31,
       "surface": {
@@ -1221,52 +1221,54 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 65.6
+      "prevActiveScore": 65.7
     },
     {
-      "id": "202058",
-      "name": "Thiago Agustin Tirante",
-      "rank": 57,
-      "prevRank": 61,
-      "country": "ARG",
-      "logo": "https://flagcdn.com/24x18/ar.png",
-      "teamCode": "ARG",
-      "primary": "#74ACDF",
+      "id": "144684",
+      "name": "Alex Molcan",
+      "rank": 74,
+      "prevRank": 81,
+      "country": "SVK",
+      "logo": "https://flagcdn.com/24x18/sk.png",
+      "teamCode": "SVK",
+      "primary": "#0B4EA2",
       "secondary": "#FFFFFF",
-      "activeScore": 65.6,
-      "legendScore": 18.1,
-      "age": 25,
+      "activeScore": 65.5,
+      "legendScore": 19.0,
+      "age": 28,
       "surface": {
-        "hard": 0.429,
-        "clay": 0.609,
+        "hard": null,
+        "clay": 0.714,
         "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 2
+        "top10_wins": 1
       },
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 65.1
+      "prevActiveScore": 64.7
     },
     {
       "id": "207733",
       "name": "Jack Draper",
       "rank": 147,
-      "prevRank": 145,
+      "prevRank": 147,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
@@ -1301,14 +1303,14 @@ window.TENNIS_DATA = {
     {
       "id": "208286",
       "name": "Matteo Arnaldi",
-      "rank": 33,
-      "prevRank": 34,
+      "rank": 35,
+      "prevRank": 33,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
       "primary": "#009246",
       "secondary": "#FFFFFF",
-      "activeScore": 65.4,
+      "activeScore": 65.2,
       "legendScore": 22.7,
       "age": 25,
       "surface": {
@@ -1330,13 +1332,13 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 65.3
+      "prevActiveScore": 65.4
     },
     {
       "id": "126774",
       "name": "Stefanos Tsitsipas",
       "rank": 51,
-      "prevRank": 85,
+      "prevRank": 51,
       "country": "GRE",
       "logo": "https://flagcdn.com/24x18/gr.png",
       "teamCode": "GRE",
@@ -1364,13 +1366,13 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 61.3
+      "prevActiveScore": 65.2
     },
     {
       "id": "144869",
       "name": "Tomas Martin Etcheverry",
       "rank": 31,
-      "prevRank": 30,
+      "prevRank": 31,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
@@ -1398,49 +1400,81 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 65.2
+      "prevActiveScore": 65.0
     },
     {
-      "id": "144684",
-      "name": "Alex Molcan",
-      "rank": 81,
-      "prevRank": 101,
-      "country": "SVK",
-      "logo": "https://flagcdn.com/24x18/sk.png",
-      "teamCode": "SVK",
-      "primary": "#0B4EA2",
+      "id": "209414",
+      "name": "Luca Van Assche",
+      "rank": 48,
+      "prevRank": 78,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 64.7,
-      "legendScore": 19.0,
-      "age": 28,
+      "activeScore": 64.9,
+      "legendScore": 13.2,
+      "age": 22,
       "surface": {
         "hard": null,
-        "clay": 0.714,
+        "clay": 0.6,
         "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 1
+        "top10_wins": 0
       },
-      "inactiveWeeks": 6,
-      "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 62.6
+      "prevActiveScore": 61.6
+    },
+    {
+      "id": "202058",
+      "name": "Thiago Agustin Tirante",
+      "rank": 64,
+      "prevRank": 57,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 64.8,
+      "legendScore": 18.1,
+      "age": 25,
+      "surface": {
+        "hard": 0.429,
+        "clay": 0.609,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 43,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 65.6
     },
     {
       "id": "144719",
       "name": "Jaume Munar",
       "rank": 43,
-      "prevRank": 44,
+      "prevRank": 43,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -1461,9 +1495,9 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 43,
+      "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1471,50 +1505,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 64.4
     },
     {
-      "id": "209920",
-      "name": "Raphael Collignon",
-      "rank": 37,
-      "prevRank": 42,
-      "country": "BEL",
-      "logo": "https://flagcdn.com/24x18/be.png",
-      "teamCode": "BEL",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "activeScore": 64.2,
-      "legendScore": 20.1,
-      "age": 24,
-      "surface": {
-        "hard": 0.5,
-        "clay": 0.4,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 44,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 63.6
-    },
-    {
       "id": "208363",
       "name": "Mariano Navone",
-      "rank": 47,
-      "prevRank": 48,
+      "rank": 44,
+      "prevRank": 47,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
       "primary": "#74ACDF",
       "secondary": "#FFFFFF",
-      "activeScore": 64.1,
+      "activeScore": 64.4,
       "legendScore": 16.8,
       "age": 25,
       "surface": {
@@ -1531,160 +1531,58 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 45,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 64.0
+      "prevActiveScore": 64.1
     },
     {
-      "id": "134868",
-      "name": "Tallon Griekspoor",
-      "rank": 66,
-      "prevRank": 57,
-      "country": "NED",
-      "logo": "https://flagcdn.com/24x18/nl.png",
-      "teamCode": "NED",
-      "primary": "#AE1C28",
+      "id": "209920",
+      "name": "Raphael Collignon",
+      "rank": 38,
+      "prevRank": 37,
+      "country": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "teamCode": "BEL",
+      "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 63.2,
-      "legendScore": 21.2,
-      "age": 30,
-      "surface": {
-        "hard": 0.512,
-        "clay": 0.48,
-        "grass": 0.8
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 7
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 46,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 64.2
-    },
-    {
-      "id": "209098",
-      "name": "Hamad Medjedovic",
-      "rank": 72,
-      "prevRank": 69,
-      "country": "SRB",
-      "logo": "https://flagcdn.com/24x18/rs.png",
-      "teamCode": "SRB",
-      "primary": "#C6363C",
-      "secondary": "#FFFFFF",
-      "activeScore": 63.1,
-      "legendScore": 14.1,
-      "age": 23,
+      "activeScore": 64.1,
+      "legendScore": 20.1,
+      "age": 24,
       "surface": {
         "hard": 0.5,
-        "clay": 0.556,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 47,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 63.4
-    },
-    {
-      "id": "210084",
-      "name": "Jakub Mensik",
-      "rank": 18,
-      "prevRank": 19,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 62.9,
-      "legendScore": 0.0,
-      "age": 20,
-      "surface": {
-        "hard": null,
-        "clay": null,
+        "clay": 0.4,
         "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 48,
+      "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 62.8
-    },
-    {
-      "id": "128034",
-      "name": "Hubert Hurkacz",
-      "rank": 70,
-      "prevRank": 68,
-      "country": "POL",
-      "logo": "https://flagcdn.com/24x18/pl.png",
-      "teamCode": "POL",
-      "primary": "#DC143C",
-      "secondary": "#FFFFFF",
-      "activeScore": 62.9,
-      "legendScore": 33.6,
-      "age": 29,
-      "surface": {
-        "hard": 0.462,
-        "clay": 0.579,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 9,
-        "weeks_no1": 0,
-        "top10_wins": 21
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 49,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 63.2
+      "prevActiveScore": 64.2
     },
     {
       "id": "105870",
       "name": "Yannick Hanfmann",
-      "rank": 52,
-      "prevRank": 51,
+      "rank": 45,
+      "prevRank": 52,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 62.5,
+      "activeScore": 63.3,
       "legendScore": 6.2,
       "age": 34,
       "surface": {
@@ -1699,60 +1597,162 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 50,
+      "prevListRank": 47,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 62.7
+      "prevActiveScore": 62.5
     },
     {
-      "id": "122298",
-      "name": "Botic Van De Zandschulp",
-      "rank": 55,
-      "prevRank": 55,
+      "id": "134868",
+      "name": "Tallon Griekspoor",
+      "rank": 67,
+      "prevRank": 66,
       "country": "NED",
       "logo": "https://flagcdn.com/24x18/nl.png",
       "teamCode": "NED",
       "primary": "#AE1C28",
       "secondary": "#FFFFFF",
-      "activeScore": 62.2,
-      "legendScore": 21.4,
+      "activeScore": 63.1,
+      "legendScore": 21.2,
       "age": 30,
       "surface": {
-        "hard": 0.457,
-        "clay": 0.524,
+        "hard": 0.512,
+        "clay": 0.48,
+        "grass": 0.8
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 7
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 48,
+      "tournamentStatus": {
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 63.2
+    },
+    {
+      "id": "210084",
+      "name": "Jakub Mensik",
+      "rank": 17,
+      "prevRank": 18,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 63.0,
+      "legendScore": 0.0,
+      "age": 20,
+      "surface": {
+        "hard": null,
+        "clay": null,
         "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 7
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 49,
+      "tournamentStatus": {
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 62.9
+    },
+    {
+      "id": "209098",
+      "name": "Hamad Medjedovic",
+      "rank": 73,
+      "prevRank": 72,
+      "country": "SRB",
+      "logo": "https://flagcdn.com/24x18/rs.png",
+      "teamCode": "SRB",
+      "primary": "#C6363C",
+      "secondary": "#FFFFFF",
+      "activeScore": 62.9,
+      "legendScore": 14.1,
+      "age": 23,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.556,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 50,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 63.1
+    },
+    {
+      "id": "128034",
+      "name": "Hubert Hurkacz",
+      "rank": 71,
+      "prevRank": 70,
+      "country": "POL",
+      "logo": "https://flagcdn.com/24x18/pl.png",
+      "teamCode": "POL",
+      "primary": "#DC143C",
+      "secondary": "#FFFFFF",
+      "activeScore": 62.8,
+      "legendScore": 33.6,
+      "age": 29,
+      "surface": {
+        "hard": 0.462,
+        "clay": 0.579,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 9,
+        "weeks_no1": 0,
+        "top10_wins": 21
       },
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 62.2
+      "prevActiveScore": 62.9
     },
     {
       "id": "209226",
       "name": "Adolfo Daniel Vallejo",
-      "rank": 63,
-      "prevRank": 71,
+      "rank": 65,
+      "prevRank": 63,
       "country": "PAR",
       "logo": "https://flagcdn.com/24x18/py.png",
       "teamCode": "PAR",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 62.2,
+      "activeScore": 62.0,
       "legendScore": 19.9,
       "age": 22,
       "surface": {
@@ -1769,92 +1769,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 61.3
-    },
-    {
-      "id": "200267",
-      "name": "Zizou Bergs",
-      "rank": 34,
-      "prevRank": 35,
-      "country": "BEL",
-      "logo": "https://flagcdn.com/24x18/be.png",
-      "teamCode": "BEL",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "activeScore": 62.1,
-      "legendScore": 10.2,
-      "age": 27,
-      "surface": {
-        "hard": 0.529,
-        "clay": 0.357,
-        "grass": 0.5
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 53,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 61.9
-    },
-    {
-      "id": "144895",
-      "name": "Corentin Moutet",
-      "rank": 40,
-      "prevRank": 40,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
-      "secondary": "#FFFFFF",
-      "activeScore": 62.1,
-      "legendScore": 19.2,
-      "age": 27,
-      "surface": {
-        "hard": 0.537,
-        "clay": 0.364,
-        "grass": 0.636
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 54,
-      "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 62.1
+      "prevActiveScore": 62.2
     },
     {
       "id": "132686",
       "name": "Nuno Borges",
-      "rank": 48,
-      "prevRank": 52,
+      "rank": 49,
+      "prevRank": 48,
       "country": "POR",
       "logo": "https://flagcdn.com/24x18/pt.png",
       "teamCode": "POR",
       "primary": "#006600",
       "secondary": "#FFFFFF",
-      "activeScore": 62.0,
+      "activeScore": 61.9,
       "legendScore": 22.1,
       "age": 29,
       "surface": {
@@ -1869,54 +1801,88 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 55,
+      "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 62.0
+    },
+    {
+      "id": "200267",
+      "name": "Zizou Bergs",
+      "rank": 36,
+      "prevRank": 34,
+      "country": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "teamCode": "BEL",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 61.8,
+      "legendScore": 10.2,
+      "age": 27,
+      "surface": {
+        "hard": 0.529,
+        "clay": 0.357,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 54,
+      "tournamentStatus": {
+        "tournament": "Mubadala DC Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 61.5
+      "prevActiveScore": 62.1
     },
     {
-      "id": "209414",
-      "name": "Luca Van Assche",
-      "rank": 78,
-      "prevRank": 86,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
+      "id": "122298",
+      "name": "Botic Van De Zandschulp",
+      "rank": 69,
+      "prevRank": 55,
+      "country": "NED",
+      "logo": "https://flagcdn.com/24x18/nl.png",
+      "teamCode": "NED",
+      "primary": "#AE1C28",
       "secondary": "#FFFFFF",
-      "activeScore": 61.6,
-      "legendScore": 13.2,
-      "age": 22,
+      "activeScore": 60.6,
+      "legendScore": 21.4,
+      "age": 30,
       "surface": {
-        "hard": null,
-        "clay": 0.6,
+        "hard": 0.457,
+        "clay": 0.524,
         "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 7
       },
       "leyendaScore": 0.0,
-      "prevListRank": 56,
+      "prevListRank": 55,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
-        "state": "alive",
-        "round": "F",
-        "reason": ""
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 60.7
+      "prevActiveScore": 62.2
     },
     {
       "id": "207678",
       "name": "Juan Manuel Cerundolo",
       "rank": 50,
-      "prevRank": 45,
+      "prevRank": 50,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
@@ -1937,26 +1903,26 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 57,
+      "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 61.1
+      "prevActiveScore": 60.5
     },
     {
       "id": "206681",
       "name": "Fabian Marozsan",
-      "rank": 54,
+      "rank": 55,
       "prevRank": 54,
       "country": "HUN",
       "logo": "https://flagcdn.com/24x18/hu.png",
       "teamCode": "HUN",
       "primary": "#477050",
       "secondary": "#FFFFFF",
-      "activeScore": 60.3,
+      "activeScore": 60.1,
       "legendScore": 19.9,
       "age": 26,
       "surface": {
@@ -1971,9 +1937,9 @@ window.TENNIS_DATA = {
         "top10_wins": 6
       },
       "leyendaScore": 0.0,
-      "prevListRank": 58,
+      "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1981,84 +1947,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 60.3
     },
     {
-      "id": "200240",
-      "name": "Vit Kopriva",
-      "rank": 68,
-      "prevRank": 64,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 59.7,
-      "legendScore": 12.1,
-      "age": 29,
-      "surface": {
-        "hard": 0.364,
-        "clay": 0.571,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 59,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 60.1
-    },
-    {
-      "id": "209279",
-      "name": "Terence Atmane",
-      "rank": 49,
-      "prevRank": 50,
+      "id": "144895",
+      "name": "Corentin Moutet",
+      "rank": 57,
+      "prevRank": 40,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 59.5,
-      "legendScore": 0.2,
-      "age": 24,
+      "activeScore": 60.1,
+      "legendScore": 19.2,
+      "age": 27,
       "surface": {
-        "hard": 0.462,
-        "clay": 0.357,
-        "grass": null
+        "hard": 0.537,
+        "clay": 0.364,
+        "grass": 0.636
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 3
+        "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 60,
+      "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 59.4
+      "prevActiveScore": 62.1
     },
     {
       "id": "202104",
       "name": "Sebastian Baez",
-      "rank": 56,
+      "rank": 53,
       "prevRank": 56,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
       "primary": "#74ACDF",
       "secondary": "#FFFFFF",
-      "activeScore": 59.3,
+      "activeScore": 59.7,
       "legendScore": 20.1,
       "age": 25,
       "surface": {
@@ -2073,9 +2005,9 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 61,
+      "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2083,16 +2015,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 59.3
     },
     {
+      "id": "200240",
+      "name": "Vit Kopriva",
+      "rank": 70,
+      "prevRank": 68,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.5,
+      "legendScore": 12.1,
+      "age": 29,
+      "surface": {
+        "hard": 0.364,
+        "clay": 0.571,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 60,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 59.7
+    },
+    {
       "id": "208882",
       "name": "Roman Andres Burruchaga",
-      "rank": 60,
-      "prevRank": 67,
+      "rank": 58,
+      "prevRank": 60,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
       "primary": "#74ACDF",
       "secondary": "#FFFFFF",
-      "activeScore": 58.9,
+      "activeScore": 59.2,
       "legendScore": 13.2,
       "age": 24,
       "surface": {
@@ -2107,54 +2073,88 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 62,
+      "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 58.2
+      "prevActiveScore": 58.9
     },
     {
-      "id": "202385",
-      "name": "Jenson Brooksby",
-      "rank": 74,
-      "prevRank": 76,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
+      "id": "111460",
+      "name": "Quentin Halys",
+      "rank": 52,
+      "prevRank": 83,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 58.5,
-      "legendScore": 20.3,
-      "age": 25,
+      "activeScore": 58.9,
+      "legendScore": 13.7,
+      "age": 29,
       "surface": {
-        "hard": 0.438,
-        "clay": 0.5,
-        "grass": 0.625
+        "hard": 0.385,
+        "clay": 0.455,
+        "grass": 0.333
       },
       "stats": {
         "gs": 0,
-        "titles": 1,
+        "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 2
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 62,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 55.4
+    },
+    {
+      "id": "209279",
+      "name": "Terence Atmane",
+      "rank": 56,
+      "prevRank": 49,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.7,
+      "legendScore": 0.2,
+      "age": 24,
+      "surface": {
+        "hard": 0.462,
+        "clay": 0.357,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 3
       },
       "leyendaScore": 0.0,
       "prevListRank": 63,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo",
+        "tournament": "Mubadala DC Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 58.3
+      "prevActiveScore": 59.5
     },
     {
       "id": "208118",
       "name": "Eliot Spizzirri",
-      "rank": 107,
-      "prevRank": 105,
+      "rank": 109,
+      "prevRank": 107,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -2177,7 +2177,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2185,16 +2185,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 58.5
     },
     {
+      "id": "202385",
+      "name": "Jenson Brooksby",
+      "rank": 77,
+      "prevRank": 74,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.2,
+      "legendScore": 20.3,
+      "age": 25,
+      "surface": {
+        "hard": 0.438,
+        "clay": 0.5,
+        "grass": 0.625
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 65,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 58.5
+    },
+    {
       "id": "120770",
       "name": "Jose Merida",
-      "rank": 59,
-      "prevRank": 82,
+      "rank": 61,
+      "prevRank": 59,
       "country": "CHI",
       "logo": "https://flagcdn.com/24x18/cl.png",
       "teamCode": "CHI",
       "primary": "#D52B1E",
       "secondary": "#FFFFFF",
-      "activeScore": 58.3,
+      "activeScore": 58.1,
       "legendScore": 0.0,
       "age": 41,
       "surface": {
@@ -2209,53 +2243,19 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 65,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 55.7
-    },
-    {
-      "id": "105916",
-      "name": "Marton Fucsovics",
-      "rank": 76,
-      "prevRank": 78,
-      "country": "HUN",
-      "logo": "https://flagcdn.com/24x18/hu.png",
-      "teamCode": "HUN",
-      "primary": "#477050",
-      "secondary": "#FFFFFF",
-      "activeScore": 58.1,
-      "legendScore": 22.3,
-      "age": 34,
-      "surface": {
-        "hard": 0.52,
-        "clay": 0.429,
-        "grass": 0.667
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 4
-      },
-      "leyendaScore": 0.0,
       "prevListRank": 66,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 57.8
+      "prevActiveScore": 58.3
     },
     {
       "id": "211776",
       "name": "Martin Landaluce",
-      "rank": 62,
+      "rank": 63,
       "prevRank": 62,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
@@ -2287,44 +2287,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 57.8
     },
     {
-      "id": "105526",
-      "name": "Jan Lennard Struff",
-      "rank": 41,
-      "prevRank": 41,
-      "country": "GER",
-      "logo": "https://flagcdn.com/24x18/de.png",
-      "teamCode": "GER",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "activeScore": 57.6,
-      "legendScore": 19.0,
-      "age": 36,
-      "surface": {
-        "hard": 0.346,
-        "clay": 0.353,
-        "grass": 0.5
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 14
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 68,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 57.6
-    },
-    {
       "id": "105227",
       "name": "Marin Cilic",
       "rank": 86,
-      "prevRank": 88,
+      "prevRank": 86,
       "country": "CRO",
       "logo": "https://flagcdn.com/24x18/hr.png",
       "teamCode": "CRO",
@@ -2345,19 +2311,19 @@ window.TENNIS_DATA = {
         "top10_wins": 30
       },
       "leyendaScore": 3.4,
-      "prevListRank": 69,
+      "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 57.3
+      "prevActiveScore": 57.5
     },
     {
       "id": "126504",
       "name": "Andrea Pellegrino",
-      "rank": 138,
+      "rank": 137,
       "prevRank": 138,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
@@ -2379,9 +2345,9 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 70,
+      "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2389,10 +2355,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 57.5
     },
     {
+      "id": "105526",
+      "name": "Jan Lennard Struff",
+      "rank": 42,
+      "prevRank": 41,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.4,
+      "legendScore": 19.0,
+      "age": 36,
+      "surface": {
+        "hard": 0.346,
+        "clay": 0.353,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 14
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 70,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 57.6
+    },
+    {
       "id": "111794",
       "name": "Kamil Majchrzak",
-      "rank": 71,
-      "prevRank": 66,
+      "rank": 72,
+      "prevRank": 71,
       "country": "POL",
       "logo": "https://flagcdn.com/24x18/pl.png",
       "teamCode": "POL",
@@ -2420,12 +2420,12 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 58.0
+      "prevActiveScore": 57.4
     },
     {
       "id": "200059",
       "name": "Yibing Wu",
-      "rank": 106,
+      "rank": 117,
       "prevRank": 106,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
@@ -2449,7 +2449,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2459,14 +2459,14 @@ window.TENNIS_DATA = {
     {
       "id": "133430",
       "name": "Denis Shapovalov",
-      "rank": 67,
-      "prevRank": 39,
+      "rank": 68,
+      "prevRank": 67,
       "country": "CAN",
       "logo": "https://flagcdn.com/24x18/ca.png",
       "teamCode": "CAN",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 57.3,
+      "activeScore": 57.1,
       "legendScore": 26.9,
       "age": 27,
       "surface": {
@@ -2488,53 +2488,53 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 60.4
+      "prevActiveScore": 57.3
     },
     {
-      "id": "200116",
-      "name": "Camilo Ugo Carabelli",
-      "rank": 69,
-      "prevRank": 58,
-      "country": "ARG",
-      "logo": "https://flagcdn.com/24x18/ar.png",
-      "teamCode": "ARG",
-      "primary": "#74ACDF",
+      "id": "105916",
+      "name": "Marton Fucsovics",
+      "rank": 84,
+      "prevRank": 76,
+      "country": "HUN",
+      "logo": "https://flagcdn.com/24x18/hu.png",
+      "teamCode": "HUN",
+      "primary": "#477050",
       "secondary": "#FFFFFF",
-      "activeScore": 57.0,
-      "legendScore": 7.9,
-      "age": 27,
+      "activeScore": 57.1,
+      "legendScore": 22.3,
+      "age": 34,
       "surface": {
-        "hard": 0.304,
-        "clay": 0.545,
-        "grass": null
+        "hard": 0.52,
+        "clay": 0.429,
+        "grass": 0.667
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 3,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 4
       },
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 58.2
+      "prevActiveScore": 58.1
     },
     {
       "id": "200175",
       "name": "Miomir Kecmanovic",
-      "rank": 58,
-      "prevRank": 59,
+      "rank": 60,
+      "prevRank": 58,
       "country": "SRB",
       "logo": "https://flagcdn.com/24x18/rs.png",
       "teamCode": "SRB",
       "primary": "#C6363C",
       "secondary": "#FFFFFF",
-      "activeScore": 56.8,
+      "activeScore": 56.6,
       "legendScore": 22.1,
       "age": 26,
       "surface": {
@@ -2551,18 +2551,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 56.6
+      "prevActiveScore": 56.8
     },
     {
       "id": "208169",
       "name": "Titouan Droguet",
-      "rank": 114,
-      "prevRank": 119,
+      "rank": 119,
+      "prevRank": 114,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -2585,24 +2585,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 76,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 56.6
     },
     {
       "id": "105807",
       "name": "Pablo Carreno Busta",
-      "rank": 65,
+      "rank": 66,
       "prevRank": 65,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
       "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "activeScore": 56.5,
+      "activeScore": 56.3,
       "legendScore": 29.8,
       "age": 35,
       "surface": {
@@ -2619,24 +2619,58 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 56.5
     },
     {
+      "id": "200116",
+      "name": "Camilo Ugo Carabelli",
+      "rank": 75,
+      "prevRank": 69,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.2,
+      "legendScore": 7.9,
+      "age": 27,
+      "surface": {
+        "hard": 0.304,
+        "clay": 0.545,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 78,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 57.0
+    },
+    {
       "id": "208260",
       "name": "Zachary Svajda",
-      "rank": 73,
-      "prevRank": 72,
+      "rank": 76,
+      "prevRank": 73,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 56.2,
+      "activeScore": 55.8,
       "legendScore": 16.6,
       "age": 23,
       "surface": {
@@ -2651,26 +2685,96 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 78,
+      "prevListRank": 79,
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 56.3
+      "prevActiveScore": 56.2
+    },
+    {
+      "id": "200624",
+      "name": "Sebastian Korda",
+      "rank": 59,
+      "prevRank": 64,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.5,
+      "legendScore": 25.6,
+      "age": 26,
+      "surface": {
+        "hard": 0.604,
+        "clay": 0.5,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 10
+      },
+      "inactiveWeeks": 10,
+      "inactivePenalty": 13.4,
+      "leyendaScore": 0.0,
+      "prevListRank": 80,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 54.9
+    },
+    {
+      "id": "210262",
+      "name": "Jaime Faria",
+      "rank": 79,
+      "prevRank": 88,
+      "country": "POR",
+      "logo": "https://flagcdn.com/24x18/pt.png",
+      "teamCode": "POR",
+      "primary": "#006600",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.4,
+      "legendScore": 15.9,
+      "age": 22,
+      "surface": {
+        "hard": 0.4,
+        "clay": 0.5,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 81,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 54.3
     },
     {
       "id": "209113",
       "name": "Gabriel Diallo",
-      "rank": 92,
-      "prevRank": 93,
+      "rank": 99,
+      "prevRank": 92,
       "country": "CAN",
       "logo": "https://flagcdn.com/24x18/ca.png",
       "teamCode": "CAN",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 56.2,
+      "activeScore": 55.4,
       "legendScore": 17.9,
       "age": 24,
       "surface": {
@@ -2685,122 +2789,20 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 79,
+      "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mifel Tennis Open by Telcel Oppo",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 56.2
     },
     {
-      "id": "209976",
-      "name": "Dino Prizmic",
-      "rank": 91,
-      "prevRank": 84,
-      "country": "CRO",
-      "logo": "https://flagcdn.com/24x18/hr.png",
-      "teamCode": "CRO",
-      "primary": "#FF0000",
-      "secondary": "#FFFFFF",
-      "activeScore": 55.8,
-      "legendScore": 8.2,
-      "age": 20,
-      "surface": {
-        "hard": 0.333,
-        "clay": 0.588,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 80,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 56.6
-    },
-    {
-      "id": "132283",
-      "name": "Lorenzo Sonego",
-      "rank": 77,
-      "prevRank": 83,
-      "country": "ITA",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "teamCode": "ITA",
-      "primary": "#009246",
-      "secondary": "#FFFFFF",
-      "activeScore": 55.4,
-      "legendScore": 24.7,
-      "age": 31,
-      "surface": {
-        "hard": 0.488,
-        "clay": 0.231,
-        "grass": 0.556
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 4,
-        "weeks_no1": 0,
-        "top10_wins": 7
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 81,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 54.7
-    },
-    {
-      "id": "111460",
-      "name": "Quentin Halys",
-      "rank": 83,
-      "prevRank": 90,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
-      "secondary": "#FFFFFF",
-      "activeScore": 55.4,
-      "legendScore": 13.7,
-      "age": 29,
-      "surface": {
-        "hard": 0.385,
-        "clay": 0.455,
-        "grass": 0.333
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 82,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 54.6
-    },
-    {
       "id": "208010",
       "name": "Pablo Llamas Ruiz",
-      "rank": 117,
-      "prevRank": 116,
+      "rank": 129,
+      "prevRank": 117,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -2823,7 +2825,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 83,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2831,10 +2833,78 @@ window.TENNIS_DATA = {
       "prevActiveScore": 55.2
     },
     {
+      "id": "132283",
+      "name": "Lorenzo Sonego",
+      "rank": 80,
+      "prevRank": 77,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.1,
+      "legendScore": 24.7,
+      "age": 31,
+      "surface": {
+        "hard": 0.488,
+        "clay": 0.231,
+        "grass": 0.556
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 7
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 84,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 55.4
+    },
+    {
+      "id": "209976",
+      "name": "Dino Prizmic",
+      "rank": 98,
+      "prevRank": 91,
+      "country": "CRO",
+      "logo": "https://flagcdn.com/24x18/hr.png",
+      "teamCode": "CRO",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.0,
+      "legendScore": 8.2,
+      "age": 20,
+      "surface": {
+        "hard": 0.333,
+        "clay": 0.588,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 85,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 55.8
+    },
+    {
       "id": "210338",
       "name": "Arthur Gea",
-      "rank": 129,
-      "prevRank": 137,
+      "rank": 127,
+      "prevRank": 129,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -2855,82 +2925,12 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 84,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 55.0
-    },
-    {
-      "id": "200624",
-      "name": "Sebastian Korda",
-      "rank": 64,
-      "prevRank": 63,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 54.9,
-      "legendScore": 25.6,
-      "age": 26,
-      "surface": {
-        "hard": 0.604,
-        "clay": 0.5,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 10
-      },
-      "inactiveWeeks": 10,
-      "inactivePenalty": 13.4,
-      "leyendaScore": 0.0,
-      "prevListRank": 85,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 55.0
-    },
-    {
-      "id": "127157",
-      "name": "Daniel Altmaier",
-      "rank": 61,
-      "prevRank": 60,
-      "country": "GER",
-      "logo": "https://flagcdn.com/24x18/de.png",
-      "teamCode": "GER",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "activeScore": 54.8,
-      "legendScore": 17.9,
-      "age": 27,
-      "surface": {
-        "hard": 0.385,
-        "clay": 0.429,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 7
-      },
-      "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mifel Tennis Open by Telcel Oppo",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 55.0
     },
@@ -2938,7 +2938,7 @@ window.TENNIS_DATA = {
       "id": "106218",
       "name": "Marcos Giron",
       "rank": 85,
-      "prevRank": 87,
+      "prevRank": 85,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -2966,19 +2966,53 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 54.6
+      "prevActiveScore": 54.8
+    },
+    {
+      "id": "127157",
+      "name": "Daniel Altmaier",
+      "rank": 62,
+      "prevRank": 61,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.7,
+      "legendScore": 17.9,
+      "age": 27,
+      "surface": {
+        "hard": 0.385,
+        "clay": 0.429,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 7
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 88,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 54.8
     },
     {
       "id": "105173",
       "name": "Adrian Mannarino",
-      "rank": 46,
-      "prevRank": 49,
+      "rank": 47,
+      "prevRank": 46,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 54.6,
+      "activeScore": 54.5,
       "legendScore": 24.1,
       "age": 38,
       "surface": {
@@ -2993,26 +3027,26 @@ window.TENNIS_DATA = {
         "top10_wins": 11
       },
       "leyendaScore": 0.0,
-      "prevListRank": 88,
+      "prevListRank": 89,
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 54.3
+      "prevActiveScore": 54.6
     },
     {
       "id": "208029",
       "name": "Holger Rune",
-      "rank": 80,
-      "prevRank": 81,
+      "rank": 82,
+      "prevRank": 80,
       "country": "DEN",
       "logo": "https://flagcdn.com/24x18/dk.png",
       "teamCode": "DEN",
       "primary": "#C60C30",
       "secondary": "#FFFFFF",
-      "activeScore": 54.4,
+      "activeScore": 54.2,
       "legendScore": 29.6,
       "age": 23,
       "surface": {
@@ -3029,54 +3063,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 32,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 89,
+      "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 54.3
-    },
-    {
-      "id": "210262",
-      "name": "Jaime Faria",
-      "rank": 88,
-      "prevRank": 92,
-      "country": "POR",
-      "logo": "https://flagcdn.com/24x18/pt.png",
-      "teamCode": "POR",
-      "primary": "#006600",
-      "secondary": "#FFFFFF",
-      "activeScore": 54.3,
-      "legendScore": 15.9,
-      "age": 22,
-      "surface": {
-        "hard": 0.4,
-        "clay": 0.5,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 90,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
-      },
-      "prevActiveScore": 53.9
+      "prevActiveScore": 54.4
     },
     {
       "id": "200615",
       "name": "Alexei Popyrin",
-      "rank": 104,
-      "prevRank": 103,
+      "rank": 103,
+      "prevRank": 104,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -3099,46 +3099,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
       "prevActiveScore": 54.0
-    },
-    {
-      "id": "207686",
-      "name": "Alexander Shevchenko",
-      "rank": 84,
-      "prevRank": 100,
-      "country": "KAZ",
-      "logo": "https://flagcdn.com/24x18/kz.png",
-      "teamCode": "KAZ",
-      "primary": "#00AFCA",
-      "secondary": "#FFFFFF",
-      "activeScore": 53.9,
-      "legendScore": 11.5,
-      "age": 25,
-      "surface": {
-        "hard": 0.423,
-        "clay": 0.381,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 3
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 92,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 52.2
     },
     {
       "id": "209147",
@@ -3165,12 +3131,12 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 93,
+      "prevListRank": 92,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.9
     },
@@ -3178,7 +3144,7 @@ window.TENNIS_DATA = {
       "id": "206736",
       "name": "Benjamin O'Connell",
       "rank": 126,
-      "prevRank": 127,
+      "prevRank": 126,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -3199,9 +3165,9 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 94,
+      "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3209,44 +3175,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 53.7
     },
     {
-      "id": "207411",
-      "name": "Jesper De Jong",
-      "rank": 98,
-      "prevRank": 73,
-      "country": "NED",
-      "logo": "https://flagcdn.com/24x18/nl.png",
-      "teamCode": "NED",
-      "primary": "#AE1C28",
-      "secondary": "#FFFFFF",
-      "activeScore": 53.6,
-      "legendScore": 19.9,
-      "age": 26,
-      "surface": {
-        "hard": 0.385,
-        "clay": 0.565,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 95,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 56.4
-    },
-    {
       "id": "126127",
       "name": "Benjamin Bonzi",
-      "rank": 103,
-      "prevRank": 102,
+      "rank": 101,
+      "prevRank": 103,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -3267,9 +3199,9 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 96,
+      "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3279,8 +3211,8 @@ window.TENNIS_DATA = {
     {
       "id": "208597",
       "name": "Chak Lam Coleman Wong",
-      "rank": 112,
-      "prevRank": 111,
+      "rank": 108,
+      "prevRank": 112,
       "country": "HKG",
       "logo": "",
       "teamCode": "HKG",
@@ -3301,7 +3233,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 97,
+      "prevListRank": 95,
       "tournamentStatus": {
         "tournament": "Mifel Tennis Open by Telcel Oppo",
         "state": "alive",
@@ -3313,8 +3245,8 @@ window.TENNIS_DATA = {
     {
       "id": "105882",
       "name": "Stefano Travaglia",
-      "rank": 143,
-      "prevRank": 150,
+      "rank": 142,
+      "prevRank": 143,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -3335,9 +3267,9 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 98,
+      "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3345,21 +3277,55 @@ window.TENNIS_DATA = {
       "prevActiveScore": 53.5
     },
     {
-      "id": "210319",
-      "name": "Ethan Quinn",
-      "rank": 45,
-      "prevRank": 47,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
+      "id": "207686",
+      "name": "Alexander Shevchenko",
+      "rank": 89,
+      "prevRank": 84,
+      "country": "KAZ",
+      "logo": "https://flagcdn.com/24x18/kz.png",
+      "teamCode": "KAZ",
+      "primary": "#00AFCA",
       "secondary": "#FFFFFF",
-      "activeScore": 53.1,
-      "legendScore": 18.1,
-      "age": 22,
+      "activeScore": 53.4,
+      "legendScore": 11.5,
+      "age": 25,
       "surface": {
-        "hard": 0.379,
-        "clay": 0.333,
+        "hard": 0.423,
+        "clay": 0.381,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 97,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 53.9
+    },
+    {
+      "id": "207411",
+      "name": "Jesper De Jong",
+      "rank": 106,
+      "prevRank": 98,
+      "country": "NED",
+      "logo": "https://flagcdn.com/24x18/nl.png",
+      "teamCode": "NED",
+      "primary": "#AE1C28",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.4,
+      "legendScore": 19.9,
+      "age": 26,
+      "surface": {
+        "hard": 0.385,
+        "clay": 0.565,
         "grass": null
       },
       "stats": {
@@ -3369,20 +3335,20 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 99,
+      "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 52.8
+      "prevActiveScore": 53.6
     },
     {
       "id": "124187",
       "name": "Reilly Opelka",
-      "rank": 132,
-      "prevRank": 131,
+      "rank": 135,
+      "prevRank": 132,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -3403,9 +3369,9 @@ window.TENNIS_DATA = {
         "top10_wins": 9
       },
       "leyendaScore": 0.0,
-      "prevListRank": 100,
+      "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3413,44 +3379,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 53.1
     },
     {
-      "id": "208233",
-      "name": "Mattia Bellucci",
-      "rank": 79,
-      "prevRank": 80,
-      "country": "ITA",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "teamCode": "ITA",
-      "primary": "#009246",
+      "id": "210319",
+      "name": "Ethan Quinn",
+      "rank": 46,
+      "prevRank": 45,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
       "secondary": "#FFFFFF",
       "activeScore": 53.0,
-      "legendScore": 12.4,
-      "age": 25,
+      "legendScore": 18.1,
+      "age": 22,
       "surface": {
-        "hard": 0.36,
-        "clay": 0.385,
-        "grass": 0.5
+        "hard": 0.379,
+        "clay": 0.333,
+        "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 1
+        "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 101,
+      "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 52.8
+      "prevActiveScore": 53.1
     },
     {
       "id": "207494",
       "name": "Dalibor Svrcina",
-      "rank": 115,
-      "prevRank": 114,
+      "rank": 116,
+      "prevRank": 115,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -3471,7 +3437,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 102,
+      "prevListRank": 101,
       "tournamentStatus": {
         "tournament": "Mifel Tennis Open by Telcel Oppo",
         "state": "alive",
@@ -3481,10 +3447,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 53.0
     },
     {
+      "id": "208233",
+      "name": "Mattia Bellucci",
+      "rank": 81,
+      "prevRank": 79,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.7,
+      "legendScore": 12.4,
+      "age": 25,
+      "surface": {
+        "hard": 0.36,
+        "clay": 0.385,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 102,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 53.0
+    },
+    {
       "id": "105777",
       "name": "Grigor Dimitrov",
-      "rank": 142,
-      "prevRank": 146,
+      "rank": 140,
+      "prevRank": 142,
       "country": "BUL",
       "logo": "https://flagcdn.com/24x18/bg.png",
       "teamCode": "BUL",
@@ -3517,10 +3517,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 52.2
     },
     {
+      "id": "105477",
+      "name": "Marco Trungelliti",
+      "rank": 91,
+      "prevRank": 95,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.1,
+      "legendScore": 15.0,
+      "age": 36,
+      "surface": {
+        "hard": null,
+        "clay": 0.417,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 104,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 51.7
+    },
+    {
       "id": "124186",
       "name": "Alexandre Muller",
-      "rank": 133,
-      "prevRank": 132,
+      "rank": 132,
+      "prevRank": 133,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -3541,9 +3575,9 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 104,
+      "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3551,44 +3585,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 51.8
     },
     {
-      "id": "105477",
-      "name": "Marco Trungelliti",
-      "rank": 95,
-      "prevRank": 99,
-      "country": "ARG",
-      "logo": "https://flagcdn.com/24x18/ar.png",
-      "teamCode": "ARG",
-      "primary": "#74ACDF",
-      "secondary": "#FFFFFF",
-      "activeScore": 51.7,
-      "legendScore": 15.0,
-      "age": 36,
-      "surface": {
-        "hard": null,
-        "clay": 0.417,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 105,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 51.2
-    },
-    {
       "id": "210116",
       "name": "Michael Zheng",
-      "rank": 120,
-      "prevRank": 121,
+      "rank": 118,
+      "prevRank": 120,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -3621,14 +3621,14 @@ window.TENNIS_DATA = {
     {
       "id": "206499",
       "name": "Aleksandar Kovacevic",
-      "rank": 93,
-      "prevRank": 70,
+      "rank": 95,
+      "prevRank": 93,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 51.5,
+      "activeScore": 51.3,
       "legendScore": 4.0,
       "age": 27,
       "surface": {
@@ -3650,7 +3650,7 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 54.2
+      "prevActiveScore": 51.5
     },
     {
       "id": "208353",
@@ -3679,7 +3679,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3689,8 +3689,8 @@ window.TENNIS_DATA = {
     {
       "id": "105932",
       "name": "Nikoloz Basilashvili",
-      "rank": 130,
-      "prevRank": 135,
+      "rank": 133,
+      "prevRank": 130,
       "country": "GEO",
       "logo": "https://flagcdn.com/24x18/ge.png",
       "teamCode": "GEO",
@@ -3713,10 +3713,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 109,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.6
     },
@@ -3724,7 +3724,7 @@ window.TENNIS_DATA = {
       "id": "210460",
       "name": "Nishesh Basavareddy",
       "rank": 146,
-      "prevRank": 142,
+      "prevRank": 146,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -3747,7 +3747,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3757,8 +3757,8 @@ window.TENNIS_DATA = {
     {
       "id": "102093",
       "name": "Martin Damm",
-      "rank": 105,
-      "prevRank": 104,
+      "rank": 104,
+      "prevRank": 105,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -3791,10 +3791,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 50.3
     },
     {
+      "id": "208659",
+      "name": "Giovanni Mpetshi Perricard",
+      "rank": 87,
+      "prevRank": 89,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.2,
+      "legendScore": 13.2,
+      "age": 23,
+      "surface": {
+        "hard": 0.435,
+        "clay": 0.25,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 112,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 50.0
+    },
+    {
       "id": "207681",
       "name": "Francisco Comesana",
-      "rank": 101,
-      "prevRank": 94,
+      "rank": 100,
+      "prevRank": 101,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
@@ -3815,60 +3849,26 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 112,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 50.9
-    },
-    {
-      "id": "208659",
-      "name": "Giovanni Mpetshi Perricard",
-      "rank": 89,
-      "prevRank": 89,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
-      "secondary": "#FFFFFF",
-      "activeScore": 50.0,
-      "legendScore": 13.2,
-      "age": 23,
-      "surface": {
-        "hard": 0.435,
-        "clay": 0.25,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
       "prevListRank": 113,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 50.0
+      "prevActiveScore": 50.2
     },
     {
       "id": "207182",
       "name": "Emilio Nava",
-      "rank": 100,
-      "prevRank": 91,
+      "rank": 97,
+      "prevRank": 100,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 49.8,
+      "activeScore": 50.1,
       "legendScore": 11.9,
       "age": 24,
       "surface": {
@@ -3885,58 +3885,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 50.8
-    },
-    {
-      "id": "106000",
-      "name": "Damir Dzumhur",
-      "rank": 87,
-      "prevRank": 108,
-      "country": "BIH",
-      "logo": "https://flagcdn.com/24x18/ba.png",
-      "teamCode": "BIH",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "activeScore": 49.5,
-      "legendScore": 17.7,
-      "age": 34,
-      "surface": {
-        "hard": 0.25,
-        "clay": 0.514,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 4
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 115,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 48.0
+      "prevActiveScore": 49.8
     },
     {
       "id": "126128",
       "name": "Roman Safiullin",
-      "rank": 94,
-      "prevRank": 96,
+      "rank": 92,
+      "prevRank": 94,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 49.4,
+      "activeScore": 49.6,
       "legendScore": 17.2,
       "age": 28,
       "surface": {
@@ -3951,20 +3917,20 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 116,
+      "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 49.2
+      "prevActiveScore": 49.4
     },
     {
       "id": "207680",
       "name": "Facundo Diaz Acosta",
-      "rank": 108,
-      "prevRank": 110,
+      "rank": 107,
+      "prevRank": 108,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
@@ -3985,9 +3951,9 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 117,
+      "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3995,16 +3961,84 @@ window.TENNIS_DATA = {
       "prevActiveScore": 49.2
     },
     {
+      "id": "208014",
+      "name": "Rinky Hijikata",
+      "rank": 93,
+      "prevRank": 96,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.8,
+      "legendScore": 14.1,
+      "age": 25,
+      "surface": {
+        "hard": 0.433,
+        "clay": 0.125,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 117,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 48.4
+    },
+    {
+      "id": "200443",
+      "name": "Adam Walton",
+      "rank": 96,
+      "prevRank": 99,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.7,
+      "legendScore": 11.5,
+      "age": 27,
+      "surface": {
+        "hard": 0.378,
+        "clay": 0.444,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 118,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 48.4
+    },
+    {
       "id": "209259",
       "name": "Arthur Fery",
-      "rank": 36,
+      "rank": 37,
       "prevRank": 36,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
       "primary": "#012169",
       "secondary": "#FFFFFF",
-      "activeScore": 48.4,
+      "activeScore": 48.3,
       "legendScore": 13.2,
       "age": 24,
       "surface": {
@@ -4021,9 +4055,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 10,
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
-      "prevListRank": 118,
+      "prevListRank": 119,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4031,78 +4065,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 48.4
     },
     {
-      "id": "208014",
-      "name": "Rinky Hijikata",
-      "rank": 96,
-      "prevRank": 97,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
+      "id": "106000",
+      "name": "Damir Dzumhur",
+      "rank": 102,
+      "prevRank": 87,
+      "country": "BIH",
+      "logo": "https://flagcdn.com/24x18/ba.png",
+      "teamCode": "BIH",
+      "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 48.4,
-      "legendScore": 14.1,
-      "age": 25,
+      "activeScore": 48.0,
+      "legendScore": 17.7,
+      "age": 34,
       "surface": {
-        "hard": 0.433,
-        "clay": 0.125,
+        "hard": 0.25,
+        "clay": 0.514,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 3,
         "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 119,
-      "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 48.3
-    },
-    {
-      "id": "200443",
-      "name": "Adam Walton",
-      "rank": 99,
-      "prevRank": 79,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
-      "secondary": "#FFFFFF",
-      "activeScore": 48.4,
-      "legendScore": 11.5,
-      "age": 27,
-      "surface": {
-        "hard": 0.378,
-        "clay": 0.444,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
+        "top10_wins": 4
       },
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 50.6
+      "prevActiveScore": 49.5
     },
     {
       "id": "207985",
       "name": "Jacob Fearnley",
-      "rank": 121,
-      "prevRank": 123,
+      "rank": 110,
+      "prevRank": 121,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
@@ -4125,7 +4125,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4135,8 +4135,8 @@ window.TENNIS_DATA = {
     {
       "id": "208021",
       "name": "Kyrian Jacquet",
-      "rank": 134,
-      "prevRank": 130,
+      "rank": 120,
+      "prevRank": 134,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -4159,18 +4159,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.9
     },
     {
       "id": "200514",
       "name": "Jurij Rodionov",
-      "rank": 145,
-      "prevRank": 143,
+      "rank": 136,
+      "prevRank": 145,
       "country": "AUT",
       "logo": "https://flagcdn.com/24x18/at.png",
       "teamCode": "AUT",
@@ -4193,7 +4193,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4203,8 +4203,8 @@ window.TENNIS_DATA = {
     {
       "id": "210389",
       "name": "Toby Samuel",
-      "rank": 127,
-      "prevRank": 129,
+      "rank": 112,
+      "prevRank": 127,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
@@ -4227,7 +4227,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4237,14 +4237,14 @@ window.TENNIS_DATA = {
     {
       "id": "105902",
       "name": "James Duckworth",
-      "rank": 82,
-      "prevRank": 74,
+      "rank": 83,
+      "prevRank": 82,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
       "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 47.4,
+      "activeScore": 47.3,
       "legendScore": 9.7,
       "age": 34,
       "surface": {
@@ -4261,17 +4261,17 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mifel Tennis Open by Telcel Oppo",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
-      "prevActiveScore": 48.3
+      "prevActiveScore": 47.4
     },
     {
       "id": "106426",
       "name": "Cristian Garin",
-      "rank": 141,
+      "rank": 139,
       "prevRank": 141,
       "country": "CHI",
       "logo": "https://flagcdn.com/24x18/cl.png",
@@ -4295,7 +4295,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4305,8 +4305,8 @@ window.TENNIS_DATA = {
     {
       "id": "149282",
       "name": "Nicolai Budkov Kjaer",
-      "rank": 131,
-      "prevRank": 118,
+      "rank": 144,
+      "prevRank": 131,
       "country": "NOR",
       "logo": "https://flagcdn.com/24x18/no.png",
       "teamCode": "NOR",
@@ -4331,7 +4331,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4339,44 +4339,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 46.5
     },
     {
-      "id": "208316",
-      "name": "Valentin Royer",
-      "rank": 75,
-      "prevRank": 77,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
-      "secondary": "#FFFFFF",
-      "activeScore": 45.8,
-      "legendScore": 15.0,
-      "age": 25,
-      "surface": {
-        "hard": 0.357,
-        "clay": 0.167,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 128,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 45.6
-    },
-    {
       "id": "126846",
       "name": "Aleksandar Vukic",
-      "rank": 102,
-      "prevRank": 113,
+      "rank": 105,
+      "prevRank": 102,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -4397,7 +4363,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 129,
+      "prevListRank": 128,
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
@@ -4407,10 +4373,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 45.7
     },
     {
+      "id": "208316",
+      "name": "Valentin Royer",
+      "rank": 78,
+      "prevRank": 75,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 45.4,
+      "legendScore": 15.0,
+      "age": 25,
+      "surface": {
+        "hard": 0.357,
+        "clay": 0.167,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 129,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 45.8
+    },
+    {
       "id": "210012",
       "name": "Henrique Rocha",
       "rank": 123,
-      "prevRank": 124,
+      "prevRank": 123,
       "country": "POR",
       "logo": "https://flagcdn.com/24x18/pt.png",
       "teamCode": "POR",
@@ -4435,18 +4435,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 44.8
     },
     {
       "id": "104527",
       "name": "Stan Wawrinka",
-      "rank": 118,
-      "prevRank": 117,
+      "rank": 125,
+      "prevRank": 118,
       "country": "SUI",
       "logo": "https://flagcdn.com/24x18/ch.png",
       "teamCode": "SUI",
@@ -4469,43 +4469,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 10.3,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 44.5
-    },
-    {
-      "id": "209070",
-      "name": "Arthur Cazaux",
-      "rank": 111,
-      "prevRank": 98,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
-      "secondary": "#FFFFFF",
-      "activeScore": 44.3,
-      "legendScore": 16.6,
-      "age": 23,
-      "surface": {
-        "hard": 0.429,
-        "clay": 0.636,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "inactiveWeeks": 10,
-      "inactivePenalty": 13.4,
-      "leyendaScore": 0.0,
-      "prevListRank": 132,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4515,8 +4479,8 @@ window.TENNIS_DATA = {
     {
       "id": "209857",
       "name": "Leandro Riedi",
-      "rank": 135,
-      "prevRank": 134,
+      "rank": 130,
+      "prevRank": 135,
       "country": "SUI",
       "logo": "https://flagcdn.com/24x18/ch.png",
       "teamCode": "SUI",
@@ -4539,9 +4503,45 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 39,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
+      "prevListRank": 132,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 44.3
+    },
+    {
+      "id": "209070",
+      "name": "Arthur Cazaux",
+      "rank": 141,
+      "prevRank": 111,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 44.3,
+      "legendScore": 16.6,
+      "age": 23,
+      "surface": {
+        "hard": 0.429,
+        "clay": 0.636,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 10,
+      "inactivePenalty": 13.4,
+      "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4552,7 +4552,7 @@ window.TENNIS_DATA = {
       "id": "124116",
       "name": "Sebastian Ofner",
       "rank": 124,
-      "prevRank": 125,
+      "prevRank": 124,
       "country": "AUT",
       "logo": "https://flagcdn.com/24x18/at.png",
       "teamCode": "AUT",
@@ -4575,7 +4575,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4585,14 +4585,14 @@ window.TENNIS_DATA = {
     {
       "id": "200384",
       "name": "Hugo Gaston",
-      "rank": 109,
-      "prevRank": 107,
+      "rank": 90,
+      "prevRank": 109,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 42.6,
+      "activeScore": 43.8,
       "legendScore": 15.2,
       "age": 25,
       "surface": {
@@ -4609,17 +4609,17 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open",
-        "state": "alive",
-        "round": "Quarterfinal",
-        "reason": ""
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 42.6
     },
     {
       "id": "106198",
       "name": "Hugo Dellien",
-      "rank": 144,
+      "rank": 143,
       "prevRank": 144,
       "country": "BOL",
       "logo": "https://flagcdn.com/24x18/bo.png",
@@ -4643,7 +4643,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4654,7 +4654,7 @@ window.TENNIS_DATA = {
       "id": "200516",
       "name": "Patrick Kypson",
       "rank": 113,
-      "prevRank": 112,
+      "prevRank": 113,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -4677,43 +4677,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 40.6
-    },
-    {
-      "id": "208852",
-      "name": "Stefanos Sakellaridis",
-      "rank": 148,
-      "prevRank": 147,
-      "country": "GRE",
-      "logo": "https://flagcdn.com/24x18/gr.png",
-      "teamCode": "GRE",
-      "primary": "#0D5EAF",
-      "secondary": "#FFFFFF",
-      "activeScore": 40.6,
-      "legendScore": 0.0,
-      "age": 21,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 8,
-      "inactivePenalty": 10.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 138,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4723,8 +4687,8 @@ window.TENNIS_DATA = {
     {
       "id": "202261",
       "name": "Otto Virtanen",
-      "rank": 125,
-      "prevRank": 126,
+      "rank": 115,
+      "prevRank": 125,
       "country": "FIN",
       "logo": "https://flagcdn.com/24x18/fi.png",
       "teamCode": "FIN",
@@ -4747,9 +4711,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 139,
+      "prevListRank": 138,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4759,7 +4723,7 @@ window.TENNIS_DATA = {
     {
       "id": "111456",
       "name": "Mackenzie Mcdonald",
-      "rank": 140,
+      "rank": 145,
       "prevRank": 140,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
@@ -4783,9 +4747,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 140,
+      "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4793,52 +4757,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 39.1
     },
     {
-      "id": "210136",
-      "name": "Mark Lajal",
-      "rank": 150,
-      "prevRank": 159,
-      "country": "EST",
-      "logo": "https://flagcdn.com/24x18/ee.png",
-      "teamCode": "EST",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "activeScore": 38.4,
-      "legendScore": 0.0,
-      "age": 23,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 32,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 141,
-      "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 53.4
-    },
-    {
       "id": "123828",
       "name": "Jan Choinski",
-      "rank": 90,
-      "prevRank": 75,
+      "rank": 88,
+      "prevRank": 90,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
       "primary": "#012169",
       "secondary": "#FFFFFF",
-      "activeScore": 37.3,
+      "activeScore": 37.6,
       "legendScore": 9.9,
       "age": 30,
       "surface": {
@@ -4855,19 +4783,91 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 142,
+      "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 39.1
+      "prevActiveScore": 37.3
+    },
+    {
+      "id": "124079",
+      "name": "Pedro Martinez",
+      "rank": 148,
+      "prevRank": 159,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 37.2,
+      "legendScore": 17.0,
+      "age": 29,
+      "surface": {
+        "hard": 0.286,
+        "clay": 0.333,
+        "grass": 0.4
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 141,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 43.2
+    },
+    {
+      "id": "207608",
+      "name": "Timofey Skatov",
+      "rank": 150,
+      "prevRank": 163,
+      "country": "KAZ",
+      "logo": "https://flagcdn.com/24x18/kz.png",
+      "teamCode": "KAZ",
+      "primary": "#00AFCA",
+      "secondary": "#FFFFFF",
+      "activeScore": 36.9,
+      "legendScore": 0.0,
+      "age": 25,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 142,
+      "tournamentStatus": {
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 46.9
     },
     {
       "id": "208013",
       "name": "Dane Sweeny",
-      "rank": 122,
+      "rank": 121,
       "prevRank": 122,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
@@ -4893,7 +4893,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4903,8 +4903,8 @@ window.TENNIS_DATA = {
     {
       "id": "208361",
       "name": "Gustavo Heide",
-      "rank": 137,
-      "prevRank": 136,
+      "rank": 134,
+      "prevRank": 137,
       "country": "BRA",
       "logo": "https://flagcdn.com/24x18/br.png",
       "teamCode": "BRA",
@@ -4929,7 +4929,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4939,8 +4939,8 @@ window.TENNIS_DATA = {
     {
       "id": "200647",
       "name": "Sho Shimabukuro",
-      "rank": 97,
-      "prevRank": 95,
+      "rank": 94,
+      "prevRank": 97,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "teamCode": "JPN",
@@ -4975,8 +4975,8 @@ window.TENNIS_DATA = {
     {
       "id": "207352",
       "name": "Bu Yunchaokete",
-      "rank": 110,
-      "prevRank": 109,
+      "rank": 111,
+      "prevRank": 110,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
@@ -5001,7 +5001,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5011,8 +5011,8 @@ window.TENNIS_DATA = {
     {
       "id": "208278",
       "name": "Shintaro Mochizuki",
-      "rank": 116,
-      "prevRank": 115,
+      "rank": 114,
+      "prevRank": 116,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "teamCode": "JPN",
@@ -5037,7 +5037,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5047,8 +5047,8 @@ window.TENNIS_DATA = {
     {
       "id": "200436",
       "name": "Zsombor Piros",
-      "rank": 119,
-      "prevRank": 120,
+      "rank": 122,
+      "prevRank": 119,
       "country": "HUN",
       "logo": "https://flagcdn.com/24x18/hu.png",
       "teamCode": "HUN",
@@ -5073,7 +5073,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5083,8 +5083,8 @@ window.TENNIS_DATA = {
     {
       "id": "200711",
       "name": "Nicolas Mejia",
-      "rank": 136,
-      "prevRank": 133,
+      "rank": 131,
+      "prevRank": 136,
       "country": "COL",
       "logo": "https://flagcdn.com/24x18/co.png",
       "teamCode": "COL",
@@ -5109,7 +5109,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5119,7 +5119,7 @@ window.TENNIS_DATA = {
     {
       "id": "144642",
       "name": "Tomas Barrios Vera",
-      "rank": 139,
+      "rank": 138,
       "prevRank": 139,
       "country": "CHI",
       "logo": "https://flagcdn.com/24x18/cl.png",
@@ -5145,7 +5145,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5181,7 +5181,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 22.2,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5215,12 +5215,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 93.2
+      "prevActiveScore": 93.0
     },
     {
       "id": "259799",
@@ -5249,12 +5249,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 92.1
+      "prevActiveScore": 91.8
     },
     {
       "id": "221103",
@@ -5283,12 +5283,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 91.4
+      "prevActiveScore": 91.1
     },
     {
       "id": "216347",
@@ -5317,12 +5317,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 30.5,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 90.8
+      "prevActiveScore": 90.5
     },
     {
       "id": "216146",
@@ -5351,12 +5351,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 90.6
+      "prevActiveScore": 90.3
     },
     {
       "id": "202468",
@@ -5385,12 +5385,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 90.3
+      "prevActiveScore": 90.0
     },
     {
       "id": "202494",
@@ -5419,12 +5419,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 90.1
+      "prevActiveScore": 89.8
     },
     {
       "id": "214096",
@@ -5453,12 +5453,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 86.3
+      "prevActiveScore": 85.8
     },
     {
       "id": "216153",
@@ -5487,12 +5487,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 86.1
+      "prevActiveScore": 85.6
     },
     {
       "id": "201514",
@@ -5521,12 +5521,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 85.9
+      "prevActiveScore": 85.5
     },
     {
       "id": "239475",
@@ -5555,12 +5555,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 84.9
+      "prevActiveScore": 84.4
     },
     {
       "id": "202505",
@@ -5589,24 +5589,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 84.5
+      "prevActiveScore": 84.0
     },
     {
       "id": "201619",
       "name": "Madison Keys",
-      "rank": 23,
+      "rank": 22,
       "prevRank": 23,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 80.4,
+      "activeScore": 80.5,
       "legendScore": 61.7,
       "age": 31,
       "surface": {
@@ -5628,19 +5628,19 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 81.0
+      "prevActiveScore": 80.4
     },
     {
       "id": "216081",
       "name": "Maja Chwalinska",
-      "rank": 22,
+      "rank": 21,
       "prevRank": 22,
       "country": "POL",
       "logo": "https://flagcdn.com/24x18/pl.png",
       "teamCode": "POL",
       "primary": "#DC143C",
       "secondary": "#FFFFFF",
-      "activeScore": 80.2,
+      "activeScore": 80.4,
       "legendScore": 30.7,
       "age": 24,
       "surface": {
@@ -5657,12 +5657,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 80.8
+      "prevActiveScore": 80.2
     },
     {
       "id": "211768",
@@ -5691,24 +5691,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 14.8,
       "prevListRank": 16,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 80.4
+      "prevActiveScore": 79.7
     },
     {
       "id": "215713",
       "name": "Anastasia Potapova",
-      "rank": 28,
-      "prevRank": 27,
+      "rank": 27,
+      "prevRank": 28,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 79.4,
+      "activeScore": 79.5,
       "legendScore": 32.5,
       "age": 25,
       "surface": {
@@ -5730,7 +5730,7 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 80.1
+      "prevActiveScore": 79.4
     },
     {
       "id": "222328",
@@ -5759,12 +5759,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 79.2
+      "prevActiveScore": 78.5
     },
     {
       "id": "214939",
@@ -5798,19 +5798,19 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 76.9
+      "prevActiveScore": 76.2
     },
     {
       "id": "210722",
       "name": "Elise Mertens",
-      "rank": 24,
+      "rank": 23,
       "prevRank": 24,
       "country": "BEL",
       "logo": "https://flagcdn.com/24x18/be.png",
       "teamCode": "BEL",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 76.1,
+      "activeScore": 76.2,
       "legendScore": 39.3,
       "age": 30,
       "surface": {
@@ -5827,12 +5827,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 76.8
+      "prevActiveScore": 76.1
     },
     {
       "id": "260300",
@@ -5861,12 +5861,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 76.5
+      "prevActiveScore": 75.7
     },
     {
       "id": "223670",
@@ -5895,24 +5895,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 76.0
+      "prevActiveScore": 75.2
     },
     {
       "id": "201662",
       "name": "Karolina Pliskova",
-      "rank": 62,
-      "prevRank": 64,
+      "rank": 63,
+      "prevRank": 62,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 74.2,
+      "activeScore": 74.1,
       "legendScore": 67.2,
       "age": 34,
       "surface": {
@@ -5929,12 +5929,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 74.7
+      "prevActiveScore": 74.2
     },
     {
       "id": "211148",
@@ -5963,58 +5963,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 74.5
-    },
-    {
-      "id": "213631",
-      "name": "Marie Bouzkova",
-      "rank": 21,
-      "prevRank": 21,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 72.3,
-      "legendScore": 30.7,
-      "age": 28,
-      "surface": {
-        "hard": 0.548,
-        "clay": 0.654,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 11
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 25,
-      "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
-      },
-      "prevActiveScore": 73.1
+      "prevActiveScore": 73.6
     },
     {
       "id": "206252",
       "name": "Barbora Krejcikova",
-      "rank": 26,
-      "prevRank": 32,
+      "rank": 25,
+      "prevRank": 26,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 72.3,
+      "activeScore": 72.5,
       "legendScore": 51.5,
       "age": 30,
       "surface": {
@@ -6029,60 +5995,60 @@ window.TENNIS_DATA = {
         "top10_wins": 15
       },
       "leyendaScore": 7.4,
-      "prevListRank": 26,
+      "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
-        "state": "alive",
-        "round": "Quarterfinal",
-        "reason": ""
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 72.4
+      "prevActiveScore": 72.3
     },
     {
-      "id": "215613",
-      "name": "Emma Navarro",
-      "rank": 27,
-      "prevRank": 26,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
+      "id": "213631",
+      "name": "Marie Bouzkova",
+      "rank": 24,
+      "prevRank": 21,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 70.9,
-      "legendScore": 37.7,
-      "age": 25,
+      "activeScore": 71.9,
+      "legendScore": 30.7,
+      "age": 28,
       "surface": {
-        "hard": 0.488,
-        "clay": 0.6,
-        "grass": 0.636
+        "hard": 0.548,
+        "clay": 0.654,
+        "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 3,
         "weeks_no1": 0,
-        "top10_wins": 7
+        "top10_wins": 11
       },
       "leyendaScore": 0.0,
-      "prevListRank": 27,
+      "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 72.0
+      "prevActiveScore": 72.3
     },
     {
       "id": "211533",
       "name": "Jelena Ostapenko",
-      "rank": 31,
-      "prevRank": 29,
+      "rank": 29,
+      "prevRank": 31,
       "country": "LAT",
       "logo": "https://flagcdn.com/24x18/lv.png",
       "teamCode": "LAT",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 70.9,
+      "activeScore": 71.2,
       "legendScore": 52.1,
       "age": 29,
       "surface": {
@@ -6097,26 +6063,60 @@ window.TENNIS_DATA = {
         "top10_wins": 26
       },
       "leyendaScore": 3.7,
-      "prevListRank": 28,
+      "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 72.1
+      "prevActiveScore": 70.9
     },
     {
-      "id": "221024",
-      "name": "Hailey Baptiste",
-      "rank": 34,
-      "prevRank": 33,
+      "id": "215613",
+      "name": "Emma Navarro",
+      "rank": 26,
+      "prevRank": 27,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 69.6,
+      "activeScore": 71.1,
+      "legendScore": 37.7,
+      "age": 25,
+      "surface": {
+        "hard": 0.488,
+        "clay": 0.6,
+        "grass": 0.636
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 7
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 28,
+      "tournamentStatus": {
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 70.9
+    },
+    {
+      "id": "221024",
+      "name": "Hailey Baptiste",
+      "rank": 32,
+      "prevRank": 34,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 69.9,
       "legendScore": 31.6,
       "age": 24,
       "surface": {
@@ -6133,12 +6133,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 70.8
+      "prevActiveScore": 69.6
     },
     {
       "id": "206420",
@@ -6167,58 +6167,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 30,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 69.8
-    },
-    {
-      "id": "220367",
-      "name": "Leylah Fernandez",
-      "rank": 25,
-      "prevRank": 25,
-      "country": "CAN",
-      "logo": "https://flagcdn.com/24x18/ca.png",
-      "teamCode": "CAN",
-      "primary": "#FF0000",
-      "secondary": "#FFFFFF",
-      "activeScore": 68.2,
-      "legendScore": 35.0,
-      "age": 23,
-      "surface": {
-        "hard": 0.547,
-        "clay": 0.474,
-        "grass": 0.5
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 5,
-        "weeks_no1": 0,
-        "top10_wins": 7
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 31,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "The Memphis Classic",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 69.2
+      "prevActiveScore": 68.8
     },
     {
       "id": "223253",
       "name": "Alexandra Eala",
-      "rank": 29,
-      "prevRank": 28,
+      "rank": 28,
+      "prevRank": 29,
       "country": "PHI",
       "logo": "",
       "teamCode": "PHI",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 67.6,
+      "activeScore": 67.8,
       "legendScore": 11.3,
       "age": 21,
       "surface": {
@@ -6233,26 +6199,26 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 32,
+      "prevListRank": 31,
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 68.8
+      "prevActiveScore": 67.6
     },
     {
       "id": "211713",
       "name": "Jaqueline Cristian",
-      "rank": 41,
-      "prevRank": 36,
+      "rank": 39,
+      "prevRank": 41,
       "country": "ROU",
       "logo": "https://flagcdn.com/24x18/ro.png",
       "teamCode": "ROU",
       "primary": "#002B7F",
       "secondary": "#FFFFFF",
-      "activeScore": 67.5,
+      "activeScore": 67.8,
       "legendScore": 22.4,
       "age": 28,
       "surface": {
@@ -6267,26 +6233,60 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 33,
+      "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 69.2
+      "prevActiveScore": 67.5
+    },
+    {
+      "id": "220367",
+      "name": "Leylah Fernandez",
+      "rank": 34,
+      "prevRank": 25,
+      "country": "CAN",
+      "logo": "https://flagcdn.com/24x18/ca.png",
+      "teamCode": "CAN",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 67.0,
+      "legendScore": 35.0,
+      "age": 23,
+      "surface": {
+        "hard": 0.547,
+        "clay": 0.474,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 5,
+        "weeks_no1": 0,
+        "top10_wins": 7
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 33,
+      "tournamentStatus": {
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 68.2
     },
     {
       "id": "220520",
       "name": "Mccartney Kessler",
-      "rank": 46,
+      "rank": 47,
       "prevRank": 46,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 67.2,
+      "activeScore": 67.0,
       "legendScore": 19.3,
       "age": 27,
       "surface": {
@@ -6308,13 +6308,13 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 68.2
+      "prevActiveScore": 67.2
     },
     {
       "id": "215983",
       "name": "Ann Li",
-      "rank": 32,
-      "prevRank": 31,
+      "rank": 31,
+      "prevRank": 32,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -6342,53 +6342,19 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 67.6
-    },
-    {
-      "id": "215785",
-      "name": "Camila Osorio",
-      "rank": 52,
-      "prevRank": 53,
-      "country": "COL",
-      "logo": "https://flagcdn.com/24x18/co.png",
-      "teamCode": "COL",
-      "primary": "#FCD116",
-      "secondary": "#FFFFFF",
-      "activeScore": 66.5,
-      "legendScore": 22.7,
-      "age": 24,
-      "surface": {
-        "hard": 0.472,
-        "clay": 0.652,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 36,
-      "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 67.5
+      "prevActiveScore": 66.5
     },
     {
       "id": "220548",
       "name": "Peyton Stearns",
-      "rank": 57,
-      "prevRank": 60,
+      "rank": 58,
+      "prevRank": 57,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 66.5,
+      "activeScore": 66.4,
       "legendScore": 31.0,
       "age": 24,
       "surface": {
@@ -6403,20 +6369,20 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 37,
+      "prevListRank": 36,
       "tournamentStatus": {
         "tournament": "The Memphis Classic",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 67.1
+      "prevActiveScore": 66.5
     },
     {
       "id": "221012",
       "name": "Qinwen Zheng",
       "rank": 123,
-      "prevRank": 135,
+      "prevRank": 123,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
@@ -6437,14 +6403,48 @@ window.TENNIS_DATA = {
         "top10_wins": 11
       },
       "leyendaScore": 0.0,
-      "prevListRank": 38,
+      "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 67.4
+      "prevActiveScore": 66.4
+    },
+    {
+      "id": "215785",
+      "name": "Camila Osorio",
+      "rank": 56,
+      "prevRank": 52,
+      "country": "COL",
+      "logo": "https://flagcdn.com/24x18/co.png",
+      "teamCode": "COL",
+      "primary": "#FCD116",
+      "secondary": "#FFFFFF",
+      "activeScore": 66.1,
+      "legendScore": 22.7,
+      "age": 24,
+      "surface": {
+        "hard": 0.472,
+        "clay": 0.652,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 38,
+      "tournamentStatus": {
+        "tournament": "The Memphis Classic",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 66.5
     },
     {
       "id": "220704",
@@ -6478,13 +6478,13 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 66.9
+      "prevActiveScore": 65.8
     },
     {
       "id": "206289",
       "name": "Maria Sakkari",
       "rank": 33,
-      "prevRank": 37,
+      "prevRank": 33,
       "country": "GRE",
       "logo": "https://flagcdn.com/24x18/gr.png",
       "teamCode": "GRE",
@@ -6507,58 +6507,58 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 65.8
+      "prevActiveScore": 65.3
     },
     {
-      "id": "221054",
-      "name": "Emma Raducanu",
-      "rank": 37,
-      "prevRank": 38,
-      "country": "GBR",
-      "logo": "https://flagcdn.com/24x18/gb.png",
-      "teamCode": "GBR",
-      "primary": "#012169",
+      "id": "223360",
+      "name": "Nikola Bartunkova",
+      "rank": 41,
+      "prevRank": 44,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 65.1,
-      "legendScore": 68.1,
-      "age": 23,
+      "activeScore": 64.4,
+      "legendScore": 30.7,
+      "age": 20,
       "surface": {
-        "hard": 0.522,
-        "clay": 0.5,
-        "grass": 0.625
+        "hard": 0.571,
+        "clay": null,
+        "grass": null
       },
       "stats": {
-        "gs": 1,
-        "titles": 1,
+        "gs": 0,
+        "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 3
+        "top10_wins": 1
       },
-      "leyendaScore": 3.7,
+      "leyendaScore": 0.0,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 66.1
+      "prevActiveScore": 64.0
     },
     {
       "id": "220716",
       "name": "Oleksandra Oliynykova",
-      "rank": 45,
-      "prevRank": 52,
+      "rank": 44,
+      "prevRank": 45,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
       "primary": "#005BBB",
       "secondary": "#FFFFFF",
-      "activeScore": 64.2,
+      "activeScore": 64.3,
       "legendScore": 30.7,
       "age": 25,
       "surface": {
@@ -6575,86 +6575,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "alive",
-        "round": "Quarterfinal",
-        "reason": ""
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 64.4
-    },
-    {
-      "id": "223360",
-      "name": "Nikola Bartunkova",
-      "rank": 44,
-      "prevRank": 43,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 64.0,
-      "legendScore": 30.7,
-      "age": 20,
-      "surface": {
-        "hard": 0.571,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 43,
-      "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 65.2
-    },
-    {
-      "id": "202663",
-      "name": "Magda Linette",
-      "rank": 51,
-      "prevRank": 51,
-      "country": "POL",
-      "logo": "https://flagcdn.com/24x18/pl.png",
-      "teamCode": "POL",
-      "primary": "#DC143C",
-      "secondary": "#FFFFFF",
-      "activeScore": 63.9,
-      "legendScore": 27.3,
-      "age": 34,
-      "surface": {
-        "hard": 0.51,
-        "clay": 0.462,
-        "grass": 0.429
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 8
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 44,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 65.0
+      "prevActiveScore": 64.2
     },
     {
       "id": "220348",
       "name": "Diane Parry",
       "rank": 60,
-      "prevRank": 55,
+      "prevRank": 60,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -6675,130 +6607,60 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 45,
+      "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 65.5
-    },
-    {
-      "id": "266671",
-      "name": "Laura Samson",
-      "rank": 150,
-      "prevRank": 154,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 63.7,
-      "legendScore": 0.0,
-      "age": 18,
-      "surface": {
-        "hard": null,
-        "clay": 0.875,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 5,
-      "inactivePenalty": 3.7,
-      "leyendaScore": 0.0,
-      "prevListRank": 46,
-      "tournamentStatus": {
-        "tournament": "Axeria Open 2026 powered by Intaro Sport",
-        "state": "alive",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 67.4
-    },
-    {
-      "id": "211701",
-      "name": "Katerina Siniakova",
-      "rank": 35,
-      "prevRank": 34,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 63.5,
-      "legendScore": 27.6,
-      "age": 30,
-      "surface": {
-        "hard": 0.513,
-        "clay": 0.333,
-        "grass": 0.429
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 5,
-        "weeks_no1": 0,
-        "top10_wins": 11
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 47,
-      "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 64.7
+      "prevActiveScore": 63.7
     },
     {
-      "id": "211107",
-      "name": "Katie Boulter",
-      "rank": 67,
-      "prevRank": 67,
+      "id": "221054",
+      "name": "Emma Raducanu",
+      "rank": 49,
+      "prevRank": 37,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
       "primary": "#012169",
       "secondary": "#FFFFFF",
-      "activeScore": 63.3,
-      "legendScore": 30.7,
-      "age": 29,
+      "activeScore": 63.5,
+      "legendScore": 68.1,
+      "age": 23,
       "surface": {
-        "hard": 0.5,
-        "clay": 0.429,
-        "grass": 0.571
+        "hard": 0.522,
+        "clay": 0.5,
+        "grass": 0.625
       },
       "stats": {
-        "gs": 0,
-        "titles": 4,
+        "gs": 1,
+        "titles": 1,
         "weeks_no1": 0,
-        "top10_wins": 4
+        "top10_wins": 3
       },
-      "leyendaScore": 0.0,
-      "prevListRank": 48,
+      "leyendaScore": 3.7,
+      "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 64.4
+      "prevActiveScore": 65.1
     },
     {
       "id": "239383",
       "name": "Sara Bejlek",
-      "rank": 40,
-      "prevRank": 42,
+      "rank": 38,
+      "prevRank": 40,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 63.1,
+      "activeScore": 63.4,
       "legendScore": 14.7,
       "age": 20,
       "surface": {
@@ -6813,94 +6675,128 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 49,
+      "prevListRank": 45,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
-      },
-      "prevActiveScore": 64.1
-    },
-    {
-      "id": "216083",
-      "name": "Caty Mcnally",
-      "rank": 53,
-      "prevRank": 57,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 61.6,
-      "legendScore": 26.4,
-      "age": 24,
-      "surface": {
-        "hard": 0.448,
-        "clay": 0.538,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 50,
-      "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 62.3
+      "prevActiveScore": 63.1
     },
     {
-      "id": "220714",
-      "name": "Elisabetta Cocciaretto",
-      "rank": 68,
-      "prevRank": 68,
-      "country": "ITA",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "teamCode": "ITA",
-      "primary": "#009246",
+      "id": "211701",
+      "name": "Katerina Siniakova",
+      "rank": 36,
+      "prevRank": 35,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 61.6,
-      "legendScore": 26.4,
-      "age": 25,
+      "activeScore": 63.3,
+      "legendScore": 27.6,
+      "age": 30,
       "surface": {
-        "hard": 0.514,
-        "clay": 0.375,
-        "grass": 0.625
+        "hard": 0.513,
+        "clay": 0.333,
+        "grass": 0.429
       },
       "stats": {
         "gs": 0,
-        "titles": 2,
+        "titles": 5,
         "weeks_no1": 0,
-        "top10_wins": 3
+        "top10_wins": 11
       },
       "leyendaScore": 0.0,
-      "prevListRank": 51,
+      "prevListRank": 46,
+      "tournamentStatus": {
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 63.5
+    },
+    {
+      "id": "211107",
+      "name": "Katie Boulter",
+      "rank": 69,
+      "prevRank": 67,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 63.0,
+      "legendScore": 30.7,
+      "age": 29,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.429,
+        "grass": 0.571
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 4
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 47,
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 62.8
+      "prevActiveScore": 63.3
+    },
+    {
+      "id": "211337",
+      "name": "Tamara Korpatsch",
+      "rank": 46,
+      "prevRank": 81,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 62.8,
+      "legendScore": 20.2,
+      "age": 31,
+      "surface": {
+        "hard": 0.75,
+        "clay": 0.4,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 48,
+      "tournamentStatus": {
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 58.4
     },
     {
       "id": "220750",
       "name": "Daria Snigur",
-      "rank": 54,
-      "prevRank": 56,
+      "rank": 43,
+      "prevRank": 54,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
       "primary": "#005BBB",
       "secondary": "#FFFFFF",
-      "activeScore": 61.2,
+      "activeScore": 62.5,
       "legendScore": 23.3,
       "age": 24,
       "surface": {
@@ -6915,30 +6811,64 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 52,
+      "prevListRank": 49,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
-        "state": "alive",
-        "round": "Semifinal",
-        "reason": ""
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 62.1
+      "prevActiveScore": 61.2
     },
     {
-      "id": "203501",
-      "name": "Taylor Townsend",
-      "rank": 83,
-      "prevRank": 80,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
+      "id": "202663",
+      "name": "Magda Linette",
+      "rank": 65,
+      "prevRank": 51,
+      "country": "POL",
+      "logo": "https://flagcdn.com/24x18/pl.png",
+      "teamCode": "POL",
+      "primary": "#DC143C",
       "secondary": "#FFFFFF",
-      "activeScore": 61.1,
-      "legendScore": 23.0,
-      "age": 30,
+      "activeScore": 62.1,
+      "legendScore": 27.3,
+      "age": 34,
       "surface": {
-        "hard": 0.6,
+        "hard": 0.51,
+        "clay": 0.462,
+        "grass": 0.429
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 8
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 50,
+      "tournamentStatus": {
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 63.9
+    },
+    {
+      "id": "260172",
+      "name": "Lilli Tagger",
+      "rank": 45,
+      "prevRank": 74,
+      "country": "AUT",
+      "logo": "https://flagcdn.com/24x18/at.png",
+      "teamCode": "AUT",
+      "primary": "#ED2939",
+      "secondary": "#FFFFFF",
+      "activeScore": 61.7,
+      "legendScore": 0.0,
+      "age": 18,
+      "surface": {
+        "hard": 0.667,
         "clay": 0.333,
         "grass": null
       },
@@ -6946,29 +6876,63 @@ window.TENNIS_DATA = {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 3
+        "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 53,
+      "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 62.7
+      "prevActiveScore": 58.0
+    },
+    {
+      "id": "220714",
+      "name": "Elisabetta Cocciaretto",
+      "rank": 71,
+      "prevRank": 68,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 61.3,
+      "legendScore": 26.4,
+      "age": 25,
+      "surface": {
+        "hard": 0.514,
+        "clay": 0.375,
+        "grass": 0.625
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 52,
+      "tournamentStatus": {
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 61.6
     },
     {
       "id": "211843",
       "name": "Anhelina Kalinina",
-      "rank": 56,
-      "prevRank": 59,
+      "rank": 54,
+      "prevRank": 56,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
       "primary": "#005BBB",
       "secondary": "#FFFFFF",
-      "activeScore": 60.9,
+      "activeScore": 61.2,
       "legendScore": 23.9,
       "age": 29,
       "surface": {
@@ -6983,26 +6947,26 @@ window.TENNIS_DATA = {
         "top10_wins": 5
       },
       "leyendaScore": 0.0,
-      "prevListRank": 54,
+      "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 61.8
+      "prevActiveScore": 60.9
     },
     {
       "id": "222045",
       "name": "Antonia Ruzic",
-      "rank": 50,
+      "rank": 55,
       "prevRank": 50,
       "country": "CRO",
       "logo": "https://flagcdn.com/24x18/hr.png",
       "teamCode": "CRO",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 60.8,
+      "activeScore": 60.2,
       "legendScore": 15.3,
       "age": 23,
       "surface": {
@@ -7017,60 +6981,26 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 55,
+      "prevListRank": 54,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 62.0
-    },
-    {
-      "id": "263857",
-      "name": "Yuliia Starodubtseva",
-      "rank": 58,
-      "prevRank": 61,
-      "country": "UKR",
-      "logo": "https://flagcdn.com/24x18/ua.png",
-      "teamCode": "UKR",
-      "primary": "#005BBB",
-      "secondary": "#FFFFFF",
-      "activeScore": 60.1,
-      "legendScore": 23.0,
-      "age": 26,
-      "surface": {
-        "hard": 0.238,
-        "clay": 0.667,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 56,
-      "tournamentStatus": {
-        "tournament": "The Memphis Classic",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 61.0
+      "prevActiveScore": 60.8
     },
     {
       "id": "238184",
       "name": "Tereza Valentova",
-      "rank": 63,
-      "prevRank": 49,
+      "rank": 64,
+      "prevRank": 63,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 60.0,
+      "activeScore": 59.8,
       "legendScore": 30.7,
       "age": 19,
       "surface": {
@@ -7085,26 +7015,26 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 57,
+      "prevListRank": 55,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
-        "state": "alive",
-        "round": "Quarterfinal",
-        "reason": ""
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 62.9
+      "prevActiveScore": 60.0
     },
     {
       "id": "214643",
       "name": "Liudmila Samsonova",
-      "rank": 69,
+      "rank": 70,
       "prevRank": 69,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 60.0,
+      "activeScore": 59.8,
       "legendScore": 38.3,
       "age": 27,
       "surface": {
@@ -7119,26 +7049,26 @@ window.TENNIS_DATA = {
         "top10_wins": 10
       },
       "leyendaScore": 0.0,
-      "prevListRank": 58,
+      "prevListRank": 56,
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 61.2
+      "prevActiveScore": 60.0
     },
     {
       "id": "202499",
       "name": "Donna Vekic",
-      "rank": 36,
-      "prevRank": 35,
+      "rank": 35,
+      "prevRank": 36,
       "country": "CRO",
       "logo": "https://flagcdn.com/24x18/hr.png",
       "teamCode": "CRO",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 59.6,
+      "activeScore": 59.7,
       "legendScore": 35.3,
       "age": 30,
       "surface": {
@@ -7153,26 +7083,94 @@ window.TENNIS_DATA = {
         "top10_wins": 17
       },
       "leyendaScore": 0.0,
-      "prevListRank": 59,
+      "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 61.0
+      "prevActiveScore": 59.6
+    },
+    {
+      "id": "263857",
+      "name": "Yuliia Starodubtseva",
+      "rank": 62,
+      "prevRank": 58,
+      "country": "UKR",
+      "logo": "https://flagcdn.com/24x18/ua.png",
+      "teamCode": "UKR",
+      "primary": "#005BBB",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.6,
+      "legendScore": 23.0,
+      "age": 26,
+      "surface": {
+        "hard": 0.238,
+        "clay": 0.667,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 58,
+      "tournamentStatus": {
+        "tournament": "The Memphis Classic",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 60.1
+    },
+    {
+      "id": "233741",
+      "name": "Maya Joint",
+      "rank": 76,
+      "prevRank": 77,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.5,
+      "legendScore": 13.5,
+      "age": 20,
+      "surface": {
+        "hard": 0.489,
+        "clay": 0.5,
+        "grass": 0.833
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 59,
+      "tournamentStatus": {
+        "tournament": "The Memphis Classic",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 59.4
     },
     {
       "id": "230319",
       "name": "Xinyu",
-      "rank": 39,
-      "prevRank": 40,
+      "rank": 42,
+      "prevRank": 39,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
       "primary": "#DE2910",
       "secondary": "#FFFFFF",
-      "activeScore": 59.6,
+      "activeScore": 59.3,
       "legendScore": 0.0,
       "age": null,
       "surface": {
@@ -7189,126 +7187,92 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 60.8
+      "prevActiveScore": 59.6
     },
     {
-      "id": "233741",
-      "name": "Maya Joint",
-      "rank": 77,
-      "prevRank": 77,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
+      "id": "216083",
+      "name": "Caty Mcnally",
+      "rank": 73,
+      "prevRank": 53,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 59.4,
-      "legendScore": 13.5,
-      "age": 20,
-      "surface": {
-        "hard": 0.489,
-        "clay": 0.5,
-        "grass": 0.833
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 61,
-      "tournamentStatus": {
-        "tournament": "The Memphis Classic",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 60.6
-    },
-    {
-      "id": "203530",
-      "name": "Viktorija Golubic",
-      "rank": 47,
-      "prevRank": 47,
-      "country": "SUI",
-      "logo": "https://flagcdn.com/24x18/ch.png",
-      "teamCode": "SUI",
-      "primary": "#FF0000",
-      "secondary": "#FFFFFF",
-      "activeScore": 58.8,
-      "legendScore": 20.6,
-      "age": 33,
-      "surface": {
-        "hard": 0.417,
-        "clay": 0.5,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 62,
-      "tournamentStatus": {
-        "tournament": "The Memphis Classic",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 60.1
-    },
-    {
-      "id": "220309",
-      "name": "Zeynep Sonmez",
-      "rank": 48,
-      "prevRank": 48,
-      "country": "TUR",
-      "logo": "https://flagcdn.com/24x18/tr.png",
-      "teamCode": "TUR",
-      "primary": "#E30A17",
-      "secondary": "#FFFFFF",
-      "activeScore": 58.8,
-      "legendScore": 25.8,
+      "activeScore": 59.0,
+      "legendScore": 26.4,
       "age": 24,
       "surface": {
         "hard": 0.448,
-        "clay": 0.417,
+        "clay": 0.538,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 1,
+        "titles": 0,
         "weeks_no1": 0,
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 63,
+      "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "The Memphis Classic",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 60.1
+      "prevActiveScore": 61.6
+    },
+    {
+      "id": "203501",
+      "name": "Taylor Townsend",
+      "rank": 105,
+      "prevRank": 83,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.9,
+      "legendScore": 23.0,
+      "age": 30,
+      "surface": {
+        "hard": 0.6,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 62,
+      "tournamentStatus": {
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 61.1
     },
     {
       "id": "201696",
       "name": "Laura Siegemund",
-      "rank": 89,
-      "prevRank": 87,
+      "rank": 88,
+      "prevRank": 89,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 58.6,
+      "activeScore": 58.7,
       "legendScore": 33.7,
       "age": 38,
       "surface": {
@@ -7323,26 +7287,26 @@ window.TENNIS_DATA = {
         "top10_wins": 13
       },
       "leyendaScore": 0.0,
-      "prevListRank": 64,
+      "prevListRank": 63,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 60.2
+      "prevActiveScore": 58.6
     },
     {
       "id": "220332",
       "name": "Eva Lys",
-      "rank": 86,
-      "prevRank": 85,
+      "rank": 85,
+      "prevRank": 86,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 58.5,
+      "activeScore": 58.6,
       "legendScore": 26.1,
       "age": 24,
       "surface": {
@@ -7357,99 +7321,65 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 65,
+      "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 59.9
+      "prevActiveScore": 58.5
     },
     {
-      "id": "211337",
-      "name": "Tamara Korpatsch",
-      "rank": 81,
-      "prevRank": 75,
-      "country": "GER",
-      "logo": "https://flagcdn.com/24x18/de.png",
-      "teamCode": "GER",
-      "primary": "#000000",
+      "id": "203530",
+      "name": "Viktorija Golubic",
+      "rank": 51,
+      "prevRank": 47,
+      "country": "SUI",
+      "logo": "https://flagcdn.com/24x18/ch.png",
+      "teamCode": "SUI",
+      "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 58.4,
-      "legendScore": 20.2,
-      "age": 31,
+      "activeScore": 58.3,
+      "legendScore": 20.6,
+      "age": 33,
       "surface": {
-        "hard": 0.75,
-        "clay": 0.4,
+        "hard": 0.417,
+        "clay": 0.5,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 1,
+        "titles": 2,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 66,
+      "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "The Memphis Classic",
         "state": "alive",
-        "round": "F",
+        "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 60.4
+      "prevActiveScore": 58.8
     },
     {
-      "id": "260172",
-      "name": "Lilli Tagger",
-      "rank": 74,
-      "prevRank": 84,
-      "country": "AUT",
-      "logo": "https://flagcdn.com/24x18/at.png",
-      "teamCode": "AUT",
-      "primary": "#ED2939",
+      "id": "220309",
+      "name": "Zeynep Sonmez",
+      "rank": 52,
+      "prevRank": 48,
+      "country": "TUR",
+      "logo": "https://flagcdn.com/24x18/tr.png",
+      "teamCode": "TUR",
+      "primary": "#E30A17",
       "secondary": "#FFFFFF",
-      "activeScore": 58.0,
-      "legendScore": 0.0,
-      "age": 18,
+      "activeScore": 58.3,
+      "legendScore": 25.8,
+      "age": 24,
       "surface": {
-        "hard": 0.667,
-        "clay": 0.333,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 67,
-      "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
-        "state": "alive",
-        "round": "F",
-        "reason": ""
-      },
-      "prevActiveScore": 58.0
-    },
-    {
-      "id": "221909",
-      "name": "Ashlyn Krueger",
-      "rank": 65,
-      "prevRank": 66,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 57.9,
-      "legendScore": 19.6,
-      "age": 22,
-      "surface": {
-        "hard": 0.524,
-        "clay": 0.385,
+        "hard": 0.448,
+        "clay": 0.417,
         "grass": null
       },
       "stats": {
@@ -7459,54 +7389,20 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 68,
+      "prevListRank": 66,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "The Memphis Classic",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 59.1
-    },
-    {
-      "id": "211817",
-      "name": "Elena Gabriela Ruse",
-      "rank": 72,
-      "prevRank": 72,
-      "country": "ROU",
-      "logo": "https://flagcdn.com/24x18/ro.png",
-      "teamCode": "ROU",
-      "primary": "#002B7F",
-      "secondary": "#FFFFFF",
-      "activeScore": 57.8,
-      "legendScore": 20.9,
-      "age": 28,
-      "surface": {
-        "hard": 0.292,
-        "clay": 0.562,
-        "grass": 0.667
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 69,
-      "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 59.1
+      "prevActiveScore": 58.8
     },
     {
       "id": "214954",
       "name": "Marketa Vondrousova",
-      "rank": 137,
-      "prevRank": 132,
+      "rank": 135,
+      "prevRank": 137,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -7529,26 +7425,94 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 19,
       "inactivePenalty": 15.0,
       "leyendaScore": 3.7,
-      "prevListRank": 70,
+      "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 58.6
+      "prevActiveScore": 57.7
+    },
+    {
+      "id": "221909",
+      "name": "Ashlyn Krueger",
+      "rank": 67,
+      "prevRank": 65,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.6,
+      "legendScore": 19.6,
+      "age": 22,
+      "surface": {
+        "hard": 0.524,
+        "clay": 0.385,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 68,
+      "tournamentStatus": {
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 57.9
+    },
+    {
+      "id": "211817",
+      "name": "Elena Gabriela Ruse",
+      "rank": 75,
+      "prevRank": 72,
+      "country": "ROU",
+      "logo": "https://flagcdn.com/24x18/ro.png",
+      "teamCode": "ROU",
+      "primary": "#002B7F",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.5,
+      "legendScore": 20.9,
+      "age": 28,
+      "surface": {
+        "hard": 0.292,
+        "clay": 0.562,
+        "grass": 0.667
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 69,
+      "tournamentStatus": {
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 57.8
     },
     {
       "id": "215035",
       "name": "Dayana Yastremska",
-      "rank": 88,
-      "prevRank": 74,
+      "rank": 87,
+      "prevRank": 88,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
       "primary": "#005BBB",
       "secondary": "#FFFFFF",
-      "activeScore": 57.4,
+      "activeScore": 57.5,
       "legendScore": 31.3,
       "age": 26,
       "surface": {
@@ -7563,20 +7527,20 @@ window.TENNIS_DATA = {
         "top10_wins": 5
       },
       "leyendaScore": 0.0,
-      "prevListRank": 71,
+      "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 60.4
+      "prevActiveScore": 57.4
     },
     {
       "id": "214082",
       "name": "Daria Kasatkina",
       "rank": 61,
-      "prevRank": 63,
+      "prevRank": 61,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -7597,60 +7561,60 @@ window.TENNIS_DATA = {
         "top10_wins": 24
       },
       "leyendaScore": 0.0,
-      "prevListRank": 72,
+      "prevListRank": 71,
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 58.3
+      "prevActiveScore": 57.3
     },
     {
-      "id": "201533",
-      "name": "Shuai Zhang",
-      "rank": 55,
-      "prevRank": 54,
-      "country": "CHN",
-      "logo": "https://flagcdn.com/24x18/cn.png",
-      "teamCode": "CHN",
-      "primary": "#DE2910",
+      "id": "214388",
+      "name": "Anna Bondar",
+      "rank": 77,
+      "prevRank": 97,
+      "country": "HUN",
+      "logo": "https://flagcdn.com/24x18/hu.png",
+      "teamCode": "HUN",
+      "primary": "#477050",
       "secondary": "#FFFFFF",
-      "activeScore": 57.2,
-      "legendScore": 29.4,
-      "age": 37,
+      "activeScore": 57.3,
+      "legendScore": 16.3,
+      "age": 29,
       "surface": {
-        "hard": 0.52,
-        "clay": 0.333,
+        "hard": 0.357,
+        "clay": 0.609,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 3,
+        "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 8
+        "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 73,
+      "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 58.6
+      "prevActiveScore": 54.7
     },
     {
       "id": "221333",
       "name": "Solana Sierra",
-      "rank": 87,
-      "prevRank": 86,
+      "rank": 86,
+      "prevRank": 87,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
       "primary": "#74ACDF",
       "secondary": "#FFFFFF",
-      "activeScore": 56.9,
+      "activeScore": 57.1,
       "legendScore": 27.6,
       "age": 22,
       "surface": {
@@ -7665,26 +7629,94 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
+      "prevListRank": 73,
+      "tournamentStatus": {
+        "tournament": "The Memphis Classic",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 56.9
+    },
+    {
+      "id": "201533",
+      "name": "Shuai Zhang",
+      "rank": 57,
+      "prevRank": 55,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.9,
+      "legendScore": 29.4,
+      "age": 37,
+      "surface": {
+        "hard": 0.52,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 8
+      },
+      "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 58.4
+      "prevActiveScore": 57.2
+    },
+    {
+      "id": "213710",
+      "name": "Cristina Bucsa",
+      "rank": 40,
+      "prevRank": 42,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.1,
+      "legendScore": 27.3,
+      "age": 28,
+      "surface": {
+        "hard": 0.474,
+        "clay": 0.125,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 75,
+      "tournamentStatus": {
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 55.8
     },
     {
       "id": "211684",
       "name": "Magdalena Frech",
-      "rank": 43,
-      "prevRank": 44,
+      "rank": 48,
+      "prevRank": 43,
       "country": "POL",
       "logo": "https://flagcdn.com/24x18/pl.png",
       "teamCode": "POL",
       "primary": "#DC143C",
       "secondary": "#FFFFFF",
-      "activeScore": 56.6,
+      "activeScore": 56.0,
       "legendScore": 29.1,
       "age": 28,
       "surface": {
@@ -7699,26 +7731,26 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 75,
+      "prevListRank": 76,
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 57.9
+      "prevActiveScore": 56.6
     },
     {
       "id": "238075",
       "name": "Petra Marcinko",
-      "rank": 49,
-      "prevRank": 45,
+      "rank": 53,
+      "prevRank": 49,
       "country": "CRO",
       "logo": "https://flagcdn.com/24x18/hr.png",
       "teamCode": "CRO",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 56.5,
+      "activeScore": 56.0,
       "legendScore": 20.2,
       "age": 20,
       "surface": {
@@ -7733,20 +7765,20 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 76,
+      "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 58.3
+      "prevActiveScore": 56.5
     },
     {
       "id": "222601",
       "name": "Jessica Bouzas Maneiro",
       "rank": 59,
-      "prevRank": 62,
+      "prevRank": 59,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -7767,26 +7799,26 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 77,
+      "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 56.8
+      "prevActiveScore": 55.9
     },
     {
       "id": "219917",
       "name": "Alycia Parks",
-      "rank": 66,
-      "prevRank": 70,
+      "rank": 68,
+      "prevRank": 66,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 55.9,
+      "activeScore": 55.6,
       "legendScore": 22.1,
       "age": 25,
       "surface": {
@@ -7801,60 +7833,26 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 78,
-      "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 56.8
-    },
-    {
-      "id": "213710",
-      "name": "Cristina Bucsa",
-      "rank": 42,
-      "prevRank": 41,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
-      "secondary": "#FFFFFF",
-      "activeScore": 55.8,
-      "legendScore": 27.3,
-      "age": 28,
-      "surface": {
-        "hard": 0.474,
-        "clay": 0.125,
-        "grass": 0.5
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
       "prevListRank": 79,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 57.3
+      "prevActiveScore": 55.9
     },
     {
       "id": "222145",
       "name": "Janice Tjen",
-      "rank": 38,
-      "prevRank": 39,
+      "rank": 37,
+      "prevRank": 38,
       "country": "INA",
       "logo": "",
       "teamCode": "INA",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 55.4,
+      "activeScore": 55.5,
       "legendScore": 24.5,
       "age": 24,
       "surface": {
@@ -7876,19 +7874,19 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 56.7
+      "prevActiveScore": 55.4
     },
     {
       "id": "214040",
       "name": "Kimberly Birrell",
-      "rank": 64,
-      "prevRank": 65,
+      "rank": 66,
+      "prevRank": 64,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
       "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 55.1,
+      "activeScore": 54.8,
       "legendScore": 14.4,
       "age": 28,
       "surface": {
@@ -7905,24 +7903,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "The Memphis Classic",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
-      "prevActiveScore": 56.3
+      "prevActiveScore": 55.1
     },
     {
       "id": "215910",
       "name": "Panna Udvardy",
-      "rank": 71,
+      "rank": 74,
       "prevRank": 71,
       "country": "HUN",
       "logo": "https://flagcdn.com/24x18/hu.png",
       "teamCode": "HUN",
       "primary": "#477050",
       "secondary": "#FFFFFF",
-      "activeScore": 55.0,
+      "activeScore": 54.6,
       "legendScore": 4.9,
       "age": 27,
       "surface": {
@@ -7939,58 +7937,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 56.4
-    },
-    {
-      "id": "214388",
-      "name": "Anna Bondar",
-      "rank": 97,
-      "prevRank": 73,
-      "country": "HUN",
-      "logo": "https://flagcdn.com/24x18/hu.png",
-      "teamCode": "HUN",
-      "primary": "#477050",
-      "secondary": "#FFFFFF",
-      "activeScore": 54.7,
-      "legendScore": 16.3,
-      "age": 29,
-      "surface": {
-        "hard": 0.357,
-        "clay": 0.609,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 83,
-      "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "alive",
-        "round": "Semifinal",
-        "reason": ""
-      },
-      "prevActiveScore": 59.1
+      "prevActiveScore": 55.0
     },
     {
       "id": "221883",
       "name": "Talia Gibson",
-      "rank": 70,
-      "prevRank": 58,
+      "rank": 72,
+      "prevRank": 70,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
       "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 54.4,
+      "activeScore": 54.1,
       "legendScore": 15.3,
       "age": 22,
       "surface": {
@@ -8005,54 +7969,56 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 84,
+      "prevListRank": 83,
       "tournamentStatus": {
         "tournament": "The Memphis Classic",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 57.3
+      "prevActiveScore": 54.4
     },
     {
-      "id": "252499",
-      "name": "Alina Korneeva",
-      "rank": 75,
-      "prevRank": 90,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
+      "id": "211651",
+      "name": "Paula Badosa",
+      "rank": 84,
+      "prevRank": 93,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "activeScore": 53.9,
-      "legendScore": 30.7,
-      "age": 19,
+      "activeScore": 53.5,
+      "legendScore": 42.3,
+      "age": 28,
       "surface": {
-        "hard": null,
-        "clay": null,
+        "hard": 0.531,
+        "clay": 0.455,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 4,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 15
       },
+      "inactiveWeeks": 5,
+      "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 85,
+      "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 53.5
+      "prevActiveScore": 52.3
     },
     {
       "id": "221354",
       "name": "Lisa Pigato",
       "rank": 129,
-      "prevRank": 128,
+      "prevRank": 129,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -8073,26 +8039,26 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 86,
+      "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 53.9
+      "prevActiveScore": 52.5
     },
     {
       "id": "201709",
       "name": "Yulia Putintseva",
-      "rank": 79,
-      "prevRank": 82,
+      "rank": 81,
+      "prevRank": 79,
       "country": "KAZ",
       "logo": "https://flagcdn.com/24x18/kz.png",
       "teamCode": "KAZ",
       "primary": "#00AFCA",
       "secondary": "#FFFFFF",
-      "activeScore": 52.4,
+      "activeScore": 52.2,
       "legendScore": 34.4,
       "age": 31,
       "surface": {
@@ -8107,56 +8073,54 @@ window.TENNIS_DATA = {
         "top10_wins": 13
       },
       "leyendaScore": 0.0,
-      "prevListRank": 87,
+      "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 53.5
+      "prevActiveScore": 52.4
     },
     {
-      "id": "211651",
-      "name": "Paula Badosa",
-      "rank": 93,
-      "prevRank": 115,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
+      "id": "252499",
+      "name": "Alina Korneeva",
+      "rank": 89,
+      "prevRank": 75,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 52.3,
-      "legendScore": 42.3,
-      "age": 28,
+      "activeScore": 52.2,
+      "legendScore": 30.7,
+      "age": 19,
       "surface": {
-        "hard": 0.531,
-        "clay": 0.455,
+        "hard": null,
+        "clay": null,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 4,
+        "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 15
+        "top10_wins": 0
       },
-      "inactiveWeeks": 5,
-      "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 88,
+      "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 52.8
+      "prevActiveScore": 53.9
     },
     {
       "id": "259871",
       "name": "Jeline Vandromme",
       "rank": 128,
-      "prevRank": 129,
+      "prevRank": 128,
       "country": "BEL",
       "logo": "https://flagcdn.com/24x18/be.png",
       "teamCode": "BEL",
@@ -8177,20 +8141,54 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 89,
+      "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 53.3
+      "prevActiveScore": 51.8
+    },
+    {
+      "id": "267020",
+      "name": "Teodora Kostovic",
+      "rank": 146,
+      "prevRank": 171,
+      "country": "SRB",
+      "logo": "https://flagcdn.com/24x18/rs.png",
+      "teamCode": "SRB",
+      "primary": "#C6363C",
+      "secondary": "#FFFFFF",
+      "activeScore": 51.8,
+      "legendScore": 0.0,
+      "age": null,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 89,
+      "tournamentStatus": {
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 51.8
     },
     {
       "id": "213550",
       "name": "Sofia Kenin",
-      "rank": 108,
-      "prevRank": 106,
+      "rank": 116,
+      "prevRank": 108,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -8218,53 +8216,19 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 53.1
-    },
-    {
-      "id": "213583",
-      "name": "Tatjana Maria",
-      "rank": 76,
-      "prevRank": 76,
-      "country": "GER",
-      "logo": "https://flagcdn.com/24x18/de.png",
-      "teamCode": "GER",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "activeScore": 51.2,
-      "legendScore": 21.8,
-      "age": 38,
-      "surface": {
-        "hard": 0.267,
-        "clay": 0.421,
-        "grass": 0.714
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 4,
-        "weeks_no1": 0,
-        "top10_wins": 6
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 91,
-      "tournamentStatus": {
-        "tournament": "The Memphis Classic",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 52.7
+      "prevActiveScore": 51.5
     },
     {
       "id": "201548",
       "name": "Ajla Tomljanovic",
-      "rank": 94,
-      "prevRank": 92,
+      "rank": 92,
+      "prevRank": 94,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
       "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 50.7,
+      "activeScore": 51.0,
       "legendScore": 29.8,
       "age": 33,
       "surface": {
@@ -8279,26 +8243,60 @@ window.TENNIS_DATA = {
         "top10_wins": 6
       },
       "leyendaScore": 0.0,
-      "prevListRank": 92,
+      "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 52.5
+      "prevActiveScore": 50.7
+    },
+    {
+      "id": "213583",
+      "name": "Tatjana Maria",
+      "rank": 79,
+      "prevRank": 76,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.8,
+      "legendScore": 21.8,
+      "age": 38,
+      "surface": {
+        "hard": 0.267,
+        "clay": 0.421,
+        "grass": 0.714
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 6
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 92,
+      "tournamentStatus": {
+        "tournament": "The Memphis Classic",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 51.2
     },
     {
       "id": "213887",
       "name": "Renata Zarazua",
-      "rank": 85,
-      "prevRank": 83,
+      "rank": 83,
+      "prevRank": 85,
       "country": "MEX",
       "logo": "https://flagcdn.com/24x18/mx.png",
       "teamCode": "MEX",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 50.1,
+      "activeScore": 50.4,
       "legendScore": 19.3,
       "age": 28,
       "surface": {
@@ -8320,46 +8318,12 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 51.9
-    },
-    {
-      "id": "215872",
-      "name": "Kamilla Rakhimova",
-      "rank": 78,
-      "prevRank": 78,
-      "country": "UZB",
-      "logo": "https://flagcdn.com/24x18/uz.png",
-      "teamCode": "UZB",
-      "primary": "#1EB53A",
-      "secondary": "#FFFFFF",
-      "activeScore": 50.0,
-      "legendScore": 23.0,
-      "age": 24,
-      "surface": {
-        "hard": 0.259,
-        "clay": 0.364,
-        "grass": 0.571
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 94,
-      "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 51.6
+      "prevActiveScore": 50.1
     },
     {
       "id": "222966",
       "name": "Dominika Salkova",
-      "rank": 127,
+      "rank": 121,
       "prevRank": 127,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
@@ -8383,20 +8347,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 95,
+      "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 51.2
+      "prevActiveScore": 49.8
     },
     {
       "id": "215453",
       "name": "Marina Bassols Ribera",
       "rank": 130,
-      "prevRank": 144,
+      "prevRank": 130,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -8417,20 +8381,54 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 96,
+      "prevListRank": 95,
       "tournamentStatus": {
         "tournament": "The Memphis Classic",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 51.3
+      "prevActiveScore": 49.7
+    },
+    {
+      "id": "215872",
+      "name": "Kamilla Rakhimova",
+      "rank": 82,
+      "prevRank": 78,
+      "country": "UZB",
+      "logo": "https://flagcdn.com/24x18/uz.png",
+      "teamCode": "UZB",
+      "primary": "#1EB53A",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.5,
+      "legendScore": 23.0,
+      "age": 24,
+      "surface": {
+        "hard": 0.259,
+        "clay": 0.364,
+        "grass": 0.571
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 96,
+      "tournamentStatus": {
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 50.0
     },
     {
       "id": "203514",
       "name": "Katarzyna Kawa",
       "rank": 131,
-      "prevRank": 142,
+      "prevRank": 131,
       "country": "POL",
       "logo": "https://flagcdn.com/24x18/pl.png",
       "teamCode": "POL",
@@ -8455,18 +8453,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 50.2
+      "prevActiveScore": 48.9
     },
     {
       "id": "247669",
       "name": "Veronika Podrez",
-      "rank": 140,
-      "prevRank": 136,
+      "rank": 134,
+      "prevRank": 140,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
@@ -8491,18 +8489,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 50.3
+      "prevActiveScore": 48.9
     },
     {
       "id": "223194",
       "name": "Taylah Preston",
-      "rank": 118,
-      "prevRank": 117,
+      "rank": 119,
+      "prevRank": 118,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -8532,19 +8530,19 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 49.6
+      "prevActiveScore": 48.5
     },
     {
       "id": "215306",
       "name": "Emiliana Arango",
-      "rank": 96,
+      "rank": 95,
       "prevRank": 96,
       "country": "COL",
       "logo": "https://flagcdn.com/24x18/co.png",
       "teamCode": "COL",
       "primary": "#FCD116",
       "secondary": "#FFFFFF",
-      "activeScore": 48.2,
+      "activeScore": 48.4,
       "legendScore": 10.1,
       "age": 25,
       "surface": {
@@ -8561,18 +8559,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 49.8
+      "prevActiveScore": 48.2
     },
     {
       "id": "215020",
       "name": "Anna Blinkova",
-      "rank": 105,
-      "prevRank": 102,
+      "rank": 104,
+      "prevRank": 105,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -8595,18 +8593,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 101,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 49.7
+      "prevActiveScore": 48.1
     },
     {
       "id": "211685",
       "name": "Rebecca Sramkova",
-      "rank": 136,
-      "prevRank": 131,
+      "rank": 141,
+      "prevRank": 136,
       "country": "SVK",
       "logo": "https://flagcdn.com/24x18/sk.png",
       "teamCode": "SVK",
@@ -8634,19 +8632,19 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 49.6
+      "prevActiveScore": 48.0
     },
     {
       "id": "243420",
       "name": "Hanne Vandewinkel",
-      "rank": 92,
-      "prevRank": 98,
+      "rank": 91,
+      "prevRank": 92,
       "country": "BEL",
       "logo": "https://flagcdn.com/24x18/be.png",
       "teamCode": "BEL",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 47.7,
+      "activeScore": 47.8,
       "legendScore": 0.0,
       "age": 22,
       "surface": {
@@ -8663,24 +8661,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 48.6
+      "prevActiveScore": 47.7
     },
     {
       "id": "221407",
       "name": "Oksana Selekhmeteva",
-      "rank": 98,
-      "prevRank": 88,
+      "rank": 97,
+      "prevRank": 98,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 47.5,
+      "activeScore": 47.6,
       "legendScore": 15.3,
       "age": 23,
       "surface": {
@@ -8697,18 +8695,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 50.3
+      "prevActiveScore": 47.5
     },
     {
       "id": "259733",
       "name": "Kaitlin Quevedo",
-      "rank": 101,
-      "prevRank": 100,
+      "rank": 103,
+      "prevRank": 101,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -8734,21 +8732,21 @@ window.TENNIS_DATA = {
         "tournament": "Axeria Open 2026 powered by Intaro Sport",
         "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
-      "prevActiveScore": 48.4
+      "prevActiveScore": 46.7
     },
     {
       "id": "221039",
       "name": "Elsa Jacquemot",
-      "rank": 104,
-      "prevRank": 107,
+      "rank": 98,
+      "prevRank": 104,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 45.7,
+      "activeScore": 46.0,
       "legendScore": 23.6,
       "age": 23,
       "surface": {
@@ -8765,51 +8763,85 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 47.4
+      "prevActiveScore": 45.7
     },
     {
-      "id": "261972",
-      "name": "Tyra Caterina Grant",
-      "rank": 148,
-      "prevRank": 141,
-      "country": "ITA",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "teamCode": "ITA",
-      "primary": "#009246",
+      "id": "215899",
+      "name": "Simona Waltert",
+      "rank": 90,
+      "prevRank": 91,
+      "country": "SUI",
+      "logo": "https://flagcdn.com/24x18/ch.png",
+      "teamCode": "SUI",
+      "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 45.6,
-      "legendScore": 0.0,
-      "age": 18,
+      "activeScore": 45.5,
+      "legendScore": 12.3,
+      "age": 25,
       "surface": {
-        "hard": null,
-        "clay": 0.4,
+        "hard": 0.333,
+        "clay": 0.444,
         "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 1
       },
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 47.3
+      "prevActiveScore": 45.3
+    },
+    {
+      "id": "220465",
+      "name": "Katie Volynets",
+      "rank": 93,
+      "prevRank": 95,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 45.4,
+      "legendScore": 16.9,
+      "age": 24,
+      "surface": {
+        "hard": 0.333,
+        "clay": 0.375,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 108,
+      "tournamentStatus": {
+        "tournament": "The Memphis Classic",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 45.2
     },
     {
       "id": "206368",
       "name": "Veronika Kudermetova",
-      "rank": 125,
+      "rank": 126,
       "prevRank": 125,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
@@ -8833,54 +8865,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 32,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 108,
+      "prevListRank": 109,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 46.6
-    },
-    {
-      "id": "215899",
-      "name": "Simona Waltert",
-      "rank": 91,
-      "prevRank": 81,
-      "country": "SUI",
-      "logo": "https://flagcdn.com/24x18/ch.png",
-      "teamCode": "SUI",
-      "primary": "#FF0000",
-      "secondary": "#FFFFFF",
-      "activeScore": 45.3,
-      "legendScore": 12.3,
-      "age": 25,
-      "surface": {
-        "hard": 0.333,
-        "clay": 0.444,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 109,
-      "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 48.3
+      "prevActiveScore": 45.4
     },
     {
       "id": "214906",
       "name": "Claire Liu",
-      "rank": 114,
-      "prevRank": 111,
+      "rank": 113,
+      "prevRank": 114,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -8903,52 +8901,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 47.0
-    },
-    {
-      "id": "220465",
-      "name": "Katie Volynets",
-      "rank": 95,
-      "prevRank": 93,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 45.2,
-      "legendScore": 16.9,
-      "age": 24,
-      "surface": {
-        "hard": 0.333,
-        "clay": 0.375,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 111,
-      "tournamentStatus": {
-        "tournament": "The Memphis Classic",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 47.1
+      "prevActiveScore": 45.3
     },
     {
       "id": "263644",
       "name": "Emerson Jones",
       "rank": 139,
-      "prevRank": 134,
+      "prevRank": 139,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -8969,20 +8933,20 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 112,
+      "prevListRank": 111,
       "tournamentStatus": {
         "tournament": "Odlum Brown VanOpen",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 46.8
+      "prevActiveScore": 45.1
     },
     {
       "id": "205925",
       "name": "Aliaksandra Sasnovich",
-      "rank": 133,
-      "prevRank": 143,
+      "rank": 136,
+      "prevRank": 133,
       "country": "BLR",
       "logo": "https://flagcdn.com/24x18/by.png",
       "teamCode": "BLR",
@@ -9005,14 +8969,14 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 113,
+      "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 46.4
+      "prevActiveScore": 44.9
     },
     {
       "id": "222661",
@@ -9041,20 +9005,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 114,
+      "prevListRank": 113,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 46.0
+      "prevActiveScore": 44.7
     },
     {
       "id": "221257",
       "name": "Sinja Kraus",
       "rank": 80,
-      "prevRank": 94,
+      "prevRank": 80,
       "country": "AUT",
       "logo": "https://flagcdn.com/24x18/at.png",
       "teamCode": "AUT",
@@ -9075,54 +9039,56 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 115,
+      "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 44.4
-    },
-    {
-      "id": "206242",
-      "name": "Beatriz Haddad Maia",
-      "rank": 149,
-      "prevRank": 153,
-      "country": "BRA",
-      "logo": "https://flagcdn.com/24x18/br.png",
-      "teamCode": "BRA",
-      "primary": "#009C3B",
-      "secondary": "#FFFFFF",
-      "activeScore": 43.9,
-      "legendScore": 39.0,
-      "age": 30,
-      "surface": {
-        "hard": 0.267,
-        "clay": 0.333,
-        "grass": 0.5
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 4,
-        "weeks_no1": 0,
-        "top10_wins": 12
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 116,
-      "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 43.9
+      "prevActiveScore": 44.5
+    },
+    {
+      "id": "220699",
+      "name": "Julia Riera",
+      "rank": 148,
+      "prevRank": 166,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 44.3,
+      "legendScore": 0.0,
+      "age": 24,
+      "surface": {
+        "hard": null,
+        "clay": 0.625,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 115,
+      "tournamentStatus": {
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 54.3
     },
     {
       "id": "220435",
       "name": "Anastasia Zakharova",
-      "rank": 102,
-      "prevRank": 101,
+      "rank": 101,
+      "prevRank": 102,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -9143,20 +9109,20 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 117,
+      "prevListRank": 116,
       "tournamentStatus": {
         "tournament": "The Memphis Classic",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 45.5
+      "prevActiveScore": 43.7
     },
     {
       "id": "230870",
       "name": "Ella Seidel",
-      "rank": 103,
-      "prevRank": 99,
+      "rank": 102,
+      "prevRank": 103,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
@@ -9177,56 +9143,20 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 118,
+      "prevListRank": 117,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 45.6
-    },
-    {
-      "id": "221237",
-      "name": "Maria Timofeeva",
-      "rank": 84,
-      "prevRank": 79,
-      "country": "UZB",
-      "logo": "https://flagcdn.com/24x18/uz.png",
-      "teamCode": "UZB",
-      "primary": "#1EB53A",
-      "secondary": "#FFFFFF",
-      "activeScore": 43.3,
-      "legendScore": 30.7,
-      "age": 22,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 6,
-      "inactivePenalty": 6.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 119,
-      "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 45.5
+      "prevActiveScore": 43.7
     },
     {
       "id": "214459",
       "name": "Lucia Bronzetti",
-      "rank": 120,
-      "prevRank": 139,
+      "rank": 118,
+      "prevRank": 120,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -9247,20 +9177,20 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 120,
+      "prevListRank": 118,
       "tournamentStatus": {
-        "tournament": "Palermo Ladies Open",
-        "state": "alive",
-        "round": "Quarterfinal",
-        "reason": ""
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 44.6
+      "prevActiveScore": 42.8
     },
     {
       "id": "223286",
       "name": "Victoria Jimenez Kasintseva",
-      "rank": 119,
-      "prevRank": 114,
+      "rank": 120,
+      "prevRank": 119,
       "country": "AND",
       "logo": "",
       "teamCode": "AND",
@@ -9283,54 +9213,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 121,
+      "prevListRank": 119,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 44.3
-    },
-    {
-      "id": "216016",
-      "name": "Xiyu Wang",
-      "rank": 90,
-      "prevRank": 89,
-      "country": "CHN",
-      "logo": "https://flagcdn.com/24x18/cn.png",
-      "teamCode": "CHN",
-      "primary": "#DE2910",
-      "secondary": "#FFFFFF",
-      "activeScore": 42.5,
-      "legendScore": 22.1,
-      "age": 25,
-      "surface": {
-        "hard": 0.25,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 122,
-      "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 44.3
+      "prevActiveScore": 42.7
     },
     {
       "id": "220722",
       "name": "Elvina Kalieva",
-      "rank": 138,
-      "prevRank": 133,
+      "rank": 132,
+      "prevRank": 138,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -9338,7 +9234,7 @@ window.TENNIS_DATA = {
       "secondary": "#FFFFFF",
       "activeScore": 42.3,
       "legendScore": 0.0,
-      "age": 22,
+      "age": 23,
       "surface": {
         "hard": null,
         "clay": null,
@@ -9353,20 +9249,90 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 123,
+      "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "The Memphis Classic",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 42.3
+    },
+    {
+      "id": "216016",
+      "name": "Xiyu Wang",
+      "rank": 94,
+      "prevRank": 90,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
+      "secondary": "#FFFFFF",
+      "activeScore": 41.9,
+      "legendScore": 22.1,
+      "age": 25,
+      "surface": {
+        "hard": 0.25,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 121,
+      "tournamentStatus": {
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 44.0
+      "prevActiveScore": 42.5
+    },
+    {
+      "id": "221237",
+      "name": "Maria Timofeeva",
+      "rank": 96,
+      "prevRank": 84,
+      "country": "UZB",
+      "logo": "https://flagcdn.com/24x18/uz.png",
+      "teamCode": "UZB",
+      "primary": "#1EB53A",
+      "secondary": "#FFFFFF",
+      "activeScore": 41.7,
+      "legendScore": 30.7,
+      "age": 22,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 122,
+      "tournamentStatus": {
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 43.3
     },
     {
       "id": "223325",
       "name": "Polina Iatcenko",
-      "rank": 146,
-      "prevRank": 150,
+      "rank": 149,
+      "prevRank": 146,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -9389,20 +9355,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 30,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 124,
+      "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 42.7
+      "prevActiveScore": 41.4
     },
     {
       "id": "215936",
       "name": "Francesca Jones",
-      "rank": 113,
-      "prevRank": 123,
+      "rank": 110,
+      "prevRank": 113,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
@@ -9423,20 +9389,20 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 125,
+      "prevListRank": 124,
       "tournamentStatus": {
         "tournament": "Axeria Open 2026 powered by Intaro Sport",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 42.8
+      "prevActiveScore": 41.0
     },
     {
       "id": "214593",
       "name": "Lucrezia Stefanini",
-      "rank": 142,
-      "prevRank": 145,
+      "rank": 144,
+      "prevRank": 142,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -9457,20 +9423,20 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 126,
+      "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 42.4
+      "prevActiveScore": 40.5
     },
     {
       "id": "220416",
       "name": "Moyuka Uchijima",
-      "rank": 110,
-      "prevRank": 108,
+      "rank": 107,
+      "prevRank": 110,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "teamCode": "JPN",
@@ -9491,20 +9457,20 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 127,
+      "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 41.8
+      "prevActiveScore": 39.9
     },
     {
       "id": "221406",
       "name": "Alina Charaeva",
-      "rank": 117,
-      "prevRank": 118,
+      "rank": 112,
+      "prevRank": 117,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -9527,20 +9493,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 128,
+      "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 41.5
+      "prevActiveScore": 39.8
     },
     {
       "id": "206417",
       "name": "Leolia Jeanjean",
-      "rank": 112,
-      "prevRank": 110,
+      "rank": 117,
+      "prevRank": 112,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -9561,20 +9527,20 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 129,
+      "prevListRank": 128,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 41.3
+      "prevActiveScore": 39.5
     },
     {
       "id": "206294",
       "name": "Yue Yuan",
-      "rank": 121,
-      "prevRank": 120,
+      "rank": 125,
+      "prevRank": 121,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
@@ -9597,20 +9563,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 130,
+      "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 40.9
+      "prevActiveScore": 39.3
     },
     {
       "id": "221124",
       "name": "Himeno Sakatsume",
-      "rank": 132,
-      "prevRank": 121,
+      "rank": 138,
+      "prevRank": 132,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "teamCode": "JPN",
@@ -9633,20 +9599,90 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 131,
+      "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 40.5
+      "prevActiveScore": 39.1
+    },
+    {
+      "id": "210886",
+      "name": "Mayar Sherif",
+      "rank": 50,
+      "prevRank": 73,
+      "country": "EGY",
+      "logo": "https://flagcdn.com/24x18/eg.png",
+      "teamCode": "EGY",
+      "primary": "#CE1126",
+      "secondary": "#FFFFFF",
+      "activeScore": 38.9,
+      "legendScore": 13.8,
+      "age": 30,
+      "surface": {
+        "hard": 0.1,
+        "clay": 0.143,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 131,
+      "tournamentStatus": {
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 36.0
+    },
+    {
+      "id": "222290",
+      "name": "Lanlana Tararudee",
+      "rank": 78,
+      "prevRank": 82,
+      "country": "THA",
+      "logo": "https://flagcdn.com/24x18/th.png",
+      "teamCode": "THA",
+      "primary": "#A51931",
+      "secondary": "#FFFFFF",
+      "activeScore": 38.5,
+      "legendScore": 0.0,
+      "age": 22,
+      "surface": {
+        "hard": 0.5,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 12,
+      "inactivePenalty": 15.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 132,
+      "tournamentStatus": {
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 37.9
     },
     {
       "id": "221985",
       "name": "Darja Semenistaja",
-      "rank": 109,
-      "prevRank": 103,
+      "rank": 106,
+      "prevRank": 109,
       "country": "LAT",
       "logo": "https://flagcdn.com/24x18/lv.png",
       "teamCode": "LAT",
@@ -9669,20 +9705,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 132,
+      "prevListRank": 133,
       "tournamentStatus": {
         "tournament": "Axeria Open 2026 powered by Intaro Sport",
         "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
-      "prevActiveScore": 40.1
+      "prevActiveScore": 38.5
     },
     {
       "id": "216566",
       "name": "Mananchaya Sawangkaew",
-      "rank": 116,
-      "prevRank": 113,
+      "rank": 111,
+      "prevRank": 116,
       "country": "THA",
       "logo": "https://flagcdn.com/24x18/th.png",
       "teamCode": "THA",
@@ -9705,56 +9741,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 133,
+      "prevListRank": 134,
       "tournamentStatus": {
         "tournament": "Odlum Brown VanOpen",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 39.7
-    },
-    {
-      "id": "222290",
-      "name": "Lanlana Tararudee",
-      "rank": 82,
-      "prevRank": 91,
-      "country": "THA",
-      "logo": "https://flagcdn.com/24x18/th.png",
-      "teamCode": "THA",
-      "primary": "#A51931",
-      "secondary": "#FFFFFF",
-      "activeScore": 37.9,
-      "legendScore": 0.0,
-      "age": 22,
-      "surface": {
-        "hard": 0.5,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 12,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 134,
-      "tournamentStatus": {
-        "tournament": "Livesport Prague Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
-      },
-      "prevActiveScore": 38.2
+      "prevActiveScore": 38.3
     },
     {
       "id": "219875",
       "name": "Varvara Gracheva",
       "rank": 99,
-      "prevRank": 95,
+      "prevRank": 99,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -9779,18 +9779,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 39.8
+      "prevActiveScore": 37.8
     },
     {
       "id": "220662",
       "name": "Veronika Erjavec",
       "rank": 100,
-      "prevRank": 105,
+      "prevRank": 100,
       "country": "SLO",
       "logo": "https://flagcdn.com/24x18/si.png",
       "teamCode": "SLO",
@@ -9813,17 +9813,17 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 39.6
+      "prevActiveScore": 37.6
     },
     {
       "id": "215037",
       "name": "Kayla Day",
-      "rank": 126,
+      "rank": 127,
       "prevRank": 126,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
@@ -9854,58 +9854,24 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 38.7
+      "prevActiveScore": 37.0
     },
     {
-      "id": "210886",
-      "name": "Mayar Sherif",
-      "rank": 73,
-      "prevRank": 97,
-      "country": "EGY",
-      "logo": "https://flagcdn.com/24x18/eg.png",
-      "teamCode": "EGY",
-      "primary": "#CE1126",
+      "id": "220742",
+      "name": "Leyre Romero Gormaz",
+      "rank": 147,
+      "prevRank": 153,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "activeScore": 36.0,
-      "legendScore": 13.8,
-      "age": 30,
+      "activeScore": 36.1,
+      "legendScore": 30.7,
+      "age": 24,
       "surface": {
-        "hard": 0.1,
-        "clay": 0.143,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 138,
-      "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
-        "state": "alive",
-        "round": "Quarterfinal",
-        "reason": ""
-      },
-      "prevActiveScore": 35.0
-    },
-    {
-      "id": "221307",
-      "name": "Darja Vidmanova",
-      "rank": 106,
-      "prevRank": 104,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 35.0,
-      "legendScore": 0.0,
-      "age": 23,
-      "surface": {
-        "hard": 0.2,
-        "clay": null,
+        "hard": null,
+        "clay": 0.6,
         "grass": null
       },
       "stats": {
@@ -9914,57 +9880,23 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "inactiveWeeks": 8,
-      "inactivePenalty": 10.0,
+      "inactiveWeeks": 45,
+      "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 139,
+      "prevListRank": 138,
       "tournamentStatus": {
-        "tournament": "The Memphis Classic",
+        "tournament": "Axeria Open 2026 powered by Intaro Sport",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 35.0
-    },
-    {
-      "id": "211814",
-      "name": "Julia Grabher",
-      "rank": 107,
-      "prevRank": 116,
-      "country": "AUT",
-      "logo": "https://flagcdn.com/24x18/at.png",
-      "teamCode": "AUT",
-      "primary": "#ED2939",
-      "secondary": "#FFFFFF",
-      "activeScore": 35.0,
-      "legendScore": 18.1,
-      "age": 30,
-      "surface": {
-        "hard": 0.231,
-        "clay": 0.25,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 140,
-      "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 37.0
+      "prevActiveScore": 51.1
     },
     {
       "id": "221236",
       "name": "Polina Kudermetova",
-      "rank": 111,
-      "prevRank": 109,
+      "rank": 108,
+      "prevRank": 111,
       "country": "UZB",
       "logo": "https://flagcdn.com/24x18/uz.png",
       "teamCode": "UZB",
@@ -9987,9 +9919,79 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 141,
+      "prevListRank": 139,
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 35.0
+    },
+    {
+      "id": "211814",
+      "name": "Julia Grabher",
+      "rank": 109,
+      "prevRank": 107,
+      "country": "AUT",
+      "logo": "https://flagcdn.com/24x18/at.png",
+      "teamCode": "AUT",
+      "primary": "#ED2939",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 18.1,
+      "age": 30,
+      "surface": {
+        "hard": 0.231,
+        "clay": 0.25,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 140,
+      "tournamentStatus": {
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 35.0
+    },
+    {
+      "id": "221307",
+      "name": "Darja Vidmanova",
+      "rank": 114,
+      "prevRank": 106,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "age": 23,
+      "surface": {
+        "hard": 0.2,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 141,
+      "tournamentStatus": {
+        "tournament": "The Memphis Classic",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -10000,7 +10002,7 @@ window.TENNIS_DATA = {
       "id": "215138",
       "name": "Lulu Sun",
       "rank": 115,
-      "prevRank": 112,
+      "prevRank": 115,
       "country": "NZL",
       "logo": "https://flagcdn.com/24x18/nz.png",
       "teamCode": "NZL",
@@ -10025,12 +10027,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 35.7
+      "prevActiveScore": 35.0
     },
     {
       "id": "223168",
@@ -10066,49 +10068,13 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 36.0
-    },
-    {
-      "id": "214461",
-      "name": "Tamara Zidansek",
-      "rank": 134,
-      "prevRank": 148,
-      "country": "SLO",
-      "logo": "https://flagcdn.com/24x18/si.png",
-      "teamCode": "SLO",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "activeScore": 35.0,
-      "legendScore": 24.2,
-      "age": 28,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "inactiveWeeks": 16,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 144,
-      "tournamentStatus": {
-        "tournament": "Palermo Ladies Open",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 36.3
+      "prevActiveScore": 35.0
     },
     {
       "id": "202684",
       "name": "Lin Zhu",
-      "rank": 135,
-      "prevRank": 130,
+      "rank": 133,
+      "prevRank": 135,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
@@ -10131,20 +10097,56 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 20,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 145,
+      "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 35.7
+      "prevActiveScore": 35.0
+    },
+    {
+      "id": "223333",
+      "name": "Noma Noha Akugue",
+      "rank": 137,
+      "prevRank": 144,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "age": 22,
+      "surface": {
+        "hard": null,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 145,
+      "tournamentStatus": {
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 35.0
     },
     {
       "id": "222233",
       "name": "Marina Stakusic",
-      "rank": 141,
-      "prevRank": 138,
+      "rank": 140,
+      "prevRank": 141,
       "country": "CAN",
       "logo": "https://flagcdn.com/24x18/ca.png",
       "teamCode": "CAN",
@@ -10169,18 +10171,54 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 35.9
+      "prevActiveScore": 35.0
+    },
+    {
+      "id": "214461",
+      "name": "Tamara Zidansek",
+      "rank": 142,
+      "prevRank": 134,
+      "country": "SLO",
+      "logo": "https://flagcdn.com/24x18/si.png",
+      "teamCode": "SLO",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 24.2,
+      "age": 28,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 16,
+      "inactivePenalty": 15.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 147,
+      "tournamentStatus": {
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 35.0
     },
     {
       "id": "211279",
       "name": "Harriet Dart",
       "rank": 143,
-      "prevRank": 152,
+      "prevRank": 143,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
@@ -10203,45 +10241,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 44,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 147,
-      "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 50.0
-    },
-    {
-      "id": "223333",
-      "name": "Noma Noha Akugue",
-      "rank": 144,
-      "prevRank": 149,
-      "country": "GER",
-      "logo": "https://flagcdn.com/24x18/de.png",
-      "teamCode": "GER",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "activeScore": 35.0,
-      "legendScore": 0.0,
-      "age": 22,
-      "surface": {
-        "hard": null,
-        "clay": 0.333,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 6,
-      "inactivePenalty": 6.0,
-      "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "MSC Hamburg Ladies Open",
+        "tournament": "Odlum Brown VanOpen",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -10252,7 +10254,7 @@ window.TENNIS_DATA = {
       "id": "215480",
       "name": "Suzan Lamens",
       "rank": 145,
-      "prevRank": 147,
+      "prevRank": 145,
       "country": "NED",
       "logo": "https://flagcdn.com/24x18/nl.png",
       "teamCode": "NED",
@@ -10277,18 +10279,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 36.3
+      "prevActiveScore": 35.0
     },
     {
       "id": "213666",
       "name": "Maddison Inglis",
-      "rank": 147,
-      "prevRank": 151,
+      "rank": 150,
+      "prevRank": 147,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -10318,20 +10320,20 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 50.0
+      "prevActiveScore": 35.0
     }
   ],
   "ATP_CHANGES": {
     "entered": [],
     "exited": [],
     "prev_date": "",
-    "curr_date": "20260716"
+    "curr_date": "20260723"
   },
   "WTA_CHANGES": {
     "entered": [],
     "exited": [],
     "prev_date": "",
-    "curr_date": "20260716"
+    "curr_date": "20260723"
   },
   "ATP_LEGENDS": [
     {
@@ -10871,61 +10873,6 @@ window.TENNIS_DATA = {
   ],
   "ATP_RECENT": [
     {
-      "name": "Generali Open",
-      "level": "ATP 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "F",
-          "w": "Quentin Halys",
-          "w_logo": "",
-          "l": "Alexander Bublik",
-          "l_logo": "",
-          "score": "6-4 7-6 (8-6)",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 55.4,
-          "l_score": 76.0,
-          "match_score": 76.0
-        }
-      ]
-    },
-    {
-      "name": "Millennium Estoril Open",
-      "level": "ATP 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "Semifinal",
-          "w": "Alexander Blockx",
-          "w_logo": "",
-          "l": "Luciano Darderi",
-          "l_logo": "",
-          "score": "5-7 7-6 (7-1) 7-6 (7-5)",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 72.0,
-          "l_score": 65.9,
-          "match_score": 72.0
-        },
-        {
-          "round": "Semifinal",
-          "w": "Luca Van Assche",
-          "w_logo": "",
-          "l": "Hugo Gaston",
-          "l_logo": "",
-          "score": "6-4 7-5",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 61.6,
-          "l_score": 42.6,
-          "match_score": 61.6
-        }
-      ]
-    }
-  ],
-  "ATP_TODAY": [
-    {
       "name": "Millennium Estoril Open",
       "level": "ATP 250",
       "surface": "",
@@ -10937,117 +10884,103 @@ window.TENNIS_DATA = {
           "l": "Alexander Blockx",
           "l_logo": "",
           "score": "6-4 4-6 7-5",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
-          "w_score": 61.6,
-          "l_score": 72.0,
-          "match_score": 72.0
+          "w_score": 64.9,
+          "l_score": 72.6,
+          "match_score": 72.6
+        }
+      ]
+    }
+  ],
+  "ATP_TODAY": [
+    {
+      "name": "Mubadala DC Open",
+      "level": "500",
+      "surface": "Hard",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Lorenzo Musetti",
+          "w_logo": "",
+          "l": "Matteo Arnaldi",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 79.5,
+          "l_score": 65.2,
+          "match_score": 79.5
+        },
+        {
+          "round": "R128",
+          "w": "Taylor Fritz",
+          "w_logo": "",
+          "l": "Zizou Bergs",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 75.7,
+          "l_score": 61.8,
+          "match_score": 75.7
+        },
+        {
+          "round": "R128",
+          "w": "Frances Tiafoe",
+          "w_logo": "",
+          "l": "Terence Atmane",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 74.5,
+          "l_score": 58.7,
+          "match_score": 74.5
+        },
+        {
+          "round": "R128",
+          "w": "Alejandro Tabilo",
+          "w_logo": "",
+          "l": "Tallon Griekspoor",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 66.6,
+          "l_score": 63.1,
+          "match_score": 66.6
+        },
+        {
+          "round": "R128",
+          "w": "Zachary Svajda",
+          "w_logo": "",
+          "l": "Aleksandar Vukic",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 55.8,
+          "l_score": 45.7,
+          "match_score": 55.8
+        },
+        {
+          "round": "R128",
+          "w": "Shang Juncheng",
+          "w_logo": "",
+          "l": "Kei Nishikori",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
         }
       ]
     }
   ],
   "WTA_RECENT": [
-    {
-      "name": "Livesport Prague Open",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "Semifinal",
-          "w": "Lilli Tagger",
-          "w_logo": "",
-          "l": "Barbora Krejcikova",
-          "l_logo": "",
-          "score": "6-7 (5-7) 6-3 7-6 (7-4)",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 58.0,
-          "l_score": 72.3,
-          "match_score": 72.3
-        },
-        {
-          "round": "Semifinal",
-          "w": "Daria Snigur",
-          "w_logo": "",
-          "l": "Tereza Valentova",
-          "l_logo": "",
-          "score": "7-6 (7-4) 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 61.2,
-          "l_score": 60.0,
-          "match_score": 61.2
-        }
-      ]
-    },
-    {
-      "name": "Palermo Ladies Open",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "Semifinal",
-          "w": "Fiona Ferro",
-          "w_logo": "",
-          "l": "Lucia Bronzetti",
-          "l_logo": "",
-          "score": "6-2 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": 42.8,
-          "match_score": 42.8
-        },
-        {
-          "round": "Semifinal",
-          "w": "Francesca Jones",
-          "w_logo": "",
-          "l": "Alevtina Ibragimova",
-          "l_logo": "",
-          "score": "6-3 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 41.0,
-          "l_score": null,
-          "match_score": 41.0
-        }
-      ]
-    },
-    {
-      "name": "MSC Hamburg Ladies Open",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "Semifinal",
-          "w": "Tamara Korpatsch",
-          "w_logo": "",
-          "l": "Mayar Sherif",
-          "l_logo": "",
-          "score": "6-1 2-0 ret",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 58.4,
-          "l_score": 36.0,
-          "match_score": 58.4
-        },
-        {
-          "round": "Semifinal",
-          "w": "Anna Bondar",
-          "w_logo": "",
-          "l": "Elina Avanesyan",
-          "l_logo": "",
-          "score": "7-6 (7-3) 4-6 7-6 (7-2)",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 54.7,
-          "l_score": null,
-          "match_score": 54.7
-        }
-      ]
-    }
-  ],
-  "WTA_TODAY": [
     {
       "name": "Livesport Prague Open",
       "level": "WTA 250",
@@ -11060,11 +10993,11 @@ window.TENNIS_DATA = {
           "l": "Daria Snigur",
           "l_logo": "",
           "score": "7-6 (7-3) 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
-          "w_score": 58.0,
-          "l_score": 61.2,
-          "match_score": 61.2
+          "w_score": 61.7,
+          "l_score": 62.5,
+          "match_score": 62.5
         }
       ]
     },
@@ -11080,7 +11013,7 @@ window.TENNIS_DATA = {
           "l": "Fiona Ferro",
           "l_logo": "",
           "score": "6-0 4-6 7-6 (8-6)",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 41.0,
           "l_score": null,
@@ -11100,26 +11033,363 @@ window.TENNIS_DATA = {
           "l": "Anna Bondar",
           "l_logo": "",
           "score": "6-3 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
-          "w_score": 58.4,
-          "l_score": 54.7,
-          "match_score": 58.4
+          "w_score": 62.8,
+          "l_score": 57.3,
+          "match_score": 62.8
+        }
+      ]
+    }
+  ],
+  "WTA_TODAY": [
+    {
+      "name": "Odlum Brown VanOpen",
+      "level": "Masters 1000",
+      "surface": "Hard",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Mananchaya Sawangkaew",
+          "w_logo": "",
+          "l": "En-Shuo Liang",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 38.3,
+          "l_score": null,
+          "match_score": 38.3
+        },
+        {
+          "round": "R128",
+          "w": "Kayla Day",
+          "w_logo": "",
+          "l": "Mai Hontama",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 37.0,
+          "l_score": null,
+          "match_score": 37.0
+        },
+        {
+          "round": "R128",
+          "w": "Kyoka Okamura",
+          "w_logo": "",
+          "l": "Hayu Kinoshita",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Mubadala DC Open",
+      "level": "500",
+      "surface": "Hard",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Madison Keys",
+          "w_logo": "",
+          "l": "Liudmila Samsonova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 80.5,
+          "l_score": 59.8,
+          "match_score": 80.5
+        },
+        {
+          "round": "R128",
+          "w": "Emma Navarro",
+          "w_logo": "",
+          "l": "Sofia Kenin",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 71.1,
+          "l_score": 51.5,
+          "match_score": 71.1
+        },
+        {
+          "round": "R128",
+          "w": "Leylah Fernandez",
+          "w_logo": "",
+          "l": "Magda Linette",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 67.0,
+          "l_score": 62.1,
+          "match_score": 67.0
+        },
+        {
+          "round": "R128",
+          "w": "Clara Tauson",
+          "w_logo": "",
+          "l": "Elisabetta Cocciaretto",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 65.8,
+          "l_score": 61.3,
+          "match_score": 65.8
+        },
+        {
+          "round": "R128",
+          "w": "Katie Boulter",
+          "w_logo": "",
+          "l": "Ashlyn Krueger",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 63.0,
+          "l_score": 57.6,
+          "match_score": 63.0
+        },
+        {
+          "round": "R128",
+          "w": "Janice Tjen",
+          "w_logo": "",
+          "l": "Rebecca Sramkova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 55.5,
+          "l_score": 48.0,
+          "match_score": 55.5
+        }
+      ]
+    },
+    {
+      "name": "The Memphis Classic",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Camila Osorio",
+          "w_logo": "",
+          "l": "Storm Hunter",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 66.1,
+          "l_score": null,
+          "match_score": 66.1
+        },
+        {
+          "round": "R128",
+          "w": "Maya Joint",
+          "w_logo": "",
+          "l": "Whitney Osuigwe",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 59.5,
+          "l_score": null,
+          "match_score": 59.5
+        },
+        {
+          "round": "R128",
+          "w": "Viktorija Golubic",
+          "w_logo": "",
+          "l": "Katie Volynets",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 58.3,
+          "l_score": 45.4,
+          "match_score": 58.3
+        },
+        {
+          "round": "R128",
+          "w": "Solana Sierra",
+          "w_logo": "",
+          "l": "Tatiana Prozorova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 57.1,
+          "l_score": null,
+          "match_score": 57.1
+        },
+        {
+          "round": "R128",
+          "w": "Talia Gibson",
+          "w_logo": "",
+          "l": "Tatjana Maria",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 54.1,
+          "l_score": 50.8,
+          "match_score": 54.1
+        },
+        {
+          "round": "R128",
+          "w": "Anastasia Zakharova",
+          "w_logo": "",
+          "l": "Linda Fruhvirtova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 43.7,
+          "l_score": null,
+          "match_score": 43.7
+        },
+        {
+          "round": "R128",
+          "w": "Elvina Kalieva",
+          "w_logo": "",
+          "l": "Katherine Sebov",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 42.3,
+          "l_score": null,
+          "match_score": 42.3
+        },
+        {
+          "round": "R128",
+          "w": "Reese Brantmeier",
+          "w_logo": "",
+          "l": "Iryna Shymanovich",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Axeria Open 2026 powered by Intaro Sport",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Kaitlin Quevedo",
+          "w_logo": "",
+          "l": "Irina Fetecau",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 46.7,
+          "l_score": null,
+          "match_score": 46.7
+        },
+        {
+          "round": "R128",
+          "w": "Darja Semenistaja",
+          "w_logo": "",
+          "l": "Mia Ristic",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 38.5,
+          "l_score": null,
+          "match_score": 38.5
+        },
+        {
+          "round": "R128",
+          "w": "Leyre Romero Gormaz",
+          "w_logo": "",
+          "l": "Sara Sorribes Tormo",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 36.1,
+          "l_score": null,
+          "match_score": 36.1
+        },
+        {
+          "round": "R128",
+          "w": "Elena Ruxandra Bertea",
+          "w_logo": "",
+          "l": "Elena Malygina",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Julie Struplova",
+          "w_logo": "",
+          "l": "Alice Rame",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Mia Pohankova",
+          "w_logo": "",
+          "l": "Caijsa Hennemann",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Sofya Lansere",
+          "w_logo": "",
+          "l": "Irene Burillo",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
         }
       ]
     }
   ],
   "ATP_TOURNAMENT": {
-    "name": "Millennium Estoril Open · Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+    "name": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
     "level": "ATP 250",
     "surface": "",
     "tour": "ATP",
     "events": [
-      {
-        "name": "Millennium Estoril Open",
-        "level": "ATP 250",
-        "surface": ""
-      },
       {
         "name": "Mifel Tennis Open by Telcel Oppo",
         "level": "ATP 250",
@@ -11134,16 +11404,18 @@ window.TENNIS_DATA = {
     "alive": [
       "Adam Walton",
       "Adrian Mannarino",
+      "Aidan Mayo",
       "Alejandro Tabilo",
       "Aleksandar Kovacevic",
       "Aleksandar Vukic",
+      "Alex Hernandez",
       "Alex Michelsen",
       "Alex de Minaur",
-      "Alexander Blockx",
       "Andres Martin",
-      "Andrey Rublev",
       "Arthur Fils",
+      "Arthur Gea",
       "Ben Shelton",
+      "Bernard Tomic",
       "Brandon Nakashima",
       "Cameron Norrie",
       "Chak Lam Coleman Wong",
@@ -11153,87 +11425,50 @@ window.TENNIS_DATA = {
       "Darwin Blanch",
       "Denis Shapovalov",
       "Frances Tiafoe",
-      "Gonzalo Bueno",
+      "Gabriel Diallo",
       "Grigor Dimitrov",
-      "Hugo Gaston",
       "Jack Draper",
-      "Jaime Faria",
       "Jakub Mensik",
+      "James Duckworth",
       "Jenson Brooksby",
       "Kamil Majchrzak",
       "Kei Nishikori",
-      "Kyrian Jacquet",
       "Learner Tien",
       "Lorenzo Musetti",
-      "Luca Van Assche",
-      "Luciano Darderi",
       "Marcos Giron",
       "Martin Damm",
       "Martin Landaluce",
       "Matteo Arnaldi",
       "Michael Zheng",
       "Moise Kouame",
-      "Nuno Borges",
-      "Pablo Carreno Busta",
-      "Pedro Martinez",
       "Rafael Jodar",
       "Rinky Hijikata",
       "Rodrigo Pacheco Mendez",
-      "Roman Andres Burruchaga",
       "Shang Juncheng",
       "Sho Shimabukuro",
+      "SoonWoo Kwon",
       "Stefanos Tsitsipas",
       "Tallon Griekspoor",
       "Taylor Fritz",
       "Terence Atmane",
-      "Tiago Torres",
-      "Timofey Skatov",
-      "Titouan Droguet",
       "Tomas Martin Etcheverry",
       "Tommy Paul",
       "Trevor Svajda",
+      "Tristan Boyer",
       "Ugo Humbert",
       "Zachary Svajda",
       "Zizou Bergs"
     ],
-    "out": [
-      "Botic Van De Zandschulp",
-      "Camilo Ugo Carabelli",
-      "Damir Dzumhur",
-      "Daniel Merida",
-      "Frederico Ferreira Silva",
-      "Henrique Rocha",
-      "Jesper de Jong",
-      "Nikoloz Basilashvili",
-      "Orlando Luz",
-      "Stan Wawrinka",
-      "Tiago Pereira",
-      "Vilius Gaubas"
-    ],
-    "aliveCount": 63,
-    "matchesSeen": 51
+    "out": [],
+    "aliveCount": 56,
+    "matchesSeen": 28
   },
   "WTA_TOURNAMENT": {
-    "name": "Livesport Prague Open · Palermo Ladies Open · MSC Hamburg Ladies Open · Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-    "level": "WTA 250",
-    "surface": "",
+    "name": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+    "level": "Masters 1000",
+    "surface": "Hard",
     "tour": "WTA",
     "events": [
-      {
-        "name": "Livesport Prague Open",
-        "level": "WTA 250",
-        "surface": ""
-      },
-      {
-        "name": "Palermo Ladies Open",
-        "level": "WTA 250",
-        "surface": ""
-      },
-      {
-        "name": "MSC Hamburg Ladies Open",
-        "level": "WTA 250",
-        "surface": ""
-      },
       {
         "name": "Odlum Brown VanOpen",
         "level": "Masters 1000",
@@ -11261,48 +11496,35 @@ window.TENNIS_DATA = {
       "Alexandra Eala",
       "Alexandra Vagramov",
       "Alice Rame",
-      "Alina Charaeva",
       "Anastasia Potapova",
       "Anastasia Zakharova",
       "Anastasiia Sobolieva",
-      "Anhelina Kalinina",
       "Ann Li",
-      "Anna Bondar",
       "Anna Kalinskaya",
       "Annabelle Xu",
       "Ariana Arseneault",
       "Ashlyn Krueger",
-      "Ayla Aksu",
-      "Barbora Krejcikova",
       "Cadence Brace",
       "Caijsa Hennemann",
-      "Carol Young Suh Lee",
+      "Camila Osorio",
       "Carol Zhao",
       "Carole Monnet",
       "Caroline Dolehide",
       "Catherine McNally",
       "Chloe Paquet",
-      "Clara Burel",
       "Clara Tauson",
       "Cristina Bucsa",
-      "Dalila Spiteri",
       "Daria Kasatkina",
-      "Daria Snigur",
       "Darja Semenistaja",
       "Darja Vidmanova",
-      "Dominika Salkova",
-      "Ekaterine Gorgodze",
+      "Ekaterina Alexandrova",
       "Elena Malygina",
       "Elena Ruxandra Bertea",
-      "Elina Avanesyan",
       "Elisabetta Cocciaretto",
-      "Elsa Jacquemot",
+      "Elvina Kalieva",
       "Emerson Jones",
       "Emma Navarro",
       "En-Shuo Liang",
-      "Erika Andreeva",
-      "Federica Urgesi",
-      "Fiona Ferro",
       "Francesca Jones",
       "Greet Minnen",
       "Harriet Dart",
@@ -11310,29 +11532,27 @@ window.TENNIS_DATA = {
       "Hayu Kinoshita",
       "Irene Burillo",
       "Irina Fetecau",
+      "Iryna Shymanovich",
       "Janice Tjen",
-      "Jennifer Ruggeri",
-      "Julia Stusek",
       "Julie Struplova",
       "Julieta Pareja",
       "Kaitlin Quevedo",
+      "Katherine Sebov",
       "Katie Boulter",
       "Katie Volynets",
       "Kayla Cross",
       "Kayla Day",
+      "Kimberly Birrell",
+      "Kristina Liutova",
       "Kyoka Okamura",
-      "Lanlana Tararudee",
       "Laura Samson",
       "Leylah Fernandez",
       "Leyre Romero Gormaz",
-      "Lilli Tagger",
       "Linda Fruhvirtova",
       "Liudmila Samsonova",
       "Lizette Cabrera",
-      "Lola Radivojevic",
       "Lu Jia-Jing",
-      "Lucia Bronzetti",
-      "Lucie Havlickova",
+      "Ma YeXin",
       "Maddison Inglis",
       "Madison Brengle",
       "Madison Keys",
@@ -11341,106 +11561,47 @@ window.TENNIS_DATA = {
       "Mai Hontama",
       "Maia Ilinca Burcescu",
       "Mananchaya Sawangkaew",
-      "Maria Lourdes Carle",
-      "Maria Timofeeva",
-      "Marie Bouzkova",
       "Marina Bassols Ribera",
       "Mary Stoiana",
       "Maya Joint",
-      "Mayar Sherif",
       "McCartney Kessler",
       "Mia Pohankova",
       "Mia Ristic",
-      "Mina Hodzic",
       "Miriam Bulgaru",
       "Nao Hibino",
-      "Nikola Bartunkova",
-      "Noemi Basiletti",
-      "Noma Noha Akugue",
-      "Oceane Dodin",
-      "Oleksandra Oliynykova",
-      "Panna Udvardy",
-      "Paula Badosa",
       "Peyton Stearns",
       "Polina Kudermetova",
       "Rebecca Sramkova",
+      "Reese Brantmeier",
       "Renata Zarazua",
-      "Sara Bejlek",
       "Sara Sorribes Tormo",
       "Selena Janicijevic",
-      "Sinja Kraus",
       "Sloane Stephens",
       "Sofia Costoulas",
       "Sofia Kenin",
       "Sofya Lansere",
+      "Solana Sierra",
+      "Storm Hunter",
       "Talia Gibson",
-      "Tamara Korpatsch",
+      "Tatiana Prozorova",
       "Tatjana Maria",
       "Taylah Preston",
       "Teah Chavez",
-      "Tereza Valentova",
       "Venus Williams",
       "Viktorija Golubic",
       "Wang Xinyu",
       "Wang Xiyu",
       "Whitney Osuigwe",
-      "Yasmine Kabbaj",
-      "Yulia Putintseva",
       "Yuliia Starodubtseva",
       "Zeynep Sonmez",
       "Zheng Qinwen"
     ],
-    "out": [
-      "Alessandra Mazzola",
-      "Aliaksandra Sasnovich",
-      "Alisa Oktiabreva",
-      "Alycia Parks",
-      "Amarissa Toth",
-      "Anastasia Abbagnato",
-      "Anastasia Tikhonova",
-      "Ane Mintegi Del Olmo",
-      "Anna Blinkova",
-      "Antonia Ruzic",
-      "Arantxa Rus",
-      "Caroline Werner",
-      "Darya Astakhova",
-      "Deborah Chiesa",
-      "Diane Parry",
-      "Elena Pridankina",
-      "Elizara Yaneva",
-      "Ella Seidel",
-      "Gao Xinyu",
-      "Ilary Pistola",
-      "Jana Kovackova",
-      "Jessica Bouzas Maneiro",
-      "Jule Niemeier",
-      "Katarzyna Kawa",
-      "Lina Gjorcheska",
-      "Mona Barthel",
-      "Moyuka Uchijima",
-      "Nadia Podoroska",
-      "Nastasja Schunk",
-      "Priscilla Hon",
-      "Raluka Serban",
-      "Ren Yufei",
-      "Simona Waltert",
-      "Tamara Zidansek",
-      "Tessa Johanna Brockmann",
-      "Valentina Steiner",
-      "Veronika Erjavec",
-      "Veronika Podrez",
-      "Victoria Jimenez Kasintseva",
-      "Yuan Yue"
-    ],
-    "aliveCount": 133,
-    "matchesSeen": 139
+    "out": [],
+    "aliveCount": 104,
+    "matchesSeen": 52
   },
   "ATP_SCORE_LOG": {
     "206173": [
-      [
-        "20260710",
-        100.0
-      ],
       [
         "20260711",
         100.0
@@ -11503,15 +11664,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        100.0
+      ],
+      [
+        "20260727",
         100.0
       ]
     ],
     "207989": [
       [
-        "20260710",
-        91.0
-      ],
-      [
         "20260711",
         91.0
       ],
@@ -11574,84 +11735,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         90.9
-      ]
-    ],
-    "100644": [
-      [
-        "20260710",
-        87.4
       ],
       [
-        "20260711",
-        87.4
-      ],
-      [
-        "20260712",
-        87.4
-      ],
-      [
-        "20260713",
-        87.5
-      ],
-      [
-        "20260714",
-        87.5
-      ],
-      [
-        "20260715",
-        87.5
-      ],
-      [
-        "20260716",
-        87.5
-      ],
-      [
-        "20260717",
-        87.5
-      ],
-      [
-        "20260718",
-        87.5
-      ],
-      [
-        "20260719",
-        87.5
-      ],
-      [
-        "20260720",
-        87.5
-      ],
-      [
-        "20260721",
-        87.5
-      ],
-      [
-        "20260722",
-        87.5
-      ],
-      [
-        "20260723",
-        87.5
-      ],
-      [
-        "20260724",
-        87.5
-      ],
-      [
-        "20260725",
-        87.5
-      ],
-      [
-        "20260726",
-        87.5
+        "20260727",
+        90.9
       ]
     ],
     "104925": [
       [
-        "20260710",
-        87.3
-      ],
-      [
         "20260711",
         87.3
       ],
@@ -11714,14 +11805,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         87.4
+      ],
+      [
+        "20260727",
+        87.7
+      ]
+    ],
+    "100644": [
+      [
+        "20260711",
+        87.4
+      ],
+      [
+        "20260712",
+        87.4
+      ],
+      [
+        "20260713",
+        87.5
+      ],
+      [
+        "20260714",
+        87.5
+      ],
+      [
+        "20260715",
+        87.5
+      ],
+      [
+        "20260716",
+        87.5
+      ],
+      [
+        "20260717",
+        87.5
+      ],
+      [
+        "20260718",
+        87.5
+      ],
+      [
+        "20260719",
+        87.5
+      ],
+      [
+        "20260720",
+        87.5
+      ],
+      [
+        "20260721",
+        87.5
+      ],
+      [
+        "20260722",
+        87.5
+      ],
+      [
+        "20260723",
+        87.5
+      ],
+      [
+        "20260724",
+        87.5
+      ],
+      [
+        "20260725",
+        87.5
+      ],
+      [
+        "20260726",
+        87.5
+      ],
+      [
+        "20260727",
+        87.5
       ]
     ],
     "209950": [
       [
-        "20260710",
-        82.3
-      ],
-      [
         "20260711",
         82.3
       ],
@@ -11784,14 +11945,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         82.5
+      ],
+      [
+        "20260727",
+        82.6
       ]
     ],
     "134770": [
       [
-        "20260710",
-        81.3
-      ],
-      [
         "20260711",
         81.3
       ],
@@ -11854,84 +12015,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         81.2
-      ]
-    ],
-    "207518": [
-      [
-        "20260710",
-        79.4
       ],
       [
-        "20260711",
-        79.4
-      ],
-      [
-        "20260712",
-        79.4
-      ],
-      [
-        "20260713",
-        79.6
-      ],
-      [
-        "20260714",
-        79.6
-      ],
-      [
-        "20260715",
-        79.6
-      ],
-      [
-        "20260716",
-        79.6
-      ],
-      [
-        "20260717",
-        79.6
-      ],
-      [
-        "20260718",
-        79.6
-      ],
-      [
-        "20260719",
-        79.6
-      ],
-      [
-        "20260720",
-        79.5
-      ],
-      [
-        "20260721",
-        79.5
-      ],
-      [
-        "20260722",
-        79.5
-      ],
-      [
-        "20260723",
-        79.5
-      ],
-      [
-        "20260724",
-        79.5
-      ],
-      [
-        "20260725",
-        79.5
-      ],
-      [
-        "20260726",
-        79.5
+        "20260727",
+        81.2
       ]
     ],
     "126205": [
       [
-        "20260710",
-        79.3
-      ],
-      [
         "20260711",
         79.3
       ],
@@ -11993,15 +12084,85 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        79.5
+      ],
+      [
+        "20260727",
+        79.8
+      ]
+    ],
+    "207518": [
+      [
+        "20260711",
+        79.4
+      ],
+      [
+        "20260712",
+        79.4
+      ],
+      [
+        "20260713",
+        79.6
+      ],
+      [
+        "20260714",
+        79.6
+      ],
+      [
+        "20260715",
+        79.6
+      ],
+      [
+        "20260716",
+        79.6
+      ],
+      [
+        "20260717",
+        79.6
+      ],
+      [
+        "20260718",
+        79.6
+      ],
+      [
+        "20260719",
+        79.6
+      ],
+      [
+        "20260720",
+        79.5
+      ],
+      [
+        "20260721",
+        79.5
+      ],
+      [
+        "20260722",
+        79.5
+      ],
+      [
+        "20260723",
+        79.5
+      ],
+      [
+        "20260724",
+        79.5
+      ],
+      [
+        "20260725",
+        79.5
+      ],
+      [
+        "20260726",
+        79.5
+      ],
+      [
+        "20260727",
         79.5
       ]
     ],
     "106421": [
       [
-        "20260710",
-        78.5
-      ],
-      [
         "20260711",
         78.5
       ],
@@ -12064,84 +12225,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         78.7
-      ]
-    ],
-    "200000": [
-      [
-        "20260710",
-        77.6
       ],
       [
-        "20260711",
-        77.6
-      ],
-      [
-        "20260712",
-        77.6
-      ],
-      [
-        "20260713",
-        77.7
-      ],
-      [
-        "20260714",
-        77.7
-      ],
-      [
-        "20260715",
-        77.7
-      ],
-      [
-        "20260716",
-        77.7
-      ],
-      [
-        "20260717",
-        77.7
-      ],
-      [
-        "20260718",
-        77.7
-      ],
-      [
-        "20260719",
-        77.7
-      ],
-      [
-        "20260720",
-        77.7
-      ],
-      [
-        "20260721",
-        77.7
-      ],
-      [
-        "20260722",
-        77.7
-      ],
-      [
-        "20260723",
-        77.7
-      ],
-      [
-        "20260724",
-        77.7
-      ],
-      [
-        "20260725",
-        77.7
-      ],
-      [
-        "20260726",
-        77.7
+        "20260727",
+        78.8
       ]
     ],
     "212588": [
       [
-        "20260710",
-        77.5
-      ],
-      [
         "20260711",
         77.5
       ],
@@ -12203,15 +12294,85 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        77.7
+      ],
+      [
+        "20260727",
+        77.8
+      ]
+    ],
+    "200000": [
+      [
+        "20260711",
+        77.6
+      ],
+      [
+        "20260712",
+        77.6
+      ],
+      [
+        "20260713",
+        77.7
+      ],
+      [
+        "20260714",
+        77.7
+      ],
+      [
+        "20260715",
+        77.7
+      ],
+      [
+        "20260716",
+        77.7
+      ],
+      [
+        "20260717",
+        77.7
+      ],
+      [
+        "20260718",
+        77.7
+      ],
+      [
+        "20260719",
+        77.7
+      ],
+      [
+        "20260720",
+        77.7
+      ],
+      [
+        "20260721",
+        77.7
+      ],
+      [
+        "20260722",
+        77.7
+      ],
+      [
+        "20260723",
+        77.7
+      ],
+      [
+        "20260724",
+        77.7
+      ],
+      [
+        "20260725",
+        77.7
+      ],
+      [
+        "20260726",
+        77.7
+      ],
+      [
+        "20260727",
         77.7
       ]
     ],
     "200282": [
       [
-        "20260710",
-        76.9
-      ],
-      [
         "20260711",
         76.9
       ],
@@ -12274,84 +12435,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         77.1
-      ]
-    ],
-    "210097": [
-      [
-        "20260710",
-        76.4
       ],
       [
-        "20260711",
-        76.4
-      ],
-      [
-        "20260712",
-        76.4
-      ],
-      [
-        "20260713",
-        76.4
-      ],
-      [
-        "20260714",
-        76.4
-      ],
-      [
-        "20260715",
-        76.4
-      ],
-      [
-        "20260716",
-        76.4
-      ],
-      [
-        "20260717",
-        76.4
-      ],
-      [
-        "20260718",
-        76.4
-      ],
-      [
-        "20260719",
-        76.4
-      ],
-      [
-        "20260720",
-        76.4
-      ],
-      [
-        "20260721",
-        76.4
-      ],
-      [
-        "20260722",
-        76.4
-      ],
-      [
-        "20260723",
-        76.4
-      ],
-      [
-        "20260724",
-        76.4
-      ],
-      [
-        "20260725",
-        76.4
-      ],
-      [
-        "20260726",
-        76.4
+        "20260727",
+        77.0
       ]
     ],
     "208103": [
       [
-        "20260710",
-        76.1
-      ],
-      [
         "20260711",
         76.1
       ],
@@ -12414,14 +12505,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         76.4
+      ],
+      [
+        "20260727",
+        76.4
+      ]
+    ],
+    "210097": [
+      [
+        "20260711",
+        76.4
+      ],
+      [
+        "20260712",
+        76.4
+      ],
+      [
+        "20260713",
+        76.4
+      ],
+      [
+        "20260714",
+        76.4
+      ],
+      [
+        "20260715",
+        76.4
+      ],
+      [
+        "20260716",
+        76.4
+      ],
+      [
+        "20260717",
+        76.4
+      ],
+      [
+        "20260718",
+        76.4
+      ],
+      [
+        "20260719",
+        76.4
+      ],
+      [
+        "20260720",
+        76.4
+      ],
+      [
+        "20260721",
+        76.4
+      ],
+      [
+        "20260722",
+        76.4
+      ],
+      [
+        "20260723",
+        76.4
+      ],
+      [
+        "20260724",
+        76.4
+      ],
+      [
+        "20260725",
+        76.4
+      ],
+      [
+        "20260726",
+        76.4
+      ],
+      [
+        "20260727",
+        76.1
       ]
     ],
     "122330": [
       [
-        "20260710",
-        75.9
-      ],
-      [
         "20260711",
         75.9
       ],
@@ -12483,15 +12644,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        76.0
+      ],
+      [
+        "20260727",
         76.0
       ]
     ],
     "126203": [
       [
-        "20260710",
-        75.8
-      ],
-      [
         "20260711",
         75.8
       ],
@@ -12553,15 +12714,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        75.7
+      ],
+      [
+        "20260727",
         75.7
       ]
     ],
     "207925": [
       [
-        "20260710",
-        75.4
-      ],
-      [
         "20260711",
         75.4
       ],
@@ -12623,15 +12784,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        75.6
+      ],
+      [
+        "20260727",
         75.6
       ]
     ],
     "126094": [
       [
-        "20260710",
-        75.3
-      ],
-      [
         "20260711",
         75.3
       ],
@@ -12693,15 +12854,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        75.2
+      ],
+      [
+        "20260727",
         75.2
       ]
     ],
     "210530": [
       [
-        "20260710",
-        74.8
-      ],
-      [
         "20260711",
         74.8
       ],
@@ -12763,15 +12924,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        75.0
+      ],
+      [
+        "20260727",
         75.0
       ]
     ],
     "200473": [
       [
-        "20260710",
-        74.6
-      ],
-      [
         "20260711",
         74.6
       ],
@@ -12834,14 +12995,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         74.9
+      ],
+      [
+        "20260727",
+        75.0
       ]
     ],
     "126207": [
       [
-        "20260710",
-        74.3
-      ],
-      [
         "20260711",
         74.3
       ],
@@ -12904,14 +13065,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         74.6
+      ],
+      [
+        "20260727",
+        74.5
       ]
     ],
     "202103": [
       [
-        "20260710",
-        73.9
-      ],
-      [
         "20260711",
         73.9
       ],
@@ -12974,14 +13135,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         73.9
+      ],
+      [
+        "20260727",
+        74.1
       ]
     ],
     "211663": [
       [
-        "20260710",
-        73.5
-      ],
-      [
         "20260711",
         73.5
       ],
@@ -13044,84 +13205,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         73.4
-      ]
-    ],
-    "200221": [
-      [
-        "20260710",
-        72.6
       ],
       [
-        "20260711",
-        72.6
-      ],
-      [
-        "20260712",
-        72.6
-      ],
-      [
-        "20260713",
-        73.0
-      ],
-      [
-        "20260714",
-        73.0
-      ],
-      [
-        "20260715",
-        73.0
-      ],
-      [
-        "20260716",
-        73.0
-      ],
-      [
-        "20260717",
-        73.0
-      ],
-      [
-        "20260718",
-        73.0
-      ],
-      [
-        "20260719",
-        73.0
-      ],
-      [
-        "20260720",
-        73.0
-      ],
-      [
-        "20260721",
-        73.0
-      ],
-      [
-        "20260722",
-        73.0
-      ],
-      [
-        "20260723",
-        73.0
-      ],
-      [
-        "20260724",
-        73.0
-      ],
-      [
-        "20260725",
-        73.0
-      ],
-      [
-        "20260726",
-        73.0
+        "20260727",
+        73.6
       ]
     ],
     "210696": [
       [
-        "20260710",
-        72.0
-      ],
-      [
         "20260711",
         72.0
       ],
@@ -13184,14 +13275,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         72.0
+      ],
+      [
+        "20260727",
+        72.6
+      ]
+    ],
+    "200221": [
+      [
+        "20260711",
+        72.6
+      ],
+      [
+        "20260712",
+        72.6
+      ],
+      [
+        "20260713",
+        73.0
+      ],
+      [
+        "20260714",
+        73.0
+      ],
+      [
+        "20260715",
+        73.0
+      ],
+      [
+        "20260716",
+        73.0
+      ],
+      [
+        "20260717",
+        73.0
+      ],
+      [
+        "20260718",
+        73.0
+      ],
+      [
+        "20260719",
+        73.0
+      ],
+      [
+        "20260720",
+        73.0
+      ],
+      [
+        "20260721",
+        73.0
+      ],
+      [
+        "20260722",
+        73.0
+      ],
+      [
+        "20260723",
+        73.0
+      ],
+      [
+        "20260724",
+        73.0
+      ],
+      [
+        "20260725",
+        73.0
+      ],
+      [
+        "20260726",
+        73.0
+      ],
+      [
+        "20260727",
+        72.5
       ]
     ],
     "111575": [
       [
-        "20260710",
-        70.1
-      ],
-      [
         "20260711",
         70.1
       ],
@@ -13253,15 +13414,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        69.8
+      ],
+      [
+        "20260727",
         69.8
       ]
     ],
     "209860": [
       [
-        "20260710",
-        68.3
-      ],
-      [
         "20260711",
         68.3
       ],
@@ -13324,84 +13485,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         68.3
-      ]
-    ],
-    "206909": [
-      [
-        "20260710",
-        67.5
       ],
       [
-        "20260711",
-        67.5
-      ],
-      [
-        "20260712",
-        67.5
-      ],
-      [
-        "20260713",
-        67.5
-      ],
-      [
-        "20260714",
-        67.5
-      ],
-      [
-        "20260715",
-        67.5
-      ],
-      [
-        "20260716",
-        67.5
-      ],
-      [
-        "20260717",
-        67.5
-      ],
-      [
-        "20260718",
-        67.5
-      ],
-      [
-        "20260719",
-        67.5
-      ],
-      [
-        "20260720",
-        67.5
-      ],
-      [
-        "20260721",
-        67.5
-      ],
-      [
-        "20260722",
-        67.5
-      ],
-      [
-        "20260723",
-        67.5
-      ],
-      [
-        "20260724",
-        67.5
-      ],
-      [
-        "20260725",
-        67.5
-      ],
-      [
-        "20260726",
-        67.5
+        "20260727",
+        68.4
       ]
     ],
     "126610": [
       [
-        "20260710",
-        66.4
-      ],
-      [
         "20260711",
         66.4
       ],
@@ -13464,14 +13555,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         67.5
+      ],
+      [
+        "20260727",
+        67.6
+      ]
+    ],
+    "206909": [
+      [
+        "20260711",
+        67.5
+      ],
+      [
+        "20260712",
+        67.5
+      ],
+      [
+        "20260713",
+        67.5
+      ],
+      [
+        "20260714",
+        67.5
+      ],
+      [
+        "20260715",
+        67.5
+      ],
+      [
+        "20260716",
+        67.5
+      ],
+      [
+        "20260717",
+        67.5
+      ],
+      [
+        "20260718",
+        67.5
+      ],
+      [
+        "20260719",
+        67.5
+      ],
+      [
+        "20260720",
+        67.5
+      ],
+      [
+        "20260721",
+        67.5
+      ],
+      [
+        "20260722",
+        67.5
+      ],
+      [
+        "20260723",
+        67.5
+      ],
+      [
+        "20260724",
+        67.5
+      ],
+      [
+        "20260725",
+        67.5
+      ],
+      [
+        "20260726",
+        67.5
+      ],
+      [
+        "20260727",
+        67.4
       ]
     ],
     "207830": [
       [
-        "20260710",
-        67.2
-      ],
-      [
         "20260711",
         67.2
       ],
@@ -13534,14 +13695,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         66.9
+      ],
+      [
+        "20260727",
+        66.7
       ]
     ],
     "200005": [
       [
-        "20260710",
-        66.4
-      ],
-      [
         "20260711",
         66.4
       ],
@@ -13603,15 +13764,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        66.6
+      ],
+      [
+        "20260727",
         66.6
       ]
     ],
     "126214": [
       [
-        "20260710",
-        66.2
-      ],
-      [
         "20260711",
         66.2
       ],
@@ -13674,14 +13835,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         66.6
+      ],
+      [
+        "20260727",
+        66.6
+      ]
+    ],
+    "210506": [
+      [
+        "20260711",
+        65.6
+      ],
+      [
+        "20260712",
+        65.6
+      ],
+      [
+        "20260713",
+        65.7
+      ],
+      [
+        "20260714",
+        65.7
+      ],
+      [
+        "20260715",
+        65.7
+      ],
+      [
+        "20260716",
+        65.7
+      ],
+      [
+        "20260717",
+        65.7
+      ],
+      [
+        "20260718",
+        65.7
+      ],
+      [
+        "20260719",
+        65.7
+      ],
+      [
+        "20260720",
+        65.9
+      ],
+      [
+        "20260721",
+        65.9
+      ],
+      [
+        "20260722",
+        65.9
+      ],
+      [
+        "20260723",
+        65.9
+      ],
+      [
+        "20260724",
+        65.9
+      ],
+      [
+        "20260725",
+        65.9
+      ],
+      [
+        "20260726",
+        65.9
+      ],
+      [
+        "20260727",
+        66.4
       ]
     ],
     "111815": [
       [
-        "20260710",
-        67.2
-      ],
-      [
         "20260711",
         67.2
       ],
@@ -13743,15 +13974,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        66.2
+      ],
+      [
+        "20260727",
         66.2
       ]
     ],
     "209260": [
       [
-        "20260710",
-        66.4
-      ],
-      [
         "20260711",
         66.4
       ],
@@ -13814,84 +14045,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         65.9
-      ]
-    ],
-    "210506": [
+      ],
       [
-        "20260710",
+        "20260727",
         65.6
-      ],
-      [
-        "20260711",
-        65.6
-      ],
-      [
-        "20260712",
-        65.6
-      ],
-      [
-        "20260713",
-        65.7
-      ],
-      [
-        "20260714",
-        65.7
-      ],
-      [
-        "20260715",
-        65.7
-      ],
-      [
-        "20260716",
-        65.7
-      ],
-      [
-        "20260717",
-        65.7
-      ],
-      [
-        "20260718",
-        65.7
-      ],
-      [
-        "20260719",
-        65.7
-      ],
-      [
-        "20260720",
-        65.9
-      ],
-      [
-        "20260721",
-        65.9
-      ],
-      [
-        "20260722",
-        65.9
-      ],
-      [
-        "20260723",
-        65.9
-      ],
-      [
-        "20260724",
-        65.9
-      ],
-      [
-        "20260725",
-        65.9
-      ],
-      [
-        "20260726",
-        65.9
       ]
     ],
     "126239": [
       [
-        "20260710",
-        65.5
-      ],
-      [
         "20260711",
         65.5
       ],
@@ -13954,84 +14115,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         65.7
+      ],
+      [
+        "20260727",
+        65.6
       ]
     ],
-    "202058": [
-      [
-        "20260710",
-        65.6
-      ],
+    "144684": [
       [
         "20260711",
-        65.6
+        62.5
       ],
       [
         "20260712",
-        65.6
+        62.5
       ],
       [
         "20260713",
-        65.1
+        62.6
       ],
       [
         "20260714",
-        65.1
+        62.6
       ],
       [
         "20260715",
-        65.1
+        62.6
       ],
       [
         "20260716",
-        65.1
+        62.6
       ],
       [
         "20260717",
-        65.1
+        62.6
       ],
       [
         "20260718",
-        65.1
+        62.6
       ],
       [
         "20260719",
-        65.1
+        62.6
       ],
       [
         "20260720",
-        65.6
+        64.7
       ],
       [
         "20260721",
-        65.6
+        64.7
       ],
       [
         "20260722",
-        65.6
+        64.7
       ],
       [
         "20260723",
-        65.6
+        64.7
       ],
       [
         "20260724",
-        65.6
+        64.7
       ],
       [
         "20260725",
-        65.6
+        64.7
       ],
       [
         "20260726",
-        65.6
+        64.7
+      ],
+      [
+        "20260727",
+        65.5
       ]
     ],
     "207733": [
       [
-        "20260710",
-        65.5
-      ],
-      [
         "20260711",
         65.5
       ],
@@ -14093,15 +14254,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        65.5
+      ],
+      [
+        "20260727",
         65.5
       ]
     ],
     "208286": [
       [
-        "20260710",
-        65.1
-      ],
-      [
         "20260711",
         65.1
       ],
@@ -14164,14 +14325,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         65.4
+      ],
+      [
+        "20260727",
+        65.2
       ]
     ],
     "126774": [
       [
-        "20260710",
-        61.1
-      ],
-      [
         "20260711",
         61.1
       ],
@@ -14233,15 +14394,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        65.2
+      ],
+      [
+        "20260727",
         65.2
       ]
     ],
     "144869": [
       [
-        "20260710",
-        64.9
-      ],
-      [
         "20260711",
         64.9
       ],
@@ -14303,85 +14464,155 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        65.0
+      ],
+      [
+        "20260727",
         65.0
       ]
     ],
-    "144684": [
-      [
-        "20260710",
-        62.5
-      ],
+    "209414": [
       [
         "20260711",
-        62.5
+        61.2
       ],
       [
         "20260712",
-        62.5
+        61.2
       ],
       [
         "20260713",
-        62.6
+        60.7
       ],
       [
         "20260714",
-        62.6
+        60.7
       ],
       [
         "20260715",
-        62.6
+        60.7
       ],
       [
         "20260716",
-        62.6
+        60.7
       ],
       [
         "20260717",
-        62.6
+        60.7
       ],
       [
         "20260718",
-        62.6
+        60.7
       ],
       [
         "20260719",
-        62.6
+        60.7
       ],
       [
         "20260720",
-        64.7
+        61.6
       ],
       [
         "20260721",
-        64.7
+        61.6
       ],
       [
         "20260722",
-        64.7
+        61.6
       ],
       [
         "20260723",
-        64.7
+        61.6
       ],
       [
         "20260724",
-        64.7
+        61.6
       ],
       [
         "20260725",
-        64.7
+        61.6
       ],
       [
         "20260726",
-        64.7
+        61.6
+      ],
+      [
+        "20260727",
+        64.9
+      ]
+    ],
+    "202058": [
+      [
+        "20260711",
+        65.6
+      ],
+      [
+        "20260712",
+        65.6
+      ],
+      [
+        "20260713",
+        65.1
+      ],
+      [
+        "20260714",
+        65.1
+      ],
+      [
+        "20260715",
+        65.1
+      ],
+      [
+        "20260716",
+        65.1
+      ],
+      [
+        "20260717",
+        65.1
+      ],
+      [
+        "20260718",
+        65.1
+      ],
+      [
+        "20260719",
+        65.1
+      ],
+      [
+        "20260720",
+        65.6
+      ],
+      [
+        "20260721",
+        65.6
+      ],
+      [
+        "20260722",
+        65.6
+      ],
+      [
+        "20260723",
+        65.6
+      ],
+      [
+        "20260724",
+        65.6
+      ],
+      [
+        "20260725",
+        65.6
+      ],
+      [
+        "20260726",
+        65.6
+      ],
+      [
+        "20260727",
+        64.8
       ]
     ],
     "144719": [
       [
-        "20260710",
-        64.3
-      ],
-      [
         "20260711",
         64.3
       ],
@@ -14443,15 +14674,85 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        64.4
+      ],
+      [
+        "20260727",
+        64.4
+      ]
+    ],
+    "208363": [
+      [
+        "20260711",
+        65.0
+      ],
+      [
+        "20260712",
+        65.0
+      ],
+      [
+        "20260713",
+        64.0
+      ],
+      [
+        "20260714",
+        64.0
+      ],
+      [
+        "20260715",
+        64.0
+      ],
+      [
+        "20260716",
+        64.0
+      ],
+      [
+        "20260717",
+        64.0
+      ],
+      [
+        "20260718",
+        64.0
+      ],
+      [
+        "20260719",
+        64.0
+      ],
+      [
+        "20260720",
+        64.1
+      ],
+      [
+        "20260721",
+        64.1
+      ],
+      [
+        "20260722",
+        64.1
+      ],
+      [
+        "20260723",
+        64.1
+      ],
+      [
+        "20260724",
+        64.1
+      ],
+      [
+        "20260725",
+        64.1
+      ],
+      [
+        "20260726",
+        64.1
+      ],
+      [
+        "20260727",
         64.4
       ]
     ],
     "209920": [
       [
-        "20260710",
-        63.4
-      ],
-      [
         "20260711",
         63.4
       ],
@@ -14514,84 +14815,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         64.2
+      ],
+      [
+        "20260727",
+        64.1
       ]
     ],
-    "208363": [
-      [
-        "20260710",
-        65.0
-      ],
+    "105870": [
       [
         "20260711",
-        65.0
+        62.0
       ],
       [
         "20260712",
-        65.0
+        62.0
       ],
       [
         "20260713",
-        64.0
+        62.7
       ],
       [
         "20260714",
-        64.0
+        62.7
       ],
       [
         "20260715",
-        64.0
+        62.7
       ],
       [
         "20260716",
-        64.0
+        62.7
       ],
       [
         "20260717",
-        64.0
+        62.7
       ],
       [
         "20260718",
-        64.0
+        62.7
       ],
       [
         "20260719",
-        64.0
+        62.7
       ],
       [
         "20260720",
-        64.1
+        62.5
       ],
       [
         "20260721",
-        64.1
+        62.5
       ],
       [
         "20260722",
-        64.1
+        62.5
       ],
       [
         "20260723",
-        64.1
+        62.5
       ],
       [
         "20260724",
-        64.1
+        62.5
       ],
       [
         "20260725",
-        64.1
+        62.5
       ],
       [
         "20260726",
-        64.1
+        62.5
+      ],
+      [
+        "20260727",
+        63.3
       ]
     ],
     "134868": [
       [
-        "20260710",
-        64.0
-      ],
-      [
         "20260711",
         64.0
       ],
@@ -14654,84 +14955,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         63.2
-      ]
-    ],
-    "209098": [
-      [
-        "20260710",
-        63.4
       ],
       [
-        "20260711",
-        63.4
-      ],
-      [
-        "20260712",
-        63.4
-      ],
-      [
-        "20260713",
-        63.4
-      ],
-      [
-        "20260714",
-        63.4
-      ],
-      [
-        "20260715",
-        63.4
-      ],
-      [
-        "20260716",
-        63.4
-      ],
-      [
-        "20260717",
-        63.4
-      ],
-      [
-        "20260718",
-        63.4
-      ],
-      [
-        "20260719",
-        63.4
-      ],
-      [
-        "20260720",
-        63.1
-      ],
-      [
-        "20260721",
-        63.1
-      ],
-      [
-        "20260722",
-        63.1
-      ],
-      [
-        "20260723",
-        63.1
-      ],
-      [
-        "20260724",
-        63.1
-      ],
-      [
-        "20260725",
-        63.1
-      ],
-      [
-        "20260726",
+        "20260727",
         63.1
       ]
     ],
     "210084": [
       [
-        "20260710",
-        62.8
-      ],
-      [
         "20260711",
         62.8
       ],
@@ -14793,15 +15024,85 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        62.9
+      ],
+      [
+        "20260727",
+        63.0
+      ]
+    ],
+    "209098": [
+      [
+        "20260711",
+        63.4
+      ],
+      [
+        "20260712",
+        63.4
+      ],
+      [
+        "20260713",
+        63.4
+      ],
+      [
+        "20260714",
+        63.4
+      ],
+      [
+        "20260715",
+        63.4
+      ],
+      [
+        "20260716",
+        63.4
+      ],
+      [
+        "20260717",
+        63.4
+      ],
+      [
+        "20260718",
+        63.4
+      ],
+      [
+        "20260719",
+        63.4
+      ],
+      [
+        "20260720",
+        63.1
+      ],
+      [
+        "20260721",
+        63.1
+      ],
+      [
+        "20260722",
+        63.1
+      ],
+      [
+        "20260723",
+        63.1
+      ],
+      [
+        "20260724",
+        63.1
+      ],
+      [
+        "20260725",
+        63.1
+      ],
+      [
+        "20260726",
+        63.1
+      ],
+      [
+        "20260727",
         62.9
       ]
     ],
     "128034": [
       [
-        "20260710",
-        60.0
-      ],
-      [
         "20260711",
         60.0
       ],
@@ -14864,154 +15165,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         62.9
-      ]
-    ],
-    "105870": [
-      [
-        "20260710",
-        62.0
       ],
       [
-        "20260711",
-        62.0
-      ],
-      [
-        "20260712",
-        62.0
-      ],
-      [
-        "20260713",
-        62.7
-      ],
-      [
-        "20260714",
-        62.7
-      ],
-      [
-        "20260715",
-        62.7
-      ],
-      [
-        "20260716",
-        62.7
-      ],
-      [
-        "20260717",
-        62.7
-      ],
-      [
-        "20260718",
-        62.7
-      ],
-      [
-        "20260719",
-        62.7
-      ],
-      [
-        "20260720",
-        62.5
-      ],
-      [
-        "20260721",
-        62.5
-      ],
-      [
-        "20260722",
-        62.5
-      ],
-      [
-        "20260723",
-        62.5
-      ],
-      [
-        "20260724",
-        62.5
-      ],
-      [
-        "20260725",
-        62.5
-      ],
-      [
-        "20260726",
-        62.5
-      ]
-    ],
-    "122298": [
-      [
-        "20260710",
-        62.2
-      ],
-      [
-        "20260711",
-        62.2
-      ],
-      [
-        "20260712",
-        62.2
-      ],
-      [
-        "20260713",
-        62.2
-      ],
-      [
-        "20260714",
-        62.2
-      ],
-      [
-        "20260715",
-        62.2
-      ],
-      [
-        "20260716",
-        62.2
-      ],
-      [
-        "20260717",
-        62.2
-      ],
-      [
-        "20260718",
-        62.2
-      ],
-      [
-        "20260719",
-        62.2
-      ],
-      [
-        "20260720",
-        62.2
-      ],
-      [
-        "20260721",
-        62.2
-      ],
-      [
-        "20260722",
-        62.2
-      ],
-      [
-        "20260723",
-        62.2
-      ],
-      [
-        "20260724",
-        62.2
-      ],
-      [
-        "20260725",
-        62.2
-      ],
-      [
-        "20260726",
-        62.2
+        "20260727",
+        62.8
       ]
     ],
     "209226": [
       [
-        "20260710",
-        61.1
-      ],
-      [
         "20260711",
         61.1
       ],
@@ -15074,154 +15235,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         62.2
-      ]
-    ],
-    "200267": [
-      [
-        "20260710",
-        61.6
       ],
       [
-        "20260711",
-        61.6
-      ],
-      [
-        "20260712",
-        61.6
-      ],
-      [
-        "20260713",
-        61.9
-      ],
-      [
-        "20260714",
-        61.9
-      ],
-      [
-        "20260715",
-        61.9
-      ],
-      [
-        "20260716",
-        61.9
-      ],
-      [
-        "20260717",
-        61.9
-      ],
-      [
-        "20260718",
-        61.9
-      ],
-      [
-        "20260719",
-        61.9
-      ],
-      [
-        "20260720",
-        62.1
-      ],
-      [
-        "20260721",
-        62.1
-      ],
-      [
-        "20260722",
-        62.1
-      ],
-      [
-        "20260723",
-        62.1
-      ],
-      [
-        "20260724",
-        62.1
-      ],
-      [
-        "20260725",
-        62.1
-      ],
-      [
-        "20260726",
-        62.1
-      ]
-    ],
-    "144895": [
-      [
-        "20260710",
+        "20260727",
         62.0
-      ],
-      [
-        "20260711",
-        62.0
-      ],
-      [
-        "20260712",
-        62.0
-      ],
-      [
-        "20260713",
-        62.1
-      ],
-      [
-        "20260714",
-        62.1
-      ],
-      [
-        "20260715",
-        62.1
-      ],
-      [
-        "20260716",
-        62.1
-      ],
-      [
-        "20260717",
-        62.1
-      ],
-      [
-        "20260718",
-        62.1
-      ],
-      [
-        "20260719",
-        62.1
-      ],
-      [
-        "20260720",
-        62.1
-      ],
-      [
-        "20260721",
-        62.1
-      ],
-      [
-        "20260722",
-        62.1
-      ],
-      [
-        "20260723",
-        62.1
-      ],
-      [
-        "20260724",
-        62.1
-      ],
-      [
-        "20260725",
-        62.1
-      ],
-      [
-        "20260726",
-        62.1
       ]
     ],
     "132686": [
       [
-        "20260710",
-        61.9
-      ],
-      [
         "20260711",
         61.9
       ],
@@ -15284,84 +15305,154 @@ window.TENNIS_DATA = {
       [
         "20260726",
         62.0
+      ],
+      [
+        "20260727",
+        61.9
       ]
     ],
-    "209414": [
-      [
-        "20260710",
-        61.2
-      ],
+    "200267": [
       [
         "20260711",
-        61.2
+        61.6
       ],
       [
         "20260712",
-        61.2
+        61.6
       ],
       [
         "20260713",
-        60.7
+        61.9
       ],
       [
         "20260714",
-        60.7
+        61.9
       ],
       [
         "20260715",
-        60.7
+        61.9
       ],
       [
         "20260716",
-        60.7
+        61.9
       ],
       [
         "20260717",
-        60.7
+        61.9
       ],
       [
         "20260718",
-        60.7
+        61.9
       ],
       [
         "20260719",
-        60.7
+        61.9
       ],
       [
         "20260720",
-        61.6
+        62.1
       ],
       [
         "20260721",
-        61.6
+        62.1
       ],
       [
         "20260722",
-        61.6
+        62.1
       ],
       [
         "20260723",
-        61.6
+        62.1
       ],
       [
         "20260724",
-        61.6
+        62.1
       ],
       [
         "20260725",
-        61.6
+        62.1
       ],
       [
         "20260726",
-        61.6
+        62.1
+      ],
+      [
+        "20260727",
+        61.8
+      ]
+    ],
+    "122298": [
+      [
+        "20260711",
+        62.2
+      ],
+      [
+        "20260712",
+        62.2
+      ],
+      [
+        "20260713",
+        62.2
+      ],
+      [
+        "20260714",
+        62.2
+      ],
+      [
+        "20260715",
+        62.2
+      ],
+      [
+        "20260716",
+        62.2
+      ],
+      [
+        "20260717",
+        62.2
+      ],
+      [
+        "20260718",
+        62.2
+      ],
+      [
+        "20260719",
+        62.2
+      ],
+      [
+        "20260720",
+        62.2
+      ],
+      [
+        "20260721",
+        62.2
+      ],
+      [
+        "20260722",
+        62.2
+      ],
+      [
+        "20260723",
+        62.2
+      ],
+      [
+        "20260724",
+        62.2
+      ],
+      [
+        "20260725",
+        62.2
+      ],
+      [
+        "20260726",
+        62.2
+      ],
+      [
+        "20260727",
+        60.6
       ]
     ],
     "207678": [
       [
-        "20260710",
-        61.4
-      ],
-      [
         "20260711",
         61.4
       ],
@@ -15423,15 +15514,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        60.5
+      ],
+      [
+        "20260727",
         60.5
       ]
     ],
     "206681": [
       [
-        "20260710",
-        60.4
-      ],
-      [
         "20260711",
         60.4
       ],
@@ -15494,154 +15585,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         60.3
+      ],
+      [
+        "20260727",
+        60.1
       ]
     ],
-    "200240": [
-      [
-        "20260710",
-        60.1
-      ],
+    "144895": [
       [
         "20260711",
-        60.1
+        62.0
       ],
       [
         "20260712",
-        60.1
+        62.0
       ],
       [
         "20260713",
-        60.1
+        62.1
       ],
       [
         "20260714",
-        60.1
+        62.1
       ],
       [
         "20260715",
-        60.1
+        62.1
       ],
       [
         "20260716",
-        60.1
+        62.1
       ],
       [
         "20260717",
-        60.1
+        62.1
       ],
       [
         "20260718",
-        60.1
+        62.1
       ],
       [
         "20260719",
+        62.1
+      ],
+      [
+        "20260720",
+        62.1
+      ],
+      [
+        "20260721",
+        62.1
+      ],
+      [
+        "20260722",
+        62.1
+      ],
+      [
+        "20260723",
+        62.1
+      ],
+      [
+        "20260724",
+        62.1
+      ],
+      [
+        "20260725",
+        62.1
+      ],
+      [
+        "20260726",
+        62.1
+      ],
+      [
+        "20260727",
         60.1
-      ],
-      [
-        "20260720",
-        59.7
-      ],
-      [
-        "20260721",
-        59.7
-      ],
-      [
-        "20260722",
-        59.7
-      ],
-      [
-        "20260723",
-        59.7
-      ],
-      [
-        "20260724",
-        59.7
-      ],
-      [
-        "20260725",
-        59.7
-      ],
-      [
-        "20260726",
-        59.7
-      ]
-    ],
-    "209279": [
-      [
-        "20260710",
-        59.1
-      ],
-      [
-        "20260711",
-        59.1
-      ],
-      [
-        "20260712",
-        59.1
-      ],
-      [
-        "20260713",
-        59.4
-      ],
-      [
-        "20260714",
-        59.4
-      ],
-      [
-        "20260715",
-        59.4
-      ],
-      [
-        "20260716",
-        59.4
-      ],
-      [
-        "20260717",
-        59.4
-      ],
-      [
-        "20260718",
-        59.4
-      ],
-      [
-        "20260719",
-        59.4
-      ],
-      [
-        "20260720",
-        59.5
-      ],
-      [
-        "20260721",
-        59.5
-      ],
-      [
-        "20260722",
-        59.5
-      ],
-      [
-        "20260723",
-        59.5
-      ],
-      [
-        "20260724",
-        59.5
-      ],
-      [
-        "20260725",
-        59.5
-      ],
-      [
-        "20260726",
-        59.5
       ]
     ],
     "202104": [
       [
-        "20260710",
-        59.1
-      ],
-      [
         "20260711",
         59.1
       ],
@@ -15704,14 +15725,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         59.3
+      ],
+      [
+        "20260727",
+        59.7
+      ]
+    ],
+    "200240": [
+      [
+        "20260711",
+        60.1
+      ],
+      [
+        "20260712",
+        60.1
+      ],
+      [
+        "20260713",
+        60.1
+      ],
+      [
+        "20260714",
+        60.1
+      ],
+      [
+        "20260715",
+        60.1
+      ],
+      [
+        "20260716",
+        60.1
+      ],
+      [
+        "20260717",
+        60.1
+      ],
+      [
+        "20260718",
+        60.1
+      ],
+      [
+        "20260719",
+        60.1
+      ],
+      [
+        "20260720",
+        59.7
+      ],
+      [
+        "20260721",
+        59.7
+      ],
+      [
+        "20260722",
+        59.7
+      ],
+      [
+        "20260723",
+        59.7
+      ],
+      [
+        "20260724",
+        59.7
+      ],
+      [
+        "20260725",
+        59.7
+      ],
+      [
+        "20260726",
+        59.7
+      ],
+      [
+        "20260727",
+        59.5
       ]
     ],
     "208882": [
       [
-        "20260710",
-        58.3
-      ],
-      [
         "20260711",
         58.3
       ],
@@ -15773,85 +15864,155 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        58.9
+      ],
+      [
+        "20260727",
+        59.2
+      ]
+    ],
+    "111460": [
+      [
+        "20260711",
+        54.0
+      ],
+      [
+        "20260712",
+        54.0
+      ],
+      [
+        "20260713",
+        54.6
+      ],
+      [
+        "20260714",
+        54.6
+      ],
+      [
+        "20260715",
+        54.6
+      ],
+      [
+        "20260716",
+        54.6
+      ],
+      [
+        "20260717",
+        54.6
+      ],
+      [
+        "20260718",
+        54.6
+      ],
+      [
+        "20260719",
+        54.6
+      ],
+      [
+        "20260720",
+        55.4
+      ],
+      [
+        "20260721",
+        55.4
+      ],
+      [
+        "20260722",
+        55.4
+      ],
+      [
+        "20260723",
+        55.4
+      ],
+      [
+        "20260724",
+        55.4
+      ],
+      [
+        "20260725",
+        55.4
+      ],
+      [
+        "20260726",
+        55.4
+      ],
+      [
+        "20260727",
         58.9
       ]
     ],
-    "202385": [
-      [
-        "20260710",
-        57.7
-      ],
+    "209279": [
       [
         "20260711",
-        57.7
+        59.1
       ],
       [
         "20260712",
-        57.7
+        59.1
       ],
       [
         "20260713",
-        58.3
+        59.4
       ],
       [
         "20260714",
-        58.3
+        59.4
       ],
       [
         "20260715",
-        58.3
+        59.4
       ],
       [
         "20260716",
-        58.3
+        59.4
       ],
       [
         "20260717",
-        58.3
+        59.4
       ],
       [
         "20260718",
-        58.3
+        59.4
       ],
       [
         "20260719",
-        58.3
+        59.4
       ],
       [
         "20260720",
-        58.5
+        59.5
       ],
       [
         "20260721",
-        58.5
+        59.5
       ],
       [
         "20260722",
-        58.5
+        59.5
       ],
       [
         "20260723",
-        58.5
+        59.5
       ],
       [
         "20260724",
-        58.5
+        59.5
       ],
       [
         "20260725",
-        58.5
+        59.5
       ],
       [
         "20260726",
-        58.5
+        59.5
+      ],
+      [
+        "20260727",
+        58.7
       ]
     ],
     "208118": [
       [
-        "20260710",
-        58.8
-      ],
-      [
         "20260711",
         58.8
       ],
@@ -15914,14 +16075,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         58.5
+      ],
+      [
+        "20260727",
+        58.5
+      ]
+    ],
+    "202385": [
+      [
+        "20260711",
+        57.7
+      ],
+      [
+        "20260712",
+        57.7
+      ],
+      [
+        "20260713",
+        58.3
+      ],
+      [
+        "20260714",
+        58.3
+      ],
+      [
+        "20260715",
+        58.3
+      ],
+      [
+        "20260716",
+        58.3
+      ],
+      [
+        "20260717",
+        58.3
+      ],
+      [
+        "20260718",
+        58.3
+      ],
+      [
+        "20260719",
+        58.3
+      ],
+      [
+        "20260720",
+        58.5
+      ],
+      [
+        "20260721",
+        58.5
+      ],
+      [
+        "20260722",
+        58.5
+      ],
+      [
+        "20260723",
+        58.5
+      ],
+      [
+        "20260724",
+        58.5
+      ],
+      [
+        "20260725",
+        58.5
+      ],
+      [
+        "20260726",
+        58.5
+      ],
+      [
+        "20260727",
+        58.2
       ]
     ],
     "120770": [
       [
-        "20260710",
-        55.4
-      ],
-      [
         "20260711",
         55.4
       ],
@@ -15984,84 +16215,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         58.3
-      ]
-    ],
-    "105916": [
-      [
-        "20260710",
-        58.0
       ],
       [
-        "20260711",
-        58.0
-      ],
-      [
-        "20260712",
-        58.0
-      ],
-      [
-        "20260713",
-        57.8
-      ],
-      [
-        "20260714",
-        57.8
-      ],
-      [
-        "20260715",
-        57.8
-      ],
-      [
-        "20260716",
-        57.8
-      ],
-      [
-        "20260717",
-        57.8
-      ],
-      [
-        "20260718",
-        57.8
-      ],
-      [
-        "20260719",
-        57.8
-      ],
-      [
-        "20260720",
-        58.1
-      ],
-      [
-        "20260721",
-        58.1
-      ],
-      [
-        "20260722",
-        58.1
-      ],
-      [
-        "20260723",
-        58.1
-      ],
-      [
-        "20260724",
-        58.1
-      ],
-      [
-        "20260725",
-        58.1
-      ],
-      [
-        "20260726",
+        "20260727",
         58.1
       ]
     ],
     "211776": [
       [
-        "20260710",
-        58.0
-      ],
-      [
         "20260711",
         58.0
       ],
@@ -16124,84 +16285,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         57.8
-      ]
-    ],
-    "105526": [
-      [
-        "20260710",
-        53.8
       ],
       [
-        "20260711",
-        53.8
-      ],
-      [
-        "20260712",
-        53.8
-      ],
-      [
-        "20260713",
-        57.6
-      ],
-      [
-        "20260714",
-        57.6
-      ],
-      [
-        "20260715",
-        57.6
-      ],
-      [
-        "20260716",
-        57.6
-      ],
-      [
-        "20260717",
-        57.6
-      ],
-      [
-        "20260718",
-        57.6
-      ],
-      [
-        "20260719",
-        57.6
-      ],
-      [
-        "20260720",
-        57.6
-      ],
-      [
-        "20260721",
-        57.6
-      ],
-      [
-        "20260722",
-        57.6
-      ],
-      [
-        "20260723",
-        57.6
-      ],
-      [
-        "20260724",
-        57.6
-      ],
-      [
-        "20260725",
-        57.6
-      ],
-      [
-        "20260726",
-        57.6
+        "20260727",
+        57.8
       ]
     ],
     "105227": [
       [
-        "20260710",
-        60.2
-      ],
-      [
         "20260711",
         60.2
       ],
@@ -16263,15 +16354,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        57.5
+      ],
+      [
+        "20260727",
         57.5
       ]
     ],
     "126504": [
       [
-        "20260710",
-        57.4
-      ],
-      [
         "20260711",
         57.4
       ],
@@ -16334,14 +16425,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         57.5
+      ],
+      [
+        "20260727",
+        57.5
+      ]
+    ],
+    "105526": [
+      [
+        "20260711",
+        53.8
+      ],
+      [
+        "20260712",
+        53.8
+      ],
+      [
+        "20260713",
+        57.6
+      ],
+      [
+        "20260714",
+        57.6
+      ],
+      [
+        "20260715",
+        57.6
+      ],
+      [
+        "20260716",
+        57.6
+      ],
+      [
+        "20260717",
+        57.6
+      ],
+      [
+        "20260718",
+        57.6
+      ],
+      [
+        "20260719",
+        57.6
+      ],
+      [
+        "20260720",
+        57.6
+      ],
+      [
+        "20260721",
+        57.6
+      ],
+      [
+        "20260722",
+        57.6
+      ],
+      [
+        "20260723",
+        57.6
+      ],
+      [
+        "20260724",
+        57.6
+      ],
+      [
+        "20260725",
+        57.6
+      ],
+      [
+        "20260726",
+        57.6
+      ],
+      [
+        "20260727",
+        57.4
       ]
     ],
     "111794": [
       [
-        "20260710",
-        60.3
-      ],
-      [
         "20260711",
         60.3
       ],
@@ -16403,15 +16564,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        57.4
+      ],
+      [
+        "20260727",
         57.4
       ]
     ],
     "200059": [
       [
-        "20260710",
-        57.4
-      ],
-      [
         "20260711",
         57.4
       ],
@@ -16473,15 +16634,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        57.4
+      ],
+      [
+        "20260727",
         57.4
       ]
     ],
     "133430": [
       [
-        "20260710",
-        60.1
-      ],
-      [
         "20260711",
         60.1
       ],
@@ -16544,13 +16705,13 @@ window.TENNIS_DATA = {
       [
         "20260726",
         57.3
+      ],
+      [
+        "20260727",
+        57.1
       ]
     ],
-    "200116": [
-      [
-        "20260710",
-        58.0
-      ],
+    "105916": [
       [
         "20260711",
         58.0
@@ -16561,67 +16722,67 @@ window.TENNIS_DATA = {
       ],
       [
         "20260713",
-        58.2
+        57.8
       ],
       [
         "20260714",
-        58.2
+        57.8
       ],
       [
         "20260715",
-        58.2
+        57.8
       ],
       [
         "20260716",
-        58.2
+        57.8
       ],
       [
         "20260717",
-        58.2
+        57.8
       ],
       [
         "20260718",
-        58.2
+        57.8
       ],
       [
         "20260719",
-        58.2
+        57.8
       ],
       [
         "20260720",
-        57.0
+        58.1
       ],
       [
         "20260721",
-        57.0
+        58.1
       ],
       [
         "20260722",
-        57.0
+        58.1
       ],
       [
         "20260723",
-        57.0
+        58.1
       ],
       [
         "20260724",
-        57.0
+        58.1
       ],
       [
         "20260725",
-        57.0
+        58.1
       ],
       [
         "20260726",
-        57.0
+        58.1
+      ],
+      [
+        "20260727",
+        57.1
       ]
     ],
     "200175": [
       [
-        "20260710",
-        57.6
-      ],
-      [
         "20260711",
         57.6
       ],
@@ -16684,14 +16845,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         56.8
+      ],
+      [
+        "20260727",
+        56.6
       ]
     ],
     "208169": [
       [
-        "20260710",
-        56.5
-      ],
-      [
         "20260711",
         56.5
       ],
@@ -16753,15 +16914,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        56.6
+      ],
+      [
+        "20260727",
         56.6
       ]
     ],
     "105807": [
       [
-        "20260710",
-        55.8
-      ],
-      [
         "20260711",
         55.8
       ],
@@ -16824,14 +16985,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         56.5
+      ],
+      [
+        "20260727",
+        56.3
+      ]
+    ],
+    "200116": [
+      [
+        "20260711",
+        58.0
+      ],
+      [
+        "20260712",
+        58.0
+      ],
+      [
+        "20260713",
+        58.2
+      ],
+      [
+        "20260714",
+        58.2
+      ],
+      [
+        "20260715",
+        58.2
+      ],
+      [
+        "20260716",
+        58.2
+      ],
+      [
+        "20260717",
+        58.2
+      ],
+      [
+        "20260718",
+        58.2
+      ],
+      [
+        "20260719",
+        58.2
+      ],
+      [
+        "20260720",
+        57.0
+      ],
+      [
+        "20260721",
+        57.0
+      ],
+      [
+        "20260722",
+        57.0
+      ],
+      [
+        "20260723",
+        57.0
+      ],
+      [
+        "20260724",
+        57.0
+      ],
+      [
+        "20260725",
+        57.0
+      ],
+      [
+        "20260726",
+        57.0
+      ],
+      [
+        "20260727",
+        56.2
       ]
     ],
     "208260": [
       [
-        "20260710",
-        56.9
-      ],
-      [
         "20260711",
         56.9
       ],
@@ -16894,14 +17125,154 @@ window.TENNIS_DATA = {
       [
         "20260726",
         56.2
+      ],
+      [
+        "20260727",
+        55.8
+      ]
+    ],
+    "200624": [
+      [
+        "20260711",
+        55.0
+      ],
+      [
+        "20260712",
+        55.0
+      ],
+      [
+        "20260713",
+        55.0
+      ],
+      [
+        "20260714",
+        55.0
+      ],
+      [
+        "20260715",
+        55.0
+      ],
+      [
+        "20260716",
+        55.0
+      ],
+      [
+        "20260717",
+        55.0
+      ],
+      [
+        "20260718",
+        55.0
+      ],
+      [
+        "20260719",
+        55.0
+      ],
+      [
+        "20260720",
+        54.9
+      ],
+      [
+        "20260721",
+        54.9
+      ],
+      [
+        "20260722",
+        54.9
+      ],
+      [
+        "20260723",
+        54.9
+      ],
+      [
+        "20260724",
+        54.9
+      ],
+      [
+        "20260725",
+        54.9
+      ],
+      [
+        "20260726",
+        54.9
+      ],
+      [
+        "20260727",
+        55.5
+      ]
+    ],
+    "210262": [
+      [
+        "20260711",
+        53.2
+      ],
+      [
+        "20260712",
+        53.2
+      ],
+      [
+        "20260713",
+        53.9
+      ],
+      [
+        "20260714",
+        53.9
+      ],
+      [
+        "20260715",
+        53.9
+      ],
+      [
+        "20260716",
+        53.9
+      ],
+      [
+        "20260717",
+        53.9
+      ],
+      [
+        "20260718",
+        53.9
+      ],
+      [
+        "20260719",
+        53.9
+      ],
+      [
+        "20260720",
+        54.3
+      ],
+      [
+        "20260721",
+        54.3
+      ],
+      [
+        "20260722",
+        54.3
+      ],
+      [
+        "20260723",
+        54.3
+      ],
+      [
+        "20260724",
+        54.3
+      ],
+      [
+        "20260725",
+        54.3
+      ],
+      [
+        "20260726",
+        54.3
+      ],
+      [
+        "20260727",
+        55.4
       ]
     ],
     "209113": [
       [
-        "20260710",
-        56.6
-      ],
-      [
         "20260711",
         56.6
       ],
@@ -16964,224 +17335,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         56.2
-      ]
-    ],
-    "209976": [
-      [
-        "20260710",
-        55.9
       ],
       [
-        "20260711",
-        55.9
-      ],
-      [
-        "20260712",
-        55.9
-      ],
-      [
-        "20260713",
-        56.6
-      ],
-      [
-        "20260714",
-        56.6
-      ],
-      [
-        "20260715",
-        56.6
-      ],
-      [
-        "20260716",
-        56.6
-      ],
-      [
-        "20260717",
-        56.6
-      ],
-      [
-        "20260718",
-        56.6
-      ],
-      [
-        "20260719",
-        56.6
-      ],
-      [
-        "20260720",
-        55.8
-      ],
-      [
-        "20260721",
-        55.8
-      ],
-      [
-        "20260722",
-        55.8
-      ],
-      [
-        "20260723",
-        55.8
-      ],
-      [
-        "20260724",
-        55.8
-      ],
-      [
-        "20260725",
-        55.8
-      ],
-      [
-        "20260726",
-        55.8
-      ]
-    ],
-    "132283": [
-      [
-        "20260710",
-        56.2
-      ],
-      [
-        "20260711",
-        56.2
-      ],
-      [
-        "20260712",
-        56.2
-      ],
-      [
-        "20260713",
-        54.7
-      ],
-      [
-        "20260714",
-        54.7
-      ],
-      [
-        "20260715",
-        54.7
-      ],
-      [
-        "20260716",
-        54.7
-      ],
-      [
-        "20260717",
-        54.7
-      ],
-      [
-        "20260718",
-        54.7
-      ],
-      [
-        "20260719",
-        54.7
-      ],
-      [
-        "20260720",
-        55.4
-      ],
-      [
-        "20260721",
-        55.4
-      ],
-      [
-        "20260722",
-        55.4
-      ],
-      [
-        "20260723",
-        55.4
-      ],
-      [
-        "20260724",
-        55.4
-      ],
-      [
-        "20260725",
-        55.4
-      ],
-      [
-        "20260726",
-        55.4
-      ]
-    ],
-    "111460": [
-      [
-        "20260710",
-        54.0
-      ],
-      [
-        "20260711",
-        54.0
-      ],
-      [
-        "20260712",
-        54.0
-      ],
-      [
-        "20260713",
-        54.6
-      ],
-      [
-        "20260714",
-        54.6
-      ],
-      [
-        "20260715",
-        54.6
-      ],
-      [
-        "20260716",
-        54.6
-      ],
-      [
-        "20260717",
-        54.6
-      ],
-      [
-        "20260718",
-        54.6
-      ],
-      [
-        "20260719",
-        54.6
-      ],
-      [
-        "20260720",
-        55.4
-      ],
-      [
-        "20260721",
-        55.4
-      ],
-      [
-        "20260722",
-        55.4
-      ],
-      [
-        "20260723",
-        55.4
-      ],
-      [
-        "20260724",
-        55.4
-      ],
-      [
-        "20260725",
-        55.4
-      ],
-      [
-        "20260726",
+        "20260727",
         55.4
       ]
     ],
     "208010": [
       [
-        "20260710",
-        55.1
-      ],
-      [
         "20260711",
         55.1
       ],
@@ -17244,14 +17405,154 @@ window.TENNIS_DATA = {
       [
         "20260726",
         55.2
+      ],
+      [
+        "20260727",
+        55.2
+      ]
+    ],
+    "132283": [
+      [
+        "20260711",
+        56.2
+      ],
+      [
+        "20260712",
+        56.2
+      ],
+      [
+        "20260713",
+        54.7
+      ],
+      [
+        "20260714",
+        54.7
+      ],
+      [
+        "20260715",
+        54.7
+      ],
+      [
+        "20260716",
+        54.7
+      ],
+      [
+        "20260717",
+        54.7
+      ],
+      [
+        "20260718",
+        54.7
+      ],
+      [
+        "20260719",
+        54.7
+      ],
+      [
+        "20260720",
+        55.4
+      ],
+      [
+        "20260721",
+        55.4
+      ],
+      [
+        "20260722",
+        55.4
+      ],
+      [
+        "20260723",
+        55.4
+      ],
+      [
+        "20260724",
+        55.4
+      ],
+      [
+        "20260725",
+        55.4
+      ],
+      [
+        "20260726",
+        55.4
+      ],
+      [
+        "20260727",
+        55.1
+      ]
+    ],
+    "209976": [
+      [
+        "20260711",
+        55.9
+      ],
+      [
+        "20260712",
+        55.9
+      ],
+      [
+        "20260713",
+        56.6
+      ],
+      [
+        "20260714",
+        56.6
+      ],
+      [
+        "20260715",
+        56.6
+      ],
+      [
+        "20260716",
+        56.6
+      ],
+      [
+        "20260717",
+        56.6
+      ],
+      [
+        "20260718",
+        56.6
+      ],
+      [
+        "20260719",
+        56.6
+      ],
+      [
+        "20260720",
+        55.8
+      ],
+      [
+        "20260721",
+        55.8
+      ],
+      [
+        "20260722",
+        55.8
+      ],
+      [
+        "20260723",
+        55.8
+      ],
+      [
+        "20260724",
+        55.8
+      ],
+      [
+        "20260725",
+        55.8
+      ],
+      [
+        "20260726",
+        55.8
+      ],
+      [
+        "20260727",
+        55.0
       ]
     ],
     "210338": [
       [
-        "20260710",
-        54.8
-      ],
-      [
         "20260711",
         54.8
       ],
@@ -17314,154 +17615,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         55.0
-      ]
-    ],
-    "200624": [
+      ],
       [
-        "20260710",
+        "20260727",
         55.0
-      ],
-      [
-        "20260711",
-        55.0
-      ],
-      [
-        "20260712",
-        55.0
-      ],
-      [
-        "20260713",
-        55.0
-      ],
-      [
-        "20260714",
-        55.0
-      ],
-      [
-        "20260715",
-        55.0
-      ],
-      [
-        "20260716",
-        55.0
-      ],
-      [
-        "20260717",
-        55.0
-      ],
-      [
-        "20260718",
-        55.0
-      ],
-      [
-        "20260719",
-        55.0
-      ],
-      [
-        "20260720",
-        54.9
-      ],
-      [
-        "20260721",
-        54.9
-      ],
-      [
-        "20260722",
-        54.9
-      ],
-      [
-        "20260723",
-        54.9
-      ],
-      [
-        "20260724",
-        54.9
-      ],
-      [
-        "20260725",
-        54.9
-      ],
-      [
-        "20260726",
-        54.9
-      ]
-    ],
-    "127157": [
-      [
-        "20260710",
-        54.7
-      ],
-      [
-        "20260711",
-        54.7
-      ],
-      [
-        "20260712",
-        54.7
-      ],
-      [
-        "20260713",
-        55.0
-      ],
-      [
-        "20260714",
-        55.0
-      ],
-      [
-        "20260715",
-        55.0
-      ],
-      [
-        "20260716",
-        55.0
-      ],
-      [
-        "20260717",
-        55.0
-      ],
-      [
-        "20260718",
-        55.0
-      ],
-      [
-        "20260719",
-        55.0
-      ],
-      [
-        "20260720",
-        54.8
-      ],
-      [
-        "20260721",
-        54.8
-      ],
-      [
-        "20260722",
-        54.8
-      ],
-      [
-        "20260723",
-        54.8
-      ],
-      [
-        "20260724",
-        54.8
-      ],
-      [
-        "20260725",
-        54.8
-      ],
-      [
-        "20260726",
-        54.8
       ]
     ],
     "106218": [
       [
-        "20260710",
-        54.0
-      ],
-      [
         "20260711",
         54.0
       ],
@@ -17524,14 +17685,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         54.8
+      ],
+      [
+        "20260727",
+        54.8
+      ]
+    ],
+    "127157": [
+      [
+        "20260711",
+        54.7
+      ],
+      [
+        "20260712",
+        54.7
+      ],
+      [
+        "20260713",
+        55.0
+      ],
+      [
+        "20260714",
+        55.0
+      ],
+      [
+        "20260715",
+        55.0
+      ],
+      [
+        "20260716",
+        55.0
+      ],
+      [
+        "20260717",
+        55.0
+      ],
+      [
+        "20260718",
+        55.0
+      ],
+      [
+        "20260719",
+        55.0
+      ],
+      [
+        "20260720",
+        54.8
+      ],
+      [
+        "20260721",
+        54.8
+      ],
+      [
+        "20260722",
+        54.8
+      ],
+      [
+        "20260723",
+        54.8
+      ],
+      [
+        "20260724",
+        54.8
+      ],
+      [
+        "20260725",
+        54.8
+      ],
+      [
+        "20260726",
+        54.8
+      ],
+      [
+        "20260727",
+        54.7
       ]
     ],
     "105173": [
       [
-        "20260710",
-        55.1
-      ],
-      [
         "20260711",
         55.1
       ],
@@ -17594,14 +17825,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         54.6
+      ],
+      [
+        "20260727",
+        54.5
       ]
     ],
     "208029": [
       [
-        "20260710",
-        54.7
-      ],
-      [
         "20260711",
         54.7
       ],
@@ -17664,84 +17895,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         54.4
-      ]
-    ],
-    "210262": [
-      [
-        "20260710",
-        53.2
       ],
       [
-        "20260711",
-        53.2
-      ],
-      [
-        "20260712",
-        53.2
-      ],
-      [
-        "20260713",
-        53.9
-      ],
-      [
-        "20260714",
-        53.9
-      ],
-      [
-        "20260715",
-        53.9
-      ],
-      [
-        "20260716",
-        53.9
-      ],
-      [
-        "20260717",
-        53.9
-      ],
-      [
-        "20260718",
-        53.9
-      ],
-      [
-        "20260719",
-        53.9
-      ],
-      [
-        "20260720",
-        54.3
-      ],
-      [
-        "20260721",
-        54.3
-      ],
-      [
-        "20260722",
-        54.3
-      ],
-      [
-        "20260723",
-        54.3
-      ],
-      [
-        "20260724",
-        54.3
-      ],
-      [
-        "20260725",
-        54.3
-      ],
-      [
-        "20260726",
-        54.3
+        "20260727",
+        54.2
       ]
     ],
     "200615": [
       [
-        "20260710",
-        54.0
-      ],
-      [
         "20260711",
         54.0
       ],
@@ -17804,84 +17965,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         54.0
-      ]
-    ],
-    "207686": [
-      [
-        "20260710",
-        52.3
       ],
       [
-        "20260711",
-        52.3
-      ],
-      [
-        "20260712",
-        52.3
-      ],
-      [
-        "20260713",
-        52.2
-      ],
-      [
-        "20260714",
-        52.2
-      ],
-      [
-        "20260715",
-        52.2
-      ],
-      [
-        "20260716",
-        52.2
-      ],
-      [
-        "20260717",
-        52.2
-      ],
-      [
-        "20260718",
-        52.2
-      ],
-      [
-        "20260719",
-        52.2
-      ],
-      [
-        "20260720",
-        53.9
-      ],
-      [
-        "20260721",
-        53.9
-      ],
-      [
-        "20260722",
-        53.9
-      ],
-      [
-        "20260723",
-        53.9
-      ],
-      [
-        "20260724",
-        53.9
-      ],
-      [
-        "20260725",
-        53.9
-      ],
-      [
-        "20260726",
-        53.9
+        "20260727",
+        54.0
       ]
     ],
     "209147": [
       [
-        "20260710",
-        53.8
-      ],
-      [
         "20260711",
         53.8
       ],
@@ -17943,15 +18034,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        53.9
+      ],
+      [
+        "20260727",
         53.9
       ]
     ],
     "206736": [
       [
-        "20260710",
-        53.6
-      ],
-      [
         "20260711",
         53.6
       ],
@@ -18014,84 +18105,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         53.7
-      ]
-    ],
-    "207411": [
-      [
-        "20260710",
-        56.3
       ],
       [
-        "20260711",
-        56.3
-      ],
-      [
-        "20260712",
-        56.3
-      ],
-      [
-        "20260713",
-        56.4
-      ],
-      [
-        "20260714",
-        56.4
-      ],
-      [
-        "20260715",
-        56.4
-      ],
-      [
-        "20260716",
-        56.4
-      ],
-      [
-        "20260717",
-        56.4
-      ],
-      [
-        "20260718",
-        56.4
-      ],
-      [
-        "20260719",
-        56.4
-      ],
-      [
-        "20260720",
-        53.6
-      ],
-      [
-        "20260721",
-        53.6
-      ],
-      [
-        "20260722",
-        53.6
-      ],
-      [
-        "20260723",
-        53.6
-      ],
-      [
-        "20260724",
-        53.6
-      ],
-      [
-        "20260725",
-        53.6
-      ],
-      [
-        "20260726",
-        53.6
+        "20260727",
+        53.7
       ]
     ],
     "126127": [
       [
-        "20260710",
-        54.2
-      ],
-      [
         "20260711",
         54.2
       ],
@@ -18153,15 +18174,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        53.5
+      ],
+      [
+        "20260727",
         53.5
       ]
     ],
     "208597": [
       [
-        "20260710",
-        53.4
-      ],
-      [
         "20260711",
         53.4
       ],
@@ -18223,15 +18244,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        53.5
+      ],
+      [
+        "20260727",
         53.5
       ]
     ],
     "105882": [
       [
-        "20260710",
-        53.4
-      ],
-      [
         "20260711",
         53.4
       ],
@@ -18293,85 +18314,155 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        53.5
+      ],
+      [
+        "20260727",
         53.5
       ]
     ],
-    "210319": [
-      [
-        "20260710",
-        52.8
-      ],
+    "207686": [
       [
         "20260711",
-        52.8
+        52.3
       ],
       [
         "20260712",
-        52.8
+        52.3
       ],
       [
         "20260713",
-        52.8
+        52.2
       ],
       [
         "20260714",
-        52.8
+        52.2
       ],
       [
         "20260715",
-        52.8
+        52.2
       ],
       [
         "20260716",
-        52.8
+        52.2
       ],
       [
         "20260717",
-        52.8
+        52.2
       ],
       [
         "20260718",
-        52.8
+        52.2
       ],
       [
         "20260719",
-        52.8
+        52.2
       ],
       [
         "20260720",
-        53.1
+        53.9
       ],
       [
         "20260721",
-        53.1
+        53.9
       ],
       [
         "20260722",
-        53.1
+        53.9
       ],
       [
         "20260723",
-        53.1
+        53.9
       ],
       [
         "20260724",
-        53.1
+        53.9
       ],
       [
         "20260725",
-        53.1
+        53.9
       ],
       [
         "20260726",
-        53.1
+        53.9
+      ],
+      [
+        "20260727",
+        53.4
+      ]
+    ],
+    "207411": [
+      [
+        "20260711",
+        56.3
+      ],
+      [
+        "20260712",
+        56.3
+      ],
+      [
+        "20260713",
+        56.4
+      ],
+      [
+        "20260714",
+        56.4
+      ],
+      [
+        "20260715",
+        56.4
+      ],
+      [
+        "20260716",
+        56.4
+      ],
+      [
+        "20260717",
+        56.4
+      ],
+      [
+        "20260718",
+        56.4
+      ],
+      [
+        "20260719",
+        56.4
+      ],
+      [
+        "20260720",
+        53.6
+      ],
+      [
+        "20260721",
+        53.6
+      ],
+      [
+        "20260722",
+        53.6
+      ],
+      [
+        "20260723",
+        53.6
+      ],
+      [
+        "20260724",
+        53.6
+      ],
+      [
+        "20260725",
+        53.6
+      ],
+      [
+        "20260726",
+        53.6
+      ],
+      [
+        "20260727",
+        53.4
       ]
     ],
     "124187": [
       [
-        "20260710",
-        53.0
-      ],
-      [
         "20260711",
         53.0
       ],
@@ -18433,21 +18524,21 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        53.1
+      ],
+      [
+        "20260727",
         53.1
       ]
     ],
-    "208233": [
-      [
-        "20260710",
-        54.3
-      ],
+    "210319": [
       [
         "20260711",
-        54.3
+        52.8
       ],
       [
         "20260712",
-        54.3
+        52.8
       ],
       [
         "20260713",
@@ -18479,39 +18570,39 @@ window.TENNIS_DATA = {
       ],
       [
         "20260720",
-        53.0
+        53.1
       ],
       [
         "20260721",
-        53.0
+        53.1
       ],
       [
         "20260722",
-        53.0
+        53.1
       ],
       [
         "20260723",
-        53.0
+        53.1
       ],
       [
         "20260724",
-        53.0
+        53.1
       ],
       [
         "20260725",
-        53.0
+        53.1
       ],
       [
         "20260726",
+        53.1
+      ],
+      [
+        "20260727",
         53.0
       ]
     ],
     "207494": [
       [
-        "20260710",
-        52.9
-      ],
-      [
         "20260711",
         52.9
       ],
@@ -18574,14 +18665,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         53.0
+      ],
+      [
+        "20260727",
+        53.0
+      ]
+    ],
+    "208233": [
+      [
+        "20260711",
+        54.3
+      ],
+      [
+        "20260712",
+        54.3
+      ],
+      [
+        "20260713",
+        52.8
+      ],
+      [
+        "20260714",
+        52.8
+      ],
+      [
+        "20260715",
+        52.8
+      ],
+      [
+        "20260716",
+        52.8
+      ],
+      [
+        "20260717",
+        52.8
+      ],
+      [
+        "20260718",
+        52.8
+      ],
+      [
+        "20260719",
+        52.8
+      ],
+      [
+        "20260720",
+        53.0
+      ],
+      [
+        "20260721",
+        53.0
+      ],
+      [
+        "20260722",
+        53.0
+      ],
+      [
+        "20260723",
+        53.0
+      ],
+      [
+        "20260724",
+        53.0
+      ],
+      [
+        "20260725",
+        53.0
+      ],
+      [
+        "20260726",
+        53.0
+      ],
+      [
+        "20260727",
+        52.7
       ]
     ],
     "105777": [
       [
-        "20260710",
-        52.2
-      ],
-      [
         "20260711",
         52.2
       ],
@@ -18644,84 +18805,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         52.2
-      ]
-    ],
-    "124186": [
-      [
-        "20260710",
-        51.7
       ],
       [
-        "20260711",
-        51.7
-      ],
-      [
-        "20260712",
-        51.7
-      ],
-      [
-        "20260713",
-        51.8
-      ],
-      [
-        "20260714",
-        51.8
-      ],
-      [
-        "20260715",
-        51.8
-      ],
-      [
-        "20260716",
-        51.8
-      ],
-      [
-        "20260717",
-        51.8
-      ],
-      [
-        "20260718",
-        51.8
-      ],
-      [
-        "20260719",
-        51.8
-      ],
-      [
-        "20260720",
-        51.8
-      ],
-      [
-        "20260721",
-        51.8
-      ],
-      [
-        "20260722",
-        51.8
-      ],
-      [
-        "20260723",
-        51.8
-      ],
-      [
-        "20260724",
-        51.8
-      ],
-      [
-        "20260725",
-        51.8
-      ],
-      [
-        "20260726",
-        51.8
+        "20260727",
+        52.2
       ]
     ],
     "105477": [
       [
-        "20260710",
-        51.7
-      ],
-      [
         "20260711",
         51.7
       ],
@@ -18784,14 +18875,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         51.7
+      ],
+      [
+        "20260727",
+        52.1
+      ]
+    ],
+    "124186": [
+      [
+        "20260711",
+        51.7
+      ],
+      [
+        "20260712",
+        51.7
+      ],
+      [
+        "20260713",
+        51.8
+      ],
+      [
+        "20260714",
+        51.8
+      ],
+      [
+        "20260715",
+        51.8
+      ],
+      [
+        "20260716",
+        51.8
+      ],
+      [
+        "20260717",
+        51.8
+      ],
+      [
+        "20260718",
+        51.8
+      ],
+      [
+        "20260719",
+        51.8
+      ],
+      [
+        "20260720",
+        51.8
+      ],
+      [
+        "20260721",
+        51.8
+      ],
+      [
+        "20260722",
+        51.8
+      ],
+      [
+        "20260723",
+        51.8
+      ],
+      [
+        "20260724",
+        51.8
+      ],
+      [
+        "20260725",
+        51.8
+      ],
+      [
+        "20260726",
+        51.8
+      ],
+      [
+        "20260727",
+        51.8
       ]
     ],
     "210116": [
       [
-        "20260710",
-        51.6
-      ],
-      [
         "20260711",
         51.6
       ],
@@ -18853,15 +19014,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        51.7
+      ],
+      [
+        "20260727",
         51.7
       ]
     ],
     "206499": [
       [
-        "20260710",
-        54.1
-      ],
-      [
         "20260711",
         54.1
       ],
@@ -18924,14 +19085,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         51.5
+      ],
+      [
+        "20260727",
+        51.3
       ]
     ],
     "208353": [
       [
-        "20260710",
-        50.9
-      ],
-      [
         "20260711",
         50.9
       ],
@@ -18993,15 +19154,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        51.0
+      ],
+      [
+        "20260727",
         51.0
       ]
     ],
     "105932": [
       [
-        "20260710",
-        50.6
-      ],
-      [
         "20260711",
         50.6
       ],
@@ -19063,15 +19224,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        50.6
+      ],
+      [
+        "20260727",
         50.6
       ]
     ],
     "210460": [
       [
-        "20260710",
-        50.6
-      ],
-      [
         "20260711",
         50.6
       ],
@@ -19133,15 +19294,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        50.6
+      ],
+      [
+        "20260727",
         50.6
       ]
     ],
     "102093": [
       [
-        "20260710",
-        50.2
-      ],
-      [
         "20260711",
         50.2
       ],
@@ -19204,84 +19365,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         50.3
-      ]
-    ],
-    "207681": [
-      [
-        "20260710",
-        51.2
       ],
       [
-        "20260711",
-        51.2
-      ],
-      [
-        "20260712",
-        51.2
-      ],
-      [
-        "20260713",
-        50.9
-      ],
-      [
-        "20260714",
-        50.9
-      ],
-      [
-        "20260715",
-        50.9
-      ],
-      [
-        "20260716",
-        50.9
-      ],
-      [
-        "20260717",
-        50.9
-      ],
-      [
-        "20260718",
-        50.9
-      ],
-      [
-        "20260719",
-        50.9
-      ],
-      [
-        "20260720",
-        50.2
-      ],
-      [
-        "20260721",
-        50.2
-      ],
-      [
-        "20260722",
-        50.2
-      ],
-      [
-        "20260723",
-        50.2
-      ],
-      [
-        "20260724",
-        50.2
-      ],
-      [
-        "20260725",
-        50.2
-      ],
-      [
-        "20260726",
-        50.2
+        "20260727",
+        50.3
       ]
     ],
     "208659": [
       [
-        "20260710",
-        50.6
-      ],
-      [
         "20260711",
         50.6
       ],
@@ -19344,14 +19435,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         50.0
+      ],
+      [
+        "20260727",
+        50.2
+      ]
+    ],
+    "207681": [
+      [
+        "20260711",
+        51.2
+      ],
+      [
+        "20260712",
+        51.2
+      ],
+      [
+        "20260713",
+        50.9
+      ],
+      [
+        "20260714",
+        50.9
+      ],
+      [
+        "20260715",
+        50.9
+      ],
+      [
+        "20260716",
+        50.9
+      ],
+      [
+        "20260717",
+        50.9
+      ],
+      [
+        "20260718",
+        50.9
+      ],
+      [
+        "20260719",
+        50.9
+      ],
+      [
+        "20260720",
+        50.2
+      ],
+      [
+        "20260721",
+        50.2
+      ],
+      [
+        "20260722",
+        50.2
+      ],
+      [
+        "20260723",
+        50.2
+      ],
+      [
+        "20260724",
+        50.2
+      ],
+      [
+        "20260725",
+        50.2
+      ],
+      [
+        "20260726",
+        50.2
+      ],
+      [
+        "20260727",
+        50.2
       ]
     ],
     "207182": [
       [
-        "20260710",
-        51.3
-      ],
-      [
         "20260711",
         51.3
       ],
@@ -19414,84 +19575,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         49.8
-      ]
-    ],
-    "106000": [
-      [
-        "20260710",
-        48.0
       ],
       [
-        "20260711",
-        48.0
-      ],
-      [
-        "20260712",
-        48.0
-      ],
-      [
-        "20260713",
-        48.0
-      ],
-      [
-        "20260714",
-        48.0
-      ],
-      [
-        "20260715",
-        48.0
-      ],
-      [
-        "20260716",
-        48.0
-      ],
-      [
-        "20260717",
-        48.0
-      ],
-      [
-        "20260718",
-        48.0
-      ],
-      [
-        "20260719",
-        48.0
-      ],
-      [
-        "20260720",
-        49.5
-      ],
-      [
-        "20260721",
-        49.5
-      ],
-      [
-        "20260722",
-        49.5
-      ],
-      [
-        "20260723",
-        49.5
-      ],
-      [
-        "20260724",
-        49.5
-      ],
-      [
-        "20260725",
-        49.5
-      ],
-      [
-        "20260726",
-        49.5
+        "20260727",
+        50.1
       ]
     ],
     "126128": [
       [
-        "20260710",
-        48.7
-      ],
-      [
         "20260711",
         48.7
       ],
@@ -19554,14 +19645,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         49.4
+      ],
+      [
+        "20260727",
+        49.6
       ]
     ],
     "207680": [
       [
-        "20260710",
-        49.2
-      ],
-      [
         "20260711",
         49.2
       ],
@@ -19624,84 +19715,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         49.2
-      ]
-    ],
-    "209259": [
-      [
-        "20260710",
-        41.1
       ],
       [
-        "20260711",
-        41.1
-      ],
-      [
-        "20260712",
-        41.1
-      ],
-      [
-        "20260713",
-        48.4
-      ],
-      [
-        "20260714",
-        48.4
-      ],
-      [
-        "20260715",
-        48.4
-      ],
-      [
-        "20260716",
-        48.4
-      ],
-      [
-        "20260717",
-        48.4
-      ],
-      [
-        "20260718",
-        48.4
-      ],
-      [
-        "20260719",
-        48.4
-      ],
-      [
-        "20260720",
-        48.4
-      ],
-      [
-        "20260721",
-        48.4
-      ],
-      [
-        "20260722",
-        48.4
-      ],
-      [
-        "20260723",
-        48.4
-      ],
-      [
-        "20260724",
-        48.4
-      ],
-      [
-        "20260725",
-        48.4
-      ],
-      [
-        "20260726",
-        48.4
+        "20260727",
+        49.2
       ]
     ],
     "208014": [
       [
-        "20260710",
-        49.9
-      ],
-      [
         "20260711",
         49.9
       ],
@@ -19764,14 +19785,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         48.4
+      ],
+      [
+        "20260727",
+        48.8
       ]
     ],
     "200443": [
       [
-        "20260710",
-        49.8
-      ],
-      [
         "20260711",
         49.8
       ],
@@ -19834,6 +19855,150 @@ window.TENNIS_DATA = {
       [
         "20260726",
         48.4
+      ],
+      [
+        "20260727",
+        48.7
+      ]
+    ],
+    "209259": [
+      [
+        "20260711",
+        41.1
+      ],
+      [
+        "20260712",
+        41.1
+      ],
+      [
+        "20260713",
+        48.4
+      ],
+      [
+        "20260714",
+        48.4
+      ],
+      [
+        "20260715",
+        48.4
+      ],
+      [
+        "20260716",
+        48.4
+      ],
+      [
+        "20260717",
+        48.4
+      ],
+      [
+        "20260718",
+        48.4
+      ],
+      [
+        "20260719",
+        48.4
+      ],
+      [
+        "20260720",
+        48.4
+      ],
+      [
+        "20260721",
+        48.4
+      ],
+      [
+        "20260722",
+        48.4
+      ],
+      [
+        "20260723",
+        48.4
+      ],
+      [
+        "20260724",
+        48.4
+      ],
+      [
+        "20260725",
+        48.4
+      ],
+      [
+        "20260726",
+        48.4
+      ],
+      [
+        "20260727",
+        48.3
+      ]
+    ],
+    "106000": [
+      [
+        "20260711",
+        48.0
+      ],
+      [
+        "20260712",
+        48.0
+      ],
+      [
+        "20260713",
+        48.0
+      ],
+      [
+        "20260714",
+        48.0
+      ],
+      [
+        "20260715",
+        48.0
+      ],
+      [
+        "20260716",
+        48.0
+      ],
+      [
+        "20260717",
+        48.0
+      ],
+      [
+        "20260718",
+        48.0
+      ],
+      [
+        "20260719",
+        48.0
+      ],
+      [
+        "20260720",
+        49.5
+      ],
+      [
+        "20260721",
+        49.5
+      ],
+      [
+        "20260722",
+        49.5
+      ],
+      [
+        "20260723",
+        49.5
+      ],
+      [
+        "20260724",
+        49.5
+      ],
+      [
+        "20260725",
+        49.5
+      ],
+      [
+        "20260726",
+        49.5
+      ],
+      [
+        "20260727",
+        48.0
       ]
     ],
     "207985": [
@@ -19892,13 +20057,13 @@ window.TENNIS_DATA = {
       [
         "20260726",
         47.9
+      ],
+      [
+        "20260727",
+        47.9
       ]
     ],
     "208021": [
-      [
-        "20260710",
-        47.8
-      ],
       [
         "20260711",
         47.8
@@ -19961,15 +20126,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        47.9
+      ],
+      [
+        "20260727",
         47.9
       ]
     ],
     "200514": [
       [
-        "20260710",
-        47.8
-      ],
-      [
         "20260711",
         47.8
       ],
@@ -20031,15 +20196,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        47.8
+      ],
+      [
+        "20260727",
         47.8
       ]
     ],
     "210389": [
       [
-        "20260710",
-        47.6
-      ],
-      [
         "20260711",
         47.6
       ],
@@ -20101,15 +20266,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        47.6
+      ],
+      [
+        "20260727",
         47.6
       ]
     ],
     "105902": [
       [
-        "20260710",
-        47.7
-      ],
-      [
         "20260711",
         47.7
       ],
@@ -20172,14 +20337,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         47.4
+      ],
+      [
+        "20260727",
+        47.3
       ]
     ],
     "106426": [
       [
-        "20260710",
-        47.2
-      ],
-      [
         "20260711",
         47.2
       ],
@@ -20241,15 +20406,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        47.3
+      ],
+      [
+        "20260727",
         47.3
       ]
     ],
     "149282": [
       [
-        "20260710",
-        46.4
-      ],
-      [
         "20260711",
         46.4
       ],
@@ -20312,84 +20477,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         46.5
-      ]
-    ],
-    "208316": [
-      [
-        "20260710",
-        45.7
       ],
       [
-        "20260711",
-        45.7
-      ],
-      [
-        "20260712",
-        45.7
-      ],
-      [
-        "20260713",
-        45.6
-      ],
-      [
-        "20260714",
-        45.6
-      ],
-      [
-        "20260715",
-        45.6
-      ],
-      [
-        "20260716",
-        45.6
-      ],
-      [
-        "20260717",
-        45.6
-      ],
-      [
-        "20260718",
-        45.6
-      ],
-      [
-        "20260719",
-        45.6
-      ],
-      [
-        "20260720",
-        45.8
-      ],
-      [
-        "20260721",
-        45.8
-      ],
-      [
-        "20260722",
-        45.8
-      ],
-      [
-        "20260723",
-        45.8
-      ],
-      [
-        "20260724",
-        45.8
-      ],
-      [
-        "20260725",
-        45.8
-      ],
-      [
-        "20260726",
-        45.8
+        "20260727",
+        46.5
       ]
     ],
     "126846": [
       [
-        "20260710",
-        45.7
-      ],
-      [
         "20260711",
         45.7
       ],
@@ -20452,14 +20547,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         45.7
+      ],
+      [
+        "20260727",
+        45.7
+      ]
+    ],
+    "208316": [
+      [
+        "20260711",
+        45.7
+      ],
+      [
+        "20260712",
+        45.7
+      ],
+      [
+        "20260713",
+        45.6
+      ],
+      [
+        "20260714",
+        45.6
+      ],
+      [
+        "20260715",
+        45.6
+      ],
+      [
+        "20260716",
+        45.6
+      ],
+      [
+        "20260717",
+        45.6
+      ],
+      [
+        "20260718",
+        45.6
+      ],
+      [
+        "20260719",
+        45.6
+      ],
+      [
+        "20260720",
+        45.8
+      ],
+      [
+        "20260721",
+        45.8
+      ],
+      [
+        "20260722",
+        45.8
+      ],
+      [
+        "20260723",
+        45.8
+      ],
+      [
+        "20260724",
+        45.8
+      ],
+      [
+        "20260725",
+        45.8
+      ],
+      [
+        "20260726",
+        45.8
+      ],
+      [
+        "20260727",
+        45.4
       ]
     ],
     "210012": [
       [
-        "20260710",
-        44.7
-      ],
-      [
         "20260711",
         44.7
       ],
@@ -20521,15 +20686,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        44.8
+      ],
+      [
+        "20260727",
         44.8
       ]
     ],
     "104527": [
       [
-        "20260710",
-        44.6
-      ],
-      [
         "20260711",
         44.6
       ],
@@ -20592,84 +20757,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         44.5
-      ]
-    ],
-    "209070": [
-      [
-        "20260710",
-        46.7
       ],
       [
-        "20260711",
-        46.7
-      ],
-      [
-        "20260712",
-        46.7
-      ],
-      [
-        "20260713",
+        "20260727",
         44.5
-      ],
-      [
-        "20260714",
-        44.5
-      ],
-      [
-        "20260715",
-        44.5
-      ],
-      [
-        "20260716",
-        44.5
-      ],
-      [
-        "20260717",
-        44.5
-      ],
-      [
-        "20260718",
-        44.5
-      ],
-      [
-        "20260719",
-        44.5
-      ],
-      [
-        "20260720",
-        44.3
-      ],
-      [
-        "20260721",
-        44.3
-      ],
-      [
-        "20260722",
-        44.3
-      ],
-      [
-        "20260723",
-        44.3
-      ],
-      [
-        "20260724",
-        44.3
-      ],
-      [
-        "20260725",
-        44.3
-      ],
-      [
-        "20260726",
-        44.3
       ]
     ],
     "209857": [
       [
-        "20260710",
-        44.2
-      ],
-      [
         "20260711",
         44.2
       ],
@@ -20731,15 +20826,85 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        44.3
+      ],
+      [
+        "20260727",
+        44.3
+      ]
+    ],
+    "209070": [
+      [
+        "20260711",
+        46.7
+      ],
+      [
+        "20260712",
+        46.7
+      ],
+      [
+        "20260713",
+        44.5
+      ],
+      [
+        "20260714",
+        44.5
+      ],
+      [
+        "20260715",
+        44.5
+      ],
+      [
+        "20260716",
+        44.5
+      ],
+      [
+        "20260717",
+        44.5
+      ],
+      [
+        "20260718",
+        44.5
+      ],
+      [
+        "20260719",
+        44.5
+      ],
+      [
+        "20260720",
+        44.3
+      ],
+      [
+        "20260721",
+        44.3
+      ],
+      [
+        "20260722",
+        44.3
+      ],
+      [
+        "20260723",
+        44.3
+      ],
+      [
+        "20260724",
+        44.3
+      ],
+      [
+        "20260725",
+        44.3
+      ],
+      [
+        "20260726",
+        44.3
+      ],
+      [
+        "20260727",
         44.3
       ]
     ],
     "124116": [
       [
-        "20260710",
-        44.2
-      ],
-      [
         "20260711",
         44.2
       ],
@@ -20801,15 +20966,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        44.1
+      ],
+      [
+        "20260727",
         44.1
       ]
     ],
     "200384": [
       [
-        "20260710",
-        42.6
-      ],
-      [
         "20260711",
         42.6
       ],
@@ -20872,6 +21037,10 @@ window.TENNIS_DATA = {
       [
         "20260726",
         42.6
+      ],
+      [
+        "20260727",
+        43.8
       ]
     ],
     "106198": [
@@ -20930,14 +21099,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         42.5
+      ],
+      [
+        "20260727",
+        42.5
       ]
     ],
     "200516": [
       [
-        "20260710",
-        40.6
-      ],
-      [
         "20260711",
         40.6
       ],
@@ -21000,84 +21169,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         40.6
-      ]
-    ],
-    "208852": [
-      [
-        "20260710",
-        40.5
       ],
       [
-        "20260711",
-        40.5
-      ],
-      [
-        "20260712",
-        40.5
-      ],
-      [
-        "20260713",
-        40.6
-      ],
-      [
-        "20260714",
-        40.6
-      ],
-      [
-        "20260715",
-        40.6
-      ],
-      [
-        "20260716",
-        40.6
-      ],
-      [
-        "20260717",
-        40.6
-      ],
-      [
-        "20260718",
-        40.6
-      ],
-      [
-        "20260719",
-        40.6
-      ],
-      [
-        "20260720",
-        40.6
-      ],
-      [
-        "20260721",
-        40.6
-      ],
-      [
-        "20260722",
-        40.6
-      ],
-      [
-        "20260723",
-        40.6
-      ],
-      [
-        "20260724",
-        40.6
-      ],
-      [
-        "20260725",
-        40.6
-      ],
-      [
-        "20260726",
+        "20260727",
         40.6
       ]
     ],
     "202261": [
       [
-        "20260710",
-        40.3
-      ],
-      [
         "20260711",
         40.3
       ],
@@ -21139,15 +21238,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        40.3
+      ],
+      [
+        "20260727",
         40.3
       ]
     ],
     "111456": [
       [
-        "20260710",
-        39.0
-      ],
-      [
         "20260711",
         39.0
       ],
@@ -21210,48 +21309,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         39.1
-      ]
-    ],
-    "210136": [
-      [
-        "20260713",
-        53.4
       ],
       [
-        "20260720",
-        38.4
-      ],
-      [
-        "20260721",
-        38.4
-      ],
-      [
-        "20260722",
-        38.4
-      ],
-      [
-        "20260723",
-        38.4
-      ],
-      [
-        "20260724",
-        38.4
-      ],
-      [
-        "20260725",
-        38.4
-      ],
-      [
-        "20260726",
-        38.4
+        "20260727",
+        39.1
       ]
     ],
     "123828": [
       [
-        "20260710",
-        36.1
-      ],
-      [
         "20260711",
         36.1
       ],
@@ -21314,14 +21379,34 @@ window.TENNIS_DATA = {
       [
         "20260726",
         37.3
+      ],
+      [
+        "20260727",
+        37.6
+      ]
+    ],
+    "124079": [
+      [
+        "20260720",
+        43.2
+      ],
+      [
+        "20260727",
+        37.2
+      ]
+    ],
+    "207608": [
+      [
+        "20260720",
+        46.9
+      ],
+      [
+        "20260727",
+        36.9
       ]
     ],
     "208013": [
       [
-        "20260710",
-        36.2
-      ],
-      [
         "20260711",
         36.2
       ],
@@ -21383,15 +21468,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        36.2
+      ],
+      [
+        "20260727",
         36.2
       ]
     ],
     "208361": [
       [
-        "20260710",
-        35.6
-      ],
-      [
         "20260711",
         35.6
       ],
@@ -21453,15 +21538,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        35.8
+      ],
+      [
+        "20260727",
         35.8
       ]
     ],
     "200647": [
       [
-        "20260710",
-        35.0
-      ],
-      [
         "20260711",
         35.0
       ],
@@ -21523,15 +21608,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        35.0
+      ],
+      [
+        "20260727",
         35.0
       ]
     ],
     "207352": [
       [
-        "20260710",
-        35.0
-      ],
-      [
         "20260711",
         35.0
       ],
@@ -21593,6 +21678,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        35.0
+      ],
+      [
+        "20260727",
         35.0
       ]
     ],
@@ -21652,6 +21741,10 @@ window.TENNIS_DATA = {
       [
         "20260726",
         35.0
+      ],
+      [
+        "20260727",
+        35.0
       ]
     ],
     "200436": [
@@ -21709,6 +21802,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        35.0
+      ],
+      [
+        "20260727",
         35.0
       ]
     ],
@@ -21768,13 +21865,13 @@ window.TENNIS_DATA = {
       [
         "20260726",
         35.0
+      ],
+      [
+        "20260727",
+        35.0
       ]
     ],
     "144642": [
-      [
-        "20260710",
-        35.0
-      ],
       [
         "20260711",
         35.0
@@ -21837,6 +21934,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        35.0
+      ],
+      [
+        "20260727",
         35.0
       ]
     ]
@@ -21844,10 +21945,6 @@ window.TENNIS_DATA = {
   "WTA_SCORE_LOG": {
     "214544": [
       [
-        "20260710",
-        100.0
-      ],
-      [
         "20260711",
         100.0
       ],
@@ -21909,15 +22006,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        100.0
+      ],
+      [
+        "20260727",
         100.0
       ]
     ],
     "214981": [
       [
-        "20260710",
-        93.3
-      ],
-      [
         "20260711",
         93.3
       ],
@@ -21979,15 +22076,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        93.0
+      ],
+      [
+        "20260727",
         93.0
       ]
     ],
     "259799": [
       [
-        "20260710",
-        92.1
-      ],
-      [
         "20260711",
         92.1
       ],
@@ -22049,15 +22146,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        91.8
+      ],
+      [
+        "20260727",
         91.8
       ]
     ],
     "221103": [
       [
-        "20260710",
-        91.1
-      ],
-      [
         "20260711",
         91.1
       ],
@@ -22119,15 +22216,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        91.1
+      ],
+      [
+        "20260727",
         91.1
       ]
     ],
     "216347": [
       [
-        "20260710",
-        91.4
-      ],
-      [
         "20260711",
         91.4
       ],
@@ -22189,15 +22286,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        90.5
+      ],
+      [
+        "20260727",
         90.5
       ]
     ],
     "216146": [
       [
-        "20260710",
-        90.4
-      ],
-      [
         "20260711",
         90.4
       ],
@@ -22259,15 +22356,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        90.3
+      ],
+      [
+        "20260727",
         90.3
       ]
     ],
     "202468": [
       [
-        "20260710",
-        90.2
-      ],
-      [
         "20260711",
         90.2
       ],
@@ -22329,15 +22426,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        90.0
+      ],
+      [
+        "20260727",
         90.0
       ]
     ],
     "202494": [
       [
-        "20260710",
-        90.5
-      ],
-      [
         "20260711",
         90.5
       ],
@@ -22399,15 +22496,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        89.8
+      ],
+      [
+        "20260727",
         89.8
       ]
     ],
     "214096": [
       [
-        "20260710",
-        85.9
-      ],
-      [
         "20260711",
         85.9
       ],
@@ -22469,15 +22566,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        85.8
+      ],
+      [
+        "20260727",
         85.8
       ]
     ],
     "216153": [
       [
-        "20260710",
-        86.6
-      ],
-      [
         "20260711",
         86.6
       ],
@@ -22539,15 +22636,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        85.6
+      ],
+      [
+        "20260727",
         85.6
       ]
     ],
     "201514": [
       [
-        "20260710",
-        85.9
-      ],
-      [
         "20260711",
         85.9
       ],
@@ -22609,15 +22706,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        85.5
+      ],
+      [
+        "20260727",
         85.5
       ]
     ],
     "239475": [
       [
-        "20260710",
-        85.2
-      ],
-      [
         "20260711",
         85.2
       ],
@@ -22679,15 +22776,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        84.4
+      ],
+      [
+        "20260727",
         84.4
       ]
     ],
     "202505": [
       [
-        "20260710",
-        84.9
-      ],
-      [
         "20260711",
         84.9
       ],
@@ -22749,15 +22846,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        84.0
+      ],
+      [
+        "20260727",
         84.0
       ]
     ],
     "201619": [
       [
-        "20260710",
-        81.3
-      ],
-      [
         "20260711",
         81.3
       ],
@@ -22820,14 +22917,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         80.4
+      ],
+      [
+        "20260727",
+        80.5
       ]
     ],
     "216081": [
       [
-        "20260710",
-        81.1
-      ],
-      [
         "20260711",
         81.1
       ],
@@ -22890,14 +22987,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         80.2
+      ],
+      [
+        "20260727",
+        80.4
       ]
     ],
     "211768": [
       [
-        "20260710",
-        80.3
-      ],
-      [
         "20260711",
         80.3
       ],
@@ -22959,15 +23056,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        79.7
+      ],
+      [
+        "20260727",
         79.7
       ]
     ],
     "215713": [
       [
-        "20260710",
-        80.1
-      ],
-      [
         "20260711",
         80.1
       ],
@@ -23030,14 +23127,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         79.4
+      ],
+      [
+        "20260727",
+        79.5
       ]
     ],
     "222328": [
       [
-        "20260710",
-        78.7
-      ],
-      [
         "20260711",
         78.7
       ],
@@ -23099,15 +23196,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        78.5
+      ],
+      [
+        "20260727",
         78.5
       ]
     ],
     "214939": [
       [
-        "20260710",
-        77.0
-      ],
-      [
         "20260711",
         77.0
       ],
@@ -23169,15 +23266,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        76.2
+      ],
+      [
+        "20260727",
         76.2
       ]
     ],
     "210722": [
       [
-        "20260710",
-        76.6
-      ],
-      [
         "20260711",
         76.6
       ],
@@ -23240,14 +23337,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         76.1
+      ],
+      [
+        "20260727",
+        76.2
       ]
     ],
     "260300": [
       [
-        "20260710",
-        76.6
-      ],
-      [
         "20260711",
         76.6
       ],
@@ -23309,15 +23406,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        75.7
+      ],
+      [
+        "20260727",
         75.7
       ]
     ],
     "223670": [
       [
-        "20260710",
-        76.4
-      ],
-      [
         "20260711",
         76.4
       ],
@@ -23379,15 +23476,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        75.2
+      ],
+      [
+        "20260727",
         75.2
       ]
     ],
     "201662": [
       [
-        "20260710",
-        73.8
-      ],
-      [
         "20260711",
         73.8
       ],
@@ -23450,14 +23547,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         74.2
+      ],
+      [
+        "20260727",
+        74.1
       ]
     ],
     "211148": [
       [
-        "20260710",
-        74.3
-      ],
-      [
         "20260711",
         74.3
       ],
@@ -23520,84 +23617,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         73.6
-      ]
-    ],
-    "213631": [
-      [
-        "20260710",
-        73.1
       ],
       [
-        "20260711",
-        73.1
-      ],
-      [
-        "20260712",
-        73.1
-      ],
-      [
-        "20260713",
-        73.1
-      ],
-      [
-        "20260714",
-        73.1
-      ],
-      [
-        "20260715",
-        73.1
-      ],
-      [
-        "20260716",
-        73.1
-      ],
-      [
-        "20260717",
-        73.1
-      ],
-      [
-        "20260718",
-        73.1
-      ],
-      [
-        "20260719",
-        73.1
-      ],
-      [
-        "20260720",
-        72.3
-      ],
-      [
-        "20260721",
-        72.3
-      ],
-      [
-        "20260722",
-        72.3
-      ],
-      [
-        "20260723",
-        72.3
-      ],
-      [
-        "20260724",
-        72.3
-      ],
-      [
-        "20260725",
-        72.3
-      ],
-      [
-        "20260726",
-        72.3
+        "20260727",
+        73.6
       ]
     ],
     "206252": [
       [
-        "20260710",
-        71.8
-      ],
-      [
         "20260711",
         71.8
       ],
@@ -23660,84 +23687,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         72.3
+      ],
+      [
+        "20260727",
+        72.5
       ]
     ],
-    "215613": [
-      [
-        "20260710",
-        72.1
-      ],
+    "213631": [
       [
         "20260711",
-        72.1
+        73.1
       ],
       [
         "20260712",
-        72.1
+        73.1
       ],
       [
         "20260713",
-        72.0
+        73.1
       ],
       [
         "20260714",
-        72.0
+        73.1
       ],
       [
         "20260715",
-        72.0
+        73.1
       ],
       [
         "20260716",
-        72.0
+        73.1
       ],
       [
         "20260717",
-        72.0
+        73.1
       ],
       [
         "20260718",
-        72.0
+        73.1
       ],
       [
         "20260719",
-        72.0
+        73.1
       ],
       [
         "20260720",
-        70.9
+        72.3
       ],
       [
         "20260721",
-        70.9
+        72.3
       ],
       [
         "20260722",
-        70.9
+        72.3
       ],
       [
         "20260723",
-        70.9
+        72.3
       ],
       [
         "20260724",
-        70.9
+        72.3
       ],
       [
         "20260725",
-        70.9
+        72.3
       ],
       [
         "20260726",
-        70.9
+        72.3
+      ],
+      [
+        "20260727",
+        71.9
       ]
     ],
     "211533": [
       [
-        "20260710",
-        72.0
-      ],
-      [
         "20260711",
         72.0
       ],
@@ -23800,14 +23827,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         70.9
+      ],
+      [
+        "20260727",
+        71.2
+      ]
+    ],
+    "215613": [
+      [
+        "20260711",
+        72.1
+      ],
+      [
+        "20260712",
+        72.1
+      ],
+      [
+        "20260713",
+        72.0
+      ],
+      [
+        "20260714",
+        72.0
+      ],
+      [
+        "20260715",
+        72.0
+      ],
+      [
+        "20260716",
+        72.0
+      ],
+      [
+        "20260717",
+        72.0
+      ],
+      [
+        "20260718",
+        72.0
+      ],
+      [
+        "20260719",
+        72.0
+      ],
+      [
+        "20260720",
+        70.9
+      ],
+      [
+        "20260721",
+        70.9
+      ],
+      [
+        "20260722",
+        70.9
+      ],
+      [
+        "20260723",
+        70.9
+      ],
+      [
+        "20260724",
+        70.9
+      ],
+      [
+        "20260725",
+        70.9
+      ],
+      [
+        "20260726",
+        70.9
+      ],
+      [
+        "20260727",
+        71.1
       ]
     ],
     "221024": [
       [
-        "20260710",
-        71.3
-      ],
-      [
         "20260711",
         71.3
       ],
@@ -23870,14 +23967,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         69.6
+      ],
+      [
+        "20260727",
+        69.9
       ]
     ],
     "206420": [
       [
-        "20260710",
-        70.0
-      ],
-      [
         "20260711",
         70.0
       ],
@@ -23940,84 +24037,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         68.8
-      ]
-    ],
-    "220367": [
-      [
-        "20260710",
-        69.4
       ],
       [
-        "20260711",
-        69.4
-      ],
-      [
-        "20260712",
-        69.4
-      ],
-      [
-        "20260713",
-        69.2
-      ],
-      [
-        "20260714",
-        69.2
-      ],
-      [
-        "20260715",
-        69.2
-      ],
-      [
-        "20260716",
-        69.2
-      ],
-      [
-        "20260717",
-        69.2
-      ],
-      [
-        "20260718",
-        69.2
-      ],
-      [
-        "20260719",
-        69.2
-      ],
-      [
-        "20260720",
-        68.2
-      ],
-      [
-        "20260721",
-        68.2
-      ],
-      [
-        "20260722",
-        68.2
-      ],
-      [
-        "20260723",
-        68.2
-      ],
-      [
-        "20260724",
-        68.2
-      ],
-      [
-        "20260725",
-        68.2
-      ],
-      [
-        "20260726",
-        68.2
+        "20260727",
+        68.8
       ]
     ],
     "223253": [
       [
-        "20260710",
-        68.5
-      ],
-      [
         "20260711",
         68.5
       ],
@@ -24080,14 +24107,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         67.6
+      ],
+      [
+        "20260727",
+        67.8
       ]
     ],
     "211713": [
       [
-        "20260710",
-        69.3
-      ],
-      [
         "20260711",
         69.3
       ],
@@ -24150,14 +24177,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         67.5
+      ],
+      [
+        "20260727",
+        67.8
+      ]
+    ],
+    "220367": [
+      [
+        "20260711",
+        69.4
+      ],
+      [
+        "20260712",
+        69.4
+      ],
+      [
+        "20260713",
+        69.2
+      ],
+      [
+        "20260714",
+        69.2
+      ],
+      [
+        "20260715",
+        69.2
+      ],
+      [
+        "20260716",
+        69.2
+      ],
+      [
+        "20260717",
+        69.2
+      ],
+      [
+        "20260718",
+        69.2
+      ],
+      [
+        "20260719",
+        69.2
+      ],
+      [
+        "20260720",
+        68.2
+      ],
+      [
+        "20260721",
+        68.2
+      ],
+      [
+        "20260722",
+        68.2
+      ],
+      [
+        "20260723",
+        68.2
+      ],
+      [
+        "20260724",
+        68.2
+      ],
+      [
+        "20260725",
+        68.2
+      ],
+      [
+        "20260726",
+        68.2
+      ],
+      [
+        "20260727",
+        67.0
       ]
     ],
     "220520": [
       [
-        "20260710",
-        67.0
-      ],
-      [
         "20260711",
         67.0
       ],
@@ -24220,14 +24317,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         67.2
+      ],
+      [
+        "20260727",
+        67.0
       ]
     ],
     "215983": [
       [
-        "20260710",
-        68.0
-      ],
-      [
         "20260711",
         68.0
       ],
@@ -24290,84 +24387,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         66.5
-      ]
-    ],
-    "215785": [
-      [
-        "20260710",
-        65.8
       ],
       [
-        "20260711",
-        65.8
-      ],
-      [
-        "20260712",
-        65.8
-      ],
-      [
-        "20260713",
-        67.5
-      ],
-      [
-        "20260714",
-        67.5
-      ],
-      [
-        "20260715",
-        67.5
-      ],
-      [
-        "20260716",
-        67.5
-      ],
-      [
-        "20260717",
-        67.5
-      ],
-      [
-        "20260718",
-        67.5
-      ],
-      [
-        "20260719",
-        67.5
-      ],
-      [
-        "20260720",
-        66.5
-      ],
-      [
-        "20260721",
-        66.5
-      ],
-      [
-        "20260722",
-        66.5
-      ],
-      [
-        "20260723",
-        66.5
-      ],
-      [
-        "20260724",
-        66.5
-      ],
-      [
-        "20260725",
-        66.5
-      ],
-      [
-        "20260726",
+        "20260727",
         66.5
       ]
     ],
     "220548": [
       [
-        "20260710",
-        67.0
-      ],
-      [
         "20260711",
         67.0
       ],
@@ -24430,14 +24457,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         66.5
+      ],
+      [
+        "20260727",
+        66.4
       ]
     ],
     "221012": [
       [
-        "20260710",
-        67.6
-      ],
-      [
         "20260711",
         67.6
       ],
@@ -24500,14 +24527,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         66.4
+      ],
+      [
+        "20260727",
+        66.4
+      ]
+    ],
+    "215785": [
+      [
+        "20260711",
+        65.8
+      ],
+      [
+        "20260712",
+        65.8
+      ],
+      [
+        "20260713",
+        67.5
+      ],
+      [
+        "20260714",
+        67.5
+      ],
+      [
+        "20260715",
+        67.5
+      ],
+      [
+        "20260716",
+        67.5
+      ],
+      [
+        "20260717",
+        67.5
+      ],
+      [
+        "20260718",
+        67.5
+      ],
+      [
+        "20260719",
+        67.5
+      ],
+      [
+        "20260720",
+        66.5
+      ],
+      [
+        "20260721",
+        66.5
+      ],
+      [
+        "20260722",
+        66.5
+      ],
+      [
+        "20260723",
+        66.5
+      ],
+      [
+        "20260724",
+        66.5
+      ],
+      [
+        "20260725",
+        66.5
+      ],
+      [
+        "20260726",
+        66.5
+      ],
+      [
+        "20260727",
+        66.1
       ]
     ],
     "220704": [
       [
-        "20260710",
-        67.7
-      ],
-      [
         "20260711",
         67.7
       ],
@@ -24569,15 +24666,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        65.8
+      ],
+      [
+        "20260727",
         65.8
       ]
     ],
     "206289": [
       [
-        "20260710",
-        65.3
-      ],
-      [
         "20260711",
         65.3
       ],
@@ -24640,154 +24737,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         65.3
-      ]
-    ],
-    "221054": [
-      [
-        "20260710",
-        66.9
       ],
       [
-        "20260711",
-        66.9
-      ],
-      [
-        "20260712",
-        66.9
-      ],
-      [
-        "20260713",
-        66.1
-      ],
-      [
-        "20260714",
-        66.1
-      ],
-      [
-        "20260715",
-        66.1
-      ],
-      [
-        "20260716",
-        66.1
-      ],
-      [
-        "20260717",
-        66.1
-      ],
-      [
-        "20260718",
-        66.1
-      ],
-      [
-        "20260719",
-        66.1
-      ],
-      [
-        "20260720",
-        65.1
-      ],
-      [
-        "20260721",
-        65.1
-      ],
-      [
-        "20260722",
-        65.1
-      ],
-      [
-        "20260723",
-        65.1
-      ],
-      [
-        "20260724",
-        65.1
-      ],
-      [
-        "20260725",
-        65.1
-      ],
-      [
-        "20260726",
-        65.1
-      ]
-    ],
-    "220716": [
-      [
-        "20260710",
-        64.4
-      ],
-      [
-        "20260711",
-        64.4
-      ],
-      [
-        "20260712",
-        64.4
-      ],
-      [
-        "20260713",
-        64.4
-      ],
-      [
-        "20260714",
-        64.4
-      ],
-      [
-        "20260715",
-        64.4
-      ],
-      [
-        "20260716",
-        64.4
-      ],
-      [
-        "20260717",
-        64.4
-      ],
-      [
-        "20260718",
-        64.4
-      ],
-      [
-        "20260719",
-        64.4
-      ],
-      [
-        "20260720",
-        64.2
-      ],
-      [
-        "20260721",
-        64.2
-      ],
-      [
-        "20260722",
-        64.2
-      ],
-      [
-        "20260723",
-        64.2
-      ],
-      [
-        "20260724",
-        64.2
-      ],
-      [
-        "20260725",
-        64.2
-      ],
-      [
-        "20260726",
-        64.2
+        "20260727",
+        65.3
       ]
     ],
     "223360": [
       [
-        "20260710",
-        64.8
-      ],
-      [
         "20260711",
         64.8
       ],
@@ -24850,84 +24807,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         64.0
+      ],
+      [
+        "20260727",
+        64.4
       ]
     ],
-    "202663": [
-      [
-        "20260710",
-        64.3
-      ],
+    "220716": [
       [
         "20260711",
-        64.3
+        64.4
       ],
       [
         "20260712",
-        64.3
+        64.4
       ],
       [
         "20260713",
-        65.0
+        64.4
       ],
       [
         "20260714",
-        65.0
+        64.4
       ],
       [
         "20260715",
-        65.0
+        64.4
       ],
       [
         "20260716",
-        65.0
+        64.4
       ],
       [
         "20260717",
-        65.0
+        64.4
       ],
       [
         "20260718",
-        65.0
+        64.4
       ],
       [
         "20260719",
-        65.0
+        64.4
       ],
       [
         "20260720",
-        63.9
+        64.2
       ],
       [
         "20260721",
-        63.9
+        64.2
       ],
       [
         "20260722",
-        63.9
+        64.2
       ],
       [
         "20260723",
-        63.9
+        64.2
       ],
       [
         "20260724",
-        63.9
+        64.2
       ],
       [
         "20260725",
-        63.9
+        64.2
       ],
       [
         "20260726",
-        63.9
+        64.2
+      ],
+      [
+        "20260727",
+        64.3
       ]
     ],
     "220348": [
       [
-        "20260710",
-        66.4
-      ],
-      [
         "20260711",
         66.4
       ],
@@ -24990,188 +24947,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         63.7
-      ]
-    ],
-    "266671": [
-      [
-        "20260713",
-        67.4
       ],
       [
-        "20260720",
-        63.7
-      ],
-      [
-        "20260721",
-        63.7
-      ],
-      [
-        "20260722",
-        63.7
-      ],
-      [
-        "20260723",
-        63.7
-      ],
-      [
-        "20260724",
-        63.7
-      ],
-      [
-        "20260725",
-        63.7
-      ],
-      [
-        "20260726",
+        "20260727",
         63.7
       ]
     ],
-    "211701": [
-      [
-        "20260710",
-        64.6
-      ],
+    "221054": [
       [
         "20260711",
-        64.6
+        66.9
       ],
       [
         "20260712",
-        64.6
+        66.9
       ],
       [
         "20260713",
-        64.7
+        66.1
       ],
       [
         "20260714",
-        64.7
+        66.1
       ],
       [
         "20260715",
-        64.7
+        66.1
       ],
       [
         "20260716",
-        64.7
+        66.1
       ],
       [
         "20260717",
-        64.7
+        66.1
       ],
       [
         "20260718",
-        64.7
+        66.1
       ],
       [
         "20260719",
-        64.7
+        66.1
       ],
       [
         "20260720",
-        63.5
+        65.1
       ],
       [
         "20260721",
-        63.5
+        65.1
       ],
       [
         "20260722",
-        63.5
+        65.1
       ],
       [
         "20260723",
-        63.5
+        65.1
       ],
       [
         "20260724",
-        63.5
+        65.1
       ],
       [
         "20260725",
-        63.5
+        65.1
       ],
       [
         "20260726",
+        65.1
+      ],
+      [
+        "20260727",
         63.5
-      ]
-    ],
-    "211107": [
-      [
-        "20260710",
-        65.5
-      ],
-      [
-        "20260711",
-        65.5
-      ],
-      [
-        "20260712",
-        65.5
-      ],
-      [
-        "20260713",
-        64.4
-      ],
-      [
-        "20260714",
-        64.4
-      ],
-      [
-        "20260715",
-        64.4
-      ],
-      [
-        "20260716",
-        64.4
-      ],
-      [
-        "20260717",
-        64.4
-      ],
-      [
-        "20260718",
-        64.4
-      ],
-      [
-        "20260719",
-        64.4
-      ],
-      [
-        "20260720",
-        63.3
-      ],
-      [
-        "20260721",
-        63.3
-      ],
-      [
-        "20260722",
-        63.3
-      ],
-      [
-        "20260723",
-        63.3
-      ],
-      [
-        "20260724",
-        63.3
-      ],
-      [
-        "20260725",
-        63.3
-      ],
-      [
-        "20260726",
-        63.3
       ]
     ],
     "239383": [
       [
-        "20260710",
-        63.8
-      ],
-      [
         "20260711",
         63.8
       ],
@@ -25234,154 +25087,224 @@ window.TENNIS_DATA = {
       [
         "20260726",
         63.1
+      ],
+      [
+        "20260727",
+        63.4
       ]
     ],
-    "216083": [
-      [
-        "20260710",
-        63.4
-      ],
+    "211701": [
       [
         "20260711",
-        63.4
+        64.6
       ],
       [
         "20260712",
-        63.4
+        64.6
       ],
       [
         "20260713",
-        62.3
+        64.7
       ],
       [
         "20260714",
-        62.3
+        64.7
       ],
       [
         "20260715",
-        62.3
+        64.7
       ],
       [
         "20260716",
-        62.3
+        64.7
       ],
       [
         "20260717",
-        62.3
+        64.7
       ],
       [
         "20260718",
-        62.3
+        64.7
       ],
       [
         "20260719",
-        62.3
+        64.7
       ],
       [
         "20260720",
-        61.6
+        63.5
       ],
       [
         "20260721",
-        61.6
+        63.5
       ],
       [
         "20260722",
-        61.6
+        63.5
       ],
       [
         "20260723",
-        61.6
+        63.5
       ],
       [
         "20260724",
-        61.6
+        63.5
       ],
       [
         "20260725",
-        61.6
+        63.5
       ],
       [
         "20260726",
-        61.6
+        63.5
+      ],
+      [
+        "20260727",
+        63.3
       ]
     ],
-    "220714": [
-      [
-        "20260710",
-        65.7
-      ],
+    "211107": [
       [
         "20260711",
-        65.7
+        65.5
       ],
       [
         "20260712",
-        65.7
+        65.5
       ],
       [
         "20260713",
-        62.8
+        64.4
       ],
       [
         "20260714",
-        62.8
+        64.4
       ],
       [
         "20260715",
-        62.8
+        64.4
       ],
       [
         "20260716",
-        62.8
+        64.4
       ],
       [
         "20260717",
-        62.8
+        64.4
       ],
       [
         "20260718",
-        62.8
+        64.4
       ],
       [
         "20260719",
-        62.8
+        64.4
       ],
       [
         "20260720",
-        61.6
+        63.3
       ],
       [
         "20260721",
-        61.6
+        63.3
       ],
       [
         "20260722",
-        61.6
+        63.3
       ],
       [
         "20260723",
-        61.6
+        63.3
       ],
       [
         "20260724",
-        61.6
+        63.3
       ],
       [
         "20260725",
-        61.6
+        63.3
       ],
       [
         "20260726",
-        61.6
+        63.3
+      ],
+      [
+        "20260727",
+        63.0
+      ]
+    ],
+    "211337": [
+      [
+        "20260711",
+        60.2
+      ],
+      [
+        "20260712",
+        60.2
+      ],
+      [
+        "20260713",
+        60.4
+      ],
+      [
+        "20260714",
+        60.4
+      ],
+      [
+        "20260715",
+        60.4
+      ],
+      [
+        "20260716",
+        60.4
+      ],
+      [
+        "20260717",
+        60.4
+      ],
+      [
+        "20260718",
+        60.4
+      ],
+      [
+        "20260719",
+        60.4
+      ],
+      [
+        "20260720",
+        58.4
+      ],
+      [
+        "20260721",
+        58.4
+      ],
+      [
+        "20260722",
+        58.4
+      ],
+      [
+        "20260723",
+        58.4
+      ],
+      [
+        "20260724",
+        58.4
+      ],
+      [
+        "20260725",
+        58.4
+      ],
+      [
+        "20260726",
+        58.4
+      ],
+      [
+        "20260727",
+        62.8
       ]
     ],
     "220750": [
       [
-        "20260710",
-        59.7
-      ],
-      [
         "20260711",
         59.7
       ],
@@ -25444,84 +25367,224 @@ window.TENNIS_DATA = {
       [
         "20260726",
         61.2
+      ],
+      [
+        "20260727",
+        62.5
       ]
     ],
-    "203501": [
-      [
-        "20260710",
-        63.0
-      ],
+    "202663": [
       [
         "20260711",
-        63.0
+        64.3
       ],
       [
         "20260712",
-        63.0
+        64.3
       ],
       [
         "20260713",
-        62.7
+        65.0
       ],
       [
         "20260714",
-        62.7
+        65.0
       ],
       [
         "20260715",
-        62.7
+        65.0
       ],
       [
         "20260716",
-        62.7
+        65.0
       ],
       [
         "20260717",
-        62.7
+        65.0
       ],
       [
         "20260718",
-        62.7
+        65.0
       ],
       [
         "20260719",
-        62.7
+        65.0
       ],
       [
         "20260720",
-        61.1
+        63.9
       ],
       [
         "20260721",
-        61.1
+        63.9
       ],
       [
         "20260722",
-        61.1
+        63.9
       ],
       [
         "20260723",
-        61.1
+        63.9
       ],
       [
         "20260724",
-        61.1
+        63.9
       ],
       [
         "20260725",
-        61.1
+        63.9
       ],
       [
         "20260726",
-        61.1
+        63.9
+      ],
+      [
+        "20260727",
+        62.1
+      ]
+    ],
+    "260172": [
+      [
+        "20260711",
+        58.5
+      ],
+      [
+        "20260712",
+        58.5
+      ],
+      [
+        "20260713",
+        58.0
+      ],
+      [
+        "20260714",
+        58.0
+      ],
+      [
+        "20260715",
+        58.0
+      ],
+      [
+        "20260716",
+        58.0
+      ],
+      [
+        "20260717",
+        58.0
+      ],
+      [
+        "20260718",
+        58.0
+      ],
+      [
+        "20260719",
+        58.0
+      ],
+      [
+        "20260720",
+        58.0
+      ],
+      [
+        "20260721",
+        58.0
+      ],
+      [
+        "20260722",
+        58.0
+      ],
+      [
+        "20260723",
+        58.0
+      ],
+      [
+        "20260724",
+        58.0
+      ],
+      [
+        "20260725",
+        58.0
+      ],
+      [
+        "20260726",
+        58.0
+      ],
+      [
+        "20260727",
+        61.7
+      ]
+    ],
+    "220714": [
+      [
+        "20260711",
+        65.7
+      ],
+      [
+        "20260712",
+        65.7
+      ],
+      [
+        "20260713",
+        62.8
+      ],
+      [
+        "20260714",
+        62.8
+      ],
+      [
+        "20260715",
+        62.8
+      ],
+      [
+        "20260716",
+        62.8
+      ],
+      [
+        "20260717",
+        62.8
+      ],
+      [
+        "20260718",
+        62.8
+      ],
+      [
+        "20260719",
+        62.8
+      ],
+      [
+        "20260720",
+        61.6
+      ],
+      [
+        "20260721",
+        61.6
+      ],
+      [
+        "20260722",
+        61.6
+      ],
+      [
+        "20260723",
+        61.6
+      ],
+      [
+        "20260724",
+        61.6
+      ],
+      [
+        "20260725",
+        61.6
+      ],
+      [
+        "20260726",
+        61.6
+      ],
+      [
+        "20260727",
+        61.3
       ]
     ],
     "211843": [
       [
-        "20260710",
-        61.1
-      ],
-      [
         "20260711",
         61.1
       ],
@@ -25584,14 +25647,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         60.9
+      ],
+      [
+        "20260727",
+        61.2
       ]
     ],
     "222045": [
       [
-        "20260710",
-        60.9
-      ],
-      [
         "20260711",
         60.9
       ],
@@ -25654,84 +25717,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         60.8
-      ]
-    ],
-    "263857": [
-      [
-        "20260710",
-        62.0
       ],
       [
-        "20260711",
-        62.0
-      ],
-      [
-        "20260712",
-        62.0
-      ],
-      [
-        "20260713",
-        61.0
-      ],
-      [
-        "20260714",
-        61.0
-      ],
-      [
-        "20260715",
-        61.0
-      ],
-      [
-        "20260716",
-        61.0
-      ],
-      [
-        "20260717",
-        61.0
-      ],
-      [
-        "20260718",
-        61.0
-      ],
-      [
-        "20260719",
-        61.0
-      ],
-      [
-        "20260720",
-        60.1
-      ],
-      [
-        "20260721",
-        60.1
-      ],
-      [
-        "20260722",
-        60.1
-      ],
-      [
-        "20260723",
-        60.1
-      ],
-      [
-        "20260724",
-        60.1
-      ],
-      [
-        "20260725",
-        60.1
-      ],
-      [
-        "20260726",
-        60.1
+        "20260727",
+        60.2
       ]
     ],
     "238184": [
       [
-        "20260710",
-        62.5
-      ],
-      [
         "20260711",
         62.5
       ],
@@ -25794,14 +25787,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         60.0
+      ],
+      [
+        "20260727",
+        59.8
       ]
     ],
     "214643": [
       [
-        "20260710",
-        64.9
-      ],
-      [
         "20260711",
         64.9
       ],
@@ -25864,14 +25857,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         60.0
+      ],
+      [
+        "20260727",
+        59.8
       ]
     ],
     "202499": [
       [
-        "20260710",
-        61.4
-      ],
-      [
         "20260711",
         61.4
       ],
@@ -25934,84 +25927,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         59.6
+      ],
+      [
+        "20260727",
+        59.7
       ]
     ],
-    "230319": [
-      [
-        "20260710",
-        61.1
-      ],
+    "263857": [
       [
         "20260711",
-        61.1
+        62.0
       ],
       [
         "20260712",
-        61.1
+        62.0
       ],
       [
         "20260713",
-        60.8
+        61.0
       ],
       [
         "20260714",
-        60.8
+        61.0
       ],
       [
         "20260715",
-        60.8
+        61.0
       ],
       [
         "20260716",
-        60.8
+        61.0
       ],
       [
         "20260717",
-        60.8
+        61.0
       ],
       [
         "20260718",
-        60.8
+        61.0
       ],
       [
         "20260719",
-        60.8
+        61.0
       ],
       [
         "20260720",
-        59.6
+        60.1
       ],
       [
         "20260721",
-        59.6
+        60.1
       ],
       [
         "20260722",
-        59.6
+        60.1
       ],
       [
         "20260723",
-        59.6
+        60.1
       ],
       [
         "20260724",
-        59.6
+        60.1
       ],
       [
         "20260725",
-        59.6
+        60.1
       ],
       [
         "20260726",
+        60.1
+      ],
+      [
+        "20260727",
         59.6
       ]
     ],
     "233741": [
       [
-        "20260710",
-        59.6
-      ],
-      [
         "20260711",
         59.6
       ],
@@ -26074,154 +26067,224 @@ window.TENNIS_DATA = {
       [
         "20260726",
         59.4
+      ],
+      [
+        "20260727",
+        59.5
       ]
     ],
-    "203530": [
-      [
-        "20260710",
-        58.5
-      ],
+    "230319": [
       [
         "20260711",
-        58.5
+        61.1
       ],
       [
         "20260712",
-        58.5
+        61.1
       ],
       [
         "20260713",
-        60.1
+        60.8
       ],
       [
         "20260714",
-        60.1
+        60.8
       ],
       [
         "20260715",
-        60.1
+        60.8
       ],
       [
         "20260716",
-        60.1
+        60.8
       ],
       [
         "20260717",
-        60.1
+        60.8
       ],
       [
         "20260718",
-        60.1
+        60.8
       ],
       [
         "20260719",
-        60.1
+        60.8
       ],
       [
         "20260720",
-        58.8
+        59.6
       ],
       [
         "20260721",
-        58.8
+        59.6
       ],
       [
         "20260722",
-        58.8
+        59.6
       ],
       [
         "20260723",
-        58.8
+        59.6
       ],
       [
         "20260724",
-        58.8
+        59.6
       ],
       [
         "20260725",
-        58.8
+        59.6
       ],
       [
         "20260726",
-        58.8
+        59.6
+      ],
+      [
+        "20260727",
+        59.3
       ]
     ],
-    "220309": [
-      [
-        "20260710",
-        60.0
-      ],
+    "216083": [
       [
         "20260711",
-        60.0
+        63.4
       ],
       [
         "20260712",
-        60.0
+        63.4
       ],
       [
         "20260713",
-        60.1
+        62.3
       ],
       [
         "20260714",
-        60.1
+        62.3
       ],
       [
         "20260715",
-        60.1
+        62.3
       ],
       [
         "20260716",
-        60.1
+        62.3
       ],
       [
         "20260717",
-        60.1
+        62.3
       ],
       [
         "20260718",
-        60.1
+        62.3
       ],
       [
         "20260719",
-        60.1
+        62.3
       ],
       [
         "20260720",
-        58.8
+        61.6
       ],
       [
         "20260721",
-        58.8
+        61.6
       ],
       [
         "20260722",
-        58.8
+        61.6
       ],
       [
         "20260723",
-        58.8
+        61.6
       ],
       [
         "20260724",
-        58.8
+        61.6
       ],
       [
         "20260725",
-        58.8
+        61.6
       ],
       [
         "20260726",
-        58.8
+        61.6
+      ],
+      [
+        "20260727",
+        59.0
+      ]
+    ],
+    "203501": [
+      [
+        "20260711",
+        63.0
+      ],
+      [
+        "20260712",
+        63.0
+      ],
+      [
+        "20260713",
+        62.7
+      ],
+      [
+        "20260714",
+        62.7
+      ],
+      [
+        "20260715",
+        62.7
+      ],
+      [
+        "20260716",
+        62.7
+      ],
+      [
+        "20260717",
+        62.7
+      ],
+      [
+        "20260718",
+        62.7
+      ],
+      [
+        "20260719",
+        62.7
+      ],
+      [
+        "20260720",
+        61.1
+      ],
+      [
+        "20260721",
+        61.1
+      ],
+      [
+        "20260722",
+        61.1
+      ],
+      [
+        "20260723",
+        61.1
+      ],
+      [
+        "20260724",
+        61.1
+      ],
+      [
+        "20260725",
+        61.1
+      ],
+      [
+        "20260726",
+        61.1
+      ],
+      [
+        "20260727",
+        58.9
       ]
     ],
     "201696": [
       [
-        "20260710",
-        66.2
-      ],
-      [
         "20260711",
         66.2
       ],
@@ -26284,14 +26347,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         58.6
+      ],
+      [
+        "20260727",
+        58.7
       ]
     ],
     "220332": [
       [
-        "20260710",
-        61.3
-      ],
-      [
         "20260711",
         61.3
       ],
@@ -26354,83 +26417,13 @@ window.TENNIS_DATA = {
       [
         "20260726",
         58.5
+      ],
+      [
+        "20260727",
+        58.6
       ]
     ],
-    "211337": [
-      [
-        "20260710",
-        60.2
-      ],
-      [
-        "20260711",
-        60.2
-      ],
-      [
-        "20260712",
-        60.2
-      ],
-      [
-        "20260713",
-        60.4
-      ],
-      [
-        "20260714",
-        60.4
-      ],
-      [
-        "20260715",
-        60.4
-      ],
-      [
-        "20260716",
-        60.4
-      ],
-      [
-        "20260717",
-        60.4
-      ],
-      [
-        "20260718",
-        60.4
-      ],
-      [
-        "20260719",
-        60.4
-      ],
-      [
-        "20260720",
-        58.4
-      ],
-      [
-        "20260721",
-        58.4
-      ],
-      [
-        "20260722",
-        58.4
-      ],
-      [
-        "20260723",
-        58.4
-      ],
-      [
-        "20260724",
-        58.4
-      ],
-      [
-        "20260725",
-        58.4
-      ],
-      [
-        "20260726",
-        58.4
-      ]
-    ],
-    "260172": [
-      [
-        "20260710",
-        58.5
-      ],
+    "203530": [
       [
         "20260711",
         58.5
@@ -26441,207 +26434,137 @@ window.TENNIS_DATA = {
       ],
       [
         "20260713",
-        58.0
+        60.1
       ],
       [
         "20260714",
-        58.0
+        60.1
       ],
       [
         "20260715",
-        58.0
+        60.1
       ],
       [
         "20260716",
-        58.0
+        60.1
       ],
       [
         "20260717",
-        58.0
+        60.1
       ],
       [
         "20260718",
-        58.0
+        60.1
       ],
       [
         "20260719",
-        58.0
+        60.1
       ],
       [
         "20260720",
-        58.0
+        58.8
       ],
       [
         "20260721",
-        58.0
+        58.8
       ],
       [
         "20260722",
-        58.0
+        58.8
       ],
       [
         "20260723",
-        58.0
+        58.8
       ],
       [
         "20260724",
-        58.0
+        58.8
       ],
       [
         "20260725",
-        58.0
+        58.8
       ],
       [
         "20260726",
-        58.0
-      ]
-    ],
-    "221909": [
-      [
-        "20260710",
-        55.1
+        58.8
       ],
       [
+        "20260727",
+        58.3
+      ]
+    ],
+    "220309": [
+      [
         "20260711",
-        55.1
+        60.0
       ],
       [
         "20260712",
-        55.1
+        60.0
       ],
       [
         "20260713",
-        59.1
+        60.1
       ],
       [
         "20260714",
-        59.1
+        60.1
       ],
       [
         "20260715",
-        59.1
+        60.1
       ],
       [
         "20260716",
-        59.1
+        60.1
       ],
       [
         "20260717",
-        59.1
+        60.1
       ],
       [
         "20260718",
-        59.1
+        60.1
       ],
       [
         "20260719",
-        59.1
+        60.1
       ],
       [
         "20260720",
-        57.9
+        58.8
       ],
       [
         "20260721",
-        57.9
+        58.8
       ],
       [
         "20260722",
-        57.9
+        58.8
       ],
       [
         "20260723",
-        57.9
+        58.8
       ],
       [
         "20260724",
-        57.9
+        58.8
       ],
       [
         "20260725",
-        57.9
+        58.8
       ],
       [
         "20260726",
-        57.9
-      ]
-    ],
-    "211817": [
-      [
-        "20260710",
-        59.5
+        58.8
       ],
       [
-        "20260711",
-        59.5
-      ],
-      [
-        "20260712",
-        59.5
-      ],
-      [
-        "20260713",
-        59.1
-      ],
-      [
-        "20260714",
-        59.1
-      ],
-      [
-        "20260715",
-        59.1
-      ],
-      [
-        "20260716",
-        59.1
-      ],
-      [
-        "20260717",
-        59.1
-      ],
-      [
-        "20260718",
-        59.1
-      ],
-      [
-        "20260719",
-        59.1
-      ],
-      [
-        "20260720",
-        57.8
-      ],
-      [
-        "20260721",
-        57.8
-      ],
-      [
-        "20260722",
-        57.8
-      ],
-      [
-        "20260723",
-        57.8
-      ],
-      [
-        "20260724",
-        57.8
-      ],
-      [
-        "20260725",
-        57.8
-      ],
-      [
-        "20260726",
-        57.8
+        "20260727",
+        58.3
       ]
     ],
     "214954": [
       [
-        "20260710",
-        58.7
-      ],
-      [
         "20260711",
         58.7
       ],
@@ -26704,14 +26627,154 @@ window.TENNIS_DATA = {
       [
         "20260726",
         57.7
+      ],
+      [
+        "20260727",
+        57.7
+      ]
+    ],
+    "221909": [
+      [
+        "20260711",
+        55.1
+      ],
+      [
+        "20260712",
+        55.1
+      ],
+      [
+        "20260713",
+        59.1
+      ],
+      [
+        "20260714",
+        59.1
+      ],
+      [
+        "20260715",
+        59.1
+      ],
+      [
+        "20260716",
+        59.1
+      ],
+      [
+        "20260717",
+        59.1
+      ],
+      [
+        "20260718",
+        59.1
+      ],
+      [
+        "20260719",
+        59.1
+      ],
+      [
+        "20260720",
+        57.9
+      ],
+      [
+        "20260721",
+        57.9
+      ],
+      [
+        "20260722",
+        57.9
+      ],
+      [
+        "20260723",
+        57.9
+      ],
+      [
+        "20260724",
+        57.9
+      ],
+      [
+        "20260725",
+        57.9
+      ],
+      [
+        "20260726",
+        57.9
+      ],
+      [
+        "20260727",
+        57.6
+      ]
+    ],
+    "211817": [
+      [
+        "20260711",
+        59.5
+      ],
+      [
+        "20260712",
+        59.5
+      ],
+      [
+        "20260713",
+        59.1
+      ],
+      [
+        "20260714",
+        59.1
+      ],
+      [
+        "20260715",
+        59.1
+      ],
+      [
+        "20260716",
+        59.1
+      ],
+      [
+        "20260717",
+        59.1
+      ],
+      [
+        "20260718",
+        59.1
+      ],
+      [
+        "20260719",
+        59.1
+      ],
+      [
+        "20260720",
+        57.8
+      ],
+      [
+        "20260721",
+        57.8
+      ],
+      [
+        "20260722",
+        57.8
+      ],
+      [
+        "20260723",
+        57.8
+      ],
+      [
+        "20260724",
+        57.8
+      ],
+      [
+        "20260725",
+        57.8
+      ],
+      [
+        "20260726",
+        57.8
+      ],
+      [
+        "20260727",
+        57.5
       ]
     ],
     "215035": [
       [
-        "20260710",
-        61.5
-      ],
-      [
         "20260711",
         61.5
       ],
@@ -26774,14 +26837,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         57.4
+      ],
+      [
+        "20260727",
+        57.5
       ]
     ],
     "214082": [
       [
-        "20260710",
-        58.3
-      ],
-      [
         "20260711",
         58.3
       ],
@@ -26843,85 +26906,85 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        57.3
+      ],
+      [
+        "20260727",
         57.3
       ]
     ],
-    "201533": [
-      [
-        "20260710",
-        57.6
-      ],
+    "214388": [
       [
         "20260711",
-        57.6
+        59.3
       ],
       [
         "20260712",
-        57.6
+        59.3
       ],
       [
         "20260713",
-        58.6
+        59.1
       ],
       [
         "20260714",
-        58.6
+        59.1
       ],
       [
         "20260715",
-        58.6
+        59.1
       ],
       [
         "20260716",
-        58.6
+        59.1
       ],
       [
         "20260717",
-        58.6
+        59.1
       ],
       [
         "20260718",
-        58.6
+        59.1
       ],
       [
         "20260719",
-        58.6
+        59.1
       ],
       [
         "20260720",
-        57.2
+        54.7
       ],
       [
         "20260721",
-        57.2
+        54.7
       ],
       [
         "20260722",
-        57.2
+        54.7
       ],
       [
         "20260723",
-        57.2
+        54.7
       ],
       [
         "20260724",
-        57.2
+        54.7
       ],
       [
         "20260725",
-        57.2
+        54.7
       ],
       [
         "20260726",
-        57.2
+        54.7
+      ],
+      [
+        "20260727",
+        57.3
       ]
     ],
     "221333": [
       [
-        "20260710",
-        62.3
-      ],
-      [
         "20260711",
         62.3
       ],
@@ -26984,14 +27047,154 @@ window.TENNIS_DATA = {
       [
         "20260726",
         56.9
+      ],
+      [
+        "20260727",
+        57.1
+      ]
+    ],
+    "201533": [
+      [
+        "20260711",
+        57.6
+      ],
+      [
+        "20260712",
+        57.6
+      ],
+      [
+        "20260713",
+        58.6
+      ],
+      [
+        "20260714",
+        58.6
+      ],
+      [
+        "20260715",
+        58.6
+      ],
+      [
+        "20260716",
+        58.6
+      ],
+      [
+        "20260717",
+        58.6
+      ],
+      [
+        "20260718",
+        58.6
+      ],
+      [
+        "20260719",
+        58.6
+      ],
+      [
+        "20260720",
+        57.2
+      ],
+      [
+        "20260721",
+        57.2
+      ],
+      [
+        "20260722",
+        57.2
+      ],
+      [
+        "20260723",
+        57.2
+      ],
+      [
+        "20260724",
+        57.2
+      ],
+      [
+        "20260725",
+        57.2
+      ],
+      [
+        "20260726",
+        57.2
+      ],
+      [
+        "20260727",
+        56.9
+      ]
+    ],
+    "213710": [
+      [
+        "20260711",
+        58.3
+      ],
+      [
+        "20260712",
+        58.3
+      ],
+      [
+        "20260713",
+        57.3
+      ],
+      [
+        "20260714",
+        57.3
+      ],
+      [
+        "20260715",
+        57.3
+      ],
+      [
+        "20260716",
+        57.3
+      ],
+      [
+        "20260717",
+        57.3
+      ],
+      [
+        "20260718",
+        57.3
+      ],
+      [
+        "20260719",
+        57.3
+      ],
+      [
+        "20260720",
+        55.8
+      ],
+      [
+        "20260721",
+        55.8
+      ],
+      [
+        "20260722",
+        55.8
+      ],
+      [
+        "20260723",
+        55.8
+      ],
+      [
+        "20260724",
+        55.8
+      ],
+      [
+        "20260725",
+        55.8
+      ],
+      [
+        "20260726",
+        55.8
+      ],
+      [
+        "20260727",
+        56.1
       ]
     ],
     "211684": [
       [
-        "20260710",
-        58.1
-      ],
-      [
         "20260711",
         58.1
       ],
@@ -27054,14 +27257,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         56.6
+      ],
+      [
+        "20260727",
+        56.0
       ]
     ],
     "238075": [
       [
-        "20260710",
-        58.4
-      ],
-      [
         "20260711",
         58.4
       ],
@@ -27124,14 +27327,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         56.5
+      ],
+      [
+        "20260727",
+        56.0
       ]
     ],
     "222601": [
       [
-        "20260710",
-        58.3
-      ],
-      [
         "20260711",
         58.3
       ],
@@ -27193,15 +27396,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        55.9
+      ],
+      [
+        "20260727",
         55.9
       ]
     ],
     "219917": [
       [
-        "20260710",
-        55.6
-      ],
-      [
         "20260711",
         55.6
       ],
@@ -27264,84 +27467,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         55.9
-      ]
-    ],
-    "213710": [
-      [
-        "20260710",
-        58.3
       ],
       [
-        "20260711",
-        58.3
-      ],
-      [
-        "20260712",
-        58.3
-      ],
-      [
-        "20260713",
-        57.3
-      ],
-      [
-        "20260714",
-        57.3
-      ],
-      [
-        "20260715",
-        57.3
-      ],
-      [
-        "20260716",
-        57.3
-      ],
-      [
-        "20260717",
-        57.3
-      ],
-      [
-        "20260718",
-        57.3
-      ],
-      [
-        "20260719",
-        57.3
-      ],
-      [
-        "20260720",
-        55.8
-      ],
-      [
-        "20260721",
-        55.8
-      ],
-      [
-        "20260722",
-        55.8
-      ],
-      [
-        "20260723",
-        55.8
-      ],
-      [
-        "20260724",
-        55.8
-      ],
-      [
-        "20260725",
-        55.8
-      ],
-      [
-        "20260726",
-        55.8
+        "20260727",
+        55.6
       ]
     ],
     "222145": [
       [
-        "20260710",
-        56.5
-      ],
-      [
         "20260711",
         56.5
       ],
@@ -27404,14 +27537,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         55.4
+      ],
+      [
+        "20260727",
+        55.5
       ]
     ],
     "214040": [
       [
-        "20260710",
-        55.7
-      ],
-      [
         "20260711",
         55.7
       ],
@@ -27474,14 +27607,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         55.1
+      ],
+      [
+        "20260727",
+        54.8
       ]
     ],
     "215910": [
       [
-        "20260710",
-        56.9
-      ],
-      [
         "20260711",
         56.9
       ],
@@ -27544,84 +27677,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         55.0
-      ]
-    ],
-    "214388": [
-      [
-        "20260710",
-        59.3
       ],
       [
-        "20260711",
-        59.3
-      ],
-      [
-        "20260712",
-        59.3
-      ],
-      [
-        "20260713",
-        59.1
-      ],
-      [
-        "20260714",
-        59.1
-      ],
-      [
-        "20260715",
-        59.1
-      ],
-      [
-        "20260716",
-        59.1
-      ],
-      [
-        "20260717",
-        59.1
-      ],
-      [
-        "20260718",
-        59.1
-      ],
-      [
-        "20260719",
-        59.1
-      ],
-      [
-        "20260720",
-        54.7
-      ],
-      [
-        "20260721",
-        54.7
-      ],
-      [
-        "20260722",
-        54.7
-      ],
-      [
-        "20260723",
-        54.7
-      ],
-      [
-        "20260724",
-        54.7
-      ],
-      [
-        "20260725",
-        54.7
-      ],
-      [
-        "20260726",
-        54.7
+        "20260727",
+        54.6
       ]
     ],
     "221883": [
       [
-        "20260710",
-        57.5
-      ],
-      [
         "20260711",
         57.5
       ],
@@ -27684,84 +27747,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         54.4
+      ],
+      [
+        "20260727",
+        54.1
       ]
     ],
-    "252499": [
-      [
-        "20260710",
-        52.8
-      ],
+    "211651": [
       [
         "20260711",
-        52.8
+        53.0
       ],
       [
         "20260712",
-        52.8
+        53.0
       ],
       [
         "20260713",
-        53.5
+        52.8
       ],
       [
         "20260714",
-        53.5
+        52.8
       ],
       [
         "20260715",
-        53.5
+        52.8
       ],
       [
         "20260716",
-        53.5
+        52.8
       ],
       [
         "20260717",
-        53.5
+        52.8
       ],
       [
         "20260718",
-        53.5
+        52.8
       ],
       [
         "20260719",
-        53.5
+        52.8
       ],
       [
         "20260720",
-        53.9
+        52.3
       ],
       [
         "20260721",
-        53.9
+        52.3
       ],
       [
         "20260722",
-        53.9
+        52.3
       ],
       [
         "20260723",
-        53.9
+        52.3
       ],
       [
         "20260724",
-        53.9
+        52.3
       ],
       [
         "20260725",
-        53.9
+        52.3
       ],
       [
         "20260726",
-        53.9
+        52.3
+      ],
+      [
+        "20260727",
+        53.5
       ]
     ],
     "221354": [
       [
-        "20260710",
-        54.2
-      ],
-      [
         "20260711",
         54.2
       ],
@@ -27823,15 +27886,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        52.5
+      ],
+      [
+        "20260727",
         52.5
       ]
     ],
     "201709": [
       [
-        "20260710",
-        53.5
-      ],
-      [
         "20260711",
         53.5
       ],
@@ -27894,76 +27957,80 @@ window.TENNIS_DATA = {
       [
         "20260726",
         52.4
+      ],
+      [
+        "20260727",
+        52.2
       ]
     ],
-    "211651": [
-      [
-        "20260710",
-        53.0
-      ],
+    "252499": [
       [
         "20260711",
-        53.0
+        52.8
       ],
       [
         "20260712",
-        53.0
+        52.8
       ],
       [
         "20260713",
-        52.8
+        53.5
       ],
       [
         "20260714",
-        52.8
+        53.5
       ],
       [
         "20260715",
-        52.8
+        53.5
       ],
       [
         "20260716",
-        52.8
+        53.5
       ],
       [
         "20260717",
-        52.8
+        53.5
       ],
       [
         "20260718",
-        52.8
+        53.5
       ],
       [
         "20260719",
-        52.8
+        53.5
       ],
       [
         "20260720",
-        52.3
+        53.9
       ],
       [
         "20260721",
-        52.3
+        53.9
       ],
       [
         "20260722",
-        52.3
+        53.9
       ],
       [
         "20260723",
-        52.3
+        53.9
       ],
       [
         "20260724",
-        52.3
+        53.9
       ],
       [
         "20260725",
-        52.3
+        53.9
       ],
       [
         "20260726",
-        52.3
+        53.9
+      ],
+      [
+        "20260727",
+        52.2
       ]
     ],
     "259871": [
@@ -28022,14 +28089,24 @@ window.TENNIS_DATA = {
       [
         "20260726",
         51.8
+      ],
+      [
+        "20260727",
+        51.8
+      ]
+    ],
+    "267020": [
+      [
+        "20260720",
+        51.8
+      ],
+      [
+        "20260727",
+        51.8
       ]
     ],
     "213550": [
       [
-        "20260710",
-        53.3
-      ],
-      [
         "20260711",
         53.3
       ],
@@ -28092,84 +28169,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         51.5
-      ]
-    ],
-    "213583": [
-      [
-        "20260710",
-        50.5
       ],
       [
-        "20260711",
-        50.5
-      ],
-      [
-        "20260712",
-        50.5
-      ],
-      [
-        "20260713",
-        52.7
-      ],
-      [
-        "20260714",
-        52.7
-      ],
-      [
-        "20260715",
-        52.7
-      ],
-      [
-        "20260716",
-        52.7
-      ],
-      [
-        "20260717",
-        52.7
-      ],
-      [
-        "20260718",
-        52.7
-      ],
-      [
-        "20260719",
-        52.7
-      ],
-      [
-        "20260720",
-        51.2
-      ],
-      [
-        "20260721",
-        51.2
-      ],
-      [
-        "20260722",
-        51.2
-      ],
-      [
-        "20260723",
-        51.2
-      ],
-      [
-        "20260724",
-        51.2
-      ],
-      [
-        "20260725",
-        51.2
-      ],
-      [
-        "20260726",
-        51.2
+        "20260727",
+        51.5
       ]
     ],
     "201548": [
       [
-        "20260710",
-        52.5
-      ],
-      [
         "20260711",
         52.5
       ],
@@ -28232,14 +28239,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         50.7
+      ],
+      [
+        "20260727",
+        51.0
+      ]
+    ],
+    "213583": [
+      [
+        "20260711",
+        50.5
+      ],
+      [
+        "20260712",
+        50.5
+      ],
+      [
+        "20260713",
+        52.7
+      ],
+      [
+        "20260714",
+        52.7
+      ],
+      [
+        "20260715",
+        52.7
+      ],
+      [
+        "20260716",
+        52.7
+      ],
+      [
+        "20260717",
+        52.7
+      ],
+      [
+        "20260718",
+        52.7
+      ],
+      [
+        "20260719",
+        52.7
+      ],
+      [
+        "20260720",
+        51.2
+      ],
+      [
+        "20260721",
+        51.2
+      ],
+      [
+        "20260722",
+        51.2
+      ],
+      [
+        "20260723",
+        51.2
+      ],
+      [
+        "20260724",
+        51.2
+      ],
+      [
+        "20260725",
+        51.2
+      ],
+      [
+        "20260726",
+        51.2
+      ],
+      [
+        "20260727",
+        50.8
       ]
     ],
     "213887": [
       [
-        "20260710",
-        53.1
-      ],
-      [
         "20260711",
         53.1
       ],
@@ -28302,84 +28379,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         50.1
-      ]
-    ],
-    "215872": [
-      [
-        "20260710",
-        52.9
       ],
       [
-        "20260711",
-        52.9
-      ],
-      [
-        "20260712",
-        52.9
-      ],
-      [
-        "20260713",
-        51.6
-      ],
-      [
-        "20260714",
-        51.6
-      ],
-      [
-        "20260715",
-        51.6
-      ],
-      [
-        "20260716",
-        51.6
-      ],
-      [
-        "20260717",
-        51.6
-      ],
-      [
-        "20260718",
-        51.6
-      ],
-      [
-        "20260719",
-        51.6
-      ],
-      [
-        "20260720",
-        50.0
-      ],
-      [
-        "20260721",
-        50.0
-      ],
-      [
-        "20260722",
-        50.0
-      ],
-      [
-        "20260723",
-        50.0
-      ],
-      [
-        "20260724",
-        50.0
-      ],
-      [
-        "20260725",
-        50.0
-      ],
-      [
-        "20260726",
-        50.0
+        "20260727",
+        50.4
       ]
     ],
     "222966": [
       [
-        "20260710",
-        51.4
-      ],
-      [
         "20260711",
         51.4
       ],
@@ -28441,15 +28448,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        49.8
+      ],
+      [
+        "20260727",
         49.8
       ]
     ],
     "215453": [
       [
-        "20260710",
-        51.6
-      ],
-      [
         "20260711",
         51.6
       ],
@@ -28512,14 +28519,84 @@ window.TENNIS_DATA = {
       [
         "20260726",
         49.7
+      ],
+      [
+        "20260727",
+        49.7
+      ]
+    ],
+    "215872": [
+      [
+        "20260711",
+        52.9
+      ],
+      [
+        "20260712",
+        52.9
+      ],
+      [
+        "20260713",
+        51.6
+      ],
+      [
+        "20260714",
+        51.6
+      ],
+      [
+        "20260715",
+        51.6
+      ],
+      [
+        "20260716",
+        51.6
+      ],
+      [
+        "20260717",
+        51.6
+      ],
+      [
+        "20260718",
+        51.6
+      ],
+      [
+        "20260719",
+        51.6
+      ],
+      [
+        "20260720",
+        50.0
+      ],
+      [
+        "20260721",
+        50.0
+      ],
+      [
+        "20260722",
+        50.0
+      ],
+      [
+        "20260723",
+        50.0
+      ],
+      [
+        "20260724",
+        50.0
+      ],
+      [
+        "20260725",
+        50.0
+      ],
+      [
+        "20260726",
+        50.0
+      ],
+      [
+        "20260727",
+        49.5
       ]
     ],
     "203514": [
       [
-        "20260710",
-        50.4
-      ],
-      [
         "20260711",
         50.4
       ],
@@ -28581,15 +28658,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        48.9
+      ],
+      [
+        "20260727",
         48.9
       ]
     ],
     "247669": [
       [
-        "20260710",
-        50.5
-      ],
-      [
         "20260711",
         50.5
       ],
@@ -28651,15 +28728,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        48.9
+      ],
+      [
+        "20260727",
         48.9
       ]
     ],
     "223194": [
       [
-        "20260710",
-        49.8
-      ],
-      [
         "20260711",
         49.8
       ],
@@ -28721,15 +28798,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        48.5
+      ],
+      [
+        "20260727",
         48.5
       ]
     ],
     "215306": [
       [
-        "20260710",
-        50.0
-      ],
-      [
         "20260711",
         50.0
       ],
@@ -28792,14 +28869,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         48.2
+      ],
+      [
+        "20260727",
+        48.4
       ]
     ],
     "215020": [
       [
-        "20260710",
-        50.0
-      ],
-      [
         "20260711",
         50.0
       ],
@@ -28861,15 +28938,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        48.1
+      ],
+      [
+        "20260727",
         48.1
       ]
     ],
     "211685": [
       [
-        "20260710",
-        49.9
-      ],
-      [
         "20260711",
         49.9
       ],
@@ -28931,15 +29008,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        48.0
+      ],
+      [
+        "20260727",
         48.0
       ]
     ],
     "243420": [
       [
-        "20260710",
-        48.6
-      ],
-      [
         "20260711",
         48.6
       ],
@@ -29002,14 +29079,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         47.7
+      ],
+      [
+        "20260727",
+        47.8
       ]
     ],
     "221407": [
       [
-        "20260710",
-        50.2
-      ],
-      [
         "20260711",
         50.2
       ],
@@ -29072,14 +29149,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         47.5
+      ],
+      [
+        "20260727",
+        47.6
       ]
     ],
     "259733": [
       [
-        "20260710",
-        48.7
-      ],
-      [
         "20260711",
         48.7
       ],
@@ -29141,15 +29218,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        46.7
+      ],
+      [
+        "20260727",
         46.7
       ]
     ],
     "221039": [
       [
-        "20260710",
-        50.2
-      ],
-      [
         "20260711",
         50.2
       ],
@@ -29212,142 +29289,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         45.7
-      ]
-    ],
-    "261972": [
-      [
-        "20260713",
-        47.3
       ],
       [
-        "20260714",
-        47.3
-      ],
-      [
-        "20260715",
-        47.3
-      ],
-      [
-        "20260716",
-        47.3
-      ],
-      [
-        "20260717",
-        47.3
-      ],
-      [
-        "20260718",
-        47.3
-      ],
-      [
-        "20260719",
-        47.3
-      ],
-      [
-        "20260720",
-        45.6
-      ],
-      [
-        "20260721",
-        45.6
-      ],
-      [
-        "20260722",
-        45.6
-      ],
-      [
-        "20260723",
-        45.6
-      ],
-      [
-        "20260724",
-        45.6
-      ],
-      [
-        "20260725",
-        45.6
-      ],
-      [
-        "20260726",
-        45.6
-      ]
-    ],
-    "206368": [
-      [
-        "20260710",
-        46.8
-      ],
-      [
-        "20260711",
-        46.8
-      ],
-      [
-        "20260712",
-        46.8
-      ],
-      [
-        "20260713",
-        46.6
-      ],
-      [
-        "20260714",
-        46.6
-      ],
-      [
-        "20260715",
-        46.6
-      ],
-      [
-        "20260716",
-        46.6
-      ],
-      [
-        "20260717",
-        46.6
-      ],
-      [
-        "20260718",
-        46.6
-      ],
-      [
-        "20260719",
-        46.6
-      ],
-      [
-        "20260720",
-        45.4
-      ],
-      [
-        "20260721",
-        45.4
-      ],
-      [
-        "20260722",
-        45.4
-      ],
-      [
-        "20260723",
-        45.4
-      ],
-      [
-        "20260724",
-        45.4
-      ],
-      [
-        "20260725",
-        45.4
-      ],
-      [
-        "20260726",
-        45.4
+        "20260727",
+        46.0
       ]
     ],
     "215899": [
       [
-        "20260710",
-        47.4
-      ],
-      [
         "20260711",
         47.4
       ],
@@ -29410,84 +29359,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         45.3
-      ]
-    ],
-    "214906": [
-      [
-        "20260710",
-        47.3
       ],
       [
-        "20260711",
-        47.3
-      ],
-      [
-        "20260712",
-        47.3
-      ],
-      [
-        "20260713",
-        47.0
-      ],
-      [
-        "20260714",
-        47.0
-      ],
-      [
-        "20260715",
-        47.0
-      ],
-      [
-        "20260716",
-        47.0
-      ],
-      [
-        "20260717",
-        47.0
-      ],
-      [
-        "20260718",
-        47.0
-      ],
-      [
-        "20260719",
-        47.0
-      ],
-      [
-        "20260720",
-        45.3
-      ],
-      [
-        "20260721",
-        45.3
-      ],
-      [
-        "20260722",
-        45.3
-      ],
-      [
-        "20260723",
-        45.3
-      ],
-      [
-        "20260724",
-        45.3
-      ],
-      [
-        "20260725",
-        45.3
-      ],
-      [
-        "20260726",
-        45.3
+        "20260727",
+        45.5
       ]
     ],
     "220465": [
       [
-        "20260710",
-        46.6
-      ],
-      [
         "20260711",
         46.6
       ],
@@ -29550,14 +29429,154 @@ window.TENNIS_DATA = {
       [
         "20260726",
         45.2
+      ],
+      [
+        "20260727",
+        45.4
+      ]
+    ],
+    "206368": [
+      [
+        "20260711",
+        46.8
+      ],
+      [
+        "20260712",
+        46.8
+      ],
+      [
+        "20260713",
+        46.6
+      ],
+      [
+        "20260714",
+        46.6
+      ],
+      [
+        "20260715",
+        46.6
+      ],
+      [
+        "20260716",
+        46.6
+      ],
+      [
+        "20260717",
+        46.6
+      ],
+      [
+        "20260718",
+        46.6
+      ],
+      [
+        "20260719",
+        46.6
+      ],
+      [
+        "20260720",
+        45.4
+      ],
+      [
+        "20260721",
+        45.4
+      ],
+      [
+        "20260722",
+        45.4
+      ],
+      [
+        "20260723",
+        45.4
+      ],
+      [
+        "20260724",
+        45.4
+      ],
+      [
+        "20260725",
+        45.4
+      ],
+      [
+        "20260726",
+        45.4
+      ],
+      [
+        "20260727",
+        45.4
+      ]
+    ],
+    "214906": [
+      [
+        "20260711",
+        47.3
+      ],
+      [
+        "20260712",
+        47.3
+      ],
+      [
+        "20260713",
+        47.0
+      ],
+      [
+        "20260714",
+        47.0
+      ],
+      [
+        "20260715",
+        47.0
+      ],
+      [
+        "20260716",
+        47.0
+      ],
+      [
+        "20260717",
+        47.0
+      ],
+      [
+        "20260718",
+        47.0
+      ],
+      [
+        "20260719",
+        47.0
+      ],
+      [
+        "20260720",
+        45.3
+      ],
+      [
+        "20260721",
+        45.3
+      ],
+      [
+        "20260722",
+        45.3
+      ],
+      [
+        "20260723",
+        45.3
+      ],
+      [
+        "20260724",
+        45.3
+      ],
+      [
+        "20260725",
+        45.3
+      ],
+      [
+        "20260726",
+        45.3
+      ],
+      [
+        "20260727",
+        45.3
       ]
     ],
     "263644": [
       [
-        "20260710",
-        47.1
-      ],
-      [
         "20260711",
         47.1
       ],
@@ -29619,15 +29638,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        45.1
+      ],
+      [
+        "20260727",
         45.1
       ]
     ],
     "205925": [
       [
-        "20260710",
-        46.7
-      ],
-      [
         "20260711",
         46.7
       ],
@@ -29689,15 +29708,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        44.9
+      ],
+      [
+        "20260727",
         44.9
       ]
     ],
     "222661": [
       [
-        "20260710",
-        48.3
-      ],
-      [
         "20260711",
         48.3
       ],
@@ -29759,15 +29778,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        44.7
+      ],
+      [
+        "20260727",
         44.7
       ]
     ],
     "221257": [
       [
-        "20260710",
-        44.8
-      ],
-      [
         "20260711",
         44.8
       ],
@@ -29830,48 +29849,24 @@ window.TENNIS_DATA = {
       [
         "20260726",
         44.5
+      ],
+      [
+        "20260727",
+        44.5
       ]
     ],
-    "206242": [
-      [
-        "20260713",
-        43.9
-      ],
+    "220699": [
       [
         "20260720",
-        43.9
+        54.3
       ],
       [
-        "20260721",
-        43.9
-      ],
-      [
-        "20260722",
-        43.9
-      ],
-      [
-        "20260723",
-        43.9
-      ],
-      [
-        "20260724",
-        43.9
-      ],
-      [
-        "20260725",
-        43.9
-      ],
-      [
-        "20260726",
-        43.9
+        "20260727",
+        44.3
       ]
     ],
     "220435": [
       [
-        "20260710",
-        47.6
-      ],
-      [
         "20260711",
         47.6
       ],
@@ -29933,15 +29928,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        43.7
+      ],
+      [
+        "20260727",
         43.7
       ]
     ],
     "230870": [
       [
-        "20260710",
-        45.8
-      ],
-      [
         "20260711",
         45.8
       ],
@@ -30004,84 +29999,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         43.7
-      ]
-    ],
-    "221237": [
+      ],
       [
-        "20260710",
+        "20260727",
         43.7
-      ],
-      [
-        "20260711",
-        43.7
-      ],
-      [
-        "20260712",
-        43.7
-      ],
-      [
-        "20260713",
-        45.5
-      ],
-      [
-        "20260714",
-        45.5
-      ],
-      [
-        "20260715",
-        45.5
-      ],
-      [
-        "20260716",
-        45.5
-      ],
-      [
-        "20260717",
-        45.5
-      ],
-      [
-        "20260718",
-        45.5
-      ],
-      [
-        "20260719",
-        45.5
-      ],
-      [
-        "20260720",
-        43.3
-      ],
-      [
-        "20260721",
-        43.3
-      ],
-      [
-        "20260722",
-        43.3
-      ],
-      [
-        "20260723",
-        43.3
-      ],
-      [
-        "20260724",
-        43.3
-      ],
-      [
-        "20260725",
-        43.3
-      ],
-      [
-        "20260726",
-        43.3
       ]
     ],
     "214459": [
       [
-        "20260710",
-        44.9
-      ],
-      [
         "20260711",
         44.9
       ],
@@ -30143,15 +30068,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        42.8
+      ],
+      [
+        "20260727",
         42.8
       ]
     ],
     "223286": [
       [
-        "20260710",
-        44.6
-      ],
-      [
         "20260711",
         44.6
       ],
@@ -30214,84 +30139,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         42.7
-      ]
-    ],
-    "216016": [
-      [
-        "20260710",
-        45.1
       ],
       [
-        "20260711",
-        45.1
-      ],
-      [
-        "20260712",
-        45.1
-      ],
-      [
-        "20260713",
-        44.3
-      ],
-      [
-        "20260714",
-        44.3
-      ],
-      [
-        "20260715",
-        44.3
-      ],
-      [
-        "20260716",
-        44.3
-      ],
-      [
-        "20260717",
-        44.3
-      ],
-      [
-        "20260718",
-        44.3
-      ],
-      [
-        "20260719",
-        44.3
-      ],
-      [
-        "20260720",
-        42.5
-      ],
-      [
-        "20260721",
-        42.5
-      ],
-      [
-        "20260722",
-        42.5
-      ],
-      [
-        "20260723",
-        42.5
-      ],
-      [
-        "20260724",
-        42.5
-      ],
-      [
-        "20260725",
-        42.5
-      ],
-      [
-        "20260726",
-        42.5
+        "20260727",
+        42.7
       ]
     ],
     "220722": [
       [
-        "20260710",
-        44.3
-      ],
-      [
         "20260711",
         44.3
       ],
@@ -30354,6 +30209,150 @@ window.TENNIS_DATA = {
       [
         "20260726",
         42.3
+      ],
+      [
+        "20260727",
+        42.3
+      ]
+    ],
+    "216016": [
+      [
+        "20260711",
+        45.1
+      ],
+      [
+        "20260712",
+        45.1
+      ],
+      [
+        "20260713",
+        44.3
+      ],
+      [
+        "20260714",
+        44.3
+      ],
+      [
+        "20260715",
+        44.3
+      ],
+      [
+        "20260716",
+        44.3
+      ],
+      [
+        "20260717",
+        44.3
+      ],
+      [
+        "20260718",
+        44.3
+      ],
+      [
+        "20260719",
+        44.3
+      ],
+      [
+        "20260720",
+        42.5
+      ],
+      [
+        "20260721",
+        42.5
+      ],
+      [
+        "20260722",
+        42.5
+      ],
+      [
+        "20260723",
+        42.5
+      ],
+      [
+        "20260724",
+        42.5
+      ],
+      [
+        "20260725",
+        42.5
+      ],
+      [
+        "20260726",
+        42.5
+      ],
+      [
+        "20260727",
+        41.9
+      ]
+    ],
+    "221237": [
+      [
+        "20260711",
+        43.7
+      ],
+      [
+        "20260712",
+        43.7
+      ],
+      [
+        "20260713",
+        45.5
+      ],
+      [
+        "20260714",
+        45.5
+      ],
+      [
+        "20260715",
+        45.5
+      ],
+      [
+        "20260716",
+        45.5
+      ],
+      [
+        "20260717",
+        45.5
+      ],
+      [
+        "20260718",
+        45.5
+      ],
+      [
+        "20260719",
+        45.5
+      ],
+      [
+        "20260720",
+        43.3
+      ],
+      [
+        "20260721",
+        43.3
+      ],
+      [
+        "20260722",
+        43.3
+      ],
+      [
+        "20260723",
+        43.3
+      ],
+      [
+        "20260724",
+        43.3
+      ],
+      [
+        "20260725",
+        43.3
+      ],
+      [
+        "20260726",
+        43.3
+      ],
+      [
+        "20260727",
+        41.7
       ]
     ],
     "223325": [
@@ -30412,13 +30411,13 @@ window.TENNIS_DATA = {
       [
         "20260726",
         41.4
+      ],
+      [
+        "20260727",
+        41.4
       ]
     ],
     "215936": [
-      [
-        "20260710",
-        43.1
-      ],
       [
         "20260711",
         43.1
@@ -30481,6 +30480,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        41.0
+      ],
+      [
+        "20260727",
         41.0
       ]
     ],
@@ -30540,13 +30543,13 @@ window.TENNIS_DATA = {
       [
         "20260726",
         40.5
+      ],
+      [
+        "20260727",
+        40.5
       ]
     ],
     "220416": [
-      [
-        "20260710",
-        42.1
-      ],
       [
         "20260711",
         42.1
@@ -30609,15 +30612,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        39.9
+      ],
+      [
+        "20260727",
         39.9
       ]
     ],
     "221406": [
       [
-        "20260710",
-        41.8
-      ],
-      [
         "20260711",
         41.8
       ],
@@ -30679,15 +30682,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        39.8
+      ],
+      [
+        "20260727",
         39.8
       ]
     ],
     "206417": [
       [
-        "20260710",
-        41.7
-      ],
-      [
         "20260711",
         41.7
       ],
@@ -30749,15 +30752,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        39.5
+      ],
+      [
+        "20260727",
         39.5
       ]
     ],
     "206294": [
       [
-        "20260710",
-        41.1
-      ],
-      [
         "20260711",
         41.1
       ],
@@ -30819,15 +30822,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        39.3
+      ],
+      [
+        "20260727",
         39.3
       ]
     ],
     "221124": [
       [
-        "20260710",
-        40.8
-      ],
-      [
         "20260711",
         40.8
       ],
@@ -30890,14 +30893,154 @@ window.TENNIS_DATA = {
       [
         "20260726",
         39.1
+      ],
+      [
+        "20260727",
+        39.1
+      ]
+    ],
+    "210886": [
+      [
+        "20260711",
+        35.0
+      ],
+      [
+        "20260712",
+        35.0
+      ],
+      [
+        "20260713",
+        35.0
+      ],
+      [
+        "20260714",
+        35.0
+      ],
+      [
+        "20260715",
+        35.0
+      ],
+      [
+        "20260716",
+        35.0
+      ],
+      [
+        "20260717",
+        35.0
+      ],
+      [
+        "20260718",
+        35.0
+      ],
+      [
+        "20260719",
+        35.0
+      ],
+      [
+        "20260720",
+        36.0
+      ],
+      [
+        "20260721",
+        36.0
+      ],
+      [
+        "20260722",
+        36.0
+      ],
+      [
+        "20260723",
+        36.0
+      ],
+      [
+        "20260724",
+        36.0
+      ],
+      [
+        "20260725",
+        36.0
+      ],
+      [
+        "20260726",
+        36.0
+      ],
+      [
+        "20260727",
+        38.9
+      ]
+    ],
+    "222290": [
+      [
+        "20260711",
+        37.5
+      ],
+      [
+        "20260712",
+        37.5
+      ],
+      [
+        "20260713",
+        38.2
+      ],
+      [
+        "20260714",
+        38.2
+      ],
+      [
+        "20260715",
+        38.2
+      ],
+      [
+        "20260716",
+        38.2
+      ],
+      [
+        "20260717",
+        38.2
+      ],
+      [
+        "20260718",
+        38.2
+      ],
+      [
+        "20260719",
+        38.2
+      ],
+      [
+        "20260720",
+        37.9
+      ],
+      [
+        "20260721",
+        37.9
+      ],
+      [
+        "20260722",
+        37.9
+      ],
+      [
+        "20260723",
+        37.9
+      ],
+      [
+        "20260724",
+        37.9
+      ],
+      [
+        "20260725",
+        37.9
+      ],
+      [
+        "20260726",
+        37.9
+      ],
+      [
+        "20260727",
+        38.5
       ]
     ],
     "221985": [
       [
-        "20260710",
-        40.4
-      ],
-      [
         "20260711",
         40.4
       ],
@@ -30959,6 +31102,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        38.5
+      ],
+      [
+        "20260727",
         38.5
       ]
     ],
@@ -31018,84 +31165,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         38.3
-      ]
-    ],
-    "222290": [
-      [
-        "20260710",
-        37.5
       ],
       [
-        "20260711",
-        37.5
-      ],
-      [
-        "20260712",
-        37.5
-      ],
-      [
-        "20260713",
-        38.2
-      ],
-      [
-        "20260714",
-        38.2
-      ],
-      [
-        "20260715",
-        38.2
-      ],
-      [
-        "20260716",
-        38.2
-      ],
-      [
-        "20260717",
-        38.2
-      ],
-      [
-        "20260718",
-        38.2
-      ],
-      [
-        "20260719",
-        38.2
-      ],
-      [
-        "20260720",
-        37.9
-      ],
-      [
-        "20260721",
-        37.9
-      ],
-      [
-        "20260722",
-        37.9
-      ],
-      [
-        "20260723",
-        37.9
-      ],
-      [
-        "20260724",
-        37.9
-      ],
-      [
-        "20260725",
-        37.9
-      ],
-      [
-        "20260726",
-        37.9
+        "20260727",
+        38.3
       ]
     ],
     "219875": [
       [
-        "20260710",
-        40.9
-      ],
-      [
         "20260711",
         40.9
       ],
@@ -31157,15 +31234,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        37.8
+      ],
+      [
+        "20260727",
         37.8
       ]
     ],
     "220662": [
       [
-        "20260710",
-        41.2
-      ],
-      [
         "20260711",
         41.2
       ],
@@ -31227,15 +31304,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        37.6
+      ],
+      [
+        "20260727",
         37.6
       ]
     ],
     "215037": [
       [
-        "20260710",
-        38.9
-      ],
-      [
         "20260711",
         38.9
       ],
@@ -31297,91 +31374,31 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        37.0
+      ],
+      [
+        "20260727",
         37.0
       ]
     ],
-    "210886": [
-      [
-        "20260710",
-        35.0
-      ],
-      [
-        "20260711",
-        35.0
-      ],
-      [
-        "20260712",
-        35.0
-      ],
-      [
-        "20260713",
-        35.0
-      ],
-      [
-        "20260714",
-        35.0
-      ],
-      [
-        "20260715",
-        35.0
-      ],
-      [
-        "20260716",
-        35.0
-      ],
-      [
-        "20260717",
-        35.0
-      ],
-      [
-        "20260718",
-        35.0
-      ],
-      [
-        "20260719",
-        35.0
-      ],
+    "220742": [
       [
         "20260720",
-        36.0
+        51.1
       ],
       [
-        "20260721",
-        36.0
-      ],
-      [
-        "20260722",
-        36.0
-      ],
-      [
-        "20260723",
-        36.0
-      ],
-      [
-        "20260724",
-        36.0
-      ],
-      [
-        "20260725",
-        36.0
-      ],
-      [
-        "20260726",
-        36.0
+        "20260727",
+        36.1
       ]
     ],
-    "221307": [
-      [
-        "20260710",
-        35.0
-      ],
+    "221236": [
       [
         "20260711",
-        35.0
+        35.3
       ],
       [
         "20260712",
-        35.0
+        35.3
       ],
       [
         "20260713",
@@ -31437,15 +31454,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        35.0
+      ],
+      [
+        "20260727",
         35.0
       ]
     ],
     "211814": [
       [
-        "20260710",
-        37.4
-      ],
-      [
         "20260711",
         37.4
       ],
@@ -31507,21 +31524,21 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        35.0
+      ],
+      [
+        "20260727",
         35.0
       ]
     ],
-    "221236": [
-      [
-        "20260710",
-        35.3
-      ],
+    "221307": [
       [
         "20260711",
-        35.3
+        35.0
       ],
       [
         "20260712",
-        35.3
+        35.0
       ],
       [
         "20260713",
@@ -31577,15 +31594,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        35.0
+      ],
+      [
+        "20260727",
         35.0
       ]
     ],
     "215138": [
       [
-        "20260710",
-        36.0
-      ],
-      [
         "20260711",
         36.0
       ],
@@ -31647,15 +31664,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260726",
+        35.0
+      ],
+      [
+        "20260727",
         35.0
       ]
     ],
     "223168": [
       [
-        "20260710",
-        36.3
-      ],
-      [
         "20260711",
         36.3
       ],
@@ -31718,84 +31735,14 @@ window.TENNIS_DATA = {
       [
         "20260726",
         35.0
-      ]
-    ],
-    "214461": [
-      [
-        "20260710",
-        36.6
       ],
       [
-        "20260711",
-        36.6
-      ],
-      [
-        "20260712",
-        36.6
-      ],
-      [
-        "20260713",
-        36.3
-      ],
-      [
-        "20260714",
-        36.3
-      ],
-      [
-        "20260715",
-        36.3
-      ],
-      [
-        "20260716",
-        36.3
-      ],
-      [
-        "20260717",
-        36.3
-      ],
-      [
-        "20260718",
-        36.3
-      ],
-      [
-        "20260719",
-        36.3
-      ],
-      [
-        "20260720",
-        35.0
-      ],
-      [
-        "20260721",
-        35.0
-      ],
-      [
-        "20260722",
-        35.0
-      ],
-      [
-        "20260723",
-        35.0
-      ],
-      [
-        "20260724",
-        35.0
-      ],
-      [
-        "20260725",
-        35.0
-      ],
-      [
-        "20260726",
+        "20260727",
         35.0
       ]
     ],
     "202684": [
       [
-        "20260710",
-        35.9
-      ],
-      [
         "20260711",
         35.9
       ],
@@ -31858,109 +31805,9 @@ window.TENNIS_DATA = {
       [
         "20260726",
         35.0
-      ]
-    ],
-    "222233": [
-      [
-        "20260710",
-        36.1
       ],
       [
-        "20260711",
-        36.1
-      ],
-      [
-        "20260712",
-        36.1
-      ],
-      [
-        "20260713",
-        35.9
-      ],
-      [
-        "20260714",
-        35.9
-      ],
-      [
-        "20260715",
-        35.9
-      ],
-      [
-        "20260716",
-        35.9
-      ],
-      [
-        "20260717",
-        35.9
-      ],
-      [
-        "20260718",
-        35.9
-      ],
-      [
-        "20260719",
-        35.9
-      ],
-      [
-        "20260720",
-        35.0
-      ],
-      [
-        "20260721",
-        35.0
-      ],
-      [
-        "20260722",
-        35.0
-      ],
-      [
-        "20260723",
-        35.0
-      ],
-      [
-        "20260724",
-        35.0
-      ],
-      [
-        "20260725",
-        35.0
-      ],
-      [
-        "20260726",
-        35.0
-      ]
-    ],
-    "211279": [
-      [
-        "20260713",
-        50.0
-      ],
-      [
-        "20260720",
-        35.0
-      ],
-      [
-        "20260721",
-        35.0
-      ],
-      [
-        "20260722",
-        35.0
-      ],
-      [
-        "20260723",
-        35.0
-      ],
-      [
-        "20260724",
-        35.0
-      ],
-      [
-        "20260725",
-        35.0
-      ],
-      [
-        "20260726",
+        "20260727",
         35.0
       ]
     ],
@@ -32020,13 +31867,83 @@ window.TENNIS_DATA = {
       [
         "20260726",
         35.0
+      ],
+      [
+        "20260727",
+        35.0
       ]
     ],
-    "215480": [
+    "222233": [
       [
-        "20260710",
-        36.6
+        "20260711",
+        36.1
       ],
+      [
+        "20260712",
+        36.1
+      ],
+      [
+        "20260713",
+        35.9
+      ],
+      [
+        "20260714",
+        35.9
+      ],
+      [
+        "20260715",
+        35.9
+      ],
+      [
+        "20260716",
+        35.9
+      ],
+      [
+        "20260717",
+        35.9
+      ],
+      [
+        "20260718",
+        35.9
+      ],
+      [
+        "20260719",
+        35.9
+      ],
+      [
+        "20260720",
+        35.0
+      ],
+      [
+        "20260721",
+        35.0
+      ],
+      [
+        "20260722",
+        35.0
+      ],
+      [
+        "20260723",
+        35.0
+      ],
+      [
+        "20260724",
+        35.0
+      ],
+      [
+        "20260725",
+        35.0
+      ],
+      [
+        "20260726",
+        35.0
+      ],
+      [
+        "20260727",
+        35.0
+      ]
+    ],
+    "214461": [
       [
         "20260711",
         36.6
@@ -32090,6 +32007,118 @@ window.TENNIS_DATA = {
       [
         "20260726",
         35.0
+      ],
+      [
+        "20260727",
+        35.0
+      ]
+    ],
+    "211279": [
+      [
+        "20260713",
+        50.0
+      ],
+      [
+        "20260720",
+        35.0
+      ],
+      [
+        "20260721",
+        35.0
+      ],
+      [
+        "20260722",
+        35.0
+      ],
+      [
+        "20260723",
+        35.0
+      ],
+      [
+        "20260724",
+        35.0
+      ],
+      [
+        "20260725",
+        35.0
+      ],
+      [
+        "20260726",
+        35.0
+      ],
+      [
+        "20260727",
+        35.0
+      ]
+    ],
+    "215480": [
+      [
+        "20260711",
+        36.6
+      ],
+      [
+        "20260712",
+        36.6
+      ],
+      [
+        "20260713",
+        36.3
+      ],
+      [
+        "20260714",
+        36.3
+      ],
+      [
+        "20260715",
+        36.3
+      ],
+      [
+        "20260716",
+        36.3
+      ],
+      [
+        "20260717",
+        36.3
+      ],
+      [
+        "20260718",
+        36.3
+      ],
+      [
+        "20260719",
+        36.3
+      ],
+      [
+        "20260720",
+        35.0
+      ],
+      [
+        "20260721",
+        35.0
+      ],
+      [
+        "20260722",
+        35.0
+      ],
+      [
+        "20260723",
+        35.0
+      ],
+      [
+        "20260724",
+        35.0
+      ],
+      [
+        "20260725",
+        35.0
+      ],
+      [
+        "20260726",
+        35.0
+      ],
+      [
+        "20260727",
+        35.0
       ]
     ],
     "213666": [
@@ -32124,6 +32153,10 @@ window.TENNIS_DATA = {
       [
         "20260726",
         35.0
+      ],
+      [
+        "20260727",
+        35.0
       ]
     ]
   },
@@ -32132,12 +32165,12 @@ window.TENNIS_DATA = {
       "id": "209950",
       "name": "Arthur Fils",
       "age": 22,
-      "rank": 23,
+      "rank": 22,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 82.5,
+      "activeScore": 82.6,
       "leyendaScore": 0.0,
       "note": "Top 30 a los 22"
     },
@@ -32145,12 +32178,12 @@ window.TENNIS_DATA = {
       "id": "212588",
       "name": "Rafael Jodar",
       "age": 19,
-      "rank": 25,
+      "rank": 24,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "activeScore": 77.7,
+      "activeScore": 77.8,
       "leyendaScore": 0.0,
       "note": "Top 30 a los 19"
     },
@@ -32171,12 +32204,12 @@ window.TENNIS_DATA = {
       "id": "211663",
       "name": "Joao Fonseca",
       "age": 19,
-      "rank": 28,
+      "rank": 27,
       "country": "BRA",
       "logo": "https://flagcdn.com/24x18/br.png",
       "primary": "#009C3B",
       "secondary": "#FFFFFF",
-      "activeScore": 73.4,
+      "activeScore": 73.6,
       "leyendaScore": 0.0,
       "note": "Top 30 a los 19"
     },
@@ -32184,53 +32217,53 @@ window.TENNIS_DATA = {
       "id": "210696",
       "name": "Alexander Blockx",
       "age": 21,
-      "rank": 38,
+      "rank": 32,
       "country": "BEL",
       "logo": "https://flagcdn.com/24x18/be.png",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 72.0,
+      "activeScore": 72.6,
       "leyendaScore": 0.0,
-      "note": "Irrumpe a los 21 (#38)"
+      "note": "Irrumpe a los 21 (#32)"
     },
     {
       "id": "209860",
       "name": "Ignacio Buse",
       "age": 22,
-      "rank": 35,
+      "rank": 34,
       "country": "PER",
       "logo": "https://flagcdn.com/24x18/pe.png",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 68.3,
+      "activeScore": 68.4,
       "leyendaScore": 0.0,
-      "note": "Irrumpe a los 22 (#35)"
+      "note": "Irrumpe a los 22 (#34)"
     },
     {
       "id": "210506",
       "name": "Alex Michelsen",
       "age": 21,
-      "rank": 44,
+      "rank": 40,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 65.9,
+      "activeScore": 66.4,
       "leyendaScore": 0.0,
-      "note": "Irrumpe a los 21 (#44)"
+      "note": "Irrumpe a los 21 (#40)"
     },
     {
-      "id": "210084",
-      "name": "Jakub Mensik",
-      "age": 20,
-      "rank": 18,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "primary": "#D7141A",
+      "id": "209414",
+      "name": "Luca Van Assche",
+      "age": 22,
+      "rank": 48,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 62.9,
+      "activeScore": 64.9,
       "leyendaScore": 0.0,
-      "note": "Top 30 a los 20"
+      "note": "Irrumpe a los 22 (#48)"
     }
   ],
   "WTA_PROSPECTS": [
@@ -32316,12 +32349,12 @@ window.TENNIS_DATA = {
       "id": "223253",
       "name": "Alexandra Eala",
       "age": 21,
-      "rank": 29,
+      "rank": 28,
       "country": "PHI",
       "logo": "",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 67.6,
+      "activeScore": 67.8,
       "leyendaScore": 0.0,
       "note": "Top 30 a los 21"
     },
@@ -32329,15 +32362,15 @@ window.TENNIS_DATA = {
       "id": "223360",
       "name": "Nikola Bartunkova",
       "age": 20,
-      "rank": 44,
+      "rank": 41,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 64.0,
+      "activeScore": 64.4,
       "leyendaScore": 0.0,
-      "note": "Irrumpe a los 20 (#44)"
+      "note": "Irrumpe a los 20 (#41)"
     }
   ],
-  "IMPORTANCE": 7.0
+  "IMPORTANCE": 7.5
 };

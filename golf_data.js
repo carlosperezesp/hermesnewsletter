@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-26 22:17 UTC
+// Auto-generated 2026-07-27 08:48 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-07-26 22:17 UTC",
+  "UPDATED": "2026-07-27 08:48 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -187,7 +187,7 @@ window.GOLF_DATA = {
     "end": "2026-08-16",
     "startLabel": "13 Aug",
     "endLabel": "16 Aug",
-    "daysToStart": 18,
+    "daysToStart": 17,
     "defending": null,
     "favorites": [
       "Scottie Scheffler",
@@ -215,7 +215,7 @@ window.GOLF_DATA = {
       "stats": {
         "majors": 4,
         "wins": 1,
-        "topTen": 10,
+        "topTen": 11,
         "fedexRank": 1,
         "tour": "PGA"
       },
@@ -520,7 +520,7 @@ window.GOLF_DATA = {
         "primary": "#C60C30",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 77,
+      "activeScore": 75,
       "age": 25,
       "note": "Top del circuito a los 25"
     },
@@ -536,7 +536,7 @@ window.GOLF_DATA = {
         "primary": "#003478",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 71,
+      "activeScore": 72,
       "age": 24,
       "note": "Top del circuito a los 24"
     },
@@ -986,7 +986,7 @@ window.GOLF_DATA = {
       "stats": {
         "majors": 4,
         "wins": 1,
-        "topTen": 10,
+        "topTen": 11,
         "fedexRank": 1,
         "tour": "PGA"
       },

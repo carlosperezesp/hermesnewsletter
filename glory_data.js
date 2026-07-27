@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-26 22:18 UTC",
+  "UPDATED": "2026-07-27 08:50 UTC",
   "EVENTS": [
     {
       "id": "f1:win:AWS Hungarian Grand Prix:Charles Leclerc",
@@ -33,14 +33,6 @@ window.GLORY_DATA = {
       "text": "Ryan Blaney ganó en Echopark Speedway",
       "weight": 100,
       "firstSeen": "2026-07-13"
-    },
-    {
-      "id": "motogp:win:German motorcycle Grand Prix:Marc Márquez",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "text": "Marc Márquez ganó el German motorcycle Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-07-12"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
@@ -261,15 +253,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-13"
     },
     {
-      "id": "rank:motogp:RIDERS:in:Luca Marini",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "anchor": "motogp-mundial",
-      "text": "Luca Marini entra en el top-10 · Mundial",
-      "weight": 84,
-      "firstSeen": "2026-07-12"
-    },
-    {
       "id": "tennis:out:WTA:Victoria Mboko:20260709",
       "sport": "tennis",
       "detail": "Tenis",
@@ -322,15 +305,6 @@ window.GLORY_DATA = {
       "text": "Scott Dixon cae del top-10 · campeonato",
       "weight": 74,
       "firstSeen": "2026-07-21"
-    },
-    {
-      "id": "rank:motogp:RIDERS:out:Fermín Aldeguer",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "anchor": "motogp-mundial",
-      "text": "Fermín Aldeguer cae del top-10 · Mundial",
-      "weight": 74,
-      "firstSeen": "2026-07-12"
     }
   ],
   "REPORTS": [
@@ -459,10 +433,10 @@ window.GLORY_DATA = {
       "Bryce Harper",
       "Juan Soto",
       "Yordan Alvarez",
-      "Chris Sale",
       "Kyle Schwarber",
+      "CJ Abrams",
       "Jacob Misiorowski",
-      "CJ Abrams"
+      "Chris Sale"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -479,14 +453,14 @@ window.GLORY_DATA = {
     "mlb:ROAD_TO_GLORY.youngProspects": [
       "Jacob Misiorowski",
       "James Wood",
-      "Pete Crow-Armstrong",
       "CJ Abrams",
+      "Pete Crow-Armstrong",
       "Sal Stewart",
       "Jordan Walker",
       "Junior Caminero",
+      "Nick Kurtz",
       "Cam Schlittler",
-      "Chase Burns",
-      "Nick Kurtz"
+      "Chase Burns"
     ],
     "nfl:ROAD_TO_GLORY.players": [
       "Matthew Stafford",
@@ -503,22 +477,22 @@ window.GLORY_DATA = {
     "nfl:ROAD_TO_GLORY.youngProspects": [
       "Drake Maye",
       "Caleb Williams",
-      "Bryce Young",
       "C.J. Stroud",
       "Cam Ward",
+      "Bryce Young",
       "Jaxson Dart"
     ],
     "tennis:ATP": [
       "Jannik Sinner",
       "Carlos Alcaraz",
-      "Alexander Zverev",
       "Novak Djokovic",
+      "Alexander Zverev",
       "Arthur Fils",
       "Casper Ruud",
-      "Lorenzo Musetti",
       "Tommy Paul",
+      "Lorenzo Musetti",
       "Daniil Medvedev",
-      "Felix Auger Aliassime"
+      "Rafael Jodar"
     ],
     "tennis:WTA": [
       "Aryna Sabalenka",
