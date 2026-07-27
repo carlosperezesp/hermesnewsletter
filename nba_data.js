@@ -5621,7 +5621,7 @@ window.NBA_DATA = {
       "last": "Smith",
       "pos": "F",
       "teamCode": "DET",
-      "age": 25,
+      "age": 26,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4397882.png",
       "colors": {
         "primary": "#c8102e",
@@ -5637,7 +5637,7 @@ window.NBA_DATA = {
         "blk": 0.0,
         "min": 2.3
       },
-      "legendScore": 28.3
+      "legendScore": 29.3
     },
     {
       "id": 4702745,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-27 10:13 UTC",
+  "LAST_UPDATE": "2026-07-27 15:30 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
