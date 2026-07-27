@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-27 15:32 UTC
+// Auto-generated 2026-07-27 16:04 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-27 15:32 UTC",
+  "UPDATED": "2026-07-27 16:04 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11309,7 +11309,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Leyre Romero Gormaz",
           "l_logo": "",
-          "score": "6-3 2-1",
+          "score": "In Progress",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11361,7 +11361,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Irene Burillo",
           "l_logo": "",
-          "score": "2-6 6-4",
+          "score": "In Progress",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,

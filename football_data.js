@@ -1,11 +1,11 @@
-// Auto-generated 2026-07-27 15:32 UTC
+// Auto-generated 2026-07-27 16:03 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-07-27 15:32 UTC",
+  "UPDATED": "2026-07-27 16:03 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-07-27 15:32 UTC"
+    "through": "2026-07-27 16:03 UTC"
   },
   "IMPORTANCE": 9.0,
   "TEAMS": [
