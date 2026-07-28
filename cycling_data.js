@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-28 09:11 UTC
+// Auto-generated 2026-07-28 11:29 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-07-28 09:11 UTC",
+  "UPDATED": "2026-07-28 11:29 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -21,7 +21,7 @@ window.CYCLING_DATA = {
         "worlds": 3,
         "birth": 1945
       },
-      "prevRank": 1
+      "prevRank": null
     },
     {
       "id": "bernard_hinault",
@@ -42,7 +42,28 @@ window.CYCLING_DATA = {
         "worlds": 2,
         "birth": 1954
       },
-      "prevRank": 2
+      "prevRank": null
+    },
+    {
+      "id": "tadej_pogacar",
+      "name": "Tadej Pogacar",
+      "country": "SLO",
+      "logo": "https://flagcdn.com/24x18/si.png",
+      "teamCode": "SLO",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "legendScore": 64.2,
+      "active": true,
+      "age": 26,
+      "stats": {
+        "tour": 5,
+        "giro": 1,
+        "vuelta": 0,
+        "monuments": 13,
+        "worlds": 2,
+        "birth": 2000
+      },
+      "prevRank": null
     },
     {
       "id": "fausto_coppi",
@@ -63,28 +84,7 @@ window.CYCLING_DATA = {
         "worlds": 2,
         "birth": 1919
       },
-      "prevRank": 3
-    },
-    {
-      "id": "tadej_pogacar",
-      "name": "Tadej Pogacar",
-      "country": "SLO",
-      "logo": "https://flagcdn.com/24x18/si.png",
-      "teamCode": "SLO",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "legendScore": 48.3,
-      "active": true,
-      "age": 26,
-      "stats": {
-        "tour": 4,
-        "giro": 1,
-        "vuelta": 0,
-        "monuments": 9,
-        "worlds": 1,
-        "birth": 2000
-      },
-      "prevRank": 4
+      "prevRank": null
     },
     {
       "id": "jacques_anquetil",
@@ -105,7 +105,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1934
       },
-      "prevRank": 5
+      "prevRank": null
     },
     {
       "id": "miguel_indurain",
@@ -126,7 +126,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1964
       },
-      "prevRank": 6
+      "prevRank": null
     },
     {
       "id": "chris_froome",
@@ -147,7 +147,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1985
       },
-      "prevRank": 7
+      "prevRank": null
     },
     {
       "id": "felice_gimondi",
@@ -168,7 +168,7 @@ window.CYCLING_DATA = {
         "worlds": 1,
         "birth": 1942
       },
-      "prevRank": 8
+      "prevRank": null
     },
     {
       "id": "alberto_contador",
@@ -189,7 +189,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1982
       },
-      "prevRank": 9
+      "prevRank": null
     },
     {
       "id": "laurent_fignon",
@@ -210,7 +210,7 @@ window.CYCLING_DATA = {
         "worlds": 1,
         "birth": 1960
       },
-      "prevRank": 10
+      "prevRank": null
     },
     {
       "id": "fabian_cancellara",
@@ -231,7 +231,7 @@ window.CYCLING_DATA = {
         "worlds": 2,
         "birth": 1981
       },
-      "prevRank": 11
+      "prevRank": null
     },
     {
       "id": "vincenzo_nibali",
@@ -252,7 +252,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1984
       },
-      "prevRank": 12
+      "prevRank": null
     },
     {
       "id": "greg_lemond",
@@ -273,7 +273,7 @@ window.CYCLING_DATA = {
         "worlds": 2,
         "birth": 1961
       },
-      "prevRank": 13
+      "prevRank": null
     },
     {
       "id": "primoz_roglic",
@@ -294,7 +294,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1989
       },
-      "prevRank": 14
+      "prevRank": null
     },
     {
       "id": "jonas_vingegaard",
@@ -304,18 +304,18 @@ window.CYCLING_DATA = {
       "teamCode": "DEN",
       "primary": "#C60C30",
       "secondary": "#FFFFFF",
-      "legendScore": 20.9,
+      "legendScore": 20.4,
       "active": true,
       "age": 30,
       "stats": {
         "tour": 2,
-        "giro": 2,
-        "vuelta": 0,
+        "giro": 1,
+        "vuelta": 1,
         "monuments": 0,
         "worlds": 0,
         "birth": 1996
       },
-      "prevRank": 15
+      "prevRank": null
     },
     {
       "id": "peter_sagan",
@@ -336,7 +336,7 @@ window.CYCLING_DATA = {
         "worlds": 3,
         "birth": 1990
       },
-      "prevRank": 16
+      "prevRank": null
     },
     {
       "id": "roger_de_vlaeminck",
@@ -357,7 +357,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1947
       },
-      "prevRank": 17
+      "prevRank": null
     },
     {
       "id": "sean_kelly",
@@ -378,7 +378,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1956
       },
-      "prevRank": 18
+      "prevRank": null
     },
     {
       "id": "remco_evenepoel",
@@ -399,7 +399,7 @@ window.CYCLING_DATA = {
         "worlds": 2,
         "birth": 2000
       },
-      "prevRank": 19
+      "prevRank": null
     },
     {
       "id": "egan_bernal",
@@ -420,7 +420,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1997
       },
-      "prevRank": 20
+      "prevRank": null
     }
   ],
   "CURRENT_RIDERS": [
@@ -432,18 +432,17 @@ window.CYCLING_DATA = {
       "teamCode": "SLO",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "legendScore": 48.3,
+      "legendScore": 64.2,
       "active": true,
       "age": 26,
       "stats": {
-        "tour": 4,
+        "tour": 5,
         "giro": 1,
         "vuelta": 0,
-        "monuments": 9,
-        "worlds": 1,
+        "monuments": 13,
+        "worlds": 2,
         "birth": 2000
       },
-      "prevRank": 1,
       "insight": "A una gran victoria de entrar en zona top 10"
     },
     {
@@ -465,7 +464,6 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1989
       },
-      "prevRank": 2,
       "insight": "Palmarés de Grand Tour ya muy serio"
     },
     {
@@ -476,18 +474,17 @@ window.CYCLING_DATA = {
       "teamCode": "DEN",
       "primary": "#C60C30",
       "secondary": "#FFFFFF",
-      "legendScore": 20.9,
+      "legendScore": 20.4,
       "active": true,
       "age": 30,
       "stats": {
         "tour": 2,
-        "giro": 2,
-        "vuelta": 0,
+        "giro": 1,
+        "vuelta": 1,
         "monuments": 0,
         "worlds": 0,
         "birth": 1996
       },
-      "prevRank": 3,
       "insight": "Palmarés de Grand Tour ya muy serio"
     },
     {
@@ -509,7 +506,6 @@ window.CYCLING_DATA = {
         "worlds": 1,
         "birth": 1995
       },
-      "prevRank": 4,
       "insight": "Legado de clásicas y Mundial sostienen su score"
     },
     {
@@ -531,7 +527,6 @@ window.CYCLING_DATA = {
         "worlds": 2,
         "birth": 2000
       },
-      "prevRank": 5,
       "insight": "El camino al top histórico pasa por seguir sumando monumentos"
     },
     {
@@ -553,7 +548,6 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1997
       },
-      "prevRank": 6,
       "insight": "Base de grandes vueltas; el siguiente salto pesa mucho"
     },
     {
@@ -575,7 +569,6 @@ window.CYCLING_DATA = {
         "worlds": 2,
         "birth": 1992
       },
-      "prevRank": 7,
       "insight": "Doble arcoíris: le falta más volumen de grandes victorias"
     },
     {
@@ -597,7 +590,6 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1993
       },
-      "prevRank": 8,
       "insight": "Una grande ya cuenta; necesita repetir para escalar"
     },
     {
@@ -619,7 +611,6 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1996
       },
-      "prevRank": 9,
       "insight": "Una grande ya cuenta; necesita repetir para escalar"
     },
     {
@@ -641,7 +632,6 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1994
       },
-      "prevRank": 10,
       "insight": "Necesita una victoria mayor para activar el salto histórico"
     }
   ],

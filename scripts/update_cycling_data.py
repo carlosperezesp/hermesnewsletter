@@ -695,8 +695,8 @@ LEGENDS_RAW = [
     ("Fausto Coppi",          "ITA", 1919,   2,   5,   0,      7,       2),
     ("Chris Froome",          "GBR", 1985,   4,   1,   2,      0,       0),
     ("Alberto Contador",      "ESP", 1982,   2,   2,   3,      0,       0),
-    ("Tadej Pogacar",         "SLO", 2000,   3,   1,   0,      6,       1),
-    ("Jonas Vingegaard",      "DEN", 1996,   2,   1,   0,      0,       0),
+    ("Tadej Pogacar",         "SLO", 2000,   4,   1,   0,      10,       2),
+    ("Jonas Vingegaard",      "DEN", 1996,   2,   0,   1,      0,       0),
     ("Primoz Roglic",         "SLO", 1989,   0,   1,   4,      1,       0),
     ("Greg LeMond",           "USA", 1961,   3,   0,   0,      1,       2),
     ("Laurent Fignon",        "FRA", 1960,   2,   2,   0,      3,       1),
@@ -714,11 +714,11 @@ W = {"tour": 12, "giro": 9, "vuelta": 8, "monument": 4, "worlds": 4}
 
 CURRENT_RIDERS_RAW = [
     # name,                         cc3,   birth, tour,giro,vuelta,monuments,worlds
-    ("Tadej Pogacar",              "SLO", 2000,   3,   1,   0,      6,       1),
+    ("Tadej Pogacar",              "SLO", 2000,   4,   1,   0,      10,       2),
     ("Primoz Roglic",              "SLO", 1989,   0,   1,   4,      1,       0),
     ("Mathieu van der Poel",       "NED", 1995,   0,   0,   0,      8,       1),
     ("Remco Evenepoel",            "BEL", 2000,   0,   0,   1,      3,       2),
-    ("Jonas Vingegaard",           "DEN", 1996,   2,   1,   0,      0,       0),
+    ("Jonas Vingegaard",           "DEN", 1996,   2,   0,   1,      0,       0),
     ("Egan Bernal",                "COL", 1997,   1,   1,   0,      0,       0),
     ("Richard Carapaz",            "ECU", 1993,   0,   1,   0,      0,       0),
     ("Jai Hindley",                "AUS", 1996,   0,   1,   0,      0,       0),
