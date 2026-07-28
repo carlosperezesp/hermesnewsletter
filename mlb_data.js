@@ -4949,7 +4949,7 @@ window.MLB_DATA = {
       "name": "Kyle Stowers",
       "first": "Kyle",
       "last": "Stowers",
-      "pos": "LF",
+      "pos": "1B",
       "teamCode": "MIA",
       "age": 28,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42796.png",
@@ -7867,7 +7867,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-28 09:11 UTC",
+  "LAST_UPDATE": "2026-07-28 15:04 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

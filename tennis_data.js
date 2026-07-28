@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-28 09:13 UTC
+// Auto-generated 2026-07-28 15:07 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-28 09:13 UTC",
+  "UPDATED": "2026-07-28 15:07 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -9181,7 +9181,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Axeria Open 2026 powered by Intaro Sport",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 42.8
@@ -9393,7 +9393,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Axeria Open 2026 powered by Intaro Sport",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 41.0
@@ -9708,9 +9708,9 @@ window.TENNIS_DATA = {
       "prevListRank": 133,
       "tournamentStatus": {
         "tournament": "Axeria Open 2026 powered by Intaro Sport",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 38.5
     },
@@ -11693,9 +11693,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Miriana Tona",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 42.8,
           "l_score": null,
           "match_score": 42.8
@@ -11706,33 +11706,33 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Chloe Paquet",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-0 1-6 6-0",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 41.0,
           "l_score": null,
           "match_score": 41.0
         },
         {
           "round": "R128",
-          "w": "Darja Semenistaja",
+          "w": "Mia Ristic",
           "w_logo": "",
-          "l": "Mia Ristic",
+          "l": "Darja Semenistaja",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 38.5,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 38.5,
           "match_score": 38.5
         },
         {
           "round": "R128",
-          "w": "Alesia Breaz",
+          "w": "Alevtina Ibragimova",
           "w_logo": "",
-          "l": "Laura Samson",
+          "l": "Maia Ilinca Burcescu",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 3-6 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11745,9 +11745,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Selena Janicijevic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11758,19 +11758,6 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Miriam Bulgaru",
           "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
-          "w": "Dalila Spiteri",
-          "w_logo": "",
-          "l": "Yelyzaveta Kotliar",
-          "l_logo": "",
           "score": "In Progress",
           "day": "hoy",
           "scheduled": false,
@@ -11780,13 +11767,26 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Lola Radivojevic",
+          "w": "Laura Samson",
           "w_logo": "",
-          "l": "Margaux Rouvroy",
+          "l": "Alesia Breaz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Lucija Ciric Bagaric",
+          "w_logo": "",
+          "l": "Rachel Gailis",
+          "l_logo": "",
+          "score": "6-2 6-1",
+          "day": "hoy",
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11905,7 +11905,6 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
-      "Alesia Breaz",
       "Alevtina Ibragimova",
       "Alexandra Eala",
       "Alexandra Vagramov",
@@ -11925,11 +11924,8 @@ window.TENNIS_DATA = {
       "Carole Monnet",
       "Caroline Dolehide",
       "Catherine McNally",
-      "Chloe Paquet",
       "Cristina Bucsa",
-      "Dalila Spiteri",
       "Daria Kasatkina",
-      "Darja Semenistaja",
       "Darja Vidmanova",
       "Ekaterina Alexandrova",
       "Elena Ruxandra Bertea",
@@ -11962,7 +11958,6 @@ window.TENNIS_DATA = {
       "Leylah Fernandez",
       "Liudmila Samsonova",
       "Lizette Cabrera",
-      "Lola Radivojevic",
       "Lu Jia-Jing",
       "Lucia Bronzetti",
       "Lucija Ciric Bagaric",
@@ -11971,7 +11966,6 @@ window.TENNIS_DATA = {
       "Madison Brengle",
       "Magdalena Frech",
       "Mai Hontama",
-      "Maia Ilinca Burcescu",
       "Mananchaya Sawangkaew",
       "Margaux Rouvroy",
       "Marina Bassols Ribera",
@@ -11981,17 +11975,14 @@ window.TENNIS_DATA = {
       "Mia Ristic",
       "Miho Kuramochi",
       "Miriam Bulgaru",
-      "Miriana Tona",
       "Moyuka Uchijima",
       "Nao Hibino",
       "Naomi Osaka",
       "Peyton Stearns",
       "Polina Kudermetova",
       "Priscilla Hon",
-      "Rachel Gailis",
       "Renata Zarazua",
       "Sara Sorribes Tormo",
-      "Selena Janicijevic",
       "Sloane Stephens",
       "Sofia Costoulas",
       "Tatiana Prozorova",
@@ -12008,7 +11999,11 @@ window.TENNIS_DATA = {
       "Zheng Qinwen"
     ],
     "out": [
+      "Alesia Breaz",
+      "Chloe Paquet",
       "Clara Tauson",
+      "Dalila Spiteri",
+      "Darja Semenistaja",
       "Elena Malygina",
       "Irina Fetecau",
       "Julie Struplova",
@@ -12016,11 +12011,16 @@ window.TENNIS_DATA = {
       "Katie Boulter",
       "Leyre Romero Gormaz",
       "Linda Fruhvirtova",
+      "Lola Radivojevic",
       "Madison Keys",
       "Magda Linette",
+      "Maia Ilinca Burcescu",
       "Mia Pohankova",
+      "Miriana Tona",
+      "Rachel Gailis",
       "Rebecca Sramkova",
       "Reese Brantmeier",
+      "Selena Janicijevic",
       "Sofia Kenin",
       "Sofya Lansere",
       "Solana Sierra",
@@ -12029,8 +12029,8 @@ window.TENNIS_DATA = {
       "Viktorija Golubic",
       "Whitney Osuigwe"
     ],
-    "aliveCount": 101,
-    "matchesSeen": 66
+    "aliveCount": 92,
+    "matchesSeen": 71
   },
   "ATP_SCORE_LOG": {
     "206173": [

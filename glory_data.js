@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-28 09:13 UTC",
+  "UPDATED": "2026-07-28 15:07 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -514,8 +514,8 @@ window.GLORY_DATA = {
     "cycling:LEGENDS": [
       "Eddy Merckx",
       "Bernard Hinault",
-      "Fausto Coppi",
       "Tadej Pogacar",
+      "Fausto Coppi",
       "Jacques Anquetil",
       "Miguel Indurain",
       "Chris Froome",
