@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-28 21:34 UTC
+// Auto-generated 2026-07-28 22:30 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-28 21:34 UTC",
+  "UPDATED": "2026-07-28 22:30 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1396,9 +1396,9 @@ window.TENNIS_DATA = {
       "prevListRank": 41,
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 65.0
     },
@@ -9745,7 +9745,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Odlum Brown VanOpen",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 38.3
@@ -11055,7 +11055,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Martin Damm",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 4-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 76.1,
@@ -11090,15 +11090,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Tomas Martin Etcheverry",
+          "w": "Brandon Nakashima",
           "w_logo": "",
-          "l": "Brandon Nakashima",
+          "l": "Tomas Martin Etcheverry",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 65.0,
-          "l_score": 67.4,
+          "w_score": 67.4,
+          "l_score": 65.0,
           "match_score": 67.4
         },
         {
@@ -11395,15 +11395,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Moyuka Uchijima",
+          "w": "Miho Kuramochi",
           "w_logo": "",
-          "l": "Miho Kuramochi",
+          "l": "Moyuka Uchijima",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 39.9,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 39.9,
           "match_score": 39.9
         },
         {
@@ -11412,7 +11412,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "En-Shuo Liang",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 38.3,
@@ -11447,19 +11447,6 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Caroline Dolehide",
-          "w_logo": "",
-          "l": "Lu Jia-Jing",
-          "l_logo": "",
-          "score": "In Progress",
-          "day": "hoy",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
           "w": "Ellie Schoppe",
           "w_logo": "",
           "l": "Priscilla Hon",
@@ -11477,9 +11464,22 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Hayu Kinoshita",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Lu Jia-Jing",
+          "w_logo": "",
+          "l": "Caroline Dolehide",
+          "l_logo": "",
+          "score": "7-5 6-4",
+          "day": "hoy",
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11536,9 +11536,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Magdalena Frech",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 66.5,
           "l_score": 56.0,
           "match_score": 66.5
@@ -11588,19 +11588,6 @@ window.TENNIS_DATA = {
           "w_score": null,
           "l_score": 68.8,
           "match_score": 68.8
-        },
-        {
-          "round": "R128",
-          "w": "McCartney Kessler",
-          "w_logo": "",
-          "l": "Renata Zarazua",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 67.0,
-          "l_score": 50.4,
-          "match_score": 67.0
         },
         {
           "round": "R128",
@@ -11656,19 +11643,6 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Kimberly Birrell",
-          "w_logo": "",
-          "l": "Ma YeXin",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 54.8,
-          "l_score": null,
-          "match_score": 54.8
-        },
-        {
-          "round": "R128",
           "w": "Marina Bassols Ribera",
           "w_logo": "",
           "l": "Darja Vidmanova",
@@ -11679,6 +11653,32 @@ window.TENNIS_DATA = {
           "w_score": 49.7,
           "l_score": 35.0,
           "match_score": 49.7
+        },
+        {
+          "round": "R128",
+          "w": "Elvina Kalieva",
+          "w_logo": "",
+          "l": "Katherine Sebov",
+          "l_logo": "",
+          "score": "6-1 7-6 (7-3)",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 42.3,
+          "l_score": null,
+          "match_score": 42.3
+        },
+        {
+          "round": "R128",
+          "w": "Catherine McNally",
+          "w_logo": "",
+          "l": "Wang Xiyu",
+          "l_logo": "",
+          "score": "4-6 6-3 7-6 (7-5)",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
         }
       ]
     },
@@ -11851,7 +11851,6 @@ window.TENNIS_DATA = {
       "Stefanos Tsitsipas",
       "Taylor Fritz",
       "Terence Atmane",
-      "Tomas Martin Etcheverry",
       "Trevor Svajda",
       "Tristan Boyer",
       "Ugo Humbert"
@@ -11870,11 +11869,12 @@ window.TENNIS_DATA = {
       "Matteo Arnaldi",
       "Shang Juncheng",
       "Tallon Griekspoor",
+      "Tomas Martin Etcheverry",
       "Tommy Paul",
       "Zachary Svajda",
       "Zizou Bergs"
     ],
-    "aliveCount": 43,
+    "aliveCount": 42,
     "matchesSeen": 36
   },
   "WTA_TOURNAMENT": {
@@ -11921,7 +11921,6 @@ window.TENNIS_DATA = {
       "Camila Osorio",
       "Carol Zhao",
       "Carole Monnet",
-      "Caroline Dolehide",
       "Catherine McNally",
       "Darja Vidmanova",
       "Elena Ruxandra Bertea",
@@ -11932,7 +11931,6 @@ window.TENNIS_DATA = {
       "Emerson Jones",
       "Emma Navarro",
       "Emma Si Yu Dong",
-      "En-Shuo Liang",
       "Francesca Jones",
       "Greet Minnen",
       "Harriet Dart",
@@ -11983,7 +11981,6 @@ window.TENNIS_DATA = {
       "Tatiana Prozorova",
       "Tatjana Maria",
       "Taylah Preston",
-      "Teah Chavez",
       "Venus Williams",
       "Wang Xinyu",
       "Yelyzaveta Kotliar",
@@ -11994,6 +11991,7 @@ window.TENNIS_DATA = {
     "out": [
       "Alesia Breaz",
       "Cadence Brace",
+      "Caroline Dolehide",
       "Chloe Paquet",
       "Clara Tauson",
       "Cristina Bucsa",
@@ -12002,6 +12000,7 @@ window.TENNIS_DATA = {
       "Darja Semenistaja",
       "Ekaterina Alexandrova",
       "Elena Malygina",
+      "En-Shuo Liang",
       "Irina Fetecau",
       "Julie Struplova",
       "Julieta Pareja",
@@ -12025,13 +12024,14 @@ window.TENNIS_DATA = {
       "Solana Sierra",
       "Storm Hunter",
       "Talia Gibson",
+      "Teah Chavez",
       "Viktorija Golubic",
       "Wang Xiyu",
       "Whitney Osuigwe",
       "Zheng Qinwen"
     ],
-    "aliveCount": 85,
-    "matchesSeen": 78
+    "aliveCount": 82,
+    "matchesSeen": 79
   },
   "ATP_SCORE_LOG": {
     "206173": [
