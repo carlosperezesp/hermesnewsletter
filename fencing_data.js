@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-28 11:57 UTC
+// Auto-generated 2026-07-28 13:33 UTC
 window.FENCING_DATA = {
-  "UPDATED": "2026-07-28 11:57 UTC",
+  "UPDATED": "2026-07-28 13:33 UTC",
   "SEASON": "Temporada 2025/26",
   "WORLDS": {
     "name": "Campeonato del Mundo de Esgrima 2026",
@@ -11,6 +11,328 @@ window.FENCING_DATA = {
     "note": "Los Mundiales individuales se cuentan automáticamente; los oros olímpicos son datos históricos curados."
   },
   "EVENTS": [
+    {
+      "id": "epee-m",
+      "weapon": "Espada",
+      "gender": "M",
+      "label": "Espada Masculina",
+      "RANKING": [
+        {
+          "id": "koki_kano",
+          "name": "Koki Kano",
+          "country": "JPN",
+          "logo": "https://flagcdn.com/24x18/jp.png",
+          "colors": {
+            "primary": "#BC002D",
+            "secondary": "#FFFFFF"
+          },
+          "rank": 1,
+          "age": 27,
+          "activeScore": 100,
+          "legendScore": 56.2,
+          "olympicGold": 1,
+          "worldGold": 1,
+          "note": "Campeón olímpico 2024 y del mundo"
+        },
+        {
+          "id": "lucas_malcotti",
+          "name": "Lucas Malcotti",
+          "country": "SUI",
+          "logo": "https://flagcdn.com/24x18/ch.png",
+          "colors": {
+            "primary": "#D52B1E",
+            "secondary": "#FFFFFF"
+          },
+          "age": null,
+          "activeScore": 96,
+          "legendScore": 14.6,
+          "olympicGold": 0,
+          "worldGold": 1,
+          "note": "Campeón del mundo 2026",
+          "rank": 2
+        },
+        {
+          "id": "yannick_borel",
+          "name": "Yannick Borel",
+          "country": "FRA",
+          "logo": "https://flagcdn.com/24x18/fr.png",
+          "colors": {
+            "primary": "#002395",
+            "secondary": "#FFFFFF"
+          },
+          "rank": 3,
+          "age": 37,
+          "activeScore": 95,
+          "legendScore": 14.6,
+          "olympicGold": 0,
+          "worldGold": 1,
+          "note": "Campeón del mundo y oro por equipos"
+        },
+        {
+          "id": "gergely_sikl_si",
+          "name": "Gergely Siklósi",
+          "country": "HUN",
+          "logo": "https://flagcdn.com/24x18/hu.png",
+          "colors": {
+            "primary": "#436F4D",
+            "secondary": "#FFFFFF"
+          },
+          "rank": 4,
+          "age": 28,
+          "activeScore": 91,
+          "legendScore": 14.6,
+          "olympicGold": 0,
+          "worldGold": 1,
+          "note": "Plata olímpica 2020"
+        },
+        {
+          "id": "romain_cannone",
+          "name": "Romain Cannone",
+          "country": "FRA",
+          "logo": "https://flagcdn.com/24x18/fr.png",
+          "colors": {
+            "primary": "#002395",
+            "secondary": "#FFFFFF"
+          },
+          "rank": 5,
+          "age": 28,
+          "activeScore": 88,
+          "legendScore": 56.2,
+          "olympicGold": 1,
+          "worldGold": 1,
+          "note": "Campeón olímpico 2021"
+        },
+        {
+          "id": "m_t_tam_s_koch",
+          "name": "Máté Tamás Koch",
+          "country": "HUN",
+          "logo": "https://flagcdn.com/24x18/hu.png",
+          "colors": {
+            "primary": "#436F4D",
+            "secondary": "#FFFFFF"
+          },
+          "rank": 6,
+          "age": 32,
+          "activeScore": 84,
+          "legendScore": 14.6,
+          "olympicGold": 0,
+          "worldGold": 1,
+          "note": "Podio mundial constante"
+        },
+        {
+          "id": "andrea_santarelli",
+          "name": "Andrea Santarelli",
+          "country": "ITA",
+          "logo": "https://flagcdn.com/24x18/it.png",
+          "colors": {
+            "primary": "#009246",
+            "secondary": "#FFFFFF"
+          },
+          "rank": 7,
+          "age": 32,
+          "activeScore": 81,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
+          "note": "Referente de la espada italiana"
+        },
+        {
+          "id": "kazuyasu_minobe",
+          "name": "Kazuyasu Minobe",
+          "country": "JPN",
+          "logo": "https://flagcdn.com/24x18/jp.png",
+          "colors": {
+            "primary": "#BC002D",
+            "secondary": "#FFFFFF"
+          },
+          "rank": 8,
+          "age": 39,
+          "activeScore": 79,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
+          "note": "Oro olímpico por equipos 2020"
+        },
+        {
+          "id": "ruben_limardo",
+          "name": "Ruben Limardo",
+          "country": "VEN",
+          "logo": "https://flagcdn.com/24x18/ve.png",
+          "colors": {
+            "primary": "#CF142B",
+            "secondary": "#FFFFFF"
+          },
+          "rank": 9,
+          "age": 40,
+          "activeScore": 77,
+          "legendScore": 41.7,
+          "olympicGold": 1,
+          "worldGold": 0,
+          "note": "Campeón olímpico 2012"
+        }
+      ],
+      "LEGENDS": [
+        {
+          "id": "pavel_kolobkov",
+          "name": "Pavel Kolobkov",
+          "country": "RUS",
+          "logo": "https://flagcdn.com/24x18/ru.png",
+          "colors": {
+            "primary": "#0039A6",
+            "secondary": "#FFFFFF"
+          },
+          "era": "1996-2005",
+          "olympicGold": 1,
+          "worldGold": 4,
+          "legendScore": 100.0,
+          "note": "1 oro olímpico · 4 Mundiales. Oro olímpico 2000.",
+          "active": false,
+          "rank": 1
+        },
+        {
+          "id": "ram_n_fonst",
+          "name": "Ramón Fonst",
+          "country": "CUB",
+          "logo": "https://flagcdn.com/24x18/cu.png",
+          "colors": {
+            "primary": "#002A8F",
+            "secondary": "#FFFFFF"
+          },
+          "era": "1900-1904",
+          "olympicGold": 2,
+          "worldGold": 0,
+          "legendScore": 83.3,
+          "note": "2 oros olímpicos · 0 Mundiales. Pionero: dos oros olímpicos a comienzos del siglo XX.",
+          "active": false,
+          "rank": 2
+        },
+        {
+          "id": "edoardo_mangiarotti",
+          "name": "Edoardo Mangiarotti",
+          "country": "ITA",
+          "logo": "https://flagcdn.com/24x18/it.png",
+          "colors": {
+            "primary": "#009246",
+            "secondary": "#FFFFFF"
+          },
+          "era": "1936-1960",
+          "olympicGold": 1,
+          "worldGold": 2,
+          "legendScore": 70.8,
+          "note": "1 oro olímpico · 2 Mundiales. El mayor espadista: 13 medallas olímpicas en cinco Juegos.",
+          "active": false,
+          "rank": 3
+        },
+        {
+          "id": "ric_srecki",
+          "name": "Éric Srecki",
+          "country": "FRA",
+          "logo": "https://flagcdn.com/24x18/fr.png",
+          "colors": {
+            "primary": "#002395",
+            "secondary": "#FFFFFF"
+          },
+          "era": "1988-1996",
+          "olympicGold": 1,
+          "worldGold": 2,
+          "legendScore": 70.8,
+          "note": "1 oro olímpico · 2 Mundiales. Oro olímpico 1992.",
+          "active": false,
+          "rank": 4
+        },
+        {
+          "id": "arnd_schmitt",
+          "name": "Arnd Schmitt",
+          "country": "GER",
+          "logo": "https://flagcdn.com/24x18/de.png",
+          "colors": {
+            "primary": "#000000",
+            "secondary": "#FFFFFF"
+          },
+          "era": "1988-1992",
+          "olympicGold": 1,
+          "worldGold": 1,
+          "legendScore": 56.2,
+          "note": "1 oro olímpico · 1 Mundial. Oro olímpico individual 1988.",
+          "active": false,
+          "rank": 5
+        },
+        {
+          "id": "grigory_kriss",
+          "name": "Grigory Kriss",
+          "country": "UKR",
+          "logo": "https://flagcdn.com/24x18/ua.png",
+          "colors": {
+            "primary": "#0057B7",
+            "secondary": "#FFFFFF"
+          },
+          "era": "1964-1968",
+          "olympicGold": 1,
+          "worldGold": 1,
+          "legendScore": 56.2,
+          "note": "1 oro olímpico · 1 Mundial. Oro olímpico 1964 de la escuela soviética.",
+          "active": false,
+          "rank": 6
+        },
+        {
+          "id": "johan_harmenberg",
+          "name": "Johan Harmenberg",
+          "country": "SWE",
+          "logo": "https://flagcdn.com/24x18/se.png",
+          "colors": {
+            "primary": "#006AA7",
+            "secondary": "#FFFFFF"
+          },
+          "era": "1980",
+          "olympicGold": 1,
+          "worldGold": 1,
+          "legendScore": 56.2,
+          "note": "1 oro olímpico · 1 Mundial. Oro olímpico 1980 con una táctica revolucionaria.",
+          "active": false,
+          "rank": 7
+        },
+        {
+          "id": "koki_kano",
+          "name": "Koki Kano",
+          "country": "JPN",
+          "logo": "https://flagcdn.com/24x18/jp.png",
+          "colors": {
+            "primary": "#BC002D",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 1,
+          "worldGold": 1,
+          "legendScore": 56.2,
+          "note": "1 oro olímpico · 1 Mundial. Campeón olímpico 2024 y del mundo",
+          "active": true,
+          "rank": 8
+        },
+        {
+          "id": "romain_cannone",
+          "name": "Romain Cannone",
+          "country": "FRA",
+          "logo": "https://flagcdn.com/24x18/fr.png",
+          "colors": {
+            "primary": "#002395",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 1,
+          "worldGold": 1,
+          "legendScore": 56.2,
+          "note": "1 oro olímpico · 1 Mundial. Campeón olímpico 2021",
+          "active": true,
+          "rank": 9
+        }
+      ],
+      "reignWorld": {
+        "year": 2026,
+        "name": "Lucas Malcotti",
+        "country": "SUI",
+        "logo": "https://flagcdn.com/24x18/ch.png"
+      }
+    },
     {
       "id": "foil-m",
       "weapon": "Florete",
@@ -52,6 +374,23 @@ window.FENCING_DATA = {
           "note": "Campeón del mundo 2023"
         },
         {
+          "id": "alexander_choupenitch",
+          "name": "Alexander Choupenitch",
+          "country": "CZE",
+          "logo": "https://flagcdn.com/24x18/cz.png",
+          "colors": {
+            "primary": "#4A4745",
+            "secondary": "#FFFFFF"
+          },
+          "age": null,
+          "activeScore": 96,
+          "legendScore": 10.3,
+          "olympicGold": 0,
+          "worldGold": 1,
+          "note": "Campeón del mundo 2026",
+          "rank": 3
+        },
+        {
           "id": "filippo_macchi",
           "name": "Filippo Macchi",
           "country": "ITA",
@@ -60,7 +399,7 @@ window.FENCING_DATA = {
             "primary": "#009246",
             "secondary": "#FFFFFF"
           },
-          "rank": 3,
+          "rank": 4,
           "age": 24,
           "activeScore": 92,
           "legendScore": 0.0,
@@ -77,7 +416,7 @@ window.FENCING_DATA = {
             "primary": "#009246",
             "secondary": "#FFFFFF"
           },
-          "rank": 4,
+          "rank": 5,
           "age": 29,
           "activeScore": 88,
           "legendScore": 0.0,
@@ -94,7 +433,7 @@ window.FENCING_DATA = {
             "primary": "#B22234",
             "secondary": "#FFFFFF"
           },
-          "rank": 5,
+          "rank": 6,
           "age": 31,
           "activeScore": 84,
           "legendScore": 0.0,
@@ -111,7 +450,7 @@ window.FENCING_DATA = {
             "primary": "#B22234",
             "secondary": "#FFFFFF"
           },
-          "rank": 6,
+          "rank": 7,
           "age": 26,
           "activeScore": 82,
           "legendScore": 0.0,
@@ -128,7 +467,7 @@ window.FENCING_DATA = {
             "primary": "#002395",
             "secondary": "#FFFFFF"
           },
-          "rank": 7,
+          "rank": 8,
           "age": 34,
           "activeScore": 79,
           "legendScore": 20.6,
@@ -145,7 +484,7 @@ window.FENCING_DATA = {
             "primary": "#0039A6",
             "secondary": "#FFFFFF"
           },
-          "rank": 8,
+          "rank": 9,
           "age": 26,
           "activeScore": 77,
           "legendScore": 0.0,
@@ -317,6 +656,328 @@ window.FENCING_DATA = {
       }
     },
     {
+      "id": "sabre-m",
+      "weapon": "Sable",
+      "gender": "M",
+      "label": "Sable Masculino",
+      "RANKING": [
+        {
+          "id": "s_bastien_patrice",
+          "name": "Sébastien Patrice",
+          "country": "FRA",
+          "logo": "https://flagcdn.com/24x18/fr.png",
+          "colors": {
+            "primary": "#002395",
+            "secondary": "#FFFFFF"
+          },
+          "rank": 1,
+          "age": 27,
+          "activeScore": 100,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
+          "note": "Nº1 del ranking FIE"
+        },
+        {
+          "id": "sanguk_oh",
+          "name": "Sanguk Oh",
+          "country": "KOR",
+          "logo": "https://flagcdn.com/24x18/kr.png",
+          "colors": {
+            "primary": "#003478",
+            "secondary": "#FFFFFF"
+          },
+          "rank": 2,
+          "age": 26,
+          "activeScore": 96,
+          "legendScore": 29.9,
+          "olympicGold": 1,
+          "worldGold": 0,
+          "note": "Campeón olímpico 2024"
+        },
+        {
+          "id": "pavel_graudyn",
+          "name": "Pavel Graudyn",
+          "country": "RUS",
+          "logo": "https://flagcdn.com/24x18/ru.png",
+          "colors": {
+            "primary": "#0039A6",
+            "secondary": "#FFFFFF"
+          },
+          "age": null,
+          "activeScore": 96,
+          "legendScore": 10.4,
+          "olympicGold": 0,
+          "worldGold": 1,
+          "note": "Campeón del mundo 2026",
+          "rank": 3
+        },
+        {
+          "id": "ron_szil_gyi",
+          "name": "Áron Szilágyi",
+          "country": "HUN",
+          "logo": "https://flagcdn.com/24x18/hu.png",
+          "colors": {
+            "primary": "#436F4D",
+            "secondary": "#FFFFFF"
+          },
+          "rank": 4,
+          "age": 35,
+          "activeScore": 93,
+          "legendScore": 100.0,
+          "olympicGold": 3,
+          "worldGold": 1,
+          "note": "Tricampeón olímpico (2012-2020)"
+        },
+        {
+          "id": "fares_ferjani",
+          "name": "Fares Ferjani",
+          "country": "TUN",
+          "logo": "https://flagcdn.com/24x18/tn.png",
+          "colors": {
+            "primary": "#E70013",
+            "secondary": "#FFFFFF"
+          },
+          "rank": 5,
+          "age": 26,
+          "activeScore": 89,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
+          "note": "Plata olímpica 2024"
+        },
+        {
+          "id": "sandro_bazadze",
+          "name": "Sandro Bazadze",
+          "country": "GEO",
+          "logo": "https://flagcdn.com/24x18/ge.png",
+          "colors": {
+            "primary": "#FF0000",
+            "secondary": "#FFFFFF"
+          },
+          "rank": 6,
+          "age": 32,
+          "activeScore": 86,
+          "legendScore": 10.4,
+          "olympicGold": 0,
+          "worldGold": 1,
+          "note": "Campeón del mundo 2022"
+        },
+        {
+          "id": "luigi_samele",
+          "name": "Luigi Samele",
+          "country": "ITA",
+          "logo": "https://flagcdn.com/24x18/it.png",
+          "colors": {
+            "primary": "#009246",
+            "secondary": "#FFFFFF"
+          },
+          "rank": 7,
+          "age": 38,
+          "activeScore": 82,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
+          "note": "Plata olímpica 2020"
+        },
+        {
+          "id": "ziad_elsissy",
+          "name": "Ziad Elsissy",
+          "country": "EGY",
+          "logo": "https://flagcdn.com/24x18/eg.png",
+          "colors": {
+            "primary": "#CE1126",
+            "secondary": "#FFFFFF"
+          },
+          "rank": 8,
+          "age": 30,
+          "activeScore": 80,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
+          "note": "Referente africano del sable"
+        },
+        {
+          "id": "colin_heathcock",
+          "name": "Colin Heathcock",
+          "country": "USA",
+          "logo": "https://flagcdn.com/24x18/us.png",
+          "colors": {
+            "primary": "#B22234",
+            "secondary": "#FFFFFF"
+          },
+          "rank": 9,
+          "age": 21,
+          "activeScore": 78,
+          "legendScore": 0.0,
+          "olympicGold": 0,
+          "worldGold": 0,
+          "note": "Joven campeón del mundo júnior"
+        }
+      ],
+      "LEGENDS": [
+        {
+          "id": "ron_szil_gyi",
+          "name": "Áron Szilágyi",
+          "country": "HUN",
+          "logo": "https://flagcdn.com/24x18/hu.png",
+          "colors": {
+            "primary": "#436F4D",
+            "secondary": "#FFFFFF"
+          },
+          "era": "en activo",
+          "olympicGold": 3,
+          "worldGold": 1,
+          "legendScore": 100.0,
+          "note": "3 oros olímpicos · 1 Mundial. Tricampeón olímpico (2012-2020)",
+          "active": true,
+          "rank": 1
+        },
+        {
+          "id": "alad_r_gerevich",
+          "name": "Aladár Gerevich",
+          "country": "HUN",
+          "logo": "https://flagcdn.com/24x18/hu.png",
+          "colors": {
+            "primary": "#436F4D",
+            "secondary": "#FFFFFF"
+          },
+          "era": "1932-1960",
+          "olympicGold": 2,
+          "worldGold": 3,
+          "legendScore": 91.0,
+          "note": "2 oros olímpicos · 3 Mundiales. Siete oros olímpicos en seis Juegos; el GOAT del sable.",
+          "active": false,
+          "rank": 2
+        },
+        {
+          "id": "stanislav_pozdniakov",
+          "name": "Stanislav Pozdniakov",
+          "country": "RUS",
+          "logo": "https://flagcdn.com/24x18/ru.png",
+          "colors": {
+            "primary": "#0039A6",
+            "secondary": "#FFFFFF"
+          },
+          "era": "1996-2002",
+          "olympicGold": 1,
+          "worldGold": 5,
+          "legendScore": 82.1,
+          "note": "1 oro olímpico · 5 Mundiales. Oro olímpico y múltiple campeón del mundo.",
+          "active": false,
+          "rank": 3
+        },
+        {
+          "id": "rudolf_k_rp_ti",
+          "name": "Rudolf Kárpáti",
+          "country": "HUN",
+          "logo": "https://flagcdn.com/24x18/hu.png",
+          "colors": {
+            "primary": "#436F4D",
+            "secondary": "#FFFFFF"
+          },
+          "era": "1956-1960",
+          "olympicGold": 2,
+          "worldGold": 2,
+          "legendScore": 80.6,
+          "note": "2 oros olímpicos · 2 Mundiales. Doble oro olímpico de la dinastía húngara.",
+          "active": false,
+          "rank": 4
+        },
+        {
+          "id": "viktor_krovopuskov",
+          "name": "Viktor Krovopuskov",
+          "country": "RUS",
+          "logo": "https://flagcdn.com/24x18/ru.png",
+          "colors": {
+            "primary": "#0039A6",
+            "secondary": "#FFFFFF"
+          },
+          "era": "1976-1980",
+          "olympicGold": 2,
+          "worldGold": 2,
+          "legendScore": 80.6,
+          "note": "2 oros olímpicos · 2 Mundiales. Doble oro olímpico individual soviético.",
+          "active": false,
+          "rank": 5
+        },
+        {
+          "id": "jean_fran_ois_lamour",
+          "name": "Jean-François Lamour",
+          "country": "FRA",
+          "logo": "https://flagcdn.com/24x18/fr.png",
+          "colors": {
+            "primary": "#002395",
+            "secondary": "#FFFFFF"
+          },
+          "era": "1984-1988",
+          "olympicGold": 2,
+          "worldGold": 1,
+          "legendScore": 70.1,
+          "note": "2 oros olímpicos · 1 Mundial. Bicampeón olímpico individual.",
+          "active": false,
+          "rank": 6
+        },
+        {
+          "id": "jerzy_paw_owski",
+          "name": "Jerzy Pawłowski",
+          "country": "POL",
+          "logo": "https://flagcdn.com/24x18/pl.png",
+          "colors": {
+            "primary": "#DC143C",
+            "secondary": "#FFFFFF"
+          },
+          "era": "1957-1968",
+          "olympicGold": 1,
+          "worldGold": 3,
+          "legendScore": 61.2,
+          "note": "1 oro olímpico · 3 Mundiales. Oro olímpico y triple campeón del mundo.",
+          "active": false,
+          "rank": 7
+        },
+        {
+          "id": "grigory_kiriyenko",
+          "name": "Grigory Kiriyenko",
+          "country": "RUS",
+          "logo": "https://flagcdn.com/24x18/ru.png",
+          "colors": {
+            "primary": "#0039A6",
+            "secondary": "#FFFFFF"
+          },
+          "era": "—",
+          "olympicGold": 0,
+          "worldGold": 4,
+          "legendScore": 41.8,
+          "note": "0 oros olímpicos · 4 Mundiales. Campeón del mundo.",
+          "active": false,
+          "rank": 8
+        },
+        {
+          "id": "aldo_montano",
+          "name": "Aldo Montano",
+          "country": "ITA",
+          "logo": "https://flagcdn.com/24x18/it.png",
+          "colors": {
+            "primary": "#009246",
+            "secondary": "#FFFFFF"
+          },
+          "era": "—",
+          "olympicGold": 0,
+          "worldGold": 3,
+          "legendScore": 31.3,
+          "note": "0 oros olímpicos · 3 Mundiales. Campeón del mundo.",
+          "active": false,
+          "rank": 9
+        }
+      ],
+      "reignWorld": {
+        "year": 2026,
+        "name": "Pavel Graudyn",
+        "country": "RUS",
+        "logo": "https://flagcdn.com/24x18/ru.png"
+      }
+    },
+    {
       "id": "epee-w",
       "weapon": "Espada",
       "gender": "F",
@@ -408,8 +1069,8 @@ window.FENCING_DATA = {
           "note": "Plata olímpica 2024"
         },
         {
-          "id": "sera_song",
-          "name": "Sera Song",
+          "id": "song_se_ra",
+          "name": "Song Se-ra",
           "country": "KOR",
           "logo": "https://flagcdn.com/24x18/kr.png",
           "colors": {
@@ -419,10 +1080,10 @@ window.FENCING_DATA = {
           "rank": 6,
           "age": 25,
           "activeScore": 83,
-          "legendScore": 0.0,
+          "legendScore": 25.9,
           "olympicGold": 0,
-          "worldGold": 0,
-          "note": "Potencia coreana emergente"
+          "worldGold": 2,
+          "note": "Campeona del mundo 2026. Potencia coreana emergente"
         },
         {
           "id": "rossella_fiamingo",
@@ -605,12 +1266,12 @@ window.FENCING_DATA = {
             "primary": "#003478",
             "secondary": "#FFFFFF"
           },
-          "era": "—",
+          "era": "en activo",
           "olympicGold": 0,
           "worldGold": 2,
           "legendScore": 25.9,
-          "note": "0 oros olímpicos · 2 Mundiales. Campeón del mundo.",
-          "active": false,
+          "note": "0 oros olímpicos · 2 Mundiales. Potencia coreana emergente",
+          "active": true,
           "rank": 9
         }
       ],
@@ -619,616 +1280,6 @@ window.FENCING_DATA = {
         "name": "Song Se-ra",
         "country": "KOR",
         "logo": "https://flagcdn.com/24x18/kr.png"
-      }
-    },
-    {
-      "id": "sabre-m",
-      "weapon": "Sable",
-      "gender": "M",
-      "label": "Sable Masculino",
-      "RANKING": [
-        {
-          "id": "s_bastien_patrice",
-          "name": "Sébastien Patrice",
-          "country": "FRA",
-          "logo": "https://flagcdn.com/24x18/fr.png",
-          "colors": {
-            "primary": "#002395",
-            "secondary": "#FFFFFF"
-          },
-          "rank": 1,
-          "age": 27,
-          "activeScore": 100,
-          "legendScore": 0.0,
-          "olympicGold": 0,
-          "worldGold": 0,
-          "note": "Nº1 del ranking FIE"
-        },
-        {
-          "id": "sanguk_oh",
-          "name": "Sanguk Oh",
-          "country": "KOR",
-          "logo": "https://flagcdn.com/24x18/kr.png",
-          "colors": {
-            "primary": "#003478",
-            "secondary": "#FFFFFF"
-          },
-          "rank": 2,
-          "age": 26,
-          "activeScore": 96,
-          "legendScore": 29.9,
-          "olympicGold": 1,
-          "worldGold": 0,
-          "note": "Campeón olímpico 2024"
-        },
-        {
-          "id": "ron_szil_gyi",
-          "name": "Áron Szilágyi",
-          "country": "HUN",
-          "logo": "https://flagcdn.com/24x18/hu.png",
-          "colors": {
-            "primary": "#436F4D",
-            "secondary": "#FFFFFF"
-          },
-          "rank": 3,
-          "age": 35,
-          "activeScore": 93,
-          "legendScore": 100.0,
-          "olympicGold": 3,
-          "worldGold": 1,
-          "note": "Tricampeón olímpico (2012-2020)"
-        },
-        {
-          "id": "fares_ferjani",
-          "name": "Fares Ferjani",
-          "country": "TUN",
-          "logo": "https://flagcdn.com/24x18/tn.png",
-          "colors": {
-            "primary": "#E70013",
-            "secondary": "#FFFFFF"
-          },
-          "rank": 4,
-          "age": 26,
-          "activeScore": 89,
-          "legendScore": 0.0,
-          "olympicGold": 0,
-          "worldGold": 0,
-          "note": "Plata olímpica 2024"
-        },
-        {
-          "id": "sandro_bazadze",
-          "name": "Sandro Bazadze",
-          "country": "GEO",
-          "logo": "https://flagcdn.com/24x18/ge.png",
-          "colors": {
-            "primary": "#FF0000",
-            "secondary": "#FFFFFF"
-          },
-          "rank": 5,
-          "age": 32,
-          "activeScore": 86,
-          "legendScore": 10.4,
-          "olympicGold": 0,
-          "worldGold": 1,
-          "note": "Campeón del mundo 2022"
-        },
-        {
-          "id": "luigi_samele",
-          "name": "Luigi Samele",
-          "country": "ITA",
-          "logo": "https://flagcdn.com/24x18/it.png",
-          "colors": {
-            "primary": "#009246",
-            "secondary": "#FFFFFF"
-          },
-          "rank": 6,
-          "age": 38,
-          "activeScore": 82,
-          "legendScore": 0.0,
-          "olympicGold": 0,
-          "worldGold": 0,
-          "note": "Plata olímpica 2020"
-        },
-        {
-          "id": "ziad_elsissy",
-          "name": "Ziad Elsissy",
-          "country": "EGY",
-          "logo": "https://flagcdn.com/24x18/eg.png",
-          "colors": {
-            "primary": "#CE1126",
-            "secondary": "#FFFFFF"
-          },
-          "rank": 7,
-          "age": 30,
-          "activeScore": 80,
-          "legendScore": 0.0,
-          "olympicGold": 0,
-          "worldGold": 0,
-          "note": "Referente africano del sable"
-        },
-        {
-          "id": "colin_heathcock",
-          "name": "Colin Heathcock",
-          "country": "USA",
-          "logo": "https://flagcdn.com/24x18/us.png",
-          "colors": {
-            "primary": "#B22234",
-            "secondary": "#FFFFFF"
-          },
-          "rank": 8,
-          "age": 21,
-          "activeScore": 78,
-          "legendScore": 0.0,
-          "olympicGold": 0,
-          "worldGold": 0,
-          "note": "Joven campeón del mundo júnior"
-        }
-      ],
-      "LEGENDS": [
-        {
-          "id": "ron_szil_gyi",
-          "name": "Áron Szilágyi",
-          "country": "HUN",
-          "logo": "https://flagcdn.com/24x18/hu.png",
-          "colors": {
-            "primary": "#436F4D",
-            "secondary": "#FFFFFF"
-          },
-          "era": "en activo",
-          "olympicGold": 3,
-          "worldGold": 1,
-          "legendScore": 100.0,
-          "note": "3 oros olímpicos · 1 Mundial. Tricampeón olímpico (2012-2020)",
-          "active": true,
-          "rank": 1
-        },
-        {
-          "id": "alad_r_gerevich",
-          "name": "Aladár Gerevich",
-          "country": "HUN",
-          "logo": "https://flagcdn.com/24x18/hu.png",
-          "colors": {
-            "primary": "#436F4D",
-            "secondary": "#FFFFFF"
-          },
-          "era": "1932-1960",
-          "olympicGold": 2,
-          "worldGold": 3,
-          "legendScore": 91.0,
-          "note": "2 oros olímpicos · 3 Mundiales. Siete oros olímpicos en seis Juegos; el GOAT del sable.",
-          "active": false,
-          "rank": 2
-        },
-        {
-          "id": "stanislav_pozdniakov",
-          "name": "Stanislav Pozdniakov",
-          "country": "RUS",
-          "logo": "https://flagcdn.com/24x18/ru.png",
-          "colors": {
-            "primary": "#0039A6",
-            "secondary": "#FFFFFF"
-          },
-          "era": "1996-2002",
-          "olympicGold": 1,
-          "worldGold": 5,
-          "legendScore": 82.1,
-          "note": "1 oro olímpico · 5 Mundiales. Oro olímpico y múltiple campeón del mundo.",
-          "active": false,
-          "rank": 3
-        },
-        {
-          "id": "rudolf_k_rp_ti",
-          "name": "Rudolf Kárpáti",
-          "country": "HUN",
-          "logo": "https://flagcdn.com/24x18/hu.png",
-          "colors": {
-            "primary": "#436F4D",
-            "secondary": "#FFFFFF"
-          },
-          "era": "1956-1960",
-          "olympicGold": 2,
-          "worldGold": 2,
-          "legendScore": 80.6,
-          "note": "2 oros olímpicos · 2 Mundiales. Doble oro olímpico de la dinastía húngara.",
-          "active": false,
-          "rank": 4
-        },
-        {
-          "id": "viktor_krovopuskov",
-          "name": "Viktor Krovopuskov",
-          "country": "RUS",
-          "logo": "https://flagcdn.com/24x18/ru.png",
-          "colors": {
-            "primary": "#0039A6",
-            "secondary": "#FFFFFF"
-          },
-          "era": "1976-1980",
-          "olympicGold": 2,
-          "worldGold": 2,
-          "legendScore": 80.6,
-          "note": "2 oros olímpicos · 2 Mundiales. Doble oro olímpico individual soviético.",
-          "active": false,
-          "rank": 5
-        },
-        {
-          "id": "jean_fran_ois_lamour",
-          "name": "Jean-François Lamour",
-          "country": "FRA",
-          "logo": "https://flagcdn.com/24x18/fr.png",
-          "colors": {
-            "primary": "#002395",
-            "secondary": "#FFFFFF"
-          },
-          "era": "1984-1988",
-          "olympicGold": 2,
-          "worldGold": 1,
-          "legendScore": 70.1,
-          "note": "2 oros olímpicos · 1 Mundial. Bicampeón olímpico individual.",
-          "active": false,
-          "rank": 6
-        },
-        {
-          "id": "jerzy_paw_owski",
-          "name": "Jerzy Pawłowski",
-          "country": "POL",
-          "logo": "https://flagcdn.com/24x18/pl.png",
-          "colors": {
-            "primary": "#DC143C",
-            "secondary": "#FFFFFF"
-          },
-          "era": "1957-1968",
-          "olympicGold": 1,
-          "worldGold": 3,
-          "legendScore": 61.2,
-          "note": "1 oro olímpico · 3 Mundiales. Oro olímpico y triple campeón del mundo.",
-          "active": false,
-          "rank": 7
-        },
-        {
-          "id": "grigory_kiriyenko",
-          "name": "Grigory Kiriyenko",
-          "country": "RUS",
-          "logo": "https://flagcdn.com/24x18/ru.png",
-          "colors": {
-            "primary": "#0039A6",
-            "secondary": "#FFFFFF"
-          },
-          "era": "—",
-          "olympicGold": 0,
-          "worldGold": 4,
-          "legendScore": 41.8,
-          "note": "0 oros olímpicos · 4 Mundiales. Campeón del mundo.",
-          "active": false,
-          "rank": 8
-        },
-        {
-          "id": "aldo_montano",
-          "name": "Aldo Montano",
-          "country": "ITA",
-          "logo": "https://flagcdn.com/24x18/it.png",
-          "colors": {
-            "primary": "#009246",
-            "secondary": "#FFFFFF"
-          },
-          "era": "—",
-          "olympicGold": 0,
-          "worldGold": 3,
-          "legendScore": 31.3,
-          "note": "0 oros olímpicos · 3 Mundiales. Campeón del mundo.",
-          "active": false,
-          "rank": 9
-        }
-      ],
-      "reignWorld": {
-        "year": 2026,
-        "name": "Pavel Graudyn",
-        "country": "RUS",
-        "logo": "https://flagcdn.com/24x18/ru.png"
-      }
-    },
-    {
-      "id": "epee-m",
-      "weapon": "Espada",
-      "gender": "M",
-      "label": "Espada Masculina",
-      "RANKING": [
-        {
-          "id": "koki_kano",
-          "name": "Koki Kano",
-          "country": "JPN",
-          "logo": "https://flagcdn.com/24x18/jp.png",
-          "colors": {
-            "primary": "#BC002D",
-            "secondary": "#FFFFFF"
-          },
-          "rank": 1,
-          "age": 27,
-          "activeScore": 100,
-          "legendScore": 56.2,
-          "olympicGold": 1,
-          "worldGold": 1,
-          "note": "Campeón olímpico 2024 y del mundo"
-        },
-        {
-          "id": "yannick_borel",
-          "name": "Yannick Borel",
-          "country": "FRA",
-          "logo": "https://flagcdn.com/24x18/fr.png",
-          "colors": {
-            "primary": "#002395",
-            "secondary": "#FFFFFF"
-          },
-          "rank": 2,
-          "age": 37,
-          "activeScore": 95,
-          "legendScore": 14.6,
-          "olympicGold": 0,
-          "worldGold": 1,
-          "note": "Campeón del mundo y oro por equipos"
-        },
-        {
-          "id": "gergely_sikl_si",
-          "name": "Gergely Siklósi",
-          "country": "HUN",
-          "logo": "https://flagcdn.com/24x18/hu.png",
-          "colors": {
-            "primary": "#436F4D",
-            "secondary": "#FFFFFF"
-          },
-          "rank": 3,
-          "age": 28,
-          "activeScore": 91,
-          "legendScore": 14.6,
-          "olympicGold": 0,
-          "worldGold": 1,
-          "note": "Plata olímpica 2020"
-        },
-        {
-          "id": "romain_cannone",
-          "name": "Romain Cannone",
-          "country": "FRA",
-          "logo": "https://flagcdn.com/24x18/fr.png",
-          "colors": {
-            "primary": "#002395",
-            "secondary": "#FFFFFF"
-          },
-          "rank": 4,
-          "age": 28,
-          "activeScore": 88,
-          "legendScore": 56.2,
-          "olympicGold": 1,
-          "worldGold": 1,
-          "note": "Campeón olímpico 2021"
-        },
-        {
-          "id": "m_t_tam_s_koch",
-          "name": "Máté Tamás Koch",
-          "country": "HUN",
-          "logo": "https://flagcdn.com/24x18/hu.png",
-          "colors": {
-            "primary": "#436F4D",
-            "secondary": "#FFFFFF"
-          },
-          "rank": 5,
-          "age": 32,
-          "activeScore": 84,
-          "legendScore": 14.6,
-          "olympicGold": 0,
-          "worldGold": 1,
-          "note": "Podio mundial constante"
-        },
-        {
-          "id": "andrea_santarelli",
-          "name": "Andrea Santarelli",
-          "country": "ITA",
-          "logo": "https://flagcdn.com/24x18/it.png",
-          "colors": {
-            "primary": "#009246",
-            "secondary": "#FFFFFF"
-          },
-          "rank": 6,
-          "age": 32,
-          "activeScore": 81,
-          "legendScore": 0.0,
-          "olympicGold": 0,
-          "worldGold": 0,
-          "note": "Referente de la espada italiana"
-        },
-        {
-          "id": "kazuyasu_minobe",
-          "name": "Kazuyasu Minobe",
-          "country": "JPN",
-          "logo": "https://flagcdn.com/24x18/jp.png",
-          "colors": {
-            "primary": "#BC002D",
-            "secondary": "#FFFFFF"
-          },
-          "rank": 7,
-          "age": 39,
-          "activeScore": 79,
-          "legendScore": 0.0,
-          "olympicGold": 0,
-          "worldGold": 0,
-          "note": "Oro olímpico por equipos 2020"
-        },
-        {
-          "id": "ruben_limardo",
-          "name": "Ruben Limardo",
-          "country": "VEN",
-          "logo": "https://flagcdn.com/24x18/ve.png",
-          "colors": {
-            "primary": "#CF142B",
-            "secondary": "#FFFFFF"
-          },
-          "rank": 8,
-          "age": 40,
-          "activeScore": 77,
-          "legendScore": 41.7,
-          "olympicGold": 1,
-          "worldGold": 0,
-          "note": "Campeón olímpico 2012"
-        }
-      ],
-      "LEGENDS": [
-        {
-          "id": "pavel_kolobkov",
-          "name": "Pavel Kolobkov",
-          "country": "RUS",
-          "logo": "https://flagcdn.com/24x18/ru.png",
-          "colors": {
-            "primary": "#0039A6",
-            "secondary": "#FFFFFF"
-          },
-          "era": "1996-2005",
-          "olympicGold": 1,
-          "worldGold": 4,
-          "legendScore": 100.0,
-          "note": "1 oro olímpico · 4 Mundiales. Oro olímpico 2000.",
-          "active": false,
-          "rank": 1
-        },
-        {
-          "id": "ram_n_fonst",
-          "name": "Ramón Fonst",
-          "country": "CUB",
-          "logo": "https://flagcdn.com/24x18/cu.png",
-          "colors": {
-            "primary": "#002A8F",
-            "secondary": "#FFFFFF"
-          },
-          "era": "1900-1904",
-          "olympicGold": 2,
-          "worldGold": 0,
-          "legendScore": 83.3,
-          "note": "2 oros olímpicos · 0 Mundiales. Pionero: dos oros olímpicos a comienzos del siglo XX.",
-          "active": false,
-          "rank": 2
-        },
-        {
-          "id": "edoardo_mangiarotti",
-          "name": "Edoardo Mangiarotti",
-          "country": "ITA",
-          "logo": "https://flagcdn.com/24x18/it.png",
-          "colors": {
-            "primary": "#009246",
-            "secondary": "#FFFFFF"
-          },
-          "era": "1936-1960",
-          "olympicGold": 1,
-          "worldGold": 2,
-          "legendScore": 70.8,
-          "note": "1 oro olímpico · 2 Mundiales. El mayor espadista: 13 medallas olímpicas en cinco Juegos.",
-          "active": false,
-          "rank": 3
-        },
-        {
-          "id": "ric_srecki",
-          "name": "Éric Srecki",
-          "country": "FRA",
-          "logo": "https://flagcdn.com/24x18/fr.png",
-          "colors": {
-            "primary": "#002395",
-            "secondary": "#FFFFFF"
-          },
-          "era": "1988-1996",
-          "olympicGold": 1,
-          "worldGold": 2,
-          "legendScore": 70.8,
-          "note": "1 oro olímpico · 2 Mundiales. Oro olímpico 1992.",
-          "active": false,
-          "rank": 4
-        },
-        {
-          "id": "arnd_schmitt",
-          "name": "Arnd Schmitt",
-          "country": "GER",
-          "logo": "https://flagcdn.com/24x18/de.png",
-          "colors": {
-            "primary": "#000000",
-            "secondary": "#FFFFFF"
-          },
-          "era": "1988-1992",
-          "olympicGold": 1,
-          "worldGold": 1,
-          "legendScore": 56.2,
-          "note": "1 oro olímpico · 1 Mundial. Oro olímpico individual 1988.",
-          "active": false,
-          "rank": 5
-        },
-        {
-          "id": "grigory_kriss",
-          "name": "Grigory Kriss",
-          "country": "UKR",
-          "logo": "https://flagcdn.com/24x18/ua.png",
-          "colors": {
-            "primary": "#0057B7",
-            "secondary": "#FFFFFF"
-          },
-          "era": "1964-1968",
-          "olympicGold": 1,
-          "worldGold": 1,
-          "legendScore": 56.2,
-          "note": "1 oro olímpico · 1 Mundial. Oro olímpico 1964 de la escuela soviética.",
-          "active": false,
-          "rank": 6
-        },
-        {
-          "id": "johan_harmenberg",
-          "name": "Johan Harmenberg",
-          "country": "SWE",
-          "logo": "https://flagcdn.com/24x18/se.png",
-          "colors": {
-            "primary": "#006AA7",
-            "secondary": "#FFFFFF"
-          },
-          "era": "1980",
-          "olympicGold": 1,
-          "worldGold": 1,
-          "legendScore": 56.2,
-          "note": "1 oro olímpico · 1 Mundial. Oro olímpico 1980 con una táctica revolucionaria.",
-          "active": false,
-          "rank": 7
-        },
-        {
-          "id": "koki_kano",
-          "name": "Koki Kano",
-          "country": "JPN",
-          "logo": "https://flagcdn.com/24x18/jp.png",
-          "colors": {
-            "primary": "#BC002D",
-            "secondary": "#FFFFFF"
-          },
-          "era": "en activo",
-          "olympicGold": 1,
-          "worldGold": 1,
-          "legendScore": 56.2,
-          "note": "1 oro olímpico · 1 Mundial. Campeón olímpico 2024 y del mundo",
-          "active": true,
-          "rank": 8
-        },
-        {
-          "id": "romain_cannone",
-          "name": "Romain Cannone",
-          "country": "FRA",
-          "logo": "https://flagcdn.com/24x18/fr.png",
-          "colors": {
-            "primary": "#002395",
-            "secondary": "#FFFFFF"
-          },
-          "era": "en activo",
-          "olympicGold": 1,
-          "worldGold": 1,
-          "legendScore": 56.2,
-          "note": "1 oro olímpico · 1 Mundial. Campeón olímpico 2021",
-          "active": true,
-          "rank": 9
-        }
-      ],
-      "reignWorld": {
-        "year": 2026,
-        "name": "Lucas Malcotti",
-        "country": "SUI",
-        "logo": "https://flagcdn.com/24x18/ch.png"
       }
     },
     {
@@ -1303,7 +1354,7 @@ window.FENCING_DATA = {
           "legendScore": 6.9,
           "olympicGold": 0,
           "worldGold": 1,
-          "note": "Nº1 del ranking FIE"
+          "note": "Campeona del mundo 2026. Nº1 del ranking FIE"
         },
         {
           "id": "lauren_scruggs",
@@ -1577,6 +1628,23 @@ window.FENCING_DATA = {
           "note": "Plata olímpica 2024 y campeona del mundo"
         },
         {
+          "id": "larissa_eifler",
+          "name": "Larissa Eifler",
+          "country": "GER",
+          "logo": "https://flagcdn.com/24x18/de.png",
+          "colors": {
+            "primary": "#000000",
+            "secondary": "#FFFFFF"
+          },
+          "age": null,
+          "activeScore": 96,
+          "legendScore": 13.0,
+          "olympicGold": 0,
+          "worldGold": 1,
+          "note": "Campeona del mundo 2026",
+          "rank": 3
+        },
+        {
           "id": "misaki_emura",
           "name": "Misaki Emura",
           "country": "JPN",
@@ -1585,7 +1653,7 @@ window.FENCING_DATA = {
             "primary": "#BC002D",
             "secondary": "#FFFFFF"
           },
-          "rank": 3,
+          "rank": 4,
           "age": 30,
           "activeScore": 92,
           "legendScore": 25.9,
@@ -1602,7 +1670,7 @@ window.FENCING_DATA = {
             "primary": "#009246",
             "secondary": "#FFFFFF"
           },
-          "rank": 4,
+          "rank": 5,
           "age": 32,
           "activeScore": 85,
           "legendScore": 0.0,
@@ -1619,7 +1687,7 @@ window.FENCING_DATA = {
             "primary": "#436F4D",
             "secondary": "#FFFFFF"
           },
-          "rank": 5,
+          "rank": 6,
           "age": 34,
           "activeScore": 82,
           "legendScore": 0.0,
@@ -1636,7 +1704,7 @@ window.FENCING_DATA = {
             "primary": "#003478",
             "secondary": "#FFFFFF"
           },
-          "rank": 6,
+          "rank": 7,
           "age": 25,
           "activeScore": 80,
           "legendScore": 0.0,
@@ -1653,7 +1721,7 @@ window.FENCING_DATA = {
             "primary": "#BC002D",
             "secondary": "#FFFFFF"
           },
-          "rank": 7,
+          "rank": 8,
           "age": 27,
           "activeScore": 78,
           "legendScore": 0.0,
@@ -1670,7 +1738,7 @@ window.FENCING_DATA = {
             "primary": "#B22234",
             "secondary": "#FFFFFF"
           },
-          "rank": 8,
+          "rank": 9,
           "age": 24,
           "activeScore": 76,
           "legendScore": 0.0,
@@ -2044,6 +2112,26 @@ window.FENCING_DATA = {
       "rank": 10
     },
     {
+      "id": "song_se_ra",
+      "name": "Song Se-ra",
+      "country": "KOR",
+      "logo": "https://flagcdn.com/24x18/kr.png",
+      "colors": {
+        "primary": "#003478",
+        "secondary": "#FFFFFF"
+      },
+      "weapon": "Espada",
+      "label": "Espada Femenina",
+      "age": 25,
+      "activeScore": 83,
+      "legendScore": 25.9,
+      "olympicGold": 0,
+      "worldGold": 2,
+      "gapToLegend": 74.1,
+      "note": "0 oros olímpicos · 2 Mundiales · a 74 del mejor de la historia",
+      "rank": 11
+    },
+    {
       "id": "rossella_fiamingo",
       "name": "Rossella Fiamingo",
       "country": "ITA",
@@ -2061,26 +2149,6 @@ window.FENCING_DATA = {
       "worldGold": 2,
       "gapToLegend": 74.1,
       "note": "0 oros olímpicos · 2 Mundiales · a 74 del mejor de la historia",
-      "rank": 11
-    },
-    {
-      "id": "enzo_lefort",
-      "name": "Enzo Lefort",
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "colors": {
-        "primary": "#002395",
-        "secondary": "#FFFFFF"
-      },
-      "weapon": "Florete",
-      "label": "Florete Masculino",
-      "age": 34,
-      "activeScore": 79,
-      "legendScore": 20.6,
-      "olympicGold": 0,
-      "worldGold": 2,
-      "gapToLegend": 79.4,
-      "note": "0 oros olímpicos · 2 Mundiales · a 79 del mejor de la historia",
       "rank": 12
     }
   ],
@@ -2146,8 +2214,8 @@ window.FENCING_DATA = {
       "rank": 4
     },
     {
-      "id": "sera_song",
-      "name": "Sera Song",
+      "id": "song_se_ra",
+      "name": "Song Se-ra",
       "country": "KOR",
       "logo": "https://flagcdn.com/24x18/kr.png",
       "colors": {

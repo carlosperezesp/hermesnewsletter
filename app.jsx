@@ -274,6 +274,7 @@ function IndividualSport({ data, label, intro, masthead = "Ranking y leyendas", 
                 <NewsletterRankRow key={p.id} rank={p.rank} item={p} alive={new Set()}
                   score={p.activeScore} scoreLabel="Nivel" scoreB={p.legendScore} scoreBLabel="Leyenda"
                   scoreBThreshold={legendThreshold}
+                  legendActive={(p.legendScore || 0) >= legendThreshold}
                   meta={`${d.label} · ${p.country}${p.age ? ` · ${p.age} años` : ""}`} note={p.note} logo={p.logo} />
               ))}
             </div>
@@ -4346,7 +4347,7 @@ function NewsletterApp() {
                         background: "rgba(184,134,11,0.10)", border: "1px solid rgba(184,134,11,0.35)" }}>
                         <span style={{ fontFamily: "monospace", fontSize: 9.5, fontWeight: 800,
                           textTransform: "uppercase", letterSpacing: "0.07em", color: "#8a6d1b" }}>
-                          Campeón del mundo {ev.reignWorld.year}
+                          {ev.gender === "F" ? "Campeona" : "Campeón"} del mundo {ev.reignWorld.year}
                         </span>
                         {ev.reignWorld.logo && (
                           <img src={ev.reignWorld.logo} alt="" style={{ width: 20, height: 15, borderRadius: 2, objectFit: "cover" }} />
@@ -4369,7 +4370,8 @@ function NewsletterApp() {
                           scoreB={f.legendScore}
                           scoreBLabel="Leyenda"
                           scoreBThreshold={legendThreshold}
-                          meta={`${ev.weapon} · ${f.country} · ${f.age} años`}
+                          legendActive={(f.legendScore || 0) >= legendThreshold}
+                          meta={`${ev.weapon} · ${f.country}${f.age ? ` · ${f.age} años` : ""}`}
                           note={f.note}
                           logo={f.logo}
                         />
@@ -4539,6 +4541,7 @@ function NewsletterApp() {
                           scoreB={p.legendScore}
                           scoreBLabel="Leyenda"
                           scoreBThreshold={legendThreshold}
+                          legendActive={(p.legendScore || 0) >= legendThreshold}
                           meta={`${d.label} · ${p.country} · ${p.age} años`}
                           note={p.note}
                           logo={p.logo}
@@ -5322,6 +5325,7 @@ function NewsletterApp() {
                       scoreB={p.legendScore}
                       scoreBLabel="Leyenda"
                       scoreBThreshold={legendThreshold}
+                      legendActive={(p.legendScore || 0) >= legendThreshold}
                       meta={cricketMeta(p)}
                       note={cricketNote(p)}
                       logo={p.logo}

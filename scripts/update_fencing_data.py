@@ -247,7 +247,7 @@ EVENTS_RAW = [
          ("Alberta Santuccio", "ITA", 30, 92, "Nº2 mundial, oro por equipos 2024"),
          ("Eszter Muhári", "HUN", 27, 89, "Podio mundial constante"),
          ("Auriane Mallo-Breton", "FRA", 32, 86, "Plata olímpica 2024"),
-         ("Sera Song", "KOR", 25, 83, "Potencia coreana emergente"),
+         ("Song Se-ra", "KOR", 25, 83, "Potencia coreana emergente"),
          ("Rossella Fiamingo", "ITA", 34, 80, "Doble campeona del mundo"),
          ("Giulia Rizzi", "ITA", 35, 77, "Oro olímpico por equipos 2024"),
      ],
@@ -412,22 +412,40 @@ def build_event(ev: dict, world, cc_map, reign=None, limit: int = 9) -> dict:
     for i, row in enumerate(legends):
         row["rank"] = i + 1
 
+    # Campeón del mundo VIGENTE (del fetch): se usa para anotar/inyectar en el ranking.
+    rw = (reign or {}).get(ev["wk"], {}).get(ev["g"]) if reign else None
+    reign_world = None
+    if rw:
+        y, nm, cc = rw
+        reign_world = {"year": y, "name": nm, "country": cc, "logo": flag(cc)}
+    champ_key = _norm(reign_world["name"]) if reign_world else None
+    champ_word = "Campeona" if ev["gender"] == "F" else "Campeón"
+
     ranking = []
     for i, (name, cc3, age, nivel, note) in enumerate(ev["current"]):
         oly = CURRENT_OLY.get(name, 0)
         wc = cur_wc[name]
+        n = f"{champ_word} del mundo {reign_world['year']}. {note}" if (champ_key and _norm(name) == champ_key) else note
         row = _base(name, cc3)
         row.update({"rank": i + 1, "age": age, "activeScore": nivel,
                     "legendScore": round((oly * W_OLYMPIC + wc * W_WORLD) / max_raw * 100, 1),
-                    "olympicGold": oly, "worldGold": wc, "note": note})
+                    "olympicGold": oly, "worldGold": wc, "note": n})
         ranking.append(row)
 
-    # Campeón del mundo VIGENTE (más reciente) de esta prueba, del propio fetch.
-    reign_world = None
-    rw = (reign or {}).get(ev["wk"], {}).get(ev["g"]) if reign else None
-    if rw:
-        y, nm, cc = rw
-        reign_world = {"year": y, "name": nm, "country": cc, "logo": flag(cc)}
+    # Si el campeón vigente NO está en el ranking curado (que va a mano y no siempre
+    # está al día), se inyecta arriba con su palmarés real descargado.
+    if champ_key and not any(_norm(r["name"]) == champ_key for r in ranking):
+        cw = wc_of(reign_world["name"])
+        oly = CURRENT_OLY.get(reign_world["name"], 0)
+        champ = _base(reign_world["name"], reign_world["country"])
+        champ.update({"age": None, "activeScore": 96,
+                      "legendScore": round((oly * W_OLYMPIC + cw * W_WORLD) / max_raw * 100, 1),
+                      "olympicGold": oly, "worldGold": cw,
+                      "note": f"{champ_word} del mundo {reign_world['year']}"})
+        ranking.append(champ)
+    ranking.sort(key=lambda r: -r["activeScore"])
+    for i, r in enumerate(ranking):
+        r["rank"] = i + 1
 
     return {"id": ev["id"], "weapon": ev["weapon"], "gender": ev["gender"],
             "label": ev["label"], "RANKING": ranking, "LEGENDS": legends,
@@ -479,6 +497,9 @@ def main() -> None:
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     world, cc_map, reign = fetch_world()
     events = [build_event(ev, world, cc_map, reign) for ev in EVENTS_RAW]
+    # Orden de visualización: masculino (espada, florete, sable) y luego femenino.
+    _order = ["epee-m", "foil-m", "sabre-m", "epee-w", "foil-w", "sabre-w"]
+    events.sort(key=lambda e: _order.index(e["id"]) if e["id"] in _order else 99)
     road = build_road_to_glory(events)
     for ev in events:
         ev.pop("_maxRaw", None)
