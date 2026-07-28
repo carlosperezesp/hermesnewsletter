@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-07-27 22:32 UTC",
+  "UPDATED": "2026-07-28 07:50 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1556,
+    "matches": 1555,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 882
+        "matches": 881
       },
       {
         "name": "IPL",
@@ -2084,24 +2084,6 @@ window.CRICKET_DATA = {
           "wickets": 102
         },
         {
-          "id": "ba-carse",
-          "name": "BA Carse",
-          "role": "Bowler",
-          "country": "England",
-          "teamCode": "ENG",
-          "colors": {
-            "primary": "#c8102e",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 79.1,
-          "batting": 16.3,
-          "bowling": 79.1,
-          "overall": 73.4,
-          "runs": 475,
-          "wickets": 83
-        },
-        {
           "id": "ja-duffy",
           "name": "JA Duffy",
           "role": "Bowler",
@@ -2118,6 +2100,24 @@ window.CRICKET_DATA = {
           "overall": 57.4,
           "runs": 104,
           "wickets": 94
+        },
+        {
+          "id": "ba-carse",
+          "name": "BA Carse",
+          "role": "Bowler",
+          "country": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/gb-eng.png",
+          "score": 76.6,
+          "batting": 15.7,
+          "bowling": 76.6,
+          "overall": 70.9,
+          "runs": 444,
+          "wickets": 80
         },
         {
           "id": "mohammed-siraj",
@@ -2632,24 +2632,6 @@ window.CRICKET_DATA = {
           "wickets": 110
         },
         {
-          "id": "jc-archer",
-          "name": "JC Archer",
-          "role": "Bowler",
-          "country": "England",
-          "teamCode": "ENG",
-          "colors": {
-            "primary": "#c8102e",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 82.8,
-          "batting": 13.2,
-          "bowling": 82.8,
-          "overall": 70.3,
-          "runs": 437,
-          "wickets": 107
-        },
-        {
           "id": "ka-maharaj",
           "name": "KA Maharaj",
           "role": "Bowler",
@@ -2666,6 +2648,24 @@ window.CRICKET_DATA = {
           "overall": 66.2,
           "runs": 317,
           "wickets": 101
+        },
+        {
+          "id": "jc-archer",
+          "name": "JC Archer",
+          "role": "Bowler",
+          "country": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/gb-eng.png",
+          "score": 82.2,
+          "batting": 13.0,
+          "bowling": 82.2,
+          "overall": 69.5,
+          "runs": 425,
+          "wickets": 106
         },
         {
           "id": "jnt-seales",

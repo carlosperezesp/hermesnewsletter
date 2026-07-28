@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-27 22:32 UTC",
+  "UPDATED": "2026-07-28 07:50 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:German motorcycle Grand Prix:Marc Márquez",
@@ -33,14 +33,6 @@ window.GLORY_DATA = {
       "text": "Max Verstappen ganó el Moët & Chandon Belgian Grand Prix",
       "weight": 100,
       "firstSeen": "2026-07-18"
-    },
-    {
-      "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "text": "Ryan Blaney ganó en Echopark Speedway",
-      "weight": 100,
-      "firstSeen": "2026-07-13"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
@@ -77,15 +69,6 @@ window.GLORY_DATA = {
       "text": "Alison Dos Santos entra en el top-10 histórico · 400m vallas — H",
       "weight": 90,
       "firstSeen": "2026-07-26"
-    },
-    {
-      "id": "tennis:in:WTA:Linda Noskova:20260709",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Linda Noskova entra en el top 10 WTA",
-      "weight": 90,
-      "anchor": "tennis-wta",
-      "firstSeen": "2026-07-13"
     },
     {
       "id": "cycling:stage:Tour de France:21:Mathieu van der Poel",
@@ -250,24 +233,6 @@ window.GLORY_DATA = {
       "text": "Chris Sale entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-07-18"
-    },
-    {
-      "id": "rank:golf:CURRENT:in:Tommy Fleetwood",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Tommy Fleetwood entra en el top-10 · Nivel actual",
-      "weight": 84,
-      "firstSeen": "2026-07-13"
-    },
-    {
-      "id": "tennis:out:WTA:Victoria Mboko:20260709",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Victoria Mboko sale del top 10 WTA",
-      "weight": 78,
-      "anchor": "tennis-wta",
-      "firstSeen": "2026-07-13"
     },
     {
       "id": "rank:football:ROAD_TO_GLORY.dynasties:era:out:Brazil (1958-1970)",
@@ -441,8 +406,8 @@ window.GLORY_DATA = {
       "Bryce Harper",
       "Juan Soto",
       "Yordan Alvarez",
-      "Kyle Schwarber",
       "CJ Abrams",
+      "Kyle Schwarber",
       "Jacob Misiorowski",
       "Chris Sale"
     ],
@@ -454,8 +419,8 @@ window.GLORY_DATA = {
       "New York Yankees",
       "Philadelphia Phillies",
       "San Diego Padres",
-      "Seattle Mariners",
       "Baltimore Orioles",
+      "Seattle Mariners",
       "New York Mets"
     ],
     "mlb:ROAD_TO_GLORY.youngProspects": [

@@ -4846,7 +4846,7 @@ window.NBA_DATA = {
       "last": "Dadiet",
       "pos": "F",
       "teamCode": "NY",
-      "age": 20,
+      "age": 21,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5211983.png",
       "colors": {
         "primary": "#006bb6",
@@ -4862,7 +4862,7 @@ window.NBA_DATA = {
         "blk": 0.0,
         "min": 5.7
       },
-      "legendScore": 25.0
+      "legendScore": 26.0
     },
     {
       "id": 4431675,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-27 22:30 UTC",
+  "LAST_UPDATE": "2026-07-28 07:47 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

@@ -23754,7 +23754,7 @@ window.NHL_DATA = {
       "name": "Luke Haymes",
       "pos": "C",
       "teamCode": "TOR",
-      "age": 22,
+      "age": 23,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47977,10 +47977,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-27 22:30 UTC",
+  "LAST_UPDATE": "2026-07-28 07:47 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-27T22:29:46Z"
+    "standingsDateTimeUtc": "2026-07-28T07:47:01Z"
   }
 };
