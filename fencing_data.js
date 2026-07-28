@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-28 09:12 UTC
+// Auto-generated 2026-07-28 11:57 UTC
 window.FENCING_DATA = {
-  "UPDATED": "2026-07-28 09:12 UTC",
+  "UPDATED": "2026-07-28 11:57 UTC",
   "SEASON": "Temporada 2025/26",
   "WORLDS": {
     "name": "Campeonato del Mundo de Esgrima 2026",
@@ -308,7 +308,13 @@ window.FENCING_DATA = {
           "active": false,
           "rank": 9
         }
-      ]
+      ],
+      "reignWorld": {
+        "year": 2026,
+        "name": "Alexander Choupenitch",
+        "country": "CZE",
+        "logo": "https://flagcdn.com/24x18/cz.png"
+      }
     },
     {
       "id": "epee-w",
@@ -607,7 +613,13 @@ window.FENCING_DATA = {
           "active": false,
           "rank": 9
         }
-      ]
+      ],
+      "reignWorld": {
+        "year": 2026,
+        "name": "Song Se-ra",
+        "country": "KOR",
+        "logo": "https://flagcdn.com/24x18/kr.png"
+      }
     },
     {
       "id": "sabre-m",
@@ -906,7 +918,13 @@ window.FENCING_DATA = {
           "active": false,
           "rank": 9
         }
-      ]
+      ],
+      "reignWorld": {
+        "year": 2026,
+        "name": "Pavel Graudyn",
+        "country": "RUS",
+        "logo": "https://flagcdn.com/24x18/ru.png"
+      }
     },
     {
       "id": "epee-m",
@@ -1205,7 +1223,13 @@ window.FENCING_DATA = {
           "active": true,
           "rank": 9
         }
-      ]
+      ],
+      "reignWorld": {
+        "year": 2026,
+        "name": "Lucas Malcotti",
+        "country": "SUI",
+        "logo": "https://flagcdn.com/24x18/ch.png"
+      }
     },
     {
       "id": "foil-w",
@@ -1504,7 +1528,13 @@ window.FENCING_DATA = {
           "active": false,
           "rank": 9
         }
-      ]
+      ],
+      "reignWorld": {
+        "year": 2026,
+        "name": "Martina Favaretto",
+        "country": "ITA",
+        "logo": "https://flagcdn.com/24x18/it.png"
+      }
     },
     {
       "id": "sabre-w",
@@ -1803,7 +1833,13 @@ window.FENCING_DATA = {
           "active": false,
           "rank": 9
         }
-      ]
+      ],
+      "reignWorld": {
+        "year": 2026,
+        "name": "Larissa Eifler",
+        "country": "GER",
+        "logo": "https://flagcdn.com/24x18/de.png"
+      }
     }
   ],
   "ROAD_TO_GLORY": [

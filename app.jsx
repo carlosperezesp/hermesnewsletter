@@ -4338,8 +4338,25 @@ function NewsletterApp() {
                   <NewsletterSection
                     kicker={`${ev.weapon} ${weaponLabel[ev.gender] || ""} · Ranking`}
                     title={`${ev.label} — Score activo`}
-                    sub="Fuerza actual (ranking FIE y palmarés reciente). Snapshot curado."
+                    sub="Fuerza actual (ranking FIE, curado). El campeón del mundo vigente se descarga en vivo de los Mundiales."
                   >
+                    {ev.reignWorld && (
+                      <div style={{ display: "flex", alignItems: "center", gap: 8, flexWrap: "wrap",
+                        margin: "0 0 14px", padding: "8px 12px", borderRadius: 6,
+                        background: "rgba(184,134,11,0.10)", border: "1px solid rgba(184,134,11,0.35)" }}>
+                        <span style={{ fontFamily: "monospace", fontSize: 9.5, fontWeight: 800,
+                          textTransform: "uppercase", letterSpacing: "0.07em", color: "#8a6d1b" }}>
+                          Campeón del mundo {ev.reignWorld.year}
+                        </span>
+                        {ev.reignWorld.logo && (
+                          <img src={ev.reignWorld.logo} alt="" style={{ width: 20, height: 15, borderRadius: 2, objectFit: "cover" }} />
+                        )}
+                        <strong style={{ fontSize: 14 }}>{ev.reignWorld.name}</strong>
+                        {ev.reignWorld.country && (
+                          <span style={{ fontSize: 11, opacity: 0.6, fontFamily: "monospace" }}>{ev.reignWorld.country}</span>
+                        )}
+                      </div>
+                    )}
                     <div className="newsletter-list">
                       {ev.RANKING.map(f => (
                         <NewsletterRankRow

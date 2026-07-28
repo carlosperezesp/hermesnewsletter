@@ -33,6 +33,7 @@ CC2 = {
     "UKR": "ua", "RUS": "ru", "JPN": "jp", "CHN": "cn", "AZE": "az", "ROU": "ro",
     "CAN": "ca", "GBR": "gb", "SWE": "se", "CUB": "cu", "VEN": "ve", "SUI": "ch",
     "BEL": "be", "AUT": "at", "NED": "nl", "ESP": "es", "MDA": "md", "GRE": "gr",
+    "CZE": "cz",
 }
 COLORS = {
     "HKG": "#DE2910", "ITA": "#009246", "FRA": "#002395", "USA": "#B22234",
@@ -53,7 +54,7 @@ NATION_CC = {
     "Azerbaijan": "AZE", "Cuba": "CUB", "Sweden": "SWE", "Japan": "JPN",
     "Great Britain": "GBR", "Switzerland": "SUI", "Belgium": "BEL", "Austria": "AUT",
     "Netherlands": "NED", "Spain": "ESP", "Canada": "CAN", "Hong Kong": "HKG",
-    "Moldova": "MDA", "Greece": "GRE",
+    "Moldova": "MDA", "Greece": "GRE", "Czech Republic": "CZE", "Czechia": "CZE",
 }
 
 
@@ -149,6 +150,7 @@ def _parse_world(page_html: str):
     counts = {"foil": {"m": defaultdict(int), "w": defaultdict(int)},
               "epee": {"m": defaultdict(int), "w": defaultdict(int)},
               "sabre": {"m": defaultdict(int), "w": defaultdict(int)}}
+    reign = {w: {"m": None, "w": None} for w in counts}  # (año, nombre, cc) del más reciente
     cc_map = {}
     sec = ""
     for chunk in re.split(r'(<h[234][^>]*>.*?</h[234]>)', page_html, flags=re.S):
@@ -169,36 +171,48 @@ def _parse_world(page_html: str):
         except ValueError:
             continue
         for row in g[1:]:
-            if len(row) <= max(mi, wi) or not re.search(r"\b(19|20)\d{2}\b", re.sub(r"<[^>]+>", "", row[0])):
+            if len(row) <= max(mi, wi):
                 continue
+            ym = re.search(r"\b(19|20)\d{2}\b", re.sub(r"<[^>]+>", "", row[0]))
+            if not ym:
+                continue
+            year = int(ym.group(0))
             for idx, gen in ((mi, "m"), (wi, "w")):
                 p, cc = _winner_cc(row[idx])
                 if p:
                     counts[wk][gen][p] += 1
                     if cc and p not in cc_map:
                         cc_map[p] = cc
-    return {w: {g: dict(counts[w][g]) for g in ("m", "w")} for w in counts}, cc_map
+                    if reign[wk][gen] is None or year > reign[wk][gen][0]:
+                        reign[wk][gen] = [year, p, cc]
+    return ({w: {g: dict(counts[w][g]) for g in ("m", "w")} for w in counts}, cc_map,
+            {w: {g: reign[w][g] for g in ("m", "w")} for w in reign})
+
+
+_EMPTY_REIGN = {"foil": {"m": None, "w": None}, "epee": {"m": None, "w": None}, "sabre": {"m": None, "w": None}}
 
 
 def fetch_world(ttl_h: float = 24.0):
-    """(counts, cc_map). Cachea; si el fetch falla, usa caché."""
+    """(counts, cc_map, reign). Cachea; si el fetch falla, usa caché."""
     cache = CACHE / "fencing_world.json"
     if cache.exists() and (time.time() - cache.stat().st_mtime) / 3600 < ttl_h:
         d = json.loads(cache.read_text())
-        return d["counts"], d["cc"]
+        if "reign" in d:  # caché con el esquema nuevo
+            return d["counts"], d["cc"], d["reign"]
     try:
         req = urllib.request.Request(WORLD_SOURCE, headers={"User-Agent": "Hermes/1.0 (data pipeline)"})
         h = urllib.request.urlopen(req, timeout=25).read().decode("utf-8", "replace")
-        counts, cc = _parse_world(h)
+        counts, cc, reign = _parse_world(h)
         if any(counts[w][g] for w in counts for g in ("m", "w")):
-            cache.write_text(json.dumps({"counts": counts, "cc": cc}, ensure_ascii=False))
-            return counts, cc
+            cache.write_text(json.dumps({"counts": counts, "cc": cc, "reign": reign}, ensure_ascii=False))
+            return counts, cc, reign
     except Exception as e:  # noqa: BLE001
         print(f"[WARN] fencing fetch {WORLD_SOURCE}: {e}")
     if cache.exists():
         d = json.loads(cache.read_text())
-        return d["counts"], d["cc"]
-    return {"foil": {"m": {}, "w": {}}, "epee": {"m": {}, "w": {}}, "sabre": {"m": {}, "w": {}}}, {}
+        return d["counts"], d["cc"], d.get("reign", _EMPTY_REIGN)
+    return ({"foil": {"m": {}, "w": {}}, "epee": {"m": {}, "w": {}}, "sabre": {"m": {}, "w": {}}},
+            {}, _EMPTY_REIGN)
 
 
 # ── Datos curados: ranking de forma + fichas de leyendas (oro olímpico + bio) ──
@@ -341,7 +355,7 @@ def _note(name, oly, wc, bio):
             f"{wc} Mundial{'es' if wc != 1 else ''}. {bio}").strip()
 
 
-def build_event(ev: dict, world, cc_map, limit: int = 9) -> dict:
+def build_event(ev: dict, world, cc_map, reign=None, limit: int = 9) -> dict:
     wc_counts = world.get(ev["wk"], {}).get(ev["g"], {})
     # Índice normalizado para emparejar nombres curados con los de Wikipedia.
     norm_index = {}
@@ -408,8 +422,16 @@ def build_event(ev: dict, world, cc_map, limit: int = 9) -> dict:
                     "olympicGold": oly, "worldGold": wc, "note": note})
         ranking.append(row)
 
+    # Campeón del mundo VIGENTE (más reciente) de esta prueba, del propio fetch.
+    reign_world = None
+    rw = (reign or {}).get(ev["wk"], {}).get(ev["g"]) if reign else None
+    if rw:
+        y, nm, cc = rw
+        reign_world = {"year": y, "name": nm, "country": cc, "logo": flag(cc)}
+
     return {"id": ev["id"], "weapon": ev["weapon"], "gender": ev["gender"],
-            "label": ev["label"], "RANKING": ranking, "LEGENDS": legends, "_maxRaw": max_raw}
+            "label": ev["label"], "RANKING": ranking, "LEGENDS": legends,
+            "reignWorld": reign_world, "_maxRaw": max_raw}
 
 
 def build_road_to_glory(events: list) -> list:
@@ -455,8 +477,8 @@ def build_prospects(max_age: int = 25, top_n: int = 8) -> list:
 
 def main() -> None:
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    world, cc_map = fetch_world()
-    events = [build_event(ev, world, cc_map) for ev in EVENTS_RAW]
+    world, cc_map, reign = fetch_world()
+    events = [build_event(ev, world, cc_map, reign) for ev in EVENTS_RAW]
     road = build_road_to_glory(events)
     for ev in events:
         ev.pop("_maxRaw", None)
