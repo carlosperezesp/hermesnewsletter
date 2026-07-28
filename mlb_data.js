@@ -818,7 +818,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 5
+      "prevRank": 4
     },
     {
       "id": 4717833,
@@ -849,7 +849,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 4
+      "prevRank": 5
     },
     {
       "id": 4684778,
@@ -7423,7 +7423,7 @@ window.MLB_DATA = {
         "gap": 34.6,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "id": 33712,
@@ -7445,7 +7445,7 @@ window.MLB_DATA = {
         "gap": 35.0,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "id": 5080761,
@@ -7619,7 +7619,7 @@ window.MLB_DATA = {
           "primary": "#df4601",
           "secondary": "#000000"
         },
-        "prevRank": 9
+        "prevRank": 8
       },
       {
         "teamCode": "SEA",
@@ -7635,7 +7635,7 @@ window.MLB_DATA = {
           "primary": "#0c2c56",
           "secondary": "#005c5c"
         },
-        "prevRank": 8
+        "prevRank": 9
       },
       {
         "teamCode": "NYM",
@@ -7867,7 +7867,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-28 07:47 UTC",
+  "LAST_UPDATE": "2026-07-28 09:11 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

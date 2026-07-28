@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-28 07:50 UTC
+// Auto-generated 2026-07-28 09:13 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-28 07:50 UTC",
+  "UPDATED": "2026-07-28 09:13 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11719,9 +11719,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mia Ristic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 38.5,
           "l_score": null,
           "match_score": 38.5
@@ -11732,9 +11732,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Laura Samson",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11771,9 +11771,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Yelyzaveta Kotliar",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
