@@ -712,6 +712,9 @@ LEGENDS_RAW = [
 
 W = {"tour": 12, "giro": 9, "vuelta": 8, "monument": 4, "worlds": 4}
 
+# Corredores nacidos en 1985+ pero YA retirados (no cuentan como "en activo").
+RETIRED = {"Chris Froome", "Peter Sagan"}
+
 CURRENT_RIDERS_RAW = [
     # name,                         cc3,   birth, tour,giro,vuelta,monuments,worlds
     ("Tadej Pogacar",              "SLO", 2000,   4,   1,   0,      10,       2),
@@ -750,7 +753,7 @@ def _cycling_player(row: tuple, max_raw: int, prev_rank: int | None = None) -> d
         "primary":     _color(cc3),
         "secondary":   "#FFFFFF",
         "legendScore": round(_cycling_raw_score(row) / max_raw * 100, 1),
-        "active":      bool(birth) and birth >= 1985,
+        "active":      bool(birth) and birth >= 1985 and name not in RETIRED,
         "age":         (datetime.now(timezone.utc).year - birth) if birth else None,
         "stats":       {"tour": tour, "giro": giro, "vuelta": vuelta,
                         "monuments": monuments, "worlds": worlds, "birth": birth},
@@ -977,9 +980,12 @@ def fetch_race_data(race: dict, legends: list[dict]) -> dict:
     last_stage_result = _last_stage_result(race, last_stage, stage_recaps, gc)
 
     # Legend score lookup by normalised name
-    legend_map = {lg["name"].lower(): lg["legendScore"] for lg in legends}
+    # Emparejar por nombre normalizado (sin acentos): la general de Wikipedia trae
+    # "Tadej Pogačar" y la tabla de leyendas "Tadej Pogacar" — sin normalizar, el
+    # líder del Tour salía con leyenda 0.0.
+    legend_map = {_norm_name(lg["name"]): lg["legendScore"] for lg in legends}
     def _legend_score(name: str) -> float:
-        return legend_map.get(name.lower(), 0.0)
+        return legend_map.get(_norm_name(name), 0.0)
 
     for r in gc:
         r["legendScore"] = _legend_score(r["name"])
