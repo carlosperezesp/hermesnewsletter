@@ -192,6 +192,27 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "CLE",
+      "city": "Cleveland Guardians",
+      "shortName": "Cleveland",
+      "commonName": "Guardians",
+      "conf": "AL",
+      "div": "AL Central",
+      "gp": 108,
+      "w": 55,
+      "l": 53,
+      "winPct": 0.509,
+      "rf": 426,
+      "ra": 443,
+      "rd": 0,
+      "score": 41,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cle.png",
+      "colors": {
+        "primary": "#e31937",
+        "secondary": "#002b5c"
+      }
+    },
+    {
       "code": "PIT",
       "city": "Pittsburgh Pirates",
       "shortName": "Pittsburgh",
@@ -252,27 +273,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#c0111f",
         "secondary": "#003278"
-      }
-    },
-    {
-      "code": "CLE",
-      "city": "Cleveland Guardians",
-      "shortName": "Cleveland",
-      "commonName": "Guardians",
-      "conf": "AL",
-      "div": "AL Central",
-      "gp": 107,
-      "w": 54,
-      "l": 53,
-      "winPct": 0.505,
-      "rf": 420,
-      "ra": 438,
-      "rd": 0,
-      "score": 40,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cle.png",
-      "colors": {
-        "primary": "#e31937",
-        "secondary": "#002b5c"
       }
     },
     {
@@ -492,14 +492,14 @@ window.MLB_DATA = {
       "commonName": "Reds",
       "conf": "NL",
       "div": "NL Central",
-      "gp": 104,
+      "gp": 105,
       "w": 49,
-      "l": 55,
-      "winPct": 0.471,
-      "rf": 432,
-      "ra": 498,
+      "l": 56,
+      "winPct": 0.467,
+      "rf": 437,
+      "ra": 504,
       "rd": 0,
-      "score": 38,
+      "score": 37,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cin.png",
       "colors": {
         "primary": "#c6011f",
@@ -2630,36 +2630,6 @@ window.MLB_DATA = {
       "legendScore": 42.4,
       "currentScore": 67,
       "battingScore": 67,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 42360,
-      "name": "Curtis Mead",
-      "first": "Curtis",
-      "last": "Mead",
-      "pos": "3B",
-      "teamCode": "WSH",
-      "age": 25,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42360.png",
-      "colors": {
-        "primary": "#ab0003",
-        "secondary": "#14225a"
-      },
-      "score": 66,
-      "stats": {
-        "type": "batting",
-        "ab": 285,
-        "hr": 17,
-        "rbi": 48,
-        "avg": 0.253,
-        "sb": 6,
-        "ops": 0.851
-      },
-      "legendScore": 39.4,
-      "currentScore": 66,
-      "battingScore": 66,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0
@@ -6745,36 +6715,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 33950,
-      "name": "Colin Rea",
-      "first": "Colin",
-      "last": "Rea",
-      "pos": "SP",
-      "teamCode": "CHC",
-      "age": 36,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33950.png",
-      "colors": {
-        "primary": "#0e3386",
-        "secondary": "#cc3433"
-      },
-      "score": 40,
-      "stats": {
-        "type": "pitching",
-        "g": 21,
-        "w": 7,
-        "era": 4.85,
-        "ip": 105.2,
-        "so": 81,
-        "whip": 1.42
-      },
-      "legendScore": 34.3,
-      "currentScore": 40,
-      "battingScore": null,
-      "pitchingScore": 40,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 33722,
       "name": "Mitch Keller",
       "first": "Mitch",
@@ -7867,7 +7807,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-28 15:04 UTC",
+  "LAST_UPDATE": "2026-07-28 21:32 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

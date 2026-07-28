@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-28 15:54 UTC
+// Auto-generated 2026-07-28 21:34 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-28 15:54 UTC",
+  "UPDATED": "2026-07-28 21:34 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -168,9 +168,9 @@ window.TENNIS_DATA = {
       "prevListRank": 5,
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 82.5
     },
@@ -236,9 +236,9 @@ window.TENNIS_DATA = {
       "prevListRank": 7,
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 79.5
     },
@@ -339,7 +339,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 77.7
@@ -543,7 +543,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 75.7
@@ -644,9 +644,9 @@ window.TENNIS_DATA = {
       "prevListRank": 19,
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 75.0
     },
@@ -1121,7 +1121,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 65.9
@@ -2417,7 +2417,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 57.4
@@ -2962,9 +2962,9 @@ window.TENNIS_DATA = {
       "prevListRank": 87,
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 54.8
     },
@@ -3031,7 +3031,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 54.6
@@ -4750,9 +4750,9 @@ window.TENNIS_DATA = {
       "prevListRank": 139,
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 39.1
     },
@@ -5419,10 +5419,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mubadala DC Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 89.8
     },
@@ -5795,7 +5795,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 76.2
@@ -6168,9 +6168,9 @@ window.TENNIS_DATA = {
       "prevListRank": 30,
       "tournamentStatus": {
         "tournament": "The Memphis Classic",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 68.8
     },
@@ -6203,7 +6203,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 67.6
@@ -6271,7 +6271,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 68.2
@@ -7053,7 +7053,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 60.0
@@ -7155,7 +7155,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "The Memphis Classic",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 59.4
@@ -7393,7 +7393,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "The Memphis Classic",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 58.8
@@ -7564,9 +7564,9 @@ window.TENNIS_DATA = {
       "prevListRank": 71,
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.3
     },
@@ -7700,9 +7700,9 @@ window.TENNIS_DATA = {
       "prevListRank": 75,
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 55.8
     },
@@ -7871,7 +7871,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.4
@@ -9253,7 +9253,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "The Memphis Classic",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 42.3
@@ -9923,7 +9923,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11012,28 +11012,28 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Arthur Fils",
+          "w": "Rafael Jodar",
           "w_logo": "",
-          "l": "Rafael Jodar",
+          "l": "Arthur Fils",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-5) 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 82.6,
-          "l_score": 77.8,
+          "scheduled": false,
+          "w_score": 77.8,
+          "l_score": 82.6,
           "match_score": 82.6
         },
         {
           "round": "R128",
-          "w": "Tommy Paul",
+          "w": "Kamil Majchrzak",
           "w_logo": "",
-          "l": "Kamil Majchrzak",
+          "l": "Tommy Paul",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 7-6 (7-4)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 79.8,
-          "l_score": 57.4,
+          "w_score": 57.4,
+          "l_score": 79.8,
           "match_score": 79.8
         },
         {
@@ -11055,24 +11055,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Martin Damm",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 76.1,
           "l_score": 50.3,
           "match_score": 76.1
         },
         {
           "round": "R128",
-          "w": "Learner Tien",
+          "w": "Adrian Mannarino",
           "w_logo": "",
-          "l": "Adrian Mannarino",
+          "l": "Learner Tien",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 75.0,
-          "l_score": 54.5,
+          "scheduled": false,
+          "w_score": 54.5,
+          "l_score": 75.0,
           "match_score": 75.0
         },
         {
@@ -11090,28 +11090,28 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Brandon Nakashima",
+          "w": "Tomas Martin Etcheverry",
           "w_logo": "",
-          "l": "Tomas Martin Etcheverry",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 67.4,
-          "l_score": 65.0,
-          "match_score": 67.4
-        },
-        {
-          "round": "R128",
-          "w": "Andres Martin",
-          "w_logo": "",
-          "l": "Ugo Humbert",
+          "l": "Brandon Nakashima",
           "l_logo": "",
           "score": "In Progress",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 66.6,
+          "w_score": 65.0,
+          "l_score": 67.4,
+          "match_score": 67.4
+        },
+        {
+          "round": "R128",
+          "w": "Ugo Humbert",
+          "w_logo": "",
+          "l": "Andres Martin",
+          "l_logo": "",
+          "score": "6-2 7-5",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 66.6,
+          "l_score": null,
           "match_score": 66.6
         }
       ]
@@ -11382,19 +11382,6 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Taylah Preston",
-          "w_logo": "",
-          "l": "Haruka Kaji",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 48.5,
-          "l_score": null,
-          "match_score": 48.5
-        },
-        {
-          "round": "R128",
           "w": "Emerson Jones",
           "w_logo": "",
           "l": "Carol Zhao",
@@ -11425,57 +11412,70 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "En-Shuo Liang",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 38.3,
           "l_score": null,
           "match_score": 38.3
         },
         {
           "round": "R128",
-          "w": "Kayla Day",
+          "w": "Mai Hontama",
           "w_logo": "",
-          "l": "Mai Hontama",
+          "l": "Kayla Day",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 37.0,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 37.0,
           "match_score": 37.0
-        },
-        {
-          "round": "R128",
-          "w": "Harriet Dart",
-          "w_logo": "",
-          "l": "Kayla Cross",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 35.0,
-          "l_score": null,
-          "match_score": 35.0
-        },
-        {
-          "round": "R128",
-          "w": "Maddison Inglis",
-          "w_logo": "",
-          "l": "Greet Minnen",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 35.0,
-          "l_score": null,
-          "match_score": 35.0
         },
         {
           "round": "R128",
           "w": "Alexandra Vagramov",
           "w_logo": "",
           "l": "Madison Brengle",
+          "l_logo": "",
+          "score": "In Progress",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Caroline Dolehide",
+          "w_logo": "",
+          "l": "Lu Jia-Jing",
+          "l_logo": "",
+          "score": "In Progress",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Ellie Schoppe",
+          "w_logo": "",
+          "l": "Priscilla Hon",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Kyoka Okamura",
+          "w_logo": "",
+          "l": "Hayu Kinoshita",
           "l_logo": "",
           "score": "por jugar",
           "day": "hoy",
@@ -11510,9 +11510,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Daria Kasatkina",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 76.2,
           "l_score": 57.3,
           "match_score": 76.2
@@ -11523,9 +11523,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Zheng Qinwen",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 6-4 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 67.8,
           "l_score": null,
           "match_score": 67.8
@@ -11549,7 +11549,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Cristina Bucsa",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "5-7 7-6 (7-4) 6-0",
           "day": "hoy",
           "scheduled": false,
           "w_score": 35.0,
@@ -11562,7 +11562,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Julieta Pareja",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-3) 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11582,7 +11582,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ekaterina Alexandrova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-2) 4-6 5-4 ret",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11643,15 +11643,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Cadence Brace",
+          "w": "Zeynep Sonmez",
           "w_logo": "",
-          "l": "Zeynep Sonmez",
+          "l": "Cadence Brace",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 3-6 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 58.3,
+          "w_score": 58.3,
+          "l_score": null,
           "match_score": 58.3
         },
         {
@@ -11819,8 +11819,6 @@ window.TENNIS_DATA = {
       "Aleksandar Vukic",
       "Alex Michelsen",
       "Alex de Minaur",
-      "Andres Martin",
-      "Arthur Fils",
       "Arthur Gea",
       "Ben Shelton",
       "Bernard Tomic",
@@ -11840,10 +11838,7 @@ window.TENNIS_DATA = {
       "Kamil Majchrzak",
       "Karen Khachanov",
       "Kei Nishikori",
-      "Learner Tien",
       "Lorenzo Musetti",
-      "Mackenzie McDonald",
-      "Marcos Giron",
       "Martin Damm",
       "Martin Landaluce",
       "Michael Zheng",
@@ -11857,7 +11852,6 @@ window.TENNIS_DATA = {
       "Taylor Fritz",
       "Terence Atmane",
       "Tomas Martin Etcheverry",
-      "Tommy Paul",
       "Trevor Svajda",
       "Tristan Boyer",
       "Ugo Humbert"
@@ -11865,17 +11859,23 @@ window.TENNIS_DATA = {
     "out": [
       "Aleksandar Kovacevic",
       "Alex Hernandez",
+      "Andres Martin",
+      "Arthur Fils",
       "Darwin Blanch",
       "Frances Tiafoe",
       "Gabriel Diallo",
+      "Learner Tien",
+      "Mackenzie McDonald",
+      "Marcos Giron",
       "Matteo Arnaldi",
       "Shang Juncheng",
       "Tallon Griekspoor",
+      "Tommy Paul",
       "Zachary Svajda",
       "Zizou Bergs"
     ],
-    "aliveCount": 49,
-    "matchesSeen": 33
+    "aliveCount": 43,
+    "matchesSeen": 36
   },
   "WTA_TOURNAMENT": {
     "name": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
@@ -11917,18 +11917,15 @@ window.TENNIS_DATA = {
       "Annabelle Xu",
       "Ariana Arseneault",
       "Ashlyn Krueger",
-      "Cadence Brace",
       "Caijsa Hennemann",
       "Camila Osorio",
       "Carol Zhao",
       "Carole Monnet",
       "Caroline Dolehide",
       "Catherine McNally",
-      "Cristina Bucsa",
-      "Daria Kasatkina",
       "Darja Vidmanova",
-      "Ekaterina Alexandrova",
       "Elena Ruxandra Bertea",
+      "Elina Svitolina",
       "Elisabetta Cocciaretto",
       "Ellie Schoppe",
       "Elvina Kalieva",
@@ -11946,7 +11943,6 @@ window.TENNIS_DATA = {
       "Irene Burillo",
       "Iryna Shymanovich",
       "Janice Tjen",
-      "Julieta Pareja",
       "Kaitlin Quevedo",
       "Katie Volynets",
       "Kayla Cross",
@@ -11990,22 +11986,25 @@ window.TENNIS_DATA = {
       "Teah Chavez",
       "Venus Williams",
       "Wang Xinyu",
-      "Wang Xiyu",
       "Yelyzaveta Kotliar",
       "Yeonwoo Ku",
       "Yuliia Starodubtseva",
-      "Zeynep Sonmez",
-      "Zheng Qinwen"
+      "Zeynep Sonmez"
     ],
     "out": [
       "Alesia Breaz",
+      "Cadence Brace",
       "Chloe Paquet",
       "Clara Tauson",
+      "Cristina Bucsa",
       "Dalila Spiteri",
+      "Daria Kasatkina",
       "Darja Semenistaja",
+      "Ekaterina Alexandrova",
       "Elena Malygina",
       "Irina Fetecau",
       "Julie Struplova",
+      "Julieta Pareja",
       "Katherine Sebov",
       "Katie Boulter",
       "Leyre Romero Gormaz",
@@ -12027,10 +12026,12 @@ window.TENNIS_DATA = {
       "Storm Hunter",
       "Talia Gibson",
       "Viktorija Golubic",
-      "Whitney Osuigwe"
+      "Wang Xiyu",
+      "Whitney Osuigwe",
+      "Zheng Qinwen"
     ],
-    "aliveCount": 91,
-    "matchesSeen": 72
+    "aliveCount": 85,
+    "matchesSeen": 78
   },
   "ATP_SCORE_LOG": {
     "206173": [
