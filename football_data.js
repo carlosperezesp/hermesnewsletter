@@ -1,11 +1,11 @@
-// Auto-generated 2026-07-28 15:06 UTC
+// Auto-generated 2026-07-28 15:53 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-07-28 15:06 UTC",
+  "UPDATED": "2026-07-28 15:53 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-07-28 15:06 UTC"
+    "through": "2026-07-28 15:53 UTC"
   },
   "IMPORTANCE": 9.0,
   "TEAMS": [
@@ -28,7 +28,13 @@ window.FOOTBALL_DATA = {
       "note": "Euro vigente y bloque joven de altísimo rendimiento.",
       "eloPrev": 2109,
       "recentDelta": 123.0,
-      "recentMatches": 8
+      "recentMatches": 8,
+      "nextMatch": {
+        "date": "2026-09-26",
+        "opponent": "Inglaterra",
+        "opponentCode": "ENG",
+        "type": "UEFA Nations League"
+      }
     },
     {
       "id": "argentina",
@@ -70,7 +76,13 @@ window.FOOTBALL_DATA = {
       "note": "Finalista de Euro; rating alto por consistencia ante élite UEFA.",
       "eloPrev": 2017,
       "recentDelta": 86.7,
-      "recentMatches": 8
+      "recentMatches": 8,
+      "nextMatch": {
+        "date": "2026-09-26",
+        "opponent": "España",
+        "opponentCode": "ESP",
+        "type": "UEFA Nations League"
+      }
     },
     {
       "id": "france",
@@ -91,7 +103,13 @@ window.FOOTBALL_DATA = {
       "note": "Finalista mundial reciente; profundidad ofensiva y defensiva.",
       "eloPrev": 2029,
       "recentDelta": 13.2,
-      "recentMatches": 8
+      "recentMatches": 8,
+      "nextMatch": {
+        "date": "2026-09-25",
+        "opponent": "Türkiye",
+        "opponentCode": "TUR",
+        "type": "UEFA Nations League"
+      }
     },
     {
       "id": "netherlands",
@@ -112,7 +130,13 @@ window.FOOTBALL_DATA = {
       "note": "Bloque estable con muy buen diferencial ante rivales fuertes.",
       "eloPrev": 1976,
       "recentDelta": 23.0,
-      "recentMatches": 4
+      "recentMatches": 4,
+      "nextMatch": {
+        "date": "2026-09-24",
+        "opponent": "Alemania",
+        "opponentCode": "GER",
+        "type": "UEFA Nations League"
+      }
     },
     {
       "id": "portugal",
@@ -133,7 +157,13 @@ window.FOOTBALL_DATA = {
       "note": "Plantilla top y fase clasificatoria fuerte.",
       "eloPrev": 1997,
       "recentDelta": -11.0,
-      "recentMatches": 5
+      "recentMatches": 5,
+      "nextMatch": {
+        "date": "2026-09-24",
+        "opponent": "Wales",
+        "opponentCode": "WAL",
+        "type": "UEFA Nations League"
+      }
     },
     {
       "id": "brazil",
@@ -180,7 +210,13 @@ window.FOOTBALL_DATA = {
       "continentalTitles": 2,
       "note": "Euro 2020 todavía pesa; ciclo actual busca volver a pico mundial.",
       "recentDelta": 0.0,
-      "recentMatches": 0
+      "recentMatches": 0,
+      "nextMatch": {
+        "date": "2026-09-25",
+        "opponent": "Bélgica",
+        "opponentCode": "BEL",
+        "type": "UEFA Nations League"
+      }
     },
     {
       "id": "germany",
@@ -201,7 +237,13 @@ window.FOOTBALL_DATA = {
       "note": "Rebote competitivo tras la Euro como anfitrión.",
       "eloPrev": 1958,
       "recentDelta": -35.2,
-      "recentMatches": 4
+      "recentMatches": 4,
+      "nextMatch": {
+        "date": "2026-09-24",
+        "opponent": "Países Bajos",
+        "opponentCode": "NED",
+        "type": "UEFA Nations League"
+      }
     },
     {
       "id": "uruguay",
@@ -1776,7 +1818,114 @@ window.FOOTBALL_DATA = {
         }
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "id": "401861041",
+        "date": "2026-09-24",
+        "league": "UEFA Nations League",
+        "slug": "uefa.nations",
+        "featured": [
+          "NED"
+        ],
+        "home": {
+          "code": "NED",
+          "name": "Países Bajos",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+          "elo": 1999
+        },
+        "away": {
+          "code": "GER",
+          "name": "Alemania",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+          "elo": 1923
+        }
+      },
+      {
+        "id": "401861053",
+        "date": "2026-09-25",
+        "league": "UEFA Nations League",
+        "slug": "uefa.nations",
+        "featured": [
+          "FRA"
+        ],
+        "home": {
+          "code": "TUR",
+          "name": "Türkiye",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
+          "elo": 1780
+        },
+        "away": {
+          "code": "FRA",
+          "name": "Francia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+          "elo": 2042
+        }
+      },
+      {
+        "id": "401861066",
+        "date": "2026-09-26",
+        "league": "UEFA Nations League",
+        "slug": "uefa.nations",
+        "featured": [
+          "ESP",
+          "ENG"
+        ],
+        "home": {
+          "code": "ENG",
+          "name": "Inglaterra",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "elo": 2104
+        },
+        "away": {
+          "code": "ESP",
+          "name": "España",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+          "elo": 2232
+        }
+      },
+      {
+        "id": "401861068",
+        "date": "2026-09-27",
+        "league": "UEFA Nations League",
+        "slug": "uefa.nations",
+        "featured": [
+          "NED"
+        ],
+        "home": {
+          "code": "SRB",
+          "name": "Serbia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sba.png",
+          "elo": null
+        },
+        "away": {
+          "code": "NED",
+          "name": "Países Bajos",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+          "elo": 1999
+        }
+      },
+      {
+        "id": "401861081",
+        "date": "2026-09-28",
+        "league": "UEFA Nations League",
+        "slug": "uefa.nations",
+        "featured": [
+          "FRA"
+        ],
+        "home": {
+          "code": "BEL",
+          "name": "Bélgica",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+          "elo": 1925
+        },
+        "away": {
+          "code": "FRA",
+          "name": "Francia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+          "elo": 2042
+        }
+      }
+    ]
   },
   "WORLD_CUP_2026": {
     "edition": "26ª edición",

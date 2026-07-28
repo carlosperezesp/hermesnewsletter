@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-28 15:07 UTC
+// Auto-generated 2026-07-28 15:54 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-28 15:07 UTC",
+  "UPDATED": "2026-07-28 15:54 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11029,9 +11029,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Kamil Majchrzak",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 79.8,
           "l_score": 57.4,
           "match_score": 79.8
@@ -11103,15 +11103,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Ugo Humbert",
+          "w": "Andres Martin",
           "w_logo": "",
-          "l": "Andres Martin",
+          "l": "Ugo Humbert",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 66.6,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 66.6,
           "match_score": 66.6
         }
       ]
@@ -11545,15 +11545,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Cristina Bucsa",
+          "w": "Polina Kudermetova",
           "w_logo": "",
-          "l": "Polina Kudermetova",
+          "l": "Cristina Bucsa",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 56.1,
-          "l_score": 35.0,
+          "scheduled": false,
+          "w_score": 35.0,
+          "l_score": 56.1,
           "match_score": 56.1
         },
         {
@@ -11562,9 +11562,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Julieta Pareja",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11578,15 +11578,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Ekaterina Alexandrova",
+          "w": "Kristina Liutova",
           "w_logo": "",
-          "l": "Kristina Liutova",
+          "l": "Ekaterina Alexandrova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 68.8,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 68.8,
           "match_score": 68.8
         },
         {
@@ -11643,15 +11643,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Zeynep Sonmez",
+          "w": "Cadence Brace",
           "w_logo": "",
-          "l": "Cadence Brace",
+          "l": "Zeynep Sonmez",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 58.3,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 58.3,
           "match_score": 58.3
         },
         {
@@ -11758,7 +11758,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Miriam Bulgaru",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11974,7 +11974,6 @@ window.TENNIS_DATA = {
       "McCartney Kessler",
       "Mia Ristic",
       "Miho Kuramochi",
-      "Miriam Bulgaru",
       "Moyuka Uchijima",
       "Nao Hibino",
       "Naomi Osaka",
@@ -12016,6 +12015,7 @@ window.TENNIS_DATA = {
       "Magda Linette",
       "Maia Ilinca Burcescu",
       "Mia Pohankova",
+      "Miriam Bulgaru",
       "Miriana Tona",
       "Rachel Gailis",
       "Rebecca Sramkova",
@@ -12029,8 +12029,8 @@ window.TENNIS_DATA = {
       "Viktorija Golubic",
       "Whitney Osuigwe"
     ],
-    "aliveCount": 92,
-    "matchesSeen": 71
+    "aliveCount": 91,
+    "matchesSeen": 72
   },
   "ATP_SCORE_LOG": {
     "206173": [
