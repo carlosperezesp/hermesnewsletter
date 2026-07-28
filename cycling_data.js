@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-28 13:33 UTC
+// Auto-generated 2026-07-28 15:01 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-07-28 13:33 UTC",
+  "UPDATED": "2026-07-28 15:01 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -54,14 +54,14 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 64.2,
       "active": true,
-      "age": 26,
+      "age": 28,
       "stats": {
         "tour": 5,
         "giro": 1,
         "vuelta": 0,
         "monuments": 13,
         "worlds": 2,
-        "birth": 2000
+        "birth": 1998
       },
       "prevRank": 3
     },
@@ -434,14 +434,14 @@ window.CYCLING_DATA = {
       "secondary": "#FFFFFF",
       "legendScore": 64.2,
       "active": true,
-      "age": 26,
+      "age": 28,
       "stats": {
         "tour": 5,
         "giro": 1,
         "vuelta": 0,
         "monuments": 13,
         "worlds": 2,
-        "birth": 2000
+        "birth": 1998
       },
       "prevRank": 1,
       "insight": "A una gran victoria de entrar en zona top 10"

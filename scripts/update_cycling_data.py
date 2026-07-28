@@ -695,7 +695,7 @@ LEGENDS_RAW = [
     ("Fausto Coppi",          "ITA", 1919,   2,   5,   0,      7,       2),
     ("Chris Froome",          "GBR", 1985,   4,   1,   2,      0,       0),
     ("Alberto Contador",      "ESP", 1982,   2,   2,   3,      0,       0),
-    ("Tadej Pogacar",         "SLO", 2000,   4,   1,   0,      10,       2),
+    ("Tadej Pogacar",         "SLO", 1998,   4,   1,   0,      10,       2),
     ("Jonas Vingegaard",      "DEN", 1996,   2,   0,   1,      0,       0),
     ("Primoz Roglic",         "SLO", 1989,   0,   1,   4,      1,       0),
     ("Greg LeMond",           "USA", 1961,   3,   0,   0,      1,       2),
@@ -717,7 +717,7 @@ RETIRED = {"Chris Froome", "Peter Sagan"}
 
 CURRENT_RIDERS_RAW = [
     # name,                         cc3,   birth, tour,giro,vuelta,monuments,worlds
-    ("Tadej Pogacar",              "SLO", 2000,   4,   1,   0,      10,       2),
+    ("Tadej Pogacar",              "SLO", 1998,   4,   1,   0,      10,       2),
     ("Primoz Roglic",              "SLO", 1989,   0,   1,   4,      1,       0),
     ("Mathieu van der Poel",       "NED", 1995,   0,   0,   0,      8,       1),
     ("Remco Evenepoel",            "BEL", 2000,   0,   0,   1,      3,       2),
