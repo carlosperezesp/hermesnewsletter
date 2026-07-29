@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-29 15:00 UTC
+// Auto-generated 2026-07-29 15:34 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-29 15:00 UTC",
+  "UPDATED": "2026-07-29 15:34 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11784,9 +11784,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Leylah Fernandez",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 67.8,
           "l_score": 67.0,
           "match_score": 67.8
@@ -11797,9 +11797,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Wang Xinyu",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 59.8,
           "l_score": null,
           "match_score": 59.8
