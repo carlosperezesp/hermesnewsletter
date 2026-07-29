@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-29 21:14 UTC
+// Auto-generated 2026-07-29 22:19 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-29 21:14 UTC",
+  "UPDATED": "2026-07-29 22:19 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -6101,7 +6101,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 70.9
@@ -11673,9 +11673,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Hong Yi Cody Wong",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 39.1,
           "l_score": null,
           "match_score": 39.1
@@ -11771,7 +11771,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Emma Navarro",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 4-6 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 61.3,
