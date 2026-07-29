@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-28 22:30 UTC",
+  "UPDATED": "2026-07-29 08:02 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -135,6 +135,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-20"
     },
     {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:BA Carse",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "BA Carse entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-07-29"
+    },
+    {
       "id": "rank:afl:LADDER:in:St Kilda",
       "sport": "afl",
       "detail": "AFL",
@@ -241,6 +250,15 @@ window.GLORY_DATA = {
       "text": "Chris Sale entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-07-18"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:out:AAP Atkinson",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "AAP Atkinson cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-07-29"
     },
     {
       "id": "rank:football:ROAD_TO_GLORY.dynasties:era:out:Brazil (1958-1970)",
@@ -414,9 +432,9 @@ window.GLORY_DATA = {
       "Bryce Harper",
       "Juan Soto",
       "Yordan Alvarez",
-      "CJ Abrams",
-      "Kyle Schwarber",
       "Jacob Misiorowski",
+      "Kyle Schwarber",
+      "CJ Abrams",
       "Chris Sale"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
@@ -692,8 +710,8 @@ window.GLORY_DATA = {
       "Taijul Islam",
       "JNT Seales",
       "Mehedi Hasan Miraz",
-      "Nauman Ali",
-      "AAP Atkinson"
+      "BA Carse",
+      "Nauman Ali"
     ],
     "athletics:allTime:100m_m": [
       "Usain Bolt",

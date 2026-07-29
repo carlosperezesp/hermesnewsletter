@@ -1626,7 +1626,7 @@ window.NHL_DATA = {
       "name": "Clayton Keller",
       "pos": "RW",
       "teamCode": "UTA",
-      "age": 27,
+      "age": 28,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -13570,7 +13570,7 @@ window.NHL_DATA = {
       "name": "Oliver Kapanen",
       "pos": "C",
       "teamCode": "MTL",
-      "age": 22,
+      "age": 23,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -13596,7 +13596,7 @@ window.NHL_DATA = {
         51,
         56
       ],
-      "legendScore": 49.7
+      "legendScore": 47.7
     },
     {
       "id": 8482671,
@@ -16830,7 +16830,7 @@ window.NHL_DATA = {
       "name": "Neal Pionk",
       "pos": "D",
       "teamCode": "WPG",
-      "age": 30,
+      "age": 31,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -34268,7 +34268,7 @@ window.NHL_DATA = {
       "name": "Liam O'Brien",
       "pos": "C",
       "teamCode": "UTA",
-      "age": 31,
+      "age": 32,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47977,10 +47977,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-28 22:28 UTC",
+  "LAST_UPDATE": "2026-07-29 07:59 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-28T22:28:15Z"
+    "standingsDateTimeUtc": "2026-07-29T07:59:17Z"
   }
 };

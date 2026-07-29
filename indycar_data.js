@@ -1,5 +1,5 @@
 window.INDYCAR_DATA = {
-  "UPDATED": "2026-07-28 22:29 UTC",
+  "UPDATED": "2026-07-29 08:00 UTC",
   "SEASON": 2026,
   "ROUND": 12,
   "TOTAL_ROUNDS": 19,
@@ -300,7 +300,7 @@ window.INDYCAR_DATA = {
       "points": 225.0,
       "score": 21.9,
       "legendScore": 0.0,
-      "age": 25,
+      "age": 26,
       "prevRank": 13,
       "stats": {
         "pts": 225.0
@@ -769,24 +769,6 @@ window.INDYCAR_DATA = {
   ],
   "PROSPECTS": [
     {
-      "id": "5753",
-      "name": "Marcus Armstrong",
-      "country": "NZL",
-      "team": "Meyer Shank Racing",
-      "teamCode": "MEYER",
-      "logo": "https://flagcdn.com/24x18/nz.png",
-      "primary": "#EE2737",
-      "secondary": "#111111",
-      "colors": {
-        "primary": "#EE2737",
-        "secondary": "#111111"
-      },
-      "score": 21.9,
-      "position": 13,
-      "age": 25,
-      "note": "Irrumpe a los 25 (P13)"
-    },
-    {
       "id": "5798",
       "name": "Kyffin Simpson",
       "country": "CAY",
@@ -875,6 +857,24 @@ window.INDYCAR_DATA = {
       "position": 25,
       "age": 24,
       "note": "Irrumpe a los 24 (P25)"
+    },
+    {
+      "id": "5836",
+      "name": "Jacob Abel",
+      "country": "USA",
+      "team": "IndyCar",
+      "teamCode": "INDYCAR",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#B22234",
+        "secondary": "#FFFFFF"
+      },
+      "score": 0.6,
+      "position": 29,
+      "age": 25,
+      "note": "Irrumpe a los 25 (P29)"
     }
   ],
   "LEGEND_CHASE": [
