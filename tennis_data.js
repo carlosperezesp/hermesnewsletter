@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-29 09:18 UTC
+// Auto-generated 2026-07-29 15:00 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-29 09:18 UTC",
+  "UPDATED": "2026-07-29 15:00 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1187,10 +1187,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Mifel Tennis Open by Telcel Oppo",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 65.9
     },
@@ -3441,7 +3441,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mifel Tennis Open by Telcel Oppo",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 53.0
@@ -4022,9 +4022,9 @@ window.TENNIS_DATA = {
       "prevListRank": 118,
       "tournamentStatus": {
         "tournament": "Mifel Tennis Open by Telcel Oppo",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 48.4
     },
@@ -8731,7 +8731,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Axeria Open 2026 powered by Intaro Sport",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 46.7
@@ -11103,15 +11103,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Adam Walton",
+          "w": "Dalibor Svrcina",
           "w_logo": "",
-          "l": "Dalibor Svrcina",
+          "l": "Adam Walton",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (2-7) 7-6 (7-2) 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 48.7,
-          "l_score": 53.0,
+          "w_score": 53.0,
+          "l_score": 48.7,
           "match_score": 53.0
         },
         {
@@ -11898,16 +11898,29 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Irene Burillo",
+          "w": "Kaitlin Quevedo",
           "w_logo": "",
-          "l": "Kaitlin Quevedo",
+          "l": "Irene Burillo",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 6-1",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 46.7,
+          "l_score": null,
+          "match_score": 46.7
+        },
+        {
+          "round": "R64",
+          "w": "Alice Rame",
+          "w_logo": "",
+          "l": "Margaux Rouvroy",
+          "l_logo": "",
+          "score": "6-2 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
-          "l_score": 46.7,
-          "match_score": 46.7
+          "l_score": null,
+          "match_score": 0.0
         },
         {
           "round": "R64",
@@ -11915,9 +11928,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sara Sorribes Tormo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11928,20 +11941,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elena Ruxandra Bertea",
           "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R64",
-          "w": "Margaux Rouvroy",
-          "w_logo": "",
-          "l": "Alice Rame",
-          "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-1) 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11969,7 +11969,6 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
-      "Adam Walton",
       "Adrian Mannarino",
       "Alejandro Tabilo",
       "Aleksandar Vukic",
@@ -11994,6 +11993,7 @@ window.TENNIS_DATA = {
       "Karen Khachanov",
       "Kei Nishikori",
       "Lorenzo Musetti",
+      "Luciano Darderi",
       "Michael Zheng",
       "Rafael Jodar",
       "Rodrigo Pacheco Mendez",
@@ -12004,6 +12004,7 @@ window.TENNIS_DATA = {
       "Ugo Humbert"
     ],
     "out": [
+      "Adam Walton",
       "Aidan Mayo",
       "Aleksandar Kovacevic",
       "Alex Hernandez",
@@ -12032,7 +12033,7 @@ window.TENNIS_DATA = {
       "Zizou Bergs"
     ],
     "aliveCount": 33,
-    "matchesSeen": 42
+    "matchesSeen": 43
   },
   "WTA_TOURNAMENT": {
     "name": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
@@ -12190,7 +12191,7 @@ window.TENNIS_DATA = {
       "Zheng Qinwen"
     ],
     "aliveCount": 67,
-    "matchesSeen": 90
+    "matchesSeen": 91
   },
   "ATP_SCORE_LOG": {
     "206173": [

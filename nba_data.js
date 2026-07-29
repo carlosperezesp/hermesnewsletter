@@ -5396,7 +5396,7 @@ window.NBA_DATA = {
       "last": "Waters III",
       "pos": "F",
       "teamCode": "SA",
-      "age": 28,
+      "age": 29,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4066317.png",
       "colors": {
         "primary": "#c4ced4",
@@ -5412,7 +5412,7 @@ window.NBA_DATA = {
         "blk": 0.0,
         "min": 3.8
       },
-      "legendScore": 31.8
+      "legendScore": 32.8
     },
     {
       "id": 4397251,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-29 09:16 UTC",
+  "LAST_UPDATE": "2026-07-29 14:57 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
