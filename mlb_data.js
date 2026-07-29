@@ -72,14 +72,14 @@ window.MLB_DATA = {
       "commonName": "Braves",
       "conf": "NL",
       "div": "NL East",
-      "gp": 106,
+      "gp": 107,
       "w": 62,
-      "l": 44,
-      "winPct": 0.585,
-      "rf": 523,
-      "ra": 427,
+      "l": 45,
+      "winPct": 0.579,
+      "rf": 525,
+      "ra": 430,
       "rd": 0,
-      "score": 47,
+      "score": 46,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/atl.png",
       "colors": {
         "primary": "#ce1141",
@@ -129,45 +129,45 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "PHI",
-      "city": "Philadelphia Phillies",
-      "shortName": "Philadelphia",
-      "commonName": "Phillies",
-      "conf": "NL",
-      "div": "NL East",
-      "gp": 108,
-      "w": 57,
-      "l": 51,
-      "winPct": 0.528,
-      "rf": 467,
-      "ra": 480,
-      "rd": 0,
-      "score": 42,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/phi.png",
-      "colors": {
-        "primary": "#e81828",
-        "secondary": "#002d72"
-      }
-    },
-    {
       "code": "ARI",
       "city": "Arizona Diamondbacks",
       "shortName": "Arizona",
       "commonName": "Diamondbacks",
       "conf": "NL",
       "div": "NL West",
-      "gp": 108,
-      "w": 56,
+      "gp": 109,
+      "w": 57,
       "l": 52,
-      "winPct": 0.519,
-      "rf": 489,
+      "winPct": 0.523,
+      "rf": 492,
       "ra": 492,
       "rd": 0,
-      "score": 41,
+      "score": 42,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ari.png",
       "colors": {
         "primary": "#a71930",
         "secondary": "#e3d4ad"
+      }
+    },
+    {
+      "code": "PHI",
+      "city": "Philadelphia Phillies",
+      "shortName": "Philadelphia",
+      "commonName": "Phillies",
+      "conf": "NL",
+      "div": "NL East",
+      "gp": 109,
+      "w": 57,
+      "l": 52,
+      "winPct": 0.523,
+      "rf": 473,
+      "ra": 488,
+      "rd": 0,
+      "score": 42,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/phi.png",
+      "colors": {
+        "primary": "#e81828",
+        "secondary": "#002d72"
       }
     },
     {
@@ -255,45 +255,66 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "PIT",
-      "city": "Pittsburgh Pirates",
-      "shortName": "Pittsburgh",
-      "commonName": "Pirates",
-      "conf": "NL",
-      "div": "NL Central",
-      "gp": 108,
-      "w": 55,
-      "l": 53,
-      "winPct": 0.509,
-      "rf": 563,
-      "ra": 523,
-      "rd": 0,
-      "score": 41,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/pit.png",
-      "colors": {
-        "primary": "#fdb827",
-        "secondary": "#27251f"
-      }
-    },
-    {
       "code": "WSH",
       "city": "Washington Nationals",
       "shortName": "Washington",
       "commonName": "Nationals",
       "conf": "NL",
       "div": "NL East",
-      "gp": 108,
+      "gp": 109,
       "w": 55,
-      "l": 53,
-      "winPct": 0.509,
-      "rf": 594,
-      "ra": 563,
+      "l": 54,
+      "winPct": 0.505,
+      "rf": 596,
+      "ra": 568,
       "rd": 0,
-      "score": 41,
+      "score": 40,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png",
       "colors": {
         "primary": "#ab0003",
         "secondary": "#14225a"
+      }
+    },
+    {
+      "code": "MIA",
+      "city": "Miami Marlins",
+      "shortName": "Miami",
+      "commonName": "Marlins",
+      "conf": "NL",
+      "div": "NL East",
+      "gp": 109,
+      "w": 55,
+      "l": 54,
+      "winPct": 0.505,
+      "rf": 481,
+      "ra": 475,
+      "rd": 0,
+      "score": 40,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mia.png",
+      "colors": {
+        "primary": "#00a3e0",
+        "secondary": "#ef3340"
+      }
+    },
+    {
+      "code": "PIT",
+      "city": "Pittsburgh Pirates",
+      "shortName": "Pittsburgh",
+      "commonName": "Pirates",
+      "conf": "NL",
+      "div": "NL Central",
+      "gp": 109,
+      "w": 55,
+      "l": 54,
+      "winPct": 0.505,
+      "rf": 563,
+      "ra": 526,
+      "rd": 0,
+      "score": 40,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/pit.png",
+      "colors": {
+        "primary": "#fdb827",
+        "secondary": "#27251f"
       }
     },
     {
@@ -360,27 +381,6 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "MIA",
-      "city": "Miami Marlins",
-      "shortName": "Miami",
-      "commonName": "Marlins",
-      "conf": "NL",
-      "div": "NL East",
-      "gp": 108,
-      "w": 54,
-      "l": 54,
-      "winPct": 0.5,
-      "rf": 473,
-      "ra": 469,
-      "rd": 0,
-      "score": 40,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mia.png",
-      "colors": {
-        "primary": "#00a3e0",
-        "secondary": "#ef3340"
-      }
-    },
-    {
       "code": "SEA",
       "city": "Seattle Mariners",
       "shortName": "Seattle",
@@ -399,6 +399,27 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#0c2c56",
         "secondary": "#005c5c"
+      }
+    },
+    {
+      "code": "BAL",
+      "city": "Baltimore Orioles",
+      "shortName": "Baltimore",
+      "commonName": "Orioles",
+      "conf": "AL",
+      "div": "AL East",
+      "gp": 109,
+      "w": 53,
+      "l": 56,
+      "winPct": 0.486,
+      "rf": 501,
+      "ra": 525,
+      "rd": 0,
+      "score": 39,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bal.png",
+      "colors": {
+        "primary": "#df4601",
+        "secondary": "#000000"
       }
     },
     {
@@ -423,45 +444,45 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "BAL",
-      "city": "Baltimore Orioles",
-      "shortName": "Baltimore",
-      "commonName": "Orioles",
-      "conf": "AL",
-      "div": "AL East",
-      "gp": 108,
-      "w": 52,
-      "l": 56,
-      "winPct": 0.481,
-      "rf": 491,
-      "ra": 516,
-      "rd": 0,
-      "score": 39,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bal.png",
-      "colors": {
-        "primary": "#df4601",
-        "secondary": "#000000"
-      }
-    },
-    {
       "code": "DET",
       "city": "Detroit Tigers",
       "shortName": "Detroit",
       "commonName": "Tigers",
       "conf": "AL",
       "div": "AL Central",
-      "gp": 108,
+      "gp": 109,
       "w": 51,
-      "l": 57,
-      "winPct": 0.472,
-      "rf": 464,
-      "ra": 425,
+      "l": 58,
+      "winPct": 0.468,
+      "rf": 473,
+      "ra": 435,
       "rd": 0,
-      "score": 38,
+      "score": 37,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png",
       "colors": {
         "primary": "#0c2340",
         "secondary": "#fa4616"
+      }
+    },
+    {
+      "code": "TOR",
+      "city": "Toronto Blue Jays",
+      "shortName": "Toronto",
+      "commonName": "Blue Jays",
+      "conf": "AL",
+      "div": "AL East",
+      "gp": 109,
+      "w": 50,
+      "l": 59,
+      "winPct": 0.459,
+      "rf": 430,
+      "ra": 490,
+      "rd": 0,
+      "score": 37,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
+      "colors": {
+        "primary": "#134a8e",
+        "secondary": "#e8291c"
       }
     },
     {
@@ -486,24 +507,24 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "TOR",
-      "city": "Toronto Blue Jays",
-      "shortName": "Toronto",
-      "commonName": "Blue Jays",
-      "conf": "AL",
-      "div": "AL East",
+      "code": "NYM",
+      "city": "New York Mets",
+      "shortName": "New York",
+      "commonName": "Mets",
+      "conf": "NL",
+      "div": "NL East",
       "gp": 108,
-      "w": 49,
-      "l": 59,
-      "winPct": 0.454,
-      "rf": 425,
-      "ra": 488,
+      "w": 46,
+      "l": 62,
+      "winPct": 0.426,
+      "rf": 449,
+      "ra": 499,
       "rd": 0,
-      "score": 36,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
+      "score": 34,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nym.png",
       "colors": {
-        "primary": "#134a8e",
-        "secondary": "#e8291c"
+        "primary": "#002d72",
+        "secondary": "#ff5910"
       }
     },
     {
@@ -546,27 +567,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#004687",
         "secondary": "#c09a5b"
-      }
-    },
-    {
-      "code": "NYM",
-      "city": "New York Mets",
-      "shortName": "New York",
-      "commonName": "Mets",
-      "conf": "NL",
-      "div": "NL East",
-      "gp": 107,
-      "w": 45,
-      "l": 62,
-      "winPct": 0.421,
-      "rf": 446,
-      "ra": 497,
-      "rd": 0,
-      "score": 34,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nym.png",
-      "colors": {
-        "primary": "#002d72",
-        "secondary": "#ff5910"
       }
     },
     {
@@ -7500,9 +7500,9 @@ window.MLB_DATA = {
         "city": "Atlanta Braves",
         "era": "2019–present",
         "rings": 1,
-        "dynastyScore": 48.2,
+        "dynastyScore": 47.6,
         "threshold": 89.5,
-        "gap": 41.3,
+        "gap": 41.9,
         "note": "2021 champions · Acuña/Olson core · NL East powerhouse",
         "needs": "2–3 more titles + another dominant era needed",
         "colors": {
@@ -7837,7 +7837,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-29 15:32 UTC",
+  "LAST_UPDATE": "2026-07-29 21:12 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
