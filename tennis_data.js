@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-29 08:02 UTC
+// Auto-generated 2026-07-29 09:18 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-29 08:02 UTC",
+  "UPDATED": "2026-07-29 09:18 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -2280,9 +2280,9 @@ window.TENNIS_DATA = {
       "prevListRank": 67,
       "tournamentStatus": {
         "tournament": "Mifel Tennis Open by Telcel Oppo",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.8
     },
@@ -2929,7 +2929,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mifel Tennis Open by Telcel Oppo",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.0
@@ -3613,7 +3613,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mifel Tennis Open by Telcel Oppo",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 51.7
@@ -11064,15 +11064,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Martin Landaluce",
+          "w": "Michael Zheng",
           "w_logo": "",
-          "l": "Michael Zheng",
+          "l": "Martin Landaluce",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 57.8,
-          "l_score": 51.7,
+          "w_score": 51.7,
+          "l_score": 57.8,
           "match_score": 57.8
         },
         {
@@ -11721,11 +11721,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Annabelle Xu",
+          "w": "Ariana Arseneault",
           "w_logo": "",
-          "l": "Ariana Arseneault",
+          "l": "Annabelle Xu",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 7-6 (7-3)",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11898,15 +11898,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Kaitlin Quevedo",
+          "w": "Irene Burillo",
           "w_logo": "",
-          "l": "Irene Burillo",
+          "l": "Kaitlin Quevedo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 46.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 46.7,
           "match_score": 46.7
         },
         {
@@ -11941,9 +11941,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alice Rame",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11994,7 +11994,6 @@ window.TENNIS_DATA = {
       "Karen Khachanov",
       "Kei Nishikori",
       "Lorenzo Musetti",
-      "Martin Landaluce",
       "Michael Zheng",
       "Rafael Jodar",
       "Rodrigo Pacheco Mendez",
@@ -12018,6 +12017,7 @@ window.TENNIS_DATA = {
       "Mackenzie McDonald",
       "Marcos Giron",
       "Martin Damm",
+      "Martin Landaluce",
       "Matteo Arnaldi",
       "Moise Kouame",
       "Rinky Hijikata",
@@ -12031,8 +12031,8 @@ window.TENNIS_DATA = {
       "Zachary Svajda",
       "Zizou Bergs"
     ],
-    "aliveCount": 34,
-    "matchesSeen": 41
+    "aliveCount": 33,
+    "matchesSeen": 42
   },
   "WTA_TOURNAMENT": {
     "name": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
@@ -12069,7 +12069,6 @@ window.TENNIS_DATA = {
       "Anastasia Zakharova",
       "Anastasiia Sobolieva",
       "Anna Kalinskaya",
-      "Annabelle Xu",
       "Ariana Arseneault",
       "Ashlyn Krueger",
       "Caijsa Hennemann",
@@ -12135,6 +12134,7 @@ window.TENNIS_DATA = {
       "Alesia Breaz",
       "Alexandra Vagramov",
       "Ann Li",
+      "Annabelle Xu",
       "Cadence Brace",
       "Carol Zhao",
       "Caroline Dolehide",
@@ -12189,7 +12189,7 @@ window.TENNIS_DATA = {
       "Yuliia Starodubtseva",
       "Zheng Qinwen"
     ],
-    "aliveCount": 68,
+    "aliveCount": 67,
     "matchesSeen": 90
   },
   "ATP_SCORE_LOG": {
