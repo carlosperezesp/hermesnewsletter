@@ -22463,9 +22463,9 @@ window.NHL_DATA = {
       "name": "Spencer Stastney",
       "pos": "D",
       "teamCode": "EDM",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 26,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#041e42",
         "secondary": "#ff4c00"
@@ -47977,10 +47977,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-30 15:35 UTC",
+  "LAST_UPDATE": "2026-07-30 21:32 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-30T15:34:00Z"
+    "standingsDateTimeUtc": "2026-07-30T21:31:46Z"
   }
 };
