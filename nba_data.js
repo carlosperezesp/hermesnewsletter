@@ -5796,7 +5796,7 @@ window.NBA_DATA = {
       "last": "Walker",
       "pos": "F",
       "teamCode": "PHI",
-      "age": 23,
+      "age": 24,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4432446.png",
       "colors": {
         "primary": "#006bb6",
@@ -5812,7 +5812,7 @@ window.NBA_DATA = {
         "blk": 0.0,
         "min": 4.8
       },
-      "legendScore": 25.7
+      "legendScore": 26.7
     },
     {
       "id": 5107897,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-30 09:08 UTC",
+  "LAST_UPDATE": "2026-07-30 14:54 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

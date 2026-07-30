@@ -1,9 +1,9 @@
-// Auto-generated 2026-07-30 09:08 UTC
+// Auto-generated 2026-07-30 14:54 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-30 09:08 UTC",
+  "UPDATED": "2026-07-30 14:54 UTC",
   "SEASON": "2026",
-  "ROUND": 20,
-  "IMPORTANCE": 8.3,
+  "ROUND": 21,
+  "IMPORTANCE": 8.4,
   "LEGEND_THRESHOLD": 70.5,
   "LADDER": [
     {
@@ -56,6 +56,18 @@ window.AFL_DATA = {
     },
     {
       "rank": 5,
+      "name": "Geelong",
+      "wins": 12,
+      "losses": 8,
+      "draws": 0,
+      "pts": 48,
+      "percentage": 117.2,
+      "primary": "#002A54",
+      "secondary": "#FFFFFF",
+      "prevRank": 9
+    },
+    {
+      "rank": 6,
       "name": "Adelaide",
       "wins": 12,
       "losses": 7,
@@ -67,7 +79,7 @@ window.AFL_DATA = {
       "prevRank": 5
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Melbourne",
       "wins": 12,
       "losses": 7,
@@ -79,7 +91,7 @@ window.AFL_DATA = {
       "prevRank": 6
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Western Bulldogs",
       "wins": 12,
       "losses": 7,
@@ -91,26 +103,14 @@ window.AFL_DATA = {
       "prevRank": 7
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Collingwood",
       "wins": 11,
-      "losses": 7,
+      "losses": 8,
       "draws": 1,
       "pts": 46,
-      "percentage": 107.6,
+      "percentage": 105.6,
       "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "prevRank": 8
-    },
-    {
-      "rank": 9,
-      "name": "Geelong",
-      "wins": 11,
-      "losses": 8,
-      "draws": 0,
-      "pts": 44,
-      "percentage": 116.5,
-      "primary": "#002A54",
       "secondary": "#FFFFFF"
     },
     {
@@ -1057,94 +1057,14 @@ window.AFL_DATA = {
   ],
   "LAST_ROUND": [
     {
-      "hteam": "Adelaide",
-      "hscore": 74,
-      "ateam": "Collingwood",
-      "ascore": 108,
-      "winner": "Collingwood",
-      "date": "2026-07-23",
-      "hprimary": "#002B5C",
-      "aprimary": "#000000"
-    },
-    {
-      "hteam": "Melbourne",
-      "hscore": 97,
+      "hteam": "Collingwood",
+      "hscore": 72,
       "ateam": "Geelong",
-      "ascore": 117,
-      "winner": "Geelong",
-      "date": "2026-07-24",
-      "hprimary": "#CC2031",
-      "aprimary": "#002A54"
-    },
-    {
-      "hteam": "Fremantle",
-      "hscore": 112,
-      "ateam": "West Coast",
-      "ascore": 42,
-      "winner": "Fremantle",
-      "date": "2026-07-24",
-      "hprimary": "#2A0D54",
-      "aprimary": "#002B5C"
-    },
-    {
-      "hteam": "Carlton",
-      "hscore": 110,
-      "ateam": "Gold Coast",
       "ascore": 97,
-      "winner": "Carlton",
-      "date": "2026-07-25",
-      "hprimary": "#0E1E2D",
-      "aprimary": "#C5002F"
-    },
-    {
-      "hteam": "Hawthorn",
-      "hscore": 132,
-      "ateam": "Essendon",
-      "ascore": 39,
-      "winner": "Hawthorn",
-      "date": "2026-07-25",
-      "hprimary": "#4D2004",
-      "aprimary": "#CC2031"
-    },
-    {
-      "hteam": "Greater Western Sydney",
-      "hscore": 88,
-      "ateam": "Sydney",
-      "ascore": 139,
-      "winner": "Sydney",
-      "date": "2026-07-25",
-      "hprimary": "#F57F00",
-      "aprimary": "#F57F00"
-    },
-    {
-      "hteam": "Western Bulldogs",
-      "hscore": 105,
-      "ateam": "Richmond",
-      "ascore": 48,
-      "winner": "Western Bulldogs",
-      "date": "2026-07-25",
-      "hprimary": "#0039A6",
-      "aprimary": "#FFD200"
-    },
-    {
-      "hteam": "Brisbane Lions",
-      "hscore": 126,
-      "ateam": "Port Adelaide",
-      "ascore": 67,
-      "winner": "Brisbane Lions",
-      "date": "2026-07-26",
-      "hprimary": "#7B1A4B",
-      "aprimary": "#002B5C"
-    },
-    {
-      "hteam": "North Melbourne",
-      "hscore": 62,
-      "ateam": "St Kilda",
-      "ascore": 93,
-      "winner": "St Kilda",
-      "date": "2026-07-26",
-      "hprimary": "#CC2031",
-      "aprimary": "#ED1C2E"
+      "winner": "Geelong",
+      "date": "2026-07-30",
+      "hprimary": "#000000",
+      "aprimary": "#002A54"
     }
   ],
   "CURRENT_CONTENDERS": [

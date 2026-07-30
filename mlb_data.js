@@ -1145,12 +1145,12 @@ window.MLB_DATA = {
       "score": 81,
       "stats": {
         "type": "batting",
-        "ab": 379,
+        "ab": 380,
         "hr": 23,
         "rbi": 65,
-        "avg": 0.29,
+        "avg": 0.289,
         "sb": 6,
-        "ops": 0.933
+        "ops": 0.931
       },
       "legendScore": 92.0,
       "currentScore": 100.0,
@@ -2988,36 +2988,6 @@ window.MLB_DATA = {
         "whip": 1.06
       },
       "legendScore": 54.0,
-      "currentScore": 64,
-      "battingScore": null,
-      "pitchingScore": 64,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 32082,
-      "name": "Sonny Gray",
-      "first": "Sonny",
-      "last": "Gray",
-      "pos": "SP",
-      "teamCode": "BOS",
-      "age": 36,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32082.png",
-      "colors": {
-        "primary": "#bd3039",
-        "secondary": "#0c2340"
-      },
-      "score": 64,
-      "stats": {
-        "type": "pitching",
-        "g": 19,
-        "w": 12,
-        "era": 2.78,
-        "ip": 106.2,
-        "so": 93,
-        "whip": 1.16
-      },
-      "legendScore": 47.4,
       "currentScore": 64,
       "battingScore": null,
       "pitchingScore": 64,
@@ -6505,36 +6475,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4109109,
-      "name": "Vinnie Pasquantino",
-      "first": "Vinnie",
-      "last": "Pasquantino",
-      "pos": "1B",
-      "teamCode": "KC",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4109109.png",
-      "colors": {
-        "primary": "#004687",
-        "secondary": "#c09a5b"
-      },
-      "score": 43,
-      "stats": {
-        "type": "batting",
-        "ab": 293,
-        "hr": 6,
-        "rbi": 33,
-        "avg": 0.232,
-        "sb": 4,
-        "ops": 0.663
-      },
-      "legendScore": 29.3,
-      "currentScore": 43,
-      "battingScore": 43,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 42414,
       "name": "Brett Baty",
       "first": "Brett",
@@ -6989,7 +6929,7 @@ window.MLB_DATA = {
       "name": "Steven Kwan",
       "first": "Steven",
       "last": "Kwan",
-      "pos": "CF",
+      "pos": "LF",
       "teamCode": "CLE",
       "age": 28,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41996.png",
@@ -7927,7 +7867,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-30 09:08 UTC",
+  "LAST_UPDATE": "2026-07-30 14:54 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

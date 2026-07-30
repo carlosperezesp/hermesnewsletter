@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-30 09:10 UTC
+// Auto-generated 2026-07-30 14:55 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-30 09:10 UTC",
+  "UPDATED": "2026-07-30 14:55 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -9393,7 +9393,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Axeria Open 2026 powered by Intaro Sport",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 41.0
@@ -11785,9 +11785,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alevtina Ibragimova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 42.8,
           "l_score": null,
           "match_score": 42.8
@@ -11798,22 +11798,22 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lucija Ciric Bagaric",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 41.0,
           "l_score": null,
           "match_score": 41.0
         },
         {
           "round": "R64",
-          "w": "Anastasiia Sobolieva",
+          "w": "Laura Samson",
           "w_logo": "",
-          "l": "Laura Samson",
+          "l": "Anastasiia Sobolieva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-2 ret",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11824,9 +11824,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Yelyzaveta Kotliar",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "2-6 6-2 7-6 (7-4)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -12074,7 +12074,7 @@ window.TENNIS_DATA = {
       "Zheng Qinwen"
     ],
     "aliveCount": 64,
-    "matchesSeen": 99
+    "matchesSeen": 101
   },
   "ATP_SCORE_LOG": {
     "206173": [
