@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-30 14:55 UTC
+// Auto-generated 2026-07-30 15:37 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-30 14:55 UTC",
+  "UPDATED": "2026-07-30 15:37 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11201,15 +11201,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Brandon Nakashima",
+          "w": "Jakub Mensik",
           "w_logo": "",
-          "l": "Jakub Mensik",
+          "l": "Brandon Nakashima",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 67.4,
-          "l_score": 63.0,
+          "scheduled": false,
+          "w_score": 63.0,
+          "l_score": 67.4,
           "match_score": 67.4
         },
         {
