@@ -823,7 +823,7 @@ window.NFL_DATA = {
       "name": "Dak Prescott",
       "pos": "QB",
       "teamCode": "DAL",
-      "age": 32,
+      "age": 33,
       "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2577417.png",
       "colors": {
         "primary": "#003594",
@@ -2159,10 +2159,10 @@ window.NFL_DATA = {
           "primary": "#003594",
           "secondary": "#869397"
         },
-        "age": 32,
-        "careerScore": 70.1,
+        "age": 33,
+        "careerScore": 71.3,
         "threshold": 90.0,
-        "gap": 19.9,
+        "gap": 18.7,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
         "prevRank": 3
@@ -2405,7 +2405,7 @@ window.NFL_DATA = {
   "SEASON": "2025",
   "SEASON_STATUS": "offseason",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-07-29 22:17 UTC",
+  "LAST_UPDATE": "2026-07-30 07:42 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-29 22:19 UTC",
+  "UPDATED": "2026-07-30 07:44 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -432,10 +432,10 @@ window.GLORY_DATA = {
       "Bryce Harper",
       "Juan Soto",
       "Yordan Alvarez",
+      "Chris Sale",
       "Jacob Misiorowski",
       "Kyle Schwarber",
-      "CJ Abrams",
-      "Chris Sale"
+      "CJ Abrams"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -453,12 +453,12 @@ window.GLORY_DATA = {
       "Jacob Misiorowski",
       "James Wood",
       "CJ Abrams",
-      "Sal Stewart",
       "Pete Crow-Armstrong",
+      "Sal Stewart",
       "Jordan Walker",
       "Junior Caminero",
-      "Nick Kurtz",
       "Cam Schlittler",
+      "Nick Kurtz",
       "Chase Burns"
     ],
     "nfl:ROAD_TO_GLORY.players": [

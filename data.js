@@ -2508,7 +2508,7 @@ window.NHL_DATA = {
       "name": "Dylan Larkin",
       "pos": "C",
       "teamCode": "DET",
-      "age": 29,
+      "age": 30,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -2541,7 +2541,7 @@ window.NHL_DATA = {
       "name": "Joel Hofer",
       "pos": "G",
       "teamCode": "STL",
-      "age": 25,
+      "age": 26,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -4017,7 +4017,7 @@ window.NHL_DATA = {
       "name": "Jesper Bratt",
       "pos": "LW",
       "teamCode": "NJD",
-      "age": 27,
+      "age": 28,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -32149,7 +32149,7 @@ window.NHL_DATA = {
       "name": "Scott Sabourin",
       "pos": "RW",
       "teamCode": "TBL",
-      "age": 33,
+      "age": 34,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47977,10 +47977,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-29 22:17 UTC",
+  "LAST_UPDATE": "2026-07-30 07:42 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-29T22:16:30Z"
+    "standingsDateTimeUtc": "2026-07-30T07:42:15Z"
   }
 };
