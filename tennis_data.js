@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-30 21:33 UTC
+// Auto-generated 2026-07-30 22:32 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-30 21:33 UTC",
+  "UPDATED": "2026-07-30 22:32 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -6373,7 +6373,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "The Memphis Classic",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 66.5
@@ -8527,7 +8527,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Odlum Brown VanOpen",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 48.5
@@ -9253,7 +9253,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "The Memphis Classic",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 42.3
@@ -9745,7 +9745,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Odlum Brown VanOpen",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 38.3
@@ -10245,7 +10245,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Odlum Brown VanOpen",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11218,9 +11218,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Terence Atmane",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 66.6,
           "l_score": 58.7,
           "match_score": 66.6
@@ -11569,7 +11569,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Harriet Dart",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 48.5,
@@ -11726,7 +11726,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tatiana Prozorova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 66.4,
@@ -12074,7 +12074,7 @@ window.TENNIS_DATA = {
       "Zheng Qinwen"
     ],
     "aliveCount": 64,
-    "matchesSeen": 105
+    "matchesSeen": 107
   },
   "ATP_SCORE_LOG": {
     "206173": [
