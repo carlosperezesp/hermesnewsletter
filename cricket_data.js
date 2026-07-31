@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-07-30 22:32 UTC",
+  "UPDATED": "2026-07-31 08:11 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1593,
+    "matches": 1592,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 905
+        "matches": 904
       },
       {
         "name": "IPL",
@@ -452,16 +452,16 @@ window.CRICKET_DATA = {
       "id": "ba-carse",
       "name": "BA Carse",
       "role": "Bowler",
-      "score": 80.3,
-      "legendScore": 61.9,
+      "score": 79.9,
+      "legendScore": 61.6,
       "stats": {
         "test": 82.3,
         "odi": 80.5,
-        "t20": 81.5,
-        "franchise": 72.1,
-        "runs": 444,
-        "wickets": 80,
-        "matches": 34
+        "t20": 80.2,
+        "franchise": 70.9,
+        "runs": 441,
+        "wickets": 78,
+        "matches": 33
       },
       "formatScores": {
         "test": {
@@ -476,13 +476,13 @@ window.CRICKET_DATA = {
         },
         "t20": {
           "overall": 70.8,
-          "batting": 15.7,
-          "bowling": 75.7
+          "batting": 16.0,
+          "bowling": 74.2
         },
         "franchise": {
           "overall": 69.3,
-          "batting": 15.7,
-          "bowling": 66.8
+          "batting": 16.0,
+          "bowling": 65.4
         }
       },
       "country": "England",
@@ -1038,8 +1038,8 @@ window.CRICKET_DATA = {
           "batting": 18.4,
           "bowling": 77.2,
           "overall": 71.0,
-          "runs": 444,
-          "wickets": 80
+          "runs": 441,
+          "wickets": 78
         }
       ]
     },
@@ -2112,12 +2112,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 75.7,
-          "batting": 15.7,
-          "bowling": 75.7,
+          "score": 74.2,
+          "batting": 16.0,
+          "bowling": 74.2,
           "overall": 70.8,
-          "runs": 444,
-          "wickets": 80
+          "runs": 441,
+          "wickets": 78
         },
         {
           "id": "mohammed-siraj",
@@ -2596,24 +2596,6 @@ window.CRICKET_DATA = {
           "wickets": 106
         },
         {
-          "id": "jc-archer",
-          "name": "JC Archer",
-          "role": "Bowler",
-          "country": "England",
-          "teamCode": "ENG",
-          "colors": {
-            "primary": "#c8102e",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 84.6,
-          "batting": 13.0,
-          "bowling": 84.6,
-          "overall": 71.0,
-          "runs": 437,
-          "wickets": 111
-        },
-        {
           "id": "jnt-seales",
           "name": "JNT Seales",
           "role": "Bowler",
@@ -2648,6 +2630,24 @@ window.CRICKET_DATA = {
           "overall": 40.6,
           "runs": 60,
           "wickets": 108
+        },
+        {
+          "id": "jc-archer",
+          "name": "JC Archer",
+          "role": "Bowler",
+          "country": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/gb-eng.png",
+          "score": 83.2,
+          "batting": 13.2,
+          "bowling": 83.2,
+          "overall": 71.0,
+          "runs": 437,
+          "wickets": 109
         },
         {
           "id": "shaheen-shah-afridi",
@@ -3672,51 +3672,6 @@ window.CRICKET_DATA = {
         "logo": "https://flagcdn.com/24x18/bd.png"
       },
       {
-        "id": "ba-carse",
-        "name": "BA Carse",
-        "role": "Bowler",
-        "score": 80.3,
-        "legendScore": 61.9,
-        "stats": {
-          "test": 82.3,
-          "odi": 80.5,
-          "t20": 81.5,
-          "franchise": 72.1,
-          "runs": 444,
-          "wickets": 80,
-          "matches": 34
-        },
-        "formatScores": {
-          "test": {
-            "overall": 71.0,
-            "batting": 18.4,
-            "bowling": 77.2
-          },
-          "odi": {
-            "overall": 70.4,
-            "batting": 20.4,
-            "bowling": 77.7
-          },
-          "t20": {
-            "overall": 70.8,
-            "batting": 15.7,
-            "bowling": 75.7
-          },
-          "franchise": {
-            "overall": 69.3,
-            "batting": 15.7,
-            "bowling": 66.8
-          }
-        },
-        "country": "England",
-        "teamCode": "ENG",
-        "colors": {
-          "primary": "#c8102e",
-          "secondary": "#ffffff"
-        },
-        "logo": "https://flagcdn.com/24x18/gb-eng.png"
-      },
-      {
         "id": "nauman-ali",
         "name": "Nauman Ali",
         "role": "Bowler",
@@ -3760,6 +3715,51 @@ window.CRICKET_DATA = {
           "secondary": "#ffffff"
         },
         "logo": "https://flagcdn.com/24x18/pk.png"
+      },
+      {
+        "id": "ba-carse",
+        "name": "BA Carse",
+        "role": "Bowler",
+        "score": 79.9,
+        "legendScore": 61.6,
+        "stats": {
+          "test": 82.3,
+          "odi": 80.5,
+          "t20": 80.2,
+          "franchise": 70.9,
+          "runs": 441,
+          "wickets": 78,
+          "matches": 33
+        },
+        "formatScores": {
+          "test": {
+            "overall": 71.0,
+            "batting": 18.4,
+            "bowling": 77.2
+          },
+          "odi": {
+            "overall": 70.4,
+            "batting": 20.4,
+            "bowling": 77.7
+          },
+          "t20": {
+            "overall": 70.8,
+            "batting": 16.0,
+            "bowling": 74.2
+          },
+          "franchise": {
+            "overall": 69.3,
+            "batting": 16.0,
+            "bowling": 65.4
+          }
+        },
+        "country": "England",
+        "teamCode": "ENG",
+        "colors": {
+          "primary": "#c8102e",
+          "secondary": "#ffffff"
+        },
+        "logo": "https://flagcdn.com/24x18/gb-eng.png"
       }
     ]
   }

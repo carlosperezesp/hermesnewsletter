@@ -1936,7 +1936,7 @@ window.NHL_DATA = {
       "name": "Evgeni Malkin",
       "pos": "C",
       "teamCode": "PIT",
-      "age": 39,
+      "age": 40,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
@@ -8044,7 +8044,7 @@ window.NHL_DATA = {
       "name": "Linus Ullmark",
       "pos": "G",
       "teamCode": "OTT",
-      "age": 32,
+      "age": 33,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -22759,7 +22759,7 @@ window.NHL_DATA = {
       "name": "Wyatt Kaiser",
       "pos": "D",
       "teamCode": "CHI",
-      "age": 23,
+      "age": 24,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -47463,7 +47463,7 @@ window.NHL_DATA = {
           "primary": "#111111",
           "secondary": "#cfc493"
         },
-        "age": 39,
+        "age": 40,
         "careerScore": 64.9,
         "threshold": 93.1,
         "gap": 28.2,
@@ -47977,10 +47977,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-30 22:30 UTC",
+  "LAST_UPDATE": "2026-07-31 08:09 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-07-30T22:30:30Z"
+    "standingsDateTimeUtc": "2026-07-31T08:09:00Z"
   }
 };

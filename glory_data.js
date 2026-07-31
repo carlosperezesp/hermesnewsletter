@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-30 22:32 UTC",
+  "UPDATED": "2026-07-31 08:11 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -452,9 +452,9 @@ window.GLORY_DATA = {
     "mlb:ROAD_TO_GLORY.youngProspects": [
       "Jacob Misiorowski",
       "James Wood",
+      "Sal Stewart",
       "CJ Abrams",
       "Pete Crow-Armstrong",
-      "Sal Stewart",
       "Jordan Walker",
       "Junior Caminero",
       "Cam Schlittler",
@@ -710,8 +710,8 @@ window.GLORY_DATA = {
       "Taijul Islam",
       "JNT Seales",
       "Mehedi Hasan Miraz",
-      "BA Carse",
-      "Nauman Ali"
+      "Nauman Ali",
+      "BA Carse"
     ],
     "athletics:allTime:100m_m": [
       "Usain Bolt",
