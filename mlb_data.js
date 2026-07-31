@@ -802,19 +802,19 @@ window.MLB_DATA = {
         "primary": "#0e3386",
         "secondary": "#cc3433"
       },
-      "score": 92,
+      "score": 91,
       "stats": {
         "type": "batting",
-        "ab": 410,
+        "ab": 414,
         "hr": 24,
         "rbi": 63,
-        "avg": 0.285,
+        "avg": 0.283,
         "sb": 26,
-        "ops": 0.924
+        "ops": 0.915
       },
-      "legendScore": 52.7,
-      "currentScore": 92,
-      "battingScore": 92,
+      "legendScore": 52.2,
+      "currentScore": 91,
+      "battingScore": 91,
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
@@ -836,12 +836,12 @@ window.MLB_DATA = {
       "score": 89,
       "stats": {
         "type": "batting",
-        "ab": 390,
+        "ab": 394,
         "hr": 31,
         "rbi": 73,
         "avg": 0.269,
         "sb": 2,
-        "ops": 0.931
+        "ops": 0.927
       },
       "legendScore": 53.6,
       "currentScore": 89,
@@ -2199,12 +2199,12 @@ window.MLB_DATA = {
       "score": 69,
       "stats": {
         "type": "batting",
-        "ab": 357,
+        "ab": 360,
         "hr": 16,
         "rbi": 61,
-        "avg": 0.216,
+        "avg": 0.214,
         "sb": 15,
-        "ops": 0.699
+        "ops": 0.693
       },
       "legendScore": 46.8,
       "currentScore": 69,
@@ -3325,6 +3325,36 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
+      "id": 34945,
+      "name": "Ian Happ",
+      "first": "Ian",
+      "last": "Happ",
+      "pos": "LF",
+      "teamCode": "CHC",
+      "age": 31,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34945.png",
+      "colors": {
+        "primary": "#0e3386",
+        "secondary": "#cc3433"
+      },
+      "score": 62,
+      "stats": {
+        "type": "batting",
+        "ab": 392,
+        "hr": 18,
+        "rbi": 48,
+        "avg": 0.219,
+        "sb": 4,
+        "ops": 0.751
+      },
+      "legendScore": 42.2,
+      "currentScore": 62,
+      "battingScore": 62,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
       "id": 35241,
       "name": "Sandy Alcantara",
       "first": "Sandy",
@@ -3438,36 +3468,6 @@ window.MLB_DATA = {
         "ops": 0.72
       },
       "legendScore": 36.6,
-      "currentScore": 61,
-      "battingScore": 61,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 34945,
-      "name": "Ian Happ",
-      "first": "Ian",
-      "last": "Happ",
-      "pos": "LF",
-      "teamCode": "CHC",
-      "age": 31,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34945.png",
-      "colors": {
-        "primary": "#0e3386",
-        "secondary": "#cc3433"
-      },
-      "score": 61,
-      "stats": {
-        "type": "batting",
-        "ab": 389,
-        "hr": 18,
-        "rbi": 48,
-        "avg": 0.219,
-        "sb": 4,
-        "ops": 0.751
-      },
-      "legendScore": 41.6,
       "currentScore": 61,
       "battingScore": 61,
       "pitchingScore": null,
@@ -3970,12 +3970,12 @@ window.MLB_DATA = {
       "score": 60,
       "stats": {
         "type": "batting",
-        "ab": 408,
+        "ab": 412,
         "hr": 13,
         "rbi": 58,
-        "avg": 0.243,
+        "avg": 0.24,
         "sb": 2,
-        "ops": 0.751
+        "ops": 0.744
       },
       "legendScore": 38.6,
       "currentScore": 60,
@@ -4660,12 +4660,12 @@ window.MLB_DATA = {
       "score": 56,
       "stats": {
         "type": "batting",
-        "ab": 428,
+        "ab": 431,
         "hr": 5,
         "rbi": 50,
-        "avg": 0.257,
+        "avg": 0.255,
         "sb": 16,
-        "ops": 0.67
+        "ops": 0.666
       },
       "legendScore": 37.2,
       "currentScore": 56,
@@ -4900,12 +4900,12 @@ window.MLB_DATA = {
       "score": 54,
       "stats": {
         "type": "batting",
-        "ab": 420,
+        "ab": 424,
         "hr": 11,
         "rbi": 47,
         "avg": 0.248,
         "sb": 2,
-        "ops": 0.722
+        "ops": 0.72
       },
       "legendScore": 38.7,
       "currentScore": 54,
@@ -5215,32 +5215,32 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 34995,
-      "name": "Trent Grisham",
-      "first": "Trent",
-      "last": "Grisham",
-      "pos": "CF",
-      "teamCode": "NYY",
-      "age": 29,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34995.png",
+      "id": 5134630,
+      "name": "Shota Imanaga",
+      "first": "Shota",
+      "last": "Imanaga",
+      "pos": "SP",
+      "teamCode": "CHC",
+      "age": 32,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5134630.png",
       "colors": {
-        "primary": "#003087",
-        "secondary": "#e4002c"
+        "primary": "#0e3386",
+        "secondary": "#cc3433"
       },
       "score": 53,
       "stats": {
-        "type": "batting",
-        "ab": 305,
-        "hr": 11,
-        "rbi": 42,
-        "avg": 0.216,
-        "sb": 7,
-        "ops": 0.702
+        "type": "pitching",
+        "g": 22,
+        "w": 7,
+        "era": 3.67,
+        "ip": 127.2,
+        "so": 119,
+        "whip": 1.07
       },
-      "legendScore": 35.6,
+      "legendScore": 38.1,
       "currentScore": 53,
-      "battingScore": 53,
-      "pitchingScore": null,
+      "battingScore": null,
+      "pitchingScore": 53,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -5395,6 +5395,36 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
+      "id": 34995,
+      "name": "Trent Grisham",
+      "first": "Trent",
+      "last": "Grisham",
+      "pos": "CF",
+      "teamCode": "NYY",
+      "age": 29,
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34995.png",
+      "colors": {
+        "primary": "#003087",
+        "secondary": "#e4002c"
+      },
+      "score": 52,
+      "stats": {
+        "type": "batting",
+        "ab": 309,
+        "hr": 11,
+        "rbi": 42,
+        "avg": 0.214,
+        "sb": 7,
+        "ops": 0.693
+      },
+      "legendScore": 35.1,
+      "currentScore": 52,
+      "battingScore": 52,
+      "pitchingScore": null,
+      "twoWayBonus": 0,
+      "rings": 0
+    },
+    {
       "id": 5136929,
       "name": "Chase Meidroth",
       "first": "Chase",
@@ -5481,36 +5511,6 @@ window.MLB_DATA = {
       "currentScore": 51,
       "battingScore": 51,
       "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 5134630,
-      "name": "Shota Imanaga",
-      "first": "Shota",
-      "last": "Imanaga",
-      "pos": "SP",
-      "teamCode": "CHC",
-      "age": 32,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5134630.png",
-      "colors": {
-        "primary": "#0e3386",
-        "secondary": "#cc3433"
-      },
-      "score": 51,
-      "stats": {
-        "type": "pitching",
-        "g": 21,
-        "w": 7,
-        "era": 3.72,
-        "ip": 121.0,
-        "so": 113,
-        "whip": 1.1
-      },
-      "legendScore": 37.0,
-      "currentScore": 51,
-      "battingScore": null,
-      "pitchingScore": 51,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -7763,10 +7763,10 @@ window.MLB_DATA = {
           "secondary": "#cc3433"
         },
         "age": 24,
-        "currentScore": 92,
-        "projectedScore": 69.7,
+        "currentScore": 91,
+        "projectedScore": 69.2,
         "threshold": 92.5,
-        "gap": 22.8,
+        "gap": 23.3,
         "note": "Among the best players of their generation",
         "prevRank": 5
       },
@@ -7897,7 +7897,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-31 21:28 UTC",
+  "LAST_UPDATE": "2026-07-31 22:27 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

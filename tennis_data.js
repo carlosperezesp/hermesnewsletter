@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-31 21:31 UTC
+// Auto-generated 2026-07-31 22:29 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-31 21:31 UTC",
+  "UPDATED": "2026-07-31 22:29 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5387,7 +5387,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 90.0
@@ -5897,7 +5897,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 75.2
@@ -7053,7 +7053,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 60.0
@@ -8527,7 +8527,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Odlum Brown VanOpen",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 48.5
@@ -9745,7 +9745,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Odlum Brown VanOpen",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 38.3
@@ -10317,7 +10317,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Odlum Brown VanOpen",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11448,15 +11448,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Mananchaya Sawangkaew",
+          "w": "Taylah Preston",
           "w_logo": "",
-          "l": "Taylah Preston",
+          "l": "Mananchaya Sawangkaew",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "5-7 6-3 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 38.3,
-          "l_score": 48.5,
+          "w_score": 48.5,
+          "l_score": 38.3,
           "match_score": 48.5
         },
         {
@@ -11533,15 +11533,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Liudmila Samsonova",
+          "w": "Diana Shnaider",
           "w_logo": "",
-          "l": "Diana Shnaider",
+          "l": "Liudmila Samsonova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 59.8,
-          "l_score": 75.2,
+          "w_score": 75.2,
+          "l_score": 59.8,
           "match_score": 75.2
         }
       ]
@@ -11557,7 +11557,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elvina Kalieva",
           "l_logo": "",
-          "score": "1-6 5-2",
+          "score": "In Progress",
           "day": "hoy",
           "scheduled": false,
           "w_score": 66.4,
@@ -11905,7 +11905,7 @@ window.TENNIS_DATA = {
       "Zheng Qinwen"
     ],
     "aliveCount": 64,
-    "matchesSeen": 112
+    "matchesSeen": 114
   },
   "ATP_SCORE_LOG": {
     "206173": [
