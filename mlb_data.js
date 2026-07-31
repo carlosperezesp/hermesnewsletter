@@ -942,7 +942,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 10
+      "prevRank": 8
     },
     {
       "id": 5134581,
@@ -1004,7 +1004,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 8
+      "prevRank": 9
     },
     {
       "id": 4905921,
@@ -1035,7 +1035,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 9
+      "prevRank": 10
     },
     {
       "id": 30948,
@@ -7764,7 +7764,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 22.6,
         "note": "Historic young season — all-time ceiling is possible",
-        "prevRank": 5
+        "prevRank": 3
       },
       {
         "id": 42402,
@@ -7781,7 +7781,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 22.7,
         "note": "Among the best players of their generation",
-        "prevRank": 3
+        "prevRank": 4
       },
       {
         "id": 4717833,
@@ -7798,7 +7798,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 22.8,
         "note": "Among the best players of their generation",
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "id": 4684778,
@@ -7927,7 +7927,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-31 08:09 UTC",
+  "LAST_UPDATE": "2026-07-31 09:21 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
