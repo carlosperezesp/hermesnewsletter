@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-07-31 09:23 UTC",
+  "UPDATED": "2026-07-31 15:09 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -135,6 +135,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-20"
     },
     {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Jalen Green",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "Jalen Green entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-07-31"
+    },
+    {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:BA Carse",
       "sport": "cricket",
       "detail": "Cricket",
@@ -250,6 +259,15 @@ window.GLORY_DATA = {
       "text": "Chris Sale entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-07-18"
+    },
+    {
+      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:VJ Edgecombe",
+      "sport": "nba",
+      "detail": "NBA",
+      "anchor": "nba-jovenes-promesas",
+      "text": "VJ Edgecombe cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-07-31"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:AAP Atkinson",
@@ -423,7 +441,7 @@ window.GLORY_DATA = {
       "Amen Thompson",
       "Stephon Castle",
       "Deni Avdija",
-      "VJ Edgecombe"
+      "Jalen Green"
     ],
     "mlb:ROAD_TO_GLORY.players": [
       "Shohei Ohtani",

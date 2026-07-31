@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-31 09:21 UTC
+// Auto-generated 2026-07-31 15:07 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-07-31 09:21 UTC",
+  "UPDATED": "2026-07-31 15:07 UTC",
   "SEASON": "2026",
   "ROUND": 21,
   "IMPORTANCE": 8.4,
@@ -9,11 +9,11 @@ window.AFL_DATA = {
     {
       "rank": 1,
       "name": "Fremantle",
-      "wins": 17,
+      "wins": 18,
       "losses": 2,
       "draws": 0,
-      "pts": 68,
-      "percentage": 146.0,
+      "pts": 72,
+      "percentage": 147.3,
       "primary": "#2A0D54",
       "secondary": "#FFFFFF",
       "prevRank": 1
@@ -94,10 +94,10 @@ window.AFL_DATA = {
       "rank": 8,
       "name": "Western Bulldogs",
       "wins": 12,
-      "losses": 7,
+      "losses": 8,
       "draws": 0,
       "pts": 48,
-      "percentage": 96.8,
+      "percentage": 94.8,
       "primary": "#0039A6",
       "secondary": "#CC2031",
       "prevRank": 8
@@ -1065,6 +1065,16 @@ window.AFL_DATA = {
       "date": "2026-07-30",
       "hprimary": "#000000",
       "aprimary": "#002A54"
+    },
+    {
+      "hteam": "Fremantle",
+      "hscore": 78,
+      "ateam": "Western Bulldogs",
+      "ascore": 41,
+      "winner": "Fremantle",
+      "date": "2026-07-31",
+      "hprimary": "#2A0D54",
+      "aprimary": "#0039A6"
     }
   ],
   "CURRENT_CONTENDERS": [

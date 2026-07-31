@@ -1796,7 +1796,7 @@ window.NBA_DATA = {
       "last": "Edgecombe",
       "pos": "G",
       "teamCode": "PHI",
-      "age": 20,
+      "age": 21,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5124612.png",
       "colors": {
         "primary": "#006bb6",
@@ -1812,7 +1812,7 @@ window.NBA_DATA = {
         "blk": 0.4,
         "min": 37.0
       },
-      "legendScore": 41.2
+      "legendScore": 42.2
     },
     {
       "id": 4066354,
@@ -2796,7 +2796,7 @@ window.NBA_DATA = {
       "last": "Shannon Jr.",
       "pos": "G",
       "teamCode": "MIN",
-      "age": 25,
+      "age": 26,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4432847.png",
       "colors": {
         "primary": "#0c2340",
@@ -2812,7 +2812,7 @@ window.NBA_DATA = {
         "blk": 0.0,
         "min": 22.6
       },
-      "legendScore": 40.0
+      "legendScore": 41.0
     },
     {
       "id": 2528210,
@@ -7393,21 +7393,21 @@ window.NBA_DATA = {
         "prevRank": 9
       },
       {
-        "id": 5124612,
-        "name": "VJ Edgecombe",
+        "id": 4437244,
+        "name": "Jalen Green",
         "pos": "G",
-        "teamCode": "PHI",
+        "teamCode": "PHX",
         "colors": {
-          "primary": "#006bb6",
-          "secondary": "#ed174c"
+          "primary": "#1d1160",
+          "secondary": "#e56020"
         },
-        "age": 20,
-        "currentScore": 70,
-        "projectedScore": 62.5,
+        "age": 24,
+        "currentScore": 82,
+        "projectedScore": 62.3,
         "threshold": 92.1,
-        "gap": 29.6,
-        "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 10
+        "gap": 29.8,
+        "note": "Elite current form — needs sustained peak + rings",
+        "prevRank": null
       }
     ]
   },
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-07-31 09:20 UTC",
+  "LAST_UPDATE": "2026-07-31 15:07 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

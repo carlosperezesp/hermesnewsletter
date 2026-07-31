@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-31 09:23 UTC
+// Auto-generated 2026-07-31 15:09 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-31 09:23 UTC",
+  "UPDATED": "2026-07-31 15:09 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8731,7 +8731,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Axeria Open 2026 powered by Intaro Sport",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 46.7
@@ -9393,7 +9393,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Axeria Open 2026 powered by Intaro Sport",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 41.0
@@ -11616,9 +11616,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Carole Monnet",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-4) 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 46.7,
           "l_score": null,
           "match_score": 46.7
@@ -11629,9 +11629,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sara Sorribes Tormo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 42.8,
           "l_score": null,
           "match_score": 42.8
@@ -11642,22 +11642,22 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alice Rame",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 41.0,
           "l_score": null,
           "match_score": 41.0
         },
         {
           "round": "Quarterfinal",
-          "w": "Mia Ristic",
+          "w": "Laura Samson",
           "w_logo": "",
-          "l": "Laura Samson",
+          "l": "Mia Ristic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-0) 4-6 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11905,7 +11905,7 @@ window.TENNIS_DATA = {
       "Zheng Qinwen"
     ],
     "aliveCount": 64,
-    "matchesSeen": 110
+    "matchesSeen": 111
   },
   "ATP_SCORE_LOG": {
     "206173": [
