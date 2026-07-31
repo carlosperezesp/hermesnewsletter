@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-31 15:40 UTC
+// Auto-generated 2026-07-31 21:31 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-07-31 15:40 UTC",
+  "UPDATED": "2026-07-31 21:31 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -6714,6 +6714,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 6,
+              "mark": "85.83",
+              "athlete": "Neeraj Chopra",
+              "country": "IND",
+              "flag": "https://flagcdn.com/24x18/in.png",
+              "primary": "#4A4745",
+              "venue": "Scotstoun Stadium",
+              "date": "31 JUL 2026"
+            },
+            {
+              "rank": 7,
               "mark": "85.73",
               "athlete": "Cameron Mcentyre",
               "country": "AUS",
@@ -6721,16 +6731,6 @@ window.ATHLETICS_DATA = {
               "primary": "#00008B",
               "venue": "Stadion Allmend",
               "date": "16 JUL 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "85.69",
-              "athlete": "Neeraj Chopra",
-              "country": "IND",
-              "flag": "https://flagcdn.com/24x18/in.png",
-              "primary": "#4A4745",
-              "venue": "Suhaim bin Hamad Stadium",
-              "date": "19 JUN 2026"
             },
             {
               "rank": 8,
@@ -6744,6 +6744,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 9,
+              "mark": "85.41",
+              "athlete": "Yash Vir Singh",
+              "country": "IND",
+              "flag": "https://flagcdn.com/24x18/in.png",
+              "primary": "#4A4745",
+              "venue": "Scotstoun Stadium",
+              "date": "31 JUL 2026"
+            },
+            {
+              "rank": 10,
               "mark": "85.24",
               "athlete": "Jakub Vadlejch",
               "country": "CZE",
@@ -6751,16 +6761,6 @@ window.ATHLETICS_DATA = {
               "primary": "#11457E",
               "venue": "National Stadium",
               "date": "17 MAY 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "84.79",
-              "athlete": "Douw Smit",
-              "country": "RSA",
-              "flag": "https://flagcdn.com/24x18/za.png",
-              "primary": "#007749",
-              "venue": "Paul-Greifzu-Stadion",
-              "date": "19 JUN 2026"
             }
           ]
         },

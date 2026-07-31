@@ -87,38 +87,17 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "CHC",
-      "city": "Chicago Cubs",
-      "shortName": "Chicago",
-      "commonName": "Cubs",
-      "conf": "NL",
-      "div": "NL Central",
-      "gp": 109,
-      "w": 62,
-      "l": 47,
-      "winPct": 0.569,
-      "rf": 564,
-      "ra": 475,
-      "rd": 0,
-      "score": 46,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png",
-      "colors": {
-        "primary": "#0e3386",
-        "secondary": "#cc3433"
-      }
-    },
-    {
       "code": "NYY",
       "city": "New York Yankees",
       "shortName": "New York",
       "commonName": "Yankees",
       "conf": "AL",
       "div": "AL East",
-      "gp": 109,
-      "w": 61,
+      "gp": 110,
+      "w": 62,
       "l": 48,
-      "winPct": 0.56,
-      "rf": 506,
+      "winPct": 0.564,
+      "rf": 508,
       "ra": 419,
       "rd": 0,
       "score": 45,
@@ -126,6 +105,27 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#003087",
         "secondary": "#e4002c"
+      }
+    },
+    {
+      "code": "CHC",
+      "city": "Chicago Cubs",
+      "shortName": "Chicago",
+      "commonName": "Cubs",
+      "conf": "NL",
+      "div": "NL Central",
+      "gp": 110,
+      "w": 62,
+      "l": 48,
+      "winPct": 0.564,
+      "rf": 564,
+      "ra": 477,
+      "rd": 0,
+      "score": 45,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png",
+      "colors": {
+        "primary": "#0e3386",
+        "secondary": "#cc3433"
       }
     },
     {
@@ -3138,36 +3138,6 @@ window.MLB_DATA = {
         "ops": 0.717
       },
       "legendScore": 36.1,
-      "currentScore": 63,
-      "battingScore": 63,
-      "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 42410,
-      "name": "JJ Bleday",
-      "first": "JJ",
-      "last": "Bleday",
-      "pos": "LF",
-      "teamCode": "CIN",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42410.png",
-      "colors": {
-        "primary": "#c6011f",
-        "secondary": "#000000"
-      },
-      "score": 63,
-      "stats": {
-        "type": "batting",
-        "ab": 285,
-        "hr": 18,
-        "rbi": 45,
-        "avg": 0.228,
-        "sb": 6,
-        "ops": 0.8
-      },
-      "legendScore": 40.2,
       "currentScore": 63,
       "battingScore": 63,
       "pitchingScore": null,
@@ -7927,7 +7897,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-07-31 15:39 UTC",
+  "LAST_UPDATE": "2026-07-31 21:28 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

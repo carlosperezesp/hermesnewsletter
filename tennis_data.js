@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-31 15:41 UTC
+// Auto-generated 2026-07-31 21:31 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-31 15:41 UTC",
+  "UPDATED": "2026-07-31 21:31 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -407,7 +407,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 77.1
@@ -5795,7 +5795,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 76.2
@@ -6917,7 +6917,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 61.6
@@ -9181,7 +9181,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Axeria Open 2026 powered by Intaro Sport",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 42.8
@@ -11136,28 +11136,28 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Alex de Minaur",
+          "w": "Brandon Nakashima",
           "w_logo": "",
-          "l": "Brandon Nakashima",
+          "l": "Alex de Minaur",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-5) 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 77.0,
-          "l_score": 67.4,
+          "scheduled": false,
+          "w_score": 67.4,
+          "l_score": 77.0,
           "match_score": 77.0
         },
         {
           "round": "Quarterfinal",
-          "w": "Taylor Fritz",
+          "w": "Alex Michelsen",
           "w_logo": "",
-          "l": "Alex Michelsen",
+          "l": "Taylor Fritz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 75.7,
-          "l_score": 66.4,
+          "scheduled": false,
+          "w_score": 66.4,
+          "l_score": 75.7,
           "match_score": 75.7
         }
       ]
@@ -11448,15 +11448,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Taylah Preston",
+          "w": "Mananchaya Sawangkaew",
           "w_logo": "",
-          "l": "Mananchaya Sawangkaew",
+          "l": "Taylah Preston",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 48.5,
-          "l_score": 38.3,
+          "scheduled": false,
+          "w_score": 38.3,
+          "l_score": 48.5,
           "match_score": 48.5
         },
         {
@@ -11465,9 +11465,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mai Hontama",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
@@ -11485,9 +11485,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anna Kalinskaya",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.0,
           "l_score": 76.2,
           "match_score": 90.0
@@ -11524,24 +11524,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elisabetta Cocciaretto",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 79.7,
           "l_score": 61.3,
           "match_score": 79.7
         },
         {
           "round": "Quarterfinal",
-          "w": "Diana Shnaider",
+          "w": "Liudmila Samsonova",
           "w_logo": "",
-          "l": "Liudmila Samsonova",
+          "l": "Diana Shnaider",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 75.2,
-          "l_score": 59.8,
+          "scheduled": false,
+          "w_score": 59.8,
+          "l_score": 75.2,
           "match_score": 75.2
         }
       ]
@@ -11557,9 +11557,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elvina Kalieva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "1-6 5-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 66.4,
           "l_score": 42.3,
           "match_score": 66.4
@@ -11592,13 +11592,13 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Catherine McNally",
+          "w": "Kristina Liutova",
           "w_logo": "",
-          "l": "Kristina Liutova",
+          "l": "Catherine McNally",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11629,7 +11629,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sara Sorribes Tormo",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 2-6 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": 42.8,
@@ -11905,7 +11905,7 @@ window.TENNIS_DATA = {
       "Zheng Qinwen"
     ],
     "aliveCount": 64,
-    "matchesSeen": 111
+    "matchesSeen": 112
   },
   "ATP_SCORE_LOG": {
     "206173": [
