@@ -408,12 +408,12 @@ window.MLB_DATA = {
       "commonName": "Cardinals",
       "conf": "NL",
       "div": "NL Central",
-      "gp": 110,
+      "gp": 111,
       "w": 54,
-      "l": 56,
-      "winPct": 0.491,
-      "rf": 477,
-      "ra": 493,
+      "l": 57,
+      "winPct": 0.486,
+      "rf": 478,
+      "ra": 498,
       "rd": 0,
       "score": 39,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/stl.png",
@@ -465,6 +465,27 @@ window.MLB_DATA = {
       }
     },
     {
+      "code": "TOR",
+      "city": "Toronto Blue Jays",
+      "shortName": "Toronto",
+      "commonName": "Blue Jays",
+      "conf": "AL",
+      "div": "AL East",
+      "gp": 111,
+      "w": 52,
+      "l": 59,
+      "winPct": 0.468,
+      "rf": 438,
+      "ra": 492,
+      "rd": 0,
+      "score": 37,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
+      "colors": {
+        "primary": "#134a8e",
+        "secondary": "#e8291c"
+      }
+    },
+    {
       "code": "CIN",
       "city": "Cincinnati Reds",
       "shortName": "Cincinnati",
@@ -483,27 +504,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#c6011f",
         "secondary": "#000000"
-      }
-    },
-    {
-      "code": "TOR",
-      "city": "Toronto Blue Jays",
-      "shortName": "Toronto",
-      "commonName": "Blue Jays",
-      "conf": "AL",
-      "div": "AL East",
-      "gp": 110,
-      "w": 51,
-      "l": 59,
-      "winPct": 0.464,
-      "rf": 433,
-      "ra": 491,
-      "rd": 0,
-      "score": 37,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
-      "colors": {
-        "primary": "#134a8e",
-        "secondary": "#e8291c"
       }
     },
     {
@@ -7747,7 +7747,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-01 21:09 UTC",
+  "LAST_UPDATE": "2026-08-01 22:14 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

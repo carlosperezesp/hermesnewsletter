@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-01 21:11 UTC
+// Auto-generated 2026-08-01 22:16 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-01 21:11 UTC",
+  "UPDATED": "2026-08-01 22:16 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5387,7 +5387,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 90.0
@@ -5693,7 +5693,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 79.7
@@ -6203,7 +6203,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 67.6
@@ -9993,7 +9993,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "The Memphis Classic",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11270,9 +11270,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Maddison Inglis",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.5,
           "l_score": 35.0,
           "match_score": 48.5
@@ -11303,7 +11303,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Naomi Osaka",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 67.8,
@@ -11319,15 +11319,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Renata Zarazua",
+          "w": "Darja Vidmanova",
           "w_logo": "",
-          "l": "Darja Vidmanova",
+          "l": "Renata Zarazua",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 50.4,
-          "l_score": 35.0,
+          "w_score": 35.0,
+          "l_score": 50.4,
           "match_score": 50.4
         },
         {
@@ -11683,7 +11683,7 @@ window.TENNIS_DATA = {
       "Zheng Qinwen"
     ],
     "aliveCount": 94,
-    "matchesSeen": 137
+    "matchesSeen": 139
   },
   "ATP_SCORE_LOG": {
     "206173": [
