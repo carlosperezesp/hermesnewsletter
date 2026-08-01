@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-31 22:27 UTC
+// Auto-generated 2026-08-01 07:38 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-07-31 22:27 UTC",
+  "UPDATED": "2026-08-01 07:38 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -1113,7 +1113,7 @@ window.CYCLING_DATA = {
       "dateLabel": "1 ago",
       "start": "2026-08-01",
       "end": "2026-08-01",
-      "status": "upcoming",
+      "status": "ongoing",
       "winner": null
     }
   ],

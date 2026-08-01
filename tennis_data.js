@@ -1,6 +1,6 @@
-// Auto-generated 2026-07-31 22:29 UTC
+// Auto-generated 2026-08-01 07:40 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-07-31 22:29 UTC",
+  "UPDATED": "2026-08-01 07:40 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -29,7 +29,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 16.0,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -65,7 +65,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 25.9,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -99,7 +99,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 100.0,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -133,7 +133,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -201,7 +201,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -271,7 +271,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 79.5
@@ -303,7 +303,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -339,7 +339,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 77.7
@@ -371,7 +371,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -475,7 +475,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 76.4
@@ -507,7 +507,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -543,7 +543,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 75.7
@@ -575,7 +575,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -609,7 +609,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -677,7 +677,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -779,7 +779,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -813,7 +813,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -847,7 +847,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -915,7 +915,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -949,10 +949,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 67.5
     },
@@ -985,7 +985,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 67.5
@@ -1017,7 +1017,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 30,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1087,7 +1087,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 66.6
@@ -1119,9 +1119,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 65.9
@@ -1153,9 +1153,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 34,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 66.2
@@ -1221,7 +1221,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1257,7 +1257,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1293,10 +1293,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 38,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 65.5
     },
@@ -1429,7 +1429,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1463,7 +1463,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1497,10 +1497,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 64.4
     },
@@ -1531,10 +1531,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 45,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 64.1
     },
@@ -1565,7 +1565,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1599,7 +1599,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 47,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1633,8 +1633,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "out",
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -1701,10 +1701,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 63.1
     },
@@ -1735,7 +1735,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1769,10 +1769,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 62.2
     },
@@ -1803,10 +1803,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 62.0
     },
@@ -1871,10 +1871,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 55,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 62.2
     },
@@ -1905,10 +1905,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 60.5
     },
@@ -1939,7 +1939,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1973,8 +1973,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo",
-        "state": "out",
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -2007,10 +2007,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 59.3
     },
@@ -2041,10 +2041,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 59.7
     },
@@ -2075,7 +2075,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2109,7 +2109,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 62,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2143,7 +2143,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 63,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -2177,7 +2177,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2245,7 +2245,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 66,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2313,7 +2313,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2347,7 +2347,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2381,10 +2381,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 57.6
     },
@@ -2415,7 +2415,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -2449,7 +2449,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2483,9 +2483,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 73,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 57.3
@@ -2517,10 +2517,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 58.1
     },
@@ -2551,7 +2551,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2585,7 +2585,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 76,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2619,10 +2619,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 56.5
     },
@@ -2653,10 +2653,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 57.0
     },
@@ -2687,8 +2687,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 79,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "out",
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -2723,7 +2723,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 80,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2757,7 +2757,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2825,7 +2825,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 83,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2859,10 +2859,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 55.4
     },
@@ -2893,7 +2893,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2929,7 +2929,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mifel Tennis Open by Telcel Oppo",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 55.0
@@ -2995,7 +2995,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3065,7 +3065,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3099,7 +3099,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3133,7 +3133,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 92,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3167,7 +3167,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3201,7 +3201,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3237,7 +3237,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mifel Tennis Open by Telcel Oppo",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 53.5
@@ -3269,7 +3269,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3303,7 +3303,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3337,7 +3337,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3371,7 +3371,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3405,7 +3405,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3473,10 +3473,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 53.0
     },
@@ -3509,7 +3509,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3543,7 +3543,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3577,7 +3577,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3645,8 +3645,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo",
-        "state": "out",
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -3679,7 +3679,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3713,7 +3713,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 109,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3747,7 +3747,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3817,10 +3817,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 50.0
     },
@@ -3851,7 +3851,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 113,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3885,7 +3885,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3919,7 +3919,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3953,7 +3953,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3987,8 +3987,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 117,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo",
-        "state": "out",
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -4057,7 +4057,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 119,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4091,7 +4091,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4125,7 +4125,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4159,7 +4159,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4193,7 +4193,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4227,7 +4227,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4295,7 +4295,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4331,7 +4331,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4399,10 +4399,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 45.8
     },
@@ -4435,7 +4435,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4469,7 +4469,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 10.3,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4505,7 +4505,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4541,7 +4541,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4575,7 +4575,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4609,7 +4609,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4643,7 +4643,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4677,7 +4677,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4713,7 +4713,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 138,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4785,7 +4785,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4821,7 +4821,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4857,7 +4857,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4893,7 +4893,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4929,7 +4929,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5001,7 +5001,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5037,7 +5037,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5073,7 +5073,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5109,7 +5109,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5145,7 +5145,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+        "tournament": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5181,7 +5181,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 22.2,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5215,7 +5215,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5249,7 +5249,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5283,7 +5283,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5317,7 +5317,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 30.5,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5351,7 +5351,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5421,7 +5421,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 89.8
@@ -5453,7 +5453,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5487,7 +5487,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5521,7 +5521,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5555,7 +5555,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5589,7 +5589,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5657,7 +5657,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5693,7 +5693,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 79.7
@@ -5759,7 +5759,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5827,7 +5827,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5861,7 +5861,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5929,10 +5929,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 74.2
     },
@@ -5963,7 +5963,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5997,7 +5997,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6031,7 +6031,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6065,7 +6065,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6133,7 +6133,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6203,7 +6203,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 67.6
@@ -6235,7 +6235,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6303,8 +6303,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 34,
       "tournamentStatus": {
-        "tournament": "The Memphis Classic",
-        "state": "out",
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -6371,9 +6371,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "The Memphis Classic",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 66.5
@@ -6405,7 +6405,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6507,7 +6507,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6541,10 +6541,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 64.0
     },
@@ -6575,10 +6575,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 64.2
     },
@@ -6609,7 +6609,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6643,7 +6643,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6677,10 +6677,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 45,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 63.1
     },
@@ -6711,7 +6711,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6730,7 +6730,7 @@ window.TENNIS_DATA = {
       "secondary": "#FFFFFF",
       "activeScore": 63.0,
       "legendScore": 30.7,
-      "age": 29,
+      "age": 30,
       "surface": {
         "hard": 0.5,
         "clay": 0.429,
@@ -6745,8 +6745,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 47,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "out",
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -6779,10 +6779,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 58.4
     },
@@ -6813,7 +6813,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 49,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6847,8 +6847,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "out",
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -6881,7 +6881,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6915,9 +6915,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 61.6
@@ -6949,10 +6949,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 60.9
     },
@@ -6983,7 +6983,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 54,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7017,10 +7017,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 55,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 60.0
     },
@@ -7051,9 +7051,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 60.0
@@ -7085,7 +7085,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7187,7 +7187,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7221,7 +7221,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7255,10 +7255,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 62,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 61.1
     },
@@ -7289,7 +7289,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 63,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7323,10 +7323,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 58.5
     },
@@ -7357,8 +7357,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "The Memphis Classic",
-        "state": "out",
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -7391,7 +7391,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 66,
       "tournamentStatus": {
-        "tournament": "The Memphis Classic",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7427,7 +7427,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7495,10 +7495,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 57.8
     },
@@ -7529,7 +7529,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7563,8 +7563,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "out",
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -7597,10 +7597,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 54.7
     },
@@ -7665,7 +7665,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7767,7 +7767,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7801,10 +7801,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 55.9
     },
@@ -7835,7 +7835,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 79,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7869,7 +7869,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 80,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7903,8 +7903,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "The Memphis Classic",
-        "state": "out",
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -7937,10 +7937,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 55.0
     },
@@ -7971,8 +7971,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 83,
       "tournamentStatus": {
-        "tournament": "The Memphis Classic",
-        "state": "out",
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -8007,7 +8007,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8041,7 +8041,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8075,10 +8075,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 52.4
     },
@@ -8109,7 +8109,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8143,7 +8143,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8177,7 +8177,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8245,7 +8245,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8313,9 +8313,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "The Memphis Classic",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 50.1
@@ -8349,7 +8349,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8417,10 +8417,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 50.0
     },
@@ -8453,7 +8453,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8489,7 +8489,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8559,7 +8559,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8593,7 +8593,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 101,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8661,7 +8661,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8695,7 +8695,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8763,7 +8763,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8797,7 +8797,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8833,7 +8833,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "The Memphis Classic",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 45.2
@@ -8867,7 +8867,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 109,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8901,7 +8901,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8971,7 +8971,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9007,7 +9007,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 113,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9041,7 +9041,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9077,7 +9077,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9113,7 +9113,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "The Memphis Classic",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 43.7
@@ -9145,7 +9145,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 117,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9215,7 +9215,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 119,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9253,7 +9253,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "The Memphis Classic",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 42.3
@@ -9285,7 +9285,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9321,7 +9321,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9357,7 +9357,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9425,7 +9425,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9495,7 +9495,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9529,7 +9529,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 128,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9565,7 +9565,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9635,7 +9635,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9671,7 +9671,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9779,7 +9779,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9813,7 +9813,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9955,7 +9955,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9993,7 +9993,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "The Memphis Classic",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -10027,7 +10027,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10099,7 +10099,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10135,7 +10135,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10171,7 +10171,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10207,7 +10207,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10279,7 +10279,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+        "tournament": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10878,198 +10878,13 @@ window.TENNIS_DATA = {
       "surface": "",
       "matches": [
         {
-          "round": "R64",
-          "w": "Chak Lam Coleman Wong",
-          "w_logo": "",
-          "l": "Jiri Lehecka",
-          "l_logo": "",
-          "score": "1-6 6-3 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 53.5,
-          "l_score": 76.4,
-          "match_score": 76.4
-        },
-        {
-          "round": "R64",
-          "w": "Francisco Cerundolo",
-          "w_logo": "",
-          "l": "Tristan Boyer",
-          "l_logo": "",
-          "score": "6-7 (4-7) 4-3 ret",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 74.1,
-          "l_score": null,
-          "match_score": 74.1
-        },
-        {
-          "round": "R64",
-          "w": "Bernard Tomic",
-          "w_logo": "",
-          "l": "Karen Khachanov",
-          "l_logo": "",
-          "score": "6-2 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": 69.8,
-          "match_score": 69.8
-        },
-        {
-          "round": "R64",
-          "w": "Cameron Norrie",
-          "w_logo": "",
-          "l": "James Duckworth",
-          "l_logo": "",
-          "score": "6-4 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 66.2,
-          "l_score": 47.3,
-          "match_score": 66.2
-        },
-        {
-          "round": "R64",
-          "w": "Dalibor Svrcina",
-          "w_logo": "",
-          "l": "Luciano Darderi",
-          "l_logo": "",
-          "score": "3-0 ret",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 53.0,
-          "l_score": 65.6,
-          "match_score": 65.6
-        },
-        {
-          "round": "R64",
-          "w": "Jenson Brooksby",
-          "w_logo": "",
-          "l": "Edward Winter",
-          "l_logo": "",
-          "score": "6-3 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 58.2,
-          "l_score": null,
-          "match_score": 58.2
-        },
-        {
-          "round": "R64",
-          "w": "Denis Shapovalov",
-          "w_logo": "",
-          "l": "Rodrigo Pacheco Mendez",
-          "l_logo": "",
-          "score": "6-3 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 57.1,
-          "l_score": null,
-          "match_score": 57.1
-        },
-        {
-          "round": "R64",
-          "w": "Arthur Gea",
-          "w_logo": "",
-          "l": "Michael Zheng",
-          "l_logo": "",
-          "score": "0-6 6-4 6-0",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 55.0,
-          "l_score": 51.7,
-          "match_score": 55.0
-        }
-      ]
-    },
-    {
-      "name": "Mubadala DC Open",
-      "level": "500",
-      "surface": "Hard",
-      "matches": [
-        {
-          "round": "R64",
-          "w": "Rafael Jodar",
-          "w_logo": "",
-          "l": "Kei Nishikori",
-          "l_logo": "",
-          "score": "6-3 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 77.8,
-          "l_score": null,
-          "match_score": 77.8
-        },
-        {
-          "round": "R64",
-          "w": "Alex de Minaur",
-          "w_logo": "",
-          "l": "Cruz Hewitt",
-          "l_logo": "",
-          "score": "6-2 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 77.0,
-          "l_score": null,
-          "match_score": 77.0
-        },
-        {
-          "round": "R64",
-          "w": "Ben Shelton",
-          "w_logo": "",
-          "l": "Ugo Humbert",
-          "l_logo": "",
-          "score": "6-7 (3-7) 6-3 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 76.1,
-          "l_score": 66.6,
-          "match_score": 76.1
-        },
-        {
-          "round": "R64",
-          "w": "Brandon Nakashima",
-          "w_logo": "",
-          "l": "Jakub Mensik",
-          "l_logo": "",
-          "score": "7-6 (7-5) 3-6 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 67.4,
-          "l_score": 63.0,
-          "match_score": 67.4
-        },
-        {
-          "round": "R64",
-          "w": "Alejandro Tabilo",
-          "w_logo": "",
-          "l": "Terence Atmane",
-          "l_logo": "",
-          "score": "6-3 7-6 (8-6)",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 66.6,
-          "l_score": 58.7,
-          "match_score": 66.6
-        }
-      ]
-    }
-  ],
-  "ATP_TODAY": [
-    {
-      "name": "Mifel Tennis Open by Telcel Oppo",
-      "level": "ATP 250",
-      "surface": "",
-      "matches": [
-        {
           "round": "Quarterfinal",
           "w": "Arthur Gea",
           "w_logo": "",
           "l": "Francisco Cerundolo",
           "l_logo": "",
           "score": "6-7 (11-13) 6-4 6-0",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 55.0,
           "l_score": 74.1,
@@ -11082,7 +10897,7 @@ window.TENNIS_DATA = {
           "l": "Bernard Tomic",
           "l_logo": "",
           "score": "6-1 6-0",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 66.2,
           "l_score": null,
@@ -11095,7 +10910,7 @@ window.TENNIS_DATA = {
           "l": "Jenson Brooksby",
           "l_logo": "",
           "score": "6-1 7-5",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 53.5,
           "l_score": 58.2,
@@ -11108,7 +10923,7 @@ window.TENNIS_DATA = {
           "l": "Dalibor Svrcina",
           "l_logo": "",
           "score": "6-4 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 57.1,
           "l_score": 53.0,
@@ -11123,15 +10938,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Lorenzo Musetti",
+          "w": "Rafael Jodar",
           "w_logo": "",
-          "l": "Rafael Jodar",
+          "l": "Lorenzo Musetti",
           "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 79.5,
-          "l_score": 77.8,
+          "score": "1-6 6-1 6-4",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 77.8,
+          "l_score": 79.5,
           "match_score": 79.5
         },
         {
@@ -11141,7 +10956,7 @@ window.TENNIS_DATA = {
           "l": "Alex de Minaur",
           "l_logo": "",
           "score": "7-6 (7-5) 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 67.4,
           "l_score": 77.0,
@@ -11149,15 +10964,83 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Alex Michelsen",
+          "w": "Taylor Fritz",
           "w_logo": "",
-          "l": "Taylor Fritz",
+          "l": "Alex Michelsen",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 3-6 7-6 (8-6)",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 75.7,
+          "l_score": 66.4,
+          "match_score": 75.7
+        }
+      ]
+    }
+  ],
+  "ATP_TODAY": [
+    {
+      "name": "Mifel Tennis Open by Telcel Oppo",
+      "level": "ATP 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "Semifinal",
+          "w": "Denis Shapovalov",
+          "w_logo": "",
+          "l": "Cameron Norrie",
+          "l_logo": "",
+          "score": "6-3 5-7 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 66.4,
-          "l_score": 75.7,
+          "w_score": 57.1,
+          "l_score": 66.2,
+          "match_score": 66.2
+        },
+        {
+          "round": "Semifinal",
+          "w": "Arthur Gea",
+          "w_logo": "",
+          "l": "Chak Lam Coleman Wong",
+          "l_logo": "",
+          "score": "7-6 (9-7) 6-3",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 55.0,
+          "l_score": 53.5,
+          "match_score": 55.0
+        }
+      ]
+    },
+    {
+      "name": "Mubadala DC Open",
+      "level": "500",
+      "surface": "Hard",
+      "matches": [
+        {
+          "round": "Quarterfinal",
+          "w": "Alejandro Tabilo",
+          "w_logo": "",
+          "l": "Ben Shelton",
+          "l_logo": "",
+          "score": "4-6 7-5 6-4",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 66.6,
+          "l_score": 76.1,
+          "match_score": 76.1
+        },
+        {
+          "round": "Semifinal",
+          "w": "Taylor Fritz",
+          "w_logo": "",
+          "l": "Brandon Nakashima",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 75.7,
+          "l_score": 67.4,
           "match_score": 75.7
         }
       ]
@@ -11170,290 +11053,13 @@ window.TENNIS_DATA = {
       "surface": "Hard",
       "matches": [
         {
-          "round": "Quarterfinal",
-          "w": "Taylah Preston",
-          "w_logo": "",
-          "l": "Harriet Dart",
-          "l_logo": "",
-          "score": "6-3 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 48.5,
-          "l_score": 35.0,
-          "match_score": 48.5
-        },
-        {
-          "round": "R64",
-          "w": "Taylah Preston",
-          "w_logo": "",
-          "l": "Priscilla Hon",
-          "l_logo": "",
-          "score": "7-6 (7-3) 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 48.5,
-          "l_score": null,
-          "match_score": 48.5
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Mananchaya Sawangkaew",
-          "w_logo": "",
-          "l": "Emerson Jones",
-          "l_logo": "",
-          "score": "6-3 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 38.3,
-          "l_score": 45.1,
-          "match_score": 45.1
-        },
-        {
-          "round": "R64",
-          "w": "Emerson Jones",
-          "w_logo": "",
-          "l": "Madison Brengle",
-          "l_logo": "",
-          "score": "4-6 6-0 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 45.1,
-          "l_score": null,
-          "match_score": 45.1
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Maddison Inglis",
-          "w_logo": "",
-          "l": "Moyuka Uchijima",
-          "l_logo": "",
-          "score": "6-4 6-7 (9-11) 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 35.0,
-          "l_score": 39.9,
-          "match_score": 39.9
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Mai Hontama",
-          "w_logo": "",
-          "l": "Himeno Sakatsume",
-          "l_logo": "",
-          "score": "6-2 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": 39.1,
-          "match_score": 39.1
-        },
-        {
-          "round": "R64",
-          "w": "Himeno Sakatsume",
-          "w_logo": "",
-          "l": "Ariana Arseneault",
-          "l_logo": "",
-          "score": "7-6 (7-5) 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 39.1,
-          "l_score": null,
-          "match_score": 39.1
-        },
-        {
-          "round": "R64",
-          "w": "Harriet Dart",
-          "w_logo": "",
-          "l": "Emma Si Yu Dong",
-          "l_logo": "",
-          "score": "6-0 3-6 3-0 ret",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 35.0,
-          "l_score": null,
-          "match_score": 35.0
-        }
-      ]
-    },
-    {
-      "name": "Mubadala DC Open",
-      "level": "500",
-      "surface": "Hard",
-      "matches": [
-        {
-          "round": "R64",
-          "w": "Jessica Pegula",
-          "w_logo": "",
-          "l": "Magdalena Frech",
-          "l_logo": "",
-          "score": "3-6 6-3 6-0",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 90.0,
-          "l_score": 56.0,
-          "match_score": 90.0
-        },
-        {
-          "round": "R64",
-          "w": "Diana Shnaider",
-          "w_logo": "",
-          "l": "Anastasia Potapova",
-          "l_logo": "",
-          "score": "6-1 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 75.2,
-          "l_score": 79.5,
-          "match_score": 79.5
-        },
-        {
-          "round": "R64",
-          "w": "Anna Kalinskaya",
-          "w_logo": "",
-          "l": "Janice Tjen",
-          "l_logo": "",
-          "score": "1-6 6-3 7-6 (9-7)",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 76.2,
-          "l_score": 55.5,
-          "match_score": 76.2
-        }
-      ]
-    },
-    {
-      "name": "The Memphis Classic",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "R64",
-          "w": "Peyton Stearns",
-          "w_logo": "",
-          "l": "Tatiana Prozorova",
-          "l_logo": "",
-          "score": "6-1 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 66.4,
-          "l_score": null,
-          "match_score": 66.4
-        },
-        {
-          "round": "R64",
-          "w": "Kristina Liutova",
-          "w_logo": "",
-          "l": "Maya Joint",
-          "l_logo": "",
-          "score": "3-6 6-3 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": 59.5,
-          "match_score": 59.5
-        },
-        {
-          "round": "R64",
-          "w": "Darja Vidmanova",
-          "w_logo": "",
-          "l": "Sloane Stephens",
-          "l_logo": "",
-          "score": "6-2 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 35.0,
-          "l_score": null,
-          "match_score": 35.0
-        },
-        {
-          "round": "R64",
-          "w": "Catherine McNally",
-          "w_logo": "",
-          "l": "Ma YeXin",
-          "l_logo": "",
-          "score": "6-2 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        }
-      ]
-    },
-    {
-      "name": "Axeria Open 2026 powered by Intaro Sport",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "R64",
-          "w": "Lucia Bronzetti",
-          "w_logo": "",
-          "l": "Alevtina Ibragimova",
-          "l_logo": "",
-          "score": "6-3 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 42.8,
-          "l_score": null,
-          "match_score": 42.8
-        },
-        {
-          "round": "R64",
-          "w": "Francesca Jones",
-          "w_logo": "",
-          "l": "Lucija Ciric Bagaric",
-          "l_logo": "",
-          "score": "7-5 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 41.0,
-          "l_score": null,
-          "match_score": 41.0
-        },
-        {
-          "round": "R64",
-          "w": "Laura Samson",
-          "w_logo": "",
-          "l": "Anastasiia Sobolieva",
-          "l_logo": "",
-          "score": "4-2 ret",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R64",
-          "w": "Mia Ristic",
-          "w_logo": "",
-          "l": "Yelyzaveta Kotliar",
-          "l_logo": "",
-          "score": "2-6 6-2 7-6 (7-4)",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        }
-      ]
-    }
-  ],
-  "WTA_TODAY": [
-    {
-      "name": "Odlum Brown VanOpen",
-      "level": "Masters 1000",
-      "surface": "Hard",
-      "matches": [
-        {
           "round": "Semifinal",
           "w": "Taylah Preston",
           "w_logo": "",
           "l": "Mananchaya Sawangkaew",
           "l_logo": "",
           "score": "5-7 6-3 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 48.5,
           "l_score": 38.3,
@@ -11466,7 +11072,7 @@ window.TENNIS_DATA = {
           "l": "Mai Hontama",
           "l_logo": "",
           "score": "6-3 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
@@ -11486,7 +11092,7 @@ window.TENNIS_DATA = {
           "l": "Anna Kalinskaya",
           "l_logo": "",
           "score": "6-3 7-5",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 90.0,
           "l_score": 76.2,
@@ -11494,15 +11100,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Elina Svitolina",
+          "w": "Alexandra Eala",
           "w_logo": "",
-          "l": "Alexandra Eala",
+          "l": "Elina Svitolina",
           "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 89.8,
-          "l_score": 67.8,
+          "score": "6-3 6-4",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 67.8,
+          "l_score": 89.8,
           "match_score": 89.8
         },
         {
@@ -11512,7 +11118,7 @@ window.TENNIS_DATA = {
           "l": "Polina Kudermetova",
           "l_logo": "",
           "score": "7-6 (7-4) 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 89.8,
           "l_score": 35.0,
@@ -11525,7 +11131,7 @@ window.TENNIS_DATA = {
           "l": "Elisabetta Cocciaretto",
           "l_logo": "",
           "score": "4-6 6-4 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 79.7,
           "l_score": 61.3,
@@ -11538,7 +11144,7 @@ window.TENNIS_DATA = {
           "l": "Liudmila Samsonova",
           "l_logo": "",
           "score": "6-3 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 75.2,
           "l_score": 59.8,
@@ -11553,15 +11159,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Peyton Stearns",
+          "w": "Elvina Kalieva",
           "w_logo": "",
-          "l": "Elvina Kalieva",
+          "l": "Peyton Stearns",
           "l_logo": "",
-          "score": "In Progress",
-          "day": "hoy",
+          "score": "6-1 2-6 6-3",
+          "day": "ayer",
           "scheduled": false,
-          "w_score": 66.4,
-          "l_score": 42.3,
+          "w_score": 42.3,
+          "l_score": 66.4,
           "match_score": 66.4
         },
         {
@@ -11570,25 +11176,12 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anastasia Zakharova",
           "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
+          "score": "6-4 6-0",
+          "day": "ayer",
+          "scheduled": false,
           "w_score": 50.4,
           "l_score": 43.7,
           "match_score": 50.4
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Katie Volynets",
-          "w_logo": "",
-          "l": "Darja Vidmanova",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 45.4,
-          "l_score": 35.0,
-          "match_score": 45.4
         },
         {
           "round": "Quarterfinal",
@@ -11597,7 +11190,7 @@ window.TENNIS_DATA = {
           "l": "Catherine McNally",
           "l_logo": "",
           "score": "6-3 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11617,7 +11210,7 @@ window.TENNIS_DATA = {
           "l": "Carole Monnet",
           "l_logo": "",
           "score": "7-6 (7-4) 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 46.7,
           "l_score": null,
@@ -11630,7 +11223,7 @@ window.TENNIS_DATA = {
           "l": "Sara Sorribes Tormo",
           "l_logo": "",
           "score": "6-3 2-6 7-5",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 42.8,
           "l_score": null,
@@ -11643,7 +11236,7 @@ window.TENNIS_DATA = {
           "l": "Alice Rame",
           "l_logo": "",
           "score": "6-1 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 41.0,
           "l_score": null,
@@ -11656,7 +11249,7 @@ window.TENNIS_DATA = {
           "l": "Mia Ristic",
           "l_logo": "",
           "score": "7-6 (7-0) 4-6 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11665,8 +11258,142 @@ window.TENNIS_DATA = {
       ]
     }
   ],
+  "WTA_TODAY": [
+    {
+      "name": "Odlum Brown VanOpen",
+      "level": "Masters 1000",
+      "surface": "Hard",
+      "matches": [
+        {
+          "round": "F",
+          "w": "Taylah Preston",
+          "w_logo": "",
+          "l": "Maddison Inglis",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 48.5,
+          "l_score": 35.0,
+          "match_score": 48.5
+        }
+      ]
+    },
+    {
+      "name": "Mubadala DC Open",
+      "level": "500",
+      "surface": "Hard",
+      "matches": [
+        {
+          "round": "Semifinal",
+          "w": "Jessica Pegula",
+          "w_logo": "",
+          "l": "Diana Shnaider",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 90.0,
+          "l_score": 75.2,
+          "match_score": 90.0
+        },
+        {
+          "round": "Semifinal",
+          "w": "Naomi Osaka",
+          "w_logo": "",
+          "l": "Alexandra Eala",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 79.7,
+          "l_score": 67.8,
+          "match_score": 79.7
+        }
+      ]
+    },
+    {
+      "name": "The Memphis Classic",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "Semifinal",
+          "w": "Renata Zarazua",
+          "w_logo": "",
+          "l": "Darja Vidmanova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 50.4,
+          "l_score": 35.0,
+          "match_score": 50.4
+        },
+        {
+          "round": "Quarterfinal",
+          "w": "Darja Vidmanova",
+          "w_logo": "",
+          "l": "Katie Volynets",
+          "l_logo": "",
+          "score": "6-4 6-7 (5-7) 6-1",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 35.0,
+          "l_score": 45.4,
+          "match_score": 45.4
+        },
+        {
+          "round": "Semifinal",
+          "w": "Elvina Kalieva",
+          "w_logo": "",
+          "l": "Kristina Liutova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 42.3,
+          "l_score": null,
+          "match_score": 42.3
+        }
+      ]
+    },
+    {
+      "name": "Axeria Open 2026 powered by Intaro Sport",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "Semifinal",
+          "w": "Kaitlin Quevedo",
+          "w_logo": "",
+          "l": "Francesca Jones",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 46.7,
+          "l_score": 41.0,
+          "match_score": 46.7
+        },
+        {
+          "round": "Semifinal",
+          "w": "Lucia Bronzetti",
+          "w_logo": "",
+          "l": "Laura Samson",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 42.8,
+          "l_score": null,
+          "match_score": 42.8
+        }
+      ]
+    }
+  ],
   "ATP_TOURNAMENT": {
-    "name": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open",
+    "name": "Mifel Tennis Open by Telcel Oppo · Mubadala DC Open · National Bank Open presented by Rogers",
     "level": "ATP 250",
     "surface": "",
     "tour": "ATP",
@@ -11680,47 +11407,79 @@ window.TENNIS_DATA = {
         "name": "Mubadala DC Open",
         "level": "500",
         "surface": "Hard"
+      },
+      {
+        "name": "National Bank Open presented by Rogers",
+        "level": "Masters 1000",
+        "surface": "Hard"
       }
     ],
     "alive": [
+      "Adolfo Daniel Vallejo",
       "Adrian Mannarino",
       "Alejandro Tabilo",
+      "Aleksandar Kovacevic",
       "Aleksandar Vukic",
       "Alex Michelsen",
       "Alex de Minaur",
+      "Alexis Galarneau",
       "Arthur Gea",
       "Ben Shelton",
       "Bernard Tomic",
+      "Botic Van De Zandschulp",
       "Brandon Nakashima",
       "Cameron Norrie",
+      "Camilo Ugo Carabelli",
       "Chak Lam Coleman Wong",
+      "Corentin Moutet",
       "Cruz Hewitt",
       "Dalibor Svrcina",
+      "Daniel Merida",
       "Denis Shapovalov",
       "Edward Winter",
       "Francisco Cerundolo",
+      "Gael Monfils",
+      "Giovanni Mpetshi Perricard",
+      "Hamad Medjedovic",
+      "Jack Draper",
       "Jakub Mensik",
       "James Duckworth",
+      "Jan-Lennard Struff",
+      "Jaume Munar",
       "Jenson Brooksby",
+      "Juan Manuel Cerundolo",
       "Kamil Majchrzak",
       "Kei Nishikori",
+      "Liam Draxl",
       "Lorenzo Musetti",
+      "Lorenzo Sonego",
+      "Mariano Navone",
+      "Marton Fucsovics",
+      "Matteo Berrettini",
+      "Mattia Bellucci",
       "Michael Zheng",
+      "Nuno Borges",
+      "Pablo Carreno Busta",
       "Rafael Jodar",
+      "Rinky Hijikata",
       "Rodrigo Pacheco Mendez",
+      "Sebastian Baez",
+      "Shang Juncheng",
+      "Tallon Griekspoor",
       "Taylor Fritz",
       "Terence Atmane",
       "Tristan Boyer",
-      "Ugo Humbert"
+      "Ugo Humbert",
+      "Valentin Royer",
+      "Vit Kopriva",
+      "Zachary Svajda"
     ],
     "out": [
       "Adam Walton",
       "Aidan Mayo",
-      "Aleksandar Kovacevic",
       "Alex Hernandez",
       "Andres Martin",
       "Arthur Fils",
-      "Corentin Moutet",
       "Darwin Blanch",
       "Frances Tiafoe",
       "Gabriel Diallo",
@@ -11734,23 +11493,19 @@ window.TENNIS_DATA = {
       "Martin Landaluce",
       "Matteo Arnaldi",
       "Moise Kouame",
-      "Rinky Hijikata",
-      "Shang Juncheng",
       "Sho Shimabukuro",
       "SoonWoo Kwon",
       "Stefanos Tsitsipas",
-      "Tallon Griekspoor",
       "Tomas Martin Etcheverry",
       "Tommy Paul",
       "Trevor Svajda",
-      "Zachary Svajda",
       "Zizou Bergs"
     ],
-    "aliveCount": 29,
-    "matchesSeen": 54
+    "aliveCount": 58,
+    "matchesSeen": 74
   },
   "WTA_TOURNAMENT": {
-    "name": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport",
+    "name": "Odlum Brown VanOpen · Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers",
     "level": "Masters 1000",
     "surface": "Hard",
     "tour": "WTA",
@@ -11774,6 +11529,11 @@ window.TENNIS_DATA = {
         "name": "Axeria Open 2026 powered by Intaro Sport",
         "level": "WTA 250",
         "surface": ""
+      },
+      {
+        "name": "National Bank Open presented by Rogers",
+        "level": "Masters 1000",
+        "surface": "Hard"
       }
     ],
     "alive": [
@@ -11783,22 +11543,30 @@ window.TENNIS_DATA = {
       "Anastasia Potapova",
       "Anastasia Zakharova",
       "Anastasiia Sobolieva",
+      "Anhelina Kalinina",
+      "Anna Bondar",
       "Anna Kalinskaya",
       "Ariana Arseneault",
       "Ashlyn Krueger",
+      "Bianca Andreescu",
+      "Cadence Brace",
       "Caijsa Hennemann",
       "Camila Osorio",
+      "Carol Zhao",
       "Carole Monnet",
       "Catherine McNally",
+      "Daria Kasatkina",
       "Darja Vidmanova",
       "Diana Shnaider",
       "Elena Ruxandra Bertea",
+      "Elena-Gabriela Ruse",
       "Elina Svitolina",
       "Elisabetta Cocciaretto",
       "Elvina Kalieva",
       "Emerson Jones",
       "Emma Navarro",
       "Emma Si Yu Dong",
+      "Eva Lys",
       "Francesca Jones",
       "Harriet Dart",
       "Hayu Kinoshita",
@@ -11806,9 +11574,15 @@ window.TENNIS_DATA = {
       "Irene Burillo",
       "Iryna Shymanovich",
       "Janice Tjen",
+      "Jessica Bouzas Maneiro",
       "Jessica Pegula",
       "Kaitlin Quevedo",
+      "Kamilla Rakhimova",
+      "Karolina Pliskova",
+      "Katie Boulter",
       "Katie Volynets",
+      "Kayla Cross",
+      "Kimberly Birrell",
       "Kristina Liutova",
       "Laura Samson",
       "Leylah Fernandez",
@@ -11819,42 +11593,55 @@ window.TENNIS_DATA = {
       "Ma YeXin",
       "Maddison Inglis",
       "Madison Brengle",
+      "Magda Linette",
       "Magdalena Frech",
       "Mai Hontama",
       "Mananchaya Sawangkaew",
       "Margaux Rouvroy",
       "Maya Joint",
+      "McCartney Kessler",
       "Mia Ristic",
       "Moyuka Uchijima",
       "Nao Hibino",
       "Naomi Osaka",
+      "Nikola Bartunkova",
+      "Oleksandra Oliynykova",
+      "Panna Udvardy",
       "Peyton Stearns",
       "Polina Kudermetova",
       "Priscilla Hon",
+      "Rebecca Marino",
       "Renata Zarazua",
+      "Sara Bejlek",
       "Sara Sorribes Tormo",
       "Sloane Stephens",
       "Sofia Costoulas",
+      "Talia Gibson",
+      "Tamara Korpatsch",
       "Tatiana Prozorova",
       "Tatjana Maria",
       "Taylah Preston",
+      "Taylor Townsend",
+      "Tereza Valentova",
+      "Venus Williams",
+      "Viktorija Golubic",
       "Wang Xinyu",
+      "Wang Xiyu",
       "Yelyzaveta Kotliar",
-      "Zeynep Sonmez"
+      "Yulia Putintseva",
+      "Zeynep Sonmez",
+      "Zhang Shuai"
     ],
     "out": [
       "Alesia Breaz",
       "Alexandra Vagramov",
       "Ann Li",
       "Annabelle Xu",
-      "Cadence Brace",
-      "Carol Zhao",
       "Caroline Dolehide",
       "Chloe Paquet",
       "Clara Tauson",
       "Cristina Bucsa",
       "Dalila Spiteri",
-      "Daria Kasatkina",
       "Darja Semenistaja",
       "Ekaterina Alexandrova",
       "Elena Malygina",
@@ -11867,21 +11654,16 @@ window.TENNIS_DATA = {
       "Julie Struplova",
       "Julieta Pareja",
       "Katherine Sebov",
-      "Katie Boulter",
-      "Kayla Cross",
       "Kayla Day",
-      "Kimberly Birrell",
       "Kyoka Okamura",
       "Leyre Romero Gormaz",
       "Linda Fruhvirtova",
       "Lizette Cabrera",
       "Lola Radivojevic",
       "Madison Keys",
-      "Magda Linette",
       "Maia Ilinca Burcescu",
       "Marina Bassols Ribera",
       "Mary Stoiana",
-      "McCartney Kessler",
       "Mia Pohankova",
       "Miho Kuramochi",
       "Miriam Bulgaru",
@@ -11894,25 +11676,17 @@ window.TENNIS_DATA = {
       "Sofya Lansere",
       "Solana Sierra",
       "Storm Hunter",
-      "Talia Gibson",
       "Teah Chavez",
-      "Venus Williams",
-      "Viktorija Golubic",
-      "Wang Xiyu",
       "Whitney Osuigwe",
       "Yeonwoo Ku",
       "Yuliia Starodubtseva",
       "Zheng Qinwen"
     ],
-    "aliveCount": 64,
-    "matchesSeen": 114
+    "aliveCount": 94,
+    "matchesSeen": 136
   },
   "ATP_SCORE_LOG": {
     "206173": [
-      [
-        "20260715",
-        100.0
-      ],
       [
         "20260716",
         100.0
@@ -11975,15 +11749,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        100.0
+      ],
+      [
+        "20260801",
         100.0
       ]
     ],
     "207989": [
       [
-        "20260715",
-        90.9
-      ],
-      [
         "20260716",
         90.9
       ],
@@ -12045,15 +11819,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        90.9
+      ],
+      [
+        "20260801",
         90.9
       ]
     ],
     "104925": [
       [
-        "20260715",
-        87.4
-      ],
-      [
         "20260716",
         87.4
       ],
@@ -12115,15 +11889,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        87.7
+      ],
+      [
+        "20260801",
         87.7
       ]
     ],
     "100644": [
       [
-        "20260715",
-        87.5
-      ],
-      [
         "20260716",
         87.5
       ],
@@ -12185,15 +11959,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        87.5
+      ],
+      [
+        "20260801",
         87.5
       ]
     ],
     "209950": [
       [
-        "20260715",
-        82.5
-      ],
-      [
         "20260716",
         82.5
       ],
@@ -12255,15 +12029,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        82.6
+      ],
+      [
+        "20260801",
         82.6
       ]
     ],
     "134770": [
       [
-        "20260715",
-        81.2
-      ],
-      [
         "20260716",
         81.2
       ],
@@ -12325,15 +12099,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        81.2
+      ],
+      [
+        "20260801",
         81.2
       ]
     ],
     "126205": [
       [
-        "20260715",
-        79.5
-      ],
-      [
         "20260716",
         79.5
       ],
@@ -12395,15 +12169,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        79.8
+      ],
+      [
+        "20260801",
         79.8
       ]
     ],
     "207518": [
       [
-        "20260715",
-        79.6
-      ],
-      [
         "20260716",
         79.6
       ],
@@ -12465,15 +12239,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        79.5
+      ],
+      [
+        "20260801",
         79.5
       ]
     ],
     "106421": [
       [
-        "20260715",
-        78.7
-      ],
-      [
         "20260716",
         78.7
       ],
@@ -12535,15 +12309,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        78.8
+      ],
+      [
+        "20260801",
         78.8
       ]
     ],
     "212588": [
       [
-        "20260715",
-        77.7
-      ],
-      [
         "20260716",
         77.7
       ],
@@ -12605,15 +12379,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        77.8
+      ],
+      [
+        "20260801",
         77.8
       ]
     ],
     "200000": [
       [
-        "20260715",
-        77.7
-      ],
-      [
         "20260716",
         77.7
       ],
@@ -12675,15 +12449,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        77.7
+      ],
+      [
+        "20260801",
         77.7
       ]
     ],
     "200282": [
       [
-        "20260715",
-        77.1
-      ],
-      [
         "20260716",
         77.1
       ],
@@ -12745,15 +12519,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        77.0
+      ],
+      [
+        "20260801",
         77.0
       ]
     ],
     "208103": [
       [
-        "20260715",
-        76.4
-      ],
-      [
         "20260716",
         76.4
       ],
@@ -12815,15 +12589,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        76.4
+      ],
+      [
+        "20260801",
         76.4
       ]
     ],
     "210097": [
       [
-        "20260715",
-        76.4
-      ],
-      [
         "20260716",
         76.4
       ],
@@ -12885,15 +12659,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        76.1
+      ],
+      [
+        "20260801",
         76.1
       ]
     ],
     "122330": [
       [
-        "20260715",
-        76.0
-      ],
-      [
         "20260716",
         76.0
       ],
@@ -12955,15 +12729,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        76.0
+      ],
+      [
+        "20260801",
         76.0
       ]
     ],
     "126203": [
       [
-        "20260715",
-        75.7
-      ],
-      [
         "20260716",
         75.7
       ],
@@ -13025,15 +12799,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        75.7
+      ],
+      [
+        "20260801",
         75.7
       ]
     ],
     "207925": [
       [
-        "20260715",
-        75.6
-      ],
-      [
         "20260716",
         75.6
       ],
@@ -13095,15 +12869,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        75.6
+      ],
+      [
+        "20260801",
         75.6
       ]
     ],
     "126094": [
       [
-        "20260715",
-        75.0
-      ],
-      [
         "20260716",
         75.0
       ],
@@ -13165,15 +12939,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        75.2
+      ],
+      [
+        "20260801",
         75.2
       ]
     ],
     "210530": [
       [
-        "20260715",
-        75.1
-      ],
-      [
         "20260716",
         75.1
       ],
@@ -13235,15 +13009,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        75.0
+      ],
+      [
+        "20260801",
         75.0
       ]
     ],
     "200473": [
       [
-        "20260715",
-        74.6
-      ],
-      [
         "20260716",
         74.6
       ],
@@ -13305,15 +13079,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        75.0
+      ],
+      [
+        "20260801",
         75.0
       ]
     ],
     "126207": [
       [
-        "20260715",
-        74.6
-      ],
-      [
         "20260716",
         74.6
       ],
@@ -13375,15 +13149,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        74.5
+      ],
+      [
+        "20260801",
         74.5
       ]
     ],
     "202103": [
       [
-        "20260715",
-        73.9
-      ],
-      [
         "20260716",
         73.9
       ],
@@ -13445,15 +13219,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        74.1
+      ],
+      [
+        "20260801",
         74.1
       ]
     ],
     "211663": [
       [
-        "20260715",
-        73.6
-      ],
-      [
         "20260716",
         73.6
       ],
@@ -13515,15 +13289,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        73.6
+      ],
+      [
+        "20260801",
         73.6
       ]
     ],
     "210696": [
       [
-        "20260715",
-        72.1
-      ],
-      [
         "20260716",
         72.1
       ],
@@ -13585,15 +13359,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        72.6
+      ],
+      [
+        "20260801",
         72.6
       ]
     ],
     "200221": [
       [
-        "20260715",
-        73.0
-      ],
-      [
         "20260716",
         73.0
       ],
@@ -13655,15 +13429,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        72.5
+      ],
+      [
+        "20260801",
         72.5
       ]
     ],
     "111575": [
       [
-        "20260715",
-        69.8
-      ],
-      [
         "20260716",
         69.8
       ],
@@ -13725,15 +13499,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        69.8
+      ],
+      [
+        "20260801",
         69.8
       ]
     ],
     "209860": [
       [
-        "20260715",
-        68.5
-      ],
-      [
         "20260716",
         68.5
       ],
@@ -13795,15 +13569,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        68.4
+      ],
+      [
+        "20260801",
         68.4
       ]
     ],
     "126610": [
       [
-        "20260715",
-        67.4
-      ],
-      [
         "20260716",
         67.4
       ],
@@ -13865,15 +13639,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        67.6
+      ],
+      [
+        "20260801",
         67.6
       ]
     ],
     "206909": [
       [
-        "20260715",
-        67.5
-      ],
-      [
         "20260716",
         67.5
       ],
@@ -13935,15 +13709,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        67.4
+      ],
+      [
+        "20260801",
         67.4
       ]
     ],
     "207830": [
       [
-        "20260715",
-        66.9
-      ],
-      [
         "20260716",
         66.9
       ],
@@ -14005,15 +13779,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        66.7
+      ],
+      [
+        "20260801",
         66.7
       ]
     ],
     "200005": [
       [
-        "20260715",
-        66.6
-      ],
-      [
         "20260716",
         66.6
       ],
@@ -14075,15 +13849,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        66.6
+      ],
+      [
+        "20260801",
         66.6
       ]
     ],
     "126214": [
       [
-        "20260715",
-        66.4
-      ],
-      [
         "20260716",
         66.4
       ],
@@ -14145,15 +13919,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        66.6
+      ],
+      [
+        "20260801",
         66.6
       ]
     ],
     "210506": [
       [
-        "20260715",
-        65.7
-      ],
-      [
         "20260716",
         65.7
       ],
@@ -14215,15 +13989,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        66.4
+      ],
+      [
+        "20260801",
         66.4
       ]
     ],
     "111815": [
       [
-        "20260715",
-        66.3
-      ],
-      [
         "20260716",
         66.3
       ],
@@ -14285,15 +14059,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        66.2
+      ],
+      [
+        "20260801",
         66.2
       ]
     ],
     "209260": [
       [
-        "20260715",
-        66.2
-      ],
-      [
         "20260716",
         66.2
       ],
@@ -14355,15 +14129,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        65.6
+      ],
+      [
+        "20260801",
         65.6
       ]
     ],
     "126239": [
       [
-        "20260715",
-        65.6
-      ],
-      [
         "20260716",
         65.6
       ],
@@ -14425,15 +14199,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        65.6
+      ],
+      [
+        "20260801",
         65.6
       ]
     ],
     "144684": [
       [
-        "20260715",
-        62.6
-      ],
-      [
         "20260716",
         62.6
       ],
@@ -14495,15 +14269,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        65.5
+      ],
+      [
+        "20260801",
         65.5
       ]
     ],
     "207733": [
       [
-        "20260715",
-        65.5
-      ],
-      [
         "20260716",
         65.5
       ],
@@ -14565,15 +14339,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        65.5
+      ],
+      [
+        "20260801",
         65.5
       ]
     ],
     "208286": [
       [
-        "20260715",
-        65.3
-      ],
-      [
         "20260716",
         65.3
       ],
@@ -14635,15 +14409,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        65.2
+      ],
+      [
+        "20260801",
         65.2
       ]
     ],
     "126774": [
       [
-        "20260715",
-        61.3
-      ],
-      [
         "20260716",
         61.3
       ],
@@ -14705,15 +14479,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        65.2
+      ],
+      [
+        "20260801",
         65.2
       ]
     ],
     "144869": [
       [
-        "20260715",
-        65.2
-      ],
-      [
         "20260716",
         65.2
       ],
@@ -14775,15 +14549,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        65.0
+      ],
+      [
+        "20260801",
         65.0
       ]
     ],
     "209414": [
       [
-        "20260715",
-        60.7
-      ],
-      [
         "20260716",
         60.7
       ],
@@ -14845,15 +14619,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        64.9
+      ],
+      [
+        "20260801",
         64.9
       ]
     ],
     "202058": [
       [
-        "20260715",
-        65.1
-      ],
-      [
         "20260716",
         65.1
       ],
@@ -14915,15 +14689,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        64.8
+      ],
+      [
+        "20260801",
         64.8
       ]
     ],
     "144719": [
       [
-        "20260715",
-        64.4
-      ],
-      [
         "20260716",
         64.4
       ],
@@ -14985,15 +14759,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        64.4
+      ],
+      [
+        "20260801",
         64.4
       ]
     ],
     "208363": [
       [
-        "20260715",
-        64.0
-      ],
-      [
         "20260716",
         64.0
       ],
@@ -15055,15 +14829,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        64.4
+      ],
+      [
+        "20260801",
         64.4
       ]
     ],
     "209920": [
       [
-        "20260715",
-        63.6
-      ],
-      [
         "20260716",
         63.6
       ],
@@ -15125,15 +14899,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        64.1
+      ],
+      [
+        "20260801",
         64.1
       ]
     ],
     "105870": [
       [
-        "20260715",
-        62.7
-      ],
-      [
         "20260716",
         62.7
       ],
@@ -15195,15 +14969,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        63.3
+      ],
+      [
+        "20260801",
         63.3
       ]
     ],
     "134868": [
       [
-        "20260715",
-        64.2
-      ],
-      [
         "20260716",
         64.2
       ],
@@ -15265,15 +15039,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        63.1
+      ],
+      [
+        "20260801",
         63.1
       ]
     ],
     "210084": [
       [
-        "20260715",
-        62.8
-      ],
-      [
         "20260716",
         62.8
       ],
@@ -15335,15 +15109,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        63.0
+      ],
+      [
+        "20260801",
         63.0
       ]
     ],
     "209098": [
       [
-        "20260715",
-        63.4
-      ],
-      [
         "20260716",
         63.4
       ],
@@ -15405,15 +15179,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        62.9
+      ],
+      [
+        "20260801",
         62.9
       ]
     ],
     "128034": [
       [
-        "20260715",
-        63.2
-      ],
-      [
         "20260716",
         63.2
       ],
@@ -15475,15 +15249,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        62.8
+      ],
+      [
+        "20260801",
         62.8
       ]
     ],
     "209226": [
       [
-        "20260715",
-        61.3
-      ],
-      [
         "20260716",
         61.3
       ],
@@ -15545,15 +15319,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        62.0
+      ],
+      [
+        "20260801",
         62.0
       ]
     ],
     "132686": [
       [
-        "20260715",
-        61.5
-      ],
-      [
         "20260716",
         61.5
       ],
@@ -15615,15 +15389,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        61.9
+      ],
+      [
+        "20260801",
         61.9
       ]
     ],
     "200267": [
       [
-        "20260715",
-        61.9
-      ],
-      [
         "20260716",
         61.9
       ],
@@ -15685,15 +15459,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        61.8
+      ],
+      [
+        "20260801",
         61.8
       ]
     ],
     "122298": [
       [
-        "20260715",
-        62.2
-      ],
-      [
         "20260716",
         62.2
       ],
@@ -15755,15 +15529,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        60.6
+      ],
+      [
+        "20260801",
         60.6
       ]
     ],
     "207678": [
       [
-        "20260715",
-        61.1
-      ],
-      [
         "20260716",
         61.1
       ],
@@ -15825,15 +15599,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        60.5
+      ],
+      [
+        "20260801",
         60.5
       ]
     ],
     "206681": [
       [
-        "20260715",
-        60.3
-      ],
-      [
         "20260716",
         60.3
       ],
@@ -15895,15 +15669,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        60.1
+      ],
+      [
+        "20260801",
         60.1
       ]
     ],
     "144895": [
       [
-        "20260715",
-        62.1
-      ],
-      [
         "20260716",
         62.1
       ],
@@ -15965,15 +15739,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        60.1
+      ],
+      [
+        "20260801",
         60.1
       ]
     ],
     "202104": [
       [
-        "20260715",
-        59.3
-      ],
-      [
         "20260716",
         59.3
       ],
@@ -16035,15 +15809,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        59.7
+      ],
+      [
+        "20260801",
         59.7
       ]
     ],
     "200240": [
       [
-        "20260715",
-        60.1
-      ],
-      [
         "20260716",
         60.1
       ],
@@ -16105,15 +15879,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        59.5
+      ],
+      [
+        "20260801",
         59.5
       ]
     ],
     "208882": [
       [
-        "20260715",
-        58.2
-      ],
-      [
         "20260716",
         58.2
       ],
@@ -16175,15 +15949,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        59.2
+      ],
+      [
+        "20260801",
         59.2
       ]
     ],
     "111460": [
       [
-        "20260715",
-        54.6
-      ],
-      [
         "20260716",
         54.6
       ],
@@ -16245,15 +16019,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        58.9
+      ],
+      [
+        "20260801",
         58.9
       ]
     ],
     "209279": [
       [
-        "20260715",
-        59.4
-      ],
-      [
         "20260716",
         59.4
       ],
@@ -16315,15 +16089,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        58.7
+      ],
+      [
+        "20260801",
         58.7
       ]
     ],
     "208118": [
       [
-        "20260715",
-        58.5
-      ],
-      [
         "20260716",
         58.5
       ],
@@ -16385,15 +16159,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        58.5
+      ],
+      [
+        "20260801",
         58.5
       ]
     ],
     "202385": [
       [
-        "20260715",
-        58.3
-      ],
-      [
         "20260716",
         58.3
       ],
@@ -16455,15 +16229,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        58.2
+      ],
+      [
+        "20260801",
         58.2
       ]
     ],
     "120770": [
       [
-        "20260715",
-        55.7
-      ],
-      [
         "20260716",
         55.7
       ],
@@ -16525,15 +16299,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        58.1
+      ],
+      [
+        "20260801",
         58.1
       ]
     ],
     "211776": [
       [
-        "20260715",
-        57.8
-      ],
-      [
         "20260716",
         57.8
       ],
@@ -16595,15 +16369,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        57.8
+      ],
+      [
+        "20260801",
         57.8
       ]
     ],
     "105227": [
       [
-        "20260715",
-        57.3
-      ],
-      [
         "20260716",
         57.3
       ],
@@ -16665,15 +16439,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        57.5
+      ],
+      [
+        "20260801",
         57.5
       ]
     ],
     "126504": [
       [
-        "20260715",
-        57.5
-      ],
-      [
         "20260716",
         57.5
       ],
@@ -16735,15 +16509,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        57.5
+      ],
+      [
+        "20260801",
         57.5
       ]
     ],
     "105526": [
       [
-        "20260715",
-        57.6
-      ],
-      [
         "20260716",
         57.6
       ],
@@ -16805,15 +16579,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        57.4
+      ],
+      [
+        "20260801",
         57.4
       ]
     ],
     "111794": [
       [
-        "20260715",
-        58.0
-      ],
-      [
         "20260716",
         58.0
       ],
@@ -16875,15 +16649,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        57.4
+      ],
+      [
+        "20260801",
         57.4
       ]
     ],
     "200059": [
       [
-        "20260715",
-        57.4
-      ],
-      [
         "20260716",
         57.4
       ],
@@ -16945,15 +16719,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        57.4
+      ],
+      [
+        "20260801",
         57.4
       ]
     ],
     "133430": [
       [
-        "20260715",
-        60.4
-      ],
-      [
         "20260716",
         60.4
       ],
@@ -17015,15 +16789,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        57.1
+      ],
+      [
+        "20260801",
         57.1
       ]
     ],
     "105916": [
       [
-        "20260715",
-        57.8
-      ],
-      [
         "20260716",
         57.8
       ],
@@ -17085,15 +16859,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        57.1
+      ],
+      [
+        "20260801",
         57.1
       ]
     ],
     "200175": [
       [
-        "20260715",
-        56.6
-      ],
-      [
         "20260716",
         56.6
       ],
@@ -17155,15 +16929,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        56.6
+      ],
+      [
+        "20260801",
         56.6
       ]
     ],
     "208169": [
       [
-        "20260715",
-        56.6
-      ],
-      [
         "20260716",
         56.6
       ],
@@ -17225,15 +16999,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        56.6
+      ],
+      [
+        "20260801",
         56.6
       ]
     ],
     "105807": [
       [
-        "20260715",
-        56.5
-      ],
-      [
         "20260716",
         56.5
       ],
@@ -17295,15 +17069,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        56.3
+      ],
+      [
+        "20260801",
         56.3
       ]
     ],
     "200116": [
       [
-        "20260715",
-        58.2
-      ],
-      [
         "20260716",
         58.2
       ],
@@ -17365,15 +17139,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        56.2
+      ],
+      [
+        "20260801",
         56.2
       ]
     ],
     "208260": [
       [
-        "20260715",
-        56.3
-      ],
-      [
         "20260716",
         56.3
       ],
@@ -17435,15 +17209,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        55.8
+      ],
+      [
+        "20260801",
         55.8
       ]
     ],
     "200624": [
       [
-        "20260715",
-        55.0
-      ],
-      [
         "20260716",
         55.0
       ],
@@ -17505,15 +17279,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        55.5
+      ],
+      [
+        "20260801",
         55.5
       ]
     ],
     "210262": [
       [
-        "20260715",
-        53.9
-      ],
-      [
         "20260716",
         53.9
       ],
@@ -17575,15 +17349,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        55.4
+      ],
+      [
+        "20260801",
         55.4
       ]
     ],
     "209113": [
       [
-        "20260715",
-        56.2
-      ],
-      [
         "20260716",
         56.2
       ],
@@ -17645,15 +17419,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        55.4
+      ],
+      [
+        "20260801",
         55.4
       ]
     ],
     "208010": [
       [
-        "20260715",
-        55.2
-      ],
-      [
         "20260716",
         55.2
       ],
@@ -17715,15 +17489,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        55.2
+      ],
+      [
+        "20260801",
         55.2
       ]
     ],
     "132283": [
       [
-        "20260715",
-        54.7
-      ],
-      [
         "20260716",
         54.7
       ],
@@ -17785,15 +17559,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        55.1
+      ],
+      [
+        "20260801",
         55.1
       ]
     ],
     "209976": [
       [
-        "20260715",
-        56.6
-      ],
-      [
         "20260716",
         56.6
       ],
@@ -17855,15 +17629,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        55.0
+      ],
+      [
+        "20260801",
         55.0
       ]
     ],
     "210338": [
       [
-        "20260715",
-        55.0
-      ],
-      [
         "20260716",
         55.0
       ],
@@ -17925,15 +17699,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        55.0
+      ],
+      [
+        "20260801",
         55.0
       ]
     ],
     "106218": [
       [
-        "20260715",
-        54.6
-      ],
-      [
         "20260716",
         54.6
       ],
@@ -17995,15 +17769,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        54.8
+      ],
+      [
+        "20260801",
         54.8
       ]
     ],
     "127157": [
       [
-        "20260715",
-        55.0
-      ],
-      [
         "20260716",
         55.0
       ],
@@ -18065,15 +17839,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        54.7
+      ],
+      [
+        "20260801",
         54.7
       ]
     ],
     "105173": [
       [
-        "20260715",
-        54.3
-      ],
-      [
         "20260716",
         54.3
       ],
@@ -18135,15 +17909,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        54.5
+      ],
+      [
+        "20260801",
         54.5
       ]
     ],
     "208029": [
       [
-        "20260715",
-        54.3
-      ],
-      [
         "20260716",
         54.3
       ],
@@ -18205,15 +17979,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        54.2
+      ],
+      [
+        "20260801",
         54.2
       ]
     ],
     "200615": [
       [
-        "20260715",
-        54.0
-      ],
-      [
         "20260716",
         54.0
       ],
@@ -18275,15 +18049,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        54.0
+      ],
+      [
+        "20260801",
         54.0
       ]
     ],
     "209147": [
       [
-        "20260715",
-        53.9
-      ],
-      [
         "20260716",
         53.9
       ],
@@ -18345,15 +18119,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        53.9
+      ],
+      [
+        "20260801",
         53.9
       ]
     ],
     "206736": [
       [
-        "20260715",
-        53.7
-      ],
-      [
         "20260716",
         53.7
       ],
@@ -18415,15 +18189,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        53.7
+      ],
+      [
+        "20260801",
         53.7
       ]
     ],
     "126127": [
       [
-        "20260715",
-        53.5
-      ],
-      [
         "20260716",
         53.5
       ],
@@ -18485,15 +18259,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        53.5
+      ],
+      [
+        "20260801",
         53.5
       ]
     ],
     "208597": [
       [
-        "20260715",
-        53.5
-      ],
-      [
         "20260716",
         53.5
       ],
@@ -18555,15 +18329,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        53.5
+      ],
+      [
+        "20260801",
         53.5
       ]
     ],
     "105882": [
       [
-        "20260715",
-        53.5
-      ],
-      [
         "20260716",
         53.5
       ],
@@ -18625,15 +18399,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        53.5
+      ],
+      [
+        "20260801",
         53.5
       ]
     ],
     "207686": [
       [
-        "20260715",
-        52.2
-      ],
-      [
         "20260716",
         52.2
       ],
@@ -18695,15 +18469,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        53.4
+      ],
+      [
+        "20260801",
         53.4
       ]
     ],
     "207411": [
       [
-        "20260715",
-        56.4
-      ],
-      [
         "20260716",
         56.4
       ],
@@ -18765,15 +18539,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        53.4
+      ],
+      [
+        "20260801",
         53.4
       ]
     ],
     "124187": [
       [
-        "20260715",
-        53.1
-      ],
-      [
         "20260716",
         53.1
       ],
@@ -18835,15 +18609,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        53.1
+      ],
+      [
+        "20260801",
         53.1
       ]
     ],
     "210319": [
       [
-        "20260715",
-        52.8
-      ],
-      [
         "20260716",
         52.8
       ],
@@ -18905,15 +18679,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        53.0
+      ],
+      [
+        "20260801",
         53.0
       ]
     ],
     "207494": [
       [
-        "20260715",
-        53.0
-      ],
-      [
         "20260716",
         53.0
       ],
@@ -18975,15 +18749,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        53.0
+      ],
+      [
+        "20260801",
         53.0
       ]
     ],
     "208233": [
       [
-        "20260715",
-        52.8
-      ],
-      [
         "20260716",
         52.8
       ],
@@ -19045,15 +18819,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        52.7
+      ],
+      [
+        "20260801",
         52.7
       ]
     ],
     "105777": [
       [
-        "20260715",
-        52.2
-      ],
-      [
         "20260716",
         52.2
       ],
@@ -19115,15 +18889,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        52.2
+      ],
+      [
+        "20260801",
         52.2
       ]
     ],
     "105477": [
       [
-        "20260715",
-        51.2
-      ],
-      [
         "20260716",
         51.2
       ],
@@ -19185,15 +18959,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        52.1
+      ],
+      [
+        "20260801",
         52.1
       ]
     ],
     "124186": [
       [
-        "20260715",
-        51.8
-      ],
-      [
         "20260716",
         51.8
       ],
@@ -19255,15 +19029,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        51.8
+      ],
+      [
+        "20260801",
         51.8
       ]
     ],
     "210116": [
       [
-        "20260715",
-        51.7
-      ],
-      [
         "20260716",
         51.7
       ],
@@ -19325,15 +19099,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        51.7
+      ],
+      [
+        "20260801",
         51.7
       ]
     ],
     "206499": [
       [
-        "20260715",
-        54.2
-      ],
-      [
         "20260716",
         54.2
       ],
@@ -19395,15 +19169,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        51.3
+      ],
+      [
+        "20260801",
         51.3
       ]
     ],
     "208353": [
       [
-        "20260715",
-        51.0
-      ],
-      [
         "20260716",
         51.0
       ],
@@ -19465,15 +19239,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        51.0
+      ],
+      [
+        "20260801",
         51.0
       ]
     ],
     "105932": [
       [
-        "20260715",
-        50.6
-      ],
-      [
         "20260716",
         50.6
       ],
@@ -19535,15 +19309,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        50.6
+      ],
+      [
+        "20260801",
         50.6
       ]
     ],
     "210460": [
       [
-        "20260715",
-        50.6
-      ],
-      [
         "20260716",
         50.6
       ],
@@ -19605,15 +19379,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        50.6
+      ],
+      [
+        "20260801",
         50.6
       ]
     ],
     "102093": [
       [
-        "20260715",
-        50.3
-      ],
-      [
         "20260716",
         50.3
       ],
@@ -19675,15 +19449,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        50.3
+      ],
+      [
+        "20260801",
         50.3
       ]
     ],
     "208659": [
       [
-        "20260715",
-        50.0
-      ],
-      [
         "20260716",
         50.0
       ],
@@ -19745,15 +19519,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        50.2
+      ],
+      [
+        "20260801",
         50.2
       ]
     ],
     "207681": [
       [
-        "20260715",
-        50.9
-      ],
-      [
         "20260716",
         50.9
       ],
@@ -19815,15 +19589,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        50.2
+      ],
+      [
+        "20260801",
         50.2
       ]
     ],
     "207182": [
       [
-        "20260715",
-        50.8
-      ],
-      [
         "20260716",
         50.8
       ],
@@ -19885,15 +19659,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        50.1
+      ],
+      [
+        "20260801",
         50.1
       ]
     ],
     "126128": [
       [
-        "20260715",
-        49.2
-      ],
-      [
         "20260716",
         49.2
       ],
@@ -19955,15 +19729,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        49.6
+      ],
+      [
+        "20260801",
         49.6
       ]
     ],
     "207680": [
       [
-        "20260715",
-        49.2
-      ],
-      [
         "20260716",
         49.2
       ],
@@ -20025,15 +19799,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        49.2
+      ],
+      [
+        "20260801",
         49.2
       ]
     ],
     "208014": [
       [
-        "20260715",
-        48.3
-      ],
-      [
         "20260716",
         48.3
       ],
@@ -20095,15 +19869,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        48.8
+      ],
+      [
+        "20260801",
         48.8
       ]
     ],
     "200443": [
       [
-        "20260715",
-        50.6
-      ],
-      [
         "20260716",
         50.6
       ],
@@ -20165,15 +19939,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        48.7
+      ],
+      [
+        "20260801",
         48.7
       ]
     ],
     "209259": [
       [
-        "20260715",
-        48.4
-      ],
-      [
         "20260716",
         48.4
       ],
@@ -20235,15 +20009,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        48.3
+      ],
+      [
+        "20260801",
         48.3
       ]
     ],
     "106000": [
       [
-        "20260715",
-        48.0
-      ],
-      [
         "20260716",
         48.0
       ],
@@ -20305,15 +20079,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        48.0
+      ],
+      [
+        "20260801",
         48.0
       ]
     ],
     "207985": [
       [
-        "20260715",
-        47.9
-      ],
-      [
         "20260716",
         47.9
       ],
@@ -20375,15 +20149,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        47.9
+      ],
+      [
+        "20260801",
         47.9
       ]
     ],
     "208021": [
       [
-        "20260715",
-        47.9
-      ],
-      [
         "20260716",
         47.9
       ],
@@ -20445,15 +20219,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        47.9
+      ],
+      [
+        "20260801",
         47.9
       ]
     ],
     "200514": [
       [
-        "20260715",
-        47.8
-      ],
-      [
         "20260716",
         47.8
       ],
@@ -20515,15 +20289,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        47.8
+      ],
+      [
+        "20260801",
         47.8
       ]
     ],
     "210389": [
       [
-        "20260715",
-        47.6
-      ],
-      [
         "20260716",
         47.6
       ],
@@ -20585,15 +20359,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        47.6
+      ],
+      [
+        "20260801",
         47.6
       ]
     ],
     "105902": [
       [
-        "20260715",
-        48.3
-      ],
-      [
         "20260716",
         48.3
       ],
@@ -20655,15 +20429,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        47.3
+      ],
+      [
+        "20260801",
         47.3
       ]
     ],
     "106426": [
       [
-        "20260715",
-        47.3
-      ],
-      [
         "20260716",
         47.3
       ],
@@ -20725,15 +20499,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        47.3
+      ],
+      [
+        "20260801",
         47.3
       ]
     ],
     "149282": [
       [
-        "20260715",
-        46.5
-      ],
-      [
         "20260716",
         46.5
       ],
@@ -20795,15 +20569,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        46.5
+      ],
+      [
+        "20260801",
         46.5
       ]
     ],
     "126846": [
       [
-        "20260715",
-        45.7
-      ],
-      [
         "20260716",
         45.7
       ],
@@ -20865,15 +20639,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        45.7
+      ],
+      [
+        "20260801",
         45.7
       ]
     ],
     "208316": [
       [
-        "20260715",
-        45.6
-      ],
-      [
         "20260716",
         45.6
       ],
@@ -20935,15 +20709,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        45.4
+      ],
+      [
+        "20260801",
         45.4
       ]
     ],
     "210012": [
       [
-        "20260715",
-        44.8
-      ],
-      [
         "20260716",
         44.8
       ],
@@ -21005,15 +20779,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        44.8
+      ],
+      [
+        "20260801",
         44.8
       ]
     ],
     "104527": [
       [
-        "20260715",
-        44.5
-      ],
-      [
         "20260716",
         44.5
       ],
@@ -21075,15 +20849,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        44.5
+      ],
+      [
+        "20260801",
         44.5
       ]
     ],
     "209857": [
       [
-        "20260715",
-        44.3
-      ],
-      [
         "20260716",
         44.3
       ],
@@ -21145,15 +20919,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        44.3
+      ],
+      [
+        "20260801",
         44.3
       ]
     ],
     "209070": [
       [
-        "20260715",
-        44.5
-      ],
-      [
         "20260716",
         44.5
       ],
@@ -21215,15 +20989,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        44.3
+      ],
+      [
+        "20260801",
         44.3
       ]
     ],
     "124116": [
       [
-        "20260715",
-        44.1
-      ],
-      [
         "20260716",
         44.1
       ],
@@ -21285,15 +21059,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        44.1
+      ],
+      [
+        "20260801",
         44.1
       ]
     ],
     "200384": [
       [
-        "20260715",
-        42.6
-      ],
-      [
         "20260716",
         42.6
       ],
@@ -21355,15 +21129,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        43.8
+      ],
+      [
+        "20260801",
         43.8
       ]
     ],
     "106198": [
       [
-        "20260715",
-        42.5
-      ],
-      [
         "20260716",
         42.5
       ],
@@ -21425,15 +21199,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        42.5
+      ],
+      [
+        "20260801",
         42.5
       ]
     ],
     "200516": [
       [
-        "20260715",
-        40.6
-      ],
-      [
         "20260716",
         40.6
       ],
@@ -21495,15 +21269,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        40.6
+      ],
+      [
+        "20260801",
         40.6
       ]
     ],
     "202261": [
       [
-        "20260715",
-        40.3
-      ],
-      [
         "20260716",
         40.3
       ],
@@ -21565,15 +21339,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        40.3
+      ],
+      [
+        "20260801",
         40.3
       ]
     ],
     "111456": [
       [
-        "20260715",
-        39.1
-      ],
-      [
         "20260716",
         39.1
       ],
@@ -21635,15 +21409,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        39.1
+      ],
+      [
+        "20260801",
         39.1
       ]
     ],
     "123828": [
       [
-        "20260715",
-        39.1
-      ],
-      [
         "20260716",
         39.1
       ],
@@ -21705,6 +21479,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        37.6
+      ],
+      [
+        "20260801",
         37.6
       ]
     ],
@@ -21732,6 +21510,10 @@ window.TENNIS_DATA = {
       [
         "20260731",
         37.2
+      ],
+      [
+        "20260801",
+        37.2
       ]
     ],
     "207608": [
@@ -21758,13 +21540,13 @@ window.TENNIS_DATA = {
       [
         "20260731",
         36.9
+      ],
+      [
+        "20260801",
+        36.9
       ]
     ],
     "208013": [
-      [
-        "20260715",
-        36.2
-      ],
       [
         "20260716",
         36.2
@@ -21827,15 +21609,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        36.2
+      ],
+      [
+        "20260801",
         36.2
       ]
     ],
     "208361": [
       [
-        "20260715",
-        35.8
-      ],
-      [
         "20260716",
         35.8
       ],
@@ -21897,15 +21679,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        35.8
+      ],
+      [
+        "20260801",
         35.8
       ]
     ],
     "200647": [
       [
-        "20260715",
-        35.0
-      ],
-      [
         "20260716",
         35.0
       ],
@@ -21967,15 +21749,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        35.0
+      ],
+      [
+        "20260801",
         35.0
       ]
     ],
     "207352": [
       [
-        "20260715",
-        35.0
-      ],
-      [
         "20260716",
         35.0
       ],
@@ -22037,15 +21819,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        35.0
+      ],
+      [
+        "20260801",
         35.0
       ]
     ],
     "208278": [
       [
-        "20260715",
-        35.0
-      ],
-      [
         "20260716",
         35.0
       ],
@@ -22107,15 +21889,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        35.0
+      ],
+      [
+        "20260801",
         35.0
       ]
     ],
     "200436": [
       [
-        "20260715",
-        35.0
-      ],
-      [
         "20260716",
         35.0
       ],
@@ -22177,15 +21959,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        35.0
+      ],
+      [
+        "20260801",
         35.0
       ]
     ],
     "200711": [
       [
-        "20260715",
-        35.0
-      ],
-      [
         "20260716",
         35.0
       ],
@@ -22247,15 +22029,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        35.0
+      ],
+      [
+        "20260801",
         35.0
       ]
     ],
     "144642": [
       [
-        "20260715",
-        35.0
-      ],
-      [
         "20260716",
         35.0
       ],
@@ -22317,6 +22099,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        35.0
+      ],
+      [
+        "20260801",
         35.0
       ]
     ]
@@ -22324,10 +22110,6 @@ window.TENNIS_DATA = {
   "WTA_SCORE_LOG": {
     "214544": [
       [
-        "20260715",
-        100.0
-      ],
-      [
         "20260716",
         100.0
       ],
@@ -22389,15 +22171,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        100.0
+      ],
+      [
+        "20260801",
         100.0
       ]
     ],
     "214981": [
       [
-        "20260715",
-        93.2
-      ],
-      [
         "20260716",
         93.2
       ],
@@ -22459,15 +22241,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        93.0
+      ],
+      [
+        "20260801",
         93.0
       ]
     ],
     "259799": [
       [
-        "20260715",
-        92.1
-      ],
-      [
         "20260716",
         92.1
       ],
@@ -22529,15 +22311,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        91.8
+      ],
+      [
+        "20260801",
         91.8
       ]
     ],
     "221103": [
       [
-        "20260715",
-        91.4
-      ],
-      [
         "20260716",
         91.4
       ],
@@ -22599,15 +22381,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        91.1
+      ],
+      [
+        "20260801",
         91.1
       ]
     ],
     "216347": [
       [
-        "20260715",
-        90.8
-      ],
-      [
         "20260716",
         90.8
       ],
@@ -22669,15 +22451,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        90.5
+      ],
+      [
+        "20260801",
         90.5
       ]
     ],
     "216146": [
       [
-        "20260715",
-        90.6
-      ],
-      [
         "20260716",
         90.6
       ],
@@ -22739,15 +22521,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        90.3
+      ],
+      [
+        "20260801",
         90.3
       ]
     ],
     "202468": [
       [
-        "20260715",
-        90.3
-      ],
-      [
         "20260716",
         90.3
       ],
@@ -22809,15 +22591,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        90.0
+      ],
+      [
+        "20260801",
         90.0
       ]
     ],
     "202494": [
       [
-        "20260715",
-        90.1
-      ],
-      [
         "20260716",
         90.1
       ],
@@ -22879,15 +22661,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        89.8
+      ],
+      [
+        "20260801",
         89.8
       ]
     ],
     "214096": [
       [
-        "20260715",
-        86.3
-      ],
-      [
         "20260716",
         86.3
       ],
@@ -22949,15 +22731,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        85.8
+      ],
+      [
+        "20260801",
         85.8
       ]
     ],
     "216153": [
       [
-        "20260715",
-        86.1
-      ],
-      [
         "20260716",
         86.1
       ],
@@ -23019,15 +22801,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        85.6
+      ],
+      [
+        "20260801",
         85.6
       ]
     ],
     "201514": [
       [
-        "20260715",
-        85.9
-      ],
-      [
         "20260716",
         85.9
       ],
@@ -23089,15 +22871,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        85.5
+      ],
+      [
+        "20260801",
         85.5
       ]
     ],
     "239475": [
       [
-        "20260715",
-        84.9
-      ],
-      [
         "20260716",
         84.9
       ],
@@ -23159,15 +22941,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        84.4
+      ],
+      [
+        "20260801",
         84.4
       ]
     ],
     "202505": [
       [
-        "20260715",
-        84.5
-      ],
-      [
         "20260716",
         84.5
       ],
@@ -23229,15 +23011,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        84.0
+      ],
+      [
+        "20260801",
         84.0
       ]
     ],
     "201619": [
       [
-        "20260715",
-        81.0
-      ],
-      [
         "20260716",
         81.0
       ],
@@ -23299,15 +23081,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        80.5
+      ],
+      [
+        "20260801",
         80.5
       ]
     ],
     "216081": [
       [
-        "20260715",
-        80.8
-      ],
-      [
         "20260716",
         80.8
       ],
@@ -23369,15 +23151,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        80.4
+      ],
+      [
+        "20260801",
         80.4
       ]
     ],
     "211768": [
       [
-        "20260715",
-        80.4
-      ],
-      [
         "20260716",
         80.4
       ],
@@ -23439,15 +23221,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        79.7
+      ],
+      [
+        "20260801",
         79.7
       ]
     ],
     "215713": [
       [
-        "20260715",
-        80.1
-      ],
-      [
         "20260716",
         80.1
       ],
@@ -23509,15 +23291,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        79.5
+      ],
+      [
+        "20260801",
         79.5
       ]
     ],
     "222328": [
       [
-        "20260715",
-        79.2
-      ],
-      [
         "20260716",
         79.2
       ],
@@ -23579,15 +23361,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        78.5
+      ],
+      [
+        "20260801",
         78.5
       ]
     ],
     "214939": [
       [
-        "20260715",
-        76.9
-      ],
-      [
         "20260716",
         76.9
       ],
@@ -23649,15 +23431,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        76.2
+      ],
+      [
+        "20260801",
         76.2
       ]
     ],
     "210722": [
       [
-        "20260715",
-        76.8
-      ],
-      [
         "20260716",
         76.8
       ],
@@ -23719,15 +23501,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        76.2
+      ],
+      [
+        "20260801",
         76.2
       ]
     ],
     "260300": [
       [
-        "20260715",
-        76.5
-      ],
-      [
         "20260716",
         76.5
       ],
@@ -23789,15 +23571,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        75.7
+      ],
+      [
+        "20260801",
         75.7
       ]
     ],
     "223670": [
       [
-        "20260715",
-        76.0
-      ],
-      [
         "20260716",
         76.0
       ],
@@ -23859,15 +23641,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        75.2
+      ],
+      [
+        "20260801",
         75.2
       ]
     ],
     "201662": [
       [
-        "20260715",
-        74.7
-      ],
-      [
         "20260716",
         74.7
       ],
@@ -23929,15 +23711,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        74.1
+      ],
+      [
+        "20260801",
         74.1
       ]
     ],
     "211148": [
       [
-        "20260715",
-        74.5
-      ],
-      [
         "20260716",
         74.5
       ],
@@ -23999,15 +23781,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        73.6
+      ],
+      [
+        "20260801",
         73.6
       ]
     ],
     "206252": [
       [
-        "20260715",
-        72.4
-      ],
-      [
         "20260716",
         72.4
       ],
@@ -24069,15 +23851,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        72.5
+      ],
+      [
+        "20260801",
         72.5
       ]
     ],
     "213631": [
       [
-        "20260715",
-        73.1
-      ],
-      [
         "20260716",
         73.1
       ],
@@ -24139,15 +23921,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        71.9
+      ],
+      [
+        "20260801",
         71.9
       ]
     ],
     "211533": [
       [
-        "20260715",
-        72.1
-      ],
-      [
         "20260716",
         72.1
       ],
@@ -24209,15 +23991,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        71.2
+      ],
+      [
+        "20260801",
         71.2
       ]
     ],
     "215613": [
       [
-        "20260715",
-        72.0
-      ],
-      [
         "20260716",
         72.0
       ],
@@ -24279,15 +24061,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        71.1
+      ],
+      [
+        "20260801",
         71.1
       ]
     ],
     "221024": [
       [
-        "20260715",
-        70.8
-      ],
-      [
         "20260716",
         70.8
       ],
@@ -24349,15 +24131,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        69.9
+      ],
+      [
+        "20260801",
         69.9
       ]
     ],
     "206420": [
       [
-        "20260715",
-        69.8
-      ],
-      [
         "20260716",
         69.8
       ],
@@ -24419,15 +24201,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        68.8
+      ],
+      [
+        "20260801",
         68.8
       ]
     ],
     "223253": [
       [
-        "20260715",
-        68.8
-      ],
-      [
         "20260716",
         68.8
       ],
@@ -24489,15 +24271,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        67.8
+      ],
+      [
+        "20260801",
         67.8
       ]
     ],
     "211713": [
       [
-        "20260715",
-        69.2
-      ],
-      [
         "20260716",
         69.2
       ],
@@ -24559,15 +24341,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        67.8
+      ],
+      [
+        "20260801",
         67.8
       ]
     ],
     "220367": [
       [
-        "20260715",
-        69.2
-      ],
-      [
         "20260716",
         69.2
       ],
@@ -24629,15 +24411,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        67.0
+      ],
+      [
+        "20260801",
         67.0
       ]
     ],
     "220520": [
       [
-        "20260715",
-        68.2
-      ],
-      [
         "20260716",
         68.2
       ],
@@ -24699,15 +24481,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        67.0
+      ],
+      [
+        "20260801",
         67.0
       ]
     ],
     "215983": [
       [
-        "20260715",
-        67.6
-      ],
-      [
         "20260716",
         67.6
       ],
@@ -24769,15 +24551,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        66.5
+      ],
+      [
+        "20260801",
         66.5
       ]
     ],
     "220548": [
       [
-        "20260715",
-        67.1
-      ],
-      [
         "20260716",
         67.1
       ],
@@ -24839,15 +24621,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        66.4
+      ],
+      [
+        "20260801",
         66.4
       ]
     ],
     "221012": [
       [
-        "20260715",
-        67.4
-      ],
-      [
         "20260716",
         67.4
       ],
@@ -24909,15 +24691,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        66.4
+      ],
+      [
+        "20260801",
         66.4
       ]
     ],
     "215785": [
       [
-        "20260715",
-        67.5
-      ],
-      [
         "20260716",
         67.5
       ],
@@ -24979,15 +24761,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        66.1
+      ],
+      [
+        "20260801",
         66.1
       ]
     ],
     "220704": [
       [
-        "20260715",
-        66.9
-      ],
-      [
         "20260716",
         66.9
       ],
@@ -25049,15 +24831,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        65.8
+      ],
+      [
+        "20260801",
         65.8
       ]
     ],
     "206289": [
       [
-        "20260715",
-        65.8
-      ],
-      [
         "20260716",
         65.8
       ],
@@ -25119,15 +24901,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        65.3
+      ],
+      [
+        "20260801",
         65.3
       ]
     ],
     "223360": [
       [
-        "20260715",
-        65.2
-      ],
-      [
         "20260716",
         65.2
       ],
@@ -25189,15 +24971,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        64.4
+      ],
+      [
+        "20260801",
         64.4
       ]
     ],
     "220716": [
       [
-        "20260715",
-        64.4
-      ],
-      [
         "20260716",
         64.4
       ],
@@ -25259,15 +25041,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        64.3
+      ],
+      [
+        "20260801",
         64.3
       ]
     ],
     "220348": [
       [
-        "20260715",
-        65.5
-      ],
-      [
         "20260716",
         65.5
       ],
@@ -25329,15 +25111,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        63.7
+      ],
+      [
+        "20260801",
         63.7
       ]
     ],
     "221054": [
       [
-        "20260715",
-        66.1
-      ],
-      [
         "20260716",
         66.1
       ],
@@ -25399,15 +25181,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        63.5
+      ],
+      [
+        "20260801",
         63.5
       ]
     ],
     "239383": [
       [
-        "20260715",
-        64.1
-      ],
-      [
         "20260716",
         64.1
       ],
@@ -25469,15 +25251,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        63.4
+      ],
+      [
+        "20260801",
         63.4
       ]
     ],
     "211701": [
       [
-        "20260715",
-        64.7
-      ],
-      [
         "20260716",
         64.7
       ],
@@ -25539,15 +25321,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        63.3
+      ],
+      [
+        "20260801",
         63.3
       ]
     ],
     "211107": [
       [
-        "20260715",
-        64.4
-      ],
-      [
         "20260716",
         64.4
       ],
@@ -25609,15 +25391,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        63.0
+      ],
+      [
+        "20260801",
         63.0
       ]
     ],
     "211337": [
       [
-        "20260715",
-        60.4
-      ],
-      [
         "20260716",
         60.4
       ],
@@ -25679,15 +25461,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        62.8
+      ],
+      [
+        "20260801",
         62.8
       ]
     ],
     "220750": [
       [
-        "20260715",
-        62.1
-      ],
-      [
         "20260716",
         62.1
       ],
@@ -25749,15 +25531,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        62.5
+      ],
+      [
+        "20260801",
         62.5
       ]
     ],
     "202663": [
       [
-        "20260715",
-        65.0
-      ],
-      [
         "20260716",
         65.0
       ],
@@ -25819,15 +25601,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        62.1
+      ],
+      [
+        "20260801",
         62.1
       ]
     ],
     "260172": [
       [
-        "20260715",
-        58.0
-      ],
-      [
         "20260716",
         58.0
       ],
@@ -25889,15 +25671,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        61.7
+      ],
+      [
+        "20260801",
         61.7
       ]
     ],
     "220714": [
       [
-        "20260715",
-        62.8
-      ],
-      [
         "20260716",
         62.8
       ],
@@ -25959,15 +25741,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        61.3
+      ],
+      [
+        "20260801",
         61.3
       ]
     ],
     "211843": [
       [
-        "20260715",
-        61.8
-      ],
-      [
         "20260716",
         61.8
       ],
@@ -26029,15 +25811,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        61.2
+      ],
+      [
+        "20260801",
         61.2
       ]
     ],
     "222045": [
       [
-        "20260715",
-        62.0
-      ],
-      [
         "20260716",
         62.0
       ],
@@ -26099,15 +25881,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        60.2
+      ],
+      [
+        "20260801",
         60.2
       ]
     ],
     "238184": [
       [
-        "20260715",
-        62.9
-      ],
-      [
         "20260716",
         62.9
       ],
@@ -26169,15 +25951,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        59.8
+      ],
+      [
+        "20260801",
         59.8
       ]
     ],
     "214643": [
       [
-        "20260715",
-        61.2
-      ],
-      [
         "20260716",
         61.2
       ],
@@ -26239,15 +26021,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        59.8
+      ],
+      [
+        "20260801",
         59.8
       ]
     ],
     "202499": [
       [
-        "20260715",
-        61.0
-      ],
-      [
         "20260716",
         61.0
       ],
@@ -26309,15 +26091,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        59.7
+      ],
+      [
+        "20260801",
         59.7
       ]
     ],
     "263857": [
       [
-        "20260715",
-        61.0
-      ],
-      [
         "20260716",
         61.0
       ],
@@ -26379,15 +26161,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        59.6
+      ],
+      [
+        "20260801",
         59.6
       ]
     ],
     "233741": [
       [
-        "20260715",
-        60.6
-      ],
-      [
         "20260716",
         60.6
       ],
@@ -26449,15 +26231,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        59.5
+      ],
+      [
+        "20260801",
         59.5
       ]
     ],
     "230319": [
       [
-        "20260715",
-        60.8
-      ],
-      [
         "20260716",
         60.8
       ],
@@ -26519,15 +26301,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        59.3
+      ],
+      [
+        "20260801",
         59.3
       ]
     ],
     "216083": [
       [
-        "20260715",
-        62.3
-      ],
-      [
         "20260716",
         62.3
       ],
@@ -26589,15 +26371,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        59.0
+      ],
+      [
+        "20260801",
         59.0
       ]
     ],
     "203501": [
       [
-        "20260715",
-        62.7
-      ],
-      [
         "20260716",
         62.7
       ],
@@ -26659,15 +26441,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        58.9
+      ],
+      [
+        "20260801",
         58.9
       ]
     ],
     "201696": [
       [
-        "20260715",
-        60.2
-      ],
-      [
         "20260716",
         60.2
       ],
@@ -26729,15 +26511,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        58.7
+      ],
+      [
+        "20260801",
         58.7
       ]
     ],
     "220332": [
       [
-        "20260715",
-        59.9
-      ],
-      [
         "20260716",
         59.9
       ],
@@ -26799,15 +26581,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        58.6
+      ],
+      [
+        "20260801",
         58.6
       ]
     ],
     "203530": [
       [
-        "20260715",
-        60.1
-      ],
-      [
         "20260716",
         60.1
       ],
@@ -26869,15 +26651,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        58.3
+      ],
+      [
+        "20260801",
         58.3
       ]
     ],
     "220309": [
       [
-        "20260715",
-        60.1
-      ],
-      [
         "20260716",
         60.1
       ],
@@ -26939,15 +26721,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        58.3
+      ],
+      [
+        "20260801",
         58.3
       ]
     ],
     "214954": [
       [
-        "20260715",
-        58.6
-      ],
-      [
         "20260716",
         58.6
       ],
@@ -27009,15 +26791,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        57.7
+      ],
+      [
+        "20260801",
         57.7
       ]
     ],
     "221909": [
       [
-        "20260715",
-        59.1
-      ],
-      [
         "20260716",
         59.1
       ],
@@ -27079,15 +26861,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        57.6
+      ],
+      [
+        "20260801",
         57.6
       ]
     ],
     "211817": [
       [
-        "20260715",
-        59.1
-      ],
-      [
         "20260716",
         59.1
       ],
@@ -27149,15 +26931,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        57.5
+      ],
+      [
+        "20260801",
         57.5
       ]
     ],
     "215035": [
       [
-        "20260715",
-        60.4
-      ],
-      [
         "20260716",
         60.4
       ],
@@ -27219,15 +27001,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        57.5
+      ],
+      [
+        "20260801",
         57.5
       ]
     ],
     "214082": [
       [
-        "20260715",
-        58.3
-      ],
-      [
         "20260716",
         58.3
       ],
@@ -27289,15 +27071,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        57.3
+      ],
+      [
+        "20260801",
         57.3
       ]
     ],
     "214388": [
       [
-        "20260715",
-        59.1
-      ],
-      [
         "20260716",
         59.1
       ],
@@ -27359,15 +27141,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        57.3
+      ],
+      [
+        "20260801",
         57.3
       ]
     ],
     "221333": [
       [
-        "20260715",
-        58.4
-      ],
-      [
         "20260716",
         58.4
       ],
@@ -27429,15 +27211,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        57.1
+      ],
+      [
+        "20260801",
         57.1
       ]
     ],
     "201533": [
       [
-        "20260715",
-        58.6
-      ],
-      [
         "20260716",
         58.6
       ],
@@ -27499,15 +27281,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        56.9
+      ],
+      [
+        "20260801",
         56.9
       ]
     ],
     "213710": [
       [
-        "20260715",
-        57.3
-      ],
-      [
         "20260716",
         57.3
       ],
@@ -27569,15 +27351,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        56.1
+      ],
+      [
+        "20260801",
         56.1
       ]
     ],
     "211684": [
       [
-        "20260715",
-        57.9
-      ],
-      [
         "20260716",
         57.9
       ],
@@ -27639,15 +27421,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        56.0
+      ],
+      [
+        "20260801",
         56.0
       ]
     ],
     "238075": [
       [
-        "20260715",
-        58.3
-      ],
-      [
         "20260716",
         58.3
       ],
@@ -27709,15 +27491,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        56.0
+      ],
+      [
+        "20260801",
         56.0
       ]
     ],
     "222601": [
       [
-        "20260715",
-        56.8
-      ],
-      [
         "20260716",
         56.8
       ],
@@ -27779,15 +27561,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        55.9
+      ],
+      [
+        "20260801",
         55.9
       ]
     ],
     "219917": [
       [
-        "20260715",
-        56.8
-      ],
-      [
         "20260716",
         56.8
       ],
@@ -27849,15 +27631,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        55.6
+      ],
+      [
+        "20260801",
         55.6
       ]
     ],
     "222145": [
       [
-        "20260715",
-        56.7
-      ],
-      [
         "20260716",
         56.7
       ],
@@ -27919,15 +27701,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        55.5
+      ],
+      [
+        "20260801",
         55.5
       ]
     ],
     "214040": [
       [
-        "20260715",
-        56.3
-      ],
-      [
         "20260716",
         56.3
       ],
@@ -27989,15 +27771,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        54.8
+      ],
+      [
+        "20260801",
         54.8
       ]
     ],
     "215910": [
       [
-        "20260715",
-        56.4
-      ],
-      [
         "20260716",
         56.4
       ],
@@ -28059,15 +27841,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        54.6
+      ],
+      [
+        "20260801",
         54.6
       ]
     ],
     "221883": [
       [
-        "20260715",
-        57.3
-      ],
-      [
         "20260716",
         57.3
       ],
@@ -28129,15 +27911,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        54.1
+      ],
+      [
+        "20260801",
         54.1
       ]
     ],
     "211651": [
       [
-        "20260715",
-        52.8
-      ],
-      [
         "20260716",
         52.8
       ],
@@ -28199,15 +27981,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        53.5
+      ],
+      [
+        "20260801",
         53.5
       ]
     ],
     "221354": [
       [
-        "20260715",
-        53.9
-      ],
-      [
         "20260716",
         53.9
       ],
@@ -28269,15 +28051,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        52.5
+      ],
+      [
+        "20260801",
         52.5
       ]
     ],
     "201709": [
       [
-        "20260715",
-        53.5
-      ],
-      [
         "20260716",
         53.5
       ],
@@ -28339,15 +28121,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        52.2
+      ],
+      [
+        "20260801",
         52.2
       ]
     ],
     "252499": [
       [
-        "20260715",
-        53.5
-      ],
-      [
         "20260716",
         53.5
       ],
@@ -28409,15 +28191,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        52.2
+      ],
+      [
+        "20260801",
         52.2
       ]
     ],
     "259871": [
       [
-        "20260715",
-        53.3
-      ],
-      [
         "20260716",
         53.3
       ],
@@ -28479,6 +28261,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        51.8
+      ],
+      [
+        "20260801",
         51.8
       ]
     ],
@@ -28506,13 +28292,13 @@ window.TENNIS_DATA = {
       [
         "20260731",
         51.8
+      ],
+      [
+        "20260801",
+        51.8
       ]
     ],
     "213550": [
-      [
-        "20260715",
-        53.1
-      ],
       [
         "20260716",
         53.1
@@ -28575,15 +28361,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        51.5
+      ],
+      [
+        "20260801",
         51.5
       ]
     ],
     "201548": [
       [
-        "20260715",
-        52.5
-      ],
-      [
         "20260716",
         52.5
       ],
@@ -28645,15 +28431,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        51.0
+      ],
+      [
+        "20260801",
         51.0
       ]
     ],
     "213583": [
       [
-        "20260715",
-        52.7
-      ],
-      [
         "20260716",
         52.7
       ],
@@ -28715,15 +28501,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        50.8
+      ],
+      [
+        "20260801",
         50.8
       ]
     ],
     "213887": [
       [
-        "20260715",
-        51.9
-      ],
-      [
         "20260716",
         51.9
       ],
@@ -28785,15 +28571,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        50.4
+      ],
+      [
+        "20260801",
         50.4
       ]
     ],
     "222966": [
       [
-        "20260715",
-        51.2
-      ],
-      [
         "20260716",
         51.2
       ],
@@ -28855,15 +28641,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        49.8
+      ],
+      [
+        "20260801",
         49.8
       ]
     ],
     "215453": [
       [
-        "20260715",
-        51.3
-      ],
-      [
         "20260716",
         51.3
       ],
@@ -28925,15 +28711,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        49.7
+      ],
+      [
+        "20260801",
         49.7
       ]
     ],
     "215872": [
       [
-        "20260715",
-        51.6
-      ],
-      [
         "20260716",
         51.6
       ],
@@ -28995,15 +28781,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        49.5
+      ],
+      [
+        "20260801",
         49.5
       ]
     ],
     "203514": [
       [
-        "20260715",
-        50.2
-      ],
-      [
         "20260716",
         50.2
       ],
@@ -29065,15 +28851,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        48.9
+      ],
+      [
+        "20260801",
         48.9
       ]
     ],
     "247669": [
       [
-        "20260715",
-        50.3
-      ],
-      [
         "20260716",
         50.3
       ],
@@ -29135,15 +28921,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        48.9
+      ],
+      [
+        "20260801",
         48.9
       ]
     ],
     "223194": [
       [
-        "20260715",
-        49.6
-      ],
-      [
         "20260716",
         49.6
       ],
@@ -29205,15 +28991,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        48.5
+      ],
+      [
+        "20260801",
         48.5
       ]
     ],
     "215306": [
       [
-        "20260715",
-        49.8
-      ],
-      [
         "20260716",
         49.8
       ],
@@ -29275,15 +29061,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        48.4
+      ],
+      [
+        "20260801",
         48.4
       ]
     ],
     "215020": [
       [
-        "20260715",
-        49.7
-      ],
-      [
         "20260716",
         49.7
       ],
@@ -29345,15 +29131,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        48.1
+      ],
+      [
+        "20260801",
         48.1
       ]
     ],
     "211685": [
       [
-        "20260715",
-        49.6
-      ],
-      [
         "20260716",
         49.6
       ],
@@ -29415,15 +29201,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        48.0
+      ],
+      [
+        "20260801",
         48.0
       ]
     ],
     "243420": [
       [
-        "20260715",
-        48.6
-      ],
-      [
         "20260716",
         48.6
       ],
@@ -29485,15 +29271,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        47.8
+      ],
+      [
+        "20260801",
         47.8
       ]
     ],
     "221407": [
       [
-        "20260715",
-        50.3
-      ],
-      [
         "20260716",
         50.3
       ],
@@ -29555,15 +29341,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        47.6
+      ],
+      [
+        "20260801",
         47.6
       ]
     ],
     "259733": [
       [
-        "20260715",
-        48.4
-      ],
-      [
         "20260716",
         48.4
       ],
@@ -29625,15 +29411,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        46.7
+      ],
+      [
+        "20260801",
         46.7
       ]
     ],
     "221039": [
       [
-        "20260715",
-        47.4
-      ],
-      [
         "20260716",
         47.4
       ],
@@ -29695,15 +29481,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        46.0
+      ],
+      [
+        "20260801",
         46.0
       ]
     ],
     "215899": [
       [
-        "20260715",
-        48.3
-      ],
-      [
         "20260716",
         48.3
       ],
@@ -29765,15 +29551,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        45.5
+      ],
+      [
+        "20260801",
         45.5
       ]
     ],
     "220465": [
       [
-        "20260715",
-        47.1
-      ],
-      [
         "20260716",
         47.1
       ],
@@ -29835,15 +29621,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        45.4
+      ],
+      [
+        "20260801",
         45.4
       ]
     ],
     "206368": [
       [
-        "20260715",
-        46.6
-      ],
-      [
         "20260716",
         46.6
       ],
@@ -29905,15 +29691,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        45.4
+      ],
+      [
+        "20260801",
         45.4
       ]
     ],
     "214906": [
       [
-        "20260715",
-        47.0
-      ],
-      [
         "20260716",
         47.0
       ],
@@ -29975,15 +29761,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        45.3
+      ],
+      [
+        "20260801",
         45.3
       ]
     ],
     "263644": [
       [
-        "20260715",
-        46.8
-      ],
-      [
         "20260716",
         46.8
       ],
@@ -30045,15 +29831,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        45.1
+      ],
+      [
+        "20260801",
         45.1
       ]
     ],
     "205925": [
       [
-        "20260715",
-        46.4
-      ],
-      [
         "20260716",
         46.4
       ],
@@ -30115,15 +29901,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        44.9
+      ],
+      [
+        "20260801",
         44.9
       ]
     ],
     "222661": [
       [
-        "20260715",
-        46.0
-      ],
-      [
         "20260716",
         46.0
       ],
@@ -30185,15 +29971,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        44.7
+      ],
+      [
+        "20260801",
         44.7
       ]
     ],
     "221257": [
       [
-        "20260715",
-        44.4
-      ],
-      [
         "20260716",
         44.4
       ],
@@ -30255,6 +30041,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        44.5
+      ],
+      [
+        "20260801",
         44.5
       ]
     ],
@@ -30282,13 +30072,13 @@ window.TENNIS_DATA = {
       [
         "20260731",
         44.3
+      ],
+      [
+        "20260801",
+        44.3
       ]
     ],
     "220435": [
-      [
-        "20260715",
-        45.5
-      ],
       [
         "20260716",
         45.5
@@ -30351,15 +30141,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        43.7
+      ],
+      [
+        "20260801",
         43.7
       ]
     ],
     "230870": [
       [
-        "20260715",
-        45.6
-      ],
-      [
         "20260716",
         45.6
       ],
@@ -30421,15 +30211,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        43.7
+      ],
+      [
+        "20260801",
         43.7
       ]
     ],
     "214459": [
       [
-        "20260715",
-        44.6
-      ],
-      [
         "20260716",
         44.6
       ],
@@ -30491,15 +30281,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        42.8
+      ],
+      [
+        "20260801",
         42.8
       ]
     ],
     "223286": [
       [
-        "20260715",
-        44.3
-      ],
-      [
         "20260716",
         44.3
       ],
@@ -30561,15 +30351,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        42.7
+      ],
+      [
+        "20260801",
         42.7
       ]
     ],
     "220722": [
       [
-        "20260715",
-        44.0
-      ],
-      [
         "20260716",
         44.0
       ],
@@ -30631,15 +30421,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        42.3
+      ],
+      [
+        "20260801",
         42.3
       ]
     ],
     "216016": [
       [
-        "20260715",
-        44.3
-      ],
-      [
         "20260716",
         44.3
       ],
@@ -30701,15 +30491,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        41.9
+      ],
+      [
+        "20260801",
         41.9
       ]
     ],
     "221237": [
       [
-        "20260715",
-        45.5
-      ],
-      [
         "20260716",
         45.5
       ],
@@ -30771,15 +30561,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        41.7
+      ],
+      [
+        "20260801",
         41.7
       ]
     ],
     "223325": [
       [
-        "20260715",
-        42.7
-      ],
-      [
         "20260716",
         42.7
       ],
@@ -30841,15 +30631,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        41.4
+      ],
+      [
+        "20260801",
         41.4
       ]
     ],
     "215936": [
       [
-        "20260715",
-        42.8
-      ],
-      [
         "20260716",
         42.8
       ],
@@ -30911,15 +30701,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        41.0
+      ],
+      [
+        "20260801",
         41.0
       ]
     ],
     "214593": [
       [
-        "20260715",
-        42.4
-      ],
-      [
         "20260716",
         42.4
       ],
@@ -30981,15 +30771,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        40.5
+      ],
+      [
+        "20260801",
         40.5
       ]
     ],
     "220416": [
       [
-        "20260715",
-        41.8
-      ],
-      [
         "20260716",
         41.8
       ],
@@ -31051,15 +30841,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        39.9
+      ],
+      [
+        "20260801",
         39.9
       ]
     ],
     "221406": [
       [
-        "20260715",
-        41.5
-      ],
-      [
         "20260716",
         41.5
       ],
@@ -31121,15 +30911,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        39.8
+      ],
+      [
+        "20260801",
         39.8
       ]
     ],
     "206417": [
       [
-        "20260715",
-        41.3
-      ],
-      [
         "20260716",
         41.3
       ],
@@ -31191,15 +30981,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        39.5
+      ],
+      [
+        "20260801",
         39.5
       ]
     ],
     "206294": [
       [
-        "20260715",
-        40.9
-      ],
-      [
         "20260716",
         40.9
       ],
@@ -31261,15 +31051,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        39.3
+      ],
+      [
+        "20260801",
         39.3
       ]
     ],
     "221124": [
       [
-        "20260715",
-        40.5
-      ],
-      [
         "20260716",
         40.5
       ],
@@ -31331,15 +31121,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        39.1
+      ],
+      [
+        "20260801",
         39.1
       ]
     ],
     "210886": [
       [
-        "20260715",
-        35.0
-      ],
-      [
         "20260716",
         35.0
       ],
@@ -31401,15 +31191,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        38.9
+      ],
+      [
+        "20260801",
         38.9
       ]
     ],
     "222290": [
       [
-        "20260715",
-        38.2
-      ],
-      [
         "20260716",
         38.2
       ],
@@ -31471,15 +31261,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        38.5
+      ],
+      [
+        "20260801",
         38.5
       ]
     ],
     "221985": [
       [
-        "20260715",
-        40.1
-      ],
-      [
         "20260716",
         40.1
       ],
@@ -31541,15 +31331,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        38.5
+      ],
+      [
+        "20260801",
         38.5
       ]
     ],
     "216566": [
       [
-        "20260715",
-        39.7
-      ],
-      [
         "20260716",
         39.7
       ],
@@ -31611,15 +31401,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        38.3
+      ],
+      [
+        "20260801",
         38.3
       ]
     ],
     "219875": [
       [
-        "20260715",
-        39.8
-      ],
-      [
         "20260716",
         39.8
       ],
@@ -31681,15 +31471,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        37.8
+      ],
+      [
+        "20260801",
         37.8
       ]
     ],
     "220662": [
       [
-        "20260715",
-        39.6
-      ],
-      [
         "20260716",
         39.6
       ],
@@ -31751,15 +31541,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        37.6
+      ],
+      [
+        "20260801",
         37.6
       ]
     ],
     "215037": [
       [
-        "20260715",
-        38.7
-      ],
-      [
         "20260716",
         38.7
       ],
@@ -31821,6 +31611,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        37.0
+      ],
+      [
+        "20260801",
         37.0
       ]
     ],
@@ -31848,13 +31642,13 @@ window.TENNIS_DATA = {
       [
         "20260731",
         36.1
+      ],
+      [
+        "20260801",
+        36.1
       ]
     ],
     "221236": [
-      [
-        "20260715",
-        35.0
-      ],
       [
         "20260716",
         35.0
@@ -31917,15 +31711,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        35.0
+      ],
+      [
+        "20260801",
         35.0
       ]
     ],
     "211814": [
       [
-        "20260715",
-        37.0
-      ],
-      [
         "20260716",
         37.0
       ],
@@ -31987,15 +31781,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        35.0
+      ],
+      [
+        "20260801",
         35.0
       ]
     ],
     "221307": [
       [
-        "20260715",
-        35.0
-      ],
-      [
         "20260716",
         35.0
       ],
@@ -32057,15 +31851,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        35.0
+      ],
+      [
+        "20260801",
         35.0
       ]
     ],
     "215138": [
       [
-        "20260715",
-        35.7
-      ],
-      [
         "20260716",
         35.7
       ],
@@ -32127,15 +31921,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        35.0
+      ],
+      [
+        "20260801",
         35.0
       ]
     ],
     "223168": [
       [
-        "20260715",
-        36.0
-      ],
-      [
         "20260716",
         36.0
       ],
@@ -32197,15 +31991,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        35.0
+      ],
+      [
+        "20260801",
         35.0
       ]
     ],
     "202684": [
       [
-        "20260715",
-        35.7
-      ],
-      [
         "20260716",
         35.7
       ],
@@ -32267,15 +32061,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        35.0
+      ],
+      [
+        "20260801",
         35.0
       ]
     ],
     "223333": [
       [
-        "20260715",
-        35.0
-      ],
-      [
         "20260716",
         35.0
       ],
@@ -32337,15 +32131,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        35.0
+      ],
+      [
+        "20260801",
         35.0
       ]
     ],
     "222233": [
       [
-        "20260715",
-        35.9
-      ],
-      [
         "20260716",
         35.9
       ],
@@ -32407,15 +32201,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        35.0
+      ],
+      [
+        "20260801",
         35.0
       ]
     ],
     "214461": [
       [
-        "20260715",
-        36.3
-      ],
-      [
         "20260716",
         36.3
       ],
@@ -32477,6 +32271,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        35.0
+      ],
+      [
+        "20260801",
         35.0
       ]
     ],
@@ -32528,13 +32326,13 @@ window.TENNIS_DATA = {
       [
         "20260731",
         35.0
+      ],
+      [
+        "20260801",
+        35.0
       ]
     ],
     "215480": [
-      [
-        "20260715",
-        36.3
-      ],
       [
         "20260716",
         36.3
@@ -32598,6 +32396,10 @@ window.TENNIS_DATA = {
       [
         "20260731",
         35.0
+      ],
+      [
+        "20260801",
+        35.0
       ]
     ],
     "213666": [
@@ -32647,6 +32449,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260731",
+        35.0
+      ],
+      [
+        "20260801",
         35.0
       ]
     ]
