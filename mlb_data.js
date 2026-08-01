@@ -880,7 +880,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 8
+      "prevRank": 6
     },
     {
       "id": 4684778,
@@ -911,7 +911,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 6
+      "prevRank": 7
     },
     {
       "id": 4905921,
@@ -942,7 +942,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 10
+      "prevRank": 8
     },
     {
       "id": 33712,
@@ -973,7 +973,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 7
+      "prevRank": 9
     },
     {
       "id": 5134581,
@@ -1066,7 +1066,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 9
+      "prevRank": 10
     },
     {
       "id": 32767,
@@ -1940,7 +1940,7 @@ window.MLB_DATA = {
       "pitchingScore": 70,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 9
+      "prevRank": 8
     },
     {
       "id": 33859,
@@ -2181,7 +2181,7 @@ window.MLB_DATA = {
       "pitchingScore": 69,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 10
+      "prevRank": 9
     },
     {
       "id": 38980,
@@ -2272,7 +2272,7 @@ window.MLB_DATA = {
       "pitchingScore": 68,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 8
+      "prevRank": 10
     },
     {
       "id": 39882,
@@ -7475,7 +7475,7 @@ window.MLB_DATA = {
         "gap": 35.1,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 10
+        "prevRank": 8
       },
       {
         "id": 5080761,
@@ -7497,7 +7497,7 @@ window.MLB_DATA = {
         "gap": 35.4,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 8
+        "prevRank": 9
       },
       {
         "id": 33712,
@@ -7519,7 +7519,7 @@ window.MLB_DATA = {
         "gap": 36.1,
         "rings": 0,
         "note": "Multiple elite seasons + several titles needed",
-        "prevRank": 9
+        "prevRank": 10
       }
     ],
     "teams": [
@@ -7897,7 +7897,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-01 07:38 UTC",
+  "LAST_UPDATE": "2026-08-01 08:36 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
