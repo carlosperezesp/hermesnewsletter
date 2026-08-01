@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-01 08:39 UTC
+// Auto-generated 2026-08-01 14:12 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-01 08:39 UTC",
+  "UPDATED": "2026-08-01 14:12 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11365,15 +11365,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Kaitlin Quevedo",
+          "w": "Francesca Jones",
           "w_logo": "",
-          "l": "Francesca Jones",
+          "l": "Kaitlin Quevedo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 46.7,
-          "l_score": 41.0,
+          "scheduled": false,
+          "w_score": 41.0,
+          "l_score": 46.7,
           "match_score": 46.7
         },
         {

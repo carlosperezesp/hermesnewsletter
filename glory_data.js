@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-01 08:39 UTC",
+  "UPDATED": "2026-08-01 14:12 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -135,6 +135,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-20"
     },
     {
+      "id": "rank:afl:LADDER:in:Carlton",
+      "sport": "afl",
+      "detail": "AFL",
+      "anchor": "afl-clasificacion",
+      "text": "Carlton entra en el top-10 · clasificación",
+      "weight": 84,
+      "firstSeen": "2026-08-01"
+    },
+    {
       "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Jalen Green",
       "sport": "nba",
       "detail": "NBA",
@@ -151,15 +160,6 @@ window.GLORY_DATA = {
       "text": "BA Carse entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-07-29"
-    },
-    {
-      "id": "rank:afl:LADDER:in:St Kilda",
-      "sport": "afl",
-      "detail": "AFL",
-      "anchor": "afl-clasificacion",
-      "text": "St Kilda entra en el top-10 · clasificación",
-      "weight": 84,
-      "firstSeen": "2026-07-26"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:CJ Abrams",
@@ -717,7 +717,7 @@ window.GLORY_DATA = {
       "Melbourne",
       "Western Bulldogs",
       "Collingwood",
-      "St Kilda"
+      "Carlton"
     ],
     "cricket:ROAD_TO_GLORY.players": [
       "JJ Bumrah",

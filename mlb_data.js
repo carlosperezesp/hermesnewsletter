@@ -1144,12 +1144,12 @@ window.MLB_DATA = {
       "score": 82,
       "stats": {
         "type": "batting",
-        "ab": 384,
+        "ab": 385,
         "hr": 24,
         "rbi": 67,
-        "avg": 0.292,
+        "avg": 0.291,
         "sb": 6,
-        "ops": 0.942
+        "ops": 0.94
       },
       "legendScore": 92.1,
       "currentScore": 100.0,
@@ -2685,7 +2685,7 @@ window.MLB_DATA = {
         "era": 3.57,
         "ip": 128.2,
         "so": 157,
-        "whip": 1.18
+        "whip": 1.19
       },
       "legendScore": 41.9,
       "currentScore": 66,
@@ -5305,36 +5305,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 4414002,
-      "name": "J.T. Ginn",
-      "first": "J.T.",
-      "last": "Ginn",
-      "pos": "SP",
-      "teamCode": "ATH",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4414002.png",
-      "colors": {
-        "primary": "#003831",
-        "secondary": "#efb21e"
-      },
-      "score": 52,
-      "stats": {
-        "type": "pitching",
-        "g": 22,
-        "w": 8,
-        "era": 3.46,
-        "ip": 109.1,
-        "so": 100,
-        "whip": 1.22
-      },
-      "legendScore": 33.4,
-      "currentScore": 52,
-      "battingScore": null,
-      "pitchingScore": 52,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 34995,
       "name": "Trent Grisham",
       "first": "Trent",
@@ -5721,36 +5691,6 @@ window.MLB_DATA = {
       "currentScore": 50,
       "battingScore": 50,
       "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 4297897,
-      "name": "Emerson Hancock",
-      "first": "Emerson",
-      "last": "Hancock",
-      "pos": "SP",
-      "teamCode": "SEA",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4297897.png",
-      "colors": {
-        "primary": "#0c2c56",
-        "secondary": "#005c5c"
-      },
-      "score": 49,
-      "stats": {
-        "type": "pitching",
-        "g": 20,
-        "w": 6,
-        "era": 3.26,
-        "ip": 110.1,
-        "so": 102,
-        "whip": 1.04
-      },
-      "legendScore": 31.8,
-      "currentScore": 49,
-      "battingScore": null,
-      "pitchingScore": 49,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -6595,36 +6535,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 40937,
-      "name": "Dustin May",
-      "first": "Dustin",
-      "last": "May",
-      "pos": "SP",
-      "teamCode": "STL",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40937.png",
-      "colors": {
-        "primary": "#c41e3a",
-        "secondary": "#0c2340"
-      },
-      "score": 41,
-      "stats": {
-        "type": "pitching",
-        "g": 21,
-        "w": 5,
-        "era": 4.38,
-        "ip": 109.0,
-        "so": 106,
-        "whip": 1.28
-      },
-      "legendScore": 28.2,
-      "currentScore": 41,
-      "battingScore": null,
-      "pitchingScore": 41,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 4417208,
       "name": "Noah Cameron",
       "first": "Noah",
@@ -6715,36 +6625,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 39640,
-      "name": "Trevor Rogers",
-      "first": "Trevor",
-      "last": "Rogers",
-      "pos": "SP",
-      "teamCode": "BAL",
-      "age": 28,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39640.png",
-      "colors": {
-        "primary": "#df4601",
-        "secondary": "#000000"
-      },
-      "score": 41,
-      "stats": {
-        "type": "pitching",
-        "g": 20,
-        "w": 6,
-        "era": 4.27,
-        "ip": 109.2,
-        "so": 89,
-        "whip": 1.28
-      },
-      "legendScore": 28.2,
-      "currentScore": 41,
-      "battingScore": null,
-      "pitchingScore": 41,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 39825,
       "name": "Freddy Peralta",
       "first": "Freddy",
@@ -6768,36 +6648,6 @@ window.MLB_DATA = {
         "whip": 1.48
       },
       "legendScore": 29.3,
-      "currentScore": 40,
-      "battingScore": null,
-      "pitchingScore": 40,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 32968,
-      "name": "Merrill Kelly",
-      "first": "Merrill",
-      "last": "Kelly",
-      "pos": "SP",
-      "teamCode": "ARI",
-      "age": 37,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32968.png",
-      "colors": {
-        "primary": "#a71930",
-        "secondary": "#e3d4ad"
-      },
-      "score": 40,
-      "stats": {
-        "type": "pitching",
-        "g": 19,
-        "w": 8,
-        "era": 4.86,
-        "ip": 109.1,
-        "so": 71,
-        "whip": 1.45
-      },
-      "legendScore": 35.2,
       "currentScore": 40,
       "battingScore": null,
       "pitchingScore": 40,
@@ -7897,7 +7747,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-01 08:36 UTC",
+  "LAST_UPDATE": "2026-08-01 14:10 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

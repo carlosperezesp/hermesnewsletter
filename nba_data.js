@@ -5271,7 +5271,7 @@ window.NBA_DATA = {
       "last": "Bryant",
       "pos": "C",
       "teamCode": "CLE",
-      "age": 28,
+      "age": 29,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3934723.png",
       "colors": {
         "primary": "#860038",
@@ -5287,7 +5287,7 @@ window.NBA_DATA = {
         "blk": 0.1,
         "min": 4.6
       },
-      "legendScore": 32.4
+      "legendScore": 33.4
     },
     {
       "id": 4067017,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-08-01 08:36 UTC",
+  "LAST_UPDATE": "2026-08-01 14:10 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
