@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-01 14:49 UTC
+// Auto-generated 2026-08-01 21:11 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-01 14:49 UTC",
+  "UPDATED": "2026-08-01 21:11 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5897,7 +5897,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Mubadala DC Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 75.2
@@ -8731,7 +8731,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Axeria Open 2026 powered by Intaro Sport",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 46.7
@@ -9181,7 +9181,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Axeria Open 2026 powered by Intaro Sport",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 42.8
@@ -9253,7 +9253,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "The Memphis Classic",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 42.3
@@ -9393,7 +9393,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Axeria Open 2026 powered by Intaro Sport",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 41.0
@@ -11290,24 +11290,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Diana Shnaider",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.0,
           "l_score": 75.2,
           "match_score": 90.0
         },
         {
           "round": "Semifinal",
-          "w": "Naomi Osaka",
+          "w": "Alexandra Eala",
           "w_logo": "",
-          "l": "Alexandra Eala",
+          "l": "Naomi Osaka",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 79.7,
-          "l_score": 67.8,
+          "scheduled": false,
+          "w_score": 67.8,
+          "l_score": 79.7,
           "match_score": 79.7
         }
       ]
@@ -11323,9 +11323,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Darja Vidmanova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 50.4,
           "l_score": 35.0,
           "match_score": 50.4
@@ -11345,15 +11345,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Semifinal",
-          "w": "Elvina Kalieva",
+          "w": "Kristina Liutova",
           "w_logo": "",
-          "l": "Kristina Liutova",
+          "l": "Elvina Kalieva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 42.3,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 42.3,
           "match_score": 42.3
         }
       ]
@@ -11365,28 +11365,28 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Francesca Jones",
+          "w": "Kaitlin Quevedo",
           "w_logo": "",
-          "l": "Kaitlin Quevedo",
+          "l": "Francesca Jones",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-5) ret",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 41.0,
-          "l_score": 46.7,
+          "w_score": 46.7,
+          "l_score": 41.0,
           "match_score": 46.7
         },
         {
           "round": "Semifinal",
-          "w": "Lucia Bronzetti",
+          "w": "Laura Samson",
           "w_logo": "",
-          "l": "Laura Samson",
+          "l": "Lucia Bronzetti",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 42.8,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 42.8,
           "match_score": 42.8
         }
       ]
@@ -11683,7 +11683,7 @@ window.TENNIS_DATA = {
       "Zheng Qinwen"
     ],
     "aliveCount": 94,
-    "matchesSeen": 136
+    "matchesSeen": 137
   },
   "ATP_SCORE_LOG": {
     "206173": [

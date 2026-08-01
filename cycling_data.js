@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-01 14:47 UTC
+// Auto-generated 2026-08-01 21:09 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-08-01 14:47 UTC",
+  "UPDATED": "2026-08-01 21:09 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -1113,8 +1113,13 @@ window.CYCLING_DATA = {
       "dateLabel": "1 ago",
       "start": "2026-08-01",
       "end": "2026-08-01",
-      "status": "ongoing",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Remco Evenepoel",
+        "cc3": "BEL",
+        "logo": "https://flagcdn.com/24x18/be.png",
+        "color": "#000000"
+      }
     }
   ],
   "OLYMPIC_ROAD": {
