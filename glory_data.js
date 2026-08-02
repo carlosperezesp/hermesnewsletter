@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-02 08:42 UTC",
+  "UPDATED": "2026-08-02 14:14 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -694,10 +694,10 @@ window.GLORY_DATA = {
       "Fremantle",
       "Sydney",
       "Hawthorn",
+      "Adelaide",
       "Brisbane Lions",
       "Melbourne",
       "Geelong",
-      "Adelaide",
       "Western Bulldogs",
       "Collingwood",
       "Carlton"

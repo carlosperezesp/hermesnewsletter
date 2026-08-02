@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-02 08:41 UTC
+// Auto-generated 2026-08-02 14:14 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-02 08:41 UTC",
+  "UPDATED": "2026-08-02 14:14 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -2524,108 +2524,7 @@ window.ATHLETICS_DATA = {
               "year": 2018
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "1:53.80",
-              "athlete": "Audrey Werro",
-              "country": "SUI",
-              "flag": "https://flagcdn.com/24x18/ch.png",
-              "primary": "#D52B1E",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "1:54.33",
-              "athlete": "Keely Hodgkinson",
-              "country": "GBR",
-              "flag": "https://flagcdn.com/24x18/gb.png",
-              "primary": "#012169",
-              "venue": "Olympiastadion",
-              "date": "07 JUN 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "1:55.60",
-              "athlete": "Femke Broeders-Bol",
-              "country": "NED",
-              "flag": "https://flagcdn.com/24x18/nl.png",
-              "primary": "#AE1C28",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "1:55.65",
-              "athlete": "Ana&#239;s Bourgoin",
-              "country": "FRA",
-              "flag": "https://flagcdn.com/24x18/fr.png",
-              "primary": "#002395",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "1:55.93",
-              "athlete": "Georgia Hunter Bell",
-              "country": "GBR",
-              "flag": "https://flagcdn.com/24x18/gb.png",
-              "primary": "#012169",
-              "venue": "Alexander Stadium",
-              "date": "21 JUN 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "1:56.10",
-              "athlete": "Daily Cooper Gaspar",
-              "country": "CUB",
-              "flag": "https://flagcdn.com/24x18/cu.png",
-              "primary": "#002A8F",
-              "venue": "Alfonso Galvis Duque Stadium",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "1:56.19",
-              "athlete": "Lilian Odira",
-              "country": "KEN",
-              "flag": "https://flagcdn.com/24x18/ke.png",
-              "primary": "#006600",
-              "venue": "Hayward Field",
-              "date": "04 JUL 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "1:56.83",
-              "athlete": "Prudence Sekgodiso",
-              "country": "RSA",
-              "flag": "https://flagcdn.com/24x18/za.png",
-              "primary": "#007749",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "1:56.85",
-              "athlete": "Sanu Jallow",
-              "country": "GAM",
-              "flag": "",
-              "primary": "#4A4745",
-              "venue": "Hayward Field",
-              "date": "13 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "1:56.92",
-              "athlete": "Tsige Duguma",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "1500m_m",

@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-02 08:42 UTC
+// Auto-generated 2026-08-02 14:14 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-02 08:42 UTC",
+  "UPDATED": "2026-08-02 14:14 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8489,10 +8489,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Warsaw T-Mobile Polish Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 48.9
     },
@@ -11267,15 +11267,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Kaitlin Quevedo",
+          "w": "Laura Samson",
           "w_logo": "",
-          "l": "Laura Samson",
+          "l": "Kaitlin Quevedo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 46.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 46.7,
           "match_score": 46.7
         }
       ]
@@ -11534,10 +11534,12 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
+      "Alana Smith",
       "Alevtina Ibragimova",
       "Alexandra Eala",
       "Alice Rame",
       "Alina Korneeva",
+      "Aliona Falei",
       "Alycia Parks",
       "Amelia Paszun",
       "Anastasia Potapova",
@@ -11565,6 +11567,7 @@ window.TENNIS_DATA = {
       "Darja Vidmanova",
       "Diana Shnaider",
       "Diane Parry",
+      "Elena Micic",
       "Elena Ruxandra Bertea",
       "Elena-Gabriela Ruse",
       "Elina Svitolina",
@@ -11601,6 +11604,7 @@ window.TENNIS_DATA = {
       "Laura Samson",
       "Leolia Jeanjean",
       "Leylah Fernandez",
+      "Lia Karatancheva",
       "Linda Fruhvirtova",
       "Linda Klimovicova",
       "Liudmila Samsonova",
@@ -11641,8 +11645,10 @@ window.TENNIS_DATA = {
       "Taylor Townsend",
       "Teodora Kostovic",
       "Tereza Valentova",
+      "Urszula Radwanska",
       "Vendula Valdmannova",
       "Venus Williams",
+      "Veronika Podrez",
       "Victoria Jimenez Kasintseva",
       "Viktoria Hruncakova",
       "Viktorija Golubic",
@@ -11651,10 +11657,12 @@ window.TENNIS_DATA = {
       "Weronika Ewald",
       "Weronika Falkowska",
       "Yelyzaveta Kotliar",
+      "Yuan Yue",
       "Yulia Putintseva",
       "Yuliia Starodubtseva",
       "Zeynep Sonmez",
-      "Zhang Shuai"
+      "Zhang Shuai",
+      "Zuzanna Pawlikowska"
     ],
     "out": [
       "Alesia Breaz",
@@ -11686,8 +11694,8 @@ window.TENNIS_DATA = {
       "Whitney Osuigwe",
       "Zheng Qinwen"
     ],
-    "aliveCount": 121,
-    "matchesSeen": 133
+    "aliveCount": 129,
+    "matchesSeen": 137
   },
   "ATP_SCORE_LOG": {
     "206173": [

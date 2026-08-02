@@ -741,7 +741,7 @@ window.NBA_DATA = {
       "last": "Barnes",
       "pos": "F",
       "teamCode": "TOR",
-      "age": 24,
+      "age": 25,
       "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4433134.png",
       "colors": {
         "primary": "#ce1141",
@@ -757,7 +757,7 @@ window.NBA_DATA = {
         "blk": 1.7,
         "min": 39.0
       },
-      "legendScore": 57.5,
+      "legendScore": 58.5,
       "prevRank": 6
     },
     {
@@ -7299,7 +7299,7 @@ window.NBA_DATA = {
           "primary": "#ce1141",
           "secondary": "#000000"
         },
-        "age": 24,
+        "age": 25,
         "currentScore": 92,
         "projectedScore": 67.7,
         "threshold": 92.1,
@@ -7452,7 +7452,7 @@ window.NBA_DATA = {
   "SEASON": "2025-26",
   "STATS_SCOPE": "playoffs",
   "IMPORTANCE": 9.0,
-  "LAST_UPDATE": "2026-08-02 08:40 UTC",
+  "LAST_UPDATE": "2026-08-02 14:12 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

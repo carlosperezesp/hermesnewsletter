@@ -1145,12 +1145,12 @@ window.MLB_DATA = {
       "score": 82,
       "stats": {
         "type": "batting",
-        "ab": 387,
+        "ab": 388,
         "hr": 24,
         "rbi": 67,
-        "avg": 0.292,
+        "avg": 0.291,
         "sb": 6,
-        "ops": 0.941
+        "ops": 0.939
       },
       "legendScore": 92.1,
       "currentScore": 100.0,
@@ -2961,36 +2961,6 @@ window.MLB_DATA = {
       "currentScore": 64,
       "battingScore": 64,
       "pitchingScore": null,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
-      "id": 4345164,
-      "name": "Max Meyer",
-      "first": "Max",
-      "last": "Meyer",
-      "pos": "SP",
-      "teamCode": "MIA",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4345164.png",
-      "colors": {
-        "primary": "#00a3e0",
-        "secondary": "#ef3340"
-      },
-      "score": 64,
-      "stats": {
-        "type": "pitching",
-        "g": 20,
-        "w": 9,
-        "era": 2.68,
-        "ip": 111.0,
-        "so": 121,
-        "whip": 1.14
-      },
-      "legendScore": 39.9,
-      "currentScore": 64,
-      "battingScore": null,
-      "pitchingScore": 64,
       "twoWayBonus": 0,
       "rings": 0
     },
@@ -6055,36 +6025,6 @@ window.MLB_DATA = {
       "rings": 0
     },
     {
-      "id": 5182933,
-      "name": "Keider Montero",
-      "first": "Keider",
-      "last": "Montero",
-      "pos": "SP",
-      "teamCode": "DET",
-      "age": 26,
-      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5182933.png",
-      "colors": {
-        "primary": "#0c2340",
-        "secondary": "#fa4616"
-      },
-      "score": 46,
-      "stats": {
-        "type": "pitching",
-        "g": 23,
-        "w": 7,
-        "era": 3.34,
-        "ip": 110.1,
-        "so": 79,
-        "whip": 1.02
-      },
-      "legendScore": 29.3,
-      "currentScore": 46,
-      "battingScore": null,
-      "pitchingScore": 46,
-      "twoWayBonus": 0,
-      "rings": 0
-    },
-    {
       "id": 32667,
       "name": "Kevin Gausman",
       "first": "Kevin",
@@ -6571,7 +6511,7 @@ window.MLB_DATA = {
       "last": "Tovar",
       "pos": "SS",
       "teamCode": "COL",
-      "age": 24,
+      "age": 25,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4905919.png",
       "colors": {
         "primary": "#333366",
@@ -6587,7 +6527,7 @@ window.MLB_DATA = {
         "sb": 5,
         "ops": 0.558
       },
-      "legendScore": 24.9,
+      "legendScore": 25.7,
       "currentScore": 41,
       "battingScore": 41,
       "pitchingScore": null,
@@ -7777,7 +7717,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-02 08:40 UTC",
+  "LAST_UPDATE": "2026-08-02 14:12 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

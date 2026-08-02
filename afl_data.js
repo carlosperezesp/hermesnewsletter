@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-02 08:41 UTC
+// Auto-generated 2026-08-02 14:13 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-08-02 08:41 UTC",
+  "UPDATED": "2026-08-02 14:13 UTC",
   "SEASON": "2026",
   "ROUND": 21,
   "IMPORTANCE": 8.4,
@@ -44,6 +44,18 @@ window.AFL_DATA = {
     },
     {
       "rank": 4,
+      "name": "Adelaide",
+      "wins": 13,
+      "losses": 7,
+      "draws": 0,
+      "pts": 52,
+      "percentage": 117.6,
+      "primary": "#002B5C",
+      "secondary": "#CC2031",
+      "prevRank": 7
+    },
+    {
+      "rank": 5,
       "name": "Brisbane Lions",
       "wins": 13,
       "losses": 7,
@@ -55,7 +67,7 @@ window.AFL_DATA = {
       "prevRank": 4
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Melbourne",
       "wins": 13,
       "losses": 7,
@@ -64,10 +76,10 @@ window.AFL_DATA = {
       "percentage": 107.8,
       "primary": "#CC2031",
       "secondary": "#013B9F",
-      "prevRank": 7
+      "prevRank": 5
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Geelong",
       "wins": 12,
       "losses": 8,
@@ -76,18 +88,6 @@ window.AFL_DATA = {
       "percentage": 117.2,
       "primary": "#002A54",
       "secondary": "#FFFFFF",
-      "prevRank": 5
-    },
-    {
-      "rank": 7,
-      "name": "Adelaide",
-      "wins": 12,
-      "losses": 7,
-      "draws": 0,
-      "pts": 48,
-      "percentage": 113.7,
-      "primary": "#002B5C",
-      "secondary": "#CC2031",
       "prevRank": 6
     },
     {
@@ -205,10 +205,10 @@ window.AFL_DATA = {
       "rank": 18,
       "name": "Essendon",
       "wins": 2,
-      "losses": 17,
+      "losses": 18,
       "draws": 0,
       "pts": 8,
-      "percentage": 65.4,
+      "percentage": 64.4,
       "primary": "#CC2031",
       "secondary": "#000000"
     }
@@ -1135,6 +1135,16 @@ window.AFL_DATA = {
       "date": "2026-08-02",
       "hprimary": "#C5002F",
       "aprimary": "#CC2031"
+    },
+    {
+      "hteam": "Essendon",
+      "hscore": 73,
+      "ateam": "Adelaide",
+      "ascore": 145,
+      "winner": "Adelaide",
+      "date": "2026-08-02",
+      "hprimary": "#CC2031",
+      "aprimary": "#002B5C"
     }
   ],
   "CURRENT_CONTENDERS": [
