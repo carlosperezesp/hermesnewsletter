@@ -1,10 +1,10 @@
-// Auto-generated 2026-08-02 14:48 UTC
+// Auto-generated 2026-08-02 21:11 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-08-02 14:48 UTC",
+  "UPDATED": "2026-08-02 21:11 UTC",
   "SEASON": "2026",
   "ROUND": 10,
-  "TOTAL_ROUNDS": 24,
-  "MAX_SEASON_PTS": 600,
+  "TOTAL_ROUNDS": 25,
+  "MAX_SEASON_PTS": 625,
   "IMPORTANCE": 10.0,
   "DRIVERS": [
     {
@@ -24,7 +24,7 @@ window.F1_DATA = {
       "points": 219.0,
       "lastWeekendPoints": 15.0,
       "wins": 0,
-      "score": 36.5,
+      "score": 35.0,
       "stats": {
         "pts": 219.0,
         "wins": 0
@@ -49,7 +49,7 @@ window.F1_DATA = {
       "points": 169.0,
       "lastWeekendPoints": 10.0,
       "wins": 0,
-      "score": 28.2,
+      "score": 27.0,
       "stats": {
         "pts": 169.0,
         "wins": 0
@@ -74,7 +74,7 @@ window.F1_DATA = {
       "points": 160.0,
       "lastWeekendPoints": 6.0,
       "wins": 0,
-      "score": 26.7,
+      "score": 25.6,
       "stats": {
         "pts": 160.0,
         "wins": 0
@@ -99,7 +99,7 @@ window.F1_DATA = {
       "points": 138.0,
       "lastWeekendPoints": 12.0,
       "wins": 0,
-      "score": 23.0,
+      "score": 22.1,
       "stats": {
         "pts": 138.0,
         "wins": 0
@@ -124,7 +124,7 @@ window.F1_DATA = {
       "points": 128.0,
       "lastWeekendPoints": 25.0,
       "wins": 0,
-      "score": 21.3,
+      "score": 20.5,
       "stats": {
         "pts": 128.0,
         "wins": 0
@@ -149,7 +149,7 @@ window.F1_DATA = {
       "points": 109.0,
       "lastWeekendPoints": 18.0,
       "wins": 0,
-      "score": 18.2,
+      "score": 17.4,
       "stats": {
         "pts": 109.0,
         "wins": 0
@@ -174,7 +174,7 @@ window.F1_DATA = {
       "points": 92.0,
       "lastWeekendPoints": 0.0,
       "wins": 0,
-      "score": 15.3,
+      "score": 14.7,
       "stats": {
         "pts": 92.0,
         "wins": 0
@@ -199,7 +199,7 @@ window.F1_DATA = {
       "points": 68.0,
       "lastWeekendPoints": 8.0,
       "wins": 0,
-      "score": 11.3,
+      "score": 10.9,
       "stats": {
         "pts": 68.0,
         "wins": 0
@@ -224,7 +224,7 @@ window.F1_DATA = {
       "points": 43.0,
       "lastWeekendPoints": 4.0,
       "wins": 0,
-      "score": 7.2,
+      "score": 6.9,
       "stats": {
         "pts": 43.0,
         "wins": 0
@@ -249,7 +249,7 @@ window.F1_DATA = {
       "points": 42.0,
       "lastWeekendPoints": 0.0,
       "wins": 0,
-      "score": 7.0,
+      "score": 6.7,
       "stats": {
         "pts": 42.0,
         "wins": 0
@@ -270,7 +270,7 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "score": 36.5,
+      "score": 35.0,
       "position": 1,
       "age": 20,
       "note": "Líder del campeonato a los 20"
@@ -286,7 +286,7 @@ window.F1_DATA = {
         "secondary": "#000000"
       },
       "team": "",
-      "score": 15.3,
+      "score": 14.7,
       "position": 7,
       "age": 25,
       "note": "Irrumpe a los 25 (P7)"
@@ -302,7 +302,7 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "score": 11.3,
+      "score": 10.9,
       "position": 8,
       "age": 22,
       "note": "Irrumpe a los 22 (P8)"
@@ -318,7 +318,7 @@ window.F1_DATA = {
         "secondary": "#FFFFFF"
       },
       "team": "",
-      "score": 7.2,
+      "score": 6.9,
       "position": 9,
       "age": 24,
       "note": "Irrumpe a los 24 (P9)"
@@ -334,7 +334,7 @@ window.F1_DATA = {
         "secondary": "#FF0000"
       },
       "team": "",
-      "score": 3.2,
+      "score": 3.0,
       "position": 12,
       "age": 23,
       "note": "Irrumpe a los 23 (P12)"
@@ -350,7 +350,7 @@ window.F1_DATA = {
         "secondary": "#E8002D"
       },
       "team": "",
-      "score": 3.0,
+      "score": 2.9,
       "position": 13,
       "age": 21,
       "note": "Irrumpe a los 21 (P13)"
