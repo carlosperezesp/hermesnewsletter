@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-01 22:15 UTC
+// Auto-generated 2026-08-02 07:41 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-08-01 22:15 UTC",
+  "UPDATED": "2026-08-02 07:41 UTC",
   "SEASON": "2026",
   "ROUND": 21,
   "IMPORTANCE": 8.4,
@@ -183,15 +183,26 @@ window.AFL_DATA = {
       "rank": 16,
       "name": "West Coast",
       "wins": 4,
-      "losses": 15,
+      "losses": 16,
       "draws": 0,
       "pts": 16,
-      "percentage": 70.1,
+      "percentage": 70.8,
       "primary": "#002B5C",
       "secondary": "#F5C209"
     },
     {
       "rank": 17,
+      "name": "Richmond",
+      "wins": 3,
+      "losses": 17,
+      "draws": 0,
+      "pts": 12,
+      "percentage": 62.8,
+      "primary": "#FFD200",
+      "secondary": "#000000"
+    },
+    {
+      "rank": 18,
       "name": "Essendon",
       "wins": 2,
       "losses": 17,
@@ -199,17 +210,6 @@ window.AFL_DATA = {
       "pts": 8,
       "percentage": 65.4,
       "primary": "#CC2031",
-      "secondary": "#000000"
-    },
-    {
-      "rank": 18,
-      "name": "Richmond",
-      "wins": 2,
-      "losses": 17,
-      "draws": 0,
-      "pts": 8,
-      "percentage": 60.9,
-      "primary": "#FFD200",
       "secondary": "#000000"
     }
   ],
@@ -1115,6 +1115,16 @@ window.AFL_DATA = {
       "date": "2026-08-01",
       "hprimary": "#0E1E2D",
       "aprimary": "#7B1A4B"
+    },
+    {
+      "hteam": "Richmond",
+      "hscore": 84,
+      "ateam": "West Coast",
+      "ascore": 73,
+      "winner": "Richmond",
+      "date": "2026-08-02",
+      "hprimary": "#FFD200",
+      "aprimary": "#002B5C"
     }
   ],
   "CURRENT_CONTENDERS": [

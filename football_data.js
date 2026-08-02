@@ -1,13 +1,13 @@
-// Auto-generated 2026-08-01 22:16 UTC
+// Auto-generated 2026-08-02 07:43 UTC
 window.FOOTBALL_DATA = {
-  "UPDATED": "2026-08-01 22:16 UTC",
+  "UPDATED": "2026-08-02 07:43 UTC",
   "SEASON": "Men's national teams",
   "SOURCE": {
     "name": "Elo Hermes (World Football Elo) + resultados en vivo de ESPN",
     "notes": "Rating de partida curado; tras cada partido se aplica la fórmula World Football Elo sobre los resultados reales del scoreboard de ESPN.",
-    "through": "2026-08-01 22:16 UTC"
+    "through": "2026-08-02 07:43 UTC"
   },
-  "IMPORTANCE": 9.0,
+  "IMPORTANCE": 6.0,
   "TEAMS": [
     {
       "id": "spain",
@@ -2223,7 +2223,7 @@ window.FOOTBALL_DATA = {
         "rank": 8,
         "era": "2023-present",
         "elo": 2232,
-        "no1Since": "2026-08-01",
+        "no1Since": "2026-08-02",
         "streakYears": 0.0,
         "cycleYears": 1.6,
         "yearsNo1": 1.6,

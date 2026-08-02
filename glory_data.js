@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-01 22:16 UTC",
+  "UPDATED": "2026-08-02 07:44 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -33,14 +33,6 @@ window.GLORY_DATA = {
       "text": "Álex Palou ganó en Grand Prix of Nashville",
       "weight": 100,
       "firstSeen": "2026-07-21"
-    },
-    {
-      "id": "f1:win:Moët & Chandon Belgian Grand Prix:Max Verstappen",
-      "sport": "f1",
-      "detail": "F1",
-      "text": "Max Verstappen ganó el Moët & Chandon Belgian Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-07-18"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
@@ -250,15 +242,6 @@ window.GLORY_DATA = {
       "text": "Chase Burns entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-07-21"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Chris Sale",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "Chris Sale entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-07-18"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:VJ Edgecombe",
