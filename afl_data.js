@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-02 07:41 UTC
+// Auto-generated 2026-08-02 08:41 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-08-02 07:41 UTC",
+  "UPDATED": "2026-08-02 08:41 UTC",
   "SEASON": "2026",
   "ROUND": 21,
   "IMPORTANCE": 8.4,
@@ -56,6 +56,18 @@ window.AFL_DATA = {
     },
     {
       "rank": 5,
+      "name": "Melbourne",
+      "wins": 13,
+      "losses": 7,
+      "draws": 0,
+      "pts": 52,
+      "percentage": 107.8,
+      "primary": "#CC2031",
+      "secondary": "#013B9F",
+      "prevRank": 7
+    },
+    {
+      "rank": 6,
       "name": "Geelong",
       "wins": 12,
       "losses": 8,
@@ -67,7 +79,7 @@ window.AFL_DATA = {
       "prevRank": 5
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Adelaide",
       "wins": 12,
       "losses": 7,
@@ -77,18 +89,6 @@ window.AFL_DATA = {
       "primary": "#002B5C",
       "secondary": "#CC2031",
       "prevRank": 6
-    },
-    {
-      "rank": 7,
-      "name": "Melbourne",
-      "wins": 12,
-      "losses": 7,
-      "draws": 0,
-      "pts": 48,
-      "percentage": 107.8,
-      "primary": "#CC2031",
-      "secondary": "#013B9F",
-      "prevRank": 7
     },
     {
       "rank": 8,
@@ -161,10 +161,10 @@ window.AFL_DATA = {
       "rank": 14,
       "name": "Gold Coast",
       "wins": 7,
-      "losses": 12,
+      "losses": 13,
       "draws": 0,
       "pts": 28,
-      "percentage": 94.8,
+      "percentage": 94.7,
       "primary": "#C5002F",
       "secondary": "#F1B500"
     },
@@ -1125,6 +1125,16 @@ window.AFL_DATA = {
       "date": "2026-08-02",
       "hprimary": "#FFD200",
       "aprimary": "#002B5C"
+    },
+    {
+      "hteam": "Gold Coast",
+      "hscore": 105,
+      "ateam": "Melbourne",
+      "ascore": 114,
+      "winner": "Melbourne",
+      "date": "2026-08-02",
+      "hprimary": "#C5002F",
+      "aprimary": "#CC2031"
     }
   ],
   "CURRENT_CONTENDERS": [

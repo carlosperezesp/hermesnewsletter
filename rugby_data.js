@@ -1,20 +1,45 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-08-02 07:43 UTC",
+  "UPDATED": "2026-08-02 08:41 UTC",
   "LAST_MATCH": "2026-07-18",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 335,
+    "incrementalMatches": 336,
     "teams": 162,
-    "matches": 10030,
+    "matches": 10031,
     "through": "2026-07-18"
   },
   "IMPORTANCE": 7.0,
   "CALENDAR": {
     "recent": [
+      {
+        "date": "2026-07-18",
+        "status": "final",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Argentina",
+          "teamCode": "ARG",
+          "colors": {
+            "primary": "#75aadb",
+            "secondary": "#f6b40e"
+          }
+        },
+        "away": {
+          "name": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#ffffff",
+            "secondary": "#cf142b"
+          }
+        },
+        "homeScore": 24,
+        "awayScore": 31,
+        "venue": "Estadio Único Madre de Ciudades",
+        "city": ""
+      },
       {
         "date": "2026-07-18",
         "status": "final",
@@ -95,6 +120,31 @@ window.RUGBY_DATA = {
         "status": "final",
         "competition": "Nations Championship",
         "home": {
+          "name": "Australia",
+          "teamCode": "AUS",
+          "colors": {
+            "primary": "#ffcd00",
+            "secondary": "#00843d"
+          }
+        },
+        "away": {
+          "name": "Italy",
+          "teamCode": "ITA",
+          "colors": {
+            "primary": "#0066b3",
+            "secondary": "#009246"
+          }
+        },
+        "homeScore": 57,
+        "awayScore": 10,
+        "venue": "HBF Park",
+        "city": "Perth"
+      },
+      {
+        "date": "2026-07-18",
+        "status": "final",
+        "competition": "Nations Championship",
+        "home": {
           "name": "Japan",
           "teamCode": "JPN",
           "colors": {
@@ -116,15 +166,15 @@ window.RUGBY_DATA = {
         "city": "Tokyo"
       },
       {
-        "date": "2026-07-18",
+        "date": "2026-07-11",
         "status": "final",
         "competition": "Nations Championship",
         "home": {
-          "name": "Argentina",
-          "teamCode": "ARG",
+          "name": "Fiji",
+          "teamCode": "FIJ",
           "colors": {
-            "primary": "#75aadb",
-            "secondary": "#f6b40e"
+            "primary": "#6ecff6",
+            "secondary": "#111111"
           }
         },
         "away": {
@@ -135,35 +185,10 @@ window.RUGBY_DATA = {
             "secondary": "#cf142b"
           }
         },
-        "homeScore": 24,
-        "awayScore": 31,
-        "venue": "Estadio Único Madre de Ciudades",
+        "homeScore": 8,
+        "awayScore": 73,
+        "venue": "Hill Dickinson Stadium",
         "city": ""
-      },
-      {
-        "date": "2026-07-18",
-        "status": "final",
-        "competition": "Nations Championship",
-        "home": {
-          "name": "Australia",
-          "teamCode": "AUS",
-          "colors": {
-            "primary": "#ffcd00",
-            "secondary": "#00843d"
-          }
-        },
-        "away": {
-          "name": "Italy",
-          "teamCode": "ITA",
-          "colors": {
-            "primary": "#0066b3",
-            "secondary": "#009246"
-          }
-        },
-        "homeScore": 57,
-        "awayScore": 10,
-        "venue": "HBF Park",
-        "city": "Perth"
       },
       {
         "date": "2026-07-11",
@@ -220,25 +245,25 @@ window.RUGBY_DATA = {
         "status": "final",
         "competition": "Nations Championship",
         "home": {
-          "name": "New Zealand",
-          "teamCode": "NZL",
+          "name": "Argentina",
+          "teamCode": "ARG",
           "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
+            "primary": "#75aadb",
+            "secondary": "#f6b40e"
           }
         },
         "away": {
-          "name": "Italy",
-          "teamCode": "ITA",
+          "name": "Wales",
+          "teamCode": "WAL",
           "colors": {
-            "primary": "#0066b3",
-            "secondary": "#009246"
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
           }
         },
-        "homeScore": 47,
-        "awayScore": 17,
-        "venue": "Hnry Stadium",
-        "city": "Wellington"
+        "homeScore": 35,
+        "awayScore": 21,
+        "venue": "Estadio Bicentenario",
+        "city": "San Juan"
       },
       {
         "date": "2026-07-11",
@@ -270,50 +295,25 @@ window.RUGBY_DATA = {
         "status": "final",
         "competition": "Nations Championship",
         "home": {
-          "name": "Argentina",
-          "teamCode": "ARG",
+          "name": "New Zealand",
+          "teamCode": "NZL",
           "colors": {
-            "primary": "#75aadb",
-            "secondary": "#f6b40e"
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
           }
         },
         "away": {
-          "name": "Wales",
-          "teamCode": "WAL",
+          "name": "Italy",
+          "teamCode": "ITA",
           "colors": {
-            "primary": "#c8102e",
-            "secondary": "#ffffff"
+            "primary": "#0066b3",
+            "secondary": "#009246"
           }
         },
-        "homeScore": 35,
-        "awayScore": 21,
-        "venue": "Estadio Bicentenario",
-        "city": "San Juan"
-      },
-      {
-        "date": "2026-07-11",
-        "status": "final",
-        "competition": "Nations Championship",
-        "home": {
-          "name": "Fiji",
-          "teamCode": "FIJ",
-          "colors": {
-            "primary": "#6ecff6",
-            "secondary": "#111111"
-          }
-        },
-        "away": {
-          "name": "England",
-          "teamCode": "ENG",
-          "colors": {
-            "primary": "#ffffff",
-            "secondary": "#cf142b"
-          }
-        },
-        "homeScore": 8,
-        "awayScore": 73,
-        "venue": "Hill Dickinson Stadium",
-        "city": ""
+        "homeScore": 47,
+        "awayScore": 17,
+        "venue": "Hnry Stadium",
+        "city": "Wellington"
       }
     ],
     "upcoming": [
@@ -659,8 +659,8 @@ window.RUGBY_DATA = {
       "name": "New Zealand",
       "teamCode": "NZL",
       "country": "New Zealand",
-      "elo": 2640.0,
-      "eloRaw": 2640.0,
+      "elo": 2640.1,
+      "eloRaw": 2640.1,
       "lastMatch": "2026-07-18",
       "inactiveDays": 0,
       "peakElo": 2749.6,
@@ -682,8 +682,8 @@ window.RUGBY_DATA = {
       "name": "Ireland",
       "teamCode": "IRE",
       "country": "Ireland",
-      "elo": 2539.6,
-      "eloRaw": 2539.6,
+      "elo": 2539.8,
+      "eloRaw": 2539.8,
       "lastMatch": "2026-07-18",
       "inactiveDays": 0,
       "peakElo": 2684.1,
@@ -728,15 +728,15 @@ window.RUGBY_DATA = {
       "name": "England",
       "teamCode": "ENG",
       "country": "England",
-      "elo": 2424.6,
-      "eloRaw": 2424.6,
+      "elo": 2426.4,
+      "eloRaw": 2426.4,
       "lastMatch": "2026-07-18",
       "inactiveDays": 0,
       "peakElo": 2568.0,
       "peakDate": "2019-10-26",
       "worldCups": 1,
       "record": {
-        "w": 454,
+        "w": 455,
         "l": 307,
         "d": 82
       },
@@ -744,7 +744,7 @@ window.RUGBY_DATA = {
         "primary": "#ffffff",
         "secondary": "#cf142b"
       },
-      "note": "454V-307D-82E · último 2026-07-18 · raw 2425"
+      "note": "455V-307D-82E · último 2026-07-18 · raw 2426"
     },
     {
       "rank": 6,
@@ -820,8 +820,8 @@ window.RUGBY_DATA = {
       "name": "Fiji",
       "teamCode": "FIJ",
       "country": "Fiji",
-      "elo": 2141.9,
-      "eloRaw": 2141.9,
+      "elo": 2142.0,
+      "eloRaw": 2142.0,
       "lastMatch": "2026-07-18",
       "inactiveDays": 0,
       "peakElo": 2249.2,
@@ -843,8 +843,8 @@ window.RUGBY_DATA = {
       "name": "Wales",
       "teamCode": "WAL",
       "country": "Wales",
-      "elo": 2095.4,
-      "eloRaw": 2095.4,
+      "elo": 2093.4,
+      "eloRaw": 2093.4,
       "lastMatch": "2026-07-18",
       "inactiveDays": 0,
       "peakElo": 2470.8,
@@ -852,14 +852,14 @@ window.RUGBY_DATA = {
       "worldCups": 0,
       "record": {
         "w": 415,
-        "l": 360,
+        "l": 361,
         "d": 49
       },
       "colors": {
         "primary": "#c8102e",
         "secondary": "#ffffff"
       },
-      "note": "415V-360D-49E · último 2026-07-18 · raw 2095"
+      "note": "415V-361D-49E · último 2026-07-18 · raw 2093"
     }
   ],
   "ROAD_TO_GLORY": {

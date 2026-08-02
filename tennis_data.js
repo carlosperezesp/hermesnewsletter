@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-02 07:44 UTC
+// Auto-generated 2026-08-02 08:42 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-02 07:44 UTC",
+  "UPDATED": "2026-08-02 08:42 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5181,7 +5181,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 22.2,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5215,7 +5215,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5249,7 +5249,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5283,7 +5283,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5317,7 +5317,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 30.5,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5351,7 +5351,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5453,7 +5453,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5487,7 +5487,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5521,7 +5521,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5555,7 +5555,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5589,7 +5589,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5657,7 +5657,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5759,7 +5759,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5827,7 +5827,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5861,7 +5861,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5963,7 +5963,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5997,7 +5997,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6031,7 +6031,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6065,7 +6065,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6133,7 +6133,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6235,7 +6235,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6405,7 +6405,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6507,7 +6507,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6643,7 +6643,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6711,7 +6711,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6813,7 +6813,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 49,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6881,7 +6881,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7085,7 +7085,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7187,7 +7187,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7221,7 +7221,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7289,7 +7289,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 63,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7427,7 +7427,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7529,7 +7529,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7665,7 +7665,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7767,7 +7767,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8007,7 +8007,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8041,7 +8041,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8143,7 +8143,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "T-Mobile Polish Open",
+        "tournament": "Warsaw T-Mobile Polish Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -8177,7 +8177,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "T-Mobile Polish Open",
+        "tournament": "Warsaw T-Mobile Polish Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -8245,7 +8245,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8349,7 +8349,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8453,7 +8453,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "T-Mobile Polish Open",
+        "tournament": "Warsaw T-Mobile Polish Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -8489,7 +8489,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8525,7 +8525,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8559,7 +8559,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8661,7 +8661,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8695,7 +8695,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8763,7 +8763,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "T-Mobile Polish Open",
+        "tournament": "Warsaw T-Mobile Polish Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -8797,7 +8797,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8867,7 +8867,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 109,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8901,7 +8901,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8971,7 +8971,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9007,7 +9007,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 113,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9041,7 +9041,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9077,7 +9077,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9145,7 +9145,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 117,
       "tournamentStatus": {
-        "tournament": "T-Mobile Polish Open",
+        "tournament": "Warsaw T-Mobile Polish Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -9285,7 +9285,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9321,7 +9321,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9357,7 +9357,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9495,7 +9495,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9565,7 +9565,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9601,7 +9601,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9635,7 +9635,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9743,7 +9743,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9779,7 +9779,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9813,7 +9813,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9955,7 +9955,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10027,7 +10027,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10099,7 +10099,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10135,7 +10135,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "T-Mobile Polish Open",
+        "tournament": "Warsaw T-Mobile Polish Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -10171,7 +10171,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10207,7 +10207,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10243,7 +10243,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10279,7 +10279,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10315,7 +10315,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -11502,7 +11502,7 @@ window.TENNIS_DATA = {
     "matchesSeen": 63
   },
   "WTA_TOURNAMENT": {
-    "name": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · T-Mobile Polish Open",
+    "name": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
     "level": "500",
     "surface": "Hard",
     "tour": "WTA",
@@ -11528,7 +11528,7 @@ window.TENNIS_DATA = {
         "surface": "Hard"
       },
       {
-        "name": "T-Mobile Polish Open",
+        "name": "Warsaw T-Mobile Polish Open",
         "level": "WTA 250",
         "surface": ""
       }

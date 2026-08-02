@@ -880,7 +880,7 @@ window.MLB_DATA = {
       "pitchingScore": 87,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 5
+      "prevRank": 3
     },
     {
       "id": 4416591,
@@ -911,7 +911,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 10
+      "prevRank": 6
     },
     {
       "id": 4684778,
@@ -973,7 +973,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 6
+      "prevRank": 8
     },
     {
       "id": 5134581,
@@ -1004,7 +1004,7 @@ window.MLB_DATA = {
       "pitchingScore": 84,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 3
+      "prevRank": 4
     },
     {
       "id": 4905921,
@@ -1035,7 +1035,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 8
+      "prevRank": 9
     },
     {
       "id": 33712,
@@ -1066,7 +1066,7 @@ window.MLB_DATA = {
       "pitchingScore": null,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 9
+      "prevRank": 10
     },
     {
       "id": 32767,
@@ -1127,7 +1127,7 @@ window.MLB_DATA = {
       "pitchingScore": 83,
       "twoWayBonus": 0,
       "rings": 0,
-      "prevRank": 4
+      "prevRank": 5
     },
     {
       "id": 39832,
@@ -7777,7 +7777,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-02 07:41 UTC",
+  "LAST_UPDATE": "2026-08-02 08:40 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
