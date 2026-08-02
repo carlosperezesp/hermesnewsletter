@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-02 21:12 UTC
+// Auto-generated 2026-08-02 22:16 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-02 21:12 UTC",
+  "UPDATED": "2026-08-02 22:16 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5181,10 +5181,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 22.2,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 100.0
     },
@@ -5317,10 +5317,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 30.5,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 90.5
     },
@@ -5351,10 +5351,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · The Memphis Classic · Axeria Open 2026 powered by Intaro Sport · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 90.3
     },
@@ -6679,7 +6679,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 63.1
@@ -7700,7 +7700,7 @@ window.TENNIS_DATA = {
       "prevListRank": 75,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -9461,7 +9461,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 39.9
@@ -11287,19 +11287,6 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Peyton Stearns",
-          "w_logo": "",
-          "l": "Elena-Gabriela Ruse",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 66.4,
-          "l_score": 57.5,
-          "match_score": 66.4
-        },
-        {
-          "round": "R128",
           "w": "Camila Osorio",
           "w_logo": "",
           "l": "Lucrezia Stefanini",
@@ -11330,7 +11317,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Wang Xiyu",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 4-6 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": 63.4,
@@ -11375,6 +11362,19 @@ window.TENNIS_DATA = {
           "w_score": 58.3,
           "l_score": 54.8,
           "match_score": 58.3
+        },
+        {
+          "round": "R128",
+          "w": "Moyuka Uchijima",
+          "w_logo": "",
+          "l": "Cristina Bucsa",
+          "l_logo": "",
+          "score": "6-3 6-4",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 39.9,
+          "l_score": 56.1,
+          "match_score": 56.1
         }
       ]
     }
@@ -11539,7 +11539,7 @@ window.TENNIS_DATA = {
       "Anna Bondar",
       "Anna Kalinskaya",
       "Antonia Ruzic",
-      "Aoi Ito",
+      "Aryna Sabalenka",
       "Ashlyn Krueger",
       "Bianca Andreescu",
       "Cadence Brace",
@@ -11549,7 +11549,6 @@ window.TENNIS_DATA = {
       "Carol Zhao",
       "Carole Monnet",
       "Catherine McNally",
-      "Cristina Bucsa",
       "Dalma Galfi",
       "Daria Kasatkina",
       "Darja Vidmanova",
@@ -11570,6 +11569,7 @@ window.TENNIS_DATA = {
       "Eva Lys",
       "Francesca Jones",
       "Gabriela Knutson",
+      "Iga Swiatek",
       "Irene Burillo",
       "Iryna Shymanovich",
       "Janice Tjen",
@@ -11605,6 +11605,7 @@ window.TENNIS_DATA = {
       "Magda Linette",
       "Magdalena Frech",
       "Margaux Rouvroy",
+      "Marta Kostyuk",
       "Martyna Kubka",
       "Maya Joint",
       "McCartney Kessler",
@@ -11641,7 +11642,6 @@ window.TENNIS_DATA = {
       "Viktoria Hruncakova",
       "Viktorija Golubic",
       "Wang Xinyu",
-      "Wang Xiyu",
       "Weronika Ewald",
       "Weronika Falkowska",
       "Yelyzaveta Kotliar",
@@ -11655,9 +11655,11 @@ window.TENNIS_DATA = {
     "out": [
       "Alesia Breaz",
       "Ann Li",
+      "Aoi Ito",
       "Ariana Arseneault",
       "Chloe Paquet",
       "Clara Tauson",
+      "Cristina Bucsa",
       "Dalila Spiteri",
       "Darja Semenistaja",
       "Ekaterina Alexandrova",
@@ -11682,11 +11684,12 @@ window.TENNIS_DATA = {
       "Sofya Lansere",
       "Storm Hunter",
       "Venus Williams",
+      "Wang Xiyu",
       "Whitney Osuigwe",
       "Zheng Qinwen"
     ],
     "aliveCount": 128,
-    "matchesSeen": 140
+    "matchesSeen": 143
   },
   "ATP_SCORE_LOG": {
     "206173": [

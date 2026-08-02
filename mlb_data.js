@@ -3,27 +3,6 @@
 window.MLB_DATA = {
   "TEAMS": [
     {
-      "code": "MIL",
-      "city": "Milwaukee Brewers",
-      "shortName": "Milwaukee",
-      "commonName": "Brewers",
-      "conf": "NL",
-      "div": "NL Central",
-      "gp": 110,
-      "w": 69,
-      "l": 41,
-      "winPct": 0.627,
-      "rf": 555,
-      "ra": 417,
-      "rd": 0,
-      "score": 50,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mil.png",
-      "colors": {
-        "primary": "#ffc52f",
-        "secondary": "#12284b"
-      }
-    },
-    {
       "code": "LAD",
       "city": "Los Angeles Dodgers",
       "shortName": "Los Angeles",
@@ -42,6 +21,27 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#005a9c",
         "secondary": "#ef3e42"
+      }
+    },
+    {
+      "code": "MIL",
+      "city": "Milwaukee Brewers",
+      "shortName": "Milwaukee",
+      "commonName": "Brewers",
+      "conf": "NL",
+      "div": "NL Central",
+      "gp": 111,
+      "w": 69,
+      "l": 42,
+      "winPct": 0.622,
+      "rf": 555,
+      "ra": 420,
+      "rd": 0,
+      "score": 50,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mil.png",
+      "colors": {
+        "primary": "#ffc52f",
+        "secondary": "#12284b"
       }
     },
     {
@@ -87,45 +87,45 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "CHC",
-      "city": "Chicago Cubs",
-      "shortName": "Chicago",
-      "commonName": "Cubs",
-      "conf": "NL",
-      "div": "NL Central",
-      "gp": 111,
-      "w": 63,
-      "l": 48,
-      "winPct": 0.568,
-      "rf": 569,
-      "ra": 479,
-      "rd": 0,
-      "score": 45,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png",
-      "colors": {
-        "primary": "#0e3386",
-        "secondary": "#cc3433"
-      }
-    },
-    {
       "code": "NYY",
       "city": "New York Yankees",
       "shortName": "New York",
       "commonName": "Yankees",
       "conf": "AL",
       "div": "AL East",
-      "gp": 111,
-      "w": 62,
+      "gp": 112,
+      "w": 63,
       "l": 49,
-      "winPct": 0.559,
-      "rf": 510,
-      "ra": 424,
+      "winPct": 0.562,
+      "rf": 512,
+      "ra": 425,
       "rd": 0,
       "score": 45,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
       "colors": {
         "primary": "#003087",
         "secondary": "#e4002c"
+      }
+    },
+    {
+      "code": "CHC",
+      "city": "Chicago Cubs",
+      "shortName": "Chicago",
+      "commonName": "Cubs",
+      "conf": "NL",
+      "div": "NL Central",
+      "gp": 112,
+      "w": 63,
+      "l": 49,
+      "winPct": 0.562,
+      "rf": 570,
+      "ra": 481,
+      "rd": 0,
+      "score": 45,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png",
+      "colors": {
+        "primary": "#0e3386",
+        "secondary": "#cc3433"
       }
     },
     {
@@ -177,18 +177,39 @@ window.MLB_DATA = {
       "commonName": "Diamondbacks",
       "conf": "NL",
       "div": "NL West",
-      "gp": 111,
+      "gp": 112,
       "w": 59,
-      "l": 52,
-      "winPct": 0.532,
+      "l": 53,
+      "winPct": 0.527,
       "rf": 508,
-      "ra": 501,
+      "ra": 506,
       "rd": 0,
-      "score": 43,
+      "score": 42,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ari.png",
       "colors": {
         "primary": "#a71930",
         "secondary": "#e3d4ad"
+      }
+    },
+    {
+      "code": "PHI",
+      "city": "Philadelphia Phillies",
+      "shortName": "Philadelphia",
+      "commonName": "Phillies",
+      "conf": "NL",
+      "div": "NL East",
+      "gp": 112,
+      "w": 59,
+      "l": 53,
+      "winPct": 0.527,
+      "rf": 490,
+      "ra": 494,
+      "rd": 0,
+      "score": 42,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/phi.png",
+      "colors": {
+        "primary": "#e81828",
+        "secondary": "#002d72"
       }
     },
     {
@@ -213,27 +234,6 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "PHI",
-      "city": "Philadelphia Phillies",
-      "shortName": "Philadelphia",
-      "commonName": "Phillies",
-      "conf": "NL",
-      "div": "NL East",
-      "gp": 111,
-      "w": 58,
-      "l": 53,
-      "winPct": 0.523,
-      "rf": 482,
-      "ra": 494,
-      "rd": 0,
-      "score": 42,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/phi.png",
-      "colors": {
-        "primary": "#e81828",
-        "secondary": "#002d72"
-      }
-    },
-    {
       "code": "MIA",
       "city": "Miami Marlins",
       "shortName": "Miami",
@@ -252,6 +252,27 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#00a3e0",
         "secondary": "#ef3340"
+      }
+    },
+    {
+      "code": "CLE",
+      "city": "Cleveland Guardians",
+      "shortName": "Cleveland",
+      "commonName": "Guardians",
+      "conf": "AL",
+      "div": "AL Central",
+      "gp": 113,
+      "w": 57,
+      "l": 56,
+      "winPct": 0.504,
+      "rf": 446,
+      "ra": 462,
+      "rd": 0,
+      "score": 40,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cle.png",
+      "colors": {
+        "primary": "#e31937",
+        "secondary": "#002b5c"
       }
     },
     {
@@ -294,27 +315,6 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#002b5c",
         "secondary": "#d31145"
-      }
-    },
-    {
-      "code": "CLE",
-      "city": "Cleveland Guardians",
-      "shortName": "Cleveland",
-      "commonName": "Guardians",
-      "conf": "AL",
-      "div": "AL Central",
-      "gp": 112,
-      "w": 56,
-      "l": 56,
-      "winPct": 0.5,
-      "rf": 441,
-      "ra": 462,
-      "rd": 0,
-      "score": 40,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cle.png",
-      "colors": {
-        "primary": "#e31937",
-        "secondary": "#002b5c"
       }
     },
     {
@@ -402,27 +402,6 @@ window.MLB_DATA = {
       }
     },
     {
-      "code": "BAL",
-      "city": "Baltimore Orioles",
-      "shortName": "Baltimore",
-      "commonName": "Orioles",
-      "conf": "AL",
-      "div": "AL East",
-      "gp": 111,
-      "w": 54,
-      "l": 57,
-      "winPct": 0.486,
-      "rf": 507,
-      "ra": 534,
-      "rd": 0,
-      "score": 39,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bal.png",
-      "colors": {
-        "primary": "#df4601",
-        "secondary": "#000000"
-      }
-    },
-    {
       "code": "SEA",
       "city": "Seattle Mariners",
       "shortName": "Seattle",
@@ -441,6 +420,27 @@ window.MLB_DATA = {
       "colors": {
         "primary": "#0c2c56",
         "secondary": "#005c5c"
+      }
+    },
+    {
+      "code": "BAL",
+      "city": "Baltimore Orioles",
+      "shortName": "Baltimore",
+      "commonName": "Orioles",
+      "conf": "AL",
+      "div": "AL East",
+      "gp": 112,
+      "w": 54,
+      "l": 58,
+      "winPct": 0.482,
+      "rf": 507,
+      "ra": 542,
+      "rd": 0,
+      "score": 39,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bal.png",
+      "colors": {
+        "primary": "#df4601",
+        "secondary": "#000000"
       }
     },
     {
@@ -555,12 +555,12 @@ window.MLB_DATA = {
       "commonName": "Royals",
       "conf": "AL",
       "div": "AL Central",
-      "gp": 112,
+      "gp": 113,
       "w": 46,
-      "l": 66,
-      "winPct": 0.411,
-      "rf": 466,
-      "ra": 568,
+      "l": 67,
+      "winPct": 0.407,
+      "rf": 467,
+      "ra": 576,
       "rd": 0,
       "score": 33,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png",
@@ -597,12 +597,12 @@ window.MLB_DATA = {
       "commonName": "Rockies",
       "conf": "NL",
       "div": "NL West",
-      "gp": 111,
-      "w": 44,
+      "gp": 112,
+      "w": 45,
       "l": 67,
-      "winPct": 0.396,
-      "rf": 530,
-      "ra": 635,
+      "winPct": 0.402,
+      "rf": 538,
+      "ra": 636,
       "rd": 0,
       "score": 32,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/col.png",
@@ -618,14 +618,14 @@ window.MLB_DATA = {
       "commonName": "Angels",
       "conf": "AL",
       "div": "AL West",
-      "gp": 111,
-      "w": 42,
+      "gp": 112,
+      "w": 43,
       "l": 69,
-      "winPct": 0.378,
-      "rf": 467,
+      "winPct": 0.384,
+      "rf": 470,
       "ra": 544,
       "rd": 0,
-      "score": 30,
+      "score": 31,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/laa.png",
       "colors": {
         "primary": "#ba0021",
@@ -7717,7 +7717,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-02 21:10 UTC",
+  "LAST_UPDATE": "2026-08-02 22:14 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
