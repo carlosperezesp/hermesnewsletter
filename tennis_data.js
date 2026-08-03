@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-03 15:31 UTC
+// Auto-generated 2026-08-03 16:06 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-03 15:31 UTC",
+  "UPDATED": "2026-08-03 16:06 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -6099,9 +6099,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 71.1
@@ -8111,7 +8111,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 52.2
@@ -9921,7 +9921,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Mubadala DC Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -11032,19 +11032,6 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Tallon Griekspoor",
-          "w_logo": "",
-          "l": "Lorenzo Sonego",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 63.1,
-          "l_score": 55.1,
-          "match_score": 63.1
-        },
-        {
-          "round": "R128",
           "w": "Hamad Medjedovic",
           "w_logo": "",
           "l": "Juan Manuel Cerundolo",
@@ -11055,6 +11042,19 @@ window.TENNIS_DATA = {
           "w_score": 62.9,
           "l_score": 60.5,
           "match_score": 62.9
+        },
+        {
+          "round": "R128",
+          "w": "Hubert Hurkacz",
+          "w_logo": "",
+          "l": "Marcos Giron",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 62.8,
+          "l_score": 54.8,
+          "match_score": 62.8
         }
       ]
     }
@@ -11338,15 +11338,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Teodora Kostovic",
+          "w": "Martyna Kubka",
           "w_logo": "",
-          "l": "Martyna Kubka",
+          "l": "Teodora Kostovic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 51.8,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 51.8,
           "match_score": 51.8
         },
         {
@@ -11686,7 +11686,7 @@ window.TENNIS_DATA = {
       "Zheng Qinwen"
     ],
     "aliveCount": 99,
-    "matchesSeen": 83
+    "matchesSeen": 84
   },
   "ATP_SCORE_LOG": {
     "206173": [
