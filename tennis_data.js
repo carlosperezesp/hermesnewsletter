@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-03 21:32 UTC
+// Auto-generated 2026-08-03 22:32 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-03 21:32 UTC",
+  "UPDATED": "2026-08-03 22:32 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5623,9 +5623,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "out",
-        "round": "R128",
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 80.5
@@ -6985,7 +6985,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 60.2
@@ -11616,7 +11616,7 @@ window.TENNIS_DATA = {
       "Lia Karatancheva",
       "Linda Klimovicova",
       "Liudmila Samsonova",
-      "Lois Boisson",
+      "Madison Keys",
       "Magda Linette",
       "Magdalena Frech",
       "Maja Chwalinska",
@@ -11679,8 +11679,8 @@ window.TENNIS_DATA = {
       "Kimberly Birrell",
       "Leolia Jeanjean",
       "Linda Fruhvirtova",
+      "Lois Boisson",
       "Lucrezia Stefanini",
-      "Madison Keys",
       "Oleksandra Oliynykova",
       "Peyton Stearns",
       "Sofia Kenin",
@@ -11692,7 +11692,7 @@ window.TENNIS_DATA = {
       "Zheng Qinwen"
     ],
     "aliveCount": 95,
-    "matchesSeen": 96
+    "matchesSeen": 97
   },
   "ATP_SCORE_LOG": {
     "206173": [
