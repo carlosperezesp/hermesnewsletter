@@ -4231,7 +4231,7 @@ window.MLB_DATA = {
       "last": "Bohm",
       "pos": "3B",
       "teamCode": "PHI",
-      "age": 29,
+      "age": 30,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41169.png",
       "colors": {
         "primary": "#e81828",
@@ -4247,7 +4247,7 @@ window.MLB_DATA = {
         "sb": 2,
         "ops": 0.647
       },
-      "legendScore": 37.8,
+      "legendScore": 38.6,
       "currentScore": 57,
       "battingScore": 57,
       "pitchingScore": null,
@@ -7837,7 +7837,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-03 16:04 UTC",
+  "LAST_UPDATE": "2026-08-03 21:30 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
