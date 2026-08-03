@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-02 22:16 UTC",
+  "UPDATED": "2026-08-03 08:44 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -51,15 +51,6 @@ window.GLORY_DATA = {
       "text": "Brazil (1994-2002) es nuevo nº1 · dinastías",
       "weight": 92,
       "firstSeen": "2026-07-22"
-    },
-    {
-      "id": "rank:football:TEAMS:new1:Spain",
-      "sport": "football",
-      "detail": "Fútbol",
-      "anchor": "football-ranking-elo",
-      "text": "Spain es nuevo nº1 · Ranking Elo",
-      "weight": 92,
-      "firstSeen": "2026-07-19"
     },
     {
       "id": "rank:athletics:allTime:400mh_m:in:Alison Dos Santos",
@@ -434,8 +425,8 @@ window.GLORY_DATA = {
       "Juan Soto",
       "Yordan Alvarez",
       "Chris Sale",
-      "CJ Abrams",
       "Jacob Misiorowski",
+      "CJ Abrams",
       "Kyle Schwarber"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
@@ -452,15 +443,15 @@ window.GLORY_DATA = {
     ],
     "mlb:ROAD_TO_GLORY.youngProspects": [
       "Jacob Misiorowski",
-      "James Wood",
       "Sal Stewart",
+      "James Wood",
       "CJ Abrams",
       "Pete Crow-Armstrong",
       "Jordan Walker",
       "Junior Caminero",
+      "Chase Burns",
       "Cam Schlittler",
-      "Nick Kurtz",
-      "Chase Burns"
+      "Nick Kurtz"
     ],
     "nfl:ROAD_TO_GLORY.players": [
       "Matthew Stafford",
