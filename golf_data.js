@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-03 08:43 UTC
+// Auto-generated 2026-08-03 10:10 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-08-03 08:43 UTC",
+  "UPDATED": "2026-08-03 10:10 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -449,7 +449,7 @@ window.GOLF_DATA = {
         "fedexRank": 11,
         "tour": "PGA"
       },
-      "prevRank": null
+      "prevRank": 11
     },
     {
       "id": "rory_mcilroy",
@@ -472,7 +472,7 @@ window.GOLF_DATA = {
         "fedexRank": 12,
         "tour": "PGA"
       },
-      "prevRank": 11
+      "prevRank": 12
     }
   ],
   "PROSPECTS": [
@@ -1065,7 +1065,7 @@ window.GOLF_DATA = {
         "fedexRank": 11,
         "tour": "PGA"
       },
-      "prevRank": null,
+      "prevRank": 5,
       "gapToTop10": 26.1,
       "note": "A 26.1 del top 10 histórico"
     },
@@ -1090,7 +1090,7 @@ window.GOLF_DATA = {
         "fedexRank": 2,
         "tour": "PGA"
       },
-      "prevRank": 5,
+      "prevRank": 6,
       "gapToTop10": 31.8,
       "note": "A 31.8 del top 10 histórico"
     },
@@ -1116,7 +1116,7 @@ window.GOLF_DATA = {
       },
       "gapToTop10": 31.8,
       "note": "A 31.8 del top 10 histórico",
-      "prevRank": 6
+      "prevRank": 7
     },
     {
       "id": "cameron_young",
@@ -1139,7 +1139,7 @@ window.GOLF_DATA = {
         "fedexRank": 3,
         "tour": "PGA"
       },
-      "prevRank": 7,
+      "prevRank": 8,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     },
@@ -1164,7 +1164,7 @@ window.GOLF_DATA = {
         "fedexRank": 5,
         "tour": "PGA"
       },
-      "prevRank": 8,
+      "prevRank": 9,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     },
@@ -1189,7 +1189,7 @@ window.GOLF_DATA = {
         "fedexRank": 7,
         "tour": "PGA"
       },
-      "prevRank": 9,
+      "prevRank": 10,
       "gapToTop10": 37.5,
       "note": "A 37.5 del top 10 histórico"
     }
