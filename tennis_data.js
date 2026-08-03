@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-03 10:12 UTC
+// Auto-generated 2026-08-03 15:31 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-03 10:12 UTC",
+  "UPDATED": "2026-08-03 15:31 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8143,10 +8143,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Warsaw T-Mobile Polish Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.8
     },
@@ -10137,7 +10137,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Warsaw T-Mobile Polish Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11231,9 +11231,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Oleksandra Oliynykova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 74.1,
           "l_score": 64.3,
           "match_score": 74.1
@@ -11279,15 +11279,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Diane Parry",
+          "w": "Kayla Day",
           "w_logo": "",
-          "l": "Kayla Day",
+          "l": "Diane Parry",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 63.7,
-          "l_score": 37.0,
+          "scheduled": false,
+          "w_score": 37.0,
+          "l_score": 63.7,
           "match_score": 63.7
         },
         {
@@ -11355,9 +11355,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Linda Fruhvirtova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 6-4 7-6 (7-5)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.9,
           "l_score": null,
           "match_score": 48.9
@@ -11368,9 +11368,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elena Micic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 7-6 (7-4)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.9,
           "l_score": null,
           "match_score": 48.9
@@ -11381,7 +11381,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Julia Avdeeva",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 35.0,
@@ -11390,11 +11390,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Urszula Radwanska",
+          "w": "Aliona Falei",
           "w_logo": "",
-          "l": "Aliona Falei",
+          "l": "Urszula Radwanska",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11407,9 +11407,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Amelia Paszun",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-0 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11420,9 +11420,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alana Smith",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11564,12 +11564,10 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
-      "Alana Smith",
       "Alexandra Eala",
       "Alina Korneeva",
       "Aliona Falei",
       "Alycia Parks",
-      "Amelia Paszun",
       "Anastasia Potapova",
       "Anhelina Kalinina",
       "Anna Blinkova",
@@ -11590,7 +11588,6 @@ window.TENNIS_DATA = {
       "Diane Parry",
       "Donna Vekic",
       "Ekaterina Alexandrova",
-      "Elena Micic",
       "Elena-Gabriela Ruse",
       "Elina Svitolina",
       "Elisabetta Cocciaretto",
@@ -11603,10 +11600,8 @@ window.TENNIS_DATA = {
       "Gabriela Knutson",
       "Iga Swiatek",
       "Janice Tjen",
-      "Jeline Vandromme",
       "Jessica Bouzas Maneiro",
       "Jessica Pegula",
-      "Julia Avdeeva",
       "Justina Mikulskyte",
       "Kamilla Rakhimova",
       "Karolina Pliskova",
@@ -11621,12 +11616,12 @@ window.TENNIS_DATA = {
       "Leolia Jeanjean",
       "Leylah Fernandez",
       "Lia Karatancheva",
-      "Linda Fruhvirtova",
       "Linda Klimovicova",
       "Liudmila Samsonova",
       "Lois Boisson",
       "Magda Linette",
       "Magdalena Frech",
+      "Marcelina Podlinska",
       "Marta Kostyuk",
       "Martyna Kubka",
       "Maya Joint",
@@ -11654,7 +11649,6 @@ window.TENNIS_DATA = {
       "Taylor Townsend",
       "Teodora Kostovic",
       "Tereza Valentova",
-      "Urszula Radwanska",
       "Vendula Valdmannova",
       "Veronika Podrez",
       "Victoria Jimenez Kasintseva",
@@ -11671,22 +11665,28 @@ window.TENNIS_DATA = {
       "Zuzanna Pawlikowska"
     ],
     "out": [
+      "Alana Smith",
+      "Amelia Paszun",
       "Ann Li",
       "Aoi Ito",
       "Ariana Arseneault",
       "Clara Tauson",
       "Cristina Bucsa",
+      "Elena Micic",
+      "Julia Avdeeva",
       "Julieta Pareja",
       "Kimberly Birrell",
+      "Linda Fruhvirtova",
       "Lucrezia Stefanini",
       "Madison Keys",
       "Sofia Kenin",
+      "Urszula Radwanska",
       "Venus Williams",
       "Wang Xiyu",
       "Zheng Qinwen"
     ],
-    "aliveCount": 105,
-    "matchesSeen": 82
+    "aliveCount": 99,
+    "matchesSeen": 83
   },
   "ATP_SCORE_LOG": {
     "206173": [
