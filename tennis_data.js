@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-04 15:10 UTC
+// Auto-generated 2026-08-04 16:00 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-04 15:10 UTC",
+  "UPDATED": "2026-08-04 16:00 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11393,15 +11393,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Elina Svitolina",
+          "w": "Jessica Bouzas Maneiro",
           "w_logo": "",
-          "l": "Jessica Bouzas Maneiro",
+          "l": "Elina Svitolina",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 89.9,
-          "l_score": 55.4,
+          "scheduled": false,
+          "w_score": 55.4,
+          "l_score": 89.9,
           "match_score": 89.9
         },
         {
