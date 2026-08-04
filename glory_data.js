@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-03 22:32 UTC",
+  "UPDATED": "2026-08-04 07:50 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -108,14 +108,6 @@ window.GLORY_DATA = {
       "text": "Remco Evenepoel ganó la última etapa del Tour de France",
       "weight": 88,
       "firstSeen": "2026-07-21"
-    },
-    {
-      "id": "cycling:stage:Tour de France:15:Remco Evenepoel",
-      "sport": "cycling",
-      "detail": "Ciclismo",
-      "text": "Remco Evenepoel ganó la última etapa del Tour de France",
-      "weight": 88,
-      "firstSeen": "2026-07-20"
     },
     {
       "id": "rank:afl:LADDER:in:Carlton",
@@ -447,11 +439,11 @@ window.GLORY_DATA = {
       "James Wood",
       "CJ Abrams",
       "Pete Crow-Armstrong",
-      "Jordan Walker",
       "Junior Caminero",
+      "Jordan Walker",
       "Chase Burns",
-      "Cam Schlittler",
-      "Nick Kurtz"
+      "Nick Kurtz",
+      "Cam Schlittler"
     ],
     "nfl:ROAD_TO_GLORY.players": [
       "Matthew Stafford",

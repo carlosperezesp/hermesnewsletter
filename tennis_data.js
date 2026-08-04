@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-03 22:32 UTC
+// Auto-generated 2026-08-04 07:50 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-03 22:32 UTC",
+  "UPDATED": "2026-08-04 07:50 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -29,24 +29,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 16.0,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 100.0
     },
     {
       "id": "207989",
       "name": "Carlos Alcaraz",
-      "rank": 3,
+      "rank": 2,
       "prevRank": 3,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
       "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "activeScore": 90.9,
+      "activeScore": 91.1,
       "legendScore": 58.7,
       "age": 23,
       "surface": {
@@ -65,10 +65,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 25.9,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 90.9
     },
@@ -76,7 +76,7 @@ window.TENNIS_DATA = {
       "id": "104925",
       "name": "Novak Djokovic",
       "rank": 5,
-      "prevRank": 7,
+      "prevRank": 5,
       "country": "SRB",
       "logo": "https://flagcdn.com/24x18/rs.png",
       "teamCode": "SRB",
@@ -99,24 +99,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 100.0,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 87.7
     },
     {
       "id": "100644",
       "name": "Alexander Zverev",
-      "rank": 2,
+      "rank": 3,
       "prevRank": 2,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 87.5,
+      "activeScore": 87.4,
       "legendScore": 58.1,
       "age": 29,
       "surface": {
@@ -133,24 +133,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 87.5
     },
     {
       "id": "209950",
       "name": "Arthur Fils",
-      "rank": 22,
-      "prevRank": 23,
+      "rank": 24,
+      "prevRank": 22,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 82.6,
+      "activeScore": 82.3,
       "legendScore": 26.3,
       "age": 22,
       "surface": {
@@ -167,24 +167,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 82.6
     },
     {
       "id": "134770",
       "name": "Casper Ruud",
-      "rank": 13,
+      "rank": 14,
       "prevRank": 13,
       "country": "NOR",
       "logo": "https://flagcdn.com/24x18/no.png",
       "teamCode": "NOR",
       "primary": "#EF2B2D",
       "secondary": "#FFFFFF",
-      "activeScore": 81.2,
+      "activeScore": 81.1,
       "legendScore": 36.6,
       "age": 27,
       "surface": {
@@ -201,10 +201,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 81.2
     },
@@ -212,7 +212,7 @@ window.TENNIS_DATA = {
       "id": "126205",
       "name": "Tommy Paul",
       "rank": 21,
-      "prevRank": 24,
+      "prevRank": 21,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -235,24 +235,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 79.8
     },
     {
       "id": "207518",
       "name": "Lorenzo Musetti",
-      "rank": 15,
+      "rank": 13,
       "prevRank": 15,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
       "primary": "#009246",
       "secondary": "#FFFFFF",
-      "activeScore": 79.5,
+      "activeScore": 79.6,
       "legendScore": 25.6,
       "age": 24,
       "surface": {
@@ -269,7 +269,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R64",
         "reason": ""
@@ -279,14 +279,14 @@ window.TENNIS_DATA = {
     {
       "id": "106421",
       "name": "Daniil Medvedev",
-      "rank": 7,
-      "prevRank": 8,
+      "rank": 6,
+      "prevRank": 7,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 78.8,
+      "activeScore": 78.9,
       "legendScore": 52.8,
       "age": 30,
       "surface": {
@@ -303,24 +303,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 78.8
     },
     {
       "id": "212588",
       "name": "Rafael Jodar",
-      "rank": 24,
-      "prevRank": 25,
+      "rank": 15,
+      "prevRank": 24,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
       "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "activeScore": 77.8,
+      "activeScore": 78.8,
       "legendScore": 23.0,
       "age": 19,
       "surface": {
@@ -337,9 +337,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 77.8
@@ -371,24 +371,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 77.7
     },
     {
       "id": "200282",
       "name": "Alex De Minaur",
-      "rank": 6,
-      "prevRank": 5,
+      "rank": 7,
+      "prevRank": 6,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
       "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 77.0,
+      "activeScore": 76.8,
       "legendScore": 33.8,
       "age": 27,
       "surface": {
@@ -405,7 +405,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R64",
         "reason": ""
@@ -439,46 +439,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 76.4
-    },
-    {
-      "id": "210097",
-      "name": "Ben Shelton",
-      "rank": 8,
-      "prevRank": 6,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 76.1,
-      "legendScore": 27.8,
-      "age": 23,
-      "surface": {
-        "hard": 0.667,
-        "clay": 0.6,
-        "grass": 0.6
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 5,
-        "weeks_no1": 0,
-        "top10_wins": 8
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 14,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R64",
         "reason": ""
       },
-      "prevActiveScore": 76.1
+      "prevActiveScore": 76.4
     },
     {
       "id": "122330",
@@ -505,26 +471,60 @@ window.TENNIS_DATA = {
         "top10_wins": 14
       },
       "leyendaScore": 0.0,
-      "prevListRank": 15,
+      "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 76.0
     },
     {
+      "id": "210097",
+      "name": "Ben Shelton",
+      "rank": 10,
+      "prevRank": 8,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 75.9,
+      "legendScore": 27.8,
+      "age": 23,
+      "surface": {
+        "hard": 0.667,
+        "clay": 0.6,
+        "grass": 0.6
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 5,
+        "weeks_no1": 0,
+        "top10_wins": 8
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 15,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
+      },
+      "prevActiveScore": 76.1
+    },
+    {
       "id": "126203",
       "name": "Taylor Fritz",
-      "rank": 10,
+      "rank": 8,
       "prevRank": 10,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 75.7,
+      "activeScore": 75.8,
       "legendScore": 36.4,
       "age": 28,
       "surface": {
@@ -541,10 +541,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 16,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "F",
-        "reason": ""
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 75.7
     },
@@ -575,24 +575,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 75.6
     },
     {
       "id": "126094",
       "name": "Andrey Rublev",
-      "rank": 14,
+      "rank": 16,
       "prevRank": 14,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 75.2,
+      "activeScore": 75.0,
       "legendScore": 41.5,
       "age": 28,
       "surface": {
@@ -617,44 +617,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 75.2
     },
     {
-      "id": "210530",
-      "name": "Learner Tien",
-      "rank": 16,
-      "prevRank": 16,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 75.0,
-      "legendScore": 25.2,
-      "age": 20,
-      "surface": {
-        "hard": 0.661,
-        "clay": 0.5,
-        "grass": 0.571
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 7
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 19,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 75.0
-    },
-    {
       "id": "200473",
       "name": "Valentin Vacherot",
       "rank": 18,
-      "prevRank": 19,
+      "prevRank": 18,
       "country": "MON",
       "logo": "https://flagcdn.com/24x18/mc.png",
       "teamCode": "MON",
@@ -675,26 +641,60 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
+      "prevListRank": 19,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
+      "prevActiveScore": 75.0
+    },
+    {
+      "id": "210530",
+      "name": "Learner Tien",
+      "rank": 19,
+      "prevRank": 16,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 74.7,
+      "legendScore": 25.2,
+      "age": 20,
+      "surface": {
+        "hard": 0.661,
+        "clay": 0.5,
+        "grass": 0.571
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 7
+      },
+      "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 75.0
     },
     {
       "id": "126207",
       "name": "Frances Tiafoe",
-      "rank": 19,
-      "prevRank": 17,
+      "rank": 20,
+      "prevRank": 19,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 74.5,
+      "activeScore": 74.3,
       "legendScore": 26.0,
       "age": 28,
       "surface": {
@@ -711,24 +711,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 74.5
     },
     {
       "id": "202103",
       "name": "Francisco Cerundolo",
-      "rank": 20,
-      "prevRank": 22,
+      "rank": 23,
+      "prevRank": 20,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
       "primary": "#74ACDF",
       "secondary": "#FFFFFF",
-      "activeScore": 74.1,
+      "activeScore": 73.8,
       "legendScore": 26.3,
       "age": 27,
       "surface": {
@@ -745,10 +745,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 74.1
     },
@@ -756,7 +756,7 @@ window.TENNIS_DATA = {
       "id": "211663",
       "name": "Joao Fonseca",
       "rank": 27,
-      "prevRank": 28,
+      "prevRank": 27,
       "country": "BRA",
       "logo": "https://flagcdn.com/24x18/br.png",
       "teamCode": "BRA",
@@ -779,10 +779,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 73.6
     },
@@ -790,7 +790,7 @@ window.TENNIS_DATA = {
       "id": "210696",
       "name": "Alexander Blockx",
       "rank": 32,
-      "prevRank": 38,
+      "prevRank": 32,
       "country": "BEL",
       "logo": "https://flagcdn.com/24x18/be.png",
       "teamCode": "BEL",
@@ -824,7 +824,7 @@ window.TENNIS_DATA = {
       "id": "200221",
       "name": "Alejandro Davidovich Fokina",
       "rank": 25,
-      "prevRank": 20,
+      "prevRank": 25,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -847,58 +847,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 72.5
     },
     {
-      "id": "111575",
-      "name": "Karen Khachanov",
-      "rank": 26,
-      "prevRank": 26,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "activeScore": 69.8,
-      "legendScore": 30.5,
-      "age": 30,
-      "surface": {
-        "hard": 0.5,
-        "clay": 0.571,
-        "grass": 0.727
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 7,
-        "weeks_no1": 0,
-        "top10_wins": 16
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 26,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 69.8
-    },
-    {
       "id": "209860",
       "name": "Ignacio Buse",
-      "rank": 34,
-      "prevRank": 35,
+      "rank": 33,
+      "prevRank": 34,
       "country": "PER",
       "logo": "https://flagcdn.com/24x18/pe.png",
       "teamCode": "PER",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 68.4,
+      "activeScore": 68.5,
       "legendScore": 0.7,
       "age": 22,
       "surface": {
@@ -913,26 +879,60 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 27,
+      "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 68.4
     },
     {
+      "id": "111575",
+      "name": "Karen Khachanov",
+      "rank": 39,
+      "prevRank": 26,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 68.3,
+      "legendScore": 30.5,
+      "age": 30,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.571,
+        "grass": 0.727
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 7,
+        "weeks_no1": 0,
+        "top10_wins": 16
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 27,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
+      },
+      "prevActiveScore": 69.8
+    },
+    {
       "id": "126610",
       "name": "Matteo Berrettini",
-      "rank": 41,
-      "prevRank": 42,
+      "rank": 40,
+      "prevRank": 41,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
       "primary": "#009246",
       "secondary": "#FFFFFF",
-      "activeScore": 67.6,
+      "activeScore": 67.7,
       "legendScore": 31.6,
       "age": 30,
       "surface": {
@@ -950,23 +950,23 @@ window.TENNIS_DATA = {
       "prevListRank": 28,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 67.6
     },
     {
       "id": "206909",
       "name": "Brandon Nakashima",
-      "rank": 33,
-      "prevRank": 32,
+      "rank": 31,
+      "prevRank": 33,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 67.4,
+      "activeScore": 67.6,
       "legendScore": 21.9,
       "age": 25,
       "surface": {
@@ -983,58 +983,58 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 67.4
     },
     {
-      "id": "207830",
-      "name": "Tomas Machac",
-      "rank": 54,
-      "prevRank": 53,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
+      "id": "126214",
+      "name": "Alejandro Tabilo",
+      "rank": 26,
+      "prevRank": 30,
+      "country": "CHI",
+      "logo": "https://flagcdn.com/24x18/cl.png",
+      "teamCode": "CHI",
+      "primary": "#D52B1E",
       "secondary": "#FFFFFF",
-      "activeScore": 66.7,
-      "legendScore": 23.8,
-      "age": 25,
+      "activeScore": 67.1,
+      "legendScore": 17.9,
+      "age": 29,
       "surface": {
-        "hard": 0.595,
-        "clay": 0.444,
-        "grass": 0.6
+        "hard": 0.448,
+        "clay": 0.533,
+        "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 2,
+        "titles": 3,
         "weeks_no1": 0,
-        "top10_wins": 4
+        "top10_wins": 3
       },
       "leyendaScore": 0.0,
       "prevListRank": 30,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
-      "prevActiveScore": 66.7
+      "prevActiveScore": 66.6
     },
     {
       "id": "200005",
       "name": "Ugo Humbert",
-      "rank": 29,
+      "rank": 28,
       "prevRank": 29,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 66.6,
+      "activeScore": 66.7,
       "legendScore": 24.3,
       "age": 28,
       "surface": {
@@ -1051,92 +1051,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 31,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 66.6
-    },
-    {
-      "id": "126214",
-      "name": "Alejandro Tabilo",
-      "rank": 30,
-      "prevRank": 30,
-      "country": "CHI",
-      "logo": "https://flagcdn.com/24x18/cl.png",
-      "teamCode": "CHI",
-      "primary": "#D52B1E",
-      "secondary": "#FFFFFF",
-      "activeScore": 66.6,
-      "legendScore": 17.9,
-      "age": 29,
-      "surface": {
-        "hard": 0.448,
-        "clay": 0.533,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 3
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 32,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "Quarterfinal",
-        "reason": ""
-      },
-      "prevActiveScore": 66.6
-    },
-    {
-      "id": "210506",
-      "name": "Alex Michelsen",
-      "rank": 40,
-      "prevRank": 44,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 66.4,
-      "legendScore": 18.3,
-      "age": 21,
-      "surface": {
-        "hard": 0.537,
-        "clay": 0.421,
-        "grass": 0.556
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 3
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 33,
-      "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "state": "out",
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
-      "prevActiveScore": 66.4
+      "prevActiveScore": 66.6
     },
     {
       "id": "111815",
       "name": "Cameron Norrie",
-      "rank": 39,
+      "rank": 37,
       "prevRank": 39,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
       "primary": "#012169",
       "secondary": "#FFFFFF",
-      "activeScore": 66.2,
+      "activeScore": 66.4,
       "legendScore": 28.5,
       "age": 30,
       "surface": {
@@ -1151,26 +1083,94 @@ window.TENNIS_DATA = {
         "top10_wins": 13
       },
       "leyendaScore": 0.0,
-      "prevListRank": 34,
+      "prevListRank": 32,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 66.2
     },
     {
+      "id": "207830",
+      "name": "Tomas Machac",
+      "rank": 58,
+      "prevRank": 54,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 66.3,
+      "legendScore": 23.8,
+      "age": 25,
+      "surface": {
+        "hard": 0.595,
+        "clay": 0.444,
+        "grass": 0.6
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 4
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 33,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
+      },
+      "prevActiveScore": 66.7
+    },
+    {
+      "id": "210506",
+      "name": "Alex Michelsen",
+      "rank": 42,
+      "prevRank": 40,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 66.2,
+      "legendScore": 18.3,
+      "age": 21,
+      "surface": {
+        "hard": 0.537,
+        "clay": 0.421,
+        "grass": 0.556
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 34,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
+      "prevActiveScore": 66.4
+    },
+    {
       "id": "209260",
       "name": "Luciano Darderi",
-      "rank": 23,
-      "prevRank": 21,
+      "rank": 22,
+      "prevRank": 23,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
       "primary": "#009246",
       "secondary": "#FFFFFF",
-      "activeScore": 65.6,
+      "activeScore": 65.8,
       "legendScore": 25.2,
       "age": 24,
       "surface": {
@@ -1187,24 +1187,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 65.6
     },
     {
       "id": "126239",
       "name": "Arthur Rinderknech",
-      "rank": 28,
-      "prevRank": 27,
+      "rank": 29,
+      "prevRank": 28,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 65.6,
+      "activeScore": 65.5,
       "legendScore": 17.0,
       "age": 31,
       "surface": {
@@ -1221,53 +1221,17 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 65.6
     },
     {
-      "id": "144684",
-      "name": "Alex Molcan",
-      "rank": 74,
-      "prevRank": 81,
-      "country": "SVK",
-      "logo": "https://flagcdn.com/24x18/sk.png",
-      "teamCode": "SVK",
-      "primary": "#0B4EA2",
-      "secondary": "#FFFFFF",
-      "activeScore": 65.5,
-      "legendScore": 19.0,
-      "age": 28,
-      "surface": {
-        "hard": null,
-        "clay": 0.714,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "inactiveWeeks": 6,
-      "inactivePenalty": 6.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 37,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 65.5
-    },
-    {
       "id": "207733",
       "name": "Jack Draper",
-      "rank": 147,
+      "rank": 143,
       "prevRank": 147,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
@@ -1291,7 +1255,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 38,
+      "prevListRank": 37,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
@@ -1301,10 +1265,80 @@ window.TENNIS_DATA = {
       "prevActiveScore": 65.5
     },
     {
+      "id": "144684",
+      "name": "Alex Molcan",
+      "rank": 75,
+      "prevRank": 74,
+      "country": "SVK",
+      "logo": "https://flagcdn.com/24x18/sk.png",
+      "teamCode": "SVK",
+      "primary": "#0B4EA2",
+      "secondary": "#FFFFFF",
+      "activeScore": 65.4,
+      "legendScore": 19.0,
+      "age": 28,
+      "surface": {
+        "hard": null,
+        "clay": 0.714,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 38,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
+      },
+      "prevActiveScore": 65.5
+    },
+    {
+      "id": "144869",
+      "name": "Tomas Martin Etcheverry",
+      "rank": 30,
+      "prevRank": 31,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 65.2,
+      "legendScore": 20.8,
+      "age": 27,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.545,
+        "grass": 0.333
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 39,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
+      "prevActiveScore": 65.0
+    },
+    {
       "id": "208286",
       "name": "Matteo Arnaldi",
       "rank": 35,
-      "prevRank": 33,
+      "prevRank": 35,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -1325,26 +1359,26 @@ window.TENNIS_DATA = {
         "top10_wins": 6
       },
       "leyendaScore": 0.0,
-      "prevListRank": 39,
+      "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 65.2
     },
     {
       "id": "126774",
       "name": "Stefanos Tsitsipas",
-      "rank": 51,
+      "rank": 53,
       "prevRank": 51,
       "country": "GRE",
       "logo": "https://flagcdn.com/24x18/gr.png",
       "teamCode": "GRE",
       "primary": "#0D5EAF",
       "secondary": "#FFFFFF",
-      "activeScore": 65.2,
+      "activeScore": 65.0,
       "legendScore": 41.5,
       "age": 27,
       "surface": {
@@ -1359,60 +1393,26 @@ window.TENNIS_DATA = {
         "top10_wins": 37
       },
       "leyendaScore": 0.0,
-      "prevListRank": 40,
+      "prevListRank": 41,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 65.2
     },
     {
-      "id": "144869",
-      "name": "Tomas Martin Etcheverry",
-      "rank": 31,
-      "prevRank": 31,
-      "country": "ARG",
-      "logo": "https://flagcdn.com/24x18/ar.png",
-      "teamCode": "ARG",
-      "primary": "#74ACDF",
-      "secondary": "#FFFFFF",
-      "activeScore": 65.0,
-      "legendScore": 20.8,
-      "age": 27,
-      "surface": {
-        "hard": 0.5,
-        "clay": 0.545,
-        "grass": 0.333
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 41,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 65.0
-    },
-    {
       "id": "209414",
       "name": "Luca Van Assche",
-      "rank": 48,
-      "prevRank": 78,
+      "rank": 49,
+      "prevRank": 48,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 64.9,
+      "activeScore": 64.8,
       "legendScore": 13.2,
       "age": 22,
       "surface": {
@@ -1430,23 +1430,23 @@ window.TENNIS_DATA = {
       "prevListRank": 42,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 64.9
     },
     {
       "id": "202058",
       "name": "Thiago Agustin Tirante",
-      "rank": 64,
-      "prevRank": 57,
+      "rank": 65,
+      "prevRank": 64,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
       "primary": "#74ACDF",
       "secondary": "#FFFFFF",
-      "activeScore": 64.8,
+      "activeScore": 64.6,
       "legendScore": 18.1,
       "age": 25,
       "surface": {
@@ -1471,44 +1471,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 64.8
     },
     {
-      "id": "144719",
-      "name": "Jaume Munar",
-      "rank": 43,
-      "prevRank": 43,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
-      "secondary": "#FFFFFF",
-      "activeScore": 64.4,
-      "legendScore": 15.0,
-      "age": 29,
-      "surface": {
-        "hard": 0.578,
-        "clay": 0.429,
-        "grass": 0.5
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 4
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 44,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
-      },
-      "prevActiveScore": 64.4
-    },
-    {
       "id": "208363",
       "name": "Mariano Navone",
       "rank": 44,
-      "prevRank": 47,
+      "prevRank": 44,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
@@ -1529,11 +1495,45 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
+      "prevListRank": 44,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
+      "prevActiveScore": 64.4
+    },
+    {
+      "id": "144719",
+      "name": "Jaume Munar",
+      "rank": 45,
+      "prevRank": 43,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 64.3,
+      "legendScore": 15.0,
+      "age": 29,
+      "surface": {
+        "hard": 0.578,
+        "clay": 0.429,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 4
+      },
+      "leyendaScore": 0.0,
       "prevListRank": 45,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 64.4
@@ -1542,7 +1542,7 @@ window.TENNIS_DATA = {
       "id": "209920",
       "name": "Raphael Collignon",
       "rank": 38,
-      "prevRank": 37,
+      "prevRank": 38,
       "country": "BEL",
       "logo": "https://flagcdn.com/24x18/be.png",
       "teamCode": "BEL",
@@ -1565,86 +1565,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 64.1
-    },
-    {
-      "id": "105870",
-      "name": "Yannick Hanfmann",
-      "rank": 45,
-      "prevRank": 52,
-      "country": "GER",
-      "logo": "https://flagcdn.com/24x18/de.png",
-      "teamCode": "GER",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "activeScore": 63.3,
-      "legendScore": 6.2,
-      "age": 34,
-      "surface": {
-        "hard": 0.467,
-        "clay": 0.538,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 4
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 47,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 63.3
-    },
-    {
-      "id": "134868",
-      "name": "Tallon Griekspoor",
-      "rank": 67,
-      "prevRank": 66,
-      "country": "NED",
-      "logo": "https://flagcdn.com/24x18/nl.png",
-      "teamCode": "NED",
-      "primary": "#AE1C28",
-      "secondary": "#FFFFFF",
-      "activeScore": 63.1,
-      "legendScore": 21.2,
-      "age": 30,
-      "surface": {
-        "hard": 0.512,
-        "clay": 0.48,
-        "grass": 0.8
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 7
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 48,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 63.1
     },
     {
       "id": "210084",
       "name": "Jakub Mensik",
       "rank": 17,
-      "prevRank": 18,
+      "prevRank": 17,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -1665,12 +1597,12 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 49,
+      "prevListRank": 47,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 63.0
     },
@@ -1678,7 +1610,7 @@ window.TENNIS_DATA = {
       "id": "209098",
       "name": "Hamad Medjedovic",
       "rank": 73,
-      "prevRank": 72,
+      "prevRank": 73,
       "country": "SRB",
       "logo": "https://flagcdn.com/24x18/rs.png",
       "teamCode": "SRB",
@@ -1699,7 +1631,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 50,
+      "prevListRank": 48,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
@@ -1709,16 +1641,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 62.9
     },
     {
+      "id": "134868",
+      "name": "Tallon Griekspoor",
+      "rank": 69,
+      "prevRank": 67,
+      "country": "NED",
+      "logo": "https://flagcdn.com/24x18/nl.png",
+      "teamCode": "NED",
+      "primary": "#AE1C28",
+      "secondary": "#FFFFFF",
+      "activeScore": 62.8,
+      "legendScore": 21.2,
+      "age": 30,
+      "surface": {
+        "hard": 0.512,
+        "clay": 0.48,
+        "grass": 0.8
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 7
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 49,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 63.1
+    },
+    {
       "id": "128034",
       "name": "Hubert Hurkacz",
-      "rank": 71,
-      "prevRank": 70,
+      "rank": 72,
+      "prevRank": 71,
       "country": "POL",
       "logo": "https://flagcdn.com/24x18/pl.png",
       "teamCode": "POL",
       "primary": "#DC143C",
       "secondary": "#FFFFFF",
-      "activeScore": 62.8,
+      "activeScore": 62.7,
       "legendScore": 33.6,
       "age": 29,
       "surface": {
@@ -1733,7 +1699,7 @@ window.TENNIS_DATA = {
         "top10_wins": 21
       },
       "leyendaScore": 0.0,
-      "prevListRank": 51,
+      "prevListRank": 50,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
@@ -1743,84 +1709,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 62.8
     },
     {
-      "id": "209226",
-      "name": "Adolfo Daniel Vallejo",
-      "rank": 65,
-      "prevRank": 63,
-      "country": "PAR",
-      "logo": "https://flagcdn.com/24x18/py.png",
-      "teamCode": "PAR",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "activeScore": 62.0,
-      "legendScore": 19.9,
-      "age": 22,
-      "surface": {
-        "hard": null,
-        "clay": 0.556,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 52,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 62.0
-    },
-    {
-      "id": "132686",
-      "name": "Nuno Borges",
-      "rank": 49,
-      "prevRank": 48,
-      "country": "POR",
-      "logo": "https://flagcdn.com/24x18/pt.png",
-      "teamCode": "POR",
-      "primary": "#006600",
-      "secondary": "#FFFFFF",
-      "activeScore": 61.9,
-      "legendScore": 22.1,
-      "age": 29,
-      "surface": {
-        "hard": 0.5,
-        "clay": 0.48,
-        "grass": 0.5
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 53,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 61.9
-    },
-    {
       "id": "200267",
       "name": "Zizou Bergs",
-      "rank": 36,
-      "prevRank": 34,
+      "rank": 34,
+      "prevRank": 36,
       "country": "BEL",
       "logo": "https://flagcdn.com/24x18/be.png",
       "teamCode": "BEL",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 61.8,
+      "activeScore": 62.1,
       "legendScore": 10.2,
       "age": 27,
       "surface": {
@@ -1835,26 +1733,128 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 54,
+      "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 61.8
     },
     {
+      "id": "105870",
+      "name": "Yannick Hanfmann",
+      "rank": 57,
+      "prevRank": 45,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 62.0,
+      "legendScore": 6.2,
+      "age": 34,
+      "surface": {
+        "hard": 0.467,
+        "clay": 0.538,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 4
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 52,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
+      "prevActiveScore": 63.3
+    },
+    {
+      "id": "209226",
+      "name": "Adolfo Daniel Vallejo",
+      "rank": 66,
+      "prevRank": 65,
+      "country": "PAR",
+      "logo": "https://flagcdn.com/24x18/py.png",
+      "teamCode": "PAR",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 61.9,
+      "legendScore": 19.9,
+      "age": 22,
+      "surface": {
+        "hard": null,
+        "clay": 0.556,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 53,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 62.0
+    },
+    {
+      "id": "132686",
+      "name": "Nuno Borges",
+      "rank": 55,
+      "prevRank": 49,
+      "country": "POR",
+      "logo": "https://flagcdn.com/24x18/pt.png",
+      "teamCode": "POR",
+      "primary": "#006600",
+      "secondary": "#FFFFFF",
+      "activeScore": 61.2,
+      "legendScore": 22.1,
+      "age": 29,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.48,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 54,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
+      "prevActiveScore": 61.9
+    },
+    {
       "id": "122298",
       "name": "Botic Van De Zandschulp",
-      "rank": 69,
-      "prevRank": 55,
+      "rank": 70,
+      "prevRank": 69,
       "country": "NED",
       "logo": "https://flagcdn.com/24x18/nl.png",
       "teamCode": "NED",
       "primary": "#AE1C28",
       "secondary": "#FFFFFF",
-      "activeScore": 60.6,
+      "activeScore": 60.5,
       "legendScore": 21.4,
       "age": 30,
       "surface": {
@@ -1881,14 +1881,14 @@ window.TENNIS_DATA = {
     {
       "id": "207678",
       "name": "Juan Manuel Cerundolo",
-      "rank": 50,
+      "rank": 52,
       "prevRank": 50,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
       "primary": "#74ACDF",
       "secondary": "#FFFFFF",
-      "activeScore": 60.5,
+      "activeScore": 60.3,
       "legendScore": 19.0,
       "age": 24,
       "surface": {
@@ -1913,84 +1913,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 60.5
     },
     {
-      "id": "206681",
-      "name": "Fabian Marozsan",
-      "rank": 55,
-      "prevRank": 54,
-      "country": "HUN",
-      "logo": "https://flagcdn.com/24x18/hu.png",
-      "teamCode": "HUN",
-      "primary": "#477050",
-      "secondary": "#FFFFFF",
-      "activeScore": 60.1,
-      "legendScore": 19.9,
-      "age": 26,
-      "surface": {
-        "hard": 0.5,
-        "clay": 0.5,
-        "grass": 0.4
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 6
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 57,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 60.1
-    },
-    {
-      "id": "144895",
-      "name": "Corentin Moutet",
-      "rank": 57,
-      "prevRank": 40,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
-      "secondary": "#FFFFFF",
-      "activeScore": 60.1,
-      "legendScore": 19.2,
-      "age": 27,
-      "surface": {
-        "hard": 0.537,
-        "clay": 0.364,
-        "grass": 0.636
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 58,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 60.1
-    },
-    {
       "id": "202104",
       "name": "Sebastian Baez",
-      "rank": 53,
-      "prevRank": 56,
+      "rank": 48,
+      "prevRank": 53,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
       "primary": "#74ACDF",
       "secondary": "#FFFFFF",
-      "activeScore": 59.7,
+      "activeScore": 60.2,
       "legendScore": 20.1,
       "age": 25,
       "surface": {
@@ -2005,7 +1937,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 59,
+      "prevListRank": 57,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
@@ -2015,118 +1947,84 @@ window.TENNIS_DATA = {
       "prevActiveScore": 59.7
     },
     {
-      "id": "200240",
-      "name": "Vit Kopriva",
-      "rank": 70,
+      "id": "133430",
+      "name": "Denis Shapovalov",
+      "rank": 43,
       "prevRank": 68,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
+      "country": "CAN",
+      "logo": "https://flagcdn.com/24x18/ca.png",
+      "teamCode": "CAN",
+      "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 59.5,
-      "legendScore": 12.1,
-      "age": 29,
+      "activeScore": 60.0,
+      "legendScore": 26.9,
+      "age": 27,
       "surface": {
-        "hard": 0.364,
-        "clay": 0.571,
+        "hard": 0.592,
+        "clay": 0.286,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 4,
         "weeks_no1": 0,
-        "top10_wins": 1
+        "top10_wins": 13
       },
       "leyendaScore": 0.0,
-      "prevListRank": 60,
+      "prevListRank": 58,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 59.5
+      "prevActiveScore": 57.1
     },
     {
-      "id": "208882",
-      "name": "Roman Andres Burruchaga",
-      "rank": 58,
-      "prevRank": 60,
-      "country": "ARG",
-      "logo": "https://flagcdn.com/24x18/ar.png",
-      "teamCode": "ARG",
-      "primary": "#74ACDF",
-      "secondary": "#FFFFFF",
-      "activeScore": 59.2,
-      "legendScore": 13.2,
-      "age": 24,
-      "surface": {
-        "hard": null,
-        "clay": 0.476,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 61,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 59.2
-    },
-    {
-      "id": "111460",
-      "name": "Quentin Halys",
-      "rank": 52,
-      "prevRank": 83,
+      "id": "144895",
+      "name": "Corentin Moutet",
+      "rank": 59,
+      "prevRank": 57,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 58.9,
-      "legendScore": 13.7,
-      "age": 29,
+      "activeScore": 59.9,
+      "legendScore": 19.2,
+      "age": 27,
       "surface": {
-        "hard": 0.385,
-        "clay": 0.455,
-        "grass": 0.333
+        "hard": 0.537,
+        "clay": 0.364,
+        "grass": 0.636
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 1
+        "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 62,
+      "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
-      "prevActiveScore": 58.9
+      "prevActiveScore": 60.1
     },
     {
       "id": "209279",
       "name": "Terence Atmane",
-      "rank": 56,
-      "prevRank": 49,
+      "rank": 46,
+      "prevRank": 56,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 58.7,
+      "activeScore": 59.8,
       "legendScore": 0.2,
       "age": 24,
       "surface": {
@@ -2141,7 +2039,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 63,
+      "prevListRank": 60,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
@@ -2151,21 +2049,55 @@ window.TENNIS_DATA = {
       "prevActiveScore": 58.7
     },
     {
-      "id": "208118",
-      "name": "Eliot Spizzirri",
-      "rank": 109,
-      "prevRank": 107,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
+      "id": "206681",
+      "name": "Fabian Marozsan",
+      "rank": 61,
+      "prevRank": 55,
+      "country": "HUN",
+      "logo": "https://flagcdn.com/24x18/hu.png",
+      "teamCode": "HUN",
+      "primary": "#477050",
       "secondary": "#FFFFFF",
-      "activeScore": 58.5,
-      "legendScore": 17.0,
+      "activeScore": 59.5,
+      "legendScore": 19.9,
+      "age": 26,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.5,
+        "grass": 0.4
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 6
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 61,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 60.1
+    },
+    {
+      "id": "208882",
+      "name": "Roman Andres Burruchaga",
+      "rank": 56,
+      "prevRank": 58,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.4,
+      "legendScore": 13.2,
       "age": 24,
       "surface": {
-        "hard": 0.588,
-        "clay": null,
+        "hard": null,
+        "clay": 0.476,
         "grass": null
       },
       "stats": {
@@ -2175,26 +2107,94 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
+      "prevListRank": 62,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 59.2
+    },
+    {
+      "id": "200240",
+      "name": "Vit Kopriva",
+      "rank": 71,
+      "prevRank": 70,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.4,
+      "legendScore": 12.1,
+      "age": 29,
+      "surface": {
+        "hard": 0.364,
+        "clay": 0.571,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 63,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
+      "prevActiveScore": 59.5
+    },
+    {
+      "id": "111460",
+      "name": "Quentin Halys",
+      "rank": 54,
+      "prevRank": 52,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.6,
+      "legendScore": 13.7,
+      "age": 29,
+      "surface": {
+        "hard": 0.385,
+        "clay": 0.455,
+        "grass": 0.333
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
-      "prevActiveScore": 58.5
+      "prevActiveScore": 58.9
     },
     {
       "id": "202385",
       "name": "Jenson Brooksby",
-      "rank": 77,
-      "prevRank": 74,
+      "rank": 74,
+      "prevRank": 77,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 58.2,
+      "activeScore": 58.5,
       "legendScore": 20.3,
       "age": 25,
       "surface": {
@@ -2219,16 +2219,84 @@ window.TENNIS_DATA = {
       "prevActiveScore": 58.2
     },
     {
+      "id": "208118",
+      "name": "Eliot Spizzirri",
+      "rank": 115,
+      "prevRank": 109,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.5,
+      "legendScore": 17.0,
+      "age": 24,
+      "surface": {
+        "hard": 0.588,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 66,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
+      },
+      "prevActiveScore": 58.5
+    },
+    {
+      "id": "111794",
+      "name": "Kamil Majchrzak",
+      "rank": 67,
+      "prevRank": 72,
+      "country": "POL",
+      "logo": "https://flagcdn.com/24x18/pl.png",
+      "teamCode": "POL",
+      "primary": "#DC143C",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.9,
+      "legendScore": 14.3,
+      "age": 30,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.385,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 67,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 57.4
+    },
+    {
       "id": "120770",
       "name": "Jose Merida",
-      "rank": 61,
-      "prevRank": 59,
+      "rank": 63,
+      "prevRank": 61,
       "country": "CHI",
       "logo": "https://flagcdn.com/24x18/cl.png",
       "teamCode": "CHI",
       "primary": "#D52B1E",
       "secondary": "#FFFFFF",
-      "activeScore": 58.1,
+      "activeScore": 57.8,
       "legendScore": 0.0,
       "age": 42,
       "surface": {
@@ -2243,60 +2311,26 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 66,
+      "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 58.1
     },
     {
-      "id": "211776",
-      "name": "Martin Landaluce",
-      "rank": 63,
-      "prevRank": 62,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
-      "secondary": "#FFFFFF",
-      "activeScore": 57.8,
-      "legendScore": 0.0,
-      "age": 20,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 67,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 57.8
-    },
-    {
       "id": "105227",
       "name": "Marin Cilic",
-      "rank": 86,
+      "rank": 85,
       "prevRank": 86,
       "country": "CRO",
       "logo": "https://flagcdn.com/24x18/hr.png",
       "teamCode": "CRO",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 57.5,
+      "activeScore": 57.7,
       "legendScore": 41.7,
       "age": 37,
       "surface": {
@@ -2311,20 +2345,88 @@ window.TENNIS_DATA = {
         "top10_wins": 30
       },
       "leyendaScore": 3.4,
-      "prevListRank": 68,
+      "prevListRank": 69,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 57.5
     },
     {
+      "id": "105526",
+      "name": "Jan Lennard Struff",
+      "rank": 41,
+      "prevRank": 42,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.6,
+      "legendScore": 19.0,
+      "age": 36,
+      "surface": {
+        "hard": 0.346,
+        "clay": 0.353,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 14
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 70,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 57.4
+    },
+    {
+      "id": "211776",
+      "name": "Martin Landaluce",
+      "rank": 64,
+      "prevRank": 63,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.6,
+      "legendScore": 0.0,
+      "age": 20,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 71,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 57.8
+    },
+    {
       "id": "126504",
       "name": "Andrea Pellegrino",
-      "rank": 137,
-      "prevRank": 138,
+      "rank": 134,
+      "prevRank": 137,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -2345,88 +2447,20 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 69,
+      "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 57.5
     },
     {
-      "id": "105526",
-      "name": "Jan Lennard Struff",
-      "rank": 42,
-      "prevRank": 41,
-      "country": "GER",
-      "logo": "https://flagcdn.com/24x18/de.png",
-      "teamCode": "GER",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "activeScore": 57.4,
-      "legendScore": 19.0,
-      "age": 36,
-      "surface": {
-        "hard": 0.346,
-        "clay": 0.353,
-        "grass": 0.5
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 14
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 70,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 57.4
-    },
-    {
-      "id": "111794",
-      "name": "Kamil Majchrzak",
-      "rank": 72,
-      "prevRank": 71,
-      "country": "POL",
-      "logo": "https://flagcdn.com/24x18/pl.png",
-      "teamCode": "POL",
-      "primary": "#DC143C",
-      "secondary": "#FFFFFF",
-      "activeScore": 57.4,
-      "legendScore": 14.3,
-      "age": 30,
-      "surface": {
-        "hard": 0.5,
-        "clay": 0.385,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 71,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 57.4
-    },
-    {
       "id": "200059",
       "name": "Yibing Wu",
-      "rank": 117,
-      "prevRank": 106,
+      "rank": 116,
+      "prevRank": 117,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
@@ -2447,60 +2481,26 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 72,
+      "prevListRank": 73,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 57.4
     },
     {
-      "id": "133430",
-      "name": "Denis Shapovalov",
-      "rank": 68,
-      "prevRank": 67,
-      "country": "CAN",
-      "logo": "https://flagcdn.com/24x18/ca.png",
-      "teamCode": "CAN",
-      "primary": "#FF0000",
-      "secondary": "#FFFFFF",
-      "activeScore": 57.1,
-      "legendScore": 26.9,
-      "age": 27,
-      "surface": {
-        "hard": 0.592,
-        "clay": 0.286,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 4,
-        "weeks_no1": 0,
-        "top10_wins": 13
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 73,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 57.1
-    },
-    {
       "id": "105916",
       "name": "Marton Fucsovics",
-      "rank": 84,
-      "prevRank": 76,
+      "rank": 83,
+      "prevRank": 84,
       "country": "HUN",
       "logo": "https://flagcdn.com/24x18/hu.png",
       "teamCode": "HUN",
       "primary": "#477050",
       "secondary": "#FFFFFF",
-      "activeScore": 57.1,
+      "activeScore": 57.3,
       "legendScore": 22.3,
       "age": 34,
       "surface": {
@@ -2518,51 +2518,51 @@ window.TENNIS_DATA = {
       "prevListRank": 74,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.1
     },
     {
-      "id": "200175",
-      "name": "Miomir Kecmanovic",
-      "rank": 60,
-      "prevRank": 58,
-      "country": "SRB",
-      "logo": "https://flagcdn.com/24x18/rs.png",
-      "teamCode": "SRB",
-      "primary": "#C6363C",
+      "id": "210338",
+      "name": "Arthur Gea",
+      "rank": 82,
+      "prevRank": 127,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 56.6,
-      "legendScore": 22.1,
-      "age": 26,
+      "activeScore": 57.0,
+      "legendScore": 13.2,
+      "age": 21,
       "surface": {
-        "hard": 0.481,
-        "clay": 0.267,
-        "grass": 0.4
+        "hard": 0.5,
+        "clay": null,
+        "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 2,
+        "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 6
+        "top10_wins": 0
       },
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "state": "out",
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
-      "prevActiveScore": 56.6
+      "prevActiveScore": 55.0
     },
     {
       "id": "208169",
       "name": "Titouan Droguet",
       "rank": 119,
-      "prevRank": 114,
+      "prevRank": 119,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -2587,50 +2587,86 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 56.6
     },
     {
-      "id": "105807",
-      "name": "Pablo Carreno Busta",
-      "rank": 66,
-      "prevRank": 65,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
+      "id": "200624",
+      "name": "Sebastian Korda",
+      "rank": 50,
+      "prevRank": 59,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 56.3,
-      "legendScore": 29.8,
-      "age": 35,
+      "activeScore": 56.5,
+      "legendScore": 25.6,
+      "age": 26,
       "surface": {
-        "hard": 0.368,
-        "clay": 0.429,
+        "hard": 0.604,
+        "clay": 0.5,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 7,
+        "titles": 3,
         "weeks_no1": 0,
-        "top10_wins": 11
+        "top10_wins": 10
       },
+      "inactiveWeeks": 10,
+      "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
+      },
+      "prevActiveScore": 55.5
+    },
+    {
+      "id": "200175",
+      "name": "Miomir Kecmanovic",
+      "rank": 62,
+      "prevRank": 60,
+      "country": "SRB",
+      "logo": "https://flagcdn.com/24x18/rs.png",
+      "teamCode": "SRB",
+      "primary": "#C6363C",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.3,
+      "legendScore": 22.1,
+      "age": 26,
+      "surface": {
+        "hard": 0.481,
+        "clay": 0.267,
+        "grass": 0.4
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 6
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 78,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
-      "prevActiveScore": 56.3
+      "prevActiveScore": 56.6
     },
     {
       "id": "200116",
       "name": "Camilo Ugo Carabelli",
-      "rank": 75,
-      "prevRank": 69,
+      "rank": 76,
+      "prevRank": 75,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
@@ -2651,90 +2687,54 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 78,
+      "prevListRank": 79,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 56.2
+    },
+    {
+      "id": "105807",
+      "name": "Pablo Carreno Busta",
+      "rank": 68,
+      "prevRank": 66,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.1,
+      "legendScore": 29.8,
+      "age": 35,
+      "surface": {
+        "hard": 0.368,
+        "clay": 0.429,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 7,
+        "weeks_no1": 0,
+        "top10_wins": 11
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 80,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 56.2
-    },
-    {
-      "id": "208260",
-      "name": "Zachary Svajda",
-      "rank": 76,
-      "prevRank": 73,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 55.8,
-      "legendScore": 16.6,
-      "age": 23,
-      "surface": {
-        "hard": 0.333,
-        "clay": 0.571,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 79,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 55.8
-    },
-    {
-      "id": "200624",
-      "name": "Sebastian Korda",
-      "rank": 59,
-      "prevRank": 64,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 55.5,
-      "legendScore": 25.6,
-      "age": 26,
-      "surface": {
-        "hard": 0.604,
-        "clay": 0.5,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 10
-      },
-      "inactiveWeeks": 10,
-      "inactivePenalty": 13.4,
-      "leyendaScore": 0.0,
-      "prevListRank": 80,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 55.5
+      "prevActiveScore": 56.3
     },
     {
       "id": "210262",
       "name": "Jaime Faria",
       "rank": 79,
-      "prevRank": 88,
+      "prevRank": 79,
       "country": "POR",
       "logo": "https://flagcdn.com/24x18/pt.png",
       "teamCode": "POR",
@@ -2757,18 +2757,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 55.4
     },
     {
       "id": "209113",
       "name": "Gabriel Diallo",
-      "rank": 99,
-      "prevRank": 92,
+      "rank": 108,
+      "prevRank": 99,
       "country": "CAN",
       "logo": "https://flagcdn.com/24x18/ca.png",
       "teamCode": "CAN",
@@ -2793,16 +2793,50 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.4
     },
     {
+      "id": "106218",
+      "name": "Marcos Giron",
+      "rank": 81,
+      "prevRank": 85,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.2,
+      "legendScore": 15.5,
+      "age": 33,
+      "surface": {
+        "hard": 0.479,
+        "clay": 0.286,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 6
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 83,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 54.8
+    },
+    {
       "id": "208010",
       "name": "Pablo Llamas Ruiz",
-      "rank": 129,
-      "prevRank": 117,
+      "rank": 127,
+      "prevRank": 129,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -2823,54 +2857,54 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 83,
+      "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 55.2
     },
     {
-      "id": "132283",
-      "name": "Lorenzo Sonego",
-      "rank": 80,
-      "prevRank": 77,
-      "country": "ITA",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "teamCode": "ITA",
-      "primary": "#009246",
+      "id": "127157",
+      "name": "Daniel Altmaier",
+      "rank": 60,
+      "prevRank": 62,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 55.1,
-      "legendScore": 24.7,
-      "age": 31,
+      "activeScore": 55.0,
+      "legendScore": 17.9,
+      "age": 27,
       "surface": {
-        "hard": 0.488,
-        "clay": 0.231,
-        "grass": 0.556
+        "hard": 0.385,
+        "clay": 0.429,
+        "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 4,
+        "titles": 0,
         "weeks_no1": 0,
         "top10_wins": 7
       },
       "leyendaScore": 0.0,
-      "prevListRank": 84,
+      "prevListRank": 85,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
-      "prevActiveScore": 55.1
+      "prevActiveScore": 54.7
     },
     {
       "id": "209976",
       "name": "Dino Prizmic",
       "rank": 98,
-      "prevRank": 91,
+      "prevRank": 98,
       "country": "CRO",
       "logo": "https://flagcdn.com/24x18/hr.png",
       "teamCode": "CRO",
@@ -2891,31 +2925,31 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 85,
+      "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 55.0
     },
     {
-      "id": "210338",
-      "name": "Arthur Gea",
-      "rank": 127,
-      "prevRank": 129,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
+      "id": "208260",
+      "name": "Zachary Svajda",
+      "rank": 87,
+      "prevRank": 76,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 55.0,
-      "legendScore": 13.2,
-      "age": 21,
+      "activeScore": 54.6,
+      "legendScore": 16.6,
+      "age": 23,
       "surface": {
-        "hard": 0.5,
-        "clay": null,
+        "hard": 0.333,
+        "clay": 0.571,
         "grass": null
       },
       "stats": {
@@ -2925,88 +2959,20 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 86,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 55.0
-    },
-    {
-      "id": "106218",
-      "name": "Marcos Giron",
-      "rank": 85,
-      "prevRank": 85,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 54.8,
-      "legendScore": 15.5,
-      "age": 33,
-      "surface": {
-        "hard": 0.479,
-        "clay": 0.286,
-        "grass": 0.5
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 6
-      },
-      "leyendaScore": 0.0,
       "prevListRank": 87,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 54.8
-    },
-    {
-      "id": "127157",
-      "name": "Daniel Altmaier",
-      "rank": 62,
-      "prevRank": 61,
-      "country": "GER",
-      "logo": "https://flagcdn.com/24x18/de.png",
-      "teamCode": "GER",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "activeScore": 54.7,
-      "legendScore": 17.9,
-      "age": 27,
-      "surface": {
-        "hard": 0.385,
-        "clay": 0.429,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 7
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 88,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 54.7
+      "prevActiveScore": 55.8
     },
     {
       "id": "105173",
       "name": "Adrian Mannarino",
       "rank": 47,
-      "prevRank": 46,
+      "prevRank": 47,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -3027,7 +2993,7 @@ window.TENNIS_DATA = {
         "top10_wins": 11
       },
       "leyendaScore": 0.0,
-      "prevListRank": 89,
+      "prevListRank": 88,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
@@ -3037,46 +3003,78 @@ window.TENNIS_DATA = {
       "prevActiveScore": 54.5
     },
     {
-      "id": "208029",
-      "name": "Holger Rune",
-      "rank": 82,
-      "prevRank": 80,
-      "country": "DEN",
-      "logo": "https://flagcdn.com/24x18/dk.png",
-      "teamCode": "DEN",
-      "primary": "#C60C30",
+      "id": "208597",
+      "name": "Chak Lam Coleman Wong",
+      "rank": 92,
+      "prevRank": 108,
+      "country": "HKG",
+      "logo": "",
+      "teamCode": "HKG",
+      "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 54.2,
-      "legendScore": 29.6,
-      "age": 23,
+      "activeScore": 54.4,
+      "legendScore": 0.0,
+      "age": 22,
       "surface": {
-        "hard": 0.639,
-        "clay": 0.643,
+        "hard": null,
+        "clay": null,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 5,
+        "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 20
+        "top10_wins": 0
       },
-      "inactiveWeeks": 32,
-      "inactivePenalty": 15.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 89,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
+      },
+      "prevActiveScore": 53.5
+    },
+    {
+      "id": "132283",
+      "name": "Lorenzo Sonego",
+      "rank": 88,
+      "prevRank": 80,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 54.2,
+      "legendScore": 24.7,
+      "age": 31,
+      "surface": {
+        "hard": 0.488,
+        "clay": 0.231,
+        "grass": 0.556
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 7
+      },
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
-      "prevActiveScore": 54.2
+      "prevActiveScore": 55.1
     },
     {
       "id": "200615",
       "name": "Alexei Popyrin",
-      "rank": 103,
-      "prevRank": 104,
+      "rank": 139,
+      "prevRank": 103,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -3109,7 +3107,7 @@ window.TENNIS_DATA = {
     {
       "id": "209147",
       "name": "Vilius Gaubas",
-      "rank": 128,
+      "rank": 120,
       "prevRank": 128,
       "country": "LTU",
       "logo": "https://flagcdn.com/24x18/lt.png",
@@ -3133,17 +3131,17 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 92,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 53.9
     },
     {
       "id": "206736",
       "name": "Benjamin O'Connell",
-      "rank": 126,
+      "rank": 133,
       "prevRank": 126,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
@@ -3167,18 +3165,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 53.7
     },
     {
       "id": "126127",
       "name": "Benjamin Bonzi",
-      "rank": 101,
-      "prevRank": 103,
+      "rank": 103,
+      "prevRank": 101,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -3202,51 +3200,17 @@ window.TENNIS_DATA = {
       "prevListRank": 94,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 53.5
-    },
-    {
-      "id": "208597",
-      "name": "Chak Lam Coleman Wong",
-      "rank": 108,
-      "prevRank": 112,
-      "country": "HKG",
-      "logo": "",
-      "teamCode": "HKG",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "activeScore": 53.5,
-      "legendScore": 0.0,
-      "age": 22,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 95,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
         "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 53.5
     },
     {
       "id": "105882",
       "name": "Stefano Travaglia",
-      "rank": 142,
-      "prevRank": 143,
+      "rank": 140,
+      "prevRank": 142,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -3267,12 +3231,12 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 96,
+      "prevListRank": 95,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 53.5
     },
@@ -3280,7 +3244,7 @@ window.TENNIS_DATA = {
       "id": "207686",
       "name": "Alexander Shevchenko",
       "rank": 89,
-      "prevRank": 84,
+      "prevRank": 89,
       "country": "KAZ",
       "logo": "https://flagcdn.com/24x18/kz.png",
       "teamCode": "KAZ",
@@ -3301,20 +3265,20 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 97,
+      "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 53.4
     },
     {
       "id": "207411",
       "name": "Jesper De Jong",
-      "rank": 106,
-      "prevRank": 98,
+      "rank": 105,
+      "prevRank": 106,
       "country": "NED",
       "logo": "https://flagcdn.com/24x18/nl.png",
       "teamCode": "NED",
@@ -3335,20 +3299,20 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 98,
+      "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 53.4
     },
     {
       "id": "124187",
       "name": "Reilly Opelka",
-      "rank": 135,
-      "prevRank": 132,
+      "rank": 142,
+      "prevRank": 135,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -3369,54 +3333,20 @@ window.TENNIS_DATA = {
         "top10_wins": 9
       },
       "leyendaScore": 0.0,
-      "prevListRank": 99,
+      "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 53.1
     },
     {
-      "id": "210319",
-      "name": "Ethan Quinn",
-      "rank": 46,
-      "prevRank": 45,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 53.0,
-      "legendScore": 18.1,
-      "age": 22,
-      "surface": {
-        "hard": 0.379,
-        "clay": 0.333,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 100,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 53.0
-    },
-    {
       "id": "207494",
       "name": "Dalibor Svrcina",
-      "rank": 116,
-      "prevRank": 115,
+      "rank": 111,
+      "prevRank": 116,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -3437,26 +3367,26 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 101,
+      "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 53.0
     },
     {
       "id": "208233",
       "name": "Mattia Bellucci",
-      "rank": 81,
-      "prevRank": 79,
+      "rank": 80,
+      "prevRank": 81,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
       "primary": "#009246",
       "secondary": "#FFFFFF",
-      "activeScore": 52.7,
+      "activeScore": 52.8,
       "legendScore": 12.4,
       "age": 25,
       "surface": {
@@ -3471,7 +3401,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 102,
+      "prevListRank": 100,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
@@ -3481,10 +3411,114 @@ window.TENNIS_DATA = {
       "prevActiveScore": 52.7
     },
     {
+      "id": "210319",
+      "name": "Ethan Quinn",
+      "rank": 51,
+      "prevRank": 46,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.4,
+      "legendScore": 18.1,
+      "age": 22,
+      "surface": {
+        "hard": 0.379,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 101,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
+      },
+      "prevActiveScore": 53.0
+    },
+    {
+      "id": "105477",
+      "name": "Marco Trungelliti",
+      "rank": 90,
+      "prevRank": 91,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.3,
+      "legendScore": 15.0,
+      "age": 36,
+      "surface": {
+        "hard": null,
+        "clay": 0.417,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 102,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
+      },
+      "prevActiveScore": 52.1
+    },
+    {
+      "id": "208029",
+      "name": "Holger Rune",
+      "rank": 99,
+      "prevRank": 82,
+      "country": "DEN",
+      "logo": "https://flagcdn.com/24x18/dk.png",
+      "teamCode": "DEN",
+      "primary": "#C60C30",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.3,
+      "legendScore": 29.6,
+      "age": 23,
+      "surface": {
+        "hard": 0.639,
+        "clay": 0.643,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 5,
+        "weeks_no1": 0,
+        "top10_wins": 20
+      },
+      "inactiveWeeks": 32,
+      "inactivePenalty": 15.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 103,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
+      },
+      "prevActiveScore": 54.2
+    },
+    {
       "id": "105777",
       "name": "Grigor Dimitrov",
-      "rank": 140,
-      "prevRank": 142,
+      "rank": 137,
+      "prevRank": 140,
       "country": "BUL",
       "logo": "https://flagcdn.com/24x18/bg.png",
       "teamCode": "BUL",
@@ -3507,54 +3541,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.4,
       "leyendaScore": 0.0,
-      "prevListRank": 103,
+      "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 52.2
     },
     {
-      "id": "105477",
-      "name": "Marco Trungelliti",
-      "rank": 91,
-      "prevRank": 95,
-      "country": "ARG",
-      "logo": "https://flagcdn.com/24x18/ar.png",
-      "teamCode": "ARG",
-      "primary": "#74ACDF",
-      "secondary": "#FFFFFF",
-      "activeScore": 52.1,
-      "legendScore": 15.0,
-      "age": 36,
-      "surface": {
-        "hard": null,
-        "clay": 0.417,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 104,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 52.1
-    },
-    {
       "id": "124186",
       "name": "Alexandre Muller",
-      "rank": 132,
-      "prevRank": 133,
+      "rank": 135,
+      "prevRank": 132,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -3577,18 +3577,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 51.8
     },
     {
       "id": "210116",
       "name": "Michael Zheng",
-      "rank": 118,
-      "prevRank": 120,
+      "rank": 113,
+      "prevRank": 118,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -3612,9 +3612,9 @@ window.TENNIS_DATA = {
       "prevListRank": 106,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 51.7
     },
@@ -3622,7 +3622,7 @@ window.TENNIS_DATA = {
       "id": "206499",
       "name": "Aleksandar Kovacevic",
       "rank": 95,
-      "prevRank": 93,
+      "prevRank": 95,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -3646,51 +3646,51 @@ window.TENNIS_DATA = {
       "prevListRank": 107,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 51.3
     },
     {
-      "id": "208353",
-      "name": "Francesco Maestrelli",
-      "rank": 149,
-      "prevRank": 149,
-      "country": "ITA",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "teamCode": "ITA",
-      "primary": "#009246",
+      "id": "207680",
+      "name": "Facundo Diaz Acosta",
+      "rank": 84,
+      "prevRank": 107,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
       "secondary": "#FFFFFF",
       "activeScore": 51.0,
-      "legendScore": 19.9,
-      "age": 23,
+      "legendScore": 12.8,
+      "age": 25,
       "surface": {
-        "hard": null,
-        "clay": null,
+        "hard": 0.6,
+        "clay": 0.167,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 1,
         "weeks_no1": 0,
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
-      "prevActiveScore": 51.0
+      "prevActiveScore": 49.2
     },
     {
       "id": "105932",
       "name": "Nikoloz Basilashvili",
-      "rank": 133,
-      "prevRank": 130,
+      "rank": 130,
+      "prevRank": 133,
       "country": "GEO",
       "logo": "https://flagcdn.com/24x18/ge.png",
       "teamCode": "GEO",
@@ -3713,10 +3713,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 109,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 50.6
     },
@@ -3747,18 +3747,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 50.6
     },
     {
       "id": "102093",
       "name": "Martin Damm",
-      "rank": 104,
-      "prevRank": 105,
+      "rank": 100,
+      "prevRank": 104,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -3786,49 +3786,15 @@ window.TENNIS_DATA = {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 50.3
     },
     {
-      "id": "208659",
-      "name": "Giovanni Mpetshi Perricard",
-      "rank": 87,
-      "prevRank": 89,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
-      "secondary": "#FFFFFF",
-      "activeScore": 50.2,
-      "legendScore": 13.2,
-      "age": 23,
-      "surface": {
-        "hard": 0.435,
-        "clay": 0.25,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 112,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 50.2
-    },
-    {
       "id": "207681",
       "name": "Francisco Comesana",
-      "rank": 100,
-      "prevRank": 101,
+      "rank": 107,
+      "prevRank": 100,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
@@ -3849,26 +3815,60 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 113,
+      "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
+      },
+      "prevActiveScore": 50.2
+    },
+    {
+      "id": "208659",
+      "name": "Giovanni Mpetshi Perricard",
+      "rank": 91,
+      "prevRank": 87,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.8,
+      "legendScore": 13.2,
+      "age": 23,
+      "surface": {
+        "hard": 0.435,
+        "clay": 0.25,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 113,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 50.2
     },
     {
       "id": "207182",
       "name": "Emilio Nava",
-      "rank": 97,
-      "prevRank": 100,
+      "rank": 106,
+      "prevRank": 97,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 50.1,
+      "activeScore": 49.8,
       "legendScore": 11.9,
       "age": 24,
       "surface": {
@@ -3885,86 +3885,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 50.1
-    },
-    {
-      "id": "126128",
-      "name": "Roman Safiullin",
-      "rank": 92,
-      "prevRank": 94,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "activeScore": 49.6,
-      "legendScore": 17.2,
-      "age": 28,
-      "surface": {
-        "hard": 0.353,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 3
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 115,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 49.6
-    },
-    {
-      "id": "207680",
-      "name": "Facundo Diaz Acosta",
-      "rank": 107,
-      "prevRank": 108,
-      "country": "ARG",
-      "logo": "https://flagcdn.com/24x18/ar.png",
-      "teamCode": "ARG",
-      "primary": "#74ACDF",
-      "secondary": "#FFFFFF",
-      "activeScore": 49.2,
-      "legendScore": 12.8,
-      "age": 25,
-      "surface": {
-        "hard": 0.6,
-        "clay": 0.167,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 116,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 49.2
     },
     {
       "id": "208014",
       "name": "Rinky Hijikata",
       "rank": 93,
-      "prevRank": 96,
+      "prevRank": 93,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -3985,7 +3917,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 117,
+      "prevListRank": 115,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "out",
@@ -3995,16 +3927,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 48.8
     },
     {
+      "id": "126128",
+      "name": "Roman Safiullin",
+      "rank": 102,
+      "prevRank": 92,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.8,
+      "legendScore": 17.2,
+      "age": 28,
+      "surface": {
+        "hard": 0.353,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 116,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
+      },
+      "prevActiveScore": 49.6
+    },
+    {
       "id": "200443",
       "name": "Adam Walton",
-      "rank": 96,
-      "prevRank": 99,
+      "rank": 97,
+      "prevRank": 96,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
       "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 48.7,
+      "activeScore": 48.6,
       "legendScore": 11.5,
       "age": 27,
       "surface": {
@@ -4019,7 +3985,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 118,
+      "prevListRank": 117,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
@@ -4031,14 +3997,14 @@ window.TENNIS_DATA = {
     {
       "id": "209259",
       "name": "Arthur Fery",
-      "rank": 37,
-      "prevRank": 36,
+      "rank": 36,
+      "prevRank": 37,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
       "primary": "#012169",
       "secondary": "#FFFFFF",
-      "activeScore": 48.3,
+      "activeScore": 48.4,
       "legendScore": 13.2,
       "age": 24,
       "surface": {
@@ -4055,20 +4021,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 10,
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
-      "prevListRank": 119,
+      "prevListRank": 118,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 48.3
     },
     {
       "id": "106000",
       "name": "Damir Dzumhur",
-      "rank": 102,
-      "prevRank": 87,
+      "rank": 104,
+      "prevRank": 102,
       "country": "BIH",
       "logo": "https://flagcdn.com/24x18/ba.png",
       "teamCode": "BIH",
@@ -4089,12 +4055,12 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 120,
+      "prevListRank": 119,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 48.0
     },
@@ -4102,7 +4068,7 @@ window.TENNIS_DATA = {
       "id": "207985",
       "name": "Jacob Fearnley",
       "rank": 110,
-      "prevRank": 121,
+      "prevRank": 110,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
@@ -4123,7 +4089,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 121,
+      "prevListRank": 120,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
@@ -4135,8 +4101,8 @@ window.TENNIS_DATA = {
     {
       "id": "208021",
       "name": "Kyrian Jacquet",
-      "rank": 120,
-      "prevRank": 134,
+      "rank": 121,
+      "prevRank": 120,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -4157,20 +4123,20 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 122,
+      "prevListRank": 121,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 47.9
     },
     {
       "id": "200514",
       "name": "Jurij Rodionov",
-      "rank": 136,
-      "prevRank": 145,
+      "rank": 132,
+      "prevRank": 136,
       "country": "AUT",
       "logo": "https://flagcdn.com/24x18/at.png",
       "teamCode": "AUT",
@@ -4191,20 +4157,20 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 123,
+      "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 47.8
     },
     {
       "id": "210389",
       "name": "Toby Samuel",
-      "rank": 112,
-      "prevRank": 127,
+      "rank": 109,
+      "prevRank": 112,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
@@ -4225,54 +4191,20 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 124,
+      "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 47.6
     },
     {
-      "id": "105902",
-      "name": "James Duckworth",
-      "rank": 83,
-      "prevRank": 82,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
-      "secondary": "#FFFFFF",
-      "activeScore": 47.3,
-      "legendScore": 9.7,
-      "age": 34,
-      "surface": {
-        "hard": 0.364,
-        "clay": 0.2,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 125,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 47.3
-    },
-    {
       "id": "106426",
       "name": "Cristian Garin",
-      "rank": 139,
-      "prevRank": 141,
+      "rank": 136,
+      "prevRank": 139,
       "country": "CHI",
       "logo": "https://flagcdn.com/24x18/cl.png",
       "teamCode": "CHI",
@@ -4293,31 +4225,31 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 126,
+      "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 47.3
     },
     {
-      "id": "149282",
-      "name": "Nicolai Budkov Kjaer",
-      "rank": 144,
-      "prevRank": 131,
-      "country": "NOR",
-      "logo": "https://flagcdn.com/24x18/no.png",
-      "teamCode": "NOR",
-      "primary": "#EF2B2D",
+      "id": "105902",
+      "name": "James Duckworth",
+      "rank": 86,
+      "prevRank": 83,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 46.5,
-      "legendScore": 0.0,
-      "age": 19,
+      "activeScore": 46.9,
+      "legendScore": 9.7,
+      "age": 34,
       "surface": {
-        "hard": 0.25,
-        "clay": 0.6,
+        "hard": 0.364,
+        "clay": 0.2,
         "grass": null
       },
       "stats": {
@@ -4326,23 +4258,21 @@ window.TENNIS_DATA = {
         "weeks_no1": 0,
         "top10_wins": 0
       },
-      "inactiveWeeks": 5,
-      "inactivePenalty": 3.4,
       "leyendaScore": 0.0,
-      "prevListRank": 127,
+      "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
-      "prevActiveScore": 46.5
+      "prevActiveScore": 47.3
     },
     {
       "id": "126846",
       "name": "Aleksandar Vukic",
-      "rank": 105,
-      "prevRank": 102,
+      "rank": 101,
+      "prevRank": 105,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -4363,12 +4293,12 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 128,
+      "prevListRank": 126,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 45.7
     },
@@ -4376,7 +4306,7 @@ window.TENNIS_DATA = {
       "id": "208316",
       "name": "Valentin Royer",
       "rank": 78,
-      "prevRank": 75,
+      "prevRank": 78,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -4397,7 +4327,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 129,
+      "prevListRank": 127,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
@@ -4409,7 +4339,7 @@ window.TENNIS_DATA = {
     {
       "id": "210012",
       "name": "Henrique Rocha",
-      "rank": 123,
+      "rank": 125,
       "prevRank": 123,
       "country": "POR",
       "logo": "https://flagcdn.com/24x18/pt.png",
@@ -4433,20 +4363,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 130,
+      "prevListRank": 128,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 44.8
     },
     {
       "id": "104527",
       "name": "Stan Wawrinka",
-      "rank": 125,
-      "prevRank": 118,
+      "rank": 124,
+      "prevRank": 125,
       "country": "SUI",
       "logo": "https://flagcdn.com/24x18/ch.png",
       "teamCode": "SUI",
@@ -4467,20 +4397,20 @@ window.TENNIS_DATA = {
         "top10_wins": 52
       },
       "leyendaScore": 10.3,
-      "prevListRank": 131,
+      "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 44.5
     },
     {
       "id": "209857",
       "name": "Leandro Riedi",
-      "rank": 130,
-      "prevRank": 135,
+      "rank": 128,
+      "prevRank": 130,
       "country": "SUI",
       "logo": "https://flagcdn.com/24x18/ch.png",
       "teamCode": "SUI",
@@ -4503,20 +4433,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 39,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 132,
+      "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 44.3
     },
     {
       "id": "209070",
       "name": "Arthur Cazaux",
-      "rank": 141,
-      "prevRank": 111,
+      "rank": 138,
+      "prevRank": 141,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -4539,19 +4469,19 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 10,
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
-      "prevListRank": 133,
+      "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 44.3
     },
     {
       "id": "124116",
       "name": "Sebastian Ofner",
-      "rank": 124,
+      "rank": 126,
       "prevRank": 124,
       "country": "AUT",
       "logo": "https://flagcdn.com/24x18/at.png",
@@ -4573,26 +4503,26 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 134,
+      "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 44.1
     },
     {
       "id": "200384",
       "name": "Hugo Gaston",
-      "rank": 90,
-      "prevRank": 109,
+      "rank": 96,
+      "prevRank": 90,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 43.8,
+      "activeScore": 43.0,
       "legendScore": 15.2,
       "age": 25,
       "surface": {
@@ -4607,20 +4537,20 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 135,
+      "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 43.8
     },
     {
       "id": "106198",
       "name": "Hugo Dellien",
-      "rank": 143,
-      "prevRank": 144,
+      "rank": 141,
+      "prevRank": 143,
       "country": "BOL",
       "logo": "https://flagcdn.com/24x18/bo.png",
       "teamCode": "BOL",
@@ -4641,19 +4571,55 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 136,
+      "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 42.5
     },
     {
+      "id": "105583",
+      "name": "Dusan Lajovic",
+      "rank": 149,
+      "prevRank": 152,
+      "country": "SRB",
+      "logo": "https://flagcdn.com/24x18/rs.png",
+      "teamCode": "SRB",
+      "primary": "#C6363C",
+      "secondary": "#FFFFFF",
+      "activeScore": 42.3,
+      "legendScore": 17.9,
+      "age": 36,
+      "surface": {
+        "hard": 0.4,
+        "clay": 0.235,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 10
+      },
+      "inactiveWeeks": 5,
+      "inactivePenalty": 3.4,
+      "leyendaScore": 0.0,
+      "prevListRank": 135,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
+      },
+      "prevActiveScore": 45.7
+    },
+    {
       "id": "200516",
       "name": "Patrick Kypson",
-      "rank": 113,
+      "rank": 112,
       "prevRank": 113,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
@@ -4675,20 +4641,20 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 137,
+      "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 40.6
     },
     {
       "id": "202261",
       "name": "Otto Virtanen",
-      "rank": 115,
-      "prevRank": 125,
+      "rank": 114,
+      "prevRank": 115,
       "country": "FIN",
       "logo": "https://flagcdn.com/24x18/fi.png",
       "teamCode": "FIN",
@@ -4711,20 +4677,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 138,
+      "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 40.3
     },
     {
       "id": "111456",
       "name": "Mackenzie Mcdonald",
-      "rank": 145,
-      "prevRank": 140,
+      "rank": 144,
+      "prevRank": 145,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -4747,26 +4713,26 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 139,
+      "prevListRank": 138,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 39.1
     },
     {
       "id": "123828",
       "name": "Jan Choinski",
-      "rank": 88,
-      "prevRank": 90,
+      "rank": 77,
+      "prevRank": 88,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
       "primary": "#012169",
       "secondary": "#FFFFFF",
-      "activeScore": 37.6,
+      "activeScore": 38.8,
       "legendScore": 9.9,
       "age": 30,
       "surface": {
@@ -4783,12 +4749,12 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 140,
+      "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 37.6
     },
@@ -4796,7 +4762,7 @@ window.TENNIS_DATA = {
       "id": "124079",
       "name": "Pedro Martinez",
       "rank": 148,
-      "prevRank": 159,
+      "prevRank": 148,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -4819,20 +4785,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 141,
+      "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 37.2
     },
     {
       "id": "207608",
       "name": "Timofey Skatov",
-      "rank": 150,
-      "prevRank": 163,
+      "rank": 147,
+      "prevRank": 150,
       "country": "KAZ",
       "logo": "https://flagcdn.com/24x18/kz.png",
       "teamCode": "KAZ",
@@ -4855,20 +4821,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 142,
+      "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 36.9
     },
     {
       "id": "208013",
       "name": "Dane Sweeny",
-      "rank": 121,
-      "prevRank": 122,
+      "rank": 122,
+      "prevRank": 121,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -4891,20 +4857,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 143,
+      "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 36.2
     },
     {
       "id": "208361",
       "name": "Gustavo Heide",
-      "rank": 134,
-      "prevRank": 137,
+      "rank": 131,
+      "prevRank": 134,
       "country": "BRA",
       "logo": "https://flagcdn.com/24x18/br.png",
       "teamCode": "BRA",
@@ -4927,12 +4893,12 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 14,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 144,
+      "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 35.8
     },
@@ -4940,7 +4906,7 @@ window.TENNIS_DATA = {
       "id": "200647",
       "name": "Sho Shimabukuro",
       "rank": 94,
-      "prevRank": 97,
+      "prevRank": 94,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "teamCode": "JPN",
@@ -4963,6 +4929,42 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
+      "prevListRank": 144,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 35.0
+    },
+    {
+      "id": "208278",
+      "name": "Shintaro Mochizuki",
+      "rank": 117,
+      "prevRank": 114,
+      "country": "JPN",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "teamCode": "JPN",
+      "primary": "#BC002D",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 10.2,
+      "age": 23,
+      "surface": {
+        "hard": 0.273,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 14,
+      "inactivePenalty": 15.0,
+      "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
@@ -4975,8 +4977,8 @@ window.TENNIS_DATA = {
     {
       "id": "207352",
       "name": "Bu Yunchaokete",
-      "rank": 111,
-      "prevRank": 110,
+      "rank": 118,
+      "prevRank": 111,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
@@ -5001,54 +5003,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 35.0
-    },
-    {
-      "id": "208278",
-      "name": "Shintaro Mochizuki",
-      "rank": 114,
-      "prevRank": 116,
-      "country": "JPN",
-      "logo": "https://flagcdn.com/24x18/jp.png",
-      "teamCode": "JPN",
-      "primary": "#BC002D",
-      "secondary": "#FFFFFF",
-      "activeScore": 35.0,
-      "legendScore": 10.2,
-      "age": 23,
-      "surface": {
-        "hard": 0.273,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "inactiveWeeks": 14,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 147,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 35.0
     },
     {
       "id": "200436",
       "name": "Zsombor Piros",
-      "rank": 122,
-      "prevRank": 119,
+      "rank": 123,
+      "prevRank": 122,
       "country": "HUN",
       "logo": "https://flagcdn.com/24x18/hu.png",
       "teamCode": "HUN",
@@ -5071,20 +5037,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 39,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 148,
+      "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 35.0
     },
     {
       "id": "200711",
       "name": "Nicolas Mejia",
-      "rank": 131,
-      "prevRank": 136,
+      "rank": 129,
+      "prevRank": 131,
       "country": "COL",
       "logo": "https://flagcdn.com/24x18/co.png",
       "teamCode": "COL",
@@ -5107,11 +5073,11 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 45,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 149,
+      "prevListRank": 148,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -5119,8 +5085,8 @@ window.TENNIS_DATA = {
     {
       "id": "144642",
       "name": "Tomas Barrios Vera",
-      "rank": 138,
-      "prevRank": 139,
+      "rank": 145,
+      "prevRank": 138,
       "country": "CHI",
       "logo": "https://flagcdn.com/24x18/cl.png",
       "teamCode": "CHI",
@@ -5143,14 +5109,50 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 10,
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
-      "prevListRank": 150,
+      "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
         "round": "",
-        "reason": "No compite esta semana"
+        "reason": "No compite en National Bank Open presented by Rogers"
       },
       "prevActiveScore": 35.0
+    },
+    {
+      "id": "208210",
+      "name": "Chris Rodesch",
+      "rank": 150,
+      "prevRank": 153,
+      "country": "LUX",
+      "logo": "https://flagcdn.com/24x18/lu.png",
+      "teamCode": "LUX",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "age": 25,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 47,
+      "inactivePenalty": 15.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 150,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "",
+        "reason": "No compite en National Bank Open presented by Rogers"
+      },
+      "prevActiveScore": 50.0
     }
   ],
   "WTA": [
@@ -5215,10 +5217,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 93.0
     },
@@ -5395,14 +5397,14 @@ window.TENNIS_DATA = {
     {
       "id": "202494",
       "name": "Elina Svitolina",
-      "rank": 10,
+      "rank": 9,
       "prevRank": 10,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
       "primary": "#005BBB",
       "secondary": "#FFFFFF",
-      "activeScore": 89.8,
+      "activeScore": 89.9,
       "legendScore": 65.0,
       "age": 31,
       "surface": {
@@ -5453,7 +5455,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5463,14 +5465,14 @@ window.TENNIS_DATA = {
     {
       "id": "216153",
       "name": "Amanda Anisimova",
-      "rank": 9,
+      "rank": 10,
       "prevRank": 9,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 85.6,
+      "activeScore": 85.5,
       "legendScore": 41.1,
       "age": 24,
       "surface": {
@@ -5497,14 +5499,14 @@ window.TENNIS_DATA = {
     {
       "id": "201514",
       "name": "Sorana Cirstea",
-      "rank": 17,
+      "rank": 18,
       "prevRank": 17,
       "country": "ROU",
       "logo": "https://flagcdn.com/24x18/ro.png",
       "teamCode": "ROU",
       "primary": "#002B7F",
       "secondary": "#FFFFFF",
-      "activeScore": 85.5,
+      "activeScore": 85.4,
       "legendScore": 36.2,
       "age": 36,
       "surface": {
@@ -5521,10 +5523,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 85.5
     },
@@ -5555,7 +5557,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5589,24 +5591,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 84.0
     },
     {
       "id": "201619",
       "name": "Madison Keys",
-      "rank": 22,
-      "prevRank": 23,
+      "rank": 23,
+      "prevRank": 22,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 80.5,
+      "activeScore": 80.4,
       "legendScore": 61.7,
       "age": 31,
       "surface": {
@@ -5626,21 +5628,21 @@ window.TENNIS_DATA = {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R64",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 80.5
     },
     {
       "id": "216081",
       "name": "Maja Chwalinska",
-      "rank": 21,
-      "prevRank": 22,
+      "rank": 22,
+      "prevRank": 21,
       "country": "POL",
       "logo": "https://flagcdn.com/24x18/pl.png",
       "teamCode": "POL",
       "primary": "#DC143C",
       "secondary": "#FFFFFF",
-      "activeScore": 80.4,
+      "activeScore": 80.2,
       "legendScore": 30.7,
       "age": 24,
       "surface": {
@@ -5691,9 +5693,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 14.8,
       "prevListRank": 16,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 79.7
@@ -5702,7 +5704,7 @@ window.TENNIS_DATA = {
       "id": "215713",
       "name": "Anastasia Potapova",
       "rank": 27,
-      "prevRank": 28,
+      "prevRank": 27,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -5759,24 +5761,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 78.5
     },
     {
       "id": "214939",
       "name": "Anna Kalinskaya",
-      "rank": 20,
+      "rank": 21,
       "prevRank": 20,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 76.2,
+      "activeScore": 76.1,
       "legendScore": 34.7,
       "age": 27,
       "surface": {
@@ -5803,14 +5805,14 @@ window.TENNIS_DATA = {
     {
       "id": "210722",
       "name": "Elise Mertens",
-      "rank": 23,
-      "prevRank": 24,
+      "rank": 24,
+      "prevRank": 23,
       "country": "BEL",
       "logo": "https://flagcdn.com/24x18/be.png",
       "teamCode": "BEL",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 76.2,
+      "activeScore": 76.1,
       "legendScore": 39.3,
       "age": 30,
       "surface": {
@@ -5861,24 +5863,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 75.7
     },
     {
       "id": "223670",
       "name": "Diana Shnaider",
-      "rank": 18,
+      "rank": 17,
       "prevRank": 18,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 75.2,
+      "activeScore": 75.3,
       "legendScore": 36.2,
       "age": 22,
       "surface": {
@@ -5905,14 +5907,14 @@ window.TENNIS_DATA = {
     {
       "id": "201662",
       "name": "Karolina Pliskova",
-      "rank": 63,
-      "prevRank": 62,
+      "rank": 66,
+      "prevRank": 63,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 74.1,
+      "activeScore": 73.7,
       "legendScore": 67.2,
       "age": 34,
       "surface": {
@@ -5963,7 +5965,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5973,14 +5975,14 @@ window.TENNIS_DATA = {
     {
       "id": "206252",
       "name": "Barbora Krejcikova",
-      "rank": 25,
-      "prevRank": 26,
+      "rank": 26,
+      "prevRank": 25,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 72.5,
+      "activeScore": 72.3,
       "legendScore": 51.5,
       "age": 30,
       "surface": {
@@ -5997,24 +5999,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 72.5
     },
     {
       "id": "213631",
       "name": "Marie Bouzkova",
-      "rank": 24,
-      "prevRank": 21,
+      "rank": 25,
+      "prevRank": 24,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 71.9,
+      "activeScore": 71.8,
       "legendScore": 30.7,
       "age": 28,
       "surface": {
@@ -6031,10 +6033,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 71.9
     },
@@ -6042,7 +6044,7 @@ window.TENNIS_DATA = {
       "id": "211533",
       "name": "Jelena Ostapenko",
       "rank": 29,
-      "prevRank": 31,
+      "prevRank": 29,
       "country": "LAT",
       "logo": "https://flagcdn.com/24x18/lv.png",
       "teamCode": "LAT",
@@ -6075,14 +6077,14 @@ window.TENNIS_DATA = {
     {
       "id": "215613",
       "name": "Emma Navarro",
-      "rank": 26,
-      "prevRank": 27,
+      "rank": 28,
+      "prevRank": 26,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 71.1,
+      "activeScore": 70.8,
       "legendScore": 37.7,
       "age": 25,
       "surface": {
@@ -6110,7 +6112,7 @@ window.TENNIS_DATA = {
       "id": "221024",
       "name": "Hailey Baptiste",
       "rank": 32,
-      "prevRank": 34,
+      "prevRank": 32,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -6133,7 +6135,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6177,14 +6179,14 @@ window.TENNIS_DATA = {
     {
       "id": "223253",
       "name": "Alexandra Eala",
-      "rank": 28,
-      "prevRank": 29,
+      "rank": 20,
+      "prevRank": 28,
       "country": "PHI",
       "logo": "",
       "teamCode": "PHI",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 67.8,
+      "activeScore": 68.8,
       "legendScore": 11.3,
       "age": 21,
       "surface": {
@@ -6201,9 +6203,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 31,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "F",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 67.8
@@ -6212,7 +6214,7 @@ window.TENNIS_DATA = {
       "id": "211713",
       "name": "Jaqueline Cristian",
       "rank": 39,
-      "prevRank": 41,
+      "prevRank": 39,
       "country": "ROU",
       "logo": "https://flagcdn.com/24x18/ro.png",
       "teamCode": "ROU",
@@ -6235,7 +6237,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6246,7 +6248,7 @@ window.TENNIS_DATA = {
       "id": "220367",
       "name": "Leylah Fernandez",
       "rank": 34,
-      "prevRank": 25,
+      "prevRank": 34,
       "country": "CAN",
       "logo": "https://flagcdn.com/24x18/ca.png",
       "teamCode": "CAN",
@@ -6269,9 +6271,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 67.0
@@ -6279,14 +6281,14 @@ window.TENNIS_DATA = {
     {
       "id": "220520",
       "name": "Mccartney Kessler",
-      "rank": 47,
-      "prevRank": 46,
+      "rank": 48,
+      "prevRank": 47,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 67.0,
+      "activeScore": 66.9,
       "legendScore": 19.3,
       "age": 27,
       "surface": {
@@ -6314,7 +6316,7 @@ window.TENNIS_DATA = {
       "id": "215983",
       "name": "Ann Li",
       "rank": 31,
-      "prevRank": 32,
+      "prevRank": 31,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -6340,21 +6342,21 @@ window.TENNIS_DATA = {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R64",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 66.5
     },
     {
       "id": "220548",
       "name": "Peyton Stearns",
-      "rank": 58,
-      "prevRank": 57,
+      "rank": 57,
+      "prevRank": 58,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 66.4,
+      "activeScore": 66.5,
       "legendScore": 31.0,
       "age": 24,
       "surface": {
@@ -6381,7 +6383,7 @@ window.TENNIS_DATA = {
     {
       "id": "221012",
       "name": "Qinwen Zheng",
-      "rank": 123,
+      "rank": 125,
       "prevRank": 123,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
@@ -6405,46 +6407,12 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
       "prevActiveScore": 66.4
-    },
-    {
-      "id": "215785",
-      "name": "Camila Osorio",
-      "rank": 56,
-      "prevRank": 52,
-      "country": "COL",
-      "logo": "https://flagcdn.com/24x18/co.png",
-      "teamCode": "COL",
-      "primary": "#FCD116",
-      "secondary": "#FFFFFF",
-      "activeScore": 66.1,
-      "legendScore": 22.7,
-      "age": 24,
-      "surface": {
-        "hard": 0.472,
-        "clay": 0.652,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 38,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
-      },
-      "prevActiveScore": 66.1
     },
     {
       "id": "220704",
@@ -6471,14 +6439,48 @@ window.TENNIS_DATA = {
         "top10_wins": 5
       },
       "leyendaScore": 0.0,
+      "prevListRank": 38,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
+      "prevActiveScore": 65.8
+    },
+    {
+      "id": "215785",
+      "name": "Camila Osorio",
+      "rank": 60,
+      "prevRank": 56,
+      "country": "COL",
+      "logo": "https://flagcdn.com/24x18/co.png",
+      "teamCode": "COL",
+      "primary": "#FCD116",
+      "secondary": "#FFFFFF",
+      "activeScore": 65.5,
+      "legendScore": 22.7,
+      "age": 24,
+      "surface": {
+        "hard": 0.472,
+        "clay": 0.652,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R64",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
-      "prevActiveScore": 65.8
+      "prevActiveScore": 66.1
     },
     {
       "id": "206289",
@@ -6507,52 +6509,18 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 65.3
-    },
-    {
-      "id": "223360",
-      "name": "Nikola Bartunkova",
-      "rank": 41,
-      "prevRank": 44,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 64.4,
-      "legendScore": 30.7,
-      "age": 20,
-      "surface": {
-        "hard": 0.571,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 41,
-      "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R64",
         "reason": ""
       },
-      "prevActiveScore": 64.4
+      "prevActiveScore": 65.3
     },
     {
       "id": "220716",
       "name": "Oleksandra Oliynykova",
       "rank": 44,
-      "prevRank": 45,
+      "prevRank": 44,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
@@ -6573,7 +6541,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 42,
+      "prevListRank": 41,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "out",
@@ -6583,44 +6551,80 @@ window.TENNIS_DATA = {
       "prevActiveScore": 64.3
     },
     {
-      "id": "220348",
-      "name": "Diane Parry",
-      "rank": 60,
-      "prevRank": 60,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
+      "id": "223360",
+      "name": "Nikola Bartunkova",
+      "rank": 42,
+      "prevRank": 41,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 63.7,
-      "legendScore": 28.8,
-      "age": 23,
+      "activeScore": 64.2,
+      "legendScore": 30.7,
+      "age": 20,
       "surface": {
-        "hard": 0.538,
-        "clay": 0.467,
+        "hard": 0.571,
+        "clay": null,
         "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 2
+        "top10_wins": 1
       },
+      "leyendaScore": 0.0,
+      "prevListRank": 42,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
+      "prevActiveScore": 64.4
+    },
+    {
+      "id": "266671",
+      "name": "Laura Samson",
+      "rank": 123,
+      "prevRank": 153,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 63.7,
+      "legendScore": 0.0,
+      "age": 18,
+      "surface": {
+        "hard": null,
+        "clay": 0.875,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 5,
+      "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Warsaw T-Mobile Polish Open",
+        "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
-      "prevActiveScore": 63.7
+      "prevActiveScore": 67.4
     },
     {
       "id": "221054",
       "name": "Emma Raducanu",
       "rank": 49,
-      "prevRank": 37,
+      "prevRank": 49,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
@@ -6643,7 +6647,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6654,7 +6658,7 @@ window.TENNIS_DATA = {
       "id": "239383",
       "name": "Sara Bejlek",
       "rank": 38,
-      "prevRank": 40,
+      "prevRank": 38,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -6687,14 +6691,14 @@ window.TENNIS_DATA = {
     {
       "id": "211701",
       "name": "Katerina Siniakova",
-      "rank": 36,
-      "prevRank": 35,
+      "rank": 37,
+      "prevRank": 36,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 63.3,
+      "activeScore": 63.2,
       "legendScore": 27.6,
       "age": 30,
       "surface": {
@@ -6719,28 +6723,28 @@ window.TENNIS_DATA = {
       "prevActiveScore": 63.3
     },
     {
-      "id": "211107",
-      "name": "Katie Boulter",
-      "rank": 69,
-      "prevRank": 67,
-      "country": "GBR",
-      "logo": "https://flagcdn.com/24x18/gb.png",
-      "teamCode": "GBR",
-      "primary": "#012169",
+      "id": "220348",
+      "name": "Diane Parry",
+      "rank": 64,
+      "prevRank": 60,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 63.0,
-      "legendScore": 30.7,
-      "age": 30,
+      "activeScore": 63.2,
+      "legendScore": 28.8,
+      "age": 23,
       "surface": {
-        "hard": 0.5,
-        "clay": 0.429,
-        "grass": 0.571
+        "hard": 0.538,
+        "clay": 0.467,
+        "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 4,
+        "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 4
+        "top10_wins": 2
       },
       "leyendaScore": 0.0,
       "prevListRank": 47,
@@ -6750,19 +6754,53 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": "Eliminado en R128"
       },
-      "prevActiveScore": 63.0
+      "prevActiveScore": 63.7
+    },
+    {
+      "id": "220714",
+      "name": "Elisabetta Cocciaretto",
+      "rank": 59,
+      "prevRank": 71,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 62.8,
+      "legendScore": 26.4,
+      "age": 25,
+      "surface": {
+        "hard": 0.514,
+        "clay": 0.375,
+        "grass": 0.625
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 48,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 61.3
     },
     {
       "id": "211337",
       "name": "Tamara Korpatsch",
-      "rank": 46,
-      "prevRank": 81,
+      "rank": 47,
+      "prevRank": 46,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 62.8,
+      "activeScore": 62.7,
       "legendScore": 20.2,
       "age": 31,
       "surface": {
@@ -6777,20 +6815,54 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 48,
+      "prevListRank": 49,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 62.8
+    },
+    {
+      "id": "211107",
+      "name": "Katie Boulter",
+      "rank": 72,
+      "prevRank": 69,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 62.6,
+      "legendScore": 30.7,
+      "age": 30,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.429,
+        "grass": 0.571
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 4
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 50,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 63.0
     },
     {
       "id": "220750",
       "name": "Daria Snigur",
       "rank": 43,
-      "prevRank": 54,
+      "prevRank": 43,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
@@ -6811,9 +6883,9 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 49,
+      "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6821,16 +6893,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 62.5
     },
     {
+      "id": "214643",
+      "name": "Liudmila Samsonova",
+      "rank": 55,
+      "prevRank": 70,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 61.8,
+      "legendScore": 38.3,
+      "age": 27,
+      "surface": {
+        "hard": 0.452,
+        "clay": 0.524,
+        "grass": 0.7
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 5,
+        "weeks_no1": 0,
+        "top10_wins": 10
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 52,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
+      "prevActiveScore": 59.8
+    },
+    {
       "id": "202663",
       "name": "Magda Linette",
-      "rank": 65,
-      "prevRank": 51,
+      "rank": 68,
+      "prevRank": 65,
       "country": "POL",
       "logo": "https://flagcdn.com/24x18/pl.png",
       "teamCode": "POL",
       "primary": "#DC143C",
       "secondary": "#FFFFFF",
-      "activeScore": 62.1,
+      "activeScore": 61.7,
       "legendScore": 27.3,
       "age": 34,
       "surface": {
@@ -6845,26 +6951,26 @@ window.TENNIS_DATA = {
         "top10_wins": 8
       },
       "leyendaScore": 0.0,
-      "prevListRank": 50,
+      "prevListRank": 53,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 62.1
     },
     {
       "id": "260172",
       "name": "Lilli Tagger",
-      "rank": 45,
-      "prevRank": 74,
+      "rank": 46,
+      "prevRank": 45,
       "country": "AUT",
       "logo": "https://flagcdn.com/24x18/at.png",
       "teamCode": "AUT",
       "primary": "#ED2939",
       "secondary": "#FFFFFF",
-      "activeScore": 61.7,
+      "activeScore": 61.5,
       "legendScore": 0.0,
       "age": 18,
       "surface": {
@@ -6879,9 +6985,9 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 51,
+      "prevListRank": 54,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6889,44 +6995,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 61.7
     },
     {
-      "id": "220714",
-      "name": "Elisabetta Cocciaretto",
-      "rank": 71,
-      "prevRank": 68,
-      "country": "ITA",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "teamCode": "ITA",
-      "primary": "#009246",
-      "secondary": "#FFFFFF",
-      "activeScore": 61.3,
-      "legendScore": 26.4,
-      "age": 25,
-      "surface": {
-        "hard": 0.514,
-        "clay": 0.375,
-        "grass": 0.625
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 3
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 52,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
-      },
-      "prevActiveScore": 61.3
-    },
-    {
       "id": "211843",
       "name": "Anhelina Kalinina",
       "rank": 54,
-      "prevRank": 56,
+      "prevRank": 54,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
@@ -6947,7 +7019,7 @@ window.TENNIS_DATA = {
         "top10_wins": 5
       },
       "leyendaScore": 0.0,
-      "prevListRank": 53,
+      "prevListRank": 55,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "out",
@@ -6959,14 +7031,14 @@ window.TENNIS_DATA = {
     {
       "id": "222045",
       "name": "Antonia Ruzic",
-      "rank": 55,
-      "prevRank": 50,
+      "rank": 56,
+      "prevRank": 55,
       "country": "CRO",
       "logo": "https://flagcdn.com/24x18/hr.png",
       "teamCode": "CRO",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 60.2,
+      "activeScore": 60.1,
       "legendScore": 15.3,
       "age": 23,
       "surface": {
@@ -6981,7 +7053,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 54,
+      "prevListRank": 56,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
@@ -6991,78 +7063,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 60.2
     },
     {
-      "id": "238184",
-      "name": "Tereza Valentova",
-      "rank": 64,
-      "prevRank": 63,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 59.8,
-      "legendScore": 30.7,
-      "age": 19,
-      "surface": {
-        "hard": 0.591,
-        "clay": 0.333,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 55,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 59.8
-    },
-    {
-      "id": "214643",
-      "name": "Liudmila Samsonova",
-      "rank": 70,
-      "prevRank": 69,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "activeScore": 59.8,
-      "legendScore": 38.3,
-      "age": 27,
-      "surface": {
-        "hard": 0.452,
-        "clay": 0.524,
-        "grass": 0.7
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 5,
-        "weeks_no1": 0,
-        "top10_wins": 10
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 56,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 59.8
-    },
-    {
       "id": "202499",
       "name": "Donna Vekic",
       "rank": 35,
-      "prevRank": 36,
+      "prevRank": 35,
       "country": "CRO",
       "logo": "https://flagcdn.com/24x18/hr.png",
       "teamCode": "CRO",
@@ -7093,50 +7097,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 59.7
     },
     {
-      "id": "263857",
-      "name": "Yuliia Starodubtseva",
-      "rank": 62,
-      "prevRank": 58,
-      "country": "UKR",
-      "logo": "https://flagcdn.com/24x18/ua.png",
-      "teamCode": "UKR",
-      "primary": "#005BBB",
-      "secondary": "#FFFFFF",
-      "activeScore": 59.6,
-      "legendScore": 23.0,
-      "age": 26,
-      "surface": {
-        "hard": 0.238,
-        "clay": 0.667,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 58,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 59.6
-    },
-    {
       "id": "233741",
       "name": "Maya Joint",
-      "rank": 76,
-      "prevRank": 77,
+      "rank": 75,
+      "prevRank": 76,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
       "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 59.5,
+      "activeScore": 59.6,
       "legendScore": 13.5,
       "age": 20,
       "surface": {
@@ -7151,31 +7121,31 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 59,
+      "prevListRank": 58,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 59.5
     },
     {
-      "id": "230319",
-      "name": "Xinyu",
-      "rank": 42,
-      "prevRank": 39,
-      "country": "CHN",
-      "logo": "https://flagcdn.com/24x18/cn.png",
-      "teamCode": "CHN",
-      "primary": "#DE2910",
+      "id": "238184",
+      "name": "Tereza Valentova",
+      "rank": 67,
+      "prevRank": 64,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 59.3,
-      "legendScore": 0.0,
-      "age": null,
+      "activeScore": 59.5,
+      "legendScore": 30.7,
+      "age": 19,
       "surface": {
-        "hard": null,
-        "clay": null,
+        "hard": 0.591,
+        "clay": 0.333,
         "grass": null
       },
       "stats": {
@@ -7185,26 +7155,26 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 60,
+      "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
-      "prevActiveScore": 59.3
+      "prevActiveScore": 59.8
     },
     {
       "id": "216083",
       "name": "Caty Mcnally",
-      "rank": 73,
-      "prevRank": 53,
+      "rank": 70,
+      "prevRank": 73,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 59.0,
+      "activeScore": 59.5,
       "legendScore": 26.4,
       "age": 24,
       "surface": {
@@ -7219,9 +7189,9 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 61,
+      "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7229,10 +7199,78 @@ window.TENNIS_DATA = {
       "prevActiveScore": 59.0
     },
     {
+      "id": "230319",
+      "name": "Xinyu",
+      "rank": 41,
+      "prevRank": 42,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.4,
+      "legendScore": 0.0,
+      "age": null,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 61,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 59.3
+    },
+    {
+      "id": "263857",
+      "name": "Yuliia Starodubtseva",
+      "rank": 65,
+      "prevRank": 62,
+      "country": "UKR",
+      "logo": "https://flagcdn.com/24x18/ua.png",
+      "teamCode": "UKR",
+      "primary": "#005BBB",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.2,
+      "legendScore": 23.0,
+      "age": 26,
+      "surface": {
+        "hard": 0.238,
+        "clay": 0.667,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 62,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 59.6
+    },
+    {
       "id": "203501",
       "name": "Taylor Townsend",
-      "rank": 105,
-      "prevRank": 83,
+      "rank": 110,
+      "prevRank": 105,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -7253,20 +7291,54 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 62,
+      "prevListRank": 63,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 58.9
     },
     {
+      "id": "221909",
+      "name": "Ashlyn Krueger",
+      "rank": 58,
+      "prevRank": 67,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.8,
+      "legendScore": 19.6,
+      "age": 22,
+      "surface": {
+        "hard": 0.524,
+        "clay": 0.385,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 64,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 57.6
+    },
+    {
       "id": "201696",
       "name": "Laura Siegemund",
       "rank": 88,
-      "prevRank": 89,
+      "prevRank": 88,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
@@ -7287,9 +7359,9 @@ window.TENNIS_DATA = {
         "top10_wins": 13
       },
       "leyendaScore": 0.0,
-      "prevListRank": 63,
+      "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7300,7 +7372,7 @@ window.TENNIS_DATA = {
       "id": "220332",
       "name": "Eva Lys",
       "rank": 85,
-      "prevRank": 86,
+      "prevRank": 85,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
@@ -7321,12 +7393,12 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 64,
+      "prevListRank": 66,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 58.6
     },
@@ -7334,7 +7406,7 @@ window.TENNIS_DATA = {
       "id": "203530",
       "name": "Viktorija Golubic",
       "rank": 51,
-      "prevRank": 47,
+      "prevRank": 51,
       "country": "SUI",
       "logo": "https://flagcdn.com/24x18/ch.png",
       "teamCode": "SUI",
@@ -7355,7 +7427,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 65,
+      "prevListRank": 67,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
@@ -7368,7 +7440,7 @@ window.TENNIS_DATA = {
       "id": "220309",
       "name": "Zeynep Sonmez",
       "rank": 52,
-      "prevRank": 48,
+      "prevRank": 52,
       "country": "TUR",
       "logo": "https://flagcdn.com/24x18/tr.png",
       "teamCode": "TUR",
@@ -7389,11 +7461,11 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 66,
+      "prevListRank": 68,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 58.3
@@ -7401,8 +7473,8 @@ window.TENNIS_DATA = {
     {
       "id": "214954",
       "name": "Marketa Vondrousova",
-      "rank": 135,
-      "prevRank": 137,
+      "rank": 140,
+      "prevRank": 135,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -7425,9 +7497,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 19,
       "inactivePenalty": 15.0,
       "leyendaScore": 3.7,
-      "prevListRank": 67,
+      "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7435,78 +7507,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 57.7
     },
     {
-      "id": "221909",
-      "name": "Ashlyn Krueger",
-      "rank": 67,
-      "prevRank": 65,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 57.6,
-      "legendScore": 19.6,
-      "age": 22,
-      "surface": {
-        "hard": 0.524,
-        "clay": 0.385,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 68,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 57.6
-    },
-    {
-      "id": "211817",
-      "name": "Elena Gabriela Ruse",
-      "rank": 75,
-      "prevRank": 72,
-      "country": "ROU",
-      "logo": "https://flagcdn.com/24x18/ro.png",
-      "teamCode": "ROU",
-      "primary": "#002B7F",
-      "secondary": "#FFFFFF",
-      "activeScore": 57.5,
-      "legendScore": 20.9,
-      "age": 28,
-      "surface": {
-        "hard": 0.292,
-        "clay": 0.562,
-        "grass": 0.667
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 69,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
-      },
-      "prevActiveScore": 57.5
-    },
-    {
       "id": "215035",
       "name": "Dayana Yastremska",
       "rank": 87,
-      "prevRank": 88,
+      "prevRank": 87,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
@@ -7529,7 +7533,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7565,22 +7569,56 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 57.3
     },
     {
+      "id": "211817",
+      "name": "Elena Gabriela Ruse",
+      "rank": 77,
+      "prevRank": 75,
+      "country": "ROU",
+      "logo": "https://flagcdn.com/24x18/ro.png",
+      "teamCode": "ROU",
+      "primary": "#002B7F",
+      "secondary": "#FFFFFF",
+      "activeScore": 57.2,
+      "legendScore": 20.9,
+      "age": 28,
+      "surface": {
+        "hard": 0.292,
+        "clay": 0.562,
+        "grass": 0.667
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 72,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
+      "prevActiveScore": 57.5
+    },
+    {
       "id": "214388",
       "name": "Anna Bondar",
-      "rank": 77,
-      "prevRank": 97,
+      "rank": 78,
+      "prevRank": 77,
       "country": "HUN",
       "logo": "https://flagcdn.com/24x18/hu.png",
       "teamCode": "HUN",
       "primary": "#477050",
       "secondary": "#FFFFFF",
-      "activeScore": 57.3,
+      "activeScore": 57.2,
       "legendScore": 16.3,
       "age": 29,
       "surface": {
@@ -7595,7 +7633,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 72,
+      "prevListRank": 73,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
@@ -7608,7 +7646,7 @@ window.TENNIS_DATA = {
       "id": "221333",
       "name": "Solana Sierra",
       "rank": 86,
-      "prevRank": 87,
+      "prevRank": 86,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
@@ -7629,26 +7667,60 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 73,
+      "prevListRank": 74,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.1
     },
     {
+      "id": "211684",
+      "name": "Magdalena Frech",
+      "rank": 45,
+      "prevRank": 48,
+      "country": "POL",
+      "logo": "https://flagcdn.com/24x18/pl.png",
+      "teamCode": "POL",
+      "primary": "#DC143C",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.4,
+      "legendScore": 29.1,
+      "age": 28,
+      "surface": {
+        "hard": 0.439,
+        "clay": 0.375,
+        "grass": 0.2
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 75,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
+      "prevActiveScore": 56.0
+    },
+    {
       "id": "201533",
       "name": "Shuai Zhang",
-      "rank": 57,
-      "prevRank": 55,
+      "rank": 62,
+      "prevRank": 57,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
       "primary": "#DE2910",
       "secondary": "#FFFFFF",
-      "activeScore": 56.9,
+      "activeScore": 56.3,
       "legendScore": 29.4,
       "age": 37,
       "surface": {
@@ -7663,9 +7735,9 @@ window.TENNIS_DATA = {
         "top10_wins": 8
       },
       "leyendaScore": 0.0,
-      "prevListRank": 74,
+      "prevListRank": 76,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7676,7 +7748,7 @@ window.TENNIS_DATA = {
       "id": "213710",
       "name": "Cristina Bucsa",
       "rank": 40,
-      "prevRank": 42,
+      "prevRank": 40,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -7697,7 +7769,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 75,
+      "prevListRank": 77,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "out",
@@ -7707,44 +7779,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 56.1
     },
     {
-      "id": "211684",
-      "name": "Magdalena Frech",
-      "rank": 48,
-      "prevRank": 43,
-      "country": "POL",
-      "logo": "https://flagcdn.com/24x18/pl.png",
-      "teamCode": "POL",
-      "primary": "#DC143C",
-      "secondary": "#FFFFFF",
-      "activeScore": 56.0,
-      "legendScore": 29.1,
-      "age": 28,
-      "surface": {
-        "hard": 0.439,
-        "clay": 0.375,
-        "grass": 0.2
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 76,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
-      },
-      "prevActiveScore": 56.0
-    },
-    {
       "id": "238075",
       "name": "Petra Marcinko",
       "rank": 53,
-      "prevRank": 49,
+      "prevRank": 53,
       "country": "CRO",
       "logo": "https://flagcdn.com/24x18/hr.png",
       "teamCode": "CRO",
@@ -7765,9 +7803,9 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 77,
+      "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7775,84 +7813,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 56.0
     },
     {
-      "id": "222601",
-      "name": "Jessica Bouzas Maneiro",
-      "rank": 59,
-      "prevRank": 59,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
-      "secondary": "#FFFFFF",
-      "activeScore": 55.9,
-      "legendScore": 31.3,
-      "age": 23,
-      "surface": {
-        "hard": 0.415,
-        "clay": 0.545,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 3
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 78,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
-      },
-      "prevActiveScore": 55.9
-    },
-    {
-      "id": "219917",
-      "name": "Alycia Parks",
-      "rank": 68,
-      "prevRank": 66,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 55.6,
-      "legendScore": 22.1,
-      "age": 25,
-      "surface": {
-        "hard": 0.442,
-        "clay": 0.389,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 79,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 55.6
-    },
-    {
       "id": "222145",
       "name": "Janice Tjen",
-      "rank": 37,
-      "prevRank": 38,
+      "rank": 36,
+      "prevRank": 37,
       "country": "INA",
       "logo": "",
       "teamCode": "INA",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 55.5,
+      "activeScore": 55.6,
       "legendScore": 24.5,
       "age": 24,
       "surface": {
@@ -7867,26 +7837,94 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 80,
+      "prevListRank": 79,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 55.5
     },
     {
+      "id": "222601",
+      "name": "Jessica Bouzas Maneiro",
+      "rank": 63,
+      "prevRank": 59,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.4,
+      "legendScore": 31.3,
+      "age": 23,
+      "surface": {
+        "hard": 0.415,
+        "clay": 0.545,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 80,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
+      "prevActiveScore": 55.9
+    },
+    {
+      "id": "219917",
+      "name": "Alycia Parks",
+      "rank": 71,
+      "prevRank": 68,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.2,
+      "legendScore": 22.1,
+      "age": 25,
+      "surface": {
+        "hard": 0.442,
+        "clay": 0.389,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 81,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
+      "prevActiveScore": 55.6
+    },
+    {
       "id": "214040",
       "name": "Kimberly Birrell",
-      "rank": 66,
-      "prevRank": 64,
+      "rank": 69,
+      "prevRank": 66,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
       "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 54.8,
+      "activeScore": 54.5,
       "legendScore": 14.4,
       "age": 28,
       "surface": {
@@ -7901,7 +7939,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 81,
+      "prevListRank": 82,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "out",
@@ -7913,14 +7951,14 @@ window.TENNIS_DATA = {
     {
       "id": "215910",
       "name": "Panna Udvardy",
-      "rank": 74,
-      "prevRank": 71,
+      "rank": 76,
+      "prevRank": 74,
       "country": "HUN",
       "logo": "https://flagcdn.com/24x18/hu.png",
       "teamCode": "HUN",
       "primary": "#477050",
       "secondary": "#FFFFFF",
-      "activeScore": 54.6,
+      "activeScore": 54.4,
       "legendScore": 4.9,
       "age": 27,
       "surface": {
@@ -7935,11 +7973,11 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 82,
+      "prevListRank": 83,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 54.6
@@ -7947,14 +7985,14 @@ window.TENNIS_DATA = {
     {
       "id": "221883",
       "name": "Talia Gibson",
-      "rank": 72,
-      "prevRank": 70,
+      "rank": 74,
+      "prevRank": 72,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
       "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 54.1,
+      "activeScore": 53.8,
       "legendScore": 15.3,
       "age": 22,
       "surface": {
@@ -7969,7 +8007,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 83,
+      "prevListRank": 84,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
@@ -7982,7 +8020,7 @@ window.TENNIS_DATA = {
       "id": "211651",
       "name": "Paula Badosa",
       "rank": 84,
-      "prevRank": 93,
+      "prevRank": 84,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -8005,9 +8043,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 84,
+      "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8017,7 +8055,7 @@ window.TENNIS_DATA = {
     {
       "id": "221354",
       "name": "Lisa Pigato",
-      "rank": 129,
+      "rank": 133,
       "prevRank": 129,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
@@ -8039,9 +8077,9 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 85,
+      "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8049,44 +8087,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 52.5
     },
     {
-      "id": "201709",
-      "name": "Yulia Putintseva",
-      "rank": 81,
-      "prevRank": 79,
-      "country": "KAZ",
-      "logo": "https://flagcdn.com/24x18/kz.png",
-      "teamCode": "KAZ",
-      "primary": "#00AFCA",
-      "secondary": "#FFFFFF",
-      "activeScore": 52.2,
-      "legendScore": 34.4,
-      "age": 31,
-      "surface": {
-        "hard": 0.439,
-        "clay": 0.4,
-        "grass": 0.2
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 13
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 86,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 52.2
-    },
-    {
       "id": "252499",
       "name": "Alina Korneeva",
       "rank": 89,
-      "prevRank": 75,
+      "prevRank": 89,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -8117,9 +8121,77 @@ window.TENNIS_DATA = {
       "prevActiveScore": 52.2
     },
     {
+      "id": "201709",
+      "name": "Yulia Putintseva",
+      "rank": 82,
+      "prevRank": 81,
+      "country": "KAZ",
+      "logo": "https://flagcdn.com/24x18/kz.png",
+      "teamCode": "KAZ",
+      "primary": "#00AFCA",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.0,
+      "legendScore": 34.4,
+      "age": 31,
+      "surface": {
+        "hard": 0.439,
+        "clay": 0.4,
+        "grass": 0.2
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 13
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 88,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 52.2
+    },
+    {
+      "id": "269714",
+      "name": "Kristina Liutova",
+      "rank": 126,
+      "prevRank": 229,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 51.8,
+      "legendScore": 0.0,
+      "age": 16,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 89,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 51.8
+    },
+    {
       "id": "259871",
       "name": "Jeline Vandromme",
-      "rank": 128,
+      "rank": 132,
       "prevRank": 128,
       "country": "BEL",
       "logo": "https://flagcdn.com/24x18/be.png",
@@ -8141,9 +8213,9 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 88,
+      "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8153,8 +8225,8 @@ window.TENNIS_DATA = {
     {
       "id": "267020",
       "name": "Teodora Kostovic",
-      "rank": 146,
-      "prevRank": 171,
+      "rank": 150,
+      "prevRank": 146,
       "country": "SRB",
       "logo": "https://flagcdn.com/24x18/rs.png",
       "teamCode": "SRB",
@@ -8175,7 +8247,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 89,
+      "prevListRank": 91,
       "tournamentStatus": {
         "tournament": "Warsaw T-Mobile Polish Open",
         "state": "out",
@@ -8185,10 +8257,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 51.8
     },
     {
+      "id": "213887",
+      "name": "Renata Zarazua",
+      "rank": 73,
+      "prevRank": 83,
+      "country": "MEX",
+      "logo": "https://flagcdn.com/24x18/mx.png",
+      "teamCode": "MEX",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 51.6,
+      "legendScore": 19.3,
+      "age": 28,
+      "surface": {
+        "hard": 0.379,
+        "clay": 0.286,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 92,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
+      "prevActiveScore": 50.4
+    },
+    {
       "id": "213550",
       "name": "Sofia Kenin",
-      "rank": 116,
-      "prevRank": 108,
+      "rank": 118,
+      "prevRank": 116,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -8209,60 +8315,26 @@ window.TENNIS_DATA = {
         "top10_wins": 14
       },
       "leyendaScore": 3.7,
-      "prevListRank": 90,
+      "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 51.5
-    },
-    {
-      "id": "201548",
-      "name": "Ajla Tomljanovic",
-      "rank": 92,
-      "prevRank": 94,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
-      "secondary": "#FFFFFF",
-      "activeScore": 51.0,
-      "legendScore": 29.8,
-      "age": 33,
-      "surface": {
-        "hard": 0.487,
-        "clay": 0.375,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 6
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 91,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 51.0
+      "prevActiveScore": 51.5
     },
     {
       "id": "213583",
       "name": "Tatjana Maria",
-      "rank": 79,
-      "prevRank": 76,
+      "rank": 80,
+      "prevRank": 79,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 50.8,
+      "activeScore": 50.6,
       "legendScore": 21.8,
       "age": 38,
       "surface": {
@@ -8277,54 +8349,54 @@ window.TENNIS_DATA = {
         "top10_wins": 6
       },
       "leyendaScore": 0.0,
-      "prevListRank": 92,
+      "prevListRank": 94,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 50.8
     },
     {
-      "id": "213887",
-      "name": "Renata Zarazua",
-      "rank": 83,
-      "prevRank": 85,
-      "country": "MEX",
-      "logo": "https://flagcdn.com/24x18/mx.png",
-      "teamCode": "MEX",
-      "primary": "#555555",
+      "id": "201548",
+      "name": "Ajla Tomljanovic",
+      "rank": 95,
+      "prevRank": 92,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 50.4,
-      "legendScore": 19.3,
-      "age": 28,
+      "activeScore": 50.6,
+      "legendScore": 29.8,
+      "age": 33,
       "surface": {
-        "hard": 0.379,
-        "clay": 0.286,
+        "hard": 0.487,
+        "clay": 0.375,
         "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 1
+        "top10_wins": 6
       },
       "leyendaScore": 0.0,
-      "prevListRank": 93,
+      "prevListRank": 95,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 50.4
+      "prevActiveScore": 51.0
     },
     {
       "id": "222966",
       "name": "Dominika Salkova",
-      "rank": 121,
-      "prevRank": 127,
+      "rank": 120,
+      "prevRank": 121,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -8347,9 +8419,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 94,
+      "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8359,7 +8431,7 @@ window.TENNIS_DATA = {
     {
       "id": "215453",
       "name": "Marina Bassols Ribera",
-      "rank": 130,
+      "rank": 136,
       "prevRank": 130,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
@@ -8381,9 +8453,9 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 95,
+      "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8393,14 +8465,14 @@ window.TENNIS_DATA = {
     {
       "id": "215872",
       "name": "Kamilla Rakhimova",
-      "rank": 82,
-      "prevRank": 78,
+      "rank": 83,
+      "prevRank": 82,
       "country": "UZB",
       "logo": "https://flagcdn.com/24x18/uz.png",
       "teamCode": "UZB",
       "primary": "#1EB53A",
       "secondary": "#FFFFFF",
-      "activeScore": 49.5,
+      "activeScore": 49.4,
       "legendScore": 23.0,
       "age": 24,
       "surface": {
@@ -8415,7 +8487,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 96,
+      "prevListRank": 98,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
@@ -8427,7 +8499,7 @@ window.TENNIS_DATA = {
     {
       "id": "203514",
       "name": "Katarzyna Kawa",
-      "rank": 131,
+      "rank": 137,
       "prevRank": 131,
       "country": "POL",
       "logo": "https://flagcdn.com/24x18/pl.png",
@@ -8451,7 +8523,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 97,
+      "prevListRank": 99,
       "tournamentStatus": {
         "tournament": "Warsaw T-Mobile Polish Open",
         "state": "alive",
@@ -8463,8 +8535,8 @@ window.TENNIS_DATA = {
     {
       "id": "247669",
       "name": "Veronika Podrez",
-      "rank": 134,
-      "prevRank": 140,
+      "rank": 139,
+      "prevRank": 134,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
@@ -8487,7 +8559,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 98,
+      "prevListRank": 100,
       "tournamentStatus": {
         "tournament": "Warsaw T-Mobile Polish Open",
         "state": "alive",
@@ -8499,8 +8571,8 @@ window.TENNIS_DATA = {
     {
       "id": "223194",
       "name": "Taylah Preston",
-      "rank": 119,
-      "prevRank": 118,
+      "rank": 106,
+      "prevRank": 119,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -8523,9 +8595,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 99,
+      "prevListRank": 101,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8535,14 +8607,14 @@ window.TENNIS_DATA = {
     {
       "id": "215306",
       "name": "Emiliana Arango",
-      "rank": 95,
-      "prevRank": 96,
+      "rank": 97,
+      "prevRank": 95,
       "country": "COL",
       "logo": "https://flagcdn.com/24x18/co.png",
       "teamCode": "COL",
       "primary": "#FCD116",
       "secondary": "#FFFFFF",
-      "activeScore": 48.4,
+      "activeScore": 48.1,
       "legendScore": 10.1,
       "age": 25,
       "surface": {
@@ -8557,9 +8629,9 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 100,
+      "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8569,8 +8641,8 @@ window.TENNIS_DATA = {
     {
       "id": "215020",
       "name": "Anna Blinkova",
-      "rank": 104,
-      "prevRank": 105,
+      "rank": 108,
+      "prevRank": 104,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -8591,7 +8663,7 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 101,
+      "prevListRank": 103,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "out",
@@ -8603,8 +8675,8 @@ window.TENNIS_DATA = {
     {
       "id": "211685",
       "name": "Rebecca Sramkova",
-      "rank": 141,
-      "prevRank": 136,
+      "rank": 143,
+      "prevRank": 141,
       "country": "SVK",
       "logo": "https://flagcdn.com/24x18/sk.png",
       "teamCode": "SVK",
@@ -8625,26 +8697,26 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 102,
+      "prevListRank": 104,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R64",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 48.0
     },
     {
       "id": "243420",
       "name": "Hanne Vandewinkel",
-      "rank": 91,
-      "prevRank": 92,
+      "rank": 93,
+      "prevRank": 91,
       "country": "BEL",
       "logo": "https://flagcdn.com/24x18/be.png",
       "teamCode": "BEL",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 47.8,
+      "activeScore": 47.5,
       "legendScore": 0.0,
       "age": 22,
       "surface": {
@@ -8659,9 +8731,9 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 103,
+      "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8669,50 +8741,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 47.8
     },
     {
-      "id": "221407",
-      "name": "Oksana Selekhmeteva",
-      "rank": 97,
-      "prevRank": 98,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "activeScore": 47.6,
-      "legendScore": 15.3,
-      "age": 23,
-      "surface": {
-        "hard": 0.417,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 104,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 47.6
-    },
-    {
       "id": "259733",
       "name": "Kaitlin Quevedo",
-      "rank": 103,
-      "prevRank": 101,
+      "rank": 94,
+      "prevRank": 103,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
       "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "activeScore": 46.7,
+      "activeScore": 47.5,
       "legendScore": 30.7,
       "age": 20,
       "surface": {
@@ -8727,9 +8765,9 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 105,
+      "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8737,16 +8775,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 46.7
     },
     {
+      "id": "221407",
+      "name": "Oksana Selekhmeteva",
+      "rank": 100,
+      "prevRank": 97,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.2,
+      "legendScore": 15.3,
+      "age": 23,
+      "surface": {
+        "hard": 0.417,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 107,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 47.6
+    },
+    {
       "id": "221039",
       "name": "Elsa Jacquemot",
-      "rank": 98,
-      "prevRank": 104,
+      "rank": 101,
+      "prevRank": 98,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 46.0,
+      "activeScore": 45.7,
       "legendScore": 23.6,
       "age": 23,
       "surface": {
@@ -8761,7 +8833,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 106,
+      "prevListRank": 108,
       "tournamentStatus": {
         "tournament": "Warsaw T-Mobile Polish Open",
         "state": "alive",
@@ -8771,10 +8843,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 46.0
     },
     {
+      "id": "220465",
+      "name": "Katie Volynets",
+      "rank": 91,
+      "prevRank": 93,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 45.6,
+      "legendScore": 16.9,
+      "age": 24,
+      "surface": {
+        "hard": 0.333,
+        "clay": 0.375,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 109,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 45.4
+    },
+    {
       "id": "215899",
       "name": "Simona Waltert",
       "rank": 90,
-      "prevRank": 91,
+      "prevRank": 90,
       "country": "SUI",
       "logo": "https://flagcdn.com/24x18/ch.png",
       "teamCode": "SUI",
@@ -8795,9 +8901,9 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 107,
+      "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8805,44 +8911,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 45.5
     },
     {
-      "id": "220465",
-      "name": "Katie Volynets",
-      "rank": 93,
-      "prevRank": 95,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 45.4,
-      "legendScore": 16.9,
-      "age": 24,
-      "surface": {
-        "hard": 0.333,
-        "clay": 0.375,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 108,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 45.4
-    },
-    {
       "id": "206368",
       "name": "Veronika Kudermetova",
-      "rank": 126,
-      "prevRank": 125,
+      "rank": 129,
+      "prevRank": 126,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -8865,9 +8937,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 32,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 109,
+      "prevListRank": 111,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8877,8 +8949,8 @@ window.TENNIS_DATA = {
     {
       "id": "214906",
       "name": "Claire Liu",
-      "rank": 113,
-      "prevRank": 114,
+      "rank": 116,
+      "prevRank": 113,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -8899,9 +8971,9 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 110,
+      "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8911,7 +8983,7 @@ window.TENNIS_DATA = {
     {
       "id": "263644",
       "name": "Emerson Jones",
-      "rank": 139,
+      "rank": 134,
       "prevRank": 139,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
@@ -8933,7 +9005,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 111,
+      "prevListRank": 113,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "out",
@@ -8945,8 +9017,8 @@ window.TENNIS_DATA = {
     {
       "id": "205925",
       "name": "Aliaksandra Sasnovich",
-      "rank": 136,
-      "prevRank": 133,
+      "rank": 141,
+      "prevRank": 136,
       "country": "BLR",
       "logo": "https://flagcdn.com/24x18/by.png",
       "teamCode": "BLR",
@@ -8969,9 +9041,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 112,
+      "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8981,7 +9053,7 @@ window.TENNIS_DATA = {
     {
       "id": "222661",
       "name": "Sonay Kartal",
-      "rank": 122,
+      "rank": 124,
       "prevRank": 122,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
@@ -9005,9 +9077,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 113,
+      "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9017,14 +9089,14 @@ window.TENNIS_DATA = {
     {
       "id": "221257",
       "name": "Sinja Kraus",
-      "rank": 80,
+      "rank": 81,
       "prevRank": 80,
       "country": "AUT",
       "logo": "https://flagcdn.com/24x18/at.png",
       "teamCode": "AUT",
       "primary": "#ED2939",
       "secondary": "#FFFFFF",
-      "activeScore": 44.5,
+      "activeScore": 44.3,
       "legendScore": 0.0,
       "age": 24,
       "surface": {
@@ -9039,9 +9111,9 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 114,
+      "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9049,52 +9121,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 44.5
     },
     {
-      "id": "220699",
-      "name": "Julia Riera",
-      "rank": 148,
-      "prevRank": 166,
-      "country": "ARG",
-      "logo": "https://flagcdn.com/24x18/ar.png",
-      "teamCode": "ARG",
-      "primary": "#74ACDF",
-      "secondary": "#FFFFFF",
-      "activeScore": 44.3,
-      "legendScore": 0.0,
-      "age": 24,
-      "surface": {
-        "hard": null,
-        "clay": 0.625,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 8,
-      "inactivePenalty": 10.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 115,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 44.3
-    },
-    {
       "id": "220435",
       "name": "Anastasia Zakharova",
-      "rank": 101,
-      "prevRank": 102,
+      "rank": 99,
+      "prevRank": 101,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 43.7,
+      "activeScore": 43.9,
       "legendScore": 27.0,
       "age": 24,
       "surface": {
@@ -9109,9 +9145,9 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 116,
+      "prevListRank": 117,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9121,8 +9157,8 @@ window.TENNIS_DATA = {
     {
       "id": "230870",
       "name": "Ella Seidel",
-      "rank": 102,
-      "prevRank": 103,
+      "rank": 105,
+      "prevRank": 102,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
@@ -9143,7 +9179,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 117,
+      "prevListRank": 118,
       "tournamentStatus": {
         "tournament": "Warsaw T-Mobile Polish Open",
         "state": "alive",
@@ -9153,10 +9189,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 43.7
     },
     {
+      "id": "211539",
+      "name": "Fiona Ferro",
+      "rank": 149,
+      "prevRank": 159,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 42.9,
+      "legendScore": 20.9,
+      "age": 29,
+      "surface": {
+        "hard": null,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 119,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 42.9
+    },
+    {
       "id": "214459",
       "name": "Lucia Bronzetti",
-      "rank": 118,
-      "prevRank": 120,
+      "rank": 115,
+      "prevRank": 118,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -9177,9 +9247,9 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 118,
+      "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9189,8 +9259,8 @@ window.TENNIS_DATA = {
     {
       "id": "223286",
       "name": "Victoria Jimenez Kasintseva",
-      "rank": 120,
-      "prevRank": 119,
+      "rank": 122,
+      "prevRank": 120,
       "country": "AND",
       "logo": "",
       "teamCode": "AND",
@@ -9213,20 +9283,20 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 119,
+      "prevListRank": 121,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 42.7
     },
     {
       "id": "220722",
       "name": "Elvina Kalieva",
-      "rank": 132,
-      "prevRank": 138,
+      "rank": 121,
+      "prevRank": 132,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -9249,9 +9319,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 120,
+      "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9261,14 +9331,14 @@ window.TENNIS_DATA = {
     {
       "id": "216016",
       "name": "Xiyu Wang",
-      "rank": 94,
-      "prevRank": 90,
+      "rank": 96,
+      "prevRank": 94,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
       "primary": "#DE2910",
       "secondary": "#FFFFFF",
-      "activeScore": 41.9,
+      "activeScore": 41.7,
       "legendScore": 22.1,
       "age": 25,
       "surface": {
@@ -9283,9 +9353,9 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 121,
+      "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9295,14 +9365,14 @@ window.TENNIS_DATA = {
     {
       "id": "221237",
       "name": "Maria Timofeeva",
-      "rank": 96,
-      "prevRank": 84,
+      "rank": 98,
+      "prevRank": 96,
       "country": "UZB",
       "logo": "https://flagcdn.com/24x18/uz.png",
       "teamCode": "UZB",
       "primary": "#1EB53A",
       "secondary": "#FFFFFF",
-      "activeScore": 41.7,
+      "activeScore": 41.5,
       "legendScore": 30.7,
       "age": 22,
       "surface": {
@@ -9319,9 +9389,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 122,
+      "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9329,46 +9399,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 41.7
     },
     {
-      "id": "223325",
-      "name": "Polina Iatcenko",
-      "rank": 149,
-      "prevRank": 146,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "activeScore": 41.4,
-      "legendScore": 0.0,
-      "age": 22,
-      "surface": {
-        "hard": 0.667,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 30,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 123,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 41.4
-    },
-    {
       "id": "215936",
       "name": "Francesca Jones",
-      "rank": 110,
-      "prevRank": 113,
+      "rank": 107,
+      "prevRank": 110,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
@@ -9389,9 +9423,9 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 124,
+      "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9401,8 +9435,8 @@ window.TENNIS_DATA = {
     {
       "id": "214593",
       "name": "Lucrezia Stefanini",
-      "rank": 144,
-      "prevRank": 142,
+      "rank": 147,
+      "prevRank": 144,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -9423,7 +9457,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 125,
+      "prevListRank": 126,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "out",
@@ -9435,8 +9469,8 @@ window.TENNIS_DATA = {
     {
       "id": "220416",
       "name": "Moyuka Uchijima",
-      "rank": 107,
-      "prevRank": 110,
+      "rank": 111,
+      "prevRank": 107,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "teamCode": "JPN",
@@ -9457,7 +9491,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 126,
+      "prevListRank": 127,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
@@ -9469,8 +9503,8 @@ window.TENNIS_DATA = {
     {
       "id": "221406",
       "name": "Alina Charaeva",
-      "rank": 112,
-      "prevRank": 117,
+      "rank": 114,
+      "prevRank": 112,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -9493,9 +9527,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 127,
+      "prevListRank": 128,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9505,8 +9539,8 @@ window.TENNIS_DATA = {
     {
       "id": "206417",
       "name": "Leolia Jeanjean",
-      "rank": 117,
-      "prevRank": 112,
+      "rank": 119,
+      "prevRank": 117,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -9527,7 +9561,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 128,
+      "prevListRank": 129,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "out",
@@ -9539,8 +9573,8 @@ window.TENNIS_DATA = {
     {
       "id": "206294",
       "name": "Yue Yuan",
-      "rank": 125,
-      "prevRank": 121,
+      "rank": 128,
+      "prevRank": 125,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
@@ -9563,9 +9597,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 129,
+      "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9575,8 +9609,8 @@ window.TENNIS_DATA = {
     {
       "id": "221124",
       "name": "Himeno Sakatsume",
-      "rank": 138,
-      "prevRank": 132,
+      "rank": 135,
+      "prevRank": 138,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "teamCode": "JPN",
@@ -9599,9 +9633,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 130,
+      "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9612,7 +9646,7 @@ window.TENNIS_DATA = {
       "id": "210886",
       "name": "Mayar Sherif",
       "rank": 50,
-      "prevRank": 73,
+      "prevRank": 50,
       "country": "EGY",
       "logo": "https://flagcdn.com/24x18/eg.png",
       "teamCode": "EGY",
@@ -9633,9 +9667,9 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 131,
+      "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9643,46 +9677,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 38.9
     },
     {
-      "id": "222290",
-      "name": "Lanlana Tararudee",
-      "rank": 78,
-      "prevRank": 82,
-      "country": "THA",
-      "logo": "https://flagcdn.com/24x18/th.png",
-      "teamCode": "THA",
-      "primary": "#A51931",
-      "secondary": "#FFFFFF",
-      "activeScore": 38.5,
-      "legendScore": 0.0,
-      "age": 22,
-      "surface": {
-        "hard": 0.5,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 12,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 132,
-      "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
-      },
-      "prevActiveScore": 38.5
-    },
-    {
       "id": "221985",
       "name": "Darja Semenistaja",
-      "rank": 106,
-      "prevRank": 109,
+      "rank": 112,
+      "prevRank": 106,
       "country": "LAT",
       "logo": "https://flagcdn.com/24x18/lv.png",
       "teamCode": "LAT",
@@ -9707,7 +9705,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9715,10 +9713,46 @@ window.TENNIS_DATA = {
       "prevActiveScore": 38.5
     },
     {
+      "id": "222290",
+      "name": "Lanlana Tararudee",
+      "rank": 79,
+      "prevRank": 78,
+      "country": "THA",
+      "logo": "https://flagcdn.com/24x18/th.png",
+      "teamCode": "THA",
+      "primary": "#A51931",
+      "secondary": "#FFFFFF",
+      "activeScore": 38.3,
+      "legendScore": 0.0,
+      "age": 22,
+      "surface": {
+        "hard": 0.5,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 12,
+      "inactivePenalty": 15.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 134,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
+      "prevActiveScore": 38.5
+    },
+    {
       "id": "216566",
       "name": "Mananchaya Sawangkaew",
-      "rank": 111,
-      "prevRank": 116,
+      "rank": 109,
+      "prevRank": 111,
       "country": "THA",
       "logo": "https://flagcdn.com/24x18/th.png",
       "teamCode": "THA",
@@ -9741,9 +9775,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 134,
+      "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9753,14 +9787,14 @@ window.TENNIS_DATA = {
     {
       "id": "219875",
       "name": "Varvara Gracheva",
-      "rank": 99,
+      "rank": 102,
       "prevRank": 99,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 37.8,
+      "activeScore": 37.7,
       "legendScore": 31.0,
       "age": 26,
       "surface": {
@@ -9777,9 +9811,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 10,
       "inactivePenalty": 13.7,
       "leyendaScore": 0.0,
-      "prevListRank": 135,
+      "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9789,7 +9823,7 @@ window.TENNIS_DATA = {
     {
       "id": "220662",
       "name": "Veronika Erjavec",
-      "rank": 100,
+      "rank": 104,
       "prevRank": 100,
       "country": "SLO",
       "logo": "https://flagcdn.com/24x18/si.png",
@@ -9811,9 +9845,9 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 136,
+      "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9823,8 +9857,8 @@ window.TENNIS_DATA = {
     {
       "id": "215037",
       "name": "Kayla Day",
-      "rank": 127,
-      "prevRank": 126,
+      "rank": 131,
+      "prevRank": 127,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -9847,7 +9881,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 137,
+      "prevListRank": 138,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
@@ -9857,116 +9891,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 37.0
     },
     {
-      "id": "220742",
-      "name": "Leyre Romero Gormaz",
-      "rank": 147,
-      "prevRank": 153,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
-      "secondary": "#FFFFFF",
-      "activeScore": 36.1,
-      "legendScore": 30.7,
-      "age": 24,
-      "surface": {
-        "hard": null,
-        "clay": 0.6,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 45,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 138,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 36.1
-    },
-    {
-      "id": "221236",
-      "name": "Polina Kudermetova",
-      "rank": 108,
-      "prevRank": 111,
-      "country": "UZB",
-      "logo": "https://flagcdn.com/24x18/uz.png",
-      "teamCode": "UZB",
-      "primary": "#1EB53A",
-      "secondary": "#FFFFFF",
-      "activeScore": 35.0,
-      "legendScore": 15.3,
-      "age": 23,
-      "surface": {
-        "hard": 0.407,
-        "clay": 0.286,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "inactiveWeeks": 8,
-      "inactivePenalty": 10.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 139,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 35.0
-    },
-    {
-      "id": "211814",
-      "name": "Julia Grabher",
-      "rank": 109,
-      "prevRank": 107,
-      "country": "AUT",
-      "logo": "https://flagcdn.com/24x18/at.png",
-      "teamCode": "AUT",
-      "primary": "#ED2939",
-      "secondary": "#FFFFFF",
-      "activeScore": 35.0,
-      "legendScore": 18.1,
-      "age": 30,
-      "surface": {
-        "hard": 0.231,
-        "clay": 0.25,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 140,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 35.0
-    },
-    {
       "id": "221307",
       "name": "Darja Vidmanova",
-      "rank": 114,
-      "prevRank": 106,
+      "rank": 92,
+      "prevRank": 114,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -9989,9 +9917,79 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
+      "prevListRank": 139,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 35.0
+    },
+    {
+      "id": "221236",
+      "name": "Polina Kudermetova",
+      "rank": 103,
+      "prevRank": 108,
+      "country": "UZB",
+      "logo": "https://flagcdn.com/24x18/uz.png",
+      "teamCode": "UZB",
+      "primary": "#1EB53A",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 15.3,
+      "age": 23,
+      "surface": {
+        "hard": 0.407,
+        "clay": 0.286,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 140,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 35.0
+    },
+    {
+      "id": "211814",
+      "name": "Julia Grabher",
+      "rank": 113,
+      "prevRank": 109,
+      "country": "AUT",
+      "logo": "https://flagcdn.com/24x18/at.png",
+      "teamCode": "AUT",
+      "primary": "#ED2939",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 18.1,
+      "age": 30,
+      "surface": {
+        "hard": 0.231,
+        "clay": 0.25,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
       "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10001,7 +9999,7 @@ window.TENNIS_DATA = {
     {
       "id": "215138",
       "name": "Lulu Sun",
-      "rank": 115,
+      "rank": 117,
       "prevRank": 115,
       "country": "NZL",
       "logo": "https://flagcdn.com/24x18/nz.png",
@@ -10027,7 +10025,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10037,7 +10035,7 @@ window.TENNIS_DATA = {
     {
       "id": "223168",
       "name": "Mary Stoiana",
-      "rank": 124,
+      "rank": 127,
       "prevRank": 124,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
@@ -10063,7 +10061,43 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 35.0
+    },
+    {
+      "id": "213666",
+      "name": "Maddison Inglis",
+      "rank": 130,
+      "prevRank": 150,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 22.1,
+      "age": 28,
+      "surface": {
+        "hard": 0.25,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 18,
+      "inactivePenalty": 15.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 144,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10073,8 +10107,8 @@ window.TENNIS_DATA = {
     {
       "id": "202684",
       "name": "Lin Zhu",
-      "rank": 133,
-      "prevRank": 135,
+      "rank": 138,
+      "prevRank": 133,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
@@ -10097,9 +10131,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 20,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 144,
+      "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10109,8 +10143,8 @@ window.TENNIS_DATA = {
     {
       "id": "223333",
       "name": "Noma Noha Akugue",
-      "rank": 137,
-      "prevRank": 144,
+      "rank": 142,
+      "prevRank": 137,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
@@ -10133,7 +10167,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 145,
+      "prevListRank": 146,
       "tournamentStatus": {
         "tournament": "Warsaw T-Mobile Polish Open",
         "state": "alive",
@@ -10143,81 +10177,9 @@ window.TENNIS_DATA = {
       "prevActiveScore": 35.0
     },
     {
-      "id": "222233",
-      "name": "Marina Stakusic",
-      "rank": 140,
-      "prevRank": 141,
-      "country": "CAN",
-      "logo": "https://flagcdn.com/24x18/ca.png",
-      "teamCode": "CAN",
-      "primary": "#FF0000",
-      "secondary": "#FFFFFF",
-      "activeScore": 35.0,
-      "legendScore": 0.0,
-      "age": 21,
-      "surface": {
-        "hard": 0.4,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 12,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 146,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 35.0
-    },
-    {
-      "id": "214461",
-      "name": "Tamara Zidansek",
-      "rank": 142,
-      "prevRank": 134,
-      "country": "SLO",
-      "logo": "https://flagcdn.com/24x18/si.png",
-      "teamCode": "SLO",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "activeScore": 35.0,
-      "legendScore": 24.2,
-      "age": 28,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "inactiveWeeks": 16,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 147,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 35.0
-    },
-    {
       "id": "211279",
       "name": "Harriet Dart",
-      "rank": 143,
+      "rank": 144,
       "prevRank": 143,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
@@ -10241,9 +10203,81 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 44,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
+      "prevListRank": 147,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 35.0
+    },
+    {
+      "id": "222233",
+      "name": "Marina Stakusic",
+      "rank": 145,
+      "prevRank": 140,
+      "country": "CAN",
+      "logo": "https://flagcdn.com/24x18/ca.png",
+      "teamCode": "CAN",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "age": 21,
+      "surface": {
+        "hard": 0.4,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 12,
+      "inactivePenalty": 15.0,
+      "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 35.0
+    },
+    {
+      "id": "214461",
+      "name": "Tamara Zidansek",
+      "rank": 146,
+      "prevRank": 142,
+      "country": "SLO",
+      "logo": "https://flagcdn.com/24x18/si.png",
+      "teamCode": "SLO",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 24.2,
+      "age": 28,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 16,
+      "inactivePenalty": 15.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 149,
+      "tournamentStatus": {
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10253,7 +10287,7 @@ window.TENNIS_DATA = {
     {
       "id": "215480",
       "name": "Suzan Lamens",
-      "rank": 145,
+      "rank": 148,
       "prevRank": 145,
       "country": "NED",
       "logo": "https://flagcdn.com/24x18/nl.png",
@@ -10277,45 +10311,9 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 16,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 149,
-      "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 35.0
-    },
-    {
-      "id": "213666",
-      "name": "Maddison Inglis",
-      "rank": 150,
-      "prevRank": 147,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
-      "secondary": "#FFFFFF",
-      "activeScore": 35.0,
-      "legendScore": 22.1,
-      "age": 28,
-      "surface": {
-        "hard": 0.25,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 18,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+        "tournament": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10327,13 +10325,13 @@ window.TENNIS_DATA = {
     "entered": [],
     "exited": [],
     "prev_date": "",
-    "curr_date": "20260723"
+    "curr_date": "20260730"
   },
   "WTA_CHANGES": {
     "entered": [],
     "exited": [],
     "prev_date": "",
-    "curr_date": "20260723"
+    "curr_date": "20260730"
   },
   "ATP_LEGENDS": [
     {
@@ -10878,72 +10876,17 @@ window.TENNIS_DATA = {
       "surface": "Hard",
       "matches": [
         {
-          "round": "Semifinal",
-          "w": "Rafael Jodar",
-          "w_logo": "",
-          "l": "Alejandro Tabilo",
-          "l_logo": "",
-          "score": "6-7 (6-8) 6-4 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 77.8,
-          "l_score": 66.6,
-          "match_score": 77.8
-        }
-      ]
-    },
-    {
-      "name": "National Bank Open presented by Rogers",
-      "level": "Masters 1000",
-      "surface": "Hard",
-      "matches": [
-        {
-          "round": "R128",
-          "w": "Jaume Munar",
-          "w_logo": "",
-          "l": "Rinky Hijikata",
-          "l_logo": "",
-          "score": "7-6 (7-3) 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 64.4,
-          "l_score": 48.8,
-          "match_score": 64.4
-        },
-        {
-          "round": "R128",
-          "w": "Shang Juncheng",
-          "w_logo": "",
-          "l": "Adolfo Daniel Vallejo",
-          "l_logo": "",
-          "score": "6-3 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": 62.0,
-          "match_score": 62.0
-        }
-      ]
-    }
-  ],
-  "ATP_TODAY": [
-    {
-      "name": "Mubadala DC Open",
-      "level": "500",
-      "surface": "Hard",
-      "matches": [
-        {
           "round": "F",
           "w": "Taylor Fritz",
           "w_logo": "",
           "l": "Rafael Jodar",
           "l_logo": "",
           "score": "7-6 (7-2) 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
-          "w_score": 75.7,
-          "l_score": 77.8,
-          "match_score": 77.8
+          "w_score": 75.8,
+          "l_score": 78.8,
+          "match_score": 78.8
         }
       ]
     },
@@ -10958,38 +10901,12 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Matteo Berrettini",
           "l_logo": "",
-          "score": "3-6 1-0",
-          "day": "hoy",
+          "score": "6-3 6-7 (5-7) 6-3",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 64.4,
-          "l_score": 67.6,
-          "match_score": 67.6
-        },
-        {
-          "round": "R128",
-          "w": "Alex Michelsen",
-          "w_logo": "",
-          "l": "Jan-Lennard Struff",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 66.4,
-          "l_score": 57.4,
-          "match_score": 66.4
-        },
-        {
-          "round": "R128",
-          "w": "Cameron Norrie",
-          "w_logo": "",
-          "l": "Camilo Ugo Carabelli",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 66.2,
-          "l_score": 56.2,
-          "match_score": 66.2
+          "l_score": 67.7,
+          "match_score": 67.7
         },
         {
           "round": "R128",
@@ -10997,12 +10914,12 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Luca Van Assche",
           "l_logo": "",
-          "score": "5-4",
-          "day": "hoy",
+          "score": "6-4 2-6 7-6 (9-7)",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 56.6,
-          "l_score": 64.9,
-          "match_score": 64.9
+          "l_score": 64.8,
+          "match_score": 64.8
         },
         {
           "round": "R128",
@@ -11010,12 +10927,12 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Benjamin Bonzi",
           "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 63.3,
+          "score": "6-1 4-6 6-2",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 62.0,
           "l_score": 53.5,
-          "match_score": 63.3
+          "match_score": 62.0
         },
         {
           "round": "R128",
@@ -11023,25 +10940,12 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Aleksandar Kovacevic",
           "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 61.9,
+          "score": "6-7 (7-9) 6-2 6-4",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 61.2,
           "l_score": 51.3,
-          "match_score": 61.9
-        },
-        {
-          "round": "R128",
-          "w": "Corentin Moutet",
-          "w_logo": "",
-          "l": "Marton Fucsovics",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 60.1,
-          "l_score": 57.1,
-          "match_score": 60.1
+          "match_score": 61.2
         },
         {
           "round": "R128",
@@ -11049,157 +10953,169 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alexis Galarneau",
           "l_logo": "",
-          "score": "6-4 2-1",
-          "day": "hoy",
+          "score": "6-4 6-4",
+          "day": "ayer",
           "scheduled": false,
-          "w_score": 59.5,
+          "w_score": 59.4,
           "l_score": null,
-          "match_score": 59.5
+          "match_score": 59.4
+        },
+        {
+          "round": "R128",
+          "w": "Nicolas Mejia",
+          "w_logo": "",
+          "l": "Martin Landaluce",
+          "l_logo": "",
+          "score": "4-6 6-4 6-3",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 35.0,
+          "l_score": 57.6,
+          "match_score": 57.6
+        },
+        {
+          "round": "R128",
+          "w": "Gabriel Diallo",
+          "w_logo": "",
+          "l": "Kyrian Jacquet",
+          "l_logo": "",
+          "score": "6-7 (1-7) 6-3 6-2",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 55.4,
+          "l_score": 47.9,
+          "match_score": 55.4
+        },
+        {
+          "round": "R128",
+          "w": "James Duckworth",
+          "w_logo": "",
+          "l": "Christopher O'Connell",
+          "l_logo": "",
+          "score": "6-3 6-1",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 46.9,
+          "l_score": null,
+          "match_score": 46.9
         }
       ]
     }
   ],
-  "WTA_RECENT": [
-    {
-      "name": "The Memphis Classic",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "F",
-          "w": "Kristina Liutova",
-          "w_logo": "",
-          "l": "Darja Vidmanova",
-          "l_logo": "",
-          "score": "1-6 6-1 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": 35.0,
-          "match_score": 35.0
-        }
-      ]
-    },
-    {
-      "name": "Axeria Open 2026 powered by Intaro Sport",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "F",
-          "w": "Laura Samson",
-          "w_logo": "",
-          "l": "Kaitlin Quevedo",
-          "l_logo": "",
-          "score": "2-6 6-3 6-1",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": 46.7,
-          "match_score": 46.7
-        }
-      ]
-    },
+  "ATP_TODAY": [
     {
       "name": "National Bank Open presented by Rogers",
       "level": "Masters 1000",
       "surface": "Hard",
       "matches": [
         {
-          "round": "R128",
-          "w": "Camila Osorio",
+          "round": "R64",
+          "w": "Alex de Minaur",
           "w_logo": "",
-          "l": "Lucrezia Stefanini",
+          "l": "James Duckworth",
           "l_logo": "",
-          "score": "7-6 (7-4) 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 66.1,
-          "l_score": 40.5,
-          "match_score": 66.1
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 76.8,
+          "l_score": 46.9,
+          "match_score": 76.8
         },
         {
-          "round": "R128",
-          "w": "Sara Bejlek",
+          "round": "R64",
+          "w": "Jiri Lehecka",
           "w_logo": "",
-          "l": "Wang Xiyu",
+          "l": "Vit Kopriva",
           "l_logo": "",
-          "score": "6-3 4-6 7-5",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 63.4,
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 76.4,
+          "l_score": 59.4,
+          "match_score": 76.4
+        },
+        {
+          "round": "R64",
+          "w": "Flavio Cobolli",
+          "w_logo": "",
+          "l": "Yannick Hanfmann",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 75.6,
+          "l_score": 62.0,
+          "match_score": 75.6
+        },
+        {
+          "round": "R64",
+          "w": "Andrey Rublev",
+          "w_logo": "",
+          "l": "Shang Juncheng",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 75.0,
           "l_score": null,
-          "match_score": 63.4
+          "match_score": 75.0
+        },
+        {
+          "round": "R64",
+          "w": "Frances Tiafoe",
+          "w_logo": "",
+          "l": "Marin Cilic",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 74.3,
+          "l_score": 57.7,
+          "match_score": 74.3
+        },
+        {
+          "round": "R64",
+          "w": "Alexander Blockx",
+          "w_logo": "",
+          "l": "Jaume Munar",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 72.6,
+          "l_score": 64.3,
+          "match_score": 72.6
+        },
+        {
+          "round": "R64",
+          "w": "Brandon Nakashima",
+          "w_logo": "",
+          "l": "Daniel Altmaier",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 67.6,
+          "l_score": 55.0,
+          "match_score": 67.6
         },
         {
           "round": "R128",
-          "w": "Viktorija Golubic",
+          "w": "Cameron Norrie",
           "w_logo": "",
-          "l": "Kimberly Birrell",
+          "l": "Camilo Ugo Carabelli",
           "l_logo": "",
-          "score": "7-6 (9-7) 6-4",
-          "day": "ayer",
+          "score": "7-6 (7-5) 6-4",
+          "day": "hoy",
           "scheduled": false,
-          "w_score": 58.3,
-          "l_score": 54.8,
-          "match_score": 58.3
-        },
-        {
-          "round": "R128",
-          "w": "Moyuka Uchijima",
-          "w_logo": "",
-          "l": "Cristina Bucsa",
-          "l_logo": "",
-          "score": "6-3 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 39.9,
-          "l_score": 56.1,
-          "match_score": 56.1
-        },
-        {
-          "round": "R128",
-          "w": "Jessica Bouzas Maneiro",
-          "w_logo": "",
-          "l": "Ariana Arseneault",
-          "l_logo": "",
-          "score": "6-2 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 55.9,
-          "l_score": null,
-          "match_score": 55.9
-        },
-        {
-          "round": "R128",
-          "w": "Kamilla Rakhimova",
-          "w_logo": "",
-          "l": "Venus Williams",
-          "l_logo": "",
-          "score": "6-4 6-1",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 49.5,
-          "l_score": null,
-          "match_score": 49.5
-        },
-        {
-          "round": "R128",
-          "w": "Katherine Sebov",
-          "w_logo": "",
-          "l": "Aoi Ito",
-          "l_logo": "",
-          "score": "6-3 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
+          "w_score": 66.4,
+          "l_score": 56.2,
+          "match_score": 66.4
         }
       ]
     }
   ],
-  "WTA_TODAY": [
+  "WTA_RECENT": [
     {
       "name": "Mubadala DC Open",
       "level": "500",
@@ -11212,9 +11128,9 @@ window.TENNIS_DATA = {
           "l": "Jessica Pegula",
           "l_logo": "",
           "score": "4-6 6-4 6-0",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
-          "w_score": 67.8,
+          "w_score": 68.8,
           "l_score": 90.0,
           "match_score": 90.0
         }
@@ -11232,11 +11148,11 @@ window.TENNIS_DATA = {
           "l": "Oleksandra Oliynykova",
           "l_logo": "",
           "score": "6-4 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
-          "w_score": 74.1,
+          "w_score": 73.7,
           "l_score": 64.3,
-          "match_score": 74.1
+          "match_score": 73.7
         },
         {
           "round": "R128",
@@ -11245,11 +11161,11 @@ window.TENNIS_DATA = {
           "l": "Cadence Brace",
           "l_logo": "",
           "score": "6-3 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
-          "w_score": 67.0,
+          "w_score": 66.9,
           "l_score": null,
-          "match_score": 67.0
+          "match_score": 66.9
         },
         {
           "round": "R128",
@@ -11258,11 +11174,11 @@ window.TENNIS_DATA = {
           "l": "Peyton Stearns",
           "l_logo": "",
           "score": "6-0 7-5",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
-          "w_score": 57.5,
-          "l_score": 66.4,
-          "match_score": 66.4
+          "w_score": 57.2,
+          "l_score": 66.5,
+          "match_score": 66.5
         },
         {
           "round": "R128",
@@ -11271,11 +11187,11 @@ window.TENNIS_DATA = {
           "l": "Bianca Andreescu",
           "l_logo": "",
           "score": "7-5 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
-          "w_score": 64.4,
+          "w_score": 64.2,
           "l_score": null,
-          "match_score": 64.4
+          "match_score": 64.2
         },
         {
           "round": "R128",
@@ -11284,11 +11200,37 @@ window.TENNIS_DATA = {
           "l": "Diane Parry",
           "l_logo": "",
           "score": "3-6 6-3 7-5",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 37.0,
-          "l_score": 63.7,
-          "match_score": 63.7
+          "l_score": 63.2,
+          "match_score": 63.2
+        },
+        {
+          "round": "R128",
+          "w": "Talia Gibson",
+          "w_logo": "",
+          "l": "Elisabetta Cocciaretto",
+          "l_logo": "",
+          "score": "6-2 3-2 ret",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 53.8,
+          "l_score": 62.8,
+          "match_score": 62.8
+        },
+        {
+          "round": "R128",
+          "w": "Renata Zarazua",
+          "w_logo": "",
+          "l": "Tamara Korpatsch",
+          "l_logo": "",
+          "score": "6-4 0-6 6-1",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": 51.6,
+          "l_score": 62.7,
+          "match_score": 62.7
         },
         {
           "round": "R128",
@@ -11297,37 +11239,11 @@ window.TENNIS_DATA = {
           "l": "Katie Boulter",
           "l_logo": "",
           "score": "7-6 (7-3) 7-5",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
-          "l_score": 63.0,
-          "match_score": 63.0
-        },
-        {
-          "round": "R128",
-          "w": "Tamara Korpatsch",
-          "w_logo": "",
-          "l": "Renata Zarazua",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 62.8,
-          "l_score": 50.4,
-          "match_score": 62.8
-        },
-        {
-          "round": "R128",
-          "w": "Magda Linette",
-          "w_logo": "",
-          "l": "Carol Zhao",
-          "l_logo": "",
-          "score": "In Progress",
-          "day": "hoy",
-          "scheduled": false,
-          "w_score": 62.1,
-          "l_score": null,
-          "match_score": 62.1
+          "l_score": 62.6,
+          "match_score": 62.6
         }
       ]
     },
@@ -11343,7 +11259,7 @@ window.TENNIS_DATA = {
           "l": "Teodora Kostovic",
           "l_logo": "",
           "score": "7-6 (7-3) 2-6 6-1",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": 51.8,
@@ -11356,7 +11272,7 @@ window.TENNIS_DATA = {
           "l": "Linda Fruhvirtova",
           "l_logo": "",
           "score": "4-6 6-4 7-6 (7-5)",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 48.9,
           "l_score": null,
@@ -11369,7 +11285,7 @@ window.TENNIS_DATA = {
           "l": "Elena Micic",
           "l_logo": "",
           "score": "6-3 7-6 (7-4)",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 48.9,
           "l_score": null,
@@ -11382,7 +11298,7 @@ window.TENNIS_DATA = {
           "l": "Julia Avdeeva",
           "l_logo": "",
           "score": "6-2 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
@@ -11395,7 +11311,7 @@ window.TENNIS_DATA = {
           "l": "Urszula Radwanska",
           "l_logo": "",
           "score": "6-3 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11408,7 +11324,7 @@ window.TENNIS_DATA = {
           "l": "Amelia Paszun",
           "l_logo": "",
           "score": "6-0 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11421,7 +11337,7 @@ window.TENNIS_DATA = {
           "l": "Alana Smith",
           "l_logo": "",
           "score": "6-1 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11430,17 +11346,236 @@ window.TENNIS_DATA = {
       ]
     }
   ],
+  "WTA_TODAY": [
+    {
+      "name": "National Bank Open presented by Rogers",
+      "level": "Masters 1000",
+      "surface": "Hard",
+      "matches": [
+        {
+          "round": "R64",
+          "w": "Aryna Sabalenka",
+          "w_logo": "",
+          "l": "Moyuka Uchijima",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 100.0,
+          "l_score": 39.9,
+          "match_score": 100.0
+        },
+        {
+          "round": "R64",
+          "w": "Iga Swiatek",
+          "w_logo": "",
+          "l": "Sara Bejlek",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 90.5,
+          "l_score": 63.4,
+          "match_score": 90.5
+        },
+        {
+          "round": "R64",
+          "w": "Marta Kostyuk",
+          "w_logo": "",
+          "l": "Katherine Sebov",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 90.3,
+          "l_score": null,
+          "match_score": 90.3
+        },
+        {
+          "round": "R64",
+          "w": "Elina Svitolina",
+          "w_logo": "",
+          "l": "Jessica Bouzas Maneiro",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 89.9,
+          "l_score": 55.4,
+          "match_score": 89.9
+        },
+        {
+          "round": "R64",
+          "w": "Madison Keys",
+          "w_logo": "",
+          "l": "Antonia Ruzic",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 80.4,
+          "l_score": 60.1,
+          "match_score": 80.4
+        },
+        {
+          "round": "R64",
+          "w": "Maja Chwalinska",
+          "w_logo": "",
+          "l": "Talia Gibson",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 80.2,
+          "l_score": 53.8,
+          "match_score": 80.2
+        },
+        {
+          "round": "R64",
+          "w": "Anastasia Potapova",
+          "w_logo": "",
+          "l": "Elena-Gabriela Ruse",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 79.5,
+          "l_score": 57.2,
+          "match_score": 79.5
+        },
+        {
+          "round": "R64",
+          "w": "Anna Kalinskaya",
+          "w_logo": "",
+          "l": "McCartney Kessler",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 76.1,
+          "l_score": 66.9,
+          "match_score": 76.1
+        }
+      ]
+    },
+    {
+      "name": "Warsaw T-Mobile Polish Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Laura Samson",
+          "w_logo": "",
+          "l": "Mona Barthel",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 63.7,
+          "l_score": null,
+          "match_score": 63.7
+        },
+        {
+          "round": "R128",
+          "w": "Elsa Jacquemot",
+          "w_logo": "",
+          "l": "Carol Young Suh Lee",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 45.7,
+          "l_score": null,
+          "match_score": 45.7
+        },
+        {
+          "round": "R128",
+          "w": "Ella Seidel",
+          "w_logo": "",
+          "l": "Dalma Galfi",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 43.7,
+          "l_score": null,
+          "match_score": 43.7
+        },
+        {
+          "round": "R128",
+          "w": "Elizara Yaneva",
+          "w_logo": "",
+          "l": "Linda Klimovicova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Justina Mikulskyte",
+          "w_logo": "",
+          "l": "Weronika Ewald",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Lia Karatancheva",
+          "w_logo": "",
+          "l": "Zuzanna Pawlikowska",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Sofia Costoulas",
+          "w_logo": "",
+          "l": "Gabriela Knutson",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Susan Bandecchi",
+          "w_logo": "",
+          "l": "Viktoria Hruncakova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        }
+      ]
+    }
+  ],
   "ATP_TOURNAMENT": {
-    "name": "Mubadala DC Open · National Bank Open presented by Rogers",
-    "level": "500",
+    "name": "National Bank Open presented by Rogers",
+    "level": "Masters 1000",
     "surface": "Hard",
     "tour": "ATP",
     "events": [
-      {
-        "name": "Mubadala DC Open",
-        "level": "500",
-        "surface": "Hard"
-      },
       {
         "name": "National Bank Open presented by Rogers",
         "level": "Masters 1000",
@@ -11450,58 +11585,48 @@ window.TENNIS_DATA = {
     "alive": [
       "Adam Walton",
       "Adrian Mannarino",
-      "Alejandro Tabilo",
-      "Aleksandar Kovacevic",
-      "Aleksandar Vukic",
       "Alex Michelsen",
       "Alex de Minaur",
       "Alexander Blockx",
       "Alexei Popyrin",
-      "Alexis Galarneau",
       "Andrey Rublev",
-      "Ben Shelton",
-      "Benjamin Bonzi",
+      "Arthur Rinderknech",
       "Botic Van De Zandschulp",
       "Brandon Nakashima",
       "Cameron Norrie",
-      "Camilo Ugo Carabelli",
-      "Christopher O'Connell",
       "Corentin Moutet",
-      "Cruz Hewitt",
       "Daniel Altmaier",
       "Daniel Merida",
       "Denis Shapovalov",
       "Duncan Chan",
       "Fabian Marozsan",
+      "Felix Auger-Aliassime",
+      "Flavio Cobolli",
+      "Frances Tiafoe",
+      "Francisco Cerundolo",
       "Gabriel Diallo",
       "Gael Monfils",
       "Giovanni Mpetshi Perricard",
       "Hamad Medjedovic",
       "Hubert Hurkacz",
+      "Ignacio Buse",
       "Jack Draper",
       "Jacob Fearnley",
-      "Jakub Mensik",
       "James Duckworth",
-      "Jan-Lennard Struff",
       "Jaume Munar",
       "Jenson Brooksby",
+      "Jiri Lehecka",
       "Juan Manuel Cerundolo",
-      "Kamil Majchrzak",
-      "Kei Nishikori",
-      "Kyrian Jacquet",
+      "Learner Tien",
       "Liam Draxl",
       "Lorenzo Musetti",
       "Lorenzo Sonego",
-      "Luca Van Assche",
+      "Luciano Darderi",
       "Marcos Giron",
       "Mariano Navone",
       "Marin Cilic",
       "Martin Damm",
-      "Martin Landaluce",
-      "Marton Fucsovics",
-      "Matteo Berrettini",
       "Mattia Bellucci",
-      "Michael Zheng",
       "Miomir Kecmanovic",
       "Nicolas Mejia",
       "Nuno Borges",
@@ -11511,47 +11636,46 @@ window.TENNIS_DATA = {
       "Sebastian Baez",
       "Shang Juncheng",
       "Shintaro Mochizuki",
-      "Sho Shimabukuro",
       "Stefanos Tsitsipas",
       "Tallon Griekspoor",
-      "Taylor Fritz",
       "Terence Atmane",
       "Thiago Agustin Tirante",
       "Titouan Droguet",
-      "Ugo Humbert",
+      "Tomas Martin Etcheverry",
       "Valentin Royer",
+      "Valentin Vacherot",
       "Vit Kopriva",
       "Yannick Hanfmann",
       "Zachary Svajda"
     ],
     "out": [
       "Adolfo Daniel Vallejo",
-      "Andres Martin",
-      "Arthur Fils",
-      "Frances Tiafoe",
-      "Learner Tien",
-      "Mackenzie McDonald",
-      "Matteo Arnaldi",
+      "Aleksandar Kovacevic",
+      "Aleksandar Vukic",
+      "Alexis Galarneau",
+      "Benjamin Bonzi",
+      "Camilo Ugo Carabelli",
+      "Christopher O'Connell",
+      "Jan-Lennard Struff",
+      "Kamil Majchrzak",
+      "Kyrian Jacquet",
+      "Luca Van Assche",
+      "Martin Landaluce",
+      "Marton Fucsovics",
+      "Matteo Berrettini",
+      "Michael Zheng",
       "Rinky Hijikata",
-      "Tomas Martin Etcheverry",
-      "Tommy Paul",
-      "Trevor Svajda",
-      "Zizou Bergs"
+      "Sho Shimabukuro"
     ],
-    "aliveCount": 75,
-    "matchesSeen": 65
+    "aliveCount": 64,
+    "matchesSeen": 49
   },
   "WTA_TOURNAMENT": {
-    "name": "Mubadala DC Open · National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
-    "level": "500",
+    "name": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
+    "level": "Masters 1000",
     "surface": "Hard",
     "tour": "WTA",
     "events": [
-      {
-        "name": "Mubadala DC Open",
-        "level": "500",
-        "surface": "Hard"
-      },
       {
         "name": "National Bank Open presented by Rogers",
         "level": "Masters 1000",
@@ -11575,10 +11699,10 @@ window.TENNIS_DATA = {
       "Anna Kalinskaya",
       "Antonia Ruzic",
       "Aryna Sabalenka",
-      "Ashlyn Krueger",
+      "Barbora Krejcikova",
+      "Belinda Bencic",
       "Camila Osorio",
       "Carol Young Suh Lee",
-      "Carol Zhao",
       "Catherine McNally",
       "Clara Tauson",
       "Coco Gauff",
@@ -11587,18 +11711,17 @@ window.TENNIS_DATA = {
       "Diana Shnaider",
       "Donna Vekic",
       "Ekaterina Alexandrova",
+      "Elena Rybakina",
       "Elena-Gabriela Ruse",
       "Elina Svitolina",
-      "Elisabetta Cocciaretto",
       "Elise Mertens",
       "Elizara Yaneva",
       "Ella Seidel",
       "Elsa Jacquemot",
       "Emma Navarro",
-      "Eva Lys",
       "Gabriela Knutson",
       "Iga Swiatek",
-      "Janice Tjen",
+      "Iva Jovic",
       "Jelena Ostapenko",
       "Jessica Bouzas Maneiro",
       "Jessica Pegula",
@@ -11615,12 +11738,15 @@ window.TENNIS_DATA = {
       "Leylah Fernandez",
       "Lia Karatancheva",
       "Linda Klimovicova",
+      "Linda Noskova",
       "Liudmila Samsonova",
       "Madison Keys",
       "Magda Linette",
       "Magdalena Frech",
       "Maja Chwalinska",
       "Marcelina Podlinska",
+      "Maria Sakkari",
+      "Marie Bouzkova",
       "Marta Kostyuk",
       "Martyna Kubka",
       "Maya Joint",
@@ -11632,30 +11758,22 @@ window.TENNIS_DATA = {
       "Nikola Bartunkova",
       "Noma Noha Akugue",
       "Panna Udvardy",
-      "Polina Kudermetova",
-      "Rebecca Marino",
       "Rebecca Sramkova",
       "Renata Zarazua",
       "Sara Bejlek",
       "Sloane Stephens",
       "Sofia Costoulas",
-      "Solana Sierra",
+      "Sorana Cirstea",
       "Susan Bandecchi",
       "Talia Gibson",
-      "Tamara Korpatsch",
-      "Tatjana Maria",
       "Taylor Townsend",
-      "Tereza Valentova",
       "Vendula Valdmannova",
       "Veronika Podrez",
-      "Victoria Jimenez Kasintseva",
       "Viktoria Hruncakova",
       "Viktorija Golubic",
-      "Wang Xinyu",
       "Weronika Ewald",
       "Weronika Falkowska",
       "Yuan Yue",
-      "Yuliia Starodubtseva",
       "Zeynep Sonmez",
       "Zhang Shuai",
       "Zuzanna Pawlikowska"
@@ -11669,12 +11787,15 @@ window.TENNIS_DATA = {
       "Ariana Arseneault",
       "Bianca Andreescu",
       "Cadence Brace",
+      "Carol Zhao",
       "Cristina Bucsa",
       "Diane Parry",
       "Elena Micic",
+      "Elisabetta Cocciaretto",
       "Emerson Jones",
+      "Eva Lys",
+      "Janice Tjen",
       "Julia Avdeeva",
-      "Julieta Pareja",
       "Katie Boulter",
       "Kimberly Birrell",
       "Leolia Jeanjean",
@@ -11683,23 +11804,26 @@ window.TENNIS_DATA = {
       "Lucrezia Stefanini",
       "Oleksandra Oliynykova",
       "Peyton Stearns",
-      "Sofia Kenin",
+      "Polina Kudermetova",
+      "Rebecca Marino",
+      "Solana Sierra",
+      "Tamara Korpatsch",
+      "Tatjana Maria",
       "Teodora Kostovic",
+      "Tereza Valentova",
       "Urszula Radwanska",
       "Venus Williams",
+      "Victoria Jimenez Kasintseva",
+      "Wang Xinyu",
       "Wang Xiyu",
       "Yulia Putintseva",
-      "Zheng Qinwen"
+      "Yuliia Starodubtseva"
     ],
-    "aliveCount": 95,
-    "matchesSeen": 97
+    "aliveCount": 89,
+    "matchesSeen": 81
   },
   "ATP_SCORE_LOG": {
     "206173": [
-      [
-        "20260718",
-        100.0
-      ],
       [
         "20260719",
         100.0
@@ -11762,15 +11886,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        100.0
+      ],
+      [
+        "20260804",
         100.0
       ]
     ],
     "207989": [
       [
-        "20260718",
-        90.9
-      ],
-      [
         "20260719",
         90.9
       ],
@@ -11833,14 +11957,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         90.9
+      ],
+      [
+        "20260804",
+        91.1
       ]
     ],
     "104925": [
       [
-        "20260718",
-        87.4
-      ],
-      [
         "20260719",
         87.4
       ],
@@ -11902,15 +12026,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        87.7
+      ],
+      [
+        "20260804",
         87.7
       ]
     ],
     "100644": [
       [
-        "20260718",
-        87.5
-      ],
-      [
         "20260719",
         87.5
       ],
@@ -11973,14 +12097,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         87.5
+      ],
+      [
+        "20260804",
+        87.4
       ]
     ],
     "209950": [
       [
-        "20260718",
-        82.5
-      ],
-      [
         "20260719",
         82.5
       ],
@@ -12043,14 +12167,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         82.6
+      ],
+      [
+        "20260804",
+        82.3
       ]
     ],
     "134770": [
       [
-        "20260718",
-        81.2
-      ],
-      [
         "20260719",
         81.2
       ],
@@ -12113,14 +12237,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         81.2
+      ],
+      [
+        "20260804",
+        81.1
       ]
     ],
     "126205": [
       [
-        "20260718",
-        79.5
-      ],
-      [
         "20260719",
         79.5
       ],
@@ -12182,15 +12306,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        79.8
+      ],
+      [
+        "20260804",
         79.8
       ]
     ],
     "207518": [
       [
-        "20260718",
-        79.6
-      ],
-      [
         "20260719",
         79.6
       ],
@@ -12253,14 +12377,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         79.5
+      ],
+      [
+        "20260804",
+        79.6
       ]
     ],
     "106421": [
       [
-        "20260718",
-        78.7
-      ],
-      [
         "20260719",
         78.7
       ],
@@ -12323,14 +12447,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         78.8
+      ],
+      [
+        "20260804",
+        78.9
       ]
     ],
     "212588": [
       [
-        "20260718",
-        77.7
-      ],
-      [
         "20260719",
         77.7
       ],
@@ -12393,14 +12517,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         77.8
+      ],
+      [
+        "20260804",
+        78.8
       ]
     ],
     "200000": [
       [
-        "20260718",
-        77.7
-      ],
-      [
         "20260719",
         77.7
       ],
@@ -12462,15 +12586,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        77.7
+      ],
+      [
+        "20260804",
         77.7
       ]
     ],
     "200282": [
       [
-        "20260718",
-        77.1
-      ],
-      [
         "20260719",
         77.1
       ],
@@ -12533,14 +12657,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         77.0
+      ],
+      [
+        "20260804",
+        76.8
       ]
     ],
     "208103": [
       [
-        "20260718",
-        76.4
-      ],
-      [
         "20260719",
         76.4
       ],
@@ -12603,84 +12727,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         76.4
-      ]
-    ],
-    "210097": [
+      ],
       [
-        "20260718",
+        "20260804",
         76.4
-      ],
-      [
-        "20260719",
-        76.4
-      ],
-      [
-        "20260720",
-        76.4
-      ],
-      [
-        "20260721",
-        76.4
-      ],
-      [
-        "20260722",
-        76.4
-      ],
-      [
-        "20260723",
-        76.4
-      ],
-      [
-        "20260724",
-        76.4
-      ],
-      [
-        "20260725",
-        76.4
-      ],
-      [
-        "20260726",
-        76.4
-      ],
-      [
-        "20260727",
-        76.1
-      ],
-      [
-        "20260728",
-        76.1
-      ],
-      [
-        "20260729",
-        76.1
-      ],
-      [
-        "20260730",
-        76.1
-      ],
-      [
-        "20260731",
-        76.1
-      ],
-      [
-        "20260801",
-        76.1
-      ],
-      [
-        "20260802",
-        76.1
-      ],
-      [
-        "20260803",
-        76.1
       ]
     ],
     "122330": [
       [
-        "20260718",
-        76.0
-      ],
-      [
         "20260719",
         76.0
       ],
@@ -12743,14 +12797,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         76.0
+      ],
+      [
+        "20260804",
+        76.0
+      ]
+    ],
+    "210097": [
+      [
+        "20260719",
+        76.4
+      ],
+      [
+        "20260720",
+        76.4
+      ],
+      [
+        "20260721",
+        76.4
+      ],
+      [
+        "20260722",
+        76.4
+      ],
+      [
+        "20260723",
+        76.4
+      ],
+      [
+        "20260724",
+        76.4
+      ],
+      [
+        "20260725",
+        76.4
+      ],
+      [
+        "20260726",
+        76.4
+      ],
+      [
+        "20260727",
+        76.1
+      ],
+      [
+        "20260728",
+        76.1
+      ],
+      [
+        "20260729",
+        76.1
+      ],
+      [
+        "20260730",
+        76.1
+      ],
+      [
+        "20260731",
+        76.1
+      ],
+      [
+        "20260801",
+        76.1
+      ],
+      [
+        "20260802",
+        76.1
+      ],
+      [
+        "20260803",
+        76.1
+      ],
+      [
+        "20260804",
+        75.9
       ]
     ],
     "126203": [
       [
-        "20260718",
-        75.7
-      ],
-      [
         "20260719",
         75.7
       ],
@@ -12813,14 +12937,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         75.7
+      ],
+      [
+        "20260804",
+        75.8
       ]
     ],
     "207925": [
       [
-        "20260718",
-        75.6
-      ],
-      [
         "20260719",
         75.6
       ],
@@ -12882,15 +13006,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        75.6
+      ],
+      [
+        "20260804",
         75.6
       ]
     ],
     "126094": [
       [
-        "20260718",
-        75.0
-      ],
-      [
         "20260719",
         75.0
       ],
@@ -12953,84 +13077,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         75.2
-      ]
-    ],
-    "210530": [
-      [
-        "20260718",
-        75.1
       ],
       [
-        "20260719",
-        75.1
-      ],
-      [
-        "20260720",
-        75.0
-      ],
-      [
-        "20260721",
-        75.0
-      ],
-      [
-        "20260722",
-        75.0
-      ],
-      [
-        "20260723",
-        75.0
-      ],
-      [
-        "20260724",
-        75.0
-      ],
-      [
-        "20260725",
-        75.0
-      ],
-      [
-        "20260726",
-        75.0
-      ],
-      [
-        "20260727",
-        75.0
-      ],
-      [
-        "20260728",
-        75.0
-      ],
-      [
-        "20260729",
-        75.0
-      ],
-      [
-        "20260730",
-        75.0
-      ],
-      [
-        "20260731",
-        75.0
-      ],
-      [
-        "20260801",
-        75.0
-      ],
-      [
-        "20260802",
-        75.0
-      ],
-      [
-        "20260803",
+        "20260804",
         75.0
       ]
     ],
     "200473": [
       [
-        "20260718",
-        74.6
-      ],
-      [
         "20260719",
         74.6
       ],
@@ -13093,14 +13147,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         75.0
+      ],
+      [
+        "20260804",
+        75.0
+      ]
+    ],
+    "210530": [
+      [
+        "20260719",
+        75.1
+      ],
+      [
+        "20260720",
+        75.0
+      ],
+      [
+        "20260721",
+        75.0
+      ],
+      [
+        "20260722",
+        75.0
+      ],
+      [
+        "20260723",
+        75.0
+      ],
+      [
+        "20260724",
+        75.0
+      ],
+      [
+        "20260725",
+        75.0
+      ],
+      [
+        "20260726",
+        75.0
+      ],
+      [
+        "20260727",
+        75.0
+      ],
+      [
+        "20260728",
+        75.0
+      ],
+      [
+        "20260729",
+        75.0
+      ],
+      [
+        "20260730",
+        75.0
+      ],
+      [
+        "20260731",
+        75.0
+      ],
+      [
+        "20260801",
+        75.0
+      ],
+      [
+        "20260802",
+        75.0
+      ],
+      [
+        "20260803",
+        75.0
+      ],
+      [
+        "20260804",
+        74.7
       ]
     ],
     "126207": [
       [
-        "20260718",
-        74.6
-      ],
-      [
         "20260719",
         74.6
       ],
@@ -13163,14 +13287,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         74.5
+      ],
+      [
+        "20260804",
+        74.3
       ]
     ],
     "202103": [
       [
-        "20260718",
-        73.9
-      ],
-      [
         "20260719",
         73.9
       ],
@@ -13233,14 +13357,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         74.1
+      ],
+      [
+        "20260804",
+        73.8
       ]
     ],
     "211663": [
       [
-        "20260718",
-        73.6
-      ],
-      [
         "20260719",
         73.6
       ],
@@ -13302,15 +13426,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        73.6
+      ],
+      [
+        "20260804",
         73.6
       ]
     ],
     "210696": [
       [
-        "20260718",
-        72.1
-      ],
-      [
         "20260719",
         72.1
       ],
@@ -13372,15 +13496,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        72.6
+      ],
+      [
+        "20260804",
         72.6
       ]
     ],
     "200221": [
       [
-        "20260718",
-        73.0
-      ],
-      [
         "20260719",
         73.0
       ],
@@ -13443,84 +13567,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         72.5
-      ]
-    ],
-    "111575": [
-      [
-        "20260718",
-        69.8
       ],
       [
-        "20260719",
-        69.8
-      ],
-      [
-        "20260720",
-        69.8
-      ],
-      [
-        "20260721",
-        69.8
-      ],
-      [
-        "20260722",
-        69.8
-      ],
-      [
-        "20260723",
-        69.8
-      ],
-      [
-        "20260724",
-        69.8
-      ],
-      [
-        "20260725",
-        69.8
-      ],
-      [
-        "20260726",
-        69.8
-      ],
-      [
-        "20260727",
-        69.8
-      ],
-      [
-        "20260728",
-        69.8
-      ],
-      [
-        "20260729",
-        69.8
-      ],
-      [
-        "20260730",
-        69.8
-      ],
-      [
-        "20260731",
-        69.8
-      ],
-      [
-        "20260801",
-        69.8
-      ],
-      [
-        "20260802",
-        69.8
-      ],
-      [
-        "20260803",
-        69.8
+        "20260804",
+        72.5
       ]
     ],
     "209860": [
       [
-        "20260718",
-        68.5
-      ],
-      [
         "20260719",
         68.5
       ],
@@ -13583,14 +13637,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         68.4
+      ],
+      [
+        "20260804",
+        68.5
+      ]
+    ],
+    "111575": [
+      [
+        "20260719",
+        69.8
+      ],
+      [
+        "20260720",
+        69.8
+      ],
+      [
+        "20260721",
+        69.8
+      ],
+      [
+        "20260722",
+        69.8
+      ],
+      [
+        "20260723",
+        69.8
+      ],
+      [
+        "20260724",
+        69.8
+      ],
+      [
+        "20260725",
+        69.8
+      ],
+      [
+        "20260726",
+        69.8
+      ],
+      [
+        "20260727",
+        69.8
+      ],
+      [
+        "20260728",
+        69.8
+      ],
+      [
+        "20260729",
+        69.8
+      ],
+      [
+        "20260730",
+        69.8
+      ],
+      [
+        "20260731",
+        69.8
+      ],
+      [
+        "20260801",
+        69.8
+      ],
+      [
+        "20260802",
+        69.8
+      ],
+      [
+        "20260803",
+        69.8
+      ],
+      [
+        "20260804",
+        68.3
       ]
     ],
     "126610": [
       [
-        "20260718",
-        67.4
-      ],
-      [
         "20260719",
         67.4
       ],
@@ -13653,14 +13777,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         67.6
+      ],
+      [
+        "20260804",
+        67.7
       ]
     ],
     "206909": [
       [
-        "20260718",
-        67.5
-      ],
-      [
         "20260719",
         67.5
       ],
@@ -13723,154 +13847,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         67.4
-      ]
-    ],
-    "207830": [
-      [
-        "20260718",
-        66.9
       ],
       [
-        "20260719",
-        66.9
-      ],
-      [
-        "20260720",
-        66.9
-      ],
-      [
-        "20260721",
-        66.9
-      ],
-      [
-        "20260722",
-        66.9
-      ],
-      [
-        "20260723",
-        66.9
-      ],
-      [
-        "20260724",
-        66.9
-      ],
-      [
-        "20260725",
-        66.9
-      ],
-      [
-        "20260726",
-        66.9
-      ],
-      [
-        "20260727",
-        66.7
-      ],
-      [
-        "20260728",
-        66.7
-      ],
-      [
-        "20260729",
-        66.7
-      ],
-      [
-        "20260730",
-        66.7
-      ],
-      [
-        "20260731",
-        66.7
-      ],
-      [
-        "20260801",
-        66.7
-      ],
-      [
-        "20260802",
-        66.7
-      ],
-      [
-        "20260803",
-        66.7
-      ]
-    ],
-    "200005": [
-      [
-        "20260718",
-        66.6
-      ],
-      [
-        "20260719",
-        66.6
-      ],
-      [
-        "20260720",
-        66.6
-      ],
-      [
-        "20260721",
-        66.6
-      ],
-      [
-        "20260722",
-        66.6
-      ],
-      [
-        "20260723",
-        66.6
-      ],
-      [
-        "20260724",
-        66.6
-      ],
-      [
-        "20260725",
-        66.6
-      ],
-      [
-        "20260726",
-        66.6
-      ],
-      [
-        "20260727",
-        66.6
-      ],
-      [
-        "20260728",
-        66.6
-      ],
-      [
-        "20260729",
-        66.6
-      ],
-      [
-        "20260730",
-        66.6
-      ],
-      [
-        "20260731",
-        66.6
-      ],
-      [
-        "20260801",
-        66.6
-      ],
-      [
-        "20260802",
-        66.6
-      ],
-      [
-        "20260803",
-        66.6
+        "20260804",
+        67.6
       ]
     ],
     "126214": [
       [
-        "20260718",
-        66.4
-      ],
-      [
         "20260719",
         66.4
       ],
@@ -13933,84 +13917,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         66.6
+      ],
+      [
+        "20260804",
+        67.1
       ]
     ],
-    "210506": [
-      [
-        "20260718",
-        65.7
-      ],
+    "200005": [
       [
         "20260719",
-        65.7
+        66.6
       ],
       [
         "20260720",
-        65.9
+        66.6
       ],
       [
         "20260721",
-        65.9
+        66.6
       ],
       [
         "20260722",
-        65.9
+        66.6
       ],
       [
         "20260723",
-        65.9
+        66.6
       ],
       [
         "20260724",
-        65.9
+        66.6
       ],
       [
         "20260725",
-        65.9
+        66.6
       ],
       [
         "20260726",
-        65.9
+        66.6
       ],
       [
         "20260727",
-        66.4
+        66.6
       ],
       [
         "20260728",
-        66.4
+        66.6
       ],
       [
         "20260729",
-        66.4
+        66.6
       ],
       [
         "20260730",
-        66.4
+        66.6
       ],
       [
         "20260731",
-        66.4
+        66.6
       ],
       [
         "20260801",
-        66.4
+        66.6
       ],
       [
         "20260802",
-        66.4
+        66.6
       ],
       [
         "20260803",
-        66.4
+        66.6
+      ],
+      [
+        "20260804",
+        66.7
       ]
     ],
     "111815": [
       [
-        "20260718",
-        66.3
-      ],
-      [
         "20260719",
         66.3
       ],
@@ -14072,15 +14056,155 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        66.2
+      ],
+      [
+        "20260804",
+        66.4
+      ]
+    ],
+    "207830": [
+      [
+        "20260719",
+        66.9
+      ],
+      [
+        "20260720",
+        66.9
+      ],
+      [
+        "20260721",
+        66.9
+      ],
+      [
+        "20260722",
+        66.9
+      ],
+      [
+        "20260723",
+        66.9
+      ],
+      [
+        "20260724",
+        66.9
+      ],
+      [
+        "20260725",
+        66.9
+      ],
+      [
+        "20260726",
+        66.9
+      ],
+      [
+        "20260727",
+        66.7
+      ],
+      [
+        "20260728",
+        66.7
+      ],
+      [
+        "20260729",
+        66.7
+      ],
+      [
+        "20260730",
+        66.7
+      ],
+      [
+        "20260731",
+        66.7
+      ],
+      [
+        "20260801",
+        66.7
+      ],
+      [
+        "20260802",
+        66.7
+      ],
+      [
+        "20260803",
+        66.7
+      ],
+      [
+        "20260804",
+        66.3
+      ]
+    ],
+    "210506": [
+      [
+        "20260719",
+        65.7
+      ],
+      [
+        "20260720",
+        65.9
+      ],
+      [
+        "20260721",
+        65.9
+      ],
+      [
+        "20260722",
+        65.9
+      ],
+      [
+        "20260723",
+        65.9
+      ],
+      [
+        "20260724",
+        65.9
+      ],
+      [
+        "20260725",
+        65.9
+      ],
+      [
+        "20260726",
+        65.9
+      ],
+      [
+        "20260727",
+        66.4
+      ],
+      [
+        "20260728",
+        66.4
+      ],
+      [
+        "20260729",
+        66.4
+      ],
+      [
+        "20260730",
+        66.4
+      ],
+      [
+        "20260731",
+        66.4
+      ],
+      [
+        "20260801",
+        66.4
+      ],
+      [
+        "20260802",
+        66.4
+      ],
+      [
+        "20260803",
+        66.4
+      ],
+      [
+        "20260804",
         66.2
       ]
     ],
     "209260": [
       [
-        "20260718",
-        66.2
-      ],
-      [
         "20260719",
         66.2
       ],
@@ -14143,14 +14267,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         65.6
+      ],
+      [
+        "20260804",
+        65.8
       ]
     ],
     "126239": [
       [
-        "20260718",
-        65.6
-      ],
-      [
         "20260719",
         65.6
       ],
@@ -14213,84 +14337,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         65.6
-      ]
-    ],
-    "144684": [
-      [
-        "20260718",
-        62.6
       ],
       [
-        "20260719",
-        62.6
-      ],
-      [
-        "20260720",
-        64.7
-      ],
-      [
-        "20260721",
-        64.7
-      ],
-      [
-        "20260722",
-        64.7
-      ],
-      [
-        "20260723",
-        64.7
-      ],
-      [
-        "20260724",
-        64.7
-      ],
-      [
-        "20260725",
-        64.7
-      ],
-      [
-        "20260726",
-        64.7
-      ],
-      [
-        "20260727",
-        65.5
-      ],
-      [
-        "20260728",
-        65.5
-      ],
-      [
-        "20260729",
-        65.5
-      ],
-      [
-        "20260730",
-        65.5
-      ],
-      [
-        "20260731",
-        65.5
-      ],
-      [
-        "20260801",
-        65.5
-      ],
-      [
-        "20260802",
-        65.5
-      ],
-      [
-        "20260803",
+        "20260804",
         65.5
       ]
     ],
     "207733": [
       [
-        "20260718",
-        65.5
-      ],
-      [
         "20260719",
         65.5
       ],
@@ -14353,14 +14407,154 @@ window.TENNIS_DATA = {
       [
         "20260803",
         65.5
+      ],
+      [
+        "20260804",
+        65.5
+      ]
+    ],
+    "144684": [
+      [
+        "20260719",
+        62.6
+      ],
+      [
+        "20260720",
+        64.7
+      ],
+      [
+        "20260721",
+        64.7
+      ],
+      [
+        "20260722",
+        64.7
+      ],
+      [
+        "20260723",
+        64.7
+      ],
+      [
+        "20260724",
+        64.7
+      ],
+      [
+        "20260725",
+        64.7
+      ],
+      [
+        "20260726",
+        64.7
+      ],
+      [
+        "20260727",
+        65.5
+      ],
+      [
+        "20260728",
+        65.5
+      ],
+      [
+        "20260729",
+        65.5
+      ],
+      [
+        "20260730",
+        65.5
+      ],
+      [
+        "20260731",
+        65.5
+      ],
+      [
+        "20260801",
+        65.5
+      ],
+      [
+        "20260802",
+        65.5
+      ],
+      [
+        "20260803",
+        65.5
+      ],
+      [
+        "20260804",
+        65.4
+      ]
+    ],
+    "144869": [
+      [
+        "20260719",
+        65.2
+      ],
+      [
+        "20260720",
+        65.0
+      ],
+      [
+        "20260721",
+        65.0
+      ],
+      [
+        "20260722",
+        65.0
+      ],
+      [
+        "20260723",
+        65.0
+      ],
+      [
+        "20260724",
+        65.0
+      ],
+      [
+        "20260725",
+        65.0
+      ],
+      [
+        "20260726",
+        65.0
+      ],
+      [
+        "20260727",
+        65.0
+      ],
+      [
+        "20260728",
+        65.0
+      ],
+      [
+        "20260729",
+        65.0
+      ],
+      [
+        "20260730",
+        65.0
+      ],
+      [
+        "20260731",
+        65.0
+      ],
+      [
+        "20260801",
+        65.0
+      ],
+      [
+        "20260802",
+        65.0
+      ],
+      [
+        "20260803",
+        65.0
+      ],
+      [
+        "20260804",
+        65.2
       ]
     ],
     "208286": [
       [
-        "20260718",
-        65.3
-      ],
-      [
         "20260719",
         65.3
       ],
@@ -14422,15 +14616,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        65.2
+      ],
+      [
+        "20260804",
         65.2
       ]
     ],
     "126774": [
       [
-        "20260718",
-        61.3
-      ],
-      [
         "20260719",
         61.3
       ],
@@ -14493,84 +14687,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         65.2
-      ]
-    ],
-    "144869": [
-      [
-        "20260718",
-        65.2
       ],
       [
-        "20260719",
-        65.2
-      ],
-      [
-        "20260720",
-        65.0
-      ],
-      [
-        "20260721",
-        65.0
-      ],
-      [
-        "20260722",
-        65.0
-      ],
-      [
-        "20260723",
-        65.0
-      ],
-      [
-        "20260724",
-        65.0
-      ],
-      [
-        "20260725",
-        65.0
-      ],
-      [
-        "20260726",
-        65.0
-      ],
-      [
-        "20260727",
-        65.0
-      ],
-      [
-        "20260728",
-        65.0
-      ],
-      [
-        "20260729",
-        65.0
-      ],
-      [
-        "20260730",
-        65.0
-      ],
-      [
-        "20260731",
-        65.0
-      ],
-      [
-        "20260801",
-        65.0
-      ],
-      [
-        "20260802",
-        65.0
-      ],
-      [
-        "20260803",
+        "20260804",
         65.0
       ]
     ],
     "209414": [
       [
-        "20260718",
-        60.7
-      ],
-      [
         "20260719",
         60.7
       ],
@@ -14633,14 +14757,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         64.9
+      ],
+      [
+        "20260804",
+        64.8
       ]
     ],
     "202058": [
       [
-        "20260718",
-        65.1
-      ],
-      [
         "20260719",
         65.1
       ],
@@ -14703,84 +14827,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         64.8
-      ]
-    ],
-    "144719": [
-      [
-        "20260718",
-        64.4
       ],
       [
-        "20260719",
-        64.4
-      ],
-      [
-        "20260720",
-        64.4
-      ],
-      [
-        "20260721",
-        64.4
-      ],
-      [
-        "20260722",
-        64.4
-      ],
-      [
-        "20260723",
-        64.4
-      ],
-      [
-        "20260724",
-        64.4
-      ],
-      [
-        "20260725",
-        64.4
-      ],
-      [
-        "20260726",
-        64.4
-      ],
-      [
-        "20260727",
-        64.4
-      ],
-      [
-        "20260728",
-        64.4
-      ],
-      [
-        "20260729",
-        64.4
-      ],
-      [
-        "20260730",
-        64.4
-      ],
-      [
-        "20260731",
-        64.4
-      ],
-      [
-        "20260801",
-        64.4
-      ],
-      [
-        "20260802",
-        64.4
-      ],
-      [
-        "20260803",
-        64.4
+        "20260804",
+        64.6
       ]
     ],
     "208363": [
       [
-        "20260718",
-        64.0
-      ],
-      [
         "20260719",
         64.0
       ],
@@ -14843,14 +14897,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         64.4
+      ],
+      [
+        "20260804",
+        64.4
+      ]
+    ],
+    "144719": [
+      [
+        "20260719",
+        64.4
+      ],
+      [
+        "20260720",
+        64.4
+      ],
+      [
+        "20260721",
+        64.4
+      ],
+      [
+        "20260722",
+        64.4
+      ],
+      [
+        "20260723",
+        64.4
+      ],
+      [
+        "20260724",
+        64.4
+      ],
+      [
+        "20260725",
+        64.4
+      ],
+      [
+        "20260726",
+        64.4
+      ],
+      [
+        "20260727",
+        64.4
+      ],
+      [
+        "20260728",
+        64.4
+      ],
+      [
+        "20260729",
+        64.4
+      ],
+      [
+        "20260730",
+        64.4
+      ],
+      [
+        "20260731",
+        64.4
+      ],
+      [
+        "20260801",
+        64.4
+      ],
+      [
+        "20260802",
+        64.4
+      ],
+      [
+        "20260803",
+        64.4
+      ],
+      [
+        "20260804",
+        64.3
       ]
     ],
     "209920": [
       [
-        "20260718",
-        63.6
-      ],
-      [
         "20260719",
         63.6
       ],
@@ -14913,154 +15037,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         64.1
-      ]
-    ],
-    "105870": [
-      [
-        "20260718",
-        62.7
       ],
       [
-        "20260719",
-        62.7
-      ],
-      [
-        "20260720",
-        62.5
-      ],
-      [
-        "20260721",
-        62.5
-      ],
-      [
-        "20260722",
-        62.5
-      ],
-      [
-        "20260723",
-        62.5
-      ],
-      [
-        "20260724",
-        62.5
-      ],
-      [
-        "20260725",
-        62.5
-      ],
-      [
-        "20260726",
-        62.5
-      ],
-      [
-        "20260727",
-        63.3
-      ],
-      [
-        "20260728",
-        63.3
-      ],
-      [
-        "20260729",
-        63.3
-      ],
-      [
-        "20260730",
-        63.3
-      ],
-      [
-        "20260731",
-        63.3
-      ],
-      [
-        "20260801",
-        63.3
-      ],
-      [
-        "20260802",
-        63.3
-      ],
-      [
-        "20260803",
-        63.3
-      ]
-    ],
-    "134868": [
-      [
-        "20260718",
-        64.2
-      ],
-      [
-        "20260719",
-        64.2
-      ],
-      [
-        "20260720",
-        63.2
-      ],
-      [
-        "20260721",
-        63.2
-      ],
-      [
-        "20260722",
-        63.2
-      ],
-      [
-        "20260723",
-        63.2
-      ],
-      [
-        "20260724",
-        63.2
-      ],
-      [
-        "20260725",
-        63.2
-      ],
-      [
-        "20260726",
-        63.2
-      ],
-      [
-        "20260727",
-        63.1
-      ],
-      [
-        "20260728",
-        63.1
-      ],
-      [
-        "20260729",
-        63.1
-      ],
-      [
-        "20260730",
-        63.1
-      ],
-      [
-        "20260731",
-        63.1
-      ],
-      [
-        "20260801",
-        63.1
-      ],
-      [
-        "20260802",
-        63.1
-      ],
-      [
-        "20260803",
-        63.1
+        "20260804",
+        64.1
       ]
     ],
     "210084": [
       [
-        "20260718",
-        62.8
-      ],
-      [
         "20260719",
         62.8
       ],
@@ -15122,15 +15106,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        63.0
+      ],
+      [
+        "20260804",
         63.0
       ]
     ],
     "209098": [
       [
-        "20260718",
-        63.4
-      ],
-      [
         "20260719",
         63.4
       ],
@@ -15193,14 +15177,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         62.9
+      ],
+      [
+        "20260804",
+        62.9
+      ]
+    ],
+    "134868": [
+      [
+        "20260719",
+        64.2
+      ],
+      [
+        "20260720",
+        63.2
+      ],
+      [
+        "20260721",
+        63.2
+      ],
+      [
+        "20260722",
+        63.2
+      ],
+      [
+        "20260723",
+        63.2
+      ],
+      [
+        "20260724",
+        63.2
+      ],
+      [
+        "20260725",
+        63.2
+      ],
+      [
+        "20260726",
+        63.2
+      ],
+      [
+        "20260727",
+        63.1
+      ],
+      [
+        "20260728",
+        63.1
+      ],
+      [
+        "20260729",
+        63.1
+      ],
+      [
+        "20260730",
+        63.1
+      ],
+      [
+        "20260731",
+        63.1
+      ],
+      [
+        "20260801",
+        63.1
+      ],
+      [
+        "20260802",
+        63.1
+      ],
+      [
+        "20260803",
+        63.1
+      ],
+      [
+        "20260804",
+        62.8
       ]
     ],
     "128034": [
       [
-        "20260718",
-        63.2
-      ],
-      [
         "20260719",
         63.2
       ],
@@ -15263,154 +15317,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         62.8
-      ]
-    ],
-    "209226": [
-      [
-        "20260718",
-        61.3
       ],
       [
-        "20260719",
-        61.3
-      ],
-      [
-        "20260720",
-        62.2
-      ],
-      [
-        "20260721",
-        62.2
-      ],
-      [
-        "20260722",
-        62.2
-      ],
-      [
-        "20260723",
-        62.2
-      ],
-      [
-        "20260724",
-        62.2
-      ],
-      [
-        "20260725",
-        62.2
-      ],
-      [
-        "20260726",
-        62.2
-      ],
-      [
-        "20260727",
-        62.0
-      ],
-      [
-        "20260728",
-        62.0
-      ],
-      [
-        "20260729",
-        62.0
-      ],
-      [
-        "20260730",
-        62.0
-      ],
-      [
-        "20260731",
-        62.0
-      ],
-      [
-        "20260801",
-        62.0
-      ],
-      [
-        "20260802",
-        62.0
-      ],
-      [
-        "20260803",
-        62.0
-      ]
-    ],
-    "132686": [
-      [
-        "20260718",
-        61.5
-      ],
-      [
-        "20260719",
-        61.5
-      ],
-      [
-        "20260720",
-        62.0
-      ],
-      [
-        "20260721",
-        62.0
-      ],
-      [
-        "20260722",
-        62.0
-      ],
-      [
-        "20260723",
-        62.0
-      ],
-      [
-        "20260724",
-        62.0
-      ],
-      [
-        "20260725",
-        62.0
-      ],
-      [
-        "20260726",
-        62.0
-      ],
-      [
-        "20260727",
-        61.9
-      ],
-      [
-        "20260728",
-        61.9
-      ],
-      [
-        "20260729",
-        61.9
-      ],
-      [
-        "20260730",
-        61.9
-      ],
-      [
-        "20260731",
-        61.9
-      ],
-      [
-        "20260801",
-        61.9
-      ],
-      [
-        "20260802",
-        61.9
-      ],
-      [
-        "20260803",
-        61.9
+        "20260804",
+        62.7
       ]
     ],
     "200267": [
       [
-        "20260718",
-        61.9
-      ],
-      [
         "20260719",
         61.9
       ],
@@ -15473,14 +15387,224 @@ window.TENNIS_DATA = {
       [
         "20260803",
         61.8
+      ],
+      [
+        "20260804",
+        62.1
+      ]
+    ],
+    "105870": [
+      [
+        "20260719",
+        62.7
+      ],
+      [
+        "20260720",
+        62.5
+      ],
+      [
+        "20260721",
+        62.5
+      ],
+      [
+        "20260722",
+        62.5
+      ],
+      [
+        "20260723",
+        62.5
+      ],
+      [
+        "20260724",
+        62.5
+      ],
+      [
+        "20260725",
+        62.5
+      ],
+      [
+        "20260726",
+        62.5
+      ],
+      [
+        "20260727",
+        63.3
+      ],
+      [
+        "20260728",
+        63.3
+      ],
+      [
+        "20260729",
+        63.3
+      ],
+      [
+        "20260730",
+        63.3
+      ],
+      [
+        "20260731",
+        63.3
+      ],
+      [
+        "20260801",
+        63.3
+      ],
+      [
+        "20260802",
+        63.3
+      ],
+      [
+        "20260803",
+        63.3
+      ],
+      [
+        "20260804",
+        62.0
+      ]
+    ],
+    "209226": [
+      [
+        "20260719",
+        61.3
+      ],
+      [
+        "20260720",
+        62.2
+      ],
+      [
+        "20260721",
+        62.2
+      ],
+      [
+        "20260722",
+        62.2
+      ],
+      [
+        "20260723",
+        62.2
+      ],
+      [
+        "20260724",
+        62.2
+      ],
+      [
+        "20260725",
+        62.2
+      ],
+      [
+        "20260726",
+        62.2
+      ],
+      [
+        "20260727",
+        62.0
+      ],
+      [
+        "20260728",
+        62.0
+      ],
+      [
+        "20260729",
+        62.0
+      ],
+      [
+        "20260730",
+        62.0
+      ],
+      [
+        "20260731",
+        62.0
+      ],
+      [
+        "20260801",
+        62.0
+      ],
+      [
+        "20260802",
+        62.0
+      ],
+      [
+        "20260803",
+        62.0
+      ],
+      [
+        "20260804",
+        61.9
+      ]
+    ],
+    "132686": [
+      [
+        "20260719",
+        61.5
+      ],
+      [
+        "20260720",
+        62.0
+      ],
+      [
+        "20260721",
+        62.0
+      ],
+      [
+        "20260722",
+        62.0
+      ],
+      [
+        "20260723",
+        62.0
+      ],
+      [
+        "20260724",
+        62.0
+      ],
+      [
+        "20260725",
+        62.0
+      ],
+      [
+        "20260726",
+        62.0
+      ],
+      [
+        "20260727",
+        61.9
+      ],
+      [
+        "20260728",
+        61.9
+      ],
+      [
+        "20260729",
+        61.9
+      ],
+      [
+        "20260730",
+        61.9
+      ],
+      [
+        "20260731",
+        61.9
+      ],
+      [
+        "20260801",
+        61.9
+      ],
+      [
+        "20260802",
+        61.9
+      ],
+      [
+        "20260803",
+        61.9
+      ],
+      [
+        "20260804",
+        61.2
       ]
     ],
     "122298": [
       [
-        "20260718",
-        62.2
-      ],
-      [
         "20260719",
         62.2
       ],
@@ -15543,14 +15667,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         60.6
+      ],
+      [
+        "20260804",
+        60.5
       ]
     ],
     "207678": [
       [
-        "20260718",
-        61.1
-      ],
-      [
         "20260719",
         61.1
       ],
@@ -15613,154 +15737,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         60.5
-      ]
-    ],
-    "206681": [
+      ],
       [
-        "20260718",
+        "20260804",
         60.3
-      ],
-      [
-        "20260719",
-        60.3
-      ],
-      [
-        "20260720",
-        60.3
-      ],
-      [
-        "20260721",
-        60.3
-      ],
-      [
-        "20260722",
-        60.3
-      ],
-      [
-        "20260723",
-        60.3
-      ],
-      [
-        "20260724",
-        60.3
-      ],
-      [
-        "20260725",
-        60.3
-      ],
-      [
-        "20260726",
-        60.3
-      ],
-      [
-        "20260727",
-        60.1
-      ],
-      [
-        "20260728",
-        60.1
-      ],
-      [
-        "20260729",
-        60.1
-      ],
-      [
-        "20260730",
-        60.1
-      ],
-      [
-        "20260731",
-        60.1
-      ],
-      [
-        "20260801",
-        60.1
-      ],
-      [
-        "20260802",
-        60.1
-      ],
-      [
-        "20260803",
-        60.1
-      ]
-    ],
-    "144895": [
-      [
-        "20260718",
-        62.1
-      ],
-      [
-        "20260719",
-        62.1
-      ],
-      [
-        "20260720",
-        62.1
-      ],
-      [
-        "20260721",
-        62.1
-      ],
-      [
-        "20260722",
-        62.1
-      ],
-      [
-        "20260723",
-        62.1
-      ],
-      [
-        "20260724",
-        62.1
-      ],
-      [
-        "20260725",
-        62.1
-      ],
-      [
-        "20260726",
-        62.1
-      ],
-      [
-        "20260727",
-        60.1
-      ],
-      [
-        "20260728",
-        60.1
-      ],
-      [
-        "20260729",
-        60.1
-      ],
-      [
-        "20260730",
-        60.1
-      ],
-      [
-        "20260731",
-        60.1
-      ],
-      [
-        "20260801",
-        60.1
-      ],
-      [
-        "20260802",
-        60.1
-      ],
-      [
-        "20260803",
-        60.1
       ]
     ],
     "202104": [
       [
-        "20260718",
-        59.3
-      ],
-      [
         "20260719",
         59.3
       ],
@@ -15823,84 +15807,294 @@ window.TENNIS_DATA = {
       [
         "20260803",
         59.7
+      ],
+      [
+        "20260804",
+        60.2
       ]
     ],
-    "200240": [
-      [
-        "20260718",
-        60.1
-      ],
+    "133430": [
       [
         "20260719",
-        60.1
+        60.4
       ],
       [
         "20260720",
-        59.7
+        57.3
       ],
       [
         "20260721",
-        59.7
+        57.3
       ],
       [
         "20260722",
-        59.7
+        57.3
       ],
       [
         "20260723",
-        59.7
+        57.3
       ],
       [
         "20260724",
-        59.7
+        57.3
       ],
       [
         "20260725",
-        59.7
+        57.3
       ],
       [
         "20260726",
-        59.7
+        57.3
       ],
       [
         "20260727",
-        59.5
+        57.1
       ],
       [
         "20260728",
-        59.5
+        57.1
       ],
       [
         "20260729",
-        59.5
+        57.1
       ],
       [
         "20260730",
-        59.5
+        57.1
       ],
       [
         "20260731",
-        59.5
+        57.1
       ],
       [
         "20260801",
-        59.5
+        57.1
       ],
       [
         "20260802",
-        59.5
+        57.1
       ],
       [
         "20260803",
+        57.1
+      ],
+      [
+        "20260804",
+        60.0
+      ]
+    ],
+    "144895": [
+      [
+        "20260719",
+        62.1
+      ],
+      [
+        "20260720",
+        62.1
+      ],
+      [
+        "20260721",
+        62.1
+      ],
+      [
+        "20260722",
+        62.1
+      ],
+      [
+        "20260723",
+        62.1
+      ],
+      [
+        "20260724",
+        62.1
+      ],
+      [
+        "20260725",
+        62.1
+      ],
+      [
+        "20260726",
+        62.1
+      ],
+      [
+        "20260727",
+        60.1
+      ],
+      [
+        "20260728",
+        60.1
+      ],
+      [
+        "20260729",
+        60.1
+      ],
+      [
+        "20260730",
+        60.1
+      ],
+      [
+        "20260731",
+        60.1
+      ],
+      [
+        "20260801",
+        60.1
+      ],
+      [
+        "20260802",
+        60.1
+      ],
+      [
+        "20260803",
+        60.1
+      ],
+      [
+        "20260804",
+        59.9
+      ]
+    ],
+    "209279": [
+      [
+        "20260719",
+        59.4
+      ],
+      [
+        "20260720",
+        59.5
+      ],
+      [
+        "20260721",
+        59.5
+      ],
+      [
+        "20260722",
+        59.5
+      ],
+      [
+        "20260723",
+        59.5
+      ],
+      [
+        "20260724",
+        59.5
+      ],
+      [
+        "20260725",
+        59.5
+      ],
+      [
+        "20260726",
+        59.5
+      ],
+      [
+        "20260727",
+        58.7
+      ],
+      [
+        "20260728",
+        58.7
+      ],
+      [
+        "20260729",
+        58.7
+      ],
+      [
+        "20260730",
+        58.7
+      ],
+      [
+        "20260731",
+        58.7
+      ],
+      [
+        "20260801",
+        58.7
+      ],
+      [
+        "20260802",
+        58.7
+      ],
+      [
+        "20260803",
+        58.7
+      ],
+      [
+        "20260804",
+        59.8
+      ]
+    ],
+    "206681": [
+      [
+        "20260719",
+        60.3
+      ],
+      [
+        "20260720",
+        60.3
+      ],
+      [
+        "20260721",
+        60.3
+      ],
+      [
+        "20260722",
+        60.3
+      ],
+      [
+        "20260723",
+        60.3
+      ],
+      [
+        "20260724",
+        60.3
+      ],
+      [
+        "20260725",
+        60.3
+      ],
+      [
+        "20260726",
+        60.3
+      ],
+      [
+        "20260727",
+        60.1
+      ],
+      [
+        "20260728",
+        60.1
+      ],
+      [
+        "20260729",
+        60.1
+      ],
+      [
+        "20260730",
+        60.1
+      ],
+      [
+        "20260731",
+        60.1
+      ],
+      [
+        "20260801",
+        60.1
+      ],
+      [
+        "20260802",
+        60.1
+      ],
+      [
+        "20260803",
+        60.1
+      ],
+      [
+        "20260804",
         59.5
       ]
     ],
     "208882": [
       [
-        "20260718",
-        58.2
-      ],
-      [
         "20260719",
         58.2
       ],
@@ -15963,14 +16157,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         59.2
+      ],
+      [
+        "20260804",
+        59.4
+      ]
+    ],
+    "200240": [
+      [
+        "20260719",
+        60.1
+      ],
+      [
+        "20260720",
+        59.7
+      ],
+      [
+        "20260721",
+        59.7
+      ],
+      [
+        "20260722",
+        59.7
+      ],
+      [
+        "20260723",
+        59.7
+      ],
+      [
+        "20260724",
+        59.7
+      ],
+      [
+        "20260725",
+        59.7
+      ],
+      [
+        "20260726",
+        59.7
+      ],
+      [
+        "20260727",
+        59.5
+      ],
+      [
+        "20260728",
+        59.5
+      ],
+      [
+        "20260729",
+        59.5
+      ],
+      [
+        "20260730",
+        59.5
+      ],
+      [
+        "20260731",
+        59.5
+      ],
+      [
+        "20260801",
+        59.5
+      ],
+      [
+        "20260802",
+        59.5
+      ],
+      [
+        "20260803",
+        59.5
+      ],
+      [
+        "20260804",
+        59.4
       ]
     ],
     "111460": [
       [
-        "20260718",
-        54.6
-      ],
-      [
         "20260719",
         54.6
       ],
@@ -16033,154 +16297,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         58.9
-      ]
-    ],
-    "209279": [
-      [
-        "20260718",
-        59.4
       ],
       [
-        "20260719",
-        59.4
-      ],
-      [
-        "20260720",
-        59.5
-      ],
-      [
-        "20260721",
-        59.5
-      ],
-      [
-        "20260722",
-        59.5
-      ],
-      [
-        "20260723",
-        59.5
-      ],
-      [
-        "20260724",
-        59.5
-      ],
-      [
-        "20260725",
-        59.5
-      ],
-      [
-        "20260726",
-        59.5
-      ],
-      [
-        "20260727",
-        58.7
-      ],
-      [
-        "20260728",
-        58.7
-      ],
-      [
-        "20260729",
-        58.7
-      ],
-      [
-        "20260730",
-        58.7
-      ],
-      [
-        "20260731",
-        58.7
-      ],
-      [
-        "20260801",
-        58.7
-      ],
-      [
-        "20260802",
-        58.7
-      ],
-      [
-        "20260803",
-        58.7
-      ]
-    ],
-    "208118": [
-      [
-        "20260718",
-        58.5
-      ],
-      [
-        "20260719",
-        58.5
-      ],
-      [
-        "20260720",
-        58.5
-      ],
-      [
-        "20260721",
-        58.5
-      ],
-      [
-        "20260722",
-        58.5
-      ],
-      [
-        "20260723",
-        58.5
-      ],
-      [
-        "20260724",
-        58.5
-      ],
-      [
-        "20260725",
-        58.5
-      ],
-      [
-        "20260726",
-        58.5
-      ],
-      [
-        "20260727",
-        58.5
-      ],
-      [
-        "20260728",
-        58.5
-      ],
-      [
-        "20260729",
-        58.5
-      ],
-      [
-        "20260730",
-        58.5
-      ],
-      [
-        "20260731",
-        58.5
-      ],
-      [
-        "20260801",
-        58.5
-      ],
-      [
-        "20260802",
-        58.5
-      ],
-      [
-        "20260803",
-        58.5
+        "20260804",
+        58.6
       ]
     ],
     "202385": [
       [
-        "20260718",
-        58.3
-      ],
-      [
         "20260719",
         58.3
       ],
@@ -16243,14 +16367,154 @@ window.TENNIS_DATA = {
       [
         "20260803",
         58.2
+      ],
+      [
+        "20260804",
+        58.5
+      ]
+    ],
+    "208118": [
+      [
+        "20260719",
+        58.5
+      ],
+      [
+        "20260720",
+        58.5
+      ],
+      [
+        "20260721",
+        58.5
+      ],
+      [
+        "20260722",
+        58.5
+      ],
+      [
+        "20260723",
+        58.5
+      ],
+      [
+        "20260724",
+        58.5
+      ],
+      [
+        "20260725",
+        58.5
+      ],
+      [
+        "20260726",
+        58.5
+      ],
+      [
+        "20260727",
+        58.5
+      ],
+      [
+        "20260728",
+        58.5
+      ],
+      [
+        "20260729",
+        58.5
+      ],
+      [
+        "20260730",
+        58.5
+      ],
+      [
+        "20260731",
+        58.5
+      ],
+      [
+        "20260801",
+        58.5
+      ],
+      [
+        "20260802",
+        58.5
+      ],
+      [
+        "20260803",
+        58.5
+      ],
+      [
+        "20260804",
+        58.5
+      ]
+    ],
+    "111794": [
+      [
+        "20260719",
+        58.0
+      ],
+      [
+        "20260720",
+        57.4
+      ],
+      [
+        "20260721",
+        57.4
+      ],
+      [
+        "20260722",
+        57.4
+      ],
+      [
+        "20260723",
+        57.4
+      ],
+      [
+        "20260724",
+        57.4
+      ],
+      [
+        "20260725",
+        57.4
+      ],
+      [
+        "20260726",
+        57.4
+      ],
+      [
+        "20260727",
+        57.4
+      ],
+      [
+        "20260728",
+        57.4
+      ],
+      [
+        "20260729",
+        57.4
+      ],
+      [
+        "20260730",
+        57.4
+      ],
+      [
+        "20260731",
+        57.4
+      ],
+      [
+        "20260801",
+        57.4
+      ],
+      [
+        "20260802",
+        57.4
+      ],
+      [
+        "20260803",
+        57.4
+      ],
+      [
+        "20260804",
+        57.9
       ]
     ],
     "120770": [
       [
-        "20260718",
-        55.7
-      ],
-      [
         "20260719",
         55.7
       ],
@@ -16313,84 +16577,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         58.1
-      ]
-    ],
-    "211776": [
-      [
-        "20260718",
-        57.8
       ],
       [
-        "20260719",
-        57.8
-      ],
-      [
-        "20260720",
-        57.8
-      ],
-      [
-        "20260721",
-        57.8
-      ],
-      [
-        "20260722",
-        57.8
-      ],
-      [
-        "20260723",
-        57.8
-      ],
-      [
-        "20260724",
-        57.8
-      ],
-      [
-        "20260725",
-        57.8
-      ],
-      [
-        "20260726",
-        57.8
-      ],
-      [
-        "20260727",
-        57.8
-      ],
-      [
-        "20260728",
-        57.8
-      ],
-      [
-        "20260729",
-        57.8
-      ],
-      [
-        "20260730",
-        57.8
-      ],
-      [
-        "20260731",
-        57.8
-      ],
-      [
-        "20260801",
-        57.8
-      ],
-      [
-        "20260802",
-        57.8
-      ],
-      [
-        "20260803",
+        "20260804",
         57.8
       ]
     ],
     "105227": [
       [
-        "20260718",
-        57.3
-      ],
-      [
         "20260719",
         57.3
       ],
@@ -16453,84 +16647,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         57.5
-      ]
-    ],
-    "126504": [
-      [
-        "20260718",
-        57.5
       ],
       [
-        "20260719",
-        57.5
-      ],
-      [
-        "20260720",
-        57.5
-      ],
-      [
-        "20260721",
-        57.5
-      ],
-      [
-        "20260722",
-        57.5
-      ],
-      [
-        "20260723",
-        57.5
-      ],
-      [
-        "20260724",
-        57.5
-      ],
-      [
-        "20260725",
-        57.5
-      ],
-      [
-        "20260726",
-        57.5
-      ],
-      [
-        "20260727",
-        57.5
-      ],
-      [
-        "20260728",
-        57.5
-      ],
-      [
-        "20260729",
-        57.5
-      ],
-      [
-        "20260730",
-        57.5
-      ],
-      [
-        "20260731",
-        57.5
-      ],
-      [
-        "20260801",
-        57.5
-      ],
-      [
-        "20260802",
-        57.5
-      ],
-      [
-        "20260803",
-        57.5
+        "20260804",
+        57.7
       ]
     ],
     "105526": [
       [
-        "20260718",
-        57.6
-      ],
-      [
         "20260719",
         57.6
       ],
@@ -16593,84 +16717,154 @@ window.TENNIS_DATA = {
       [
         "20260803",
         57.4
+      ],
+      [
+        "20260804",
+        57.6
       ]
     ],
-    "111794": [
-      [
-        "20260718",
-        58.0
-      ],
+    "211776": [
       [
         "20260719",
-        58.0
+        57.8
       ],
       [
         "20260720",
-        57.4
+        57.8
       ],
       [
         "20260721",
-        57.4
+        57.8
       ],
       [
         "20260722",
-        57.4
+        57.8
       ],
       [
         "20260723",
-        57.4
+        57.8
       ],
       [
         "20260724",
-        57.4
+        57.8
       ],
       [
         "20260725",
-        57.4
+        57.8
       ],
       [
         "20260726",
-        57.4
+        57.8
       ],
       [
         "20260727",
-        57.4
+        57.8
       ],
       [
         "20260728",
-        57.4
+        57.8
       ],
       [
         "20260729",
-        57.4
+        57.8
       ],
       [
         "20260730",
-        57.4
+        57.8
       ],
       [
         "20260731",
-        57.4
+        57.8
       ],
       [
         "20260801",
-        57.4
+        57.8
       ],
       [
         "20260802",
-        57.4
+        57.8
       ],
       [
         "20260803",
-        57.4
+        57.8
+      ],
+      [
+        "20260804",
+        57.6
+      ]
+    ],
+    "126504": [
+      [
+        "20260719",
+        57.5
+      ],
+      [
+        "20260720",
+        57.5
+      ],
+      [
+        "20260721",
+        57.5
+      ],
+      [
+        "20260722",
+        57.5
+      ],
+      [
+        "20260723",
+        57.5
+      ],
+      [
+        "20260724",
+        57.5
+      ],
+      [
+        "20260725",
+        57.5
+      ],
+      [
+        "20260726",
+        57.5
+      ],
+      [
+        "20260727",
+        57.5
+      ],
+      [
+        "20260728",
+        57.5
+      ],
+      [
+        "20260729",
+        57.5
+      ],
+      [
+        "20260730",
+        57.5
+      ],
+      [
+        "20260731",
+        57.5
+      ],
+      [
+        "20260801",
+        57.5
+      ],
+      [
+        "20260802",
+        57.5
+      ],
+      [
+        "20260803",
+        57.5
+      ],
+      [
+        "20260804",
+        57.5
       ]
     ],
     "200059": [
       [
-        "20260718",
-        57.4
-      ],
-      [
         "20260719",
         57.4
       ],
@@ -16733,84 +16927,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         57.4
-      ]
-    ],
-    "133430": [
-      [
-        "20260718",
-        60.4
       ],
       [
-        "20260719",
-        60.4
-      ],
-      [
-        "20260720",
-        57.3
-      ],
-      [
-        "20260721",
-        57.3
-      ],
-      [
-        "20260722",
-        57.3
-      ],
-      [
-        "20260723",
-        57.3
-      ],
-      [
-        "20260724",
-        57.3
-      ],
-      [
-        "20260725",
-        57.3
-      ],
-      [
-        "20260726",
-        57.3
-      ],
-      [
-        "20260727",
-        57.1
-      ],
-      [
-        "20260728",
-        57.1
-      ],
-      [
-        "20260729",
-        57.1
-      ],
-      [
-        "20260730",
-        57.1
-      ],
-      [
-        "20260731",
-        57.1
-      ],
-      [
-        "20260801",
-        57.1
-      ],
-      [
-        "20260802",
-        57.1
-      ],
-      [
-        "20260803",
-        57.1
+        "20260804",
+        57.4
       ]
     ],
     "105916": [
       [
-        "20260718",
-        57.8
-      ],
-      [
         "20260719",
         57.8
       ],
@@ -16873,84 +16997,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         57.1
+      ],
+      [
+        "20260804",
+        57.3
       ]
     ],
-    "200175": [
-      [
-        "20260718",
-        56.6
-      ],
+    "210338": [
       [
         "20260719",
-        56.6
+        55.0
       ],
       [
         "20260720",
-        56.8
+        55.0
       ],
       [
         "20260721",
-        56.8
+        55.0
       ],
       [
         "20260722",
-        56.8
+        55.0
       ],
       [
         "20260723",
-        56.8
+        55.0
       ],
       [
         "20260724",
-        56.8
+        55.0
       ],
       [
         "20260725",
-        56.8
+        55.0
       ],
       [
         "20260726",
-        56.8
+        55.0
       ],
       [
         "20260727",
-        56.6
+        55.0
       ],
       [
         "20260728",
-        56.6
+        55.0
       ],
       [
         "20260729",
-        56.6
+        55.0
       ],
       [
         "20260730",
-        56.6
+        55.0
       ],
       [
         "20260731",
-        56.6
+        55.0
       ],
       [
         "20260801",
-        56.6
+        55.0
       ],
       [
         "20260802",
-        56.6
+        55.0
       ],
       [
         "20260803",
-        56.6
+        55.0
+      ],
+      [
+        "20260804",
+        57.0
       ]
     ],
     "208169": [
       [
-        "20260718",
-        56.6
-      ],
-      [
         "20260719",
         56.6
       ],
@@ -17012,85 +17136,155 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        56.6
+      ],
+      [
+        "20260804",
         56.6
       ]
     ],
-    "105807": [
-      [
-        "20260718",
-        56.5
-      ],
+    "200624": [
       [
         "20260719",
-        56.5
+        55.0
       ],
       [
         "20260720",
-        56.5
+        54.9
       ],
       [
         "20260721",
-        56.5
+        54.9
       ],
       [
         "20260722",
-        56.5
+        54.9
       ],
       [
         "20260723",
-        56.5
+        54.9
       ],
       [
         "20260724",
-        56.5
+        54.9
       ],
       [
         "20260725",
-        56.5
+        54.9
       ],
       [
         "20260726",
-        56.5
+        54.9
       ],
       [
         "20260727",
-        56.3
+        55.5
       ],
       [
         "20260728",
-        56.3
+        55.5
       ],
       [
         "20260729",
-        56.3
+        55.5
       ],
       [
         "20260730",
-        56.3
+        55.5
       ],
       [
         "20260731",
-        56.3
+        55.5
       ],
       [
         "20260801",
-        56.3
+        55.5
       ],
       [
         "20260802",
-        56.3
+        55.5
       ],
       [
         "20260803",
+        55.5
+      ],
+      [
+        "20260804",
+        56.5
+      ]
+    ],
+    "200175": [
+      [
+        "20260719",
+        56.6
+      ],
+      [
+        "20260720",
+        56.8
+      ],
+      [
+        "20260721",
+        56.8
+      ],
+      [
+        "20260722",
+        56.8
+      ],
+      [
+        "20260723",
+        56.8
+      ],
+      [
+        "20260724",
+        56.8
+      ],
+      [
+        "20260725",
+        56.8
+      ],
+      [
+        "20260726",
+        56.8
+      ],
+      [
+        "20260727",
+        56.6
+      ],
+      [
+        "20260728",
+        56.6
+      ],
+      [
+        "20260729",
+        56.6
+      ],
+      [
+        "20260730",
+        56.6
+      ],
+      [
+        "20260731",
+        56.6
+      ],
+      [
+        "20260801",
+        56.6
+      ],
+      [
+        "20260802",
+        56.6
+      ],
+      [
+        "20260803",
+        56.6
+      ],
+      [
+        "20260804",
         56.3
       ]
     ],
     "200116": [
       [
-        "20260718",
-        58.2
-      ],
-      [
         "20260719",
         58.2
       ],
@@ -17153,154 +17347,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         56.2
-      ]
-    ],
-    "208260": [
-      [
-        "20260718",
-        56.3
       ],
       [
+        "20260804",
+        56.2
+      ]
+    ],
+    "105807": [
+      [
         "20260719",
-        56.3
+        56.5
       ],
       [
         "20260720",
-        56.2
+        56.5
       ],
       [
         "20260721",
-        56.2
+        56.5
       ],
       [
         "20260722",
-        56.2
+        56.5
       ],
       [
         "20260723",
-        56.2
+        56.5
       ],
       [
         "20260724",
-        56.2
+        56.5
       ],
       [
         "20260725",
-        56.2
+        56.5
       ],
       [
         "20260726",
-        56.2
+        56.5
       ],
       [
         "20260727",
-        55.8
+        56.3
       ],
       [
         "20260728",
-        55.8
+        56.3
       ],
       [
         "20260729",
-        55.8
+        56.3
       ],
       [
         "20260730",
-        55.8
+        56.3
       ],
       [
         "20260731",
-        55.8
+        56.3
       ],
       [
         "20260801",
-        55.8
+        56.3
       ],
       [
         "20260802",
-        55.8
+        56.3
       ],
       [
         "20260803",
-        55.8
-      ]
-    ],
-    "200624": [
-      [
-        "20260718",
-        55.0
+        56.3
       ],
       [
-        "20260719",
-        55.0
-      ],
-      [
-        "20260720",
-        54.9
-      ],
-      [
-        "20260721",
-        54.9
-      ],
-      [
-        "20260722",
-        54.9
-      ],
-      [
-        "20260723",
-        54.9
-      ],
-      [
-        "20260724",
-        54.9
-      ],
-      [
-        "20260725",
-        54.9
-      ],
-      [
-        "20260726",
-        54.9
-      ],
-      [
-        "20260727",
-        55.5
-      ],
-      [
-        "20260728",
-        55.5
-      ],
-      [
-        "20260729",
-        55.5
-      ],
-      [
-        "20260730",
-        55.5
-      ],
-      [
-        "20260731",
-        55.5
-      ],
-      [
-        "20260801",
-        55.5
-      ],
-      [
-        "20260802",
-        55.5
-      ],
-      [
-        "20260803",
-        55.5
+        "20260804",
+        56.1
       ]
     ],
     "210262": [
       [
-        "20260718",
-        53.9
-      ],
-      [
         "20260719",
         53.9
       ],
@@ -17362,15 +17486,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        55.4
+      ],
+      [
+        "20260804",
         55.4
       ]
     ],
     "209113": [
       [
-        "20260718",
-        56.2
-      ],
-      [
         "20260719",
         56.2
       ],
@@ -17433,294 +17557,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         55.4
-      ]
-    ],
-    "208010": [
-      [
-        "20260718",
-        55.2
       ],
       [
-        "20260719",
-        55.2
-      ],
-      [
-        "20260720",
-        55.2
-      ],
-      [
-        "20260721",
-        55.2
-      ],
-      [
-        "20260722",
-        55.2
-      ],
-      [
-        "20260723",
-        55.2
-      ],
-      [
-        "20260724",
-        55.2
-      ],
-      [
-        "20260725",
-        55.2
-      ],
-      [
-        "20260726",
-        55.2
-      ],
-      [
-        "20260727",
-        55.2
-      ],
-      [
-        "20260728",
-        55.2
-      ],
-      [
-        "20260729",
-        55.2
-      ],
-      [
-        "20260730",
-        55.2
-      ],
-      [
-        "20260731",
-        55.2
-      ],
-      [
-        "20260801",
-        55.2
-      ],
-      [
-        "20260802",
-        55.2
-      ],
-      [
-        "20260803",
-        55.2
-      ]
-    ],
-    "132283": [
-      [
-        "20260718",
-        54.7
-      ],
-      [
-        "20260719",
-        54.7
-      ],
-      [
-        "20260720",
+        "20260804",
         55.4
-      ],
-      [
-        "20260721",
-        55.4
-      ],
-      [
-        "20260722",
-        55.4
-      ],
-      [
-        "20260723",
-        55.4
-      ],
-      [
-        "20260724",
-        55.4
-      ],
-      [
-        "20260725",
-        55.4
-      ],
-      [
-        "20260726",
-        55.4
-      ],
-      [
-        "20260727",
-        55.1
-      ],
-      [
-        "20260728",
-        55.1
-      ],
-      [
-        "20260729",
-        55.1
-      ],
-      [
-        "20260730",
-        55.1
-      ],
-      [
-        "20260731",
-        55.1
-      ],
-      [
-        "20260801",
-        55.1
-      ],
-      [
-        "20260802",
-        55.1
-      ],
-      [
-        "20260803",
-        55.1
-      ]
-    ],
-    "209976": [
-      [
-        "20260718",
-        56.6
-      ],
-      [
-        "20260719",
-        56.6
-      ],
-      [
-        "20260720",
-        55.8
-      ],
-      [
-        "20260721",
-        55.8
-      ],
-      [
-        "20260722",
-        55.8
-      ],
-      [
-        "20260723",
-        55.8
-      ],
-      [
-        "20260724",
-        55.8
-      ],
-      [
-        "20260725",
-        55.8
-      ],
-      [
-        "20260726",
-        55.8
-      ],
-      [
-        "20260727",
-        55.0
-      ],
-      [
-        "20260728",
-        55.0
-      ],
-      [
-        "20260729",
-        55.0
-      ],
-      [
-        "20260730",
-        55.0
-      ],
-      [
-        "20260731",
-        55.0
-      ],
-      [
-        "20260801",
-        55.0
-      ],
-      [
-        "20260802",
-        55.0
-      ],
-      [
-        "20260803",
-        55.0
-      ]
-    ],
-    "210338": [
-      [
-        "20260718",
-        55.0
-      ],
-      [
-        "20260719",
-        55.0
-      ],
-      [
-        "20260720",
-        55.0
-      ],
-      [
-        "20260721",
-        55.0
-      ],
-      [
-        "20260722",
-        55.0
-      ],
-      [
-        "20260723",
-        55.0
-      ],
-      [
-        "20260724",
-        55.0
-      ],
-      [
-        "20260725",
-        55.0
-      ],
-      [
-        "20260726",
-        55.0
-      ],
-      [
-        "20260727",
-        55.0
-      ],
-      [
-        "20260728",
-        55.0
-      ],
-      [
-        "20260729",
-        55.0
-      ],
-      [
-        "20260730",
-        55.0
-      ],
-      [
-        "20260731",
-        55.0
-      ],
-      [
-        "20260801",
-        55.0
-      ],
-      [
-        "20260802",
-        55.0
-      ],
-      [
-        "20260803",
-        55.0
       ]
     ],
     "106218": [
       [
-        "20260718",
-        54.6
-      ],
-      [
         "20260719",
         54.6
       ],
@@ -17783,14 +17627,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         54.8
+      ],
+      [
+        "20260804",
+        55.2
+      ]
+    ],
+    "208010": [
+      [
+        "20260719",
+        55.2
+      ],
+      [
+        "20260720",
+        55.2
+      ],
+      [
+        "20260721",
+        55.2
+      ],
+      [
+        "20260722",
+        55.2
+      ],
+      [
+        "20260723",
+        55.2
+      ],
+      [
+        "20260724",
+        55.2
+      ],
+      [
+        "20260725",
+        55.2
+      ],
+      [
+        "20260726",
+        55.2
+      ],
+      [
+        "20260727",
+        55.2
+      ],
+      [
+        "20260728",
+        55.2
+      ],
+      [
+        "20260729",
+        55.2
+      ],
+      [
+        "20260730",
+        55.2
+      ],
+      [
+        "20260731",
+        55.2
+      ],
+      [
+        "20260801",
+        55.2
+      ],
+      [
+        "20260802",
+        55.2
+      ],
+      [
+        "20260803",
+        55.2
+      ],
+      [
+        "20260804",
+        55.2
       ]
     ],
     "127157": [
       [
-        "20260718",
-        55.0
-      ],
-      [
         "20260719",
         55.0
       ],
@@ -17853,14 +17767,154 @@ window.TENNIS_DATA = {
       [
         "20260803",
         54.7
+      ],
+      [
+        "20260804",
+        55.0
+      ]
+    ],
+    "209976": [
+      [
+        "20260719",
+        56.6
+      ],
+      [
+        "20260720",
+        55.8
+      ],
+      [
+        "20260721",
+        55.8
+      ],
+      [
+        "20260722",
+        55.8
+      ],
+      [
+        "20260723",
+        55.8
+      ],
+      [
+        "20260724",
+        55.8
+      ],
+      [
+        "20260725",
+        55.8
+      ],
+      [
+        "20260726",
+        55.8
+      ],
+      [
+        "20260727",
+        55.0
+      ],
+      [
+        "20260728",
+        55.0
+      ],
+      [
+        "20260729",
+        55.0
+      ],
+      [
+        "20260730",
+        55.0
+      ],
+      [
+        "20260731",
+        55.0
+      ],
+      [
+        "20260801",
+        55.0
+      ],
+      [
+        "20260802",
+        55.0
+      ],
+      [
+        "20260803",
+        55.0
+      ],
+      [
+        "20260804",
+        55.0
+      ]
+    ],
+    "208260": [
+      [
+        "20260719",
+        56.3
+      ],
+      [
+        "20260720",
+        56.2
+      ],
+      [
+        "20260721",
+        56.2
+      ],
+      [
+        "20260722",
+        56.2
+      ],
+      [
+        "20260723",
+        56.2
+      ],
+      [
+        "20260724",
+        56.2
+      ],
+      [
+        "20260725",
+        56.2
+      ],
+      [
+        "20260726",
+        56.2
+      ],
+      [
+        "20260727",
+        55.8
+      ],
+      [
+        "20260728",
+        55.8
+      ],
+      [
+        "20260729",
+        55.8
+      ],
+      [
+        "20260730",
+        55.8
+      ],
+      [
+        "20260731",
+        55.8
+      ],
+      [
+        "20260801",
+        55.8
+      ],
+      [
+        "20260802",
+        55.8
+      ],
+      [
+        "20260803",
+        55.8
+      ],
+      [
+        "20260804",
+        54.6
       ]
     ],
     "105173": [
       [
-        "20260718",
-        54.3
-      ],
-      [
         "20260719",
         54.3
       ],
@@ -17922,85 +17976,155 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        54.5
+      ],
+      [
+        "20260804",
         54.5
       ]
     ],
-    "208029": [
-      [
-        "20260718",
-        54.3
-      ],
+    "208597": [
       [
         "20260719",
-        54.3
+        53.5
       ],
       [
         "20260720",
-        54.4
+        53.5
       ],
       [
         "20260721",
-        54.4
+        53.5
       ],
       [
         "20260722",
-        54.4
+        53.5
       ],
       [
         "20260723",
-        54.4
+        53.5
       ],
       [
         "20260724",
-        54.4
+        53.5
       ],
       [
         "20260725",
-        54.4
+        53.5
       ],
       [
         "20260726",
-        54.4
+        53.5
       ],
       [
         "20260727",
-        54.2
+        53.5
       ],
       [
         "20260728",
-        54.2
+        53.5
       ],
       [
         "20260729",
-        54.2
+        53.5
       ],
       [
         "20260730",
-        54.2
+        53.5
       ],
       [
         "20260731",
-        54.2
+        53.5
       ],
       [
         "20260801",
-        54.2
+        53.5
       ],
       [
         "20260802",
-        54.2
+        53.5
       ],
       [
         "20260803",
+        53.5
+      ],
+      [
+        "20260804",
+        54.4
+      ]
+    ],
+    "132283": [
+      [
+        "20260719",
+        54.7
+      ],
+      [
+        "20260720",
+        55.4
+      ],
+      [
+        "20260721",
+        55.4
+      ],
+      [
+        "20260722",
+        55.4
+      ],
+      [
+        "20260723",
+        55.4
+      ],
+      [
+        "20260724",
+        55.4
+      ],
+      [
+        "20260725",
+        55.4
+      ],
+      [
+        "20260726",
+        55.4
+      ],
+      [
+        "20260727",
+        55.1
+      ],
+      [
+        "20260728",
+        55.1
+      ],
+      [
+        "20260729",
+        55.1
+      ],
+      [
+        "20260730",
+        55.1
+      ],
+      [
+        "20260731",
+        55.1
+      ],
+      [
+        "20260801",
+        55.1
+      ],
+      [
+        "20260802",
+        55.1
+      ],
+      [
+        "20260803",
+        55.1
+      ],
+      [
+        "20260804",
         54.2
       ]
     ],
     "200615": [
       [
-        "20260718",
-        54.0
-      ],
-      [
         "20260719",
         54.0
       ],
@@ -18062,15 +18186,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        54.0
+      ],
+      [
+        "20260804",
         54.0
       ]
     ],
     "209147": [
       [
-        "20260718",
-        53.9
-      ],
-      [
         "20260719",
         53.9
       ],
@@ -18132,15 +18256,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        53.9
+      ],
+      [
+        "20260804",
         53.9
       ]
     ],
     "206736": [
       [
-        "20260718",
-        53.7
-      ],
-      [
         "20260719",
         53.7
       ],
@@ -18202,15 +18326,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        53.7
+      ],
+      [
+        "20260804",
         53.7
       ]
     ],
     "126127": [
       [
-        "20260718",
-        53.5
-      ],
-      [
         "20260719",
         53.5
       ],
@@ -18273,84 +18397,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         53.5
-      ]
-    ],
-    "208597": [
-      [
-        "20260718",
-        53.5
       ],
       [
-        "20260719",
-        53.5
-      ],
-      [
-        "20260720",
-        53.5
-      ],
-      [
-        "20260721",
-        53.5
-      ],
-      [
-        "20260722",
-        53.5
-      ],
-      [
-        "20260723",
-        53.5
-      ],
-      [
-        "20260724",
-        53.5
-      ],
-      [
-        "20260725",
-        53.5
-      ],
-      [
-        "20260726",
-        53.5
-      ],
-      [
-        "20260727",
-        53.5
-      ],
-      [
-        "20260728",
-        53.5
-      ],
-      [
-        "20260729",
-        53.5
-      ],
-      [
-        "20260730",
-        53.5
-      ],
-      [
-        "20260731",
-        53.5
-      ],
-      [
-        "20260801",
-        53.5
-      ],
-      [
-        "20260802",
-        53.5
-      ],
-      [
-        "20260803",
+        "20260804",
         53.5
       ]
     ],
     "105882": [
       [
-        "20260718",
-        53.5
-      ],
-      [
         "20260719",
         53.5
       ],
@@ -18412,15 +18466,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        53.5
+      ],
+      [
+        "20260804",
         53.5
       ]
     ],
     "207686": [
       [
-        "20260718",
-        52.2
-      ],
-      [
         "20260719",
         52.2
       ],
@@ -18482,15 +18536,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        53.4
+      ],
+      [
+        "20260804",
         53.4
       ]
     ],
     "207411": [
       [
-        "20260718",
-        56.4
-      ],
-      [
         "20260719",
         56.4
       ],
@@ -18552,15 +18606,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        53.4
+      ],
+      [
+        "20260804",
         53.4
       ]
     ],
     "124187": [
       [
-        "20260718",
-        53.1
-      ],
-      [
         "20260719",
         53.1
       ],
@@ -18623,84 +18677,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         53.1
-      ]
-    ],
-    "210319": [
-      [
-        "20260718",
-        52.8
       ],
       [
-        "20260719",
-        52.8
-      ],
-      [
-        "20260720",
+        "20260804",
         53.1
-      ],
-      [
-        "20260721",
-        53.1
-      ],
-      [
-        "20260722",
-        53.1
-      ],
-      [
-        "20260723",
-        53.1
-      ],
-      [
-        "20260724",
-        53.1
-      ],
-      [
-        "20260725",
-        53.1
-      ],
-      [
-        "20260726",
-        53.1
-      ],
-      [
-        "20260727",
-        53.0
-      ],
-      [
-        "20260728",
-        53.0
-      ],
-      [
-        "20260729",
-        53.0
-      ],
-      [
-        "20260730",
-        53.0
-      ],
-      [
-        "20260731",
-        53.0
-      ],
-      [
-        "20260801",
-        53.0
-      ],
-      [
-        "20260802",
-        53.0
-      ],
-      [
-        "20260803",
-        53.0
       ]
     ],
     "207494": [
       [
-        "20260718",
-        53.0
-      ],
-      [
         "20260719",
         53.0
       ],
@@ -18762,15 +18746,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        53.0
+      ],
+      [
+        "20260804",
         53.0
       ]
     ],
     "208233": [
       [
-        "20260718",
-        52.8
-      ],
-      [
         "20260719",
         52.8
       ],
@@ -18833,84 +18817,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         52.7
+      ],
+      [
+        "20260804",
+        52.8
       ]
     ],
-    "105777": [
-      [
-        "20260718",
-        52.2
-      ],
+    "210319": [
       [
         "20260719",
-        52.2
+        52.8
       ],
       [
         "20260720",
-        52.2
+        53.1
       ],
       [
         "20260721",
-        52.2
+        53.1
       ],
       [
         "20260722",
-        52.2
+        53.1
       ],
       [
         "20260723",
-        52.2
+        53.1
       ],
       [
         "20260724",
-        52.2
+        53.1
       ],
       [
         "20260725",
-        52.2
+        53.1
       ],
       [
         "20260726",
-        52.2
+        53.1
       ],
       [
         "20260727",
-        52.2
+        53.0
       ],
       [
         "20260728",
-        52.2
+        53.0
       ],
       [
         "20260729",
-        52.2
+        53.0
       ],
       [
         "20260730",
-        52.2
+        53.0
       ],
       [
         "20260731",
-        52.2
+        53.0
       ],
       [
         "20260801",
-        52.2
+        53.0
       ],
       [
         "20260802",
-        52.2
+        53.0
       ],
       [
         "20260803",
-        52.2
+        53.0
+      ],
+      [
+        "20260804",
+        52.4
       ]
     ],
     "105477": [
       [
-        "20260718",
-        51.2
-      ],
-      [
         "20260719",
         51.2
       ],
@@ -18973,14 +18957,154 @@ window.TENNIS_DATA = {
       [
         "20260803",
         52.1
+      ],
+      [
+        "20260804",
+        52.3
+      ]
+    ],
+    "208029": [
+      [
+        "20260719",
+        54.3
+      ],
+      [
+        "20260720",
+        54.4
+      ],
+      [
+        "20260721",
+        54.4
+      ],
+      [
+        "20260722",
+        54.4
+      ],
+      [
+        "20260723",
+        54.4
+      ],
+      [
+        "20260724",
+        54.4
+      ],
+      [
+        "20260725",
+        54.4
+      ],
+      [
+        "20260726",
+        54.4
+      ],
+      [
+        "20260727",
+        54.2
+      ],
+      [
+        "20260728",
+        54.2
+      ],
+      [
+        "20260729",
+        54.2
+      ],
+      [
+        "20260730",
+        54.2
+      ],
+      [
+        "20260731",
+        54.2
+      ],
+      [
+        "20260801",
+        54.2
+      ],
+      [
+        "20260802",
+        54.2
+      ],
+      [
+        "20260803",
+        54.2
+      ],
+      [
+        "20260804",
+        52.3
+      ]
+    ],
+    "105777": [
+      [
+        "20260719",
+        52.2
+      ],
+      [
+        "20260720",
+        52.2
+      ],
+      [
+        "20260721",
+        52.2
+      ],
+      [
+        "20260722",
+        52.2
+      ],
+      [
+        "20260723",
+        52.2
+      ],
+      [
+        "20260724",
+        52.2
+      ],
+      [
+        "20260725",
+        52.2
+      ],
+      [
+        "20260726",
+        52.2
+      ],
+      [
+        "20260727",
+        52.2
+      ],
+      [
+        "20260728",
+        52.2
+      ],
+      [
+        "20260729",
+        52.2
+      ],
+      [
+        "20260730",
+        52.2
+      ],
+      [
+        "20260731",
+        52.2
+      ],
+      [
+        "20260801",
+        52.2
+      ],
+      [
+        "20260802",
+        52.2
+      ],
+      [
+        "20260803",
+        52.2
+      ],
+      [
+        "20260804",
+        52.2
       ]
     ],
     "124186": [
       [
-        "20260718",
-        51.8
-      ],
-      [
         "20260719",
         51.8
       ],
@@ -19042,15 +19166,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        51.8
+      ],
+      [
+        "20260804",
         51.8
       ]
     ],
     "210116": [
       [
-        "20260718",
-        51.7
-      ],
-      [
         "20260719",
         51.7
       ],
@@ -19112,15 +19236,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        51.7
+      ],
+      [
+        "20260804",
         51.7
       ]
     ],
     "206499": [
       [
-        "20260718",
-        54.2
-      ],
-      [
         "20260719",
         54.2
       ],
@@ -19182,85 +19306,85 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        51.3
+      ],
+      [
+        "20260804",
         51.3
       ]
     ],
-    "208353": [
-      [
-        "20260718",
-        51.0
-      ],
+    "207680": [
       [
         "20260719",
-        51.0
+        49.2
       ],
       [
         "20260720",
-        51.0
+        49.2
       ],
       [
         "20260721",
-        51.0
+        49.2
       ],
       [
         "20260722",
-        51.0
+        49.2
       ],
       [
         "20260723",
-        51.0
+        49.2
       ],
       [
         "20260724",
-        51.0
+        49.2
       ],
       [
         "20260725",
-        51.0
+        49.2
       ],
       [
         "20260726",
-        51.0
+        49.2
       ],
       [
         "20260727",
-        51.0
+        49.2
       ],
       [
         "20260728",
-        51.0
+        49.2
       ],
       [
         "20260729",
-        51.0
+        49.2
       ],
       [
         "20260730",
-        51.0
+        49.2
       ],
       [
         "20260731",
-        51.0
+        49.2
       ],
       [
         "20260801",
-        51.0
+        49.2
       ],
       [
         "20260802",
-        51.0
+        49.2
       ],
       [
         "20260803",
+        49.2
+      ],
+      [
+        "20260804",
         51.0
       ]
     ],
     "105932": [
       [
-        "20260718",
-        50.6
-      ],
-      [
         "20260719",
         50.6
       ],
@@ -19322,15 +19446,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        50.6
+      ],
+      [
+        "20260804",
         50.6
       ]
     ],
     "210460": [
       [
-        "20260718",
-        50.6
-      ],
-      [
         "20260719",
         50.6
       ],
@@ -19392,15 +19516,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        50.6
+      ],
+      [
+        "20260804",
         50.6
       ]
     ],
     "102093": [
       [
-        "20260718",
-        50.3
-      ],
-      [
         "20260719",
         50.3
       ],
@@ -19463,84 +19587,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         50.3
-      ]
-    ],
-    "208659": [
-      [
-        "20260718",
-        50.0
       ],
       [
-        "20260719",
-        50.0
-      ],
-      [
-        "20260720",
-        50.0
-      ],
-      [
-        "20260721",
-        50.0
-      ],
-      [
-        "20260722",
-        50.0
-      ],
-      [
-        "20260723",
-        50.0
-      ],
-      [
-        "20260724",
-        50.0
-      ],
-      [
-        "20260725",
-        50.0
-      ],
-      [
-        "20260726",
-        50.0
-      ],
-      [
-        "20260727",
-        50.2
-      ],
-      [
-        "20260728",
-        50.2
-      ],
-      [
-        "20260729",
-        50.2
-      ],
-      [
-        "20260730",
-        50.2
-      ],
-      [
-        "20260731",
-        50.2
-      ],
-      [
-        "20260801",
-        50.2
-      ],
-      [
-        "20260802",
-        50.2
-      ],
-      [
-        "20260803",
-        50.2
+        "20260804",
+        50.3
       ]
     ],
     "207681": [
       [
-        "20260718",
-        50.9
-      ],
-      [
         "20260719",
         50.9
       ],
@@ -19603,14 +19657,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         50.2
+      ],
+      [
+        "20260804",
+        50.2
+      ]
+    ],
+    "208659": [
+      [
+        "20260719",
+        50.0
+      ],
+      [
+        "20260720",
+        50.0
+      ],
+      [
+        "20260721",
+        50.0
+      ],
+      [
+        "20260722",
+        50.0
+      ],
+      [
+        "20260723",
+        50.0
+      ],
+      [
+        "20260724",
+        50.0
+      ],
+      [
+        "20260725",
+        50.0
+      ],
+      [
+        "20260726",
+        50.0
+      ],
+      [
+        "20260727",
+        50.2
+      ],
+      [
+        "20260728",
+        50.2
+      ],
+      [
+        "20260729",
+        50.2
+      ],
+      [
+        "20260730",
+        50.2
+      ],
+      [
+        "20260731",
+        50.2
+      ],
+      [
+        "20260801",
+        50.2
+      ],
+      [
+        "20260802",
+        50.2
+      ],
+      [
+        "20260803",
+        50.2
+      ],
+      [
+        "20260804",
+        49.8
       ]
     ],
     "207182": [
       [
-        "20260718",
-        50.8
-      ],
-      [
         "20260719",
         50.8
       ],
@@ -19673,154 +19797,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         50.1
-      ]
-    ],
-    "126128": [
-      [
-        "20260718",
-        49.2
       ],
       [
-        "20260719",
-        49.2
-      ],
-      [
-        "20260720",
-        49.4
-      ],
-      [
-        "20260721",
-        49.4
-      ],
-      [
-        "20260722",
-        49.4
-      ],
-      [
-        "20260723",
-        49.4
-      ],
-      [
-        "20260724",
-        49.4
-      ],
-      [
-        "20260725",
-        49.4
-      ],
-      [
-        "20260726",
-        49.4
-      ],
-      [
-        "20260727",
-        49.6
-      ],
-      [
-        "20260728",
-        49.6
-      ],
-      [
-        "20260729",
-        49.6
-      ],
-      [
-        "20260730",
-        49.6
-      ],
-      [
-        "20260731",
-        49.6
-      ],
-      [
-        "20260801",
-        49.6
-      ],
-      [
-        "20260802",
-        49.6
-      ],
-      [
-        "20260803",
-        49.6
-      ]
-    ],
-    "207680": [
-      [
-        "20260718",
-        49.2
-      ],
-      [
-        "20260719",
-        49.2
-      ],
-      [
-        "20260720",
-        49.2
-      ],
-      [
-        "20260721",
-        49.2
-      ],
-      [
-        "20260722",
-        49.2
-      ],
-      [
-        "20260723",
-        49.2
-      ],
-      [
-        "20260724",
-        49.2
-      ],
-      [
-        "20260725",
-        49.2
-      ],
-      [
-        "20260726",
-        49.2
-      ],
-      [
-        "20260727",
-        49.2
-      ],
-      [
-        "20260728",
-        49.2
-      ],
-      [
-        "20260729",
-        49.2
-      ],
-      [
-        "20260730",
-        49.2
-      ],
-      [
-        "20260731",
-        49.2
-      ],
-      [
-        "20260801",
-        49.2
-      ],
-      [
-        "20260802",
-        49.2
-      ],
-      [
-        "20260803",
-        49.2
+        "20260804",
+        49.8
       ]
     ],
     "208014": [
       [
-        "20260718",
-        48.3
-      ],
-      [
         "20260719",
         48.3
       ],
@@ -19882,15 +19866,85 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        48.8
+      ],
+      [
+        "20260804",
+        48.8
+      ]
+    ],
+    "126128": [
+      [
+        "20260719",
+        49.2
+      ],
+      [
+        "20260720",
+        49.4
+      ],
+      [
+        "20260721",
+        49.4
+      ],
+      [
+        "20260722",
+        49.4
+      ],
+      [
+        "20260723",
+        49.4
+      ],
+      [
+        "20260724",
+        49.4
+      ],
+      [
+        "20260725",
+        49.4
+      ],
+      [
+        "20260726",
+        49.4
+      ],
+      [
+        "20260727",
+        49.6
+      ],
+      [
+        "20260728",
+        49.6
+      ],
+      [
+        "20260729",
+        49.6
+      ],
+      [
+        "20260730",
+        49.6
+      ],
+      [
+        "20260731",
+        49.6
+      ],
+      [
+        "20260801",
+        49.6
+      ],
+      [
+        "20260802",
+        49.6
+      ],
+      [
+        "20260803",
+        49.6
+      ],
+      [
+        "20260804",
         48.8
       ]
     ],
     "200443": [
       [
-        "20260718",
-        50.6
-      ],
-      [
         "20260719",
         50.6
       ],
@@ -19953,14 +20007,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         48.7
+      ],
+      [
+        "20260804",
+        48.6
       ]
     ],
     "209259": [
       [
-        "20260718",
-        48.4
-      ],
-      [
         "20260719",
         48.4
       ],
@@ -20023,14 +20077,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         48.3
+      ],
+      [
+        "20260804",
+        48.4
       ]
     ],
     "106000": [
       [
-        "20260718",
-        48.0
-      ],
-      [
         "20260719",
         48.0
       ],
@@ -20092,15 +20146,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        48.0
+      ],
+      [
+        "20260804",
         48.0
       ]
     ],
     "207985": [
       [
-        "20260718",
-        47.9
-      ],
-      [
         "20260719",
         47.9
       ],
@@ -20162,15 +20216,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        47.9
+      ],
+      [
+        "20260804",
         47.9
       ]
     ],
     "208021": [
       [
-        "20260718",
-        47.9
-      ],
-      [
         "20260719",
         47.9
       ],
@@ -20232,15 +20286,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        47.9
+      ],
+      [
+        "20260804",
         47.9
       ]
     ],
     "200514": [
       [
-        "20260718",
-        47.8
-      ],
-      [
         "20260719",
         47.8
       ],
@@ -20302,15 +20356,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        47.8
+      ],
+      [
+        "20260804",
         47.8
       ]
     ],
     "210389": [
       [
-        "20260718",
-        47.6
-      ],
-      [
         "20260719",
         47.6
       ],
@@ -20373,84 +20427,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         47.6
-      ]
-    ],
-    "105902": [
-      [
-        "20260718",
-        48.3
       ],
       [
-        "20260719",
-        48.3
-      ],
-      [
-        "20260720",
-        47.4
-      ],
-      [
-        "20260721",
-        47.4
-      ],
-      [
-        "20260722",
-        47.4
-      ],
-      [
-        "20260723",
-        47.4
-      ],
-      [
-        "20260724",
-        47.4
-      ],
-      [
-        "20260725",
-        47.4
-      ],
-      [
-        "20260726",
-        47.4
-      ],
-      [
-        "20260727",
-        47.3
-      ],
-      [
-        "20260728",
-        47.3
-      ],
-      [
-        "20260729",
-        47.3
-      ],
-      [
-        "20260730",
-        47.3
-      ],
-      [
-        "20260731",
-        47.3
-      ],
-      [
-        "20260801",
-        47.3
-      ],
-      [
-        "20260802",
-        47.3
-      ],
-      [
-        "20260803",
-        47.3
+        "20260804",
+        47.6
       ]
     ],
     "106426": [
       [
-        "20260718",
-        47.3
-      ],
-      [
         "20260719",
         47.3
       ],
@@ -20512,85 +20496,85 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        47.3
+      ],
+      [
+        "20260804",
         47.3
       ]
     ],
-    "149282": [
-      [
-        "20260718",
-        46.5
-      ],
+    "105902": [
       [
         "20260719",
-        46.5
+        48.3
       ],
       [
         "20260720",
-        46.5
+        47.4
       ],
       [
         "20260721",
-        46.5
+        47.4
       ],
       [
         "20260722",
-        46.5
+        47.4
       ],
       [
         "20260723",
-        46.5
+        47.4
       ],
       [
         "20260724",
-        46.5
+        47.4
       ],
       [
         "20260725",
-        46.5
+        47.4
       ],
       [
         "20260726",
-        46.5
+        47.4
       ],
       [
         "20260727",
-        46.5
+        47.3
       ],
       [
         "20260728",
-        46.5
+        47.3
       ],
       [
         "20260729",
-        46.5
+        47.3
       ],
       [
         "20260730",
-        46.5
+        47.3
       ],
       [
         "20260731",
-        46.5
+        47.3
       ],
       [
         "20260801",
-        46.5
+        47.3
       ],
       [
         "20260802",
-        46.5
+        47.3
       ],
       [
         "20260803",
-        46.5
+        47.3
+      ],
+      [
+        "20260804",
+        46.9
       ]
     ],
     "126846": [
       [
-        "20260718",
-        45.7
-      ],
-      [
         "20260719",
         45.7
       ],
@@ -20652,15 +20636,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        45.7
+      ],
+      [
+        "20260804",
         45.7
       ]
     ],
     "208316": [
       [
-        "20260718",
-        45.6
-      ],
-      [
         "20260719",
         45.6
       ],
@@ -20722,15 +20706,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        45.4
+      ],
+      [
+        "20260804",
         45.4
       ]
     ],
     "210012": [
       [
-        "20260718",
-        44.8
-      ],
-      [
         "20260719",
         44.8
       ],
@@ -20792,15 +20776,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        44.8
+      ],
+      [
+        "20260804",
         44.8
       ]
     ],
     "104527": [
       [
-        "20260718",
-        44.5
-      ],
-      [
         "20260719",
         44.5
       ],
@@ -20862,15 +20846,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        44.5
+      ],
+      [
+        "20260804",
         44.5
       ]
     ],
     "209857": [
       [
-        "20260718",
-        44.3
-      ],
-      [
         "20260719",
         44.3
       ],
@@ -20932,15 +20916,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        44.3
+      ],
+      [
+        "20260804",
         44.3
       ]
     ],
     "209070": [
       [
-        "20260718",
-        44.5
-      ],
-      [
         "20260719",
         44.5
       ],
@@ -21002,15 +20986,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        44.3
+      ],
+      [
+        "20260804",
         44.3
       ]
     ],
     "124116": [
       [
-        "20260718",
-        44.1
-      ],
-      [
         "20260719",
         44.1
       ],
@@ -21072,15 +21056,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        44.1
+      ],
+      [
+        "20260804",
         44.1
       ]
     ],
     "200384": [
       [
-        "20260718",
-        42.6
-      ],
-      [
         "20260719",
         42.6
       ],
@@ -21143,14 +21127,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         43.8
+      ],
+      [
+        "20260804",
+        43.0
       ]
     ],
     "106198": [
       [
-        "20260718",
-        42.5
-      ],
-      [
         "20260719",
         42.5
       ],
@@ -21213,14 +21197,24 @@ window.TENNIS_DATA = {
       [
         "20260803",
         42.5
+      ],
+      [
+        "20260804",
+        42.5
+      ]
+    ],
+    "105583": [
+      [
+        "20260728",
+        45.7
+      ],
+      [
+        "20260804",
+        42.3
       ]
     ],
     "200516": [
       [
-        "20260718",
-        40.6
-      ],
-      [
         "20260719",
         40.6
       ],
@@ -21282,15 +21276,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        40.6
+      ],
+      [
+        "20260804",
         40.6
       ]
     ],
     "202261": [
       [
-        "20260718",
-        40.3
-      ],
-      [
         "20260719",
         40.3
       ],
@@ -21352,15 +21346,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        40.3
+      ],
+      [
+        "20260804",
         40.3
       ]
     ],
     "111456": [
       [
-        "20260718",
-        39.1
-      ],
-      [
         "20260719",
         39.1
       ],
@@ -21422,15 +21416,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        39.1
+      ],
+      [
+        "20260804",
         39.1
       ]
     ],
     "123828": [
       [
-        "20260718",
-        39.1
-      ],
-      [
         "20260719",
         39.1
       ],
@@ -21493,6 +21487,10 @@ window.TENNIS_DATA = {
       [
         "20260803",
         37.6
+      ],
+      [
+        "20260804",
+        38.8
       ]
     ],
     "124079": [
@@ -21530,6 +21528,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        37.2
+      ],
+      [
+        "20260804",
         37.2
       ]
     ],
@@ -21569,13 +21571,13 @@ window.TENNIS_DATA = {
       [
         "20260803",
         36.9
+      ],
+      [
+        "20260804",
+        36.9
       ]
     ],
     "208013": [
-      [
-        "20260718",
-        36.2
-      ],
       [
         "20260719",
         36.2
@@ -21638,15 +21640,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        36.2
+      ],
+      [
+        "20260804",
         36.2
       ]
     ],
     "208361": [
       [
-        "20260718",
-        35.8
-      ],
-      [
         "20260719",
         35.8
       ],
@@ -21708,15 +21710,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        35.8
+      ],
+      [
+        "20260804",
         35.8
       ]
     ],
     "200647": [
       [
-        "20260718",
-        35.0
-      ],
-      [
         "20260719",
         35.0
       ],
@@ -21779,83 +21781,83 @@ window.TENNIS_DATA = {
       [
         "20260803",
         35.0
-      ]
-    ],
-    "207352": [
-      [
-        "20260718",
-        35.0
       ],
       [
-        "20260719",
-        35.0
-      ],
-      [
-        "20260720",
-        35.0
-      ],
-      [
-        "20260721",
-        35.0
-      ],
-      [
-        "20260722",
-        35.0
-      ],
-      [
-        "20260723",
-        35.0
-      ],
-      [
-        "20260724",
-        35.0
-      ],
-      [
-        "20260725",
-        35.0
-      ],
-      [
-        "20260726",
-        35.0
-      ],
-      [
-        "20260727",
-        35.0
-      ],
-      [
-        "20260728",
-        35.0
-      ],
-      [
-        "20260729",
-        35.0
-      ],
-      [
-        "20260730",
-        35.0
-      ],
-      [
-        "20260731",
-        35.0
-      ],
-      [
-        "20260801",
-        35.0
-      ],
-      [
-        "20260802",
-        35.0
-      ],
-      [
-        "20260803",
+        "20260804",
         35.0
       ]
     ],
     "208278": [
       [
-        "20260718",
+        "20260719",
         35.0
       ],
+      [
+        "20260720",
+        35.0
+      ],
+      [
+        "20260721",
+        35.0
+      ],
+      [
+        "20260722",
+        35.0
+      ],
+      [
+        "20260723",
+        35.0
+      ],
+      [
+        "20260724",
+        35.0
+      ],
+      [
+        "20260725",
+        35.0
+      ],
+      [
+        "20260726",
+        35.0
+      ],
+      [
+        "20260727",
+        35.0
+      ],
+      [
+        "20260728",
+        35.0
+      ],
+      [
+        "20260729",
+        35.0
+      ],
+      [
+        "20260730",
+        35.0
+      ],
+      [
+        "20260731",
+        35.0
+      ],
+      [
+        "20260801",
+        35.0
+      ],
+      [
+        "20260802",
+        35.0
+      ],
+      [
+        "20260803",
+        35.0
+      ],
+      [
+        "20260804",
+        35.0
+      ]
+    ],
+    "207352": [
       [
         "20260719",
         35.0
@@ -21918,15 +21920,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        35.0
+      ],
+      [
+        "20260804",
         35.0
       ]
     ],
     "200436": [
       [
-        "20260718",
-        35.0
-      ],
-      [
         "20260719",
         35.0
       ],
@@ -21988,15 +21990,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        35.0
+      ],
+      [
+        "20260804",
         35.0
       ]
     ],
     "200711": [
       [
-        "20260718",
-        35.0
-      ],
-      [
         "20260719",
         35.0
       ],
@@ -22058,15 +22060,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        35.0
+      ],
+      [
+        "20260804",
         35.0
       ]
     ],
     "144642": [
       [
-        "20260718",
-        35.0
-      ],
-      [
         "20260719",
         35.0
       ],
@@ -22128,6 +22130,20 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        35.0
+      ],
+      [
+        "20260804",
+        35.0
+      ]
+    ],
+    "208210": [
+      [
+        "20260728",
+        50.0
+      ],
+      [
+        "20260804",
         35.0
       ]
     ]
@@ -22135,10 +22151,6 @@ window.TENNIS_DATA = {
   "WTA_SCORE_LOG": {
     "214544": [
       [
-        "20260718",
-        100.0
-      ],
-      [
         "20260719",
         100.0
       ],
@@ -22200,15 +22212,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        100.0
+      ],
+      [
+        "20260804",
         100.0
       ]
     ],
     "214981": [
       [
-        "20260718",
-        93.2
-      ],
-      [
         "20260719",
         93.2
       ],
@@ -22270,15 +22282,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        93.0
+      ],
+      [
+        "20260804",
         93.0
       ]
     ],
     "259799": [
       [
-        "20260718",
-        92.1
-      ],
-      [
         "20260719",
         92.1
       ],
@@ -22340,15 +22352,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        91.8
+      ],
+      [
+        "20260804",
         91.8
       ]
     ],
     "221103": [
       [
-        "20260718",
-        91.4
-      ],
-      [
         "20260719",
         91.4
       ],
@@ -22410,15 +22422,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        91.1
+      ],
+      [
+        "20260804",
         91.1
       ]
     ],
     "216347": [
       [
-        "20260718",
-        90.8
-      ],
-      [
         "20260719",
         90.8
       ],
@@ -22480,15 +22492,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        90.5
+      ],
+      [
+        "20260804",
         90.5
       ]
     ],
     "216146": [
       [
-        "20260718",
-        90.6
-      ],
-      [
         "20260719",
         90.6
       ],
@@ -22550,15 +22562,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        90.3
+      ],
+      [
+        "20260804",
         90.3
       ]
     ],
     "202468": [
       [
-        "20260718",
-        90.3
-      ],
-      [
         "20260719",
         90.3
       ],
@@ -22620,15 +22632,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        90.0
+      ],
+      [
+        "20260804",
         90.0
       ]
     ],
     "202494": [
       [
-        "20260718",
-        90.1
-      ],
-      [
         "20260719",
         90.1
       ],
@@ -22691,14 +22703,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         89.8
+      ],
+      [
+        "20260804",
+        89.9
       ]
     ],
     "214096": [
       [
-        "20260718",
-        86.3
-      ],
-      [
         "20260719",
         86.3
       ],
@@ -22760,15 +22772,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        85.8
+      ],
+      [
+        "20260804",
         85.8
       ]
     ],
     "216153": [
       [
-        "20260718",
-        86.1
-      ],
-      [
         "20260719",
         86.1
       ],
@@ -22831,14 +22843,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         85.6
+      ],
+      [
+        "20260804",
+        85.5
       ]
     ],
     "201514": [
       [
-        "20260718",
-        85.9
-      ],
-      [
         "20260719",
         85.9
       ],
@@ -22901,14 +22913,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         85.5
+      ],
+      [
+        "20260804",
+        85.4
       ]
     ],
     "239475": [
       [
-        "20260718",
-        84.9
-      ],
-      [
         "20260719",
         84.9
       ],
@@ -22970,15 +22982,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        84.4
+      ],
+      [
+        "20260804",
         84.4
       ]
     ],
     "202505": [
       [
-        "20260718",
-        84.5
-      ],
-      [
         "20260719",
         84.5
       ],
@@ -23040,15 +23052,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        84.0
+      ],
+      [
+        "20260804",
         84.0
       ]
     ],
     "201619": [
       [
-        "20260718",
-        81.0
-      ],
-      [
         "20260719",
         81.0
       ],
@@ -23111,14 +23123,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         80.5
+      ],
+      [
+        "20260804",
+        80.4
       ]
     ],
     "216081": [
       [
-        "20260718",
-        80.8
-      ],
-      [
         "20260719",
         80.8
       ],
@@ -23181,14 +23193,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         80.4
+      ],
+      [
+        "20260804",
+        80.2
       ]
     ],
     "211768": [
       [
-        "20260718",
-        80.4
-      ],
-      [
         "20260719",
         80.4
       ],
@@ -23250,15 +23262,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        79.7
+      ],
+      [
+        "20260804",
         79.7
       ]
     ],
     "215713": [
       [
-        "20260718",
-        80.1
-      ],
-      [
         "20260719",
         80.1
       ],
@@ -23320,15 +23332,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        79.5
+      ],
+      [
+        "20260804",
         79.5
       ]
     ],
     "222328": [
       [
-        "20260718",
-        79.2
-      ],
-      [
         "20260719",
         79.2
       ],
@@ -23390,15 +23402,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        78.5
+      ],
+      [
+        "20260804",
         78.5
       ]
     ],
     "214939": [
       [
-        "20260718",
-        76.9
-      ],
-      [
         "20260719",
         76.9
       ],
@@ -23461,14 +23473,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         76.2
+      ],
+      [
+        "20260804",
+        76.1
       ]
     ],
     "210722": [
       [
-        "20260718",
-        76.8
-      ],
-      [
         "20260719",
         76.8
       ],
@@ -23531,14 +23543,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         76.2
+      ],
+      [
+        "20260804",
+        76.1
       ]
     ],
     "260300": [
       [
-        "20260718",
-        76.5
-      ],
-      [
         "20260719",
         76.5
       ],
@@ -23600,15 +23612,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        75.7
+      ],
+      [
+        "20260804",
         75.7
       ]
     ],
     "223670": [
       [
-        "20260718",
-        76.0
-      ],
-      [
         "20260719",
         76.0
       ],
@@ -23671,14 +23683,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         75.2
+      ],
+      [
+        "20260804",
+        75.3
       ]
     ],
     "201662": [
       [
-        "20260718",
-        74.7
-      ],
-      [
         "20260719",
         74.7
       ],
@@ -23741,14 +23753,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         74.1
+      ],
+      [
+        "20260804",
+        73.7
       ]
     ],
     "211148": [
       [
-        "20260718",
-        74.5
-      ],
-      [
         "20260719",
         74.5
       ],
@@ -23810,15 +23822,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        73.6
+      ],
+      [
+        "20260804",
         73.6
       ]
     ],
     "206252": [
       [
-        "20260718",
-        72.4
-      ],
-      [
         "20260719",
         72.4
       ],
@@ -23881,14 +23893,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         72.5
+      ],
+      [
+        "20260804",
+        72.3
       ]
     ],
     "213631": [
       [
-        "20260718",
-        73.1
-      ],
-      [
         "20260719",
         73.1
       ],
@@ -23951,14 +23963,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         71.9
+      ],
+      [
+        "20260804",
+        71.8
       ]
     ],
     "211533": [
       [
-        "20260718",
-        72.1
-      ],
-      [
         "20260719",
         72.1
       ],
@@ -24020,15 +24032,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        71.2
+      ],
+      [
+        "20260804",
         71.2
       ]
     ],
     "215613": [
       [
-        "20260718",
-        72.0
-      ],
-      [
         "20260719",
         72.0
       ],
@@ -24091,14 +24103,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         71.1
+      ],
+      [
+        "20260804",
+        70.8
       ]
     ],
     "221024": [
       [
-        "20260718",
-        70.8
-      ],
-      [
         "20260719",
         70.8
       ],
@@ -24160,15 +24172,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        69.9
+      ],
+      [
+        "20260804",
         69.9
       ]
     ],
     "206420": [
       [
-        "20260718",
-        69.8
-      ],
-      [
         "20260719",
         69.8
       ],
@@ -24230,15 +24242,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        68.8
+      ],
+      [
+        "20260804",
         68.8
       ]
     ],
     "223253": [
       [
-        "20260718",
-        68.8
-      ],
-      [
         "20260719",
         68.8
       ],
@@ -24301,14 +24313,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         67.8
+      ],
+      [
+        "20260804",
+        68.8
       ]
     ],
     "211713": [
       [
-        "20260718",
-        69.2
-      ],
-      [
         "20260719",
         69.2
       ],
@@ -24370,15 +24382,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        67.8
+      ],
+      [
+        "20260804",
         67.8
       ]
     ],
     "220367": [
       [
-        "20260718",
-        69.2
-      ],
-      [
         "20260719",
         69.2
       ],
@@ -24440,15 +24452,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        67.0
+      ],
+      [
+        "20260804",
         67.0
       ]
     ],
     "220520": [
       [
-        "20260718",
-        68.2
-      ],
-      [
         "20260719",
         68.2
       ],
@@ -24511,14 +24523,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         67.0
+      ],
+      [
+        "20260804",
+        66.9
       ]
     ],
     "215983": [
       [
-        "20260718",
-        67.6
-      ],
-      [
         "20260719",
         67.6
       ],
@@ -24580,15 +24592,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        66.5
+      ],
+      [
+        "20260804",
         66.5
       ]
     ],
     "220548": [
       [
-        "20260718",
-        67.1
-      ],
-      [
         "20260719",
         67.1
       ],
@@ -24651,14 +24663,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         66.4
+      ],
+      [
+        "20260804",
+        66.5
       ]
     ],
     "221012": [
       [
-        "20260718",
-        67.4
-      ],
-      [
         "20260719",
         67.4
       ],
@@ -24721,84 +24733,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         66.4
-      ]
-    ],
-    "215785": [
-      [
-        "20260718",
-        67.5
       ],
       [
-        "20260719",
-        67.5
-      ],
-      [
-        "20260720",
-        66.5
-      ],
-      [
-        "20260721",
-        66.5
-      ],
-      [
-        "20260722",
-        66.5
-      ],
-      [
-        "20260723",
-        66.5
-      ],
-      [
-        "20260724",
-        66.5
-      ],
-      [
-        "20260725",
-        66.5
-      ],
-      [
-        "20260726",
-        66.5
-      ],
-      [
-        "20260727",
-        66.1
-      ],
-      [
-        "20260728",
-        66.1
-      ],
-      [
-        "20260729",
-        66.1
-      ],
-      [
-        "20260730",
-        66.1
-      ],
-      [
-        "20260731",
-        66.1
-      ],
-      [
-        "20260801",
-        66.1
-      ],
-      [
-        "20260802",
-        66.1
-      ],
-      [
-        "20260803",
-        66.1
+        "20260804",
+        66.4
       ]
     ],
     "220704": [
       [
-        "20260718",
-        66.9
-      ],
-      [
         "20260719",
         66.9
       ],
@@ -24861,14 +24803,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         65.8
+      ],
+      [
+        "20260804",
+        65.8
+      ]
+    ],
+    "215785": [
+      [
+        "20260719",
+        67.5
+      ],
+      [
+        "20260720",
+        66.5
+      ],
+      [
+        "20260721",
+        66.5
+      ],
+      [
+        "20260722",
+        66.5
+      ],
+      [
+        "20260723",
+        66.5
+      ],
+      [
+        "20260724",
+        66.5
+      ],
+      [
+        "20260725",
+        66.5
+      ],
+      [
+        "20260726",
+        66.5
+      ],
+      [
+        "20260727",
+        66.1
+      ],
+      [
+        "20260728",
+        66.1
+      ],
+      [
+        "20260729",
+        66.1
+      ],
+      [
+        "20260730",
+        66.1
+      ],
+      [
+        "20260731",
+        66.1
+      ],
+      [
+        "20260801",
+        66.1
+      ],
+      [
+        "20260802",
+        66.1
+      ],
+      [
+        "20260803",
+        66.1
+      ],
+      [
+        "20260804",
+        65.5
       ]
     ],
     "206289": [
       [
-        "20260718",
-        65.8
-      ],
-      [
         "20260719",
         65.8
       ],
@@ -24931,84 +24943,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         65.3
-      ]
-    ],
-    "223360": [
-      [
-        "20260718",
-        65.2
       ],
       [
-        "20260719",
-        65.2
-      ],
-      [
-        "20260720",
-        64.0
-      ],
-      [
-        "20260721",
-        64.0
-      ],
-      [
-        "20260722",
-        64.0
-      ],
-      [
-        "20260723",
-        64.0
-      ],
-      [
-        "20260724",
-        64.0
-      ],
-      [
-        "20260725",
-        64.0
-      ],
-      [
-        "20260726",
-        64.0
-      ],
-      [
-        "20260727",
-        64.4
-      ],
-      [
-        "20260728",
-        64.4
-      ],
-      [
-        "20260729",
-        64.4
-      ],
-      [
-        "20260730",
-        64.4
-      ],
-      [
-        "20260731",
-        64.4
-      ],
-      [
-        "20260801",
-        64.4
-      ],
-      [
-        "20260802",
-        64.4
-      ],
-      [
-        "20260803",
-        64.4
+        "20260804",
+        65.3
       ]
     ],
     "220716": [
       [
-        "20260718",
-        64.4
-      ],
-      [
         "20260719",
         64.4
       ],
@@ -25070,85 +25012,95 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        64.3
+      ],
+      [
+        "20260804",
         64.3
       ]
     ],
-    "220348": [
-      [
-        "20260718",
-        65.5
-      ],
+    "223360": [
       [
         "20260719",
-        65.5
+        65.2
       ],
       [
         "20260720",
-        63.7
+        64.0
       ],
       [
         "20260721",
-        63.7
+        64.0
       ],
       [
         "20260722",
-        63.7
+        64.0
       ],
       [
         "20260723",
-        63.7
+        64.0
       ],
       [
         "20260724",
-        63.7
+        64.0
       ],
       [
         "20260725",
-        63.7
+        64.0
       ],
       [
         "20260726",
-        63.7
+        64.0
       ],
       [
         "20260727",
-        63.7
+        64.4
       ],
       [
         "20260728",
-        63.7
+        64.4
       ],
       [
         "20260729",
-        63.7
+        64.4
       ],
       [
         "20260730",
-        63.7
+        64.4
       ],
       [
         "20260731",
-        63.7
+        64.4
       ],
       [
         "20260801",
-        63.7
+        64.4
       ],
       [
         "20260802",
-        63.7
+        64.4
       ],
       [
         "20260803",
+        64.4
+      ],
+      [
+        "20260804",
+        64.2
+      ]
+    ],
+    "266671": [
+      [
+        "20260728",
+        67.4
+      ],
+      [
+        "20260804",
         63.7
       ]
     ],
     "221054": [
       [
-        "20260718",
-        66.1
-      ],
-      [
         "20260719",
         66.1
       ],
@@ -25210,15 +25162,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        63.5
+      ],
+      [
+        "20260804",
         63.5
       ]
     ],
     "239383": [
       [
-        "20260718",
-        64.1
-      ],
-      [
         "20260719",
         64.1
       ],
@@ -25280,15 +25232,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        63.4
+      ],
+      [
+        "20260804",
         63.4
       ]
     ],
     "211701": [
       [
-        "20260718",
-        64.7
-      ],
-      [
         "20260719",
         64.7
       ],
@@ -25351,364 +25303,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         63.3
-      ]
-    ],
-    "211107": [
-      [
-        "20260718",
-        64.4
       ],
       [
+        "20260804",
+        63.2
+      ]
+    ],
+    "220348": [
+      [
         "20260719",
-        64.4
+        65.5
       ],
       [
         "20260720",
-        63.3
+        63.7
       ],
       [
         "20260721",
-        63.3
+        63.7
       ],
       [
         "20260722",
-        63.3
+        63.7
       ],
       [
         "20260723",
-        63.3
+        63.7
       ],
       [
         "20260724",
-        63.3
+        63.7
       ],
       [
         "20260725",
-        63.3
+        63.7
       ],
       [
         "20260726",
-        63.3
+        63.7
       ],
       [
         "20260727",
-        63.0
+        63.7
       ],
       [
         "20260728",
-        63.0
+        63.7
       ],
       [
         "20260729",
-        63.0
+        63.7
       ],
       [
         "20260730",
-        63.0
+        63.7
       ],
       [
         "20260731",
-        63.0
+        63.7
       ],
       [
         "20260801",
-        63.0
+        63.7
       ],
       [
         "20260802",
-        63.0
+        63.7
       ],
       [
         "20260803",
-        63.0
-      ]
-    ],
-    "211337": [
-      [
-        "20260718",
-        60.4
-      ],
-      [
-        "20260719",
-        60.4
-      ],
-      [
-        "20260720",
-        58.4
-      ],
-      [
-        "20260721",
-        58.4
-      ],
-      [
-        "20260722",
-        58.4
-      ],
-      [
-        "20260723",
-        58.4
-      ],
-      [
-        "20260724",
-        58.4
-      ],
-      [
-        "20260725",
-        58.4
-      ],
-      [
-        "20260726",
-        58.4
-      ],
-      [
-        "20260727",
-        62.8
-      ],
-      [
-        "20260728",
-        62.8
-      ],
-      [
-        "20260729",
-        62.8
-      ],
-      [
-        "20260730",
-        62.8
-      ],
-      [
-        "20260731",
-        62.8
-      ],
-      [
-        "20260801",
-        62.8
-      ],
-      [
-        "20260802",
-        62.8
-      ],
-      [
-        "20260803",
-        62.8
-      ]
-    ],
-    "220750": [
-      [
-        "20260718",
-        62.1
-      ],
-      [
-        "20260719",
-        62.1
-      ],
-      [
-        "20260720",
-        61.2
-      ],
-      [
-        "20260721",
-        61.2
-      ],
-      [
-        "20260722",
-        61.2
-      ],
-      [
-        "20260723",
-        61.2
-      ],
-      [
-        "20260724",
-        61.2
-      ],
-      [
-        "20260725",
-        61.2
-      ],
-      [
-        "20260726",
-        61.2
-      ],
-      [
-        "20260727",
-        62.5
-      ],
-      [
-        "20260728",
-        62.5
-      ],
-      [
-        "20260729",
-        62.5
-      ],
-      [
-        "20260730",
-        62.5
-      ],
-      [
-        "20260731",
-        62.5
-      ],
-      [
-        "20260801",
-        62.5
-      ],
-      [
-        "20260802",
-        62.5
-      ],
-      [
-        "20260803",
-        62.5
-      ]
-    ],
-    "202663": [
-      [
-        "20260718",
-        65.0
-      ],
-      [
-        "20260719",
-        65.0
-      ],
-      [
-        "20260720",
-        63.9
-      ],
-      [
-        "20260721",
-        63.9
-      ],
-      [
-        "20260722",
-        63.9
-      ],
-      [
-        "20260723",
-        63.9
-      ],
-      [
-        "20260724",
-        63.9
-      ],
-      [
-        "20260725",
-        63.9
-      ],
-      [
-        "20260726",
-        63.9
-      ],
-      [
-        "20260727",
-        62.1
-      ],
-      [
-        "20260728",
-        62.1
-      ],
-      [
-        "20260729",
-        62.1
-      ],
-      [
-        "20260730",
-        62.1
-      ],
-      [
-        "20260731",
-        62.1
-      ],
-      [
-        "20260801",
-        62.1
-      ],
-      [
-        "20260802",
-        62.1
-      ],
-      [
-        "20260803",
-        62.1
-      ]
-    ],
-    "260172": [
-      [
-        "20260718",
-        58.0
-      ],
-      [
-        "20260719",
-        58.0
-      ],
-      [
-        "20260720",
-        58.0
-      ],
-      [
-        "20260721",
-        58.0
-      ],
-      [
-        "20260722",
-        58.0
-      ],
-      [
-        "20260723",
-        58.0
-      ],
-      [
-        "20260724",
-        58.0
-      ],
-      [
-        "20260725",
-        58.0
-      ],
-      [
-        "20260726",
-        58.0
-      ],
-      [
-        "20260727",
-        61.7
-      ],
-      [
-        "20260728",
-        61.7
-      ],
-      [
-        "20260729",
-        61.7
-      ],
-      [
-        "20260730",
-        61.7
-      ],
-      [
-        "20260731",
-        61.7
-      ],
-      [
-        "20260801",
-        61.7
-      ],
-      [
-        "20260802",
-        61.7
+        63.7
       ],
       [
-        "20260803",
-        61.7
+        "20260804",
+        63.2
       ]
     ],
     "220714": [
       [
-        "20260718",
-        62.8
-      ],
-      [
         "20260719",
         62.8
       ],
@@ -25771,14 +25443,434 @@ window.TENNIS_DATA = {
       [
         "20260803",
         61.3
+      ],
+      [
+        "20260804",
+        62.8
+      ]
+    ],
+    "211337": [
+      [
+        "20260719",
+        60.4
+      ],
+      [
+        "20260720",
+        58.4
+      ],
+      [
+        "20260721",
+        58.4
+      ],
+      [
+        "20260722",
+        58.4
+      ],
+      [
+        "20260723",
+        58.4
+      ],
+      [
+        "20260724",
+        58.4
+      ],
+      [
+        "20260725",
+        58.4
+      ],
+      [
+        "20260726",
+        58.4
+      ],
+      [
+        "20260727",
+        62.8
+      ],
+      [
+        "20260728",
+        62.8
+      ],
+      [
+        "20260729",
+        62.8
+      ],
+      [
+        "20260730",
+        62.8
+      ],
+      [
+        "20260731",
+        62.8
+      ],
+      [
+        "20260801",
+        62.8
+      ],
+      [
+        "20260802",
+        62.8
+      ],
+      [
+        "20260803",
+        62.8
+      ],
+      [
+        "20260804",
+        62.7
+      ]
+    ],
+    "211107": [
+      [
+        "20260719",
+        64.4
+      ],
+      [
+        "20260720",
+        63.3
+      ],
+      [
+        "20260721",
+        63.3
+      ],
+      [
+        "20260722",
+        63.3
+      ],
+      [
+        "20260723",
+        63.3
+      ],
+      [
+        "20260724",
+        63.3
+      ],
+      [
+        "20260725",
+        63.3
+      ],
+      [
+        "20260726",
+        63.3
+      ],
+      [
+        "20260727",
+        63.0
+      ],
+      [
+        "20260728",
+        63.0
+      ],
+      [
+        "20260729",
+        63.0
+      ],
+      [
+        "20260730",
+        63.0
+      ],
+      [
+        "20260731",
+        63.0
+      ],
+      [
+        "20260801",
+        63.0
+      ],
+      [
+        "20260802",
+        63.0
+      ],
+      [
+        "20260803",
+        63.0
+      ],
+      [
+        "20260804",
+        62.6
+      ]
+    ],
+    "220750": [
+      [
+        "20260719",
+        62.1
+      ],
+      [
+        "20260720",
+        61.2
+      ],
+      [
+        "20260721",
+        61.2
+      ],
+      [
+        "20260722",
+        61.2
+      ],
+      [
+        "20260723",
+        61.2
+      ],
+      [
+        "20260724",
+        61.2
+      ],
+      [
+        "20260725",
+        61.2
+      ],
+      [
+        "20260726",
+        61.2
+      ],
+      [
+        "20260727",
+        62.5
+      ],
+      [
+        "20260728",
+        62.5
+      ],
+      [
+        "20260729",
+        62.5
+      ],
+      [
+        "20260730",
+        62.5
+      ],
+      [
+        "20260731",
+        62.5
+      ],
+      [
+        "20260801",
+        62.5
+      ],
+      [
+        "20260802",
+        62.5
+      ],
+      [
+        "20260803",
+        62.5
+      ],
+      [
+        "20260804",
+        62.5
+      ]
+    ],
+    "214643": [
+      [
+        "20260719",
+        61.2
+      ],
+      [
+        "20260720",
+        60.0
+      ],
+      [
+        "20260721",
+        60.0
+      ],
+      [
+        "20260722",
+        60.0
+      ],
+      [
+        "20260723",
+        60.0
+      ],
+      [
+        "20260724",
+        60.0
+      ],
+      [
+        "20260725",
+        60.0
+      ],
+      [
+        "20260726",
+        60.0
+      ],
+      [
+        "20260727",
+        59.8
+      ],
+      [
+        "20260728",
+        59.8
+      ],
+      [
+        "20260729",
+        59.8
+      ],
+      [
+        "20260730",
+        59.8
+      ],
+      [
+        "20260731",
+        59.8
+      ],
+      [
+        "20260801",
+        59.8
+      ],
+      [
+        "20260802",
+        59.8
+      ],
+      [
+        "20260803",
+        59.8
+      ],
+      [
+        "20260804",
+        61.8
+      ]
+    ],
+    "202663": [
+      [
+        "20260719",
+        65.0
+      ],
+      [
+        "20260720",
+        63.9
+      ],
+      [
+        "20260721",
+        63.9
+      ],
+      [
+        "20260722",
+        63.9
+      ],
+      [
+        "20260723",
+        63.9
+      ],
+      [
+        "20260724",
+        63.9
+      ],
+      [
+        "20260725",
+        63.9
+      ],
+      [
+        "20260726",
+        63.9
+      ],
+      [
+        "20260727",
+        62.1
+      ],
+      [
+        "20260728",
+        62.1
+      ],
+      [
+        "20260729",
+        62.1
+      ],
+      [
+        "20260730",
+        62.1
+      ],
+      [
+        "20260731",
+        62.1
+      ],
+      [
+        "20260801",
+        62.1
+      ],
+      [
+        "20260802",
+        62.1
+      ],
+      [
+        "20260803",
+        62.1
+      ],
+      [
+        "20260804",
+        61.7
+      ]
+    ],
+    "260172": [
+      [
+        "20260719",
+        58.0
+      ],
+      [
+        "20260720",
+        58.0
+      ],
+      [
+        "20260721",
+        58.0
+      ],
+      [
+        "20260722",
+        58.0
+      ],
+      [
+        "20260723",
+        58.0
+      ],
+      [
+        "20260724",
+        58.0
+      ],
+      [
+        "20260725",
+        58.0
+      ],
+      [
+        "20260726",
+        58.0
+      ],
+      [
+        "20260727",
+        61.7
+      ],
+      [
+        "20260728",
+        61.7
+      ],
+      [
+        "20260729",
+        61.7
+      ],
+      [
+        "20260730",
+        61.7
+      ],
+      [
+        "20260731",
+        61.7
+      ],
+      [
+        "20260801",
+        61.7
+      ],
+      [
+        "20260802",
+        61.7
+      ],
+      [
+        "20260803",
+        61.7
+      ],
+      [
+        "20260804",
+        61.5
       ]
     ],
     "211843": [
       [
-        "20260718",
-        61.8
-      ],
-      [
         "20260719",
         61.8
       ],
@@ -25840,15 +25932,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        61.2
+      ],
+      [
+        "20260804",
         61.2
       ]
     ],
     "222045": [
       [
-        "20260718",
-        62.0
-      ],
-      [
         "20260719",
         62.0
       ],
@@ -25911,154 +26003,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         60.2
-      ]
-    ],
-    "238184": [
-      [
-        "20260718",
-        62.9
       ],
       [
-        "20260719",
-        62.9
-      ],
-      [
-        "20260720",
-        60.0
-      ],
-      [
-        "20260721",
-        60.0
-      ],
-      [
-        "20260722",
-        60.0
-      ],
-      [
-        "20260723",
-        60.0
-      ],
-      [
-        "20260724",
-        60.0
-      ],
-      [
-        "20260725",
-        60.0
-      ],
-      [
-        "20260726",
-        60.0
-      ],
-      [
-        "20260727",
-        59.8
-      ],
-      [
-        "20260728",
-        59.8
-      ],
-      [
-        "20260729",
-        59.8
-      ],
-      [
-        "20260730",
-        59.8
-      ],
-      [
-        "20260731",
-        59.8
-      ],
-      [
-        "20260801",
-        59.8
-      ],
-      [
-        "20260802",
-        59.8
-      ],
-      [
-        "20260803",
-        59.8
-      ]
-    ],
-    "214643": [
-      [
-        "20260718",
-        61.2
-      ],
-      [
-        "20260719",
-        61.2
-      ],
-      [
-        "20260720",
-        60.0
-      ],
-      [
-        "20260721",
-        60.0
-      ],
-      [
-        "20260722",
-        60.0
-      ],
-      [
-        "20260723",
-        60.0
-      ],
-      [
-        "20260724",
-        60.0
-      ],
-      [
-        "20260725",
-        60.0
-      ],
-      [
-        "20260726",
-        60.0
-      ],
-      [
-        "20260727",
-        59.8
-      ],
-      [
-        "20260728",
-        59.8
-      ],
-      [
-        "20260729",
-        59.8
-      ],
-      [
-        "20260730",
-        59.8
-      ],
-      [
-        "20260731",
-        59.8
-      ],
-      [
-        "20260801",
-        59.8
-      ],
-      [
-        "20260802",
-        59.8
-      ],
-      [
-        "20260803",
-        59.8
+        "20260804",
+        60.1
       ]
     ],
     "202499": [
       [
-        "20260718",
-        61.0
-      ],
-      [
         "20260719",
         61.0
       ],
@@ -26121,84 +26073,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         59.7
-      ]
-    ],
-    "263857": [
-      [
-        "20260718",
-        61.0
       ],
       [
-        "20260719",
-        61.0
-      ],
-      [
-        "20260720",
-        60.1
-      ],
-      [
-        "20260721",
-        60.1
-      ],
-      [
-        "20260722",
-        60.1
-      ],
-      [
-        "20260723",
-        60.1
-      ],
-      [
-        "20260724",
-        60.1
-      ],
-      [
-        "20260725",
-        60.1
-      ],
-      [
-        "20260726",
-        60.1
-      ],
-      [
-        "20260727",
-        59.6
-      ],
-      [
-        "20260728",
-        59.6
-      ],
-      [
-        "20260729",
-        59.6
-      ],
-      [
-        "20260730",
-        59.6
-      ],
-      [
-        "20260731",
-        59.6
-      ],
-      [
-        "20260801",
-        59.6
-      ],
-      [
-        "20260802",
-        59.6
-      ],
-      [
-        "20260803",
-        59.6
+        "20260804",
+        59.7
       ]
     ],
     "233741": [
       [
-        "20260718",
-        60.6
-      ],
-      [
         "20260719",
         60.6
       ],
@@ -26260,15 +26142,155 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        59.5
+      ],
+      [
+        "20260804",
+        59.6
+      ]
+    ],
+    "238184": [
+      [
+        "20260719",
+        62.9
+      ],
+      [
+        "20260720",
+        60.0
+      ],
+      [
+        "20260721",
+        60.0
+      ],
+      [
+        "20260722",
+        60.0
+      ],
+      [
+        "20260723",
+        60.0
+      ],
+      [
+        "20260724",
+        60.0
+      ],
+      [
+        "20260725",
+        60.0
+      ],
+      [
+        "20260726",
+        60.0
+      ],
+      [
+        "20260727",
+        59.8
+      ],
+      [
+        "20260728",
+        59.8
+      ],
+      [
+        "20260729",
+        59.8
+      ],
+      [
+        "20260730",
+        59.8
+      ],
+      [
+        "20260731",
+        59.8
+      ],
+      [
+        "20260801",
+        59.8
+      ],
+      [
+        "20260802",
+        59.8
+      ],
+      [
+        "20260803",
+        59.8
+      ],
+      [
+        "20260804",
+        59.5
+      ]
+    ],
+    "216083": [
+      [
+        "20260719",
+        62.3
+      ],
+      [
+        "20260720",
+        61.6
+      ],
+      [
+        "20260721",
+        61.6
+      ],
+      [
+        "20260722",
+        61.6
+      ],
+      [
+        "20260723",
+        61.6
+      ],
+      [
+        "20260724",
+        61.6
+      ],
+      [
+        "20260725",
+        61.6
+      ],
+      [
+        "20260726",
+        61.6
+      ],
+      [
+        "20260727",
+        59.0
+      ],
+      [
+        "20260728",
+        59.0
+      ],
+      [
+        "20260729",
+        59.0
+      ],
+      [
+        "20260730",
+        59.0
+      ],
+      [
+        "20260731",
+        59.0
+      ],
+      [
+        "20260801",
+        59.0
+      ],
+      [
+        "20260802",
+        59.0
+      ],
+      [
+        "20260803",
+        59.0
+      ],
+      [
+        "20260804",
         59.5
       ]
     ],
     "230319": [
       [
-        "20260718",
-        60.8
-      ],
-      [
         "20260719",
         60.8
       ],
@@ -26331,84 +26353,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         59.3
+      ],
+      [
+        "20260804",
+        59.4
       ]
     ],
-    "216083": [
-      [
-        "20260718",
-        62.3
-      ],
+    "263857": [
       [
         "20260719",
-        62.3
+        61.0
       ],
       [
         "20260720",
-        61.6
+        60.1
       ],
       [
         "20260721",
-        61.6
+        60.1
       ],
       [
         "20260722",
-        61.6
+        60.1
       ],
       [
         "20260723",
-        61.6
+        60.1
       ],
       [
         "20260724",
-        61.6
+        60.1
       ],
       [
         "20260725",
-        61.6
+        60.1
       ],
       [
         "20260726",
-        61.6
+        60.1
       ],
       [
         "20260727",
-        59.0
+        59.6
       ],
       [
         "20260728",
-        59.0
+        59.6
       ],
       [
         "20260729",
-        59.0
+        59.6
       ],
       [
         "20260730",
-        59.0
+        59.6
       ],
       [
         "20260731",
-        59.0
+        59.6
       ],
       [
         "20260801",
-        59.0
+        59.6
       ],
       [
         "20260802",
-        59.0
+        59.6
       ],
       [
         "20260803",
-        59.0
+        59.6
+      ],
+      [
+        "20260804",
+        59.2
       ]
     ],
     "203501": [
       [
-        "20260718",
-        62.7
-      ],
-      [
         "20260719",
         62.7
       ],
@@ -26471,14 +26493,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         58.9
+      ],
+      [
+        "20260804",
+        58.9
+      ]
+    ],
+    "221909": [
+      [
+        "20260719",
+        59.1
+      ],
+      [
+        "20260720",
+        57.9
+      ],
+      [
+        "20260721",
+        57.9
+      ],
+      [
+        "20260722",
+        57.9
+      ],
+      [
+        "20260723",
+        57.9
+      ],
+      [
+        "20260724",
+        57.9
+      ],
+      [
+        "20260725",
+        57.9
+      ],
+      [
+        "20260726",
+        57.9
+      ],
+      [
+        "20260727",
+        57.6
+      ],
+      [
+        "20260728",
+        57.6
+      ],
+      [
+        "20260729",
+        57.6
+      ],
+      [
+        "20260730",
+        57.6
+      ],
+      [
+        "20260731",
+        57.6
+      ],
+      [
+        "20260801",
+        57.6
+      ],
+      [
+        "20260802",
+        57.6
+      ],
+      [
+        "20260803",
+        57.6
+      ],
+      [
+        "20260804",
+        58.8
       ]
     ],
     "201696": [
       [
-        "20260718",
-        60.2
-      ],
-      [
         "20260719",
         60.2
       ],
@@ -26540,15 +26632,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        58.7
+      ],
+      [
+        "20260804",
         58.7
       ]
     ],
     "220332": [
       [
-        "20260718",
-        59.9
-      ],
-      [
         "20260719",
         59.9
       ],
@@ -26610,15 +26702,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        58.6
+      ],
+      [
+        "20260804",
         58.6
       ]
     ],
     "203530": [
       [
-        "20260718",
-        60.1
-      ],
-      [
         "20260719",
         60.1
       ],
@@ -26680,15 +26772,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        58.3
+      ],
+      [
+        "20260804",
         58.3
       ]
     ],
     "220309": [
       [
-        "20260718",
-        60.1
-      ],
-      [
         "20260719",
         60.1
       ],
@@ -26750,15 +26842,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        58.3
+      ],
+      [
+        "20260804",
         58.3
       ]
     ],
     "214954": [
       [
-        "20260718",
-        58.6
-      ],
-      [
         "20260719",
         58.6
       ],
@@ -26821,154 +26913,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         57.7
-      ]
-    ],
-    "221909": [
-      [
-        "20260718",
-        59.1
       ],
       [
-        "20260719",
-        59.1
-      ],
-      [
-        "20260720",
-        57.9
-      ],
-      [
-        "20260721",
-        57.9
-      ],
-      [
-        "20260722",
-        57.9
-      ],
-      [
-        "20260723",
-        57.9
-      ],
-      [
-        "20260724",
-        57.9
-      ],
-      [
-        "20260725",
-        57.9
-      ],
-      [
-        "20260726",
-        57.9
-      ],
-      [
-        "20260727",
-        57.6
-      ],
-      [
-        "20260728",
-        57.6
-      ],
-      [
-        "20260729",
-        57.6
-      ],
-      [
-        "20260730",
-        57.6
-      ],
-      [
-        "20260731",
-        57.6
-      ],
-      [
-        "20260801",
-        57.6
-      ],
-      [
-        "20260802",
-        57.6
-      ],
-      [
-        "20260803",
-        57.6
-      ]
-    ],
-    "211817": [
-      [
-        "20260718",
-        59.1
-      ],
-      [
-        "20260719",
-        59.1
-      ],
-      [
-        "20260720",
-        57.8
-      ],
-      [
-        "20260721",
-        57.8
-      ],
-      [
-        "20260722",
-        57.8
-      ],
-      [
-        "20260723",
-        57.8
-      ],
-      [
-        "20260724",
-        57.8
-      ],
-      [
-        "20260725",
-        57.8
-      ],
-      [
-        "20260726",
-        57.8
-      ],
-      [
-        "20260727",
-        57.5
-      ],
-      [
-        "20260728",
-        57.5
-      ],
-      [
-        "20260729",
-        57.5
-      ],
-      [
-        "20260730",
-        57.5
-      ],
-      [
-        "20260731",
-        57.5
-      ],
-      [
-        "20260801",
-        57.5
-      ],
-      [
-        "20260802",
-        57.5
-      ],
-      [
-        "20260803",
-        57.5
+        "20260804",
+        57.7
       ]
     ],
     "215035": [
       [
-        "20260718",
-        60.4
-      ],
-      [
         "20260719",
         60.4
       ],
@@ -27030,15 +26982,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        57.5
+      ],
+      [
+        "20260804",
         57.5
       ]
     ],
     "214082": [
       [
-        "20260718",
-        58.3
-      ],
-      [
         "20260719",
         58.3
       ],
@@ -27101,14 +27053,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         57.3
+      ],
+      [
+        "20260804",
+        57.3
+      ]
+    ],
+    "211817": [
+      [
+        "20260719",
+        59.1
+      ],
+      [
+        "20260720",
+        57.8
+      ],
+      [
+        "20260721",
+        57.8
+      ],
+      [
+        "20260722",
+        57.8
+      ],
+      [
+        "20260723",
+        57.8
+      ],
+      [
+        "20260724",
+        57.8
+      ],
+      [
+        "20260725",
+        57.8
+      ],
+      [
+        "20260726",
+        57.8
+      ],
+      [
+        "20260727",
+        57.5
+      ],
+      [
+        "20260728",
+        57.5
+      ],
+      [
+        "20260729",
+        57.5
+      ],
+      [
+        "20260730",
+        57.5
+      ],
+      [
+        "20260731",
+        57.5
+      ],
+      [
+        "20260801",
+        57.5
+      ],
+      [
+        "20260802",
+        57.5
+      ],
+      [
+        "20260803",
+        57.5
+      ],
+      [
+        "20260804",
+        57.2
       ]
     ],
     "214388": [
       [
-        "20260718",
-        59.1
-      ],
-      [
         "20260719",
         59.1
       ],
@@ -27171,14 +27193,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         57.3
+      ],
+      [
+        "20260804",
+        57.2
       ]
     ],
     "221333": [
       [
-        "20260718",
-        58.4
-      ],
-      [
         "20260719",
         58.4
       ],
@@ -27241,154 +27263,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         57.1
-      ]
-    ],
-    "201533": [
-      [
-        "20260718",
-        58.6
       ],
       [
-        "20260719",
-        58.6
-      ],
-      [
-        "20260720",
-        57.2
-      ],
-      [
-        "20260721",
-        57.2
-      ],
-      [
-        "20260722",
-        57.2
-      ],
-      [
-        "20260723",
-        57.2
-      ],
-      [
-        "20260724",
-        57.2
-      ],
-      [
-        "20260725",
-        57.2
-      ],
-      [
-        "20260726",
-        57.2
-      ],
-      [
-        "20260727",
-        56.9
-      ],
-      [
-        "20260728",
-        56.9
-      ],
-      [
-        "20260729",
-        56.9
-      ],
-      [
-        "20260730",
-        56.9
-      ],
-      [
-        "20260731",
-        56.9
-      ],
-      [
-        "20260801",
-        56.9
-      ],
-      [
-        "20260802",
-        56.9
-      ],
-      [
-        "20260803",
-        56.9
-      ]
-    ],
-    "213710": [
-      [
-        "20260718",
-        57.3
-      ],
-      [
-        "20260719",
-        57.3
-      ],
-      [
-        "20260720",
-        55.8
-      ],
-      [
-        "20260721",
-        55.8
-      ],
-      [
-        "20260722",
-        55.8
-      ],
-      [
-        "20260723",
-        55.8
-      ],
-      [
-        "20260724",
-        55.8
-      ],
-      [
-        "20260725",
-        55.8
-      ],
-      [
-        "20260726",
-        55.8
-      ],
-      [
-        "20260727",
-        56.1
-      ],
-      [
-        "20260728",
-        56.1
-      ],
-      [
-        "20260729",
-        56.1
-      ],
-      [
-        "20260730",
-        56.1
-      ],
-      [
-        "20260731",
-        56.1
-      ],
-      [
-        "20260801",
-        56.1
-      ],
-      [
-        "20260802",
-        56.1
-      ],
-      [
-        "20260803",
-        56.1
+        "20260804",
+        57.1
       ]
     ],
     "211684": [
       [
-        "20260718",
-        57.9
-      ],
-      [
         "20260719",
         57.9
       ],
@@ -27451,14 +27333,154 @@ window.TENNIS_DATA = {
       [
         "20260803",
         56.0
+      ],
+      [
+        "20260804",
+        56.4
+      ]
+    ],
+    "201533": [
+      [
+        "20260719",
+        58.6
+      ],
+      [
+        "20260720",
+        57.2
+      ],
+      [
+        "20260721",
+        57.2
+      ],
+      [
+        "20260722",
+        57.2
+      ],
+      [
+        "20260723",
+        57.2
+      ],
+      [
+        "20260724",
+        57.2
+      ],
+      [
+        "20260725",
+        57.2
+      ],
+      [
+        "20260726",
+        57.2
+      ],
+      [
+        "20260727",
+        56.9
+      ],
+      [
+        "20260728",
+        56.9
+      ],
+      [
+        "20260729",
+        56.9
+      ],
+      [
+        "20260730",
+        56.9
+      ],
+      [
+        "20260731",
+        56.9
+      ],
+      [
+        "20260801",
+        56.9
+      ],
+      [
+        "20260802",
+        56.9
+      ],
+      [
+        "20260803",
+        56.9
+      ],
+      [
+        "20260804",
+        56.3
+      ]
+    ],
+    "213710": [
+      [
+        "20260719",
+        57.3
+      ],
+      [
+        "20260720",
+        55.8
+      ],
+      [
+        "20260721",
+        55.8
+      ],
+      [
+        "20260722",
+        55.8
+      ],
+      [
+        "20260723",
+        55.8
+      ],
+      [
+        "20260724",
+        55.8
+      ],
+      [
+        "20260725",
+        55.8
+      ],
+      [
+        "20260726",
+        55.8
+      ],
+      [
+        "20260727",
+        56.1
+      ],
+      [
+        "20260728",
+        56.1
+      ],
+      [
+        "20260729",
+        56.1
+      ],
+      [
+        "20260730",
+        56.1
+      ],
+      [
+        "20260731",
+        56.1
+      ],
+      [
+        "20260801",
+        56.1
+      ],
+      [
+        "20260802",
+        56.1
+      ],
+      [
+        "20260803",
+        56.1
+      ],
+      [
+        "20260804",
+        56.1
       ]
     ],
     "238075": [
       [
-        "20260718",
-        58.3
-      ],
-      [
         "20260719",
         58.3
       ],
@@ -27521,154 +27543,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         56.0
-      ]
-    ],
-    "222601": [
-      [
-        "20260718",
-        56.8
       ],
       [
-        "20260719",
-        56.8
-      ],
-      [
-        "20260720",
-        55.9
-      ],
-      [
-        "20260721",
-        55.9
-      ],
-      [
-        "20260722",
-        55.9
-      ],
-      [
-        "20260723",
-        55.9
-      ],
-      [
-        "20260724",
-        55.9
-      ],
-      [
-        "20260725",
-        55.9
-      ],
-      [
-        "20260726",
-        55.9
-      ],
-      [
-        "20260727",
-        55.9
-      ],
-      [
-        "20260728",
-        55.9
-      ],
-      [
-        "20260729",
-        55.9
-      ],
-      [
-        "20260730",
-        55.9
-      ],
-      [
-        "20260731",
-        55.9
-      ],
-      [
-        "20260801",
-        55.9
-      ],
-      [
-        "20260802",
-        55.9
-      ],
-      [
-        "20260803",
-        55.9
-      ]
-    ],
-    "219917": [
-      [
-        "20260718",
-        56.8
-      ],
-      [
-        "20260719",
-        56.8
-      ],
-      [
-        "20260720",
-        55.9
-      ],
-      [
-        "20260721",
-        55.9
-      ],
-      [
-        "20260722",
-        55.9
-      ],
-      [
-        "20260723",
-        55.9
-      ],
-      [
-        "20260724",
-        55.9
-      ],
-      [
-        "20260725",
-        55.9
-      ],
-      [
-        "20260726",
-        55.9
-      ],
-      [
-        "20260727",
-        55.6
-      ],
-      [
-        "20260728",
-        55.6
-      ],
-      [
-        "20260729",
-        55.6
-      ],
-      [
-        "20260730",
-        55.6
-      ],
-      [
-        "20260731",
-        55.6
-      ],
-      [
-        "20260801",
-        55.6
-      ],
-      [
-        "20260802",
-        55.6
-      ],
-      [
-        "20260803",
-        55.6
+        "20260804",
+        56.0
       ]
     ],
     "222145": [
       [
-        "20260718",
-        56.7
-      ],
-      [
         "20260719",
         56.7
       ],
@@ -27731,14 +27613,154 @@ window.TENNIS_DATA = {
       [
         "20260803",
         55.5
+      ],
+      [
+        "20260804",
+        55.6
+      ]
+    ],
+    "222601": [
+      [
+        "20260719",
+        56.8
+      ],
+      [
+        "20260720",
+        55.9
+      ],
+      [
+        "20260721",
+        55.9
+      ],
+      [
+        "20260722",
+        55.9
+      ],
+      [
+        "20260723",
+        55.9
+      ],
+      [
+        "20260724",
+        55.9
+      ],
+      [
+        "20260725",
+        55.9
+      ],
+      [
+        "20260726",
+        55.9
+      ],
+      [
+        "20260727",
+        55.9
+      ],
+      [
+        "20260728",
+        55.9
+      ],
+      [
+        "20260729",
+        55.9
+      ],
+      [
+        "20260730",
+        55.9
+      ],
+      [
+        "20260731",
+        55.9
+      ],
+      [
+        "20260801",
+        55.9
+      ],
+      [
+        "20260802",
+        55.9
+      ],
+      [
+        "20260803",
+        55.9
+      ],
+      [
+        "20260804",
+        55.4
+      ]
+    ],
+    "219917": [
+      [
+        "20260719",
+        56.8
+      ],
+      [
+        "20260720",
+        55.9
+      ],
+      [
+        "20260721",
+        55.9
+      ],
+      [
+        "20260722",
+        55.9
+      ],
+      [
+        "20260723",
+        55.9
+      ],
+      [
+        "20260724",
+        55.9
+      ],
+      [
+        "20260725",
+        55.9
+      ],
+      [
+        "20260726",
+        55.9
+      ],
+      [
+        "20260727",
+        55.6
+      ],
+      [
+        "20260728",
+        55.6
+      ],
+      [
+        "20260729",
+        55.6
+      ],
+      [
+        "20260730",
+        55.6
+      ],
+      [
+        "20260731",
+        55.6
+      ],
+      [
+        "20260801",
+        55.6
+      ],
+      [
+        "20260802",
+        55.6
+      ],
+      [
+        "20260803",
+        55.6
+      ],
+      [
+        "20260804",
+        55.2
       ]
     ],
     "214040": [
       [
-        "20260718",
-        56.3
-      ],
-      [
         "20260719",
         56.3
       ],
@@ -27801,14 +27823,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         54.8
+      ],
+      [
+        "20260804",
+        54.5
       ]
     ],
     "215910": [
       [
-        "20260718",
-        56.4
-      ],
-      [
         "20260719",
         56.4
       ],
@@ -27871,14 +27893,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         54.6
+      ],
+      [
+        "20260804",
+        54.4
       ]
     ],
     "221883": [
       [
-        "20260718",
-        57.3
-      ],
-      [
         "20260719",
         57.3
       ],
@@ -27941,14 +27963,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         54.1
+      ],
+      [
+        "20260804",
+        53.8
       ]
     ],
     "211651": [
       [
-        "20260718",
-        52.8
-      ],
-      [
         "20260719",
         52.8
       ],
@@ -28010,15 +28032,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        53.5
+      ],
+      [
+        "20260804",
         53.5
       ]
     ],
     "221354": [
       [
-        "20260718",
-        53.9
-      ],
-      [
         "20260719",
         53.9
       ],
@@ -28081,84 +28103,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         52.5
-      ]
-    ],
-    "201709": [
-      [
-        "20260718",
-        53.5
       ],
       [
-        "20260719",
-        53.5
-      ],
-      [
-        "20260720",
-        52.4
-      ],
-      [
-        "20260721",
-        52.4
-      ],
-      [
-        "20260722",
-        52.4
-      ],
-      [
-        "20260723",
-        52.4
-      ],
-      [
-        "20260724",
-        52.4
-      ],
-      [
-        "20260725",
-        52.4
-      ],
-      [
-        "20260726",
-        52.4
-      ],
-      [
-        "20260727",
-        52.2
-      ],
-      [
-        "20260728",
-        52.2
-      ],
-      [
-        "20260729",
-        52.2
-      ],
-      [
-        "20260730",
-        52.2
-      ],
-      [
-        "20260731",
-        52.2
-      ],
-      [
-        "20260801",
-        52.2
-      ],
-      [
-        "20260802",
-        52.2
-      ],
-      [
-        "20260803",
-        52.2
+        "20260804",
+        52.5
       ]
     ],
     "252499": [
       [
-        "20260718",
-        53.5
-      ],
-      [
         "20260719",
         53.5
       ],
@@ -28221,14 +28173,94 @@ window.TENNIS_DATA = {
       [
         "20260803",
         52.2
+      ],
+      [
+        "20260804",
+        52.2
+      ]
+    ],
+    "201709": [
+      [
+        "20260719",
+        53.5
+      ],
+      [
+        "20260720",
+        52.4
+      ],
+      [
+        "20260721",
+        52.4
+      ],
+      [
+        "20260722",
+        52.4
+      ],
+      [
+        "20260723",
+        52.4
+      ],
+      [
+        "20260724",
+        52.4
+      ],
+      [
+        "20260725",
+        52.4
+      ],
+      [
+        "20260726",
+        52.4
+      ],
+      [
+        "20260727",
+        52.2
+      ],
+      [
+        "20260728",
+        52.2
+      ],
+      [
+        "20260729",
+        52.2
+      ],
+      [
+        "20260730",
+        52.2
+      ],
+      [
+        "20260731",
+        52.2
+      ],
+      [
+        "20260801",
+        52.2
+      ],
+      [
+        "20260802",
+        52.2
+      ],
+      [
+        "20260803",
+        52.2
+      ],
+      [
+        "20260804",
+        52.0
+      ]
+    ],
+    "269714": [
+      [
+        "20260728",
+        51.8
+      ],
+      [
+        "20260804",
+        51.8
       ]
     ],
     "259871": [
       [
-        "20260718",
-        53.3
-      ],
-      [
         "20260719",
         53.3
       ],
@@ -28290,6 +28322,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        51.8
+      ],
+      [
+        "20260804",
         51.8
       ]
     ],
@@ -28329,224 +28365,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         51.8
-      ]
-    ],
-    "213550": [
-      [
-        "20260718",
-        53.1
       ],
       [
-        "20260719",
-        53.1
-      ],
-      [
-        "20260720",
-        51.5
-      ],
-      [
-        "20260721",
-        51.5
-      ],
-      [
-        "20260722",
-        51.5
-      ],
-      [
-        "20260723",
-        51.5
-      ],
-      [
-        "20260724",
-        51.5
-      ],
-      [
-        "20260725",
-        51.5
-      ],
-      [
-        "20260726",
-        51.5
-      ],
-      [
-        "20260727",
-        51.5
-      ],
-      [
-        "20260728",
-        51.5
-      ],
-      [
-        "20260729",
-        51.5
-      ],
-      [
-        "20260730",
-        51.5
-      ],
-      [
-        "20260731",
-        51.5
-      ],
-      [
-        "20260801",
-        51.5
-      ],
-      [
-        "20260802",
-        51.5
-      ],
-      [
-        "20260803",
-        51.5
-      ]
-    ],
-    "201548": [
-      [
-        "20260718",
-        52.5
-      ],
-      [
-        "20260719",
-        52.5
-      ],
-      [
-        "20260720",
-        50.7
-      ],
-      [
-        "20260721",
-        50.7
-      ],
-      [
-        "20260722",
-        50.7
-      ],
-      [
-        "20260723",
-        50.7
-      ],
-      [
-        "20260724",
-        50.7
-      ],
-      [
-        "20260725",
-        50.7
-      ],
-      [
-        "20260726",
-        50.7
-      ],
-      [
-        "20260727",
-        51.0
-      ],
-      [
-        "20260728",
-        51.0
-      ],
-      [
-        "20260729",
-        51.0
-      ],
-      [
-        "20260730",
-        51.0
-      ],
-      [
-        "20260731",
-        51.0
-      ],
-      [
-        "20260801",
-        51.0
-      ],
-      [
-        "20260802",
-        51.0
-      ],
-      [
-        "20260803",
-        51.0
-      ]
-    ],
-    "213583": [
-      [
-        "20260718",
-        52.7
-      ],
-      [
-        "20260719",
-        52.7
-      ],
-      [
-        "20260720",
-        51.2
-      ],
-      [
-        "20260721",
-        51.2
-      ],
-      [
-        "20260722",
-        51.2
-      ],
-      [
-        "20260723",
-        51.2
-      ],
-      [
-        "20260724",
-        51.2
-      ],
-      [
-        "20260725",
-        51.2
-      ],
-      [
-        "20260726",
-        51.2
-      ],
-      [
-        "20260727",
-        50.8
-      ],
-      [
-        "20260728",
-        50.8
-      ],
-      [
-        "20260729",
-        50.8
-      ],
-      [
-        "20260730",
-        50.8
-      ],
-      [
-        "20260731",
-        50.8
-      ],
-      [
-        "20260801",
-        50.8
-      ],
-      [
-        "20260802",
-        50.8
-      ],
-      [
-        "20260803",
-        50.8
+        "20260804",
+        51.8
       ]
     ],
     "213887": [
       [
-        "20260718",
-        51.9
-      ],
-      [
         "20260719",
         51.9
       ],
@@ -28609,14 +28435,224 @@ window.TENNIS_DATA = {
       [
         "20260803",
         50.4
+      ],
+      [
+        "20260804",
+        51.6
+      ]
+    ],
+    "213550": [
+      [
+        "20260719",
+        53.1
+      ],
+      [
+        "20260720",
+        51.5
+      ],
+      [
+        "20260721",
+        51.5
+      ],
+      [
+        "20260722",
+        51.5
+      ],
+      [
+        "20260723",
+        51.5
+      ],
+      [
+        "20260724",
+        51.5
+      ],
+      [
+        "20260725",
+        51.5
+      ],
+      [
+        "20260726",
+        51.5
+      ],
+      [
+        "20260727",
+        51.5
+      ],
+      [
+        "20260728",
+        51.5
+      ],
+      [
+        "20260729",
+        51.5
+      ],
+      [
+        "20260730",
+        51.5
+      ],
+      [
+        "20260731",
+        51.5
+      ],
+      [
+        "20260801",
+        51.5
+      ],
+      [
+        "20260802",
+        51.5
+      ],
+      [
+        "20260803",
+        51.5
+      ],
+      [
+        "20260804",
+        51.5
+      ]
+    ],
+    "213583": [
+      [
+        "20260719",
+        52.7
+      ],
+      [
+        "20260720",
+        51.2
+      ],
+      [
+        "20260721",
+        51.2
+      ],
+      [
+        "20260722",
+        51.2
+      ],
+      [
+        "20260723",
+        51.2
+      ],
+      [
+        "20260724",
+        51.2
+      ],
+      [
+        "20260725",
+        51.2
+      ],
+      [
+        "20260726",
+        51.2
+      ],
+      [
+        "20260727",
+        50.8
+      ],
+      [
+        "20260728",
+        50.8
+      ],
+      [
+        "20260729",
+        50.8
+      ],
+      [
+        "20260730",
+        50.8
+      ],
+      [
+        "20260731",
+        50.8
+      ],
+      [
+        "20260801",
+        50.8
+      ],
+      [
+        "20260802",
+        50.8
+      ],
+      [
+        "20260803",
+        50.8
+      ],
+      [
+        "20260804",
+        50.6
+      ]
+    ],
+    "201548": [
+      [
+        "20260719",
+        52.5
+      ],
+      [
+        "20260720",
+        50.7
+      ],
+      [
+        "20260721",
+        50.7
+      ],
+      [
+        "20260722",
+        50.7
+      ],
+      [
+        "20260723",
+        50.7
+      ],
+      [
+        "20260724",
+        50.7
+      ],
+      [
+        "20260725",
+        50.7
+      ],
+      [
+        "20260726",
+        50.7
+      ],
+      [
+        "20260727",
+        51.0
+      ],
+      [
+        "20260728",
+        51.0
+      ],
+      [
+        "20260729",
+        51.0
+      ],
+      [
+        "20260730",
+        51.0
+      ],
+      [
+        "20260731",
+        51.0
+      ],
+      [
+        "20260801",
+        51.0
+      ],
+      [
+        "20260802",
+        51.0
+      ],
+      [
+        "20260803",
+        51.0
+      ],
+      [
+        "20260804",
+        50.6
       ]
     ],
     "222966": [
       [
-        "20260718",
-        51.2
-      ],
-      [
         "20260719",
         51.2
       ],
@@ -28678,15 +28714,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        49.8
+      ],
+      [
+        "20260804",
         49.8
       ]
     ],
     "215453": [
       [
-        "20260718",
-        51.3
-      ],
-      [
         "20260719",
         51.3
       ],
@@ -28748,15 +28784,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        49.7
+      ],
+      [
+        "20260804",
         49.7
       ]
     ],
     "215872": [
       [
-        "20260718",
-        51.6
-      ],
-      [
         "20260719",
         51.6
       ],
@@ -28819,14 +28855,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         49.5
+      ],
+      [
+        "20260804",
+        49.4
       ]
     ],
     "203514": [
       [
-        "20260718",
-        50.2
-      ],
-      [
         "20260719",
         50.2
       ],
@@ -28888,15 +28924,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        48.9
+      ],
+      [
+        "20260804",
         48.9
       ]
     ],
     "247669": [
       [
-        "20260718",
-        50.3
-      ],
-      [
         "20260719",
         50.3
       ],
@@ -28958,15 +28994,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        48.9
+      ],
+      [
+        "20260804",
         48.9
       ]
     ],
     "223194": [
       [
-        "20260718",
-        49.6
-      ],
-      [
         "20260719",
         49.6
       ],
@@ -29028,15 +29064,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        48.5
+      ],
+      [
+        "20260804",
         48.5
       ]
     ],
     "215306": [
       [
-        "20260718",
-        49.8
-      ],
-      [
         "20260719",
         49.8
       ],
@@ -29099,14 +29135,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         48.4
+      ],
+      [
+        "20260804",
+        48.1
       ]
     ],
     "215020": [
       [
-        "20260718",
-        49.7
-      ],
-      [
         "20260719",
         49.7
       ],
@@ -29168,15 +29204,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        48.1
+      ],
+      [
+        "20260804",
         48.1
       ]
     ],
     "211685": [
       [
-        "20260718",
-        49.6
-      ],
-      [
         "20260719",
         49.6
       ],
@@ -29238,15 +29274,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        48.0
+      ],
+      [
+        "20260804",
         48.0
       ]
     ],
     "243420": [
       [
-        "20260718",
-        48.6
-      ],
-      [
         "20260719",
         48.6
       ],
@@ -29309,84 +29345,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         47.8
-      ]
-    ],
-    "221407": [
-      [
-        "20260718",
-        50.3
       ],
       [
-        "20260719",
-        50.3
-      ],
-      [
-        "20260720",
+        "20260804",
         47.5
-      ],
-      [
-        "20260721",
-        47.5
-      ],
-      [
-        "20260722",
-        47.5
-      ],
-      [
-        "20260723",
-        47.5
-      ],
-      [
-        "20260724",
-        47.5
-      ],
-      [
-        "20260725",
-        47.5
-      ],
-      [
-        "20260726",
-        47.5
-      ],
-      [
-        "20260727",
-        47.6
-      ],
-      [
-        "20260728",
-        47.6
-      ],
-      [
-        "20260729",
-        47.6
-      ],
-      [
-        "20260730",
-        47.6
-      ],
-      [
-        "20260731",
-        47.6
-      ],
-      [
-        "20260801",
-        47.6
-      ],
-      [
-        "20260802",
-        47.6
-      ],
-      [
-        "20260803",
-        47.6
       ]
     ],
     "259733": [
       [
-        "20260718",
-        48.4
-      ],
-      [
         "20260719",
         48.4
       ],
@@ -29449,14 +29415,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         46.7
+      ],
+      [
+        "20260804",
+        47.5
+      ]
+    ],
+    "221407": [
+      [
+        "20260719",
+        50.3
+      ],
+      [
+        "20260720",
+        47.5
+      ],
+      [
+        "20260721",
+        47.5
+      ],
+      [
+        "20260722",
+        47.5
+      ],
+      [
+        "20260723",
+        47.5
+      ],
+      [
+        "20260724",
+        47.5
+      ],
+      [
+        "20260725",
+        47.5
+      ],
+      [
+        "20260726",
+        47.5
+      ],
+      [
+        "20260727",
+        47.6
+      ],
+      [
+        "20260728",
+        47.6
+      ],
+      [
+        "20260729",
+        47.6
+      ],
+      [
+        "20260730",
+        47.6
+      ],
+      [
+        "20260731",
+        47.6
+      ],
+      [
+        "20260801",
+        47.6
+      ],
+      [
+        "20260802",
+        47.6
+      ],
+      [
+        "20260803",
+        47.6
+      ],
+      [
+        "20260804",
+        47.2
       ]
     ],
     "221039": [
       [
-        "20260718",
-        47.4
-      ],
-      [
         "20260719",
         47.4
       ],
@@ -29519,84 +29555,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         46.0
-      ]
-    ],
-    "215899": [
-      [
-        "20260718",
-        48.3
       ],
       [
-        "20260719",
-        48.3
-      ],
-      [
-        "20260720",
-        45.3
-      ],
-      [
-        "20260721",
-        45.3
-      ],
-      [
-        "20260722",
-        45.3
-      ],
-      [
-        "20260723",
-        45.3
-      ],
-      [
-        "20260724",
-        45.3
-      ],
-      [
-        "20260725",
-        45.3
-      ],
-      [
-        "20260726",
-        45.3
-      ],
-      [
-        "20260727",
-        45.5
-      ],
-      [
-        "20260728",
-        45.5
-      ],
-      [
-        "20260729",
-        45.5
-      ],
-      [
-        "20260730",
-        45.5
-      ],
-      [
-        "20260731",
-        45.5
-      ],
-      [
-        "20260801",
-        45.5
-      ],
-      [
-        "20260802",
-        45.5
-      ],
-      [
-        "20260803",
-        45.5
+        "20260804",
+        45.7
       ]
     ],
     "220465": [
       [
-        "20260718",
-        47.1
-      ],
-      [
         "20260719",
         47.1
       ],
@@ -29659,14 +29625,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         45.4
+      ],
+      [
+        "20260804",
+        45.6
+      ]
+    ],
+    "215899": [
+      [
+        "20260719",
+        48.3
+      ],
+      [
+        "20260720",
+        45.3
+      ],
+      [
+        "20260721",
+        45.3
+      ],
+      [
+        "20260722",
+        45.3
+      ],
+      [
+        "20260723",
+        45.3
+      ],
+      [
+        "20260724",
+        45.3
+      ],
+      [
+        "20260725",
+        45.3
+      ],
+      [
+        "20260726",
+        45.3
+      ],
+      [
+        "20260727",
+        45.5
+      ],
+      [
+        "20260728",
+        45.5
+      ],
+      [
+        "20260729",
+        45.5
+      ],
+      [
+        "20260730",
+        45.5
+      ],
+      [
+        "20260731",
+        45.5
+      ],
+      [
+        "20260801",
+        45.5
+      ],
+      [
+        "20260802",
+        45.5
+      ],
+      [
+        "20260803",
+        45.5
+      ],
+      [
+        "20260804",
+        45.5
       ]
     ],
     "206368": [
       [
-        "20260718",
-        46.6
-      ],
-      [
         "20260719",
         46.6
       ],
@@ -29728,15 +29764,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        45.4
+      ],
+      [
+        "20260804",
         45.4
       ]
     ],
     "214906": [
       [
-        "20260718",
-        47.0
-      ],
-      [
         "20260719",
         47.0
       ],
@@ -29798,15 +29834,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        45.3
+      ],
+      [
+        "20260804",
         45.3
       ]
     ],
     "263644": [
       [
-        "20260718",
-        46.8
-      ],
-      [
         "20260719",
         46.8
       ],
@@ -29868,15 +29904,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        45.1
+      ],
+      [
+        "20260804",
         45.1
       ]
     ],
     "205925": [
       [
-        "20260718",
-        46.4
-      ],
-      [
         "20260719",
         46.4
       ],
@@ -29938,15 +29974,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        44.9
+      ],
+      [
+        "20260804",
         44.9
       ]
     ],
     "222661": [
       [
-        "20260718",
-        46.0
-      ],
-      [
         "20260719",
         46.0
       ],
@@ -30008,15 +30044,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        44.7
+      ],
+      [
+        "20260804",
         44.7
       ]
     ],
     "221257": [
       [
-        "20260718",
-        44.4
-      ],
-      [
         "20260719",
         44.4
       ],
@@ -30079,52 +30115,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         44.5
-      ]
-    ],
-    "220699": [
-      [
-        "20260720",
-        54.3
       ],
       [
-        "20260727",
-        44.3
-      ],
-      [
-        "20260728",
-        44.3
-      ],
-      [
-        "20260729",
-        44.3
-      ],
-      [
-        "20260730",
-        44.3
-      ],
-      [
-        "20260731",
-        44.3
-      ],
-      [
-        "20260801",
-        44.3
-      ],
-      [
-        "20260802",
-        44.3
-      ],
-      [
-        "20260803",
+        "20260804",
         44.3
       ]
     ],
     "220435": [
       [
-        "20260718",
-        45.5
-      ],
-      [
         "20260719",
         45.5
       ],
@@ -30187,14 +30185,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         43.7
+      ],
+      [
+        "20260804",
+        43.9
       ]
     ],
     "230870": [
       [
-        "20260718",
-        45.6
-      ],
-      [
         "20260719",
         45.6
       ],
@@ -30257,14 +30255,24 @@ window.TENNIS_DATA = {
       [
         "20260803",
         43.7
+      ],
+      [
+        "20260804",
+        43.7
+      ]
+    ],
+    "211539": [
+      [
+        "20260728",
+        42.9
+      ],
+      [
+        "20260804",
+        42.9
       ]
     ],
     "214459": [
       [
-        "20260718",
-        44.6
-      ],
-      [
         "20260719",
         44.6
       ],
@@ -30326,15 +30334,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        42.8
+      ],
+      [
+        "20260804",
         42.8
       ]
     ],
     "223286": [
       [
-        "20260718",
-        44.3
-      ],
-      [
         "20260719",
         44.3
       ],
@@ -30396,15 +30404,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        42.7
+      ],
+      [
+        "20260804",
         42.7
       ]
     ],
     "220722": [
       [
-        "20260718",
-        44.0
-      ],
-      [
         "20260719",
         44.0
       ],
@@ -30466,15 +30474,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        42.3
+      ],
+      [
+        "20260804",
         42.3
       ]
     ],
     "216016": [
       [
-        "20260718",
-        44.3
-      ],
-      [
         "20260719",
         44.3
       ],
@@ -30537,14 +30545,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         41.9
+      ],
+      [
+        "20260804",
+        41.7
       ]
     ],
     "221237": [
       [
-        "20260718",
-        45.5
-      ],
-      [
         "20260719",
         45.5
       ],
@@ -30607,84 +30615,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         41.7
-      ]
-    ],
-    "223325": [
-      [
-        "20260718",
-        42.7
       ],
       [
-        "20260719",
-        42.7
-      ],
-      [
-        "20260720",
-        41.4
-      ],
-      [
-        "20260721",
-        41.4
-      ],
-      [
-        "20260722",
-        41.4
-      ],
-      [
-        "20260723",
-        41.4
-      ],
-      [
-        "20260724",
-        41.4
-      ],
-      [
-        "20260725",
-        41.4
-      ],
-      [
-        "20260726",
-        41.4
-      ],
-      [
-        "20260727",
-        41.4
-      ],
-      [
-        "20260728",
-        41.4
-      ],
-      [
-        "20260729",
-        41.4
-      ],
-      [
-        "20260730",
-        41.4
-      ],
-      [
-        "20260731",
-        41.4
-      ],
-      [
-        "20260801",
-        41.4
-      ],
-      [
-        "20260802",
-        41.4
-      ],
-      [
-        "20260803",
-        41.4
+        "20260804",
+        41.5
       ]
     ],
     "215936": [
       [
-        "20260718",
-        42.8
-      ],
-      [
         "20260719",
         42.8
       ],
@@ -30746,15 +30684,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        41.0
+      ],
+      [
+        "20260804",
         41.0
       ]
     ],
     "214593": [
       [
-        "20260718",
-        42.4
-      ],
-      [
         "20260719",
         42.4
       ],
@@ -30816,15 +30754,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        40.5
+      ],
+      [
+        "20260804",
         40.5
       ]
     ],
     "220416": [
       [
-        "20260718",
-        41.8
-      ],
-      [
         "20260719",
         41.8
       ],
@@ -30886,15 +30824,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        39.9
+      ],
+      [
+        "20260804",
         39.9
       ]
     ],
     "221406": [
       [
-        "20260718",
-        41.5
-      ],
-      [
         "20260719",
         41.5
       ],
@@ -30956,15 +30894,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        39.8
+      ],
+      [
+        "20260804",
         39.8
       ]
     ],
     "206417": [
       [
-        "20260718",
-        41.3
-      ],
-      [
         "20260719",
         41.3
       ],
@@ -31026,15 +30964,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        39.5
+      ],
+      [
+        "20260804",
         39.5
       ]
     ],
     "206294": [
       [
-        "20260718",
-        40.9
-      ],
-      [
         "20260719",
         40.9
       ],
@@ -31096,15 +31034,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        39.3
+      ],
+      [
+        "20260804",
         39.3
       ]
     ],
     "221124": [
       [
-        "20260718",
-        40.5
-      ],
-      [
         "20260719",
         40.5
       ],
@@ -31166,15 +31104,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        39.1
+      ],
+      [
+        "20260804",
         39.1
       ]
     ],
     "210886": [
       [
-        "20260718",
-        35.0
-      ],
-      [
         "20260719",
         35.0
       ],
@@ -31237,84 +31175,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         38.9
-      ]
-    ],
-    "222290": [
-      [
-        "20260718",
-        38.2
       ],
       [
-        "20260719",
-        38.2
-      ],
-      [
-        "20260720",
-        37.9
-      ],
-      [
-        "20260721",
-        37.9
-      ],
-      [
-        "20260722",
-        37.9
-      ],
-      [
-        "20260723",
-        37.9
-      ],
-      [
-        "20260724",
-        37.9
-      ],
-      [
-        "20260725",
-        37.9
-      ],
-      [
-        "20260726",
-        37.9
-      ],
-      [
-        "20260727",
-        38.5
-      ],
-      [
-        "20260728",
-        38.5
-      ],
-      [
-        "20260729",
-        38.5
-      ],
-      [
-        "20260730",
-        38.5
-      ],
-      [
-        "20260731",
-        38.5
-      ],
-      [
-        "20260801",
-        38.5
-      ],
-      [
-        "20260802",
-        38.5
-      ],
-      [
-        "20260803",
-        38.5
+        "20260804",
+        38.9
       ]
     ],
     "221985": [
       [
-        "20260718",
-        40.1
-      ],
-      [
         "20260719",
         40.1
       ],
@@ -31377,14 +31245,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         38.5
+      ],
+      [
+        "20260804",
+        38.5
+      ]
+    ],
+    "222290": [
+      [
+        "20260719",
+        38.2
+      ],
+      [
+        "20260720",
+        37.9
+      ],
+      [
+        "20260721",
+        37.9
+      ],
+      [
+        "20260722",
+        37.9
+      ],
+      [
+        "20260723",
+        37.9
+      ],
+      [
+        "20260724",
+        37.9
+      ],
+      [
+        "20260725",
+        37.9
+      ],
+      [
+        "20260726",
+        37.9
+      ],
+      [
+        "20260727",
+        38.5
+      ],
+      [
+        "20260728",
+        38.5
+      ],
+      [
+        "20260729",
+        38.5
+      ],
+      [
+        "20260730",
+        38.5
+      ],
+      [
+        "20260731",
+        38.5
+      ],
+      [
+        "20260801",
+        38.5
+      ],
+      [
+        "20260802",
+        38.5
+      ],
+      [
+        "20260803",
+        38.5
+      ],
+      [
+        "20260804",
+        38.3
       ]
     ],
     "216566": [
       [
-        "20260718",
-        39.7
-      ],
-      [
         "20260719",
         39.7
       ],
@@ -31446,15 +31384,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        38.3
+      ],
+      [
+        "20260804",
         38.3
       ]
     ],
     "219875": [
       [
-        "20260718",
-        39.8
-      ],
-      [
         "20260719",
         39.8
       ],
@@ -31517,14 +31455,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         37.8
+      ],
+      [
+        "20260804",
+        37.7
       ]
     ],
     "220662": [
       [
-        "20260718",
-        39.6
-      ],
-      [
         "20260719",
         39.6
       ],
@@ -31586,15 +31524,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        37.6
+      ],
+      [
+        "20260804",
         37.6
       ]
     ],
     "215037": [
       [
-        "20260718",
-        38.7
-      ],
-      [
         "20260719",
         38.7
       ],
@@ -31657,52 +31595,84 @@ window.TENNIS_DATA = {
       [
         "20260803",
         37.0
+      ],
+      [
+        "20260804",
+        37.0
       ]
     ],
-    "220742": [
+    "221307": [
+      [
+        "20260719",
+        35.0
+      ],
       [
         "20260720",
-        51.1
+        35.0
+      ],
+      [
+        "20260721",
+        35.0
+      ],
+      [
+        "20260722",
+        35.0
+      ],
+      [
+        "20260723",
+        35.0
+      ],
+      [
+        "20260724",
+        35.0
+      ],
+      [
+        "20260725",
+        35.0
+      ],
+      [
+        "20260726",
+        35.0
       ],
       [
         "20260727",
-        36.1
+        35.0
       ],
       [
         "20260728",
-        36.1
+        35.0
       ],
       [
         "20260729",
-        36.1
+        35.0
       ],
       [
         "20260730",
-        36.1
+        35.0
       ],
       [
         "20260731",
-        36.1
+        35.0
       ],
       [
         "20260801",
-        36.1
+        35.0
       ],
       [
         "20260802",
-        36.1
+        35.0
       ],
       [
         "20260803",
-        36.1
+        35.0
+      ],
+      [
+        "20260804",
+        35.0
       ]
     ],
     "221236": [
       [
-        "20260718",
-        35.0
-      ],
-      [
         "20260719",
         35.0
       ],
@@ -31764,15 +31734,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        35.0
+      ],
+      [
+        "20260804",
         35.0
       ]
     ],
     "211814": [
       [
-        "20260718",
-        37.0
-      ],
-      [
         "20260719",
         37.0
       ],
@@ -31835,84 +31805,14 @@ window.TENNIS_DATA = {
       [
         "20260803",
         35.0
-      ]
-    ],
-    "221307": [
-      [
-        "20260718",
-        35.0
       ],
       [
-        "20260719",
-        35.0
-      ],
-      [
-        "20260720",
-        35.0
-      ],
-      [
-        "20260721",
-        35.0
-      ],
-      [
-        "20260722",
-        35.0
-      ],
-      [
-        "20260723",
-        35.0
-      ],
-      [
-        "20260724",
-        35.0
-      ],
-      [
-        "20260725",
-        35.0
-      ],
-      [
-        "20260726",
-        35.0
-      ],
-      [
-        "20260727",
-        35.0
-      ],
-      [
-        "20260728",
-        35.0
-      ],
-      [
-        "20260729",
-        35.0
-      ],
-      [
-        "20260730",
-        35.0
-      ],
-      [
-        "20260731",
-        35.0
-      ],
-      [
-        "20260801",
-        35.0
-      ],
-      [
-        "20260802",
-        35.0
-      ],
-      [
-        "20260803",
+        "20260804",
         35.0
       ]
     ],
     "215138": [
       [
-        "20260718",
-        35.7
-      ],
-      [
         "20260719",
         35.7
       ],
@@ -31974,15 +31874,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260803",
+        35.0
+      ],
+      [
+        "20260804",
         35.0
       ]
     ],
     "223168": [
       [
-        "20260718",
-        36.0
-      ],
-      [
         "20260719",
         36.0
       ],
@@ -32045,417 +31945,9 @@ window.TENNIS_DATA = {
       [
         "20260803",
         35.0
-      ]
-    ],
-    "202684": [
-      [
-        "20260718",
-        35.7
-      ],
-      [
-        "20260719",
-        35.7
-      ],
-      [
-        "20260720",
-        35.0
-      ],
-      [
-        "20260721",
-        35.0
-      ],
-      [
-        "20260722",
-        35.0
-      ],
-      [
-        "20260723",
-        35.0
-      ],
-      [
-        "20260724",
-        35.0
-      ],
-      [
-        "20260725",
-        35.0
-      ],
-      [
-        "20260726",
-        35.0
-      ],
-      [
-        "20260727",
-        35.0
-      ],
-      [
-        "20260728",
-        35.0
-      ],
-      [
-        "20260729",
-        35.0
-      ],
-      [
-        "20260730",
-        35.0
-      ],
-      [
-        "20260731",
-        35.0
-      ],
-      [
-        "20260801",
-        35.0
-      ],
-      [
-        "20260802",
-        35.0
-      ],
-      [
-        "20260803",
-        35.0
-      ]
-    ],
-    "223333": [
-      [
-        "20260718",
-        35.0
-      ],
-      [
-        "20260719",
-        35.0
-      ],
-      [
-        "20260720",
-        35.0
-      ],
-      [
-        "20260721",
-        35.0
-      ],
-      [
-        "20260722",
-        35.0
-      ],
-      [
-        "20260723",
-        35.0
-      ],
-      [
-        "20260724",
-        35.0
-      ],
-      [
-        "20260725",
-        35.0
-      ],
-      [
-        "20260726",
-        35.0
-      ],
-      [
-        "20260727",
-        35.0
-      ],
-      [
-        "20260728",
-        35.0
-      ],
-      [
-        "20260729",
-        35.0
-      ],
-      [
-        "20260730",
-        35.0
-      ],
-      [
-        "20260731",
-        35.0
-      ],
-      [
-        "20260801",
-        35.0
-      ],
-      [
-        "20260802",
-        35.0
-      ],
-      [
-        "20260803",
-        35.0
-      ]
-    ],
-    "222233": [
-      [
-        "20260718",
-        35.9
-      ],
-      [
-        "20260719",
-        35.9
-      ],
-      [
-        "20260720",
-        35.0
-      ],
-      [
-        "20260721",
-        35.0
-      ],
-      [
-        "20260722",
-        35.0
-      ],
-      [
-        "20260723",
-        35.0
-      ],
-      [
-        "20260724",
-        35.0
-      ],
-      [
-        "20260725",
-        35.0
-      ],
-      [
-        "20260726",
-        35.0
-      ],
-      [
-        "20260727",
-        35.0
-      ],
-      [
-        "20260728",
-        35.0
-      ],
-      [
-        "20260729",
-        35.0
-      ],
-      [
-        "20260730",
-        35.0
-      ],
-      [
-        "20260731",
-        35.0
-      ],
-      [
-        "20260801",
-        35.0
-      ],
-      [
-        "20260802",
-        35.0
-      ],
-      [
-        "20260803",
-        35.0
-      ]
-    ],
-    "214461": [
-      [
-        "20260718",
-        36.3
-      ],
-      [
-        "20260719",
-        36.3
-      ],
-      [
-        "20260720",
-        35.0
-      ],
-      [
-        "20260721",
-        35.0
-      ],
-      [
-        "20260722",
-        35.0
-      ],
-      [
-        "20260723",
-        35.0
-      ],
-      [
-        "20260724",
-        35.0
-      ],
-      [
-        "20260725",
-        35.0
-      ],
-      [
-        "20260726",
-        35.0
-      ],
-      [
-        "20260727",
-        35.0
-      ],
-      [
-        "20260728",
-        35.0
-      ],
-      [
-        "20260729",
-        35.0
-      ],
-      [
-        "20260730",
-        35.0
-      ],
-      [
-        "20260731",
-        35.0
-      ],
-      [
-        "20260801",
-        35.0
-      ],
-      [
-        "20260802",
-        35.0
-      ],
-      [
-        "20260803",
-        35.0
-      ]
-    ],
-    "211279": [
-      [
-        "20260720",
-        35.0
-      ],
-      [
-        "20260721",
-        35.0
-      ],
-      [
-        "20260722",
-        35.0
-      ],
-      [
-        "20260723",
-        35.0
-      ],
-      [
-        "20260724",
-        35.0
-      ],
-      [
-        "20260725",
-        35.0
-      ],
-      [
-        "20260726",
-        35.0
-      ],
-      [
-        "20260727",
-        35.0
-      ],
-      [
-        "20260728",
-        35.0
-      ],
-      [
-        "20260729",
-        35.0
-      ],
-      [
-        "20260730",
-        35.0
-      ],
-      [
-        "20260731",
-        35.0
-      ],
-      [
-        "20260801",
-        35.0
-      ],
-      [
-        "20260802",
-        35.0
-      ],
-      [
-        "20260803",
-        35.0
-      ]
-    ],
-    "215480": [
-      [
-        "20260718",
-        36.3
-      ],
-      [
-        "20260719",
-        36.3
-      ],
-      [
-        "20260720",
-        35.0
-      ],
-      [
-        "20260721",
-        35.0
-      ],
-      [
-        "20260722",
-        35.0
-      ],
-      [
-        "20260723",
-        35.0
-      ],
-      [
-        "20260724",
-        35.0
-      ],
-      [
-        "20260725",
-        35.0
-      ],
-      [
-        "20260726",
-        35.0
-      ],
-      [
-        "20260727",
-        35.0
-      ],
-      [
-        "20260728",
-        35.0
-      ],
-      [
-        "20260729",
-        35.0
-      ],
-      [
-        "20260730",
-        35.0
-      ],
-      [
-        "20260731",
-        35.0
-      ],
-      [
-        "20260801",
-        35.0
-      ],
-      [
-        "20260802",
-        35.0
       ],
       [
-        "20260803",
+        "20260804",
         35.0
       ]
     ],
@@ -32519,6 +32011,426 @@ window.TENNIS_DATA = {
       [
         "20260803",
         35.0
+      ],
+      [
+        "20260804",
+        35.0
+      ]
+    ],
+    "202684": [
+      [
+        "20260719",
+        35.7
+      ],
+      [
+        "20260720",
+        35.0
+      ],
+      [
+        "20260721",
+        35.0
+      ],
+      [
+        "20260722",
+        35.0
+      ],
+      [
+        "20260723",
+        35.0
+      ],
+      [
+        "20260724",
+        35.0
+      ],
+      [
+        "20260725",
+        35.0
+      ],
+      [
+        "20260726",
+        35.0
+      ],
+      [
+        "20260727",
+        35.0
+      ],
+      [
+        "20260728",
+        35.0
+      ],
+      [
+        "20260729",
+        35.0
+      ],
+      [
+        "20260730",
+        35.0
+      ],
+      [
+        "20260731",
+        35.0
+      ],
+      [
+        "20260801",
+        35.0
+      ],
+      [
+        "20260802",
+        35.0
+      ],
+      [
+        "20260803",
+        35.0
+      ],
+      [
+        "20260804",
+        35.0
+      ]
+    ],
+    "223333": [
+      [
+        "20260719",
+        35.0
+      ],
+      [
+        "20260720",
+        35.0
+      ],
+      [
+        "20260721",
+        35.0
+      ],
+      [
+        "20260722",
+        35.0
+      ],
+      [
+        "20260723",
+        35.0
+      ],
+      [
+        "20260724",
+        35.0
+      ],
+      [
+        "20260725",
+        35.0
+      ],
+      [
+        "20260726",
+        35.0
+      ],
+      [
+        "20260727",
+        35.0
+      ],
+      [
+        "20260728",
+        35.0
+      ],
+      [
+        "20260729",
+        35.0
+      ],
+      [
+        "20260730",
+        35.0
+      ],
+      [
+        "20260731",
+        35.0
+      ],
+      [
+        "20260801",
+        35.0
+      ],
+      [
+        "20260802",
+        35.0
+      ],
+      [
+        "20260803",
+        35.0
+      ],
+      [
+        "20260804",
+        35.0
+      ]
+    ],
+    "211279": [
+      [
+        "20260720",
+        35.0
+      ],
+      [
+        "20260721",
+        35.0
+      ],
+      [
+        "20260722",
+        35.0
+      ],
+      [
+        "20260723",
+        35.0
+      ],
+      [
+        "20260724",
+        35.0
+      ],
+      [
+        "20260725",
+        35.0
+      ],
+      [
+        "20260726",
+        35.0
+      ],
+      [
+        "20260727",
+        35.0
+      ],
+      [
+        "20260728",
+        35.0
+      ],
+      [
+        "20260729",
+        35.0
+      ],
+      [
+        "20260730",
+        35.0
+      ],
+      [
+        "20260731",
+        35.0
+      ],
+      [
+        "20260801",
+        35.0
+      ],
+      [
+        "20260802",
+        35.0
+      ],
+      [
+        "20260803",
+        35.0
+      ],
+      [
+        "20260804",
+        35.0
+      ]
+    ],
+    "222233": [
+      [
+        "20260719",
+        35.9
+      ],
+      [
+        "20260720",
+        35.0
+      ],
+      [
+        "20260721",
+        35.0
+      ],
+      [
+        "20260722",
+        35.0
+      ],
+      [
+        "20260723",
+        35.0
+      ],
+      [
+        "20260724",
+        35.0
+      ],
+      [
+        "20260725",
+        35.0
+      ],
+      [
+        "20260726",
+        35.0
+      ],
+      [
+        "20260727",
+        35.0
+      ],
+      [
+        "20260728",
+        35.0
+      ],
+      [
+        "20260729",
+        35.0
+      ],
+      [
+        "20260730",
+        35.0
+      ],
+      [
+        "20260731",
+        35.0
+      ],
+      [
+        "20260801",
+        35.0
+      ],
+      [
+        "20260802",
+        35.0
+      ],
+      [
+        "20260803",
+        35.0
+      ],
+      [
+        "20260804",
+        35.0
+      ]
+    ],
+    "214461": [
+      [
+        "20260719",
+        36.3
+      ],
+      [
+        "20260720",
+        35.0
+      ],
+      [
+        "20260721",
+        35.0
+      ],
+      [
+        "20260722",
+        35.0
+      ],
+      [
+        "20260723",
+        35.0
+      ],
+      [
+        "20260724",
+        35.0
+      ],
+      [
+        "20260725",
+        35.0
+      ],
+      [
+        "20260726",
+        35.0
+      ],
+      [
+        "20260727",
+        35.0
+      ],
+      [
+        "20260728",
+        35.0
+      ],
+      [
+        "20260729",
+        35.0
+      ],
+      [
+        "20260730",
+        35.0
+      ],
+      [
+        "20260731",
+        35.0
+      ],
+      [
+        "20260801",
+        35.0
+      ],
+      [
+        "20260802",
+        35.0
+      ],
+      [
+        "20260803",
+        35.0
+      ],
+      [
+        "20260804",
+        35.0
+      ]
+    ],
+    "215480": [
+      [
+        "20260719",
+        36.3
+      ],
+      [
+        "20260720",
+        35.0
+      ],
+      [
+        "20260721",
+        35.0
+      ],
+      [
+        "20260722",
+        35.0
+      ],
+      [
+        "20260723",
+        35.0
+      ],
+      [
+        "20260724",
+        35.0
+      ],
+      [
+        "20260725",
+        35.0
+      ],
+      [
+        "20260726",
+        35.0
+      ],
+      [
+        "20260727",
+        35.0
+      ],
+      [
+        "20260728",
+        35.0
+      ],
+      [
+        "20260729",
+        35.0
+      ],
+      [
+        "20260730",
+        35.0
+      ],
+      [
+        "20260731",
+        35.0
+      ],
+      [
+        "20260801",
+        35.0
+      ],
+      [
+        "20260802",
+        35.0
+      ],
+      [
+        "20260803",
+        35.0
+      ],
+      [
+        "20260804",
+        35.0
       ]
     ]
   },
@@ -32527,12 +32439,12 @@ window.TENNIS_DATA = {
       "id": "209950",
       "name": "Arthur Fils",
       "age": 22,
-      "rank": 22,
+      "rank": 24,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 82.6,
+      "activeScore": 82.3,
       "leyendaScore": 0.0,
       "note": "Top 30 a los 22"
     },
@@ -32540,12 +32452,12 @@ window.TENNIS_DATA = {
       "id": "212588",
       "name": "Rafael Jodar",
       "age": 19,
-      "rank": 24,
+      "rank": 15,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "activeScore": 77.8,
+      "activeScore": 78.8,
       "leyendaScore": 0.0,
       "note": "Top 30 a los 19"
     },
@@ -32553,12 +32465,12 @@ window.TENNIS_DATA = {
       "id": "210530",
       "name": "Learner Tien",
       "age": 20,
-      "rank": 16,
+      "rank": 19,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 75.0,
+      "activeScore": 74.7,
       "leyendaScore": 0.0,
       "note": "Top 30 a los 20"
     },
@@ -32592,40 +32504,40 @@ window.TENNIS_DATA = {
       "id": "209860",
       "name": "Ignacio Buse",
       "age": 22,
-      "rank": 34,
+      "rank": 33,
       "country": "PER",
       "logo": "https://flagcdn.com/24x18/pe.png",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 68.4,
+      "activeScore": 68.5,
       "leyendaScore": 0.0,
-      "note": "Irrumpe a los 22 (#34)"
+      "note": "Irrumpe a los 22 (#33)"
     },
     {
       "id": "210506",
       "name": "Alex Michelsen",
       "age": 21,
-      "rank": 40,
+      "rank": 42,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 66.4,
+      "activeScore": 66.2,
       "leyendaScore": 0.0,
-      "note": "Irrumpe a los 21 (#40)"
+      "note": "Irrumpe a los 21 (#42)"
     },
     {
       "id": "209414",
       "name": "Luca Van Assche",
       "age": 22,
-      "rank": 48,
+      "rank": 49,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 64.9,
+      "activeScore": 64.8,
       "leyendaScore": 0.0,
-      "note": "Irrumpe a los 22 (#48)"
+      "note": "Irrumpe a los 22 (#49)"
     }
   ],
   "WTA_PROSPECTS": [
@@ -32698,12 +32610,12 @@ window.TENNIS_DATA = {
       "id": "223670",
       "name": "Diana Shnaider",
       "age": 22,
-      "rank": 18,
+      "rank": 17,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 75.2,
+      "activeScore": 75.3,
       "leyendaScore": 0.0,
       "note": "Top 30 a los 22"
     },
@@ -32711,12 +32623,12 @@ window.TENNIS_DATA = {
       "id": "223253",
       "name": "Alexandra Eala",
       "age": 21,
-      "rank": 28,
+      "rank": 20,
       "country": "PHI",
       "logo": "",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 67.8,
+      "activeScore": 68.8,
       "leyendaScore": 0.0,
       "note": "Top 30 a los 21"
     },
@@ -32724,15 +32636,15 @@ window.TENNIS_DATA = {
       "id": "223360",
       "name": "Nikola Bartunkova",
       "age": 20,
-      "rank": 41,
+      "rank": 42,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 64.4,
+      "activeScore": 64.2,
       "leyendaScore": 0.0,
-      "note": "Irrumpe a los 20 (#41)"
+      "note": "Irrumpe a los 20 (#42)"
     }
   ],
-  "IMPORTANCE": 7.5
+  "IMPORTANCE": 7.0
 };

@@ -1805,7 +1805,7 @@ window.NFL_DATA = {
       "name": "Tyrod Taylor",
       "pos": "QB",
       "teamCode": "NYJ",
-      "age": 36,
+      "age": 37,
       "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/14163.png",
       "colors": {
         "primary": "#125740",
@@ -2405,7 +2405,7 @@ window.NFL_DATA = {
   "SEASON": "2025",
   "SEASON_STATUS": "offseason",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-08-03 22:30 UTC",
+  "LAST_UPDATE": "2026-08-04 07:48 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

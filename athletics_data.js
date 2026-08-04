@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-03 22:32 UTC
+// Auto-generated 2026-08-04 07:49 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-03 22:32 UTC",
+  "UPDATED": "2026-08-04 07:49 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -5622,13 +5622,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 6,
-              "mark": "14.58",
+              "mark": "14.71",
               "athlete": "Liadagmis Povea",
               "country": "CUB",
               "flag": "https://flagcdn.com/24x18/cu.png",
               "primary": "#002A8F",
-              "venue": "Suhaim bin Hamad Stadium",
-              "date": "19 JUN 2026"
+              "venue": "Estadio Olimpico Juan Pablo Duarte",
+              "date": "03 AUG 2026"
             },
             {
               "rank": 7,
