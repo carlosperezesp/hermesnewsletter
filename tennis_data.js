@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-04 16:00 UTC
+// Auto-generated 2026-08-04 21:39 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-04 16:00 UTC",
+  "UPDATED": "2026-08-04 21:39 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -168,9 +168,9 @@ window.TENNIS_DATA = {
       "prevListRank": 5,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en National Bank Open presented by Rogers"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 82.6
     },
@@ -202,9 +202,9 @@ window.TENNIS_DATA = {
       "prevListRank": 6,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en National Bank Open presented by Rogers"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 81.2
     },
@@ -236,9 +236,9 @@ window.TENNIS_DATA = {
       "prevListRank": 7,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en National Bank Open presented by Rogers"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 79.8
     },
@@ -304,9 +304,9 @@ window.TENNIS_DATA = {
       "prevListRank": 9,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en National Bank Open presented by Rogers"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 78.8
     },
@@ -508,9 +508,9 @@ window.TENNIS_DATA = {
       "prevListRank": 15,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en National Bank Open presented by Rogers"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 76.1
     },
@@ -542,9 +542,9 @@ window.TENNIS_DATA = {
       "prevListRank": 16,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en National Bank Open presented by Rogers"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 75.7
     },
@@ -780,9 +780,9 @@ window.TENNIS_DATA = {
       "prevListRank": 23,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en National Bank Open presented by Rogers"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 73.6
     },
@@ -916,9 +916,9 @@ window.TENNIS_DATA = {
       "prevListRank": 27,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en National Bank Open presented by Rogers"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 69.8
     },
@@ -1018,9 +1018,9 @@ window.TENNIS_DATA = {
       "prevListRank": 30,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en National Bank Open presented by Rogers"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 66.6
     },
@@ -1052,9 +1052,9 @@ window.TENNIS_DATA = {
       "prevListRank": 31,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en National Bank Open presented by Rogers"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 66.6
     },
@@ -1258,9 +1258,9 @@ window.TENNIS_DATA = {
       "prevListRank": 37,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 65.5
     },
@@ -1397,7 +1397,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 65.2
@@ -1465,7 +1465,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 64.8
@@ -1533,7 +1533,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 64.4
@@ -1566,9 +1566,9 @@ window.TENNIS_DATA = {
       "prevListRank": 46,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en National Bank Open presented by Rogers"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 64.1
     },
@@ -1600,9 +1600,9 @@ window.TENNIS_DATA = {
       "prevListRank": 47,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en National Bank Open presented by Rogers"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 63.0
     },
@@ -1634,9 +1634,9 @@ window.TENNIS_DATA = {
       "prevListRank": 48,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 62.9
     },
@@ -1703,7 +1703,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 62.8
@@ -1736,9 +1736,9 @@ window.TENNIS_DATA = {
       "prevListRank": 51,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en National Bank Open presented by Rogers"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 61.8
     },
@@ -1873,7 +1873,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 60.6
@@ -1907,7 +1907,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 60.5
@@ -1941,7 +1941,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 59.7
@@ -1974,9 +1974,9 @@ window.TENNIS_DATA = {
       "prevListRank": 58,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.1
     },
@@ -2043,7 +2043,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 58.7
@@ -2110,9 +2110,9 @@ window.TENNIS_DATA = {
       "prevListRank": 62,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 59.2
     },
@@ -2213,7 +2213,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 58.2
@@ -2724,9 +2724,9 @@ window.TENNIS_DATA = {
       "prevListRank": 80,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 56.3
     },
@@ -2826,9 +2826,9 @@ window.TENNIS_DATA = {
       "prevListRank": 83,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 54.8
     },
@@ -2963,7 +2963,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.8
@@ -2996,9 +2996,9 @@ window.TENNIS_DATA = {
       "prevListRank": 88,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 54.5
     },
@@ -3099,7 +3099,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 54.0
@@ -3404,9 +3404,9 @@ window.TENNIS_DATA = {
       "prevListRank": 100,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 52.7
     },
@@ -3784,9 +3784,9 @@ window.TENNIS_DATA = {
       "prevListRank": 111,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 50.3
     },
@@ -3852,9 +3852,9 @@ window.TENNIS_DATA = {
       "prevListRank": 113,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 50.2
     },
@@ -3988,9 +3988,9 @@ window.TENNIS_DATA = {
       "prevListRank": 117,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 48.7
     },
@@ -4093,7 +4093,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 47.9
@@ -4331,7 +4331,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 45.4
@@ -5321,7 +5321,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 90.5
@@ -5423,7 +5423,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 89.8
@@ -5660,9 +5660,9 @@ window.TENNIS_DATA = {
       "prevListRank": 15,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 80.4
     },
@@ -5729,7 +5729,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 79.5
@@ -6171,7 +6171,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 68.8
@@ -6477,7 +6477,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 66.1
@@ -6683,7 +6683,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 63.4
@@ -7090,9 +7090,9 @@ window.TENNIS_DATA = {
       "prevListRank": 57,
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 59.7
     },
@@ -7431,7 +7431,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 58.3
@@ -7603,7 +7603,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 57.5
@@ -7875,7 +7875,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 55.9
@@ -8011,7 +8011,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 54.1
@@ -8701,7 +8701,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 48.0
@@ -9743,7 +9743,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 38.5
@@ -11053,9 +11053,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Shang Juncheng",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.0,
           "l_score": null,
           "match_score": 75.0
@@ -11079,9 +11079,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jaume Munar",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "w/o",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 72.6,
           "l_score": 64.3,
           "match_score": 72.6
@@ -11371,9 +11371,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sara Bejlek",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-0 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.5,
           "l_score": 63.4,
           "match_score": 90.5
@@ -11384,24 +11384,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Katherine Sebov",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-4) 6-0",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.3,
           "l_score": null,
           "match_score": 90.3
         },
         {
           "round": "R64",
-          "w": "Jessica Bouzas Maneiro",
+          "w": "Elina Svitolina",
           "w_logo": "",
-          "l": "Elina Svitolina",
+          "l": "Jessica Bouzas Maneiro",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (5-7) 7-6 (7-4) 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 55.4,
-          "l_score": 89.9,
+          "w_score": 89.9,
+          "l_score": 55.4,
           "match_score": 89.9
         },
         {
@@ -11410,24 +11410,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Antonia Ruzic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 80.4,
           "l_score": 60.1,
           "match_score": 80.4
         },
         {
           "round": "R64",
-          "w": "Maja Chwalinska",
+          "w": "Talia Gibson",
           "w_logo": "",
-          "l": "Talia Gibson",
+          "l": "Maja Chwalinska",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 80.2,
-          "l_score": 53.8,
+          "scheduled": false,
+          "w_score": 53.8,
+          "l_score": 80.2,
           "match_score": 80.2
         },
         {
@@ -11436,9 +11436,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elena-Gabriela Ruse",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 79.5,
           "l_score": 57.2,
           "match_score": 79.5
@@ -11583,22 +11583,23 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
-      "Adam Walton",
-      "Adrian Mannarino",
+      "Alejandro Tabilo",
       "Alex Michelsen",
       "Alex de Minaur",
       "Alexander Blockx",
       "Alexei Popyrin",
       "Andrey Rublev",
+      "Arthur Fils",
       "Arthur Rinderknech",
+      "Ben Shelton",
       "Botic Van De Zandschulp",
       "Brandon Nakashima",
       "Cameron Norrie",
+      "Casper Ruud",
       "Corentin Moutet",
       "Daniel Altmaier",
       "Daniel Merida",
-      "Denis Shapovalov",
-      "Duncan Chan",
+      "Daniil Medvedev",
       "Fabian Marozsan",
       "Felix Auger-Aliassime",
       "Flavio Cobolli",
@@ -11606,69 +11607,81 @@ window.TENNIS_DATA = {
       "Francisco Cerundolo",
       "Gabriel Diallo",
       "Gael Monfils",
-      "Giovanni Mpetshi Perricard",
-      "Hamad Medjedovic",
       "Hubert Hurkacz",
       "Ignacio Buse",
-      "Jack Draper",
       "Jacob Fearnley",
+      "Jakub Mensik",
       "James Duckworth",
       "Jaume Munar",
       "Jenson Brooksby",
       "Jiri Lehecka",
+      "Joao Fonseca",
       "Juan Manuel Cerundolo",
+      "Karen Khachanov",
       "Learner Tien",
-      "Liam Draxl",
       "Lorenzo Musetti",
       "Lorenzo Sonego",
       "Luciano Darderi",
-      "Marcos Giron",
       "Mariano Navone",
       "Marin Cilic",
-      "Martin Damm",
-      "Mattia Bellucci",
       "Miomir Kecmanovic",
       "Nicolas Mejia",
       "Nuno Borges",
-      "Pablo Carreno Busta",
       "Rafael Jodar",
-      "Roman Andres Burruchaga",
+      "Raphael Collignon",
       "Sebastian Baez",
       "Shang Juncheng",
       "Shintaro Mochizuki",
       "Stefanos Tsitsipas",
       "Tallon Griekspoor",
+      "Taylor Fritz",
       "Terence Atmane",
       "Thiago Agustin Tirante",
       "Titouan Droguet",
       "Tomas Martin Etcheverry",
+      "Tommy Paul",
+      "Ugo Humbert",
       "Valentin Royer",
       "Valentin Vacherot",
       "Vit Kopriva",
       "Yannick Hanfmann",
-      "Zachary Svajda"
+      "Zachary Svajda",
+      "Zizou Bergs"
     ],
     "out": [
+      "Adam Walton",
       "Adolfo Daniel Vallejo",
+      "Adrian Mannarino",
       "Aleksandar Kovacevic",
       "Aleksandar Vukic",
       "Alexis Galarneau",
       "Benjamin Bonzi",
       "Camilo Ugo Carabelli",
       "Christopher O'Connell",
+      "Denis Shapovalov",
+      "Duncan Chan",
+      "Giovanni Mpetshi Perricard",
+      "Hamad Medjedovic",
+      "Jack Draper",
       "Jan-Lennard Struff",
       "Kamil Majchrzak",
       "Kyrian Jacquet",
+      "Liam Draxl",
       "Luca Van Assche",
+      "Marcos Giron",
+      "Martin Damm",
       "Martin Landaluce",
       "Marton Fucsovics",
       "Matteo Berrettini",
+      "Mattia Bellucci",
       "Michael Zheng",
+      "Pablo Carreno Busta",
       "Rinky Hijikata",
+      "Roman Andres Burruchaga",
       "Sho Shimabukuro"
     ],
     "aliveCount": 64,
-    "matchesSeen": 49
+    "matchesSeen": 62
   },
   "WTA_TOURNAMENT": {
     "name": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
@@ -11708,7 +11721,6 @@ window.TENNIS_DATA = {
       "Coco Gauff",
       "Daria Kasatkina",
       "Diana Shnaider",
-      "Donna Vekic",
       "Ekaterina Alexandrova",
       "Elena Rybakina",
       "Elena-Gabriela Ruse",
@@ -11738,7 +11750,6 @@ window.TENNIS_DATA = {
       "Madison Keys",
       "Magda Linette",
       "Magdalena Frech",
-      "Maja Chwalinska",
       "Maria Sakkari",
       "Marie Bouzkova",
       "Marta Kostyuk",
@@ -11782,6 +11793,7 @@ window.TENNIS_DATA = {
       "Cristina Bucsa",
       "Dalma Galfi",
       "Diane Parry",
+      "Donna Vekic",
       "Elena Micic",
       "Elisabetta Cocciaretto",
       "Elsa Jacquemot",
@@ -11798,6 +11810,7 @@ window.TENNIS_DATA = {
       "Linda Klimovicova",
       "Lois Boisson",
       "Lucrezia Stefanini",
+      "Maja Chwalinska",
       "Marcelina Podlinska",
       "Oleksandra Oliynykova",
       "Peyton Stearns",
@@ -11819,8 +11832,8 @@ window.TENNIS_DATA = {
       "Yulia Putintseva",
       "Yuliia Starodubtseva"
     ],
-    "aliveCount": 80,
-    "matchesSeen": 88
+    "aliveCount": 78,
+    "matchesSeen": 91
   },
   "ATP_SCORE_LOG": {
     "206173": [
