@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-04 09:18 UTC
+// Auto-generated 2026-08-04 15:10 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-04 09:18 UTC",
+  "UPDATED": "2026-08-04 15:10 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -6614,9 +6614,9 @@ window.TENNIS_DATA = {
       "prevListRank": 43,
       "tournamentStatus": {
         "tournament": "Warsaw T-Mobile Polish Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 67.4
     },
@@ -8527,7 +8527,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Warsaw T-Mobile Polish Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 48.9
@@ -8563,7 +8563,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Warsaw T-Mobile Polish Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 48.9
@@ -8836,9 +8836,9 @@ window.TENNIS_DATA = {
       "prevListRank": 108,
       "tournamentStatus": {
         "tournament": "Warsaw T-Mobile Polish Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 46.0
     },
@@ -9183,7 +9183,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Warsaw T-Mobile Polish Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 43.7
@@ -11465,15 +11465,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Laura Samson",
+          "w": "Mona Barthel",
           "w_logo": "",
-          "l": "Mona Barthel",
+          "l": "Laura Samson",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 63.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 63.7,
           "match_score": 63.7
         },
         {
@@ -11482,7 +11482,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elsa Jacquemot",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11495,9 +11495,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Dalma Galfi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 43.7,
           "l_score": null,
           "match_score": 43.7
@@ -11508,9 +11508,22 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Linda Klimovicova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "2-6 7-5 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Gabriela Knutson",
+          "w_logo": "",
+          "l": "Sofia Costoulas",
+          "l_logo": "",
+          "score": "6-2 6-4",
+          "day": "hoy",
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11521,35 +11534,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Weronika Ewald",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-3) 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
-          "w": "Lia Karatancheva",
-          "w_logo": "",
-          "l": "Zuzanna Pawlikowska",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
-          "w": "Sofia Costoulas",
-          "w_logo": "",
-          "l": "Gabriela Knutson",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11560,9 +11547,22 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Viktoria Hruncakova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Vendula Valdmannova",
+          "w_logo": "",
+          "l": "Marcelina Podlinska",
+          "l_logo": "",
+          "score": "6-1 6-2",
+          "day": "hoy",
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11706,7 +11706,6 @@ window.TENNIS_DATA = {
       "Catherine McNally",
       "Clara Tauson",
       "Coco Gauff",
-      "Dalma Galfi",
       "Daria Kasatkina",
       "Diana Shnaider",
       "Donna Vekic",
@@ -11717,7 +11716,6 @@ window.TENNIS_DATA = {
       "Elise Mertens",
       "Elizara Yaneva",
       "Ella Seidel",
-      "Elsa Jacquemot",
       "Emma Navarro",
       "Gabriela Knutson",
       "Iga Swiatek",
@@ -11734,17 +11732,13 @@ window.TENNIS_DATA = {
       "Kayla Cross",
       "Kayla Day",
       "Lanlana Tararudee",
-      "Laura Samson",
       "Leylah Fernandez",
-      "Lia Karatancheva",
-      "Linda Klimovicova",
       "Linda Noskova",
       "Liudmila Samsonova",
       "Madison Keys",
       "Magda Linette",
       "Magdalena Frech",
       "Maja Chwalinska",
-      "Marcelina Podlinska",
       "Maria Sakkari",
       "Marie Bouzkova",
       "Marta Kostyuk",
@@ -11762,16 +11756,13 @@ window.TENNIS_DATA = {
       "Renata Zarazua",
       "Sara Bejlek",
       "Sloane Stephens",
-      "Sofia Costoulas",
       "Sorana Cirstea",
       "Susan Bandecchi",
       "Talia Gibson",
       "Taylor Townsend",
       "Vendula Valdmannova",
       "Veronika Podrez",
-      "Viktoria Hruncakova",
       "Viktorija Golubic",
-      "Weronika Ewald",
       "Weronika Falkowska",
       "Yuan Yue",
       "Zeynep Sonmez",
@@ -11789,23 +11780,30 @@ window.TENNIS_DATA = {
       "Cadence Brace",
       "Carol Zhao",
       "Cristina Bucsa",
+      "Dalma Galfi",
       "Diane Parry",
       "Elena Micic",
       "Elisabetta Cocciaretto",
+      "Elsa Jacquemot",
       "Emerson Jones",
       "Eva Lys",
       "Janice Tjen",
       "Julia Avdeeva",
       "Katie Boulter",
       "Kimberly Birrell",
+      "Laura Samson",
       "Leolia Jeanjean",
+      "Lia Karatancheva",
       "Linda Fruhvirtova",
+      "Linda Klimovicova",
       "Lois Boisson",
       "Lucrezia Stefanini",
+      "Marcelina Podlinska",
       "Oleksandra Oliynykova",
       "Peyton Stearns",
       "Polina Kudermetova",
       "Rebecca Marino",
+      "Sofia Costoulas",
       "Solana Sierra",
       "Tamara Korpatsch",
       "Tatjana Maria",
@@ -11814,13 +11812,15 @@ window.TENNIS_DATA = {
       "Urszula Radwanska",
       "Venus Williams",
       "Victoria Jimenez Kasintseva",
+      "Viktoria Hruncakova",
       "Wang Xinyu",
       "Wang Xiyu",
+      "Weronika Ewald",
       "Yulia Putintseva",
       "Yuliia Starodubtseva"
     ],
-    "aliveCount": 89,
-    "matchesSeen": 81
+    "aliveCount": 80,
+    "matchesSeen": 88
   },
   "ATP_SCORE_LOG": {
     "206173": [

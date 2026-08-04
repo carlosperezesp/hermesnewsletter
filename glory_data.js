@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-04 09:18 UTC",
+  "UPDATED": "2026-08-04 15:10 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -33,6 +33,15 @@ window.GLORY_DATA = {
       "text": "Álex Palou ganó en Grand Prix of Nashville",
       "weight": 100,
       "firstSeen": "2026-07-21"
+    },
+    {
+      "id": "rank:football:TEAMS:new1:Argentina",
+      "sport": "football",
+      "detail": "Fútbol",
+      "anchor": "football-ranking-elo",
+      "text": "Argentina es nuevo nº1 · Ranking Elo",
+      "weight": 92,
+      "firstSeen": "2026-08-04"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
@@ -108,6 +117,15 @@ window.GLORY_DATA = {
       "text": "Remco Evenepoel ganó la última etapa del Tour de France",
       "weight": 88,
       "firstSeen": "2026-07-21"
+    },
+    {
+      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:in:Argentina (ciclo actual)",
+      "sport": "football",
+      "detail": "Fútbol",
+      "anchor": "football-dinastias",
+      "text": "Argentina (ciclo actual) entra en el top-10 · dinastías",
+      "weight": 84,
+      "firstSeen": "2026-08-04"
     },
     {
       "id": "rank:afl:LADDER:in:Carlton",
@@ -187,15 +205,6 @@ window.GLORY_DATA = {
       "detail": "Fútbol",
       "anchor": "football-dinastias",
       "text": "Brazil (1958-1962) entra en el top-10 · dinastías",
-      "weight": 84,
-      "firstSeen": "2026-07-22"
-    },
-    {
-      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:in:Spain (2023-present)",
-      "sport": "football",
-      "detail": "Fútbol",
-      "anchor": "football-dinastias",
-      "text": "Spain (2023-present) entra en el top-10 · dinastías",
       "weight": 84,
       "firstSeen": "2026-07-22"
     },
@@ -1099,22 +1108,22 @@ window.GLORY_DATA = {
       "Brazil (1958-1962)",
       "Italy (1934-1938)",
       "Spain (2008-2012)",
+      "Argentina (ciclo actual)",
       "Argentina (2021-present)",
       "Germany (1972-1976)",
-      "Spain (2023-present)",
       "France (1998-2001)",
       "Germany (2014-2017)"
     ],
     "football:TEAMS": [
-      "Spain",
       "Argentina",
-      "England",
+      "Spain",
       "France",
-      "Netherlands",
+      "England",
       "Portugal",
       "Brazil",
-      "Italy",
+      "Netherlands",
       "Germany",
+      "Italy",
       "Uruguay"
     ]
   }
