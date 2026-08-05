@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-05 15:01 UTC
+// Auto-generated 2026-08-05 15:51 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-05 15:01 UTC",
+  "UPDATED": "2026-08-05 15:51 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8563,7 +8563,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Warsaw T-Mobile Polish Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 48.9
@@ -11046,9 +11046,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nicolas Mejia",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 79.6,
           "l_score": 35.0,
           "match_score": 79.6
@@ -11451,15 +11451,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Veronika Podrez",
+          "w": "Susan Bandecchi",
           "w_logo": "",
-          "l": "Susan Bandecchi",
+          "l": "Veronika Podrez",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 48.9,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 48.9,
           "match_score": 48.9
         },
         {
