@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-05 09:16 UTC
+// Auto-generated 2026-08-05 15:01 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-05 09:16 UTC",
+  "UPDATED": "2026-08-05 15:01 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8527,7 +8527,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Warsaw T-Mobile Polish Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 48.9
@@ -9183,7 +9183,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Warsaw T-Mobile Polish Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 43.7
@@ -11442,7 +11442,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Katarzyna Kawa",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 2-6 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11455,24 +11455,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Susan Bandecchi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.9,
           "l_score": null,
           "match_score": 48.9
         },
         {
           "round": "R64",
-          "w": "Ella Seidel",
+          "w": "Gabriela Knutson",
           "w_logo": "",
-          "l": "Gabriela Knutson",
+          "l": "Ella Seidel",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 43.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 43.7,
           "match_score": 43.7
         },
         {
@@ -11481,20 +11481,33 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Weronika Falkowska",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
         },
         {
           "round": "R64",
-          "w": "Aliona Falei",
+          "w": "Carol Young Suh Lee",
           "w_logo": "",
-          "l": "Carol Young Suh Lee",
+          "l": "Aliona Falei",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "2-6 6-3 6-1",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R64",
+          "w": "Elizara Yaneva",
+          "w_logo": "",
+          "l": "Yuan Yue",
+          "l_logo": "",
+          "score": "5-7 6-0 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11507,22 +11520,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Martyna Kubka",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R64",
-          "w": "Yuan Yue",
-          "w_logo": "",
-          "l": "Elizara Yaneva",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11808,7 +11808,7 @@ window.TENNIS_DATA = {
       "Yuliia Starodubtseva"
     ],
     "aliveCount": 75,
-    "matchesSeen": 95
+    "matchesSeen": 97
   },
   "ATP_SCORE_LOG": {
     "206173": [
