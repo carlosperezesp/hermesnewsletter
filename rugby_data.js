@@ -1,6 +1,6 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-08-05 15:50 UTC",
+  "UPDATED": "2026-08-05 21:34 UTC",
   "LAST_MATCH": "2026-07-18",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
@@ -172,31 +172,6 @@ window.RUGBY_DATA = {
         "status": "scheduled",
         "competition": "International Test Match",
         "home": {
-          "name": "Argentina",
-          "teamCode": "ARG",
-          "colors": {
-            "primary": "#75aadb",
-            "secondary": "#f6b40e"
-          }
-        },
-        "away": {
-          "name": "South Africa",
-          "teamCode": "RSA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb612"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "Estadio José Amalfitani",
-        "city": "Buenos Aires"
-      },
-      {
-        "date": "2026-08-08",
-        "status": "scheduled",
-        "competition": "International Test Match",
-        "home": {
           "name": "Japan",
           "teamCode": "JPN",
           "colors": {
@@ -216,6 +191,31 @@ window.RUGBY_DATA = {
         "awayScore": null,
         "venue": "Hanazono Rugby Stadium",
         "city": "Osaka"
+      },
+      {
+        "date": "2026-08-08",
+        "status": "scheduled",
+        "competition": "International Test Match",
+        "home": {
+          "name": "Argentina",
+          "teamCode": "ARG",
+          "colors": {
+            "primary": "#75aadb",
+            "secondary": "#f6b40e"
+          }
+        },
+        "away": {
+          "name": "South Africa",
+          "teamCode": "RSA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb612"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Estadio José Amalfitani",
+        "city": "Buenos Aires"
       },
       {
         "date": "2026-08-15",
@@ -272,31 +272,6 @@ window.RUGBY_DATA = {
         "status": "scheduled",
         "competition": "International Test Match",
         "home": {
-          "name": "South Africa",
-          "teamCode": "RSA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb612"
-          }
-        },
-        "away": {
-          "name": "New Zealand",
-          "teamCode": "NZL",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "DHL Stadium",
-        "city": "Cape Town"
-      },
-      {
-        "date": "2026-08-29",
-        "status": "scheduled",
-        "competition": "International Test Match",
-        "home": {
           "name": "Argentina",
           "teamCode": "ARG",
           "colors": {
@@ -318,7 +293,7 @@ window.RUGBY_DATA = {
         "city": "San Salvador"
       },
       {
-        "date": "2026-09-05",
+        "date": "2026-08-29",
         "status": "scheduled",
         "competition": "International Test Match",
         "home": {
@@ -339,8 +314,8 @@ window.RUGBY_DATA = {
         },
         "homeScore": null,
         "awayScore": null,
-        "venue": "FNB Stadium",
-        "city": "Johannesburg"
+        "venue": "DHL Stadium",
+        "city": "Cape Town"
       },
       {
         "date": "2026-09-05",
@@ -366,6 +341,31 @@ window.RUGBY_DATA = {
         "awayScore": null,
         "venue": "Estadio Malvinas Argentinas",
         "city": "Mendoza"
+      },
+      {
+        "date": "2026-09-05",
+        "status": "scheduled",
+        "competition": "International Test Match",
+        "home": {
+          "name": "South Africa",
+          "teamCode": "RSA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb612"
+          }
+        },
+        "away": {
+          "name": "New Zealand",
+          "teamCode": "NZL",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "FNB Stadium",
+        "city": "Johannesburg"
       },
       {
         "date": "2026-09-05",
