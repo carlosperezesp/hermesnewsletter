@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-04 22:33 UTC",
+  "UPDATED": "2026-08-05 07:51 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -25,14 +25,6 @@ window.GLORY_DATA = {
       "text": "Charles Leclerc ganó el AWS Hungarian Grand Prix",
       "weight": 100,
       "firstSeen": "2026-07-25"
-    },
-    {
-      "id": "indycar:win:Grand Prix of Nashville:Álex Palou",
-      "sport": "indycar",
-      "detail": "IndyCar",
-      "text": "Álex Palou ganó en Grand Prix of Nashville",
-      "weight": 100,
-      "firstSeen": "2026-07-21"
     },
     {
       "id": "rank:football:TEAMS:new1:Argentina",
@@ -109,14 +101,6 @@ window.GLORY_DATA = {
       "text": "Jasper Philipsen ganó la última etapa del Tour de France",
       "weight": 88,
       "firstSeen": "2026-07-22"
-    },
-    {
-      "id": "cycling:stage:Tour de France:16:Remco Evenepoel",
-      "sport": "cycling",
-      "detail": "Ciclismo",
-      "text": "Remco Evenepoel ganó la última etapa del Tour de France",
-      "weight": 88,
-      "firstSeen": "2026-07-21"
     },
     {
       "id": "rank:football:ROAD_TO_GLORY.dynasties:era:in:Argentina (ciclo actual)",
@@ -218,24 +202,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-22"
     },
     {
-      "id": "rank:indycar:DRIVERS:in:Rinus VeeKay",
-      "sport": "indycar",
-      "detail": "IndyCar",
-      "anchor": "indycar-campeonato",
-      "text": "Rinus VeeKay entra en el top-10 · campeonato",
-      "weight": 84,
-      "firstSeen": "2026-07-21"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Chase Burns",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-jovenes-promesas",
-      "text": "Chase Burns entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-07-21"
-    },
-    {
       "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:VJ Edgecombe",
       "sport": "nba",
       "detail": "NBA",
@@ -288,15 +254,6 @@ window.GLORY_DATA = {
       "text": "Germany (1980-1990) cae del top-10 · dinastías",
       "weight": 74,
       "firstSeen": "2026-07-22"
-    },
-    {
-      "id": "rank:indycar:DRIVERS:out:Scott Dixon",
-      "sport": "indycar",
-      "detail": "IndyCar",
-      "anchor": "indycar-campeonato",
-      "text": "Scott Dixon cae del top-10 · campeonato",
-      "weight": 74,
-      "firstSeen": "2026-07-21"
     }
   ],
   "REPORTS": [

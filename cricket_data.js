@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-08-04 22:33 UTC",
+  "UPDATED": "2026-08-05 07:50 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1594,
+    "matches": 1593,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 905
+        "matches": 904
       },
       {
         "name": "IPL",
@@ -452,16 +452,16 @@ window.CRICKET_DATA = {
       "id": "ba-carse",
       "name": "BA Carse",
       "role": "Bowler",
-      "score": 79.8,
-      "legendScore": 61.4,
+      "score": 79.1,
+      "legendScore": 60.8,
       "stats": {
         "test": 82.3,
         "odi": 80.5,
-        "t20": 79.9,
-        "franchise": 70.6,
-        "runs": 441,
-        "wickets": 77,
-        "matches": 32
+        "t20": 77.7,
+        "franchise": 68.7,
+        "runs": 438,
+        "wickets": 74,
+        "matches": 31
       },
       "formatScores": {
         "test": {
@@ -475,14 +475,14 @@ window.CRICKET_DATA = {
           "bowling": 77.7
         },
         "t20": {
-          "overall": 71.4,
-          "batting": 16.4,
-          "bowling": 73.7
+          "overall": 70.9,
+          "batting": 16.7,
+          "bowling": 71.3
         },
         "franchise": {
-          "overall": 69.9,
-          "batting": 16.4,
-          "bowling": 65.0
+          "overall": 69.3,
+          "batting": 16.7,
+          "bowling": 62.8
         }
       },
       "country": "England",
@@ -1038,8 +1038,8 @@ window.CRICKET_DATA = {
           "batting": 18.4,
           "bowling": 77.2,
           "overall": 71.0,
-          "runs": 441,
-          "wickets": 77
+          "runs": 438,
+          "wickets": 74
         }
       ]
     },
@@ -2120,22 +2120,22 @@ window.CRICKET_DATA = {
           "wickets": 108
         },
         {
-          "id": "ba-carse",
-          "name": "BA Carse",
+          "id": "b-muzarabani",
+          "name": "B Muzarabani",
           "role": "Bowler",
-          "country": "England",
-          "teamCode": "ENG",
+          "country": "Zimbabwe",
+          "teamCode": "ZIM",
           "colors": {
-            "primary": "#c8102e",
-            "secondary": "#ffffff"
+            "primary": "#009739",
+            "secondary": "#ffd100"
           },
-          "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 73.7,
-          "batting": 16.4,
-          "bowling": 73.7,
-          "overall": 71.4,
-          "runs": 441,
-          "wickets": 77
+          "logo": "https://flagcdn.com/24x18/zw.png",
+          "score": 72.8,
+          "batting": 9.0,
+          "bowling": 72.8,
+          "overall": 52.6,
+          "runs": 172,
+          "wickets": 84
         }
       ]
     },
@@ -2642,12 +2642,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 83.4,
+          "score": 82.8,
           "batting": 13.4,
-          "bowling": 83.4,
-          "overall": 71.6,
-          "runs": 437,
-          "wickets": 109
+          "bowling": 82.8,
+          "overall": 71.3,
+          "runs": 436,
+          "wickets": 108
         },
         {
           "id": "shaheen-shah-afridi",
@@ -3720,16 +3720,16 @@ window.CRICKET_DATA = {
         "id": "ba-carse",
         "name": "BA Carse",
         "role": "Bowler",
-        "score": 79.8,
-        "legendScore": 61.4,
+        "score": 79.1,
+        "legendScore": 60.8,
         "stats": {
           "test": 82.3,
           "odi": 80.5,
-          "t20": 79.9,
-          "franchise": 70.6,
-          "runs": 441,
-          "wickets": 77,
-          "matches": 32
+          "t20": 77.7,
+          "franchise": 68.7,
+          "runs": 438,
+          "wickets": 74,
+          "matches": 31
         },
         "formatScores": {
           "test": {
@@ -3743,14 +3743,14 @@ window.CRICKET_DATA = {
             "bowling": 77.7
           },
           "t20": {
-            "overall": 71.4,
-            "batting": 16.4,
-            "bowling": 73.7
+            "overall": 70.9,
+            "batting": 16.7,
+            "bowling": 71.3
           },
           "franchise": {
-            "overall": 69.9,
-            "batting": 16.4,
-            "bowling": 65.0
+            "overall": 69.3,
+            "batting": 16.7,
+            "bowling": 62.8
           }
         },
         "country": "England",
