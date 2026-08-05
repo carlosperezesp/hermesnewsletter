@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-05 07:51 UTC
+// Auto-generated 2026-08-05 09:16 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-05 07:51 UTC",
+  "UPDATED": "2026-08-05 09:16 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11438,15 +11438,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Katarzyna Kawa",
+          "w": "Justina Mikulskyte",
           "w_logo": "",
-          "l": "Justina Mikulskyte",
+          "l": "Katarzyna Kawa",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 48.9,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 48.9,
           "match_score": 48.9
         },
         {
@@ -11494,9 +11494,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Carol Young Suh Lee",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0

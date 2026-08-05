@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-05 07:50 UTC
+// Auto-generated 2026-08-05 09:15 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-05 07:50 UTC",
+  "UPDATED": "2026-08-05 09:15 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -2741,108 +2741,7 @@ window.ATHLETICS_DATA = {
               "year": 2000
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "3:27.62",
-              "athlete": "Josh Kerr",
-              "country": "GBR",
-              "flag": "https://flagcdn.com/24x18/gb.png",
-              "primary": "#012169",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "3:28.00",
-              "athlete": "Cameron Myers",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "3:29.36",
-              "athlete": "Yared Nuguse",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "3:29.80",
-              "athlete": "Azeddine Habz",
-              "country": "FRA",
-              "flag": "https://flagcdn.com/24x18/fr.png",
-              "primary": "#002395",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "3:29.95",
-              "athlete": "Jake Wightman",
-              "country": "GBR",
-              "flag": "https://flagcdn.com/24x18/gb.png",
-              "primary": "#012169",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "3:30.09",
-              "athlete": "Robert Farken",
-              "country": "GER",
-              "flag": "https://flagcdn.com/24x18/de.png",
-              "primary": "#000000",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "3:30.17",
-              "athlete": "Anass Essayi",
-              "country": "MAR",
-              "flag": "https://flagcdn.com/24x18/ma.png",
-              "primary": "#C1272D",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "3:30.28",
-              "athlete": "Reynold Cheruiyot",
-              "country": "KEN",
-              "flag": "https://flagcdn.com/24x18/ke.png",
-              "primary": "#006600",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "3:30.31",
-              "athlete": "Anas Lagtiy Chaoudar",
-              "country": "FRA",
-              "flag": "https://flagcdn.com/24x18/fr.png",
-              "primary": "#002395",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "3:30.43",
-              "athlete": "Isaac Nader",
-              "country": "POR",
-              "flag": "https://flagcdn.com/24x18/pt.png",
-              "primary": "#006600",
-              "venue": "Complexe Sportif Prince Moulay Abdellah",
-              "date": "31 MAY 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "1500m_w",
@@ -4918,7 +4817,108 @@ window.ATHLETICS_DATA = {
               "year": 1994
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "8.66",
+              "athlete": "Miltiadis Tentoglou",
+              "country": "GRE",
+              "flag": "https://flagcdn.com/24x18/gr.png",
+              "primary": "#4A4745",
+              "venue": "Panthessaliko Stadium",
+              "date": "26 JUL 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "8.51",
+              "athlete": "Simon Ehammer",
+              "country": "SUI",
+              "flag": "https://flagcdn.com/24x18/ch.png",
+              "primary": "#D52B1E",
+              "venue": "Msle-Stadium",
+              "date": "30 MAY 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "8.49",
+              "athlete": "Bozhidar Sar&#194;boyukov",
+              "country": "BUL",
+              "flag": "https://flagcdn.com/24x18/bg.png",
+              "primary": "#00966E",
+              "venue": "Plovdiv Stadium",
+              "date": "14 JUL 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "8.46",
+              "athlete": "Gerson Bald&#201;",
+              "country": "POR",
+              "flag": "https://flagcdn.com/24x18/pt.png",
+              "primary": "#006600",
+              "venue": "Kujawsko-Pomorska Arena",
+              "date": "22 MAR 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "8.46",
+              "athlete": "Jorge A. Hodel&#205;n",
+              "country": "CUB",
+              "flag": "https://flagcdn.com/24x18/cu.png",
+              "primary": "#002A8F",
+              "venue": "Stade Christian Plaziat",
+              "date": "13 JUN 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "8.43",
+              "athlete": "Mattia Furlani",
+              "country": "ITA",
+              "flag": "https://flagcdn.com/24x18/it.png",
+              "primary": "#009246",
+              "venue": "China Textile City Sports Centre",
+              "date": "16 MAY 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "8.39",
+              "athlete": "Wayne Pinnock",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Stade Louis II",
+              "date": "10 JUL 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "8.37",
+              "athlete": "Tafadzwa Chikomba",
+              "country": "ZIM",
+              "flag": "",
+              "primary": "#4A4745",
+              "venue": "Hayward Field",
+              "date": "10 JUN 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "8.37",
+              "athlete": "Tajay Gayle",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "National Stadium",
+              "date": "20 JUN 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "8.33",
+              "athlete": "Chenlong Yuan",
+              "country": "CHN",
+              "flag": "https://flagcdn.com/24x18/cn.png",
+              "primary": "#DE2910",
+              "venue": "Nanjing (CHN)",
+              "date": "09 MAY 2026"
+            }
+          ]
         },
         {
           "id": "lj_w",
