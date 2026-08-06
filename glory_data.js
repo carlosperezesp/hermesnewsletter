@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-05 22:32 UTC",
+  "UPDATED": "2026-08-06 07:50 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -45,15 +45,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-25"
     },
     {
-      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:new1:Brazil (1994-2002)",
-      "sport": "football",
-      "detail": "Fútbol",
-      "anchor": "football-dinastias",
-      "text": "Brazil (1994-2002) es nuevo nº1 · dinastías",
-      "weight": 92,
-      "firstSeen": "2026-07-22"
-    },
-    {
       "id": "rank:athletics:allTime:400mh_m:in:Alison Dos Santos",
       "sport": "athletics",
       "detail": "Atletismo",
@@ -93,14 +84,6 @@ window.GLORY_DATA = {
       "text": "Richard Carapaz ganó la última etapa del Tour de France",
       "weight": 88,
       "firstSeen": "2026-07-23"
-    },
-    {
-      "id": "cycling:stage:Tour de France:17:Jasper Philipsen",
-      "sport": "cycling",
-      "detail": "Ciclismo",
-      "text": "Jasper Philipsen ganó la última etapa del Tour de France",
-      "weight": 88,
-      "firstSeen": "2026-07-22"
     },
     {
       "id": "rank:football:ROAD_TO_GLORY.dynasties:era:in:Argentina (ciclo actual)",
@@ -175,33 +158,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-25"
     },
     {
-      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:in:Uruguay (1924-1930)",
-      "sport": "football",
-      "detail": "Fútbol",
-      "anchor": "football-dinastias",
-      "text": "Uruguay (1924-1930) entra en el top-10 · dinastías",
-      "weight": 84,
-      "firstSeen": "2026-07-22"
-    },
-    {
-      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:in:Brazil (1958-1962)",
-      "sport": "football",
-      "detail": "Fútbol",
-      "anchor": "football-dinastias",
-      "text": "Brazil (1958-1962) entra en el top-10 · dinastías",
-      "weight": 84,
-      "firstSeen": "2026-07-22"
-    },
-    {
-      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:in:Germany (2014-2017)",
-      "sport": "football",
-      "detail": "Fútbol",
-      "anchor": "football-dinastias",
-      "text": "Germany (2014-2017) entra en el top-10 · dinastías",
-      "weight": 84,
-      "firstSeen": "2026-07-22"
-    },
-    {
       "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:VJ Edgecombe",
       "sport": "nba",
       "detail": "NBA",
@@ -218,76 +174,9 @@ window.GLORY_DATA = {
       "text": "AAP Atkinson cae del top-10 · Road to Glory",
       "weight": 74,
       "firstSeen": "2026-07-29"
-    },
-    {
-      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:out:Brazil (1958-1970)",
-      "sport": "football",
-      "detail": "Fútbol",
-      "anchor": "football-dinastias",
-      "text": "Brazil (1958-1970) cae del top-10 · dinastías",
-      "weight": 74,
-      "firstSeen": "2026-07-22"
-    },
-    {
-      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:out:Uruguay (1928-1950)",
-      "sport": "football",
-      "detail": "Fútbol",
-      "anchor": "football-dinastias",
-      "text": "Uruguay (1928-1950) cae del top-10 · dinastías",
-      "weight": 74,
-      "firstSeen": "2026-07-22"
-    },
-    {
-      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:out:Argentina (1978-1986)",
-      "sport": "football",
-      "detail": "Fútbol",
-      "anchor": "football-dinastias",
-      "text": "Argentina (1978-1986) cae del top-10 · dinastías",
-      "weight": 74,
-      "firstSeen": "2026-07-22"
-    },
-    {
-      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:out:Germany (1980-1990)",
-      "sport": "football",
-      "detail": "Fútbol",
-      "anchor": "football-dinastias",
-      "text": "Germany (1980-1990) cae del top-10 · dinastías",
-      "weight": 74,
-      "firstSeen": "2026-07-22"
     }
   ],
-  "REPORTS": [
-    {
-      "id": "sumo:basho:202607",
-      "sport": "sumo",
-      "competition": "Sumo",
-      "champion": "Aonishiki conquista el basho",
-      "scopeLabel": "Cabeza del banzuke",
-      "top5": [
-        {
-          "name": "Hoshoryu",
-          "sub": "Yokozuna 1 East"
-        },
-        {
-          "name": "Onosato",
-          "sub": "Yokozuna 1 West"
-        },
-        {
-          "name": "Kirishima",
-          "sub": "Ozeki 1 East"
-        },
-        {
-          "name": "Kotozakura",
-          "sub": "Ozeki 1 West"
-        },
-        {
-          "name": "Atamifuji",
-          "sub": "Sekiwake 1 East"
-        }
-      ],
-      "firstSeen": "2026-07-26"
-    }
-  ],
+  "REPORTS": [],
   "REPORT_SEEN": [
     {
       "id": "nhl:champ:CAR:2025-26",

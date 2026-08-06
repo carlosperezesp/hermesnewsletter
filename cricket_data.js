@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-08-05 22:32 UTC",
+  "UPDATED": "2026-08-06 07:50 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1593,
+    "matches": 1591,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 904
+        "matches": 902
       },
       {
         "name": "IPL",
@@ -1694,11 +1694,11 @@ window.CRICKET_DATA = {
             "secondary": "#dddddd"
           },
           "logo": "",
-          "score": 81.5,
-          "batting": 29.5,
-          "bowling": 53.4,
-          "overall": 81.5,
-          "runs": 1382,
+          "score": 81.9,
+          "batting": 29.7,
+          "bowling": 53.5,
+          "overall": 81.9,
+          "runs": 1362,
           "wickets": 62
         },
         {
@@ -1812,24 +1812,6 @@ window.CRICKET_DATA = {
           "wickets": 2
         },
         {
-          "id": "m-simpson-parker",
-          "name": "M Simpson-Parker",
-          "role": "Batter",
-          "country": "Austria",
-          "teamCode": "AUS",
-          "colors": {
-            "primary": "#555555",
-            "secondary": "#dddddd"
-          },
-          "logo": "",
-          "score": 70.7,
-          "batting": 70.7,
-          "bowling": 0.3,
-          "overall": 9.5,
-          "runs": 146,
-          "wickets": 0
-        },
-        {
           "id": "lu-igalagamage",
           "name": "LU Igalagamage",
           "role": "Batter",
@@ -1900,6 +1882,24 @@ window.CRICKET_DATA = {
           "overall": 35.0,
           "runs": 93,
           "wickets": 3
+        },
+        {
+          "id": "sheikh-rasik",
+          "name": "Sheikh Rasik",
+          "role": "Batter",
+          "country": "Hungary",
+          "teamCode": "HUN",
+          "colors": {
+            "primary": "#555555",
+            "secondary": "#dddddd"
+          },
+          "logo": "",
+          "score": 59.5,
+          "batting": 59.5,
+          "bowling": 0.3,
+          "overall": 8.7,
+          "runs": 152,
+          "wickets": 0
         },
         {
           "id": "j-taanyanda",
@@ -2278,11 +2278,11 @@ window.CRICKET_DATA = {
             "secondary": "#dddddd"
           },
           "logo": "",
-          "score": 79.7,
-          "batting": 29.5,
-          "bowling": 47.0,
-          "overall": 79.7,
-          "runs": 1382,
+          "score": 80.2,
+          "batting": 29.7,
+          "bowling": 47.2,
+          "overall": 80.2,
+          "runs": 1362,
           "wickets": 62
         },
         {
@@ -2360,24 +2360,6 @@ window.CRICKET_DATA = {
           "wickets": 2
         },
         {
-          "id": "m-simpson-parker",
-          "name": "M Simpson-Parker",
-          "role": "Batter",
-          "country": "Austria",
-          "teamCode": "AUS",
-          "colors": {
-            "primary": "#555555",
-            "secondary": "#dddddd"
-          },
-          "logo": "",
-          "score": 70.7,
-          "batting": 70.7,
-          "bowling": 0.3,
-          "overall": 9.9,
-          "runs": 146,
-          "wickets": 0
-        },
-        {
           "id": "lu-igalagamage",
           "name": "LU Igalagamage",
           "role": "Batter",
@@ -2450,6 +2432,24 @@ window.CRICKET_DATA = {
           "wickets": 3
         },
         {
+          "id": "sheikh-rasik",
+          "name": "Sheikh Rasik",
+          "role": "Batter",
+          "country": "Hungary",
+          "teamCode": "HUN",
+          "colors": {
+            "primary": "#555555",
+            "secondary": "#dddddd"
+          },
+          "logo": "",
+          "score": 59.5,
+          "batting": 59.5,
+          "bowling": 0.3,
+          "overall": 9.0,
+          "runs": 152,
+          "wickets": 0
+        },
+        {
           "id": "j-taanyanda",
           "name": "J Taanyanda",
           "role": "Batter",
@@ -2486,21 +2486,21 @@ window.CRICKET_DATA = {
           "wickets": 0
         },
         {
-          "id": "sheikh-rasik",
-          "name": "Sheikh Rasik",
+          "id": "m-simpson-parker",
+          "name": "M Simpson-Parker",
           "role": "Batter",
-          "country": "Hungary",
-          "teamCode": "HUN",
+          "country": "Austria",
+          "teamCode": "AUS",
           "colors": {
             "primary": "#555555",
             "secondary": "#dddddd"
           },
           "logo": "",
-          "score": 51.5,
-          "batting": 51.5,
+          "score": 52.0,
+          "batting": 52.0,
           "bowling": 0.3,
-          "overall": 8.4,
-          "runs": 180,
+          "overall": 8.5,
+          "runs": 89,
           "wickets": 0
         }
       ],
