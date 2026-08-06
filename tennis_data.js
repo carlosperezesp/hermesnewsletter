@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-06 09:18 UTC
+// Auto-generated 2026-08-06 15:00 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-06 09:18 UTC",
+  "UPDATED": "2026-08-06 15:00 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11438,13 +11438,26 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
+          "w": "Carol Young Suh Lee",
+          "w_logo": "",
+          "l": "Weronika Falkowska",
+          "l_logo": "",
+          "score": "3-6 7-6 (7-4) 6-1",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "Quarterfinal",
           "w": "Elizara Yaneva",
           "w_logo": "",
           "l": "Mona Barthel",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 2-6 7-6 (7-5)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11455,7 +11468,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Justina Mikulskyte",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11468,22 +11481,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Vendula Valdmannova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Weronika Falkowska",
-          "w_logo": "",
-          "l": "Carol Young Suh Lee",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11756,7 +11756,7 @@ window.TENNIS_DATA = {
       "Yuliia Starodubtseva"
     ],
     "aliveCount": 70,
-    "matchesSeen": 108
+    "matchesSeen": 109
   },
   "ATP_SCORE_LOG": {
     "206173": [
