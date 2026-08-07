@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-07 14:36 UTC
+// Auto-generated 2026-08-07 21:00 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-07 14:36 UTC",
+  "UPDATED": "2026-08-07 21:00 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1155,7 +1155,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 66.4
@@ -1363,7 +1363,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 65.2
@@ -1669,7 +1669,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R32",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 63.1
@@ -1737,7 +1737,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 61.8
@@ -5253,7 +5253,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 91.8
@@ -5865,7 +5865,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 75.7
@@ -6341,7 +6341,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 66.5
@@ -11007,9 +11007,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Zizou Bergs",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.9,
           "l_score": 62.1,
           "match_score": 75.9
@@ -11029,28 +11029,28 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R32",
-          "w": "Alex Michelsen",
+          "w": "Daniel Merida",
           "w_logo": "",
-          "l": "Daniel Merida",
+          "l": "Alex Michelsen",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-7 (4-7) 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 66.2,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 66.2,
           "match_score": 66.2
         },
         {
           "round": "R32",
-          "w": "Matteo Arnaldi",
+          "w": "Tallon Griekspoor",
           "w_logo": "",
-          "l": "Tallon Griekspoor",
+          "l": "Matteo Arnaldi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "3-6 6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 65.2,
-          "l_score": 62.8,
+          "scheduled": false,
+          "w_score": 62.8,
+          "l_score": 65.2,
           "match_score": 65.2
         },
         {
@@ -11085,9 +11085,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Botic Van De Zandschulp",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "3-6 7-6 (7-4)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 62.7,
           "l_score": 60.5,
           "match_score": 62.7
@@ -11279,24 +11279,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ann Li",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 93.0,
           "l_score": 66.5,
           "match_score": 93.0
         },
         {
           "round": "R32",
-          "w": "Mirra Andreeva",
+          "w": "Leylah Fernandez",
           "w_logo": "",
-          "l": "Leylah Fernandez",
+          "l": "Mirra Andreeva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 91.8,
-          "l_score": 67.0,
+          "scheduled": false,
+          "w_score": 67.0,
+          "l_score": 91.8,
           "match_score": 91.8
         },
         {
@@ -11353,15 +11353,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R32",
-          "w": "Iva Jovic",
+          "w": "Alina Korneeva",
           "w_logo": "",
-          "l": "Alina Korneeva",
+          "l": "Iva Jovic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 75.7,
-          "l_score": 52.2,
+          "scheduled": false,
+          "w_score": 52.2,
+          "l_score": 75.7,
           "match_score": 75.7
         },
         {
@@ -11370,9 +11370,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Maya Joint",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 61.8,
           "l_score": 59.6,
           "match_score": 61.8
@@ -11526,7 +11526,7 @@ window.TENNIS_DATA = {
       "Valentin Vacherot"
     ],
     "aliveCount": 50,
-    "matchesSeen": 84
+    "matchesSeen": 85
   },
   "WTA_TOURNAMENT": {
     "name": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
