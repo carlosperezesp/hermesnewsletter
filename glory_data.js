@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-06 15:00 UTC",
+  "UPDATED": "2026-08-07 00:58 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -78,12 +78,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-24"
     },
     {
-      "id": "cycling:stage:Tour de France:18:Richard Carapaz",
-      "sport": "cycling",
-      "detail": "Ciclismo",
-      "text": "Richard Carapaz ganó la última etapa del Tour de France",
-      "weight": 88,
-      "firstSeen": "2026-07-23"
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:Sajid Khan",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "Sajid Khan entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-08-07"
     },
     {
       "id": "rank:football:ROAD_TO_GLORY.dynasties:era:in:Argentina (ciclo actual)",
@@ -111,15 +112,6 @@ window.GLORY_DATA = {
       "text": "Jalen Green entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-07-31"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:in:BA Carse",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "BA Carse entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-07-29"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:CJ Abrams",
@@ -544,13 +536,13 @@ window.GLORY_DATA = {
       "JJ Bumrah",
       "MA Starc",
       "MJ Henry",
+      "JNT Seales",
       "KA Maharaj",
       "RA Jadeja",
       "Taijul Islam",
-      "JNT Seales",
       "Mehedi Hasan Miraz",
       "Nauman Ali",
-      "BA Carse"
+      "Sajid Khan"
     ],
     "athletics:allTime:100m_m": [
       "Usain Bolt",

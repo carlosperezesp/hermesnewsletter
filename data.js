@@ -1800,7 +1800,7 @@ window.NHL_DATA = {
       "name": "Sidney Crosby",
       "pos": "C",
       "teamCode": "PIT",
-      "age": 38,
+      "age": 39,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -9385,7 +9385,7 @@ window.NHL_DATA = {
       "name": "Jake Allen",
       "pos": "G",
       "teamCode": "NJD",
-      "age": 35,
+      "age": 36,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -10151,7 +10151,7 @@ window.NHL_DATA = {
       "name": "Damon Severson",
       "pos": "D",
       "teamCode": "CBJ",
-      "age": 31,
+      "age": 32,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -19828,7 +19828,7 @@ window.NHL_DATA = {
       "name": "Adam Wilsby",
       "pos": "D",
       "teamCode": "NSH",
-      "age": 25,
+      "age": 26,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -19852,8 +19852,7 @@ window.NHL_DATA = {
         45,
         47,
         50
-      ],
-      "legendScore": 44.0
+      ]
     },
     {
       "id": 8482125,
@@ -47977,10 +47976,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-06 14:58 UTC",
+  "LAST_UPDATE": "2026-08-07 00:55 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-06T14:58:15Z"
+    "standingsDateTimeUtc": "2026-08-07T00:55:00Z"
   }
 };
