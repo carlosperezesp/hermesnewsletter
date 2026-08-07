@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-07 07:51 UTC
+// Auto-generated 2026-08-07 13:59 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-07 07:51 UTC",
+  "UPDATED": "2026-08-07 13:59 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11386,26 +11386,26 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Gabriela Knutson",
+          "w": "Carol Young Suh Lee",
           "w_logo": "",
-          "l": "Elizara Yaneva",
+          "l": "Vendula Valdmannova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "Semifinal",
-          "w": "Vendula Valdmannova",
+          "w": "Gabriela Knutson",
           "w_logo": "",
-          "l": "Carol Young Suh Lee",
+          "l": "Elizara Yaneva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-4) 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11678,7 +11678,7 @@ window.TENNIS_DATA = {
       "Yuliia Starodubtseva"
     ],
     "aliveCount": 70,
-    "matchesSeen": 114
+    "matchesSeen": 115
   },
   "ATP_SCORE_LOG": {
     "206173": [

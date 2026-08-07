@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-07 07:49 UTC
+// Auto-generated 2026-08-07 13:57 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-08-07 07:49 UTC",
+  "UPDATED": "2026-08-07 13:57 UTC",
   "SEASON": "2026",
   "ROUND": 22,
   "IMPORTANCE": 8.4,
@@ -34,16 +34,28 @@ window.AFL_DATA = {
       "rank": 3,
       "name": "Hawthorn",
       "wins": 14,
-      "losses": 5,
+      "losses": 6,
       "draws": 1,
       "pts": 58,
-      "percentage": 123.7,
+      "percentage": 118.2,
       "primary": "#4D2004",
       "secondary": "#FFD200",
       "prevRank": 3
     },
     {
       "rank": 4,
+      "name": "Brisbane Lions",
+      "wins": 14,
+      "losses": 7,
+      "draws": 0,
+      "pts": 56,
+      "percentage": 117.8,
+      "primary": "#7B1A4B",
+      "secondary": "#F6AE00",
+      "prevRank": 5
+    },
+    {
+      "rank": 5,
       "name": "Adelaide",
       "wins": 13,
       "losses": 7,
@@ -53,18 +65,6 @@ window.AFL_DATA = {
       "primary": "#002B5C",
       "secondary": "#CC2031",
       "prevRank": 4
-    },
-    {
-      "rank": 5,
-      "name": "Brisbane Lions",
-      "wins": 13,
-      "losses": 7,
-      "draws": 0,
-      "pts": 52,
-      "percentage": 114.8,
-      "primary": "#7B1A4B",
-      "secondary": "#F6AE00",
-      "prevRank": 5
     },
     {
       "rank": 6,
@@ -1065,6 +1065,16 @@ window.AFL_DATA = {
       "date": "2026-08-06",
       "hprimary": "#0039A6",
       "aprimary": "#CC2031"
+    },
+    {
+      "hteam": "Brisbane Lions",
+      "hscore": 125,
+      "ateam": "Hawthorn",
+      "ascore": 58,
+      "winner": "Brisbane Lions",
+      "date": "2026-08-07",
+      "hprimary": "#7B1A4B",
+      "aprimary": "#4D2004"
     }
   ],
   "CURRENT_CONTENDERS": [
