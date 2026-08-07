@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-07 01:04 UTC
+// Auto-generated 2026-08-07 06:21 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-07 01:04 UTC",
+  "UPDATED": "2026-08-07 06:21 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -713,7 +713,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 74.5
@@ -985,7 +985,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R32",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 67.4
@@ -1223,7 +1223,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R32",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 65.6
@@ -2587,7 +2587,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 56.6
@@ -5423,7 +5423,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R32",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 89.8
@@ -5491,7 +5491,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R32",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 85.6
@@ -5729,7 +5729,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 79.5
@@ -6579,7 +6579,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 64.4
@@ -10955,15 +10955,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R32",
-          "w": "Titouan Droguet",
+          "w": "Brandon Nakashima",
           "w_logo": "",
-          "l": "Brandon Nakashima",
+          "l": "Titouan Droguet",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-2 7-5",
           "day": "ayer",
           "scheduled": false,
-          "w_score": 56.6,
-          "l_score": 67.6,
+          "w_score": 67.6,
+          "l_score": 56.6,
           "match_score": 67.6
         },
         {
@@ -11016,15 +11016,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R32",
-          "w": "Frances Tiafoe",
+          "w": "Arthur Rinderknech",
           "w_logo": "",
-          "l": "Arthur Rinderknech",
+          "l": "Frances Tiafoe",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 2-0 ret",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 74.3,
-          "l_score": 65.5,
+          "scheduled": false,
+          "w_score": 65.5,
+          "l_score": 74.3,
           "match_score": 74.3
         },
         {
@@ -11159,7 +11159,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nikola Bartunkova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "3-6 6-0 6-4",
           "day": "ayer",
           "scheduled": false,
           "w_score": 85.5,
@@ -11318,9 +11318,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anastasia Potapova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 89.9,
           "l_score": 79.5,
           "match_score": 89.9
@@ -11526,7 +11526,7 @@ window.TENNIS_DATA = {
       "Valentin Vacherot"
     ],
     "aliveCount": 50,
-    "matchesSeen": 83
+    "matchesSeen": 84
   },
   "WTA_TOURNAMENT": {
     "name": "National Bank Open presented by Rogers · Warsaw T-Mobile Polish Open",
@@ -11678,7 +11678,7 @@ window.TENNIS_DATA = {
       "Yuliia Starodubtseva"
     ],
     "aliveCount": 70,
-    "matchesSeen": 113
+    "matchesSeen": 114
   },
   "ATP_SCORE_LOG": {
     "206173": [
