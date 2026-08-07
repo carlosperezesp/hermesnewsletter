@@ -1,15 +1,15 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-08-07 00:57 UTC",
+  "UPDATED": "2026-08-07 01:04 UTC",
   "LAST_MATCH": "2026-07-18",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 343,
+    "incrementalMatches": 344,
     "teams": 162,
-    "matches": 10038,
+    "matches": 10039,
     "through": "2026-07-18"
   },
   "IMPORTANCE": 7.0,
@@ -39,6 +39,31 @@ window.RUGBY_DATA = {
         "awayScore": 31,
         "venue": "Estadio Único Madre de Ciudades",
         "city": ""
+      },
+      {
+        "date": "2026-07-18",
+        "status": "final",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Fiji",
+          "teamCode": "FIJ",
+          "colors": {
+            "primary": "#6ecff6",
+            "secondary": "#111111"
+          }
+        },
+        "away": {
+          "name": "Scotland",
+          "teamCode": "SCO",
+          "colors": {
+            "primary": "#005eb8",
+            "secondary": "#ffffff"
+          }
+        },
+        "homeScore": 17,
+        "awayScore": 33,
+        "venue": "Scottish Gas Murrayfield",
+        "city": "Edinburgh"
       },
       {
         "date": "2026-07-18",
@@ -397,31 +422,6 @@ window.RUGBY_DATA = {
         "status": "scheduled",
         "competition": "IRB Pacific Nations Cup",
         "home": {
-          "name": "Japan",
-          "teamCode": "JPN",
-          "colors": {
-            "primary": "#bc002d",
-            "secondary": "#ffffff"
-          }
-        },
-        "away": {
-          "name": "United States",
-          "teamCode": "USA",
-          "colors": {
-            "primary": "#3c3b6e",
-            "secondary": "#b22234"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "Hanazono Rugby Stadium",
-        "city": "Osaka"
-      },
-      {
-        "date": "2026-09-12",
-        "status": "scheduled",
-        "competition": "IRB Pacific Nations Cup",
-        "home": {
           "name": "Fiji",
           "teamCode": "FIJ",
           "colors": {
@@ -435,6 +435,31 @@ window.RUGBY_DATA = {
           "colors": {
             "primary": "#8a8178",
             "secondary": "#dedad6"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Hanazono Rugby Stadium",
+        "city": "Osaka"
+      },
+      {
+        "date": "2026-09-12",
+        "status": "scheduled",
+        "competition": "IRB Pacific Nations Cup",
+        "home": {
+          "name": "Japan",
+          "teamCode": "JPN",
+          "colors": {
+            "primary": "#bc002d",
+            "secondary": "#ffffff"
+          }
+        },
+        "away": {
+          "name": "United States",
+          "teamCode": "USA",
+          "colors": {
+            "primary": "#3c3b6e",
+            "secondary": "#b22234"
           }
         },
         "homeScore": null,
@@ -576,15 +601,15 @@ window.RUGBY_DATA = {
       "name": "Scotland",
       "teamCode": "SCO",
       "country": "Scotland",
-      "elo": 2363.9,
-      "eloRaw": 2363.9,
-      "lastMatch": "2026-07-11",
-      "inactiveDays": 7,
-      "peakElo": 2369.9,
-      "peakDate": "2026-07-04",
+      "elo": 2384.1,
+      "eloRaw": 2384.1,
+      "lastMatch": "2026-07-18",
+      "inactiveDays": 0,
+      "peakElo": 2384.1,
+      "peakDate": "2026-07-18",
       "worldCups": 0,
       "record": {
-        "w": 345,
+        "w": 346,
         "l": 394,
         "d": 63
       },
@@ -592,7 +617,7 @@ window.RUGBY_DATA = {
         "primary": "#005eb8",
         "secondary": "#ffffff"
       },
-      "note": "345V-394D-63E · último 2026-07-11 · raw 2364"
+      "note": "346V-394D-63E · último 2026-07-18 · raw 2384"
     },
     {
       "rank": 7,
@@ -645,23 +670,23 @@ window.RUGBY_DATA = {
       "name": "Fiji",
       "teamCode": "FIJ",
       "country": "Fiji",
-      "elo": 2162.7,
-      "eloRaw": 2162.7,
-      "lastMatch": "2026-07-11",
-      "inactiveDays": 7,
+      "elo": 2142.5,
+      "eloRaw": 2142.5,
+      "lastMatch": "2026-07-18",
+      "inactiveDays": 0,
       "peakElo": 2249.9,
       "peakDate": "2025-09-21",
       "worldCups": 0,
       "record": {
         "w": 182,
-        "l": 166,
+        "l": 167,
         "d": 10
       },
       "colors": {
         "primary": "#6ecff6",
         "secondary": "#111111"
       },
-      "note": "182V-166D-10E · último 2026-07-11 · raw 2163"
+      "note": "182V-167D-10E · último 2026-07-18 · raw 2142"
     },
     {
       "rank": 10,
