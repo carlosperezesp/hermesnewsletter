@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-07 21:00 UTC
+// Auto-generated 2026-08-07 22:01 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-07 21:00 UTC",
+  "UPDATED": "2026-08-07 22:01 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11085,7 +11085,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Botic Van De Zandschulp",
           "l_logo": "",
-          "score": "3-6 7-6 (7-4)",
+          "score": "In Progress",
           "day": "hoy",
           "scheduled": false,
           "w_score": 62.7,
