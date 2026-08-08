@@ -11173,7 +11173,7 @@ window.NHL_DATA = {
       "name": "Ridly Greig",
       "pos": "C",
       "teamCode": "OTT",
-      "age": 23,
+      "age": 24,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -11199,7 +11199,7 @@ window.NHL_DATA = {
         50,
         58
       ],
-      "legendScore": 48.8
+      "legendScore": 48.3
     },
     {
       "id": 8478854,
@@ -47976,10 +47976,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-07 21:59 UTC",
+  "LAST_UPDATE": "2026-08-08 05:56 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-07T21:59:16Z"
+    "standingsDateTimeUtc": "2026-08-08T05:56:15Z"
   }
 };

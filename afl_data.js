@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-07 22:00 UTC
+// Auto-generated 2026-08-08 05:57 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-08-07 22:00 UTC",
+  "UPDATED": "2026-08-08 05:57 UTC",
   "SEASON": "2026",
   "ROUND": 22,
   "IMPORTANCE": 8.4,
@@ -10,10 +10,10 @@ window.AFL_DATA = {
       "rank": 1,
       "name": "Fremantle",
       "wins": 18,
-      "losses": 2,
+      "losses": 3,
       "draws": 0,
       "pts": 72,
-      "percentage": 147.3,
+      "percentage": 143.4,
       "primary": "#2A0D54",
       "secondary": "#FFFFFF",
       "prevRank": 1
@@ -56,6 +56,18 @@ window.AFL_DATA = {
     },
     {
       "rank": 5,
+      "name": "Melbourne",
+      "wins": 14,
+      "losses": 7,
+      "draws": 0,
+      "pts": 56,
+      "percentage": 107.6,
+      "primary": "#CC2031",
+      "secondary": "#013B9F",
+      "prevRank": 6
+    },
+    {
+      "rank": 6,
       "name": "Adelaide",
       "wins": 13,
       "losses": 7,
@@ -65,18 +77,6 @@ window.AFL_DATA = {
       "primary": "#002B5C",
       "secondary": "#CC2031",
       "prevRank": 5
-    },
-    {
-      "rank": 6,
-      "name": "Melbourne",
-      "wins": 13,
-      "losses": 7,
-      "draws": 0,
-      "pts": 52,
-      "percentage": 107.8,
-      "primary": "#CC2031",
-      "secondary": "#013B9F",
-      "prevRank": 6
     },
     {
       "rank": 7,
@@ -1075,6 +1075,16 @@ window.AFL_DATA = {
       "date": "2026-08-07",
       "hprimary": "#7B1A4B",
       "aprimary": "#4D2004"
+    },
+    {
+      "hteam": "Melbourne",
+      "hscore": 113,
+      "ateam": "Fremantle",
+      "ascore": 109,
+      "winner": "Melbourne",
+      "date": "2026-08-08",
+      "hprimary": "#CC2031",
+      "aprimary": "#2A0D54"
     }
   ],
   "CURRENT_CONTENDERS": [

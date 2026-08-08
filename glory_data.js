@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-07 22:01 UTC",
+  "UPDATED": "2026-08-08 05:58 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -68,14 +68,6 @@ window.GLORY_DATA = {
       "text": "Richard Carapaz ganó la última etapa del Tour de France",
       "weight": 88,
       "firstSeen": "2026-07-25"
-    },
-    {
-      "id": "cycling:stage:Tour de France:19:Tadej Pogačar",
-      "sport": "cycling",
-      "detail": "Ciclismo",
-      "text": "Tadej Pogačar ganó la última etapa del Tour de France",
-      "weight": 88,
-      "firstSeen": "2026-07-24"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:Sajid Khan",
@@ -525,8 +517,8 @@ window.GLORY_DATA = {
       "Sydney",
       "Hawthorn",
       "Brisbane Lions",
-      "Adelaide",
       "Melbourne",
+      "Adelaide",
       "Geelong",
       "Western Bulldogs",
       "Collingwood",

@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-08-07 22:01 UTC",
+  "UPDATED": "2026-08-08 05:58 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1590,
+    "matches": 1588,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 900
+        "matches": 898
       },
       {
         "name": "IPL",
@@ -1684,6 +1684,24 @@ window.CRICKET_DATA = {
           "wickets": 113
         },
         {
+          "id": "bilal-zalmai",
+          "name": "Bilal Zalmai",
+          "role": "All-rounder",
+          "country": "Austria",
+          "teamCode": "AUS",
+          "colors": {
+            "primary": "#555555",
+            "secondary": "#dddddd"
+          },
+          "logo": "",
+          "score": 81.5,
+          "batting": 29.7,
+          "bowling": 53.0,
+          "overall": 81.5,
+          "runs": 1285,
+          "wickets": 61
+        },
+        {
           "id": "mj-santner",
           "name": "MJ Santner",
           "role": "Bowler",
@@ -1700,24 +1718,6 @@ window.CRICKET_DATA = {
           "overall": 81.4,
           "runs": 973,
           "wickets": 91
-        },
-        {
-          "id": "bilal-zalmai",
-          "name": "Bilal Zalmai",
-          "role": "All-rounder",
-          "country": "Austria",
-          "teamCode": "AUS",
-          "colors": {
-            "primary": "#555555",
-            "secondary": "#dddddd"
-          },
-          "logo": "",
-          "score": 81.0,
-          "batting": 29.0,
-          "bowling": 53.6,
-          "overall": 81.0,
-          "runs": 1295,
-          "wickets": 62
         },
         {
           "id": "virandeep-singh",
@@ -2278,12 +2278,12 @@ window.CRICKET_DATA = {
             "secondary": "#dddddd"
           },
           "logo": "",
-          "score": 79.3,
-          "batting": 29.0,
-          "bowling": 47.3,
-          "overall": 79.3,
-          "runs": 1295,
-          "wickets": 62
+          "score": 79.7,
+          "batting": 29.7,
+          "bowling": 46.7,
+          "overall": 79.7,
+          "runs": 1285,
+          "wickets": 61
         },
         {
           "id": "virandeep-singh",
