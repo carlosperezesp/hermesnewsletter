@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-08 14:09 UTC
+// Auto-generated 2026-08-08 20:48 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-08-08 14:09 UTC",
+  "UPDATED": "2026-08-08 20:48 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -297,27 +297,6 @@ window.CYCLING_DATA = {
       "prevRank": 14
     },
     {
-      "id": "jonas_vingegaard",
-      "name": "Jonas Vingegaard",
-      "country": "DEN",
-      "logo": "https://flagcdn.com/24x18/dk.png",
-      "teamCode": "DEN",
-      "primary": "#C60C30",
-      "secondary": "#FFFFFF",
-      "legendScore": 20.4,
-      "active": true,
-      "age": 30,
-      "stats": {
-        "tour": 2,
-        "giro": 1,
-        "vuelta": 1,
-        "monuments": 0,
-        "worlds": 0,
-        "birth": 1996
-      },
-      "prevRank": 15
-    },
-    {
       "id": "peter_sagan",
       "name": "Peter Sagan",
       "country": "SVK",
@@ -358,6 +337,27 @@ window.CYCLING_DATA = {
         "birth": 1947
       },
       "prevRank": 17
+    },
+    {
+      "id": "jonas_vingegaard",
+      "name": "Jonas Vingegaard",
+      "country": "DEN",
+      "logo": "https://flagcdn.com/24x18/dk.png",
+      "teamCode": "DEN",
+      "primary": "#C60C30",
+      "secondary": "#FFFFFF",
+      "legendScore": 15.9,
+      "active": true,
+      "age": 30,
+      "stats": {
+        "tour": 2,
+        "giro": 0,
+        "vuelta": 1,
+        "monuments": 0,
+        "worlds": 0,
+        "birth": 1996
+      },
+      "prevRank": 15
     },
     {
       "id": "sean_kelly",
@@ -469,28 +469,6 @@ window.CYCLING_DATA = {
       "insight": "Palmarés de Grand Tour ya muy serio"
     },
     {
-      "id": "jonas_vingegaard",
-      "name": "Jonas Vingegaard",
-      "country": "DEN",
-      "logo": "https://flagcdn.com/24x18/dk.png",
-      "teamCode": "DEN",
-      "primary": "#C60C30",
-      "secondary": "#FFFFFF",
-      "legendScore": 20.4,
-      "active": true,
-      "age": 30,
-      "stats": {
-        "tour": 2,
-        "giro": 1,
-        "vuelta": 1,
-        "monuments": 0,
-        "worlds": 0,
-        "birth": 1996
-      },
-      "prevRank": 3,
-      "insight": "Palmarés de Grand Tour ya muy serio"
-    },
-    {
       "id": "mathieu_van_der_poel",
       "name": "Mathieu van der Poel",
       "country": "NED",
@@ -511,6 +489,28 @@ window.CYCLING_DATA = {
       },
       "prevRank": 4,
       "insight": "Legado de clásicas y Mundial sostienen su score"
+    },
+    {
+      "id": "jonas_vingegaard",
+      "name": "Jonas Vingegaard",
+      "country": "DEN",
+      "logo": "https://flagcdn.com/24x18/dk.png",
+      "teamCode": "DEN",
+      "primary": "#C60C30",
+      "secondary": "#FFFFFF",
+      "legendScore": 15.9,
+      "active": true,
+      "age": 30,
+      "stats": {
+        "tour": 2,
+        "giro": 0,
+        "vuelta": 1,
+        "monuments": 0,
+        "worlds": 0,
+        "birth": 1996
+      },
+      "prevRank": 3,
+      "insight": "Base de grandes vueltas; el siguiente salto pesa mucho"
     },
     {
       "id": "remco_evenepoel",
@@ -623,26 +623,25 @@ window.CYCLING_DATA = {
       "insight": "Una grande ya cuenta; necesita repetir para escalar"
     },
     {
-      "id": "wout_van_aert",
-      "name": "Wout van Aert",
-      "country": "BEL",
-      "logo": "https://flagcdn.com/24x18/be.png",
-      "teamCode": "BEL",
-      "primary": "#000000",
+      "id": "jonas_vingegaard_hansen",
+      "name": "Jonas Vingegaard Hansen",
+      "country": "DEN",
+      "logo": "https://flagcdn.com/24x18/dk.png",
+      "teamCode": "DEN",
+      "primary": "#C60C30",
       "secondary": "#FFFFFF",
-      "legendScore": 4.0,
-      "active": true,
-      "age": 32,
+      "legendScore": 4.5,
+      "active": false,
+      "age": null,
       "stats": {
         "tour": 0,
-        "giro": 0,
+        "giro": 1,
         "vuelta": 0,
-        "monuments": 2,
+        "monuments": 0,
         "worlds": 0,
-        "birth": 1994
+        "birth": null
       },
-      "prevRank": 10,
-      "insight": "Necesita una victoria mayor para activar el salto histórico"
+      "insight": "Una grande ya cuenta; necesita repetir para escalar"
     }
   ],
   "CURRENT_PROSPECTS": [
@@ -892,7 +891,7 @@ window.CYCLING_DATA = {
       "end": "2026-06-01",
       "status": "finished",
       "winner": {
-        "name": "Jonas Vingegaard",
+        "name": "Jonas Vingegaard Hansen",
         "cc3": "DEN",
         "logo": "https://flagcdn.com/24x18/dk.png",
         "color": "#C60C30"

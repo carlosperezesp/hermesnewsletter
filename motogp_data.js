@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-08 14:10 UTC
+// Auto-generated 2026-08-08 20:48 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-08-08 14:10 UTC",
+  "UPDATED": "2026-08-08 20:48 UTC",
   "SEASON": "2026",
   "ROUND": 11,
   "TOTAL_ROUNDS": 22,
@@ -15,12 +15,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 208.0,
-      "score": 37.8,
+      "points": 220.0,
+      "score": 40.0,
       "stats": {
-        "pts": 208.0
+        "pts": 220.0
       },
-      "seasonPct": 37.8,
+      "seasonPct": 40.0,
       "prevRank": 1,
       "age": 28
     },
@@ -32,48 +32,48 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/jp.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 194.0,
-      "score": 35.3,
+      "points": 203.0,
+      "score": 36.9,
       "stats": {
-        "pts": 194.0
+        "pts": 203.0
       },
-      "seasonPct": 35.3,
+      "seasonPct": 36.9,
       "prevRank": 2,
       "age": 25
     },
     {
       "position": 3,
-      "name": "Marc Márquez",
-      "country": "ESP",
-      "bike": "Ducati",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "primary": "#CC0000",
-      "secondary": "#FFD200",
-      "points": 190.0,
-      "score": 34.5,
-      "stats": {
-        "pts": 190.0
-      },
-      "seasonPct": 34.5,
-      "prevRank": 3,
-      "age": 33
-    },
-    {
-      "position": 4,
       "name": "Marco Bezzecchi",
       "country": "ITA",
       "bike": "Aprilia",
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 186.0,
-      "score": 33.8,
+      "points": 195.0,
+      "score": 35.5,
       "stats": {
-        "pts": 186.0
+        "pts": 195.0
       },
-      "seasonPct": 33.8,
+      "seasonPct": 35.5,
       "prevRank": 4,
       "age": 28
+    },
+    {
+      "position": 4,
+      "name": "Marc Márquez",
+      "country": "ESP",
+      "bike": "Ducati",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "primary": "#CC0000",
+      "secondary": "#FFD200",
+      "points": 191.0,
+      "score": 34.7,
+      "stats": {
+        "pts": 191.0
+      },
+      "seasonPct": 34.7,
+      "prevRank": 3,
+      "age": 33
     },
     {
       "position": 5,
@@ -83,12 +83,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 184.0,
-      "score": 33.5,
+      "points": 189.0,
+      "score": 34.4,
       "stats": {
-        "pts": 184.0
+        "pts": 189.0
       },
-      "seasonPct": 33.5,
+      "seasonPct": 34.4,
       "prevRank": 5,
       "age": 28
     },
@@ -117,12 +117,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#E86825",
       "secondary": "#000000",
-      "points": 148.0,
-      "score": 26.9,
+      "points": 152.0,
+      "score": 27.6,
       "stats": {
-        "pts": 148.0
+        "pts": 152.0
       },
-      "seasonPct": 26.9,
+      "seasonPct": 27.6,
       "prevRank": 7,
       "age": 22
     },
@@ -151,12 +151,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 87.0,
-      "score": 15.8,
+      "points": 93.0,
+      "score": 16.9,
       "stats": {
-        "pts": 87.0
+        "pts": 93.0
       },
-      "seasonPct": 15.8,
+      "seasonPct": 16.9,
       "prevRank": 9,
       "age": 30
     },
@@ -186,7 +186,7 @@ window.MOTOGP_DATA = {
       "primary": "#003366",
       "secondary": "#E8002D",
       "bike": "Aprilia",
-      "score": 35.3,
+      "score": 36.9,
       "position": 2,
       "age": 25,
       "note": "Top 2 a los 25"
@@ -198,7 +198,7 @@ window.MOTOGP_DATA = {
       "primary": "#E86825",
       "secondary": "#000000",
       "bike": "KTM",
-      "score": 26.9,
+      "score": 27.6,
       "position": 7,
       "age": 22,
       "note": "Irrumpe a los 22 (P7)"

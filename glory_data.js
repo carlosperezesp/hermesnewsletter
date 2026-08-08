@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-08 14:10 UTC",
+  "UPDATED": "2026-08-08 20:49 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -68,6 +68,15 @@ window.GLORY_DATA = {
       "text": "Richard Carapaz ganó la última etapa del Tour de France",
       "weight": 88,
       "firstSeen": "2026-07-25"
+    },
+    {
+      "id": "rank:cycling:CURRENT_RIDERS:in:Jonas Vingegaard Hansen",
+      "sport": "cycling",
+      "detail": "Ciclismo",
+      "anchor": "cycling-corredores-actuales",
+      "text": "Jonas Vingegaard Hansen entra en el top-10 · corredores actuales",
+      "weight": 84,
+      "firstSeen": "2026-08-08"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:Sajid Khan",
@@ -140,6 +149,15 @@ window.GLORY_DATA = {
       "text": "Kyle Schwarber entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-07-25"
+    },
+    {
+      "id": "rank:cycling:CURRENT_RIDERS:out:Wout van Aert",
+      "sport": "cycling",
+      "detail": "Ciclismo",
+      "anchor": "cycling-corredores-actuales",
+      "text": "Wout van Aert cae del top-10 · corredores actuales",
+      "weight": 74,
+      "firstSeen": "2026-08-08"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:VJ Edgecombe",
@@ -367,14 +385,14 @@ window.GLORY_DATA = {
     "cycling:CURRENT_RIDERS": [
       "Tadej Pogacar",
       "Primoz Roglic",
-      "Jonas Vingegaard",
       "Mathieu van der Poel",
+      "Jonas Vingegaard",
       "Remco Evenepoel",
       "Egan Bernal",
       "Julian Alaphilippe",
       "Richard Carapaz",
       "Jai Hindley",
-      "Wout van Aert"
+      "Jonas Vingegaard Hansen"
     ],
     "cycling:CURRENT_PROSPECTS": [
       "Isaac del Toro",
@@ -419,8 +437,8 @@ window.GLORY_DATA = {
     "motogp:RIDERS": [
       "Jorge Martín",
       "Ai Ogura",
-      "Marc Márquez",
       "Marco Bezzecchi",
+      "Marc Márquez",
       "Fabio Di Giannantonio",
       "Raúl Fernández",
       "Pedro Acosta",

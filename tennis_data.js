@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-08 14:10 UTC
+// Auto-generated 2026-08-08 20:49 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-08 14:10 UTC",
+  "UPDATED": "2026-08-08 20:49 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1839,7 +1839,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 61.9
@@ -5321,7 +5321,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 90.5
@@ -5355,7 +5355,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 90.3
@@ -5389,7 +5389,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 90.0
@@ -5899,7 +5899,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 75.2
@@ -11020,9 +11020,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Arthur Rinderknech",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 67.6,
           "l_score": 65.5,
           "match_score": 67.6
@@ -11033,9 +11033,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nuno Borges",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 6-3 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 65.8,
           "l_score": 61.2,
           "match_score": 65.8
@@ -11227,24 +11227,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Marta Kostyuk",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "3-6 6-1 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.5,
           "l_score": 90.3,
           "match_score": 90.5
         },
         {
           "round": "R16",
-          "w": "Jessica Pegula",
+          "w": "Diana Shnaider",
           "w_logo": "",
-          "l": "Diana Shnaider",
+          "l": "Jessica Pegula",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 90.0,
-          "l_score": 75.3,
+          "scheduled": false,
+          "w_score": 75.3,
+          "l_score": 90.0,
           "match_score": 90.0
         },
         {
@@ -11548,7 +11548,7 @@ window.TENNIS_DATA = {
       "Yuliia Starodubtseva"
     ],
     "aliveCount": 70,
-    "matchesSeen": 119
+    "matchesSeen": 120
   },
   "ATP_SCORE_LOG": {
     "206173": [
