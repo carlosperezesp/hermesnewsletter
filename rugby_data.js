@@ -1,20 +1,45 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-08-08 07:26 UTC",
-  "LAST_MATCH": "2026-07-18",
+  "UPDATED": "2026-08-08 13:31 UTC",
+  "LAST_MATCH": "2026-08-08",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 344,
+    "incrementalMatches": 345,
     "teams": 162,
-    "matches": 10039,
-    "through": "2026-07-18"
+    "matches": 10040,
+    "through": "2026-08-08"
   },
   "IMPORTANCE": 7.0,
   "CALENDAR": {
     "recent": [
+      {
+        "date": "2026-08-08",
+        "status": "final",
+        "competition": "International Test Match",
+        "home": {
+          "name": "Japan",
+          "teamCode": "JPN",
+          "colors": {
+            "primary": "#bc002d",
+            "secondary": "#ffffff"
+          }
+        },
+        "away": {
+          "name": "Australia",
+          "teamCode": "AUS",
+          "colors": {
+            "primary": "#ffcd00",
+            "secondary": "#00843d"
+          }
+        },
+        "homeScore": 32,
+        "awayScore": 35,
+        "venue": "Hanazono Rugby Stadium",
+        "city": "Osaka"
+      },
       {
         "date": "2026-07-18",
         "status": "final",
@@ -191,31 +216,6 @@ window.RUGBY_DATA = {
         "awayScore": null,
         "venue": "Estadio José Amalfitani",
         "city": "Buenos Aires"
-      },
-      {
-        "date": "2026-08-08",
-        "status": "scheduled",
-        "competition": "International Test Match",
-        "home": {
-          "name": "Japan",
-          "teamCode": "JPN",
-          "colors": {
-            "primary": "#bc002d",
-            "secondary": "#ffffff"
-          }
-        },
-        "away": {
-          "name": "Australia",
-          "teamCode": "AUS",
-          "colors": {
-            "primary": "#ffcd00",
-            "secondary": "#00843d"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "Hanazono Rugby Stadium",
-        "city": "Osaka"
       },
       {
         "date": "2026-08-15",
@@ -466,6 +466,31 @@ window.RUGBY_DATA = {
         "awayScore": null,
         "venue": "Hanazono Rugby Stadium",
         "city": "Osaka"
+      },
+      {
+        "date": "2026-09-27",
+        "status": "scheduled",
+        "competition": "International Test Match",
+        "home": {
+          "name": "Australia",
+          "teamCode": "AUS",
+          "colors": {
+            "primary": "#ffcd00",
+            "secondary": "#00843d"
+          }
+        },
+        "away": {
+          "name": "South Africa",
+          "teamCode": "RSA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb612"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Optus Stadium",
+        "city": "Perth"
       }
     ]
   },
@@ -489,7 +514,7 @@ window.RUGBY_DATA = {
       "elo": 2716.7,
       "eloRaw": 2716.7,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 0,
+      "inactiveDays": 21,
       "peakElo": 2716.7,
       "peakDate": "2026-07-18",
       "worldCups": 4,
@@ -512,7 +537,7 @@ window.RUGBY_DATA = {
       "elo": 2641.2,
       "eloRaw": 2641.2,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 0,
+      "inactiveDays": 21,
       "peakElo": 2749.6,
       "peakDate": "2016-10-22",
       "worldCups": 3,
@@ -535,7 +560,7 @@ window.RUGBY_DATA = {
       "elo": 2542.3,
       "eloRaw": 2542.3,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 0,
+      "inactiveDays": 21,
       "peakElo": 2684.1,
       "peakDate": "2023-10-07",
       "worldCups": 0,
@@ -558,7 +583,7 @@ window.RUGBY_DATA = {
       "elo": 2521.7,
       "eloRaw": 2521.7,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 0,
+      "inactiveDays": 21,
       "peakElo": 2587.1,
       "peakDate": "2025-03-15",
       "worldCups": 0,
@@ -581,7 +606,7 @@ window.RUGBY_DATA = {
       "elo": 2423.1,
       "eloRaw": 2423.1,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 0,
+      "inactiveDays": 21,
       "peakElo": 2568.0,
       "peakDate": "2019-10-26",
       "worldCups": 1,
@@ -604,7 +629,7 @@ window.RUGBY_DATA = {
       "elo": 2384.1,
       "eloRaw": 2384.1,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 0,
+      "inactiveDays": 21,
       "peakElo": 2384.1,
       "peakDate": "2026-07-18",
       "worldCups": 0,
@@ -627,7 +652,7 @@ window.RUGBY_DATA = {
       "elo": 2291.1,
       "eloRaw": 2291.1,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 0,
+      "inactiveDays": 21,
       "peakElo": 2354.6,
       "peakDate": "2025-11-16",
       "worldCups": 0,
@@ -647,15 +672,15 @@ window.RUGBY_DATA = {
       "name": "Australia",
       "teamCode": "AUS",
       "country": "Australia",
-      "elo": 2212.3,
-      "eloRaw": 2212.3,
-      "lastMatch": "2026-07-18",
+      "elo": 2223.8,
+      "eloRaw": 2223.8,
+      "lastMatch": "2026-08-08",
       "inactiveDays": 0,
       "peakElo": 2471.1,
       "peakDate": "2015-10-25",
       "worldCups": 2,
       "record": {
-        "w": 349,
+        "w": 350,
         "l": 336,
         "d": 20
       },
@@ -663,7 +688,7 @@ window.RUGBY_DATA = {
         "primary": "#ffcd00",
         "secondary": "#00843d"
       },
-      "note": "349V-336D-20E · último 2026-07-18 · raw 2212"
+      "note": "350V-336D-20E · último 2026-08-08 · raw 2224"
     },
     {
       "rank": 9,
@@ -673,7 +698,7 @@ window.RUGBY_DATA = {
       "elo": 2142.5,
       "eloRaw": 2142.5,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 0,
+      "inactiveDays": 21,
       "peakElo": 2249.9,
       "peakDate": "2025-09-21",
       "worldCups": 0,
@@ -696,7 +721,7 @@ window.RUGBY_DATA = {
       "elo": 2091.9,
       "eloRaw": 2091.9,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 0,
+      "inactiveDays": 21,
       "peakElo": 2470.8,
       "peakDate": "2019-03-16",
       "worldCups": 0,

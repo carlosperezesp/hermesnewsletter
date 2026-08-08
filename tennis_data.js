@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-08 07:26 UTC
+// Auto-generated 2026-08-08 13:32 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-08 07:26 UTC",
+  "UPDATED": "2026-08-08 13:32 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11273,9 +11273,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Carol Young Suh Lee",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
