@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-08 13:32 UTC
+// Auto-generated 2026-08-08 14:10 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-08 13:32 UTC",
+  "UPDATED": "2026-08-08 14:10 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11269,11 +11269,11 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Gabriela Knutson",
+          "w": "Carol Young Suh Lee",
           "w_logo": "",
-          "l": "Carol Young Suh Lee",
+          "l": "Gabriela Knutson",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
