@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-08 20:48 UTC
+// Auto-generated 2026-08-08 21:50 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-08-08 20:48 UTC",
+  "UPDATED": "2026-08-08 21:50 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -315,7 +315,7 @@ window.CYCLING_DATA = {
         "worlds": 3,
         "birth": 1990
       },
-      "prevRank": 16
+      "prevRank": 15
     },
     {
       "id": "roger_de_vlaeminck",
@@ -336,7 +336,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1947
       },
-      "prevRank": 17
+      "prevRank": 16
     },
     {
       "id": "jonas_vingegaard",
@@ -357,7 +357,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1996
       },
-      "prevRank": 15
+      "prevRank": 17
     },
     {
       "id": "sean_kelly",
@@ -487,7 +487,7 @@ window.CYCLING_DATA = {
         "worlds": 1,
         "birth": 1995
       },
-      "prevRank": 4,
+      "prevRank": 3,
       "insight": "Legado de clásicas y Mundial sostienen su score"
     },
     {
@@ -509,7 +509,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1996
       },
-      "prevRank": 3,
+      "prevRank": 4,
       "insight": "Base de grandes vueltas; el siguiente salto pesa mucho"
     },
     {
@@ -641,6 +641,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": null
       },
+      "prevRank": 10,
       "insight": "Una grande ya cuenta; necesita repetir para escalar"
     }
   ],

@@ -1,20 +1,45 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-08-08 20:49 UTC",
+  "UPDATED": "2026-08-08 21:52 UTC",
   "LAST_MATCH": "2026-08-08",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 345,
+    "incrementalMatches": 346,
     "teams": 162,
-    "matches": 10040,
+    "matches": 10041,
     "through": "2026-08-08"
   },
   "IMPORTANCE": 7.0,
   "CALENDAR": {
     "recent": [
+      {
+        "date": "2026-08-08",
+        "status": "final",
+        "competition": "International Test Match",
+        "home": {
+          "name": "Argentina",
+          "teamCode": "ARG",
+          "colors": {
+            "primary": "#75aadb",
+            "secondary": "#f6b40e"
+          }
+        },
+        "away": {
+          "name": "South Africa",
+          "teamCode": "RSA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb612"
+          }
+        },
+        "homeScore": 10,
+        "awayScore": 17,
+        "venue": "Estadio José Amalfitani",
+        "city": "Buenos Aires"
+      },
       {
         "date": "2026-08-08",
         "status": "final",
@@ -192,31 +217,6 @@ window.RUGBY_DATA = {
       }
     ],
     "upcoming": [
-      {
-        "date": "2026-08-08",
-        "status": "scheduled",
-        "competition": "International Test Match",
-        "home": {
-          "name": "Argentina",
-          "teamCode": "ARG",
-          "colors": {
-            "primary": "#75aadb",
-            "secondary": "#f6b40e"
-          }
-        },
-        "away": {
-          "name": "South Africa",
-          "teamCode": "RSA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb612"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "Estadio José Amalfitani",
-        "city": "Buenos Aires"
-      },
       {
         "date": "2026-08-15",
         "status": "scheduled",
@@ -491,6 +491,31 @@ window.RUGBY_DATA = {
         "awayScore": null,
         "venue": "Optus Stadium",
         "city": "Perth"
+      },
+      {
+        "date": "2026-10-10",
+        "status": "scheduled",
+        "competition": "International Test Match",
+        "home": {
+          "name": "New Zealand",
+          "teamCode": "NZL",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          }
+        },
+        "away": {
+          "name": "Australia",
+          "teamCode": "AUS",
+          "colors": {
+            "primary": "#ffcd00",
+            "secondary": "#00843d"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Eden Park",
+        "city": "Auckland"
       }
     ]
   },
@@ -511,15 +536,15 @@ window.RUGBY_DATA = {
       "name": "South Africa",
       "teamCode": "RSA",
       "country": "South Africa",
-      "elo": 2716.7,
-      "eloRaw": 2716.7,
-      "lastMatch": "2026-07-18",
-      "inactiveDays": 21,
-      "peakElo": 2716.7,
-      "peakDate": "2026-07-18",
+      "elo": 2722.0,
+      "eloRaw": 2722.0,
+      "lastMatch": "2026-08-08",
+      "inactiveDays": 0,
+      "peakElo": 2722.0,
+      "peakDate": "2026-08-08",
       "worldCups": 4,
       "record": {
-        "w": 359,
+        "w": 360,
         "l": 178,
         "d": 25
       },
@@ -527,7 +552,7 @@ window.RUGBY_DATA = {
         "primary": "#007a4d",
         "secondary": "#ffb612"
       },
-      "note": "359V-178D-25E · último 2026-07-18 · raw 2717"
+      "note": "360V-178D-25E · último 2026-08-08 · raw 2722"
     },
     {
       "rank": 2,
@@ -649,23 +674,23 @@ window.RUGBY_DATA = {
       "name": "Argentina",
       "teamCode": "ARG",
       "country": "Argentina",
-      "elo": 2291.1,
-      "eloRaw": 2291.1,
-      "lastMatch": "2026-07-18",
-      "inactiveDays": 21,
+      "elo": 2285.8,
+      "eloRaw": 2285.8,
+      "lastMatch": "2026-08-08",
+      "inactiveDays": 0,
       "peakElo": 2354.6,
       "peakDate": "2025-11-16",
       "worldCups": 0,
       "record": {
         "w": 259,
-        "l": 230,
+        "l": 231,
         "d": 13
       },
       "colors": {
         "primary": "#75aadb",
         "secondary": "#f6b40e"
       },
-      "note": "259V-230D-13E · último 2026-07-18 · raw 2291"
+      "note": "259V-231D-13E · último 2026-08-08 · raw 2286"
     },
     {
       "rank": 8,
