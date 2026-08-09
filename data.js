@@ -29553,9 +29553,9 @@ window.NHL_DATA = {
       "name": "Ville Koivunen",
       "pos": "RW",
       "teamCode": "PIT",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 23,
+      "country": "Finland",
+      "birthCountry": "FIN",
       "colors": {
         "primary": "#111111",
         "secondary": "#cfc493"
@@ -47976,10 +47976,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-08 21:50 UTC",
+  "LAST_UPDATE": "2026-08-09 05:57 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-08T21:50:00Z"
+    "standingsDateTimeUtc": "2026-08-09T05:57:15Z"
   }
 };

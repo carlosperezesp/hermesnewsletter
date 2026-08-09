@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-08 21:52 UTC",
+  "UPDATED": "2026-08-09 06:00 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -19,14 +19,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-07-27"
     },
     {
-      "id": "f1:win:AWS Hungarian Grand Prix:Charles Leclerc",
-      "sport": "f1",
-      "detail": "F1",
-      "text": "Charles Leclerc ganó el AWS Hungarian Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-07-25"
-    },
-    {
       "id": "rank:football:TEAMS:new1:Argentina",
       "sport": "football",
       "detail": "Fútbol",
@@ -34,15 +26,6 @@ window.GLORY_DATA = {
       "text": "Argentina es nuevo nº1 · Ranking Elo",
       "weight": 92,
       "firstSeen": "2026-08-04"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:new1:Shohei Ohtani",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "Shohei Ohtani es nuevo nº1 · Road to Glory",
-      "weight": 92,
-      "firstSeen": "2026-07-25"
     },
     {
       "id": "rank:athletics:allTime:400mh_m:in:Alison Dos Santos",
@@ -60,14 +43,6 @@ window.GLORY_DATA = {
       "text": "Mathieu van der Poel ganó la última etapa del Tour de France",
       "weight": 88,
       "firstSeen": "2026-07-26"
-    },
-    {
-      "id": "cycling:stage:Tour de France:20:Richard Carapaz",
-      "sport": "cycling",
-      "detail": "Ciclismo",
-      "text": "Richard Carapaz ganó la última etapa del Tour de France",
-      "weight": 88,
-      "firstSeen": "2026-07-25"
     },
     {
       "id": "rank:cycling:CURRENT_RIDERS:in:Jonas Vingegaard Hansen",
@@ -122,33 +97,6 @@ window.GLORY_DATA = {
       "text": "CJ Abrams entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-07-26"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Freddie Freeman",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "Freddie Freeman entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-07-25"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Bryce Harper",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "Bryce Harper entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-07-25"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Kyle Schwarber",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "Kyle Schwarber entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-07-25"
     },
     {
       "id": "rank:cycling:CURRENT_RIDERS:out:Wout van Aert",
@@ -548,8 +496,8 @@ window.GLORY_DATA = {
       "MJ Henry",
       "JNT Seales",
       "KA Maharaj",
-      "RA Jadeja",
       "Taijul Islam",
+      "RA Jadeja",
       "Mehedi Hasan Miraz",
       "Nauman Ali",
       "Sajid Khan"

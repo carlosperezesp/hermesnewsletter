@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-08 21:51 UTC
+// Auto-generated 2026-08-09 05:58 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-08-08 21:51 UTC",
+  "UPDATED": "2026-08-09 05:58 UTC",
   "SEASON": "2026",
   "ROUND": 22,
   "IMPORTANCE": 8.4,
@@ -1115,6 +1115,16 @@ window.AFL_DATA = {
       "date": "2026-08-08",
       "hprimary": "#002B5C",
       "aprimary": "#FFD200"
+    },
+    {
+      "hteam": "Greater Western Sydney",
+      "hscore": 77,
+      "ateam": "Gold Coast",
+      "ascore": 79,
+      "winner": "Gold Coast",
+      "date": "2026-08-09",
+      "hprimary": "#F57F00",
+      "aprimary": "#C5002F"
     }
   ],
   "CURRENT_CONTENDERS": [
