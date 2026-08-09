@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-09 07:27 UTC
+// Auto-generated 2026-08-09 13:35 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-08-09 07:27 UTC",
+  "UPDATED": "2026-08-09 13:35 UTC",
   "SEASON": "2026",
   "ROUND": 11,
   "TOTAL_ROUNDS": 22,
@@ -282,36 +282,36 @@ window.MOTOGP_DATA = {
     }
   ],
   "LAST_RACE": {
-    "round": 11,
-    "name": "German motorcycle Grand Prix",
-    "winner": "Marc Márquez",
+    "round": 12,
+    "name": "British motorcycle Grand Prix",
+    "winner": "Jorge Martín",
     "country": "SPA",
-    "bike": "Ducati",
-    "primary": "#CC0000",
+    "bike": "Aprilia",
+    "primary": "#003366",
     "podium": [
       {
         "pos": 1,
-        "name": "Marc Márquez",
+        "name": "Jorge Martín",
         "country": "SPA",
         "logo": "https://flagcdn.com/24x18/es.png",
-        "bike": "Ducati",
-        "primary": "#CC0000"
+        "bike": "Aprilia",
+        "primary": "#003366"
       },
       {
         "pos": 2,
-        "name": "Álex Márquez",
-        "country": "SPA",
-        "logo": "https://flagcdn.com/24x18/es.png",
-        "bike": "Ducati",
-        "primary": "#CC0000"
+        "name": "Ai Ogura",
+        "country": "JPN",
+        "logo": "https://flagcdn.com/24x18/jp.png",
+        "bike": "Aprilia",
+        "primary": "#003366"
       },
       {
         "pos": 3,
-        "name": "Fabio Di Giannantonio",
+        "name": "Marco Bezzecchi",
         "country": "ITA",
         "logo": "https://flagcdn.com/24x18/it.png",
-        "bike": "Ducati",
-        "primary": "#CC0000"
+        "bike": "Aprilia",
+        "primary": "#003366"
       }
     ]
   },

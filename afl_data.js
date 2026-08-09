@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-09 07:27 UTC
+// Auto-generated 2026-08-09 13:35 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-08-09 07:27 UTC",
+  "UPDATED": "2026-08-09 13:35 UTC",
   "SEASON": "2026",
   "ROUND": 22,
   "IMPORTANCE": 8.4,
@@ -92,6 +92,18 @@ window.AFL_DATA = {
     },
     {
       "rank": 8,
+      "name": "Collingwood",
+      "wins": 12,
+      "losses": 8,
+      "draws": 1,
+      "pts": 50,
+      "percentage": 106.4,
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "prevRank": 9
+    },
+    {
+      "rank": 9,
       "name": "Western Bulldogs",
       "wins": 12,
       "losses": 9,
@@ -99,28 +111,16 @@ window.AFL_DATA = {
       "pts": 48,
       "percentage": 93.9,
       "primary": "#0039A6",
-      "secondary": "#CC2031",
-      "prevRank": 8
-    },
-    {
-      "rank": 9,
-      "name": "Collingwood",
-      "wins": 11,
-      "losses": 8,
-      "draws": 1,
-      "pts": 46,
-      "percentage": 105.6,
-      "primary": "#000000",
-      "secondary": "#FFFFFF"
+      "secondary": "#CC2031"
     },
     {
       "rank": 10,
       "name": "Carlton",
-      "wins": 10,
+      "wins": 11,
       "losses": 10,
       "draws": 0,
-      "pts": 40,
-      "percentage": 97.0,
+      "pts": 44,
+      "percentage": 99.6,
       "primary": "#0E1E2D",
       "secondary": "#FFFFFF"
     },
@@ -128,10 +128,10 @@ window.AFL_DATA = {
       "rank": 11,
       "name": "St Kilda",
       "wins": 9,
-      "losses": 11,
+      "losses": 12,
       "draws": 0,
       "pts": 36,
-      "percentage": 104.3,
+      "percentage": 101.6,
       "primary": "#ED1C2E",
       "secondary": "#000000"
     },
@@ -183,10 +183,10 @@ window.AFL_DATA = {
       "rank": 16,
       "name": "West Coast",
       "wins": 4,
-      "losses": 16,
+      "losses": 17,
       "draws": 0,
       "pts": 16,
-      "percentage": 70.8,
+      "percentage": 71.5,
       "primary": "#002B5C",
       "secondary": "#F5C209"
     },
@@ -1125,6 +1125,26 @@ window.AFL_DATA = {
       "date": "2026-08-09",
       "hprimary": "#F57F00",
       "aprimary": "#C5002F"
+    },
+    {
+      "hteam": "West Coast",
+      "hscore": 98,
+      "ateam": "Collingwood",
+      "ascore": 117,
+      "winner": "Collingwood",
+      "date": "2026-08-09",
+      "hprimary": "#002B5C",
+      "aprimary": "#000000"
+    },
+    {
+      "hteam": "St Kilda",
+      "hscore": 62,
+      "ateam": "Carlton",
+      "ascore": 106,
+      "winner": "Carlton",
+      "date": "2026-08-09",
+      "hprimary": "#ED1C2E",
+      "aprimary": "#0E1E2D"
     }
   ],
   "CURRENT_CONTENDERS": [
