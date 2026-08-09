@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-09 05:58 UTC
+// Auto-generated 2026-08-09 07:27 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-08-09 05:58 UTC",
+  "UPDATED": "2026-08-09 07:27 UTC",
   "SEASON": "2026",
   "ROUND": 22,
   "IMPORTANCE": 8.4,
@@ -139,10 +139,10 @@ window.AFL_DATA = {
       "rank": 12,
       "name": "Greater Western Sydney",
       "wins": 9,
-      "losses": 11,
+      "losses": 12,
       "draws": 0,
       "pts": 36,
-      "percentage": 99.0,
+      "percentage": 98.9,
       "primary": "#F57F00",
       "secondary": "#002040"
     },
@@ -160,11 +160,11 @@ window.AFL_DATA = {
     {
       "rank": 14,
       "name": "Gold Coast",
-      "wins": 7,
+      "wins": 8,
       "losses": 13,
       "draws": 0,
-      "pts": 28,
-      "percentage": 94.7,
+      "pts": 32,
+      "percentage": 95.0,
       "primary": "#C5002F",
       "secondary": "#F1B500"
     },

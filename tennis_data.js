@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-09 06:00 UTC
+// Auto-generated 2026-08-09 07:29 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-09 06:00 UTC",
+  "UPDATED": "2026-08-09 07:29 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -169,7 +169,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 82.6
@@ -339,7 +339,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 77.8
@@ -1087,7 +1087,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 66.2
@@ -10938,15 +10938,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R16",
-          "w": "Cameron Norrie",
+          "w": "Arthur Fils",
           "w_logo": "",
-          "l": "Arthur Fils",
+          "l": "Cameron Norrie",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 7-6 (10-8)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 66.4,
-          "l_score": 82.3,
+          "w_score": 82.3,
+          "l_score": 66.4,
           "match_score": 82.3
         },
         {
@@ -11272,7 +11272,7 @@ window.TENNIS_DATA = {
       "Valentin Vacherot"
     ],
     "aliveCount": 50,
-    "matchesSeen": 89
+    "matchesSeen": 90
   },
   "WTA_TOURNAMENT": {
     "name": "National Bank Open presented by Rogers",
