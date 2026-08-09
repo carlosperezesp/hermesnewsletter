@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-09 14:18 UTC
+// Auto-generated 2026-08-09 20:53 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-09 14:18 UTC",
+  "UPDATED": "2026-08-09 20:53 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -679,7 +679,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 75.0
@@ -1465,7 +1465,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 64.8
@@ -1669,7 +1669,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 63.1
@@ -6921,7 +6921,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 59.8
@@ -10981,9 +10981,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Thiago Agustin Tirante",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 74.7,
           "l_score": 64.6,
           "match_score": 74.7
@@ -11003,15 +11003,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R16",
-          "w": "Tallon Griekspoor",
+          "w": "Daniel Merida",
           "w_logo": "",
-          "l": "Daniel Merida",
+          "l": "Tallon Griekspoor",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 62.8,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 62.8,
           "match_score": 62.8
         }
       ]
@@ -11110,9 +11110,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Liudmila Samsonova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 4-6 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 93.0,
           "l_score": 61.8,
           "match_score": 93.0
@@ -11123,9 +11123,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alina Korneeva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 91.1,
           "l_score": 52.2,
           "match_score": 91.1
@@ -11272,7 +11272,7 @@ window.TENNIS_DATA = {
       "Valentin Vacherot"
     ],
     "aliveCount": 50,
-    "matchesSeen": 90
+    "matchesSeen": 91
   },
   "WTA_TOURNAMENT": {
     "name": "National Bank Open presented by Rogers",

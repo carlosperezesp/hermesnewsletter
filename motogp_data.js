@@ -1,8 +1,8 @@
-// Auto-generated 2026-08-09 14:17 UTC
+// Auto-generated 2026-08-09 20:52 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-08-09 14:17 UTC",
+  "UPDATED": "2026-08-09 20:52 UTC",
   "SEASON": "2026",
-  "ROUND": 11,
+  "ROUND": 12,
   "TOTAL_ROUNDS": 22,
   "MAX_SEASON_PTS": 550,
   "IMPORTANCE": 10.0,
@@ -15,17 +15,34 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 220.0,
-      "score": 40.0,
+      "points": 240.0,
+      "score": 43.6,
       "stats": {
-        "pts": 220.0
+        "pts": 240.0
       },
-      "seasonPct": 40.0,
+      "seasonPct": 43.6,
       "prevRank": 1,
       "age": 28
     },
     {
       "position": 2,
+      "name": "Marco Bezzecchi",
+      "country": "ITA",
+      "bike": "Aprilia",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "primary": "#003366",
+      "secondary": "#E8002D",
+      "points": 209.0,
+      "score": 38.0,
+      "stats": {
+        "pts": 209.0
+      },
+      "seasonPct": 38.0,
+      "prevRank": 3,
+      "age": 28
+    },
+    {
+      "position": 3,
       "name": "Ai Ogura",
       "country": "JPN",
       "bike": "Aprilia",
@@ -42,23 +59,6 @@ window.MOTOGP_DATA = {
       "age": 25
     },
     {
-      "position": 3,
-      "name": "Marco Bezzecchi",
-      "country": "ITA",
-      "bike": "Aprilia",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "primary": "#003366",
-      "secondary": "#E8002D",
-      "points": 195.0,
-      "score": 35.5,
-      "stats": {
-        "pts": 195.0
-      },
-      "seasonPct": 35.5,
-      "prevRank": 3,
-      "age": 28
-    },
-    {
       "position": 4,
       "name": "Marc Márquez",
       "country": "ESP",
@@ -66,12 +66,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 191.0,
-      "score": 34.7,
+      "points": 200.0,
+      "score": 36.4,
       "stats": {
-        "pts": 191.0
+        "pts": 200.0
       },
-      "seasonPct": 34.7,
+      "seasonPct": 36.4,
       "prevRank": 4,
       "age": 33
     },
@@ -83,12 +83,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 189.0,
-      "score": 34.4,
+      "points": 199.0,
+      "score": 36.2,
       "stats": {
-        "pts": 189.0
+        "pts": 199.0
       },
-      "seasonPct": 34.4,
+      "seasonPct": 36.2,
       "prevRank": 5,
       "age": 28
     },
@@ -100,12 +100,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 159.0,
-      "score": 28.9,
+      "points": 184.0,
+      "score": 33.5,
       "stats": {
-        "pts": 159.0
+        "pts": 184.0
       },
-      "seasonPct": 28.9,
+      "seasonPct": 33.5,
       "prevRank": 6,
       "age": 26
     },
@@ -117,12 +117,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#E86825",
       "secondary": "#000000",
-      "points": 152.0,
-      "score": 27.6,
+      "points": 163.0,
+      "score": 29.6,
       "stats": {
-        "pts": 152.0
+        "pts": 163.0
       },
-      "seasonPct": 27.6,
+      "seasonPct": 29.6,
       "prevRank": 7,
       "age": 22
     },
@@ -151,12 +151,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 93.0,
-      "score": 16.9,
+      "points": 106.0,
+      "score": 19.3,
       "stats": {
-        "pts": 93.0
+        "pts": 106.0
       },
-      "seasonPct": 16.9,
+      "seasonPct": 19.3,
       "prevRank": 9,
       "age": 30
     },
@@ -168,12 +168,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#CC0000",
       "secondary": "#FFFFFF",
-      "points": 79.0,
-      "score": 14.4,
+      "points": 86.0,
+      "score": 15.6,
       "stats": {
-        "pts": 79.0
+        "pts": 86.0
       },
-      "seasonPct": 14.4,
+      "seasonPct": 15.6,
       "prevRank": 10,
       "age": null
     }
@@ -187,9 +187,9 @@ window.MOTOGP_DATA = {
       "secondary": "#E8002D",
       "bike": "Aprilia",
       "score": 36.9,
-      "position": 2,
+      "position": 3,
       "age": 25,
-      "note": "Top 2 a los 25"
+      "note": "Top 3 a los 25"
     },
     {
       "name": "Pedro Acosta",
@@ -198,7 +198,7 @@ window.MOTOGP_DATA = {
       "primary": "#E86825",
       "secondary": "#000000",
       "bike": "KTM",
-      "score": 27.6,
+      "score": 29.6,
       "position": 7,
       "age": 22,
       "note": "Irrumpe a los 22 (P7)"

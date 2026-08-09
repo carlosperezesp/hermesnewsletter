@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-09 14:18 UTC",
+  "UPDATED": "2026-08-09 20:53 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:British motorcycle Grand Prix:Jorge Martín",
@@ -392,8 +392,8 @@ window.GLORY_DATA = {
     ],
     "motogp:RIDERS": [
       "Jorge Martín",
-      "Ai Ogura",
       "Marco Bezzecchi",
+      "Ai Ogura",
       "Marc Márquez",
       "Fabio Di Giannantonio",
       "Raúl Fernández",
