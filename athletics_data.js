@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-09 13:36 UTC
+// Auto-generated 2026-08-09 14:17 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-09 13:36 UTC",
+  "UPDATED": "2026-08-09 14:17 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -5569,7 +5569,108 @@ window.ATHLETICS_DATA = {
               "year": 2023
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "15.25",
+              "athlete": "Thea Lafond",
+              "country": "DMA",
+              "flag": "",
+              "primary": "#4A4745",
+              "venue": "Sports Park Mladost",
+              "date": "26 JUN 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "15.13",
+              "athlete": "Davisleydi Velazco",
+              "country": "CUB",
+              "flag": "https://flagcdn.com/24x18/cu.png",
+              "primary": "#002A8F",
+              "venue": "Suhaim bin Hamad Stadium",
+              "date": "19 JUN 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "15.06",
+              "athlete": "Leyanis P&#201;rez Hern&#193;ndez",
+              "country": "CUB",
+              "flag": "https://flagcdn.com/24x18/cu.png",
+              "primary": "#002A8F",
+              "venue": "Stade Louis II",
+              "date": "10 JUL 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "14.99",
+              "athlete": "Saly Sarr",
+              "country": "SEN",
+              "flag": "",
+              "primary": "#4A4745",
+              "venue": "Stade Louis II",
+              "date": "10 JUL 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "14.95",
+              "athlete": "Yulimar Rojas",
+              "country": "VEN",
+              "flag": "https://flagcdn.com/24x18/ve.png",
+              "primary": "#CF142B",
+              "venue": "Veldromo Luis Puig",
+              "date": "14 FEB 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "14.71",
+              "athlete": "Liadagmis Povea",
+              "country": "CUB",
+              "flag": "https://flagcdn.com/24x18/cu.png",
+              "primary": "#002A8F",
+              "venue": "Estadio Olimpico Juan Pablo Duarte",
+              "date": "03 AUG 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "14.56",
+              "athlete": "Diana Ana Maria Ion",
+              "country": "ROU",
+              "flag": "https://flagcdn.com/24x18/ro.png",
+              "primary": "#002B7F",
+              "venue": "Stadionul de atletism Nicolae Mărășescu",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "14.52",
+              "athlete": "Ilona Masson",
+              "country": "BEL",
+              "flag": "https://flagcdn.com/24x18/be.png",
+              "primary": "#4A4745",
+              "venue": "Stade de Vongy",
+              "date": "05 JUL 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "14.51",
+              "athlete": "Dariya Derkach",
+              "country": "ITA",
+              "flag": "https://flagcdn.com/24x18/it.png",
+              "primary": "#009246",
+              "venue": "Sports Park Mladost",
+              "date": "26 JUN 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "14.50",
+              "athlete": "Ackelia Smith",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Bislett Stadion",
+              "date": "10 JUN 2026"
+            }
+          ]
         }
       ]
     },
