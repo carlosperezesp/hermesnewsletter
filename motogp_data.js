@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-09 20:52 UTC
+// Auto-generated 2026-08-09 21:54 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-08-09 20:52 UTC",
+  "UPDATED": "2026-08-09 21:54 UTC",
   "SEASON": "2026",
   "ROUND": 12,
   "TOTAL_ROUNDS": 22,
@@ -38,7 +38,7 @@ window.MOTOGP_DATA = {
         "pts": 209.0
       },
       "seasonPct": 38.0,
-      "prevRank": 3,
+      "prevRank": 2,
       "age": 28
     },
     {
@@ -55,7 +55,7 @@ window.MOTOGP_DATA = {
         "pts": 203.0
       },
       "seasonPct": 36.9,
-      "prevRank": 2,
+      "prevRank": 3,
       "age": 25
     },
     {

@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-09 20:53 UTC
+// Auto-generated 2026-08-09 21:56 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-09 20:53 UTC",
+  "UPDATED": "2026-08-09 21:56 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8115,7 +8115,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 52.2
@@ -11123,7 +11123,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alina Korneeva",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": 91.1,
