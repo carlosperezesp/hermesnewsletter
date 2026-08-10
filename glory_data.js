@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-10 14:42 UTC",
+  "UPDATED": "2026-08-10 21:03 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:British motorcycle Grand Prix:Jorge Martín",

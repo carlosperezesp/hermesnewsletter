@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-10 14:41 UTC
+// Auto-generated 2026-08-10 21:03 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-10 14:41 UTC",
+  "UPDATED": "2026-08-10 21:03 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -6073,6 +6073,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
+              "mark": "19.64",
+              "athlete": "Jorinde Van Klinken",
+              "country": "NED",
+              "flag": "https://flagcdn.com/24x18/nl.png",
+              "primary": "#AE1C28",
+              "venue": "Alexander Stadium",
+              "date": "10 AUG 2026"
+            },
+            {
+              "rank": 8,
               "mark": "19.62",
               "athlete": "Jessica Inchude",
               "country": "POR",
@@ -6082,7 +6092,7 @@ window.ATHLETICS_DATA = {
               "date": "26 JUL 2026"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "19.36",
               "athlete": "Linru Zhang",
               "country": "CHN",
@@ -6092,7 +6102,7 @@ window.ATHLETICS_DATA = {
               "date": "26 JUN 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "19.34",
               "athlete": "Danniel Thomas-Dodd",
               "country": "JAM",
@@ -6100,16 +6110,6 @@ window.ATHLETICS_DATA = {
               "primary": "#000000",
               "venue": "Spec Towns Track",
               "date": "11 APR 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "19.34",
-              "athlete": "Adelaide Aquilla",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "USC Allyson Felix at Loker Track Stadium",
-              "date": "14 JUN 2026"
             }
           ]
         },
