@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-10 06:45 UTC",
+  "UPDATED": "2026-08-10 08:11 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:British motorcycle Grand Prix:Jorge Martín",
@@ -34,6 +34,14 @@ window.GLORY_DATA = {
       "text": "Argentina es nuevo nº1 · Ranking Elo",
       "weight": 92,
       "firstSeen": "2026-08-04"
+    },
+    {
+      "id": "cycling:stage:Tour de France:21:Mathieu van der Poel",
+      "sport": "cycling",
+      "detail": "Ciclismo",
+      "text": "Mathieu van der Poel ganó la última etapa del Tour de France",
+      "weight": 88,
+      "firstSeen": "2026-08-10"
     },
     {
       "id": "rank:cycling:CURRENT_RIDERS:in:Jonas Vingegaard Hansen",
