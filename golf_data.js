@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-09 21:54 UTC
+// Auto-generated 2026-08-10 06:42 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-08-09 21:54 UTC",
+  "UPDATED": "2026-08-10 06:42 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -350,6 +350,22 @@ window.GOLF_DATA = {
       "note": "Ya entre la élite a los 24"
     },
     {
+      "id": "tom_kim",
+      "name": "Tom Kim",
+      "country": "KOR",
+      "logo": "https://flagcdn.com/24x18/kr.png",
+      "teamCode": "PGA",
+      "primary": "#003478",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#003478",
+        "secondary": "#FFFFFF"
+      },
+      "activeScore": 79,
+      "age": 24,
+      "note": "Top del circuito a los 24"
+    },
+    {
       "id": "nicolai_hojgaard",
       "name": "Nicolai Hojgaard",
       "country": "DEN",
@@ -364,22 +380,6 @@ window.GOLF_DATA = {
       "activeScore": 74,
       "age": 25,
       "note": "Top del circuito a los 25"
-    },
-    {
-      "id": "tom_kim",
-      "name": "Tom Kim",
-      "country": "KOR",
-      "logo": "https://flagcdn.com/24x18/kr.png",
-      "teamCode": "PGA",
-      "primary": "#003478",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#003478",
-        "secondary": "#FFFFFF"
-      },
-      "activeScore": 72,
-      "age": 24,
-      "note": "Top del circuito a los 24"
     },
     {
       "id": "nick_dunlap",
@@ -947,7 +947,7 @@ window.GOLF_DATA = {
         "primary": "#00247D",
         "secondary": "#FFFFFF"
       },
-      "activeScore": 83,
+      "activeScore": 82,
       "legendScore": 5.7,
       "stats": {
         "majors": 1,

@@ -1038,7 +1038,7 @@ window.NHL_DATA = {
       "name": "Nick Suzuki",
       "pos": "C",
       "teamCode": "MTL",
-      "age": 26,
+      "age": 27,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -25706,7 +25706,7 @@ window.NHL_DATA = {
       "name": "Marcus Foligno",
       "pos": "LW",
       "teamCode": "MIN",
-      "age": 34,
+      "age": 35,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -47976,10 +47976,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-09 21:53 UTC",
+  "LAST_UPDATE": "2026-08-10 06:41 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-09T21:53:15Z"
+    "standingsDateTimeUtc": "2026-08-10T06:41:16Z"
   }
 };

@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-09 21:56 UTC",
+  "UPDATED": "2026-08-10 06:45 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:British motorcycle Grand Prix:Jorge Martín",
@@ -34,23 +34,6 @@ window.GLORY_DATA = {
       "text": "Argentina es nuevo nº1 · Ranking Elo",
       "weight": 92,
       "firstSeen": "2026-08-04"
-    },
-    {
-      "id": "rank:athletics:allTime:400mh_m:in:Alison Dos Santos",
-      "sport": "athletics",
-      "detail": "Atletismo",
-      "anchor": "athletics-records",
-      "text": "Alison Dos Santos entra en el top-10 histórico · 400m vallas — H",
-      "weight": 90,
-      "firstSeen": "2026-07-26"
-    },
-    {
-      "id": "cycling:stage:Tour de France:21:Mathieu van der Poel",
-      "sport": "cycling",
-      "detail": "Ciclismo",
-      "text": "Mathieu van der Poel ganó la última etapa del Tour de France",
-      "weight": 88,
-      "firstSeen": "2026-07-26"
     },
     {
       "id": "rank:cycling:CURRENT_RIDERS:in:Jonas Vingegaard Hansen",
@@ -96,15 +79,6 @@ window.GLORY_DATA = {
       "text": "Jalen Green entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-07-31"
-    },
-    {
-      "id": "rank:mlb:ROAD_TO_GLORY.players:in:CJ Abrams",
-      "sport": "mlb",
-      "detail": "MLB",
-      "anchor": "mlb-road-to-glory",
-      "text": "CJ Abrams entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-07-26"
     },
     {
       "id": "rank:cycling:CURRENT_RIDERS:out:Wout van Aert",
