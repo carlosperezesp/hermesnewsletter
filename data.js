@@ -4350,9 +4350,9 @@ window.NHL_DATA = {
       "name": "Tristan Luneau",
       "pos": "D",
       "teamCode": "ANA",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 22,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -4374,7 +4374,8 @@ window.NHL_DATA = {
         42,
         44,
         70
-      ]
+      ],
+      "legendScore": 57.4
     },
     {
       "id": 8484227,
@@ -22028,9 +22029,9 @@ window.NHL_DATA = {
       "name": "Nikita Nesterenko",
       "pos": "C",
       "teamCode": "ANA",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 24,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -47976,10 +47977,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-11 14:39 UTC",
+  "LAST_UPDATE": "2026-08-11 21:04 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-11T14:38:30Z"
+    "standingsDateTimeUtc": "2026-08-11T21:03:45Z"
   }
 };

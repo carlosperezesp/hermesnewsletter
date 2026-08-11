@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-11 14:41 UTC
+// Auto-generated 2026-08-11 21:06 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-11 14:41 UTC",
+  "UPDATED": "2026-08-11 21:06 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1189,7 +1189,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 65.8
@@ -10903,9 +10903,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Rafael Jodar",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "5-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 82.3,
           "l_score": 78.8,
           "match_score": 82.3
@@ -10942,9 +10942,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Luciano Darderi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 67.6,
           "l_score": 65.8,
           "match_score": 67.6
