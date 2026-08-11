@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-10 22:04 UTC",
+  "UPDATED": "2026-08-11 06:07 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:British motorcycle Grand Prix:Jorge Martín",
@@ -17,14 +17,6 @@ window.GLORY_DATA = {
       "text": "Ryan Blaney ganó en Echopark Speedway",
       "weight": 100,
       "firstSeen": "2026-07-28"
-    },
-    {
-      "id": "motogp:win:German motorcycle Grand Prix:Marc Márquez",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "text": "Marc Márquez ganó el German motorcycle Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-07-27"
     },
     {
       "id": "rank:football:TEAMS:new1:Argentina",
