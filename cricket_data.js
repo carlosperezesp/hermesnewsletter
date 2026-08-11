@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-08-10 22:03 UTC",
+  "UPDATED": "2026-08-11 07:44 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1587,
+    "matches": 1585,
     "archives": [
       {
         "name": "Tests",
@@ -13,7 +13,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 162
+        "matches": 160
       },
       {
         "name": "T20Is",
@@ -224,51 +224,6 @@ window.CRICKET_DATA = {
       "logo": "https://flagcdn.com/24x18/pk.png"
     },
     {
-      "id": "mj-henry",
-      "name": "MJ Henry",
-      "role": "Bowler",
-      "score": 89.1,
-      "legendScore": 67.9,
-      "stats": {
-        "test": 83.7,
-        "odi": 89.9,
-        "t20": 96.5,
-        "franchise": 85.9,
-        "runs": 108,
-        "wickets": 106,
-        "matches": 43
-      },
-      "formatScores": {
-        "test": {
-          "overall": 44.7,
-          "batting": 6.5,
-          "bowling": 86.6
-        },
-        "odi": {
-          "overall": 46.4,
-          "batting": 7.1,
-          "bowling": 94.2
-        },
-        "t20": {
-          "overall": 52.9,
-          "batting": 6.7,
-          "bowling": 96.1
-        },
-        "franchise": {
-          "overall": 52.0,
-          "batting": 6.7,
-          "bowling": 85.3
-        }
-      },
-      "country": "New Zealand",
-      "teamCode": "NZ",
-      "colors": {
-        "primary": "#111111",
-        "secondary": "#d8d8d8"
-      },
-      "logo": "https://flagcdn.com/24x18/nz.png"
-    },
-    {
       "id": "ka-maharaj",
       "name": "KA Maharaj",
       "role": "Bowler",
@@ -312,6 +267,51 @@ window.CRICKET_DATA = {
         "secondary": "#ffb81c"
       },
       "logo": "https://flagcdn.com/24x18/za.png"
+    },
+    {
+      "id": "mj-henry",
+      "name": "MJ Henry",
+      "role": "Bowler",
+      "score": 87.7,
+      "legendScore": 67.0,
+      "stats": {
+        "test": 83.7,
+        "odi": 87.9,
+        "t20": 94.2,
+        "franchise": 83.8,
+        "runs": 108,
+        "wickets": 103,
+        "matches": 42
+      },
+      "formatScores": {
+        "test": {
+          "overall": 44.7,
+          "batting": 6.5,
+          "bowling": 86.6
+        },
+        "odi": {
+          "overall": 46.2,
+          "batting": 7.2,
+          "bowling": 92.0
+        },
+        "t20": {
+          "overall": 52.2,
+          "batting": 6.7,
+          "bowling": 93.7
+        },
+        "franchise": {
+          "overall": 51.3,
+          "batting": 6.7,
+          "bowling": 83.2
+        }
+      },
+      "country": "New Zealand",
+      "teamCode": "NZ",
+      "colors": {
+        "primary": "#111111",
+        "secondary": "#d8d8d8"
+      },
+      "logo": "https://flagcdn.com/24x18/nz.png"
     },
     {
       "id": "jnt-seales",
@@ -967,7 +967,7 @@ window.CRICKET_DATA = {
           "bowling": 86.6,
           "overall": 44.7,
           "runs": 108,
-          "wickets": 106
+          "wickets": 103
         },
         {
           "id": "ka-maharaj",
@@ -1510,12 +1510,12 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 94.2,
-          "batting": 7.1,
-          "bowling": 94.2,
-          "overall": 46.4,
+          "score": 92.0,
+          "batting": 7.2,
+          "bowling": 92.0,
+          "overall": 46.2,
           "runs": 108,
-          "wickets": 106
+          "wickets": 103
         },
         {
           "id": "ka-maharaj",
@@ -1712,12 +1712,12 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 82.6,
+          "score": 81.0,
           "batting": 23.4,
-          "bowling": 67.1,
-          "overall": 82.6,
-          "runs": 973,
-          "wickets": 91
+          "bowling": 64.6,
+          "overall": 81.0,
+          "runs": 965,
+          "wickets": 88
         },
         {
           "id": "virandeep-singh",
@@ -1986,12 +1986,12 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 96.1,
+          "score": 93.7,
           "batting": 6.7,
-          "bowling": 96.1,
-          "overall": 52.9,
+          "bowling": 93.7,
+          "overall": 52.2,
           "runs": 108,
-          "wickets": 106
+          "wickets": 103
         },
         {
           "id": "jnt-seales",
@@ -2214,24 +2214,6 @@ window.CRICKET_DATA = {
           "wickets": 76
         },
         {
-          "id": "mj-santner",
-          "name": "MJ Santner",
-          "role": "Bowler",
-          "country": "New Zealand",
-          "teamCode": "NZ",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          },
-          "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 84.3,
-          "batting": 21.9,
-          "bowling": 68.7,
-          "overall": 84.3,
-          "runs": 973,
-          "wickets": 91
-        },
-        {
           "id": "aap-atkinson",
           "name": "AAP Atkinson",
           "role": "All-rounder",
@@ -2248,6 +2230,24 @@ window.CRICKET_DATA = {
           "overall": 83.2,
           "runs": 533,
           "wickets": 62
+        },
+        {
+          "id": "mj-santner",
+          "name": "MJ Santner",
+          "role": "Bowler",
+          "country": "New Zealand",
+          "teamCode": "NZ",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          },
+          "logo": "https://flagcdn.com/24x18/nz.png",
+          "score": 83.0,
+          "batting": 21.9,
+          "bowling": 66.5,
+          "overall": 83.0,
+          "runs": 965,
+          "wickets": 88
         },
         {
           "id": "c-bosch",
@@ -2570,12 +2570,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 89.0,
+          "score": 88.3,
           "batting": 7.8,
-          "bowling": 89.0,
-          "overall": 57.3,
+          "bowling": 88.3,
+          "overall": 57.1,
           "runs": 152,
-          "wickets": 120
+          "wickets": 119
         },
         {
           "id": "jnt-seales",
@@ -2596,24 +2596,6 @@ window.CRICKET_DATA = {
           "wickets": 109
         },
         {
-          "id": "mj-henry",
-          "name": "MJ Henry",
-          "role": "Bowler",
-          "country": "New Zealand",
-          "teamCode": "NZ",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          },
-          "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 85.3,
-          "batting": 6.7,
-          "bowling": 85.3,
-          "overall": 52.0,
-          "runs": 108,
-          "wickets": 106
-        },
-        {
           "id": "mohammed-siraj",
           "name": "Mohammed Siraj",
           "role": "Bowler",
@@ -2632,22 +2614,22 @@ window.CRICKET_DATA = {
           "wickets": 108
         },
         {
-          "id": "shaheen-shah-afridi",
-          "name": "Shaheen Shah Afridi",
+          "id": "mj-henry",
+          "name": "MJ Henry",
           "role": "Bowler",
-          "country": "Pakistan",
-          "teamCode": "PAK",
+          "country": "New Zealand",
+          "teamCode": "NZ",
           "colors": {
-            "primary": "#115740",
-            "secondary": "#ffffff"
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
           },
-          "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 82.4,
-          "batting": 11.5,
-          "bowling": 82.4,
-          "overall": 66.9,
-          "runs": 430,
-          "wickets": 110
+          "logo": "https://flagcdn.com/24x18/nz.png",
+          "score": 83.2,
+          "batting": 6.7,
+          "bowling": 83.2,
+          "overall": 51.3,
+          "runs": 108,
+          "wickets": 103
         },
         {
           "id": "jc-archer",
@@ -2684,6 +2666,24 @@ window.CRICKET_DATA = {
           "overall": 67.3,
           "runs": 317,
           "wickets": 101
+        },
+        {
+          "id": "shaheen-shah-afridi",
+          "name": "Shaheen Shah Afridi",
+          "role": "Bowler",
+          "country": "Pakistan",
+          "teamCode": "PAK",
+          "colors": {
+            "primary": "#115740",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/pk.png",
+          "score": 80.2,
+          "batting": 11.5,
+          "bowling": 80.2,
+          "overall": 66.0,
+          "runs": 420,
+          "wickets": 107
         }
       ]
     }
@@ -3402,51 +3402,6 @@ window.CRICKET_DATA = {
         "logo": "https://flagcdn.com/24x18/au.png"
       },
       {
-        "id": "mj-henry",
-        "name": "MJ Henry",
-        "role": "Bowler",
-        "score": 89.1,
-        "legendScore": 67.9,
-        "stats": {
-          "test": 83.7,
-          "odi": 89.9,
-          "t20": 96.5,
-          "franchise": 85.9,
-          "runs": 108,
-          "wickets": 106,
-          "matches": 43
-        },
-        "formatScores": {
-          "test": {
-            "overall": 44.7,
-            "batting": 6.5,
-            "bowling": 86.6
-          },
-          "odi": {
-            "overall": 46.4,
-            "batting": 7.1,
-            "bowling": 94.2
-          },
-          "t20": {
-            "overall": 52.9,
-            "batting": 6.7,
-            "bowling": 96.1
-          },
-          "franchise": {
-            "overall": 52.0,
-            "batting": 6.7,
-            "bowling": 85.3
-          }
-        },
-        "country": "New Zealand",
-        "teamCode": "NZ",
-        "colors": {
-          "primary": "#111111",
-          "secondary": "#d8d8d8"
-        },
-        "logo": "https://flagcdn.com/24x18/nz.png"
-      },
-      {
         "id": "jnt-seales",
         "name": "JNT Seales",
         "role": "Bowler",
@@ -3535,6 +3490,51 @@ window.CRICKET_DATA = {
           "secondary": "#ffb81c"
         },
         "logo": "https://flagcdn.com/24x18/za.png"
+      },
+      {
+        "id": "mj-henry",
+        "name": "MJ Henry",
+        "role": "Bowler",
+        "score": 87.7,
+        "legendScore": 67.0,
+        "stats": {
+          "test": 83.7,
+          "odi": 87.9,
+          "t20": 94.2,
+          "franchise": 83.8,
+          "runs": 108,
+          "wickets": 103,
+          "matches": 42
+        },
+        "formatScores": {
+          "test": {
+            "overall": 44.7,
+            "batting": 6.5,
+            "bowling": 86.6
+          },
+          "odi": {
+            "overall": 46.2,
+            "batting": 7.2,
+            "bowling": 92.0
+          },
+          "t20": {
+            "overall": 52.2,
+            "batting": 6.7,
+            "bowling": 93.7
+          },
+          "franchise": {
+            "overall": 51.3,
+            "batting": 6.7,
+            "bowling": 83.2
+          }
+        },
+        "country": "New Zealand",
+        "teamCode": "NZ",
+        "colors": {
+          "primary": "#111111",
+          "secondary": "#d8d8d8"
+        },
+        "logo": "https://flagcdn.com/24x18/nz.png"
       },
       {
         "id": "taijul-islam",

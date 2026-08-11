@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-11 06:07 UTC",
+  "UPDATED": "2026-08-11 07:45 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:British motorcycle Grand Prix:Jorge Martín",
@@ -475,9 +475,9 @@ window.GLORY_DATA = {
     "cricket:ROAD_TO_GLORY.players": [
       "JJ Bumrah",
       "MA Starc",
-      "MJ Henry",
       "JNT Seales",
       "KA Maharaj",
+      "MJ Henry",
       "Taijul Islam",
       "RA Jadeja",
       "Mehedi Hasan Miraz",
