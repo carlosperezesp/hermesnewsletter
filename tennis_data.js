@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-11 21:06 UTC
+// Auto-generated 2026-08-11 22:11 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-11 21:06 UTC",
+  "UPDATED": "2026-08-11 22:11 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -169,7 +169,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 82.3
@@ -339,7 +339,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 78.8
@@ -915,9 +915,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "R64",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
+        "round": "R128",
         "reason": "Eliminado en R64"
       },
       "prevActiveScore": 68.3
@@ -985,7 +985,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 67.6
@@ -1085,9 +1085,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 66.4
@@ -1119,10 +1119,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers · Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Cincinnati Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 66.3
     },
@@ -1153,9 +1153,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 34,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 66.2
@@ -1257,8 +1257,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -1395,7 +1395,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -1463,9 +1463,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 64.6
@@ -1497,9 +1497,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 64.4
@@ -1565,9 +1565,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "R64",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
+        "round": "R128",
         "reason": "Eliminado en R64"
       },
       "prevActiveScore": 64.1
@@ -1667,9 +1667,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 49,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 62.8
@@ -1701,9 +1701,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 62.7
@@ -1837,9 +1837,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 54,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 61.2
@@ -1871,9 +1871,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 55,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 60.5
@@ -1939,7 +1939,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -1973,8 +1973,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -2007,7 +2007,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -2041,9 +2041,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 59.8
@@ -2109,8 +2109,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 62,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -2347,7 +2347,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -2381,8 +2381,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -2415,8 +2415,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -2517,8 +2517,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -2655,7 +2655,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -2689,8 +2689,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 79,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -2723,8 +2723,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 80,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -2927,10 +2927,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers · Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Cincinnati Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 55.0
     },
@@ -2961,7 +2961,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -2995,8 +2995,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -3063,8 +3063,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -3301,10 +3301,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers · Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Cincinnati Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 53.4
     },
@@ -3403,8 +3403,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -3543,10 +3543,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers · Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Cincinnati Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 52.2
     },
@@ -3645,8 +3645,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -3919,8 +3919,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -4329,7 +4329,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -4751,10 +4751,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers · Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Cincinnati Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 38.8
     },
@@ -5931,7 +5931,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -6305,7 +6305,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 34,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -6475,7 +6475,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -6543,8 +6543,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -6681,7 +6681,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 45,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -6715,9 +6715,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
-        "round": "R64",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
+        "round": "R128",
         "reason": "Eliminado en R64"
       },
       "prevActiveScore": 63.2
@@ -6749,8 +6749,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 47,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -6817,8 +6817,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 49,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -6851,8 +6851,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -6885,10 +6885,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers · Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Cincinnati Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 62.5
     },
@@ -6919,9 +6919,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 61.8
@@ -6953,7 +6953,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7021,8 +7021,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 55,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -7055,7 +7055,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7123,9 +7123,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 59.6
@@ -7259,8 +7259,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 62,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -7293,9 +7293,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 63,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 58.9
@@ -7327,10 +7327,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers · Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Cincinnati Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 58.8
     },
@@ -7429,9 +7429,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 58.3
@@ -7463,7 +7463,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7533,10 +7533,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers · Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Cincinnati Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 57.5
     },
@@ -7567,7 +7567,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7601,7 +7601,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7635,7 +7635,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 73,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7703,7 +7703,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7771,8 +7771,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -7805,10 +7805,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers · Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Cincinnati Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 56.0
     },
@@ -7873,7 +7873,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 80,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7907,7 +7907,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7941,8 +7941,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -7975,7 +7975,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 83,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -8147,8 +8147,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -8351,8 +8351,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -8489,9 +8489,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 49.4
@@ -8869,10 +8869,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 109,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers · Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Cincinnati Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 45.6
     },
@@ -8903,10 +8903,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers · Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Cincinnati Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 45.5
     },
@@ -9321,10 +9321,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers · Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Cincinnati Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 42.3
     },
@@ -9391,10 +9391,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers · Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Cincinnati Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 41.5
     },
@@ -9919,10 +9919,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers · Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Cincinnati Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.0
     },
@@ -10899,15 +10899,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Arthur Fils",
+          "w": "Rafael Jodar",
           "w_logo": "",
-          "l": "Rafael Jodar",
+          "l": "Arthur Fils",
           "l_logo": "",
-          "score": "5-4",
+          "score": "7-6 (7-5) 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 82.3,
-          "l_score": 78.8,
+          "w_score": 78.8,
+          "l_score": 82.3,
           "match_score": 82.3
         },
         {
@@ -11040,6 +11040,8 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
+      "Adrian Mannarino",
+      "Aleksandar Kovacevic",
       "Alex Michelsen",
       "Alex de Minaur",
       "Alexander Blockx",
@@ -11050,40 +11052,59 @@ window.TENNIS_DATA = {
       "Botic Van De Zandschulp",
       "Brandon Nakashima",
       "Cameron Norrie",
+      "Camilo Ugo Carabelli",
       "Casper Ruud",
       "Corentin Moutet",
       "Daniel Altmaier",
       "Daniel Merida",
+      "Denis Shapovalov",
+      "Dino Prizmic",
       "Fabian Marozsan",
       "Frances Tiafoe",
       "Gabriel Diallo",
       "Gael Monfils",
+      "Grigor Dimitrov",
       "Hubert Hurkacz",
+      "Jack Draper",
       "Jacob Fearnley",
       "Jakub Mensik",
       "James Duckworth",
+      "Jan Choinski",
+      "Jan-Lennard Struff",
       "Jaume Munar",
       "Jenson Brooksby",
+      "Jesper de Jong",
       "Jiri Lehecka",
       "Joao Fonseca",
       "Juan Manuel Cerundolo",
+      "Karen Khachanov",
       "Learner Tien",
       "Lorenzo Musetti",
+      "Lorenzo Sonego",
       "Luciano Darderi",
       "Mariano Navone",
       "Marin Cilic",
+      "Martin Landaluce",
+      "Marton Fucsovics",
       "Matteo Arnaldi",
+      "Mattia Bellucci",
       "Miomir Kecmanovic",
       "Nicolas Mejia",
       "Nuno Borges",
+      "Pablo Carreno Busta",
       "Rafael Jodar",
+      "Raphael Collignon",
+      "Rinky Hijikata",
+      "Roman Andres Burruchaga",
       "Sebastian Baez",
       "Shang Juncheng",
       "Stefanos Tsitsipas",
       "Tallon Griekspoor",
       "Terence Atmane",
+      "Thanasi Kokkinakis",
       "Thiago Agustin Tirante",
       "Titouan Droguet",
+      "Tomas Machac",
       "Tommy Paul",
       "Valentin Royer",
       "Vit Kopriva",
@@ -11094,44 +11115,29 @@ window.TENNIS_DATA = {
     "out": [
       "Adam Walton",
       "Adolfo Daniel Vallejo",
-      "Adrian Mannarino",
       "Alejandro Tabilo",
-      "Aleksandar Kovacevic",
       "Aleksandar Vukic",
       "Alexander Zverev",
       "Alexis Galarneau",
       "Andrey Rublev",
       "Benjamin Bonzi",
-      "Camilo Ugo Carabelli",
       "Christopher O'Connell",
       "Daniil Medvedev",
-      "Denis Shapovalov",
       "Duncan Chan",
       "Flavio Cobolli",
       "Francisco Cerundolo",
       "Giovanni Mpetshi Perricard",
       "Hamad Medjedovic",
       "Ignacio Buse",
-      "Jack Draper",
       "Jaime Faria",
-      "Jan-Lennard Struff",
       "Kamil Majchrzak",
-      "Karen Khachanov",
       "Kyrian Jacquet",
       "Liam Draxl",
-      "Lorenzo Sonego",
       "Luca Van Assche",
       "Marcos Giron",
       "Martin Damm",
-      "Martin Landaluce",
-      "Marton Fucsovics",
       "Matteo Berrettini",
-      "Mattia Bellucci",
       "Michael Zheng",
-      "Pablo Carreno Busta",
-      "Raphael Collignon",
-      "Rinky Hijikata",
-      "Roman Andres Burruchaga",
       "Shintaro Mochizuki",
       "Sho Shimabukuro",
       "Taylor Fritz",
@@ -11139,8 +11145,8 @@ window.TENNIS_DATA = {
       "Ugo Humbert",
       "Valentin Vacherot"
     ],
-    "aliveCount": 50,
-    "matchesSeen": 92
+    "aliveCount": 71,
+    "matchesSeen": 113
   },
   "WTA_TOURNAMENT": {
     "name": "National Bank Open presented by Rogers · Cincinnati Open",
@@ -11165,38 +11171,53 @@ window.TENNIS_DATA = {
       "Alycia Parks",
       "Amanda Anisimova",
       "Anastasia Potapova",
+      "Anhelina Kalinina",
       "Ann Li",
       "Anna Bondar",
       "Anna Kalinskaya",
       "Antonia Ruzic",
       "Aryna Sabalenka",
+      "Ashlyn Krueger",
       "Belinda Bencic",
       "Camila Osorio",
+      "Caroline Dolehide",
       "Catherine McNally",
       "Coco Gauff",
+      "Cristina Bucsa",
       "Daria Kasatkina",
+      "Daria Snigur",
+      "Darja Vidmanova",
+      "Dayana Yastremska",
       "Diana Shnaider",
+      "Diane Parry",
       "Ekaterina Alexandrova",
       "Elena Rybakina",
       "Elena-Gabriela Ruse",
       "Elina Svitolina",
       "Elise Mertens",
+      "Elvina Kalieva",
       "Iga Swiatek",
       "Iva Jovic",
       "Jessica Bouzas Maneiro",
       "Jessica Pegula",
       "Kamilla Rakhimova",
       "Karolina Pliskova",
+      "Katerina Siniakova",
       "Katherine Sebov",
+      "Katie Boulter",
+      "Katie Volynets",
       "Kayla Cross",
       "Kayla Day",
+      "Kimberly Birrell",
       "Lanlana Tararudee",
       "Leylah Fernandez",
       "Liudmila Samsonova",
+      "Lois Boisson",
       "Madison Keys",
       "Magda Linette",
       "Magdalena Frech",
       "Maria Sakkari",
+      "Maria Timofeeva",
       "Marta Kostyuk",
       "Maya Joint",
       "McCartney Kessler",
@@ -11204,19 +11225,25 @@ window.TENNIS_DATA = {
       "Moyuka Uchijima",
       "Naomi Osaka",
       "Nikola Bartunkova",
+      "Oleksandra Oliynykova",
       "Panna Udvardy",
+      "Petra Marcinko",
       "Rebecca Sramkova",
       "Renata Zarazua",
       "Sara Bejlek",
+      "Simona Waltert",
       "Sloane Stephens",
       "Talia Gibson",
+      "Tamara Korpatsch",
+      "Tatjana Maria",
       "Taylor Townsend",
       "Viktorija Golubic",
+      "Yulia Putintseva",
+      "Yuliia Starodubtseva",
       "Zeynep Sonmez",
       "Zhang Shuai"
     ],
     "out": [
-      "Anhelina Kalinina",
       "Anna Blinkova",
       "Aoi Ito",
       "Ariana Arseneault",
@@ -11225,8 +11252,6 @@ window.TENNIS_DATA = {
       "Cadence Brace",
       "Carol Zhao",
       "Clara Tauson",
-      "Cristina Bucsa",
-      "Diane Parry",
       "Donna Vekic",
       "Elisabetta Cocciaretto",
       "Emerson Jones",
@@ -11234,33 +11259,24 @@ window.TENNIS_DATA = {
       "Eva Lys",
       "Janice Tjen",
       "Jelena Ostapenko",
-      "Katerina Siniakova",
-      "Katie Boulter",
-      "Kimberly Birrell",
       "Leolia Jeanjean",
       "Linda Noskova",
-      "Lois Boisson",
       "Lucrezia Stefanini",
       "Maja Chwalinska",
       "Marie Bouzkova",
-      "Oleksandra Oliynykova",
       "Peyton Stearns",
       "Polina Kudermetova",
       "Rebecca Marino",
       "Solana Sierra",
       "Sorana Cirstea",
-      "Tamara Korpatsch",
-      "Tatjana Maria",
       "Tereza Valentova",
       "Venus Williams",
       "Victoria Jimenez Kasintseva",
       "Wang Xinyu",
-      "Wang Xiyu",
-      "Yulia Putintseva",
-      "Yuliia Starodubtseva"
+      "Wang Xiyu"
     ],
-    "aliveCount": 54,
-    "matchesSeen": 93
+    "aliveCount": 76,
+    "matchesSeen": 114
   },
   "ATP_SCORE_LOG": {
     "206173": [
