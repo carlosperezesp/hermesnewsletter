@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-11 07:44 UTC
+// Auto-generated 2026-08-11 14:05 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-11 07:44 UTC",
+  "UPDATED": "2026-08-11 14:05 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -2176,13 +2176,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 10,
-              "mark": "53.90",
+              "mark": "53.87",
               "athlete": "Paulien Couckuyt",
               "country": "BEL",
               "flag": "https://flagcdn.com/24x18/be.png",
               "primary": "#4A4745",
-              "venue": "Putbosstadion",
-              "date": "01 AUG 2026"
+              "venue": "Alexander Stadium",
+              "date": "11 AUG 2026"
             }
           ]
         }
