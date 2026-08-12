@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-11 22:11 UTC",
+  "UPDATED": "2026-08-12 06:45 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:British motorcycle Grand Prix:Jorge Martín",
@@ -9,14 +9,6 @@ window.GLORY_DATA = {
       "text": "Jorge Martín ganó el British motorcycle Grand Prix",
       "weight": 100,
       "firstSeen": "2026-08-09"
-    },
-    {
-      "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "text": "Ryan Blaney ganó en Echopark Speedway",
-      "weight": 100,
-      "firstSeen": "2026-07-28"
     },
     {
       "id": "rank:football:TEAMS:new1:Argentina",
@@ -475,12 +467,12 @@ window.GLORY_DATA = {
     "cricket:ROAD_TO_GLORY.players": [
       "JJ Bumrah",
       "MA Starc",
-      "JNT Seales",
-      "KA Maharaj",
       "MJ Henry",
       "Taijul Islam",
+      "JNT Seales",
       "RA Jadeja",
       "Mehedi Hasan Miraz",
+      "KA Maharaj",
       "Nauman Ali",
       "Sajid Khan"
     ],
