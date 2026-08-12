@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-12 07:57 UTC
+// Auto-generated 2026-08-12 14:07 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-12 07:57 UTC",
+  "UPDATED": "2026-08-12 14:07 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -1959,13 +1959,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 10,
-              "mark": "47.93",
-              "athlete": "Abderrahman Samba",
-              "country": "QAT",
-              "flag": "https://flagcdn.com/24x18/qa.png",
-              "primary": "#8A1538",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
+              "mark": "47.81",
+              "athlete": "Oskar Edlund",
+              "country": "SWE",
+              "flag": "https://flagcdn.com/24x18/se.png",
+              "primary": "#006AA7",
+              "venue": "Alexander Stadium",
+              "date": "12 AUG 2026"
             }
           ]
         },
