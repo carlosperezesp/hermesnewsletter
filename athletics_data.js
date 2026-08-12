@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-12 14:40 UTC
+// Auto-generated 2026-08-12 21:05 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-12 14:40 UTC",
+  "UPDATED": "2026-08-12 21:05 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -2136,6 +2136,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 6,
+              "mark": "53.33",
+              "athlete": "Emily Newnham",
+              "country": "GBR",
+              "flag": "https://flagcdn.com/24x18/gb.png",
+              "primary": "#012169",
+              "venue": "Alexander Stadium",
+              "date": "12 AUG 2026"
+            },
+            {
+              "rank": 7,
               "mark": "53.39",
               "athlete": "Dalilah Muhammad",
               "country": "USA",
@@ -2145,7 +2155,17 @@ window.ATHLETICS_DATA = {
               "date": "04 JUN 2026"
             },
             {
-              "rank": 7,
+              "rank": 8,
+              "mark": "53.55",
+              "athlete": "Fatoumata Binta Diallo",
+              "country": "POR",
+              "flag": "https://flagcdn.com/24x18/pt.png",
+              "primary": "#006600",
+              "venue": "Alexander Stadium",
+              "date": "12 AUG 2026"
+            },
+            {
+              "rank": 9,
               "mark": "53.58",
               "athlete": "Gianna Woodruff",
               "country": "PAN",
@@ -2155,7 +2175,7 @@ window.ATHLETICS_DATA = {
               "date": "04 JUN 2026"
             },
             {
-              "rank": 8,
+              "rank": 10,
               "mark": "53.60",
               "athlete": "Amelliah Birdow",
               "country": "USA",
@@ -2163,26 +2183,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Hayward Field",
               "date": "13 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "53.67",
-              "athlete": "Kemi Adekoya",
-              "country": "BRN",
-              "flag": "https://flagcdn.com/24x18/bh.png",
-              "primary": "#CE1126",
-              "venue": "Suhaim bin Hamad Stadium",
-              "date": "19 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "53.87",
-              "athlete": "Paulien Couckuyt",
-              "country": "BEL",
-              "flag": "https://flagcdn.com/24x18/be.png",
-              "primary": "#4A4745",
-              "venue": "Alexander Stadium",
-              "date": "11 AUG 2026"
             }
           ]
         }

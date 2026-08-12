@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-12 14:40 UTC
+// Auto-generated 2026-08-12 21:05 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-12 14:40 UTC",
+  "UPDATED": "2026-08-12 21:05 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1701,9 +1701,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 62.7
@@ -2007,7 +2007,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -6715,9 +6715,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
+        "tournament": "National Bank Open presented by Rogers",
+        "state": "out",
+        "round": "R64",
         "reason": "Eliminado en R64"
       },
       "prevActiveScore": 63.2
@@ -9391,10 +9391,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "National Bank Open presented by Rogers · Cincinnati Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 41.5
     },
@@ -11159,7 +11159,7 @@ window.TENNIS_DATA = {
       "Valentin Vacherot"
     ],
     "aliveCount": 71,
-    "matchesSeen": 114
+    "matchesSeen": 113
   },
   "WTA_TOURNAMENT": {
     "name": "National Bank Open presented by Rogers · Cincinnati Open",
@@ -11215,7 +11215,6 @@ window.TENNIS_DATA = {
       "Jessica Pegula",
       "Kamilla Rakhimova",
       "Karolina Pliskova",
-      "Katerina Siniakova",
       "Katherine Sebov",
       "Katie Boulter",
       "Katie Volynets",
@@ -11230,7 +11229,6 @@ window.TENNIS_DATA = {
       "Magda Linette",
       "Magdalena Frech",
       "Maria Sakkari",
-      "Maria Timofeeva",
       "Marta Kostyuk",
       "Maya Joint",
       "McCartney Kessler",
@@ -11272,6 +11270,7 @@ window.TENNIS_DATA = {
       "Eva Lys",
       "Janice Tjen",
       "Jelena Ostapenko",
+      "Katerina Siniakova",
       "Leolia Jeanjean",
       "Linda Noskova",
       "Lucrezia Stefanini",
@@ -11288,8 +11287,8 @@ window.TENNIS_DATA = {
       "Wang Xinyu",
       "Wang Xiyu"
     ],
-    "aliveCount": 76,
-    "matchesSeen": 115
+    "aliveCount": 74,
+    "matchesSeen": 114
   },
   "ATP_SCORE_LOG": {
     "206173": [
