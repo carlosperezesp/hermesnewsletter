@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-13 14:42 UTC
+// Auto-generated 2026-08-13 21:06 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-13 14:42 UTC",
+  "UPDATED": "2026-08-13 21:06 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1258,7 +1258,7 @@ window.TENNIS_DATA = {
       "prevListRank": 37,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -1361,7 +1361,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R64",
         "reason": ""
@@ -2417,7 +2417,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.6
@@ -5217,9 +5217,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "F",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 93.0
@@ -5387,9 +5387,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 90.0
@@ -5489,9 +5489,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 85.5
@@ -6101,8 +6101,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
-        "state": "out",
+        "tournament": "Cincinnati Open",
+        "state": "alive",
         "round": "R64",
         "reason": "Eliminado en R64"
       },
@@ -6475,7 +6475,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -6509,7 +6509,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "National Bank Open presented by Rogers",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R64",
         "reason": ""
@@ -7023,7 +7023,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 61.2
@@ -7295,7 +7295,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 58.9
@@ -7465,7 +7465,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 58.3
@@ -7567,7 +7567,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "National Bank Open presented by Rogers",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7806,9 +7806,9 @@ window.TENNIS_DATA = {
       "prevListRank": 78,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 56.0
     },
@@ -7942,7 +7942,7 @@ window.TENNIS_DATA = {
       "prevListRank": 82,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -8491,7 +8491,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 49.4
@@ -8905,7 +8905,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 45.5
@@ -9920,9 +9920,9 @@ window.TENNIS_DATA = {
       "prevListRank": 139,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 35.0
     },
@@ -10919,28 +10919,28 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Cameron Norrie",
+          "w": "Dino Prizmic",
           "w_logo": "",
-          "l": "Dino Prizmic",
+          "l": "Cameron Norrie",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 66.4,
-          "l_score": 55.0,
+          "scheduled": false,
+          "w_score": 55.0,
+          "l_score": 66.4,
           "match_score": 66.4
         },
         {
           "round": "R128",
-          "w": "Jack Draper",
+          "w": "Martin Landaluce",
           "w_logo": "",
-          "l": "Martin Landaluce",
+          "l": "Jack Draper",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 7-5",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 65.5,
-          "l_score": 57.6,
+          "scheduled": false,
+          "w_score": 57.6,
+          "l_score": 65.5,
           "match_score": 65.5
         },
         {
@@ -11079,15 +11079,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Camila Osorio",
+          "w": "Taylor Townsend",
           "w_logo": "",
-          "l": "Taylor Townsend",
+          "l": "Camila Osorio",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "3-6 6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 65.5,
-          "l_score": 58.9,
+          "scheduled": false,
+          "w_score": 58.9,
+          "l_score": 65.5,
           "match_score": 65.5
         },
         {
@@ -11122,9 +11122,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elena-Gabriela Ruse",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 61.7,
           "l_score": 57.2,
           "match_score": 61.7
@@ -11135,37 +11135,37 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Darja Vidmanova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 6-4 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 61.2,
           "l_score": 35.0,
           "match_score": 61.2
         },
         {
           "round": "R128",
-          "w": "Antonia Ruzic",
+          "w": "Magdalena Frech",
           "w_logo": "",
-          "l": "Magdalena Frech",
+          "l": "Antonia Ruzic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 60.1,
-          "l_score": 56.4,
+          "scheduled": false,
+          "w_score": 56.4,
+          "l_score": 60.1,
           "match_score": 60.1
         },
         {
           "round": "R128",
-          "w": "Ashlyn Krueger",
+          "w": "Lois Boisson",
           "w_logo": "",
-          "l": "Lois Boisson",
+          "l": "Ashlyn Krueger",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 58.8,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 58.8,
           "match_score": 58.8
         },
         {
@@ -11174,9 +11174,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Daria Kasatkina",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "2-6 7-6 (7-4) 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 58.3,
           "l_score": 57.3,
           "match_score": 58.3
@@ -11227,7 +11227,6 @@ window.TENNIS_DATA = {
       "Gael Monfils",
       "Grigor Dimitrov",
       "Hubert Hurkacz",
-      "Jack Draper",
       "Jacob Fearnley",
       "Jakub Mensik",
       "James Duckworth",
@@ -11291,6 +11290,7 @@ window.TENNIS_DATA = {
       "Giovanni Mpetshi Perricard",
       "Hamad Medjedovic",
       "Ignacio Buse",
+      "Jack Draper",
       "Jaime Faria",
       "Kamil Majchrzak",
       "Kyrian Jacquet",
@@ -11307,8 +11307,8 @@ window.TENNIS_DATA = {
       "Ugo Humbert",
       "Valentin Vacherot"
     ],
-    "aliveCount": 71,
-    "matchesSeen": 114
+    "aliveCount": 70,
+    "matchesSeen": 115
   },
   "WTA_TOURNAMENT": {
     "name": "National Bank Open presented by Rogers · Cincinnati Open",
@@ -11348,7 +11348,6 @@ window.TENNIS_DATA = {
       "Cristina Bucsa",
       "Daria Kasatkina",
       "Daria Snigur",
-      "Darja Vidmanova",
       "Dayana Yastremska",
       "Diana Shnaider",
       "Diane Parry",
@@ -11358,6 +11357,7 @@ window.TENNIS_DATA = {
       "Elina Svitolina",
       "Elise Mertens",
       "Elvina Kalieva",
+      "Emma Navarro",
       "Iga Swiatek",
       "Iva Jovic",
       "Jessica Bouzas Maneiro",
@@ -11369,7 +11369,6 @@ window.TENNIS_DATA = {
       "Katie Volynets",
       "Kayla Cross",
       "Kayla Day",
-      "Kimberly Birrell",
       "Lanlana Tararudee",
       "Leylah Fernandez",
       "Liudmila Samsonova",
@@ -11387,7 +11386,6 @@ window.TENNIS_DATA = {
       "Nikola Bartunkova",
       "Oleksandra Oliynykova",
       "Panna Udvardy",
-      "Petra Marcinko",
       "Rebecca Sramkova",
       "Renata Zarazua",
       "Sara Bejlek",
@@ -11412,19 +11410,21 @@ window.TENNIS_DATA = {
       "Cadence Brace",
       "Carol Zhao",
       "Clara Tauson",
+      "Darja Vidmanova",
       "Donna Vekic",
       "Elisabetta Cocciaretto",
       "Emerson Jones",
-      "Emma Navarro",
       "Eva Lys",
       "Janice Tjen",
       "Jelena Ostapenko",
       "Katerina Siniakova",
+      "Kimberly Birrell",
       "Leolia Jeanjean",
       "Linda Noskova",
       "Lucrezia Stefanini",
       "Maja Chwalinska",
       "Marie Bouzkova",
+      "Petra Marcinko",
       "Peyton Stearns",
       "Polina Kudermetova",
       "Rebecca Marino",
@@ -11436,8 +11436,8 @@ window.TENNIS_DATA = {
       "Wang Xinyu",
       "Wang Xiyu"
     ],
-    "aliveCount": 74,
-    "matchesSeen": 115
+    "aliveCount": 72,
+    "matchesSeen": 120
   },
   "ATP_SCORE_LOG": {
     "206173": [

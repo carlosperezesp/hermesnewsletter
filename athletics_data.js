@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-13 14:41 UTC
+// Auto-generated 2026-08-13 21:06 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-13 14:41 UTC",
+  "UPDATED": "2026-08-13 21:06 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -1208,108 +1208,7 @@ window.ATHLETICS_DATA = {
               "year": 1996
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "48.48",
-              "athlete": "Marileidy Paulino",
-              "country": "DOM",
-              "flag": "https://flagcdn.com/24x18/do.png",
-              "primary": "#002D62",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "48.79",
-              "athlete": "Dejanea Oakley",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Hayward Field",
-              "date": "13 JUN 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "48.84",
-              "athlete": "Aaliyah Butler",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Stade Louis II",
-              "date": "10 JUL 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "48.97",
-              "athlete": "Madison Whyte",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Hayward Field",
-              "date": "13 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "49.15",
-              "athlete": "Henriette J&#198;ger",
-              "country": "NOR",
-              "flag": "https://flagcdn.com/24x18/no.png",
-              "primary": "#EF2B2D",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "49.37",
-              "athlete": "Lurdes Gloria Manuel",
-              "country": "CZE",
-              "flag": "https://flagcdn.com/24x18/cz.png",
-              "primary": "#11457E",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "49.47",
-              "athlete": "Ella Onojuvwevwo",
-              "country": "NGR",
-              "flag": "https://flagcdn.com/24x18/ng.png",
-              "primary": "#008751",
-              "venue": "Cushing Stadium",
-              "date": "06 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "49.48",
-              "athlete": "Stacey Ann Williams",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Sports Park Mladost",
-              "date": "26 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "49.54",
-              "athlete": "Kaylyn Brown",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Hutsell-Rosen Track",
-              "date": "16 MAY 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "49.56",
-              "athlete": "Nickisha Pryce",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Stade Louis II",
-              "date": "10 JUL 2026"
-            }
-          ]
+          "season": []
         }
       ]
     },
@@ -5135,108 +5034,7 @@ window.ATHLETICS_DATA = {
               "year": 1984
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "7.20",
-              "athlete": "Tara Davis-Woodhall",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "USC Allyson Felix at Loker Track Stadium",
-              "date": "14 JUN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "7.12",
-              "athlete": "Larissa Iapichino",
-              "country": "ITA",
-              "flag": "https://flagcdn.com/24x18/it.png",
-              "primary": "#009246",
-              "venue": "Hayward Field",
-              "date": "04 JUL 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "7.09",
-              "athlete": "Alyssa Jones",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "John McDonnell Field",
-              "date": "28 MAY 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "7.07",
-              "athlete": "Alexis Brown",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Percy Beard Track",
-              "date": "17 APR 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "7.05",
-              "athlete": "Malaika Mihambo",
-              "country": "GER",
-              "flag": "https://flagcdn.com/24x18/de.png",
-              "primary": "#000000",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "6.98",
-              "athlete": "Hilary Kpatcha",
-              "country": "FRA",
-              "flag": "https://flagcdn.com/24x18/fr.png",
-              "primary": "#002395",
-              "venue": "Stadium Municipal",
-              "date": "24 JUL 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "6.97",
-              "athlete": "Agate De Sousa",
-              "country": "POR",
-              "flag": "https://flagcdn.com/24x18/pt.png",
-              "primary": "#006600",
-              "venue": "Gallur",
-              "date": "06 FEB 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "6.95",
-              "athlete": "Monae&#39; Nichols",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Ansin Sports Complex",
-              "date": "04 APR 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "6.94",
-              "athlete": "Claire Bryant",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "6.89",
-              "athlete": "Maja &#197;skag",
-              "country": "SWE",
-              "flag": "https://flagcdn.com/24x18/se.png",
-              "primary": "#006AA7",
-              "venue": "Sola Arena",
-              "date": "08 JUL 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "tj_m",
@@ -5632,6 +5430,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
+              "mark": "14.60",
+              "athlete": "Dariya Derkach",
+              "country": "ITA",
+              "flag": "https://flagcdn.com/24x18/it.png",
+              "primary": "#009246",
+              "venue": "Alexander Stadium",
+              "date": "13 AUG 2026"
+            },
+            {
+              "rank": 8,
               "mark": "14.56",
               "athlete": "Diana Ana Maria Ion",
               "country": "ROU",
@@ -5641,7 +5449,7 @@ window.ATHLETICS_DATA = {
               "date": "04 JUL 2026"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "14.52",
               "athlete": "Ilona Masson",
               "country": "BEL",
@@ -5649,16 +5457,6 @@ window.ATHLETICS_DATA = {
               "primary": "#4A4745",
               "venue": "Stade de Vongy",
               "date": "05 JUL 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "14.51",
-              "athlete": "Dariya Derkach",
-              "country": "ITA",
-              "flag": "https://flagcdn.com/24x18/it.png",
-              "primary": "#009246",
-              "venue": "Sports Park Mladost",
-              "date": "26 JUN 2026"
             },
             {
               "rank": 10,
