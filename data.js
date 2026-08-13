@@ -3012,7 +3012,7 @@ window.NHL_DATA = {
       "name": "Filip Forsberg",
       "pos": "LW",
       "teamCode": "NSH",
-      "age": 31,
+      "age": 32,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -7746,7 +7746,7 @@ window.NHL_DATA = {
       "name": "Casey DeSmith",
       "pos": "G",
       "teamCode": "DAL",
-      "age": 34,
+      "age": 35,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -17331,7 +17331,7 @@ window.NHL_DATA = {
       "name": "Carter Hart",
       "pos": "G",
       "teamCode": "VGK",
-      "age": 27,
+      "age": 28,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -31517,7 +31517,7 @@ window.NHL_DATA = {
       "name": "Kyle Capobianco",
       "pos": "D",
       "teamCode": "DAL",
-      "age": 28,
+      "age": 29,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -38091,7 +38091,7 @@ window.NHL_DATA = {
       "name": "Leevi Meriläinen",
       "pos": "G",
       "teamCode": "OTT",
-      "age": 23,
+      "age": 24,
       "country": "Finland",
       "birthCountry": "FIN",
       "colors": {
@@ -47977,10 +47977,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-12 22:06 UTC",
+  "LAST_UPDATE": "2026-08-13 06:45 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-12T22:06:17Z"
+    "standingsDateTimeUtc": "2026-08-13T06:44:45Z"
   }
 };

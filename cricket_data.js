@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-08-12 21:05 UTC",
+  "UPDATED": "2026-08-13 06:47 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1583,
+    "matches": 1581,
     "archives": [
       {
         "name": "Tests",
@@ -13,7 +13,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 159
+        "matches": 157
       },
       {
         "name": "T20Is",
@@ -227,16 +227,16 @@ window.CRICKET_DATA = {
       "id": "mj-henry",
       "name": "MJ Henry",
       "role": "Bowler",
-      "score": 87.7,
-      "legendScore": 67.0,
+      "score": 86.9,
+      "legendScore": 66.5,
       "stats": {
         "test": 83.7,
-        "odi": 87.9,
-        "t20": 94.2,
-        "franchise": 84.1,
+        "odi": 87.0,
+        "t20": 92.8,
+        "franchise": 82.9,
         "runs": 108,
-        "wickets": 103,
-        "matches": 42
+        "wickets": 101,
+        "matches": 41
       },
       "formatScores": {
         "test": {
@@ -245,19 +245,19 @@ window.CRICKET_DATA = {
           "bowling": 86.6
         },
         "odi": {
-          "overall": 46.9,
-          "batting": 7.2,
-          "bowling": 92.0
+          "overall": 47.0,
+          "batting": 7.3,
+          "bowling": 91.0
         },
         "t20": {
-          "overall": 53.1,
-          "batting": 6.7,
-          "bowling": 93.7
+          "overall": 53.0,
+          "batting": 6.8,
+          "bowling": 92.2
         },
         "franchise": {
-          "overall": 52.2,
-          "batting": 6.7,
-          "bowling": 83.2
+          "overall": 52.1,
+          "batting": 6.8,
+          "bowling": 81.9
         }
       },
       "country": "New Zealand",
@@ -548,8 +548,8 @@ window.CRICKET_DATA = {
           "batting": 51.6,
           "bowling": 45.3,
           "overall": 91.1,
-          "runs": 329,
-          "wickets": 32
+          "runs": 327,
+          "wickets": 30
         },
         {
           "id": "c-bosch",
@@ -656,7 +656,7 @@ window.CRICKET_DATA = {
           "batting": 54.4,
           "bowling": 27.7,
           "overall": 73.2,
-          "runs": 1238,
+          "runs": 1174,
           "wickets": 38
         },
         {
@@ -856,7 +856,7 @@ window.CRICKET_DATA = {
           "batting": 54.4,
           "bowling": 27.7,
           "overall": 73.2,
-          "runs": 1238,
+          "runs": 1174,
           "wickets": 38
         }
       ],
@@ -967,7 +967,7 @@ window.CRICKET_DATA = {
           "bowling": 86.6,
           "overall": 44.7,
           "runs": 108,
-          "wickets": 103
+          "wickets": 101
         },
         {
           "id": "mohammed-siraj",
@@ -1182,11 +1182,11 @@ window.CRICKET_DATA = {
             "secondary": "#ffb81c"
           },
           "logo": "https://flagcdn.com/24x18/za.png",
-          "score": 79.0,
-          "batting": 54.6,
-          "bowling": 34.4,
-          "overall": 79.0,
-          "runs": 1238,
+          "score": 79.1,
+          "batting": 53.9,
+          "bowling": 34.9,
+          "overall": 79.1,
+          "runs": 1174,
           "wickets": 38
         },
         {
@@ -1208,22 +1208,22 @@ window.CRICKET_DATA = {
           "wickets": 75
         },
         {
-          "id": "pj-cummins",
-          "name": "PJ Cummins",
+          "id": "s-muthusamy",
+          "name": "S Muthusamy",
           "role": "Bowler",
-          "country": "Australia",
-          "teamCode": "AUS",
+          "country": "South Africa",
+          "teamCode": "SA",
           "colors": {
-            "primary": "#ffcd00",
-            "secondary": "#006341"
+            "primary": "#007a4d",
+            "secondary": "#ffb81c"
           },
-          "logo": "https://flagcdn.com/24x18/au.png",
-          "score": 77.4,
-          "batting": 25.8,
-          "bowling": 69.9,
-          "overall": 77.4,
-          "runs": 399,
-          "wickets": 70
+          "logo": "https://flagcdn.com/24x18/za.png",
+          "score": 78.1,
+          "batting": 46.6,
+          "bowling": 39.4,
+          "overall": 78.1,
+          "runs": 327,
+          "wickets": 30
         }
       ],
       "batting": [
@@ -1510,12 +1510,12 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 92.0,
-          "batting": 7.2,
-          "bowling": 92.0,
-          "overall": 46.9,
+          "score": 91.0,
+          "batting": 7.3,
+          "bowling": 91.0,
+          "overall": 47.0,
           "runs": 108,
-          "wickets": 103
+          "wickets": 101
         },
         {
           "id": "sajid-khan",
@@ -1712,10 +1712,10 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 82.4,
-          "batting": 23.4,
-          "bowling": 64.6,
-          "overall": 82.4,
+          "score": 82.7,
+          "batting": 23.5,
+          "bowling": 64.8,
+          "overall": 82.7,
           "runs": 965,
           "wickets": 88
         },
@@ -1986,12 +1986,12 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 93.7,
-          "batting": 6.7,
-          "bowling": 93.7,
-          "overall": 53.1,
+          "score": 92.2,
+          "batting": 6.8,
+          "bowling": 92.2,
+          "overall": 53.0,
           "runs": 108,
-          "wickets": 103
+          "wickets": 101
         },
         {
           "id": "taijul-islam",
@@ -2242,10 +2242,10 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 84.3,
-          "batting": 21.9,
-          "bowling": 66.5,
-          "overall": 84.3,
+          "score": 84.6,
+          "batting": 22.0,
+          "bowling": 66.6,
+          "overall": 84.6,
           "runs": 965,
           "wickets": 88
         },
@@ -2596,24 +2596,6 @@ window.CRICKET_DATA = {
           "wickets": 108
         },
         {
-          "id": "mj-henry",
-          "name": "MJ Henry",
-          "role": "Bowler",
-          "country": "New Zealand",
-          "teamCode": "NZ",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          },
-          "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 83.2,
-          "batting": 6.7,
-          "bowling": 83.2,
-          "overall": 52.2,
-          "runs": 108,
-          "wickets": 103
-        },
-        {
           "id": "jnt-seales",
           "name": "JNT Seales",
           "role": "Bowler",
@@ -2648,6 +2630,24 @@ window.CRICKET_DATA = {
           "overall": 72.2,
           "runs": 415,
           "wickets": 107
+        },
+        {
+          "id": "mj-henry",
+          "name": "MJ Henry",
+          "role": "Bowler",
+          "country": "New Zealand",
+          "teamCode": "NZ",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          },
+          "logo": "https://flagcdn.com/24x18/nz.png",
+          "score": 81.9,
+          "batting": 6.8,
+          "bowling": 81.9,
+          "overall": 52.1,
+          "runs": 108,
+          "wickets": 101
         },
         {
           "id": "shaheen-shah-afridi",
@@ -3402,51 +3402,6 @@ window.CRICKET_DATA = {
         "logo": "https://flagcdn.com/24x18/au.png"
       },
       {
-        "id": "mj-henry",
-        "name": "MJ Henry",
-        "role": "Bowler",
-        "score": 87.7,
-        "legendScore": 67.0,
-        "stats": {
-          "test": 83.7,
-          "odi": 87.9,
-          "t20": 94.2,
-          "franchise": 84.1,
-          "runs": 108,
-          "wickets": 103,
-          "matches": 42
-        },
-        "formatScores": {
-          "test": {
-            "overall": 44.7,
-            "batting": 6.5,
-            "bowling": 86.6
-          },
-          "odi": {
-            "overall": 46.9,
-            "batting": 7.2,
-            "bowling": 92.0
-          },
-          "t20": {
-            "overall": 53.1,
-            "batting": 6.7,
-            "bowling": 93.7
-          },
-          "franchise": {
-            "overall": 52.2,
-            "batting": 6.7,
-            "bowling": 83.2
-          }
-        },
-        "country": "New Zealand",
-        "teamCode": "NZ",
-        "colors": {
-          "primary": "#111111",
-          "secondary": "#d8d8d8"
-        },
-        "logo": "https://flagcdn.com/24x18/nz.png"
-      },
-      {
         "id": "taijul-islam",
         "name": "Taijul Islam",
         "role": "Bowler",
@@ -3490,6 +3445,51 @@ window.CRICKET_DATA = {
           "secondary": "#f42a41"
         },
         "logo": "https://flagcdn.com/24x18/bd.png"
+      },
+      {
+        "id": "mj-henry",
+        "name": "MJ Henry",
+        "role": "Bowler",
+        "score": 86.9,
+        "legendScore": 66.5,
+        "stats": {
+          "test": 83.7,
+          "odi": 87.0,
+          "t20": 92.8,
+          "franchise": 82.9,
+          "runs": 108,
+          "wickets": 101,
+          "matches": 41
+        },
+        "formatScores": {
+          "test": {
+            "overall": 44.7,
+            "batting": 6.5,
+            "bowling": 86.6
+          },
+          "odi": {
+            "overall": 47.0,
+            "batting": 7.3,
+            "bowling": 91.0
+          },
+          "t20": {
+            "overall": 53.0,
+            "batting": 6.8,
+            "bowling": 92.2
+          },
+          "franchise": {
+            "overall": 52.1,
+            "batting": 6.8,
+            "bowling": 81.9
+          }
+        },
+        "country": "New Zealand",
+        "teamCode": "NZ",
+        "colors": {
+          "primary": "#111111",
+          "secondary": "#d8d8d8"
+        },
+        "logo": "https://flagcdn.com/24x18/nz.png"
       },
       {
         "id": "jnt-seales",

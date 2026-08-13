@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-12 22:08 UTC",
+  "UPDATED": "2026-08-13 06:47 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -97,15 +97,6 @@ window.GLORY_DATA = {
       "text": "VJ Edgecombe cae del top-10 · jóvenes promesas",
       "weight": 74,
       "firstSeen": "2026-07-31"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:out:AAP Atkinson",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "AAP Atkinson cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-07-29"
     }
   ],
   "REPORTS": [],
@@ -475,8 +466,8 @@ window.GLORY_DATA = {
     "cricket:ROAD_TO_GLORY.players": [
       "JJ Bumrah",
       "MA Starc",
-      "MJ Henry",
       "Taijul Islam",
+      "MJ Henry",
       "JNT Seales",
       "RA Jadeja",
       "Mehedi Hasan Miraz",
