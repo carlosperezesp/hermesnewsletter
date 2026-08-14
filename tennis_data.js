@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-14 14:36 UTC
+// Auto-generated 2026-08-14 20:48 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-14 14:36 UTC",
+  "UPDATED": "2026-08-14 20:48 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -168,9 +168,9 @@ window.TENNIS_DATA = {
       "prevListRank": 5,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 82.3
     },
@@ -202,9 +202,9 @@ window.TENNIS_DATA = {
       "prevListRank": 6,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 81.1
     },
@@ -236,9 +236,9 @@ window.TENNIS_DATA = {
       "prevListRank": 7,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 79.6
     },
@@ -270,9 +270,9 @@ window.TENNIS_DATA = {
       "prevListRank": 8,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 79.8
     },
@@ -372,9 +372,9 @@ window.TENNIS_DATA = {
       "prevListRank": 11,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 77.7
     },
@@ -406,9 +406,9 @@ window.TENNIS_DATA = {
       "prevListRank": 12,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 76.8
     },
@@ -474,9 +474,9 @@ window.TENNIS_DATA = {
       "prevListRank": 14,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 76.4
     },
@@ -542,9 +542,9 @@ window.TENNIS_DATA = {
       "prevListRank": 16,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 75.8
     },
@@ -610,9 +610,9 @@ window.TENNIS_DATA = {
       "prevListRank": 18,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 74.7
     },
@@ -644,9 +644,9 @@ window.TENNIS_DATA = {
       "prevListRank": 19,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 75.0
     },
@@ -678,9 +678,9 @@ window.TENNIS_DATA = {
       "prevListRank": 20,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 75.0
     },
@@ -746,9 +746,9 @@ window.TENNIS_DATA = {
       "prevListRank": 22,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 73.6
     },
@@ -985,7 +985,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 67.7
@@ -1121,7 +1121,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 66.2
@@ -1222,9 +1222,9 @@ window.TENNIS_DATA = {
       "prevListRank": 36,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 66.3
     },
@@ -1256,9 +1256,9 @@ window.TENNIS_DATA = {
       "prevListRank": 37,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 65.5
     },
@@ -1327,7 +1327,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 65.0
@@ -1498,9 +1498,9 @@ window.TENNIS_DATA = {
       "prevListRank": 44,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 64.8
     },
@@ -1532,9 +1532,9 @@ window.TENNIS_DATA = {
       "prevListRank": 45,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "state": "out",
+        "round": "",
+        "reason": "No compite en Cincinnati Open"
       },
       "prevActiveScore": 62.8
     },
@@ -1669,7 +1669,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 62.7
@@ -1737,7 +1737,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 62.0
@@ -1839,7 +1839,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 60.5
@@ -1873,7 +1873,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 61.9
@@ -1941,7 +1941,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 60.3
@@ -2009,7 +2009,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 60.2
@@ -2110,9 +2110,9 @@ window.TENNIS_DATA = {
       "prevListRank": 62,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 59.4
     },
@@ -2281,7 +2281,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 58.6
@@ -2348,9 +2348,9 @@ window.TENNIS_DATA = {
       "prevListRank": 69,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.9
     },
@@ -2586,9 +2586,9 @@ window.TENNIS_DATA = {
       "prevListRank": 76,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 56.6
     },
@@ -2689,7 +2689,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 56.1
@@ -2963,7 +2963,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.0
@@ -2996,9 +2996,9 @@ window.TENNIS_DATA = {
       "prevListRank": 88,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 54.4
     },
@@ -3336,9 +3336,9 @@ window.TENNIS_DATA = {
       "prevListRank": 98,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 53.4
     },
@@ -3474,9 +3474,9 @@ window.TENNIS_DATA = {
       "prevListRank": 102,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 52.2
     },
@@ -4058,9 +4058,9 @@ window.TENNIS_DATA = {
       "prevListRank": 119,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 48.4
     },
@@ -4160,9 +4160,9 @@ window.TENNIS_DATA = {
       "prevListRank": 122,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 47.9
     },
@@ -4297,7 +4297,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 46.9
@@ -4364,9 +4364,9 @@ window.TENNIS_DATA = {
       "prevListRank": 128,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 45.4
     },
@@ -4930,9 +4930,9 @@ window.TENNIS_DATA = {
       "prevListRank": 144,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 35.0
     },
@@ -5182,9 +5182,9 @@ window.TENNIS_DATA = {
       "prevListRank": 1,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 100.0
     },
@@ -5250,9 +5250,9 @@ window.TENNIS_DATA = {
       "prevListRank": 3,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 91.8
     },
@@ -5318,9 +5318,9 @@ window.TENNIS_DATA = {
       "prevListRank": 5,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 90.5
     },
@@ -5522,9 +5522,9 @@ window.TENNIS_DATA = {
       "prevListRank": 11,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 85.4
     },
@@ -5624,9 +5624,9 @@ window.TENNIS_DATA = {
       "prevListRank": 14,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 80.4
     },
@@ -5862,9 +5862,9 @@ window.TENNIS_DATA = {
       "prevListRank": 21,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 75.7
     },
@@ -5930,9 +5930,9 @@ window.TENNIS_DATA = {
       "prevListRank": 23,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 73.7
     },
@@ -5998,9 +5998,9 @@ window.TENNIS_DATA = {
       "prevListRank": 25,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 72.3
     },
@@ -6032,9 +6032,9 @@ window.TENNIS_DATA = {
       "prevListRank": 26,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 71.8
     },
@@ -6168,9 +6168,9 @@ window.TENNIS_DATA = {
       "prevListRank": 30,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 68.8
     },
@@ -6305,7 +6305,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 66.5
@@ -6509,7 +6509,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 64.2
@@ -6542,9 +6542,9 @@ window.TENNIS_DATA = {
       "prevListRank": 41,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 65.8
     },
@@ -6577,7 +6577,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 64.3
@@ -6611,7 +6611,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 63.4
@@ -6783,7 +6783,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 62.7
@@ -6816,9 +6816,9 @@ window.TENNIS_DATA = {
       "prevListRank": 49,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 62.8
     },
@@ -6884,9 +6884,9 @@ window.TENNIS_DATA = {
       "prevListRank": 51,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 63.2
     },
@@ -6919,7 +6919,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 62.5
@@ -7020,9 +7020,9 @@ window.TENNIS_DATA = {
       "prevListRank": 55,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 61.5
     },
@@ -7054,9 +7054,9 @@ window.TENNIS_DATA = {
       "prevListRank": 56,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 59.6
     },
@@ -7361,7 +7361,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 58.3
@@ -7498,9 +7498,9 @@ window.TENNIS_DATA = {
       "prevListRank": 69,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.2
     },
@@ -7532,9 +7532,9 @@ window.TENNIS_DATA = {
       "prevListRank": 70,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 59.2
     },
@@ -7770,9 +7770,9 @@ window.TENNIS_DATA = {
       "prevListRank": 77,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 55.2
     },
@@ -7838,9 +7838,9 @@ window.TENNIS_DATA = {
       "prevListRank": 79,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 55.6
     },
@@ -7873,7 +7873,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 53.8
@@ -8147,7 +8147,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.4
@@ -8735,7 +8735,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 48.1
@@ -8769,7 +8769,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 48.1
@@ -9390,9 +9390,9 @@ window.TENNIS_DATA = {
       "prevListRank": 124,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 42.3
     },
@@ -9529,7 +9529,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 40.5
@@ -9598,9 +9598,9 @@ window.TENNIS_DATA = {
       "prevListRank": 130,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 39.8
     },
@@ -9846,9 +9846,9 @@ window.TENNIS_DATA = {
       "prevListRank": 137,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 38.3
     },
@@ -10274,9 +10274,9 @@ window.TENNIS_DATA = {
       "prevListRank": 149,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 35.0
     },
@@ -11010,9 +11010,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Titouan Droguet",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "3-6 6-1 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 67.5,
           "l_score": 56.6,
           "match_score": 67.5
@@ -11023,24 +11023,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jesper de Jong",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 66.3,
           "l_score": 53.4,
           "match_score": 66.3
         },
         {
           "round": "R128",
-          "w": "Tomas Machac",
+          "w": "Pablo Carreno Busta",
           "w_logo": "",
-          "l": "Pablo Carreno Busta",
+          "l": "Tomas Machac",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 65.9,
-          "l_score": 55.7,
+          "scheduled": false,
+          "w_score": 55.7,
+          "l_score": 65.9,
           "match_score": 65.9
         },
         {
@@ -11049,37 +11049,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Valentin Royer",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-4) 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 65.4,
           "l_score": 45.4,
           "match_score": 65.4
         },
         {
           "round": "R128",
-          "w": "Luca Van Assche",
+          "w": "Yannick Hanfmann",
           "w_logo": "",
-          "l": "Yannick Hanfmann",
+          "l": "Luca Van Assche",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 64.3,
-          "l_score": 62.2,
-          "match_score": 64.3
-        },
-        {
-          "round": "R128",
-          "w": "Tallon Griekspoor",
-          "w_logo": "",
-          "l": "Botic Van De Zandschulp",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 64.3,
-          "l_score": 61.7,
+          "scheduled": false,
+          "w_score": 62.2,
+          "l_score": 64.3,
           "match_score": 64.3
         },
         {
@@ -11088,9 +11075,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sho Shimabukuro",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 63.0,
           "l_score": 35.0,
           "match_score": 63.0
@@ -11107,6 +11094,19 @@ window.TENNIS_DATA = {
           "w_score": 62.9,
           "l_score": 52.1,
           "match_score": 62.9
+        },
+        {
+          "round": "R128",
+          "w": "Thanasi Kokkinakis",
+          "w_logo": "",
+          "l": "Nuno Borges",
+          "l_logo": "",
+          "score": "In Progress",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 62.1,
+          "match_score": 62.1
         }
       ]
     }
@@ -11278,15 +11278,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Karolina Pliskova",
+          "w": "Sara Bejlek",
           "w_logo": "",
-          "l": "Sara Bejlek",
+          "l": "Karolina Pliskova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-0 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 74.8,
-          "l_score": 63.7,
+          "scheduled": false,
+          "w_score": 63.7,
+          "l_score": 74.8,
           "match_score": 74.8
         },
         {
@@ -11295,9 +11295,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Harriet Dart",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 7-6 (8-6)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 67.0,
           "l_score": 35.0,
           "match_score": 67.0
@@ -11321,9 +11321,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alina Charaeva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 64.6,
           "l_score": 39.8,
           "match_score": 64.6
@@ -11334,9 +11334,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elvina Kalieva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 64.0,
           "l_score": 42.3,
           "match_score": 64.0
@@ -11360,24 +11360,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Maya Joint",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "0-6 6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 62.7,
           "l_score": 60.7,
           "match_score": 62.7
         },
         {
           "round": "R128",
-          "w": "Elisabetta Cocciaretto",
+          "w": "Lucrezia Stefanini",
           "w_logo": "",
-          "l": "Lucrezia Stefanini",
+          "l": "Elisabetta Cocciaretto",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "5-3 ret",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 62.6,
-          "l_score": 40.5,
+          "scheduled": false,
+          "w_score": 40.5,
+          "l_score": 62.6,
           "match_score": 62.6
         }
       ]
@@ -11401,38 +11401,41 @@ window.TENNIS_DATA = {
       "Alejandro Tabilo",
       "Aleksandar Kovacevic",
       "Alex Michelsen",
+      "Alex de Minaur",
       "Alexander Blockx",
       "Alexander Zverev",
+      "Andrey Rublev",
+      "Arthur Fery",
+      "Arthur Fils",
+      "Arthur Rinderknech",
       "Botic Van De Zandschulp",
       "Cameron Norrie",
-      "Chak Lam Coleman Wong",
+      "Casper Ruud",
       "Christopher O'Connell",
       "Daniel Altmaier",
       "Daniel Merida",
       "Denis Shapovalov",
       "Fabian Marozsan",
+      "Felix Auger-Aliassime",
       "Flavio Cobolli",
-      "Grigor Dimitrov",
       "Hamad Medjedovic",
       "Hubert Hurkacz",
-      "J.J. Wolf",
       "Jaime Faria",
       "Jakub Mensik",
       "James Duckworth",
       "Jan-Lennard Struff",
       "Jenson Brooksby",
-      "Jesper de Jong",
+      "Jiri Lehecka",
+      "Joao Fonseca",
       "Juan Manuel Cerundolo",
-      "Kamil Majchrzak",
       "Karen Khachanov",
-      "Kyrian Jacquet",
+      "Learner Tien",
+      "Lorenzo Musetti",
       "Lorenzo Sonego",
-      "Luca Van Assche",
       "Luciano Darderi",
       "Marco Trungelliti",
       "Mariano Navone",
       "Marin Cilic",
-      "Mark Lajal",
       "Martin Landaluce",
       "Matteo Arnaldi",
       "Matteo Berrettini",
@@ -11448,33 +11451,44 @@ window.TENNIS_DATA = {
       "Rinky Hijikata",
       "Sebastian Baez",
       "Shang Juncheng",
-      "Sho Shimabukuro",
       "Stefanos Tsitsipas",
-      "Tallon Griekspoor",
+      "Taylor Fritz",
       "Terence Atmane",
       "Thanasi Kokkinakis",
       "Thiago Agustin Tirante",
-      "Titouan Droguet",
-      "Tomas Machac",
       "Tomas Martin Etcheverry",
-      "Valentin Royer",
-      "Vit Kopriva",
+      "Tommy Paul",
+      "Valentin Vacherot",
       "Yannick Hanfmann"
     ],
     "out": [
       "Adrian Mannarino",
+      "Aleksandr Shevchenko",
       "Camilo Ugo Carabelli",
+      "Chak Lam Coleman Wong",
       "Dino Prizmic",
       "Gael Monfils",
+      "Grigor Dimitrov",
+      "J.J. Wolf",
       "Jack Draper",
       "Jan Choinski",
+      "Jesper de Jong",
+      "Kamil Majchrzak",
+      "Kyrian Jacquet",
+      "Luca Van Assche",
+      "Mark Lajal",
       "Marton Fucsovics",
       "Raphael Collignon",
       "Roman Andres Burruchaga",
+      "Sho Shimabukuro",
+      "Titouan Droguet",
+      "Tomas Machac",
+      "Valentin Royer",
+      "Vit Kopriva",
       "Zachary Svajda"
     ],
     "aliveCount": 64,
-    "matchesSeen": 42
+    "matchesSeen": 56
   },
   "WTA_TOURNAMENT": {
     "name": "Cincinnati Open",
@@ -11490,48 +11504,49 @@ window.TENNIS_DATA = {
     ],
     "alive": [
       "Alexandra Eala",
-      "Alina Charaeva",
-      "Alycia Parks",
       "Amanda Anisimova",
       "Anhelina Kalinina",
       "Anna Blinkova",
-      "Anna Bondar",
       "Anna Kalinskaya",
+      "Aryna Sabalenka",
+      "Barbora Krejcikova",
       "Belinda Bencic",
       "Catherine McNally",
+      "Clara Tauson",
       "Cristina Bucsa",
       "Daria Snigur",
       "Diana Shnaider",
       "Diane Parry",
+      "Ekaterina Alexandrova",
       "Elena Rybakina",
       "Elena-Gabriela Ruse",
-      "Elisabetta Cocciaretto",
       "Elise Mertens",
-      "Elvina Kalieva",
       "Emiliana Arango",
       "Emma Navarro",
       "Eva Lys",
       "Hanne Vandewinkel",
-      "Harriet Dart",
+      "Iga Swiatek",
+      "Iva Jovic",
+      "Janice Tjen",
       "Jelena Ostapenko",
       "Jessica Bouzas Maneiro",
       "Jessica Pegula",
       "Kamilla Rakhimova",
-      "Karolina Pliskova",
+      "Katerina Siniakova",
       "Katie Boulter",
       "Kayla Day",
-      "Lilli Tagger",
       "Linda Noskova",
       "Liudmila Samsonova",
       "Lois Boisson",
       "Lucrezia Stefanini",
+      "Madison Keys",
       "Magdalena Frech",
       "Maja Chwalinska",
-      "Mananchaya Sawangkaew",
       "Maria Sakkari",
       "Maria Timofeeva",
+      "Marie Bouzkova",
       "Mary Stoiana",
-      "Maya Joint",
+      "Mirra Andreeva",
       "Nikola Bartunkova",
       "Oleksandra Oliynykova",
       "Peyton Stearns",
@@ -11540,21 +11555,23 @@ window.TENNIS_DATA = {
       "Sinja Kraus",
       "Sloane Stephens",
       "Sofia Kenin",
+      "Sorana Cirstea",
       "Talia Gibson",
       "Tamara Korpatsch",
       "Tatjana Maria",
       "Taylor Townsend",
       "Tereza Valentova",
-      "Venus Williams",
       "Viktorija Golubic",
       "Wang Xinyu",
       "Wang Xiyu",
       "Yulia Putintseva",
-      "Yuliia Starodubtseva",
       "Zeynep Sonmez",
       "Zhang Shuai"
     ],
     "out": [
+      "Alina Charaeva",
+      "Alycia Parks",
+      "Anna Bondar",
       "Antonia Ruzic",
       "Ashlyn Krueger",
       "Camila Osorio",
@@ -11562,15 +11579,24 @@ window.TENNIS_DATA = {
       "Daria Kasatkina",
       "Darja Vidmanova",
       "Dayana Yastremska",
+      "Elisabetta Cocciaretto",
+      "Elvina Kalieva",
+      "Harriet Dart",
+      "Karolina Pliskova",
       "Katie Volynets",
       "Kimberly Birrell",
+      "Lilli Tagger",
       "Magda Linette",
+      "Mananchaya Sawangkaew",
+      "Maya Joint",
       "McCartney Kessler",
       "Panna Udvardy",
-      "Petra Marcinko"
+      "Petra Marcinko",
+      "Venus Williams",
+      "Yuliia Starodubtseva"
     ],
     "aliveCount": 64,
-    "matchesSeen": 45
+    "matchesSeen": 57
   },
   "ATP_SCORE_LOG": {
     "206173": [
