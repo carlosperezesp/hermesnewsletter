@@ -1,22 +1,22 @@
-// Auto-generated 2026-08-14 07:54 UTC
+// Auto-generated 2026-08-14 14:01 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-08-14 07:54 UTC",
+  "UPDATED": "2026-08-14 14:01 UTC",
   "SEASON": "2026",
-  "ROUND": 22,
-  "IMPORTANCE": 8.4,
+  "ROUND": 23,
+  "IMPORTANCE": 9.0,
   "LEGEND_THRESHOLD": 70.5,
   "LADDER": [
     {
       "rank": 1,
       "name": "Fremantle",
-      "wins": 18,
+      "wins": 19,
       "losses": 3,
       "draws": 0,
-      "pts": 72,
-      "percentage": 143.4,
+      "pts": 76,
+      "percentage": 142.5,
       "primary": "#2A0D54",
       "secondary": "#FFFFFF",
-      "prevRank": null
+      "prevRank": 1
     },
     {
       "rank": 2,
@@ -28,7 +28,7 @@ window.AFL_DATA = {
       "percentage": 134.0,
       "primary": "#F57F00",
       "secondary": "#002040",
-      "prevRank": null
+      "prevRank": 2
     },
     {
       "rank": 3,
@@ -40,7 +40,7 @@ window.AFL_DATA = {
       "percentage": 118.2,
       "primary": "#4D2004",
       "secondary": "#FFD200",
-      "prevRank": null
+      "prevRank": 3
     },
     {
       "rank": 4,
@@ -52,19 +52,19 @@ window.AFL_DATA = {
       "percentage": 117.8,
       "primary": "#7B1A4B",
       "secondary": "#F6AE00",
-      "prevRank": null
+      "prevRank": 4
     },
     {
       "rank": 5,
       "name": "Adelaide",
       "wins": 14,
-      "losses": 7,
+      "losses": 8,
       "draws": 0,
       "pts": 56,
-      "percentage": 117.6,
+      "percentage": 115.1,
       "primary": "#002B5C",
       "secondary": "#CC2031",
-      "prevRank": null
+      "prevRank": 5
     },
     {
       "rank": 6,
@@ -76,7 +76,7 @@ window.AFL_DATA = {
       "percentage": 107.6,
       "primary": "#CC2031",
       "secondary": "#013B9F",
-      "prevRank": null
+      "prevRank": 6
     },
     {
       "rank": 7,
@@ -88,7 +88,7 @@ window.AFL_DATA = {
       "percentage": 120.6,
       "primary": "#002A54",
       "secondary": "#FFFFFF",
-      "prevRank": null
+      "prevRank": 7
     },
     {
       "rank": 8,
@@ -100,7 +100,7 @@ window.AFL_DATA = {
       "percentage": 106.4,
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "prevRank": null
+      "prevRank": 8
     },
     {
       "rank": 9,
@@ -216,94 +216,14 @@ window.AFL_DATA = {
   "PERFORMERS": [],
   "LAST_ROUND": [
     {
-      "hteam": "Western Bulldogs",
-      "hscore": 77,
-      "ateam": "North Melbourne",
-      "ascore": 100,
-      "winner": "North Melbourne",
-      "date": "2026-08-06",
-      "hprimary": "#0039A6",
-      "aprimary": "#CC2031"
-    },
-    {
-      "hteam": "Brisbane Lions",
-      "hscore": 125,
-      "ateam": "Hawthorn",
-      "ascore": 58,
-      "winner": "Brisbane Lions",
-      "date": "2026-08-07",
-      "hprimary": "#7B1A4B",
-      "aprimary": "#4D2004"
-    },
-    {
-      "hteam": "Melbourne",
-      "hscore": 113,
-      "ateam": "Fremantle",
-      "ascore": 109,
-      "winner": "Melbourne",
-      "date": "2026-08-08",
-      "hprimary": "#CC2031",
-      "aprimary": "#2A0D54"
-    },
-    {
-      "hteam": "Sydney",
-      "hscore": 167,
-      "ateam": "Port Adelaide",
-      "ascore": 70,
-      "winner": "Sydney",
-      "date": "2026-08-08",
-      "hprimary": "#F57F00",
+      "hteam": "Fremantle",
+      "hscore": 112,
+      "ateam": "Adelaide",
+      "ascore": 88,
+      "winner": "Fremantle",
+      "date": "2026-08-14",
+      "hprimary": "#2A0D54",
       "aprimary": "#002B5C"
-    },
-    {
-      "hteam": "Geelong",
-      "hscore": 117,
-      "ateam": "Essendon",
-      "ascore": 50,
-      "winner": "Geelong",
-      "date": "2026-08-08",
-      "hprimary": "#002A54",
-      "aprimary": "#CC2031"
-    },
-    {
-      "hteam": "Adelaide",
-      "hscore": 63,
-      "ateam": "Richmond",
-      "ascore": 54,
-      "winner": "Adelaide",
-      "date": "2026-08-08",
-      "hprimary": "#002B5C",
-      "aprimary": "#FFD200"
-    },
-    {
-      "hteam": "Greater Western Sydney",
-      "hscore": 77,
-      "ateam": "Gold Coast",
-      "ascore": 79,
-      "winner": "Gold Coast",
-      "date": "2026-08-09",
-      "hprimary": "#F57F00",
-      "aprimary": "#C5002F"
-    },
-    {
-      "hteam": "West Coast",
-      "hscore": 98,
-      "ateam": "Collingwood",
-      "ascore": 117,
-      "winner": "Collingwood",
-      "date": "2026-08-09",
-      "hprimary": "#002B5C",
-      "aprimary": "#000000"
-    },
-    {
-      "hteam": "St Kilda",
-      "hscore": 62,
-      "ateam": "Carlton",
-      "ascore": 106,
-      "winner": "Carlton",
-      "date": "2026-08-09",
-      "hprimary": "#ED1C2E",
-      "aprimary": "#0E1E2D"
     }
   ],
   "CURRENT_CONTENDERS": [

@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-14 07:55 UTC
+// Auto-generated 2026-08-14 14:02 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-14 07:55 UTC",
+  "UPDATED": "2026-08-14 14:02 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -4166,108 +4166,7 @@ window.ATHLETICS_DATA = {
               "year": 2007
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "2.03",
-              "athlete": "Yaroslava Mahuchikh",
-              "country": "UKR",
-              "flag": "https://flagcdn.com/24x18/ua.png",
-              "primary": "#005BBB",
-              "venue": "Arena SKIF",
-              "date": "17 JAN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "2.01",
-              "athlete": "Nicola Olyslagers",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "2.00",
-              "athlete": "Angelina Topić",
-              "country": "SRB",
-              "flag": "https://flagcdn.com/24x18/rs.png",
-              "primary": "#4A4745",
-              "venue": "Športov hala Dukla",
-              "date": "24 FEB 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "2.00",
-              "athlete": "Eleanor Patterson",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "Kennedyplatz",
-              "date": "21 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "1.99",
-              "athlete": "Yuliia Levchenko",
-              "country": "UKR",
-              "flag": "https://flagcdn.com/24x18/ua.png",
-              "primary": "#005BBB",
-              "venue": "Kujawsko-Pomorska Arena",
-              "date": "20 MAR 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "1.98",
-              "athlete": "Maria Żodzik",
-              "country": "POL",
-              "flag": "https://flagcdn.com/24x18/pl.png",
-              "primary": "#DC143C",
-              "venue": "Arena Toruń",
-              "date": "22 FEB 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "1.98",
-              "athlete": "Marija Vuković",
-              "country": "MNE",
-              "flag": "",
-              "primary": "#4A4745",
-              "venue": "Filothei Stadium",
-              "date": "03 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "1.97",
-              "athlete": "Temitope Simbiat Adeshina",
-              "country": "NGR",
-              "flag": "https://flagcdn.com/24x18/ng.png",
-              "primary": "#008751",
-              "venue": "Randal Tyson Indoor Center",
-              "date": "30 JAN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "1.97",
-              "athlete": "Iryna Gerashchenko",
-              "country": "UKR",
-              "flag": "https://flagcdn.com/24x18/ua.png",
-              "primary": "#005BBB",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "1.96",
-              "athlete": "Charity Hufnagel",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Gallur",
-              "date": "06 FEB 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "pv_m",
