@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-14 20:48 UTC
+// Auto-generated 2026-08-14 21:47 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-14 20:48 UTC",
+  "UPDATED": "2026-08-14 21:47 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -6270,9 +6270,9 @@ window.TENNIS_DATA = {
       "prevListRank": 33,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en Cincinnati Open"
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 67.0
     },
@@ -9426,9 +9426,9 @@ window.TENNIS_DATA = {
       "prevListRank": 125,
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 41.5
     },
@@ -11084,15 +11084,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Hamad Medjedovic",
+          "w": "Marco Trungelliti",
           "w_logo": "",
-          "l": "Marco Trungelliti",
+          "l": "Hamad Medjedovic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 62.9,
-          "l_score": 52.1,
+          "scheduled": false,
+          "w_score": 52.1,
+          "l_score": 62.9,
           "match_score": 62.9
         },
         {
@@ -11347,9 +11347,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Yulia Putintseva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 63.4,
           "l_score": 52.2,
           "match_score": 63.4
@@ -11535,6 +11535,7 @@ window.TENNIS_DATA = {
       "Katerina Siniakova",
       "Katie Boulter",
       "Kayla Day",
+      "Leylah Fernandez",
       "Linda Noskova",
       "Liudmila Samsonova",
       "Lois Boisson",
@@ -11543,7 +11544,6 @@ window.TENNIS_DATA = {
       "Magdalena Frech",
       "Maja Chwalinska",
       "Maria Sakkari",
-      "Maria Timofeeva",
       "Marie Bouzkova",
       "Mary Stoiana",
       "Mirra Andreeva",
@@ -11588,6 +11588,7 @@ window.TENNIS_DATA = {
       "Lilli Tagger",
       "Magda Linette",
       "Mananchaya Sawangkaew",
+      "Maria Timofeeva",
       "Maya Joint",
       "McCartney Kessler",
       "Panna Udvardy",
@@ -11596,7 +11597,7 @@ window.TENNIS_DATA = {
       "Yuliia Starodubtseva"
     ],
     "aliveCount": 64,
-    "matchesSeen": 57
+    "matchesSeen": 58
   },
   "ATP_SCORE_LOG": {
     "206173": [
