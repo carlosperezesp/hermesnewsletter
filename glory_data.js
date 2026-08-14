@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-14 06:45 UTC",
+  "UPDATED": "2026-08-14 07:56 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -250,10 +250,10 @@ window.GLORY_DATA = {
       "Alexander Zverev",
       "Arthur Fils",
       "Casper Ruud",
-      "Tommy Paul",
       "Lorenzo Musetti",
-      "Daniil Medvedev",
-      "Rafael Jodar"
+      "Tommy Paul",
+      "Rafael Jodar",
+      "Daniil Medvedev"
     ],
     "tennis:WTA": [
       "Aryna Sabalenka",
