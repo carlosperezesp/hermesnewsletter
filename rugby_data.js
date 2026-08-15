@@ -1,20 +1,45 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-08-15 05:43 UTC",
-  "LAST_MATCH": "2026-08-08",
+  "UPDATED": "2026-08-15 07:04 UTC",
+  "LAST_MATCH": "2026-08-15",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 346,
+    "incrementalMatches": 347,
     "teams": 162,
-    "matches": 10041,
-    "through": "2026-08-08"
+    "matches": 10042,
+    "through": "2026-08-15"
   },
   "IMPORTANCE": 7.0,
   "CALENDAR": {
     "recent": [
+      {
+        "date": "2026-08-15",
+        "status": "final",
+        "competition": "International Test Match",
+        "home": {
+          "name": "Australia",
+          "teamCode": "AUS",
+          "colors": {
+            "primary": "#ffcd00",
+            "secondary": "#00843d"
+          }
+        },
+        "away": {
+          "name": "Japan",
+          "teamCode": "JPN",
+          "colors": {
+            "primary": "#bc002d",
+            "secondary": "#ffffff"
+          }
+        },
+        "homeScore": 56,
+        "awayScore": 17,
+        "venue": "Queensland Country Bank Stadium",
+        "city": "Townsville"
+      },
       {
         "date": "2026-08-08",
         "status": "final",
@@ -67,31 +92,6 @@ window.RUGBY_DATA = {
       }
     ],
     "upcoming": [
-      {
-        "date": "2026-08-15",
-        "status": "scheduled",
-        "competition": "International Test Match",
-        "home": {
-          "name": "Australia",
-          "teamCode": "AUS",
-          "colors": {
-            "primary": "#ffcd00",
-            "secondary": "#00843d"
-          }
-        },
-        "away": {
-          "name": "Japan",
-          "teamCode": "JPN",
-          "colors": {
-            "primary": "#bc002d",
-            "secondary": "#ffffff"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "Queensland Country Bank Stadium",
-        "city": "Townsville"
-      },
       {
         "date": "2026-08-22",
         "status": "scheduled",
@@ -366,6 +366,31 @@ window.RUGBY_DATA = {
         "awayScore": null,
         "venue": "Eden Park",
         "city": "Auckland"
+      },
+      {
+        "date": "2026-10-17",
+        "status": "scheduled",
+        "competition": "International Test Match",
+        "home": {
+          "name": "Australia",
+          "teamCode": "AUS",
+          "colors": {
+            "primary": "#ffcd00",
+            "secondary": "#00843d"
+          }
+        },
+        "away": {
+          "name": "New Zealand",
+          "teamCode": "NZL",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Accor Stadium",
+        "city": "Sydney"
       }
     ]
   },
@@ -389,7 +414,7 @@ window.RUGBY_DATA = {
       "elo": 2722.0,
       "eloRaw": 2722.0,
       "lastMatch": "2026-08-08",
-      "inactiveDays": 0,
+      "inactiveDays": 7,
       "peakElo": 2722.0,
       "peakDate": "2026-08-08",
       "worldCups": 4,
@@ -412,7 +437,7 @@ window.RUGBY_DATA = {
       "elo": 2641.2,
       "eloRaw": 2641.2,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 21,
+      "inactiveDays": 28,
       "peakElo": 2749.6,
       "peakDate": "2016-10-22",
       "worldCups": 3,
@@ -435,7 +460,7 @@ window.RUGBY_DATA = {
       "elo": 2542.3,
       "eloRaw": 2542.3,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 21,
+      "inactiveDays": 28,
       "peakElo": 2684.1,
       "peakDate": "2023-10-07",
       "worldCups": 0,
@@ -458,7 +483,7 @@ window.RUGBY_DATA = {
       "elo": 2521.7,
       "eloRaw": 2521.7,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 21,
+      "inactiveDays": 28,
       "peakElo": 2587.1,
       "peakDate": "2025-03-15",
       "worldCups": 0,
@@ -481,7 +506,7 @@ window.RUGBY_DATA = {
       "elo": 2423.1,
       "eloRaw": 2423.1,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 21,
+      "inactiveDays": 28,
       "peakElo": 2568.0,
       "peakDate": "2019-10-26",
       "worldCups": 1,
@@ -504,7 +529,7 @@ window.RUGBY_DATA = {
       "elo": 2384.1,
       "eloRaw": 2384.1,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 21,
+      "inactiveDays": 28,
       "peakElo": 2384.1,
       "peakDate": "2026-07-18",
       "worldCups": 0,
@@ -527,7 +552,7 @@ window.RUGBY_DATA = {
       "elo": 2285.8,
       "eloRaw": 2285.8,
       "lastMatch": "2026-08-08",
-      "inactiveDays": 0,
+      "inactiveDays": 7,
       "peakElo": 2354.6,
       "peakDate": "2025-11-16",
       "worldCups": 0,
@@ -547,15 +572,15 @@ window.RUGBY_DATA = {
       "name": "Australia",
       "teamCode": "AUS",
       "country": "Australia",
-      "elo": 2223.8,
-      "eloRaw": 2223.8,
-      "lastMatch": "2026-08-08",
+      "elo": 2235.1,
+      "eloRaw": 2235.1,
+      "lastMatch": "2026-08-15",
       "inactiveDays": 0,
       "peakElo": 2471.1,
       "peakDate": "2015-10-25",
       "worldCups": 2,
       "record": {
-        "w": 350,
+        "w": 351,
         "l": 336,
         "d": 20
       },
@@ -563,7 +588,7 @@ window.RUGBY_DATA = {
         "primary": "#ffcd00",
         "secondary": "#00843d"
       },
-      "note": "350V-336D-20E · último 2026-08-08 · raw 2224"
+      "note": "351V-336D-20E · último 2026-08-15 · raw 2235"
     },
     {
       "rank": 9,
@@ -573,7 +598,7 @@ window.RUGBY_DATA = {
       "elo": 2142.5,
       "eloRaw": 2142.5,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 21,
+      "inactiveDays": 28,
       "peakElo": 2249.9,
       "peakDate": "2025-09-21",
       "worldCups": 0,
@@ -596,7 +621,7 @@ window.RUGBY_DATA = {
       "elo": 2091.9,
       "eloRaw": 2091.9,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 21,
+      "inactiveDays": 28,
       "peakElo": 2470.8,
       "peakDate": "2019-03-16",
       "worldCups": 0,
