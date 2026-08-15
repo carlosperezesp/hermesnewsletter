@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-14 21:47 UTC",
+  "UPDATED": "2026-08-15 05:44 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -72,15 +72,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-08-01"
     },
     {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:in:Jalen Green",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "Jalen Green entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-07-31"
-    },
-    {
       "id": "rank:cycling:CURRENT_RIDERS:out:Wout van Aert",
       "sport": "cycling",
       "detail": "Ciclismo",
@@ -88,15 +79,6 @@ window.GLORY_DATA = {
       "text": "Wout van Aert cae del top-10 · corredores actuales",
       "weight": 74,
       "firstSeen": "2026-08-08"
-    },
-    {
-      "id": "rank:nba:ROAD_TO_GLORY.youngProspects:out:VJ Edgecombe",
-      "sport": "nba",
-      "detail": "NBA",
-      "anchor": "nba-jovenes-promesas",
-      "text": "VJ Edgecombe cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-07-31"
     }
   ],
   "REPORTS": [],

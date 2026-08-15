@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-14 21:45 UTC
+// Auto-generated 2026-08-15 05:42 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-08-14 21:45 UTC",
+  "UPDATED": "2026-08-15 05:42 UTC",
   "SEASON": "2026",
   "ROUND": 23,
   "IMPORTANCE": 9.0,
@@ -127,11 +127,11 @@ window.AFL_DATA = {
     {
       "rank": 11,
       "name": "St Kilda",
-      "wins": 9,
+      "wins": 10,
       "losses": 12,
       "draws": 0,
-      "pts": 36,
-      "percentage": 101.6,
+      "pts": 40,
+      "percentage": 104.2,
       "primary": "#ED1C2E",
       "secondary": "#000000"
     },
@@ -194,10 +194,10 @@ window.AFL_DATA = {
       "rank": 17,
       "name": "Richmond",
       "wins": 3,
-      "losses": 18,
+      "losses": 19,
       "draws": 0,
       "pts": 12,
-      "percentage": 63.5,
+      "percentage": 62.8,
       "primary": "#FFD200",
       "secondary": "#000000"
     },
@@ -1065,6 +1065,16 @@ window.AFL_DATA = {
       "date": "2026-08-14",
       "hprimary": "#2A0D54",
       "aprimary": "#002B5C"
+    },
+    {
+      "hteam": "Richmond",
+      "hscore": 45,
+      "ateam": "St Kilda",
+      "ascore": 94,
+      "winner": "St Kilda",
+      "date": "2026-08-15",
+      "hprimary": "#FFD200",
+      "aprimary": "#ED1C2E"
     }
   ],
   "CURRENT_CONTENDERS": [

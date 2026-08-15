@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-14 21:45 UTC
+// Auto-generated 2026-08-15 05:42 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-08-14 21:45 UTC",
+  "UPDATED": "2026-08-15 05:42 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -690,198 +690,30 @@ window.CYCLING_DATA = {
     }
   ],
   "CURRENT_RACE": {
-    "name": "Tour de France",
-    "start": "2026-07-04",
-    "end": "2026-07-27",
-    "stage": 21,
+    "name": "Vuelta a España",
+    "start": "2026-08-15",
+    "end": "2026-09-06",
+    "stage": 0,
     "total_stages": 21,
-    "jersey_primary": "#FFD700",
-    "jersey_name": "Maillot Jaune",
-    "last_stage": {
-      "stage": 21,
-      "date": "26 July",
-      "type": "Flat stage",
-      "dist_km": null,
-      "from": "Paris",
-      "to": "Champs-Élysées",
-      "completed": true,
-      "winner": "Mathieu van der Poel",
-      "winner_cc": "NED",
-      "winner_primary": "#AE1C28",
-      "winner_logo": "https://flagcdn.com/24x18/nl.png"
-    },
+    "jersey_primary": "#E8002D",
+    "jersey_name": "Maillot Rojo",
+    "last_stage": null,
     "next_stage": {
       "stage": 1,
-      "date": "4 July",
-      "type": "Team time trial",
-      "dist_km": null,
-      "from": "Barcelona",
-      "to": "Team time trial",
+      "date": "22 August",
+      "type": "Individual time trial",
+      "dist_km": 9,
+      "from": "Monaco",
+      "to": "Individual time trial",
       "completed": false
     },
-    "last_stage_result": [
-      {
-        "rank": null,
-        "name": "Tadej Pogačar",
-        "country": "SLO",
-        "logo": "https://flagcdn.com/24x18/si.png",
-        "team": "UEX",
-        "time": "",
-        "gc_rank": 1
-      },
-      {
-        "rank": null,
-        "name": "Remco Evenepoel",
-        "country": "BEL",
-        "logo": "https://flagcdn.com/24x18/be.png",
-        "team": "RBH",
-        "time": "",
-        "gc_rank": 2
-      },
-      {
-        "rank": null,
-        "name": "Isaac del Toro",
-        "country": "MEX",
-        "logo": "https://flagcdn.com/24x18/mx.png",
-        "team": "UEX",
-        "time": "",
-        "gc_rank": 3
-      }
-    ],
+    "last_stage_result": [],
     "finished": false,
     "gc_winner": null,
-    "gc": [
-      {
-        "rank": 1,
-        "name": "Tadej Pogačar",
-        "country": "SLO",
-        "logo": "https://flagcdn.com/24x18/si.png",
-        "team": "UEX",
-        "primary": "#003DA5",
-        "time": "73h 56' 26\"",
-        "legendScore": 64.2
-      },
-      {
-        "rank": 2,
-        "name": "Remco Evenepoel",
-        "country": "BEL",
-        "logo": "https://flagcdn.com/24x18/be.png",
-        "team": "RBH",
-        "primary": "#000000",
-        "time": "+ 6' 26\"",
-        "legendScore": 13.9
-      },
-      {
-        "rank": 3,
-        "name": "Isaac del Toro",
-        "country": "MEX",
-        "logo": "https://flagcdn.com/24x18/mx.png",
-        "team": "UEX",
-        "primary": "#555555",
-        "time": "+ 9' 42\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 4,
-        "name": "Paul Seixas",
-        "country": "FRA",
-        "logo": "https://flagcdn.com/24x18/fr.png",
-        "team": "DCT",
-        "primary": "#002395",
-        "time": "+ 11' 56\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 5,
-        "name": "Lenny Martinez",
-        "country": "FRA",
-        "logo": "https://flagcdn.com/24x18/fr.png",
-        "team": "TBV",
-        "primary": "#002395",
-        "time": "+ 13' 02\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 6,
-        "name": "Mattias Skjelmose",
-        "country": "DEN",
-        "logo": "https://flagcdn.com/24x18/dk.png",
-        "team": "LTK men",
-        "primary": "#C60C30",
-        "time": "+ 14' 59\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 7,
-        "name": "Juan Ayuso",
-        "country": "ESP",
-        "logo": "https://flagcdn.com/24x18/es.png",
-        "team": "LTK men",
-        "primary": "#AA151B",
-        "time": "+ 17' 48\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 8,
-        "name": "Richard Carapaz",
-        "country": "ECU",
-        "logo": "https://flagcdn.com/24x18/ec.png",
-        "team": "EFE",
-        "primary": "#FFD100",
-        "time": "+ 20' 00\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 9,
-        "name": "Tom Pidcock",
-        "country": "GBR",
-        "logo": "https://flagcdn.com/24x18/gb.png",
-        "team": "PQT",
-        "primary": "#012169",
-        "time": "+ 29' 28\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 10,
-        "name": "Jordan Jegat",
-        "country": "FRA",
-        "logo": "https://flagcdn.com/24x18/fr.png",
-        "team": "TEN",
-        "primary": "#002395",
-        "time": "+ 33' 21\"",
-        "legendScore": 0.0
-      }
-    ],
-    "points_leader": {
-      "rank": 1,
-      "name": "Mads Pedersen",
-      "country": "DEN",
-      "logo": "https://flagcdn.com/24x18/dk.png",
-      "team": "LTK men",
-      "primary": "#C60C30",
-      "points": 559,
-      "legendScore": 0.0
-    },
-    "kom_leader": {
-      "rank": 1,
-      "name": "Richard Carapaz",
-      "country": "ECU",
-      "logo": "https://flagcdn.com/24x18/ec.png",
-      "team": "EFE",
-      "primary": "#FFD100",
-      "points": 156,
-      "legendScore": 0.0
-    },
-    "young_leader": {
-      "rank": 1,
-      "name": "Isaac del Toro",
-      "country": "MEX",
-      "logo": "https://flagcdn.com/24x18/mx.png",
-      "team": "UEX",
-      "primary": "#555555",
-      "time": "74h 06' 08\"",
-      "legendScore": 0.0
-    }
+    "gc": [],
+    "points_leader": null,
+    "kom_leader": null,
+    "young_leader": null
   },
   "RACE_CALENDAR": [
     {
@@ -918,7 +750,7 @@ window.CYCLING_DATA = {
       "dateLabel": "15 ago–6 sep",
       "start": "2026-08-15",
       "end": "2026-09-06",
-      "status": "upcoming",
+      "status": "ongoing",
       "winner": null
     },
     {
@@ -1135,5 +967,5 @@ window.CYCLING_DATA = {
     "edition": "París 2024",
     "next": "Los Ángeles 2028"
   },
-  "IMPORTANCE": 10.0
+  "IMPORTANCE": 9.0
 };

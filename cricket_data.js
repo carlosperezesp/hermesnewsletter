@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-08-14 21:46 UTC",
+  "UPDATED": "2026-08-15 05:44 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1581,
+    "matches": 1577,
     "archives": [
       {
         "name": "Tests",
@@ -13,7 +13,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 157
+        "matches": 153
       },
       {
         "name": "T20Is",
@@ -452,16 +452,16 @@ window.CRICKET_DATA = {
       "id": "ka-maharaj",
       "name": "KA Maharaj",
       "role": "Bowler",
-      "score": 81.0,
-      "legendScore": 63.5,
+      "score": 81.4,
+      "legendScore": 63.6,
       "stats": {
         "test": 78.8,
-        "odi": 81.8,
-        "t20": 84.1,
-        "franchise": 78.5,
+        "odi": 82.8,
+        "t20": 84.5,
+        "franchise": 78.8,
         "runs": 317,
         "wickets": 93,
-        "matches": 43
+        "matches": 42
       },
       "formatScores": {
         "test": {
@@ -470,19 +470,19 @@ window.CRICKET_DATA = {
           "bowling": 75.9
         },
         "odi": {
-          "overall": 69.1,
-          "batting": 17.9,
-          "bowling": 80.3
+          "overall": 70.3,
+          "batting": 18.3,
+          "bowling": 81.3
         },
         "t20": {
-          "overall": 67.8,
-          "batting": 12.8,
-          "bowling": 79.9
+          "overall": 68.2,
+          "batting": 12.9,
+          "bowling": 80.3
         },
         "franchise": {
-          "overall": 66.2,
-          "batting": 12.0,
-          "bowling": 74.9
+          "overall": 66.6,
+          "batting": 12.1,
+          "bowling": 75.2
         }
       },
       "country": "South Africa",
@@ -536,7 +536,7 @@ window.CRICKET_DATA = {
         {
           "id": "s-muthusamy",
           "name": "S Muthusamy",
-          "role": "Bowler",
+          "role": "All-rounder",
           "country": "South Africa",
           "teamCode": "SA",
           "colors": {
@@ -566,8 +566,8 @@ window.CRICKET_DATA = {
           "batting": 45.2,
           "bowling": 39.6,
           "overall": 79.7,
-          "runs": 770,
-          "wickets": 84
+          "runs": 755,
+          "wickets": 83
         },
         {
           "id": "ba-stokes",
@@ -638,8 +638,8 @@ window.CRICKET_DATA = {
           "batting": 21.4,
           "bowling": 74.2,
           "overall": 75.1,
-          "runs": 530,
-          "wickets": 61
+          "runs": 492,
+          "wickets": 60
         },
         {
           "id": "pwa-mulder",
@@ -656,8 +656,8 @@ window.CRICKET_DATA = {
           "batting": 54.4,
           "bowling": 27.7,
           "overall": 73.2,
-          "runs": 1174,
-          "wickets": 38
+          "runs": 1172,
+          "wickets": 36
         },
         {
           "id": "ba-carse",
@@ -766,8 +766,8 @@ window.CRICKET_DATA = {
           "batting": 56.4,
           "bowling": 6.7,
           "overall": 36.6,
-          "runs": 3183,
-          "wickets": 9
+          "runs": 3159,
+          "wickets": 8
         },
         {
           "id": "mr-adair",
@@ -802,7 +802,7 @@ window.CRICKET_DATA = {
           "batting": 56.1,
           "bowling": 0.6,
           "overall": 10.9,
-          "runs": 3690,
+          "runs": 3578,
           "wickets": 0
         },
         {
@@ -856,8 +856,8 @@ window.CRICKET_DATA = {
           "batting": 54.4,
           "bowling": 27.7,
           "overall": 73.2,
-          "runs": 1174,
-          "wickets": 38
+          "runs": 1172,
+          "wickets": 36
         }
       ],
       "bowling": [
@@ -1128,12 +1128,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 86.6,
-          "batting": 30.1,
-          "bowling": 74.9,
-          "overall": 86.6,
-          "runs": 530,
-          "wickets": 61
+          "score": 85.6,
+          "batting": 29.4,
+          "bowling": 75.0,
+          "overall": 85.6,
+          "runs": 492,
+          "wickets": 60
         },
         {
           "id": "ma-starc",
@@ -1154,6 +1154,24 @@ window.CRICKET_DATA = {
           "wickets": 113
         },
         {
+          "id": "s-muthusamy",
+          "name": "S Muthusamy",
+          "role": "All-rounder",
+          "country": "South Africa",
+          "teamCode": "SA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb81c"
+          },
+          "logo": "https://flagcdn.com/24x18/za.png",
+          "score": 82.6,
+          "batting": 49.2,
+          "bowling": 41.7,
+          "overall": 82.6,
+          "runs": 327,
+          "wickets": 30
+        },
+        {
           "id": "md-fisher",
           "name": "MD Fisher",
           "role": "All-rounder",
@@ -1170,24 +1188,6 @@ window.CRICKET_DATA = {
           "overall": 79.5,
           "runs": 50,
           "wickets": 5
-        },
-        {
-          "id": "pwa-mulder",
-          "name": "PWA Mulder",
-          "role": "All-rounder",
-          "country": "South Africa",
-          "teamCode": "SA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb81c"
-          },
-          "logo": "https://flagcdn.com/24x18/za.png",
-          "score": 79.1,
-          "batting": 53.9,
-          "bowling": 34.9,
-          "overall": 79.1,
-          "runs": 1174,
-          "wickets": 38
         },
         {
           "id": "taijul-islam",
@@ -1208,9 +1208,9 @@ window.CRICKET_DATA = {
           "wickets": 75
         },
         {
-          "id": "s-muthusamy",
-          "name": "S Muthusamy",
-          "role": "Bowler",
+          "id": "pwa-mulder",
+          "name": "PWA Mulder",
+          "role": "All-rounder",
           "country": "South Africa",
           "teamCode": "SA",
           "colors": {
@@ -1218,12 +1218,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffb81c"
           },
           "logo": "https://flagcdn.com/24x18/za.png",
-          "score": 78.1,
-          "batting": 46.6,
-          "bowling": 39.4,
-          "overall": 78.1,
-          "runs": 327,
-          "wickets": 30
+          "score": 78.8,
+          "batting": 56.5,
+          "bowling": 33.1,
+          "overall": 78.8,
+          "runs": 1172,
+          "wickets": 36
         }
       ],
       "batting": [
@@ -1292,12 +1292,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 75.2,
-          "batting": 75.2,
-          "bowling": 9.1,
-          "overall": 47.7,
-          "runs": 3183,
-          "wickets": 9
+          "score": 76.3,
+          "batting": 76.3,
+          "bowling": 8.1,
+          "overall": 45.3,
+          "runs": 3159,
+          "wickets": 8
         },
         {
           "id": "lg-pretorius",
@@ -1546,10 +1546,10 @@ window.CRICKET_DATA = {
             "secondary": "#ffb81c"
           },
           "logo": "https://flagcdn.com/24x18/za.png",
-          "score": 80.3,
-          "batting": 17.9,
-          "bowling": 80.3,
-          "overall": 69.1,
+          "score": 81.3,
+          "batting": 18.3,
+          "bowling": 81.3,
+          "overall": 70.3,
           "runs": 317,
           "wickets": 93
         },
@@ -1658,12 +1658,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 87.9,
-          "batting": 25.6,
-          "bowling": 67.2,
-          "overall": 87.9,
-          "runs": 530,
-          "wickets": 61
+          "score": 86.9,
+          "batting": 25.0,
+          "bowling": 67.3,
+          "overall": 86.9,
+          "runs": 492,
+          "wickets": 60
         },
         {
           "id": "ma-starc",
@@ -1858,12 +1858,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 61.6,
-          "batting": 61.6,
-          "bowling": 7.5,
-          "overall": 45.5,
-          "runs": 3183,
-          "wickets": 9
+          "score": 62.5,
+          "batting": 62.5,
+          "bowling": 6.6,
+          "overall": 43.0,
+          "runs": 3159,
+          "wickets": 8
         },
         {
           "id": "abidullah-kotwa",
@@ -2066,6 +2066,24 @@ window.CRICKET_DATA = {
           "wickets": 113
         },
         {
+          "id": "ka-maharaj",
+          "name": "KA Maharaj",
+          "role": "Bowler",
+          "country": "South Africa",
+          "teamCode": "SA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb81c"
+          },
+          "logo": "https://flagcdn.com/24x18/za.png",
+          "score": 80.3,
+          "batting": 12.9,
+          "bowling": 80.3,
+          "overall": 68.2,
+          "runs": 317,
+          "wickets": 93
+        },
+        {
           "id": "ja-duffy",
           "name": "JA Duffy",
           "role": "Bowler",
@@ -2082,24 +2100,6 @@ window.CRICKET_DATA = {
           "overall": 59.0,
           "runs": 110,
           "wickets": 98
-        },
-        {
-          "id": "ka-maharaj",
-          "name": "KA Maharaj",
-          "role": "Bowler",
-          "country": "South Africa",
-          "teamCode": "SA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb81c"
-          },
-          "logo": "https://flagcdn.com/24x18/za.png",
-          "score": 79.9,
-          "batting": 12.8,
-          "bowling": 79.9,
-          "overall": 67.8,
-          "runs": 317,
-          "wickets": 93
         },
         {
           "id": "mohammed-siraj",
@@ -2224,12 +2224,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 86.0,
-          "batting": 25.6,
-          "bowling": 59.2,
-          "overall": 86.0,
-          "runs": 530,
-          "wickets": 61
+          "score": 85.1,
+          "batting": 25.0,
+          "bowling": 59.3,
+          "overall": 85.1,
+          "runs": 492,
+          "wickets": 60
         },
         {
           "id": "mj-santner",
@@ -2260,12 +2260,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffb81c"
           },
           "logo": "https://flagcdn.com/24x18/za.png",
-          "score": 83.7,
-          "batting": 22.1,
-          "bowling": 64.9,
-          "overall": 83.7,
-          "runs": 770,
-          "wickets": 84
+          "score": 82.9,
+          "batting": 21.9,
+          "bowling": 64.3,
+          "overall": 82.9,
+          "runs": 755,
+          "wickets": 83
         },
         {
           "id": "bilal-zalmai",
@@ -2406,12 +2406,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 61.6,
-          "batting": 61.6,
-          "bowling": 6.6,
-          "overall": 44.5,
-          "runs": 3183,
-          "wickets": 9
+          "score": 62.5,
+          "batting": 62.5,
+          "bowling": 5.8,
+          "overall": 42.1,
+          "runs": 3159,
+          "wickets": 8
         },
         {
           "id": "abidullah-kotwa",
@@ -2650,24 +2650,6 @@ window.CRICKET_DATA = {
           "wickets": 101
         },
         {
-          "id": "shaheen-shah-afridi",
-          "name": "Shaheen Shah Afridi",
-          "role": "Bowler",
-          "country": "Pakistan",
-          "teamCode": "PAK",
-          "colors": {
-            "primary": "#115740",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 80.2,
-          "batting": 11.5,
-          "bowling": 80.2,
-          "overall": 67.1,
-          "runs": 420,
-          "wickets": 107
-        },
-        {
           "id": "taijul-islam",
           "name": "Taijul Islam",
           "role": "Bowler",
@@ -2684,6 +2666,24 @@ window.CRICKET_DATA = {
           "overall": 78.2,
           "runs": 266,
           "wickets": 75
+        },
+        {
+          "id": "shaheen-shah-afridi",
+          "name": "Shaheen Shah Afridi",
+          "role": "Bowler",
+          "country": "Pakistan",
+          "teamCode": "PAK",
+          "colors": {
+            "primary": "#115740",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/pk.png",
+          "score": 78.8,
+          "batting": 11.5,
+          "bowling": 78.8,
+          "overall": 66.5,
+          "runs": 420,
+          "wickets": 105
         }
       ]
     }
@@ -3630,16 +3630,16 @@ window.CRICKET_DATA = {
         "id": "ka-maharaj",
         "name": "KA Maharaj",
         "role": "Bowler",
-        "score": 81.0,
-        "legendScore": 63.5,
+        "score": 81.4,
+        "legendScore": 63.6,
         "stats": {
           "test": 78.8,
-          "odi": 81.8,
-          "t20": 84.1,
-          "franchise": 78.5,
+          "odi": 82.8,
+          "t20": 84.5,
+          "franchise": 78.8,
           "runs": 317,
           "wickets": 93,
-          "matches": 43
+          "matches": 42
         },
         "formatScores": {
           "test": {
@@ -3648,19 +3648,19 @@ window.CRICKET_DATA = {
             "bowling": 75.9
           },
           "odi": {
-            "overall": 69.1,
-            "batting": 17.9,
-            "bowling": 80.3
+            "overall": 70.3,
+            "batting": 18.3,
+            "bowling": 81.3
           },
           "t20": {
-            "overall": 67.8,
-            "batting": 12.8,
-            "bowling": 79.9
+            "overall": 68.2,
+            "batting": 12.9,
+            "bowling": 80.3
           },
           "franchise": {
-            "overall": 66.2,
-            "batting": 12.0,
-            "bowling": 74.9
+            "overall": 66.6,
+            "batting": 12.1,
+            "bowling": 75.2
           }
         },
         "country": "South Africa",
