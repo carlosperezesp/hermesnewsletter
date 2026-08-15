@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-15 07:05 UTC
+// Auto-generated 2026-08-15 13:18 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-15 07:05 UTC",
+  "UPDATED": "2026-08-15 13:18 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -5188,6 +5188,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 6,
+              "mark": "7.00",
+              "athlete": "Agate De Sousa",
+              "country": "POR",
+              "flag": "https://flagcdn.com/24x18/pt.png",
+              "primary": "#006600",
+              "venue": "Alexander Stadium",
+              "date": "15 AUG 2026"
+            },
+            {
+              "rank": 7,
               "mark": "6.98",
               "athlete": "Hilary Kpatcha",
               "country": "FRA",
@@ -5195,16 +5205,6 @@ window.ATHLETICS_DATA = {
               "primary": "#002395",
               "venue": "Stadium Municipal",
               "date": "24 JUL 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "6.97",
-              "athlete": "Agate De Sousa",
-              "country": "POR",
-              "flag": "https://flagcdn.com/24x18/pt.png",
-              "primary": "#006600",
-              "venue": "Gallur",
-              "date": "06 FEB 2026"
             },
             {
               "rank": 8,
