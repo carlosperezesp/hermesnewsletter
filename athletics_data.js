@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-15 20:40 UTC
+// Auto-generated 2026-08-15 21:42 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-15 20:40 UTC",
+  "UPDATED": "2026-08-15 21:42 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -5293,6 +5293,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 5,
+              "mark": "18.15",
+              "athlete": "Andy D&#205;az Hern&#193;ndez",
+              "country": "ITA",
+              "flag": "https://flagcdn.com/24x18/it.png",
+              "primary": "#009246",
+              "venue": "Alexander Stadium",
+              "year": 2026
+            },
+            {
+              "rank": 6,
               "mark": "18.14",
               "athlete": "Will Claye",
               "country": "USA",
@@ -5302,7 +5312,7 @@ window.ATHLETICS_DATA = {
               "year": 2019
             },
             {
-              "rank": 6,
+              "rank": 7,
               "mark": "18.11",
               "athlete": "Christian Taylor",
               "country": "USA",
@@ -5312,7 +5322,7 @@ window.ATHLETICS_DATA = {
               "year": 2017
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "18.09",
               "athlete": "Kenny Harrison",
               "country": "USA",
@@ -5322,7 +5332,7 @@ window.ATHLETICS_DATA = {
               "year": 1996
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "18.08",
               "athlete": "Pedro Pichardo",
               "country": "CUB",
@@ -5332,7 +5342,7 @@ window.ATHLETICS_DATA = {
               "year": 2015
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "18.06",
               "athlete": "Pedro Pichardo",
               "country": "CUB",
@@ -5340,38 +5350,28 @@ window.ATHLETICS_DATA = {
               "primary": "#002A8F",
               "venue": "Doha",
               "year": 2015
-            },
-            {
-              "rank": 10,
-              "mark": "18.04",
-              "athlete": "Teddy Tamgho",
-              "country": "FRA",
-              "flag": "https://flagcdn.com/24x18/fr.png",
-              "primary": "#002395",
-              "venue": "Moscow",
-              "year": 2013
             }
           ],
           "season": [
             {
               "rank": 1,
-              "mark": "17.87",
+              "mark": "18.15",
               "athlete": "Andy D&#205;az Hern&#193;ndez",
               "country": "ITA",
               "flag": "https://flagcdn.com/24x18/it.png",
               "primary": "#009246",
-              "venue": "Stadio Luigi Ridolfi",
-              "date": "25 JUL 2026"
+              "venue": "Alexander Stadium",
+              "date": "15 AUG 2026"
             },
             {
               "rank": 2,
-              "mark": "17.71",
+              "mark": "17.76",
               "athlete": "Pedro Pichardo",
               "country": "POR",
               "flag": "https://flagcdn.com/24x18/pt.png",
               "primary": "#006600",
-              "venue": "Suhaim bin Hamad Stadium",
-              "date": "19 JUN 2026"
+              "venue": "Alexander Stadium",
+              "date": "15 AUG 2026"
             },
             {
               "rank": 3,

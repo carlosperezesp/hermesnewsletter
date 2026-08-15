@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-15 20:41 UTC",
+  "UPDATED": "2026-08-15 21:42 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -26,6 +26,15 @@ window.GLORY_DATA = {
       "text": "Argentina es nuevo nº1 · Ranking Elo",
       "weight": 92,
       "firstSeen": "2026-08-04"
+    },
+    {
+      "id": "rank:athletics:allTime:tj_m:in:Andy D&#205;az Hern&#193;ndez",
+      "sport": "athletics",
+      "detail": "Atletismo",
+      "anchor": "athletics-records",
+      "text": "Andy D&#205;az Hern&#193;ndez entra en el top-10 histórico · Triple salto — H",
+      "weight": 90,
+      "firstSeen": "2026-08-15"
     },
     {
       "id": "cycling:stage:Tour de France:21:Mathieu van der Poel",
@@ -750,12 +759,12 @@ window.GLORY_DATA = {
       "Christian Taylor",
       "Jordan Díaz",
       "Jonathan Edwards",
+      "Andy D&#205;az Hern&#193;ndez",
       "Will Claye",
       "Christian Taylor",
       "Kenny Harrison",
       "Pedro Pichardo",
-      "Pedro Pichardo",
-      "Teddy Tamgho"
+      "Pedro Pichardo"
     ],
     "athletics:allTime:tj_w": [
       "Yulimar Rojas",
