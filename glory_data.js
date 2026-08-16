@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-15 21:42 UTC",
+  "UPDATED": "2026-08-16 05:45 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -70,15 +70,6 @@ window.GLORY_DATA = {
       "text": "Argentina (ciclo actual) entra en el top-10 · dinastías",
       "weight": 84,
       "firstSeen": "2026-08-04"
-    },
-    {
-      "id": "rank:afl:LADDER:in:Carlton",
-      "sport": "afl",
-      "detail": "AFL",
-      "anchor": "afl-clasificacion",
-      "text": "Carlton entra en el top-10 · clasificación",
-      "weight": 84,
-      "firstSeen": "2026-08-01"
     },
     {
       "id": "rank:cycling:CURRENT_RIDERS:out:Wout van Aert",

@@ -4585,7 +4585,7 @@ window.NHL_DATA = {
       "name": "Gabriel Vilardi",
       "pos": "C",
       "teamCode": "WPG",
-      "age": 26,
+      "age": 27,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -18892,7 +18892,7 @@ window.NHL_DATA = {
       "name": "Adam Pelech",
       "pos": "D",
       "teamCode": "NYI",
-      "age": 31,
+      "age": 32,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47977,10 +47977,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-15 21:40 UTC",
+  "LAST_UPDATE": "2026-08-16 05:43 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-15T21:39:45Z"
+    "standingsDateTimeUtc": "2026-08-16T05:42:45Z"
   }
 };

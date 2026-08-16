@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-15 21:42 UTC
+// Auto-generated 2026-08-16 05:44 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-15 21:42 UTC",
+  "UPDATED": "2026-08-16 05:44 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -340,108 +340,7 @@ window.ATHLETICS_DATA = {
               "year": 2021
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "10.63",
-              "athlete": "Adaejah Hodge",
-              "country": "IVB",
-              "flag": "https://flagcdn.com/24x18/vg.png",
-              "primary": "#012169",
-              "venue": "Hayward Field",
-              "date": "11 JUN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "10.77",
-              "athlete": "Sha&#39;Carri Richardson",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Horizon HS",
-              "date": "20 JUN 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "10.78",
-              "athlete": "Melissa Jefferson-Wooden",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Hayward Field",
-              "date": "04 JUL 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "10.80",
-              "athlete": "Shenese Walker",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Percy Beard Track",
-              "date": "18 APR 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "10.81",
-              "athlete": "Shericka Jackson",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "National Stadium",
-              "date": "19 JUN 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "10.83",
-              "athlete": "Brianna Selby",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "John McDonnell Field",
-              "date": "30 MAY 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "10.85",
-              "athlete": "Tina Clayton",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Complexe Sportif Prince Moulay Abdellah",
-              "date": "31 MAY 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "10.86",
-              "athlete": "Sade Mccreath",
-              "country": "CAN",
-              "flag": "https://flagcdn.com/24x18/ca.png",
-              "primary": "#FF0000",
-              "venue": "Foote Field",
-              "date": "12 JUL 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "10.87",
-              "athlete": "Julien Alfred",
-              "country": "LCA",
-              "flag": "https://flagcdn.com/24x18/lc.png",
-              "primary": "#4A4745",
-              "venue": "Nemzeti Atltikai Kzpont",
-              "date": "14 JUL 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "10.88",
-              "athlete": "Jassani Carter",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Un. of Kentucky Outdoor Track Facility",
-              "date": "30 MAY 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "200m_m",
