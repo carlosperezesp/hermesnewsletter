@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-16 07:05 UTC
+// Auto-generated 2026-08-16 13:18 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-08-16 07:05 UTC",
+  "UPDATED": "2026-08-16 13:18 UTC",
   "SEASON": "2026",
   "ROUND": 23,
   "IMPORTANCE": 9.0,
@@ -21,11 +21,11 @@ window.AFL_DATA = {
     {
       "rank": 2,
       "name": "Sydney",
-      "wins": 16,
+      "wins": 17,
       "losses": 5,
       "draws": 0,
-      "pts": 64,
-      "percentage": 134.0,
+      "pts": 68,
+      "percentage": 134.5,
       "primary": "#F57F00",
       "secondary": "#002040",
       "prevRank": 2
@@ -107,9 +107,9 @@ window.AFL_DATA = {
       "name": "Western Bulldogs",
       "wins": 12,
       "losses": 9,
-      "draws": 0,
-      "pts": 48,
-      "percentage": 93.9,
+      "draws": 1,
+      "pts": 50,
+      "percentage": 94.1,
       "primary": "#0039A6",
       "secondary": "#CC2031"
     },
@@ -118,8 +118,8 @@ window.AFL_DATA = {
       "name": "Carlton",
       "wins": 11,
       "losses": 10,
-      "draws": 0,
-      "pts": 44,
+      "draws": 1,
+      "pts": 46,
       "percentage": 99.6,
       "primary": "#0E1E2D",
       "secondary": "#FFFFFF"
@@ -205,10 +205,10 @@ window.AFL_DATA = {
       "rank": 18,
       "name": "Essendon",
       "wins": 2,
-      "losses": 19,
+      "losses": 20,
       "draws": 0,
       "pts": 8,
-      "percentage": 63.2,
+      "percentage": 63.5,
       "primary": "#CC2031",
       "secondary": "#000000"
     }
@@ -1125,6 +1125,26 @@ window.AFL_DATA = {
       "date": "2026-08-16",
       "hprimary": "#F57F00",
       "aprimary": "#002B5C"
+    },
+    {
+      "hteam": "Western Bulldogs",
+      "hscore": 82,
+      "ateam": "Carlton",
+      "ascore": 82,
+      "winner": null,
+      "date": "2026-08-16",
+      "hprimary": "#0039A6",
+      "aprimary": "#0E1E2D"
+    },
+    {
+      "hteam": "Essendon",
+      "hscore": 76,
+      "ateam": "Sydney",
+      "ascore": 112,
+      "winner": "Sydney",
+      "date": "2026-08-16",
+      "hprimary": "#CC2031",
+      "aprimary": "#F57F00"
     }
   ],
   "CURRENT_CONTENDERS": [
