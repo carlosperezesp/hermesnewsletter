@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-16 20:40 UTC
+// Auto-generated 2026-08-16 21:40 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-16 20:40 UTC",
+  "UPDATED": "2026-08-16 21:40 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -679,7 +679,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 75.0
@@ -1805,7 +1805,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 61.2
@@ -2689,7 +2689,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 56.1
@@ -5183,7 +5183,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 100.0
@@ -7873,7 +7873,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 53.8
@@ -8351,7 +8351,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 51.5
@@ -11212,15 +11212,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Talia Gibson",
+          "w": "Aryna Sabalenka",
           "w_logo": "",
-          "l": "Aryna Sabalenka",
+          "l": "Talia Gibson",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 7-6 (7-2)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 55.0,
-          "l_score": 100.0,
+          "w_score": 100.0,
+          "l_score": 55.0,
           "match_score": 100.0
         },
         {
@@ -11277,15 +11277,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Sofia Kenin",
+          "w": "Marta Kostyuk",
           "w_logo": "",
-          "l": "Marta Kostyuk",
+          "l": "Sofia Kenin",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-3 7-5",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 51.5,
-          "l_score": 90.3,
+          "w_score": 90.3,
+          "l_score": 51.5,
           "match_score": 90.3
         },
         {
@@ -11430,7 +11430,7 @@ window.TENNIS_DATA = {
       "Zachary Svajda"
     ],
     "aliveCount": 55,
-    "matchesSeen": 76
+    "matchesSeen": 77
   },
   "WTA_TOURNAMENT": {
     "name": "Cincinnati Open",
@@ -11545,7 +11545,7 @@ window.TENNIS_DATA = {
       "Yuliia Starodubtseva"
     ],
     "aliveCount": 59,
-    "matchesSeen": 73
+    "matchesSeen": 74
   },
   "ATP_SCORE_LOG": {
     "206173": [
