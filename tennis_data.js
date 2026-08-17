@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-17 20:45 UTC
+// Auto-generated 2026-08-17 21:46 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-17 20:45 UTC",
+  "UPDATED": "2026-08-17 21:46 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -7669,7 +7669,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 56.4
@@ -11029,7 +11029,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Arthur Fery",
           "l_logo": "",
-          "score": "7-5",
+          "score": "7-5 5-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": 76.8,
@@ -11216,7 +11216,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Magdalena Frech",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 7-6 (7-2)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 93.0,
@@ -11268,7 +11268,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sorana Cirstea",
           "l_logo": "",
-          "score": "7-6 (7-4)",
+          "score": "6-7 (4-7) 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": 76.1,
@@ -11281,7 +11281,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Diana Shnaider",
           "l_logo": "",
-          "score": "5-2",
+          "score": "2-6 4-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": 80.1,
