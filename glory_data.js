@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-17 14:06 UTC",
+  "UPDATED": "2026-08-17 20:45 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -54,33 +54,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-08-10"
     },
     {
-      "id": "rank:golf:CURRENT:in:Xander Schauffele",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Xander Schauffele entra en el top-10 · Nivel actual",
-      "weight": 84,
-      "firstSeen": "2026-08-17"
-    },
-    {
-      "id": "rank:golf:CURRENT:in:Jacob Bridgeman",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Jacob Bridgeman entra en el top-10 · Nivel actual",
-      "weight": 84,
-      "firstSeen": "2026-08-17"
-    },
-    {
-      "id": "rank:golf:CURRENT:in:Rory McIlroy",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Rory McIlroy entra en el top-10 · Nivel actual",
-      "weight": 84,
-      "firstSeen": "2026-08-17"
-    },
-    {
       "id": "rank:cycling:CURRENT_RIDERS:in:Jonas Vingegaard Hansen",
       "sport": "cycling",
       "detail": "Ciclismo",
@@ -106,33 +79,6 @@ window.GLORY_DATA = {
       "text": "Argentina (ciclo actual) entra en el top-10 · dinastías",
       "weight": 84,
       "firstSeen": "2026-08-04"
-    },
-    {
-      "id": "rank:golf:CURRENT:out:Scottie Scheffler",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Scottie Scheffler cae del top-10 · Nivel actual",
-      "weight": 74,
-      "firstSeen": "2026-08-17"
-    },
-    {
-      "id": "rank:golf:CURRENT:out:Matt Fitzpatrick",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Matt Fitzpatrick cae del top-10 · Nivel actual",
-      "weight": 74,
-      "firstSeen": "2026-08-17"
-    },
-    {
-      "id": "rank:golf:CURRENT:out:Si Woo Kim",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Si Woo Kim cae del top-10 · Nivel actual",
-      "weight": 74,
-      "firstSeen": "2026-08-17"
     },
     {
       "id": "rank:cycling:CURRENT_RIDERS:out:Wout van Aert",
@@ -473,16 +419,16 @@ window.GLORY_DATA = {
       "Helio Castroneves"
     ],
     "golf:CURRENT": [
+      "Scottie Scheffler",
+      "Matt Fitzpatrick",
       "Cameron Young",
+      "Si Woo Kim",
       "Wyndham Clark",
       "Sam Burns",
       "Chris Gotterup",
       "Tommy Fleetwood",
       "Collin Morikawa",
-      "Ludvig Åberg",
-      "Xander Schauffele",
-      "Jacob Bridgeman",
-      "Rory McIlroy"
+      "Ludvig Åberg"
     ],
     "golf:LEGENDS": [
       "Tiger Woods",
@@ -512,10 +458,10 @@ window.GLORY_DATA = {
       "JJ Bumrah",
       "MA Starc",
       "Taijul Islam",
-      "MJ Henry",
-      "JNT Seales",
-      "RA Jadeja",
       "Mehedi Hasan Miraz",
+      "JNT Seales",
+      "MJ Henry",
+      "RA Jadeja",
       "KA Maharaj",
       "Nauman Ali",
       "Sajid Khan"
