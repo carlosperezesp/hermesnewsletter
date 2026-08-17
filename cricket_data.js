@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-08-16 21:40 UTC",
+  "UPDATED": "2026-08-17 05:53 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1577,
+    "matches": 1573,
     "archives": [
       {
         "name": "Tests",
@@ -13,7 +13,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 153
+        "matches": 149
       },
       {
         "name": "T20Is",
@@ -784,8 +784,8 @@ window.CRICKET_DATA = {
           "batting": 56.3,
           "bowling": 24.4,
           "overall": 69.9,
-          "runs": 326,
-          "wickets": 28
+          "runs": 324,
+          "wickets": 26
         },
         {
           "id": "shubman-gill",
@@ -838,7 +838,7 @@ window.CRICKET_DATA = {
           "batting": 54.6,
           "bowling": 4.8,
           "overall": 30.5,
-          "runs": 2748,
+          "runs": 2730,
           "wickets": 9
         },
         {
@@ -1336,6 +1336,24 @@ window.CRICKET_DATA = {
           "wickets": 0
         },
         {
+          "id": "milind-kumar",
+          "name": "Milind Kumar",
+          "role": "Batter",
+          "country": "United States of America",
+          "teamCode": "USA",
+          "colors": {
+            "primary": "#3c3b6e",
+            "secondary": "#b22234"
+          },
+          "logo": "https://flagcdn.com/24x18/us.png",
+          "score": 67.0,
+          "batting": 67.0,
+          "bowling": 20.1,
+          "overall": 66.9,
+          "runs": 1204,
+          "wickets": 22
+        },
+        {
           "id": "q-de-kock",
           "name": "Q de Kock",
           "role": "Batter",
@@ -1354,6 +1372,24 @@ window.CRICKET_DATA = {
           "wickets": 0
         },
         {
+          "id": "spd-smith",
+          "name": "SPD Smith",
+          "role": "Batter",
+          "country": "Australia",
+          "teamCode": "AUS",
+          "colors": {
+            "primary": "#ffcd00",
+            "secondary": "#006341"
+          },
+          "logo": "https://flagcdn.com/24x18/au.png",
+          "score": 66.2,
+          "batting": 66.2,
+          "bowling": 0.7,
+          "overall": 12.4,
+          "runs": 2407,
+          "wickets": 1
+        },
+        {
           "id": "rr-pant",
           "name": "RR Pant",
           "role": "Batter",
@@ -1370,42 +1406,6 @@ window.CRICKET_DATA = {
           "overall": 12.4,
           "runs": 1787,
           "wickets": 0
-        },
-        {
-          "id": "ybk-jaiswal",
-          "name": "YBK Jaiswal",
-          "role": "Batter",
-          "country": "India",
-          "teamCode": "IND",
-          "colors": {
-            "primary": "#1c4fa1",
-            "secondary": "#ff9933"
-          },
-          "logo": "https://flagcdn.com/24x18/in.png",
-          "score": 66.1,
-          "batting": 66.1,
-          "bowling": 0.7,
-          "overall": 12.4,
-          "runs": 2625,
-          "wickets": 0
-        },
-        {
-          "id": "sc-williams",
-          "name": "SC Williams",
-          "role": "Batter",
-          "country": "Zimbabwe",
-          "teamCode": "ZIM",
-          "colors": {
-            "primary": "#009739",
-            "secondary": "#ffd100"
-          },
-          "logo": "https://flagcdn.com/24x18/zw.png",
-          "score": 65.6,
-          "batting": 65.6,
-          "bowling": 2.9,
-          "overall": 25.1,
-          "runs": 774,
-          "wickets": 3
         }
       ],
       "bowling": [
@@ -1712,12 +1712,12 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 82.7,
-          "batting": 23.5,
-          "bowling": 64.8,
-          "overall": 82.7,
+          "score": 81.9,
+          "batting": 23.7,
+          "bowling": 63.1,
+          "overall": 81.9,
           "runs": 965,
-          "wickets": 88
+          "wickets": 86
         },
         {
           "id": "virandeep-singh",
@@ -2094,12 +2094,12 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 80.0,
+          "score": 79.3,
           "batting": 9.7,
-          "bowling": 80.0,
-          "overall": 59.0,
+          "bowling": 79.3,
+          "overall": 58.8,
           "runs": 110,
-          "wickets": 98
+          "wickets": 97
         },
         {
           "id": "mohammed-siraj",
@@ -2242,12 +2242,12 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 84.6,
-          "batting": 22.0,
-          "bowling": 66.6,
-          "overall": 84.6,
+          "score": 83.9,
+          "batting": 22.1,
+          "bowling": 65.2,
+          "overall": 83.9,
           "runs": 965,
-          "wickets": 88
+          "wickets": 86
         },
         {
           "id": "c-bosch",
@@ -2678,12 +2678,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 78.8,
-          "batting": 11.5,
-          "bowling": 78.8,
-          "overall": 66.5,
-          "runs": 420,
-          "wickets": 105
+          "score": 78.1,
+          "batting": 11.7,
+          "bowling": 78.1,
+          "overall": 66.8,
+          "runs": 419,
+          "wickets": 104
         }
       ]
     }

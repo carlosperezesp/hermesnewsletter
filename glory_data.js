@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-16 21:40 UTC",
+  "UPDATED": "2026-08-17 05:53 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -413,12 +413,12 @@ window.GLORY_DATA = {
       "Scottie Scheffler",
       "Matt Fitzpatrick",
       "Cameron Young",
-      "Wyndham Clark",
-      "Chris Gotterup",
-      "Collin Morikawa",
       "Si Woo Kim",
+      "Wyndham Clark",
       "Sam Burns",
+      "Chris Gotterup",
       "Tommy Fleetwood",
+      "Collin Morikawa",
       "Ludvig Åberg"
     ],
     "golf:LEGENDS": [
