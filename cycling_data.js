@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-18 05:45 UTC
+// Auto-generated 2026-08-18 07:09 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-08-18 05:45 UTC",
+  "UPDATED": "2026-08-18 07:09 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -315,7 +315,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1996
       },
-      "prevRank": 17
+      "prevRank": 15
     },
     {
       "id": "peter_sagan",
@@ -336,7 +336,7 @@ window.CYCLING_DATA = {
         "worlds": 3,
         "birth": 1990
       },
-      "prevRank": 15
+      "prevRank": 16
     },
     {
       "id": "roger_de_vlaeminck",
@@ -357,7 +357,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1947
       },
-      "prevRank": 16
+      "prevRank": 17
     },
     {
       "id": "sean_kelly",
@@ -487,7 +487,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1996
       },
-      "prevRank": 4,
+      "prevRank": 3,
       "insight": "Palmarés de Grand Tour ya muy serio"
     },
     {
@@ -509,7 +509,7 @@ window.CYCLING_DATA = {
         "worlds": 1,
         "birth": 1995
       },
-      "prevRank": 3,
+      "prevRank": 4,
       "insight": "Legado de clásicas y Mundial sostienen su score"
     },
     {
@@ -641,6 +641,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1994
       },
+      "prevRank": 10,
       "insight": "Necesita una victoria mayor para activar el salto histórico"
     }
   ],
