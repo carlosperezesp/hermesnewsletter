@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-17 21:46 UTC
+// Auto-generated 2026-08-18 05:47 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-17 21:46 UTC",
+  "UPDATED": "2026-08-18 05:47 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -6083,6 +6083,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 8,
+              "mark": "19.63",
+              "athlete": "Linru Zhang",
+              "country": "CHN",
+              "flag": "https://flagcdn.com/24x18/cn.png",
+              "primary": "#DE2910",
+              "venue": "Sports Center",
+              "date": "14 AUG 2026"
+            },
+            {
+              "rank": 9,
               "mark": "19.62",
               "athlete": "Jessica Inchude",
               "country": "POR",
@@ -6090,16 +6100,6 @@ window.ATHLETICS_DATA = {
               "primary": "#006600",
               "venue": "Estadio Universitario",
               "date": "26 JUL 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "19.36",
-              "athlete": "Linru Zhang",
-              "country": "CHN",
-              "flag": "https://flagcdn.com/24x18/cn.png",
-              "primary": "#DE2910",
-              "venue": "Kuishan Sports Center",
-              "date": "26 JUN 2026"
             },
             {
               "rank": 10,

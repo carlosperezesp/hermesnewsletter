@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-17 21:46 UTC",
+  "UPDATED": "2026-08-18 05:47 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -54,13 +54,31 @@ window.GLORY_DATA = {
       "firstSeen": "2026-08-10"
     },
     {
-      "id": "rank:cycling:CURRENT_RIDERS:in:Jonas Vingegaard Hansen",
+      "id": "rank:cycling:CURRENT_RIDERS:in:Wout van Aert",
       "sport": "cycling",
       "detail": "Ciclismo",
       "anchor": "cycling-corredores-actuales",
-      "text": "Jonas Vingegaard Hansen entra en el top-10 · corredores actuales",
+      "text": "Wout van Aert entra en el top-10 · corredores actuales",
       "weight": 84,
-      "firstSeen": "2026-08-08"
+      "firstSeen": "2026-08-18"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:BA Carse",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "BA Carse entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-08-18"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:AAP Atkinson",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "AAP Atkinson entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-08-18"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:Sajid Khan",
@@ -81,13 +99,22 @@ window.GLORY_DATA = {
       "firstSeen": "2026-08-04"
     },
     {
-      "id": "rank:cycling:CURRENT_RIDERS:out:Wout van Aert",
-      "sport": "cycling",
-      "detail": "Ciclismo",
-      "anchor": "cycling-corredores-actuales",
-      "text": "Wout van Aert cae del top-10 · corredores actuales",
+      "id": "rank:cricket:ROAD_TO_GLORY.players:out:JNT Seales",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "JNT Seales cae del top-10 · Road to Glory",
       "weight": 74,
-      "firstSeen": "2026-08-08"
+      "firstSeen": "2026-08-18"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:out:KA Maharaj",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "KA Maharaj cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-08-18"
     }
   ],
   "REPORTS": [],
@@ -297,14 +324,14 @@ window.GLORY_DATA = {
     "cycling:CURRENT_RIDERS": [
       "Tadej Pogacar",
       "Primoz Roglic",
-      "Mathieu van der Poel",
       "Jonas Vingegaard",
+      "Mathieu van der Poel",
       "Remco Evenepoel",
       "Egan Bernal",
       "Julian Alaphilippe",
       "Richard Carapaz",
       "Jai Hindley",
-      "Jonas Vingegaard Hansen"
+      "Wout van Aert"
     ],
     "cycling:CURRENT_PROSPECTS": [
       "Isaac del Toro",
@@ -459,12 +486,12 @@ window.GLORY_DATA = {
       "MA Starc",
       "Taijul Islam",
       "Mehedi Hasan Miraz",
-      "JNT Seales",
       "MJ Henry",
       "RA Jadeja",
-      "KA Maharaj",
       "Nauman Ali",
-      "Sajid Khan"
+      "BA Carse",
+      "Sajid Khan",
+      "AAP Atkinson"
     ],
     "athletics:allTime:100m_m": [
       "Usain Bolt",
