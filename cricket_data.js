@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-08-18 14:11 UTC",
+  "UPDATED": "2026-08-18 20:42 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1613,
+    "matches": 1617,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 925
+        "matches": 929
       },
       {
         "name": "IPL",
@@ -1866,42 +1866,6 @@ window.CRICKET_DATA = {
           "wickets": 0
         },
         {
-          "id": "mohammad-ihsan",
-          "name": "Mohammad Ihsan",
-          "role": "Batter",
-          "country": "Spain",
-          "teamCode": "SPA",
-          "colors": {
-            "primary": "#555555",
-            "secondary": "#dddddd"
-          },
-          "logo": "",
-          "score": 75.3,
-          "batting": 75.3,
-          "bowling": 0.4,
-          "overall": 10.3,
-          "runs": 341,
-          "wickets": 0
-        },
-        {
-          "id": "d-doyle-calle",
-          "name": "D Doyle-Calle",
-          "role": "Batter",
-          "country": "Spain",
-          "teamCode": "SPA",
-          "colors": {
-            "primary": "#555555",
-            "secondary": "#dddddd"
-          },
-          "logo": "",
-          "score": 75.0,
-          "batting": 75.0,
-          "bowling": 1.2,
-          "overall": 17.8,
-          "runs": 235,
-          "wickets": 2
-        },
-        {
           "id": "hamza-dar",
           "name": "Hamza Dar",
           "role": "Cricketer",
@@ -1920,6 +1884,24 @@ window.CRICKET_DATA = {
           "wickets": 1
         },
         {
+          "id": "d-doyle-calle",
+          "name": "D Doyle-Calle",
+          "role": "Batter",
+          "country": "Spain",
+          "teamCode": "SPA",
+          "colors": {
+            "primary": "#555555",
+            "secondary": "#dddddd"
+          },
+          "logo": "",
+          "score": 73.0,
+          "batting": 73.0,
+          "bowling": 1.1,
+          "overall": 16.9,
+          "runs": 235,
+          "wickets": 2
+        },
+        {
           "id": "spd-smith",
           "name": "SPD Smith",
           "role": "Batter",
@@ -1936,6 +1918,24 @@ window.CRICKET_DATA = {
           "overall": 12.3,
           "runs": 2522,
           "wickets": 1
+        },
+        {
+          "id": "mohammad-ihsan",
+          "name": "Mohammad Ihsan",
+          "role": "Batter",
+          "country": "Spain",
+          "teamCode": "SPA",
+          "colors": {
+            "primary": "#555555",
+            "secondary": "#dddddd"
+          },
+          "logo": "",
+          "score": 70.2,
+          "batting": 70.2,
+          "bowling": 0.4,
+          "overall": 10.0,
+          "runs": 341,
+          "wickets": 0
         },
         {
           "id": "rr-pant",
@@ -2414,42 +2414,6 @@ window.CRICKET_DATA = {
           "wickets": 0
         },
         {
-          "id": "mohammad-ihsan",
-          "name": "Mohammad Ihsan",
-          "role": "Batter",
-          "country": "Spain",
-          "teamCode": "SPA",
-          "colors": {
-            "primary": "#555555",
-            "secondary": "#dddddd"
-          },
-          "logo": "",
-          "score": 75.3,
-          "batting": 75.3,
-          "bowling": 0.4,
-          "overall": 10.8,
-          "runs": 341,
-          "wickets": 0
-        },
-        {
-          "id": "d-doyle-calle",
-          "name": "D Doyle-Calle",
-          "role": "Batter",
-          "country": "Spain",
-          "teamCode": "SPA",
-          "colors": {
-            "primary": "#555555",
-            "secondary": "#dddddd"
-          },
-          "logo": "",
-          "score": 75.0,
-          "batting": 75.0,
-          "bowling": 1.1,
-          "overall": 17.8,
-          "runs": 235,
-          "wickets": 2
-        },
-        {
           "id": "hamza-dar",
           "name": "Hamza Dar",
           "role": "Cricketer",
@@ -2466,6 +2430,42 @@ window.CRICKET_DATA = {
           "overall": 10.7,
           "runs": 124,
           "wickets": 1
+        },
+        {
+          "id": "d-doyle-calle",
+          "name": "D Doyle-Calle",
+          "role": "Batter",
+          "country": "Spain",
+          "teamCode": "SPA",
+          "colors": {
+            "primary": "#555555",
+            "secondary": "#dddddd"
+          },
+          "logo": "",
+          "score": 73.0,
+          "batting": 73.0,
+          "bowling": 0.9,
+          "overall": 15.9,
+          "runs": 235,
+          "wickets": 2
+        },
+        {
+          "id": "mohammad-ihsan",
+          "name": "Mohammad Ihsan",
+          "role": "Batter",
+          "country": "Spain",
+          "teamCode": "SPA",
+          "colors": {
+            "primary": "#555555",
+            "secondary": "#dddddd"
+          },
+          "logo": "",
+          "score": 70.2,
+          "batting": 70.2,
+          "bowling": 0.4,
+          "overall": 10.4,
+          "runs": 341,
+          "wickets": 0
         },
         {
           "id": "ham-shah",
