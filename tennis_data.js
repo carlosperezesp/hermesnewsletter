@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-19 20:48 UTC
+// Auto-generated 2026-08-19 21:48 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-19 20:48 UTC",
+  "UPDATED": "2026-08-19 21:48 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5387,7 +5387,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 90.0
@@ -5489,7 +5489,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 85.5
@@ -5761,7 +5761,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 78.5
@@ -10990,7 +10990,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alexander Zverev",
           "l_logo": "",
-          "score": "4-6 4-3",
+          "score": "In Progress",
           "day": "hoy",
           "scheduled": false,
           "w_score": 79.5,
@@ -11003,7 +11003,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Arthur Fils",
           "l_logo": "",
-          "score": "1-0",
+          "score": "In Progress",
           "day": "hoy",
           "scheduled": false,
           "w_score": 76.8,
@@ -11216,9 +11216,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Diana Shnaider",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 93.0,
           "l_score": 75.6,
           "match_score": 93.0
@@ -11281,7 +11281,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Linda Noskova",
           "l_logo": "",
-          "score": "1-6 0-0",
+          "score": "6-1 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 85.5,
@@ -11545,7 +11545,7 @@ window.TENNIS_DATA = {
       "Yuliia Starodubtseva"
     ],
     "aliveCount": 57,
-    "matchesSeen": 88
+    "matchesSeen": 89
   },
   "ATP_SCORE_LOG": {
     "206173": [
