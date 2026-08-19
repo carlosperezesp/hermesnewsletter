@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-18 21:45 UTC
+// Auto-generated 2026-08-19 05:47 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-18 21:45 UTC",
+  "UPDATED": "2026-08-19 05:47 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -4058,7 +4058,7 @@ window.ATHLETICS_DATA = {
               "country": "USA",
               "flag": "https://flagcdn.com/24x18/us.png",
               "primary": "#B22234",
-              "venue": "Quai Albert 1er (MON)",
+              "venue": "Quai Albert 1er",
               "date": "05 AUG 2026"
             },
             {
@@ -5208,6 +5208,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 8,
+              "mark": "6.96",
+              "athlete": "Jazmin Sawyers",
+              "country": "GBR",
+              "flag": "https://flagcdn.com/24x18/gb.png",
+              "primary": "#012169",
+              "venue": "Alexander Stadium",
+              "date": "16 AUG 2026"
+            },
+            {
+              "rank": 9,
               "mark": "6.95",
               "athlete": "Monae&#39; Nichols",
               "country": "USA",
@@ -5217,7 +5227,7 @@ window.ATHLETICS_DATA = {
               "date": "04 APR 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "6.94",
               "athlete": "Claire Bryant",
               "country": "USA",
@@ -5225,16 +5235,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Olympic Stadium",
               "date": "18 JUL 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "6.89",
-              "athlete": "Maja &#197;skag",
-              "country": "SWE",
-              "flag": "https://flagcdn.com/24x18/se.png",
-              "primary": "#006AA7",
-              "venue": "Sola Arena",
-              "date": "08 JUL 2026"
             }
           ]
         },

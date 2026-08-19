@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-18 21:45 UTC",
+  "UPDATED": "2026-08-19 05:48 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -26,15 +26,6 @@ window.GLORY_DATA = {
       "text": "Cameron Young es nuevo nº1 · Nivel actual",
       "weight": 92,
       "firstSeen": "2026-08-17"
-    },
-    {
-      "id": "rank:football:TEAMS:new1:Argentina",
-      "sport": "football",
-      "detail": "Fútbol",
-      "anchor": "football-ranking-elo",
-      "text": "Argentina es nuevo nº1 · Ranking Elo",
-      "weight": 92,
-      "firstSeen": "2026-08-04"
     },
     {
       "id": "rank:athletics:allTime:tj_m:in:Andy D&#205;az Hern&#193;ndez",
@@ -88,15 +79,6 @@ window.GLORY_DATA = {
       "text": "Sajid Khan entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-08-07"
-    },
-    {
-      "id": "rank:football:ROAD_TO_GLORY.dynasties:era:in:Argentina (ciclo actual)",
-      "sport": "football",
-      "detail": "Fútbol",
-      "anchor": "football-dinastias",
-      "text": "Argentina (ciclo actual) entra en el top-10 · dinastías",
-      "weight": 84,
-      "firstSeen": "2026-08-04"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:JNT Seales",

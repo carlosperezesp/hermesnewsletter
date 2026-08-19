@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-08-18 21:45 UTC",
+  "UPDATED": "2026-08-19 05:47 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1617,
+    "matches": 1615,
     "archives": [
       {
         "name": "Tests",
@@ -13,7 +13,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 153
+        "matches": 151
       },
       {
         "name": "T20Is",
@@ -675,7 +675,7 @@ window.CRICKET_DATA = {
           "bowling": 32.5,
           "overall": 70.3,
           "runs": 308,
-          "wickets": 15
+          "wickets": 14
         }
       ],
       "batting": [
@@ -821,7 +821,7 @@ window.CRICKET_DATA = {
           "bowling": 24.7,
           "overall": 69.9,
           "runs": 324,
-          "wickets": 26
+          "wickets": 22
         },
         {
           "id": "shubman-gill",
@@ -1318,6 +1318,24 @@ window.CRICKET_DATA = {
           "wickets": 0
         },
         {
+          "id": "mr-adair",
+          "name": "MR Adair",
+          "role": "Bowler",
+          "country": "Ireland",
+          "teamCode": "IRE",
+          "colors": {
+            "primary": "#169b62",
+            "secondary": "#ff883e"
+          },
+          "logo": "https://flagcdn.com/24x18/ie.png",
+          "score": 70.4,
+          "batting": 70.4,
+          "bowling": 18.1,
+          "overall": 64.7,
+          "runs": 324,
+          "wickets": 22
+        },
+        {
           "id": "ld-chandimal",
           "name": "LD Chandimal",
           "role": "Batter",
@@ -1387,24 +1405,6 @@ window.CRICKET_DATA = {
           "bowling": 0.5,
           "overall": 10.5,
           "runs": 2403,
-          "wickets": 0
-        },
-        {
-          "id": "rr-pant",
-          "name": "RR Pant",
-          "role": "Batter",
-          "country": "India",
-          "teamCode": "IND",
-          "colors": {
-            "primary": "#1c4fa1",
-            "secondary": "#ff9933"
-          },
-          "logo": "https://flagcdn.com/24x18/in.png",
-          "score": 66.2,
-          "batting": 66.2,
-          "bowling": 0.7,
-          "overall": 12.3,
-          "runs": 1787,
           "wickets": 0
         }
       ],

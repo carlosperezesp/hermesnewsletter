@@ -6564,7 +6564,7 @@ window.NHL_DATA = {
       "name": "Quinton Byfield",
       "pos": "RW",
       "teamCode": "LAK",
-      "age": 23,
+      "age": 24,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -6590,7 +6590,7 @@ window.NHL_DATA = {
         53,
         65
       ],
-      "legendScore": 52.6
+      "legendScore": 52.1
     },
     {
       "id": 8481596,
@@ -9017,7 +9017,7 @@ window.NHL_DATA = {
       "name": "Thomas Harley",
       "pos": "D",
       "teamCode": "DAL",
-      "age": 24,
+      "age": 25,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -10447,7 +10447,7 @@ window.NHL_DATA = {
       "name": "Joey Daccord",
       "pos": "G",
       "teamCode": "SEA",
-      "age": 29,
+      "age": 30,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -34762,7 +34762,7 @@ window.NHL_DATA = {
       "name": "Arvid Soderblom",
       "pos": "G",
       "teamCode": "CHI",
-      "age": 26,
+      "age": 27,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -47977,10 +47977,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-18 21:42 UTC",
+  "LAST_UPDATE": "2026-08-19 05:46 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-18T21:42:00Z"
+    "standingsDateTimeUtc": "2026-08-19T05:45:46Z"
   }
 };
