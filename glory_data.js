@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-19 14:10 UTC",
+  "UPDATED": "2026-08-19 20:48 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -45,6 +45,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-08-10"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Victor Eklund",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Victor Eklund entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-08-19"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:NGRP Jayasuriya",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "NGRP Jayasuriya entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-08-19"
+    },
+    {
       "id": "rank:cycling:CURRENT_RIDERS:in:Wout van Aert",
       "sport": "cycling",
       "detail": "Ciclismo",
@@ -63,15 +81,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-08-18"
     },
     {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:in:AAP Atkinson",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "AAP Atkinson entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-08-18"
-    },
-    {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:Sajid Khan",
       "sport": "cricket",
       "detail": "Cricket",
@@ -79,6 +88,15 @@ window.GLORY_DATA = {
       "text": "Sajid Khan entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-08-07"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Cole Caufield",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Cole Caufield cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-08-19"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:JNT Seales",
@@ -147,9 +165,9 @@ window.GLORY_DATA = {
       "Jack Hughes",
       "Matt Boldy",
       "Ilya Protas",
+      "Victor Eklund",
       "Lane Hutson",
-      "Leo Carlsson",
-      "Cole Caufield"
+      "Leo Carlsson"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "LeBron James",
@@ -466,14 +484,14 @@ window.GLORY_DATA = {
     "cricket:ROAD_TO_GLORY.players": [
       "JJ Bumrah",
       "MA Starc",
+      "RA Jadeja",
       "Taijul Islam",
       "Mehedi Hasan Miraz",
       "MJ Henry",
-      "RA Jadeja",
       "Nauman Ali",
       "BA Carse",
       "Sajid Khan",
-      "AAP Atkinson"
+      "NGRP Jayasuriya"
     ],
     "athletics:allTime:100m_m": [
       "Usain Bolt",
