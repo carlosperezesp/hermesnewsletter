@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-20 14:20 UTC
+// Auto-generated 2026-08-20 20:49 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-20 14:20 UTC",
+  "UPDATED": "2026-08-20 20:49 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5489,7 +5489,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 85.5
@@ -10960,15 +10960,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Tommy Paul",
+          "w": "Flavio Cobolli",
           "w_logo": "",
-          "l": "Flavio Cobolli",
+          "l": "Tommy Paul",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 79.5,
-          "l_score": 75.4,
+          "scheduled": false,
+          "w_score": 75.4,
+          "l_score": 79.5,
           "match_score": 79.5
         },
         {
@@ -11164,9 +11164,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Amanda Anisimova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 2-6 7-6 (7-4)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.0,
           "l_score": 85.5,
           "match_score": 90.0
