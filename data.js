@@ -5394,7 +5394,7 @@ window.NHL_DATA = {
       "name": "Dan Vladar",
       "pos": "G",
       "teamCode": "PHI",
-      "age": 28,
+      "age": 29,
       "country": "Czechia",
       "birthCountry": "CZE",
       "colors": {
@@ -48021,10 +48021,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-19 21:45 UTC",
+  "LAST_UPDATE": "2026-08-20 05:46 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-19T21:44:59Z"
+    "standingsDateTimeUtc": "2026-08-20T05:46:00Z"
   }
 };
