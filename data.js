@@ -17166,9 +17166,9 @@ window.NHL_DATA = {
       "name": "Zachary Bolduc",
       "pos": "RW",
       "teamCode": "MTL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 23,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#af1e2d",
         "secondary": "#192168"
@@ -17191,7 +17191,8 @@ window.NHL_DATA = {
         47,
         49,
         53
-      ]
+      ],
+      "legendScore": 46.0
     },
     {
       "id": 8482634,
@@ -35526,9 +35527,9 @@ window.NHL_DATA = {
       "name": "Arber Xhekaj",
       "pos": "D",
       "teamCode": "MTL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 25,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#af1e2d",
         "secondary": "#192168"
@@ -36450,9 +36451,9 @@ window.NHL_DATA = {
       "name": "Vincent Iorio",
       "pos": "D",
       "teamCode": "NYR",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 23,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#0038a8",
         "secondary": "#ce1126"
@@ -48021,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-20 20:46 UTC",
+  "LAST_UPDATE": "2026-08-20 21:48 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-20T20:46:00Z"
+    "standingsDateTimeUtc": "2026-08-20T21:48:00Z"
   }
 };

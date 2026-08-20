@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-20 20:49 UTC
+// Auto-generated 2026-08-20 21:50 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-20 20:49 UTC",
+  "UPDATED": "2026-08-20 21:50 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -271,7 +271,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 79.8
@@ -10964,7 +10964,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tommy Paul",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "2-6 6-3 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 75.4,
