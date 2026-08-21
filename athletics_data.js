@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-21 20:43 UTC
+// Auto-generated 2026-08-21 21:45 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-21 20:43 UTC",
+  "UPDATED": "2026-08-21 21:45 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -6010,7 +6010,108 @@ window.ATHLETICS_DATA = {
               "year": 1980
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "21.09",
+              "athlete": "Jessica Schilder",
+              "country": "NED",
+              "flag": "https://flagcdn.com/24x18/nl.png",
+              "primary": "#AE1C28",
+              "venue": "China Textile City Sports Centre",
+              "date": "16 MAY 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "20.74",
+              "athlete": "Chase Jackson",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Bislett Stadion",
+              "date": "10 JUN 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "20.66",
+              "athlete": "Sarah Mitton",
+              "country": "CAN",
+              "flag": "https://flagcdn.com/24x18/ca.png",
+              "primary": "#FF0000",
+              "venue": "Swangard Stadium",
+              "date": "14 JUL 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "20.37",
+              "athlete": "Yemisi Ogunleye",
+              "country": "GER",
+              "flag": "https://flagcdn.com/24x18/de.png",
+              "primary": "#000000",
+              "venue": "Helmut-Krnig-Halle",
+              "date": "27 FEB 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "19.97",
+              "athlete": "Axelina Johansson",
+              "country": "SWE",
+              "flag": "https://flagcdn.com/24x18/se.png",
+              "primary": "#006AA7",
+              "venue": "Ed Weir Outdoor Track",
+              "date": "16 MAY 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "19.70",
+              "athlete": "Fanny Roos",
+              "country": "SWE",
+              "flag": "https://flagcdn.com/24x18/se.png",
+              "primary": "#006AA7",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "19.64",
+              "athlete": "Jorinde Van Klinken",
+              "country": "NED",
+              "flag": "https://flagcdn.com/24x18/nl.png",
+              "primary": "#AE1C28",
+              "venue": "Alexander Stadium",
+              "date": "10 AUG 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "19.63",
+              "athlete": "Linru Zhang",
+              "country": "CHN",
+              "flag": "https://flagcdn.com/24x18/cn.png",
+              "primary": "#DE2910",
+              "venue": "Sports Center",
+              "date": "14 AUG 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "19.62",
+              "athlete": "Jessica Inchude",
+              "country": "POR",
+              "flag": "https://flagcdn.com/24x18/pt.png",
+              "primary": "#006600",
+              "venue": "Estadio Universitario",
+              "date": "26 JUL 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "19.34",
+              "athlete": "Danniel Thomas-Dodd",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Spec Towns Track",
+              "date": "11 APR 2026"
+            }
+          ]
         },
         {
           "id": "dt_m",

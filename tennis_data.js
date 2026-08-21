@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-21 20:43 UTC
+// Auto-generated 2026-08-21 21:45 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-21 20:43 UTC",
+  "UPDATED": "2026-08-21 21:45 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10964,7 +10964,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Taylor Fritz",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (9-11) 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 68.7,
