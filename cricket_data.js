@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-08-21 07:14 UTC",
+  "UPDATED": "2026-08-21 13:32 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1615,
+    "matches": 1622,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 929
+        "matches": 934
       },
       {
         "name": "IPL",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 76
+        "matches": 78
       },
       {
         "name": "MLC",
@@ -47,13 +47,13 @@ window.CRICKET_DATA = {
       "id": "ma-starc",
       "name": "MA Starc",
       "role": "Bowler",
-      "score": 97.5,
-      "legendScore": 72.5,
+      "score": 97.3,
+      "legendScore": 72.4,
       "stats": {
         "test": 100.0,
         "odi": 98.4,
         "t20": 92.7,
-        "franchise": 94.3,
+        "franchise": 93.0,
         "runs": 418,
         "wickets": 115,
         "matches": 43
@@ -92,13 +92,13 @@ window.CRICKET_DATA = {
       "id": "taijul-islam",
       "name": "Taijul Islam",
       "role": "Bowler",
-      "score": 96.3,
+      "score": 96.2,
       "legendScore": 66.8,
       "stats": {
         "test": 99.8,
         "odi": 100.0,
         "t20": 94.2,
-        "franchise": 81.8,
+        "franchise": 80.7,
         "runs": 283,
         "wickets": 76,
         "matches": 15
@@ -137,13 +137,13 @@ window.CRICKET_DATA = {
       "id": "jj-bumrah",
       "name": "JJ Bumrah",
       "role": "Bowler",
-      "score": 95.0,
-      "legendScore": 73.4,
+      "score": 94.8,
+      "legendScore": 73.3,
       "stats": {
         "test": 92.0,
         "odi": 91.8,
         "t20": 100.0,
-        "franchise": 97.9,
+        "franchise": 96.6,
         "runs": 108,
         "wickets": 131,
         "matches": 68
@@ -182,13 +182,13 @@ window.CRICKET_DATA = {
       "id": "nauman-ali",
       "name": "Nauman Ali",
       "role": "Bowler",
-      "score": 93.5,
-      "legendScore": 61.8,
+      "score": 93.3,
+      "legendScore": 61.7,
       "stats": {
         "test": 96.8,
         "odi": 97.0,
         "t20": 91.4,
-        "franchise": 79.4,
+        "franchise": 78.3,
         "runs": 116,
         "wickets": 54,
         "matches": 7
@@ -227,13 +227,13 @@ window.CRICKET_DATA = {
       "id": "mehedi-hasan-miraz",
       "name": "Mehedi Hasan Miraz",
       "role": "All-rounder",
-      "score": 87.7,
-      "legendScore": 66.8,
+      "score": 87.6,
+      "legendScore": 66.7,
       "stats": {
         "test": 91.5,
         "odi": 89.7,
         "t20": 85.9,
-        "franchise": 74.6,
+        "franchise": 73.6,
         "runs": 1110,
         "wickets": 81,
         "matches": 40
@@ -272,13 +272,13 @@ window.CRICKET_DATA = {
       "id": "mj-henry",
       "name": "MJ Henry",
       "role": "Bowler",
-      "score": 87.1,
-      "legendScore": 66.6,
+      "score": 86.9,
+      "legendScore": 66.5,
       "stats": {
         "test": 84.3,
         "odi": 87.8,
         "t20": 92.8,
-        "franchise": 81.2,
+        "franchise": 80.1,
         "runs": 108,
         "wickets": 101,
         "matches": 41
@@ -317,13 +317,13 @@ window.CRICKET_DATA = {
       "id": "ra-jadeja",
       "name": "RA Jadeja",
       "role": "All-rounder",
-      "score": 85.1,
+      "score": 85.0,
       "legendScore": 67.1,
       "stats": {
         "test": 90.6,
         "odi": 84.3,
         "t20": 79.6,
-        "franchise": 76.6,
+        "franchise": 75.6,
         "runs": 1774,
         "wickets": 84,
         "matches": 57
@@ -362,13 +362,13 @@ window.CRICKET_DATA = {
       "id": "sajid-khan",
       "name": "Sajid Khan",
       "role": "Bowler",
-      "score": 83.5,
+      "score": 83.4,
       "legendScore": 60.6,
       "stats": {
         "test": 93.1,
         "odi": 93.3,
         "t20": 66.7,
-        "franchise": 58.0,
+        "franchise": 57.2,
         "runs": 243,
         "wickets": 55,
         "matches": 18
@@ -407,13 +407,13 @@ window.CRICKET_DATA = {
       "id": "ngrp-jayasuriya",
       "name": "NGRP Jayasuriya",
       "role": "Bowler",
-      "score": 82.0,
+      "score": 81.9,
       "legendScore": 57.9,
       "stats": {
         "test": 85.0,
         "odi": 85.2,
         "t20": 80.2,
-        "franchise": 69.6,
+        "franchise": 68.7,
         "runs": 134,
         "wickets": 61,
         "matches": 12
@@ -452,13 +452,13 @@ window.CRICKET_DATA = {
       "id": "ba-carse",
       "name": "BA Carse",
       "role": "Bowler",
-      "score": 79.8,
-      "legendScore": 61.1,
+      "score": 79.6,
+      "legendScore": 60.9,
       "stats": {
         "test": 82.9,
         "odi": 82.0,
         "t20": 78.3,
-        "franchise": 68.0,
+        "franchise": 67.1,
         "runs": 428,
         "wickets": 74,
         "matches": 30
@@ -1551,7 +1551,7 @@ window.CRICKET_DATA = {
           "bowling": 86.6,
           "overall": 57.8,
           "runs": 247,
-          "wickets": 99
+          "wickets": 100
         },
         {
           "id": "mehedi-hasan-miraz",
@@ -1830,6 +1830,24 @@ window.CRICKET_DATA = {
           "wickets": 6
         },
         {
+          "id": "mc-henriques",
+          "name": "MC Henriques",
+          "role": "Batter",
+          "country": "Portugal",
+          "teamCode": "POR",
+          "colors": {
+            "primary": "#555555",
+            "secondary": "#dddddd"
+          },
+          "logo": "",
+          "score": 82.4,
+          "batting": 82.4,
+          "bowling": 0.3,
+          "overall": 9.2,
+          "runs": 599,
+          "wickets": 1
+        },
+        {
           "id": "je-root",
           "name": "JE Root",
           "role": "Batter",
@@ -1936,24 +1954,6 @@ window.CRICKET_DATA = {
           "overall": 16.6,
           "runs": 235,
           "wickets": 2
-        },
-        {
-          "id": "spd-smith",
-          "name": "SPD Smith",
-          "role": "Batter",
-          "country": "Australia",
-          "teamCode": "AUS",
-          "colors": {
-            "primary": "#ffcd00",
-            "secondary": "#006341"
-          },
-          "logo": "https://flagcdn.com/24x18/au.png",
-          "score": 70.0,
-          "batting": 70.0,
-          "bowling": 0.6,
-          "overall": 12.0,
-          "runs": 2522,
-          "wickets": 1
         }
       ],
       "bowling": [
@@ -2063,7 +2063,7 @@ window.CRICKET_DATA = {
           "bowling": 79.6,
           "overall": 58.8,
           "runs": 247,
-          "wickets": 99
+          "wickets": 100
         },
         {
           "id": "ja-duffy",
@@ -2170,12 +2170,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 96.7,
+          "score": 97.4,
           "batting": 26.3,
-          "bowling": 95.3,
-          "overall": 96.7,
-          "runs": 1162,
-          "wickets": 131
+          "bowling": 96.7,
+          "overall": 97.4,
+          "runs": 1189,
+          "wickets": 133
         },
         {
           "id": "mehedi-hasan-miraz",
@@ -2304,22 +2304,22 @@ window.CRICKET_DATA = {
           "wickets": 51
         },
         {
-          "id": "rl-chase",
-          "name": "RL Chase",
-          "role": "Batter",
-          "country": "West Indies",
-          "teamCode": "WI",
+          "id": "taijul-islam",
+          "name": "Taijul Islam",
+          "role": "Bowler",
+          "country": "Bangladesh",
+          "teamCode": "BAN",
           "colors": {
-            "primary": "#7a263a",
-            "secondary": "#f6c344"
+            "primary": "#006a4e",
+            "secondary": "#f42a41"
           },
-          "logo": "",
-          "score": 77.0,
-          "batting": 30.3,
-          "bowling": 52.5,
-          "overall": 77.0,
-          "runs": 1817,
-          "wickets": 71
+          "logo": "https://flagcdn.com/24x18/bd.png",
+          "score": 76.9,
+          "batting": 20.2,
+          "bowling": 78.5,
+          "overall": 76.9,
+          "runs": 283,
+          "wickets": 76
         }
       ],
       "batting": [
@@ -2534,12 +2534,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 95.3,
+          "score": 96.7,
           "batting": 26.3,
-          "bowling": 95.3,
-          "overall": 96.7,
-          "runs": 1162,
-          "wickets": 131
+          "bowling": 96.7,
+          "overall": 97.4,
+          "runs": 1189,
+          "wickets": 133
         },
         {
           "id": "ma-starc",
@@ -2678,12 +2678,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 77.3,
-          "batting": 12.1,
-          "bowling": 77.3,
-          "overall": 59.1,
+          "score": 77.9,
+          "batting": 12.0,
+          "bowling": 77.9,
+          "overall": 59.0,
           "runs": 247,
-          "wickets": 99
+          "wickets": 100
         }
       ]
     }
@@ -3315,13 +3315,13 @@ window.CRICKET_DATA = {
         "id": "jj-bumrah",
         "name": "JJ Bumrah",
         "role": "Bowler",
-        "score": 95.0,
-        "legendScore": 73.4,
+        "score": 94.8,
+        "legendScore": 73.3,
         "stats": {
           "test": 92.0,
           "odi": 91.8,
           "t20": 100.0,
-          "franchise": 97.9,
+          "franchise": 96.6,
           "runs": 108,
           "wickets": 131,
           "matches": 68
@@ -3360,13 +3360,13 @@ window.CRICKET_DATA = {
         "id": "ma-starc",
         "name": "MA Starc",
         "role": "Bowler",
-        "score": 97.5,
-        "legendScore": 72.5,
+        "score": 97.3,
+        "legendScore": 72.4,
         "stats": {
           "test": 100.0,
           "odi": 98.4,
           "t20": 92.7,
-          "franchise": 94.3,
+          "franchise": 93.0,
           "runs": 418,
           "wickets": 115,
           "matches": 43
@@ -3405,13 +3405,13 @@ window.CRICKET_DATA = {
         "id": "ra-jadeja",
         "name": "RA Jadeja",
         "role": "All-rounder",
-        "score": 85.1,
+        "score": 85.0,
         "legendScore": 67.1,
         "stats": {
           "test": 90.6,
           "odi": 84.3,
           "t20": 79.6,
-          "franchise": 76.6,
+          "franchise": 75.6,
           "runs": 1774,
           "wickets": 84,
           "matches": 57
@@ -3450,13 +3450,13 @@ window.CRICKET_DATA = {
         "id": "taijul-islam",
         "name": "Taijul Islam",
         "role": "Bowler",
-        "score": 96.3,
+        "score": 96.2,
         "legendScore": 66.8,
         "stats": {
           "test": 99.8,
           "odi": 100.0,
           "t20": 94.2,
-          "franchise": 81.8,
+          "franchise": 80.7,
           "runs": 283,
           "wickets": 76,
           "matches": 15
@@ -3495,13 +3495,13 @@ window.CRICKET_DATA = {
         "id": "mehedi-hasan-miraz",
         "name": "Mehedi Hasan Miraz",
         "role": "All-rounder",
-        "score": 87.7,
-        "legendScore": 66.8,
+        "score": 87.6,
+        "legendScore": 66.7,
         "stats": {
           "test": 91.5,
           "odi": 89.7,
           "t20": 85.9,
-          "franchise": 74.6,
+          "franchise": 73.6,
           "runs": 1110,
           "wickets": 81,
           "matches": 40
@@ -3540,13 +3540,13 @@ window.CRICKET_DATA = {
         "id": "mj-henry",
         "name": "MJ Henry",
         "role": "Bowler",
-        "score": 87.1,
-        "legendScore": 66.6,
+        "score": 86.9,
+        "legendScore": 66.5,
         "stats": {
           "test": 84.3,
           "odi": 87.8,
           "t20": 92.8,
-          "franchise": 81.2,
+          "franchise": 80.1,
           "runs": 108,
           "wickets": 101,
           "matches": 41
@@ -3585,13 +3585,13 @@ window.CRICKET_DATA = {
         "id": "nauman-ali",
         "name": "Nauman Ali",
         "role": "Bowler",
-        "score": 93.5,
-        "legendScore": 61.8,
+        "score": 93.3,
+        "legendScore": 61.7,
         "stats": {
           "test": 96.8,
           "odi": 97.0,
           "t20": 91.4,
-          "franchise": 79.4,
+          "franchise": 78.3,
           "runs": 116,
           "wickets": 54,
           "matches": 7
@@ -3630,13 +3630,13 @@ window.CRICKET_DATA = {
         "id": "ba-carse",
         "name": "BA Carse",
         "role": "Bowler",
-        "score": 79.8,
-        "legendScore": 61.1,
+        "score": 79.6,
+        "legendScore": 60.9,
         "stats": {
           "test": 82.9,
           "odi": 82.0,
           "t20": 78.3,
-          "franchise": 68.0,
+          "franchise": 67.1,
           "runs": 428,
           "wickets": 74,
           "matches": 30
@@ -3675,13 +3675,13 @@ window.CRICKET_DATA = {
         "id": "sajid-khan",
         "name": "Sajid Khan",
         "role": "Bowler",
-        "score": 83.5,
+        "score": 83.4,
         "legendScore": 60.6,
         "stats": {
           "test": 93.1,
           "odi": 93.3,
           "t20": 66.7,
-          "franchise": 58.0,
+          "franchise": 57.2,
           "runs": 243,
           "wickets": 55,
           "matches": 18
@@ -3720,13 +3720,13 @@ window.CRICKET_DATA = {
         "id": "ngrp-jayasuriya",
         "name": "NGRP Jayasuriya",
         "role": "Bowler",
-        "score": 82.0,
+        "score": 81.9,
         "legendScore": 57.9,
         "stats": {
           "test": 85.0,
           "odi": 85.2,
           "t20": 80.2,
-          "franchise": 69.6,
+          "franchise": 68.7,
           "runs": 134,
           "wickets": 61,
           "matches": 12

@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-21 07:13 UTC
+// Auto-generated 2026-08-21 13:30 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-08-21 07:13 UTC",
+  "UPDATED": "2026-08-21 13:30 UTC",
   "SEASON": "2026",
   "ROUND": 24,
   "IMPORTANCE": 9.5,
@@ -33,11 +33,11 @@ window.AFL_DATA = {
     {
       "rank": 3,
       "name": "Brisbane Lions",
-      "wins": 15,
+      "wins": 16,
       "losses": 7,
       "draws": 0,
-      "pts": 60,
-      "percentage": 119.5,
+      "pts": 64,
+      "percentage": 121.7,
       "primary": "#7B1A4B",
       "secondary": "#F6AE00",
       "prevRank": 3
@@ -94,10 +94,10 @@ window.AFL_DATA = {
       "rank": 8,
       "name": "Collingwood",
       "wins": 12,
-      "losses": 8,
+      "losses": 9,
       "draws": 2,
       "pts": 52,
-      "percentage": 106.1,
+      "percentage": 102.4,
       "primary": "#000000",
       "secondary": "#FFFFFF",
       "prevRank": 8
@@ -1065,6 +1065,16 @@ window.AFL_DATA = {
       "date": "2026-08-20",
       "hprimary": "#ED1C2E",
       "aprimary": "#C5002F"
+    },
+    {
+      "hteam": "Collingwood",
+      "hscore": 96,
+      "ateam": "Brisbane Lions",
+      "ascore": 159,
+      "winner": "Brisbane Lions",
+      "date": "2026-08-21",
+      "hprimary": "#000000",
+      "aprimary": "#7B1A4B"
     }
   ],
   "CURRENT_CONTENDERS": [
