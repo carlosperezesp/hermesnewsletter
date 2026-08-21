@@ -36748,7 +36748,7 @@ window.NHL_DATA = {
       "name": "Jett Luchanko",
       "pos": "C",
       "teamCode": "PHI",
-      "age": 19,
+      "age": 20,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-20 21:48 UTC",
+  "LAST_UPDATE": "2026-08-21 05:48 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-20T21:48:00Z"
+    "standingsDateTimeUtc": "2026-08-21T05:47:45Z"
   }
 };

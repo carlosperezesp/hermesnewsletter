@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-08-20 21:50 UTC",
+  "UPDATED": "2026-08-21 05:50 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1617,
+    "matches": 1615,
     "archives": [
       {
         "name": "Tests",
@@ -13,7 +13,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 151
+        "matches": 149
       },
       {
         "name": "T20Is",
@@ -856,7 +856,7 @@ window.CRICKET_DATA = {
           "batting": 56.3,
           "bowling": 24.7,
           "overall": 69.4,
-          "runs": 324,
+          "runs": 298,
           "wickets": 22
         }
       ],
@@ -1190,6 +1190,24 @@ window.CRICKET_DATA = {
           "wickets": 30
         },
         {
+          "id": "mr-adair",
+          "name": "MR Adair",
+          "role": "Bowler",
+          "country": "Ireland",
+          "teamCode": "IRE",
+          "colors": {
+            "primary": "#169b62",
+            "secondary": "#ff883e"
+          },
+          "logo": "https://flagcdn.com/24x18/ie.png",
+          "score": 79.3,
+          "batting": 79.9,
+          "bowling": 24.7,
+          "overall": 79.3,
+          "runs": 298,
+          "wickets": 22
+        },
+        {
           "id": "md-fisher",
           "name": "MD Fisher",
           "role": "All-rounder",
@@ -1206,24 +1224,6 @@ window.CRICKET_DATA = {
           "overall": 78.2,
           "runs": 50,
           "wickets": 5
-        },
-        {
-          "id": "taijul-islam",
-          "name": "Taijul Islam",
-          "role": "Bowler",
-          "country": "Bangladesh",
-          "teamCode": "BAN",
-          "colors": {
-            "primary": "#006a4e",
-            "secondary": "#f42a41"
-          },
-          "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 77.4,
-          "batting": 18.8,
-          "bowling": 100.0,
-          "overall": 77.4,
-          "runs": 283,
-          "wickets": 76
         }
       ],
       "batting": [
@@ -1280,6 +1280,24 @@ window.CRICKET_DATA = {
           "overall": 62.5,
           "runs": 370,
           "wickets": 6
+        },
+        {
+          "id": "mr-adair",
+          "name": "MR Adair",
+          "role": "Bowler",
+          "country": "Ireland",
+          "teamCode": "IRE",
+          "colors": {
+            "primary": "#169b62",
+            "secondary": "#ff883e"
+          },
+          "logo": "https://flagcdn.com/24x18/ie.png",
+          "score": 79.9,
+          "batting": 79.9,
+          "bowling": 24.7,
+          "overall": 79.3,
+          "runs": 298,
+          "wickets": 22
         },
         {
           "id": "da-miller",
@@ -1352,24 +1370,6 @@ window.CRICKET_DATA = {
           "overall": 9.7,
           "runs": 1050,
           "wickets": 0
-        },
-        {
-          "id": "mr-adair",
-          "name": "MR Adair",
-          "role": "Bowler",
-          "country": "Ireland",
-          "teamCode": "IRE",
-          "colors": {
-            "primary": "#169b62",
-            "secondary": "#ff883e"
-          },
-          "logo": "https://flagcdn.com/24x18/ie.png",
-          "score": 70.4,
-          "batting": 70.4,
-          "bowling": 18.1,
-          "overall": 63.8,
-          "runs": 324,
-          "wickets": 22
         },
         {
           "id": "spd-smith",
