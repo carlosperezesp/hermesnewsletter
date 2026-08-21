@@ -38065,9 +38065,9 @@ window.NHL_DATA = {
       "name": "Jorian Donovan",
       "pos": "D",
       "teamCode": "OTT",
-      "age": 22,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#c52032",
         "secondary": "#c2912c"
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-21 13:30 UTC",
+  "LAST_UPDATE": "2026-08-21 14:09 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-21T13:29:45Z"
+    "standingsDateTimeUtc": "2026-08-21T14:09:15Z"
   }
 };
