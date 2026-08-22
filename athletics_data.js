@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-22 20:43 UTC
+// Auto-generated 2026-08-22 21:43 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-22 20:43 UTC",
+  "UPDATED": "2026-08-22 21:43 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -6694,6 +6694,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 4,
+              "mark": "87.68",
+              "athlete": "Rohit Yadav",
+              "country": "IND",
+              "flag": "https://flagcdn.com/24x18/in.png",
+              "primary": "#4A4745",
+              "venue": "Kalinga Stadium",
+              "date": "22 AUG 2026"
+            },
+            {
+              "rank": 5,
               "mark": "87.59",
               "athlete": "Curtis Thompson",
               "country": "USA",
@@ -6701,16 +6711,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Icahn Stadium",
               "date": "25 JUL 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "87.05",
-              "athlete": "Rohit Yadav",
-              "country": "IND",
-              "flag": "https://flagcdn.com/24x18/in.png",
-              "primary": "#4A4745",
-              "venue": "Kalinga Stadium",
-              "date": "28 JUN 2026"
             },
             {
               "rank": 6,

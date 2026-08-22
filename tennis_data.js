@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-22 20:43 UTC
+// Auto-generated 2026-08-22 21:43 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-22 20:43 UTC",
+  "UPDATED": "2026-08-22 21:43 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -2449,8 +2449,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open",
-        "state": "alive",
+        "tournament": "Cincinnati Open",
+        "state": "out",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -3953,10 +3953,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.8
     },
@@ -6337,9 +6337,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 66.8
@@ -6405,8 +6405,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "out",
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -6507,7 +6507,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -6541,9 +6541,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 64.3
@@ -6575,7 +6575,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -6713,9 +6713,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros",
         "state": "alive",
-        "round": "R32",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 62.9
@@ -7121,9 +7121,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "R64",
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
+        "round": "R128",
         "reason": "Eliminado en R64"
       },
       "prevActiveScore": 59.9
@@ -7223,8 +7223,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "out",
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -7769,8 +7769,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "out",
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -7803,8 +7803,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "out",
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -7837,9 +7837,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 79,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 55.5
@@ -8007,8 +8007,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "out",
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -8315,10 +8315,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 51.6
     },
@@ -9701,10 +9701,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 39.1
     },
@@ -11082,7 +11082,6 @@ window.TENNIS_DATA = {
       "Marcos Giron",
       "Mariano Navone",
       "Martin Landaluce",
-      "Marton Fucsovics",
       "Matteo Berrettini",
       "Mattia Bellucci",
       "Michael Zheng",
@@ -11092,7 +11091,6 @@ window.TENNIS_DATA = {
       "Quentin Halys",
       "Rafael Jodar",
       "Rinky Hijikata",
-      "Roman Safiullin",
       "Sebastian Baez",
       "Sho Shimabukuro",
       "Stefanos Tsitsipas",
@@ -11128,6 +11126,7 @@ window.TENNIS_DATA = {
       "Luciano Darderi",
       "Marin Cilic",
       "Mark Lajal",
+      "Marton Fucsovics",
       "Matteo Arnaldi",
       "Nicolas Mejia",
       "Novak Djokovic",
@@ -11143,8 +11142,8 @@ window.TENNIS_DATA = {
       "Zachary Svajda",
       "Zizou Bergs"
     ],
-    "aliveCount": 68,
-    "matchesSeen": 106
+    "aliveCount": 66,
+    "matchesSeen": 105
   },
   "WTA_TOURNAMENT": {
     "name": "Cincinnati Open · Abierto GNP Seguros",
@@ -11165,19 +11164,24 @@ window.TENNIS_DATA = {
     ],
     "alive": [
       "Alexandra Eala",
+      "Alycia Parks",
       "Amanda Anisimova",
       "Anhelina Kalinina",
       "Ann Li",
       "Anna Blinkova",
       "Anna Kalinskaya",
+      "Antonia Ruzic",
       "Aryna Sabalenka",
+      "Camila Osorio",
       "Catherine McNally",
       "Clara Tauson",
       "Coco Gauff",
       "Cristina Bucsa",
       "Daria Snigur",
+      "Dayana Yastremska",
       "Diana Shnaider",
       "Diane Parry",
+      "Donna Vekic",
       "Ekaterina Alexandrova",
       "Elena Rybakina",
       "Elena-Gabriela Ruse",
@@ -11202,10 +11206,13 @@ window.TENNIS_DATA = {
       "Maria Sakkari",
       "Marie Bouzkova",
       "Marta Kostyuk",
+      "Mayar Sherif",
       "Mirra Andreeva",
       "Nikola Bartunkova",
       "Oleksandra Oliynykova",
+      "Petra Marcinko",
       "Peyton Stearns",
+      "Renata Zarazua",
       "Sara Bejlek",
       "Simona Waltert",
       "Sloane Stephens",
@@ -11224,19 +11231,14 @@ window.TENNIS_DATA = {
     ],
     "out": [
       "Alina Charaeva",
-      "Alycia Parks",
       "Anastasia Potapova",
       "Anna Bondar",
-      "Antonia Ruzic",
       "Ashlyn Krueger",
       "Barbora Krejcikova",
       "Belinda Bencic",
-      "Camila Osorio",
       "Caroline Dolehide",
       "Daria Kasatkina",
       "Darja Vidmanova",
-      "Dayana Yastremska",
-      "Donna Vekic",
       "Elisabetta Cocciaretto",
       "Elise Mertens",
       "Elvina Kalieva",
@@ -11257,14 +11259,13 @@ window.TENNIS_DATA = {
       "Maya Joint",
       "McCartney Kessler",
       "Panna Udvardy",
-      "Petra Marcinko",
       "Sinja Kraus",
       "Venus Williams",
       "Yulia Putintseva",
       "Yuliia Starodubtseva"
     ],
-    "aliveCount": 57,
-    "matchesSeen": 94
+    "aliveCount": 65,
+    "matchesSeen": 101
   },
   "ATP_SCORE_LOG": {
     "206173": [
