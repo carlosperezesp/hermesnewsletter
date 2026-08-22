@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-21 21:45 UTC",
+  "UPDATED": "2026-08-22 05:45 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -79,15 +79,6 @@ window.GLORY_DATA = {
       "text": "BA Carse entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-08-18"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:in:Sajid Khan",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "Sajid Khan entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-08-07"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Cole Caufield",

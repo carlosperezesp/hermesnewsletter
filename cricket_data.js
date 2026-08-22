@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-08-21 21:45 UTC",
+  "UPDATED": "2026-08-22 05:44 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1622,
+    "matches": 1620,
     "archives": [
       {
         "name": "Tests",
@@ -13,11 +13,11 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 149
+        "matches": 148
       },
       {
         "name": "T20Is",
-        "matches": 934
+        "matches": 933
       },
       {
         "name": "IPL",
@@ -272,16 +272,16 @@ window.CRICKET_DATA = {
       "id": "mj-henry",
       "name": "MJ Henry",
       "role": "Bowler",
-      "score": 86.9,
-      "legendScore": 66.5,
+      "score": 86.2,
+      "legendScore": 66.0,
       "stats": {
         "test": 84.3,
-        "odi": 87.8,
-        "t20": 92.8,
-        "franchise": 80.1,
+        "odi": 87.0,
+        "t20": 91.4,
+        "franchise": 78.9,
         "runs": 108,
-        "wickets": 101,
-        "matches": 41
+        "wickets": 99,
+        "matches": 40
       },
       "formatScores": {
         "test": {
@@ -290,19 +290,19 @@ window.CRICKET_DATA = {
           "bowling": 87.5
         },
         "odi": {
-          "overall": 46.3,
-          "batting": 7.3,
-          "bowling": 91.9
+          "overall": 46.6,
+          "batting": 7.5,
+          "bowling": 90.9
         },
         "t20": {
-          "overall": 52.0,
-          "batting": 8.5,
-          "bowling": 92.2
+          "overall": 51.9,
+          "batting": 8.6,
+          "bowling": 90.7
         },
         "franchise": {
-          "overall": 51.2,
+          "overall": 50.8,
           "batting": 8.6,
-          "bowling": 81.9
+          "bowling": 80.5
         }
       },
       "country": "New Zealand",
@@ -967,7 +967,7 @@ window.CRICKET_DATA = {
           "bowling": 87.5,
           "overall": 44.4,
           "runs": 108,
-          "wickets": 101
+          "wickets": 99
         },
         {
           "id": "ngrp-jayasuriya",
@@ -1492,12 +1492,12 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 91.9,
-          "batting": 7.3,
-          "bowling": 91.9,
-          "overall": 46.3,
+          "score": 90.9,
+          "batting": 7.5,
+          "bowling": 90.9,
+          "overall": 46.6,
           "runs": 108,
-          "wickets": 101
+          "wickets": 99
         },
         {
           "id": "sajid-khan",
@@ -1730,12 +1730,12 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 80.6,
-          "batting": 29.8,
-          "bowling": 63.1,
-          "overall": 80.6,
+          "score": 79.4,
+          "batting": 30.1,
+          "bowling": 60.6,
+          "overall": 79.4,
           "runs": 965,
-          "wickets": 86
+          "wickets": 83
         },
         {
           "id": "virandeep-singh",
@@ -1986,12 +1986,12 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 92.2,
-          "batting": 8.5,
-          "bowling": 92.2,
-          "overall": 52.0,
+          "score": 90.7,
+          "batting": 8.6,
+          "bowling": 90.7,
+          "overall": 51.9,
           "runs": 108,
-          "wickets": 101
+          "wickets": 99
         },
         {
           "id": "taijul-islam",
@@ -2232,24 +2232,6 @@ window.CRICKET_DATA = {
           "wickets": 60
         },
         {
-          "id": "mj-santner",
-          "name": "MJ Santner",
-          "role": "Bowler",
-          "country": "New Zealand",
-          "teamCode": "NZ",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          },
-          "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 82.5,
-          "batting": 28.0,
-          "bowling": 65.2,
-          "overall": 82.5,
-          "runs": 965,
-          "wickets": 86
-        },
-        {
           "id": "c-bosch",
           "name": "C Bosch",
           "role": "Bowler",
@@ -2265,6 +2247,24 @@ window.CRICKET_DATA = {
           "bowling": 64.3,
           "overall": 81.6,
           "runs": 755,
+          "wickets": 83
+        },
+        {
+          "id": "mj-santner",
+          "name": "MJ Santner",
+          "role": "Bowler",
+          "country": "New Zealand",
+          "teamCode": "NZ",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          },
+          "logo": "https://flagcdn.com/24x18/nz.png",
+          "score": 81.4,
+          "batting": 28.2,
+          "bowling": 63.0,
+          "overall": 81.4,
+          "runs": 965,
           "wickets": 83
         },
         {
@@ -2570,12 +2570,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 88.3,
-          "batting": 10.0,
-          "bowling": 88.3,
-          "overall": 57.4,
-          "runs": 152,
-          "wickets": 119
+          "score": 86.9,
+          "batting": 9.3,
+          "bowling": 86.9,
+          "overall": 54.9,
+          "runs": 133,
+          "wickets": 117
         },
         {
           "id": "mohammed-siraj",
@@ -2624,12 +2624,12 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 81.9,
+          "score": 80.5,
           "batting": 8.6,
-          "bowling": 81.9,
-          "overall": 51.2,
+          "bowling": 80.5,
+          "overall": 50.8,
           "runs": 108,
-          "wickets": 101
+          "wickets": 99
         },
         {
           "id": "taijul-islam",
@@ -2660,11 +2660,11 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 78.1,
-          "batting": 14.8,
-          "bowling": 78.1,
-          "overall": 65.6,
-          "runs": 419,
+          "score": 78.2,
+          "batting": 14.7,
+          "bowling": 78.2,
+          "overall": 65.5,
+          "runs": 405,
           "wickets": 104
         },
         {
@@ -3540,16 +3540,16 @@ window.CRICKET_DATA = {
         "id": "mj-henry",
         "name": "MJ Henry",
         "role": "Bowler",
-        "score": 86.9,
-        "legendScore": 66.5,
+        "score": 86.2,
+        "legendScore": 66.0,
         "stats": {
           "test": 84.3,
-          "odi": 87.8,
-          "t20": 92.8,
-          "franchise": 80.1,
+          "odi": 87.0,
+          "t20": 91.4,
+          "franchise": 78.9,
           "runs": 108,
-          "wickets": 101,
-          "matches": 41
+          "wickets": 99,
+          "matches": 40
         },
         "formatScores": {
           "test": {
@@ -3558,19 +3558,19 @@ window.CRICKET_DATA = {
             "bowling": 87.5
           },
           "odi": {
-            "overall": 46.3,
-            "batting": 7.3,
-            "bowling": 91.9
+            "overall": 46.6,
+            "batting": 7.5,
+            "bowling": 90.9
           },
           "t20": {
-            "overall": 52.0,
-            "batting": 8.5,
-            "bowling": 92.2
+            "overall": 51.9,
+            "batting": 8.6,
+            "bowling": 90.7
           },
           "franchise": {
-            "overall": 51.2,
+            "overall": 50.8,
             "batting": 8.6,
-            "bowling": 81.9
+            "bowling": 80.5
           }
         },
         "country": "New Zealand",

@@ -5359,7 +5359,7 @@ window.NHL_DATA = {
       "name": "Brock Faber",
       "pos": "D",
       "teamCode": "MIN",
-      "age": 23,
+      "age": 24,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -5385,7 +5385,7 @@ window.NHL_DATA = {
         53,
         67
       ],
-      "legendScore": 53.7
+      "legendScore": 53.2
     },
     {
       "id": 8478435,
@@ -13909,7 +13909,7 @@ window.NHL_DATA = {
       "name": "Brayden Schenn",
       "pos": "C",
       "teamCode": "NYI",
-      "age": 34,
+      "age": 35,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-21 21:43 UTC",
+  "LAST_UPDATE": "2026-08-22 05:42 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-21T21:43:15Z"
+    "standingsDateTimeUtc": "2026-08-22T05:42:00Z"
   }
 };
