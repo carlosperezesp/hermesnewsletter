@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-22 05:43 UTC
+// Auto-generated 2026-08-22 07:05 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-08-22 05:43 UTC",
+  "UPDATED": "2026-08-22 07:05 UTC",
   "SEASON": "2026",
   "ROUND": 24,
   "IMPORTANCE": 9.5,
@@ -10,10 +10,10 @@ window.AFL_DATA = {
       "rank": 1,
       "name": "Fremantle",
       "wins": 19,
-      "losses": 3,
+      "losses": 4,
       "draws": 0,
       "pts": 76,
-      "percentage": 142.5,
+      "percentage": 137.2,
       "primary": "#2A0D54",
       "secondary": "#FFFFFF",
       "prevRank": 1
@@ -104,6 +104,17 @@ window.AFL_DATA = {
     },
     {
       "rank": 9,
+      "name": "Carlton",
+      "wins": 12,
+      "losses": 10,
+      "draws": 1,
+      "pts": 50,
+      "percentage": 101.5,
+      "primary": "#0E1E2D",
+      "secondary": "#FFFFFF"
+    },
+    {
+      "rank": 10,
       "name": "Western Bulldogs",
       "wins": 12,
       "losses": 9,
@@ -112,17 +123,6 @@ window.AFL_DATA = {
       "percentage": 94.1,
       "primary": "#0039A6",
       "secondary": "#CC2031"
-    },
-    {
-      "rank": 10,
-      "name": "Carlton",
-      "wins": 11,
-      "losses": 10,
-      "draws": 1,
-      "pts": 46,
-      "percentage": 99.6,
-      "primary": "#0E1E2D",
-      "secondary": "#FFFFFF"
     },
     {
       "rank": 11,
@@ -1075,6 +1075,16 @@ window.AFL_DATA = {
       "date": "2026-08-21",
       "hprimary": "#000000",
       "aprimary": "#7B1A4B"
+    },
+    {
+      "hteam": "Carlton",
+      "hscore": 119,
+      "ateam": "Fremantle",
+      "ascore": 82,
+      "winner": "Carlton",
+      "date": "2026-08-22",
+      "hprimary": "#0E1E2D",
+      "aprimary": "#2A0D54"
     }
   ],
   "CURRENT_CONTENDERS": [
