@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-22 07:07 UTC",
+  "UPDATED": "2026-08-22 13:19 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -464,13 +464,13 @@ window.GLORY_DATA = {
       "Fremantle",
       "Sydney",
       "Brisbane Lions",
-      "Hawthorn",
-      "Melbourne",
       "Geelong",
       "Adelaide",
+      "Hawthorn",
+      "Melbourne",
+      "Western Bulldogs",
       "Collingwood",
-      "Carlton",
-      "Western Bulldogs"
+      "Carlton"
     ],
     "cricket:ROAD_TO_GLORY.players": [
       "JJ Bumrah",

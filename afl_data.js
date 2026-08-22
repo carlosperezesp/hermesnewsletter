@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-22 07:05 UTC
+// Auto-generated 2026-08-22 13:17 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-08-22 07:05 UTC",
+  "UPDATED": "2026-08-22 13:17 UTC",
   "SEASON": "2026",
   "ROUND": 24,
   "IMPORTANCE": 9.5,
@@ -44,6 +44,30 @@ window.AFL_DATA = {
     },
     {
       "rank": 4,
+      "name": "Geelong",
+      "wins": 15,
+      "losses": 8,
+      "draws": 0,
+      "pts": 60,
+      "percentage": 122.3,
+      "primary": "#002A54",
+      "secondary": "#FFFFFF",
+      "prevRank": 6
+    },
+    {
+      "rank": 5,
+      "name": "Adelaide",
+      "wins": 15,
+      "losses": 8,
+      "draws": 0,
+      "pts": 60,
+      "percentage": 117.3,
+      "primary": "#002B5C",
+      "secondary": "#CC2031",
+      "prevRank": 7
+    },
+    {
+      "rank": 6,
       "name": "Hawthorn",
       "wins": 14,
       "losses": 6,
@@ -55,43 +79,31 @@ window.AFL_DATA = {
       "prevRank": 4
     },
     {
-      "rank": 5,
+      "rank": 7,
       "name": "Melbourne",
       "wins": 15,
-      "losses": 7,
+      "losses": 8,
       "draws": 0,
       "pts": 60,
-      "percentage": 111.2,
+      "percentage": 109.6,
       "primary": "#CC2031",
       "secondary": "#013B9F",
       "prevRank": 5
     },
     {
-      "rank": 6,
-      "name": "Geelong",
-      "wins": 14,
-      "losses": 8,
-      "draws": 0,
-      "pts": 56,
-      "percentage": 120.2,
-      "primary": "#002A54",
-      "secondary": "#FFFFFF",
-      "prevRank": 6
-    },
-    {
-      "rank": 7,
-      "name": "Adelaide",
-      "wins": 14,
-      "losses": 8,
-      "draws": 0,
-      "pts": 56,
-      "percentage": 115.1,
-      "primary": "#002B5C",
-      "secondary": "#CC2031",
-      "prevRank": 7
-    },
-    {
       "rank": 8,
+      "name": "Western Bulldogs",
+      "wins": 13,
+      "losses": 9,
+      "draws": 1,
+      "pts": 54,
+      "percentage": 95.4,
+      "primary": "#0039A6",
+      "secondary": "#CC2031",
+      "prevRank": 10
+    },
+    {
+      "rank": 9,
       "name": "Collingwood",
       "wins": 12,
       "losses": 9,
@@ -99,11 +111,10 @@ window.AFL_DATA = {
       "pts": 52,
       "percentage": 102.4,
       "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "prevRank": 8
+      "secondary": "#FFFFFF"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Carlton",
       "wins": 12,
       "losses": 10,
@@ -112,17 +123,6 @@ window.AFL_DATA = {
       "percentage": 101.5,
       "primary": "#0E1E2D",
       "secondary": "#FFFFFF"
-    },
-    {
-      "rank": 10,
-      "name": "Western Bulldogs",
-      "wins": 12,
-      "losses": 9,
-      "draws": 1,
-      "pts": 50,
-      "percentage": 94.1,
-      "primary": "#0039A6",
-      "secondary": "#CC2031"
     },
     {
       "rank": 11,
@@ -139,10 +139,10 @@ window.AFL_DATA = {
       "rank": 12,
       "name": "Greater Western Sydney",
       "wins": 10,
-      "losses": 12,
+      "losses": 13,
       "draws": 0,
       "pts": 40,
-      "percentage": 101.8,
+      "percentage": 98.9,
       "primary": "#F57F00",
       "secondary": "#002040"
     },
@@ -194,10 +194,10 @@ window.AFL_DATA = {
       "rank": 17,
       "name": "Richmond",
       "wins": 3,
-      "losses": 19,
+      "losses": 20,
       "draws": 0,
       "pts": 12,
-      "percentage": 62.8,
+      "percentage": 62.5,
       "primary": "#FFD200",
       "secondary": "#000000"
     },
@@ -1085,6 +1085,36 @@ window.AFL_DATA = {
       "date": "2026-08-22",
       "hprimary": "#0E1E2D",
       "aprimary": "#2A0D54"
+    },
+    {
+      "hteam": "Melbourne",
+      "hscore": 87,
+      "ateam": "Western Bulldogs",
+      "ascore": 108,
+      "winner": "Western Bulldogs",
+      "date": "2026-08-22",
+      "hprimary": "#CC2031",
+      "aprimary": "#0039A6"
+    },
+    {
+      "hteam": "Geelong",
+      "hscore": 133,
+      "ateam": "Richmond",
+      "ascore": 76,
+      "winner": "Geelong",
+      "date": "2026-08-22",
+      "hprimary": "#002A54",
+      "aprimary": "#FFD200"
+    },
+    {
+      "hteam": "Adelaide",
+      "hscore": 157,
+      "ateam": "Greater Western Sydney",
+      "ascore": 101,
+      "winner": "Adelaide",
+      "date": "2026-08-22",
+      "hprimary": "#002B5C",
+      "aprimary": "#F57F00"
     }
   ],
   "CURRENT_CONTENDERS": [
