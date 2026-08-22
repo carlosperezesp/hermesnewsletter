@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-22 13:56 UTC
+// Auto-generated 2026-08-22 20:43 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-22 13:56 UTC",
+  "UPDATED": "2026-08-22 20:43 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -577,7 +577,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Cincinnati Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 75.4
@@ -10925,9 +10925,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Flavio Cobolli",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 82.7,
           "l_score": 75.4,
           "match_score": 82.7
@@ -11008,9 +11008,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jessica Pegula",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.8,
           "l_score": 90.0,
           "match_score": 90.8

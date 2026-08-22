@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-22 13:55 UTC
+// Auto-generated 2026-08-22 20:40 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-08-22 13:55 UTC",
+  "UPDATED": "2026-08-22 20:40 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -693,7 +693,7 @@ window.CYCLING_DATA = {
     "name": "Vuelta a España",
     "start": "2026-08-15",
     "end": "2026-09-06",
-    "stage": 0,
+    "stage": 1,
     "total_stages": 21,
     "jersey_primary": "#E8002D",
     "jersey_name": "Maillot Rojo",
@@ -710,10 +710,129 @@ window.CYCLING_DATA = {
     "last_stage_result": [],
     "finished": false,
     "gc_winner": null,
-    "gc": [],
-    "points_leader": null,
+    "gc": [
+      {
+        "rank": 1,
+        "name": "Tadej Pogačar",
+        "country": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "team": "UEX",
+        "primary": "#003DA5",
+        "time": "10' 57\"",
+        "legendScore": 64.2
+      },
+      {
+        "rank": 2,
+        "name": "Ethan Hayter",
+        "country": "GBR",
+        "logo": "https://flagcdn.com/24x18/gb.png",
+        "team": "SOQ",
+        "primary": "#012169",
+        "time": "+ 0\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 3,
+        "name": "Joshua Tarling",
+        "country": "GBR",
+        "logo": "https://flagcdn.com/24x18/gb.png",
+        "team": "NCI",
+        "primary": "#012169",
+        "time": "+ 4\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 4,
+        "name": "Callum Thornley",
+        "country": "GBR",
+        "logo": "https://flagcdn.com/24x18/gb.png",
+        "team": "RBH",
+        "primary": "#012169",
+        "time": "+ 5\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 5,
+        "name": "Christophe Laporte",
+        "country": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "team": "TVL men",
+        "primary": "#002395",
+        "time": "+ 6\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 6,
+        "name": "Léo Bisiaux",
+        "country": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "team": "DCT",
+        "primary": "#002395",
+        "time": "+ 8\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 7,
+        "name": "Oscar Chamberlain",
+        "country": "AUS",
+        "logo": "https://flagcdn.com/24x18/au.png",
+        "team": "DCT",
+        "primary": "#00008B",
+        "time": "+ 9\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 8,
+        "name": "Wout van Aert",
+        "country": "BEL",
+        "logo": "https://flagcdn.com/24x18/be.png",
+        "team": "TVL men",
+        "primary": "#000000",
+        "time": "+ 9\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 9,
+        "name": "Finn Fisher-Black",
+        "country": "NZL",
+        "logo": "https://flagcdn.com/24x18/nz.png",
+        "team": "RBH",
+        "primary": "#555555",
+        "time": "+ 10\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 10,
+        "name": "Arthur Kluckers",
+        "country": "LUX",
+        "logo": "https://flagcdn.com/24x18/lu.png",
+        "team": "TUD",
+        "primary": "#EF3340",
+        "time": "+ 11\"",
+        "legendScore": 0.0
+      }
+    ],
+    "points_leader": {
+      "rank": 1,
+      "name": "Tadej Pogačar",
+      "country": "SLO",
+      "logo": "https://flagcdn.com/24x18/si.png",
+      "team": "UEX",
+      "primary": "#003DA5",
+      "points": 20,
+      "legendScore": 64.2
+    },
     "kom_leader": null,
-    "young_leader": null
+    "young_leader": {
+      "rank": 1,
+      "name": "Joshua Tarling",
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "team": "NCI",
+      "primary": "#012169",
+      "time": "11' 01\"",
+      "legendScore": 0.0
+    }
   },
   "RACE_CALENDAR": [
     {

@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-22 13:56 UTC
+// Auto-generated 2026-08-22 20:43 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-22 13:56 UTC",
+  "UPDATED": "2026-08-22 20:43 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -6023,13 +6023,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 2,
-              "mark": "20.74",
+              "mark": "20.92",
               "athlete": "Chase Jackson",
               "country": "USA",
               "flag": "https://flagcdn.com/24x18/us.png",
               "primary": "#B22234",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
+              "venue": "Rynek",
+              "date": "22 AUG 2026"
             },
             {
               "rank": 3,

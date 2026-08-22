@@ -1,20 +1,45 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-08-22 13:56 UTC",
-  "LAST_MATCH": "2026-08-15",
+  "UPDATED": "2026-08-22 20:42 UTC",
+  "LAST_MATCH": "2026-08-22",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 347,
+    "incrementalMatches": 348,
     "teams": 162,
-    "matches": 10042,
-    "through": "2026-08-15"
+    "matches": 10043,
+    "through": "2026-08-22"
   },
   "IMPORTANCE": 7.0,
   "CALENDAR": {
     "recent": [
+      {
+        "date": "2026-08-22",
+        "status": "final",
+        "competition": "International Test Match",
+        "home": {
+          "name": "South Africa",
+          "teamCode": "RSA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb612"
+          }
+        },
+        "away": {
+          "name": "New Zealand",
+          "teamCode": "NZL",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          }
+        },
+        "homeScore": 16,
+        "awayScore": 33,
+        "venue": "Ellis Park",
+        "city": "Johannesburg"
+      },
       {
         "date": "2026-08-15",
         "status": "final",
@@ -92,31 +117,6 @@ window.RUGBY_DATA = {
       }
     ],
     "upcoming": [
-      {
-        "date": "2026-08-22",
-        "status": "scheduled",
-        "competition": "International Test Match",
-        "home": {
-          "name": "South Africa",
-          "teamCode": "RSA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb612"
-          }
-        },
-        "away": {
-          "name": "New Zealand",
-          "teamCode": "NZL",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "Ellis Park",
-        "city": "Johannesburg"
-      },
       {
         "date": "2026-08-29",
         "status": "scheduled",
@@ -391,6 +391,31 @@ window.RUGBY_DATA = {
         "awayScore": null,
         "venue": "Accor Stadium",
         "city": "Sydney"
+      },
+      {
+        "date": "2026-10-24",
+        "status": "scheduled",
+        "competition": "International Test Match",
+        "home": {
+          "name": "Japan",
+          "teamCode": "JPN",
+          "colors": {
+            "primary": "#bc002d",
+            "secondary": "#ffffff"
+          }
+        },
+        "away": {
+          "name": "Fiji",
+          "teamCode": "FIJ",
+          "colors": {
+            "primary": "#6ecff6",
+            "secondary": "#111111"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Prince Chichibu Memorial Stadium",
+        "city": "Tokyo"
       }
     ]
   },
@@ -408,41 +433,18 @@ window.RUGBY_DATA = {
   "TEAMS": [
     {
       "rank": 1,
-      "name": "South Africa",
-      "teamCode": "RSA",
-      "country": "South Africa",
-      "elo": 2722.0,
-      "eloRaw": 2722.0,
-      "lastMatch": "2026-08-08",
-      "inactiveDays": 7,
-      "peakElo": 2722.0,
-      "peakDate": "2026-08-08",
-      "worldCups": 4,
-      "record": {
-        "w": 360,
-        "l": 178,
-        "d": 25
-      },
-      "colors": {
-        "primary": "#007a4d",
-        "secondary": "#ffb612"
-      },
-      "note": "360V-178D-25E · último 2026-08-08 · raw 2722"
-    },
-    {
-      "rank": 2,
       "name": "New Zealand",
       "teamCode": "NZL",
       "country": "New Zealand",
-      "elo": 2641.2,
-      "eloRaw": 2641.2,
-      "lastMatch": "2026-07-18",
-      "inactiveDays": 28,
+      "elo": 2686.8,
+      "eloRaw": 2686.8,
+      "lastMatch": "2026-08-22",
+      "inactiveDays": 0,
       "peakElo": 2749.6,
       "peakDate": "2016-10-22",
       "worldCups": 3,
       "record": {
-        "w": 554,
+        "w": 555,
         "l": 141,
         "d": 26
       },
@@ -450,7 +452,30 @@ window.RUGBY_DATA = {
         "primary": "#111111",
         "secondary": "#d8d8d8"
       },
-      "note": "554V-141D-26E · último 2026-07-18 · raw 2641"
+      "note": "555V-141D-26E · último 2026-08-22 · raw 2687"
+    },
+    {
+      "rank": 2,
+      "name": "South Africa",
+      "teamCode": "RSA",
+      "country": "South Africa",
+      "elo": 2676.4,
+      "eloRaw": 2676.4,
+      "lastMatch": "2026-08-22",
+      "inactiveDays": 0,
+      "peakElo": 2722.0,
+      "peakDate": "2026-08-08",
+      "worldCups": 4,
+      "record": {
+        "w": 360,
+        "l": 179,
+        "d": 25
+      },
+      "colors": {
+        "primary": "#007a4d",
+        "secondary": "#ffb612"
+      },
+      "note": "360V-179D-25E · último 2026-08-22 · raw 2676"
     },
     {
       "rank": 3,
@@ -460,7 +485,7 @@ window.RUGBY_DATA = {
       "elo": 2542.3,
       "eloRaw": 2542.3,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 28,
+      "inactiveDays": 35,
       "peakElo": 2684.1,
       "peakDate": "2023-10-07",
       "worldCups": 0,
@@ -483,7 +508,7 @@ window.RUGBY_DATA = {
       "elo": 2521.7,
       "eloRaw": 2521.7,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 28,
+      "inactiveDays": 35,
       "peakElo": 2587.1,
       "peakDate": "2025-03-15",
       "worldCups": 0,
@@ -506,7 +531,7 @@ window.RUGBY_DATA = {
       "elo": 2423.1,
       "eloRaw": 2423.1,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 28,
+      "inactiveDays": 35,
       "peakElo": 2568.0,
       "peakDate": "2019-10-26",
       "worldCups": 1,
@@ -529,7 +554,7 @@ window.RUGBY_DATA = {
       "elo": 2384.1,
       "eloRaw": 2384.1,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 28,
+      "inactiveDays": 35,
       "peakElo": 2384.1,
       "peakDate": "2026-07-18",
       "worldCups": 0,
@@ -552,7 +577,7 @@ window.RUGBY_DATA = {
       "elo": 2285.8,
       "eloRaw": 2285.8,
       "lastMatch": "2026-08-08",
-      "inactiveDays": 7,
+      "inactiveDays": 14,
       "peakElo": 2354.6,
       "peakDate": "2025-11-16",
       "worldCups": 0,
@@ -575,7 +600,7 @@ window.RUGBY_DATA = {
       "elo": 2235.1,
       "eloRaw": 2235.1,
       "lastMatch": "2026-08-15",
-      "inactiveDays": 0,
+      "inactiveDays": 7,
       "peakElo": 2471.1,
       "peakDate": "2015-10-25",
       "worldCups": 2,
@@ -598,7 +623,7 @@ window.RUGBY_DATA = {
       "elo": 2142.5,
       "eloRaw": 2142.5,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 28,
+      "inactiveDays": 35,
       "peakElo": 2249.9,
       "peakDate": "2025-09-21",
       "worldCups": 0,
@@ -621,7 +646,7 @@ window.RUGBY_DATA = {
       "elo": 2091.9,
       "eloRaw": 2091.9,
       "lastMatch": "2026-07-18",
-      "inactiveDays": 28,
+      "inactiveDays": 35,
       "peakElo": 2470.8,
       "peakDate": "2019-03-16",
       "worldCups": 0,
