@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-23 20:41 UTC
+// Auto-generated 2026-08-23 21:43 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-23 20:41 UTC",
+  "UPDATED": "2026-08-23 21:43 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1327,7 +1327,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 65.4
@@ -2143,9 +2143,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 63,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "out",
-        "round": "R128",
+        "tournament": "Winston-Salem Open",
+        "state": "alive",
+        "round": "R64",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 59.3
@@ -2213,7 +2213,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 58.5
@@ -2655,7 +2655,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.9
@@ -2961,7 +2961,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -4930,7 +4930,7 @@ window.TENNIS_DATA = {
       "prevListRank": 144,
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -8767,7 +8767,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "Ennoble Care Philly Open",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -10908,15 +10908,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Arthur Fils",
+          "w": "Frances Tiafoe",
           "w_logo": "",
-          "l": "Frances Tiafoe",
+          "l": "Arthur Fils",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "3-6 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 82.7,
-          "l_score": 74.0,
+          "scheduled": false,
+          "w_score": 74.0,
+          "l_score": 82.7,
           "match_score": 82.7
         }
       ]
@@ -10954,15 +10954,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Martin Landaluce",
+          "w": "Mattia Bellucci",
           "w_logo": "",
-          "l": "Mattia Bellucci",
+          "l": "Martin Landaluce",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 57.3,
-          "l_score": 52.7,
+          "scheduled": false,
+          "w_score": 52.7,
+          "l_score": 57.3,
           "match_score": 57.3
         },
         {
@@ -10971,7 +10971,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sho Shimabukuro",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 55.9,
@@ -10980,15 +10980,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Wu Yibing",
+          "w": "Francisco Comesana",
           "w_logo": "",
-          "l": "Francisco Comesana",
+          "l": "Wu Yibing",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 50.2,
+          "w_score": 50.2,
+          "l_score": null,
           "match_score": 50.2
         }
       ]
@@ -11083,15 +11083,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Anna Blinkova",
+          "w": "Anastasia Zakharova",
           "w_logo": "",
-          "l": "Anastasia Zakharova",
+          "l": "Anna Blinkova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (8-6) 6-0",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 48.1,
-          "l_score": 44.9,
+          "w_score": 44.9,
+          "l_score": 48.1,
           "match_score": 48.1
         },
         {
@@ -11178,6 +11178,7 @@ window.TENNIS_DATA = {
       "Darwin Blanch",
       "Denis Shapovalov",
       "Dhakshineswar Suresh",
+      "Fabian Marozsan",
       "Felix Auger-Aliassime",
       "Felix Balshaw",
       "Flavio Cobolli",
@@ -11218,14 +11219,12 @@ window.TENNIS_DATA = {
       "Roman Safiullin",
       "Sebastian Baez",
       "Sebastian Gorzny",
-      "Sho Shimabukuro",
       "Stefanos Tsitsipas",
       "Taylor Fritz",
       "Terence Atmane",
       "Thiago Agustin Tirante",
       "Tommy Paul",
       "Vit Kopriva",
-      "Wu Yibing",
       "Yannick Hanfmann"
     ],
     "out": [
@@ -11237,7 +11236,6 @@ window.TENNIS_DATA = {
       "Casper Ruud",
       "Chak Lam Coleman Wong",
       "Dino Prizmic",
-      "Fabian Marozsan",
       "Francisco Cerundolo",
       "Gael Monfils",
       "Giovanni Mpetshi Perricard",
@@ -11259,6 +11257,7 @@ window.TENNIS_DATA = {
       "Raphael Collignon",
       "Roman Andres Burruchaga",
       "Shang Juncheng",
+      "Sho Shimabukuro",
       "Thanasi Kokkinakis",
       "Titouan Droguet",
       "Tomas Machac",
@@ -11266,11 +11265,12 @@ window.TENNIS_DATA = {
       "Ugo Humbert",
       "Valentin Royer",
       "Valentin Vacherot",
+      "Wu Yibing",
       "Zachary Svajda",
       "Zizou Bergs"
     ],
-    "aliveCount": 73,
-    "matchesSeen": 112
+    "aliveCount": 72,
+    "matchesSeen": 114
   },
   "WTA_TOURNAMENT": {
     "name": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
