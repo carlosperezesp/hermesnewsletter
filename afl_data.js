@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-22 21:41 UTC
+// Auto-generated 2026-08-23 05:46 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-08-22 21:41 UTC",
+  "UPDATED": "2026-08-23 05:46 UTC",
   "SEASON": "2026",
   "ROUND": 24,
   "IMPORTANCE": 9.5,
@@ -171,11 +171,11 @@ window.AFL_DATA = {
     {
       "rank": 15,
       "name": "Port Adelaide",
-      "wins": 6,
+      "wins": 7,
       "losses": 16,
       "draws": 0,
-      "pts": 24,
-      "percentage": 87.0,
+      "pts": 28,
+      "percentage": 88.0,
       "primary": "#002B5C",
       "secondary": "#CC2031"
     },
@@ -205,10 +205,10 @@ window.AFL_DATA = {
       "rank": 18,
       "name": "Essendon",
       "wins": 2,
-      "losses": 20,
+      "losses": 21,
       "draws": 0,
       "pts": 8,
-      "percentage": 63.5,
+      "percentage": 64.6,
       "primary": "#CC2031",
       "secondary": "#000000"
     }
@@ -1115,6 +1115,16 @@ window.AFL_DATA = {
       "date": "2026-08-22",
       "hprimary": "#002B5C",
       "aprimary": "#F57F00"
+    },
+    {
+      "hteam": "Essendon",
+      "hscore": 95,
+      "ateam": "Port Adelaide",
+      "ascore": 104,
+      "winner": "Port Adelaide",
+      "date": "2026-08-23",
+      "hprimary": "#CC2031",
+      "aprimary": "#002B5C"
     }
   ],
   "CURRENT_CONTENDERS": [
