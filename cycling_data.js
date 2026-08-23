@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-23 07:07 UTC
+// Auto-generated 2026-08-23 13:18 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-08-23 07:07 UTC",
+  "UPDATED": "2026-08-23 13:18 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -733,7 +733,7 @@ window.CYCLING_DATA = {
       },
       {
         "rank": 3,
-        "name": "Joshua Tarling",
+        "name": "Josh Tarling",
         "country": "GBR",
         "logo": "https://flagcdn.com/24x18/gb.png",
         "team": "NCI",

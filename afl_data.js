@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-23 07:07 UTC
+// Auto-generated 2026-08-23 13:18 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-08-23 07:07 UTC",
+  "UPDATED": "2026-08-23 13:18 UTC",
   "SEASON": "2026",
   "ROUND": 24,
   "IMPORTANCE": 9.5,
@@ -21,11 +21,11 @@ window.AFL_DATA = {
     {
       "rank": 2,
       "name": "Sydney",
-      "wins": 17,
+      "wins": 18,
       "losses": 5,
       "draws": 0,
-      "pts": 68,
-      "percentage": 134.5,
+      "pts": 72,
+      "percentage": 136.1,
       "primary": "#F57F00",
       "secondary": "#002040",
       "prevRank": 2
@@ -44,6 +44,18 @@ window.AFL_DATA = {
     },
     {
       "rank": 4,
+      "name": "Hawthorn",
+      "wins": 15,
+      "losses": 6,
+      "draws": 2,
+      "pts": 64,
+      "percentage": 120.1,
+      "primary": "#4D2004",
+      "secondary": "#FFD200",
+      "prevRank": 6
+    },
+    {
+      "rank": 5,
       "name": "Geelong",
       "wins": 15,
       "losses": 8,
@@ -55,7 +67,7 @@ window.AFL_DATA = {
       "prevRank": 4
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Adelaide",
       "wins": 15,
       "losses": 8,
@@ -65,18 +77,6 @@ window.AFL_DATA = {
       "primary": "#002B5C",
       "secondary": "#CC2031",
       "prevRank": 5
-    },
-    {
-      "rank": 6,
-      "name": "Hawthorn",
-      "wins": 14,
-      "losses": 6,
-      "draws": 2,
-      "pts": 60,
-      "percentage": 117.3,
-      "primary": "#4D2004",
-      "secondary": "#FFD200",
-      "prevRank": 6
     },
     {
       "rank": 7,
@@ -161,10 +161,10 @@ window.AFL_DATA = {
       "rank": 14,
       "name": "North Melbourne",
       "wins": 9,
-      "losses": 13,
+      "losses": 14,
       "draws": 0,
       "pts": 36,
-      "percentage": 90.7,
+      "percentage": 88.8,
       "primary": "#CC2031",
       "secondary": "#013B9F"
     },
@@ -183,10 +183,10 @@ window.AFL_DATA = {
       "rank": 16,
       "name": "West Coast",
       "wins": 4,
-      "losses": 18,
+      "losses": 19,
       "draws": 0,
       "pts": 16,
-      "percentage": 70.5,
+      "percentage": 69.2,
       "primary": "#002B5C",
       "secondary": "#F5C209"
     },
@@ -1125,6 +1125,26 @@ window.AFL_DATA = {
       "date": "2026-08-23",
       "hprimary": "#CC2031",
       "aprimary": "#002B5C"
+    },
+    {
+      "hteam": "Sydney",
+      "hscore": 123,
+      "ateam": "North Melbourne",
+      "ascore": 70,
+      "winner": "Sydney",
+      "date": "2026-08-23",
+      "hprimary": "#F57F00",
+      "aprimary": "#CC2031"
+    },
+    {
+      "hteam": "West Coast",
+      "hscore": 45,
+      "ateam": "Hawthorn",
+      "ascore": 107,
+      "winner": "Hawthorn",
+      "date": "2026-08-23",
+      "hprimary": "#002B5C",
+      "aprimary": "#4D2004"
     }
   ],
   "CURRENT_CONTENDERS": [
