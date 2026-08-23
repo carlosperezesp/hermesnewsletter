@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-23 13:59 UTC",
+  "UPDATED": "2026-08-23 20:41 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -586,9 +586,9 @@ window.GLORY_DATA = {
       "Karsten Warholm",
       "Alison dos Santos",
       "Rai Benjamin",
+      "Alison Dos Santos",
       "Rai Benjamin",
       "Alison Dos Santos",
-      "Karsten Warholm",
       "Karsten Warholm",
       "Karsten Warholm"
     ],

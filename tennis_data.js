@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-23 13:59 UTC
+// Auto-generated 2026-08-23 20:41 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-23 13:59 UTC",
+  "UPDATED": "2026-08-23 20:41 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1325,7 +1325,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -2927,8 +2927,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open",
-        "state": "alive",
+        "tournament": "Cincinnati Open",
+        "state": "out",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -3679,7 +3679,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -3715,10 +3715,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 109,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Winston-Salem Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 51.0
     },
@@ -3920,9 +3920,9 @@ window.TENNIS_DATA = {
       "prevListRank": 115,
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 49.6
     },
@@ -3953,10 +3953,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Winston-Salem Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 48.8
     },
@@ -4295,7 +4295,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -4363,8 +4363,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 128,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open",
-        "state": "alive",
+        "tournament": "Cincinnati Open",
+        "state": "out",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -4785,8 +4785,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "out",
+        "tournament": "Winston-Salem Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -6679,7 +6679,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 45,
       "tournamentStatus": {
-        "tournament": "Ennoble Care Philly Open",
+        "tournament": "Cincinnati Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7155,7 +7155,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Ennoble Care Philly Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -8145,7 +8145,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Ennoble Care Philly Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -8869,10 +8869,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 109,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Ennoble Care Philly Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 46.7
     },
@@ -8905,7 +8905,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Ennoble Care Philly Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 45.9
@@ -9249,10 +9249,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Ennoble Care Philly Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 43.7
     },
@@ -10945,9 +10945,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Giovanni Mpetshi Perricard",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 58.5,
           "l_score": 49.6,
           "match_score": 58.5
@@ -10971,37 +10971,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sho Shimabukuro",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 55.9,
           "l_score": 35.0,
           "match_score": 55.9
         },
         {
           "round": "R128",
-          "w": "Dino Prizmic",
+          "w": "Wu Yibing",
           "w_logo": "",
-          "l": "Cruz Hewitt",
+          "l": "Francisco Comesana",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 54.7,
-          "l_score": null,
-          "match_score": 54.7
-        },
-        {
-          "round": "R128",
-          "w": "Francisco Comesana",
-          "w_logo": "",
-          "l": "Wu Yibing",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 50.2,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 50.2,
           "match_score": 50.2
         }
       ]
@@ -11083,26 +11070,13 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Liudmila Samsonova",
-          "w_logo": "",
-          "l": "Taylah Preston",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 63.4,
-          "l_score": 48.5,
-          "match_score": 63.4
-        },
-        {
-          "round": "R128",
           "w": "Ashlyn Krueger",
           "w_logo": "",
           "l": "Anna Frey",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 59.1,
           "l_score": null,
           "match_score": 59.1
@@ -11113,9 +11087,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anastasia Zakharova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.1,
           "l_score": 44.9,
           "match_score": 48.1
@@ -11126,35 +11100,35 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Hong Yi Cody Wong",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 45.9,
           "l_score": null,
           "match_score": 45.9
         },
         {
           "round": "R128",
-          "w": "Ena Koike",
+          "w": "Mia Pohankova",
           "w_logo": "",
-          "l": "Wang Xiyu",
+          "l": "Mell Reasco Gonzalez",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "R128",
-          "w": "Mell Reasco Gonzalez",
+          "w": "Wang Xiyu",
           "w_logo": "",
-          "l": "Mia Pohankova",
+          "l": "Ena Koike",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11180,6 +11154,7 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
+      "Abdullah Shelbayh",
       "Adam Walton",
       "Adolfo Daniel Vallejo",
       "Alejandro Tabilo",
@@ -11202,16 +11177,18 @@ window.TENNIS_DATA = {
       "Daniil Medvedev",
       "Darwin Blanch",
       "Denis Shapovalov",
-      "Dino Prizmic",
+      "Dhakshineswar Suresh",
       "Felix Auger-Aliassime",
+      "Felix Balshaw",
       "Flavio Cobolli",
       "Frances Tiafoe",
       "Francisco Comesana",
-      "Giovanni Mpetshi Perricard",
       "Hubert Hurkacz",
+      "Hugo Grenier",
       "Jaime Faria",
       "Jakub Mensik",
       "James Duckworth",
+      "Jan Choinski",
       "Jan-Lennard Struff",
       "Jenson Brooksby",
       "Jesper de Jong",
@@ -11225,24 +11202,28 @@ window.TENNIS_DATA = {
       "Marco Trungelliti",
       "Marcos Giron",
       "Mariano Navone",
+      "Martin Damm",
       "Martin Landaluce",
       "Matteo Berrettini",
       "Mattia Bellucci",
+      "Mees Rottgering",
       "Michael Zheng",
       "Miomir Kecmanovic",
       "Nuno Borges",
       "Pablo Carreno Busta",
       "Quentin Halys",
+      "Quinn Vandecasteele",
       "Rafael Jodar",
       "Rinky Hijikata",
+      "Roman Safiullin",
       "Sebastian Baez",
+      "Sebastian Gorzny",
       "Sho Shimabukuro",
       "Stefanos Tsitsipas",
       "Taylor Fritz",
       "Terence Atmane",
       "Thiago Agustin Tirante",
       "Tommy Paul",
-      "Valentin Royer",
       "Vit Kopriva",
       "Wu Yibing",
       "Yannick Hanfmann"
@@ -11255,15 +11236,16 @@ window.TENNIS_DATA = {
       "Camilo Ugo Carabelli",
       "Casper Ruud",
       "Chak Lam Coleman Wong",
+      "Dino Prizmic",
       "Fabian Marozsan",
       "Francisco Cerundolo",
       "Gael Monfils",
+      "Giovanni Mpetshi Perricard",
       "Grigor Dimitrov",
       "Hamad Medjedovic",
       "Ignacio Buse",
       "J.J. Wolf",
       "Jack Draper",
-      "Jan Choinski",
       "Karen Khachanov",
       "Kyrian Jacquet",
       "Luca Van Assche",
@@ -11282,12 +11264,13 @@ window.TENNIS_DATA = {
       "Tomas Machac",
       "Tomas Martin Etcheverry",
       "Ugo Humbert",
+      "Valentin Royer",
       "Valentin Vacherot",
       "Zachary Svajda",
       "Zizou Bergs"
     ],
-    "aliveCount": 66,
-    "matchesSeen": 106
+    "aliveCount": 73,
+    "matchesSeen": 112
   },
   "WTA_TOURNAMENT": {
     "name": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
@@ -11319,12 +11302,13 @@ window.TENNIS_DATA = {
       "Anhelina Kalinina",
       "Ann Li",
       "Anna Blinkova",
-      "Anna Frey",
       "Anna Kalinskaya",
       "Antonia Ruzic",
+      "Ariana Arseneault",
       "Aryna Sabalenka",
       "Ashlyn Krueger",
       "Camila Osorio",
+      "Capucine Jauffret",
       "Catherine McNally",
       "Clara Tauson",
       "Coco Gauff",
@@ -11335,24 +11319,27 @@ window.TENNIS_DATA = {
       "Diane Parry",
       "Donna Vekic",
       "Ekaterina Alexandrova",
+      "Ekaterina Ovcharenko",
       "Elena Rybakina",
       "Elena-Gabriela Ruse",
       "Elina Svitolina",
+      "Ella Seidel",
       "Emiliana Arango",
       "Emma Navarro",
-      "Ena Koike",
       "Fiona Crawley",
-      "Hong Yi Cody Wong",
       "Iga Swiatek",
       "Iva Jovic",
+      "Jaeda Daniel",
       "Janice Tjen",
       "Jessica Bouzas Maneiro",
       "Jessica Pegula",
       "Julia Grabher",
+      "Kaitlin Quevedo",
       "Kamilla Rakhimova",
       "Katerina Siniakova",
       "Katie Boulter",
       "Katie Volynets",
+      "Kylie Collins",
       "Lilli Tagger",
       "Linda Noskova",
       "Liudmila Samsonova",
@@ -11368,7 +11355,6 @@ window.TENNIS_DATA = {
       "Marie Bouzkova",
       "Marta Kostyuk",
       "Mayar Sherif",
-      "Mell Reasco Gonzalez",
       "Mia Pohankova",
       "Mirra Andreeva",
       "Nikola Bartunkova",
@@ -11401,6 +11387,7 @@ window.TENNIS_DATA = {
       "Alina Charaeva",
       "Anastasia Potapova",
       "Anna Bondar",
+      "Anna Frey",
       "Barbora Krejcikova",
       "Belinda Bencic",
       "Caroline Dolehide",
@@ -11409,9 +11396,11 @@ window.TENNIS_DATA = {
       "Elisabetta Cocciaretto",
       "Elise Mertens",
       "Elvina Kalieva",
+      "Ena Koike",
       "Eva Lys",
       "Hanne Vandewinkel",
       "Harriet Dart",
+      "Hong Yi Cody Wong",
       "Jelena Ostapenko",
       "Karolina Pliskova",
       "Kayla Day",
@@ -11422,13 +11411,14 @@ window.TENNIS_DATA = {
       "Mary Stoiana",
       "Maya Joint",
       "McCartney Kessler",
+      "Mell Reasco Gonzalez",
       "Panna Udvardy",
       "Sinja Kraus",
       "Venus Williams",
       "Yulia Putintseva"
     ],
-    "aliveCount": 84,
-    "matchesSeen": 115
+    "aliveCount": 87,
+    "matchesSeen": 120
   },
   "ATP_SCORE_LOG": {
     "206173": [

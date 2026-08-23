@@ -51,6 +51,14 @@
     },
     {
       "rank": 6,
+      "mark": "46.43",
+      "athlete": "Alison Dos Santos",
+      "country": "BRA",
+      "year": 2026,
+      "venue": "Stadion Śląski"
+    },
+    {
+      "rank": 7,
       "mark": "46.46",
       "athlete": "Rai Benjamin",
       "country": "USA",
@@ -59,7 +67,7 @@
       "venue": "Eugene"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "mark": "46.48",
       "athlete": "Alison Dos Santos",
       "country": "BRA",
@@ -67,7 +75,7 @@
       "venue": "Estdio Olmpico do Ibirapuera - caro de Castro Melo"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "mark": "46.51",
       "athlete": "Karsten Warholm",
       "country": "NOR",
@@ -76,22 +84,13 @@
       "venue": "Monaco"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "mark": "46.52",
       "athlete": "Karsten Warholm",
       "country": "NOR",
       "year": 2023,
       "date": "15 June 2023",
       "venue": "Oslo"
-    },
-    {
-      "rank": 10,
-      "mark": "46.53",
-      "athlete": "Karsten Warholm",
-      "country": "NOR",
-      "year": 2023,
-      "date": "16 September 2023",
-      "venue": "Eugene"
     }
   ]
 }

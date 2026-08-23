@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-23 13:58 UTC
+// Auto-generated 2026-08-23 20:40 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-23 13:58 UTC",
+  "UPDATED": "2026-08-23 20:40 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -186,18 +186,18 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
-              "mark": "9.88",
-              "athlete": "Ronnie Baker",
+              "mark": "9.87",
+              "athlete": "Kenneth Bednarek",
               "country": "USA",
               "flag": "https://flagcdn.com/24x18/us.png",
               "primary": "#B22234",
-              "venue": "Icahn Stadium",
-              "date": "24 JUL 2026"
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
             },
             {
               "rank": 8,
               "mark": "9.88",
-              "athlete": "Kenneth Bednarek",
+              "athlete": "Ronnie Baker",
               "country": "USA",
               "flag": "https://flagcdn.com/24x18/us.png",
               "primary": "#B22234",
@@ -403,6 +403,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
+              "mark": "10.83",
+              "athlete": "Julien Alfred",
+              "country": "LCA",
+              "flag": "https://flagcdn.com/24x18/lc.png",
+              "primary": "#4A4745",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 8,
               "mark": "10.85",
               "athlete": "Tina Clayton",
               "country": "JAM",
@@ -412,7 +422,7 @@ window.ATHLETICS_DATA = {
               "date": "31 MAY 2026"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "10.86",
               "athlete": "Sade Mccreath",
               "country": "CAN",
@@ -420,16 +430,6 @@ window.ATHLETICS_DATA = {
               "primary": "#FF0000",
               "venue": "Foote Field",
               "date": "12 JUL 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "10.87",
-              "athlete": "Julien Alfred",
-              "country": "LCA",
-              "flag": "https://flagcdn.com/24x18/lc.png",
-              "primary": "#4A4745",
-              "venue": "Nemzeti Atltikai Kzpont",
-              "date": "14 JUL 2026"
             },
             {
               "rank": 10,
@@ -1014,6 +1014,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 3,
+              "mark": "43.83",
+              "athlete": "Rai Benjamin",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 4,
               "mark": "43.89",
               "athlete": "Zakithi Nene",
               "country": "RSA",
@@ -1023,7 +1033,7 @@ window.ATHLETICS_DATA = {
               "date": "28 JUN 2026"
             },
             {
-              "rank": 4,
+              "rank": 5,
               "mark": "43.92",
               "athlete": "Jonathan Simms",
               "country": "USA",
@@ -1033,7 +1043,7 @@ window.ATHLETICS_DATA = {
               "date": "12 JUN 2026"
             },
             {
-              "rank": 5,
+              "rank": 6,
               "mark": "43.96",
               "athlete": "Jacory Patterson",
               "country": "USA",
@@ -1043,7 +1053,7 @@ window.ATHLETICS_DATA = {
               "date": "10 JUL 2026"
             },
             {
-              "rank": 6,
+              "rank": 7,
               "mark": "43.99",
               "athlete": "Justin Braun",
               "country": "USA",
@@ -1053,7 +1063,7 @@ window.ATHLETICS_DATA = {
               "date": "29 MAY 2026"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "44.02",
               "athlete": "Muzala Samukonga",
               "country": "ZAM",
@@ -1061,16 +1071,6 @@ window.ATHLETICS_DATA = {
               "primary": "#4A4745",
               "venue": "Nemzeti Atltikai Kzpont",
               "date": "14 JUL 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "44.05",
-              "athlete": "Rai Benjamin",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
             },
             {
               "rank": 9,
@@ -1291,6 +1291,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 9,
+              "mark": "49.49",
+              "athlete": "Nickisha Pryce",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 10,
               "mark": "49.54",
               "athlete": "Kaylyn Brown",
               "country": "USA",
@@ -1298,16 +1308,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Hutsell-Rosen Track",
               "date": "16 MAY 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "49.56",
-              "athlete": "Nickisha Pryce",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Stade Louis II",
-              "date": "10 JUL 2026"
             }
           ]
         }
@@ -1817,6 +1817,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 6,
+              "mark": "46.43",
+              "athlete": "Alison Dos Santos",
+              "country": "BRA",
+              "flag": "https://flagcdn.com/24x18/br.png",
+              "primary": "#009C3B",
+              "venue": "Stadion Śląski",
+              "year": 2026
+            },
+            {
+              "rank": 7,
               "mark": "46.46",
               "athlete": "Rai Benjamin",
               "country": "USA",
@@ -1826,7 +1836,7 @@ window.ATHLETICS_DATA = {
               "year": 2024
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "46.48",
               "athlete": "Alison Dos Santos",
               "country": "BRA",
@@ -1836,7 +1846,7 @@ window.ATHLETICS_DATA = {
               "year": 2026
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "46.51",
               "athlete": "Karsten Warholm",
               "country": "NOR",
@@ -1846,7 +1856,7 @@ window.ATHLETICS_DATA = {
               "year": 2023
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "46.52",
               "athlete": "Karsten Warholm",
               "country": "NOR",
@@ -1854,38 +1864,28 @@ window.ATHLETICS_DATA = {
               "primary": "#EF2B2D",
               "venue": "Oslo",
               "year": 2023
-            },
-            {
-              "rank": 10,
-              "mark": "46.53",
-              "athlete": "Karsten Warholm",
-              "country": "NOR",
-              "flag": "https://flagcdn.com/24x18/no.png",
-              "primary": "#EF2B2D",
-              "venue": "Eugene",
-              "year": 2023
             }
           ],
           "season": [
             {
               "rank": 1,
-              "mark": "46.48",
+              "mark": "46.43",
               "athlete": "Alison Dos Santos",
               "country": "BRA",
               "flag": "https://flagcdn.com/24x18/br.png",
               "primary": "#009C3B",
-              "venue": "Estdio Olmpico do Ibirapuera - caro de Castro Melo",
-              "date": "26 JUL 2026"
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
             },
             {
               "rank": 2,
-              "mark": "46.61",
+              "mark": "46.52",
               "athlete": "Karsten Warholm",
               "country": "NOR",
               "flag": "https://flagcdn.com/24x18/no.png",
               "primary": "#EF2B2D",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
             },
             {
               "rank": 3,
@@ -1899,6 +1899,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 4,
+              "mark": "47.26",
+              "athlete": "Matheus Lima",
+              "country": "BRA",
+              "flag": "https://flagcdn.com/24x18/br.png",
+              "primary": "#009C3B",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 5,
               "mark": "47.37",
               "athlete": "Ezekiel Nathaniel",
               "country": "NGR",
@@ -1908,7 +1918,7 @@ window.ATHLETICS_DATA = {
               "date": "06 JUN 2026"
             },
             {
-              "rank": 5,
+              "rank": 6,
               "mark": "47.37",
               "athlete": "Trevor Bassitt",
               "country": "USA",
@@ -1916,16 +1926,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Cushing Stadium",
               "date": "06 JUN 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "47.37",
-              "athlete": "Matheus Lima",
-              "country": "BRA",
-              "flag": "https://flagcdn.com/24x18/br.png",
-              "primary": "#009C3B",
-              "venue": "Olympiastadion",
-              "date": "07 JUN 2026"
             },
             {
               "rank": 7,
@@ -2961,6 +2961,26 @@ window.ATHLETICS_DATA = {
           "season": [
             {
               "rank": 1,
+              "mark": "3:55.06",
+              "athlete": "Tsige Duguma",
+              "country": "ETH",
+              "flag": "https://flagcdn.com/24x18/et.png",
+              "primary": "#078930",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "3:55.20",
+              "athlete": "Jessica Hull",
+              "country": "AUS",
+              "flag": "https://flagcdn.com/24x18/au.png",
+              "primary": "#00008B",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 3,
               "mark": "3:55.56",
               "athlete": "Birke Haylom",
               "country": "ETH",
@@ -2970,7 +2990,27 @@ window.ATHLETICS_DATA = {
               "date": "16 MAY 2026"
             },
             {
-              "rank": 2,
+              "rank": 4,
+              "mark": "3:55.58",
+              "athlete": "Dorcus Ewoi",
+              "country": "KEN",
+              "flag": "https://flagcdn.com/24x18/ke.png",
+              "primary": "#006600",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "3:55.59",
+              "athlete": "Klaudia Kazimierska",
+              "country": "POL",
+              "flag": "https://flagcdn.com/24x18/pl.png",
+              "primary": "#DC143C",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 6,
               "mark": "3:55.63",
               "athlete": "Georgia Hunter Bell",
               "country": "GBR",
@@ -2980,17 +3020,7 @@ window.ATHLETICS_DATA = {
               "date": "28 JUN 2026"
             },
             {
-              "rank": 3,
-              "mark": "3:55.71",
-              "athlete": "Tsige Duguma",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
-            },
-            {
-              "rank": 4,
+              "rank": 7,
               "mark": "3:55.92",
               "athlete": "Freweyni Hailu",
               "country": "ETH",
@@ -3000,7 +3030,7 @@ window.ATHLETICS_DATA = {
               "date": "28 JUN 2026"
             },
             {
-              "rank": 5,
+              "rank": 8,
               "mark": "3:56.12",
               "athlete": "Abbey Caldwell",
               "country": "AUS",
@@ -3010,7 +3040,7 @@ window.ATHLETICS_DATA = {
               "date": "16 MAY 2026"
             },
             {
-              "rank": 6,
+              "rank": 9,
               "mark": "3:56.24",
               "athlete": "Agathe Guillemot",
               "country": "FRA",
@@ -3020,44 +3050,14 @@ window.ATHLETICS_DATA = {
               "date": "28 JUN 2026"
             },
             {
-              "rank": 7,
-              "mark": "3:57.22",
-              "athlete": "Jessica Hull",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "3:57.56",
-              "athlete": "Worknesh Mesele",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "3:57.61",
-              "athlete": "Nelly Jepkosgei",
-              "country": "BRN",
-              "flag": "https://flagcdn.com/24x18/bh.png",
-              "primary": "#CE1126",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
               "rank": 10,
-              "mark": "3:57.74",
-              "athlete": "Dorcus Ewoi",
-              "country": "KEN",
-              "flag": "https://flagcdn.com/24x18/ke.png",
-              "primary": "#006600",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
+              "mark": "3:56.24",
+              "athlete": "Emily Mackay",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
             }
           ]
         },
@@ -3652,6 +3652,36 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 5,
+              "mark": "8:02.74",
+              "athlete": "Gemechu Godana",
+              "country": "ETH",
+              "flag": "https://flagcdn.com/24x18/et.png",
+              "primary": "#078930",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "8:05.08",
+              "athlete": "Salah Eddine Ben Yazide",
+              "country": "MAR",
+              "flag": "https://flagcdn.com/24x18/ma.png",
+              "primary": "#C1272D",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "8:05.36",
+              "athlete": "Ruben Querinjean",
+              "country": "LUX",
+              "flag": "",
+              "primary": "#4A4745",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 8,
               "mark": "8:05.55",
               "athlete": "Karl Bebendorf",
               "country": "GER",
@@ -3661,17 +3691,17 @@ window.ATHLETICS_DATA = {
               "date": "28 JUN 2026"
             },
             {
-              "rank": 6,
-              "mark": "8:05.86",
-              "athlete": "Gemechu Godana",
+              "rank": 9,
+              "mark": "8:06.65",
+              "athlete": "Samuel Firewu",
               "country": "ETH",
               "flag": "https://flagcdn.com/24x18/et.png",
               "primary": "#078930",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
             },
             {
-              "rank": 7,
+              "rank": 10,
               "mark": "8:08.10",
               "athlete": "Geoffrey Kipkemoi Kirwa",
               "country": "KEN",
@@ -3679,36 +3709,6 @@ window.ATHLETICS_DATA = {
               "primary": "#006600",
               "venue": "Cougar Athletic Stadium",
               "date": "16 APR 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "8:09.13",
-              "athlete": "Samuel Firewu",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "8:09.56",
-              "athlete": "Matthew Wilkinson",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Complexe Sportif Prince Moulay Abdellah",
-              "date": "31 MAY 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "8:09.88",
-              "athlete": "Salah Eddine Ben Yazide",
-              "country": "MAR",
-              "flag": "https://flagcdn.com/24x18/ma.png",
-              "primary": "#C1272D",
-              "venue": "Mestsk Stadion",
-              "date": "16 JUN 2026"
             }
           ]
         },
@@ -4340,6 +4340,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 8,
+              "mark": "1.98",
+              "athlete": "Iryna Gerashchenko",
+              "country": "UKR",
+              "flag": "https://flagcdn.com/24x18/ua.png",
+              "primary": "#005BBB",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 9,
               "mark": "1.97",
               "athlete": "Temitope Simbiat Adeshina",
               "country": "NGR",
@@ -4347,16 +4357,6 @@ window.ATHLETICS_DATA = {
               "primary": "#008751",
               "venue": "Randal Tyson Indoor Center",
               "date": "30 JAN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "1.97",
-              "athlete": "Iryna Gerashchenko",
-              "country": "UKR",
-              "flag": "https://flagcdn.com/24x18/ua.png",
-              "primary": "#005BBB",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
             },
             {
               "rank": 10,
@@ -5592,21 +5592,21 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 3,
+              "mark": "15.08",
+              "athlete": "Saly Sarr",
+              "country": "SEN",
+              "flag": "",
+              "primary": "#4A4745",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 4,
               "mark": "15.06",
               "athlete": "Leyanis P&#201;rez Hern&#193;ndez",
               "country": "CUB",
               "flag": "https://flagcdn.com/24x18/cu.png",
               "primary": "#002A8F",
-              "venue": "Stade Louis II",
-              "date": "10 JUL 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "14.99",
-              "athlete": "Saly Sarr",
-              "country": "SEN",
-              "flag": "",
-              "primary": "#4A4745",
               "venue": "Stade Louis II",
               "date": "10 JUL 2026"
             },

@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-23 13:57 UTC
+// Auto-generated 2026-08-23 20:39 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-08-23 13:57 UTC",
+  "UPDATED": "2026-08-23 20:39 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -693,7 +693,7 @@ window.CYCLING_DATA = {
     "name": "Vuelta a España",
     "start": "2026-08-15",
     "end": "2026-09-06",
-    "stage": 1,
+    "stage": 2,
     "total_stages": 21,
     "jersey_primary": "#E8002D",
     "jersey_name": "Maillot Rojo",
@@ -718,71 +718,11 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/si.png",
         "team": "UEX",
         "primary": "#003DA5",
-        "time": "10' 57\"",
+        "time": "4h 58' 40\"",
         "legendScore": 64.2
       },
       {
         "rank": 2,
-        "name": "Ethan Hayter",
-        "country": "GBR",
-        "logo": "https://flagcdn.com/24x18/gb.png",
-        "team": "SOQ",
-        "primary": "#012169",
-        "time": "+ 0\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 3,
-        "name": "Josh Tarling",
-        "country": "GBR",
-        "logo": "https://flagcdn.com/24x18/gb.png",
-        "team": "NCI",
-        "primary": "#012169",
-        "time": "+ 4\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 4,
-        "name": "Callum Thornley",
-        "country": "GBR",
-        "logo": "https://flagcdn.com/24x18/gb.png",
-        "team": "RBH",
-        "primary": "#012169",
-        "time": "+ 5\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 5,
-        "name": "Christophe Laporte",
-        "country": "FRA",
-        "logo": "https://flagcdn.com/24x18/fr.png",
-        "team": "TVL men",
-        "primary": "#002395",
-        "time": "+ 6\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 6,
-        "name": "Léo Bisiaux",
-        "country": "FRA",
-        "logo": "https://flagcdn.com/24x18/fr.png",
-        "team": "DCT",
-        "primary": "#002395",
-        "time": "+ 8\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 7,
-        "name": "Oscar Chamberlain",
-        "country": "AUS",
-        "logo": "https://flagcdn.com/24x18/au.png",
-        "team": "DCT",
-        "primary": "#00008B",
-        "time": "+ 9\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 8,
         "name": "Wout van Aert",
         "country": "BEL",
         "logo": "https://flagcdn.com/24x18/be.png",
@@ -792,23 +732,83 @@ window.CYCLING_DATA = {
         "legendScore": 0.0
       },
       {
-        "rank": 9,
+        "rank": 3,
+        "name": "Matthew Brennan",
+        "country": "GBR",
+        "logo": "https://flagcdn.com/24x18/gb.png",
+        "team": "TVL men",
+        "primary": "#012169",
+        "time": "+ 10\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 4,
+        "name": "Léo Bisiaux",
+        "country": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "team": "DCT",
+        "primary": "#002395",
+        "time": "+ 12\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 5,
         "name": "Finn Fisher-Black",
         "country": "NZL",
         "logo": "https://flagcdn.com/24x18/nz.png",
         "team": "RBH",
         "primary": "#555555",
-        "time": "+ 10\"",
+        "time": "+ 14\"",
         "legendScore": 0.0
       },
       {
-        "rank": 10,
-        "name": "Arthur Kluckers",
-        "country": "LUX",
-        "logo": "https://flagcdn.com/24x18/lu.png",
+        "rank": 6,
+        "name": "Stefan Küng",
+        "country": "SUI",
+        "logo": "https://flagcdn.com/24x18/ch.png",
         "team": "TUD",
-        "primary": "#EF3340",
-        "time": "+ 11\"",
+        "primary": "#FF0000",
+        "time": "+ 18\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 7,
+        "name": "Jay Vine",
+        "country": "AUS",
+        "logo": "https://flagcdn.com/24x18/au.png",
+        "team": "UEX",
+        "primary": "#00008B",
+        "time": "+ 18\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 8,
+        "name": "Mads Pedersen",
+        "country": "DEN",
+        "logo": "https://flagcdn.com/24x18/dk.png",
+        "team": "LTK men",
+        "primary": "#C60C30",
+        "time": "+ 20\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 9,
+        "name": "Primož Roglič",
+        "country": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "team": "RBH",
+        "primary": "#003DA5",
+        "time": "+ 26\"",
+        "legendScore": 22.4
+      },
+      {
+        "rank": 10,
+        "name": "Jordan Labrosse",
+        "country": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "team": "DCT",
+        "primary": "#002395",
+        "time": "+ 27\"",
         "legendScore": 0.0
       }
     ],
@@ -819,18 +819,27 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/si.png",
       "team": "UEX",
       "primary": "#003DA5",
-      "points": 20,
+      "points": 42,
       "legendScore": 64.2
     },
-    "kom_leader": null,
+    "kom_leader": {
+      "rank": 1,
+      "name": "Koen Bouwman",
+      "country": "NED",
+      "logo": "https://flagcdn.com/24x18/nl.png",
+      "team": "JAY men",
+      "primary": "#AE1C28",
+      "points": 6,
+      "legendScore": 0.0
+    },
     "young_leader": {
       "rank": 1,
-      "name": "Joshua Tarling",
+      "name": "Matthew Brennan",
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
-      "team": "NCI",
+      "team": "TVL men",
       "primary": "#012169",
-      "time": "11' 01\"",
+      "time": "4h 58' 50\"",
       "legendScore": 0.0
     }
   },
