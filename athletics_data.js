@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-23 13:20 UTC
+// Auto-generated 2026-08-23 13:58 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-23 13:20 UTC",
+  "UPDATED": "2026-08-23 13:58 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -5866,13 +5866,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 8,
-              "mark": "21.76",
+              "mark": "21.80",
               "athlete": "Payton Otterdahl",
               "country": "USA",
               "flag": "https://flagcdn.com/24x18/us.png",
               "primary": "#B22234",
-              "venue": "Billy J. Murphy Track and Field Complex",
-              "date": "10 JUL 2026"
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
             },
             {
               "rank": 9,
@@ -6227,7 +6227,108 @@ window.ATHLETICS_DATA = {
               "year": 2026
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "74.04",
+              "athlete": "Matthew Denny",
+              "country": "AUS",
+              "flag": "https://flagcdn.com/24x18/au.png",
+              "primary": "#00008B",
+              "venue": "Millican Field at Throw Town",
+              "date": "09 APR 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "74.00",
+              "athlete": "Steven Richter",
+              "country": "GER",
+              "flag": "https://flagcdn.com/24x18/de.png",
+              "primary": "#000000",
+              "venue": "Millican Field at Throw Town",
+              "date": "09 APR 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "72.65",
+              "athlete": "Mykolas Alekna",
+              "country": "LTU",
+              "flag": "https://flagcdn.com/24x18/lt.png",
+              "primary": "#FDB913",
+              "venue": "Palangos Stadionas",
+              "date": "25 JUL 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "72.61",
+              "athlete": "Kristjan Čeh",
+              "country": "SLO",
+              "flag": "https://flagcdn.com/24x18/si.png",
+              "primary": "#4A4745",
+              "venue": "Millican Field at Throw Town",
+              "date": "09 APR 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "72.45",
+              "athlete": "Sam Mattis",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Millican Field at Throw Town",
+              "date": "09 APR 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "71.88",
+              "athlete": "Lawrence Okoye",
+              "country": "GBR",
+              "flag": "https://flagcdn.com/24x18/gb.png",
+              "primary": "#012169",
+              "venue": "Millican Field at Throw Town",
+              "date": "11 APR 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "71.22",
+              "athlete": "Ruben Rolvink",
+              "country": "NED",
+              "flag": "https://flagcdn.com/24x18/nl.png",
+              "primary": "#AE1C28",
+              "venue": "Millican Field at Throw Town",
+              "date": "31 MAY 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "70.66",
+              "athlete": "Roje Stona",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Millican Field at Throw Town",
+              "date": "09 APR 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "70.43",
+              "athlete": "Alex Rose",
+              "country": "SAM",
+              "flag": "",
+              "primary": "#4A4745",
+              "venue": "Millican Field at Throw Town",
+              "date": "09 APR 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "69.85",
+              "athlete": "Daniel St&#197;hl",
+              "country": "SWE",
+              "flag": "https://flagcdn.com/24x18/se.png",
+              "primary": "#006AA7",
+              "venue": "Uppsala Friidrottsarena",
+              "date": "25 JUL 2026"
+            }
+          ]
         },
         {
           "id": "dt_w",
