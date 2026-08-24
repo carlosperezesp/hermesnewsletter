@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-23 21:43 UTC",
+  "UPDATED": "2026-08-24 05:56 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -9,14 +9,6 @@ window.GLORY_DATA = {
       "text": "Ryan Blaney ganó en Echopark Speedway",
       "weight": 100,
       "firstSeen": "2026-08-12"
-    },
-    {
-      "id": "motogp:win:British motorcycle Grand Prix:Jorge Martín",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "text": "Jorge Martín ganó el British motorcycle Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-08-09"
     },
     {
       "id": "rank:golf:CURRENT:new1:Cameron Young",
@@ -439,13 +431,13 @@ window.GLORY_DATA = {
     "golf:CURRENT": [
       "Scottie Scheffler",
       "Matt Fitzpatrick",
+      "Wyndham Clark",
       "Cameron Young",
       "Si Woo Kim",
-      "Wyndham Clark",
-      "Sam Burns",
       "Chris Gotterup",
-      "Tommy Fleetwood",
       "Collin Morikawa",
+      "Sam Burns",
+      "Tommy Fleetwood",
       "Ludvig Åberg"
     ],
     "golf:LEGENDS": [

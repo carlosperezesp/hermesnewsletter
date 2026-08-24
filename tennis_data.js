@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-23 21:43 UTC
+// Auto-generated 2026-08-24 05:56 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-23 21:43 UTC",
+  "UPDATED": "2026-08-24 05:56 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -29,7 +29,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 16.0,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -65,7 +65,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 25.9,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -99,10 +99,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 100.0,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 87.7
     },
@@ -133,10 +133,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R32",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 87.4
     },
@@ -167,10 +167,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "F",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 82.7
     },
@@ -201,10 +201,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 80.8
     },
@@ -235,10 +235,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R16",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 79.5
     },
@@ -269,10 +269,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R16",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 79.5
     },
@@ -303,10 +303,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R32",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 79.2
     },
@@ -337,10 +337,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 78.8
     },
@@ -371,10 +371,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R32",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 77.7
     },
@@ -405,10 +405,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R32",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 76.8
     },
@@ -439,10 +439,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 76.4
     },
@@ -473,10 +473,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 76.1
     },
@@ -507,7 +507,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -541,10 +541,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 16,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R16",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 75.7
     },
@@ -575,10 +575,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "Quarterfinal",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 75.4
     },
@@ -609,10 +609,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 75.4
     },
@@ -643,10 +643,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 19,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 74.9
     },
@@ -677,10 +677,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 74.8
     },
@@ -711,10 +711,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "F",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 74.0
     },
@@ -745,10 +745,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 73.7
     },
@@ -779,10 +779,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 73.6
     },
@@ -813,10 +813,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 72.6
     },
@@ -847,7 +847,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -881,10 +881,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "Quarterfinal",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 68.7
     },
@@ -915,10 +915,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 68.3
     },
@@ -949,10 +949,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 68.2
     },
@@ -983,10 +983,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 67.5
     },
@@ -1017,10 +1017,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 30,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 66.7
     },
@@ -1051,10 +1051,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 31,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 66.7
     },
@@ -1085,10 +1085,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 66.5
     },
@@ -1119,10 +1119,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 66.3
     },
@@ -1153,10 +1153,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 34,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R16",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 66.3
     },
@@ -1187,10 +1187,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "out",
+        "tournament": "Winston-Salem Open",
+        "state": "alive",
         "round": "R64",
-        "reason": "Eliminado en R64"
+        "reason": ""
       },
       "prevActiveScore": 66.0
     },
@@ -1221,10 +1221,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.9
     },
@@ -1255,10 +1255,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.6
     },
@@ -1291,10 +1291,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 38,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.5
     },
@@ -1361,7 +1361,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1395,10 +1395,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.3
     },
@@ -1429,10 +1429,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.0
     },
@@ -1463,10 +1463,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 64.4
     },
@@ -1497,10 +1497,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 64.3
     },
@@ -1531,7 +1531,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 45,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1565,10 +1565,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "out",
+        "tournament": "Winston-Salem Open",
+        "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 64.1
     },
@@ -1599,7 +1599,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 47,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1633,10 +1633,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R32",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 63.2
     },
@@ -1667,10 +1667,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 49,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 63.0
     },
@@ -1701,10 +1701,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.9
     },
@@ -1735,10 +1735,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.2
     },
@@ -1769,10 +1769,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.1
     },
@@ -1803,10 +1803,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R32",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.1
     },
@@ -1837,9 +1837,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 54,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 61.7
@@ -1873,7 +1873,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 61.4
@@ -1905,7 +1905,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1939,10 +1939,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 60.5
     },
@@ -1973,10 +1973,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 60.0
     },
@@ -2007,10 +2007,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.7
     },
@@ -2041,7 +2041,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2075,10 +2075,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.4
     },
@@ -2112,7 +2112,7 @@ window.TENNIS_DATA = {
         "tournament": "Winston-Salem Open",
         "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 59.4
     },
@@ -2146,7 +2146,7 @@ window.TENNIS_DATA = {
         "tournament": "Winston-Salem Open",
         "state": "alive",
         "round": "R64",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 59.3
     },
@@ -2177,10 +2177,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.9
     },
@@ -2214,7 +2214,7 @@ window.TENNIS_DATA = {
         "tournament": "Winston-Salem Open",
         "state": "alive",
         "round": "R64",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 58.5
     },
@@ -2245,7 +2245,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 66,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2279,10 +2279,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.3
     },
@@ -2313,10 +2313,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.2
     },
@@ -2350,7 +2350,7 @@ window.TENNIS_DATA = {
         "tournament": "Winston-Salem Open",
         "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 57.8
     },
@@ -2381,7 +2381,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2415,10 +2415,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.4
     },
@@ -2449,10 +2449,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.4
     },
@@ -2483,7 +2483,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 73,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2518,9 +2518,9 @@ window.TENNIS_DATA = {
       "prevListRank": 74,
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.3
     },
@@ -2551,7 +2551,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2585,10 +2585,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 76,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 56.6
     },
@@ -2619,10 +2619,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 56.2
     },
@@ -2688,9 +2688,9 @@ window.TENNIS_DATA = {
       "prevListRank": 79,
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 55.7
     },
@@ -2721,10 +2721,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 80,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R32",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 55.4
     },
@@ -2755,7 +2755,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2789,7 +2789,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2857,10 +2857,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 55.0
     },
@@ -2893,7 +2893,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2927,10 +2927,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 54.7
     },
@@ -2963,7 +2963,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 54.4
@@ -2995,10 +2995,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 54.3
     },
@@ -3063,7 +3063,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3097,10 +3097,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 53.9
     },
@@ -3131,7 +3131,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 92,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3165,7 +3165,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3199,7 +3199,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3267,7 +3267,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3301,7 +3301,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3338,7 +3338,7 @@ window.TENNIS_DATA = {
         "tournament": "Winston-Salem Open",
         "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 53.4
     },
@@ -3369,7 +3369,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3403,7 +3403,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3439,7 +3439,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 52.7
@@ -3473,10 +3473,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.2
     },
@@ -3507,10 +3507,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.1
     },
@@ -3543,7 +3543,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3577,7 +3577,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3611,10 +3611,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.7
     },
@@ -3645,7 +3645,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3749,7 +3749,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3783,7 +3783,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 111,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3817,7 +3817,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3853,7 +3853,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 50.2
@@ -3885,7 +3885,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4057,10 +4057,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 119,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Winston-Salem Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.3
     },
@@ -4091,7 +4091,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4125,7 +4125,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4159,10 +4159,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 47.9
     },
@@ -4193,7 +4193,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4227,7 +4227,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4261,7 +4261,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4329,7 +4329,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4363,10 +4363,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 128,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 45.4
     },
@@ -4399,7 +4399,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4433,7 +4433,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 10.3,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4469,7 +4469,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4505,7 +4505,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4539,7 +4539,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4573,7 +4573,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4607,7 +4607,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4643,7 +4643,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4677,7 +4677,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4713,7 +4713,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 138,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4749,7 +4749,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4788,7 +4788,7 @@ window.TENNIS_DATA = {
         "tournament": "Winston-Salem Open",
         "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 38.8
     },
@@ -4821,7 +4821,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4857,7 +4857,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4893,7 +4893,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4965,7 +4965,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5001,7 +5001,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5037,7 +5037,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5073,10 +5073,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -5109,7 +5109,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5145,7 +5145,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Winston-Salem Open",
+        "tournament": "Winston-Salem Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5181,10 +5181,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 22.2,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R32",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 100.0
     },
@@ -5215,10 +5215,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R16",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 93.0
     },
@@ -5249,10 +5249,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R32",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 91.6
     },
@@ -5283,10 +5283,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "F",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 91.1
     },
@@ -5317,10 +5317,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 30.5,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "Quarterfinal",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 90.8
     },
@@ -5351,10 +5351,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R16",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 90.3
     },
@@ -5385,10 +5385,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "F",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 90.0
     },
@@ -5419,10 +5419,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 89.9
     },
@@ -5453,7 +5453,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5487,10 +5487,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R16",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 85.5
     },
@@ -5521,10 +5521,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R32",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 85.2
     },
@@ -5555,10 +5555,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 84.2
     },
@@ -5589,7 +5589,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5623,10 +5623,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R16",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 80.3
     },
@@ -5657,10 +5657,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 80.1
     },
@@ -5691,7 +5691,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 14.8,
       "prevListRank": 16,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5725,10 +5725,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "out",
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
         "round": "R64",
-        "reason": "Eliminado en R64"
+        "reason": ""
       },
       "prevActiveScore": 79.7
     },
@@ -5759,10 +5759,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R32",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 78.5
     },
@@ -5793,10 +5793,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 19,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 76.4
     },
@@ -5827,10 +5827,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 76.1
     },
@@ -5861,10 +5861,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 75.7
     },
@@ -5895,10 +5895,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R32",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 75.6
     },
@@ -5929,10 +5929,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 74.8
     },
@@ -5963,7 +5963,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5997,10 +5997,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 72.3
     },
@@ -6031,10 +6031,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R32",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 71.5
     },
@@ -6065,10 +6065,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 71.0
     },
@@ -6099,10 +6099,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 70.8
     },
@@ -6133,7 +6133,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6167,10 +6167,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 30,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 68.9
     },
@@ -6201,10 +6201,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 31,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 68.8
     },
@@ -6235,7 +6235,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6269,10 +6269,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R64",
-        "reason": "Eliminado en R64"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 67.4
     },
@@ -6303,10 +6303,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 34,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 67.0
     },
@@ -6371,7 +6371,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6408,7 +6408,7 @@ window.TENNIS_DATA = {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 66.2
     },
@@ -6439,10 +6439,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 38,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.6
     },
@@ -6473,10 +6473,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 65.4
     },
@@ -6509,7 +6509,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 64.6
@@ -6609,10 +6609,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "Quarterfinal",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 63.7
     },
@@ -6645,7 +6645,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6679,10 +6679,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 45,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 63.4
     },
@@ -6747,10 +6747,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 47,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.8
     },
@@ -6781,10 +6781,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.7
     },
@@ -6815,10 +6815,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 49,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.6
     },
@@ -6849,10 +6849,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.5
     },
@@ -6883,10 +6883,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.3
     },
@@ -6917,10 +6917,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 62.3
     },
@@ -6951,7 +6951,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6985,7 +6985,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 54,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7020,7 +7020,7 @@ window.TENNIS_DATA = {
       "prevListRank": 55,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -7053,10 +7053,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "out",
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 60.7
     },
@@ -7087,7 +7087,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7124,7 +7124,7 @@ window.TENNIS_DATA = {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R64"
+        "reason": ""
       },
       "prevActiveScore": 59.9
     },
@@ -7189,10 +7189,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 59.7
     },
@@ -7224,7 +7224,7 @@ window.TENNIS_DATA = {
       "prevListRank": 61,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -7257,7 +7257,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 62,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7294,7 +7294,7 @@ window.TENNIS_DATA = {
         "tournament": "Ennoble Care Philly Open",
         "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 59.1
     },
@@ -7325,10 +7325,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.5
     },
@@ -7359,10 +7359,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 58.2
     },
@@ -7393,10 +7393,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 66,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.7
     },
@@ -7429,7 +7429,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7463,10 +7463,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 57.6
     },
@@ -7497,10 +7497,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "out",
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 57.5
     },
@@ -7534,7 +7534,7 @@ window.TENNIS_DATA = {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 57.5
     },
@@ -7565,7 +7565,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7599,7 +7599,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7633,7 +7633,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 73,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7667,10 +7667,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 56.9
     },
@@ -7701,10 +7701,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 56.4
     },
@@ -7735,7 +7735,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 76,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7772,7 +7772,7 @@ window.TENNIS_DATA = {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 56.3
     },
@@ -7806,7 +7806,7 @@ window.TENNIS_DATA = {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 55.8
     },
@@ -7905,10 +7905,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "out",
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 54.5
     },
@@ -7939,10 +7939,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 54.3
     },
@@ -7973,7 +7973,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 83,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8010,7 +8010,7 @@ window.TENNIS_DATA = {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 53.5
     },
@@ -8043,7 +8043,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8077,7 +8077,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8111,10 +8111,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 52.2
     },
@@ -8179,7 +8179,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8213,7 +8213,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8247,7 +8247,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8281,7 +8281,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 92,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8349,10 +8349,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 51.5
     },
@@ -8383,7 +8383,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 95,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8417,10 +8417,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 50.6
     },
@@ -8453,7 +8453,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8487,7 +8487,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8521,10 +8521,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.4
     },
@@ -8555,10 +8555,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 49.0
     },
@@ -8591,7 +8591,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 101,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8627,7 +8627,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8663,7 +8663,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8733,10 +8733,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 48.4
     },
@@ -8767,10 +8767,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
+        "tournament": "Ennoble Care Philly Open",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 48.1
     },
@@ -8801,7 +8801,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8906,7 +8906,7 @@ window.TENNIS_DATA = {
         "tournament": "Ennoble Care Philly Open",
         "state": "alive",
         "round": "R64",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 45.9
     },
@@ -8971,7 +8971,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9007,7 +9007,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 113,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9041,7 +9041,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9075,7 +9075,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9145,7 +9145,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 117,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9181,7 +9181,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 118,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9215,10 +9215,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 119,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 43.8
     },
@@ -9283,7 +9283,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9317,7 +9317,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9353,7 +9353,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9389,10 +9389,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 42.3
     },
@@ -9425,10 +9425,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "out",
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 41.7
     },
@@ -9459,7 +9459,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9493,7 +9493,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9527,10 +9527,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 128,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 40.5
     },
@@ -9561,7 +9561,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9597,10 +9597,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 39.8
     },
@@ -9631,7 +9631,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9667,7 +9667,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9702,9 +9702,9 @@ window.TENNIS_DATA = {
       "prevListRank": 133,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 39.1
     },
@@ -9737,7 +9737,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9773,7 +9773,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9809,7 +9809,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9848,7 +9848,7 @@ window.TENNIS_DATA = {
         "tournament": "Ennoble Care Philly Open",
         "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 38.3
     },
@@ -9881,7 +9881,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 138,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9951,10 +9951,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 37.0
     },
@@ -9987,7 +9987,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10023,10 +10023,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
-        "state": "out",
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 35.0
     },
@@ -10059,7 +10059,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10129,7 +10129,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10165,10 +10165,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -10201,7 +10201,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10237,7 +10237,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10273,10 +10273,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
     },
@@ -10309,7 +10309,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10872,51 +10872,16 @@ window.TENNIS_DATA = {
       "surface": "Hard",
       "matches": [
         {
-          "round": "Semifinal",
+          "round": "F",
           "w": "Arthur Fils",
           "w_logo": "",
-          "l": "Flavio Cobolli",
+          "l": "Frances Tiafoe",
           "l_logo": "",
-          "score": "6-3 6-4",
+          "score": "6-3 1-6 6-0",
           "day": "ayer",
           "scheduled": false,
           "w_score": 82.7,
-          "l_score": 75.4,
-          "match_score": 82.7
-        },
-        {
-          "round": "Semifinal",
-          "w": "Frances Tiafoe",
-          "w_logo": "",
-          "l": "Brandon Nakashima",
-          "l_logo": "",
-          "score": "7-5 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 74.0,
-          "l_score": 68.7,
-          "match_score": 74.0
-        }
-      ]
-    }
-  ],
-  "ATP_TODAY": [
-    {
-      "name": "Cincinnati Open",
-      "level": "Masters 1000",
-      "surface": "Hard",
-      "matches": [
-        {
-          "round": "F",
-          "w": "Frances Tiafoe",
-          "w_logo": "",
-          "l": "Arthur Fils",
-          "l_logo": "",
-          "score": "3-6 6-1",
-          "day": "hoy",
-          "scheduled": false,
-          "w_score": 74.0,
-          "l_score": 82.7,
+          "l_score": 74.0,
           "match_score": 82.7
         }
       ]
@@ -10932,9 +10897,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Pablo Carreno Busta",
           "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
+          "score": "6-4 3-0 ret",
+          "day": "ayer",
+          "scheduled": false,
           "w_score": 61.4,
           "l_score": 55.7,
           "match_score": 61.4
@@ -10946,7 +10911,7 @@ window.TENNIS_DATA = {
           "l": "Giovanni Mpetshi Perricard",
           "l_logo": "",
           "score": "6-3 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 58.5,
           "l_score": 49.6,
@@ -10958,8 +10923,8 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Martin Landaluce",
           "l_logo": "",
-          "score": "In Progress",
-          "day": "hoy",
+          "score": "6-4 6-7 (3-7) 6-1",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 52.7,
           "l_score": 57.3,
@@ -10972,7 +10937,7 @@ window.TENNIS_DATA = {
           "l": "Sho Shimabukuro",
           "l_logo": "",
           "score": "6-4 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 55.9,
           "l_score": 35.0,
@@ -10985,11 +10950,124 @@ window.TENNIS_DATA = {
           "l": "Wu Yibing",
           "l_logo": "",
           "score": "6-3 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 50.2,
           "l_score": null,
           "match_score": 50.2
+        }
+      ]
+    }
+  ],
+  "ATP_TODAY": [
+    {
+      "name": "Winston-Salem Open",
+      "level": "ATP 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "R64",
+          "w": "Stefanos Tsitsipas",
+          "w_logo": "",
+          "l": "Jenson Brooksby",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 65.4,
+          "l_score": 58.5,
+          "match_score": 65.4
+        },
+        {
+          "round": "R128",
+          "w": "Vit Kopriva",
+          "w_logo": "",
+          "l": "Lorenzo Sonego",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 59.4,
+          "l_score": 54.2,
+          "match_score": 59.4
+        },
+        {
+          "round": "R128",
+          "w": "Kamil Majchrzak",
+          "w_logo": "",
+          "l": "Benjamin Bonzi",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 57.8,
+          "l_score": 53.5,
+          "match_score": 57.8
+        },
+        {
+          "round": "R128",
+          "w": "Marcos Giron",
+          "w_logo": "",
+          "l": "Dhakshineswar Suresh",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 55.0,
+          "l_score": null,
+          "match_score": 55.0
+        },
+        {
+          "round": "R128",
+          "w": "Jesper de Jong",
+          "w_logo": "",
+          "l": "Adam Walton",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 53.4,
+          "l_score": 48.4,
+          "match_score": 53.4
+        },
+        {
+          "round": "R128",
+          "w": "Aleksandar Kovacevic",
+          "w_logo": "",
+          "l": "Felix Balshaw",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 51.2,
+          "l_score": null,
+          "match_score": 51.2
+        },
+        {
+          "round": "R128",
+          "w": "Martin Damm",
+          "w_logo": "",
+          "l": "Abdullah Shelbayh",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 51.0,
+          "l_score": null,
+          "match_score": 51.0
+        },
+        {
+          "round": "R128",
+          "w": "Roman Safiullin",
+          "w_logo": "",
+          "l": "Hugo Grenier",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 48.8,
+          "l_score": null,
+          "match_score": 48.8
         }
       ]
     }
@@ -11001,49 +11079,14 @@ window.TENNIS_DATA = {
       "surface": "Hard",
       "matches": [
         {
-          "round": "Quarterfinal",
-          "w": "Coco Gauff",
-          "w_logo": "",
-          "l": "Marta Kostyuk",
-          "l_logo": "",
-          "score": "6-2 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 91.1,
-          "l_score": 90.3,
-          "match_score": 91.1
-        },
-        {
-          "round": "Semifinal",
-          "w": "Jessica Pegula",
-          "w_logo": "",
-          "l": "Iga Swiatek",
-          "l_logo": "",
-          "score": "7-5 4-6 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 90.0,
-          "l_score": 90.8,
-          "match_score": 90.8
-        }
-      ]
-    }
-  ],
-  "WTA_TODAY": [
-    {
-      "name": "Cincinnati Open",
-      "level": "Masters 1000",
-      "surface": "Hard",
-      "matches": [
-        {
           "round": "F",
           "w": "Coco Gauff",
           "w_logo": "",
           "l": "Jessica Pegula",
           "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
+          "score": "6-2 6-4",
+          "day": "ayer",
+          "scheduled": false,
           "w_score": 91.1,
           "l_score": 90.0,
           "match_score": 91.1
@@ -11055,7 +11098,7 @@ window.TENNIS_DATA = {
           "l": "Sara Bejlek",
           "l_logo": "",
           "score": "6-4 6-1",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 91.1,
           "l_score": 63.7,
@@ -11075,7 +11118,7 @@ window.TENNIS_DATA = {
           "l": "Anna Frey",
           "l_logo": "",
           "score": "6-1 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 59.1,
           "l_score": null,
@@ -11088,7 +11131,7 @@ window.TENNIS_DATA = {
           "l": "Anna Blinkova",
           "l_logo": "",
           "score": "7-6 (8-6) 6-0",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 44.9,
           "l_score": 48.1,
@@ -11101,7 +11144,7 @@ window.TENNIS_DATA = {
           "l": "Hong Yi Cody Wong",
           "l_logo": "",
           "score": "6-2 6-1",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 45.9,
           "l_score": null,
@@ -11114,7 +11157,7 @@ window.TENNIS_DATA = {
           "l": "Mell Reasco Gonzalez",
           "l_logo": "",
           "score": "6-3 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11127,7 +11170,7 @@ window.TENNIS_DATA = {
           "l": "Ena Koike",
           "l_logo": "",
           "score": "6-2 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11136,153 +11179,272 @@ window.TENNIS_DATA = {
       ]
     }
   ],
+  "WTA_TODAY": [
+    {
+      "name": "Abierto GNP Seguros",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Ann Li",
+          "w_logo": "",
+          "l": "Camila Osorio",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 66.8,
+          "l_score": 66.2,
+          "match_score": 66.8
+        },
+        {
+          "round": "R128",
+          "w": "Nikola Bartunkova",
+          "w_logo": "",
+          "l": "Antonia Ruzic",
+          "l_logo": "",
+          "score": "6-4 6-3",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 64.6,
+          "l_score": 59.5,
+          "match_score": 64.6
+        },
+        {
+          "round": "R128",
+          "w": "Oleksandra Oliynykova",
+          "w_logo": "",
+          "l": "Mayar Sherif",
+          "l_logo": "",
+          "score": "6-3 6-4",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 64.0,
+          "l_score": 39.1,
+          "match_score": 64.0
+        },
+        {
+          "round": "R128",
+          "w": "Yuliia Starodubtseva",
+          "w_logo": "",
+          "l": "Lilli Tagger",
+          "l_logo": "",
+          "score": "6-3 6-4",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 57.5,
+          "l_score": 61.3,
+          "match_score": 61.3
+        },
+        {
+          "round": "R128",
+          "w": "Alycia Parks",
+          "w_logo": "",
+          "l": "Petra Marcinko",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 56.3,
+          "l_score": 53.5,
+          "match_score": 56.3
+        },
+        {
+          "round": "R128",
+          "w": "Dayana Yastremska",
+          "w_logo": "",
+          "l": "Janice Tjen",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 55.8,
+          "l_score": 55.5,
+          "match_score": 55.8
+        }
+      ]
+    },
+    {
+      "name": "Ennoble Care Philly Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "R128",
+          "w": "Tereza Valentova",
+          "w_logo": "",
+          "l": "Ariana Arseneault",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 59.8,
+          "l_score": null,
+          "match_score": 59.8
+        },
+        {
+          "round": "R128",
+          "w": "Talia Gibson",
+          "w_logo": "",
+          "l": "Lizette Cabrera",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 55.0,
+          "l_score": null,
+          "match_score": 55.0
+        },
+        {
+          "round": "R128",
+          "w": "Jessica Bouzas Maneiro",
+          "w_logo": "",
+          "l": "Ella Seidel",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 51.9,
+          "l_score": 43.7,
+          "match_score": 51.9
+        },
+        {
+          "round": "R128",
+          "w": "Taylah Preston",
+          "w_logo": "",
+          "l": "Oksana Selekhmeteva",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 48.5,
+          "l_score": 47.4,
+          "match_score": 48.5
+        },
+        {
+          "round": "R128",
+          "w": "Kaitlin Quevedo",
+          "w_logo": "",
+          "l": "Ekaterina Ovcharenko",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 46.7,
+          "l_score": null,
+          "match_score": 46.7
+        },
+        {
+          "round": "R128",
+          "w": "Simona Waltert",
+          "w_logo": "",
+          "l": "Fiona Crawley",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 45.8,
+          "l_score": null,
+          "match_score": 45.8
+        },
+        {
+          "round": "R128",
+          "w": "Mananchaya Sawangkaew",
+          "w_logo": "",
+          "l": "Sloane Stephens",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 38.3,
+          "l_score": null,
+          "match_score": 38.3
+        },
+        {
+          "round": "R128",
+          "w": "Veronika Erjavec",
+          "w_logo": "",
+          "l": "Julia Grabher",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 37.6,
+          "l_score": 35.0,
+          "match_score": 37.6
+        }
+      ]
+    }
+  ],
   "ATP_TOURNAMENT": {
-    "name": "Cincinnati Open · Winston-Salem Open",
-    "level": "Masters 1000",
-    "surface": "Hard",
+    "name": "Winston-Salem Open · US Open",
+    "level": "ATP 250",
+    "surface": "",
     "tour": "ATP",
     "events": [
-      {
-        "name": "Cincinnati Open",
-        "level": "Masters 1000",
-        "surface": "Hard"
-      },
       {
         "name": "Winston-Salem Open",
         "level": "ATP 250",
         "surface": ""
+      },
+      {
+        "name": "US Open",
+        "level": "Grand Slam",
+        "surface": "Hard"
       }
     ],
     "alive": [
       "Abdullah Shelbayh",
       "Adam Walton",
       "Adolfo Daniel Vallejo",
-      "Alejandro Tabilo",
       "Aleksandar Kovacevic",
-      "Alex Michelsen",
-      "Alex de Minaur",
-      "Alexander Blockx",
-      "Alexander Zverev",
-      "Andrey Rublev",
-      "Arthur Fery",
-      "Arthur Fils",
       "Benjamin Bonzi",
       "Botic Van De Zandschulp",
-      "Brandon Nakashima",
-      "Cameron Norrie",
-      "Christopher O'Connell",
       "Cruz Hewitt",
       "Daniel Altmaier",
-      "Daniel Merida",
-      "Daniil Medvedev",
-      "Darwin Blanch",
-      "Denis Shapovalov",
       "Dhakshineswar Suresh",
       "Fabian Marozsan",
-      "Felix Auger-Aliassime",
       "Felix Balshaw",
-      "Flavio Cobolli",
-      "Frances Tiafoe",
       "Francisco Comesana",
-      "Hubert Hurkacz",
       "Hugo Grenier",
-      "Jaime Faria",
-      "Jakub Mensik",
       "James Duckworth",
       "Jan Choinski",
-      "Jan-Lennard Struff",
       "Jenson Brooksby",
       "Jesper de Jong",
-      "Jiri Lehecka",
-      "Joao Fonseca",
-      "Juan Manuel Cerundolo",
       "Kamil Majchrzak",
-      "Learner Tien",
-      "Lorenzo Musetti",
       "Lorenzo Sonego",
-      "Marco Trungelliti",
+      "Luciano Darderi",
       "Marcos Giron",
-      "Mariano Navone",
       "Martin Damm",
-      "Martin Landaluce",
-      "Matteo Berrettini",
       "Mattia Bellucci",
       "Mees Rottgering",
-      "Michael Zheng",
       "Miomir Kecmanovic",
-      "Nuno Borges",
-      "Pablo Carreno Busta",
-      "Quentin Halys",
       "Quinn Vandecasteele",
-      "Rafael Jodar",
+      "Raphael Collignon",
       "Rinky Hijikata",
       "Roman Safiullin",
-      "Sebastian Baez",
       "Sebastian Gorzny",
       "Stefanos Tsitsipas",
-      "Taylor Fritz",
-      "Terence Atmane",
-      "Thiago Agustin Tirante",
-      "Tommy Paul",
-      "Vit Kopriva",
-      "Yannick Hanfmann"
+      "Vit Kopriva"
     ],
     "out": [
-      "Adrian Mannarino",
-      "Aleksandr Shevchenko",
-      "Arthur Rinderknech",
-      "Ben Shelton",
-      "Camilo Ugo Carabelli",
-      "Casper Ruud",
-      "Chak Lam Coleman Wong",
-      "Dino Prizmic",
-      "Francisco Cerundolo",
-      "Gael Monfils",
+      "Darwin Blanch",
       "Giovanni Mpetshi Perricard",
-      "Grigor Dimitrov",
-      "Hamad Medjedovic",
-      "Ignacio Buse",
-      "J.J. Wolf",
-      "Jack Draper",
-      "Karen Khachanov",
-      "Kyrian Jacquet",
-      "Luca Van Assche",
-      "Luciano Darderi",
-      "Marin Cilic",
-      "Mark Lajal",
-      "Marton Fucsovics",
-      "Matteo Arnaldi",
-      "Nicolas Mejia",
-      "Novak Djokovic",
-      "Raphael Collignon",
-      "Roman Andres Burruchaga",
-      "Shang Juncheng",
+      "Martin Landaluce",
+      "Pablo Carreno Busta",
       "Sho Shimabukuro",
-      "Thanasi Kokkinakis",
-      "Titouan Droguet",
-      "Tomas Machac",
-      "Tomas Martin Etcheverry",
-      "Ugo Humbert",
-      "Valentin Royer",
-      "Valentin Vacherot",
-      "Wu Yibing",
-      "Zachary Svajda",
-      "Zizou Bergs"
+      "Wu Yibing"
     ],
-    "aliveCount": 72,
-    "matchesSeen": 114
+    "aliveCount": 32,
+    "matchesSeen": 22
   },
   "WTA_TOURNAMENT": {
-    "name": "Cincinnati Open · Abierto GNP Seguros · Ennoble Care Philly Open",
-    "level": "Masters 1000",
-    "surface": "Hard",
+    "name": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+    "level": "WTA 250",
+    "surface": "",
     "tour": "WTA",
     "events": [
-      {
-        "name": "Cincinnati Open",
-        "level": "Masters 1000",
-        "surface": "Hard"
-      },
       {
         "name": "Abierto GNP Seguros",
         "level": "WTA 250",
@@ -11292,140 +11454,79 @@ window.TENNIS_DATA = {
         "name": "Ennoble Care Philly Open",
         "level": "WTA 250",
         "surface": ""
+      },
+      {
+        "name": "US Open",
+        "level": "Grand Slam",
+        "surface": "Hard"
       }
     ],
     "alive": [
-      "Alexandra Eala",
       "Alycia Parks",
-      "Amanda Anisimova",
+      "Anastasia Potapova",
       "Anastasia Zakharova",
       "Anhelina Kalinina",
       "Ann Li",
-      "Anna Blinkova",
-      "Anna Kalinskaya",
-      "Antonia Ruzic",
+      "Anna Bondar",
       "Ariana Arseneault",
-      "Aryna Sabalenka",
       "Ashlyn Krueger",
       "Camila Osorio",
       "Capucine Jauffret",
-      "Catherine McNally",
       "Clara Tauson",
-      "Coco Gauff",
       "Cristina Bucsa",
-      "Daria Snigur",
+      "Darja Vidmanova",
       "Dayana Yastremska",
-      "Diana Shnaider",
       "Diane Parry",
       "Donna Vekic",
-      "Ekaterina Alexandrova",
       "Ekaterina Ovcharenko",
-      "Elena Rybakina",
-      "Elena-Gabriela Ruse",
-      "Elina Svitolina",
       "Ella Seidel",
-      "Emiliana Arango",
-      "Emma Navarro",
       "Fiona Crawley",
-      "Iga Swiatek",
-      "Iva Jovic",
       "Jaeda Daniel",
       "Janice Tjen",
       "Jessica Bouzas Maneiro",
-      "Jessica Pegula",
       "Julia Grabher",
       "Kaitlin Quevedo",
-      "Kamilla Rakhimova",
-      "Katerina Siniakova",
-      "Katie Boulter",
       "Katie Volynets",
+      "Kimberly Birrell",
       "Kylie Collins",
-      "Lilli Tagger",
-      "Linda Noskova",
-      "Liudmila Samsonova",
       "Lizette Cabrera",
       "Lois Boisson",
       "Lucciana Perez Alarcon",
-      "Lucrezia Stefanini",
-      "Madison Keys",
-      "Magdalena Frech",
-      "Maja Chwalinska",
       "Mananchaya Sawangkaew",
-      "Maria Sakkari",
-      "Marie Bouzkova",
-      "Marta Kostyuk",
-      "Mayar Sherif",
+      "Maria Timofeeva",
+      "Maya Joint",
       "Mia Pohankova",
-      "Mirra Andreeva",
       "Nikola Bartunkova",
       "Oksana Selekhmeteva",
       "Oleksandra Oliynykova",
       "Petra Marcinko",
-      "Peyton Stearns",
       "Renata Zarazua",
-      "Sara Bejlek",
       "Simona Waltert",
       "Sloane Stephens",
-      "Sofia Kenin",
-      "Sorana Cirstea",
       "Talia Gibson",
-      "Tamara Korpatsch",
-      "Tatjana Maria",
       "Taylah Preston",
-      "Taylor Townsend",
       "Tereza Valentova",
       "Tian Fangran",
       "Veronika Erjavec",
-      "Viktorija Golubic",
-      "Wang Xinyu",
       "Wang Xiyu",
       "Yuliia Starodubtseva",
-      "Zeynep Sonmez",
       "Zhang Shuai"
     ],
     "out": [
-      "Alina Charaeva",
-      "Anastasia Potapova",
-      "Anna Bondar",
+      "Anna Blinkova",
       "Anna Frey",
-      "Barbora Krejcikova",
-      "Belinda Bencic",
-      "Caroline Dolehide",
-      "Daria Kasatkina",
-      "Darja Vidmanova",
-      "Elisabetta Cocciaretto",
-      "Elise Mertens",
-      "Elvina Kalieva",
+      "Antonia Ruzic",
       "Ena Koike",
-      "Eva Lys",
-      "Hanne Vandewinkel",
-      "Harriet Dart",
       "Hong Yi Cody Wong",
-      "Jelena Ostapenko",
-      "Karolina Pliskova",
-      "Kayla Day",
-      "Kimberly Birrell",
-      "Leylah Fernandez",
-      "Magda Linette",
-      "Maria Timofeeva",
-      "Mary Stoiana",
-      "Maya Joint",
-      "McCartney Kessler",
-      "Mell Reasco Gonzalez",
-      "Panna Udvardy",
-      "Sinja Kraus",
-      "Venus Williams",
-      "Yulia Putintseva"
+      "Lilli Tagger",
+      "Mayar Sherif",
+      "Mell Reasco Gonzalez"
     ],
-    "aliveCount": 87,
-    "matchesSeen": 120
+    "aliveCount": 49,
+    "matchesSeen": 30
   },
   "ATP_SCORE_LOG": {
     "206173": [
-      [
-        "20260807",
-        100.0
-      ],
       [
         "20260808",
         100.0
@@ -11488,15 +11589,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        100.0
+      ],
+      [
+        "20260824",
         100.0
       ]
     ],
     "207989": [
       [
-        "20260807",
-        91.1
-      ],
-      [
         "20260808",
         91.1
       ],
@@ -11558,15 +11659,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        91.1
+      ],
+      [
+        "20260824",
         91.1
       ]
     ],
     "104925": [
       [
-        "20260807",
-        87.7
-      ],
-      [
         "20260808",
         87.7
       ],
@@ -11628,15 +11729,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        87.7
+      ],
+      [
+        "20260824",
         87.7
       ]
     ],
     "100644": [
       [
-        "20260807",
-        87.4
-      ],
-      [
         "20260808",
         87.4
       ],
@@ -11698,15 +11799,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        87.4
+      ],
+      [
+        "20260824",
         87.4
       ]
     ],
     "209950": [
       [
-        "20260807",
-        82.3
-      ],
-      [
         "20260808",
         82.3
       ],
@@ -11768,15 +11869,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        82.7
+      ],
+      [
+        "20260824",
         82.7
       ]
     ],
     "134770": [
       [
-        "20260807",
-        81.1
-      ],
-      [
         "20260808",
         81.1
       ],
@@ -11838,15 +11939,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        80.8
+      ],
+      [
+        "20260824",
         80.8
       ]
     ],
     "207518": [
       [
-        "20260807",
-        79.6
-      ],
-      [
         "20260808",
         79.6
       ],
@@ -11908,15 +12009,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        79.5
+      ],
+      [
+        "20260824",
         79.5
       ]
     ],
     "126205": [
       [
-        "20260807",
-        79.8
-      ],
-      [
         "20260808",
         79.8
       ],
@@ -11978,15 +12079,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        79.5
+      ],
+      [
+        "20260824",
         79.5
       ]
     ],
     "212588": [
       [
-        "20260807",
-        78.8
-      ],
-      [
         "20260808",
         78.8
       ],
@@ -12048,15 +12149,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        79.2
+      ],
+      [
+        "20260824",
         79.2
       ]
     ],
     "106421": [
       [
-        "20260807",
-        78.9
-      ],
-      [
         "20260808",
         78.9
       ],
@@ -12118,15 +12219,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        78.8
+      ],
+      [
+        "20260824",
         78.8
       ]
     ],
     "200000": [
       [
-        "20260807",
-        77.7
-      ],
-      [
         "20260808",
         77.7
       ],
@@ -12188,15 +12289,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        77.7
+      ],
+      [
+        "20260824",
         77.7
       ]
     ],
     "200282": [
       [
-        "20260807",
-        76.8
-      ],
-      [
         "20260808",
         76.8
       ],
@@ -12258,15 +12359,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        76.8
+      ],
+      [
+        "20260824",
         76.8
       ]
     ],
     "210097": [
       [
-        "20260807",
-        75.9
-      ],
-      [
         "20260808",
         75.9
       ],
@@ -12328,15 +12429,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        76.4
+      ],
+      [
+        "20260824",
         76.4
       ]
     ],
     "208103": [
       [
-        "20260807",
-        76.4
-      ],
-      [
         "20260808",
         76.4
       ],
@@ -12398,15 +12499,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        76.1
+      ],
+      [
+        "20260824",
         76.1
       ]
     ],
     "122330": [
       [
-        "20260807",
-        76.0
-      ],
-      [
         "20260808",
         76.0
       ],
@@ -12468,15 +12569,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        75.8
+      ],
+      [
+        "20260824",
         75.8
       ]
     ],
     "126203": [
       [
-        "20260807",
-        75.8
-      ],
-      [
         "20260808",
         75.8
       ],
@@ -12538,15 +12639,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        75.7
+      ],
+      [
+        "20260824",
         75.7
       ]
     ],
     "207925": [
       [
-        "20260807",
-        75.6
-      ],
-      [
         "20260808",
         75.6
       ],
@@ -12608,15 +12709,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        75.4
+      ],
+      [
+        "20260824",
         75.4
       ]
     ],
     "210530": [
       [
-        "20260807",
-        74.7
-      ],
-      [
         "20260808",
         74.7
       ],
@@ -12678,15 +12779,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        75.4
+      ],
+      [
+        "20260824",
         75.4
       ]
     ],
     "200473": [
       [
-        "20260807",
-        75.0
-      ],
-      [
         "20260808",
         75.0
       ],
@@ -12748,15 +12849,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        74.9
+      ],
+      [
+        "20260824",
         74.9
       ]
     ],
     "126094": [
       [
-        "20260807",
-        75.0
-      ],
-      [
         "20260808",
         75.0
       ],
@@ -12818,15 +12919,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        74.8
+      ],
+      [
+        "20260824",
         74.8
       ]
     ],
     "126207": [
       [
-        "20260807",
-        74.3
-      ],
-      [
         "20260808",
         74.3
       ],
@@ -12888,15 +12989,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        74.0
+      ],
+      [
+        "20260824",
         74.0
       ]
     ],
     "211663": [
       [
-        "20260807",
-        73.6
-      ],
-      [
         "20260808",
         73.6
       ],
@@ -12958,15 +13059,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        73.7
+      ],
+      [
+        "20260824",
         73.7
       ]
     ],
     "202103": [
       [
-        "20260807",
-        73.8
-      ],
-      [
         "20260808",
         73.8
       ],
@@ -13028,15 +13129,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        73.6
+      ],
+      [
+        "20260824",
         73.6
       ]
     ],
     "210696": [
       [
-        "20260807",
-        72.6
-      ],
-      [
         "20260808",
         72.6
       ],
@@ -13098,15 +13199,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        72.6
+      ],
+      [
+        "20260824",
         72.6
       ]
     ],
     "200221": [
       [
-        "20260807",
-        72.5
-      ],
-      [
         "20260808",
         72.5
       ],
@@ -13168,15 +13269,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        72.2
+      ],
+      [
+        "20260824",
         72.2
       ]
     ],
     "206909": [
       [
-        "20260807",
-        67.6
-      ],
-      [
         "20260808",
         67.6
       ],
@@ -13238,15 +13339,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        68.7
+      ],
+      [
+        "20260824",
         68.7
       ]
     ],
     "111575": [
       [
-        "20260807",
-        68.3
-      ],
-      [
         "20260808",
         68.3
       ],
@@ -13308,15 +13409,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        68.3
+      ],
+      [
+        "20260824",
         68.3
       ]
     ],
     "209860": [
       [
-        "20260807",
-        68.5
-      ],
-      [
         "20260808",
         68.5
       ],
@@ -13378,15 +13479,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        68.2
+      ],
+      [
+        "20260824",
         68.2
       ]
     ],
     "126610": [
       [
-        "20260807",
-        67.7
-      ],
-      [
         "20260808",
         67.7
       ],
@@ -13448,15 +13549,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        67.5
+      ],
+      [
+        "20260824",
         67.5
       ]
     ],
     "126214": [
       [
-        "20260807",
-        67.1
-      ],
-      [
         "20260808",
         67.1
       ],
@@ -13518,15 +13619,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        66.7
+      ],
+      [
+        "20260824",
         66.7
       ]
     ],
     "111815": [
       [
-        "20260807",
-        66.4
-      ],
-      [
         "20260808",
         66.4
       ],
@@ -13588,15 +13689,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        66.7
+      ],
+      [
+        "20260824",
         66.7
       ]
     ],
     "200005": [
       [
-        "20260807",
-        66.7
-      ],
-      [
         "20260808",
         66.7
       ],
@@ -13658,15 +13759,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        66.5
+      ],
+      [
+        "20260824",
         66.5
       ]
     ],
     "210506": [
       [
-        "20260807",
-        66.2
-      ],
-      [
         "20260808",
         66.2
       ],
@@ -13728,15 +13829,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        66.3
+      ],
+      [
+        "20260824",
         66.3
       ]
     ],
     "202058": [
       [
-        "20260807",
-        64.6
-      ],
-      [
         "20260808",
         64.6
       ],
@@ -13798,15 +13899,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        66.3
+      ],
+      [
+        "20260824",
         66.3
       ]
     ],
     "209260": [
       [
-        "20260807",
-        65.8
-      ],
-      [
         "20260808",
         65.8
       ],
@@ -13868,15 +13969,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        66.0
+      ],
+      [
+        "20260824",
         66.0
       ]
     ],
     "207830": [
       [
-        "20260807",
-        66.3
-      ],
-      [
         "20260808",
         66.3
       ],
@@ -13938,15 +14039,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        65.9
+      ],
+      [
+        "20260824",
         65.9
       ]
     ],
     "126239": [
       [
-        "20260807",
-        65.5
-      ],
-      [
         "20260808",
         65.5
       ],
@@ -14008,15 +14109,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        65.6
+      ],
+      [
+        "20260824",
         65.6
       ]
     ],
     "207733": [
       [
-        "20260807",
-        65.5
-      ],
-      [
         "20260808",
         65.5
       ],
@@ -14078,15 +14179,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        65.5
+      ],
+      [
+        "20260824",
         65.5
       ]
     ],
     "126774": [
       [
-        "20260807",
-        65.0
-      ],
-      [
         "20260808",
         65.0
       ],
@@ -14148,15 +14249,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        65.4
+      ],
+      [
+        "20260824",
         65.4
       ]
     ],
     "144684": [
       [
-        "20260807",
-        65.4
-      ],
-      [
         "20260808",
         65.4
       ],
@@ -14218,15 +14319,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        65.4
+      ],
+      [
+        "20260824",
         65.4
       ]
     ],
     "208286": [
       [
-        "20260807",
-        65.2
-      ],
-      [
         "20260808",
         65.2
       ],
@@ -14288,15 +14389,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        65.3
+      ],
+      [
+        "20260824",
         65.3
       ]
     ],
     "144869": [
       [
-        "20260807",
-        65.2
-      ],
-      [
         "20260808",
         65.2
       ],
@@ -14358,15 +14459,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        65.0
+      ],
+      [
+        "20260824",
         65.0
       ]
     ],
     "208363": [
       [
-        "20260807",
-        64.4
-      ],
-      [
         "20260808",
         64.4
       ],
@@ -14428,15 +14529,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        64.4
+      ],
+      [
+        "20260824",
         64.4
       ]
     ],
     "209414": [
       [
-        "20260807",
-        64.8
-      ],
-      [
         "20260808",
         64.8
       ],
@@ -14498,15 +14599,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        64.3
+      ],
+      [
+        "20260824",
         64.3
       ]
     ],
     "134868": [
       [
-        "20260807",
-        62.8
-      ],
-      [
         "20260808",
         62.8
       ],
@@ -14568,15 +14669,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        64.3
+      ],
+      [
+        "20260824",
         64.3
       ]
     ],
     "209920": [
       [
-        "20260807",
-        64.1
-      ],
-      [
         "20260808",
         64.1
       ],
@@ -14638,15 +14739,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        64.1
+      ],
+      [
+        "20260824",
         64.1
       ]
     ],
     "144719": [
       [
-        "20260807",
-        64.3
-      ],
-      [
         "20260808",
         64.3
       ],
@@ -14708,15 +14809,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        64.1
+      ],
+      [
+        "20260824",
         64.1
       ]
     ],
     "210084": [
       [
-        "20260807",
-        63.0
-      ],
-      [
         "20260808",
         63.0
       ],
@@ -14778,15 +14879,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        63.2
+      ],
+      [
+        "20260824",
         63.2
       ]
     ],
     "128034": [
       [
-        "20260807",
-        62.7
-      ],
-      [
         "20260808",
         62.7
       ],
@@ -14848,15 +14949,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        63.0
+      ],
+      [
+        "20260824",
         63.0
       ]
     ],
     "209098": [
       [
-        "20260807",
-        62.9
-      ],
-      [
         "20260808",
         62.9
       ],
@@ -14918,15 +15019,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        62.9
+      ],
+      [
+        "20260824",
         62.9
       ]
     ],
     "105870": [
       [
-        "20260807",
-        62.0
-      ],
-      [
         "20260808",
         62.0
       ],
@@ -14988,15 +15089,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        62.2
+      ],
+      [
+        "20260824",
         62.2
       ]
     ],
     "200267": [
       [
-        "20260807",
-        62.1
-      ],
-      [
         "20260808",
         62.1
       ],
@@ -15058,15 +15159,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        62.1
+      ],
+      [
+        "20260824",
         62.1
       ]
     ],
     "132686": [
       [
-        "20260807",
-        61.2
-      ],
-      [
         "20260808",
         61.2
       ],
@@ -15128,15 +15229,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        62.1
+      ],
+      [
+        "20260824",
         62.1
       ]
     ],
     "122298": [
       [
-        "20260807",
-        60.5
-      ],
-      [
         "20260808",
         60.5
       ],
@@ -15198,15 +15299,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        61.7
+      ],
+      [
+        "20260824",
         61.7
       ]
     ],
     "209226": [
       [
-        "20260807",
-        61.9
-      ],
-      [
         "20260808",
         61.9
       ],
@@ -15268,15 +15369,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        61.4
+      ],
+      [
+        "20260824",
         61.4
       ]
     ],
     "120770": [
       [
-        "20260807",
-        57.8
-      ],
-      [
         "20260808",
         57.8
       ],
@@ -15338,15 +15439,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        60.5
+      ],
+      [
+        "20260824",
         60.5
       ]
     ],
     "207678": [
       [
-        "20260807",
-        60.3
-      ],
-      [
         "20260808",
         60.3
       ],
@@ -15408,15 +15509,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        60.5
+      ],
+      [
+        "20260824",
         60.5
       ]
     ],
     "209279": [
       [
-        "20260807",
-        59.8
-      ],
-      [
         "20260808",
         59.8
       ],
@@ -15478,15 +15579,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        60.0
+      ],
+      [
+        "20260824",
         60.0
       ]
     ],
     "202104": [
       [
-        "20260807",
-        60.2
-      ],
-      [
         "20260808",
         60.2
       ],
@@ -15548,15 +15649,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        59.7
+      ],
+      [
+        "20260824",
         59.7
       ]
     ],
     "144895": [
       [
-        "20260807",
-        59.9
-      ],
-      [
         "20260808",
         59.9
       ],
@@ -15618,15 +15719,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        59.7
+      ],
+      [
+        "20260824",
         59.7
       ]
     ],
     "133430": [
       [
-        "20260807",
-        60.0
-      ],
-      [
         "20260808",
         60.0
       ],
@@ -15688,15 +15789,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        59.4
+      ],
+      [
+        "20260824",
         59.4
       ]
     ],
     "200240": [
       [
-        "20260807",
-        59.4
-      ],
-      [
         "20260808",
         59.4
       ],
@@ -15758,15 +15859,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        59.4
+      ],
+      [
+        "20260824",
         59.4
       ]
     ],
     "206681": [
       [
-        "20260807",
-        59.5
-      ],
-      [
         "20260808",
         59.5
       ],
@@ -15828,15 +15929,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        59.3
+      ],
+      [
+        "20260824",
         59.3
       ]
     ],
     "208882": [
       [
-        "20260807",
-        59.4
-      ],
-      [
         "20260808",
         59.4
       ],
@@ -15898,15 +15999,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        58.9
+      ],
+      [
+        "20260824",
         58.9
       ]
     ],
     "202385": [
       [
-        "20260807",
-        58.5
-      ],
-      [
         "20260808",
         58.5
       ],
@@ -15968,15 +16069,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        58.5
+      ],
+      [
+        "20260824",
         58.5
       ]
     ],
     "208118": [
       [
-        "20260807",
-        58.5
-      ],
-      [
         "20260808",
         58.5
       ],
@@ -16038,15 +16139,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        58.5
+      ],
+      [
+        "20260824",
         58.5
       ]
     ],
     "111460": [
       [
-        "20260807",
-        58.6
-      ],
-      [
         "20260808",
         58.6
       ],
@@ -16108,15 +16209,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        58.3
+      ],
+      [
+        "20260824",
         58.3
       ]
     ],
     "105227": [
       [
-        "20260807",
-        57.7
-      ],
-      [
         "20260808",
         57.7
       ],
@@ -16178,15 +16279,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        58.2
+      ],
+      [
+        "20260824",
         58.2
       ]
     ],
     "111794": [
       [
-        "20260807",
-        57.9
-      ],
-      [
         "20260808",
         57.9
       ],
@@ -16248,15 +16349,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        57.8
+      ],
+      [
+        "20260824",
         57.8
       ]
     ],
     "126504": [
       [
-        "20260807",
-        57.5
-      ],
-      [
         "20260808",
         57.5
       ],
@@ -16318,15 +16419,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        57.5
+      ],
+      [
+        "20260824",
         57.5
       ]
     ],
     "105526": [
       [
-        "20260807",
-        57.6
-      ],
-      [
         "20260808",
         57.6
       ],
@@ -16388,15 +16489,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        57.4
+      ],
+      [
+        "20260824",
         57.4
       ]
     ],
     "105916": [
       [
-        "20260807",
-        57.3
-      ],
-      [
         "20260808",
         57.3
       ],
@@ -16458,15 +16559,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        57.4
+      ],
+      [
+        "20260824",
         57.4
       ]
     ],
     "200059": [
       [
-        "20260807",
-        57.4
-      ],
-      [
         "20260808",
         57.4
       ],
@@ -16528,15 +16629,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        57.4
+      ],
+      [
+        "20260824",
         57.4
       ]
     ],
     "211776": [
       [
-        "20260807",
-        57.6
-      ],
-      [
         "20260808",
         57.6
       ],
@@ -16598,15 +16699,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        57.3
+      ],
+      [
+        "20260824",
         57.3
       ]
     ],
     "210338": [
       [
-        "20260807",
-        57.0
-      ],
-      [
         "20260808",
         57.0
       ],
@@ -16668,15 +16769,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        56.6
+      ],
+      [
+        "20260824",
         56.6
       ]
     ],
     "208169": [
       [
-        "20260807",
-        56.6
-      ],
-      [
         "20260808",
         56.6
       ],
@@ -16738,15 +16839,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        56.6
+      ],
+      [
+        "20260824",
         56.6
       ]
     ],
     "200116": [
       [
-        "20260807",
-        56.2
-      ],
-      [
         "20260808",
         56.2
       ],
@@ -16808,15 +16909,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        56.2
+      ],
+      [
+        "20260824",
         56.2
       ]
     ],
     "200175": [
       [
-        "20260807",
-        56.3
-      ],
-      [
         "20260808",
         56.3
       ],
@@ -16878,15 +16979,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        55.9
+      ],
+      [
+        "20260824",
         55.9
       ]
     ],
     "105807": [
       [
-        "20260807",
-        56.1
-      ],
-      [
         "20260808",
         56.1
       ],
@@ -16948,15 +17049,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        55.7
+      ],
+      [
+        "20260824",
         55.7
       ]
     ],
     "210262": [
       [
-        "20260807",
-        55.4
-      ],
-      [
         "20260808",
         55.4
       ],
@@ -17018,15 +17119,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        55.4
+      ],
+      [
+        "20260824",
         55.4
       ]
     ],
     "209113": [
       [
-        "20260807",
-        55.4
-      ],
-      [
         "20260808",
         55.4
       ],
@@ -17088,15 +17189,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        55.4
+      ],
+      [
+        "20260824",
         55.4
       ]
     ],
     "208010": [
       [
-        "20260807",
-        55.2
-      ],
-      [
         "20260808",
         55.2
       ],
@@ -17158,15 +17259,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        55.2
+      ],
+      [
+        "20260824",
         55.2
       ]
     ],
     "106218": [
       [
-        "20260807",
-        55.2
-      ],
-      [
         "20260808",
         55.2
       ],
@@ -17228,15 +17329,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        55.0
+      ],
+      [
+        "20260824",
         55.0
       ]
     ],
     "208260": [
       [
-        "20260807",
-        54.6
-      ],
-      [
         "20260808",
         54.6
       ],
@@ -17298,15 +17399,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        55.0
+      ],
+      [
+        "20260824",
         55.0
       ]
     ],
     "200624": [
       [
-        "20260807",
-        56.5
-      ],
-      [
         "20260808",
         56.5
       ],
@@ -17368,15 +17469,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        54.9
+      ],
+      [
+        "20260824",
         54.9
       ]
     ],
     "209976": [
       [
-        "20260807",
-        55.0
-      ],
-      [
         "20260808",
         55.0
       ],
@@ -17438,15 +17539,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        54.7
+      ],
+      [
+        "20260824",
         54.7
       ]
     ],
     "127157": [
       [
-        "20260807",
-        55.0
-      ],
-      [
         "20260808",
         55.0
       ],
@@ -17508,15 +17609,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        54.4
+      ],
+      [
+        "20260824",
         54.4
       ]
     ],
     "208597": [
       [
-        "20260807",
-        54.4
-      ],
-      [
         "20260808",
         54.4
       ],
@@ -17578,15 +17679,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        54.3
+      ],
+      [
+        "20260824",
         54.3
       ]
     ],
     "132283": [
       [
-        "20260807",
-        54.2
-      ],
-      [
         "20260808",
         54.2
       ],
@@ -17648,15 +17749,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        54.2
+      ],
+      [
+        "20260824",
         54.2
       ]
     ],
     "200615": [
       [
-        "20260807",
-        54.0
-      ],
-      [
         "20260808",
         54.0
       ],
@@ -17718,15 +17819,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        54.0
+      ],
+      [
+        "20260824",
         54.0
       ]
     ],
     "105173": [
       [
-        "20260807",
-        54.5
-      ],
-      [
         "20260808",
         54.5
       ],
@@ -17788,15 +17889,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        53.9
+      ],
+      [
+        "20260824",
         53.9
       ]
     ],
     "209147": [
       [
-        "20260807",
-        53.9
-      ],
-      [
         "20260808",
         53.9
       ],
@@ -17858,15 +17959,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        53.9
+      ],
+      [
+        "20260824",
         53.9
       ]
     ],
     "206736": [
       [
-        "20260807",
-        53.7
-      ],
-      [
         "20260808",
         53.7
       ],
@@ -17928,15 +18029,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        53.7
+      ],
+      [
+        "20260824",
         53.7
       ]
     ],
     "210167": [
       [
-        "20260807",
-        53.7
-      ],
-      [
         "20260814",
         53.7
       ],
@@ -17974,15 +18075,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        53.7
+      ],
+      [
+        "20260824",
         53.7
       ]
     ],
     "126127": [
       [
-        "20260807",
-        53.5
-      ],
-      [
         "20260808",
         53.5
       ],
@@ -18044,15 +18145,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        53.5
+      ],
+      [
+        "20260824",
         53.5
       ]
     ],
     "105882": [
       [
-        "20260807",
-        53.5
-      ],
-      [
         "20260808",
         53.5
       ],
@@ -18114,15 +18215,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        53.5
+      ],
+      [
+        "20260824",
         53.5
       ]
     ],
     "207686": [
       [
-        "20260807",
-        53.4
-      ],
-      [
         "20260808",
         53.4
       ],
@@ -18184,15 +18285,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        53.4
+      ],
+      [
+        "20260824",
         53.4
       ]
     ],
     "207411": [
       [
-        "20260807",
-        53.4
-      ],
-      [
         "20260808",
         53.4
       ],
@@ -18254,15 +18355,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        53.4
+      ],
+      [
+        "20260824",
         53.4
       ]
     ],
     "124187": [
       [
-        "20260807",
-        53.1
-      ],
-      [
         "20260808",
         53.1
       ],
@@ -18324,15 +18425,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        53.1
+      ],
+      [
+        "20260824",
         53.1
       ]
     ],
     "207494": [
       [
-        "20260807",
-        53.0
-      ],
-      [
         "20260808",
         53.0
       ],
@@ -18394,15 +18495,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        53.0
+      ],
+      [
+        "20260824",
         53.0
       ]
     ],
     "208233": [
       [
-        "20260807",
-        52.8
-      ],
-      [
         "20260808",
         52.8
       ],
@@ -18464,15 +18565,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        52.7
+      ],
+      [
+        "20260824",
         52.7
       ]
     ],
     "105777": [
       [
-        "20260807",
-        52.2
-      ],
-      [
         "20260808",
         52.2
       ],
@@ -18534,15 +18635,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        52.2
+      ],
+      [
+        "20260824",
         52.2
       ]
     ],
     "105477": [
       [
-        "20260807",
-        52.3
-      ],
-      [
         "20260808",
         52.3
       ],
@@ -18604,15 +18705,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        52.1
+      ],
+      [
+        "20260824",
         52.1
       ]
     ],
     "208029": [
       [
-        "20260807",
-        52.3
-      ],
-      [
         "20260808",
         52.3
       ],
@@ -18674,15 +18775,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        52.1
+      ],
+      [
+        "20260824",
         52.1
       ]
     ],
     "124186": [
       [
-        "20260807",
-        51.8
-      ],
-      [
         "20260808",
         51.8
       ],
@@ -18744,15 +18845,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        51.8
+      ],
+      [
+        "20260824",
         51.8
       ]
     ],
     "210116": [
       [
-        "20260807",
-        51.7
-      ],
-      [
         "20260808",
         51.7
       ],
@@ -18814,15 +18915,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        51.7
+      ],
+      [
+        "20260824",
         51.7
       ]
     ],
     "210319": [
       [
-        "20260807",
-        52.4
-      ],
-      [
         "20260808",
         52.4
       ],
@@ -18884,15 +18985,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        51.6
+      ],
+      [
+        "20260824",
         51.6
       ]
     ],
     "206499": [
       [
-        "20260807",
-        51.3
-      ],
-      [
         "20260808",
         51.3
       ],
@@ -18954,15 +19055,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        51.2
+      ],
+      [
+        "20260824",
         51.2
       ]
     ],
     "102093": [
       [
-        "20260807",
-        50.3
-      ],
-      [
         "20260808",
         50.3
       ],
@@ -19024,15 +19125,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        51.0
+      ],
+      [
+        "20260824",
         51.0
       ]
     ],
     "207680": [
       [
-        "20260807",
-        51.0
-      ],
-      [
         "20260808",
         51.0
       ],
@@ -19094,15 +19195,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        50.7
+      ],
+      [
+        "20260824",
         50.7
       ]
     ],
     "105932": [
       [
-        "20260807",
-        50.6
-      ],
-      [
         "20260808",
         50.6
       ],
@@ -19164,15 +19265,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        50.6
+      ],
+      [
+        "20260824",
         50.6
       ]
     ],
     "210460": [
       [
-        "20260807",
-        50.6
-      ],
-      [
         "20260808",
         50.6
       ],
@@ -19234,15 +19335,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        50.6
+      ],
+      [
+        "20260824",
         50.6
       ]
     ],
     "207681": [
       [
-        "20260807",
-        50.2
-      ],
-      [
         "20260808",
         50.2
       ],
@@ -19304,15 +19405,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        50.2
+      ],
+      [
+        "20260824",
         50.2
       ]
     ],
     "207182": [
       [
-        "20260807",
-        49.8
-      ],
-      [
         "20260808",
         49.8
       ],
@@ -19374,15 +19475,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        49.8
+      ],
+      [
+        "20260824",
         49.8
       ]
     ],
     "208659": [
       [
-        "20260807",
-        49.8
-      ],
-      [
         "20260808",
         49.8
       ],
@@ -19444,15 +19545,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        49.6
+      ],
+      [
+        "20260824",
         49.6
       ]
     ],
     "126128": [
       [
-        "20260807",
-        48.8
-      ],
-      [
         "20260808",
         48.8
       ],
@@ -19514,15 +19615,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        48.8
+      ],
+      [
+        "20260824",
         48.8
       ]
     ],
     "208014": [
       [
-        "20260807",
-        48.8
-      ],
-      [
         "20260808",
         48.8
       ],
@@ -19584,15 +19685,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        48.5
+      ],
+      [
+        "20260824",
         48.5
       ]
     ],
     "200443": [
       [
-        "20260807",
-        48.6
-      ],
-      [
         "20260808",
         48.6
       ],
@@ -19654,15 +19755,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        48.4
+      ],
+      [
+        "20260824",
         48.4
       ]
     ],
     "209259": [
       [
-        "20260807",
-        48.4
-      ],
-      [
         "20260808",
         48.4
       ],
@@ -19724,15 +19825,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        48.3
+      ],
+      [
+        "20260824",
         48.3
       ]
     ],
     "106000": [
       [
-        "20260807",
-        48.0
-      ],
-      [
         "20260808",
         48.0
       ],
@@ -19794,15 +19895,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        48.0
+      ],
+      [
+        "20260824",
         48.0
       ]
     ],
     "207985": [
       [
-        "20260807",
-        47.9
-      ],
-      [
         "20260808",
         47.9
       ],
@@ -19864,15 +19965,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        47.9
+      ],
+      [
+        "20260824",
         47.9
       ]
     ],
     "208021": [
       [
-        "20260807",
-        47.9
-      ],
-      [
         "20260808",
         47.9
       ],
@@ -19934,15 +20035,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        47.9
+      ],
+      [
+        "20260824",
         47.9
       ]
     ],
     "200514": [
       [
-        "20260807",
-        47.8
-      ],
-      [
         "20260808",
         47.8
       ],
@@ -20004,15 +20105,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        47.8
+      ],
+      [
+        "20260824",
         47.8
       ]
     ],
     "210389": [
       [
-        "20260807",
-        47.6
-      ],
-      [
         "20260808",
         47.6
       ],
@@ -20074,15 +20175,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        47.6
+      ],
+      [
+        "20260824",
         47.6
       ]
     ],
     "106426": [
       [
-        "20260807",
-        47.3
-      ],
-      [
         "20260808",
         47.3
       ],
@@ -20144,15 +20245,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        47.3
+      ],
+      [
+        "20260824",
         47.3
       ]
     ],
     "105902": [
       [
-        "20260807",
-        46.9
-      ],
-      [
         "20260808",
         46.9
       ],
@@ -20214,15 +20315,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        46.9
+      ],
+      [
+        "20260824",
         46.9
       ]
     ],
     "126846": [
       [
-        "20260807",
-        45.7
-      ],
-      [
         "20260808",
         45.7
       ],
@@ -20284,15 +20385,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        45.8
+      ],
+      [
+        "20260824",
         45.8
       ]
     ],
     "208316": [
       [
-        "20260807",
-        45.4
-      ],
-      [
         "20260808",
         45.4
       ],
@@ -20354,15 +20455,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        45.4
+      ],
+      [
+        "20260824",
         45.4
       ]
     ],
     "210012": [
       [
-        "20260807",
-        44.8
-      ],
-      [
         "20260808",
         44.8
       ],
@@ -20424,15 +20525,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        44.8
+      ],
+      [
+        "20260824",
         44.8
       ]
     ],
     "104527": [
       [
-        "20260807",
-        44.5
-      ],
-      [
         "20260808",
         44.5
       ],
@@ -20494,15 +20595,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        44.5
+      ],
+      [
+        "20260824",
         44.5
       ]
     ],
     "209857": [
       [
-        "20260807",
-        44.3
-      ],
-      [
         "20260808",
         44.3
       ],
@@ -20564,15 +20665,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        44.3
+      ],
+      [
+        "20260824",
         44.3
       ]
     ],
     "209070": [
       [
-        "20260807",
-        44.3
-      ],
-      [
         "20260808",
         44.3
       ],
@@ -20634,15 +20735,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        44.3
+      ],
+      [
+        "20260824",
         44.3
       ]
     ],
     "124116": [
       [
-        "20260807",
-        44.1
-      ],
-      [
         "20260808",
         44.1
       ],
@@ -20704,15 +20805,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        44.1
+      ],
+      [
+        "20260824",
         44.1
       ]
     ],
     "200384": [
       [
-        "20260807",
-        43.0
-      ],
-      [
         "20260808",
         43.0
       ],
@@ -20774,15 +20875,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        43.0
+      ],
+      [
+        "20260824",
         43.0
       ]
     ],
     "106198": [
       [
-        "20260807",
-        42.5
-      ],
-      [
         "20260808",
         42.5
       ],
@@ -20844,15 +20945,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        42.5
+      ],
+      [
+        "20260824",
         42.5
       ]
     ],
     "105583": [
       [
-        "20260807",
-        42.3
-      ],
-      [
         "20260808",
         42.3
       ],
@@ -20914,15 +21015,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        42.3
+      ],
+      [
+        "20260824",
         42.3
       ]
     ],
     "200516": [
       [
-        "20260807",
-        40.6
-      ],
-      [
         "20260808",
         40.6
       ],
@@ -20984,15 +21085,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        40.6
+      ],
+      [
+        "20260824",
         40.6
       ]
     ],
     "202261": [
       [
-        "20260807",
-        40.3
-      ],
-      [
         "20260808",
         40.3
       ],
@@ -21054,15 +21155,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        40.3
+      ],
+      [
+        "20260824",
         40.3
       ]
     ],
     "111456": [
       [
-        "20260807",
-        39.1
-      ],
-      [
         "20260808",
         39.1
       ],
@@ -21124,15 +21225,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        39.1
+      ],
+      [
+        "20260824",
         39.1
       ]
     ],
     "123828": [
       [
-        "20260807",
-        38.8
-      ],
-      [
         "20260808",
         38.8
       ],
@@ -21194,15 +21295,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        38.8
+      ],
+      [
+        "20260824",
         38.8
       ]
     ],
     "207608": [
       [
-        "20260807",
-        36.9
-      ],
-      [
         "20260808",
         36.9
       ],
@@ -21264,15 +21365,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        36.9
+      ],
+      [
+        "20260824",
         36.9
       ]
     ],
     "208013": [
       [
-        "20260807",
-        36.2
-      ],
-      [
         "20260808",
         36.2
       ],
@@ -21334,15 +21435,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        36.2
+      ],
+      [
+        "20260824",
         36.2
       ]
     ],
     "208361": [
       [
-        "20260807",
-        35.8
-      ],
-      [
         "20260808",
         35.8
       ],
@@ -21404,15 +21505,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        35.8
+      ],
+      [
+        "20260824",
         35.8
       ]
     ],
     "200647": [
       [
-        "20260807",
-        35.0
-      ],
-      [
         "20260808",
         35.0
       ],
@@ -21474,15 +21575,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        35.0
+      ],
+      [
+        "20260824",
         35.0
       ]
     ],
     "208278": [
       [
-        "20260807",
-        35.0
-      ],
-      [
         "20260808",
         35.0
       ],
@@ -21544,15 +21645,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        35.0
+      ],
+      [
+        "20260824",
         35.0
       ]
     ],
     "207352": [
       [
-        "20260807",
-        35.0
-      ],
-      [
         "20260808",
         35.0
       ],
@@ -21614,15 +21715,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        35.0
+      ],
+      [
+        "20260824",
         35.0
       ]
     ],
     "200436": [
       [
-        "20260807",
-        35.0
-      ],
-      [
         "20260808",
         35.0
       ],
@@ -21684,15 +21785,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        35.0
+      ],
+      [
+        "20260824",
         35.0
       ]
     ],
     "200711": [
       [
-        "20260807",
-        35.0
-      ],
-      [
         "20260808",
         35.0
       ],
@@ -21754,15 +21855,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        35.0
+      ],
+      [
+        "20260824",
         35.0
       ]
     ],
     "144642": [
       [
-        "20260807",
-        35.0
-      ],
-      [
         "20260808",
         35.0
       ],
@@ -21825,13 +21926,13 @@ window.TENNIS_DATA = {
       [
         "20260823",
         35.0
+      ],
+      [
+        "20260824",
+        35.0
       ]
     ],
     "212082": [
-      [
-        "20260807",
-        50.0
-      ],
       [
         "20260814",
         35.0
@@ -21870,6 +21971,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        35.0
+      ],
+      [
+        "20260824",
         35.0
       ]
     ]
@@ -21877,10 +21982,6 @@ window.TENNIS_DATA = {
   "WTA_SCORE_LOG": {
     "214544": [
       [
-        "20260807",
-        100.0
-      ],
-      [
         "20260808",
         100.0
       ],
@@ -21942,15 +22043,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        100.0
+      ],
+      [
+        "20260824",
         100.0
       ]
     ],
     "214981": [
       [
-        "20260807",
-        93.0
-      ],
-      [
         "20260808",
         93.0
       ],
@@ -22012,15 +22113,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        93.0
+      ],
+      [
+        "20260824",
         93.0
       ]
     ],
     "259799": [
       [
-        "20260807",
-        91.8
-      ],
-      [
         "20260808",
         91.8
       ],
@@ -22082,15 +22183,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        91.6
+      ],
+      [
+        "20260824",
         91.6
       ]
     ],
     "221103": [
       [
-        "20260807",
-        91.1
-      ],
-      [
         "20260808",
         91.1
       ],
@@ -22152,15 +22253,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        91.1
+      ],
+      [
+        "20260824",
         91.1
       ]
     ],
     "216347": [
       [
-        "20260807",
-        90.5
-      ],
-      [
         "20260808",
         90.5
       ],
@@ -22222,15 +22323,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        90.8
+      ],
+      [
+        "20260824",
         90.8
       ]
     ],
     "216146": [
       [
-        "20260807",
-        90.3
-      ],
-      [
         "20260808",
         90.3
       ],
@@ -22292,15 +22393,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        90.3
+      ],
+      [
+        "20260824",
         90.3
       ]
     ],
     "202468": [
       [
-        "20260807",
-        90.0
-      ],
-      [
         "20260808",
         90.0
       ],
@@ -22362,15 +22463,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        90.0
+      ],
+      [
+        "20260824",
         90.0
       ]
     ],
     "202494": [
       [
-        "20260807",
-        89.9
-      ],
-      [
         "20260808",
         89.9
       ],
@@ -22432,15 +22533,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        89.9
+      ],
+      [
+        "20260824",
         89.9
       ]
     ],
     "214096": [
       [
-        "20260807",
-        85.8
-      ],
-      [
         "20260808",
         85.8
       ],
@@ -22502,15 +22603,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        85.6
+      ],
+      [
+        "20260824",
         85.6
       ]
     ],
     "216153": [
       [
-        "20260807",
-        85.5
-      ],
-      [
         "20260808",
         85.5
       ],
@@ -22572,15 +22673,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        85.5
+      ],
+      [
+        "20260824",
         85.5
       ]
     ],
     "201514": [
       [
-        "20260807",
-        85.4
-      ],
-      [
         "20260808",
         85.4
       ],
@@ -22642,15 +22743,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        85.2
+      ],
+      [
+        "20260824",
         85.2
       ]
     ],
     "202505": [
       [
-        "20260807",
-        84.0
-      ],
-      [
         "20260808",
         84.0
       ],
@@ -22712,15 +22813,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        84.2
+      ],
+      [
+        "20260824",
         84.2
       ]
     ],
     "239475": [
       [
-        "20260807",
-        84.4
-      ],
-      [
         "20260808",
         84.4
       ],
@@ -22782,15 +22883,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        83.7
+      ],
+      [
+        "20260824",
         83.7
       ]
     ],
     "201619": [
       [
-        "20260807",
-        80.4
-      ],
-      [
         "20260808",
         80.4
       ],
@@ -22852,15 +22953,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        80.3
+      ],
+      [
+        "20260824",
         80.3
       ]
     ],
     "216081": [
       [
-        "20260807",
-        80.2
-      ],
-      [
         "20260808",
         80.2
       ],
@@ -22922,15 +23023,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        80.1
+      ],
+      [
+        "20260824",
         80.1
       ]
     ],
     "211768": [
       [
-        "20260807",
-        79.7
-      ],
-      [
         "20260808",
         79.7
       ],
@@ -22992,15 +23093,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        79.7
+      ],
+      [
+        "20260824",
         79.7
       ]
     ],
     "215713": [
       [
-        "20260807",
-        79.5
-      ],
-      [
         "20260808",
         79.5
       ],
@@ -23062,15 +23163,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        79.7
+      ],
+      [
+        "20260824",
         79.7
       ]
     ],
     "222328": [
       [
-        "20260807",
-        78.5
-      ],
-      [
         "20260808",
         78.5
       ],
@@ -23132,15 +23233,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        78.5
+      ],
+      [
+        "20260824",
         78.5
       ]
     ],
     "210722": [
       [
-        "20260807",
-        76.1
-      ],
-      [
         "20260808",
         76.1
       ],
@@ -23202,15 +23303,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        76.4
+      ],
+      [
+        "20260824",
         76.4
       ]
     ],
     "214939": [
       [
-        "20260807",
-        76.1
-      ],
-      [
         "20260808",
         76.1
       ],
@@ -23272,15 +23373,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        76.1
+      ],
+      [
+        "20260824",
         76.1
       ]
     ],
     "260300": [
       [
-        "20260807",
-        75.7
-      ],
-      [
         "20260808",
         75.7
       ],
@@ -23342,15 +23443,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        75.7
+      ],
+      [
+        "20260824",
         75.7
       ]
     ],
     "223670": [
       [
-        "20260807",
-        75.3
-      ],
-      [
         "20260808",
         75.3
       ],
@@ -23412,15 +23513,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        75.6
+      ],
+      [
+        "20260824",
         75.6
       ]
     ],
     "201662": [
       [
-        "20260807",
-        73.7
-      ],
-      [
         "20260808",
         73.7
       ],
@@ -23482,15 +23583,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        74.8
+      ],
+      [
+        "20260824",
         74.8
       ]
     ],
     "211148": [
       [
-        "20260807",
-        73.6
-      ],
-      [
         "20260808",
         73.6
       ],
@@ -23552,15 +23653,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        73.6
+      ],
+      [
+        "20260824",
         73.6
       ]
     ],
     "206252": [
       [
-        "20260807",
-        72.3
-      ],
-      [
         "20260808",
         72.3
       ],
@@ -23622,15 +23723,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        72.3
+      ],
+      [
+        "20260824",
         72.3
       ]
     ],
     "213631": [
       [
-        "20260807",
-        71.8
-      ],
-      [
         "20260808",
         71.8
       ],
@@ -23692,15 +23793,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        71.5
+      ],
+      [
+        "20260824",
         71.5
       ]
     ],
     "211533": [
       [
-        "20260807",
-        71.2
-      ],
-      [
         "20260808",
         71.2
       ],
@@ -23762,15 +23863,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        71.0
+      ],
+      [
+        "20260824",
         71.0
       ]
     ],
     "215613": [
       [
-        "20260807",
-        70.8
-      ],
-      [
         "20260808",
         70.8
       ],
@@ -23832,15 +23933,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        70.8
+      ],
+      [
+        "20260824",
         70.8
       ]
     ],
     "221024": [
       [
-        "20260807",
-        69.9
-      ],
-      [
         "20260808",
         69.9
       ],
@@ -23902,15 +24003,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        69.8
+      ],
+      [
+        "20260824",
         69.8
       ]
     ],
     "206420": [
       [
-        "20260807",
-        68.8
-      ],
-      [
         "20260808",
         68.8
       ],
@@ -23972,15 +24073,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        68.9
+      ],
+      [
+        "20260824",
         68.9
       ]
     ],
     "223253": [
       [
-        "20260807",
-        68.8
-      ],
-      [
         "20260808",
         68.8
       ],
@@ -24042,15 +24143,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        68.8
+      ],
+      [
+        "20260824",
         68.8
       ]
     ],
     "211713": [
       [
-        "20260807",
-        67.8
-      ],
-      [
         "20260808",
         67.8
       ],
@@ -24112,15 +24213,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        67.6
+      ],
+      [
+        "20260824",
         67.6
       ]
     ],
     "220367": [
       [
-        "20260807",
-        67.0
-      ],
-      [
         "20260808",
         67.0
       ],
@@ -24182,15 +24283,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        67.4
+      ],
+      [
+        "20260824",
         67.4
       ]
     ],
     "220548": [
       [
-        "20260807",
-        66.5
-      ],
-      [
         "20260808",
         66.5
       ],
@@ -24252,15 +24353,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        67.0
+      ],
+      [
+        "20260824",
         67.0
       ]
     ],
     "215983": [
       [
-        "20260807",
-        66.5
-      ],
-      [
         "20260808",
         66.5
       ],
@@ -24322,15 +24423,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        66.8
+      ],
+      [
+        "20260824",
         66.8
       ]
     ],
     "221012": [
       [
-        "20260807",
-        66.4
-      ],
-      [
         "20260808",
         66.4
       ],
@@ -24392,15 +24493,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        66.4
+      ],
+      [
+        "20260824",
         66.4
       ]
     ],
     "215785": [
       [
-        "20260807",
-        65.5
-      ],
-      [
         "20260808",
         65.5
       ],
@@ -24462,15 +24563,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        66.2
+      ],
+      [
+        "20260824",
         66.2
       ]
     ],
     "220520": [
       [
-        "20260807",
-        66.9
-      ],
-      [
         "20260808",
         66.9
       ],
@@ -24532,15 +24633,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        65.6
+      ],
+      [
+        "20260824",
         65.6
       ]
     ],
     "206289": [
       [
-        "20260807",
-        65.3
-      ],
-      [
         "20260808",
         65.3
       ],
@@ -24602,15 +24703,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        65.4
+      ],
+      [
+        "20260824",
         65.4
       ]
     ],
     "223360": [
       [
-        "20260807",
-        64.2
-      ],
-      [
         "20260808",
         64.2
       ],
@@ -24672,15 +24773,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        64.6
+      ],
+      [
+        "20260824",
         64.6
       ]
     ],
     "220704": [
       [
-        "20260807",
-        65.8
-      ],
-      [
         "20260808",
         65.8
       ],
@@ -24742,15 +24843,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        64.3
+      ],
+      [
+        "20260824",
         64.3
       ]
     ],
     "220716": [
       [
-        "20260807",
-        64.3
-      ],
-      [
         "20260808",
         64.3
       ],
@@ -24812,15 +24913,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        64.0
+      ],
+      [
+        "20260824",
         64.0
       ]
     ],
     "239383": [
       [
-        "20260807",
-        63.4
-      ],
-      [
         "20260808",
         63.4
       ],
@@ -24882,15 +24983,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        63.7
+      ],
+      [
+        "20260824",
         63.7
       ]
     ],
     "266671": [
       [
-        "20260807",
-        63.7
-      ],
-      [
         "20260808",
         63.7
       ],
@@ -24952,15 +25053,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        63.7
+      ],
+      [
+        "20260824",
         63.7
       ]
     ],
     "214643": [
       [
-        "20260807",
-        61.8
-      ],
-      [
         "20260808",
         61.8
       ],
@@ -25022,15 +25123,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        63.4
+      ],
+      [
+        "20260824",
         63.4
       ]
     ],
     "220348": [
       [
-        "20260807",
-        63.2
-      ],
-      [
         "20260808",
         63.2
       ],
@@ -25092,15 +25193,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        62.9
+      ],
+      [
+        "20260824",
         62.9
       ]
     ],
     "211107": [
       [
-        "20260807",
-        62.6
-      ],
-      [
         "20260808",
         62.6
       ],
@@ -25162,15 +25263,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        62.8
+      ],
+      [
+        "20260824",
         62.8
       ]
     ],
     "211337": [
       [
-        "20260807",
-        62.7
-      ],
-      [
         "20260808",
         62.7
       ],
@@ -25232,15 +25333,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        62.7
+      ],
+      [
+        "20260824",
         62.7
       ]
     ],
     "220714": [
       [
-        "20260807",
-        62.8
-      ],
-      [
         "20260808",
         62.8
       ],
@@ -25302,15 +25403,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        62.6
+      ],
+      [
+        "20260824",
         62.6
       ]
     ],
     "202663": [
       [
-        "20260807",
-        61.7
-      ],
-      [
         "20260808",
         61.7
       ],
@@ -25372,15 +25473,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        62.5
+      ],
+      [
+        "20260824",
         62.5
       ]
     ],
     "211701": [
       [
-        "20260807",
-        63.2
-      ],
-      [
         "20260808",
         63.2
       ],
@@ -25442,15 +25543,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        62.3
+      ],
+      [
+        "20260824",
         62.3
       ]
     ],
     "220750": [
       [
-        "20260807",
-        62.5
-      ],
-      [
         "20260808",
         62.5
       ],
@@ -25512,15 +25613,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        62.3
+      ],
+      [
+        "20260824",
         62.3
       ]
     ],
     "221054": [
       [
-        "20260807",
-        63.5
-      ],
-      [
         "20260808",
         63.5
       ],
@@ -25582,15 +25683,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        62.3
+      ],
+      [
+        "20260824",
         62.3
       ]
     ],
     "211843": [
       [
-        "20260807",
-        61.2
-      ],
-      [
         "20260808",
         61.2
       ],
@@ -25652,15 +25753,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        61.6
+      ],
+      [
+        "20260824",
         61.6
       ]
     ],
     "260172": [
       [
-        "20260807",
-        61.5
-      ],
-      [
         "20260808",
         61.5
       ],
@@ -25722,15 +25823,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        61.3
+      ],
+      [
+        "20260824",
         61.3
       ]
     ],
     "233741": [
       [
-        "20260807",
-        59.6
-      ],
-      [
         "20260808",
         59.6
       ],
@@ -25792,15 +25893,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        60.7
+      ],
+      [
+        "20260824",
         60.7
       ]
     ],
     "230319": [
       [
-        "20260807",
-        59.4
-      ],
-      [
         "20260808",
         59.4
       ],
@@ -25862,15 +25963,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        60.1
+      ],
+      [
+        "20260824",
         60.1
       ]
     ],
     "202499": [
       [
-        "20260807",
-        59.7
-      ],
-      [
         "20260808",
         59.7
       ],
@@ -25932,15 +26033,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        59.9
+      ],
+      [
+        "20260824",
         59.9
       ]
     ],
     "238184": [
       [
-        "20260807",
-        59.5
-      ],
-      [
         "20260808",
         59.5
       ],
@@ -26002,15 +26103,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        59.8
+      ],
+      [
+        "20260824",
         59.8
       ]
     ],
     "203501": [
       [
-        "20260807",
-        58.9
-      ],
-      [
         "20260808",
         58.9
       ],
@@ -26072,15 +26173,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        59.7
+      ],
+      [
+        "20260824",
         59.7
       ]
     ],
     "222045": [
       [
-        "20260807",
-        60.1
-      ],
-      [
         "20260808",
         60.1
       ],
@@ -26142,15 +26243,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        59.5
+      ],
+      [
+        "20260824",
         59.5
       ]
     ],
     "216083": [
       [
-        "20260807",
-        59.5
-      ],
-      [
         "20260808",
         59.5
       ],
@@ -26212,15 +26313,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        59.5
+      ],
+      [
+        "20260824",
         59.5
       ]
     ],
     "221909": [
       [
-        "20260807",
-        58.8
-      ],
-      [
         "20260808",
         58.8
       ],
@@ -26282,15 +26383,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        59.1
+      ],
+      [
+        "20260824",
         59.1
       ]
     ],
     "220309": [
       [
-        "20260807",
-        58.3
-      ],
-      [
         "20260808",
         58.3
       ],
@@ -26352,15 +26453,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        58.5
+      ],
+      [
+        "20260824",
         58.5
       ]
     ],
     "203530": [
       [
-        "20260807",
-        58.3
-      ],
-      [
         "20260808",
         58.3
       ],
@@ -26422,15 +26523,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        58.2
+      ],
+      [
+        "20260824",
         58.2
       ]
     ],
     "220332": [
       [
-        "20260807",
-        58.6
-      ],
-      [
         "20260808",
         58.6
       ],
@@ -26492,15 +26593,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        57.7
+      ],
+      [
+        "20260824",
         57.7
       ]
     ],
     "214954": [
       [
-        "20260807",
-        57.7
-      ],
-      [
         "20260808",
         57.7
       ],
@@ -26562,15 +26663,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        57.7
+      ],
+      [
+        "20260824",
         57.7
       ]
     ],
     "211817": [
       [
-        "20260807",
-        57.2
-      ],
-      [
         "20260808",
         57.2
       ],
@@ -26632,15 +26733,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        57.6
+      ],
+      [
+        "20260824",
         57.6
       ]
     ],
     "214388": [
       [
-        "20260807",
-        57.2
-      ],
-      [
         "20260808",
         57.2
       ],
@@ -26702,15 +26803,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        57.5
+      ],
+      [
+        "20260824",
         57.5
       ]
     ],
     "263857": [
       [
-        "20260807",
-        59.2
-      ],
-      [
         "20260808",
         59.2
       ],
@@ -26772,15 +26873,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        57.5
+      ],
+      [
+        "20260824",
         57.5
       ]
     ],
     "201696": [
       [
-        "20260807",
-        58.7
-      ],
-      [
         "20260808",
         58.7
       ],
@@ -26842,15 +26943,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        57.5
+      ],
+      [
+        "20260824",
         57.5
       ]
     ],
     "201533": [
       [
-        "20260807",
-        56.3
-      ],
-      [
         "20260808",
         56.3
       ],
@@ -26912,15 +27013,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        57.3
+      ],
+      [
+        "20260824",
         57.3
       ]
     ],
     "221333": [
       [
-        "20260807",
-        57.1
-      ],
-      [
         "20260808",
         57.1
       ],
@@ -26982,15 +27083,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        57.1
+      ],
+      [
+        "20260824",
         57.1
       ]
     ],
     "211684": [
       [
-        "20260807",
-        56.4
-      ],
-      [
         "20260808",
         56.4
       ],
@@ -27052,15 +27153,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        56.9
+      ],
+      [
+        "20260824",
         56.9
       ]
     ],
     "214082": [
       [
-        "20260807",
-        57.3
-      ],
-      [
         "20260808",
         57.3
       ],
@@ -27122,15 +27223,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        56.4
+      ],
+      [
+        "20260824",
         56.4
       ]
     ],
     "213710": [
       [
-        "20260807",
-        56.1
-      ],
-      [
         "20260808",
         56.1
       ],
@@ -27192,15 +27293,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        56.3
+      ],
+      [
+        "20260824",
         56.3
       ]
     ],
     "219917": [
       [
-        "20260807",
-        55.2
-      ],
-      [
         "20260808",
         55.2
       ],
@@ -27262,15 +27363,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        56.3
+      ],
+      [
+        "20260824",
         56.3
       ]
     ],
     "215035": [
       [
-        "20260807",
-        57.5
-      ],
-      [
         "20260808",
         57.5
       ],
@@ -27332,15 +27433,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        55.8
+      ],
+      [
+        "20260824",
         55.8
       ]
     ],
     "222145": [
       [
-        "20260807",
-        55.6
-      ],
-      [
         "20260808",
         55.6
       ],
@@ -27402,15 +27503,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        55.5
+      ],
+      [
+        "20260824",
         55.5
       ]
     ],
     "221883": [
       [
-        "20260807",
-        53.8
-      ],
-      [
         "20260808",
         53.8
       ],
@@ -27472,15 +27573,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        55.0
+      ],
+      [
+        "20260824",
         55.0
       ]
     ],
     "214040": [
       [
-        "20260807",
-        54.5
-      ],
-      [
         "20260808",
         54.5
       ],
@@ -27542,15 +27643,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        54.5
+      ],
+      [
+        "20260824",
         54.5
       ]
     ],
     "215910": [
       [
-        "20260807",
-        54.4
-      ],
-      [
         "20260808",
         54.4
       ],
@@ -27612,15 +27713,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        54.3
+      ],
+      [
+        "20260824",
         54.3
       ]
     ],
     "252499": [
       [
-        "20260807",
-        52.2
-      ],
-      [
         "20260808",
         52.2
       ],
@@ -27682,15 +27783,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        53.9
+      ],
+      [
+        "20260824",
         53.9
       ]
     ],
     "238075": [
       [
-        "20260807",
-        56.0
-      ],
-      [
         "20260808",
         56.0
       ],
@@ -27752,15 +27853,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        53.5
+      ],
+      [
+        "20260824",
         53.5
       ]
     ],
     "211651": [
       [
-        "20260807",
-        53.5
-      ],
-      [
         "20260808",
         53.5
       ],
@@ -27822,15 +27923,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        53.5
+      ],
+      [
+        "20260824",
         53.5
       ]
     ],
     "221354": [
       [
-        "20260807",
-        52.5
-      ],
-      [
         "20260808",
         52.5
       ],
@@ -27892,15 +27993,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        52.5
+      ],
+      [
+        "20260824",
         52.5
       ]
     ],
     "201709": [
       [
-        "20260807",
-        52.0
-      ],
-      [
         "20260808",
         52.0
       ],
@@ -27962,15 +28063,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        52.2
+      ],
+      [
+        "20260824",
         52.2
       ]
     ],
     "222601": [
       [
-        "20260807",
-        55.4
-      ],
-      [
         "20260808",
         55.4
       ],
@@ -28032,15 +28133,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        51.9
+      ],
+      [
+        "20260824",
         51.9
       ]
     ],
     "269714": [
       [
-        "20260807",
-        51.8
-      ],
-      [
         "20260808",
         51.8
       ],
@@ -28102,15 +28203,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        51.8
+      ],
+      [
+        "20260824",
         51.8
       ]
     ],
     "259871": [
       [
-        "20260807",
-        51.8
-      ],
-      [
         "20260808",
         51.8
       ],
@@ -28172,15 +28273,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        51.8
+      ],
+      [
+        "20260824",
         51.8
       ]
     ],
     "221803": [
       [
-        "20260807",
-        51.8
-      ],
-      [
         "20260814",
         51.8
       ],
@@ -28218,15 +28319,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        51.8
+      ],
+      [
+        "20260824",
         51.8
       ]
     ],
     "267020": [
       [
-        "20260807",
-        51.8
-      ],
-      [
         "20260808",
         51.8
       ],
@@ -28288,15 +28389,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        51.8
+      ],
+      [
+        "20260824",
         51.8
       ]
     ],
     "213887": [
       [
-        "20260807",
-        51.6
-      ],
-      [
         "20260808",
         51.6
       ],
@@ -28358,15 +28459,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        51.6
+      ],
+      [
+        "20260824",
         51.6
       ]
     ],
     "213550": [
       [
-        "20260807",
-        51.5
-      ],
-      [
         "20260808",
         51.5
       ],
@@ -28428,15 +28529,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        51.5
+      ],
+      [
+        "20260824",
         51.5
       ]
     ],
     "201548": [
       [
-        "20260807",
-        50.6
-      ],
-      [
         "20260808",
         50.6
       ],
@@ -28498,15 +28599,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        50.9
+      ],
+      [
+        "20260824",
         50.9
       ]
     ],
     "213583": [
       [
-        "20260807",
-        50.6
-      ],
-      [
         "20260808",
         50.6
       ],
@@ -28568,15 +28669,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        50.6
+      ],
+      [
+        "20260824",
         50.6
       ]
     ],
     "222966": [
       [
-        "20260807",
-        49.8
-      ],
-      [
         "20260808",
         49.8
       ],
@@ -28638,15 +28739,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        49.8
+      ],
+      [
+        "20260824",
         49.8
       ]
     ],
     "215453": [
       [
-        "20260807",
-        49.7
-      ],
-      [
         "20260808",
         49.7
       ],
@@ -28708,15 +28809,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        49.7
+      ],
+      [
+        "20260824",
         49.7
       ]
     ],
     "215872": [
       [
-        "20260807",
-        49.4
-      ],
-      [
         "20260808",
         49.4
       ],
@@ -28778,15 +28879,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        49.4
+      ],
+      [
+        "20260824",
         49.4
       ]
     ],
     "243420": [
       [
-        "20260807",
-        47.5
-      ],
-      [
         "20260808",
         47.5
       ],
@@ -28848,15 +28949,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        49.0
+      ],
+      [
+        "20260824",
         49.0
       ]
     ],
     "203514": [
       [
-        "20260807",
-        48.9
-      ],
-      [
         "20260808",
         48.9
       ],
@@ -28918,15 +29019,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        48.9
+      ],
+      [
+        "20260824",
         48.9
       ]
     ],
     "247669": [
       [
-        "20260807",
-        48.9
-      ],
-      [
         "20260808",
         48.9
       ],
@@ -28988,15 +29089,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        48.9
+      ],
+      [
+        "20260824",
         48.9
       ]
     ],
     "210622": [
       [
-        "20260807",
-        63.7
-      ],
-      [
         "20260814",
         48.7
       ],
@@ -29034,15 +29135,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        48.7
+      ],
+      [
+        "20260824",
         48.7
       ]
     ],
     "223194": [
       [
-        "20260807",
-        48.5
-      ],
-      [
         "20260808",
         48.5
       ],
@@ -29104,15 +29205,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        48.5
+      ],
+      [
+        "20260824",
         48.5
       ]
     ],
     "215306": [
       [
-        "20260807",
-        48.1
-      ],
-      [
         "20260808",
         48.1
       ],
@@ -29174,15 +29275,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        48.4
+      ],
+      [
+        "20260824",
         48.4
       ]
     ],
     "215020": [
       [
-        "20260807",
-        48.1
-      ],
-      [
         "20260808",
         48.1
       ],
@@ -29244,15 +29345,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        48.1
+      ],
+      [
+        "20260824",
         48.1
       ]
     ],
     "211685": [
       [
-        "20260807",
-        48.0
-      ],
-      [
         "20260808",
         48.0
       ],
@@ -29314,15 +29415,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        48.0
+      ],
+      [
+        "20260824",
         48.0
       ]
     ],
     "221407": [
       [
-        "20260807",
-        47.2
-      ],
-      [
         "20260808",
         47.2
       ],
@@ -29384,15 +29485,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        47.4
+      ],
+      [
+        "20260824",
         47.4
       ]
     ],
     "259733": [
       [
-        "20260807",
-        47.5
-      ],
-      [
         "20260808",
         47.5
       ],
@@ -29454,15 +29555,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        46.7
+      ],
+      [
+        "20260824",
         46.7
       ]
     ],
     "220465": [
       [
-        "20260807",
-        45.6
-      ],
-      [
         "20260808",
         45.6
       ],
@@ -29524,15 +29625,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        45.9
+      ],
+      [
+        "20260824",
         45.9
       ]
     ],
     "215899": [
       [
-        "20260807",
-        45.5
-      ],
-      [
         "20260808",
         45.5
       ],
@@ -29594,15 +29695,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        45.8
+      ],
+      [
+        "20260824",
         45.8
       ]
     ],
     "221039": [
       [
-        "20260807",
-        45.7
-      ],
-      [
         "20260808",
         45.7
       ],
@@ -29664,15 +29765,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        45.7
+      ],
+      [
+        "20260824",
         45.7
       ]
     ],
     "206368": [
       [
-        "20260807",
-        45.4
-      ],
-      [
         "20260808",
         45.4
       ],
@@ -29734,15 +29835,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        45.4
+      ],
+      [
+        "20260824",
         45.4
       ]
     ],
     "214906": [
       [
-        "20260807",
-        45.3
-      ],
-      [
         "20260808",
         45.3
       ],
@@ -29804,15 +29905,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        45.3
+      ],
+      [
+        "20260824",
         45.3
       ]
     ],
     "263644": [
       [
-        "20260807",
-        45.1
-      ],
-      [
         "20260808",
         45.1
       ],
@@ -29874,15 +29975,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        45.1
+      ],
+      [
+        "20260824",
         45.1
       ]
     ],
     "220435": [
       [
-        "20260807",
-        43.9
-      ],
-      [
         "20260808",
         43.9
       ],
@@ -29944,15 +30045,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        44.9
+      ],
+      [
+        "20260824",
         44.9
       ]
     ],
     "205925": [
       [
-        "20260807",
-        44.9
-      ],
-      [
         "20260808",
         44.9
       ],
@@ -30014,15 +30115,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        44.9
+      ],
+      [
+        "20260824",
         44.9
       ]
     ],
     "222661": [
       [
-        "20260807",
-        44.7
-      ],
-      [
         "20260808",
         44.7
       ],
@@ -30084,15 +30185,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        44.7
+      ],
+      [
+        "20260824",
         44.7
       ]
     ],
     "221257": [
       [
-        "20260807",
-        44.3
-      ],
-      [
         "20260808",
         44.3
       ],
@@ -30154,15 +30255,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        43.8
+      ],
+      [
+        "20260824",
         43.8
       ]
     ],
     "230870": [
       [
-        "20260807",
-        43.7
-      ],
-      [
         "20260808",
         43.7
       ],
@@ -30224,15 +30325,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        43.7
+      ],
+      [
+        "20260824",
         43.7
       ]
     ],
     "211539": [
       [
-        "20260807",
-        42.9
-      ],
-      [
         "20260808",
         42.9
       ],
@@ -30294,15 +30395,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        42.9
+      ],
+      [
+        "20260824",
         42.9
       ]
     ],
     "214459": [
       [
-        "20260807",
-        42.8
-      ],
-      [
         "20260808",
         42.8
       ],
@@ -30364,15 +30465,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        42.8
+      ],
+      [
+        "20260824",
         42.8
       ]
     ],
     "223286": [
       [
-        "20260807",
-        42.7
-      ],
-      [
         "20260808",
         42.7
       ],
@@ -30434,15 +30535,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        42.7
+      ],
+      [
+        "20260824",
         42.7
       ]
     ],
     "220722": [
       [
-        "20260807",
-        42.3
-      ],
-      [
         "20260808",
         42.3
       ],
@@ -30504,15 +30605,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        42.3
+      ],
+      [
+        "20260824",
         42.3
       ]
     ],
     "221237": [
       [
-        "20260807",
-        41.5
-      ],
-      [
         "20260808",
         41.5
       ],
@@ -30574,15 +30675,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        41.7
+      ],
+      [
+        "20260824",
         41.7
       ]
     ],
     "216016": [
       [
-        "20260807",
-        41.7
-      ],
-      [
         "20260808",
         41.7
       ],
@@ -30644,15 +30745,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        41.2
+      ],
+      [
+        "20260824",
         41.2
       ]
     ],
     "215936": [
       [
-        "20260807",
-        41.0
-      ],
-      [
         "20260808",
         41.0
       ],
@@ -30714,15 +30815,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        41.0
+      ],
+      [
+        "20260824",
         41.0
       ]
     ],
     "214593": [
       [
-        "20260807",
-        40.5
-      ],
-      [
         "20260808",
         40.5
       ],
@@ -30784,15 +30885,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        40.5
+      ],
+      [
+        "20260824",
         40.5
       ]
     ],
     "220416": [
       [
-        "20260807",
-        39.9
-      ],
-      [
         "20260808",
         39.9
       ],
@@ -30854,15 +30955,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        39.9
+      ],
+      [
+        "20260824",
         39.9
       ]
     ],
     "221406": [
       [
-        "20260807",
-        39.8
-      ],
-      [
         "20260808",
         39.8
       ],
@@ -30924,15 +31025,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        39.8
+      ],
+      [
+        "20260824",
         39.8
       ]
     ],
     "206417": [
       [
-        "20260807",
-        39.5
-      ],
-      [
         "20260808",
         39.5
       ],
@@ -30994,15 +31095,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        39.5
+      ],
+      [
+        "20260824",
         39.5
       ]
     ],
     "206294": [
       [
-        "20260807",
-        39.3
-      ],
-      [
         "20260808",
         39.3
       ],
@@ -31064,15 +31165,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        39.3
+      ],
+      [
+        "20260824",
         39.3
       ]
     ],
     "210886": [
       [
-        "20260807",
-        38.9
-      ],
-      [
         "20260808",
         38.9
       ],
@@ -31134,15 +31235,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        39.1
+      ],
+      [
+        "20260824",
         39.1
       ]
     ],
     "221124": [
       [
-        "20260807",
-        39.1
-      ],
-      [
         "20260808",
         39.1
       ],
@@ -31204,15 +31305,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        39.1
+      ],
+      [
+        "20260824",
         39.1
       ]
     ],
     "221985": [
       [
-        "20260807",
-        38.5
-      ],
-      [
         "20260808",
         38.5
       ],
@@ -31274,15 +31375,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        38.5
+      ],
+      [
+        "20260824",
         38.5
       ]
     ],
     "222290": [
       [
-        "20260807",
-        38.3
-      ],
-      [
         "20260808",
         38.3
       ],
@@ -31344,15 +31445,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        38.3
+      ],
+      [
+        "20260824",
         38.3
       ]
     ],
     "216566": [
       [
-        "20260807",
-        38.3
-      ],
-      [
         "20260808",
         38.3
       ],
@@ -31414,15 +31515,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        38.3
+      ],
+      [
+        "20260824",
         38.3
       ]
     ],
     "219875": [
       [
-        "20260807",
-        37.7
-      ],
-      [
         "20260808",
         37.7
       ],
@@ -31484,15 +31585,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        37.7
+      ],
+      [
+        "20260824",
         37.7
       ]
     ],
     "220662": [
       [
-        "20260807",
-        37.6
-      ],
-      [
         "20260808",
         37.6
       ],
@@ -31554,15 +31655,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        37.6
+      ],
+      [
+        "20260824",
         37.6
       ]
     ],
     "215037": [
       [
-        "20260807",
-        37.0
-      ],
-      [
         "20260808",
         37.0
       ],
@@ -31624,15 +31725,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        37.0
+      ],
+      [
+        "20260824",
         37.0
       ]
     ],
     "220742": [
       [
-        "20260807",
-        51.1
-      ],
-      [
         "20260814",
         36.1
       ],
@@ -31670,15 +31771,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        36.1
+      ],
+      [
+        "20260824",
         36.1
       ]
     ],
     "221307": [
       [
-        "20260807",
-        35.0
-      ],
-      [
         "20260808",
         35.0
       ],
@@ -31740,15 +31841,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        35.0
+      ],
+      [
+        "20260824",
         35.0
       ]
     ],
     "221236": [
       [
-        "20260807",
-        35.0
-      ],
-      [
         "20260808",
         35.0
       ],
@@ -31810,15 +31911,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        35.0
+      ],
+      [
+        "20260824",
         35.0
       ]
     ],
     "211814": [
       [
-        "20260807",
-        35.0
-      ],
-      [
         "20260808",
         35.0
       ],
@@ -31880,15 +31981,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        35.0
+      ],
+      [
+        "20260824",
         35.0
       ]
     ],
     "215138": [
       [
-        "20260807",
-        35.0
-      ],
-      [
         "20260808",
         35.0
       ],
@@ -31950,15 +32051,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        35.0
+      ],
+      [
+        "20260824",
         35.0
       ]
     ],
     "223168": [
       [
-        "20260807",
-        35.0
-      ],
-      [
         "20260808",
         35.0
       ],
@@ -32020,15 +32121,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        35.0
+      ],
+      [
+        "20260824",
         35.0
       ]
     ],
     "213666": [
       [
-        "20260807",
-        35.0
-      ],
-      [
         "20260808",
         35.0
       ],
@@ -32090,15 +32191,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        35.0
+      ],
+      [
+        "20260824",
         35.0
       ]
     ],
     "223333": [
       [
-        "20260807",
-        35.0
-      ],
-      [
         "20260808",
         35.0
       ],
@@ -32160,15 +32261,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        35.0
+      ],
+      [
+        "20260824",
         35.0
       ]
     ],
     "211279": [
       [
-        "20260807",
-        35.0
-      ],
-      [
         "20260808",
         35.0
       ],
@@ -32230,15 +32331,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        35.0
+      ],
+      [
+        "20260824",
         35.0
       ]
     ],
     "222233": [
       [
-        "20260807",
-        35.0
-      ],
-      [
         "20260808",
         35.0
       ],
@@ -32300,6 +32401,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260823",
+        35.0
+      ],
+      [
+        "20260824",
         35.0
       ]
     ]
