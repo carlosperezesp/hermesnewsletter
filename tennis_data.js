@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-24 05:56 UTC
+// Auto-generated 2026-08-24 07:35 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-24 05:56 UTC",
+  "UPDATED": "2026-08-24 07:35 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5725,10 +5725,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 79.7
     },
@@ -6509,7 +6509,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 64.6
@@ -7224,9 +7224,9 @@ window.TENNIS_DATA = {
       "prevListRank": 61,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
-        "state": "out",
+        "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 59.5
     },
@@ -9702,9 +9702,9 @@ window.TENNIS_DATA = {
       "prevListRank": 133,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
-        "state": "out",
+        "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 39.1
     },
@@ -11204,7 +11204,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Antonia Ruzic",
           "l_logo": "",
-          "score": "6-4 6-3",
+          "score": "In Progress",
           "day": "hoy",
           "scheduled": false,
           "w_score": 64.6,
@@ -11217,7 +11217,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mayar Sherif",
           "l_logo": "",
-          "score": "6-3 6-4",
+          "score": "In Progress",
           "day": "hoy",
           "scheduled": false,
           "w_score": 64.0,
@@ -11463,11 +11463,11 @@ window.TENNIS_DATA = {
     ],
     "alive": [
       "Alycia Parks",
-      "Anastasia Potapova",
       "Anastasia Zakharova",
       "Anhelina Kalinina",
       "Ann Li",
       "Anna Bondar",
+      "Antonia Ruzic",
       "Ariana Arseneault",
       "Ashlyn Krueger",
       "Camila Osorio",
@@ -11495,6 +11495,7 @@ window.TENNIS_DATA = {
       "Mananchaya Sawangkaew",
       "Maria Timofeeva",
       "Maya Joint",
+      "Mayar Sherif",
       "Mia Pohankova",
       "Nikola Bartunkova",
       "Oksana Selekhmeteva",
@@ -11515,15 +11516,13 @@ window.TENNIS_DATA = {
     "out": [
       "Anna Blinkova",
       "Anna Frey",
-      "Antonia Ruzic",
       "Ena Koike",
       "Hong Yi Cody Wong",
       "Lilli Tagger",
-      "Mayar Sherif",
       "Mell Reasco Gonzalez"
     ],
-    "aliveCount": 49,
-    "matchesSeen": 30
+    "aliveCount": 50,
+    "matchesSeen": 29
   },
   "ATP_SCORE_LOG": {
     "206173": [

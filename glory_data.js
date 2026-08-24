@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-24 05:56 UTC",
+  "UPDATED": "2026-08-24 07:35 UTC",
   "EVENTS": [
+    {
+      "id": "motogp:win:British motorcycle Grand Prix:Jorge Martín",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "text": "Jorge Martín ganó el British motorcycle Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-08-24"
+    },
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
       "sport": "nascar",
