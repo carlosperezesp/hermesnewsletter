@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-24 07:35 UTC
+// Auto-generated 2026-08-24 13:38 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-24 07:35 UTC",
+  "UPDATED": "2026-08-24 13:38 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5225,14 +5225,14 @@ window.TENNIS_DATA = {
     {
       "id": "259799",
       "name": "Mirra Andreeva",
-      "rank": 6,
-      "prevRank": 5,
+      "rank": 5,
+      "prevRank": 6,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 91.6,
+      "activeScore": 91.8,
       "legendScore": 50.0,
       "age": 19,
       "surface": {
@@ -5293,14 +5293,14 @@ window.TENNIS_DATA = {
     {
       "id": "216347",
       "name": "Iga Swiatek",
-      "rank": 5,
-      "prevRank": 8,
+      "rank": 8,
+      "prevRank": 5,
       "country": "POL",
       "logo": "https://flagcdn.com/24x18/pl.png",
       "teamCode": "POL",
       "primary": "#DC143C",
       "secondary": "#FFFFFF",
-      "activeScore": 90.8,
+      "activeScore": 90.5,
       "legendScore": 100.0,
       "age": 25,
       "surface": {
@@ -5430,7 +5430,7 @@ window.TENNIS_DATA = {
       "id": "214096",
       "name": "Karolina Muchova",
       "rank": 7,
-      "prevRank": 6,
+      "prevRank": 7,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -5497,14 +5497,14 @@ window.TENNIS_DATA = {
     {
       "id": "201514",
       "name": "Sorana Cirstea",
-      "rank": 19,
-      "prevRank": 18,
+      "rank": 17,
+      "prevRank": 19,
       "country": "ROU",
       "logo": "https://flagcdn.com/24x18/ro.png",
       "teamCode": "ROU",
       "primary": "#002B7F",
       "secondary": "#FFFFFF",
-      "activeScore": 85.2,
+      "activeScore": 85.5,
       "legendScore": 36.2,
       "age": 36,
       "surface": {
@@ -5532,7 +5532,7 @@ window.TENNIS_DATA = {
       "id": "202505",
       "name": "Belinda Bencic",
       "rank": 12,
-      "prevRank": 14,
+      "prevRank": 12,
       "country": "SUI",
       "logo": "https://flagcdn.com/24x18/ch.png",
       "teamCode": "SUI",
@@ -5565,14 +5565,14 @@ window.TENNIS_DATA = {
     {
       "id": "239475",
       "name": "Victoria Mboko",
-      "rank": 17,
-      "prevRank": 12,
+      "rank": 15,
+      "prevRank": 17,
       "country": "CAN",
       "logo": "https://flagcdn.com/24x18/ca.png",
       "teamCode": "CAN",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 83.7,
+      "activeScore": 84.0,
       "legendScore": 34.7,
       "age": 19,
       "surface": {
@@ -5597,50 +5597,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 83.7
     },
     {
-      "id": "201619",
-      "name": "Madison Keys",
-      "rank": 24,
-      "prevRank": 23,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 80.3,
-      "legendScore": 61.7,
-      "age": 31,
-      "surface": {
-        "hard": 0.711,
-        "clay": 0.696,
-        "grass": 0.571
-      },
-      "stats": {
-        "gs": 1,
-        "titles": 10,
-        "weeks_no1": 0,
-        "top10_wins": 34
-      },
-      "leyendaScore": 3.7,
-      "prevListRank": 14,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 80.3
-    },
-    {
       "id": "216081",
       "name": "Maja Chwalinska",
-      "rank": 23,
-      "prevRank": 22,
+      "rank": 21,
+      "prevRank": 23,
       "country": "POL",
       "logo": "https://flagcdn.com/24x18/pl.png",
       "teamCode": "POL",
       "primary": "#DC143C",
       "secondary": "#FFFFFF",
-      "activeScore": 80.1,
+      "activeScore": 80.4,
       "legendScore": 30.7,
       "age": 24,
       "surface": {
@@ -5655,7 +5621,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 15,
+      "prevListRank": 14,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -5663,6 +5629,40 @@ window.TENNIS_DATA = {
         "reason": "No compite esta semana"
       },
       "prevActiveScore": 80.1
+    },
+    {
+      "id": "201619",
+      "name": "Madison Keys",
+      "rank": 23,
+      "prevRank": 24,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 80.4,
+      "legendScore": 61.7,
+      "age": 31,
+      "surface": {
+        "hard": 0.711,
+        "clay": 0.696,
+        "grass": 0.571
+      },
+      "stats": {
+        "gs": 1,
+        "titles": 10,
+        "weeks_no1": 0,
+        "top10_wins": 34
+      },
+      "leyendaScore": 3.7,
+      "prevListRank": 15,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 80.3
     },
     {
       "id": "211768",
@@ -5702,7 +5702,7 @@ window.TENNIS_DATA = {
       "id": "215713",
       "name": "Anastasia Potapova",
       "rank": 25,
-      "prevRank": 27,
+      "prevRank": 25,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -5725,24 +5725,24 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 79.7
     },
     {
       "id": "222328",
       "name": "Linda Noskova",
-      "rank": 8,
-      "prevRank": 7,
+      "rank": 6,
+      "prevRank": 8,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 78.5,
+      "activeScore": 78.7,
       "legendScore": 36.5,
       "age": 21,
       "surface": {
@@ -5769,14 +5769,14 @@ window.TENNIS_DATA = {
     {
       "id": "210722",
       "name": "Elise Mertens",
-      "rank": 22,
-      "prevRank": 24,
+      "rank": 24,
+      "prevRank": 22,
       "country": "BEL",
       "logo": "https://flagcdn.com/24x18/be.png",
       "teamCode": "BEL",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 76.4,
+      "activeScore": 76.1,
       "legendScore": 39.3,
       "age": 30,
       "surface": {
@@ -5801,50 +5801,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 76.4
     },
     {
-      "id": "214939",
-      "name": "Anna Kalinskaya",
-      "rank": 21,
-      "prevRank": 21,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "activeScore": 76.1,
-      "legendScore": 34.7,
-      "age": 27,
-      "surface": {
-        "hard": 0.56,
-        "clay": 0.619,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 14
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 20,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 76.1
-    },
-    {
       "id": "260300",
       "name": "Iva Jovic",
-      "rank": 16,
+      "rank": 14,
       "prevRank": 16,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 75.7,
+      "activeScore": 76.0,
       "legendScore": 33.4,
       "age": 18,
       "surface": {
@@ -5859,7 +5825,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 21,
+      "prevListRank": 20,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -5869,16 +5835,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 75.7
     },
     {
-      "id": "223670",
-      "name": "Diana Shnaider",
-      "rank": 14,
-      "prevRank": 17,
+      "id": "214939",
+      "name": "Anna Kalinskaya",
+      "rank": 22,
+      "prevRank": 21,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 75.6,
+      "activeScore": 75.9,
+      "legendScore": 34.7,
+      "age": 27,
+      "surface": {
+        "hard": 0.56,
+        "clay": 0.619,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 14
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 21,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 76.1
+    },
+    {
+      "id": "223670",
+      "name": "Diana Shnaider",
+      "rank": 16,
+      "prevRank": 14,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 75.5,
       "legendScore": 36.2,
       "age": 22,
       "surface": {
@@ -5905,14 +5905,14 @@ window.TENNIS_DATA = {
     {
       "id": "201662",
       "name": "Karolina Pliskova",
-      "rank": 57,
-      "prevRank": 66,
+      "rank": 56,
+      "prevRank": 57,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 74.8,
+      "activeScore": 75.0,
       "legendScore": 67.2,
       "age": 34,
       "surface": {
@@ -5939,14 +5939,14 @@ window.TENNIS_DATA = {
     {
       "id": "211148",
       "name": "Jasmine Paolini",
-      "rank": 15,
+      "rank": 20,
       "prevRank": 15,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
       "primary": "#009246",
       "secondary": "#FFFFFF",
-      "activeScore": 73.6,
+      "activeScore": 72.9,
       "legendScore": 38.3,
       "age": 30,
       "surface": {
@@ -5973,14 +5973,14 @@ window.TENNIS_DATA = {
     {
       "id": "206252",
       "name": "Barbora Krejcikova",
-      "rank": 26,
+      "rank": 28,
       "prevRank": 26,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 72.3,
+      "activeScore": 72.0,
       "legendScore": 51.5,
       "age": 30,
       "surface": {
@@ -6007,14 +6007,14 @@ window.TENNIS_DATA = {
     {
       "id": "213631",
       "name": "Marie Bouzkova",
-      "rank": 27,
-      "prevRank": 25,
+      "rank": 26,
+      "prevRank": 27,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 71.5,
+      "activeScore": 71.6,
       "legendScore": 30.7,
       "age": 28,
       "surface": {
@@ -6039,50 +6039,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 71.5
     },
     {
-      "id": "211533",
-      "name": "Jelena Ostapenko",
-      "rank": 30,
-      "prevRank": 29,
-      "country": "LAT",
-      "logo": "https://flagcdn.com/24x18/lv.png",
-      "teamCode": "LAT",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "activeScore": 71.0,
-      "legendScore": 52.1,
-      "age": 29,
-      "surface": {
-        "hard": 0.436,
-        "clay": 0.64,
-        "grass": null
-      },
-      "stats": {
-        "gs": 1,
-        "titles": 9,
-        "weeks_no1": 0,
-        "top10_wins": 26
-      },
-      "leyendaScore": 3.7,
-      "prevListRank": 27,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 71.0
-    },
-    {
       "id": "215613",
       "name": "Emma Navarro",
-      "rank": 28,
+      "rank": 27,
       "prevRank": 28,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 70.8,
+      "activeScore": 70.9,
       "legendScore": 37.7,
       "age": 25,
       "surface": {
@@ -6097,7 +6063,7 @@ window.TENNIS_DATA = {
         "top10_wins": 7
       },
       "leyendaScore": 0.0,
-      "prevListRank": 28,
+      "prevListRank": 27,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -6107,16 +6073,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 70.8
     },
     {
+      "id": "211533",
+      "name": "Jelena Ostapenko",
+      "rank": 31,
+      "prevRank": 30,
+      "country": "LAT",
+      "logo": "https://flagcdn.com/24x18/lv.png",
+      "teamCode": "LAT",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 70.9,
+      "legendScore": 52.1,
+      "age": 29,
+      "surface": {
+        "hard": 0.436,
+        "clay": 0.64,
+        "grass": null
+      },
+      "stats": {
+        "gs": 1,
+        "titles": 9,
+        "weeks_no1": 0,
+        "top10_wins": 26
+      },
+      "leyendaScore": 3.7,
+      "prevListRank": 28,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 71.0
+    },
+    {
       "id": "221024",
       "name": "Hailey Baptiste",
-      "rank": 33,
-      "prevRank": 32,
+      "rank": 34,
+      "prevRank": 33,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 69.8,
+      "activeScore": 69.6,
       "legendScore": 31.6,
       "age": 24,
       "surface": {
@@ -6141,50 +6141,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 69.8
     },
     {
-      "id": "206420",
-      "name": "Ekaterina Alexandrova",
-      "rank": 18,
-      "prevRank": 19,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "activeScore": 68.9,
-      "legendScore": 38.7,
-      "age": 31,
-      "surface": {
-        "hard": 0.554,
-        "clay": 0.583,
-        "grass": 0.727
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 6,
-        "weeks_no1": 0,
-        "top10_wins": 19
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 30,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 68.9
-    },
-    {
       "id": "223253",
       "name": "Alexandra Eala",
-      "rank": 20,
+      "rank": 18,
       "prevRank": 20,
       "country": "PHI",
       "logo": "",
       "teamCode": "PHI",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 68.8,
+      "activeScore": 69.1,
       "legendScore": 11.3,
       "age": 21,
       "surface": {
@@ -6199,7 +6165,7 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 31,
+      "prevListRank": 30,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -6209,50 +6175,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 68.8
     },
     {
-      "id": "211713",
-      "name": "Jaqueline Cristian",
-      "rank": 40,
-      "prevRank": 39,
-      "country": "ROU",
-      "logo": "https://flagcdn.com/24x18/ro.png",
-      "teamCode": "ROU",
-      "primary": "#002B7F",
+      "id": "206420",
+      "name": "Ekaterina Alexandrova",
+      "rank": 19,
+      "prevRank": 18,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 67.6,
-      "legendScore": 22.4,
-      "age": 28,
+      "activeScore": 68.8,
+      "legendScore": 38.7,
+      "age": 31,
       "surface": {
-        "hard": 0.511,
-        "clay": 0.586,
-        "grass": null
+        "hard": 0.554,
+        "clay": 0.583,
+        "grass": 0.727
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 6,
         "weeks_no1": 0,
-        "top10_wins": 1
+        "top10_wins": 19
       },
       "leyendaScore": 0.0,
-      "prevListRank": 32,
+      "prevListRank": 31,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 67.6
+      "prevActiveScore": 68.9
     },
     {
       "id": "220367",
       "name": "Leylah Fernandez",
-      "rank": 31,
-      "prevRank": 34,
+      "rank": 32,
+      "prevRank": 31,
       "country": "CAN",
       "logo": "https://flagcdn.com/24x18/ca.png",
       "teamCode": "CAN",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 67.4,
+      "activeScore": 67.3,
       "legendScore": 35.0,
       "age": 23,
       "surface": {
@@ -6267,7 +6233,7 @@ window.TENNIS_DATA = {
         "top10_wins": 7
       },
       "leyendaScore": 0.0,
-      "prevListRank": 33,
+      "prevListRank": 32,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -6277,16 +6243,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 67.4
     },
     {
+      "id": "211713",
+      "name": "Jaqueline Cristian",
+      "rank": 43,
+      "prevRank": 40,
+      "country": "ROU",
+      "logo": "https://flagcdn.com/24x18/ro.png",
+      "teamCode": "ROU",
+      "primary": "#002B7F",
+      "secondary": "#FFFFFF",
+      "activeScore": 67.3,
+      "legendScore": 22.4,
+      "age": 28,
+      "surface": {
+        "hard": 0.511,
+        "clay": 0.586,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 33,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 67.6
+    },
+    {
       "id": "220548",
       "name": "Peyton Stearns",
-      "rank": 53,
-      "prevRank": 57,
+      "rank": 54,
+      "prevRank": 53,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 67.0,
+      "activeScore": 66.9,
       "legendScore": 31.0,
       "age": 24,
       "surface": {
@@ -6313,14 +6313,14 @@ window.TENNIS_DATA = {
     {
       "id": "215983",
       "name": "Ann Li",
-      "rank": 29,
-      "prevRank": 31,
+      "rank": 30,
+      "prevRank": 29,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 66.8,
+      "activeScore": 66.7,
       "legendScore": 28.2,
       "age": 26,
       "surface": {
@@ -6347,8 +6347,8 @@ window.TENNIS_DATA = {
     {
       "id": "221012",
       "name": "Qinwen Zheng",
-      "rank": 127,
-      "prevRank": 125,
+      "rank": 121,
+      "prevRank": 127,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
@@ -6381,14 +6381,14 @@ window.TENNIS_DATA = {
     {
       "id": "215785",
       "name": "Camila Osorio",
-      "rank": 55,
-      "prevRank": 60,
+      "rank": 58,
+      "prevRank": 55,
       "country": "COL",
       "logo": "https://flagcdn.com/24x18/co.png",
       "teamCode": "COL",
       "primary": "#FCD116",
       "secondary": "#FFFFFF",
-      "activeScore": 66.2,
+      "activeScore": 65.8,
       "legendScore": 22.7,
       "age": 24,
       "surface": {
@@ -6413,50 +6413,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 66.2
     },
     {
-      "id": "220520",
-      "name": "Mccartney Kessler",
-      "rank": 58,
-      "prevRank": 48,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 65.6,
-      "legendScore": 19.3,
-      "age": 27,
-      "surface": {
-        "hard": 0.577,
-        "clay": 0.357,
-        "grass": 0.75
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 38,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 65.6
-    },
-    {
       "id": "206289",
       "name": "Maria Sakkari",
-      "rank": 32,
-      "prevRank": 33,
+      "rank": 33,
+      "prevRank": 32,
       "country": "GRE",
       "logo": "https://flagcdn.com/24x18/gr.png",
       "teamCode": "GRE",
       "primary": "#0D5EAF",
       "secondary": "#FFFFFF",
-      "activeScore": 65.4,
+      "activeScore": 65.3,
       "legendScore": 41.7,
       "age": 31,
       "surface": {
@@ -6471,7 +6437,7 @@ window.TENNIS_DATA = {
         "top10_wins": 30
       },
       "leyendaScore": 0.0,
-      "prevListRank": 39,
+      "prevListRank": 38,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -6481,16 +6447,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 65.4
     },
     {
+      "id": "220348",
+      "name": "Diane Parry",
+      "rank": 50,
+      "prevRank": 66,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 65.0,
+      "legendScore": 28.8,
+      "age": 23,
+      "surface": {
+        "hard": 0.538,
+        "clay": 0.467,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 39,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 62.9
+    },
+    {
       "id": "223360",
       "name": "Nikola Bartunkova",
-      "rank": 39,
-      "prevRank": 42,
+      "rank": 38,
+      "prevRank": 39,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 64.6,
+      "activeScore": 64.7,
       "legendScore": 30.7,
       "age": 20,
       "surface": {
@@ -6509,16 +6509,84 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 64.6
     },
     {
+      "id": "220520",
+      "name": "Mccartney Kessler",
+      "rank": 65,
+      "prevRank": 58,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 64.7,
+      "legendScore": 19.3,
+      "age": 27,
+      "surface": {
+        "hard": 0.577,
+        "clay": 0.357,
+        "grass": 0.75
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 41,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 65.6
+    },
+    {
+      "id": "239383",
+      "name": "Sara Bejlek",
+      "rank": 29,
+      "prevRank": 35,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 64.5,
+      "legendScore": 14.7,
+      "age": 20,
+      "surface": {
+        "hard": 0.6,
+        "clay": 0.375,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 42,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 63.7
+    },
+    {
       "id": "220704",
       "name": "Clara Tauson",
       "rank": 42,
-      "prevRank": 30,
+      "prevRank": 42,
       "country": "DEN",
       "logo": "https://flagcdn.com/24x18/dk.png",
       "teamCode": "DEN",
@@ -6539,7 +6607,7 @@ window.TENNIS_DATA = {
         "top10_wins": 5
       },
       "leyendaScore": 0.0,
-      "prevListRank": 41,
+      "prevListRank": 43,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
@@ -6549,10 +6617,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 64.3
     },
     {
+      "id": "211107",
+      "name": "Katie Boulter",
+      "rank": 60,
+      "prevRank": 71,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 64.2,
+      "legendScore": 30.7,
+      "age": 30,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.429,
+        "grass": 0.571
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 4
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 44,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 62.8
+    },
+    {
       "id": "220716",
       "name": "Oleksandra Oliynykova",
       "rank": 46,
-      "prevRank": 44,
+      "prevRank": 46,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
@@ -6573,7 +6675,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 42,
+      "prevListRank": 45,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
@@ -6583,44 +6685,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 64.0
     },
     {
-      "id": "239383",
-      "name": "Sara Bejlek",
-      "rank": 35,
-      "prevRank": 38,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 63.7,
-      "legendScore": 14.7,
-      "age": 20,
-      "surface": {
-        "hard": 0.6,
-        "clay": 0.375,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 43,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 63.7
-    },
-    {
       "id": "266671",
       "name": "Laura Samson",
-      "rank": 122,
-      "prevRank": 123,
+      "rank": 116,
+      "prevRank": 122,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -6643,7 +6711,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 44,
+      "prevListRank": 46,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -6655,14 +6723,14 @@ window.TENNIS_DATA = {
     {
       "id": "214643",
       "name": "Liudmila Samsonova",
-      "rank": 43,
-      "prevRank": 55,
+      "rank": 45,
+      "prevRank": 43,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 63.4,
+      "activeScore": 63.1,
       "legendScore": 38.3,
       "age": 27,
       "surface": {
@@ -6677,7 +6745,7 @@ window.TENNIS_DATA = {
         "top10_wins": 10
       },
       "leyendaScore": 0.0,
-      "prevListRank": 45,
+      "prevListRank": 47,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -6687,72 +6755,38 @@ window.TENNIS_DATA = {
       "prevActiveScore": 63.4
     },
     {
-      "id": "220348",
-      "name": "Diane Parry",
-      "rank": 66,
-      "prevRank": 64,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
+      "id": "211701",
+      "name": "Katerina Siniakova",
+      "rank": 39,
+      "prevRank": 44,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
       "secondary": "#FFFFFF",
       "activeScore": 62.9,
-      "legendScore": 28.8,
-      "age": 23,
-      "surface": {
-        "hard": 0.538,
-        "clay": 0.467,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 46,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 62.9
-    },
-    {
-      "id": "211107",
-      "name": "Katie Boulter",
-      "rank": 71,
-      "prevRank": 72,
-      "country": "GBR",
-      "logo": "https://flagcdn.com/24x18/gb.png",
-      "teamCode": "GBR",
-      "primary": "#012169",
-      "secondary": "#FFFFFF",
-      "activeScore": 62.8,
-      "legendScore": 30.7,
+      "legendScore": 27.6,
       "age": 30,
       "surface": {
-        "hard": 0.5,
-        "clay": 0.429,
-        "grass": 0.571
+        "hard": 0.513,
+        "clay": 0.333,
+        "grass": 0.429
       },
       "stats": {
         "gs": 0,
-        "titles": 4,
+        "titles": 5,
         "weeks_no1": 0,
-        "top10_wins": 4
+        "top10_wins": 11
       },
       "leyendaScore": 0.0,
-      "prevListRank": 47,
+      "prevListRank": 48,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 62.8
+      "prevActiveScore": 62.3
     },
     {
       "id": "211337",
@@ -6779,7 +6813,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 48,
+      "prevListRank": 49,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -6789,118 +6823,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 62.7
     },
     {
-      "id": "220714",
-      "name": "Elisabetta Cocciaretto",
-      "rank": 60,
-      "prevRank": 59,
-      "country": "ITA",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "teamCode": "ITA",
-      "primary": "#009246",
-      "secondary": "#FFFFFF",
-      "activeScore": 62.6,
-      "legendScore": 26.4,
-      "age": 25,
-      "surface": {
-        "hard": 0.514,
-        "clay": 0.375,
-        "grass": 0.625
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 3
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 49,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 62.6
-    },
-    {
-      "id": "202663",
-      "name": "Magda Linette",
-      "rank": 62,
-      "prevRank": 68,
-      "country": "POL",
-      "logo": "https://flagcdn.com/24x18/pl.png",
-      "teamCode": "POL",
-      "primary": "#DC143C",
-      "secondary": "#FFFFFF",
-      "activeScore": 62.5,
-      "legendScore": 27.3,
-      "age": 34,
-      "surface": {
-        "hard": 0.51,
-        "clay": 0.462,
-        "grass": 0.429
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 8
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 50,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 62.5
-    },
-    {
-      "id": "211701",
-      "name": "Katerina Siniakova",
-      "rank": 44,
-      "prevRank": 37,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 62.3,
-      "legendScore": 27.6,
-      "age": 30,
-      "surface": {
-        "hard": 0.513,
-        "clay": 0.333,
-        "grass": 0.429
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 5,
-        "weeks_no1": 0,
-        "top10_wins": 11
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 51,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 62.3
-    },
-    {
       "id": "220750",
       "name": "Daria Snigur",
-      "rank": 45,
-      "prevRank": 43,
+      "rank": 44,
+      "prevRank": 45,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
       "primary": "#005BBB",
       "secondary": "#FFFFFF",
-      "activeScore": 62.3,
+      "activeScore": 62.5,
       "legendScore": 23.3,
       "age": 24,
       "surface": {
@@ -6915,7 +6847,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 52,
+      "prevListRank": 50,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -6925,50 +6857,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 62.3
     },
     {
-      "id": "221054",
-      "name": "Emma Raducanu",
-      "rank": 59,
-      "prevRank": 49,
-      "country": "GBR",
-      "logo": "https://flagcdn.com/24x18/gb.png",
-      "teamCode": "GBR",
-      "primary": "#012169",
+      "id": "220714",
+      "name": "Elisabetta Cocciaretto",
+      "rank": 66,
+      "prevRank": 60,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
       "secondary": "#FFFFFF",
-      "activeScore": 62.3,
-      "legendScore": 68.1,
-      "age": 23,
+      "activeScore": 61.9,
+      "legendScore": 26.4,
+      "age": 25,
       "surface": {
-        "hard": 0.522,
-        "clay": 0.5,
+        "hard": 0.514,
+        "clay": 0.375,
         "grass": 0.625
       },
       "stats": {
-        "gs": 1,
-        "titles": 1,
+        "gs": 0,
+        "titles": 2,
         "weeks_no1": 0,
         "top10_wins": 3
       },
-      "leyendaScore": 3.7,
-      "prevListRank": 53,
+      "leyendaScore": 0.0,
+      "prevListRank": 51,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 62.3
+      "prevActiveScore": 62.6
     },
     {
       "id": "211843",
       "name": "Anhelina Kalinina",
-      "rank": 51,
-      "prevRank": 54,
+      "rank": 49,
+      "prevRank": 51,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
       "primary": "#005BBB",
       "secondary": "#FFFFFF",
-      "activeScore": 61.6,
+      "activeScore": 61.8,
       "legendScore": 23.9,
       "age": 29,
       "surface": {
@@ -6983,7 +6915,7 @@ window.TENNIS_DATA = {
         "top10_wins": 5
       },
       "leyendaScore": 0.0,
-      "prevListRank": 54,
+      "prevListRank": 52,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
@@ -6996,7 +6928,7 @@ window.TENNIS_DATA = {
       "id": "260172",
       "name": "Lilli Tagger",
       "rank": 48,
-      "prevRank": 46,
+      "prevRank": 48,
       "country": "AUT",
       "logo": "https://flagcdn.com/24x18/at.png",
       "teamCode": "AUT",
@@ -7017,7 +6949,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 55,
+      "prevListRank": 53,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
         "state": "out",
@@ -7027,55 +6959,55 @@ window.TENNIS_DATA = {
       "prevActiveScore": 61.3
     },
     {
-      "id": "233741",
-      "name": "Maya Joint",
-      "rank": 67,
-      "prevRank": 75,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
+      "id": "221054",
+      "name": "Emma Raducanu",
+      "rank": 68,
+      "prevRank": 59,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
       "secondary": "#FFFFFF",
-      "activeScore": 60.7,
-      "legendScore": 13.5,
-      "age": 20,
+      "activeScore": 61.2,
+      "legendScore": 68.1,
+      "age": 23,
       "surface": {
-        "hard": 0.489,
+        "hard": 0.522,
         "clay": 0.5,
-        "grass": 0.833
+        "grass": 0.625
       },
       "stats": {
-        "gs": 0,
-        "titles": 2,
+        "gs": 1,
+        "titles": 1,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 3
       },
-      "leyendaScore": 0.0,
-      "prevListRank": 56,
+      "leyendaScore": 3.7,
+      "prevListRank": 54,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 60.7
+      "prevActiveScore": 62.3
     },
     {
-      "id": "230319",
-      "name": "Xinyu",
-      "rank": 36,
-      "prevRank": 41,
-      "country": "CHN",
-      "logo": "https://flagcdn.com/24x18/cn.png",
-      "teamCode": "CHN",
-      "primary": "#DE2910",
+      "id": "238184",
+      "name": "Tereza Valentova",
+      "rank": 57,
+      "prevRank": 64,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 60.1,
-      "legendScore": 0.0,
-      "age": null,
+      "activeScore": 60.7,
+      "legendScore": 30.7,
+      "age": 19,
       "surface": {
-        "hard": null,
-        "clay": null,
+        "hard": 0.591,
+        "clay": 0.333,
         "grass": null
       },
       "stats": {
@@ -7085,6 +7017,74 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
+      "prevListRank": 55,
+      "tournamentStatus": {
+        "tournament": "Ennoble Care Philly Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 59.8
+    },
+    {
+      "id": "202663",
+      "name": "Magda Linette",
+      "rank": 78,
+      "prevRank": 62,
+      "country": "POL",
+      "logo": "https://flagcdn.com/24x18/pl.png",
+      "teamCode": "POL",
+      "primary": "#DC143C",
+      "secondary": "#FFFFFF",
+      "activeScore": 60.5,
+      "legendScore": 27.3,
+      "age": 34,
+      "surface": {
+        "hard": 0.51,
+        "clay": 0.462,
+        "grass": 0.429
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 8
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 56,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 62.5
+    },
+    {
+      "id": "216083",
+      "name": "Caty Mcnally",
+      "rank": 64,
+      "prevRank": 70,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 60.2,
+      "legendScore": 26.4,
+      "age": 24,
+      "surface": {
+        "hard": 0.448,
+        "clay": 0.538,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
@@ -7092,19 +7092,19 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 60.1
+      "prevActiveScore": 59.5
     },
     {
       "id": "202499",
       "name": "Donna Vekic",
-      "rank": 34,
-      "prevRank": 35,
+      "rank": 36,
+      "prevRank": 34,
       "country": "CRO",
       "logo": "https://flagcdn.com/24x18/hr.png",
       "teamCode": "CRO",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 59.9,
+      "activeScore": 59.6,
       "legendScore": 35.3,
       "age": 30,
       "surface": {
@@ -7129,50 +7129,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 59.9
     },
     {
-      "id": "238184",
-      "name": "Tereza Valentova",
-      "rank": 64,
+      "id": "233741",
+      "name": "Maya Joint",
+      "rank": 75,
       "prevRank": 67,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 59.8,
-      "legendScore": 30.7,
-      "age": 19,
+      "activeScore": 59.6,
+      "legendScore": 13.5,
+      "age": 20,
       "surface": {
-        "hard": 0.591,
-        "clay": 0.333,
-        "grass": null
+        "hard": 0.489,
+        "clay": 0.5,
+        "grass": 0.833
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 2,
         "weeks_no1": 0,
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
       "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 59.8
+      "prevActiveScore": 60.7
     },
     {
       "id": "203501",
       "name": "Taylor Townsend",
-      "rank": 94,
-      "prevRank": 110,
+      "rank": 95,
+      "prevRank": 94,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 59.7,
+      "activeScore": 59.5,
       "legendScore": 23.0,
       "age": 30,
       "surface": {
@@ -7197,62 +7197,62 @@ window.TENNIS_DATA = {
       "prevActiveScore": 59.7
     },
     {
-      "id": "222045",
-      "name": "Antonia Ruzic",
-      "rank": 61,
-      "prevRank": 56,
-      "country": "CRO",
-      "logo": "https://flagcdn.com/24x18/hr.png",
-      "teamCode": "CRO",
-      "primary": "#FF0000",
+      "id": "230319",
+      "name": "Xinyu",
+      "rank": 41,
+      "prevRank": 36,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
       "secondary": "#FFFFFF",
-      "activeScore": 59.5,
-      "legendScore": 15.3,
-      "age": 23,
+      "activeScore": 59.4,
+      "legendScore": 0.0,
+      "age": null,
       "surface": {
-        "hard": 0.5,
-        "clay": 0.375,
+        "hard": null,
+        "clay": null,
         "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 1
+        "top10_wins": 0
       },
       "leyendaScore": 0.0,
       "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 59.5
+      "prevActiveScore": 60.1
     },
     {
-      "id": "216083",
-      "name": "Caty Mcnally",
-      "rank": 70,
-      "prevRank": 70,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
+      "id": "211817",
+      "name": "Elena Gabriela Ruse",
+      "rank": 63,
+      "prevRank": 74,
+      "country": "ROU",
+      "logo": "https://flagcdn.com/24x18/ro.png",
+      "teamCode": "ROU",
+      "primary": "#002B7F",
       "secondary": "#FFFFFF",
-      "activeScore": 59.5,
-      "legendScore": 26.4,
-      "age": 24,
+      "activeScore": 59.0,
+      "legendScore": 20.9,
+      "age": 28,
       "surface": {
-        "hard": 0.448,
-        "clay": 0.538,
-        "grass": null
+        "hard": 0.292,
+        "clay": 0.562,
+        "grass": 0.667
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 1,
         "weeks_no1": 0,
-        "top10_wins": 1
+        "top10_wins": 2
       },
       "leyendaScore": 0.0,
       "prevListRank": 62,
@@ -7262,53 +7262,19 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 59.5
-    },
-    {
-      "id": "221909",
-      "name": "Ashlyn Krueger",
-      "rank": 56,
-      "prevRank": 58,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 59.1,
-      "legendScore": 19.6,
-      "age": 22,
-      "surface": {
-        "hard": 0.524,
-        "clay": 0.385,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 63,
-      "tournamentStatus": {
-        "tournament": "Ennoble Care Philly Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 59.1
+      "prevActiveScore": 57.6
     },
     {
       "id": "220309",
       "name": "Zeynep Sonmez",
-      "rank": 50,
-      "prevRank": 52,
+      "rank": 52,
+      "prevRank": 50,
       "country": "TUR",
       "logo": "https://flagcdn.com/24x18/tr.png",
       "teamCode": "TUR",
       "primary": "#E30A17",
       "secondary": "#FFFFFF",
-      "activeScore": 58.5,
+      "activeScore": 58.3,
       "legendScore": 25.8,
       "age": 24,
       "surface": {
@@ -7323,7 +7289,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 64,
+      "prevListRank": 63,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -7333,16 +7299,118 @@ window.TENNIS_DATA = {
       "prevActiveScore": 58.5
     },
     {
+      "id": "221909",
+      "name": "Ashlyn Krueger",
+      "rank": 62,
+      "prevRank": 56,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.3,
+      "legendScore": 19.6,
+      "age": 22,
+      "surface": {
+        "hard": 0.524,
+        "clay": 0.385,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 64,
+      "tournamentStatus": {
+        "tournament": "Ennoble Care Philly Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 59.1
+    },
+    {
+      "id": "214388",
+      "name": "Anna Bondar",
+      "rank": 70,
+      "prevRank": 76,
+      "country": "HUN",
+      "logo": "https://flagcdn.com/24x18/hu.png",
+      "teamCode": "HUN",
+      "primary": "#477050",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.2,
+      "legendScore": 16.3,
+      "age": 29,
+      "surface": {
+        "hard": 0.357,
+        "clay": 0.609,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 65,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 57.5
+    },
+    {
+      "id": "263857",
+      "name": "Yuliia Starodubtseva",
+      "rank": 74,
+      "prevRank": 78,
+      "country": "UKR",
+      "logo": "https://flagcdn.com/24x18/ua.png",
+      "teamCode": "UKR",
+      "primary": "#005BBB",
+      "secondary": "#FFFFFF",
+      "activeScore": 58.1,
+      "legendScore": 23.0,
+      "age": 26,
+      "surface": {
+        "hard": 0.238,
+        "clay": 0.667,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 66,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 57.5
+    },
+    {
       "id": "203530",
       "name": "Viktorija Golubic",
-      "rank": 52,
-      "prevRank": 51,
+      "rank": 55,
+      "prevRank": 52,
       "country": "SUI",
       "logo": "https://flagcdn.com/24x18/ch.png",
       "teamCode": "SUI",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 58.2,
+      "activeScore": 57.7,
       "legendScore": 20.6,
       "age": 33,
       "surface": {
@@ -7357,7 +7425,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 65,
+      "prevListRank": 67,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -7367,92 +7435,22 @@ window.TENNIS_DATA = {
       "prevActiveScore": 58.2
     },
     {
-      "id": "220332",
-      "name": "Eva Lys",
-      "rank": 92,
-      "prevRank": 85,
-      "country": "GER",
-      "logo": "https://flagcdn.com/24x18/de.png",
-      "teamCode": "GER",
-      "primary": "#000000",
+      "id": "211684",
+      "name": "Magdalena Frech",
+      "rank": 37,
+      "prevRank": 41,
+      "country": "POL",
+      "logo": "https://flagcdn.com/24x18/pl.png",
+      "teamCode": "POL",
+      "primary": "#DC143C",
       "secondary": "#FFFFFF",
-      "activeScore": 57.7,
-      "legendScore": 26.1,
-      "age": 24,
-      "surface": {
-        "hard": 0.562,
-        "clay": 0.375,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 66,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 57.7
-    },
-    {
-      "id": "214954",
-      "name": "Marketa Vondrousova",
-      "rank": 148,
-      "prevRank": 140,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 57.7,
-      "legendScore": 50.0,
-      "age": 27,
-      "surface": {
-        "hard": 0.55,
-        "clay": null,
-        "grass": 0.857
-      },
-      "stats": {
-        "gs": 1,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 16
-      },
-      "inactiveWeeks": 19,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 3.7,
-      "prevListRank": 67,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 57.7
-    },
-    {
-      "id": "211817",
-      "name": "Elena Gabriela Ruse",
-      "rank": 74,
-      "prevRank": 77,
-      "country": "ROU",
-      "logo": "https://flagcdn.com/24x18/ro.png",
-      "teamCode": "ROU",
-      "primary": "#002B7F",
-      "secondary": "#FFFFFF",
-      "activeScore": 57.6,
-      "legendScore": 20.9,
+      "activeScore": 57.5,
+      "legendScore": 29.1,
       "age": 28,
       "surface": {
-        "hard": 0.292,
-        "clay": 0.562,
-        "grass": 0.667
+        "hard": 0.439,
+        "clay": 0.375,
+        "grass": 0.2
       },
       "stats": {
         "gs": 0,
@@ -7468,87 +7466,87 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 57.6
+      "prevActiveScore": 56.9
     },
     {
-      "id": "214388",
-      "name": "Anna Bondar",
-      "rank": 76,
-      "prevRank": 78,
-      "country": "HUN",
-      "logo": "https://flagcdn.com/24x18/hu.png",
-      "teamCode": "HUN",
-      "primary": "#477050",
+      "id": "201533",
+      "name": "Shuai Zhang",
+      "rank": 53,
+      "prevRank": 54,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
       "secondary": "#FFFFFF",
       "activeScore": 57.5,
-      "legendScore": 16.3,
-      "age": 29,
+      "legendScore": 29.4,
+      "age": 37,
       "surface": {
-        "hard": 0.357,
-        "clay": 0.609,
+        "hard": 0.52,
+        "clay": 0.333,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 3,
         "weeks_no1": 0,
-        "top10_wins": 1
+        "top10_wins": 8
       },
       "leyendaScore": 0.0,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 57.5
+      "prevActiveScore": 57.3
     },
     {
-      "id": "263857",
-      "name": "Yuliia Starodubtseva",
-      "rank": 78,
-      "prevRank": 65,
-      "country": "UKR",
-      "logo": "https://flagcdn.com/24x18/ua.png",
-      "teamCode": "UKR",
-      "primary": "#005BBB",
+      "id": "214082",
+      "name": "Daria Kasatkina",
+      "rank": 59,
+      "prevRank": 68,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
       "secondary": "#FFFFFF",
       "activeScore": 57.5,
-      "legendScore": 23.0,
-      "age": 26,
+      "legendScore": 52.8,
+      "age": 29,
       "surface": {
-        "hard": 0.238,
-        "clay": 0.667,
-        "grass": null
+        "hard": 0.471,
+        "clay": 0.474,
+        "grass": 0.333
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 8,
         "weeks_no1": 0,
-        "top10_wins": 1
+        "top10_wins": 24
       },
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 57.5
+      "prevActiveScore": 56.4
     },
     {
       "id": "201696",
       "name": "Laura Siegemund",
-      "rank": 98,
-      "prevRank": 88,
+      "rank": 102,
+      "prevRank": 98,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 57.5,
+      "activeScore": 57.2,
       "legendScore": 33.7,
       "age": 38,
       "surface": {
@@ -7573,28 +7571,28 @@ window.TENNIS_DATA = {
       "prevActiveScore": 57.5
     },
     {
-      "id": "201533",
-      "name": "Shuai Zhang",
-      "rank": 54,
-      "prevRank": 62,
-      "country": "CHN",
-      "logo": "https://flagcdn.com/24x18/cn.png",
-      "teamCode": "CHN",
-      "primary": "#DE2910",
+      "id": "220332",
+      "name": "Eva Lys",
+      "rank": 98,
+      "prevRank": 92,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 57.3,
-      "legendScore": 29.4,
-      "age": 37,
+      "activeScore": 57.0,
+      "legendScore": 26.1,
+      "age": 24,
       "surface": {
-        "hard": 0.52,
-        "clay": 0.333,
+        "hard": 0.562,
+        "clay": 0.375,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 3,
+        "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 8
+        "top10_wins": 1
       },
       "leyendaScore": 0.0,
       "prevListRank": 72,
@@ -7604,19 +7602,19 @@ window.TENNIS_DATA = {
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 57.3
+      "prevActiveScore": 57.7
     },
     {
       "id": "221333",
       "name": "Solana Sierra",
-      "rank": 86,
+      "rank": 87,
       "prevRank": 86,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
       "primary": "#74ACDF",
       "secondary": "#FFFFFF",
-      "activeScore": 57.1,
+      "activeScore": 56.9,
       "legendScore": 27.6,
       "age": 22,
       "surface": {
@@ -7641,84 +7639,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 57.1
     },
     {
-      "id": "211684",
-      "name": "Magdalena Frech",
-      "rank": 41,
-      "prevRank": 45,
-      "country": "POL",
-      "logo": "https://flagcdn.com/24x18/pl.png",
-      "teamCode": "POL",
-      "primary": "#DC143C",
+      "id": "222045",
+      "name": "Antonia Ruzic",
+      "rank": 81,
+      "prevRank": 61,
+      "country": "CRO",
+      "logo": "https://flagcdn.com/24x18/hr.png",
+      "teamCode": "CRO",
+      "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 56.9,
-      "legendScore": 29.1,
-      "age": 28,
+      "activeScore": 56.8,
+      "legendScore": 15.3,
+      "age": 23,
       "surface": {
-        "hard": 0.439,
+        "hard": 0.5,
         "clay": 0.375,
-        "grass": 0.2
+        "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 1,
+        "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 2
+        "top10_wins": 1
       },
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "tournament": "Abierto GNP Seguros",
         "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "round": "R128",
+        "reason": "Eliminado en R128"
       },
-      "prevActiveScore": 56.9
-    },
-    {
-      "id": "214082",
-      "name": "Daria Kasatkina",
-      "rank": 68,
-      "prevRank": 61,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
-      "secondary": "#FFFFFF",
-      "activeScore": 56.4,
-      "legendScore": 52.8,
-      "age": 29,
-      "surface": {
-        "hard": 0.471,
-        "clay": 0.474,
-        "grass": 0.333
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 8,
-        "weeks_no1": 0,
-        "top10_wins": 24
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 75,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 56.4
+      "prevActiveScore": 59.5
     },
     {
       "id": "213710",
       "name": "Cristina Bucsa",
-      "rank": 38,
-      "prevRank": 40,
+      "rank": 40,
+      "prevRank": 38,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
       "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "activeScore": 56.3,
+      "activeScore": 56.1,
       "legendScore": 27.3,
       "age": 28,
       "surface": {
@@ -7733,41 +7697,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 76,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 56.3
-    },
-    {
-      "id": "219917",
-      "name": "Alycia Parks",
-      "rank": 63,
-      "prevRank": 71,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 56.3,
-      "legendScore": 22.1,
-      "age": 25,
-      "surface": {
-        "hard": 0.442,
-        "clay": 0.389,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 77,
+      "prevListRank": 75,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
@@ -7779,8 +7709,8 @@ window.TENNIS_DATA = {
     {
       "id": "215035",
       "name": "Dayana Yastremska",
-      "rank": 107,
-      "prevRank": 87,
+      "rank": 112,
+      "prevRank": 107,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
@@ -7801,7 +7731,7 @@ window.TENNIS_DATA = {
         "top10_wins": 5
       },
       "leyendaScore": 0.0,
-      "prevListRank": 78,
+      "prevListRank": 76,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
@@ -7813,14 +7743,14 @@ window.TENNIS_DATA = {
     {
       "id": "222145",
       "name": "Janice Tjen",
-      "rank": 37,
-      "prevRank": 36,
+      "rank": 35,
+      "prevRank": 37,
       "country": "INA",
       "logo": "",
       "teamCode": "INA",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 55.5,
+      "activeScore": 55.7,
       "legendScore": 24.5,
       "age": 24,
       "surface": {
@@ -7835,7 +7765,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 79,
+      "prevListRank": 77,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
@@ -7847,14 +7777,14 @@ window.TENNIS_DATA = {
     {
       "id": "221883",
       "name": "Talia Gibson",
-      "rank": 65,
-      "prevRank": 74,
+      "rank": 61,
+      "prevRank": 65,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
       "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 55.0,
+      "activeScore": 55.5,
       "legendScore": 15.3,
       "age": 22,
       "surface": {
@@ -7869,7 +7799,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 80,
+      "prevListRank": 78,
       "tournamentStatus": {
         "tournament": "Ennoble Care Philly Open",
         "state": "alive",
@@ -7877,6 +7807,40 @@ window.TENNIS_DATA = {
         "reason": ""
       },
       "prevActiveScore": 55.0
+    },
+    {
+      "id": "252499",
+      "name": "Alina Korneeva",
+      "rank": 67,
+      "prevRank": 75,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.0,
+      "legendScore": 30.7,
+      "age": 19,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 79,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 53.9
     },
     {
       "id": "214040",
@@ -7903,7 +7867,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 81,
+      "prevListRank": 80,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
@@ -7915,14 +7879,14 @@ window.TENNIS_DATA = {
     {
       "id": "215910",
       "name": "Panna Udvardy",
-      "rank": 77,
-      "prevRank": 76,
+      "rank": 76,
+      "prevRank": 77,
       "country": "HUN",
       "logo": "https://flagcdn.com/24x18/hu.png",
       "teamCode": "HUN",
       "primary": "#477050",
       "secondary": "#FFFFFF",
-      "activeScore": 54.3,
+      "activeScore": 54.4,
       "legendScore": 4.9,
       "age": 27,
       "surface": {
@@ -7937,7 +7901,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 82,
+      "prevListRank": 81,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -7947,44 +7911,46 @@ window.TENNIS_DATA = {
       "prevActiveScore": 54.3
     },
     {
-      "id": "252499",
-      "name": "Alina Korneeva",
-      "rank": 75,
-      "prevRank": 89,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
+      "id": "211651",
+      "name": "Paula Badosa",
+      "rank": 83,
+      "prevRank": 84,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "activeScore": 53.9,
-      "legendScore": 30.7,
-      "age": 19,
+      "activeScore": 53.6,
+      "legendScore": 42.3,
+      "age": 28,
       "surface": {
-        "hard": null,
-        "clay": null,
+        "hard": 0.531,
+        "clay": 0.455,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 4,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 15
       },
+      "inactiveWeeks": 5,
+      "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 83,
+      "prevListRank": 82,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 53.9
+      "prevActiveScore": 53.5
     },
     {
       "id": "238075",
       "name": "Petra Marcinko",
-      "rank": 72,
-      "prevRank": 53,
+      "rank": 73,
+      "prevRank": 72,
       "country": "CRO",
       "logo": "https://flagcdn.com/24x18/hr.png",
       "teamCode": "CRO",
@@ -8005,7 +7971,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 84,
+      "prevListRank": 83,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
@@ -8015,46 +7981,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 53.5
     },
     {
-      "id": "211651",
-      "name": "Paula Badosa",
-      "rank": 84,
-      "prevRank": 84,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
+      "id": "219917",
+      "name": "Alycia Parks",
+      "rank": 89,
+      "prevRank": 63,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 53.5,
-      "legendScore": 42.3,
-      "age": 28,
+      "activeScore": 52.9,
+      "legendScore": 22.1,
+      "age": 25,
       "surface": {
-        "hard": 0.531,
-        "clay": 0.455,
+        "hard": 0.442,
+        "clay": 0.389,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 4,
+        "titles": 1,
         "weeks_no1": 0,
-        "top10_wins": 15
+        "top10_wins": 2
       },
-      "inactiveWeeks": 5,
-      "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 85,
+      "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
-      "prevActiveScore": 53.5
+      "prevActiveScore": 56.3
     },
     {
       "id": "221354",
       "name": "Lisa Pigato",
-      "rank": 135,
-      "prevRank": 133,
+      "rank": 130,
+      "prevRank": 135,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -8075,7 +8039,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 86,
+      "prevListRank": 85,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -8087,14 +8051,14 @@ window.TENNIS_DATA = {
     {
       "id": "201709",
       "name": "Yulia Putintseva",
-      "rank": 81,
-      "prevRank": 82,
+      "rank": 80,
+      "prevRank": 81,
       "country": "KAZ",
       "logo": "https://flagcdn.com/24x18/kz.png",
       "teamCode": "KAZ",
       "primary": "#00AFCA",
       "secondary": "#FFFFFF",
-      "activeScore": 52.2,
+      "activeScore": 52.3,
       "legendScore": 34.4,
       "age": 31,
       "surface": {
@@ -8109,7 +8073,7 @@ window.TENNIS_DATA = {
         "top10_wins": 13
       },
       "leyendaScore": 0.0,
-      "prevListRank": 87,
+      "prevListRank": 86,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -8119,44 +8083,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 52.2
     },
     {
-      "id": "222601",
-      "name": "Jessica Bouzas Maneiro",
-      "rank": 90,
-      "prevRank": 63,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
+      "id": "213887",
+      "name": "Renata Zarazua",
+      "rank": 71,
+      "prevRank": 73,
+      "country": "MEX",
+      "logo": "https://flagcdn.com/24x18/mx.png",
+      "teamCode": "MEX",
+      "primary": "#555555",
       "secondary": "#FFFFFF",
       "activeScore": 51.9,
-      "legendScore": 31.3,
-      "age": 23,
+      "legendScore": 19.3,
+      "age": 28,
       "surface": {
-        "hard": 0.415,
-        "clay": 0.545,
+        "hard": 0.379,
+        "clay": 0.286,
         "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 3
+        "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 88,
+      "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "Ennoble Care Philly Open",
+        "tournament": "Abierto GNP Seguros",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 51.9
+      "prevActiveScore": 51.6
     },
     {
       "id": "269714",
       "name": "Kristina Liutova",
-      "rank": 129,
-      "prevRank": 126,
+      "rank": 125,
+      "prevRank": 129,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -8165,6 +8129,40 @@ window.TENNIS_DATA = {
       "activeScore": 51.8,
       "legendScore": 0.0,
       "age": 16,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 88,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 51.8
+    },
+    {
+      "id": "259871",
+      "name": "Jeline Vandromme",
+      "rank": 139,
+      "prevRank": 139,
+      "country": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "teamCode": "BEL",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 51.8,
+      "legendScore": 0.0,
+      "age": 18,
       "surface": {
         "hard": null,
         "clay": null,
@@ -8187,18 +8185,18 @@ window.TENNIS_DATA = {
       "prevActiveScore": 51.8
     },
     {
-      "id": "259871",
-      "name": "Jeline Vandromme",
-      "rank": 139,
-      "prevRank": 132,
-      "country": "BEL",
-      "logo": "https://flagcdn.com/24x18/be.png",
-      "teamCode": "BEL",
-      "primary": "#000000",
+      "id": "221803",
+      "name": "Carol Young Suh Lee",
+      "rank": 143,
+      "prevRank": 140,
+      "country": "POC",
+      "logo": "",
+      "teamCode": "POC",
+      "primary": "#555555",
       "secondary": "#FFFFFF",
       "activeScore": 51.8,
       "legendScore": 0.0,
-      "age": 18,
+      "age": 24,
       "surface": {
         "hard": null,
         "clay": null,
@@ -8221,112 +8219,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 51.8
     },
     {
-      "id": "221803",
-      "name": "Carol Young Suh Lee",
-      "rank": 140,
-      "prevRank": 165,
-      "country": "POC",
-      "logo": "",
-      "teamCode": "POC",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "activeScore": 51.8,
-      "legendScore": 0.0,
-      "age": 24,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 91,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 51.8
-    },
-    {
-      "id": "267020",
-      "name": "Teodora Kostovic",
-      "rank": 150,
-      "prevRank": 150,
-      "country": "SRB",
-      "logo": "https://flagcdn.com/24x18/rs.png",
-      "teamCode": "SRB",
-      "primary": "#C6363C",
-      "secondary": "#FFFFFF",
-      "activeScore": 51.8,
-      "legendScore": 0.0,
-      "age": null,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 92,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 51.8
-    },
-    {
-      "id": "213887",
-      "name": "Renata Zarazua",
-      "rank": 73,
-      "prevRank": 73,
-      "country": "MEX",
-      "logo": "https://flagcdn.com/24x18/mx.png",
-      "teamCode": "MEX",
-      "primary": "#555555",
-      "secondary": "#FFFFFF",
-      "activeScore": 51.6,
-      "legendScore": 19.3,
-      "age": 28,
-      "surface": {
-        "hard": 0.379,
-        "clay": 0.286,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 93,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 51.6
-    },
-    {
       "id": "213550",
       "name": "Sofia Kenin",
-      "rank": 115,
-      "prevRank": 118,
+      "rank": 110,
+      "prevRank": 115,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -8347,7 +8243,7 @@ window.TENNIS_DATA = {
         "top10_wins": 14
       },
       "leyendaScore": 3.7,
-      "prevListRank": 94,
+      "prevListRank": 91,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -8357,16 +8253,118 @@ window.TENNIS_DATA = {
       "prevActiveScore": 51.5
     },
     {
+      "id": "236957",
+      "name": "Lola Radivojevic",
+      "rank": 150,
+      "prevRank": 154,
+      "country": "SRB",
+      "logo": "https://flagcdn.com/24x18/rs.png",
+      "teamCode": "SRB",
+      "primary": "#C6363C",
+      "secondary": "#FFFFFF",
+      "activeScore": 51.4,
+      "legendScore": 0.0,
+      "age": 21,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 92,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 51.4
+    },
+    {
+      "id": "213583",
+      "name": "Tatjana Maria",
+      "rank": 79,
+      "prevRank": 80,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.8,
+      "legendScore": 21.8,
+      "age": 39,
+      "surface": {
+        "hard": 0.267,
+        "clay": 0.421,
+        "grass": 0.714
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 6
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 93,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 50.6
+    },
+    {
+      "id": "222601",
+      "name": "Jessica Bouzas Maneiro",
+      "rank": 105,
+      "prevRank": 90,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
+      "secondary": "#FFFFFF",
+      "activeScore": 50.6,
+      "legendScore": 31.3,
+      "age": 23,
+      "surface": {
+        "hard": 0.415,
+        "clay": 0.545,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 94,
+      "tournamentStatus": {
+        "tournament": "Ennoble Care Philly Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 51.9
+    },
+    {
       "id": "201548",
       "name": "Ajla Tomljanovic",
-      "rank": 93,
-      "prevRank": 95,
+      "rank": 103,
+      "prevRank": 93,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
       "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 50.9,
+      "activeScore": 50.0,
       "legendScore": 29.8,
       "age": 33,
       "surface": {
@@ -8391,44 +8389,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 50.9
     },
     {
-      "id": "213583",
-      "name": "Tatjana Maria",
-      "rank": 80,
-      "prevRank": 80,
-      "country": "GER",
-      "logo": "https://flagcdn.com/24x18/de.png",
-      "teamCode": "GER",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "activeScore": 50.6,
-      "legendScore": 21.8,
-      "age": 39,
-      "surface": {
-        "hard": 0.267,
-        "clay": 0.421,
-        "grass": 0.714
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 4,
-        "weeks_no1": 0,
-        "top10_wins": 6
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 96,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 50.6
-    },
-    {
       "id": "222966",
       "name": "Dominika Salkova",
-      "rank": 123,
-      "prevRank": 120,
+      "rank": 118,
+      "prevRank": 123,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -8451,7 +8415,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 97,
+      "prevListRank": 96,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -8461,10 +8425,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 49.8
     },
     {
+      "id": "215306",
+      "name": "Emiliana Arango",
+      "rank": 84,
+      "prevRank": 95,
+      "country": "COL",
+      "logo": "https://flagcdn.com/24x18/co.png",
+      "teamCode": "COL",
+      "primary": "#FCD116",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.7,
+      "legendScore": 10.1,
+      "age": 25,
+      "surface": {
+        "hard": 0.393,
+        "clay": 0.467,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 97,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 48.4
+    },
+    {
       "id": "215453",
       "name": "Marina Bassols Ribera",
-      "rank": 134,
-      "prevRank": 136,
+      "rank": 133,
+      "prevRank": 134,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -8495,50 +8493,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 49.7
     },
     {
-      "id": "215872",
-      "name": "Kamilla Rakhimova",
-      "rank": 83,
-      "prevRank": 83,
-      "country": "UZB",
-      "logo": "https://flagcdn.com/24x18/uz.png",
-      "teamCode": "UZB",
-      "primary": "#1EB53A",
-      "secondary": "#FFFFFF",
-      "activeScore": 49.4,
-      "legendScore": 23.0,
-      "age": 24,
-      "surface": {
-        "hard": 0.259,
-        "clay": 0.364,
-        "grass": 0.571
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 99,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 49.4
-    },
-    {
       "id": "243420",
       "name": "Hanne Vandewinkel",
-      "rank": 82,
-      "prevRank": 93,
+      "rank": 77,
+      "prevRank": 82,
       "country": "BEL",
       "logo": "https://flagcdn.com/24x18/be.png",
       "teamCode": "BEL",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 49.0,
+      "activeScore": 49.6,
       "legendScore": 0.0,
       "age": 22,
       "surface": {
@@ -8553,7 +8517,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 100,
+      "prevListRank": 99,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -8565,8 +8529,8 @@ window.TENNIS_DATA = {
     {
       "id": "203514",
       "name": "Katarzyna Kawa",
-      "rank": 133,
-      "prevRank": 137,
+      "rank": 129,
+      "prevRank": 133,
       "country": "POL",
       "logo": "https://flagcdn.com/24x18/pl.png",
       "teamCode": "POL",
@@ -8589,7 +8553,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 101,
+      "prevListRank": 100,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -8601,8 +8565,8 @@ window.TENNIS_DATA = {
     {
       "id": "247669",
       "name": "Veronika Podrez",
-      "rank": 137,
-      "prevRank": 139,
+      "rank": 132,
+      "prevRank": 137,
       "country": "UKR",
       "logo": "https://flagcdn.com/24x18/ua.png",
       "teamCode": "UKR",
@@ -8625,7 +8589,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 102,
+      "prevListRank": 101,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -8635,10 +8599,78 @@ window.TENNIS_DATA = {
       "prevActiveScore": 48.9
     },
     {
+      "id": "215020",
+      "name": "Anna Blinkova",
+      "rank": 94,
+      "prevRank": 111,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.8,
+      "legendScore": 21.5,
+      "age": 27,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.231,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 4
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 102,
+      "tournamentStatus": {
+        "tournament": "Ennoble Care Philly Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 48.1
+    },
+    {
+      "id": "215872",
+      "name": "Kamilla Rakhimova",
+      "rank": 88,
+      "prevRank": 83,
+      "country": "UZB",
+      "logo": "https://flagcdn.com/24x18/uz.png",
+      "teamCode": "UZB",
+      "primary": "#1EB53A",
+      "secondary": "#FFFFFF",
+      "activeScore": 48.7,
+      "legendScore": 23.0,
+      "age": 24,
+      "surface": {
+        "hard": 0.259,
+        "clay": 0.364,
+        "grass": 0.571
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 103,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 49.4
+    },
+    {
       "id": "210622",
       "name": "Andrea Lazaro Garcia",
-      "rank": 147,
-      "prevRank": 151,
+      "rank": 142,
+      "prevRank": 147,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -8661,7 +8693,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 35,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 103,
+      "prevListRank": 104,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -8673,8 +8705,8 @@ window.TENNIS_DATA = {
     {
       "id": "223194",
       "name": "Taylah Preston",
-      "rank": 101,
-      "prevRank": 106,
+      "rank": 100,
+      "prevRank": 101,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -8697,7 +8729,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 104,
+      "prevListRank": 105,
       "tournamentStatus": {
         "tournament": "Ennoble Care Philly Open",
         "state": "alive",
@@ -8707,118 +8739,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 48.5
     },
     {
-      "id": "215306",
-      "name": "Emiliana Arango",
-      "rank": 95,
-      "prevRank": 97,
-      "country": "COL",
-      "logo": "https://flagcdn.com/24x18/co.png",
-      "teamCode": "COL",
-      "primary": "#FCD116",
-      "secondary": "#FFFFFF",
-      "activeScore": 48.4,
-      "legendScore": 10.1,
-      "age": 25,
-      "surface": {
-        "hard": 0.393,
-        "clay": 0.467,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 105,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 48.4
-    },
-    {
-      "id": "215020",
-      "name": "Anna Blinkova",
-      "rank": 111,
-      "prevRank": 108,
+      "id": "221407",
+      "name": "Oksana Selekhmeteva",
+      "rank": 93,
+      "prevRank": 99,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
       "activeScore": 48.1,
-      "legendScore": 21.5,
-      "age": 27,
-      "surface": {
-        "hard": 0.5,
-        "clay": 0.231,
-        "grass": 0.5
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 4
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 106,
-      "tournamentStatus": {
-        "tournament": "Ennoble Care Philly Open",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 48.1
-    },
-    {
-      "id": "211685",
-      "name": "Rebecca Sramkova",
-      "rank": 128,
-      "prevRank": 143,
-      "country": "SVK",
-      "logo": "https://flagcdn.com/24x18/sk.png",
-      "teamCode": "SVK",
-      "primary": "#0B4EA2",
-      "secondary": "#FFFFFF",
-      "activeScore": 48.0,
-      "legendScore": 5.5,
-      "age": 29,
-      "surface": {
-        "hard": 0.39,
-        "clay": 0.286,
-        "grass": 0.556
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 107,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 48.0
-    },
-    {
-      "id": "221407",
-      "name": "Oksana Selekhmeteva",
-      "rank": 99,
-      "prevRank": 100,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "activeScore": 47.4,
       "legendScore": 15.3,
       "age": 23,
       "surface": {
@@ -8833,7 +8763,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 108,
+      "prevListRank": 106,
       "tournamentStatus": {
         "tournament": "Ennoble Care Philly Open",
         "state": "alive",
@@ -8845,8 +8775,8 @@ window.TENNIS_DATA = {
     {
       "id": "259733",
       "name": "Kaitlin Quevedo",
-      "rank": 110,
-      "prevRank": 94,
+      "rank": 107,
+      "prevRank": 110,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -8867,7 +8797,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 109,
+      "prevListRank": 107,
       "tournamentStatus": {
         "tournament": "Ennoble Care Philly Open",
         "state": "alive",
@@ -8877,16 +8807,84 @@ window.TENNIS_DATA = {
       "prevActiveScore": 46.7
     },
     {
+      "id": "215899",
+      "name": "Simona Waltert",
+      "rank": 85,
+      "prevRank": 87,
+      "country": "SUI",
+      "logo": "https://flagcdn.com/24x18/ch.png",
+      "teamCode": "SUI",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 46.1,
+      "legendScore": 12.3,
+      "age": 25,
+      "surface": {
+        "hard": 0.333,
+        "clay": 0.444,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 108,
+      "tournamentStatus": {
+        "tournament": "Ennoble Care Philly Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 45.8
+    },
+    {
+      "id": "221039",
+      "name": "Elsa Jacquemot",
+      "rank": 113,
+      "prevRank": 102,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 45.7,
+      "legendScore": 23.6,
+      "age": 23,
+      "surface": {
+        "hard": 0.421,
+        "clay": 0.333,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 109,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 45.7
+    },
+    {
       "id": "220465",
       "name": "Katie Volynets",
-      "rank": 89,
-      "prevRank": 91,
+      "rank": 91,
+      "prevRank": 89,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 45.9,
+      "activeScore": 45.6,
       "legendScore": 16.9,
       "age": 24,
       "surface": {
@@ -8911,55 +8909,21 @@ window.TENNIS_DATA = {
       "prevActiveScore": 45.9
     },
     {
-      "id": "215899",
-      "name": "Simona Waltert",
-      "rank": 87,
-      "prevRank": 90,
-      "country": "SUI",
-      "logo": "https://flagcdn.com/24x18/ch.png",
-      "teamCode": "SUI",
-      "primary": "#FF0000",
+      "id": "261972",
+      "name": "Tyra Caterina Grant",
+      "rank": 149,
+      "prevRank": 153,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
       "secondary": "#FFFFFF",
-      "activeScore": 45.8,
-      "legendScore": 12.3,
-      "age": 25,
+      "activeScore": 45.6,
+      "legendScore": 0.0,
+      "age": 18,
       "surface": {
-        "hard": 0.333,
-        "clay": 0.444,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 111,
-      "tournamentStatus": {
-        "tournament": "Ennoble Care Philly Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 45.8
-    },
-    {
-      "id": "221039",
-      "name": "Elsa Jacquemot",
-      "rank": 102,
-      "prevRank": 101,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
-      "secondary": "#FFFFFF",
-      "activeScore": 45.7,
-      "legendScore": 23.6,
-      "age": 23,
-      "surface": {
-        "hard": 0.421,
-        "clay": 0.333,
+        "hard": null,
+        "clay": 0.4,
         "grass": null
       },
       "stats": {
@@ -8969,56 +8933,20 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 112,
+      "prevListRank": 111,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
       },
-      "prevActiveScore": 45.7
-    },
-    {
-      "id": "206368",
-      "name": "Veronika Kudermetova",
-      "rank": 145,
-      "prevRank": 129,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "activeScore": 45.4,
-      "legendScore": 39.0,
-      "age": 29,
-      "surface": {
-        "hard": 0.531,
-        "clay": 0.583,
-        "grass": 0.5
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 16
-      },
-      "inactiveWeeks": 32,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 113,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 45.4
+      "prevActiveScore": 45.6
     },
     {
       "id": "214906",
       "name": "Claire Liu",
-      "rank": 114,
-      "prevRank": 116,
+      "rank": 111,
+      "prevRank": 114,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -9039,7 +8967,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 114,
+      "prevListRank": 112,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -9051,8 +8979,8 @@ window.TENNIS_DATA = {
     {
       "id": "263644",
       "name": "Emerson Jones",
-      "rank": 131,
-      "prevRank": 134,
+      "rank": 126,
+      "prevRank": 131,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -9073,7 +9001,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 115,
+      "prevListRank": 113,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -9083,44 +9011,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 45.1
     },
     {
-      "id": "220435",
-      "name": "Anastasia Zakharova",
-      "rank": 91,
-      "prevRank": 99,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
-      "secondary": "#FFFFFF",
-      "activeScore": 44.9,
-      "legendScore": 27.0,
-      "age": 24,
-      "surface": {
-        "hard": 0.385,
-        "clay": 0.2,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 116,
-      "tournamentStatus": {
-        "tournament": "Ennoble Care Philly Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 44.9
-    },
-    {
       "id": "205925",
       "name": "Aliaksandra Sasnovich",
-      "rank": 138,
-      "prevRank": 141,
+      "rank": 136,
+      "prevRank": 138,
       "country": "BLR",
       "logo": "https://flagcdn.com/24x18/by.png",
       "teamCode": "BLR",
@@ -9143,7 +9037,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 117,
+      "prevListRank": 114,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -9155,7 +9049,7 @@ window.TENNIS_DATA = {
     {
       "id": "222661",
       "name": "Sonay Kartal",
-      "rank": 124,
+      "rank": 123,
       "prevRank": 124,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
@@ -9179,7 +9073,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 118,
+      "prevListRank": 115,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -9189,16 +9083,120 @@ window.TENNIS_DATA = {
       "prevActiveScore": 44.7
     },
     {
+      "id": "220699",
+      "name": "Julia Riera",
+      "rank": 147,
+      "prevRank": 152,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 44.3,
+      "legendScore": 0.0,
+      "age": 24,
+      "surface": {
+        "hard": null,
+        "clay": 0.625,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 116,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 54.3
+    },
+    {
+      "id": "220435",
+      "name": "Anastasia Zakharova",
+      "rank": 101,
+      "prevRank": 91,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "activeScore": 43.7,
+      "legendScore": 27.0,
+      "age": 24,
+      "surface": {
+        "hard": 0.385,
+        "clay": 0.2,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 117,
+      "tournamentStatus": {
+        "tournament": "Ennoble Care Philly Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 44.9
+    },
+    {
+      "id": "230870",
+      "name": "Ella Seidel",
+      "rank": 124,
+      "prevRank": 103,
+      "country": "GER",
+      "logo": "https://flagcdn.com/24x18/de.png",
+      "teamCode": "GER",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 43.7,
+      "legendScore": 0.0,
+      "age": 21,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.167,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 118,
+      "tournamentStatus": {
+        "tournament": "Ennoble Care Philly Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 43.7
+    },
+    {
       "id": "221257",
       "name": "Sinja Kraus",
-      "rank": 85,
-      "prevRank": 81,
+      "rank": 86,
+      "prevRank": 85,
       "country": "AUT",
       "logo": "https://flagcdn.com/24x18/at.png",
       "teamCode": "AUT",
       "primary": "#ED2939",
       "secondary": "#FFFFFF",
-      "activeScore": 43.8,
+      "activeScore": 43.6,
       "legendScore": 0.0,
       "age": 24,
       "surface": {
@@ -9223,44 +9221,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 43.8
     },
     {
-      "id": "230870",
-      "name": "Ella Seidel",
-      "rank": 103,
-      "prevRank": 105,
-      "country": "GER",
-      "logo": "https://flagcdn.com/24x18/de.png",
-      "teamCode": "GER",
-      "primary": "#000000",
+      "id": "216016",
+      "name": "Xiyu Wang",
+      "rank": 82,
+      "prevRank": 108,
+      "country": "CHN",
+      "logo": "https://flagcdn.com/24x18/cn.png",
+      "teamCode": "CHN",
+      "primary": "#DE2910",
       "secondary": "#FFFFFF",
-      "activeScore": 43.7,
-      "legendScore": 0.0,
-      "age": 21,
+      "activeScore": 43.5,
+      "legendScore": 22.1,
+      "age": 25,
       "surface": {
-        "hard": 0.5,
-        "clay": 0.167,
+        "hard": 0.25,
+        "clay": null,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 1,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 1
       },
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Ennoble Care Philly Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 43.7
+      "prevActiveScore": 41.2
     },
     {
       "id": "211539",
       "name": "Fiona Ferro",
-      "rank": 146,
-      "prevRank": 149,
+      "rank": 141,
+      "prevRank": 146,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -9293,8 +9291,8 @@ window.TENNIS_DATA = {
     {
       "id": "214459",
       "name": "Lucia Bronzetti",
-      "rank": 116,
-      "prevRank": 115,
+      "rank": 135,
+      "prevRank": 116,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -9327,8 +9325,8 @@ window.TENNIS_DATA = {
     {
       "id": "223286",
       "name": "Victoria Jimenez Kasintseva",
-      "rank": 125,
-      "prevRank": 122,
+      "rank": 120,
+      "prevRank": 125,
       "country": "AND",
       "logo": "",
       "teamCode": "AND",
@@ -9361,10 +9359,46 @@ window.TENNIS_DATA = {
       "prevActiveScore": 42.7
     },
     {
+      "id": "221237",
+      "name": "Maria Timofeeva",
+      "rank": 92,
+      "prevRank": 96,
+      "country": "UZB",
+      "logo": "https://flagcdn.com/24x18/uz.png",
+      "teamCode": "UZB",
+      "primary": "#1EB53A",
+      "secondary": "#FFFFFF",
+      "activeScore": 42.3,
+      "legendScore": 30.7,
+      "age": 22,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 124,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 41.7
+    },
+    {
       "id": "220722",
       "name": "Elvina Kalieva",
-      "rank": 120,
-      "prevRank": 121,
+      "rank": 115,
+      "prevRank": 120,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -9387,7 +9421,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 124,
+      "prevListRank": 125,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -9397,80 +9431,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 42.3
     },
     {
-      "id": "221237",
-      "name": "Maria Timofeeva",
-      "rank": 96,
-      "prevRank": 98,
-      "country": "UZB",
-      "logo": "https://flagcdn.com/24x18/uz.png",
-      "teamCode": "UZB",
-      "primary": "#1EB53A",
-      "secondary": "#FFFFFF",
-      "activeScore": 41.7,
-      "legendScore": 30.7,
-      "age": 22,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 6,
-      "inactivePenalty": 6.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 125,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 41.7
-    },
-    {
-      "id": "216016",
-      "name": "Xiyu Wang",
-      "rank": 108,
-      "prevRank": 96,
-      "country": "CHN",
-      "logo": "https://flagcdn.com/24x18/cn.png",
-      "teamCode": "CHN",
-      "primary": "#DE2910",
-      "secondary": "#FFFFFF",
-      "activeScore": 41.2,
-      "legendScore": 22.1,
-      "age": 25,
-      "surface": {
-        "hard": 0.25,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 1,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 126,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 41.2
-    },
-    {
       "id": "215936",
       "name": "Francesca Jones",
       "rank": 104,
-      "prevRank": 107,
+      "prevRank": 104,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
@@ -9491,7 +9455,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 127,
+      "prevListRank": 126,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -9503,8 +9467,8 @@ window.TENNIS_DATA = {
     {
       "id": "214593",
       "name": "Lucrezia Stefanini",
-      "rank": 142,
-      "prevRank": 147,
+      "rank": 119,
+      "prevRank": 142,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -9525,7 +9489,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 128,
+      "prevListRank": 127,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -9537,14 +9501,14 @@ window.TENNIS_DATA = {
     {
       "id": "220416",
       "name": "Moyuka Uchijima",
-      "rank": 100,
-      "prevRank": 111,
+      "rank": 99,
+      "prevRank": 100,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "teamCode": "JPN",
       "primary": "#BC002D",
       "secondary": "#FFFFFF",
-      "activeScore": 39.9,
+      "activeScore": 40.1,
       "legendScore": 20.6,
       "age": 25,
       "surface": {
@@ -9559,7 +9523,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 129,
+      "prevListRank": 128,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -9571,8 +9535,8 @@ window.TENNIS_DATA = {
     {
       "id": "221406",
       "name": "Alina Charaeva",
-      "rank": 113,
-      "prevRank": 114,
+      "rank": 108,
+      "prevRank": 113,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -9595,7 +9559,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.7,
       "leyendaScore": 0.0,
-      "prevListRank": 130,
+      "prevListRank": 129,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -9607,8 +9571,8 @@ window.TENNIS_DATA = {
     {
       "id": "206417",
       "name": "Leolia Jeanjean",
-      "rank": 117,
-      "prevRank": 119,
+      "rank": 127,
+      "prevRank": 117,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -9629,7 +9593,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 131,
+      "prevListRank": 130,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -9641,8 +9605,8 @@ window.TENNIS_DATA = {
     {
       "id": "206294",
       "name": "Yue Yuan",
-      "rank": 126,
-      "prevRank": 128,
+      "rank": 138,
+      "prevRank": 126,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
@@ -9665,7 +9629,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 132,
+      "prevListRank": 131,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -9675,44 +9639,46 @@ window.TENNIS_DATA = {
       "prevActiveScore": 39.3
     },
     {
-      "id": "210886",
-      "name": "Mayar Sherif",
-      "rank": 49,
-      "prevRank": 50,
-      "country": "EGY",
-      "logo": "https://flagcdn.com/24x18/eg.png",
-      "teamCode": "EGY",
-      "primary": "#CE1126",
+      "id": "222290",
+      "name": "Lanlana Tararudee",
+      "rank": 72,
+      "prevRank": 79,
+      "country": "THA",
+      "logo": "https://flagcdn.com/24x18/th.png",
+      "teamCode": "THA",
+      "primary": "#A51931",
       "secondary": "#FFFFFF",
-      "activeScore": 39.1,
-      "legendScore": 13.8,
-      "age": 30,
+      "activeScore": 39.2,
+      "legendScore": 0.0,
+      "age": 22,
       "surface": {
-        "hard": 0.1,
-        "clay": 0.143,
+        "hard": 0.5,
+        "clay": null,
         "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 2,
+        "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 2
+        "top10_wins": 0
       },
+      "inactiveWeeks": 12,
+      "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 133,
+      "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 39.1
+      "prevActiveScore": 38.3
     },
     {
       "id": "221124",
       "name": "Himeno Sakatsume",
-      "rank": 136,
-      "prevRank": 135,
+      "rank": 144,
+      "prevRank": 136,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "teamCode": "JPN",
@@ -9735,7 +9701,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 134,
+      "prevListRank": 133,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -9745,9 +9711,79 @@ window.TENNIS_DATA = {
       "prevActiveScore": 39.1
     },
     {
+      "id": "210886",
+      "name": "Mayar Sherif",
+      "rank": 51,
+      "prevRank": 49,
+      "country": "EGY",
+      "logo": "https://flagcdn.com/24x18/eg.png",
+      "teamCode": "EGY",
+      "primary": "#CE1126",
+      "secondary": "#FFFFFF",
+      "activeScore": 38.8,
+      "legendScore": 13.8,
+      "age": 30,
+      "surface": {
+        "hard": 0.1,
+        "clay": 0.143,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 134,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 39.1
+    },
+    {
+      "id": "216566",
+      "name": "Mananchaya Sawangkaew",
+      "rank": 97,
+      "prevRank": 105,
+      "country": "THA",
+      "logo": "https://flagcdn.com/24x18/th.png",
+      "teamCode": "THA",
+      "primary": "#A51931",
+      "secondary": "#FFFFFF",
+      "activeScore": 38.6,
+      "legendScore": 0.0,
+      "age": 24,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 18,
+      "inactivePenalty": 15.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 135,
+      "tournamentStatus": {
+        "tournament": "Ennoble Care Philly Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 38.3
+    },
+    {
       "id": "221985",
       "name": "Darja Semenistaja",
-      "rank": 112,
+      "rank": 109,
       "prevRank": 112,
       "country": "LAT",
       "logo": "https://flagcdn.com/24x18/lv.png",
@@ -9771,7 +9807,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 135,
+      "prevListRank": 136,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -9781,82 +9817,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 38.5
     },
     {
-      "id": "222290",
-      "name": "Lanlana Tararudee",
-      "rank": 79,
-      "prevRank": 79,
-      "country": "THA",
-      "logo": "https://flagcdn.com/24x18/th.png",
-      "teamCode": "THA",
-      "primary": "#A51931",
-      "secondary": "#FFFFFF",
-      "activeScore": 38.3,
-      "legendScore": 0.0,
-      "age": 22,
-      "surface": {
-        "hard": 0.5,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 12,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 136,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 38.3
-    },
-    {
-      "id": "216566",
-      "name": "Mananchaya Sawangkaew",
-      "rank": 105,
-      "prevRank": 109,
-      "country": "THA",
-      "logo": "https://flagcdn.com/24x18/th.png",
-      "teamCode": "THA",
-      "primary": "#A51931",
-      "secondary": "#FFFFFF",
-      "activeScore": 38.3,
-      "legendScore": 0.0,
-      "age": 24,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 18,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 137,
-      "tournamentStatus": {
-        "tournament": "Ennoble Care Philly Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 38.3
-    },
-    {
       "id": "219875",
       "name": "Varvara Gracheva",
-      "rank": 106,
-      "prevRank": 102,
+      "rank": 148,
+      "prevRank": 106,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -9879,7 +9843,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 10,
       "inactivePenalty": 13.7,
       "leyendaScore": 0.0,
-      "prevListRank": 138,
+      "prevListRank": 137,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -9891,8 +9855,8 @@ window.TENNIS_DATA = {
     {
       "id": "220662",
       "name": "Veronika Erjavec",
-      "rank": 109,
-      "prevRank": 104,
+      "rank": 106,
+      "prevRank": 109,
       "country": "SLO",
       "logo": "https://flagcdn.com/24x18/si.png",
       "teamCode": "SLO",
@@ -9913,7 +9877,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 139,
+      "prevListRank": 138,
       "tournamentStatus": {
         "tournament": "Ennoble Care Philly Open",
         "state": "alive",
@@ -9925,8 +9889,8 @@ window.TENNIS_DATA = {
     {
       "id": "215037",
       "name": "Kayla Day",
-      "rank": 121,
-      "prevRank": 131,
+      "rank": 117,
+      "prevRank": 121,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -9949,7 +9913,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 140,
+      "prevListRank": 139,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -9961,8 +9925,8 @@ window.TENNIS_DATA = {
     {
       "id": "220742",
       "name": "Leyre Romero Gormaz",
-      "rank": 149,
-      "prevRank": 152,
+      "rank": 145,
+      "prevRank": 149,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -9985,7 +9949,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 45,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 141,
+      "prevListRank": 140,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -9997,8 +9961,8 @@ window.TENNIS_DATA = {
     {
       "id": "221307",
       "name": "Darja Vidmanova",
-      "rank": 88,
-      "prevRank": 92,
+      "rank": 90,
+      "prevRank": 88,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -10021,7 +9985,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 142,
+      "prevListRank": 141,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
@@ -10033,8 +9997,8 @@ window.TENNIS_DATA = {
     {
       "id": "221236",
       "name": "Polina Kudermetova",
-      "rank": 97,
-      "prevRank": 103,
+      "rank": 96,
+      "prevRank": 97,
       "country": "UZB",
       "logo": "https://flagcdn.com/24x18/uz.png",
       "teamCode": "UZB",
@@ -10057,7 +10021,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 143,
+      "prevListRank": 142,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -10069,8 +10033,8 @@ window.TENNIS_DATA = {
     {
       "id": "211814",
       "name": "Julia Grabher",
-      "rank": 118,
-      "prevRank": 113,
+      "rank": 114,
+      "prevRank": 118,
       "country": "AUT",
       "logo": "https://flagcdn.com/24x18/at.png",
       "teamCode": "AUT",
@@ -10091,7 +10055,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 144,
+      "prevListRank": 143,
       "tournamentStatus": {
         "tournament": "Ennoble Care Philly Open",
         "state": "alive",
@@ -10101,10 +10065,46 @@ window.TENNIS_DATA = {
       "prevActiveScore": 35.0
     },
     {
+      "id": "223168",
+      "name": "Mary Stoiana",
+      "rank": 122,
+      "prevRank": 130,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "age": 23,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 8,
+      "inactivePenalty": 10.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 144,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 35.0
+    },
+    {
       "id": "215138",
       "name": "Lulu Sun",
-      "rank": 119,
-      "prevRank": 117,
+      "rank": 128,
+      "prevRank": 119,
       "country": "NZL",
       "logo": "https://flagcdn.com/24x18/nz.png",
       "teamCode": "NZL",
@@ -10137,18 +10137,18 @@ window.TENNIS_DATA = {
       "prevActiveScore": 35.0
     },
     {
-      "id": "223168",
-      "name": "Mary Stoiana",
-      "rank": 130,
-      "prevRank": 127,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
+      "id": "211279",
+      "name": "Harriet Dart",
+      "rank": 131,
+      "prevRank": 143,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
       "secondary": "#FFFFFF",
       "activeScore": 35.0,
-      "legendScore": 0.0,
-      "age": 23,
+      "legendScore": 20.6,
+      "age": 30,
       "surface": {
         "hard": null,
         "clay": null,
@@ -10158,10 +10158,10 @@ window.TENNIS_DATA = {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 1
       },
-      "inactiveWeeks": 8,
-      "inactivePenalty": 10.0,
+      "inactiveWeeks": 44,
+      "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
@@ -10175,8 +10175,8 @@ window.TENNIS_DATA = {
     {
       "id": "213666",
       "name": "Maddison Inglis",
-      "rank": 132,
-      "prevRank": 130,
+      "rank": 134,
+      "prevRank": 132,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -10211,8 +10211,8 @@ window.TENNIS_DATA = {
     {
       "id": "223333",
       "name": "Noma Noha Akugue",
-      "rank": 141,
-      "prevRank": 142,
+      "rank": 137,
+      "prevRank": 141,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
@@ -10245,46 +10245,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 35.0
     },
     {
-      "id": "211279",
-      "name": "Harriet Dart",
-      "rank": 143,
-      "prevRank": 144,
-      "country": "GBR",
-      "logo": "https://flagcdn.com/24x18/gb.png",
-      "teamCode": "GBR",
-      "primary": "#012169",
-      "secondary": "#FFFFFF",
-      "activeScore": 35.0,
-      "legendScore": 20.6,
-      "age": 30,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "inactiveWeeks": 44,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 149,
-      "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 35.0
-    },
-    {
       "id": "222233",
       "name": "Marina Stakusic",
-      "rank": 144,
-      "prevRank": 145,
+      "rank": 140,
+      "prevRank": 144,
       "country": "CAN",
       "logo": "https://flagcdn.com/24x18/ca.png",
       "teamCode": "CAN",
@@ -10307,7 +10271,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 150,
+      "prevListRank": 149,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
         "state": "out",
@@ -10315,6 +10279,42 @@ window.TENNIS_DATA = {
         "reason": "No compite esta semana"
       },
       "prevActiveScore": 35.0
+    },
+    {
+      "id": "214461",
+      "name": "Tamara Zidansek",
+      "rank": 146,
+      "prevRank": 151,
+      "country": "SLO",
+      "logo": "https://flagcdn.com/24x18/si.png",
+      "teamCode": "SLO",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 24.2,
+      "age": 28,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 1,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 16,
+      "inactivePenalty": 15.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 150,
+      "tournamentStatus": {
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 50.0
     }
   ],
   "ATP_CHANGES": {
@@ -10327,7 +10327,7 @@ window.TENNIS_DATA = {
     "entered": [],
     "exited": [],
     "prev_date": "",
-    "curr_date": "20260806"
+    "curr_date": "20260820"
   },
   "ATP_LEGENDS": [
     {
@@ -11101,7 +11101,7 @@ window.TENNIS_DATA = {
           "day": "ayer",
           "scheduled": false,
           "w_score": 91.1,
-          "l_score": 63.7,
+          "l_score": 64.5,
           "match_score": 91.1
         }
       ]
@@ -11120,9 +11120,9 @@ window.TENNIS_DATA = {
           "score": "6-1 6-4",
           "day": "ayer",
           "scheduled": false,
-          "w_score": 59.1,
+          "w_score": 58.3,
           "l_score": null,
-          "match_score": 59.1
+          "match_score": 58.3
         },
         {
           "round": "R128",
@@ -11133,9 +11133,9 @@ window.TENNIS_DATA = {
           "score": "7-6 (8-6) 6-0",
           "day": "ayer",
           "scheduled": false,
-          "w_score": 44.9,
-          "l_score": 48.1,
-          "match_score": 48.1
+          "w_score": 43.7,
+          "l_score": 48.8,
+          "match_score": 48.8
         },
         {
           "round": "R128",
@@ -11146,9 +11146,9 @@ window.TENNIS_DATA = {
           "score": "6-2 6-1",
           "day": "ayer",
           "scheduled": false,
-          "w_score": 45.9,
+          "w_score": 45.6,
           "l_score": null,
-          "match_score": 45.9
+          "match_score": 45.6
         },
         {
           "round": "R128",
@@ -11194,9 +11194,9 @@ window.TENNIS_DATA = {
           "score": "por jugar",
           "day": "hoy",
           "scheduled": true,
-          "w_score": 66.8,
-          "l_score": 66.2,
-          "match_score": 66.8
+          "w_score": 66.7,
+          "l_score": 65.8,
+          "match_score": 66.7
         },
         {
           "round": "R128",
@@ -11204,12 +11204,12 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Antonia Ruzic",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 64.6,
-          "l_score": 59.5,
-          "match_score": 64.6
+          "w_score": 64.7,
+          "l_score": 56.8,
+          "match_score": 64.7
         },
         {
           "round": "R128",
@@ -11217,11 +11217,11 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mayar Sherif",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 64.0,
-          "l_score": 39.1,
+          "l_score": 38.8,
           "match_score": 64.0
         },
         {
@@ -11233,22 +11233,9 @@ window.TENNIS_DATA = {
           "score": "6-3 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 57.5,
+          "w_score": 58.1,
           "l_score": 61.3,
           "match_score": 61.3
-        },
-        {
-          "round": "R128",
-          "w": "Alycia Parks",
-          "w_logo": "",
-          "l": "Petra Marcinko",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 56.3,
-          "l_score": 53.5,
-          "match_score": 56.3
         },
         {
           "round": "R128",
@@ -11260,8 +11247,21 @@ window.TENNIS_DATA = {
           "day": "hoy",
           "scheduled": true,
           "w_score": 55.8,
-          "l_score": 55.5,
+          "l_score": 55.7,
           "match_score": 55.8
+        },
+        {
+          "round": "R128",
+          "w": "Petra Marcinko",
+          "w_logo": "",
+          "l": "Alycia Parks",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 53.5,
+          "l_score": 52.9,
+          "match_score": 53.5
         }
       ]
     },
@@ -11279,9 +11279,9 @@ window.TENNIS_DATA = {
           "score": "por jugar",
           "day": "hoy",
           "scheduled": true,
-          "w_score": 59.8,
+          "w_score": 60.7,
           "l_score": null,
-          "match_score": 59.8
+          "match_score": 60.7
         },
         {
           "round": "R128",
@@ -11292,9 +11292,9 @@ window.TENNIS_DATA = {
           "score": "por jugar",
           "day": "hoy",
           "scheduled": true,
-          "w_score": 55.0,
+          "w_score": 55.5,
           "l_score": null,
-          "match_score": 55.0
+          "match_score": 55.5
         },
         {
           "round": "R128",
@@ -11305,9 +11305,9 @@ window.TENNIS_DATA = {
           "score": "por jugar",
           "day": "hoy",
           "scheduled": true,
-          "w_score": 51.9,
+          "w_score": 50.6,
           "l_score": 43.7,
-          "match_score": 51.9
+          "match_score": 50.6
         },
         {
           "round": "R128",
@@ -11319,7 +11319,7 @@ window.TENNIS_DATA = {
           "day": "hoy",
           "scheduled": true,
           "w_score": 48.5,
-          "l_score": 47.4,
+          "l_score": 48.1,
           "match_score": 48.5
         },
         {
@@ -11344,9 +11344,9 @@ window.TENNIS_DATA = {
           "score": "por jugar",
           "day": "hoy",
           "scheduled": true,
-          "w_score": 45.8,
+          "w_score": 46.1,
           "l_score": null,
-          "match_score": 45.8
+          "match_score": 46.1
         },
         {
           "round": "R128",
@@ -11357,9 +11357,9 @@ window.TENNIS_DATA = {
           "score": "por jugar",
           "day": "hoy",
           "scheduled": true,
-          "w_score": 38.3,
+          "w_score": 38.6,
           "l_score": null,
-          "match_score": 38.3
+          "match_score": 38.6
         },
         {
           "round": "R128",
@@ -11463,11 +11463,11 @@ window.TENNIS_DATA = {
     ],
     "alive": [
       "Alycia Parks",
+      "Anastasia Potapova",
       "Anastasia Zakharova",
       "Anhelina Kalinina",
       "Ann Li",
       "Anna Bondar",
-      "Antonia Ruzic",
       "Ariana Arseneault",
       "Ashlyn Krueger",
       "Camila Osorio",
@@ -11495,7 +11495,6 @@ window.TENNIS_DATA = {
       "Mananchaya Sawangkaew",
       "Maria Timofeeva",
       "Maya Joint",
-      "Mayar Sherif",
       "Mia Pohankova",
       "Nikola Bartunkova",
       "Oksana Selekhmeteva",
@@ -11516,13 +11515,15 @@ window.TENNIS_DATA = {
     "out": [
       "Anna Blinkova",
       "Anna Frey",
+      "Antonia Ruzic",
       "Ena Koike",
       "Hong Yi Cody Wong",
       "Lilli Tagger",
+      "Mayar Sherif",
       "Mell Reasco Gonzalez"
     ],
-    "aliveCount": 50,
-    "matchesSeen": 29
+    "aliveCount": 49,
+    "matchesSeen": 30
   },
   "ATP_SCORE_LOG": {
     "206173": [
@@ -22186,7 +22187,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        91.6
+        91.8
       ]
     ],
     "221103": [
@@ -22326,7 +22327,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        90.8
+        90.5
       ]
     ],
     "216146": [
@@ -22746,7 +22747,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        85.2
+        85.5
       ]
     ],
     "202505": [
@@ -22886,77 +22887,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        83.7
-      ]
-    ],
-    "201619": [
-      [
-        "20260808",
-        80.4
-      ],
-      [
-        "20260809",
-        80.4
-      ],
-      [
-        "20260810",
-        80.4
-      ],
-      [
-        "20260811",
-        80.4
-      ],
-      [
-        "20260812",
-        80.4
-      ],
-      [
-        "20260813",
-        80.4
-      ],
-      [
-        "20260814",
-        80.3
-      ],
-      [
-        "20260815",
-        80.3
-      ],
-      [
-        "20260816",
-        80.3
-      ],
-      [
-        "20260817",
-        80.3
-      ],
-      [
-        "20260818",
-        80.3
-      ],
-      [
-        "20260819",
-        80.3
-      ],
-      [
-        "20260820",
-        80.3
-      ],
-      [
-        "20260821",
-        80.3
-      ],
-      [
-        "20260822",
-        80.3
-      ],
-      [
-        "20260823",
-        80.3
-      ],
-      [
-        "20260824",
-        80.3
+        84.0
       ]
     ],
     "216081": [
@@ -23026,7 +22957,77 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        80.1
+        80.4
+      ]
+    ],
+    "201619": [
+      [
+        "20260808",
+        80.4
+      ],
+      [
+        "20260809",
+        80.4
+      ],
+      [
+        "20260810",
+        80.4
+      ],
+      [
+        "20260811",
+        80.4
+      ],
+      [
+        "20260812",
+        80.4
+      ],
+      [
+        "20260813",
+        80.4
+      ],
+      [
+        "20260814",
+        80.3
+      ],
+      [
+        "20260815",
+        80.3
+      ],
+      [
+        "20260816",
+        80.3
+      ],
+      [
+        "20260817",
+        80.3
+      ],
+      [
+        "20260818",
+        80.3
+      ],
+      [
+        "20260819",
+        80.3
+      ],
+      [
+        "20260820",
+        80.3
+      ],
+      [
+        "20260821",
+        80.3
+      ],
+      [
+        "20260822",
+        80.3
+      ],
+      [
+        "20260823",
+        80.3
+      ],
+      [
+        "20260824",
+        80.4
       ]
     ],
     "211768": [
@@ -23236,7 +23237,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        78.5
+        78.7
       ]
     ],
     "210722": [
@@ -23303,76 +23304,6 @@ window.TENNIS_DATA = {
       [
         "20260823",
         76.4
-      ],
-      [
-        "20260824",
-        76.4
-      ]
-    ],
-    "214939": [
-      [
-        "20260808",
-        76.1
-      ],
-      [
-        "20260809",
-        76.1
-      ],
-      [
-        "20260810",
-        76.1
-      ],
-      [
-        "20260811",
-        76.1
-      ],
-      [
-        "20260812",
-        76.1
-      ],
-      [
-        "20260813",
-        76.1
-      ],
-      [
-        "20260814",
-        76.1
-      ],
-      [
-        "20260815",
-        76.1
-      ],
-      [
-        "20260816",
-        76.1
-      ],
-      [
-        "20260817",
-        76.1
-      ],
-      [
-        "20260818",
-        76.1
-      ],
-      [
-        "20260819",
-        76.1
-      ],
-      [
-        "20260820",
-        76.1
-      ],
-      [
-        "20260821",
-        76.1
-      ],
-      [
-        "20260822",
-        76.1
-      ],
-      [
-        "20260823",
-        76.1
       ],
       [
         "20260824",
@@ -23446,7 +23377,77 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        75.7
+        76.0
+      ]
+    ],
+    "214939": [
+      [
+        "20260808",
+        76.1
+      ],
+      [
+        "20260809",
+        76.1
+      ],
+      [
+        "20260810",
+        76.1
+      ],
+      [
+        "20260811",
+        76.1
+      ],
+      [
+        "20260812",
+        76.1
+      ],
+      [
+        "20260813",
+        76.1
+      ],
+      [
+        "20260814",
+        76.1
+      ],
+      [
+        "20260815",
+        76.1
+      ],
+      [
+        "20260816",
+        76.1
+      ],
+      [
+        "20260817",
+        76.1
+      ],
+      [
+        "20260818",
+        76.1
+      ],
+      [
+        "20260819",
+        76.1
+      ],
+      [
+        "20260820",
+        76.1
+      ],
+      [
+        "20260821",
+        76.1
+      ],
+      [
+        "20260822",
+        76.1
+      ],
+      [
+        "20260823",
+        76.1
+      ],
+      [
+        "20260824",
+        75.9
       ]
     ],
     "223670": [
@@ -23516,7 +23517,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        75.6
+        75.5
       ]
     ],
     "201662": [
@@ -23586,7 +23587,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        74.8
+        75.0
       ]
     ],
     "211148": [
@@ -23656,7 +23657,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        73.6
+        72.9
       ]
     ],
     "206252": [
@@ -23726,7 +23727,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        72.3
+        72.0
       ]
     ],
     "213631": [
@@ -23796,77 +23797,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        71.5
-      ]
-    ],
-    "211533": [
-      [
-        "20260808",
-        71.2
-      ],
-      [
-        "20260809",
-        71.2
-      ],
-      [
-        "20260810",
-        71.2
-      ],
-      [
-        "20260811",
-        71.2
-      ],
-      [
-        "20260812",
-        71.2
-      ],
-      [
-        "20260813",
-        71.2
-      ],
-      [
-        "20260814",
-        71.0
-      ],
-      [
-        "20260815",
-        71.0
-      ],
-      [
-        "20260816",
-        71.0
-      ],
-      [
-        "20260817",
-        71.0
-      ],
-      [
-        "20260818",
-        71.0
-      ],
-      [
-        "20260819",
-        71.0
-      ],
-      [
-        "20260820",
-        71.0
-      ],
-      [
-        "20260821",
-        71.0
-      ],
-      [
-        "20260822",
-        71.0
-      ],
-      [
-        "20260823",
-        71.0
-      ],
-      [
-        "20260824",
-        71.0
+        71.6
       ]
     ],
     "215613": [
@@ -23936,7 +23867,77 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        70.8
+        70.9
+      ]
+    ],
+    "211533": [
+      [
+        "20260808",
+        71.2
+      ],
+      [
+        "20260809",
+        71.2
+      ],
+      [
+        "20260810",
+        71.2
+      ],
+      [
+        "20260811",
+        71.2
+      ],
+      [
+        "20260812",
+        71.2
+      ],
+      [
+        "20260813",
+        71.2
+      ],
+      [
+        "20260814",
+        71.0
+      ],
+      [
+        "20260815",
+        71.0
+      ],
+      [
+        "20260816",
+        71.0
+      ],
+      [
+        "20260817",
+        71.0
+      ],
+      [
+        "20260818",
+        71.0
+      ],
+      [
+        "20260819",
+        71.0
+      ],
+      [
+        "20260820",
+        71.0
+      ],
+      [
+        "20260821",
+        71.0
+      ],
+      [
+        "20260822",
+        71.0
+      ],
+      [
+        "20260823",
+        71.0
+      ],
+      [
+        "20260824",
+        70.9
       ]
     ],
     "221024": [
@@ -24006,77 +24007,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        69.8
-      ]
-    ],
-    "206420": [
-      [
-        "20260808",
-        68.8
-      ],
-      [
-        "20260809",
-        68.8
-      ],
-      [
-        "20260810",
-        68.8
-      ],
-      [
-        "20260811",
-        68.8
-      ],
-      [
-        "20260812",
-        68.8
-      ],
-      [
-        "20260813",
-        68.8
-      ],
-      [
-        "20260814",
-        68.9
-      ],
-      [
-        "20260815",
-        68.9
-      ],
-      [
-        "20260816",
-        68.9
-      ],
-      [
-        "20260817",
-        68.9
-      ],
-      [
-        "20260818",
-        68.9
-      ],
-      [
-        "20260819",
-        68.9
-      ],
-      [
-        "20260820",
-        68.9
-      ],
-      [
-        "20260821",
-        68.9
-      ],
-      [
-        "20260822",
-        68.9
-      ],
-      [
-        "20260823",
-        68.9
-      ],
-      [
-        "20260824",
-        68.9
+        69.6
       ]
     ],
     "223253": [
@@ -24146,77 +24077,77 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        68.8
+        69.1
       ]
     ],
-    "211713": [
+    "206420": [
       [
         "20260808",
-        67.8
+        68.8
       ],
       [
         "20260809",
-        67.8
+        68.8
       ],
       [
         "20260810",
-        67.8
+        68.8
       ],
       [
         "20260811",
-        67.8
+        68.8
       ],
       [
         "20260812",
-        67.8
+        68.8
       ],
       [
         "20260813",
-        67.8
+        68.8
       ],
       [
         "20260814",
-        67.6
+        68.9
       ],
       [
         "20260815",
-        67.6
+        68.9
       ],
       [
         "20260816",
-        67.6
+        68.9
       ],
       [
         "20260817",
-        67.6
+        68.9
       ],
       [
         "20260818",
-        67.6
+        68.9
       ],
       [
         "20260819",
-        67.6
+        68.9
       ],
       [
         "20260820",
-        67.6
+        68.9
       ],
       [
         "20260821",
-        67.6
+        68.9
       ],
       [
         "20260822",
-        67.6
+        68.9
       ],
       [
         "20260823",
-        67.6
+        68.9
       ],
       [
         "20260824",
-        67.6
+        68.8
       ]
     ],
     "220367": [
@@ -24286,7 +24217,77 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        67.4
+        67.3
+      ]
+    ],
+    "211713": [
+      [
+        "20260808",
+        67.8
+      ],
+      [
+        "20260809",
+        67.8
+      ],
+      [
+        "20260810",
+        67.8
+      ],
+      [
+        "20260811",
+        67.8
+      ],
+      [
+        "20260812",
+        67.8
+      ],
+      [
+        "20260813",
+        67.8
+      ],
+      [
+        "20260814",
+        67.6
+      ],
+      [
+        "20260815",
+        67.6
+      ],
+      [
+        "20260816",
+        67.6
+      ],
+      [
+        "20260817",
+        67.6
+      ],
+      [
+        "20260818",
+        67.6
+      ],
+      [
+        "20260819",
+        67.6
+      ],
+      [
+        "20260820",
+        67.6
+      ],
+      [
+        "20260821",
+        67.6
+      ],
+      [
+        "20260822",
+        67.6
+      ],
+      [
+        "20260823",
+        67.6
+      ],
+      [
+        "20260824",
+        67.3
       ]
     ],
     "220548": [
@@ -24356,7 +24357,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        67.0
+        66.9
       ]
     ],
     "215983": [
@@ -24426,7 +24427,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        66.8
+        66.7
       ]
     ],
     "221012": [
@@ -24566,77 +24567,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        66.2
-      ]
-    ],
-    "220520": [
-      [
-        "20260808",
-        66.9
-      ],
-      [
-        "20260809",
-        66.9
-      ],
-      [
-        "20260810",
-        66.9
-      ],
-      [
-        "20260811",
-        66.9
-      ],
-      [
-        "20260812",
-        66.9
-      ],
-      [
-        "20260813",
-        66.9
-      ],
-      [
-        "20260814",
-        65.6
-      ],
-      [
-        "20260815",
-        65.6
-      ],
-      [
-        "20260816",
-        65.6
-      ],
-      [
-        "20260817",
-        65.6
-      ],
-      [
-        "20260818",
-        65.6
-      ],
-      [
-        "20260819",
-        65.6
-      ],
-      [
-        "20260820",
-        65.6
-      ],
-      [
-        "20260821",
-        65.6
-      ],
-      [
-        "20260822",
-        65.6
-      ],
-      [
-        "20260823",
-        65.6
-      ],
-      [
-        "20260824",
-        65.6
+        65.8
       ]
     ],
     "206289": [
@@ -24706,7 +24637,77 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        65.4
+        65.3
+      ]
+    ],
+    "220348": [
+      [
+        "20260808",
+        63.2
+      ],
+      [
+        "20260809",
+        63.2
+      ],
+      [
+        "20260810",
+        63.2
+      ],
+      [
+        "20260811",
+        63.2
+      ],
+      [
+        "20260812",
+        63.2
+      ],
+      [
+        "20260813",
+        63.2
+      ],
+      [
+        "20260814",
+        62.9
+      ],
+      [
+        "20260815",
+        62.9
+      ],
+      [
+        "20260816",
+        62.9
+      ],
+      [
+        "20260817",
+        62.9
+      ],
+      [
+        "20260818",
+        62.9
+      ],
+      [
+        "20260819",
+        62.9
+      ],
+      [
+        "20260820",
+        62.9
+      ],
+      [
+        "20260821",
+        62.9
+      ],
+      [
+        "20260822",
+        62.9
+      ],
+      [
+        "20260823",
+        62.9
+      ],
+      [
+        "20260824",
+        65.0
       ]
     ],
     "223360": [
@@ -24776,7 +24777,147 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        64.6
+        64.7
+      ]
+    ],
+    "220520": [
+      [
+        "20260808",
+        66.9
+      ],
+      [
+        "20260809",
+        66.9
+      ],
+      [
+        "20260810",
+        66.9
+      ],
+      [
+        "20260811",
+        66.9
+      ],
+      [
+        "20260812",
+        66.9
+      ],
+      [
+        "20260813",
+        66.9
+      ],
+      [
+        "20260814",
+        65.6
+      ],
+      [
+        "20260815",
+        65.6
+      ],
+      [
+        "20260816",
+        65.6
+      ],
+      [
+        "20260817",
+        65.6
+      ],
+      [
+        "20260818",
+        65.6
+      ],
+      [
+        "20260819",
+        65.6
+      ],
+      [
+        "20260820",
+        65.6
+      ],
+      [
+        "20260821",
+        65.6
+      ],
+      [
+        "20260822",
+        65.6
+      ],
+      [
+        "20260823",
+        65.6
+      ],
+      [
+        "20260824",
+        64.7
+      ]
+    ],
+    "239383": [
+      [
+        "20260808",
+        63.4
+      ],
+      [
+        "20260809",
+        63.4
+      ],
+      [
+        "20260810",
+        63.4
+      ],
+      [
+        "20260811",
+        63.4
+      ],
+      [
+        "20260812",
+        63.4
+      ],
+      [
+        "20260813",
+        63.4
+      ],
+      [
+        "20260814",
+        63.7
+      ],
+      [
+        "20260815",
+        63.7
+      ],
+      [
+        "20260816",
+        63.7
+      ],
+      [
+        "20260817",
+        63.7
+      ],
+      [
+        "20260818",
+        63.7
+      ],
+      [
+        "20260819",
+        63.7
+      ],
+      [
+        "20260820",
+        63.7
+      ],
+      [
+        "20260821",
+        63.7
+      ],
+      [
+        "20260822",
+        63.7
+      ],
+      [
+        "20260823",
+        63.7
+      ],
+      [
+        "20260824",
+        64.5
       ]
     ],
     "220704": [
@@ -24849,6 +24990,76 @@ window.TENNIS_DATA = {
         64.3
       ]
     ],
+    "211107": [
+      [
+        "20260808",
+        62.6
+      ],
+      [
+        "20260809",
+        62.6
+      ],
+      [
+        "20260810",
+        62.6
+      ],
+      [
+        "20260811",
+        62.6
+      ],
+      [
+        "20260812",
+        62.6
+      ],
+      [
+        "20260813",
+        62.6
+      ],
+      [
+        "20260814",
+        62.8
+      ],
+      [
+        "20260815",
+        62.8
+      ],
+      [
+        "20260816",
+        62.8
+      ],
+      [
+        "20260817",
+        62.8
+      ],
+      [
+        "20260818",
+        62.8
+      ],
+      [
+        "20260819",
+        62.8
+      ],
+      [
+        "20260820",
+        62.8
+      ],
+      [
+        "20260821",
+        62.8
+      ],
+      [
+        "20260822",
+        62.8
+      ],
+      [
+        "20260823",
+        62.8
+      ],
+      [
+        "20260824",
+        64.2
+      ]
+    ],
     "220716": [
       [
         "20260808",
@@ -24917,76 +25128,6 @@ window.TENNIS_DATA = {
       [
         "20260824",
         64.0
-      ]
-    ],
-    "239383": [
-      [
-        "20260808",
-        63.4
-      ],
-      [
-        "20260809",
-        63.4
-      ],
-      [
-        "20260810",
-        63.4
-      ],
-      [
-        "20260811",
-        63.4
-      ],
-      [
-        "20260812",
-        63.4
-      ],
-      [
-        "20260813",
-        63.4
-      ],
-      [
-        "20260814",
-        63.7
-      ],
-      [
-        "20260815",
-        63.7
-      ],
-      [
-        "20260816",
-        63.7
-      ],
-      [
-        "20260817",
-        63.7
-      ],
-      [
-        "20260818",
-        63.7
-      ],
-      [
-        "20260819",
-        63.7
-      ],
-      [
-        "20260820",
-        63.7
-      ],
-      [
-        "20260821",
-        63.7
-      ],
-      [
-        "20260822",
-        63.7
-      ],
-      [
-        "20260823",
-        63.7
-      ],
-      [
-        "20260824",
-        63.7
       ]
     ],
     "266671": [
@@ -25126,10 +25267,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        63.4
+        63.1
       ]
     ],
-    "220348": [
+    "211701": [
       [
         "20260808",
         63.2
@@ -25156,117 +25297,47 @@ window.TENNIS_DATA = {
       ],
       [
         "20260814",
-        62.9
+        62.3
       ],
       [
         "20260815",
-        62.9
+        62.3
       ],
       [
         "20260816",
-        62.9
+        62.3
       ],
       [
         "20260817",
-        62.9
+        62.3
       ],
       [
         "20260818",
-        62.9
+        62.3
       ],
       [
         "20260819",
-        62.9
+        62.3
       ],
       [
         "20260820",
-        62.9
+        62.3
       ],
       [
         "20260821",
-        62.9
+        62.3
       ],
       [
         "20260822",
-        62.9
+        62.3
       ],
       [
         "20260823",
-        62.9
+        62.3
       ],
       [
         "20260824",
         62.9
-      ]
-    ],
-    "211107": [
-      [
-        "20260808",
-        62.6
-      ],
-      [
-        "20260809",
-        62.6
-      ],
-      [
-        "20260810",
-        62.6
-      ],
-      [
-        "20260811",
-        62.6
-      ],
-      [
-        "20260812",
-        62.6
-      ],
-      [
-        "20260813",
-        62.6
-      ],
-      [
-        "20260814",
-        62.8
-      ],
-      [
-        "20260815",
-        62.8
-      ],
-      [
-        "20260816",
-        62.8
-      ],
-      [
-        "20260817",
-        62.8
-      ],
-      [
-        "20260818",
-        62.8
-      ],
-      [
-        "20260819",
-        62.8
-      ],
-      [
-        "20260820",
-        62.8
-      ],
-      [
-        "20260821",
-        62.8
-      ],
-      [
-        "20260822",
-        62.8
-      ],
-      [
-        "20260823",
-        62.8
-      ],
-      [
-        "20260824",
-        62.8
       ]
     ],
     "211337": [
@@ -25339,216 +25410,6 @@ window.TENNIS_DATA = {
         62.7
       ]
     ],
-    "220714": [
-      [
-        "20260808",
-        62.8
-      ],
-      [
-        "20260809",
-        62.8
-      ],
-      [
-        "20260810",
-        62.8
-      ],
-      [
-        "20260811",
-        62.8
-      ],
-      [
-        "20260812",
-        62.8
-      ],
-      [
-        "20260813",
-        62.8
-      ],
-      [
-        "20260814",
-        62.6
-      ],
-      [
-        "20260815",
-        62.6
-      ],
-      [
-        "20260816",
-        62.6
-      ],
-      [
-        "20260817",
-        62.6
-      ],
-      [
-        "20260818",
-        62.6
-      ],
-      [
-        "20260819",
-        62.6
-      ],
-      [
-        "20260820",
-        62.6
-      ],
-      [
-        "20260821",
-        62.6
-      ],
-      [
-        "20260822",
-        62.6
-      ],
-      [
-        "20260823",
-        62.6
-      ],
-      [
-        "20260824",
-        62.6
-      ]
-    ],
-    "202663": [
-      [
-        "20260808",
-        61.7
-      ],
-      [
-        "20260809",
-        61.7
-      ],
-      [
-        "20260810",
-        61.7
-      ],
-      [
-        "20260811",
-        61.7
-      ],
-      [
-        "20260812",
-        61.7
-      ],
-      [
-        "20260813",
-        61.7
-      ],
-      [
-        "20260814",
-        62.5
-      ],
-      [
-        "20260815",
-        62.5
-      ],
-      [
-        "20260816",
-        62.5
-      ],
-      [
-        "20260817",
-        62.5
-      ],
-      [
-        "20260818",
-        62.5
-      ],
-      [
-        "20260819",
-        62.5
-      ],
-      [
-        "20260820",
-        62.5
-      ],
-      [
-        "20260821",
-        62.5
-      ],
-      [
-        "20260822",
-        62.5
-      ],
-      [
-        "20260823",
-        62.5
-      ],
-      [
-        "20260824",
-        62.5
-      ]
-    ],
-    "211701": [
-      [
-        "20260808",
-        63.2
-      ],
-      [
-        "20260809",
-        63.2
-      ],
-      [
-        "20260810",
-        63.2
-      ],
-      [
-        "20260811",
-        63.2
-      ],
-      [
-        "20260812",
-        63.2
-      ],
-      [
-        "20260813",
-        63.2
-      ],
-      [
-        "20260814",
-        62.3
-      ],
-      [
-        "20260815",
-        62.3
-      ],
-      [
-        "20260816",
-        62.3
-      ],
-      [
-        "20260817",
-        62.3
-      ],
-      [
-        "20260818",
-        62.3
-      ],
-      [
-        "20260819",
-        62.3
-      ],
-      [
-        "20260820",
-        62.3
-      ],
-      [
-        "20260821",
-        62.3
-      ],
-      [
-        "20260822",
-        62.3
-      ],
-      [
-        "20260823",
-        62.3
-      ],
-      [
-        "20260824",
-        62.3
-      ]
-    ],
     "220750": [
       [
         "20260808",
@@ -25616,77 +25477,77 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        62.3
+        62.5
       ]
     ],
-    "221054": [
+    "220714": [
       [
         "20260808",
-        63.5
+        62.8
       ],
       [
         "20260809",
-        63.5
+        62.8
       ],
       [
         "20260810",
-        63.5
+        62.8
       ],
       [
         "20260811",
-        63.5
+        62.8
       ],
       [
         "20260812",
-        63.5
+        62.8
       ],
       [
         "20260813",
-        63.5
+        62.8
       ],
       [
         "20260814",
-        62.3
+        62.6
       ],
       [
         "20260815",
-        62.3
+        62.6
       ],
       [
         "20260816",
-        62.3
+        62.6
       ],
       [
         "20260817",
-        62.3
+        62.6
       ],
       [
         "20260818",
-        62.3
+        62.6
       ],
       [
         "20260819",
-        62.3
+        62.6
       ],
       [
         "20260820",
-        62.3
+        62.6
       ],
       [
         "20260821",
-        62.3
+        62.6
       ],
       [
         "20260822",
-        62.3
+        62.6
       ],
       [
         "20260823",
-        62.3
+        62.6
       ],
       [
         "20260824",
-        62.3
+        61.9
       ]
     ],
     "211843": [
@@ -25756,7 +25617,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        61.6
+        61.8
       ]
     ],
     "260172": [
@@ -25829,214 +25690,74 @@ window.TENNIS_DATA = {
         61.3
       ]
     ],
-    "233741": [
+    "221054": [
       [
         "20260808",
-        59.6
+        63.5
       ],
       [
         "20260809",
-        59.6
+        63.5
       ],
       [
         "20260810",
-        59.6
+        63.5
       ],
       [
         "20260811",
-        59.6
+        63.5
       ],
       [
         "20260812",
-        59.6
+        63.5
       ],
       [
         "20260813",
-        59.6
+        63.5
       ],
       [
         "20260814",
-        60.7
+        62.3
       ],
       [
         "20260815",
-        60.7
+        62.3
       ],
       [
         "20260816",
-        60.7
+        62.3
       ],
       [
         "20260817",
-        60.7
+        62.3
       ],
       [
         "20260818",
-        60.7
+        62.3
       ],
       [
         "20260819",
-        60.7
+        62.3
       ],
       [
         "20260820",
-        60.7
+        62.3
       ],
       [
         "20260821",
-        60.7
+        62.3
       ],
       [
         "20260822",
-        60.7
+        62.3
       ],
       [
         "20260823",
-        60.7
+        62.3
       ],
       [
         "20260824",
-        60.7
-      ]
-    ],
-    "230319": [
-      [
-        "20260808",
-        59.4
-      ],
-      [
-        "20260809",
-        59.4
-      ],
-      [
-        "20260810",
-        59.4
-      ],
-      [
-        "20260811",
-        59.4
-      ],
-      [
-        "20260812",
-        59.4
-      ],
-      [
-        "20260813",
-        59.4
-      ],
-      [
-        "20260814",
-        60.1
-      ],
-      [
-        "20260815",
-        60.1
-      ],
-      [
-        "20260816",
-        60.1
-      ],
-      [
-        "20260817",
-        60.1
-      ],
-      [
-        "20260818",
-        60.1
-      ],
-      [
-        "20260819",
-        60.1
-      ],
-      [
-        "20260820",
-        60.1
-      ],
-      [
-        "20260821",
-        60.1
-      ],
-      [
-        "20260822",
-        60.1
-      ],
-      [
-        "20260823",
-        60.1
-      ],
-      [
-        "20260824",
-        60.1
-      ]
-    ],
-    "202499": [
-      [
-        "20260808",
-        59.7
-      ],
-      [
-        "20260809",
-        59.7
-      ],
-      [
-        "20260810",
-        59.7
-      ],
-      [
-        "20260811",
-        59.7
-      ],
-      [
-        "20260812",
-        59.7
-      ],
-      [
-        "20260813",
-        59.7
-      ],
-      [
-        "20260814",
-        59.9
-      ],
-      [
-        "20260815",
-        59.9
-      ],
-      [
-        "20260816",
-        59.9
-      ],
-      [
-        "20260817",
-        59.9
-      ],
-      [
-        "20260818",
-        59.9
-      ],
-      [
-        "20260819",
-        59.9
-      ],
-      [
-        "20260820",
-        59.9
-      ],
-      [
-        "20260821",
-        59.9
-      ],
-      [
-        "20260822",
-        59.9
-      ],
-      [
-        "20260823",
-        59.9
-      ],
-      [
-        "20260824",
-        59.9
+        61.2
       ]
     ],
     "238184": [
@@ -26106,147 +25827,77 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        59.8
+        60.7
       ]
     ],
-    "203501": [
+    "202663": [
       [
         "20260808",
-        58.9
+        61.7
       ],
       [
         "20260809",
-        58.9
+        61.7
       ],
       [
         "20260810",
-        58.9
+        61.7
       ],
       [
         "20260811",
-        58.9
+        61.7
       ],
       [
         "20260812",
-        58.9
+        61.7
       ],
       [
         "20260813",
-        58.9
+        61.7
       ],
       [
         "20260814",
-        59.7
+        62.5
       ],
       [
         "20260815",
-        59.7
+        62.5
       ],
       [
         "20260816",
-        59.7
+        62.5
       ],
       [
         "20260817",
-        59.7
+        62.5
       ],
       [
         "20260818",
-        59.7
+        62.5
       ],
       [
         "20260819",
-        59.7
+        62.5
       ],
       [
         "20260820",
-        59.7
+        62.5
       ],
       [
         "20260821",
-        59.7
+        62.5
       ],
       [
         "20260822",
-        59.7
+        62.5
       ],
       [
         "20260823",
-        59.7
+        62.5
       ],
       [
         "20260824",
-        59.7
-      ]
-    ],
-    "222045": [
-      [
-        "20260808",
-        60.1
-      ],
-      [
-        "20260809",
-        60.1
-      ],
-      [
-        "20260810",
-        60.1
-      ],
-      [
-        "20260811",
-        60.1
-      ],
-      [
-        "20260812",
-        60.1
-      ],
-      [
-        "20260813",
-        60.1
-      ],
-      [
-        "20260814",
-        59.5
-      ],
-      [
-        "20260815",
-        59.5
-      ],
-      [
-        "20260816",
-        59.5
-      ],
-      [
-        "20260817",
-        59.5
-      ],
-      [
-        "20260818",
-        59.5
-      ],
-      [
-        "20260819",
-        59.5
-      ],
-      [
-        "20260820",
-        59.5
-      ],
-      [
-        "20260821",
-        59.5
-      ],
-      [
-        "20260822",
-        59.5
-      ],
-      [
-        "20260823",
-        59.5
-      ],
-      [
-        "20260824",
-        59.5
+        60.5
       ]
     ],
     "216083": [
@@ -26316,357 +25967,287 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
+        60.2
+      ]
+    ],
+    "202499": [
+      [
+        "20260808",
+        59.7
+      ],
+      [
+        "20260809",
+        59.7
+      ],
+      [
+        "20260810",
+        59.7
+      ],
+      [
+        "20260811",
+        59.7
+      ],
+      [
+        "20260812",
+        59.7
+      ],
+      [
+        "20260813",
+        59.7
+      ],
+      [
+        "20260814",
+        59.9
+      ],
+      [
+        "20260815",
+        59.9
+      ],
+      [
+        "20260816",
+        59.9
+      ],
+      [
+        "20260817",
+        59.9
+      ],
+      [
+        "20260818",
+        59.9
+      ],
+      [
+        "20260819",
+        59.9
+      ],
+      [
+        "20260820",
+        59.9
+      ],
+      [
+        "20260821",
+        59.9
+      ],
+      [
+        "20260822",
+        59.9
+      ],
+      [
+        "20260823",
+        59.9
+      ],
+      [
+        "20260824",
+        59.6
+      ]
+    ],
+    "233741": [
+      [
+        "20260808",
+        59.6
+      ],
+      [
+        "20260809",
+        59.6
+      ],
+      [
+        "20260810",
+        59.6
+      ],
+      [
+        "20260811",
+        59.6
+      ],
+      [
+        "20260812",
+        59.6
+      ],
+      [
+        "20260813",
+        59.6
+      ],
+      [
+        "20260814",
+        60.7
+      ],
+      [
+        "20260815",
+        60.7
+      ],
+      [
+        "20260816",
+        60.7
+      ],
+      [
+        "20260817",
+        60.7
+      ],
+      [
+        "20260818",
+        60.7
+      ],
+      [
+        "20260819",
+        60.7
+      ],
+      [
+        "20260820",
+        60.7
+      ],
+      [
+        "20260821",
+        60.7
+      ],
+      [
+        "20260822",
+        60.7
+      ],
+      [
+        "20260823",
+        60.7
+      ],
+      [
+        "20260824",
+        59.6
+      ]
+    ],
+    "203501": [
+      [
+        "20260808",
+        58.9
+      ],
+      [
+        "20260809",
+        58.9
+      ],
+      [
+        "20260810",
+        58.9
+      ],
+      [
+        "20260811",
+        58.9
+      ],
+      [
+        "20260812",
+        58.9
+      ],
+      [
+        "20260813",
+        58.9
+      ],
+      [
+        "20260814",
+        59.7
+      ],
+      [
+        "20260815",
+        59.7
+      ],
+      [
+        "20260816",
+        59.7
+      ],
+      [
+        "20260817",
+        59.7
+      ],
+      [
+        "20260818",
+        59.7
+      ],
+      [
+        "20260819",
+        59.7
+      ],
+      [
+        "20260820",
+        59.7
+      ],
+      [
+        "20260821",
+        59.7
+      ],
+      [
+        "20260822",
+        59.7
+      ],
+      [
+        "20260823",
+        59.7
+      ],
+      [
+        "20260824",
         59.5
       ]
     ],
-    "221909": [
+    "230319": [
       [
         "20260808",
-        58.8
+        59.4
       ],
       [
         "20260809",
-        58.8
+        59.4
       ],
       [
         "20260810",
-        58.8
+        59.4
       ],
       [
         "20260811",
-        58.8
+        59.4
       ],
       [
         "20260812",
-        58.8
+        59.4
       ],
       [
         "20260813",
-        58.8
+        59.4
       ],
       [
         "20260814",
-        59.1
+        60.1
       ],
       [
         "20260815",
-        59.1
+        60.1
       ],
       [
         "20260816",
-        59.1
+        60.1
       ],
       [
         "20260817",
-        59.1
+        60.1
       ],
       [
         "20260818",
-        59.1
+        60.1
       ],
       [
         "20260819",
-        59.1
+        60.1
       ],
       [
         "20260820",
-        59.1
+        60.1
       ],
       [
         "20260821",
-        59.1
+        60.1
       ],
       [
         "20260822",
-        59.1
+        60.1
       ],
       [
         "20260823",
-        59.1
+        60.1
       ],
       [
         "20260824",
-        59.1
-      ]
-    ],
-    "220309": [
-      [
-        "20260808",
-        58.3
-      ],
-      [
-        "20260809",
-        58.3
-      ],
-      [
-        "20260810",
-        58.3
-      ],
-      [
-        "20260811",
-        58.3
-      ],
-      [
-        "20260812",
-        58.3
-      ],
-      [
-        "20260813",
-        58.3
-      ],
-      [
-        "20260814",
-        58.5
-      ],
-      [
-        "20260815",
-        58.5
-      ],
-      [
-        "20260816",
-        58.5
-      ],
-      [
-        "20260817",
-        58.5
-      ],
-      [
-        "20260818",
-        58.5
-      ],
-      [
-        "20260819",
-        58.5
-      ],
-      [
-        "20260820",
-        58.5
-      ],
-      [
-        "20260821",
-        58.5
-      ],
-      [
-        "20260822",
-        58.5
-      ],
-      [
-        "20260823",
-        58.5
-      ],
-      [
-        "20260824",
-        58.5
-      ]
-    ],
-    "203530": [
-      [
-        "20260808",
-        58.3
-      ],
-      [
-        "20260809",
-        58.3
-      ],
-      [
-        "20260810",
-        58.3
-      ],
-      [
-        "20260811",
-        58.3
-      ],
-      [
-        "20260812",
-        58.3
-      ],
-      [
-        "20260813",
-        58.3
-      ],
-      [
-        "20260814",
-        58.2
-      ],
-      [
-        "20260815",
-        58.2
-      ],
-      [
-        "20260816",
-        58.2
-      ],
-      [
-        "20260817",
-        58.2
-      ],
-      [
-        "20260818",
-        58.2
-      ],
-      [
-        "20260819",
-        58.2
-      ],
-      [
-        "20260820",
-        58.2
-      ],
-      [
-        "20260821",
-        58.2
-      ],
-      [
-        "20260822",
-        58.2
-      ],
-      [
-        "20260823",
-        58.2
-      ],
-      [
-        "20260824",
-        58.2
-      ]
-    ],
-    "220332": [
-      [
-        "20260808",
-        58.6
-      ],
-      [
-        "20260809",
-        58.6
-      ],
-      [
-        "20260810",
-        58.6
-      ],
-      [
-        "20260811",
-        58.6
-      ],
-      [
-        "20260812",
-        58.6
-      ],
-      [
-        "20260813",
-        58.6
-      ],
-      [
-        "20260814",
-        57.7
-      ],
-      [
-        "20260815",
-        57.7
-      ],
-      [
-        "20260816",
-        57.7
-      ],
-      [
-        "20260817",
-        57.7
-      ],
-      [
-        "20260818",
-        57.7
-      ],
-      [
-        "20260819",
-        57.7
-      ],
-      [
-        "20260820",
-        57.7
-      ],
-      [
-        "20260821",
-        57.7
-      ],
-      [
-        "20260822",
-        57.7
-      ],
-      [
-        "20260823",
-        57.7
-      ],
-      [
-        "20260824",
-        57.7
-      ]
-    ],
-    "214954": [
-      [
-        "20260808",
-        57.7
-      ],
-      [
-        "20260809",
-        57.7
-      ],
-      [
-        "20260810",
-        57.7
-      ],
-      [
-        "20260811",
-        57.7
-      ],
-      [
-        "20260812",
-        57.7
-      ],
-      [
-        "20260813",
-        57.7
-      ],
-      [
-        "20260814",
-        57.7
-      ],
-      [
-        "20260815",
-        57.7
-      ],
-      [
-        "20260816",
-        57.7
-      ],
-      [
-        "20260817",
-        57.7
-      ],
-      [
-        "20260818",
-        57.7
-      ],
-      [
-        "20260819",
-        57.7
-      ],
-      [
-        "20260820",
-        57.7
-      ],
-      [
-        "20260821",
-        57.7
-      ],
-      [
-        "20260822",
-        57.7
-      ],
-      [
-        "20260823",
-        57.7
-      ],
-      [
-        "20260824",
-        57.7
+        59.4
       ]
     ],
     "211817": [
@@ -26736,7 +26317,147 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        57.6
+        59.0
+      ]
+    ],
+    "220309": [
+      [
+        "20260808",
+        58.3
+      ],
+      [
+        "20260809",
+        58.3
+      ],
+      [
+        "20260810",
+        58.3
+      ],
+      [
+        "20260811",
+        58.3
+      ],
+      [
+        "20260812",
+        58.3
+      ],
+      [
+        "20260813",
+        58.3
+      ],
+      [
+        "20260814",
+        58.5
+      ],
+      [
+        "20260815",
+        58.5
+      ],
+      [
+        "20260816",
+        58.5
+      ],
+      [
+        "20260817",
+        58.5
+      ],
+      [
+        "20260818",
+        58.5
+      ],
+      [
+        "20260819",
+        58.5
+      ],
+      [
+        "20260820",
+        58.5
+      ],
+      [
+        "20260821",
+        58.5
+      ],
+      [
+        "20260822",
+        58.5
+      ],
+      [
+        "20260823",
+        58.5
+      ],
+      [
+        "20260824",
+        58.3
+      ]
+    ],
+    "221909": [
+      [
+        "20260808",
+        58.8
+      ],
+      [
+        "20260809",
+        58.8
+      ],
+      [
+        "20260810",
+        58.8
+      ],
+      [
+        "20260811",
+        58.8
+      ],
+      [
+        "20260812",
+        58.8
+      ],
+      [
+        "20260813",
+        58.8
+      ],
+      [
+        "20260814",
+        59.1
+      ],
+      [
+        "20260815",
+        59.1
+      ],
+      [
+        "20260816",
+        59.1
+      ],
+      [
+        "20260817",
+        59.1
+      ],
+      [
+        "20260818",
+        59.1
+      ],
+      [
+        "20260819",
+        59.1
+      ],
+      [
+        "20260820",
+        59.1
+      ],
+      [
+        "20260821",
+        59.1
+      ],
+      [
+        "20260822",
+        59.1
+      ],
+      [
+        "20260823",
+        59.1
+      ],
+      [
+        "20260824",
+        58.3
       ]
     ],
     "214388": [
@@ -26806,7 +26527,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        57.5
+        58.2
       ]
     ],
     "263857": [
@@ -26876,73 +26597,143 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        57.5
+        58.1
       ]
     ],
-    "201696": [
+    "203530": [
       [
         "20260808",
-        58.7
+        58.3
       ],
       [
         "20260809",
-        58.7
+        58.3
       ],
       [
         "20260810",
-        58.7
+        58.3
       ],
       [
         "20260811",
-        58.7
+        58.3
       ],
       [
         "20260812",
-        58.7
+        58.3
       ],
       [
         "20260813",
-        58.7
+        58.3
       ],
       [
         "20260814",
-        57.5
+        58.2
       ],
       [
         "20260815",
-        57.5
+        58.2
       ],
       [
         "20260816",
-        57.5
+        58.2
       ],
       [
         "20260817",
-        57.5
+        58.2
       ],
       [
         "20260818",
-        57.5
+        58.2
       ],
       [
         "20260819",
-        57.5
+        58.2
       ],
       [
         "20260820",
-        57.5
+        58.2
       ],
       [
         "20260821",
-        57.5
+        58.2
       ],
       [
         "20260822",
-        57.5
+        58.2
       ],
       [
         "20260823",
-        57.5
+        58.2
+      ],
+      [
+        "20260824",
+        57.7
+      ]
+    ],
+    "211684": [
+      [
+        "20260808",
+        56.4
+      ],
+      [
+        "20260809",
+        56.4
+      ],
+      [
+        "20260810",
+        56.4
+      ],
+      [
+        "20260811",
+        56.4
+      ],
+      [
+        "20260812",
+        56.4
+      ],
+      [
+        "20260813",
+        56.4
+      ],
+      [
+        "20260814",
+        56.9
+      ],
+      [
+        "20260815",
+        56.9
+      ],
+      [
+        "20260816",
+        56.9
+      ],
+      [
+        "20260817",
+        56.9
+      ],
+      [
+        "20260818",
+        56.9
+      ],
+      [
+        "20260819",
+        56.9
+      ],
+      [
+        "20260820",
+        56.9
+      ],
+      [
+        "20260821",
+        56.9
+      ],
+      [
+        "20260822",
+        56.9
+      ],
+      [
+        "20260823",
+        56.9
       ],
       [
         "20260824",
@@ -27016,147 +26807,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        57.3
-      ]
-    ],
-    "221333": [
-      [
-        "20260808",
-        57.1
-      ],
-      [
-        "20260809",
-        57.1
-      ],
-      [
-        "20260810",
-        57.1
-      ],
-      [
-        "20260811",
-        57.1
-      ],
-      [
-        "20260812",
-        57.1
-      ],
-      [
-        "20260813",
-        57.1
-      ],
-      [
-        "20260814",
-        57.1
-      ],
-      [
-        "20260815",
-        57.1
-      ],
-      [
-        "20260816",
-        57.1
-      ],
-      [
-        "20260817",
-        57.1
-      ],
-      [
-        "20260818",
-        57.1
-      ],
-      [
-        "20260819",
-        57.1
-      ],
-      [
-        "20260820",
-        57.1
-      ],
-      [
-        "20260821",
-        57.1
-      ],
-      [
-        "20260822",
-        57.1
-      ],
-      [
-        "20260823",
-        57.1
-      ],
-      [
-        "20260824",
-        57.1
-      ]
-    ],
-    "211684": [
-      [
-        "20260808",
-        56.4
-      ],
-      [
-        "20260809",
-        56.4
-      ],
-      [
-        "20260810",
-        56.4
-      ],
-      [
-        "20260811",
-        56.4
-      ],
-      [
-        "20260812",
-        56.4
-      ],
-      [
-        "20260813",
-        56.4
-      ],
-      [
-        "20260814",
-        56.9
-      ],
-      [
-        "20260815",
-        56.9
-      ],
-      [
-        "20260816",
-        56.9
-      ],
-      [
-        "20260817",
-        56.9
-      ],
-      [
-        "20260818",
-        56.9
-      ],
-      [
-        "20260819",
-        56.9
-      ],
-      [
-        "20260820",
-        56.9
-      ],
-      [
-        "20260821",
-        56.9
-      ],
-      [
-        "20260822",
-        56.9
-      ],
-      [
-        "20260823",
-        56.9
-      ],
-      [
-        "20260824",
-        56.9
+        57.5
       ]
     ],
     "214082": [
@@ -27226,7 +26877,287 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        56.4
+        57.5
+      ]
+    ],
+    "201696": [
+      [
+        "20260808",
+        58.7
+      ],
+      [
+        "20260809",
+        58.7
+      ],
+      [
+        "20260810",
+        58.7
+      ],
+      [
+        "20260811",
+        58.7
+      ],
+      [
+        "20260812",
+        58.7
+      ],
+      [
+        "20260813",
+        58.7
+      ],
+      [
+        "20260814",
+        57.5
+      ],
+      [
+        "20260815",
+        57.5
+      ],
+      [
+        "20260816",
+        57.5
+      ],
+      [
+        "20260817",
+        57.5
+      ],
+      [
+        "20260818",
+        57.5
+      ],
+      [
+        "20260819",
+        57.5
+      ],
+      [
+        "20260820",
+        57.5
+      ],
+      [
+        "20260821",
+        57.5
+      ],
+      [
+        "20260822",
+        57.5
+      ],
+      [
+        "20260823",
+        57.5
+      ],
+      [
+        "20260824",
+        57.2
+      ]
+    ],
+    "220332": [
+      [
+        "20260808",
+        58.6
+      ],
+      [
+        "20260809",
+        58.6
+      ],
+      [
+        "20260810",
+        58.6
+      ],
+      [
+        "20260811",
+        58.6
+      ],
+      [
+        "20260812",
+        58.6
+      ],
+      [
+        "20260813",
+        58.6
+      ],
+      [
+        "20260814",
+        57.7
+      ],
+      [
+        "20260815",
+        57.7
+      ],
+      [
+        "20260816",
+        57.7
+      ],
+      [
+        "20260817",
+        57.7
+      ],
+      [
+        "20260818",
+        57.7
+      ],
+      [
+        "20260819",
+        57.7
+      ],
+      [
+        "20260820",
+        57.7
+      ],
+      [
+        "20260821",
+        57.7
+      ],
+      [
+        "20260822",
+        57.7
+      ],
+      [
+        "20260823",
+        57.7
+      ],
+      [
+        "20260824",
+        57.0
+      ]
+    ],
+    "221333": [
+      [
+        "20260808",
+        57.1
+      ],
+      [
+        "20260809",
+        57.1
+      ],
+      [
+        "20260810",
+        57.1
+      ],
+      [
+        "20260811",
+        57.1
+      ],
+      [
+        "20260812",
+        57.1
+      ],
+      [
+        "20260813",
+        57.1
+      ],
+      [
+        "20260814",
+        57.1
+      ],
+      [
+        "20260815",
+        57.1
+      ],
+      [
+        "20260816",
+        57.1
+      ],
+      [
+        "20260817",
+        57.1
+      ],
+      [
+        "20260818",
+        57.1
+      ],
+      [
+        "20260819",
+        57.1
+      ],
+      [
+        "20260820",
+        57.1
+      ],
+      [
+        "20260821",
+        57.1
+      ],
+      [
+        "20260822",
+        57.1
+      ],
+      [
+        "20260823",
+        57.1
+      ],
+      [
+        "20260824",
+        56.9
+      ]
+    ],
+    "222045": [
+      [
+        "20260808",
+        60.1
+      ],
+      [
+        "20260809",
+        60.1
+      ],
+      [
+        "20260810",
+        60.1
+      ],
+      [
+        "20260811",
+        60.1
+      ],
+      [
+        "20260812",
+        60.1
+      ],
+      [
+        "20260813",
+        60.1
+      ],
+      [
+        "20260814",
+        59.5
+      ],
+      [
+        "20260815",
+        59.5
+      ],
+      [
+        "20260816",
+        59.5
+      ],
+      [
+        "20260817",
+        59.5
+      ],
+      [
+        "20260818",
+        59.5
+      ],
+      [
+        "20260819",
+        59.5
+      ],
+      [
+        "20260820",
+        59.5
+      ],
+      [
+        "20260821",
+        59.5
+      ],
+      [
+        "20260822",
+        59.5
+      ],
+      [
+        "20260823",
+        59.5
+      ],
+      [
+        "20260824",
+        56.8
       ]
     ],
     "213710": [
@@ -27296,77 +27227,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        56.3
-      ]
-    ],
-    "219917": [
-      [
-        "20260808",
-        55.2
-      ],
-      [
-        "20260809",
-        55.2
-      ],
-      [
-        "20260810",
-        55.2
-      ],
-      [
-        "20260811",
-        55.2
-      ],
-      [
-        "20260812",
-        55.2
-      ],
-      [
-        "20260813",
-        55.2
-      ],
-      [
-        "20260814",
-        56.3
-      ],
-      [
-        "20260815",
-        56.3
-      ],
-      [
-        "20260816",
-        56.3
-      ],
-      [
-        "20260817",
-        56.3
-      ],
-      [
-        "20260818",
-        56.3
-      ],
-      [
-        "20260819",
-        56.3
-      ],
-      [
-        "20260820",
-        56.3
-      ],
-      [
-        "20260821",
-        56.3
-      ],
-      [
-        "20260822",
-        56.3
-      ],
-      [
-        "20260823",
-        56.3
-      ],
-      [
-        "20260824",
-        56.3
+        56.1
       ]
     ],
     "215035": [
@@ -27506,7 +27367,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        55.5
+        55.7
       ]
     ],
     "221883": [
@@ -27573,6 +27434,76 @@ window.TENNIS_DATA = {
       [
         "20260823",
         55.0
+      ],
+      [
+        "20260824",
+        55.5
+      ]
+    ],
+    "252499": [
+      [
+        "20260808",
+        52.2
+      ],
+      [
+        "20260809",
+        52.2
+      ],
+      [
+        "20260810",
+        52.2
+      ],
+      [
+        "20260811",
+        52.2
+      ],
+      [
+        "20260812",
+        52.2
+      ],
+      [
+        "20260813",
+        52.2
+      ],
+      [
+        "20260814",
+        53.9
+      ],
+      [
+        "20260815",
+        53.9
+      ],
+      [
+        "20260816",
+        53.9
+      ],
+      [
+        "20260817",
+        53.9
+      ],
+      [
+        "20260818",
+        53.9
+      ],
+      [
+        "20260819",
+        53.9
+      ],
+      [
+        "20260820",
+        53.9
+      ],
+      [
+        "20260821",
+        53.9
+      ],
+      [
+        "20260822",
+        53.9
+      ],
+      [
+        "20260823",
+        53.9
       ],
       [
         "20260824",
@@ -27716,77 +27647,77 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        54.3
+        54.4
       ]
     ],
-    "252499": [
+    "211651": [
       [
         "20260808",
-        52.2
+        53.5
       ],
       [
         "20260809",
-        52.2
+        53.5
       ],
       [
         "20260810",
-        52.2
+        53.5
       ],
       [
         "20260811",
-        52.2
+        53.5
       ],
       [
         "20260812",
-        52.2
+        53.5
       ],
       [
         "20260813",
-        52.2
+        53.5
       ],
       [
         "20260814",
-        53.9
+        53.5
       ],
       [
         "20260815",
-        53.9
+        53.5
       ],
       [
         "20260816",
-        53.9
+        53.5
       ],
       [
         "20260817",
-        53.9
+        53.5
       ],
       [
         "20260818",
-        53.9
+        53.5
       ],
       [
         "20260819",
-        53.9
+        53.5
       ],
       [
         "20260820",
-        53.9
+        53.5
       ],
       [
         "20260821",
-        53.9
+        53.5
       ],
       [
         "20260822",
-        53.9
+        53.5
       ],
       [
         "20260823",
-        53.9
+        53.5
       ],
       [
         "20260824",
-        53.9
+        53.6
       ]
     ],
     "238075": [
@@ -27859,74 +27790,74 @@ window.TENNIS_DATA = {
         53.5
       ]
     ],
-    "211651": [
+    "219917": [
       [
         "20260808",
-        53.5
+        55.2
       ],
       [
         "20260809",
-        53.5
+        55.2
       ],
       [
         "20260810",
-        53.5
+        55.2
       ],
       [
         "20260811",
-        53.5
+        55.2
       ],
       [
         "20260812",
-        53.5
+        55.2
       ],
       [
         "20260813",
-        53.5
+        55.2
       ],
       [
         "20260814",
-        53.5
+        56.3
       ],
       [
         "20260815",
-        53.5
+        56.3
       ],
       [
         "20260816",
-        53.5
+        56.3
       ],
       [
         "20260817",
-        53.5
+        56.3
       ],
       [
         "20260818",
-        53.5
+        56.3
       ],
       [
         "20260819",
-        53.5
+        56.3
       ],
       [
         "20260820",
-        53.5
+        56.3
       ],
       [
         "20260821",
-        53.5
+        56.3
       ],
       [
         "20260822",
-        53.5
+        56.3
       ],
       [
         "20260823",
-        53.5
+        56.3
       ],
       [
         "20260824",
-        53.5
+        52.9
       ]
     ],
     "221354": [
@@ -28066,73 +27997,73 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        52.2
+        52.3
       ]
     ],
-    "222601": [
+    "213887": [
       [
         "20260808",
-        55.4
+        51.6
       ],
       [
         "20260809",
-        55.4
+        51.6
       ],
       [
         "20260810",
-        55.4
+        51.6
       ],
       [
         "20260811",
-        55.4
+        51.6
       ],
       [
         "20260812",
-        55.4
+        51.6
       ],
       [
         "20260813",
-        55.4
+        51.6
       ],
       [
         "20260814",
-        51.9
+        51.6
       ],
       [
         "20260815",
-        51.9
+        51.6
       ],
       [
         "20260816",
-        51.9
+        51.6
       ],
       [
         "20260817",
-        51.9
+        51.6
       ],
       [
         "20260818",
-        51.9
+        51.6
       ],
       [
         "20260819",
-        51.9
+        51.6
       ],
       [
         "20260820",
-        51.9
+        51.6
       ],
       [
         "20260821",
-        51.9
+        51.6
       ],
       [
         "20260822",
-        51.9
+        51.6
       ],
       [
         "20260823",
-        51.9
+        51.6
       ],
       [
         "20260824",
@@ -28325,146 +28256,6 @@ window.TENNIS_DATA = {
         51.8
       ]
     ],
-    "267020": [
-      [
-        "20260808",
-        51.8
-      ],
-      [
-        "20260809",
-        51.8
-      ],
-      [
-        "20260810",
-        51.8
-      ],
-      [
-        "20260811",
-        51.8
-      ],
-      [
-        "20260812",
-        51.8
-      ],
-      [
-        "20260813",
-        51.8
-      ],
-      [
-        "20260814",
-        51.8
-      ],
-      [
-        "20260815",
-        51.8
-      ],
-      [
-        "20260816",
-        51.8
-      ],
-      [
-        "20260817",
-        51.8
-      ],
-      [
-        "20260818",
-        51.8
-      ],
-      [
-        "20260819",
-        51.8
-      ],
-      [
-        "20260820",
-        51.8
-      ],
-      [
-        "20260821",
-        51.8
-      ],
-      [
-        "20260822",
-        51.8
-      ],
-      [
-        "20260823",
-        51.8
-      ],
-      [
-        "20260824",
-        51.8
-      ]
-    ],
-    "213887": [
-      [
-        "20260808",
-        51.6
-      ],
-      [
-        "20260809",
-        51.6
-      ],
-      [
-        "20260810",
-        51.6
-      ],
-      [
-        "20260811",
-        51.6
-      ],
-      [
-        "20260812",
-        51.6
-      ],
-      [
-        "20260813",
-        51.6
-      ],
-      [
-        "20260814",
-        51.6
-      ],
-      [
-        "20260815",
-        51.6
-      ],
-      [
-        "20260816",
-        51.6
-      ],
-      [
-        "20260817",
-        51.6
-      ],
-      [
-        "20260818",
-        51.6
-      ],
-      [
-        "20260819",
-        51.6
-      ],
-      [
-        "20260820",
-        51.6
-      ],
-      [
-        "20260821",
-        51.6
-      ],
-      [
-        "20260822",
-        51.6
-      ],
-      [
-        "20260823",
-        51.6
-      ],
-      [
-        "20260824",
-        51.6
-      ]
-    ],
     "213550": [
       [
         "20260808",
@@ -28535,74 +28326,14 @@ window.TENNIS_DATA = {
         51.5
       ]
     ],
-    "201548": [
-      [
-        "20260808",
-        50.6
-      ],
-      [
-        "20260809",
-        50.6
-      ],
-      [
-        "20260810",
-        50.6
-      ],
-      [
-        "20260811",
-        50.6
-      ],
-      [
-        "20260812",
-        50.6
-      ],
-      [
-        "20260813",
-        50.6
-      ],
-      [
-        "20260814",
-        50.9
-      ],
-      [
-        "20260815",
-        50.9
-      ],
-      [
-        "20260816",
-        50.9
-      ],
+    "236957": [
       [
         "20260817",
-        50.9
-      ],
-      [
-        "20260818",
-        50.9
-      ],
-      [
-        "20260819",
-        50.9
-      ],
-      [
-        "20260820",
-        50.9
-      ],
-      [
-        "20260821",
-        50.9
-      ],
-      [
-        "20260822",
-        50.9
-      ],
-      [
-        "20260823",
-        50.9
+        51.4
       ],
       [
         "20260824",
-        50.9
+        51.4
       ]
     ],
     "213583": [
@@ -28672,7 +28403,147 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
+        50.8
+      ]
+    ],
+    "222601": [
+      [
+        "20260808",
+        55.4
+      ],
+      [
+        "20260809",
+        55.4
+      ],
+      [
+        "20260810",
+        55.4
+      ],
+      [
+        "20260811",
+        55.4
+      ],
+      [
+        "20260812",
+        55.4
+      ],
+      [
+        "20260813",
+        55.4
+      ],
+      [
+        "20260814",
+        51.9
+      ],
+      [
+        "20260815",
+        51.9
+      ],
+      [
+        "20260816",
+        51.9
+      ],
+      [
+        "20260817",
+        51.9
+      ],
+      [
+        "20260818",
+        51.9
+      ],
+      [
+        "20260819",
+        51.9
+      ],
+      [
+        "20260820",
+        51.9
+      ],
+      [
+        "20260821",
+        51.9
+      ],
+      [
+        "20260822",
+        51.9
+      ],
+      [
+        "20260823",
+        51.9
+      ],
+      [
+        "20260824",
         50.6
+      ]
+    ],
+    "201548": [
+      [
+        "20260808",
+        50.6
+      ],
+      [
+        "20260809",
+        50.6
+      ],
+      [
+        "20260810",
+        50.6
+      ],
+      [
+        "20260811",
+        50.6
+      ],
+      [
+        "20260812",
+        50.6
+      ],
+      [
+        "20260813",
+        50.6
+      ],
+      [
+        "20260814",
+        50.9
+      ],
+      [
+        "20260815",
+        50.9
+      ],
+      [
+        "20260816",
+        50.9
+      ],
+      [
+        "20260817",
+        50.9
+      ],
+      [
+        "20260818",
+        50.9
+      ],
+      [
+        "20260819",
+        50.9
+      ],
+      [
+        "20260820",
+        50.9
+      ],
+      [
+        "20260821",
+        50.9
+      ],
+      [
+        "20260822",
+        50.9
+      ],
+      [
+        "20260823",
+        50.9
+      ],
+      [
+        "20260824",
+        50.0
       ]
     ],
     "222966": [
@@ -28745,6 +28616,76 @@ window.TENNIS_DATA = {
         49.8
       ]
     ],
+    "215306": [
+      [
+        "20260808",
+        48.1
+      ],
+      [
+        "20260809",
+        48.1
+      ],
+      [
+        "20260810",
+        48.1
+      ],
+      [
+        "20260811",
+        48.1
+      ],
+      [
+        "20260812",
+        48.1
+      ],
+      [
+        "20260813",
+        48.1
+      ],
+      [
+        "20260814",
+        48.4
+      ],
+      [
+        "20260815",
+        48.4
+      ],
+      [
+        "20260816",
+        48.4
+      ],
+      [
+        "20260817",
+        48.4
+      ],
+      [
+        "20260818",
+        48.4
+      ],
+      [
+        "20260819",
+        48.4
+      ],
+      [
+        "20260820",
+        48.4
+      ],
+      [
+        "20260821",
+        48.4
+      ],
+      [
+        "20260822",
+        48.4
+      ],
+      [
+        "20260823",
+        48.4
+      ],
+      [
+        "20260824",
+        49.7
+      ]
+    ],
     "215453": [
       [
         "20260808",
@@ -28815,76 +28756,6 @@ window.TENNIS_DATA = {
         49.7
       ]
     ],
-    "215872": [
-      [
-        "20260808",
-        49.4
-      ],
-      [
-        "20260809",
-        49.4
-      ],
-      [
-        "20260810",
-        49.4
-      ],
-      [
-        "20260811",
-        49.4
-      ],
-      [
-        "20260812",
-        49.4
-      ],
-      [
-        "20260813",
-        49.4
-      ],
-      [
-        "20260814",
-        49.4
-      ],
-      [
-        "20260815",
-        49.4
-      ],
-      [
-        "20260816",
-        49.4
-      ],
-      [
-        "20260817",
-        49.4
-      ],
-      [
-        "20260818",
-        49.4
-      ],
-      [
-        "20260819",
-        49.4
-      ],
-      [
-        "20260820",
-        49.4
-      ],
-      [
-        "20260821",
-        49.4
-      ],
-      [
-        "20260822",
-        49.4
-      ],
-      [
-        "20260823",
-        49.4
-      ],
-      [
-        "20260824",
-        49.4
-      ]
-    ],
     "243420": [
       [
         "20260808",
@@ -28952,7 +28823,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        49.0
+        49.6
       ]
     ],
     "203514": [
@@ -29095,6 +28966,146 @@ window.TENNIS_DATA = {
         48.9
       ]
     ],
+    "215020": [
+      [
+        "20260808",
+        48.1
+      ],
+      [
+        "20260809",
+        48.1
+      ],
+      [
+        "20260810",
+        48.1
+      ],
+      [
+        "20260811",
+        48.1
+      ],
+      [
+        "20260812",
+        48.1
+      ],
+      [
+        "20260813",
+        48.1
+      ],
+      [
+        "20260814",
+        48.1
+      ],
+      [
+        "20260815",
+        48.1
+      ],
+      [
+        "20260816",
+        48.1
+      ],
+      [
+        "20260817",
+        48.1
+      ],
+      [
+        "20260818",
+        48.1
+      ],
+      [
+        "20260819",
+        48.1
+      ],
+      [
+        "20260820",
+        48.1
+      ],
+      [
+        "20260821",
+        48.1
+      ],
+      [
+        "20260822",
+        48.1
+      ],
+      [
+        "20260823",
+        48.1
+      ],
+      [
+        "20260824",
+        48.8
+      ]
+    ],
+    "215872": [
+      [
+        "20260808",
+        49.4
+      ],
+      [
+        "20260809",
+        49.4
+      ],
+      [
+        "20260810",
+        49.4
+      ],
+      [
+        "20260811",
+        49.4
+      ],
+      [
+        "20260812",
+        49.4
+      ],
+      [
+        "20260813",
+        49.4
+      ],
+      [
+        "20260814",
+        49.4
+      ],
+      [
+        "20260815",
+        49.4
+      ],
+      [
+        "20260816",
+        49.4
+      ],
+      [
+        "20260817",
+        49.4
+      ],
+      [
+        "20260818",
+        49.4
+      ],
+      [
+        "20260819",
+        49.4
+      ],
+      [
+        "20260820",
+        49.4
+      ],
+      [
+        "20260821",
+        49.4
+      ],
+      [
+        "20260822",
+        49.4
+      ],
+      [
+        "20260823",
+        49.4
+      ],
+      [
+        "20260824",
+        48.7
+      ]
+    ],
     "210622": [
       [
         "20260814",
@@ -29211,216 +29222,6 @@ window.TENNIS_DATA = {
         48.5
       ]
     ],
-    "215306": [
-      [
-        "20260808",
-        48.1
-      ],
-      [
-        "20260809",
-        48.1
-      ],
-      [
-        "20260810",
-        48.1
-      ],
-      [
-        "20260811",
-        48.1
-      ],
-      [
-        "20260812",
-        48.1
-      ],
-      [
-        "20260813",
-        48.1
-      ],
-      [
-        "20260814",
-        48.4
-      ],
-      [
-        "20260815",
-        48.4
-      ],
-      [
-        "20260816",
-        48.4
-      ],
-      [
-        "20260817",
-        48.4
-      ],
-      [
-        "20260818",
-        48.4
-      ],
-      [
-        "20260819",
-        48.4
-      ],
-      [
-        "20260820",
-        48.4
-      ],
-      [
-        "20260821",
-        48.4
-      ],
-      [
-        "20260822",
-        48.4
-      ],
-      [
-        "20260823",
-        48.4
-      ],
-      [
-        "20260824",
-        48.4
-      ]
-    ],
-    "215020": [
-      [
-        "20260808",
-        48.1
-      ],
-      [
-        "20260809",
-        48.1
-      ],
-      [
-        "20260810",
-        48.1
-      ],
-      [
-        "20260811",
-        48.1
-      ],
-      [
-        "20260812",
-        48.1
-      ],
-      [
-        "20260813",
-        48.1
-      ],
-      [
-        "20260814",
-        48.1
-      ],
-      [
-        "20260815",
-        48.1
-      ],
-      [
-        "20260816",
-        48.1
-      ],
-      [
-        "20260817",
-        48.1
-      ],
-      [
-        "20260818",
-        48.1
-      ],
-      [
-        "20260819",
-        48.1
-      ],
-      [
-        "20260820",
-        48.1
-      ],
-      [
-        "20260821",
-        48.1
-      ],
-      [
-        "20260822",
-        48.1
-      ],
-      [
-        "20260823",
-        48.1
-      ],
-      [
-        "20260824",
-        48.1
-      ]
-    ],
-    "211685": [
-      [
-        "20260808",
-        48.0
-      ],
-      [
-        "20260809",
-        48.0
-      ],
-      [
-        "20260810",
-        48.0
-      ],
-      [
-        "20260811",
-        48.0
-      ],
-      [
-        "20260812",
-        48.0
-      ],
-      [
-        "20260813",
-        48.0
-      ],
-      [
-        "20260814",
-        48.0
-      ],
-      [
-        "20260815",
-        48.0
-      ],
-      [
-        "20260816",
-        48.0
-      ],
-      [
-        "20260817",
-        48.0
-      ],
-      [
-        "20260818",
-        48.0
-      ],
-      [
-        "20260819",
-        48.0
-      ],
-      [
-        "20260820",
-        48.0
-      ],
-      [
-        "20260821",
-        48.0
-      ],
-      [
-        "20260822",
-        48.0
-      ],
-      [
-        "20260823",
-        48.0
-      ],
-      [
-        "20260824",
-        48.0
-      ]
-    ],
     "221407": [
       [
         "20260808",
@@ -29488,7 +29289,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        47.4
+        48.1
       ]
     ],
     "259733": [
@@ -29561,76 +29362,6 @@ window.TENNIS_DATA = {
         46.7
       ]
     ],
-    "220465": [
-      [
-        "20260808",
-        45.6
-      ],
-      [
-        "20260809",
-        45.6
-      ],
-      [
-        "20260810",
-        45.6
-      ],
-      [
-        "20260811",
-        45.6
-      ],
-      [
-        "20260812",
-        45.6
-      ],
-      [
-        "20260813",
-        45.6
-      ],
-      [
-        "20260814",
-        45.9
-      ],
-      [
-        "20260815",
-        45.9
-      ],
-      [
-        "20260816",
-        45.9
-      ],
-      [
-        "20260817",
-        45.9
-      ],
-      [
-        "20260818",
-        45.9
-      ],
-      [
-        "20260819",
-        45.9
-      ],
-      [
-        "20260820",
-        45.9
-      ],
-      [
-        "20260821",
-        45.9
-      ],
-      [
-        "20260822",
-        45.9
-      ],
-      [
-        "20260823",
-        45.9
-      ],
-      [
-        "20260824",
-        45.9
-      ]
-    ],
     "215899": [
       [
         "20260808",
@@ -29698,7 +29429,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        45.8
+        46.1
       ]
     ],
     "221039": [
@@ -29771,74 +29502,84 @@ window.TENNIS_DATA = {
         45.7
       ]
     ],
-    "206368": [
+    "220465": [
       [
         "20260808",
-        45.4
+        45.6
       ],
       [
         "20260809",
-        45.4
+        45.6
       ],
       [
         "20260810",
-        45.4
+        45.6
       ],
       [
         "20260811",
-        45.4
+        45.6
       ],
       [
         "20260812",
-        45.4
+        45.6
       ],
       [
         "20260813",
-        45.4
+        45.6
       ],
       [
         "20260814",
-        45.4
+        45.9
       ],
       [
         "20260815",
-        45.4
+        45.9
       ],
       [
         "20260816",
-        45.4
+        45.9
       ],
       [
         "20260817",
-        45.4
+        45.9
       ],
       [
         "20260818",
-        45.4
+        45.9
       ],
       [
         "20260819",
-        45.4
+        45.9
       ],
       [
         "20260820",
-        45.4
+        45.9
       ],
       [
         "20260821",
-        45.4
+        45.9
       ],
       [
         "20260822",
-        45.4
+        45.9
       ],
       [
         "20260823",
-        45.4
+        45.9
       ],
       [
         "20260824",
-        45.4
+        45.6
+      ]
+    ],
+    "261972": [
+      [
+        "20260817",
+        45.6
+      ],
+      [
+        "20260824",
+        45.6
       ]
     ],
     "214906": [
@@ -29981,76 +29722,6 @@ window.TENNIS_DATA = {
         45.1
       ]
     ],
-    "220435": [
-      [
-        "20260808",
-        43.9
-      ],
-      [
-        "20260809",
-        43.9
-      ],
-      [
-        "20260810",
-        43.9
-      ],
-      [
-        "20260811",
-        43.9
-      ],
-      [
-        "20260812",
-        43.9
-      ],
-      [
-        "20260813",
-        43.9
-      ],
-      [
-        "20260814",
-        44.9
-      ],
-      [
-        "20260815",
-        44.9
-      ],
-      [
-        "20260816",
-        44.9
-      ],
-      [
-        "20260817",
-        44.9
-      ],
-      [
-        "20260818",
-        44.9
-      ],
-      [
-        "20260819",
-        44.9
-      ],
-      [
-        "20260820",
-        44.9
-      ],
-      [
-        "20260821",
-        44.9
-      ],
-      [
-        "20260822",
-        44.9
-      ],
-      [
-        "20260823",
-        44.9
-      ],
-      [
-        "20260824",
-        44.9
-      ]
-    ],
     "205925": [
       [
         "20260808",
@@ -30191,74 +29862,84 @@ window.TENNIS_DATA = {
         44.7
       ]
     ],
-    "221257": [
-      [
-        "20260808",
-        44.3
-      ],
-      [
-        "20260809",
-        44.3
-      ],
-      [
-        "20260810",
-        44.3
-      ],
-      [
-        "20260811",
-        44.3
-      ],
-      [
-        "20260812",
-        44.3
-      ],
-      [
-        "20260813",
-        44.3
-      ],
-      [
-        "20260814",
-        43.8
-      ],
-      [
-        "20260815",
-        43.8
-      ],
-      [
-        "20260816",
-        43.8
-      ],
+    "220699": [
       [
         "20260817",
-        43.8
-      ],
-      [
-        "20260818",
-        43.8
-      ],
-      [
-        "20260819",
-        43.8
-      ],
-      [
-        "20260820",
-        43.8
-      ],
-      [
-        "20260821",
-        43.8
-      ],
-      [
-        "20260822",
-        43.8
-      ],
-      [
-        "20260823",
-        43.8
+        54.3
       ],
       [
         "20260824",
-        43.8
+        44.3
+      ]
+    ],
+    "220435": [
+      [
+        "20260808",
+        43.9
+      ],
+      [
+        "20260809",
+        43.9
+      ],
+      [
+        "20260810",
+        43.9
+      ],
+      [
+        "20260811",
+        43.9
+      ],
+      [
+        "20260812",
+        43.9
+      ],
+      [
+        "20260813",
+        43.9
+      ],
+      [
+        "20260814",
+        44.9
+      ],
+      [
+        "20260815",
+        44.9
+      ],
+      [
+        "20260816",
+        44.9
+      ],
+      [
+        "20260817",
+        44.9
+      ],
+      [
+        "20260818",
+        44.9
+      ],
+      [
+        "20260819",
+        44.9
+      ],
+      [
+        "20260820",
+        44.9
+      ],
+      [
+        "20260821",
+        44.9
+      ],
+      [
+        "20260822",
+        44.9
+      ],
+      [
+        "20260823",
+        44.9
+      ],
+      [
+        "20260824",
+        43.7
       ]
     ],
     "230870": [
@@ -30329,6 +30010,146 @@ window.TENNIS_DATA = {
       [
         "20260824",
         43.7
+      ]
+    ],
+    "221257": [
+      [
+        "20260808",
+        44.3
+      ],
+      [
+        "20260809",
+        44.3
+      ],
+      [
+        "20260810",
+        44.3
+      ],
+      [
+        "20260811",
+        44.3
+      ],
+      [
+        "20260812",
+        44.3
+      ],
+      [
+        "20260813",
+        44.3
+      ],
+      [
+        "20260814",
+        43.8
+      ],
+      [
+        "20260815",
+        43.8
+      ],
+      [
+        "20260816",
+        43.8
+      ],
+      [
+        "20260817",
+        43.8
+      ],
+      [
+        "20260818",
+        43.8
+      ],
+      [
+        "20260819",
+        43.8
+      ],
+      [
+        "20260820",
+        43.8
+      ],
+      [
+        "20260821",
+        43.8
+      ],
+      [
+        "20260822",
+        43.8
+      ],
+      [
+        "20260823",
+        43.8
+      ],
+      [
+        "20260824",
+        43.6
+      ]
+    ],
+    "216016": [
+      [
+        "20260808",
+        41.7
+      ],
+      [
+        "20260809",
+        41.7
+      ],
+      [
+        "20260810",
+        41.7
+      ],
+      [
+        "20260811",
+        41.7
+      ],
+      [
+        "20260812",
+        41.7
+      ],
+      [
+        "20260813",
+        41.7
+      ],
+      [
+        "20260814",
+        41.2
+      ],
+      [
+        "20260815",
+        41.2
+      ],
+      [
+        "20260816",
+        41.2
+      ],
+      [
+        "20260817",
+        41.2
+      ],
+      [
+        "20260818",
+        41.2
+      ],
+      [
+        "20260819",
+        41.2
+      ],
+      [
+        "20260820",
+        41.2
+      ],
+      [
+        "20260821",
+        41.2
+      ],
+      [
+        "20260822",
+        41.2
+      ],
+      [
+        "20260823",
+        41.2
+      ],
+      [
+        "20260824",
+        43.5
       ]
     ],
     "211539": [
@@ -30541,6 +30362,76 @@ window.TENNIS_DATA = {
         42.7
       ]
     ],
+    "221237": [
+      [
+        "20260808",
+        41.5
+      ],
+      [
+        "20260809",
+        41.5
+      ],
+      [
+        "20260810",
+        41.5
+      ],
+      [
+        "20260811",
+        41.5
+      ],
+      [
+        "20260812",
+        41.5
+      ],
+      [
+        "20260813",
+        41.5
+      ],
+      [
+        "20260814",
+        41.7
+      ],
+      [
+        "20260815",
+        41.7
+      ],
+      [
+        "20260816",
+        41.7
+      ],
+      [
+        "20260817",
+        41.7
+      ],
+      [
+        "20260818",
+        41.7
+      ],
+      [
+        "20260819",
+        41.7
+      ],
+      [
+        "20260820",
+        41.7
+      ],
+      [
+        "20260821",
+        41.7
+      ],
+      [
+        "20260822",
+        41.7
+      ],
+      [
+        "20260823",
+        41.7
+      ],
+      [
+        "20260824",
+        42.3
+      ]
+    ],
     "220722": [
       [
         "20260808",
@@ -30609,146 +30500,6 @@ window.TENNIS_DATA = {
       [
         "20260824",
         42.3
-      ]
-    ],
-    "221237": [
-      [
-        "20260808",
-        41.5
-      ],
-      [
-        "20260809",
-        41.5
-      ],
-      [
-        "20260810",
-        41.5
-      ],
-      [
-        "20260811",
-        41.5
-      ],
-      [
-        "20260812",
-        41.5
-      ],
-      [
-        "20260813",
-        41.5
-      ],
-      [
-        "20260814",
-        41.7
-      ],
-      [
-        "20260815",
-        41.7
-      ],
-      [
-        "20260816",
-        41.7
-      ],
-      [
-        "20260817",
-        41.7
-      ],
-      [
-        "20260818",
-        41.7
-      ],
-      [
-        "20260819",
-        41.7
-      ],
-      [
-        "20260820",
-        41.7
-      ],
-      [
-        "20260821",
-        41.7
-      ],
-      [
-        "20260822",
-        41.7
-      ],
-      [
-        "20260823",
-        41.7
-      ],
-      [
-        "20260824",
-        41.7
-      ]
-    ],
-    "216016": [
-      [
-        "20260808",
-        41.7
-      ],
-      [
-        "20260809",
-        41.7
-      ],
-      [
-        "20260810",
-        41.7
-      ],
-      [
-        "20260811",
-        41.7
-      ],
-      [
-        "20260812",
-        41.7
-      ],
-      [
-        "20260813",
-        41.7
-      ],
-      [
-        "20260814",
-        41.2
-      ],
-      [
-        "20260815",
-        41.2
-      ],
-      [
-        "20260816",
-        41.2
-      ],
-      [
-        "20260817",
-        41.2
-      ],
-      [
-        "20260818",
-        41.2
-      ],
-      [
-        "20260819",
-        41.2
-      ],
-      [
-        "20260820",
-        41.2
-      ],
-      [
-        "20260821",
-        41.2
-      ],
-      [
-        "20260822",
-        41.2
-      ],
-      [
-        "20260823",
-        41.2
-      ],
-      [
-        "20260824",
-        41.2
       ]
     ],
     "215936": [
@@ -30958,7 +30709,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        39.9
+        40.1
       ]
     ],
     "221406": [
@@ -31171,74 +30922,74 @@ window.TENNIS_DATA = {
         39.3
       ]
     ],
-    "210886": [
+    "222290": [
       [
         "20260808",
-        38.9
+        38.3
       ],
       [
         "20260809",
-        38.9
+        38.3
       ],
       [
         "20260810",
-        38.9
+        38.3
       ],
       [
         "20260811",
-        38.9
+        38.3
       ],
       [
         "20260812",
-        38.9
+        38.3
       ],
       [
         "20260813",
-        38.9
+        38.3
       ],
       [
         "20260814",
-        39.1
+        38.3
       ],
       [
         "20260815",
-        39.1
+        38.3
       ],
       [
         "20260816",
-        39.1
+        38.3
       ],
       [
         "20260817",
-        39.1
+        38.3
       ],
       [
         "20260818",
-        39.1
+        38.3
       ],
       [
         "20260819",
-        39.1
+        38.3
       ],
       [
         "20260820",
-        39.1
+        38.3
       ],
       [
         "20260821",
-        39.1
+        38.3
       ],
       [
         "20260822",
-        39.1
+        38.3
       ],
       [
         "20260823",
-        39.1
+        38.3
       ],
       [
         "20260824",
-        39.1
+        39.2
       ]
     ],
     "221124": [
@@ -31311,144 +31062,74 @@ window.TENNIS_DATA = {
         39.1
       ]
     ],
-    "221985": [
+    "210886": [
       [
         "20260808",
-        38.5
+        38.9
       ],
       [
         "20260809",
-        38.5
+        38.9
       ],
       [
         "20260810",
-        38.5
+        38.9
       ],
       [
         "20260811",
-        38.5
+        38.9
       ],
       [
         "20260812",
-        38.5
+        38.9
       ],
       [
         "20260813",
-        38.5
+        38.9
       ],
       [
         "20260814",
-        38.5
+        39.1
       ],
       [
         "20260815",
-        38.5
+        39.1
       ],
       [
         "20260816",
-        38.5
+        39.1
       ],
       [
         "20260817",
-        38.5
+        39.1
       ],
       [
         "20260818",
-        38.5
+        39.1
       ],
       [
         "20260819",
-        38.5
+        39.1
       ],
       [
         "20260820",
-        38.5
+        39.1
       ],
       [
         "20260821",
-        38.5
+        39.1
       ],
       [
         "20260822",
-        38.5
+        39.1
       ],
       [
         "20260823",
-        38.5
+        39.1
       ],
       [
         "20260824",
-        38.5
-      ]
-    ],
-    "222290": [
-      [
-        "20260808",
-        38.3
-      ],
-      [
-        "20260809",
-        38.3
-      ],
-      [
-        "20260810",
-        38.3
-      ],
-      [
-        "20260811",
-        38.3
-      ],
-      [
-        "20260812",
-        38.3
-      ],
-      [
-        "20260813",
-        38.3
-      ],
-      [
-        "20260814",
-        38.3
-      ],
-      [
-        "20260815",
-        38.3
-      ],
-      [
-        "20260816",
-        38.3
-      ],
-      [
-        "20260817",
-        38.3
-      ],
-      [
-        "20260818",
-        38.3
-      ],
-      [
-        "20260819",
-        38.3
-      ],
-      [
-        "20260820",
-        38.3
-      ],
-      [
-        "20260821",
-        38.3
-      ],
-      [
-        "20260822",
-        38.3
-      ],
-      [
-        "20260823",
-        38.3
-      ],
-      [
-        "20260824",
-        38.3
+        38.8
       ]
     ],
     "216566": [
@@ -31518,7 +31199,77 @@ window.TENNIS_DATA = {
       ],
       [
         "20260824",
-        38.3
+        38.6
+      ]
+    ],
+    "221985": [
+      [
+        "20260808",
+        38.5
+      ],
+      [
+        "20260809",
+        38.5
+      ],
+      [
+        "20260810",
+        38.5
+      ],
+      [
+        "20260811",
+        38.5
+      ],
+      [
+        "20260812",
+        38.5
+      ],
+      [
+        "20260813",
+        38.5
+      ],
+      [
+        "20260814",
+        38.5
+      ],
+      [
+        "20260815",
+        38.5
+      ],
+      [
+        "20260816",
+        38.5
+      ],
+      [
+        "20260817",
+        38.5
+      ],
+      [
+        "20260818",
+        38.5
+      ],
+      [
+        "20260819",
+        38.5
+      ],
+      [
+        "20260820",
+        38.5
+      ],
+      [
+        "20260821",
+        38.5
+      ],
+      [
+        "20260822",
+        38.5
+      ],
+      [
+        "20260823",
+        38.5
+      ],
+      [
+        "20260824",
+        38.5
       ]
     ],
     "219875": [
@@ -31987,6 +31738,76 @@ window.TENNIS_DATA = {
         35.0
       ]
     ],
+    "223168": [
+      [
+        "20260808",
+        35.0
+      ],
+      [
+        "20260809",
+        35.0
+      ],
+      [
+        "20260810",
+        35.0
+      ],
+      [
+        "20260811",
+        35.0
+      ],
+      [
+        "20260812",
+        35.0
+      ],
+      [
+        "20260813",
+        35.0
+      ],
+      [
+        "20260814",
+        35.0
+      ],
+      [
+        "20260815",
+        35.0
+      ],
+      [
+        "20260816",
+        35.0
+      ],
+      [
+        "20260817",
+        35.0
+      ],
+      [
+        "20260818",
+        35.0
+      ],
+      [
+        "20260819",
+        35.0
+      ],
+      [
+        "20260820",
+        35.0
+      ],
+      [
+        "20260821",
+        35.0
+      ],
+      [
+        "20260822",
+        35.0
+      ],
+      [
+        "20260823",
+        35.0
+      ],
+      [
+        "20260824",
+        35.0
+      ]
+    ],
     "215138": [
       [
         "20260808",
@@ -32057,7 +31878,7 @@ window.TENNIS_DATA = {
         35.0
       ]
     ],
-    "223168": [
+    "211279": [
       [
         "20260808",
         35.0
@@ -32267,7 +32088,7 @@ window.TENNIS_DATA = {
         35.0
       ]
     ],
-    "211279": [
+    "222233": [
       [
         "20260808",
         35.0
@@ -32337,70 +32158,10 @@ window.TENNIS_DATA = {
         35.0
       ]
     ],
-    "222233": [
-      [
-        "20260808",
-        35.0
-      ],
-      [
-        "20260809",
-        35.0
-      ],
-      [
-        "20260810",
-        35.0
-      ],
-      [
-        "20260811",
-        35.0
-      ],
-      [
-        "20260812",
-        35.0
-      ],
-      [
-        "20260813",
-        35.0
-      ],
-      [
-        "20260814",
-        35.0
-      ],
-      [
-        "20260815",
-        35.0
-      ],
-      [
-        "20260816",
-        35.0
-      ],
+    "214461": [
       [
         "20260817",
-        35.0
-      ],
-      [
-        "20260818",
-        35.0
-      ],
-      [
-        "20260819",
-        35.0
-      ],
-      [
-        "20260820",
-        35.0
-      ],
-      [
-        "20260821",
-        35.0
-      ],
-      [
-        "20260822",
-        35.0
-      ],
-      [
-        "20260823",
-        35.0
+        50.0
       ],
       [
         "20260824",
@@ -32519,12 +32280,12 @@ window.TENNIS_DATA = {
       "id": "259799",
       "name": "Mirra Andreeva",
       "age": 19,
-      "rank": 6,
+      "rank": 5,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 91.6,
+      "activeScore": 91.8,
       "leyendaScore": 3.7,
       "note": "Ya con 1 Grand Slam a los 19"
     },
@@ -32545,12 +32306,12 @@ window.TENNIS_DATA = {
       "id": "239475",
       "name": "Victoria Mboko",
       "age": 19,
-      "rank": 17,
+      "rank": 15,
       "country": "CAN",
       "logo": "https://flagcdn.com/24x18/ca.png",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 83.7,
+      "activeScore": 84.0,
       "leyendaScore": 0.0,
       "note": "Top 30 a los 19"
     },
@@ -32558,12 +32319,12 @@ window.TENNIS_DATA = {
       "id": "222328",
       "name": "Linda Noskova",
       "age": 21,
-      "rank": 8,
+      "rank": 6,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 78.5,
+      "activeScore": 78.7,
       "leyendaScore": 0.0,
       "note": "Top 10 a los 21"
     },
@@ -32571,12 +32332,12 @@ window.TENNIS_DATA = {
       "id": "260300",
       "name": "Iva Jovic",
       "age": 18,
-      "rank": 16,
+      "rank": 14,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 75.7,
+      "activeScore": 76.0,
       "leyendaScore": 0.0,
       "note": "Top 30 a los 18"
     },
@@ -32584,12 +32345,12 @@ window.TENNIS_DATA = {
       "id": "223670",
       "name": "Diana Shnaider",
       "age": 22,
-      "rank": 14,
+      "rank": 16,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 75.6,
+      "activeScore": 75.5,
       "leyendaScore": 0.0,
       "note": "Top 30 a los 22"
     },
@@ -32597,12 +32358,12 @@ window.TENNIS_DATA = {
       "id": "223253",
       "name": "Alexandra Eala",
       "age": 21,
-      "rank": 20,
+      "rank": 18,
       "country": "PHI",
       "logo": "",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 68.8,
+      "activeScore": 69.1,
       "leyendaScore": 0.0,
       "note": "Top 30 a los 21"
     },
@@ -32610,14 +32371,14 @@ window.TENNIS_DATA = {
       "id": "223360",
       "name": "Nikola Bartunkova",
       "age": 20,
-      "rank": 39,
+      "rank": 38,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "primary": "#D7141A",
       "secondary": "#FFFFFF",
-      "activeScore": 64.6,
+      "activeScore": 64.7,
       "leyendaScore": 0.0,
-      "note": "Irrumpe a los 20 (#39)"
+      "note": "Irrumpe a los 20 (#38)"
     }
   ],
   "IMPORTANCE": 8.0
