@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-24 20:50 UTC
+// Auto-generated 2026-08-24 21:50 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-24 20:50 UTC",
+  "UPDATED": "2026-08-24 21:50 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -915,10 +915,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Winston-Salem Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 68.2
     },
@@ -3099,7 +3099,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 54.2
@@ -3234,9 +3234,9 @@ window.TENNIS_DATA = {
       "prevListRank": 95,
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 53.4
     },
@@ -3437,10 +3437,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 101,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Winston-Salem Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 53.9
     },
@@ -3921,7 +3921,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 48.4
@@ -4023,10 +4023,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 118,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Winston-Salem Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 48.3
     },
@@ -6919,10 +6919,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
       "prevActiveScore": 61.6
     },
@@ -7905,10 +7905,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Abierto GNP Seguros",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 54.3
     },
@@ -11008,28 +11008,28 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Pierre-Hugues Herbert",
+          "w": "Lorenzo Sonego",
           "w_logo": "",
-          "l": "Lorenzo Sonego",
+          "l": "Pierre-Hugues Herbert",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-4) 4-6 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 53.9,
+          "w_score": 53.9,
+          "l_score": null,
           "match_score": 53.9
         },
         {
           "round": "R128",
-          "w": "Jesper de Jong",
+          "w": "Adam Walton",
           "w_logo": "",
-          "l": "Adam Walton",
+          "l": "Jesper de Jong",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 53.5,
-          "l_score": 49.0,
+          "w_score": 49.0,
+          "l_score": 53.5,
           "match_score": 53.5
         },
         {
@@ -11193,9 +11193,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Camila Osorio",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 66.7,
           "l_score": 65.8,
           "match_score": 66.7
@@ -11339,15 +11339,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Simona Waltert",
+          "w": "Fiona Crawley",
           "w_logo": "",
-          "l": "Fiona Crawley",
+          "l": "Simona Waltert",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 46.1,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 46.1,
           "match_score": 46.1
         },
         {
@@ -11400,7 +11400,9 @@ window.TENNIS_DATA = {
       "Abdullah Shelbayh",
       "Adam Walton",
       "Adolfo Daniel Vallejo",
+      "Adrian Mannarino",
       "Aleksandar Kovacevic",
+      "Arthur Fery",
       "Benjamin Bonzi",
       "Botic Van De Zandschulp",
       "Cruz Hewitt",
@@ -11410,10 +11412,10 @@ window.TENNIS_DATA = {
       "Felix Balshaw",
       "Francisco Comesana",
       "Hugo Grenier",
+      "Ignacio Buse",
       "James Duckworth",
       "Jan Choinski",
       "Jenson Brooksby",
-      "Jesper de Jong",
       "Juan Manuel Cerundolo",
       "Lorenzo Sonego",
       "Luciano Darderi",
@@ -11422,27 +11424,28 @@ window.TENNIS_DATA = {
       "Mattia Bellucci",
       "Mees Rottgering",
       "Miomir Kecmanovic",
-      "Pierre-Hugues Herbert",
       "Quentin Halys",
       "Raphael Collignon",
       "Rinky Hijikata",
       "Roman Safiullin",
-      "Sebastian Gorzny",
       "Stefanos Tsitsipas"
     ],
     "out": [
       "Darwin Blanch",
       "Giovanni Mpetshi Perricard",
+      "Jesper de Jong",
       "Kamil Majchrzak",
       "Marcos Giron",
       "Martin Landaluce",
       "Pablo Carreno Busta",
+      "Pierre-Hugues Herbert",
       "Quinn Vandecasteele",
+      "Sebastian Gorzny",
       "Sho Shimabukuro",
       "Wu Yibing"
     ],
     "aliveCount": 32,
-    "matchesSeen": 25
+    "matchesSeen": 28
   },
   "WTA_TOURNAMENT": {
     "name": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
@@ -11470,7 +11473,6 @@ window.TENNIS_DATA = {
       "Alycia Parks",
       "Anastasia Potapova",
       "Anastasia Zakharova",
-      "Anhelina Kalinina",
       "Ann Li",
       "Anna Bondar",
       "Ashlyn Krueger",
@@ -11499,6 +11501,7 @@ window.TENNIS_DATA = {
       "Nikola Bartunkova",
       "Oksana Selekhmeteva",
       "Oleksandra Oliynykova",
+      "Panna Udvardy",
       "Petra Marcinko",
       "Renata Zarazua",
       "Simona Waltert",
