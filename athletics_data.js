@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-25 05:49 UTC
+// Auto-generated 2026-08-25 07:14 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-25 05:49 UTC",
+  "UPDATED": "2026-08-25 07:14 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -6661,108 +6661,7 @@ window.ATHLETICS_DATA = {
               "year": 2017
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "92.62",
-              "athlete": "Rumesh Tharanga Pathirage",
-              "country": "SRI",
-              "flag": "",
-              "primary": "#4A4745",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "90.40",
-              "athlete": "Julian Weber",
-              "country": "GER",
-              "flag": "https://flagcdn.com/24x18/de.png",
-              "primary": "#000000",
-              "venue": "Alexander Stadium",
-              "date": "15 AUG 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "88.05",
-              "athlete": "Neeraj Chopra",
-              "country": "IND",
-              "flag": "https://flagcdn.com/24x18/in.png",
-              "primary": "#4A4745",
-              "venue": "Stade Olympique de la Pontaise",
-              "date": "21 AUG 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "87.68",
-              "athlete": "Rohit Yadav",
-              "country": "IND",
-              "flag": "https://flagcdn.com/24x18/in.png",
-              "primary": "#4A4745",
-              "venue": "Kalinga Stadium",
-              "date": "22 AUG 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "87.59",
-              "athlete": "Curtis Thompson",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Icahn Stadium",
-              "date": "25 JUL 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "86.69",
-              "athlete": "Anderson Peters",
-              "country": "GRN",
-              "flag": "https://flagcdn.com/24x18/gd.png",
-              "primary": "#4A4745",
-              "venue": "Stade Olympique de la Pontaise",
-              "date": "21 AUG 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "85.73",
-              "athlete": "Cameron Mcentyre",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "Stadion Allmend",
-              "date": "16 JUL 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "85.65",
-              "athlete": "Aliaksei Katkavets",
-              "country": "BLR",
-              "flag": "https://flagcdn.com/24x18/by.png",
-              "primary": "#4A4745",
-              "venue": "Regional Sport Complex",
-              "date": "07 MAY 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "85.41",
-              "athlete": "Yash Vir Singh",
-              "country": "IND",
-              "flag": "https://flagcdn.com/24x18/in.png",
-              "primary": "#4A4745",
-              "venue": "Scotstoun Stadium",
-              "date": "31 JUL 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "85.24",
-              "athlete": "Jakub Vadlejch",
-              "country": "CZE",
-              "flag": "https://flagcdn.com/24x18/cz.png",
-              "primary": "#11457E",
-              "venue": "National Stadium",
-              "date": "17 MAY 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "jt_w",

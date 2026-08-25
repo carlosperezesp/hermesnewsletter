@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-25 05:48 UTC
+// Auto-generated 2026-08-25 07:13 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-08-25 05:48 UTC",
+  "UPDATED": "2026-08-25 07:13 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -693,7 +693,7 @@ window.CYCLING_DATA = {
     "name": "Vuelta a España",
     "start": "2026-08-15",
     "end": "2026-09-06",
-    "stage": 2,
+    "stage": 3,
     "total_stages": 21,
     "jersey_primary": "#E8002D",
     "jersey_name": "Maillot Rojo",

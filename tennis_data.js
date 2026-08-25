@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-25 05:49 UTC
+// Auto-generated 2026-08-25 07:14 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-25 05:49 UTC",
+  "UPDATED": "2026-08-25 07:14 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -6477,7 +6477,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 62.9
@@ -6681,7 +6681,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 64.0
@@ -7124,9 +7124,9 @@ window.TENNIS_DATA = {
       "prevListRank": 58,
       "tournamentStatus": {
         "tournament": "Abierto GNP Seguros",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 59.9
     },
@@ -11299,15 +11299,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Donna Vekic",
+          "w": "Diane Parry",
           "w_logo": "",
-          "l": "Diane Parry",
+          "l": "Donna Vekic",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (5-7) 6-4 6-1",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 59.6,
-          "l_score": 65.0,
+          "w_score": 65.0,
+          "l_score": 59.6,
           "match_score": 65.0
         },
         {
@@ -11556,7 +11556,6 @@ window.TENNIS_DATA = {
       "Cristina Bucsa",
       "Darja Vidmanova",
       "Diane Parry",
-      "Donna Vekic",
       "Ekaterina Alexandrova",
       "Ekaterina Ovcharenko",
       "Fiona Crawley",
@@ -11589,6 +11588,7 @@ window.TENNIS_DATA = {
       "Ariana Arseneault",
       "Camila Osorio",
       "Dayana Yastremska",
+      "Donna Vekic",
       "Ella Seidel",
       "Ena Koike",
       "Hong Yi Cody Wong",
@@ -11607,8 +11607,8 @@ window.TENNIS_DATA = {
       "Taylah Preston",
       "Veronika Erjavec"
     ],
-    "aliveCount": 36,
-    "matchesSeen": 40
+    "aliveCount": 35,
+    "matchesSeen": 41
   },
   "ATP_SCORE_LOG": {
     "206173": [
