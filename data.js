@@ -16095,7 +16095,7 @@ window.NHL_DATA = {
       "name": "Fabian Zetterlund",
       "pos": "LW",
       "teamCode": "OTT",
-      "age": 26,
+      "age": 27,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -30691,7 +30691,7 @@ window.NHL_DATA = {
       "name": "Tim Washe",
       "pos": "C",
       "teamCode": "ANA",
-      "age": 24,
+      "age": 25,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-24 21:48 UTC",
+  "LAST_UPDATE": "2026-08-25 05:47 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-24T21:48:00Z"
+    "standingsDateTimeUtc": "2026-08-25T05:47:30Z"
   }
 };

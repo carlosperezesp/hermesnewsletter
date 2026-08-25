@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-24 21:50 UTC",
+  "UPDATED": "2026-08-25 05:49 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:British motorcycle Grand Prix:Jorge Martín",
@@ -17,6 +17,15 @@ window.GLORY_DATA = {
       "text": "Ryan Blaney ganó en Echopark Speedway",
       "weight": 100,
       "firstSeen": "2026-08-12"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:new1:MA Starc",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "MA Starc es nuevo nº1 · Road to Glory",
+      "weight": 92,
+      "firstSeen": "2026-08-25"
     },
     {
       "id": "rank:golf:CURRENT:new1:Cameron Young",
@@ -37,12 +46,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-08-15"
     },
     {
-      "id": "cycling:stage:Tour de France:21:Mathieu van der Poel",
-      "sport": "cycling",
-      "detail": "Ciclismo",
-      "text": "Mathieu van der Poel ganó la última etapa del Tour de France",
-      "weight": 88,
-      "firstSeen": "2026-08-10"
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:Mohammed Siraj",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "Mohammed Siraj entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-08-25"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Victor Eklund",
@@ -50,15 +60,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
       "text": "Victor Eklund entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-08-19"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:in:NGRP Jayasuriya",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "NGRP Jayasuriya entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-08-19"
     },
@@ -473,16 +474,16 @@ window.GLORY_DATA = {
       "Carlton"
     ],
     "cricket:ROAD_TO_GLORY.players": [
-      "JJ Bumrah",
       "MA Starc",
+      "JJ Bumrah",
       "RA Jadeja",
-      "Taijul Islam",
       "Mehedi Hasan Miraz",
+      "Taijul Islam",
       "MJ Henry",
+      "Mohammed Siraj",
       "Nauman Ali",
       "BA Carse",
-      "Sajid Khan",
-      "NGRP Jayasuriya"
+      "Sajid Khan"
     ],
     "athletics:allTime:100m_m": [
       "Usain Bolt",
