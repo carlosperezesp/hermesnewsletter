@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-25 14:24 UTC
+// Auto-generated 2026-08-25 20:46 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-08-25 14:24 UTC",
+  "UPDATED": "2026-08-25 20:46 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -693,7 +693,7 @@ window.CYCLING_DATA = {
     "name": "Vuelta a España",
     "start": "2026-08-15",
     "end": "2026-09-06",
-    "stage": 3,
+    "stage": 4,
     "total_stages": 21,
     "jersey_primary": "#E8002D",
     "jersey_name": "Maillot Rojo",
@@ -718,97 +718,97 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/si.png",
         "team": "UEX",
         "primary": "#003DA5",
-        "time": "4h 58' 40\"",
+        "time": "7h 38' 59\"",
         "legendScore": 64.2
       },
       {
         "rank": 2,
-        "name": "Wout van Aert",
-        "country": "BEL",
-        "logo": "https://flagcdn.com/24x18/be.png",
-        "team": "TVL men",
-        "primary": "#000000",
-        "time": "+ 9\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 3,
-        "name": "Matthew Brennan",
-        "country": "GBR",
-        "logo": "https://flagcdn.com/24x18/gb.png",
-        "team": "TVL men",
-        "primary": "#012169",
-        "time": "+ 10\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 4,
-        "name": "Léo Bisiaux",
-        "country": "FRA",
-        "logo": "https://flagcdn.com/24x18/fr.png",
-        "team": "DCT",
-        "primary": "#002395",
-        "time": "+ 12\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 5,
-        "name": "Finn Fisher-Black",
-        "country": "NZL",
-        "logo": "https://flagcdn.com/24x18/nz.png",
-        "team": "RBH",
-        "primary": "#555555",
-        "time": "+ 14\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 6,
-        "name": "Stefan Küng",
-        "country": "SUI",
-        "logo": "https://flagcdn.com/24x18/ch.png",
-        "team": "TUD",
-        "primary": "#FF0000",
-        "time": "+ 18\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 7,
-        "name": "Jay Vine",
-        "country": "AUS",
-        "logo": "https://flagcdn.com/24x18/au.png",
-        "team": "UEX",
-        "primary": "#00008B",
-        "time": "+ 18\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 8,
-        "name": "Mads Pedersen",
-        "country": "DEN",
-        "logo": "https://flagcdn.com/24x18/dk.png",
-        "team": "LTK men",
-        "primary": "#C60C30",
-        "time": "+ 20\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 9,
         "name": "Primož Roglič",
         "country": "SLO",
         "logo": "https://flagcdn.com/24x18/si.png",
         "team": "RBH",
         "primary": "#003DA5",
-        "time": "+ 26\"",
+        "time": "+ 3' 21\"",
         "legendScore": 22.4
       },
       {
-        "rank": 10,
-        "name": "Jordan Labrosse",
-        "country": "FRA",
-        "logo": "https://flagcdn.com/24x18/fr.png",
+        "rank": 3,
+        "name": "Enric Mas",
+        "country": "ESP",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "team": "MOV",
+        "primary": "#AA151B",
+        "time": "+ 3' 32\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 4,
+        "name": "Sepp Kuss",
+        "country": "USA",
+        "logo": "https://flagcdn.com/24x18/us.png",
+        "team": "TVL",
+        "primary": "#B22234",
+        "time": "+ 3' 44\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 5,
+        "name": "Oscar Onley",
+        "country": "GBR",
+        "logo": "https://flagcdn.com/24x18/gb.png",
+        "team": "NCI",
+        "primary": "#012169",
+        "time": "+ 3' 45\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 6,
+        "name": "Richard Carapaz",
+        "country": "ECU",
+        "logo": "https://flagcdn.com/24x18/ec.png",
+        "team": "EFE",
+        "primary": "#FFD100",
+        "time": "+ 3' 50\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 7,
+        "name": "Felix Gall",
+        "country": "AUT",
+        "logo": "https://flagcdn.com/24x18/at.png",
         "team": "DCT",
-        "primary": "#002395",
-        "time": "+ 27\"",
+        "primary": "#ED2939",
+        "time": "+ 3' 57\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 8,
+        "name": "Mattias Skjelmose",
+        "country": "DEN",
+        "logo": "https://flagcdn.com/24x18/dk.png",
+        "team": "LTK men",
+        "primary": "#C60C30",
+        "time": "+ 4' 06\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 9,
+        "name": "Jarno Widar",
+        "country": "BEL",
+        "logo": "https://flagcdn.com/24x18/be.png",
+        "team": "LOI",
+        "primary": "#000000",
+        "time": "+ 4' 06\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 10,
+        "name": "Jay Vine",
+        "country": "AUS",
+        "logo": "https://flagcdn.com/24x18/au.png",
+        "team": "UEX",
+        "primary": "#00008B",
+        "time": "+ 4' 11\"",
         "legendScore": 0.0
       }
     ],
@@ -819,27 +819,27 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/si.png",
       "team": "UEX",
       "primary": "#003DA5",
-      "points": 42,
+      "points": 82,
       "legendScore": 64.2
     },
     "kom_leader": {
       "rank": 1,
-      "name": "Koen Bouwman",
-      "country": "NED",
-      "logo": "https://flagcdn.com/24x18/nl.png",
-      "team": "JAY men",
-      "primary": "#AE1C28",
-      "points": 6,
-      "legendScore": 0.0
+      "name": "Tadej Pogačar",
+      "country": "SLO",
+      "logo": "https://flagcdn.com/24x18/si.png",
+      "team": "UEX",
+      "primary": "#003DA5",
+      "points": 23,
+      "legendScore": 64.2
     },
     "young_leader": {
       "rank": 1,
-      "name": "Matthew Brennan",
+      "name": "Oscar Onley",
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
-      "team": "TVL men",
+      "team": "NCI",
       "primary": "#012169",
-      "time": "4h 58' 50\"",
+      "time": "7h 42' 44\"",
       "legendScore": 0.0
     }
   },

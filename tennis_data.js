@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-25 14:25 UTC
+// Auto-generated 2026-08-25 20:48 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-25 14:25 UTC",
+  "UPDATED": "2026-08-25 20:48 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -917,7 +917,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 68.2
@@ -1189,7 +1189,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 64.3
@@ -1567,7 +1567,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 64.1
@@ -1771,7 +1771,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 61.4
@@ -1907,7 +1907,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 60.5
@@ -2178,9 +2178,9 @@ window.TENNIS_DATA = {
       "prevListRank": 64,
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 58.3
     },
@@ -2825,7 +2825,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 54.4
@@ -3545,7 +3545,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 51.2
@@ -3751,7 +3751,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 52.7
@@ -3887,7 +3887,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 48.5
@@ -3921,7 +3921,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 48.4
@@ -8351,7 +8351,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Ennoble Care Philly Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 51.9
@@ -9149,7 +9149,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Ennoble Care Philly Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 44.9
@@ -11005,9 +11005,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Adam Walton",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 5-7 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 68.2,
           "l_score": 49.0,
           "match_score": 68.2
@@ -11026,16 +11026,16 @@ window.TENNIS_DATA = {
           "match_score": 66.3
         },
         {
-          "round": "R64",
-          "w": "Luca Van Assche",
+          "round": "R128",
+          "w": "Aleksandar Kovacevic",
           "w_logo": "",
-          "l": "Aleksandar Kovacevic",
+          "l": "Luca Van Assche",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 65.9,
-          "l_score": 52.0,
+          "scheduled": false,
+          "w_score": 52.0,
+          "l_score": 65.9,
           "match_score": 65.9
         },
         {
@@ -11044,24 +11044,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mattia Bellucci",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "2-6 6-4 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 65.8,
           "l_score": 51.1,
           "match_score": 65.8
         },
         {
-          "round": "R64",
-          "w": "Raphael Collignon",
+          "round": "R128",
+          "w": "Rinky Hijikata",
           "w_logo": "",
-          "l": "Rinky Hijikata",
+          "l": "Raphael Collignon",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 64.1,
-          "l_score": 49.6,
+          "scheduled": false,
+          "w_score": 49.6,
+          "l_score": 64.1,
           "match_score": 64.1
         },
         {
@@ -11079,15 +11079,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Adolfo Daniel Vallejo",
+          "w": "Botic Van De Zandschulp",
           "w_logo": "",
-          "l": "Botic Van De Zandschulp",
+          "l": "Adolfo Daniel Vallejo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-0",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 62.4,
-          "l_score": 60.5,
+          "scheduled": false,
+          "w_score": 60.5,
+          "l_score": 62.4,
           "match_score": 62.4
         }
       ]
@@ -11410,15 +11410,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Jessica Bouzas Maneiro",
+          "w": "Wang Xiyu",
           "w_logo": "",
-          "l": "Wang Xiyu",
+          "l": "Jessica Bouzas Maneiro",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 6-4 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 50.6,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 50.6,
           "match_score": 50.6
         },
         {
@@ -11427,24 +11427,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mia Pohankova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 45.6,
           "l_score": null,
           "match_score": 45.6
         },
         {
           "round": "R64",
-          "w": "Anastasia Zakharova",
+          "w": "Kylie Collins",
           "w_logo": "",
-          "l": "Kylie Collins",
+          "l": "Anastasia Zakharova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 43.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 43.7,
           "match_score": 43.7
         }
       ]
@@ -11494,7 +11494,6 @@ window.TENNIS_DATA = {
       "Mattia Bellucci",
       "Mees Rottgering",
       "Miomir Kecmanovic",
-      "Quentin Halys",
       "Raphael Collignon",
       "Rinky Hijikata",
       "Sebastian Baez",
@@ -11513,14 +11512,15 @@ window.TENNIS_DATA = {
       "Martin Landaluce",
       "Pablo Carreno Busta",
       "Pierre-Hugues Herbert",
+      "Quentin Halys",
       "Quinn Vandecasteele",
       "Roman Safiullin",
       "Sebastian Gorzny",
       "Sho Shimabukuro",
       "Wu Yibing"
     ],
-    "aliveCount": 32,
-    "matchesSeen": 32
+    "aliveCount": 31,
+    "matchesSeen": 34
   },
   "WTA_TOURNAMENT": {
     "name": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",

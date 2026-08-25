@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-25 14:25 UTC
+// Auto-generated 2026-08-25 20:47 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-25 14:25 UTC",
+  "UPDATED": "2026-08-25 20:47 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -991,7 +991,108 @@ window.ATHLETICS_DATA = {
               "year": 2007
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "43.38",
+              "athlete": "Samuel Ogazi",
+              "country": "NGR",
+              "flag": "https://flagcdn.com/24x18/ng.png",
+              "primary": "#008751",
+              "venue": "Hayward Field",
+              "date": "12 JUN 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "43.44",
+              "athlete": "Busang Collen Kebinatshipi",
+              "country": "BOT",
+              "flag": "https://flagcdn.com/24x18/bw.png",
+              "primary": "#75AADB",
+              "venue": "Stade Louis II",
+              "date": "10 JUL 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "43.83",
+              "athlete": "Rai Benjamin",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "43.89",
+              "athlete": "Zakithi Nene",
+              "country": "RSA",
+              "flag": "https://flagcdn.com/24x18/za.png",
+              "primary": "#007749",
+              "venue": "Stade Charlty",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "43.92",
+              "athlete": "Jonathan Simms",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Hayward Field",
+              "date": "12 JUN 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "43.96",
+              "athlete": "Jacory Patterson",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Stade Louis II",
+              "date": "10 JUL 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "43.99",
+              "athlete": "Justin Braun",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Un. of Kentucky Outdoor Track Facility",
+              "date": "29 MAY 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "44.02",
+              "athlete": "Muzala Samukonga",
+              "country": "ZAM",
+              "flag": "https://flagcdn.com/24x18/zm.png",
+              "primary": "#4A4745",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "14 JUL 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "44.06",
+              "athlete": "Chris Bailey",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Stade Charlty",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "44.09",
+              "athlete": "Matthew Hudson-Smith",
+              "country": "GBR",
+              "flag": "https://flagcdn.com/24x18/gb.png",
+              "primary": "#012169",
+              "venue": "Stade Charlty",
+              "date": "28 JUN 2026"
+            }
+          ]
         },
         {
           "id": "400m_w",
@@ -2206,108 +2307,7 @@ window.ATHLETICS_DATA = {
               "year": 2024
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "1:41.84",
-              "athlete": "Marco Arop",
-              "country": "CAN",
-              "flag": "https://flagcdn.com/24x18/ca.png",
-              "primary": "#FF0000",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "1:42.08",
-              "athlete": "Cooper Lutkenhaus",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "1:42.09",
-              "athlete": "Emmanuel Wanyonyi",
-              "country": "KEN",
-              "flag": "https://flagcdn.com/24x18/ke.png",
-              "primary": "#006600",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "1:42.19",
-              "athlete": "Brandon Miller",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "1:42.31",
-              "athlete": "Djamel Sedjati",
-              "country": "ALG",
-              "flag": "https://flagcdn.com/24x18/dz.png",
-              "primary": "#006233",
-              "venue": "Stade Olympique de la Pontaise",
-              "date": "21 AUG 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "1:42.50",
-              "athlete": "Josh Hoey",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "The Track at New Balance",
-              "date": "24 JAN 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "1:42.97",
-              "athlete": "Mark English",
-              "country": "IRL",
-              "flag": "https://flagcdn.com/24x18/ie.png",
-              "primary": "#4A4745",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "1:42.98",
-              "athlete": "Max Burgin",
-              "country": "GBR",
-              "flag": "https://flagcdn.com/24x18/gb.png",
-              "primary": "#012169",
-              "venue": "Complexe Sportif Prince Moulay Abdellah",
-              "date": "31 MAY 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "1:43.34",
-              "athlete": "Ben Pattison",
-              "country": "GBR",
-              "flag": "https://flagcdn.com/24x18/gb.png",
-              "primary": "#012169",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "1:43.41",
-              "athlete": "Slimane Moula",
-              "country": "ALG",
-              "flag": "https://flagcdn.com/24x18/dz.png",
-              "primary": "#006233",
-              "venue": "Olympiastadion",
-              "date": "07 JUN 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "800m_w",
