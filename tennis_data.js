@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-25 20:48 UTC
+// Auto-generated 2026-08-25 21:49 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-25 20:48 UTC",
+  "UPDATED": "2026-08-25 21:49 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1188,9 +1188,9 @@ window.TENNIS_DATA = {
       "prevListRank": 35,
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "state": "out",
+        "round": "R64",
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 64.3
     },
@@ -1257,7 +1257,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 66.0
@@ -1463,7 +1463,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 65.4
@@ -1601,7 +1601,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 64.4
@@ -1941,7 +1941,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 61.7
@@ -3545,7 +3545,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 51.2
@@ -4025,7 +4025,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 48.3
@@ -4195,7 +4195,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Winston-Salem Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 46.9
@@ -11026,12 +11026,12 @@ window.TENNIS_DATA = {
           "match_score": 66.3
         },
         {
-          "round": "R128",
+          "round": "R64",
           "w": "Aleksandar Kovacevic",
           "w_logo": "",
           "l": "Luca Van Assche",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 7-6 (8-6)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 52.0,
@@ -11065,14 +11065,14 @@ window.TENNIS_DATA = {
           "match_score": 64.1
         },
         {
-          "round": "R64",
+          "round": "R128",
           "w": "Mariano Navone",
           "w_logo": "",
           "l": "James Duckworth",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 64.0,
           "l_score": 47.7,
           "match_score": 64.0
@@ -11342,9 +11342,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Cristina Bucsa",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 58.2,
           "l_score": 56.1,
           "match_score": 58.2
@@ -11368,9 +11368,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Darja Vidmanova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 54.5,
           "l_score": 35.0,
           "match_score": 54.5
@@ -11381,9 +11381,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Zhang Shuai",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 42.3,
           "l_score": null,
           "match_score": 42.3
@@ -11487,7 +11487,6 @@ window.TENNIS_DATA = {
       "Jenson Brooksby",
       "Juan Manuel Cerundolo",
       "Lorenzo Sonego",
-      "Luca Van Assche",
       "Luciano Darderi",
       "Mariano Navone",
       "Martin Damm",
@@ -11508,6 +11507,7 @@ window.TENNIS_DATA = {
       "Jan Choinski",
       "Jesper de Jong",
       "Kamil Majchrzak",
+      "Luca Van Assche",
       "Marcos Giron",
       "Martin Landaluce",
       "Pablo Carreno Busta",
@@ -11519,8 +11519,8 @@ window.TENNIS_DATA = {
       "Sho Shimabukuro",
       "Wu Yibing"
     ],
-    "aliveCount": 31,
-    "matchesSeen": 34
+    "aliveCount": 30,
+    "matchesSeen": 35
   },
   "WTA_TOURNAMENT": {
     "name": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
