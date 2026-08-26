@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-26 05:52 UTC
+// Auto-generated 2026-08-26 07:19 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-26 05:52 UTC",
+  "UPDATED": "2026-08-26 07:19 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11299,15 +11299,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "En-Shuo Liang",
+          "w": "Nikola Bartunkova",
           "w_logo": "",
-          "l": "Nikola Bartunkova",
+          "l": "En-Shuo Liang",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (4-7) 7-5 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 64.7,
+          "w_score": 64.7,
+          "l_score": null,
           "match_score": 64.7
         },
         {
@@ -11492,7 +11492,6 @@ window.TENNIS_DATA = {
       "Ekaterina Alexandrova",
       "Ekaterina Ovcharenko",
       "Elise Mertens",
-      "En-Shuo Liang",
       "Fiona Crawley",
       "Janice Tjen",
       "Jessica Bouzas Maneiro",
@@ -11523,6 +11522,7 @@ window.TENNIS_DATA = {
       "Dayana Yastremska",
       "Donna Vekic",
       "Ella Seidel",
+      "En-Shuo Liang",
       "Ena Koike",
       "Hong Yi Cody Wong",
       "Jaeda Daniel",
@@ -11543,7 +11543,7 @@ window.TENNIS_DATA = {
       "Veronika Erjavec",
       "Zhang Shuai"
     ],
-    "aliveCount": 32,
+    "aliveCount": 31,
     "matchesSeen": 44
   },
   "ATP_SCORE_LOG": {
