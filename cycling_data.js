@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-26 07:14 UTC
+// Auto-generated 2026-08-26 13:38 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-08-26 07:14 UTC",
+  "UPDATED": "2026-08-26 13:38 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -746,7 +746,7 @@ window.CYCLING_DATA = {
         "name": "Sepp Kuss",
         "country": "USA",
         "logo": "https://flagcdn.com/24x18/us.png",
-        "team": "TVL",
+        "team": "TVL men",
         "primary": "#B22234",
         "time": "+ 3' 44\"",
         "legendScore": 0.0
