@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-26 14:25 UTC
+// Auto-generated 2026-08-26 23:36 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-26 14:25 UTC",
+  "UPDATED": "2026-08-26 23:36 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -4734,13 +4734,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 4,
-              "mark": "4.88",
+              "mark": "4.90",
               "athlete": "Hana Moll",
               "country": "USA",
               "flag": "https://flagcdn.com/24x18/us.png",
               "primary": "#B22234",
-              "venue": "Dempsey Indoor",
-              "date": "30 JAN 2026"
+              "venue": "Letzigrund",
+              "date": "26 AUG 2026"
             },
             {
               "rank": 5,
@@ -4754,6 +4754,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 6,
+              "mark": "4.85",
+              "athlete": "Angelica Moser",
+              "country": "SUI",
+              "flag": "https://flagcdn.com/24x18/ch.png",
+              "primary": "#D52B1E",
+              "venue": "Letzigrund",
+              "date": "26 AUG 2026"
+            },
+            {
+              "rank": 7,
               "mark": "4.84",
               "athlete": "Amanda Moll",
               "country": "USA",
@@ -4763,7 +4773,7 @@ window.ATHLETICS_DATA = {
               "date": "11 JUN 2026"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "4.81",
               "athlete": "Eliza Mccartney",
               "country": "NZL",
@@ -4773,7 +4783,7 @@ window.ATHLETICS_DATA = {
               "date": "07 MAR 2026"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "4.81",
               "athlete": "Imogen Ayris",
               "country": "NZL",
@@ -4783,7 +4793,7 @@ window.ATHLETICS_DATA = {
               "date": "03 JUN 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "4.81",
               "athlete": "Wilma Heltel&#196;",
               "country": "FIN",
@@ -4791,16 +4801,6 @@ window.ATHLETICS_DATA = {
               "primary": "#4A4745",
               "venue": "Pl. Panathinaikou Stadiou",
               "date": "05 JUL 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "4.80",
-              "athlete": "Tina Šutej",
-              "country": "SLO",
-              "flag": "https://flagcdn.com/24x18/si.png",
-              "primary": "#4A4745",
-              "venue": "LAnneau-Halle dathltisme de Metz",
-              "date": "08 FEB 2026"
             }
           ]
         },
@@ -4918,108 +4918,7 @@ window.ATHLETICS_DATA = {
               "year": 1994
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "8.66",
-              "athlete": "Miltiadis Tentoglou",
-              "country": "GRE",
-              "flag": "https://flagcdn.com/24x18/gr.png",
-              "primary": "#4A4745",
-              "venue": "Panthessaliko Stadium",
-              "date": "26 JUL 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "8.51",
-              "athlete": "Simon Ehammer",
-              "country": "SUI",
-              "flag": "https://flagcdn.com/24x18/ch.png",
-              "primary": "#D52B1E",
-              "venue": "Msle-Stadium",
-              "date": "30 MAY 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "8.49",
-              "athlete": "Bozhidar Sar&#194;boyukov",
-              "country": "BUL",
-              "flag": "https://flagcdn.com/24x18/bg.png",
-              "primary": "#00966E",
-              "venue": "Plovdiv Stadium",
-              "date": "14 JUL 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "8.46",
-              "athlete": "Gerson Bald&#201;",
-              "country": "POR",
-              "flag": "https://flagcdn.com/24x18/pt.png",
-              "primary": "#006600",
-              "venue": "Kujawsko-Pomorska Arena",
-              "date": "22 MAR 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "8.46",
-              "athlete": "Jorge A. Hodel&#205;n",
-              "country": "CUB",
-              "flag": "https://flagcdn.com/24x18/cu.png",
-              "primary": "#002A8F",
-              "venue": "Stade Christian Plaziat",
-              "date": "13 JUN 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "8.43",
-              "athlete": "Mattia Furlani",
-              "country": "ITA",
-              "flag": "https://flagcdn.com/24x18/it.png",
-              "primary": "#009246",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "8.39",
-              "athlete": "Wayne Pinnock",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Stade Louis II",
-              "date": "10 JUL 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "8.37",
-              "athlete": "Tafadzwa Chikomba",
-              "country": "ZIM",
-              "flag": "",
-              "primary": "#4A4745",
-              "venue": "Hayward Field",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "8.37",
-              "athlete": "Tajay Gayle",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "National Stadium",
-              "date": "20 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "8.33",
-              "athlete": "Chenlong Yuan",
-              "country": "CHN",
-              "flag": "https://flagcdn.com/24x18/cn.png",
-              "primary": "#DE2910",
-              "venue": "Nanjing (CHN)",
-              "date": "09 MAY 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "lj_w",
