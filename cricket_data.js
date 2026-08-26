@@ -1,23 +1,23 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-08-25 21:49 UTC",
+  "UPDATED": "2026-08-26 05:52 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1619,
+    "matches": 1614,
     "archives": [
       {
         "name": "Tests",
-        "matches": 84
+        "matches": 83
       },
       {
         "name": "ODIs",
-        "matches": 146
+        "matches": 145
       },
       {
         "name": "T20Is",
-        "matches": 930
+        "matches": 927
       },
       {
         "name": "IPL",
@@ -65,12 +65,12 @@ window.CRICKET_DATA = {
           "bowling": 100.0
         },
         "odi": {
-          "overall": 84.7,
+          "overall": 84.1,
           "batting": 21.6,
           "bowling": 100.0
         },
         "t20": {
-          "overall": 86.0,
+          "overall": 85.4,
           "batting": 23.1,
           "bowling": 95.3
         },
@@ -110,12 +110,12 @@ window.CRICKET_DATA = {
           "bowling": 89.5
         },
         "odi": {
-          "overall": 49.7,
+          "overall": 49.3,
           "batting": 8.3,
           "bowling": 89.4
         },
         "t20": {
-          "overall": 50.9,
+          "overall": 50.5,
           "batting": 7.7,
           "bowling": 100.0
         },
@@ -155,12 +155,12 @@ window.CRICKET_DATA = {
           "bowling": 91.8
         },
         "odi": {
-          "overall": 76.1,
+          "overall": 75.5,
           "batting": 18.8,
           "bowling": 92.6
         },
         "t20": {
-          "overall": 77.2,
+          "overall": 76.7,
           "batting": 20.1,
           "bowling": 88.3
         },
@@ -200,17 +200,17 @@ window.CRICKET_DATA = {
           "bowling": 90.7
         },
         "odi": {
-          "overall": 70.5,
+          "overall": 70.0,
           "batting": 16.3,
           "bowling": 91.6
         },
         "t20": {
-          "overall": 72.0,
+          "overall": 71.6,
           "batting": 17.7,
           "bowling": 87.3
         },
         "franchise": {
-          "overall": 71.2,
+          "overall": 71.1,
           "batting": 17.8,
           "bowling": 76.6
         }
@@ -222,51 +222,6 @@ window.CRICKET_DATA = {
         "secondary": "#ffffff"
       },
       "logo": "https://flagcdn.com/24x18/pk.png"
-    },
-    {
-      "id": "mehedi-hasan-miraz",
-      "name": "Mehedi Hasan Miraz",
-      "role": "All-rounder",
-      "score": 82.6,
-      "legendScore": 64.0,
-      "stats": {
-        "test": 82.7,
-        "odi": 84.1,
-        "t20": 85.4,
-        "franchise": 74.2,
-        "runs": 1117,
-        "wickets": 82,
-        "matches": 40
-      },
-      "formatScores": {
-        "test": {
-          "overall": 92.5,
-          "batting": 32.0,
-          "bowling": 71.4
-        },
-        "odi": {
-          "overall": 91.3,
-          "batting": 32.3,
-          "bowling": 77.6
-        },
-        "t20": {
-          "overall": 90.7,
-          "batting": 32.2,
-          "bowling": 76.0
-        },
-        "franchise": {
-          "overall": 89.6,
-          "batting": 32.5,
-          "bowling": 66.6
-        }
-      },
-      "country": "Bangladesh",
-      "teamCode": "BAN",
-      "colors": {
-        "primary": "#006a4e",
-        "secondary": "#f42a41"
-      },
-      "logo": "https://flagcdn.com/24x18/bd.png"
     },
     {
       "id": "mj-henry",
@@ -290,12 +245,12 @@ window.CRICKET_DATA = {
           "bowling": 81.0
         },
         "odi": {
-          "overall": 46.0,
+          "overall": 45.7,
           "batting": 7.5,
           "bowling": 84.9
         },
         "t20": {
-          "overall": 51.2,
+          "overall": 50.9,
           "batting": 8.6,
           "bowling": 90.7
         },
@@ -318,15 +273,15 @@ window.CRICKET_DATA = {
       "name": "RA Jadeja",
       "role": "All-rounder",
       "score": 80.2,
-      "legendScore": 64.3,
+      "legendScore": 64.2,
       "stats": {
         "test": 82.8,
         "odi": 79.0,
         "t20": 79.1,
-        "franchise": 75.7,
+        "franchise": 75.2,
         "runs": 1774,
-        "wickets": 84,
-        "matches": 56
+        "wickets": 83,
+        "matches": 55
       },
       "formatScores": {
         "test": {
@@ -336,18 +291,18 @@ window.CRICKET_DATA = {
         },
         "odi": {
           "overall": 100.0,
-          "batting": 45.3,
-          "bowling": 66.4
+          "batting": 46.3,
+          "bowling": 65.9
         },
         "t20": {
           "overall": 100.0,
-          "batting": 47.1,
-          "bowling": 63.2
+          "batting": 48.1,
+          "bowling": 62.7
         },
         "franchise": {
           "overall": 100.0,
-          "batting": 41.5,
-          "bowling": 64.9
+          "batting": 41.9,
+          "bowling": 64.3
         }
       },
       "country": "India",
@@ -380,12 +335,12 @@ window.CRICKET_DATA = {
           "bowling": 81.6
         },
         "odi": {
-          "overall": 88.4,
+          "overall": 87.7,
           "batting": 28.5,
           "bowling": 82.4
         },
         "t20": {
-          "overall": 63.5,
+          "overall": 63.1,
           "batting": 19.9,
           "bowling": 60.4
         },
@@ -402,6 +357,51 @@ window.CRICKET_DATA = {
         "secondary": "#ffffff"
       },
       "logo": "https://flagcdn.com/24x18/pk.png"
+    },
+    {
+      "id": "mehedi-hasan-miraz",
+      "name": "Mehedi Hasan Miraz",
+      "role": "All-rounder",
+      "score": 78.0,
+      "legendScore": 61.3,
+      "stats": {
+        "test": 77.8,
+        "odi": 79.4,
+        "t20": 80.8,
+        "franchise": 70.2,
+        "runs": 1040,
+        "wickets": 77,
+        "matches": 39
+      },
+      "formatScores": {
+        "test": {
+          "overall": 87.8,
+          "batting": 30.8,
+          "bowling": 66.8
+        },
+        "odi": {
+          "overall": 86.1,
+          "batting": 31.0,
+          "bowling": 73.0
+        },
+        "t20": {
+          "overall": 85.8,
+          "batting": 31.0,
+          "bowling": 71.6
+        },
+        "franchise": {
+          "overall": 85.4,
+          "batting": 31.3,
+          "bowling": 62.8
+        }
+      },
+      "country": "Bangladesh",
+      "teamCode": "BAN",
+      "colors": {
+        "primary": "#006a4e",
+        "secondary": "#f42a41"
+      },
+      "logo": "https://flagcdn.com/24x18/bd.png"
     },
     {
       "id": "mohammed-siraj",
@@ -425,12 +425,12 @@ window.CRICKET_DATA = {
           "bowling": 75.8
         },
         "odi": {
-          "overall": 38.1,
+          "overall": 37.8,
           "batting": 5.7,
           "bowling": 76.6
         },
         "t20": {
-          "overall": 40.5,
+          "overall": 40.3,
           "batting": 6.5,
           "bowling": 75.2
         },
@@ -470,12 +470,12 @@ window.CRICKET_DATA = {
           "bowling": 72.1
         },
         "odi": {
-          "overall": 71.7,
+          "overall": 71.2,
           "batting": 21.0,
           "bowling": 73.7
         },
         "t20": {
-          "overall": 71.6,
+          "overall": 71.1,
           "batting": 21.4,
           "bowling": 71.3
         },
@@ -513,25 +513,7 @@ window.CRICKET_DATA = {
           "bowling": 66.7,
           "overall": 100.0,
           "runs": 1774,
-          "wickets": 84
-        },
-        {
-          "id": "mehedi-hasan-miraz",
-          "name": "Mehedi Hasan Miraz",
-          "role": "All-rounder",
-          "country": "Bangladesh",
-          "teamCode": "BAN",
-          "colors": {
-            "primary": "#006a4e",
-            "secondary": "#f42a41"
-          },
-          "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 92.5,
-          "batting": 32.0,
-          "bowling": 71.4,
-          "overall": 92.5,
-          "runs": 1117,
-          "wickets": 82
+          "wickets": 83
         },
         {
           "id": "s-muthusamy",
@@ -550,6 +532,24 @@ window.CRICKET_DATA = {
           "overall": 90.4,
           "runs": 327,
           "wickets": 30
+        },
+        {
+          "id": "mehedi-hasan-miraz",
+          "name": "Mehedi Hasan Miraz",
+          "role": "All-rounder",
+          "country": "Bangladesh",
+          "teamCode": "BAN",
+          "colors": {
+            "primary": "#006a4e",
+            "secondary": "#f42a41"
+          },
+          "logo": "https://flagcdn.com/24x18/bd.png",
+          "score": 87.8,
+          "batting": 30.8,
+          "bowling": 66.8,
+          "overall": 87.8,
+          "runs": 1040,
+          "wickets": 77
         },
         {
           "id": "ma-starc",
@@ -1057,29 +1057,11 @@ window.CRICKET_DATA = {
           },
           "logo": "https://flagcdn.com/24x18/in.png",
           "score": 100.0,
-          "batting": 45.3,
-          "bowling": 66.4,
+          "batting": 46.3,
+          "bowling": 65.9,
           "overall": 100.0,
           "runs": 1774,
-          "wickets": 84
-        },
-        {
-          "id": "mehedi-hasan-miraz",
-          "name": "Mehedi Hasan Miraz",
-          "role": "All-rounder",
-          "country": "Bangladesh",
-          "teamCode": "BAN",
-          "colors": {
-            "primary": "#006a4e",
-            "secondary": "#f42a41"
-          },
-          "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 91.3,
-          "batting": 32.3,
-          "bowling": 77.6,
-          "overall": 91.3,
-          "runs": 1117,
-          "wickets": 82
+          "wickets": 83
         },
         {
           "id": "ba-stokes",
@@ -1092,10 +1074,10 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 88.7,
+          "score": 88.0,
           "batting": 40.9,
           "bowling": 57.8,
-          "overall": 88.7,
+          "overall": 88.0,
           "runs": 765,
           "wickets": 49
         },
@@ -1110,12 +1092,30 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 88.4,
+          "score": 87.7,
           "batting": 28.5,
           "bowling": 82.4,
-          "overall": 88.4,
+          "overall": 87.7,
           "runs": 243,
           "wickets": 55
+        },
+        {
+          "id": "mehedi-hasan-miraz",
+          "name": "Mehedi Hasan Miraz",
+          "role": "All-rounder",
+          "country": "Bangladesh",
+          "teamCode": "BAN",
+          "colors": {
+            "primary": "#006a4e",
+            "secondary": "#f42a41"
+          },
+          "logo": "https://flagcdn.com/24x18/bd.png",
+          "score": 86.1,
+          "batting": 31.0,
+          "bowling": 73.0,
+          "overall": 86.1,
+          "runs": 1040,
+          "wickets": 77
         },
         {
           "id": "ma-starc",
@@ -1128,10 +1128,10 @@ window.CRICKET_DATA = {
             "secondary": "#006341"
           },
           "logo": "https://flagcdn.com/24x18/au.png",
-          "score": 84.7,
+          "score": 84.1,
           "batting": 21.6,
           "bowling": 100.0,
-          "overall": 84.7,
+          "overall": 84.1,
           "runs": 419,
           "wickets": 125
         },
@@ -1146,10 +1146,10 @@ window.CRICKET_DATA = {
             "secondary": "#ff9933"
           },
           "logo": "https://flagcdn.com/24x18/in.png",
-          "score": 81.1,
+          "score": 80.6,
           "batting": 28.5,
           "bowling": 69.5,
-          "overall": 81.1,
+          "overall": 80.6,
           "runs": 33,
           "wickets": 12
         },
@@ -1164,10 +1164,10 @@ window.CRICKET_DATA = {
             "secondary": "#ffb81c"
           },
           "logo": "https://flagcdn.com/24x18/za.png",
-          "score": 80.2,
+          "score": 79.6,
           "batting": 49.2,
           "bowling": 39.3,
-          "overall": 80.2,
+          "overall": 79.6,
           "runs": 327,
           "wickets": 30
         },
@@ -1182,10 +1182,10 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 79.9,
+          "score": 79.4,
           "batting": 28.6,
           "bowling": 67.2,
-          "overall": 79.9,
+          "overall": 79.4,
           "runs": 475,
           "wickets": 57
         },
@@ -1200,10 +1200,10 @@ window.CRICKET_DATA = {
             "secondary": "#ff883e"
           },
           "logo": "https://flagcdn.com/24x18/ie.png",
-          "score": 78.2,
+          "score": 77.6,
           "batting": 79.9,
           "bowling": 23.0,
-          "overall": 78.2,
+          "overall": 77.6,
           "runs": 298,
           "wickets": 22
         },
@@ -1218,10 +1218,10 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 77.2,
+          "score": 76.7,
           "batting": 52.0,
           "bowling": 34.5,
-          "overall": 77.2,
+          "overall": 76.7,
           "runs": 50,
           "wickets": 5
         }
@@ -1241,7 +1241,7 @@ window.CRICKET_DATA = {
           "score": 100.0,
           "batting": 100.0,
           "bowling": 0.2,
-          "overall": 8.2,
+          "overall": 8.1,
           "runs": 446,
           "wickets": 0
         },
@@ -1259,7 +1259,7 @@ window.CRICKET_DATA = {
           "score": 98.0,
           "batting": 98.0,
           "bowling": 0.2,
-          "overall": 8.1,
+          "overall": 8.0,
           "runs": 947,
           "wickets": 0
         },
@@ -1277,7 +1277,7 @@ window.CRICKET_DATA = {
           "score": 83.4,
           "batting": 83.4,
           "bowling": 13.7,
-          "overall": 61.6,
+          "overall": 61.2,
           "runs": 370,
           "wickets": 6
         },
@@ -1295,7 +1295,7 @@ window.CRICKET_DATA = {
           "score": 79.9,
           "batting": 79.9,
           "bowling": 23.0,
-          "overall": 78.2,
+          "overall": 77.6,
           "runs": 298,
           "wickets": 22
         },
@@ -1331,7 +1331,7 @@ window.CRICKET_DATA = {
           "score": 75.5,
           "batting": 75.5,
           "bowling": 6.7,
-          "overall": 41.0,
+          "overall": 40.7,
           "runs": 3053,
           "wickets": 7
         },
@@ -1349,7 +1349,7 @@ window.CRICKET_DATA = {
           "score": 75.3,
           "batting": 75.3,
           "bowling": 0.2,
-          "overall": 7.1,
+          "overall": 7.0,
           "runs": 90,
           "wickets": 0
         },
@@ -1385,7 +1385,7 @@ window.CRICKET_DATA = {
           "score": 70.0,
           "batting": 70.0,
           "bowling": 0.6,
-          "overall": 11.8,
+          "overall": 11.7,
           "runs": 2559,
           "wickets": 1
         },
@@ -1403,7 +1403,7 @@ window.CRICKET_DATA = {
           "score": 67.5,
           "batting": 67.5,
           "bowling": 0.4,
-          "overall": 9.5,
+          "overall": 9.4,
           "runs": 309,
           "wickets": 0
         }
@@ -1423,7 +1423,7 @@ window.CRICKET_DATA = {
           "score": 100.0,
           "batting": 21.6,
           "bowling": 100.0,
-          "overall": 84.7,
+          "overall": 84.1,
           "runs": 419,
           "wickets": 125
         },
@@ -1441,7 +1441,7 @@ window.CRICKET_DATA = {
           "score": 92.6,
           "batting": 18.8,
           "bowling": 92.6,
-          "overall": 76.1,
+          "overall": 75.5,
           "runs": 301,
           "wickets": 77
         },
@@ -1459,7 +1459,7 @@ window.CRICKET_DATA = {
           "score": 91.6,
           "batting": 16.3,
           "bowling": 91.6,
-          "overall": 70.5,
+          "overall": 70.0,
           "runs": 116,
           "wickets": 54
         },
@@ -1477,7 +1477,7 @@ window.CRICKET_DATA = {
           "score": 89.4,
           "batting": 8.3,
           "bowling": 89.4,
-          "overall": 49.7,
+          "overall": 49.3,
           "runs": 108,
           "wickets": 131
         },
@@ -1495,7 +1495,7 @@ window.CRICKET_DATA = {
           "score": 84.9,
           "batting": 7.5,
           "bowling": 84.9,
-          "overall": 46.0,
+          "overall": 45.7,
           "runs": 108,
           "wickets": 99
         },
@@ -1513,7 +1513,7 @@ window.CRICKET_DATA = {
           "score": 82.4,
           "batting": 28.5,
           "bowling": 82.4,
-          "overall": 88.4,
+          "overall": 87.7,
           "runs": 243,
           "wickets": 55
         },
@@ -1531,27 +1531,9 @@ window.CRICKET_DATA = {
           "score": 80.8,
           "batting": 12.1,
           "bowling": 80.8,
-          "overall": 57.0,
+          "overall": 56.6,
           "runs": 247,
           "wickets": 101
-        },
-        {
-          "id": "mehedi-hasan-miraz",
-          "name": "Mehedi Hasan Miraz",
-          "role": "All-rounder",
-          "country": "Bangladesh",
-          "teamCode": "BAN",
-          "colors": {
-            "primary": "#006a4e",
-            "secondary": "#f42a41"
-          },
-          "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 77.6,
-          "batting": 32.3,
-          "bowling": 77.6,
-          "overall": 91.3,
-          "runs": 1117,
-          "wickets": 82
         },
         {
           "id": "ngrp-jayasuriya",
@@ -1567,7 +1549,7 @@ window.CRICKET_DATA = {
           "score": 77.1,
           "batting": 11.8,
           "bowling": 77.1,
-          "overall": 55.0,
+          "overall": 54.6,
           "runs": 119,
           "wickets": 56
         },
@@ -1585,9 +1567,27 @@ window.CRICKET_DATA = {
           "score": 76.6,
           "batting": 5.7,
           "bowling": 76.6,
-          "overall": 38.1,
+          "overall": 37.8,
           "runs": 73,
           "wickets": 110
+        },
+        {
+          "id": "ba-carse",
+          "name": "BA Carse",
+          "role": "Bowler",
+          "country": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/gb-eng.png",
+          "score": 73.7,
+          "batting": 21.0,
+          "bowling": 73.7,
+          "overall": 71.2,
+          "runs": 420,
+          "wickets": 73
         }
       ]
     },
@@ -1605,29 +1605,11 @@ window.CRICKET_DATA = {
           },
           "logo": "https://flagcdn.com/24x18/in.png",
           "score": 100.0,
-          "batting": 47.1,
-          "bowling": 63.2,
+          "batting": 48.1,
+          "bowling": 62.7,
           "overall": 100.0,
           "runs": 1774,
-          "wickets": 84
-        },
-        {
-          "id": "mehedi-hasan-miraz",
-          "name": "Mehedi Hasan Miraz",
-          "role": "All-rounder",
-          "country": "Bangladesh",
-          "teamCode": "BAN",
-          "colors": {
-            "primary": "#006a4e",
-            "secondary": "#f42a41"
-          },
-          "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 90.7,
-          "batting": 32.2,
-          "bowling": 76.0,
-          "overall": 90.7,
-          "runs": 1117,
-          "wickets": 82
+          "wickets": 83
         },
         {
           "id": "ba-stokes",
@@ -1640,12 +1622,30 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 88.5,
+          "score": 88.0,
           "batting": 42.5,
           "bowling": 54.9,
-          "overall": 88.5,
+          "overall": 88.0,
           "runs": 765,
           "wickets": 49
+        },
+        {
+          "id": "mehedi-hasan-miraz",
+          "name": "Mehedi Hasan Miraz",
+          "role": "All-rounder",
+          "country": "Bangladesh",
+          "teamCode": "BAN",
+          "colors": {
+            "primary": "#006a4e",
+            "secondary": "#f42a41"
+          },
+          "logo": "https://flagcdn.com/24x18/bd.png",
+          "score": 85.8,
+          "batting": 31.0,
+          "bowling": 71.6,
+          "overall": 85.8,
+          "runs": 1040,
+          "wickets": 77
         },
         {
           "id": "ma-starc",
@@ -1658,10 +1658,10 @@ window.CRICKET_DATA = {
             "secondary": "#006341"
           },
           "logo": "https://flagcdn.com/24x18/au.png",
-          "score": 86.0,
+          "score": 85.4,
           "batting": 23.1,
           "bowling": 95.3,
-          "overall": 86.0,
+          "overall": 85.4,
           "runs": 419,
           "wickets": 125
         },
@@ -1676,10 +1676,10 @@ window.CRICKET_DATA = {
             "secondary": "#ff9933"
           },
           "logo": "https://flagcdn.com/24x18/in.png",
-          "score": 81.7,
+          "score": 81.1,
           "batting": 30.0,
           "bowling": 66.2,
-          "overall": 81.7,
+          "overall": 81.1,
           "runs": 33,
           "wickets": 12
         },
@@ -1694,10 +1694,10 @@ window.CRICKET_DATA = {
             "secondary": "#dddddd"
           },
           "logo": "",
-          "score": 81.5,
+          "score": 81.0,
           "batting": 37.3,
           "bowling": 53.0,
-          "overall": 81.5,
+          "overall": 81.0,
           "runs": 1285,
           "wickets": 61
         },
@@ -1712,10 +1712,10 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 81.2,
+          "score": 80.7,
           "batting": 30.7,
           "bowling": 63.9,
-          "overall": 81.2,
+          "overall": 80.7,
           "runs": 475,
           "wickets": 57
         },
@@ -1730,10 +1730,10 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 78.3,
+          "score": 77.8,
           "batting": 30.1,
           "bowling": 60.6,
-          "overall": 78.3,
+          "overall": 77.8,
           "runs": 965,
           "wickets": 83
         },
@@ -1748,10 +1748,10 @@ window.CRICKET_DATA = {
             "secondary": "#dddddd"
           },
           "logo": "",
-          "score": 77.9,
+          "score": 77.4,
           "batting": 38.4,
           "bowling": 47.0,
-          "overall": 77.9,
+          "overall": 77.4,
           "runs": 920,
           "wickets": 51
         },
@@ -1766,10 +1766,10 @@ window.CRICKET_DATA = {
             "secondary": "#f42a41"
           },
           "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 77.2,
+          "score": 76.7,
           "batting": 20.1,
           "bowling": 88.3,
-          "overall": 77.2,
+          "overall": 76.7,
           "runs": 301,
           "wickets": 77
         }
@@ -1789,7 +1789,7 @@ window.CRICKET_DATA = {
           "score": 100.0,
           "batting": 100.0,
           "bowling": 0.2,
-          "overall": 8.2,
+          "overall": 8.1,
           "runs": 947,
           "wickets": 0
         },
@@ -1807,7 +1807,7 @@ window.CRICKET_DATA = {
           "score": 99.0,
           "batting": 99.0,
           "bowling": 0.9,
-          "overall": 17.3,
+          "overall": 17.2,
           "runs": 395,
           "wickets": 2
         },
@@ -1825,7 +1825,7 @@ window.CRICKET_DATA = {
           "score": 85.4,
           "batting": 85.4,
           "bowling": 12.5,
-          "overall": 59.9,
+          "overall": 59.5,
           "runs": 370,
           "wickets": 6
         },
@@ -1843,7 +1843,7 @@ window.CRICKET_DATA = {
           "score": 77.8,
           "batting": 77.8,
           "bowling": 5.7,
-          "overall": 38.6,
+          "overall": 38.3,
           "runs": 3053,
           "wickets": 7
         },
@@ -1879,7 +1879,7 @@ window.CRICKET_DATA = {
           "score": 75.9,
           "batting": 75.9,
           "bowling": 4.8,
-          "overall": 35.0,
+          "overall": 34.8,
           "runs": 93,
           "wickets": 3
         },
@@ -1897,7 +1897,7 @@ window.CRICKET_DATA = {
           "score": 74.7,
           "batting": 74.7,
           "bowling": 0.3,
-          "overall": 8.7,
+          "overall": 8.6,
           "runs": 165,
           "wickets": 0
         },
@@ -1933,7 +1933,7 @@ window.CRICKET_DATA = {
           "score": 70.0,
           "batting": 70.0,
           "bowling": 0.6,
-          "overall": 11.9,
+          "overall": 11.8,
           "runs": 1892,
           "wickets": 0
         },
@@ -1951,7 +1951,7 @@ window.CRICKET_DATA = {
           "score": 69.6,
           "batting": 69.6,
           "bowling": 0.3,
-          "overall": 8.4,
+          "overall": 8.3,
           "runs": 309,
           "wickets": 0
         }
@@ -1971,7 +1971,7 @@ window.CRICKET_DATA = {
           "score": 100.0,
           "batting": 7.7,
           "bowling": 100.0,
-          "overall": 50.9,
+          "overall": 50.5,
           "runs": 108,
           "wickets": 131
         },
@@ -1989,7 +1989,7 @@ window.CRICKET_DATA = {
           "score": 95.3,
           "batting": 23.1,
           "bowling": 95.3,
-          "overall": 86.0,
+          "overall": 85.4,
           "runs": 419,
           "wickets": 125
         },
@@ -2007,7 +2007,7 @@ window.CRICKET_DATA = {
           "score": 90.7,
           "batting": 8.6,
           "bowling": 90.7,
-          "overall": 51.2,
+          "overall": 50.9,
           "runs": 108,
           "wickets": 99
         },
@@ -2025,7 +2025,7 @@ window.CRICKET_DATA = {
           "score": 88.3,
           "batting": 20.1,
           "bowling": 88.3,
-          "overall": 77.2,
+          "overall": 76.7,
           "runs": 301,
           "wickets": 77
         },
@@ -2043,7 +2043,7 @@ window.CRICKET_DATA = {
           "score": 87.3,
           "batting": 17.7,
           "bowling": 87.3,
-          "overall": 72.0,
+          "overall": 71.6,
           "runs": 116,
           "wickets": 54
         },
@@ -2061,7 +2061,7 @@ window.CRICKET_DATA = {
           "score": 79.6,
           "batting": 12.6,
           "bowling": 79.6,
-          "overall": 58.0,
+          "overall": 57.7,
           "runs": 247,
           "wickets": 101
         },
@@ -2079,27 +2079,9 @@ window.CRICKET_DATA = {
           "score": 79.3,
           "batting": 12.2,
           "bowling": 79.3,
-          "overall": 57.0,
+          "overall": 56.6,
           "runs": 110,
           "wickets": 97
-        },
-        {
-          "id": "mehedi-hasan-miraz",
-          "name": "Mehedi Hasan Miraz",
-          "role": "All-rounder",
-          "country": "Bangladesh",
-          "teamCode": "BAN",
-          "colors": {
-            "primary": "#006a4e",
-            "secondary": "#f42a41"
-          },
-          "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 76.0,
-          "batting": 32.2,
-          "bowling": 76.0,
-          "overall": 90.7,
-          "runs": 1117,
-          "wickets": 82
         },
         {
           "id": "ka-maharaj",
@@ -2115,7 +2097,7 @@ window.CRICKET_DATA = {
           "score": 76.0,
           "batting": 17.0,
           "bowling": 76.0,
-          "overall": 65.9,
+          "overall": 65.5,
           "runs": 317,
           "wickets": 88
         },
@@ -2133,9 +2115,27 @@ window.CRICKET_DATA = {
           "score": 75.2,
           "batting": 6.5,
           "bowling": 75.2,
-          "overall": 40.5,
+          "overall": 40.3,
           "runs": 73,
           "wickets": 110
+        },
+        {
+          "id": "ngrp-jayasuriya",
+          "name": "NGRP Jayasuriya",
+          "role": "Bowler",
+          "country": "Sri Lanka",
+          "teamCode": "SL",
+          "colors": {
+            "primary": "#0033a0",
+            "secondary": "#ffb612"
+          },
+          "logo": "https://flagcdn.com/24x18/lk.png",
+          "score": 73.4,
+          "batting": 12.8,
+          "bowling": 73.4,
+          "overall": 55.8,
+          "runs": 119,
+          "wickets": 56
         }
       ]
     },
@@ -2153,11 +2153,11 @@ window.CRICKET_DATA = {
           },
           "logo": "https://flagcdn.com/24x18/in.png",
           "score": 100.0,
-          "batting": 41.5,
-          "bowling": 64.9,
+          "batting": 41.9,
+          "bowling": 64.3,
           "overall": 100.0,
           "runs": 1774,
-          "wickets": 84
+          "wickets": 83
         },
         {
           "id": "jo-holder",
@@ -2178,24 +2178,6 @@ window.CRICKET_DATA = {
           "wickets": 133
         },
         {
-          "id": "mehedi-hasan-miraz",
-          "name": "Mehedi Hasan Miraz",
-          "role": "All-rounder",
-          "country": "Bangladesh",
-          "teamCode": "BAN",
-          "colors": {
-            "primary": "#006a4e",
-            "secondary": "#f42a41"
-          },
-          "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 89.6,
-          "batting": 32.5,
-          "bowling": 66.6,
-          "overall": 89.6,
-          "runs": 1117,
-          "wickets": 82
-        },
-        {
           "id": "ba-stokes",
           "name": "BA Stokes",
           "role": "All-rounder",
@@ -2212,6 +2194,24 @@ window.CRICKET_DATA = {
           "overall": 87.5,
           "runs": 765,
           "wickets": 49
+        },
+        {
+          "id": "mehedi-hasan-miraz",
+          "name": "Mehedi Hasan Miraz",
+          "role": "All-rounder",
+          "country": "Bangladesh",
+          "teamCode": "BAN",
+          "colors": {
+            "primary": "#006a4e",
+            "secondary": "#f42a41"
+          },
+          "logo": "https://flagcdn.com/24x18/bd.png",
+          "score": 85.4,
+          "batting": 31.3,
+          "bowling": 62.8,
+          "overall": 85.4,
+          "runs": 1040,
+          "wickets": 77
         },
         {
           "id": "c-bosch",
@@ -2278,10 +2278,10 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 80.4,
+          "score": 80.3,
           "batting": 31.0,
           "bowling": 56.1,
-          "overall": 80.4,
+          "overall": 80.3,
           "runs": 475,
           "wickets": 57
         },
@@ -2486,22 +2486,22 @@ window.CRICKET_DATA = {
           "wickets": 0
         },
         {
-          "id": "mushfiqur-rahim",
-          "name": "Mushfiqur Rahim",
+          "id": "jj-huo",
+          "name": "JJ Huo",
           "role": "Batter",
-          "country": "Bangladesh",
-          "teamCode": "BAN",
+          "country": "Mozambique",
+          "teamCode": "MOZ",
           "colors": {
-            "primary": "#006a4e",
-            "secondary": "#f42a41"
+            "primary": "#555555",
+            "secondary": "#dddddd"
           },
-          "logo": "https://flagcdn.com/24x18/bd.png",
+          "logo": "",
           "score": 62.9,
           "batting": 62.9,
-          "bowling": 0.5,
-          "overall": 10.8,
-          "runs": 1202,
-          "wickets": 0
+          "bowling": 6.7,
+          "overall": 39.6,
+          "runs": 509,
+          "wickets": 8
         }
       ],
       "bowling": [
@@ -2570,11 +2570,11 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 86.5,
-          "batting": 9.3,
-          "bowling": 86.5,
-          "overall": 54.7,
-          "runs": 133,
+          "score": 86.6,
+          "batting": 9.1,
+          "bowling": 86.6,
+          "overall": 54.1,
+          "runs": 125,
           "wickets": 117
         },
         {
@@ -2650,24 +2650,6 @@ window.CRICKET_DATA = {
           "wickets": 101
         },
         {
-          "id": "shaheen-shah-afridi",
-          "name": "Shaheen Shah Afridi",
-          "role": "Bowler",
-          "country": "Pakistan",
-          "teamCode": "PAK",
-          "colors": {
-            "primary": "#115740",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 77.8,
-          "batting": 14.7,
-          "bowling": 77.8,
-          "overall": 65.2,
-          "runs": 405,
-          "wickets": 104
-        },
-        {
           "id": "taijul-islam",
           "name": "Taijul Islam",
           "role": "Bowler",
@@ -2684,6 +2666,24 @@ window.CRICKET_DATA = {
           "overall": 76.4,
           "runs": 301,
           "wickets": 77
+        },
+        {
+          "id": "as-joseph",
+          "name": "AS Joseph",
+          "role": "Bowler",
+          "country": "West Indies",
+          "teamCode": "WI",
+          "colors": {
+            "primary": "#7a263a",
+            "secondary": "#f6c344"
+          },
+          "logo": "",
+          "score": 76.7,
+          "batting": 14.7,
+          "bowling": 76.7,
+          "overall": 64.7,
+          "runs": 374,
+          "wickets": 102
         }
       ]
     }
@@ -3333,12 +3333,12 @@ window.CRICKET_DATA = {
             "bowling": 100.0
           },
           "odi": {
-            "overall": 84.7,
+            "overall": 84.1,
             "batting": 21.6,
             "bowling": 100.0
           },
           "t20": {
-            "overall": 86.0,
+            "overall": 85.4,
             "batting": 23.1,
             "bowling": 95.3
           },
@@ -3378,12 +3378,12 @@ window.CRICKET_DATA = {
             "bowling": 89.5
           },
           "odi": {
-            "overall": 49.7,
+            "overall": 49.3,
             "batting": 8.3,
             "bowling": 89.4
           },
           "t20": {
-            "overall": 50.9,
+            "overall": 50.5,
             "batting": 7.7,
             "bowling": 100.0
           },
@@ -3406,15 +3406,15 @@ window.CRICKET_DATA = {
         "name": "RA Jadeja",
         "role": "All-rounder",
         "score": 80.2,
-        "legendScore": 64.3,
+        "legendScore": 64.2,
         "stats": {
           "test": 82.8,
           "odi": 79.0,
           "t20": 79.1,
-          "franchise": 75.7,
+          "franchise": 75.2,
           "runs": 1774,
-          "wickets": 84,
-          "matches": 56
+          "wickets": 83,
+          "matches": 55
         },
         "formatScores": {
           "test": {
@@ -3424,18 +3424,18 @@ window.CRICKET_DATA = {
           },
           "odi": {
             "overall": 100.0,
-            "batting": 45.3,
-            "bowling": 66.4
+            "batting": 46.3,
+            "bowling": 65.9
           },
           "t20": {
             "overall": 100.0,
-            "batting": 47.1,
-            "bowling": 63.2
+            "batting": 48.1,
+            "bowling": 62.7
           },
           "franchise": {
             "overall": 100.0,
-            "batting": 41.5,
-            "bowling": 64.9
+            "batting": 41.9,
+            "bowling": 64.3
           }
         },
         "country": "India",
@@ -3445,51 +3445,6 @@ window.CRICKET_DATA = {
           "secondary": "#ff9933"
         },
         "logo": "https://flagcdn.com/24x18/in.png"
-      },
-      {
-        "id": "mehedi-hasan-miraz",
-        "name": "Mehedi Hasan Miraz",
-        "role": "All-rounder",
-        "score": 82.6,
-        "legendScore": 64.0,
-        "stats": {
-          "test": 82.7,
-          "odi": 84.1,
-          "t20": 85.4,
-          "franchise": 74.2,
-          "runs": 1117,
-          "wickets": 82,
-          "matches": 40
-        },
-        "formatScores": {
-          "test": {
-            "overall": 92.5,
-            "batting": 32.0,
-            "bowling": 71.4
-          },
-          "odi": {
-            "overall": 91.3,
-            "batting": 32.3,
-            "bowling": 77.6
-          },
-          "t20": {
-            "overall": 90.7,
-            "batting": 32.2,
-            "bowling": 76.0
-          },
-          "franchise": {
-            "overall": 89.6,
-            "batting": 32.5,
-            "bowling": 66.6
-          }
-        },
-        "country": "Bangladesh",
-        "teamCode": "BAN",
-        "colors": {
-          "primary": "#006a4e",
-          "secondary": "#f42a41"
-        },
-        "logo": "https://flagcdn.com/24x18/bd.png"
       },
       {
         "id": "taijul-islam",
@@ -3513,12 +3468,12 @@ window.CRICKET_DATA = {
             "bowling": 91.8
           },
           "odi": {
-            "overall": 76.1,
+            "overall": 75.5,
             "batting": 18.8,
             "bowling": 92.6
           },
           "t20": {
-            "overall": 77.2,
+            "overall": 76.7,
             "batting": 20.1,
             "bowling": 88.3
           },
@@ -3558,12 +3513,12 @@ window.CRICKET_DATA = {
             "bowling": 81.0
           },
           "odi": {
-            "overall": 46.0,
+            "overall": 45.7,
             "batting": 7.5,
             "bowling": 84.9
           },
           "t20": {
-            "overall": 51.2,
+            "overall": 50.9,
             "batting": 8.6,
             "bowling": 90.7
           },
@@ -3603,12 +3558,12 @@ window.CRICKET_DATA = {
             "bowling": 75.8
           },
           "odi": {
-            "overall": 38.1,
+            "overall": 37.8,
             "batting": 5.7,
             "bowling": 76.6
           },
           "t20": {
-            "overall": 40.5,
+            "overall": 40.3,
             "batting": 6.5,
             "bowling": 75.2
           },
@@ -3625,6 +3580,51 @@ window.CRICKET_DATA = {
           "secondary": "#ff9933"
         },
         "logo": "https://flagcdn.com/24x18/in.png"
+      },
+      {
+        "id": "mehedi-hasan-miraz",
+        "name": "Mehedi Hasan Miraz",
+        "role": "All-rounder",
+        "score": 78.0,
+        "legendScore": 61.3,
+        "stats": {
+          "test": 77.8,
+          "odi": 79.4,
+          "t20": 80.8,
+          "franchise": 70.2,
+          "runs": 1040,
+          "wickets": 77,
+          "matches": 39
+        },
+        "formatScores": {
+          "test": {
+            "overall": 87.8,
+            "batting": 30.8,
+            "bowling": 66.8
+          },
+          "odi": {
+            "overall": 86.1,
+            "batting": 31.0,
+            "bowling": 73.0
+          },
+          "t20": {
+            "overall": 85.8,
+            "batting": 31.0,
+            "bowling": 71.6
+          },
+          "franchise": {
+            "overall": 85.4,
+            "batting": 31.3,
+            "bowling": 62.8
+          }
+        },
+        "country": "Bangladesh",
+        "teamCode": "BAN",
+        "colors": {
+          "primary": "#006a4e",
+          "secondary": "#f42a41"
+        },
+        "logo": "https://flagcdn.com/24x18/bd.png"
       },
       {
         "id": "nauman-ali",
@@ -3648,17 +3648,17 @@ window.CRICKET_DATA = {
             "bowling": 90.7
           },
           "odi": {
-            "overall": 70.5,
+            "overall": 70.0,
             "batting": 16.3,
             "bowling": 91.6
           },
           "t20": {
-            "overall": 72.0,
+            "overall": 71.6,
             "batting": 17.7,
             "bowling": 87.3
           },
           "franchise": {
-            "overall": 71.2,
+            "overall": 71.1,
             "batting": 17.8,
             "bowling": 76.6
           }
@@ -3693,12 +3693,12 @@ window.CRICKET_DATA = {
             "bowling": 72.1
           },
           "odi": {
-            "overall": 71.7,
+            "overall": 71.2,
             "batting": 21.0,
             "bowling": 73.7
           },
           "t20": {
-            "overall": 71.6,
+            "overall": 71.1,
             "batting": 21.4,
             "bowling": 71.3
           },
@@ -3738,12 +3738,12 @@ window.CRICKET_DATA = {
             "bowling": 81.6
           },
           "odi": {
-            "overall": 88.4,
+            "overall": 87.7,
             "batting": 28.5,
             "bowling": 82.4
           },
           "t20": {
-            "overall": 63.5,
+            "overall": 63.1,
             "batting": 19.9,
             "bowling": 60.4
           },

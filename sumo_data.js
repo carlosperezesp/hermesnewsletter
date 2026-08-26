@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-25 21:48 UTC
+// Auto-generated 2026-08-26 05:50 UTC
 window.SUMO_DATA = {
-  "UPDATED": "2026-08-25 21:48 UTC",
+  "UPDATED": "2026-08-26 05:50 UTC",
   "LEGENDS": [
     {
       "id": "hakuho",
@@ -342,7 +342,7 @@ window.SUMO_DATA = {
       "rankShort": "Sekiwake",
       "yusho": 1,
       "legendScore": 1.9,
-      "age": 26,
+      "age": 27,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "primary": "#BC002D"

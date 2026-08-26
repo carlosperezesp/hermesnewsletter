@@ -14999,7 +14999,7 @@ window.NHL_DATA = {
       "name": "Anthony Duclair",
       "pos": "LW",
       "teamCode": "NYI",
-      "age": 30,
+      "age": 31,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-25 21:48 UTC",
+  "LAST_UPDATE": "2026-08-26 05:50 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-25T21:47:45Z"
+    "standingsDateTimeUtc": "2026-08-26T05:50:00Z"
   }
 };
