@@ -1453,7 +1453,7 @@ window.NHL_DATA = {
       "name": "Brandon Hagel",
       "pos": "LW",
       "teamCode": "TBL",
-      "age": 27,
+      "age": 28,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-26 23:34 UTC",
+  "LAST_UPDATE": "2026-08-27 00:52 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-26T23:33:01Z"
+    "standingsDateTimeUtc": "2026-08-27T00:52:00Z"
   }
 };
