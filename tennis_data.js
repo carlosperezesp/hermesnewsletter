@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-27 22:37 UTC
+// Auto-generated 2026-08-27 23:05 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-27 22:37 UTC",
+  "UPDATED": "2026-08-27 23:05 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11225,9 +11225,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Darja Vidmanova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 64.7,
           "l_score": 35.0,
           "match_score": 64.7

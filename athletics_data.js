@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-27 22:37 UTC
+// Auto-generated 2026-08-27 23:05 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-27 22:37 UTC",
+  "UPDATED": "2026-08-27 23:05 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -6984,10 +6984,7 @@ window.ATHLETICS_DATA = {
       ]
     }
   ],
-  "NEW_RECORDS": [
-    "100m vallas W: 12.09 Masai Russell",
-    "400m vallas M: 45.80 Alison Dos Santos"
-  ],
+  "NEW_RECORDS": [],
   "LEGENDS": [
     {
       "id": "usain_bolt",
