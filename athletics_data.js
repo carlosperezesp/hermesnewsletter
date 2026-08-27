@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-27 17:44 UTC
+// Auto-generated 2026-08-27 22:37 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-27 17:44 UTC",
+  "UPDATED": "2026-08-27 22:37 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -353,6 +353,26 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 2,
+              "mark": "10.70",
+              "athlete": "Julien Alfred",
+              "country": "LCA",
+              "flag": "https://flagcdn.com/24x18/lc.png",
+              "primary": "#4A4745",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "10.70",
+              "athlete": "Melissa Jefferson-Wooden",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 4,
               "mark": "10.77",
               "athlete": "Sha&#39;Carri Richardson",
               "country": "USA",
@@ -362,17 +382,7 @@ window.ATHLETICS_DATA = {
               "date": "20 JUN 2026"
             },
             {
-              "rank": 3,
-              "mark": "10.78",
-              "athlete": "Melissa Jefferson-Wooden",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Hayward Field",
-              "date": "04 JUL 2026"
-            },
-            {
-              "rank": 4,
+              "rank": 5,
               "mark": "10.80",
               "athlete": "Shenese Walker",
               "country": "JAM",
@@ -382,7 +392,7 @@ window.ATHLETICS_DATA = {
               "date": "18 APR 2026"
             },
             {
-              "rank": 5,
+              "rank": 6,
               "mark": "10.81",
               "athlete": "Shericka Jackson",
               "country": "JAM",
@@ -392,7 +402,7 @@ window.ATHLETICS_DATA = {
               "date": "19 JUN 2026"
             },
             {
-              "rank": 6,
+              "rank": 7,
               "mark": "10.83",
               "athlete": "Brianna Selby",
               "country": "USA",
@@ -400,16 +410,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "John McDonnell Field",
               "date": "30 MAY 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "10.83",
-              "athlete": "Julien Alfred",
-              "country": "LCA",
-              "flag": "https://flagcdn.com/24x18/lc.png",
-              "primary": "#4A4745",
-              "venue": "Stadion Śląski",
-              "date": "23 AUG 2026"
             },
             {
               "rank": 8,
@@ -560,6 +560,16 @@ window.ATHLETICS_DATA = {
           "season": [
             {
               "rank": 1,
+              "mark": "19.62",
+              "athlete": "Kenneth Bednarek",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 2,
               "mark": "19.63",
               "athlete": "Jaiden Reid",
               "country": "CAY",
@@ -569,7 +579,7 @@ window.ATHLETICS_DATA = {
               "date": "12 JUN 2026"
             },
             {
-              "rank": 2,
+              "rank": 3,
               "mark": "19.67",
               "athlete": "Gout Gout",
               "country": "AUS",
@@ -577,16 +587,6 @@ window.ATHLETICS_DATA = {
               "primary": "#00008B",
               "venue": "Olympic Park",
               "date": "12 APR 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "19.69",
-              "athlete": "Kenneth Bednarek",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Complexe Sportif Prince Moulay Abdellah",
-              "date": "31 MAY 2026"
             },
             {
               "rank": 4,
@@ -1541,15 +1541,25 @@ window.ATHLETICS_DATA = {
           "gender": "W",
           "unit": "time",
           "wr": {
-            "mark": "12.12",
-            "athlete": "Tobi Amusan",
-            "country": "NGR",
-            "year": 2022,
-            "flag": "https://flagcdn.com/24x18/ng.png"
+            "mark": "12.09",
+            "athlete": "Masai Russell",
+            "country": "USA",
+            "year": 2026,
+            "flag": "https://flagcdn.com/24x18/us.png"
           },
           "allTime": [
             {
               "rank": 1,
+              "mark": "12.09",
+              "athlete": "Masai Russell",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Letzigrund",
+              "year": 2026
+            },
+            {
+              "rank": 2,
               "mark": "12.12",
               "athlete": "Tobi Amusan",
               "country": "NGR",
@@ -1559,7 +1569,7 @@ window.ATHLETICS_DATA = {
               "year": 2022
             },
             {
-              "rank": 2,
+              "rank": 3,
               "mark": "12.14",
               "athlete": "Masai Russell",
               "country": "USA",
@@ -1569,7 +1579,7 @@ window.ATHLETICS_DATA = {
               "year": 2026
             },
             {
-              "rank": 3,
+              "rank": 4,
               "mark": "12.17",
               "athlete": "Masai Russell",
               "country": "USA",
@@ -1579,7 +1589,7 @@ window.ATHLETICS_DATA = {
               "year": 2025
             },
             {
-              "rank": 4,
+              "rank": 5,
               "mark": "12.19",
               "athlete": "Tia Jones",
               "country": "USA",
@@ -1589,7 +1599,7 @@ window.ATHLETICS_DATA = {
               "year": 2025
             },
             {
-              "rank": 5,
+              "rank": 6,
               "mark": "12.19",
               "athlete": "Masai Russell",
               "country": "USA",
@@ -1599,7 +1609,7 @@ window.ATHLETICS_DATA = {
               "year": 2025
             },
             {
-              "rank": 6,
+              "rank": 7,
               "mark": "12.20",
               "athlete": "Kendra Harrison",
               "country": "USA",
@@ -1609,7 +1619,7 @@ window.ATHLETICS_DATA = {
               "year": 2016
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "12.21",
               "athlete": "Yordanka Donkova",
               "country": "BUL",
@@ -1619,7 +1629,7 @@ window.ATHLETICS_DATA = {
               "year": 1988
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "12.22",
               "athlete": "Masai Russell",
               "country": "USA",
@@ -1629,49 +1639,49 @@ window.ATHLETICS_DATA = {
               "year": 2025
             },
             {
-              "rank": 9,
-              "mark": "12.24",
-              "athlete": "Yordanka Donkova",
-              "country": "BUL",
-              "flag": "https://flagcdn.com/24x18/bg.png",
-              "primary": "#00966E",
-              "venue": "Stara Zagora",
-              "year": 1988
-            },
-            {
               "rank": 10,
-              "mark": "12.24",
-              "athlete": "Ackera Nugent",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Rome",
-              "year": 2024
+              "mark": "12.23",
+              "athlete": "Tobi Amusan",
+              "country": "NGR",
+              "flag": "https://flagcdn.com/24x18/ng.png",
+              "primary": "#008751",
+              "venue": "Letzigrund",
+              "year": 2026
             }
           ],
           "season": [
             {
               "rank": 1,
-              "mark": "12.14",
+              "mark": "12.09",
               "athlete": "Masai Russell",
               "country": "USA",
               "flag": "https://flagcdn.com/24x18/us.png",
               "primary": "#B22234",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
             },
             {
               "rank": 2,
-              "mark": "12.28",
+              "mark": "12.23",
               "athlete": "Tobi Amusan",
               "country": "NGR",
               "flag": "https://flagcdn.com/24x18/ng.png",
               "primary": "#008751",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
             },
             {
               "rank": 3,
+              "mark": "12.34",
+              "athlete": "Nadine Visser",
+              "country": "NED",
+              "flag": "https://flagcdn.com/24x18/nl.png",
+              "primary": "#AE1C28",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 4,
               "mark": "12.37",
               "athlete": "Devynne Charlton",
               "country": "BAH",
@@ -1681,7 +1691,7 @@ window.ATHLETICS_DATA = {
               "date": "23 MAY 2026"
             },
             {
-              "rank": 4,
+              "rank": 5,
               "mark": "12.38",
               "athlete": "Grace Stark",
               "country": "USA",
@@ -1691,7 +1701,7 @@ window.ATHLETICS_DATA = {
               "date": "28 JUN 2026"
             },
             {
-              "rank": 5,
+              "rank": 6,
               "mark": "12.38",
               "athlete": "Alaysha Johnson",
               "country": "USA",
@@ -1701,7 +1711,7 @@ window.ATHLETICS_DATA = {
               "date": "10 JUL 2026"
             },
             {
-              "rank": 6,
+              "rank": 7,
               "mark": "12.38",
               "athlete": "Alia Armstrong",
               "country": "USA",
@@ -1711,7 +1721,7 @@ window.ATHLETICS_DATA = {
               "date": "25 JUL 2026"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "12.40",
               "athlete": "Demisha Roswell",
               "country": "JAM",
@@ -1719,16 +1729,6 @@ window.ATHLETICS_DATA = {
               "primary": "#000000",
               "venue": "National Stadium",
               "date": "21 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "12.41",
-              "athlete": "Nadine Visser",
-              "country": "NED",
-              "flag": "https://flagcdn.com/24x18/nl.png",
-              "primary": "#AE1C28",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
             },
             {
               "rank": 9,
@@ -1758,15 +1758,25 @@ window.ATHLETICS_DATA = {
           "gender": "M",
           "unit": "time",
           "wr": {
-            "mark": "45.94",
-            "athlete": "Karsten Warholm",
-            "country": "NOR",
-            "year": 2021,
-            "flag": "https://flagcdn.com/24x18/no.png"
+            "mark": "45.80",
+            "athlete": "Alison Dos Santos",
+            "country": "BRA",
+            "year": 2026,
+            "flag": "https://flagcdn.com/24x18/br.png"
           },
           "allTime": [
             {
               "rank": 1,
+              "mark": "45.80",
+              "athlete": "Alison Dos Santos",
+              "country": "BRA",
+              "flag": "https://flagcdn.com/24x18/br.png",
+              "primary": "#009C3B",
+              "venue": "Letzigrund",
+              "year": 2026
+            },
+            {
+              "rank": 2,
               "mark": "45.94",
               "athlete": "Karsten Warholm",
               "country": "NOR",
@@ -1776,7 +1786,7 @@ window.ATHLETICS_DATA = {
               "year": 2021
             },
             {
-              "rank": 2,
+              "rank": 3,
               "mark": "46.17",
               "athlete": "Rai Benjamin",
               "country": "USA",
@@ -1786,7 +1796,7 @@ window.ATHLETICS_DATA = {
               "year": 2021
             },
             {
-              "rank": 3,
+              "rank": 4,
               "mark": "46.28",
               "athlete": "Karsten Warholm",
               "country": "NOR",
@@ -1796,7 +1806,7 @@ window.ATHLETICS_DATA = {
               "year": 2025
             },
             {
-              "rank": 4,
+              "rank": 5,
               "mark": "46.29",
               "athlete": "Alison dos Santos",
               "country": "BRA",
@@ -1806,7 +1816,7 @@ window.ATHLETICS_DATA = {
               "year": 2022
             },
             {
-              "rank": 5,
+              "rank": 6,
               "mark": "46.39",
               "athlete": "Rai Benjamin",
               "country": "USA",
@@ -1816,7 +1826,7 @@ window.ATHLETICS_DATA = {
               "year": 2023
             },
             {
-              "rank": 6,
+              "rank": 7,
               "mark": "46.43",
               "athlete": "Alison Dos Santos",
               "country": "BRA",
@@ -1826,7 +1836,7 @@ window.ATHLETICS_DATA = {
               "year": 2026
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "46.46",
               "athlete": "Rai Benjamin",
               "country": "USA",
@@ -1836,7 +1846,7 @@ window.ATHLETICS_DATA = {
               "year": 2024
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "46.48",
               "athlete": "Alison Dos Santos",
               "country": "BRA",
@@ -1846,7 +1856,7 @@ window.ATHLETICS_DATA = {
               "year": 2026
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "46.51",
               "athlete": "Karsten Warholm",
               "country": "NOR",
@@ -1854,28 +1864,18 @@ window.ATHLETICS_DATA = {
               "primary": "#EF2B2D",
               "venue": "Monaco",
               "year": 2023
-            },
-            {
-              "rank": 10,
-              "mark": "46.52",
-              "athlete": "Karsten Warholm",
-              "country": "NOR",
-              "flag": "https://flagcdn.com/24x18/no.png",
-              "primary": "#EF2B2D",
-              "venue": "Oslo",
-              "year": 2023
             }
           ],
           "season": [
             {
               "rank": 1,
-              "mark": "46.43",
+              "mark": "45.80",
               "athlete": "Alison Dos Santos",
               "country": "BRA",
               "flag": "https://flagcdn.com/24x18/br.png",
               "primary": "#009C3B",
-              "venue": "Stadion Śląski",
-              "date": "23 AUG 2026"
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
             },
             {
               "rank": 2,
@@ -2086,6 +2086,16 @@ window.ATHLETICS_DATA = {
           "season": [
             {
               "rank": 1,
+              "mark": "52.13",
+              "athlete": "Anna Cockrell",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 2,
               "mark": "52.30",
               "athlete": "Emma Zapletalov&#193;",
               "country": "SVK",
@@ -2093,16 +2103,6 @@ window.ATHLETICS_DATA = {
               "primary": "#4A4745",
               "venue": "Suhaim bin Hamad Stadium",
               "date": "19 JUN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "52.77",
-              "athlete": "Anna Cockrell",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
             },
             {
               "rank": 3,
@@ -2126,6 +2126,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 5,
+              "mark": "53.16",
+              "athlete": "Dalilah Muhammad",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 6,
               "mark": "53.28",
               "athlete": "Paulien Couckuyt",
               "country": "BEL",
@@ -2135,7 +2145,17 @@ window.ATHLETICS_DATA = {
               "date": "21 AUG 2026"
             },
             {
-              "rank": 6,
+              "rank": 7,
+              "mark": "53.30",
+              "athlete": "Fatoumata Binta Diallo",
+              "country": "POR",
+              "flag": "https://flagcdn.com/24x18/pt.png",
+              "primary": "#006600",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 8,
               "mark": "53.32",
               "athlete": "Akala Garrett",
               "country": "USA",
@@ -2145,32 +2165,12 @@ window.ATHLETICS_DATA = {
               "date": "13 JUN 2026"
             },
             {
-              "rank": 7,
+              "rank": 9,
               "mark": "53.33",
               "athlete": "Emily Newnham",
               "country": "GBR",
               "flag": "https://flagcdn.com/24x18/gb.png",
               "primary": "#012169",
-              "venue": "Alexander Stadium",
-              "date": "12 AUG 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "53.39",
-              "athlete": "Dalilah Muhammad",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "53.55",
-              "athlete": "Fatoumata Binta Diallo",
-              "country": "POR",
-              "flag": "https://flagcdn.com/24x18/pt.png",
-              "primary": "#006600",
               "venue": "Alexander Stadium",
               "date": "12 AUG 2026"
             },
@@ -2310,6 +2310,26 @@ window.ATHLETICS_DATA = {
           "season": [
             {
               "rank": 1,
+              "mark": "1:41.76",
+              "athlete": "Emmanuel Wanyonyi",
+              "country": "KEN",
+              "flag": "https://flagcdn.com/24x18/ke.png",
+              "primary": "#006600",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "1:41.83",
+              "athlete": "Djamel Sedjati",
+              "country": "ALG",
+              "flag": "https://flagcdn.com/24x18/dz.png",
+              "primary": "#006233",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 3,
               "mark": "1:41.84",
               "athlete": "Marco Arop",
               "country": "CAN",
@@ -2319,7 +2339,7 @@ window.ATHLETICS_DATA = {
               "date": "28 JUN 2026"
             },
             {
-              "rank": 2,
+              "rank": 4,
               "mark": "1:42.08",
               "athlete": "Cooper Lutkenhaus",
               "country": "USA",
@@ -2329,17 +2349,7 @@ window.ATHLETICS_DATA = {
               "date": "10 JUN 2026"
             },
             {
-              "rank": 3,
-              "mark": "1:42.09",
-              "athlete": "Emmanuel Wanyonyi",
-              "country": "KEN",
-              "flag": "https://flagcdn.com/24x18/ke.png",
-              "primary": "#006600",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 4,
+              "rank": 5,
               "mark": "1:42.19",
               "athlete": "Brandon Miller",
               "country": "USA",
@@ -2347,16 +2357,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Olympic Stadium",
               "date": "18 JUL 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "1:42.31",
-              "athlete": "Djamel Sedjati",
-              "country": "ALG",
-              "flag": "https://flagcdn.com/24x18/dz.png",
-              "primary": "#006233",
-              "venue": "Stade Olympique de la Pontaise",
-              "date": "21 AUG 2026"
             },
             {
               "rank": 6,
@@ -2445,6 +2445,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 3,
+              "mark": "1:53.70",
+              "athlete": "Audrey Werro",
+              "country": "SUI",
+              "flag": "https://flagcdn.com/24x18/ch.png",
+              "primary": "#D52B1E",
+              "venue": "Letzigrund",
+              "year": 2026
+            },
+            {
+              "rank": 4,
               "mark": "1:53.80",
               "athlete": "Audrey Werro",
               "country": "SUI",
@@ -2454,7 +2464,7 @@ window.ATHLETICS_DATA = {
               "year": 2026
             },
             {
-              "rank": 4,
+              "rank": 5,
               "mark": "1:53.98",
               "athlete": "Audrey Werro",
               "country": "CHE",
@@ -2464,7 +2474,7 @@ window.ATHLETICS_DATA = {
               "year": 2026
             },
             {
-              "rank": 5,
+              "rank": 6,
               "mark": "1:54.01",
               "athlete": "Pamela Jelimo",
               "country": "KEN",
@@ -2474,7 +2484,7 @@ window.ATHLETICS_DATA = {
               "year": 2008
             },
             {
-              "rank": 6,
+              "rank": 7,
               "mark": "1:54.25",
               "athlete": "Caster Semenya",
               "country": "RSA",
@@ -2484,7 +2494,7 @@ window.ATHLETICS_DATA = {
               "year": 2018
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "1:54.33",
               "athlete": "Keely Hodgkinson",
               "country": "GBR",
@@ -2494,7 +2504,7 @@ window.ATHLETICS_DATA = {
               "year": 2026
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "1:54.44",
               "athlete": "Ana Fidelia Quirot",
               "country": "CUB",
@@ -2504,7 +2514,7 @@ window.ATHLETICS_DATA = {
               "year": 1989
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "1:54.45",
               "athlete": "Audrey Werro",
               "country": "CHE",
@@ -2512,28 +2522,18 @@ window.ATHLETICS_DATA = {
               "primary": "#D52B1E",
               "venue": "Ostrava",
               "year": 2026
-            },
-            {
-              "rank": 10,
-              "mark": "1:54.60",
-              "athlete": "Caster Semenya",
-              "country": "RSA",
-              "flag": "https://flagcdn.com/24x18/za.png",
-              "primary": "#007749",
-              "venue": "Monaco",
-              "year": 2018
             }
           ],
           "season": [
             {
               "rank": 1,
-              "mark": "1:53.80",
+              "mark": "1:53.70",
               "athlete": "Audrey Werro",
               "country": "SUI",
               "flag": "https://flagcdn.com/24x18/ch.png",
               "primary": "#D52B1E",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
             },
             {
               "rank": 2,
@@ -2547,16 +2547,26 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 3,
-              "mark": "1:55.41",
+              "mark": "1:54.71",
               "athlete": "Femke Broeders-Bol",
               "country": "NED",
               "flag": "https://flagcdn.com/24x18/nl.png",
               "primary": "#AE1C28",
-              "venue": "Stade Olympique de la Pontaise",
-              "date": "21 AUG 2026"
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
             },
             {
               "rank": 4,
+              "mark": "1:55.03",
+              "athlete": "Georgia Hunter Bell",
+              "country": "GBR",
+              "flag": "https://flagcdn.com/24x18/gb.png",
+              "primary": "#012169",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 5,
               "mark": "1:55.65",
               "athlete": "Ana&#239;s Bourgoin",
               "country": "FRA",
@@ -2564,16 +2574,6 @@ window.ATHLETICS_DATA = {
               "primary": "#002395",
               "venue": "Stade Charlty",
               "date": "28 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "1:55.93",
-              "athlete": "Georgia Hunter Bell",
-              "country": "GBR",
-              "flag": "https://flagcdn.com/24x18/gb.png",
-              "primary": "#012169",
-              "venue": "Alexander Stadium",
-              "date": "21 JUN 2026"
             },
             {
               "rank": 6,
@@ -3869,13 +3869,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 5,
-              "mark": "8:57.89",
+              "mark": "8:55.94",
               "athlete": "Doris Lemngole",
               "country": "KEN",
               "flag": "https://flagcdn.com/24x18/ke.png",
               "primary": "#006600",
-              "venue": "Hayward Field",
-              "date": "04 JUL 2026"
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
             },
             {
               "rank": 6,
@@ -4280,13 +4280,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 2,
-              "mark": "2.01",
+              "mark": "2.02",
               "athlete": "Nicola Olyslagers",
               "country": "AUS",
               "flag": "https://flagcdn.com/24x18/au.png",
               "primary": "#00008B",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
             },
             {
               "rank": 3,
@@ -4310,6 +4310,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 5,
+              "mark": "2.00",
+              "athlete": "Iryna Gerashchenko",
+              "country": "UKR",
+              "flag": "https://flagcdn.com/24x18/ua.png",
+              "primary": "#005BBB",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 6,
               "mark": "1.99",
               "athlete": "Yuliia Levchenko",
               "country": "UKR",
@@ -4319,7 +4329,7 @@ window.ATHLETICS_DATA = {
               "date": "20 MAR 2026"
             },
             {
-              "rank": 6,
+              "rank": 7,
               "mark": "1.98",
               "athlete": "Maria Żodzik",
               "country": "POL",
@@ -4329,7 +4339,7 @@ window.ATHLETICS_DATA = {
               "date": "22 FEB 2026"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "1.98",
               "athlete": "Marija Vuković",
               "country": "MNE",
@@ -4337,16 +4347,6 @@ window.ATHLETICS_DATA = {
               "primary": "#4A4745",
               "venue": "Filothei Stadium",
               "date": "03 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "1.98",
-              "athlete": "Iryna Gerashchenko",
-              "country": "UKR",
-              "flag": "https://flagcdn.com/24x18/ua.png",
-              "primary": "#005BBB",
-              "venue": "Stadion Śląski",
-              "date": "23 AUG 2026"
             },
             {
               "rank": 9,
@@ -4475,12 +4475,12 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 10,
-              "mark": "6.17",
+              "mark": "6.20",
               "athlete": "Emmanouil Karalis",
               "country": "GRE",
               "flag": "https://flagcdn.com/24x18/gr.png",
               "primary": "#4A4745",
-              "venue": "Olympic Sports Complex of Paiania",
+              "venue": "Letzigrund",
               "year": 2026
             }
           ],
@@ -4497,13 +4497,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 2,
-              "mark": "6.17",
+              "mark": "6.20",
               "athlete": "Emmanouil Karalis",
               "country": "GRE",
               "flag": "https://flagcdn.com/24x18/gr.png",
               "primary": "#4A4745",
-              "venue": "Olympic Sports Complex of Paiania",
-              "date": "28 FEB 2026"
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
             },
             {
               "rank": 3,
@@ -4981,6 +4981,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
+              "mark": "8.43",
+              "athlete": "Tajay Gayle",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 8,
               "mark": "8.39",
               "athlete": "Wayne Pinnock",
               "country": "JAM",
@@ -4990,7 +5000,7 @@ window.ATHLETICS_DATA = {
               "date": "10 JUL 2026"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "8.37",
               "athlete": "Tafadzwa Chikomba",
               "country": "ZIM",
@@ -4998,16 +5008,6 @@ window.ATHLETICS_DATA = {
               "primary": "#4A4745",
               "venue": "Hayward Field",
               "date": "10 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "8.37",
-              "athlete": "Tajay Gayle",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "National Stadium",
-              "date": "20 JUN 2026"
             },
             {
               "rank": 10,
@@ -5816,6 +5816,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 3,
+              "mark": "22.53",
+              "athlete": "Jordan Geist",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 4,
               "mark": "22.44",
               "athlete": "Rajindra Campbell",
               "country": "JAM",
@@ -5823,16 +5833,6 @@ window.ATHLETICS_DATA = {
               "primary": "#000000",
               "venue": "Sports Park Mladost",
               "date": "25 JUN 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "22.44",
-              "athlete": "Jordan Geist",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Billy J. Murphy Track and Field Complex",
-              "date": "10 JUL 2026"
             },
             {
               "rank": 5,
@@ -6714,13 +6714,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 6,
-              "mark": "86.69",
+              "mark": "86.93",
               "athlete": "Anderson Peters",
               "country": "GRN",
               "flag": "https://flagcdn.com/24x18/gd.png",
               "primary": "#4A4745",
-              "venue": "Stade Olympique de la Pontaise",
-              "date": "21 AUG 2026"
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
             },
             {
               "rank": 7,
@@ -6984,7 +6984,10 @@ window.ATHLETICS_DATA = {
       ]
     }
   ],
-  "NEW_RECORDS": [],
+  "NEW_RECORDS": [
+    "100m vallas W: 12.09 Masai Russell",
+    "400m vallas M: 45.80 Alison Dos Santos"
+  ],
   "LEGENDS": [
     {
       "id": "usain_bolt",

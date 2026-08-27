@@ -24,6 +24,14 @@
     },
     {
       "rank": 3,
+      "mark": "1:53.70",
+      "athlete": "Audrey Werro",
+      "country": "SUI",
+      "year": 2026,
+      "venue": "Letzigrund"
+    },
+    {
+      "rank": 4,
       "mark": "1:53.80",
       "athlete": "Audrey Werro",
       "country": "SUI",
@@ -31,7 +39,7 @@
       "venue": "Stade Charlty"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "mark": "1:53.98",
       "athlete": "Audrey Werro",
       "country": "CHE",
@@ -40,7 +48,7 @@
       "venue": "Stockholm"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "mark": "1:54.01",
       "athlete": "Pamela Jelimo",
       "country": "KEN",
@@ -49,7 +57,7 @@
       "venue": "Zürich"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "mark": "1:54.25",
       "athlete": "Caster Semenya",
       "country": "RSA",
@@ -58,7 +66,7 @@
       "venue": "Paris"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "mark": "1:54.33",
       "athlete": "Keely Hodgkinson",
       "country": "GBR",
@@ -67,7 +75,7 @@
       "venue": "Stockholm"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "mark": "1:54.44",
       "athlete": "Ana Fidelia Quirot",
       "country": "CUB",
@@ -76,22 +84,13 @@
       "venue": "Barcelona"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "mark": "1:54.45",
       "athlete": "Audrey Werro",
       "country": "CHE",
       "year": 2026,
       "date": "16 June 2026",
       "venue": "Ostrava"
-    },
-    {
-      "rank": 10,
-      "mark": "1:54.60",
-      "athlete": "Caster Semenya",
-      "country": "RSA",
-      "year": 2018,
-      "date": "20 July 2018",
-      "venue": "Monaco"
     }
   ]
 }

@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-27 17:44 UTC",
+  "UPDATED": "2026-08-27 22:37 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -570,6 +570,7 @@ window.GLORY_DATA = {
       "Liu Xiang"
     ],
     "athletics:allTime:100mh_w": [
+      "Masai Russell",
       "Tobi Amusan",
       "Masai Russell",
       "Masai Russell",
@@ -578,10 +579,10 @@ window.GLORY_DATA = {
       "Kendra Harrison",
       "Yordanka Donkova",
       "Masai Russell",
-      "Yordanka Donkova",
-      "Ackera Nugent"
+      "Tobi Amusan"
     ],
     "athletics:allTime:400mh_m": [
+      "Alison Dos Santos",
       "Karsten Warholm",
       "Rai Benjamin",
       "Karsten Warholm",
@@ -590,7 +591,6 @@ window.GLORY_DATA = {
       "Alison Dos Santos",
       "Rai Benjamin",
       "Alison Dos Santos",
-      "Karsten Warholm",
       "Karsten Warholm"
     ],
     "athletics:allTime:400mh_w": [
@@ -622,12 +622,12 @@ window.GLORY_DATA = {
       "Nadezhda Olizarenko",
       "Audrey Werro",
       "Audrey Werro",
+      "Audrey Werro",
       "Pamela Jelimo",
       "Caster Semenya",
       "Keely Hodgkinson",
       "Ana Fidelia Quirot",
-      "Audrey Werro",
-      "Caster Semenya"
+      "Audrey Werro"
     ],
     "athletics:allTime:1500m_m": [
       "Hicham El Guerrouj",

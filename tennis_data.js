@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-27 17:44 UTC
+// Auto-generated 2026-08-27 22:37 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-27 17:44 UTC",
+  "UPDATED": "2026-08-27 22:37 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10992,24 +10992,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Juan Manuel Cerundolo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 68.2,
           "l_score": 60.5,
           "match_score": 68.2
         },
         {
           "round": "Quarterfinal",
-          "w": "Botic Van De Zandschulp",
+          "w": "Benjamin Bonzi",
           "w_logo": "",
-          "l": "Benjamin Bonzi",
+          "l": "Botic Van De Zandschulp",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-5) 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 60.5,
-          "l_score": 53.5,
+          "scheduled": false,
+          "w_score": 53.5,
+          "l_score": 60.5,
           "match_score": 60.5
         },
         {
@@ -11212,9 +11212,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alycia Parks",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 66.7,
           "l_score": 52.9,
           "match_score": 66.7
@@ -11245,9 +11245,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Kylie Collins",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 60.7,
           "l_score": null,
           "match_score": 60.7
@@ -11271,9 +11271,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Fiona Crawley",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 5-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
