@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-28 04:25 UTC
+// Auto-generated 2026-08-28 05:31 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-28 04:25 UTC",
+  "UPDATED": "2026-08-28 05:31 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10940,7 +10940,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Fabian Marozsan",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (4-7) 6-2 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 47.7,
@@ -10964,13 +10964,13 @@ window.TENNIS_DATA = {
           "round": "Semifinal",
           "w": "Arthur Fery",
           "w_logo": "",
-          "l": "TBD",
+          "l": "James Duckworth",
           "l_logo": "",
           "score": "por jugar",
           "day": "hoy",
           "scheduled": true,
           "w_score": 48.3,
-          "l_score": null,
+          "l_score": 47.7,
           "match_score": 48.3
         }
       ]
@@ -11082,7 +11082,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Yuliia Starodubtseva",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 76.1,
@@ -11308,7 +11308,7 @@ window.TENNIS_DATA = {
       "Tomas Machac"
     ],
     "aliveCount": 100,
-    "matchesSeen": 92
+    "matchesSeen": 93
   },
   "WTA_TOURNAMENT": {
     "name": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
@@ -11454,7 +11454,7 @@ window.TENNIS_DATA = {
       "Renata Zarazua"
     ],
     "aliveCount": 106,
-    "matchesSeen": 104
+    "matchesSeen": 105
   },
   "ATP_SCORE_LOG": {
     "206173": [
