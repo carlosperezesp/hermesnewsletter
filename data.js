@@ -36583,7 +36583,7 @@ window.NHL_DATA = {
       "name": "Abram Wiebe",
       "pos": "D",
       "teamCode": "CGY",
-      "age": 22,
+      "age": 23,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-27 23:03 UTC",
+  "LAST_UPDATE": "2026-08-28 04:23 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-27T23:02:15Z"
+    "standingsDateTimeUtc": "2026-08-28T04:22:00Z"
   }
 };
