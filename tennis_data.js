@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-28 22:39 UTC
+// Auto-generated 2026-08-28 23:14 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-28 22:39 UTC",
+  "UPDATED": "2026-08-28 23:14 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10923,15 +10923,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Benjamin Bonzi",
+          "w": "Ignacio Buse",
           "w_logo": "",
-          "l": "Ignacio Buse",
+          "l": "Benjamin Bonzi",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 4-6 6-1",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 53.5,
-          "l_score": 68.2,
+          "w_score": 68.2,
+          "l_score": 53.5,
           "match_score": 68.2
         },
         {
@@ -11095,9 +11095,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Diane Parry",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 66.7,
           "l_score": 65.0,
           "match_score": 66.7
