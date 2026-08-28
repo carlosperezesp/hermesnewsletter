@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-28 05:30 UTC
+// Auto-generated 2026-08-28 17:29 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-28 05:30 UTC",
+  "UPDATED": "2026-08-28 17:29 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -4739,7 +4739,7 @@ window.ATHLETICS_DATA = {
               "country": "USA",
               "flag": "https://flagcdn.com/24x18/us.png",
               "primary": "#B22234",
-              "venue": "Letzigrund",
+              "venue": "Haputbahnhof",
               "date": "26 AUG 2026"
             },
             {
@@ -4759,7 +4759,7 @@ window.ATHLETICS_DATA = {
               "country": "SUI",
               "flag": "https://flagcdn.com/24x18/ch.png",
               "primary": "#D52B1E",
-              "venue": "Letzigrund",
+              "venue": "Haputbahnhof",
               "date": "26 AUG 2026"
             },
             {

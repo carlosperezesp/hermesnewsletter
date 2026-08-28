@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-28 05:29 UTC
+// Auto-generated 2026-08-28 17:27 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-08-28 05:29 UTC",
+  "UPDATED": "2026-08-28 17:27 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -693,7 +693,7 @@ window.CYCLING_DATA = {
     "name": "Vuelta a España",
     "start": "2026-08-15",
     "end": "2026-09-06",
-    "stage": 6,
+    "stage": 7,
     "total_stages": 21,
     "jersey_primary": "#E8002D",
     "jersey_name": "Maillot Rojo",
@@ -718,7 +718,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/si.png",
         "team": "UEX",
         "primary": "#003DA5",
-        "time": "15h 38' 27\"",
+        "time": "19h 32' 37\"",
         "legendScore": 64.2
       },
       {
@@ -726,9 +726,9 @@ window.CYCLING_DATA = {
         "name": "Enric Mas",
         "country": "ESP",
         "logo": "https://flagcdn.com/24x18/es.png",
-        "team": "MOV",
+        "team": "MOV men",
         "primary": "#AA151B",
-        "time": "+ 3' 34\"",
+        "time": "+ 3' 50\"",
         "legendScore": 0.0
       },
       {
@@ -738,89 +738,89 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/si.png",
         "team": "RBH",
         "primary": "#003DA5",
-        "time": "+ 4' 21\"",
+        "time": "+ 4' 50\"",
         "legendScore": 22.4
       },
       {
         "rank": 4,
-        "name": "Richard Carapaz",
-        "country": "ECU",
-        "logo": "https://flagcdn.com/24x18/ec.png",
-        "team": "EFE",
-        "primary": "#FFD100",
-        "time": "+ 4' 50\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 5,
         "name": "Felix Gall",
         "country": "AUT",
         "logo": "https://flagcdn.com/24x18/at.png",
         "team": "DCT",
         "primary": "#ED2939",
-        "time": "+ 4' 55\"",
+        "time": "+ 5' 01\"",
         "legendScore": 0.0
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "Sepp Kuss",
         "country": "USA",
         "logo": "https://flagcdn.com/24x18/us.png",
         "team": "TVL men",
         "primary": "#B22234",
-        "time": "+ 5' 36\"",
+        "time": "+ 6' 05\"",
         "legendScore": 0.0
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "Oscar Onley",
         "country": "GBR",
         "logo": "https://flagcdn.com/24x18/gb.png",
         "team": "NCI",
         "primary": "#012169",
-        "time": "+ 5' 37\"",
+        "time": "+ 6' 06\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 7,
+        "name": "Richard Carapaz",
+        "country": "ECU",
+        "logo": "https://flagcdn.com/24x18/ec.png",
+        "team": "EFE",
+        "primary": "#FFD100",
+        "time": "+ 6' 12\"",
         "legendScore": 0.0
       },
       {
         "rank": 8,
-        "name": "Ramses Debruyne",
-        "country": "BEL",
-        "logo": "https://flagcdn.com/24x18/be.png",
-        "team": "APT",
-        "primary": "#000000",
-        "time": "+ 5' 40\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 9,
         "name": "Mattias Skjelmose",
         "country": "DEN",
         "logo": "https://flagcdn.com/24x18/dk.png",
         "team": "LTK men",
         "primary": "#C60C30",
-        "time": "+ 5' 58\"",
+        "time": "+ 7' 17\"",
         "legendScore": 0.0
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "Harold Tejada",
         "country": "COL",
         "logo": "https://flagcdn.com/24x18/co.png",
         "team": "XAT",
         "primary": "#FCD116",
-        "time": "+ 6' 30\"",
+        "time": "+ 7' 46\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 10,
+        "name": "Gregor Mühlberger",
+        "country": "AUT",
+        "logo": "https://flagcdn.com/24x18/at.png",
+        "team": "DCT",
+        "primary": "#ED2939",
+        "time": "+ 9' 29\"",
         "legendScore": 0.0
       }
     ],
     "points_leader": {
       "rank": 1,
-      "name": "Tadej Pogačar",
-      "country": "SLO",
-      "logo": "https://flagcdn.com/24x18/si.png",
-      "team": "UEX",
-      "primary": "#003DA5",
-      "points": 102,
-      "legendScore": 64.2
+      "name": "Wout van Aert",
+      "country": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "team": "TVL men",
+      "primary": "#000000",
+      "points": 104,
+      "legendScore": 0.0
     },
     "kom_leader": {
       "rank": 1,
@@ -839,7 +839,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/gb.png",
       "team": "NCI",
       "primary": "#012169",
-      "time": "15h 44' 04\"",
+      "time": "19h 38' 43\"",
       "legendScore": 0.0
     }
   },

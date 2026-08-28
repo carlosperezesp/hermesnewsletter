@@ -1,8 +1,8 @@
-// Auto-generated 2026-08-28 05:29 UTC
+// Auto-generated 2026-08-28 17:27 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-08-28 05:29 UTC",
+  "UPDATED": "2026-08-28 17:27 UTC",
   "SEASON": "2026",
-  "ROUND": 24,
+  "ROUND": 25,
   "IMPORTANCE": 9.5,
   "LEGEND_THRESHOLD": 70.5,
   "LADDER": [
@@ -1057,94 +1057,14 @@ window.AFL_DATA = {
   ],
   "LAST_ROUND": [
     {
-      "hteam": "St Kilda",
-      "hscore": 80,
-      "ateam": "Gold Coast",
-      "ascore": 103,
-      "winner": "Gold Coast",
-      "date": "2026-08-20",
-      "hprimary": "#ED1C2E",
-      "aprimary": "#C5002F"
-    },
-    {
-      "hteam": "Collingwood",
+      "hteam": "Western Bulldogs",
       "hscore": 96,
-      "ateam": "Brisbane Lions",
-      "ascore": 159,
-      "winner": "Brisbane Lions",
-      "date": "2026-08-21",
-      "hprimary": "#000000",
-      "aprimary": "#7B1A4B"
-    },
-    {
-      "hteam": "Carlton",
-      "hscore": 119,
-      "ateam": "Fremantle",
-      "ascore": 82,
-      "winner": "Carlton",
-      "date": "2026-08-22",
-      "hprimary": "#0E1E2D",
-      "aprimary": "#2A0D54"
-    },
-    {
-      "hteam": "Melbourne",
-      "hscore": 87,
-      "ateam": "Western Bulldogs",
-      "ascore": 108,
+      "ateam": "Collingwood",
+      "ascore": 93,
       "winner": "Western Bulldogs",
-      "date": "2026-08-22",
-      "hprimary": "#CC2031",
-      "aprimary": "#0039A6"
-    },
-    {
-      "hteam": "Geelong",
-      "hscore": 133,
-      "ateam": "Richmond",
-      "ascore": 76,
-      "winner": "Geelong",
-      "date": "2026-08-22",
-      "hprimary": "#002A54",
-      "aprimary": "#FFD200"
-    },
-    {
-      "hteam": "Adelaide",
-      "hscore": 157,
-      "ateam": "Greater Western Sydney",
-      "ascore": 101,
-      "winner": "Adelaide",
-      "date": "2026-08-22",
-      "hprimary": "#002B5C",
-      "aprimary": "#F57F00"
-    },
-    {
-      "hteam": "Essendon",
-      "hscore": 95,
-      "ateam": "Port Adelaide",
-      "ascore": 104,
-      "winner": "Port Adelaide",
-      "date": "2026-08-23",
-      "hprimary": "#CC2031",
-      "aprimary": "#002B5C"
-    },
-    {
-      "hteam": "Sydney",
-      "hscore": 123,
-      "ateam": "North Melbourne",
-      "ascore": 70,
-      "winner": "Sydney",
-      "date": "2026-08-23",
-      "hprimary": "#F57F00",
-      "aprimary": "#CC2031"
-    },
-    {
-      "hteam": "West Coast",
-      "hscore": 45,
-      "ateam": "Hawthorn",
-      "ascore": 107,
-      "winner": "Hawthorn",
-      "date": "2026-08-23",
-      "hprimary": "#002B5C",
-      "aprimary": "#4D2004"
+      "date": "2026-08-28",
+      "hprimary": "#0039A6",
+      "aprimary": "#000000"
     }
   ],
   "CURRENT_CONTENDERS": [
