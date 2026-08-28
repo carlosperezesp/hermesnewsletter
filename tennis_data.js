@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-28 18:52 UTC
+// Auto-generated 2026-08-28 22:39 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-28 18:52 UTC",
+  "UPDATED": "2026-08-28 22:39 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -235,10 +235,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 79.5
     },
@@ -337,9 +337,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open",
-        "state": "out",
-        "round": "R64",
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
         "reason": "Eliminado en R64"
       },
       "prevActiveScore": 78.8
@@ -405,10 +405,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 76.8
     },
@@ -813,10 +813,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 72.6
     },
@@ -1153,9 +1153,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 34,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open",
-        "state": "out",
-        "round": "R64",
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
         "reason": "Eliminado en R64"
       },
       "prevActiveScore": 65.9
@@ -1221,10 +1221,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 66.3
     },
@@ -1255,9 +1255,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open",
+        "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 66.0
@@ -1667,10 +1667,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 49,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 63.2
     },
@@ -2313,8 +2313,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open",
-        "state": "out",
+        "tournament": "US Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -3029,10 +3029,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 54.3
     },
@@ -3063,10 +3063,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 54.0
     },
@@ -3233,8 +3233,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 95,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open",
-        "state": "out",
+        "tournament": "US Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -3369,10 +3369,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 53.0
     },
@@ -3473,10 +3473,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 52.2
     },
@@ -3749,7 +3749,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open",
+        "tournament": "US Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -3987,8 +3987,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 117,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open",
-        "state": "out",
+        "tournament": "US Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -4091,10 +4091,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 47.9
     },
@@ -4159,10 +4159,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 122,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 47.8
     },
@@ -4227,10 +4227,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 47.6
     },
@@ -4331,10 +4331,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 45.8
     },
@@ -4365,10 +4365,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 128,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 45.4
     },
@@ -4575,10 +4575,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 43.0
     },
@@ -4645,10 +4645,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 55.7
     },
@@ -5039,10 +5039,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.0
     },
@@ -5075,10 +5075,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.0
     },
@@ -5147,10 +5147,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Winston-Salem Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.0
     }
@@ -5353,10 +5353,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 90.3
     },
@@ -6169,10 +6169,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 30,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 68.8
     },
@@ -6305,10 +6305,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 34,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 67.0
     },
@@ -6441,10 +6441,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 38,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 65.4
     },
@@ -6919,10 +6919,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 61.6
     },
@@ -7055,10 +7055,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 62.5
     },
@@ -7361,8 +7361,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros",
-        "state": "out",
+        "tournament": "US Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -7599,10 +7599,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 57.7
     },
@@ -7735,8 +7735,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 76,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros",
-        "state": "out",
+        "tournament": "US Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -8111,8 +8111,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros",
-        "state": "out",
+        "tournament": "US Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -8145,10 +8145,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 51.8
     },
@@ -9389,7 +9389,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros",
+        "tournament": "US Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -9425,10 +9425,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 42.3
     },
@@ -9459,10 +9459,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 41.0
     },
@@ -9493,10 +9493,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 40.5
     },
@@ -9597,10 +9597,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 39.5
     },
@@ -9669,10 +9669,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 38.3
     },
@@ -9705,10 +9705,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 39.1
     },
@@ -10095,10 +10095,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.0
     },
@@ -10167,10 +10167,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.0
     },
@@ -10311,10 +10311,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "US Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 50.0
     }
@@ -10923,15 +10923,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Ignacio Buse",
+          "w": "Benjamin Bonzi",
           "w_logo": "",
-          "l": "Benjamin Bonzi",
+          "l": "Ignacio Buse",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 68.2,
-          "l_score": 53.5,
+          "scheduled": false,
+          "w_score": 53.5,
+          "l_score": 68.2,
           "match_score": 68.2
         },
         {
@@ -11128,9 +11128,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Julia Grabher",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 60.7,
           "l_score": 35.0,
           "match_score": 60.7
@@ -11150,15 +11150,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Semifinal",
-          "w": "Oksana Selekhmeteva",
+          "w": "Katie Volynets",
           "w_logo": "",
-          "l": "Katie Volynets",
+          "l": "Oksana Selekhmeteva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 48.1,
-          "l_score": 45.6,
+          "scheduled": false,
+          "w_score": 45.6,
+          "l_score": 48.1,
           "match_score": 48.1
         },
         {
@@ -11200,10 +11200,16 @@ window.TENNIS_DATA = {
       "Adrian Mannarino",
       "Alejandro Tabilo",
       "Aleksandar Kovacevic",
+      "Aleksandar Vukic",
       "Aleksandr Shevchenko",
+      "Alex Michelsen",
       "Alex Molcan",
+      "Alex de Minaur",
+      "Alexander Blockx",
       "Alexander Bublik",
       "Alexander Zverev",
+      "Alexei Popyrin",
+      "Andrea Guerrieri",
       "Andrey Rublev",
       "Arthur Fery",
       "Arthur Fils",
@@ -11217,41 +11223,56 @@ window.TENNIS_DATA = {
       "Carlos Alcaraz",
       "Carlos Taberner",
       "Casper Ruud",
+      "Chak Lam Coleman Wong",
       "Corentin Moutet",
       "Cruz Hewitt",
+      "Dalibor Svrcina",
       "Damir Dzumhur",
       "Dane Sweeny",
       "Daniel Altmaier",
       "Daniel Merida",
+      "Daniil Medvedev",
       "Darwin Blanch",
       "Denis Shapovalov",
       "Dhakshineswar Suresh",
       "Dino Prizmic",
       "Fabian Marozsan",
       "Facundo Diaz Acosta",
+      "Federico Cina",
       "Felix Auger-Aliassime",
       "Filip Misolic",
       "Flavio Cobolli",
       "Frances Tiafoe",
+      "Francesco Passaro",
       "Francisco Cerundolo",
       "Francisco Comesana",
       "Gael Monfils",
+      "Giovanni Mpetshi Perricard",
+      "Grigor Dimitrov",
       "Hamad Medjedovic",
+      "Harry Wendelken",
       "Hubert Hurkacz",
+      "Hugo Gaston",
       "Hugo Grenier",
       "Ignacio Buse",
       "J.J. Wolf",
+      "Jack Kennedy",
+      "Jacob Fearnley",
       "Jaime Faria",
+      "Jakub Mensik",
       "James Duckworth",
       "Jan Choinski",
       "Jan-Lennard Struff",
       "Jaume Munar",
       "Jenson Brooksby",
+      "Jesper de Jong",
       "Jiri Lehecka",
       "Juan Manuel Cerundolo",
+      "Jurij Rodionov",
       "Kamil Majchrzak",
       "Karen Khachanov",
       "Learner Tien",
+      "Lloyd Harris",
       "Lorenzo Musetti",
       "Lorenzo Sonego",
       "Luca Van Assche",
@@ -11261,6 +11282,7 @@ window.TENNIS_DATA = {
       "Mariano Navone",
       "Marin Cilic",
       "Martin Damm",
+      "Martin Landaluce",
       "Marton Fucsovics",
       "Matteo Arnaldi",
       "Matteo Berrettini",
@@ -11268,18 +11290,21 @@ window.TENNIS_DATA = {
       "Mees Rottgering",
       "Michael Zheng",
       "Miomir Kecmanovic",
+      "Nishesh Basavareddy",
       "Novak Djokovic",
       "Nuno Borges",
       "Pablo Carreno Busta",
       "Quentin Halys",
       "Rafael Jodar",
       "Raphael Collignon",
+      "Rei Sakamoto",
       "Rinky Hijikata",
       "Roman Andres Burruchaga",
       "Roman Safiullin",
       "Sebastian Baez",
       "Sebastian Gorzny",
       "Shang Juncheng",
+      "Shintaro Mochizuki",
       "Sho Shimabukuro",
       "Stan Wawrinka",
       "Stefanos Tsitsipas",
@@ -11288,27 +11313,29 @@ window.TENNIS_DATA = {
       "Terence Atmane",
       "Thanasi Kokkinakis",
       "Thiago Agustin Tirante",
+      "Toby Samuel",
+      "Tomas Barrios Vera",
+      "Tomas Machac",
       "Tomas Martin Etcheverry",
+      "Tommy Paul",
+      "Tristan Schoolkate",
+      "Valentin Royer",
       "Valentin Vacherot",
       "Vit Kopriva",
       "Wu Yibing",
       "Yannick Hanfmann",
       "Zachary Svajda",
-      "Zizou Bergs"
+      "Zizou Bergs",
+      "Zsombor Piros"
     ],
     "out": [
       "Abdullah Shelbayh",
-      "Daniil Medvedev",
       "Felix Balshaw",
-      "Giovanni Mpetshi Perricard",
-      "Jesper de Jong",
-      "Martin Landaluce",
       "Pierre-Hugues Herbert",
-      "Quinn Vandecasteele",
-      "Tomas Machac"
+      "Quinn Vandecasteele"
     ],
-    "aliveCount": 100,
-    "matchesSeen": 93
+    "aliveCount": 132,
+    "matchesSeen": 110
   },
   "WTA_TOURNAMENT": {
     "name": "Abierto GNP Seguros · Ennoble Care Philly Open · US Open",
@@ -11333,16 +11360,21 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
+      "Alexandra Eala",
       "Alina Korneeva",
       "Alycia Parks",
       "Amanda Anisimova",
       "Anastasia Potapova",
       "Anastasia Zakharova",
+      "Anhelina Kalinina",
       "Ann Li",
       "Anna Blinkova",
+      "Anna Bondar",
       "Anna Kalinskaya",
+      "Anouk Koevermans",
       "Antonia Ruzic",
       "Aoi Ito",
+      "Arantxa Rus",
       "Aryna Sabalenka",
       "Ashlyn Krueger",
       "Barbora Krejcikova",
@@ -11350,12 +11382,14 @@ window.TENNIS_DATA = {
       "Camila Osorio",
       "Capucine Jauffret",
       "Carol Young Suh Lee",
+      "Catherine McNally",
       "Clara Tauson",
       "Coco Gauff",
       "Cristina Bucsa",
       "Daria Kasatkina",
       "Daria Snigur",
       "Darja Vidmanova",
+      "Dayana Yastremska",
       "Diana Shnaider",
       "Diane Parry",
       "Donna Vekic",
@@ -11368,10 +11402,16 @@ window.TENNIS_DATA = {
       "Elise Mertens",
       "Ella Seidel",
       "Elsa Jacquemot",
+      "Elvina Kalieva",
       "Emiliana Arango",
       "Emma Navarro",
+      "Eva Lys",
       "Fiona Crawley",
+      "Francesca Jones",
+      "Gabriela Knutson",
       "Hanne Vandewinkel",
+      "Harriet Dart",
+      "Himeno Sakatsume",
       "Iga Swiatek",
       "Iva Jovic",
       "Janice Tjen",
@@ -11388,19 +11428,28 @@ window.TENNIS_DATA = {
       "Katie Boulter",
       "Katie Volynets",
       "Kimberly Birrell",
+      "Kristina Liutova",
       "Kylie Collins",
+      "Lanlana Tararudee",
+      "Leolia Jeanjean",
       "Leylah Fernandez",
       "Lilli Tagger",
       "Linda Noskova",
       "Liudmila Samsonova",
       "Lizette Cabrera",
       "Lois Boisson",
+      "Lucie Havlickova",
+      "Lucrezia Stefanini",
       "Madison Keys",
+      "Magda Linette",
       "Magdalena Frech",
       "Maja Chwalinska",
       "Mananchaya Sawangkaew",
+      "Maria Sakkari",
       "Maria Timofeeva",
       "Marie Bouzkova",
+      "Marta Kostyuk",
+      "Mary Stoiana",
       "Maya Joint",
       "Mayar Sherif",
       "McCartney Kessler",
@@ -11414,7 +11463,11 @@ window.TENNIS_DATA = {
       "Panna Udvardy",
       "Paula Badosa",
       "Petra Marcinko",
+      "Peyton Stearns",
+      "Polina Iatcenko",
       "Reese Brantmeier",
+      "Renata Zarazua",
+      "Robin Montgomery",
       "Sara Bejlek",
       "Simona Waltert",
       "Sinja Kraus",
@@ -11422,8 +11475,10 @@ window.TENNIS_DATA = {
       "Sofia Kenin",
       "Solana Sierra",
       "Sorana Cirstea",
+      "Storm Hunter",
       "Talia Gibson",
       "Tamara Korpatsch",
+      "Tamara Zidansek",
       "Tatjana Maria",
       "Taylah Preston",
       "Taylor Townsend",
@@ -11438,23 +11493,21 @@ window.TENNIS_DATA = {
       "Yulia Putintseva",
       "Yuliia Starodubtseva",
       "Zeynep Sonmez",
-      "Zhang Shuai"
+      "Zhang Shuai",
+      "Zheng Qinwen"
     ],
     "out": [
-      "Anna Bondar",
       "Anna Frey",
       "Ariana Arseneault",
-      "Dayana Yastremska",
       "En-Shuo Liang",
       "Ena Koike",
       "Hong Yi Cody Wong",
       "Jaeda Daniel",
       "Lucciana Perez Alarcon",
-      "Mell Reasco Gonzalez",
-      "Renata Zarazua"
+      "Mell Reasco Gonzalez"
     ],
-    "aliveCount": 106,
-    "matchesSeen": 105
+    "aliveCount": 135,
+    "matchesSeen": 120
   },
   "ATP_SCORE_LOG": {
     "206173": [
