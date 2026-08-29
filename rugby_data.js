@@ -1,15 +1,15 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-08-29 17:23 UTC",
+  "UPDATED": "2026-08-29 22:41 UTC",
   "LAST_MATCH": "2026-08-29",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 349,
+    "incrementalMatches": 350,
     "teams": 162,
-    "matches": 10044,
+    "matches": 10045,
     "through": "2026-08-29"
   },
   "IMPORTANCE": 7.0,
@@ -39,6 +39,31 @@ window.RUGBY_DATA = {
         "awayScore": 26,
         "venue": "DHL Stadium",
         "city": "Cape Town"
+      },
+      {
+        "date": "2026-08-29",
+        "status": "final",
+        "competition": "International Test Match",
+        "home": {
+          "name": "Argentina",
+          "teamCode": "ARG",
+          "colors": {
+            "primary": "#75aadb",
+            "secondary": "#f6b40e"
+          }
+        },
+        "away": {
+          "name": "Australia",
+          "teamCode": "AUS",
+          "colors": {
+            "primary": "#ffcd00",
+            "secondary": "#00843d"
+          }
+        },
+        "homeScore": 21,
+        "awayScore": 27,
+        "venue": "Estadio 23 de Agosto",
+        "city": "San Salvador"
       },
       {
         "date": "2026-08-22",
@@ -142,31 +167,6 @@ window.RUGBY_DATA = {
       }
     ],
     "upcoming": [
-      {
-        "date": "2026-08-29",
-        "status": "scheduled",
-        "competition": "International Test Match",
-        "home": {
-          "name": "Argentina",
-          "teamCode": "ARG",
-          "colors": {
-            "primary": "#75aadb",
-            "secondary": "#f6b40e"
-          }
-        },
-        "away": {
-          "name": "Australia",
-          "teamCode": "AUS",
-          "colors": {
-            "primary": "#ffcd00",
-            "secondary": "#00843d"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "Estadio 23 de Agosto",
-        "city": "San Salvador"
-      },
       {
         "date": "2026-09-05",
         "status": "scheduled",
@@ -441,6 +441,31 @@ window.RUGBY_DATA = {
         "awayScore": null,
         "venue": "Aviva Stadium",
         "city": "Dublin"
+      },
+      {
+        "date": "2026-11-07",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "Scotland",
+          "teamCode": "SCO",
+          "colors": {
+            "primary": "#005eb8",
+            "secondary": "#ffffff"
+          }
+        },
+        "away": {
+          "name": "New Zealand",
+          "teamCode": "NZL",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Scottish Gas Murrayfield",
+        "city": "Edinburgh"
       }
     ]
   },
@@ -596,41 +621,18 @@ window.RUGBY_DATA = {
     },
     {
       "rank": 7,
-      "name": "Argentina",
-      "teamCode": "ARG",
-      "country": "Argentina",
-      "elo": 2285.8,
-      "eloRaw": 2285.8,
-      "lastMatch": "2026-08-08",
-      "inactiveDays": 21,
-      "peakElo": 2354.6,
-      "peakDate": "2025-11-16",
-      "worldCups": 0,
-      "record": {
-        "w": 259,
-        "l": 231,
-        "d": 13
-      },
-      "colors": {
-        "primary": "#75aadb",
-        "secondary": "#f6b40e"
-      },
-      "note": "259V-231D-13E · último 2026-08-08 · raw 2286"
-    },
-    {
-      "rank": 8,
       "name": "Australia",
       "teamCode": "AUS",
       "country": "Australia",
-      "elo": 2235.1,
-      "eloRaw": 2235.1,
-      "lastMatch": "2026-08-15",
-      "inactiveDays": 14,
+      "elo": 2270.0,
+      "eloRaw": 2270.0,
+      "lastMatch": "2026-08-29",
+      "inactiveDays": 0,
       "peakElo": 2471.1,
       "peakDate": "2015-10-25",
       "worldCups": 2,
       "record": {
-        "w": 351,
+        "w": 352,
         "l": 336,
         "d": 20
       },
@@ -638,7 +640,30 @@ window.RUGBY_DATA = {
         "primary": "#ffcd00",
         "secondary": "#00843d"
       },
-      "note": "351V-336D-20E · último 2026-08-15 · raw 2235"
+      "note": "352V-336D-20E · último 2026-08-29 · raw 2270"
+    },
+    {
+      "rank": 8,
+      "name": "Argentina",
+      "teamCode": "ARG",
+      "country": "Argentina",
+      "elo": 2251.0,
+      "eloRaw": 2251.0,
+      "lastMatch": "2026-08-29",
+      "inactiveDays": 0,
+      "peakElo": 2354.6,
+      "peakDate": "2025-11-16",
+      "worldCups": 0,
+      "record": {
+        "w": 259,
+        "l": 232,
+        "d": 13
+      },
+      "colors": {
+        "primary": "#75aadb",
+        "secondary": "#f6b40e"
+      },
+      "note": "259V-232D-13E · último 2026-08-29 · raw 2251"
     },
     {
       "rank": 9,

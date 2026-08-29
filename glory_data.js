@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-29 17:24 UTC",
+  "UPDATED": "2026-08-29 22:42 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -368,8 +368,8 @@ window.GLORY_DATA = {
     "motogp:RIDERS": [
       "Jorge Martín",
       "Marco Bezzecchi",
-      "Ai Ogura",
       "Marc Márquez",
+      "Ai Ogura",
       "Fabio Di Giannantonio",
       "Raúl Fernández",
       "Pedro Acosta",

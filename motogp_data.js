@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-29 17:22 UTC
+// Auto-generated 2026-08-29 22:40 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-08-29 17:22 UTC",
+  "UPDATED": "2026-08-29 22:40 UTC",
   "SEASON": "2026",
   "ROUND": 12,
   "TOTAL_ROUNDS": 22,
@@ -15,12 +15,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 240.0,
-      "score": 43.6,
+      "points": 245.0,
+      "score": 44.5,
       "stats": {
-        "pts": 240.0
+        "pts": 245.0
       },
-      "seasonPct": 43.6,
+      "seasonPct": 44.5,
       "prevRank": 1,
       "age": 28
     },
@@ -32,17 +32,34 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 209.0,
-      "score": 38.0,
+      "points": 216.0,
+      "score": 39.3,
       "stats": {
-        "pts": 209.0
+        "pts": 216.0
       },
-      "seasonPct": 38.0,
+      "seasonPct": 39.3,
       "prevRank": 2,
       "age": 28
     },
     {
       "position": 3,
+      "name": "Marc Márquez",
+      "country": "ESP",
+      "bike": "Ducati",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "primary": "#CC0000",
+      "secondary": "#FFD200",
+      "points": 212.0,
+      "score": 38.5,
+      "stats": {
+        "pts": 212.0
+      },
+      "seasonPct": 38.5,
+      "prevRank": 4,
+      "age": 33
+    },
+    {
+      "position": 4,
       "name": "Ai Ogura",
       "country": "JPN",
       "bike": "Aprilia",
@@ -57,23 +74,6 @@ window.MOTOGP_DATA = {
       "seasonPct": 36.9,
       "prevRank": 3,
       "age": 25
-    },
-    {
-      "position": 4,
-      "name": "Marc Márquez",
-      "country": "ESP",
-      "bike": "Ducati",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "primary": "#CC0000",
-      "secondary": "#FFD200",
-      "points": 200.0,
-      "score": 36.4,
-      "stats": {
-        "pts": 200.0
-      },
-      "seasonPct": 36.4,
-      "prevRank": 4,
-      "age": 33
     },
     {
       "position": 5,
@@ -100,12 +100,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 184.0,
-      "score": 33.5,
+      "points": 186.0,
+      "score": 33.8,
       "stats": {
-        "pts": 184.0
+        "pts": 186.0
       },
-      "seasonPct": 33.5,
+      "seasonPct": 33.8,
       "prevRank": 6,
       "age": 26
     },
@@ -117,12 +117,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#E86825",
       "secondary": "#000000",
-      "points": 163.0,
-      "score": 29.6,
+      "points": 169.0,
+      "score": 30.7,
       "stats": {
-        "pts": 163.0
+        "pts": 169.0
       },
-      "seasonPct": 29.6,
+      "seasonPct": 30.7,
       "prevRank": 7,
       "age": 22
     },
@@ -151,12 +151,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 106.0,
-      "score": 19.3,
+      "points": 115.0,
+      "score": 20.9,
       "stats": {
-        "pts": 106.0
+        "pts": 115.0
       },
-      "seasonPct": 19.3,
+      "seasonPct": 20.9,
       "prevRank": 9,
       "age": 30
     },
@@ -187,9 +187,9 @@ window.MOTOGP_DATA = {
       "secondary": "#E8002D",
       "bike": "Aprilia",
       "score": 36.9,
-      "position": 3,
+      "position": 4,
       "age": 25,
-      "note": "Top 3 a los 25"
+      "note": "Top 4 a los 25"
     },
     {
       "name": "Pedro Acosta",
@@ -198,7 +198,7 @@ window.MOTOGP_DATA = {
       "primary": "#E86825",
       "secondary": "#000000",
       "bike": "KTM",
-      "score": 29.6,
+      "score": 30.7,
       "position": 7,
       "age": 22,
       "note": "Irrumpe a los 22 (P7)"
@@ -210,7 +210,7 @@ window.MOTOGP_DATA = {
       "primary": "#CC0000",
       "secondary": "#FFD200",
       "bike": "Ducati",
-      "score": 13.8,
+      "score": 14.5,
       "position": 11,
       "age": 21,
       "note": "Irrumpe a los 21 (P11)"

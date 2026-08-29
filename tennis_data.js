@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-29 17:24 UTC
+// Auto-generated 2026-08-29 22:42 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-29 17:24 UTC",
+  "UPDATED": "2026-08-29 22:42 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10940,9 +10940,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Arthur Fery",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 68.2,
           "l_score": 48.3,
           "match_score": 68.2
@@ -11098,15 +11098,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Tereza Valentova",
+          "w": "Katie Volynets",
           "w_logo": "",
-          "l": "Katie Volynets",
+          "l": "Tereza Valentova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 7-5",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 60.7,
-          "l_score": 45.6,
+          "scheduled": false,
+          "w_score": 45.6,
+          "l_score": 60.7,
           "match_score": 60.7
         }
       ]
