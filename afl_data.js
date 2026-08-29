@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-29 11:40 UTC
+// Auto-generated 2026-08-29 12:45 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-08-29 11:40 UTC",
+  "UPDATED": "2026-08-29 12:45 UTC",
   "SEASON": "2026",
   "ROUND": 25,
   "IMPORTANCE": 9.5,
@@ -1065,6 +1065,16 @@ window.AFL_DATA = {
       "date": "2026-08-28",
       "hprimary": "#0039A6",
       "aprimary": "#000000"
+    },
+    {
+      "hteam": "Melbourne",
+      "hscore": 55,
+      "ateam": "Carlton",
+      "ascore": 74,
+      "winner": "Carlton",
+      "date": "2026-08-29",
+      "hprimary": "#CC2031",
+      "aprimary": "#0E1E2D"
     }
   ],
   "CURRENT_CONTENDERS": [
