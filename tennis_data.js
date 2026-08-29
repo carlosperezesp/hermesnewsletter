@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-29 03:13 UTC
+// Auto-generated 2026-08-29 11:42 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-29 03:13 UTC",
+  "UPDATED": "2026-08-29 11:42 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11064,30 +11064,30 @@ window.TENNIS_DATA = {
       "surface": "",
       "matches": [
         {
+          "round": "F",
+          "w": "Elise Mertens",
+          "w_logo": "",
+          "l": "Diane Parry",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 76.1,
+          "l_score": 65.0,
+          "match_score": 76.1
+        },
+        {
           "round": "Semifinal",
           "w": "Elise Mertens",
           "w_logo": "",
           "l": "Nikola Bartunkova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "1-6 6-4 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 76.1,
           "l_score": 64.7,
           "match_score": 76.1
-        },
-        {
-          "round": "F",
-          "w": "Diane Parry",
-          "w_logo": "",
-          "l": "TBD",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 65.0,
-          "l_score": null,
-          "match_score": 65.0
         }
       ]
     },
@@ -11442,7 +11442,7 @@ window.TENNIS_DATA = {
       "Mell Reasco Gonzalez"
     ],
     "aliveCount": 135,
-    "matchesSeen": 121
+    "matchesSeen": 122
   },
   "ATP_SCORE_LOG": {
     "206173": [
