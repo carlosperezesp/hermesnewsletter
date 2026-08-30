@@ -28562,7 +28562,7 @@ window.NHL_DATA = {
       "name": "Ethan Cardwell",
       "pos": "RW",
       "teamCode": "SJS",
-      "age": 23,
+      "age": 24,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -37539,7 +37539,7 @@ window.NHL_DATA = {
       "name": "Shane Lachance",
       "pos": "LW",
       "teamCode": "NJD",
-      "age": 22,
+      "age": 23,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-29 23:25 UTC",
+  "LAST_UPDATE": "2026-08-30 10:29 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-29T23:24:45Z"
+    "standingsDateTimeUtc": "2026-08-30T10:29:00Z"
   }
 };

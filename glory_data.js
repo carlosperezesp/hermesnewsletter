@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-29 23:28 UTC",
+  "UPDATED": "2026-08-30 10:31 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -35,15 +35,6 @@ window.GLORY_DATA = {
       "text": "Cameron Young es nuevo nº1 · Nivel actual",
       "weight": 92,
       "firstSeen": "2026-08-17"
-    },
-    {
-      "id": "rank:athletics:allTime:tj_m:in:Andy D&#205;az Hern&#193;ndez",
-      "sport": "athletics",
-      "detail": "Atletismo",
-      "anchor": "athletics-records",
-      "text": "Andy D&#205;az Hern&#193;ndez entra en el top-10 histórico · Triple salto — H",
-      "weight": 90,
-      "firstSeen": "2026-08-15"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:Mohammed Siraj",
