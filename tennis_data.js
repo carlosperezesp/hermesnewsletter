@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-30 16:59 UTC
+// Auto-generated 2026-08-30 17:46 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-30 16:59 UTC",
+  "UPDATED": "2026-08-30 17:46 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -3920,9 +3920,9 @@ window.TENNIS_DATA = {
       "prevListRank": 115,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 48.4
     },
@@ -6000,9 +6000,9 @@ window.TENNIS_DATA = {
       "prevListRank": 25,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 72.3
     },
@@ -7294,9 +7294,9 @@ window.TENNIS_DATA = {
       "prevListRank": 63,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.6
     },
@@ -7838,9 +7838,9 @@ window.TENNIS_DATA = {
       "prevListRank": 79,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 55.0
     },
@@ -10914,9 +10914,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Chak Lam Coleman Wong",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 79.8,
           "l_score": 54.2,
           "match_score": 79.8
@@ -11078,15 +11078,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Elena-Gabriela Ruse",
+          "w": "Jessica Pegula",
           "w_logo": "",
-          "l": "Jessica Pegula",
+          "l": "Elena-Gabriela Ruse",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 58.9,
-          "l_score": 90.0,
+          "w_score": 90.0,
+          "l_score": 58.9,
           "match_score": 90.0
         },
         {
@@ -11130,15 +11130,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Barbora Krejcikova",
+          "w": "Kamilla Rakhimova",
           "w_logo": "",
-          "l": "Kamilla Rakhimova",
+          "l": "Barbora Krejcikova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-4) 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 71.9,
-          "l_score": 48.3,
+          "w_score": 48.3,
+          "l_score": 71.9,
           "match_score": 71.9
         },
         {
@@ -11183,7 +11183,6 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
-      "Adam Walton",
       "Adolfo Daniel Vallejo",
       "Adrian Mannarino",
       "Alejandro Tabilo",
@@ -11311,10 +11310,11 @@ window.TENNIS_DATA = {
       "Zsombor Piros"
     ],
     "out": [
+      "Adam Walton",
       "Hamad Medjedovic",
       "Marton Fucsovics"
     ],
-    "aliveCount": 126,
+    "aliveCount": 125,
     "matchesSeen": 64
   },
   "WTA_TOURNAMENT": {
@@ -11347,7 +11347,6 @@ window.TENNIS_DATA = {
       "Arantxa Rus",
       "Aryna Sabalenka",
       "Ashlyn Krueger",
-      "Barbora Krejcikova",
       "Belinda Bencic",
       "Camila Osorio",
       "Carol Young Suh Lee",
@@ -11364,7 +11363,6 @@ window.TENNIS_DATA = {
       "Donna Vekic",
       "Ekaterina Alexandrova",
       "Elena Rybakina",
-      "Elena-Gabriela Ruse",
       "Elina Svitolina",
       "Elisabetta Cocciaretto",
       "Elise Mertens",
@@ -11440,7 +11438,6 @@ window.TENNIS_DATA = {
       "Solana Sierra",
       "Sorana Cirstea",
       "Storm Hunter",
-      "Talia Gibson",
       "Tamara Korpatsch",
       "Tamara Zidansek",
       "Tatjana Maria",
@@ -11459,9 +11456,12 @@ window.TENNIS_DATA = {
       "Zheng Qinwen"
     ],
     "out": [
+      "Barbora Krejcikova",
+      "Elena-Gabriela Ruse",
+      "Talia Gibson",
       "Veronika Erjavec"
     ],
-    "aliveCount": 127,
+    "aliveCount": 124,
     "matchesSeen": 64
   },
   "ATP_SCORE_LOG": {
