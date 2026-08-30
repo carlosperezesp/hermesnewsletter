@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-30 22:46 UTC
+// Auto-generated 2026-08-30 23:38 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-30 22:46 UTC",
+  "UPDATED": "2026-08-30 23:38 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -2008,9 +2008,9 @@ window.TENNIS_DATA = {
       "prevListRank": 59,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 59.4
     },
@@ -2212,9 +2212,9 @@ window.TENNIS_DATA = {
       "prevListRank": 65,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 58.5
     },
@@ -7940,9 +7940,9 @@ window.TENNIS_DATA = {
       "prevListRank": 82,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 56.3
     },
@@ -10901,9 +10901,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mariano Navone",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 87.7,
           "l_score": 63.9,
           "match_score": 87.7
@@ -10988,15 +10988,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Alex Michelsen",
+          "w": "Federico Cina",
           "w_logo": "",
-          "l": "Federico Cina",
+          "l": "Alex Michelsen",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 65.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 65.7,
           "match_score": 65.7
         }
       ]
@@ -11091,15 +11091,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Elina Svitolina",
+          "w": "Solana Sierra",
           "w_logo": "",
-          "l": "Solana Sierra",
+          "l": "Elina Svitolina",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 89.9,
-          "l_score": 56.4,
+          "scheduled": false,
+          "w_score": 56.4,
+          "l_score": 89.9,
           "match_score": 89.9
         },
         {
@@ -11242,7 +11242,6 @@ window.TENNIS_DATA = {
       "Jan Choinski",
       "Jan-Lennard Struff",
       "Jaume Munar",
-      "Jenson Brooksby",
       "Jesper de Jong",
       "Jiri Lehecka",
       "Juan Manuel Cerundolo",
@@ -11292,7 +11291,6 @@ window.TENNIS_DATA = {
       "Tristan Schoolkate",
       "Valentin Royer",
       "Valentin Vacherot",
-      "Vit Kopriva",
       "Wu Yibing",
       "Yannick Hanfmann",
       "Zachary Svajda",
@@ -11307,14 +11305,16 @@ window.TENNIS_DATA = {
       "Hamad Medjedovic",
       "Hugo Gaston",
       "Jack Kennedy",
+      "Jenson Brooksby",
       "Marton Fucsovics",
       "Miomir Kecmanovic",
       "Pablo Carreno Busta",
       "Sho Shimabukuro",
       "Terence Atmane",
-      "Tomas Machac"
+      "Tomas Machac",
+      "Vit Kopriva"
     ],
-    "aliveCount": 115,
+    "aliveCount": 113,
     "matchesSeen": 68
   },
   "WTA_TOURNAMENT": {
@@ -11332,7 +11332,6 @@ window.TENNIS_DATA = {
     "alive": [
       "Alexandra Eala",
       "Alina Korneeva",
-      "Alycia Parks",
       "Amanda Anisimova",
       "Anastasia Potapova",
       "Anastasia Zakharova",
@@ -11448,6 +11447,7 @@ window.TENNIS_DATA = {
       "Zheng Qinwen"
     ],
     "out": [
+      "Alycia Parks",
       "Barbora Krejcikova",
       "Dayana Yastremska",
       "Elena-Gabriela Ruse",
@@ -11461,7 +11461,7 @@ window.TENNIS_DATA = {
       "Veronika Erjavec",
       "Zhang Shuai"
     ],
-    "aliveCount": 116,
+    "aliveCount": 115,
     "matchesSeen": 65
   },
   "ATP_SCORE_LOG": {
