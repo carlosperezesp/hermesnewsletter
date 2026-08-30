@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-30 12:04 UTC
+// Auto-generated 2026-08-30 16:59 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-30 12:04 UTC",
+  "UPDATED": "2026-08-30 16:59 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -202,9 +202,9 @@ window.TENNIS_DATA = {
       "prevListRank": 6,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "state": "out",
+        "round": "",
+        "reason": "No compite en US Open"
       },
       "prevActiveScore": 80.8
     },
@@ -1804,9 +1804,9 @@ window.TENNIS_DATA = {
       "prevListRank": 53,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 62.9
     },
@@ -2518,9 +2518,9 @@ window.TENNIS_DATA = {
       "prevListRank": 74,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en US Open"
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 56.6
     },
@@ -2790,9 +2790,9 @@ window.TENNIS_DATA = {
       "prevListRank": 82,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.4
     },
@@ -9882,9 +9882,9 @@ window.TENNIS_DATA = {
       "prevListRank": 138,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 37.6
     },
@@ -10936,15 +10936,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Jiri Lehecka",
+          "w": "Pablo Carreno Busta",
           "w_logo": "",
-          "l": "Pablo Carreno Busta",
+          "l": "Jiri Lehecka",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 75.6,
-          "l_score": 56.3,
+          "scheduled": false,
+          "w_score": 56.3,
+          "l_score": 75.6,
           "match_score": 75.6
         },
         {
@@ -11078,15 +11078,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Jessica Pegula",
+          "w": "Elena-Gabriela Ruse",
           "w_logo": "",
-          "l": "Elena-Gabriela Ruse",
+          "l": "Jessica Pegula",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 90.0,
-          "l_score": 58.9,
+          "scheduled": false,
+          "w_score": 58.9,
+          "l_score": 90.0,
           "match_score": 90.0
         },
         {
@@ -11121,9 +11121,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Veronika Erjavec",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 3-6 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 72.8,
           "l_score": 37.6,
           "match_score": 72.8
@@ -11134,9 +11134,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Kamilla Rakhimova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 71.9,
           "l_score": 48.3,
           "match_score": 71.9
@@ -11201,6 +11201,7 @@ window.TENNIS_DATA = {
       "Andrey Rublev",
       "Arthur Fery",
       "Arthur Fils",
+      "Arthur Gea",
       "Arthur Rinderknech",
       "Ben Shelton",
       "Benjamin Bonzi",
@@ -11210,7 +11211,6 @@ window.TENNIS_DATA = {
       "Camilo Ugo Carabelli",
       "Carlos Alcaraz",
       "Carlos Taberner",
-      "Casper Ruud",
       "Chak Lam Coleman Wong",
       "Corentin Moutet",
       "Dalibor Svrcina",
@@ -11235,7 +11235,6 @@ window.TENNIS_DATA = {
       "Gael Monfils",
       "Giovanni Mpetshi Perricard",
       "Grigor Dimitrov",
-      "Hamad Medjedovic",
       "Harry Wendelken",
       "Hubert Hurkacz",
       "Hugo Gaston",
@@ -11268,7 +11267,6 @@ window.TENNIS_DATA = {
       "Marin Cilic",
       "Martin Damm",
       "Martin Landaluce",
-      "Marton Fucsovics",
       "Matteo Arnaldi",
       "Matteo Berrettini",
       "Mattia Bellucci",
@@ -11312,8 +11310,11 @@ window.TENNIS_DATA = {
       "Zizou Bergs",
       "Zsombor Piros"
     ],
-    "out": [],
-    "aliveCount": 128,
+    "out": [
+      "Hamad Medjedovic",
+      "Marton Fucsovics"
+    ],
+    "aliveCount": 126,
     "matchesSeen": 64
   },
   "WTA_TOURNAMENT": {
@@ -11448,7 +11449,6 @@ window.TENNIS_DATA = {
       "Tereza Valentova",
       "Thea Frodin",
       "Venus Williams",
-      "Veronika Erjavec",
       "Viktorija Golubic",
       "Wang Xinyu",
       "Wang Xiyu",
@@ -11458,8 +11458,10 @@ window.TENNIS_DATA = {
       "Zhang Shuai",
       "Zheng Qinwen"
     ],
-    "out": [],
-    "aliveCount": 128,
+    "out": [
+      "Veronika Erjavec"
+    ],
+    "aliveCount": 127,
     "matchesSeen": 64
   },
   "ATP_SCORE_LOG": {

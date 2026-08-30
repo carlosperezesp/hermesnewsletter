@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-30 12:04 UTC
+// Auto-generated 2026-08-30 16:59 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-30 12:04 UTC",
+  "UPDATED": "2026-08-30 16:59 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -847,6 +847,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 8,
+              "mark": "22.03",
+              "athlete": "Favour Ofili",
+              "country": "NGR",
+              "flag": "https://flagcdn.com/24x18/ng.png",
+              "primary": "#008751",
+              "venue": "Centro Gabre Gabric",
+              "date": "30 AUG 2026"
+            },
+            {
+              "rank": 9,
               "mark": "22.04",
               "athlete": "Shaunae Miller-Uibo",
               "country": "BAH",
@@ -856,7 +866,7 @@ window.ATHLETICS_DATA = {
               "date": "23 MAY 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "22.07",
               "athlete": "JaMeesia Ford",
               "country": "USA",
@@ -864,16 +874,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Hutsell-Rosen Track",
               "date": "25 APR 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "22.11",
-              "athlete": "Shanoya Mikalia Douglas",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Kirani James Athletic Stadium",
-              "date": "06 APR 2026"
             }
           ]
         },
@@ -1866,108 +1866,7 @@ window.ATHLETICS_DATA = {
               "year": 2023
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "45.80",
-              "athlete": "Alison Dos Santos",
-              "country": "BRA",
-              "flag": "https://flagcdn.com/24x18/br.png",
-              "primary": "#009C3B",
-              "venue": "Letzigrund",
-              "date": "27 AUG 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "46.52",
-              "athlete": "Karsten Warholm",
-              "country": "NOR",
-              "flag": "https://flagcdn.com/24x18/no.png",
-              "primary": "#EF2B2D",
-              "venue": "Stadion Śląski",
-              "date": "23 AUG 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "46.67",
-              "athlete": "Rai Benjamin",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Stade Olympique de la Pontaise",
-              "date": "21 AUG 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "47.26",
-              "athlete": "Matheus Lima",
-              "country": "BRA",
-              "flag": "https://flagcdn.com/24x18/br.png",
-              "primary": "#009C3B",
-              "venue": "Stadion Śląski",
-              "date": "23 AUG 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "47.37",
-              "athlete": "Ezekiel Nathaniel",
-              "country": "NGR",
-              "flag": "https://flagcdn.com/24x18/ng.png",
-              "primary": "#008751",
-              "venue": "Cushing Stadium",
-              "date": "06 JUN 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "47.37",
-              "athlete": "Trevor Bassitt",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Cushing Stadium",
-              "date": "06 JUN 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "47.42",
-              "athlete": "Caleb Dean",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Cushing Stadium",
-              "date": "06 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "47.45",
-              "athlete": "Emil Agyekum",
-              "country": "GER",
-              "flag": "https://flagcdn.com/24x18/de.png",
-              "primary": "#000000",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "47.61",
-              "athlete": "Chris Robinson",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Icahn Stadium",
-              "date": "26 JUL 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "47.77",
-              "athlete": "Yeral Nu&#209;ez",
-              "country": "DOM",
-              "flag": "https://flagcdn.com/24x18/do.png",
-              "primary": "#002D62",
-              "venue": "Estadio Vallehermoso",
-              "date": "16 JUL 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "400mh_w",
@@ -4290,6 +4189,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 3,
+              "mark": "2.02",
+              "athlete": "Eleanor Patterson",
+              "country": "AUS",
+              "flag": "https://flagcdn.com/24x18/au.png",
+              "primary": "#00008B",
+              "venue": "Marktplatz",
+              "date": "30 AUG 2026"
+            },
+            {
+              "rank": 4,
               "mark": "2.00",
               "athlete": "Angelina Topić",
               "country": "SRB",
@@ -4297,16 +4206,6 @@ window.ATHLETICS_DATA = {
               "primary": "#4A4745",
               "venue": "Športov hala Dukla",
               "date": "24 FEB 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "2.00",
-              "athlete": "Eleanor Patterson",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "Kennedyplatz",
-              "date": "21 JUN 2026"
             },
             {
               "rank": 5,
@@ -4350,6 +4249,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 9,
+              "mark": "1.98",
+              "athlete": "Lamara Distin",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Marktplatz",
+              "date": "30 AUG 2026"
+            },
+            {
+              "rank": 10,
               "mark": "1.97",
               "athlete": "Temitope Simbiat Adeshina",
               "country": "NGR",
@@ -4357,16 +4266,6 @@ window.ATHLETICS_DATA = {
               "primary": "#008751",
               "venue": "Randal Tyson Indoor Center",
               "date": "30 JAN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "1.96",
-              "athlete": "Charity Hufnagel",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Gallur",
-              "date": "06 FEB 2026"
             }
           ]
         },
@@ -4918,108 +4817,7 @@ window.ATHLETICS_DATA = {
               "year": 1994
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "8.66",
-              "athlete": "Miltiadis Tentoglou",
-              "country": "GRE",
-              "flag": "https://flagcdn.com/24x18/gr.png",
-              "primary": "#4A4745",
-              "venue": "Panthessaliko Stadium",
-              "date": "26 JUL 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "8.51",
-              "athlete": "Simon Ehammer",
-              "country": "SUI",
-              "flag": "https://flagcdn.com/24x18/ch.png",
-              "primary": "#D52B1E",
-              "venue": "Msle-Stadium",
-              "date": "30 MAY 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "8.49",
-              "athlete": "Bozhidar Sar&#194;boyukov",
-              "country": "BUL",
-              "flag": "https://flagcdn.com/24x18/bg.png",
-              "primary": "#00966E",
-              "venue": "Plovdiv Stadium",
-              "date": "14 JUL 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "8.46",
-              "athlete": "Gerson Bald&#201;",
-              "country": "POR",
-              "flag": "https://flagcdn.com/24x18/pt.png",
-              "primary": "#006600",
-              "venue": "Kujawsko-Pomorska Arena",
-              "date": "22 MAR 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "8.46",
-              "athlete": "Jorge A. Hodel&#205;n",
-              "country": "CUB",
-              "flag": "https://flagcdn.com/24x18/cu.png",
-              "primary": "#002A8F",
-              "venue": "Stade Christian Plaziat",
-              "date": "13 JUN 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "8.43",
-              "athlete": "Mattia Furlani",
-              "country": "ITA",
-              "flag": "https://flagcdn.com/24x18/it.png",
-              "primary": "#009246",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "8.43",
-              "athlete": "Tajay Gayle",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Letzigrund",
-              "date": "27 AUG 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "8.39",
-              "athlete": "Wayne Pinnock",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Stade Louis II",
-              "date": "10 JUL 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "8.37",
-              "athlete": "Tafadzwa Chikomba",
-              "country": "ZIM",
-              "flag": "",
-              "primary": "#4A4745",
-              "venue": "Hayward Field",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "8.33",
-              "athlete": "Chenlong Yuan",
-              "country": "CHN",
-              "flag": "https://flagcdn.com/24x18/cn.png",
-              "primary": "#DE2910",
-              "venue": "Nanjing (CHN)",
-              "date": "09 MAY 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "lj_w",
@@ -6023,13 +5821,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 2,
-              "mark": "20.92",
+              "mark": "21.02",
               "athlete": "Chase Jackson",
               "country": "USA",
               "flag": "https://flagcdn.com/24x18/us.png",
               "primary": "#B22234",
-              "venue": "Rynek",
-              "date": "22 AUG 2026"
+              "venue": "Olympiastadion",
+              "date": "30 AUG 2026"
             },
             {
               "rank": 3,

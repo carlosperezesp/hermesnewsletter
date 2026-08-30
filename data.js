@@ -31491,9 +31491,9 @@ window.NHL_DATA = {
       "name": "Kevin Korchinski",
       "pos": "D",
       "teamCode": "CHI",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 22,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#cf0a2c",
         "secondary": "#111111"
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-30 12:02 UTC",
+  "LAST_UPDATE": "2026-08-30 16:57 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-30T12:01:30Z"
+    "standingsDateTimeUtc": "2026-08-30T16:56:45Z"
   }
 };

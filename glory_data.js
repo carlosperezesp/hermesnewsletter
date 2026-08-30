@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-30 12:04 UTC",
+  "UPDATED": "2026-08-30 16:59 UTC",
   "EVENTS": [
+    {
+      "id": "motogp:win:Aragon motorcycle Grand Prix:Marc Márquez",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "text": "Marc Márquez ganó el Aragon motorcycle Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-08-30"
+    },
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
       "sport": "nascar",
@@ -35,6 +43,15 @@ window.GLORY_DATA = {
       "text": "Cameron Young es nuevo nº1 · Nivel actual",
       "weight": 92,
       "firstSeen": "2026-08-17"
+    },
+    {
+      "id": "rank:motogp:RIDERS:in:Fermín Aldeguer",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "anchor": "motogp-mundial",
+      "text": "Fermín Aldeguer entra en el top-10 · Mundial",
+      "weight": 84,
+      "firstSeen": "2026-08-30"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:Mohammed Siraj",
@@ -71,6 +88,15 @@ window.GLORY_DATA = {
       "text": "BA Carse entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-08-18"
+    },
+    {
+      "id": "rank:motogp:RIDERS:out:Luca Marini",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "anchor": "motogp-mundial",
+      "text": "Luca Marini cae del top-10 · Mundial",
+      "weight": 74,
+      "firstSeen": "2026-08-30"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Cole Caufield",
@@ -358,15 +384,15 @@ window.GLORY_DATA = {
     ],
     "motogp:RIDERS": [
       "Jorge Martín",
-      "Marco Bezzecchi",
       "Marc Márquez",
-      "Ai Ogura",
+      "Marco Bezzecchi",
       "Fabio Di Giannantonio",
-      "Raúl Fernández",
+      "Ai Ogura",
       "Pedro Acosta",
+      "Raúl Fernández",
       "Francesco Bagnaia",
       "Álex Márquez",
-      "Luca Marini"
+      "Fermín Aldeguer"
     ],
     "motogp:LEGENDS": [
       "Giacomo Agostini",
