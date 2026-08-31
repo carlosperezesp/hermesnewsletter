@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-31 19:17 UTC
+// Auto-generated 2026-08-31 19:38 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-08-31 19:17 UTC",
+  "UPDATED": "2026-08-31 19:38 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -6103,13 +6103,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 10,
-              "mark": "19.34",
-              "athlete": "Danniel Thomas-Dodd",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Spec Towns Track",
-              "date": "11 APR 2026"
+              "mark": "19.42",
+              "athlete": "Auriol Dongmo",
+              "country": "POR",
+              "flag": "https://flagcdn.com/24x18/pt.png",
+              "primary": "#006600",
+              "venue": "Stadio Giuseppe Valente",
+              "date": "31 AUG 2026"
             }
           ]
         },

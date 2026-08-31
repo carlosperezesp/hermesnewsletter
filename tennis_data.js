@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-31 19:17 UTC
+// Auto-generated 2026-08-31 19:39 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-08-31 19:17 UTC",
+  "UPDATED": "2026-08-31 19:39 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -4332,9 +4332,9 @@ window.TENNIS_DATA = {
       "prevListRank": 127,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 46.3
     },
@@ -5865,7 +5865,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 75.9
@@ -6205,7 +6205,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 68.8
@@ -7907,7 +7907,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 54.5
@@ -8010,9 +8010,9 @@ window.TENNIS_DATA = {
       "prevListRank": 84,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "out",
+        "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 53.5
     },
@@ -8628,9 +8628,9 @@ window.TENNIS_DATA = {
       "prevListRank": 102,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "out",
+        "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 48.8
     },
@@ -8735,7 +8735,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 48.7
@@ -8769,7 +8769,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 48.1
@@ -10312,9 +10312,9 @@ window.TENNIS_DATA = {
       "prevListRank": 150,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "out",
+        "state": "alive",
         "round": "R128",
-        "reason": "Eliminado en R128"
+        "reason": ""
       },
       "prevActiveScore": 35.0
     }
@@ -11257,9 +11257,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ashlyn Krueger",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "por jugar",
           "day": "hoy",
-          "scheduled": false,
+          "scheduled": true,
           "w_score": 85.5,
           "l_score": 58.5,
           "match_score": 85.5
@@ -11279,15 +11279,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Taylor Townsend",
+          "w": "Maja Chwalinska",
           "w_logo": "",
-          "l": "Maja Chwalinska",
+          "l": "Taylor Townsend",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "por jugar",
           "day": "hoy",
-          "scheduled": false,
-          "w_score": 59.5,
-          "l_score": 80.2,
+          "scheduled": true,
+          "w_score": 80.2,
+          "l_score": 59.5,
           "match_score": 80.2
         },
         {
@@ -11309,7 +11309,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anna Blinkova",
           "l_logo": "",
-          "score": "6-4 6-3",
+          "score": "In Progress",
           "day": "hoy",
           "scheduled": false,
           "w_score": 75.8,
@@ -11335,7 +11335,6 @@ window.TENNIS_DATA = {
       "Adolfo Daniel Vallejo",
       "Adrian Mannarino",
       "Alejandro Tabilo",
-      "Aleksandar Vukic",
       "Alex Michelsen",
       "Alex Molcan",
       "Alex de Minaur",
@@ -11442,6 +11441,7 @@ window.TENNIS_DATA = {
     "out": [
       "Adam Walton",
       "Aleksandar Kovacevic",
+      "Aleksandar Vukic",
       "Aleksandr Shevchenko",
       "Arthur Fils",
       "Cameron Norrie",
@@ -11463,7 +11463,7 @@ window.TENNIS_DATA = {
       "Tomas Machac",
       "Vit Kopriva"
     ],
-    "aliveCount": 106,
+    "aliveCount": 105,
     "matchesSeen": 72
   },
   "WTA_TOURNAMENT": {
@@ -11485,10 +11485,12 @@ window.TENNIS_DATA = {
       "Anastasia Potapova",
       "Anastasia Zakharova",
       "Ann Li",
+      "Anna Blinkova",
       "Anna Bondar",
       "Anna Kalinskaya",
       "Anouk Koevermans",
       "Antonia Ruzic",
+      "Aoi Ito",
       "Arantxa Rus",
       "Aryna Sabalenka",
       "Ashlyn Krueger",
@@ -11558,6 +11560,7 @@ window.TENNIS_DATA = {
       "Oksana Selekhmeteva",
       "Oleksandra Oliynykova",
       "Paula Badosa",
+      "Petra Marcinko",
       "Polina Iatcenko",
       "Reese Brantmeier",
       "Robin Montgomery",
@@ -11565,6 +11568,7 @@ window.TENNIS_DATA = {
       "Sloane Stephens",
       "Sofia Kenin",
       "Sorana Cirstea",
+      "Tamara Zidansek",
       "Tatjana Maria",
       "Taylah Preston",
       "Taylor Townsend",
@@ -11581,8 +11585,6 @@ window.TENNIS_DATA = {
     "out": [
       "Alycia Parks",
       "Anhelina Kalinina",
-      "Anna Blinkova",
-      "Aoi Ito",
       "Barbora Krejcikova",
       "Camila Osorio",
       "Carol Young Suh Lee",
@@ -11596,7 +11598,6 @@ window.TENNIS_DATA = {
       "Lois Boisson",
       "McCartney Kessler",
       "Panna Udvardy",
-      "Petra Marcinko",
       "Peyton Stearns",
       "Renata Zarazua",
       "Sara Bejlek",
@@ -11605,13 +11606,12 @@ window.TENNIS_DATA = {
       "Storm Hunter",
       "Talia Gibson",
       "Tamara Korpatsch",
-      "Tamara Zidansek",
       "Venus Williams",
       "Veronika Erjavec",
       "Zhang Shuai"
     ],
-    "aliveCount": 98,
-    "matchesSeen": 74
+    "aliveCount": 102,
+    "matchesSeen": 71
   },
   "ATP_SCORE_LOG": {
     "206173": [
