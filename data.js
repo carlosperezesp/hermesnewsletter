@@ -32323,9 +32323,9 @@ window.NHL_DATA = {
       "name": "Alec Regula",
       "pos": "D",
       "teamCode": "EDM",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 26,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#041e42",
         "secondary": "#ff4c00"
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-31 14:06 UTC",
+  "LAST_UPDATE": "2026-08-31 19:14 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-31T14:06:15Z"
+    "standingsDateTimeUtc": "2026-08-31T19:13:45Z"
   }
 };
