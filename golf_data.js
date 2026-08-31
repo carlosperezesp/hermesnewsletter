@@ -1,6 +1,6 @@
-// Auto-generated 2026-08-30 23:37 UTC
+// Auto-generated 2026-08-31 11:37 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-08-30 23:37 UTC",
+  "UPDATED": "2026-08-31 11:37 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -55,8 +55,8 @@ window.GOLF_DATA = {
       "legendScore": 22.9,
       "stats": {
         "majors": 4,
-        "wins": 2,
-        "topTen": 12,
+        "wins": 3,
+        "topTen": 13,
         "fedexRank": 1,
         "tour": "PGA"
       },
@@ -171,7 +171,7 @@ window.GOLF_DATA = {
       "stats": {
         "majors": 0,
         "wins": 3,
-        "topTen": 6,
+        "topTen": 7,
         "fedexRank": 6,
         "tour": "PGA"
       },
@@ -263,7 +263,7 @@ window.GOLF_DATA = {
       "stats": {
         "majors": 0,
         "wins": 0,
-        "topTen": 8,
+        "topTen": 9,
         "fedexRank": 10,
         "tour": "PGA"
       },
@@ -286,7 +286,7 @@ window.GOLF_DATA = {
       "stats": {
         "majors": 6,
         "wins": 1,
-        "topTen": 5,
+        "topTen": 6,
         "fedexRank": 11,
         "tour": "PGA"
       },
@@ -802,7 +802,7 @@ window.GOLF_DATA = {
       "stats": {
         "majors": 6,
         "wins": 1,
-        "topTen": 5,
+        "topTen": 6,
         "fedexRank": 11,
         "tour": "PGA"
       },
@@ -826,8 +826,8 @@ window.GOLF_DATA = {
       "legendScore": 22.9,
       "stats": {
         "majors": 4,
-        "wins": 2,
-        "topTen": 12,
+        "wins": 3,
+        "topTen": 13,
         "fedexRank": 1,
         "tour": "PGA"
       },
@@ -1026,7 +1026,7 @@ window.GOLF_DATA = {
       "stats": {
         "majors": 0,
         "wins": 3,
-        "topTen": 6,
+        "topTen": 7,
         "fedexRank": 6,
         "tour": "PGA"
       },

@@ -25248,7 +25248,7 @@ window.NHL_DATA = {
       "name": "Elias Salomonsson",
       "pos": "D",
       "teamCode": "WPG",
-      "age": 21,
+      "age": 22,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-30 23:36 UTC",
+  "LAST_UPDATE": "2026-08-31 11:36 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-30T23:35:45Z"
+    "standingsDateTimeUtc": "2026-08-31T11:35:45Z"
   }
 };
