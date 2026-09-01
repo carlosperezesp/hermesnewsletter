@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-01 11:50 UTC
+// Auto-generated 2026-09-01 16:56 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-01 11:50 UTC",
+  "UPDATED": "2026-09-01 16:56 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5112,9 +5112,9 @@ window.TENNIS_DATA = {
       "prevListRank": 149,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite en US Open"
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.0
     },
@@ -11003,13 +11003,13 @@ window.TENNIS_DATA = {
           "round": "R128",
           "w": "Rafael Jodar",
           "w_logo": "",
-          "l": "Thanasi Kokkinakis",
+          "l": "Bu Yunchaokete",
           "l_logo": "",
           "score": "por jugar",
           "day": "hoy",
           "scheduled": true,
           "w_score": 79.1,
-          "l_score": null,
+          "l_score": 35.0,
           "match_score": 79.1
         },
         {
@@ -11031,9 +11031,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Francisco Comesana",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.9,
           "l_score": 50.2,
           "match_score": 75.9
@@ -11266,15 +11266,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Madison Keys",
+          "w": "Alina Korneeva",
           "w_logo": "",
-          "l": "Alina Korneeva",
+          "l": "Madison Keys",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 80.3,
-          "l_score": 54.7,
+          "scheduled": false,
+          "w_score": 54.7,
+          "l_score": 80.3,
           "match_score": 80.3
         },
         {
@@ -11351,6 +11351,7 @@ window.TENNIS_DATA = {
       "Benjamin Bonzi",
       "Botic Van De Zandschulp",
       "Brandon Nakashima",
+      "Bu Yunchaokete",
       "Camilo Ugo Carabelli",
       "Carlos Alcaraz",
       "Carlos Taberner",
@@ -11406,7 +11407,6 @@ window.TENNIS_DATA = {
       "Sebastian Gorzny",
       "Stefanos Tsitsipas",
       "Taylor Fritz",
-      "Thanasi Kokkinakis",
       "Toby Samuel",
       "Tomas Martin Etcheverry",
       "Tommy Paul",
