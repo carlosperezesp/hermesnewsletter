@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-01 10:08 UTC
+// Auto-generated 2026-09-01 11:50 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-09-01 10:08 UTC",
+  "UPDATED": "2026-09-01 11:50 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -4050,108 +4050,7 @@ window.ATHLETICS_DATA = {
               "year": 1994
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "2.34",
-              "athlete": "JuVaughn Harrison",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Quai Albert 1er",
-              "date": "05 AUG 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "2.33",
-              "athlete": "Danil Lysenko",
-              "country": "RUS",
-              "flag": "https://flagcdn.com/24x18/ru.png",
-              "primary": "#0039A6",
-              "venue": "Ural GUFK",
-              "date": "16 JAN 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "2.33",
-              "athlete": "Oleh Doroshchuk",
-              "country": "UKR",
-              "flag": "https://flagcdn.com/24x18/ua.png",
-              "primary": "#005BBB",
-              "venue": "Berdichev (UKR)",
-              "date": "27 JUN 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "2.32",
-              "athlete": "Jan Štefela",
-              "country": "CZE",
-              "flag": "https://flagcdn.com/24x18/cz.png",
-              "primary": "#11457E",
-              "venue": "Športov hala Dukla",
-              "date": "24 FEB 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "2.32",
-              "athlete": "Gianmarco Tamberi",
-              "country": "ITA",
-              "flag": "https://flagcdn.com/24x18/it.png",
-              "primary": "#009246",
-              "venue": "Alexander Stadium",
-              "date": "14 AUG 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "2.31",
-              "athlete": "Kimani Jack",
-              "country": "GBR",
-              "flag": "https://flagcdn.com/24x18/gb.png",
-              "primary": "#012169",
-              "venue": "Spec Towns Track",
-              "date": "02 MAY 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "2.31",
-              "athlete": "Sarvesh Anil Kushare",
-              "country": "IND",
-              "flag": "https://flagcdn.com/24x18/in.png",
-              "primary": "#4A4745",
-              "venue": "Kalinga Stadium",
-              "date": "27 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "2.31",
-              "athlete": "Stepan Vetkin",
-              "country": "RUS",
-              "flag": "https://flagcdn.com/24x18/ru.png",
-              "primary": "#0039A6",
-              "venue": "Yelena Yelesina Stadium",
-              "date": "23 AUG 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "2.30",
-              "athlete": "Mateusz Kołodziejski",
-              "country": "POL",
-              "flag": "https://flagcdn.com/24x18/pl.png",
-              "primary": "#DC143C",
-              "venue": "Městsk sportovn hala",
-              "date": "07 FEB 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "2.30",
-              "athlete": "Naoto Hasegawa",
-              "country": "JPN",
-              "flag": "https://flagcdn.com/24x18/jp.png",
-              "primary": "#BC002D",
-              "venue": "Městsk sportovn hala",
-              "date": "07 FEB 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "hj_w",
