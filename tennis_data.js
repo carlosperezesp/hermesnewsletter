@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-01 22:39 UTC
+// Auto-generated 2026-09-01 23:26 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-01 22:39 UTC",
+  "UPDATED": "2026-09-01 23:26 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -271,7 +271,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 79.6
@@ -4024,9 +4024,9 @@ window.TENNIS_DATA = {
       "prevListRank": 118,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 48.3
     },
@@ -4897,7 +4897,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 36.2
@@ -9812,9 +9812,9 @@ window.TENNIS_DATA = {
       "prevListRank": 136,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 38.5
     },
@@ -10992,25 +10992,12 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Arthur Fery",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-3 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": 79.6,
           "l_score": 48.7,
           "match_score": 79.6
-        },
-        {
-          "round": "R128",
-          "w": "Rafael Jodar",
-          "w_logo": "",
-          "l": "Bu Yunchaokete",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 79.1,
-          "l_score": 35.0,
-          "match_score": 79.1
         },
         {
           "round": "R128",
@@ -11083,12 +11070,25 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alex Molcan",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "2-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": 53.8,
           "l_score": 64.2,
           "match_score": 64.2
+        },
+        {
+          "round": "R128",
+          "w": "Gael Monfils",
+          "w_logo": "",
+          "l": "Adolfo Daniel Vallejo",
+          "l_logo": "",
+          "score": "In Progress",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 62.5,
+          "match_score": 62.5
         }
       ]
     }
@@ -11244,9 +11244,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Zeynep Sonmez",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 91.1,
           "l_score": 58.2,
           "match_score": 91.1
@@ -11279,15 +11279,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Darja Semenistaja",
+          "w": "Anastasia Potapova",
           "w_logo": "",
-          "l": "Anastasia Potapova",
+          "l": "Darja Semenistaja",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 38.5,
-          "l_score": 79.7,
+          "w_score": 79.7,
+          "l_score": 38.5,
           "match_score": 79.7
         },
         {
@@ -11344,7 +11344,6 @@ window.TENNIS_DATA = {
       "Alexei Popyrin",
       "Andrea Guerrieri",
       "Andrey Rublev",
-      "Arthur Fery",
       "Arthur Gea",
       "Arthur Rinderknech",
       "Ben Shelton",
@@ -11415,6 +11414,7 @@ window.TENNIS_DATA = {
       "Aleksandar Kovacevic",
       "Aleksandar Vukic",
       "Aleksandr Shevchenko",
+      "Arthur Fery",
       "Arthur Fils",
       "Cameron Norrie",
       "Camilo Ugo Carabelli",
@@ -11463,8 +11463,8 @@ window.TENNIS_DATA = {
       "Yannick Hanfmann",
       "Zsombor Piros"
     ],
-    "aliveCount": 77,
-    "matchesSeen": 88
+    "aliveCount": 76,
+    "matchesSeen": 89
   },
   "WTA_TOURNAMENT": {
     "name": "US Open",
@@ -11491,7 +11491,6 @@ window.TENNIS_DATA = {
       "Coco Gauff",
       "Cristina Bucsa",
       "Daria Kasatkina",
-      "Darja Semenistaja",
       "Darja Vidmanova",
       "Diana Shnaider",
       "Diane Parry",
@@ -11570,6 +11569,7 @@ window.TENNIS_DATA = {
       "Carol Young Suh Lee",
       "Clara Tauson",
       "Daria Snigur",
+      "Darja Semenistaja",
       "Dayana Yastremska",
       "Elena-Gabriela Ruse",
       "Elisabetta Cocciaretto",
@@ -11610,7 +11610,7 @@ window.TENNIS_DATA = {
       "Wang Xiyu",
       "Zhang Shuai"
     ],
-    "aliveCount": 74,
+    "aliveCount": 73,
     "matchesSeen": 90
   },
   "ATP_SCORE_LOG": {
