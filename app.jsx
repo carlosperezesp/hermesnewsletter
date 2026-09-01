@@ -314,6 +314,106 @@ function IndividualSport({ data, label, intro, masthead = "Ranking y leyendas", 
   );
 }
 
+function IndyCarRoadToGlory({ data }) {
+  const legends = data.LEGENDS || [];
+  const years = data.YEARS || [];
+  const leader = (legends[0] && legends[0].score) || 1;
+  const [showAll, setShowAll] = React.useState(false);
+  const shown = showAll ? legends : legends.slice(0, 15);
+  const yearsDesc = [...years].reverse();
+  const [selYear, setSelYear] = React.useState(yearsDesc.length ? yearsDesc[0].year : null);
+  const yObj = years.find(y => y.year === selYear);
+  const BODY = { AAA: "AAA", USAC: "USAC", CART: "CART", CC: "Champ Car", IRL: "IRL", IC: "IndyCar" };
+  const GOLD = "#b08a2e";
+  const kicker = { fontFamily: "IBM Plex Mono, monospace", fontSize: "0.6rem", textTransform: "uppercase",
+    letterSpacing: "0.1em", color: "var(--muted)", marginRight: 8 };
+
+  const row = (l) => {
+    const s = l.stats;
+    const top = l.rank === 1;
+    const pct = Math.max(4, Math.round(l.score / leader * 100));
+    return (
+      <div key={l.id} style={{ display: "grid", gridTemplateColumns: "2.1rem 1.5rem 1fr auto",
+        gap: "0.7rem", alignItems: "center", padding: "0.7rem 0.55rem",
+        borderTop: "1px solid var(--line, #e2ddcd)",
+        background: top ? "rgba(176,138,46,0.10)" : (l.active ? "rgba(63,122,58,0.05)" : "transparent"),
+        borderLeft: top ? `3px solid ${GOLD}` : "3px solid transparent" }}>
+        <span style={{ fontFamily: "IBM Plex Mono, monospace", fontSize: "1.25rem", lineHeight: 1,
+          color: top ? GOLD : "var(--muted-2)" }}>{l.rank}</span>
+        {l.logo ? <img src={l.logo} alt="" style={{ width: 22, height: 16, borderRadius: 2, objectFit: "cover" }} /> : <span />}
+        <div style={{ minWidth: 0 }}>
+          <div style={{ fontWeight: 600, fontSize: "1.05rem", color: top ? GOLD : "var(--ink)",
+            display: "flex", alignItems: "center", gap: 8, flexWrap: "wrap" }}>
+            {l.name}
+            {l.active && <span style={{ fontSize: 8.5, fontWeight: 800, fontFamily: "monospace",
+              background: "#2a7a2a", color: "#fff", padding: "2px 6px", borderRadius: 4,
+              letterSpacing: "0.06em", textTransform: "uppercase" }}>activo</span>}
+          </div>
+          <div style={{ fontFamily: "IBM Plex Mono, monospace", fontSize: "0.64rem", color: "var(--muted)", marginTop: 2 }}>
+            {s.titles} tít · {s.indy500s} Indy 500 · {s.wins} vic · {s.poles} pole · {s.starts} salidas
+          </div>
+          <div style={{ height: 3, background: "var(--line, #e2ddcd)", borderRadius: 2, marginTop: 5, overflow: "hidden" }}>
+            <div style={{ height: "100%", width: pct + "%", background: top ? GOLD : "var(--accent)", borderRadius: 2 }} />
+          </div>
+        </div>
+        <div style={{ textAlign: "right" }}>
+          <span style={{ fontSize: "1.55rem", fontWeight: 600, color: "var(--accent)", lineHeight: 1 }}>{l.score.toFixed(1)}</span>
+          <span style={{ display: "block", fontFamily: "monospace", fontSize: "0.52rem", color: "var(--muted)",
+            textTransform: "uppercase", letterSpacing: "0.12em", marginTop: 2 }}>puntos</span>
+        </div>
+      </div>
+    );
+  };
+
+  return (
+    <>
+      <NewsletterSection kicker="IndyCar · Road to Glory"
+        title="Las leyendas de la Indy, punto a punto"
+        sub={`Puntuación ABSOLUTA y acumulativa: nadie baja nunca de su marca, solo se le adelanta subiendo. ${data.BAREMO_LABEL}. (La barra es solo escala visual respecto al líder.)`}>
+        <div>{shown.map(row)}</div>
+        {legends.length > 15 && (
+          <button onClick={() => setShowAll(!showAll)} style={{ marginTop: 14,
+            fontFamily: "IBM Plex Mono, monospace", fontSize: "0.72rem", letterSpacing: "0.08em",
+            textTransform: "uppercase", padding: "0.45rem 0.9rem", border: "1px solid var(--ink)",
+            borderRadius: 4, background: "transparent", color: "var(--ink)", cursor: "pointer" }}>
+            {showAll ? "Ver menos ▴" : `Ver los ${legends.length} ▾`}</button>
+        )}
+      </NewsletterSection>
+
+      <NewsletterSection kicker="IndyCar · Año a año"
+        title="Cada temporada de la Indy"
+        sub="Campeón nacional y ganador de las 500 Millas, 1909-2026. En el cisma (1996-2007) se listan los dos campeones.">
+        <div style={{ display: "flex", flexWrap: "wrap", gap: 4, marginBottom: 16, maxHeight: 118,
+          overflowY: "auto", padding: 2 }}>
+          {yearsDesc.map(y => (
+            <button key={y.year} onClick={() => setSelYear(y.year)} style={{
+              fontFamily: "IBM Plex Mono, monospace", fontSize: "0.68rem", padding: "0.24rem 0.42rem",
+              border: "1px solid " + (y.year === selYear ? "var(--accent)" : "var(--line, #e2ddcd)"),
+              background: y.year === selYear ? "var(--accent)" : "transparent",
+              color: y.year === selYear ? "#fff" : "var(--muted)", borderRadius: 3, cursor: "pointer" }}>
+              {y.year}</button>
+          ))}
+        </div>
+        {yObj && (
+          <div style={{ border: "1px solid var(--line, #e2ddcd)", borderLeft: "4px solid var(--accent)",
+            padding: "1rem 1.2rem", background: "var(--paper)" }}>
+            <div style={{ fontFamily: "IBM Plex Mono, monospace", fontWeight: 700, fontSize: "2.2rem",
+              color: "var(--accent)", lineHeight: 1, marginBottom: 12 }}>{yObj.year}</div>
+            {yObj.champions.map((c, i) => (
+              <div key={i} style={{ fontSize: "0.95rem", marginBottom: 4 }}>
+                <span style={kicker}>Campeón {BODY[c.body] || c.body}</span><strong>{c.name}</strong>
+              </div>
+            ))}
+            <div style={{ fontSize: "0.95rem", marginTop: 8 }}>
+              <span style={kicker}>Indy 500</span><strong>{yObj.indy500 || "— no disputada —"}</strong>
+            </div>
+          </div>
+        )}
+      </NewsletterSection>
+    </>
+  );
+}
+
 function SectionIcon({ type }) {
   const common = {
     fill: "none",
@@ -3632,6 +3732,7 @@ function NewsletterApp() {
             </>
           );
         })()}
+        {window.INDYCAR_HISTORY && <IndyCarRoadToGlory data={window.INDYCAR_HISTORY} />}
         </div>
 
         <div data-section="nascar" style={sectionStyle("nascar", window.NASCAR_DATA?.IMPORTANCE || 6.5)}>
