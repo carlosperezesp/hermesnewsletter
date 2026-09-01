@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-01 16:56 UTC
+// Auto-generated 2026-09-01 17:27 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-01 16:56 UTC",
+  "UPDATED": "2026-09-01 17:27 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -7872,9 +7872,9 @@ window.TENNIS_DATA = {
       "prevListRank": 80,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 55.0
     },
@@ -11266,15 +11266,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Alina Korneeva",
+          "w": "Madison Keys",
           "w_logo": "",
-          "l": "Madison Keys",
+          "l": "Alina Korneeva",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 54.7,
-          "l_score": 80.3,
+          "w_score": 80.3,
+          "l_score": 54.7,
           "match_score": 80.3
         },
         {
@@ -11480,7 +11480,6 @@ window.TENNIS_DATA = {
     ],
     "alive": [
       "Alexandra Eala",
-      "Alina Korneeva",
       "Amanda Anisimova",
       "Anastasia Potapova",
       "Ann Li",
@@ -11565,6 +11564,7 @@ window.TENNIS_DATA = {
       "Zheng Qinwen"
     ],
     "out": [
+      "Alina Korneeva",
       "Alycia Parks",
       "Anastasia Zakharova",
       "Anhelina Kalinina",
@@ -11610,7 +11610,7 @@ window.TENNIS_DATA = {
       "Wang Xiyu",
       "Zhang Shuai"
     ],
-    "aliveCount": 84,
+    "aliveCount": 83,
     "matchesSeen": 85
   },
   "ATP_SCORE_LOG": {
