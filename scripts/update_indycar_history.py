@@ -12,7 +12,7 @@ categoría cuentan (AAA/USAC/CART/Champ Car/IRL/IndyCar). Estático: se actualiz
 vez por temporada.
 """
 from __future__ import annotations
-import json, re
+import json, re, unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -147,7 +147,7 @@ LEGENDS_RAW = [
     ("Sébastien Bourdais", "FRA", 1979, 4, 0, 37, 34, 224, False),
     ("Álex Palou",         "ESP", 1997, 5, 1, 25, 20, 115, True),
     ("Hélio Castroneves",  "BRA", 1975, 0, 4, 31, 55, 395, True),
-    ("Josef Newgarden",    "USA", 1990, 2, 2, 35, 19, 244, True),
+    ("Josef Newgarden",    "USA", 1990, 2, 2, 34, 19, 244, True),
     ("Al Unser Jr.",       "USA", 1962, 2, 2, 34, 7, 329, False),
     ("Bobby Rahal",        "USA", 1953, 3, 1, 24, 18, 264, False),
     ("Johnny Rutherford",  "USA", 1938, 1, 3, 27, 23, 314, False),
@@ -224,6 +224,113 @@ def build_years():
     return out
 
 
+# ── Escalada: score acumulado por temporada (índice de hitos datables) ──
+# El gráfico usa títulos ×30 + Indy 500 ×18 + victorias ×3 (lo que se puede fechar
+# por año). Poles/salidas quedan en el ranking absoluto, no en la animación.
+CHART_NAMES = [
+    "A. J. Foyt", "Scott Dixon", "Mario Andretti", "Al Unser", "Dario Franchitti",
+    "Will Power", "Rick Mears", "Bobby Unser", "Sébastien Bourdais", "Álex Palou",
+    "Hélio Castroneves", "Josef Newgarden", "Al Unser Jr.", "Bobby Rahal",
+    "Johnny Rutherford", "Michael Andretti", "Gordon Johncock", "Paul Tracy",
+    "Tony Kanaan", "Tom Sneva", "Ted Horn", "Jimmy Bryan", "Louis Meyer", "Ralph DePalma",
+]
+CHART_COLOR = {
+    "A. J. Foyt": "#b08a2e", "Álex Palou": "#c62828", "Scott Dixon": "#2f5e9e",
+    "Will Power": "#3f7a3a", "Josef Newgarden": "#8a6d3b", "Hélio Castroneves": "#1f6f5c",
+}
+# Victorias por temporada {nombre: {año: nº}} — datos verificados (champcarstats/Wiki).
+WINS_BY_YEAR = {
+    "A. J. Foyt": {1960: 4, 1961: 4, 1962: 4, 1963: 5, 1964: 10, 1965: 5, 1967: 5,
+                   1968: 4, 1969: 1, 1971: 1, 1973: 2, 1974: 2, 1975: 7, 1976: 2,
+                   1977: 3, 1978: 2, 1979: 5, 1981: 1},
+    "Mario Andretti": {1965: 1, 1966: 8, 1967: 8, 1968: 4, 1969: 9, 1970: 1, 1973: 1,
+                       1978: 1, 1980: 1, 1983: 2, 1984: 6, 1985: 3, 1986: 2, 1987: 2,
+                       1988: 2, 1993: 1},
+    "Al Unser": {1965: 1, 1968: 5, 1969: 5, 1970: 10, 1971: 5, 1973: 1, 1974: 1,
+                 1976: 3, 1977: 1, 1978: 3, 1983: 1, 1985: 1, 1987: 1},
+    "Bobby Unser": {1966: 1, 1967: 2, 1968: 5, 1969: 1, 1970: 1, 1971: 2, 1972: 4,
+                    1973: 1, 1974: 4, 1975: 1, 1976: 2, 1979: 6, 1980: 4, 1981: 1},
+    "Rick Mears": {1978: 3, 1979: 3, 1980: 1, 1981: 6, 1982: 4, 1983: 1, 1984: 1,
+                   1985: 1, 1987: 1, 1988: 2, 1989: 3, 1990: 1, 1991: 2},
+    "Johnny Rutherford": {1965: 1, 1973: 2, 1974: 4, 1975: 1, 1976: 3, 1977: 4,
+                          1978: 2, 1979: 2, 1980: 5, 1981: 1, 1985: 1, 1986: 1},
+    "Jimmy Bryan": {1953: 1, 1954: 5, 1955: 7, 1956: 5, 1957: 4, 1958: 1},
+    "Louis Meyer": {1928: 2, 1929: 2, 1931: 1, 1933: 1, 1935: 1, 1936: 1},
+    "Ralph DePalma": {1909: 1, 1912: 4, 1913: 1, 1914: 3, 1915: 2, 1916: 3, 1917: 1,
+                      1918: 6, 1919: 1, 1920: 1, 1921: 2},
+    "Gordon Johncock": {1965: 1, 1967: 2, 1968: 2, 1969: 2, 1973: 3, 1974: 2, 1975: 1,
+                        1976: 2, 1977: 2, 1978: 2, 1979: 2, 1982: 3, 1983: 1},
+    "Tom Sneva": {1975: 1, 1977: 2, 1980: 1, 1981: 2, 1982: 2, 1983: 2, 1984: 3},
+    "Ted Horn": {1946: 19, 1947: 3, 1948: 2},
+    "Josef Newgarden": {2015: 2, 2016: 1, 2017: 4, 2018: 3, 2019: 4, 2020: 4, 2021: 2,
+                        2022: 5, 2023: 4, 2024: 2, 2025: 1, 2026: 2},
+    "Hélio Castroneves": {2000: 3, 2001: 4, 2002: 2, 2003: 2, 2004: 1, 2005: 1, 2006: 4,
+                          2007: 1, 2008: 2, 2009: 2, 2010: 3, 2012: 2, 2013: 1, 2014: 1,
+                          2017: 1, 2021: 1},
+    "Dario Franchitti": {1998: 3, 1999: 3, 2001: 1, 2002: 3, 2004: 2, 2005: 2, 2007: 4,
+                         2009: 5, 2010: 3, 2011: 4, 2012: 1},
+    "Scott Dixon": {2001: 1, 2003: 3, 2005: 1, 2006: 2, 2007: 4, 2008: 6, 2009: 5,
+                    2010: 3, 2011: 2, 2012: 2, 2013: 4, 2014: 2, 2015: 3, 2016: 2,
+                    2017: 1, 2018: 3, 2019: 2, 2020: 4, 2021: 1, 2022: 2, 2023: 3,
+                    2024: 2, 2025: 1},
+    "Álex Palou": {2021: 3, 2022: 1, 2023: 5, 2024: 2, 2025: 8, 2026: 6},
+    "Will Power": {2007: 2, 2008: 1, 2009: 1, 2010: 5, 2011: 6, 2012: 3, 2013: 3,
+                   2014: 3, 2015: 1, 2016: 4, 2017: 3, 2018: 3, 2019: 2, 2020: 2,
+                   2021: 1, 2022: 1, 2024: 3, 2025: 1},
+    "Sébastien Bourdais": {2003: 3, 2004: 7, 2005: 6, 2006: 7, 2007: 8, 2014: 1,
+                           2015: 2, 2016: 1, 2017: 1, 2018: 1},
+    "Michael Andretti": {1986: 3, 1987: 4, 1989: 2, 1990: 5, 1991: 8, 1992: 5, 1994: 2,
+                         1995: 1, 1996: 5, 1997: 1, 1998: 1, 1999: 1, 2000: 2, 2001: 1,
+                         2002: 1},
+    "Al Unser Jr.": {1984: 1, 1985: 2, 1986: 1, 1988: 4, 1989: 1, 1990: 6, 1991: 2,
+                     1992: 1, 1993: 1, 1994: 8, 1995: 4, 2000: 1, 2001: 1, 2003: 1},
+    "Bobby Rahal": {1982: 2, 1983: 1, 1984: 2, 1985: 3, 1986: 6, 1987: 3, 1988: 1,
+                    1989: 1, 1991: 1, 1992: 4},
+    "Paul Tracy": {1993: 5, 1994: 3, 1995: 2, 1997: 3, 1999: 2, 2000: 3, 2002: 1,
+                   2003: 7, 2004: 2, 2005: 2, 2007: 1},
+    "Tony Kanaan": {1999: 1, 2003: 1, 2004: 3, 2005: 2, 2006: 1, 2007: 5, 2008: 1,
+                    2010: 1, 2013: 1, 2014: 1},
+}
+
+
+def _norm_name(s):
+    s = "".join(c for c in unicodedata.normalize("NFKD", s) if not unicodedata.combining(c))
+    return re.sub(r"[^a-z0-9]", "", s.lower())
+
+
+def build_escalada():
+    titles_by, indy_by = {}, {}
+    for y, champs in CHAMPIONS.items():
+        for nm, _ in champs:
+            k = _norm_name(nm); titles_by.setdefault(k, {}); titles_by[k][y] = titles_by[k].get(y, 0) + 1
+    for y, w in INDY500.items():
+        for nm in re.split(r"\s*/\s*", w):
+            k = _norm_name(nm); indy_by.setdefault(k, {}); indy_by[k][y] = indy_by[k].get(y, 0) + 1
+    active_map = {_norm_name(r[0]): r[8] for r in LEGENDS_RAW}
+    cc_map = {_norm_name(r[0]): r[1] for r in LEGENDS_RAW}
+    maxY = max(CHAMPIONS)
+    drivers = []
+    for name in CHART_NAMES:
+        nn = _norm_name(name)
+        wins = {int(y): n for y, n in WINS_BY_YEAR.get(name, {}).items()}
+        t = titles_by.get(nn, {}); i5 = indy_by.get(nn, {})
+        ev = set(wins) | set(t) | set(i5)
+        if not ev:
+            continue
+        debut = min(ev)
+        cum = 0.0; by = {}
+        for y in range(debut, maxY + 1):
+            cum += (t.get(y, 0) * BAREMO["title"] + i5.get(y, 0) * BAREMO["indy500"]
+                    + wins.get(y, 0) * BAREMO["win"])
+            by[str(y)] = round(cum, 1)
+        drivers.append({"id": _slug(name), "name": name, "cc": cc_map.get(nn, ""),
+                        "color": CHART_COLOR.get(name), "hero": name == "A. J. Foyt",
+                        "active": active_map.get(nn, False), "debut": debut, "byYear": by,
+                        "hasWins": name in WINS_BY_YEAR})
+    minY = min((d["debut"] for d in drivers), default=1909)
+    return {"minYear": minY, "maxYear": maxY, "drivers": drivers}
+
+
 def main():
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     payload = {
@@ -232,6 +339,7 @@ def main():
         "BAREMO_LABEL": "Campeonato ×30 · Indy 500 ×18 · Victoria ×3 · Pole ×1 · Salida ×0,1",
         "LEGENDS": build_legends(),
         "YEARS": build_years(),
+        "ESCALADA": build_escalada(),
     }
     OUT.write_text(f"// Auto-generated {updated}\nwindow.INDYCAR_HISTORY = "
                    f"{json.dumps(payload, ensure_ascii=False, indent=2)};\n", encoding="utf-8")

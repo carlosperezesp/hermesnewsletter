@@ -380,6 +380,8 @@ function IndyCarRoadToGlory({ data }) {
         )}
       </NewsletterSection>
 
+      {data.ESCALADA && (data.ESCALADA.drivers || []).length >= 2 && <IndyCarEscalada data={data.ESCALADA} />}
+
       <NewsletterSection kicker="IndyCar · Año a año"
         title="Cada temporada de la Indy"
         sub="Campeón nacional y ganador de las 500 Millas, 1909-2026. En el cisma (1996-2007) se listan los dos campeones.">
@@ -411,6 +413,123 @@ function IndyCarRoadToGlory({ data }) {
         )}
       </NewsletterSection>
     </>
+  );
+}
+
+function IndyCarEscalada({ data }) {
+  const drivers = data.drivers || [];
+  const minY = data.minYear, maxY = data.maxYear;
+  const YEARS = React.useMemo(() => { const a = []; for (let y = minY; y <= maxY; y++) a.push(y); return a; }, [minY, maxY]);
+  const [year, setYear] = React.useState(maxY);
+  const [mode, setMode] = React.useState("score");
+  const [playing, setPlaying] = React.useState(false);
+
+  React.useEffect(() => {
+    if (!playing) return;
+    const t = setInterval(() => setYear(y => (y >= maxY ? (clearInterval(t), y) : y + 1)), 380);
+    return () => clearInterval(t);
+  }, [playing, maxY]);
+  React.useEffect(() => { if (playing && year >= maxY) setPlaying(false); }, [year, playing, maxY]);
+
+  const sc = (d, y) => (y < d.debut ? null : (d.byYear[String(y)] != null ? d.byYear[String(y)] : null));
+  const maxScore = React.useMemo(() => Math.max(1, ...drivers.map(d => d.byYear[String(maxY)] || 0)), [drivers, maxY]);
+  const NMAX = Math.max(2, drivers.length);
+  // ranking (por score desc) de cada año, precomputado
+  const rankByYear = React.useMemo(() => {
+    const out = {};
+    YEARS.forEach(y => {
+      const present = drivers.filter(d => sc(d, y) != null).sort((a, b) => (sc(b, y) - sc(a, y)) || (a.debut - b.debut));
+      const m = {}; present.forEach((d, i) => { m[d.id] = i + 1; });
+      out[y] = { m, list: present };
+    });
+    return out;
+  }, [drivers, YEARS]);
+
+  const W = 1740, H = 720, xL = 58, xR = 1560, yT = 40, yB = 660;
+  const X = y => xL + (y - minY) * (xR - xL) / (YEARS.length - 1);
+  const Yr = r => yT + (r - 1) * (yB - yT) / (NMAX - 1);
+  const Ys = v => yB - (v / maxScore) * (yB - yT);
+  const GREY = "#a49c88";
+
+  const order = [...drivers].sort((a, b) => ((a.hero ? 2 : a.color ? 1 : 0) - (b.hero ? 2 : b.color ? 1 : 0)));
+  const curRank = rankByYear[year] || { m: {}, list: [] };
+
+  const btn = { fontFamily: "IBM Plex Mono, monospace", fontSize: "0.85rem", width: "2.1rem", height: "2.1rem",
+    border: "1px solid var(--ink)", borderRadius: 4, background: "var(--paper)", color: "var(--ink)", cursor: "pointer" };
+  const seg = (on) => ({ fontFamily: "IBM Plex Mono, monospace", fontSize: "0.68rem", letterSpacing: "0.06em",
+    textTransform: "uppercase", padding: "0.4rem 0.8rem", border: "1px solid var(--ink)", cursor: "pointer",
+    background: on ? "var(--ink)" : "transparent", color: on ? "var(--paper)" : "var(--muted)" });
+
+  return (
+    <NewsletterSection kicker="IndyCar · Road to Glory · La escalada"
+      title="Cómo cambian las leyendas, año a año"
+      sub="Índice de hitos datables (título ×30 + Indy 500 ×18 + victoria ×3). Desliza el año o pulsa ▶ y mira cómo se reordena el panteón. Grises = leyendas ya retiradas (los escalones fijos); en color, los que aún suben.">
+      <div style={{ display: "flex", flexWrap: "wrap", gap: 8, alignItems: "center", margin: "0 0 14px" }}>
+        <div style={{ display: "inline-flex", borderRadius: 4, overflow: "hidden" }}>
+          <button onClick={() => setMode("rank")} style={seg(mode === "rank")}>Puesto</button>
+          <button onClick={() => setMode("score")} style={seg(mode === "score")}>Puntos</button>
+        </div>
+        <button style={btn} onClick={() => { setPlaying(false); setYear(y => Math.max(minY, y - 1)); }}>◀</button>
+        <span style={{ fontFamily: "IBM Plex Mono, monospace", fontWeight: 700, fontSize: "1.3rem", color: "var(--accent)", minWidth: "3.4rem", textAlign: "center" }}>{year}</span>
+        <button style={btn} onClick={() => { setPlaying(false); setYear(y => Math.min(maxY, y + 1)); }}>▶</button>
+        <input type="range" min={minY} max={maxY} value={year} onChange={e => { setPlaying(false); setYear(+e.target.value); }} style={{ flex: 1, minWidth: 140, accentColor: "var(--accent)" }} />
+        <button style={{ ...btn, width: "auto", padding: "0 0.9rem", fontSize: "0.7rem", letterSpacing: "0.06em", textTransform: "uppercase" }}
+          onClick={() => { if (year >= maxY) setYear(minY); setPlaying(p => !p); }}>{playing ? "❚❚ Pausa" : "▶ Reproducir"}</button>
+      </div>
+
+      <div style={{ overflowX: "auto", border: "1px solid var(--line, #e2ddcd)", borderRadius: 6, background: "var(--paper)" }}>
+        <svg viewBox={`0 0 ${W} ${H}`} style={{ width: "100%", minWidth: 1500, height: "auto", display: "block" }}>
+          {(mode === "rank"
+            ? Array.from({ length: NMAX }, (_, i) => i + 1).map(r => (
+                <g key={"g" + r}>
+                  <line x1={xL} y1={Yr(r)} x2={xR} y2={Yr(r)} stroke="var(--line, #e2ddcd)" strokeOpacity={r % 2 ? 0.6 : 0.3} />
+                  <text x={xL - 8} y={Yr(r) + 4} textAnchor="end" fontSize="10" fill="var(--muted)" fontFamily="IBM Plex Mono, monospace">{r}º</text>
+                </g>))
+            : [0, 0.25, 0.5, 0.75, 1].map((f, i) => { const v = Math.round(maxScore * f); return (
+                <g key={"g" + i}>
+                  <line x1={xL} y1={Ys(v)} x2={xR} y2={Ys(v)} stroke="var(--line, #e2ddcd)" strokeOpacity={0.5} />
+                  <text x={xL - 8} y={Ys(v) + 4} textAnchor="end" fontSize="10" fill="var(--muted)" fontFamily="IBM Plex Mono, monospace">{v}</text>
+                </g>); }))}
+          {YEARS.filter(y => y % 10 === 0).map(y => (
+            <text key={"x" + y} x={X(y)} y={yT - 14} textAnchor="middle" fontSize="11"
+              fill={y === year ? "var(--accent)" : "var(--muted)"} fontFamily="IBM Plex Mono, monospace" fontWeight={y === year ? 700 : 400}>{y}</text>
+          ))}
+          <line x1={X(year)} y1={yT - 6} x2={X(year)} y2={yB + 6} stroke="var(--accent)" strokeWidth="1.3" strokeDasharray="3 3" strokeOpacity="0.7" />
+          {order.map(d => {
+            const pts = [];
+            for (let y = d.debut; y <= year; y++) { const s = sc(d, y); if (s == null) continue;
+              pts.push([X(y), mode === "rank" ? Yr((rankByYear[y] || { m: {} }).m[d.id]) : Ys(s)]); }
+            if (!pts.length) return null;
+            const col = d.color || GREY, w = d.hero ? 3.5 : (d.color ? 2.3 : 1.3), op = d.color ? 1 : 0.5;
+            const last = pts[pts.length - 1];
+            const atEnd = last[0] >= X(year) - 0.5;
+            return (
+              <g key={d.id}>
+                {pts.length > 1 && <path d={"M" + pts.map(p => p[0] + " " + p[1]).join(" L ")} fill="none" stroke={col} strokeWidth={w} strokeOpacity={op} strokeLinejoin="round" strokeLinecap="round" />}
+                <circle cx={last[0]} cy={last[1]} r={d.hero ? 4 : (d.color ? 3 : 2)} fill={col} fillOpacity={op} />
+                <text x={atEnd ? xR + 8 : last[0] + 7} y={last[1] + 3.5} fontSize="12" fontFamily="Newsreader, serif"
+                  fill={d.color ? col : GREY} fontWeight={d.hero ? 700 : 400}>{d.name.replace("A. J. ", "").replace(/^.*? /, m => m)}</text>
+              </g>);
+          })}
+        </svg>
+      </div>
+
+      <div style={{ marginTop: 16 }}>
+        <p style={{ fontFamily: "IBM Plex Mono, monospace", fontSize: "0.62rem", letterSpacing: "0.1em", textTransform: "uppercase", color: "var(--muted)", margin: "0 0 8px" }}>
+          Clasificación a cierre de {year} · índice de hitos</p>
+        <ol style={{ listStyle: "none", margin: 0, padding: 0 }}>
+          {curRank.list.slice(0, 12).map(d => (
+            <li key={d.id} style={{ display: "grid", gridTemplateColumns: "2rem 1fr auto", gap: 8, alignItems: "baseline",
+              padding: "0.3rem 0.4rem", borderBottom: "1px solid var(--line, #e2ddcd)",
+              background: d.hero ? "rgba(176,138,46,0.10)" : "transparent" }}>
+              <span style={{ fontFamily: "IBM Plex Mono, monospace", fontSize: "0.78rem", color: "var(--muted)" }}>{curRank.m[d.id]}º</span>
+              <span style={{ fontWeight: 600, color: d.color || (d.hero ? "#b08a2e" : "var(--ink)") }}>{d.name}{d.debut === year ? <span style={{ color: "var(--accent)", fontFamily: "monospace", fontSize: "0.55rem", letterSpacing: "0.1em", textTransform: "uppercase" }}> ·nuevo</span> : null}</span>
+              <span style={{ fontFamily: "IBM Plex Mono, monospace", fontSize: "0.8rem", color: "var(--ink)" }}>{sc(d, year).toFixed(0)}</span>
+            </li>
+          ))}
+        </ol>
+      </div>
+    </NewsletterSection>
   );
 }
 
