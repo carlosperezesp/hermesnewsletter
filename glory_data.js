@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-08-31 23:54 UTC",
+  "UPDATED": "2026-09-01 00:43 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Aragon motorcycle Grand Prix:Marc Márquez",
@@ -27,6 +27,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-08-24"
     },
     {
+      "id": "rank:sumo:BANZUKE:new1:Onosato",
+      "sport": "sumo",
+      "detail": "Sumo",
+      "anchor": "sumo-banzuke",
+      "text": "Onosato es nuevo nº1 · banzuke",
+      "weight": 92,
+      "firstSeen": "2026-09-01"
+    },
+    {
       "id": "rank:cricket:ROAD_TO_GLORY.players:new1:MA Starc",
       "sport": "cricket",
       "detail": "Cricket",
@@ -36,13 +45,31 @@ window.GLORY_DATA = {
       "firstSeen": "2026-08-25"
     },
     {
-      "id": "rank:golf:CURRENT:new1:Cameron Young",
-      "sport": "golf",
-      "detail": "Golf",
-      "anchor": "golf-nivel-actual",
-      "text": "Cameron Young es nuevo nº1 · Nivel actual",
-      "weight": 92,
-      "firstSeen": "2026-08-17"
+      "id": "rank:sumo:BANZUKE:in:Fujinokawa",
+      "sport": "sumo",
+      "detail": "Sumo",
+      "anchor": "sumo-banzuke",
+      "text": "Fujinokawa entra en el top-10 · banzuke",
+      "weight": 84,
+      "firstSeen": "2026-09-01"
+    },
+    {
+      "id": "rank:sumo:BANZUKE:in:Hakunofuji",
+      "sport": "sumo",
+      "detail": "Sumo",
+      "anchor": "sumo-banzuke",
+      "text": "Hakunofuji entra en el top-10 · banzuke",
+      "weight": 84,
+      "firstSeen": "2026-09-01"
+    },
+    {
+      "id": "rank:sumo:BANZUKE:in:Daieisho",
+      "sport": "sumo",
+      "detail": "Sumo",
+      "anchor": "sumo-banzuke",
+      "text": "Daieisho entra en el top-10 · banzuke",
+      "weight": 84,
+      "firstSeen": "2026-09-01"
     },
     {
       "id": "rank:motogp:RIDERS:in:Fermín Aldeguer",
@@ -88,6 +115,33 @@ window.GLORY_DATA = {
       "text": "BA Carse entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-08-18"
+    },
+    {
+      "id": "rank:sumo:BANZUKE:out:Wakatakakage",
+      "sport": "sumo",
+      "detail": "Sumo",
+      "anchor": "sumo-banzuke",
+      "text": "Wakatakakage cae del top-10 · banzuke",
+      "weight": 74,
+      "firstSeen": "2026-09-01"
+    },
+    {
+      "id": "rank:sumo:BANZUKE:out:Yoshinofuji",
+      "sport": "sumo",
+      "detail": "Sumo",
+      "anchor": "sumo-banzuke",
+      "text": "Yoshinofuji cae del top-10 · banzuke",
+      "weight": 74,
+      "firstSeen": "2026-09-01"
+    },
+    {
+      "id": "rank:sumo:BANZUKE:out:Oho",
+      "sport": "sumo",
+      "detail": "Sumo",
+      "anchor": "sumo-banzuke",
+      "text": "Oho cae del top-10 · banzuke",
+      "weight": 74,
+      "firstSeen": "2026-09-01"
     },
     {
       "id": "rank:motogp:RIDERS:out:Luca Marini",
@@ -347,16 +401,16 @@ window.GLORY_DATA = {
       "Paul Seixas"
     ],
     "sumo:BANZUKE": [
-      "Hoshoryu",
       "Onosato",
+      "Hoshoryu",
       "Kirishima",
       "Kotozakura",
-      "Atamifuji",
-      "Kotoshoho",
-      "Wakatakakage",
       "Aonishiki",
-      "Yoshinofuji",
-      "Oho"
+      "Atamifuji",
+      "Fujinokawa",
+      "Hakunofuji",
+      "Daieisho",
+      "Kotoshoho"
     ],
     "nascar:DRIVERS": [
       "Tyler Reddick",

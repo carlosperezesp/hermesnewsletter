@@ -715,7 +715,7 @@ window.NHL_DATA = {
       "name": "Nathan MacKinnon",
       "pos": "C",
       "teamCode": "COL",
-      "age": 30,
+      "age": 31,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47470,7 +47470,7 @@ window.NHL_DATA = {
           "primary": "#6f263d",
           "secondary": "#236192"
         },
-        "age": 30,
+        "age": 31,
         "careerScore": 69.9,
         "threshold": 93.1,
         "gap": 23.2,
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-08-31 23:51 UTC",
+  "LAST_UPDATE": "2026-09-01 00:40 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-08-31T23:51:00Z"
+    "standingsDateTimeUtc": "2026-09-01T00:40:14Z"
   }
 };
