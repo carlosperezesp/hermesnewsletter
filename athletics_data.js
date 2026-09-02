@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-01 23:25 UTC
+// Auto-generated 2026-09-02 09:40 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-09-01 23:25 UTC",
+  "UPDATED": "2026-09-02 09:40 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -6901,6 +6901,26 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 3,
+              "mark": "65.93",
+              "athlete": "Adriana Vilagoš",
+              "country": "SRB",
+              "flag": "https://flagcdn.com/24x18/rs.png",
+              "primary": "#4A4745",
+              "venue": "Stadio Giuseppe Valente",
+              "date": "01 SEP 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "65.39",
+              "athlete": "Yulenmis Aguilar",
+              "country": "ESP",
+              "flag": "https://flagcdn.com/24x18/es.png",
+              "primary": "#AA151B",
+              "venue": "Stadio Giuseppe Valente",
+              "date": "01 SEP 2026"
+            },
+            {
+              "rank": 5,
               "mark": "65.00",
               "athlete": "Sigrid Borge",
               "country": "NOR",
@@ -6910,7 +6930,7 @@ window.ATHLETICS_DATA = {
               "date": "23 MAY 2026"
             },
             {
-              "rank": 4,
+              "rank": 6,
               "mark": "64.90",
               "athlete": "Haruka Kitaguchi",
               "country": "JPN",
@@ -6920,7 +6940,7 @@ window.ATHLETICS_DATA = {
               "date": "21 AUG 2026"
             },
             {
-              "rank": 5,
+              "rank": 7,
               "mark": "63.88",
               "athlete": "Madison Wiltrout",
               "country": "USA",
@@ -6930,17 +6950,7 @@ window.ATHLETICS_DATA = {
               "date": "23 MAY 2026"
             },
             {
-              "rank": 6,
-              "mark": "63.83",
-              "athlete": "Adriana Vilagoš",
-              "country": "SRB",
-              "flag": "https://flagcdn.com/24x18/rs.png",
-              "primary": "#4A4745",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 7,
+              "rank": 8,
               "mark": "63.50",
               "athlete": "Momone Ueda",
               "country": "JPN",
@@ -6950,7 +6960,7 @@ window.ATHLETICS_DATA = {
               "date": "30 AUG 2026"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "62.78",
               "athlete": "Maria Andrejczyk",
               "country": "POL",
@@ -6960,24 +6970,14 @@ window.ATHLETICS_DATA = {
               "date": "07 JUN 2026"
             },
             {
-              "rank": 9,
-              "mark": "62.61",
+              "rank": 10,
+              "mark": "62.64",
               "athlete": "Sara Kolak",
               "country": "CRO",
               "flag": "https://flagcdn.com/24x18/hr.png",
               "primary": "#FF0000",
-              "venue": "Mestsk Stadion",
-              "date": "16 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "62.54",
-              "athlete": "Lianna Davidson",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "Spec Towns Track",
-              "date": "02 MAY 2026"
+              "venue": "Stadio Giuseppe Valente",
+              "date": "01 SEP 2026"
             }
           ]
         }

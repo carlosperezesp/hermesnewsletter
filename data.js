@@ -11755,7 +11755,7 @@ window.NHL_DATA = {
       "name": "Eetu Luostarinen",
       "pos": "C",
       "teamCode": "FLA",
-      "age": 27,
+      "age": 28,
       "country": "Finland",
       "birthCountry": "FIN",
       "colors": {
@@ -32920,7 +32920,7 @@ window.NHL_DATA = {
       "name": "Jack Finley",
       "pos": "C",
       "teamCode": "STL",
-      "age": 23,
+      "age": 24,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-01 23:23 UTC",
+  "LAST_UPDATE": "2026-09-02 09:38 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-01T23:22:45Z"
+    "standingsDateTimeUtc": "2026-09-02T09:37:30Z"
   }
 };

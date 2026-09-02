@@ -1,6 +1,6 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-09-01 23:25 UTC",
+  "UPDATED": "2026-09-02 09:39 UTC",
   "LAST_MATCH": "2026-08-29",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
@@ -114,56 +114,6 @@ window.RUGBY_DATA = {
         "awayScore": 17,
         "venue": "Queensland Country Bank Stadium",
         "city": "Townsville"
-      },
-      {
-        "date": "2026-08-08",
-        "status": "final",
-        "competition": "International Test Match",
-        "home": {
-          "name": "Argentina",
-          "teamCode": "ARG",
-          "colors": {
-            "primary": "#75aadb",
-            "secondary": "#f6b40e"
-          }
-        },
-        "away": {
-          "name": "South Africa",
-          "teamCode": "RSA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb612"
-          }
-        },
-        "homeScore": 10,
-        "awayScore": 17,
-        "venue": "Estadio José Amalfitani",
-        "city": "Buenos Aires"
-      },
-      {
-        "date": "2026-08-08",
-        "status": "final",
-        "competition": "International Test Match",
-        "home": {
-          "name": "Japan",
-          "teamCode": "JPN",
-          "colors": {
-            "primary": "#bc002d",
-            "secondary": "#ffffff"
-          }
-        },
-        "away": {
-          "name": "Australia",
-          "teamCode": "AUS",
-          "colors": {
-            "primary": "#ffcd00",
-            "secondary": "#00843d"
-          }
-        },
-        "homeScore": 32,
-        "awayScore": 35,
-        "venue": "Hanazono Rugby Stadium",
-        "city": "Osaka"
       }
     ],
     "upcoming": [

@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-01 23:26 UTC",
+  "UPDATED": "2026-09-02 09:40 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Aragon motorcycle Grand Prix:Marc Márquez",
@@ -99,24 +99,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-08-19"
     },
     {
-      "id": "rank:cycling:CURRENT_RIDERS:in:Wout van Aert",
-      "sport": "cycling",
-      "detail": "Ciclismo",
-      "anchor": "cycling-corredores-actuales",
-      "text": "Wout van Aert entra en el top-10 · corredores actuales",
-      "weight": 84,
-      "firstSeen": "2026-08-18"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:in:BA Carse",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "BA Carse entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-08-18"
-    },
-    {
       "id": "rank:sumo:BANZUKE:out:Wakatakakage",
       "sport": "sumo",
       "detail": "Sumo",
@@ -160,24 +142,6 @@ window.GLORY_DATA = {
       "text": "Cole Caufield cae del top-10 · jóvenes promesas",
       "weight": 74,
       "firstSeen": "2026-08-19"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:out:JNT Seales",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "JNT Seales cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-08-18"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:out:KA Maharaj",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "KA Maharaj cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-08-18"
     }
   ],
   "REPORTS": [],
@@ -549,8 +513,8 @@ window.GLORY_DATA = {
       "JJ Bumrah",
       "RA Jadeja",
       "Taijul Islam",
-      "MJ Henry",
       "Mohammed Siraj",
+      "MJ Henry",
       "Mehedi Hasan Miraz",
       "Nauman Ali",
       "BA Carse",
