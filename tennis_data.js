@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-02 16:54 UTC
+// Auto-generated 2026-09-02 17:20 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-02 16:54 UTC",
+  "UPDATED": "2026-09-02 17:20 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -883,7 +883,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 69.2
@@ -5287,7 +5287,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 91.1
@@ -5525,7 +5525,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 85.5
@@ -5967,7 +5967,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 72.9
@@ -6239,7 +6239,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 65.0
@@ -7498,9 +7498,9 @@ window.TENNIS_DATA = {
       "prevListRank": 69,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 57.5
     },
@@ -7977,7 +7977,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 53.6
@@ -11027,15 +11027,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Sebastian Gorzny",
+          "w": "Daniil Medvedev",
           "w_logo": "",
-          "l": "Daniil Medvedev",
+          "l": "Sebastian Gorzny",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 6-3 7-5",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 78.7,
+          "w_score": 78.7,
+          "l_score": null,
           "match_score": 78.7
         },
         {
@@ -11053,15 +11053,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Ben Shelton",
+          "w": "Hubert Hurkacz",
           "w_logo": "",
-          "l": "Hubert Hurkacz",
+          "l": "Ben Shelton",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 76.1,
-          "l_score": 65.5,
+          "scheduled": false,
+          "w_score": 65.5,
+          "l_score": 76.1,
           "match_score": 76.1
         },
         {
@@ -11283,7 +11283,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Diane Parry",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": 85.5,
@@ -11489,7 +11489,6 @@ window.TENNIS_DATA = {
       "Catherine McNally",
       "Coco Gauff",
       "Cristina Bucsa",
-      "Daria Kasatkina",
       "Diana Shnaider",
       "Diane Parry",
       "Donna Vekic",
@@ -11565,6 +11564,7 @@ window.TENNIS_DATA = {
       "Camila Osorio",
       "Carol Young Suh Lee",
       "Clara Tauson",
+      "Daria Kasatkina",
       "Daria Snigur",
       "Darja Semenistaja",
       "Darja Vidmanova",
@@ -11610,8 +11610,8 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez",
       "Zhang Shuai"
     ],
-    "aliveCount": 69,
-    "matchesSeen": 95
+    "aliveCount": 68,
+    "matchesSeen": 97
   },
   "ATP_SCORE_LOG": {
     "206173": [
