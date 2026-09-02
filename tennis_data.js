@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-02 17:20 UTC
+// Auto-generated 2026-09-02 22:41 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-02 17:20 UTC",
+  "UPDATED": "2026-09-02 22:41 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -304,9 +304,9 @@ window.TENNIS_DATA = {
       "prevListRank": 9,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 79.1
     },
@@ -339,7 +339,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 78.7
@@ -407,7 +407,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 76.8
@@ -713,7 +713,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 74.1
@@ -917,7 +917,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 68.2
@@ -1257,7 +1257,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 65.9
@@ -1291,7 +1291,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 65.5
@@ -1325,7 +1325,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 65.6
@@ -1532,9 +1532,9 @@ window.TENNIS_DATA = {
       "prevListRank": 45,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 64.4
     },
@@ -1635,7 +1635,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 63.1
@@ -1941,7 +1941,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 60.5
@@ -2110,9 +2110,9 @@ window.TENNIS_DATA = {
       "prevListRank": 62,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 59.3
     },
@@ -2519,7 +2519,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 56.5
@@ -2688,9 +2688,9 @@ window.TENNIS_DATA = {
       "prevListRank": 79,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 55.7
     },
@@ -2723,7 +2723,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.4
@@ -2824,9 +2824,9 @@ window.TENNIS_DATA = {
       "prevListRank": 83,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 55.3
     },
@@ -3167,7 +3167,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 53.5
@@ -3613,7 +3613,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 51.7
@@ -4127,7 +4127,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 47.9
@@ -4824,9 +4824,9 @@ window.TENNIS_DATA = {
       "prevListRank": 141,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 39.1
     },
@@ -5113,7 +5113,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -5457,7 +5457,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 85.6
@@ -6069,7 +6069,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 70.9
@@ -6102,9 +6102,9 @@ window.TENNIS_DATA = {
       "prevListRank": 28,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 70.9
     },
@@ -6477,7 +6477,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 64.7
@@ -6681,7 +6681,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 64.2
@@ -7158,9 +7158,9 @@ window.TENNIS_DATA = {
       "prevListRank": 59,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 60.5
     },
@@ -8351,7 +8351,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 50.8
@@ -8769,7 +8769,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 48.1
@@ -9740,9 +9740,9 @@ window.TENNIS_DATA = {
       "prevListRank": 134,
       "tournamentStatus": {
         "tournament": "US Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 38.8
     },
@@ -11014,15 +11014,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Rafael Jodar",
+          "w": "Bu Yunchaokete",
           "w_logo": "",
-          "l": "Bu Yunchaokete",
+          "l": "Rafael Jodar",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-1 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 79.1,
-          "l_score": 35.0,
+          "scheduled": false,
+          "w_score": 35.0,
+          "l_score": 79.1,
           "match_score": 79.1
         },
         {
@@ -11044,37 +11044,37 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Andrea Guerrieri",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-2 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 76.8,
           "l_score": null,
           "match_score": 76.8
         },
         {
           "round": "R64",
-          "w": "Hubert Hurkacz",
+          "w": "Ben Shelton",
           "w_logo": "",
-          "l": "Ben Shelton",
+          "l": "Hubert Hurkacz",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 5-7 7-6 (7-3) 7-5",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 65.5,
-          "l_score": 76.1,
+          "w_score": 76.1,
+          "l_score": 65.5,
           "match_score": 76.1
         },
         {
           "round": "R64",
-          "w": "Jiri Lehecka",
+          "w": "Toby Samuel",
           "w_logo": "",
-          "l": "Toby Samuel",
+          "l": "Jiri Lehecka",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 75.6,
-          "l_score": 47.6,
+          "scheduled": false,
+          "w_score": 47.6,
+          "l_score": 75.6,
           "match_score": 75.6
         },
         {
@@ -11231,9 +11231,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sloane Stephens",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.3,
           "l_score": null,
           "match_score": 90.3
@@ -11253,26 +11253,13 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Elina Svitolina",
-          "w_logo": "",
-          "l": "Maya Joint",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 89.9,
-          "l_score": 60.0,
-          "match_score": 89.9
-        },
-        {
-          "round": "R64",
           "w": "Karolina Muchova",
           "w_logo": "",
           "l": "Katie Boulter",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-0",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 85.6,
           "l_score": 63.9,
           "match_score": 85.6
@@ -11292,15 +11279,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Iva Jovic",
+          "w": "Magdalena Frech",
           "w_logo": "",
-          "l": "Magdalena Frech",
+          "l": "Iva Jovic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 76.0,
-          "l_score": 56.9,
+          "scheduled": false,
+          "w_score": 56.9,
+          "l_score": 76.0,
           "match_score": 76.0
         },
         {
@@ -11309,12 +11296,25 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Wang Xinyu",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.8,
           "l_score": null,
           "match_score": 75.8
+        },
+        {
+          "round": "R64",
+          "w": "Diana Shnaider",
+          "w_logo": "",
+          "l": "Karolina Pliskova",
+          "l_logo": "",
+          "score": "6-1 7-6 (7-4)",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 75.5,
+          "l_score": 74.8,
+          "match_score": 75.5
         }
       ]
     }
@@ -11335,13 +11335,11 @@ window.TENNIS_DATA = {
       "Adrian Mannarino",
       "Alejandro Tabilo",
       "Alex Michelsen",
-      "Alex Molcan",
       "Alex de Minaur",
       "Alexander Blockx",
       "Alexander Bublik",
       "Alexander Zverev",
       "Alexei Popyrin",
-      "Andrea Guerrieri",
       "Andrey Rublev",
       "Arthur Gea",
       "Arthur Rinderknech",
@@ -11354,12 +11352,10 @@ window.TENNIS_DATA = {
       "Carlos Taberner",
       "Dalibor Svrcina",
       "Dane Sweeny",
-      "Daniel Altmaier",
       "Daniel Merida",
       "Daniil Medvedev",
       "Denis Shapovalov",
       "Dino Prizmic",
-      "Fabian Marozsan",
       "Felix Auger-Aliassime",
       "Flavio Cobolli",
       "Frances Tiafoe",
@@ -11372,7 +11368,6 @@ window.TENNIS_DATA = {
       "Jaime Faria",
       "Jakub Mensik",
       "James Duckworth",
-      "Jan Choinski",
       "Jan-Lennard Struff",
       "Jaume Munar",
       "Jesper de Jong",
@@ -11386,13 +11381,11 @@ window.TENNIS_DATA = {
       "Luca Van Assche",
       "Luciano Darderi",
       "Marco Trungelliti",
-      "Marcos Giron",
       "Mariano Navone",
       "Matteo Berrettini",
       "Mattia Bellucci",
       "Michael Zheng",
       "Quentin Halys",
-      "Rafael Jodar",
       "Rei Sakamoto",
       "Sebastian Gorzny",
       "Stefanos Tsitsipas",
@@ -11412,6 +11405,8 @@ window.TENNIS_DATA = {
       "Aleksandar Kovacevic",
       "Aleksandar Vukic",
       "Aleksandr Shevchenko",
+      "Alex Molcan",
+      "Andrea Guerrieri",
       "Arthur Fery",
       "Arthur Fils",
       "Cameron Norrie",
@@ -11419,7 +11414,9 @@ window.TENNIS_DATA = {
       "Chak Lam Coleman Wong",
       "Corentin Moutet",
       "Damir Dzumhur",
+      "Daniel Altmaier",
       "Darwin Blanch",
+      "Fabian Marozsan",
       "Facundo Diaz Acosta",
       "Federico Cina",
       "Filip Misolic",
@@ -11431,9 +11428,11 @@ window.TENNIS_DATA = {
       "Hugo Gaston",
       "J.J. Wolf",
       "Jack Kennedy",
+      "Jan Choinski",
       "Jenson Brooksby",
       "Juan Manuel Cerundolo",
       "Lorenzo Sonego",
+      "Marcos Giron",
       "Martin Damm",
       "Martin Landaluce",
       "Marton Fucsovics",
@@ -11444,6 +11443,7 @@ window.TENNIS_DATA = {
       "Nuno Borges",
       "Otto Virtanen",
       "Pablo Carreno Busta",
+      "Rafael Jodar",
       "Raphael Collignon",
       "Rinky Hijikata",
       "Roman Andres Burruchaga",
@@ -11463,8 +11463,8 @@ window.TENNIS_DATA = {
       "Yannick Hanfmann",
       "Zsombor Piros"
     ],
-    "aliveCount": 73,
-    "matchesSeen": 91
+    "aliveCount": 66,
+    "matchesSeen": 97
   },
   "WTA_TOURNAMENT": {
     "name": "US Open",
@@ -11504,7 +11504,6 @@ window.TENNIS_DATA = {
       "Iga Swiatek",
       "Iva Jovic",
       "Jasmine Paolini",
-      "Jelena Ostapenko",
       "Jessica Bouzas Maneiro",
       "Jessica Pegula",
       "Kamilla Rakhimova",
@@ -11520,7 +11519,6 @@ window.TENNIS_DATA = {
       "Linda Noskova",
       "Lucrezia Stefanini",
       "Madison Keys",
-      "Magda Linette",
       "Magdalena Frech",
       "Mananchaya Sawangkaew",
       "Maria Sakkari",
@@ -11528,7 +11526,6 @@ window.TENNIS_DATA = {
       "Marie Bouzkova",
       "Marta Kostyuk",
       "Maya Joint",
-      "Mayar Sherif",
       "Mirra Andreeva",
       "Nadia Podoroska",
       "Naomi Osaka",
@@ -11578,6 +11575,7 @@ window.TENNIS_DATA = {
       "Gabriela Knutson",
       "Hanne Vandewinkel",
       "Janice Tjen",
+      "Jelena Ostapenko",
       "Julia Grabher",
       "Kaitlin Quevedo",
       "Katie Volynets",
@@ -11585,8 +11583,10 @@ window.TENNIS_DATA = {
       "Liudmila Samsonova",
       "Lois Boisson",
       "Lucie Havlickova",
+      "Magda Linette",
       "Maja Chwalinska",
       "Mary Stoiana",
+      "Mayar Sherif",
       "McCartney Kessler",
       "Panna Udvardy",
       "Petra Marcinko",
@@ -11610,8 +11610,8 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez",
       "Zhang Shuai"
     ],
-    "aliveCount": 68,
-    "matchesSeen": 97
+    "aliveCount": 65,
+    "matchesSeen": 99
   },
   "ATP_SCORE_LOG": {
     "206173": [
