@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-02 22:41 UTC
+// Auto-generated 2026-09-02 23:26 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-02 22:41 UTC",
+  "UPDATED": "2026-09-02 23:26 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -441,7 +441,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 76.1
@@ -1189,7 +1189,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 65.9
@@ -1839,7 +1839,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 61.9
@@ -2077,7 +2077,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 59.5
@@ -3303,7 +3303,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 53.5
@@ -11214,15 +11214,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Aryna Sabalenka",
+          "w": "Polina Iatcenko",
           "w_logo": "",
-          "l": "Polina Iatcenko",
+          "l": "Aryna Sabalenka",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 100.0,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 100.0,
           "match_score": 100.0
         },
         {
@@ -11349,7 +11349,6 @@ window.TENNIS_DATA = {
       "Brandon Nakashima",
       "Bu Yunchaokete",
       "Carlos Alcaraz",
-      "Carlos Taberner",
       "Dalibor Svrcina",
       "Dane Sweeny",
       "Daniel Merida",
@@ -11359,7 +11358,6 @@ window.TENNIS_DATA = {
       "Felix Auger-Aliassime",
       "Flavio Cobolli",
       "Frances Tiafoe",
-      "Francesco Passaro",
       "Francisco Cerundolo",
       "Gael Monfils",
       "Hubert Hurkacz",
@@ -11411,6 +11409,7 @@ window.TENNIS_DATA = {
       "Arthur Fils",
       "Cameron Norrie",
       "Camilo Ugo Carabelli",
+      "Carlos Taberner",
       "Chak Lam Coleman Wong",
       "Corentin Moutet",
       "Damir Dzumhur",
@@ -11420,6 +11419,7 @@ window.TENNIS_DATA = {
       "Facundo Diaz Acosta",
       "Federico Cina",
       "Filip Misolic",
+      "Francesco Passaro",
       "Francisco Comesana",
       "Giovanni Mpetshi Perricard",
       "Grigor Dimitrov",
@@ -11463,8 +11463,8 @@ window.TENNIS_DATA = {
       "Yannick Hanfmann",
       "Zsombor Piros"
     ],
-    "aliveCount": 66,
-    "matchesSeen": 97
+    "aliveCount": 64,
+    "matchesSeen": 99
   },
   "WTA_TOURNAMENT": {
     "name": "US Open",
