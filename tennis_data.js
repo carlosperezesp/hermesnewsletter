@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-02 11:30 UTC
+// Auto-generated 2026-09-02 16:54 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-02 11:30 UTC",
+  "UPDATED": "2026-09-02 16:54 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5389,7 +5389,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 90.0
@@ -5899,7 +5899,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 75.5
@@ -5933,7 +5933,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 75.0
@@ -6273,7 +6273,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 67.3
@@ -7193,7 +7193,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 59.5
@@ -8249,7 +8249,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 51.5
@@ -8701,7 +8701,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 48.5
@@ -9495,7 +9495,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 40.5
@@ -9707,7 +9707,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 38.6
@@ -11027,15 +11027,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Daniil Medvedev",
+          "w": "Sebastian Gorzny",
           "w_logo": "",
-          "l": "Sebastian Gorzny",
+          "l": "Daniil Medvedev",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 78.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 78.7,
           "match_score": 78.7
         },
         {
@@ -11244,9 +11244,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sofia Kenin",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.0,
           "l_score": 51.5,
           "match_score": 90.0
@@ -11283,9 +11283,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Diane Parry",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 85.5,
           "l_score": 67.5,
           "match_score": 85.5
@@ -11611,7 +11611,7 @@ window.TENNIS_DATA = {
       "Zhang Shuai"
     ],
     "aliveCount": 69,
-    "matchesSeen": 93
+    "matchesSeen": 95
   },
   "ATP_SCORE_LOG": {
     "206173": [

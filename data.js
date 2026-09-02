@@ -6942,9 +6942,9 @@ window.NHL_DATA = {
       "name": "Luke Evangelista",
       "pos": "RW",
       "teamCode": "NSH",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ffb81c",
         "secondary": "#041e42"
@@ -6966,8 +6966,7 @@ window.NHL_DATA = {
         52,
         54,
         64
-      ],
-      "legendScore": 51.6
+      ]
     },
     {
       "id": 8476874,
@@ -48022,10 +48021,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-02 11:29 UTC",
+  "LAST_UPDATE": "2026-09-02 16:51 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-02T11:28:46Z"
+    "standingsDateTimeUtc": "2026-09-02T16:50:30Z"
   }
 };

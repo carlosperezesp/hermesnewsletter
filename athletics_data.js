@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-02 11:30 UTC
+// Auto-generated 2026-09-02 16:53 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-09-02 11:30 UTC",
+  "UPDATED": "2026-09-02 16:53 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -1432,7 +1432,108 @@ window.ATHLETICS_DATA = {
               "year": 2006
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "12.75",
+              "athlete": "Ja&#39;Kobe Tharp",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Hayward Field",
+              "date": "10 JUN 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "12.86",
+              "athlete": "Jamal Britt",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "12.95",
+              "athlete": "Kendrick Smallwood",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Hayward Field",
+              "date": "12 JUN 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "12.98",
+              "athlete": "Trey Cunningham",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Stadio Olimpico",
+              "date": "04 JUN 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "13.00",
+              "athlete": "Shunsuke Izumiya",
+              "country": "JPN",
+              "flag": "https://flagcdn.com/24x18/jp.png",
+              "primary": "#BC002D",
+              "venue": "Sports Park Mladost",
+              "date": "26 JUN 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "13.00",
+              "athlete": "Cordell Tinch",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Icahn Stadium",
+              "date": "26 JUL 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "13.00",
+              "athlete": "Bradley Franklin",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Icahn Stadium",
+              "date": "26 JUL 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "13.01",
+              "athlete": "Demario Prince",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "13.01",
+              "athlete": "Kendry L. Men&#201;ndez",
+              "country": "CUB",
+              "flag": "https://flagcdn.com/24x18/cu.png",
+              "primary": "#002A8F",
+              "venue": "Olympic Stadium",
+              "date": "18 JUL 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "13.04",
+              "athlete": "Jamar Marshall",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Cushing Stadium",
+              "date": "06 JUN 2026"
+            }
+          ]
         },
         {
           "id": "100mh_w",
@@ -4600,108 +4701,7 @@ window.ATHLETICS_DATA = {
               "year": 2005
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "4.95",
-              "athlete": "Nina Kennedy",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "Stade Louis II",
-              "date": "10 JUL 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "4.91",
-              "athlete": "Polina Knoroz",
-              "country": "RUS",
-              "flag": "https://flagcdn.com/24x18/ru.png",
-              "primary": "#0039A6",
-              "venue": "Olympic Stadium",
-              "date": "20 JUN 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "4.90",
-              "athlete": "Sandi Morris",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Icahn Stadium",
-              "date": "25 JUL 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "4.90",
-              "athlete": "Hana Moll",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Haputbahnhof",
-              "date": "26 AUG 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "4.85",
-              "athlete": "Molly Caudery",
-              "country": "GBR",
-              "flag": "https://flagcdn.com/24x18/gb.png",
-              "primary": "#012169",
-              "venue": "Kujawsko-Pomorska Arena",
-              "date": "22 MAR 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "4.85",
-              "athlete": "Angelica Moser",
-              "country": "SUI",
-              "flag": "https://flagcdn.com/24x18/ch.png",
-              "primary": "#D52B1E",
-              "venue": "Haputbahnhof",
-              "date": "26 AUG 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "4.84",
-              "athlete": "Amanda Moll",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Hayward Field",
-              "date": "11 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "4.81",
-              "athlete": "Eliza Mccartney",
-              "country": "NZL",
-              "flag": "https://flagcdn.com/24x18/nz.png",
-              "primary": "#4A4745",
-              "venue": "Douglas Track  Field",
-              "date": "07 MAR 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "4.81",
-              "athlete": "Imogen Ayris",
-              "country": "NZL",
-              "flag": "https://flagcdn.com/24x18/nz.png",
-              "primary": "#4A4745",
-              "venue": "Paavo Nurmen Stadion",
-              "date": "03 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "4.81",
-              "athlete": "Wilma Heltel&#196;",
-              "country": "FIN",
-              "flag": "https://flagcdn.com/24x18/fi.png",
-              "primary": "#4A4745",
-              "venue": "Pl. Panathinaikou Stadiou",
-              "date": "05 JUL 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "lj_m",

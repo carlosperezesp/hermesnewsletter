@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-02 11:30 UTC",
+  "UPDATED": "2026-09-02 16:53 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1612,
+    "matches": 1613,
     "archives": [
       {
         "name": "Tests",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 82
+        "matches": 83
       },
       {
         "name": "MLC",
@@ -2170,12 +2170,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 94.4,
+          "score": 94.7,
           "batting": 23.4,
-          "bowling": 94.8,
-          "overall": 94.4,
-          "runs": 1223,
-          "wickets": 131
+          "bowling": 95.4,
+          "overall": 94.7,
+          "runs": 1241,
+          "wickets": 132
         },
         {
           "id": "ba-stokes",
@@ -2552,12 +2552,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 94.8,
+          "score": 95.4,
           "batting": 23.4,
-          "bowling": 94.8,
-          "overall": 94.4,
-          "runs": 1223,
-          "wickets": 131
+          "bowling": 95.4,
+          "overall": 94.7,
+          "runs": 1241,
+          "wickets": 132
         },
         {
           "id": "haris-rauf",
