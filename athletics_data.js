@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-03 22:36 UTC
+// Auto-generated 2026-09-03 23:23 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-09-03 22:36 UTC",
+  "UPDATED": "2026-09-03 23:23 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -3175,108 +3175,7 @@ window.ATHLETICS_DATA = {
               "year": 2023
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "12:47.62",
-              "athlete": "Addisu Yihune",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "12:47.73",
-              "athlete": "Birhanu Balew",
-              "country": "BRN",
-              "flag": "https://flagcdn.com/24x18/bh.png",
-              "primary": "#CE1126",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "12:48.61",
-              "athlete": "Andreas Almgren",
-              "country": "SWE",
-              "flag": "https://flagcdn.com/24x18/se.png",
-              "primary": "#006AA7",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "12:49.45",
-              "athlete": "Parker Wolfe",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "12:49.61",
-              "athlete": "Grant Fisher",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "12:49.99",
-              "athlete": "Graham Blanks",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "12:50.17",
-              "athlete": "Mezgebu Sime",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "12:50.82",
-              "athlete": "Ky Robinson",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "12:52.54",
-              "athlete": "Dominic Lokinyomo Lobalu",
-              "country": "SUI",
-              "flag": "https://flagcdn.com/24x18/ch.png",
-              "primary": "#D52B1E",
-              "venue": "Stade Louis II",
-              "date": "10 JUL 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "12:53.71",
-              "athlete": "Jacob Krop",
-              "country": "KEN",
-              "flag": "https://flagcdn.com/24x18/ke.png",
-              "primary": "#006600",
-              "venue": "Stade Louis II",
-              "date": "10 JUL 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "5000m_w",

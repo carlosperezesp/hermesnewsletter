@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-03 22:37 UTC
+// Auto-generated 2026-09-03 23:23 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-03 22:37 UTC",
+  "UPDATED": "2026-09-03 23:23 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -917,7 +917,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 68.2
@@ -1019,7 +1019,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 67.1
@@ -3167,7 +3167,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 53.5
@@ -11070,9 +11070,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Gael Monfils",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.1,
           "l_score": null,
           "match_score": 75.1
@@ -11231,9 +11231,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Paula Badosa",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 91.1,
           "l_score": 53.1,
           "match_score": 91.1
@@ -11464,7 +11464,7 @@ window.TENNIS_DATA = {
       "Zsombor Piros"
     ],
     "aliveCount": 64,
-    "matchesSeen": 107
+    "matchesSeen": 108
   },
   "WTA_TOURNAMENT": {
     "name": "US Open",
