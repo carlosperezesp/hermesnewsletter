@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-03 16:43 UTC
+// Auto-generated 2026-09-03 17:11 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-03 16:43 UTC",
+  "UPDATED": "2026-09-03 17:11 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -9287,7 +9287,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 42.3
@@ -11270,9 +11270,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lilli Tagger",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 85.5,
           "l_score": 61.2,
           "match_score": 85.5
