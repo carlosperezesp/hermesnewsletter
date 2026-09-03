@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-03 17:09 UTC
+// Auto-generated 2026-09-03 22:35 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-09-03 17:09 UTC",
+  "UPDATED": "2026-09-03 22:35 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -693,7 +693,7 @@ window.CYCLING_DATA = {
     "name": "Vuelta a España",
     "start": "2026-08-15",
     "end": "2026-09-06",
-    "stage": 10,
+    "stage": 13,
     "total_stages": 21,
     "jersey_primary": "#E8002D",
     "jersey_name": "Maillot Rojo",
@@ -718,7 +718,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/es.png",
         "team": "MOV men",
         "primary": "#AA151B",
-        "time": "32h 41' 44\"",
+        "time": "40h 33' 36\"",
         "legendScore": 0.0
       },
       {
@@ -728,7 +728,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/si.png",
         "team": "RBH",
         "primary": "#003DA5",
-        "time": "+ 1' 18\"",
+        "time": "+ 1' 45\"",
         "legendScore": 22.4
       },
       {
@@ -738,57 +738,57 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/at.png",
         "team": "DCT",
         "primary": "#ED2939",
-        "time": "+ 1' 39\"",
+        "time": "+ 2' 06\"",
         "legendScore": 0.0
       },
       {
         "rank": 4,
-        "name": "Oscar Onley",
-        "country": "GBR",
-        "logo": "https://flagcdn.com/24x18/gb.png",
-        "team": "NCI",
-        "primary": "#012169",
-        "time": "+ 2' 20\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 5,
         "name": "Richard Carapaz",
         "country": "ECU",
         "logo": "https://flagcdn.com/24x18/ec.png",
         "team": "EFE",
         "primary": "#FFD100",
-        "time": "+ 3' 26\"",
+        "time": "+ 3' 53\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 5,
+        "name": "Oscar Onley",
+        "country": "GBR",
+        "logo": "https://flagcdn.com/24x18/gb.png",
+        "team": "NCI",
+        "primary": "#012169",
+        "time": "+ 4' 29\"",
         "legendScore": 0.0
       },
       {
         "rank": 6,
+        "name": "Jakob Omrzel",
+        "country": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "team": "TBV",
+        "primary": "#003DA5",
+        "time": "+ 4' 59\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 7,
         "name": "Mattias Skjelmose",
         "country": "DEN",
         "logo": "https://flagcdn.com/24x18/dk.png",
         "team": "LTK men",
         "primary": "#C60C30",
-        "time": "+ 3' 55\"",
+        "time": "+ 7' 42\"",
         "legendScore": 0.0
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "Sepp Kuss",
         "country": "USA",
         "logo": "https://flagcdn.com/24x18/us.png",
         "team": "TVL men",
         "primary": "#B22234",
-        "time": "+ 4' 09\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 8,
-        "name": "Harold Tejada",
-        "country": "COL",
-        "logo": "https://flagcdn.com/24x18/co.png",
-        "team": "XAT",
-        "primary": "#FCD116",
-        "time": "+ 4' 39\"",
+        "time": "+ 7' 58\"",
         "legendScore": 0.0
       },
       {
@@ -798,17 +798,17 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/at.png",
         "team": "DCT",
         "primary": "#ED2939",
-        "time": "+ 7' 33\"",
+        "time": "+ 8' 27\"",
         "legendScore": 0.0
       },
       {
         "rank": 10,
-        "name": "Jakob Omrzel",
-        "country": "SLO",
-        "logo": "https://flagcdn.com/24x18/si.png",
-        "team": "TBV",
-        "primary": "#003DA5",
-        "time": "+ 8' 05\"",
+        "name": "Harold Tejada",
+        "country": "COL",
+        "logo": "https://flagcdn.com/24x18/co.png",
+        "team": "XAT",
+        "primary": "#FCD116",
+        "time": "+ 8' 33\"",
         "legendScore": 0.0
       }
     ],
