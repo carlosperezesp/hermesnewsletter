@@ -1,9 +1,9 @@
-// Auto-generated 2026-09-03 11:26 UTC
+// Auto-generated 2026-09-03 16:41 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-09-03 11:26 UTC",
+  "UPDATED": "2026-09-03 16:41 UTC",
   "SEASON": "2026",
-  "ROUND": 25,
-  "IMPORTANCE": 9.5,
+  "ROUND": 26,
+  "IMPORTANCE": 10.0,
   "LEGEND_THRESHOLD": 70.5,
   "LADDER": [
     {
@@ -1057,24 +1057,14 @@ window.AFL_DATA = {
   ],
   "LAST_ROUND": [
     {
-      "hteam": "Western Bulldogs",
-      "hscore": 96,
-      "ateam": "Collingwood",
-      "ascore": 93,
-      "winner": "Western Bulldogs",
-      "date": "2026-08-28",
-      "hprimary": "#0039A6",
-      "aprimary": "#000000"
-    },
-    {
-      "hteam": "Melbourne",
-      "hscore": 55,
-      "ateam": "Carlton",
-      "ascore": 74,
-      "winner": "Carlton",
-      "date": "2026-08-29",
-      "hprimary": "#CC2031",
-      "aprimary": "#0E1E2D"
+      "hteam": "Fremantle",
+      "hscore": 40,
+      "ateam": "Hawthorn",
+      "ascore": 72,
+      "winner": "Hawthorn",
+      "date": "2026-09-03",
+      "hprimary": "#2A0D54",
+      "aprimary": "#4D2004"
     }
   ],
   "CURRENT_CONTENDERS": [
