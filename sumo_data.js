@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-02 23:23 UTC
+// Auto-generated 2026-09-03 09:51 UTC
 window.SUMO_DATA = {
-  "UPDATED": "2026-09-02 23:23 UTC",
+  "UPDATED": "2026-09-03 09:51 UTC",
   "LEGENDS": [
     {
       "id": "hakuho",
@@ -342,7 +342,7 @@ window.SUMO_DATA = {
       "rankShort": "Sekiwake",
       "yusho": 0,
       "legendScore": 0.0,
-      "age": 23,
+      "age": 24,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "primary": "#BC002D"
@@ -619,7 +619,7 @@ window.SUMO_DATA = {
       "id": "atamifuji",
       "name": "Atamifuji",
       "rankShort": "Sekiwake",
-      "age": 23,
+      "age": 24,
       "wins": 0,
       "losses": 0,
       "absences": 0,
@@ -627,7 +627,7 @@ window.SUMO_DATA = {
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "primary": "#BC002D",
-      "projectedScore": 79.0
+      "projectedScore": 77.5
     },
     {
       "id": "hakunofuji",

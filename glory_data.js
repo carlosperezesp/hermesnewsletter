@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-02 23:26 UTC",
+  "UPDATED": "2026-09-03 09:53 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Aragon motorcycle Grand Prix:Marc Márquez",
@@ -90,15 +90,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-08-25"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Victor Eklund",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Victor Eklund entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-08-19"
-    },
-    {
       "id": "rank:sumo:BANZUKE:out:Wakatakakage",
       "sport": "sumo",
       "detail": "Sumo",
@@ -133,15 +124,6 @@ window.GLORY_DATA = {
       "text": "Luca Marini cae del top-10 · Mundial",
       "weight": 74,
       "firstSeen": "2026-08-30"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Cole Caufield",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Cole Caufield cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-08-19"
     }
   ],
   "REPORTS": [],
