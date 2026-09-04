@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-04 16:35 UTC
+// Auto-generated 2026-09-04 17:02 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-09-04 16:35 UTC",
+  "UPDATED": "2026-09-04 17:02 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -829,7 +829,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/co.png",
       "team": "TBV",
       "primary": "#FCD116",
-      "points": 52,
+      "points": 58,
       "legendScore": 0.0
     },
     "young_leader": {
@@ -839,7 +839,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/gb.png",
       "team": "NCI",
       "primary": "#012169",
-      "time": "40h 36' 20\"",
+      "time": "45h 13' 20\"",
       "legendScore": 0.0
     }
   },

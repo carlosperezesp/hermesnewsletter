@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-04 16:37 UTC
+// Auto-generated 2026-09-04 17:05 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-04 16:37 UTC",
+  "UPDATED": "2026-09-04 17:05 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8735,7 +8735,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 48.7
@@ -11018,24 +11018,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alexander Bublik",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 79.8,
           "l_score": 75.4,
           "match_score": 79.8
         },
         {
           "round": "R32",
-          "w": "Daniil Medvedev",
+          "w": "Arthur Rinderknech",
           "w_logo": "",
-          "l": "Arthur Rinderknech",
+          "l": "Daniil Medvedev",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 78.7,
-          "l_score": 65.5,
+          "scheduled": false,
+          "w_score": 65.5,
+          "l_score": 78.7,
           "match_score": 78.7
         },
         {
@@ -11214,15 +11214,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R32",
-          "w": "Kamilla Rakhimova",
+          "w": "Aryna Sabalenka",
           "w_logo": "",
-          "l": "Aryna Sabalenka",
+          "l": "Kamilla Rakhimova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 48.3,
-          "l_score": 100.0,
+          "w_score": 100.0,
+          "l_score": 48.3,
           "match_score": 100.0
         },
         {
