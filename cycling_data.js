@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-04 11:28 UTC
+// Auto-generated 2026-09-04 16:35 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-09-04 11:28 UTC",
+  "UPDATED": "2026-09-04 16:35 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -718,7 +718,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/es.png",
         "team": "MOV men",
         "primary": "#AA151B",
-        "time": "40h 31' 51\"",
+        "time": "45h 08' 51\"",
         "legendScore": 0.0
       },
       {
@@ -778,7 +778,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/dk.png",
         "team": "LTK men",
         "primary": "#C60C30",
-        "time": "+ 7' 42\"",
+        "time": "+ 5' 32\"",
         "legendScore": 0.0
       },
       {
@@ -793,22 +793,22 @@ window.CYCLING_DATA = {
       },
       {
         "rank": 9,
-        "name": "Gregor Mühlberger",
-        "country": "AUT",
-        "logo": "https://flagcdn.com/24x18/at.png",
-        "team": "DCT",
-        "primary": "#ED2939",
-        "time": "+ 8' 27\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 10,
         "name": "Harold Tejada",
         "country": "COL",
         "logo": "https://flagcdn.com/24x18/co.png",
         "team": "XAT",
         "primary": "#FCD116",
         "time": "+ 8' 33\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 10,
+        "name": "Clément Berthet",
+        "country": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "team": "GFC",
+        "primary": "#002395",
+        "time": "+ 11' 06\"",
         "legendScore": 0.0
       }
     ],

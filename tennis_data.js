@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-04 11:30 UTC
+// Auto-generated 2026-09-04 16:37 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-04 11:30 UTC",
+  "UPDATED": "2026-09-04 16:37 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5967,7 +5967,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 72.9
@@ -6205,7 +6205,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 68.8
@@ -11214,15 +11214,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R32",
-          "w": "Aryna Sabalenka",
+          "w": "Kamilla Rakhimova",
           "w_logo": "",
-          "l": "Kamilla Rakhimova",
+          "l": "Aryna Sabalenka",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 100.0,
-          "l_score": 48.3,
+          "scheduled": false,
+          "w_score": 48.3,
+          "l_score": 100.0,
           "match_score": 100.0
         },
         {
@@ -11244,24 +11244,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ekaterina Alexandrova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.3,
           "l_score": 68.8,
           "match_score": 90.3
         },
         {
           "round": "R32",
-          "w": "Jessica Pegula",
+          "w": "Leylah Fernandez",
           "w_logo": "",
-          "l": "Leylah Fernandez",
+          "l": "Jessica Pegula",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 90.0,
-          "l_score": 67.2,
+          "scheduled": false,
+          "w_score": 67.2,
+          "l_score": 90.0,
           "match_score": 90.0
         },
         {
@@ -11283,9 +11283,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jasmine Paolini",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 85.5,
           "l_score": 72.8,
           "match_score": 85.5

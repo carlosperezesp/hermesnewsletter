@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-04 11:29 UTC
+// Auto-generated 2026-09-04 16:36 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-09-04 11:29 UTC",
+  "UPDATED": "2026-09-04 16:36 UTC",
   "SEASON": "2026",
   "ROUND": 26,
   "IMPORTANCE": 10.0,
@@ -1065,6 +1065,16 @@ window.AFL_DATA = {
       "date": "2026-09-03",
       "hprimary": "#2A0D54",
       "aprimary": "#4D2004"
+    },
+    {
+      "hteam": "Geelong",
+      "hscore": 107,
+      "ateam": "Carlton",
+      "ascore": 74,
+      "winner": "Geelong",
+      "date": "2026-09-04",
+      "hprimary": "#002A54",
+      "aprimary": "#0E1E2D"
     }
   ],
   "CURRENT_CONTENDERS": [
