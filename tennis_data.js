@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-04 22:24 UTC
+// Auto-generated 2026-09-04 23:08 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-04 22:24 UTC",
+  "UPDATED": "2026-09-04 23:08 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5355,7 +5355,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 90.3
@@ -5763,7 +5763,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 78.7
@@ -6341,7 +6341,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 66.7
@@ -11066,15 +11066,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R32",
-          "w": "Alex Michelsen",
+          "w": "Daniel Merida",
           "w_logo": "",
-          "l": "Daniel Merida",
+          "l": "Alex Michelsen",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 65.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 65.7,
           "match_score": 65.7
         },
         {
@@ -11296,7 +11296,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ann Li",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-7 (6-8) 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 78.7,
@@ -11611,7 +11611,7 @@ window.TENNIS_DATA = {
       "Zhang Shuai"
     ],
     "aliveCount": 64,
-    "matchesSeen": 114
+    "matchesSeen": 115
   },
   "ATP_SCORE_LOG": {
     "206173": [

@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-04 22:23 UTC
+// Auto-generated 2026-09-04 23:07 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-09-04 22:23 UTC",
+  "UPDATED": "2026-09-04 23:07 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -774,7 +774,108 @@ window.ATHLETICS_DATA = {
               "year": 2023
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "21.51",
+              "athlete": "Julien Alfred",
+              "country": "LCA",
+              "flag": "https://flagcdn.com/24x18/lc.png",
+              "primary": "#4A4745",
+              "venue": "Stade Louis II",
+              "date": "10 JUL 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "21.68",
+              "athlete": "Adaejah Hodge",
+              "country": "IVB",
+              "flag": "https://flagcdn.com/24x18/vg.png",
+              "primary": "#012169",
+              "venue": "Hayward Field",
+              "date": "13 JUN 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "21.69",
+              "athlete": "Melissa Jefferson-Wooden",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Icahn Stadium",
+              "date": "26 JUL 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "21.70",
+              "athlete": "Gabrielle Thomas",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Cushing Stadium",
+              "date": "06 JUN 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "21.87",
+              "athlete": "Shericka Jackson",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Egret Stadium",
+              "date": "23 MAY 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "21.92",
+              "athlete": "Kayla White",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "14 JUL 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "21.93",
+              "athlete": "Cambrea Sturgis",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Nyayo National Stadium",
+              "date": "24 APR 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "22.03",
+              "athlete": "Favour Ofili",
+              "country": "NGR",
+              "flag": "https://flagcdn.com/24x18/ng.png",
+              "primary": "#008751",
+              "venue": "Centro Gabre Gabric",
+              "date": "30 AUG 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "22.04",
+              "athlete": "Shaunae Miller-Uibo",
+              "country": "BAH",
+              "flag": "https://flagcdn.com/24x18/bs.png",
+              "primary": "#4A4745",
+              "venue": "Egret Stadium",
+              "date": "23 MAY 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "22.07",
+              "athlete": "JaMeesia Ford",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Hutsell-Rosen Track",
+              "date": "25 APR 2026"
+            }
+          ]
         },
         {
           "id": "400m_m",
