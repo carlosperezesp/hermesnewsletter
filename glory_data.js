@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-03 23:23 UTC",
+  "UPDATED": "2026-09-04 09:42 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Aragon motorcycle Grand Prix:Marc Márquez",
@@ -43,6 +43,15 @@ window.GLORY_DATA = {
       "text": "MA Starc es nuevo nº1 · Road to Glory",
       "weight": 92,
       "firstSeen": "2026-08-25"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:JC Tongue",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "JC Tongue entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-09-04"
     },
     {
       "id": "rank:sumo:BANZUKE:in:Fujinokawa",
@@ -88,6 +97,15 @@ window.GLORY_DATA = {
       "text": "Mohammed Siraj entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-08-25"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:out:Mehedi Hasan Miraz",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "Mehedi Hasan Miraz cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-09-04"
     },
     {
       "id": "rank:sumo:BANZUKE:out:Wakatakakage",
@@ -497,10 +515,10 @@ window.GLORY_DATA = {
       "Taijul Islam",
       "Mohammed Siraj",
       "MJ Henry",
-      "Mehedi Hasan Miraz",
       "Nauman Ali",
       "BA Carse",
-      "Sajid Khan"
+      "Sajid Khan",
+      "JC Tongue"
     ],
     "athletics:allTime:100m_m": [
       "Usain Bolt",

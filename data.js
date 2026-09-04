@@ -24259,7 +24259,7 @@ window.NHL_DATA = {
       "name": "Ryan Winterton",
       "pos": "C",
       "teamCode": "SEA",
-      "age": 22,
+      "age": 23,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -48021,10 +48021,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-03 23:20 UTC",
+  "LAST_UPDATE": "2026-09-04 09:40 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-03T23:19:45Z"
+    "standingsDateTimeUtc": "2026-09-04T09:39:30Z"
   }
 };
