@@ -60,6 +60,14 @@
     },
     {
       "rank": 7,
+      "mark": "43.40",
+      "athlete": "Busang Collen Kebinatshipi",
+      "country": "BOT",
+      "year": 2026,
+      "venue": "Boudewijnstadion"
+    },
+    {
+      "rank": 8,
       "mark": "43.44",
       "athlete": "Michael Johnson",
       "country": "USA",
@@ -68,7 +76,7 @@
       "venue": "Atlanta"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "mark": "43.44",
       "athlete": "Matthew Hudson-Smith",
       "country": "GBR",
@@ -77,21 +85,12 @@
       "venue": "Saint-Denis"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "mark": "43.44",
       "athlete": "Busang Collen Kebinatshipi",
       "country": "BOT",
       "year": 2026,
       "venue": "Stade Louis II"
-    },
-    {
-      "rank": 10,
-      "mark": "43.45",
-      "athlete": "Jeremy Wariner",
-      "country": "USA",
-      "year": 2007,
-      "date": "31 August 2007",
-      "venue": "Osaka"
     }
   ]
 }

@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-04 17:05 UTC",
+  "UPDATED": "2026-09-04 22:24 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Aragon motorcycle Grand Prix:Marc Márquez",
@@ -575,10 +575,10 @@ window.GLORY_DATA = {
       "Samuel Ogazi",
       "Michael Johnson",
       "Quincy Hall",
+      "Busang Collen Kebinatshipi",
       "Michael Johnson",
       "Matthew Hudson-Smith",
-      "Busang Collen Kebinatshipi",
-      "Jeremy Wariner"
+      "Busang Collen Kebinatshipi"
     ],
     "athletics:allTime:400m_w": [
       "Marita Koch",
