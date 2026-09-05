@@ -4115,7 +4115,7 @@ window.NHL_DATA = {
       "name": "Matthew Schaefer",
       "pos": "D",
       "teamCode": "NYI",
-      "age": 18,
+      "age": 19,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -20239,7 +20239,7 @@ window.NHL_DATA = {
       "name": "Filip Chytil",
       "pos": "C",
       "teamCode": "VAN",
-      "age": 26,
+      "age": 27,
       "country": "Czechia",
       "birthCountry": "CZE",
       "colors": {
@@ -23892,7 +23892,7 @@ window.NHL_DATA = {
       "name": "Max Sasson",
       "pos": "C",
       "teamCode": "VAN",
-      "age": 25,
+      "age": 26,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -48021,10 +48021,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-04 23:05 UTC",
+  "LAST_UPDATE": "2026-09-05 09:05 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-04T23:05:00Z"
+    "standingsDateTimeUtc": "2026-09-05T09:05:00Z"
   }
 };
