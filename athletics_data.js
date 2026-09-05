@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-05 16:15 UTC
+// Auto-generated 2026-09-05 22:04 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-09-05 16:15 UTC",
+  "UPDATED": "2026-09-05 22:04 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -1672,6 +1672,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 3,
+              "mark": "12.33",
+              "athlete": "Devynne Charlton",
+              "country": "BAH",
+              "flag": "https://flagcdn.com/24x18/bs.png",
+              "primary": "#4A4745",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
+            },
+            {
+              "rank": 4,
               "mark": "12.34",
               "athlete": "Nadine Visser",
               "country": "NED",
@@ -1679,16 +1689,6 @@ window.ATHLETICS_DATA = {
               "primary": "#AE1C28",
               "venue": "Letzigrund",
               "date": "27 AUG 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "12.37",
-              "athlete": "Devynne Charlton",
-              "country": "BAH",
-              "flag": "https://flagcdn.com/24x18/bs.png",
-              "primary": "#4A4745",
-              "venue": "Egret Stadium",
-              "date": "23 MAY 2026"
             },
             {
               "rank": 5,
@@ -1742,13 +1742,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 10,
-              "mark": "12.44",
-              "athlete": "Aaliyah Mccormick",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "John McDonnell Field",
-              "date": "30 MAY 2026"
+              "mark": "12.43",
+              "athlete": "Megan Simmonds",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
             }
           ]
         },
@@ -2961,6 +2961,36 @@ window.ATHLETICS_DATA = {
           "season": [
             {
               "rank": 1,
+              "mark": "3:54.05",
+              "athlete": "Klaudia Kazimierska",
+              "country": "POL",
+              "flag": "https://flagcdn.com/24x18/pl.png",
+              "primary": "#DC143C",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "3:54.72",
+              "athlete": "Dorcus Ewoi",
+              "country": "KEN",
+              "flag": "https://flagcdn.com/24x18/ke.png",
+              "primary": "#006600",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "3:54.73",
+              "athlete": "Jessica Hull",
+              "country": "AUS",
+              "flag": "https://flagcdn.com/24x18/au.png",
+              "primary": "#00008B",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
+            },
+            {
+              "rank": 4,
               "mark": "3:55.06",
               "athlete": "Tsige Duguma",
               "country": "ETH",
@@ -2970,17 +3000,7 @@ window.ATHLETICS_DATA = {
               "date": "23 AUG 2026"
             },
             {
-              "rank": 2,
-              "mark": "3:55.20",
-              "athlete": "Jessica Hull",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "Stadion Śląski",
-              "date": "23 AUG 2026"
-            },
-            {
-              "rank": 3,
+              "rank": 5,
               "mark": "3:55.56",
               "athlete": "Birke Haylom",
               "country": "ETH",
@@ -2988,26 +3008,6 @@ window.ATHLETICS_DATA = {
               "primary": "#078930",
               "venue": "China Textile City Sports Centre",
               "date": "16 MAY 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "3:55.58",
-              "athlete": "Dorcus Ewoi",
-              "country": "KEN",
-              "flag": "https://flagcdn.com/24x18/ke.png",
-              "primary": "#006600",
-              "venue": "Stadion Śląski",
-              "date": "23 AUG 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "3:55.59",
-              "athlete": "Klaudia Kazimierska",
-              "country": "POL",
-              "flag": "https://flagcdn.com/24x18/pl.png",
-              "primary": "#DC143C",
-              "venue": "Stadion Śląski",
-              "date": "23 AUG 2026"
             },
             {
               "rank": 6,
@@ -3178,6 +3178,36 @@ window.ATHLETICS_DATA = {
           "season": [
             {
               "rank": 1,
+              "mark": "12:45.70",
+              "athlete": "Birhanu Balew",
+              "country": "BRN",
+              "flag": "https://flagcdn.com/24x18/bh.png",
+              "primary": "#CE1126",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "12:46.73",
+              "athlete": "Egide Ntakarutimana",
+              "country": "BDI",
+              "flag": "https://flagcdn.com/24x18/bi.png",
+              "primary": "#4A4745",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "12:47.29",
+              "athlete": "Cornelius Kemboi",
+              "country": "KEN",
+              "flag": "https://flagcdn.com/24x18/ke.png",
+              "primary": "#006600",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
+            },
+            {
+              "rank": 4,
               "mark": "12:47.62",
               "athlete": "Addisu Yihune",
               "country": "ETH",
@@ -3187,17 +3217,37 @@ window.ATHLETICS_DATA = {
               "date": "10 JUN 2026"
             },
             {
-              "rank": 2,
-              "mark": "12:47.73",
-              "athlete": "Birhanu Balew",
-              "country": "BRN",
-              "flag": "https://flagcdn.com/24x18/bh.png",
-              "primary": "#CE1126",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
+              "rank": 5,
+              "mark": "12:47.78",
+              "athlete": "Biniam Mehary",
+              "country": "ETH",
+              "flag": "https://flagcdn.com/24x18/et.png",
+              "primary": "#078930",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
             },
             {
-              "rank": 3,
+              "rank": 6,
+              "mark": "12:47.98",
+              "athlete": "Graham Blanks",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "12:48.12",
+              "athlete": "Nico Young",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
+            },
+            {
+              "rank": 8,
               "mark": "12:48.61",
               "athlete": "Andreas Almgren",
               "country": "SWE",
@@ -3207,7 +3257,7 @@ window.ATHLETICS_DATA = {
               "date": "10 JUN 2026"
             },
             {
-              "rank": 4,
+              "rank": 9,
               "mark": "12:49.45",
               "athlete": "Parker Wolfe",
               "country": "USA",
@@ -3217,7 +3267,7 @@ window.ATHLETICS_DATA = {
               "date": "10 JUN 2026"
             },
             {
-              "rank": 5,
+              "rank": 10,
               "mark": "12:49.61",
               "athlete": "Grant Fisher",
               "country": "USA",
@@ -3225,56 +3275,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Bislett Stadion",
               "date": "10 JUN 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "12:49.99",
-              "athlete": "Graham Blanks",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "12:50.17",
-              "athlete": "Mezgebu Sime",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "12:50.82",
-              "athlete": "Ky Robinson",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "12:52.54",
-              "athlete": "Dominic Lokinyomo Lobalu",
-              "country": "SUI",
-              "flag": "https://flagcdn.com/24x18/ch.png",
-              "primary": "#D52B1E",
-              "venue": "Stade Louis II",
-              "date": "10 JUL 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "12:53.71",
-              "athlete": "Jacob Krop",
-              "country": "KEN",
-              "flag": "https://flagcdn.com/24x18/ke.png",
-              "primary": "#006600",
-              "venue": "Stade Louis II",
-              "date": "10 JUL 2026"
             }
           ]
         },
@@ -4724,6 +4724,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 3,
+              "mark": "4.91",
+              "athlete": "Hana Moll",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
+            },
+            {
+              "rank": 4,
               "mark": "4.90",
               "athlete": "Sandi Morris",
               "country": "USA",
@@ -4731,16 +4741,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Icahn Stadium",
               "date": "25 JUL 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "4.90",
-              "athlete": "Hana Moll",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Haputbahnhof",
-              "date": "26 AUG 2026"
             },
             {
               "rank": 5,
@@ -5796,6 +5796,16 @@ window.ATHLETICS_DATA = {
           "season": [
             {
               "rank": 1,
+              "mark": "23.08",
+              "athlete": "Rajindra Campbell",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
+            },
+            {
+              "rank": 2,
               "mark": "22.74",
               "athlete": "Leonardo Fabbri",
               "country": "ITA",
@@ -5803,16 +5813,6 @@ window.ATHLETICS_DATA = {
               "primary": "#009246",
               "venue": "Hayward Field",
               "date": "04 JUL 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "22.59",
-              "athlete": "Rajindra Campbell",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Centro Gabre Gabric",
-              "date": "30 AUG 2026"
             },
             {
               "rank": 3,
@@ -6714,6 +6714,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 6,
+              "mark": "87.47",
+              "athlete": "Dawid Wegner",
+              "country": "POL",
+              "flag": "https://flagcdn.com/24x18/pl.png",
+              "primary": "#DC143C",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
+            },
+            {
+              "rank": 7,
               "mark": "86.93",
               "athlete": "Anderson Peters",
               "country": "GRN",
@@ -6723,7 +6733,7 @@ window.ATHLETICS_DATA = {
               "date": "27 AUG 2026"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "85.73",
               "athlete": "Cameron Mcentyre",
               "country": "AUS",
@@ -6733,7 +6743,7 @@ window.ATHLETICS_DATA = {
               "date": "16 JUL 2026"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "85.65",
               "athlete": "Aliaksei Katkavets",
               "country": "BLR",
@@ -6743,7 +6753,7 @@ window.ATHLETICS_DATA = {
               "date": "07 MAY 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "85.41",
               "athlete": "Yash Vir Singh",
               "country": "IND",
@@ -6751,16 +6761,6 @@ window.ATHLETICS_DATA = {
               "primary": "#4A4745",
               "venue": "Scotstoun Stadium",
               "date": "31 JUL 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "85.24",
-              "athlete": "Jakub Vadlejch",
-              "country": "CZE",
-              "flag": "https://flagcdn.com/24x18/cz.png",
-              "primary": "#11457E",
-              "venue": "National Stadium",
-              "date": "17 MAY 2026"
             }
           ]
         },
@@ -6911,6 +6911,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 4,
+              "mark": "65.44",
+              "athlete": "Haruka Kitaguchi",
+              "country": "JPN",
+              "flag": "https://flagcdn.com/24x18/jp.png",
+              "primary": "#BC002D",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
+            },
+            {
+              "rank": 5,
               "mark": "65.39",
               "athlete": "Yulenmis Aguilar",
               "country": "ESP",
@@ -6920,7 +6930,7 @@ window.ATHLETICS_DATA = {
               "date": "01 SEP 2026"
             },
             {
-              "rank": 5,
+              "rank": 6,
               "mark": "65.00",
               "athlete": "Sigrid Borge",
               "country": "NOR",
@@ -6928,16 +6938,6 @@ window.ATHLETICS_DATA = {
               "primary": "#EF2B2D",
               "venue": "Egret Stadium",
               "date": "23 MAY 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "64.90",
-              "athlete": "Haruka Kitaguchi",
-              "country": "JPN",
-              "flag": "https://flagcdn.com/24x18/jp.png",
-              "primary": "#BC002D",
-              "venue": "Stade Olympique de la Pontaise",
-              "date": "21 AUG 2026"
             },
             {
               "rank": 7,
