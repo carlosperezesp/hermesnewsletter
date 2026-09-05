@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-05 10:45 UTC
+// Auto-generated 2026-09-05 15:32 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-09-05 10:45 UTC",
+  "UPDATED": "2026-09-05 15:32 UTC",
   "SEASON": "2026",
   "ROUND": 26,
   "IMPORTANCE": 10.0,
@@ -1085,6 +1085,16 @@ window.AFL_DATA = {
       "date": "2026-09-05",
       "hprimary": "#F57F00",
       "aprimary": "#7B1A4B"
+    },
+    {
+      "hteam": "Adelaide",
+      "hscore": 90,
+      "ateam": "Western Bulldogs",
+      "ascore": 68,
+      "winner": "Adelaide",
+      "date": "2026-09-05",
+      "hprimary": "#002B5C",
+      "aprimary": "#0039A6"
     }
   ],
   "CURRENT_CONTENDERS": [
