@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-05 15:34 UTC
+// Auto-generated 2026-09-05 16:15 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-05 15:34 UTC",
+  "UPDATED": "2026-09-05 16:15 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11014,15 +11014,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R32",
-          "w": "Taylor Fritz",
+          "w": "Francisco Cerundolo",
           "w_logo": "",
-          "l": "Francisco Cerundolo",
+          "l": "Taylor Fritz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 75.7,
-          "l_score": 73.6,
+          "scheduled": false,
+          "w_score": 73.6,
+          "l_score": 75.7,
           "match_score": 75.7
         },
         {

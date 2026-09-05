@@ -1,6 +1,6 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-09-05 15:33 UTC",
+  "UPDATED": "2026-09-05 16:14 UTC",
   "LAST_MATCH": "2026-09-05",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
@@ -144,7 +144,7 @@ window.RUGBY_DATA = {
     "upcoming": [
       {
         "date": "2026-09-05",
-        "status": "scheduled",
+        "status": "live",
         "competition": "International Test Match",
         "home": {
           "name": "South Africa",
@@ -162,8 +162,8 @@ window.RUGBY_DATA = {
             "secondary": "#d8d8d8"
           }
         },
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 12,
+        "awayScore": 12,
         "venue": "FNB Stadium",
         "city": "Johannesburg"
       },
