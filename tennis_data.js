@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-06 22:09 UTC
+// Auto-generated 2026-09-06 22:57 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-06 22:09 UTC",
+  "UPDATED": "2026-09-06 22:57 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -339,7 +339,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 78.7
@@ -611,7 +611,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 75.3
@@ -1257,7 +1257,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 65.7
@@ -11005,7 +11005,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Daniil Medvedev",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-1) 6-4 7-6 (8-6)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 75.3,
@@ -11373,7 +11373,7 @@ window.TENNIS_DATA = {
       "Zsombor Piros"
     ],
     "aliveCount": 64,
-    "matchesSeen": 120
+    "matchesSeen": 121
   },
   "WTA_TOURNAMENT": {
     "name": "US Open · Montreux Nestlé Open · ATIK Antalya Open",
