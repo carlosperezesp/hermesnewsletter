@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-06 16:27 UTC
+// Auto-generated 2026-09-06 22:09 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-06 16:27 UTC",
+  "UPDATED": "2026-09-06 22:09 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -237,7 +237,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 79.8
@@ -1463,7 +1463,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 64.9
@@ -5185,7 +5185,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 100.0
@@ -5355,7 +5355,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 90.3
@@ -5763,7 +5763,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 78.7
@@ -7193,7 +7193,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 59.5
@@ -10979,9 +10979,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tommy Paul",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.9,
           "l_score": 79.8,
           "match_score": 90.9
@@ -11001,15 +11001,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R16",
-          "w": "Daniil Medvedev",
+          "w": "Frances Tiafoe",
           "w_logo": "",
-          "l": "Frances Tiafoe",
+          "l": "Daniil Medvedev",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 78.7,
-          "l_score": 75.3,
+          "scheduled": false,
+          "w_score": 75.3,
+          "l_score": 78.7,
           "match_score": 78.7
         },
         {
@@ -11044,9 +11044,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tomas Martin Etcheverry",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (8-6) 6-4 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 65.7,
           "l_score": 64.9,
           "match_score": 65.7
@@ -11175,15 +11175,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R16",
-          "w": "Taylor Townsend",
+          "w": "Aryna Sabalenka",
           "w_logo": "",
-          "l": "Aryna Sabalenka",
+          "l": "Taylor Townsend",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 59.5,
-          "l_score": 100.0,
+          "w_score": 100.0,
+          "l_score": 59.5,
           "match_score": 100.0
         },
         {
@@ -11201,15 +11201,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R16",
-          "w": "Marta Kostyuk",
+          "w": "Linda Noskova",
           "w_logo": "",
-          "l": "Linda Noskova",
+          "l": "Marta Kostyuk",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 5-7 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 90.3,
-          "l_score": 78.7,
+          "scheduled": false,
+          "w_score": 78.7,
+          "l_score": 90.3,
           "match_score": 90.3
         },
         {
@@ -11576,7 +11576,7 @@ window.TENNIS_DATA = {
       "Zhang Shuai"
     ],
     "aliveCount": 113,
-    "matchesSeen": 145
+    "matchesSeen": 146
   },
   "ATP_SCORE_LOG": {
     "206173": [
