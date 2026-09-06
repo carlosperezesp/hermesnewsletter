@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-05 23:00 UTC
+// Auto-generated 2026-09-06 09:27 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-09-05 23:00 UTC",
+  "UPDATED": "2026-09-06 09:27 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -693,7 +693,7 @@ window.CYCLING_DATA = {
     "name": "Vuelta a España",
     "start": "2026-08-15",
     "end": "2026-09-06",
-    "stage": 13,
+    "stage": 14,
     "total_stages": 21,
     "jersey_primary": "#E8002D",
     "jersey_name": "Maillot Rojo",
@@ -718,21 +718,11 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/es.png",
         "team": "MOV men",
         "primary": "#AA151B",
-        "time": "45h 08' 51\"",
+        "time": "49h 28' 12\"",
         "legendScore": 0.0
       },
       {
         "rank": 2,
-        "name": "Primož Roglič",
-        "country": "SLO",
-        "logo": "https://flagcdn.com/24x18/si.png",
-        "team": "RBH",
-        "primary": "#003DA5",
-        "time": "+ 1' 45\"",
-        "legendScore": 22.4
-      },
-      {
-        "rank": 3,
         "name": "Felix Gall",
         "country": "AUT",
         "logo": "https://flagcdn.com/24x18/at.png",
@@ -742,13 +732,23 @@ window.CYCLING_DATA = {
         "legendScore": 0.0
       },
       {
+        "rank": 3,
+        "name": "Primož Roglič",
+        "country": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "team": "RBH",
+        "primary": "#003DA5",
+        "time": "+ 2' 10\"",
+        "legendScore": 22.4
+      },
+      {
         "rank": 4,
         "name": "Richard Carapaz",
         "country": "ECU",
         "logo": "https://flagcdn.com/24x18/ec.png",
         "team": "EFE",
         "primary": "#FFD100",
-        "time": "+ 3' 53\"",
+        "time": "+ 4' 24\"",
         "legendScore": 0.0
       },
       {
@@ -758,7 +758,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/gb.png",
         "team": "NCI",
         "primary": "#012169",
-        "time": "+ 4' 29\"",
+        "time": "+ 5' 44\"",
         "legendScore": 0.0
       },
       {
@@ -768,7 +768,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/si.png",
         "team": "TBV",
         "primary": "#003DA5",
-        "time": "+ 4' 59\"",
+        "time": "+ 6' 14\"",
         "legendScore": 0.0
       },
       {
@@ -778,37 +778,37 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/dk.png",
         "team": "LTK men",
         "primary": "#C60C30",
-        "time": "+ 5' 32\"",
+        "time": "+ 6' 49\"",
         "legendScore": 0.0
       },
       {
         "rank": 8,
-        "name": "Sepp Kuss",
-        "country": "USA",
-        "logo": "https://flagcdn.com/24x18/us.png",
-        "team": "TVL men",
-        "primary": "#B22234",
-        "time": "+ 7' 58\"",
+        "name": "Cristián Rodríguez",
+        "country": "ESP",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "team": "XAT",
+        "primary": "#AA151B",
+        "time": "+ 7' 01\"",
         "legendScore": 0.0
       },
       {
         "rank": 9,
-        "name": "Harold Tejada",
-        "country": "COL",
-        "logo": "https://flagcdn.com/24x18/co.png",
-        "team": "XAT",
-        "primary": "#FCD116",
-        "time": "+ 8' 33\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 10,
         "name": "Clément Berthet",
         "country": "FRA",
         "logo": "https://flagcdn.com/24x18/fr.png",
         "team": "GFC",
         "primary": "#002395",
-        "time": "+ 11' 06\"",
+        "time": "+ 7' 19\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 10,
+        "name": "Sepp Kuss",
+        "country": "USA",
+        "logo": "https://flagcdn.com/24x18/us.png",
+        "team": "TVL men",
+        "primary": "#B22234",
+        "time": "+ 8' 55\"",
         "legendScore": 0.0
       }
     ],
@@ -829,7 +829,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/co.png",
       "team": "TBV",
       "primary": "#FCD116",
-      "points": 58,
+      "points": 69,
       "legendScore": 0.0
     },
     "young_leader": {
@@ -839,7 +839,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/gb.png",
       "team": "NCI",
       "primary": "#012169",
-      "time": "45h 13' 20\"",
+      "time": "49h 33' 56\"",
       "legendScore": 0.0
     }
   },

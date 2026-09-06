@@ -1,15 +1,15 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-09-05 23:00 UTC",
+  "UPDATED": "2026-09-06 09:29 UTC",
   "LAST_MATCH": "2026-09-05",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 352,
+    "incrementalMatches": 353,
     "teams": 162,
-    "matches": 10047,
+    "matches": 10048,
     "through": "2026-09-05"
   },
   "IMPORTANCE": 7.0,
@@ -39,6 +39,31 @@ window.RUGBY_DATA = {
         "awayScore": 24,
         "venue": "FNB Stadium",
         "city": "Johannesburg"
+      },
+      {
+        "date": "2026-09-05",
+        "status": "final",
+        "competition": "International Test Match",
+        "home": {
+          "name": "Argentina",
+          "teamCode": "ARG",
+          "colors": {
+            "primary": "#75aadb",
+            "secondary": "#f6b40e"
+          }
+        },
+        "away": {
+          "name": "Australia",
+          "teamCode": "AUS",
+          "colors": {
+            "primary": "#ffcd00",
+            "secondary": "#00843d"
+          }
+        },
+        "homeScore": 28,
+        "awayScore": 28,
+        "venue": "Estadio Malvinas Argentinas",
+        "city": "Mendoza"
       },
       {
         "date": "2026-09-05",
@@ -167,31 +192,6 @@ window.RUGBY_DATA = {
       }
     ],
     "upcoming": [
-      {
-        "date": "2026-09-05",
-        "status": "live",
-        "competition": "International Test Match",
-        "home": {
-          "name": "Argentina",
-          "teamCode": "ARG",
-          "colors": {
-            "primary": "#75aadb",
-            "secondary": "#f6b40e"
-          }
-        },
-        "away": {
-          "name": "Australia",
-          "teamCode": "AUS",
-          "colors": {
-            "primary": "#ffcd00",
-            "secondary": "#00843d"
-          }
-        },
-        "homeScore": 14,
-        "awayScore": 14,
-        "venue": "Estadio Malvinas Argentinas",
-        "city": "Mendoza"
-      },
       {
         "date": "2026-09-12",
         "status": "scheduled",
@@ -466,6 +466,31 @@ window.RUGBY_DATA = {
         "awayScore": null,
         "venue": "Allianz Stadium",
         "city": ""
+      },
+      {
+        "date": "2026-11-07",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "France",
+          "teamCode": "FRA",
+          "colors": {
+            "primary": "#1d4f91",
+            "secondary": "#d80f2a"
+          }
+        },
+        "away": {
+          "name": "Fiji",
+          "teamCode": "FIJ",
+          "colors": {
+            "primary": "#6ecff6",
+            "secondary": "#111111"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Groupama Stadium",
+        "city": "Lyon"
       }
     ]
   },
@@ -624,46 +649,46 @@ window.RUGBY_DATA = {
       "name": "Australia",
       "teamCode": "AUS",
       "country": "Australia",
-      "elo": 2270.0,
-      "eloRaw": 2270.0,
-      "lastMatch": "2026-08-29",
-      "inactiveDays": 7,
+      "elo": 2271.6,
+      "eloRaw": 2271.6,
+      "lastMatch": "2026-09-05",
+      "inactiveDays": 0,
       "peakElo": 2471.1,
       "peakDate": "2015-10-25",
       "worldCups": 2,
       "record": {
         "w": 352,
         "l": 336,
-        "d": 20
+        "d": 21
       },
       "colors": {
         "primary": "#ffcd00",
         "secondary": "#00843d"
       },
-      "note": "352V-336D-20E · último 2026-08-29 · raw 2270"
+      "note": "352V-336D-21E · último 2026-09-05 · raw 2272"
     },
     {
       "rank": 8,
       "name": "Argentina",
       "teamCode": "ARG",
       "country": "Argentina",
-      "elo": 2251.0,
-      "eloRaw": 2251.0,
-      "lastMatch": "2026-08-29",
-      "inactiveDays": 7,
+      "elo": 2249.3,
+      "eloRaw": 2249.3,
+      "lastMatch": "2026-09-05",
+      "inactiveDays": 0,
       "peakElo": 2354.6,
       "peakDate": "2025-11-16",
       "worldCups": 0,
       "record": {
         "w": 259,
         "l": 232,
-        "d": 13
+        "d": 14
       },
       "colors": {
         "primary": "#75aadb",
         "secondary": "#f6b40e"
       },
-      "note": "259V-232D-13E · último 2026-08-29 · raw 2251"
+      "note": "259V-232D-14E · último 2026-09-05 · raw 2249"
     },
     {
       "rank": 9,
