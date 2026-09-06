@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-06 09:30 UTC
+// Auto-generated 2026-09-06 11:09 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-06 09:30 UTC",
+  "UPDATED": "2026-09-06 11:09 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8557,10 +8557,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "US Open · Montreux Nestlé Open · ATIK Antalya Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "ATIK Antalya Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 48.9
     },
@@ -9353,10 +9353,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "US Open · Montreux Nestlé Open · ATIK Antalya Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "ATIK Antalya Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 42.8
     },
@@ -9459,7 +9459,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "US Open",
+        "tournament": "ATIK Antalya Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -9953,10 +9953,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "US Open · Montreux Nestlé Open · ATIK Antalya Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "ATIK Antalya Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 36.1
     },
@@ -11398,6 +11398,7 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
+      "Alevtina Ibragimova",
       "Alexandra Eala",
       "Alice Tubello",
       "Amanda Anisimova",
@@ -11405,12 +11406,16 @@ window.TENNIS_DATA = {
       "Anastasia Zolotareva",
       "Anastasiia Sobolieva",
       "Andrea Lazaro Garcia",
+      "Ane Mintegi Del Olmo",
       "Angela Fita Boluda",
       "Ann Li",
       "Anna Bondar",
       "Anna Kalinskaya",
       "Aryna Sabalenka",
+      "Aurora Zantedeschi",
       "Barbora Palicova",
+      "Berfu Cengiz",
+      "Cagla Buyukakcay",
       "Catherine McNally",
       "Coco Gauff",
       "Cristina Bucsa",
@@ -11421,45 +11426,59 @@ window.TENNIS_DATA = {
       "Diane Parry",
       "Donna Vekic",
       "Ekaterina Alexandrova",
+      "Elena Pridankina",
       "Elena Rybakina",
       "Elina Svitolina",
       "Elise Mertens",
+      "Elizara Yaneva",
       "Emma Navarro",
+      "Eva Bennemann",
       "Eva Lys",
+      "Federica Urgesi",
       "Fiona Ferro",
       "Francesca Curmi",
       "Francesca Jones",
+      "Gina Feistel",
       "Guiomar Maristany Zuleta De Reales",
       "Harriet Dart",
       "Himeno Sakatsume",
       "Iga Swiatek",
+      "Irene Burillo",
       "Iva Jovic",
       "Jasmine Paolini",
       "Jessica Bouzas Maneiro",
       "Jessica Pegula",
+      "Julie Struplova",
       "Kamilla Rakhimova",
       "Karolina Muchova",
       "Karolina Pliskova",
+      "Katarzyna Kawa",
       "Katerina Siniakova",
       "Katie Boulter",
       "Kimberly Birrell",
       "Lanlana Tararudee",
       "Leolia Jeanjean",
       "Leylah Fernandez",
+      "Leyre Romero Gormaz",
       "Lilli Tagger",
+      "Lina Gjorcheska",
       "Linda Noskova",
       "Lola Radivojevic",
+      "Lucia Bronzetti",
       "Lucie Havlickova",
       "Lucrezia Stefanini",
       "Madison Keys",
       "Mananchaya Sawangkaew",
+      "Maria Lourdes Carle",
       "Maria Sakkari",
       "Maria Timofeeva",
       "Marie Bouzkova",
       "Marina Bassols Ribera",
       "Marta Kostyuk",
       "Maya Joint",
+      "Mia Ristic",
       "Mina Hodzic",
+      "Miriam Bulgaru",
       "Mirra Andreeva",
       "Mona Barthel",
       "Nadia Podoroska",
@@ -11471,10 +11490,13 @@ window.TENNIS_DATA = {
       "Oleksandra Oliynykova",
       "Paula Badosa",
       "Polina Iatcenko",
+      "Radka Zelnickova",
+      "Raluka Serban",
       "Rebeka Masarova",
       "Simona Waltert",
       "Sloane Stephens",
       "Sofia Kenin",
+      "Sofya Lansere",
       "Sorana Cirstea",
       "Tamara Zidansek",
       "Tatjana Maria",
@@ -11483,9 +11505,12 @@ window.TENNIS_DATA = {
       "Tessa Johanna Brockmann",
       "Valentina Ryser",
       "Wang Xinyu",
+      "Weronika Falkowska",
+      "Yasmine Kabbaj",
       "Yulia Putintseva",
       "Yuliia Starodubtseva",
-      "Zheng Qinwen"
+      "Zheng Qinwen",
+      "Zhibek Kulambayeva"
     ],
     "out": [
       "Alina Korneeva",
@@ -11550,8 +11575,8 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez",
       "Zhang Shuai"
     ],
-    "aliveCount": 88,
-    "matchesSeen": 132
+    "aliveCount": 113,
+    "matchesSeen": 145
   },
   "ATP_SCORE_LOG": {
     "206173": [
