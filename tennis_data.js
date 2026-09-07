@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-07 22:53 UTC
+// Auto-generated 2026-09-07 23:37 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-07 22:53 UTC",
+  "UPDATED": "2026-09-07 23:37 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11101,9 +11101,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Iva Jovic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 91.1,
           "l_score": 76.0,
           "match_score": 91.1
@@ -11304,9 +11304,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Vendula Valdmannova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 51.8,
           "l_score": null,
           "match_score": 51.8
