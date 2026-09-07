@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-06 22:57 UTC",
+  "UPDATED": "2026-09-07 10:21 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Aragon motorcycle Grand Prix:Marc Márquez",

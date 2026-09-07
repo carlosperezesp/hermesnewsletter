@@ -18931,7 +18931,7 @@ window.NHL_DATA = {
       "name": "Adam Sykora",
       "pos": "LW",
       "teamCode": "NYR",
-      "age": 21,
+      "age": 22,
       "country": "Slovakia",
       "birthCountry": "SVK",
       "colors": {
@@ -18956,7 +18956,7 @@ window.NHL_DATA = {
         45,
         51
       ],
-      "legendScore": 47.5
+      "legendScore": 46.9
     },
     {
       "id": 8479718,
@@ -48021,10 +48021,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-06 22:55 UTC",
+  "LAST_UPDATE": "2026-09-07 10:19 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-06T22:55:15Z"
+    "standingsDateTimeUtc": "2026-09-07T10:18:45Z"
   }
 };

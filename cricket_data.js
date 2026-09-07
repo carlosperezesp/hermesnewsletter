@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-06 22:57 UTC",
+  "UPDATED": "2026-09-07 10:20 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1606,
+    "matches": 1604,
     "archives": [
       {
         "name": "Tests",
@@ -13,7 +13,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 140
+        "matches": 139
       },
       {
         "name": "T20Is",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 80
+        "matches": 79
       },
       {
         "name": "MLC",
@@ -1386,7 +1386,7 @@ window.CRICKET_DATA = {
           "batting": 60.5,
           "bowling": 0.4,
           "overall": 9.1,
-          "runs": 2449,
+          "runs": 2430,
           "wickets": 0
         },
         {
@@ -2172,9 +2172,9 @@ window.CRICKET_DATA = {
           "logo": "",
           "score": 95.4,
           "batting": 23.4,
-          "bowling": 95.4,
+          "bowling": 95.5,
           "overall": 95.4,
-          "runs": 1241,
+          "runs": 1224,
           "wickets": 132
         },
         {
@@ -2552,11 +2552,11 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 95.4,
+          "score": 95.5,
           "batting": 23.4,
-          "bowling": 95.4,
+          "bowling": 95.5,
           "overall": 95.4,
-          "runs": 1241,
+          "runs": 1224,
           "wickets": 132
         },
         {
