@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-07 17:55 UTC
+// Auto-generated 2026-09-07 18:24 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-07 17:55 UTC",
+  "UPDATED": "2026-09-07 18:24 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10975,15 +10975,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R16",
-          "w": "Francisco Cerundolo",
+          "w": "Alexander Blockx",
           "w_logo": "",
-          "l": "Alexander Blockx",
+          "l": "Francisco Cerundolo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 73.6,
-          "l_score": 72.4,
+          "scheduled": false,
+          "w_score": 72.4,
+          "l_score": 73.6,
           "match_score": 73.6
         },
         {
