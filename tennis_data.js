@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-07 18:24 UTC
+// Auto-generated 2026-09-07 22:53 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-07 18:24 UTC",
+  "UPDATED": "2026-09-07 22:53 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -781,7 +781,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 73.6
@@ -5219,7 +5219,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 93.0
@@ -5695,7 +5695,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 79.7
@@ -8835,8 +8835,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "US Open",
-        "state": "out",
+        "tournament": "Kia Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -8869,8 +8869,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 109,
       "tournamentStatus": {
-        "tournament": "US Open",
-        "state": "out",
+        "tournament": "Kia Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -9597,7 +9597,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "US Open",
+        "tournament": "Kia Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -9812,7 +9812,7 @@ window.TENNIS_DATA = {
       "prevListRank": 136,
       "tournamentStatus": {
         "tournament": "Kia Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -10966,9 +10966,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Karen Khachanov",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.1,
           "l_score": 67.1,
           "match_score": 75.1
@@ -10979,7 +10979,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Francisco Cerundolo",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 4-6 7-5 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": 72.4,
@@ -10992,9 +10992,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Arthur Gea",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 60.5,
           "l_score": 56.4,
           "match_score": 60.5
@@ -11075,9 +11075,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Naomi Osaka",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 93.0,
           "l_score": 79.7,
           "match_score": 93.0
@@ -11147,7 +11147,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Denisa Zoldakova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "5-7 6-2 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 35.0,
@@ -11232,7 +11232,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Berfu Cengiz",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (8-10) 7-5 7-6 (8-6)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 36.1,
@@ -11313,28 +11313,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Lucrezia Stefanini",
+          "w": "Anastasia Tikhonova",
           "w_logo": "",
-          "l": "Julieta Pareja",
+          "l": "Darja Semenistaja",
           "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 40.5,
-          "l_score": null,
-          "match_score": 40.5
-        },
-        {
-          "round": "R128",
-          "w": "Darja Semenistaja",
-          "w_logo": "",
-          "l": "Anastasia Tikhonova",
-          "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 4-6 7-5",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 38.5,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 38.5,
           "match_score": 38.5
         },
         {
@@ -11343,9 +11330,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Suzan Lamens",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 37.0,
           "l_score": null,
           "match_score": 37.0
@@ -11369,9 +11356,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Katrina Scott",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11570,21 +11557,20 @@ window.TENNIS_DATA = {
       "Anna Blinkova",
       "Anna Bondar",
       "Anna Kalinskaya",
+      "Anna Rogers",
       "Aryna Sabalenka",
       "Aurora Zantedeschi",
       "Barbora Palicova",
-      "Berfu Cengiz",
       "Cadence Brace",
       "Cagla Buyukakcay",
       "Carol Young Suh Lee",
+      "Carolina Alves",
       "Catherine McNally",
       "Claire Liu",
       "Clara Burel",
       "Coco Gauff",
       "Cristina Bucsa",
       "Dalma Galfi",
-      "Darja Semenistaja",
-      "Denisa Zoldakova",
       "Despina Papamichail",
       "Diana Shnaider",
       "Diane Parry",
@@ -11596,8 +11582,11 @@ window.TENNIS_DATA = {
       "Elina Svitolina",
       "Elise Mertens",
       "Elizara Yaneva",
+      "Elsa Jacquemot",
+      "Emanuela Lares",
       "Emiliana Arango",
       "Emma Navarro",
+      "Ena Koike",
       "Eva Bennemann",
       "Eva Lys",
       "Eva Vedder",
@@ -11621,6 +11610,7 @@ window.TENNIS_DATA = {
       "Julia Riera",
       "Julie Struplova",
       "Julieta Pareja",
+      "Kaitlin Quevedo",
       "Kamilla Rakhimova",
       "Karolina Muchova",
       "Karolina Pliskova",
@@ -11679,7 +11669,6 @@ window.TENNIS_DATA = {
       "Sloane Stephens",
       "Sofia Kenin",
       "Sorana Cirstea",
-      "Suzan Lamens",
       "Tatjana Maria",
       "Taylah Preston",
       "Taylor Townsend",
@@ -11709,16 +11698,18 @@ window.TENNIS_DATA = {
       "Ashlyn Krueger",
       "Barbora Krejcikova",
       "Belinda Bencic",
+      "Berfu Cengiz",
       "Camila Osorio",
       "Clara Tauson",
       "Daria Kasatkina",
       "Daria Snigur",
+      "Darja Semenistaja",
       "Darja Vidmanova",
       "Dayana Yastremska",
+      "Denisa Zoldakova",
       "Elena-Gabriela Ruse",
       "Elisabetta Cocciaretto",
       "Ella Seidel",
-      "Elsa Jacquemot",
       "Elvina Kalieva",
       "Francesca Curmi",
       "Gabriela Knutson",
@@ -11726,7 +11717,6 @@ window.TENNIS_DATA = {
       "Janice Tjen",
       "Jelena Ostapenko",
       "Julia Grabher",
-      "Kaitlin Quevedo",
       "Katie Volynets",
       "Kristina Liutova",
       "Liudmila Samsonova",
@@ -11751,6 +11741,7 @@ window.TENNIS_DATA = {
       "Sofya Lansere",
       "Solana Sierra",
       "Storm Hunter",
+      "Suzan Lamens",
       "Talia Gibson",
       "Tamara Korpatsch",
       "Tamara Zidansek",
@@ -11763,8 +11754,8 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez",
       "Zhang Shuai"
     ],
-    "aliveCount": 141,
-    "matchesSeen": 168
+    "aliveCount": 143,
+    "matchesSeen": 173
   },
   "ATP_SCORE_LOG": {
     "206173": [
