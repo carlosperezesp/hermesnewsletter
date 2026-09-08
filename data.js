@@ -19666,9 +19666,9 @@ window.NHL_DATA = {
       "name": "Otto Stenberg",
       "pos": "C",
       "teamCode": "STL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 21,
+      "country": "Sweden",
+      "birthCountry": "SWE",
       "colors": {
         "primary": "#002f87",
         "secondary": "#fcb514"
@@ -19690,7 +19690,8 @@ window.NHL_DATA = {
         44,
         46,
         51
-      ]
+      ],
+      "legendScore": 47.5
     },
     {
       "id": 8483490,
@@ -22635,9 +22636,9 @@ window.NHL_DATA = {
       "name": "Theo Lindstein",
       "pos": "D",
       "teamCode": "STL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 21,
+      "country": "Sweden",
+      "birthCountry": "SWE",
       "colors": {
         "primary": "#002f87",
         "secondary": "#fcb514"
@@ -35493,9 +35494,9 @@ window.NHL_DATA = {
       "name": "Aleksanteri Kaskimaki",
       "pos": "C",
       "teamCode": "STL",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 22,
+      "country": "Finland",
+      "birthCountry": "FIN",
       "colors": {
         "primary": "#002f87",
         "secondary": "#fcb514"
@@ -48021,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-08 11:28 UTC",
+  "LAST_UPDATE": "2026-09-08 16:50 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-08T11:28:15Z"
+    "standingsDateTimeUtc": "2026-09-08T16:50:00Z"
   }
 };
