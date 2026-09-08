@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-08 09:44 UTC
+// Auto-generated 2026-09-08 11:31 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-08 09:44 UTC",
+  "UPDATED": "2026-09-08 11:31 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8665,7 +8665,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Montreux Nestlé Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 48.7
@@ -9955,7 +9955,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "ATIK Antalya Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 36.1
@@ -11298,9 +11298,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lucie Havlickova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 51.4,
           "l_score": null,
           "match_score": 51.4
@@ -11320,15 +11320,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Angela Fita Boluda",
+          "w": "Andrea Lazaro Garcia",
           "w_logo": "",
-          "l": "Andrea Lazaro Garcia",
+          "l": "Angela Fita Boluda",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-1",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 48.7,
+          "w_score": 48.7,
+          "l_score": null,
           "match_score": 48.7
         },
         {
@@ -11389,9 +11389,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Katerina Tsygourova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11422,9 +11422,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Raluka Serban",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 41.0,
           "l_score": null,
           "match_score": 41.0
@@ -11435,7 +11435,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Julie Struplova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 7-6 (7-2)",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11487,9 +11487,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Samira De Stefano",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11807,7 +11807,6 @@ window.TENNIS_DATA = {
       "Anastasiia Sobolieva",
       "Andrea Lazaro Garcia",
       "Ane Mintegi Del Olmo",
-      "Angela Fita Boluda",
       "Ann Li",
       "Anna Blinkova",
       "Anna Bondar",
@@ -11848,7 +11847,6 @@ window.TENNIS_DATA = {
       "Federica Urgesi",
       "Fiona Ferro",
       "Francesca Jones",
-      "Gabriella Price",
       "Gina Feistel",
       "Guiomar Maristany Zuleta De Reales",
       "Harriet Dart",
@@ -11863,7 +11861,6 @@ window.TENNIS_DATA = {
       "Jessica Bouzas Maneiro",
       "Jessica Pegula",
       "Julia Riera",
-      "Julie Struplova",
       "Julieta Pareja",
       "Kaitlin Quevedo",
       "Kamilla Rakhimova",
@@ -11912,7 +11909,6 @@ window.TENNIS_DATA = {
       "Oleksandra Oliynykova",
       "Paula Badosa",
       "Polina Iatcenko",
-      "Raluka Serban",
       "Rebeka Masarova",
       "Rositsa Dencheva",
       "Samira De Stefano",
@@ -11941,6 +11937,7 @@ window.TENNIS_DATA = {
       "Alycia Parks",
       "Anastasia Zakharova",
       "Anastasia Zolotareva",
+      "Angela Fita Boluda",
       "Anhelina Kalinina",
       "Anouk Koevermans",
       "Antonia Ruzic",
@@ -11964,10 +11961,12 @@ window.TENNIS_DATA = {
       "Elvina Kalieva",
       "Francesca Curmi",
       "Gabriela Knutson",
+      "Gabriella Price",
       "Hanne Vandewinkel",
       "Janice Tjen",
       "Jelena Ostapenko",
       "Julia Grabher",
+      "Julie Struplova",
       "Katarzyna Kawa",
       "Katie Volynets",
       "Katrina Scott",
@@ -11988,6 +11987,7 @@ window.TENNIS_DATA = {
       "Petra Marcinko",
       "Peyton Stearns",
       "Radka Zelnickova",
+      "Raluka Serban",
       "Reese Brantmeier",
       "Renata Zarazua",
       "Robin Montgomery",
@@ -12010,8 +12010,8 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez",
       "Zhang Shuai"
     ],
-    "aliveCount": 139,
-    "matchesSeen": 175
+    "aliveCount": 135,
+    "matchesSeen": 177
   },
   "ATP_SCORE_LOG": {
     "206173": [
