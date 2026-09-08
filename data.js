@@ -19531,7 +19531,7 @@ window.NHL_DATA = {
       "name": "Nino Niederreiter",
       "pos": "RW",
       "teamCode": "WPG",
-      "age": 33,
+      "age": 34,
       "country": "Switzerland",
       "birthCountry": "CHE",
       "colors": {
@@ -27037,7 +27037,7 @@ window.NHL_DATA = {
       "name": "Jayden Struble",
       "pos": "D",
       "teamCode": "MTL",
-      "age": 24,
+      "age": 25,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -48021,10 +48021,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-07 23:35 UTC",
+  "LAST_UPDATE": "2026-09-08 09:41 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-07T23:35:00Z"
+    "standingsDateTimeUtc": "2026-09-08T09:41:15Z"
   }
 };

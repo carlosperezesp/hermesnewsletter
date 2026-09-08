@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-07 23:37 UTC",
+  "UPDATED": "2026-09-08 09:44 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Aragon motorcycle Grand Prix:Marc Márquez",
@@ -17,14 +17,6 @@ window.GLORY_DATA = {
       "text": "Ryan Blaney ganó en Echopark Speedway",
       "weight": 100,
       "firstSeen": "2026-08-27"
-    },
-    {
-      "id": "motogp:win:British motorcycle Grand Prix:Jorge Martín",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "text": "Jorge Martín ganó el British motorcycle Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-08-24"
     },
     {
       "id": "rank:sumo:BANZUKE:new1:Onosato",

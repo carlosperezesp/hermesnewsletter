@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-07 23:37 UTC",
+  "UPDATED": "2026-09-08 09:44 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1604,
+    "matches": 1603,
     "archives": [
       {
         "name": "Tests",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 79
+        "matches": 78
       },
       {
         "name": "MLC",
@@ -2296,11 +2296,11 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 76.3,
-          "batting": 26.6,
+          "score": 76.6,
+          "batting": 26.8,
           "bowling": 53.7,
-          "overall": 76.3,
-          "runs": 1838,
+          "overall": 76.6,
+          "runs": 1836,
           "wickets": 73
         },
         {
@@ -2632,24 +2632,6 @@ window.CRICKET_DATA = {
           "wickets": 101
         },
         {
-          "id": "as-joseph",
-          "name": "AS Joseph",
-          "role": "Bowler",
-          "country": "West Indies",
-          "teamCode": "WI",
-          "colors": {
-            "primary": "#7a263a",
-            "secondary": "#f6c344"
-          },
-          "logo": "",
-          "score": 77.6,
-          "batting": 13.0,
-          "bowling": 77.6,
-          "overall": 64.1,
-          "runs": 374,
-          "wickets": 103
-        },
-        {
           "id": "taijul-islam",
           "name": "Taijul Islam",
           "role": "Bowler",
@@ -2666,6 +2648,24 @@ window.CRICKET_DATA = {
           "overall": 75.0,
           "runs": 301,
           "wickets": 77
+        },
+        {
+          "id": "as-joseph",
+          "name": "AS Joseph",
+          "role": "Bowler",
+          "country": "West Indies",
+          "teamCode": "WI",
+          "colors": {
+            "primary": "#7a263a",
+            "secondary": "#f6c344"
+          },
+          "logo": "",
+          "score": 77.0,
+          "batting": 13.2,
+          "bowling": 77.0,
+          "overall": 64.3,
+          "runs": 371,
+          "wickets": 102
         },
         {
           "id": "nauman-ali",
