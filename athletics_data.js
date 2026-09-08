@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-08 17:28 UTC
+// Auto-generated 2026-09-08 22:43 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-09-08 17:28 UTC",
+  "UPDATED": "2026-09-08 22:43 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -2400,13 +2400,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 10,
-              "mark": "1:43.34",
-              "athlete": "Ben Pattison",
+              "mark": "1:43.31",
+              "athlete": "Yusuf Bizimana",
               "country": "GBR",
               "flag": "https://flagcdn.com/24x18/gb.png",
               "primary": "#012169",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
+              "venue": "Stadio Quercia",
+              "date": "08 SEP 2026"
             }
           ]
         },
@@ -5866,13 +5866,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 8,
-              "mark": "21.80",
+              "mark": "21.81",
               "athlete": "Payton Otterdahl",
               "country": "USA",
               "flag": "https://flagcdn.com/24x18/us.png",
               "primary": "#B22234",
-              "venue": "Stadion Śląski",
-              "date": "23 AUG 2026"
+              "venue": "Stadio Quercia",
+              "date": "08 SEP 2026"
             },
             {
               "rank": 9,

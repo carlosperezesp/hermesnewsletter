@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-08 17:29 UTC
+// Auto-generated 2026-09-08 22:43 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-08 17:29 UTC",
+  "UPDATED": "2026-09-08 22:43 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5763,7 +5763,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 78.7
@@ -8871,7 +8871,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kia Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 45.7
@@ -8939,7 +8939,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Montreux Nestlé Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 45.5
@@ -8973,7 +8973,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kia Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 45.3
@@ -9599,7 +9599,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kia Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 39.5
@@ -9919,7 +9919,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kia Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 37.0
@@ -10936,15 +10936,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Frances Tiafoe",
+          "w": "Alex Michelsen",
           "w_logo": "",
-          "l": "Alex Michelsen",
+          "l": "Frances Tiafoe",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 75.3,
-          "l_score": 65.7,
+          "scheduled": false,
+          "w_score": 65.7,
+          "l_score": 75.3,
           "match_score": 75.3
         }
       ]
@@ -11261,15 +11261,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Linda Noskova",
+          "w": "Aryna Sabalenka",
           "w_logo": "",
-          "l": "Aryna Sabalenka",
+          "l": "Linda Noskova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-1) 3-6 7-6 (10-7)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 78.7,
-          "l_score": 100.0,
+          "w_score": 100.0,
+          "l_score": 78.7,
           "match_score": 100.0
         },
         {
@@ -11333,15 +11333,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Rebeka Masarova",
+          "w": "Simona Waltert",
           "w_logo": "",
-          "l": "Simona Waltert",
+          "l": "Rebeka Masarova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-4) 3-6 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 45.5,
+          "w_score": 45.5,
+          "l_score": null,
           "match_score": 45.5
         },
         {
@@ -11546,9 +11546,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Valentina Mediorreal Arias",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.7,
           "l_score": null,
           "match_score": 48.7
@@ -11559,9 +11559,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anna Rogers",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 4-6 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 46.7,
           "l_score": null,
           "match_score": 46.7
@@ -11572,9 +11572,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Emanuela Lares",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-0 6-0",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 45.7,
           "l_score": null,
           "match_score": 45.7
@@ -11585,9 +11585,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "You Xiaodi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-0",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 45.3,
           "l_score": null,
           "match_score": 45.3
@@ -11598,9 +11598,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Carolina Alves",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 7-6 (7-3)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 39.5,
           "l_score": null,
           "match_score": 39.5
@@ -11810,14 +11810,12 @@ window.TENNIS_DATA = {
       "Anna Blinkova",
       "Anna Bondar",
       "Anna Kalinskaya",
-      "Anna Rogers",
       "Aryna Sabalenka",
       "Aurora Zantedeschi",
       "Barbora Palicova",
       "Cadence Brace",
       "Cagla Buyukakcay",
       "Carol Young Suh Lee",
-      "Carolina Alves",
       "Catherine McNally",
       "Claire Liu",
       "Clara Burel",
@@ -11835,7 +11833,6 @@ window.TENNIS_DATA = {
       "Elise Mertens",
       "Elizara Yaneva",
       "Elsa Jacquemot",
-      "Emanuela Lares",
       "Emiliana Arango",
       "Emma Navarro",
       "Ena Koike",
@@ -11852,7 +11849,6 @@ window.TENNIS_DATA = {
       "Iva Jovic",
       "Jasmine Paolini",
       "Jazmin Ortenzi",
-      "Jennifer Ruggeri",
       "Jessica Bouzas Maneiro",
       "Jessica Pegula",
       "Julia Riera",
@@ -11898,7 +11894,6 @@ window.TENNIS_DATA = {
       "Oleksandra Oliynykova",
       "Paula Badosa",
       "Polina Iatcenko",
-      "Rebeka Masarova",
       "Rositsa Dencheva",
       "Sara Sorribes Tormo",
       "Simona Waltert",
@@ -11912,7 +11907,6 @@ window.TENNIS_DATA = {
       "Valentina Mediorreal Arias",
       "Varvara Lepchenko",
       "Wang Xinyu",
-      "You Xiaodi",
       "Yulia Putintseva",
       "Yuliia Starodubtseva",
       "Zheng Qinwen",
@@ -11926,6 +11920,7 @@ window.TENNIS_DATA = {
       "Anastasia Zolotareva",
       "Angela Fita Boluda",
       "Anhelina Kalinina",
+      "Anna Rogers",
       "Anouk Koevermans",
       "Antonia Ruzic",
       "Aoi Ito",
@@ -11935,6 +11930,7 @@ window.TENNIS_DATA = {
       "Belinda Bencic",
       "Berfu Cengiz",
       "Camila Osorio",
+      "Carolina Alves",
       "Clara Tauson",
       "Daria Kasatkina",
       "Daria Snigur",
@@ -11947,6 +11943,7 @@ window.TENNIS_DATA = {
       "Elisabetta Cocciaretto",
       "Ella Seidel",
       "Elvina Kalieva",
+      "Emanuela Lares",
       "Federica Urgesi",
       "Francesca Curmi",
       "Gabriela Knutson",
@@ -11956,6 +11953,7 @@ window.TENNIS_DATA = {
       "Ipek Oz",
       "Janice Tjen",
       "Jelena Ostapenko",
+      "Jennifer Ruggeri",
       "Julia Grabher",
       "Julie Struplova",
       "Katarzyna Kawa",
@@ -11985,6 +11983,7 @@ window.TENNIS_DATA = {
       "Peyton Stearns",
       "Radka Zelnickova",
       "Raluka Serban",
+      "Rebeka Masarova",
       "Reese Brantmeier",
       "Renata Zarazua",
       "Robin Montgomery",
@@ -12007,11 +12006,12 @@ window.TENNIS_DATA = {
       "Wang Xiyu",
       "Weronika Falkowska",
       "Yasmine Kabbaj",
+      "You Xiaodi",
       "Zeynep Sonmez",
       "Zhang Shuai"
     ],
-    "aliveCount": 121,
-    "matchesSeen": 187
+    "aliveCount": 115,
+    "matchesSeen": 192
   },
   "ATP_SCORE_LOG": {
     "206173": [
