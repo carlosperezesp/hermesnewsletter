@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-08 16:52 UTC
+// Auto-generated 2026-09-08 17:29 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-08 16:52 UTC",
+  "UPDATED": "2026-09-08 17:29 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11474,7 +11474,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Yasmine Kabbaj",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "2-6 6-4 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11912,7 +11912,6 @@ window.TENNIS_DATA = {
       "Valentina Mediorreal Arias",
       "Varvara Lepchenko",
       "Wang Xinyu",
-      "Yasmine Kabbaj",
       "You Xiaodi",
       "Yulia Putintseva",
       "Yuliia Starodubtseva",
@@ -12007,11 +12006,12 @@ window.TENNIS_DATA = {
       "Viktorija Golubic",
       "Wang Xiyu",
       "Weronika Falkowska",
+      "Yasmine Kabbaj",
       "Zeynep Sonmez",
       "Zhang Shuai"
     ],
-    "aliveCount": 122,
-    "matchesSeen": 186
+    "aliveCount": 121,
+    "matchesSeen": 187
   },
   "ATP_SCORE_LOG": {
     "206173": [
