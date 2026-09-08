@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-08 22:43 UTC
+// Auto-generated 2026-09-08 23:29 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-08 22:43 UTC",
+  "UPDATED": "2026-09-08 23:29 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1257,7 +1257,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 65.7
@@ -8629,7 +8629,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kia Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 48.7
@@ -10936,15 +10936,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Alex Michelsen",
+          "w": "Frances Tiafoe",
           "w_logo": "",
-          "l": "Frances Tiafoe",
+          "l": "Alex Michelsen",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "5-7 3-6 7-5 6-3 7-6 (10-6)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 65.7,
-          "l_score": 75.3,
+          "w_score": 75.3,
+          "l_score": 65.7,
           "match_score": 75.3
         }
       ]
@@ -11546,7 +11546,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Valentina Mediorreal Arias",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 6-0",
           "day": "hoy",
           "scheduled": false,
           "w_score": 48.7,
@@ -11607,16 +11607,16 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Mary Stoiana",
+          "w": "Julieta Pareja",
           "w_logo": "",
-          "l": "Jazmin Ortenzi",
+          "l": "Lizette Cabrera",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 35.0,
+          "scheduled": false,
+          "w_score": null,
           "l_score": null,
-          "match_score": 35.0
+          "match_score": 0.0
         }
       ]
     }
@@ -11835,7 +11835,6 @@ window.TENNIS_DATA = {
       "Elsa Jacquemot",
       "Emiliana Arango",
       "Emma Navarro",
-      "Ena Koike",
       "Eva Bennemann",
       "Eva Lys",
       "Eva Vedder",
@@ -11904,7 +11903,6 @@ window.TENNIS_DATA = {
       "Taylah Preston",
       "Taylor Townsend",
       "Tessa Johanna Brockmann",
-      "Valentina Mediorreal Arias",
       "Varvara Lepchenko",
       "Wang Xinyu",
       "Yulia Putintseva",
@@ -11944,6 +11942,7 @@ window.TENNIS_DATA = {
       "Ella Seidel",
       "Elvina Kalieva",
       "Emanuela Lares",
+      "Ena Koike",
       "Federica Urgesi",
       "Francesca Curmi",
       "Gabriela Knutson",
@@ -11998,6 +11997,7 @@ window.TENNIS_DATA = {
       "Tamara Korpatsch",
       "Tamara Zidansek",
       "Thea Frodin",
+      "Valentina Mediorreal Arias",
       "Valentina Ryser",
       "Vendula Valdmannova",
       "Venus Williams",
@@ -12010,8 +12010,8 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez",
       "Zhang Shuai"
     ],
-    "aliveCount": 115,
-    "matchesSeen": 192
+    "aliveCount": 113,
+    "matchesSeen": 193
   },
   "ATP_SCORE_LOG": {
     "206173": [
