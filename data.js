@@ -8683,7 +8683,7 @@ window.NHL_DATA = {
       "name": "Luke Hughes",
       "pos": "D",
       "teamCode": "NJD",
-      "age": 22,
+      "age": 23,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -8708,7 +8708,7 @@ window.NHL_DATA = {
         50,
         61
       ],
-      "legendScore": 52.4
+      "legendScore": 50.4
     },
     {
       "id": 8475218,
@@ -20541,7 +20541,7 @@ window.NHL_DATA = {
       "name": "Michael Eyssimont",
       "pos": "C",
       "teamCode": "BOS",
-      "age": 29,
+      "age": 30,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-08 23:27 UTC",
+  "LAST_UPDATE": "2026-09-09 09:46 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-08T23:27:00Z"
+    "standingsDateTimeUtc": "2026-09-09T09:46:00Z"
   }
 };

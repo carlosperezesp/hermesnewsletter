@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-08 23:29 UTC",
+  "UPDATED": "2026-09-09 09:48 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Aragon motorcycle Grand Prix:Marc Márquez",
@@ -26,15 +26,6 @@ window.GLORY_DATA = {
       "text": "Onosato es nuevo nº1 · banzuke",
       "weight": 92,
       "firstSeen": "2026-09-01"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:new1:MA Starc",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "MA Starc es nuevo nº1 · Road to Glory",
-      "weight": 92,
-      "firstSeen": "2026-08-25"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:JC Tongue",
@@ -80,15 +71,6 @@ window.GLORY_DATA = {
       "text": "Fermín Aldeguer entra en el top-10 · Mundial",
       "weight": 84,
       "firstSeen": "2026-08-30"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:in:Mohammed Siraj",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "Mohammed Siraj entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-08-25"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:Mehedi Hasan Miraz",

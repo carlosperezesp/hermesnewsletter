@@ -1,6 +1,6 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-09-08 23:28 UTC",
+  "UPDATED": "2026-09-09 09:48 UTC",
   "LAST_MATCH": "2026-09-05",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
@@ -164,31 +164,6 @@ window.RUGBY_DATA = {
         "awayScore": 33,
         "venue": "Ellis Park",
         "city": "Johannesburg"
-      },
-      {
-        "date": "2026-08-15",
-        "status": "final",
-        "competition": "International Test Match",
-        "home": {
-          "name": "Australia",
-          "teamCode": "AUS",
-          "colors": {
-            "primary": "#ffcd00",
-            "secondary": "#00843d"
-          }
-        },
-        "away": {
-          "name": "Japan",
-          "teamCode": "JPN",
-          "colors": {
-            "primary": "#bc002d",
-            "secondary": "#ffffff"
-          }
-        },
-        "homeScore": 56,
-        "awayScore": 17,
-        "venue": "Queensland Country Bank Stadium",
-        "city": "Townsville"
       }
     ],
     "upcoming": [
