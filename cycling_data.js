@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-09 17:15 UTC
+// Auto-generated 2026-09-09 22:34 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-09-09 17:15 UTC",
+  "UPDATED": "2026-09-09 22:34 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -693,7 +693,7 @@ window.CYCLING_DATA = {
     "name": "Vuelta a España",
     "start": "2026-08-15",
     "end": "2026-09-06",
-    "stage": 16,
+    "stage": 17,
     "total_stages": 21,
     "jersey_primary": "#E8002D",
     "jersey_name": "Maillot Rojo",
@@ -718,7 +718,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/es.png",
         "team": "MOV men",
         "primary": "#AA151B",
-        "time": "56h 02' 29\"",
+        "time": "60h 09' 44\"",
         "legendScore": 0.0
       },
       {
@@ -839,7 +839,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/gb.png",
       "team": "NCI",
       "primary": "#012169",
-      "time": "56h 08' 13\"",
+      "time": "60h 15' 28\"",
       "legendScore": 0.0
     }
   },

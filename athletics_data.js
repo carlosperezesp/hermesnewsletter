@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-09 17:17 UTC
+// Auto-generated 2026-09-09 22:36 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-09-09 17:17 UTC",
+  "UPDATED": "2026-09-09 22:36 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -991,108 +991,7 @@ window.ATHLETICS_DATA = {
               "year": 2026
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "43.38",
-              "athlete": "Samuel Ogazi",
-              "country": "NGR",
-              "flag": "https://flagcdn.com/24x18/ng.png",
-              "primary": "#008751",
-              "venue": "Hayward Field",
-              "date": "12 JUN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "43.40",
-              "athlete": "Busang Collen Kebinatshipi",
-              "country": "BOT",
-              "flag": "https://flagcdn.com/24x18/bw.png",
-              "primary": "#75AADB",
-              "venue": "Boudewijnstadion",
-              "date": "04 SEP 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "43.68",
-              "athlete": "Jereem Richards",
-              "country": "TTO",
-              "flag": "https://flagcdn.com/24x18/tt.png",
-              "primary": "#4A4745",
-              "venue": "Boudewijnstadion",
-              "date": "04 SEP 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "43.78",
-              "athlete": "Jacory Patterson",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Boudewijnstadion",
-              "date": "04 SEP 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "43.83",
-              "athlete": "Rai Benjamin",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Stadion Śląski",
-              "date": "23 AUG 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "43.89",
-              "athlete": "Zakithi Nene",
-              "country": "RSA",
-              "flag": "https://flagcdn.com/24x18/za.png",
-              "primary": "#007749",
-              "venue": "Stade Charlty",
-              "date": "28 JUN 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "43.92",
-              "athlete": "Jonathan Simms",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Hayward Field",
-              "date": "12 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "43.97",
-              "athlete": "Chris Bailey",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Boudewijnstadion",
-              "date": "04 SEP 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "43.99",
-              "athlete": "Justin Braun",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Un. of Kentucky Outdoor Track Facility",
-              "date": "29 MAY 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "44.02",
-              "athlete": "Muzala Samukonga",
-              "country": "ZAM",
-              "flag": "https://flagcdn.com/24x18/zm.png",
-              "primary": "#4A4745",
-              "venue": "Nemzeti Atltikai Kzpont",
-              "date": "14 JUL 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "400m_w",
@@ -5178,6 +5077,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 5,
+              "mark": "7.06",
+              "athlete": "Fleur Jong",
+              "country": "NED",
+              "flag": "https://flagcdn.com/24x18/nl.png",
+              "primary": "#AE1C28",
+              "venue": "Putbosstadion",
+              "date": "25 AUG 2026"
+            },
+            {
+              "rank": 6,
               "mark": "7.05",
               "athlete": "Malaika Mihambo",
               "country": "GER",
@@ -5187,7 +5096,7 @@ window.ATHLETICS_DATA = {
               "date": "18 JUL 2026"
             },
             {
-              "rank": 6,
+              "rank": 7,
               "mark": "7.00",
               "athlete": "Agate De Sousa",
               "country": "POR",
@@ -5197,7 +5106,7 @@ window.ATHLETICS_DATA = {
               "date": "15 AUG 2026"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "6.98",
               "athlete": "Hilary Kpatcha",
               "country": "FRA",
@@ -5207,7 +5116,7 @@ window.ATHLETICS_DATA = {
               "date": "24 JUL 2026"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "6.96",
               "athlete": "Jazmin Sawyers",
               "country": "GBR",
@@ -5217,7 +5126,7 @@ window.ATHLETICS_DATA = {
               "date": "16 AUG 2026"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "6.95",
               "athlete": "Monae&#39; Nichols",
               "country": "USA",
@@ -5225,16 +5134,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Ansin Sports Complex",
               "date": "04 APR 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "6.94",
-              "athlete": "Claire Bryant",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
             }
           ]
         },

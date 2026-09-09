@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-09 17:18 UTC
+// Auto-generated 2026-09-09 22:36 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-09 17:18 UTC",
+  "UPDATED": "2026-09-09 22:36 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5219,7 +5219,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 93.0
@@ -5253,7 +5253,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 91.8
@@ -5287,7 +5287,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 91.1
@@ -10241,7 +10241,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Montreux Nestlé Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -10940,9 +10940,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Karen Khachanov",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 72.4,
           "l_score": 67.1,
           "match_score": 72.4
@@ -11317,7 +11317,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Zheng Qinwen",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "3-6 6-1 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 93.0,
@@ -11326,15 +11326,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Mirra Andreeva",
+          "w": "Coco Gauff",
           "w_logo": "",
-          "l": "Coco Gauff",
+          "l": "Mirra Andreeva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "2-6 7-6 (9-7) 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 91.8,
-          "l_score": 91.1,
+          "scheduled": false,
+          "w_score": 91.1,
+          "l_score": 91.8,
           "match_score": 91.8
         },
         {
@@ -11376,9 +11376,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alina Granwehr",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
@@ -11516,15 +11516,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Kaitlin Quevedo",
+          "w": "Sara Sorribes Tormo",
           "w_logo": "",
-          "l": "Sara Sorribes Tormo",
+          "l": "Kaitlin Quevedo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 46.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 46.7,
           "match_score": 46.7
         },
         {
@@ -11533,9 +11533,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Kayla Day",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 45.7,
           "l_score": 37.0,
           "match_score": 45.7
@@ -11546,9 +11546,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Varvara Lepchenko",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 45.3,
           "l_score": null,
           "match_score": 45.3
@@ -11568,15 +11568,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Leolia Jeanjean",
+          "w": "Julieta Pareja",
           "w_logo": "",
-          "l": "Julieta Pareja",
+          "l": "Leolia Jeanjean",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 39.5,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 39.5,
           "match_score": 39.5
         }
       ]
@@ -11972,7 +11972,7 @@ window.TENNIS_DATA = {
       "Zhang Shuai"
     ],
     "aliveCount": 109,
-    "matchesSeen": 199
+    "matchesSeen": 201
   },
   "ATP_SCORE_LOG": {
     "206173": [
