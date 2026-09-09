@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-09 09:48 UTC
+// Auto-generated 2026-09-09 11:35 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-09 09:48 UTC",
+  "UPDATED": "2026-09-09 11:35 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11435,7 +11435,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lina Gjorcheska",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-3 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
