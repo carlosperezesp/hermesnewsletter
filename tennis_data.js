@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-09 22:36 UTC
+// Auto-generated 2026-09-09 23:23 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-09 22:36 UTC",
+  "UPDATED": "2026-09-09 23:23 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -815,7 +815,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 72.4
@@ -10936,15 +10936,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Alexander Blockx",
+          "w": "Karen Khachanov",
           "w_logo": "",
-          "l": "Karen Khachanov",
+          "l": "Alexander Blockx",
           "l_logo": "",
-          "score": "6-2 7-5",
+          "score": "6-2 7-5 3-2 ret",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 72.4,
-          "l_score": 67.1,
+          "w_score": 67.1,
+          "l_score": 72.4,
           "match_score": 72.4
         }
       ]
@@ -11503,19 +11503,6 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Anna Blinkova",
-          "w_logo": "",
-          "l": "Nadia Podoroska",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 48.7,
-          "l_score": null,
-          "match_score": 48.7
-        },
-        {
-          "round": "R64",
           "w": "Sara Sorribes Tormo",
           "w_logo": "",
           "l": "Kaitlin Quevedo",
@@ -11578,6 +11565,19 @@ window.TENNIS_DATA = {
           "w_score": null,
           "l_score": 39.5,
           "match_score": 39.5
+        },
+        {
+          "round": "R128",
+          "w": "Mary Stoiana",
+          "w_logo": "",
+          "l": "Jazmin Ortenzi",
+          "l_logo": "",
+          "score": "6-3 6-2",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 35.0,
+          "l_score": null,
+          "match_score": 35.0
         }
       ]
     }
