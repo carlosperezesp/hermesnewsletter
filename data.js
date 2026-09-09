@@ -16466,9 +16466,9 @@ window.NHL_DATA = {
       "name": "Justin Robidas",
       "pos": "C",
       "teamCode": "CAR",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 23,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#cc0000",
         "secondary": "#111111"
@@ -16490,7 +16490,8 @@ window.NHL_DATA = {
         42,
         44,
         53
-      ]
+      ],
+      "legendScore": 46.0
     },
     {
       "id": 8479977,
@@ -33518,9 +33519,9 @@ window.NHL_DATA = {
       "name": "Skyler Brind'Amour",
       "pos": "C",
       "teamCode": "CAR",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 27,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#cc0000",
         "secondary": "#111111"
@@ -48022,10 +48023,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-09 11:34 UTC",
+  "LAST_UPDATE": "2026-09-09 17:15 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-09T11:33:46Z"
+    "standingsDateTimeUtc": "2026-09-09T17:14:30Z"
   }
 };

@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-09 16:55 UTC
+// Auto-generated 2026-09-09 17:18 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-09 16:55 UTC",
+  "UPDATED": "2026-09-09 17:18 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11402,7 +11402,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nuria Brancaccio",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-1 7-6 (8-6)",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
