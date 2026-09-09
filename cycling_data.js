@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-09 11:34 UTC
+// Auto-generated 2026-09-09 16:53 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-09-09 11:34 UTC",
+  "UPDATED": "2026-09-09 16:53 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -819,7 +819,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/be.png",
       "team": "TVL men",
       "primary": "#000000",
-      "points": 282,
+      "points": 295,
       "legendScore": 0.0
     },
     "kom_leader": {
