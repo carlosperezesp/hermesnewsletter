@@ -7173,9 +7173,9 @@ window.NHL_DATA = {
       "name": "Chris Kreider",
       "pos": "LW",
       "teamCode": "ANA",
-      "age": 35,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
@@ -23926,9 +23926,9 @@ window.NHL_DATA = {
       "name": "Mike Reilly",
       "pos": "D",
       "teamCode": "CAR",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 33,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#cc0000",
         "secondary": "#111111"
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-10 17:09 UTC",
+  "LAST_UPDATE": "2026-09-10 22:36 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-10T17:08:16Z"
+    "standingsDateTimeUtc": "2026-09-10T22:35:30Z"
   }
 };

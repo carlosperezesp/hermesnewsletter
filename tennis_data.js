@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-10 17:11 UTC
+// Auto-generated 2026-09-10 22:38 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-10 17:11 UTC",
+  "UPDATED": "2026-09-10 22:38 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8837,7 +8837,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kia Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 46.7
@@ -8939,7 +8939,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Montreux Nestlé Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 45.5
@@ -11233,9 +11233,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Despina Papamichail",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "2-6 6-1 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 45.5,
           "l_score": null,
           "match_score": 45.5
@@ -11259,7 +11259,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Martina Trevisan",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 4-6 7-6 (7-4)",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11318,7 +11318,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Cagla Buyukakcay",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11347,29 +11347,16 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Carol Young Suh Lee",
+          "w": "Leolia Jeanjean",
           "w_logo": "",
-          "l": "Leolia Jeanjean",
+          "l": "Carol Young Suh Lee",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 51.8,
-          "l_score": 39.5,
+          "scheduled": false,
+          "w_score": 39.5,
+          "l_score": 51.8,
           "match_score": 51.8
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Anna Blinkova",
-          "w_logo": "",
-          "l": "Julia Riera",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 48.7,
-          "l_score": 44.3,
-          "match_score": 48.7
         },
         {
           "round": "R64",
@@ -11386,28 +11373,28 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Kaitlin Quevedo",
+          "w": "Claire Liu",
           "w_logo": "",
-          "l": "Claire Liu",
+          "l": "Kaitlin Quevedo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 46.7,
-          "l_score": 45.3,
+          "scheduled": false,
+          "w_score": 45.3,
+          "l_score": 46.7,
           "match_score": 46.7
         },
         {
           "round": "Quarterfinal",
-          "w": "Elsa Jacquemot",
+          "w": "Anastasia Tikhonova",
           "w_logo": "",
-          "l": "Anastasia Tikhonova",
+          "l": "Elsa Jacquemot",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 45.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 45.7,
           "match_score": 45.7
         },
         {
@@ -11816,7 +11803,7 @@ window.TENNIS_DATA = {
       "Zhang Shuai"
     ],
     "aliveCount": 109,
-    "matchesSeen": 207
+    "matchesSeen": 210
   },
   "ATP_SCORE_LOG": {
     "206173": [
