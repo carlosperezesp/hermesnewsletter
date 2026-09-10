@@ -28327,9 +28327,9 @@ window.NHL_DATA = {
       "name": "Charles Alexis Legault",
       "pos": "D",
       "teamCode": "CAR",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 23,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#cc0000",
         "secondary": "#111111"
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-10 11:31 UTC",
+  "LAST_UPDATE": "2026-09-10 16:41 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-10T11:31:00Z"
+    "standingsDateTimeUtc": "2026-09-10T16:40:15Z"
   }
 };
