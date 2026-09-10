@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-10 09:47 UTC
+// Auto-generated 2026-09-10 11:32 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-10 09:47 UTC",
+  "UPDATED": "2026-09-10 11:32 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11242,15 +11242,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Fiona Ferro",
+          "w": "Barbora Palicova",
           "w_logo": "",
-          "l": "Barbora Palicova",
+          "l": "Fiona Ferro",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 42.9,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 42.9,
           "match_score": 42.9
         },
         {
@@ -11272,9 +11272,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lucija Ciric Bagaric",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "w/o",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
