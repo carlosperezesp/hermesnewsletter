@@ -533,6 +533,186 @@ function IndyCarEscalada({ data }) {
   );
 }
 
+function ClubFootball({ data }) {
+  const [allElo, setAllElo] = React.useState(false);
+  const [allTable, setAllTable] = React.useState(false);
+  const [allPlayers, setAllPlayers] = React.useState(false);
+  const elo = data.ELO_RANKING || [];
+  const table = data.STANDINGS || [];
+  const players = data.PLAYER_RANKING || [];
+  const maxElo = (elo[0] && elo[0].elo) || 2050;
+  const minElo = (elo.length && elo[elo.length - 1].elo) || 1450;
+  const GREEN = "#2a7a2a";
+  const mono = { fontFamily: "IBM Plex Mono, monospace" };
+  const kick = { ...mono, fontSize: "0.58rem", textTransform: "uppercase", letterSpacing: "0.1em", color: "var(--muted)" };
+  const dcol = v => (v > 0 ? GREEN : v < 0 ? "var(--accent)" : "var(--muted-2)");
+  const dfmt = v => (v == null ? "—" : (v > 0 ? "+" : "") + (Math.round(v * 10) / 10));
+  const Toggle = ({ on, set, total }) => (
+    <button onClick={() => set(!on)} style={{ ...mono, marginTop: 12, fontSize: "0.7rem",
+      letterSpacing: "0.08em", textTransform: "uppercase", padding: "0.4rem 0.85rem",
+      border: "1px solid var(--ink)", borderRadius: 4, background: "transparent",
+      color: "var(--ink)", cursor: "pointer" }}>
+      {on ? "Ver menos ▴" : `Ver los ${total} ▾`}</button>
+  );
+
+  return (
+    <>
+      <header className="newsletter-hero" style={{ marginTop: 48 }}>
+        <div className="newsletter-hero__masthead">
+          <span>Fútbol · Clubes</span>
+          <span>{data.SEASON}</span>
+          <span>Actualizado {data.UPDATED}</span>
+        </div>
+        <div className="newsletter-hero__title-row">
+          <h1>Fútbol de clubes</h1>
+          <p>Power ranking Elo de la Champions: la semilla es el Elo de ClubElo a inicio de temporada
+            y a partir de ahí <strong>solo los partidos de Champions</strong> mueven la tabla —
+            ganar a un grande vale mucho más que golear a un débil. {data.FORMULA}. El ΔElo de cada
+            partido se reparte además entre los jugadores según sus minutos.</p>
+        </div>
+      </header>
+
+      <NewsletterSection kicker="Champions · Power ranking" title="Los 36, por Elo"
+        sub="Elo actual · Δ acumulado desde la semilla · Δ de su último partido. La barra es escala visual.">
+        <div>
+          {(allElo ? elo : elo.slice(0, 12)).map(t => {
+            const pct = Math.max(3, Math.round((t.elo - minElo) / Math.max(1, maxElo - minElo) * 100));
+            return (
+              <div key={t.rank} style={{ display: "grid", gridTemplateColumns: "1.9rem 1.6rem 1fr auto",
+                gap: "0.65rem", alignItems: "center", padding: "0.55rem 0.45rem",
+                borderTop: "1px solid var(--line, #e2ddcd)" }}>
+                <span style={{ ...mono, fontSize: "1.1rem", color: "var(--muted-2)" }}>{t.rank}</span>
+                {t.logo ? <img src={t.logo} alt="" style={{ width: 22, height: 22, objectFit: "contain" }} /> : <span />}
+                <div style={{ minWidth: 0 }}>
+                  <div style={{ fontWeight: 600, fontSize: "1rem" }}>{t.name}
+                    <span style={{ ...mono, fontSize: "0.62rem", marginLeft: 8, color: dcol(t.delta) }}>
+                      {dfmt(t.delta)}</span>
+                    {t.lastDelta != null && (
+                      <span style={{ ...mono, fontSize: "0.62rem", marginLeft: 6, color: "var(--muted)" }}>
+                        (últ. {dfmt(t.lastDelta)})</span>
+                    )}
+                  </div>
+                  <div style={{ height: 3, background: "var(--line, #e2ddcd)", borderRadius: 2, marginTop: 4, overflow: "hidden" }}>
+                    <div style={{ height: "100%", width: pct + "%", background: "var(--accent)", borderRadius: 2 }} />
+                  </div>
+                </div>
+                <span style={{ fontSize: "1.35rem", fontWeight: 600, color: "var(--accent)" }}>{t.elo}</span>
+              </div>
+            );
+          })}
+        </div>
+        {elo.length > 12 && <Toggle on={allElo} set={setAllElo} total={elo.length} />}
+      </NewsletterSection>
+
+      <NewsletterSection kicker="Champions · Fase liga" title="Clasificación"
+        sub="Tabla oficial. Top 8, a octavos directos; del 9 al 24, playoff.">
+        <div style={{ ...mono, fontSize: "0.78rem" }}>
+          <div style={{ display: "grid", gridTemplateColumns: "1.7rem 1.4rem 1fr repeat(4, 2.1rem) 2.6rem",
+            gap: "0.4rem", padding: "0.3rem 0.45rem", ...kick }}>
+            <span>#</span><span /><span>Equipo</span><span>PJ</span><span>G</span><span>E</span><span>DG</span><span style={{ textAlign: "right" }}>Pts</span>
+          </div>
+          {(allTable ? table : table.slice(0, 12)).map(r => (
+            <div key={r.pos} style={{ display: "grid",
+              gridTemplateColumns: "1.7rem 1.4rem 1fr repeat(4, 2.1rem) 2.6rem", gap: "0.4rem",
+              alignItems: "center", padding: "0.42rem 0.45rem",
+              borderTop: (r.pos === 9 || r.pos === 25) ? "2px solid var(--ink)" : "1px solid var(--line, #e2ddcd)" }}>
+              <span style={{ color: "var(--muted-2)" }}>{r.pos}</span>
+              {r.logo ? <img src={r.logo} alt="" style={{ width: 18, height: 18, objectFit: "contain" }} /> : <span />}
+              <span style={{ fontFamily: "inherit", fontWeight: 600 }}>{r.shortName}</span>
+              <span>{r.played}</span><span>{r.won}</span><span>{r.drawn}</span>
+              <span style={{ color: dcol(r.gd) }}>{r.gd > 0 ? "+" + r.gd : r.gd}</span>
+              <span style={{ textAlign: "right", fontWeight: 700 }}>{r.points}</span>
+            </div>
+          ))}
+        </div>
+        {table.length > 12 && <Toggle on={allTable} set={setAllTable} total={table.length} />}
+      </NewsletterSection>
+
+      {(data.MATCHES_RECENT || []).length > 0 && (
+        <NewsletterSection kicker="Champions · Resultados" title="Última jornada, con su Elo"
+          sub="Cada resultado con el Elo que movió: ganar al fuerte paga; golear al débil, apenas.">
+          <div>
+            {data.MATCHES_RECENT.map(m => (
+              <div key={m.id} style={{ padding: "0.55rem 0.45rem", borderTop: "1px solid var(--line, #e2ddcd)" }}>
+                <div style={{ display: "flex", alignItems: "center", gap: 8, flexWrap: "wrap" }}>
+                  {m.homeLogo && <img src={m.homeLogo} alt="" style={{ width: 18, height: 18, objectFit: "contain" }} />}
+                  <span style={{ fontWeight: 600 }}>{m.home}</span>
+                  <span style={{ ...mono, fontWeight: 700, fontSize: "0.95rem", padding: "0 4px" }}>{m.score}</span>
+                  <span style={{ fontWeight: 600 }}>{m.away}</span>
+                  {m.awayLogo && <img src={m.awayLogo} alt="" style={{ width: 18, height: 18, objectFit: "contain" }} />}
+                </div>
+                <div style={{ ...mono, fontSize: "0.66rem", color: "var(--muted)", marginTop: 3 }}>
+                  ΔElo: <span style={{ color: dcol(m.deltaHome) }}>{m.home} {dfmt(m.deltaHome)}</span>
+                  {" · "}<span style={{ color: dcol(m.deltaAway) }}>{m.away} {dfmt(m.deltaAway)}</span>
+                  {" · "}esperado local {m.expHome}%
+                </div>
+              </div>
+            ))}
+          </div>
+        </NewsletterSection>
+      )}
+
+      {(data.MATCHES_UPCOMING || []).length > 0 && (
+        <NewsletterSection kicker="Champions · Próximos" title="Lo que viene, según el Elo"
+          sub="Expectativa Elo del equipo local (el empate cuenta mitad).">
+          <div>
+            {data.MATCHES_UPCOMING.map(m => (
+              <div key={m.id} style={{ display: "grid", gridTemplateColumns: "1fr auto",
+                gap: "0.6rem", alignItems: "center", padding: "0.5rem 0.45rem",
+                borderTop: "1px solid var(--line, #e2ddcd)" }}>
+                <div style={{ display: "flex", alignItems: "center", gap: 7, flexWrap: "wrap" }}>
+                  {m.homeLogo && <img src={m.homeLogo} alt="" style={{ width: 17, height: 17, objectFit: "contain" }} />}
+                  <span style={{ fontWeight: 600 }}>{m.home}</span>
+                  <span style={{ color: "var(--muted)" }}>vs</span>
+                  <span style={{ fontWeight: 600 }}>{m.away}</span>
+                  {m.awayLogo && <img src={m.awayLogo} alt="" style={{ width: 17, height: 17, objectFit: "contain" }} />}
+                </div>
+                <div style={{ display: "flex", alignItems: "center", gap: 6 }}>
+                  <div style={{ width: 74, height: 5, background: "var(--line, #e2ddcd)", borderRadius: 3, overflow: "hidden" }}>
+                    <div style={{ height: "100%", width: m.expHome + "%", background: "var(--accent)" }} />
+                  </div>
+                  <span style={{ ...mono, fontSize: "0.68rem", color: "var(--muted)", minWidth: 34, textAlign: "right" }}>{m.expHome}%</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </NewsletterSection>
+      )}
+
+      {players.length > 0 && (
+        <NewsletterSection kicker="Champions · Jugadores" title="Power ranking de jugadores"
+          sub="El ΔElo de cada partido, repartido a los jugadores por minutos (Δ × min/90), simétrico: también se pierde.">
+          <div>
+            {(allPlayers ? players : players.slice(0, 12)).map(p => (
+              <div key={p.rank} style={{ display: "grid", gridTemplateColumns: "1.9rem 1fr auto",
+                gap: "0.65rem", alignItems: "center", padding: "0.5rem 0.45rem",
+                borderTop: "1px solid var(--line, #e2ddcd)" }}>
+                <span style={{ ...mono, fontSize: "1.05rem", color: "var(--muted-2)" }}>{p.rank}</span>
+                <div style={{ minWidth: 0 }}>
+                  <div style={{ fontWeight: 600, fontSize: "0.98rem", display: "flex", alignItems: "center", gap: 7 }}>
+                    {p.teamLogo && <img src={p.teamLogo} alt="" style={{ width: 16, height: 16, objectFit: "contain" }} />}
+                    {p.name}
+                  </div>
+                  <div style={{ ...mono, fontSize: "0.62rem", color: "var(--muted)", marginTop: 2 }}>
+                    {p.team} · {p.minutes} min · {p.matches} partido{p.matches === 1 ? "" : "s"}
+                  </div>
+                </div>
+                <span style={{ fontSize: "1.2rem", fontWeight: 600, color: dcol(p.delta) }}>{dfmt(p.delta)}</span>
+              </div>
+            ))}
+          </div>
+          {players.length > 12 && <Toggle on={allPlayers} set={setAllPlayers} total={players.length} />}
+          {(data.PLAYER_BOTTOM || []).length > 0 && (
+            <p style={{ ...mono, fontSize: "0.64rem", color: "var(--muted)", marginTop: 12 }}>
+              En números rojos: {data.PLAYER_BOTTOM.map(p => `${p.name} (${p.team}) ${dfmt(p.delta)}`).join(" · ")}
+            </p>
+          )}
+        </NewsletterSection>
+      )}
+    </>
+  );
+}
+
 function SectionIcon({ type }) {
   const common = {
     fill: "none",
@@ -1345,7 +1525,8 @@ function NewsletterApp() {
       { id: "golf", label: "Golf", icon: "golf", data: window.GOLF_DATA },
       { id: "motogp", label: "MotoGP", icon: "motogp", data: window.MOTOGP_DATA },
       { id: "rugby", label: "Rugby", icon: "rugby", data: window.RUGBY_DATA },
-      { id: "football", label: "Fútbol", icon: "football", data: window.FOOTBALL_DATA },
+      { id: "football", label: "Fútbol Selecciones", icon: "football", data: window.FOOTBALL_DATA },
+      { id: "clubfootball", label: "Fútbol Clubes", icon: "football", data: window.CLUBFOOTBALL_DATA },
       { id: "cricket", label: "Cricket", icon: "cricket", data: window.CRICKET_DATA },
       { id: "athletics", label: "Atletismo", icon: "athletics", data: window.ATHLETICS_DATA },
       { id: "fencing", label: "Esgrima", icon: "fencing", data: window.FENCING_DATA },
@@ -5469,6 +5650,11 @@ function NewsletterApp() {
             </>
           );
         })()}
+        </div>
+
+        <div data-section="clubfootball" style={sectionStyle("clubfootball", window.CLUBFOOTBALL_DATA?.IMPORTANCE || 8)}>
+        {/* ── FÚTBOL · CLUBES (Champions, power ranking Elo) ── */}
+        {window.CLUBFOOTBALL_DATA && <ClubFootball data={window.CLUBFOOTBALL_DATA} />}
         </div>
 
         <div data-section="cricket" style={sectionStyle("cricket", window.CRICKET_DATA?.IMPORTANCE || 4)}>
