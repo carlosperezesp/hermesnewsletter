@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-10 22:38 UTC
+// Auto-generated 2026-09-10 23:16 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-10 22:38 UTC",
+  "UPDATED": "2026-09-10 23:16 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11386,15 +11386,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Anastasia Tikhonova",
+          "w": "Elsa Jacquemot",
           "w_logo": "",
-          "l": "Elsa Jacquemot",
+          "l": "Anastasia Tikhonova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (5-7) 6-1 6-1",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 45.7,
+          "w_score": 45.7,
+          "l_score": null,
           "match_score": 45.7
         },
         {
