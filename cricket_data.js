@@ -1,15 +1,15 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-09 23:22 UTC",
+  "UPDATED": "2026-09-10 09:47 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1616,
+    "matches": 1614,
     "archives": [
       {
         "name": "Tests",
-        "matches": 83
+        "matches": 82
       },
       {
         "name": "ODIs",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 932
+        "matches": 931
       },
       {
         "name": "IPL",
@@ -842,21 +842,21 @@ window.CRICKET_DATA = {
           "wickets": 22
         },
         {
-          "id": "dps-sooriyabandara",
-          "name": "DPS Sooriyabandara",
+          "id": "hc-brook",
+          "name": "HC Brook",
           "role": "Batter",
-          "country": "Sri Lanka",
-          "teamCode": "SL",
+          "country": "England",
+          "teamCode": "ENG",
           "colors": {
-            "primary": "#0033a0",
-            "secondary": "#ffb612"
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
           },
-          "logo": "https://flagcdn.com/24x18/lk.png",
-          "score": 54.5,
-          "batting": 54.5,
-          "bowling": 0.2,
-          "overall": 6.3,
-          "runs": 172,
+          "logo": "https://flagcdn.com/24x18/gb-eng.png",
+          "score": 56.1,
+          "batting": 56.1,
+          "bowling": 0.7,
+          "overall": 11.9,
+          "runs": 3280,
           "wickets": 0
         }
       ],
@@ -1346,12 +1346,30 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 46.3,
-          "batting": 46.3,
+          "score": 47.3,
+          "batting": 47.3,
           "bowling": 6.7,
-          "overall": 38.1,
-          "runs": 2798,
+          "overall": 38.5,
+          "runs": 2773,
           "wickets": 7
+        },
+        {
+          "id": "ld-chandimal",
+          "name": "LD Chandimal",
+          "role": "Batter",
+          "country": "Sri Lanka",
+          "teamCode": "SL",
+          "colors": {
+            "primary": "#0033a0",
+            "secondary": "#ffb612"
+          },
+          "logo": "https://flagcdn.com/24x18/lk.png",
+          "score": 45.5,
+          "batting": 45.5,
+          "bowling": 0.5,
+          "overall": 10.3,
+          "runs": 1021,
+          "wickets": 0
         },
         {
           "id": "spd-smith",
@@ -1387,24 +1405,6 @@ window.CRICKET_DATA = {
           "bowling": 0.6,
           "overall": 11.1,
           "runs": 1955,
-          "wickets": 0
-        },
-        {
-          "id": "q-de-kock",
-          "name": "Q de Kock",
-          "role": "Batter",
-          "country": "South Africa",
-          "teamCode": "SA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb81c"
-          },
-          "logo": "https://flagcdn.com/24x18/za.png",
-          "score": 43.6,
-          "batting": 43.6,
-          "bowling": 0.4,
-          "overall": 9.0,
-          "runs": 2477,
           "wickets": 0
         }
       ],
@@ -1684,24 +1684,6 @@ window.CRICKET_DATA = {
           "wickets": 61
         },
         {
-          "id": "virandeep-singh",
-          "name": "Virandeep Singh",
-          "role": "All-rounder",
-          "country": "Malaysia",
-          "teamCode": "MAL",
-          "colors": {
-            "primary": "#555555",
-            "secondary": "#dddddd"
-          },
-          "logo": "",
-          "score": 74.6,
-          "batting": 34.1,
-          "bowling": 47.0,
-          "overall": 74.6,
-          "runs": 920,
-          "wickets": 51
-        },
-        {
           "id": "taijul-islam",
           "name": "Taijul Islam",
           "role": "Bowler",
@@ -1772,6 +1754,24 @@ window.CRICKET_DATA = {
           "overall": 72.3,
           "runs": 416,
           "wickets": 77
+        },
+        {
+          "id": "virandeep-singh",
+          "name": "Virandeep Singh",
+          "role": "Bowler",
+          "country": "Malaysia",
+          "teamCode": "MAL",
+          "colors": {
+            "primary": "#555555",
+            "secondary": "#dddddd"
+          },
+          "logo": "",
+          "score": 71.5,
+          "batting": 33.1,
+          "bowling": 44.4,
+          "overall": 71.5,
+          "runs": 855,
+          "wickets": 48
         }
       ],
       "batting": [
@@ -1902,6 +1902,24 @@ window.CRICKET_DATA = {
           "wickets": 3
         },
         {
+          "id": "je-root",
+          "name": "JE Root",
+          "role": "Batter",
+          "country": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/gb-eng.png",
+          "score": 66.5,
+          "batting": 66.5,
+          "bowling": 5.7,
+          "overall": 36.3,
+          "runs": 2773,
+          "wickets": 7
+        },
+        {
           "id": "j-taanyanda",
           "name": "J Taanyanda",
           "role": "Batter",
@@ -1918,24 +1936,6 @@ window.CRICKET_DATA = {
           "overall": 8.3,
           "runs": 165,
           "wickets": 0
-        },
-        {
-          "id": "je-root",
-          "name": "JE Root",
-          "role": "Batter",
-          "country": "England",
-          "teamCode": "ENG",
-          "colors": {
-            "primary": "#c8102e",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 65.1,
-          "batting": 65.1,
-          "bowling": 5.7,
-          "overall": 35.9,
-          "runs": 2798,
-          "wickets": 7
         },
         {
           "id": "spd-smith",
@@ -2304,22 +2304,22 @@ window.CRICKET_DATA = {
           "wickets": 125
         },
         {
-          "id": "virandeep-singh",
-          "name": "Virandeep Singh",
-          "role": "All-rounder",
-          "country": "Malaysia",
-          "teamCode": "MAL",
+          "id": "taijul-islam",
+          "name": "Taijul Islam",
+          "role": "Bowler",
+          "country": "Bangladesh",
+          "teamCode": "BAN",
           "colors": {
-            "primary": "#555555",
-            "secondary": "#dddddd"
+            "primary": "#006a4e",
+            "secondary": "#f42a41"
           },
-          "logo": "",
-          "score": 76.0,
-          "batting": 34.1,
-          "bowling": 41.2,
-          "overall": 76.0,
-          "runs": 920,
-          "wickets": 51
+          "logo": "https://flagcdn.com/24x18/bd.png",
+          "score": 75.3,
+          "batting": 17.8,
+          "bowling": 77.5,
+          "overall": 75.3,
+          "runs": 301,
+          "wickets": 77
         }
       ],
       "batting": [
@@ -2432,6 +2432,24 @@ window.CRICKET_DATA = {
           "wickets": 3
         },
         {
+          "id": "je-root",
+          "name": "JE Root",
+          "role": "Batter",
+          "country": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/gb-eng.png",
+          "score": 66.5,
+          "batting": 66.5,
+          "bowling": 5.0,
+          "overall": 36.9,
+          "runs": 2773,
+          "wickets": 7
+        },
+        {
           "id": "j-taanyanda",
           "name": "J Taanyanda",
           "role": "Batter",
@@ -2448,24 +2466,6 @@ window.CRICKET_DATA = {
           "overall": 9.0,
           "runs": 165,
           "wickets": 0
-        },
-        {
-          "id": "je-root",
-          "name": "JE Root",
-          "role": "Batter",
-          "country": "England",
-          "teamCode": "ENG",
-          "colors": {
-            "primary": "#c8102e",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 65.1,
-          "batting": 65.1,
-          "bowling": 5.0,
-          "overall": 36.6,
-          "runs": 2798,
-          "wickets": 7
         },
         {
           "id": "ham-shah",

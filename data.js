@@ -3247,7 +3247,7 @@ window.NHL_DATA = {
       "name": "Troy Terry",
       "pos": "RW",
       "teamCode": "ANA",
-      "age": 28,
+      "age": 29,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -10976,7 +10976,7 @@ window.NHL_DATA = {
       "name": "Jordan Staal",
       "pos": "C",
       "teamCode": "CAR",
-      "age": 37,
+      "age": 38,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -11720,7 +11720,7 @@ window.NHL_DATA = {
       "name": "Dmitri Voronkov",
       "pos": "LW",
       "teamCode": "CBJ",
-      "age": 25,
+      "age": 26,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
@@ -11744,8 +11744,7 @@ window.NHL_DATA = {
         48,
         50,
         57
-      ],
-      "legendScore": 47.8
+      ]
     },
     {
       "id": 8480185,
@@ -22037,7 +22036,7 @@ window.NHL_DATA = {
       "name": "Nikita Nesterenko",
       "pos": "C",
       "teamCode": "ANA",
-      "age": 24,
+      "age": 25,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -48023,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-09 23:21 UTC",
+  "LAST_UPDATE": "2026-09-10 09:44 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-09T23:20:30Z"
+    "standingsDateTimeUtc": "2026-09-10T09:44:16Z"
   }
 };
