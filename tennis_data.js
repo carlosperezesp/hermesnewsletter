@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-11 22:37 UTC
+// Auto-generated 2026-09-11 23:24 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-11 22:37 UTC",
+  "UPDATED": "2026-09-11 23:24 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -9599,7 +9599,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Kia Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 39.5
@@ -11299,9 +11299,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elsa Jacquemot",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.7,
           "l_score": 45.7,
           "match_score": 48.7
@@ -11312,7 +11312,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Leolia Jeanjean",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 45.3,
