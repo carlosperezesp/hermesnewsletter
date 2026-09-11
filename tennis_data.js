@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-11 11:35 UTC
+// Auto-generated 2026-09-11 16:48 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-11 11:35 UTC",
+  "UPDATED": "2026-09-11 16:48 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10241,7 +10241,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Montreux Nestlé Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11164,15 +11164,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Simona Waltert",
+          "w": "Dalma Galfi",
           "w_logo": "",
-          "l": "Dalma Galfi",
+          "l": "Simona Waltert",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 45.5,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 45.5,
           "match_score": 45.5
         },
         {
@@ -11181,9 +11181,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lucie Havlickova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-0",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 42.9,
           "l_score": null,
           "match_score": 42.9
@@ -11194,7 +11194,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anastasiia Sobolieva",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 7-6 (9-7)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 35.0,
@@ -11207,9 +11207,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Clara Burel",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 1-6 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11227,20 +11227,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Aurora Zantedeschi",
           "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Elizara Yaneva",
-          "w_logo": "",
-          "l": "Irene Burillo",
-          "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11253,20 +11240,33 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alicia Herrero Linana",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "Quarterfinal",
-          "w": "Maria Lourdes Carle",
+          "w": "Irene Burillo",
           "w_logo": "",
-          "l": "Rositsa Dencheva",
+          "l": "Elizara Yaneva",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 1-6 6-4",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "Quarterfinal",
+          "w": "Rositsa Dencheva",
+          "w_logo": "",
+          "l": "Maria Lourdes Carle",
+          "l_logo": "",
+          "score": "7-5 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11712,7 +11712,7 @@ window.TENNIS_DATA = {
       "Zhang Shuai"
     ],
     "aliveCount": 109,
-    "matchesSeen": 213
+    "matchesSeen": 215
   },
   "ATP_SCORE_LOG": {
     "206173": [

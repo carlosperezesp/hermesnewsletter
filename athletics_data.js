@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-11 11:35 UTC
+// Auto-generated 2026-09-11 16:47 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-09-11 11:35 UTC",
+  "UPDATED": "2026-09-11 16:47 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -1649,7 +1649,108 @@ window.ATHLETICS_DATA = {
               "year": 2026
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "12.09",
+              "athlete": "Masai Russell",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "12.23",
+              "athlete": "Tobi Amusan",
+              "country": "NGR",
+              "flag": "https://flagcdn.com/24x18/ng.png",
+              "primary": "#008751",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "12.33",
+              "athlete": "Devynne Charlton",
+              "country": "BAH",
+              "flag": "https://flagcdn.com/24x18/bs.png",
+              "primary": "#4A4745",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "12.34",
+              "athlete": "Nadine Visser",
+              "country": "NED",
+              "flag": "https://flagcdn.com/24x18/nl.png",
+              "primary": "#AE1C28",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "12.38",
+              "athlete": "Grace Stark",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Stade Charlty",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "12.38",
+              "athlete": "Alaysha Johnson",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Stade Louis II",
+              "date": "10 JUL 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "12.38",
+              "athlete": "Alia Armstrong",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Icahn Stadium",
+              "date": "25 JUL 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "12.40",
+              "athlete": "Demisha Roswell",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "National Stadium",
+              "date": "21 JUN 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "12.43",
+              "athlete": "Rayniah Jones",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Sports Park Mladost",
+              "date": "26 JUN 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "12.43",
+              "athlete": "Megan Simmonds",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
+            }
+          ]
         },
         {
           "id": "400mh_m",
@@ -5077,16 +5178,6 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 5,
-              "mark": "7.06",
-              "athlete": "Fleur Jong",
-              "country": "NED",
-              "flag": "https://flagcdn.com/24x18/nl.png",
-              "primary": "#AE1C28",
-              "venue": "Putbosstadion",
-              "date": "25 AUG 2026"
-            },
-            {
-              "rank": 6,
               "mark": "7.05",
               "athlete": "Malaika Mihambo",
               "country": "GER",
@@ -5096,7 +5187,7 @@ window.ATHLETICS_DATA = {
               "date": "18 JUL 2026"
             },
             {
-              "rank": 7,
+              "rank": 6,
               "mark": "7.00",
               "athlete": "Agate De Sousa",
               "country": "POR",
@@ -5106,7 +5197,7 @@ window.ATHLETICS_DATA = {
               "date": "15 AUG 2026"
             },
             {
-              "rank": 8,
+              "rank": 7,
               "mark": "6.98",
               "athlete": "Hilary Kpatcha",
               "country": "FRA",
@@ -5116,7 +5207,7 @@ window.ATHLETICS_DATA = {
               "date": "24 JUL 2026"
             },
             {
-              "rank": 9,
+              "rank": 8,
               "mark": "6.96",
               "athlete": "Jazmin Sawyers",
               "country": "GBR",
@@ -5126,7 +5217,7 @@ window.ATHLETICS_DATA = {
               "date": "16 AUG 2026"
             },
             {
-              "rank": 10,
+              "rank": 9,
               "mark": "6.95",
               "athlete": "Monae&#39; Nichols",
               "country": "USA",
@@ -5134,6 +5225,16 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Ansin Sports Complex",
               "date": "04 APR 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "6.94",
+              "athlete": "Claire Bryant",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Olympic Stadium",
+              "date": "18 JUL 2026"
             }
           ]
         },
