@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-10 23:16 UTC",
+  "UPDATED": "2026-09-11 09:45 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1614,
+    "matches": 1612,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 931
+        "matches": 930
       },
       {
         "name": "IPL",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 84
+        "matches": 83
       },
       {
         "name": "MLC",
@@ -2250,24 +2250,6 @@ window.CRICKET_DATA = {
           "wickets": 61
         },
         {
-          "id": "rl-chase",
-          "name": "RL Chase",
-          "role": "Batter",
-          "country": "West Indies",
-          "teamCode": "WI",
-          "colors": {
-            "primary": "#7a263a",
-            "secondary": "#f6c344"
-          },
-          "logo": "",
-          "score": 77.9,
-          "batting": 26.8,
-          "bowling": 55.1,
-          "overall": 77.9,
-          "runs": 1878,
-          "wickets": 75
-        },
-        {
           "id": "mj-santner",
           "name": "MJ Santner",
           "role": "Bowler",
@@ -2302,6 +2284,24 @@ window.CRICKET_DATA = {
           "overall": 77.2,
           "runs": 419,
           "wickets": 125
+        },
+        {
+          "id": "rl-chase",
+          "name": "RL Chase",
+          "role": "Batter",
+          "country": "West Indies",
+          "teamCode": "WI",
+          "colors": {
+            "primary": "#7a263a",
+            "secondary": "#f6c344"
+          },
+          "logo": "",
+          "score": 77.0,
+          "batting": 26.2,
+          "bowling": 55.1,
+          "overall": 77.0,
+          "runs": 1822,
+          "wickets": 75
         },
         {
           "id": "taijul-islam",
@@ -2624,12 +2624,30 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 79.9,
-          "batting": 13.1,
-          "bowling": 79.9,
-          "overall": 65.6,
+          "score": 80.1,
+          "batting": 13.2,
+          "bowling": 80.1,
+          "overall": 65.9,
           "runs": 371,
           "wickets": 106
+        },
+        {
+          "id": "jnt-seales",
+          "name": "JNT Seales",
+          "role": "Bowler",
+          "country": "West Indies",
+          "teamCode": "WI",
+          "colors": {
+            "primary": "#7a263a",
+            "secondary": "#f6c344"
+          },
+          "logo": "",
+          "score": 77.6,
+          "batting": 10.2,
+          "bowling": 77.6,
+          "overall": 57.0,
+          "runs": 247,
+          "wickets": 101
         },
         {
           "id": "taijul-islam",
@@ -2648,24 +2666,6 @@ window.CRICKET_DATA = {
           "overall": 75.3,
           "runs": 301,
           "wickets": 77
-        },
-        {
-          "id": "jnt-seales",
-          "name": "JNT Seales",
-          "role": "Bowler",
-          "country": "West Indies",
-          "teamCode": "WI",
-          "colors": {
-            "primary": "#7a263a",
-            "secondary": "#f6c344"
-          },
-          "logo": "",
-          "score": 77.4,
-          "batting": 10.2,
-          "bowling": 77.4,
-          "overall": 56.9,
-          "runs": 247,
-          "wickets": 101
         },
         {
           "id": "nauman-ali",

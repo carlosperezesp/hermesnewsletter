@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-10 23:16 UTC",
+  "UPDATED": "2026-09-11 09:45 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Aragon motorcycle Grand Prix:Marc Márquez",
@@ -9,14 +9,6 @@ window.GLORY_DATA = {
       "text": "Marc Márquez ganó el Aragon motorcycle Grand Prix",
       "weight": 100,
       "firstSeen": "2026-08-30"
-    },
-    {
-      "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "text": "Ryan Blaney ganó en Echopark Speedway",
-      "weight": 100,
-      "firstSeen": "2026-08-27"
     },
     {
       "id": "rank:sumo:BANZUKE:new1:Onosato",
