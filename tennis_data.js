@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-11 17:12 UTC
+// Auto-generated 2026-09-11 22:37 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-11 17:12 UTC",
+  "UPDATED": "2026-09-11 22:37 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1019,7 +1019,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 67.1
@@ -8939,7 +8939,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Montreux Nestlé Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 45.5
@@ -9321,7 +9321,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Montreux Nestlé Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 42.9
@@ -10901,9 +10901,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Karen Khachanov",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 7-6 (9-7) 7-6 (8-6)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 87.5,
           "l_score": 67.1,
           "match_score": 87.5
@@ -11168,7 +11168,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Simona Waltert",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11236,11 +11236,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Eva Bennemann",
+          "w": "Alicia Herrero Linana",
           "w_logo": "",
-          "l": "Alicia Herrero Linana",
+          "l": "Eva Bennemann",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11312,9 +11312,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Leolia Jeanjean",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 45.3,
           "l_score": 39.5,
           "match_score": 45.3
@@ -11712,7 +11712,7 @@ window.TENNIS_DATA = {
       "Zhang Shuai"
     ],
     "aliveCount": 109,
-    "matchesSeen": 215
+    "matchesSeen": 217
   },
   "ATP_SCORE_LOG": {
     "206173": [
