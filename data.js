@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-12 15:49 UTC",
+  "LAST_UPDATE": "2026-09-12 16:28 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-12T15:48:32Z"
+    "standingsDateTimeUtc": "2026-09-12T16:27:30Z"
   }
 };

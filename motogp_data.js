@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-12 15:50 UTC
+// Auto-generated 2026-09-12 16:28 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-09-12 15:50 UTC",
+  "UPDATED": "2026-09-12 16:28 UTC",
   "SEASON": "2026",
   "ROUND": 13,
   "TOTAL_ROUNDS": 22,

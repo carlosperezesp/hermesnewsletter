@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-12 15:52 UTC
+// Auto-generated 2026-09-12 16:30 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-12 15:52 UTC",
+  "UPDATED": "2026-09-12 16:30 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -9739,8 +9739,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "Guadalajara Open presentado por Santander",
-        "state": "alive",
+        "tournament": "US Open",
+        "state": "out",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -11470,7 +11470,6 @@ window.TENNIS_DATA = {
       "Martina Trevisan",
       "Mary Stoiana",
       "Maya Joint",
-      "Mayar Sherif",
       "Miriam Bulgaru",
       "Mirra Andreeva",
       "Nadia Podoroska",
@@ -11561,6 +11560,7 @@ window.TENNIS_DATA = {
       "Maria Camila Torres Murcia",
       "Maria Paulina Perez Garcia",
       "Marina Bassols Ribera",
+      "Mayar Sherif",
       "McCartney Kessler",
       "Mia Ristic",
       "Mina Hodzic",
@@ -11597,7 +11597,7 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez",
       "Zhang Shuai"
     ],
-    "aliveCount": 119,
+    "aliveCount": 118,
     "matchesSeen": 227
   },
   "ATP_SCORE_LOG": {
