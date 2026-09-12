@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-12 09:24 UTC
+// Auto-generated 2026-09-12 11:00 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-12 09:24 UTC",
+  "UPDATED": "2026-09-12 11:00 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11167,9 +11167,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Rositsa Dencheva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
