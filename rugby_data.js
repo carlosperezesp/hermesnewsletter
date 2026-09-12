@@ -1,20 +1,45 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-09-12 22:20 UTC",
+  "UPDATED": "2026-09-12 23:07 UTC",
   "LAST_MATCH": "2026-09-12",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 355,
+    "incrementalMatches": 356,
     "teams": 162,
-    "matches": 10050,
+    "matches": 10051,
     "through": "2026-09-12"
   },
   "IMPORTANCE": 7.0,
   "CALENDAR": {
     "recent": [
+      {
+        "date": "2026-09-12",
+        "status": "final",
+        "competition": "International Test Match",
+        "home": {
+          "name": "South Africa",
+          "teamCode": "RSA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb612"
+          }
+        },
+        "away": {
+          "name": "New Zealand",
+          "teamCode": "NZL",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          }
+        },
+        "homeScore": 43,
+        "awayScore": 28,
+        "venue": "M&T Bank Stadium",
+        "city": ""
+      },
       {
         "date": "2026-09-12",
         "status": "final",
@@ -217,31 +242,6 @@ window.RUGBY_DATA = {
       }
     ],
     "upcoming": [
-      {
-        "date": "2026-09-12",
-        "status": "scheduled",
-        "competition": "International Test Match",
-        "home": {
-          "name": "South Africa",
-          "teamCode": "RSA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb612"
-          }
-        },
-        "away": {
-          "name": "New Zealand",
-          "teamCode": "NZL",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "M&T Bank Stadium",
-        "city": ""
-      },
       {
         "date": "2026-09-19",
         "status": "scheduled",
@@ -516,6 +516,31 @@ window.RUGBY_DATA = {
         "awayScore": null,
         "venue": "Groupama Stadium",
         "city": "Lyon"
+      },
+      {
+        "date": "2026-11-08",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#ffffff",
+            "secondary": "#cf142b"
+          }
+        },
+        "away": {
+          "name": "Australia",
+          "teamCode": "AUS",
+          "colors": {
+            "primary": "#ffcd00",
+            "secondary": "#00843d"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Allianz Stadium",
+        "city": "London"
       }
     ]
   },
@@ -536,15 +561,15 @@ window.RUGBY_DATA = {
       "name": "South Africa",
       "teamCode": "RSA",
       "country": "South Africa",
-      "elo": 2719.1,
-      "eloRaw": 2719.1,
-      "lastMatch": "2026-09-05",
-      "inactiveDays": 7,
-      "peakElo": 2722.0,
-      "peakDate": "2026-08-08",
+      "elo": 2739.8,
+      "eloRaw": 2739.8,
+      "lastMatch": "2026-09-12",
+      "inactiveDays": 0,
+      "peakElo": 2739.8,
+      "peakDate": "2026-09-12",
       "worldCups": 4,
       "record": {
-        "w": 362,
+        "w": 363,
         "l": 179,
         "d": 25
       },
@@ -552,30 +577,30 @@ window.RUGBY_DATA = {
         "primary": "#007a4d",
         "secondary": "#ffb612"
       },
-      "note": "362V-179D-25E · último 2026-09-05 · raw 2719"
+      "note": "363V-179D-25E · último 2026-09-12 · raw 2740"
     },
     {
       "rank": 2,
       "name": "New Zealand",
       "teamCode": "NZL",
       "country": "New Zealand",
-      "elo": 2644.1,
-      "eloRaw": 2644.1,
-      "lastMatch": "2026-09-05",
-      "inactiveDays": 7,
+      "elo": 2623.4,
+      "eloRaw": 2623.4,
+      "lastMatch": "2026-09-12",
+      "inactiveDays": 0,
       "peakElo": 2749.6,
       "peakDate": "2016-10-22",
       "worldCups": 3,
       "record": {
         "w": 555,
-        "l": 143,
+        "l": 144,
         "d": 26
       },
       "colors": {
         "primary": "#111111",
         "secondary": "#d8d8d8"
       },
-      "note": "555V-143D-26E · último 2026-09-05 · raw 2644"
+      "note": "555V-144D-26E · último 2026-09-12 · raw 2623"
     },
     {
       "rank": 3,

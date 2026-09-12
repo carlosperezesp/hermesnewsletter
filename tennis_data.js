@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-12 22:20 UTC
+// Auto-generated 2026-09-12 23:08 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-12 22:20 UTC",
+  "UPDATED": "2026-09-12 23:08 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5185,7 +5185,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 100.0
@@ -11101,7 +11101,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Aryna Sabalenka",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 5-7 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 93.0,
