@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-11 23:24 UTC",
+  "UPDATED": "2026-09-12 09:24 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1612,
+    "matches": 1610,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 930
+        "matches": 929
       },
       {
         "name": "IPL",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 83
+        "matches": 82
       },
       {
         "name": "MLC",
@@ -1766,11 +1766,11 @@ window.CRICKET_DATA = {
             "secondary": "#dddddd"
           },
           "logo": "",
-          "score": 71.5,
-          "batting": 33.1,
-          "bowling": 44.4,
-          "overall": 71.5,
-          "runs": 855,
+          "score": 71.3,
+          "batting": 32.7,
+          "bowling": 44.7,
+          "overall": 71.3,
+          "runs": 814,
           "wickets": 48
         }
       ],
@@ -2117,7 +2117,7 @@ window.CRICKET_DATA = {
           "bowling": 74.9,
           "overall": 63.9,
           "runs": 316,
-          "wickets": 86
+          "wickets": 85
         },
         {
           "id": "jc-tongue",
@@ -2170,12 +2170,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 94.9,
-          "batting": 23.0,
-          "bowling": 95.3,
-          "overall": 94.9,
+          "score": 94.4,
+          "batting": 23.1,
+          "bowling": 93.9,
+          "overall": 94.4,
           "runs": 1232,
-          "wickets": 132
+          "wickets": 130
         },
         {
           "id": "ba-stokes",
@@ -2552,12 +2552,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 95.3,
-          "batting": 23.0,
-          "bowling": 95.3,
-          "overall": 94.9,
+          "score": 93.9,
+          "batting": 23.1,
+          "bowling": 93.9,
+          "overall": 94.4,
           "runs": 1232,
-          "wickets": 132
+          "wickets": 130
         },
         {
           "id": "haris-rauf",

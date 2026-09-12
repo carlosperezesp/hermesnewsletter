@@ -35859,7 +35859,7 @@ window.NHL_DATA = {
       "name": "Jake Christiansen",
       "pos": "D",
       "teamCode": "CBJ",
-      "age": 26,
+      "age": 27,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-11 23:22 UTC",
+  "LAST_UPDATE": "2026-09-12 09:22 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-11T23:21:30Z"
+    "standingsDateTimeUtc": "2026-09-12T09:21:46Z"
   }
 };
