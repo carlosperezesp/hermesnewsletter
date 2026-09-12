@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-12 16:28 UTC
+// Auto-generated 2026-09-12 22:18 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-09-12 16:28 UTC",
+  "UPDATED": "2026-09-12 22:18 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -693,7 +693,7 @@ window.CYCLING_DATA = {
     "name": "Vuelta a España",
     "start": "2026-08-15",
     "end": "2026-09-06",
-    "stage": 19,
+    "stage": 20,
     "total_stages": 21,
     "jersey_primary": "#E8002D",
     "jersey_name": "Maillot Rojo",
@@ -718,7 +718,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/es.png",
         "team": "MOV men",
         "primary": "#AA151B",
-        "time": "65h 52' 03\"",
+        "time": "70h 56' 58\"",
         "legendScore": 0.0
       },
       {
@@ -728,7 +728,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/si.png",
         "team": "RBH",
         "primary": "#003DA5",
-        "time": "+ 1' 37\"",
+        "time": "+ 2' 15\"",
         "legendScore": 22.4
       },
       {
@@ -738,7 +738,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/at.png",
         "team": "DCT",
         "primary": "#ED2939",
-        "time": "+ 3' 01\"",
+        "time": "+ 2' 44\"",
         "legendScore": 0.0
       },
       {
@@ -748,57 +748,57 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/ec.png",
         "team": "EFE",
         "primary": "#FFD100",
-        "time": "+ 5' 17\"",
+        "time": "+ 6' 54\"",
         "legendScore": 0.0
       },
       {
         "rank": 5,
+        "name": "Sepp Kuss",
+        "country": "USA",
+        "logo": "https://flagcdn.com/24x18/us.png",
+        "team": "TVL men",
+        "primary": "#B22234",
+        "time": "+ 8' 45\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 6,
         "name": "Oscar Onley",
         "country": "GBR",
         "logo": "https://flagcdn.com/24x18/gb.png",
         "team": "NCI",
         "primary": "#012169",
-        "time": "+ 6' 03\"",
+        "time": "+ 9' 28\"",
         "legendScore": 0.0
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "Jakob Omrzel",
         "country": "SLO",
         "logo": "https://flagcdn.com/24x18/si.png",
         "team": "TBV",
         "primary": "#003DA5",
-        "time": "+ 7' 06\"",
+        "time": "+ 10' 38\"",
         "legendScore": 0.0
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "Clément Berthet",
         "country": "FRA",
         "logo": "https://flagcdn.com/24x18/fr.png",
         "team": "GFC",
         "primary": "#002395",
-        "time": "+ 7' 57\"",
+        "time": "+ 11' 41\"",
         "legendScore": 0.0
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Cristián Rodríguez",
         "country": "ESP",
         "logo": "https://flagcdn.com/24x18/es.png",
         "team": "XAT",
         "primary": "#AA151B",
-        "time": "+ 8' 21\"",
-        "legendScore": 0.0
-      },
-      {
-        "rank": 9,
-        "name": "Mattias Skjelmose",
-        "country": "DEN",
-        "logo": "https://flagcdn.com/24x18/dk.png",
-        "team": "LTK men",
-        "primary": "#C60C30",
-        "time": "+ 9' 06\"",
+        "time": "+ 11' 59\"",
         "legendScore": 0.0
       },
       {
@@ -808,7 +808,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/co.png",
         "team": "XAT",
         "primary": "#FCD116",
-        "time": "+ 10' 27\"",
+        "time": "+ 14' 40\"",
         "legendScore": 0.0
       }
     ],
@@ -819,7 +819,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/be.png",
       "team": "TVL men",
       "primary": "#000000",
-      "points": 306,
+      "points": 326,
       "legendScore": 0.0
     },
     "kom_leader": {
@@ -839,7 +839,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/gb.png",
       "team": "NCI",
       "primary": "#012169",
-      "time": "65h 58' 06\"",
+      "time": "71h 06' 26\"",
       "legendScore": 0.0
     }
   },

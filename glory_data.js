@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-12 16:30 UTC",
+  "UPDATED": "2026-09-12 22:20 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -513,10 +513,10 @@ window.GLORY_DATA = {
       "Florence Griffith Joyner",
       "Melissa Jefferson-Wooden",
       "Florence Griffith Joyner",
+      "Melissa Jefferson-Wooden",
       "Shelly-Ann Fraser-Pryce",
       "Adaejah Hodge",
-      "Carmelita Jeter",
-      "Elaine Thompson-Herah"
+      "Carmelita Jeter"
     ],
     "athletics:allTime:200m_m": [
       "Usain Bolt",
@@ -548,11 +548,11 @@ window.GLORY_DATA = {
       "Butch Reynolds",
       "Samuel Ogazi",
       "Michael Johnson",
+      "Busang Collen Kebinatshipi",
       "Quincy Hall",
       "Busang Collen Kebinatshipi",
       "Michael Johnson",
-      "Matthew Hudson-Smith",
-      "Busang Collen Kebinatshipi"
+      "Matthew Hudson-Smith"
     ],
     "athletics:allTime:400m_w": [
       "Marita Koch",

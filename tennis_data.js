@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-12 16:30 UTC
+// Auto-generated 2026-09-12 22:20 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-12 16:30 UTC",
+  "UPDATED": "2026-09-12 22:20 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -7565,7 +7565,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "US Open",
+        "tournament": "SP Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7975,7 +7975,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 83,
       "tournamentStatus": {
-        "tournament": "US Open",
+        "tournament": "SP Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -8145,9 +8145,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Kia Open",
+        "tournament": "SP Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 51.8
@@ -8315,7 +8315,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "US Open",
+        "tournament": "SP Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -8419,8 +8419,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "Kia Open",
-        "state": "out",
+        "tournament": "SP Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -8627,9 +8627,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 102,
       "tournamentStatus": {
-        "tournament": "Kia Open",
+        "tournament": "SP Open",
         "state": "alive",
-        "round": "F",
+        "round": "R128",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 48.7
@@ -8835,9 +8835,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "Kia Open",
+        "tournament": "SP Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 46.7
@@ -8971,9 +8971,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 112,
       "tournamentStatus": {
-        "tournament": "Kia Open",
+        "tournament": "SP Open",
         "state": "alive",
-        "round": "F",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 45.3
@@ -9113,9 +9113,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "Kia Open",
+        "tournament": "SP Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 44.3
@@ -9321,7 +9321,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Montreux Nestlé Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 42.9
@@ -9493,7 +9493,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "US Open",
+        "tournament": "SP Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -9597,9 +9597,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "Kia Open",
+        "tournament": "SP Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 39.5
@@ -9811,8 +9811,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "Kia Open",
-        "state": "out",
+        "tournament": "SP Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -10095,7 +10095,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "Kia Open",
+        "tournament": "SP Open",
         "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
@@ -10241,7 +10241,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Montreux Nestlé Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11097,15 +11097,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Aryna Sabalenka",
+          "w": "Elena Rybakina",
           "w_logo": "",
-          "l": "Elena Rybakina",
+          "l": "Aryna Sabalenka",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 100.0,
-          "l_score": 93.0,
+          "scheduled": false,
+          "w_score": 93.0,
+          "l_score": 100.0,
           "match_score": 100.0
         }
       ]
@@ -11121,7 +11121,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Dalma Galfi",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 2-6 6-0",
           "day": "hoy",
           "scheduled": false,
           "w_score": 42.9,
@@ -11187,9 +11187,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Claire Liu",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.7,
           "l_score": 45.3,
           "match_score": 48.7
@@ -11398,24 +11398,29 @@ window.TENNIS_DATA = {
       "Anna Bondar",
       "Anna Kalinskaya",
       "Aryna Sabalenka",
+      "Astra Sharma",
       "Aurora Zantedeschi",
       "Barbora Palicova",
       "Bianca Andreescu",
       "Cagla Buyukakcay",
       "Carol Young Suh Lee",
+      "Carolina Alves",
       "Catherine McNally",
       "Claire Liu",
       "Clara Burel",
       "Coco Gauff",
       "Cristina Bucsa",
       "Dalma Galfi",
+      "Darja Semenistaja",
       "Darja Vidmanova",
       "Despina Papamichail",
       "Diana Shnaider",
       "Diane Parry",
+      "Dominika Salkova",
       "Donna Vekic",
       "Ekaterina Alexandrova",
       "Elena Rybakina",
+      "Elina Avanesyan",
       "Elina Svitolina",
       "Elise Mertens",
       "Elizara Yaneva",
@@ -11428,6 +11433,7 @@ window.TENNIS_DATA = {
       "Eva Vedder",
       "Fiona Ferro",
       "Francesca Jones",
+      "Gabriela Ce",
       "Guiomar Maristany Zuleta De Reales",
       "Harriet Dart",
       "Himeno Sakatsume",
@@ -11449,6 +11455,7 @@ window.TENNIS_DATA = {
       "Kayla Day",
       "Kimberly Birrell",
       "Lanlana Tararudee",
+      "Laura Pigossi",
       "Leolia Jeanjean",
       "Leylah Fernandez",
       "Leyre Romero Gormaz",
@@ -11475,6 +11482,7 @@ window.TENNIS_DATA = {
       "Nadia Podoroska",
       "Nao Hibino",
       "Naomi Osaka",
+      "Nauhany Vitoria Leme Da Silva",
       "Nikola Bartunkova",
       "Noma Noha Akugue",
       "Nuria Brancaccio",
@@ -11490,11 +11498,15 @@ window.TENNIS_DATA = {
       "Sloane Stephens",
       "Sofia Kenin",
       "Sorana Cirstea",
+      "Suzan Lamens",
       "Tatjana Maria",
       "Taylah Preston",
       "Taylor Townsend",
+      "Teodora Kostovic",
       "Tessa Johanna Brockmann",
       "Varvara Lepchenko",
+      "Vendula Valdmannova",
+      "Victoria Luiza Barros",
       "Wang Xinyu",
       "Yulia Putintseva",
       "Yuliia Starodubtseva",
@@ -11519,14 +11531,11 @@ window.TENNIS_DATA = {
       "Berfu Cengiz",
       "Cadence Brace",
       "Camila Osorio",
-      "Carolina Alves",
       "Clara Tauson",
       "Daria Kasatkina",
       "Daria Snigur",
-      "Darja Semenistaja",
       "Dayana Yastremska",
       "Denisa Zoldakova",
-      "Dominika Salkova",
       "Elena Pridankina",
       "Elena-Gabriela Ruse",
       "Elisabetta Cocciaretto",
@@ -11579,14 +11588,12 @@ window.TENNIS_DATA = {
       "Sofya Lansere",
       "Solana Sierra",
       "Storm Hunter",
-      "Suzan Lamens",
       "Talia Gibson",
       "Tamara Korpatsch",
       "Tamara Zidansek",
       "Thea Frodin",
       "Valentina Mediorreal Arias",
       "Valentina Ryser",
-      "Vendula Valdmannova",
       "Venus Williams",
       "Veronika Erjavec",
       "Viktorija Golubic",
@@ -11597,8 +11604,8 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez",
       "Zhang Shuai"
     ],
-    "aliveCount": 118,
-    "matchesSeen": 227
+    "aliveCount": 130,
+    "matchesSeen": 240
   },
   "ATP_SCORE_LOG": {
     "206173": [

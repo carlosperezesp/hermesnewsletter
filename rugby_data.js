@@ -1,6 +1,6 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-09-12 16:29 UTC",
+  "UPDATED": "2026-09-12 22:20 UTC",
   "LAST_MATCH": "2026-09-12",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
@@ -243,6 +243,56 @@ window.RUGBY_DATA = {
         "city": ""
       },
       {
+        "date": "2026-09-19",
+        "status": "scheduled",
+        "competition": "IRB Pacific Nations Cup",
+        "home": {
+          "name": "TBC",
+          "teamCode": "T",
+          "colors": {
+            "primary": "#8a8178",
+            "secondary": "#dedad6"
+          }
+        },
+        "away": {
+          "name": "Fiji",
+          "teamCode": "FIJ",
+          "colors": {
+            "primary": "#6ecff6",
+            "secondary": "#111111"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Prince Chichibu Memorial Stadium",
+        "city": "Tokyo"
+      },
+      {
+        "date": "2026-09-19",
+        "status": "scheduled",
+        "competition": "IRB Pacific Nations Cup",
+        "home": {
+          "name": "TBC",
+          "teamCode": "T",
+          "colors": {
+            "primary": "#8a8178",
+            "secondary": "#dedad6"
+          }
+        },
+        "away": {
+          "name": "Canada",
+          "teamCode": "C",
+          "colors": {
+            "primary": "#8a8178",
+            "secondary": "#dedad6"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Prince Chichibu Memorial Stadium",
+        "city": "Tokyo"
+      },
+      {
         "date": "2026-09-27",
         "status": "scheduled",
         "competition": "International Test Match",
@@ -466,56 +516,6 @@ window.RUGBY_DATA = {
         "awayScore": null,
         "venue": "Groupama Stadium",
         "city": "Lyon"
-      },
-      {
-        "date": "2026-11-08",
-        "status": "scheduled",
-        "competition": "Nations Championship",
-        "home": {
-          "name": "England",
-          "teamCode": "ENG",
-          "colors": {
-            "primary": "#ffffff",
-            "secondary": "#cf142b"
-          }
-        },
-        "away": {
-          "name": "Australia",
-          "teamCode": "AUS",
-          "colors": {
-            "primary": "#ffcd00",
-            "secondary": "#00843d"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "Allianz Stadium",
-        "city": "London"
-      },
-      {
-        "date": "2026-11-13",
-        "status": "scheduled",
-        "competition": "Nations Championship",
-        "home": {
-          "name": "France",
-          "teamCode": "FRA",
-          "colors": {
-            "primary": "#1d4f91",
-            "secondary": "#d80f2a"
-          }
-        },
-        "away": {
-          "name": "South Africa",
-          "teamCode": "RSA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb612"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "Stade de France",
-        "city": "Saint-Denis"
       }
     ]
   },
