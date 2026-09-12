@@ -1,15 +1,15 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-09-12 10:59 UTC",
+  "UPDATED": "2026-09-12 15:51 UTC",
   "LAST_MATCH": "2026-09-12",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 354,
+    "incrementalMatches": 355,
     "teams": 162,
-    "matches": 10049,
+    "matches": 10050,
     "through": "2026-09-12"
   },
   "IMPORTANCE": 7.0,
@@ -37,6 +37,31 @@ window.RUGBY_DATA = {
         },
         "homeScore": 45,
         "awayScore": 29,
+        "venue": "Hanazono Rugby Stadium",
+        "city": "Osaka"
+      },
+      {
+        "date": "2026-09-12",
+        "status": "final",
+        "competition": "IRB Pacific Nations Cup",
+        "home": {
+          "name": "Japan",
+          "teamCode": "JPN",
+          "colors": {
+            "primary": "#bc002d",
+            "secondary": "#ffffff"
+          }
+        },
+        "away": {
+          "name": "United States",
+          "teamCode": "USA",
+          "colors": {
+            "primary": "#3c3b6e",
+            "secondary": "#b22234"
+          }
+        },
+        "homeScore": 63,
+        "awayScore": 14,
         "venue": "Hanazono Rugby Stadium",
         "city": "Osaka"
       },
@@ -216,31 +241,6 @@ window.RUGBY_DATA = {
         "awayScore": null,
         "venue": "M&T Bank Stadium",
         "city": ""
-      },
-      {
-        "date": "2026-09-12",
-        "status": "scheduled",
-        "competition": "IRB Pacific Nations Cup",
-        "home": {
-          "name": "Japan",
-          "teamCode": "JPN",
-          "colors": {
-            "primary": "#bc002d",
-            "secondary": "#ffffff"
-          }
-        },
-        "away": {
-          "name": "United States",
-          "teamCode": "USA",
-          "colors": {
-            "primary": "#3c3b6e",
-            "secondary": "#b22234"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "Hanazono Rugby Stadium",
-        "city": "Osaka"
       },
       {
         "date": "2026-09-27",
@@ -491,6 +491,31 @@ window.RUGBY_DATA = {
         "awayScore": null,
         "venue": "Allianz Stadium",
         "city": "London"
+      },
+      {
+        "date": "2026-11-13",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "France",
+          "teamCode": "FRA",
+          "colors": {
+            "primary": "#1d4f91",
+            "secondary": "#d80f2a"
+          }
+        },
+        "away": {
+          "name": "South Africa",
+          "teamCode": "RSA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb612"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Stade de France",
+        "city": "Saint-Denis"
       }
     ]
   },
