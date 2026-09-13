@@ -2407,7 +2407,7 @@ window.NHL_DATA = {
       "name": "Adrian Kempe",
       "pos": "RW",
       "teamCode": "LAK",
-      "age": 29,
+      "age": 30,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -20439,7 +20439,7 @@ window.NHL_DATA = {
       "name": "Mark Jankowski",
       "pos": "LW",
       "teamCode": "CAR",
-      "age": 31,
+      "age": 32,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -23960,7 +23960,7 @@ window.NHL_DATA = {
       "name": "Miles Wood",
       "pos": "LW",
       "teamCode": "CBJ",
-      "age": 30,
+      "age": 31,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -30891,7 +30891,7 @@ window.NHL_DATA = {
       "name": "Alexandre Texier",
       "pos": "LW",
       "teamCode": "MTL",
-      "age": 26,
+      "age": 27,
       "country": "France",
       "birthCountry": "FRA",
       "colors": {
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-12 23:05 UTC",
+  "LAST_UPDATE": "2026-09-13 10:18 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-12T23:05:00Z"
+    "standingsDateTimeUtc": "2026-09-13T10:17:29Z"
   }
 };

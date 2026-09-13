@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-12 23:07 UTC",
+  "UPDATED": "2026-09-13 10:20 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1610,
+    "matches": 1607,
     "archives": [
       {
         "name": "Tests",
@@ -13,11 +13,11 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 139
+        "matches": 138
       },
       {
         "name": "T20Is",
-        "matches": 929
+        "matches": 928
       },
       {
         "name": "IPL",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 82
+        "matches": 81
       },
       {
         "name": "MLC",
@@ -1738,6 +1738,24 @@ window.CRICKET_DATA = {
           "wickets": 77
         },
         {
+          "id": "virandeep-singh",
+          "name": "Virandeep Singh",
+          "role": "Bowler",
+          "country": "Malaysia",
+          "teamCode": "MAL",
+          "colors": {
+            "primary": "#555555",
+            "secondary": "#dddddd"
+          },
+          "logo": "",
+          "score": 72.4,
+          "batting": 33.6,
+          "bowling": 44.9,
+          "overall": 72.4,
+          "runs": 812,
+          "wickets": 48
+        },
+        {
           "id": "pj-cummins",
           "name": "PJ Cummins",
           "role": "Bowler",
@@ -1754,24 +1772,6 @@ window.CRICKET_DATA = {
           "overall": 72.3,
           "runs": 416,
           "wickets": 77
-        },
-        {
-          "id": "virandeep-singh",
-          "name": "Virandeep Singh",
-          "role": "Bowler",
-          "country": "Malaysia",
-          "teamCode": "MAL",
-          "colors": {
-            "primary": "#555555",
-            "secondary": "#dddddd"
-          },
-          "logo": "",
-          "score": 71.3,
-          "batting": 32.7,
-          "bowling": 44.7,
-          "overall": 71.3,
-          "runs": 814,
-          "wickets": 48
         }
       ],
       "batting": [
@@ -2296,12 +2296,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 77.0,
-          "batting": 26.2,
-          "bowling": 55.1,
-          "overall": 77.0,
-          "runs": 1822,
-          "wickets": 75
+          "score": 76.7,
+          "batting": 26.3,
+          "bowling": 54.5,
+          "overall": 76.7,
+          "runs": 1818,
+          "wickets": 74
         },
         {
           "id": "taijul-islam",
@@ -2624,12 +2624,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 80.1,
+          "score": 78.7,
           "batting": 13.2,
-          "bowling": 80.1,
-          "overall": 65.9,
+          "bowling": 78.7,
+          "overall": 65.3,
           "runs": 371,
-          "wickets": 106
+          "wickets": 104
         },
         {
           "id": "jnt-seales",

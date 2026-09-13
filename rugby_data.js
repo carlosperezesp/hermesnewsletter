@@ -1,6 +1,6 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-09-12 23:07 UTC",
+  "UPDATED": "2026-09-13 10:20 UTC",
   "LAST_MATCH": "2026-09-12",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
@@ -247,11 +247,11 @@ window.RUGBY_DATA = {
         "status": "scheduled",
         "competition": "IRB Pacific Nations Cup",
         "home": {
-          "name": "TBC",
-          "teamCode": "T",
+          "name": "Japan",
+          "teamCode": "JPN",
           "colors": {
-            "primary": "#8a8178",
-            "secondary": "#dedad6"
+            "primary": "#bc002d",
+            "secondary": "#ffffff"
           }
         },
         "away": {
@@ -272,11 +272,11 @@ window.RUGBY_DATA = {
         "status": "scheduled",
         "competition": "IRB Pacific Nations Cup",
         "home": {
-          "name": "TBC",
-          "teamCode": "T",
+          "name": "United States",
+          "teamCode": "USA",
           "colors": {
-            "primary": "#8a8178",
-            "secondary": "#dedad6"
+            "primary": "#3c3b6e",
+            "secondary": "#b22234"
           }
         },
         "away": {
