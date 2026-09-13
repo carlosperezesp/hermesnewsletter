@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-13 12:06 UTC",
+  "UPDATED": "2026-09-13 16:39 UTC",
   "EVENTS": [
+    {
+      "id": "motogp:win:San Marino and Rimini Riviera motorcycle Grand Prix:Marc Márquez",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "text": "Marc Márquez ganó el San Marino and Rimini Riviera motorcycle Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-09-13"
+    },
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
       "sport": "nascar",
@@ -17,6 +25,15 @@ window.GLORY_DATA = {
       "text": "Marc Márquez ganó el Aragon motorcycle Grand Prix",
       "weight": 100,
       "firstSeen": "2026-08-30"
+    },
+    {
+      "id": "rank:motogp:RIDERS:new1:Marc Márquez",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "anchor": "motogp-mundial",
+      "text": "Marc Márquez es nuevo nº1 · Mundial",
+      "weight": 92,
+      "firstSeen": "2026-09-13"
     },
     {
       "id": "rank:sumo:BANZUKE:new1:Onosato",
@@ -375,8 +392,8 @@ window.GLORY_DATA = {
       "Kyle Larson"
     ],
     "motogp:RIDERS": [
-      "Jorge Martín",
       "Marc Márquez",
+      "Jorge Martín",
       "Marco Bezzecchi",
       "Fabio Di Giannantonio",
       "Ai Ogura",

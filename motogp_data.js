@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-13 12:05 UTC
+// Auto-generated 2026-09-13 16:37 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-09-13 12:05 UTC",
+  "UPDATED": "2026-09-13 16:37 UTC",
   "SEASON": "2026",
   "ROUND": 13,
   "TOTAL_ROUNDS": 22,
@@ -9,37 +9,37 @@ window.MOTOGP_DATA = {
   "RIDERS": [
     {
       "position": 1,
-      "name": "Jorge Martín",
-      "country": "ESP",
-      "bike": "Aprilia",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "primary": "#003366",
-      "secondary": "#E8002D",
-      "points": 256.0,
-      "score": 46.5,
-      "stats": {
-        "pts": 256.0
-      },
-      "seasonPct": 46.5,
-      "prevRank": 1,
-      "age": 28
-    },
-    {
-      "position": 2,
       "name": "Marc Márquez",
       "country": "ESP",
       "bike": "Ducati",
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 237.0,
-      "score": 43.1,
+      "points": 274.0,
+      "score": 49.8,
       "stats": {
-        "pts": 237.0
+        "pts": 274.0
       },
-      "seasonPct": 43.1,
+      "seasonPct": 49.8,
       "prevRank": 2,
       "age": 33
+    },
+    {
+      "position": 2,
+      "name": "Jorge Martín",
+      "country": "ESP",
+      "bike": "Aprilia",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "primary": "#003366",
+      "secondary": "#E8002D",
+      "points": 274.0,
+      "score": 49.8,
+      "stats": {
+        "pts": 274.0
+      },
+      "seasonPct": 49.8,
+      "prevRank": 1,
+      "age": 28
     },
     {
       "position": 3,
@@ -49,12 +49,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 232.0,
-      "score": 42.2,
+      "points": 243.0,
+      "score": 44.2,
       "stats": {
-        "pts": 232.0
+        "pts": 243.0
       },
-      "seasonPct": 42.2,
+      "seasonPct": 44.2,
       "prevRank": 3,
       "age": 28
     },
@@ -282,8 +282,8 @@ window.MOTOGP_DATA = {
     }
   ],
   "LAST_RACE": {
-    "round": 13,
-    "name": "Aragon motorcycle Grand Prix",
+    "round": 14,
+    "name": "San Marino and Rimini Riviera motorcycle Grand Prix",
     "winner": "Marc Márquez",
     "country": "SPA",
     "bike": "Ducati",
@@ -299,17 +299,17 @@ window.MOTOGP_DATA = {
       },
       {
         "pos": 2,
-        "name": "Álex Márquez",
-        "country": "SPA",
-        "logo": "https://flagcdn.com/24x18/es.png",
-        "bike": "Ducati",
-        "primary": "#CC0000"
-      },
-      {
-        "pos": 3,
         "name": "Marco Bezzecchi",
         "country": "ITA",
         "logo": "https://flagcdn.com/24x18/it.png",
+        "bike": "Aprilia",
+        "primary": "#003366"
+      },
+      {
+        "pos": 3,
+        "name": "Jorge Martín",
+        "country": "SPA",
+        "logo": "https://flagcdn.com/24x18/es.png",
         "bike": "Aprilia",
         "primary": "#003366"
       }
