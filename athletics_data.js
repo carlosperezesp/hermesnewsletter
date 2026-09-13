@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-13 17:04 UTC
+// Auto-generated 2026-09-13 22:26 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-09-13 17:04 UTC",
+  "UPDATED": "2026-09-13 22:26 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -560,13 +560,13 @@ window.ATHLETICS_DATA = {
           "season": [
             {
               "rank": 1,
-              "mark": "19.62",
+              "mark": "19.52",
               "athlete": "Kenneth Bednarek",
               "country": "USA",
               "flag": "https://flagcdn.com/24x18/us.png",
               "primary": "#B22234",
-              "venue": "Letzigrund",
-              "date": "27 AUG 2026"
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "13 SEP 2026"
             },
             {
               "rank": 2,
@@ -620,6 +620,26 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
+              "mark": "19.76",
+              "athlete": "Letsile Tebogo",
+              "country": "BOT",
+              "flag": "https://flagcdn.com/24x18/bw.png",
+              "primary": "#75AADB",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "13 SEP 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "19.79",
+              "athlete": "Courtney Lindsey",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "13 SEP 2026"
+            },
+            {
+              "rank": 9,
               "mark": "19.84",
               "athlete": "Andre De Grasse",
               "country": "CAN",
@@ -629,17 +649,7 @@ window.ATHLETICS_DATA = {
               "date": "26 APR 2026"
             },
             {
-              "rank": 8,
-              "mark": "19.84",
-              "athlete": "Letsile Tebogo",
-              "country": "BOT",
-              "flag": "https://flagcdn.com/24x18/bw.png",
-              "primary": "#75AADB",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 9,
+              "rank": 10,
               "mark": "19.87",
               "athlete": "Jelani Watkins",
               "country": "USA",
@@ -647,16 +657,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Hutsell-Rosen Track",
               "date": "16 MAY 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "19.88",
-              "athlete": "Aidan Murphy",
-              "country": "AUS",
-              "flag": "https://flagcdn.com/24x18/au.png",
-              "primary": "#00008B",
-              "venue": "Olympic Park",
-              "date": "12 APR 2026"
             }
           ]
         },
@@ -705,6 +705,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 4,
+              "mark": "21.47",
+              "athlete": "Melissa Jefferson-Wooden",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "year": 2026
+            },
+            {
+              "rank": 5,
               "mark": "21.48",
               "athlete": "Shericka Jackson",
               "country": "JAM",
@@ -714,7 +724,7 @@ window.ATHLETICS_DATA = {
               "year": 2023
             },
             {
-              "rank": 5,
+              "rank": 6,
               "mark": "21.51",
               "athlete": "Julien Alfred",
               "country": "LCA",
@@ -724,7 +734,7 @@ window.ATHLETICS_DATA = {
               "year": 2026
             },
             {
-              "rank": 6,
+              "rank": 7,
               "mark": "21.53",
               "athlete": "Elaine Thompson-Herah",
               "country": "JAM",
@@ -734,7 +744,7 @@ window.ATHLETICS_DATA = {
               "year": 2021
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "21.55",
               "athlete": "Shericka Jackson",
               "country": "JAM",
@@ -744,7 +754,7 @@ window.ATHLETICS_DATA = {
               "year": 2022
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "21.56",
               "athlete": "Griffith Joyner",
               "country": "USA",
@@ -754,7 +764,7 @@ window.ATHLETICS_DATA = {
               "year": 1988
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "21.57",
               "athlete": "Shericka Jackson",
               "country": "JAM",
@@ -762,21 +772,21 @@ window.ATHLETICS_DATA = {
               "primary": "#000000",
               "venue": "Eugene",
               "year": 2023
-            },
-            {
-              "rank": 10,
-              "mark": "21.60",
-              "athlete": "Gabby Thomas",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Eugene",
-              "year": 2023
             }
           ],
           "season": [
             {
               "rank": 1,
+              "mark": "21.47",
+              "athlete": "Melissa Jefferson-Wooden",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "13 SEP 2026"
+            },
+            {
+              "rank": 2,
               "mark": "21.51",
               "athlete": "Julien Alfred",
               "country": "LCA",
@@ -786,7 +796,7 @@ window.ATHLETICS_DATA = {
               "date": "10 JUL 2026"
             },
             {
-              "rank": 2,
+              "rank": 3,
               "mark": "21.68",
               "athlete": "Adaejah Hodge",
               "country": "IVB",
@@ -794,16 +804,6 @@ window.ATHLETICS_DATA = {
               "primary": "#012169",
               "venue": "Hayward Field",
               "date": "13 JUN 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "21.69",
-              "athlete": "Melissa Jefferson-Wooden",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Icahn Stadium",
-              "date": "26 JUL 2026"
             },
             {
               "rank": 4,
@@ -2370,26 +2370,36 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
-              "mark": "1:42.87",
-              "athlete": "Yanis Meziane",
-              "country": "FRA",
-              "flag": "https://flagcdn.com/24x18/fr.png",
-              "primary": "#002395",
-              "venue": "Boudewijnstadion",
-              "date": "04 SEP 2026"
+              "mark": "1:42.67",
+              "athlete": "Francesco Pernici",
+              "country": "ITA",
+              "flag": "https://flagcdn.com/24x18/it.png",
+              "primary": "#009246",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "13 SEP 2026"
             },
             {
               "rank": 8,
-              "mark": "1:42.97",
+              "mark": "1:42.78",
               "athlete": "Mark English",
               "country": "IRL",
               "flag": "https://flagcdn.com/24x18/ie.png",
               "primary": "#4A4745",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "13 SEP 2026"
             },
             {
               "rank": 9,
+              "mark": "1:42.78",
+              "athlete": "Yanis Meziane",
+              "country": "FRA",
+              "flag": "https://flagcdn.com/24x18/fr.png",
+              "primary": "#002395",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "13 SEP 2026"
+            },
+            {
+              "rank": 10,
               "mark": "1:42.98",
               "athlete": "Max Burgin",
               "country": "GBR",
@@ -2397,16 +2407,6 @@ window.ATHLETICS_DATA = {
               "primary": "#012169",
               "venue": "Complexe Sportif Prince Moulay Abdellah",
               "date": "31 MAY 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "1:43.31",
-              "athlete": "Yusuf Bizimana",
-              "country": "GBR",
-              "flag": "https://flagcdn.com/24x18/gb.png",
-              "primary": "#012169",
-              "venue": "Stadio Quercia",
-              "date": "08 SEP 2026"
             }
           ]
         },
@@ -3392,108 +3392,7 @@ window.ATHLETICS_DATA = {
               "year": 2023
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "14:18.41",
-              "athlete": "Likina Amebaw",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "14:18.54",
-              "athlete": "Aleshign Baweke",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "14:18.94",
-              "athlete": "Freweyni Hailu",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "14:22.37",
-              "athlete": "Senayet Getachew",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "14:22.51",
-              "athlete": "Medina Eisa",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "14:22.56",
-              "athlete": "Hirut Meshesha",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "14:23.44",
-              "athlete": "Fantaye Belayneh",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "Stadio Olimpico",
-              "date": "04 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "14:24.14",
-              "athlete": "Faith Kipyegon",
-              "country": "KEN",
-              "flag": "https://flagcdn.com/24x18/ke.png",
-              "primary": "#006600",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "14:26.41",
-              "athlete": "Asayech Ayichew",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "14:29.97",
-              "athlete": "Mizan Alem",
-              "country": "ETH",
-              "flag": "https://flagcdn.com/24x18/et.png",
-              "primary": "#078930",
-              "venue": "China Textile City Sports Centre",
-              "date": "16 MAY 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "3000msc_m",
@@ -4053,6 +3952,16 @@ window.ATHLETICS_DATA = {
           "season": [
             {
               "rank": 1,
+              "mark": "2.37",
+              "athlete": "Gianmarco Tamberi",
+              "country": "ITA",
+              "flag": "https://flagcdn.com/24x18/it.png",
+              "primary": "#009246",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "13 SEP 2026"
+            },
+            {
+              "rank": 2,
               "mark": "2.34",
               "athlete": "JuVaughn Harrison",
               "country": "USA",
@@ -4062,7 +3971,7 @@ window.ATHLETICS_DATA = {
               "date": "05 AUG 2026"
             },
             {
-              "rank": 2,
+              "rank": 3,
               "mark": "2.33",
               "athlete": "Danil Lysenko",
               "country": "RUS",
@@ -4072,7 +3981,7 @@ window.ATHLETICS_DATA = {
               "date": "16 JAN 2026"
             },
             {
-              "rank": 3,
+              "rank": 4,
               "mark": "2.33",
               "athlete": "Oleh Doroshchuk",
               "country": "UKR",
@@ -4082,7 +3991,7 @@ window.ATHLETICS_DATA = {
               "date": "27 JUN 2026"
             },
             {
-              "rank": 4,
+              "rank": 5,
               "mark": "2.32",
               "athlete": "Jan Štefela",
               "country": "CZE",
@@ -4090,16 +3999,6 @@ window.ATHLETICS_DATA = {
               "primary": "#11457E",
               "venue": "Športov hala Dukla",
               "date": "24 FEB 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "2.32",
-              "athlete": "Gianmarco Tamberi",
-              "country": "ITA",
-              "flag": "https://flagcdn.com/24x18/it.png",
-              "primary": "#009246",
-              "venue": "Alexander Stadium",
-              "date": "14 AUG 2026"
             },
             {
               "rank": 6,

@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-13 17:04 UTC",
+  "UPDATED": "2026-09-13 22:27 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:San Marino and Rimini Riviera motorcycle Grand Prix:Marc Márquez",
@@ -43,6 +43,15 @@ window.GLORY_DATA = {
       "text": "Onosato es nuevo nº1 · banzuke",
       "weight": 92,
       "firstSeen": "2026-09-01"
+    },
+    {
+      "id": "rank:athletics:allTime:200m_w:in:Melissa Jefferson-Wooden",
+      "sport": "athletics",
+      "detail": "Atletismo",
+      "anchor": "athletics-records",
+      "text": "Melissa Jefferson-Wooden entra en el top-10 histórico · 200m — M",
+      "weight": 90,
+      "firstSeen": "2026-09-13"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:JC Tongue",
@@ -551,13 +560,13 @@ window.GLORY_DATA = {
       "Florence Griffith Joyner",
       "Shericka Jackson",
       "Shericka Jackson",
+      "Melissa Jefferson-Wooden",
       "Shericka Jackson",
       "Julien Alfred",
       "Elaine Thompson-Herah",
       "Shericka Jackson",
       "Griffith Joyner",
-      "Shericka Jackson",
-      "Gabby Thomas"
+      "Shericka Jackson"
     ],
     "athletics:allTime:400m_m": [
       "Wayde van Niekerk",

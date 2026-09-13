@@ -32953,9 +32953,9 @@ window.NHL_DATA = {
       "name": "Jacob Melanson",
       "pos": "RW",
       "teamCode": "SEA",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 23,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#001628",
         "secondary": "#99d9d9"
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-13 17:02 UTC",
+  "LAST_UPDATE": "2026-09-13 22:24 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-13T17:02:15Z"
+    "standingsDateTimeUtc": "2026-09-13T22:24:30Z"
   }
 };

@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-13 17:02 UTC
+// Auto-generated 2026-09-13 22:25 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-09-13 17:02 UTC",
+  "UPDATED": "2026-09-13 22:25 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -693,7 +693,7 @@ window.CYCLING_DATA = {
     "name": "Vuelta a España",
     "start": "2026-08-15",
     "end": "2026-09-06",
-    "stage": 20,
+    "stage": 0,
     "total_stages": 21,
     "jersey_primary": "#E8002D",
     "jersey_name": "Maillot Rojo",
@@ -718,7 +718,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/es.png",
         "team": "MOV men",
         "primary": "#AA151B",
-        "time": "70h 56' 58\"",
+        "time": "73h 52' 55\"",
         "legendScore": 0.0
       },
       {
@@ -808,7 +808,7 @@ window.CYCLING_DATA = {
         "logo": "https://flagcdn.com/24x18/co.png",
         "team": "XAT",
         "primary": "#FCD116",
-        "time": "+ 14' 40\"",
+        "time": "+ 12' 51\"",
         "legendScore": 0.0
       }
     ],
@@ -839,7 +839,7 @@ window.CYCLING_DATA = {
       "logo": "https://flagcdn.com/24x18/gb.png",
       "team": "NCI",
       "primary": "#012169",
-      "time": "71h 06' 26\"",
+      "time": "74h 02' 23\"",
       "legendScore": 0.0
     }
   },
@@ -878,8 +878,13 @@ window.CYCLING_DATA = {
       "dateLabel": "15 ago–6 sep",
       "start": "2026-08-15",
       "end": "2026-09-06",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Enric Mas",
+        "cc3": "ESP",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "color": "#AA151B"
+      }
     },
     {
       "tier": "Monumento",

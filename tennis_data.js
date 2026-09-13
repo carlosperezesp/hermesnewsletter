@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-13 17:04 UTC
+// Auto-generated 2026-09-13 22:27 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-13 17:04 UTC",
+  "UPDATED": "2026-09-13 22:27 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -441,7 +441,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "US Open",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 76.1
@@ -6237,9 +6237,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "US Open",
+        "tournament": "Guadalajara Open presentado por Santander",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 67.5
@@ -6375,7 +6375,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guadalajara Open presentado por Santander",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 66.7
@@ -6611,9 +6611,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "US Open",
-        "state": "out",
-        "round": "R128",
+        "tournament": "Guadalajara Open presentado por Santander",
+        "state": "alive",
+        "round": "R64",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 64.5
@@ -7361,8 +7361,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "US Open",
-        "state": "out",
+        "tournament": "Guadalajara Open presentado por Santander",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -7599,8 +7599,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 72,
       "tournamentStatus": {
-        "tournament": "US Open",
-        "state": "out",
+        "tournament": "Guadalajara Open presentado por Santander",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -7941,7 +7941,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guadalajara Open presentado por Santander",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 54.2
@@ -8213,8 +8213,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "US Open",
-        "state": "out",
+        "tournament": "Guadalajara Open presentado por Santander",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -8488,7 +8488,7 @@ window.TENNIS_DATA = {
       "prevListRank": 98,
       "tournamentStatus": {
         "tournament": "Guadalajara Open presentado por Santander",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -10880,9 +10880,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ben Shelton",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 7-6 (7-2) 5-7 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 87.5,
           "l_score": 76.1,
           "match_score": 87.5
@@ -11050,9 +11050,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Emiliana Arango",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 66.7,
           "l_score": 49.2,
           "match_score": 66.7
@@ -11076,24 +11076,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Darja Vidmanova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 55.6,
           "l_score": 35.0,
           "match_score": 55.6
         },
         {
           "round": "R128",
-          "w": "Panna Udvardy",
+          "w": "Lois Boisson",
           "w_logo": "",
-          "l": "Lois Boisson",
+          "l": "Panna Udvardy",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 55.4,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 55.4,
           "match_score": 55.4
         },
         {
@@ -11102,9 +11102,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Varvara Lepchenko",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 1-6 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 54.2,
           "l_score": null,
           "match_score": 54.2
@@ -11332,7 +11332,9 @@ window.TENNIS_DATA = {
       "Carla Tomai",
       "Carlota Martinez Cirez",
       "Carol Young Suh Lee",
+      "Carole Monnet",
       "Carolina Alves",
+      "Caroline Dolehide",
       "Catherine McNally",
       "Claire Liu",
       "Clara Burel",
@@ -11355,7 +11357,6 @@ window.TENNIS_DATA = {
       "Elizara Yaneva",
       "Elsa Jacquemot",
       "Elvina Kalieva",
-      "Emiliana Arango",
       "Emma Navarro",
       "Erika Andreeva",
       "Eva Bennemann",
@@ -11373,6 +11374,7 @@ window.TENNIS_DATA = {
       "Himeno Sakatsume",
       "Iga Swiatek",
       "Irene Burillo",
+      "Iryna Shymanovich",
       "Iva Jovic",
       "Janice Tjen",
       "Jasmine Paolini",
@@ -11407,6 +11409,7 @@ window.TENNIS_DATA = {
       "Lucija Ciric Bagaric",
       "Lucrezia Stefanini",
       "Madison Keys",
+      "Magdalena Frech",
       "Mananchaya Sawangkaew",
       "Maria Garcia Cid",
       "Maria Lourdes Carle",
@@ -11426,6 +11429,7 @@ window.TENNIS_DATA = {
       "Miriam Bulgaru",
       "Mirra Andreeva",
       "Nadia Podoroska",
+      "Nao Hibino",
       "Naomi Osaka",
       "Nauhany Vitoria Leme Da Silva",
       "Nikola Bartunkova",
@@ -11438,8 +11442,10 @@ window.TENNIS_DATA = {
       "Peyton Stearns",
       "Polina Iatcenko",
       "Rebeka Masarova",
+      "Renata Zarazua",
       "Rositsa Dencheva",
       "Sana Garakani",
+      "Sara Bejlek",
       "Simona Waltert",
       "Sinja Kraus",
       "Sloane Stephens",
@@ -11452,7 +11458,6 @@ window.TENNIS_DATA = {
       "Taylor Townsend",
       "Teodora Kostovic",
       "Tessa Johanna Brockmann",
-      "Varvara Lepchenko",
       "Vendula Valdmannova",
       "Veronika Erjavec",
       "Victoria Jimenez Kasintseva",
@@ -11462,6 +11467,7 @@ window.TENNIS_DATA = {
       "Yasmine Kabbaj",
       "Yulia Putintseva",
       "Yuliia Starodubtseva",
+      "Zeynep Sonmez",
       "Zheng Qinwen",
       "Zhibek Kulambayeva"
     ],
@@ -11486,6 +11492,7 @@ window.TENNIS_DATA = {
       "Elena-Gabriela Ruse",
       "Elisabetta Cocciaretto",
       "Ella Seidel",
+      "Emiliana Arango",
       "Federica Urgesi",
       "Gabriella Price",
       "Gina Feistel",
@@ -11502,7 +11509,6 @@ window.TENNIS_DATA = {
       "Lucia Bronzetti",
       "Lucie Nguyen Tan",
       "Magda Linette",
-      "Magdalena Frech",
       "Maja Chwalinska",
       "Mayar Sherif",
       "McCartney Kessler",
@@ -11513,10 +11519,8 @@ window.TENNIS_DATA = {
       "Radka Zelnickova",
       "Raluka Serban",
       "Reese Brantmeier",
-      "Renata Zarazua",
       "Robin Montgomery",
       "Samira De Stefano",
-      "Sara Bejlek",
       "Sofya Lansere",
       "Solana Sierra",
       "Storm Hunter",
@@ -11525,15 +11529,15 @@ window.TENNIS_DATA = {
       "Tamara Zidansek",
       "Thea Frodin",
       "Valentina Ryser",
+      "Varvara Lepchenko",
       "Venus Williams",
       "Viktorija Golubic",
       "Wang Xiyu",
       "Weronika Falkowska",
-      "Zeynep Sonmez",
       "Zhang Shuai"
     ],
-    "aliveCount": 162,
-    "matchesSeen": 232
+    "aliveCount": 168,
+    "matchesSeen": 238
   },
   "ATP_SCORE_LOG": {
     "206173": [
