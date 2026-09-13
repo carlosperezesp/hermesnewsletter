@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-13 16:38 UTC
+// Auto-generated 2026-09-13 17:04 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-09-13 16:38 UTC",
+  "UPDATED": "2026-09-13 17:04 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -1827,6 +1827,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
+              "mark": "46.40",
+              "athlete": "Rai Benjamin",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "year": 2026
+            },
+            {
+              "rank": 8,
               "mark": "46.43",
               "athlete": "Alison Dos Santos",
               "country": "BRA",
@@ -1836,7 +1846,7 @@ window.ATHLETICS_DATA = {
               "year": 2026
             },
             {
-              "rank": 8,
+              "rank": 9,
               "mark": "46.46",
               "athlete": "Rai Benjamin",
               "country": "USA",
@@ -1846,7 +1856,7 @@ window.ATHLETICS_DATA = {
               "year": 2024
             },
             {
-              "rank": 9,
+              "rank": 10,
               "mark": "46.48",
               "athlete": "Alison Dos Santos",
               "country": "BRA",
@@ -1854,16 +1864,6 @@ window.ATHLETICS_DATA = {
               "primary": "#009C3B",
               "venue": "Estdio Olmpico do Ibirapuera - caro de Castro Melo",
               "year": 2026
-            },
-            {
-              "rank": 10,
-              "mark": "46.51",
-              "athlete": "Karsten Warholm",
-              "country": "NOR",
-              "flag": "https://flagcdn.com/24x18/no.png",
-              "primary": "#EF2B2D",
-              "venue": "Monaco",
-              "year": 2023
             }
           ],
           "season": [
@@ -1879,6 +1879,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 2,
+              "mark": "46.40",
+              "athlete": "Rai Benjamin",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "13 SEP 2026"
+            },
+            {
+              "rank": 3,
               "mark": "46.52",
               "athlete": "Karsten Warholm",
               "country": "NOR",
@@ -1888,17 +1898,17 @@ window.ATHLETICS_DATA = {
               "date": "23 AUG 2026"
             },
             {
-              "rank": 3,
-              "mark": "46.67",
-              "athlete": "Rai Benjamin",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Stade Olympique de la Pontaise",
-              "date": "21 AUG 2026"
+              "rank": 4,
+              "mark": "47.10",
+              "athlete": "Emil Agyekum",
+              "country": "GER",
+              "flag": "https://flagcdn.com/24x18/de.png",
+              "primary": "#000000",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "13 SEP 2026"
             },
             {
-              "rank": 4,
+              "rank": 5,
               "mark": "47.26",
               "athlete": "Matheus Lima",
               "country": "BRA",
@@ -1908,7 +1918,7 @@ window.ATHLETICS_DATA = {
               "date": "23 AUG 2026"
             },
             {
-              "rank": 5,
+              "rank": 6,
               "mark": "47.37",
               "athlete": "Ezekiel Nathaniel",
               "country": "NGR",
@@ -1918,7 +1928,7 @@ window.ATHLETICS_DATA = {
               "date": "06 JUN 2026"
             },
             {
-              "rank": 6,
+              "rank": 7,
               "mark": "47.37",
               "athlete": "Trevor Bassitt",
               "country": "USA",
@@ -1928,7 +1938,7 @@ window.ATHLETICS_DATA = {
               "date": "06 JUN 2026"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "mark": "47.42",
               "athlete": "Caleb Dean",
               "country": "USA",
@@ -1936,16 +1946,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Cushing Stadium",
               "date": "06 JUN 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "47.45",
-              "athlete": "Emil Agyekum",
-              "country": "GER",
-              "flag": "https://flagcdn.com/24x18/de.png",
-              "primary": "#000000",
-              "venue": "Olympic Stadium",
-              "date": "18 JUL 2026"
             },
             {
               "rank": 9,

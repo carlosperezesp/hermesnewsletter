@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-13 16:39 UTC",
+  "UPDATED": "2026-09-13 17:04 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:San Marino and Rimini Riviera motorcycle Grand Prix:Marc Márquez",
@@ -396,11 +396,11 @@ window.GLORY_DATA = {
       "Jorge Martín",
       "Marco Bezzecchi",
       "Fabio Di Giannantonio",
-      "Ai Ogura",
       "Pedro Acosta",
+      "Ai Ogura",
       "Raúl Fernández",
-      "Francesco Bagnaia",
       "Álex Márquez",
+      "Francesco Bagnaia",
       "Fermín Aldeguer"
     ],
     "motogp:LEGENDS": [
@@ -614,10 +614,10 @@ window.GLORY_DATA = {
       "Karsten Warholm",
       "Alison dos Santos",
       "Rai Benjamin",
-      "Alison Dos Santos",
       "Rai Benjamin",
       "Alison Dos Santos",
-      "Karsten Warholm"
+      "Rai Benjamin",
+      "Alison Dos Santos"
     ],
     "athletics:allTime:400mh_w": [
       "Sydney McLaughlin-Levrone",
