@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-13 22:27 UTC
+// Auto-generated 2026-09-13 23:16 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-13 22:27 UTC",
+  "UPDATED": "2026-09-13 23:16 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -6271,9 +6271,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "US Open",
+        "tournament": "SP Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 67.2
@@ -7667,8 +7667,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "US Open",
-        "state": "out",
+        "tournament": "SP Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -8835,8 +8835,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "US Open",
-        "state": "out",
+        "tournament": "SP Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -9563,10 +9563,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 129,
       "tournamentStatus": {
-        "tournament": "US Open · Montreux Nestlé Open · ATIK Antalya Open · Guadalajara Open presentado por Santander · SP Open · BBVA Open Internacional De Valencia · Caldas da Rainha Ladies Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "SP Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 39.8
     },
@@ -9990,7 +9990,7 @@ window.TENNIS_DATA = {
       "prevListRank": 141,
       "tournamentStatus": {
         "tournament": "Guadalajara Open presentado por Santander",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -11076,7 +11076,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Darja Vidmanova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (8-6) 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 55.6,
@@ -11085,15 +11085,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Lois Boisson",
+          "w": "Panna Udvardy",
           "w_logo": "",
-          "l": "Panna Udvardy",
+          "l": "Lois Boisson",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-7 (6-8) 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 55.4,
+          "w_score": 55.4,
+          "l_score": null,
           "match_score": 55.4
         },
         {
@@ -11305,6 +11305,7 @@ window.TENNIS_DATA = {
       "Alevtina Ibragimova",
       "Alexandra Eala",
       "Alicia Herrero Linana",
+      "Alina Charaeva",
       "Alina Granwehr",
       "Alycia Parks",
       "Amanda Anisimova",
@@ -11328,6 +11329,7 @@ window.TENNIS_DATA = {
       "Barbora Palicova",
       "Berfu Cengiz",
       "Bianca Andreescu",
+      "Cadence Brace",
       "Cagla Buyukakcay",
       "Carla Tomai",
       "Carlota Martinez Cirez",
@@ -11336,13 +11338,13 @@ window.TENNIS_DATA = {
       "Carolina Alves",
       "Caroline Dolehide",
       "Catherine McNally",
+      "Chloe Paquet",
       "Claire Liu",
       "Clara Burel",
       "Coco Gauff",
       "Cristina Bucsa",
       "Dalma Galfi",
       "Darja Semenistaja",
-      "Darja Vidmanova",
       "Despina Papamichail",
       "Diana Shnaider",
       "Diane Parry",
@@ -11371,6 +11373,7 @@ window.TENNIS_DATA = {
       "Gao Xinyu",
       "Guiomar Maristany Zuleta De Reales",
       "Harriet Dart",
+      "Hayu Kinoshita",
       "Himeno Sakatsume",
       "Iga Swiatek",
       "Irene Burillo",
@@ -11378,11 +11381,13 @@ window.TENNIS_DATA = {
       "Iva Jovic",
       "Janice Tjen",
       "Jasmine Paolini",
+      "Jazmin Ortenzi",
       "Jeline Vandromme",
       "Jennifer Ruggeri",
       "Jessica Bouzas Maneiro",
       "Jessica Pegula",
       "Julia Riera",
+      "Kaitlin Quevedo",
       "Kamilla Rakhimova",
       "Karolina Muchova",
       "Karolina Pliskova",
@@ -11403,7 +11408,6 @@ window.TENNIS_DATA = {
       "Linda Noskova",
       "Lisa Pigato",
       "Liudmila Samsonova",
-      "Lois Boisson",
       "Lucia Cortez Llorca",
       "Lucie Havlickova",
       "Lucija Ciric Bagaric",
@@ -11450,6 +11454,7 @@ window.TENNIS_DATA = {
       "Sinja Kraus",
       "Sloane Stephens",
       "Sofia Kenin",
+      "Solana Sierra",
       "Sorana Cirstea",
       "Susan Bandecchi",
       "Suzan Lamens",
@@ -11464,7 +11469,9 @@ window.TENNIS_DATA = {
       "Victoria Luiza Barros",
       "Viktoria Hruncakova",
       "Wang Xinyu",
+      "Whitney Osuigwe",
       "Yasmine Kabbaj",
+      "You Xiaodi",
       "Yulia Putintseva",
       "Yuliia Starodubtseva",
       "Zeynep Sonmez",
@@ -11486,6 +11493,7 @@ window.TENNIS_DATA = {
       "Clara Tauson",
       "Daria Kasatkina",
       "Daria Snigur",
+      "Darja Vidmanova",
       "Dayana Yastremska",
       "Denisa Zoldakova",
       "Elena Pridankina",
@@ -11501,10 +11509,10 @@ window.TENNIS_DATA = {
       "Jelena Ostapenko",
       "Julia Grabher",
       "Julie Struplova",
-      "Kaitlin Quevedo",
       "Katerina Tsygourova",
       "Katie Volynets",
       "Kristina Liutova",
+      "Lois Boisson",
       "Lola Radivojevic",
       "Lucia Bronzetti",
       "Lucie Nguyen Tan",
@@ -11522,7 +11530,6 @@ window.TENNIS_DATA = {
       "Robin Montgomery",
       "Samira De Stefano",
       "Sofya Lansere",
-      "Solana Sierra",
       "Storm Hunter",
       "Talia Gibson",
       "Tamara Korpatsch",
@@ -11536,8 +11543,8 @@ window.TENNIS_DATA = {
       "Weronika Falkowska",
       "Zhang Shuai"
     ],
-    "aliveCount": 168,
-    "matchesSeen": 238
+    "aliveCount": 175,
+    "matchesSeen": 243
   },
   "ATP_SCORE_LOG": {
     "206173": [
