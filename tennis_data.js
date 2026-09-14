@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-14 23:10 UTC
+// Auto-generated 2026-09-14 23:56 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-14 23:10 UTC",
+  "UPDATED": "2026-09-14 23:56 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -4459,10 +4459,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Guadalajara Open presentado por Santander · SP Open · BBVA Open Internacional De Valencia · Caldas da Rainha Ladies Open · Zavarovalnica Triglav Ljubljana",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Guadalajara Open presentado por Santander",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 90.3
     },
@@ -6333,7 +6333,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guadalajara Open presentado por Santander",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 59.5
@@ -7422,9 +7422,9 @@ window.TENNIS_DATA = {
       "prevListRank": 93,
       "tournamentStatus": {
         "tournament": "Guadalajara Open presentado por Santander",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 50.3
     },
@@ -10148,7 +10148,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tatjana Maria",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (0-7) 6-3 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 59.2,
@@ -10157,28 +10157,28 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Zeynep Sonmez",
+          "w": "Iryna Shymanovich",
           "w_logo": "",
-          "l": "Iryna Shymanovich",
+          "l": "Zeynep Sonmez",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 57.6,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 57.6,
           "match_score": 57.6
         },
         {
           "round": "R128",
-          "w": "Magdalena Frech",
+          "w": "Nao Hibino",
           "w_logo": "",
-          "l": "Nao Hibino",
+          "l": "Magdalena Frech",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 54.8,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 54.8,
           "match_score": 54.8
         },
         {
@@ -10575,6 +10575,7 @@ window.TENNIS_DATA = {
       "Maria Lourdes Carle",
       "Maria Martinez Vaquero",
       "Marina Bassols Ribera",
+      "Marta Kostyuk",
       "Martina Colmegna",
       "Martina Trevisan",
       "Mary Stoiana",
@@ -10603,7 +10604,6 @@ window.TENNIS_DATA = {
       "Solana Sierra",
       "Susan Bandecchi",
       "Suzan Lamens",
-      "Tatjana Maria",
       "Taylor Townsend",
       "Teodora Kostovic",
       "Vendula Valdmannova",
@@ -10640,11 +10640,12 @@ window.TENNIS_DATA = {
       "Renata Zarazua",
       "Sana Garakani",
       "Sinja Kraus",
+      "Tatjana Maria",
       "Varvara Lepchenko",
       "Veronika Erjavec"
     ],
     "aliveCount": 130,
-    "matchesSeen": 82
+    "matchesSeen": 83
   },
   "ATP_SCORE_LOG": {
     "206173": [
