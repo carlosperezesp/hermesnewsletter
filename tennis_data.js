@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-14 18:13 UTC
+// Auto-generated 2026-09-14 18:53 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-14 18:13 UTC",
+  "UPDATED": "2026-09-14 18:53 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10196,15 +10196,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Elvina Kalieva",
+          "w": "Kayla Day",
           "w_logo": "",
-          "l": "Kayla Day",
+          "l": "Elvina Kalieva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 42.3,
-          "l_score": 37.0,
+          "scheduled": false,
+          "w_score": 37.0,
+          "l_score": 42.3,
           "match_score": 42.3
         },
         {
@@ -10255,45 +10255,6 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Jessica Bouzas Maneiro",
-          "w_logo": "",
-          "l": "Dominika Salkova",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 51.6,
-          "l_score": 49.8,
-          "match_score": 51.6
-        },
-        {
-          "round": "R128",
-          "w": "Julia Riera",
-          "w_logo": "",
-          "l": "Elina Avanesyan",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 44.3,
-          "l_score": null,
-          "match_score": 44.3
-        },
-        {
-          "round": "R128",
-          "w": "Alina Charaeva",
-          "w_logo": "",
-          "l": "You Xiaodi",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 39.8,
-          "l_score": null,
-          "match_score": 39.8
-        },
-        {
-          "round": "R128",
           "w": "Carolina Alves",
           "w_logo": "",
           "l": "Suzan Lamens",
@@ -10331,7 +10292,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Eva Bennemann",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 49.7,
@@ -10455,7 +10416,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Erika Andreeva",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (4-7) 6-4 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10629,8 +10590,6 @@ window.TENNIS_DATA = {
       "Elina Avanesyan",
       "Elsa Jacquemot",
       "Elvina Kalieva",
-      "Erika Andreeva",
-      "Eva Bennemann",
       "Eva Lys",
       "Eva Vedder",
       "Francesca Curmi",
@@ -10728,6 +10687,8 @@ window.TENNIS_DATA = {
       "Carlota Martinez Cirez",
       "Darja Vidmanova",
       "Emiliana Arango",
+      "Erika Andreeva",
+      "Eva Bennemann",
       "Gina Feistel",
       "Giorgia Pedone",
       "Katarzyna Kawa",
@@ -10741,7 +10702,7 @@ window.TENNIS_DATA = {
       "Varvara Lepchenko",
       "Veronika Erjavec"
     ],
-    "aliveCount": 136,
+    "aliveCount": 134,
     "matchesSeen": 81
   },
   "ATP_SCORE_LOG": {
