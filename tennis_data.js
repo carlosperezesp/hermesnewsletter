@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-14 10:42 UTC
+// Auto-generated 2026-09-14 13:04 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-14 10:42 UTC",
+  "UPDATED": "2026-09-14 13:04 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10340,15 +10340,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Katarzyna Kawa",
+          "w": "Maria Garcia Cid",
           "w_logo": "",
-          "l": "Maria Garcia Cid",
+          "l": "Katarzyna Kawa",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 48.9,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 48.9,
           "match_score": 48.9
         },
         {
@@ -10488,9 +10488,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Barbora Palicova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10501,7 +10501,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Polona Hercog",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-5) 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10527,7 +10527,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lola Radivojevic",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (9-7) 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10540,9 +10540,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Arantxa Rus",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10658,7 +10658,6 @@ window.TENNIS_DATA = {
       "Lina Gjorcheska",
       "Lisa Pigato",
       "Liudmila Samsonova",
-      "Lola Radivojevic",
       "Lucia Cortez Llorca",
       "Lucie Havlickova",
       "Lucrezia Stefanini",
@@ -10684,7 +10683,6 @@ window.TENNIS_DATA = {
       "Paula Badosa",
       "Peyton Stearns",
       "Pia Lovric",
-      "Polona Hercog",
       "Rebeka Masarova",
       "Renata Zarazua",
       "Samira De Stefano",
@@ -10715,10 +10713,12 @@ window.TENNIS_DATA = {
       "Darja Vidmanova",
       "Emiliana Arango",
       "Lois Boisson",
+      "Lola Radivojevic",
+      "Polona Hercog",
       "Varvara Lepchenko"
     ],
-    "aliveCount": 125,
-    "matchesSeen": 67
+    "aliveCount": 123,
+    "matchesSeen": 68
   },
   "ATP_SCORE_LOG": {
     "206173": [
