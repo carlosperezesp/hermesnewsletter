@@ -4553,7 +4553,7 @@ window.NHL_DATA = {
       "name": "Felix Unger Sorum",
       "pos": "RW",
       "teamCode": "CAR",
-      "age": 20,
+      "age": 21,
       "country": "Norway",
       "birthCountry": "NOR",
       "colors": {
@@ -4578,7 +4578,7 @@ window.NHL_DATA = {
         44,
         69
       ],
-      "legendScore": 59.6
+      "legendScore": 57.6
     },
     {
       "id": 8480014,
@@ -12963,7 +12963,7 @@ window.NHL_DATA = {
       "name": "Alex Killorn",
       "pos": "LW",
       "teamCode": "ANA",
-      "age": 36,
+      "age": 37,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -27966,7 +27966,7 @@ window.NHL_DATA = {
       "name": "Adam Klapka",
       "pos": "RW",
       "teamCode": "CGY",
-      "age": 25,
+      "age": 26,
       "country": "Czechia",
       "birthCountry": "CZE",
       "colors": {
@@ -48022,10 +48022,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-13 23:13 UTC",
+  "LAST_UPDATE": "2026-09-14 10:39 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-13T23:13:30Z"
+    "standingsDateTimeUtc": "2026-09-14T10:39:00Z"
   }
 };

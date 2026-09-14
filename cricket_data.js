@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-13 23:15 UTC",
+  "UPDATED": "2026-09-14 10:42 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1607,
+    "matches": 1605,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 928
+        "matches": 927
       },
       {
         "name": "IPL",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 81
+        "matches": 80
       },
       {
         "name": "MLC",
@@ -1514,7 +1514,7 @@ window.CRICKET_DATA = {
           "batting": 7.9,
           "bowling": 80.8,
           "overall": 54.6,
-          "runs": 247,
+          "runs": 246,
           "wickets": 101
         },
         {
@@ -2062,7 +2062,7 @@ window.CRICKET_DATA = {
           "batting": 11.2,
           "bowling": 79.6,
           "overall": 55.7,
-          "runs": 247,
+          "runs": 246,
           "wickets": 101
         },
         {
@@ -2116,8 +2116,8 @@ window.CRICKET_DATA = {
           "batting": 15.7,
           "bowling": 74.9,
           "overall": 63.9,
-          "runs": 316,
-          "wickets": 85
+          "runs": 302,
+          "wickets": 84
         },
         {
           "id": "jc-tongue",
@@ -2170,12 +2170,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 94.4,
-          "batting": 23.1,
-          "bowling": 93.9,
-          "overall": 94.4,
+          "score": 94.5,
+          "batting": 23.3,
+          "bowling": 93.3,
+          "overall": 94.5,
           "runs": 1232,
-          "wickets": 130
+          "wickets": 129
         },
         {
           "id": "ba-stokes",
@@ -2552,12 +2552,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 93.9,
-          "batting": 23.1,
-          "bowling": 93.9,
-          "overall": 94.4,
+          "score": 93.3,
+          "batting": 23.3,
+          "bowling": 93.3,
+          "overall": 94.5,
           "runs": 1232,
-          "wickets": 130
+          "wickets": 129
         },
         {
           "id": "haris-rauf",
@@ -2642,11 +2642,11 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 77.6,
+          "score": 77.7,
           "batting": 10.2,
-          "bowling": 77.6,
+          "bowling": 77.7,
           "overall": 57.0,
-          "runs": 247,
+          "runs": 246,
           "wickets": 101
         },
         {

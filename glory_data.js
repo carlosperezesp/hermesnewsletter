@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-13 23:16 UTC",
+  "UPDATED": "2026-09-14 10:42 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:San Marino and Rimini Riviera motorcycle Grand Prix:Marc Márquez",
@@ -19,14 +19,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-11"
     },
     {
-      "id": "motogp:win:Aragon motorcycle Grand Prix:Marc Márquez",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "text": "Marc Márquez ganó el Aragon motorcycle Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-08-30"
-    },
-    {
       "id": "rank:motogp:RIDERS:new1:Marc Márquez",
       "sport": "motogp",
       "detail": "MotoGP",
@@ -43,6 +35,24 @@ window.GLORY_DATA = {
       "text": "Onosato es nuevo nº1 · banzuke",
       "weight": 92,
       "firstSeen": "2026-09-01"
+    },
+    {
+      "id": "tennis:in:ATP:Frances Tiafoe:20260910",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Frances Tiafoe entra en el top 10 ATP",
+      "weight": 90,
+      "anchor": "tennis-atp",
+      "firstSeen": "2026-09-14"
+    },
+    {
+      "id": "tennis:in:WTA:Marta Kostyuk:20260910",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Marta Kostyuk entra en el top 10 WTA",
+      "weight": 90,
+      "anchor": "tennis-wta",
+      "firstSeen": "2026-09-14"
     },
     {
       "id": "rank:athletics:allTime:200m_w:in:Melissa Jefferson-Wooden",
@@ -90,13 +100,22 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-01"
     },
     {
-      "id": "rank:motogp:RIDERS:in:Fermín Aldeguer",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "anchor": "motogp-mundial",
-      "text": "Fermín Aldeguer entra en el top-10 · Mundial",
-      "weight": 84,
-      "firstSeen": "2026-08-30"
+      "id": "tennis:out:ATP:Novak Djokovic:20260910",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Novak Djokovic sale del top 10 ATP",
+      "weight": 78,
+      "anchor": "tennis-atp",
+      "firstSeen": "2026-09-14"
+    },
+    {
+      "id": "tennis:out:WTA:Amanda Anisimova:20260910",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Amanda Anisimova sale del top 10 WTA",
+      "weight": 78,
+      "anchor": "tennis-wta",
+      "firstSeen": "2026-09-14"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:Mehedi Hasan Miraz",
@@ -133,15 +152,6 @@ window.GLORY_DATA = {
       "text": "Oho cae del top-10 · banzuke",
       "weight": 74,
       "firstSeen": "2026-09-01"
-    },
-    {
-      "id": "rank:motogp:RIDERS:out:Luca Marini",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "anchor": "motogp-mundial",
-      "text": "Luca Marini cae del top-10 · Mundial",
-      "weight": 74,
-      "firstSeen": "2026-08-30"
     }
   ],
   "REPORTS": [],
@@ -291,14 +301,14 @@ window.GLORY_DATA = {
     "tennis:ATP": [
       "Jannik Sinner",
       "Carlos Alcaraz",
-      "Novak Djokovic",
       "Alexander Zverev",
+      "Novak Djokovic",
       "Arthur Fils",
       "Casper Ruud",
       "Tommy Paul",
-      "Lorenzo Musetti",
+      "Daniil Medvedev",
       "Rafael Jodar",
-      "Daniil Medvedev"
+      "Lorenzo Musetti"
     ],
     "tennis:WTA": [
       "Aryna Sabalenka",
@@ -307,10 +317,10 @@ window.GLORY_DATA = {
       "Coco Gauff",
       "Iga Swiatek",
       "Marta Kostyuk",
-      "Jessica Pegula",
       "Elina Svitolina",
-      "Karolina Muchova",
-      "Amanda Anisimova"
+      "Jessica Pegula",
+      "Sorana Cirstea",
+      "Karolina Muchova"
     ],
     "tennis:ATP_LEGENDS": [
       "Novak Djokovic",
