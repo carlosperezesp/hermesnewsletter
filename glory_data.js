@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-14 18:53 UTC",
+  "UPDATED": "2026-09-14 23:10 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:San Marino and Rimini Riviera motorcycle Grand Prix:Marc Márquez",

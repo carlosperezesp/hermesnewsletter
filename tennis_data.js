@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-14 18:53 UTC
+// Auto-generated 2026-09-14 23:10 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-14 18:53 UTC",
+  "UPDATED": "2026-09-14 23:10 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -7049,7 +7049,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guadalajara Open presentado por Santander",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.6
@@ -7630,9 +7630,9 @@ window.TENNIS_DATA = {
       "prevListRank": 99,
       "tournamentStatus": {
         "tournament": "Guadalajara Open presentado por Santander",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 51.5
     },
@@ -8460,9 +8460,9 @@ window.TENNIS_DATA = {
       "prevListRank": 123,
       "tournamentStatus": {
         "tournament": "Caldas da Rainha Ladies Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 43.2
     },
@@ -8496,9 +8496,9 @@ window.TENNIS_DATA = {
       "prevListRank": 124,
       "tournamentStatus": {
         "tournament": "Guadalajara Open presentado por Santander",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 42.3
     },
@@ -10148,9 +10148,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tatjana Maria",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 59.2,
           "l_score": 50.7,
           "match_score": 59.2
@@ -10183,15 +10183,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Renata Zarazua",
+          "w": "Caroline Dolehide",
           "w_logo": "",
-          "l": "Caroline Dolehide",
+          "l": "Renata Zarazua",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 3-6 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 49.4,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 49.4,
           "match_score": 49.4
         },
         {
@@ -10200,7 +10200,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elvina Kalieva",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (11-9) 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 37.0,
@@ -10213,68 +10213,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Carole Monnet",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 7-6 (7-5)",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        }
-      ]
-    },
-    {
-      "name": "SP Open",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "R128",
-          "w": "Solana Sierra",
-          "w_logo": "",
-          "l": "Cadence Brace",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 56.6,
-          "l_score": null,
-          "match_score": 56.6
-        },
-        {
-          "round": "R128",
-          "w": "Paula Badosa",
-          "w_logo": "",
-          "l": "Justina Mikulskyte",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 55.3,
-          "l_score": null,
-          "match_score": 55.3
-        },
-        {
-          "round": "R128",
-          "w": "Carolina Alves",
-          "w_logo": "",
-          "l": "Suzan Lamens",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R128",
-          "w": "Chloe Paquet",
-          "w_logo": "",
-          "l": "Jazmin Ortenzi",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10386,15 +10327,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Sinja Kraus",
+          "w": "Mia Pohankova",
           "w_logo": "",
-          "l": "Mia Pohankova",
+          "l": "Sinja Kraus",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-1",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 42.5,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 42.5,
           "match_score": 42.5
         },
         {
@@ -10569,7 +10510,6 @@ window.TENNIS_DATA = {
       "Berfu Cengiz",
       "Cadence Brace",
       "Carol Young Suh Lee",
-      "Carole Monnet",
       "Carolina Alves",
       "Caroline Dolehide",
       "Caroline Werner",
@@ -10589,7 +10529,6 @@ window.TENNIS_DATA = {
       "Elena Micic",
       "Elina Avanesyan",
       "Elsa Jacquemot",
-      "Elvina Kalieva",
       "Eva Lys",
       "Eva Vedder",
       "Francesca Curmi",
@@ -10658,10 +10597,8 @@ window.TENNIS_DATA = {
       "Pia Lovric",
       "Radka Zelnickova",
       "Rebeka Masarova",
-      "Renata Zarazua",
       "Samira De Stefano",
       "Sara Bejlek",
-      "Sinja Kraus",
       "Sloane Stephens",
       "Solana Sierra",
       "Susan Bandecchi",
@@ -10685,7 +10622,9 @@ window.TENNIS_DATA = {
       "Bianca Andreescu",
       "Carla Tomai",
       "Carlota Martinez Cirez",
+      "Carole Monnet",
       "Darja Vidmanova",
+      "Elvina Kalieva",
       "Emiliana Arango",
       "Erika Andreeva",
       "Eva Bennemann",
@@ -10698,12 +10637,14 @@ window.TENNIS_DATA = {
       "Mariia Nozdrachova",
       "Nuria Brancaccio",
       "Polona Hercog",
+      "Renata Zarazua",
       "Sana Garakani",
+      "Sinja Kraus",
       "Varvara Lepchenko",
       "Veronika Erjavec"
     ],
-    "aliveCount": 134,
-    "matchesSeen": 81
+    "aliveCount": 130,
+    "matchesSeen": 82
   },
   "ATP_SCORE_LOG": {
     "206173": [
