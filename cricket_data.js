@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-14 23:55 UTC",
+  "UPDATED": "2026-09-15 10:07 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1605,
+    "matches": 1602,
     "archives": [
       {
         "name": "Tests",
@@ -13,11 +13,11 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 138
+        "matches": 137
       },
       {
         "name": "T20Is",
-        "matches": 927
+        "matches": 926
       },
       {
         "name": "IPL",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 80
+        "matches": 79
       },
       {
         "name": "MLC",
@@ -1702,6 +1702,24 @@ window.CRICKET_DATA = {
           "wickets": 77
         },
         {
+          "id": "virandeep-singh",
+          "name": "Virandeep Singh",
+          "role": "All-rounder",
+          "country": "Malaysia",
+          "teamCode": "MAL",
+          "colors": {
+            "primary": "#555555",
+            "secondary": "#dddddd"
+          },
+          "logo": "",
+          "score": 73.7,
+          "batting": 34.6,
+          "bowling": 45.2,
+          "overall": 73.7,
+          "runs": 810,
+          "wickets": 48
+        },
+        {
           "id": "md-fisher",
           "name": "MD Fisher",
           "role": "All-rounder",
@@ -1736,24 +1754,6 @@ window.CRICKET_DATA = {
           "overall": 72.9,
           "runs": 927,
           "wickets": 77
-        },
-        {
-          "id": "virandeep-singh",
-          "name": "Virandeep Singh",
-          "role": "Bowler",
-          "country": "Malaysia",
-          "teamCode": "MAL",
-          "colors": {
-            "primary": "#555555",
-            "secondary": "#dddddd"
-          },
-          "logo": "",
-          "score": 72.4,
-          "batting": 33.6,
-          "bowling": 44.9,
-          "overall": 72.4,
-          "runs": 812,
-          "wickets": 48
         },
         {
           "id": "pj-cummins",
@@ -2117,7 +2117,7 @@ window.CRICKET_DATA = {
           "bowling": 74.9,
           "overall": 63.9,
           "runs": 302,
-          "wickets": 84
+          "wickets": 81
         },
         {
           "id": "jc-tongue",
@@ -2170,12 +2170,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 94.5,
-          "batting": 23.3,
-          "bowling": 93.3,
-          "overall": 94.5,
-          "runs": 1232,
-          "wickets": 129
+          "score": 93.1,
+          "batting": 23.0,
+          "bowling": 91.8,
+          "overall": 93.1,
+          "runs": 1204,
+          "wickets": 127
         },
         {
           "id": "ba-stokes",
@@ -2552,12 +2552,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 93.3,
-          "batting": 23.3,
-          "bowling": 93.3,
-          "overall": 94.5,
-          "runs": 1232,
-          "wickets": 129
+          "score": 91.8,
+          "batting": 23.0,
+          "bowling": 91.8,
+          "overall": 93.1,
+          "runs": 1204,
+          "wickets": 127
         },
         {
           "id": "haris-rauf",
