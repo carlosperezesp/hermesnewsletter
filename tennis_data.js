@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-15 17:19 UTC
+// Auto-generated 2026-09-15 17:47 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-15 17:19 UTC",
+  "UPDATED": "2026-09-15 17:47 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10401,9 +10401,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Cadence Brace",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 56.6,
           "l_score": null,
           "match_score": 56.6
