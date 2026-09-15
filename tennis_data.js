@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-15 10:07 UTC
+// Auto-generated 2026-09-15 11:56 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-15 10:07 UTC",
+  "UPDATED": "2026-09-15 11:56 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10619,15 +10619,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Ayana Akli",
+          "w": "Noma Noha Akugue",
           "w_logo": "",
-          "l": "Noma Noha Akugue",
+          "l": "Ayana Akli",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-0",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 35.0,
+          "w_score": 35.0,
+          "l_score": null,
           "match_score": 35.0
         },
         {
@@ -10675,9 +10675,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Kylie Collins",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10701,7 +10701,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Aoi Ito",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-4) 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10721,7 +10721,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lucija Ciric Bagaric",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 63.7,
@@ -10730,15 +10730,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Francesca Jones",
+          "w": "Alja Senica",
           "w_logo": "",
-          "l": "Alja Senica",
+          "l": "Francesca Jones",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 41.0,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 41.0,
           "match_score": 41.0
         },
         {
@@ -10773,9 +10773,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Maria Lourdes Carle",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10812,9 +10812,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Martina Colmegna",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10869,10 +10869,8 @@ window.TENNIS_DATA = {
       "Angelina Voloshchuk",
       "Anna Blinkova",
       "Anouk Koevermans",
-      "Aoi Ito",
       "Ariana Arseneault",
       "Astra Sharma",
-      "Ayana Akli",
       "Ayla Aksu",
       "Barbora Palicova",
       "Berfu Cengiz",
@@ -10919,7 +10917,6 @@ window.TENNIS_DATA = {
       "Justina Mikulskyte",
       "Kaitlin Quevedo",
       "Kajsa Rinaldo Persson",
-      "Katherine Sebov",
       "Kayla Cross",
       "Kayla Day",
       "Kristina Novak",
@@ -10931,7 +10928,6 @@ window.TENNIS_DATA = {
       "Liudmila Samsonova",
       "Lucia Cortez Llorca",
       "Lucie Havlickova",
-      "Lucija Ciric Bagaric",
       "Lucrezia Stefanini",
       "Madison Sieg",
       "Magdalena Frech",
@@ -10981,10 +10977,12 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez"
     ],
     "out": [
+      "Aoi Ito",
       "Aran Teixido Garcia",
       "Arantxa Rus",
       "Ariana Geerlings",
       "Aurora Zantedeschi",
+      "Ayana Akli",
       "Bianca Andreescu",
       "Carla Tomai",
       "Carlota Martinez Cirez",
@@ -10999,10 +10997,12 @@ window.TENNIS_DATA = {
       "Giorgia Pedone",
       "Iryna Shymanovich",
       "Katarzyna Kawa",
+      "Katherine Sebov",
       "Lea Boskovic",
       "Lina Gjorcheska",
       "Lois Boisson",
       "Lola Radivojevic",
+      "Lucija Ciric Bagaric",
       "Mariia Nozdrachova",
       "Nao Hibino",
       "Nuria Brancaccio",
@@ -11015,7 +11015,7 @@ window.TENNIS_DATA = {
       "Varvara Lepchenko",
       "Veronika Erjavec"
     ],
-    "aliveCount": 123,
+    "aliveCount": 119,
     "matchesSeen": 88
   },
   "ATP_SCORE_LOG": {
