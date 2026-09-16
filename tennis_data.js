@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-16 22:59 UTC
+// Auto-generated 2026-09-16 23:43 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-16 22:59 UTC",
+  "UPDATED": "2026-09-16 23:43 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5039,7 +5039,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guadalajara Open presentado por Santander",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 76.0
@@ -6469,7 +6469,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guadalajara Open presentado por Santander",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 58.2
@@ -6981,7 +6981,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guadalajara Open presentado por Santander",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 56.9
@@ -10479,7 +10479,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Zeynep Sonmez",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-5) 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 75.8,
@@ -11049,7 +11049,7 @@ window.TENNIS_DATA = {
       "You Xiaodi"
     ],
     "aliveCount": 80,
-    "matchesSeen": 125
+    "matchesSeen": 126
   },
   "ATP_SCORE_LOG": {
     "206173": [
