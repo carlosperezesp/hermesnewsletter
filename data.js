@@ -22867,9 +22867,9 @@ window.NHL_DATA = {
       "name": "Andre Lee",
       "pos": "LW",
       "teamCode": "LAK",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 26,
+      "country": "Sweden",
+      "birthCountry": "SWE",
       "colors": {
         "primary": "#111111",
         "secondary": "#a2aaad"
@@ -47986,10 +47986,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-16 17:43 UTC",
+  "LAST_UPDATE": "2026-09-16 22:57 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-16T17:42:46Z"
+    "standingsDateTimeUtc": "2026-09-16T22:56:15Z"
   }
 };
