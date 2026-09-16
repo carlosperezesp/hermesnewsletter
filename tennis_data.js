@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-16 10:00 UTC
+// Auto-generated 2026-09-16 11:52 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-16 10:00 UTC",
+  "UPDATED": "2026-09-16 11:52 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8567,7 +8567,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Zavarovalnica Triglav Ljubljana",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 41.0
@@ -10662,9 +10662,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Martina Trevisan",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "w/o",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10675,7 +10675,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jennifer Ruggeri",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 6-7 (4-7) 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10701,9 +10701,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Maria Garcia Cid",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10747,9 +10747,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mia Pohankova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10767,24 +10767,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Weronika Falkowska",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 63.7,
           "l_score": null,
           "match_score": 63.7
         },
         {
           "round": "R64",
-          "w": "Francesca Jones",
+          "w": "Mona Barthel",
           "w_logo": "",
-          "l": "Mona Barthel",
+          "l": "Francesca Jones",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-0 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 41.0,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 41.0,
           "match_score": 41.0
         },
         {
@@ -10802,11 +10802,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Denisa Zoldakova",
+          "w": "Anastasiia Sobolieva",
           "w_logo": "",
-          "l": "Anastasiia Sobolieva",
+          "l": "Denisa Zoldakova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10818,19 +10818,6 @@ window.TENNIS_DATA = {
           "w": "Ekaterine Gorgodze",
           "w_logo": "",
           "l": "Lucie Havlickova",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R64",
-          "w": "Julie Struplova",
-          "w_logo": "",
-          "l": "Noemi Basiletti",
           "l_logo": "",
           "score": "In Progress",
           "day": "hoy",
@@ -10845,9 +10832,22 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Miriam Bulgaru",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R64",
+          "w": "Noemi Basiletti",
+          "w_logo": "",
+          "l": "Julie Struplova",
+          "l_logo": "",
+          "score": "6-2 6-3",
+          "day": "hoy",
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
