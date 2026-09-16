@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-15 23:34 UTC",
+  "UPDATED": "2026-09-16 10:00 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1602,
+    "matches": 1600,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 926
+        "matches": 925
       },
       {
         "name": "IPL",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 79
+        "matches": 78
       },
       {
         "name": "MLC",
@@ -2066,24 +2066,6 @@ window.CRICKET_DATA = {
           "wickets": 101
         },
         {
-          "id": "ja-duffy",
-          "name": "JA Duffy",
-          "role": "Bowler",
-          "country": "New Zealand",
-          "teamCode": "NZ",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          },
-          "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 79.3,
-          "batting": 10.8,
-          "bowling": 79.3,
-          "overall": 54.6,
-          "runs": 110,
-          "wickets": 97
-        },
-        {
           "id": "mohammed-siraj",
           "name": "Mohammed Siraj",
           "role": "Bowler",
@@ -2100,6 +2082,24 @@ window.CRICKET_DATA = {
           "overall": 39.0,
           "runs": 76,
           "wickets": 112
+        },
+        {
+          "id": "ja-duffy",
+          "name": "JA Duffy",
+          "role": "Bowler",
+          "country": "New Zealand",
+          "teamCode": "NZ",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          },
+          "logo": "https://flagcdn.com/24x18/nz.png",
+          "score": 75.9,
+          "batting": 10.9,
+          "bowling": 75.9,
+          "overall": 53.6,
+          "runs": 110,
+          "wickets": 93
         },
         {
           "id": "ka-maharaj",
@@ -2297,29 +2297,29 @@ window.CRICKET_DATA = {
           },
           "logo": "",
           "score": 76.7,
-          "batting": 26.3,
-          "bowling": 54.5,
+          "batting": 26.6,
+          "bowling": 53.8,
           "overall": 76.7,
           "runs": 1818,
-          "wickets": 74
+          "wickets": 73
         },
         {
-          "id": "taijul-islam",
-          "name": "Taijul Islam",
+          "id": "shadab-khan",
+          "name": "Shadab Khan",
           "role": "Bowler",
-          "country": "Bangladesh",
-          "teamCode": "BAN",
+          "country": "Pakistan",
+          "teamCode": "PAK",
           "colors": {
-            "primary": "#006a4e",
-            "secondary": "#f42a41"
+            "primary": "#115740",
+            "secondary": "#ffffff"
           },
-          "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 75.3,
-          "batting": 17.8,
-          "bowling": 77.5,
-          "overall": 75.3,
-          "runs": 301,
-          "wickets": 77
+          "logo": "https://flagcdn.com/24x18/pk.png",
+          "score": 75.8,
+          "batting": 29.8,
+          "bowling": 47.0,
+          "overall": 75.8,
+          "runs": 1009,
+          "wickets": 62
         }
       ],
       "batting": [
@@ -2624,12 +2624,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 78.7,
-          "batting": 13.2,
-          "bowling": 78.7,
-          "overall": 65.3,
-          "runs": 371,
-          "wickets": 104
+          "score": 78.0,
+          "batting": 13.4,
+          "bowling": 78.0,
+          "overall": 65.5,
+          "runs": 369,
+          "wickets": 103
         },
         {
           "id": "jnt-seales",

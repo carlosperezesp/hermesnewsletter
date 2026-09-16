@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-15 23:34 UTC",
+  "UPDATED": "2026-09-16 10:00 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:San Marino and Rimini Riviera motorcycle Grand Prix:Marc Márquez",
@@ -26,15 +26,6 @@ window.GLORY_DATA = {
       "text": "Marc Márquez es nuevo nº1 · Mundial",
       "weight": 92,
       "firstSeen": "2026-09-13"
-    },
-    {
-      "id": "rank:sumo:BANZUKE:new1:Onosato",
-      "sport": "sumo",
-      "detail": "Sumo",
-      "anchor": "sumo-banzuke",
-      "text": "Onosato es nuevo nº1 · banzuke",
-      "weight": 92,
-      "firstSeen": "2026-09-01"
     },
     {
       "id": "tennis:in:ATP:Frances Tiafoe:20260910",
@@ -73,33 +64,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-04"
     },
     {
-      "id": "rank:sumo:BANZUKE:in:Fujinokawa",
-      "sport": "sumo",
-      "detail": "Sumo",
-      "anchor": "sumo-banzuke",
-      "text": "Fujinokawa entra en el top-10 · banzuke",
-      "weight": 84,
-      "firstSeen": "2026-09-01"
-    },
-    {
-      "id": "rank:sumo:BANZUKE:in:Hakunofuji",
-      "sport": "sumo",
-      "detail": "Sumo",
-      "anchor": "sumo-banzuke",
-      "text": "Hakunofuji entra en el top-10 · banzuke",
-      "weight": 84,
-      "firstSeen": "2026-09-01"
-    },
-    {
-      "id": "rank:sumo:BANZUKE:in:Daieisho",
-      "sport": "sumo",
-      "detail": "Sumo",
-      "anchor": "sumo-banzuke",
-      "text": "Daieisho entra en el top-10 · banzuke",
-      "weight": 84,
-      "firstSeen": "2026-09-01"
-    },
-    {
       "id": "tennis:out:ATP:Novak Djokovic:20260910",
       "sport": "tennis",
       "detail": "Tenis",
@@ -125,33 +89,6 @@ window.GLORY_DATA = {
       "text": "Mehedi Hasan Miraz cae del top-10 · Road to Glory",
       "weight": 74,
       "firstSeen": "2026-09-04"
-    },
-    {
-      "id": "rank:sumo:BANZUKE:out:Wakatakakage",
-      "sport": "sumo",
-      "detail": "Sumo",
-      "anchor": "sumo-banzuke",
-      "text": "Wakatakakage cae del top-10 · banzuke",
-      "weight": 74,
-      "firstSeen": "2026-09-01"
-    },
-    {
-      "id": "rank:sumo:BANZUKE:out:Yoshinofuji",
-      "sport": "sumo",
-      "detail": "Sumo",
-      "anchor": "sumo-banzuke",
-      "text": "Yoshinofuji cae del top-10 · banzuke",
-      "weight": 74,
-      "firstSeen": "2026-09-01"
-    },
-    {
-      "id": "rank:sumo:BANZUKE:out:Oho",
-      "sport": "sumo",
-      "detail": "Sumo",
-      "anchor": "sumo-banzuke",
-      "text": "Oho cae del top-10 · banzuke",
-      "weight": 74,
-      "firstSeen": "2026-09-01"
     }
   ],
   "REPORTS": [],

@@ -1,6 +1,6 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-09-15 23:34 UTC",
+  "UPDATED": "2026-09-16 09:59 UTC",
   "LAST_MATCH": "2026-09-12",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
@@ -214,31 +214,6 @@ window.RUGBY_DATA = {
         "awayScore": 27,
         "venue": "Estadio 23 de Agosto",
         "city": "San Salvador"
-      },
-      {
-        "date": "2026-08-22",
-        "status": "final",
-        "competition": "International Test Match",
-        "home": {
-          "name": "South Africa",
-          "teamCode": "RSA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb612"
-          }
-        },
-        "away": {
-          "name": "New Zealand",
-          "teamCode": "NZL",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          }
-        },
-        "homeScore": 16,
-        "awayScore": 33,
-        "venue": "Ellis Park",
-        "city": "Johannesburg"
       }
     ],
     "upcoming": [
