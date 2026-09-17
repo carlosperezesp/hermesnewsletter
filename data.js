@@ -33620,9 +33620,9 @@ window.NHL_DATA = {
       "name": "William Villeneuve",
       "pos": "D",
       "teamCode": "TOR",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#ffffff"
@@ -47986,10 +47986,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-17 17:44 UTC",
+  "LAST_UPDATE": "2026-09-17 22:51 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-17T17:43:30Z"
+    "standingsDateTimeUtc": "2026-09-17T22:51:01Z"
   }
 };

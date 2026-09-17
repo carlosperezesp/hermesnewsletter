@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-17 17:47 UTC
+// Auto-generated 2026-09-17 22:53 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-17 17:47 UTC",
+  "UPDATED": "2026-09-17 22:53 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5039,7 +5039,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guadalajara Open presentado por Santander",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 76.0
@@ -5719,7 +5719,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guadalajara Open presentado por Santander",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 64.5
@@ -6639,7 +6639,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "SP Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 57.0
@@ -6843,7 +6843,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guadalajara Open presentado por Santander",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 56.1
@@ -6913,7 +6913,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "SP Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 53.1
@@ -6981,7 +6981,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Guadalajara Open presentado por Santander",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 56.9
@@ -7527,7 +7527,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "SP Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 49.8
@@ -7737,7 +7737,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "SP Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 48.7
@@ -8777,7 +8777,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "SP Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 39.8
@@ -9273,7 +9273,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "SP Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -10427,24 +10427,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Magdalena Frech",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.8,
           "l_score": 54.8,
           "match_score": 75.8
         },
         {
           "round": "Quarterfinal",
-          "w": "Sara Bejlek",
+          "w": "Cristina Bucsa",
           "w_logo": "",
-          "l": "Cristina Bucsa",
+          "l": "Sara Bejlek",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-0 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 64.7,
-          "l_score": 55.6,
+          "scheduled": false,
+          "w_score": 55.6,
+          "l_score": 64.7,
           "match_score": 64.7
         },
         {
@@ -10469,15 +10469,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Eva Lys",
+          "w": "Nadia Podoroska",
           "w_logo": "",
-          "l": "Nadia Podoroska",
+          "l": "Eva Lys",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 56.8,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 56.8,
           "match_score": 56.8
         },
         {
@@ -10499,7 +10499,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jazmin Ortenzi",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-2 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 55.3,
@@ -10512,7 +10512,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Dominika Salkova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-5) 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": 35.0,
@@ -10521,15 +10521,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Vendula Valdmannova",
+          "w": "Anna Blinkova",
           "w_logo": "",
-          "l": "Anna Blinkova",
+          "l": "Vendula Valdmannova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-0",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 48.8,
+          "w_score": 48.8,
+          "l_score": null,
           "match_score": 48.8
         },
         {
@@ -10580,11 +10580,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Irene Burillo",
+          "w": "Alicia Herrero Linana",
           "w_logo": "",
-          "l": "Nastasja Schunk",
+          "l": "Rebeka Masarova",
           "l_logo": "",
-          "score": "6-2 6-2",
+          "score": "6-1 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10593,11 +10593,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Rebeka Masarova",
+          "w": "Irene Burillo",
           "w_logo": "",
-          "l": "Alicia Herrero Linana",
+          "l": "Nastasja Schunk",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10656,7 +10656,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anouk Koevermans",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10873,7 +10873,7 @@ window.TENNIS_DATA = {
       "You Xiaodi"
     ],
     "aliveCount": 79,
-    "matchesSeen": 131
+    "matchesSeen": 137
   },
   "ATP_SCORE_LOG": {
     "206173": [
