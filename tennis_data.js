@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-17 11:54 UTC
+// Auto-generated 2026-09-17 17:17 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-17 11:54 UTC",
+  "UPDATED": "2026-09-17 17:17 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -7287,7 +7287,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Caldas da Rainha Ladies Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 51.8
@@ -7561,7 +7561,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BBVA Open Internacional De Valencia",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 49.7
@@ -9309,7 +9309,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Caldas da Rainha Ladies Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -10486,9 +10486,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Suzan Lamens",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 56.6,
           "l_score": null,
           "match_score": 56.6
@@ -10538,9 +10538,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nauhany Vitoria Leme Da Silva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 46.7,
           "l_score": null,
           "match_score": 46.7
@@ -10551,9 +10551,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elina Avanesyan",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 39.8,
           "l_score": null,
           "match_score": 39.8
@@ -10567,15 +10567,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Marina Bassols Ribera",
+          "w": "Guiomar Maristany Zuleta De Reales",
           "w_logo": "",
-          "l": "Guiomar Maristany Zuleta De Reales",
+          "l": "Marina Bassols Ribera",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 3-6 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 49.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 49.7,
           "match_score": 49.7
         },
         {
@@ -10584,9 +10584,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nastasja Schunk",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10597,9 +10597,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alicia Herrero Linana",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10613,29 +10613,42 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Elena Malygina",
+          "w": "Jeline Vandromme",
           "w_logo": "",
-          "l": "Jeline Vandromme",
+          "l": "Elena Malygina",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 4-6 7-5",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 51.8,
+          "w_score": 51.8,
+          "l_score": null,
           "match_score": 51.8
         },
         {
           "round": "R64",
-          "w": "Noma Noha Akugue",
+          "w": "Malaika Rapolu",
           "w_logo": "",
-          "l": "Malaika Rapolu",
+          "l": "Noma Noha Akugue",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 6-3 6-0",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 35.0,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 35.0,
           "match_score": 35.0
+        },
+        {
+          "round": "R64",
+          "w": "Francisca Jorge",
+          "w_logo": "",
+          "l": "Victoria Jimenez Kasintseva",
+          "l_logo": "",
+          "score": "6-2 4-6 6-4",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
         },
         {
           "round": "R64",
@@ -10643,9 +10656,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anouk Koevermans",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10659,78 +10672,6 @@ window.TENNIS_DATA = {
           "score": "w/o",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R64",
-          "w": "Victoria Jimenez Kasintseva",
-          "w_logo": "",
-          "l": "Francisca Jorge",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        }
-      ]
-    },
-    {
-      "name": "Zavarovalnica Triglav Ljubljana",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "Quarterfinal",
-          "w": "Laura Samson",
-          "w_logo": "",
-          "l": "Anastasiia Sobolieva",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 63.7,
-          "l_score": null,
-          "match_score": 63.7
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Alice Tubello",
-          "w_logo": "",
-          "l": "Samira De Stefano",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Ekaterine Gorgodze",
-          "w_logo": "",
-          "l": "Noemi Basiletti",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Mia Ristic",
-          "w_logo": "",
-          "l": "Mona Barthel",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10932,7 +10873,7 @@ window.TENNIS_DATA = {
       "You Xiaodi"
     ],
     "aliveCount": 79,
-    "matchesSeen": 128
+    "matchesSeen": 130
   },
   "ATP_SCORE_LOG": {
     "206173": [
