@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-17 22:53 UTC",
+  "UPDATED": "2026-09-17 23:37 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:San Marino and Rimini Riviera motorcycle Grand Prix:Marc Márquez",
@@ -463,9 +463,9 @@ window.GLORY_DATA = {
       "Mohammed Siraj",
       "MJ Henry",
       "Nauman Ali",
+      "JC Tongue",
       "BA Carse",
-      "Sajid Khan",
-      "JC Tongue"
+      "Sajid Khan"
     ],
     "athletics:allTime:100m_m": [
       "Usain Bolt",
