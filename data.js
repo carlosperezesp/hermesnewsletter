@@ -2809,7 +2809,7 @@ window.NHL_DATA = {
       "name": "Auston Matthews",
       "pos": "C",
       "teamCode": "TOR",
-      "age": 28,
+      "age": 29,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -4887,7 +4887,7 @@ window.NHL_DATA = {
       "name": "Alex Ovechkin",
       "pos": "LW",
       "teamCode": "WSH",
-      "age": 40,
+      "age": 41,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
@@ -47986,10 +47986,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-16 23:41 UTC",
+  "LAST_UPDATE": "2026-09-17 09:59 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-16T23:40:30Z"
+    "standingsDateTimeUtc": "2026-09-17T09:59:15Z"
   }
 };
