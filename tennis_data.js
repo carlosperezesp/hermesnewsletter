@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-17 17:17 UTC
+// Auto-generated 2026-09-17 17:47 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-17 17:17 UTC",
+  "UPDATED": "2026-09-17 17:47 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -6707,7 +6707,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "SP Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 56.4
@@ -7977,7 +7977,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "SP Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 46.7
@@ -10482,15 +10482,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Solana Sierra",
+          "w": "Suzan Lamens",
           "w_logo": "",
-          "l": "Suzan Lamens",
+          "l": "Solana Sierra",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 56.6,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 56.6,
           "match_score": 56.6
         },
         {
@@ -10499,37 +10499,37 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jazmin Ortenzi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 55.3,
           "l_score": null,
           "match_score": 55.3
         },
         {
           "round": "R64",
-          "w": "Dominika Salkova",
+          "w": "Mary Stoiana",
           "w_logo": "",
-          "l": "Mary Stoiana",
+          "l": "Dominika Salkova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 49.8,
-          "l_score": 35.0,
+          "scheduled": false,
+          "w_score": 35.0,
+          "l_score": 49.8,
           "match_score": 49.8
         },
         {
           "round": "R64",
-          "w": "Anna Blinkova",
+          "w": "Vendula Valdmannova",
           "w_logo": "",
-          "l": "Vendula Valdmannova",
+          "l": "Anna Blinkova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 48.8,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 48.8,
           "match_score": 48.8
         },
         {
@@ -10538,7 +10538,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nauhany Vitoria Leme Da Silva",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": 46.7,
@@ -10873,7 +10873,7 @@ window.TENNIS_DATA = {
       "You Xiaodi"
     ],
     "aliveCount": 79,
-    "matchesSeen": 130
+    "matchesSeen": 131
   },
   "ATP_SCORE_LOG": {
     "206173": [
