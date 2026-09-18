@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-17 23:37 UTC",
+  "UPDATED": "2026-09-18 09:48 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1630,
+    "matches": 1628,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 943
+        "matches": 942
       },
       {
         "name": "IPL",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 84
+        "matches": 83
       },
       {
         "name": "MLC",
@@ -2120,22 +2120,22 @@ window.CRICKET_DATA = {
           "wickets": 112
         },
         {
-          "id": "ja-duffy",
-          "name": "JA Duffy",
+          "id": "ka-maharaj",
+          "name": "KA Maharaj",
           "role": "Bowler",
-          "country": "New Zealand",
-          "teamCode": "NZ",
+          "country": "South Africa",
+          "teamCode": "SA",
           "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
+            "primary": "#007a4d",
+            "secondary": "#ffb81c"
           },
-          "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 75.9,
-          "batting": 10.9,
-          "bowling": 75.9,
-          "overall": 53.6,
-          "runs": 110,
-          "wickets": 93
+          "logo": "https://flagcdn.com/24x18/za.png",
+          "score": 74.9,
+          "batting": 15.7,
+          "bowling": 74.9,
+          "overall": 63.9,
+          "runs": 302,
+          "wickets": 81
         }
       ]
     },
@@ -2170,10 +2170,10 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 94.2,
+          "score": 94.3,
           "batting": 23.0,
-          "bowling": 94.0,
-          "overall": 94.2,
+          "bowling": 94.1,
+          "overall": 94.3,
           "runs": 1228,
           "wickets": 130
         },
@@ -2552,10 +2552,10 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 94.0,
+          "score": 94.1,
           "batting": 23.0,
-          "bowling": 94.0,
-          "overall": 94.2,
+          "bowling": 94.1,
+          "overall": 94.3,
           "runs": 1228,
           "wickets": 130
         },
@@ -2578,24 +2578,6 @@ window.CRICKET_DATA = {
           "wickets": 118
         },
         {
-          "id": "haris-rauf",
-          "name": "Haris Rauf",
-          "role": "Bowler",
-          "country": "Pakistan",
-          "teamCode": "PAK",
-          "colors": {
-            "primary": "#115740",
-            "secondary": "#ffffff"
-          },
-          "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 86.6,
-          "batting": 8.0,
-          "bowling": 86.6,
-          "overall": 53.3,
-          "runs": 125,
-          "wickets": 117
-        },
-        {
           "id": "mohammed-siraj",
           "name": "Mohammed Siraj",
           "role": "Bowler",
@@ -2612,6 +2594,24 @@ window.CRICKET_DATA = {
           "overall": 42.5,
           "runs": 76,
           "wickets": 112
+        },
+        {
+          "id": "haris-rauf",
+          "name": "Haris Rauf",
+          "role": "Bowler",
+          "country": "Pakistan",
+          "teamCode": "PAK",
+          "colors": {
+            "primary": "#115740",
+            "secondary": "#ffffff"
+          },
+          "logo": "https://flagcdn.com/24x18/pk.png",
+          "score": 85.2,
+          "batting": 8.0,
+          "bowling": 85.2,
+          "overall": 52.9,
+          "runs": 124,
+          "wickets": 115
         },
         {
           "id": "as-joseph",

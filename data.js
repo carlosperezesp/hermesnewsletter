@@ -23330,7 +23330,7 @@ window.NHL_DATA = {
       "name": "Conor Timmins",
       "pos": "D",
       "teamCode": "BUF",
-      "age": 27,
+      "age": 28,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47986,10 +47986,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-17 23:35 UTC",
+  "LAST_UPDATE": "2026-09-18 09:46 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-17T23:34:15Z"
+    "standingsDateTimeUtc": "2026-09-18T09:46:00Z"
   }
 };
