@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-18 11:30 UTC
+// Auto-generated 2026-09-18 16:45 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-18 11:30 UTC",
+  "UPDATED": "2026-09-18 16:45 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5823,7 +5823,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Zavarovalnica Triglav Ljubljana",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 63.7
@@ -10349,9 +10349,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Teodora Kostovic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 46.7,
           "l_score": null,
           "match_score": 46.7
@@ -10378,15 +10378,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Andrea Lazaro Garcia",
+          "w": "Joelle Lilly Sophie Steur",
           "w_logo": "",
-          "l": "Joelle Lilly Sophie Steur",
+          "l": "Andrea Lazaro Garcia",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 48.8,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 48.8,
           "match_score": 48.8
         },
         {
@@ -10395,33 +10395,33 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Irene Burillo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "Quarterfinal",
-          "w": "Despina Papamichail",
+          "w": "Clara Burel",
           "w_logo": "",
-          "l": "Yasmine Kabbaj",
+          "l": "Guiomar Maristany Zuleta De Reales",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "Quarterfinal",
-          "w": "Guiomar Maristany Zuleta De Reales",
+          "w": "Yasmine Kabbaj",
           "w_logo": "",
-          "l": "Clara Burel",
+          "l": "Despina Papamichail",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10437,28 +10437,28 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Susan Bandecchi",
+          "w": "Lisa Pigato",
           "w_logo": "",
-          "l": "Lisa Pigato",
+          "l": "Susan Bandecchi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 55.8,
-          "l_score": 52.5,
+          "scheduled": false,
+          "w_score": 52.5,
+          "l_score": 55.8,
           "match_score": 55.8
         },
         {
           "round": "Quarterfinal",
-          "w": "Jeline Vandromme",
+          "w": "Francisca Jorge",
           "w_logo": "",
-          "l": "Francisca Jorge",
+          "l": "Jeline Vandromme",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 51.8,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 51.8,
           "match_score": 51.8
         },
         {
@@ -10467,20 +10467,20 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Malaika Rapolu",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 1-6 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "Quarterfinal",
-          "w": "Kylie Collins",
+          "w": "Mia Pohankova",
           "w_logo": "",
-          "l": "Mia Pohankova",
+          "l": "Kylie Collins",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-3) 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10509,19 +10509,6 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Alice Tubello",
-          "w_logo": "",
-          "l": "Samira De Stefano",
-          "l_logo": "",
-          "score": "In Progress",
-          "day": "hoy",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "Quarterfinal",
           "w": "Mona Barthel",
           "w_logo": "",
           "l": "Mia Ristic",
@@ -10540,6 +10527,19 @@ window.TENNIS_DATA = {
           "l": "Ekaterine Gorgodze",
           "l_logo": "",
           "score": "6-3 6-1",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "Quarterfinal",
+          "w": "Samira De Stefano",
+          "w_logo": "",
+          "l": "Alice Tubello",
+          "l_logo": "",
+          "score": "4-6 7-6 (7-2) 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10753,7 +10753,7 @@ window.TENNIS_DATA = {
       "You Xiaodi"
     ],
     "aliveCount": 79,
-    "matchesSeen": 139
+    "matchesSeen": 142
   },
   "ATP_SCORE_LOG": {
     "206173": [
