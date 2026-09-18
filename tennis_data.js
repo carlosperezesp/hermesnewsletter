@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-18 16:45 UTC
+// Auto-generated 2026-09-18 17:13 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-18 16:45 UTC",
+  "UPDATED": "2026-09-18 17:13 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10450,15 +10450,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Francisca Jorge",
+          "w": "Jeline Vandromme",
           "w_logo": "",
-          "l": "Jeline Vandromme",
+          "l": "Francisca Jorge",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-7 (7-9) 7-5",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 51.8,
+          "w_score": 51.8,
+          "l_score": null,
           "match_score": 51.8
         },
         {

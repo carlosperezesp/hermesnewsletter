@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-18 16:45 UTC
+// Auto-generated 2026-09-18 17:13 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-09-18 16:45 UTC",
+  "UPDATED": "2026-09-18 17:13 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -6878,7 +6878,108 @@ window.ATHLETICS_DATA = {
               "year": 2013
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "71.74",
+              "athlete": "Ziyi Yan",
+              "country": "CHN",
+              "flag": "https://flagcdn.com/24x18/cn.png",
+              "primary": "#DE2910",
+              "venue": "Egret Stadium",
+              "date": "23 MAY 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "68.92",
+              "athlete": "Haruka Kitaguchi",
+              "country": "JPN",
+              "flag": "https://flagcdn.com/24x18/jp.png",
+              "primary": "#BC002D",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "12 SEP 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "67.34",
+              "athlete": "Flor Denis Ruiz Hurtado",
+              "country": "COL",
+              "flag": "https://flagcdn.com/24x18/co.png",
+              "primary": "#4A4745",
+              "venue": "Estadio Olimpico Juan Pablo Duarte",
+              "date": "04 AUG 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "65.93",
+              "athlete": "Adriana Vilagoš",
+              "country": "SRB",
+              "flag": "https://flagcdn.com/24x18/rs.png",
+              "primary": "#4A4745",
+              "venue": "Stadio Giuseppe Valente",
+              "date": "01 SEP 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "65.39",
+              "athlete": "Yulenmis Aguilar",
+              "country": "ESP",
+              "flag": "https://flagcdn.com/24x18/es.png",
+              "primary": "#AA151B",
+              "venue": "Stadio Giuseppe Valente",
+              "date": "01 SEP 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "65.00",
+              "athlete": "Sigrid Borge",
+              "country": "NOR",
+              "flag": "https://flagcdn.com/24x18/no.png",
+              "primary": "#EF2B2D",
+              "venue": "Egret Stadium",
+              "date": "23 MAY 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "63.88",
+              "athlete": "Madison Wiltrout",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Univ. of Arizona Roy P. Drachman Stadium",
+              "date": "23 MAY 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "63.50",
+              "athlete": "Momone Ueda",
+              "country": "JPN",
+              "flag": "https://flagcdn.com/24x18/jp.png",
+              "primary": "#BC002D",
+              "venue": "Uniwersytetu Warmińsko-Mazurskiego",
+              "date": "30 AUG 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "63.37",
+              "athlete": "Mackenzie Little",
+              "country": "AUS",
+              "flag": "https://flagcdn.com/24x18/au.png",
+              "primary": "#00008B",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "12 SEP 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "62.78",
+              "athlete": "Maria Andrejczyk",
+              "country": "POL",
+              "flag": "https://flagcdn.com/24x18/pl.png",
+              "primary": "#DC143C",
+              "venue": "Stadion Podskarbińska",
+              "date": "07 JUN 2026"
+            }
+          ]
         }
       ]
     }
