@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-18 22:37 UTC
+// Auto-generated 2026-09-18 23:24 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-18 22:37 UTC",
+  "UPDATED": "2026-09-18 23:24 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10290,9 +10290,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Cristina Bucsa",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.8,
           "l_score": 55.6,
           "match_score": 75.8
