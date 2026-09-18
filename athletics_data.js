@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-18 17:13 UTC
+// Auto-generated 2026-09-18 22:36 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-09-18 17:13 UTC",
+  "UPDATED": "2026-09-18 22:36 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -1221,6 +1221,16 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 2,
+              "mark": "48.78",
+              "athlete": "Henriette J&#198;ger",
+              "country": "NOR",
+              "flag": "https://flagcdn.com/24x18/no.png",
+              "primary": "#EF2B2D",
+              "venue": "StoneX Stadium",
+              "date": "18 SEP 2026"
+            },
+            {
+              "rank": 3,
               "mark": "48.79",
               "athlete": "Dejanea Oakley",
               "country": "JAM",
@@ -1230,7 +1240,7 @@ window.ATHLETICS_DATA = {
               "date": "13 JUN 2026"
             },
             {
-              "rank": 3,
+              "rank": 4,
               "mark": "48.84",
               "athlete": "Aaliyah Butler",
               "country": "USA",
@@ -1240,7 +1250,7 @@ window.ATHLETICS_DATA = {
               "date": "10 JUL 2026"
             },
             {
-              "rank": 4,
+              "rank": 5,
               "mark": "48.97",
               "athlete": "Madison Whyte",
               "country": "USA",
@@ -1248,16 +1258,6 @@ window.ATHLETICS_DATA = {
               "primary": "#B22234",
               "venue": "Hayward Field",
               "date": "13 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "49.04",
-              "athlete": "Henriette J&#198;ger",
-              "country": "NOR",
-              "flag": "https://flagcdn.com/24x18/no.png",
-              "primary": "#EF2B2D",
-              "venue": "Alexander Stadium",
-              "date": "15 AUG 2026"
             },
             {
               "rank": 6,
@@ -4567,13 +4567,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 9,
-              "mark": "5.92",
+              "mark": "5.93",
               "athlete": "Christopher Nilsen",
               "country": "USA",
               "flag": "https://flagcdn.com/24x18/us.png",
               "primary": "#B22234",
-              "venue": "Suhaim bin Hamad Stadium",
-              "date": "19 JUN 2026"
+              "venue": "Stadion Śląski",
+              "date": "18 SEP 2026"
             },
             {
               "rank": 10,

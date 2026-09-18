@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-18 17:13 UTC
+// Auto-generated 2026-09-18 22:37 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-18 17:13 UTC",
+  "UPDATED": "2026-09-18 22:37 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -6809,7 +6809,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Caldas da Rainha Ladies Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 55.8
@@ -7219,7 +7219,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Caldas da Rainha Ladies Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 52.5
@@ -7287,7 +7287,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Caldas da Rainha Ladies Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 51.8
@@ -7737,7 +7737,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "SP Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 48.7
@@ -7773,7 +7773,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "BBVA Open Internacional De Valencia",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 48.7
@@ -7977,7 +7977,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "SP Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 46.7
@@ -8777,7 +8777,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "SP Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 39.8
@@ -9273,7 +9273,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "SP Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -10323,9 +10323,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mary Stoiana",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 55.3,
           "l_score": 35.0,
           "match_score": 55.3
@@ -10336,9 +10336,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alina Charaeva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.8,
           "l_score": 39.8,
           "match_score": 48.8
@@ -10349,7 +10349,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Teodora Kostovic",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 46.7,
@@ -10362,9 +10362,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nadia Podoroska",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10382,7 +10382,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Andrea Lazaro Garcia",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 2-6 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10441,7 +10441,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Susan Bandecchi",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 1-6 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 52.5,
@@ -10753,7 +10753,7 @@ window.TENNIS_DATA = {
       "You Xiaodi"
     ],
     "aliveCount": 79,
-    "matchesSeen": 142
+    "matchesSeen": 145
   },
   "ATP_SCORE_LOG": {
     "206173": [

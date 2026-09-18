@@ -4521,9 +4521,9 @@ window.NHL_DATA = {
       "name": "Brennan Othmann",
       "pos": "LW",
       "teamCode": "CGY",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 23,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#c8102e",
         "secondary": "#f1be48"
@@ -4545,7 +4545,8 @@ window.NHL_DATA = {
         42,
         44,
         69
-      ]
+      ],
+      "legendScore": 54.8
     },
     {
       "id": 8484392,
@@ -47986,10 +47987,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-18 17:10 UTC",
+  "LAST_UPDATE": "2026-09-18 22:34 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-18T17:10:00Z"
+    "standingsDateTimeUtc": "2026-09-18T22:34:30Z"
   }
 };
