@@ -1,20 +1,45 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-09-19 16:04 UTC",
+  "UPDATED": "2026-09-19 16:48 UTC",
   "LAST_MATCH": "2026-09-19",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
     "file": "data_sources/rugby_mens_data.csv",
     "incremental": "ESPN scorepanel by national team/year",
     "historicalThrough": "2023-12-03",
-    "incrementalMatches": 357,
+    "incrementalMatches": 358,
     "teams": 162,
-    "matches": 10052,
+    "matches": 10053,
     "through": "2026-09-19"
   },
   "IMPORTANCE": 7.0,
   "CALENDAR": {
     "recent": [
+      {
+        "date": "2026-09-19",
+        "status": "final",
+        "competition": "IRB Pacific Nations Cup",
+        "home": {
+          "name": "Japan",
+          "teamCode": "JPN",
+          "colors": {
+            "primary": "#bc002d",
+            "secondary": "#ffffff"
+          }
+        },
+        "away": {
+          "name": "Fiji",
+          "teamCode": "FIJ",
+          "colors": {
+            "primary": "#6ecff6",
+            "secondary": "#111111"
+          }
+        },
+        "homeScore": 0,
+        "awayScore": 0,
+        "venue": "Prince Chichibu Memorial Stadium",
+        "city": "Tokyo"
+      },
       {
         "date": "2026-09-19",
         "status": "final",
@@ -242,31 +267,6 @@ window.RUGBY_DATA = {
       }
     ],
     "upcoming": [
-      {
-        "date": "2026-09-19",
-        "status": "scheduled",
-        "competition": "IRB Pacific Nations Cup",
-        "home": {
-          "name": "Japan",
-          "teamCode": "JPN",
-          "colors": {
-            "primary": "#bc002d",
-            "secondary": "#ffffff"
-          }
-        },
-        "away": {
-          "name": "Fiji",
-          "teamCode": "FIJ",
-          "colors": {
-            "primary": "#6ecff6",
-            "secondary": "#111111"
-          }
-        },
-        "homeScore": null,
-        "awayScore": null,
-        "venue": "Prince Chichibu Memorial Stadium",
-        "city": "Tokyo"
-      },
       {
         "date": "2026-09-27",
         "status": "scheduled",
@@ -541,6 +541,31 @@ window.RUGBY_DATA = {
         "awayScore": null,
         "venue": "Stade de France",
         "city": "Saint-Denis"
+      },
+      {
+        "date": "2026-11-14",
+        "status": "scheduled",
+        "competition": "Nations Championship",
+        "home": {
+          "name": "England",
+          "teamCode": "ENG",
+          "colors": {
+            "primary": "#ffffff",
+            "secondary": "#cf142b"
+          }
+        },
+        "away": {
+          "name": "Japan",
+          "teamCode": "JPN",
+          "colors": {
+            "primary": "#bc002d",
+            "secondary": "#ffffff"
+          }
+        },
+        "homeScore": null,
+        "awayScore": null,
+        "venue": "Allianz Stadium",
+        "city": "London"
       }
     ]
   },
@@ -745,23 +770,23 @@ window.RUGBY_DATA = {
       "name": "Fiji",
       "teamCode": "FIJ",
       "country": "Fiji",
-      "elo": 2144.2,
-      "eloRaw": 2144.2,
-      "lastMatch": "2026-09-12",
-      "inactiveDays": 7,
+      "elo": 2141.7,
+      "eloRaw": 2141.7,
+      "lastMatch": "2026-09-19",
+      "inactiveDays": 0,
       "peakElo": 2249.9,
       "peakDate": "2025-09-21",
       "worldCups": 0,
       "record": {
         "w": 183,
         "l": 167,
-        "d": 10
+        "d": 11
       },
       "colors": {
         "primary": "#6ecff6",
         "secondary": "#111111"
       },
-      "note": "183V-167D-10E · último 2026-09-12 · raw 2144"
+      "note": "183V-167D-11E · último 2026-09-19 · raw 2142"
     },
     {
       "rank": 10,

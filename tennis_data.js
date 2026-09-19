@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-19 16:05 UTC
+// Auto-generated 2026-09-19 16:49 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-19 16:05 UTC",
+  "UPDATED": "2026-09-19 16:49 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10330,9 +10330,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Kaitlin Quevedo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.8,
           "l_score": 46.7,
           "match_score": 48.8
@@ -10346,11 +10346,11 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Joelle Lilly Sophie Steur",
+          "w": "Clara Burel",
           "w_logo": "",
-          "l": "Clara Burel",
+          "l": "Joelle Lilly Sophie Steur",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
