@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-19 16:49 UTC
+// Auto-generated 2026-09-19 22:27 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-19 16:49 UTC",
+  "UPDATED": "2026-09-19 22:27 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -6913,7 +6913,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "SP Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 53.1
@@ -7737,7 +7737,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "SP Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 48.7
@@ -7977,7 +7977,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "SP Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 46.7
@@ -10313,28 +10313,28 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Paula Badosa",
+          "w": "Nadia Podoroska",
           "w_logo": "",
-          "l": "Nadia Podoroska",
+          "l": "Paula Badosa",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 55.3,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 55.3,
           "match_score": 55.3
         },
         {
           "round": "Semifinal",
-          "w": "Anna Blinkova",
+          "w": "Kaitlin Quevedo",
           "w_logo": "",
-          "l": "Kaitlin Quevedo",
+          "l": "Anna Blinkova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 2-6 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 48.8,
-          "l_score": 46.7,
+          "w_score": 46.7,
+          "l_score": 48.8,
           "match_score": 48.8
         }
       ]
@@ -10346,11 +10346,11 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Clara Burel",
+          "w": "Alicia Herrero Linana",
           "w_logo": "",
-          "l": "Joelle Lilly Sophie Steur",
+          "l": "Yasmine Kabbaj",
           "l_logo": "",
-          "score": "6-1 6-4",
+          "score": "6-0 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10359,13 +10359,13 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Semifinal",
-          "w": "Yasmine Kabbaj",
+          "w": "Clara Burel",
           "w_logo": "",
-          "l": "Alicia Herrero Linana",
+          "l": "Joelle Lilly Sophie Steur",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10676,7 +10676,7 @@ window.TENNIS_DATA = {
       "You Xiaodi"
     ],
     "aliveCount": 115,
-    "matchesSeen": 169
+    "matchesSeen": 171
   },
   "ATP_SCORE_LOG": {
     "206173": [
