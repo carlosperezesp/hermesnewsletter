@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-19 22:27 UTC
+// Auto-generated 2026-09-19 23:22 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-19 22:27 UTC",
+  "UPDATED": "2026-09-19 23:22 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10284,9 +10284,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Peyton Stearns",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.8,
           "l_score": 66.1,
           "match_score": 75.8
