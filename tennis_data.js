@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-19 09:33 UTC
+// Auto-generated 2026-09-19 11:14 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-19 09:33 UTC",
+  "UPDATED": "2026-09-19 11:14 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10396,9 +10396,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mia Pohankova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10416,9 +10416,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Samira De Stefano",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 63.7,
           "l_score": null,
           "match_score": 63.7
