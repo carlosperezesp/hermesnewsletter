@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-19 11:14 UTC
+// Auto-generated 2026-09-19 16:05 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-19 11:14 UTC",
+  "UPDATED": "2026-09-19 16:05 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -4799,10 +4799,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 16,
       "tournamentStatus": {
-        "tournament": "Guadalajara Open presentado por Santander · SP Open · BBVA Open Internacional De Valencia · Caldas da Rainha Ladies Open · Zavarovalnica Triglav Ljubljana · Korea Open · Singapore Tennis Open presented by BNP Paribas",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Singapore Tennis Open presented by BNP Paribas",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 80.2
     },
@@ -5547,10 +5547,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 38,
       "tournamentStatus": {
-        "tournament": "Guadalajara Open presentado por Santander · SP Open · BBVA Open Internacional De Valencia · Caldas da Rainha Ladies Open · Zavarovalnica Triglav Ljubljana · Korea Open · Singapore Tennis Open presented by BNP Paribas",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Singapore Tennis Open presented by BNP Paribas",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 65.0
     },
@@ -5751,10 +5751,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "Guadalajara Open presentado por Santander · SP Open · BBVA Open Internacional De Valencia · Caldas da Rainha Ladies Open · Zavarovalnica Triglav Ljubljana · Korea Open · Singapore Tennis Open presented by BNP Paribas",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Singapore Tennis Open presented by BNP Paribas",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 64.0
     },
@@ -5823,7 +5823,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Zavarovalnica Triglav Ljubljana",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 63.7
@@ -6297,10 +6297,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 60,
       "tournamentStatus": {
-        "tournament": "Guadalajara Open presentado por Santander · SP Open · BBVA Open Internacional De Valencia · Caldas da Rainha Ladies Open · Zavarovalnica Triglav Ljubljana · Korea Open · Singapore Tennis Open presented by BNP Paribas",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Singapore Tennis Open presented by BNP Paribas",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 59.2
     },
@@ -6875,10 +6875,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 77,
       "tournamentStatus": {
-        "tournament": "Guadalajara Open presentado por Santander · SP Open · BBVA Open Internacional De Valencia · Caldas da Rainha Ladies Open · Zavarovalnica Triglav Ljubljana · Korea Open · Singapore Tennis Open presented by BNP Paribas",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Singapore Tennis Open presented by BNP Paribas",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 55.3
     },
@@ -6945,7 +6945,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 79,
       "tournamentStatus": {
-        "tournament": "Guadalajara Open presentado por Santander",
+        "tournament": "Singapore Tennis Open presented by BNP Paribas",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7013,10 +7013,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "Guadalajara Open presentado por Santander · SP Open · BBVA Open Internacional De Valencia · Caldas da Rainha Ladies Open · Zavarovalnica Triglav Ljubljana · Korea Open · Singapore Tennis Open presented by BNP Paribas",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Singapore Tennis Open presented by BNP Paribas",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 57.3
     },
@@ -7047,7 +7047,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "Guadalajara Open presentado por Santander",
+        "tournament": "Singapore Tennis Open presented by BNP Paribas",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7219,7 +7219,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Caldas da Rainha Ladies Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 52.5
@@ -7287,7 +7287,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Caldas da Rainha Ladies Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 51.8
@@ -7839,10 +7839,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "Guadalajara Open presentado por Santander · SP Open · BBVA Open Internacional De Valencia · Caldas da Rainha Ladies Open · Zavarovalnica Triglav Ljubljana · Korea Open · Singapore Tennis Open presented by BNP Paribas",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Singapore Tennis Open presented by BNP Paribas",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 48.0
     },
@@ -8113,10 +8113,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 113,
       "tournamentStatus": {
-        "tournament": "Guadalajara Open presentado por Santander · SP Open · BBVA Open Internacional De Valencia · Caldas da Rainha Ladies Open · Zavarovalnica Triglav Ljubljana · Korea Open · Singapore Tennis Open presented by BNP Paribas",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Singapore Tennis Open presented by BNP Paribas",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 44.9
     },
@@ -8391,10 +8391,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "Guadalajara Open presentado por Santander · SP Open · BBVA Open Internacional De Valencia · Caldas da Rainha Ladies Open · Zavarovalnica Triglav Ljubljana · Korea Open · Singapore Tennis Open presented by BNP Paribas",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Singapore Tennis Open presented by BNP Paribas",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 42.9
     },
@@ -8811,10 +8811,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Guadalajara Open presentado por Santander · SP Open · BBVA Open Internacional De Valencia · Caldas da Rainha Ladies Open · Zavarovalnica Triglav Ljubljana · Korea Open · Singapore Tennis Open presented by BNP Paribas",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Singapore Tennis Open presented by BNP Paribas",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 49.7
     },
@@ -10350,9 +10350,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Clara Burel",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10383,9 +10383,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jeline Vandromme",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 52.5,
           "l_score": 51.8,
           "match_score": 52.5
@@ -10396,7 +10396,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mia Pohankova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 5-7 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10412,26 +10412,26 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Laura Samson",
+          "w": "Samira De Stefano",
           "w_logo": "",
-          "l": "Samira De Stefano",
+          "l": "Laura Samson",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 1-6 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 63.7,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 63.7,
           "match_score": 63.7
         },
         {
           "round": "Semifinal",
-          "w": "Noemi Basiletti",
+          "w": "Mona Barthel",
           "w_logo": "",
-          "l": "Mona Barthel",
+          "l": "Noemi Basiletti",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-0",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10483,6 +10483,7 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
+      "Aliaksandra Sasnovich",
       "Alice Tubello",
       "Alicia Herrero Linana",
       "Alina Charaeva",
@@ -10500,17 +10501,20 @@ window.TENNIS_DATA = {
       "Clara Burel",
       "Cristina Bucsa",
       "Dalma Galfi",
+      "Daria Kasatkina",
       "Darja Semenistaja",
       "Dayeon Back",
       "Denisa Zoldakova",
       "Despina Papamichail",
       "Dominika Salkova",
+      "Donna Vekic",
       "Ekaterine Gorgodze",
       "Elena Malygina",
       "Elena-Gabriela Ruse",
       "Elina Avanesyan",
       "Elvina Kalieva",
       "Eva Lys",
+      "Fiona Ferro",
       "Francesca Curmi",
       "Francesca Jones",
       "Francisca Jorge",
@@ -10536,13 +10540,16 @@ window.TENNIS_DATA = {
       "Kylie Collins",
       "Lanlana Tararudee",
       "Laura Samson",
+      "Linda Fruhvirtova",
       "Lisa Pigato",
       "Liudmila Samsonova",
       "Lucie Havlickova",
       "Magdalena Frech",
+      "Maja Chwalinska",
       "Malaika Rapolu",
       "Mananchaya Sawangkaew",
       "Maria Garcia Cid",
+      "Maria Sakkari",
       "Marina Bassols Ribera",
       "Marta Kostyuk",
       "Martina Trevisan",
@@ -10558,28 +10565,35 @@ window.TENNIS_DATA = {
       "Nauhany Vitoria Leme Da Silva",
       "Noemi Basiletti",
       "Noma Noha Akugue",
+      "Oleksandra Oliynykova",
       "Panna Udvardy",
       "Paula Badosa",
       "Peyton Stearns",
       "Polina Kudermetova",
+      "Rebecca Sramkova",
       "Rebeka Masarova",
       "Renata Zarazua",
       "Robin Montgomery",
       "Samira De Stefano",
       "Sara Bejlek",
       "Sloane Stephens",
+      "Sofia Costoulas",
       "Sofia Kenin",
       "Sohyun Park",
       "Solana Sierra",
       "Susan Bandecchi",
       "Suzan Lamens",
+      "Talia Gibson",
       "Tamara Zidansek",
+      "Tatiana Prozorova",
       "Taylah Preston",
       "Taylor Townsend",
       "Teodora Kostovic",
       "Vendula Valdmannova",
       "Victoria Jimenez Kasintseva",
       "Viktoria Hruncakova",
+      "Vivian Wolff",
+      "Wang Xinyu",
       "Weronika Falkowska",
       "Yasmine Kabbaj",
       "Yuan Yue",
@@ -10659,11 +10673,10 @@ window.TENNIS_DATA = {
       "Varvara Lepchenko",
       "Veronika Erjavec",
       "Victoria Luiza Barros",
-      "Vivian Wolff",
       "You Xiaodi"
     ],
-    "aliveCount": 101,
-    "matchesSeen": 159
+    "aliveCount": 115,
+    "matchesSeen": 169
   },
   "ATP_SCORE_LOG": {
     "206173": [
