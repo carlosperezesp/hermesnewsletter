@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-18 23:24 UTC",
+  "UPDATED": "2026-09-19 09:33 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:San Marino and Rimini Riviera motorcycle Grand Prix:Marc Márquez",
@@ -55,15 +55,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-13"
     },
     {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:in:JC Tongue",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "JC Tongue entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-09-04"
-    },
-    {
       "id": "tennis:out:ATP:Novak Djokovic:20260910",
       "sport": "tennis",
       "detail": "Tenis",
@@ -80,15 +71,6 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-wta",
       "firstSeen": "2026-09-14"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:out:Mehedi Hasan Miraz",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "Mehedi Hasan Miraz cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-09-04"
     }
   ],
   "REPORTS": [],

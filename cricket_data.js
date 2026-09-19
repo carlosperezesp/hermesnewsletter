@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-18 23:24 UTC",
+  "UPDATED": "2026-09-19 09:33 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1628,
+    "matches": 1626,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 942
+        "matches": 941
       },
       {
         "name": "IPL",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 83
+        "matches": 82
       },
       {
         "name": "MLC",
@@ -2668,22 +2668,22 @@ window.CRICKET_DATA = {
           "wickets": 77
         },
         {
-          "id": "s-joseph",
-          "name": "S Joseph",
+          "id": "nauman-ali",
+          "name": "Nauman Ali",
           "role": "Bowler",
-          "country": "West Indies",
-          "teamCode": "WI",
+          "country": "Pakistan",
+          "teamCode": "PAK",
           "colors": {
-            "primary": "#7a263a",
-            "secondary": "#f6c344"
+            "primary": "#115740",
+            "secondary": "#ffffff"
           },
-          "logo": "",
-          "score": 76.8,
-          "batting": 16.9,
-          "bowling": 76.8,
-          "overall": 73.0,
-          "runs": 317,
-          "wickets": 98
+          "logo": "https://flagcdn.com/24x18/pk.png",
+          "score": 76.6,
+          "batting": 15.7,
+          "bowling": 76.6,
+          "overall": 70.3,
+          "runs": 116,
+          "wickets": 54
         }
       ]
     }

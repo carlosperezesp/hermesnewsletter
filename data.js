@@ -7913,7 +7913,7 @@ window.NHL_DATA = {
       "name": "Jack Quinn",
       "pos": "RW",
       "teamCode": "BUF",
-      "age": 24,
+      "age": 25,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -30461,7 +30461,7 @@ window.NHL_DATA = {
       "name": "Jonas Johansson",
       "pos": "G",
       "teamCode": "TBL",
-      "age": 30,
+      "age": 31,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -47987,10 +47987,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-18 23:22 UTC",
+  "LAST_UPDATE": "2026-09-19 09:31 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-18T23:22:15Z"
+    "standingsDateTimeUtc": "2026-09-19T09:30:30Z"
   }
 };
