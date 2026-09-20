@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-20 16:58 UTC
+// Auto-generated 2026-09-20 22:29 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-20 16:58 UTC",
+  "UPDATED": "2026-09-20 22:29 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10200,7 +10200,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alicia Herrero Linana",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-0 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
