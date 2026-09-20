@@ -5024,7 +5024,7 @@ window.NHL_DATA = {
       "name": "John Tavares",
       "pos": "C",
       "teamCode": "TOR",
-      "age": 35,
+      "age": 36,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -8888,7 +8888,7 @@ window.NHL_DATA = {
       "name": "Ryan Hartman",
       "pos": "RW",
       "teamCode": "MIN",
-      "age": 31,
+      "age": 32,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -19972,7 +19972,7 @@ window.NHL_DATA = {
       "name": "Braden Schneider",
       "pos": "D",
       "teamCode": "NYR",
-      "age": 24,
+      "age": 25,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -23696,7 +23696,7 @@ window.NHL_DATA = {
       "name": "Kevin Stenlund",
       "pos": "C",
       "teamCode": "UTA",
-      "age": 29,
+      "age": 30,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -47986,10 +47986,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-19 23:14 UTC",
+  "LAST_UPDATE": "2026-09-20 09:49 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-19T23:14:15Z"
+    "standingsDateTimeUtc": "2026-09-20T09:48:45Z"
   }
 };
