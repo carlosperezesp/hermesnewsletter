@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-20 09:51 UTC
+// Auto-generated 2026-09-20 11:37 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-20 09:51 UTC",
+  "UPDATED": "2026-09-20 11:37 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10240,9 +10240,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mona Barthel",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
