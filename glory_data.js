@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-20 11:37 UTC",
+  "UPDATED": "2026-09-20 16:31 UTC",
   "EVENTS": [
+    {
+      "id": "motogp:win:Austrian motorcycle Grand Prix:Jorge Martín",
+      "sport": "motogp",
+      "detail": "MotoGP",
+      "text": "Jorge Martín ganó el Austrian motorcycle Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-09-20"
+    },
     {
       "id": "motogp:win:San Marino and Rimini Riviera motorcycle Grand Prix:Marc Márquez",
       "sport": "motogp",
@@ -19,13 +27,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-11"
     },
     {
-      "id": "rank:motogp:RIDERS:new1:Marc Márquez",
+      "id": "rank:motogp:RIDERS:new1:Jorge Martín",
       "sport": "motogp",
       "detail": "MotoGP",
       "anchor": "motogp-mundial",
-      "text": "Marc Márquez es nuevo nº1 · Mundial",
+      "text": "Jorge Martín es nuevo nº1 · Mundial",
       "weight": 92,
-      "firstSeen": "2026-09-13"
+      "firstSeen": "2026-09-20"
     },
     {
       "id": "tennis:in:ATP:Frances Tiafoe:20260910",
@@ -330,11 +338,11 @@ window.GLORY_DATA = {
       "Kyle Larson"
     ],
     "motogp:RIDERS": [
-      "Marc Márquez",
       "Jorge Martín",
+      "Marc Márquez",
       "Marco Bezzecchi",
-      "Fabio Di Giannantonio",
       "Pedro Acosta",
+      "Fabio Di Giannantonio",
       "Ai Ogura",
       "Raúl Fernández",
       "Álex Márquez",
