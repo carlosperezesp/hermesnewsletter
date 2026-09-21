@@ -6162,7 +6162,7 @@ window.NHL_DATA = {
       "name": "Ryan McLeod",
       "pos": "C",
       "teamCode": "BUF",
-      "age": 26,
+      "age": 27,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -8450,7 +8450,7 @@ window.NHL_DATA = {
       "name": "Collin Graf",
       "pos": "RW",
       "teamCode": "SJS",
-      "age": 23,
+      "age": 24,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -8475,7 +8475,7 @@ window.NHL_DATA = {
         52,
         61
       ],
-      "legendScore": 50.4
+      "legendScore": 49.9
     },
     {
       "id": 8477015,
@@ -29530,7 +29530,7 @@ window.NHL_DATA = {
       "name": "Viking Gustafsson Nyberg",
       "pos": "D",
       "teamCode": "MIN",
-      "age": 22,
+      "age": 23,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -32059,7 +32059,7 @@ window.NHL_DATA = {
       "name": "Reid Schaefer",
       "pos": "LW",
       "teamCode": "NSH",
-      "age": 22,
+      "age": 23,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47986,10 +47986,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-20 23:18 UTC",
+  "LAST_UPDATE": "2026-09-21 10:45 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-20T23:18:00Z"
+    "standingsDateTimeUtc": "2026-09-21T10:44:45Z"
   }
 };

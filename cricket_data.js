@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-20 23:20 UTC",
+  "UPDATED": "2026-09-21 10:47 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1625,
+    "matches": 1623,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 941
+        "matches": 940
       },
       {
         "name": "IPL",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 81
+        "matches": 80
       },
       {
         "name": "MLC",
@@ -2606,12 +2606,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 85.2,
-          "batting": 8.0,
-          "bowling": 85.2,
-          "overall": 52.9,
+          "score": 83.0,
+          "batting": 8.1,
+          "bowling": 83.0,
+          "overall": 52.5,
           "runs": 124,
-          "wickets": 115
+          "wickets": 112
         },
         {
           "id": "as-joseph",

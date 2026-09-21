@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-20 23:20 UTC",
+  "UPDATED": "2026-09-21 10:47 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Austrian motorcycle Grand Prix:Jorge Martín",
@@ -36,21 +36,21 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-20"
     },
     {
-      "id": "tennis:in:ATP:Frances Tiafoe:20260910",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Frances Tiafoe entra en el top 10 ATP",
-      "weight": 90,
-      "anchor": "tennis-atp",
-      "firstSeen": "2026-09-14"
-    },
-    {
       "id": "tennis:in:WTA:Marta Kostyuk:20260910",
       "sport": "tennis",
       "detail": "Tenis",
       "text": "Marta Kostyuk entra en el top 10 WTA",
       "weight": 90,
       "anchor": "tennis-wta",
+      "firstSeen": "2026-09-14"
+    },
+    {
+      "id": "tennis:in:ATP:Frances Tiafoe:20260910",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Frances Tiafoe entra en el top 10 ATP",
+      "weight": 90,
+      "anchor": "tennis-atp",
       "firstSeen": "2026-09-14"
     },
     {
@@ -63,21 +63,21 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-13"
     },
     {
-      "id": "tennis:out:ATP:Novak Djokovic:20260910",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Novak Djokovic sale del top 10 ATP",
-      "weight": 78,
-      "anchor": "tennis-atp",
-      "firstSeen": "2026-09-14"
-    },
-    {
       "id": "tennis:out:WTA:Amanda Anisimova:20260910",
       "sport": "tennis",
       "detail": "Tenis",
       "text": "Amanda Anisimova sale del top 10 WTA",
       "weight": 78,
       "anchor": "tennis-wta",
+      "firstSeen": "2026-09-14"
+    },
+    {
+      "id": "tennis:out:ATP:Novak Djokovic:20260910",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Novak Djokovic sale del top 10 ATP",
+      "weight": 78,
+      "anchor": "tennis-atp",
       "firstSeen": "2026-09-14"
     }
   ],
