@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-21 10:47 UTC
+// Auto-generated 2026-09-21 13:03 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-21 10:47 UTC",
+  "UPDATED": "2026-09-21 13:03 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -6128,9 +6128,9 @@ window.TENNIS_DATA = {
       "prevListRank": 55,
       "tournamentStatus": {
         "tournament": "Korea Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 60.9
     },
@@ -7151,7 +7151,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Korea Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 53.2
@@ -10077,15 +10077,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Magda Linette",
+          "w": "Darya Astakhova",
           "w_logo": "",
-          "l": "Darya Astakhova",
+          "l": "Magda Linette",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "3-6 6-1 7-6 (7-2)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 60.9,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 60.9,
           "match_score": 60.9
         },
         {
@@ -10192,7 +10192,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Kyoka Okamura",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 67.4,
@@ -10312,13 +10312,13 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Despina Papamichail",
+          "w": "Guiomar Maristany Zuleta De Reales",
           "w_logo": "",
-          "l": "Guiomar Maristany Zuleta De Reales",
+          "l": "Despina Papamichail",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10362,9 +10362,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anouk Koevermans",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10395,9 +10395,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Viktoria Hruncakova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 41.4,
           "l_score": null,
           "match_score": 41.4
@@ -10430,7 +10430,7 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "TBD",
+          "w": "Ksenia Zaytseva",
           "w_logo": "",
           "l": "Lina Gjorcheska",
           "l_logo": "",
@@ -10447,9 +10447,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Aliona Falei",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -10526,20 +10526,21 @@ window.TENNIS_DATA = {
       "Carole Monnet",
       "Carolyn Ansari",
       "Celia Cervino Ruiz",
+      "Daria Egorova",
       "Darja Semenistaja",
       "Darya Astakhova",
       "Dayeon Back",
       "Deniz Dilek",
-      "Despina Papamichail",
       "Dominika Salkova",
       "Donna Vekic",
       "Ekaterine Gorgodze",
       "Elena Malygina",
       "Elena Micic",
+      "Elena Pridankina",
+      "Elena Ruxandra Bertea",
       "Elena-Gabriela Ruse",
       "Elina Avanesyan",
       "Emerson Jones",
-      "Erika Andreeva",
       "Eva Lys",
       "Federica Urgesi",
       "Fiona Crawley",
@@ -10548,6 +10549,7 @@ window.TENNIS_DATA = {
       "Guiomar Maristany Zuleta De Reales",
       "Harmony Tan",
       "Himeno Sakatsume",
+      "Ilay Yoruk",
       "Isabella Shinikova",
       "Jazmin Ortenzi",
       "Jelena Ostapenko",
@@ -10561,23 +10563,23 @@ window.TENNIS_DATA = {
       "Kamilla Rakhimova",
       "Katarina Kuzmova",
       "Katherine Sebov",
-      "Katie Swan",
       "Katie Volynets",
       "Kimberly Birrell",
-      "Kyoka Okamura",
+      "Ksenia Zaytseva",
       "Lanlana Tararudee",
       "Laura Pigossi",
       "Laura Samson",
       "Leylah Fernandez",
       "Leyre Romero Gormaz",
+      "Lina Gjorcheska",
       "Linda Fruhvirtova",
       "Lizette Cabrera",
       "Ma YeXin",
       "Madalena Matias",
-      "Magda Linette",
       "Maja Chwalinska",
       "Maria Lourdes Carle",
       "Maria Sakkari",
+      "Marie Vogt",
       "Marta Lombardini",
       "Martyna Kubka",
       "Mary Stoiana",
@@ -10622,6 +10624,7 @@ window.TENNIS_DATA = {
       "Viktoria Hruncakova",
       "Vivian Wolff",
       "Wang Xinyu",
+      "Weronika Falkowska",
       "Yeonwoo Ku",
       "Yuki Naito"
     ],
@@ -10632,6 +10635,7 @@ window.TENNIS_DATA = {
       "Chloe Paquet",
       "Claire Liu",
       "Daria Kasatkina",
+      "Despina Papamichail",
       "Elvina Kalieva",
       "Fiona Ferro",
       "Gabriela Ce",
@@ -10639,7 +10643,9 @@ window.TENNIS_DATA = {
       "Jessica Bouzas Maneiro",
       "Justina Mikulskyte",
       "Kristina Mladenovic",
+      "Kyoka Okamura",
       "Lucrezia Stefanini",
+      "Magda Linette",
       "Mananchaya Sawangkaew",
       "Moyuka Uchijima",
       "Polina Kudermetova",
@@ -10649,8 +10655,8 @@ window.TENNIS_DATA = {
       "You Xiaodi",
       "Yuan Yue"
     ],
-    "aliveCount": 128,
-    "matchesSeen": 97
+    "aliveCount": 131,
+    "matchesSeen": 101
   },
   "ATP_SCORE_LOG": {
     "206173": [
