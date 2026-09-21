@@ -3956,9 +3956,9 @@ window.NHL_DATA = {
       "name": "Filip Gustavsson",
       "pos": "G",
       "teamCode": "MIN",
-      "age": 28,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#154734",
         "secondary": "#a6192e"
@@ -27306,9 +27306,9 @@ window.NHL_DATA = {
       "name": "Mikael Pyyhtia",
       "pos": "LW",
       "teamCode": "CBJ",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 24,
+      "country": "Finland",
+      "birthCountry": "FIN",
       "colors": {
         "primary": "#002654",
         "secondary": "#ce1126"
@@ -28890,6 +28890,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8479372,
+      "first": "Josh",
+      "last": "Mahura",
+      "name": "Josh Mahura",
+      "pos": "D",
+      "teamCode": "SEA",
+      "age": 28,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#001628",
+        "secondary": "#99d9d9"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8479372.png",
+      "score": 45,
+      "stats": {
+        "gp": 23,
+        "g": 1,
+        "a": 2,
+        "p": 3,
+        "pm": 8,
+        "toi": 15.7,
+        "shots": 15
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        45
+      ]
+    },
+    {
       "id": 8484509,
       "first": "Josh",
       "last": "Samanski",
@@ -28914,39 +28947,6 @@ window.NHL_DATA = {
         "toi": 10.6,
         "shots": 9,
         "gp_po": 5
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        45
-      ]
-    },
-    {
-      "id": 8479372,
-      "first": "Joshua",
-      "last": "Mahura",
-      "name": "Joshua Mahura",
-      "pos": "D",
-      "teamCode": "SEA",
-      "age": 28,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#001628",
-        "secondary": "#99d9d9"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8479372.png",
-      "score": 45,
-      "stats": {
-        "gp": 23,
-        "g": 1,
-        "a": 2,
-        "p": 3,
-        "pm": 8,
-        "toi": 15.7,
-        "shots": 15
       },
       "trajectory": [
         38,
@@ -33017,9 +33017,9 @@ window.NHL_DATA = {
     },
     {
       "id": 8480813,
-      "first": "Joe",
+      "first": "Joseph",
       "last": "Veleno",
-      "name": "Joe Veleno",
+      "name": "Joseph Veleno",
       "pos": "C",
       "teamCode": "MTL",
       "age": null,
@@ -47986,10 +47986,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-21 13:01 UTC",
+  "LAST_UPDATE": "2026-09-21 18:19 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-21T13:00:30Z"
+    "standingsDateTimeUtc": "2026-09-21T18:18:16Z"
   }
 };
