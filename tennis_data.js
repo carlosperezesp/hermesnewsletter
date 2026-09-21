@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-21 18:21 UTC
+// Auto-generated 2026-09-21 18:56 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-21 18:21 UTC",
+  "UPDATED": "2026-09-21 18:56 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10408,7 +10408,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Yuki Naito",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 7-6 (7-3)",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -10636,8 +10636,7 @@ window.TENNIS_DATA = {
       "Vivian Wolff",
       "Wang Xinyu",
       "Weronika Falkowska",
-      "Yeonwoo Ku",
-      "Yuki Naito"
+      "Yeonwoo Ku"
     ],
     "out": [
       "Aliona Falei",
@@ -10675,9 +10674,10 @@ window.TENNIS_DATA = {
       "Viktoria Hruncakova",
       "Yao Xinxin",
       "You Xiaodi",
-      "Yuan Yue"
+      "Yuan Yue",
+      "Yuki Naito"
     ],
-    "aliveCount": 142,
+    "aliveCount": 141,
     "matchesSeen": 112
   },
   "ATP_SCORE_LOG": {
