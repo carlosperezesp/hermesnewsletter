@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-22 17:18 UTC
+// Auto-generated 2026-09-22 17:47 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-22 17:18 UTC",
+  "UPDATED": "2026-09-22 17:47 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8635,7 +8635,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Eupago Porto Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 48.9
@@ -9889,7 +9889,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Delta Motors Tolentino Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 36.1
@@ -11550,11 +11550,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Ginevra De Angelis",
+          "w": "Isabella Maria Serban",
           "w_logo": "",
-          "l": "Jessica Pieri",
+          "l": "Aneta Laboutkova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11563,11 +11563,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Isabella Maria Serban",
+          "w": "Jessica Pieri",
           "w_logo": "",
-          "l": "Aneta Laboutkova",
+          "l": "Ginevra De Angelis",
           "l_logo": "",
-          "score": "6-3 6-4",
+          "score": "6-2 6-0",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11609,15 +11609,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Madalena Matias",
+          "w": "Veronika Podrez",
           "w_logo": "",
-          "l": "Veronika Podrez",
+          "l": "Madalena Matias",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-1 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 48.9,
+          "w_score": 48.9,
+          "l_score": null,
           "match_score": 48.9
         },
         {
@@ -11929,7 +11929,6 @@ window.TENNIS_DATA = {
       "Elise Mertens",
       "Erika Andreeva",
       "Gabriela Knutson",
-      "Ginevra De Angelis",
       "Guiomar Maristany Zuleta De Reales",
       "Harmony Tan",
       "Isabella Maria Serban",
@@ -11948,7 +11947,6 @@ window.TENNIS_DATA = {
       "Leylah Fernandez",
       "Leyre Romero Gormaz",
       "Ma YeXin",
-      "Madalena Matias",
       "Maja Chwalinska",
       "Maria Sakkari",
       "Maria Timofeeva",
@@ -12015,6 +12013,7 @@ window.TENNIS_DATA = {
       "Fiona Crawley",
       "Fiona Ferro",
       "Francisca Jorge",
+      "Ginevra De Angelis",
       "Himeno Sakatsume",
       "Ilay Yoruk",
       "Isabella Shinikova",
@@ -12031,6 +12030,7 @@ window.TENNIS_DATA = {
       "Linda Fruhvirtova",
       "Lisa Zaar",
       "Lizette Cabrera",
+      "Madalena Matias",
       "Magda Linette",
       "Mananchaya Sawangkaew",
       "Maria Lourdes Carle",
@@ -12059,8 +12059,8 @@ window.TENNIS_DATA = {
       "Yuan Yue",
       "Yuki Naito"
     ],
-    "aliveCount": 85,
-    "matchesSeen": 111
+    "aliveCount": 83,
+    "matchesSeen": 113
   },
   "ATP_SCORE_LOG": {
     "206173": [
