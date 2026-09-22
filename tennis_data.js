@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-22 23:00 UTC
+// Auto-generated 2026-09-22 23:40 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-22 23:00 UTC",
+  "UPDATED": "2026-09-22 23:40 UTC",
   "ATP": [
     {
       "id": "206173",
