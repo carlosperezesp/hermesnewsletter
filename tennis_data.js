@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-22 17:47 UTC
+// Auto-generated 2026-09-22 23:00 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-22 17:47 UTC",
+  "UPDATED": "2026-09-22 23:00 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -10029,7 +10029,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Delta Motors Tolentino Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11502,9 +11502,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jennifer Ruggeri",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 7-5 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
@@ -11707,19 +11707,6 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Deniz Dilek",
-          "w_logo": "",
-          "l": "Solana Sierra",
-          "l_logo": "",
-          "score": "5-2",
-          "day": "hoy",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": 56.4,
-          "match_score": 56.4
-        },
-        {
-          "round": "R128",
           "w": "Elena Micic",
           "w_logo": "",
           "l": "Julia Riera",
@@ -11803,6 +11790,19 @@ window.TENNIS_DATA = {
           "l": "Marie Vogt",
           "l_logo": "",
           "score": "6-1 2-6 7-6 (7-5)",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Shi Han",
+          "w_logo": "",
+          "l": "Alya Naz Altinel",
+          "l_logo": "",
+          "score": "6-1 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11927,13 +11927,11 @@ window.TENNIS_DATA = {
       "Elena Ruxandra Bertea",
       "Elena-Gabriela Ruse",
       "Elise Mertens",
-      "Erika Andreeva",
       "Gabriela Knutson",
       "Guiomar Maristany Zuleta De Reales",
       "Harmony Tan",
       "Isabella Maria Serban",
       "Jelena Ostapenko",
-      "Jennifer Ruggeri",
       "Jessica Pieri",
       "Joanna Garland",
       "Julia Grabher",
@@ -12008,6 +12006,7 @@ window.TENNIS_DATA = {
       "Donna Vekic",
       "Elvina Kalieva",
       "Emerson Jones",
+      "Erika Andreeva",
       "Eva Lys",
       "Federica Urgesi",
       "Fiona Crawley",
@@ -12017,6 +12016,7 @@ window.TENNIS_DATA = {
       "Himeno Sakatsume",
       "Ilay Yoruk",
       "Isabella Shinikova",
+      "Jennifer Ruggeri",
       "Julia Riera",
       "Julie Struplova",
       "Katarina Kuzmova",
@@ -12059,8 +12059,8 @@ window.TENNIS_DATA = {
       "Yuan Yue",
       "Yuki Naito"
     ],
-    "aliveCount": 83,
-    "matchesSeen": 113
+    "aliveCount": 81,
+    "matchesSeen": 115
   },
   "ATP_SCORE_LOG": {
     "206173": [
