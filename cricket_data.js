@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-21 23:19 UTC",
+  "UPDATED": "2026-09-22 00:12 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1623,
+    "matches": 1620,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 940
+        "matches": 939
       },
       {
         "name": "IPL",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 80
+        "matches": 78
       },
       {
         "name": "MLC",
@@ -2134,8 +2134,8 @@ window.CRICKET_DATA = {
           "batting": 15.7,
           "bowling": 74.9,
           "overall": 63.9,
-          "runs": 302,
-          "wickets": 81
+          "runs": 292,
+          "wickets": 80
         }
       ]
     },
@@ -2170,12 +2170,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 94.3,
-          "batting": 23.0,
-          "bowling": 94.1,
-          "overall": 94.3,
-          "runs": 1228,
-          "wickets": 130
+          "score": 94.1,
+          "batting": 23.1,
+          "bowling": 93.4,
+          "overall": 94.1,
+          "runs": 1207,
+          "wickets": 129
         },
         {
           "id": "ba-stokes",
@@ -2268,24 +2268,6 @@ window.CRICKET_DATA = {
           "wickets": 52
         },
         {
-          "id": "rl-chase",
-          "name": "RL Chase",
-          "role": "Batter",
-          "country": "West Indies",
-          "teamCode": "WI",
-          "colors": {
-            "primary": "#7a263a",
-            "secondary": "#f6c344"
-          },
-          "logo": "",
-          "score": 77.8,
-          "batting": 26.4,
-          "bowling": 55.9,
-          "overall": 77.8,
-          "runs": 1819,
-          "wickets": 76
-        },
-        {
           "id": "mj-santner",
           "name": "MJ Santner",
           "role": "Bowler",
@@ -2320,6 +2302,24 @@ window.CRICKET_DATA = {
           "overall": 77.2,
           "runs": 419,
           "wickets": 125
+        },
+        {
+          "id": "rl-chase",
+          "name": "RL Chase",
+          "role": "Batter",
+          "country": "West Indies",
+          "teamCode": "WI",
+          "colors": {
+            "primary": "#7a263a",
+            "secondary": "#f6c344"
+          },
+          "logo": "",
+          "score": 75.7,
+          "batting": 26.0,
+          "bowling": 53.7,
+          "overall": 75.7,
+          "runs": 1780,
+          "wickets": 73
         }
       ],
       "batting": [
@@ -2552,12 +2552,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 94.1,
-          "batting": 23.0,
-          "bowling": 94.1,
-          "overall": 94.3,
-          "runs": 1228,
-          "wickets": 130
+          "score": 93.4,
+          "batting": 23.1,
+          "bowling": 93.4,
+          "overall": 94.1,
+          "runs": 1207,
+          "wickets": 129
         },
         {
           "id": "jc-archer",
@@ -2614,24 +2614,6 @@ window.CRICKET_DATA = {
           "wickets": 112
         },
         {
-          "id": "as-joseph",
-          "name": "AS Joseph",
-          "role": "Bowler",
-          "country": "West Indies",
-          "teamCode": "WI",
-          "colors": {
-            "primary": "#7a263a",
-            "secondary": "#f6c344"
-          },
-          "logo": "",
-          "score": 78.0,
-          "batting": 13.4,
-          "bowling": 78.0,
-          "overall": 65.5,
-          "runs": 369,
-          "wickets": 103
-        },
-        {
           "id": "jnt-seales",
           "name": "JNT Seales",
           "role": "Bowler",
@@ -2684,6 +2666,24 @@ window.CRICKET_DATA = {
           "overall": 70.3,
           "runs": 116,
           "wickets": 54
+        },
+        {
+          "id": "as-joseph",
+          "name": "AS Joseph",
+          "role": "Bowler",
+          "country": "West Indies",
+          "teamCode": "WI",
+          "colors": {
+            "primary": "#7a263a",
+            "secondary": "#f6c344"
+          },
+          "logo": "",
+          "score": 75.1,
+          "batting": 13.4,
+          "bowling": 75.1,
+          "overall": 64.3,
+          "runs": 369,
+          "wickets": 99
         }
       ]
     }

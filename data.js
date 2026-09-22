@@ -6708,7 +6708,7 @@ window.NHL_DATA = {
       "name": "Alexander Wennberg",
       "pos": "C",
       "teamCode": "SJS",
-      "age": 31,
+      "age": 32,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -47986,10 +47986,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-21 23:17 UTC",
+  "LAST_UPDATE": "2026-09-22 00:11 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-21T23:16:30Z"
+    "standingsDateTimeUtc": "2026-09-22T00:10:30Z"
   }
 };
