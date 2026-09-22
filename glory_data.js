@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-22 10:00 UTC",
+  "UPDATED": "2026-09-22 11:53 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Austrian motorcycle Grand Prix:Jorge Martín",
