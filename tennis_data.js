@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-23 17:30 UTC
+// Auto-generated 2026-09-23 18:00 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-23 17:30 UTC",
+  "UPDATED": "2026-09-23 18:00 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11610,11 +11610,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Marta Lombardini",
+          "w": "Guiomar Maristany Zuleta De Reales",
           "w_logo": "",
-          "l": "Guiomar Maristany Zuleta De Reales",
+          "l": "Marta Lombardini",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -12048,7 +12048,7 @@ window.TENNIS_DATA = {
       "Yuki Naito"
     ],
     "aliveCount": 80,
-    "matchesSeen": 123
+    "matchesSeen": 124
   },
   "ATP_SCORE_LOG": {
     "206173": [

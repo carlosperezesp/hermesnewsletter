@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-23 17:27 UTC
+// Auto-generated 2026-09-23 17:57 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-09-23 17:27 UTC",
+  "UPDATED": "2026-09-23 17:57 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -52,14 +52,14 @@ window.CYCLING_DATA = {
       "teamCode": "SLO",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "legendScore": 64.2,
+      "legendScore": 62.2,
       "active": true,
       "age": 28,
       "stats": {
         "tour": 5,
         "giro": 1,
         "vuelta": 0,
-        "monuments": 13,
+        "monuments": 12,
         "worlds": 2,
         "birth": 1998
       },
@@ -315,7 +315,7 @@ window.CYCLING_DATA = {
         "worlds": 3,
         "birth": 1990
       },
-      "prevRank": 16
+      "prevRank": 15
     },
     {
       "id": "roger_de_vlaeminck",
@@ -336,7 +336,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1947
       },
-      "prevRank": 17
+      "prevRank": 16
     },
     {
       "id": "jonas_vingegaard",
@@ -357,7 +357,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1996
       },
-      "prevRank": 15
+      "prevRank": 17
     },
     {
       "id": "sean_kelly",
@@ -432,14 +432,14 @@ window.CYCLING_DATA = {
       "teamCode": "SLO",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "legendScore": 64.2,
+      "legendScore": 62.2,
       "active": true,
       "age": 28,
       "stats": {
         "tour": 5,
         "giro": 1,
         "vuelta": 0,
-        "monuments": 13,
+        "monuments": 12,
         "worlds": 2,
         "birth": 1998
       },
@@ -487,7 +487,7 @@ window.CYCLING_DATA = {
         "worlds": 1,
         "birth": 1995
       },
-      "prevRank": 4,
+      "prevRank": 3,
       "insight": "Legado de clásicas y Mundial sostienen su score"
     },
     {
@@ -509,7 +509,7 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1996
       },
-      "prevRank": 3,
+      "prevRank": 4,
       "insight": "Base de grandes vueltas; el siguiente salto pesa mucho"
     },
     {
@@ -641,32 +641,11 @@ window.CYCLING_DATA = {
         "worlds": 0,
         "birth": 1994
       },
+      "prevRank": 10,
       "insight": "Una grande ya cuenta; necesita repetir para escalar"
     }
   ],
-  "CURRENT_PROSPECTS": [
-    {
-      "id": "paul_seixas",
-      "name": "Paul Seixas",
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
-      "secondary": "#FFFFFF",
-      "legendScore": 0.0,
-      "active": true,
-      "age": 20,
-      "stats": {
-        "tour": 0,
-        "giro": 0,
-        "vuelta": 0,
-        "monuments": 0,
-        "worlds": 0,
-        "birth": 2006
-      },
-      "note": "1 victoria de relieve en 2026 a los 20"
-    }
-  ],
+  "CURRENT_PROSPECTS": [],
   "CURRENT_RACE": {
     "name": "Vuelta a España",
     "start": "2026-08-15",
@@ -676,15 +655,7 @@ window.CYCLING_DATA = {
     "jersey_primary": "#E8002D",
     "jersey_name": "Maillot Rojo",
     "last_stage": null,
-    "next_stage": {
-      "stage": 1,
-      "date": "22 August",
-      "type": "Individual time trial",
-      "dist_km": 9,
-      "from": "Monaco",
-      "to": "Individual time trial",
-      "completed": false
-    },
+    "next_stage": null,
     "last_stage_result": [],
     "finished": false,
     "gc_winner": null,
@@ -774,13 +745,8 @@ window.CYCLING_DATA = {
       "dateLabel": "26 abr",
       "start": "2026-04-26",
       "end": "2026-04-26",
-      "status": "finished",
-      "winner": {
-        "name": "Tadej Pogačar",
-        "cc3": "SLO",
-        "logo": "https://flagcdn.com/24x18/si.png",
-        "color": "#003DA5"
-      }
+      "status": "pending",
+      "winner": null
     },
     {
       "tier": "Monumento",
