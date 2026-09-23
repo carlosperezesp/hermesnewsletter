@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-23 10:02 UTC
+// Auto-generated 2026-09-23 11:53 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-23 10:02 UTC",
+  "UPDATED": "2026-09-23 11:53 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1323,10 +1323,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "AITO Hangzhou Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 65.0
     },
@@ -4057,7 +4057,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 47.9
@@ -4158,9 +4158,9 @@ window.TENNIS_DATA = {
       "prevListRank": 122,
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 46.7
     },
@@ -10917,9 +10917,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Valentin Royer",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.4,
           "l_score": 43.0,
           "match_score": 48.4
@@ -10930,7 +10930,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Aleksandar Vukic",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-5) 3-6 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 47.9,
@@ -11538,15 +11538,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Mirra Andreeva",
+          "w": "Aliaksandra Sasnovich",
           "w_logo": "",
-          "l": "Aliaksandra Sasnovich",
+          "l": "Mirra Andreeva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 91.9,
-          "l_score": 44.9,
+          "scheduled": false,
+          "w_score": 44.9,
+          "l_score": 91.9,
           "match_score": 91.9
         },
         {
@@ -11640,9 +11640,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Isabella Maria Serban",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11686,9 +11686,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Oceane Dodin",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11771,9 +11771,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Weronika Falkowska",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11803,7 +11803,6 @@ window.TENNIS_DATA = {
       "Adolfo Daniel Vallejo",
       "Adrian Mannarino",
       "Aleksandar Kovacevic",
-      "Aleksandar Vukic",
       "Aleksandr Shevchenko",
       "Alex Bolt",
       "Alexandre Muller",
@@ -11841,17 +11840,19 @@ window.TENNIS_DATA = {
       "Tallon Griekspoor",
       "Taro Daniel",
       "Terence Atmane",
+      "Tomas Martin Etcheverry",
       "Valentin Royer",
       "Vit Kopriva",
       "Zhang Zhizhen",
       "Zhou Yi"
     ],
     "out": [
+      "Aleksandar Vukic",
       "Hu Jia",
       "Sebastian Baez"
     ],
     "aliveCount": 46,
-    "matchesSeen": 24
+    "matchesSeen": 25
   },
   "WTA_TOURNAMENT": {
     "name": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
