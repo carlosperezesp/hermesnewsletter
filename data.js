@@ -3316,7 +3316,7 @@ window.NHL_DATA = {
       "name": "Dylan Holloway",
       "pos": "LW",
       "teamCode": "STL",
-      "age": 24,
+      "age": 25,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -8115,7 +8115,7 @@ window.NHL_DATA = {
       "name": "Marco Rossi",
       "pos": "C",
       "teamCode": "VAN",
-      "age": 24,
+      "age": 25,
       "country": "Austria",
       "birthCountry": "AUT",
       "colors": {
@@ -29464,7 +29464,7 @@ window.NHL_DATA = {
       "name": "Tyson Gross",
       "pos": "C",
       "teamCode": "CGY",
-      "age": 23,
+      "age": 24,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47986,10 +47986,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-22 23:38 UTC",
+  "LAST_UPDATE": "2026-09-23 09:59 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-22T23:37:45Z"
+    "standingsDateTimeUtc": "2026-09-23T09:59:00Z"
   }
 };

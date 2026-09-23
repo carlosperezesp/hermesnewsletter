@@ -1,6 +1,6 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-09-22 23:39 UTC",
+  "UPDATED": "2026-09-23 10:01 UTC",
   "LAST_MATCH": "2026-09-19",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
@@ -214,56 +214,6 @@ window.RUGBY_DATA = {
         "awayScore": 12,
         "venue": "Denka Big Swan Stadium",
         "city": ""
-      },
-      {
-        "date": "2026-08-29",
-        "status": "final",
-        "competition": "International Test Match",
-        "home": {
-          "name": "South Africa",
-          "teamCode": "RSA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb612"
-          }
-        },
-        "away": {
-          "name": "New Zealand",
-          "teamCode": "NZL",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          }
-        },
-        "homeScore": 33,
-        "awayScore": 26,
-        "venue": "DHL Stadium",
-        "city": "Cape Town"
-      },
-      {
-        "date": "2026-08-29",
-        "status": "final",
-        "competition": "International Test Match",
-        "home": {
-          "name": "Argentina",
-          "teamCode": "ARG",
-          "colors": {
-            "primary": "#75aadb",
-            "secondary": "#f6b40e"
-          }
-        },
-        "away": {
-          "name": "Australia",
-          "teamCode": "AUS",
-          "colors": {
-            "primary": "#ffcd00",
-            "secondary": "#00843d"
-          }
-        },
-        "homeScore": 21,
-        "awayScore": 27,
-        "venue": "Estadio 23 de Agosto",
-        "city": "San Salvador"
       }
     ],
     "upcoming": [

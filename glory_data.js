@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-22 23:40 UTC",
+  "UPDATED": "2026-09-23 10:02 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Austrian motorcycle Grand Prix:Jorge Martín",
@@ -448,8 +448,8 @@ window.GLORY_DATA = {
     "cricket:ROAD_TO_GLORY.players": [
       "MA Starc",
       "JJ Bumrah",
-      "RA Jadeja",
       "Taijul Islam",
+      "RA Jadeja",
       "Mohammed Siraj",
       "MJ Henry",
       "Nauman Ali",
