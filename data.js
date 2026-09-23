@@ -12323,9 +12323,9 @@ window.NHL_DATA = {
       "name": "Matt Savoie",
       "pos": "C",
       "teamCode": "EDM",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 22,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#041e42",
         "secondary": "#ff4c00"
@@ -12348,7 +12348,8 @@ window.NHL_DATA = {
         49,
         51,
         57
-      ]
+      ],
+      "legendScore": 50.2
     },
     {
       "id": 8484860,
@@ -47986,10 +47987,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-23 11:50 UTC",
+  "LAST_UPDATE": "2026-09-23 17:27 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-23T11:50:00Z"
+    "standingsDateTimeUtc": "2026-09-23T17:26:45Z"
   }
 };

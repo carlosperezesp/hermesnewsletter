@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-23 11:53 UTC",
+  "UPDATED": "2026-09-23 17:30 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Austrian motorcycle Grand Prix:Jorge Martín",
@@ -25,6 +25,15 @@ window.GLORY_DATA = {
       "text": "Ryan Blaney ganó en Echopark Speedway",
       "weight": 100,
       "firstSeen": "2026-09-11"
+    },
+    {
+      "id": "rank:cycling:CURRENT_PROSPECTS:new1:Paul Seixas",
+      "sport": "cycling",
+      "detail": "Ciclismo",
+      "anchor": "cycling-promesas",
+      "text": "Paul Seixas es nuevo nº1 · promesas",
+      "weight": 92,
+      "firstSeen": "2026-09-23"
     },
     {
       "id": "rank:motogp:RIDERS:new1:Jorge Martín",
@@ -63,6 +72,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-13"
     },
     {
+      "id": "rank:cycling:CURRENT_RIDERS:in:Sepp Kuss",
+      "sport": "cycling",
+      "detail": "Ciclismo",
+      "anchor": "cycling-corredores-actuales",
+      "text": "Sepp Kuss entra en el top-10 · corredores actuales",
+      "weight": 84,
+      "firstSeen": "2026-09-23"
+    },
+    {
       "id": "tennis:out:WTA:Amanda Anisimova:20260910",
       "sport": "tennis",
       "detail": "Tenis",
@@ -79,6 +97,24 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-09-14"
+    },
+    {
+      "id": "rank:cycling:CURRENT_RIDERS:out:Wout van Aert",
+      "sport": "cycling",
+      "detail": "Ciclismo",
+      "anchor": "cycling-corredores-actuales",
+      "text": "Wout van Aert cae del top-10 · corredores actuales",
+      "weight": 74,
+      "firstSeen": "2026-09-23"
+    },
+    {
+      "id": "rank:cycling:CURRENT_PROSPECTS:out:Isaac del Toro",
+      "sport": "cycling",
+      "detail": "Ciclismo",
+      "anchor": "cycling-promesas",
+      "text": "Isaac del Toro cae del top-10 · promesas",
+      "weight": 74,
+      "firstSeen": "2026-09-23"
     }
   ],
   "REPORTS": [],
@@ -288,17 +324,16 @@ window.GLORY_DATA = {
     "cycling:CURRENT_RIDERS": [
       "Tadej Pogacar",
       "Primoz Roglic",
-      "Jonas Vingegaard",
       "Mathieu van der Poel",
+      "Jonas Vingegaard",
       "Remco Evenepoel",
       "Egan Bernal",
       "Julian Alaphilippe",
       "Richard Carapaz",
       "Jai Hindley",
-      "Wout van Aert"
+      "Sepp Kuss"
     ],
     "cycling:CURRENT_PROSPECTS": [
-      "Isaac del Toro",
       "Paul Seixas"
     ],
     "sumo:BANZUKE": [
