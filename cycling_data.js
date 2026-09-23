@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-23 17:57 UTC
+// Auto-generated 2026-09-23 22:57 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-09-23 17:57 UTC",
+  "UPDATED": "2026-09-23 22:57 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -52,14 +52,14 @@ window.CYCLING_DATA = {
       "teamCode": "SLO",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "legendScore": 62.2,
+      "legendScore": 64.2,
       "active": true,
       "age": 28,
       "stats": {
         "tour": 5,
         "giro": 1,
         "vuelta": 0,
-        "monuments": 12,
+        "monuments": 13,
         "worlds": 2,
         "birth": 1998
       },
@@ -297,6 +297,27 @@ window.CYCLING_DATA = {
       "prevRank": 14
     },
     {
+      "id": "jonas_vingegaard",
+      "name": "Jonas Vingegaard",
+      "country": "DEN",
+      "logo": "https://flagcdn.com/24x18/dk.png",
+      "teamCode": "DEN",
+      "primary": "#C60C30",
+      "secondary": "#FFFFFF",
+      "legendScore": 20.4,
+      "active": true,
+      "age": 30,
+      "stats": {
+        "tour": 2,
+        "giro": 1,
+        "vuelta": 1,
+        "monuments": 0,
+        "worlds": 0,
+        "birth": 1996
+      },
+      "prevRank": 17
+    },
+    {
       "id": "peter_sagan",
       "name": "Peter Sagan",
       "country": "SVK",
@@ -337,27 +358,6 @@ window.CYCLING_DATA = {
         "birth": 1947
       },
       "prevRank": 16
-    },
-    {
-      "id": "jonas_vingegaard",
-      "name": "Jonas Vingegaard",
-      "country": "DEN",
-      "logo": "https://flagcdn.com/24x18/dk.png",
-      "teamCode": "DEN",
-      "primary": "#C60C30",
-      "secondary": "#FFFFFF",
-      "legendScore": 15.9,
-      "active": true,
-      "age": 30,
-      "stats": {
-        "tour": 2,
-        "giro": 0,
-        "vuelta": 1,
-        "monuments": 0,
-        "worlds": 0,
-        "birth": 1996
-      },
-      "prevRank": 17
     },
     {
       "id": "sean_kelly",
@@ -432,14 +432,14 @@ window.CYCLING_DATA = {
       "teamCode": "SLO",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "legendScore": 62.2,
+      "legendScore": 64.2,
       "active": true,
       "age": 28,
       "stats": {
         "tour": 5,
         "giro": 1,
         "vuelta": 0,
-        "monuments": 12,
+        "monuments": 13,
         "worlds": 2,
         "birth": 1998
       },
@@ -469,6 +469,28 @@ window.CYCLING_DATA = {
       "insight": "Palmarés de Grand Tour ya muy serio"
     },
     {
+      "id": "jonas_vingegaard",
+      "name": "Jonas Vingegaard",
+      "country": "DEN",
+      "logo": "https://flagcdn.com/24x18/dk.png",
+      "teamCode": "DEN",
+      "primary": "#C60C30",
+      "secondary": "#FFFFFF",
+      "legendScore": 20.4,
+      "active": true,
+      "age": 30,
+      "stats": {
+        "tour": 2,
+        "giro": 1,
+        "vuelta": 1,
+        "monuments": 0,
+        "worlds": 0,
+        "birth": 1996
+      },
+      "prevRank": 4,
+      "insight": "Palmarés de Grand Tour ya muy serio"
+    },
+    {
       "id": "mathieu_van_der_poel",
       "name": "Mathieu van der Poel",
       "country": "NED",
@@ -489,28 +511,6 @@ window.CYCLING_DATA = {
       },
       "prevRank": 3,
       "insight": "Legado de clásicas y Mundial sostienen su score"
-    },
-    {
-      "id": "jonas_vingegaard",
-      "name": "Jonas Vingegaard",
-      "country": "DEN",
-      "logo": "https://flagcdn.com/24x18/dk.png",
-      "teamCode": "DEN",
-      "primary": "#C60C30",
-      "secondary": "#FFFFFF",
-      "legendScore": 15.9,
-      "active": true,
-      "age": 30,
-      "stats": {
-        "tour": 2,
-        "giro": 0,
-        "vuelta": 1,
-        "monuments": 0,
-        "worlds": 0,
-        "birth": 1996
-      },
-      "prevRank": 4,
-      "insight": "Base de grandes vueltas; el siguiente salto pesa mucho"
     },
     {
       "id": "remco_evenepoel",
@@ -623,12 +623,12 @@ window.CYCLING_DATA = {
       "insight": "Una grande ya cuenta; necesita repetir para escalar"
     },
     {
-      "id": "sepp_kuss",
-      "name": "Sepp Kuss",
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
+      "id": "wout_van_aert",
+      "name": "Wout van Aert",
+      "country": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "teamCode": "BEL",
+      "primary": "#000000",
       "secondary": "#FFFFFF",
       "legendScore": 4.0,
       "active": true,
@@ -636,16 +636,58 @@ window.CYCLING_DATA = {
       "stats": {
         "tour": 0,
         "giro": 0,
-        "vuelta": 1,
-        "monuments": 0,
+        "vuelta": 0,
+        "monuments": 2,
         "worlds": 0,
         "birth": 1994
       },
-      "prevRank": 10,
-      "insight": "Una grande ya cuenta; necesita repetir para escalar"
+      "insight": "Necesita una victoria mayor para activar el salto histórico"
     }
   ],
-  "CURRENT_PROSPECTS": [],
+  "CURRENT_PROSPECTS": [
+    {
+      "id": "isaac_del_toro",
+      "name": "Isaac del Toro",
+      "country": "MEX",
+      "logo": "https://flagcdn.com/24x18/mx.png",
+      "teamCode": "MEX",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "legendScore": 0.0,
+      "active": true,
+      "age": 23,
+      "stats": {
+        "tour": 0,
+        "giro": 0,
+        "vuelta": 0,
+        "monuments": 0,
+        "worlds": 0,
+        "birth": 2003
+      },
+      "note": "2 victorias de relieve en 2026 a los 23"
+    },
+    {
+      "id": "paul_seixas",
+      "name": "Paul Seixas",
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "legendScore": 0.0,
+      "active": true,
+      "age": 20,
+      "stats": {
+        "tour": 0,
+        "giro": 0,
+        "vuelta": 0,
+        "monuments": 0,
+        "worlds": 0,
+        "birth": 2006
+      },
+      "note": "2 victorias de relieve en 2026 a los 20"
+    }
+  ],
   "CURRENT_RACE": {
     "name": "Vuelta a España",
     "start": "2026-08-15",
@@ -655,14 +697,150 @@ window.CYCLING_DATA = {
     "jersey_primary": "#E8002D",
     "jersey_name": "Maillot Rojo",
     "last_stage": null,
-    "next_stage": null,
+    "next_stage": {
+      "stage": 1,
+      "date": "22 August",
+      "type": "Individual time trial",
+      "dist_km": 9,
+      "from": "Monaco",
+      "to": "Individual time trial",
+      "completed": false
+    },
     "last_stage_result": [],
     "finished": false,
     "gc_winner": null,
-    "gc": [],
-    "points_leader": null,
-    "kom_leader": null,
-    "young_leader": null
+    "gc": [
+      {
+        "rank": 1,
+        "name": "Enric Mas",
+        "country": "ESP",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "team": "MOV men",
+        "primary": "#AA151B",
+        "time": "73h 52' 55\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 2,
+        "name": "Primož Roglič",
+        "country": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "team": "RBH",
+        "primary": "#003DA5",
+        "time": "+ 2' 15\"",
+        "legendScore": 22.4
+      },
+      {
+        "rank": 3,
+        "name": "Felix Gall",
+        "country": "AUT",
+        "logo": "https://flagcdn.com/24x18/at.png",
+        "team": "DCT",
+        "primary": "#ED2939",
+        "time": "+ 2' 44\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 4,
+        "name": "Richard Carapaz",
+        "country": "ECU",
+        "logo": "https://flagcdn.com/24x18/ec.png",
+        "team": "EFE",
+        "primary": "#FFD100",
+        "time": "+ 6' 54\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 5,
+        "name": "Sepp Kuss",
+        "country": "USA",
+        "logo": "https://flagcdn.com/24x18/us.png",
+        "team": "TVL men",
+        "primary": "#B22234",
+        "time": "+ 8' 45\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 6,
+        "name": "Oscar Onley",
+        "country": "GBR",
+        "logo": "https://flagcdn.com/24x18/gb.png",
+        "team": "NCI",
+        "primary": "#012169",
+        "time": "+ 9' 28\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 7,
+        "name": "Jakob Omrzel",
+        "country": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "team": "TBV",
+        "primary": "#003DA5",
+        "time": "+ 10' 38\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 8,
+        "name": "Clément Berthet",
+        "country": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "team": "GFC",
+        "primary": "#002395",
+        "time": "+ 11' 41\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 9,
+        "name": "Cristián Rodríguez",
+        "country": "ESP",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "team": "XAT",
+        "primary": "#AA151B",
+        "time": "+ 11' 59\"",
+        "legendScore": 0.0
+      },
+      {
+        "rank": 10,
+        "name": "Harold Tejada",
+        "country": "COL",
+        "logo": "https://flagcdn.com/24x18/co.png",
+        "team": "XAT",
+        "primary": "#FCD116",
+        "time": "+ 12' 51\"",
+        "legendScore": 0.0
+      }
+    ],
+    "points_leader": {
+      "rank": 1,
+      "name": "Wout van Aert",
+      "country": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "team": "TVL men",
+      "primary": "#000000",
+      "points": 326,
+      "legendScore": 0.0
+    },
+    "kom_leader": {
+      "rank": 1,
+      "name": "Santiago Buitrago",
+      "country": "COL",
+      "logo": "https://flagcdn.com/24x18/co.png",
+      "team": "TBV",
+      "primary": "#FCD116",
+      "points": 78,
+      "legendScore": 0.0
+    },
+    "young_leader": {
+      "rank": 1,
+      "name": "Oscar Onley",
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "team": "NCI",
+      "primary": "#012169",
+      "time": "74h 02' 23\"",
+      "legendScore": 0.0
+    }
   },
   "RACE_CALENDAR": [
     {
@@ -671,8 +849,13 @@ window.CYCLING_DATA = {
       "dateLabel": "8 may–1 jun",
       "start": "2026-05-08",
       "end": "2026-06-01",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Jonas Vingegaard",
+        "cc3": "DEN",
+        "logo": "https://flagcdn.com/24x18/dk.png",
+        "color": "#C60C30"
+      }
     },
     {
       "tier": "Gran Vuelta",
@@ -736,8 +919,13 @@ window.CYCLING_DATA = {
       "dateLabel": "12 abr",
       "start": "2026-04-12",
       "end": "2026-04-12",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Wout van Aert",
+        "cc3": "BEL",
+        "logo": "https://flagcdn.com/24x18/be.png",
+        "color": "#000000"
+      }
     },
     {
       "tier": "Monumento",
@@ -745,8 +933,13 @@ window.CYCLING_DATA = {
       "dateLabel": "26 abr",
       "start": "2026-04-26",
       "end": "2026-04-26",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Tadej Pogačar",
+        "cc3": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "color": "#003DA5"
+      }
     },
     {
       "tier": "Monumento",
@@ -772,8 +965,13 @@ window.CYCLING_DATA = {
       "dateLabel": "8–15 mar",
       "start": "2026-03-08",
       "end": "2026-03-15",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Jonas Vingegaard",
+        "cc3": "DEN",
+        "logo": "https://flagcdn.com/24x18/dk.png",
+        "color": "#C60C30"
+      }
     },
     {
       "tier": "Vuelta de una semana",
@@ -781,8 +979,13 @@ window.CYCLING_DATA = {
       "dateLabel": "9–15 mar",
       "start": "2026-03-09",
       "end": "2026-03-15",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Isaac del Toro",
+        "cc3": "MEX",
+        "logo": "https://flagcdn.com/24x18/mx.png",
+        "color": "#555555"
+      }
     },
     {
       "tier": "Vuelta de una semana",
@@ -790,8 +993,13 @@ window.CYCLING_DATA = {
       "dateLabel": "6–11 abr",
       "start": "2026-04-06",
       "end": "2026-04-11",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Paul Seixas",
+        "cc3": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "color": "#002395"
+      }
     },
     {
       "tier": "Vuelta de una semana",
@@ -799,8 +1007,13 @@ window.CYCLING_DATA = {
       "dateLabel": "7–14 jun",
       "start": "2026-06-07",
       "end": "2026-06-14",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Isaac del Toro",
+        "cc3": "MEX",
+        "logo": "https://flagcdn.com/24x18/mx.png",
+        "color": "#555555"
+      }
     },
     {
       "tier": "Vuelta de una semana",
@@ -808,8 +1021,13 @@ window.CYCLING_DATA = {
       "dateLabel": "14–21 jun",
       "start": "2026-06-14",
       "end": "2026-06-21",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Tadej Pogačar",
+        "cc3": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "color": "#003DA5"
+      }
     },
     {
       "tier": "Clásica",
@@ -817,8 +1035,13 @@ window.CYCLING_DATA = {
       "dateLabel": "7 mar",
       "start": "2026-03-07",
       "end": "2026-03-07",
-      "status": "pending",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Tadej Pogačar",
+        "cc3": "SLO",
+        "logo": "https://flagcdn.com/24x18/si.png",
+        "color": "#003DA5"
+      }
     },
     {
       "tier": "Clásica",

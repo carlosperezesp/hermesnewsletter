@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-23 18:00 UTC
+// Auto-generated 2026-09-23 22:59 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-23 18:00 UTC",
+  "UPDATED": "2026-09-23 22:59 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11627,9 +11627,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Noemi Basiletti",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 3-6 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -12048,7 +12048,7 @@ window.TENNIS_DATA = {
       "Yuki Naito"
     ],
     "aliveCount": 80,
-    "matchesSeen": 124
+    "matchesSeen": 125
   },
   "ATP_SCORE_LOG": {
     "206173": [

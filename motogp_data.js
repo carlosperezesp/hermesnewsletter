@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-23 17:58 UTC
+// Auto-generated 2026-09-23 22:58 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-09-23 17:58 UTC",
+  "UPDATED": "2026-09-23 22:58 UTC",
   "SEASON": "2026",
   "ROUND": 15,
   "TOTAL_ROUNDS": 22,
@@ -284,18 +284,34 @@ window.MOTOGP_DATA = {
   "LAST_RACE": {
     "round": 15,
     "name": "Austrian motorcycle Grand Prix",
-    "winner": "Pedro Acosta",
-    "country": "ESP",
-    "bike": "KTM",
-    "primary": "#E86825",
+    "winner": "Jorge Martín",
+    "country": "SPA",
+    "bike": "Aprilia",
+    "primary": "#003366",
     "podium": [
       {
         "pos": 1,
-        "name": "Pedro Acosta",
-        "country": "ESP",
+        "name": "Jorge Martín",
+        "country": "SPA",
         "logo": "https://flagcdn.com/24x18/es.png",
-        "bike": "KTM",
-        "primary": "#E86825"
+        "bike": "Aprilia",
+        "primary": "#003366"
+      },
+      {
+        "pos": 2,
+        "name": "Marc Márquez",
+        "country": "SPA",
+        "logo": "https://flagcdn.com/24x18/es.png",
+        "bike": "Ducati",
+        "primary": "#CC0000"
+      },
+      {
+        "pos": 3,
+        "name": "Marco Bezzecchi",
+        "country": "ITA",
+        "logo": "https://flagcdn.com/24x18/it.png",
+        "bike": "Aprilia",
+        "primary": "#003366"
       }
     ]
   },

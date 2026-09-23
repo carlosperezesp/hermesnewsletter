@@ -4990,9 +4990,9 @@ window.NHL_DATA = {
       "name": "Hunter McDonald",
       "pos": "D",
       "teamCode": "PHI",
-      "age": 24,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f74902",
         "secondary": "#111111"
@@ -5014,8 +5014,7 @@ window.NHL_DATA = {
         42,
         44,
         68
-      ],
-      "legendScore": 53.7
+      ]
     },
     {
       "id": 8475166,
@@ -9556,9 +9555,9 @@ window.NHL_DATA = {
       "name": "Kirill Kudryavtsev",
       "pos": "D",
       "teamCode": "VAN",
-      "age": 22,
-      "country": "Russia",
-      "birthCountry": "RUS",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#00843d"
@@ -9580,8 +9579,7 @@ window.NHL_DATA = {
         42,
         44,
         60
-      ],
-      "legendScore": 51.9
+      ]
     },
     {
       "id": 8482702,
@@ -24889,9 +24887,9 @@ window.NHL_DATA = {
       "name": "Carl Lindbom",
       "pos": "G",
       "teamCode": "VGK",
-      "age": 23,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
@@ -28764,9 +28762,9 @@ window.NHL_DATA = {
       "name": "Joakim Kemell",
       "pos": "RW",
       "teamCode": "NSH",
-      "age": 22,
-      "country": "Finland",
-      "birthCountry": "FIN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ffb81c",
         "secondary": "#041e42"
@@ -29432,9 +29430,9 @@ window.NHL_DATA = {
       "name": "Ty Mueller",
       "pos": "C",
       "teamCode": "VAN",
-      "age": 23,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#00843d"
@@ -33190,9 +33188,9 @@ window.NHL_DATA = {
       "name": "Luca Pinelli",
       "pos": "C",
       "teamCode": "CBJ",
-      "age": 21,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#002654",
         "secondary": "#ce1126"
@@ -34245,9 +34243,9 @@ window.NHL_DATA = {
       "name": "Kai Uchacz",
       "pos": "C",
       "teamCode": "VGK",
-      "age": 23,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
@@ -35400,9 +35398,9 @@ window.NHL_DATA = {
       "name": "Ty Murchison",
       "pos": "D",
       "teamCode": "PHI",
-      "age": 23,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f74902",
         "secondary": "#111111"
@@ -47987,10 +47985,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-23 17:57 UTC",
+  "LAST_UPDATE": "2026-09-23 22:57 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-23T17:56:30Z"
+    "standingsDateTimeUtc": "2026-09-23T22:56:45Z"
   }
 };
