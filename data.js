@@ -14634,9 +14634,9 @@ window.NHL_DATA = {
       "name": "Rasmus Sandin",
       "pos": "D",
       "teamCode": "WSH",
-      "age": 26,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -24886,9 +24886,9 @@ window.NHL_DATA = {
       "name": "Carl Lindbom",
       "pos": "G",
       "teamCode": "VGK",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 23,
+      "country": "Sweden",
+      "birthCountry": "SWE",
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
@@ -28562,9 +28562,9 @@ window.NHL_DATA = {
       "name": "Ethan Cardwell",
       "pos": "RW",
       "teamCode": "SJS",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#006d75",
         "secondary": "#ea7200"
@@ -32489,9 +32489,9 @@ window.NHL_DATA = {
       "name": "Dakota Mermis",
       "pos": "D",
       "teamCode": "TOR",
-      "age": 32,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#ffffff"
@@ -33286,9 +33286,9 @@ window.NHL_DATA = {
       "name": "Ozzy Wiesblatt",
       "pos": "C",
       "teamCode": "NSH",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ffb81c",
         "secondary": "#041e42"
@@ -37409,9 +37409,9 @@ window.NHL_DATA = {
       "name": "Jaycob Megna",
       "pos": "D",
       "teamCode": "VGK",
-      "age": 33,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
@@ -47984,10 +47984,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-24 17:56 UTC",
+  "LAST_UPDATE": "2026-09-24 23:12 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-24T17:56:00Z"
+    "standingsDateTimeUtc": "2026-09-24T23:12:15Z"
   }
 };

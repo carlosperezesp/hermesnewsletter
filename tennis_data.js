@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-24 17:59 UTC
+// Auto-generated 2026-09-24 23:15 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-24 17:59 UTC",
+  "UPDATED": "2026-09-24 23:15 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8877,7 +8877,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Delta Motors Tolentino Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 47.2
@@ -9817,7 +9817,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Delta Motors Tolentino Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 37.6
@@ -10029,7 +10029,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Delta Motors Tolentino Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11603,7 +11603,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Samira De Stefano",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "5-7 6-1 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 47.2,
@@ -11612,15 +11612,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Veronika Erjavec",
+          "w": "Nuria Brancaccio",
           "w_logo": "",
-          "l": "Nuria Brancaccio",
+          "l": "Veronika Erjavec",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "5-7 5-3 ret",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 37.6,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 37.6,
           "match_score": 37.6
         },
         {
@@ -12043,7 +12043,7 @@ window.TENNIS_DATA = {
       "Yuki Naito"
     ],
     "aliveCount": 78,
-    "matchesSeen": 134
+    "matchesSeen": 136
   },
   "ATP_SCORE_LOG": {
     "206173": [
