@@ -3888,9 +3888,9 @@ window.NHL_DATA = {
       "name": "Angus Booth",
       "pos": "D",
       "teamCode": "LAK",
-      "age": 22,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#111111",
         "secondary": "#a2aaad"
@@ -3912,8 +3912,7 @@ window.NHL_DATA = {
         42,
         44,
         70
-      ],
-      "legendScore": 57.4
+      ]
     },
     {
       "id": 8480208,
@@ -15462,9 +15461,9 @@ window.NHL_DATA = {
       "name": "Mackenzie MacEachern",
       "pos": "LW",
       "teamCode": "VAN",
-      "age": 32,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#00843d"
@@ -21080,9 +21079,9 @@ window.NHL_DATA = {
       "name": "Artur Akhtyamov",
       "pos": "G",
       "teamCode": "TOR",
-      "age": 24,
-      "country": "Russia",
-      "birthCountry": "RUS",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#ffffff"
@@ -25249,9 +25248,9 @@ window.NHL_DATA = {
       "name": "Elias Salomonsson",
       "pos": "D",
       "teamCode": "WPG",
-      "age": 22,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#7b303e"
@@ -26873,9 +26872,9 @@ window.NHL_DATA = {
       "name": "Hunter Haight",
       "pos": "C",
       "teamCode": "MIN",
-      "age": 22,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#154734",
         "secondary": "#a6192e"
@@ -31292,9 +31291,9 @@ window.NHL_DATA = {
       "name": "Jacob Quillan",
       "pos": "C",
       "teamCode": "TOR",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#ffffff"
@@ -36551,9 +36550,9 @@ window.NHL_DATA = {
       "name": "Walker Duehr",
       "pos": "RW",
       "teamCode": "WPG",
-      "age": 28,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#7b303e"
@@ -47985,10 +47984,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-24 11:58 UTC",
+  "LAST_UPDATE": "2026-09-24 17:32 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-24T11:57:45Z"
+    "standingsDateTimeUtc": "2026-09-24T17:31:45Z"
   }
 };

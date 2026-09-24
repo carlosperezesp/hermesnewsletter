@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-24 12:01 UTC
+// Auto-generated 2026-09-24 17:35 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-24 12:01 UTC",
+  "UPDATED": "2026-09-24 17:35 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -847,10 +847,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Chengdu Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 71.9
     },
@@ -1291,7 +1291,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chengdu Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 65.6
@@ -1667,7 +1667,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 62.8
@@ -1905,7 +1905,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chengdu Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 60.2
@@ -3165,7 +3165,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 53.5
@@ -3647,7 +3647,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chengdu Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 50.3
@@ -5010,9 +5010,9 @@ window.TENNIS_DATA = {
       "prevListRank": 146,
       "tournamentStatus": {
         "tournament": "Chengdu Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 35.0
     },
@@ -6210,9 +6210,9 @@ window.TENNIS_DATA = {
       "prevListRank": 31,
       "tournamentStatus": {
         "tournament": "Singapore Tennis Open presented by BNP Paribas",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 69.1
     },
@@ -6449,7 +6449,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Singapore Tennis Open presented by BNP Paribas",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 65.3
@@ -7881,7 +7881,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Singapore Tennis Open presented by BNP Paribas",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 55.4
@@ -10951,7 +10951,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Aleksandr Shevchenko",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 7-6 (12-10)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 65.6,
@@ -10977,9 +10977,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Zhou Yi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 60.2,
           "l_score": null,
           "match_score": 60.2
@@ -11062,7 +11062,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Cui Jie",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 6-7 (2-7) 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 62.8,
@@ -11114,9 +11114,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Zhang Zhizhen",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 53.5,
           "l_score": null,
           "match_score": 53.5
@@ -11540,15 +11540,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Alexandra Eala",
+          "w": "Tatiana Prozorova",
           "w_logo": "",
-          "l": "Tatiana Prozorova",
+          "l": "Alexandra Eala",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 7-5 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 69.1,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 69.1,
           "match_score": 69.1
         },
         {
@@ -11557,9 +11557,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nao Hibino",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 65.3,
           "l_score": null,
           "match_score": 65.3
@@ -11603,9 +11603,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Samira De Stefano",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 47.2,
           "l_score": null,
           "match_score": 47.2
@@ -11629,7 +11629,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alice Tubello",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "3-6 6-3 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 35.0,
@@ -11638,13 +11638,13 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Barbora Palicova",
+          "w": "Ekaterine Gorgodze",
           "w_logo": "",
-          "l": "Ekaterine Gorgodze",
+          "l": "Barbora Palicova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11671,13 +11671,13 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Harmony Tan",
+          "w": "Angelina Voloshchuk",
           "w_logo": "",
-          "l": "Angelina Voloshchuk",
+          "l": "Harmony Tan",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 1-6 6-0",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11688,9 +11688,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Valentina Steiner",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-0",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11701,9 +11701,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Naiktha Bains",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11730,13 +11730,13 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Cagla Buyukakcay",
+          "w": "Deniz Dilek",
           "w_logo": "",
-          "l": "Deniz Dilek",
+          "l": "Cagla Buyukakcay",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 2-6 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11790,14 +11790,13 @@ window.TENNIS_DATA = {
     "alive": [
       "Adolfo Daniel Vallejo",
       "Adrian Mannarino",
+      "Alejandro Davidovich Fokina",
       "Alejandro Tabilo",
-      "Aleksandr Shevchenko",
       "Alexandre Muller",
       "Andrey Rublev",
       "Botic Van De Zandschulp",
       "Bu Yunchaokete",
       "Chak Lam Coleman Wong",
-      "Cui Jie",
       "Daniil Medvedev",
       "Denis Shapovalov",
       "Fabian Marozsan",
@@ -11816,21 +11815,20 @@ window.TENNIS_DATA = {
       "Quentin Halys",
       "Rinky Hijikata",
       "Roman Safiullin",
-      "Shintaro Mochizuki",
       "Taro Daniel",
       "Tomas Martin Etcheverry",
       "Valentin Royer",
       "Valentin Vacherot",
-      "Vit Kopriva",
-      "Zhang Zhizhen",
-      "Zhou Yi"
+      "Vit Kopriva"
     ],
     "out": [
       "Adam Walton",
       "Aleksandar Kovacevic",
       "Aleksandar Vukic",
+      "Aleksandr Shevchenko",
       "Alex Bolt",
       "Camilo Ugo Carabelli",
+      "Cui Jie",
       "Dalibor Svrcina",
       "Dane Sweeny",
       "Hu Jia",
@@ -11841,13 +11839,16 @@ window.TENNIS_DATA = {
       "Moise Kouame",
       "Sebastian Baez",
       "Shang Juncheng",
+      "Shintaro Mochizuki",
       "Sho Shimabukuro",
       "Sun Fajing",
       "Tallon Griekspoor",
-      "Terence Atmane"
+      "Terence Atmane",
+      "Zhang Zhizhen",
+      "Zhou Yi"
     ],
-    "aliveCount": 36,
-    "matchesSeen": 37
+    "aliveCount": 32,
+    "matchesSeen": 40
   },
   "WTA_TOURNAMENT": {
     "name": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
@@ -11882,7 +11883,6 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
-      "Alexandra Eala",
       "Aliaksandra Sasnovich",
       "Alice Tubello",
       "Alina Charaeva",
@@ -11964,6 +11964,7 @@ window.TENNIS_DATA = {
     ],
     "out": [
       "Alevtina Ibragimova",
+      "Alexandra Eala",
       "Alicia Herrero Linana",
       "Aliona Falei",
       "Alya Naz Altinel",
@@ -12041,8 +12042,8 @@ window.TENNIS_DATA = {
       "Yuan Yue",
       "Yuki Naito"
     ],
-    "aliveCount": 79,
-    "matchesSeen": 129
+    "aliveCount": 78,
+    "matchesSeen": 134
   },
   "ATP_SCORE_LOG": {
     "206173": [
