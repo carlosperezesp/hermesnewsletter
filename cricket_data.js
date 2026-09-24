@@ -1,15 +1,15 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-23 23:49 UTC",
+  "UPDATED": "2026-09-24 10:03 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1615,
+    "matches": 1614,
     "archives": [
       {
         "name": "Tests",
-        "matches": 82
+        "matches": 81
       },
       {
         "name": "ODIs",
@@ -642,6 +642,24 @@ window.CRICKET_DATA = {
           "wickets": 7
         },
         {
+          "id": "mj-santner",
+          "name": "MJ Santner",
+          "role": "Bowler",
+          "country": "New Zealand",
+          "teamCode": "NZ",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          },
+          "logo": "https://flagcdn.com/24x18/nz.png",
+          "score": 76.0,
+          "batting": 30.8,
+          "bowling": 47.3,
+          "overall": 76.0,
+          "runs": 923,
+          "wickets": 76
+        },
+        {
           "id": "ba-carse",
           "name": "BA Carse",
           "role": "Bowler",
@@ -658,24 +676,6 @@ window.CRICKET_DATA = {
           "overall": 72.6,
           "runs": 420,
           "wickets": 73
-        },
-        {
-          "id": "ar-mcbrine",
-          "name": "AR McBrine",
-          "role": "All-rounder",
-          "country": "Ireland",
-          "teamCode": "IRE",
-          "colors": {
-            "primary": "#169b62",
-            "secondary": "#ff883e"
-          },
-          "logo": "https://flagcdn.com/24x18/ie.png",
-          "score": 71.8,
-          "batting": 43.2,
-          "bowling": 30.1,
-          "overall": 71.8,
-          "runs": 301,
-          "wickets": 14
         }
       ],
       "batting": [
@@ -1006,24 +1006,6 @@ window.CRICKET_DATA = {
           "wickets": 110
         },
         {
-          "id": "ngrp-jayasuriya",
-          "name": "NGRP Jayasuriya",
-          "role": "Bowler",
-          "country": "Sri Lanka",
-          "teamCode": "SL",
-          "colors": {
-            "primary": "#0033a0",
-            "secondary": "#ffb612"
-          },
-          "logo": "https://flagcdn.com/24x18/lk.png",
-          "score": 75.1,
-          "batting": 7.9,
-          "bowling": 75.1,
-          "overall": 48.5,
-          "runs": 111,
-          "wickets": 55
-        },
-        {
           "id": "ba-carse",
           "name": "BA Carse",
           "role": "Bowler",
@@ -1040,6 +1022,24 @@ window.CRICKET_DATA = {
           "overall": 72.6,
           "runs": 420,
           "wickets": 73
+        },
+        {
+          "id": "sr-harmer",
+          "name": "SR Harmer",
+          "role": "Bowler",
+          "country": "South Africa",
+          "teamCode": "SA",
+          "colors": {
+            "primary": "#007a4d",
+            "secondary": "#ffb81c"
+          },
+          "logo": "https://flagcdn.com/24x18/za.png",
+          "score": 70.1,
+          "batting": 10.6,
+          "bowling": 70.1,
+          "overall": 54.3,
+          "runs": 52,
+          "wickets": 30
         }
       ]
     },
@@ -1390,22 +1390,22 @@ window.CRICKET_DATA = {
           "wickets": 7
         },
         {
-          "id": "ld-chandimal",
-          "name": "LD Chandimal",
+          "id": "spd-smith",
+          "name": "SPD Smith",
           "role": "Batter",
-          "country": "Sri Lanka",
-          "teamCode": "SL",
+          "country": "Australia",
+          "teamCode": "AUS",
           "colors": {
-            "primary": "#0033a0",
-            "secondary": "#ffb612"
+            "primary": "#ffcd00",
+            "secondary": "#006341"
           },
-          "logo": "https://flagcdn.com/24x18/lk.png",
-          "score": 63.1,
-          "batting": 63.1,
-          "bowling": 0.5,
-          "overall": 10.9,
-          "runs": 1021,
-          "wickets": 0
+          "logo": "https://flagcdn.com/24x18/au.png",
+          "score": 63.0,
+          "batting": 63.0,
+          "bowling": 0.6,
+          "overall": 11.9,
+          "runs": 2486,
+          "wickets": 1
         }
       ],
       "bowling": [
@@ -1572,22 +1572,22 @@ window.CRICKET_DATA = {
           "wickets": 110
         },
         {
-          "id": "ngrp-jayasuriya",
-          "name": "NGRP Jayasuriya",
+          "id": "ba-carse",
+          "name": "BA Carse",
           "role": "Bowler",
-          "country": "Sri Lanka",
-          "teamCode": "SL",
+          "country": "England",
+          "teamCode": "ENG",
           "colors": {
-            "primary": "#0033a0",
-            "secondary": "#ffb612"
+            "primary": "#c8102e",
+            "secondary": "#ffffff"
           },
-          "logo": "https://flagcdn.com/24x18/lk.png",
-          "score": 75.7,
-          "batting": 10.2,
-          "bowling": 75.7,
-          "overall": 53.7,
-          "runs": 111,
-          "wickets": 55
+          "logo": "https://flagcdn.com/24x18/gb-eng.png",
+          "score": 73.7,
+          "batting": 19.0,
+          "bowling": 73.7,
+          "overall": 72.4,
+          "runs": 420,
+          "wickets": 73
         }
       ]
     },
@@ -1738,6 +1738,24 @@ window.CRICKET_DATA = {
           "wickets": 77
         },
         {
+          "id": "mj-santner",
+          "name": "MJ Santner",
+          "role": "Bowler",
+          "country": "New Zealand",
+          "teamCode": "NZ",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          },
+          "logo": "https://flagcdn.com/24x18/nz.png",
+          "score": 77.7,
+          "batting": 28.4,
+          "bowling": 57.5,
+          "overall": 77.7,
+          "runs": 923,
+          "wickets": 76
+        },
+        {
           "id": "md-fisher",
           "name": "MD Fisher",
           "role": "All-rounder",
@@ -1754,24 +1772,6 @@ window.CRICKET_DATA = {
           "overall": 77.5,
           "runs": 50,
           "wickets": 5
-        },
-        {
-          "id": "mj-santner",
-          "name": "MJ Santner",
-          "role": "Bowler",
-          "country": "New Zealand",
-          "teamCode": "NZ",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          },
-          "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 76.8,
-          "batting": 27.4,
-          "bowling": 58.3,
-          "overall": 76.8,
-          "runs": 927,
-          "wickets": 77
         }
       ],
       "batting": [
@@ -1938,21 +1938,21 @@ window.CRICKET_DATA = {
           "wickets": 1
         },
         {
-          "id": "ld-chandimal",
-          "name": "LD Chandimal",
+          "id": "ybk-jaiswal",
+          "name": "YBK Jaiswal",
           "role": "Batter",
-          "country": "Sri Lanka",
-          "teamCode": "SL",
+          "country": "India",
+          "teamCode": "IND",
           "colors": {
-            "primary": "#0033a0",
-            "secondary": "#ffb612"
+            "primary": "#1c4fa1",
+            "secondary": "#ff9933"
           },
-          "logo": "https://flagcdn.com/24x18/lk.png",
-          "score": 59.3,
-          "batting": 59.3,
-          "bowling": 0.6,
-          "overall": 11.5,
-          "runs": 1021,
+          "logo": "https://flagcdn.com/24x18/in.png",
+          "score": 58.8,
+          "batting": 58.8,
+          "bowling": 0.7,
+          "overall": 12.3,
+          "runs": 2636,
           "wickets": 0
         }
       ],
@@ -2250,6 +2250,24 @@ window.CRICKET_DATA = {
           "wickets": 61
         },
         {
+          "id": "mj-santner",
+          "name": "MJ Santner",
+          "role": "Bowler",
+          "country": "New Zealand",
+          "teamCode": "NZ",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          },
+          "logo": "https://flagcdn.com/24x18/nz.png",
+          "score": 82.0,
+          "batting": 26.1,
+          "bowling": 57.7,
+          "overall": 82.0,
+          "runs": 923,
+          "wickets": 76
+        },
+        {
           "id": "virandeep-singh",
           "name": "Virandeep Singh",
           "role": "All-rounder",
@@ -2266,24 +2284,6 @@ window.CRICKET_DATA = {
           "overall": 82.0,
           "runs": 923,
           "wickets": 52
-        },
-        {
-          "id": "mj-santner",
-          "name": "MJ Santner",
-          "role": "Bowler",
-          "country": "New Zealand",
-          "teamCode": "NZ",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          },
-          "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 81.1,
-          "batting": 25.2,
-          "bowling": 58.4,
-          "overall": 81.1,
-          "runs": 927,
-          "wickets": 77
         },
         {
           "id": "ma-starc",
