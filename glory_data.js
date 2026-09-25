@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-25 17:34 UTC",
+  "UPDATED": "2026-09-25 18:05 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Austrian motorcycle Grand Prix:Pedro Acosta",
@@ -33,6 +33,15 @@ window.GLORY_DATA = {
       "text": "Ryan Blaney ganó en Echopark Speedway",
       "weight": 100,
       "firstSeen": "2026-09-11"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Macklin Celebrini",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Macklin Celebrini es nuevo nº1 · jóvenes promesas",
+      "weight": 92,
+      "firstSeen": "2026-09-25"
     },
     {
       "id": "rank:cycling:CURRENT_PROSPECTS:new1:Paul Seixas",
@@ -80,6 +89,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-13"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Caufield",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Cole Caufield entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-09-25"
+    },
+    {
       "id": "tennis:out:WTA:Amanda Anisimova:20260910",
       "sport": "tennis",
       "detail": "Tenis",
@@ -96,6 +114,15 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-09-14"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Oliver Bonk",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Oliver Bonk cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-09-25"
     }
   ],
   "REPORTS": [],
@@ -139,7 +166,6 @@ window.GLORY_DATA = {
       "New York Rangers"
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
-      "Oliver Bonk",
       "Macklin Celebrini",
       "Porter Martone",
       "Connor Bedard",
@@ -148,7 +174,8 @@ window.GLORY_DATA = {
       "Ilya Protas",
       "Victor Eklund",
       "Lane Hutson",
-      "Leo Carlsson"
+      "Leo Carlsson",
+      "Cole Caufield"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "LeBron James",

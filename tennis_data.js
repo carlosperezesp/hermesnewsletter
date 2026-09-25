@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-25 17:34 UTC
+// Auto-generated 2026-09-25 18:05 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-25 17:34 UTC",
+  "UPDATED": "2026-09-25 18:05 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -9293,7 +9293,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Eupago Porto Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 42.9
@@ -11596,9 +11596,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nuria Brancaccio",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
@@ -11664,11 +11664,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Katie Swan",
+          "w": "Mia Pohankova",
           "w_logo": "",
-          "l": "Mia Pohankova",
+          "l": "Katie Swan",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "3-6 7-5 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -12028,7 +12028,7 @@ window.TENNIS_DATA = {
       "Yuki Naito"
     ],
     "aliveCount": 78,
-    "matchesSeen": 142
+    "matchesSeen": 143
   },
   "ATP_SCORE_LOG": {
     "206173": [
