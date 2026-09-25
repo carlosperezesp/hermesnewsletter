@@ -4954,9 +4954,9 @@ window.NHL_DATA = {
       "name": "Cole O'Hara",
       "pos": "RW",
       "teamCode": "NSH",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ffb81c",
         "secondary": "#041e42"
@@ -4978,8 +4978,7 @@ window.NHL_DATA = {
         42,
         44,
         68
-      ],
-      "legendScore": 53.7
+      ]
     },
     {
       "id": 8483760,
@@ -15029,9 +15028,9 @@ window.NHL_DATA = {
       "name": "Arsenii Sergeev",
       "pos": "G",
       "teamCode": "CGY",
-      "age": 23,
-      "country": "Russia",
-      "birthCountry": "RUS",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#c8102e",
         "secondary": "#f1be48"
@@ -19233,9 +19232,9 @@ window.NHL_DATA = {
       "name": "John Leonard",
       "pos": "LW",
       "teamCode": "DET",
-      "age": 28,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ce1126",
         "secondary": "#ffffff"
@@ -21542,9 +21541,9 @@ window.NHL_DATA = {
       "name": "Joel Nystrom",
       "pos": "D",
       "teamCode": "CAR",
-      "age": 24,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#cc0000",
         "secondary": "#111111"
@@ -23727,9 +23726,9 @@ window.NHL_DATA = {
       "name": "Lenni Hameenaho",
       "pos": "RW",
       "teamCode": "NJD",
-      "age": 21,
-      "country": "Finland",
-      "birthCountry": "FIN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ce1126",
         "secondary": "#111111"
@@ -24325,9 +24324,9 @@ window.NHL_DATA = {
       "name": "Steven Lorentz",
       "pos": "C",
       "teamCode": "TOR",
-      "age": 30,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#ffffff"
@@ -24885,9 +24884,9 @@ window.NHL_DATA = {
       "name": "Carl Lindbom",
       "pos": "G",
       "teamCode": "VGK",
-      "age": 23,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#b4975a",
         "secondary": "#333f48"
@@ -27204,9 +27203,9 @@ window.NHL_DATA = {
       "name": "Matt Kiersted",
       "pos": "D",
       "teamCode": "MIN",
-      "age": 28,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#154734",
         "secondary": "#a6192e"
@@ -27303,9 +27302,9 @@ window.NHL_DATA = {
       "name": "Mikael Pyyhtia",
       "pos": "LW",
       "teamCode": "CBJ",
-      "age": 24,
-      "country": "Finland",
-      "birthCountry": "FIN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#002654",
         "secondary": "#ce1126"
@@ -29461,9 +29460,9 @@ window.NHL_DATA = {
       "name": "Tyson Gross",
       "pos": "C",
       "teamCode": "CGY",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#c8102e",
         "secondary": "#f1be48"
@@ -32687,9 +32686,9 @@ window.NHL_DATA = {
       "name": "Dominik Shine",
       "pos": "RW",
       "teamCode": "DET",
-      "age": 33,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ce1126",
         "secondary": "#ffffff"
@@ -34536,9 +34535,9 @@ window.NHL_DATA = {
       "name": "Philippe Myers",
       "pos": "D",
       "teamCode": "TOR",
-      "age": 29,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#ffffff"
@@ -35297,9 +35296,9 @@ window.NHL_DATA = {
       "name": "Ronan Seeley",
       "pos": "D",
       "teamCode": "CAR",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#cc0000",
         "secondary": "#111111"
@@ -35560,9 +35559,9 @@ window.NHL_DATA = {
       "name": "Braeden Cootes",
       "pos": "C",
       "teamCode": "VAN",
-      "age": 19,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#00843d"
@@ -35825,9 +35824,9 @@ window.NHL_DATA = {
       "name": "Jacob Gaucher",
       "pos": "C",
       "teamCode": "PHI",
-      "age": 25,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f74902",
         "secondary": "#111111"
@@ -36287,9 +36286,9 @@ window.NHL_DATA = {
       "name": "Ryan Tverberg",
       "pos": "C",
       "teamCode": "TOR",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#ffffff"
@@ -36384,9 +36383,9 @@ window.NHL_DATA = {
       "name": "Tyler Pitlick",
       "pos": "C",
       "teamCode": "MIN",
-      "age": 34,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#154734",
         "secondary": "#a6192e"
@@ -36681,9 +36680,9 @@ window.NHL_DATA = {
       "name": "Carson Lambos",
       "pos": "D",
       "teamCode": "MIN",
-      "age": 23,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#154734",
         "secondary": "#a6192e"
@@ -36747,9 +36746,9 @@ window.NHL_DATA = {
       "name": "Jett Luchanko",
       "pos": "C",
       "teamCode": "PHI",
-      "age": 20,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f74902",
         "secondary": "#111111"
@@ -37144,9 +37143,9 @@ window.NHL_DATA = {
       "name": "Xavier Parent",
       "pos": "C",
       "teamCode": "NJD",
-      "age": 25,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ce1126",
         "secondary": "#111111"
@@ -37474,9 +37473,9 @@ window.NHL_DATA = {
       "name": "Marshall Rifai",
       "pos": "D",
       "teamCode": "TOR",
-      "age": 28,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#ffffff"
@@ -37538,9 +37537,9 @@ window.NHL_DATA = {
       "name": "Shane Lachance",
       "pos": "LW",
       "teamCode": "NJD",
-      "age": 23,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ce1126",
         "secondary": "#111111"
@@ -37571,9 +37570,9 @@ window.NHL_DATA = {
       "name": "Sheldon Dries",
       "pos": "C",
       "teamCode": "DET",
-      "age": 32,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ce1126",
         "secondary": "#ffffff"
@@ -37901,9 +37900,9 @@ window.NHL_DATA = {
       "name": "Michael Pezzetta",
       "pos": "LW",
       "teamCode": "TOR",
-      "age": 28,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00205b",
         "secondary": "#ffffff"
@@ -38097,9 +38096,9 @@ window.NHL_DATA = {
       "name": "Leevi Meriläinen",
       "pos": "G",
       "teamCode": "OTT",
-      "age": 24,
-      "country": "Finland",
-      "birthCountry": "FIN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#c52032",
         "secondary": "#c2912c"
@@ -47869,7 +47868,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 22.3,
         "note": "Historic rookie pace — all-time tier is possible",
-        "prevRank": 2
+        "prevRank": 1
       },
       {
         "id": 8485406,
@@ -47887,7 +47886,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 28.4,
         "note": "Among the best players of their generation",
-        "prevRank": 3
+        "prevRank": 2
       },
       {
         "id": 8484144,
@@ -47905,7 +47904,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 30.4,
         "note": "Among the best players of their generation",
-        "prevRank": 4
+        "prevRank": 3
       },
       {
         "id": 8481559,
@@ -47923,7 +47922,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 30.7,
         "note": "Elite current form — needs sustained peak + Cups",
-        "prevRank": 5
+        "prevRank": 4
       },
       {
         "id": 8481557,
@@ -47941,7 +47940,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 31.8,
         "note": "Elite current form — needs sustained peak + Cups",
-        "prevRank": 6
+        "prevRank": 5
       },
       {
         "id": 8484999,
@@ -47959,7 +47958,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 31.8,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 7
+        "prevRank": 6
       },
       {
         "id": 8485388,
@@ -47977,7 +47976,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.4,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "id": 8483457,
@@ -47995,7 +47994,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.5,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 9
+        "prevRank": 8
       },
       {
         "id": 8484153,
@@ -48013,7 +48012,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.7,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 10
+        "prevRank": 9
       },
       {
         "id": 8481540,
@@ -48031,7 +48030,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.9,
         "note": "Elite current form — needs sustained peak + Cups",
-        "prevRank": null
+        "prevRank": 10
       }
     ]
   },
@@ -48080,10 +48079,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-25 18:03 UTC",
+  "LAST_UPDATE": "2026-09-25 23:18 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-25T18:02:46Z"
+    "standingsDateTimeUtc": "2026-09-25T23:18:15Z"
   }
 };

@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-25 18:05 UTC
+// Auto-generated 2026-09-25 23:21 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-25 18:05 UTC",
+  "UPDATED": "2026-09-25 23:21 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8877,7 +8877,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Delta Motors Tolentino Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 47.2
@@ -10029,7 +10029,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Delta Motors Tolentino Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11596,7 +11596,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nuria Brancaccio",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "2-6 6-1 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 35.0,
@@ -12028,7 +12028,7 @@ window.TENNIS_DATA = {
       "Yuki Naito"
     ],
     "aliveCount": 78,
-    "matchesSeen": 143
+    "matchesSeen": 144
   },
   "ATP_SCORE_LOG": {
     "206173": [

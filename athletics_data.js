@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-25 18:05 UTC
+// Auto-generated 2026-09-25 23:20 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-09-25 18:05 UTC",
+  "UPDATED": "2026-09-25 23:20 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -4484,7 +4484,108 @@ window.ATHLETICS_DATA = {
               "year": 2026
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "6.31",
+              "athlete": "Armand Duplantis",
+              "country": "SWE",
+              "flag": "https://flagcdn.com/24x18/se.png",
+              "primary": "#006AA7",
+              "venue": "IFU Arena",
+              "date": "12 MAR 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "6.20",
+              "athlete": "Emmanouil Karalis",
+              "country": "GRE",
+              "flag": "https://flagcdn.com/24x18/gr.png",
+              "primary": "#4A4745",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "6.06",
+              "athlete": "Sondre Guttormsen",
+              "country": "NOR",
+              "flag": "https://flagcdn.com/24x18/no.png",
+              "primary": "#EF2B2D",
+              "venue": "Complexe Kindarena",
+              "date": "07 MAR 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "6.01",
+              "athlete": "Matvei Volkov",
+              "country": "BLR",
+              "flag": "https://flagcdn.com/24x18/by.png",
+              "primary": "#4A4745",
+              "venue": "Olimpiyets Arena",
+              "date": "20 FEB 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "6.01",
+              "athlete": "Zachery Bradford",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Ocean Breeze Athl. Complex",
+              "date": "28 FEB 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "6.00",
+              "athlete": "Kurtis Marschall",
+              "country": "AUS",
+              "flag": "https://flagcdn.com/24x18/au.png",
+              "primary": "#00008B",
+              "venue": "Maison des Sports",
+              "date": "22 FEB 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "5.95",
+              "athlete": "Sam Kendricks",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Olympic Stadium",
+              "date": "18 JUL 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "5.93",
+              "athlete": "Baptiste Thiery",
+              "country": "FRA",
+              "flag": "https://flagcdn.com/24x18/fr.png",
+              "primary": "#002395",
+              "venue": "Stade Charlty",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "5.93",
+              "athlete": "Christopher Nilsen",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Stadion Śląski",
+              "date": "18 SEP 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "5.91",
+              "athlete": "Kc Lightfoot",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Randal Tyson Indoor Center",
+              "date": "07 FEB 2026"
+            }
+          ]
         },
         {
           "id": "pv_w",
