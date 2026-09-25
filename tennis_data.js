@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-25 12:03 UTC
+// Auto-generated 2026-09-25 17:34 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-25 12:03 UTC",
+  "UPDATED": "2026-09-25 17:34 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -713,7 +713,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 74.0
@@ -2517,7 +2517,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 56.4
@@ -4369,7 +4369,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 42.6
@@ -5259,7 +5259,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Singapore Tennis Open presented by BNP Paribas",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 91.9
@@ -5701,7 +5701,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Singapore Tennis Open presented by BNP Paribas",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 79.8
@@ -6347,7 +6347,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Singapore Tennis Open presented by BNP Paribas",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 67.4
@@ -6449,7 +6449,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Singapore Tennis Open presented by BNP Paribas",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 65.3
@@ -7881,7 +7881,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Singapore Tennis Open presented by BNP Paribas",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 55.4
@@ -9327,7 +9327,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Eupago Porto Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 42.5
@@ -11201,15 +11201,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Jaime Faria",
+          "w": "Hugo Gaston",
           "w_logo": "",
-          "l": "Hugo Gaston",
+          "l": "Jaime Faria",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 7-6 (7-5) 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 56.6,
-          "l_score": 43.0,
+          "scheduled": false,
+          "w_score": 43.0,
+          "l_score": 56.6,
           "match_score": 56.6
         }
       ]
@@ -11524,7 +11524,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mirra Andreeva",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": 67.4,
@@ -11546,15 +11546,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Maria Sakkari",
+          "w": "Talia Gibson",
           "w_logo": "",
-          "l": "Talia Gibson",
+          "l": "Maria Sakkari",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 4-6 6-2",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 65.3,
-          "l_score": 55.3,
+          "scheduled": false,
+          "w_score": 55.3,
+          "l_score": 65.3,
           "match_score": 65.3
         },
         {
@@ -11583,9 +11583,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ekaterine Gorgodze",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 2-6 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 47.2,
           "l_score": null,
           "match_score": 47.2
@@ -11622,9 +11622,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mia Ristic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11642,9 +11642,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Gabriela Knutson",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 42.7,
           "l_score": null,
           "match_score": 42.7
@@ -11655,25 +11655,12 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elena Malygina",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-7 (5-7) 6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 42.5,
           "l_score": null,
           "match_score": 42.5
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Angelina Voloshchuk",
-          "w_logo": "",
-          "l": "Reese Brantmeier",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
         },
         {
           "round": "Quarterfinal",
@@ -11681,9 +11668,22 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mia Pohankova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "Quarterfinal",
+          "w": "Reese Brantmeier",
+          "w_logo": "",
+          "l": "Angelina Voloshchuk",
+          "l_logo": "",
+          "score": "6-3 6-2",
+          "day": "hoy",
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11697,13 +11697,26 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Anastasia Gasanova",
+          "w": "Berfu Cengiz",
           "w_logo": "",
-          "l": "Deniz Dilek",
+          "l": "Shi Han",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "Quarterfinal",
+          "w": "Deniz Dilek",
+          "w_logo": "",
+          "l": "Anastasia Gasanova",
+          "l_logo": "",
+          "score": "4-6 6-2 7-5",
+          "day": "hoy",
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11715,19 +11728,6 @@ window.TENNIS_DATA = {
           "l": "Ksenia Zaytseva",
           "l_logo": "",
           "score": "6-3 6-2",
-          "day": "hoy",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "Quarterfinal",
-          "w": "Shi Han",
-          "w_logo": "",
-          "l": "Berfu Cengiz",
-          "l_logo": "",
-          "score": "In Progress",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11828,7 +11828,7 @@ window.TENNIS_DATA = {
       "Zhou Yi"
     ],
     "aliveCount": 29,
-    "matchesSeen": 43
+    "matchesSeen": 44
   },
   "WTA_TOURNAMENT": {
     "name": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
@@ -12028,7 +12028,7 @@ window.TENNIS_DATA = {
       "Yuki Naito"
     ],
     "aliveCount": 78,
-    "matchesSeen": 137
+    "matchesSeen": 142
   },
   "ATP_SCORE_LOG": {
     "206173": [

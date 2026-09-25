@@ -5729,9 +5729,9 @@ window.NHL_DATA = {
       "name": "Adam Fantilli",
       "pos": "C",
       "teamCode": "CBJ",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 21,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#002654",
         "secondary": "#ce1126"
@@ -5753,7 +5753,8 @@ window.NHL_DATA = {
         53,
         55,
         66
-      ]
+      ],
+      "legendScore": 55.9
     },
     {
       "id": 8479312,
@@ -19666,9 +19667,9 @@ window.NHL_DATA = {
       "name": "Otto Stenberg",
       "pos": "C",
       "teamCode": "STL",
-      "age": 21,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#002f87",
         "secondary": "#fcb514"
@@ -19690,8 +19691,7 @@ window.NHL_DATA = {
         44,
         46,
         51
-      ],
-      "legendScore": 47.5
+      ]
     },
     {
       "id": 8483490,
@@ -22669,9 +22669,9 @@ window.NHL_DATA = {
       "name": "Thomas Milic",
       "pos": "G",
       "teamCode": "WPG",
-      "age": 23,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#7b303e"
@@ -25215,9 +25215,9 @@ window.NHL_DATA = {
       "name": "Drew Fortescue",
       "pos": "D",
       "teamCode": "NYR",
-      "age": 21,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#0038a8",
         "secondary": "#ce1126"
@@ -26808,9 +26808,9 @@ window.NHL_DATA = {
       "name": "Elvis Merzlikins",
       "pos": "G",
       "teamCode": "CBJ",
-      "age": 32,
-      "country": "Latvia",
-      "birthCountry": "LVA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#002654",
         "secondary": "#ce1126"
@@ -26939,9 +26939,9 @@ window.NHL_DATA = {
       "name": "Isac Lundeström",
       "pos": "C",
       "teamCode": "CBJ",
-      "age": 26,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#002654",
         "secondary": "#ce1126"
@@ -30458,9 +30458,9 @@ window.NHL_DATA = {
       "name": "Jonas Johansson",
       "pos": "G",
       "teamCode": "TBL",
-      "age": 31,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#002868",
         "secondary": "#ffffff"
@@ -35494,9 +35494,9 @@ window.NHL_DATA = {
       "name": "Aleksanteri Kaskimaki",
       "pos": "C",
       "teamCode": "STL",
-      "age": 22,
-      "country": "Finland",
-      "birthCountry": "FIN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#002f87",
         "secondary": "#fcb514"
@@ -47984,10 +47984,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-25 12:00 UTC",
+  "LAST_UPDATE": "2026-09-25 17:32 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-25T12:00:15Z"
+    "standingsDateTimeUtc": "2026-09-25T17:31:30Z"
   }
 };
