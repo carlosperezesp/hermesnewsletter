@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-24 23:56 UTC
+// Auto-generated 2026-09-25 10:14 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-24 23:56 UTC",
+  "UPDATED": "2026-09-25 10:14 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1052,9 +1052,9 @@ window.TENNIS_DATA = {
       "prevListRank": 31,
       "tournamentStatus": {
         "tournament": "Chengdu Open",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 66.8
     },
@@ -1324,9 +1324,9 @@ window.TENNIS_DATA = {
       "prevListRank": 39,
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 65.0
     },
@@ -1528,9 +1528,9 @@ window.TENNIS_DATA = {
       "prevListRank": 45,
       "tournamentStatus": {
         "tournament": "Chengdu Open",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 63.9
     },
@@ -2041,7 +2041,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chengdu Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 60.1
@@ -2143,7 +2143,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chengdu Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 59.2
@@ -2313,7 +2313,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chengdu Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 58.2
@@ -2961,7 +2961,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chengdu Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 54.4
@@ -3577,7 +3577,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chengdu Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 50.8
@@ -3611,7 +3611,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chengdu Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 50.6
@@ -5189,7 +5189,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 22.2,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5223,7 +5223,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5291,7 +5291,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5325,7 +5325,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 30.5,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5359,7 +5359,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5393,7 +5393,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5427,7 +5427,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5461,7 +5461,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5495,7 +5495,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5529,7 +5529,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5563,7 +5563,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5597,7 +5597,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5631,7 +5631,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5665,7 +5665,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5733,7 +5733,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 14.8,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5767,7 +5767,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5803,7 +5803,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Singapore Tennis Open presented by BNP Paribas",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 76.8
@@ -5835,7 +5835,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5869,7 +5869,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5903,7 +5903,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5937,7 +5937,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5971,7 +5971,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6005,7 +6005,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6039,7 +6039,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6073,7 +6073,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6175,7 +6175,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 30,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6243,7 +6243,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6277,7 +6277,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6311,7 +6311,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 34,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6379,7 +6379,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6413,7 +6413,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6481,7 +6481,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6515,7 +6515,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6549,7 +6549,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6583,7 +6583,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6617,7 +6617,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6651,7 +6651,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6719,7 +6719,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6789,7 +6789,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6823,7 +6823,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 49,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6857,7 +6857,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6891,7 +6891,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6925,7 +6925,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6959,7 +6959,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7027,7 +7027,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 55,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7061,7 +7061,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7095,7 +7095,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7129,7 +7129,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7163,7 +7163,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7299,7 +7299,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 63,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7333,7 +7333,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7367,7 +7367,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7401,7 +7401,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 66,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7435,7 +7435,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7471,7 +7471,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7505,7 +7505,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7539,7 +7539,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7641,7 +7641,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 73,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7675,7 +7675,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7743,7 +7743,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 76,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7913,7 +7913,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7947,7 +7947,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8015,7 +8015,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8083,7 +8083,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8117,7 +8117,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8151,7 +8151,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8185,7 +8185,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8253,7 +8253,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8321,7 +8321,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8355,7 +8355,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8423,7 +8423,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8459,7 +8459,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8493,7 +8493,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8527,7 +8527,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8669,7 +8669,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8705,7 +8705,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8739,7 +8739,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8807,7 +8807,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8909,7 +8909,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8943,7 +8943,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 111,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9049,7 +9049,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9083,7 +9083,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9187,7 +9187,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 118,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9255,7 +9255,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9395,7 +9395,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9429,7 +9429,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9499,7 +9499,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9639,7 +9639,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9658,7 +9658,7 @@ window.TENNIS_DATA = {
       "secondary": "#FFFFFF",
       "activeScore": 39.3,
       "legendScore": 8.3,
-      "age": 27,
+      "age": 28,
       "surface": {
         "hard": 0.379,
         "clay": null,
@@ -9675,7 +9675,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9745,7 +9745,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9781,7 +9781,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9851,7 +9851,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9921,7 +9921,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9957,7 +9957,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10063,7 +10063,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10099,7 +10099,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10135,7 +10135,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10171,7 +10171,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10243,7 +10243,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10279,7 +10279,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10315,7 +10315,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10879,80 +10879,12 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Jenson Brooksby",
-          "w_logo": "",
-          "l": "Sebastian Baez",
-          "l_logo": "",
-          "score": "7-5 7-5",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 58.2,
-          "l_score": 59.9,
-          "match_score": 59.9
-        },
-        {
-          "round": "R128",
-          "w": "Vit Kopriva",
-          "w_logo": "",
-          "l": "Hu Jia",
-          "l_logo": "",
-          "score": "6-4 7-5",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 59.4,
-          "l_score": null,
-          "match_score": 59.4
-        }
-      ]
-    },
-    {
-      "name": "AITO Hangzhou Open",
-      "level": "ATP 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "R128",
-          "w": "Valentin Royer",
-          "w_logo": "",
-          "l": "Adam Walton",
-          "l_logo": "",
-          "score": "6-3 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 43.0,
-          "l_score": 48.4,
-          "match_score": 48.4
-        },
-        {
-          "round": "R128",
-          "w": "Kyrian Jacquet",
-          "w_logo": "",
-          "l": "Aleksandar Vukic",
-          "l_logo": "",
-          "score": "7-6 (7-5) 3-6 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 47.9,
-          "l_score": 46.7,
-          "match_score": 47.9
-        }
-      ]
-    }
-  ],
-  "ATP_TODAY": [
-    {
-      "name": "Chengdu Open",
-      "level": "ATP 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "R128",
           "w": "Hubert Hurkacz",
           "w_logo": "",
           "l": "Aleksandr Shevchenko",
           "l_logo": "",
           "score": "6-3 7-6 (12-10)",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 65.6,
           "l_score": null,
@@ -10965,7 +10897,7 @@ window.TENNIS_DATA = {
           "l": "Tallon Griekspoor",
           "l_logo": "",
           "score": "6-4 7-6 (7-3)",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 59.2,
           "l_score": 64.4,
@@ -10978,7 +10910,7 @@ window.TENNIS_DATA = {
           "l": "Zhou Yi",
           "l_logo": "",
           "score": "6-4 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 60.2,
           "l_score": null,
@@ -10991,7 +10923,7 @@ window.TENNIS_DATA = {
           "l": "Miomir Kecmanovic",
           "l_logo": "",
           "score": "7-6 (7-3) 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 50.6,
           "l_score": 56.6,
@@ -11004,7 +10936,7 @@ window.TENNIS_DATA = {
           "l": "Camilo Ugo Carabelli",
           "l_logo": "",
           "score": "6-3 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": 56.2,
@@ -11017,7 +10949,7 @@ window.TENNIS_DATA = {
           "l": "James Duckworth",
           "l_logo": "",
           "score": "6-4 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 54.4,
           "l_score": 49.3,
@@ -11030,7 +10962,7 @@ window.TENNIS_DATA = {
           "l": "Aleksandar Kovacevic",
           "l_logo": "",
           "score": "6-3 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 40.7,
           "l_score": 53.1,
@@ -11043,7 +10975,7 @@ window.TENNIS_DATA = {
           "l": "Moise Kouame",
           "l_logo": "",
           "score": "6-4 6-0",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 51.8,
           "l_score": null,
@@ -11063,7 +10995,7 @@ window.TENNIS_DATA = {
           "l": "Cui Jie",
           "l_logo": "",
           "score": "6-1 6-7 (2-7) 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 62.8,
           "l_score": null,
@@ -11076,7 +11008,7 @@ window.TENNIS_DATA = {
           "l": "Alex Bolt",
           "l_logo": "",
           "score": "6-4 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 59.7,
           "l_score": null,
@@ -11089,7 +11021,7 @@ window.TENNIS_DATA = {
           "l": "Mattia Bellucci",
           "l_logo": "",
           "score": "6-3 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 57.2,
           "l_score": 51.9,
@@ -11102,7 +11034,7 @@ window.TENNIS_DATA = {
           "l": "Terence Atmane",
           "l_logo": "",
           "score": "3-6 7-6 (11-9) 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 56.6,
           "l_score": 55.7,
@@ -11115,7 +11047,7 @@ window.TENNIS_DATA = {
           "l": "Zhang Zhizhen",
           "l_logo": "",
           "score": "6-3 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 53.5,
           "l_score": null,
@@ -11128,7 +11060,7 @@ window.TENNIS_DATA = {
           "l": "Dalibor Svrcina",
           "l_logo": "",
           "score": "7-6 (7-4) 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 50.0,
           "l_score": 53.0,
@@ -11141,7 +11073,7 @@ window.TENNIS_DATA = {
           "l": "Michael Zheng",
           "l_logo": "",
           "score": "6-4 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 35.0,
           "l_score": 52.6,
@@ -11154,11 +11086,131 @@ window.TENNIS_DATA = {
           "l": "Sun Fajing",
           "l_logo": "",
           "score": "6-2 6-0",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 48.8,
           "l_score": null,
           "match_score": 48.8
+        }
+      ]
+    }
+  ],
+  "ATP_TODAY": [
+    {
+      "name": "Chengdu Open",
+      "level": "ATP 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "R64",
+          "w": "Adrian Mannarino",
+          "w_logo": "",
+          "l": "Alejandro Tabilo",
+          "l_logo": "",
+          "score": "6-4 6-4",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 51.0,
+          "l_score": 66.3,
+          "match_score": 66.3
+        },
+        {
+          "round": "R64",
+          "w": "Nikoloz Basilashvili",
+          "w_logo": "",
+          "l": "Botic Van De Zandschulp",
+          "l_logo": "",
+          "score": "6-4 7-5",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 50.6,
+          "l_score": 63.9,
+          "match_score": 63.9
+        },
+        {
+          "round": "R64",
+          "w": "Denis Shapovalov",
+          "w_logo": "",
+          "l": "Vit Kopriva",
+          "l_logo": "",
+          "score": "6-2 6-3",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 59.2,
+          "l_score": 59.4,
+          "match_score": 59.4
+        },
+        {
+          "round": "R64",
+          "w": "Jenson Brooksby",
+          "w_logo": "",
+          "l": "Lorenzo Sonego",
+          "l_logo": "",
+          "score": "5-7 7-5 6-2",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 58.2,
+          "l_score": 54.4,
+          "match_score": 58.2
+        }
+      ]
+    },
+    {
+      "name": "AITO Hangzhou Open",
+      "level": "ATP 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "R64",
+          "w": "Andrey Rublev",
+          "w_logo": "",
+          "l": "Rinky Hijikata",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 74.0,
+          "l_score": 50.0,
+          "match_score": 74.0
+        },
+        {
+          "round": "R64",
+          "w": "Kyrian Jacquet",
+          "w_logo": "",
+          "l": "Tomas Martin Etcheverry",
+          "l_logo": "",
+          "score": "6-2 6-3",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 47.9,
+          "l_score": 65.2,
+          "match_score": 65.2
+        },
+        {
+          "round": "R64",
+          "w": "Taro Daniel",
+          "w_logo": "",
+          "l": "Fabian Marozsan",
+          "l_logo": "",
+          "score": "In Progress",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 59.7,
+          "match_score": 59.7
+        },
+        {
+          "round": "R64",
+          "w": "Jaime Faria",
+          "w_logo": "",
+          "l": "Hugo Gaston",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 56.6,
+          "l_score": 43.0,
+          "match_score": 56.6
         }
       ]
     }
@@ -11171,322 +11223,12 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Maya Joint",
-          "w_logo": "",
-          "l": "Dayeon Back",
-          "l_logo": "",
-          "score": "6-2 6-1",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 56.6,
-          "l_score": null,
-          "match_score": 56.6
-        },
-        {
-          "round": "R64",
-          "w": "Alina Korneeva",
-          "w_logo": "",
-          "l": "Darya Astakhova",
-          "l_logo": "",
-          "score": "6-2 3-6 6-1",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 53.1,
-          "l_score": null,
-          "match_score": 53.1
-        },
-        {
-          "round": "R64",
-          "w": "Katie Volynets",
-          "w_logo": "",
-          "l": "Kamilla Rakhimova",
-          "l_logo": "",
-          "score": "6-3 6-0",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 47.4,
-          "l_score": 50.2,
-          "match_score": 50.2
-        },
-        {
-          "round": "R64",
-          "w": "Lanlana Tararudee",
-          "w_logo": "",
-          "l": "Sohyun Park",
-          "l_logo": "",
-          "score": "7-6 (7-5) 6-0",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 40.5,
-          "l_score": null,
-          "match_score": 40.5
-        }
-      ]
-    },
-    {
-      "name": "Singapore Tennis Open presented by BNP Paribas",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "R64",
-          "w": "Mirra Andreeva",
-          "w_logo": "",
-          "l": "Aliaksandra Sasnovich",
-          "l_logo": "",
-          "score": "6-2 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 91.9,
-          "l_score": 44.9,
-          "match_score": 91.9
-        },
-        {
-          "round": "R64",
-          "w": "Maja Chwalinska",
-          "w_logo": "",
-          "l": "Oleksandra Oliynykova",
-          "l_logo": "",
-          "score": "6-0 6-1",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 79.9,
-          "l_score": 63.9,
-          "match_score": 79.9
-        },
-        {
-          "round": "R64",
-          "w": "Elise Mertens",
-          "w_logo": "",
-          "l": "Barbora Krejcikova",
-          "l_logo": "",
-          "score": "w/o",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 76.8,
-          "l_score": 70.0,
-          "match_score": 76.8
-        },
-        {
-          "round": "R64",
-          "w": "Leylah Fernandez",
-          "w_logo": "",
-          "l": "Alycia Parks",
-          "l_logo": "",
-          "score": "6-4 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 67.4,
-          "l_score": 55.4,
-          "match_score": 67.4
-        }
-      ]
-    },
-    {
-      "name": "Delta Motors Tolentino Open",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "R64",
-          "w": "Jessica Pieri",
-          "w_logo": "",
-          "l": "Leyre Romero Gormaz",
-          "l_logo": "",
-          "score": "3-6 6-4 6-1",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": 36.1,
-          "match_score": 36.1
-        },
-        {
-          "round": "R64",
-          "w": "Guiomar Maristany Zuleta De Reales",
-          "w_logo": "",
-          "l": "Marta Lombardini",
-          "l_logo": "",
-          "score": "6-2 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R64",
-          "w": "Mia Ristic",
-          "w_logo": "",
-          "l": "Noemi Basiletti",
-          "l_logo": "",
-          "score": "6-3 3-6 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R64",
-          "w": "Rebeka Masarova",
-          "w_logo": "",
-          "l": "Isabella Maria Serban",
-          "l_logo": "",
-          "score": "5-7 6-2 6-0",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        }
-      ]
-    },
-    {
-      "name": "Eupago Porto Open",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "R64",
-          "w": "Maria Timofeeva",
-          "w_logo": "",
-          "l": "Kajsa Rinaldo Persson",
-          "l_logo": "",
-          "score": "6-3 6-0",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 42.7,
-          "l_score": null,
-          "match_score": 42.7
-        },
-        {
-          "round": "R64",
-          "w": "Sinja Kraus",
-          "w_logo": "",
-          "l": "Matilde Jorge",
-          "l_logo": "",
-          "score": "6-4 7-5",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": 42.5,
-          "l_score": null,
-          "match_score": 42.5
-        },
-        {
-          "round": "R64",
-          "w": "Elena Malygina",
-          "w_logo": "",
-          "l": "Oceane Dodin",
-          "l_logo": "",
-          "score": "2-6 6-4 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R64",
-          "w": "Gabriela Knutson",
-          "w_logo": "",
-          "l": "Ayana Akli",
-          "l_logo": "",
-          "score": "6-4 5-7 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        }
-      ]
-    },
-    {
-      "name": "Turk Telekom Ankara Open",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "R128",
-          "w": "Deniz Dilek",
-          "w_logo": "",
-          "l": "Solana Sierra",
-          "l_logo": "",
-          "score": "6-3 6-3",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": 56.4,
-          "match_score": 56.4
-        },
-        {
-          "round": "R64",
-          "w": "Berfu Cengiz",
-          "w_logo": "",
-          "l": "Aysegul Mert",
-          "l_logo": "",
-          "score": "7-6 (7-2) 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R64",
-          "w": "Ksenia Zaytseva",
-          "w_logo": "",
-          "l": "Elena Pridankina",
-          "l_logo": "",
-          "score": "2-6 7-6 (7-4) 6-1",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R64",
-          "w": "Polina Iatcenko",
-          "w_logo": "",
-          "l": "Weronika Falkowska",
-          "l_logo": "",
-          "score": "6-3 6-4",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        },
-        {
-          "round": "R64",
-          "w": "Shi Han",
-          "w_logo": "",
-          "l": "Ayla Aksu",
-          "l_logo": "",
-          "score": "6-1 5-7 6-2",
-          "day": "ayer",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
-        }
-      ]
-    }
-  ],
-  "WTA_TODAY": [
-    {
-      "name": "Korea Open",
-      "level": "WTA 250",
-      "surface": "",
-      "matches": [
-        {
-          "round": "R64",
           "w": "Taylah Preston",
           "w_logo": "",
           "l": "Jelena Ostapenko",
           "l_logo": "",
           "score": "6-4 6-1",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 49.2,
           "l_score": 70.9,
@@ -11499,7 +11241,7 @@ window.TENNIS_DATA = {
           "l": "Yeonwoo Ku",
           "l_logo": "",
           "score": "2-6 7-6 (7-1) 6-1",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 58.7,
           "l_score": null,
@@ -11512,7 +11254,7 @@ window.TENNIS_DATA = {
           "l": "Alina Charaeva",
           "l_logo": "",
           "score": "6-4 6-7 (6-8) 7-6 (7-5)",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 58.4,
           "l_score": 39.8,
@@ -11525,7 +11267,7 @@ window.TENNIS_DATA = {
           "l": "Ma YeXin",
           "l_logo": "",
           "score": "7-5 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 55.6,
           "l_score": null,
@@ -11545,7 +11287,7 @@ window.TENNIS_DATA = {
           "l": "Alexandra Eala",
           "l_logo": "",
           "score": "4-6 7-5 6-3",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": 69.1,
@@ -11558,7 +11300,7 @@ window.TENNIS_DATA = {
           "l": "Nao Hibino",
           "l_logo": "",
           "score": "7-5 6-1",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 65.3,
           "l_score": null,
@@ -11571,7 +11313,7 @@ window.TENNIS_DATA = {
           "l": "Viktoria Morvayova",
           "l_logo": "",
           "score": "7-6 (7-2) 7-6 (7-1)",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 55.3,
           "l_score": null,
@@ -11584,7 +11326,7 @@ window.TENNIS_DATA = {
           "l": "Joanna Garland",
           "l_logo": "",
           "score": "7-5 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11604,7 +11346,7 @@ window.TENNIS_DATA = {
           "l": "Samira De Stefano",
           "l_logo": "",
           "score": "5-7 6-1 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 47.2,
           "l_score": null,
@@ -11617,7 +11359,7 @@ window.TENNIS_DATA = {
           "l": "Veronika Erjavec",
           "l_logo": "",
           "score": "5-7 5-3 ret",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": 37.6,
@@ -11630,7 +11372,7 @@ window.TENNIS_DATA = {
           "l": "Alice Tubello",
           "l_logo": "",
           "score": "3-6 6-3 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
@@ -11643,7 +11385,7 @@ window.TENNIS_DATA = {
           "l": "Barbora Palicova",
           "l_logo": "",
           "score": "7-5 7-5",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11663,7 +11405,7 @@ window.TENNIS_DATA = {
           "l": "Veronika Podrez",
           "l_logo": "",
           "score": "6-3 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": 48.9,
@@ -11676,7 +11418,7 @@ window.TENNIS_DATA = {
           "l": "Harmony Tan",
           "l_logo": "",
           "score": "6-1 1-6 6-0",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11689,7 +11431,7 @@ window.TENNIS_DATA = {
           "l": "Valentina Steiner",
           "l_logo": "",
           "score": "6-1 6-0",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11702,7 +11444,7 @@ window.TENNIS_DATA = {
           "l": "Naiktha Bains",
           "l_logo": "",
           "score": "6-4 6-4",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11722,7 +11464,7 @@ window.TENNIS_DATA = {
           "l": "Carole Monnet",
           "l_logo": "",
           "score": "6-2 6-1",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11735,7 +11477,7 @@ window.TENNIS_DATA = {
           "l": "Cagla Buyukakcay",
           "l_logo": "",
           "score": "6-1 2-6 6-2",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11748,7 +11490,7 @@ window.TENNIS_DATA = {
           "l": "Elena Ruxandra Bertea",
           "l_logo": "",
           "score": "6-3 6-1",
-          "day": "hoy",
+          "day": "ayer",
           "scheduled": false,
           "w_score": null,
           "l_score": null,
@@ -11761,6 +11503,244 @@ window.TENNIS_DATA = {
           "l": "Elena Micic",
           "l_logo": "",
           "score": "6-2 7-5",
+          "day": "ayer",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        }
+      ]
+    }
+  ],
+  "WTA_TODAY": [
+    {
+      "name": "Singapore Tennis Open presented by BNP Paribas",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "Quarterfinal",
+          "w": "Mirra Andreeva",
+          "w_logo": "",
+          "l": "Leylah Fernandez",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 91.9,
+          "l_score": 67.4,
+          "match_score": 91.9
+        },
+        {
+          "round": "Quarterfinal",
+          "w": "Maja Chwalinska",
+          "w_logo": "",
+          "l": "Elise Mertens",
+          "l_logo": "",
+          "score": "6-2 6-2",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 79.9,
+          "l_score": 76.8,
+          "match_score": 79.9
+        },
+        {
+          "round": "Quarterfinal",
+          "w": "Maria Sakkari",
+          "w_logo": "",
+          "l": "Talia Gibson",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 65.3,
+          "l_score": 55.3,
+          "match_score": 65.3
+        },
+        {
+          "round": "Quarterfinal",
+          "w": "Tatiana Prozorova",
+          "w_logo": "",
+          "l": "Wang Xinyu",
+          "l_logo": "",
+          "score": "3-6 7-5 6-4",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Delta Motors Tolentino Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "Quarterfinal",
+          "w": "Oksana Selekhmeteva",
+          "w_logo": "",
+          "l": "Ekaterine Gorgodze",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 47.2,
+          "l_score": null,
+          "match_score": 47.2
+        },
+        {
+          "round": "Quarterfinal",
+          "w": "Julia Grabher",
+          "w_logo": "",
+          "l": "Nuria Brancaccio",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 35.0,
+          "l_score": null,
+          "match_score": 35.0
+        },
+        {
+          "round": "Quarterfinal",
+          "w": "Jessica Pieri",
+          "w_logo": "",
+          "l": "Mia Ristic",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "Quarterfinal",
+          "w": "Rebeka Masarova",
+          "w_logo": "",
+          "l": "Guiomar Maristany Zuleta De Reales",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Eupago Porto Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "Quarterfinal",
+          "w": "Maria Timofeeva",
+          "w_logo": "",
+          "l": "Gabriela Knutson",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 42.7,
+          "l_score": null,
+          "match_score": 42.7
+        },
+        {
+          "round": "Quarterfinal",
+          "w": "Sinja Kraus",
+          "w_logo": "",
+          "l": "Elena Malygina",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": 42.5,
+          "l_score": null,
+          "match_score": 42.5
+        },
+        {
+          "round": "Quarterfinal",
+          "w": "Angelina Voloshchuk",
+          "w_logo": "",
+          "l": "Reese Brantmeier",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "Quarterfinal",
+          "w": "Katie Swan",
+          "w_logo": "",
+          "l": "Mia Pohankova",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Turk Telekom Ankara Open",
+      "level": "WTA 250",
+      "surface": "",
+      "matches": [
+        {
+          "round": "Quarterfinal",
+          "w": "Anastasia Gasanova",
+          "w_logo": "",
+          "l": "Deniz Dilek",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "Quarterfinal",
+          "w": "Polina Iatcenko",
+          "w_logo": "",
+          "l": "Ksenia Zaytseva",
+          "l_logo": "",
+          "score": "In Progress",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "Quarterfinal",
+          "w": "Shi Han",
+          "w_logo": "",
+          "l": "Berfu Cengiz",
+          "l_logo": "",
+          "score": "por jugar",
+          "day": "hoy",
+          "scheduled": true,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "Quarterfinal",
+          "w": "Tian Fangran",
+          "w_logo": "",
+          "l": "Teodora Kostovic",
+          "l_logo": "",
+          "score": "In Progress",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11791,10 +11771,8 @@ window.TENNIS_DATA = {
       "Adolfo Daniel Vallejo",
       "Adrian Mannarino",
       "Alejandro Davidovich Fokina",
-      "Alejandro Tabilo",
       "Alexandre Muller",
       "Andrey Rublev",
-      "Botic Van De Zandschulp",
       "Bu Yunchaokete",
       "Chak Lam Coleman Wong",
       "Daniil Medvedev",
@@ -11816,17 +11794,18 @@ window.TENNIS_DATA = {
       "Rinky Hijikata",
       "Roman Safiullin",
       "Taro Daniel",
-      "Tomas Martin Etcheverry",
       "Valentin Royer",
       "Valentin Vacherot",
       "Vit Kopriva"
     ],
     "out": [
       "Adam Walton",
+      "Alejandro Tabilo",
       "Aleksandar Kovacevic",
       "Aleksandar Vukic",
       "Aleksandr Shevchenko",
       "Alex Bolt",
+      "Botic Van De Zandschulp",
       "Camilo Ugo Carabelli",
       "Cui Jie",
       "Dalibor Svrcina",
@@ -11844,14 +11823,15 @@ window.TENNIS_DATA = {
       "Sun Fajing",
       "Tallon Griekspoor",
       "Terence Atmane",
+      "Tomas Martin Etcheverry",
       "Zhang Zhizhen",
       "Zhou Yi"
     ],
-    "aliveCount": 32,
-    "matchesSeen": 40
+    "aliveCount": 29,
+    "matchesSeen": 42
   },
   "WTA_TOURNAMENT": {
-    "name": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open",
+    "name": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
     "level": "WTA 250",
     "surface": "",
     "tour": "WTA",
@@ -11878,6 +11858,11 @@ window.TENNIS_DATA = {
       },
       {
         "name": "Turk Telekom Ankara Open",
+        "level": "WTA 250",
+        "surface": ""
+      },
+      {
+        "name": "Jingshan Tennis Open",
         "level": "WTA 250",
         "surface": ""
       }
@@ -12048,10 +12033,6 @@ window.TENNIS_DATA = {
   "ATP_SCORE_LOG": {
     "206173": [
       [
-        "20260908",
-        100.0
-      ],
-      [
         "20260909",
         100.0
       ],
@@ -12113,15 +12094,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        100.0
+      ],
+      [
+        "20260925",
         100.0
       ]
     ],
     "207989": [
       [
-        "20260908",
-        90.9
-      ],
-      [
         "20260909",
         90.9
       ],
@@ -12183,15 +12164,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        90.9
+      ],
+      [
+        "20260925",
         90.9
       ]
     ],
     "100644": [
       [
-        "20260908",
-        87.5
-      ],
-      [
         "20260909",
         87.5
       ],
@@ -12253,15 +12234,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        87.5
+      ],
+      [
+        "20260925",
         87.5
       ]
     ],
     "104925": [
       [
-        "20260908",
-        87.7
-      ],
-      [
         "20260909",
         87.7
       ],
@@ -12323,15 +12304,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        86.9
+      ],
+      [
+        "20260925",
         86.9
       ]
     ],
     "209950": [
       [
-        "20260908",
-        83.8
-      ],
-      [
         "20260909",
         83.8
       ],
@@ -12393,15 +12374,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        83.8
+      ],
+      [
+        "20260925",
         83.8
       ]
     ],
     "134770": [
       [
-        "20260908",
-        80.4
-      ],
-      [
         "20260909",
         80.4
       ],
@@ -12463,15 +12444,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        80.8
+      ],
+      [
+        "20260925",
         80.8
       ]
     ],
     "126205": [
       [
-        "20260908",
-        79.8
-      ],
-      [
         "20260909",
         79.8
       ],
@@ -12533,15 +12514,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        80.2
+      ],
+      [
+        "20260925",
         80.2
       ]
     ],
     "106421": [
       [
-        "20260908",
-        78.7
-      ],
-      [
         "20260909",
         78.7
       ],
@@ -12603,15 +12584,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        78.9
+      ],
+      [
+        "20260925",
         78.9
       ]
     ],
     "212588": [
       [
-        "20260908",
-        79.1
-      ],
-      [
         "20260909",
         79.1
       ],
@@ -12673,15 +12654,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        78.9
+      ],
+      [
+        "20260925",
         78.9
       ]
     ],
     "207518": [
       [
-        "20260908",
-        79.6
-      ],
-      [
         "20260909",
         79.6
       ],
@@ -12743,15 +12724,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        78.4
+      ],
+      [
+        "20260925",
         78.4
       ]
     ],
     "200000": [
       [
-        "20260908",
-        77.7
-      ],
-      [
         "20260909",
         77.7
       ],
@@ -12813,15 +12794,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        77.6
+      ],
+      [
+        "20260925",
         77.6
       ]
     ],
     "210097": [
       [
-        "20260908",
-        76.1
-      ],
-      [
         "20260909",
         76.1
       ],
@@ -12883,15 +12864,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        76.6
+      ],
+      [
+        "20260925",
         76.6
       ]
     ],
     "200282": [
       [
-        "20260908",
-        76.8
-      ],
-      [
         "20260909",
         76.8
       ],
@@ -12953,15 +12934,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        76.6
+      ],
+      [
+        "20260925",
         76.6
       ]
     ],
     "207925": [
       [
-        "20260908",
-        75.9
-      ],
-      [
         "20260909",
         75.9
       ],
@@ -13023,15 +13004,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        75.8
+      ],
+      [
+        "20260925",
         75.8
       ]
     ],
     "126207": [
       [
-        "20260908",
-        75.3
-      ],
-      [
         "20260909",
         75.3
       ],
@@ -13093,15 +13074,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        75.7
+      ],
+      [
+        "20260925",
         75.7
       ]
     ],
     "126203": [
       [
-        "20260908",
-        75.7
-      ],
-      [
         "20260909",
         75.7
       ],
@@ -13163,15 +13144,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        75.7
+      ],
+      [
+        "20260925",
         75.7
       ]
     ],
     "210530": [
       [
-        "20260908",
-        75.1
-      ],
-      [
         "20260909",
         75.1
       ],
@@ -13233,15 +13214,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        75.3
+      ],
+      [
+        "20260925",
         75.3
       ]
     ],
     "208103": [
       [
-        "20260908",
-        75.6
-      ],
-      [
         "20260909",
         75.6
       ],
@@ -13303,15 +13284,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        75.1
+      ],
+      [
+        "20260925",
         75.1
       ]
     ],
     "200473": [
       [
-        "20260908",
-        74.5
-      ],
-      [
         "20260909",
         74.5
       ],
@@ -13373,15 +13354,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        74.9
+      ],
+      [
+        "20260925",
         74.9
       ]
     ],
     "122330": [
       [
-        "20260908",
-        75.4
-      ],
-      [
         "20260909",
         75.4
       ],
@@ -13443,15 +13424,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        74.9
+      ],
+      [
+        "20260925",
         74.9
       ]
     ],
     "126094": [
       [
-        "20260908",
-        74.1
-      ],
-      [
         "20260909",
         74.1
       ],
@@ -13513,15 +13494,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        74.0
+      ],
+      [
+        "20260925",
         74.0
       ]
     ],
     "202103": [
       [
-        "20260908",
-        73.6
-      ],
-      [
         "20260909",
         73.6
       ],
@@ -13583,15 +13564,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        73.9
+      ],
+      [
+        "20260925",
         73.9
       ]
     ],
     "211663": [
       [
-        "20260908",
-        73.7
-      ],
-      [
         "20260909",
         73.7
       ],
@@ -13653,15 +13634,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        73.4
+      ],
+      [
+        "20260925",
         73.4
       ]
     ],
     "210696": [
       [
-        "20260908",
-        72.4
-      ],
-      [
         "20260909",
         72.4
       ],
@@ -13723,15 +13704,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        73.2
+      ],
+      [
+        "20260925",
         73.2
       ]
     ],
     "200221": [
       [
-        "20260908",
-        72.2
-      ],
-      [
         "20260909",
         72.2
       ],
@@ -13793,15 +13774,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        72.0
+      ],
+      [
+        "20260925",
         72.0
       ]
     ],
     "111575": [
       [
-        "20260908",
-        67.1
-      ],
-      [
         "20260909",
         67.1
       ],
@@ -13863,15 +13844,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        69.8
+      ],
+      [
+        "20260925",
         69.8
       ]
     ],
     "206909": [
       [
-        "20260908",
-        69.2
-      ],
-      [
         "20260909",
         69.2
       ],
@@ -13933,15 +13914,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        69.3
+      ],
+      [
+        "20260925",
         69.3
       ]
     ],
     "209860": [
       [
-        "20260908",
-        68.9
-      ],
-      [
         "20260909",
         68.9
       ],
@@ -14003,15 +13984,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        68.3
+      ],
+      [
+        "20260925",
         68.3
       ]
     ],
     "126610": [
       [
-        "20260908",
-        67.4
-      ],
-      [
         "20260909",
         67.4
       ],
@@ -14073,15 +14054,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        67.4
+      ],
+      [
+        "20260925",
         67.4
       ]
     ],
     "210506": [
       [
-        "20260908",
-        65.7
-      ],
-      [
         "20260909",
         65.7
       ],
@@ -14143,15 +14124,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        67.1
+      ],
+      [
+        "20260925",
         67.1
       ]
     ],
     "126214": [
       [
-        "20260908",
-        66.8
-      ],
-      [
         "20260909",
         66.8
       ],
@@ -14213,15 +14194,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        66.3
+      ],
+      [
+        "20260925",
         66.3
       ]
     ],
     "200005": [
       [
-        "20260908",
-        66.4
-      ],
-      [
         "20260909",
         66.4
       ],
@@ -14283,15 +14264,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        66.2
+      ],
+      [
+        "20260925",
         66.2
       ]
     ],
     "111815": [
       [
-        "20260908",
-        66.7
-      ],
-      [
         "20260909",
         66.7
       ],
@@ -14353,15 +14334,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        66.2
+      ],
+      [
+        "20260925",
         66.2
       ]
     ],
     "202058": [
       [
-        "20260908",
-        67.2
-      ],
-      [
         "20260909",
         67.2
       ],
@@ -14423,15 +14404,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        66.1
+      ],
+      [
+        "20260925",
         66.1
       ]
     ],
     "209260": [
       [
-        "20260908",
-        65.8
-      ],
-      [
         "20260909",
         65.8
       ],
@@ -14493,15 +14474,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        66.0
+      ],
+      [
+        "20260925",
         66.0
       ]
     ],
     "126774": [
       [
-        "20260908",
-        65.0
-      ],
-      [
         "20260909",
         65.0
       ],
@@ -14563,15 +14544,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        65.9
+      ],
+      [
+        "20260925",
         65.9
       ]
     ],
     "209414": [
       [
-        "20260908",
-        65.9
-      ],
-      [
         "20260909",
         65.9
       ],
@@ -14633,15 +14614,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        65.6
+      ],
+      [
+        "20260925",
         65.6
       ]
     ],
     "128034": [
       [
-        "20260908",
-        65.5
-      ],
-      [
         "20260909",
         65.5
       ],
@@ -14703,15 +14684,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        65.6
+      ],
+      [
+        "20260925",
         65.6
       ]
     ],
     "144869": [
       [
-        "20260908",
-        64.9
-      ],
-      [
         "20260909",
         64.9
       ],
@@ -14773,15 +14754,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        65.2
+      ],
+      [
+        "20260925",
         65.2
       ]
     ],
     "126239": [
       [
-        "20260908",
-        65.5
-      ],
-      [
         "20260909",
         65.5
       ],
@@ -14843,15 +14824,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        65.2
+      ],
+      [
+        "20260925",
         65.2
       ]
     ],
     "208286": [
       [
-        "20260908",
-        65.1
-      ],
-      [
         "20260909",
         65.1
       ],
@@ -14913,15 +14894,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        64.9
+      ],
+      [
+        "20260925",
         64.9
       ]
     ],
     "207830": [
       [
-        "20260908",
-        66.3
-      ],
-      [
         "20260909",
         66.3
       ],
@@ -14983,15 +14964,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        64.5
+      ],
+      [
+        "20260925",
         64.5
       ]
     ],
     "134868": [
       [
-        "20260908",
-        64.3
-      ],
-      [
         "20260909",
         64.3
       ],
@@ -15053,15 +15034,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        64.4
+      ],
+      [
+        "20260925",
         64.4
       ]
     ],
     "208363": [
       [
-        "20260908",
-        63.9
-      ],
-      [
         "20260909",
         63.9
       ],
@@ -15123,15 +15104,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        64.3
+      ],
+      [
+        "20260925",
         64.3
       ]
     ],
     "122298": [
       [
-        "20260908",
-        60.5
-      ],
-      [
         "20260909",
         60.5
       ],
@@ -15193,15 +15174,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        63.9
+      ],
+      [
+        "20260925",
         63.9
       ]
     ],
     "210084": [
       [
-        "20260908",
-        62.9
-      ],
-      [
         "20260909",
         62.9
       ],
@@ -15263,15 +15244,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        63.2
+      ],
+      [
+        "20260925",
         63.2
       ]
     ],
     "209920": [
       [
-        "20260908",
-        64.1
-      ],
-      [
         "20260909",
         64.1
       ],
@@ -15333,15 +15314,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        63.1
+      ],
+      [
+        "20260925",
         63.1
       ]
     ],
     "144684": [
       [
-        "20260908",
-        64.2
-      ],
-      [
         "20260909",
         64.2
       ],
@@ -15403,15 +15384,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        63.1
+      ],
+      [
+        "20260925",
         63.1
       ]
     ],
     "209226": [
       [
-        "20260908",
-        62.5
-      ],
-      [
         "20260909",
         62.5
       ],
@@ -15473,15 +15454,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        62.8
+      ],
+      [
+        "20260925",
         62.8
       ]
     ],
     "209098": [
       [
-        "20260908",
-        62.3
-      ],
-      [
         "20260909",
         62.3
       ],
@@ -15543,15 +15524,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        62.6
+      ],
+      [
+        "20260925",
         62.6
       ]
     ],
     "105870": [
       [
-        "20260908",
-        62.4
-      ],
-      [
         "20260909",
         62.4
       ],
@@ -15613,15 +15594,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        62.4
+      ],
+      [
+        "20260925",
         62.4
       ]
     ],
     "132686": [
       [
-        "20260908",
-        62.8
-      ],
-      [
         "20260909",
         62.8
       ],
@@ -15683,15 +15664,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        62.0
+      ],
+      [
+        "20260925",
         62.0
       ]
     ],
     "144719": [
       [
-        "20260908",
-        63.1
-      ],
-      [
         "20260909",
         63.1
       ],
@@ -15753,15 +15734,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        61.9
+      ],
+      [
+        "20260925",
         61.9
       ]
     ],
     "200267": [
       [
-        "20260908",
-        61.7
-      ],
-      [
         "20260909",
         61.7
       ],
@@ -15823,15 +15804,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        61.6
+      ],
+      [
+        "20260925",
         61.6
       ]
     ],
     "120770": [
       [
-        "20260908",
-        60.5
-      ],
-      [
         "20260909",
         60.5
       ],
@@ -15893,15 +15874,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        60.3
+      ],
+      [
+        "20260925",
         60.3
       ]
     ],
     "207678": [
       [
-        "20260908",
-        61.1
-      ],
-      [
         "20260909",
         61.1
       ],
@@ -15963,15 +15944,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        60.2
+      ],
+      [
+        "20260925",
         60.2
       ]
     ],
     "202104": [
       [
-        "20260908",
-        59.9
-      ],
-      [
         "20260909",
         59.9
       ],
@@ -16033,15 +16014,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        59.9
+      ],
+      [
+        "20260925",
         59.9
       ]
     ],
     "206681": [
       [
-        "20260908",
-        59.3
-      ],
-      [
         "20260909",
         59.3
       ],
@@ -16103,15 +16084,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        59.7
+      ],
+      [
+        "20260925",
         59.7
       ]
     ],
     "208882": [
       [
-        "20260908",
-        59.1
-      ],
-      [
         "20260909",
         59.1
       ],
@@ -16173,15 +16154,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        59.4
+      ],
+      [
+        "20260925",
         59.4
       ]
     ],
     "200240": [
       [
-        "20260908",
-        59.6
-      ],
-      [
         "20260909",
         59.6
       ],
@@ -16243,15 +16224,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        59.4
+      ],
+      [
+        "20260925",
         59.4
       ]
     ],
     "210338": [
       [
-        "20260908",
-        56.4
-      ],
-      [
         "20260909",
         56.4
       ],
@@ -16313,15 +16294,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        59.3
+      ],
+      [
+        "20260925",
         59.3
       ]
     ],
     "111460": [
       [
-        "20260908",
-        58.9
-      ],
-      [
         "20260909",
         58.9
       ],
@@ -16383,15 +16364,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        59.2
+      ],
+      [
+        "20260925",
         59.2
       ]
     ],
     "133430": [
       [
-        "20260908",
-        59.4
-      ],
-      [
         "20260909",
         59.4
       ],
@@ -16453,15 +16434,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        59.2
+      ],
+      [
+        "20260925",
         59.2
       ]
     ],
     "144895": [
       [
-        "20260908",
-        59.5
-      ],
-      [
         "20260909",
         59.5
       ],
@@ -16523,15 +16504,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        58.6
+      ],
+      [
+        "20260925",
         58.6
       ]
     ],
     "208118": [
       [
-        "20260908",
-        58.5
-      ],
-      [
         "20260909",
         58.5
       ],
@@ -16593,15 +16574,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        58.5
+      ],
+      [
+        "20260925",
         58.5
       ]
     ],
     "208169": [
       [
-        "20260908",
-        56.6
-      ],
-      [
         "20260909",
         56.6
       ],
@@ -16663,15 +16644,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        58.4
+      ],
+      [
+        "20260925",
         58.4
       ]
     ],
     "105227": [
       [
-        "20260908",
-        58.1
-      ],
-      [
         "20260909",
         58.1
       ],
@@ -16733,15 +16714,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        58.3
+      ],
+      [
+        "20260925",
         58.3
       ]
     ],
     "202385": [
       [
-        "20260908",
-        58.5
-      ],
-      [
         "20260909",
         58.5
       ],
@@ -16803,15 +16784,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        58.2
+      ],
+      [
+        "20260925",
         58.2
       ]
     ],
     "211776": [
       [
-        "20260908",
-        57.5
-      ],
-      [
         "20260909",
         57.5
       ],
@@ -16873,15 +16854,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        57.8
+      ],
+      [
+        "20260925",
         57.8
       ]
     ],
     "126504": [
       [
-        "20260908",
-        57.5
-      ],
-      [
         "20260909",
         57.5
       ],
@@ -16943,15 +16924,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        57.5
+      ],
+      [
+        "20260925",
         57.5
       ]
     ],
     "200059": [
       [
-        "20260908",
-        57.4
-      ],
-      [
         "20260909",
         57.4
       ],
@@ -17013,15 +16994,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        57.4
+      ],
+      [
+        "20260925",
         57.4
       ]
     ],
     "111794": [
       [
-        "20260908",
-        57.2
-      ],
-      [
         "20260909",
         57.2
       ],
@@ -17083,15 +17064,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        57.2
+      ],
+      [
+        "20260925",
         57.2
       ]
     ],
     "200175": [
       [
-        "20260908",
-        56.1
-      ],
-      [
         "20260909",
         56.1
       ],
@@ -17153,15 +17134,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        56.6
+      ],
+      [
+        "20260925",
         56.6
       ]
     ],
     "210262": [
       [
-        "20260908",
-        56.2
-      ],
-      [
         "20260909",
         56.2
       ],
@@ -17223,15 +17204,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        56.6
+      ],
+      [
+        "20260925",
         56.6
       ]
     ],
     "200116": [
       [
-        "20260908",
-        56.0
-      ],
-      [
         "20260909",
         56.0
       ],
@@ -17293,15 +17274,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        56.2
+      ],
+      [
+        "20260925",
         56.2
       ]
     ],
     "105807": [
       [
-        "20260908",
-        56.3
-      ],
-      [
         "20260909",
         56.3
       ],
@@ -17363,15 +17344,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        56.0
+      ],
+      [
+        "20260925",
         56.0
       ]
     ],
     "209279": [
       [
-        "20260908",
-        54.7
-      ],
-      [
         "20260909",
         54.7
       ],
@@ -17433,15 +17414,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        55.7
+      ],
+      [
+        "20260925",
         55.7
       ]
     ],
     "105916": [
       [
-        "20260908",
-        55.4
-      ],
-      [
         "20260909",
         55.4
       ],
@@ -17503,15 +17484,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        55.4
+      ],
+      [
+        "20260925",
         55.4
       ]
     ],
     "209113": [
       [
-        "20260908",
-        55.4
-      ],
-      [
         "20260909",
         55.4
       ],
@@ -17573,15 +17554,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        55.4
+      ],
+      [
+        "20260925",
         55.4
       ]
     ],
     "208260": [
       [
-        "20260908",
-        55.4
-      ],
-      [
         "20260909",
         55.4
       ],
@@ -17643,15 +17624,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        55.3
+      ],
+      [
+        "20260925",
         55.3
       ]
     ],
     "208010": [
       [
-        "20260908",
-        55.2
-      ],
-      [
         "20260909",
         55.2
       ],
@@ -17713,15 +17694,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        55.2
+      ],
+      [
+        "20260925",
         55.2
       ]
     ],
     "105526": [
       [
-        "20260908",
-        57.2
-      ],
-      [
         "20260909",
         57.2
       ],
@@ -17783,15 +17764,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        55.0
+      ],
+      [
+        "20260925",
         55.0
       ]
     ],
     "200624": [
       [
-        "20260908",
-        54.5
-      ],
-      [
         "20260909",
         54.5
       ],
@@ -17853,15 +17834,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        54.9
+      ],
+      [
+        "20260925",
         54.9
       ]
     ],
     "106218": [
       [
-        "20260908",
-        55.6
-      ],
-      [
         "20260909",
         55.6
       ],
@@ -17923,15 +17904,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        54.8
+      ],
+      [
+        "20260925",
         54.8
       ]
     ],
     "209976": [
       [
-        "20260908",
-        54.7
-      ],
-      [
         "20260909",
         54.7
       ],
@@ -17993,15 +17974,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        54.7
+      ],
+      [
+        "20260925",
         54.7
       ]
     ],
     "126127": [
       [
-        "20260908",
-        53.8
-      ],
-      [
         "20260909",
         53.8
       ],
@@ -18063,15 +18044,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        54.6
+      ],
+      [
+        "20260925",
         54.6
       ]
     ],
     "132283": [
       [
-        "20260908",
-        54.1
-      ],
-      [
         "20260909",
         54.1
       ],
@@ -18133,15 +18114,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        54.4
+      ],
+      [
+        "20260925",
         54.4
       ]
     ],
     "127157": [
       [
-        "20260908",
-        55.3
-      ],
-      [
         "20260909",
         55.3
       ],
@@ -18203,15 +18184,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        54.2
+      ],
+      [
+        "20260925",
         54.2
       ]
     ],
     "200615": [
       [
-        "20260908",
-        54.0
-      ],
-      [
         "20260909",
         54.0
       ],
@@ -18273,15 +18254,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        54.0
+      ],
+      [
+        "20260925",
         54.0
       ]
     ],
     "207411": [
       [
-        "20260908",
-        53.4
-      ],
-      [
         "20260909",
         53.4
       ],
@@ -18343,15 +18324,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        53.9
+      ],
+      [
+        "20260925",
         53.9
       ]
     ],
     "209147": [
       [
-        "20260908",
-        53.9
-      ],
-      [
         "20260909",
         53.9
       ],
@@ -18413,15 +18394,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        53.9
+      ],
+      [
+        "20260925",
         53.9
       ]
     ],
     "206736": [
       [
-        "20260908",
-        53.7
-      ],
-      [
         "20260909",
         53.7
       ],
@@ -18483,15 +18464,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        53.7
+      ],
+      [
+        "20260925",
         53.7
       ]
     ],
     "208597": [
       [
-        "20260908",
-        54.2
-      ],
-      [
         "20260909",
         54.2
       ],
@@ -18553,15 +18534,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        53.5
+      ],
+      [
+        "20260925",
         53.5
       ]
     ],
     "206499": [
       [
-        "20260908",
-        52.6
-      ],
-      [
         "20260909",
         52.6
       ],
@@ -18623,15 +18604,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        53.1
+      ],
+      [
+        "20260925",
         53.1
       ]
     ],
     "207494": [
       [
-        "20260908",
-        53.0
-      ],
-      [
         "20260909",
         53.0
       ],
@@ -18693,15 +18674,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        53.0
+      ],
+      [
+        "20260925",
         53.0
       ]
     ],
     "105477": [
       [
-        "20260908",
-        53.1
-      ],
-      [
         "20260909",
         53.1
       ],
@@ -18763,15 +18744,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        52.6
+      ],
+      [
+        "20260925",
         52.6
       ]
     ],
     "210116": [
       [
-        "20260908",
-        51.7
-      ],
-      [
         "20260909",
         51.7
       ],
@@ -18833,15 +18814,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        52.6
+      ],
+      [
+        "20260925",
         52.6
       ]
     ],
     "207680": [
       [
-        "20260908",
-        51.2
-      ],
-      [
         "20260909",
         51.2
       ],
@@ -18903,15 +18884,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        52.3
+      ],
+      [
+        "20260925",
         52.3
       ]
     ],
     "207686": [
       [
-        "20260908",
-        52.4
-      ],
-      [
         "20260909",
         52.4
       ],
@@ -18973,15 +18954,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        52.2
+      ],
+      [
+        "20260925",
         52.2
       ]
     ],
     "105777": [
       [
-        "20260908",
-        52.2
-      ],
-      [
         "20260909",
         52.2
       ],
@@ -19043,15 +19024,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        52.2
+      ],
+      [
+        "20260925",
         52.2
       ]
     ],
     "208029": [
       [
-        "20260908",
-        52.1
-      ],
-      [
         "20260909",
         52.1
       ],
@@ -19113,15 +19094,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        52.1
+      ],
+      [
+        "20260925",
         52.1
       ]
     ],
     "208233": [
       [
-        "20260908",
-        51.2
-      ],
-      [
         "20260909",
         51.2
       ],
@@ -19183,15 +19164,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        51.9
+      ],
+      [
+        "20260925",
         51.9
       ]
     ],
     "124186": [
       [
-        "20260908",
-        51.8
-      ],
-      [
         "20260909",
         51.8
       ],
@@ -19253,15 +19234,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        51.8
+      ],
+      [
+        "20260925",
         51.8
       ]
     ],
     "210319": [
       [
-        "20260908",
-        51.3
-      ],
-      [
         "20260909",
         51.3
       ],
@@ -19323,15 +19304,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        51.7
+      ],
+      [
+        "20260925",
         51.7
       ]
     ],
     "105173": [
       [
-        "20260908",
-        52.2
-      ],
-      [
         "20260909",
         52.2
       ],
@@ -19393,15 +19374,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        51.0
+      ],
+      [
+        "20260925",
         51.0
       ]
     ],
     "105932": [
       [
-        "20260908",
-        50.6
-      ],
-      [
         "20260909",
         50.6
       ],
@@ -19463,15 +19444,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        50.6
+      ],
+      [
+        "20260925",
         50.6
       ]
     ],
     "102093": [
       [
-        "20260908",
-        51.4
-      ],
-      [
         "20260909",
         51.4
       ],
@@ -19533,15 +19514,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        50.3
+      ],
+      [
+        "20260925",
         50.3
       ]
     ],
     "207681": [
       [
-        "20260908",
-        50.2
-      ],
-      [
         "20260909",
         50.2
       ],
@@ -19603,15 +19584,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        50.2
+      ],
+      [
+        "20260925",
         50.2
       ]
     ],
     "208014": [
       [
-        "20260908",
-        49.6
-      ],
-      [
         "20260909",
         49.6
       ],
@@ -19673,15 +19654,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        50.0
+      ],
+      [
+        "20260925",
         50.0
       ]
     ],
     "207182": [
       [
-        "20260908",
-        49.8
-      ],
-      [
         "20260909",
         49.8
       ],
@@ -19743,15 +19724,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        49.8
+      ],
+      [
+        "20260925",
         49.8
       ]
     ],
     "105902": [
       [
-        "20260908",
-        48.7
-      ],
-      [
         "20260909",
         48.7
       ],
@@ -19813,15 +19794,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        49.3
+      ],
+      [
+        "20260925",
         49.3
       ]
     ],
     "126128": [
       [
-        "20260908",
-        48.8
-      ],
-      [
         "20260909",
         48.8
       ],
@@ -19883,15 +19864,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        48.8
+      ],
+      [
+        "20260925",
         48.8
       ]
     ],
     "208659": [
       [
-        "20260908",
-        48.8
-      ],
-      [
         "20260909",
         48.8
       ],
@@ -19953,15 +19934,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        48.8
+      ],
+      [
+        "20260925",
         48.8
       ]
     ],
     "207985": [
       [
-        "20260908",
-        47.9
-      ],
-      [
         "20260909",
         47.9
       ],
@@ -20023,15 +20004,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        48.6
+      ],
+      [
+        "20260925",
         48.6
       ]
     ],
     "209259": [
       [
-        "20260908",
-        48.7
-      ],
-      [
         "20260909",
         48.7
       ],
@@ -20093,15 +20074,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        48.4
+      ],
+      [
+        "20260925",
         48.4
       ]
     ],
     "200443": [
       [
-        "20260908",
-        49.0
-      ],
-      [
         "20260909",
         49.0
       ],
@@ -20163,15 +20144,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        48.4
+      ],
+      [
+        "20260925",
         48.4
       ]
     ],
     "106000": [
       [
-        "20260908",
-        48.0
-      ],
-      [
         "20260909",
         48.0
       ],
@@ -20233,15 +20214,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        48.0
+      ],
+      [
+        "20260925",
         48.0
       ]
     ],
     "210389": [
       [
-        "20260908",
-        47.6
-      ],
-      [
         "20260909",
         47.6
       ],
@@ -20303,15 +20284,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        47.9
+      ],
+      [
+        "20260925",
         47.9
       ]
     ],
     "208021": [
       [
-        "20260908",
-        47.9
-      ],
-      [
         "20260909",
         47.9
       ],
@@ -20373,15 +20354,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        47.9
+      ],
+      [
+        "20260925",
         47.9
       ]
     ],
     "200514": [
       [
-        "20260908",
-        47.8
-      ],
-      [
         "20260909",
         47.8
       ],
@@ -20443,15 +20424,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        47.8
+      ],
+      [
+        "20260925",
         47.8
       ]
     ],
     "106426": [
       [
-        "20260908",
-        47.3
-      ],
-      [
         "20260909",
         47.3
       ],
@@ -20513,15 +20494,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        47.3
+      ],
+      [
+        "20260925",
         47.3
       ]
     ],
     "126846": [
       [
-        "20260908",
-        46.1
-      ],
-      [
         "20260909",
         46.1
       ],
@@ -20583,15 +20564,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        46.7
+      ],
+      [
+        "20260925",
         46.7
       ]
     ],
     "149282": [
       [
-        "20260908",
-        46.5
-      ],
-      [
         "20260909",
         46.5
       ],
@@ -20653,6 +20634,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        46.5
+      ],
+      [
+        "20260925",
         46.5
       ]
     ],
@@ -20676,13 +20661,13 @@ window.TENNIS_DATA = {
       [
         "20260924",
         45.2
+      ],
+      [
+        "20260925",
+        45.2
       ]
     ],
     "210012": [
-      [
-        "20260908",
-        44.8
-      ],
       [
         "20260909",
         44.8
@@ -20745,15 +20730,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        44.8
+      ],
+      [
+        "20260925",
         44.8
       ]
     ],
     "104527": [
       [
-        "20260908",
-        44.5
-      ],
-      [
         "20260909",
         44.5
       ],
@@ -20815,15 +20800,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        44.5
+      ],
+      [
+        "20260925",
         44.5
       ]
     ],
     "124116": [
       [
-        "20260908",
-        44.1
-      ],
-      [
         "20260909",
         44.1
       ],
@@ -20885,15 +20870,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        44.1
+      ],
+      [
+        "20260925",
         44.1
       ]
     ],
     "200384": [
       [
-        "20260908",
-        43.6
-      ],
-      [
         "20260909",
         43.6
       ],
@@ -20955,15 +20940,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        43.0
+      ],
+      [
+        "20260925",
         43.0
       ]
     ],
     "208316": [
       [
-        "20260908",
-        45.8
-      ],
-      [
         "20260909",
         45.8
       ],
@@ -21025,15 +21010,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        43.0
+      ],
+      [
+        "20260925",
         43.0
       ]
     ],
     "106198": [
       [
-        "20260908",
-        42.5
-      ],
-      [
         "20260909",
         42.5
       ],
@@ -21095,6 +21080,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        42.5
+      ],
+      [
+        "20260925",
         42.5
       ]
     ],
@@ -21142,13 +21131,13 @@ window.TENNIS_DATA = {
       [
         "20260924",
         42.3
+      ],
+      [
+        "20260925",
+        42.3
       ]
     ],
     "144750": [
-      [
-        "20260908",
-        40.7
-      ],
       [
         "20260909",
         40.7
@@ -21211,15 +21200,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        40.7
+      ],
+      [
+        "20260925",
         40.7
       ]
     ],
     "200516": [
       [
-        "20260908",
-        40.6
-      ],
-      [
         "20260909",
         40.6
       ],
@@ -21281,15 +21270,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        40.6
+      ],
+      [
+        "20260925",
         40.6
       ]
     ],
     "208852": [
       [
-        "20260908",
-        40.6
-      ],
-      [
         "20260909",
         40.6
       ],
@@ -21351,15 +21340,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        40.6
+      ],
+      [
+        "20260925",
         40.6
       ]
     ],
     "202261": [
       [
-        "20260908",
-        40.3
-      ],
-      [
         "20260909",
         40.3
       ],
@@ -21421,6 +21410,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        40.3
+      ],
+      [
+        "20260925",
         40.3
       ]
     ],
@@ -21468,6 +21461,10 @@ window.TENNIS_DATA = {
       [
         "20260924",
         38.4
+      ],
+      [
+        "20260925",
+        38.4
       ]
     ],
     "205734": [
@@ -21514,13 +21511,13 @@ window.TENNIS_DATA = {
       [
         "20260924",
         38.1
+      ],
+      [
+        "20260925",
+        38.1
       ]
     ],
     "123828": [
-      [
-        "20260908",
-        38.9
-      ],
       [
         "20260909",
         38.9
@@ -21583,15 +21580,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        37.5
+      ],
+      [
+        "20260925",
         37.5
       ]
     ],
     "124079": [
       [
-        "20260908",
-        37.2
-      ],
-      [
         "20260909",
         37.2
       ],
@@ -21653,15 +21650,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        37.2
+      ],
+      [
+        "20260925",
         37.2
       ]
     ],
     "208013": [
       [
-        "20260908",
-        36.2
-      ],
-      [
         "20260909",
         36.2
       ],
@@ -21723,15 +21720,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        36.2
+      ],
+      [
+        "20260925",
         36.2
       ]
     ],
     "208361": [
       [
-        "20260908",
-        35.8
-      ],
-      [
         "20260909",
         35.8
       ],
@@ -21793,15 +21790,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        35.8
+      ],
+      [
+        "20260925",
         35.8
       ]
     ],
     "200647": [
       [
-        "20260908",
-        35.0
-      ],
-      [
         "20260909",
         35.0
       ],
@@ -21863,15 +21860,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        35.0
+      ],
+      [
+        "20260925",
         35.0
       ]
     ],
     "207352": [
       [
-        "20260908",
-        35.0
-      ],
-      [
         "20260909",
         35.0
       ],
@@ -21933,15 +21930,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        35.0
+      ],
+      [
+        "20260925",
         35.0
       ]
     ],
     "200436": [
       [
-        "20260908",
-        35.0
-      ],
-      [
         "20260909",
         35.0
       ],
@@ -22003,15 +22000,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        35.0
+      ],
+      [
+        "20260925",
         35.0
       ]
     ],
     "200711": [
       [
-        "20260908",
-        35.0
-      ],
-      [
         "20260909",
         35.0
       ],
@@ -22073,15 +22070,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        35.0
+      ],
+      [
+        "20260925",
         35.0
       ]
     ],
     "208278": [
       [
-        "20260908",
-        35.0
-      ],
-      [
         "20260909",
         35.0
       ],
@@ -22143,6 +22140,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        35.0
+      ],
+      [
+        "20260925",
         35.0
       ]
     ],
@@ -22190,13 +22191,13 @@ window.TENNIS_DATA = {
       [
         "20260924",
         35.0
+      ],
+      [
+        "20260925",
+        35.0
       ]
     ],
     "144642": [
-      [
-        "20260908",
-        35.0
-      ],
       [
         "20260909",
         35.0
@@ -22259,6 +22260,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        35.0
+      ],
+      [
+        "20260925",
         35.0
       ]
     ],
@@ -22306,6 +22311,10 @@ window.TENNIS_DATA = {
       [
         "20260924",
         35.0
+      ],
+      [
+        "20260925",
+        35.0
       ]
     ],
     "127339": [
@@ -22328,16 +22337,16 @@ window.TENNIS_DATA = {
       [
         "20260924",
         35.0
+      ],
+      [
+        "20260925",
+        35.0
       ]
     ]
   },
   "WTA_SCORE_LOG": {
     "214544": [
       [
-        "20260908",
-        100.0
-      ],
-      [
         "20260909",
         100.0
       ],
@@ -22399,15 +22408,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        100.0
+      ],
+      [
+        "20260925",
         100.0
       ]
     ],
     "214981": [
       [
-        "20260908",
-        93.0
-      ],
-      [
         "20260909",
         93.0
       ],
@@ -22469,15 +22478,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        93.3
+      ],
+      [
+        "20260925",
         93.3
       ]
     ],
     "259799": [
       [
-        "20260908",
-        91.8
-      ],
-      [
         "20260909",
         91.8
       ],
@@ -22539,15 +22548,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        91.9
+      ],
+      [
+        "20260925",
         91.9
       ]
     ],
     "221103": [
       [
-        "20260908",
-        91.1
-      ],
-      [
         "20260909",
         91.1
       ],
@@ -22609,15 +22618,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        91.2
+      ],
+      [
+        "20260925",
         91.2
       ]
     ],
     "216347": [
       [
-        "20260908",
-        90.5
-      ],
-      [
         "20260909",
         90.5
       ],
@@ -22679,15 +22688,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        90.4
+      ],
+      [
+        "20260925",
         90.4
       ]
     ],
     "216146": [
       [
-        "20260908",
-        90.3
-      ],
-      [
         "20260909",
         90.3
       ],
@@ -22749,15 +22758,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        90.4
+      ],
+      [
+        "20260925",
         90.4
       ]
     ],
     "202494": [
       [
-        "20260908",
-        89.9
-      ],
-      [
         "20260909",
         89.9
       ],
@@ -22819,15 +22828,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        90.3
+      ],
+      [
+        "20260925",
         90.3
       ]
     ],
     "202468": [
       [
-        "20260908",
-        90.0
-      ],
-      [
         "20260909",
         90.0
       ],
@@ -22889,15 +22898,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        90.1
+      ],
+      [
+        "20260925",
         90.1
       ]
     ],
     "201514": [
       [
-        "20260908",
-        85.5
-      ],
-      [
         "20260909",
         85.5
       ],
@@ -22959,15 +22968,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        85.7
+      ],
+      [
+        "20260925",
         85.7
       ]
     ],
     "214096": [
       [
-        "20260908",
-        85.6
-      ],
-      [
         "20260909",
         85.6
       ],
@@ -23029,15 +23038,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        85.6
+      ],
+      [
+        "20260925",
         85.6
       ]
     ],
     "216153": [
       [
-        "20260908",
-        85.5
-      ],
-      [
         "20260909",
         85.5
       ],
@@ -23099,15 +23108,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        85.5
+      ],
+      [
+        "20260925",
         85.5
       ]
     ],
     "202505": [
       [
-        "20260908",
-        84.2
-      ],
-      [
         "20260909",
         84.2
       ],
@@ -23169,15 +23178,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        84.3
+      ],
+      [
+        "20260925",
         84.3
       ]
     ],
     "239475": [
       [
-        "20260908",
-        84.0
-      ],
-      [
         "20260909",
         84.0
       ],
@@ -23239,15 +23248,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        84.1
+      ],
+      [
+        "20260925",
         84.1
       ]
     ],
     "201619": [
       [
-        "20260908",
-        80.3
-      ],
-      [
         "20260909",
         80.3
       ],
@@ -23309,15 +23318,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        80.6
+      ],
+      [
+        "20260925",
         80.6
       ]
     ],
     "215713": [
       [
-        "20260908",
-        79.7
-      ],
-      [
         "20260909",
         79.7
       ],
@@ -23379,15 +23388,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        79.9
+      ],
+      [
+        "20260925",
         79.9
       ]
     ],
     "216081": [
       [
-        "20260908",
-        80.2
-      ],
-      [
         "20260909",
         80.2
       ],
@@ -23449,15 +23458,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        79.9
+      ],
+      [
+        "20260925",
         79.9
       ]
     ],
     "211768": [
       [
-        "20260908",
-        79.7
-      ],
-      [
         "20260909",
         79.7
       ],
@@ -23519,15 +23528,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        79.2
+      ],
+      [
+        "20260925",
         79.2
       ]
     ],
     "222328": [
       [
-        "20260908",
-        78.7
-      ],
-      [
         "20260909",
         78.7
       ],
@@ -23589,15 +23598,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        78.8
+      ],
+      [
+        "20260925",
         78.8
       ]
     ],
     "210722": [
       [
-        "20260908",
-        76.6
-      ],
-      [
         "20260909",
         76.6
       ],
@@ -23659,15 +23668,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        76.8
+      ],
+      [
+        "20260925",
         76.8
       ]
     ],
     "260300": [
       [
-        "20260908",
-        76.0
-      ],
-      [
         "20260909",
         76.0
       ],
@@ -23729,15 +23738,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        76.1
+      ],
+      [
+        "20260925",
         76.1
       ]
     ],
     "214939": [
       [
-        "20260908",
-        75.8
-      ],
-      [
         "20260909",
         75.8
       ],
@@ -23799,15 +23808,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        76.1
+      ],
+      [
+        "20260925",
         76.1
       ]
     ],
     "201662": [
       [
-        "20260908",
-        74.8
-      ],
-      [
         "20260909",
         74.8
       ],
@@ -23869,15 +23878,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        76.0
+      ],
+      [
+        "20260925",
         76.0
       ]
     ],
     "223670": [
       [
-        "20260908",
-        75.5
-      ],
-      [
         "20260909",
         75.5
       ],
@@ -23939,15 +23948,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        75.7
+      ],
+      [
+        "20260925",
         75.7
       ]
     ],
     "211148": [
       [
-        "20260908",
-        72.8
-      ],
-      [
         "20260909",
         72.8
       ],
@@ -24009,15 +24018,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        73.0
+      ],
+      [
+        "20260925",
         73.0
       ]
     ],
     "221012": [
       [
-        "20260908",
-        66.4
-      ],
-      [
         "20260909",
         66.4
       ],
@@ -24079,15 +24088,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        72.6
+      ],
+      [
+        "20260925",
         72.6
       ]
     ],
     "213631": [
       [
-        "20260908",
-        71.6
-      ],
-      [
         "20260909",
         71.6
       ],
@@ -24149,15 +24158,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        71.7
+      ],
+      [
+        "20260925",
         71.7
       ]
     ],
     "215613": [
       [
-        "20260908",
-        70.9
-      ],
-      [
         "20260909",
         70.9
       ],
@@ -24219,15 +24228,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        71.5
+      ],
+      [
+        "20260925",
         71.5
       ]
     ],
     "211533": [
       [
-        "20260908",
-        70.8
-      ],
-      [
         "20260909",
         70.8
       ],
@@ -24289,15 +24298,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        70.9
+      ],
+      [
+        "20260925",
         70.9
       ]
     ],
     "206252": [
       [
-        "20260908",
-        71.9
-      ],
-      [
         "20260909",
         71.9
       ],
@@ -24359,15 +24368,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        70.0
+      ],
+      [
+        "20260925",
         70.0
       ]
     ],
     "220548": [
       [
-        "20260908",
-        66.7
-      ],
-      [
         "20260909",
         66.7
       ],
@@ -24429,15 +24438,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        69.2
+      ],
+      [
+        "20260925",
         69.2
       ]
     ],
     "223253": [
       [
-        "20260908",
-        69.1
-      ],
-      [
         "20260909",
         69.1
       ],
@@ -24499,15 +24508,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        69.1
+      ],
+      [
+        "20260925",
         69.1
       ]
     ],
     "221024": [
       [
-        "20260908",
-        69.3
-      ],
-      [
         "20260909",
         69.3
       ],
@@ -24569,15 +24578,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        69.0
+      ],
+      [
+        "20260925",
         69.0
       ]
     ],
     "206420": [
       [
-        "20260908",
-        68.8
-      ],
-      [
         "20260909",
         68.8
       ],
@@ -24639,15 +24648,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        67.8
+      ],
+      [
+        "20260925",
         67.8
       ]
     ],
     "220348": [
       [
-        "20260908",
-        67.5
-      ],
-      [
         "20260909",
         67.5
       ],
@@ -24709,15 +24718,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        67.6
+      ],
+      [
+        "20260925",
         67.6
       ]
     ],
     "220367": [
       [
-        "20260908",
-        67.2
-      ],
-      [
         "20260909",
         67.2
       ],
@@ -24779,15 +24788,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        67.4
+      ],
+      [
+        "20260925",
         67.4
       ]
     ],
     "215983": [
       [
-        "20260908",
-        67.0
-      ],
-      [
         "20260909",
         67.0
       ],
@@ -24849,15 +24858,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        66.9
+      ],
+      [
+        "20260925",
         66.9
       ]
     ],
     "211713": [
       [
-        "20260908",
-        67.2
-      ],
-      [
         "20260909",
         67.2
       ],
@@ -24919,15 +24928,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        65.4
+      ],
+      [
+        "20260925",
         65.4
       ]
     ],
     "206289": [
       [
-        "20260908",
-        65.0
-      ],
-      [
         "20260909",
         65.0
       ],
@@ -24989,15 +24998,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        65.3
+      ],
+      [
+        "20260925",
         65.3
       ]
     ],
     "223360": [
       [
-        "20260908",
-        65.3
-      ],
-      [
         "20260909",
         65.3
       ],
@@ -25059,15 +25068,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        65.3
+      ],
+      [
+        "20260925",
         65.3
       ]
     ],
     "211107": [
       [
-        "20260908",
-        63.9
-      ],
-      [
         "20260909",
         63.9
       ],
@@ -25129,15 +25138,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        65.0
+      ],
+      [
+        "20260925",
         65.0
       ]
     ],
     "215785": [
       [
-        "20260908",
-        65.6
-      ],
-      [
         "20260909",
         65.6
       ],
@@ -25199,15 +25208,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        65.0
+      ],
+      [
+        "20260925",
         65.0
       ]
     ],
     "239383": [
       [
-        "20260908",
-        64.5
-      ],
-      [
         "20260909",
         64.5
       ],
@@ -25269,15 +25278,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        64.7
+      ],
+      [
+        "20260925",
         64.7
       ]
     ],
     "220704": [
       [
-        "20260908",
-        64.7
-      ],
-      [
         "20260909",
         64.7
       ],
@@ -25339,15 +25348,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        64.4
+      ],
+      [
+        "20260925",
         64.4
       ]
     ],
     "214643": [
       [
-        "20260908",
-        62.8
-      ],
-      [
         "20260909",
         62.8
       ],
@@ -25409,15 +25418,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        64.1
+      ],
+      [
+        "20260925",
         64.1
       ]
     ],
     "220716": [
       [
-        "20260908",
-        64.0
-      ],
-      [
         "20260909",
         64.0
       ],
@@ -25479,15 +25488,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        63.9
+      ],
+      [
+        "20260925",
         63.9
       ]
     ],
     "220520": [
       [
-        "20260908",
-        64.6
-      ],
-      [
         "20260909",
         64.6
       ],
@@ -25549,15 +25558,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        63.9
+      ],
+      [
+        "20260925",
         63.9
       ]
     ],
     "266671": [
       [
-        "20260908",
-        63.7
-      ],
-      [
         "20260909",
         63.7
       ],
@@ -25619,15 +25628,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        63.7
+      ],
+      [
+        "20260925",
         63.7
       ]
     ],
     "220750": [
       [
-        "20260908",
-        62.3
-      ],
-      [
         "20260909",
         62.3
       ],
@@ -25689,15 +25698,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        62.6
+      ],
+      [
+        "20260925",
         62.6
       ]
     ],
     "263857": [
       [
-        "20260908",
-        60.1
-      ],
-      [
         "20260909",
         60.1
       ],
@@ -25759,15 +25768,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        62.2
+      ],
+      [
+        "20260925",
         62.2
       ]
     ],
     "211337": [
       [
-        "20260908",
-        62.5
-      ],
-      [
         "20260909",
         62.5
       ],
@@ -25829,15 +25838,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        62.2
+      ],
+      [
+        "20260925",
         62.2
       ]
     ],
     "211843": [
       [
-        "20260908",
-        61.6
-      ],
-      [
         "20260909",
         61.6
       ],
@@ -25899,15 +25908,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        62.0
+      ],
+      [
+        "20260925",
         62.0
       ]
     ],
     "220714": [
       [
-        "20260908",
-        61.7
-      ],
-      [
         "20260909",
         61.7
       ],
@@ -25969,15 +25978,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        61.8
+      ],
+      [
+        "20260925",
         61.8
       ]
     ],
     "211701": [
       [
-        "20260908",
-        62.5
-      ],
-      [
         "20260909",
         62.5
       ],
@@ -26039,15 +26048,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        61.1
+      ],
+      [
+        "20260925",
         61.1
       ]
     ],
     "202663": [
       [
-        "20260908",
-        59.9
-      ],
-      [
         "20260909",
         59.9
       ],
@@ -26109,15 +26118,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        60.9
+      ],
+      [
+        "20260925",
         60.9
       ]
     ],
     "203501": [
       [
-        "20260908",
-        59.5
-      ],
-      [
         "20260909",
         59.5
       ],
@@ -26179,15 +26188,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        60.3
+      ],
+      [
+        "20260925",
         60.3
       ]
     ],
     "238184": [
       [
-        "20260908",
-        61.6
-      ],
-      [
         "20260909",
         61.6
       ],
@@ -26249,15 +26258,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        60.2
+      ],
+      [
+        "20260925",
         60.2
       ]
     ],
     "260172": [
       [
-        "20260908",
-        61.2
-      ],
-      [
         "20260909",
         61.2
       ],
@@ -26319,15 +26328,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        59.9
+      ],
+      [
+        "20260925",
         59.9
       ]
     ],
     "216083": [
       [
-        "20260908",
-        60.1
-      ],
-      [
         "20260909",
         60.1
       ],
@@ -26389,15 +26398,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        59.7
+      ],
+      [
+        "20260925",
         59.7
       ]
     ],
     "230319": [
       [
-        "20260908",
-        59.2
-      ],
-      [
         "20260909",
         59.2
       ],
@@ -26459,15 +26468,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        59.6
+      ],
+      [
+        "20260925",
         59.6
       ]
     ],
     "202499": [
       [
-        "20260908",
-        59.2
-      ],
-      [
         "20260909",
         59.2
       ],
@@ -26529,15 +26538,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        59.4
+      ],
+      [
+        "20260925",
         59.4
       ]
     ],
     "211817": [
       [
-        "20260908",
-        58.9
-      ],
-      [
         "20260909",
         58.9
       ],
@@ -26599,15 +26608,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        58.7
+      ],
+      [
+        "20260925",
         58.7
       ]
     ],
     "214388": [
       [
-        "20260908",
-        57.8
-      ],
-      [
         "20260909",
         57.8
       ],
@@ -26669,15 +26678,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        58.4
+      ],
+      [
+        "20260925",
         58.4
       ]
     ],
     "220309": [
       [
-        "20260908",
-        58.2
-      ],
-      [
         "20260909",
         58.2
       ],
@@ -26739,15 +26748,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        57.8
+      ],
+      [
+        "20260925",
         57.8
       ]
     ],
     "221054": [
       [
-        "20260908",
-        60.9
-      ],
-      [
         "20260909",
         60.9
       ],
@@ -26809,15 +26818,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        57.3
+      ],
+      [
+        "20260925",
         57.3
       ]
     ],
     "201533": [
       [
-        "20260908",
-        57.3
-      ],
-      [
         "20260909",
         57.3
       ],
@@ -26879,15 +26888,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        57.2
+      ],
+      [
+        "20260925",
         57.2
       ]
     ],
     "221909": [
       [
-        "20260908",
-        58.5
-      ],
-      [
         "20260909",
         58.5
       ],
@@ -26949,15 +26958,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        57.2
+      ],
+      [
+        "20260925",
         57.2
       ]
     ],
     "201696": [
       [
-        "20260908",
-        57.2
-      ],
-      [
         "20260909",
         57.2
       ],
@@ -27019,15 +27028,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        57.2
+      ],
+      [
+        "20260925",
         57.2
       ]
     ],
     "211651": [
       [
-        "20260908",
-        53.1
-      ],
-      [
         "20260909",
         53.1
       ],
@@ -27089,15 +27098,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        57.0
+      ],
+      [
+        "20260925",
         57.0
       ]
     ],
     "222045": [
       [
-        "20260908",
-        56.4
-      ],
-      [
         "20260909",
         56.4
       ],
@@ -27159,15 +27168,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        57.0
+      ],
+      [
+        "20260925",
         57.0
       ]
     ],
     "213710": [
       [
-        "20260908",
-        56.1
-      ],
-      [
         "20260909",
         56.1
       ],
@@ -27229,15 +27238,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        56.8
+      ],
+      [
+        "20260925",
         56.8
       ]
     ],
     "220332": [
       [
-        "20260908",
-        57.0
-      ],
-      [
         "20260909",
         57.0
       ],
@@ -27299,15 +27308,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        56.8
+      ],
+      [
+        "20260925",
         56.8
       ]
     ],
     "233741": [
       [
-        "20260908",
-        60.0
-      ],
-      [
         "20260909",
         60.0
       ],
@@ -27369,15 +27378,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        56.6
+      ],
+      [
+        "20260925",
         56.6
       ]
     ],
     "203530": [
       [
-        "20260908",
-        57.6
-      ],
-      [
         "20260909",
         57.6
       ],
@@ -27439,15 +27448,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        56.5
+      ],
+      [
+        "20260925",
         56.5
       ]
     ],
     "211684": [
       [
-        "20260908",
-        56.9
-      ],
-      [
         "20260909",
         56.9
       ],
@@ -27509,15 +27518,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        56.4
+      ],
+      [
+        "20260925",
         56.4
       ]
     ],
     "221333": [
       [
-        "20260908",
-        56.4
-      ],
-      [
         "20260909",
         56.4
       ],
@@ -27579,15 +27588,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        56.4
+      ],
+      [
+        "20260925",
         56.4
       ]
     ],
     "215035": [
       [
-        "20260908",
-        55.8
-      ],
-      [
         "20260909",
         55.8
       ],
@@ -27649,6 +27658,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        55.8
+      ],
+      [
+        "20260925",
         55.8
       ]
     ],
@@ -27696,13 +27709,13 @@ window.TENNIS_DATA = {
       [
         "20260924",
         55.8
+      ],
+      [
+        "20260925",
+        55.8
       ]
     ],
     "214040": [
-      [
-        "20260908",
-        54.2
-      ],
       [
         "20260909",
         54.2
@@ -27765,15 +27778,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        55.6
+      ],
+      [
+        "20260925",
         55.6
       ]
     ],
     "219917": [
       [
-        "20260908",
-        54.2
-      ],
-      [
         "20260909",
         54.2
       ],
@@ -27835,15 +27848,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        55.4
+      ],
+      [
+        "20260925",
         55.4
       ]
     ],
     "221883": [
       [
-        "20260908",
-        55.3
-      ],
-      [
         "20260909",
         55.3
       ],
@@ -27905,15 +27918,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        55.3
+      ],
+      [
+        "20260925",
         55.3
       ]
     ],
     "215910": [
       [
-        "20260908",
-        55.4
-      ],
-      [
         "20260909",
         55.4
       ],
@@ -27975,15 +27988,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        54.7
+      ],
+      [
+        "20260925",
         54.7
       ]
     ],
     "222145": [
       [
-        "20260908",
-        55.6
-      ],
-      [
         "20260909",
         55.6
       ],
@@ -28045,15 +28058,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        54.4
+      ],
+      [
+        "20260925",
         54.4
       ]
     ],
     "214082": [
       [
-        "20260908",
-        57.3
-      ],
-      [
         "20260909",
         57.3
       ],
@@ -28115,15 +28128,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        54.2
+      ],
+      [
+        "20260925",
         54.2
       ]
     ],
     "238075": [
       [
-        "20260908",
-        52.9
-      ],
-      [
         "20260909",
         52.9
       ],
@@ -28185,15 +28198,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        53.1
+      ],
+      [
+        "20260925",
         53.1
       ]
     ],
     "252499": [
       [
-        "20260908",
-        54.7
-      ],
-      [
         "20260909",
         54.7
       ],
@@ -28255,15 +28268,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        53.1
+      ],
+      [
+        "20260925",
         53.1
       ]
     ],
     "221354": [
       [
-        "20260908",
-        52.5
-      ],
-      [
         "20260909",
         52.5
       ],
@@ -28325,15 +28338,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        52.5
+      ],
+      [
+        "20260925",
         52.5
       ]
     ],
     "201709": [
       [
-        "20260908",
-        51.7
-      ],
-      [
         "20260909",
         51.7
       ],
@@ -28395,15 +28408,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        52.4
+      ],
+      [
+        "20260925",
         52.4
       ]
     ],
     "269714": [
       [
-        "20260908",
-        51.8
-      ],
-      [
         "20260909",
         51.8
       ],
@@ -28465,15 +28478,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        51.8
+      ],
+      [
+        "20260925",
         51.8
       ]
     ],
     "259871": [
       [
-        "20260908",
-        51.8
-      ],
-      [
         "20260909",
         51.8
       ],
@@ -28535,15 +28548,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        51.8
+      ],
+      [
+        "20260925",
         51.8
       ]
     ],
     "221803": [
       [
-        "20260908",
-        51.8
-      ],
-      [
         "20260909",
         51.8
       ],
@@ -28605,15 +28618,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        51.8
+      ],
+      [
+        "20260925",
         51.8
       ]
     ],
     "222601": [
       [
-        "20260908",
-        50.6
-      ],
-      [
         "20260909",
         50.6
       ],
@@ -28675,15 +28688,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        51.6
+      ],
+      [
+        "20260925",
         51.6
       ]
     ],
     "213550": [
       [
-        "20260908",
-        51.5
-      ],
-      [
         "20260909",
         51.5
       ],
@@ -28745,15 +28758,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        51.6
+      ],
+      [
+        "20260925",
         51.6
       ]
     ],
     "213583": [
       [
-        "20260908",
-        50.3
-      ],
-      [
         "20260909",
         50.3
       ],
@@ -28815,15 +28828,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        50.6
+      ],
+      [
+        "20260925",
         50.6
       ]
     ],
     "259733": [
       [
-        "20260908",
-        46.7
-      ],
-      [
         "20260909",
         46.7
       ],
@@ -28885,15 +28898,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        50.2
+      ],
+      [
+        "20260925",
         50.2
       ]
     ],
     "215872": [
       [
-        "20260908",
-        48.3
-      ],
-      [
         "20260909",
         48.3
       ],
@@ -28955,15 +28968,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        50.2
+      ],
+      [
+        "20260925",
         50.2
       ]
     ],
     "201548": [
       [
-        "20260908",
-        50.0
-      ],
-      [
         "20260909",
         50.0
       ],
@@ -29025,15 +29038,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        50.0
+      ],
+      [
+        "20260925",
         50.0
       ]
     ],
     "222966": [
       [
-        "20260908",
-        49.8
-      ],
-      [
         "20260909",
         49.8
       ],
@@ -29095,15 +29108,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        49.8
+      ],
+      [
+        "20260925",
         49.8
       ]
     ],
     "215020": [
       [
-        "20260908",
-        48.7
-      ],
-      [
         "20260909",
         48.7
       ],
@@ -29165,15 +29178,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        49.7
+      ],
+      [
+        "20260925",
         49.7
       ]
     ],
     "215453": [
       [
-        "20260908",
-        49.7
-      ],
-      [
         "20260909",
         49.7
       ],
@@ -29235,15 +29248,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        49.7
+      ],
+      [
+        "20260925",
         49.7
       ]
     ],
     "213887": [
       [
-        "20260908",
-        51.5
-      ],
-      [
         "20260909",
         51.5
       ],
@@ -29305,15 +29318,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        49.2
+      ],
+      [
+        "20260925",
         49.2
       ]
     ],
     "223194": [
       [
-        "20260908",
-        48.5
-      ],
-      [
         "20260909",
         48.5
       ],
@@ -29375,15 +29388,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        49.2
+      ],
+      [
+        "20260925",
         49.2
       ]
     ],
     "247669": [
       [
-        "20260908",
-        48.9
-      ],
-      [
         "20260909",
         48.9
       ],
@@ -29445,15 +29458,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        48.9
+      ],
+      [
+        "20260925",
         48.9
       ]
     ],
     "203514": [
       [
-        "20260908",
-        48.9
-      ],
-      [
         "20260909",
         48.9
       ],
@@ -29515,15 +29528,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        48.9
+      ],
+      [
+        "20260925",
         48.9
       ]
     ],
     "210622": [
       [
-        "20260908",
-        48.7
-      ],
-      [
         "20260909",
         48.7
       ],
@@ -29585,15 +29598,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        48.8
+      ],
+      [
+        "20260925",
         48.8
       ]
     ],
     "243420": [
       [
-        "20260908",
-        49.1
-      ],
-      [
         "20260909",
         49.1
       ],
@@ -29655,6 +29668,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        48.7
+      ],
+      [
+        "20260925",
         48.7
       ]
     ],
@@ -29702,13 +29719,13 @@ window.TENNIS_DATA = {
       [
         "20260924",
         48.0
+      ],
+      [
+        "20260925",
+        48.0
       ]
     ],
     "215306": [
-      [
-        "20260908",
-        49.2
-      ],
       [
         "20260909",
         49.2
@@ -29771,15 +29788,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        47.7
+      ],
+      [
+        "20260925",
         47.7
       ]
     ],
     "220465": [
       [
-        "20260908",
-        47.4
-      ],
-      [
         "20260909",
         47.4
       ],
@@ -29841,15 +29858,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        47.4
+      ],
+      [
+        "20260925",
         47.4
       ]
     ],
     "221407": [
       [
-        "20260908",
-        48.1
-      ],
-      [
         "20260909",
         48.1
       ],
@@ -29911,15 +29928,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        47.2
+      ],
+      [
+        "20260925",
         47.2
       ]
     ],
     "214906": [
       [
-        "20260908",
-        45.3
-      ],
-      [
         "20260909",
         45.3
       ],
@@ -29981,15 +29998,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        45.8
+      ],
+      [
+        "20260925",
         45.8
       ]
     ],
     "261972": [
       [
-        "20260908",
-        45.6
-      ],
-      [
         "20260909",
         45.6
       ],
@@ -30051,15 +30068,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        45.7
+      ],
+      [
+        "20260925",
         45.7
       ]
     ],
     "263644": [
       [
-        "20260908",
-        45.1
-      ],
-      [
         "20260909",
         45.1
       ],
@@ -30121,15 +30138,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        45.1
+      ],
+      [
+        "20260925",
         45.1
       ]
     ],
     "205925": [
       [
-        "20260908",
-        44.9
-      ],
-      [
         "20260909",
         44.9
       ],
@@ -30191,15 +30208,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        44.9
+      ],
+      [
+        "20260925",
         44.9
       ]
     ],
     "222661": [
       [
-        "20260908",
-        44.7
-      ],
-      [
         "20260909",
         44.7
       ],
@@ -30261,15 +30278,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        44.8
+      ],
+      [
+        "20260925",
         44.8
       ]
     ],
     "215899": [
       [
-        "20260908",
-        45.5
-      ],
-      [
         "20260909",
         45.5
       ],
@@ -30331,15 +30348,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        44.6
+      ],
+      [
+        "20260925",
         44.6
       ]
     ],
     "220699": [
       [
-        "20260908",
-        44.3
-      ],
-      [
         "20260909",
         44.3
       ],
@@ -30401,15 +30418,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        44.3
+      ],
+      [
+        "20260925",
         44.3
       ]
     ],
     "220435": [
       [
-        "20260908",
-        43.7
-      ],
-      [
         "20260909",
         43.7
       ],
@@ -30471,15 +30488,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        43.7
+      ],
+      [
+        "20260925",
         43.7
       ]
     ],
     "216016": [
       [
-        "20260908",
-        43.7
-      ],
-      [
         "20260909",
         43.7
       ],
@@ -30541,15 +30558,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        43.4
+      ],
+      [
+        "20260925",
         43.4
       ]
     ],
     "211539": [
       [
-        "20260908",
-        42.9
-      ],
-      [
         "20260909",
         42.9
       ],
@@ -30611,15 +30628,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        42.9
+      ],
+      [
+        "20260925",
         42.9
       ]
     ],
     "214459": [
       [
-        "20260908",
-        42.8
-      ],
-      [
         "20260909",
         42.8
       ],
@@ -30681,15 +30698,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        42.8
+      ],
+      [
+        "20260925",
         42.8
       ]
     ],
     "221237": [
       [
-        "20260908",
-        43.0
-      ],
-      [
         "20260909",
         43.0
       ],
@@ -30751,15 +30768,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        42.7
+      ],
+      [
+        "20260925",
         42.7
       ]
     ],
     "221257": [
       [
-        "20260908",
-        43.2
-      ],
-      [
         "20260909",
         43.2
       ],
@@ -30821,15 +30838,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        42.5
+      ],
+      [
+        "20260925",
         42.5
       ]
     ],
     "220722": [
       [
-        "20260908",
-        42.3
-      ],
-      [
         "20260909",
         42.3
       ],
@@ -30891,15 +30908,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        42.3
+      ],
+      [
+        "20260925",
         42.3
       ]
     ],
     "215936": [
       [
-        "20260908",
-        41.0
-      ],
-      [
         "20260909",
         41.0
       ],
@@ -30961,15 +30978,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        41.0
+      ],
+      [
+        "20260925",
         41.0
       ]
     ],
     "214593": [
       [
-        "20260908",
-        40.5
-      ],
-      [
         "20260909",
         40.5
       ],
@@ -31031,15 +31048,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        40.6
+      ],
+      [
+        "20260925",
         40.6
       ]
     ],
     "222290": [
       [
-        "20260908",
-        38.7
-      ],
-      [
         "20260909",
         38.7
       ],
@@ -31101,6 +31118,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        40.5
+      ],
+      [
+        "20260925",
         40.5
       ]
     ],
@@ -31148,13 +31169,13 @@ window.TENNIS_DATA = {
       [
         "20260924",
         40.3
+      ],
+      [
+        "20260925",
+        40.3
       ]
     ],
     "220416": [
-      [
-        "20260908",
-        40.1
-      ],
       [
         "20260909",
         40.1
@@ -31217,15 +31238,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        39.9
+      ],
+      [
+        "20260925",
         39.9
       ]
     ],
     "221406": [
       [
-        "20260908",
-        39.8
-      ],
-      [
         "20260909",
         39.8
       ],
@@ -31287,15 +31308,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        39.8
+      ],
+      [
+        "20260925",
         39.8
       ]
     ],
     "216566": [
       [
-        "20260908",
-        39.0
-      ],
-      [
         "20260909",
         39.0
       ],
@@ -31357,15 +31378,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        39.7
+      ],
+      [
+        "20260925",
         39.7
       ]
     ],
     "206417": [
       [
-        "20260908",
-        39.5
-      ],
-      [
         "20260909",
         39.5
       ],
@@ -31427,15 +31448,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        39.5
+      ],
+      [
+        "20260925",
         39.5
       ]
     ],
     "206294": [
       [
-        "20260908",
-        39.3
-      ],
-      [
         "20260909",
         39.3
       ],
@@ -31497,15 +31518,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        39.3
+      ],
+      [
+        "20260925",
         39.3
       ]
     ],
     "221124": [
       [
-        "20260908",
-        39.1
-      ],
-      [
         "20260909",
         39.1
       ],
@@ -31567,15 +31588,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        39.1
+      ],
+      [
+        "20260925",
         39.1
       ]
     ],
     "210886": [
       [
-        "20260908",
-        38.7
-      ],
-      [
         "20260909",
         38.7
       ],
@@ -31637,15 +31658,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        38.9
+      ],
+      [
+        "20260925",
         38.9
       ]
     ],
     "221985": [
       [
-        "20260908",
-        38.5
-      ],
-      [
         "20260909",
         38.5
       ],
@@ -31707,15 +31728,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        38.6
+      ],
+      [
+        "20260925",
         38.6
       ]
     ],
     "220662": [
       [
-        "20260908",
-        37.6
-      ],
-      [
         "20260909",
         37.6
       ],
@@ -31777,15 +31798,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        37.6
+      ],
+      [
+        "20260925",
         37.6
       ]
     ],
     "215037": [
       [
-        "20260908",
-        37.0
-      ],
-      [
         "20260909",
         37.0
       ],
@@ -31847,15 +31868,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        37.0
+      ],
+      [
+        "20260925",
         37.0
       ]
     ],
     "220742": [
       [
-        "20260908",
-        36.1
-      ],
-      [
         "20260909",
         36.1
       ],
@@ -31917,6 +31938,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        36.1
+      ],
+      [
+        "20260925",
         36.1
       ]
     ],
@@ -31940,13 +31965,13 @@ window.TENNIS_DATA = {
       [
         "20260924",
         35.3
+      ],
+      [
+        "20260925",
+        35.3
       ]
     ],
     "221307": [
-      [
-        "20260908",
-        35.0
-      ],
       [
         "20260909",
         35.0
@@ -32009,15 +32034,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        35.0
+      ],
+      [
+        "20260925",
         35.0
       ]
     ],
     "221236": [
       [
-        "20260908",
-        35.0
-      ],
-      [
         "20260909",
         35.0
       ],
@@ -32079,15 +32104,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        35.0
+      ],
+      [
+        "20260925",
         35.0
       ]
     ],
     "211814": [
       [
-        "20260908",
-        35.0
-      ],
-      [
         "20260909",
         35.0
       ],
@@ -32149,15 +32174,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        35.0
+      ],
+      [
+        "20260925",
         35.0
       ]
     ],
     "223168": [
       [
-        "20260908",
-        35.0
-      ],
-      [
         "20260909",
         35.0
       ],
@@ -32219,15 +32244,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        35.0
+      ],
+      [
+        "20260925",
         35.0
       ]
     ],
     "211279": [
       [
-        "20260908",
-        35.0
-      ],
-      [
         "20260909",
         35.0
       ],
@@ -32289,15 +32314,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        35.0
+      ],
+      [
+        "20260925",
         35.0
       ]
     ],
     "223333": [
       [
-        "20260908",
-        35.0
-      ],
-      [
         "20260909",
         35.0
       ],
@@ -32359,15 +32384,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        35.0
+      ],
+      [
+        "20260925",
         35.0
       ]
     ],
     "213666": [
       [
-        "20260908",
-        35.0
-      ],
-      [
         "20260909",
         35.0
       ],
@@ -32429,15 +32454,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        35.0
+      ],
+      [
+        "20260925",
         35.0
       ]
     ],
     "214461": [
       [
-        "20260908",
-        35.0
-      ],
-      [
         "20260909",
         35.0
       ],
@@ -32499,15 +32524,15 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        35.0
+      ],
+      [
+        "20260925",
         35.0
       ]
     ],
     "215138": [
       [
-        "20260908",
-        35.0
-      ],
-      [
         "20260909",
         35.0
       ],
@@ -32569,6 +32594,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        35.0
+      ],
+      [
+        "20260925",
         35.0
       ]
     ],
@@ -32592,6 +32621,10 @@ window.TENNIS_DATA = {
       [
         "20260924",
         35.0
+      ],
+      [
+        "20260925",
+        35.0
       ]
     ],
     "220589": [
@@ -32613,6 +32646,10 @@ window.TENNIS_DATA = {
       ],
       [
         "20260924",
+        35.0
+      ],
+      [
+        "20260925",
         35.0
       ]
     ]

@@ -17400,7 +17400,7 @@ window.NHL_DATA = {
       "name": "Connor Zary",
       "pos": "C",
       "teamCode": "CGY",
-      "age": 24,
+      "age": 25,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -37013,7 +37013,7 @@ window.NHL_DATA = {
       "name": "Raphael Lavoie",
       "pos": "C",
       "teamCode": "VGK",
-      "age": 25,
+      "age": 26,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -47984,10 +47984,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-24 23:54 UTC",
+  "LAST_UPDATE": "2026-09-25 10:12 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-24T23:54:15Z"
+    "standingsDateTimeUtc": "2026-09-25T10:11:31Z"
   }
 };

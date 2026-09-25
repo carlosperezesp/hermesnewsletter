@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-24 23:15 UTC",
+  "UPDATED": "2026-09-25 10:13 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1614,
+    "matches": 1613,
     "archives": [
       {
         "name": "Tests",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 76
+        "matches": 75
       },
       {
         "name": "MLC",
@@ -1532,8 +1532,8 @@ window.CRICKET_DATA = {
           "batting": 10.9,
           "bowling": 80.8,
           "overall": 57.4,
-          "runs": 246,
-          "wickets": 100
+          "runs": 230,
+          "wickets": 99
         },
         {
           "id": "mj-henry",
@@ -2080,8 +2080,8 @@ window.CRICKET_DATA = {
           "batting": 11.2,
           "bowling": 83.1,
           "overall": 58.7,
-          "runs": 246,
-          "wickets": 100
+          "runs": 230,
+          "wickets": 99
         },
         {
           "id": "jc-archer",
@@ -2632,24 +2632,6 @@ window.CRICKET_DATA = {
           "wickets": 77
         },
         {
-          "id": "jnt-seales",
-          "name": "JNT Seales",
-          "role": "Bowler",
-          "country": "West Indies",
-          "teamCode": "WI",
-          "colors": {
-            "primary": "#7a263a",
-            "secondary": "#f6c344"
-          },
-          "logo": "",
-          "score": 77.1,
-          "batting": 10.3,
-          "bowling": 77.1,
-          "overall": 59.6,
-          "runs": 246,
-          "wickets": 100
-        },
-        {
           "id": "nauman-ali",
           "name": "Nauman Ali",
           "role": "Bowler",
@@ -2666,6 +2648,24 @@ window.CRICKET_DATA = {
           "overall": 73.3,
           "runs": 116,
           "wickets": 54
+        },
+        {
+          "id": "jnt-seales",
+          "name": "JNT Seales",
+          "role": "Bowler",
+          "country": "West Indies",
+          "teamCode": "WI",
+          "colors": {
+            "primary": "#7a263a",
+            "secondary": "#f6c344"
+          },
+          "logo": "",
+          "score": 76.5,
+          "batting": 9.8,
+          "bowling": 76.5,
+          "overall": 57.9,
+          "runs": 230,
+          "wickets": 99
         },
         {
           "id": "mj-henry",

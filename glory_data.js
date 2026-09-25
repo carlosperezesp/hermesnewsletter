@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-24 23:56 UTC",
+  "UPDATED": "2026-09-25 10:14 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Austrian motorcycle Grand Prix:Pedro Acosta",
