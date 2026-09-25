@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-25 10:14 UTC
+// Auto-generated 2026-09-25 12:03 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-25 10:14 UTC",
+  "UPDATED": "2026-09-25 12:03 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1973,7 +1973,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 59.6
@@ -3715,7 +3715,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 49.6
@@ -4057,7 +4057,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 47.9
@@ -11166,9 +11166,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Rinky Hijikata",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 74.0,
           "l_score": 50.0,
           "match_score": 74.0
@@ -11188,15 +11188,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Taro Daniel",
+          "w": "Fabian Marozsan",
           "w_logo": "",
-          "l": "Fabian Marozsan",
+          "l": "Taro Daniel",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (2-7) 7-5 7-6 (7-1)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 59.7,
+          "w_score": 59.7,
+          "l_score": null,
           "match_score": 59.7
         },
         {
@@ -11520,15 +11520,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Mirra Andreeva",
+          "w": "Leylah Fernandez",
           "w_logo": "",
-          "l": "Leylah Fernandez",
+          "l": "Mirra Andreeva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 91.9,
-          "l_score": 67.4,
+          "scheduled": false,
+          "w_score": 67.4,
+          "l_score": 91.9,
           "match_score": 91.9
         },
         {
@@ -11605,22 +11605,22 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Jessica Pieri",
+          "w": "Guiomar Maristany Zuleta De Reales",
           "w_logo": "",
-          "l": "Mia Ristic",
+          "l": "Rebeka Masarova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "Quarterfinal",
-          "w": "Rebeka Masarova",
+          "w": "Jessica Pieri",
           "w_logo": "",
-          "l": "Guiomar Maristany Zuleta De Reales",
+          "l": "Mia Ristic",
           "l_logo": "",
           "score": "por jugar",
           "day": "hoy",
@@ -11714,7 +11714,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ksenia Zaytseva",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11727,20 +11727,20 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Berfu Cengiz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "Quarterfinal",
-          "w": "Tian Fangran",
+          "w": "Teodora Kostovic",
           "w_logo": "",
-          "l": "Teodora Kostovic",
+          "l": "Tian Fangran",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-0 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11828,7 +11828,7 @@ window.TENNIS_DATA = {
       "Zhou Yi"
     ],
     "aliveCount": 29,
-    "matchesSeen": 42
+    "matchesSeen": 43
   },
   "WTA_TOURNAMENT": {
     "name": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open",
@@ -12028,7 +12028,7 @@ window.TENNIS_DATA = {
       "Yuki Naito"
     ],
     "aliveCount": 78,
-    "matchesSeen": 136
+    "matchesSeen": 137
   },
   "ATP_SCORE_LOG": {
     "206173": [
