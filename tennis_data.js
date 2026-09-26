@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-26 17:24 UTC
+// Auto-generated 2026-09-26 22:54 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-26 17:24 UTC",
+  "UPDATED": "2026-09-26 22:54 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8877,7 +8877,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Delta Motors Tolentino Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 47.2
@@ -10029,7 +10029,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Delta Motors Tolentino Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11475,15 +11475,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Oksana Selekhmeteva",
+          "w": "Julia Grabher",
           "w_logo": "",
-          "l": "Julia Grabher",
+          "l": "Oksana Selekhmeteva",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-5) 6-1",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 47.2,
-          "l_score": 35.0,
+          "w_score": 35.0,
+          "l_score": 47.2,
           "match_score": 47.2
         },
         {
@@ -11851,7 +11851,7 @@ window.TENNIS_DATA = {
       "Yuki Naito"
     ],
     "aliveCount": 78,
-    "matchesSeen": 150
+    "matchesSeen": 151
   },
   "ATP_SCORE_LOG": {
     "206173": [

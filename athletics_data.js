@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-26 17:24 UTC
+// Auto-generated 2026-09-26 22:53 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-09-26 17:24 UTC",
+  "UPDATED": "2026-09-26 22:53 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -1261,21 +1261,21 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 6,
+              "mark": "49.20",
+              "athlete": "Salwa Eid Naser",
+              "country": "BRN",
+              "flag": "https://flagcdn.com/24x18/bh.png",
+              "primary": "#CE1126",
+              "venue": "Municipal Mizuho Stadium",
+              "date": "26 SEP 2026"
+            },
+            {
+              "rank": 7,
               "mark": "49.27",
               "athlete": "Nickisha Pryce",
               "country": "JAM",
               "flag": "https://flagcdn.com/24x18/jm.png",
               "primary": "#000000",
-              "venue": "Centro Gabre Gabric",
-              "date": "30 AUG 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "49.27",
-              "athlete": "Salwa Eid Naser",
-              "country": "BRN",
-              "flag": "https://flagcdn.com/24x18/bh.png",
-              "primary": "#CE1126",
               "venue": "Centro Gabre Gabric",
               "date": "30 AUG 2026"
             },
@@ -5415,13 +5415,13 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 7,
-              "mark": "17.40",
+              "mark": "17.42",
               "athlete": "Wen Su",
               "country": "CHN",
               "flag": "https://flagcdn.com/24x18/cn.png",
               "primary": "#DE2910",
-              "venue": "Kuishan Sports Center",
-              "date": "28 JUN 2026"
+              "venue": "Municipal Mizuho Stadium",
+              "date": "26 SEP 2026"
             },
             {
               "rank": 8,
@@ -5793,7 +5793,108 @@ window.ATHLETICS_DATA = {
               "year": 1990
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "23.08",
+              "athlete": "Rajindra Campbell",
+              "country": "JAM",
+              "flag": "https://flagcdn.com/24x18/jm.png",
+              "primary": "#000000",
+              "venue": "Boudewijnstadion",
+              "date": "05 SEP 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "22.74",
+              "athlete": "Leonardo Fabbri",
+              "country": "ITA",
+              "flag": "https://flagcdn.com/24x18/it.png",
+              "primary": "#009246",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "22.58",
+              "athlete": "Joe Kovacs",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Complexe Sportif Prince Moulay Abdellah",
+              "date": "31 MAY 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "22.53",
+              "athlete": "Jordan Geist",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Letzigrund",
+              "date": "27 AUG 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "22.07",
+              "athlete": "Roger Steen",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Atletska dvorana",
+              "date": "11 FEB 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "21.91",
+              "athlete": "Adrian Piperi",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Icahn Stadium",
+              "date": "26 JUL 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "21.82",
+              "athlete": "Tom Walsh",
+              "country": "NZL",
+              "flag": "https://flagcdn.com/24x18/nz.png",
+              "primary": "#4A4745",
+              "venue": "Kujawsko-Pomorska Arena",
+              "date": "22 MAR 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "21.81",
+              "athlete": "Payton Otterdahl",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Stadio Quercia",
+              "date": "08 SEP 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "21.74",
+              "athlete": "Chukwuebuka Enekwechi",
+              "country": "NGR",
+              "flag": "https://flagcdn.com/24x18/ng.png",
+              "primary": "#008751",
+              "venue": "Drake Stadium",
+              "date": "24 APR 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "21.59",
+              "athlete": "Ryan Crouser",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Complexe Sportif Prince Moulay Abdellah",
+              "date": "31 MAY 2026"
+            }
+          ]
         },
         {
           "id": "sp_w",

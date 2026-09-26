@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-26 17:23 UTC
+// Auto-generated 2026-09-26 22:52 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-09-26 17:23 UTC",
+  "UPDATED": "2026-09-26 22:52 UTC",
   "SEASON": "2026",
   "ROUND": 29,
   "IMPORTANCE": 10.0,
@@ -215,6 +215,34 @@ window.AFL_DATA = {
   ],
   "PERFORMERS": [
     {
+      "id": "luke_jackson",
+      "name": "Luke Jackson",
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "team": "Fremantle",
+      "teamCode": "FR",
+      "primary": "#2A0D54",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#2A0D54",
+        "secondary": "#FFFFFF"
+      },
+      "prevRank": 2,
+      "stats": {
+        "games": 27,
+        "disposals": 498,
+        "goals": 29,
+        "tackles": 137,
+        "clearances": 133,
+        "contested": 301,
+        "marks": 77,
+        "hitouts": 716
+      },
+      "rank": 1,
+      "score": 100.0,
+      "legendScore": 0.0
+    },
+    {
       "id": "patrick_cripps",
       "name": "Patrick Cripps",
       "country": "AUS",
@@ -238,37 +266,37 @@ window.AFL_DATA = {
         "marks": 66,
         "hitouts": 3
       },
-      "rank": 1,
-      "score": 100.0,
+      "rank": 2,
+      "score": 97.7,
       "legendScore": 33.7
     },
     {
-      "id": "luke_jackson",
-      "name": "Luke Jackson",
+      "id": "lachie_neale",
+      "name": "Lachie Neale",
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
-      "team": "Fremantle",
-      "teamCode": "FR",
-      "primary": "#2A0D54",
-      "secondary": "#FFFFFF",
+      "team": "Brisbane Lions",
+      "teamCode": "BL",
+      "primary": "#7B1A4B",
+      "secondary": "#F6AE00",
       "colors": {
-        "primary": "#2A0D54",
-        "secondary": "#FFFFFF"
+        "primary": "#7B1A4B",
+        "secondary": "#F6AE00"
       },
-      "prevRank": 2,
+      "prevRank": 4,
       "stats": {
-        "games": 26,
-        "disposals": 483,
-        "goals": 29,
-        "tackles": 133,
-        "clearances": 129,
-        "contested": 293,
-        "marks": 75,
-        "hitouts": 669
+        "games": 27,
+        "disposals": 775,
+        "goals": 5,
+        "tackles": 71,
+        "clearances": 181,
+        "contested": 339,
+        "marks": 143,
+        "hitouts": 0
       },
-      "rank": 2,
-      "score": 99.3,
-      "legendScore": 0.0
+      "rank": 3,
+      "score": 96.9,
+      "legendScore": 30.5
     },
     {
       "id": "marcus_bontempelli",
@@ -294,13 +322,13 @@ window.AFL_DATA = {
         "marks": 99,
         "hitouts": 4
       },
-      "rank": 3,
-      "score": 98.5,
+      "rank": 4,
+      "score": 96.3,
       "legendScore": 29.5
     },
     {
-      "id": "lachie_neale",
-      "name": "Lachie Neale",
+      "id": "will_ashcroft",
+      "name": "Will Ashcroft",
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "team": "Brisbane Lions",
@@ -311,20 +339,20 @@ window.AFL_DATA = {
         "primary": "#7B1A4B",
         "secondary": "#F6AE00"
       },
-      "prevRank": 4,
+      "prevRank": 9,
       "stats": {
-        "games": 26,
-        "disposals": 755,
-        "goals": 5,
-        "tackles": 69,
-        "clearances": 178,
-        "contested": 333,
-        "marks": 138,
+        "games": 27,
+        "disposals": 771,
+        "goals": 17,
+        "tackles": 91,
+        "clearances": 151,
+        "contested": 260,
+        "marks": 131,
         "hitouts": 0
       },
-      "rank": 4,
-      "score": 97.0,
-      "legendScore": 30.5
+      "rank": 5,
+      "score": 93.0,
+      "legendScore": 0.0
     },
     {
       "id": "bailey_smith",
@@ -350,8 +378,8 @@ window.AFL_DATA = {
         "marks": 96,
         "hitouts": 0
       },
-      "rank": 5,
-      "score": 93.0,
+      "rank": 6,
+      "score": 90.9,
       "legendScore": 0.0
     },
     {
@@ -378,8 +406,8 @@ window.AFL_DATA = {
         "marks": 79,
         "hitouts": 1
       },
-      "rank": 6,
-      "score": 92.9,
+      "rank": 7,
+      "score": 90.8,
       "legendScore": 0.0
     },
     {
@@ -406,8 +434,8 @@ window.AFL_DATA = {
         "marks": 85,
         "hitouts": 0
       },
-      "rank": 7,
-      "score": 92.7,
+      "rank": 8,
+      "score": 90.6,
       "legendScore": 0.0
     },
     {
@@ -434,36 +462,8 @@ window.AFL_DATA = {
         "marks": 106,
         "hitouts": 789
       },
-      "rank": 8,
-      "score": 92.6,
-      "legendScore": 0.0
-    },
-    {
-      "id": "will_ashcroft",
-      "name": "Will Ashcroft",
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "team": "Brisbane Lions",
-      "teamCode": "BL",
-      "primary": "#7B1A4B",
-      "secondary": "#F6AE00",
-      "colors": {
-        "primary": "#7B1A4B",
-        "secondary": "#F6AE00"
-      },
-      "prevRank": 9,
-      "stats": {
-        "games": 26,
-        "disposals": 740,
-        "goals": 17,
-        "tackles": 89,
-        "clearances": 142,
-        "contested": 247,
-        "marks": 129,
-        "hitouts": 0
-      },
       "rank": 9,
-      "score": 90.9,
+      "score": 90.5,
       "legendScore": 0.0
     },
     {
@@ -491,7 +491,7 @@ window.AFL_DATA = {
         "hitouts": 0
       },
       "rank": 10,
-      "score": 90.8,
+      "score": 88.7,
       "legendScore": 9.5
     },
     {
@@ -519,7 +519,35 @@ window.AFL_DATA = {
         "hitouts": 0
       },
       "rank": 11,
-      "score": 88.6,
+      "score": 86.6,
+      "legendScore": 0.0
+    },
+    {
+      "id": "caleb_serong",
+      "name": "Caleb Serong",
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "team": "Fremantle",
+      "teamCode": "FR",
+      "primary": "#2A0D54",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#2A0D54",
+        "secondary": "#FFFFFF"
+      },
+      "prevRank": 15,
+      "stats": {
+        "games": 24,
+        "disposals": 588,
+        "goals": 11,
+        "tackles": 109,
+        "clearances": 164,
+        "contested": 273,
+        "marks": 56,
+        "hitouts": 0
+      },
+      "rank": 12,
+      "score": 85.5,
       "legendScore": 0.0
     },
     {
@@ -546,9 +574,37 @@ window.AFL_DATA = {
         "marks": 92,
         "hitouts": 0
       },
-      "rank": 12,
-      "score": 87.5,
+      "rank": 13,
+      "score": 85.5,
       "legendScore": 23.2
+    },
+    {
+      "id": "shai_bolton",
+      "name": "Shai Bolton",
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "team": "Fremantle",
+      "teamCode": "FR",
+      "primary": "#2A0D54",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#2A0D54",
+        "secondary": "#FFFFFF"
+      },
+      "prevRank": 18,
+      "stats": {
+        "games": 26,
+        "disposals": 593,
+        "goals": 25,
+        "tackles": 97,
+        "clearances": 104,
+        "contested": 229,
+        "marks": 76,
+        "hitouts": 0
+      },
+      "rank": 14,
+      "score": 83.3,
+      "legendScore": 0.0
     },
     {
       "id": "brodie_grundy",
@@ -574,8 +630,36 @@ window.AFL_DATA = {
         "marks": 50,
         "hitouts": 783
       },
-      "rank": 13,
-      "score": 84.2,
+      "rank": 15,
+      "score": 82.3,
+      "legendScore": 0.0
+    },
+    {
+      "id": "andrew_brayshaw",
+      "name": "Andrew Brayshaw",
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "team": "Fremantle",
+      "teamCode": "FR",
+      "primary": "#2A0D54",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#2A0D54",
+        "secondary": "#FFFFFF"
+      },
+      "prevRank": 21,
+      "stats": {
+        "games": 27,
+        "disposals": 666,
+        "goals": 8,
+        "tackles": 161,
+        "clearances": 110,
+        "contested": 227,
+        "marks": 89,
+        "hitouts": 0
+      },
+      "rank": 16,
+      "score": 82.2,
       "legendScore": 0.0
     },
     {
@@ -602,36 +686,8 @@ window.AFL_DATA = {
         "marks": 62,
         "hitouts": 1
       },
-      "rank": 14,
-      "score": 83.7,
-      "legendScore": 0.0
-    },
-    {
-      "id": "caleb_serong",
-      "name": "Caleb Serong",
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "team": "Fremantle",
-      "teamCode": "FR",
-      "primary": "#2A0D54",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#2A0D54",
-        "secondary": "#FFFFFF"
-      },
-      "prevRank": 15,
-      "stats": {
-        "games": 23,
-        "disposals": 564,
-        "goals": 11,
-        "tackles": 108,
-        "clearances": 151,
-        "contested": 256,
-        "marks": 55,
-        "hitouts": 0
-      },
-      "rank": 15,
-      "score": 83.0,
+      "rank": 17,
+      "score": 81.8,
       "legendScore": 0.0
     },
     {
@@ -658,8 +714,8 @@ window.AFL_DATA = {
         "marks": 69,
         "hitouts": 0
       },
-      "rank": 16,
-      "score": 82.4,
+      "rank": 18,
+      "score": 80.5,
       "legendScore": 0.0
     },
     {
@@ -686,36 +742,8 @@ window.AFL_DATA = {
         "marks": 62,
         "hitouts": 0
       },
-      "rank": 17,
-      "score": 82.2,
-      "legendScore": 0.0
-    },
-    {
-      "id": "shai_bolton",
-      "name": "Shai Bolton",
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "team": "Fremantle",
-      "teamCode": "FR",
-      "primary": "#2A0D54",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#2A0D54",
-        "secondary": "#FFFFFF"
-      },
-      "prevRank": 18,
-      "stats": {
-        "games": 25,
-        "disposals": 567,
-        "goals": 25,
-        "tackles": 92,
-        "clearances": 102,
-        "contested": 219,
-        "marks": 69,
-        "hitouts": 0
-      },
-      "rank": 18,
-      "score": 82.0,
+      "rank": 19,
+      "score": 80.3,
       "legendScore": 0.0
     },
     {
@@ -742,8 +770,64 @@ window.AFL_DATA = {
         "marks": 70,
         "hitouts": 0
       },
-      "rank": 19,
-      "score": 81.9,
+      "rank": 20,
+      "score": 80.1,
+      "legendScore": 0.0
+    },
+    {
+      "id": "zac_bailey",
+      "name": "Zac Bailey",
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "team": "Brisbane Lions",
+      "teamCode": "BL",
+      "primary": "#7B1A4B",
+      "secondary": "#F6AE00",
+      "colors": {
+        "primary": "#7B1A4B",
+        "secondary": "#F6AE00"
+      },
+      "prevRank": 27,
+      "stats": {
+        "games": 26,
+        "disposals": 560,
+        "goals": 35,
+        "tackles": 75,
+        "clearances": 76,
+        "contested": 192,
+        "marks": 142,
+        "hitouts": 0
+      },
+      "rank": 21,
+      "score": 79.9,
+      "legendScore": 0.0
+    },
+    {
+      "id": "josh_dunkley",
+      "name": "Josh Dunkley",
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "team": "Brisbane Lions",
+      "teamCode": "BL",
+      "primary": "#7B1A4B",
+      "secondary": "#F6AE00",
+      "colors": {
+        "primary": "#7B1A4B",
+        "secondary": "#F6AE00"
+      },
+      "prevRank": null,
+      "stats": {
+        "games": 27,
+        "disposals": 574,
+        "goals": 4,
+        "tackles": 189,
+        "clearances": 80,
+        "contested": 238,
+        "marks": 124,
+        "hitouts": 0
+      },
+      "rank": 22,
+      "score": 79.7,
       "legendScore": 0.0
     },
     {
@@ -770,36 +854,8 @@ window.AFL_DATA = {
         "marks": 63,
         "hitouts": 0
       },
-      "rank": 20,
-      "score": 81.4,
-      "legendScore": 0.0
-    },
-    {
-      "id": "andrew_brayshaw",
-      "name": "Andrew Brayshaw",
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "team": "Fremantle",
-      "teamCode": "FR",
-      "primary": "#2A0D54",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#2A0D54",
-        "secondary": "#FFFFFF"
-      },
-      "prevRank": 21,
-      "stats": {
-        "games": 26,
-        "disposals": 650,
-        "goals": 8,
-        "tackles": 154,
-        "clearances": 104,
-        "contested": 218,
-        "marks": 86,
-        "hitouts": 0
-      },
-      "rank": 21,
-      "score": 81.0,
+      "rank": 23,
+      "score": 79.6,
       "legendScore": 0.0
     },
     {
@@ -826,8 +882,8 @@ window.AFL_DATA = {
         "marks": 77,
         "hitouts": 0
       },
-      "rank": 22,
-      "score": 80.9,
+      "rank": 24,
+      "score": 79.1,
       "legendScore": 0.0
     },
     {
@@ -854,8 +910,8 @@ window.AFL_DATA = {
         "marks": 85,
         "hitouts": 0
       },
-      "rank": 23,
-      "score": 80.8,
+      "rank": 25,
+      "score": 79.0,
       "legendScore": 0.0
     },
     {
@@ -882,8 +938,8 @@ window.AFL_DATA = {
         "marks": 60,
         "hitouts": 0
       },
-      "rank": 24,
-      "score": 80.4,
+      "rank": 26,
+      "score": 78.6,
       "legendScore": 0.0
     },
     {
@@ -910,8 +966,8 @@ window.AFL_DATA = {
         "marks": 95,
         "hitouts": 0
       },
-      "rank": 25,
-      "score": 80.1,
+      "rank": 27,
+      "score": 78.3,
       "legendScore": 0.0
     },
     {
@@ -938,36 +994,8 @@ window.AFL_DATA = {
         "marks": 45,
         "hitouts": 0
       },
-      "rank": 26,
-      "score": 80.0,
-      "legendScore": 0.0
-    },
-    {
-      "id": "zac_bailey",
-      "name": "Zac Bailey",
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "team": "Brisbane Lions",
-      "teamCode": "BL",
-      "primary": "#7B1A4B",
-      "secondary": "#F6AE00",
-      "colors": {
-        "primary": "#7B1A4B",
-        "secondary": "#F6AE00"
-      },
-      "prevRank": 27,
-      "stats": {
-        "games": 25,
-        "disposals": 540,
-        "goals": 34,
-        "tackles": 73,
-        "clearances": 75,
-        "contested": 188,
-        "marks": 137,
-        "hitouts": 0
-      },
-      "rank": 27,
-      "score": 79.6,
+      "rank": 28,
+      "score": 78.2,
       "legendScore": 0.0
     },
     {
@@ -994,8 +1022,8 @@ window.AFL_DATA = {
         "marks": 114,
         "hitouts": 0
       },
-      "rank": 28,
-      "score": 79.5,
+      "rank": 29,
+      "score": 77.7,
       "legendScore": 0.0
     },
     {
@@ -1022,37 +1050,9 @@ window.AFL_DATA = {
         "marks": 106,
         "hitouts": 0
       },
-      "rank": 29,
-      "score": 79.5,
-      "legendScore": 0.0
-    },
-    {
-      "id": "harry_sheezel",
-      "name": "Harry Sheezel",
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "team": "North Melbourne",
-      "teamCode": "NM",
-      "primary": "#CC2031",
-      "secondary": "#013B9F",
-      "colors": {
-        "primary": "#CC2031",
-        "secondary": "#013B9F"
-      },
-      "prevRank": 30,
-      "stats": {
-        "games": 22,
-        "disposals": 670,
-        "goals": 12,
-        "tackles": 107,
-        "clearances": 99,
-        "contested": 216,
-        "marks": 144,
-        "hitouts": 0
-      },
       "rank": 30,
-      "score": 79.4,
-      "legendScore": 3.2
+      "score": 77.7,
+      "legendScore": 0.0
     }
   ],
   "LAST_ROUND": [
