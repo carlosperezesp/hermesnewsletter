@@ -1,8 +1,8 @@
-// Auto-generated 2026-09-25 23:59 UTC
+// Auto-generated 2026-09-26 09:53 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-09-25 23:59 UTC",
+  "UPDATED": "2026-09-26 09:53 UTC",
   "SEASON": "2026",
-  "ROUND": 28,
+  "ROUND": 29,
   "IMPORTANCE": 10.0,
   "LEGEND_THRESHOLD": 70.5,
   "LADDER": [
@@ -1057,23 +1057,13 @@ window.AFL_DATA = {
   ],
   "LAST_ROUND": [
     {
-      "hteam": "Sydney",
-      "hscore": 71,
-      "ateam": "Fremantle",
-      "ascore": 83,
-      "winner": "Fremantle",
-      "date": "2026-09-18",
-      "hprimary": "#F57F00",
-      "aprimary": "#2A0D54"
-    },
-    {
-      "hteam": "Hawthorn",
-      "hscore": 122,
+      "hteam": "Fremantle",
+      "hscore": 89,
       "ateam": "Brisbane Lions",
-      "ascore": 131,
+      "ascore": 96,
       "winner": "Brisbane Lions",
-      "date": "2026-09-19",
-      "hprimary": "#4D2004",
+      "date": "2026-09-26",
+      "hprimary": "#2A0D54",
       "aprimary": "#7B1A4B"
     }
   ],

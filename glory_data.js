@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-26 00:01 UTC",
+  "UPDATED": "2026-09-26 09:55 UTC",
   "EVENTS": [
+    {
+      "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
+      "sport": "nascar",
+      "detail": "NASCAR",
+      "text": "Ryan Blaney ganó en Echopark Speedway",
+      "weight": 100,
+      "firstSeen": "2026-09-26"
+    },
     {
       "id": "motogp:win:Austrian motorcycle Grand Prix:Pedro Acosta",
       "sport": "motogp",
