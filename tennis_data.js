@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-26 09:55 UTC
+// Auto-generated 2026-09-26 11:37 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-26 09:55 UTC",
+  "UPDATED": "2026-09-26 11:37 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -644,9 +644,9 @@ window.TENNIS_DATA = {
       "prevListRank": 19,
       "tournamentStatus": {
         "tournament": "Chengdu Open",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 74.6
     },
@@ -1291,7 +1291,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chengdu Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 65.6
@@ -2449,7 +2449,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 57.2
@@ -3817,7 +3817,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 48.8
@@ -4509,7 +4509,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chengdu Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 40.7
@@ -4903,7 +4903,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -7609,7 +7609,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Korea Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 60.6
@@ -7813,7 +7813,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Korea Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 56.1
@@ -8051,7 +8051,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Korea Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 53.2
@@ -9327,7 +9327,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Eupago Porto Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 42.5
@@ -11003,7 +11003,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Valentin Vacherot",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 7-6 (7-5)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 40.7,
@@ -11058,15 +11058,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Daniil Medvedev",
+          "w": "Valentin Royer",
           "w_logo": "",
-          "l": "Valentin Royer",
+          "l": "Daniil Medvedev",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 78.9,
-          "l_score": 43.0,
+          "scheduled": false,
+          "w_score": 43.0,
+          "l_score": 78.9,
           "match_score": 78.9
         },
         {
@@ -11097,15 +11097,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Kamil Majchrzak",
+          "w": "Bu Yunchaokete",
           "w_logo": "",
-          "l": "Bu Yunchaokete",
+          "l": "Kamil Majchrzak",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-4) 6-7 (5-7) 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 57.2,
-          "l_score": 35.0,
+          "w_score": 35.0,
+          "l_score": 57.2,
           "match_score": 57.2
         }
       ]
@@ -11400,7 +11400,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alina Korneeva",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 1-0 ret",
           "day": "hoy",
           "scheduled": false,
           "w_score": 56.6,
@@ -11446,12 +11446,25 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Leylah Fernandez",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 79.9,
           "l_score": 67.4,
           "match_score": 79.9
+        },
+        {
+          "round": "Semifinal",
+          "w": "Talia Gibson",
+          "w_logo": "",
+          "l": "Tatiana Prozorova",
+          "l_logo": "",
+          "score": "w/o",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": 55.3,
+          "l_score": null,
+          "match_score": 55.3
         }
       ]
     },
@@ -11495,28 +11508,28 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Maria Timofeeva",
+          "w": "Mia Pohankova",
           "w_logo": "",
-          "l": "Mia Pohankova",
+          "l": "Maria Timofeeva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 42.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 42.7,
           "match_score": 42.7
         },
         {
           "round": "Semifinal",
-          "w": "Sinja Kraus",
+          "w": "Reese Brantmeier",
           "w_logo": "",
-          "l": "Reese Brantmeier",
+          "l": "Sinja Kraus",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-0",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 42.5,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 42.5,
           "match_score": 42.5
         }
       ]
@@ -11545,9 +11558,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Teodora Kostovic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11599,7 +11612,6 @@ window.TENNIS_DATA = {
       "Roman Safiullin",
       "Taro Daniel",
       "Valentin Royer",
-      "Valentin Vacherot",
       "Vit Kopriva"
     ],
     "out": [
@@ -11629,11 +11641,12 @@ window.TENNIS_DATA = {
       "Tallon Griekspoor",
       "Terence Atmane",
       "Tomas Martin Etcheverry",
+      "Valentin Vacherot",
       "Zhang Zhizhen",
       "Zhou Yi"
     ],
-    "aliveCount": 28,
-    "matchesSeen": 45
+    "aliveCount": 27,
+    "matchesSeen": 47
   },
   "WTA_TOURNAMENT": {
     "name": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
@@ -11838,7 +11851,7 @@ window.TENNIS_DATA = {
       "Yuki Naito"
     ],
     "aliveCount": 78,
-    "matchesSeen": 146
+    "matchesSeen": 147
   },
   "ATP_SCORE_LOG": {
     "206173": [
