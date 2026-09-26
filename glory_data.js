@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-25 23:21 UTC",
+  "UPDATED": "2026-09-26 00:01 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Austrian motorcycle Grand Prix:Pedro Acosta",
@@ -25,14 +25,6 @@ window.GLORY_DATA = {
       "text": "Marc Márquez ganó el San Marino and Rimini Riviera motorcycle Grand Prix",
       "weight": 100,
       "firstSeen": "2026-09-13"
-    },
-    {
-      "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "text": "Ryan Blaney ganó en Echopark Speedway",
-      "weight": 100,
-      "firstSeen": "2026-09-11"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Macklin Celebrini",

@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-25 23:20 UTC",
+  "UPDATED": "2026-09-26 00:00 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1613,
+    "matches": 1611,
     "archives": [
       {
         "name": "Tests",
@@ -17,7 +17,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "T20Is",
-        "matches": 937
+        "matches": 936
       },
       {
         "name": "IPL",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 75
+        "matches": 74
       },
       {
         "name": "MLC",
@@ -2134,8 +2134,8 @@ window.CRICKET_DATA = {
           "batting": 15.7,
           "bowling": 78.2,
           "overall": 67.4,
-          "runs": 291,
-          "wickets": 79
+          "runs": 290,
+          "wickets": 78
         }
       ]
     },
@@ -2171,11 +2171,11 @@ window.CRICKET_DATA = {
           },
           "logo": "",
           "score": 98.3,
-          "batting": 23.1,
-          "bowling": 93.5,
+          "batting": 23.3,
+          "bowling": 92.8,
           "overall": 98.3,
-          "runs": 1191,
-          "wickets": 129
+          "runs": 1184,
+          "wickets": 128
         },
         {
           "id": "ba-stokes",
@@ -2314,11 +2314,11 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 79.7,
+          "score": 79.9,
           "batting": 30.5,
-          "bowling": 46.6,
-          "overall": 79.7,
-          "runs": 982,
+          "bowling": 46.8,
+          "overall": 79.9,
+          "runs": 954,
           "wickets": 61
         }
       ],
@@ -2552,12 +2552,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 93.5,
-          "batting": 23.1,
-          "bowling": 93.5,
+          "score": 92.8,
+          "batting": 23.3,
+          "bowling": 92.8,
           "overall": 98.3,
-          "runs": 1191,
-          "wickets": 129
+          "runs": 1184,
+          "wickets": 128
         },
         {
           "id": "jc-archer",
@@ -2606,11 +2606,11 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 80.8,
-          "batting": 8.1,
-          "bowling": 80.8,
-          "overall": 54.1,
-          "runs": 118,
+          "score": 80.9,
+          "batting": 8.0,
+          "bowling": 80.9,
+          "overall": 53.8,
+          "runs": 112,
           "wickets": 109
         },
         {
