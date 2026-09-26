@@ -23792,9 +23792,9 @@ window.NHL_DATA = {
       "name": "Marshall Warren",
       "pos": "D",
       "teamCode": "NYI",
-      "age": 25,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00539b",
         "secondary": "#f47d30"
@@ -28659,9 +28659,9 @@ window.NHL_DATA = {
       "name": "Jared Wright",
       "pos": "RW",
       "teamCode": "LAK",
-      "age": 23,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#111111",
         "secondary": "#a2aaad"
@@ -36022,9 +36022,9 @@ window.NHL_DATA = {
       "name": "Kenny Connors",
       "pos": "C",
       "teamCode": "LAK",
-      "age": 23,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#111111",
         "secondary": "#a2aaad"
@@ -36680,9 +36680,9 @@ window.NHL_DATA = {
       "name": "Carson Lambos",
       "pos": "D",
       "teamCode": "MIN",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 23,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
         "primary": "#154734",
         "secondary": "#a6192e"
@@ -37044,9 +37044,9 @@ window.NHL_DATA = {
       "name": "Riley Stillman",
       "pos": "D",
       "teamCode": "EDM",
-      "age": 28,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#ff4c00"
@@ -48079,10 +48079,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-26 11:34 UTC",
+  "LAST_UPDATE": "2026-09-26 16:45 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-26T11:34:00Z"
+    "standingsDateTimeUtc": "2026-09-26T16:44:29Z"
   }
 };

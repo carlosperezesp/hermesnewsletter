@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-26 11:37 UTC
+// Auto-generated 2026-09-26 16:47 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-26 11:37 UTC",
+  "UPDATED": "2026-09-26 16:47 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -271,7 +271,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 78.9
@@ -1667,7 +1667,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 62.8
@@ -3165,7 +3165,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 53.5
@@ -4403,7 +4403,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 45.1
@@ -5701,7 +5701,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Singapore Tennis Open presented by BNP Paribas",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 79.8
@@ -6347,7 +6347,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Singapore Tennis Open presented by BNP Paribas",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 67.4
@@ -7881,7 +7881,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Singapore Tennis Open presented by BNP Paribas",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 55.4
@@ -9293,7 +9293,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Eupago Porto Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 42.9
@@ -11058,28 +11058,28 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R64",
-          "w": "Valentin Royer",
+          "w": "Daniil Medvedev",
           "w_logo": "",
-          "l": "Daniil Medvedev",
+          "l": "Valentin Royer",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (8-6) 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 43.0,
-          "l_score": 78.9,
+          "w_score": 78.9,
+          "l_score": 43.0,
           "match_score": 78.9
         },
         {
           "round": "R64",
-          "w": "Adolfo Daniel Vallejo",
+          "w": "Chak Lam Coleman Wong",
           "w_logo": "",
-          "l": "Chak Lam Coleman Wong",
+          "l": "Adolfo Daniel Vallejo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-2) 4-6 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 62.8,
-          "l_score": 53.5,
+          "scheduled": false,
+          "w_score": 53.5,
+          "l_score": 62.8,
           "match_score": 62.8
         },
         {
@@ -11442,15 +11442,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Maja Chwalinska",
+          "w": "Leylah Fernandez",
           "w_logo": "",
-          "l": "Leylah Fernandez",
+          "l": "Maja Chwalinska",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "1-6 6-4 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 79.9,
-          "l_score": 67.4,
+          "w_score": 67.4,
+          "l_score": 79.9,
           "match_score": 79.9
         },
         {
@@ -11479,22 +11479,22 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Julia Grabher",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 47.2,
           "l_score": 35.0,
           "match_score": 47.2
         },
         {
           "round": "Semifinal",
-          "w": "Jessica Pieri",
+          "w": "Guiomar Maristany Zuleta De Reales",
           "w_logo": "",
-          "l": "Guiomar Maristany Zuleta De Reales",
+          "l": "Jessica Pieri",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11508,15 +11508,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Mia Pohankova",
+          "w": "Maria Timofeeva",
           "w_logo": "",
-          "l": "Maria Timofeeva",
+          "l": "Mia Pohankova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-7 (3-7) 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 42.7,
+          "w_score": 42.7,
+          "l_score": null,
           "match_score": 42.7
         },
         {
@@ -11545,20 +11545,20 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Deniz Dilek",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "Semifinal",
-          "w": "Polina Iatcenko",
+          "w": "Teodora Kostovic",
           "w_logo": "",
-          "l": "Teodora Kostovic",
+          "l": "Polina Iatcenko",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11646,7 +11646,7 @@ window.TENNIS_DATA = {
       "Zhou Yi"
     ],
     "aliveCount": 27,
-    "matchesSeen": 47
+    "matchesSeen": 48
   },
   "WTA_TOURNAMENT": {
     "name": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
@@ -11851,7 +11851,7 @@ window.TENNIS_DATA = {
       "Yuki Naito"
     ],
     "aliveCount": 78,
-    "matchesSeen": 147
+    "matchesSeen": 150
   },
   "ATP_SCORE_LOG": {
     "206173": [
