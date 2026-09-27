@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-27 12:15 UTC",
+  "UPDATED": "2026-09-27 17:19 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -89,6 +89,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-13"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Matthew Schaefer",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Matthew Schaefer entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-09-27"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Caufield",
       "sport": "nhl",
       "detail": "NHL",
@@ -114,6 +123,15 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-09-14"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Connor Bedard",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Connor Bedard cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-09-27"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Oliver Bonk",
@@ -203,14 +221,14 @@ window.GLORY_DATA = {
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Macklin Celebrini",
       "Porter Martone",
-      "Connor Bedard",
       "Jack Hughes",
       "Matt Boldy",
       "Ilya Protas",
       "Victor Eklund",
       "Lane Hutson",
       "Leo Carlsson",
-      "Cole Caufield"
+      "Cole Caufield",
+      "Matthew Schaefer"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "LeBron James",

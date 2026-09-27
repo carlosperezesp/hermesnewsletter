@@ -1,6 +1,6 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-09-27 12:14 UTC",
+  "UPDATED": "2026-09-27 17:18 UTC",
   "LAST_MATCH": "2026-09-27",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
@@ -120,31 +120,6 @@ window.RUGBY_DATA = {
         "status": "final",
         "competition": "IRB Pacific Nations Cup",
         "home": {
-          "name": "Fiji",
-          "teamCode": "FIJ",
-          "colors": {
-            "primary": "#6ecff6",
-            "secondary": "#111111"
-          }
-        },
-        "away": {
-          "name": "Canada",
-          "teamCode": "C",
-          "colors": {
-            "primary": "#8a8178",
-            "secondary": "#dedad6"
-          }
-        },
-        "homeScore": 45,
-        "awayScore": 29,
-        "venue": "Hanazono Rugby Stadium",
-        "city": "Osaka"
-      },
-      {
-        "date": "2026-09-12",
-        "status": "final",
-        "competition": "IRB Pacific Nations Cup",
-        "home": {
           "name": "Japan",
           "teamCode": "JPN",
           "colors": {
@@ -162,6 +137,31 @@ window.RUGBY_DATA = {
         },
         "homeScore": 63,
         "awayScore": 14,
+        "venue": "Hanazono Rugby Stadium",
+        "city": "Osaka"
+      },
+      {
+        "date": "2026-09-12",
+        "status": "final",
+        "competition": "IRB Pacific Nations Cup",
+        "home": {
+          "name": "Fiji",
+          "teamCode": "FIJ",
+          "colors": {
+            "primary": "#6ecff6",
+            "secondary": "#111111"
+          }
+        },
+        "away": {
+          "name": "Canada",
+          "teamCode": "C",
+          "colors": {
+            "primary": "#8a8178",
+            "secondary": "#dedad6"
+          }
+        },
+        "homeScore": 45,
+        "awayScore": 29,
         "venue": "Hanazono Rugby Stadium",
         "city": "Osaka"
       },

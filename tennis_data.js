@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-27 12:15 UTC
+// Auto-generated 2026-09-27 17:19 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-27 12:15 UTC",
+  "UPDATED": "2026-09-27 17:19 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -271,7 +271,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 78.9
@@ -1291,7 +1291,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chengdu Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 65.6
@@ -2143,7 +2143,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chengdu Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 59.2
@@ -3165,7 +3165,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 53.5
@@ -3817,7 +3817,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 48.8
@@ -4509,7 +4509,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chengdu Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 40.7
@@ -7505,10 +7505,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Adana Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 57.1
     },
@@ -8493,10 +8493,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Adana Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 48.8
     },
@@ -8807,10 +8807,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Adana Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 47.7
     },
@@ -9083,10 +9083,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Adana Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 44.6
     },
@@ -9119,8 +9119,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 116,
       "tournamentStatus": {
-        "tournament": "Turk Telekom Ankara Open",
-        "state": "out",
+        "tournament": "Adana Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -9255,10 +9255,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Adana Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 42.8
     },
@@ -9429,10 +9429,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Adana Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 40.6
     },
@@ -9499,10 +9499,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Adana Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 40.3
     },
@@ -9639,10 +9639,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Adana Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 39.5
     },
@@ -10027,9 +10027,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 142,
       "tournamentStatus": {
-        "tournament": "Delta Motors Tolentino Open",
+        "tournament": "Adana Open",
         "state": "alive",
-        "round": "F",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -10135,10 +10135,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Adana Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.0
     },
@@ -10279,10 +10279,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Adana Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 50.0
     },
@@ -11016,7 +11016,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lloyd Harris",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (12-10) 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 65.6,
@@ -11062,9 +11062,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Chak Lam Coleman Wong",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-7 (2-7) 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 78.9,
           "l_score": 53.5,
           "match_score": 78.9
@@ -11382,9 +11382,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Guiomar Maristany Zuleta De Reales",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-5) 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
@@ -11418,11 +11418,11 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Teodora Kostovic",
+          "w": "Berfu Cengiz",
           "w_logo": "",
-          "l": "Berfu Cengiz",
+          "l": "Teodora Kostovic",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "2-6 6-4 7-5",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11520,7 +11520,7 @@ window.TENNIS_DATA = {
       "Zhou Yi"
     ],
     "aliveCount": 27,
-    "matchesSeen": 50
+    "matchesSeen": 52
   },
   "WTA_TOURNAMENT": {
     "name": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
@@ -11580,8 +11580,12 @@ window.TENNIS_DATA = {
       "Alycia Parks",
       "Amelia Rajecki",
       "Anastasia Gasanova",
+      "Anastasia Tikhonova",
       "Angelina Voloshchuk",
+      "Anna Blinkova",
       "Anna Bondar",
+      "Anna Siskova",
+      "Antonia Ruzic",
       "Ayana Akli",
       "Ayla Aksu",
       "Aysegul Mert",
@@ -11591,6 +11595,7 @@ window.TENNIS_DATA = {
       "Cagla Buyukakcay",
       "Carole Monnet",
       "Chenting Zhu",
+      "Dalma Galfi",
       "Daria Egorova",
       "Darya Astakhova",
       "Darya Khamutsianskaya",
@@ -11604,6 +11609,9 @@ window.TENNIS_DATA = {
       "Elena-Gabriela Ruse",
       "Elise Mertens",
       "Emerson Jones",
+      "Emiliana Arango",
+      "Erika Andreeva",
+      "Fiona Crawley",
       "Fiona Ferro",
       "Gabriela Knutson",
       "Guiomar Maristany Zuleta De Reales",
@@ -11616,6 +11624,7 @@ window.TENNIS_DATA = {
       "Jessica Pieri",
       "Joanna Garland",
       "Julia Grabher",
+      "Julia Riera",
       "Kajsa Rinaldo Persson",
       "Kamilla Rakhimova",
       "Katarina Zavatska",
@@ -11624,26 +11633,35 @@ window.TENNIS_DATA = {
       "Kimberly Birrell",
       "Kristiana Sidorova",
       "Kristina Mladenovic",
+      "Ksenia Efremova",
       "Ksenia Zaytseva",
       "Kyoka Okamura",
       "Lanlana Tararudee",
+      "Leolia Jeanjean",
       "Leylah Fernandez",
       "Leyre Romero Gormaz",
+      "Lois Boisson",
+      "Lola Radivojevic",
       "Lu Jia-Jing",
+      "Lucia Bronzetti",
+      "Lucrezia Stefanini",
       "Ma YeXin",
       "Maja Chwalinska",
       "Maria Sakkari",
       "Maria Timofeeva",
       "Marta Lombardini",
+      "Martyna Kubka",
       "Matilde Jorge",
       "Maya Joint",
       "Mei Yamaguchi",
+      "Melisa Ercan",
       "Mia Pohankova",
       "Mia Ristic",
       "Mirra Andreeva",
       "Naiktha Bains",
       "Nao Hibino",
       "Noemi Basiletti",
+      "Noma Noha Akugue",
       "Nuria Brancaccio",
       "Oceane Dodin",
       "Oksana Selekhmeteva",
@@ -11657,10 +11675,12 @@ window.TENNIS_DATA = {
       "Sara Saito",
       "Sara Sorribes Tormo",
       "Shi Han",
+      "Simona Waltert",
       "Sinja Kraus",
       "Sofia Costoulas",
       "Sofya Lansere",
       "Sohyun Park",
+      "Suzan Lamens",
       "Talia Gibson",
       "Tatiana Prozorova",
       "Taylah Preston",
@@ -11668,8 +11688,10 @@ window.TENNIS_DATA = {
       "Tian Fangran",
       "Tyra Caterina Grant",
       "Valentina Steiner",
+      "Vendula Valdmannova",
       "Veronika Erjavec",
       "Veronika Podrez",
+      "Viktoria Hruncakova",
       "Viktoria Morvayova",
       "Wang Xinyu",
       "Wang Yuhan",
@@ -11684,7 +11706,6 @@ window.TENNIS_DATA = {
       "Alexandra Eala",
       "Alicia Herrero Linana",
       "Alya Naz Altinel",
-      "Anastasia Tikhonova",
       "Anastasia Zakharova",
       "Aneta Laboutkova",
       "Anna-Lena Friedsam",
@@ -11701,17 +11722,14 @@ window.TENNIS_DATA = {
       "Despina Papamichail",
       "Donna Vekic",
       "Elvina Kalieva",
-      "Erika Andreeva",
       "Eva Lys",
       "Federica Urgesi",
-      "Fiona Crawley",
       "Francisca Jorge",
       "Ginevra De Angelis",
       "Himeno Sakatsume",
       "Ilay Yoruk",
       "Isabella Shinikova",
       "Jennifer Ruggeri",
-      "Julia Riera",
       "Julie Struplova",
       "Katarina Kuzmova",
       "Katerina Tsygourova",
@@ -11727,7 +11745,6 @@ window.TENNIS_DATA = {
       "Mananchaya Sawangkaew",
       "Maria Lourdes Carle",
       "Marie Vogt",
-      "Martyna Kubka",
       "Mina Hodzic",
       "Moyuka Uchijima",
       "Polina Kudermetova",
@@ -11744,14 +11761,13 @@ window.TENNIS_DATA = {
       "Tamara Zidansek",
       "Teresa Franco Dias",
       "Victoria Jimenez Kasintseva",
-      "Viktoria Hruncakova",
       "Vivian Wolff",
       "Yao Xinxin",
       "Yuan Yue",
       "Yuki Naito"
     ],
-    "aliveCount": 109,
-    "matchesSeen": 167
+    "aliveCount": 131,
+    "matchesSeen": 183
   },
   "ATP_SCORE_LOG": {
     "206173": [
