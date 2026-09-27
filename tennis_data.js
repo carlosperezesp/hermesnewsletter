@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-27 10:36 UTC
+// Auto-generated 2026-09-27 12:15 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-27 10:36 UTC",
+  "UPDATED": "2026-09-27 12:15 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -29,7 +29,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 16.0,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -65,7 +65,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 25.9,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -99,7 +99,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -133,7 +133,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 100.0,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -167,7 +167,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -201,7 +201,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -235,7 +235,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -303,7 +303,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -337,7 +337,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -371,7 +371,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -405,7 +405,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -439,7 +439,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -473,7 +473,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -507,7 +507,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -541,7 +541,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 16,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -575,7 +575,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -609,7 +609,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -677,7 +677,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -713,7 +713,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 74.0
@@ -745,7 +745,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -779,7 +779,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -813,7 +813,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -881,7 +881,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -915,7 +915,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -949,7 +949,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -983,7 +983,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 29,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1017,7 +1017,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 30,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1085,7 +1085,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1119,7 +1119,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1153,7 +1153,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 34,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1187,7 +1187,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1221,7 +1221,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1255,7 +1255,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1357,7 +1357,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1391,7 +1391,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1425,7 +1425,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1493,7 +1493,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1561,7 +1561,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1595,7 +1595,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 47,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1631,7 +1631,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1699,7 +1699,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1733,7 +1733,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1767,7 +1767,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1801,7 +1801,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1835,7 +1835,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 54,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -1869,7 +1869,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 55,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2005,7 +2005,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2073,7 +2073,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 61,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2175,7 +2175,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2209,7 +2209,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2243,7 +2243,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 66,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2277,7 +2277,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2345,7 +2345,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2379,7 +2379,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2413,7 +2413,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2583,7 +2583,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 76,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2651,7 +2651,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2685,7 +2685,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 79,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2719,7 +2719,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 80,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2753,7 +2753,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2787,7 +2787,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2823,7 +2823,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 83,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2857,7 +2857,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2891,7 +2891,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 85,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2925,7 +2925,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -2993,7 +2993,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3027,7 +3027,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3061,7 +3061,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3095,7 +3095,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 91,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3129,7 +3129,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 92,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3265,7 +3265,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3333,7 +3333,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3367,7 +3367,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3403,7 +3403,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 100,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3439,7 +3439,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 101,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3541,7 +3541,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3577,7 +3577,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Chengdu Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 50.8
@@ -3679,7 +3679,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3747,7 +3747,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3849,7 +3849,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 113,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3883,7 +3883,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3919,7 +3919,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -3987,7 +3987,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 117,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4021,7 +4021,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 118,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4057,7 +4057,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 47.9
@@ -4089,7 +4089,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4123,7 +4123,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 121,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4193,7 +4193,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4229,7 +4229,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4265,7 +4265,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4299,7 +4299,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 10.3,
       "prevListRank": 126,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4333,7 +4333,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4369,7 +4369,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 42.6
@@ -4435,7 +4435,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 130,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4471,7 +4471,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4541,7 +4541,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 133,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4577,7 +4577,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4613,7 +4613,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4649,7 +4649,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 136,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4685,7 +4685,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4721,7 +4721,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 138,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4757,7 +4757,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4829,7 +4829,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 141,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4903,7 +4903,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -4937,7 +4937,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -4973,7 +4973,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5045,7 +5045,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5081,7 +5081,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5117,7 +5117,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5153,7 +5153,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Chengdu Open · AITO Hangzhou Open",
+        "tournament": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5189,7 +5189,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 22.2,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5223,7 +5223,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 2,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5291,7 +5291,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 7.4,
       "prevListRank": 4,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5325,7 +5325,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 30.5,
       "prevListRank": 5,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5359,7 +5359,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5393,7 +5393,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 7,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5427,7 +5427,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 8,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5461,7 +5461,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5495,7 +5495,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5529,7 +5529,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 11,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5563,7 +5563,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5597,7 +5597,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 13,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5631,7 +5631,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5665,7 +5665,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 15,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5733,7 +5733,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 14.8,
       "prevListRank": 17,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5767,7 +5767,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 18,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5835,7 +5835,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5869,7 +5869,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5903,7 +5903,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5937,7 +5937,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 23,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -5971,7 +5971,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6005,7 +6005,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 25,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6039,7 +6039,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6073,7 +6073,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 27,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6175,7 +6175,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 30,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6243,7 +6243,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 32,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6277,7 +6277,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6311,7 +6311,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 34,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6379,7 +6379,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6413,7 +6413,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6481,7 +6481,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6515,7 +6515,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 40,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6549,7 +6549,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6583,7 +6583,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6617,7 +6617,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6651,7 +6651,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6719,7 +6719,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 46,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6789,7 +6789,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6823,7 +6823,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 49,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6857,7 +6857,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 50,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6891,7 +6891,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6925,7 +6925,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 52,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -6959,7 +6959,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7027,7 +7027,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 55,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7061,7 +7061,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7095,7 +7095,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7129,7 +7129,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 58,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7163,7 +7163,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 59,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7299,7 +7299,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 63,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7333,7 +7333,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 64,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7367,7 +7367,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 65,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7401,7 +7401,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 66,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7435,7 +7435,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 67,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7471,7 +7471,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7505,7 +7505,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 69,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7539,7 +7539,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7641,7 +7641,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 73,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7675,7 +7675,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 74,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7743,7 +7743,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 76,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7881,7 +7881,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Singapore Tennis Open presented by BNP Paribas",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 55.4
@@ -7913,7 +7913,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 81,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -7947,7 +7947,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8015,7 +8015,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 84,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8083,7 +8083,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 86,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8117,7 +8117,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 87,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8151,7 +8151,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 88,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8185,7 +8185,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 89,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8321,7 +8321,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8355,7 +8355,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8423,7 +8423,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8459,7 +8459,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 97,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8493,7 +8493,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8527,7 +8527,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8669,7 +8669,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8705,7 +8705,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 104,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8739,7 +8739,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8807,7 +8807,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 107,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -8909,7 +8909,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 110,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9049,7 +9049,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9083,7 +9083,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 115,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9187,7 +9187,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 118,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9255,7 +9255,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 120,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9395,7 +9395,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 124,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9429,7 +9429,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 125,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9499,7 +9499,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9639,7 +9639,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9675,7 +9675,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9745,7 +9745,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9781,7 +9781,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 135,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9851,7 +9851,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 137,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9921,7 +9921,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.7,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -9957,7 +9957,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 140,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10063,7 +10063,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 143,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10099,7 +10099,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 144,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10135,7 +10135,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 145,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10171,7 +10171,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10243,7 +10243,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 148,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10279,7 +10279,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -10315,7 +10315,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 150,
       "tournamentStatus": {
-        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+        "tournament": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
         "state": "out",
         "round": "",
         "reason": "No compite esta semana"
@@ -11016,9 +11016,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lloyd Harris",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 65.6,
           "l_score": 40.7,
           "match_score": 65.6
@@ -11029,7 +11029,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Adrian Mannarino",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (6-8) 6-3 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 59.2,
@@ -11075,7 +11075,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Hugo Gaston",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (6-8) 7-6 (7-4) 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": 74.0,
@@ -11101,9 +11101,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Bu Yunchaokete",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 48.8,
           "l_score": 35.0,
           "match_score": 48.8
@@ -11358,15 +11358,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Talia Gibson",
+          "w": "Leylah Fernandez",
           "w_logo": "",
-          "l": "Leylah Fernandez",
+          "l": "Talia Gibson",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 6-0",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 55.3,
-          "l_score": 67.4,
+          "w_score": 67.4,
+          "l_score": 55.3,
           "match_score": 67.4
         }
       ]
@@ -11398,15 +11398,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Reese Brantmeier",
+          "w": "Maria Timofeeva",
           "w_logo": "",
-          "l": "Maria Timofeeva",
+          "l": "Reese Brantmeier",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (10-8) 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 42.7,
+          "w_score": 42.7,
+          "l_score": null,
           "match_score": 42.7
         }
       ]
@@ -11422,9 +11422,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Berfu Cengiz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11433,7 +11433,7 @@ window.TENNIS_DATA = {
     }
   ],
   "ATP_TOURNAMENT": {
-    "name": "Chengdu Open · AITO Hangzhou Open",
+    "name": "Chengdu Open · AITO Hangzhou Open · Kinoshita Group Japan Open Tennis Championships · China Open",
     "level": "ATP 250",
     "surface": "",
     "tour": "ATP",
@@ -11447,6 +11447,16 @@ window.TENNIS_DATA = {
         "name": "AITO Hangzhou Open",
         "level": "ATP 250",
         "surface": ""
+      },
+      {
+        "name": "Kinoshita Group Japan Open Tennis Championships",
+        "level": "ATP 500",
+        "surface": "Hard"
+      },
+      {
+        "name": "China Open",
+        "level": "ATP 500",
+        "surface": "Hard"
       }
     ],
     "alive": [
@@ -11510,10 +11520,10 @@ window.TENNIS_DATA = {
       "Zhou Yi"
     ],
     "aliveCount": 27,
-    "matchesSeen": 49
+    "matchesSeen": 50
   },
   "WTA_TOURNAMENT": {
-    "name": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open",
+    "name": "Korea Open · Singapore Tennis Open presented by BNP Paribas · Delta Motors Tolentino Open · Eupago Porto Open · Turk Telekom Ankara Open · Jingshan Tennis Open · Adana Open · China Open",
     "level": "WTA 250",
     "surface": "",
     "tour": "WTA",
@@ -11552,6 +11562,11 @@ window.TENNIS_DATA = {
         "name": "Adana Open",
         "level": "WTA 250",
         "surface": ""
+      },
+      {
+        "name": "China Open",
+        "level": "WTA 1000",
+        "surface": "Hard"
       }
     ],
     "alive": [
