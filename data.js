@@ -27996,9 +27996,9 @@ window.NHL_DATA = {
       "name": "Aleksei Kolosov",
       "pos": "G",
       "teamCode": "PHI",
-      "age": 24,
-      "country": "Belarus",
-      "birthCountry": "BLR",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f74902",
         "secondary": "#111111"
@@ -36679,9 +36679,9 @@ window.NHL_DATA = {
       "name": "Carson Lambos",
       "pos": "D",
       "teamCode": "MIN",
-      "age": 23,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#154734",
         "secondary": "#a6192e"
@@ -47903,7 +47903,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 30.7,
         "note": "Elite current form — needs sustained peak + Cups",
-        "prevRank": 4
+        "prevRank": 3
       },
       {
         "id": 8481557,
@@ -47921,7 +47921,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 31.8,
         "note": "Elite current form — needs sustained peak + Cups",
-        "prevRank": 5
+        "prevRank": 4
       },
       {
         "id": 8484999,
@@ -47939,7 +47939,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 31.8,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 6
+        "prevRank": 5
       },
       {
         "id": 8485388,
@@ -47957,7 +47957,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.4,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 7
+        "prevRank": 6
       },
       {
         "id": 8483457,
@@ -47975,7 +47975,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.5,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "id": 8484153,
@@ -47993,7 +47993,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.7,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 9
+        "prevRank": 8
       },
       {
         "id": 8481540,
@@ -48011,7 +48011,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.9,
         "note": "Elite current form — needs sustained peak + Cups",
-        "prevRank": 10
+        "prevRank": 9
       },
       {
         "id": 8485366,
@@ -48029,7 +48029,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.9,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": null
+        "prevRank": 10
       }
     ]
   },
@@ -48078,10 +48078,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-27 17:16 UTC",
+  "LAST_UPDATE": "2026-09-27 17:55 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-27T17:16:00Z"
+    "standingsDateTimeUtc": "2026-09-27T17:55:00Z"
   }
 };
