@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-27 17:57 UTC
+// Auto-generated 2026-09-27 23:05 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-09-27 17:57 UTC",
+  "UPDATED": "2026-09-27 23:05 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -3909,18 +3909,18 @@ window.ATHLETICS_DATA = {
             },
             {
               "rank": 9,
-              "mark": "9:07.50",
-              "athlete": "Gesa Felicitas Krause",
-              "country": "GER",
-              "flag": "https://flagcdn.com/24x18/de.png",
-              "primary": "#000000",
-              "venue": "Hayward Field",
-              "date": "04 JUL 2026"
+              "mark": "9:06.82",
+              "athlete": "Norah Jeruto",
+              "country": "KAZ",
+              "flag": "https://flagcdn.com/24x18/kz.png",
+              "primary": "#4A4745",
+              "venue": "Municipal Mizuho Stadium",
+              "date": "27 SEP 2026"
             },
             {
               "rank": 10,
-              "mark": "9:09.13",
-              "athlete": "Lea Meyer",
+              "mark": "9:07.50",
+              "athlete": "Gesa Felicitas Krause",
               "country": "GER",
               "flag": "https://flagcdn.com/24x18/de.png",
               "primary": "#000000",

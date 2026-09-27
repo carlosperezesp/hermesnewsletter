@@ -2739,9 +2739,9 @@ window.NHL_DATA = {
       "name": "Seth Jarvis",
       "pos": "RW",
       "teamCode": "CAR",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#cc0000",
         "secondary": "#111111"
@@ -2764,8 +2764,7 @@ window.NHL_DATA = {
         54,
         56,
         74
-      ],
-      "legendScore": 44.8
+      ]
     },
     {
       "id": 8477949,
@@ -3078,9 +3077,9 @@ window.NHL_DATA = {
       "name": "Mathew Barzal",
       "pos": "C",
       "teamCode": "NYI",
-      "age": 29,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00539b",
         "secondary": "#f47d30"
@@ -3409,7 +3408,7 @@ window.NHL_DATA = {
         54,
         72
       ],
-      "legendScore": 55.9
+      "legendScore": 40.3
     },
     {
       "id": 8474590,
@@ -4553,9 +4552,9 @@ window.NHL_DATA = {
       "name": "Felix Unger Sorum",
       "pos": "RW",
       "teamCode": "CAR",
-      "age": 21,
-      "country": "Norway",
-      "birthCountry": "NOR",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#cc0000",
         "secondary": "#111111"
@@ -4577,8 +4576,7 @@ window.NHL_DATA = {
         42,
         44,
         69
-      ],
-      "legendScore": 57.6
+      ]
     },
     {
       "id": 8480014,
@@ -6498,9 +6496,9 @@ window.NHL_DATA = {
       "name": "Marek Alscher",
       "pos": "D",
       "teamCode": "FLA",
-      "age": 22,
-      "country": "Czechia",
-      "birthCountry": "CZE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -6522,8 +6520,7 @@ window.NHL_DATA = {
         43,
         45,
         65
-      ],
-      "legendScore": 54.6
+      ]
     },
     {
       "id": 8480807,
@@ -10350,9 +10347,9 @@ window.NHL_DATA = {
       "name": "Jacob Fowler",
       "pos": "G",
       "teamCode": "MTL",
-      "age": 21,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#af1e2d",
         "secondary": "#192168"
@@ -15990,9 +15987,9 @@ window.NHL_DATA = {
       "name": "David Reinbacher",
       "pos": "D",
       "teamCode": "MTL",
-      "age": 21,
-      "country": "Austria",
-      "birthCountry": "AUT",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#af1e2d",
         "secondary": "#192168"
@@ -16014,8 +16011,7 @@ window.NHL_DATA = {
         42,
         44,
         53
-      ],
-      "legendScore": 48.7
+      ]
     },
     {
       "id": 8484471,
@@ -17197,9 +17193,9 @@ window.NHL_DATA = {
       "name": "Alex Steeves",
       "pos": "C",
       "teamCode": "BOS",
-      "age": 26,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ffb81c",
         "secondary": "#111111"
@@ -18098,9 +18094,9 @@ window.NHL_DATA = {
       "name": "Kaiden Guhle",
       "pos": "D",
       "teamCode": "MTL",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#af1e2d",
         "secondary": "#192168"
@@ -18123,8 +18119,7 @@ window.NHL_DATA = {
         44,
         46,
         52
-      ],
-      "legendScore": 45.1
+      ]
     },
     {
       "id": 8480860,
@@ -18267,9 +18262,9 @@ window.NHL_DATA = {
       "name": "Matthew Poitras",
       "pos": "C",
       "teamCode": "BOS",
-      "age": 22,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ffb81c",
         "secondary": "#111111"
@@ -18291,8 +18286,7 @@ window.NHL_DATA = {
         42,
         44,
         52
-      ],
-      "legendScore": 47.5
+      ]
     },
     {
       "id": 8482168,
@@ -21207,9 +21201,9 @@ window.NHL_DATA = {
       "name": "Bradly Nadeau",
       "pos": "LW",
       "teamCode": "CAR",
-      "age": 21,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#cc0000",
         "secondary": "#111111"
@@ -25877,9 +25871,9 @@ window.NHL_DATA = {
       "name": "Mikulas Hovorka",
       "pos": "D",
       "teamCode": "FLA",
-      "age": 25,
-      "country": "Czechia",
-      "birthCountry": "CZE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -28958,9 +28952,9 @@ window.NHL_DATA = {
       "name": "Justin Barron",
       "pos": "D",
       "teamCode": "NSH",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ffb81c",
         "secondary": "#041e42"
@@ -29358,9 +29352,9 @@ window.NHL_DATA = {
       "name": "Taylor Ward",
       "pos": "RW",
       "teamCode": "LAK",
-      "age": 28,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#111111",
         "secondary": "#a2aaad"
@@ -31653,9 +31647,9 @@ window.NHL_DATA = {
       "name": "Lukas Reichel",
       "pos": "LW",
       "teamCode": "BOS",
-      "age": 24,
-      "country": "Germany",
-      "birthCountry": "DEU",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ffb81c",
         "secondary": "#111111"
@@ -34142,9 +34136,9 @@ window.NHL_DATA = {
       "name": "Jared Davidson",
       "pos": "C",
       "teamCode": "MTL",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#af1e2d",
         "secondary": "#192168"
@@ -34437,9 +34431,9 @@ window.NHL_DATA = {
       "name": "Owen Beck",
       "pos": "C",
       "teamCode": "MTL",
-      "age": 22,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#af1e2d",
         "secondary": "#192168"
@@ -35095,9 +35089,9 @@ window.NHL_DATA = {
       "name": "Liam Foudy",
       "pos": "C",
       "teamCode": "NYI",
-      "age": 26,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#00539b",
         "secondary": "#f47d30"
@@ -36712,9 +36706,9 @@ window.NHL_DATA = {
       "name": "Jack Devine",
       "pos": "RW",
       "teamCode": "FLA",
-      "age": 22,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
@@ -43848,116 +43842,6 @@ window.NHL_DATA = {
       }
     },
     {
-      "id": 8482093,
-      "name": "Seth Jarvis",
-      "pos": "RW",
-      "active": true,
-      "teamCode": "CAR",
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "birthDate": "2002-02-01",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8482093.png",
-      "currentScore": 74,
-      "legendScore": null,
-      "colors": {
-        "primary": "#cc0000",
-        "secondary": "#111111"
-      },
-      "seasons": [
-        {
-          "season": "2021-22",
-          "seasonId": 20212022,
-          "age": 19,
-          "team": "Hurricanes",
-          "teamName": "Carolina Hurricanes",
-          "gp": 68,
-          "g": 17,
-          "a": 23,
-          "p": 40,
-          "pm": 11,
-          "score": 46
-        },
-        {
-          "season": "2022-23",
-          "seasonId": 20222023,
-          "age": 20,
-          "team": "Hurricanes",
-          "teamName": "Carolina Hurricanes",
-          "gp": 82,
-          "g": 14,
-          "a": 25,
-          "p": 39,
-          "pm": 10,
-          "score": 44
-        },
-        {
-          "season": "2023-24",
-          "seasonId": 20232024,
-          "age": 21,
-          "team": "Hurricanes",
-          "teamName": "Carolina Hurricanes",
-          "gp": 81,
-          "g": 33,
-          "a": 34,
-          "p": 67,
-          "pm": 23,
-          "score": 54
-        },
-        {
-          "season": "2024-25",
-          "seasonId": 20242025,
-          "age": 22,
-          "team": "Hurricanes",
-          "teamName": "Carolina Hurricanes",
-          "gp": 73,
-          "g": 32,
-          "a": 35,
-          "p": 67,
-          "pm": 12,
-          "score": 56
-        },
-        {
-          "season": "2025-26",
-          "seasonId": 20252026,
-          "age": 23,
-          "team": "Hurricanes",
-          "teamName": "Carolina Hurricanes",
-          "gp": 71,
-          "g": 32,
-          "a": 34,
-          "p": 66,
-          "pm": 6,
-          "score": 56
-        }
-      ],
-      "bestSeason": {
-        "season": "2024-25",
-        "seasonId": 20242025,
-        "age": 22,
-        "team": "Hurricanes",
-        "teamName": "Carolina Hurricanes",
-        "gp": 73,
-        "g": 32,
-        "a": 35,
-        "p": 67,
-        "pm": 12,
-        "score": 56
-      },
-      "age22Season": {
-        "season": "2024-25",
-        "seasonId": 20242025,
-        "age": 22,
-        "team": "Hurricanes",
-        "teamName": "Carolina Hurricanes",
-        "gp": 73,
-        "g": 32,
-        "a": 35,
-        "p": 67,
-        "pm": 12,
-        "score": 56
-      }
-    },
-    {
       "id": 8483445,
       "name": "Cutter Gauthier",
       "pos": "LW",
@@ -45297,6 +45181,103 @@ window.NHL_DATA = {
         "p": 43,
         "pm": 6,
         "score": 52
+      }
+    },
+    {
+      "id": 8482105,
+      "name": "Jake Sanderson",
+      "pos": "D",
+      "active": true,
+      "teamCode": "OTT",
+      "country": "United States",
+      "birthCountry": "USA",
+      "birthDate": "2002-07-08",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8482105.png",
+      "currentScore": 72,
+      "legendScore": null,
+      "colors": {
+        "primary": "#c52032",
+        "secondary": "#c2912c"
+      },
+      "seasons": [
+        {
+          "season": "2022-23",
+          "seasonId": 20222023,
+          "age": 20,
+          "team": "Senators",
+          "teamName": "Ottawa Senators",
+          "gp": 77,
+          "g": 4,
+          "a": 28,
+          "p": 32,
+          "pm": -6,
+          "score": 43
+        },
+        {
+          "season": "2023-24",
+          "seasonId": 20232024,
+          "age": 21,
+          "team": "Senators",
+          "teamName": "Ottawa Senators",
+          "gp": 79,
+          "g": 10,
+          "a": 28,
+          "p": 38,
+          "pm": 8,
+          "score": 45
+        },
+        {
+          "season": "2024-25",
+          "seasonId": 20242025,
+          "age": 22,
+          "team": "Senators",
+          "teamName": "Ottawa Senators",
+          "gp": 80,
+          "g": 11,
+          "a": 46,
+          "p": 57,
+          "pm": -14,
+          "score": 50
+        },
+        {
+          "season": "2025-26",
+          "seasonId": 20252026,
+          "age": 23,
+          "team": "Senators",
+          "teamName": "Ottawa Senators",
+          "gp": 67,
+          "g": 14,
+          "a": 40,
+          "p": 54,
+          "pm": 16,
+          "score": 54
+        }
+      ],
+      "bestSeason": {
+        "season": "2025-26",
+        "seasonId": 20252026,
+        "age": 23,
+        "team": "Senators",
+        "teamName": "Ottawa Senators",
+        "gp": 67,
+        "g": 14,
+        "a": 40,
+        "p": 54,
+        "pm": 16,
+        "score": 54
+      },
+      "age22Season": {
+        "season": "2024-25",
+        "seasonId": 20242025,
+        "age": 22,
+        "team": "Senators",
+        "teamName": "Ottawa Senators",
+        "gp": 80,
+        "g": 11,
+        "a": 46,
+        "p": 57,
+        "pm": -14,
+        "score": 50
       }
     },
     {
@@ -48078,10 +48059,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-27 17:55 UTC",
+  "LAST_UPDATE": "2026-09-27 23:03 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-27T17:55:00Z"
+    "standingsDateTimeUtc": "2026-09-27T23:03:15Z"
   }
 };
