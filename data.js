@@ -25911,7 +25911,7 @@ window.NHL_DATA = {
       "name": "Nate Danielson",
       "pos": "C",
       "teamCode": "DET",
-      "age": 21,
+      "age": 22,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -48079,10 +48079,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2025-26",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-09-26 23:40 UTC",
+  "LAST_UPDATE": "2026-09-27 10:33 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-26T23:40:00Z"
+    "standingsDateTimeUtc": "2026-09-27T10:33:15Z"
   }
 };

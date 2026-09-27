@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-26 23:42 UTC",
+  "UPDATED": "2026-09-27 10:36 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -125,11 +125,46 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-25"
     }
   ],
-  "REPORTS": [],
+  "REPORTS": [
+    {
+      "id": "sumo:basho:202609",
+      "sport": "sumo",
+      "competition": "Sumo",
+      "champion": "Onosato conquista el basho",
+      "scopeLabel": "Cabeza del banzuke",
+      "top5": [
+        {
+          "name": "Onosato",
+          "sub": "Yokozuna 1 East"
+        },
+        {
+          "name": "Hoshoryu",
+          "sub": "Yokozuna 1 West"
+        },
+        {
+          "name": "Kirishima",
+          "sub": "Ozeki 1 East"
+        },
+        {
+          "name": "Kotozakura",
+          "sub": "Ozeki 1 West"
+        },
+        {
+          "name": "Aonishiki",
+          "sub": "Ozeki 2 East"
+        }
+      ],
+      "firstSeen": "2026-09-27"
+    }
+  ],
   "REPORT_SEEN": [
     {
       "id": "nhl:champ:CAR:2025-26",
       "firstSeen": "2026-07-10"
+    },
+    {
+      "id": "sumo:basho:202609",
+      "firstSeen": "2026-09-27"
     },
     {
       "id": "nba:champ:NY:2025-26",
