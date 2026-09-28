@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-28 11:45 UTC",
+  "UPDATED": "2026-09-28 14:13 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -72,6 +72,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-14"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Cale Makar entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-09-28"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Connor Bedard",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Connor Bedard entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-09-28"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Matthew Schaefer",
       "sport": "nhl",
       "detail": "NHL",
@@ -106,6 +124,60 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-09-14"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:out:Evgeni Malkin",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Evgeni Malkin cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-09-28"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:out:Artemi Panarin",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Artemi Panarin cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-09-28"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:out:David Pastrnak",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "David Pastrnak cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-09-28"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:out:Mikko Rantanen",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Mikko Rantanen cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-09-28"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:out:Mark Stone",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Mark Stone cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-09-28"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:out:Jake Guentzel",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Jake Guentzel cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-09-28"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Connor Bedard",
@@ -160,12 +232,12 @@ window.GLORY_DATA = {
   ],
   "REPORT_SEEN": [
     {
-      "id": "nhl:champ:CAR:2025-26",
-      "firstSeen": "2026-07-10"
-    },
-    {
       "id": "sumo:basho:202609",
       "firstSeen": "2026-09-27"
+    },
+    {
+      "id": "nhl:champ:CAR:2025-26",
+      "firstSeen": "2026-07-10"
     },
     {
       "id": "nba:champ:NY:2025-26",
@@ -181,25 +253,21 @@ window.GLORY_DATA = {
       "Nikita Kucherov",
       "Nathan MacKinnon",
       "Connor McDavid",
-      "Evgeni Malkin",
       "Leon Draisaitl",
-      "Artemi Panarin",
-      "David Pastrnak",
-      "Mikko Rantanen",
-      "Mark Stone",
-      "Jake Guentzel"
+      "Cale Makar",
+      "Connor Bedard"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
       "Colorado Avalanche",
       "Florida Panthers",
       "St. Louis Blues",
+      "Edmonton Oilers",
       "Carolina Hurricanes",
       "Dallas Stars",
-      "Minnesota Wild",
       "Boston Bruins",
-      "Edmonton Oilers",
-      "New York Rangers"
+      "New York Rangers",
+      "Minnesota Wild"
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Macklin Celebrini",

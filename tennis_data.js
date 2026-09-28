@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-28 11:45 UTC
+// Auto-generated 2026-09-28 14:13 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-28 11:45 UTC",
+  "UPDATED": "2026-09-28 14:13 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -271,7 +271,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "AITO Hangzhou Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 78.9
@@ -8599,7 +8599,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Adana Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 49.7
@@ -10212,9 +10212,9 @@ window.TENNIS_DATA = {
       "prevListRank": 147,
       "tournamentStatus": {
         "tournament": "Adana Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 35.0
     },
@@ -11016,15 +11016,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Semifinal",
-          "w": "Denis Shapovalov",
+          "w": "Hubert Hurkacz",
           "w_logo": "",
-          "l": "Hubert Hurkacz",
+          "l": "Denis Shapovalov",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (8-10) 6-3 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 59.2,
-          "l_score": 65.6,
+          "w_score": 65.6,
+          "l_score": 59.2,
           "match_score": 65.6
         }
       ]
@@ -11036,15 +11036,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Roman Safiullin",
+          "w": "Daniil Medvedev",
           "w_logo": "",
-          "l": "Daniil Medvedev",
+          "l": "Roman Safiullin",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 48.8,
-          "l_score": 78.9,
+          "w_score": 78.9,
+          "l_score": 48.8,
           "match_score": 78.9
         },
         {
@@ -11301,7 +11301,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elena Ruxandra Bertea",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "3-6 6-4 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 40.4,
@@ -11310,15 +11310,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Suzan Lamens",
+          "w": "Leolia Jeanjean",
           "w_logo": "",
-          "l": "Leolia Jeanjean",
+          "l": "Suzan Lamens",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-3 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 39.3,
+          "w_score": 39.3,
+          "l_score": null,
           "match_score": 39.3
         },
         {
@@ -11327,7 +11327,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Noma Noha Akugue",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11336,26 +11336,26 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Anastasia Gasanova",
+          "w": "Martyna Kubka",
           "w_logo": "",
-          "l": "Viktoria Hruncakova",
+          "l": "Ksenia Efremova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
         },
         {
           "round": "R128",
-          "w": "Martyna Kubka",
+          "w": "Viktoria Hruncakova",
           "w_logo": "",
-          "l": "Ksenia Efremova",
+          "l": "Anastasia Gasanova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-2 ret",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11484,7 +11484,7 @@ window.TENNIS_DATA = {
       "Zhou Yi"
     ],
     "aliveCount": 67,
-    "matchesSeen": 76
+    "matchesSeen": 78
   },
   "WTA_TOURNAMENT": {
     "name": "Jingshan Tennis Open · Adana Open · China Open",
@@ -11516,7 +11516,6 @@ window.TENNIS_DATA = {
       "Aliona Falei",
       "Alycia Parks",
       "Amelia Rajecki",
-      "Anastasia Gasanova",
       "Anastasia Tikhonova",
       "Anastasia Zakharova",
       "Anhelina Kalinina",
@@ -11540,7 +11539,6 @@ window.TENNIS_DATA = {
       "Dayana Yastremska",
       "Elena Micic",
       "Elena Pridankina",
-      "Elena Ruxandra Bertea",
       "Elena-Gabriela Ruse",
       "Emerson Jones",
       "Erika Andreeva",
@@ -11573,7 +11571,6 @@ window.TENNIS_DATA = {
       "Maya Joint",
       "Mayar Sherif",
       "Melisa Ercan",
-      "Noma Noha Akugue",
       "Oleksandra Oliynykova",
       "Panna Udvardy",
       "Paula Badosa",
@@ -11590,7 +11587,6 @@ window.TENNIS_DATA = {
       "Sofia Costoulas",
       "Sofia Kenin",
       "Sofya Lansere",
-      "Suzan Lamens",
       "Tamara Korpatsch",
       "Taylah Preston",
       "Teodora Kostovic",
@@ -11608,18 +11604,22 @@ window.TENNIS_DATA = {
       "Zhu Lin"
     ],
     "out": [
+      "Anastasia Gasanova",
       "Anna Siskova",
+      "Elena Ruxandra Bertea",
       "Emiliana Arango",
       "Haruka Kaji",
       "Hayu Kinoshita",
       "Mei Yamaguchi",
+      "Noma Noha Akugue",
       "Sara Saito",
+      "Suzan Lamens",
       "Vendula Valdmannova",
       "Yang Yidi",
       "Yujia Huang"
     ],
-    "aliveCount": 97,
-    "matchesSeen": 56
+    "aliveCount": 93,
+    "matchesSeen": 57
   },
   "ATP_SCORE_LOG": {
     "206173": [
