@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-27 23:52 UTC",
+  "UPDATED": "2026-09-28 11:44 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1611,
+    "matches": 1610,
     "archives": [
       {
         "name": "Tests",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 74
+        "matches": 73
       },
       {
         "name": "MLC",
@@ -2134,7 +2134,7 @@ window.CRICKET_DATA = {
           "batting": 15.7,
           "bowling": 78.2,
           "overall": 67.4,
-          "runs": 290,
+          "runs": 288,
           "wickets": 78
         }
       ]
@@ -2170,12 +2170,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 98.3,
-          "batting": 23.3,
-          "bowling": 92.8,
-          "overall": 98.3,
-          "runs": 1184,
-          "wickets": 128
+          "score": 98.4,
+          "batting": 23.5,
+          "bowling": 92.1,
+          "overall": 98.4,
+          "runs": 1180,
+          "wickets": 127
         },
         {
           "id": "ba-stokes",
@@ -2552,12 +2552,12 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 92.8,
-          "batting": 23.3,
-          "bowling": 92.8,
-          "overall": 98.3,
-          "runs": 1184,
-          "wickets": 128
+          "score": 92.1,
+          "batting": 23.5,
+          "bowling": 92.1,
+          "overall": 98.4,
+          "runs": 1180,
+          "wickets": 127
         },
         {
           "id": "jc-archer",

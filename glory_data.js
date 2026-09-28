@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-27 23:52 UTC",
+  "UPDATED": "2026-09-28 11:45 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -25,14 +25,6 @@ window.GLORY_DATA = {
       "text": "Jorge Martín ganó el Austrian motorcycle Grand Prix",
       "weight": 100,
       "firstSeen": "2026-09-20"
-    },
-    {
-      "id": "motogp:win:San Marino and Rimini Riviera motorcycle Grand Prix:Marc Márquez",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "text": "Marc Márquez ganó el San Marino and Rimini Riviera motorcycle Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-09-13"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Macklin Celebrini",
@@ -78,15 +70,6 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-09-14"
-    },
-    {
-      "id": "rank:athletics:allTime:200m_w:in:Melissa Jefferson-Wooden",
-      "sport": "athletics",
-      "detail": "Atletismo",
-      "anchor": "athletics-records",
-      "text": "Melissa Jefferson-Wooden entra en el top-10 histórico · 200m — M",
-      "weight": 90,
-      "firstSeen": "2026-09-13"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Matthew Schaefer",
@@ -339,8 +322,8 @@ window.GLORY_DATA = {
       "Elena Rybakina",
       "Mirra Andreeva",
       "Coco Gauff",
-      "Iga Swiatek",
       "Marta Kostyuk",
+      "Iga Swiatek",
       "Elina Svitolina",
       "Jessica Pegula",
       "Sorana Cirstea",
