@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-28 14:13 UTC
+// Auto-generated 2026-09-28 19:52 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-28 14:13 UTC",
+  "UPDATED": "2026-09-28 19:52 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11333,19 +11333,6 @@ window.TENNIS_DATA = {
           "w_score": null,
           "l_score": 35.0,
           "match_score": 35.0
-        },
-        {
-          "round": "R128",
-          "w": "Martyna Kubka",
-          "w_logo": "",
-          "l": "Ksenia Efremova",
-          "l_logo": "",
-          "score": "4-2",
-          "day": "hoy",
-          "scheduled": false,
-          "w_score": null,
-          "l_score": null,
-          "match_score": 0.0
         },
         {
           "round": "R128",

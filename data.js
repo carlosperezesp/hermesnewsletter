@@ -5237,7 +5237,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 12,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 5
+        "prevRank": 4
       },
       {
         "id": 8480069,
@@ -5256,7 +5256,7 @@ window.NHL_DATA = {
         "cups": 1,
         "seasons": 7,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": null
+        "prevRank": 5
       },
       {
         "id": 8484144,
@@ -5275,7 +5275,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 3,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": null
+        "prevRank": 6
       }
     ],
     "teams": [
@@ -5357,7 +5357,7 @@ window.NHL_DATA = {
           "primary": "#041e42",
           "secondary": "#ff4c00"
         },
-        "prevRank": 9
+        "prevRank": 5
       },
       {
         "teamCode": "CAR",
@@ -5373,7 +5373,7 @@ window.NHL_DATA = {
           "primary": "#cc0000",
           "secondary": "#111111"
         },
-        "prevRank": 5
+        "prevRank": 6
       },
       {
         "teamCode": "DAL",
@@ -5389,7 +5389,7 @@ window.NHL_DATA = {
           "primary": "#006847",
           "secondary": "#8f8f8c"
         },
-        "prevRank": 6
+        "prevRank": 7
       },
       {
         "teamCode": "BOS",
@@ -5421,7 +5421,7 @@ window.NHL_DATA = {
           "primary": "#0038a8",
           "secondary": "#ce1126"
         },
-        "prevRank": 10
+        "prevRank": 9
       },
       {
         "teamCode": "MIN",
@@ -5437,7 +5437,7 @@ window.NHL_DATA = {
           "primary": "#154734",
           "secondary": "#a6192e"
         },
-        "prevRank": 7
+        "prevRank": 10
       }
     ],
     "youngProspects": []
@@ -5487,10 +5487,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-09-28 14:11 UTC",
+  "LAST_UPDATE": "2026-09-28 19:49 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-28T14:10:45Z"
+    "standingsDateTimeUtc": "2026-09-28T19:49:15Z"
   }
 };
