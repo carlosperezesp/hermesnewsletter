@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-29 18:16 UTC",
+  "UPDATED": "2026-09-29 18:53 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -54,6 +54,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-20"
     },
     {
+      "id": "tennis:in:ATP:Arthur Fils:20260924",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Arthur Fils entra en el top 10 ATP",
+      "weight": 90,
+      "anchor": "tennis-atp",
+      "firstSeen": "2026-09-29"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
       "sport": "nhl",
       "detail": "NHL",
@@ -88,6 +97,15 @@ window.GLORY_DATA = {
       "text": "Cole Caufield entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-09-25"
+    },
+    {
+      "id": "tennis:out:ATP:Taylor Fritz:20260924",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Taylor Fritz sale del top 10 ATP",
+      "weight": 78,
+      "anchor": "tennis-atp",
+      "firstSeen": "2026-09-29"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:out:Evgeni Malkin",
@@ -343,10 +361,10 @@ window.GLORY_DATA = {
       "Alexander Zverev",
       "Novak Djokovic",
       "Arthur Fils",
-      "Casper Ruud",
       "Tommy Paul",
-      "Daniil Medvedev",
+      "Casper Ruud",
       "Rafael Jodar",
+      "Daniil Medvedev",
       "Lorenzo Musetti"
     ],
     "tennis:WTA": [
