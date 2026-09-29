@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-28 20:16 UTC",
+  "UPDATED": "2026-09-29 00:24 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -54,24 +54,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-20"
     },
     {
-      "id": "tennis:in:WTA:Marta Kostyuk:20260910",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Marta Kostyuk entra en el top 10 WTA",
-      "weight": 90,
-      "anchor": "tennis-wta",
-      "firstSeen": "2026-09-14"
-    },
-    {
-      "id": "tennis:in:ATP:Frances Tiafoe:20260910",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Frances Tiafoe entra en el top 10 ATP",
-      "weight": 90,
-      "anchor": "tennis-atp",
-      "firstSeen": "2026-09-14"
-    },
-    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
       "sport": "nhl",
       "detail": "NHL",
@@ -106,24 +88,6 @@ window.GLORY_DATA = {
       "text": "Cole Caufield entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-09-25"
-    },
-    {
-      "id": "tennis:out:WTA:Amanda Anisimova:20260910",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Amanda Anisimova sale del top 10 WTA",
-      "weight": 78,
-      "anchor": "tennis-wta",
-      "firstSeen": "2026-09-14"
-    },
-    {
-      "id": "tennis:out:ATP:Novak Djokovic:20260910",
-      "sport": "tennis",
-      "detail": "Tenis",
-      "text": "Novak Djokovic sale del top 10 ATP",
-      "weight": 78,
-      "anchor": "tennis-atp",
-      "firstSeen": "2026-09-14"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:out:Evgeni Malkin",

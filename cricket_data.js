@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-28 20:15 UTC",
+  "UPDATED": "2026-09-29 00:23 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1610,
+    "matches": 1608,
     "archives": [
       {
         "name": "Tests",
@@ -13,7 +13,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 142
+        "matches": 141
       },
       {
         "name": "T20Is",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 73
+        "matches": 72
       },
       {
         "name": "MLC",
@@ -784,7 +784,7 @@ window.CRICKET_DATA = {
           "batting": 64.5,
           "bowling": 0.3,
           "overall": 8.8,
-          "runs": 684,
+          "runs": 673,
           "wickets": 0
         },
         {
@@ -2606,12 +2606,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 80.9,
-          "batting": 8.0,
-          "bowling": 80.9,
-          "overall": 53.8,
-          "runs": 112,
-          "wickets": 109
+          "score": 79.5,
+          "batting": 8.1,
+          "bowling": 79.5,
+          "overall": 53.6,
+          "runs": 111,
+          "wickets": 107
         },
         {
           "id": "taijul-islam",
