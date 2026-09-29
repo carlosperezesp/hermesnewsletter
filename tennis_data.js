@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-29 11:25 UTC
+// Auto-generated 2026-09-29 13:08 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-29 11:25 UTC",
+  "UPDATED": "2026-09-29 13:08 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8323,7 +8323,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Jingshan Tennis Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 51.6
@@ -9258,9 +9258,9 @@ window.TENNIS_DATA = {
       "prevListRank": 120,
       "tournamentStatus": {
         "tournament": "Adana Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 42.8
     },
@@ -9643,7 +9643,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Adana Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 39.5
@@ -10955,7 +10955,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Hubert Hurkacz",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 7-6 (9-7)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 72.0,
@@ -10971,15 +10971,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Daniil Medvedev",
+          "w": "Andrey Rublev",
           "w_logo": "",
-          "l": "Andrey Rublev",
+          "l": "Daniil Medvedev",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 78.9,
-          "l_score": 74.0,
+          "scheduled": false,
+          "w_score": 74.0,
+          "l_score": 78.9,
           "match_score": 78.9
         }
       ]
@@ -11178,15 +11178,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Tian Fangran",
+          "w": "Jessica Bouzas Maneiro",
           "w_logo": "",
-          "l": "Jessica Bouzas Maneiro",
+          "l": "Tian Fangran",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 4-1 ret",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 51.0,
+          "w_score": 51.0,
+          "l_score": null,
           "match_score": 51.0
         },
         {
@@ -11306,7 +11306,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anastasia Tikhonova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "3-6 7-6 (7-4) 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 44.3,
@@ -11319,7 +11319,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lucia Bronzetti",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11371,9 +11371,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Polina Iatcenko",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11384,9 +11384,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ksenia Efremova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11557,8 +11557,6 @@ window.TENNIS_DATA = {
       "Alina Charaeva",
       "Aliona Falei",
       "Alycia Parks",
-      "Amelia Rajecki",
-      "Anastasia Tikhonova",
       "Anastasia Zakharova",
       "Andrea Lazaro Garcia",
       "Anhelina Kalinina",
@@ -11607,9 +11605,7 @@ window.TENNIS_DATA = {
       "Lilli Tagger",
       "Linda Fruhvirtova",
       "Lois Boisson",
-      "Lola Radivojevic",
       "Lu Jia-Jing",
-      "Lucia Bronzetti",
       "Lucrezia Stefanini",
       "Maddison Inglis",
       "Magda Linette",
@@ -11643,7 +11639,6 @@ window.TENNIS_DATA = {
       "Tamara Korpatsch",
       "Taylah Preston",
       "Teodora Kostovic",
-      "Tian Fangran",
       "Viktoria Hruncakova",
       "Viktorija Golubic",
       "Wang Yuhan",
@@ -11658,7 +11653,9 @@ window.TENNIS_DATA = {
       "Zhu Lin"
     ],
     "out": [
+      "Amelia Rajecki",
       "Anastasia Gasanova",
+      "Anastasia Tikhonova",
       "Anna Siskova",
       "Ayla Aksu",
       "Daria Egorova",
@@ -11670,20 +11667,23 @@ window.TENNIS_DATA = {
       "Hayu Kinoshita",
       "Katarina Zavatska",
       "Kristina Mladenovic",
+      "Lola Radivojevic",
+      "Lucia Bronzetti",
       "Mei Yamaguchi",
       "Noma Noha Akugue",
       "Rina Saigo",
       "Ru Xi Wu",
       "Sara Saito",
       "Suzan Lamens",
+      "Tian Fangran",
       "Tyra Caterina Grant",
       "Vendula Valdmannova",
       "Viktoria Morvayova",
       "Yang Yidi",
       "Yujia Huang"
     ],
-    "aliveCount": 105,
-    "matchesSeen": 74
+    "aliveCount": 100,
+    "matchesSeen": 76
   },
   "ATP_SCORE_LOG": {
     "206173": [
