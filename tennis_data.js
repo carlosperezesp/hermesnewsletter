@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-29 13:08 UTC
+// Auto-generated 2026-09-29 18:16 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-29 13:08 UTC",
+  "UPDATED": "2026-09-29 18:16 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -9087,7 +9087,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Adana Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 44.6
@@ -9397,7 +9397,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Adana Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 40.6
@@ -10971,15 +10971,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Andrey Rublev",
+          "w": "Daniil Medvedev",
           "w_logo": "",
-          "l": "Daniil Medvedev",
+          "l": "Andrey Rublev",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 74.0,
-          "l_score": 78.9,
+          "w_score": 78.9,
+          "l_score": 74.0,
           "match_score": 78.9
         }
       ]
@@ -11289,15 +11289,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Teodora Kostovic",
+          "w": "Berfu Cengiz",
           "w_logo": "",
-          "l": "Berfu Cengiz",
+          "l": "Teodora Kostovic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 51.7,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 51.7,
           "match_score": 51.7
         },
         {
@@ -11345,9 +11345,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Carole Monnet",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "2-6 6-3 7-6 (7-5)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11371,7 +11371,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Polina Iatcenko",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11384,7 +11384,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ksenia Efremova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 4-6 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11569,7 +11569,6 @@ window.TENNIS_DATA = {
       "Berfu Cengiz",
       "Cagla Buyukakcay",
       "Camila Osorio",
-      "Carole Monnet",
       "Catherine McNally",
       "Chenting Zhu",
       "Dalma Galfi",
@@ -11598,7 +11597,6 @@ window.TENNIS_DATA = {
       "Katie Volynets",
       "Kimberly Birrell",
       "Kristiana Sidorova",
-      "Ksenia Efremova",
       "Kyoka Okamura",
       "Lanlana Tararudee",
       "Leolia Jeanjean",
@@ -11620,7 +11618,6 @@ window.TENNIS_DATA = {
       "Oleksandra Oliynykova",
       "Panna Udvardy",
       "Paula Badosa",
-      "Polina Iatcenko",
       "Polina Kudermetova",
       "Qu Yihan",
       "Renata Zarazua",
@@ -11658,6 +11655,7 @@ window.TENNIS_DATA = {
       "Anastasia Tikhonova",
       "Anna Siskova",
       "Ayla Aksu",
+      "Carole Monnet",
       "Daria Egorova",
       "Darya Khamutsianskaya",
       "Elena Micic",
@@ -11667,10 +11665,12 @@ window.TENNIS_DATA = {
       "Hayu Kinoshita",
       "Katarina Zavatska",
       "Kristina Mladenovic",
+      "Ksenia Efremova",
       "Lola Radivojevic",
       "Lucia Bronzetti",
       "Mei Yamaguchi",
       "Noma Noha Akugue",
+      "Polina Iatcenko",
       "Rina Saigo",
       "Ru Xi Wu",
       "Sara Saito",
@@ -11682,8 +11682,8 @@ window.TENNIS_DATA = {
       "Yang Yidi",
       "Yujia Huang"
     ],
-    "aliveCount": 100,
-    "matchesSeen": 76
+    "aliveCount": 97,
+    "matchesSeen": 79
   },
   "ATP_SCORE_LOG": {
     "206173": [
