@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-30 00:37 UTC",
+  "UPDATED": "2026-09-30 11:13 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -27,22 +27,22 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-20"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.teams:new1:Florida Panthers",
+      "id": "rank:nhl:ROAD_TO_GLORY.teams:new1:Vegas Golden Knights",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-dinastias",
-      "text": "Florida Panthers es nuevo nº1 · dinastías",
+      "text": "Vegas Golden Knights es nuevo nº1 · dinastías",
       "weight": 92,
       "firstSeen": "2026-09-30"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Macklin Celebrini",
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Vasily Podkolzin",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
-      "text": "Macklin Celebrini es nuevo nº1 · jóvenes promesas",
+      "text": "Vasily Podkolzin es nuevo nº1 · jóvenes promesas",
       "weight": 92,
-      "firstSeen": "2026-09-25"
+      "firstSeen": "2026-09-30"
     },
     {
       "id": "rank:cycling:CURRENT_PROSPECTS:new1:Paul Seixas",
@@ -72,6 +72,132 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-29"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Patrick Kane",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Patrick Kane entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:John Tavares",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "John Tavares entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Mark Stone",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Mark Stone entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Jack Eichel",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Jack Eichel entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:William Nylander",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "William Nylander entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Fraser Minten",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Fraser Minten entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Trevor Connelly",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Trevor Connelly entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Easton Cowan",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Easton Cowan entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Jonathan Lekkerimäki",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Jonathan Lekkerimäki entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Liam Ohgren",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Liam Ohgren entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Ryan Greene",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Ryan Greene entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:JJ Peterka",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "JJ Peterka entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Marco Rossi",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Marco Rossi entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Zachary Bolduc",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Zachary Bolduc entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-09-30"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
       "sport": "nhl",
       "detail": "NHL",
@@ -81,33 +207,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-28"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Connor Bedard",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Connor Bedard entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-09-28"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Matthew Schaefer",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Matthew Schaefer entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-09-27"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Caufield",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Cole Caufield entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-09-25"
-    },
-    {
       "id": "tennis:out:ATP:Taylor Fritz:20260924",
       "sport": "tennis",
       "detail": "Tenis",
@@ -115,6 +214,69 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-09-29"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Porter Martone",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Porter Martone cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Jack Hughes",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Jack Hughes cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Matt Boldy",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Matt Boldy cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Ilya Protas",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Ilya Protas cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Victor Eklund",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Victor Eklund cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Lane Hutson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Lane Hutson cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Leo Carlsson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Leo Carlsson cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-09-30"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:out:Evgeni Malkin",
@@ -149,15 +311,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
       "text": "Mikko Rantanen cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-09-28"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:out:Mark Stone",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Mark Stone cae del top-10 · Road to Glory",
       "weight": 74,
       "firstSeen": "2026-09-28"
     },
@@ -244,33 +397,37 @@ window.GLORY_DATA = {
       "Nikita Kucherov",
       "Nathan MacKinnon",
       "Connor McDavid",
+      "Patrick Kane",
       "Leon Draisaitl",
+      "John Tavares",
+      "Mark Stone",
       "Cale Makar",
-      "Connor Bedard"
+      "Jack Eichel",
+      "William Nylander"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
-      "Florida Panthers",
       "Vegas Golden Knights",
+      "Florida Panthers",
+      "Boston Bruins",
+      "Edmonton Oilers",
       "Carolina Hurricanes",
       "Colorado Avalanche",
       "St. Louis Blues",
-      "Edmonton Oilers",
-      "Dallas Stars",
-      "Boston Bruins",
       "New York Rangers",
+      "Dallas Stars",
       "Minnesota Wild"
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
-      "Macklin Celebrini",
-      "Porter Martone",
-      "Jack Hughes",
-      "Matt Boldy",
-      "Ilya Protas",
-      "Victor Eklund",
-      "Lane Hutson",
-      "Leo Carlsson",
-      "Cole Caufield",
-      "Matthew Schaefer"
+      "Vasily Podkolzin",
+      "Fraser Minten",
+      "Trevor Connelly",
+      "Easton Cowan",
+      "Jonathan Lekkerimäki",
+      "Liam Ohgren",
+      "Ryan Greene",
+      "JJ Peterka",
+      "Marco Rossi",
+      "Zachary Bolduc"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "LeBron James",
