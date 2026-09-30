@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-30 18:35 UTC
+// Auto-generated 2026-09-30 23:52 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-30 18:35 UTC",
+  "UPDATED": "2026-09-30 23:52 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -9391,7 +9391,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Adana Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 40.6
@@ -9637,7 +9637,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Adana Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 39.5
@@ -11405,9 +11405,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Cagla Buyukakcay",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-7 (5-7) 6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 40.4,
           "l_score": null,
           "match_score": 40.4
@@ -11824,7 +11824,7 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez"
     ],
     "aliveCount": 96,
-    "matchesSeen": 100
+    "matchesSeen": 101
   },
   "ATP_SCORE_LOG": {
     "206173": [
