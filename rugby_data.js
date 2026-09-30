@@ -1,6 +1,6 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-09-29 23:45 UTC",
+  "UPDATED": "2026-09-30 00:36 UTC",
   "LAST_MATCH": "2026-09-27",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
@@ -164,81 +164,6 @@ window.RUGBY_DATA = {
         "awayScore": 14,
         "venue": "Hanazono Rugby Stadium",
         "city": "Osaka"
-      },
-      {
-        "date": "2026-09-05",
-        "status": "final",
-        "competition": "International Test Match",
-        "home": {
-          "name": "South Africa",
-          "teamCode": "RSA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb612"
-          }
-        },
-        "away": {
-          "name": "New Zealand",
-          "teamCode": "NZL",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          }
-        },
-        "homeScore": 29,
-        "awayScore": 24,
-        "venue": "FNB Stadium",
-        "city": "Johannesburg"
-      },
-      {
-        "date": "2026-09-05",
-        "status": "final",
-        "competition": "International Test Match",
-        "home": {
-          "name": "Argentina",
-          "teamCode": "ARG",
-          "colors": {
-            "primary": "#75aadb",
-            "secondary": "#f6b40e"
-          }
-        },
-        "away": {
-          "name": "Australia",
-          "teamCode": "AUS",
-          "colors": {
-            "primary": "#ffcd00",
-            "secondary": "#00843d"
-          }
-        },
-        "homeScore": 28,
-        "awayScore": 28,
-        "venue": "Estadio Malvinas Argentinas",
-        "city": "Mendoza"
-      },
-      {
-        "date": "2026-09-05",
-        "status": "final",
-        "competition": "International Test Match",
-        "home": {
-          "name": "Japan",
-          "teamCode": "JPN",
-          "colors": {
-            "primary": "#bc002d",
-            "secondary": "#ffffff"
-          }
-        },
-        "away": {
-          "name": "Canada",
-          "teamCode": "C",
-          "colors": {
-            "primary": "#8a8178",
-            "secondary": "#dedad6"
-          }
-        },
-        "homeScore": 57,
-        "awayScore": 12,
-        "venue": "Denka Big Swan Stadium",
-        "city": ""
       }
     ],
     "upcoming": [

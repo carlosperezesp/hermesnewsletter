@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-09-29 23:46 UTC",
+  "UPDATED": "2026-09-30 00:37 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -25,6 +25,15 @@ window.GLORY_DATA = {
       "text": "Jorge Martín ganó el Austrian motorcycle Grand Prix",
       "weight": 100,
       "firstSeen": "2026-09-20"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.teams:new1:Florida Panthers",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-dinastias",
+      "text": "Florida Panthers es nuevo nº1 · dinastías",
+      "weight": 92,
+      "firstSeen": "2026-09-30"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Macklin Celebrini",
@@ -240,12 +249,12 @@ window.GLORY_DATA = {
       "Connor Bedard"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
-      "Vegas Golden Knights",
-      "Colorado Avalanche",
       "Florida Panthers",
+      "Vegas Golden Knights",
+      "Carolina Hurricanes",
+      "Colorado Avalanche",
       "St. Louis Blues",
       "Edmonton Oilers",
-      "Carolina Hurricanes",
       "Dallas Stars",
       "Boston Bruins",
       "New York Rangers",

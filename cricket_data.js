@@ -1,15 +1,15 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-09-29 23:46 UTC",
+  "UPDATED": "2026-09-30 00:37 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1608,
+    "matches": 1606,
     "archives": [
       {
         "name": "Tests",
-        "matches": 81
+        "matches": 80
       },
       {
         "name": "ODIs",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 72
+        "matches": 71
       },
       {
         "name": "MLC",
@@ -642,24 +642,6 @@ window.CRICKET_DATA = {
           "wickets": 7
         },
         {
-          "id": "mj-santner",
-          "name": "MJ Santner",
-          "role": "Bowler",
-          "country": "New Zealand",
-          "teamCode": "NZ",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          },
-          "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 76.0,
-          "batting": 30.8,
-          "bowling": 47.3,
-          "overall": 76.0,
-          "runs": 923,
-          "wickets": 76
-        },
-        {
           "id": "ba-carse",
           "name": "BA Carse",
           "role": "Bowler",
@@ -676,6 +658,24 @@ window.CRICKET_DATA = {
           "overall": 72.6,
           "runs": 420,
           "wickets": 73
+        },
+        {
+          "id": "mj-santner",
+          "name": "MJ Santner",
+          "role": "Bowler",
+          "country": "New Zealand",
+          "teamCode": "NZ",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          },
+          "logo": "https://flagcdn.com/24x18/nz.png",
+          "score": 72.6,
+          "batting": 25.3,
+          "bowling": 52.5,
+          "overall": 72.6,
+          "runs": 827,
+          "wickets": 76
         }
       ],
       "batting": [
@@ -1738,24 +1738,6 @@ window.CRICKET_DATA = {
           "wickets": 77
         },
         {
-          "id": "mj-santner",
-          "name": "MJ Santner",
-          "role": "Bowler",
-          "country": "New Zealand",
-          "teamCode": "NZ",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          },
-          "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 77.7,
-          "batting": 28.4,
-          "bowling": 57.5,
-          "overall": 77.7,
-          "runs": 923,
-          "wickets": 76
-        },
-        {
           "id": "md-fisher",
           "name": "MD Fisher",
           "role": "All-rounder",
@@ -1772,6 +1754,24 @@ window.CRICKET_DATA = {
           "overall": 77.5,
           "runs": 50,
           "wickets": 5
+        },
+        {
+          "id": "mj-santner",
+          "name": "MJ Santner",
+          "role": "Bowler",
+          "country": "New Zealand",
+          "teamCode": "NZ",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          },
+          "logo": "https://flagcdn.com/24x18/nz.png",
+          "score": 76.5,
+          "batting": 27.5,
+          "bowling": 57.6,
+          "overall": 76.5,
+          "runs": 827,
+          "wickets": 76
         }
       ],
       "batting": [
@@ -2250,24 +2250,6 @@ window.CRICKET_DATA = {
           "wickets": 61
         },
         {
-          "id": "mj-santner",
-          "name": "MJ Santner",
-          "role": "Bowler",
-          "country": "New Zealand",
-          "teamCode": "NZ",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          },
-          "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 82.0,
-          "batting": 26.1,
-          "bowling": 57.7,
-          "overall": 82.0,
-          "runs": 923,
-          "wickets": 76
-        },
-        {
           "id": "virandeep-singh",
           "name": "Virandeep Singh",
           "role": "All-rounder",
@@ -2284,6 +2266,24 @@ window.CRICKET_DATA = {
           "overall": 82.0,
           "runs": 923,
           "wickets": 52
+        },
+        {
+          "id": "mj-santner",
+          "name": "MJ Santner",
+          "role": "Bowler",
+          "country": "New Zealand",
+          "teamCode": "NZ",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          },
+          "logo": "https://flagcdn.com/24x18/nz.png",
+          "score": 80.9,
+          "batting": 25.4,
+          "bowling": 57.7,
+          "overall": 80.9,
+          "runs": 827,
+          "wickets": 76
         },
         {
           "id": "ma-starc",

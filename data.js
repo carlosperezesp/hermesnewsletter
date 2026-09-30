@@ -3,6 +3,50 @@
 window.NHL_DATA = {
   "TEAMS": [
     {
+      "code": "FLA",
+      "city": "Florida Panthers",
+      "shortName": "Florida",
+      "commonName": "Panthers",
+      "conf": "E",
+      "div": "Atlantic",
+      "gp": 1,
+      "w": 1,
+      "l": 0,
+      "ot": 0,
+      "pts": 2,
+      "gf": 1,
+      "ga": 0,
+      "gd": 1,
+      "score": 50,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      }
+    },
+    {
+      "code": "CAR",
+      "city": "Carolina Hurricanes",
+      "shortName": "Carolina",
+      "commonName": "Hurricanes",
+      "conf": "E",
+      "div": "Metro",
+      "gp": 1,
+      "w": 0,
+      "l": 0,
+      "ot": 1,
+      "pts": 1,
+      "gf": 0,
+      "ga": 1,
+      "gd": -1,
+      "score": 25,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+      "colors": {
+        "primary": "#cc0000",
+        "secondary": "#111111"
+      }
+    },
+    {
       "code": "ANA",
       "city": "Anaheim Ducks",
       "shortName": "Anaheim",
@@ -88,28 +132,6 @@ window.NHL_DATA = {
       "colors": {
         "primary": "#c8102e",
         "secondary": "#f1be48"
-      }
-    },
-    {
-      "code": "CAR",
-      "city": "Carolina Hurricanes",
-      "shortName": "Carolina",
-      "commonName": "Hurricanes",
-      "conf": "E",
-      "div": "Metro",
-      "gp": 0,
-      "w": 0,
-      "l": 0,
-      "ot": 0,
-      "pts": 0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "score": 0,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
-      "colors": {
-        "primary": "#cc0000",
-        "secondary": "#111111"
       }
     },
     {
@@ -242,28 +264,6 @@ window.NHL_DATA = {
       "colors": {
         "primary": "#041e42",
         "secondary": "#ff4c00"
-      }
-    },
-    {
-      "code": "FLA",
-      "city": "Florida Panthers",
-      "shortName": "Florida",
-      "commonName": "Panthers",
-      "conf": "E",
-      "div": "Atlantic",
-      "gp": 0,
-      "w": 0,
-      "l": 0,
-      "ot": 0,
-      "pts": 0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "score": 0,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
       }
     },
     {
@@ -5280,6 +5280,22 @@ window.NHL_DATA = {
     ],
     "teams": [
       {
+        "teamCode": "FLA",
+        "city": "Florida Panthers",
+        "era": "2022–present",
+        "cups": 1,
+        "dynastyScore": 52.5,
+        "threshold": 89.7,
+        "gap": 37.2,
+        "note": "2024 Cup · 2022–present contender",
+        "needs": "2–3 more Cups + another dominant era",
+        "colors": {
+          "primary": "#041e42",
+          "secondary": "#c8102e"
+        },
+        "prevRank": 3
+      },
+      {
         "teamCode": "VGK",
         "city": "Vegas Golden Knights",
         "era": "2018–present",
@@ -5296,6 +5312,22 @@ window.NHL_DATA = {
         "prevRank": 1
       },
       {
+        "teamCode": "CAR",
+        "city": "Carolina Hurricanes",
+        "era": "2019–present",
+        "cups": 0,
+        "dynastyScore": 25.8,
+        "threshold": 89.7,
+        "gap": 63.9,
+        "note": "6 straight playoff runs · no Cup yet",
+        "needs": "Needs at least one Cup + years of dominance",
+        "colors": {
+          "primary": "#cc0000",
+          "secondary": "#111111"
+        },
+        "prevRank": 6
+      },
+      {
         "teamCode": "COL",
         "city": "Colorado Avalanche",
         "era": "2020–present",
@@ -5310,22 +5342,6 @@ window.NHL_DATA = {
           "secondary": "#236192"
         },
         "prevRank": 2
-      },
-      {
-        "teamCode": "FLA",
-        "city": "Florida Panthers",
-        "era": "2022–present",
-        "cups": 1,
-        "dynastyScore": 25.0,
-        "threshold": 89.7,
-        "gap": 64.7,
-        "note": "2024 Cup · 2022–present contender",
-        "needs": "2–3 more Cups + another dominant era",
-        "colors": {
-          "primary": "#041e42",
-          "secondary": "#c8102e"
-        },
-        "prevRank": 3
       },
       {
         "teamCode": "STL",
@@ -5358,22 +5374,6 @@ window.NHL_DATA = {
           "secondary": "#ff4c00"
         },
         "prevRank": 5
-      },
-      {
-        "teamCode": "CAR",
-        "city": "Carolina Hurricanes",
-        "era": "2019–present",
-        "cups": 0,
-        "dynastyScore": 12.0,
-        "threshold": 89.7,
-        "gap": 77.7,
-        "note": "6 straight playoff runs · no Cup yet",
-        "needs": "Needs at least one Cup + years of dominance",
-        "colors": {
-          "primary": "#cc0000",
-          "secondary": "#111111"
-        },
-        "prevRank": 6
       },
       {
         "teamCode": "DAL",
@@ -5487,10 +5487,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 3.0,
-  "LAST_UPDATE": "2026-09-29 23:44 UTC",
+  "LAST_UPDATE": "2026-09-30 00:34 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-09-29T23:43:30Z"
+    "standingsDateTimeUtc": "2026-09-30T00:34:00Z"
   }
 };
