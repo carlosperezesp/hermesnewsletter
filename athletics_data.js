@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-30 18:08 UTC
+// Auto-generated 2026-09-30 18:34 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-09-30 18:08 UTC",
+  "UPDATED": "2026-09-30 18:34 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -5352,108 +5352,7 @@ window.ATHLETICS_DATA = {
               "year": 2015
             }
           ],
-          "season": [
-            {
-              "rank": 1,
-              "mark": "18.15",
-              "athlete": "Andy D&#205;az Hern&#193;ndez",
-              "country": "ITA",
-              "flag": "https://flagcdn.com/24x18/it.png",
-              "primary": "#009246",
-              "venue": "Alexander Stadium",
-              "date": "15 AUG 2026"
-            },
-            {
-              "rank": 2,
-              "mark": "17.76",
-              "athlete": "Pedro Pichardo",
-              "country": "POR",
-              "flag": "https://flagcdn.com/24x18/pt.png",
-              "primary": "#006600",
-              "venue": "Alexander Stadium",
-              "date": "15 AUG 2026"
-            },
-            {
-              "rank": 3,
-              "mark": "17.69",
-              "athlete": "Jordan Scott",
-              "country": "JAM",
-              "flag": "https://flagcdn.com/24x18/jm.png",
-              "primary": "#000000",
-              "venue": "Suhaim bin Hamad Stadium",
-              "date": "19 JUN 2026"
-            },
-            {
-              "rank": 4,
-              "mark": "17.67",
-              "athlete": "Yasser Mohammed Triki",
-              "country": "ALG",
-              "flag": "https://flagcdn.com/24x18/dz.png",
-              "primary": "#006233",
-              "venue": "Suhaim bin Hamad Stadium",
-              "date": "19 JUN 2026"
-            },
-            {
-              "rank": 5,
-              "mark": "17.54",
-              "athlete": "Russell Robinson",
-              "country": "USA",
-              "flag": "https://flagcdn.com/24x18/us.png",
-              "primary": "#B22234",
-              "venue": "Billy J. Murphy Track and Field Complex",
-              "date": "10 JUL 2026"
-            },
-            {
-              "rank": 6,
-              "mark": "17.42",
-              "athlete": "Andrea Dallavalle",
-              "country": "ITA",
-              "flag": "https://flagcdn.com/24x18/it.png",
-              "primary": "#009246",
-              "venue": "Estadio Vallehermoso",
-              "date": "16 JUL 2026"
-            },
-            {
-              "rank": 7,
-              "mark": "17.42",
-              "athlete": "Wen Su",
-              "country": "CHN",
-              "flag": "https://flagcdn.com/24x18/cn.png",
-              "primary": "#DE2910",
-              "venue": "Municipal Mizuho Stadium",
-              "date": "26 SEP 2026"
-            },
-            {
-              "rank": 8,
-              "mark": "17.34",
-              "athlete": "Andy Hechavarr&#205;a",
-              "country": "CUB",
-              "flag": "https://flagcdn.com/24x18/cu.png",
-              "primary": "#002A8F",
-              "venue": "Estadio Panamericano",
-              "date": "13 MAR 2026"
-            },
-            {
-              "rank": 9,
-              "mark": "17.33",
-              "athlete": "L&#225;zaro Mart&#205;nez",
-              "country": "CUB",
-              "flag": "https://flagcdn.com/24x18/cu.png",
-              "primary": "#002A8F",
-              "venue": "Bislett Stadion",
-              "date": "10 JUN 2026"
-            },
-            {
-              "rank": 10,
-              "mark": "17.32",
-              "athlete": "Simone Biasutti",
-              "country": "ITA",
-              "flag": "https://flagcdn.com/24x18/it.png",
-              "primary": "#009246",
-              "venue": "Stadio Luigi Ridolfi",
-              "date": "25 JUL 2026"
-            }
-          ]
+          "season": []
         },
         {
           "id": "tj_w",
