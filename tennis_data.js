@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-30 12:49 UTC
+// Auto-generated 2026-09-30 18:09 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-30 12:49 UTC",
+  "UPDATED": "2026-09-30 18:09 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -135,7 +135,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 86.9
@@ -1802,9 +1802,9 @@ window.TENNIS_DATA = {
       "prevListRank": 53,
       "tournamentStatus": {
         "tournament": "China Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 62.0
     },
@@ -4897,7 +4897,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -5183,10 +5183,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 22.2,
       "prevListRank": 1,
       "tournamentStatus": {
-        "tournament": "Jingshan Tennis Open · Adana Open · China Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "China Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 100.0
     },
@@ -6441,10 +6441,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 38,
       "tournamentStatus": {
-        "tournament": "Jingshan Tennis Open · Adana Open · China Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "China Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 65.3
     },
@@ -7294,9 +7294,9 @@ window.TENNIS_DATA = {
       "prevListRank": 63,
       "tournamentStatus": {
         "tournament": "China Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 58.4
     },
@@ -7671,7 +7671,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Adana Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 57.0
@@ -7773,7 +7773,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 56.4
@@ -8215,7 +8215,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Adana Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 51.7
@@ -8627,7 +8627,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 49.2
@@ -9497,7 +9497,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Adana Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 40.3
@@ -10996,7 +10996,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nuno Borges",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 7-6 (7-2)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 87.0,
@@ -11362,15 +11362,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Dalma Galfi",
+          "w": "Teodora Kostovic",
           "w_logo": "",
-          "l": "Teodora Kostovic",
+          "l": "Dalma Galfi",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 7-6 (7-1) 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 40.1,
-          "l_score": 51.7,
+          "w_score": 51.7,
+          "l_score": 40.1,
           "match_score": 51.7
         },
         {
@@ -11414,15 +11414,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Leolia Jeanjean",
+          "w": "Melisa Ercan",
           "w_logo": "",
-          "l": "Melisa Ercan",
+          "l": "Leolia Jeanjean",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 39.3,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 39.3,
           "match_score": 39.3
         },
         {
@@ -11431,7 +11431,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Fiona Crawley",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 2-6 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11551,15 +11551,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Anna Bondar",
+          "w": "Renata Zarazua",
           "w_logo": "",
-          "l": "Renata Zarazua",
+          "l": "Anna Bondar",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-6 (7-4) 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 58.9,
-          "l_score": 48.8,
+          "scheduled": false,
+          "w_score": 48.8,
+          "l_score": 58.9,
           "match_score": 58.9
         }
       ]
@@ -11624,7 +11624,6 @@ window.TENNIS_DATA = {
       "Matteo Arnaldi",
       "Matteo Berrettini",
       "Novak Djokovic",
-      "Nuno Borges",
       "Pablo Carreno Busta",
       "Quentin Halys",
       "Rafael Jodar",
@@ -11645,13 +11644,14 @@ window.TENNIS_DATA = {
       "Felix Auger-Aliassime",
       "Juan Manuel Cerundolo",
       "Luca Van Assche",
+      "Nuno Borges",
       "Rei Sakamoto",
       "Thiago Agustin Tirante",
       "Tommy Paul",
       "Zhang Zhizhen"
     ],
-    "aliveCount": 56,
-    "matchesSeen": 32
+    "aliveCount": 55,
+    "matchesSeen": 33
   },
   "WTA_TOURNAMENT": {
     "name": "Jingshan Tennis Open · Adana Open · China Open",
@@ -11686,9 +11686,9 @@ window.TENNIS_DATA = {
       "Anastasia Zakharova",
       "Andrea Lazaro Garcia",
       "Anna Blinkova",
-      "Anna Bondar",
       "Antonia Ruzic",
       "Aoi Ito",
+      "Aryna Sabalenka",
       "Ashlyn Krueger",
       "Cagla Buyukakcay",
       "Camila Osorio",
@@ -11703,7 +11703,6 @@ window.TENNIS_DATA = {
       "Ekaterina Alexandrova",
       "Elena Pridankina",
       "Elena-Gabriela Ruse",
-      "Elsa Jacquemot",
       "Emerson Jones",
       "Erika Andreeva",
       "Eva Lys",
@@ -11741,6 +11740,7 @@ window.TENNIS_DATA = {
       "Melisa Ercan",
       "Mirra Andreeva",
       "Naomi Osaka",
+      "Nikola Bartunkova",
       "Panna Udvardy",
       "Paula Badosa",
       "Peyton Stearns",
@@ -11778,6 +11778,7 @@ window.TENNIS_DATA = {
       "Anastasia Gasanova",
       "Anastasia Tikhonova",
       "Anhelina Kalinina",
+      "Anna Bondar",
       "Anna Siskova",
       "Ayla Aksu",
       "Bai Zhuoxuan",
@@ -11789,6 +11790,7 @@ window.TENNIS_DATA = {
       "Darya Khamutsianskaya",
       "Elena Micic",
       "Elena Ruxandra Bertea",
+      "Elsa Jacquemot",
       "Elvina Kalieva",
       "Emiliana Arango",
       "Haruka Kaji",
@@ -11822,7 +11824,7 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez"
     ],
     "aliveCount": 96,
-    "matchesSeen": 96
+    "matchesSeen": 100
   },
   "ATP_SCORE_LOG": {
     "206173": [
