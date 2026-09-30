@@ -1,6 +1,6 @@
-// Auto-generated 2026-09-30 11:13 UTC
+// Auto-generated 2026-09-30 12:49 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-09-30 11:13 UTC",
+  "UPDATED": "2026-09-30 12:49 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5112,9 +5112,9 @@ window.TENNIS_DATA = {
       "prevListRank": 149,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 35.0
     },
@@ -8593,7 +8593,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Adana Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 49.7
@@ -10972,15 +10972,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Rei Sakamoto",
+          "w": "Matteo Arnaldi",
           "w_logo": "",
-          "l": "Matteo Arnaldi",
+          "l": "Rei Sakamoto",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "2-6 6-4 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 35.0,
-          "l_score": 64.9,
+          "w_score": 64.9,
+          "l_score": 35.0,
           "match_score": 64.9
         }
       ]
@@ -10996,9 +10996,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nuno Borges",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 87.0,
           "l_score": 61.9,
           "match_score": 87.0
@@ -11048,7 +11048,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Zhang Zhizhen",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 59.7,
@@ -11362,15 +11362,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Teodora Kostovic",
+          "w": "Dalma Galfi",
           "w_logo": "",
-          "l": "Dalma Galfi",
+          "l": "Teodora Kostovic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 51.7,
-          "l_score": 40.1,
+          "scheduled": false,
+          "w_score": 40.1,
+          "l_score": 51.7,
           "match_score": 51.7
         },
         {
@@ -11379,7 +11379,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Viktoria Hruncakova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-0",
           "day": "hoy",
           "scheduled": false,
           "w_score": 49.3,
@@ -11628,7 +11628,6 @@ window.TENNIS_DATA = {
       "Pablo Carreno Busta",
       "Quentin Halys",
       "Rafael Jodar",
-      "Rei Sakamoto",
       "Roman Safiullin",
       "Sebastian Baez",
       "Shang Juncheng",
@@ -11639,7 +11638,6 @@ window.TENNIS_DATA = {
       "Tomas Martin Etcheverry",
       "Ugo Humbert",
       "Valentin Vacherot",
-      "Zhang Zhizhen",
       "Zizou Bergs"
     ],
     "out": [
@@ -11647,10 +11645,12 @@ window.TENNIS_DATA = {
       "Felix Auger-Aliassime",
       "Juan Manuel Cerundolo",
       "Luca Van Assche",
+      "Rei Sakamoto",
       "Thiago Agustin Tirante",
-      "Tommy Paul"
+      "Tommy Paul",
+      "Zhang Zhizhen"
     ],
-    "aliveCount": 58,
+    "aliveCount": 56,
     "matchesSeen": 32
   },
   "WTA_TOURNAMENT": {
@@ -11822,7 +11822,7 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez"
     ],
     "aliveCount": 96,
-    "matchesSeen": 95
+    "matchesSeen": 96
   },
   "ATP_SCORE_LOG": {
     "206173": [
