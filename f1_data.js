@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-01 18:34 UTC
+// Auto-generated 2026-10-01 19:01 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-10-01 18:34 UTC",
+  "UPDATED": "2026-10-01 19:01 UTC",
   "SEASON": "2026",
   "ROUND": 14,
   "TOTAL_ROUNDS": 25,
@@ -29,7 +29,7 @@ window.F1_DATA = {
         "pts": 302.0,
         "wins": 0
       },
-      "prevRank": null,
+      "prevRank": 1,
       "age": 20
     },
     {
@@ -54,7 +54,7 @@ window.F1_DATA = {
         "pts": 236.0,
         "wins": 0
       },
-      "prevRank": null,
+      "prevRank": 2,
       "age": 28
     },
     {
@@ -79,7 +79,7 @@ window.F1_DATA = {
         "pts": 199.0,
         "wins": 0
       },
-      "prevRank": null,
+      "prevRank": 3,
       "age": 41
     },
     {
@@ -104,7 +104,7 @@ window.F1_DATA = {
         "pts": 186.0,
         "wins": 0
       },
-      "prevRank": null,
+      "prevRank": 4,
       "age": 27
     },
     {
@@ -129,7 +129,7 @@ window.F1_DATA = {
         "pts": 179.0,
         "wins": 0
       },
-      "prevRank": null,
+      "prevRank": 5,
       "age": 29
     },
     {
@@ -154,7 +154,7 @@ window.F1_DATA = {
         "pts": 163.0,
         "wins": 0
       },
-      "prevRank": null,
+      "prevRank": 6,
       "age": 29
     },
     {
@@ -179,7 +179,7 @@ window.F1_DATA = {
         "pts": 120.0,
         "wins": 0
       },
-      "prevRank": null,
+      "prevRank": 7,
       "age": 25
     },
     {
@@ -204,7 +204,7 @@ window.F1_DATA = {
         "pts": 86.0,
         "wins": 0
       },
-      "prevRank": null,
+      "prevRank": 8,
       "age": 22
     },
     {
@@ -229,7 +229,7 @@ window.F1_DATA = {
         "pts": 59.0,
         "wins": 0
       },
-      "prevRank": null,
+      "prevRank": 9,
       "age": 24
     },
     {
@@ -254,7 +254,7 @@ window.F1_DATA = {
         "pts": 41.0,
         "wins": 0
       },
-      "prevRank": null,
+      "prevRank": 10,
       "age": 30
     }
   ],
