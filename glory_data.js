@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-01 19:04 UTC",
+  "UPDATED": "2026-10-01 23:54 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Qatar Airways Azerbaijan Grand Prix:George Russell",
