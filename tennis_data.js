@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-01 13:33 UTC
+// Auto-generated 2026-10-01 18:36 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-01 13:33 UTC",
+  "UPDATED": "2026-10-01 18:36 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -678,9 +678,9 @@ window.TENNIS_DATA = {
       "prevListRank": 20,
       "tournamentStatus": {
         "tournament": "China Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 74.9
     },
@@ -747,7 +747,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 73.9
@@ -1563,7 +1563,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 63.2
@@ -5353,10 +5353,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 30.5,
       "prevListRank": 6,
       "tournamentStatus": {
-        "tournament": "Jingshan Tennis Open · Adana Open · China Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "China Open",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 90.4
     },
@@ -7976,9 +7976,9 @@ window.TENNIS_DATA = {
       "prevListRank": 83,
       "tournamentStatus": {
         "tournament": "China Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 54.7
     },
@@ -11191,7 +11191,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alexander Bublik",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 7-6 (7-5)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 63.4,
@@ -11737,7 +11737,6 @@ window.TENNIS_DATA = {
       "Alejandro Tabilo",
       "Alex Molcan",
       "Alex de Minaur",
-      "Alexander Bublik",
       "Alexander Zverev",
       "Andrey Rublev",
       "Arthur Fils",
@@ -11772,6 +11771,7 @@ window.TENNIS_DATA = {
       "Alejandro Davidovich Fokina",
       "Alex Michelsen",
       "Alexander Blockx",
+      "Alexander Bublik",
       "Arthur Fery",
       "Botic Van De Zandschulp",
       "Brandon Nakashima",
@@ -11800,8 +11800,8 @@ window.TENNIS_DATA = {
       "Zhang Zhizhen",
       "Zizou Bergs"
     ],
-    "aliveCount": 34,
-    "matchesSeen": 46
+    "aliveCount": 33,
+    "matchesSeen": 47
   },
   "WTA_TOURNAMENT": {
     "name": "Jingshan Tennis Open · Adana Open · China Open",
@@ -11864,6 +11864,7 @@ window.TENNIS_DATA = {
       "Fiona Ferro",
       "Gao Xinyu",
       "Harriet Dart",
+      "Iga Swiatek",
       "Iva Jovic",
       "Janice Tjen",
       "Jasmine Paolini",
@@ -11897,7 +11898,6 @@ window.TENNIS_DATA = {
       "Mirra Andreeva",
       "Naomi Osaka",
       "Nikola Bartunkova",
-      "Panna Udvardy",
       "Paula Badosa",
       "Peyton Stearns",
       "Polina Kudermetova",
@@ -11966,6 +11966,7 @@ window.TENNIS_DATA = {
       "Mei Yamaguchi",
       "Noma Noha Akugue",
       "Oleksandra Oliynykova",
+      "Panna Udvardy",
       "Polina Iatcenko",
       "Qu Yihan",
       "Rina Saigo",
@@ -11989,7 +11990,7 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez"
     ],
     "aliveCount": 96,
-    "matchesSeen": 119
+    "matchesSeen": 120
   },
   "ATP_SCORE_LOG": {
     "206173": [

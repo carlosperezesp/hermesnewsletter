@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-01 13:32 UTC
+// Auto-generated 2026-10-01 18:35 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-10-01 13:32 UTC",
+  "UPDATED": "2026-10-01 18:35 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -17,7 +17,88 @@ window.GOLF_DATA = {
     "endLabel": "19 Jul",
     "round": 0,
     "daysToStart": 0,
-    "leaderboard": [],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "name": "Ryan Fox",
+        "id": "4251",
+        "country": "New Zealand",
+        "score": "-10",
+        "today": "-2"
+      },
+      {
+        "rank": 2,
+        "name": "Cameron Young",
+        "id": "4425906",
+        "country": "USA",
+        "score": "-9",
+        "today": "-6"
+      },
+      {
+        "rank": 3,
+        "name": "Sam Burns",
+        "id": "9938",
+        "country": "USA",
+        "score": "-8",
+        "today": "+2"
+      },
+      {
+        "rank": 4,
+        "name": "Scottie Scheffler",
+        "id": "9478",
+        "country": "USA",
+        "score": "-7",
+        "today": "-3"
+      },
+      {
+        "rank": 5,
+        "name": "Tommy Fleetwood",
+        "id": "5539",
+        "country": "England",
+        "score": "-7",
+        "today": "-2"
+      },
+      {
+        "rank": 6,
+        "name": "Casey Jarvis",
+        "id": "4610056",
+        "country": "South Africa",
+        "score": "-6",
+        "today": "-4"
+      },
+      {
+        "rank": 7,
+        "name": "Lucas Herbert",
+        "id": "10343",
+        "country": "Australia",
+        "score": "-6",
+        "today": "+1"
+      },
+      {
+        "rank": 8,
+        "name": "Si Woo Kim",
+        "id": "7081",
+        "country": "South Korea",
+        "score": "-6",
+        "today": "+2"
+      },
+      {
+        "rank": 9,
+        "name": "Russell Henley",
+        "id": "5409",
+        "country": "USA",
+        "score": "-5",
+        "today": "-4"
+      },
+      {
+        "rank": 10,
+        "name": "Adam Scott",
+        "id": "388",
+        "country": "Australia",
+        "score": "-5",
+        "today": "-4"
+      }
+    ],
     "favorites": [
       "Scottie Scheffler",
       "Matt Fitzpatrick",
@@ -34,8 +115,68 @@ window.GOLF_DATA = {
     "tour": "Men",
     "end": "2026-07-19",
     "endLabel": "19 Jul 2026",
-    "champion": null,
-    "podium": []
+    "champion": {
+      "rank": 1,
+      "name": "Ryan Fox",
+      "id": "4251",
+      "country": "New Zealand",
+      "score": "-10",
+      "today": "-2",
+      "nivel": 75,
+      "legend": 5.7
+    },
+    "podium": [
+      {
+        "rank": 1,
+        "name": "Ryan Fox",
+        "id": "4251",
+        "country": "New Zealand",
+        "score": "-10",
+        "today": "-2",
+        "nivel": 75,
+        "legend": 5.7
+      },
+      {
+        "rank": 2,
+        "name": "Cameron Young",
+        "id": "4425906",
+        "country": "USA",
+        "score": "-9",
+        "today": "-6",
+        "nivel": 97,
+        "legend": 0.0
+      },
+      {
+        "rank": 3,
+        "name": "Sam Burns",
+        "id": "9938",
+        "country": "USA",
+        "score": "-8",
+        "today": "+2",
+        "nivel": 94,
+        "legend": 0.0
+      },
+      {
+        "rank": 4,
+        "name": "Scottie Scheffler",
+        "id": "9478",
+        "country": "USA",
+        "score": "-7",
+        "today": "-3",
+        "nivel": 100,
+        "legend": 22.9
+      },
+      {
+        "rank": 5,
+        "name": "Tommy Fleetwood",
+        "id": "5539",
+        "country": "England",
+        "score": "-7",
+        "today": "-2",
+        "nivel": 93,
+        "legend": 0.0
+      }
+    ]
   },
   "NEXT_BIG": {},
   "CURRENT": [

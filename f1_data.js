@@ -1,13 +1,361 @@
-// Auto-generated 2026-10-01 13:32 UTC
+// Auto-generated 2026-10-01 18:34 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-10-01 13:32 UTC",
+  "UPDATED": "2026-10-01 18:34 UTC",
   "SEASON": "2026",
-  "ROUND": 0,
-  "TOTAL_ROUNDS": 0,
-  "MAX_SEASON_PTS": 0,
-  "IMPORTANCE": 7.0,
-  "DRIVERS": [],
-  "PROSPECTS": [],
+  "ROUND": 14,
+  "TOTAL_ROUNDS": 25,
+  "MAX_SEASON_PTS": 625,
+  "IMPORTANCE": 10.0,
+  "DRIVERS": [
+    {
+      "position": 1,
+      "name": "Kimi Antonelli",
+      "nationality": "",
+      "country": "ITA",
+      "teamCode": "mercedes",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+      "primary": "#00D2BE",
+      "secondary": "#000000",
+      "colors": {
+        "primary": "#00D2BE",
+        "secondary": "#000000"
+      },
+      "team": "",
+      "points": 302.0,
+      "lastWeekendPoints": 10.0,
+      "wins": 0,
+      "score": 48.3,
+      "stats": {
+        "pts": 302.0,
+        "wins": 0
+      },
+      "prevRank": null,
+      "age": 20
+    },
+    {
+      "position": 2,
+      "name": "George Russell",
+      "nationality": "",
+      "country": "GBR",
+      "teamCode": "mercedes",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
+      "primary": "#00D2BE",
+      "secondary": "#000000",
+      "colors": {
+        "primary": "#00D2BE",
+        "secondary": "#000000"
+      },
+      "team": "",
+      "points": 236.0,
+      "lastWeekendPoints": 25.0,
+      "wins": 0,
+      "score": 37.8,
+      "stats": {
+        "pts": 236.0,
+        "wins": 0
+      },
+      "prevRank": null,
+      "age": 28
+    },
+    {
+      "position": 3,
+      "name": "Lewis Hamilton",
+      "nationality": "",
+      "country": "GBR",
+      "teamCode": "ferrari",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
+      "primary": "#DC0000",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#DC0000",
+        "secondary": "#FFFFFF"
+      },
+      "team": "",
+      "points": 199.0,
+      "lastWeekendPoints": 8.0,
+      "wins": 0,
+      "score": 31.8,
+      "stats": {
+        "pts": 199.0,
+        "wins": 0
+      },
+      "prevRank": null,
+      "age": 41
+    },
+    {
+      "position": 4,
+      "name": "Lando Norris",
+      "nationality": "",
+      "country": "GBR",
+      "teamCode": "mclaren",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
+      "primary": "#FF8700",
+      "secondary": "#000000",
+      "colors": {
+        "primary": "#FF8700",
+        "secondary": "#000000"
+      },
+      "team": "",
+      "points": 186.0,
+      "lastWeekendPoints": 0.0,
+      "wins": 0,
+      "score": 29.8,
+      "stats": {
+        "pts": 186.0,
+        "wins": 0
+      },
+      "prevRank": null,
+      "age": 27
+    },
+    {
+      "position": 5,
+      "name": "Charles Leclerc",
+      "nationality": "",
+      "country": "MON",
+      "teamCode": "ferrari",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mon.png",
+      "primary": "#DC0000",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#DC0000",
+        "secondary": "#FFFFFF"
+      },
+      "team": "",
+      "points": 179.0,
+      "lastWeekendPoints": 12.0,
+      "wins": 0,
+      "score": 28.6,
+      "stats": {
+        "pts": 179.0,
+        "wins": 0
+      },
+      "prevRank": null,
+      "age": 29
+    },
+    {
+      "position": 6,
+      "name": "Max Verstappen",
+      "nationality": "",
+      "country": "NED",
+      "teamCode": "red_bull",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+      "primary": "#00327D",
+      "secondary": "#CC1E4A",
+      "colors": {
+        "primary": "#00327D",
+        "secondary": "#CC1E4A"
+      },
+      "team": "",
+      "points": 163.0,
+      "lastWeekendPoints": 18.0,
+      "wins": 0,
+      "score": 26.1,
+      "stats": {
+        "pts": 163.0,
+        "wins": 0
+      },
+      "prevRank": null,
+      "age": 29
+    },
+    {
+      "position": 7,
+      "name": "Oscar Piastri",
+      "nationality": "",
+      "country": "AUS",
+      "teamCode": "mclaren",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+      "primary": "#FF8700",
+      "secondary": "#000000",
+      "colors": {
+        "primary": "#FF8700",
+        "secondary": "#000000"
+      },
+      "team": "",
+      "points": 120.0,
+      "lastWeekendPoints": 0.0,
+      "wins": 0,
+      "score": 19.2,
+      "stats": {
+        "pts": 120.0,
+        "wins": 0
+      },
+      "prevRank": null,
+      "age": 25
+    },
+    {
+      "position": 8,
+      "name": "Isack Hadjar",
+      "nationality": "",
+      "country": "FRA",
+      "teamCode": "rb",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#555555",
+        "secondary": "#FFFFFF"
+      },
+      "team": "",
+      "points": 86.0,
+      "lastWeekendPoints": 15.0,
+      "wins": 0,
+      "score": 13.8,
+      "stats": {
+        "pts": 86.0,
+        "wins": 0
+      },
+      "prevRank": null,
+      "age": 22
+    },
+    {
+      "position": 9,
+      "name": "Liam Lawson",
+      "nationality": "",
+      "country": "NZL",
+      "teamCode": "rb",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nzl.png",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#555555",
+        "secondary": "#FFFFFF"
+      },
+      "team": "",
+      "points": 59.0,
+      "lastWeekendPoints": 0.0,
+      "wins": 0,
+      "score": 9.4,
+      "stats": {
+        "pts": 59.0,
+        "wins": 0
+      },
+      "prevRank": null,
+      "age": 24
+    },
+    {
+      "position": 10,
+      "name": "Pierre Gasly",
+      "nationality": "",
+      "country": "FRA",
+      "teamCode": "alpine",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+      "primary": "#FFF500",
+      "secondary": "#FF0000",
+      "colors": {
+        "primary": "#FFF500",
+        "secondary": "#FF0000"
+      },
+      "team": "",
+      "points": 41.0,
+      "lastWeekendPoints": 0.0,
+      "wins": 0,
+      "score": 6.6,
+      "stats": {
+        "pts": 41.0,
+        "wins": 0
+      },
+      "prevRank": null,
+      "age": 30
+    }
+  ],
+  "PROSPECTS": [
+    {
+      "name": "Kimi Antonelli",
+      "country": "ITA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+      "primary": "#00D2BE",
+      "secondary": "#000000",
+      "colors": {
+        "primary": "#00D2BE",
+        "secondary": "#000000"
+      },
+      "team": "",
+      "score": 48.3,
+      "position": 1,
+      "age": 20,
+      "note": "Líder del campeonato a los 20"
+    },
+    {
+      "name": "Oscar Piastri",
+      "country": "AUS",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+      "primary": "#FF8700",
+      "secondary": "#000000",
+      "colors": {
+        "primary": "#FF8700",
+        "secondary": "#000000"
+      },
+      "team": "",
+      "score": 19.2,
+      "position": 7,
+      "age": 25,
+      "note": "Irrumpe a los 25 (P7)"
+    },
+    {
+      "name": "Isack Hadjar",
+      "country": "FRA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#555555",
+        "secondary": "#FFFFFF"
+      },
+      "team": "",
+      "score": 13.8,
+      "position": 8,
+      "age": 22,
+      "note": "Irrumpe a los 22 (P8)"
+    },
+    {
+      "name": "Liam Lawson",
+      "country": "NZL",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nzl.png",
+      "primary": "#555555",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#555555",
+        "secondary": "#FFFFFF"
+      },
+      "team": "",
+      "score": 9.4,
+      "position": 9,
+      "age": 24,
+      "note": "Irrumpe a los 24 (P9)"
+    },
+    {
+      "name": "Franco Colapinto",
+      "country": "ARG",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+      "primary": "#FFF500",
+      "secondary": "#FF0000",
+      "colors": {
+        "primary": "#FFF500",
+        "secondary": "#FF0000"
+      },
+      "team": "",
+      "score": 4.3,
+      "position": 12,
+      "age": 23,
+      "note": "Irrumpe a los 23 (P12)"
+    },
+    {
+      "name": "Oliver Bearman",
+      "country": "GBR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gbr.png",
+      "primary": "#5A5A5A",
+      "secondary": "#E8002D",
+      "colors": {
+        "primary": "#5A5A5A",
+        "secondary": "#E8002D"
+      },
+      "team": "",
+      "score": 3.2,
+      "position": 13,
+      "age": 21,
+      "note": "Irrumpe a los 21 (P13)"
+    }
+  ],
   "LEGEND_CHASE": [
     {
       "id": "lewis_hamilton",
@@ -164,9 +512,84 @@ window.F1_DATA = {
       "note": "A 28.9 del top 10 histórico · 0 títulos · 4 victorias"
     }
   ],
-  "CONSTRUCTORS": [],
-  "LAST_WEEKEND": null,
-  "LAST_RACE": null,
+  "CONSTRUCTORS": [
+    {
+      "position": 1,
+      "name": "Mercedes",
+      "id": "mercedes",
+      "primary": "#00D2BE",
+      "secondary": "#000000",
+      "points": 538.0
+    },
+    {
+      "position": 2,
+      "name": "Ferrari",
+      "id": "ferrari",
+      "primary": "#DC0000",
+      "secondary": "#FFFFFF",
+      "points": 378.0
+    },
+    {
+      "position": 3,
+      "name": "McLaren",
+      "id": "mclaren",
+      "primary": "#FF8700",
+      "secondary": "#000000",
+      "points": 306.0
+    },
+    {
+      "position": 4,
+      "name": "Red Bull",
+      "id": "red_bull",
+      "primary": "#00327D",
+      "secondary": "#CC1E4A",
+      "points": 263.0
+    },
+    {
+      "position": 5,
+      "name": "Racing Bulls",
+      "id": "racing_bulls",
+      "primary": "#6692FF",
+      "secondary": "#FFFFFF",
+      "points": 83.0
+    }
+  ],
+  "LAST_WEEKEND": {
+    "id": "600057444",
+    "name": "Qatar Airways Azerbaijan Grand Prix",
+    "label": "AZE",
+    "includesSprint": false
+  },
+  "LAST_RACE": {
+    "name": "Qatar Airways Azerbaijan Grand Prix",
+    "date": "2026-09-24",
+    "circuit": "Baku City Circuit",
+    "round": 0,
+    "state": "post",
+    "podium": [
+      {
+        "position": 1,
+        "name": "George Russell",
+        "team": "mercedes",
+        "time": "",
+        "primary": "#00D2BE"
+      },
+      {
+        "position": 2,
+        "name": "Max Verstappen",
+        "team": "red_bull",
+        "time": "",
+        "primary": "#3671C6"
+      },
+      {
+        "position": 3,
+        "name": "Charles Leclerc",
+        "team": "ferrari",
+        "time": "",
+        "primary": "#E8002D"
+      }
+    ]
+  },
   "LAST_SPRINT": null,
   "LEGENDS": [
     {

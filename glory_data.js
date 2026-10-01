@@ -1,7 +1,23 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-01 13:33 UTC",
+  "UPDATED": "2026-10-01 18:36 UTC",
   "EVENTS": [
+    {
+      "id": "f1:win:Qatar Airways Azerbaijan Grand Prix:George Russell",
+      "sport": "f1",
+      "detail": "F1",
+      "text": "George Russell ganó el Qatar Airways Azerbaijan Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
+      "sport": "indycar",
+      "detail": "IndyCar",
+      "text": "Scott McLaughlin ganó en Grand Prix of Monterey",
+      "weight": 100,
+      "firstSeen": "2026-10-01"
+    },
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
       "sport": "nascar",
@@ -25,6 +41,24 @@ window.GLORY_DATA = {
       "text": "Jorge Martín ganó el Austrian motorcycle Grand Prix",
       "weight": 100,
       "firstSeen": "2026-09-20"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:new1:Jared Goff",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Jared Goff es nuevo nº1 · Road to Glory",
+      "weight": 92,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:new1:Bryce Young",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-jovenes-promesas",
+      "text": "Bryce Young es nuevo nº1 · jóvenes promesas",
+      "weight": 92,
+      "firstSeen": "2026-10-01"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.teams:new1:Vegas Golden Knights",
@@ -70,6 +104,123 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-09-29"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Mookie Betts",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Mookie Betts entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Pete Crow-Armstrong",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Pete Crow-Armstrong entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:in:Cristopher Sanchez",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Cristopher Sanchez entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Elly De La Cruz",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-jovenes-promesas",
+      "text": "Elly De La Cruz entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Jackson Chourio",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-jovenes-promesas",
+      "text": "Jackson Chourio entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:Jackson Merrill",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-jovenes-promesas",
+      "text": "Jackson Merrill entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Kirk Cousins",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Kirk Cousins entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Brock Purdy",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Brock Purdy entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Geno Smith",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Geno Smith entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Tyler Shough",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Tyler Shough entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Joe Burrow",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Joe Burrow entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Bryce Young",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Bryce Young entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:in:Jayden Daniels",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-jovenes-promesas",
+      "text": "Jayden Daniels entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-01"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Evgeni Malkin",
@@ -214,6 +365,132 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-09-29"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:out:Juan Soto",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Juan Soto cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:out:CJ Abrams",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "CJ Abrams cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.players:out:Kyle Schwarber",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-road-to-glory",
+      "text": "Kyle Schwarber cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:out:James Wood",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-jovenes-promesas",
+      "text": "James Wood cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:out:Chase Burns",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-jovenes-promesas",
+      "text": "Chase Burns cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:out:Nick Kurtz",
+      "sport": "mlb",
+      "detail": "MLB",
+      "anchor": "mlb-jovenes-promesas",
+      "text": "Nick Kurtz cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:out:Baker Mayfield",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Baker Mayfield cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:out:Jalen Hurts",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Jalen Hurts cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:out:Josh Allen",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Josh Allen cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:out:Drake Maye",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Drake Maye cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:out:Sam Darnold",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Sam Darnold cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:out:Trevor Lawrence",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Trevor Lawrence cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:out:Drake Maye",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-jovenes-promesas",
+      "text": "Drake Maye cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:out:Jaxson Dart",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-jovenes-promesas",
+      "text": "Jaxson Dart cae del top-10 · jóvenes promesas",
+      "weight": 74,
+      "firstSeen": "2026-10-01"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Porter Martone",
@@ -427,12 +704,12 @@ window.GLORY_DATA = {
       "Oklahoma City Thunder",
       "Boston Celtics",
       "Denver Nuggets",
+      "Milwaukee Bucks",
+      "Golden State Warriors",
       "Los Angeles Lakers",
       "San Antonio Spurs",
       "New York Knicks",
-      "Golden State Warriors",
       "Minnesota Timberwolves",
-      "Milwaukee Bucks",
       "Indiana Pacers"
     ],
     "nba:ROAD_TO_GLORY.youngProspects": [
@@ -450,14 +727,14 @@ window.GLORY_DATA = {
     "mlb:ROAD_TO_GLORY.players": [
       "Shohei Ohtani",
       "Mike Trout",
+      "Mookie Betts",
       "Freddie Freeman",
       "Bryce Harper",
-      "Juan Soto",
       "Yordan Alvarez",
-      "Chris Sale",
       "Jacob Misiorowski",
-      "CJ Abrams",
-      "Kyle Schwarber"
+      "Pete Crow-Armstrong",
+      "Chris Sale",
+      "Cristopher Sanchez"
     ],
     "mlb:ROAD_TO_GLORY.teams": [
       "Los Angeles Dodgers",
@@ -465,43 +742,42 @@ window.GLORY_DATA = {
       "Atlanta Braves",
       "Texas Rangers",
       "New York Yankees",
-      "Philadelphia Phillies",
       "San Diego Padres",
+      "Philadelphia Phillies",
       "Baltimore Orioles",
       "Seattle Mariners",
       "New York Mets"
     ],
     "mlb:ROAD_TO_GLORY.youngProspects": [
       "Jacob Misiorowski",
-      "Sal Stewart",
-      "James Wood",
-      "CJ Abrams",
       "Pete Crow-Armstrong",
+      "Sal Stewart",
+      "Cam Schlittler",
       "Junior Caminero",
+      "CJ Abrams",
       "Jordan Walker",
-      "Chase Burns",
-      "Nick Kurtz",
-      "Cam Schlittler"
+      "Elly De La Cruz",
+      "Jackson Chourio",
+      "Jackson Merrill"
     ],
     "nfl:ROAD_TO_GLORY.players": [
-      "Matthew Stafford",
       "Jared Goff",
+      "Kirk Cousins",
       "Dak Prescott",
-      "Jacoby Brissett",
-      "Baker Mayfield",
-      "Jalen Hurts",
-      "Josh Allen",
-      "Drake Maye",
-      "Sam Darnold",
-      "Trevor Lawrence"
+      "Brock Purdy",
+      "Matthew Stafford",
+      "Geno Smith",
+      "Tyler Shough",
+      "Joe Burrow",
+      "Bryce Young",
+      "Jacoby Brissett"
     ],
     "nfl:ROAD_TO_GLORY.youngProspects": [
-      "Drake Maye",
-      "Caleb Williams",
+      "Bryce Young",
       "C.J. Stroud",
       "Cam Ward",
-      "Bryce Young",
-      "Jaxson Dart"
+      "Caleb Williams",
+      "Jayden Daniels"
     ],
     "tennis:ATP": [
       "Jannik Sinner",
@@ -641,10 +917,10 @@ window.GLORY_DATA = {
     ],
     "f1:DRIVERS": [
       "Kimi Antonelli",
-      "Lewis Hamilton",
       "George Russell",
-      "Charles Leclerc",
+      "Lewis Hamilton",
       "Lando Norris",
+      "Charles Leclerc",
       "Max Verstappen",
       "Oscar Piastri",
       "Isack Hadjar",
@@ -665,14 +941,14 @@ window.GLORY_DATA = {
     ],
     "indycar:DRIVERS": [
       "Álex Palou",
-      "David Malukas",
       "Kyle Kirkwood",
       "Christian Lundgaard",
       "Pato O'Ward",
-      "Josef Newgarden",
-      "Felix Rosenqvist",
+      "David Malukas",
       "Scott McLaughlin",
       "Marcus Ericsson",
+      "Josef Newgarden",
+      "Felix Rosenqvist",
       "Rinus VeeKay"
     ],
     "indycar:LEGENDS": [
