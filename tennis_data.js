@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-02 12:53 UTC
+// Auto-generated 2026-10-02 18:03 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-02 12:53 UTC",
+  "UPDATED": "2026-10-02 18:03 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -883,7 +883,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 69.8
@@ -1087,7 +1087,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 65.6
@@ -1973,7 +1973,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 59.3
@@ -4897,7 +4897,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -9391,7 +9391,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Adana Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 40.6
@@ -11178,7 +11178,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Bu Yunchaokete",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 7-6 (7-2) 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": 87.0,
@@ -11213,15 +11213,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Arthur Gea",
+          "w": "Hubert Hurkacz",
           "w_logo": "",
-          "l": "Hubert Hurkacz",
+          "l": "Arthur Gea",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-5) 6-7 (5-7) 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 59.7,
-          "l_score": 66.4,
+          "w_score": 66.4,
+          "l_score": 59.7,
           "match_score": 66.4
         }
       ]
@@ -11499,15 +11499,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Quarterfinal",
-          "w": "Lucrezia Stefanini",
+          "w": "Leolia Jeanjean",
           "w_logo": "",
-          "l": "Leolia Jeanjean",
+          "l": "Lucrezia Stefanini",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 1-6 6-1",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 40.4,
-          "l_score": 39.3,
+          "w_score": 39.3,
+          "l_score": 40.4,
           "match_score": 40.4
         },
         {
@@ -11516,7 +11516,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Elena Pridankina",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "1-6 6-1 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11723,7 +11723,7 @@ window.TENNIS_DATA = {
       "Zizou Bergs"
     ],
     "aliveCount": 32,
-    "matchesSeen": 50
+    "matchesSeen": 51
   },
   "WTA_TOURNAMENT": {
     "name": "Jingshan Tennis Open · Adana Open · China Open · Suzhou Open",
@@ -11917,7 +11917,7 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez"
     ],
     "aliveCount": 90,
-    "matchesSeen": 130
+    "matchesSeen": 131
   },
   "ATP_SCORE_LOG": {
     "206173": [

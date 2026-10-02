@@ -1473,7 +1473,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 2,
         "w": 1,
-        "svpct": 0.936,
+        "svpct": 0.935,
         "gaa": 1.51,
         "so": 0
       },
@@ -7901,39 +7901,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8477404,
-      "first": "Jake",
-      "last": "Guentzel",
-      "name": "Jake Guentzel",
-      "pos": "C",
-      "teamCode": "TBL",
-      "age": 31,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#002868",
-        "secondary": "#ffffff"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8477404.png",
-      "score": 44,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 0,
-        "p": 0,
-        "pm": -1,
-        "toi": 24.0,
-        "shots": 4
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        44
-      ]
-    },
-    {
       "id": 8477505,
       "first": "Alexander",
       "last": "Wennberg",
@@ -8027,6 +7994,39 @@ window.NHL_DATA = {
         54,
         57,
         60,
+        43
+      ]
+    },
+    {
+      "id": 8477404,
+      "first": "Jake",
+      "last": "Guentzel",
+      "name": "Jake Guentzel",
+      "pos": "C",
+      "teamCode": "TBL",
+      "age": 31,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#002868",
+        "secondary": "#ffffff"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8477404.png",
+      "score": 43,
+      "stats": {
+        "gp": 1,
+        "g": 0,
+        "a": 0,
+        "p": 0,
+        "pm": -1,
+        "toi": 24.0,
+        "shots": 3
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
         43
       ]
     },
@@ -15031,9 +15031,9 @@ window.NHL_DATA = {
       "name": "Ryan Ufko",
       "pos": "D",
       "teamCode": "NSH",
-      "age": 23,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#ffb81c",
         "secondary": "#041e42"
@@ -26225,10 +26225,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-02 12:50 UTC",
+  "LAST_UPDATE": "2026-10-02 18:01 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-02T12:50:30Z"
+    "standingsDateTimeUtc": "2026-10-02T18:01:00Z"
   }
 };
