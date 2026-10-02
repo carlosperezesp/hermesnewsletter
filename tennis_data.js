@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-02 18:03 UTC
+// Auto-generated 2026-10-02 18:42 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-02 18:03 UTC",
+  "UPDATED": "2026-10-02 18:42 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11486,15 +11486,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Antonia Ruzic",
+          "w": "Teodora Kostovic",
           "w_logo": "",
-          "l": "Teodora Kostovic",
+          "l": "Antonia Ruzic",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 56.5,
-          "l_score": 51.7,
+          "scheduled": false,
+          "w_score": 51.7,
+          "l_score": 56.5,
           "match_score": 56.5
         },
         {
