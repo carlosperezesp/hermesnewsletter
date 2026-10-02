@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-02 00:57 UTC",
+  "UPDATED": "2026-10-02 11:09 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Qatar Airways Azerbaijan Grand Prix:George Russell",
@@ -43,6 +43,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-20"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Macklin Celebrini",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Macklin Celebrini es nuevo nº1 · jóvenes promesas",
+      "weight": 92,
+      "firstSeen": "2026-10-02"
+    },
+    {
       "id": "rank:nfl:ROAD_TO_GLORY.players:new1:Jared Goff",
       "sport": "nfl",
       "detail": "NFL",
@@ -66,15 +75,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-dinastias",
       "text": "Vegas Golden Knights es nuevo nº1 · dinastías",
-      "weight": 92,
-      "firstSeen": "2026-09-30"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:new1:Vasily Podkolzin",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Vasily Podkolzin es nuevo nº1 · jóvenes promesas",
       "weight": 92,
       "firstSeen": "2026-09-30"
     },
@@ -104,6 +104,105 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-09-29"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Jack Eichel",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Jack Eichel entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-02"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Brock Nelson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Brock Nelson entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-02"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Jaden Schwartz",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Jaden Schwartz entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-02"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Clayton Keller",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Clayton Keller entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-02"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Will Smith",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Will Smith entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-02"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Matthew Knies",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Matthew Knies entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-02"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Dylan Guenther",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Dylan Guenther entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-02"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Noah Ostlund",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Noah Ostlund entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-02"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Matty Beniers",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Matty Beniers entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-02"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Luca Cagnoni",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Luca Cagnoni entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-02"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Deshaun Watson",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Deshaun Watson entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-02"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:JC Archer",
@@ -232,24 +331,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-01"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Evgeni Malkin",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Evgeni Malkin entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-01"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Artemi Panarin",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Artemi Panarin entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-01"
-    },
-    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Nazem Kadri",
       "sport": "nhl",
       "detail": "NHL",
@@ -268,92 +349,11 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-01"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Hendrix Lapierre",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Hendrix Lapierre entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-01"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Alex Laferriere",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Alex Laferriere entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-01"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Egor Chinakhov",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Egor Chinakhov entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-01"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Patrick Kane",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Patrick Kane entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-09-30"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Mark Stone",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Mark Stone entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-09-30"
-    },
-    {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Fraser Minten",
       "sport": "nhl",
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
       "text": "Fraser Minten entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-09-30"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Trevor Connelly",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Trevor Connelly entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-09-30"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Easton Cowan",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Easton Cowan entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-09-30"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Jonathan Lekkerimäki",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Jonathan Lekkerimäki entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-09-30"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Liam Ohgren",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Liam Ohgren entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-09-30"
     },
@@ -374,6 +374,15 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-09-29"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:out:Jacoby Brissett",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Jacoby Brissett cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-02"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:Mohammed Siraj",
@@ -674,37 +683,37 @@ window.GLORY_DATA = {
       "Nikita Kucherov",
       "Nathan MacKinnon",
       "Connor McDavid",
-      "Evgeni Malkin",
-      "Patrick Kane",
       "Leon Draisaitl",
-      "Artemi Panarin",
-      "Mark Stone",
       "Nazem Kadri",
-      "Cale Makar"
+      "Cale Makar",
+      "Jack Eichel",
+      "Brock Nelson",
+      "Jaden Schwartz",
+      "Clayton Keller"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
       "Colorado Avalanche",
       "Florida Panthers",
       "Boston Bruins",
+      "Minnesota Wild",
       "Edmonton Oilers",
+      "New York Rangers",
       "Carolina Hurricanes",
       "St. Louis Blues",
-      "New York Rangers",
-      "Dallas Stars",
-      "Minnesota Wild"
+      "Dallas Stars"
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
-      "Vasily Podkolzin",
+      "Macklin Celebrini",
+      "Will Smith",
+      "Matthew Knies",
       "Fraser Minten",
+      "Dylan Guenther",
+      "Noah Ostlund",
       "Nick Robertson",
-      "Hendrix Lapierre",
-      "Alex Laferriere",
-      "Easton Cowan",
-      "Trevor Connelly",
-      "Jonathan Lekkerimäki",
-      "Liam Ohgren",
-      "Egor Chinakhov"
+      "Vasily Podkolzin",
+      "Matty Beniers",
+      "Luca Cagnoni"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "LeBron James",
@@ -786,9 +795,9 @@ window.GLORY_DATA = {
       "Matthew Stafford",
       "Geno Smith",
       "Tyler Shough",
+      "Deshaun Watson",
       "Joe Burrow",
-      "Bryce Young",
-      "Jacoby Brissett"
+      "Bryce Young"
     ],
     "nfl:ROAD_TO_GLORY.youngProspects": [
       "Bryce Young",

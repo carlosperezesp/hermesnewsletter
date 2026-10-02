@@ -118,6 +118,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "CLE",
+      "city": "Cleveland Browns",
+      "shortName": "Cleveland",
+      "commonName": "Browns",
+      "conf": "AFC",
+      "div": "AFC North",
+      "gp": 4,
+      "w": 3,
+      "l": 1,
+      "t": 0,
+      "winPct": 0.75,
+      "pf": 81,
+      "pa": 95,
+      "pd": -14,
+      "seed": 3,
+      "score": 57,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+      "colors": {
+        "primary": "#311d00",
+        "secondary": "#ff3c00"
+      }
+    },
+    {
       "code": "JAX",
       "city": "Jacksonville Jaguars",
       "shortName": "Jacksonville",
@@ -132,7 +155,7 @@ window.NFL_DATA = {
       "pf": 82,
       "pa": 36,
       "pd": 46,
-      "seed": 3,
+      "seed": 4,
       "score": 66,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
       "colors": {
@@ -201,7 +224,7 @@ window.NFL_DATA = {
       "pf": 80,
       "pa": 63,
       "pd": 17,
-      "seed": 9,
+      "seed": 8,
       "score": 58,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
       "colors": {
@@ -256,29 +279,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "code": "PIT",
-      "city": "Pittsburgh Steelers",
-      "shortName": "Pittsburgh",
-      "commonName": "Steelers",
-      "conf": "AFC",
-      "div": "AFC North",
-      "gp": 3,
-      "w": 2,
-      "l": 1,
-      "t": 0,
-      "winPct": 0.667,
-      "pf": 53,
-      "pa": 60,
-      "pd": -7,
-      "seed": 4,
-      "score": 51,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
-      "colors": {
-        "primary": "#101820",
-        "secondary": "#ffb612"
-      }
-    },
-    {
       "code": "NYG",
       "city": "New York Giants",
       "shortName": "New York",
@@ -325,6 +325,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "PIT",
+      "city": "Pittsburgh Steelers",
+      "shortName": "Pittsburgh",
+      "commonName": "Steelers",
+      "conf": "AFC",
+      "div": "AFC North",
+      "gp": 4,
+      "w": 2,
+      "l": 2,
+      "t": 0,
+      "winPct": 0.5,
+      "pf": 77,
+      "pa": 87,
+      "pd": -10,
+      "seed": 9,
+      "score": 38,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+      "colors": {
+        "primary": "#101820",
+        "secondary": "#ffb612"
+      }
+    },
+    {
       "code": "PHI",
       "city": "Philadelphia Eagles",
       "shortName": "Philadelphia",
@@ -345,29 +368,6 @@ window.NFL_DATA = {
       "colors": {
         "primary": "#004c54",
         "secondary": "#a5acaf"
-      }
-    },
-    {
-      "code": "CLE",
-      "city": "Cleveland Browns",
-      "shortName": "Cleveland",
-      "commonName": "Browns",
-      "conf": "AFC",
-      "div": "AFC North",
-      "gp": 3,
-      "w": 2,
-      "l": 1,
-      "t": 0,
-      "winPct": 0.667,
-      "pf": 54,
-      "pa": 71,
-      "pd": -17,
-      "seed": 8,
-      "score": 49,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
-      "colors": {
-        "primary": "#311d00",
-        "secondary": "#ff3c00"
       }
     },
     {
@@ -477,7 +477,7 @@ window.NFL_DATA = {
       "pf": 81,
       "pa": 83,
       "pd": -2,
-      "seed": 11,
+      "seed": 12,
       "score": 26,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
       "colors": {
@@ -523,7 +523,7 @@ window.NFL_DATA = {
       "pf": 75,
       "pa": 92,
       "pd": -17,
-      "seed": 12,
+      "seed": 11,
       "score": 22,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
       "colors": {
@@ -923,6 +923,32 @@ window.NFL_DATA = {
       "prevRank": 7
     },
     {
+      "id": 3122840,
+      "name": "Deshaun Watson",
+      "pos": "QB",
+      "teamCode": "CLE",
+      "age": 31,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3122840.png",
+      "colors": {
+        "primary": "#311d00",
+        "secondary": "#ff3c00"
+      },
+      "score": 84,
+      "stats": {
+        "type": "passing",
+        "cmp": 80,
+        "att": 115,
+        "pct": 69.6,
+        "yds": 855,
+        "ypa": 7.4,
+        "td": 6,
+        "int": 2,
+        "rushYds": 127,
+        "rushTd": 2
+      },
+      "prevRank": 16
+    },
+    {
       "id": 3915511,
       "name": "Joe Burrow",
       "pos": "QB",
@@ -949,6 +975,32 @@ window.NFL_DATA = {
       "prevRank": 8
     },
     {
+      "id": 8439,
+      "name": "Aaron Rodgers",
+      "pos": "QB",
+      "teamCode": "PIT",
+      "age": 42,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/8439.png",
+      "colors": {
+        "primary": "#101820",
+        "secondary": "#ffb612"
+      },
+      "score": 83,
+      "stats": {
+        "type": "passing",
+        "cmp": 88,
+        "att": 153,
+        "pct": 57.5,
+        "yds": 999,
+        "ypa": 6.5,
+        "td": 7,
+        "int": 4,
+        "rushYds": 12,
+        "rushTd": 0
+      },
+      "prevRank": 18
+    },
+    {
       "id": 15864,
       "name": "Geno Smith",
       "pos": "QB",
@@ -971,8 +1023,7 @@ window.NFL_DATA = {
         "int": 0,
         "rushYds": 36,
         "rushTd": 0
-      },
-      "prevRank": 9
+      }
     },
     {
       "id": 4036378,
@@ -997,8 +1048,7 @@ window.NFL_DATA = {
         "int": 2,
         "rushYds": 0,
         "rushTd": 0
-      },
-      "prevRank": 10
+      }
     },
     {
       "id": 4360310,
@@ -1126,31 +1176,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "id": 3122840,
-      "name": "Deshaun Watson",
-      "pos": "QB",
-      "teamCode": "CLE",
-      "age": 31,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3122840.png",
-      "colors": {
-        "primary": "#311d00",
-        "secondary": "#ff3c00"
-      },
-      "score": 73,
-      "stats": {
-        "type": "passing",
-        "cmp": 56,
-        "att": 82,
-        "pct": 68.3,
-        "yds": 587,
-        "ypa": 7.2,
-        "td": 5,
-        "int": 1,
-        "rushYds": 105,
-        "rushTd": 1
-      }
-    },
-    {
       "id": 2578570,
       "name": "Jacoby Brissett",
       "pos": "QB",
@@ -1172,31 +1197,6 @@ window.NFL_DATA = {
         "td": 4,
         "int": 1,
         "rushYds": 25,
-        "rushTd": 0
-      }
-    },
-    {
-      "id": 8439,
-      "name": "Aaron Rodgers",
-      "pos": "QB",
-      "teamCode": "PIT",
-      "age": 42,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/8439.png",
-      "colors": {
-        "primary": "#101820",
-        "secondary": "#ffb612"
-      },
-      "score": 66,
-      "stats": {
-        "type": "passing",
-        "cmp": 66,
-        "att": 113,
-        "pct": 58.4,
-        "yds": 700,
-        "ypa": 6.2,
-        "td": 4,
-        "int": 2,
-        "rushYds": 12,
         "rushTd": 0
       }
     },
@@ -1686,6 +1686,23 @@ window.NFL_DATA = {
         "prevRank": 7
       },
       {
+        "id": 3122840,
+        "name": "Deshaun Watson",
+        "pos": "QB",
+        "teamCode": "CLE",
+        "colors": {
+          "primary": "#311d00",
+          "secondary": "#ff3c00"
+        },
+        "age": 31,
+        "careerScore": 68.9,
+        "threshold": 90.0,
+        "gap": 21.1,
+        "rings": 0,
+        "note": "2–3 años de pico + varios anillos",
+        "prevRank": null
+      },
+      {
         "id": 3915511,
         "name": "Joe Burrow",
         "pos": "QB",
@@ -1718,23 +1735,6 @@ window.NFL_DATA = {
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
         "prevRank": 9
-      },
-      {
-        "id": 2578570,
-        "name": "Jacoby Brissett",
-        "pos": "QB",
-        "teamCode": "ARI",
-        "colors": {
-          "primary": "#97233f",
-          "secondary": "#ffb612"
-        },
-        "age": 33,
-        "careerScore": 62.6,
-        "threshold": 90.0,
-        "gap": 27.4,
-        "rings": 0,
-        "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 10
       }
     ],
     "youngProspects": [
@@ -1838,7 +1838,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-02 00:55 UTC",
+  "LAST_UPDATE": "2026-10-02 11:06 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

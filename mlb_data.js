@@ -4771,7 +4771,7 @@ window.MLB_DATA = {
       "last": "Bogaerts",
       "pos": "SS",
       "teamCode": "SD",
-      "age": 33,
+      "age": 34,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/31606.png",
       "colors": {
         "primary": "#2f241d",
@@ -4787,7 +4787,7 @@ window.MLB_DATA = {
         "sb": 22,
         "ops": 0.676
       },
-      "legendScore": 38.4,
+      "legendScore": 39.2,
       "currentScore": 52,
       "battingScore": 52,
       "pitchingScore": null,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-02 00:55 UTC",
+  "LAST_UPDATE": "2026-10-02 11:06 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
