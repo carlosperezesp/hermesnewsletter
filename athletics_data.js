@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-02 18:42 UTC
+// Auto-generated 2026-10-02 23:49 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-10-02 18:42 UTC",
+  "UPDATED": "2026-10-02 23:49 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [

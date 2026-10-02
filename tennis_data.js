@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-02 18:42 UTC
+// Auto-generated 2026-10-02 23:49 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-02 18:42 UTC",
+  "UPDATED": "2026-10-02 23:49 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -7671,7 +7671,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Adana Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 57.0
@@ -8215,7 +8215,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Adana Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 51.7
@@ -9637,7 +9637,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Adana Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 39.5
@@ -11486,15 +11486,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Teodora Kostovic",
+          "w": "Antonia Ruzic",
           "w_logo": "",
-          "l": "Antonia Ruzic",
+          "l": "Teodora Kostovic",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-4 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 51.7,
-          "l_score": 56.5,
+          "w_score": 56.5,
+          "l_score": 51.7,
           "match_score": 56.5
         },
         {
@@ -11917,7 +11917,7 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez"
     ],
     "aliveCount": 90,
-    "matchesSeen": 131
+    "matchesSeen": 132
   },
   "ATP_SCORE_LOG": {
     "206173": [
