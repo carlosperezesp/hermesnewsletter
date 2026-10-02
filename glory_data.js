@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-01 23:54 UTC",
+  "UPDATED": "2026-10-02 00:57 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Qatar Airways Azerbaijan Grand Prix:George Russell",
@@ -104,6 +104,15 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-09-29"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:JC Archer",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "JC Archer entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-02"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Mookie Betts",
@@ -365,6 +374,15 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-09-29"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:out:Mohammed Siraj",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "Mohammed Siraj cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-02"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:out:Juan Soto",
@@ -1003,9 +1021,9 @@ window.GLORY_DATA = {
       "MA Starc",
       "JJ Bumrah",
       "Taijul Islam",
-      "RA Jadeja",
-      "Mohammed Siraj",
+      "JC Archer",
       "MJ Henry",
+      "RA Jadeja",
       "Nauman Ali",
       "JC Tongue",
       "BA Carse",
