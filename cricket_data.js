@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-10-02 23:49 UTC",
+  "UPDATED": "2026-10-03 00:35 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1604,
+    "matches": 1602,
     "archives": [
       {
         "name": "Tests",
@@ -13,7 +13,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 141
+        "matches": 140
       },
       {
         "name": "T20Is",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 70
+        "matches": 69
       },
       {
         "name": "MLC",
@@ -784,7 +784,7 @@ window.CRICKET_DATA = {
           "batting": 64.5,
           "bowling": 0.3,
           "overall": 8.8,
-          "runs": 673,
+          "runs": 651,
           "wickets": 0
         },
         {
@@ -2468,6 +2468,24 @@ window.CRICKET_DATA = {
           "wickets": 10
         },
         {
+          "id": "ra-mariu",
+          "name": "RA Mariu",
+          "role": "Batter",
+          "country": "New Zealand",
+          "teamCode": "NZ",
+          "colors": {
+            "primary": "#111111",
+            "secondary": "#d8d8d8"
+          },
+          "logo": "https://flagcdn.com/24x18/nz.png",
+          "score": 56.8,
+          "batting": 56.8,
+          "bowling": 0.1,
+          "overall": 5.1,
+          "runs": 58,
+          "wickets": 0
+        },
+        {
           "id": "t-bavuma",
           "name": "T Bavuma",
           "role": "Batter",
@@ -2484,24 +2502,6 @@ window.CRICKET_DATA = {
           "overall": 11.4,
           "runs": 896,
           "wickets": 0
-        },
-        {
-          "id": "olipa-gerald",
-          "name": "Olipa Gerald",
-          "role": "Batter",
-          "country": "Uganda",
-          "teamCode": "UGA",
-          "colors": {
-            "primary": "#555555",
-            "secondary": "#dddddd"
-          },
-          "logo": "",
-          "score": 56.1,
-          "batting": 56.1,
-          "bowling": 3.4,
-          "overall": 29.7,
-          "runs": 280,
-          "wickets": 3
         }
       ],
       "bowling": [
@@ -2606,12 +2606,12 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/pk.png",
-          "score": 79.5,
-          "batting": 8.1,
-          "bowling": 79.5,
-          "overall": 54.5,
-          "runs": 111,
-          "wickets": 107
+          "score": 78.8,
+          "batting": 8.3,
+          "bowling": 78.8,
+          "overall": 54.9,
+          "runs": 108,
+          "wickets": 106
         },
         {
           "id": "taijul-islam",

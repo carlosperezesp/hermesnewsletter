@@ -6821,7 +6821,7 @@ window.NHL_DATA = {
       "name": "Anton Lundell",
       "pos": "C",
       "teamCode": "FLA",
-      "age": 24,
+      "age": 25,
       "country": "Finland",
       "birthCountry": "FIN",
       "colors": {
@@ -8202,7 +8202,7 @@ window.NHL_DATA = {
       "name": "Seth Jones",
       "pos": "D",
       "teamCode": "FLA",
-      "age": 31,
+      "age": 32,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -15295,7 +15295,7 @@ window.NHL_DATA = {
       "name": "Victor Eklund",
       "pos": "RW",
       "teamCode": "NYI",
-      "age": 19,
+      "age": 20,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -26225,10 +26225,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-02 23:46 UTC",
+  "LAST_UPDATE": "2026-10-03 00:33 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-02T23:46:15Z"
+    "standingsDateTimeUtc": "2026-10-03T00:33:15Z"
   }
 };

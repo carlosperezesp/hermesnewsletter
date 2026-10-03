@@ -1,20 +1,28 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-02 23:49 UTC",
+  "UPDATED": "2026-10-03 00:35 UTC",
   "EVENTS": [
     {
-      "id": "f1:win:Qatar Airways Azerbaijan Grand Prix:George Russell",
+      "id": "f1:win:Gulf Air Bahrain Grand Prix in Malaysia:Max Verstappen",
       "sport": "f1",
       "detail": "F1",
-      "text": "George Russell ganó el Qatar Airways Azerbaijan Grand Prix",
+      "text": "Max Verstappen ganó el Gulf Air Bahrain Grand Prix in Malaysia",
       "weight": 100,
-      "firstSeen": "2026-10-01"
+      "firstSeen": "2026-10-03"
     },
     {
       "id": "indycar:win:Grand Prix of Monterey:Scott McLaughlin",
       "sport": "indycar",
       "detail": "IndyCar",
       "text": "Scott McLaughlin ganó en Grand Prix of Monterey",
+      "weight": 100,
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "f1:win:Qatar Airways Azerbaijan Grand Prix:George Russell",
+      "sport": "f1",
+      "detail": "F1",
+      "text": "George Russell ganó el Qatar Airways Azerbaijan Grand Prix",
       "weight": 100,
       "firstSeen": "2026-10-01"
     },
