@@ -19737,7 +19737,7 @@ window.NHL_DATA = {
         "a": 0,
         "p": 0,
         "pm": 1,
-        "toi": 9.9,
+        "toi": 10.0,
         "shots": 0
       },
       "trajectory": [
@@ -20085,9 +20085,9 @@ window.NHL_DATA = {
       "name": "Josh Samanski",
       "pos": "C",
       "teamCode": "EDM",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 24,
+      "country": "Germany",
+      "birthCountry": "DEU",
       "colors": {
         "primary": "#041e42",
         "secondary": "#ff4c00"
@@ -29922,10 +29922,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-03 11:50 UTC",
+  "LAST_UPDATE": "2026-10-03 16:42 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-03T11:50:15Z"
+    "standingsDateTimeUtc": "2026-10-03T16:42:00Z"
   }
 };

@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-03 11:53 UTC",
+  "UPDATED": "2026-10-03 16:44 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Gulf Air Bahrain Grand Prix in Malaysia:Max Verstappen",
