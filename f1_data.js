@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-03 00:34 UTC
+// Auto-generated 2026-10-03 10:25 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-10-03 00:34 UTC",
+  "UPDATED": "2026-10-03 10:25 UTC",
   "SEASON": "2026",
   "ROUND": 14,
   "TOTAL_ROUNDS": 25,
@@ -22,7 +22,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 302.0,
-      "lastWeekendPoints": 10.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 48.3,
       "stats": {
@@ -47,7 +47,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 236.0,
-      "lastWeekendPoints": 25.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 37.8,
       "stats": {
@@ -72,7 +72,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 199.0,
-      "lastWeekendPoints": 8.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 31.8,
       "stats": {
@@ -122,7 +122,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 179.0,
-      "lastWeekendPoints": 12.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 28.6,
       "stats": {
@@ -147,7 +147,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 163.0,
-      "lastWeekendPoints": 18.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 26.1,
       "stats": {
@@ -197,7 +197,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 86.0,
-      "lastWeekendPoints": 15.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 13.8,
       "stats": {
@@ -555,9 +555,9 @@ window.F1_DATA = {
     }
   ],
   "LAST_WEEKEND": {
-    "id": "600057444",
-    "name": "Qatar Airways Azerbaijan Grand Prix",
-    "label": "AZE",
+    "id": "600060990",
+    "name": "Gulf Air Bahrain Grand Prix in Malaysia",
+    "label": "MYS",
     "includesSprint": false
   },
   "LAST_RACE": {
