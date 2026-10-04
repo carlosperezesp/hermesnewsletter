@@ -796,7 +796,7 @@ window.MLB_DATA = {
       "last": "Abrams",
       "pos": "SS",
       "teamCode": "WSH",
-      "age": 25,
+      "age": 26,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42402.png",
       "colors": {
         "primary": "#ab0003",
@@ -812,7 +812,7 @@ window.MLB_DATA = {
         "sb": 34,
         "ops": 0.834
       },
-      "legendScore": 50.3,
+      "legendScore": 51.1,
       "currentScore": 86,
       "battingScore": 86,
       "pitchingScore": null,
@@ -6871,23 +6871,6 @@ window.MLB_DATA = {
         "prevRank": 5
       },
       {
-        "id": 42402,
-        "name": "CJ Abrams",
-        "pos": "SS",
-        "teamCode": "WSH",
-        "colors": {
-          "primary": "#ab0003",
-          "secondary": "#14225a"
-        },
-        "age": 25,
-        "currentScore": 86,
-        "projectedScore": 63.5,
-        "threshold": 92.5,
-        "gap": 29.0,
-        "note": "Among the best players of their generation",
-        "prevRank": 6
-      },
-      {
         "id": 4684778,
         "name": "Jordan Walker",
         "pos": "RF",
@@ -6954,6 +6937,23 @@ window.MLB_DATA = {
         "gap": 33.1,
         "note": "Strong pedigree — leap to elite level needed",
         "prevRank": 10
+      },
+      {
+        "id": 4918256,
+        "name": "James Wood",
+        "pos": "RF",
+        "teamCode": "WSH",
+        "colors": {
+          "primary": "#ab0003",
+          "secondary": "#14225a"
+        },
+        "age": 24,
+        "currentScore": 72,
+        "projectedScore": 58.9,
+        "threshold": 92.5,
+        "gap": 33.6,
+        "note": "Strong pedigree — leap to elite level needed",
+        "prevRank": null
       }
     ]
   },
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-03 23:55 UTC",
+  "LAST_UPDATE": "2026-10-04 11:07 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

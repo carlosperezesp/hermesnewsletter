@@ -1155,7 +1155,7 @@ window.NFL_DATA = {
       "name": "C.J. Stroud",
       "pos": "QB",
       "teamCode": "HOU",
-      "age": 24,
+      "age": 25,
       "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432577.png",
       "colors": {
         "primary": "#03202f",
@@ -1764,11 +1764,11 @@ window.NFL_DATA = {
           "primary": "#03202f",
           "secondary": "#a71930"
         },
-        "age": 24,
+        "age": 25,
         "currentScore": 73,
-        "projectedScore": 71.5,
+        "projectedScore": 68.5,
         "threshold": 90.0,
-        "gap": 18.5,
+        "gap": 21.5,
         "note": "Joven con pedigrí — salto a elite pendiente",
         "prevRank": 2
       },
@@ -1838,7 +1838,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-03 23:55 UTC",
+  "LAST_UPDATE": "2026-10-04 11:07 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

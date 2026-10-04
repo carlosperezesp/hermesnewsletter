@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-03 23:56 UTC
+// Auto-generated 2026-10-04 11:08 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-10-03 23:56 UTC",
+  "UPDATED": "2026-10-04 11:08 UTC",
   "SEASON": "2026",
   "ROUND": 15,
   "TOTAL_ROUNDS": 22,
@@ -282,23 +282,15 @@ window.MOTOGP_DATA = {
     }
   ],
   "LAST_RACE": {
-    "round": 15,
-    "name": "Austrian motorcycle Grand Prix",
-    "winner": "Jorge Martín",
+    "round": 16,
+    "name": "Japanese motorcycle Grand Prix",
+    "winner": "Marc Márquez",
     "country": "SPA",
-    "bike": "Aprilia",
-    "primary": "#003366",
+    "bike": "Ducati",
+    "primary": "#CC0000",
     "podium": [
       {
         "pos": 1,
-        "name": "Jorge Martín",
-        "country": "SPA",
-        "logo": "https://flagcdn.com/24x18/es.png",
-        "bike": "Aprilia",
-        "primary": "#003366"
-      },
-      {
-        "pos": 2,
         "name": "Marc Márquez",
         "country": "SPA",
         "logo": "https://flagcdn.com/24x18/es.png",
@@ -306,10 +298,18 @@ window.MOTOGP_DATA = {
         "primary": "#CC0000"
       },
       {
+        "pos": 2,
+        "name": "Diogo Moreira",
+        "country": "BRA",
+        "logo": "https://flagcdn.com/24x18/br.png",
+        "bike": "Honda",
+        "primary": "#CC0000"
+      },
+      {
         "pos": 3,
-        "name": "Marco Bezzecchi",
-        "country": "ITA",
-        "logo": "https://flagcdn.com/24x18/it.png",
+        "name": "Jorge Martín",
+        "country": "SPA",
+        "logo": "https://flagcdn.com/24x18/es.png",
         "bike": "Aprilia",
         "primary": "#003366"
       }
