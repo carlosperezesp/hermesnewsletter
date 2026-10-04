@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-04 11:08 UTC
+// Auto-generated 2026-10-04 12:34 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-10-04 11:08 UTC",
+  "UPDATED": "2026-10-04 12:34 UTC",
   "SEASON": "2026",
   "ROUND": 15,
   "TOTAL_ROUNDS": 25,
@@ -104,7 +104,7 @@ window.F1_DATA = {
         "pts": 191.0,
         "wins": 0
       },
-      "prevRank": 5,
+      "prevRank": 4,
       "age": 29
     },
     {
@@ -129,7 +129,7 @@ window.F1_DATA = {
         "pts": 188.0,
         "wins": 0
       },
-      "prevRank": 4,
+      "prevRank": 5,
       "age": 27
     },
     {

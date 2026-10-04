@@ -6885,7 +6885,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 30.3,
         "note": "Among the best players of their generation",
-        "prevRank": 7
+        "prevRank": 6
       },
       {
         "id": 4917694,
@@ -6902,7 +6902,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 30.9,
         "note": "Among the best players of their generation",
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "id": 4917869,
@@ -6919,7 +6919,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 31.4,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 9
+        "prevRank": 8
       },
       {
         "id": 4872691,
@@ -6936,7 +6936,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 33.1,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 10
+        "prevRank": 9
       },
       {
         "id": 4918256,
@@ -6953,7 +6953,7 @@ window.MLB_DATA = {
         "threshold": 92.5,
         "gap": 33.6,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": null
+        "prevRank": 10
       }
     ]
   },
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-04 11:07 UTC",
+  "LAST_UPDATE": "2026-10-04 12:33 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
