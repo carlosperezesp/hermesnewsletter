@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-04 12:35 UTC
+// Auto-generated 2026-10-04 17:04 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-04 12:35 UTC",
+  "UPDATED": "2026-10-04 17:04 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -101,7 +101,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 87.5
@@ -135,7 +135,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 86.9
@@ -305,7 +305,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 78.9
@@ -5491,7 +5491,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 85.6
@@ -5729,7 +5729,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 79.2
@@ -6579,7 +6579,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 64.7
@@ -6647,7 +6647,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 64.1
@@ -11087,7 +11087,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alexander Zverev",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-4 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 87.0,
@@ -11343,15 +11343,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Leolia Jeanjean",
+          "w": "Lois Boisson",
           "w_logo": "",
-          "l": "Lois Boisson",
+          "l": "Leolia Jeanjean",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 39.3,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 39.3,
           "match_score": 39.3
         }
       ]
@@ -11393,9 +11393,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Liudmila Samsonova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 6-4 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 85.6,
           "l_score": 63.8,
           "match_score": 85.6
@@ -11406,7 +11406,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sara Bejlek",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-4) 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 79.2,
@@ -11554,7 +11554,7 @@ window.TENNIS_DATA = {
       "Zizou Bergs"
     ],
     "aliveCount": 32,
-    "matchesSeen": 59
+    "matchesSeen": 60
   },
   "WTA_TOURNAMENT": {
     "name": "Jingshan Tennis Open · Adana Open · China Open · Suzhou Open · Samsun Open",
@@ -11770,7 +11770,7 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez"
     ],
     "aliveCount": 115,
-    "matchesSeen": 168
+    "matchesSeen": 169
   },
   "ATP_SCORE_LOG": {
     "206173": [

@@ -1,11 +1,11 @@
-// Auto-generated 2026-10-04 12:34 UTC
+// Auto-generated 2026-10-04 17:02 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-10-04 12:34 UTC",
+  "UPDATED": "2026-10-04 17:02 UTC",
   "SEASON": "2026",
-  "ROUND": 15,
+  "ROUND": 16,
   "TOTAL_ROUNDS": 22,
   "MAX_SEASON_PTS": 550,
-  "IMPORTANCE": 10.0,
+  "IMPORTANCE": 9.9,
   "RIDERS": [
     {
       "position": 1,
@@ -15,12 +15,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 306.0,
-      "score": 55.6,
+      "points": 333.0,
+      "score": 60.5,
       "stats": {
-        "pts": 306.0
+        "pts": 333.0
       },
-      "seasonPct": 55.6,
+      "seasonPct": 60.5,
       "prevRank": 1,
       "age": 28
     },
@@ -32,12 +32,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 294.0,
-      "score": 53.5,
+      "points": 331.0,
+      "score": 60.2,
       "stats": {
-        "pts": 294.0
+        "pts": 331.0
       },
-      "seasonPct": 53.5,
+      "seasonPct": 60.2,
       "prevRank": 2,
       "age": 33
     },
@@ -49,12 +49,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 264.0,
-      "score": 48.0,
+      "points": 284.0,
+      "score": 51.6,
       "stats": {
-        "pts": 264.0
+        "pts": 284.0
       },
-      "seasonPct": 48.0,
+      "seasonPct": 51.6,
       "prevRank": 3,
       "age": 28
     },
@@ -66,17 +66,34 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#E86825",
       "secondary": "#000000",
-      "points": 234.0,
-      "score": 42.5,
+      "points": 243.0,
+      "score": 44.2,
       "stats": {
-        "pts": 234.0
+        "pts": 243.0
       },
-      "seasonPct": 42.5,
+      "seasonPct": 44.2,
       "prevRank": 4,
       "age": 22
     },
     {
       "position": 5,
+      "name": "Ai Ogura",
+      "country": "JPN",
+      "bike": "Aprilia",
+      "logo": "https://flagcdn.com/24x18/jp.png",
+      "primary": "#003366",
+      "secondary": "#E8002D",
+      "points": 237.0,
+      "score": 43.1,
+      "stats": {
+        "pts": 237.0
+      },
+      "seasonPct": 43.1,
+      "prevRank": 6,
+      "age": 25
+    },
+    {
+      "position": 6,
       "name": "Fabio Di Giannantonio",
       "country": "ITA",
       "bike": "Ducati",
@@ -93,23 +110,6 @@ window.MOTOGP_DATA = {
       "age": 28
     },
     {
-      "position": 6,
-      "name": "Ai Ogura",
-      "country": "JPN",
-      "bike": "Aprilia",
-      "logo": "https://flagcdn.com/24x18/jp.png",
-      "primary": "#003366",
-      "secondary": "#E8002D",
-      "points": 222.0,
-      "score": 40.4,
-      "stats": {
-        "pts": 222.0
-      },
-      "seasonPct": 40.4,
-      "prevRank": 6,
-      "age": 25
-    },
-    {
       "position": 7,
       "name": "Raúl Fernández",
       "country": "ESP",
@@ -117,17 +117,34 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 203.0,
-      "score": 36.9,
+      "points": 216.0,
+      "score": 39.3,
       "stats": {
-        "pts": 203.0
+        "pts": 216.0
       },
-      "seasonPct": 36.9,
+      "seasonPct": 39.3,
       "prevRank": 7,
       "age": 26
     },
     {
       "position": 8,
+      "name": "Francesco Bagnaia",
+      "country": "ITA",
+      "bike": "Ducati",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "primary": "#CC0000",
+      "secondary": "#FFD200",
+      "points": 164.0,
+      "score": 29.8,
+      "stats": {
+        "pts": 164.0
+      },
+      "seasonPct": 29.8,
+      "prevRank": 9,
+      "age": 29
+    },
+    {
+      "position": 9,
       "name": "Álex Márquez",
       "country": "ESP",
       "bike": "Ducati",
@@ -144,23 +161,6 @@ window.MOTOGP_DATA = {
       "age": 30
     },
     {
-      "position": 9,
-      "name": "Francesco Bagnaia",
-      "country": "ITA",
-      "bike": "Ducati",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "primary": "#CC0000",
-      "secondary": "#FFD200",
-      "points": 156.0,
-      "score": 28.4,
-      "stats": {
-        "pts": 156.0
-      },
-      "seasonPct": 28.4,
-      "prevRank": 9,
-      "age": 29
-    },
-    {
       "position": 10,
       "name": "Fermín Aldeguer",
       "country": "ESP",
@@ -168,12 +168,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 115.0,
-      "score": 20.9,
+      "points": 122.0,
+      "score": 22.2,
       "stats": {
-        "pts": 115.0
+        "pts": 122.0
       },
-      "seasonPct": 20.9,
+      "seasonPct": 22.2,
       "prevRank": 10,
       "age": 21
     }
@@ -186,7 +186,7 @@ window.MOTOGP_DATA = {
       "primary": "#E86825",
       "secondary": "#000000",
       "bike": "KTM",
-      "score": 42.5,
+      "score": 44.2,
       "position": 4,
       "age": 22,
       "note": "Top 4 a los 22"
@@ -198,10 +198,10 @@ window.MOTOGP_DATA = {
       "primary": "#003366",
       "secondary": "#E8002D",
       "bike": "Aprilia",
-      "score": 40.4,
-      "position": 6,
+      "score": 43.1,
+      "position": 5,
       "age": 25,
-      "note": "Irrumpe a los 25 (P6)"
+      "note": "Top 5 a los 25"
     },
     {
       "name": "Fermín Aldeguer",
@@ -210,7 +210,7 @@ window.MOTOGP_DATA = {
       "primary": "#CC0000",
       "secondary": "#FFD200",
       "bike": "Ducati",
-      "score": 20.9,
+      "score": 22.2,
       "position": 10,
       "age": 21,
       "note": "Irrumpe a los 21 (P10)"

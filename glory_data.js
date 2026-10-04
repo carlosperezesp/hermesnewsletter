@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-04 12:35 UTC",
+  "UPDATED": "2026-10-04 17:04 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Japanese motorcycle Grand Prix:Marc Márquez",
@@ -930,11 +930,11 @@ window.GLORY_DATA = {
       "Marc Márquez",
       "Marco Bezzecchi",
       "Pedro Acosta",
-      "Fabio Di Giannantonio",
       "Ai Ogura",
+      "Fabio Di Giannantonio",
       "Raúl Fernández",
-      "Álex Márquez",
       "Francesco Bagnaia",
+      "Álex Márquez",
       "Fermín Aldeguer"
     ],
     "motogp:LEGENDS": [
