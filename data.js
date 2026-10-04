@@ -245,6 +245,28 @@ window.NHL_DATA = {
       }
     },
     {
+      "code": "WPG",
+      "city": "Winnipeg Jets",
+      "shortName": "Winnipeg",
+      "commonName": "Jets",
+      "conf": "W",
+      "div": "Central",
+      "gp": 2,
+      "w": 1,
+      "l": 0,
+      "ot": 1,
+      "pts": 3,
+      "gf": 6,
+      "ga": 6,
+      "gd": 0,
+      "score": 59,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#7b303e"
+      }
+    },
+    {
       "code": "CAR",
       "city": "Carolina Hurricanes",
       "shortName": "Carolina",
@@ -575,28 +597,6 @@ window.NHL_DATA = {
       }
     },
     {
-      "code": "WPG",
-      "city": "Winnipeg Jets",
-      "shortName": "Winnipeg",
-      "commonName": "Jets",
-      "conf": "W",
-      "div": "Central",
-      "gp": 1,
-      "w": 0,
-      "l": 0,
-      "ot": 1,
-      "pts": 1,
-      "gf": 3,
-      "ga": 4,
-      "gd": -1,
-      "score": 46,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#7b303e"
-      }
-    },
-    {
       "code": "LAK",
       "city": "Los Angeles Kings",
       "shortName": "Los Angeles",
@@ -625,15 +625,15 @@ window.NHL_DATA = {
       "commonName": "Red Wings",
       "conf": "E",
       "div": "Atlantic",
-      "gp": 1,
+      "gp": 2,
       "w": 0,
-      "l": 1,
+      "l": 2,
       "ot": 0,
       "pts": 0,
-      "gf": 0,
-      "ga": 2,
-      "gd": -2,
-      "score": 18,
+      "gf": 2,
+      "ga": 5,
+      "gd": -3,
+      "score": 19,
       "logo": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg",
       "colors": {
         "primary": "#ce1126",
@@ -740,7 +740,7 @@ window.NHL_DATA = {
         46,
         100
       ],
-      "legendScore": 68.3,
+      "legendScore": 67.8,
       "prevRank": 1
     },
     {
@@ -775,8 +775,43 @@ window.NHL_DATA = {
         45,
         100
       ],
-      "legendScore": 49.6,
+      "legendScore": 48.9,
       "prevRank": 2
+    },
+    {
+      "id": 8478398,
+      "first": "Kyle",
+      "last": "Connor",
+      "name": "Kyle Connor",
+      "pos": "LW",
+      "teamCode": "WPG",
+      "age": 29,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#7b303e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8478398.png",
+      "score": 93,
+      "stats": {
+        "gp": 2,
+        "g": 3,
+        "a": 2,
+        "p": 5,
+        "pm": -1,
+        "toi": 20.5,
+        "shots": 14
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        93
+      ],
+      "legendScore": 55.6,
+      "prevRank": 8
     },
     {
       "id": 8482699,
@@ -810,7 +845,7 @@ window.NHL_DATA = {
         45,
         90
       ],
-      "legendScore": 45.1,
+      "legendScore": 44.8,
       "prevRank": 3
     },
     {
@@ -845,7 +880,7 @@ window.NHL_DATA = {
         45,
         90
       ],
-      "legendScore": 71.5,
+      "legendScore": 71.2,
       "prevRank": 4
     },
     {
@@ -950,43 +985,8 @@ window.NHL_DATA = {
         44,
         86
       ],
-      "legendScore": 47.0,
+      "legendScore": 46.5,
       "prevRank": 7
-    },
-    {
-      "id": 8478398,
-      "first": "Kyle",
-      "last": "Connor",
-      "name": "Kyle Connor",
-      "pos": "LW",
-      "teamCode": "WPG",
-      "age": 29,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#7b303e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8478398.png",
-      "score": 83,
-      "stats": {
-        "gp": 1,
-        "g": 1,
-        "a": 1,
-        "p": 2,
-        "pm": 0,
-        "toi": 20.9,
-        "shots": 9
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        83
-      ],
-      "legendScore": 55.8,
-      "prevRank": 8
     },
     {
       "id": 8477476,
@@ -1020,7 +1020,7 @@ window.NHL_DATA = {
         45,
         82
       ],
-      "legendScore": 49.6,
+      "legendScore": 49.4,
       "prevRank": 9
     },
     {
@@ -1087,7 +1087,7 @@ window.NHL_DATA = {
         45,
         81
       ],
-      "legendScore": 52.6
+      "legendScore": 52.4
     },
     {
       "id": 8471215,
@@ -1121,7 +1121,7 @@ window.NHL_DATA = {
         45,
         80
       ],
-      "legendScore": 66.7
+      "legendScore": 66.2
     },
     {
       "id": 8480280,
@@ -1186,7 +1186,7 @@ window.NHL_DATA = {
         45,
         80
       ],
-      "legendScore": 41.2
+      "legendScore": 41.0
     },
     {
       "id": 8480018,
@@ -1220,7 +1220,7 @@ window.NHL_DATA = {
         45,
         80
       ],
-      "legendScore": 51.2
+      "legendScore": 50.9
     },
     {
       "id": 8484153,
@@ -1288,7 +1288,7 @@ window.NHL_DATA = {
         45,
         79
       ],
-      "legendScore": 42.0
+      "legendScore": 41.5
     },
     {
       "id": 8473512,
@@ -1322,7 +1322,41 @@ window.NHL_DATA = {
         44,
         78
       ],
-      "legendScore": 63.5
+      "legendScore": 63.3
+    },
+    {
+      "id": 8482149,
+      "first": "Cole",
+      "last": "Perfetti",
+      "name": "Cole Perfetti",
+      "pos": "C",
+      "teamCode": "WPG",
+      "age": 24,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#7b303e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8482149.png",
+      "score": 78,
+      "stats": {
+        "gp": 2,
+        "g": 1,
+        "a": 3,
+        "p": 4,
+        "pm": -2,
+        "toi": 17.1,
+        "shots": 6
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        78
+      ],
+      "legendScore": 41.0
     },
     {
       "id": 8479343,
@@ -1356,7 +1390,7 @@ window.NHL_DATA = {
         45,
         77
       ],
-      "legendScore": 52.7
+      "legendScore": 52.6
     },
     {
       "id": 8477934,
@@ -1390,7 +1424,7 @@ window.NHL_DATA = {
         45,
         77
       ],
-      "legendScore": 64.5
+      "legendScore": 64.3
     },
     {
       "id": 8480448,
@@ -1424,41 +1458,7 @@ window.NHL_DATA = {
         45,
         77
       ],
-      "legendScore": 36.3
-    },
-    {
-      "id": 8476392,
-      "first": "Adam",
-      "last": "Lowry",
-      "name": "Adam Lowry",
-      "pos": "C",
-      "teamCode": "WPG",
-      "age": 33,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#7b303e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8476392.png",
-      "score": 76,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 2,
-        "p": 2,
-        "pm": 0,
-        "toi": 16.1,
-        "shots": 2
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        76
-      ],
-      "legendScore": 45.4
+      "legendScore": 35.8
     },
     {
       "id": 8482193,
@@ -1681,7 +1681,7 @@ window.NHL_DATA = {
         45,
         75
       ],
-      "legendScore": 37.4
+      "legendScore": 36.7
     },
     {
       "id": 8480012,
@@ -1715,7 +1715,7 @@ window.NHL_DATA = {
         45,
         74
       ],
-      "legendScore": 52.8
+      "legendScore": 52.4
     },
     {
       "id": 8479345,
@@ -1749,7 +1749,7 @@ window.NHL_DATA = {
         45,
         74
       ],
-      "legendScore": 49.8
+      "legendScore": 49.7
     },
     {
       "id": 8483457,
@@ -1783,7 +1783,7 @@ window.NHL_DATA = {
         45,
         74
       ],
-      "legendScore": 44.8
+      "legendScore": 44.4
     },
     {
       "id": 8479410,
@@ -1817,7 +1817,7 @@ window.NHL_DATA = {
         45,
         74
       ],
-      "legendScore": 47.8
+      "legendScore": 47.2
     },
     {
       "id": 8477447,
@@ -1851,7 +1851,7 @@ window.NHL_DATA = {
         45,
         74
       ],
-      "legendScore": 51.5
+      "legendScore": 51.3
     },
     {
       "id": 8478550,
@@ -1919,7 +1919,7 @@ window.NHL_DATA = {
         45,
         73
       ],
-      "legendScore": 55.9
+      "legendScore": 55.6
     },
     {
       "id": 8477951,
@@ -1953,7 +1953,7 @@ window.NHL_DATA = {
         45,
         73
       ],
-      "legendScore": 52.0
+      "legendScore": 51.7
     },
     {
       "id": 8482671,
@@ -1987,7 +1987,7 @@ window.NHL_DATA = {
         45,
         73
       ],
-      "legendScore": 39.2
+      "legendScore": 38.7
     },
     {
       "id": 8479398,
@@ -2021,7 +2021,7 @@ window.NHL_DATA = {
         45,
         73
       ],
-      "legendScore": 45.2
+      "legendScore": 44.7
     },
     {
       "id": 8478407,
@@ -2055,7 +2055,7 @@ window.NHL_DATA = {
         45,
         73
       ],
-      "legendScore": 47.8
+      "legendScore": 47.0
     },
     {
       "id": 8480069,
@@ -2089,7 +2089,7 @@ window.NHL_DATA = {
         45,
         72
       ],
-      "legendScore": 58.4
+      "legendScore": 57.9
     },
     {
       "id": 8481032,
@@ -2123,7 +2123,7 @@ window.NHL_DATA = {
         45,
         72
       ],
-      "legendScore": 35.2
+      "legendScore": 34.6
     },
     {
       "id": 8484227,
@@ -2451,7 +2451,7 @@ window.NHL_DATA = {
         45,
         70
       ],
-      "legendScore": 35.7
+      "legendScore": 35.4
     },
     {
       "id": 8476932,
@@ -2549,7 +2549,7 @@ window.NHL_DATA = {
         45,
         69
       ],
-      "legendScore": 39.8
+      "legendScore": 39.1
     },
     {
       "id": 8478916,
@@ -2808,7 +2808,7 @@ window.NHL_DATA = {
         45,
         67
       ],
-      "legendScore": 34.0
+      "legendScore": 33.8
     },
     {
       "id": 8483431,
@@ -2876,7 +2876,7 @@ window.NHL_DATA = {
         45,
         67
       ],
-      "legendScore": 41.9
+      "legendScore": 41.8
     },
     {
       "id": 8482657,
@@ -3007,38 +3007,7 @@ window.NHL_DATA = {
         44,
         66
       ],
-      "legendScore": 38.5
-    },
-    {
-      "id": 8476434,
-      "first": "John",
-      "last": "Gibson",
-      "name": "John Gibson",
-      "pos": "G",
-      "teamCode": "DET",
-      "age": 33,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#ce1126",
-        "secondary": "#ffffff"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8476434.png",
-      "score": 66,
-      "stats": {
-        "gp": 1,
-        "w": 0,
-        "svpct": 0.95,
-        "gaa": 1.02,
-        "so": 0
-      },
-      "trajectory": [
-        50,
-        54,
-        57,
-        60,
-        66
-      ]
+      "legendScore": 38.2
     },
     {
       "id": 8483499,
@@ -3072,7 +3041,7 @@ window.NHL_DATA = {
         45,
         66
       ],
-      "legendScore": 32.0
+      "legendScore": 55.2
     },
     {
       "id": 8480313,
@@ -3167,39 +3136,6 @@ window.NHL_DATA = {
         42,
         44,
         66
-      ]
-    },
-    {
-      "id": 8476331,
-      "first": "Dylan",
-      "last": "DeMelo",
-      "name": "Dylan DeMelo",
-      "pos": "D",
-      "teamCode": "WPG",
-      "age": 33,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#7b303e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8476331.png",
-      "score": 65,
-      "stats": {
-        "gp": 1,
-        "g": 1,
-        "a": 0,
-        "p": 1,
-        "pm": 0,
-        "toi": 22.9,
-        "shots": 1
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        65
       ]
     },
     {
@@ -3394,6 +3330,70 @@ window.NHL_DATA = {
       "legendScore": 51.6
     },
     {
+      "id": 8476434,
+      "first": "John",
+      "last": "Gibson",
+      "name": "John Gibson",
+      "pos": "G",
+      "teamCode": "DET",
+      "age": 33,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#ce1126",
+        "secondary": "#ffffff"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8476434.png",
+      "score": 64,
+      "stats": {
+        "gp": 2,
+        "w": 0,
+        "svpct": 0.915,
+        "gaa": 2.07,
+        "so": 0
+      },
+      "trajectory": [
+        50,
+        54,
+        57,
+        60,
+        64
+      ]
+    },
+    {
+      "id": 8477504,
+      "first": "Josh",
+      "last": "Morrissey",
+      "name": "Josh Morrissey",
+      "pos": "D",
+      "teamCode": "WPG",
+      "age": 31,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#7b303e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8477504.png",
+      "score": 64,
+      "stats": {
+        "gp": 2,
+        "g": 0,
+        "a": 2,
+        "p": 2,
+        "pm": -2,
+        "toi": 23.5,
+        "shots": 11
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        64
+      ]
+    },
+    {
       "id": 8484152,
       "first": "Luca",
       "last": "Cagnoni",
@@ -3426,39 +3426,6 @@ window.NHL_DATA = {
         64
       ],
       "legendScore": 54.8
-    },
-    {
-      "id": 8479983,
-      "first": "Mario",
-      "last": "Ferraro",
-      "name": "Mario Ferraro",
-      "pos": "D",
-      "teamCode": "WPG",
-      "age": 28,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#7b303e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8479983.png",
-      "score": 64,
-      "stats": {
-        "gp": 1,
-        "g": 1,
-        "a": 0,
-        "p": 1,
-        "pm": 0,
-        "toi": 18.0,
-        "shots": 3
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        64
-      ]
     },
     {
       "id": 8485366,
@@ -3757,7 +3724,7 @@ window.NHL_DATA = {
         44,
         63
       ],
-      "legendScore": 73.9
+      "legendScore": 73.8
     },
     {
       "id": 8478854,
@@ -3789,6 +3756,37 @@ window.NHL_DATA = {
         41,
         43,
         45,
+        63
+      ]
+    },
+    {
+      "id": 8479973,
+      "first": "Stuart",
+      "last": "Skinner",
+      "name": "Stuart Skinner",
+      "pos": "G",
+      "teamCode": "WPG",
+      "age": 27,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#7b303e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8479973.png",
+      "score": 63,
+      "stats": {
+        "gp": 2,
+        "w": 1,
+        "svpct": 0.908,
+        "gaa": 2.92,
+        "so": 0
+      },
+      "trajectory": [
+        50,
+        54,
+        57,
+        60,
         63
       ]
     },
@@ -4848,40 +4846,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8482149,
-      "first": "Cole",
-      "last": "Perfetti",
-      "name": "Cole Perfetti",
-      "pos": "C",
-      "teamCode": "WPG",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#7b303e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8482149.png",
-      "score": 60,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 1,
-        "p": 1,
-        "pm": -1,
-        "toi": 17.1,
-        "shots": 4
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        60
-      ],
-      "legendScore": 49.4
-    },
-    {
       "id": 8483445,
       "first": "Cutter",
       "last": "Gauthier",
@@ -4973,39 +4937,6 @@ window.NHL_DATA = {
         "pm": 1,
         "toi": 17.2,
         "shots": 2
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        60
-      ]
-    },
-    {
-      "id": 8480014,
-      "first": "Gabriel",
-      "last": "Vilardi",
-      "name": "Gabriel Vilardi",
-      "pos": "C",
-      "teamCode": "WPG",
-      "age": 27,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#7b303e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8480014.png",
-      "score": 60,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 1,
-        "p": 1,
-        "pm": -2,
-        "toi": 19.4,
-        "shots": 1
       },
       "trajectory": [
         37,
@@ -5578,6 +5509,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8480014,
+      "first": "Gabriel",
+      "last": "Vilardi",
+      "name": "Gabriel Vilardi",
+      "pos": "C",
+      "teamCode": "WPG",
+      "age": 27,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#7b303e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8480014.png",
+      "score": 59,
+      "stats": {
+        "gp": 2,
+        "g": 0,
+        "a": 2,
+        "p": 2,
+        "pm": -2,
+        "toi": 17.1,
+        "shots": 3
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        59
+      ]
+    },
+    {
       "id": 8476981,
       "first": "Josh",
       "last": "Anderson",
@@ -5911,6 +5875,39 @@ window.NHL_DATA = {
       "legendScore": 48.8
     },
     {
+      "id": 8476392,
+      "first": "Adam",
+      "last": "Lowry",
+      "name": "Adam Lowry",
+      "pos": "C",
+      "teamCode": "WPG",
+      "age": 33,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#7b303e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8476392.png",
+      "score": 58,
+      "stats": {
+        "gp": 2,
+        "g": 0,
+        "a": 2,
+        "p": 2,
+        "pm": 0,
+        "toi": 15.7,
+        "shots": 2
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        58
+      ]
+    },
+    {
       "id": 8482155,
       "first": "Alex",
       "last": "Laferriere",
@@ -6140,39 +6137,6 @@ window.NHL_DATA = {
         41,
         43,
         45,
-        58
-      ]
-    },
-    {
-      "id": 8480289,
-      "first": "Morgan",
-      "last": "Barron",
-      "name": "Morgan Barron",
-      "pos": "C",
-      "teamCode": "WPG",
-      "age": 27,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#7b303e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8480289.png",
-      "score": 58,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 1,
-        "p": 1,
-        "pm": 1,
-        "toi": 15.9,
-        "shots": 2
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
         58
       ]
     },
@@ -6626,37 +6590,6 @@ window.NHL_DATA = {
         "w": 0,
         "svpct": 0.887,
         "gaa": 3.06,
-        "so": 0
-      },
-      "trajectory": [
-        50,
-        54,
-        57,
-        60,
-        57
-      ]
-    },
-    {
-      "id": 8479973,
-      "first": "Stuart",
-      "last": "Skinner",
-      "name": "Stuart Skinner",
-      "pos": "G",
-      "teamCode": "WPG",
-      "age": 27,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#7b303e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8479973.png",
-      "score": 57,
-      "stats": {
-        "gp": 1,
-        "w": 0,
-        "svpct": 0.867,
-        "gaa": 3.79,
         "so": 0
       },
       "trajectory": [
@@ -7233,6 +7166,40 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8481542,
+      "first": "Moritz",
+      "last": "Seider",
+      "name": "Moritz Seider",
+      "pos": "D",
+      "teamCode": "DET",
+      "age": 25,
+      "country": "Germany",
+      "birthCountry": "DEU",
+      "colors": {
+        "primary": "#ce1126",
+        "secondary": "#ffffff"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8481542.png",
+      "score": 55,
+      "stats": {
+        "gp": 2,
+        "g": 0,
+        "a": 1,
+        "p": 1,
+        "pm": -1,
+        "toi": 25.5,
+        "shots": 5
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        55
+      ],
+      "legendScore": 46.7
+    },
+    {
       "id": 8477507,
       "first": "Nikita",
       "last": "Zadorov",
@@ -7263,6 +7230,39 @@ window.NHL_DATA = {
         42,
         44,
         55
+      ]
+    },
+    {
+      "id": 8476331,
+      "first": "Dylan",
+      "last": "DeMelo",
+      "name": "Dylan DeMelo",
+      "pos": "D",
+      "teamCode": "WPG",
+      "age": 33,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#7b303e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8476331.png",
+      "score": 54,
+      "stats": {
+        "gp": 2,
+        "g": 1,
+        "a": 0,
+        "p": 1,
+        "pm": -1,
+        "toi": 21.9,
+        "shots": 1
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        54
       ]
     },
     {
@@ -7762,6 +7762,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8479983,
+      "first": "Mario",
+      "last": "Ferraro",
+      "name": "Mario Ferraro",
+      "pos": "D",
+      "teamCode": "WPG",
+      "age": 28,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#7b303e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8479983.png",
+      "score": 53,
+      "stats": {
+        "gp": 2,
+        "g": 1,
+        "a": 0,
+        "p": 1,
+        "pm": 0,
+        "toi": 19.1,
+        "shots": 3
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        53
+      ]
+    },
+    {
       "id": 8479314,
       "first": "Matthew",
       "last": "Tkachuk",
@@ -8129,6 +8162,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8479337,
+      "first": "Alex",
+      "last": "DeBrincat",
+      "name": "Alex DeBrincat",
+      "pos": "RW",
+      "teamCode": "DET",
+      "age": 28,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#ce1126",
+        "secondary": "#ffffff"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8479337.png",
+      "score": 52,
+      "stats": {
+        "gp": 2,
+        "g": 0,
+        "a": 1,
+        "p": 1,
+        "pm": 0,
+        "toi": 21.5,
+        "shots": 5
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        52
+      ]
+    },
+    {
       "id": 8480029,
       "first": "Alex",
       "last": "Formenton",
@@ -8152,6 +8218,39 @@ window.NHL_DATA = {
         "pm": 4,
         "toi": 15.2,
         "shots": 4
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        52
+      ]
+    },
+    {
+      "id": 8477429,
+      "first": "Andrew",
+      "last": "Copp",
+      "name": "Andrew Copp",
+      "pos": "C",
+      "teamCode": "DET",
+      "age": 32,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#ce1126",
+        "secondary": "#ffffff"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8477429.png",
+      "score": 52,
+      "stats": {
+        "gp": 2,
+        "g": 0,
+        "a": 1,
+        "p": 1,
+        "pm": -1,
+        "toi": 23.0,
+        "shots": 2
       },
       "trajectory": [
         37,
@@ -8791,6 +8890,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8478042,
+      "first": "Viktor",
+      "last": "Arvidsson",
+      "name": "Viktor Arvidsson",
+      "pos": "LW",
+      "teamCode": "DET",
+      "age": 33,
+      "country": "Sweden",
+      "birthCountry": "SWE",
+      "colors": {
+        "primary": "#ce1126",
+        "secondary": "#ffffff"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8478042.png",
+      "score": 52,
+      "stats": {
+        "gp": 2,
+        "g": 1,
+        "a": 0,
+        "p": 1,
+        "pm": -1,
+        "toi": 18.8,
+        "shots": 4
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        52
+      ]
+    },
+    {
       "id": 8483395,
       "first": "Arshdeep",
       "last": "Bains",
@@ -8952,6 +9084,40 @@ window.NHL_DATA = {
         60,
         51
       ]
+    },
+    {
+      "id": 8484471,
+      "first": "Emmitt",
+      "last": "Finnie",
+      "name": "Emmitt Finnie",
+      "pos": "C",
+      "teamCode": "DET",
+      "age": 21,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#ce1126",
+        "secondary": "#ffffff"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8484471.png",
+      "score": 51,
+      "stats": {
+        "gp": 2,
+        "g": 1,
+        "a": 0,
+        "p": 1,
+        "pm": 1,
+        "toi": 15.7,
+        "shots": 3
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        51
+      ],
+      "legendScore": 47.5
     },
     {
       "id": 8476887,
@@ -10012,6 +10178,73 @@ window.NHL_DATA = {
         50
       ],
       "legendScore": 44.4
+    },
+    {
+      "id": 8484794,
+      "first": "Michael",
+      "last": "Brandsegg-Nygård",
+      "name": "Michael Brandsegg-Nygård",
+      "pos": "RW",
+      "teamCode": "DET",
+      "age": 20,
+      "country": "Norway",
+      "birthCountry": "NOR",
+      "colors": {
+        "primary": "#ce1126",
+        "secondary": "#ffffff"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8484794.png",
+      "score": 50,
+      "stats": {
+        "gp": 2,
+        "g": 0,
+        "a": 1,
+        "p": 1,
+        "pm": 1,
+        "toi": 14.6,
+        "shots": 9
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        50
+      ],
+      "legendScore": 49.0
+    },
+    {
+      "id": 8480289,
+      "first": "Morgan",
+      "last": "Barron",
+      "name": "Morgan Barron",
+      "pos": "C",
+      "teamCode": "WPG",
+      "age": 27,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#7b303e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8480289.png",
+      "score": 50,
+      "stats": {
+        "gp": 2,
+        "g": 0,
+        "a": 1,
+        "p": 1,
+        "pm": 1,
+        "toi": 16.8,
+        "shots": 3
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        50
+      ]
     },
     {
       "id": 8484186,
@@ -12456,39 +12689,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8477504,
-      "first": "Josh",
-      "last": "Morrissey",
-      "name": "Josh Morrissey",
-      "pos": "D",
-      "teamCode": "WPG",
-      "age": 31,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#7b303e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8477504.png",
-      "score": 46,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 0,
-        "p": 0,
-        "pm": -2,
-        "toi": 25.4,
-        "shots": 4
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        46
-      ]
-    },
-    {
       "id": 8483553,
       "first": "Marc",
       "last": "Gatcomb",
@@ -12819,39 +13019,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8481542,
-      "first": "Moritz",
-      "last": "Seider",
-      "name": "Moritz Seider",
-      "pos": "D",
-      "teamCode": "DET",
-      "age": 25,
-      "country": "Germany",
-      "birthCountry": "DEU",
-      "colors": {
-        "primary": "#ce1126",
-        "secondary": "#ffffff"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8481542.png",
-      "score": 45,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 0,
-        "p": 0,
-        "pm": -1,
-        "toi": 25.3,
-        "shots": 2
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        45
-      ]
-    },
-    {
       "id": 8480145,
       "first": "Neal",
       "last": "Pionk",
@@ -12868,13 +13035,13 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8480145.png",
       "score": 45,
       "stats": {
-        "gp": 1,
+        "gp": 2,
         "g": 0,
         "a": 0,
         "p": 0,
-        "pm": -1,
-        "toi": 24.6,
-        "shots": 2
+        "pm": -2,
+        "toi": 24.2,
+        "shots": 5
       },
       "trajectory": [
         37,
@@ -13106,39 +13273,6 @@ window.NHL_DATA = {
         "pm": 1,
         "toi": 23.0,
         "shots": 3
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        44
-      ]
-    },
-    {
-      "id": 8480049,
-      "first": "Dylan",
-      "last": "Samberg",
-      "name": "Dylan Samberg",
-      "pos": "D",
-      "teamCode": "WPG",
-      "age": 27,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#7b303e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8480049.png",
-      "score": 44,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 0,
-        "p": 0,
-        "pm": 0,
-        "toi": 22.8,
-        "shots": 1
       },
       "trajectory": [
         37,
@@ -13510,39 +13644,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8477429,
-      "first": "Andrew",
-      "last": "Copp",
-      "name": "Andrew Copp",
-      "pos": "C",
-      "teamCode": "DET",
-      "age": 32,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#ce1126",
-        "secondary": "#ffffff"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8477429.png",
-      "score": 43,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 0,
-        "p": 0,
-        "pm": -1,
-        "toi": 22.3,
-        "shots": 1
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        43
-      ]
-    },
-    {
       "id": 8484783,
       "first": "Artyom",
       "last": "Levshunov",
@@ -13632,6 +13733,39 @@ window.NHL_DATA = {
         "pm": 1,
         "toi": 20.9,
         "shots": 3
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        43
+      ]
+    },
+    {
+      "id": 8480049,
+      "first": "Dylan",
+      "last": "Samberg",
+      "name": "Dylan Samberg",
+      "pos": "D",
+      "teamCode": "WPG",
+      "age": 27,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#7b303e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8480049.png",
+      "score": 43,
+      "stats": {
+        "gp": 2,
+        "g": 0,
+        "a": 0,
+        "p": 0,
+        "pm": 0,
+        "toi": 21.3,
+        "shots": 1
       },
       "trajectory": [
         37,
@@ -13757,13 +13891,13 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8475753.png",
       "score": 43,
       "stats": {
-        "gp": 1,
+        "gp": 2,
         "g": 0,
         "a": 0,
         "p": 0,
         "pm": 0,
-        "toi": 21.5,
-        "shots": 1
+        "toi": 20.5,
+        "shots": 4
       },
       "trajectory": [
         37,
@@ -13807,6 +13941,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8482078,
+      "first": "Lucas",
+      "last": "Raymond",
+      "name": "Lucas Raymond",
+      "pos": "LW",
+      "teamCode": "DET",
+      "age": 24,
+      "country": "Sweden",
+      "birthCountry": "SWE",
+      "colors": {
+        "primary": "#ce1126",
+        "secondary": "#ffffff"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8482078.png",
+      "score": 43,
+      "stats": {
+        "gp": 2,
+        "g": 0,
+        "a": 0,
+        "p": 0,
+        "pm": -1,
+        "toi": 22.0,
+        "shots": 4
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        43
+      ]
+    },
+    {
       "id": 8477346,
       "first": "MacKenzie",
       "last": "Weegar",
@@ -13830,39 +13997,6 @@ window.NHL_DATA = {
         "pm": -1,
         "toi": 20.5,
         "shots": 3
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        43
-      ]
-    },
-    {
-      "id": 8476460,
-      "first": "Mark",
-      "last": "Scheifele",
-      "name": "Mark Scheifele",
-      "pos": "C",
-      "teamCode": "WPG",
-      "age": 33,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#7b303e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8476460.png",
-      "score": 43,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 0,
-        "p": 0,
-        "pm": -1,
-        "toi": 22.5,
-        "shots": 0
       },
       "trajectory": [
         37,
@@ -14302,39 +14436,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8479337,
-      "first": "Alex",
-      "last": "DeBrincat",
-      "name": "Alex DeBrincat",
-      "pos": "RW",
-      "teamCode": "DET",
-      "age": 28,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#ce1126",
-        "secondary": "#ffffff"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8479337.png",
-      "score": 42,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 0,
-        "p": 0,
-        "pm": -1,
-        "toi": 19.7,
-        "shots": 1
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        42
-      ]
-    },
-    {
       "id": 8481014,
       "first": "Alexander",
       "last": "Romanov",
@@ -14434,39 +14535,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8483679,
-      "first": "Anton",
-      "last": "Johansson",
-      "name": "Anton Johansson",
-      "pos": "D",
-      "teamCode": "DET",
-      "age": 22,
-      "country": "Sweden",
-      "birthCountry": "SWE",
-      "colors": {
-        "primary": "#ce1126",
-        "secondary": "#ffffff"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8483679.png",
-      "score": 42,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 0,
-        "p": 0,
-        "pm": 0,
-        "toi": 19.2,
-        "shots": 0
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        42
-      ]
-    },
-    {
       "id": 8475279,
       "first": "Ben",
       "last": "Chiarot",
@@ -14483,13 +14551,13 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8475279.png",
       "score": 42,
       "stats": {
-        "gp": 1,
+        "gp": 2,
         "g": 0,
         "a": 0,
         "p": 0,
-        "pm": 0,
-        "toi": 18.5,
-        "shots": 1
+        "pm": 1,
+        "toi": 17.9,
+        "shots": 2
       },
       "trajectory": [
         37,
@@ -15061,28 +15129,28 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8482078,
-      "first": "Lucas",
-      "last": "Raymond",
-      "name": "Lucas Raymond",
-      "pos": "LW",
-      "teamCode": "DET",
-      "age": 24,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "id": 8476460,
+      "first": "Mark",
+      "last": "Scheifele",
+      "name": "Mark Scheifele",
+      "pos": "C",
+      "teamCode": "WPG",
+      "age": 33,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
-        "primary": "#ce1126",
-        "secondary": "#ffffff"
+        "primary": "#041e42",
+        "secondary": "#7b303e"
       },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8482078.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8476460.png",
       "score": 42,
       "stats": {
-        "gp": 1,
+        "gp": 2,
         "g": 0,
         "a": 0,
         "p": 0,
-        "pm": -1,
-        "toi": 20.0,
+        "pm": -2,
+        "toi": 20.3,
         "shots": 2
       },
       "trajectory": [
@@ -15589,39 +15657,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8481607,
-      "first": "Albert",
-      "last": "Johansson",
-      "name": "Albert Johansson",
-      "pos": "D",
-      "teamCode": "DET",
-      "age": 25,
-      "country": "Sweden",
-      "birthCountry": "SWE",
-      "colors": {
-        "primary": "#ce1126",
-        "secondary": "#ffffff"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8481607.png",
-      "score": 41,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 0,
-        "p": 0,
-        "pm": 0,
-        "toi": 17.5,
-        "shots": 0
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        41
-      ]
-    },
-    {
       "id": 8482109,
       "first": "Alexis",
       "last": "Lafrenière",
@@ -15645,6 +15680,39 @@ window.NHL_DATA = {
         "pm": 0,
         "toi": 18.3,
         "shots": 4
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        41
+      ]
+    },
+    {
+      "id": 8483679,
+      "first": "Anton",
+      "last": "Johansson",
+      "name": "Anton Johansson",
+      "pos": "D",
+      "teamCode": "DET",
+      "age": 22,
+      "country": "Sweden",
+      "birthCountry": "SWE",
+      "colors": {
+        "primary": "#ce1126",
+        "secondary": "#ffffff"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8483679.png",
+      "score": 41,
+      "stats": {
+        "gp": 2,
+        "g": 0,
+        "a": 0,
+        "p": 0,
+        "pm": 0,
+        "toi": 16.3,
+        "shots": 0
       },
       "trajectory": [
         37,
@@ -15704,13 +15772,13 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8484223.png",
       "score": 41,
       "stats": {
-        "gp": 1,
+        "gp": 2,
         "g": 0,
         "a": 0,
         "p": 0,
-        "pm": 0,
-        "toi": 16.4,
-        "shots": 2
+        "pm": 1,
+        "toi": 16.0,
+        "shots": 5
       },
       "trajectory": [
         37,
@@ -16907,6 +16975,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8481607,
+      "first": "Albert",
+      "last": "Johansson",
+      "name": "Albert Johansson",
+      "pos": "D",
+      "teamCode": "DET",
+      "age": 25,
+      "country": "Sweden",
+      "birthCountry": "SWE",
+      "colors": {
+        "primary": "#ce1126",
+        "secondary": "#ffffff"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8481607.png",
+      "score": 40,
+      "stats": {
+        "gp": 2,
+        "g": 0,
+        "a": 0,
+        "p": 0,
+        "pm": 0,
+        "toi": 15.1,
+        "shots": 1
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        40
+      ]
+    },
+    {
       "id": 8485957,
       "first": "Alberts",
       "last": "Smits",
@@ -17352,13 +17453,13 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8477456.png",
       "score": 40,
       "stats": {
-        "gp": 1,
+        "gp": 2,
         "g": 0,
         "a": 0,
         "p": 0,
         "pm": 0,
-        "toi": 16.5,
-        "shots": 1
+        "toi": 14.7,
+        "shots": 3
       },
       "trajectory": [
         37,
@@ -17754,6 +17855,39 @@ window.NHL_DATA = {
         "p": 0,
         "pm": -4,
         "toi": 14.5,
+        "shots": 4
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        40
+      ]
+    },
+    {
+      "id": 8479992,
+      "first": "Michael",
+      "last": "Rasmussen",
+      "name": "Michael Rasmussen",
+      "pos": "C",
+      "teamCode": "DET",
+      "age": 27,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#ce1126",
+        "secondary": "#ffffff"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8479992.png",
+      "score": 40,
+      "stats": {
+        "gp": 2,
+        "g": 0,
+        "a": 0,
+        "p": 0,
+        "pm": -1,
+        "toi": 15.5,
         "shots": 4
       },
       "trajectory": [
@@ -18340,46 +18474,13 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8486025.png",
       "score": 40,
       "stats": {
-        "gp": 1,
+        "gp": 2,
         "g": 0,
         "a": 0,
         "p": 0,
         "pm": 0,
-        "toi": 15.7,
-        "shots": 2
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        40
-      ]
-    },
-    {
-      "id": 8478042,
-      "first": "Viktor",
-      "last": "Arvidsson",
-      "name": "Viktor Arvidsson",
-      "pos": "LW",
-      "teamCode": "DET",
-      "age": 33,
-      "country": "Sweden",
-      "birthCountry": "SWE",
-      "colors": {
-        "primary": "#ce1126",
-        "secondary": "#ffffff"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8478042.png",
-      "score": 40,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 0,
-        "p": 0,
-        "pm": -1,
-        "toi": 16.3,
-        "shots": 1
+        "toi": 14.5,
+        "shots": 3
       },
       "trajectory": [
         37,
@@ -18918,39 +19019,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8484471,
-      "first": "Emmitt",
-      "last": "Finnie",
-      "name": "Emmitt Finnie",
-      "pos": "C",
-      "teamCode": "DET",
-      "age": 21,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#ce1126",
-        "secondary": "#ffffff"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8484471.png",
-      "score": 39,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 0,
-        "p": 0,
-        "pm": 0,
-        "toi": 14.4,
-        "shots": 1
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        39
-      ]
-    },
-    {
       "id": 8482201,
       "first": "Gage",
       "last": "Goncalves",
@@ -19413,39 +19481,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8479992,
-      "first": "Michael",
-      "last": "Rasmussen",
-      "name": "Michael Rasmussen",
-      "pos": "C",
-      "teamCode": "DET",
-      "age": 27,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#ce1126",
-        "secondary": "#ffffff"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8479992.png",
-      "score": 39,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 0,
-        "p": 0,
-        "pm": -1,
-        "toi": 14.9,
-        "shots": 0
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        39
-      ]
-    },
-    {
       "id": 8480220,
       "first": "Noah",
       "last": "Cates",
@@ -19710,6 +19745,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8476480,
+      "first": "Vladislav",
+      "last": "Namestnikov",
+      "name": "Vladislav Namestnikov",
+      "pos": "C",
+      "teamCode": "WPG",
+      "age": 33,
+      "country": "Russia",
+      "birthCountry": "RUS",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#7b303e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8476480.png",
+      "score": 39,
+      "stats": {
+        "gp": 2,
+        "g": 0,
+        "a": 0,
+        "p": 0,
+        "pm": -1,
+        "toi": 12.4,
+        "shots": 2
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        39
+      ]
+    },
+    {
       "id": 8477998,
       "first": "Warren",
       "last": "Foegele",
@@ -19825,13 +19893,13 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8480113.png",
       "score": 38,
       "stats": {
-        "gp": 1,
+        "gp": 2,
         "g": 0,
         "a": 0,
         "p": 0,
         "pm": 0,
-        "toi": 12.2,
-        "shots": 0
+        "toi": 12.0,
+        "shots": 1
       },
       "trajectory": [
         37,
@@ -19957,13 +20025,13 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8483471.png",
       "score": 38,
       "stats": {
-        "gp": 1,
+        "gp": 2,
         "g": 0,
         "a": 0,
         "p": 0,
         "pm": 0,
-        "toi": 11.8,
-        "shots": 0
+        "toi": 11.1,
+        "shots": 2
       },
       "trajectory": [
         37,
@@ -20353,12 +20421,12 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8482765.png",
       "score": 38,
       "stats": {
-        "gp": 1,
+        "gp": 2,
         "g": 0,
         "a": 0,
         "p": 0,
         "pm": -1,
-        "toi": 10.8,
+        "toi": 11.9,
         "shots": 1
       },
       "trajectory": [
@@ -20568,39 +20636,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8478891,
-      "first": "Mason",
-      "last": "Appleton",
-      "name": "Mason Appleton",
-      "pos": "C",
-      "teamCode": "DET",
-      "age": 30,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#ce1126",
-        "secondary": "#ffffff"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8478891.png",
-      "score": 38,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 0,
-        "p": 0,
-        "pm": 0,
-        "toi": 10.3,
-        "shots": 1
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        38
-      ]
-    },
-    {
       "id": 8479368,
       "first": "Max",
       "last": "Jones",
@@ -20657,39 +20692,6 @@ window.NHL_DATA = {
         "pm": 0,
         "toi": 12.0,
         "shots": 1
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        38
-      ]
-    },
-    {
-      "id": 8484794,
-      "first": "Michael",
-      "last": "Brandsegg-Nygård",
-      "name": "Michael Brandsegg-Nygård",
-      "pos": "RW",
-      "teamCode": "DET",
-      "age": 20,
-      "country": "Norway",
-      "birthCountry": "NOR",
-      "colors": {
-        "primary": "#ce1126",
-        "secondary": "#ffffff"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8484794.png",
-      "score": 38,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 0,
-        "p": 0,
-        "pm": 0,
-        "toi": 9.7,
-        "shots": 3
       },
       "trajectory": [
         37,
@@ -20782,12 +20784,12 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8475799.png",
       "score": 38,
       "stats": {
-        "gp": 1,
+        "gp": 2,
         "g": 0,
         "a": 0,
         "p": 0,
         "pm": 0,
-        "toi": 12.3,
+        "toi": 11.8,
         "shots": 0
       },
       "trajectory": [
@@ -21053,39 +21055,6 @@ window.NHL_DATA = {
         "pm": 0,
         "toi": 11.4,
         "shots": 0
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        38
-      ]
-    },
-    {
-      "id": 8476480,
-      "first": "Vladislav",
-      "last": "Namestnikov",
-      "name": "Vladislav Namestnikov",
-      "pos": "C",
-      "teamCode": "WPG",
-      "age": 33,
-      "country": "Russia",
-      "birthCountry": "RUS",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#7b303e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8476480.png",
-      "score": 38,
-      "stats": {
-        "gp": 1,
-        "g": 0,
-        "a": 0,
-        "p": 0,
-        "pm": -1,
-        "toi": 11.8,
-        "shots": 1
       },
       "trajectory": [
         37,
@@ -21442,13 +21411,46 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8478434.png",
       "score": 37,
       "stats": {
-        "gp": 1,
+        "gp": 2,
         "g": 0,
         "a": 0,
         "p": 0,
         "pm": 0,
-        "toi": 10.4,
+        "toi": 10.6,
         "shots": 0
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        37
+      ]
+    },
+    {
+      "id": 8478891,
+      "first": "Mason",
+      "last": "Appleton",
+      "name": "Mason Appleton",
+      "pos": "C",
+      "teamCode": "DET",
+      "age": 30,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#ce1126",
+        "secondary": "#ffffff"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8478891.png",
+      "score": 37,
+      "stats": {
+        "gp": 2,
+        "g": 0,
+        "a": 0,
+        "p": 0,
+        "pm": 0,
+        "toi": 9.8,
+        "shots": 1
       },
       "trajectory": [
         37,
@@ -21508,12 +21510,12 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8484160.png",
       "score": 37,
       "stats": {
-        "gp": 1,
+        "gp": 2,
         "g": 0,
         "a": 0,
         "p": 0,
         "pm": 0,
-        "toi": 9.7,
+        "toi": 8.9,
         "shots": 1
       },
       "trajectory": [
@@ -21647,6 +21649,39 @@ window.NHL_DATA = {
         "pm": -2,
         "toi": 8.1,
         "shots": 1
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        36
+      ]
+    },
+    {
+      "id": 8477971,
+      "first": "Andreas",
+      "last": "Englund",
+      "name": "Andreas Englund",
+      "pos": "D",
+      "teamCode": "DET",
+      "age": 30,
+      "country": "Sweden",
+      "birthCountry": "SWE",
+      "colors": {
+        "primary": "#ce1126",
+        "secondary": "#ffffff"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8477971.png",
+      "score": 36,
+      "stats": {
+        "gp": 1,
+        "g": 0,
+        "a": 0,
+        "p": 0,
+        "pm": 0,
+        "toi": 7.2,
+        "shots": 0
       },
       "trajectory": [
         37,
@@ -22003,12 +22038,12 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8482459.png",
       "score": 36,
       "stats": {
-        "gp": 1,
+        "gp": 2,
         "g": 0,
         "a": 0,
         "p": 0,
         "pm": 0,
-        "toi": 6.0,
+        "toi": 7.3,
         "shots": 0
       },
       "trajectory": [
@@ -22506,7 +22541,7 @@ window.NHL_DATA = {
           "a": 37,
           "p": 48,
           "pm": -20,
-          "score": 55
+          "score": 54
         },
         {
           "season": "1995-96",
@@ -22532,7 +22567,7 @@ window.NHL_DATA = {
           "a": 13,
           "p": 21,
           "pm": -6,
-          "score": 59
+          "score": 58
         },
         {
           "season": "1996-97",
@@ -22681,7 +22716,7 @@ window.NHL_DATA = {
           "a": 114,
           "p": 199,
           "pm": 41,
-          "score": 95
+          "score": 94
         },
         {
           "season": "1989-90",
@@ -22746,7 +22781,7 @@ window.NHL_DATA = {
           "a": 20,
           "p": 37,
           "pm": -2,
-          "score": 72
+          "score": 71
         },
         {
           "season": "1995-96",
@@ -22772,7 +22807,7 @@ window.NHL_DATA = {
           "a": 72,
           "p": 122,
           "pm": 27,
-          "score": 72
+          "score": 71
         },
         {
           "season": "2000-01",
@@ -22811,7 +22846,7 @@ window.NHL_DATA = {
           "a": 63,
           "p": 91,
           "pm": -25,
-          "score": 67
+          "score": 66
         },
         {
           "season": "2003-04",
@@ -22837,7 +22872,7 @@ window.NHL_DATA = {
           "a": 15,
           "p": 22,
           "pm": -16,
-          "score": 54
+          "score": 53
         }
       ],
       "bestSeason": {
@@ -22864,7 +22899,7 @@ window.NHL_DATA = {
         "a": 114,
         "p": 199,
         "pm": 41,
-        "score": 95
+        "score": 94
       }
     },
     {
@@ -22908,7 +22943,7 @@ window.NHL_DATA = {
           "a": 0,
           "p": 0,
           "pm": 0,
-          "score": 46
+          "score": 45
         },
         {
           "season": "1993-94",
@@ -22947,7 +22982,7 @@ window.NHL_DATA = {
           "a": 1,
           "p": 0,
           "pm": 0,
-          "score": 65
+          "score": 64
         },
         {
           "season": "1996-97",
@@ -22973,7 +23008,7 @@ window.NHL_DATA = {
           "a": 2,
           "p": 0,
           "pm": 0,
-          "score": 87
+          "score": 86
         },
         {
           "season": "1998-99",
@@ -22986,7 +23021,7 @@ window.NHL_DATA = {
           "a": 0,
           "p": 0,
           "pm": 0,
-          "score": 82
+          "score": 81
         },
         {
           "season": "1999-00",
@@ -22999,7 +23034,7 @@ window.NHL_DATA = {
           "a": 1,
           "p": 0,
           "pm": 0,
-          "score": 59
+          "score": 58
         },
         {
           "season": "2000-01",
@@ -23025,7 +23060,7 @@ window.NHL_DATA = {
           "a": 1,
           "p": 0,
           "pm": 0,
-          "score": 78
+          "score": 77
         },
         {
           "season": "2003-04",
@@ -23038,7 +23073,7 @@ window.NHL_DATA = {
           "a": 2,
           "p": 0,
           "pm": 0,
-          "score": 48
+          "score": 47
         },
         {
           "season": "2005-06",
@@ -23051,7 +23086,7 @@ window.NHL_DATA = {
           "a": 0,
           "p": 0,
           "pm": 0,
-          "score": 71
+          "score": 70
         },
         {
           "season": "2006-07",
@@ -23077,7 +23112,7 @@ window.NHL_DATA = {
           "a": 1,
           "p": 0,
           "pm": 0,
-          "score": 63
+          "score": 62
         }
       ],
       "bestSeason": {
@@ -23091,7 +23126,7 @@ window.NHL_DATA = {
         "a": 2,
         "p": 0,
         "pm": 0,
-        "score": 87
+        "score": 86
       },
       "age22Season": null
     },
@@ -23123,7 +23158,7 @@ window.NHL_DATA = {
           "a": 28,
           "p": 41,
           "pm": 1,
-          "score": 50
+          "score": 49
         },
         {
           "season": "1967-68",
@@ -23162,7 +23197,7 @@ window.NHL_DATA = {
           "a": 87,
           "p": 120,
           "pm": 54,
-          "score": 73
+          "score": 72
         },
         {
           "season": "1970-71",
@@ -23214,7 +23249,7 @@ window.NHL_DATA = {
           "a": 90,
           "p": 122,
           "pm": 84,
-          "score": 76
+          "score": 75
         },
         {
           "season": "1974-75",
@@ -23240,7 +23275,7 @@ window.NHL_DATA = {
           "a": 13,
           "p": 18,
           "pm": 10,
-          "score": 79
+          "score": 78
         },
         {
           "season": "1976-77",
@@ -23324,7 +23359,7 @@ window.NHL_DATA = {
           "a": 46,
           "p": 92,
           "pm": -19,
-          "score": 63
+          "score": 62
         },
         {
           "season": "2007-08",
@@ -23376,7 +23411,7 @@ window.NHL_DATA = {
           "a": 53,
           "p": 85,
           "pm": 24,
-          "score": 64
+          "score": 63
         },
         {
           "season": "2011-12",
@@ -23389,7 +23424,7 @@ window.NHL_DATA = {
           "a": 27,
           "p": 65,
           "pm": -8,
-          "score": 57
+          "score": 56
         },
         {
           "season": "2012-13",
@@ -23415,7 +23450,7 @@ window.NHL_DATA = {
           "a": 28,
           "p": 79,
           "pm": -35,
-          "score": 60
+          "score": 59
         },
         {
           "season": "2014-15",
@@ -23428,7 +23463,7 @@ window.NHL_DATA = {
           "a": 28,
           "p": 81,
           "pm": 10,
-          "score": 62
+          "score": 61
         },
         {
           "season": "2015-16",
@@ -23506,7 +23541,7 @@ window.NHL_DATA = {
           "a": 18,
           "p": 42,
           "pm": -7,
-          "score": 59
+          "score": 58
         },
         {
           "season": "2021-22",
@@ -23571,7 +23606,7 @@ window.NHL_DATA = {
           "a": 32,
           "p": 64,
           "pm": -5,
-          "score": 55
+          "score": 54
         }
       ],
       "bestSeason": {
@@ -23759,7 +23794,7 @@ window.NHL_DATA = {
           "a": 38,
           "p": 57,
           "pm": -16,
-          "score": 61
+          "score": 60
         },
         {
           "season": "2025-26",
@@ -23818,7 +23853,7 @@ window.NHL_DATA = {
           "a": 32,
           "p": 48,
           "pm": -1,
-          "score": 61
+          "score": 60
         },
         {
           "season": "2016-17",
@@ -23883,7 +23918,7 @@ window.NHL_DATA = {
           "a": 72,
           "p": 105,
           "pm": 21,
-          "score": 81
+          "score": 80
         },
         {
           "season": "2021-22",
@@ -23896,7 +23931,7 @@ window.NHL_DATA = {
           "a": 79,
           "p": 123,
           "pm": 28,
-          "score": 74
+          "score": 73
         },
         {
           "season": "2022-23",
@@ -23922,7 +23957,7 @@ window.NHL_DATA = {
           "a": 100,
           "p": 132,
           "pm": 35,
-          "score": 78
+          "score": 77
         },
         {
           "season": "2024-25",
@@ -23935,7 +23970,7 @@ window.NHL_DATA = {
           "a": 74,
           "p": 100,
           "pm": 20,
-          "score": 72
+          "score": 71
         },
         {
           "season": "2025-26",
@@ -23952,16 +23987,16 @@ window.NHL_DATA = {
         }
       ],
       "bestSeason": {
-        "season": "2020-21",
-        "seasonId": 20202021,
-        "age": 23,
+        "season": "2022-23",
+        "seasonId": 20222023,
+        "age": 25,
         "team": "Oilers",
         "teamName": "Edmonton Oilers",
-        "gp": 56,
-        "g": 33,
-        "a": 72,
-        "p": 105,
-        "pm": 21,
+        "gp": 82,
+        "g": 64,
+        "a": 89,
+        "p": 153,
+        "pm": 22,
         "score": 81
       },
       "age22Season": {
@@ -24019,7 +24054,7 @@ window.NHL_DATA = {
           "a": 61,
           "p": 108,
           "pm": 27,
-          "score": 69
+          "score": 68
         },
         {
           "season": "2022-23",
@@ -24032,7 +24067,7 @@ window.NHL_DATA = {
           "a": 35,
           "p": 75,
           "pm": 4,
-          "score": 64
+          "score": 63
         },
         {
           "season": "2023-24",
@@ -24117,7 +24152,7 @@ window.NHL_DATA = {
           "a": 52,
           "p": 85,
           "pm": 2,
-          "score": 62
+          "score": 61
         },
         {
           "season": "2007-08",
@@ -24130,7 +24165,7 @@ window.NHL_DATA = {
           "a": 59,
           "p": 106,
           "pm": 16,
-          "score": 68
+          "score": 67
         },
         {
           "season": "2008-09",
@@ -24182,7 +24217,7 @@ window.NHL_DATA = {
           "a": 59,
           "p": 109,
           "pm": 18,
-          "score": 72
+          "score": 71
         },
         {
           "season": "2012-13",
@@ -24195,7 +24230,7 @@ window.NHL_DATA = {
           "a": 24,
           "p": 33,
           "pm": 5,
-          "score": 62
+          "score": 61
         },
         {
           "season": "2013-14",
@@ -24208,7 +24243,7 @@ window.NHL_DATA = {
           "a": 49,
           "p": 72,
           "pm": 10,
-          "score": 65
+          "score": 64
         },
         {
           "season": "2014-15",
@@ -24247,7 +24282,7 @@ window.NHL_DATA = {
           "a": 39,
           "p": 72,
           "pm": 18,
-          "score": 65
+          "score": 64
         },
         {
           "season": "2017-18",
@@ -24286,7 +24321,7 @@ window.NHL_DATA = {
           "a": 49,
           "p": 74,
           "pm": 7,
-          "score": 68
+          "score": 67
         },
         {
           "season": "2020-21",
@@ -24338,7 +24373,7 @@ window.NHL_DATA = {
           "a": 40,
           "p": 67,
           "pm": 5,
-          "score": 56
+          "score": 55
         },
         {
           "season": "2024-25",
@@ -24351,7 +24386,7 @@ window.NHL_DATA = {
           "a": 34,
           "p": 50,
           "pm": -24,
-          "score": 52
+          "score": 51
         },
         {
           "season": "2025-26",
@@ -24378,7 +24413,7 @@ window.NHL_DATA = {
         "a": 59,
         "p": 109,
         "pm": 18,
-        "score": 72
+        "score": 71
       },
       "age22Season": {
         "season": "2008-09",
@@ -24422,7 +24457,7 @@ window.NHL_DATA = {
           "a": 30,
           "p": 57,
           "pm": -4,
-          "score": 50
+          "score": 49
         },
         {
           "season": "1991-92",
@@ -24461,7 +24496,7 @@ window.NHL_DATA = {
           "a": 67,
           "p": 99,
           "pm": 15,
-          "score": 63
+          "score": 62
         },
         {
           "season": "1994-95",
@@ -24487,7 +24522,7 @@ window.NHL_DATA = {
           "a": 87,
           "p": 149,
           "pm": 31,
-          "score": 77
+          "score": 76
         },
         {
           "season": "1996-97",
@@ -24500,7 +24535,7 @@ window.NHL_DATA = {
           "a": 48,
           "p": 95,
           "pm": 22,
-          "score": 70
+          "score": 69
         },
         {
           "season": "1997-98",
@@ -24552,7 +24587,7 @@ window.NHL_DATA = {
           "a": 69,
           "p": 121,
           "pm": 19,
-          "score": 73
+          "score": 72
         },
         {
           "season": "2001-02",
@@ -24604,7 +24639,7 @@ window.NHL_DATA = {
           "a": 14,
           "p": 29,
           "pm": -1,
-          "score": 59
+          "score": 58
         },
         {
           "season": "2005-06",
@@ -24617,7 +24652,7 @@ window.NHL_DATA = {
           "a": 69,
           "p": 123,
           "pm": 34,
-          "score": 74
+          "score": 73
         },
         {
           "season": "2006-07",
@@ -24656,7 +24691,7 @@ window.NHL_DATA = {
           "a": 35,
           "p": 54,
           "pm": 5,
-          "score": 54
+          "score": 53
         },
         {
           "season": "2012-13",
@@ -24708,7 +24743,7 @@ window.NHL_DATA = {
           "a": 18,
           "p": 29,
           "pm": -10,
-          "score": 48
+          "score": 47
         },
         {
           "season": "2014-15",
@@ -24734,7 +24769,7 @@ window.NHL_DATA = {
           "a": 39,
           "p": 66,
           "pm": 23,
-          "score": 57
+          "score": 56
         },
         {
           "season": "2016-17",
@@ -24747,7 +24782,7 @@ window.NHL_DATA = {
           "a": 30,
           "p": 46,
           "pm": 2,
-          "score": 50
+          "score": 49
         },
         {
           "season": "2017-18",
@@ -24774,7 +24809,7 @@ window.NHL_DATA = {
         "a": 87,
         "p": 149,
         "pm": 31,
-        "score": 77
+        "score": 76
       },
       "age22Season": {
         "season": "1994-95",
@@ -24877,7 +24912,7 @@ window.NHL_DATA = {
           "a": 63,
           "p": 102,
           "pm": -1,
-          "score": 66
+          "score": 65
         },
         {
           "season": "2006-07",
@@ -24890,7 +24925,7 @@ window.NHL_DATA = {
           "a": 84,
           "p": 120,
           "pm": 10,
-          "score": 72
+          "score": 71
         },
         {
           "season": "2007-08",
@@ -24916,7 +24951,7 @@ window.NHL_DATA = {
           "a": 70,
           "p": 103,
           "pm": 3,
-          "score": 68
+          "score": 67
         },
         {
           "season": "2009-10",
@@ -24955,7 +24990,7 @@ window.NHL_DATA = {
           "a": 29,
           "p": 37,
           "pm": 15,
-          "score": 77
+          "score": 76
         },
         {
           "season": "2012-13",
@@ -24968,7 +25003,7 @@ window.NHL_DATA = {
           "a": 41,
           "p": 56,
           "pm": 26,
-          "score": 75
+          "score": 74
         },
         {
           "season": "2013-14",
@@ -24981,7 +25016,7 @@ window.NHL_DATA = {
           "a": 68,
           "p": 104,
           "pm": 18,
-          "score": 68
+          "score": 67
         },
         {
           "season": "2014-15",
@@ -25033,7 +25068,7 @@ window.NHL_DATA = {
           "a": 60,
           "p": 89,
           "pm": 0,
-          "score": 62
+          "score": 61
         },
         {
           "season": "2018-19",
@@ -25046,7 +25081,7 @@ window.NHL_DATA = {
           "a": 65,
           "p": 100,
           "pm": 18,
-          "score": 67
+          "score": 66
         },
         {
           "season": "2019-20",
@@ -25085,7 +25120,7 @@ window.NHL_DATA = {
           "a": 53,
           "p": 84,
           "pm": 19,
-          "score": 66
+          "score": 65
         },
         {
           "season": "2022-23",
@@ -25111,7 +25146,7 @@ window.NHL_DATA = {
           "a": 52,
           "p": 94,
           "pm": 7,
-          "score": 64
+          "score": 63
         },
         {
           "season": "2024-25",
@@ -25124,7 +25159,7 @@ window.NHL_DATA = {
           "a": 58,
           "p": 91,
           "pm": -20,
-          "score": 62
+          "score": 61
         },
         {
           "season": "2025-26",
@@ -25141,17 +25176,17 @@ window.NHL_DATA = {
         }
       ],
       "bestSeason": {
-        "season": "2011-12",
-        "seasonId": 20112012,
-        "age": 24,
+        "season": "2010-11",
+        "seasonId": 20102011,
+        "age": 23,
         "team": "Penguins",
         "teamName": "Pittsburgh Penguins",
-        "gp": 22,
-        "g": 8,
-        "a": 29,
-        "p": 37,
-        "pm": 15,
-        "score": 77
+        "gp": 41,
+        "g": 32,
+        "a": 34,
+        "p": 66,
+        "pm": 20,
+        "score": 76
       },
       "age22Season": {
         "season": "2009-10",
@@ -25165,220 +25200,6 @@ window.NHL_DATA = {
         "p": 109,
         "pm": 15,
         "score": 69
-      }
-    },
-    {
-      "id": 8477492,
-      "name": "Nathan MacKinnon",
-      "pos": "C",
-      "active": true,
-      "teamCode": "COL",
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "birthDate": "1995-09-01",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8477492.png",
-      "currentScore": 90,
-      "legendScore": null,
-      "colors": {
-        "primary": "#6f263d",
-        "secondary": "#236192"
-      },
-      "seasons": [
-        {
-          "season": "2013-14",
-          "seasonId": 20132014,
-          "age": 18,
-          "team": "Avalanche",
-          "teamName": "Colorado Avalanche",
-          "gp": 82,
-          "g": 24,
-          "a": 39,
-          "p": 63,
-          "pm": 20,
-          "score": 55
-        },
-        {
-          "season": "2014-15",
-          "seasonId": 20142015,
-          "age": 19,
-          "team": "Avalanche",
-          "teamName": "Colorado Avalanche",
-          "gp": 64,
-          "g": 14,
-          "a": 24,
-          "p": 38,
-          "pm": -7,
-          "score": 50
-        },
-        {
-          "season": "2015-16",
-          "seasonId": 20152016,
-          "age": 20,
-          "team": "Avalanche",
-          "teamName": "Colorado Avalanche",
-          "gp": 72,
-          "g": 21,
-          "a": 31,
-          "p": 52,
-          "pm": -4,
-          "score": 54
-        },
-        {
-          "season": "2016-17",
-          "seasonId": 20162017,
-          "age": 21,
-          "team": "Avalanche",
-          "teamName": "Colorado Avalanche",
-          "gp": 82,
-          "g": 16,
-          "a": 37,
-          "p": 53,
-          "pm": -14,
-          "score": 51
-        },
-        {
-          "season": "2017-18",
-          "seasonId": 20172018,
-          "age": 22,
-          "team": "Avalanche",
-          "teamName": "Colorado Avalanche",
-          "gp": 74,
-          "g": 39,
-          "a": 58,
-          "p": 97,
-          "pm": 11,
-          "score": 68
-        },
-        {
-          "season": "2018-19",
-          "seasonId": 20182019,
-          "age": 23,
-          "team": "Avalanche",
-          "teamName": "Colorado Avalanche",
-          "gp": 82,
-          "g": 41,
-          "a": 58,
-          "p": 99,
-          "pm": 20,
-          "score": 66
-        },
-        {
-          "season": "2019-20",
-          "seasonId": 20192020,
-          "age": 24,
-          "team": "Avalanche",
-          "teamName": "Colorado Avalanche",
-          "gp": 69,
-          "g": 35,
-          "a": 58,
-          "p": 93,
-          "pm": 13,
-          "score": 69
-        },
-        {
-          "season": "2020-21",
-          "seasonId": 20202021,
-          "age": 25,
-          "team": "Avalanche",
-          "teamName": "Colorado Avalanche",
-          "gp": 48,
-          "g": 20,
-          "a": 45,
-          "p": 65,
-          "pm": 22,
-          "score": 70
-        },
-        {
-          "season": "2021-22",
-          "seasonId": 20212022,
-          "age": 26,
-          "team": "Avalanche",
-          "teamName": "Colorado Avalanche",
-          "gp": 65,
-          "g": 32,
-          "a": 56,
-          "p": 88,
-          "pm": 22,
-          "score": 70
-        },
-        {
-          "season": "2022-23",
-          "seasonId": 20222023,
-          "age": 27,
-          "team": "Avalanche",
-          "teamName": "Colorado Avalanche",
-          "gp": 71,
-          "g": 42,
-          "a": 69,
-          "p": 111,
-          "pm": 29,
-          "score": 75
-        },
-        {
-          "season": "2023-24",
-          "seasonId": 20232024,
-          "age": 28,
-          "team": "Avalanche",
-          "teamName": "Colorado Avalanche",
-          "gp": 82,
-          "g": 51,
-          "a": 89,
-          "p": 140,
-          "pm": 35,
-          "score": 78
-        },
-        {
-          "season": "2024-25",
-          "seasonId": 20242025,
-          "age": 29,
-          "team": "Avalanche",
-          "teamName": "Colorado Avalanche",
-          "gp": 79,
-          "g": 32,
-          "a": 84,
-          "p": 116,
-          "pm": 25,
-          "score": 72
-        },
-        {
-          "season": "2025-26",
-          "seasonId": 20252026,
-          "age": 30,
-          "team": "Avalanche",
-          "teamName": "Colorado Avalanche",
-          "gp": 80,
-          "g": 53,
-          "a": 74,
-          "p": 127,
-          "pm": 57,
-          "score": 77
-        }
-      ],
-      "bestSeason": {
-        "season": "2023-24",
-        "seasonId": 20232024,
-        "age": 28,
-        "team": "Avalanche",
-        "teamName": "Colorado Avalanche",
-        "gp": 82,
-        "g": 51,
-        "a": 89,
-        "p": 140,
-        "pm": 35,
-        "score": 78
-      },
-      "age22Season": {
-        "season": "2017-18",
-        "seasonId": 20172018,
-        "age": 22,
-        "team": "Avalanche",
-        "teamName": "Colorado Avalanche",
-        "gp": 74,
-        "g": 39,
-        "a": 58,
-        "p": 97,
-        "pm": 11,
-        "score": 68
       }
     },
     {
@@ -25422,7 +25243,7 @@ window.NHL_DATA = {
           "a": 1,
           "p": 0,
           "pm": 0,
-          "score": 54
+          "score": 53
         },
         {
           "season": "1987-88",
@@ -25435,7 +25256,7 @@ window.NHL_DATA = {
           "a": 2,
           "p": 0,
           "pm": 0,
-          "score": 59
+          "score": 58
         },
         {
           "season": "1988-89",
@@ -25461,7 +25282,7 @@ window.NHL_DATA = {
           "a": 5,
           "p": 0,
           "pm": 0,
-          "score": 68
+          "score": 67
         },
         {
           "season": "1990-91",
@@ -25474,7 +25295,7 @@ window.NHL_DATA = {
           "a": 2,
           "p": 0,
           "pm": 0,
-          "score": 60
+          "score": 59
         },
         {
           "season": "1991-92",
@@ -25487,7 +25308,7 @@ window.NHL_DATA = {
           "a": 5,
           "p": 0,
           "pm": 0,
-          "score": 75
+          "score": 74
         },
         {
           "season": "1992-93",
@@ -25526,7 +25347,7 @@ window.NHL_DATA = {
           "a": 1,
           "p": 0,
           "pm": 0,
-          "score": 55
+          "score": 54
         },
         {
           "season": "1995-96",
@@ -25539,7 +25360,7 @@ window.NHL_DATA = {
           "a": 0,
           "p": 0,
           "pm": 0,
-          "score": 50
+          "score": 49
         },
         {
           "season": "1995-96",
@@ -25591,7 +25412,7 @@ window.NHL_DATA = {
           "a": 2,
           "p": 0,
           "pm": 0,
-          "score": 73
+          "score": 72
         },
         {
           "season": "1999-00",
@@ -25674,6 +25495,220 @@ window.NHL_DATA = {
       }
     },
     {
+      "id": 8477492,
+      "name": "Nathan MacKinnon",
+      "pos": "C",
+      "active": true,
+      "teamCode": "COL",
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "birthDate": "1995-09-01",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8477492.png",
+      "currentScore": 90,
+      "legendScore": null,
+      "colors": {
+        "primary": "#6f263d",
+        "secondary": "#236192"
+      },
+      "seasons": [
+        {
+          "season": "2013-14",
+          "seasonId": 20132014,
+          "age": 18,
+          "team": "Avalanche",
+          "teamName": "Colorado Avalanche",
+          "gp": 82,
+          "g": 24,
+          "a": 39,
+          "p": 63,
+          "pm": 20,
+          "score": 55
+        },
+        {
+          "season": "2014-15",
+          "seasonId": 20142015,
+          "age": 19,
+          "team": "Avalanche",
+          "teamName": "Colorado Avalanche",
+          "gp": 64,
+          "g": 14,
+          "a": 24,
+          "p": 38,
+          "pm": -7,
+          "score": 50
+        },
+        {
+          "season": "2015-16",
+          "seasonId": 20152016,
+          "age": 20,
+          "team": "Avalanche",
+          "teamName": "Colorado Avalanche",
+          "gp": 72,
+          "g": 21,
+          "a": 31,
+          "p": 52,
+          "pm": -4,
+          "score": 53
+        },
+        {
+          "season": "2016-17",
+          "seasonId": 20162017,
+          "age": 21,
+          "team": "Avalanche",
+          "teamName": "Colorado Avalanche",
+          "gp": 82,
+          "g": 16,
+          "a": 37,
+          "p": 53,
+          "pm": -14,
+          "score": 51
+        },
+        {
+          "season": "2017-18",
+          "seasonId": 20172018,
+          "age": 22,
+          "team": "Avalanche",
+          "teamName": "Colorado Avalanche",
+          "gp": 74,
+          "g": 39,
+          "a": 58,
+          "p": 97,
+          "pm": 11,
+          "score": 67
+        },
+        {
+          "season": "2018-19",
+          "seasonId": 20182019,
+          "age": 23,
+          "team": "Avalanche",
+          "teamName": "Colorado Avalanche",
+          "gp": 82,
+          "g": 41,
+          "a": 58,
+          "p": 99,
+          "pm": 20,
+          "score": 66
+        },
+        {
+          "season": "2019-20",
+          "seasonId": 20192020,
+          "age": 24,
+          "team": "Avalanche",
+          "teamName": "Colorado Avalanche",
+          "gp": 69,
+          "g": 35,
+          "a": 58,
+          "p": 93,
+          "pm": 13,
+          "score": 69
+        },
+        {
+          "season": "2020-21",
+          "seasonId": 20202021,
+          "age": 25,
+          "team": "Avalanche",
+          "teamName": "Colorado Avalanche",
+          "gp": 48,
+          "g": 20,
+          "a": 45,
+          "p": 65,
+          "pm": 22,
+          "score": 69
+        },
+        {
+          "season": "2021-22",
+          "seasonId": 20212022,
+          "age": 26,
+          "team": "Avalanche",
+          "teamName": "Colorado Avalanche",
+          "gp": 65,
+          "g": 32,
+          "a": 56,
+          "p": 88,
+          "pm": 22,
+          "score": 69
+        },
+        {
+          "season": "2022-23",
+          "seasonId": 20222023,
+          "age": 27,
+          "team": "Avalanche",
+          "teamName": "Colorado Avalanche",
+          "gp": 71,
+          "g": 42,
+          "a": 69,
+          "p": 111,
+          "pm": 29,
+          "score": 75
+        },
+        {
+          "season": "2023-24",
+          "seasonId": 20232024,
+          "age": 28,
+          "team": "Avalanche",
+          "teamName": "Colorado Avalanche",
+          "gp": 82,
+          "g": 51,
+          "a": 89,
+          "p": 140,
+          "pm": 35,
+          "score": 78
+        },
+        {
+          "season": "2024-25",
+          "seasonId": 20242025,
+          "age": 29,
+          "team": "Avalanche",
+          "teamName": "Colorado Avalanche",
+          "gp": 79,
+          "g": 32,
+          "a": 84,
+          "p": 116,
+          "pm": 25,
+          "score": 72
+        },
+        {
+          "season": "2025-26",
+          "seasonId": 20252026,
+          "age": 30,
+          "team": "Avalanche",
+          "teamName": "Colorado Avalanche",
+          "gp": 80,
+          "g": 53,
+          "a": 74,
+          "p": 127,
+          "pm": 57,
+          "score": 76
+        }
+      ],
+      "bestSeason": {
+        "season": "2023-24",
+        "seasonId": 20232024,
+        "age": 28,
+        "team": "Avalanche",
+        "teamName": "Colorado Avalanche",
+        "gp": 82,
+        "g": 51,
+        "a": 89,
+        "p": 140,
+        "pm": 35,
+        "score": 78
+      },
+      "age22Season": {
+        "season": "2017-18",
+        "seasonId": 20172018,
+        "age": 22,
+        "team": "Avalanche",
+        "teamName": "Colorado Avalanche",
+        "gp": 74,
+        "g": 39,
+        "a": 58,
+        "p": 97,
+        "pm": 11,
+        "score": 67
+      }
+    },
+    {
       "id": 8477934,
       "name": "Leon Draisaitl",
       "pos": "C",
@@ -25701,7 +25736,7 @@ window.NHL_DATA = {
           "a": 7,
           "p": 9,
           "pm": -17,
-          "score": 40
+          "score": 39
         },
         {
           "season": "2015-16",
@@ -25714,7 +25749,7 @@ window.NHL_DATA = {
           "a": 32,
           "p": 51,
           "pm": -2,
-          "score": 53
+          "score": 52
         },
         {
           "season": "2016-17",
@@ -25740,7 +25775,7 @@ window.NHL_DATA = {
           "a": 45,
           "p": 70,
           "pm": -7,
-          "score": 57
+          "score": 56
         },
         {
           "season": "2018-19",
@@ -25753,7 +25788,7 @@ window.NHL_DATA = {
           "a": 55,
           "p": 105,
           "pm": 2,
-          "score": 67
+          "score": 66
         },
         {
           "season": "2019-20",
@@ -25805,7 +25840,7 @@ window.NHL_DATA = {
           "a": 76,
           "p": 128,
           "pm": 7,
-          "score": 74
+          "score": 73
         },
         {
           "season": "2023-24",
@@ -25848,17 +25883,17 @@ window.NHL_DATA = {
         }
       ],
       "bestSeason": {
-        "season": "2022-23",
-        "seasonId": 20222023,
-        "age": 26,
+        "season": "2020-21",
+        "seasonId": 20202021,
+        "age": 24,
         "team": "Oilers",
         "teamName": "Edmonton Oilers",
-        "gp": 80,
-        "g": 52,
-        "a": 76,
-        "p": 128,
-        "pm": 7,
-        "score": 74
+        "gp": 56,
+        "g": 31,
+        "a": 53,
+        "p": 84,
+        "pm": 29,
+        "score": 73
       },
       "age22Season": {
         "season": "2018-19",
@@ -25871,7 +25906,7 @@ window.NHL_DATA = {
         "a": 55,
         "p": 105,
         "pm": 2,
-        "score": 67
+        "score": 66
       }
     },
     {
@@ -25902,7 +25937,7 @@ window.NHL_DATA = {
           "a": 38,
           "p": 50,
           "pm": 12,
-          "score": 58
+          "score": 57
         },
         {
           "season": "2020-21",
@@ -25928,7 +25963,7 @@ window.NHL_DATA = {
           "a": 58,
           "p": 86,
           "pm": 48,
-          "score": 66
+          "score": 65
         },
         {
           "season": "2022-23",
@@ -25941,7 +25976,7 @@ window.NHL_DATA = {
           "a": 49,
           "p": 66,
           "pm": 16,
-          "score": 64
+          "score": 63
         },
         {
           "season": "2023-24",
@@ -25954,7 +25989,7 @@ window.NHL_DATA = {
           "a": 69,
           "p": 90,
           "pm": 15,
-          "score": 65
+          "score": 64
         },
         {
           "season": "2024-25",
@@ -25994,7 +26029,7 @@ window.NHL_DATA = {
         "a": 58,
         "p": 86,
         "pm": 48,
-        "score": 66
+        "score": 65
       },
       "age22Season": {
         "season": "2021-22",
@@ -26007,7 +26042,7 @@ window.NHL_DATA = {
         "a": 58,
         "p": 86,
         "pm": 48,
-        "score": 66
+        "score": 65
       }
     },
     {
@@ -26064,7 +26099,7 @@ window.NHL_DATA = {
           "a": 39,
           "p": 64,
           "pm": -25,
-          "score": 58
+          "score": 57
         },
         {
           "season": "2018-19",
@@ -26103,7 +26138,7 @@ window.NHL_DATA = {
           "a": 16,
           "p": 18,
           "pm": -9,
-          "score": 55
+          "score": 54
         },
         {
           "season": "2021-22",
@@ -26142,7 +26177,7 @@ window.NHL_DATA = {
           "a": 37,
           "p": 68,
           "pm": 4,
-          "score": 63
+          "score": 62
         },
         {
           "season": "2024-25",
@@ -26239,7 +26274,7 @@ window.NHL_DATA = {
           "a": 44,
           "p": 67,
           "pm": -36,
-          "score": 54
+          "score": 53
         },
         {
           "season": "2025-26",
@@ -26271,389 +26306,6 @@ window.NHL_DATA = {
       "age22Season": null
     },
     {
-      "id": 8448000,
-      "name": "Gordie Howe",
-      "pos": "RW",
-      "active": false,
-      "teamCode": "DET",
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "birthDate": "1928-03-31",
-      "headshot": "https://assets.nhle.com/mugs/nhl/latest/8448000.png",
-      "currentScore": null,
-      "legendScore": 97.4,
-      "colors": {
-        "primary": "#ce1126",
-        "secondary": "#ffffff"
-      },
-      "seasons": [
-        {
-          "season": "1946-47",
-          "seasonId": 19461947,
-          "age": 18,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 58,
-          "g": 7,
-          "a": 15,
-          "p": 22,
-          "pm": 0,
-          "score": 42
-        },
-        {
-          "season": "1947-48",
-          "seasonId": 19471948,
-          "age": 19,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 60,
-          "g": 16,
-          "a": 28,
-          "p": 44,
-          "pm": 0,
-          "score": 50
-        },
-        {
-          "season": "1948-49",
-          "seasonId": 19481949,
-          "age": 20,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 40,
-          "g": 12,
-          "a": 25,
-          "p": 37,
-          "pm": 0,
-          "score": 54
-        },
-        {
-          "season": "1949-50",
-          "seasonId": 19491950,
-          "age": 21,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 70,
-          "g": 35,
-          "a": 33,
-          "p": 68,
-          "pm": 0,
-          "score": 55
-        },
-        {
-          "season": "1950-51",
-          "seasonId": 19501951,
-          "age": 22,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 70,
-          "g": 43,
-          "a": 43,
-          "p": 86,
-          "pm": 0,
-          "score": 61
-        },
-        {
-          "season": "1951-52",
-          "seasonId": 19511952,
-          "age": 23,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 70,
-          "g": 47,
-          "a": 39,
-          "p": 86,
-          "pm": 0,
-          "score": 61
-        },
-        {
-          "season": "1952-53",
-          "seasonId": 19521953,
-          "age": 24,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 70,
-          "g": 49,
-          "a": 46,
-          "p": 95,
-          "pm": 0,
-          "score": 64
-        },
-        {
-          "season": "1953-54",
-          "seasonId": 19531954,
-          "age": 25,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 70,
-          "g": 33,
-          "a": 48,
-          "p": 81,
-          "pm": 0,
-          "score": 59
-        },
-        {
-          "season": "1954-55",
-          "seasonId": 19541955,
-          "age": 26,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 64,
-          "g": 29,
-          "a": 33,
-          "p": 62,
-          "pm": 0,
-          "score": 55
-        },
-        {
-          "season": "1955-56",
-          "seasonId": 19551956,
-          "age": 27,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 70,
-          "g": 38,
-          "a": 41,
-          "p": 79,
-          "pm": 0,
-          "score": 58
-        },
-        {
-          "season": "1956-57",
-          "seasonId": 19561957,
-          "age": 28,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 70,
-          "g": 44,
-          "a": 45,
-          "p": 89,
-          "pm": 0,
-          "score": 62
-        },
-        {
-          "season": "1957-58",
-          "seasonId": 19571958,
-          "age": 29,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 64,
-          "g": 33,
-          "a": 44,
-          "p": 77,
-          "pm": 0,
-          "score": 60
-        },
-        {
-          "season": "1958-59",
-          "seasonId": 19581959,
-          "age": 30,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 70,
-          "g": 32,
-          "a": 46,
-          "p": 78,
-          "pm": 0,
-          "score": 58
-        },
-        {
-          "season": "1959-60",
-          "seasonId": 19591960,
-          "age": 31,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 70,
-          "g": 28,
-          "a": 45,
-          "p": 73,
-          "pm": 16,
-          "score": 59
-        },
-        {
-          "season": "1960-61",
-          "seasonId": 19601961,
-          "age": 32,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 64,
-          "g": 23,
-          "a": 49,
-          "p": 72,
-          "pm": -5,
-          "score": 60
-        },
-        {
-          "season": "1961-62",
-          "seasonId": 19611962,
-          "age": 33,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 70,
-          "g": 33,
-          "a": 44,
-          "p": 77,
-          "pm": 12,
-          "score": 60
-        },
-        {
-          "season": "1962-63",
-          "seasonId": 19621963,
-          "age": 34,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 70,
-          "g": 38,
-          "a": 48,
-          "p": 86,
-          "pm": 23,
-          "score": 64
-        },
-        {
-          "season": "1963-64",
-          "seasonId": 19631964,
-          "age": 35,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 69,
-          "g": 26,
-          "a": 47,
-          "p": 73,
-          "pm": -10,
-          "score": 58
-        },
-        {
-          "season": "1964-65",
-          "seasonId": 19641965,
-          "age": 36,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 70,
-          "g": 29,
-          "a": 47,
-          "p": 76,
-          "pm": 22,
-          "score": 60
-        },
-        {
-          "season": "1965-66",
-          "seasonId": 19651966,
-          "age": 37,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 70,
-          "g": 29,
-          "a": 46,
-          "p": 75,
-          "pm": 19,
-          "score": 60
-        },
-        {
-          "season": "1966-67",
-          "seasonId": 19661967,
-          "age": 38,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 69,
-          "g": 25,
-          "a": 40,
-          "p": 65,
-          "pm": -3,
-          "score": 56
-        },
-        {
-          "season": "1967-68",
-          "seasonId": 19671968,
-          "age": 39,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 74,
-          "g": 39,
-          "a": 43,
-          "p": 82,
-          "pm": 12,
-          "score": 60
-        },
-        {
-          "season": "1968-69",
-          "seasonId": 19681969,
-          "age": 40,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 76,
-          "g": 44,
-          "a": 59,
-          "p": 103,
-          "pm": 45,
-          "score": 67
-        },
-        {
-          "season": "1969-70",
-          "seasonId": 19691970,
-          "age": 41,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 76,
-          "g": 31,
-          "a": 40,
-          "p": 71,
-          "pm": 23,
-          "score": 57
-        },
-        {
-          "season": "1970-71",
-          "seasonId": 19701971,
-          "age": 42,
-          "team": "Red Wings",
-          "teamName": "Detroit Red Wings",
-          "gp": 63,
-          "g": 23,
-          "a": 29,
-          "p": 52,
-          "pm": -3,
-          "score": 53
-        },
-        {
-          "season": "1979-80",
-          "seasonId": 19791980,
-          "age": 51,
-          "team": "Whalers",
-          "teamName": "Hartford Whalers",
-          "gp": 80,
-          "g": 15,
-          "a": 26,
-          "p": 41,
-          "pm": 9,
-          "score": 46
-        }
-      ],
-      "bestSeason": {
-        "season": "1968-69",
-        "seasonId": 19681969,
-        "age": 40,
-        "team": "Red Wings",
-        "teamName": "Detroit Red Wings",
-        "gp": 76,
-        "g": 44,
-        "a": 59,
-        "p": 103,
-        "pm": 45,
-        "score": 67
-      },
-      "age22Season": {
-        "season": "1950-51",
-        "seasonId": 19501951,
-        "age": 22,
-        "team": "Red Wings",
-        "teamName": "Detroit Red Wings",
-        "gp": 70,
-        "g": 43,
-        "a": 43,
-        "p": 86,
-        "pm": 0,
-        "score": 61
-      }
-    },
-    {
       "id": 8478398,
       "name": "Kyle Connor",
       "pos": "LW",
@@ -26663,7 +26315,7 @@ window.NHL_DATA = {
       "birthCountry": "USA",
       "birthDate": "1996-12-09",
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8478398.png",
-      "currentScore": 83,
+      "currentScore": 93,
       "legendScore": null,
       "colors": {
         "primary": "#041e42",
@@ -26746,7 +26398,7 @@ window.NHL_DATA = {
           "a": 46,
           "p": 93,
           "pm": -3,
-          "score": 65
+          "score": 64
         },
         {
           "season": "2022-23",
@@ -26772,7 +26424,7 @@ window.NHL_DATA = {
           "a": 27,
           "p": 61,
           "pm": -6,
-          "score": 59
+          "score": 58
         },
         {
           "season": "2024-25",
@@ -26802,16 +26454,16 @@ window.NHL_DATA = {
         }
       ],
       "bestSeason": {
-        "season": "2021-22",
-        "seasonId": 20212022,
-        "age": 24,
+        "season": "2024-25",
+        "seasonId": 20242025,
+        "age": 27,
         "team": "Jets",
         "teamName": "Winnipeg Jets",
-        "gp": 79,
-        "g": 47,
-        "a": 46,
-        "p": 93,
-        "pm": -3,
+        "gp": 82,
+        "g": 41,
+        "a": 56,
+        "p": 97,
+        "pm": 17,
         "score": 65
       },
       "age22Season": {
@@ -26826,6 +26478,389 @@ window.NHL_DATA = {
         "p": 73,
         "pm": 4,
         "score": 61
+      }
+    },
+    {
+      "id": 8448000,
+      "name": "Gordie Howe",
+      "pos": "RW",
+      "active": false,
+      "teamCode": "DET",
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "birthDate": "1928-03-31",
+      "headshot": "https://assets.nhle.com/mugs/nhl/latest/8448000.png",
+      "currentScore": null,
+      "legendScore": 97.4,
+      "colors": {
+        "primary": "#ce1126",
+        "secondary": "#ffffff"
+      },
+      "seasons": [
+        {
+          "season": "1946-47",
+          "seasonId": 19461947,
+          "age": 18,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 58,
+          "g": 7,
+          "a": 15,
+          "p": 22,
+          "pm": 0,
+          "score": 41
+        },
+        {
+          "season": "1947-48",
+          "seasonId": 19471948,
+          "age": 19,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 60,
+          "g": 16,
+          "a": 28,
+          "p": 44,
+          "pm": 0,
+          "score": 49
+        },
+        {
+          "season": "1948-49",
+          "seasonId": 19481949,
+          "age": 20,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 40,
+          "g": 12,
+          "a": 25,
+          "p": 37,
+          "pm": 0,
+          "score": 53
+        },
+        {
+          "season": "1949-50",
+          "seasonId": 19491950,
+          "age": 21,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 70,
+          "g": 35,
+          "a": 33,
+          "p": 68,
+          "pm": 0,
+          "score": 55
+        },
+        {
+          "season": "1950-51",
+          "seasonId": 19501951,
+          "age": 22,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 70,
+          "g": 43,
+          "a": 43,
+          "p": 86,
+          "pm": 0,
+          "score": 60
+        },
+        {
+          "season": "1951-52",
+          "seasonId": 19511952,
+          "age": 23,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 70,
+          "g": 47,
+          "a": 39,
+          "p": 86,
+          "pm": 0,
+          "score": 60
+        },
+        {
+          "season": "1952-53",
+          "seasonId": 19521953,
+          "age": 24,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 70,
+          "g": 49,
+          "a": 46,
+          "p": 95,
+          "pm": 0,
+          "score": 63
+        },
+        {
+          "season": "1953-54",
+          "seasonId": 19531954,
+          "age": 25,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 70,
+          "g": 33,
+          "a": 48,
+          "p": 81,
+          "pm": 0,
+          "score": 58
+        },
+        {
+          "season": "1954-55",
+          "seasonId": 19541955,
+          "age": 26,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 64,
+          "g": 29,
+          "a": 33,
+          "p": 62,
+          "pm": 0,
+          "score": 54
+        },
+        {
+          "season": "1955-56",
+          "seasonId": 19551956,
+          "age": 27,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 70,
+          "g": 38,
+          "a": 41,
+          "p": 79,
+          "pm": 0,
+          "score": 58
+        },
+        {
+          "season": "1956-57",
+          "seasonId": 19561957,
+          "age": 28,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 70,
+          "g": 44,
+          "a": 45,
+          "p": 89,
+          "pm": 0,
+          "score": 61
+        },
+        {
+          "season": "1957-58",
+          "seasonId": 19571958,
+          "age": 29,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 64,
+          "g": 33,
+          "a": 44,
+          "p": 77,
+          "pm": 0,
+          "score": 60
+        },
+        {
+          "season": "1958-59",
+          "seasonId": 19581959,
+          "age": 30,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 70,
+          "g": 32,
+          "a": 46,
+          "p": 78,
+          "pm": 0,
+          "score": 58
+        },
+        {
+          "season": "1959-60",
+          "seasonId": 19591960,
+          "age": 31,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 70,
+          "g": 28,
+          "a": 45,
+          "p": 73,
+          "pm": 16,
+          "score": 59
+        },
+        {
+          "season": "1960-61",
+          "seasonId": 19601961,
+          "age": 32,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 64,
+          "g": 23,
+          "a": 49,
+          "p": 72,
+          "pm": -5,
+          "score": 59
+        },
+        {
+          "season": "1961-62",
+          "seasonId": 19611962,
+          "age": 33,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 70,
+          "g": 33,
+          "a": 44,
+          "p": 77,
+          "pm": 12,
+          "score": 60
+        },
+        {
+          "season": "1962-63",
+          "seasonId": 19621963,
+          "age": 34,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 70,
+          "g": 38,
+          "a": 48,
+          "p": 86,
+          "pm": 23,
+          "score": 63
+        },
+        {
+          "season": "1963-64",
+          "seasonId": 19631964,
+          "age": 35,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 69,
+          "g": 26,
+          "a": 47,
+          "p": 73,
+          "pm": -10,
+          "score": 58
+        },
+        {
+          "season": "1964-65",
+          "seasonId": 19641965,
+          "age": 36,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 70,
+          "g": 29,
+          "a": 47,
+          "p": 76,
+          "pm": 22,
+          "score": 60
+        },
+        {
+          "season": "1965-66",
+          "seasonId": 19651966,
+          "age": 37,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 70,
+          "g": 29,
+          "a": 46,
+          "p": 75,
+          "pm": 19,
+          "score": 59
+        },
+        {
+          "season": "1966-67",
+          "seasonId": 19661967,
+          "age": 38,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 69,
+          "g": 25,
+          "a": 40,
+          "p": 65,
+          "pm": -3,
+          "score": 55
+        },
+        {
+          "season": "1967-68",
+          "seasonId": 19671968,
+          "age": 39,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 74,
+          "g": 39,
+          "a": 43,
+          "p": 82,
+          "pm": 12,
+          "score": 60
+        },
+        {
+          "season": "1968-69",
+          "seasonId": 19681969,
+          "age": 40,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 76,
+          "g": 44,
+          "a": 59,
+          "p": 103,
+          "pm": 45,
+          "score": 67
+        },
+        {
+          "season": "1969-70",
+          "seasonId": 19691970,
+          "age": 41,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 76,
+          "g": 31,
+          "a": 40,
+          "p": 71,
+          "pm": 23,
+          "score": 56
+        },
+        {
+          "season": "1970-71",
+          "seasonId": 19701971,
+          "age": 42,
+          "team": "Red Wings",
+          "teamName": "Detroit Red Wings",
+          "gp": 63,
+          "g": 23,
+          "a": 29,
+          "p": 52,
+          "pm": -3,
+          "score": 52
+        },
+        {
+          "season": "1979-80",
+          "seasonId": 19791980,
+          "age": 51,
+          "team": "Whalers",
+          "teamName": "Hartford Whalers",
+          "gp": 80,
+          "g": 15,
+          "a": 26,
+          "p": 41,
+          "pm": 9,
+          "score": 45
+        }
+      ],
+      "bestSeason": {
+        "season": "1968-69",
+        "seasonId": 19681969,
+        "age": 40,
+        "team": "Red Wings",
+        "teamName": "Detroit Red Wings",
+        "gp": 76,
+        "g": 44,
+        "a": 59,
+        "p": 103,
+        "pm": 45,
+        "score": 67
+      },
+      "age22Season": {
+        "season": "1950-51",
+        "seasonId": 19501951,
+        "age": 22,
+        "team": "Red Wings",
+        "teamName": "Detroit Red Wings",
+        "gp": 70,
+        "g": 43,
+        "a": 43,
+        "p": 86,
+        "pm": 0,
+        "score": 60
       }
     },
     {
@@ -26856,7 +26891,7 @@ window.NHL_DATA = {
           "a": 60,
           "p": 66,
           "pm": -2,
-          "score": 55
+          "score": 54
         },
         {
           "season": "2025-26",
@@ -26915,7 +26950,7 @@ window.NHL_DATA = {
           "a": 45,
           "p": 53,
           "pm": -10,
-          "score": 54
+          "score": 53
         },
         {
           "season": "2020-21",
@@ -26928,7 +26963,7 @@ window.NHL_DATA = {
           "a": 38,
           "p": 41,
           "pm": -24,
-          "score": 52
+          "score": 51
         },
         {
           "season": "2021-22",
@@ -27037,6 +27072,78 @@ window.NHL_DATA = {
       }
     },
     {
+      "id": 8484153,
+      "name": "Leo Carlsson",
+      "pos": "C",
+      "active": true,
+      "teamCode": "ANA",
+      "country": "Sweden",
+      "birthCountry": "SWE",
+      "birthDate": "2004-12-26",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8484153.png",
+      "currentScore": 79,
+      "legendScore": null,
+      "colors": {
+        "primary": "#f47a38",
+        "secondary": "#b9975b"
+      },
+      "seasons": [
+        {
+          "season": "2023-24",
+          "seasonId": 20232024,
+          "age": 18,
+          "team": "Ducks",
+          "teamName": "Anaheim Ducks",
+          "gp": 55,
+          "g": 12,
+          "a": 17,
+          "p": 29,
+          "pm": -11,
+          "score": 48
+        },
+        {
+          "season": "2024-25",
+          "seasonId": 20242025,
+          "age": 19,
+          "team": "Ducks",
+          "teamName": "Anaheim Ducks",
+          "gp": 76,
+          "g": 20,
+          "a": 25,
+          "p": 45,
+          "pm": 6,
+          "score": 50
+        },
+        {
+          "season": "2025-26",
+          "seasonId": 20252026,
+          "age": 20,
+          "team": "Ducks",
+          "teamName": "Anaheim Ducks",
+          "gp": 70,
+          "g": 29,
+          "a": 38,
+          "p": 67,
+          "pm": 4,
+          "score": 59
+        }
+      ],
+      "bestSeason": {
+        "season": "2025-26",
+        "seasonId": 20252026,
+        "age": 20,
+        "team": "Ducks",
+        "teamName": "Anaheim Ducks",
+        "gp": 70,
+        "g": 29,
+        "a": 38,
+        "p": 67,
+        "pm": 4,
+        "score": 59
+      },
+      "age22Season": null
+    },
+    {
       "id": 8473512,
       "name": "Claude Giroux",
       "pos": "RW",
@@ -27064,7 +27171,7 @@ window.NHL_DATA = {
           "a": 18,
           "p": 27,
           "pm": 10,
-          "score": 52
+          "score": 51
         },
         {
           "season": "2009-10",
@@ -27090,7 +27197,7 @@ window.NHL_DATA = {
           "a": 51,
           "p": 76,
           "pm": 20,
-          "score": 59
+          "score": 58
         },
         {
           "season": "2011-12",
@@ -27103,7 +27210,7 @@ window.NHL_DATA = {
           "a": 65,
           "p": 93,
           "pm": 6,
-          "score": 65
+          "score": 64
         },
         {
           "season": "2012-13",
@@ -27142,7 +27249,7 @@ window.NHL_DATA = {
           "a": 48,
           "p": 73,
           "pm": -3,
-          "score": 58
+          "score": 57
         },
         {
           "season": "2015-16",
@@ -27220,7 +27327,7 @@ window.NHL_DATA = {
           "a": 27,
           "p": 43,
           "pm": -4,
-          "score": 55
+          "score": 54
         },
         {
           "season": "2021-22",
@@ -27298,7 +27405,7 @@ window.NHL_DATA = {
           "a": 35,
           "p": 49,
           "pm": 20,
-          "score": 51
+          "score": 50
         }
       ],
       "bestSeason": {
@@ -27325,7 +27432,7 @@ window.NHL_DATA = {
         "a": 51,
         "p": 76,
         "pm": 20,
-        "score": 59
+        "score": 58
       }
     },
     {
@@ -27356,7 +27463,7 @@ window.NHL_DATA = {
           "a": 9,
           "p": 15,
           "pm": -7,
-          "score": 46
+          "score": 45
         },
         {
           "season": "2023-24",
@@ -27395,7 +27502,7 @@ window.NHL_DATA = {
           "a": 33,
           "p": 73,
           "pm": 7,
-          "score": 59
+          "score": 58
         }
       ],
       "bestSeason": {
@@ -27409,7 +27516,7 @@ window.NHL_DATA = {
         "a": 33,
         "p": 73,
         "pm": 7,
-        "score": 59
+        "score": 58
       },
       "age22Season": {
         "season": "2025-26",
@@ -27422,80 +27529,8 @@ window.NHL_DATA = {
         "a": 33,
         "p": 73,
         "pm": 7,
-        "score": 59
+        "score": 58
       }
-    },
-    {
-      "id": 8484153,
-      "name": "Leo Carlsson",
-      "pos": "C",
-      "active": true,
-      "teamCode": "ANA",
-      "country": "Sweden",
-      "birthCountry": "SWE",
-      "birthDate": "2004-12-26",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8484153.png",
-      "currentScore": 79,
-      "legendScore": null,
-      "colors": {
-        "primary": "#f47a38",
-        "secondary": "#b9975b"
-      },
-      "seasons": [
-        {
-          "season": "2023-24",
-          "seasonId": 20232024,
-          "age": 18,
-          "team": "Ducks",
-          "teamName": "Anaheim Ducks",
-          "gp": 55,
-          "g": 12,
-          "a": 17,
-          "p": 29,
-          "pm": -11,
-          "score": 48
-        },
-        {
-          "season": "2024-25",
-          "seasonId": 20242025,
-          "age": 19,
-          "team": "Ducks",
-          "teamName": "Anaheim Ducks",
-          "gp": 76,
-          "g": 20,
-          "a": 25,
-          "p": 45,
-          "pm": 6,
-          "score": 50
-        },
-        {
-          "season": "2025-26",
-          "seasonId": 20252026,
-          "age": 20,
-          "team": "Ducks",
-          "teamName": "Anaheim Ducks",
-          "gp": 70,
-          "g": 29,
-          "a": 38,
-          "p": 67,
-          "pm": 4,
-          "score": 59
-        }
-      ],
-      "bestSeason": {
-        "season": "2025-26",
-        "seasonId": 20252026,
-        "age": 20,
-        "team": "Ducks",
-        "teamName": "Anaheim Ducks",
-        "gp": 70,
-        "g": 29,
-        "a": 38,
-        "p": 67,
-        "pm": 4,
-        "score": 59
-      },
-      "age22Season": null
     },
     {
       "id": 8476453,
@@ -27603,7 +27638,7 @@ window.NHL_DATA = {
           "a": 52,
           "p": 85,
           "pm": 26,
-          "score": 67
+          "score": 66
         },
         {
           "season": "2021-22",
@@ -27629,7 +27664,7 @@ window.NHL_DATA = {
           "a": 83,
           "p": 113,
           "pm": -2,
-          "score": 68
+          "score": 67
         },
         {
           "season": "2023-24",
@@ -27739,7 +27774,7 @@ window.NHL_DATA = {
           "a": 39,
           "p": 66,
           "pm": 16,
-          "score": 60
+          "score": 59
         },
         {
           "season": "2020-21",
@@ -27778,7 +27813,7 @@ window.NHL_DATA = {
           "a": 63,
           "p": 102,
           "pm": 16,
-          "score": 67
+          "score": 66
         },
         {
           "season": "2023-24",
@@ -27817,7 +27852,7 @@ window.NHL_DATA = {
           "a": 36,
           "p": 51,
           "pm": -30,
-          "score": 51
+          "score": 50
         }
       ],
       "bestSeason": {
@@ -27831,7 +27866,7 @@ window.NHL_DATA = {
         "a": 63,
         "p": 102,
         "pm": 16,
-        "score": 67
+        "score": 66
       },
       "age22Season": {
         "season": "2021-22",
@@ -27920,104 +27955,6 @@ window.NHL_DATA = {
       "age22Season": null
     },
     {
-      "id": 8478438,
-      "name": "Tommy Novak",
-      "pos": "C",
-      "active": true,
-      "teamCode": "PIT",
-      "country": "United States",
-      "birthCountry": "USA",
-      "birthDate": "1997-04-28",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8478438.png",
-      "currentScore": 79,
-      "legendScore": null,
-      "colors": {
-        "primary": "#111111",
-        "secondary": "#cfc493"
-      },
-      "seasons": [
-        {
-          "season": "2021-22",
-          "seasonId": 20212022,
-          "age": 24,
-          "team": "Predators",
-          "teamName": "Nashville Predators",
-          "gp": 27,
-          "g": 1,
-          "a": 6,
-          "p": 7,
-          "pm": -4,
-          "score": 41
-        },
-        {
-          "season": "2022-23",
-          "seasonId": 20222023,
-          "age": 25,
-          "team": "Predators",
-          "teamName": "Nashville Predators",
-          "gp": 51,
-          "g": 17,
-          "a": 26,
-          "p": 43,
-          "pm": 5,
-          "score": 56
-        },
-        {
-          "season": "2023-24",
-          "seasonId": 20232024,
-          "age": 26,
-          "team": "Predators",
-          "teamName": "Nashville Predators",
-          "gp": 71,
-          "g": 18,
-          "a": 27,
-          "p": 45,
-          "pm": -3,
-          "score": 50
-        },
-        {
-          "season": "2024-25",
-          "seasonId": 20242025,
-          "age": 27,
-          "team": "Predators",
-          "teamName": "Nashville Predators",
-          "gp": 52,
-          "g": 13,
-          "a": 9,
-          "p": 22,
-          "pm": -5,
-          "score": 46
-        },
-        {
-          "season": "2025-26",
-          "seasonId": 20252026,
-          "age": 28,
-          "team": "Penguins",
-          "teamName": "Pittsburgh Penguins",
-          "gp": 82,
-          "g": 16,
-          "a": 26,
-          "p": 42,
-          "pm": 1,
-          "score": 48
-        }
-      ],
-      "bestSeason": {
-        "season": "2022-23",
-        "seasonId": 20222023,
-        "age": 25,
-        "team": "Predators",
-        "teamName": "Nashville Predators",
-        "gp": 51,
-        "g": 17,
-        "a": 26,
-        "p": 43,
-        "pm": 5,
-        "score": 56
-      },
-      "age22Season": null
-    },
-    {
       "id": 8484227,
       "name": "Will Smith",
       "pos": "C",
@@ -28077,6 +28014,104 @@ window.NHL_DATA = {
       "age22Season": null
     },
     {
+      "id": 8478438,
+      "name": "Tommy Novak",
+      "pos": "C",
+      "active": true,
+      "teamCode": "PIT",
+      "country": "United States",
+      "birthCountry": "USA",
+      "birthDate": "1997-04-28",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8478438.png",
+      "currentScore": 79,
+      "legendScore": null,
+      "colors": {
+        "primary": "#111111",
+        "secondary": "#cfc493"
+      },
+      "seasons": [
+        {
+          "season": "2021-22",
+          "seasonId": 20212022,
+          "age": 24,
+          "team": "Predators",
+          "teamName": "Nashville Predators",
+          "gp": 27,
+          "g": 1,
+          "a": 6,
+          "p": 7,
+          "pm": -4,
+          "score": 40
+        },
+        {
+          "season": "2022-23",
+          "seasonId": 20222023,
+          "age": 25,
+          "team": "Predators",
+          "teamName": "Nashville Predators",
+          "gp": 51,
+          "g": 17,
+          "a": 26,
+          "p": 43,
+          "pm": 5,
+          "score": 55
+        },
+        {
+          "season": "2023-24",
+          "seasonId": 20232024,
+          "age": 26,
+          "team": "Predators",
+          "teamName": "Nashville Predators",
+          "gp": 71,
+          "g": 18,
+          "a": 27,
+          "p": 45,
+          "pm": -3,
+          "score": 50
+        },
+        {
+          "season": "2024-25",
+          "seasonId": 20242025,
+          "age": 27,
+          "team": "Predators",
+          "teamName": "Nashville Predators",
+          "gp": 52,
+          "g": 13,
+          "a": 9,
+          "p": 22,
+          "pm": -5,
+          "score": 45
+        },
+        {
+          "season": "2025-26",
+          "seasonId": 20252026,
+          "age": 28,
+          "team": "Penguins",
+          "teamName": "Pittsburgh Penguins",
+          "gp": 82,
+          "g": 16,
+          "a": 26,
+          "p": 42,
+          "pm": 1,
+          "score": 47
+        }
+      ],
+      "bestSeason": {
+        "season": "2022-23",
+        "seasonId": 20222023,
+        "age": 25,
+        "team": "Predators",
+        "teamName": "Nashville Predators",
+        "gp": 51,
+        "g": 17,
+        "a": 26,
+        "p": 43,
+        "pm": 5,
+        "score": 55
+      },
+      "age22Season": null
+    },
+    {
       "id": 8479345,
       "name": "Jakob Chychrun",
       "pos": "D",
@@ -28117,7 +28152,7 @@ window.NHL_DATA = {
           "a": 10,
           "p": 14,
           "pm": 2,
-          "score": 44
+          "score": 43
         },
         {
           "season": "2018-19",
@@ -28143,7 +28178,7 @@ window.NHL_DATA = {
           "a": 14,
           "p": 26,
           "pm": 4,
-          "score": 48
+          "score": 47
         },
         {
           "season": "2020-21",
@@ -28169,7 +28204,7 @@ window.NHL_DATA = {
           "a": 14,
           "p": 21,
           "pm": -20,
-          "score": 47
+          "score": 46
         },
         {
           "season": "2022-23",
@@ -28195,7 +28230,7 @@ window.NHL_DATA = {
           "a": 3,
           "p": 5,
           "pm": -1,
-          "score": 47
+          "score": 46
         },
         {
           "season": "2023-24",
@@ -28208,7 +28243,7 @@ window.NHL_DATA = {
           "a": 27,
           "p": 41,
           "pm": -30,
-          "score": 48
+          "score": 47
         },
         {
           "season": "2024-25",
@@ -28221,7 +28256,7 @@ window.NHL_DATA = {
           "a": 27,
           "p": 47,
           "pm": 17,
-          "score": 53
+          "score": 52
         },
         {
           "season": "2025-26",
@@ -28292,7 +28327,7 @@ window.NHL_DATA = {
           "a": 20,
           "p": 35,
           "pm": 9,
-          "score": 47
+          "score": 46
         },
         {
           "season": "2024-25",
@@ -28376,7 +28411,7 @@ window.NHL_DATA = {
           "a": 17,
           "p": 20,
           "pm": -8,
-          "score": 43
+          "score": 42
         },
         {
           "season": "2018-19",
@@ -28389,7 +28424,7 @@ window.NHL_DATA = {
           "a": 23,
           "p": 27,
           "pm": 8,
-          "score": 45
+          "score": 44
         },
         {
           "season": "2019-20",
@@ -28415,7 +28450,7 @@ window.NHL_DATA = {
           "a": 27,
           "p": 32,
           "pm": 15,
-          "score": 54
+          "score": 53
         },
         {
           "season": "2021-22",
@@ -28441,7 +28476,7 @@ window.NHL_DATA = {
           "a": 31,
           "p": 37,
           "pm": -10,
-          "score": 48
+          "score": 47
         },
         {
           "season": "2023-24",
@@ -28454,7 +28489,7 @@ window.NHL_DATA = {
           "a": 15,
           "p": 18,
           "pm": 0,
-          "score": 44
+          "score": 43
         },
         {
           "season": "2024-25",
@@ -28467,7 +28502,7 @@ window.NHL_DATA = {
           "a": 21,
           "p": 24,
           "pm": 7,
-          "score": 45
+          "score": 44
         },
         {
           "season": "2025-26",
@@ -28480,7 +28515,7 @@ window.NHL_DATA = {
           "a": 9,
           "p": 12,
           "pm": 12,
-          "score": 45
+          "score": 44
         },
         {
           "season": "2025-26",
@@ -28507,7 +28542,7 @@ window.NHL_DATA = {
         "a": 27,
         "p": 32,
         "pm": 15,
-        "score": 54
+        "score": 53
       },
       "age22Season": {
         "season": "2020-21",
@@ -28520,7 +28555,7 @@ window.NHL_DATA = {
         "a": 27,
         "p": 32,
         "pm": 15,
-        "score": 54
+        "score": 53
       }
     },
     {
@@ -28551,7 +28586,7 @@ window.NHL_DATA = {
           "a": 28,
           "p": 41,
           "pm": -15,
-          "score": 49
+          "score": 48
         },
         {
           "season": "2020-21",
@@ -28564,7 +28599,7 @@ window.NHL_DATA = {
           "a": 26,
           "p": 41,
           "pm": -5,
-          "score": 53
+          "score": 52
         },
         {
           "season": "2021-22",
@@ -28577,7 +28612,7 @@ window.NHL_DATA = {
           "a": 40,
           "p": 61,
           "pm": -29,
-          "score": 53
+          "score": 52
         },
         {
           "season": "2022-23",
@@ -28590,7 +28625,7 @@ window.NHL_DATA = {
           "a": 40,
           "p": 66,
           "pm": -13,
-          "score": 55
+          "score": 54
         },
         {
           "season": "2023-24",
@@ -28603,7 +28638,7 @@ window.NHL_DATA = {
           "a": 44,
           "p": 77,
           "pm": -14,
-          "score": 58
+          "score": 57
         },
         {
           "season": "2024-25",
@@ -28656,7 +28691,7 @@ window.NHL_DATA = {
         "a": 40,
         "p": 61,
         "pm": -29,
-        "score": 53
+        "score": 52
       }
     },
     {
@@ -28687,7 +28722,7 @@ window.NHL_DATA = {
           "a": 10,
           "p": 19,
           "pm": 2,
-          "score": 52
+          "score": 51
         }
       ],
       "bestSeason": {
@@ -28701,7 +28736,7 @@ window.NHL_DATA = {
         "a": 10,
         "p": 19,
         "pm": 2,
-        "score": 52
+        "score": 51
       },
       "age22Season": null
     },
@@ -28733,7 +28768,7 @@ window.NHL_DATA = {
           "a": 42,
           "p": 65,
           "pm": -7,
-          "score": 55
+          "score": 54
         },
         {
           "season": "2018-19",
@@ -28746,7 +28781,7 @@ window.NHL_DATA = {
           "a": 33,
           "p": 47,
           "pm": -21,
-          "score": 49
+          "score": 48
         },
         {
           "season": "2019-20",
@@ -28759,7 +28794,7 @@ window.NHL_DATA = {
           "a": 27,
           "p": 44,
           "pm": -6,
-          "score": 51
+          "score": 50
         },
         {
           "season": "2020-21",
@@ -28772,7 +28807,7 @@ window.NHL_DATA = {
           "a": 21,
           "p": 35,
           "pm": -5,
-          "score": 51
+          "score": 50
         },
         {
           "season": "2021-22",
@@ -28785,7 +28820,7 @@ window.NHL_DATA = {
           "a": 35,
           "p": 63,
           "pm": 3,
-          "score": 59
+          "score": 58
         },
         {
           "season": "2022-23",
@@ -28864,7 +28899,117 @@ window.NHL_DATA = {
         "a": 21,
         "p": 35,
         "pm": -5,
-        "score": 51
+        "score": 50
+      }
+    },
+    {
+      "id": 8482149,
+      "name": "Cole Perfetti",
+      "pos": "C",
+      "active": true,
+      "teamCode": "WPG",
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "birthDate": "2002-01-01",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8482149.png",
+      "currentScore": 78,
+      "legendScore": null,
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#7b303e"
+      },
+      "seasons": [
+        {
+          "season": "2021-22",
+          "seasonId": 20212022,
+          "age": 19,
+          "team": "Jets",
+          "teamName": "Winnipeg Jets",
+          "gp": 18,
+          "g": 2,
+          "a": 5,
+          "p": 7,
+          "pm": 1,
+          "score": 44
+        },
+        {
+          "season": "2022-23",
+          "seasonId": 20222023,
+          "age": 20,
+          "team": "Jets",
+          "teamName": "Winnipeg Jets",
+          "gp": 51,
+          "g": 8,
+          "a": 22,
+          "p": 30,
+          "pm": 10,
+          "score": 50
+        },
+        {
+          "season": "2023-24",
+          "seasonId": 20232024,
+          "age": 21,
+          "team": "Jets",
+          "teamName": "Winnipeg Jets",
+          "gp": 71,
+          "g": 19,
+          "a": 19,
+          "p": 38,
+          "pm": 13,
+          "score": 49
+        },
+        {
+          "season": "2024-25",
+          "seasonId": 20242025,
+          "age": 22,
+          "team": "Jets",
+          "teamName": "Winnipeg Jets",
+          "gp": 82,
+          "g": 18,
+          "a": 32,
+          "p": 50,
+          "pm": 14,
+          "score": 50
+        },
+        {
+          "season": "2025-26",
+          "seasonId": 20252026,
+          "age": 23,
+          "team": "Jets",
+          "teamName": "Winnipeg Jets",
+          "gp": 68,
+          "g": 12,
+          "a": 20,
+          "p": 32,
+          "pm": -9,
+          "score": 46
+        }
+      ],
+      "bestSeason": {
+        "season": "2022-23",
+        "seasonId": 20222023,
+        "age": 20,
+        "team": "Jets",
+        "teamName": "Winnipeg Jets",
+        "gp": 51,
+        "g": 8,
+        "a": 22,
+        "p": 30,
+        "pm": 10,
+        "score": 50
+      },
+      "age22Season": {
+        "season": "2024-25",
+        "seasonId": 20242025,
+        "age": 22,
+        "team": "Jets",
+        "teamName": "Winnipeg Jets",
+        "gp": 82,
+        "g": 18,
+        "a": 32,
+        "p": 50,
+        "pm": 14,
+        "score": 50
       }
     },
     {
@@ -28908,7 +29053,7 @@ window.NHL_DATA = {
           "a": 26,
           "p": 32,
           "pm": 12,
-          "score": 47
+          "score": 46
         },
         {
           "season": "2019-20",
@@ -28921,7 +29066,7 @@ window.NHL_DATA = {
           "a": 24,
           "p": 34,
           "pm": 15,
-          "score": 49
+          "score": 48
         },
         {
           "season": "2020-21",
@@ -28934,7 +29079,7 @@ window.NHL_DATA = {
           "a": 26,
           "p": 30,
           "pm": 5,
-          "score": 50
+          "score": 49
         },
         {
           "season": "2021-22",
@@ -28947,7 +29092,7 @@ window.NHL_DATA = {
           "a": 31,
           "p": 38,
           "pm": 6,
-          "score": 49
+          "score": 48
         },
         {
           "season": "2022-23",
@@ -28973,7 +29118,7 @@ window.NHL_DATA = {
           "a": 17,
           "p": 19,
           "pm": -16,
-          "score": 48
+          "score": 47
         },
         {
           "season": "2024-25",
@@ -28986,7 +29131,7 @@ window.NHL_DATA = {
           "a": 38,
           "p": 53,
           "pm": -8,
-          "score": 53
+          "score": 52
         },
         {
           "season": "2025-26",
@@ -28999,7 +29144,7 @@ window.NHL_DATA = {
           "a": 49,
           "p": 59,
           "pm": 2,
-          "score": 55
+          "score": 54
         }
       ],
       "bestSeason": {
@@ -29026,7 +29171,7 @@ window.NHL_DATA = {
         "a": 26,
         "p": 30,
         "pm": 5,
-        "score": 50
+        "score": 49
       }
     },
     {
@@ -29057,7 +29202,7 @@ window.NHL_DATA = {
           "a": 16,
           "p": 25,
           "pm": -12,
-          "score": 45
+          "score": 44
         },
         {
           "season": "2018-19",
@@ -29070,7 +29215,7 @@ window.NHL_DATA = {
           "a": 41,
           "p": 55,
           "pm": -12,
-          "score": 55
+          "score": 54
         },
         {
           "season": "2019-20",
@@ -29083,7 +29228,7 @@ window.NHL_DATA = {
           "a": 33,
           "p": 39,
           "pm": -18,
-          "score": 50
+          "score": 49
         },
         {
           "season": "2020-21",
@@ -29109,7 +29254,7 @@ window.NHL_DATA = {
           "a": 31,
           "p": 38,
           "pm": -3,
-          "score": 53
+          "score": 52
         },
         {
           "season": "2022-23",
@@ -29135,7 +29280,7 @@ window.NHL_DATA = {
           "a": 21,
           "p": 30,
           "pm": -3,
-          "score": 51
+          "score": 50
         },
         {
           "season": "2024-25",
@@ -29175,7 +29320,7 @@ window.NHL_DATA = {
         "a": 41,
         "p": 55,
         "pm": -12,
-        "score": 55
+        "score": 54
       },
       "age22Season": {
         "season": "2019-20",
@@ -29188,7 +29333,130 @@ window.NHL_DATA = {
         "a": 33,
         "p": 39,
         "pm": -18,
-        "score": 50
+        "score": 49
+      }
+    },
+    {
+      "id": 8480803,
+      "name": "Evan Bouchard",
+      "pos": "D",
+      "active": true,
+      "teamCode": "EDM",
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "birthDate": "1999-10-20",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8480803.png",
+      "currentScore": 100,
+      "legendScore": null,
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#ff4c00"
+      },
+      "seasons": [
+        {
+          "season": "2020-21",
+          "seasonId": 20202021,
+          "age": 20,
+          "team": "Oilers",
+          "teamName": "Edmonton Oilers",
+          "gp": 14,
+          "g": 2,
+          "a": 3,
+          "p": 5,
+          "pm": -2,
+          "score": 44
+        },
+        {
+          "season": "2021-22",
+          "seasonId": 20212022,
+          "age": 21,
+          "team": "Oilers",
+          "teamName": "Edmonton Oilers",
+          "gp": 81,
+          "g": 12,
+          "a": 31,
+          "p": 43,
+          "pm": 10,
+          "score": 49
+        },
+        {
+          "season": "2022-23",
+          "seasonId": 20222023,
+          "age": 22,
+          "team": "Oilers",
+          "teamName": "Edmonton Oilers",
+          "gp": 82,
+          "g": 8,
+          "a": 32,
+          "p": 40,
+          "pm": 6,
+          "score": 48
+        },
+        {
+          "season": "2023-24",
+          "seasonId": 20232024,
+          "age": 23,
+          "team": "Oilers",
+          "teamName": "Edmonton Oilers",
+          "gp": 81,
+          "g": 18,
+          "a": 64,
+          "p": 82,
+          "pm": 34,
+          "score": 61
+        },
+        {
+          "season": "2024-25",
+          "seasonId": 20242025,
+          "age": 24,
+          "team": "Oilers",
+          "teamName": "Edmonton Oilers",
+          "gp": 82,
+          "g": 14,
+          "a": 53,
+          "p": 67,
+          "pm": 14,
+          "score": 56
+        },
+        {
+          "season": "2025-26",
+          "seasonId": 20252026,
+          "age": 25,
+          "team": "Oilers",
+          "teamName": "Edmonton Oilers",
+          "gp": 82,
+          "g": 21,
+          "a": 74,
+          "p": 95,
+          "pm": 25,
+          "score": 64
+        }
+      ],
+      "bestSeason": {
+        "season": "2025-26",
+        "seasonId": 20252026,
+        "age": 25,
+        "team": "Oilers",
+        "teamName": "Edmonton Oilers",
+        "gp": 82,
+        "g": 21,
+        "a": 74,
+        "p": 95,
+        "pm": 25,
+        "score": 64
+      },
+      "age22Season": {
+        "season": "2022-23",
+        "seasonId": 20222023,
+        "age": 22,
+        "team": "Oilers",
+        "teamName": "Edmonton Oilers",
+        "gp": 82,
+        "g": 8,
+        "a": 32,
+        "p": 40,
+        "pm": 6,
+        "score": 48
       }
     },
     {
@@ -29245,7 +29513,7 @@ window.NHL_DATA = {
           "a": 26,
           "p": 40,
           "pm": 5,
-          "score": 49
+          "score": 48
         },
         {
           "season": "2022-23",
@@ -29297,7 +29565,7 @@ window.NHL_DATA = {
           "a": 17,
           "p": 28,
           "pm": 1,
-          "score": 59
+          "score": 58
         },
         {
           "season": "2025-26",
@@ -29337,239 +29605,6 @@ window.NHL_DATA = {
         "a": 26,
         "p": 40,
         "pm": 5,
-        "score": 49
-      }
-    },
-    {
-      "id": 8480803,
-      "name": "Evan Bouchard",
-      "pos": "D",
-      "active": true,
-      "teamCode": "EDM",
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "birthDate": "1999-10-20",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8480803.png",
-      "currentScore": 100,
-      "legendScore": null,
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#ff4c00"
-      },
-      "seasons": [
-        {
-          "season": "2020-21",
-          "seasonId": 20202021,
-          "age": 20,
-          "team": "Oilers",
-          "teamName": "Edmonton Oilers",
-          "gp": 14,
-          "g": 2,
-          "a": 3,
-          "p": 5,
-          "pm": -2,
-          "score": 44
-        },
-        {
-          "season": "2021-22",
-          "seasonId": 20212022,
-          "age": 21,
-          "team": "Oilers",
-          "teamName": "Edmonton Oilers",
-          "gp": 81,
-          "g": 12,
-          "a": 31,
-          "p": 43,
-          "pm": 10,
-          "score": 50
-        },
-        {
-          "season": "2022-23",
-          "seasonId": 20222023,
-          "age": 22,
-          "team": "Oilers",
-          "teamName": "Edmonton Oilers",
-          "gp": 82,
-          "g": 8,
-          "a": 32,
-          "p": 40,
-          "pm": 6,
-          "score": 48
-        },
-        {
-          "season": "2023-24",
-          "seasonId": 20232024,
-          "age": 23,
-          "team": "Oilers",
-          "teamName": "Edmonton Oilers",
-          "gp": 81,
-          "g": 18,
-          "a": 64,
-          "p": 82,
-          "pm": 34,
-          "score": 62
-        },
-        {
-          "season": "2024-25",
-          "seasonId": 20242025,
-          "age": 24,
-          "team": "Oilers",
-          "teamName": "Edmonton Oilers",
-          "gp": 82,
-          "g": 14,
-          "a": 53,
-          "p": 67,
-          "pm": 14,
-          "score": 57
-        },
-        {
-          "season": "2025-26",
-          "seasonId": 20252026,
-          "age": 25,
-          "team": "Oilers",
-          "teamName": "Edmonton Oilers",
-          "gp": 82,
-          "g": 21,
-          "a": 74,
-          "p": 95,
-          "pm": 25,
-          "score": 65
-        }
-      ],
-      "bestSeason": {
-        "season": "2025-26",
-        "seasonId": 20252026,
-        "age": 25,
-        "team": "Oilers",
-        "teamName": "Edmonton Oilers",
-        "gp": 82,
-        "g": 21,
-        "a": 74,
-        "p": 95,
-        "pm": 25,
-        "score": 65
-      },
-      "age22Season": {
-        "season": "2022-23",
-        "seasonId": 20222023,
-        "age": 22,
-        "team": "Oilers",
-        "teamName": "Edmonton Oilers",
-        "gp": 82,
-        "g": 8,
-        "a": 32,
-        "p": 40,
-        "pm": 6,
-        "score": 48
-      }
-    },
-    {
-      "id": 8482079,
-      "name": "Marco Rossi",
-      "pos": "C",
-      "active": true,
-      "teamCode": "VAN",
-      "country": "Austria",
-      "birthCountry": "AUT",
-      "birthDate": "2001-09-23",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8482079.png",
-      "currentScore": 67,
-      "legendScore": null,
-      "colors": {
-        "primary": "#00205b",
-        "secondary": "#00843d"
-      },
-      "seasons": [
-        {
-          "season": "2022-23",
-          "seasonId": 20222023,
-          "age": 21,
-          "team": "Wild",
-          "teamName": "Minnesota Wild",
-          "gp": 19,
-          "g": 0,
-          "a": 1,
-          "p": 1,
-          "pm": -7,
-          "score": 36
-        },
-        {
-          "season": "2023-24",
-          "seasonId": 20232024,
-          "age": 22,
-          "team": "Wild",
-          "teamName": "Minnesota Wild",
-          "gp": 82,
-          "g": 21,
-          "a": 19,
-          "p": 40,
-          "pm": -4,
-          "score": 48
-        },
-        {
-          "season": "2024-25",
-          "seasonId": 20242025,
-          "age": 23,
-          "team": "Wild",
-          "teamName": "Minnesota Wild",
-          "gp": 82,
-          "g": 24,
-          "a": 36,
-          "p": 60,
-          "pm": 3,
-          "score": 53
-        },
-        {
-          "season": "2025-26",
-          "seasonId": 20252026,
-          "age": 24,
-          "team": "Wild",
-          "teamName": "Minnesota Wild",
-          "gp": 17,
-          "g": 4,
-          "a": 9,
-          "p": 13,
-          "pm": -6,
-          "score": 52
-        },
-        {
-          "season": "2025-26",
-          "seasonId": 20252026,
-          "age": 24,
-          "team": "Canucks",
-          "teamName": "Vancouver Canucks",
-          "gp": 33,
-          "g": 8,
-          "a": 14,
-          "p": 22,
-          "pm": -20,
-          "score": 49
-        }
-      ],
-      "bestSeason": {
-        "season": "2024-25",
-        "seasonId": 20242025,
-        "age": 23,
-        "team": "Wild",
-        "teamName": "Minnesota Wild",
-        "gp": 82,
-        "g": 24,
-        "a": 36,
-        "p": 60,
-        "pm": 3,
-        "score": 53
-      },
-      "age22Season": {
-        "season": "2023-24",
-        "seasonId": 20232024,
-        "age": 22,
-        "team": "Wild",
-        "teamName": "Minnesota Wild",
-        "gp": 82,
-        "g": 21,
-        "a": 19,
-        "p": 40,
-        "pm": -4,
         "score": 48
       }
     },
@@ -29601,7 +29636,7 @@ window.NHL_DATA = {
           "a": 5,
           "p": 8,
           "pm": 7,
-          "score": 48
+          "score": 47
         },
         {
           "season": "2016-17",
@@ -29640,7 +29675,7 @@ window.NHL_DATA = {
           "a": 25,
           "p": 37,
           "pm": -4,
-          "score": 48
+          "score": 47
         },
         {
           "season": "2019-20",
@@ -29666,7 +29701,7 @@ window.NHL_DATA = {
           "a": 34,
           "p": 42,
           "pm": 28,
-          "score": 58
+          "score": 57
         },
         {
           "season": "2021-22",
@@ -29745,7 +29780,7 @@ window.NHL_DATA = {
         "a": 34,
         "p": 42,
         "pm": 28,
-        "score": 58
+        "score": 57
       },
       "age22Season": {
         "season": "2017-18",
@@ -29759,6 +29794,116 @@ window.NHL_DATA = {
         "p": 29,
         "pm": 5,
         "score": 48
+      }
+    },
+    {
+      "id": 8482079,
+      "name": "Marco Rossi",
+      "pos": "C",
+      "active": true,
+      "teamCode": "VAN",
+      "country": "Austria",
+      "birthCountry": "AUT",
+      "birthDate": "2001-09-23",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8482079.png",
+      "currentScore": 67,
+      "legendScore": null,
+      "colors": {
+        "primary": "#00205b",
+        "secondary": "#00843d"
+      },
+      "seasons": [
+        {
+          "season": "2022-23",
+          "seasonId": 20222023,
+          "age": 21,
+          "team": "Wild",
+          "teamName": "Minnesota Wild",
+          "gp": 19,
+          "g": 0,
+          "a": 1,
+          "p": 1,
+          "pm": -7,
+          "score": 35
+        },
+        {
+          "season": "2023-24",
+          "seasonId": 20232024,
+          "age": 22,
+          "team": "Wild",
+          "teamName": "Minnesota Wild",
+          "gp": 82,
+          "g": 21,
+          "a": 19,
+          "p": 40,
+          "pm": -4,
+          "score": 47
+        },
+        {
+          "season": "2024-25",
+          "seasonId": 20242025,
+          "age": 23,
+          "team": "Wild",
+          "teamName": "Minnesota Wild",
+          "gp": 82,
+          "g": 24,
+          "a": 36,
+          "p": 60,
+          "pm": 3,
+          "score": 53
+        },
+        {
+          "season": "2025-26",
+          "seasonId": 20252026,
+          "age": 24,
+          "team": "Wild",
+          "teamName": "Minnesota Wild",
+          "gp": 17,
+          "g": 4,
+          "a": 9,
+          "p": 13,
+          "pm": -6,
+          "score": 52
+        },
+        {
+          "season": "2025-26",
+          "seasonId": 20252026,
+          "age": 24,
+          "team": "Canucks",
+          "teamName": "Vancouver Canucks",
+          "gp": 33,
+          "g": 8,
+          "a": 14,
+          "p": 22,
+          "pm": -20,
+          "score": 49
+        }
+      ],
+      "bestSeason": {
+        "season": "2024-25",
+        "seasonId": 20242025,
+        "age": 23,
+        "team": "Wild",
+        "teamName": "Minnesota Wild",
+        "gp": 82,
+        "g": 24,
+        "a": 36,
+        "p": 60,
+        "pm": 3,
+        "score": 53
+      },
+      "age22Season": {
+        "season": "2023-24",
+        "seasonId": 20232024,
+        "age": 22,
+        "team": "Wild",
+        "teamName": "Minnesota Wild",
+        "gp": 82,
+        "g": 21,
+        "a": 19,
+        "p": 40,
+        "pm": -4,
+        "score": 47
       }
     },
     {
@@ -29789,7 +29934,7 @@ window.NHL_DATA = {
           "a": 22,
           "p": 28,
           "pm": 10,
-          "score": 47
+          "score": 46
         },
         {
           "season": "2017-18",
@@ -29802,7 +29947,7 @@ window.NHL_DATA = {
           "a": 31,
           "p": 52,
           "pm": 1,
-          "score": 52
+          "score": 51
         },
         {
           "season": "2018-19",
@@ -29815,7 +29960,7 @@ window.NHL_DATA = {
           "a": 9,
           "p": 11,
           "pm": -4,
-          "score": 47
+          "score": 46
         },
         {
           "season": "2018-19",
@@ -29841,7 +29986,7 @@ window.NHL_DATA = {
           "a": 34,
           "p": 45,
           "pm": 3,
-          "score": 51
+          "score": 50
         },
         {
           "season": "2020-21",
@@ -29867,7 +30012,7 @@ window.NHL_DATA = {
           "a": 36,
           "p": 59,
           "pm": 1,
-          "score": 58
+          "score": 57
         },
         {
           "season": "2022-23",
@@ -29893,7 +30038,7 @@ window.NHL_DATA = {
           "a": 39,
           "p": 61,
           "pm": -16,
-          "score": 54
+          "score": 53
         },
         {
           "season": "2024-25",
@@ -29923,16 +30068,16 @@ window.NHL_DATA = {
         }
       ],
       "bestSeason": {
-        "season": "2021-22",
-        "seasonId": 20212022,
-        "age": 25,
+        "season": "2022-23",
+        "seasonId": 20222023,
+        "age": 26,
         "team": "Coyotes",
         "teamName": "Arizona Coyotes",
         "gp": 63,
-        "g": 23,
+        "g": 22,
         "a": 36,
-        "p": 59,
-        "pm": 1,
+        "p": 58,
+        "pm": 4,
         "score": 58
       },
       "age22Season": {
@@ -29946,7 +30091,7 @@ window.NHL_DATA = {
         "a": 9,
         "p": 11,
         "pm": -4,
-        "score": 47
+        "score": 46
       }
     },
     {
@@ -29990,7 +30135,7 @@ window.NHL_DATA = {
           "a": 8,
           "p": 9,
           "pm": 12,
-          "score": 46
+          "score": 45
         },
         {
           "season": "2024-25",
@@ -30030,7 +30175,7 @@ window.NHL_DATA = {
         "a": 8,
         "p": 9,
         "pm": 12,
-        "score": 46
+        "score": 45
       },
       "age22Season": {
         "season": "2023-24",
@@ -30043,104 +30188,7 @@ window.NHL_DATA = {
         "a": 8,
         "p": 9,
         "pm": 12,
-        "score": 46
-      }
-    },
-    {
-      "id": 8482671,
-      "name": "Owen Power",
-      "pos": "D",
-      "active": true,
-      "teamCode": "BUF",
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "birthDate": "2002-11-22",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8482671.png",
-      "currentScore": 73,
-      "legendScore": null,
-      "colors": {
-        "primary": "#003087",
-        "secondary": "#ffb81c"
-      },
-      "seasons": [
-        {
-          "season": "2022-23",
-          "seasonId": 20222023,
-          "age": 19,
-          "team": "Sabres",
-          "teamName": "Buffalo Sabres",
-          "gp": 79,
-          "g": 4,
-          "a": 31,
-          "p": 35,
-          "pm": 10,
-          "score": 48
-        },
-        {
-          "season": "2023-24",
-          "seasonId": 20232024,
-          "age": 20,
-          "team": "Sabres",
-          "teamName": "Buffalo Sabres",
-          "gp": 76,
-          "g": 6,
-          "a": 27,
-          "p": 33,
-          "pm": 8,
-          "score": 48
-        },
-        {
-          "season": "2024-25",
-          "seasonId": 20242025,
-          "age": 21,
-          "team": "Sabres",
-          "teamName": "Buffalo Sabres",
-          "gp": 79,
-          "g": 7,
-          "a": 33,
-          "p": 40,
-          "pm": -13,
-          "score": 48
-        },
-        {
-          "season": "2025-26",
-          "seasonId": 20252026,
-          "age": 22,
-          "team": "Sabres",
-          "teamName": "Buffalo Sabres",
-          "gp": 81,
-          "g": 8,
-          "a": 21,
-          "p": 29,
-          "pm": 9,
-          "score": 46
-        }
-      ],
-      "bestSeason": {
-        "season": "2022-23",
-        "seasonId": 20222023,
-        "age": 19,
-        "team": "Sabres",
-        "teamName": "Buffalo Sabres",
-        "gp": 79,
-        "g": 4,
-        "a": 31,
-        "p": 35,
-        "pm": 10,
-        "score": 48
-      },
-      "age22Season": {
-        "season": "2025-26",
-        "seasonId": 20252026,
-        "age": 22,
-        "team": "Sabres",
-        "teamName": "Buffalo Sabres",
-        "gp": 81,
-        "g": 8,
-        "a": 21,
-        "p": 29,
-        "pm": 9,
-        "score": 46
+        "score": 45
       }
     },
     {
@@ -30197,7 +30245,7 @@ window.NHL_DATA = {
           "a": 46,
           "p": 56,
           "pm": 43,
-          "score": 51
+          "score": 50
         },
         {
           "season": "1994-95",
@@ -30223,7 +30271,7 @@ window.NHL_DATA = {
           "a": 50,
           "p": 67,
           "pm": 29,
-          "score": 54
+          "score": 53
         },
         {
           "season": "1996-97",
@@ -30236,7 +30284,7 @@ window.NHL_DATA = {
           "a": 42,
           "p": 57,
           "pm": 11,
-          "score": 51
+          "score": 50
         },
         {
           "season": "1997-98",
@@ -30262,7 +30310,7 @@ window.NHL_DATA = {
           "a": 43,
           "p": 57,
           "pm": 14,
-          "score": 55
+          "score": 54
         },
         {
           "season": "1999-00",
@@ -30275,7 +30323,7 @@ window.NHL_DATA = {
           "a": 53,
           "p": 73,
           "pm": 19,
-          "score": 60
+          "score": 59
         },
         {
           "season": "2000-01",
@@ -30288,7 +30336,7 @@ window.NHL_DATA = {
           "a": 56,
           "p": 71,
           "pm": 9,
-          "score": 59
+          "score": 58
         },
         {
           "season": "2001-02",
@@ -30314,7 +30362,7 @@ window.NHL_DATA = {
           "a": 44,
           "p": 62,
           "pm": 40,
-          "score": 58
+          "score": 57
         },
         {
           "season": "2003-04",
@@ -30340,7 +30388,7 @@ window.NHL_DATA = {
           "a": 64,
           "p": 80,
           "pm": 21,
-          "score": 62
+          "score": 61
         },
         {
           "season": "2006-07",
@@ -30353,7 +30401,7 @@ window.NHL_DATA = {
           "a": 49,
           "p": 62,
           "pm": 40,
-          "score": 58
+          "score": 57
         },
         {
           "season": "2007-08",
@@ -30366,7 +30414,7 @@ window.NHL_DATA = {
           "a": 60,
           "p": 70,
           "pm": 40,
-          "score": 61
+          "score": 60
         },
         {
           "season": "2008-09",
@@ -30392,7 +30440,7 @@ window.NHL_DATA = {
           "a": 40,
           "p": 49,
           "pm": 22,
-          "score": 53
+          "score": 52
         },
         {
           "season": "2010-11",
@@ -30405,7 +30453,7 @@ window.NHL_DATA = {
           "a": 46,
           "p": 62,
           "pm": -2,
-          "score": 55
+          "score": 54
         },
         {
           "season": "2011-12",
@@ -30432,7 +30480,7 @@ window.NHL_DATA = {
         "a": 64,
         "p": 80,
         "pm": 21,
-        "score": 62
+        "score": 61
       },
       "age22Season": {
         "season": "1992-93",
@@ -30445,6 +30493,103 @@ window.NHL_DATA = {
         "a": 34,
         "p": 41,
         "pm": 7,
+        "score": 45
+      }
+    },
+    {
+      "id": 8482671,
+      "name": "Owen Power",
+      "pos": "D",
+      "active": true,
+      "teamCode": "BUF",
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "birthDate": "2002-11-22",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8482671.png",
+      "currentScore": 73,
+      "legendScore": null,
+      "colors": {
+        "primary": "#003087",
+        "secondary": "#ffb81c"
+      },
+      "seasons": [
+        {
+          "season": "2022-23",
+          "seasonId": 20222023,
+          "age": 19,
+          "team": "Sabres",
+          "teamName": "Buffalo Sabres",
+          "gp": 79,
+          "g": 4,
+          "a": 31,
+          "p": 35,
+          "pm": 10,
+          "score": 48
+        },
+        {
+          "season": "2023-24",
+          "seasonId": 20232024,
+          "age": 20,
+          "team": "Sabres",
+          "teamName": "Buffalo Sabres",
+          "gp": 76,
+          "g": 6,
+          "a": 27,
+          "p": 33,
+          "pm": 8,
+          "score": 47
+        },
+        {
+          "season": "2024-25",
+          "seasonId": 20242025,
+          "age": 21,
+          "team": "Sabres",
+          "teamName": "Buffalo Sabres",
+          "gp": 79,
+          "g": 7,
+          "a": 33,
+          "p": 40,
+          "pm": -13,
+          "score": 47
+        },
+        {
+          "season": "2025-26",
+          "seasonId": 20252026,
+          "age": 22,
+          "team": "Sabres",
+          "teamName": "Buffalo Sabres",
+          "gp": 81,
+          "g": 8,
+          "a": 21,
+          "p": 29,
+          "pm": 9,
+          "score": 45
+        }
+      ],
+      "bestSeason": {
+        "season": "2022-23",
+        "seasonId": 20222023,
+        "age": 19,
+        "team": "Sabres",
+        "teamName": "Buffalo Sabres",
+        "gp": 79,
+        "g": 4,
+        "a": 31,
+        "p": 35,
+        "pm": 10,
+        "score": 48
+      },
+      "age22Season": {
+        "season": "2025-26",
+        "seasonId": 20252026,
+        "age": 22,
+        "team": "Sabres",
+        "teamName": "Buffalo Sabres",
+        "gp": 81,
+        "g": 8,
+        "a": 21,
+        "p": 29,
+        "pm": 9,
         "score": 45
       }
     },
@@ -30489,7 +30634,7 @@ window.NHL_DATA = {
           "a": 23,
           "p": 35,
           "pm": 14,
-          "score": 48
+          "score": 47
         },
         {
           "season": "2019-20",
@@ -30502,7 +30647,7 @@ window.NHL_DATA = {
           "a": 14,
           "p": 23,
           "pm": 15,
-          "score": 45
+          "score": 44
         },
         {
           "season": "2020-21",
@@ -30515,7 +30660,7 @@ window.NHL_DATA = {
           "a": 14,
           "p": 20,
           "pm": -8,
-          "score": 47
+          "score": 46
         },
         {
           "season": "2021-22",
@@ -30528,7 +30673,7 @@ window.NHL_DATA = {
           "a": 28,
           "p": 35,
           "pm": -21,
-          "score": 47
+          "score": 46
         },
         {
           "season": "2022-23",
@@ -30541,7 +30686,7 @@ window.NHL_DATA = {
           "a": 50,
           "p": 64,
           "pm": 28,
-          "score": 57
+          "score": 56
         },
         {
           "season": "2023-24",
@@ -30554,7 +30699,7 @@ window.NHL_DATA = {
           "a": 35,
           "p": 46,
           "pm": 8,
-          "score": 56
+          "score": 55
         },
         {
           "season": "2024-25",
@@ -30567,7 +30712,7 @@ window.NHL_DATA = {
           "a": 28,
           "p": 39,
           "pm": -3,
-          "score": 52
+          "score": 51
         },
         {
           "season": "2025-26",
@@ -30580,7 +30725,7 @@ window.NHL_DATA = {
           "a": 33,
           "p": 44,
           "pm": -24,
-          "score": 49
+          "score": 48
         }
       ],
       "bestSeason": {
@@ -30594,7 +30739,7 @@ window.NHL_DATA = {
         "a": 50,
         "p": 64,
         "pm": 28,
-        "score": 57
+        "score": 56
       },
       "age22Season": {
         "season": "2019-20",
@@ -30607,7 +30752,7 @@ window.NHL_DATA = {
         "a": 14,
         "p": 23,
         "pm": 15,
-        "score": 45
+        "score": 44
       }
     },
     {
@@ -30651,7 +30796,7 @@ window.NHL_DATA = {
           "a": 9,
           "p": 21,
           "pm": -11,
-          "score": 44
+          "score": 43
         },
         {
           "season": "2018-19",
@@ -30664,7 +30809,7 @@ window.NHL_DATA = {
           "a": 20,
           "p": 31,
           "pm": 10,
-          "score": 46
+          "score": 45
         },
         {
           "season": "2019-20",
@@ -30677,7 +30822,7 @@ window.NHL_DATA = {
           "a": 14,
           "p": 27,
           "pm": 2,
-          "score": 46
+          "score": 45
         },
         {
           "season": "2020-21",
@@ -30703,7 +30848,7 @@ window.NHL_DATA = {
           "a": 16,
           "p": 29,
           "pm": 0,
-          "score": 48
+          "score": 47
         },
         {
           "season": "2021-22",
@@ -30729,7 +30874,7 @@ window.NHL_DATA = {
           "a": 30,
           "p": 51,
           "pm": 8,
-          "score": 56
+          "score": 55
         },
         {
           "season": "2023-24",
@@ -30782,7 +30927,7 @@ window.NHL_DATA = {
         "a": 30,
         "p": 51,
         "pm": 8,
-        "score": 56
+        "score": 55
       },
       "age22Season": {
         "season": "2017-18",
@@ -30795,80 +30940,8 @@ window.NHL_DATA = {
         "a": 9,
         "p": 21,
         "pm": -11,
-        "score": 44
-      }
-    },
-    {
-      "id": 8483499,
-      "name": "Liam Ohgren",
-      "pos": "LW",
-      "active": true,
-      "teamCode": "VAN",
-      "country": "Sweden",
-      "birthCountry": "SWE",
-      "birthDate": "2004-01-28",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8483499.png",
-      "currentScore": 66,
-      "legendScore": null,
-      "colors": {
-        "primary": "#00205b",
-        "secondary": "#00843d"
-      },
-      "seasons": [
-        {
-          "season": "2024-25",
-          "seasonId": 20242025,
-          "age": 20,
-          "team": "Wild",
-          "teamName": "Minnesota Wild",
-          "gp": 24,
-          "g": 2,
-          "a": 3,
-          "p": 5,
-          "pm": -6,
-          "score": 40
-        },
-        {
-          "season": "2025-26",
-          "seasonId": 20252026,
-          "age": 21,
-          "team": "Wild",
-          "teamName": "Minnesota Wild",
-          "gp": 18,
-          "g": 0,
-          "a": 0,
-          "p": 0,
-          "pm": -3,
-          "score": 35
-        },
-        {
-          "season": "2025-26",
-          "seasonId": 20252026,
-          "age": 21,
-          "team": "Canucks",
-          "teamName": "Vancouver Canucks",
-          "gp": 51,
-          "g": 8,
-          "a": 10,
-          "p": 18,
-          "pm": -16,
-          "score": 43
-        }
-      ],
-      "bestSeason": {
-        "season": "2025-26",
-        "seasonId": 20252026,
-        "age": 21,
-        "team": "Canucks",
-        "teamName": "Vancouver Canucks",
-        "gp": 51,
-        "g": 8,
-        "a": 10,
-        "p": 18,
-        "pm": -16,
         "score": 43
-      },
-      "age22Season": null
+      }
     },
     {
       "id": 8481032,
@@ -30911,7 +30984,7 @@ window.NHL_DATA = {
           "a": 18,
           "p": 25,
           "pm": -11,
-          "score": 43
+          "score": 42
         },
         {
           "season": "2024-25",
@@ -30924,7 +30997,7 @@ window.NHL_DATA = {
           "a": 6,
           "p": 22,
           "pm": -14,
-          "score": 42
+          "score": 41
         },
         {
           "season": "2025-26",
@@ -30937,7 +31010,7 @@ window.NHL_DATA = {
           "a": 6,
           "p": 15,
           "pm": -24,
-          "score": 39
+          "score": 38
         }
       ],
       "bestSeason": {
@@ -30965,317 +31038,6 @@ window.NHL_DATA = {
         "p": 18,
         "pm": -5,
         "score": 43
-      }
-    },
-    {
-      "id": 8480448,
-      "name": "Parker Kelly",
-      "pos": "C",
-      "active": true,
-      "teamCode": "COL",
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "birthDate": "1999-05-14",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8480448.png",
-      "currentScore": 77,
-      "legendScore": null,
-      "colors": {
-        "primary": "#6f263d",
-        "secondary": "#236192"
-      },
-      "seasons": [
-        {
-          "season": "2021-22",
-          "seasonId": 20212022,
-          "age": 22,
-          "team": "Senators",
-          "teamName": "Ottawa Senators",
-          "gp": 41,
-          "g": 7,
-          "a": 5,
-          "p": 12,
-          "pm": -4,
-          "score": 42
-        },
-        {
-          "season": "2022-23",
-          "seasonId": 20222023,
-          "age": 23,
-          "team": "Senators",
-          "teamName": "Ottawa Senators",
-          "gp": 55,
-          "g": 1,
-          "a": 3,
-          "p": 4,
-          "pm": -9,
-          "score": 37
-        },
-        {
-          "season": "2023-24",
-          "seasonId": 20232024,
-          "age": 24,
-          "team": "Senators",
-          "teamName": "Ottawa Senators",
-          "gp": 80,
-          "g": 8,
-          "a": 10,
-          "p": 18,
-          "pm": -8,
-          "score": 41
-        },
-        {
-          "season": "2024-25",
-          "seasonId": 20242025,
-          "age": 25,
-          "team": "Avalanche",
-          "teamName": "Colorado Avalanche",
-          "gp": 80,
-          "g": 8,
-          "a": 11,
-          "p": 19,
-          "pm": -1,
-          "score": 41
-        },
-        {
-          "season": "2025-26",
-          "seasonId": 20252026,
-          "age": 26,
-          "team": "Avalanche",
-          "teamName": "Colorado Avalanche",
-          "gp": 82,
-          "g": 21,
-          "a": 14,
-          "p": 35,
-          "pm": 18,
-          "score": 47
-        }
-      ],
-      "bestSeason": {
-        "season": "2025-26",
-        "seasonId": 20252026,
-        "age": 26,
-        "team": "Avalanche",
-        "teamName": "Colorado Avalanche",
-        "gp": 82,
-        "g": 21,
-        "a": 14,
-        "p": 35,
-        "pm": 18,
-        "score": 47
-      },
-      "age22Season": {
-        "season": "2021-22",
-        "seasonId": 20212022,
-        "age": 22,
-        "team": "Senators",
-        "teamName": "Ottawa Senators",
-        "gp": 41,
-        "g": 7,
-        "a": 5,
-        "p": 12,
-        "pm": -4,
-        "score": 42
-      }
-    },
-    {
-      "id": 8476392,
-      "name": "Adam Lowry",
-      "pos": "C",
-      "active": true,
-      "teamCode": "WPG",
-      "country": "United States",
-      "birthCountry": "USA",
-      "birthDate": "1993-03-29",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8476392.png",
-      "currentScore": 76,
-      "legendScore": null,
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#7b303e"
-      },
-      "seasons": [
-        {
-          "season": "2014-15",
-          "seasonId": 20142015,
-          "age": 21,
-          "team": "Jets",
-          "teamName": "Winnipeg Jets",
-          "gp": 80,
-          "g": 11,
-          "a": 12,
-          "p": 23,
-          "pm": 1,
-          "score": 43
-        },
-        {
-          "season": "2015-16",
-          "seasonId": 20152016,
-          "age": 22,
-          "team": "Jets",
-          "teamName": "Winnipeg Jets",
-          "gp": 74,
-          "g": 7,
-          "a": 10,
-          "p": 17,
-          "pm": -9,
-          "score": 41
-        },
-        {
-          "season": "2016-17",
-          "seasonId": 20162017,
-          "age": 23,
-          "team": "Jets",
-          "teamName": "Winnipeg Jets",
-          "gp": 82,
-          "g": 15,
-          "a": 14,
-          "p": 29,
-          "pm": 1,
-          "score": 45
-        },
-        {
-          "season": "2017-18",
-          "seasonId": 20172018,
-          "age": 24,
-          "team": "Jets",
-          "teamName": "Winnipeg Jets",
-          "gp": 45,
-          "g": 8,
-          "a": 13,
-          "p": 21,
-          "pm": 9,
-          "score": 48
-        },
-        {
-          "season": "2018-19",
-          "seasonId": 20182019,
-          "age": 25,
-          "team": "Jets",
-          "teamName": "Winnipeg Jets",
-          "gp": 78,
-          "g": 12,
-          "a": 11,
-          "p": 23,
-          "pm": 6,
-          "score": 43
-        },
-        {
-          "season": "2019-20",
-          "seasonId": 20192020,
-          "age": 26,
-          "team": "Jets",
-          "teamName": "Winnipeg Jets",
-          "gp": 49,
-          "g": 4,
-          "a": 6,
-          "p": 10,
-          "pm": -4,
-          "score": 41
-        },
-        {
-          "season": "2020-21",
-          "seasonId": 20202021,
-          "age": 27,
-          "team": "Jets",
-          "teamName": "Winnipeg Jets",
-          "gp": 52,
-          "g": 10,
-          "a": 14,
-          "p": 24,
-          "pm": 6,
-          "score": 47
-        },
-        {
-          "season": "2021-22",
-          "seasonId": 20212022,
-          "age": 28,
-          "team": "Jets",
-          "teamName": "Winnipeg Jets",
-          "gp": 79,
-          "g": 13,
-          "a": 8,
-          "p": 21,
-          "pm": 1,
-          "score": 43
-        },
-        {
-          "season": "2022-23",
-          "seasonId": 20222023,
-          "age": 29,
-          "team": "Jets",
-          "teamName": "Winnipeg Jets",
-          "gp": 82,
-          "g": 13,
-          "a": 23,
-          "p": 36,
-          "pm": 4,
-          "score": 47
-        },
-        {
-          "season": "2023-24",
-          "seasonId": 20232024,
-          "age": 30,
-          "team": "Jets",
-          "teamName": "Winnipeg Jets",
-          "gp": 81,
-          "g": 12,
-          "a": 23,
-          "p": 35,
-          "pm": 17,
-          "score": 47
-        },
-        {
-          "season": "2024-25",
-          "seasonId": 20242025,
-          "age": 31,
-          "team": "Jets",
-          "teamName": "Winnipeg Jets",
-          "gp": 73,
-          "g": 16,
-          "a": 18,
-          "p": 34,
-          "pm": 18,
-          "score": 48
-        },
-        {
-          "season": "2025-26",
-          "seasonId": 20252026,
-          "age": 32,
-          "team": "Jets",
-          "teamName": "Winnipeg Jets",
-          "gp": 70,
-          "g": 5,
-          "a": 16,
-          "p": 21,
-          "pm": -6,
-          "score": 43
-        }
-      ],
-      "bestSeason": {
-        "season": "2017-18",
-        "seasonId": 20172018,
-        "age": 24,
-        "team": "Jets",
-        "teamName": "Winnipeg Jets",
-        "gp": 45,
-        "g": 8,
-        "a": 13,
-        "p": 21,
-        "pm": 9,
-        "score": 48
-      },
-      "age22Season": {
-        "season": "2015-16",
-        "seasonId": 20152016,
-        "age": 22,
-        "team": "Jets",
-        "teamName": "Winnipeg Jets",
-        "gp": 74,
-        "g": 7,
-        "a": 10,
-        "p": 17,
-        "pm": -9,
-        "score": 41
       }
     },
     {
@@ -31332,7 +31094,7 @@ window.NHL_DATA = {
           "a": 12,
           "p": 16,
           "pm": 0,
-          "score": 40
+          "score": 39
         }
       ],
       "bestSeason": {
@@ -31359,6 +31121,116 @@ window.NHL_DATA = {
         "a": 8,
         "p": 8,
         "pm": -3,
+        "score": 41
+      }
+    },
+    {
+      "id": 8480448,
+      "name": "Parker Kelly",
+      "pos": "C",
+      "active": true,
+      "teamCode": "COL",
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "birthDate": "1999-05-14",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8480448.png",
+      "currentScore": 77,
+      "legendScore": null,
+      "colors": {
+        "primary": "#6f263d",
+        "secondary": "#236192"
+      },
+      "seasons": [
+        {
+          "season": "2021-22",
+          "seasonId": 20212022,
+          "age": 22,
+          "team": "Senators",
+          "teamName": "Ottawa Senators",
+          "gp": 41,
+          "g": 7,
+          "a": 5,
+          "p": 12,
+          "pm": -4,
+          "score": 41
+        },
+        {
+          "season": "2022-23",
+          "seasonId": 20222023,
+          "age": 23,
+          "team": "Senators",
+          "teamName": "Ottawa Senators",
+          "gp": 55,
+          "g": 1,
+          "a": 3,
+          "p": 4,
+          "pm": -9,
+          "score": 36
+        },
+        {
+          "season": "2023-24",
+          "seasonId": 20232024,
+          "age": 24,
+          "team": "Senators",
+          "teamName": "Ottawa Senators",
+          "gp": 80,
+          "g": 8,
+          "a": 10,
+          "p": 18,
+          "pm": -8,
+          "score": 40
+        },
+        {
+          "season": "2024-25",
+          "seasonId": 20242025,
+          "age": 25,
+          "team": "Avalanche",
+          "teamName": "Colorado Avalanche",
+          "gp": 80,
+          "g": 8,
+          "a": 11,
+          "p": 19,
+          "pm": -1,
+          "score": 41
+        },
+        {
+          "season": "2025-26",
+          "seasonId": 20252026,
+          "age": 26,
+          "team": "Avalanche",
+          "teamName": "Colorado Avalanche",
+          "gp": 82,
+          "g": 21,
+          "a": 14,
+          "p": 35,
+          "pm": 18,
+          "score": 46
+        }
+      ],
+      "bestSeason": {
+        "season": "2025-26",
+        "seasonId": 20252026,
+        "age": 26,
+        "team": "Avalanche",
+        "teamName": "Colorado Avalanche",
+        "gp": 82,
+        "g": 21,
+        "a": 14,
+        "p": 35,
+        "pm": 18,
+        "score": 46
+      },
+      "age22Season": {
+        "season": "2021-22",
+        "seasonId": 20212022,
+        "age": 22,
+        "team": "Senators",
+        "teamName": "Ottawa Senators",
+        "gp": 41,
+        "g": 7,
+        "a": 5,
+        "p": 12,
+        "pm": -4,
         "score": 41
       }
     },
@@ -31390,7 +31262,7 @@ window.NHL_DATA = {
           "a": 15,
           "p": 17,
           "pm": -24,
-          "score": 41
+          "score": 40
         },
         {
           "season": "2024-25",
@@ -31443,7 +31315,7 @@ window.NHL_DATA = {
         "a": 15,
         "p": 17,
         "pm": -24,
-        "score": 41
+        "score": 40
       }
     },
     {
@@ -31474,7 +31346,7 @@ window.NHL_DATA = {
           "a": 12,
           "p": 26,
           "pm": 7,
-          "score": 44
+          "score": 43
         },
         {
           "season": "2022-23",
@@ -31487,7 +31359,7 @@ window.NHL_DATA = {
           "a": 3,
           "p": 7,
           "pm": -5,
-          "score": 40
+          "score": 39
         },
         {
           "season": "2023-24",
@@ -31513,7 +31385,7 @@ window.NHL_DATA = {
           "a": 16,
           "p": 24,
           "pm": 1,
-          "score": 43
+          "score": 42
         },
         {
           "season": "2025-26",
@@ -31526,7 +31398,7 @@ window.NHL_DATA = {
           "a": 18,
           "p": 37,
           "pm": 16,
-          "score": 48
+          "score": 47
         }
       ],
       "bestSeason": {
@@ -31540,7 +31412,7 @@ window.NHL_DATA = {
         "a": 18,
         "p": 37,
         "pm": 16,
-        "score": 48
+        "score": 47
       },
       "age22Season": {
         "season": "2023-24",
@@ -31997,9 +31869,9 @@ window.NHL_DATA = {
           "secondary": "#ffffff"
         },
         "age": 33,
-        "careerScore": 73.9,
+        "careerScore": 73.8,
         "threshold": 93.1,
-        "gap": 19.2,
+        "gap": 19.3,
         "cups": 2,
         "seasons": 12,
         "note": "2–3 peak years + a Cup or two needed",
@@ -32016,9 +31888,9 @@ window.NHL_DATA = {
           "secondary": "#236192"
         },
         "age": 31,
-        "careerScore": 71.5,
+        "careerScore": 71.2,
         "threshold": 93.1,
-        "gap": 21.6,
+        "gap": 21.9,
         "cups": 1,
         "seasons": 13,
         "note": "2–3 peak years + a Cup or two needed",
@@ -32035,9 +31907,9 @@ window.NHL_DATA = {
           "secondary": "#ff4c00"
         },
         "age": 29,
-        "careerScore": 68.3,
+        "careerScore": 67.8,
         "threshold": 93.1,
-        "gap": 24.8,
+        "gap": 25.3,
         "cups": 0,
         "seasons": 11,
         "note": "Multiple elite seasons + several Cups needed",
@@ -32054,9 +31926,9 @@ window.NHL_DATA = {
           "secondary": "#cfc493"
         },
         "age": 40,
-        "careerScore": 66.7,
+        "careerScore": 66.2,
         "threshold": 93.1,
-        "gap": 26.4,
+        "gap": 26.9,
         "cups": 0,
         "seasons": 20,
         "note": "Multiple elite seasons + several Cups needed",
@@ -32073,9 +31945,9 @@ window.NHL_DATA = {
           "secondary": "#ff4c00"
         },
         "age": 30,
-        "careerScore": 64.5,
+        "careerScore": 64.3,
         "threshold": 93.1,
-        "gap": 28.6,
+        "gap": 28.8,
         "cups": 0,
         "seasons": 12,
         "note": "Multiple elite seasons + several Cups needed",
@@ -32092,9 +31964,9 @@ window.NHL_DATA = {
           "secondary": "#c2912c"
         },
         "age": 38,
-        "careerScore": 63.5,
+        "careerScore": 63.3,
         "threshold": 93.1,
-        "gap": 29.6,
+        "gap": 29.8,
         "cups": 0,
         "seasons": 19,
         "note": "Multiple elite seasons + several Cups needed",
@@ -32130,9 +32002,9 @@ window.NHL_DATA = {
           "secondary": "#236192"
         },
         "age": 27,
-        "careerScore": 58.4,
+        "careerScore": 57.9,
         "threshold": 93.1,
-        "gap": 34.7,
+        "gap": 35.2,
         "cups": 1,
         "seasons": 7,
         "note": "Multiple elite seasons + several Cups needed",
@@ -32168,9 +32040,9 @@ window.NHL_DATA = {
           "secondary": "#a6192e"
         },
         "age": 29,
-        "careerScore": 55.9,
+        "careerScore": 55.6,
         "threshold": 93.1,
-        "gap": 37.2,
+        "gap": 37.5,
         "cups": 0,
         "seasons": 6,
         "note": "Multiple elite seasons + several Cups needed",
@@ -32467,6 +32339,24 @@ window.NHL_DATA = {
         "prevRank": 7
       },
       {
+        "id": 8482149,
+        "name": "Cole Perfetti",
+        "pos": "C",
+        "teamCode": "WPG",
+        "country": "Canada",
+        "colors": {
+          "primary": "#041e42",
+          "secondary": "#7b303e"
+        },
+        "age": 24,
+        "currentScore": 78,
+        "projectedScore": 59.1,
+        "threshold": 93.1,
+        "gap": 34.0,
+        "note": "Strong pedigree — leap to elite level needed",
+        "prevRank": null
+      },
+      {
         "id": 8481617,
         "name": "Vasily Podkolzin",
         "pos": "RW",
@@ -32501,24 +32391,6 @@ window.NHL_DATA = {
         "gap": 36.1,
         "note": "Strong pedigree — leap to elite level needed",
         "prevRank": 9
-      },
-      {
-        "id": 8485366,
-        "name": "Matthew Schaefer",
-        "pos": "D",
-        "teamCode": "NYI",
-        "country": "Canada",
-        "colors": {
-          "primary": "#00539b",
-          "secondary": "#f47d30"
-        },
-        "age": 19,
-        "currentScore": 64,
-        "projectedScore": 56.8,
-        "threshold": 93.1,
-        "gap": 36.3,
-        "note": "Promising young talent — long road ahead",
-        "prevRank": 10
       }
     ]
   },
@@ -32567,10 +32439,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-04 17:48 UTC",
+  "LAST_UPDATE": "2026-10-04 23:10 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-04T17:48:15Z"
+    "standingsDateTimeUtc": "2026-10-04T23:10:30Z"
   }
 };

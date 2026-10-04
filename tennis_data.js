@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-04 17:51 UTC
+// Auto-generated 2026-10-04 23:13 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-04 17:51 UTC",
+  "UPDATED": "2026-10-04 23:13 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11343,15 +11343,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Lois Boisson",
+          "w": "Leolia Jeanjean",
           "w_logo": "",
-          "l": "Leolia Jeanjean",
+          "l": "Lois Boisson",
           "l_logo": "",
-          "score": "6-7 (3-7) 5-4",
+          "score": "7-6 (7-3) 4-6 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 39.3,
+          "w_score": 39.3,
+          "l_score": null,
           "match_score": 39.3
         }
       ]

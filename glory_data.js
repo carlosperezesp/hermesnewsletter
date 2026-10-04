@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-04 17:51 UTC",
+  "UPDATED": "2026-10-04 23:13 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Japanese motorcycle Grand Prix:Marc Márquez",
@@ -122,6 +122,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-29"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Perfetti",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Cole Perfetti entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-04"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Evgeni Malkin",
       "sport": "nhl",
       "detail": "NHL",
@@ -181,15 +190,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
       "text": "Owen Power entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-04"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Matthew Schaefer",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Matthew Schaefer entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-10-04"
     },
@@ -718,9 +718,9 @@ window.GLORY_DATA = {
       "Igor Chernyshov",
       "Lane Hutson",
       "Will Smith",
+      "Cole Perfetti",
       "Vasily Podkolzin",
-      "Owen Power",
-      "Matthew Schaefer"
+      "Owen Power"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "LeBron James",
