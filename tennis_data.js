@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-04 17:04 UTC
+// Auto-generated 2026-10-04 17:51 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-04 17:04 UTC",
+  "UPDATED": "2026-10-04 17:51 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -11347,7 +11347,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Leolia Jeanjean",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (3-7) 5-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
