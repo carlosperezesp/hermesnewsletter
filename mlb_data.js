@@ -2461,7 +2461,7 @@ window.MLB_DATA = {
       "last": "Ashcraft",
       "pos": "SP",
       "teamCode": "PIT",
-      "age": 26,
+      "age": 27,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41282.png",
       "colors": {
         "primary": "#fdb827",
@@ -2477,7 +2477,7 @@ window.MLB_DATA = {
         "so": 173,
         "whip": 1.09
       },
-      "legendScore": 39.1,
+      "legendScore": 39.9,
       "currentScore": 64,
       "battingScore": null,
       "pitchingScore": 64,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-05 00:00 UTC",
+  "LAST_UPDATE": "2026-10-05 12:17 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

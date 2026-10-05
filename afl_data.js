@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-05 00:00 UTC
+// Auto-generated 2026-10-05 12:17 UTC
 window.AFL_DATA = {
-  "UPDATED": "2026-10-05 00:00 UTC",
+  "UPDATED": "2026-10-05 12:17 UTC",
   "SEASON": "2026",
   "ROUND": 29,
   "IMPORTANCE": 10.0,
@@ -790,7 +790,7 @@ window.AFL_DATA = {
       "prevRank": 21,
       "stats": {
         "games": 26,
-        "disposals": 560,
+        "disposals": 559,
         "goals": 35,
         "tackles": 75,
         "clearances": 76,
@@ -799,7 +799,7 @@ window.AFL_DATA = {
         "hitouts": 0
       },
       "rank": 21,
-      "score": 79.9,
+      "score": 79.8,
       "legendScore": 0.0
     },
     {
@@ -846,7 +846,7 @@ window.AFL_DATA = {
       "prevRank": 23,
       "stats": {
         "games": 24,
-        "disposals": 523,
+        "disposals": 522,
         "goals": 12,
         "tackles": 152,
         "clearances": 129,
@@ -932,14 +932,14 @@ window.AFL_DATA = {
         "games": 23,
         "disposals": 542,
         "goals": 11,
-        "tackles": 129,
+        "tackles": 128,
         "clearances": 137,
         "contested": 229,
         "marks": 60,
         "hitouts": 0
       },
       "rank": 26,
-      "score": 78.6,
+      "score": 78.4,
       "legendScore": 0.0
     },
     {
