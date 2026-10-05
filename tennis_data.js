@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-05 12:20 UTC
+// Auto-generated 2026-10-05 15:01 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-05 12:20 UTC",
+  "UPDATED": "2026-10-05 15:01 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -135,7 +135,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 86.9
@@ -305,7 +305,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 78.9
@@ -441,7 +441,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 76.6
@@ -8213,10 +8213,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 90,
       "tournamentStatus": {
-        "tournament": "China Open · Suzhou Open · Samsun Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Samsun Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 51.7
     },
@@ -8454,9 +8454,9 @@ window.TENNIS_DATA = {
       "prevListRank": 97,
       "tournamentStatus": {
         "tournament": "Samsun Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 49.7
     },
@@ -9252,9 +9252,9 @@ window.TENNIS_DATA = {
       "prevListRank": 120,
       "tournamentStatus": {
         "tournament": "Samsun Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 42.7
     },
@@ -9497,7 +9497,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Samsun Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 40.1
@@ -9635,10 +9635,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 131,
       "tournamentStatus": {
-        "tournament": "China Open · Suzhou Open · Samsun Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Samsun Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 39.3
     },
@@ -10205,10 +10205,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 147,
       "tournamentStatus": {
-        "tournament": "China Open · Suzhou Open · Samsun Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Samsun Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.0
     },
@@ -11044,15 +11044,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Daniil Medvedev",
+          "w": "Novak Djokovic",
           "w_logo": "",
-          "l": "Novak Djokovic",
+          "l": "Daniil Medvedev",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "5-3 5-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 78.9,
-          "l_score": 87.0,
+          "w_score": 87.0,
+          "l_score": 78.9,
           "match_score": 87.0
         },
         {
@@ -11232,15 +11232,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R32",
-          "w": "Coco Gauff",
+          "w": "Xinran Sun",
           "w_logo": "",
-          "l": "Xinran Sun",
+          "l": "Coco Gauff",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 91.1,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 91.1,
           "match_score": 91.1
         },
         {
@@ -11428,15 +11428,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R128",
-          "w": "Dominika Salkova",
+          "w": "Himeno Sakatsume",
           "w_logo": "",
-          "l": "Himeno Sakatsume",
+          "l": "Dominika Salkova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 6-4",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 49.7,
-          "l_score": 39.0,
+          "scheduled": false,
+          "w_score": 39.0,
+          "l_score": 49.7,
           "match_score": 49.7
         },
         {
@@ -11445,7 +11445,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lucia Bronzetti",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11467,11 +11467,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Suzan Lamens",
+          "w": "Polina Iatcenko",
           "w_logo": "",
-          "l": "Polina Iatcenko",
+          "l": "Suzan Lamens",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-1",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11589,7 +11589,7 @@ window.TENNIS_DATA = {
       "Tommy Paul"
     ],
     "aliveCount": 63,
-    "matchesSeen": 81
+    "matchesSeen": 82
   },
   "WTA_TOURNAMENT": {
     "name": "China Open · Suzhou Open · Samsun Open",
@@ -11614,6 +11614,7 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
+      "Alana Smith",
       "Aliaksandra Sasnovich",
       "Alicia Dudeney",
       "Alina Charaeva",
@@ -11628,9 +11629,11 @@ window.TENNIS_DATA = {
       "Aysegul Mert",
       "Bai Zhuoxuan",
       "Belinda Bencic",
+      "Bianca Andreescu",
       "Cagla Buyukakcay",
       "Camila Osorio",
       "Carole Monnet",
+      "Caroline Werner",
       "Claire Liu",
       "Coco Gauff",
       "Dalma Galfi",
@@ -11640,13 +11643,13 @@ window.TENNIS_DATA = {
       "Darya Khamutsianskaya",
       "Dayana Yastremska",
       "Diana Shnaider",
-      "Dominika Salkova",
       "Donna Vekic",
       "Ekaterina Alexandrova",
       "Elena Pridankina",
       "Elena-Gabriela Ruse",
       "Elina Svitolina",
       "Elise Mertens",
+      "Elvin Egribel",
       "Elvina Kalieva",
       "Emerson Jones",
       "Emiliana Arango",
@@ -11666,13 +11669,13 @@ window.TENNIS_DATA = {
       "Katie Volynets",
       "Kimberly Birrell",
       "Kyoka Okamura",
+      "Leolia Jeanjean",
       "Linda Fruhvirtova",
       "Linda Klimovicova",
       "Linda Noskova",
       "Liudmila Samsonova",
       "Lola Radivojevic",
       "Lu Jia-Jing",
-      "Lucia Bronzetti",
       "Lucrezia Stefanini",
       "Maddison Inglis",
       "Magdalena Frech",
@@ -11680,12 +11683,14 @@ window.TENNIS_DATA = {
       "Mananchaya Sawangkaew",
       "Maria Sakkari",
       "Maria Timofeeva",
+      "Mariam Bolkvadze",
       "Marie Bouzkova",
       "Melisa Ercan",
       "Mirra Andreeva",
       "Moyuka Uchijima",
       "Naomi Osaka",
       "Nikola Bartunkova",
+      "Noma Noha Akugue",
       "Oksana Selekhmeteva",
       "Oleksandra Oliynykova",
       "Paula Badosa",
@@ -11700,10 +11705,10 @@ window.TENNIS_DATA = {
       "Sinja Kraus",
       "Sonay Kartal",
       "Storm Hunter",
-      "Suzan Lamens",
       "Tamara Korpatsch",
       "Tatiana Prozorova",
       "Taylah Preston",
+      "Teodora Kostovic",
       "Tyra Caterina Grant",
       "Viktoria Hruncakova",
       "Viktorija Golubic",
@@ -11728,6 +11733,7 @@ window.TENNIS_DATA = {
       "Cristina Bucsa",
       "Daria Kasatkina",
       "Diane Parry",
+      "Dominika Salkova",
       "Elena Rybakina",
       "Elsa Jacquemot",
       "Eva Lys",
@@ -11737,6 +11743,7 @@ window.TENNIS_DATA = {
       "Lanlana Tararudee",
       "Leylah Fernandez",
       "Lilli Tagger",
+      "Lucia Bronzetti",
       "Ma YeXin",
       "Magda Linette",
       "Maja Chwalinska",
@@ -11748,6 +11755,7 @@ window.TENNIS_DATA = {
       "Robin Montgomery",
       "Sofia Costoulas",
       "Sofia Kenin",
+      "Suzan Lamens",
       "Talia Gibson",
       "Wang Xinyu",
       "Yao Xinxin",
@@ -11756,8 +11764,8 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez",
       "Zhang Ruien"
     ],
-    "aliveCount": 99,
-    "matchesSeen": 116
+    "aliveCount": 104,
+    "matchesSeen": 121
   },
   "ATP_SCORE_LOG": {
     "206173": [
