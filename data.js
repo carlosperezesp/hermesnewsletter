@@ -811,7 +811,7 @@ window.NHL_DATA = {
         93
       ],
       "legendScore": 55.6,
-      "prevRank": 8
+      "prevRank": 3
     },
     {
       "id": 8482699,
@@ -846,7 +846,7 @@ window.NHL_DATA = {
         90
       ],
       "legendScore": 44.8,
-      "prevRank": 3
+      "prevRank": 4
     },
     {
       "id": 8477492,
@@ -881,7 +881,7 @@ window.NHL_DATA = {
         90
       ],
       "legendScore": 71.2,
-      "prevRank": 4
+      "prevRank": 5
     },
     {
       "id": 8478403,
@@ -916,7 +916,7 @@ window.NHL_DATA = {
         89
       ],
       "legendScore": 57.5,
-      "prevRank": 5
+      "prevRank": 6
     },
     {
       "id": 8484801,
@@ -951,7 +951,7 @@ window.NHL_DATA = {
         89
       ],
       "legendScore": 48.5,
-      "prevRank": 6
+      "prevRank": 7
     },
     {
       "id": 8478469,
@@ -986,7 +986,7 @@ window.NHL_DATA = {
         86
       ],
       "legendScore": 46.5,
-      "prevRank": 7
+      "prevRank": 8
     },
     {
       "id": 8477476,
@@ -10186,7 +10186,7 @@ window.NHL_DATA = {
       "name": "Michael Brandsegg-Nygård",
       "pos": "RW",
       "teamCode": "DET",
-      "age": 20,
+      "age": 21,
       "country": "Norway",
       "birthCountry": "NOR",
       "colors": {
@@ -10211,7 +10211,7 @@ window.NHL_DATA = {
         44,
         50
       ],
-      "legendScore": 49.0
+      "legendScore": 47.0
     },
     {
       "id": 8480289,
@@ -15300,7 +15300,7 @@ window.NHL_DATA = {
       "name": "Nikolas Matinpalo",
       "pos": "D",
       "teamCode": "OTT",
-      "age": 27,
+      "age": 28,
       "country": "Finland",
       "birthCountry": "FIN",
       "colors": {
@@ -32354,7 +32354,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 34.0,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": null
+        "prevRank": 8
       },
       {
         "id": 8481617,
@@ -32372,7 +32372,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 35.6,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 8
+        "prevRank": 9
       },
       {
         "id": 8482671,
@@ -32390,7 +32390,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 36.1,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 9
+        "prevRank": 10
       }
     ]
   },
@@ -32439,10 +32439,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-04 23:10 UTC",
+  "LAST_UPDATE": "2026-10-05 00:00 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-04T23:10:30Z"
+    "standingsDateTimeUtc": "2026-10-04T23:59:45Z"
   }
 };

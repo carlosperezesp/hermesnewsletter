@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-10-04 23:12 UTC",
+  "UPDATED": "2026-10-05 00:02 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1602,
+    "matches": 1601,
     "archives": [
       {
         "name": "Tests",
@@ -33,7 +33,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "CPL",
-        "matches": 69
+        "matches": 68
       },
       {
         "name": "MLC",
@@ -75,7 +75,7 @@ window.CRICKET_DATA = {
           "bowling": 100.0
         },
         "franchise": {
-          "overall": 81.8,
+          "overall": 81.6,
           "batting": 14.5,
           "bowling": 100.0
         }
@@ -120,7 +120,7 @@ window.CRICKET_DATA = {
           "bowling": 93.4
         },
         "franchise": {
-          "overall": 81.9,
+          "overall": 81.7,
           "batting": 18.6,
           "bowling": 78.1
         }
@@ -165,7 +165,7 @@ window.CRICKET_DATA = {
           "bowling": 91.6
         },
         "franchise": {
-          "overall": 74.5,
+          "overall": 74.3,
           "batting": 15.7,
           "bowling": 76.6
         }
@@ -210,7 +210,7 @@ window.CRICKET_DATA = {
           "bowling": 94.9
         },
         "franchise": {
-          "overall": 51.9,
+          "overall": 51.8,
           "batting": 6.4,
           "bowling": 91.3
         }
@@ -255,7 +255,7 @@ window.CRICKET_DATA = {
           "bowling": 83.9
         },
         "franchise": {
-          "overall": 54.0,
+          "overall": 53.9,
           "batting": 9.0,
           "bowling": 70.2
         }
@@ -300,7 +300,7 @@ window.CRICKET_DATA = {
           "bowling": 88.6
         },
         "franchise": {
-          "overall": 51.5,
+          "overall": 51.4,
           "batting": 7.7,
           "bowling": 74.6
         }
@@ -345,7 +345,7 @@ window.CRICKET_DATA = {
           "bowling": 63.4
         },
         "franchise": {
-          "overall": 65.6,
+          "overall": 65.4,
           "batting": 17.6,
           "bowling": 53.0
         }
@@ -390,7 +390,7 @@ window.CRICKET_DATA = {
           "bowling": 58.4
         },
         "franchise": {
-          "overall": 99.9,
+          "overall": 99.6,
           "batting": 37.4,
           "bowling": 57.8
         }
@@ -435,7 +435,7 @@ window.CRICKET_DATA = {
           "bowling": 74.8
         },
         "franchise": {
-          "overall": 74.0,
+          "overall": 73.8,
           "batting": 19.0,
           "bowling": 62.5
         }
@@ -480,7 +480,7 @@ window.CRICKET_DATA = {
           "bowling": 81.6
         },
         "franchise": {
-          "overall": 78.7,
+          "overall": 78.5,
           "batting": 14.9,
           "bowling": 90.0
         }
@@ -2153,10 +2153,10 @@ window.CRICKET_DATA = {
           },
           "logo": "",
           "score": 100.0,
-          "batting": 23.5,
-          "bowling": 92.2,
+          "batting": 23.6,
+          "bowling": 92.3,
           "overall": 100.0,
-          "runs": 1180,
+          "runs": 1161,
           "wickets": 127
         },
         {
@@ -2170,10 +2170,10 @@ window.CRICKET_DATA = {
             "secondary": "#ff9933"
           },
           "logo": "https://flagcdn.com/24x18/in.png",
-          "score": 99.9,
+          "score": 99.6,
           "batting": 37.4,
           "bowling": 57.8,
-          "overall": 99.9,
+          "overall": 99.6,
           "runs": 1696,
           "wickets": 74
         },
@@ -2188,10 +2188,10 @@ window.CRICKET_DATA = {
             "secondary": "#ffffff"
           },
           "logo": "https://flagcdn.com/24x18/gb-eng.png",
-          "score": 91.5,
+          "score": 91.2,
           "batting": 37.7,
           "bowling": 48.1,
-          "overall": 91.5,
+          "overall": 91.2,
           "runs": 765,
           "wickets": 49
         },
@@ -2206,10 +2206,10 @@ window.CRICKET_DATA = {
             "secondary": "#ffb81c"
           },
           "logo": "https://flagcdn.com/24x18/za.png",
-          "score": 87.1,
+          "score": 86.9,
           "batting": 25.2,
           "bowling": 65.3,
-          "overall": 87.1,
+          "overall": 86.9,
           "runs": 794,
           "wickets": 85
         },
@@ -2224,10 +2224,10 @@ window.CRICKET_DATA = {
             "secondary": "#dddddd"
           },
           "logo": "",
-          "score": 84.3,
+          "score": 84.1,
           "batting": 33.1,
           "bowling": 46.5,
-          "overall": 84.3,
+          "overall": 84.1,
           "runs": 1285,
           "wickets": 61
         },
@@ -2242,10 +2242,10 @@ window.CRICKET_DATA = {
             "secondary": "#dddddd"
           },
           "logo": "",
-          "score": 83.4,
+          "score": 83.1,
           "batting": 35.6,
           "bowling": 42.3,
-          "overall": 83.4,
+          "overall": 83.1,
           "runs": 923,
           "wickets": 52
         },
@@ -2260,10 +2260,10 @@ window.CRICKET_DATA = {
             "secondary": "#f42a41"
           },
           "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 82.8,
+          "score": 82.6,
           "batting": 25.2,
           "bowling": 59.0,
-          "overall": 82.8,
+          "overall": 82.6,
           "runs": 906,
           "wickets": 72
         },
@@ -2278,10 +2278,10 @@ window.CRICKET_DATA = {
             "secondary": "#d8d8d8"
           },
           "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 82.2,
+          "score": 82.0,
           "batting": 25.4,
           "bowling": 57.7,
-          "overall": 82.2,
+          "overall": 82.0,
           "runs": 827,
           "wickets": 76
         },
@@ -2296,10 +2296,10 @@ window.CRICKET_DATA = {
             "secondary": "#f42a41"
           },
           "logo": "https://flagcdn.com/24x18/bd.png",
-          "score": 81.9,
+          "score": 81.7,
           "batting": 18.6,
           "bowling": 78.1,
-          "overall": 81.9,
+          "overall": 81.7,
           "runs": 296,
           "wickets": 76
         },
@@ -2314,10 +2314,10 @@ window.CRICKET_DATA = {
             "secondary": "#006341"
           },
           "logo": "https://flagcdn.com/24x18/au.png",
-          "score": 81.8,
+          "score": 81.6,
           "batting": 14.5,
           "bowling": 100.0,
-          "overall": 81.8,
+          "overall": 81.6,
           "runs": 419,
           "wickets": 125
         }
@@ -2337,7 +2337,7 @@ window.CRICKET_DATA = {
           "score": 100.0,
           "batting": 100.0,
           "bowling": 9.5,
-          "overall": 66.2,
+          "overall": 66.0,
           "runs": 606,
           "wickets": 6
         },
@@ -2355,7 +2355,7 @@ window.CRICKET_DATA = {
           "score": 87.9,
           "batting": 87.9,
           "bowling": 0.7,
-          "overall": 16.9,
+          "overall": 16.8,
           "runs": 395,
           "wickets": 2
         },
@@ -2373,7 +2373,7 @@ window.CRICKET_DATA = {
           "score": 70.3,
           "batting": 70.3,
           "bowling": 0.2,
-          "overall": 8.1,
+          "overall": 8.0,
           "runs": 172,
           "wickets": 0
         },
@@ -2391,7 +2391,7 @@ window.CRICKET_DATA = {
           "score": 67.4,
           "batting": 67.4,
           "bowling": 4.2,
-          "overall": 36.1,
+          "overall": 36.0,
           "runs": 93,
           "wickets": 3
         },
@@ -2409,7 +2409,7 @@ window.CRICKET_DATA = {
           "score": 66.5,
           "batting": 66.5,
           "bowling": 5.0,
-          "overall": 39.2,
+          "overall": 39.1,
           "runs": 2843,
           "wickets": 7
         },
@@ -2463,7 +2463,7 @@ window.CRICKET_DATA = {
           "score": 57.0,
           "batting": 57.0,
           "bowling": 9.1,
-          "overall": 48.9,
+          "overall": 48.8,
           "runs": 622,
           "wickets": 10
         },
@@ -2519,7 +2519,7 @@ window.CRICKET_DATA = {
           "score": 100.0,
           "batting": 14.5,
           "bowling": 100.0,
-          "overall": 81.8,
+          "overall": 81.6,
           "runs": 419,
           "wickets": 125
         },
@@ -2534,11 +2534,11 @@ window.CRICKET_DATA = {
             "secondary": "#f6c344"
           },
           "logo": "",
-          "score": 92.2,
-          "batting": 23.5,
-          "bowling": 92.2,
+          "score": 92.3,
+          "batting": 23.6,
+          "bowling": 92.3,
           "overall": 100.0,
-          "runs": 1180,
+          "runs": 1161,
           "wickets": 127
         },
         {
@@ -2555,7 +2555,7 @@ window.CRICKET_DATA = {
           "score": 91.3,
           "batting": 6.4,
           "bowling": 91.3,
-          "overall": 51.9,
+          "overall": 51.8,
           "runs": 100,
           "wickets": 120
         },
@@ -2573,7 +2573,7 @@ window.CRICKET_DATA = {
           "score": 90.0,
           "batting": 14.9,
           "bowling": 90.0,
-          "overall": 78.7,
+          "overall": 78.5,
           "runs": 440,
           "wickets": 118
         },
@@ -2591,7 +2591,7 @@ window.CRICKET_DATA = {
           "score": 83.3,
           "batting": 5.2,
           "bowling": 83.3,
-          "overall": 44.7,
+          "overall": 44.6,
           "runs": 76,
           "wickets": 108
         },
@@ -2609,7 +2609,7 @@ window.CRICKET_DATA = {
           "score": 78.8,
           "batting": 8.3,
           "bowling": 78.8,
-          "overall": 54.9,
+          "overall": 54.8,
           "runs": 108,
           "wickets": 106
         },
@@ -2627,7 +2627,7 @@ window.CRICKET_DATA = {
           "score": 78.1,
           "batting": 18.6,
           "bowling": 78.1,
-          "overall": 81.9,
+          "overall": 81.7,
           "runs": 296,
           "wickets": 76
         },
@@ -2645,7 +2645,7 @@ window.CRICKET_DATA = {
           "score": 76.6,
           "batting": 15.7,
           "bowling": 76.6,
-          "overall": 74.5,
+          "overall": 74.3,
           "runs": 116,
           "wickets": 54
         },
@@ -2663,7 +2663,7 @@ window.CRICKET_DATA = {
           "score": 76.5,
           "batting": 9.8,
           "bowling": 76.5,
-          "overall": 58.8,
+          "overall": 58.7,
           "runs": 230,
           "wickets": 99
         },
@@ -2681,7 +2681,7 @@ window.CRICKET_DATA = {
           "score": 74.6,
           "batting": 7.7,
           "bowling": 74.6,
-          "overall": 51.5,
+          "overall": 51.4,
           "runs": 106,
           "wickets": 91
         }
@@ -3343,7 +3343,7 @@ window.CRICKET_DATA = {
             "bowling": 100.0
           },
           "franchise": {
-            "overall": 81.8,
+            "overall": 81.6,
             "batting": 14.5,
             "bowling": 100.0
           }
@@ -3388,7 +3388,7 @@ window.CRICKET_DATA = {
             "bowling": 94.9
           },
           "franchise": {
-            "overall": 51.9,
+            "overall": 51.8,
             "batting": 6.4,
             "bowling": 91.3
           }
@@ -3433,7 +3433,7 @@ window.CRICKET_DATA = {
             "bowling": 93.4
           },
           "franchise": {
-            "overall": 81.9,
+            "overall": 81.7,
             "batting": 18.6,
             "bowling": 78.1
           }
@@ -3478,7 +3478,7 @@ window.CRICKET_DATA = {
             "bowling": 81.6
           },
           "franchise": {
-            "overall": 78.7,
+            "overall": 78.5,
             "batting": 14.9,
             "bowling": 90.0
           }
@@ -3523,7 +3523,7 @@ window.CRICKET_DATA = {
             "bowling": 88.6
           },
           "franchise": {
-            "overall": 51.5,
+            "overall": 51.4,
             "batting": 7.7,
             "bowling": 74.6
           }
@@ -3568,7 +3568,7 @@ window.CRICKET_DATA = {
             "bowling": 58.4
           },
           "franchise": {
-            "overall": 99.9,
+            "overall": 99.6,
             "batting": 37.4,
             "bowling": 57.8
           }
@@ -3613,7 +3613,7 @@ window.CRICKET_DATA = {
             "bowling": 91.6
           },
           "franchise": {
-            "overall": 74.5,
+            "overall": 74.3,
             "batting": 15.7,
             "bowling": 76.6
           }
@@ -3658,7 +3658,7 @@ window.CRICKET_DATA = {
             "bowling": 83.9
           },
           "franchise": {
-            "overall": 54.0,
+            "overall": 53.9,
             "batting": 9.0,
             "bowling": 70.2
           }
@@ -3703,7 +3703,7 @@ window.CRICKET_DATA = {
             "bowling": 74.8
           },
           "franchise": {
-            "overall": 74.0,
+            "overall": 73.8,
             "batting": 19.0,
             "bowling": 62.5
           }
@@ -3748,7 +3748,7 @@ window.CRICKET_DATA = {
             "bowling": 63.4
           },
           "franchise": {
-            "overall": 65.6,
+            "overall": 65.4,
             "batting": 17.6,
             "bowling": 53.0
           }

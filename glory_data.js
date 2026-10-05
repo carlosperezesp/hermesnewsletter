@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-04 23:13 UTC",
+  "UPDATED": "2026-10-05 00:02 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Japanese motorcycle Grand Prix:Marc Márquez",
@@ -51,14 +51,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-23"
     },
     {
-      "id": "motogp:win:Austrian motorcycle Grand Prix:Jorge Martín",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "text": "Jorge Martín ganó el Austrian motorcycle Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-09-20"
-    },
-    {
       "id": "rank:nhl:ROAD_TO_GLORY.teams:new1:Colorado Avalanche",
       "sport": "nhl",
       "detail": "NHL",
@@ -102,15 +94,6 @@ window.GLORY_DATA = {
       "text": "Paul Seixas es nuevo nº1 · promesas",
       "weight": 92,
       "firstSeen": "2026-09-23"
-    },
-    {
-      "id": "rank:motogp:RIDERS:new1:Jorge Martín",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "anchor": "motogp-mundial",
-      "text": "Jorge Martín es nuevo nº1 · Mundial",
-      "weight": 92,
-      "firstSeen": "2026-09-20"
     },
     {
       "id": "tennis:in:ATP:Arthur Fils:20260924",
