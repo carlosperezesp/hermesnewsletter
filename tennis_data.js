@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-05 15:01 UTC
+// Auto-generated 2026-10-05 20:47 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-05 15:01 UTC",
+  "UPDATED": "2026-10-05 20:47 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -5287,7 +5287,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 91.1
@@ -5797,7 +5797,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 76.7
@@ -11048,7 +11048,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Daniil Medvedev",
           "l_logo": "",
-          "score": "5-3 5-3",
+          "score": "7-5 5-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 87.0,
@@ -11232,15 +11232,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R32",
-          "w": "Xinran Sun",
+          "w": "Coco Gauff",
           "w_logo": "",
-          "l": "Coco Gauff",
+          "l": "Xinran Sun",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 6-1",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 91.1,
+          "w_score": 91.1,
+          "l_score": null,
           "match_score": 91.1
         },
         {
@@ -11765,7 +11765,7 @@ window.TENNIS_DATA = {
       "Zhang Ruien"
     ],
     "aliveCount": 104,
-    "matchesSeen": 121
+    "matchesSeen": 122
   },
   "ATP_SCORE_LOG": {
     "206173": [

@@ -906,7 +906,7 @@ window.NHL_DATA = {
         "p": 5,
         "pm": 0,
         "toi": 19.1,
-        "shots": 2
+        "shots": 1
       },
       "trajectory": [
         38,
@@ -1412,7 +1412,7 @@ window.NHL_DATA = {
         "p": 5,
         "pm": 4,
         "toi": 21.9,
-        "shots": 15
+        "shots": 16
       },
       "trajectory": [
         38,
@@ -1940,7 +1940,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 2,
         "w": 1,
-        "svpct": 0.917,
+        "svpct": 0.914,
         "gaa": 1.4,
         "so": 1
       },
@@ -2614,6 +2614,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8475745,
+      "first": "Charlie",
+      "last": "Coyle",
+      "name": "Charlie Coyle",
+      "pos": "C",
+      "teamCode": "CBJ",
+      "age": 34,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#002654",
+        "secondary": "#ce1126"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8475745.png",
+      "score": 68,
+      "stats": {
+        "gp": 2,
+        "g": 0,
+        "a": 3,
+        "p": 3,
+        "pm": 2,
+        "toi": 17.2,
+        "shots": 1
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        68
+      ]
+    },
+    {
       "id": 8481668,
       "first": "Arturs",
       "last": "Silovs",
@@ -2668,39 +2701,6 @@ window.NHL_DATA = {
         "pm": 5,
         "toi": 18.6,
         "shots": 2
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        67
-      ]
-    },
-    {
-      "id": 8475745,
-      "first": "Charlie",
-      "last": "Coyle",
-      "name": "Charlie Coyle",
-      "pos": "C",
-      "teamCode": "CBJ",
-      "age": 34,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#002654",
-        "secondary": "#ce1126"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8475745.png",
-      "score": 67,
-      "stats": {
-        "gp": 2,
-        "g": 0,
-        "a": 3,
-        "p": 3,
-        "pm": 2,
-        "toi": 17.2,
-        "shots": 0
       },
       "trajectory": [
         38,
@@ -2794,7 +2794,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 1,
         "w": 1,
-        "svpct": 0.944,
+        "svpct": 0.947,
         "gaa": 1.0,
         "so": 0
       },
@@ -3686,6 +3686,37 @@ window.NHL_DATA = {
       "legendScore": 73.6
     },
     {
+      "id": 8475831,
+      "first": "Philipp",
+      "last": "Grubauer",
+      "name": "Philipp Grubauer",
+      "pos": "G",
+      "teamCode": "SEA",
+      "age": 34,
+      "country": "Germany",
+      "birthCountry": "DEU",
+      "colors": {
+        "primary": "#001628",
+        "secondary": "#99d9d9"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8475831.png",
+      "score": 63,
+      "stats": {
+        "gp": 1,
+        "w": 0,
+        "svpct": 0.92,
+        "gaa": 2.03,
+        "so": 0
+      },
+      "trajectory": [
+        50,
+        54,
+        57,
+        60,
+        63
+      ]
+    },
+    {
       "id": 8478854,
       "first": "Ryan",
       "last": "Shea",
@@ -3737,7 +3768,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 2,
         "w": 1,
-        "svpct": 0.908,
+        "svpct": 0.909,
         "gaa": 2.92,
         "so": 0
       },
@@ -4010,37 +4041,6 @@ window.NHL_DATA = {
         40,
         42,
         44,
-        62
-      ]
-    },
-    {
-      "id": 8475831,
-      "first": "Philipp",
-      "last": "Grubauer",
-      "name": "Philipp Grubauer",
-      "pos": "G",
-      "teamCode": "SEA",
-      "age": 34,
-      "country": "Germany",
-      "birthCountry": "DEU",
-      "colors": {
-        "primary": "#001628",
-        "secondary": "#99d9d9"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8475831.png",
-      "score": 62,
-      "stats": {
-        "gp": 1,
-        "w": 0,
-        "svpct": 0.917,
-        "gaa": 2.03,
-        "so": 0
-      },
-      "trajectory": [
-        50,
-        54,
-        57,
-        60,
         62
       ]
     },
@@ -8808,7 +8808,7 @@ window.NHL_DATA = {
         "p": 1,
         "pm": -1,
         "toi": 18.8,
-        "shots": 4
+        "shots": 5
       },
       "trajectory": [
         37,
@@ -13033,7 +13033,7 @@ window.NHL_DATA = {
         "g": 1,
         "a": 0,
         "p": 1,
-        "pm": -4,
+        "pm": -3,
         "toi": 14.0,
         "shots": 6
       },
@@ -19559,7 +19559,7 @@ window.NHL_DATA = {
         "g": 0,
         "a": 0,
         "p": 0,
-        "pm": -2,
+        "pm": -3,
         "toi": 12.9,
         "shots": 5
       },
@@ -32700,10 +32700,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-05 14:58 UTC",
+  "LAST_UPDATE": "2026-10-05 20:44 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-05T14:57:45Z"
+    "standingsDateTimeUtc": "2026-10-05T20:44:30Z"
   }
 };

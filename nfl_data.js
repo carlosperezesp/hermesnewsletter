@@ -661,7 +661,7 @@ window.NFL_DATA = {
       "pf": 84,
       "pa": 109,
       "pd": -25,
-      "seed": 15,
+      "seed": 16,
       "score": 0,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
       "colors": {
@@ -684,7 +684,7 @@ window.NFL_DATA = {
       "pf": 55,
       "pa": 83,
       "pd": -28,
-      "seed": 16,
+      "seed": 15,
       "score": 0,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
       "colors": {
@@ -1904,7 +1904,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-05 14:58 UTC",
+  "LAST_UPDATE": "2026-10-05 20:45 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
