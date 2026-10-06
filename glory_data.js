@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-06 13:29 UTC",
+  "UPDATED": "2026-10-06 18:39 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Japanese motorcycle Grand Prix:Marc Márquez",
@@ -103,6 +103,15 @@ window.GLORY_DATA = {
       "text": "Paul Seixas es nuevo nº1 · promesas",
       "weight": 92,
       "firstSeen": "2026-09-23"
+    },
+    {
+      "id": "tennis:in:ATP:Novak Djokovic:20261001",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Novak Djokovic entra en el top 10 ATP · Leyenda 100.0",
+      "weight": 90,
+      "anchor": "tennis-atp",
+      "firstSeen": "2026-10-06"
     },
     {
       "id": "tennis:in:ATP:Arthur Fils:20260924",
@@ -373,6 +382,15 @@ window.GLORY_DATA = {
       "text": "Bryce Young entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-10-01"
+    },
+    {
+      "id": "tennis:out:ATP:Arthur Fils:20261001",
+      "sport": "tennis",
+      "detail": "Tenis",
+      "text": "Arthur Fils sale del top 10 ATP",
+      "weight": 78,
+      "anchor": "tennis-atp",
+      "firstSeen": "2026-10-06"
     },
     {
       "id": "tennis:out:ATP:Taylor Fritz:20260924",

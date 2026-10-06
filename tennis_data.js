@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-06 13:29 UTC
+// Auto-generated 2026-10-06 18:39 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-06 13:29 UTC",
+  "UPDATED": "2026-10-06 18:39 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -109,14 +109,14 @@ window.TENNIS_DATA = {
     {
       "id": "104925",
       "name": "Novak Djokovic",
-      "rank": 11,
-      "prevRank": 12,
+      "rank": 8,
+      "prevRank": 11,
       "country": "SRB",
       "logo": "https://flagcdn.com/24x18/rs.png",
       "teamCode": "SRB",
       "primary": "#C6363C",
       "secondary": "#FFFFFF",
-      "activeScore": 87.0,
+      "activeScore": 87.3,
       "legendScore": 100.0,
       "age": 39,
       "surface": {
@@ -143,14 +143,14 @@ window.TENNIS_DATA = {
     {
       "id": "209950",
       "name": "Arthur Fils",
-      "rank": 9,
-      "prevRank": 11,
+      "rank": 11,
+      "prevRank": 9,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 84.1,
+      "activeScore": 83.8,
       "legendScore": 26.3,
       "age": 22,
       "surface": {
@@ -177,14 +177,14 @@ window.TENNIS_DATA = {
     {
       "id": "126205",
       "name": "Tommy Paul",
-      "rank": 16,
-      "prevRank": 18,
+      "rank": 18,
+      "prevRank": 16,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 80.4,
+      "activeScore": 80.2,
       "legendScore": 28.0,
       "age": 29,
       "surface": {
@@ -211,14 +211,14 @@ window.TENNIS_DATA = {
     {
       "id": "134770",
       "name": "Casper Ruud",
-      "rank": 21,
-      "prevRank": 17,
+      "rank": 24,
+      "prevRank": 21,
       "country": "NOR",
       "logo": "https://flagcdn.com/24x18/no.png",
       "teamCode": "NOR",
       "primary": "#EF2B2D",
       "secondary": "#FFFFFF",
-      "activeScore": 80.3,
+      "activeScore": 80.0,
       "legendScore": 36.6,
       "age": 27,
       "surface": {
@@ -246,7 +246,7 @@ window.TENNIS_DATA = {
       "id": "212588",
       "name": "Rafael Jodar",
       "rank": 13,
-      "prevRank": 14,
+      "prevRank": 13,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -314,7 +314,7 @@ window.TENNIS_DATA = {
       "id": "207518",
       "name": "Lorenzo Musetti",
       "rank": 25,
-      "prevRank": 24,
+      "prevRank": 25,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -415,14 +415,14 @@ window.TENNIS_DATA = {
     {
       "id": "200282",
       "name": "Alex De Minaur",
-      "rank": 10,
-      "prevRank": 9,
+      "rank": 9,
+      "prevRank": 10,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
       "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 76.5,
+      "activeScore": 76.6,
       "legendScore": 33.8,
       "age": 27,
       "surface": {
@@ -445,6 +445,40 @@ window.TENNIS_DATA = {
         "reason": ""
       },
       "prevActiveScore": 76.5
+    },
+    {
+      "id": "208103",
+      "name": "Jiri Lehecka",
+      "rank": 16,
+      "prevRank": 23,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 75.9,
+      "legendScore": 24.9,
+      "age": 24,
+      "surface": {
+        "hard": 0.643,
+        "clay": 0.55,
+        "grass": 0.7
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 10
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 14,
+      "tournamentStatus": {
+        "tournament": "Kinoshita Group Japan Open Tennis Championships",
+        "state": "alive",
+        "round": "Semifinal",
+        "reason": ""
+      },
+      "prevActiveScore": 75.1
     },
     {
       "id": "207925",
@@ -471,7 +505,7 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 14,
+      "prevListRank": 15,
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "out",
@@ -483,14 +517,14 @@ window.TENNIS_DATA = {
     {
       "id": "126207",
       "name": "Frances Tiafoe",
-      "rank": 8,
+      "rank": 10,
       "prevRank": 8,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 75.7,
+      "activeScore": 75.4,
       "legendScore": 26.0,
       "age": 28,
       "surface": {
@@ -505,7 +539,7 @@ window.TENNIS_DATA = {
         "top10_wins": 13
       },
       "leyendaScore": 0.0,
-      "prevListRank": 15,
+      "prevListRank": 16,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships",
         "state": "alive",
@@ -518,7 +552,7 @@ window.TENNIS_DATA = {
       "id": "126203",
       "name": "Taylor Fritz",
       "rank": 12,
-      "prevRank": 10,
+      "prevRank": 12,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -539,7 +573,7 @@ window.TENNIS_DATA = {
         "top10_wins": 31
       },
       "leyendaScore": 0.0,
-      "prevListRank": 16,
+      "prevListRank": 17,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships",
         "state": "out",
@@ -549,84 +583,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 75.4
     },
     {
-      "id": "210530",
-      "name": "Learner Tien",
-      "rank": 15,
-      "prevRank": 13,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 75.1,
-      "legendScore": 25.2,
-      "age": 20,
-      "surface": {
-        "hard": 0.661,
-        "clay": 0.5,
-        "grass": 0.571
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 7
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 17,
-      "tournamentStatus": {
-        "tournament": "China Open",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 75.1
-    },
-    {
-      "id": "208103",
-      "name": "Jiri Lehecka",
-      "rank": 23,
-      "prevRank": 23,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
-      "secondary": "#FFFFFF",
-      "activeScore": 75.1,
-      "legendScore": 24.9,
-      "age": 24,
-      "surface": {
-        "hard": 0.643,
-        "clay": 0.55,
-        "grass": 0.7
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 10
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 18,
-      "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships",
-        "state": "alive",
-        "round": "Semifinal",
-        "reason": ""
-      },
-      "prevActiveScore": 75.1
-    },
-    {
       "id": "200473",
       "name": "Valentin Vacherot",
-      "rank": 18,
-      "prevRank": 19,
+      "rank": 14,
+      "prevRank": 18,
       "country": "MON",
       "logo": "https://flagcdn.com/24x18/mc.png",
       "teamCode": "MON",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 75.0,
+      "activeScore": 75.4,
       "legendScore": 24.1,
       "age": 27,
       "surface": {
@@ -641,7 +607,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 19,
+      "prevListRank": 18,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships",
         "state": "alive",
@@ -651,16 +617,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 75.0
     },
     {
+      "id": "210530",
+      "name": "Learner Tien",
+      "rank": 17,
+      "prevRank": 15,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 74.9,
+      "legendScore": 25.2,
+      "age": 20,
+      "surface": {
+        "hard": 0.661,
+        "clay": 0.5,
+        "grass": 0.571
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 7
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 19,
+      "tournamentStatus": {
+        "tournament": "China Open",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 75.1
+    },
+    {
       "id": "122330",
       "name": "Alexander Bublik",
-      "rank": 20,
-      "prevRank": 21,
+      "rank": 22,
+      "prevRank": 20,
       "country": "KAZ",
       "logo": "https://flagcdn.com/24x18/kz.png",
       "teamCode": "KAZ",
       "primary": "#00AFCA",
       "secondary": "#FFFFFF",
-      "activeScore": 75.0,
+      "activeScore": 74.8,
       "legendScore": 28.9,
       "age": 29,
       "surface": {
@@ -687,14 +687,14 @@ window.TENNIS_DATA = {
     {
       "id": "126094",
       "name": "Andrey Rublev",
-      "rank": 24,
-      "prevRank": 25,
+      "rank": 23,
+      "prevRank": 24,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
       "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 74.1,
+      "activeScore": 74.2,
       "legendScore": 41.5,
       "age": 28,
       "surface": {
@@ -721,14 +721,14 @@ window.TENNIS_DATA = {
     {
       "id": "202103",
       "name": "Francisco Cerundolo",
-      "rank": 22,
+      "rank": 20,
       "prevRank": 22,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
       "primary": "#74ACDF",
       "secondary": "#FFFFFF",
-      "activeScore": 73.9,
+      "activeScore": 74.1,
       "legendScore": 26.3,
       "age": 28,
       "surface": {
@@ -756,7 +756,7 @@ window.TENNIS_DATA = {
       "id": "211663",
       "name": "Joao Fonseca",
       "rank": 29,
-      "prevRank": 28,
+      "prevRank": 29,
       "country": "BRA",
       "logo": "https://flagcdn.com/24x18/br.png",
       "teamCode": "BRA",
@@ -790,7 +790,7 @@ window.TENNIS_DATA = {
       "id": "210696",
       "name": "Alexander Blockx",
       "rank": 28,
-      "prevRank": 27,
+      "prevRank": 28,
       "country": "BEL",
       "logo": "https://flagcdn.com/24x18/be.png",
       "teamCode": "BEL",
@@ -824,7 +824,7 @@ window.TENNIS_DATA = {
       "id": "200221",
       "name": "Alejandro Davidovich Fokina",
       "rank": 26,
-      "prevRank": 29,
+      "prevRank": 26,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -858,7 +858,7 @@ window.TENNIS_DATA = {
       "id": "111575",
       "name": "Karen Khachanov",
       "rank": 27,
-      "prevRank": 26,
+      "prevRank": 27,
       "country": "RUS",
       "logo": "https://flagcdn.com/24x18/ru.png",
       "teamCode": "RUS",
@@ -891,14 +891,14 @@ window.TENNIS_DATA = {
     {
       "id": "206909",
       "name": "Brandon Nakashima",
-      "rank": 17,
-      "prevRank": 16,
+      "rank": 19,
+      "prevRank": 17,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 69.2,
+      "activeScore": 69.0,
       "legendScore": 21.9,
       "age": 25,
       "surface": {
@@ -925,14 +925,14 @@ window.TENNIS_DATA = {
     {
       "id": "209860",
       "name": "Ignacio Buse",
-      "rank": 35,
+      "rank": 36,
       "prevRank": 35,
       "country": "PER",
       "logo": "https://flagcdn.com/24x18/pe.png",
       "teamCode": "PER",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 68.3,
+      "activeScore": 68.2,
       "legendScore": 0.7,
       "age": 22,
       "surface": {
@@ -957,50 +957,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 68.3
     },
     {
-      "id": "210506",
-      "name": "Alex Michelsen",
-      "rank": 34,
-      "prevRank": 34,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 67.1,
-      "legendScore": 18.3,
-      "age": 22,
-      "surface": {
-        "hard": 0.537,
-        "clay": 0.421,
-        "grass": 0.556
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 3
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 29,
-      "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships",
-        "state": "out",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 67.1
-    },
-    {
       "id": "126610",
       "name": "Matteo Berrettini",
-      "rank": 47,
-      "prevRank": 43,
+      "rank": 46,
+      "prevRank": 47,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
       "primary": "#009246",
       "secondary": "#FFFFFF",
-      "activeScore": 66.9,
+      "activeScore": 67.1,
       "legendScore": 31.6,
       "age": 30,
       "surface": {
@@ -1015,7 +981,7 @@ window.TENNIS_DATA = {
         "top10_wins": 12
       },
       "leyendaScore": 0.0,
-      "prevListRank": 30,
+      "prevListRank": 29,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -1025,50 +991,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 66.9
     },
     {
-      "id": "126214",
-      "name": "Alejandro Tabilo",
-      "rank": 31,
-      "prevRank": 32,
-      "country": "CHI",
-      "logo": "https://flagcdn.com/24x18/cl.png",
-      "teamCode": "CHI",
-      "primary": "#D52B1E",
-      "secondary": "#FFFFFF",
-      "activeScore": 66.4,
-      "legendScore": 17.9,
-      "age": 29,
-      "surface": {
-        "hard": 0.448,
-        "clay": 0.533,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 3
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 31,
-      "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 66.4
-    },
-    {
       "id": "128034",
       "name": "Hubert Hurkacz",
-      "rank": 39,
-      "prevRank": 46,
+      "rank": 34,
+      "prevRank": 39,
       "country": "POL",
       "logo": "https://flagcdn.com/24x18/pl.png",
       "teamCode": "POL",
       "primary": "#DC143C",
       "secondary": "#FFFFFF",
-      "activeScore": 66.4,
+      "activeScore": 67.0,
       "legendScore": 33.6,
       "age": 29,
       "surface": {
@@ -1083,9 +1015,77 @@ window.TENNIS_DATA = {
         "top10_wins": 21
       },
       "leyendaScore": 0.0,
-      "prevListRank": 32,
+      "prevListRank": 30,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 66.4
+    },
+    {
+      "id": "210506",
+      "name": "Alex Michelsen",
+      "rank": 35,
+      "prevRank": 34,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 67.0,
+      "legendScore": 18.3,
+      "age": 22,
+      "surface": {
+        "hard": 0.537,
+        "clay": 0.421,
+        "grass": 0.556
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 31,
+      "tournamentStatus": {
+        "tournament": "Kinoshita Group Japan Open Tennis Championships",
+        "state": "out",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 67.1
+    },
+    {
+      "id": "126214",
+      "name": "Alejandro Tabilo",
+      "rank": 30,
+      "prevRank": 31,
+      "country": "CHI",
+      "logo": "https://flagcdn.com/24x18/cl.png",
+      "teamCode": "CHI",
+      "primary": "#D52B1E",
+      "secondary": "#FFFFFF",
+      "activeScore": 66.6,
+      "legendScore": 17.9,
+      "age": 29,
+      "surface": {
+        "hard": 0.448,
+        "clay": 0.533,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 32,
+      "tournamentStatus": {
+        "tournament": "Kinoshita Group Japan Open Tennis Championships",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -1096,7 +1096,7 @@ window.TENNIS_DATA = {
       "id": "200005",
       "name": "Ugo Humbert",
       "rank": 32,
-      "prevRank": 33,
+      "prevRank": 32,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -1127,44 +1127,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 66.3
     },
     {
-      "id": "209260",
-      "name": "Luciano Darderi",
-      "rank": 19,
-      "prevRank": 20,
-      "country": "ITA",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "teamCode": "ITA",
-      "primary": "#009246",
-      "secondary": "#FFFFFF",
-      "activeScore": 66.1,
-      "legendScore": 25.2,
-      "age": 24,
-      "surface": {
-        "hard": 0.345,
-        "clay": 0.691,
-        "grass": 0.333
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 5,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 34,
-      "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 66.1
-    },
-    {
       "id": "111815",
       "name": "Cameron Norrie",
       "rank": 40,
-      "prevRank": 39,
+      "prevRank": 40,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
@@ -1185,41 +1151,7 @@ window.TENNIS_DATA = {
         "top10_wins": 13
       },
       "leyendaScore": 0.0,
-      "prevListRank": 35,
-      "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 66.1
-    },
-    {
-      "id": "202058",
-      "name": "Thiago Agustin Tirante",
-      "rank": 52,
-      "prevRank": 52,
-      "country": "ARG",
-      "logo": "https://flagcdn.com/24x18/ar.png",
-      "teamCode": "ARG",
-      "primary": "#74ACDF",
-      "secondary": "#FFFFFF",
-      "activeScore": 66.1,
-      "legendScore": 18.1,
-      "age": 25,
-      "surface": {
-        "hard": 0.429,
-        "clay": 0.609,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 36,
+      "prevListRank": 34,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -1231,14 +1163,14 @@ window.TENNIS_DATA = {
     {
       "id": "126774",
       "name": "Stefanos Tsitsipas",
-      "rank": 44,
+      "rank": 43,
       "prevRank": 44,
       "country": "GRE",
       "logo": "https://flagcdn.com/24x18/gr.png",
       "teamCode": "GRE",
       "primary": "#0D5EAF",
       "secondary": "#FFFFFF",
-      "activeScore": 65.9,
+      "activeScore": 66.1,
       "legendScore": 41.5,
       "age": 28,
       "surface": {
@@ -1253,7 +1185,7 @@ window.TENNIS_DATA = {
         "top10_wins": 37
       },
       "leyendaScore": 0.0,
-      "prevListRank": 37,
+      "prevListRank": 35,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -1263,16 +1195,84 @@ window.TENNIS_DATA = {
       "prevActiveScore": 65.9
     },
     {
+      "id": "209260",
+      "name": "Luciano Darderi",
+      "rank": 21,
+      "prevRank": 19,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 65.9,
+      "legendScore": 25.2,
+      "age": 24,
+      "surface": {
+        "hard": 0.345,
+        "clay": 0.691,
+        "grass": 0.333
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 5,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 36,
+      "tournamentStatus": {
+        "tournament": "Kinoshita Group Japan Open Tennis Championships",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 66.1
+    },
+    {
+      "id": "202058",
+      "name": "Thiago Agustin Tirante",
+      "rank": 54,
+      "prevRank": 52,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 65.9,
+      "legendScore": 18.1,
+      "age": 25,
+      "surface": {
+        "hard": 0.429,
+        "clay": 0.609,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 37,
+      "tournamentStatus": {
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 66.1
+    },
+    {
       "id": "209414",
       "name": "Luca Van Assche",
-      "rank": 43,
-      "prevRank": 42,
+      "rank": 45,
+      "prevRank": 43,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 65.6,
+      "activeScore": 65.3,
       "legendScore": 13.2,
       "age": 22,
       "surface": {
@@ -1299,14 +1299,14 @@ window.TENNIS_DATA = {
     {
       "id": "144869",
       "name": "Tomas Martin Etcheverry",
-      "rank": 30,
+      "rank": 31,
       "prevRank": 30,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
       "primary": "#74ACDF",
       "secondary": "#FFFFFF",
-      "activeScore": 65.2,
+      "activeScore": 65.0,
       "legendScore": 20.8,
       "age": 27,
       "surface": {
@@ -1334,7 +1334,7 @@ window.TENNIS_DATA = {
       "id": "126239",
       "name": "Arthur Rinderknech",
       "rank": 33,
-      "prevRank": 31,
+      "prevRank": 33,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -1367,14 +1367,14 @@ window.TENNIS_DATA = {
     {
       "id": "208286",
       "name": "Matteo Arnaldi",
-      "rank": 37,
+      "rank": 38,
       "prevRank": 37,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
       "primary": "#009246",
       "secondary": "#FFFFFF",
-      "activeScore": 64.9,
+      "activeScore": 64.8,
       "legendScore": 22.7,
       "age": 25,
       "surface": {
@@ -1399,44 +1399,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 64.9
     },
     {
-      "id": "134868",
-      "name": "Tallon Griekspoor",
-      "rank": 55,
-      "prevRank": 55,
-      "country": "NED",
-      "logo": "https://flagcdn.com/24x18/nl.png",
-      "teamCode": "NED",
-      "primary": "#AE1C28",
-      "secondary": "#FFFFFF",
-      "activeScore": 64.4,
-      "legendScore": 21.2,
-      "age": 30,
-      "surface": {
-        "hard": 0.512,
-        "clay": 0.48,
-        "grass": 0.8
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 3,
-        "weeks_no1": 0,
-        "top10_wins": 7
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 42,
-      "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 64.4
-    },
-    {
       "id": "207830",
       "name": "Tomas Machac",
       "rank": 75,
-      "prevRank": 74,
+      "prevRank": 75,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -1457,7 +1423,7 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 43,
+      "prevListRank": 42,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -1467,16 +1433,52 @@ window.TENNIS_DATA = {
       "prevActiveScore": 64.4
     },
     {
+      "id": "144684",
+      "name": "Alex Molcan",
+      "rank": 84,
+      "prevRank": 96,
+      "country": "SVK",
+      "logo": "https://flagcdn.com/24x18/sk.png",
+      "teamCode": "SVK",
+      "primary": "#0B4EA2",
+      "secondary": "#FFFFFF",
+      "activeScore": 64.4,
+      "legendScore": 19.0,
+      "age": 28,
+      "surface": {
+        "hard": null,
+        "clay": 0.714,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "inactiveWeeks": 6,
+      "inactivePenalty": 6.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 43,
+      "tournamentStatus": {
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 63.1
+    },
+    {
       "id": "208363",
       "name": "Mariano Navone",
-      "rank": 45,
+      "rank": 47,
       "prevRank": 45,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
       "primary": "#74ACDF",
       "secondary": "#FFFFFF",
-      "activeScore": 64.3,
+      "activeScore": 64.1,
       "legendScore": 16.8,
       "age": 25,
       "surface": {
@@ -1501,10 +1503,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 64.3
     },
     {
+      "id": "134868",
+      "name": "Tallon Griekspoor",
+      "rank": 58,
+      "prevRank": 55,
+      "country": "NED",
+      "logo": "https://flagcdn.com/24x18/nl.png",
+      "teamCode": "NED",
+      "primary": "#AE1C28",
+      "secondary": "#FFFFFF",
+      "activeScore": 64.0,
+      "legendScore": 21.2,
+      "age": 30,
+      "surface": {
+        "hard": 0.512,
+        "clay": 0.48,
+        "grass": 0.8
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 3,
+        "weeks_no1": 0,
+        "top10_wins": 7
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 45,
+      "tournamentStatus": {
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 64.4
+    },
+    {
       "id": "122298",
       "name": "Botic Van De Zandschulp",
       "rank": 41,
-      "prevRank": 40,
+      "prevRank": 41,
       "country": "NED",
       "logo": "https://flagcdn.com/24x18/nl.png",
       "teamCode": "NED",
@@ -1525,7 +1561,7 @@ window.TENNIS_DATA = {
         "top10_wins": 7
       },
       "leyendaScore": 0.0,
-      "prevListRank": 45,
+      "prevListRank": 46,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -1535,65 +1571,29 @@ window.TENNIS_DATA = {
       "prevActiveScore": 63.8
     },
     {
-      "id": "210084",
-      "name": "Jakub Mensik",
-      "rank": 14,
-      "prevRank": 15,
-      "country": "CZE",
-      "logo": "https://flagcdn.com/24x18/cz.png",
-      "teamCode": "CZE",
-      "primary": "#D7141A",
+      "id": "144719",
+      "name": "Jaume Munar",
+      "rank": 49,
+      "prevRank": 64,
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "teamCode": "ESP",
+      "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "activeScore": 63.4,
-      "legendScore": 0.0,
-      "age": 21,
+      "activeScore": 63.8,
+      "legendScore": 15.0,
+      "age": 29,
       "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
+        "hard": 0.578,
+        "clay": 0.429,
+        "grass": 0.5
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 4
       },
-      "leyendaScore": 0.0,
-      "prevListRank": 46,
-      "tournamentStatus": {
-        "tournament": "China Open",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 63.4
-    },
-    {
-      "id": "144684",
-      "name": "Alex Molcan",
-      "rank": 96,
-      "prevRank": 96,
-      "country": "SVK",
-      "logo": "https://flagcdn.com/24x18/sk.png",
-      "teamCode": "SVK",
-      "primary": "#0B4EA2",
-      "secondary": "#FFFFFF",
-      "activeScore": 63.1,
-      "legendScore": 19.0,
-      "age": 28,
-      "surface": {
-        "hard": null,
-        "clay": 0.714,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "inactiveWeeks": 6,
-      "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
       "prevListRank": 47,
       "tournamentStatus": {
@@ -1602,53 +1602,19 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 63.1
-    },
-    {
-      "id": "209920",
-      "name": "Raphael Collignon",
-      "rank": 48,
-      "prevRank": 47,
-      "country": "BEL",
-      "logo": "https://flagcdn.com/24x18/be.png",
-      "teamCode": "BEL",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "activeScore": 63.0,
-      "legendScore": 20.1,
-      "age": 24,
-      "surface": {
-        "hard": 0.5,
-        "clay": 0.4,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 48,
-      "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 63.0
+      "prevActiveScore": 62.1
     },
     {
       "id": "209226",
       "name": "Adolfo Daniel Vallejo",
-      "rank": 56,
-      "prevRank": 58,
+      "rank": 52,
+      "prevRank": 56,
       "country": "PAR",
       "logo": "https://flagcdn.com/24x18/py.png",
       "teamCode": "PAR",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 63.0,
+      "activeScore": 63.5,
       "legendScore": 19.9,
       "age": 22,
       "surface": {
@@ -1663,7 +1629,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 49,
+      "prevListRank": 48,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -1673,16 +1639,84 @@ window.TENNIS_DATA = {
       "prevActiveScore": 63.0
     },
     {
+      "id": "210084",
+      "name": "Jakub Mensik",
+      "rank": 15,
+      "prevRank": 14,
+      "country": "CZE",
+      "logo": "https://flagcdn.com/24x18/cz.png",
+      "teamCode": "CZE",
+      "primary": "#D7141A",
+      "secondary": "#FFFFFF",
+      "activeScore": 63.2,
+      "legendScore": 0.0,
+      "age": 21,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 49,
+      "tournamentStatus": {
+        "tournament": "China Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 63.4
+    },
+    {
+      "id": "209920",
+      "name": "Raphael Collignon",
+      "rank": 50,
+      "prevRank": 48,
+      "country": "BEL",
+      "logo": "https://flagcdn.com/24x18/be.png",
+      "teamCode": "BEL",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "activeScore": 62.8,
+      "legendScore": 20.1,
+      "age": 24,
+      "surface": {
+        "hard": 0.5,
+        "clay": 0.4,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 50,
+      "tournamentStatus": {
+        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 63.0
+    },
+    {
       "id": "209098",
       "name": "Hamad Medjedovic",
-      "rank": 77,
-      "prevRank": 76,
+      "rank": 78,
+      "prevRank": 77,
       "country": "SRB",
       "logo": "https://flagcdn.com/24x18/rs.png",
       "teamCode": "SRB",
       "primary": "#C6363C",
       "secondary": "#FFFFFF",
-      "activeScore": 62.5,
+      "activeScore": 62.4,
       "legendScore": 14.1,
       "age": 23,
       "surface": {
@@ -1697,7 +1731,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 50,
+      "prevListRank": 51,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -1709,54 +1743,20 @@ window.TENNIS_DATA = {
     {
       "id": "105870",
       "name": "Yannick Hanfmann",
-      "rank": 54,
+      "rank": 57,
       "prevRank": 54,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 62.4,
+      "activeScore": 62.0,
       "legendScore": 6.2,
       "age": 34,
       "surface": {
         "hard": 0.467,
         "clay": 0.538,
         "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 4
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 51,
-      "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 62.4
-    },
-    {
-      "id": "144719",
-      "name": "Jaume Munar",
-      "rank": 64,
-      "prevRank": 66,
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "teamCode": "ESP",
-      "primary": "#AA151B",
-      "secondary": "#FFFFFF",
-      "activeScore": 62.1,
-      "legendScore": 15.0,
-      "age": 29,
-      "surface": {
-        "hard": 0.578,
-        "clay": 0.429,
-        "grass": 0.5
       },
       "stats": {
         "gs": 0,
@@ -1772,19 +1772,19 @@ window.TENNIS_DATA = {
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 62.1
+      "prevActiveScore": 62.4
     },
     {
       "id": "132686",
       "name": "Nuno Borges",
-      "rank": 49,
-      "prevRank": 48,
+      "rank": 51,
+      "prevRank": 49,
       "country": "POR",
       "logo": "https://flagcdn.com/24x18/pt.png",
       "teamCode": "POR",
       "primary": "#006600",
       "secondary": "#FFFFFF",
-      "activeScore": 61.9,
+      "activeScore": 61.7,
       "legendScore": 22.1,
       "age": 29,
       "surface": {
@@ -1811,14 +1811,14 @@ window.TENNIS_DATA = {
     {
       "id": "200267",
       "name": "Zizou Bergs",
-      "rank": 38,
+      "rank": 39,
       "prevRank": 38,
       "country": "BEL",
       "logo": "https://flagcdn.com/24x18/be.png",
       "teamCode": "BEL",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "activeScore": 61.6,
+      "activeScore": 61.5,
       "legendScore": 10.2,
       "age": 27,
       "surface": {
@@ -1843,16 +1843,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 61.6
     },
     {
+      "id": "133430",
+      "name": "Denis Shapovalov",
+      "rank": 42,
+      "prevRank": 46,
+      "country": "CAN",
+      "logo": "https://flagcdn.com/24x18/ca.png",
+      "teamCode": "CAN",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 60.1,
+      "legendScore": 26.9,
+      "age": 27,
+      "surface": {
+        "hard": 0.592,
+        "clay": 0.286,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 4,
+        "weeks_no1": 0,
+        "top10_wins": 13
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 55,
+      "tournamentStatus": {
+        "tournament": "Kinoshita Group Japan Open Tennis Championships",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
+      },
+      "prevActiveScore": 59.6
+    },
+    {
       "id": "120770",
       "name": "Jose Merida",
-      "rank": 42,
-      "prevRank": 41,
+      "rank": 44,
+      "prevRank": 42,
       "country": "CHI",
       "logo": "https://flagcdn.com/24x18/cl.png",
       "teamCode": "CHI",
       "primary": "#D52B1E",
       "secondary": "#FFFFFF",
-      "activeScore": 60.2,
+      "activeScore": 60.0,
       "legendScore": 0.0,
       "age": 42,
       "surface": {
@@ -1867,7 +1901,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 55,
+      "prevListRank": 56,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -1879,14 +1913,14 @@ window.TENNIS_DATA = {
     {
       "id": "207678",
       "name": "Juan Manuel Cerundolo",
-      "rank": 53,
+      "rank": 55,
       "prevRank": 53,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
       "primary": "#74ACDF",
       "secondary": "#FFFFFF",
-      "activeScore": 60.2,
+      "activeScore": 60.0,
       "legendScore": 19.0,
       "age": 24,
       "surface": {
@@ -1901,7 +1935,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 56,
+      "prevListRank": 57,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -1911,50 +1945,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 60.2
     },
     {
-      "id": "202104",
-      "name": "Sebastian Baez",
-      "rank": 51,
-      "prevRank": 51,
-      "country": "ARG",
-      "logo": "https://flagcdn.com/24x18/ar.png",
-      "teamCode": "ARG",
-      "primary": "#74ACDF",
-      "secondary": "#FFFFFF",
-      "activeScore": 59.9,
-      "legendScore": 20.1,
-      "age": 25,
-      "surface": {
-        "hard": 0.448,
-        "clay": 0.5,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 7,
-        "weeks_no1": 0,
-        "top10_wins": 3
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 57,
-      "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
-        "round": "R128",
-        "reason": "Eliminado en R128"
-      },
-      "prevActiveScore": 59.9
-    },
-    {
       "id": "210338",
       "name": "Arthur Gea",
-      "rank": 58,
-      "prevRank": 61,
+      "rank": 56,
+      "prevRank": 58,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 59.7,
+      "activeScore": 59.9,
       "legendScore": 13.2,
       "age": 21,
       "surface": {
@@ -1979,10 +1979,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 59.7
     },
     {
+      "id": "202104",
+      "name": "Sebastian Baez",
+      "rank": 53,
+      "prevRank": 51,
+      "country": "ARG",
+      "logo": "https://flagcdn.com/24x18/ar.png",
+      "teamCode": "ARG",
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "activeScore": 59.7,
+      "legendScore": 20.1,
+      "age": 25,
+      "surface": {
+        "hard": 0.448,
+        "clay": 0.5,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 7,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 59,
+      "tournamentStatus": {
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": "Eliminado en R128"
+      },
+      "prevActiveScore": 59.9
+    },
+    {
       "id": "200240",
       "name": "Vit Kopriva",
       "rank": 68,
-      "prevRank": 71,
+      "prevRank": 68,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -2003,7 +2037,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 59,
+      "prevListRank": 60,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -2016,7 +2050,7 @@ window.TENNIS_DATA = {
       "id": "208169",
       "name": "Titouan Droguet",
       "rank": 72,
-      "prevRank": 84,
+      "prevRank": 72,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -2037,7 +2071,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 60,
+      "prevListRank": 61,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -2047,44 +2081,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 59.7
     },
     {
-      "id": "133430",
-      "name": "Denis Shapovalov",
-      "rank": 46,
+      "id": "111460",
+      "name": "Quentin Halys",
+      "rank": 48,
       "prevRank": 50,
-      "country": "CAN",
-      "logo": "https://flagcdn.com/24x18/ca.png",
-      "teamCode": "CAN",
-      "primary": "#FF0000",
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 59.6,
-      "legendScore": 26.9,
-      "age": 27,
+      "activeScore": 59.3,
+      "legendScore": 13.7,
+      "age": 29,
       "surface": {
-        "hard": 0.592,
-        "clay": 0.286,
-        "grass": null
+        "hard": 0.385,
+        "clay": 0.455,
+        "grass": 0.333
       },
       "stats": {
         "gs": 0,
-        "titles": 4,
+        "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 13
+        "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 61,
+      "prevListRank": 62,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships",
+        "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 59.6
+      "prevActiveScore": 59.1
     },
     {
       "id": "206681",
       "name": "Fabian Marozsan",
-      "rank": 62,
-      "prevRank": 59,
+      "rank": 63,
+      "prevRank": 62,
       "country": "HUN",
       "logo": "https://flagcdn.com/24x18/hu.png",
       "teamCode": "HUN",
@@ -2105,7 +2139,7 @@ window.TENNIS_DATA = {
         "top10_wins": 6
       },
       "leyendaScore": 0.0,
-      "prevListRank": 62,
+      "prevListRank": 63,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -2115,50 +2149,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 59.3
     },
     {
-      "id": "111460",
-      "name": "Quentin Halys",
-      "rank": 50,
-      "prevRank": 49,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
-      "secondary": "#FFFFFF",
-      "activeScore": 59.1,
-      "legendScore": 13.7,
-      "age": 29,
-      "surface": {
-        "hard": 0.385,
-        "clay": 0.455,
-        "grass": 0.333
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 63,
-      "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 59.1
-    },
-    {
       "id": "208882",
       "name": "Roman Andres Burruchaga",
-      "rank": 60,
-      "prevRank": 56,
+      "rank": 62,
+      "prevRank": 60,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
       "primary": "#74ACDF",
       "secondary": "#FFFFFF",
-      "activeScore": 58.9,
+      "activeScore": 58.8,
       "legendScore": 13.2,
       "age": 24,
       "surface": {
@@ -2185,14 +2185,14 @@ window.TENNIS_DATA = {
     {
       "id": "144895",
       "name": "Corentin Moutet",
-      "rank": 70,
+      "rank": 71,
       "prevRank": 70,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 58.6,
+      "activeScore": 58.5,
       "legendScore": 19.2,
       "age": 27,
       "surface": {
@@ -2220,7 +2220,7 @@ window.TENNIS_DATA = {
       "id": "208118",
       "name": "Eliot Spizzirri",
       "rank": 143,
-      "prevRank": 123,
+      "prevRank": 143,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -2253,14 +2253,14 @@ window.TENNIS_DATA = {
     {
       "id": "105227",
       "name": "Marin Cilic",
-      "rank": 78,
-      "prevRank": 79,
+      "rank": 80,
+      "prevRank": 78,
       "country": "CRO",
       "logo": "https://flagcdn.com/24x18/hr.png",
       "teamCode": "CRO",
       "primary": "#FF0000",
       "secondary": "#FFFFFF",
-      "activeScore": 58.4,
+      "activeScore": 58.2,
       "legendScore": 41.7,
       "age": 38,
       "surface": {
@@ -2285,50 +2285,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 58.4
     },
     {
-      "id": "126504",
-      "name": "Andrea Pellegrino",
-      "rank": 145,
-      "prevRank": 144,
-      "country": "ITA",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "teamCode": "ITA",
-      "primary": "#009246",
+      "id": "111794",
+      "name": "Kamil Majchrzak",
+      "rank": 70,
+      "prevRank": 71,
+      "country": "POL",
+      "logo": "https://flagcdn.com/24x18/pl.png",
+      "teamCode": "POL",
+      "primary": "#DC143C",
       "secondary": "#FFFFFF",
-      "activeScore": 57.5,
-      "legendScore": 0.0,
-      "age": 29,
+      "activeScore": 57.6,
+      "legendScore": 14.3,
+      "age": 30,
       "surface": {
-        "hard": null,
-        "clay": 0.545,
+        "hard": 0.5,
+        "clay": 0.385,
         "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 0
+        "top10_wins": 1
       },
       "leyendaScore": 0.0,
       "prevListRank": 68,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
-      "prevActiveScore": 57.5
+      "prevActiveScore": 57.4
     },
     {
       "id": "210262",
       "name": "Jaime Faria",
-      "rank": 61,
-      "prevRank": 68,
+      "rank": 60,
+      "prevRank": 61,
       "country": "POR",
       "logo": "https://flagcdn.com/24x18/pt.png",
       "teamCode": "POR",
       "primary": "#006600",
       "secondary": "#FFFFFF",
-      "activeScore": 57.4,
+      "activeScore": 57.5,
       "legendScore": 15.9,
       "age": 23,
       "surface": {
@@ -2353,44 +2353,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 57.4
     },
     {
-      "id": "111794",
-      "name": "Kamil Majchrzak",
-      "rank": 71,
-      "prevRank": 73,
-      "country": "POL",
-      "logo": "https://flagcdn.com/24x18/pl.png",
-      "teamCode": "POL",
-      "primary": "#DC143C",
+      "id": "126504",
+      "name": "Andrea Pellegrino",
+      "rank": 145,
+      "prevRank": 145,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
       "secondary": "#FFFFFF",
-      "activeScore": 57.4,
-      "legendScore": 14.3,
-      "age": 30,
+      "activeScore": 57.5,
+      "legendScore": 0.0,
+      "age": 29,
       "surface": {
-        "hard": 0.5,
-        "clay": 0.385,
+        "hard": null,
+        "clay": 0.545,
         "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 1
+        "top10_wins": 0
       },
       "leyendaScore": 0.0,
       "prevListRank": 70,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
+        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
       },
-      "prevActiveScore": 57.4
+      "prevActiveScore": 57.5
     },
     {
       "id": "200059",
       "name": "Yibing Wu",
-      "rank": 111,
-      "prevRank": 113,
+      "rank": 113,
+      "prevRank": 111,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
@@ -2421,44 +2421,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 57.4
     },
     {
-      "id": "200175",
-      "name": "Miomir Kecmanovic",
-      "rank": 57,
-      "prevRank": 60,
-      "country": "SRB",
-      "logo": "https://flagcdn.com/24x18/rs.png",
-      "teamCode": "SRB",
-      "primary": "#C6363C",
-      "secondary": "#FFFFFF",
-      "activeScore": 56.9,
-      "legendScore": 22.1,
-      "age": 27,
-      "surface": {
-        "hard": 0.481,
-        "clay": 0.267,
-        "grass": 0.4
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 2,
-        "weeks_no1": 0,
-        "top10_wins": 6
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 72,
-      "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 56.9
-    },
-    {
       "id": "211776",
       "name": "Martin Landaluce",
       "rank": 73,
-      "prevRank": 62,
+      "prevRank": 73,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -2479,7 +2445,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 73,
+      "prevListRank": 72,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -2489,16 +2455,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 56.6
     },
     {
+      "id": "200175",
+      "name": "Miomir Kecmanovic",
+      "rank": 61,
+      "prevRank": 57,
+      "country": "SRB",
+      "logo": "https://flagcdn.com/24x18/rs.png",
+      "teamCode": "SRB",
+      "primary": "#C6363C",
+      "secondary": "#FFFFFF",
+      "activeScore": 56.5,
+      "legendScore": 22.1,
+      "age": 27,
+      "surface": {
+        "hard": 0.481,
+        "clay": 0.267,
+        "grass": 0.4
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 2,
+        "weeks_no1": 0,
+        "top10_wins": 6
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 73,
+      "tournamentStatus": {
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 56.9
+    },
+    {
       "id": "105807",
       "name": "Pablo Carreno Busta",
-      "rank": 66,
-      "prevRank": 69,
+      "rank": 65,
+      "prevRank": 66,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
       "primary": "#AA151B",
       "secondary": "#FFFFFF",
-      "activeScore": 56.3,
+      "activeScore": 56.5,
       "legendScore": 29.8,
       "age": 35,
       "surface": {
@@ -2525,14 +2525,14 @@ window.TENNIS_DATA = {
     {
       "id": "200116",
       "name": "Camilo Ugo Carabelli",
-      "rank": 76,
-      "prevRank": 75,
+      "rank": 77,
+      "prevRank": 76,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
       "primary": "#74ACDF",
       "secondary": "#FFFFFF",
-      "activeScore": 56.2,
+      "activeScore": 56.0,
       "legendScore": 7.9,
       "age": 27,
       "surface": {
@@ -2559,8 +2559,8 @@ window.TENNIS_DATA = {
     {
       "id": "202385",
       "name": "Jenson Brooksby",
-      "rank": 101,
-      "prevRank": 77,
+      "rank": 102,
+      "prevRank": 101,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -2594,7 +2594,7 @@ window.TENNIS_DATA = {
       "id": "105526",
       "name": "Jan Lennard Struff",
       "rank": 59,
-      "prevRank": 63,
+      "prevRank": 59,
       "country": "GER",
       "logo": "https://flagcdn.com/24x18/de.png",
       "teamCode": "GER",
@@ -2625,44 +2625,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 55.5
     },
     {
-      "id": "208260",
-      "name": "Zachary Svajda",
-      "rank": 80,
-      "prevRank": 81,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 55.4,
-      "legendScore": 16.6,
-      "age": 23,
-      "surface": {
-        "hard": 0.333,
-        "clay": 0.571,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 78,
-      "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 55.4
-    },
-    {
       "id": "209113",
       "name": "Gabriel Diallo",
-      "rank": 118,
-      "prevRank": 122,
+      "rank": 121,
+      "prevRank": 118,
       "country": "CAN",
       "logo": "https://flagcdn.com/24x18/ca.png",
       "teamCode": "CAN",
@@ -2683,7 +2649,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 79,
+      "prevListRank": 78,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -2695,8 +2661,8 @@ window.TENNIS_DATA = {
     {
       "id": "105916",
       "name": "Marton Fucsovics",
-      "rank": 133,
-      "prevRank": 118,
+      "rank": 134,
+      "prevRank": 133,
       "country": "HUN",
       "logo": "https://flagcdn.com/24x18/hu.png",
       "teamCode": "HUN",
@@ -2717,7 +2683,7 @@ window.TENNIS_DATA = {
         "top10_wins": 4
       },
       "leyendaScore": 0.0,
-      "prevListRank": 80,
+      "prevListRank": 79,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -2727,44 +2693,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 55.4
     },
     {
-      "id": "209976",
-      "name": "Dino Prizmic",
-      "rank": 95,
-      "prevRank": 101,
-      "country": "CRO",
-      "logo": "https://flagcdn.com/24x18/hr.png",
-      "teamCode": "CRO",
-      "primary": "#FF0000",
-      "secondary": "#FFFFFF",
-      "activeScore": 55.3,
-      "legendScore": 8.2,
-      "age": 21,
-      "surface": {
-        "hard": 0.333,
-        "clay": 0.588,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 2
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 81,
-      "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 55.3
-    },
-    {
       "id": "208010",
       "name": "Pablo Llamas Ruiz",
       "rank": 144,
-      "prevRank": 140,
+      "prevRank": 144,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -2785,7 +2717,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 82,
+      "prevListRank": 80,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -2795,16 +2727,84 @@ window.TENNIS_DATA = {
       "prevActiveScore": 55.2
     },
     {
+      "id": "208260",
+      "name": "Zachary Svajda",
+      "rank": 82,
+      "prevRank": 80,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.1,
+      "legendScore": 16.6,
+      "age": 23,
+      "surface": {
+        "hard": 0.333,
+        "clay": 0.571,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 81,
+      "tournamentStatus": {
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 55.4
+    },
+    {
+      "id": "209976",
+      "name": "Dino Prizmic",
+      "rank": 97,
+      "prevRank": 95,
+      "country": "CRO",
+      "logo": "https://flagcdn.com/24x18/hr.png",
+      "teamCode": "CRO",
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "activeScore": 55.0,
+      "legendScore": 8.2,
+      "age": 21,
+      "surface": {
+        "hard": 0.333,
+        "clay": 0.588,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 2
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 82,
+      "tournamentStatus": {
+        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 55.3
+    },
+    {
       "id": "106218",
       "name": "Marcos Giron",
-      "rank": 85,
+      "rank": 88,
       "prevRank": 85,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 54.8,
+      "activeScore": 54.4,
       "legendScore": 15.5,
       "age": 33,
       "surface": {
@@ -2831,14 +2831,14 @@ window.TENNIS_DATA = {
     {
       "id": "132283",
       "name": "Lorenzo Sonego",
-      "rank": 83,
-      "prevRank": 86,
+      "rank": 87,
+      "prevRank": 83,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
       "primary": "#009246",
       "secondary": "#FFFFFF",
-      "activeScore": 54.7,
+      "activeScore": 54.3,
       "legendScore": 24.7,
       "age": 31,
       "surface": {
@@ -2865,14 +2865,14 @@ window.TENNIS_DATA = {
     {
       "id": "126127",
       "name": "Benjamin Bonzi",
-      "rank": 90,
+      "rank": 92,
       "prevRank": 90,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 54.6,
+      "activeScore": 54.3,
       "legendScore": 18.8,
       "age": 30,
       "surface": {
@@ -2931,44 +2931,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 54.2
     },
     {
-      "id": "207411",
-      "name": "Jesper De Jong",
-      "rank": 93,
-      "prevRank": 95,
-      "country": "NED",
-      "logo": "https://flagcdn.com/24x18/nl.png",
-      "teamCode": "NED",
-      "primary": "#AE1C28",
-      "secondary": "#FFFFFF",
-      "activeScore": 54.2,
-      "legendScore": 19.9,
-      "age": 26,
-      "surface": {
-        "hard": 0.385,
-        "clay": 0.565,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 87,
-      "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 54.2
-    },
-    {
       "id": "200615",
       "name": "Alexei Popyrin",
       "rank": 129,
-      "prevRank": 130,
+      "prevRank": 129,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -2989,7 +2955,7 @@ window.TENNIS_DATA = {
         "top10_wins": 14
       },
       "leyendaScore": 0.0,
-      "prevListRank": 88,
+      "prevListRank": 87,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -2999,10 +2965,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 54.0
     },
     {
+      "id": "207411",
+      "name": "Jesper De Jong",
+      "rank": 95,
+      "prevRank": 93,
+      "country": "NED",
+      "logo": "https://flagcdn.com/24x18/nl.png",
+      "teamCode": "NED",
+      "primary": "#AE1C28",
+      "secondary": "#FFFFFF",
+      "activeScore": 53.9,
+      "legendScore": 19.9,
+      "age": 26,
+      "surface": {
+        "hard": 0.385,
+        "clay": 0.565,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 88,
+      "tournamentStatus": {
+        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 54.2
+    },
+    {
       "id": "209279",
       "name": "Terence Atmane",
       "rank": 99,
-      "prevRank": 83,
+      "prevRank": 99,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -3036,7 +3036,7 @@ window.TENNIS_DATA = {
       "id": "209147",
       "name": "Vilius Gaubas",
       "rank": 141,
-      "prevRank": 117,
+      "prevRank": 141,
       "country": "LTU",
       "logo": "https://flagcdn.com/24x18/lt.png",
       "teamCode": "LTU",
@@ -3070,7 +3070,7 @@ window.TENNIS_DATA = {
       "id": "200624",
       "name": "Sebastian Korda",
       "rank": 74,
-      "prevRank": 64,
+      "prevRank": 74,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -3105,8 +3105,8 @@ window.TENNIS_DATA = {
     {
       "id": "206736",
       "name": "Benjamin O'Connell",
-      "rank": 114,
-      "prevRank": 115,
+      "rank": 117,
+      "prevRank": 114,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -3140,7 +3140,7 @@ window.TENNIS_DATA = {
       "id": "208024",
       "name": "Max Alcala Gurri",
       "rank": 138,
-      "prevRank": 163,
+      "prevRank": 138,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -3173,8 +3173,8 @@ window.TENNIS_DATA = {
     {
       "id": "208597",
       "name": "Chak Lam Coleman Wong",
-      "rank": 100,
-      "prevRank": 108,
+      "rank": 101,
+      "prevRank": 100,
       "country": "HKG",
       "logo": "",
       "teamCode": "HKG",
@@ -3205,44 +3205,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 53.5
     },
     {
-      "id": "206499",
-      "name": "Aleksandar Kovacevic",
-      "rank": 79,
-      "prevRank": 80,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 53.1,
-      "legendScore": 4.0,
-      "age": 28,
-      "surface": {
-        "hard": 0.432,
-        "clay": 0.357,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 3
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 95,
-      "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 53.1
-    },
-    {
       "id": "207494",
       "name": "Dalibor Svrcina",
-      "rank": 124,
-      "prevRank": 128,
+      "rank": 126,
+      "prevRank": 124,
       "country": "CZE",
       "logo": "https://flagcdn.com/24x18/cz.png",
       "teamCode": "CZE",
@@ -3263,7 +3229,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 96,
+      "prevListRank": 95,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -3273,10 +3239,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 53.0
     },
     {
+      "id": "206499",
+      "name": "Aleksandar Kovacevic",
+      "rank": 81,
+      "prevRank": 79,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.9,
+      "legendScore": 4.0,
+      "age": 28,
+      "surface": {
+        "hard": 0.432,
+        "clay": 0.357,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 3
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 96,
+      "tournamentStatus": {
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 53.1
+    },
+    {
       "id": "207680",
       "name": "Facundo Diaz Acosta",
       "rank": 69,
-      "prevRank": 72,
+      "prevRank": 69,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
@@ -3307,50 +3307,16 @@ window.TENNIS_DATA = {
       "prevActiveScore": 52.7
     },
     {
-      "id": "210116",
-      "name": "Michael Zheng",
-      "rank": 92,
-      "prevRank": 92,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 52.6,
-      "legendScore": 13.2,
-      "age": 22,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 98,
-      "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 52.6
-    },
-    {
       "id": "105477",
       "name": "Marco Trungelliti",
-      "rank": 88,
-      "prevRank": 87,
+      "rank": 90,
+      "prevRank": 88,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
       "primary": "#74ACDF",
       "secondary": "#FFFFFF",
-      "activeScore": 52.5,
+      "activeScore": 52.3,
       "legendScore": 15.0,
       "age": 36,
       "surface": {
@@ -3365,7 +3331,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 99,
+      "prevListRank": 98,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -3375,9 +3341,77 @@ window.TENNIS_DATA = {
       "prevActiveScore": 52.5
     },
     {
+      "id": "210116",
+      "name": "Michael Zheng",
+      "rank": 94,
+      "prevRank": 92,
+      "country": "USA",
+      "logo": "https://flagcdn.com/24x18/us.png",
+      "teamCode": "USA",
+      "primary": "#B22234",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.3,
+      "legendScore": 13.2,
+      "age": 22,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 99,
+      "tournamentStatus": {
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 52.6
+    },
+    {
+      "id": "208233",
+      "name": "Mattia Bellucci",
+      "rank": 86,
+      "prevRank": 91,
+      "country": "ITA",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "teamCode": "ITA",
+      "primary": "#009246",
+      "secondary": "#FFFFFF",
+      "activeScore": 52.2,
+      "legendScore": 12.4,
+      "age": 25,
+      "surface": {
+        "hard": 0.36,
+        "clay": 0.385,
+        "grass": 0.5
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 100,
+      "tournamentStatus": {
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 51.6
+    },
+    {
       "id": "207686",
       "name": "Alexander Shevchenko",
-      "rank": 109,
+      "rank": 111,
       "prevRank": 109,
       "country": "KAZ",
       "logo": "https://flagcdn.com/24x18/kz.png",
@@ -3399,7 +3433,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 100,
+      "prevListRank": 101,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -3411,8 +3445,8 @@ window.TENNIS_DATA = {
     {
       "id": "105777",
       "name": "Grigor Dimitrov",
-      "rank": 126,
-      "prevRank": 127,
+      "rank": 127,
+      "prevRank": 126,
       "country": "BUL",
       "logo": "https://flagcdn.com/24x18/bg.png",
       "teamCode": "BUL",
@@ -3435,7 +3469,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.4,
       "leyendaScore": 0.0,
-      "prevListRank": 101,
+      "prevListRank": 102,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -3447,8 +3481,8 @@ window.TENNIS_DATA = {
     {
       "id": "124186",
       "name": "Alexandre Muller",
-      "rank": 132,
-      "prevRank": 135,
+      "rank": 133,
+      "prevRank": 132,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -3469,7 +3503,7 @@ window.TENNIS_DATA = {
         "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 102,
+      "prevListRank": 103,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -3479,50 +3513,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 51.8
     },
     {
-      "id": "208233",
-      "name": "Mattia Bellucci",
-      "rank": 91,
-      "prevRank": 88,
-      "country": "ITA",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "teamCode": "ITA",
-      "primary": "#009246",
+      "id": "126128",
+      "name": "Roman Safiullin",
+      "rank": 79,
+      "prevRank": 84,
+      "country": "RUS",
+      "logo": "https://flagcdn.com/24x18/ru.png",
+      "teamCode": "RUS",
+      "primary": "#003DA5",
       "secondary": "#FFFFFF",
-      "activeScore": 51.6,
-      "legendScore": 12.4,
-      "age": 25,
+      "activeScore": 51.1,
+      "legendScore": 17.2,
+      "age": 29,
       "surface": {
-        "hard": 0.36,
-        "clay": 0.385,
-        "grass": 0.5
+        "hard": 0.353,
+        "clay": null,
+        "grass": null
       },
       "stats": {
         "gs": 0,
         "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 1
+        "top10_wins": 3
       },
       "leyendaScore": 0.0,
-      "prevListRank": 103,
+      "prevListRank": 104,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 51.6
+      "prevActiveScore": 50.5
     },
     {
       "id": "210319",
       "name": "Ethan Quinn",
-      "rank": 65,
-      "prevRank": 57,
+      "rank": 66,
+      "prevRank": 65,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 50.8,
+      "activeScore": 50.7,
       "legendScore": 18.1,
       "age": 22,
       "surface": {
@@ -3537,7 +3571,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 104,
+      "prevListRank": 105,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -3547,44 +3581,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 50.8
     },
     {
-      "id": "105173",
-      "name": "Adrian Mannarino",
-      "rank": 81,
-      "prevRank": 78,
+      "id": "208021",
+      "name": "Kyrian Jacquet",
+      "rank": 76,
+      "prevRank": 86,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 50.7,
-      "legendScore": 24.1,
-      "age": 38,
+      "activeScore": 50.6,
+      "legendScore": 0.0,
+      "age": 25,
       "surface": {
-        "hard": 0.429,
-        "clay": 0.111,
-        "grass": 0.6
+        "hard": null,
+        "clay": null,
+        "grass": null
       },
       "stats": {
         "gs": 0,
-        "titles": 5,
+        "titles": 0,
         "weeks_no1": 0,
-        "top10_wins": 11
+        "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 105,
+      "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
+        "tournament": "Kinoshita Group Japan Open Tennis Championships",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
-      "prevActiveScore": 50.7
+      "prevActiveScore": 49.5
     },
     {
       "id": "105932",
       "name": "Nikoloz Basilashvili",
-      "rank": 121,
-      "prevRank": 145,
+      "rank": 124,
+      "prevRank": 121,
       "country": "GEO",
       "logo": "https://flagcdn.com/24x18/ge.png",
       "teamCode": "GEO",
@@ -3605,7 +3639,7 @@ window.TENNIS_DATA = {
         "top10_wins": 9
       },
       "leyendaScore": 0.0,
-      "prevListRank": 106,
+      "prevListRank": 107,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -3618,7 +3652,7 @@ window.TENNIS_DATA = {
       "id": "210460",
       "name": "Nishesh Basavareddy",
       "rank": 139,
-      "prevRank": 167,
+      "prevRank": 139,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -3639,7 +3673,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 107,
+      "prevListRank": 108,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -3649,44 +3683,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 50.6
     },
     {
-      "id": "126128",
-      "name": "Roman Safiullin",
-      "rank": 84,
-      "prevRank": 102,
-      "country": "RUS",
-      "logo": "https://flagcdn.com/24x18/ru.png",
-      "teamCode": "RUS",
-      "primary": "#003DA5",
+      "id": "105173",
+      "name": "Adrian Mannarino",
+      "rank": 83,
+      "prevRank": 81,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 50.5,
-      "legendScore": 17.2,
-      "age": 29,
+      "activeScore": 50.4,
+      "legendScore": 24.1,
+      "age": 38,
       "surface": {
-        "hard": 0.353,
-        "clay": null,
-        "grass": null
+        "hard": 0.429,
+        "clay": 0.111,
+        "grass": 0.6
       },
       "stats": {
         "gs": 0,
-        "titles": 0,
+        "titles": 5,
         "weeks_no1": 0,
-        "top10_wins": 3
+        "top10_wins": 11
       },
       "leyendaScore": 0.0,
-      "prevListRank": 108,
+      "prevListRank": 109,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
         "round": "R128",
         "reason": ""
       },
-      "prevActiveScore": 50.5
+      "prevActiveScore": 50.7
     },
     {
       "id": "102093",
       "name": "Martin Damm",
-      "rank": 103,
-      "prevRank": 106,
+      "rank": 104,
+      "prevRank": 103,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -3709,7 +3743,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.4,
       "leyendaScore": 0.0,
-      "prevListRank": 109,
+      "prevListRank": 110,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -3721,8 +3755,8 @@ window.TENNIS_DATA = {
     {
       "id": "207681",
       "name": "Francisco Comesana",
-      "rank": 123,
-      "prevRank": 126,
+      "rank": 125,
+      "prevRank": 123,
       "country": "ARG",
       "logo": "https://flagcdn.com/24x18/ar.png",
       "teamCode": "ARG",
@@ -3743,7 +3777,7 @@ window.TENNIS_DATA = {
         "top10_wins": 2
       },
       "leyendaScore": 0.0,
-      "prevListRank": 110,
+      "prevListRank": 111,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -3753,44 +3787,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 50.2
     },
     {
-      "id": "208014",
-      "name": "Rinky Hijikata",
-      "rank": 82,
-      "prevRank": 82,
-      "country": "AUS",
-      "logo": "https://flagcdn.com/24x18/au.png",
-      "teamCode": "AUS",
-      "primary": "#00008B",
-      "secondary": "#FFFFFF",
-      "activeScore": 50.0,
-      "legendScore": 14.1,
-      "age": 25,
-      "surface": {
-        "hard": 0.433,
-        "clay": 0.125,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 1
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 111,
-      "tournamentStatus": {
-        "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
-        "round": "R128",
-        "reason": ""
-      },
-      "prevActiveScore": 50.0
-    },
-    {
       "id": "207182",
       "name": "Emilio Nava",
-      "rank": 119,
-      "prevRank": 124,
+      "rank": 122,
+      "prevRank": 119,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -3821,16 +3821,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 49.8
     },
     {
-      "id": "105902",
-      "name": "James Duckworth",
-      "rank": 63,
-      "prevRank": 65,
+      "id": "208014",
+      "name": "Rinky Hijikata",
+      "rank": 85,
+      "prevRank": 82,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
       "primary": "#00008B",
       "secondary": "#FFFFFF",
       "activeScore": 49.6,
+      "legendScore": 14.1,
+      "age": 25,
+      "surface": {
+        "hard": 0.433,
+        "clay": 0.125,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 1
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 113,
+      "tournamentStatus": {
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
+      },
+      "prevActiveScore": 50.0
+    },
+    {
+      "id": "105902",
+      "name": "James Duckworth",
+      "rank": 64,
+      "prevRank": 63,
+      "country": "AUS",
+      "logo": "https://flagcdn.com/24x18/au.png",
+      "teamCode": "AUS",
+      "primary": "#00008B",
+      "secondary": "#FFFFFF",
+      "activeScore": 49.4,
       "legendScore": 9.7,
       "age": 34,
       "surface": {
@@ -3845,7 +3879,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 113,
+      "prevListRank": 114,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -3855,44 +3889,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 49.6
     },
     {
-      "id": "208021",
-      "name": "Kyrian Jacquet",
-      "rank": 86,
-      "prevRank": 107,
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
-      "secondary": "#FFFFFF",
-      "activeScore": 49.5,
-      "legendScore": 0.0,
-      "age": 25,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 114,
-      "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships",
-        "state": "alive",
-        "round": "R64",
-        "reason": ""
-      },
-      "prevActiveScore": 49.5
-    },
-    {
       "id": "208659",
       "name": "Giovanni Mpetshi Perricard",
-      "rank": 107,
-      "prevRank": 105,
+      "rank": 108,
+      "prevRank": 107,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -3925,14 +3925,14 @@ window.TENNIS_DATA = {
     {
       "id": "207985",
       "name": "Jacob Fearnley",
-      "rank": 94,
+      "rank": 96,
       "prevRank": 94,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
       "primary": "#012169",
       "secondary": "#FFFFFF",
-      "activeScore": 48.6,
+      "activeScore": 48.4,
       "legendScore": 18.3,
       "age": 25,
       "surface": {
@@ -3959,14 +3959,14 @@ window.TENNIS_DATA = {
     {
       "id": "200443",
       "name": "Adam Walton",
-      "rank": 97,
-      "prevRank": 99,
+      "rank": 98,
+      "prevRank": 97,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
       "primary": "#00008B",
       "secondary": "#FFFFFF",
-      "activeScore": 48.6,
+      "activeScore": 48.4,
       "legendScore": 11.5,
       "age": 27,
       "surface": {
@@ -3993,14 +3993,14 @@ window.TENNIS_DATA = {
     {
       "id": "209259",
       "name": "Arthur Fery",
-      "rank": 36,
+      "rank": 37,
       "prevRank": 36,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
       "primary": "#012169",
       "secondary": "#FFFFFF",
-      "activeScore": 48.4,
+      "activeScore": 48.3,
       "legendScore": 13.2,
       "age": 24,
       "surface": {
@@ -4029,8 +4029,8 @@ window.TENNIS_DATA = {
     {
       "id": "106000",
       "name": "Damir Dzumhur",
-      "rank": 102,
-      "prevRank": 100,
+      "rank": 103,
+      "prevRank": 102,
       "country": "BIH",
       "logo": "https://flagcdn.com/24x18/ba.png",
       "teamCode": "BIH",
@@ -4061,44 +4061,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 48.0
     },
     {
-      "id": "210389",
-      "name": "Toby Samuel",
-      "rank": 98,
-      "prevRank": 98,
-      "country": "GBR",
-      "logo": "https://flagcdn.com/24x18/gb.png",
-      "teamCode": "GBR",
-      "primary": "#012169",
-      "secondary": "#FFFFFF",
-      "activeScore": 47.9,
-      "legendScore": 0.0,
-      "age": 24,
-      "surface": {
-        "hard": null,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 120,
-      "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 47.9
-    },
-    {
       "id": "200514",
       "name": "Jurij Rodionov",
       "rank": 140,
-      "prevRank": 139,
+      "prevRank": 140,
       "country": "AUT",
       "logo": "https://flagcdn.com/24x18/at.png",
       "teamCode": "AUT",
@@ -4119,7 +4085,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 121,
+      "prevListRank": 120,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -4129,10 +4095,44 @@ window.TENNIS_DATA = {
       "prevActiveScore": 47.8
     },
     {
+      "id": "210389",
+      "name": "Toby Samuel",
+      "rank": 100,
+      "prevRank": 98,
+      "country": "GBR",
+      "logo": "https://flagcdn.com/24x18/gb.png",
+      "teamCode": "GBR",
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "activeScore": 47.6,
+      "legendScore": 0.0,
+      "age": 24,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 121,
+      "tournamentStatus": {
+        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 47.9
+    },
+    {
       "id": "106426",
       "name": "Cristian Garin",
       "rank": 131,
-      "prevRank": 132,
+      "prevRank": 131,
       "country": "CHI",
       "logo": "https://flagcdn.com/24x18/cl.png",
       "teamCode": "CHI",
@@ -4165,8 +4165,8 @@ window.TENNIS_DATA = {
     {
       "id": "126846",
       "name": "Aleksandar Vukic",
-      "rank": 112,
-      "prevRank": 91,
+      "rank": 115,
+      "prevRank": 112,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
       "teamCode": "AUS",
@@ -4197,46 +4197,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 45.7
     },
     {
-      "id": "111581",
-      "name": "Michael Mmoh",
-      "rank": 149,
-      "prevRank": 148,
-      "country": "USA",
-      "logo": "https://flagcdn.com/24x18/us.png",
-      "teamCode": "USA",
-      "primary": "#B22234",
-      "secondary": "#FFFFFF",
-      "activeScore": 45.2,
-      "legendScore": 14.6,
-      "age": 28,
-      "surface": {
-        "hard": 0.571,
-        "clay": null,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "inactiveWeeks": 20,
-      "inactivePenalty": 15.0,
-      "leyendaScore": 0.0,
-      "prevListRank": 124,
-      "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 45.2
-    },
-    {
       "id": "210012",
       "name": "Henrique Rocha",
-      "rank": 127,
-      "prevRank": 116,
+      "rank": 106,
+      "prevRank": 127,
       "country": "POR",
       "logo": "https://flagcdn.com/24x18/pt.png",
       "teamCode": "POR",
@@ -4259,7 +4223,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 125,
+      "prevListRank": 124,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -4272,7 +4236,7 @@ window.TENNIS_DATA = {
       "id": "104527",
       "name": "Stan Wawrinka",
       "rank": 142,
-      "prevRank": 141,
+      "prevRank": 142,
       "country": "SUI",
       "logo": "https://flagcdn.com/24x18/ch.png",
       "teamCode": "SUI",
@@ -4293,7 +4257,7 @@ window.TENNIS_DATA = {
         "top10_wins": 52
       },
       "leyendaScore": 10.3,
-      "prevListRank": 126,
+      "prevListRank": 125,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -4303,16 +4267,50 @@ window.TENNIS_DATA = {
       "prevActiveScore": 44.5
     },
     {
+      "id": "124116",
+      "name": "Sebastian Ofner",
+      "rank": 120,
+      "prevRank": 117,
+      "country": "AUT",
+      "logo": "https://flagcdn.com/24x18/at.png",
+      "teamCode": "AUT",
+      "primary": "#ED2939",
+      "secondary": "#FFFFFF",
+      "activeScore": 44.1,
+      "legendScore": 18.3,
+      "age": 30,
+      "surface": {
+        "hard": 0.0,
+        "clay": 0.474,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "leyendaScore": 0.0,
+      "prevListRank": 126,
+      "tournamentStatus": {
+        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 44.1
+    },
+    {
       "id": "200384",
       "name": "Hugo Gaston",
-      "rank": 87,
-      "prevRank": 97,
+      "rank": 89,
+      "prevRank": 87,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 44.1,
+      "activeScore": 43.8,
       "legendScore": 15.2,
       "age": 26,
       "surface": {
@@ -4337,44 +4335,10 @@ window.TENNIS_DATA = {
       "prevActiveScore": 44.1
     },
     {
-      "id": "124116",
-      "name": "Sebastian Ofner",
-      "rank": 117,
-      "prevRank": 121,
-      "country": "AUT",
-      "logo": "https://flagcdn.com/24x18/at.png",
-      "teamCode": "AUT",
-      "primary": "#ED2939",
-      "secondary": "#FFFFFF",
-      "activeScore": 44.1,
-      "legendScore": 18.3,
-      "age": 30,
-      "surface": {
-        "hard": 0.0,
-        "clay": 0.474,
-        "grass": null
-      },
-      "stats": {
-        "gs": 0,
-        "titles": 0,
-        "weeks_no1": 0,
-        "top10_wins": 0
-      },
-      "leyendaScore": 0.0,
-      "prevListRank": 128,
-      "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
-      },
-      "prevActiveScore": 44.1
-    },
-    {
       "id": "208316",
       "name": "Valentin Royer",
       "rank": 105,
-      "prevRank": 104,
+      "prevRank": 105,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "teamCode": "FRA",
@@ -4395,7 +4359,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 129,
+      "prevListRank": 128,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -4408,7 +4372,7 @@ window.TENNIS_DATA = {
       "id": "106198",
       "name": "Hugo Dellien",
       "rank": 128,
-      "prevRank": 129,
+      "prevRank": 128,
       "country": "BOL",
       "logo": "https://flagcdn.com/24x18/bo.png",
       "teamCode": "BOL",
@@ -4429,7 +4393,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 130,
+      "prevListRank": 129,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -4441,8 +4405,8 @@ window.TENNIS_DATA = {
     {
       "id": "105583",
       "name": "Dusan Lajovic",
-      "rank": 146,
-      "prevRank": 147,
+      "rank": 148,
+      "prevRank": 146,
       "country": "SRB",
       "logo": "https://flagcdn.com/24x18/rs.png",
       "teamCode": "SRB",
@@ -4465,7 +4429,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 5,
       "inactivePenalty": 3.4,
       "leyendaScore": 0.0,
-      "prevListRank": 131,
+      "prevListRank": 130,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -4477,8 +4441,8 @@ window.TENNIS_DATA = {
     {
       "id": "210748",
       "name": "Federico Cina",
-      "rank": 150,
-      "prevRank": 170,
+      "rank": 147,
+      "prevRank": 150,
       "country": "ITA",
       "logo": "https://flagcdn.com/24x18/it.png",
       "teamCode": "ITA",
@@ -4499,7 +4463,7 @@ window.TENNIS_DATA = {
         "top10_wins": 0
       },
       "leyendaScore": 0.0,
-      "prevListRank": 132,
+      "prevListRank": 131,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -4511,8 +4475,8 @@ window.TENNIS_DATA = {
     {
       "id": "144750",
       "name": "Lloyd Harris",
-      "rank": 125,
-      "prevRank": 136,
+      "rank": 110,
+      "prevRank": 125,
       "country": "RSA",
       "logo": "https://flagcdn.com/24x18/za.png",
       "teamCode": "RSA",
@@ -4535,7 +4499,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 39,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 133,
+      "prevListRank": 132,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -4547,8 +4511,8 @@ window.TENNIS_DATA = {
     {
       "id": "200516",
       "name": "Patrick Kypson",
-      "rank": 115,
-      "prevRank": 112,
+      "rank": 118,
+      "prevRank": 115,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "teamCode": "USA",
@@ -4569,7 +4533,7 @@ window.TENNIS_DATA = {
         "top10_wins": 1
       },
       "leyendaScore": 0.0,
-      "prevListRank": 134,
+      "prevListRank": 133,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -4581,7 +4545,7 @@ window.TENNIS_DATA = {
     {
       "id": "208852",
       "name": "Stefanos Sakellaridis",
-      "rank": 134,
+      "rank": 135,
       "prevRank": 134,
       "country": "GRE",
       "logo": "https://flagcdn.com/24x18/gr.png",
@@ -4605,7 +4569,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 135,
+      "prevListRank": 134,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -4617,8 +4581,8 @@ window.TENNIS_DATA = {
     {
       "id": "202261",
       "name": "Otto Virtanen",
-      "rank": 106,
-      "prevRank": 103,
+      "rank": 107,
+      "prevRank": 106,
       "country": "FIN",
       "logo": "https://flagcdn.com/24x18/fi.png",
       "teamCode": "FIN",
@@ -4641,7 +4605,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 136,
+      "prevListRank": 135,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -4653,8 +4617,8 @@ window.TENNIS_DATA = {
     {
       "id": "210136",
       "name": "Mark Lajal",
-      "rank": 147,
-      "prevRank": 143,
+      "rank": 149,
+      "prevRank": 147,
       "country": "EST",
       "logo": "https://flagcdn.com/24x18/ee.png",
       "teamCode": "EST",
@@ -4677,7 +4641,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 32,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 137,
+      "prevListRank": 136,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -4690,7 +4654,7 @@ window.TENNIS_DATA = {
       "id": "205734",
       "name": "Thiago Seyboth Wild",
       "rank": 136,
-      "prevRank": 138,
+      "prevRank": 136,
       "country": "BRA",
       "logo": "https://flagcdn.com/24x18/br.png",
       "teamCode": "BRA",
@@ -4713,7 +4677,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 15,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 138,
+      "prevListRank": 137,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -4725,14 +4689,14 @@ window.TENNIS_DATA = {
     {
       "id": "123828",
       "name": "Jan Choinski",
-      "rank": 89,
+      "rank": 91,
       "prevRank": 89,
       "country": "GBR",
       "logo": "https://flagcdn.com/24x18/gb.png",
       "teamCode": "GBR",
       "primary": "#012169",
       "secondary": "#FFFFFF",
-      "activeScore": 37.5,
+      "activeScore": 37.3,
       "legendScore": 9.9,
       "age": 30,
       "surface": {
@@ -4749,7 +4713,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 8,
       "inactivePenalty": 10.0,
       "leyendaScore": 0.0,
-      "prevListRank": 139,
+      "prevListRank": 138,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -4762,7 +4726,7 @@ window.TENNIS_DATA = {
       "id": "124079",
       "name": "Pedro Martinez",
       "rank": 130,
-      "prevRank": 131,
+      "prevRank": 130,
       "country": "ESP",
       "logo": "https://flagcdn.com/24x18/es.png",
       "teamCode": "ESP",
@@ -4785,7 +4749,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 6,
       "inactivePenalty": 6.0,
       "leyendaScore": 0.0,
-      "prevListRank": 140,
+      "prevListRank": 139,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -4797,7 +4761,7 @@ window.TENNIS_DATA = {
     {
       "id": "208013",
       "name": "Dane Sweeny",
-      "rank": 110,
+      "rank": 112,
       "prevRank": 110,
       "country": "AUS",
       "logo": "https://flagcdn.com/24x18/au.png",
@@ -4821,7 +4785,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 141,
+      "prevListRank": 140,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -4833,8 +4797,8 @@ window.TENNIS_DATA = {
     {
       "id": "208361",
       "name": "Gustavo Heide",
-      "rank": 122,
-      "prevRank": 120,
+      "rank": 116,
+      "prevRank": 122,
       "country": "BRA",
       "logo": "https://flagcdn.com/24x18/br.png",
       "teamCode": "BRA",
@@ -4857,7 +4821,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 14,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 142,
+      "prevListRank": 141,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -4869,8 +4833,8 @@ window.TENNIS_DATA = {
     {
       "id": "207352",
       "name": "Bu Yunchaokete",
-      "rank": 104,
-      "prevRank": 111,
+      "rank": 93,
+      "prevRank": 104,
       "country": "CHN",
       "logo": "https://flagcdn.com/24x18/cn.png",
       "teamCode": "CHN",
@@ -4893,7 +4857,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 18,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 143,
+      "prevListRank": 142,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -4905,8 +4869,8 @@ window.TENNIS_DATA = {
     {
       "id": "200647",
       "name": "Sho Shimabukuro",
-      "rank": 108,
-      "prevRank": 93,
+      "rank": 109,
+      "prevRank": 108,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "teamCode": "JPN",
@@ -4929,7 +4893,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 12,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 144,
+      "prevListRank": 143,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -4941,8 +4905,8 @@ window.TENNIS_DATA = {
     {
       "id": "200436",
       "name": "Zsombor Piros",
-      "rank": 113,
-      "prevRank": 114,
+      "rank": 114,
+      "prevRank": 113,
       "country": "HUN",
       "logo": "https://flagcdn.com/24x18/hu.png",
       "teamCode": "HUN",
@@ -4965,7 +4929,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 39,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 145,
+      "prevListRank": 144,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -4977,8 +4941,8 @@ window.TENNIS_DATA = {
     {
       "id": "200711",
       "name": "Nicolas Mejia",
-      "rank": 116,
-      "prevRank": 119,
+      "rank": 119,
+      "prevRank": 116,
       "country": "COL",
       "logo": "https://flagcdn.com/24x18/co.png",
       "teamCode": "COL",
@@ -5001,7 +4965,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 45,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 146,
+      "prevListRank": 145,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -5013,8 +4977,8 @@ window.TENNIS_DATA = {
     {
       "id": "208278",
       "name": "Shintaro Mochizuki",
-      "rank": 120,
-      "prevRank": 125,
+      "rank": 123,
+      "prevRank": 120,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "teamCode": "JPN",
@@ -5037,7 +5001,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 14,
       "inactivePenalty": 15.0,
       "leyendaScore": 0.0,
-      "prevListRank": 147,
+      "prevListRank": 146,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -5049,8 +5013,8 @@ window.TENNIS_DATA = {
     {
       "id": "144642",
       "name": "Tomas Barrios Vera",
-      "rank": 135,
-      "prevRank": 137,
+      "rank": 132,
+      "prevRank": 135,
       "country": "CHI",
       "logo": "https://flagcdn.com/24x18/cl.png",
       "teamCode": "CHI",
@@ -5073,7 +5037,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 10,
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
-      "prevListRank": 148,
+      "prevListRank": 147,
       "tournamentStatus": {
         "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
         "state": "out",
@@ -5086,7 +5050,7 @@ window.TENNIS_DATA = {
       "id": "210536",
       "name": "Rei Sakamoto",
       "rank": 137,
-      "prevRank": 133,
+      "prevRank": 137,
       "country": "JPN",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "teamCode": "JPN",
@@ -5109,7 +5073,7 @@ window.TENNIS_DATA = {
       "inactiveWeeks": 10,
       "inactivePenalty": 13.4,
       "leyendaScore": 0.0,
-      "prevListRank": 149,
+      "prevListRank": 148,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
@@ -5119,10 +5083,46 @@ window.TENNIS_DATA = {
       "prevActiveScore": 35.0
     },
     {
+      "id": "206889",
+      "name": "Clement Chidekh",
+      "rank": 146,
+      "prevRank": 177,
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "activeScore": 35.0,
+      "legendScore": 0.0,
+      "age": 25,
+      "surface": {
+        "hard": null,
+        "clay": null,
+        "grass": null
+      },
+      "stats": {
+        "gs": 0,
+        "titles": 0,
+        "weeks_no1": 0,
+        "top10_wins": 0
+      },
+      "inactiveWeeks": 67,
+      "inactivePenalty": 15.0,
+      "leyendaScore": 0.0,
+      "prevListRank": 149,
+      "tournamentStatus": {
+        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
+        "state": "out",
+        "round": "",
+        "reason": "No compite esta semana"
+      },
+      "prevActiveScore": 50.0
+    },
+    {
       "id": "127339",
       "name": "Borna Gojo",
-      "rank": 148,
-      "prevRank": 150,
+      "rank": 150,
+      "prevRank": 148,
       "country": "CRO",
       "logo": "https://flagcdn.com/24x18/hr.png",
       "teamCode": "CRO",
@@ -9391,7 +9391,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Samsun Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 40.4
@@ -10207,7 +10207,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Samsun Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -10324,22 +10324,22 @@ window.TENNIS_DATA = {
   "ATP_CHANGES": {
     "entered": [
       {
+        "name": "Novak Djokovic",
+        "rank": 8,
+        "country": "SRB",
+        "logo": "https://flagcdn.com/24x18/rs.png"
+      }
+    ],
+    "exited": [
+      {
         "name": "Arthur Fils",
         "rank": 9,
         "country": "FRA",
         "logo": "https://flagcdn.com/24x18/fr.png"
       }
     ],
-    "exited": [
-      {
-        "name": "Taylor Fritz",
-        "rank": 10,
-        "country": "USA",
-        "logo": "https://flagcdn.com/24x18/us.png"
-      }
-    ],
     "prev_date": "",
-    "curr_date": "20260924"
+    "curr_date": "20261001"
   },
   "WTA_CHANGES": {
     "entered": [],
@@ -10899,7 +10899,7 @@ window.TENNIS_DATA = {
           "day": "ayer",
           "scheduled": false,
           "w_score": 90.9,
-          "l_score": 62.1,
+          "l_score": 63.8,
           "match_score": 90.9
         },
         {
@@ -10911,9 +10911,9 @@ window.TENNIS_DATA = {
           "score": "6-4 6-2",
           "day": "ayer",
           "scheduled": false,
-          "w_score": 75.1,
-          "l_score": 75.0,
-          "match_score": 75.1
+          "w_score": 75.9,
+          "l_score": 75.4,
+          "match_score": 75.9
         }
       ]
     },
@@ -10931,9 +10931,9 @@ window.TENNIS_DATA = {
           "score": "7-5 5-3",
           "day": "ayer",
           "scheduled": false,
-          "w_score": 87.0,
+          "w_score": 87.3,
           "l_score": 78.9,
-          "match_score": 87.0
+          "match_score": 87.3
         },
         {
           "round": "Semifinal",
@@ -10944,9 +10944,9 @@ window.TENNIS_DATA = {
           "score": "6-4 3-2 ret",
           "day": "ayer",
           "scheduled": false,
-          "w_score": 76.5,
-          "l_score": 66.4,
-          "match_score": 76.5
+          "w_score": 76.6,
+          "l_score": 67.0,
+          "match_score": 76.6
         }
       ]
     }
@@ -10967,7 +10967,7 @@ window.TENNIS_DATA = {
           "day": "hoy",
           "scheduled": false,
           "w_score": 90.9,
-          "l_score": 75.1,
+          "l_score": 75.9,
           "match_score": 90.9
         }
       ]
@@ -10986,9 +10986,9 @@ window.TENNIS_DATA = {
           "score": "7-6 (7-3) 0-1 ret",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 87.0,
-          "l_score": 76.5,
-          "match_score": 87.0
+          "w_score": 87.3,
+          "l_score": 76.6,
+          "match_score": 87.3
         }
       ]
     }
@@ -11441,19 +11441,6 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Anna Blinkova",
-          "w_logo": "",
-          "l": "Elena Pridankina",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 49.3,
-          "l_score": null,
-          "match_score": 49.3
-        },
-        {
-          "round": "R128",
           "w": "Ayla Aksu",
           "w_logo": "",
           "l": "Emiliana Arango",
@@ -11484,38 +11471,25 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Melisa Ercan",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 44.3,
           "l_score": null,
           "match_score": 44.3
         },
         {
           "round": "R128",
-          "w": "Carole Monnet",
+          "w": "Lucrezia Stefanini",
           "w_logo": "",
-          "l": "Lucrezia Stefanini",
+          "l": "Carole Monnet",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 40.4,
-          "match_score": 40.4
-        },
-        {
-          "round": "R128",
-          "w": "Leolia Jeanjean",
-          "w_logo": "",
-          "l": "Mariam Bolkvadze",
-          "l_logo": "",
-          "score": "por jugar",
-          "day": "hoy",
-          "scheduled": true,
-          "w_score": 39.3,
+          "w_score": 40.4,
           "l_score": null,
-          "match_score": 39.3
+          "match_score": 40.4
         },
         {
           "round": "R128",
@@ -11529,6 +11503,32 @@ window.TENNIS_DATA = {
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
+        },
+        {
+          "round": "R128",
+          "w": "Bianca Andreescu",
+          "w_logo": "",
+          "l": "Alana Smith",
+          "l_logo": "",
+          "score": "6-0 6-0",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
+        },
+        {
+          "round": "R128",
+          "w": "Linda Klimovicova",
+          "w_logo": "",
+          "l": "Cagla Buyukakcay",
+          "l_logo": "",
+          "score": "3-6 7-6 (7-2) 3-0",
+          "day": "hoy",
+          "scheduled": false,
+          "w_score": null,
+          "l_score": null,
+          "match_score": 0.0
         }
       ]
     }
@@ -11683,7 +11683,6 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
-      "Alana Smith",
       "Aliaksandra Sasnovich",
       "Alicia Dudeney",
       "Alina Charaeva",
@@ -11699,7 +11698,6 @@ window.TENNIS_DATA = {
       "Bianca Andreescu",
       "Cagla Buyukakcay",
       "Camila Osorio",
-      "Carole Monnet",
       "Caroline Werner",
       "Claire Liu",
       "Coco Gauff",
@@ -11746,7 +11744,6 @@ window.TENNIS_DATA = {
       "Maria Timofeeva",
       "Mariam Bolkvadze",
       "Marie Bouzkova",
-      "Melisa Ercan",
       "Mirra Andreeva",
       "Naomi Osaka",
       "Nikola Bartunkova",
@@ -11774,6 +11771,7 @@ window.TENNIS_DATA = {
       "Zhu Lin"
     ],
     "out": [
+      "Alana Smith",
       "Alevtina Ibragimova",
       "Alycia Parks",
       "Anastasia Potapova",
@@ -11784,6 +11782,7 @@ window.TENNIS_DATA = {
       "Antonia Ruzic",
       "Aoi Ito",
       "Aysegul Mert",
+      "Carole Monnet",
       "Catherine McNally",
       "Clara Tauson",
       "Cristina Bucsa",
@@ -11813,6 +11812,7 @@ window.TENNIS_DATA = {
       "Mananchaya Sawangkaew",
       "Marina Bassols Ribera",
       "Maya Joint",
+      "Melisa Ercan",
       "Moyuka Uchijima",
       "Panna Udvardy",
       "Peyton Stearns",
@@ -11833,8 +11833,8 @@ window.TENNIS_DATA = {
       "Zhang Ruien",
       "Zheng Wushuang"
     ],
-    "aliveCount": 89,
-    "matchesSeen": 134
+    "aliveCount": 86,
+    "matchesSeen": 135
   },
   "ATP_SCORE_LOG": {
     "206173": [
@@ -12114,7 +12114,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        87.0
+        87.3
       ]
     ],
     "209950": [
@@ -12184,7 +12184,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        84.1
+        83.8
       ]
     ],
     "126205": [
@@ -12254,7 +12254,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        80.4
+        80.2
       ]
     ],
     "134770": [
@@ -12324,7 +12324,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        80.3
+        80.0
       ]
     ],
     "212588": [
@@ -12744,7 +12744,77 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        76.5
+        76.6
+      ]
+    ],
+    "208103": [
+      [
+        "20260920",
+        75.0
+      ],
+      [
+        "20260921",
+        75.1
+      ],
+      [
+        "20260922",
+        75.1
+      ],
+      [
+        "20260923",
+        75.1
+      ],
+      [
+        "20260924",
+        75.1
+      ],
+      [
+        "20260925",
+        75.1
+      ],
+      [
+        "20260926",
+        75.1
+      ],
+      [
+        "20260927",
+        75.1
+      ],
+      [
+        "20260928",
+        75.1
+      ],
+      [
+        "20260929",
+        75.1
+      ],
+      [
+        "20260930",
+        75.1
+      ],
+      [
+        "20261001",
+        75.1
+      ],
+      [
+        "20261002",
+        75.1
+      ],
+      [
+        "20261003",
+        75.1
+      ],
+      [
+        "20261004",
+        75.1
+      ],
+      [
+        "20261005",
+        75.1
+      ],
+      [
+        "20261006",
+        75.9
       ]
     ],
     "207925": [
@@ -12884,7 +12954,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        75.7
+        75.4
       ]
     ],
     "126203": [
@@ -12951,6 +13021,76 @@ window.TENNIS_DATA = {
       [
         "20261005",
         75.4
+      ],
+      [
+        "20261006",
+        75.4
+      ]
+    ],
+    "200473": [
+      [
+        "20260920",
+        74.6
+      ],
+      [
+        "20260921",
+        74.9
+      ],
+      [
+        "20260922",
+        74.9
+      ],
+      [
+        "20260923",
+        74.9
+      ],
+      [
+        "20260924",
+        74.9
+      ],
+      [
+        "20260925",
+        74.9
+      ],
+      [
+        "20260926",
+        74.9
+      ],
+      [
+        "20260927",
+        74.9
+      ],
+      [
+        "20260928",
+        74.9
+      ],
+      [
+        "20260929",
+        75.0
+      ],
+      [
+        "20260930",
+        75.0
+      ],
+      [
+        "20261001",
+        75.0
+      ],
+      [
+        "20261002",
+        75.0
+      ],
+      [
+        "20261003",
+        75.0
+      ],
+      [
+        "20261004",
+        75.0
+      ],
+      [
+        "20261005",
+        75.0
       ],
       [
         "20261006",
@@ -13024,147 +13164,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        75.1
-      ]
-    ],
-    "208103": [
-      [
-        "20260920",
-        75.0
-      ],
-      [
-        "20260921",
-        75.1
-      ],
-      [
-        "20260922",
-        75.1
-      ],
-      [
-        "20260923",
-        75.1
-      ],
-      [
-        "20260924",
-        75.1
-      ],
-      [
-        "20260925",
-        75.1
-      ],
-      [
-        "20260926",
-        75.1
-      ],
-      [
-        "20260927",
-        75.1
-      ],
-      [
-        "20260928",
-        75.1
-      ],
-      [
-        "20260929",
-        75.1
-      ],
-      [
-        "20260930",
-        75.1
-      ],
-      [
-        "20261001",
-        75.1
-      ],
-      [
-        "20261002",
-        75.1
-      ],
-      [
-        "20261003",
-        75.1
-      ],
-      [
-        "20261004",
-        75.1
-      ],
-      [
-        "20261005",
-        75.1
-      ],
-      [
-        "20261006",
-        75.1
-      ]
-    ],
-    "200473": [
-      [
-        "20260920",
-        74.6
-      ],
-      [
-        "20260921",
         74.9
-      ],
-      [
-        "20260922",
-        74.9
-      ],
-      [
-        "20260923",
-        74.9
-      ],
-      [
-        "20260924",
-        74.9
-      ],
-      [
-        "20260925",
-        74.9
-      ],
-      [
-        "20260926",
-        74.9
-      ],
-      [
-        "20260927",
-        74.9
-      ],
-      [
-        "20260928",
-        74.9
-      ],
-      [
-        "20260929",
-        75.0
-      ],
-      [
-        "20260930",
-        75.0
-      ],
-      [
-        "20261001",
-        75.0
-      ],
-      [
-        "20261002",
-        75.0
-      ],
-      [
-        "20261003",
-        75.0
-      ],
-      [
-        "20261004",
-        75.0
-      ],
-      [
-        "20261005",
-        75.0
-      ],
-      [
-        "20261006",
-        75.0
       ]
     ],
     "122330": [
@@ -13234,7 +13234,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        75.0
+        74.8
       ]
     ],
     "126094": [
@@ -13304,7 +13304,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        74.1
+        74.2
       ]
     ],
     "202103": [
@@ -13374,7 +13374,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        73.9
+        74.1
       ]
     ],
     "211663": [
@@ -13724,7 +13724,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        69.2
+        69.0
       ]
     ],
     "209860": [
@@ -13794,77 +13794,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        68.3
-      ]
-    ],
-    "210506": [
-      [
-        "20260920",
-        67.1
-      ],
-      [
-        "20260921",
-        67.1
-      ],
-      [
-        "20260922",
-        67.1
-      ],
-      [
-        "20260923",
-        67.1
-      ],
-      [
-        "20260924",
-        67.1
-      ],
-      [
-        "20260925",
-        67.1
-      ],
-      [
-        "20260926",
-        67.1
-      ],
-      [
-        "20260927",
-        67.1
-      ],
-      [
-        "20260928",
-        67.1
-      ],
-      [
-        "20260929",
-        67.1
-      ],
-      [
-        "20260930",
-        67.1
-      ],
-      [
-        "20261001",
-        67.1
-      ],
-      [
-        "20261002",
-        67.1
-      ],
-      [
-        "20261003",
-        67.1
-      ],
-      [
-        "20261004",
-        67.1
-      ],
-      [
-        "20261005",
-        67.1
-      ],
-      [
-        "20261006",
-        67.1
+        68.2
       ]
     ],
     "126610": [
@@ -13934,77 +13864,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        66.9
-      ]
-    ],
-    "126214": [
-      [
-        "20260920",
-        66.8
-      ],
-      [
-        "20260921",
-        66.3
-      ],
-      [
-        "20260922",
-        66.3
-      ],
-      [
-        "20260923",
-        66.3
-      ],
-      [
-        "20260924",
-        66.3
-      ],
-      [
-        "20260925",
-        66.3
-      ],
-      [
-        "20260926",
-        66.3
-      ],
-      [
-        "20260927",
-        66.3
-      ],
-      [
-        "20260928",
-        66.3
-      ],
-      [
-        "20260929",
-        66.4
-      ],
-      [
-        "20260930",
-        66.4
-      ],
-      [
-        "20261001",
-        66.4
-      ],
-      [
-        "20261002",
-        66.4
-      ],
-      [
-        "20261003",
-        66.4
-      ],
-      [
-        "20261004",
-        66.4
-      ],
-      [
-        "20261005",
-        66.4
-      ],
-      [
-        "20261006",
-        66.4
+        67.1
       ]
     ],
     "128034": [
@@ -14074,7 +13934,147 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
+        67.0
+      ]
+    ],
+    "210506": [
+      [
+        "20260920",
+        67.1
+      ],
+      [
+        "20260921",
+        67.1
+      ],
+      [
+        "20260922",
+        67.1
+      ],
+      [
+        "20260923",
+        67.1
+      ],
+      [
+        "20260924",
+        67.1
+      ],
+      [
+        "20260925",
+        67.1
+      ],
+      [
+        "20260926",
+        67.1
+      ],
+      [
+        "20260927",
+        67.1
+      ],
+      [
+        "20260928",
+        67.1
+      ],
+      [
+        "20260929",
+        67.1
+      ],
+      [
+        "20260930",
+        67.1
+      ],
+      [
+        "20261001",
+        67.1
+      ],
+      [
+        "20261002",
+        67.1
+      ],
+      [
+        "20261003",
+        67.1
+      ],
+      [
+        "20261004",
+        67.1
+      ],
+      [
+        "20261005",
+        67.1
+      ],
+      [
+        "20261006",
+        67.0
+      ]
+    ],
+    "126214": [
+      [
+        "20260920",
+        66.8
+      ],
+      [
+        "20260921",
+        66.3
+      ],
+      [
+        "20260922",
+        66.3
+      ],
+      [
+        "20260923",
+        66.3
+      ],
+      [
+        "20260924",
+        66.3
+      ],
+      [
+        "20260925",
+        66.3
+      ],
+      [
+        "20260926",
+        66.3
+      ],
+      [
+        "20260927",
+        66.3
+      ],
+      [
+        "20260928",
+        66.3
+      ],
+      [
+        "20260929",
         66.4
+      ],
+      [
+        "20260930",
+        66.4
+      ],
+      [
+        "20261001",
+        66.4
+      ],
+      [
+        "20261002",
+        66.4
+      ],
+      [
+        "20261003",
+        66.4
+      ],
+      [
+        "20261004",
+        66.4
+      ],
+      [
+        "20261005",
+        66.4
+      ],
+      [
+        "20261006",
+        66.6
       ]
     ],
     "200005": [
@@ -14147,76 +14147,6 @@ window.TENNIS_DATA = {
         66.3
       ]
     ],
-    "209260": [
-      [
-        "20260920",
-        65.8
-      ],
-      [
-        "20260921",
-        66.0
-      ],
-      [
-        "20260922",
-        66.0
-      ],
-      [
-        "20260923",
-        66.0
-      ],
-      [
-        "20260924",
-        66.0
-      ],
-      [
-        "20260925",
-        66.0
-      ],
-      [
-        "20260926",
-        66.0
-      ],
-      [
-        "20260927",
-        66.0
-      ],
-      [
-        "20260928",
-        66.0
-      ],
-      [
-        "20260929",
-        66.1
-      ],
-      [
-        "20260930",
-        66.1
-      ],
-      [
-        "20261001",
-        66.1
-      ],
-      [
-        "20261002",
-        66.1
-      ],
-      [
-        "20261003",
-        66.1
-      ],
-      [
-        "20261004",
-        66.1
-      ],
-      [
-        "20261005",
-        66.1
-      ],
-      [
-        "20261006",
-        66.1
-      ]
-    ],
     "111815": [
       [
         "20260920",
@@ -14253,76 +14183,6 @@ window.TENNIS_DATA = {
       [
         "20260928",
         66.2
-      ],
-      [
-        "20260929",
-        66.1
-      ],
-      [
-        "20260930",
-        66.1
-      ],
-      [
-        "20261001",
-        66.1
-      ],
-      [
-        "20261002",
-        66.1
-      ],
-      [
-        "20261003",
-        66.1
-      ],
-      [
-        "20261004",
-        66.1
-      ],
-      [
-        "20261005",
-        66.1
-      ],
-      [
-        "20261006",
-        66.1
-      ]
-    ],
-    "202058": [
-      [
-        "20260920",
-        66.1
-      ],
-      [
-        "20260921",
-        66.1
-      ],
-      [
-        "20260922",
-        66.1
-      ],
-      [
-        "20260923",
-        66.1
-      ],
-      [
-        "20260924",
-        66.1
-      ],
-      [
-        "20260925",
-        66.1
-      ],
-      [
-        "20260926",
-        66.1
-      ],
-      [
-        "20260927",
-        66.1
-      ],
-      [
-        "20260928",
-        66.1
       ],
       [
         "20260929",
@@ -14424,6 +14284,146 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
+        66.1
+      ]
+    ],
+    "209260": [
+      [
+        "20260920",
+        65.8
+      ],
+      [
+        "20260921",
+        66.0
+      ],
+      [
+        "20260922",
+        66.0
+      ],
+      [
+        "20260923",
+        66.0
+      ],
+      [
+        "20260924",
+        66.0
+      ],
+      [
+        "20260925",
+        66.0
+      ],
+      [
+        "20260926",
+        66.0
+      ],
+      [
+        "20260927",
+        66.0
+      ],
+      [
+        "20260928",
+        66.0
+      ],
+      [
+        "20260929",
+        66.1
+      ],
+      [
+        "20260930",
+        66.1
+      ],
+      [
+        "20261001",
+        66.1
+      ],
+      [
+        "20261002",
+        66.1
+      ],
+      [
+        "20261003",
+        66.1
+      ],
+      [
+        "20261004",
+        66.1
+      ],
+      [
+        "20261005",
+        66.1
+      ],
+      [
+        "20261006",
+        65.9
+      ]
+    ],
+    "202058": [
+      [
+        "20260920",
+        66.1
+      ],
+      [
+        "20260921",
+        66.1
+      ],
+      [
+        "20260922",
+        66.1
+      ],
+      [
+        "20260923",
+        66.1
+      ],
+      [
+        "20260924",
+        66.1
+      ],
+      [
+        "20260925",
+        66.1
+      ],
+      [
+        "20260926",
+        66.1
+      ],
+      [
+        "20260927",
+        66.1
+      ],
+      [
+        "20260928",
+        66.1
+      ],
+      [
+        "20260929",
+        66.1
+      ],
+      [
+        "20260930",
+        66.1
+      ],
+      [
+        "20261001",
+        66.1
+      ],
+      [
+        "20261002",
+        66.1
+      ],
+      [
+        "20261003",
+        66.1
+      ],
+      [
+        "20261004",
+        66.1
+      ],
+      [
+        "20261005",
+        66.1
+      ],
+      [
+        "20261006",
         65.9
       ]
     ],
@@ -14494,7 +14494,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        65.6
+        65.3
       ]
     ],
     "144869": [
@@ -14564,7 +14564,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        65.2
+        65.0
       ]
     ],
     "126239": [
@@ -14704,77 +14704,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        64.9
-      ]
-    ],
-    "134868": [
-      [
-        "20260920",
-        64.4
-      ],
-      [
-        "20260921",
-        64.4
-      ],
-      [
-        "20260922",
-        64.4
-      ],
-      [
-        "20260923",
-        64.4
-      ],
-      [
-        "20260924",
-        64.4
-      ],
-      [
-        "20260925",
-        64.4
-      ],
-      [
-        "20260926",
-        64.4
-      ],
-      [
-        "20260927",
-        64.4
-      ],
-      [
-        "20260928",
-        64.4
-      ],
-      [
-        "20260929",
-        64.4
-      ],
-      [
-        "20260930",
-        64.4
-      ],
-      [
-        "20261001",
-        64.4
-      ],
-      [
-        "20261002",
-        64.4
-      ],
-      [
-        "20261003",
-        64.4
-      ],
-      [
-        "20261004",
-        64.4
-      ],
-      [
-        "20261005",
-        64.4
-      ],
-      [
-        "20261006",
-        64.4
+        64.8
       ]
     ],
     "207830": [
@@ -14841,6 +14771,76 @@ window.TENNIS_DATA = {
       [
         "20261005",
         64.4
+      ],
+      [
+        "20261006",
+        64.4
+      ]
+    ],
+    "144684": [
+      [
+        "20260920",
+        63.3
+      ],
+      [
+        "20260921",
+        63.1
+      ],
+      [
+        "20260922",
+        63.1
+      ],
+      [
+        "20260923",
+        63.1
+      ],
+      [
+        "20260924",
+        63.1
+      ],
+      [
+        "20260925",
+        63.1
+      ],
+      [
+        "20260926",
+        63.1
+      ],
+      [
+        "20260927",
+        63.1
+      ],
+      [
+        "20260928",
+        63.1
+      ],
+      [
+        "20260929",
+        63.1
+      ],
+      [
+        "20260930",
+        63.1
+      ],
+      [
+        "20261001",
+        63.1
+      ],
+      [
+        "20261002",
+        63.1
+      ],
+      [
+        "20261003",
+        63.1
+      ],
+      [
+        "20261004",
+        63.1
+      ],
+      [
+        "20261005",
+        63.1
       ],
       [
         "20261006",
@@ -14914,7 +14914,77 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        64.3
+        64.1
+      ]
+    ],
+    "134868": [
+      [
+        "20260920",
+        64.4
+      ],
+      [
+        "20260921",
+        64.4
+      ],
+      [
+        "20260922",
+        64.4
+      ],
+      [
+        "20260923",
+        64.4
+      ],
+      [
+        "20260924",
+        64.4
+      ],
+      [
+        "20260925",
+        64.4
+      ],
+      [
+        "20260926",
+        64.4
+      ],
+      [
+        "20260927",
+        64.4
+      ],
+      [
+        "20260928",
+        64.4
+      ],
+      [
+        "20260929",
+        64.4
+      ],
+      [
+        "20260930",
+        64.4
+      ],
+      [
+        "20261001",
+        64.4
+      ],
+      [
+        "20261002",
+        64.4
+      ],
+      [
+        "20261003",
+        64.4
+      ],
+      [
+        "20261004",
+        64.4
+      ],
+      [
+        "20261005",
+        64.4
+      ],
+      [
+        "20261006",
+        64.0
       ]
     ],
     "122298": [
@@ -14987,214 +15057,74 @@ window.TENNIS_DATA = {
         63.8
       ]
     ],
-    "210084": [
+    "144719": [
       [
         "20260920",
-        63.2
+        61.7
       ],
       [
         "20260921",
-        63.2
+        61.9
       ],
       [
         "20260922",
-        63.2
+        61.9
       ],
       [
         "20260923",
-        63.2
+        61.9
       ],
       [
         "20260924",
-        63.2
+        61.9
       ],
       [
         "20260925",
-        63.2
+        61.9
       ],
       [
         "20260926",
-        63.2
+        61.9
       ],
       [
         "20260927",
-        63.2
+        61.9
       ],
       [
         "20260928",
-        63.2
+        61.9
       ],
       [
         "20260929",
-        63.4
+        62.1
       ],
       [
         "20260930",
-        63.4
+        62.1
       ],
       [
         "20261001",
-        63.4
+        62.1
       ],
       [
         "20261002",
-        63.4
+        62.1
       ],
       [
         "20261003",
-        63.4
+        62.1
       ],
       [
         "20261004",
-        63.4
+        62.1
       ],
       [
         "20261005",
-        63.4
+        62.1
       ],
       [
         "20261006",
-        63.4
-      ]
-    ],
-    "144684": [
-      [
-        "20260920",
-        63.3
-      ],
-      [
-        "20260921",
-        63.1
-      ],
-      [
-        "20260922",
-        63.1
-      ],
-      [
-        "20260923",
-        63.1
-      ],
-      [
-        "20260924",
-        63.1
-      ],
-      [
-        "20260925",
-        63.1
-      ],
-      [
-        "20260926",
-        63.1
-      ],
-      [
-        "20260927",
-        63.1
-      ],
-      [
-        "20260928",
-        63.1
-      ],
-      [
-        "20260929",
-        63.1
-      ],
-      [
-        "20260930",
-        63.1
-      ],
-      [
-        "20261001",
-        63.1
-      ],
-      [
-        "20261002",
-        63.1
-      ],
-      [
-        "20261003",
-        63.1
-      ],
-      [
-        "20261004",
-        63.1
-      ],
-      [
-        "20261005",
-        63.1
-      ],
-      [
-        "20261006",
-        63.1
-      ]
-    ],
-    "209920": [
-      [
-        "20260920",
-        63.1
-      ],
-      [
-        "20260921",
-        63.1
-      ],
-      [
-        "20260922",
-        63.1
-      ],
-      [
-        "20260923",
-        63.1
-      ],
-      [
-        "20260924",
-        63.1
-      ],
-      [
-        "20260925",
-        63.1
-      ],
-      [
-        "20260926",
-        63.1
-      ],
-      [
-        "20260927",
-        63.1
-      ],
-      [
-        "20260928",
-        63.1
-      ],
-      [
-        "20260929",
-        63.0
-      ],
-      [
-        "20260930",
-        63.0
-      ],
-      [
-        "20261001",
-        63.0
-      ],
-      [
-        "20261002",
-        63.0
-      ],
-      [
-        "20261003",
-        63.0
-      ],
-      [
-        "20261004",
-        63.0
-      ],
-      [
-        "20261005",
-        63.0
-      ],
-      [
-        "20261006",
-        63.0
+        63.8
       ]
     ],
     "209226": [
@@ -15264,7 +15194,147 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
+        63.5
+      ]
+    ],
+    "210084": [
+      [
+        "20260920",
+        63.2
+      ],
+      [
+        "20260921",
+        63.2
+      ],
+      [
+        "20260922",
+        63.2
+      ],
+      [
+        "20260923",
+        63.2
+      ],
+      [
+        "20260924",
+        63.2
+      ],
+      [
+        "20260925",
+        63.2
+      ],
+      [
+        "20260926",
+        63.2
+      ],
+      [
+        "20260927",
+        63.2
+      ],
+      [
+        "20260928",
+        63.2
+      ],
+      [
+        "20260929",
+        63.4
+      ],
+      [
+        "20260930",
+        63.4
+      ],
+      [
+        "20261001",
+        63.4
+      ],
+      [
+        "20261002",
+        63.4
+      ],
+      [
+        "20261003",
+        63.4
+      ],
+      [
+        "20261004",
+        63.4
+      ],
+      [
+        "20261005",
+        63.4
+      ],
+      [
+        "20261006",
+        63.2
+      ]
+    ],
+    "209920": [
+      [
+        "20260920",
+        63.1
+      ],
+      [
+        "20260921",
+        63.1
+      ],
+      [
+        "20260922",
+        63.1
+      ],
+      [
+        "20260923",
+        63.1
+      ],
+      [
+        "20260924",
+        63.1
+      ],
+      [
+        "20260925",
+        63.1
+      ],
+      [
+        "20260926",
+        63.1
+      ],
+      [
+        "20260927",
+        63.1
+      ],
+      [
+        "20260928",
+        63.1
+      ],
+      [
+        "20260929",
         63.0
+      ],
+      [
+        "20260930",
+        63.0
+      ],
+      [
+        "20261001",
+        63.0
+      ],
+      [
+        "20261002",
+        63.0
+      ],
+      [
+        "20261003",
+        63.0
+      ],
+      [
+        "20261004",
+        63.0
+      ],
+      [
+        "20261005",
+        63.0
+      ],
+      [
+        "20261006",
+        62.8
       ]
     ],
     "209098": [
@@ -15334,7 +15404,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        62.5
+        62.4
       ]
     ],
     "105870": [
@@ -15404,77 +15474,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        62.4
-      ]
-    ],
-    "144719": [
-      [
-        "20260920",
-        61.7
-      ],
-      [
-        "20260921",
-        61.9
-      ],
-      [
-        "20260922",
-        61.9
-      ],
-      [
-        "20260923",
-        61.9
-      ],
-      [
-        "20260924",
-        61.9
-      ],
-      [
-        "20260925",
-        61.9
-      ],
-      [
-        "20260926",
-        61.9
-      ],
-      [
-        "20260927",
-        61.9
-      ],
-      [
-        "20260928",
-        61.9
-      ],
-      [
-        "20260929",
-        62.1
-      ],
-      [
-        "20260930",
-        62.1
-      ],
-      [
-        "20261001",
-        62.1
-      ],
-      [
-        "20261002",
-        62.1
-      ],
-      [
-        "20261003",
-        62.1
-      ],
-      [
-        "20261004",
-        62.1
-      ],
-      [
-        "20261005",
-        62.1
-      ],
-      [
-        "20261006",
-        62.1
+        62.0
       ]
     ],
     "132686": [
@@ -15544,7 +15544,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        61.9
+        61.7
       ]
     ],
     "200267": [
@@ -15614,7 +15614,77 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        61.6
+        61.5
+      ]
+    ],
+    "133430": [
+      [
+        "20260920",
+        59.2
+      ],
+      [
+        "20260921",
+        59.2
+      ],
+      [
+        "20260922",
+        59.2
+      ],
+      [
+        "20260923",
+        59.2
+      ],
+      [
+        "20260924",
+        59.2
+      ],
+      [
+        "20260925",
+        59.2
+      ],
+      [
+        "20260926",
+        59.2
+      ],
+      [
+        "20260927",
+        59.2
+      ],
+      [
+        "20260928",
+        59.2
+      ],
+      [
+        "20260929",
+        59.6
+      ],
+      [
+        "20260930",
+        59.6
+      ],
+      [
+        "20261001",
+        59.6
+      ],
+      [
+        "20261002",
+        59.6
+      ],
+      [
+        "20261003",
+        59.6
+      ],
+      [
+        "20261004",
+        59.6
+      ],
+      [
+        "20261005",
+        59.6
+      ],
+      [
+        "20261006",
+        60.1
       ]
     ],
     "120770": [
@@ -15684,7 +15754,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        60.2
+        60.0
       ]
     ],
     "207678": [
@@ -15754,77 +15824,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        60.2
-      ]
-    ],
-    "202104": [
-      [
-        "20260920",
-        59.9
-      ],
-      [
-        "20260921",
-        59.9
-      ],
-      [
-        "20260922",
-        59.9
-      ],
-      [
-        "20260923",
-        59.9
-      ],
-      [
-        "20260924",
-        59.9
-      ],
-      [
-        "20260925",
-        59.9
-      ],
-      [
-        "20260926",
-        59.9
-      ],
-      [
-        "20260927",
-        59.9
-      ],
-      [
-        "20260928",
-        59.9
-      ],
-      [
-        "20260929",
-        59.9
-      ],
-      [
-        "20260930",
-        59.9
-      ],
-      [
-        "20261001",
-        59.9
-      ],
-      [
-        "20261002",
-        59.9
-      ],
-      [
-        "20261003",
-        59.9
-      ],
-      [
-        "20261004",
-        59.9
-      ],
-      [
-        "20261005",
-        59.9
-      ],
-      [
-        "20261006",
-        59.9
+        60.0
       ]
     ],
     "210338": [
@@ -15891,6 +15891,76 @@ window.TENNIS_DATA = {
       [
         "20261005",
         59.7
+      ],
+      [
+        "20261006",
+        59.9
+      ]
+    ],
+    "202104": [
+      [
+        "20260920",
+        59.9
+      ],
+      [
+        "20260921",
+        59.9
+      ],
+      [
+        "20260922",
+        59.9
+      ],
+      [
+        "20260923",
+        59.9
+      ],
+      [
+        "20260924",
+        59.9
+      ],
+      [
+        "20260925",
+        59.9
+      ],
+      [
+        "20260926",
+        59.9
+      ],
+      [
+        "20260927",
+        59.9
+      ],
+      [
+        "20260928",
+        59.9
+      ],
+      [
+        "20260929",
+        59.9
+      ],
+      [
+        "20260930",
+        59.9
+      ],
+      [
+        "20261001",
+        59.9
+      ],
+      [
+        "20261002",
+        59.9
+      ],
+      [
+        "20261003",
+        59.9
+      ],
+      [
+        "20261004",
+        59.9
+      ],
+      [
+        "20261005",
+        59.9
       ],
       [
         "20261006",
@@ -16037,7 +16107,7 @@ window.TENNIS_DATA = {
         59.7
       ]
     ],
-    "133430": [
+    "111460": [
       [
         "20260920",
         59.2
@@ -16076,35 +16146,35 @@ window.TENNIS_DATA = {
       ],
       [
         "20260929",
-        59.6
+        59.1
       ],
       [
         "20260930",
-        59.6
+        59.1
       ],
       [
         "20261001",
-        59.6
+        59.1
       ],
       [
         "20261002",
-        59.6
+        59.1
       ],
       [
         "20261003",
-        59.6
+        59.1
       ],
       [
         "20261004",
-        59.6
+        59.1
       ],
       [
         "20261005",
-        59.6
+        59.1
       ],
       [
         "20261006",
-        59.6
+        59.3
       ]
     ],
     "206681": [
@@ -16177,76 +16247,6 @@ window.TENNIS_DATA = {
         59.3
       ]
     ],
-    "111460": [
-      [
-        "20260920",
-        59.2
-      ],
-      [
-        "20260921",
-        59.2
-      ],
-      [
-        "20260922",
-        59.2
-      ],
-      [
-        "20260923",
-        59.2
-      ],
-      [
-        "20260924",
-        59.2
-      ],
-      [
-        "20260925",
-        59.2
-      ],
-      [
-        "20260926",
-        59.2
-      ],
-      [
-        "20260927",
-        59.2
-      ],
-      [
-        "20260928",
-        59.2
-      ],
-      [
-        "20260929",
-        59.1
-      ],
-      [
-        "20260930",
-        59.1
-      ],
-      [
-        "20261001",
-        59.1
-      ],
-      [
-        "20261002",
-        59.1
-      ],
-      [
-        "20261003",
-        59.1
-      ],
-      [
-        "20261004",
-        59.1
-      ],
-      [
-        "20261005",
-        59.1
-      ],
-      [
-        "20261006",
-        59.1
-      ]
-    ],
     "208882": [
       [
         "20260920",
@@ -16314,7 +16314,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        58.9
+        58.8
       ]
     ],
     "144895": [
@@ -16384,7 +16384,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        58.6
+        58.5
       ]
     ],
     "208118": [
@@ -16524,7 +16524,147 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        58.4
+        58.2
+      ]
+    ],
+    "111794": [
+      [
+        "20260920",
+        57.2
+      ],
+      [
+        "20260921",
+        57.2
+      ],
+      [
+        "20260922",
+        57.2
+      ],
+      [
+        "20260923",
+        57.2
+      ],
+      [
+        "20260924",
+        57.2
+      ],
+      [
+        "20260925",
+        57.2
+      ],
+      [
+        "20260926",
+        57.2
+      ],
+      [
+        "20260927",
+        57.2
+      ],
+      [
+        "20260928",
+        57.2
+      ],
+      [
+        "20260929",
+        57.4
+      ],
+      [
+        "20260930",
+        57.4
+      ],
+      [
+        "20261001",
+        57.4
+      ],
+      [
+        "20261002",
+        57.4
+      ],
+      [
+        "20261003",
+        57.4
+      ],
+      [
+        "20261004",
+        57.4
+      ],
+      [
+        "20261005",
+        57.4
+      ],
+      [
+        "20261006",
+        57.6
+      ]
+    ],
+    "210262": [
+      [
+        "20260920",
+        56.4
+      ],
+      [
+        "20260921",
+        56.6
+      ],
+      [
+        "20260922",
+        56.6
+      ],
+      [
+        "20260923",
+        56.6
+      ],
+      [
+        "20260924",
+        56.6
+      ],
+      [
+        "20260925",
+        56.6
+      ],
+      [
+        "20260926",
+        56.6
+      ],
+      [
+        "20260927",
+        56.6
+      ],
+      [
+        "20260928",
+        56.6
+      ],
+      [
+        "20260929",
+        57.4
+      ],
+      [
+        "20260930",
+        57.4
+      ],
+      [
+        "20261001",
+        57.4
+      ],
+      [
+        "20261002",
+        57.4
+      ],
+      [
+        "20261003",
+        57.4
+      ],
+      [
+        "20261004",
+        57.4
+      ],
+      [
+        "20261005",
+        57.4
+      ],
+      [
+        "20261006",
+        57.5
       ]
     ],
     "126504": [
@@ -16597,146 +16737,6 @@ window.TENNIS_DATA = {
         57.5
       ]
     ],
-    "210262": [
-      [
-        "20260920",
-        56.4
-      ],
-      [
-        "20260921",
-        56.6
-      ],
-      [
-        "20260922",
-        56.6
-      ],
-      [
-        "20260923",
-        56.6
-      ],
-      [
-        "20260924",
-        56.6
-      ],
-      [
-        "20260925",
-        56.6
-      ],
-      [
-        "20260926",
-        56.6
-      ],
-      [
-        "20260927",
-        56.6
-      ],
-      [
-        "20260928",
-        56.6
-      ],
-      [
-        "20260929",
-        57.4
-      ],
-      [
-        "20260930",
-        57.4
-      ],
-      [
-        "20261001",
-        57.4
-      ],
-      [
-        "20261002",
-        57.4
-      ],
-      [
-        "20261003",
-        57.4
-      ],
-      [
-        "20261004",
-        57.4
-      ],
-      [
-        "20261005",
-        57.4
-      ],
-      [
-        "20261006",
-        57.4
-      ]
-    ],
-    "111794": [
-      [
-        "20260920",
-        57.2
-      ],
-      [
-        "20260921",
-        57.2
-      ],
-      [
-        "20260922",
-        57.2
-      ],
-      [
-        "20260923",
-        57.2
-      ],
-      [
-        "20260924",
-        57.2
-      ],
-      [
-        "20260925",
-        57.2
-      ],
-      [
-        "20260926",
-        57.2
-      ],
-      [
-        "20260927",
-        57.2
-      ],
-      [
-        "20260928",
-        57.2
-      ],
-      [
-        "20260929",
-        57.4
-      ],
-      [
-        "20260930",
-        57.4
-      ],
-      [
-        "20261001",
-        57.4
-      ],
-      [
-        "20261002",
-        57.4
-      ],
-      [
-        "20261003",
-        57.4
-      ],
-      [
-        "20261004",
-        57.4
-      ],
-      [
-        "20261005",
-        57.4
-      ],
-      [
-        "20261006",
-        57.4
-      ]
-    ],
     "200059": [
       [
         "20260920",
@@ -16805,76 +16805,6 @@ window.TENNIS_DATA = {
       [
         "20261006",
         57.4
-      ]
-    ],
-    "200175": [
-      [
-        "20260920",
-        56.5
-      ],
-      [
-        "20260921",
-        56.6
-      ],
-      [
-        "20260922",
-        56.6
-      ],
-      [
-        "20260923",
-        56.6
-      ],
-      [
-        "20260924",
-        56.6
-      ],
-      [
-        "20260925",
-        56.6
-      ],
-      [
-        "20260926",
-        56.6
-      ],
-      [
-        "20260927",
-        56.6
-      ],
-      [
-        "20260928",
-        56.6
-      ],
-      [
-        "20260929",
-        56.9
-      ],
-      [
-        "20260930",
-        56.9
-      ],
-      [
-        "20261001",
-        56.9
-      ],
-      [
-        "20261002",
-        56.9
-      ],
-      [
-        "20261003",
-        56.9
-      ],
-      [
-        "20261004",
-        56.9
-      ],
-      [
-        "20261005",
-        56.9
-      ],
-      [
-        "20261006",
-        56.9
       ]
     ],
     "211776": [
@@ -16947,6 +16877,76 @@ window.TENNIS_DATA = {
         56.6
       ]
     ],
+    "200175": [
+      [
+        "20260920",
+        56.5
+      ],
+      [
+        "20260921",
+        56.6
+      ],
+      [
+        "20260922",
+        56.6
+      ],
+      [
+        "20260923",
+        56.6
+      ],
+      [
+        "20260924",
+        56.6
+      ],
+      [
+        "20260925",
+        56.6
+      ],
+      [
+        "20260926",
+        56.6
+      ],
+      [
+        "20260927",
+        56.6
+      ],
+      [
+        "20260928",
+        56.6
+      ],
+      [
+        "20260929",
+        56.9
+      ],
+      [
+        "20260930",
+        56.9
+      ],
+      [
+        "20261001",
+        56.9
+      ],
+      [
+        "20261002",
+        56.9
+      ],
+      [
+        "20261003",
+        56.9
+      ],
+      [
+        "20261004",
+        56.9
+      ],
+      [
+        "20261005",
+        56.9
+      ],
+      [
+        "20261006",
+        56.5
+      ]
+    ],
     "105807": [
       [
         "20260920",
@@ -17014,7 +17014,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        56.3
+        56.5
       ]
     ],
     "200116": [
@@ -17084,7 +17084,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        56.2
+        56.0
       ]
     ],
     "202385": [
@@ -17227,76 +17227,6 @@ window.TENNIS_DATA = {
         55.5
       ]
     ],
-    "208260": [
-      [
-        "20260920",
-        55.0
-      ],
-      [
-        "20260921",
-        55.3
-      ],
-      [
-        "20260922",
-        55.3
-      ],
-      [
-        "20260923",
-        55.3
-      ],
-      [
-        "20260924",
-        55.3
-      ],
-      [
-        "20260925",
-        55.3
-      ],
-      [
-        "20260926",
-        55.3
-      ],
-      [
-        "20260927",
-        55.3
-      ],
-      [
-        "20260928",
-        55.3
-      ],
-      [
-        "20260929",
-        55.4
-      ],
-      [
-        "20260930",
-        55.4
-      ],
-      [
-        "20261001",
-        55.4
-      ],
-      [
-        "20261002",
-        55.4
-      ],
-      [
-        "20261003",
-        55.4
-      ],
-      [
-        "20261004",
-        55.4
-      ],
-      [
-        "20261005",
-        55.4
-      ],
-      [
-        "20261006",
-        55.4
-      ]
-    ],
     "209113": [
       [
         "20260920",
@@ -17437,76 +17367,6 @@ window.TENNIS_DATA = {
         55.4
       ]
     ],
-    "209976": [
-      [
-        "20260920",
-        54.7
-      ],
-      [
-        "20260921",
-        54.7
-      ],
-      [
-        "20260922",
-        54.7
-      ],
-      [
-        "20260923",
-        54.7
-      ],
-      [
-        "20260924",
-        54.7
-      ],
-      [
-        "20260925",
-        54.7
-      ],
-      [
-        "20260926",
-        54.7
-      ],
-      [
-        "20260927",
-        54.7
-      ],
-      [
-        "20260928",
-        54.7
-      ],
-      [
-        "20260929",
-        55.3
-      ],
-      [
-        "20260930",
-        55.3
-      ],
-      [
-        "20261001",
-        55.3
-      ],
-      [
-        "20261002",
-        55.3
-      ],
-      [
-        "20261003",
-        55.3
-      ],
-      [
-        "20261004",
-        55.3
-      ],
-      [
-        "20261005",
-        55.3
-      ],
-      [
-        "20261006",
-        55.3
-      ]
-    ],
     "208010": [
       [
         "20260920",
@@ -17577,6 +17437,146 @@ window.TENNIS_DATA = {
         55.2
       ]
     ],
+    "208260": [
+      [
+        "20260920",
+        55.0
+      ],
+      [
+        "20260921",
+        55.3
+      ],
+      [
+        "20260922",
+        55.3
+      ],
+      [
+        "20260923",
+        55.3
+      ],
+      [
+        "20260924",
+        55.3
+      ],
+      [
+        "20260925",
+        55.3
+      ],
+      [
+        "20260926",
+        55.3
+      ],
+      [
+        "20260927",
+        55.3
+      ],
+      [
+        "20260928",
+        55.3
+      ],
+      [
+        "20260929",
+        55.4
+      ],
+      [
+        "20260930",
+        55.4
+      ],
+      [
+        "20261001",
+        55.4
+      ],
+      [
+        "20261002",
+        55.4
+      ],
+      [
+        "20261003",
+        55.4
+      ],
+      [
+        "20261004",
+        55.4
+      ],
+      [
+        "20261005",
+        55.4
+      ],
+      [
+        "20261006",
+        55.1
+      ]
+    ],
+    "209976": [
+      [
+        "20260920",
+        54.7
+      ],
+      [
+        "20260921",
+        54.7
+      ],
+      [
+        "20260922",
+        54.7
+      ],
+      [
+        "20260923",
+        54.7
+      ],
+      [
+        "20260924",
+        54.7
+      ],
+      [
+        "20260925",
+        54.7
+      ],
+      [
+        "20260926",
+        54.7
+      ],
+      [
+        "20260927",
+        54.7
+      ],
+      [
+        "20260928",
+        54.7
+      ],
+      [
+        "20260929",
+        55.3
+      ],
+      [
+        "20260930",
+        55.3
+      ],
+      [
+        "20261001",
+        55.3
+      ],
+      [
+        "20261002",
+        55.3
+      ],
+      [
+        "20261003",
+        55.3
+      ],
+      [
+        "20261004",
+        55.3
+      ],
+      [
+        "20261005",
+        55.3
+      ],
+      [
+        "20261006",
+        55.0
+      ]
+    ],
     "106218": [
       [
         "20260920",
@@ -17644,7 +17644,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        54.8
+        54.4
       ]
     ],
     "132283": [
@@ -17714,7 +17714,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        54.7
+        54.3
       ]
     ],
     "126127": [
@@ -17784,7 +17784,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        54.6
+        54.3
       ]
     ],
     "127157": [
@@ -17823,76 +17823,6 @@ window.TENNIS_DATA = {
       [
         "20260928",
         54.2
-      ],
-      [
-        "20260929",
-        54.2
-      ],
-      [
-        "20260930",
-        54.2
-      ],
-      [
-        "20261001",
-        54.2
-      ],
-      [
-        "20261002",
-        54.2
-      ],
-      [
-        "20261003",
-        54.2
-      ],
-      [
-        "20261004",
-        54.2
-      ],
-      [
-        "20261005",
-        54.2
-      ],
-      [
-        "20261006",
-        54.2
-      ]
-    ],
-    "207411": [
-      [
-        "20260920",
-        53.6
-      ],
-      [
-        "20260921",
-        53.9
-      ],
-      [
-        "20260922",
-        53.9
-      ],
-      [
-        "20260923",
-        53.9
-      ],
-      [
-        "20260924",
-        53.9
-      ],
-      [
-        "20260925",
-        53.9
-      ],
-      [
-        "20260926",
-        53.9
-      ],
-      [
-        "20260927",
-        53.9
-      ],
-      [
-        "20260928",
-        53.9
       ],
       [
         "20260929",
@@ -17995,6 +17925,76 @@ window.TENNIS_DATA = {
       [
         "20261006",
         54.0
+      ]
+    ],
+    "207411": [
+      [
+        "20260920",
+        53.6
+      ],
+      [
+        "20260921",
+        53.9
+      ],
+      [
+        "20260922",
+        53.9
+      ],
+      [
+        "20260923",
+        53.9
+      ],
+      [
+        "20260924",
+        53.9
+      ],
+      [
+        "20260925",
+        53.9
+      ],
+      [
+        "20260926",
+        53.9
+      ],
+      [
+        "20260927",
+        53.9
+      ],
+      [
+        "20260928",
+        53.9
+      ],
+      [
+        "20260929",
+        54.2
+      ],
+      [
+        "20260930",
+        54.2
+      ],
+      [
+        "20261001",
+        54.2
+      ],
+      [
+        "20261002",
+        54.2
+      ],
+      [
+        "20261003",
+        54.2
+      ],
+      [
+        "20261004",
+        54.2
+      ],
+      [
+        "20261005",
+        54.2
+      ],
+      [
+        "20261006",
+        53.9
       ]
     ],
     "209279": [
@@ -18385,76 +18385,6 @@ window.TENNIS_DATA = {
         53.5
       ]
     ],
-    "206499": [
-      [
-        "20260920",
-        52.8
-      ],
-      [
-        "20260921",
-        53.1
-      ],
-      [
-        "20260922",
-        53.1
-      ],
-      [
-        "20260923",
-        53.1
-      ],
-      [
-        "20260924",
-        53.1
-      ],
-      [
-        "20260925",
-        53.1
-      ],
-      [
-        "20260926",
-        53.1
-      ],
-      [
-        "20260927",
-        53.1
-      ],
-      [
-        "20260928",
-        53.1
-      ],
-      [
-        "20260929",
-        53.1
-      ],
-      [
-        "20260930",
-        53.1
-      ],
-      [
-        "20261001",
-        53.1
-      ],
-      [
-        "20261002",
-        53.1
-      ],
-      [
-        "20261003",
-        53.1
-      ],
-      [
-        "20261004",
-        53.1
-      ],
-      [
-        "20261005",
-        53.1
-      ],
-      [
-        "20261006",
-        53.1
-      ]
-    ],
     "207494": [
       [
         "20260920",
@@ -18523,6 +18453,76 @@ window.TENNIS_DATA = {
       [
         "20261006",
         53.0
+      ]
+    ],
+    "206499": [
+      [
+        "20260920",
+        52.8
+      ],
+      [
+        "20260921",
+        53.1
+      ],
+      [
+        "20260922",
+        53.1
+      ],
+      [
+        "20260923",
+        53.1
+      ],
+      [
+        "20260924",
+        53.1
+      ],
+      [
+        "20260925",
+        53.1
+      ],
+      [
+        "20260926",
+        53.1
+      ],
+      [
+        "20260927",
+        53.1
+      ],
+      [
+        "20260928",
+        53.1
+      ],
+      [
+        "20260929",
+        53.1
+      ],
+      [
+        "20260930",
+        53.1
+      ],
+      [
+        "20261001",
+        53.1
+      ],
+      [
+        "20261002",
+        53.1
+      ],
+      [
+        "20261003",
+        53.1
+      ],
+      [
+        "20261004",
+        53.1
+      ],
+      [
+        "20261005",
+        53.1
+      ],
+      [
+        "20261006",
+        52.9
       ]
     ],
     "207680": [
@@ -18595,76 +18595,6 @@ window.TENNIS_DATA = {
         52.7
       ]
     ],
-    "210116": [
-      [
-        "20260920",
-        53.1
-      ],
-      [
-        "20260921",
-        52.6
-      ],
-      [
-        "20260922",
-        52.6
-      ],
-      [
-        "20260923",
-        52.6
-      ],
-      [
-        "20260924",
-        52.6
-      ],
-      [
-        "20260925",
-        52.6
-      ],
-      [
-        "20260926",
-        52.6
-      ],
-      [
-        "20260927",
-        52.6
-      ],
-      [
-        "20260928",
-        52.6
-      ],
-      [
-        "20260929",
-        52.6
-      ],
-      [
-        "20260930",
-        52.6
-      ],
-      [
-        "20261001",
-        52.6
-      ],
-      [
-        "20261002",
-        52.6
-      ],
-      [
-        "20261003",
-        52.6
-      ],
-      [
-        "20261004",
-        52.6
-      ],
-      [
-        "20261005",
-        52.6
-      ],
-      [
-        "20261006",
-        52.6
-      ]
-    ],
     "105477": [
       [
         "20260920",
@@ -18732,7 +18662,147 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        52.5
+        52.3
+      ]
+    ],
+    "210116": [
+      [
+        "20260920",
+        53.1
+      ],
+      [
+        "20260921",
+        52.6
+      ],
+      [
+        "20260922",
+        52.6
+      ],
+      [
+        "20260923",
+        52.6
+      ],
+      [
+        "20260924",
+        52.6
+      ],
+      [
+        "20260925",
+        52.6
+      ],
+      [
+        "20260926",
+        52.6
+      ],
+      [
+        "20260927",
+        52.6
+      ],
+      [
+        "20260928",
+        52.6
+      ],
+      [
+        "20260929",
+        52.6
+      ],
+      [
+        "20260930",
+        52.6
+      ],
+      [
+        "20261001",
+        52.6
+      ],
+      [
+        "20261002",
+        52.6
+      ],
+      [
+        "20261003",
+        52.6
+      ],
+      [
+        "20261004",
+        52.6
+      ],
+      [
+        "20261005",
+        52.6
+      ],
+      [
+        "20261006",
+        52.3
+      ]
+    ],
+    "208233": [
+      [
+        "20260920",
+        51.7
+      ],
+      [
+        "20260921",
+        51.9
+      ],
+      [
+        "20260922",
+        51.9
+      ],
+      [
+        "20260923",
+        51.9
+      ],
+      [
+        "20260924",
+        51.9
+      ],
+      [
+        "20260925",
+        51.9
+      ],
+      [
+        "20260926",
+        51.9
+      ],
+      [
+        "20260927",
+        51.9
+      ],
+      [
+        "20260928",
+        51.9
+      ],
+      [
+        "20260929",
+        51.6
+      ],
+      [
+        "20260930",
+        51.6
+      ],
+      [
+        "20261001",
+        51.6
+      ],
+      [
+        "20261002",
+        51.6
+      ],
+      [
+        "20261003",
+        51.6
+      ],
+      [
+        "20261004",
+        51.6
+      ],
+      [
+        "20261005",
+        51.6
+      ],
+      [
+        "20261006",
+        52.2
       ]
     ],
     "207686": [
@@ -18945,74 +19015,74 @@ window.TENNIS_DATA = {
         51.8
       ]
     ],
-    "208233": [
+    "126128": [
       [
         "20260920",
-        51.7
+        48.8
       ],
       [
         "20260921",
-        51.9
+        48.8
       ],
       [
         "20260922",
-        51.9
+        48.8
       ],
       [
         "20260923",
-        51.9
+        48.8
       ],
       [
         "20260924",
-        51.9
+        48.8
       ],
       [
         "20260925",
-        51.9
+        48.8
       ],
       [
         "20260926",
-        51.9
+        48.8
       ],
       [
         "20260927",
-        51.9
+        48.8
       ],
       [
         "20260928",
-        51.9
+        48.8
       ],
       [
         "20260929",
-        51.6
+        50.5
       ],
       [
         "20260930",
-        51.6
+        50.5
       ],
       [
         "20261001",
-        51.6
+        50.5
       ],
       [
         "20261002",
-        51.6
+        50.5
       ],
       [
         "20261003",
-        51.6
+        50.5
       ],
       [
         "20261004",
-        51.6
+        50.5
       ],
       [
         "20261005",
-        51.6
+        50.5
       ],
       [
         "20261006",
-        51.6
+        51.1
       ]
     ],
     "210319": [
@@ -19082,77 +19152,77 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        50.8
+        50.7
       ]
     ],
-    "105173": [
+    "208021": [
       [
         "20260920",
-        50.8
+        47.9
       ],
       [
         "20260921",
-        51.0
+        47.9
       ],
       [
         "20260922",
-        51.0
+        47.9
       ],
       [
         "20260923",
-        51.0
+        47.9
       ],
       [
         "20260924",
-        51.0
+        47.9
       ],
       [
         "20260925",
-        51.0
+        47.9
       ],
       [
         "20260926",
-        51.0
+        47.9
       ],
       [
         "20260927",
-        51.0
+        47.9
       ],
       [
         "20260928",
-        51.0
+        47.9
       ],
       [
         "20260929",
-        50.7
+        49.5
       ],
       [
         "20260930",
-        50.7
+        49.5
       ],
       [
         "20261001",
-        50.7
+        49.5
       ],
       [
         "20261002",
-        50.7
+        49.5
       ],
       [
         "20261003",
-        50.7
+        49.5
       ],
       [
         "20261004",
-        50.7
+        49.5
       ],
       [
         "20261005",
-        50.7
+        49.5
       ],
       [
         "20261006",
-        50.7
+        50.6
       ]
     ],
     "105932": [
@@ -19263,74 +19333,74 @@ window.TENNIS_DATA = {
         50.6
       ]
     ],
-    "126128": [
+    "105173": [
       [
         "20260920",
-        48.8
+        50.8
       ],
       [
         "20260921",
-        48.8
+        51.0
       ],
       [
         "20260922",
-        48.8
+        51.0
       ],
       [
         "20260923",
-        48.8
+        51.0
       ],
       [
         "20260924",
-        48.8
+        51.0
       ],
       [
         "20260925",
-        48.8
+        51.0
       ],
       [
         "20260926",
-        48.8
+        51.0
       ],
       [
         "20260927",
-        48.8
+        51.0
       ],
       [
         "20260928",
-        48.8
+        51.0
       ],
       [
         "20260929",
-        50.5
+        50.7
       ],
       [
         "20260930",
-        50.5
+        50.7
       ],
       [
         "20261001",
-        50.5
+        50.7
       ],
       [
         "20261002",
-        50.5
+        50.7
       ],
       [
         "20261003",
-        50.5
+        50.7
       ],
       [
         "20261004",
-        50.5
+        50.7
       ],
       [
         "20261005",
-        50.5
+        50.7
       ],
       [
         "20261006",
-        50.5
+        50.4
       ]
     ],
     "102093": [
@@ -19473,76 +19543,6 @@ window.TENNIS_DATA = {
         50.2
       ]
     ],
-    "208014": [
-      [
-        "20260920",
-        49.6
-      ],
-      [
-        "20260921",
-        50.0
-      ],
-      [
-        "20260922",
-        50.0
-      ],
-      [
-        "20260923",
-        50.0
-      ],
-      [
-        "20260924",
-        50.0
-      ],
-      [
-        "20260925",
-        50.0
-      ],
-      [
-        "20260926",
-        50.0
-      ],
-      [
-        "20260927",
-        50.0
-      ],
-      [
-        "20260928",
-        50.0
-      ],
-      [
-        "20260929",
-        50.0
-      ],
-      [
-        "20260930",
-        50.0
-      ],
-      [
-        "20261001",
-        50.0
-      ],
-      [
-        "20261002",
-        50.0
-      ],
-      [
-        "20261003",
-        50.0
-      ],
-      [
-        "20261004",
-        50.0
-      ],
-      [
-        "20261005",
-        50.0
-      ],
-      [
-        "20261006",
-        50.0
-      ]
-    ],
     "207182": [
       [
         "20260920",
@@ -19613,6 +19613,76 @@ window.TENNIS_DATA = {
         49.8
       ]
     ],
+    "208014": [
+      [
+        "20260920",
+        49.6
+      ],
+      [
+        "20260921",
+        50.0
+      ],
+      [
+        "20260922",
+        50.0
+      ],
+      [
+        "20260923",
+        50.0
+      ],
+      [
+        "20260924",
+        50.0
+      ],
+      [
+        "20260925",
+        50.0
+      ],
+      [
+        "20260926",
+        50.0
+      ],
+      [
+        "20260927",
+        50.0
+      ],
+      [
+        "20260928",
+        50.0
+      ],
+      [
+        "20260929",
+        50.0
+      ],
+      [
+        "20260930",
+        50.0
+      ],
+      [
+        "20261001",
+        50.0
+      ],
+      [
+        "20261002",
+        50.0
+      ],
+      [
+        "20261003",
+        50.0
+      ],
+      [
+        "20261004",
+        50.0
+      ],
+      [
+        "20261005",
+        50.0
+      ],
+      [
+        "20261006",
+        49.6
+      ]
+    ],
     "105902": [
       [
         "20260920",
@@ -19680,77 +19750,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        49.6
-      ]
-    ],
-    "208021": [
-      [
-        "20260920",
-        47.9
-      ],
-      [
-        "20260921",
-        47.9
-      ],
-      [
-        "20260922",
-        47.9
-      ],
-      [
-        "20260923",
-        47.9
-      ],
-      [
-        "20260924",
-        47.9
-      ],
-      [
-        "20260925",
-        47.9
-      ],
-      [
-        "20260926",
-        47.9
-      ],
-      [
-        "20260927",
-        47.9
-      ],
-      [
-        "20260928",
-        47.9
-      ],
-      [
-        "20260929",
-        49.5
-      ],
-      [
-        "20260930",
-        49.5
-      ],
-      [
-        "20261001",
-        49.5
-      ],
-      [
-        "20261002",
-        49.5
-      ],
-      [
-        "20261003",
-        49.5
-      ],
-      [
-        "20261004",
-        49.5
-      ],
-      [
-        "20261005",
-        49.5
-      ],
-      [
-        "20261006",
-        49.5
+        49.4
       ]
     ],
     "208659": [
@@ -19890,7 +19890,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        48.6
+        48.4
       ]
     ],
     "200443": [
@@ -19960,7 +19960,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        48.6
+        48.4
       ]
     ],
     "209259": [
@@ -20030,7 +20030,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        48.4
+        48.3
       ]
     ],
     "106000": [
@@ -20103,76 +20103,6 @@ window.TENNIS_DATA = {
         48.0
       ]
     ],
-    "210389": [
-      [
-        "20260920",
-        48.2
-      ],
-      [
-        "20260921",
-        47.9
-      ],
-      [
-        "20260922",
-        47.9
-      ],
-      [
-        "20260923",
-        47.9
-      ],
-      [
-        "20260924",
-        47.9
-      ],
-      [
-        "20260925",
-        47.9
-      ],
-      [
-        "20260926",
-        47.9
-      ],
-      [
-        "20260927",
-        47.9
-      ],
-      [
-        "20260928",
-        47.9
-      ],
-      [
-        "20260929",
-        47.9
-      ],
-      [
-        "20260930",
-        47.9
-      ],
-      [
-        "20261001",
-        47.9
-      ],
-      [
-        "20261002",
-        47.9
-      ],
-      [
-        "20261003",
-        47.9
-      ],
-      [
-        "20261004",
-        47.9
-      ],
-      [
-        "20261005",
-        47.9
-      ],
-      [
-        "20261006",
-        47.9
-      ]
-    ],
     "200514": [
       [
         "20260920",
@@ -20241,6 +20171,76 @@ window.TENNIS_DATA = {
       [
         "20261006",
         47.8
+      ]
+    ],
+    "210389": [
+      [
+        "20260920",
+        48.2
+      ],
+      [
+        "20260921",
+        47.9
+      ],
+      [
+        "20260922",
+        47.9
+      ],
+      [
+        "20260923",
+        47.9
+      ],
+      [
+        "20260924",
+        47.9
+      ],
+      [
+        "20260925",
+        47.9
+      ],
+      [
+        "20260926",
+        47.9
+      ],
+      [
+        "20260927",
+        47.9
+      ],
+      [
+        "20260928",
+        47.9
+      ],
+      [
+        "20260929",
+        47.9
+      ],
+      [
+        "20260930",
+        47.9
+      ],
+      [
+        "20261001",
+        47.9
+      ],
+      [
+        "20261002",
+        47.9
+      ],
+      [
+        "20261003",
+        47.9
+      ],
+      [
+        "20261004",
+        47.9
+      ],
+      [
+        "20261005",
+        47.9
+      ],
+      [
+        "20261006",
+        47.6
       ]
     ],
     "106426": [
@@ -20383,72 +20383,6 @@ window.TENNIS_DATA = {
         45.7
       ]
     ],
-    "111581": [
-      [
-        "20260921",
-        45.2
-      ],
-      [
-        "20260922",
-        45.2
-      ],
-      [
-        "20260923",
-        45.2
-      ],
-      [
-        "20260924",
-        45.2
-      ],
-      [
-        "20260925",
-        45.2
-      ],
-      [
-        "20260926",
-        45.2
-      ],
-      [
-        "20260927",
-        45.2
-      ],
-      [
-        "20260928",
-        45.2
-      ],
-      [
-        "20260929",
-        45.2
-      ],
-      [
-        "20260930",
-        45.2
-      ],
-      [
-        "20261001",
-        45.2
-      ],
-      [
-        "20261002",
-        45.2
-      ],
-      [
-        "20261003",
-        45.2
-      ],
-      [
-        "20261004",
-        45.2
-      ],
-      [
-        "20261005",
-        45.2
-      ],
-      [
-        "20261006",
-        45.2
-      ]
-    ],
     "210012": [
       [
         "20260920",
@@ -20589,76 +20523,6 @@ window.TENNIS_DATA = {
         44.5
       ]
     ],
-    "200384": [
-      [
-        "20260920",
-        42.6
-      ],
-      [
-        "20260921",
-        43.0
-      ],
-      [
-        "20260922",
-        43.0
-      ],
-      [
-        "20260923",
-        43.0
-      ],
-      [
-        "20260924",
-        43.0
-      ],
-      [
-        "20260925",
-        43.0
-      ],
-      [
-        "20260926",
-        43.0
-      ],
-      [
-        "20260927",
-        43.0
-      ],
-      [
-        "20260928",
-        43.0
-      ],
-      [
-        "20260929",
-        44.1
-      ],
-      [
-        "20260930",
-        44.1
-      ],
-      [
-        "20261001",
-        44.1
-      ],
-      [
-        "20261002",
-        44.1
-      ],
-      [
-        "20261003",
-        44.1
-      ],
-      [
-        "20261004",
-        44.1
-      ],
-      [
-        "20261005",
-        44.1
-      ],
-      [
-        "20261006",
-        44.1
-      ]
-    ],
     "124116": [
       [
         "20260920",
@@ -20727,6 +20591,76 @@ window.TENNIS_DATA = {
       [
         "20261006",
         44.1
+      ]
+    ],
+    "200384": [
+      [
+        "20260920",
+        42.6
+      ],
+      [
+        "20260921",
+        43.0
+      ],
+      [
+        "20260922",
+        43.0
+      ],
+      [
+        "20260923",
+        43.0
+      ],
+      [
+        "20260924",
+        43.0
+      ],
+      [
+        "20260925",
+        43.0
+      ],
+      [
+        "20260926",
+        43.0
+      ],
+      [
+        "20260927",
+        43.0
+      ],
+      [
+        "20260928",
+        43.0
+      ],
+      [
+        "20260929",
+        44.1
+      ],
+      [
+        "20260930",
+        44.1
+      ],
+      [
+        "20261001",
+        44.1
+      ],
+      [
+        "20261002",
+        44.1
+      ],
+      [
+        "20261003",
+        44.1
+      ],
+      [
+        "20261004",
+        44.1
+      ],
+      [
+        "20261005",
+        44.1
+      ],
+      [
+        "20261006",
+        43.8
       ]
     ],
     "208316": [
@@ -21464,7 +21398,7 @@ window.TENNIS_DATA = {
       ],
       [
         "20261006",
-        37.5
+        37.3
       ]
     ],
     "124079": [
@@ -22161,6 +22095,16 @@ window.TENNIS_DATA = {
       [
         "20261005",
         35.0
+      ],
+      [
+        "20261006",
+        35.0
+      ]
+    ],
+    "206889": [
+      [
+        "20260929",
+        50.0
       ],
       [
         "20261006",
@@ -32597,14 +32541,14 @@ window.TENNIS_DATA = {
       "id": "209950",
       "name": "Arthur Fils",
       "age": 22,
-      "rank": 9,
+      "rank": 11,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 84.1,
+      "activeScore": 83.8,
       "leyendaScore": 0.0,
-      "note": "Top 10 a los 22"
+      "note": "Top 30 a los 22"
     },
     {
       "id": "212588",
@@ -32623,12 +32567,12 @@ window.TENNIS_DATA = {
       "id": "210530",
       "name": "Learner Tien",
       "age": 20,
-      "rank": 15,
+      "rank": 17,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 75.1,
+      "activeScore": 74.9,
       "leyendaScore": 0.0,
       "note": "Top 30 a los 20"
     },
@@ -32662,40 +32606,40 @@ window.TENNIS_DATA = {
       "id": "209860",
       "name": "Ignacio Buse",
       "age": 22,
-      "rank": 35,
+      "rank": 36,
       "country": "PER",
       "logo": "https://flagcdn.com/24x18/pe.png",
       "primary": "#555555",
       "secondary": "#FFFFFF",
-      "activeScore": 68.3,
+      "activeScore": 68.2,
       "leyendaScore": 0.0,
-      "note": "Irrumpe a los 22 (#35)"
+      "note": "Irrumpe a los 22 (#36)"
     },
     {
       "id": "210506",
       "name": "Alex Michelsen",
       "age": 22,
-      "rank": 34,
+      "rank": 35,
       "country": "USA",
       "logo": "https://flagcdn.com/24x18/us.png",
       "primary": "#B22234",
       "secondary": "#FFFFFF",
-      "activeScore": 67.1,
+      "activeScore": 67.0,
       "leyendaScore": 0.0,
-      "note": "Irrumpe a los 22 (#34)"
+      "note": "Irrumpe a los 22 (#35)"
     },
     {
       "id": "209414",
       "name": "Luca Van Assche",
       "age": 22,
-      "rank": 43,
+      "rank": 45,
       "country": "FRA",
       "logo": "https://flagcdn.com/24x18/fr.png",
       "primary": "#002395",
       "secondary": "#FFFFFF",
-      "activeScore": 65.6,
+      "activeScore": 65.3,
       "leyendaScore": 0.0,
-      "note": "Irrumpe a los 22 (#43)"
+      "note": "Irrumpe a los 22 (#45)"
     }
   ],
   "WTA_PROSPECTS": [
