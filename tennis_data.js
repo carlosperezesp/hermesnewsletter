@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-06 12:05 UTC
+// Auto-generated 2026-10-06 13:29 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-06 12:05 UTC",
+  "UPDATED": "2026-10-06 13:29 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -441,7 +441,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 76.5
@@ -1187,8 +1187,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "China Open",
-        "state": "out",
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -1255,7 +1255,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships",
+        "tournament": "Rolex Shanghai Masters",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -1391,7 +1391,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships",
+        "tournament": "Rolex Shanghai Masters",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -1425,8 +1425,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "China Open",
-        "state": "out",
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -1597,7 +1597,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 47,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Rolex Shanghai Masters",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -1903,8 +1903,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 56,
       "tournamentStatus": {
-        "tournament": "China Open",
-        "state": "out",
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -2141,7 +2141,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 63,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Rolex Shanghai Masters",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -2549,10 +2549,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 75,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 56.2
     },
@@ -3197,10 +3197,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 94,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 53.5
     },
@@ -3265,10 +3265,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 96,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 53.0
     },
@@ -3333,10 +3333,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 98,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 52.6
     },
@@ -3367,10 +3367,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 99,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 52.5
     },
@@ -3505,10 +3505,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 103,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 51.6
     },
@@ -3573,10 +3573,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 105,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 50.7
     },
@@ -3607,10 +3607,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 106,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 50.6
     },
@@ -3675,7 +3675,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 108,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Rolex Shanghai Masters",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -3779,10 +3779,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 111,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 50.0
     },
@@ -4501,10 +4501,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 132,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 42.2
     },
@@ -5003,10 +5003,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 146,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships · China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 35.0
     },
@@ -5111,8 +5111,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 149,
       "tournamentStatus": {
-        "tournament": "Kinoshita Group Japan Open Tennis Championships",
-        "state": "out",
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -5491,7 +5491,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 85.6
@@ -6443,7 +6443,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 65.2
@@ -8871,7 +8871,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Samsun Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 47.1
@@ -9287,7 +9287,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 42.3
@@ -9709,7 +9709,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Samsun Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 39.0
@@ -10979,15 +10979,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Alex de Minaur",
+          "w": "Novak Djokovic",
           "w_logo": "",
-          "l": "Novak Djokovic",
+          "l": "Alex de Minaur",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-3) 0-1 ret",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 76.5,
-          "l_score": 87.0,
+          "w_score": 87.0,
+          "l_score": 76.5,
           "match_score": 87.0
         }
       ]
@@ -11301,7 +11301,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Sinja Kraus",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-0 4-6 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": 65.2,
@@ -11471,7 +11471,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lola Radivojevic",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 7-6 (7-0)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 47.1,
@@ -11493,15 +11493,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Lucrezia Stefanini",
+          "w": "Carole Monnet",
           "w_logo": "",
-          "l": "Carole Monnet",
+          "l": "Lucrezia Stefanini",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 40.4,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 40.4,
           "match_score": 40.4
         },
         {
@@ -11557,6 +11557,7 @@ window.TENNIS_DATA = {
     ],
     "alive": [
       "Adolfo Daniel Vallejo",
+      "Adrian Mannarino",
       "Alejandro Tabilo",
       "Aleksandar Kovacevic",
       "Alex Molcan",
@@ -11566,20 +11567,27 @@ window.TENNIS_DATA = {
       "Arthur Fery",
       "Arthur Fils",
       "Arthur Gea",
+      "Bernard Tomic",
       "Botic Van De Zandschulp",
       "Bu Yunchaokete",
+      "Cameron Norrie",
+      "Camilo Ugo Carabelli",
       "Carlos Alcaraz",
+      "Chak Lam Coleman Wong",
+      "Dalibor Svrcina",
       "Daniel Altmaier",
       "Daniel Merida",
       "Daniil Medvedev",
       "Denis Shapovalov",
       "Fabian Marozsan",
       "Facundo Diaz Acosta",
+      "Federico Cina",
       "Frances Tiafoe",
       "Francisco Cerundolo",
       "Hamad Medjedovic",
       "Holger Rune",
       "Hubert Hurkacz",
+      "Ilia Simakin",
       "Jaime Faria",
       "Jakub Mensik",
       "James Duckworth",
@@ -11587,36 +11595,49 @@ window.TENNIS_DATA = {
       "Jaume Munar",
       "Jenson Brooksby",
       "Jiri Lehecka",
+      "Juan Manuel Cerundolo",
       "Kamil Majchrzak",
       "Karen Khachanov",
+      "Kimmer Coppejans",
       "Kyrian Jacquet",
       "Luca Van Assche",
       "Luciano Darderi",
+      "Marco Trungelliti",
       "Marcos Giron",
       "Mariano Navone",
       "Marin Cilic",
       "Martin Landaluce",
       "Matteo Arnaldi",
       "Matteo Berrettini",
+      "Mattia Bellucci",
+      "Michael Zheng",
       "Miomir Kecmanovic",
+      "Nicolas Mejia",
+      "Nikoloz Basilashvili",
       "Novak Djokovic",
       "Nuno Borges",
       "Pablo Carreno Busta",
+      "Pavel Kotov",
       "Quentin Halys",
+      "Rei Sakamoto",
+      "Rinky Hijikata",
       "Roman Safiullin",
       "Sebastian Baez",
       "Shang Juncheng",
       "Sho Shimabukuro",
       "Stefanos Tsitsipas",
+      "Tallon Griekspoor",
       "Thiago Agustin Tirante",
       "Tomas Machac",
       "Ugo Humbert",
       "Valentin Royer",
       "Valentin Vacherot",
       "Vit Kopriva",
+      "Wu Yibing",
       "Yannick Hanfmann",
       "Zachary Svajda",
       "Zhang Zhizhen",
+      "Zhou Yi",
       "Zizou Bergs"
     ],
     "out": [
@@ -11625,23 +11646,19 @@ window.TENNIS_DATA = {
       "Alexander Blockx",
       "Alexander Bublik",
       "Brandon Nakashima",
-      "Cameron Norrie",
       "Casper Ruud",
       "Felix Auger-Aliassime",
       "Flavio Cobolli",
       "Ignacio Buse",
-      "Juan Manuel Cerundolo",
       "Kei Nishikori",
       "Learner Tien",
       "Rafael Jodar",
-      "Rei Sakamoto",
-      "Tallon Griekspoor",
       "Taylor Fritz",
       "Tomas Martin Etcheverry",
       "Tommy Paul"
     ],
-    "aliveCount": 62,
-    "matchesSeen": 81
+    "aliveCount": 83,
+    "matchesSeen": 94
   },
   "WTA_TOURNAMENT": {
     "name": "China Open · Suzhou Open · Samsun Open",
@@ -11677,7 +11694,6 @@ window.TENNIS_DATA = {
       "Aryna Sabalenka",
       "Ashlyn Krueger",
       "Ayla Aksu",
-      "Aysegul Mert",
       "Bai Zhuoxuan",
       "Belinda Bencic",
       "Bianca Andreescu",
@@ -11723,7 +11739,6 @@ window.TENNIS_DATA = {
       "Linda Klimovicova",
       "Linda Noskova",
       "Liudmila Samsonova",
-      "Lola Radivojevic",
       "Lucrezia Stefanini",
       "Maddison Inglis",
       "Magdalena Frech",
@@ -11768,6 +11783,7 @@ window.TENNIS_DATA = {
       "Anna Kalinskaya",
       "Antonia Ruzic",
       "Aoi Ito",
+      "Aysegul Mert",
       "Catherine McNally",
       "Clara Tauson",
       "Cristina Bucsa",
@@ -11787,6 +11803,7 @@ window.TENNIS_DATA = {
       "Lanlana Tararudee",
       "Leylah Fernandez",
       "Lilli Tagger",
+      "Lola Radivojevic",
       "Lu Jia-Jing",
       "Lucia Bronzetti",
       "Ma YeXin",
@@ -11816,8 +11833,8 @@ window.TENNIS_DATA = {
       "Zhang Ruien",
       "Zheng Wushuang"
     ],
-    "aliveCount": 91,
-    "matchesSeen": 131
+    "aliveCount": 89,
+    "matchesSeen": 134
   },
   "ATP_SCORE_LOG": {
     "206173": [

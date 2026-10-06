@@ -842,7 +842,7 @@ window.NFL_DATA = {
         "rushYds": 72,
         "rushTd": 1
       },
-      "prevRank": 12
+      "prevRank": 4
     },
     {
       "id": 2577417,
@@ -868,7 +868,7 @@ window.NFL_DATA = {
         "rushYds": 66,
         "rushTd": 0
       },
-      "prevRank": 4
+      "prevRank": 5
     },
     {
       "id": 14880,
@@ -894,7 +894,7 @@ window.NFL_DATA = {
         "rushYds": -2,
         "rushTd": 0
       },
-      "prevRank": 5
+      "prevRank": 6
     },
     {
       "id": 3139477,
@@ -920,7 +920,7 @@ window.NFL_DATA = {
         "rushYds": 41,
         "rushTd": 0
       },
-      "prevRank": 6
+      "prevRank": 7
     },
     {
       "id": 3915511,
@@ -946,7 +946,7 @@ window.NFL_DATA = {
         "rushYds": 38,
         "rushTd": 0
       },
-      "prevRank": 7
+      "prevRank": 8
     },
     {
       "id": 4432577,
@@ -972,7 +972,7 @@ window.NFL_DATA = {
         "rushYds": 66,
         "rushTd": 0
       },
-      "prevRank": 8
+      "prevRank": 9
     },
     {
       "id": 4036378,
@@ -998,7 +998,7 @@ window.NFL_DATA = {
         "rushYds": -8,
         "rushTd": 0
       },
-      "prevRank": 9
+      "prevRank": 10
     },
     {
       "id": 4360310,
@@ -1766,7 +1766,7 @@ window.NFL_DATA = {
         "gap": 22.0,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": null
+        "prevRank": 6
       },
       {
         "id": 15864,
@@ -1783,7 +1783,7 @@ window.NFL_DATA = {
         "gap": 23.5,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 6
+        "prevRank": 7
       },
       {
         "id": 3915511,
@@ -1800,7 +1800,7 @@ window.NFL_DATA = {
         "gap": 24.9,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "id": 12483,
@@ -1817,7 +1817,7 @@ window.NFL_DATA = {
         "gap": 25.1,
         "rings": 1,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 8
+        "prevRank": 9
       },
       {
         "id": 3916387,
@@ -1834,7 +1834,7 @@ window.NFL_DATA = {
         "gap": 28.3,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 9
+        "prevRank": 10
       }
     ],
     "youngProspects": [
@@ -1904,7 +1904,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-06 12:02 UTC",
+  "LAST_UPDATE": "2026-10-06 13:26 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
