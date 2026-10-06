@@ -1921,7 +1921,7 @@ window.MLB_DATA = {
       "last": "Bauers",
       "pos": "1B",
       "teamCode": "MIL",
-      "age": 30,
+      "age": 31,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35013.png",
       "colors": {
         "primary": "#ffc52f",
@@ -1937,7 +1937,7 @@ window.MLB_DATA = {
         "sb": 11,
         "ops": 0.874
       },
-      "legendScore": 44.6,
+      "legendScore": 45.5,
       "currentScore": 68,
       "battingScore": 68,
       "pitchingScore": null,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-06 01:47 UTC",
+  "LAST_UPDATE": "2026-10-06 12:02 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

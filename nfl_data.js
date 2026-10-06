@@ -316,12 +316,35 @@ window.NFL_DATA = {
       "pf": 122,
       "pa": 112,
       "pd": 10,
-      "seed": 11,
+      "seed": 12,
       "score": 42,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
       "colors": {
         "primary": "#003594",
         "secondary": "#869397"
+      }
+    },
+    {
+      "code": "ATL",
+      "city": "Atlanta Falcons",
+      "shortName": "Atlanta",
+      "commonName": "Falcons",
+      "conf": "NFC",
+      "div": "NFC South",
+      "gp": 4,
+      "w": 2,
+      "l": 2,
+      "t": 0,
+      "winPct": 0.5,
+      "pf": 96,
+      "pa": 92,
+      "pd": 4,
+      "seed": 8,
+      "score": 41,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+      "colors": {
+        "primary": "#a71930",
+        "secondary": "#000000"
       }
     },
     {
@@ -385,7 +408,7 @@ window.NFL_DATA = {
       "pf": 119,
       "pa": 127,
       "pd": -8,
-      "seed": 8,
+      "seed": 9,
       "score": 38,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
       "colors": {
@@ -454,7 +477,7 @@ window.NFL_DATA = {
       "pf": 75,
       "pa": 93,
       "pd": -18,
-      "seed": 10,
+      "seed": 11,
       "score": 36,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
       "colors": {
@@ -500,35 +523,12 @@ window.NFL_DATA = {
       "pf": 73,
       "pa": 105,
       "pd": -32,
-      "seed": 9,
+      "seed": 10,
       "score": 34,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
       "colors": {
         "primary": "#203731",
         "secondary": "#ffb612"
-      }
-    },
-    {
-      "code": "NO",
-      "city": "New Orleans Saints",
-      "shortName": "New Orleans",
-      "commonName": "Saints",
-      "conf": "NFC",
-      "div": "NFC South",
-      "gp": 3,
-      "w": 1,
-      "l": 2,
-      "t": 0,
-      "winPct": 0.333,
-      "pf": 81,
-      "pa": 83,
-      "pd": -2,
-      "seed": 13,
-      "score": 26,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
-      "colors": {
-        "primary": "#d3bc8d",
-        "secondary": "#101820"
       }
     },
     {
@@ -555,26 +555,26 @@ window.NFL_DATA = {
       }
     },
     {
-      "code": "ATL",
-      "city": "Atlanta Falcons",
-      "shortName": "Atlanta",
-      "commonName": "Falcons",
+      "code": "NO",
+      "city": "New Orleans Saints",
+      "shortName": "New Orleans",
+      "commonName": "Saints",
       "conf": "NFC",
       "div": "NFC South",
-      "gp": 3,
+      "gp": 4,
       "w": 1,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "winPct": 0.333,
-      "pf": 51,
-      "pa": 68,
-      "pd": -17,
-      "seed": 12,
-      "score": 22,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+      "winPct": 0.25,
+      "pf": 105,
+      "pa": 128,
+      "pd": -23,
+      "seed": 14,
+      "score": 15,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
       "colors": {
-        "primary": "#a71930",
-        "secondary": "#000000"
+        "primary": "#d3bc8d",
+        "secondary": "#101820"
       }
     },
     {
@@ -615,7 +615,7 @@ window.NFL_DATA = {
       "pf": 88,
       "pa": 122,
       "pd": -34,
-      "seed": 14,
+      "seed": 13,
       "score": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
       "colors": {
@@ -661,7 +661,7 @@ window.NFL_DATA = {
       "pf": 84,
       "pa": 109,
       "pd": -25,
-      "seed": 16,
+      "seed": 15,
       "score": 0,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
       "colors": {
@@ -684,7 +684,7 @@ window.NFL_DATA = {
       "pf": 55,
       "pa": 83,
       "pd": -28,
-      "seed": 15,
+      "seed": 16,
       "score": 0,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
       "colors": {
@@ -817,6 +817,32 @@ window.NFL_DATA = {
         "rushTd": 0
       },
       "prevRank": 3
+    },
+    {
+      "id": 4360689,
+      "name": "Tyler Shough",
+      "pos": "QB",
+      "teamCode": "NO",
+      "age": 27,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360689.png",
+      "colors": {
+        "primary": "#d3bc8d",
+        "secondary": "#101820"
+      },
+      "score": 90,
+      "stats": {
+        "type": "passing",
+        "cmp": 121,
+        "att": 180,
+        "pct": 67.2,
+        "yds": 1203,
+        "ypa": 6.7,
+        "td": 9,
+        "int": 3,
+        "rushYds": 72,
+        "rushTd": 1
+      },
+      "prevRank": 12
     },
     {
       "id": 2577417,
@@ -979,7 +1005,7 @@ window.NFL_DATA = {
       "name": "Trevor Lawrence",
       "pos": "QB",
       "teamCode": "JAX",
-      "age": 26,
+      "age": 27,
       "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360310.png",
       "colors": {
         "primary": "#006778",
@@ -997,8 +1023,7 @@ window.NFL_DATA = {
         "int": 2,
         "rushYds": 34,
         "rushTd": 0
-      },
-      "prevRank": 10
+      }
     },
     {
       "id": 3916387,
@@ -1022,31 +1047,6 @@ window.NFL_DATA = {
         "td": 6,
         "int": 1,
         "rushYds": 144,
-        "rushTd": 1
-      }
-    },
-    {
-      "id": 4360689,
-      "name": "Tyler Shough",
-      "pos": "QB",
-      "teamCode": "NO",
-      "age": 27,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360689.png",
-      "colors": {
-        "primary": "#d3bc8d",
-        "secondary": "#101820"
-      },
-      "score": 77,
-      "stats": {
-        "type": "passing",
-        "cmp": 91,
-        "att": 132,
-        "pct": 68.9,
-        "yds": 917,
-        "ypa": 6.9,
-        "td": 8,
-        "int": 3,
-        "rushYds": 67,
         "rushTd": 1
       }
     },
@@ -1752,6 +1752,23 @@ window.NFL_DATA = {
         "prevRank": 5
       },
       {
+        "id": 4360689,
+        "name": "Tyler Shough",
+        "pos": "QB",
+        "teamCode": "NO",
+        "colors": {
+          "primary": "#d3bc8d",
+          "secondary": "#101820"
+        },
+        "age": 27,
+        "careerScore": 68.0,
+        "threshold": 90.0,
+        "gap": 22.0,
+        "rings": 0,
+        "note": "2–3 años de pico + varios anillos",
+        "prevRank": null
+      },
+      {
         "id": 15864,
         "name": "Geno Smith",
         "pos": "QB",
@@ -1818,23 +1835,6 @@ window.NFL_DATA = {
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
         "prevRank": 9
-      },
-      {
-        "id": 4036378,
-        "name": "Jordan Love",
-        "pos": "QB",
-        "teamCode": "GB",
-        "colors": {
-          "primary": "#203731",
-          "secondary": "#ffb612"
-        },
-        "age": 27,
-        "careerScore": 59.9,
-        "threshold": 90.0,
-        "gap": 30.1,
-        "rings": 0,
-        "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 10
       }
     ],
     "youngProspects": [
@@ -1904,7 +1904,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-06 01:47 UTC",
+  "LAST_UPDATE": "2026-10-06 12:02 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
