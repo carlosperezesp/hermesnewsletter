@@ -1,11 +1,11 @@
 // Cricket Tracker - generated from Cricsheet completed scorecards + Hermes scoring.
 // Run `python3 scripts/update_cricket_data.py` to refresh.
 window.CRICKET_DATA = {
-  "UPDATED": "2026-10-05 21:20 UTC",
+  "UPDATED": "2026-10-06 01:19 UTC",
   "IMPORTANCE": 5.8,
   "SOURCE": {
     "mode": "Cricsheet completed scorecards + Hermes scoring",
-    "matches": 1601,
+    "matches": 1600,
     "archives": [
       {
         "name": "Tests",
@@ -13,7 +13,7 @@ window.CRICKET_DATA = {
       },
       {
         "name": "ODIs",
-        "matches": 140
+        "matches": 139
       },
       {
         "name": "T20Is",
@@ -784,7 +784,7 @@ window.CRICKET_DATA = {
           "batting": 64.5,
           "bowling": 0.3,
           "overall": 8.8,
-          "runs": 651,
+          "runs": 620,
           "wickets": 0
         },
         {
@@ -2468,24 +2468,6 @@ window.CRICKET_DATA = {
           "wickets": 10
         },
         {
-          "id": "ra-mariu",
-          "name": "RA Mariu",
-          "role": "Batter",
-          "country": "New Zealand",
-          "teamCode": "NZ",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          },
-          "logo": "https://flagcdn.com/24x18/nz.png",
-          "score": 56.8,
-          "batting": 56.8,
-          "bowling": 0.1,
-          "overall": 5.1,
-          "runs": 58,
-          "wickets": 0
-        },
-        {
           "id": "t-bavuma",
           "name": "T Bavuma",
           "role": "Batter",
@@ -2502,6 +2484,24 @@ window.CRICKET_DATA = {
           "overall": 11.4,
           "runs": 896,
           "wickets": 0
+        },
+        {
+          "id": "olipa-gerald",
+          "name": "Olipa Gerald",
+          "role": "Batter",
+          "country": "Uganda",
+          "teamCode": "UGA",
+          "colors": {
+            "primary": "#555555",
+            "secondary": "#dddddd"
+          },
+          "logo": "",
+          "score": 56.1,
+          "batting": 56.1,
+          "bowling": 3.4,
+          "overall": 29.6,
+          "runs": 280,
+          "wickets": 3
         }
       ],
       "bowling": [

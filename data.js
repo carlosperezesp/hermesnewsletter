@@ -2126,7 +2126,7 @@ window.NHL_DATA = {
       "name": "Jake Guentzel",
       "pos": "C",
       "teamCode": "TBL",
-      "age": 31,
+      "age": 32,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -4982,7 +4982,7 @@ window.NHL_DATA = {
       "name": "Nazem Kadri",
       "pos": "C",
       "teamCode": "COL",
-      "age": 35,
+      "age": 36,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -15358,7 +15358,7 @@ window.NHL_DATA = {
       "name": "Martin Fehérváry",
       "pos": "D",
       "teamCode": "WSH",
-      "age": 26,
+      "age": 27,
       "country": "Slovakia",
       "birthCountry": "SVK",
       "colors": {
@@ -16810,7 +16810,7 @@ window.NHL_DATA = {
       "name": "Ryan Pulock",
       "pos": "D",
       "teamCode": "NYI",
-      "age": 31,
+      "age": 32,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -32300,7 +32300,7 @@ window.NHL_DATA = {
           "primary": "#002868",
           "secondary": "#ffffff"
         },
-        "age": 31,
+        "age": 32,
         "careerScore": 57.9,
         "threshold": 93.1,
         "gap": 35.2,
@@ -32700,10 +32700,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-05 21:18 UTC",
+  "LAST_UPDATE": "2026-10-06 01:18 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-05T21:17:45Z"
+    "standingsDateTimeUtc": "2026-10-06T01:18:00Z"
   }
 };
