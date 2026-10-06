@@ -11561,9 +11561,9 @@ window.NHL_DATA = {
       "name": "Connor Zary",
       "pos": "C",
       "teamCode": "CGY",
-      "age": 25,
-      "country": "Canada",
-      "birthCountry": "CAN",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#c8102e",
         "secondary": "#f1be48"
@@ -32380,10 +32380,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-06 19:01 UTC",
+  "LAST_UPDATE": "2026-10-06 23:48 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-06T19:00:45Z"
+    "standingsDateTimeUtc": "2026-10-06T23:48:15Z"
   }
 };
