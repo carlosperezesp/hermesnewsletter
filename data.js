@@ -2743,9 +2743,9 @@ window.NHL_DATA = {
       "name": "Filip Hallander",
       "pos": "C",
       "teamCode": "PIT",
-      "age": 26,
-      "country": "Sweden",
-      "birthCountry": "SWE",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#111111",
         "secondary": "#cfc493"
@@ -3112,7 +3112,7 @@ window.NHL_DATA = {
         "a": 2,
         "p": 3,
         "pm": -1,
-        "toi": 25.5,
+        "toi": 25.4,
         "shots": 4
       },
       "trajectory": [
@@ -5773,7 +5773,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 3,
         "w": 1,
-        "svpct": 0.891,
+        "svpct": 0.89,
         "gaa": 3.36,
         "so": 0
       },
@@ -6968,7 +6968,7 @@ window.NHL_DATA = {
         "a": 2,
         "p": 2,
         "pm": -3,
-        "toi": 21.9,
+        "toi": 21.7,
         "shots": 6
       },
       "trajectory": [
@@ -9367,7 +9367,7 @@ window.NHL_DATA = {
         "p": 2,
         "pm": 5,
         "toi": 18.4,
-        "shots": 6
+        "shots": 7
       },
       "trajectory": [
         37,
@@ -10163,7 +10163,7 @@ window.NHL_DATA = {
         "p": 2,
         "pm": -2,
         "toi": 17.0,
-        "shots": 10
+        "shots": 9
       },
       "trajectory": [
         37,
@@ -12109,7 +12109,7 @@ window.NHL_DATA = {
         "a": 1,
         "p": 1,
         "pm": 1,
-        "toi": 18.4,
+        "toi": 18.2,
         "shots": 7
       },
       "trajectory": [
@@ -12665,7 +12665,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 3,
         "w": 1,
-        "svpct": 0.857,
+        "svpct": 0.856,
         "gaa": 4.43,
         "so": 0
       },
@@ -13334,6 +13334,37 @@ window.NHL_DATA = {
         40,
         42,
         44,
+        46
+      ]
+    },
+    {
+      "id": 8475311,
+      "first": "Darcy",
+      "last": "Kuemper",
+      "name": "Darcy Kuemper",
+      "pos": "G",
+      "teamCode": "LAK",
+      "age": 36,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#111111",
+        "secondary": "#a2aaad"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8475311.png",
+      "score": 46,
+      "stats": {
+        "gp": 2,
+        "w": 0,
+        "svpct": 0.831,
+        "gaa": 5.11,
+        "so": 0
+      },
+      "trajectory": [
+        50,
+        54,
+        57,
+        60,
         46
       ]
     },
@@ -14788,37 +14819,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8475311,
-      "first": "Darcy",
-      "last": "Kuemper",
-      "name": "Darcy Kuemper",
-      "pos": "G",
-      "teamCode": "LAK",
-      "age": 36,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#111111",
-        "secondary": "#a2aaad"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8475311.png",
-      "score": 44,
-      "stats": {
-        "gp": 2,
-        "w": 0,
-        "svpct": 0.825,
-        "gaa": 5.11,
-        "so": 0
-      },
-      "trajectory": [
-        50,
-        54,
-        57,
-        60,
-        44
-      ]
-    },
-    {
       "id": 8483455,
       "first": "Isaac",
       "last": "Howard",
@@ -15897,7 +15897,7 @@ window.NHL_DATA = {
         "p": 0,
         "pm": -1,
         "toi": 20.7,
-        "shots": 8
+        "shots": 9
       },
       "trajectory": [
         37,
@@ -18898,7 +18898,7 @@ window.NHL_DATA = {
         "p": 0,
         "pm": -2,
         "toi": 14.8,
-        "shots": 4
+        "shots": 3
       },
       "trajectory": [
         37,
@@ -19557,7 +19557,7 @@ window.NHL_DATA = {
         "a": 0,
         "p": 0,
         "pm": 0,
-        "toi": 12.8,
+        "toi": 13.0,
         "shots": 8
       },
       "trajectory": [
@@ -19575,9 +19575,9 @@ window.NHL_DATA = {
       "name": "Alex Bump",
       "pos": "LW",
       "teamCode": "PHI",
-      "age": 22,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#f74902",
         "secondary": "#111111"
@@ -20050,7 +20050,7 @@ window.NHL_DATA = {
         "a": 0,
         "p": 0,
         "pm": 0,
-        "toi": 13.8,
+        "toi": 14.0,
         "shots": 1
       },
       "trajectory": [
@@ -20712,6 +20712,39 @@ window.NHL_DATA = {
         "pm": -1,
         "toi": 12.0,
         "shots": 6
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        39
+      ]
+    },
+    {
+      "id": 8482806,
+      "first": "William",
+      "last": "Trudeau",
+      "name": "William Trudeau",
+      "pos": "D",
+      "teamCode": "NSH",
+      "age": 23,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#ffb81c",
+        "secondary": "#041e42"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NSH/8482806.png",
+      "score": 39,
+      "stats": {
+        "gp": 2,
+        "g": 0,
+        "a": 0,
+        "p": 0,
+        "pm": 0,
+        "toi": 11.4,
+        "shots": 2
       },
       "trajectory": [
         37,
@@ -21834,39 +21867,6 @@ window.NHL_DATA = {
         "pm": 2,
         "toi": 11.4,
         "shots": 0
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        38
-      ]
-    },
-    {
-      "id": 8482806,
-      "first": "William",
-      "last": "Trudeau",
-      "name": "William Trudeau",
-      "pos": "D",
-      "teamCode": "NSH",
-      "age": 23,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#ffb81c",
-        "secondary": "#041e42"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NSH/8482806.png",
-      "score": 38,
-      "stats": {
-        "gp": 2,
-        "g": 0,
-        "a": 0,
-        "p": 0,
-        "pm": 0,
-        "toi": 11.2,
-        "shots": 2
       },
       "trajectory": [
         37,
@@ -32828,10 +32828,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-07 13:36 UTC",
+  "LAST_UPDATE": "2026-10-07 19:04 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-07T13:36:30Z"
+    "standingsDateTimeUtc": "2026-10-07T19:04:00Z"
   }
 };

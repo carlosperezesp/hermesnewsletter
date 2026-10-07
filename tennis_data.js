@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-07 13:39 UTC
+// Auto-generated 2026-10-07 19:06 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-07 13:39 UTC",
+  "UPDATED": "2026-10-07 19:06 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -405,10 +405,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 76.6
     },
@@ -881,7 +881,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Rolex Shanghai Masters",
         "state": "alive",
         "round": "R64",
         "reason": ""
@@ -2278,9 +2278,9 @@ window.TENNIS_DATA = {
       "prevListRank": 67,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 58.4
     },
@@ -2925,7 +2925,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 54.2
@@ -4021,7 +4021,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 48.4
@@ -5389,7 +5389,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 90.2
@@ -6375,7 +6375,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 66.7
@@ -9391,7 +9391,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Samsun Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 40.4
@@ -9497,7 +9497,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Samsun Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 40.1
@@ -11011,15 +11011,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Marin Cilic",
+          "w": "Arthur Fery",
           "w_logo": "",
-          "l": "Arthur Fery",
+          "l": "Marin Cilic",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-2) 6-1",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 58.2,
-          "l_score": 48.3,
+          "w_score": 48.3,
+          "l_score": 58.2,
           "match_score": 58.2
         },
         {
@@ -11359,9 +11359,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ann Li",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.2,
           "l_score": 66.7,
           "match_score": 90.2
@@ -11486,15 +11486,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Dalma Galfi",
+          "w": "Polina Iatcenko",
           "w_logo": "",
-          "l": "Polina Iatcenko",
+          "l": "Dalma Galfi",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 7-6 (8-6)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 40.1,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 40.1,
           "match_score": 40.1
         },
         {
@@ -11516,9 +11516,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Viktoria Hruncakova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 39.0,
           "l_score": null,
           "match_score": 39.0
@@ -11580,6 +11580,7 @@ window.TENNIS_DATA = {
       "Andrey Rublev",
       "Arthur Fery",
       "Arthur Gea",
+      "Ben Shelton",
       "Bernard Tomic",
       "Botic Van De Zandschulp",
       "Brandon Nakashima",
@@ -11596,7 +11597,6 @@ window.TENNIS_DATA = {
       "Frances Tiafoe",
       "Francisco Cerundolo",
       "Hamad Medjedovic",
-      "Holger Rune",
       "Hubert Hurkacz",
       "Ilia Simakin",
       "Jakub Mensik",
@@ -11611,7 +11611,6 @@ window.TENNIS_DATA = {
       "Luca Van Assche",
       "Marcos Giron",
       "Mariano Navone",
-      "Marin Cilic",
       "Martin Landaluce",
       "Matteo Arnaldi",
       "Matteo Berrettini",
@@ -11644,11 +11643,13 @@ window.TENNIS_DATA = {
       "Chak Lam Coleman Wong",
       "Federico Cina",
       "Felix Auger-Aliassime",
+      "Holger Rune",
       "Ignacio Buse",
       "Jaime Faria",
       "Kamil Majchrzak",
       "Learner Tien",
       "Marco Trungelliti",
+      "Marin Cilic",
       "Mattia Bellucci",
       "Michael Zheng",
       "Nikoloz Basilashvili",
@@ -11656,8 +11657,8 @@ window.TENNIS_DATA = {
       "Sho Shimabukuro",
       "Zhang Zhizhen"
     ],
-    "aliveCount": 68,
-    "matchesSeen": 75
+    "aliveCount": 67,
+    "matchesSeen": 77
   },
   "WTA_TOURNAMENT": {
     "name": "China Open · Suzhou Open · Samsun Open",
@@ -11833,7 +11834,7 @@ window.TENNIS_DATA = {
       "Zheng Wushuang"
     ],
     "aliveCount": 82,
-    "matchesSeen": 139
+    "matchesSeen": 141
   },
   "ATP_SCORE_LOG": {
     "206173": [

@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-07 13:39 UTC",
+  "UPDATED": "2026-10-07 19:06 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Japanese motorcycle Grand Prix:Marc Márquez",
@@ -121,6 +121,15 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-09-29"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:KA Maharaj",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "KA Maharaj entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-07"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:William Nylander",
@@ -272,15 +281,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
       "text": "Matthew Knies entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "id": "rank:cricket:ROAD_TO_GLORY.players:in:JC Archer",
-      "sport": "cricket",
-      "detail": "Cricket",
-      "anchor": "cricket-road-to-glory",
-      "text": "JC Archer entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-10-02"
     },
@@ -1036,9 +1036,9 @@ window.GLORY_DATA = {
       "MA Starc",
       "JJ Bumrah",
       "Taijul Islam",
-      "JC Archer",
       "MJ Henry",
       "RA Jadeja",
+      "KA Maharaj",
       "Nauman Ali",
       "JC Tongue",
       "BA Carse",
