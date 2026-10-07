@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-07 11:50 UTC
+// Auto-generated 2026-10-07 13:39 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-07 11:50 UTC",
+  "UPDATED": "2026-10-07 13:39 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -99,7 +99,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 3.4,
       "prevListRank": 3,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Rolex Shanghai Masters",
         "state": "alive",
         "round": "R64",
         "reason": ""
@@ -337,10 +337,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 10,
       "tournamentStatus": {
-        "tournament": "China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 78.3
     },
@@ -3368,9 +3368,9 @@ window.TENNIS_DATA = {
       "prevListRank": 99,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 52.6
     },
@@ -3402,9 +3402,9 @@ window.TENNIS_DATA = {
       "prevListRank": 100,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 51.6
     },
@@ -8871,7 +8871,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Samsun Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 47.1
@@ -9567,7 +9567,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 39.6
@@ -11015,9 +11015,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Arthur Fery",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 58.2,
           "l_score": 48.3,
           "match_score": 58.2
@@ -11372,7 +11372,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alina Charaeva",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-1 2-6 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11460,15 +11460,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Oksana Selekhmeteva",
+          "w": "Fiona Crawley",
           "w_logo": "",
-          "l": "Fiona Crawley",
+          "l": "Oksana Selekhmeteva",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "4-6 6-4 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 47.1,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 47.1,
           "match_score": 47.1
         },
         {
@@ -11490,9 +11490,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Polina Iatcenko",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 40.1,
           "l_score": null,
           "match_score": 40.1
@@ -11607,6 +11607,7 @@ window.TENNIS_DATA = {
       "Juan Manuel Cerundolo",
       "Karen Khachanov",
       "Kimmer Coppejans",
+      "Lorenzo Musetti",
       "Luca Van Assche",
       "Marcos Giron",
       "Mariano Navone",
@@ -11614,8 +11615,6 @@ window.TENNIS_DATA = {
       "Martin Landaluce",
       "Matteo Arnaldi",
       "Matteo Berrettini",
-      "Mattia Bellucci",
-      "Michael Zheng",
       "Miomir Kecmanovic",
       "Nicolas Mejia",
       "Novak Djokovic",
@@ -11650,13 +11649,15 @@ window.TENNIS_DATA = {
       "Kamil Majchrzak",
       "Learner Tien",
       "Marco Trungelliti",
+      "Mattia Bellucci",
+      "Michael Zheng",
       "Nikoloz Basilashvili",
       "Rinky Hijikata",
       "Sho Shimabukuro",
       "Zhang Zhizhen"
     ],
-    "aliveCount": 69,
-    "matchesSeen": 73
+    "aliveCount": 68,
+    "matchesSeen": 75
   },
   "WTA_TOURNAMENT": {
     "name": "China Open · Suzhou Open · Samsun Open",
