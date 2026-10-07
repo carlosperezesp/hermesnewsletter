@@ -4081,7 +4081,7 @@ window.MLB_DATA = {
       "last": "Stott",
       "pos": "2B",
       "teamCode": "PHI",
-      "age": 28,
+      "age": 29,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42417.png",
       "colors": {
         "primary": "#e81828",
@@ -4097,7 +4097,7 @@ window.MLB_DATA = {
         "sb": 27,
         "ops": 0.736
       },
-      "legendScore": 35.9,
+      "legendScore": 36.7,
       "currentScore": 55,
       "battingScore": 55,
       "pitchingScore": null,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-07 00:49 UTC",
+  "LAST_UPDATE": "2026-10-07 11:47 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

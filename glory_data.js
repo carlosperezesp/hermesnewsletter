@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-07 00:51 UTC",
+  "UPDATED": "2026-10-07 11:50 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Japanese motorcycle Grand Prix:Marc Márquez",
@@ -51,13 +51,13 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-23"
     },
     {
-      "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Los Angeles Lakers",
+      "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Minnesota Timberwolves",
       "sport": "nba",
       "detail": "NBA",
       "anchor": "nba-dinastias",
-      "text": "Los Angeles Lakers es nuevo nº1 · dinastías",
+      "text": "Minnesota Timberwolves es nuevo nº1 · dinastías",
       "weight": 92,
-      "firstSeen": "2026-10-06"
+      "firstSeen": "2026-10-07"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.teams:new1:Vegas Golden Knights",
@@ -123,6 +123,33 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-29"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:William Nylander",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "William Nylander entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-07"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Sebastian Aho",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Sebastian Aho entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-07"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Perfetti",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Cole Perfetti entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-07"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
       "sport": "nhl",
       "detail": "NHL",
@@ -137,15 +164,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
       "text": "Jack Eichel entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-06"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Kirill Kaprizov",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Kirill Kaprizov entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-10-06"
     },
@@ -222,15 +240,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-05"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Artemi Panarin",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Artemi Panarin entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-04"
-    },
-    {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Lane Hutson",
       "sport": "nhl",
       "detail": "NHL",
@@ -263,15 +272,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
       "text": "Matthew Knies entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Dylan Guenther",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Dylan Guenther entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-10-02"
     },
@@ -692,23 +692,23 @@ window.GLORY_DATA = {
       "Nathan MacKinnon",
       "Connor McDavid",
       "Leon Draisaitl",
-      "Artemi Panarin",
       "Cale Makar",
       "Jack Eichel",
-      "Kirill Kaprizov",
+      "William Nylander",
       "Kyle Connor",
+      "Sebastian Aho",
       "Brock Nelson"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
       "Colorado Avalanche",
       "Florida Panthers",
-      "Minnesota Wild",
-      "St. Louis Blues",
       "Edmonton Oilers",
+      "Minnesota Wild",
       "New York Rangers",
-      "Boston Bruins",
+      "St. Louis Blues",
       "Carolina Hurricanes",
+      "Boston Bruins",
       "Dallas Stars"
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
@@ -718,10 +718,10 @@ window.GLORY_DATA = {
       "Tim Stützle",
       "Matthew Knies",
       "Ben Kindel",
+      "Owen Power",
       "Lane Hutson",
       "Vasily Podkolzin",
-      "Dylan Guenther",
-      "Owen Power"
+      "Cole Perfetti"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "LeBron James",
@@ -736,13 +736,13 @@ window.GLORY_DATA = {
       "James Harden"
     ],
     "nba:ROAD_TO_GLORY.teams": [
-      "Los Angeles Lakers",
       "Minnesota Timberwolves",
+      "Golden State Warriors",
+      "Denver Nuggets",
+      "Los Angeles Lakers",
       "Oklahoma City Thunder",
       "Boston Celtics",
-      "Denver Nuggets",
       "Milwaukee Bucks",
-      "Golden State Warriors",
       "San Antonio Spurs",
       "New York Knicks",
       "Indiana Pacers"
