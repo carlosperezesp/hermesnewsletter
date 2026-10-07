@@ -1,6 +1,6 @@
 window.RUGBY_DATA = {
   "SEASON": "1871-present",
-  "UPDATED": "2026-10-06 23:50 UTC",
+  "UPDATED": "2026-10-07 00:50 UTC",
   "LAST_MATCH": "2026-09-27",
   "SOURCE": {
     "name": "Men's international rugby results from 1871-2023 + ESPN rugby results",
@@ -89,81 +89,6 @@ window.RUGBY_DATA = {
         "awayScore": 0,
         "venue": "Prince Chichibu Memorial Stadium",
         "city": "Tokyo"
-      },
-      {
-        "date": "2026-09-12",
-        "status": "final",
-        "competition": "International Test Match",
-        "home": {
-          "name": "South Africa",
-          "teamCode": "RSA",
-          "colors": {
-            "primary": "#007a4d",
-            "secondary": "#ffb612"
-          }
-        },
-        "away": {
-          "name": "New Zealand",
-          "teamCode": "NZL",
-          "colors": {
-            "primary": "#111111",
-            "secondary": "#d8d8d8"
-          }
-        },
-        "homeScore": 43,
-        "awayScore": 28,
-        "venue": "M&T Bank Stadium",
-        "city": ""
-      },
-      {
-        "date": "2026-09-12",
-        "status": "final",
-        "competition": "IRB Pacific Nations Cup",
-        "home": {
-          "name": "Fiji",
-          "teamCode": "FIJ",
-          "colors": {
-            "primary": "#6ecff6",
-            "secondary": "#111111"
-          }
-        },
-        "away": {
-          "name": "Canada",
-          "teamCode": "C",
-          "colors": {
-            "primary": "#8a8178",
-            "secondary": "#dedad6"
-          }
-        },
-        "homeScore": 45,
-        "awayScore": 29,
-        "venue": "Hanazono Rugby Stadium",
-        "city": "Osaka"
-      },
-      {
-        "date": "2026-09-12",
-        "status": "final",
-        "competition": "IRB Pacific Nations Cup",
-        "home": {
-          "name": "Japan",
-          "teamCode": "JPN",
-          "colors": {
-            "primary": "#bc002d",
-            "secondary": "#ffffff"
-          }
-        },
-        "away": {
-          "name": "United States",
-          "teamCode": "USA",
-          "colors": {
-            "primary": "#3c3b6e",
-            "secondary": "#b22234"
-          }
-        },
-        "homeScore": 63,
-        "awayScore": 14,
-        "venue": "Hanazono Rugby Stadium",
-        "city": "Osaka"
       }
     ],
     "upcoming": [

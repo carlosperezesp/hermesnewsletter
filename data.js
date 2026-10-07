@@ -2083,7 +2083,7 @@ window.NHL_DATA = {
       "name": "Josh Manson",
       "pos": "D",
       "teamCode": "COL",
-      "age": 34,
+      "age": 35,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -11792,7 +11792,7 @@ window.NHL_DATA = {
       "name": "Maxim Shabanov",
       "pos": "RW",
       "teamCode": "MIN",
-      "age": 25,
+      "age": 26,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
@@ -32380,10 +32380,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-06 23:48 UTC",
+  "LAST_UPDATE": "2026-10-07 00:49 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-06T23:48:15Z"
+    "standingsDateTimeUtc": "2026-10-07T00:49:00Z"
   }
 };
