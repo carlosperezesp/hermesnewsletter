@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-08 13:45 UTC
+// Auto-generated 2026-10-08 19:03 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-08 13:45 UTC",
+  "UPDATED": "2026-10-08 19:03 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -1154,7 +1154,7 @@ window.TENNIS_DATA = {
       "prevListRank": 34,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -1323,10 +1323,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 39,
       "tournamentStatus": {
-        "tournament": "China Open · Rolex Shanghai Masters",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R64",
+        "reason": ""
       },
       "prevActiveScore": 65.2
     },
@@ -3233,7 +3233,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 53.0
@@ -8593,7 +8593,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Samsun Open",
         "state": "alive",
-        "round": "R64",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 49.3
@@ -11021,7 +11021,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Cameron Norrie",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 3-6 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 53.0,
@@ -11444,9 +11444,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Caroline Werner",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 49.3,
           "l_score": null,
           "match_score": 49.3
@@ -11483,7 +11483,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mariam Bolkvadze",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-3",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11529,7 +11529,6 @@ window.TENNIS_DATA = {
       "Botic Van De Zandschulp",
       "Brandon Nakashima",
       "Bu Yunchaokete",
-      "Cameron Norrie",
       "Camilo Ugo Carabelli",
       "Carlos Alcaraz",
       "Casper Ruud",
@@ -11568,6 +11567,7 @@ window.TENNIS_DATA = {
       "Taylor Fritz",
       "Thiago Agustin Tirante",
       "Tomas Machac",
+      "Tomas Martin Etcheverry",
       "Tommy Paul",
       "Ugo Humbert",
       "Valentin Vacherot",
@@ -11580,6 +11580,7 @@ window.TENNIS_DATA = {
     "out": [
       "Aleksandar Kovacevic",
       "Bernard Tomic",
+      "Cameron Norrie",
       "Chak Lam Coleman Wong",
       "Daniel Merida",
       "Fabian Marozsan",
@@ -11611,7 +11612,7 @@ window.TENNIS_DATA = {
       "Zhang Zhizhen"
     ],
     "aliveCount": 65,
-    "matchesSeen": 94
+    "matchesSeen": 95
   },
   "WTA_TOURNAMENT": {
     "name": "China Open · Suzhou Open · Samsun Open",
@@ -11787,7 +11788,7 @@ window.TENNIS_DATA = {
       "Zheng Wushuang"
     ],
     "aliveCount": 82,
-    "matchesSeen": 148
+    "matchesSeen": 149
   },
   "ATP_SCORE_LOG": {
     "206173": [
