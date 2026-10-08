@@ -811,7 +811,7 @@ window.NHL_DATA = {
         89
       ],
       "legendScore": 47.8,
-      "prevRank": 4
+      "prevRank": 3
     },
     {
       "id": 8478403,
@@ -846,7 +846,7 @@ window.NHL_DATA = {
         88
       ],
       "legendScore": 56.7,
-      "prevRank": 5
+      "prevRank": 4
     },
     {
       "id": 8477934,
@@ -881,7 +881,7 @@ window.NHL_DATA = {
         86
       ],
       "legendScore": 63.8,
-      "prevRank": 20
+      "prevRank": 5
     },
     {
       "id": 8484153,
@@ -948,7 +948,7 @@ window.NHL_DATA = {
         60,
         82
       ],
-      "prevRank": 9
+      "prevRank": 7
     },
     {
       "id": 8477946,
@@ -1018,7 +1018,7 @@ window.NHL_DATA = {
         81
       ],
       "legendScore": 50.2,
-      "prevRank": 13
+      "prevRank": 9
     },
     {
       "id": 8482116,
@@ -32515,7 +32515,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 18,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": null
+        "prevRank": 5
       },
       {
         "id": 8479318,
@@ -32534,7 +32534,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 10,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": null
+        "prevRank": 6
       },
       {
         "id": 8480069,
@@ -32553,7 +32553,7 @@ window.NHL_DATA = {
         "cups": 1,
         "seasons": 7,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 5
+        "prevRank": 7
       },
       {
         "id": 8478403,
@@ -32572,7 +32572,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 11,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 6
+        "prevRank": 8
       },
       {
         "id": 8477939,
@@ -32591,7 +32591,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 11,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 7
+        "prevRank": 9
       },
       {
         "id": 8478398,
@@ -32610,7 +32610,7 @@ window.NHL_DATA = {
         "cups": 0,
         "seasons": 10,
         "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 8
+        "prevRank": 10
       }
     ],
     "teams": [
@@ -32828,7 +32828,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.4,
         "note": "Elite current form — needs sustained peak + Cups",
-        "prevRank": 4
+        "prevRank": 3
       },
       {
         "id": 8482720,
@@ -32846,7 +32846,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.8,
         "note": "Among the best players of their generation",
-        "prevRank": 5
+        "prevRank": 4
       },
       {
         "id": 8484762,
@@ -32864,7 +32864,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 32.9,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": null
+        "prevRank": 5
       },
       {
         "id": 8482671,
@@ -32882,7 +32882,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 33.9,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 7
+        "prevRank": 6
       },
       {
         "id": 8485414,
@@ -32900,7 +32900,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 34.6,
         "note": "Promising young talent — long road ahead",
-        "prevRank": 6
+        "prevRank": 7
       },
       {
         "id": 8483457,
@@ -32936,7 +32936,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 36.3,
         "note": "Promising young talent — long road ahead",
-        "prevRank": 3
+        "prevRank": 9
       },
       {
         "id": 8481617,
@@ -32954,7 +32954,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 37.2,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 9
+        "prevRank": 10
       }
     ]
   },
@@ -33003,10 +33003,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-08 12:02 UTC",
+  "LAST_UPDATE": "2026-10-08 13:43 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-08T12:01:45Z"
+    "standingsDateTimeUtc": "2026-10-08T13:42:45Z"
   }
 };

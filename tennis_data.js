@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-08 12:06 UTC
+// Auto-generated 2026-10-08 13:45 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-08 12:06 UTC",
+  "UPDATED": "2026-10-08 13:45 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -949,9 +949,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 28,
       "tournamentStatus": {
-        "tournament": "China Open",
-        "state": "out",
-        "round": "R128",
+        "tournament": "Rolex Shanghai Masters",
+        "state": "alive",
+        "round": "R64",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 68.3
@@ -1837,7 +1837,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 61.6
@@ -2040,9 +2040,9 @@ window.TENNIS_DATA = {
       "prevListRank": 60,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 59.7
     },
@@ -5253,7 +5253,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 91.9
@@ -6307,7 +6307,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 67.6
@@ -6443,7 +6443,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 65.2
@@ -11017,15 +11017,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Cameron Norrie",
+          "w": "Dalibor Svrcina",
           "w_logo": "",
-          "l": "Dalibor Svrcina",
+          "l": "Cameron Norrie",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 66.1,
-          "l_score": 53.0,
+          "scheduled": false,
+          "w_score": 53.0,
+          "l_score": 66.1,
           "match_score": 66.1
         },
         {
@@ -11352,7 +11352,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ekaterina Alexandrova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-4) 7-6 (7-3)",
           "day": "hoy",
           "scheduled": false,
           "w_score": 91.9,
@@ -11483,9 +11483,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mariam Bolkvadze",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11541,6 +11541,7 @@ window.TENNIS_DATA = {
       "Frances Tiafoe",
       "Francisco Cerundolo",
       "Hubert Hurkacz",
+      "Ignacio Buse",
       "Jakub Mensik",
       "Jan-Lennard Struff",
       "Jenson Brooksby",
@@ -11570,7 +11571,6 @@ window.TENNIS_DATA = {
       "Tommy Paul",
       "Ugo Humbert",
       "Valentin Vacherot",
-      "Vit Kopriva",
       "Wu Yibing",
       "Yannick Hanfmann",
       "Zachary Svajda",
@@ -11587,7 +11587,6 @@ window.TENNIS_DATA = {
       "Federico Cina",
       "Hamad Medjedovic",
       "Holger Rune",
-      "Ignacio Buse",
       "Ilia Simakin",
       "Jaime Faria",
       "James Duckworth",
@@ -11608,10 +11607,11 @@ window.TENNIS_DATA = {
       "Sho Shimabukuro",
       "Tallon Griekspoor",
       "Valentin Royer",
+      "Vit Kopriva",
       "Zhang Zhizhen"
     ],
     "aliveCount": 65,
-    "matchesSeen": 93
+    "matchesSeen": 94
   },
   "WTA_TOURNAMENT": {
     "name": "China Open · Suzhou Open · Samsun Open",
@@ -11787,7 +11787,7 @@ window.TENNIS_DATA = {
       "Zheng Wushuang"
     ],
     "aliveCount": 82,
-    "matchesSeen": 147
+    "matchesSeen": 148
   },
   "ATP_SCORE_LOG": {
     "206173": [

@@ -958,7 +958,7 @@ window.NBA_DATA = {
           "primary": "#002d62",
           "secondary": "#fdbb30"
         },
-        "prevRank": 10
+        "prevRank": 1
       },
       {
         "teamCode": "DEN",
@@ -974,7 +974,7 @@ window.NBA_DATA = {
           "primary": "#0e2240",
           "secondary": "#fec524"
         },
-        "prevRank": 3
+        "prevRank": 2
       },
       {
         "teamCode": "LAL",
@@ -990,7 +990,7 @@ window.NBA_DATA = {
           "primary": "#552583",
           "secondary": "#fdb927"
         },
-        "prevRank": 4
+        "prevRank": 3
       },
       {
         "teamCode": "GS",
@@ -1006,7 +1006,7 @@ window.NBA_DATA = {
           "primary": "#1d428a",
           "secondary": "#ffc72c"
         },
-        "prevRank": 2
+        "prevRank": 4
       },
       {
         "teamCode": "MIN",
@@ -1022,7 +1022,7 @@ window.NBA_DATA = {
           "primary": "#0c2340",
           "secondary": "#236192"
         },
-        "prevRank": 1
+        "prevRank": 5
       },
       {
         "teamCode": "MIL",
@@ -1038,7 +1038,7 @@ window.NBA_DATA = {
           "primary": "#00471b",
           "secondary": "#eee1c6"
         },
-        "prevRank": 7
+        "prevRank": 6
       },
       {
         "teamCode": "OKC",
@@ -1054,7 +1054,7 @@ window.NBA_DATA = {
           "primary": "#007ac1",
           "secondary": "#ef3b24"
         },
-        "prevRank": 5
+        "prevRank": 7
       },
       {
         "teamCode": "BOS",
@@ -1070,7 +1070,7 @@ window.NBA_DATA = {
           "primary": "#007a33",
           "secondary": "#ba9653"
         },
-        "prevRank": 6
+        "prevRank": 8
       },
       {
         "teamCode": "SA",
@@ -1086,7 +1086,7 @@ window.NBA_DATA = {
           "primary": "#c4ced4",
           "secondary": "#000000"
         },
-        "prevRank": 8
+        "prevRank": 9
       },
       {
         "teamCode": "NY",
@@ -1102,7 +1102,7 @@ window.NBA_DATA = {
           "primary": "#006bb6",
           "secondary": "#f58426"
         },
-        "prevRank": 9
+        "prevRank": 10
       }
     ],
     "youngProspects": []
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-08 12:02 UTC",
+  "LAST_UPDATE": "2026-10-08 13:43 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
