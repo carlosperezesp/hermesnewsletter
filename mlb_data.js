@@ -1289,7 +1289,7 @@ window.MLB_DATA = {
       "last": "Goodman",
       "pos": "C",
       "teamCode": "COL",
-      "age": 26,
+      "age": 27,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4416591.png",
       "colors": {
         "primary": "#333366",
@@ -1305,7 +1305,7 @@ window.MLB_DATA = {
         "sb": 5,
         "ops": 0.839
       },
-      "legendScore": 45.7,
+      "legendScore": 46.5,
       "currentScore": 76,
       "battingScore": 76,
       "pitchingScore": null,
@@ -3781,7 +3781,7 @@ window.MLB_DATA = {
       "last": "Betts",
       "pos": "SS",
       "teamCode": "LAD",
-      "age": 33,
+      "age": 34,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33039.png",
       "colors": {
         "primary": "#005a9c",
@@ -6454,7 +6454,7 @@ window.MLB_DATA = {
           "primary": "#005a9c",
           "secondary": "#ef3e42"
         },
-        "age": 33,
+        "age": 34,
         "careerScore": 82.0,
         "legendScore": 82.0,
         "currentScore": 57,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-08 01:04 UTC",
+  "LAST_UPDATE": "2026-10-08 12:02 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

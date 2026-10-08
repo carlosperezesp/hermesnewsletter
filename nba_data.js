@@ -68,18 +68,38 @@ window.NBA_DATA = {
       "shortName": "Golden State",
       "commonName": "Warriors",
       "conf": "W",
-      "gp": 2,
+      "gp": 3,
       "w": 1,
-      "l": 1,
-      "winPct": 0.5,
-      "gf": 225,
-      "ga": 202,
-      "gd": 23,
-      "score": 62,
+      "l": 2,
+      "winPct": 0.333,
+      "gf": 343,
+      "ga": 325,
+      "gd": 18,
+      "score": 38,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
       "colors": {
         "primary": "#1d428a",
         "secondary": "#ffc72c"
+      }
+    },
+    {
+      "code": "IND",
+      "city": "Indiana Pacers",
+      "shortName": "Indiana",
+      "commonName": "Pacers",
+      "conf": "E",
+      "gp": 1,
+      "w": 1,
+      "l": 0,
+      "winPct": 1.0,
+      "gf": 123,
+      "ga": 112,
+      "gd": 11,
+      "score": 100,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+      "colors": {
+        "primary": "#002d62",
+        "secondary": "#fdbb30"
       }
     },
     {
@@ -88,14 +108,14 @@ window.NBA_DATA = {
       "shortName": "Minnesota",
       "commonName": "Timberwolves",
       "conf": "W",
-      "gp": 1,
+      "gp": 2,
       "w": 1,
-      "l": 0,
-      "winPct": 1.0,
-      "gf": 116,
-      "ga": 97,
-      "gd": 19,
-      "score": 100,
+      "l": 1,
+      "winPct": 0.5,
+      "gf": 228,
+      "ga": 220,
+      "gd": 8,
+      "score": 48,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
       "colors": {
         "primary": "#0c2340",
@@ -103,23 +123,23 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "MEM",
-      "city": "Memphis Grizzlies",
-      "shortName": "Memphis",
-      "commonName": "Grizzlies",
-      "conf": "W",
+      "code": "CHI",
+      "city": "Chicago Bulls",
+      "shortName": "Chicago",
+      "commonName": "Bulls",
+      "conf": "E",
       "gp": 1,
       "w": 1,
       "l": 0,
       "winPct": 1.0,
-      "gf": 132,
-      "ga": 123,
-      "gd": 9,
-      "score": 98,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+      "gf": 124,
+      "ga": 117,
+      "gd": 7,
+      "score": 95,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
       "colors": {
-        "primary": "#5d76a9",
-        "secondary": "#12173f"
+        "primary": "#ce1141",
+        "secondary": "#000000"
       }
     },
     {
@@ -140,6 +160,66 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#0c2340",
         "secondary": "#85714d"
+      }
+    },
+    {
+      "code": "MEM",
+      "city": "Memphis Grizzlies",
+      "shortName": "Memphis",
+      "commonName": "Grizzlies",
+      "conf": "W",
+      "gp": 2,
+      "w": 1,
+      "l": 1,
+      "winPct": 0.5,
+      "gf": 250,
+      "ga": 245,
+      "gd": 5,
+      "score": 46,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+      "colors": {
+        "primary": "#5d76a9",
+        "secondary": "#12173f"
+      }
+    },
+    {
+      "code": "POR",
+      "city": "Portland Trail Blazers",
+      "shortName": "Portland",
+      "commonName": "Trail Blazers",
+      "conf": "W",
+      "gp": 1,
+      "w": 1,
+      "l": 0,
+      "winPct": 1.0,
+      "gf": 123,
+      "ga": 118,
+      "gd": 5,
+      "score": 91,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+      "colors": {
+        "primary": "#e03a3e",
+        "secondary": "#000000"
+      }
+    },
+    {
+      "code": "ORL",
+      "city": "Orlando Magic",
+      "shortName": "Orlando",
+      "commonName": "Magic",
+      "conf": "E",
+      "gp": 1,
+      "w": 1,
+      "l": 0,
+      "winPct": 1.0,
+      "gf": 122,
+      "ga": 118,
+      "gd": 4,
+      "score": 89,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+      "colors": {
+        "primary": "#0077c0",
+        "secondary": "#c4ced4"
       }
     },
     {
@@ -243,6 +323,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "MIL",
+      "city": "Milwaukee Bucks",
+      "shortName": "Milwaukee",
+      "commonName": "Bucks",
+      "conf": "E",
+      "gp": 2,
+      "w": 1,
+      "l": 1,
+      "winPct": 0.5,
+      "gf": 225,
+      "ga": 242,
+      "gd": -17,
+      "score": 26,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+      "colors": {
+        "primary": "#00471b",
+        "secondary": "#eee1c6"
+      }
+    },
+    {
       "code": "BOS",
       "city": "Boston Celtics",
       "shortName": "Boston",
@@ -263,26 +363,6 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "CHI",
-      "city": "Chicago Bulls",
-      "shortName": "Chicago",
-      "commonName": "Bulls",
-      "conf": "E",
-      "gp": 0,
-      "w": 0,
-      "l": 0,
-      "winPct": 0.0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "score": 0,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
-      "colors": {
-        "primary": "#ce1141",
-        "secondary": "#000000"
-      }
-    },
-    {
       "code": "CLE",
       "city": "Cleveland Cavaliers",
       "shortName": "Cleveland",
@@ -300,46 +380,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#860038",
         "secondary": "#fdbb30"
-      }
-    },
-    {
-      "code": "IND",
-      "city": "Indiana Pacers",
-      "shortName": "Indiana",
-      "commonName": "Pacers",
-      "conf": "E",
-      "gp": 0,
-      "w": 0,
-      "l": 0,
-      "winPct": 0.0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "score": 0,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
-      "colors": {
-        "primary": "#002d62",
-        "secondary": "#fdbb30"
-      }
-    },
-    {
-      "code": "ORL",
-      "city": "Orlando Magic",
-      "shortName": "Orlando",
-      "commonName": "Magic",
-      "conf": "E",
-      "gp": 0,
-      "w": 0,
-      "l": 0,
-      "winPct": 0.0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "score": 0,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
-      "colors": {
-        "primary": "#0077c0",
-        "secondary": "#c4ced4"
       }
     },
     {
@@ -403,26 +443,6 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "POR",
-      "city": "Portland Trail Blazers",
-      "shortName": "Portland",
-      "commonName": "Trail Blazers",
-      "conf": "W",
-      "gp": 0,
-      "w": 0,
-      "l": 0,
-      "winPct": 0.0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "score": 0,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
-      "colors": {
-        "primary": "#e03a3e",
-        "secondary": "#000000"
-      }
-    },
-    {
       "code": "SA",
       "city": "San Antonio Spurs",
       "shortName": "San Antonio",
@@ -443,38 +463,18 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "PHX",
-      "city": "Phoenix Suns",
-      "shortName": "Phoenix",
-      "commonName": "Suns",
-      "conf": "W",
-      "gp": 1,
-      "w": 0,
-      "l": 1,
-      "winPct": 0.0,
-      "gf": 107,
-      "ga": 109,
-      "gd": -2,
-      "score": 0,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
-      "colors": {
-        "primary": "#1d1160",
-        "secondary": "#e56020"
-      }
-    },
-    {
       "code": "OKC",
       "city": "Oklahoma City Thunder",
       "shortName": "Oklahoma City",
       "commonName": "Thunder",
       "conf": "W",
-      "gp": 1,
+      "gp": 2,
       "w": 0,
-      "l": 1,
+      "l": 2,
       "winPct": 0.0,
-      "gf": 110,
-      "ga": 116,
-      "gd": -6,
+      "gf": 236,
+      "ga": 244,
+      "gd": -8,
       "score": 0,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
       "colors": {
@@ -503,23 +503,23 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "MIL",
-      "city": "Milwaukee Bucks",
-      "shortName": "Milwaukee",
-      "commonName": "Bucks",
-      "conf": "E",
-      "gp": 1,
+      "code": "PHX",
+      "city": "Phoenix Suns",
+      "shortName": "Phoenix",
+      "commonName": "Suns",
+      "conf": "W",
+      "gp": 2,
       "w": 0,
-      "l": 1,
+      "l": 2,
       "winPct": 0.0,
-      "gf": 97,
-      "ga": 116,
-      "gd": -19,
+      "gf": 224,
+      "ga": 233,
+      "gd": -9,
       "score": 0,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
       "colors": {
-        "primary": "#00471b",
-        "secondary": "#eee1c6"
+        "primary": "#1d1160",
+        "secondary": "#e56020"
       }
     },
     {
@@ -945,36 +945,20 @@ window.NBA_DATA = {
     "players": [],
     "teams": [
       {
-        "teamCode": "MIN",
-        "city": "Minnesota Timberwolves",
-        "era": "2022–present",
+        "teamCode": "IND",
+        "city": "Indiana Pacers",
+        "era": "2024–present",
         "rings": 0,
         "dynastyScore": 65.0,
         "threshold": 89.4,
         "gap": 24.4,
-        "note": "2025 Western Conference Finals · Edwards era",
+        "note": "2025 NBA Finals · Haliburton era",
         "needs": "Needs at least one title + sustained dominance",
         "colors": {
-          "primary": "#0c2340",
-          "secondary": "#236192"
+          "primary": "#002d62",
+          "secondary": "#fdbb30"
         },
-        "prevRank": 1
-      },
-      {
-        "teamCode": "GS",
-        "city": "Golden State Warriors",
-        "era": "2021–present",
-        "rings": 1,
-        "dynastyScore": 56.1,
-        "threshold": 89.4,
-        "gap": 33.3,
-        "note": "2022 Champions · Curry's final dynasty chapter",
-        "needs": "2–3 more titles + another dominant era needed",
-        "colors": {
-          "primary": "#1d428a",
-          "secondary": "#ffc72c"
-        },
-        "prevRank": 2
+        "prevRank": 10
       },
       {
         "teamCode": "DEN",
@@ -1009,6 +993,54 @@ window.NBA_DATA = {
         "prevRank": 4
       },
       {
+        "teamCode": "GS",
+        "city": "Golden State Warriors",
+        "era": "2021–present",
+        "rings": 1,
+        "dynastyScore": 42.9,
+        "threshold": 89.4,
+        "gap": 46.5,
+        "note": "2022 Champions · Curry's final dynasty chapter",
+        "needs": "2–3 more titles + another dominant era needed",
+        "colors": {
+          "primary": "#1d428a",
+          "secondary": "#ffc72c"
+        },
+        "prevRank": 2
+      },
+      {
+        "teamCode": "MIN",
+        "city": "Minnesota Timberwolves",
+        "era": "2022–present",
+        "rings": 0,
+        "dynastyScore": 36.4,
+        "threshold": 89.4,
+        "gap": 53.0,
+        "note": "2025 Western Conference Finals · Edwards era",
+        "needs": "Needs at least one title + sustained dominance",
+        "colors": {
+          "primary": "#0c2340",
+          "secondary": "#236192"
+        },
+        "prevRank": 1
+      },
+      {
+        "teamCode": "MIL",
+        "city": "Milwaukee Bucks",
+        "era": "2019–present",
+        "rings": 1,
+        "dynastyScore": 36.3,
+        "threshold": 89.4,
+        "gap": 53.1,
+        "note": "2021 Champions · Giannis 2× MVP era",
+        "needs": "2–3 more titles + another dominant era needed",
+        "colors": {
+          "primary": "#00471b",
+          "secondary": "#eee1c6"
+        },
+        "prevRank": 7
+      },
+      {
         "teamCode": "OKC",
         "city": "Oklahoma City Thunder",
         "era": "2023–present",
@@ -1041,22 +1073,6 @@ window.NBA_DATA = {
         "prevRank": 6
       },
       {
-        "teamCode": "MIL",
-        "city": "Milwaukee Bucks",
-        "era": "2019–present",
-        "rings": 1,
-        "dynastyScore": 22.0,
-        "threshold": 89.4,
-        "gap": 67.4,
-        "note": "2021 Champions · Giannis 2× MVP era",
-        "needs": "2–3 more titles + another dominant era needed",
-        "colors": {
-          "primary": "#00471b",
-          "secondary": "#eee1c6"
-        },
-        "prevRank": 7
-      },
-      {
         "teamCode": "SA",
         "city": "San Antonio Spurs",
         "era": "2023–present",
@@ -1087,22 +1103,6 @@ window.NBA_DATA = {
           "secondary": "#f58426"
         },
         "prevRank": 9
-      },
-      {
-        "teamCode": "IND",
-        "city": "Indiana Pacers",
-        "era": "2024–present",
-        "rings": 0,
-        "dynastyScore": 10.0,
-        "threshold": 89.4,
-        "gap": 79.4,
-        "note": "2025 NBA Finals · Haliburton era",
-        "needs": "Needs at least one title + sustained dominance",
-        "colors": {
-          "primary": "#002d62",
-          "secondary": "#fdbb30"
-        },
-        "prevRank": 10
       }
     ],
     "youngProspects": []
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-08 01:04 UTC",
+  "LAST_UPDATE": "2026-10-08 12:02 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
