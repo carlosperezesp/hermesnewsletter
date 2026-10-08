@@ -7121,7 +7121,7 @@ window.NHL_DATA = {
       "name": "Alexandre Carrier",
       "pos": "D",
       "teamCode": "MTL",
-      "age": 29,
+      "age": 30,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -11303,7 +11303,7 @@ window.NHL_DATA = {
       "name": "Timo Meier",
       "pos": "RW",
       "teamCode": "NJD",
-      "age": 29,
+      "age": 30,
       "country": "Switzerland",
       "birthCountry": "CHE",
       "colors": {
@@ -32828,10 +32828,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-07 19:29 UTC",
+  "LAST_UPDATE": "2026-10-08 00:12 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-07T19:29:00Z"
+    "standingsDateTimeUtc": "2026-10-08T00:12:00Z"
   }
 };

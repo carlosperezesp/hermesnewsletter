@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-07 19:31 UTC",
+  "UPDATED": "2026-10-08 00:14 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Japanese motorcycle Grand Prix:Marc Márquez",
@@ -41,14 +41,6 @@ window.GLORY_DATA = {
       "text": "Ryan Blaney ganó en Echopark Speedway",
       "weight": 100,
       "firstSeen": "2026-09-26"
-    },
-    {
-      "id": "motogp:win:Austrian motorcycle Grand Prix:Pedro Acosta",
-      "sport": "motogp",
-      "detail": "MotoGP",
-      "text": "Pedro Acosta ganó el Austrian motorcycle Grand Prix",
-      "weight": 100,
-      "firstSeen": "2026-09-23"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Minnesota Timberwolves",
@@ -94,15 +86,6 @@ window.GLORY_DATA = {
       "text": "Bryce Young es nuevo nº1 · jóvenes promesas",
       "weight": 92,
       "firstSeen": "2026-10-01"
-    },
-    {
-      "id": "rank:cycling:CURRENT_PROSPECTS:new1:Paul Seixas",
-      "sport": "cycling",
-      "detail": "Ciclismo",
-      "anchor": "cycling-promesas",
-      "text": "Paul Seixas es nuevo nº1 · promesas",
-      "weight": 92,
-      "firstSeen": "2026-09-23"
     },
     {
       "id": "tennis:in:ATP:Novak Djokovic:20261001",
@@ -636,38 +619,7 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-25"
     }
   ],
-  "REPORTS": [
-    {
-      "id": "sumo:basho:202609",
-      "sport": "sumo",
-      "competition": "Sumo",
-      "champion": "Onosato conquista el basho",
-      "scopeLabel": "Cabeza del banzuke",
-      "top5": [
-        {
-          "name": "Onosato",
-          "sub": "Yokozuna 1 East"
-        },
-        {
-          "name": "Hoshoryu",
-          "sub": "Yokozuna 1 West"
-        },
-        {
-          "name": "Kirishima",
-          "sub": "Ozeki 1 East"
-        },
-        {
-          "name": "Kotozakura",
-          "sub": "Ozeki 1 West"
-        },
-        {
-          "name": "Aonishiki",
-          "sub": "Ozeki 2 East"
-        }
-      ],
-      "firstSeen": "2026-09-27"
-    }
-  ],
+  "REPORTS": [],
   "REPORT_SEEN": [
     {
       "id": "sumo:basho:202609",
