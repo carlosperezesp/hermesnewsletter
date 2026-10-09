@@ -1,5 +1,5 @@
 window.INDYCAR_DATA = {
-  "UPDATED": "2026-10-08 19:24 UTC",
+  "UPDATED": "2026-10-09 00:24 UTC",
   "SEASON": 2026,
   "ROUND": 18,
   "TOTAL_ROUNDS": 19,
@@ -300,7 +300,7 @@ window.INDYCAR_DATA = {
       "points": 327.0,
       "score": 31.9,
       "legendScore": 0.0,
-      "age": 21,
+      "age": 22,
       "prevRank": 13,
       "stats": {
         "pts": 327.0
@@ -783,8 +783,8 @@ window.INDYCAR_DATA = {
       },
       "score": 31.9,
       "position": 13,
-      "age": 21,
-      "note": "Irrumpe a los 21 (P13)"
+      "age": 22,
+      "note": "Irrumpe a los 22 (P13)"
     },
     {
       "id": "5842",
