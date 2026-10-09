@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-09 11:57 UTC
+// Auto-generated 2026-10-09 13:32 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-09 11:57 UTC",
+  "UPDATED": "2026-10-09 13:32 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -883,7 +883,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 69.6
@@ -3711,7 +3711,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 50.7
@@ -4021,7 +4021,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 48.4
@@ -5355,7 +5355,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 90.3
@@ -5797,7 +5797,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 76.7
@@ -11034,9 +11034,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Zhou Yi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 78.3,
           "l_score": null,
           "match_score": 78.3
@@ -11095,15 +11095,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Alexander Bublik",
+          "w": "Tomas Machac",
           "w_logo": "",
-          "l": "Tomas Machac",
+          "l": "Alexander Bublik",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 74.8,
-          "l_score": 64.4,
+          "scheduled": false,
+          "w_score": 64.4,
+          "l_score": 74.8,
           "match_score": 74.8
         }
       ]
@@ -11270,15 +11270,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Quarterfinal",
-          "w": "Iga Swiatek",
+          "w": "Elise Mertens",
           "w_logo": "",
-          "l": "Elise Mertens",
+          "l": "Iga Swiatek",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-0) 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 90.3,
-          "l_score": 76.7,
+          "w_score": 76.7,
+          "l_score": 90.3,
           "match_score": 90.3
         },
         {
@@ -11534,7 +11534,7 @@ window.TENNIS_DATA = {
       "Zhang Zhizhen"
     ],
     "aliveCount": 62,
-    "matchesSeen": 100
+    "matchesSeen": 101
   },
   "WTA_TOURNAMENT": {
     "name": "China Open · Suzhou Open · Samsun Open · Dongfeng Voyah Wuhan Open",
@@ -11715,7 +11715,7 @@ window.TENNIS_DATA = {
       "Zheng Wushuang"
     ],
     "aliveCount": 82,
-    "matchesSeen": 151
+    "matchesSeen": 152
   },
   "ATP_SCORE_LOG": {
     "206173": [
