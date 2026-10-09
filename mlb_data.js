@@ -3841,7 +3841,7 @@ window.MLB_DATA = {
       "last": "DeLauter",
       "pos": "RF",
       "teamCode": "CLE",
-      "age": 24,
+      "age": 25,
       "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4619649.png",
       "colors": {
         "primary": "#e31937",
@@ -3857,7 +3857,7 @@ window.MLB_DATA = {
         "sb": 11,
         "ops": 0.82
       },
-      "legendScore": 33.1,
+      "legendScore": 33.9,
       "currentScore": 56,
       "battingScore": 56,
       "pitchingScore": null,
@@ -6997,7 +6997,7 @@ window.MLB_DATA = {
   },
   "SEASON": "2026",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-09 01:16 UTC",
+  "LAST_UPDATE": "2026-10-09 11:54 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
