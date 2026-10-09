@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-09 18:33 UTC
+// Auto-generated 2026-10-09 19:00 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-09 18:33 UTC",
+  "UPDATED": "2026-10-09 19:00 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8593,7 +8593,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Samsun Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 49.3
@@ -9391,7 +9391,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Samsun Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 40.4
@@ -11366,7 +11366,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Bianca Andreescu",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": 49.3,
@@ -11715,7 +11715,7 @@ window.TENNIS_DATA = {
       "Zheng Wushuang"
     ],
     "aliveCount": 82,
-    "matchesSeen": 153
+    "matchesSeen": 154
   },
   "ATP_SCORE_LOG": {
     "206173": [
