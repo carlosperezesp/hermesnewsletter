@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-09 13:29 UTC
+// Auto-generated 2026-10-09 18:31 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-10-09 13:29 UTC",
+  "UPDATED": "2026-10-09 18:31 UTC",
   "SEASON": "2026",
   "ROUND": 15,
   "TOTAL_ROUNDS": 25,
@@ -22,7 +22,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 320.0,
-      "lastWeekendPoints": 18.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 51.2,
       "stats": {
@@ -72,7 +72,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 214.0,
-      "lastWeekendPoints": 15.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 34.2,
       "stats": {
@@ -97,7 +97,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 191.0,
-      "lastWeekendPoints": 12.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 30.6,
       "stats": {
@@ -122,7 +122,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 188.0,
-      "lastWeekendPoints": 2.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 30.1,
       "stats": {
@@ -147,7 +147,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 188.0,
-      "lastWeekendPoints": 25.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 30.1,
       "stats": {
@@ -172,7 +172,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 128.0,
-      "lastWeekendPoints": 8.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 20.5,
       "stats": {
@@ -197,7 +197,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 96.0,
-      "lastWeekendPoints": 10.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 15.4,
       "stats": {
@@ -222,7 +222,7 @@ window.F1_DATA = {
       },
       "team": "",
       "points": 65.0,
-      "lastWeekendPoints": 6.0,
+      "lastWeekendPoints": 0.0,
       "wins": 0,
       "score": 10.4,
       "stats": {
@@ -555,9 +555,9 @@ window.F1_DATA = {
     }
   ],
   "LAST_WEEKEND": {
-    "id": "600060990",
-    "name": "Gulf Air Bahrain Grand Prix in Malaysia",
-    "label": "MYS",
+    "id": "600057445",
+    "name": "Singapore Airlines Singapore Grand Prix",
+    "label": "SGP",
     "includesSprint": false
   },
   "LAST_RACE": {

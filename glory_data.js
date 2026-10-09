@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-09 13:32 UTC",
+  "UPDATED": "2026-10-09 18:33 UTC",
   "EVENTS": [
     {
       "id": "motogp:win:Japanese motorcycle Grand Prix:Marc Márquez",

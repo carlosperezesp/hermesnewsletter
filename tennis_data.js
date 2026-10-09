@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-09 13:32 UTC
+// Auto-generated 2026-10-09 18:33 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-09 13:32 UTC",
+  "UPDATED": "2026-10-09 18:33 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -338,9 +338,9 @@ window.TENNIS_DATA = {
       "prevListRank": 10,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 78.3
     },
@@ -679,7 +679,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 75.0
@@ -917,7 +917,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 69.2
@@ -1019,7 +1019,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 66.4
@@ -1427,7 +1427,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 64.4
@@ -9081,7 +9081,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Samsun Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 44.3
@@ -9709,7 +9709,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Samsun Open",
         "state": "alive",
-        "round": "Quarterfinal",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 39.0
@@ -11030,15 +11030,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Lorenzo Musetti",
+          "w": "Zhou Yi",
           "w_logo": "",
-          "l": "Zhou Yi",
+          "l": "Lorenzo Musetti",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (9-7) 3-6 7-6 (7-1)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 78.3,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 78.3,
           "match_score": 78.3
         },
         {
@@ -11095,15 +11095,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R64",
-          "w": "Tomas Machac",
+          "w": "Alexander Bublik",
           "w_logo": "",
-          "l": "Alexander Bublik",
+          "l": "Tomas Machac",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 7-6 (7-4)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 64.4,
-          "l_score": 74.8,
+          "w_score": 74.8,
+          "l_score": 64.4,
           "match_score": 74.8
         }
       ]
@@ -11366,37 +11366,37 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Bianca Andreescu",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 49.3,
           "l_score": null,
           "match_score": 49.3
         },
         {
           "round": "Quarterfinal",
-          "w": "Simona Waltert",
+          "w": "Himeno Sakatsume",
           "w_logo": "",
-          "l": "Himeno Sakatsume",
+          "l": "Simona Waltert",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "5-7 6-4 6-0",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 44.3,
-          "l_score": 39.0,
+          "scheduled": false,
+          "w_score": 39.0,
+          "l_score": 44.3,
           "match_score": 44.3
         },
         {
           "round": "Quarterfinal",
-          "w": "Polina Iatcenko",
+          "w": "Lucrezia Stefanini",
           "w_logo": "",
-          "l": "Lucrezia Stefanini",
+          "l": "Polina Iatcenko",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 7-5",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 40.4,
+          "w_score": 40.4,
+          "l_score": null,
           "match_score": 40.4
         },
         {
@@ -11468,7 +11468,6 @@ window.TENNIS_DATA = {
       "Juan Manuel Cerundolo",
       "Karen Khachanov",
       "Learner Tien",
-      "Lorenzo Musetti",
       "Luciano Darderi",
       "Matteo Arnaldi",
       "Matteo Berrettini",
@@ -11515,6 +11514,7 @@ window.TENNIS_DATA = {
       "Jaume Munar",
       "Kamil Majchrzak",
       "Kimmer Coppejans",
+      "Lorenzo Musetti",
       "Luca Van Assche",
       "Marco Trungelliti",
       "Marcos Giron",
@@ -11533,8 +11533,8 @@ window.TENNIS_DATA = {
       "Vit Kopriva",
       "Zhang Zhizhen"
     ],
-    "aliveCount": 62,
-    "matchesSeen": 101
+    "aliveCount": 61,
+    "matchesSeen": 103
   },
   "WTA_TOURNAMENT": {
     "name": "China Open · Suzhou Open · Samsun Open · Dongfeng Voyah Wuhan Open",
@@ -11715,7 +11715,7 @@ window.TENNIS_DATA = {
       "Zheng Wushuang"
     ],
     "aliveCount": 82,
-    "matchesSeen": 152
+    "matchesSeen": 153
   },
   "ATP_SCORE_LOG": {
     "206173": [
