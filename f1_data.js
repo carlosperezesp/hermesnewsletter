@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-09 18:58 UTC
+// Auto-generated 2026-10-10 00:03 UTC
 window.F1_DATA = {
-  "UPDATED": "2026-10-09 18:58 UTC",
+  "UPDATED": "2026-10-10 00:03 UTC",
   "SEASON": "2026",
   "ROUND": 15,
   "TOTAL_ROUNDS": 25,
@@ -561,32 +561,32 @@ window.F1_DATA = {
     "includesSprint": false
   },
   "LAST_RACE": {
-    "name": "Gulf Air Bahrain Grand Prix in Malaysia",
-    "date": "2026-10-02",
-    "circuit": "Sepang International Circuit",
+    "name": "Singapore Airlines Singapore Grand Prix",
+    "date": "2026-10-09",
+    "circuit": "Marina Bay Street Circuit",
     "round": 0,
     "state": "post",
     "podium": [
       {
         "position": 1,
-        "name": "Max Verstappen",
-        "team": "red_bull",
-        "time": "",
-        "primary": "#3671C6"
-      },
-      {
-        "position": 2,
         "name": "George Russell",
         "team": "mercedes",
         "time": "",
         "primary": "#00D2BE"
       },
       {
-        "position": 3,
-        "name": "Isack Hadjar",
-        "team": "rb",
+        "position": 2,
+        "name": "Charles Leclerc",
+        "team": "ferrari",
         "time": "",
-        "primary": "#6692FF"
+        "primary": "#E8002D"
+      },
+      {
+        "position": 3,
+        "name": "Lando Norris",
+        "team": "mclaren",
+        "time": "",
+        "primary": "#FF8000"
       }
     ]
   },

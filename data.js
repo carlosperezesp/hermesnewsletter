@@ -8257,7 +8257,7 @@ window.NHL_DATA = {
       "name": "Ilya Mikheyev",
       "pos": "RW",
       "teamCode": "TBL",
-      "age": 31,
+      "age": 32,
       "country": "Russia",
       "birthCountry": "RUS",
       "colors": {
@@ -34000,10 +34000,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-09 18:57 UTC",
+  "LAST_UPDATE": "2026-10-10 00:02 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-09T18:57:00Z"
+    "standingsDateTimeUtc": "2026-10-10T00:02:00Z"
   }
 };

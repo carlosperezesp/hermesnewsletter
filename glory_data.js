@@ -1,7 +1,15 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-09 19:00 UTC",
+  "UPDATED": "2026-10-10 00:04 UTC",
   "EVENTS": [
+    {
+      "id": "f1:win:Singapore Airlines Singapore Grand Prix:George Russell",
+      "sport": "f1",
+      "detail": "F1",
+      "text": "George Russell ganó el Singapore Airlines Singapore Grand Prix",
+      "weight": 100,
+      "firstSeen": "2026-10-10"
+    },
     {
       "id": "motogp:win:Japanese motorcycle Grand Prix:Marc Márquez",
       "sport": "motogp",
@@ -599,15 +607,6 @@ window.GLORY_DATA = {
       "text": "Connor Bedard cae del top-10 · jóvenes promesas",
       "weight": 74,
       "firstSeen": "2026-09-27"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Oliver Bonk",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Oliver Bonk cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-09-25"
     }
   ],
   "REPORTS": [],
