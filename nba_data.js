@@ -43,6 +43,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "MEM",
+      "city": "Memphis Grizzlies",
+      "shortName": "Memphis",
+      "commonName": "Grizzlies",
+      "conf": "W",
+      "gp": 3,
+      "w": 2,
+      "l": 1,
+      "winPct": 0.667,
+      "gf": 354,
+      "ga": 345,
+      "gd": 9,
+      "score": 60,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+      "colors": {
+        "primary": "#5d76a9",
+        "secondary": "#12173f"
+      }
+    },
+    {
       "code": "LAL",
       "city": "Los Angeles Lakers",
       "shortName": "Los Angeles",
@@ -183,46 +203,6 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "CHI",
-      "city": "Chicago Bulls",
-      "shortName": "Chicago",
-      "commonName": "Bulls",
-      "conf": "E",
-      "gp": 1,
-      "w": 1,
-      "l": 0,
-      "winPct": 1.0,
-      "gf": 124,
-      "ga": 117,
-      "gd": 7,
-      "score": 95,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
-      "colors": {
-        "primary": "#ce1141",
-        "secondary": "#000000"
-      }
-    },
-    {
-      "code": "MEM",
-      "city": "Memphis Grizzlies",
-      "shortName": "Memphis",
-      "commonName": "Grizzlies",
-      "conf": "W",
-      "gp": 2,
-      "w": 1,
-      "l": 1,
-      "winPct": 0.5,
-      "gf": 250,
-      "ga": 245,
-      "gd": 5,
-      "score": 46,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
-      "colors": {
-        "primary": "#5d76a9",
-        "secondary": "#12173f"
-      }
-    },
-    {
       "code": "POR",
       "city": "Portland Trail Blazers",
       "shortName": "Portland",
@@ -260,6 +240,26 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#0077c0",
         "secondary": "#c4ced4"
+      }
+    },
+    {
+      "code": "CHI",
+      "city": "Chicago Bulls",
+      "shortName": "Chicago",
+      "commonName": "Bulls",
+      "conf": "E",
+      "gp": 2,
+      "w": 1,
+      "l": 1,
+      "winPct": 0.5,
+      "gf": 224,
+      "ga": 221,
+      "gd": 3,
+      "score": 44,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
+      "colors": {
+        "primary": "#ce1141",
+        "secondary": "#000000"
       }
     },
     {
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-10 01:00 UTC",
+  "LAST_UPDATE": "2026-10-10 11:11 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

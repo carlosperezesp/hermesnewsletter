@@ -1055,7 +1055,7 @@ window.NFL_DATA = {
       "name": "Geno Smith",
       "pos": "QB",
       "teamCode": "NYJ",
-      "age": 35,
+      "age": 36,
       "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/15864.png",
       "colors": {
         "primary": "#125740",
@@ -1802,7 +1802,7 @@ window.NFL_DATA = {
           "primary": "#125740",
           "secondary": "#000000"
         },
-        "age": 35,
+        "age": 36,
         "careerScore": 66.5,
         "threshold": 90.0,
         "gap": 23.5,
@@ -1929,7 +1929,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-10 01:00 UTC",
+  "LAST_UPDATE": "2026-10-10 11:11 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

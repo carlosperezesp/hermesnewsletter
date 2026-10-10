@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-10 01:04 UTC
+// Auto-generated 2026-10-10 11:13 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-10 01:04 UTC",
+  "UPDATED": "2026-10-10 11:13 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -237,7 +237,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 80.3
@@ -271,7 +271,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 79.1
@@ -305,7 +305,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 78.9
@@ -373,7 +373,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 77.6
@@ -475,7 +475,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 75.1
@@ -645,7 +645,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 75.1
@@ -1086,9 +1086,9 @@ window.TENNIS_DATA = {
       "prevListRank": 32,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 66.4
     },
@@ -1257,7 +1257,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 66.1
@@ -1324,9 +1324,9 @@ window.TENNIS_DATA = {
       "prevListRank": 39,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 65.2
     },
@@ -1393,7 +1393,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 64.9
@@ -1803,7 +1803,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 61.9
@@ -2517,7 +2517,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 56.3
@@ -2551,7 +2551,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 56.2
@@ -2619,7 +2619,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 55.5
@@ -2755,7 +2755,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 55.4
@@ -3233,7 +3233,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 53.0
@@ -4861,7 +4861,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -5455,10 +5455,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 9,
       "tournamentStatus": {
-        "tournament": "China Open · Suzhou Open · Samsun Open · Dongfeng Voyah Wuhan Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Dongfeng Voyah Wuhan Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 85.7
     },
@@ -5557,9 +5557,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 12,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 84.2
@@ -5625,9 +5625,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 14,
       "tournamentStatus": {
-        "tournament": "China Open",
-        "state": "out",
-        "round": "R64",
+        "tournament": "Dongfeng Voyah Wuhan Open",
+        "state": "alive",
+        "round": "R128",
         "reason": "Eliminado en R64"
       },
       "prevActiveScore": 80.4
@@ -5795,9 +5795,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 19,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 76.7
@@ -5829,9 +5829,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 20,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 76.1
@@ -5863,9 +5863,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 21,
       "tournamentStatus": {
-        "tournament": "China Open",
-        "state": "out",
-        "round": "R64",
+        "tournament": "Dongfeng Voyah Wuhan Open",
+        "state": "alive",
+        "round": "R128",
         "reason": "Eliminado en R64"
       },
       "prevActiveScore": 75.9
@@ -5897,9 +5897,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 22,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 75.6
@@ -5965,9 +5965,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 24,
       "tournamentStatus": {
-        "tournament": "China Open",
-        "state": "out",
-        "round": "R64",
+        "tournament": "Dongfeng Voyah Wuhan Open",
+        "state": "alive",
+        "round": "R128",
         "reason": "Eliminado en R64"
       },
       "prevActiveScore": 72.9
@@ -6033,9 +6033,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 26,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 71.5
@@ -6271,9 +6271,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 33,
       "tournamentStatus": {
-        "tournament": "China Open",
-        "state": "out",
-        "round": "R64",
+        "tournament": "Dongfeng Voyah Wuhan Open",
+        "state": "alive",
+        "round": "R128",
         "reason": "Eliminado en R64"
       },
       "prevActiveScore": 68.0
@@ -6305,9 +6305,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 34,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R16",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 67.6
@@ -6339,9 +6339,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 35,
       "tournamentStatus": {
-        "tournament": "China Open",
-        "state": "out",
-        "round": "R64",
+        "tournament": "Dongfeng Voyah Wuhan Open",
+        "state": "alive",
+        "round": "R128",
         "reason": "Eliminado en R64"
       },
       "prevActiveScore": 67.4
@@ -6373,9 +6373,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 36,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 66.7
@@ -6407,9 +6407,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 37,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 65.2
@@ -6441,9 +6441,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 38,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 65.2
@@ -6543,7 +6543,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 41,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -6577,9 +6577,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 42,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 64.5
@@ -6611,9 +6611,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 43,
       "tournamentStatus": {
-        "tournament": "China Open",
-        "state": "out",
-        "round": "R64",
+        "tournament": "Dongfeng Voyah Wuhan Open",
+        "state": "alive",
+        "round": "R128",
         "reason": "Eliminado en R64"
       },
       "prevActiveScore": 63.9
@@ -6645,9 +6645,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 44,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 63.8
@@ -6679,7 +6679,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 45,
       "tournamentStatus": {
-        "tournament": "Suzhou Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
@@ -6783,9 +6783,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 48,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R32",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 62.1
@@ -6885,8 +6885,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 51,
       "tournamentStatus": {
-        "tournament": "China Open",
-        "state": "out",
+        "tournament": "Dongfeng Voyah Wuhan Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -6953,7 +6953,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 53,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -7089,8 +7089,8 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 57,
       "tournamentStatus": {
-        "tournament": "China Open",
-        "state": "out",
+        "tournament": "Dongfeng Voyah Wuhan Open",
+        "state": "alive",
         "round": "R128",
         "reason": "Eliminado en R128"
       },
@@ -7259,9 +7259,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 62,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 59.0
@@ -7565,9 +7565,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 71,
       "tournamentStatus": {
-        "tournament": "China Open",
-        "state": "out",
-        "round": "R64",
+        "tournament": "Dongfeng Voyah Wuhan Open",
+        "state": "alive",
+        "round": "R128",
         "reason": "Eliminado en R64"
       },
       "prevActiveScore": 56.6
@@ -7805,9 +7805,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 78,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 55.7
@@ -7941,7 +7941,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 82,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -8627,7 +8627,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Suzhou Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 48.8
@@ -9045,9 +9045,9 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 114,
       "tournamentStatus": {
-        "tournament": "China Open",
+        "tournament": "Dongfeng Voyah Wuhan Open",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 44.6
@@ -9323,7 +9323,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Suzhou Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 42.2
@@ -9741,10 +9741,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 134,
       "tournamentStatus": {
-        "tournament": "China Open · Suzhou Open · Samsun Open · Dongfeng Voyah Wuhan Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Dongfeng Voyah Wuhan Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 38.6
     },
@@ -11021,9 +11021,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Pavel Kotov",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 83.8,
           "l_score": null,
           "match_score": 83.8
@@ -11047,9 +11047,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Bu Yunchaokete",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 7-6 (7-2)",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 80.0,
           "l_score": 35.0,
           "match_score": 80.0
@@ -11060,9 +11060,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Thiago Agustin Tirante",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 6-2 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 79.1,
           "l_score": 65.9,
           "match_score": 79.1
@@ -11073,9 +11073,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Jan-Lennard Struff",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 6-4 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 78.9,
           "l_score": 55.5,
           "match_score": 78.9
@@ -11086,9 +11086,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Camilo Ugo Carabelli",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 7-6 (7-1) 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 77.6,
           "l_score": 56.0,
           "match_score": 77.6
@@ -11099,9 +11099,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nuno Borges",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 3-6 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.9,
           "l_score": 61.7,
           "match_score": 75.9
@@ -11274,9 +11274,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Nikola Bartunkova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 91.9,
           "l_score": 65.2,
           "match_score": 91.9
@@ -11287,9 +11287,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Zheng Qinwen",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 76.7,
           "l_score": null,
           "match_score": 76.7
@@ -11303,28 +11303,28 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Renata Zarazua",
+          "w": "Rebecca Sramkova",
           "w_logo": "",
-          "l": "Rebecca Sramkova",
+          "l": "Renata Zarazua",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "7-5 6-3",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 48.8,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 48.8,
           "match_score": 48.8
         },
         {
           "round": "Semifinal",
-          "w": "Elvina Kalieva",
+          "w": "Kyoka Okamura",
           "w_logo": "",
-          "l": "Kyoka Okamura",
+          "l": "Elvina Kalieva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-1 7-6 (7-1)",
           "day": "hoy",
-          "scheduled": true,
-          "w_score": 42.2,
-          "l_score": null,
+          "scheduled": false,
+          "w_score": null,
+          "l_score": 42.2,
           "match_score": 42.2
         }
       ]
@@ -11353,9 +11353,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Ayla Aksu",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 39.0,
           "l_score": null,
           "match_score": 39.0
@@ -11384,7 +11384,6 @@ window.TENNIS_DATA = {
       "Adolfo Daniel Vallejo",
       "Adrian Mannarino",
       "Alejandro Davidovich Fokina",
-      "Alejandro Tabilo",
       "Alex Michelsen",
       "Alex Molcan",
       "Alex de Minaur",
@@ -11434,7 +11433,6 @@ window.TENNIS_DATA = {
       "Taylor Fritz",
       "Thiago Agustin Tirante",
       "Tomas Machac",
-      "Tomas Martin Etcheverry",
       "Tommy Paul",
       "Valentin Vacherot",
       "Wu Yibing",
@@ -11444,6 +11442,7 @@ window.TENNIS_DATA = {
       "Zizou Bergs"
     ],
     "out": [
+      "Alejandro Tabilo",
       "Aleksandar Kovacevic",
       "Alexander Blockx",
       "Bernard Tomic",
@@ -11476,13 +11475,14 @@ window.TENNIS_DATA = {
       "Rinky Hijikata",
       "Sho Shimabukuro",
       "Tallon Griekspoor",
+      "Tomas Martin Etcheverry",
       "Ugo Humbert",
       "Valentin Royer",
       "Vit Kopriva",
       "Zhang Zhizhen"
     ],
-    "aliveCount": 61,
-    "matchesSeen": 103
+    "aliveCount": 59,
+    "matchesSeen": 107
   },
   "WTA_TOURNAMENT": {
     "name": "China Open · Suzhou Open · Samsun Open · Dongfeng Voyah Wuhan Open",
@@ -11517,8 +11517,10 @@ window.TENNIS_DATA = {
       "Alina Charaeva",
       "Aliona Falei",
       "Anastasia Zakharova",
+      "Anhelina Kalinina",
       "Ann Li",
       "Anna Blinkova",
+      "Anna Kalinskaya",
       "Aryna Sabalenka",
       "Ashlyn Krueger",
       "Ayla Aksu",
@@ -11528,13 +11530,16 @@ window.TENNIS_DATA = {
       "Camila Osorio",
       "Caroline Werner",
       "Claire Liu",
+      "Clara Tauson",
       "Coco Gauff",
+      "Cristina Bucsa",
       "Dalma Galfi",
       "Daria Snigur",
       "Darya Astakhova",
       "Darya Khamutsianskaya",
       "Dayana Yastremska",
       "Diana Shnaider",
+      "Diane Parry",
       "Donna Vekic",
       "Ekaterina Alexandrova",
       "Elena-Gabriela Ruse",
@@ -11544,11 +11549,13 @@ window.TENNIS_DATA = {
       "Emerson Jones",
       "Fiona Crawley",
       "Gao Xinyu",
+      "Guo Hanyu",
       "Harriet Dart",
       "Himeno Sakatsume",
       "Iga Swiatek",
       "Iva Jovic",
       "Janice Tjen",
+      "Jasmine Paolini",
       "Jelena Ostapenko",
       "Kamilla Rakhimova",
       "Karolina Muchova",
@@ -11558,6 +11565,8 @@ window.TENNIS_DATA = {
       "Katie Volynets",
       "Kimberly Birrell",
       "Kyoka Okamura",
+      "Leylah Fernandez",
+      "Lilli Tagger",
       "Linda Fruhvirtova",
       "Linda Klimovicova",
       "Linda Noskova",
@@ -11565,10 +11574,13 @@ window.TENNIS_DATA = {
       "Lucrezia Stefanini",
       "Maddison Inglis",
       "Magdalena Frech",
+      "Maja Chwalinska",
       "Maria Sakkari",
       "Maria Timofeeva",
       "Mariam Bolkvadze",
       "Marie Bouzkova",
+      "Mayar Sherif",
+      "Mia Pohankova",
       "Mirra Andreeva",
       "Naomi Osaka",
       "Nikola Bartunkova",
@@ -11584,14 +11596,18 @@ window.TENNIS_DATA = {
       "Simona Waltert",
       "Sinja Kraus",
       "Sonay Kartal",
+      "Sorana Cirstea",
       "Storm Hunter",
       "Tamara Korpatsch",
       "Tatiana Prozorova",
       "Taylah Preston",
       "Viktoria Hruncakova",
       "Viktorija Golubic",
+      "Wang Xinyu",
+      "Wang Xiyu",
       "Xinran Sun",
       "Yuan Yue",
+      "Zhang Shuai",
       "Zheng Qinwen",
       "Zhu Lin"
     ],
@@ -11601,20 +11617,15 @@ window.TENNIS_DATA = {
       "Alycia Parks",
       "Anastasia Potapova",
       "Andrea Lazaro Garcia",
-      "Anhelina Kalinina",
       "Anna Bondar",
-      "Anna Kalinskaya",
       "Antonia Ruzic",
       "Aoi Ito",
       "Aysegul Mert",
       "Cagla Buyukakcay",
       "Carole Monnet",
       "Catherine McNally",
-      "Clara Tauson",
-      "Cristina Bucsa",
       "Daria Kasatkina",
       "Darja Vidmanova",
-      "Diane Parry",
       "Dominika Salkova",
       "Elena Micic",
       "Elena Pridankina",
@@ -11623,21 +11634,16 @@ window.TENNIS_DATA = {
       "Elvin Egribel",
       "Emiliana Arango",
       "Eva Lys",
-      "Guo Hanyu",
-      "Jasmine Paolini",
       "Julia Grabher",
       "Katarzyna Kawa",
       "Lanlana Tararudee",
       "Leolia Jeanjean",
-      "Leylah Fernandez",
-      "Lilli Tagger",
       "Lola Radivojevic",
       "Lu Jia-Jing",
       "Lucia Bronzetti",
       "Ma YeXin",
       "Magda Linette",
       "Mai Hontama",
-      "Maja Chwalinska",
       "Mananchaya Sawangkaew",
       "Marina Bassols Ribera",
       "Maya Joint",
@@ -11654,7 +11660,6 @@ window.TENNIS_DATA = {
       "Suzan Lamens",
       "Talia Gibson",
       "Tyra Caterina Grant",
-      "Wang Xinyu",
       "Yao Xinxin",
       "Yu Jun Lin",
       "Yuliia Starodubtseva",
@@ -11662,8 +11667,8 @@ window.TENNIS_DATA = {
       "Zhang Ruien",
       "Zheng Wushuang"
     ],
-    "aliveCount": 82,
-    "matchesSeen": 154
+    "aliveCount": 98,
+    "matchesSeen": 173
   },
   "ATP_SCORE_LOG": {
     "206173": [

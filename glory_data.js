@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-10 01:04 UTC",
+  "UPDATED": "2026-10-10 11:13 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Singapore Airlines Singapore Grand Prix:George Russell",
@@ -114,6 +114,33 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-29"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Lane Hutson",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Lane Hutson entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-10"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Ivan Demidov",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Ivan Demidov entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-10"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Matthew Schaefer",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Matthew Schaefer entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-10"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Mikko Rantanen",
       "sport": "nhl",
       "detail": "NHL",
@@ -128,15 +155,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-road-to-glory",
       "text": "Roman Josi entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-09"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cole Perfetti",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Cole Perfetti entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-10-09"
     },
@@ -231,15 +249,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-06"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Cutter Gauthier",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Cutter Gauthier entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-05"
-    },
-    {
       "id": "rank:nfl:ROAD_TO_GLORY.players:in:Lamar Jackson",
       "sport": "nfl",
       "detail": "NFL",
@@ -265,15 +274,6 @@ window.GLORY_DATA = {
       "text": "Leo Carlsson entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-10-03"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Matthew Knies",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Matthew Knies entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-02"
     },
     {
       "id": "rank:mlb:ROAD_TO_GLORY.players:in:Mookie Betts",
@@ -646,24 +646,24 @@ window.GLORY_DATA = {
       "Colorado Avalanche",
       "Florida Panthers",
       "Edmonton Oilers",
-      "New York Rangers",
       "St. Louis Blues",
       "Carolina Hurricanes",
+      "New York Rangers",
       "Minnesota Wild",
       "Boston Bruins",
       "Dallas Stars"
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Macklin Celebrini",
-      "Leo Carlsson",
-      "Matthew Knies",
       "Beckett Sennecke",
-      "Ben Kindel",
-      "Cutter Gauthier",
+      "Leo Carlsson",
       "Vasily Podkolzin",
       "Tim Stützle",
-      "Cole Perfetti",
-      "Owen Power"
+      "Ben Kindel",
+      "Owen Power",
+      "Lane Hutson",
+      "Ivan Demidov",
+      "Matthew Schaefer"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "LeBron James",
@@ -895,8 +895,8 @@ window.GLORY_DATA = {
       "George Russell",
       "Lewis Hamilton",
       "Charles Leclerc",
-      "Lando Norris",
       "Max Verstappen",
+      "Lando Norris",
       "Oscar Piastri",
       "Isack Hadjar",
       "Liam Lawson",
