@@ -34000,10 +34000,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-10 00:02 UTC",
+  "LAST_UPDATE": "2026-10-10 01:00 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-10T00:02:00Z"
+    "standingsDateTimeUtc": "2026-10-10T00:59:45Z"
   }
 };

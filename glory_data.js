@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-10 00:04 UTC",
+  "UPDATED": "2026-10-10 01:04 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Singapore Airlines Singapore Grand Prix:George Russell",
