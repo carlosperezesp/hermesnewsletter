@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-10 12:47 UTC",
+  "UPDATED": "2026-10-10 17:30 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Singapore Airlines Singapore Grand Prix:George Russell",
@@ -49,6 +49,15 @@ window.GLORY_DATA = {
       "text": "Ryan Blaney ganó en Echopark Speedway",
       "weight": 100,
       "firstSeen": "2026-09-26"
+    },
+    {
+      "id": "rank:cycling:CURRENT_PROSPECTS:new1:Paul Seixas",
+      "sport": "cycling",
+      "detail": "Ciclismo",
+      "anchor": "cycling-promesas",
+      "text": "Paul Seixas es nuevo nº1 · promesas",
+      "weight": 92,
+      "firstSeen": "2026-10-10"
     },
     {
       "id": "rank:nba:ROAD_TO_GLORY.teams:new1:Boston Celtics",
@@ -827,8 +836,8 @@ window.GLORY_DATA = {
       "Wout van Aert"
     ],
     "cycling:CURRENT_PROSPECTS": [
-      "Isaac del Toro",
-      "Paul Seixas"
+      "Paul Seixas",
+      "Isaac del Toro"
     ],
     "sumo:BANZUKE": [
       "Onosato",

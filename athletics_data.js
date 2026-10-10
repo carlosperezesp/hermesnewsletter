@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-10 12:46 UTC
+// Auto-generated 2026-10-10 17:29 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-10-10 12:46 UTC",
+  "UPDATED": "2026-10-10 17:29 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -3609,7 +3609,108 @@ window.ATHLETICS_DATA = {
               "year": 2006
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "7:57.25",
+              "athlete": "Soufiane El Bakkali",
+              "country": "MAR",
+              "flag": "https://flagcdn.com/24x18/ma.png",
+              "primary": "#C1272D",
+              "venue": "Complexe Sportif Prince Moulay Abdellah",
+              "date": "31 MAY 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "7:57.80",
+              "athlete": "Frederik Ruppert",
+              "country": "GER",
+              "flag": "https://flagcdn.com/24x18/de.png",
+              "primary": "#000000",
+              "venue": "Complexe Sportif Prince Moulay Abdellah",
+              "date": "31 MAY 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "7:59.44",
+              "athlete": "Simon Koech",
+              "country": "KEN",
+              "flag": "https://flagcdn.com/24x18/ke.png",
+              "primary": "#006600",
+              "venue": "Complexe Sportif Prince Moulay Abdellah",
+              "date": "31 MAY 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "8:01.61",
+              "athlete": "Edmund Serem",
+              "country": "KEN",
+              "flag": "https://flagcdn.com/24x18/ke.png",
+              "primary": "#006600",
+              "venue": "Complexe Sportif Prince Moulay Abdellah",
+              "date": "31 MAY 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "8:02.74",
+              "athlete": "Gemechu Godana",
+              "country": "ETH",
+              "flag": "https://flagcdn.com/24x18/et.png",
+              "primary": "#078930",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "8:05.08",
+              "athlete": "Salah Eddine Ben Yazide",
+              "country": "MAR",
+              "flag": "https://flagcdn.com/24x18/ma.png",
+              "primary": "#C1272D",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "8:05.36",
+              "athlete": "Ruben Querinjean",
+              "country": "LUX",
+              "flag": "",
+              "primary": "#4A4745",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "8:05.55",
+              "athlete": "Karl Bebendorf",
+              "country": "GER",
+              "flag": "https://flagcdn.com/24x18/de.png",
+              "primary": "#000000",
+              "venue": "Stade Charlty",
+              "date": "28 JUN 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "8:06.65",
+              "athlete": "Samuel Firewu",
+              "country": "ETH",
+              "flag": "https://flagcdn.com/24x18/et.png",
+              "primary": "#078930",
+              "venue": "Stadion Śląski",
+              "date": "23 AUG 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "8:08.10",
+              "athlete": "Geoffrey Kipkemoi Kirwa",
+              "country": "KEN",
+              "flag": "https://flagcdn.com/24x18/ke.png",
+              "primary": "#006600",
+              "venue": "Cougar Athletic Stadium",
+              "date": "16 APR 2026"
+            }
+          ]
         },
         {
           "id": "3000msc_w",

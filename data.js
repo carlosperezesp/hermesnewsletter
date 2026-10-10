@@ -1998,7 +1998,7 @@ window.NHL_DATA = {
         "g": 2,
         "a": 3,
         "p": 5,
-        "pm": 2,
+        "pm": 3,
         "toi": 19.4,
         "shots": 11
       },
@@ -2297,7 +2297,7 @@ window.NHL_DATA = {
         "p": 3,
         "pm": 3,
         "toi": 30.0,
-        "shots": 7
+        "shots": 8
       },
       "trajectory": [
         38,
@@ -2583,7 +2583,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 2,
         "w": 0,
-        "svpct": 0.938,
+        "svpct": 0.939,
         "gaa": 2.45,
         "so": 0
       },
@@ -7870,7 +7870,7 @@ window.NHL_DATA = {
         "p": 2,
         "pm": 2,
         "toi": 15.5,
-        "shots": 8
+        "shots": 9
       },
       "trajectory": [
         37,
@@ -18551,7 +18551,7 @@ window.NHL_DATA = {
         "g": 0,
         "a": 0,
         "p": 0,
-        "pm": 0,
+        "pm": -1,
         "toi": 17.8,
         "shots": 3
       },
@@ -22101,9 +22101,9 @@ window.NHL_DATA = {
       "name": "Jayden Struble",
       "pos": "D",
       "teamCode": "MTL",
-      "age": 25,
-      "country": "United States",
-      "birthCountry": "USA",
+      "age": null,
+      "country": "",
+      "birthCountry": null,
       "colors": {
         "primary": "#af1e2d",
         "secondary": "#192168"
@@ -34498,10 +34498,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-10 12:44 UTC",
+  "LAST_UPDATE": "2026-10-10 17:27 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-10T12:43:30Z"
+    "standingsDateTimeUtc": "2026-10-10T17:27:15Z"
   }
 };

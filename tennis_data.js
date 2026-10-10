@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-10 12:47 UTC
+// Auto-generated 2026-10-10 17:30 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-10 12:47 UTC",
+  "UPDATED": "2026-10-10 17:30 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -67,7 +67,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 90.9
@@ -169,7 +169,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 84.1
@@ -203,7 +203,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 80.4
@@ -611,7 +611,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 75.0
@@ -950,9 +950,9 @@ window.TENNIS_DATA = {
       "prevListRank": 28,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": "Eliminado en R128"
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 68.3
     },
@@ -1052,9 +1052,9 @@ window.TENNIS_DATA = {
       "prevListRank": 31,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 67.1
     },
@@ -1565,7 +1565,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 63.8
@@ -1837,7 +1837,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 61.6
@@ -2007,7 +2007,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 59.9
@@ -8593,7 +8593,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Samsun Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 49.3
@@ -9391,7 +9391,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Samsun Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 40.4
@@ -11336,15 +11336,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "Semifinal",
-          "w": "Anna Blinkova",
+          "w": "Lucrezia Stefanini",
           "w_logo": "",
-          "l": "Lucrezia Stefanini",
+          "l": "Anna Blinkova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 49.3,
-          "l_score": 40.4,
+          "w_score": 40.4,
+          "l_score": 49.3,
           "match_score": 49.3
         },
         {
@@ -11384,7 +11384,6 @@ window.TENNIS_DATA = {
       "Adolfo Daniel Vallejo",
       "Adrian Mannarino",
       "Alejandro Davidovich Fokina",
-      "Alex Michelsen",
       "Alex Molcan",
       "Alex de Minaur",
       "Alexander Bublik",
@@ -11407,7 +11406,6 @@ window.TENNIS_DATA = {
       "Frances Tiafoe",
       "Francisco Cerundolo",
       "Hubert Hurkacz",
-      "Ignacio Buse",
       "Jakub Mensik",
       "Jan-Lennard Struff",
       "Jenson Brooksby",
@@ -11443,6 +11441,7 @@ window.TENNIS_DATA = {
     "out": [
       "Alejandro Tabilo",
       "Aleksandar Kovacevic",
+      "Alex Michelsen",
       "Alexander Blockx",
       "Bernard Tomic",
       "Cameron Norrie",
@@ -11454,6 +11453,7 @@ window.TENNIS_DATA = {
       "Flavio Cobolli",
       "Hamad Medjedovic",
       "Holger Rune",
+      "Ignacio Buse",
       "Ilia Simakin",
       "Jaime Faria",
       "James Duckworth",
@@ -11481,8 +11481,8 @@ window.TENNIS_DATA = {
       "Vit Kopriva",
       "Zhang Zhizhen"
     ],
-    "aliveCount": 58,
-    "matchesSeen": 108
+    "aliveCount": 56,
+    "matchesSeen": 111
   },
   "WTA_TOURNAMENT": {
     "name": "China Open · Suzhou Open · Samsun Open · Dongfeng Voyah Wuhan Open",
@@ -11668,7 +11668,7 @@ window.TENNIS_DATA = {
       "Zheng Wushuang"
     ],
     "aliveCount": 98,
-    "matchesSeen": 174
+    "matchesSeen": 175
   },
   "ATP_SCORE_LOG": {
     "206173": [

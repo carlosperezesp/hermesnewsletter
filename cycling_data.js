@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-10 12:44 UTC
+// Auto-generated 2026-10-10 17:27 UTC
 window.CYCLING_DATA = {
-  "UPDATED": "2026-10-10 12:44 UTC",
+  "UPDATED": "2026-10-10 17:27 UTC",
   "LEGENDS": [
     {
       "id": "eddy_merckx",
@@ -647,6 +647,27 @@ window.CYCLING_DATA = {
   ],
   "CURRENT_PROSPECTS": [
     {
+      "id": "paul_seixas",
+      "name": "Paul Seixas",
+      "country": "FRA",
+      "logo": "https://flagcdn.com/24x18/fr.png",
+      "teamCode": "FRA",
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "legendScore": 2.0,
+      "active": true,
+      "age": 20,
+      "stats": {
+        "tour": 0,
+        "giro": 0,
+        "vuelta": 0,
+        "monuments": 1,
+        "worlds": 0,
+        "birth": 2006
+      },
+      "note": "1 monumento a los 20"
+    },
+    {
       "id": "isaac_del_toro",
       "name": "Isaac del Toro",
       "country": "MEX",
@@ -666,27 +687,6 @@ window.CYCLING_DATA = {
         "birth": 2003
       },
       "note": "2 victorias de relieve en 2026 a los 23"
-    },
-    {
-      "id": "paul_seixas",
-      "name": "Paul Seixas",
-      "country": "FRA",
-      "logo": "https://flagcdn.com/24x18/fr.png",
-      "teamCode": "FRA",
-      "primary": "#002395",
-      "secondary": "#FFFFFF",
-      "legendScore": 0.0,
-      "active": true,
-      "age": 20,
-      "stats": {
-        "tour": 0,
-        "giro": 0,
-        "vuelta": 0,
-        "monuments": 0,
-        "worlds": 0,
-        "birth": 2006
-      },
-      "note": "2 victorias de relieve en 2026 a los 20"
     }
   ],
   "CURRENT_RACE": {
@@ -948,8 +948,13 @@ window.CYCLING_DATA = {
       "dateLabel": "10 oct",
       "start": "2026-10-10",
       "end": "2026-10-10",
-      "status": "ongoing",
-      "winner": null
+      "status": "finished",
+      "winner": {
+        "name": "Paul Seixas",
+        "cc3": "FRA",
+        "logo": "https://flagcdn.com/24x18/fr.png",
+        "color": "#002395"
+      }
     },
     {
       "tier": "Mundial",
