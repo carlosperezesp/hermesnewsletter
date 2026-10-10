@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-10 11:13 UTC
+// Auto-generated 2026-10-10 12:47 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-10 11:13 UTC",
+  "UPDATED": "2026-10-10 12:47 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -577,7 +577,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 75.4
@@ -1189,7 +1189,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 65.9
@@ -1222,9 +1222,9 @@ window.TENNIS_DATA = {
       "prevListRank": 36,
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
-        "state": "alive",
+        "state": "out",
         "round": "R64",
-        "reason": ""
+        "reason": "Eliminado en R64"
       },
       "prevActiveScore": 66.1
     },
@@ -1633,7 +1633,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": ""
       },
       "prevActiveScore": 63.0
@@ -1939,7 +1939,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R64",
+        "round": "R128",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 60.2
@@ -5253,7 +5253,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "F",
         "reason": ""
       },
       "prevActiveScore": 91.9
@@ -9709,7 +9709,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Samsun Open",
         "state": "alive",
-        "round": "Semifinal",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 39.0
@@ -11008,9 +11008,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Juan Manuel Cerundolo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-3 6-3",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 90.9,
           "l_score": 60.0,
           "match_score": 90.9
@@ -11034,9 +11034,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Adolfo Daniel Vallejo",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-2 6-2",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 80.2,
           "l_score": 63.5,
           "match_score": 80.2
@@ -11283,15 +11283,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "Semifinal",
-          "w": "Elise Mertens",
+          "w": "Zheng Qinwen",
           "w_logo": "",
-          "l": "Zheng Qinwen",
+          "l": "Elise Mertens",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 76.7,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 76.7,
           "match_score": 76.7
         }
       ]
@@ -11340,24 +11340,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lucrezia Stefanini",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 49.3,
           "l_score": 40.4,
           "match_score": 49.3
         },
         {
           "round": "Semifinal",
-          "w": "Himeno Sakatsume",
+          "w": "Ayla Aksu",
           "w_logo": "",
-          "l": "Ayla Aksu",
+          "l": "Himeno Sakatsume",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 39.0,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 39.0,
           "match_score": 39.0
         }
       ]
@@ -11415,7 +11415,6 @@ window.TENNIS_DATA = {
       "Juan Manuel Cerundolo",
       "Karen Khachanov",
       "Learner Tien",
-      "Luciano Darderi",
       "Matteo Arnaldi",
       "Matteo Berrettini",
       "Miomir Kecmanovic",
@@ -11463,6 +11462,7 @@ window.TENNIS_DATA = {
       "Kimmer Coppejans",
       "Lorenzo Musetti",
       "Luca Van Assche",
+      "Luciano Darderi",
       "Marco Trungelliti",
       "Marcos Giron",
       "Mariano Navone",
@@ -11481,8 +11481,8 @@ window.TENNIS_DATA = {
       "Vit Kopriva",
       "Zhang Zhizhen"
     ],
-    "aliveCount": 59,
-    "matchesSeen": 107
+    "aliveCount": 58,
+    "matchesSeen": 108
   },
   "WTA_TOURNAMENT": {
     "name": "China Open · Suzhou Open · Samsun Open · Dongfeng Voyah Wuhan Open",
@@ -11668,7 +11668,7 @@ window.TENNIS_DATA = {
       "Zheng Wushuang"
     ],
     "aliveCount": 98,
-    "matchesSeen": 173
+    "matchesSeen": 174
   },
   "ATP_SCORE_LOG": {
     "206173": [
