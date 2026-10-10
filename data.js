@@ -4309,7 +4309,7 @@ window.NHL_DATA = {
       "stats": {
         "gp": 4,
         "w": 3,
-        "svpct": 0.883,
+        "svpct": 0.884,
         "gaa": 2.95,
         "so": 0
       },
@@ -22546,7 +22546,7 @@ window.NHL_DATA = {
         "p": 0,
         "pm": -4,
         "toi": 11.8,
-        "shots": 6
+        "shots": 7
       },
       "trajectory": [
         37,
@@ -34498,10 +34498,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-10 17:27 UTC",
+  "LAST_UPDATE": "2026-10-10 17:58 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-10T17:27:15Z"
+    "standingsDateTimeUtc": "2026-10-10T17:57:45Z"
   }
 };
