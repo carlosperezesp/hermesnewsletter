@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-10 18:01 UTC",
+  "UPDATED": "2026-10-10 23:36 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Singapore Airlines Singapore Grand Prix:George Russell",
@@ -123,6 +123,15 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-29"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Matthew Knies",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Matthew Knies entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-10"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Lane Hutson",
       "sport": "nhl",
       "detail": "NHL",
@@ -137,15 +146,6 @@ window.GLORY_DATA = {
       "detail": "NHL",
       "anchor": "nhl-jovenes-promesas",
       "text": "Ivan Demidov entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-10"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Matthew Schaefer",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Matthew Schaefer entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-10-10"
     },
@@ -657,22 +657,22 @@ window.GLORY_DATA = {
       "Edmonton Oilers",
       "St. Louis Blues",
       "Carolina Hurricanes",
+      "Boston Bruins",
       "New York Rangers",
       "Minnesota Wild",
-      "Boston Bruins",
       "Dallas Stars"
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
       "Macklin Celebrini",
       "Beckett Sennecke",
       "Leo Carlsson",
-      "Vasily Podkolzin",
       "Tim Stützle",
-      "Ben Kindel",
+      "Vasily Podkolzin",
       "Owen Power",
+      "Ben Kindel",
       "Lane Hutson",
-      "Ivan Demidov",
-      "Matthew Schaefer"
+      "Matthew Knies",
+      "Ivan Demidov"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "LeBron James",
