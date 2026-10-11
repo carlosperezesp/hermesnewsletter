@@ -4709,39 +4709,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8471215,
-      "first": "Evgeni",
-      "last": "Malkin",
-      "name": "Evgeni Malkin",
-      "pos": "C",
-      "teamCode": "PIT",
-      "age": 40,
-      "country": "Russia",
-      "birthCountry": "RUS",
-      "colors": {
-        "primary": "#111111",
-        "secondary": "#cfc493"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8471215.png",
-      "score": 61,
-      "stats": {
-        "gp": 6,
-        "g": 3,
-        "a": 2,
-        "p": 5,
-        "pm": 2,
-        "toi": 18.0,
-        "shots": 13
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        61
-      ]
-    },
-    {
       "id": 8474590,
       "first": "John",
       "last": "Carlson",
@@ -5203,6 +5170,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8471215,
+      "first": "Evgeni",
+      "last": "Malkin",
+      "name": "Evgeni Malkin",
+      "pos": "C",
+      "teamCode": "PIT",
+      "age": 40,
+      "country": "Russia",
+      "birthCountry": "RUS",
+      "colors": {
+        "primary": "#111111",
+        "secondary": "#cfc493"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8471215.png",
+      "score": 60,
+      "stats": {
+        "gp": 6,
+        "g": 3,
+        "a": 2,
+        "p": 5,
+        "pm": 2,
+        "toi": 17.9,
+        "shots": 13
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        60
+      ]
+    },
+    {
       "id": 8476887,
       "first": "Filip",
       "last": "Forsberg",
@@ -5257,7 +5257,7 @@ window.NHL_DATA = {
         "a": 2,
         "p": 4,
         "pm": 2,
-        "toi": 18.6,
+        "toi": 18.5,
         "shots": 14
       },
       "trajectory": [
@@ -6113,7 +6113,7 @@ window.NHL_DATA = {
         "a": 4,
         "p": 4,
         "pm": 2,
-        "toi": 19.9,
+        "toi": 20.0,
         "shots": 11
       },
       "trajectory": [
@@ -6246,7 +6246,7 @@ window.NHL_DATA = {
         "a": 0,
         "p": 2,
         "pm": -1,
-        "toi": 19.3,
+        "toi": 19.5,
         "shots": 5
       },
       "trajectory": [
@@ -6971,7 +6971,7 @@ window.NHL_DATA = {
         "a": 2,
         "p": 4,
         "pm": 1,
-        "toi": 18.6,
+        "toi": 18.5,
         "shots": 9
       },
       "trajectory": [
@@ -8057,7 +8057,7 @@ window.NHL_DATA = {
         "p": 4,
         "pm": 0,
         "toi": 17.1,
-        "shots": 6
+        "shots": 7
       },
       "trajectory": [
         38,
@@ -10731,7 +10731,7 @@ window.NHL_DATA = {
         "a": 1,
         "p": 2,
         "pm": -1,
-        "toi": 16.2,
+        "toi": 16.3,
         "shots": 7
       },
       "trajectory": [
@@ -12361,7 +12361,7 @@ window.NHL_DATA = {
         "a": 2,
         "p": 2,
         "pm": -4,
-        "toi": 19.7,
+        "toi": 19.8,
         "shots": 16
       },
       "trajectory": [
@@ -12395,7 +12395,7 @@ window.NHL_DATA = {
         "a": 1,
         "p": 1,
         "pm": 3,
-        "toi": 23.4,
+        "toi": 23.5,
         "shots": 10
       },
       "trajectory": [
@@ -18731,7 +18731,7 @@ window.NHL_DATA = {
         "a": 1,
         "p": 1,
         "pm": 1,
-        "toi": 12.4,
+        "toi": 12.3,
         "shots": 4
       },
       "trajectory": [
@@ -35124,10 +35124,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-11 13:06 UTC",
+  "LAST_UPDATE": "2026-10-11 17:46 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-11T13:05:45Z"
+    "standingsDateTimeUtc": "2026-10-11T17:46:15Z"
   }
 };

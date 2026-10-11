@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-11 13:07 UTC",
+  "UPDATED": "2026-10-11 17:49 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -911,8 +911,8 @@ window.GLORY_DATA = {
       "Kimi Antonelli",
       "George Russell",
       "Lewis Hamilton",
-      "Charles Leclerc",
       "Max Verstappen",
+      "Charles Leclerc",
       "Lando Norris",
       "Oscar Piastri",
       "Isack Hadjar",

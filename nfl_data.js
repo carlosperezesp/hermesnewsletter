@@ -26,6 +26,29 @@ window.NFL_DATA = {
       }
     },
     {
+      "code": "JAX",
+      "city": "Jacksonville Jaguars",
+      "shortName": "Jacksonville",
+      "commonName": "Jaguars",
+      "conf": "AFC",
+      "div": "AFC South",
+      "gp": 5,
+      "w": 4,
+      "l": 1,
+      "t": 0,
+      "winPct": 0.8,
+      "pf": 123,
+      "pa": 70,
+      "pd": 53,
+      "seed": 2,
+      "score": 72,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+      "colors": {
+        "primary": "#006778",
+        "secondary": "#9f792c"
+      }
+    },
+    {
       "code": "KC",
       "city": "Kansas City Chiefs",
       "shortName": "Kansas City",
@@ -69,29 +92,6 @@ window.NFL_DATA = {
       "colors": {
         "primary": "#4f2683",
         "secondary": "#ffc62f"
-      }
-    },
-    {
-      "code": "JAX",
-      "city": "Jacksonville Jaguars",
-      "shortName": "Jacksonville",
-      "commonName": "Jaguars",
-      "conf": "AFC",
-      "div": "AFC South",
-      "gp": 4,
-      "w": 3,
-      "l": 1,
-      "t": 0,
-      "winPct": 0.75,
-      "pf": 104,
-      "pa": 53,
-      "pd": 51,
-      "seed": 2,
-      "score": 70,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-      "colors": {
-        "primary": "#006778",
-        "secondary": "#9f792c"
       }
     },
     {
@@ -463,29 +463,6 @@ window.NFL_DATA = {
       }
     },
     {
-      "code": "PHI",
-      "city": "Philadelphia Eagles",
-      "shortName": "Philadelphia",
-      "commonName": "Eagles",
-      "conf": "NFC",
-      "div": "NFC East",
-      "gp": 4,
-      "w": 2,
-      "l": 2,
-      "t": 0,
-      "winPct": 0.5,
-      "pf": 75,
-      "pa": 93,
-      "pd": -18,
-      "seed": 11,
-      "score": 36,
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
-      "colors": {
-        "primary": "#004c54",
-        "secondary": "#a5acaf"
-      }
-    },
-    {
       "code": "DEN",
       "city": "Denver Broncos",
       "shortName": "Denver",
@@ -506,6 +483,29 @@ window.NFL_DATA = {
       "colors": {
         "primary": "#fb4f14",
         "secondary": "#002244"
+      }
+    },
+    {
+      "code": "PHI",
+      "city": "Philadelphia Eagles",
+      "shortName": "Philadelphia",
+      "commonName": "Eagles",
+      "conf": "NFC",
+      "div": "NFC East",
+      "gp": 5,
+      "w": 2,
+      "l": 3,
+      "t": 0,
+      "winPct": 0.4,
+      "pf": 92,
+      "pa": 112,
+      "pd": -20,
+      "seed": 11,
+      "score": 29,
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+      "colors": {
+        "primary": "#004c54",
+        "secondary": "#a5acaf"
       }
     },
     {
@@ -661,7 +661,7 @@ window.NFL_DATA = {
       "pf": 84,
       "pa": 109,
       "pd": -25,
-      "seed": 16,
+      "seed": 15,
       "score": 0,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
       "colors": {
@@ -684,7 +684,7 @@ window.NFL_DATA = {
       "pf": 55,
       "pa": 83,
       "pd": -28,
-      "seed": 15,
+      "seed": 16,
       "score": 0,
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
       "colors": {
@@ -1929,7 +1929,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-11 13:06 UTC",
+  "LAST_UPDATE": "2026-10-11 17:46 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

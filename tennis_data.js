@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-11 13:07 UTC
+// Auto-generated 2026-10-11 17:49 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-11 13:07 UTC",
+  "UPDATED": "2026-10-11 17:49 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -543,7 +543,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 75.7
@@ -849,7 +849,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R32",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 72.3
@@ -1019,7 +1019,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R32",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 66.4
@@ -5253,7 +5253,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "China Open",
         "state": "alive",
-        "round": "F",
+        "round": "Semifinal",
         "reason": ""
       },
       "prevActiveScore": 91.9
@@ -11043,15 +11043,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R32",
-          "w": "Frances Tiafoe",
+          "w": "Alejandro Davidovich Fokina",
           "w_logo": "",
-          "l": "Alejandro Davidovich Fokina",
+          "l": "Frances Tiafoe",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-4) 4-6 7-6 (8-6)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 75.4,
-          "l_score": 72.3,
+          "w_score": 72.3,
+          "l_score": 75.4,
           "match_score": 75.4
         },
         {
@@ -11218,15 +11218,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Mirra Andreeva",
+          "w": "Zheng Qinwen",
           "w_logo": "",
-          "l": "Zheng Qinwen",
+          "l": "Mirra Andreeva",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 6-4",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 91.9,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 91.9,
           "match_score": 91.9
         }
       ]
@@ -11391,7 +11391,7 @@ window.TENNIS_DATA = {
       "Zhang Zhizhen"
     ],
     "aliveCount": 56,
-    "matchesSeen": 114
+    "matchesSeen": 115
   },
   "WTA_TOURNAMENT": {
     "name": "China Open · Suzhou Open · Samsun Open · Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
