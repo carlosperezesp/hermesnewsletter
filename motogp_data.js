@@ -1,8 +1,8 @@
-// Auto-generated 2026-10-11 11:25 UTC
+// Auto-generated 2026-10-11 13:06 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-10-11 11:25 UTC",
+  "UPDATED": "2026-10-11 13:06 UTC",
   "SEASON": "2026",
-  "ROUND": 16,
+  "ROUND": 17,
   "TOTAL_ROUNDS": 22,
   "MAX_SEASON_PTS": 550,
   "IMPORTANCE": 9.9,
@@ -15,12 +15,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 333.0,
-      "score": 60.5,
+      "points": 355.0,
+      "score": 64.5,
       "stats": {
-        "pts": 333.0
+        "pts": 355.0
       },
-      "seasonPct": 60.5,
+      "seasonPct": 64.5,
       "prevRank": 1,
       "age": 28
     },
@@ -32,12 +32,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 331.0,
-      "score": 60.2,
+      "points": 353.0,
+      "score": 64.2,
       "stats": {
-        "pts": 331.0
+        "pts": 353.0
       },
-      "seasonPct": 60.2,
+      "seasonPct": 64.2,
       "prevRank": 2,
       "age": 33
     },
@@ -49,48 +49,48 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 284.0,
-      "score": 51.6,
+      "points": 309.0,
+      "score": 56.2,
       "stats": {
-        "pts": 284.0
+        "pts": 309.0
       },
-      "seasonPct": 51.6,
+      "seasonPct": 56.2,
       "prevRank": 3,
       "age": 28
     },
     {
       "position": 4,
-      "name": "Pedro Acosta",
-      "country": "ESP",
-      "bike": "KTM",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "primary": "#E86825",
-      "secondary": "#000000",
-      "points": 243.0,
-      "score": 44.2,
-      "stats": {
-        "pts": 243.0
-      },
-      "seasonPct": 44.2,
-      "prevRank": 4,
-      "age": 22
-    },
-    {
-      "position": 5,
       "name": "Ai Ogura",
       "country": "JPN",
       "bike": "Aprilia",
       "logo": "https://flagcdn.com/24x18/jp.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 237.0,
-      "score": 43.1,
+      "points": 259.0,
+      "score": 47.1,
       "stats": {
-        "pts": 237.0
+        "pts": 259.0
       },
-      "seasonPct": 43.1,
+      "seasonPct": 47.1,
       "prevRank": 5,
       "age": 25
+    },
+    {
+      "position": 5,
+      "name": "Pedro Acosta",
+      "country": "ESP",
+      "bike": "KTM",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "primary": "#E86825",
+      "secondary": "#000000",
+      "points": 258.0,
+      "score": 46.9,
+      "stats": {
+        "pts": 258.0
+      },
+      "seasonPct": 46.9,
+      "prevRank": 4,
+      "age": 22
     },
     {
       "position": 6,
@@ -100,12 +100,12 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/it.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 230.0,
-      "score": 41.8,
+      "points": 245.0,
+      "score": 44.5,
       "stats": {
-        "pts": 230.0
+        "pts": 245.0
       },
-      "seasonPct": 41.8,
+      "seasonPct": 44.5,
       "prevRank": 6,
       "age": 28
     },
@@ -117,48 +117,48 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#003366",
       "secondary": "#E8002D",
-      "points": 216.0,
-      "score": 39.3,
+      "points": 236.0,
+      "score": 42.9,
       "stats": {
-        "pts": 216.0
+        "pts": 236.0
       },
-      "seasonPct": 39.3,
+      "seasonPct": 42.9,
       "prevRank": 7,
       "age": 26
     },
     {
       "position": 8,
-      "name": "Francesco Bagnaia",
-      "country": "ITA",
-      "bike": "Ducati",
-      "logo": "https://flagcdn.com/24x18/it.png",
-      "primary": "#CC0000",
-      "secondary": "#FFD200",
-      "points": 164.0,
-      "score": 29.8,
-      "stats": {
-        "pts": 164.0
-      },
-      "seasonPct": 29.8,
-      "prevRank": 8,
-      "age": 29
-    },
-    {
-      "position": 9,
       "name": "Álex Márquez",
       "country": "ESP",
       "bike": "Ducati",
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 158.0,
-      "score": 28.7,
+      "points": 172.0,
+      "score": 31.3,
       "stats": {
-        "pts": 158.0
+        "pts": 172.0
       },
-      "seasonPct": 28.7,
+      "seasonPct": 31.3,
       "prevRank": 9,
       "age": 30
+    },
+    {
+      "position": 9,
+      "name": "Francesco Bagnaia",
+      "country": "ITA",
+      "bike": "Ducati",
+      "logo": "https://flagcdn.com/24x18/it.png",
+      "primary": "#CC0000",
+      "secondary": "#FFD200",
+      "points": 166.0,
+      "score": 30.2,
+      "stats": {
+        "pts": 166.0
+      },
+      "seasonPct": 30.2,
+      "prevRank": 8,
+      "age": 29
     },
     {
       "position": 10,
@@ -168,29 +168,17 @@ window.MOTOGP_DATA = {
       "logo": "https://flagcdn.com/24x18/es.png",
       "primary": "#CC0000",
       "secondary": "#FFD200",
-      "points": 122.0,
-      "score": 22.2,
+      "points": 125.0,
+      "score": 22.7,
       "stats": {
-        "pts": 122.0
+        "pts": 125.0
       },
-      "seasonPct": 22.2,
+      "seasonPct": 22.7,
       "prevRank": 10,
       "age": 21
     }
   ],
   "PROSPECTS": [
-    {
-      "name": "Pedro Acosta",
-      "country": "ESP",
-      "logo": "https://flagcdn.com/24x18/es.png",
-      "primary": "#E86825",
-      "secondary": "#000000",
-      "bike": "KTM",
-      "score": 44.2,
-      "position": 4,
-      "age": 22,
-      "note": "Top 4 a los 22"
-    },
     {
       "name": "Ai Ogura",
       "country": "JPN",
@@ -198,10 +186,22 @@ window.MOTOGP_DATA = {
       "primary": "#003366",
       "secondary": "#E8002D",
       "bike": "Aprilia",
-      "score": 43.1,
-      "position": 5,
+      "score": 47.1,
+      "position": 4,
       "age": 25,
-      "note": "Top 5 a los 25"
+      "note": "Top 4 a los 25"
+    },
+    {
+      "name": "Pedro Acosta",
+      "country": "ESP",
+      "logo": "https://flagcdn.com/24x18/es.png",
+      "primary": "#E86825",
+      "secondary": "#000000",
+      "bike": "KTM",
+      "score": 46.9,
+      "position": 5,
+      "age": 22,
+      "note": "Top 5 a los 22"
     },
     {
       "name": "Fermín Aldeguer",
@@ -210,7 +210,7 @@ window.MOTOGP_DATA = {
       "primary": "#CC0000",
       "secondary": "#FFD200",
       "bike": "Ducati",
-      "score": 22.2,
+      "score": 22.7,
       "position": 10,
       "age": 21,
       "note": "Irrumpe a los 21 (P10)"

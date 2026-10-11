@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-11 11:28 UTC
+// Auto-generated 2026-10-11 13:07 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-11 11:28 UTC",
+  "UPDATED": "2026-10-11 13:07 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -101,7 +101,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R32",
+        "round": "R16",
         "reason": ""
       },
       "prevActiveScore": 87.5
@@ -679,7 +679,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R32",
+        "round": "R16",
         "reason": "Eliminado en R128"
       },
       "prevActiveScore": 75.0
@@ -917,7 +917,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 69.2
@@ -2109,7 +2109,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R32",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 59.1
@@ -8315,10 +8315,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 93,
       "tournamentStatus": {
-        "tournament": "China Open · Suzhou Open · Samsun Open · Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lisboa Belem Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 51.0
     },
@@ -9217,10 +9217,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 119,
       "tournamentStatus": {
-        "tournament": "China Open · Suzhou Open · Samsun Open · Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lisboa Belem Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 42.8
     },
@@ -9355,10 +9355,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 123,
       "tournamentStatus": {
-        "tournament": "China Open · Suzhou Open · Samsun Open · Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lisboa Belem Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 40.8
     },
@@ -9495,7 +9495,7 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 127,
       "tournamentStatus": {
-        "tournament": "Samsun Open",
+        "tournament": "Lisboa Belem Open",
         "state": "alive",
         "round": "R128",
         "reason": ""
@@ -9921,10 +9921,10 @@ window.TENNIS_DATA = {
       "leyendaScore": 0.0,
       "prevListRank": 139,
       "tournamentStatus": {
-        "tournament": "China Open · Suzhou Open · Samsun Open · Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
-        "state": "out",
-        "round": "",
-        "reason": "No compite esta semana"
+        "tournament": "Lisboa Belem Open",
+        "state": "alive",
+        "round": "R128",
+        "reason": ""
       },
       "prevActiveScore": 36.0
     },
@@ -11004,15 +11004,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R32",
-          "w": "Quentin Halys",
+          "w": "Alexander Zverev",
           "w_logo": "",
-          "l": "Alexander Zverev",
+          "l": "Quentin Halys",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 6-7 (8-10) 6-3",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 59.3,
-          "l_score": 87.5,
+          "w_score": 87.5,
+          "l_score": 59.3,
           "match_score": 87.5
         },
         {
@@ -11047,24 +11047,24 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alejandro Davidovich Fokina",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 75.4,
           "l_score": 72.3,
           "match_score": 75.4
         },
         {
           "round": "R32",
-          "w": "Brandon Nakashima",
+          "w": "Alexander Bublik",
           "w_logo": "",
-          "l": "Alexander Bublik",
+          "l": "Brandon Nakashima",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-7 (7-9) 6-3 7-6 (7-5)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 69.0,
-          "l_score": 74.8,
+          "w_score": 74.8,
+          "l_score": 69.0,
           "match_score": 74.8
         },
         {
@@ -11222,9 +11222,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Zheng Qinwen",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 91.9,
           "l_score": null,
           "match_score": 91.9
@@ -11258,15 +11258,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "F",
-          "w": "Lucrezia Stefanini",
+          "w": "Ayla Aksu",
           "w_logo": "",
-          "l": "Ayla Aksu",
+          "l": "Lucrezia Stefanini",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-5 2-6 6-2",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 40.4,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 40.4,
           "match_score": 40.4
         }
       ]
@@ -11391,7 +11391,7 @@ window.TENNIS_DATA = {
       "Zhang Zhizhen"
     ],
     "aliveCount": 56,
-    "matchesSeen": 113
+    "matchesSeen": 114
   },
   "WTA_TOURNAMENT": {
     "name": "China Open · Suzhou Open · Samsun Open · Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group · RoveretOpen Città della Pace · Lisboa Belem Open",
@@ -11438,6 +11438,7 @@ window.TENNIS_DATA = {
     "alive": [
       "Alexandra Eala",
       "Aliaksandra Sasnovich",
+      "Alice Rame",
       "Alicia Dudeney",
       "Alina Charaeva",
       "Aliona Falei",
@@ -11456,8 +11457,11 @@ window.TENNIS_DATA = {
       "Ariana Geerlings",
       "Aryna Sabalenka",
       "Ashlyn Krueger",
+      "Aurora Zantedeschi",
       "Ayla Aksu",
       "Bai Zhuoxuan",
+      "Barbora Palicova",
+      "Beatriz Castro",
       "Belinda Bencic",
       "Bianca Andreescu",
       "Caijsa Hennemann",
@@ -11465,6 +11469,7 @@ window.TENNIS_DATA = {
       "Caroline Werner",
       "Catherine McNally",
       "Claire Liu",
+      "Clara Burel",
       "Clara Tauson",
       "Coco Gauff",
       "Cristina Bucsa",
@@ -11492,20 +11497,27 @@ window.TENNIS_DATA = {
       "Eva Bennemann",
       "Eva Vedder",
       "Fiona Crawley",
+      "Fiona Ferro",
       "Francesca Curmi",
+      "Francesca Jones",
+      "Francisca Jorge",
       "Gabriela Knutson",
       "Gaia Maduzzi",
       "Gao Xinyu",
+      "Giorgia Pedone",
       "Guo Hanyu",
       "Harmony Tan",
       "Harriet Dart",
       "Himeno Sakatsume",
       "Iga Swiatek",
+      "Irene Burillo",
       "Iva Jovic",
       "Janice Tjen",
       "Jasmine Paolini",
+      "Jazmin Ortenzi",
       "Jelena Ostapenko",
       "Jennifer Ruggeri",
+      "Jessica Bouzas Maneiro",
       "Joelle Lilly Sophie Steur",
       "Julia Avdeeva",
       "Julia Grabher",
@@ -11521,17 +11533,21 @@ window.TENNIS_DATA = {
       "Laura Pigossi",
       "Laura Samson",
       "Leylah Fernandez",
+      "Leyre Romero Gormaz",
       "Lilli Tagger",
+      "Lina Gjorcheska",
       "Linda Fruhvirtova",
       "Linda Klimovicova",
       "Linda Noskova",
       "Lisa Pigato",
+      "Lisa Zaar",
       "Liudmila Samsonova",
       "Lola Radivojevic",
       "Lucia Bronzetti",
       "Lucia Cortez Llorca",
       "Lucie Havlickova",
       "Lucrezia Stefanini",
+      "Madalena Matias",
       "Maddison Inglis",
       "Magdalena Frech",
       "Maja Chwalinska",
@@ -11540,10 +11556,14 @@ window.TENNIS_DATA = {
       "Maria Timofeeva",
       "Mariam Bolkvadze",
       "Marie Bouzkova",
+      "Martha Matoula",
+      "Martina Colmegna",
       "Martyna Kubka",
+      "Matilde Jorge",
       "Mayar Sherif",
       "Mia Pohankova",
       "Mia Ristic",
+      "Milana Ivantsiv",
       "Mina Hodzic",
       "Mirra Andreeva",
       "Mona Barthel",
@@ -11557,6 +11577,7 @@ window.TENNIS_DATA = {
       "Paula Badosa",
       "Polina Iatcenko",
       "Polina Kudermetova",
+      "Polona Hercog",
       "Rebecca Sramkova",
       "Rebeka Masarova",
       "Renata Zarazua",
@@ -11575,6 +11596,7 @@ window.TENNIS_DATA = {
       "Tea Kovacevic",
       "Teodora Kostovic",
       "Viktoria Hruncakova",
+      "Viktoria Morvayova",
       "Viktorija Golubic",
       "Wang Xinyu",
       "Wang Xiyu",
@@ -11586,6 +11608,7 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez",
       "Zhang Shuai",
       "Zheng Qinwen",
+      "Zhibek Kulambayeva",
       "Zhu Lin"
     ],
     "out": [
@@ -11631,8 +11654,8 @@ window.TENNIS_DATA = {
       "Zhang Ruien",
       "Zheng Wushuang"
     ],
-    "aliveCount": 151,
-    "matchesSeen": 206
+    "aliveCount": 174,
+    "matchesSeen": 218
   },
   "ATP_SCORE_LOG": {
     "206173": [

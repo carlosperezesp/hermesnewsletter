@@ -183,26 +183,6 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "HOU",
-      "city": "Houston Rockets",
-      "shortName": "Houston",
-      "commonName": "Rockets",
-      "conf": "W",
-      "gp": 1,
-      "w": 1,
-      "l": 0,
-      "winPct": 1.0,
-      "gf": 135,
-      "ga": 117,
-      "gd": 18,
-      "score": 100,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
-      "colors": {
-        "primary": "#ce1141",
-        "secondary": "#c4cdd2"
-      }
-    },
-    {
       "code": "IND",
       "city": "Indiana Pacers",
       "shortName": "Indiana",
@@ -283,6 +263,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "HOU",
+      "city": "Houston Rockets",
+      "shortName": "Houston",
+      "commonName": "Rockets",
+      "conf": "W",
+      "gp": 2,
+      "w": 1,
+      "l": 1,
+      "winPct": 0.5,
+      "gf": 250,
+      "ga": 249,
+      "gd": 1,
+      "score": 42,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+      "colors": {
+        "primary": "#ce1141",
+        "secondary": "#c4cdd2"
+      }
+    },
+    {
       "code": "UTAH",
       "city": "Utah Jazz",
       "shortName": "Utah",
@@ -300,6 +300,26 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#002b5e",
         "secondary": "#00471b"
+      }
+    },
+    {
+      "code": "DAL",
+      "city": "Dallas Mavericks",
+      "shortName": "Dallas",
+      "commonName": "Mavericks",
+      "conf": "W",
+      "gp": 2,
+      "w": 1,
+      "l": 1,
+      "winPct": 0.5,
+      "gf": 249,
+      "ga": 250,
+      "gd": -1,
+      "score": 40,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+      "colors": {
+        "primary": "#00538c",
+        "secondary": "#002b5e"
       }
     },
     {
@@ -520,26 +540,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#c4ced4",
         "secondary": "#000000"
-      }
-    },
-    {
-      "code": "DAL",
-      "city": "Dallas Mavericks",
-      "shortName": "Dallas",
-      "commonName": "Mavericks",
-      "conf": "W",
-      "gp": 1,
-      "w": 0,
-      "l": 1,
-      "winPct": 0.0,
-      "gf": 117,
-      "ga": 135,
-      "gd": -18,
-      "score": 0,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
-      "colors": {
-        "primary": "#00538c",
-        "secondary": "#002b5e"
       }
     },
     {
@@ -974,7 +974,7 @@ window.NBA_DATA = {
           "primary": "#552583",
           "secondary": "#fdb927"
         },
-        "prevRank": 3
+        "prevRank": 2
       },
       {
         "teamCode": "GS",
@@ -990,7 +990,7 @@ window.NBA_DATA = {
           "primary": "#1d428a",
           "secondary": "#ffc72c"
         },
-        "prevRank": 5
+        "prevRank": 3
       },
       {
         "teamCode": "DEN",
@@ -1022,7 +1022,7 @@ window.NBA_DATA = {
           "primary": "#0c2340",
           "secondary": "#236192"
         },
-        "prevRank": 6
+        "prevRank": 5
       },
       {
         "teamCode": "IND",
@@ -1038,7 +1038,7 @@ window.NBA_DATA = {
           "primary": "#002d62",
           "secondary": "#fdbb30"
         },
-        "prevRank": 2
+        "prevRank": 6
       },
       {
         "teamCode": "MIL",
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-11 11:24 UTC",
+  "LAST_UPDATE": "2026-10-11 13:06 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
