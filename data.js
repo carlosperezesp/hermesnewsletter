@@ -811,7 +811,7 @@ window.NHL_DATA = {
         94
       ],
       "legendScore": 56.7,
-      "prevRank": 4
+      "prevRank": 3
     },
     {
       "id": 8476923,
@@ -846,7 +846,7 @@ window.NHL_DATA = {
         89
       ],
       "legendScore": 44.5,
-      "prevRank": 6
+      "prevRank": 4
     },
     {
       "id": 8484801,
@@ -881,7 +881,7 @@ window.NHL_DATA = {
         86
       ],
       "legendScore": 47.8,
-      "prevRank": 3
+      "prevRank": 5
     },
     {
       "id": 8477492,
@@ -916,7 +916,7 @@ window.NHL_DATA = {
         86
       ],
       "legendScore": 70.7,
-      "prevRank": 8
+      "prevRank": 6
     },
     {
       "id": 8477934,
@@ -951,7 +951,7 @@ window.NHL_DATA = {
         83
       ],
       "legendScore": 63.8,
-      "prevRank": 5
+      "prevRank": 7
     },
     {
       "id": 8479979,
@@ -983,7 +983,7 @@ window.NHL_DATA = {
         60,
         82
       ],
-      "prevRank": 7
+      "prevRank": 8
     },
     {
       "id": 8478398,
@@ -1018,7 +1018,7 @@ window.NHL_DATA = {
         81
       ],
       "legendScore": 54.8,
-      "prevRank": 12
+      "prevRank": 9
     },
     {
       "id": 8480018,
@@ -3384,7 +3384,7 @@ window.NHL_DATA = {
       "name": "Alexis Lafrenière",
       "pos": "LW",
       "teamCode": "NYR",
-      "age": 24,
+      "age": 25,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -23143,7 +23143,7 @@ window.NHL_DATA = {
       "name": "William Trudeau",
       "pos": "D",
       "teamCode": "NSH",
-      "age": 23,
+      "age": 24,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -34227,7 +34227,7 @@ window.NHL_DATA = {
           "primary": "#ffb81c",
           "secondary": "#111111"
         },
-        "prevRank": 9
+        "prevRank": 7
       },
       {
         "teamCode": "NYR",
@@ -34243,7 +34243,7 @@ window.NHL_DATA = {
           "primary": "#0038a8",
           "secondary": "#ce1126"
         },
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "teamCode": "MIN",
@@ -34259,7 +34259,7 @@ window.NHL_DATA = {
           "primary": "#154734",
           "secondary": "#a6192e"
         },
-        "prevRank": 8
+        "prevRank": 9
       },
       {
         "teamCode": "DAL",
@@ -34349,7 +34349,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 35.1,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 5
+        "prevRank": 4
       },
       {
         "id": 8481617,
@@ -34367,7 +34367,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 35.6,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "id": 8482671,
@@ -34385,7 +34385,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 36.1,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": 7
+        "prevRank": 6
       },
       {
         "id": 8485414,
@@ -34403,7 +34403,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 36.3,
         "note": "Promising young talent — long road ahead",
-        "prevRank": 6
+        "prevRank": 7
       },
       {
         "id": 8483457,
@@ -34439,7 +34439,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 37.2,
         "note": "Strong pedigree — leap to elite level needed",
-        "prevRank": null
+        "prevRank": 9
       },
       {
         "id": 8484984,
@@ -34457,7 +34457,7 @@ window.NHL_DATA = {
         "threshold": 93.1,
         "gap": 37.4,
         "note": "Promising young talent — long road ahead",
-        "prevRank": 9
+        "prevRank": 10
       }
     ]
   },
@@ -34506,10 +34506,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-10 23:34 UTC",
+  "LAST_UPDATE": "2026-10-11 00:16 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-10T23:33:30Z"
+    "standingsDateTimeUtc": "2026-10-11T00:16:00Z"
   }
 };

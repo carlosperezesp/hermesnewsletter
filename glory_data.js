@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-10 23:36 UTC",
+  "UPDATED": "2026-10-11 00:18 UTC",
   "EVENTS": [
     {
       "id": "f1:win:Singapore Airlines Singapore Grand Prix:George Russell",
@@ -41,14 +41,6 @@ window.GLORY_DATA = {
       "text": "George Russell ganó el Qatar Airways Azerbaijan Grand Prix",
       "weight": 100,
       "firstSeen": "2026-10-01"
-    },
-    {
-      "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
-      "sport": "nascar",
-      "detail": "NASCAR",
-      "text": "Ryan Blaney ganó en Echopark Speedway",
-      "weight": 100,
-      "firstSeen": "2026-09-26"
     },
     {
       "id": "rank:cycling:CURRENT_PROSPECTS:new1:Paul Seixas",
