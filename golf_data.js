@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-11 00:17 UTC
+// Auto-generated 2026-10-11 11:25 UTC
 window.GOLF_DATA = {
-  "UPDATED": "2026-10-11 00:17 UTC",
+  "UPDATED": "2026-10-11 11:25 UTC",
   "SEASON": 2026,
   "CURRENT_MAJOR": {
     "name": "The Open Championship",
@@ -450,7 +450,7 @@ window.GOLF_DATA = {
       "stats": {
         "majors": 2,
         "wins": 0,
-        "topTen": 7,
+        "topTen": 8,
         "fedexRank": 12,
         "tour": "PGA"
       },
@@ -523,6 +523,22 @@ window.GOLF_DATA = {
       "note": "Top del circuito a los 25"
     },
     {
+      "id": "aldrich_potgieter",
+      "name": "Aldrich Potgieter",
+      "country": "RSA",
+      "logo": "https://flagcdn.com/24x18/za.png",
+      "teamCode": "PGA",
+      "primary": "#007749",
+      "secondary": "#FFFFFF",
+      "colors": {
+        "primary": "#007749",
+        "secondary": "#FFFFFF"
+      },
+      "activeScore": 52.0,
+      "age": 22,
+      "note": "Promesa emergente a los 22"
+    },
+    {
       "id": "nick_dunlap",
       "name": "Nick Dunlap",
       "country": "USA",
@@ -553,22 +569,6 @@ window.GOLF_DATA = {
       "activeScore": 48,
       "age": 25,
       "note": "Promesa emergente a los 25"
-    },
-    {
-      "id": "aldrich_potgieter",
-      "name": "Aldrich Potgieter",
-      "country": "RSA",
-      "logo": "https://flagcdn.com/24x18/za.png",
-      "teamCode": "PGA",
-      "primary": "#007749",
-      "secondary": "#FFFFFF",
-      "colors": {
-        "primary": "#007749",
-        "secondary": "#FFFFFF"
-      },
-      "activeScore": 48,
-      "age": 22,
-      "note": "Promesa emergente a los 22"
     }
   ],
   "LEGENDS": [
@@ -1043,7 +1043,7 @@ window.GOLF_DATA = {
       "stats": {
         "majors": 2,
         "wins": 0,
-        "topTen": 7,
+        "topTen": 8,
         "fedexRank": 12,
         "tour": "PGA"
       },

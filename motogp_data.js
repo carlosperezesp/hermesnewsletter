@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-11 00:17 UTC
+// Auto-generated 2026-10-11 11:25 UTC
 window.MOTOGP_DATA = {
-  "UPDATED": "2026-10-11 00:17 UTC",
+  "UPDATED": "2026-10-11 11:25 UTC",
   "SEASON": "2026",
   "ROUND": 16,
   "TOTAL_ROUNDS": 22,
@@ -282,8 +282,8 @@ window.MOTOGP_DATA = {
     }
   ],
   "LAST_RACE": {
-    "round": 16,
-    "name": "Japanese motorcycle Grand Prix",
+    "round": 17,
+    "name": "Indonesian motorcycle Grand Prix",
     "winner": "Marc Márquez",
     "country": "SPA",
     "bike": "Ducati",
@@ -299,19 +299,19 @@ window.MOTOGP_DATA = {
       },
       {
         "pos": 2,
-        "name": "Diogo Moreira",
-        "country": "BRA",
-        "logo": "https://flagcdn.com/24x18/br.png",
-        "bike": "Honda",
-        "primary": "#CC0000"
+        "name": "Ai Ogura",
+        "country": "JPN",
+        "logo": "https://flagcdn.com/24x18/jp.png",
+        "bike": "Aprilia",
+        "primary": "#003366"
       },
       {
         "pos": 3,
-        "name": "Jorge Martín",
-        "country": "SPA",
-        "logo": "https://flagcdn.com/24x18/es.png",
-        "bike": "Aprilia",
-        "primary": "#003366"
+        "name": "Fabio Di Giannantonio",
+        "country": "ITA",
+        "logo": "https://flagcdn.com/24x18/it.png",
+        "bike": "Ducati",
+        "primary": "#CC0000"
       }
     ]
   },
