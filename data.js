@@ -3,6 +3,28 @@
 window.NHL_DATA = {
   "TEAMS": [
     {
+      "code": "NYR",
+      "city": "New York Rangers",
+      "shortName": "NY Rangers",
+      "commonName": "Rangers",
+      "conf": "E",
+      "div": "Metro",
+      "gp": 7,
+      "w": 5,
+      "l": 2,
+      "ot": 0,
+      "pts": 10,
+      "gf": 23,
+      "ga": 13,
+      "gd": 10,
+      "score": 59,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
+      "colors": {
+        "primary": "#0038a8",
+        "secondary": "#ce1126"
+      }
+    },
+    {
       "code": "VGK",
       "city": "Vegas Golden Knights",
       "shortName": "Vegas",
@@ -69,6 +91,28 @@ window.NHL_DATA = {
       }
     },
     {
+      "code": "SEA",
+      "city": "Seattle Kraken",
+      "shortName": "Seattle",
+      "commonName": "Kraken",
+      "conf": "W",
+      "div": "Pacific",
+      "gp": 6,
+      "w": 4,
+      "l": 2,
+      "ot": 0,
+      "pts": 8,
+      "gf": 26,
+      "ga": 17,
+      "gd": 9,
+      "score": 59,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
+      "colors": {
+        "primary": "#001628",
+        "secondary": "#99d9d9"
+      }
+    },
+    {
       "code": "BOS",
       "city": "Boston Bruins",
       "shortName": "Boston",
@@ -110,28 +154,6 @@ window.NHL_DATA = {
       "colors": {
         "primary": "#69b3e7",
         "secondary": "#010101"
-      }
-    },
-    {
-      "code": "NYR",
-      "city": "New York Rangers",
-      "shortName": "NY Rangers",
-      "commonName": "Rangers",
-      "conf": "E",
-      "div": "Metro",
-      "gp": 6,
-      "w": 4,
-      "l": 2,
-      "ot": 0,
-      "pts": 8,
-      "gf": 17,
-      "ga": 11,
-      "gd": 6,
-      "score": 56,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
-      "colors": {
-        "primary": "#0038a8",
-        "secondary": "#ce1126"
       }
     },
     {
@@ -311,43 +333,21 @@ window.NHL_DATA = {
       }
     },
     {
-      "code": "SEA",
-      "city": "Seattle Kraken",
-      "shortName": "Seattle",
-      "commonName": "Kraken",
-      "conf": "W",
-      "div": "Pacific",
-      "gp": 5,
-      "w": 3,
-      "l": 2,
-      "ot": 0,
-      "pts": 6,
-      "gf": 21,
-      "ga": 14,
-      "gd": 7,
-      "score": 55,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
-      "colors": {
-        "primary": "#001628",
-        "secondary": "#99d9d9"
-      }
-    },
-    {
       "code": "WSH",
       "city": "Washington Capitals",
       "shortName": "Washington",
       "commonName": "Capitals",
       "conf": "E",
       "div": "Metro",
-      "gp": 4,
+      "gp": 5,
       "w": 3,
-      "l": 1,
+      "l": 2,
       "ot": 0,
       "pts": 6,
-      "gf": 14,
-      "ga": 9,
-      "gd": 5,
-      "score": 61,
+      "gf": 17,
+      "ga": 14,
+      "gd": 3,
+      "score": 53,
       "logo": "https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg",
       "colors": {
         "primary": "#041e42",
@@ -553,28 +553,6 @@ window.NHL_DATA = {
       }
     },
     {
-      "code": "VAN",
-      "city": "Vancouver Canucks",
-      "shortName": "Vancouver",
-      "commonName": "Canucks",
-      "conf": "W",
-      "div": "Pacific",
-      "gp": 6,
-      "w": 2,
-      "l": 4,
-      "ot": 0,
-      "pts": 4,
-      "gf": 22,
-      "ga": 29,
-      "gd": -7,
-      "score": 39,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/VAN_light.svg",
-      "colors": {
-        "primary": "#00205b",
-        "secondary": "#00843d"
-      }
-    },
-    {
       "code": "BUF",
       "city": "Buffalo Sabres",
       "shortName": "Buffalo",
@@ -594,6 +572,28 @@ window.NHL_DATA = {
       "colors": {
         "primary": "#003087",
         "secondary": "#ffb81c"
+      }
+    },
+    {
+      "code": "VAN",
+      "city": "Vancouver Canucks",
+      "shortName": "Vancouver",
+      "commonName": "Canucks",
+      "conf": "W",
+      "div": "Pacific",
+      "gp": 7,
+      "w": 2,
+      "l": 5,
+      "ot": 0,
+      "pts": 4,
+      "gf": 24,
+      "ga": 35,
+      "gd": -11,
+      "score": 36,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/VAN_light.svg",
+      "colors": {
+        "primary": "#00205b",
+        "secondary": "#00843d"
       }
     },
     {
@@ -2179,37 +2179,6 @@ window.NHL_DATA = {
       "legendScore": 39.8
     },
     {
-      "id": 8480313,
-      "first": "Logan",
-      "last": "Thompson",
-      "name": "Logan Thompson",
-      "pos": "G",
-      "teamCode": "WSH",
-      "age": 29,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8480313.png",
-      "score": 69,
-      "stats": {
-        "gp": 3,
-        "w": 3,
-        "svpct": 0.929,
-        "gaa": 2.0,
-        "so": 0
-      },
-      "trajectory": [
-        50,
-        54,
-        57,
-        60,
-        69
-      ]
-    },
-    {
       "id": 8479410,
       "first": "Mikhail",
       "last": "Sergachev",
@@ -2278,40 +2247,6 @@ window.NHL_DATA = {
       "legendScore": 59.8
     },
     {
-      "id": 8476880,
-      "first": "Tom",
-      "last": "Wilson",
-      "name": "Tom Wilson",
-      "pos": "RW",
-      "teamCode": "WSH",
-      "age": 32,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8476880.png",
-      "score": 69,
-      "stats": {
-        "gp": 4,
-        "g": 2,
-        "a": 3,
-        "p": 5,
-        "pm": 4,
-        "toi": 19.0,
-        "shots": 7
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        69
-      ],
-      "legendScore": 50.7
-    },
-    {
       "id": 8478460,
       "first": "Zach",
       "last": "Werenski",
@@ -2376,7 +2311,8 @@ window.NHL_DATA = {
         43,
         45,
         68
-      ]
+      ],
+      "legendScore": 60.8
     },
     {
       "id": 8482447,
@@ -2572,6 +2508,37 @@ window.NHL_DATA = {
         67
       ],
       "legendScore": 37.5
+    },
+    {
+      "id": 8478916,
+      "first": "Joey",
+      "last": "Daccord",
+      "name": "Joey Daccord",
+      "pos": "G",
+      "teamCode": "SEA",
+      "age": 30,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#001628",
+        "secondary": "#99d9d9"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8478916.png",
+      "score": 67,
+      "stats": {
+        "gp": 4,
+        "w": 3,
+        "svpct": 0.913,
+        "gaa": 2.73,
+        "so": 0
+      },
+      "trajectory": [
+        50,
+        54,
+        57,
+        60,
+        67
+      ]
     },
     {
       "id": 8477424,
@@ -2848,13 +2815,13 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8477955.png",
       "score": 66,
       "stats": {
-        "gp": 5,
-        "g": 1,
+        "gp": 6,
+        "g": 2,
         "a": 5,
-        "p": 6,
-        "pm": 1,
-        "toi": 15.0,
-        "shots": 15
+        "p": 7,
+        "pm": 2,
+        "toi": 15.1,
+        "shots": 17
       },
       "trajectory": [
         38,
@@ -3009,13 +2976,13 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8478407.png",
       "score": 66,
       "stats": {
-        "gp": 5,
+        "gp": 6,
         "g": 2,
-        "a": 3,
-        "p": 5,
-        "pm": -1,
-        "toi": 21.8,
-        "shots": 6
+        "a": 4,
+        "p": 6,
+        "pm": 2,
+        "toi": 22.2,
+        "shots": 8
       },
       "trajectory": [
         38,
@@ -3186,6 +3153,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8483570,
+      "first": "Ben",
+      "last": "Meyers",
+      "name": "Ben Meyers",
+      "pos": "C",
+      "teamCode": "SEA",
+      "age": 27,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#001628",
+        "secondary": "#99d9d9"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8483570.png",
+      "score": 65,
+      "stats": {
+        "gp": 4,
+        "g": 1,
+        "a": 4,
+        "p": 5,
+        "pm": 4,
+        "toi": 12.1,
+        "shots": 4
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        65
+      ]
+    },
+    {
       "id": 8475660,
       "first": "Cam",
       "last": "Talbot",
@@ -3315,26 +3315,26 @@ window.NHL_DATA = {
       "legendScore": 53.0
     },
     {
-      "id": 8478916,
-      "first": "Joey",
-      "last": "Daccord",
-      "name": "Joey Daccord",
+      "id": 8480313,
+      "first": "Logan",
+      "last": "Thompson",
+      "name": "Logan Thompson",
       "pos": "G",
-      "teamCode": "SEA",
-      "age": 30,
-      "country": "United States",
-      "birthCountry": "USA",
+      "teamCode": "WSH",
+      "age": 29,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
-        "primary": "#001628",
-        "secondary": "#99d9d9"
+        "primary": "#041e42",
+        "secondary": "#c8102e"
       },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8478916.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8480313.png",
       "score": 65,
       "stats": {
-        "gp": 3,
-        "w": 2,
-        "svpct": 0.911,
-        "gaa": 2.64,
+        "gp": 4,
+        "w": 3,
+        "svpct": 0.902,
+        "gaa": 2.78,
         "so": 0
       },
       "trajectory": [
@@ -3796,6 +3796,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8476880,
+      "first": "Tom",
+      "last": "Wilson",
+      "name": "Tom Wilson",
+      "pos": "RW",
+      "teamCode": "WSH",
+      "age": 32,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8476880.png",
+      "score": 64,
+      "stats": {
+        "gp": 5,
+        "g": 2,
+        "a": 3,
+        "p": 5,
+        "pm": 3,
+        "toi": 19.4,
+        "shots": 10
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        64
+      ]
+    },
+    {
       "id": 8478499,
       "first": "Adin",
       "last": "Hill",
@@ -4138,13 +4171,13 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8477986.png",
       "score": 62,
       "stats": {
-        "gp": 5,
+        "gp": 6,
         "g": 0,
-        "a": 4,
-        "p": 4,
-        "pm": 3,
-        "toi": 23.4,
-        "shots": 7
+        "a": 5,
+        "p": 5,
+        "pm": 1,
+        "toi": 23.6,
+        "shots": 8
       },
       "trajectory": [
         38,
@@ -4204,12 +4237,12 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8476905.png",
       "score": 62,
       "stats": {
-        "gp": 5,
+        "gp": 6,
         "g": 1,
-        "a": 4,
-        "p": 5,
-        "pm": 1,
-        "toi": 17.1,
+        "a": 5,
+        "p": 6,
+        "pm": 0,
+        "toi": 17.3,
         "shots": 4
       },
       "trajectory": [
@@ -4351,39 +4384,6 @@ window.NHL_DATA = {
         62
       ],
       "legendScore": 55.7
-    },
-    {
-      "id": 8479345,
-      "first": "Jakob",
-      "last": "Chychrun",
-      "name": "Jakob Chychrun",
-      "pos": "D",
-      "teamCode": "WSH",
-      "age": 28,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8479345.png",
-      "score": 62,
-      "stats": {
-        "gp": 4,
-        "g": 1,
-        "a": 2,
-        "p": 3,
-        "pm": 1,
-        "toi": 24.6,
-        "shots": 9
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        62
-      ]
     },
     {
       "id": 8480003,
@@ -4676,39 +4676,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8478440,
-      "first": "Dylan",
-      "last": "Strome",
-      "name": "Dylan Strome",
-      "pos": "C",
-      "teamCode": "WSH",
-      "age": 29,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8478440.png",
-      "score": 61,
-      "stats": {
-        "gp": 4,
-        "g": 0,
-        "a": 4,
-        "p": 4,
-        "pm": 1,
-        "toi": 14.8,
-        "shots": 8
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        61
-      ]
-    },
-    {
       "id": 8474590,
       "first": "John",
       "last": "Carlson",
@@ -4758,13 +4725,13 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8481554.png",
       "score": 61,
       "stats": {
-        "gp": 5,
-        "g": 1,
+        "gp": 6,
+        "g": 2,
         "a": 4,
-        "p": 5,
+        "p": 6,
         "pm": 3,
-        "toi": 14.4,
-        "shots": 4
+        "toi": 14.0,
+        "shots": 5
       },
       "trajectory": [
         38,
@@ -4973,39 +4940,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8477949,
-      "first": "Alex",
-      "last": "Tuch",
-      "name": "Alex Tuch",
-      "pos": "RW",
-      "teamCode": "WSH",
-      "age": 30,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8477949.png",
-      "score": 60,
-      "stats": {
-        "gp": 4,
-        "g": 3,
-        "a": 0,
-        "p": 3,
-        "pm": 5,
-        "toi": 18.4,
-        "shots": 13
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        60
-      ]
-    },
-    {
       "id": 8477476,
       "first": "Artturi",
       "last": "Lehkonen",
@@ -5071,39 +5005,6 @@ window.NHL_DATA = {
         60
       ],
       "legendScore": 54.6
-    },
-    {
-      "id": 8483570,
-      "first": "Ben",
-      "last": "Meyers",
-      "name": "Ben Meyers",
-      "pos": "C",
-      "teamCode": "SEA",
-      "age": 27,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#001628",
-        "secondary": "#99d9d9"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8483570.png",
-      "score": 60,
-      "stats": {
-        "gp": 3,
-        "g": 1,
-        "a": 2,
-        "p": 3,
-        "pm": 2,
-        "toi": 11.8,
-        "shots": 3
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        60
-      ]
     },
     {
       "id": 8482221,
@@ -5236,6 +5137,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8479345,
+      "first": "Jakob",
+      "last": "Chychrun",
+      "name": "Jakob Chychrun",
+      "pos": "D",
+      "teamCode": "WSH",
+      "age": 28,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8479345.png",
+      "score": 60,
+      "stats": {
+        "gp": 5,
+        "g": 1,
+        "a": 2,
+        "p": 3,
+        "pm": 0,
+        "toi": 25.1,
+        "shots": 17
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        60
+      ]
+    },
+    {
       "id": 8480027,
       "first": "Jason",
       "last": "Robertson",
@@ -5301,6 +5235,39 @@ window.NHL_DATA = {
         60
       ],
       "legendScore": 51.9
+    },
+    {
+      "id": 8474586,
+      "first": "Jordan",
+      "last": "Eberle",
+      "name": "Jordan Eberle",
+      "pos": "RW",
+      "teamCode": "SEA",
+      "age": 36,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#001628",
+        "secondary": "#99d9d9"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8474586.png",
+      "score": 60,
+      "stats": {
+        "gp": 6,
+        "g": 3,
+        "a": 2,
+        "p": 5,
+        "pm": 0,
+        "toi": 16.5,
+        "shots": 14
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        60
+      ]
     },
     {
       "id": 8480893,
@@ -5699,6 +5666,39 @@ window.NHL_DATA = {
         59
       ],
       "legendScore": 51.3
+    },
+    {
+      "id": 8477919,
+      "first": "Frederick",
+      "last": "Gaudreau",
+      "name": "Frederick Gaudreau",
+      "pos": "C",
+      "teamCode": "SEA",
+      "age": 33,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#001628",
+        "secondary": "#99d9d9"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8477919.png",
+      "score": 59,
+      "stats": {
+        "gp": 6,
+        "g": 4,
+        "a": 1,
+        "p": 5,
+        "pm": 3,
+        "toi": 15.0,
+        "shots": 9
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        59
+      ]
     },
     {
       "id": 8482982,
@@ -6157,40 +6157,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8484800,
-      "first": "Berkly",
-      "last": "Catton",
-      "name": "Berkly Catton",
-      "pos": "C",
-      "teamCode": "SEA",
-      "age": 20,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#001628",
-        "secondary": "#99d9d9"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8484800.png",
-      "score": 58,
-      "stats": {
-        "gp": 5,
-        "g": 2,
-        "a": 2,
-        "p": 4,
-        "pm": 3,
-        "toi": 15.5,
-        "shots": 11
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        58
-      ],
-      "legendScore": 53.5
-    },
-    {
       "id": 8482730,
       "first": "Brandt",
       "last": "Clarke",
@@ -6356,39 +6322,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8474586,
-      "first": "Jordan",
-      "last": "Eberle",
-      "name": "Jordan Eberle",
-      "pos": "RW",
-      "teamCode": "SEA",
-      "age": 36,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#001628",
-        "secondary": "#99d9d9"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8474586.png",
-      "score": 58,
-      "stats": {
-        "gp": 5,
-        "g": 2,
-        "a": 2,
-        "p": 4,
-        "pm": 1,
-        "toi": 16.1,
-        "shots": 8
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        58
-      ]
-    },
-    {
       "id": 8482660,
       "first": "Kent",
       "last": "Johnson",
@@ -6521,40 +6454,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8482713,
-      "first": "Mackie",
-      "last": "Samoskevich",
-      "name": "Mackie Samoskevich",
-      "pos": "RW",
-      "teamCode": "SEA",
-      "age": 23,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#001628",
-        "secondary": "#99d9d9"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482713.png",
-      "score": 58,
-      "stats": {
-        "gp": 4,
-        "g": 3,
-        "a": 0,
-        "p": 3,
-        "pm": 0,
-        "toi": 15.2,
-        "shots": 8
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        58
-      ],
-      "legendScore": 48.8
-    },
-    {
       "id": 8482511,
       "first": "Mason",
       "last": "Lohrei",
@@ -6587,6 +6486,40 @@ window.NHL_DATA = {
         58
       ],
       "legendScore": 48.3
+    },
+    {
+      "id": 8484186,
+      "first": "Ryan",
+      "last": "Leonard",
+      "name": "Ryan Leonard",
+      "pos": "RW",
+      "teamCode": "WSH",
+      "age": 21,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8484186.png",
+      "score": 58,
+      "stats": {
+        "gp": 5,
+        "g": 2,
+        "a": 2,
+        "p": 4,
+        "pm": 2,
+        "toi": 13.8,
+        "shots": 14
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        58
+      ],
+      "legendScore": 51.5
     },
     {
       "id": 8478854,
@@ -6785,6 +6718,39 @@ window.NHL_DATA = {
         57
       ],
       "legendScore": 47.8
+    },
+    {
+      "id": 8477949,
+      "first": "Alex",
+      "last": "Tuch",
+      "name": "Alex Tuch",
+      "pos": "RW",
+      "teamCode": "WSH",
+      "age": 30,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8477949.png",
+      "score": 57,
+      "stats": {
+        "gp": 5,
+        "g": 3,
+        "a": 0,
+        "p": 3,
+        "pm": 4,
+        "toi": 18.9,
+        "shots": 15
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        57
+      ]
     },
     {
       "id": 8477021,
@@ -7006,6 +6972,39 @@ window.NHL_DATA = {
         "pm": 1,
         "toi": 21.7,
         "shots": 2
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        57
+      ]
+    },
+    {
+      "id": 8478440,
+      "first": "Dylan",
+      "last": "Strome",
+      "name": "Dylan Strome",
+      "pos": "C",
+      "teamCode": "WSH",
+      "age": 29,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8478440.png",
+      "score": 57,
+      "stats": {
+        "gp": 5,
+        "g": 0,
+        "a": 4,
+        "p": 4,
+        "pm": 2,
+        "toi": 15.7,
+        "shots": 10
       },
       "trajectory": [
         38,
@@ -7245,29 +7244,29 @@ window.NHL_DATA = {
       "legendScore": 47.8
     },
     {
-      "id": 8484186,
+      "id": 8482751,
       "first": "Ryan",
-      "last": "Leonard",
-      "name": "Ryan Leonard",
-      "pos": "RW",
-      "teamCode": "WSH",
-      "age": 21,
-      "country": "United States",
-      "birthCountry": "USA",
+      "last": "Winterton",
+      "name": "Ryan Winterton",
+      "pos": "C",
+      "teamCode": "SEA",
+      "age": 23,
+      "country": "Canada",
+      "birthCountry": "CAN",
       "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
+        "primary": "#001628",
+        "secondary": "#99d9d9"
       },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8484186.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482751.png",
       "score": 57,
       "stats": {
-        "gp": 4,
-        "g": 2,
-        "a": 1,
-        "p": 3,
-        "pm": 3,
-        "toi": 13.4,
-        "shots": 10
+        "gp": 6,
+        "g": 1,
+        "a": 4,
+        "p": 5,
+        "pm": 4,
+        "toi": 13.3,
+        "shots": 9
       },
       "trajectory": [
         38,
@@ -7276,7 +7275,7 @@ window.NHL_DATA = {
         45,
         57
       ],
-      "legendScore": 50.9
+      "legendScore": 48.2
     },
     {
       "id": 8476906,
@@ -7441,6 +7440,40 @@ window.NHL_DATA = {
         45,
         56
       ]
+    },
+    {
+      "id": 8484873,
+      "first": "Cole",
+      "last": "Hutson",
+      "name": "Cole Hutson",
+      "pos": "D",
+      "teamCode": "WSH",
+      "age": 20,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8484873.png",
+      "score": 56,
+      "stats": {
+        "gp": 5,
+        "g": 1,
+        "a": 2,
+        "p": 3,
+        "pm": 1,
+        "toi": 18.6,
+        "shots": 14
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        56
+      ],
+      "legendScore": 52.3
     },
     {
       "id": 8482175,
@@ -7703,6 +7736,73 @@ window.NHL_DATA = {
         54,
         57,
         60,
+        55
+      ]
+    },
+    {
+      "id": 8484800,
+      "first": "Berkly",
+      "last": "Catton",
+      "name": "Berkly Catton",
+      "pos": "C",
+      "teamCode": "SEA",
+      "age": 20,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#001628",
+        "secondary": "#99d9d9"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8484800.png",
+      "score": 55,
+      "stats": {
+        "gp": 6,
+        "g": 2,
+        "a": 2,
+        "p": 4,
+        "pm": 3,
+        "toi": 15.1,
+        "shots": 11
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        55
+      ],
+      "legendScore": 51.8
+    },
+    {
+      "id": 8476432,
+      "first": "Boone",
+      "last": "Jenner",
+      "name": "Boone Jenner",
+      "pos": "C",
+      "teamCode": "WSH",
+      "age": 33,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8476432.png",
+      "score": 55,
+      "stats": {
+        "gp": 5,
+        "g": 2,
+        "a": 1,
+        "p": 3,
+        "pm": 2,
+        "toi": 15.7,
+        "shots": 16
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
         55
       ]
     },
@@ -8409,7 +8509,7 @@ window.NHL_DATA = {
       "name": "Adam Fantilli",
       "pos": "C",
       "teamCode": "CBJ",
-      "age": 21,
+      "age": 22,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -8434,7 +8534,7 @@ window.NHL_DATA = {
         44,
         54
       ],
-      "legendScore": 49.2
+      "legendScore": 48.6
     },
     {
       "id": 8476399,
@@ -8526,73 +8626,6 @@ window.NHL_DATA = {
         "pm": 2,
         "toi": 17.2,
         "shots": 8
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        54
-      ]
-    },
-    {
-      "id": 8484873,
-      "first": "Cole",
-      "last": "Hutson",
-      "name": "Cole Hutson",
-      "pos": "D",
-      "teamCode": "WSH",
-      "age": 20,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8484873.png",
-      "score": 54,
-      "stats": {
-        "gp": 4,
-        "g": 1,
-        "a": 1,
-        "p": 2,
-        "pm": 1,
-        "toi": 18.2,
-        "shots": 9
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        54
-      ],
-      "legendScore": 51.2
-    },
-    {
-      "id": 8477919,
-      "first": "Frederick",
-      "last": "Gaudreau",
-      "name": "Frederick Gaudreau",
-      "pos": "C",
-      "teamCode": "SEA",
-      "age": 33,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#001628",
-        "secondary": "#99d9d9"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8477919.png",
-      "score": 54,
-      "stats": {
-        "gp": 5,
-        "g": 3,
-        "a": 0,
-        "p": 3,
-        "pm": 1,
-        "toi": 14.8,
-        "shots": 7
       },
       "trajectory": [
         38,
@@ -8837,6 +8870,40 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8482713,
+      "first": "Mackie",
+      "last": "Samoskevich",
+      "name": "Mackie Samoskevich",
+      "pos": "RW",
+      "teamCode": "SEA",
+      "age": 23,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#001628",
+        "secondary": "#99d9d9"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482713.png",
+      "score": 54,
+      "stats": {
+        "gp": 5,
+        "g": 3,
+        "a": 0,
+        "p": 3,
+        "pm": 1,
+        "toi": 15.0,
+        "shots": 9
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        54
+      ],
+      "legendScore": 46.6
+    },
+    {
       "id": 8476873,
       "first": "Mark",
       "last": "Jankowski",
@@ -8935,40 +9002,6 @@ window.NHL_DATA = {
         44,
         54
       ]
-    },
-    {
-      "id": 8482665,
-      "first": "Matty",
-      "last": "Beniers",
-      "name": "Matty Beniers",
-      "pos": "C",
-      "teamCode": "SEA",
-      "age": 23,
-      "country": "United States",
-      "birthCountry": "USA",
-      "colors": {
-        "primary": "#001628",
-        "secondary": "#99d9d9"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482665.png",
-      "score": 54,
-      "stats": {
-        "gp": 5,
-        "g": 1,
-        "a": 2,
-        "p": 3,
-        "pm": 1,
-        "toi": 16.6,
-        "shots": 4
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        54
-      ],
-      "legendScore": 46.6
     },
     {
       "id": 8481542,
@@ -9106,29 +9139,29 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8483524,
-      "first": "Shane",
-      "last": "Wright",
-      "name": "Shane Wright",
-      "pos": "C",
+      "id": 8482858,
+      "first": "Ryker",
+      "last": "Evans",
+      "name": "Ryker Evans",
+      "pos": "D",
       "teamCode": "SEA",
-      "age": 22,
+      "age": 24,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
         "primary": "#001628",
         "secondary": "#99d9d9"
       },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8483524.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482858.png",
       "score": 54,
       "stats": {
-        "gp": 5,
-        "g": 2,
-        "a": 1,
+        "gp": 6,
+        "g": 0,
+        "a": 3,
         "p": 3,
         "pm": 3,
-        "toi": 14.5,
-        "shots": 7
+        "toi": 21.6,
+        "shots": 4
       },
       "trajectory": [
         38,
@@ -9137,7 +9170,7 @@ window.NHL_DATA = {
         45,
         54
       ],
-      "legendScore": 48.6
+      "legendScore": 46.2
     },
     {
       "id": 8485512,
@@ -9365,6 +9398,39 @@ window.NHL_DATA = {
         "pm": 3,
         "toi": 13.4,
         "shots": 11
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        53
+      ]
+    },
+    {
+      "id": 8482259,
+      "first": "Bobby",
+      "last": "McMann",
+      "name": "Bobby McMann",
+      "pos": "C",
+      "teamCode": "SEA",
+      "age": 30,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#001628",
+        "secondary": "#99d9d9"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482259.png",
+      "score": 53,
+      "stats": {
+        "gp": 6,
+        "g": 2,
+        "a": 1,
+        "p": 3,
+        "pm": 0,
+        "toi": 16.9,
+        "shots": 22
       },
       "trajectory": [
         38,
@@ -9912,40 +9978,6 @@ window.NHL_DATA = {
       "legendScore": 45.6
     },
     {
-      "id": 8482858,
-      "first": "Ryker",
-      "last": "Evans",
-      "name": "Ryker Evans",
-      "pos": "D",
-      "teamCode": "SEA",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#001628",
-        "secondary": "#99d9d9"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482858.png",
-      "score": 53,
-      "stats": {
-        "gp": 5,
-        "g": 0,
-        "a": 2,
-        "p": 2,
-        "pm": 4,
-        "toi": 21.9,
-        "shots": 4
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        53
-      ],
-      "legendScore": 45.6
-    },
-    {
       "id": 8478439,
       "first": "Travis",
       "last": "Konecny",
@@ -10035,39 +10067,6 @@ window.NHL_DATA = {
         "pm": 0,
         "toi": 20.6,
         "shots": 2
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        52
-      ]
-    },
-    {
-      "id": 8476432,
-      "first": "Boone",
-      "last": "Jenner",
-      "name": "Boone Jenner",
-      "pos": "C",
-      "teamCode": "WSH",
-      "age": 33,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8476432.png",
-      "score": 52,
-      "stats": {
-        "gp": 4,
-        "g": 1,
-        "a": 1,
-        "p": 2,
-        "pm": 2,
-        "toi": 15.7,
-        "shots": 11
       },
       "trajectory": [
         37,
@@ -10476,6 +10475,40 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8482665,
+      "first": "Matty",
+      "last": "Beniers",
+      "name": "Matty Beniers",
+      "pos": "C",
+      "teamCode": "SEA",
+      "age": 23,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#001628",
+        "secondary": "#99d9d9"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482665.png",
+      "score": 52,
+      "stats": {
+        "gp": 6,
+        "g": 1,
+        "a": 2,
+        "p": 3,
+        "pm": 2,
+        "toi": 16.6,
+        "shots": 5
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        52
+      ],
+      "legendScore": 45.5
+    },
+    {
       "id": 8477446,
       "first": "Michael",
       "last": "McCarron",
@@ -10610,47 +10643,13 @@ window.NHL_DATA = {
       "legendScore": 45.1
     },
     {
-      "id": 8482751,
-      "first": "Ryan",
-      "last": "Winterton",
-      "name": "Ryan Winterton",
-      "pos": "C",
-      "teamCode": "SEA",
-      "age": 23,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#001628",
-        "secondary": "#99d9d9"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482751.png",
-      "score": 52,
-      "stats": {
-        "gp": 5,
-        "g": 0,
-        "a": 3,
-        "p": 3,
-        "pm": 2,
-        "toi": 13.9,
-        "shots": 8
-      },
-      "trajectory": [
-        38,
-        41,
-        43,
-        45,
-        52
-      ],
-      "legendScore": 45.5
-    },
-    {
       "id": 8477497,
       "first": "Sean",
       "last": "Monahan",
       "name": "Sean Monahan",
       "pos": "C",
       "teamCode": "CBJ",
-      "age": 31,
+      "age": 32,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
@@ -10908,39 +10907,6 @@ window.NHL_DATA = {
         51
       ],
       "legendScore": 44.5
-    },
-    {
-      "id": 8482259,
-      "first": "Bobby",
-      "last": "McMann",
-      "name": "Bobby McMann",
-      "pos": "C",
-      "teamCode": "SEA",
-      "age": 30,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#001628",
-        "secondary": "#99d9d9"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482259.png",
-      "score": 51,
-      "stats": {
-        "gp": 5,
-        "g": 2,
-        "a": 0,
-        "p": 2,
-        "pm": 1,
-        "toi": 16.5,
-        "shots": 18
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        51
-      ]
     },
     {
       "id": 8473419,
@@ -11410,6 +11376,40 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8483524,
+      "first": "Shane",
+      "last": "Wright",
+      "name": "Shane Wright",
+      "pos": "C",
+      "teamCode": "SEA",
+      "age": 22,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#001628",
+        "secondary": "#99d9d9"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8483524.png",
+      "score": 51,
+      "stats": {
+        "gp": 6,
+        "g": 2,
+        "a": 1,
+        "p": 3,
+        "pm": 3,
+        "toi": 14.1,
+        "shots": 10
+      },
+      "trajectory": [
+        38,
+        41,
+        43,
+        45,
+        51
+      ],
+      "legendScore": 46.9
+    },
+    {
       "id": 8482758,
       "first": "Ville",
       "last": "Koivunen",
@@ -11484,7 +11484,7 @@ window.NHL_DATA = {
       "name": "William Eklund",
       "pos": "LW",
       "teamCode": "OTT",
-      "age": 23,
+      "age": 24,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -11509,7 +11509,7 @@ window.NHL_DATA = {
         44,
         51
       ],
-      "legendScore": 44.9
+      "legendScore": 44.5
     },
     {
       "id": 8482482,
@@ -11966,39 +11966,6 @@ window.NHL_DATA = {
         "pm": 1,
         "toi": 10.5,
         "shots": 3
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        50
-      ]
-    },
-    {
-      "id": 8479372,
-      "first": "Josh",
-      "last": "Mahura",
-      "name": "Josh Mahura",
-      "pos": "D",
-      "teamCode": "SEA",
-      "age": 28,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#001628",
-        "secondary": "#99d9d9"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8479372.png",
-      "score": 50,
-      "stats": {
-        "gp": 2,
-        "g": 0,
-        "a": 1,
-        "p": 1,
-        "pm": 1,
-        "toi": 13.4,
-        "shots": 0
       },
       "trajectory": [
         37,
@@ -12513,7 +12480,7 @@ window.NHL_DATA = {
       "name": "Adam Edstrom",
       "pos": "C",
       "teamCode": "NSH",
-      "age": 25,
+      "age": 26,
       "country": "Sweden",
       "birthCountry": "SWE",
       "colors": {
@@ -12563,6 +12530,73 @@ window.NHL_DATA = {
         "pm": -3,
         "toi": 16.5,
         "shots": 4
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        49
+      ]
+    },
+    {
+      "id": 8471214,
+      "first": "Alex",
+      "last": "Ovechkin",
+      "name": "Alex Ovechkin",
+      "pos": "LW",
+      "teamCode": "WSH",
+      "age": 41,
+      "country": "Russia",
+      "birthCountry": "RUS",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8471214.png",
+      "score": 49,
+      "stats": {
+        "gp": 5,
+        "g": 1,
+        "a": 1,
+        "p": 2,
+        "pm": 1,
+        "toi": 14.3,
+        "shots": 8
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        49
+      ],
+      "legendScore": 95.8
+    },
+    {
+      "id": 8481656,
+      "first": "Aliaksei",
+      "last": "Protas",
+      "name": "Aliaksei Protas",
+      "pos": "LW",
+      "teamCode": "WSH",
+      "age": 25,
+      "country": "Belarus",
+      "birthCountry": "BLR",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8481656.png",
+      "score": 49,
+      "stats": {
+        "gp": 5,
+        "g": 0,
+        "a": 2,
+        "p": 2,
+        "pm": -3,
+        "toi": 15.9,
+        "shots": 5
       },
       "trajectory": [
         37,
@@ -13266,6 +13300,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8476457,
+      "first": "Adam",
+      "last": "Larsson",
+      "name": "Adam Larsson",
+      "pos": "D",
+      "teamCode": "SEA",
+      "age": 33,
+      "country": "Sweden",
+      "birthCountry": "SWE",
+      "colors": {
+        "primary": "#001628",
+        "secondary": "#99d9d9"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8476457.png",
+      "score": 48,
+      "stats": {
+        "gp": 6,
+        "g": 0,
+        "a": 1,
+        "p": 1,
+        "pm": 6,
+        "toi": 22.0,
+        "shots": 6
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        48
+      ]
+    },
+    {
       "id": 8480113,
       "first": "Alex",
       "last": "Iafallo",
@@ -13784,6 +13851,39 @@ window.NHL_DATA = {
         "pm": 0,
         "toi": 11.5,
         "shots": 1
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        48
+      ]
+    },
+    {
+      "id": 8479385,
+      "first": "Jordan",
+      "last": "Kyrou",
+      "name": "Jordan Kyrou",
+      "pos": "RW",
+      "teamCode": "WSH",
+      "age": 28,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8479385.png",
+      "score": 48,
+      "stats": {
+        "gp": 5,
+        "g": 1,
+        "a": 1,
+        "p": 2,
+        "pm": -6,
+        "toi": 13.4,
+        "shots": 5
       },
       "trajectory": [
         37,
@@ -14553,39 +14653,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8480043,
-      "first": "Timothy",
-      "last": "Liljegren",
-      "name": "Timothy Liljegren",
-      "pos": "D",
-      "teamCode": "WSH",
-      "age": 27,
-      "country": "Sweden",
-      "birthCountry": "SWE",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8480043.png",
-      "score": 48,
-      "stats": {
-        "gp": 4,
-        "g": 1,
-        "a": 0,
-        "p": 1,
-        "pm": 1,
-        "toi": 18.1,
-        "shots": 4
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        48
-      ]
-    },
-    {
       "id": 8481533,
       "first": "Trevor",
       "last": "Zegras",
@@ -14739,39 +14806,6 @@ window.NHL_DATA = {
         "pm": 2,
         "toi": 13.3,
         "shots": 5
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        48
-      ]
-    },
-    {
-      "id": 8479576,
-      "first": "Vincent",
-      "last": "Desharnais",
-      "name": "Vincent Desharnais",
-      "pos": "D",
-      "teamCode": "WSH",
-      "age": 30,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8479576.png",
-      "score": 48,
-      "stats": {
-        "gp": 4,
-        "g": 0,
-        "a": 1,
-        "p": 1,
-        "pm": 6,
-        "toi": 19.7,
-        "shots": 1
       },
       "trajectory": [
         37,
@@ -15574,6 +15608,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8480043,
+      "first": "Timothy",
+      "last": "Liljegren",
+      "name": "Timothy Liljegren",
+      "pos": "D",
+      "teamCode": "WSH",
+      "age": 27,
+      "country": "Sweden",
+      "birthCountry": "SWE",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8480043.png",
+      "score": 47,
+      "stats": {
+        "gp": 5,
+        "g": 1,
+        "a": 0,
+        "p": 1,
+        "pm": -1,
+        "toi": 18.7,
+        "shots": 4
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        47
+      ]
+    },
+    {
       "id": 8479675,
       "first": "Trevor",
       "last": "Moore",
@@ -15640,6 +15707,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8479576,
+      "first": "Vincent",
+      "last": "Desharnais",
+      "name": "Vincent Desharnais",
+      "pos": "D",
+      "teamCode": "WSH",
+      "age": 30,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8479576.png",
+      "score": 47,
+      "stats": {
+        "gp": 5,
+        "g": 0,
+        "a": 1,
+        "p": 1,
+        "pm": 7,
+        "toi": 19.6,
+        "shots": 1
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        47
+      ]
+    },
+    {
       "id": 8484145,
       "first": "Zach",
       "last": "Benson",
@@ -15696,39 +15796,6 @@ window.NHL_DATA = {
         "pm": 1,
         "toi": 14.1,
         "shots": 1
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        46
-      ]
-    },
-    {
-      "id": 8481656,
-      "first": "Aliaksei",
-      "last": "Protas",
-      "name": "Aliaksei Protas",
-      "pos": "LW",
-      "teamCode": "WSH",
-      "age": 25,
-      "country": "Belarus",
-      "birthCountry": "BLR",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8481656.png",
-      "score": 46,
-      "stats": {
-        "gp": 4,
-        "g": 0,
-        "a": 1,
-        "p": 1,
-        "pm": -3,
-        "toi": 16.1,
-        "shots": 4
       },
       "trajectory": [
         37,
@@ -16003,6 +16070,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8484999,
+      "first": "Ilya",
+      "last": "Protas",
+      "name": "Ilya Protas",
+      "pos": "LW",
+      "teamCode": "WSH",
+      "age": 20,
+      "country": "Belarus",
+      "birthCountry": "BLR",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8484999.png",
+      "score": 46,
+      "stats": {
+        "gp": 5,
+        "g": 0,
+        "a": 2,
+        "p": 2,
+        "pm": -2,
+        "toi": 11.4,
+        "shots": 2
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        46
+      ]
+    },
+    {
       "id": 8483455,
       "first": "Isaac",
       "last": "Howard",
@@ -16059,6 +16159,39 @@ window.NHL_DATA = {
         "pm": -1,
         "toi": 16.6,
         "shots": 8
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        46
+      ]
+    },
+    {
+      "id": 8479372,
+      "first": "Josh",
+      "last": "Mahura",
+      "name": "Josh Mahura",
+      "pos": "D",
+      "teamCode": "SEA",
+      "age": 28,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#001628",
+        "secondary": "#99d9d9"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8479372.png",
+      "score": 46,
+      "stats": {
+        "gp": 3,
+        "g": 0,
+        "a": 1,
+        "p": 1,
+        "pm": 1,
+        "toi": 13.3,
+        "shots": 1
       },
       "trajectory": [
         37,
@@ -16488,73 +16621,6 @@ window.NHL_DATA = {
         "pm": -1,
         "toi": 9.3,
         "shots": 3
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        45
-      ]
-    },
-    {
-      "id": 8471214,
-      "first": "Alex",
-      "last": "Ovechkin",
-      "name": "Alex Ovechkin",
-      "pos": "LW",
-      "teamCode": "WSH",
-      "age": 41,
-      "country": "Russia",
-      "birthCountry": "RUS",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8471214.png",
-      "score": 45,
-      "stats": {
-        "gp": 4,
-        "g": 0,
-        "a": 1,
-        "p": 1,
-        "pm": 1,
-        "toi": 13.6,
-        "shots": 5
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        45
-      ],
-      "legendScore": 95.8
-    },
-    {
-      "id": 8478463,
-      "first": "Anthony",
-      "last": "Beauvillier",
-      "name": "Anthony Beauvillier",
-      "pos": "RW",
-      "teamCode": "WSH",
-      "age": 29,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8478463.png",
-      "score": 45,
-      "stats": {
-        "gp": 4,
-        "g": 1,
-        "a": 0,
-        "p": 1,
-        "pm": 2,
-        "toi": 11.7,
-        "shots": 6
       },
       "trajectory": [
         37,
@@ -17017,39 +17083,6 @@ window.NHL_DATA = {
         "pm": -3,
         "toi": 16.1,
         "shots": 5
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        45
-      ]
-    },
-    {
-      "id": 8482088,
-      "first": "Justin",
-      "last": "Sourdif",
-      "name": "Justin Sourdif",
-      "pos": "C",
-      "teamCode": "WSH",
-      "age": 24,
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8482088.png",
-      "score": 45,
-      "stats": {
-        "gp": 4,
-        "g": 1,
-        "a": 0,
-        "p": 1,
-        "pm": 1,
-        "toi": 13.7,
-        "shots": 3
       },
       "trajectory": [
         37,
@@ -17588,39 +17621,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8476457,
-      "first": "Adam",
-      "last": "Larsson",
-      "name": "Adam Larsson",
-      "pos": "D",
-      "teamCode": "SEA",
-      "age": 33,
-      "country": "Sweden",
-      "birthCountry": "SWE",
-      "colors": {
-        "primary": "#001628",
-        "secondary": "#99d9d9"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8476457.png",
-      "score": 44,
-      "stats": {
-        "gp": 5,
-        "g": 0,
-        "a": 0,
-        "p": 0,
-        "pm": 2,
-        "toi": 21.5,
-        "shots": 6
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        44
-      ]
-    },
-    {
       "id": 8477407,
       "first": "Anthony",
       "last": "Duclair",
@@ -17951,29 +17951,29 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8479385,
-      "first": "Jordan",
-      "last": "Kyrou",
-      "name": "Jordan Kyrou",
-      "pos": "RW",
+      "id": 8482088,
+      "first": "Justin",
+      "last": "Sourdif",
+      "name": "Justin Sourdif",
+      "pos": "C",
       "teamCode": "WSH",
-      "age": 28,
+      "age": 24,
       "country": "Canada",
       "birthCountry": "CAN",
       "colors": {
         "primary": "#041e42",
         "secondary": "#c8102e"
       },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8479385.png",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8482088.png",
       "score": 44,
       "stats": {
-        "gp": 4,
-        "g": 0,
-        "a": 1,
+        "gp": 5,
+        "g": 1,
+        "a": 0,
         "p": 1,
-        "pm": -5,
-        "toi": 12.8,
-        "shots": 4
+        "pm": -2,
+        "toi": 13.2,
+        "shots": 3
       },
       "trajectory": [
         37,
@@ -18000,12 +18000,12 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8480796.png",
       "score": 44,
       "stats": {
-        "gp": 4,
+        "gp": 5,
         "g": 0,
         "a": 0,
         "p": 0,
-        "pm": 3,
-        "toi": 21.4,
+        "pm": 2,
+        "toi": 21.8,
         "shots": 1
       },
       "trajectory": [
@@ -18314,6 +18314,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8478463,
+      "first": "Anthony",
+      "last": "Beauvillier",
+      "name": "Anthony Beauvillier",
+      "pos": "RW",
+      "teamCode": "WSH",
+      "age": 29,
+      "country": "Canada",
+      "birthCountry": "CAN",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8478463.png",
+      "score": 43,
+      "stats": {
+        "gp": 5,
+        "g": 1,
+        "a": 0,
+        "p": 1,
+        "pm": 2,
+        "toi": 11.1,
+        "shots": 6
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        43
+      ]
+    },
+    {
       "id": 8480980,
       "first": "Connor",
       "last": "Dewar",
@@ -18413,39 +18446,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8484999,
-      "first": "Ilya",
-      "last": "Protas",
-      "name": "Ilya Protas",
-      "pos": "LW",
-      "teamCode": "WSH",
-      "age": 20,
-      "country": "Belarus",
-      "birthCountry": "BLR",
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8484999.png",
-      "score": 43,
-      "stats": {
-        "gp": 4,
-        "g": 0,
-        "a": 1,
-        "p": 1,
-        "pm": -2,
-        "toi": 11.0,
-        "shots": 1
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        43
-      ]
-    },
-    {
       "id": 8480855,
       "first": "Jack",
       "last": "McBain",
@@ -18485,7 +18485,7 @@ window.NHL_DATA = {
       "name": "Jake McCabe",
       "pos": "D",
       "teamCode": "TOR",
-      "age": 32,
+      "age": 33,
       "country": "United States",
       "birthCountry": "USA",
       "colors": {
@@ -20459,39 +20459,6 @@ window.NHL_DATA = {
       ]
     },
     {
-      "id": 8482866,
-      "first": "Ville",
-      "last": "Ottavainen",
-      "name": "Ville Ottavainen",
-      "pos": "D",
-      "teamCode": "SEA",
-      "age": 24,
-      "country": "Finland",
-      "birthCountry": "FIN",
-      "colors": {
-        "primary": "#001628",
-        "secondary": "#99d9d9"
-      },
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482866.png",
-      "score": 41,
-      "stats": {
-        "gp": 2,
-        "g": 0,
-        "a": 0,
-        "p": 0,
-        "pm": 4,
-        "toi": 14.8,
-        "shots": 2
-      },
-      "trajectory": [
-        37,
-        40,
-        42,
-        44,
-        41
-      ]
-    },
-    {
       "id": 8474567,
       "first": "Zach",
       "last": "Bogosian",
@@ -21406,6 +21373,39 @@ window.NHL_DATA = {
         "pm": -2,
         "toi": 14.8,
         "shots": 5
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        40
+      ]
+    },
+    {
+      "id": 8482866,
+      "first": "Ville",
+      "last": "Ottavainen",
+      "name": "Ville Ottavainen",
+      "pos": "D",
+      "teamCode": "SEA",
+      "age": 24,
+      "country": "Finland",
+      "birthCountry": "FIN",
+      "colors": {
+        "primary": "#001628",
+        "secondary": "#99d9d9"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482866.png",
+      "score": 40,
+      "stats": {
+        "gp": 3,
+        "g": 0,
+        "a": 0,
+        "p": 0,
+        "pm": 4,
+        "toi": 13.3,
+        "shots": 3
       },
       "trajectory": [
         37,
@@ -23825,6 +23825,39 @@ window.NHL_DATA = {
       ]
     },
     {
+      "id": 8483573,
+      "first": "Ethen",
+      "last": "Frank",
+      "name": "Ethen Frank",
+      "pos": "RW",
+      "teamCode": "WSH",
+      "age": 28,
+      "country": "United States",
+      "birthCountry": "USA",
+      "colors": {
+        "primary": "#041e42",
+        "secondary": "#c8102e"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8483573.png",
+      "score": 37,
+      "stats": {
+        "gp": 1,
+        "g": 0,
+        "a": 0,
+        "p": 0,
+        "pm": 0,
+        "toi": 9.2,
+        "shots": 1
+      },
+      "trajectory": [
+        37,
+        40,
+        42,
+        44,
+        37
+      ]
+    },
+    {
       "id": 8477903,
       "first": "Garnet",
       "last": "Hathaway",
@@ -24171,12 +24204,12 @@ window.NHL_DATA = {
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8475795.png",
       "score": 36,
       "stats": {
-        "gp": 2,
+        "gp": 3,
         "g": 0,
         "a": 0,
         "p": 0,
-        "pm": -1,
-        "toi": 7.0,
+        "pm": -2,
+        "toi": 6.4,
         "shots": 0
       },
       "trajectory": [
@@ -25593,7 +25626,7 @@ window.NHL_DATA = {
       "birthCountry": "RUS",
       "birthDate": "1985-09-17",
       "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8471214.png",
-      "currentScore": 45,
+      "currentScore": 49,
       "legendScore": 95.8,
       "colors": {
         "primary": "#041e42",
@@ -27988,6 +28021,207 @@ window.NHL_DATA = {
         "a": 58,
         "p": 86,
         "pm": 48,
+        "score": 64
+      }
+    },
+    {
+      "id": 8477956,
+      "name": "David Pastrnak",
+      "pos": "RW",
+      "active": true,
+      "teamCode": "BOS",
+      "country": "Czechia",
+      "birthCountry": "CZE",
+      "birthDate": "1996-05-25",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8477956.png",
+      "currentScore": 68,
+      "legendScore": null,
+      "colors": {
+        "primary": "#ffb81c",
+        "secondary": "#111111"
+      },
+      "seasons": [
+        {
+          "season": "2014-15",
+          "seasonId": 20142015,
+          "age": 18,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 46,
+          "g": 10,
+          "a": 17,
+          "p": 27,
+          "pm": 12,
+          "score": 49
+        },
+        {
+          "season": "2015-16",
+          "seasonId": 20152016,
+          "age": 19,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 51,
+          "g": 15,
+          "a": 11,
+          "p": 26,
+          "pm": 3,
+          "score": 47
+        },
+        {
+          "season": "2016-17",
+          "seasonId": 20162017,
+          "age": 20,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 75,
+          "g": 34,
+          "a": 36,
+          "p": 70,
+          "pm": 11,
+          "score": 58
+        },
+        {
+          "season": "2017-18",
+          "seasonId": 20172018,
+          "age": 21,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 82,
+          "g": 35,
+          "a": 45,
+          "p": 80,
+          "pm": 10,
+          "score": 58
+        },
+        {
+          "season": "2018-19",
+          "seasonId": 20182019,
+          "age": 22,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 66,
+          "g": 38,
+          "a": 43,
+          "p": 81,
+          "pm": 6,
+          "score": 64
+        },
+        {
+          "season": "2019-20",
+          "seasonId": 20192020,
+          "age": 23,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 70,
+          "g": 48,
+          "a": 47,
+          "p": 95,
+          "pm": 21,
+          "score": 68
+        },
+        {
+          "season": "2020-21",
+          "seasonId": 20202021,
+          "age": 24,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 48,
+          "g": 20,
+          "a": 28,
+          "p": 48,
+          "pm": 10,
+          "score": 59
+        },
+        {
+          "season": "2021-22",
+          "seasonId": 20212022,
+          "age": 25,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 72,
+          "g": 40,
+          "a": 37,
+          "p": 77,
+          "pm": 13,
+          "score": 61
+        },
+        {
+          "season": "2022-23",
+          "seasonId": 20222023,
+          "age": 26,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 82,
+          "g": 61,
+          "a": 52,
+          "p": 113,
+          "pm": 34,
+          "score": 70
+        },
+        {
+          "season": "2023-24",
+          "seasonId": 20232024,
+          "age": 27,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 82,
+          "g": 47,
+          "a": 63,
+          "p": 110,
+          "pm": 21,
+          "score": 68
+        },
+        {
+          "season": "2024-25",
+          "seasonId": 20242025,
+          "age": 28,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 82,
+          "g": 43,
+          "a": 63,
+          "p": 106,
+          "pm": 0,
+          "score": 65
+        },
+        {
+          "season": "2025-26",
+          "seasonId": 20252026,
+          "age": 29,
+          "team": "Bruins",
+          "teamName": "Boston Bruins",
+          "gp": 77,
+          "g": 29,
+          "a": 71,
+          "p": 100,
+          "pm": 4,
+          "score": 65
+        }
+      ],
+      "bestSeason": {
+        "season": "2022-23",
+        "seasonId": 20222023,
+        "age": 26,
+        "team": "Bruins",
+        "teamName": "Boston Bruins",
+        "gp": 82,
+        "g": 61,
+        "a": 52,
+        "p": 113,
+        "pm": 34,
+        "score": 70
+      },
+      "age22Season": {
+        "season": "2018-19",
+        "seasonId": 20182019,
+        "age": 22,
+        "team": "Bruins",
+        "teamName": "Boston Bruins",
+        "gp": 66,
+        "g": 38,
+        "a": 43,
+        "p": 81,
+        "pm": 6,
         "score": 64
       }
     },
@@ -33706,220 +33940,6 @@ window.NHL_DATA = {
       "age22Season": null
     },
     {
-      "id": 8476880,
-      "name": "Tom Wilson",
-      "pos": "RW",
-      "active": true,
-      "teamCode": "WSH",
-      "country": "Canada",
-      "birthCountry": "CAN",
-      "birthDate": "1994-03-29",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8476880.png",
-      "currentScore": 69,
-      "legendScore": null,
-      "colors": {
-        "primary": "#041e42",
-        "secondary": "#c8102e"
-      },
-      "seasons": [
-        {
-          "season": "2013-14",
-          "seasonId": 20132014,
-          "age": 19,
-          "team": "Capitals",
-          "teamName": "Washington Capitals",
-          "gp": 82,
-          "g": 3,
-          "a": 7,
-          "p": 10,
-          "pm": 1,
-          "score": 36
-        },
-        {
-          "season": "2014-15",
-          "seasonId": 20142015,
-          "age": 20,
-          "team": "Capitals",
-          "teamName": "Washington Capitals",
-          "gp": 67,
-          "g": 4,
-          "a": 13,
-          "p": 17,
-          "pm": -1,
-          "score": 39
-        },
-        {
-          "season": "2015-16",
-          "seasonId": 20152016,
-          "age": 21,
-          "team": "Capitals",
-          "teamName": "Washington Capitals",
-          "gp": 82,
-          "g": 7,
-          "a": 16,
-          "p": 23,
-          "pm": 3,
-          "score": 40
-        },
-        {
-          "season": "2016-17",
-          "seasonId": 20162017,
-          "age": 22,
-          "team": "Capitals",
-          "teamName": "Washington Capitals",
-          "gp": 82,
-          "g": 7,
-          "a": 12,
-          "p": 19,
-          "pm": 9,
-          "score": 40
-        },
-        {
-          "season": "2017-18",
-          "seasonId": 20172018,
-          "age": 23,
-          "team": "Capitals",
-          "teamName": "Washington Capitals",
-          "gp": 78,
-          "g": 14,
-          "a": 21,
-          "p": 35,
-          "pm": 10,
-          "score": 45
-        },
-        {
-          "season": "2018-19",
-          "seasonId": 20182019,
-          "age": 24,
-          "team": "Capitals",
-          "teamName": "Washington Capitals",
-          "gp": 63,
-          "g": 22,
-          "a": 18,
-          "p": 40,
-          "pm": 11,
-          "score": 51
-        },
-        {
-          "season": "2019-20",
-          "seasonId": 20192020,
-          "age": 25,
-          "team": "Capitals",
-          "teamName": "Washington Capitals",
-          "gp": 68,
-          "g": 21,
-          "a": 23,
-          "p": 44,
-          "pm": -3,
-          "score": 50
-        },
-        {
-          "season": "2020-21",
-          "seasonId": 20202021,
-          "age": 26,
-          "team": "Capitals",
-          "teamName": "Washington Capitals",
-          "gp": 47,
-          "g": 13,
-          "a": 20,
-          "p": 33,
-          "pm": 1,
-          "score": 51
-        },
-        {
-          "season": "2021-22",
-          "seasonId": 20212022,
-          "age": 27,
-          "team": "Capitals",
-          "teamName": "Washington Capitals",
-          "gp": 78,
-          "g": 24,
-          "a": 28,
-          "p": 52,
-          "pm": 13,
-          "score": 51
-        },
-        {
-          "season": "2022-23",
-          "seasonId": 20222023,
-          "age": 28,
-          "team": "Capitals",
-          "teamName": "Washington Capitals",
-          "gp": 33,
-          "g": 13,
-          "a": 9,
-          "p": 22,
-          "pm": -13,
-          "score": 49
-        },
-        {
-          "season": "2023-24",
-          "seasonId": 20232024,
-          "age": 29,
-          "team": "Capitals",
-          "teamName": "Washington Capitals",
-          "gp": 74,
-          "g": 18,
-          "a": 17,
-          "p": 35,
-          "pm": -19,
-          "score": 45
-        },
-        {
-          "season": "2024-25",
-          "seasonId": 20242025,
-          "age": 30,
-          "team": "Capitals",
-          "teamName": "Washington Capitals",
-          "gp": 81,
-          "g": 33,
-          "a": 32,
-          "p": 65,
-          "pm": 20,
-          "score": 55
-        },
-        {
-          "season": "2025-26",
-          "seasonId": 20252026,
-          "age": 31,
-          "team": "Capitals",
-          "teamName": "Washington Capitals",
-          "gp": 72,
-          "g": 30,
-          "a": 32,
-          "p": 62,
-          "pm": 15,
-          "score": 56
-        }
-      ],
-      "bestSeason": {
-        "season": "2025-26",
-        "seasonId": 20252026,
-        "age": 31,
-        "team": "Capitals",
-        "teamName": "Washington Capitals",
-        "gp": 72,
-        "g": 30,
-        "a": 32,
-        "p": 62,
-        "pm": 15,
-        "score": 56
-      },
-      "age22Season": {
-        "season": "2016-17",
-        "seasonId": 20162017,
-        "age": 22,
-        "team": "Capitals",
-        "teamName": "Washington Capitals",
-        "gp": 82,
-        "g": 7,
-        "a": 12,
-        "p": 19,
-        "pm": 9,
-        "score": 40
-      }
-    },
-    {
       "id": 8481605,
       "name": "Jackson LaCombe",
       "pos": "D",
@@ -34639,6 +34659,25 @@ window.NHL_DATA = {
         "prevRank": 5
       },
       {
+        "id": 8477956,
+        "name": "David Pastrnak",
+        "pos": "RW",
+        "teamCode": "BOS",
+        "country": "Czechia",
+        "colors": {
+          "primary": "#ffb81c",
+          "secondary": "#111111"
+        },
+        "age": 30,
+        "careerScore": 60.8,
+        "threshold": 93.1,
+        "gap": 32.3,
+        "cups": 0,
+        "seasons": 12,
+        "note": "Multiple elite seasons + several Cups needed",
+        "prevRank": null
+      },
+      {
         "id": 8478420,
         "name": "Mikko Rantanen",
         "pos": "RW",
@@ -34713,25 +34752,6 @@ window.NHL_DATA = {
         "seasons": 15,
         "note": "Multiple elite seasons + several Cups needed",
         "prevRank": 9
-      },
-      {
-        "id": 8480069,
-        "name": "Cale Makar",
-        "pos": "D",
-        "teamCode": "COL",
-        "country": "Canada",
-        "colors": {
-          "primary": "#6f263d",
-          "secondary": "#236192"
-        },
-        "age": 27,
-        "careerScore": 57.2,
-        "threshold": 93.1,
-        "gap": 35.9,
-        "cups": 1,
-        "seasons": 7,
-        "note": "Multiple elite seasons + several Cups needed",
-        "prevRank": 10
       }
     ],
     "teams": [
@@ -34832,6 +34852,22 @@ window.NHL_DATA = {
         "prevRank": 6
       },
       {
+        "teamCode": "NYR",
+        "city": "New York Rangers",
+        "era": "2022–present",
+        "cups": 0,
+        "dynastyScore": 44.5,
+        "threshold": 89.7,
+        "gap": 45.2,
+        "note": "2024 Conference Finals · Panarin–Fox era",
+        "needs": "Needs at least one Cup + years of dominance",
+        "colors": {
+          "primary": "#0038a8",
+          "secondary": "#ce1126"
+        },
+        "prevRank": 9
+      },
+      {
         "teamCode": "MIN",
         "city": "Minnesota Wild",
         "era": "2020–present",
@@ -34862,22 +34898,6 @@ window.NHL_DATA = {
           "secondary": "#111111"
         },
         "prevRank": 8
-      },
-      {
-        "teamCode": "NYR",
-        "city": "New York Rangers",
-        "era": "2022–present",
-        "cups": 0,
-        "dynastyScore": 42.8,
-        "threshold": 89.7,
-        "gap": 46.9,
-        "note": "2024 Conference Finals · Panarin–Fox era",
-        "needs": "Needs at least one Cup + years of dominance",
-        "colors": {
-          "primary": "#0038a8",
-          "secondary": "#ce1126"
-        },
-        "prevRank": 9
       },
       {
         "teamCode": "DAL",
@@ -35124,10 +35144,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-11 23:40 UTC",
+  "LAST_UPDATE": "2026-10-12 00:38 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-11T23:39:30Z"
+    "standingsDateTimeUtc": "2026-10-12T00:37:30Z"
   }
 };

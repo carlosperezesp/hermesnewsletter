@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-11 23:42 UTC",
+  "UPDATED": "2026-10-12 00:40 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -131,6 +131,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-29"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:David Pastrnak",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "David Pastrnak entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:in:JNT Seales",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "JNT Seales entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-12"
+    },
+    {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:Jake Guentzel",
       "sport": "nhl",
       "detail": "NHL",
@@ -228,15 +246,6 @@ window.GLORY_DATA = {
       "text": "KA Maharaj entra en el top-10 · Road to Glory",
       "weight": 84,
       "firstSeen": "2026-10-07"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "Cale Makar entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-06"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Tim Stützle",
@@ -408,6 +417,15 @@ window.GLORY_DATA = {
       "weight": 78,
       "anchor": "tennis-atp",
       "firstSeen": "2026-09-29"
+    },
+    {
+      "id": "rank:cricket:ROAD_TO_GLORY.players:out:BA Carse",
+      "sport": "cricket",
+      "detail": "Cricket",
+      "anchor": "cricket-road-to-glory",
+      "text": "BA Carse cae del top-10 · Road to Glory",
+      "weight": 74,
+      "firstSeen": "2026-10-12"
     },
     {
       "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:out:Caleb Williams",
@@ -606,24 +624,6 @@ window.GLORY_DATA = {
       "text": "Victor Eklund cae del top-10 · jóvenes promesas",
       "weight": 74,
       "firstSeen": "2026-09-30"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:out:David Pastrnak",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "David Pastrnak cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-09-28"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:out:Connor Bedard",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Connor Bedard cae del top-10 · jóvenes promesas",
-      "weight": 74,
-      "firstSeen": "2026-09-27"
     }
   ],
   "REPORTS": [],
@@ -652,11 +652,11 @@ window.GLORY_DATA = {
       "Connor McDavid",
       "Leon Draisaitl",
       "Steven Stamkos",
+      "David Pastrnak",
       "Mikko Rantanen",
       "Auston Matthews",
       "Jake Guentzel",
-      "Roman Josi",
-      "Cale Makar"
+      "Roman Josi"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
@@ -665,9 +665,9 @@ window.GLORY_DATA = {
       "St. Louis Blues",
       "Edmonton Oilers",
       "Carolina Hurricanes",
+      "New York Rangers",
       "Minnesota Wild",
       "Boston Bruins",
-      "New York Rangers",
       "Dallas Stars"
     ],
     "nhl:ROAD_TO_GLORY.youngProspects": [
@@ -997,10 +997,10 @@ window.GLORY_DATA = {
       "Taijul Islam",
       "MJ Henry",
       "RA Jadeja",
+      "JNT Seales",
       "KA Maharaj",
       "Nauman Ali",
       "JC Tongue",
-      "BA Carse",
       "Sajid Khan"
     ],
     "athletics:allTime:100m_m": [
