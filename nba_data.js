@@ -143,6 +143,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "DEN",
+      "city": "Denver Nuggets",
+      "shortName": "Denver",
+      "commonName": "Nuggets",
+      "conf": "W",
+      "gp": 3,
+      "w": 2,
+      "l": 1,
+      "winPct": 0.667,
+      "gf": 347,
+      "ga": 343,
+      "gd": 4,
+      "score": 57,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+      "colors": {
+        "primary": "#0e2240",
+        "secondary": "#fec524"
+      }
+    },
+    {
       "code": "LAL",
       "city": "Los Angeles Lakers",
       "shortName": "Los Angeles",
@@ -223,63 +243,23 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "ORL",
-      "city": "Orlando Magic",
-      "shortName": "Orlando",
-      "commonName": "Magic",
-      "conf": "E",
-      "gp": 1,
-      "w": 1,
-      "l": 0,
-      "winPct": 1.0,
-      "gf": 122,
-      "ga": 118,
-      "gd": 4,
-      "score": 89,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
-      "colors": {
-        "primary": "#0077c0",
-        "secondary": "#c4ced4"
-      }
-    },
-    {
-      "code": "CHI",
-      "city": "Chicago Bulls",
-      "shortName": "Chicago",
-      "commonName": "Bulls",
+      "code": "CLE",
+      "city": "Cleveland Cavaliers",
+      "shortName": "Cleveland",
+      "commonName": "Cavaliers",
       "conf": "E",
       "gp": 2,
       "w": 1,
       "l": 1,
       "winPct": 0.5,
-      "gf": 224,
-      "ga": 221,
+      "gf": 232,
+      "ga": 229,
       "gd": 3,
       "score": 44,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
       "colors": {
-        "primary": "#ce1141",
-        "secondary": "#000000"
-      }
-    },
-    {
-      "code": "HOU",
-      "city": "Houston Rockets",
-      "shortName": "Houston",
-      "commonName": "Rockets",
-      "conf": "W",
-      "gp": 2,
-      "w": 1,
-      "l": 1,
-      "winPct": 0.5,
-      "gf": 250,
-      "ga": 249,
-      "gd": 1,
-      "score": 42,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
-      "colors": {
-        "primary": "#ce1141",
-        "secondary": "#c4cdd2"
+        "primary": "#860038",
+        "secondary": "#fdbb30"
       }
     },
     {
@@ -303,6 +283,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "HOU",
+      "city": "Houston Rockets",
+      "shortName": "Houston",
+      "commonName": "Rockets",
+      "conf": "W",
+      "gp": 2,
+      "w": 1,
+      "l": 1,
+      "winPct": 0.5,
+      "gf": 250,
+      "ga": 249,
+      "gd": 1,
+      "score": 42,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+      "colors": {
+        "primary": "#ce1141",
+        "secondary": "#c4cdd2"
+      }
+    },
+    {
       "code": "DAL",
       "city": "Dallas Mavericks",
       "shortName": "Dallas",
@@ -323,23 +323,23 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "DEN",
-      "city": "Denver Nuggets",
-      "shortName": "Denver",
-      "commonName": "Nuggets",
-      "conf": "W",
-      "gp": 2,
+      "code": "CHI",
+      "city": "Chicago Bulls",
+      "shortName": "Chicago",
+      "commonName": "Bulls",
+      "conf": "E",
+      "gp": 3,
       "w": 1,
-      "l": 1,
-      "winPct": 0.5,
-      "gf": 214,
-      "ga": 215,
-      "gd": -1,
-      "score": 40,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+      "l": 2,
+      "winPct": 0.333,
+      "gf": 352,
+      "ga": 354,
+      "gd": -2,
+      "score": 26,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
       "colors": {
-        "primary": "#0e2240",
-        "secondary": "#fec524"
+        "primary": "#ce1141",
+        "secondary": "#000000"
       }
     },
     {
@@ -423,6 +423,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "ORL",
+      "city": "Orlando Magic",
+      "shortName": "Orlando",
+      "commonName": "Magic",
+      "conf": "E",
+      "gp": 2,
+      "w": 1,
+      "l": 1,
+      "winPct": 0.5,
+      "gf": 227,
+      "ga": 237,
+      "gd": -10,
+      "score": 32,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+      "colors": {
+        "primary": "#0077c0",
+        "secondary": "#c4ced4"
+      }
+    },
+    {
       "code": "TOR",
       "city": "Toronto Raptors",
       "shortName": "Toronto",
@@ -443,23 +463,23 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "MIL",
-      "city": "Milwaukee Bucks",
-      "shortName": "Milwaukee",
-      "commonName": "Bucks",
+      "code": "CHA",
+      "city": "Charlotte Hornets",
+      "shortName": "Charlotte",
+      "commonName": "Hornets",
       "conf": "E",
       "gp": 2,
       "w": 1,
       "l": 1,
       "winPct": 0.5,
-      "gf": 225,
-      "ga": 242,
-      "gd": -17,
-      "score": 26,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+      "gf": 195,
+      "ga": 214,
+      "gd": -19,
+      "score": 24,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
       "colors": {
-        "primary": "#00471b",
-        "secondary": "#eee1c6"
+        "primary": "#1d1160",
+        "secondary": "#00788c"
       }
     },
     {
@@ -483,6 +503,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "MIL",
+      "city": "Milwaukee Bucks",
+      "shortName": "Milwaukee",
+      "commonName": "Bucks",
+      "conf": "E",
+      "gp": 3,
+      "w": 1,
+      "l": 2,
+      "winPct": 0.333,
+      "gf": 315,
+      "ga": 347,
+      "gd": -32,
+      "score": 8,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+      "colors": {
+        "primary": "#00471b",
+        "secondary": "#eee1c6"
+      }
+    },
+    {
       "code": "OKC",
       "city": "Oklahoma City Thunder",
       "shortName": "Oklahoma City",
@@ -500,26 +540,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#007ac1",
         "secondary": "#ef3b24"
-      }
-    },
-    {
-      "code": "CLE",
-      "city": "Cleveland Cavaliers",
-      "shortName": "Cleveland",
-      "commonName": "Cavaliers",
-      "conf": "E",
-      "gp": 1,
-      "w": 0,
-      "l": 1,
-      "winPct": 0.0,
-      "gf": 113,
-      "ga": 124,
-      "gd": -11,
-      "score": 0,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
-      "colors": {
-        "primary": "#860038",
-        "secondary": "#fdbb30"
       }
     },
     {
@@ -580,26 +600,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#5a2d81",
         "secondary": "#63727a"
-      }
-    },
-    {
-      "code": "CHA",
-      "city": "Charlotte Hornets",
-      "shortName": "Charlotte",
-      "commonName": "Hornets",
-      "conf": "E",
-      "gp": 1,
-      "w": 0,
-      "l": 1,
-      "winPct": 0.0,
-      "gf": 90,
-      "ga": 124,
-      "gd": -34,
-      "score": 0,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
-      "colors": {
-        "primary": "#1d1160",
-        "secondary": "#00788c"
       }
     }
   ],
@@ -961,6 +961,22 @@ window.NBA_DATA = {
         "prevRank": 1
       },
       {
+        "teamCode": "DEN",
+        "city": "Denver Nuggets",
+        "era": "2019–present",
+        "rings": 1,
+        "dynastyScore": 53.4,
+        "threshold": 89.4,
+        "gap": 36.0,
+        "note": "2023 Champions · Jokic 3× MVP era",
+        "needs": "2–3 more titles + another dominant era needed",
+        "colors": {
+          "primary": "#0e2240",
+          "secondary": "#fec524"
+        },
+        "prevRank": 4
+      },
+      {
         "teamCode": "LAL",
         "city": "Los Angeles Lakers",
         "era": "2020–present",
@@ -991,22 +1007,6 @@ window.NBA_DATA = {
           "secondary": "#ffc72c"
         },
         "prevRank": 3
-      },
-      {
-        "teamCode": "DEN",
-        "city": "Denver Nuggets",
-        "era": "2019–present",
-        "rings": 1,
-        "dynastyScore": 44.0,
-        "threshold": 89.4,
-        "gap": 45.4,
-        "note": "2023 Champions · Jokic 3× MVP era",
-        "needs": "2–3 more titles + another dominant era needed",
-        "colors": {
-          "primary": "#0e2240",
-          "secondary": "#fec524"
-        },
-        "prevRank": 4
       },
       {
         "teamCode": "MIN",
@@ -1045,9 +1045,9 @@ window.NBA_DATA = {
         "city": "Milwaukee Bucks",
         "era": "2019–present",
         "rings": 1,
-        "dynastyScore": 36.3,
+        "dynastyScore": 26.4,
         "threshold": 89.4,
-        "gap": 53.1,
+        "gap": 63.0,
         "note": "2021 Champions · Giannis 2× MVP era",
         "needs": "2–3 more titles + another dominant era needed",
         "colors": {
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-12 00:38 UTC",
+  "LAST_UPDATE": "2026-10-12 13:10 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

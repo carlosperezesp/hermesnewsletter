@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-12 00:40 UTC",
+  "UPDATED": "2026-10-12 13:12 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -129,6 +129,51 @@ window.GLORY_DATA = {
       "weight": 90,
       "anchor": "tennis-atp",
       "firstSeen": "2026-09-29"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Jordan Love",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Jordan Love entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Jacoby Brissett",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Jacoby Brissett entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Trevor Lawrence",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-road-to-glory",
+      "text": "Trevor Lawrence entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:in:Drake Maye",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-jovenes-promesas",
+      "text": "Drake Maye entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:in:Jayden Daniels",
+      "sport": "nfl",
+      "detail": "NFL",
+      "anchor": "nfl-jovenes-promesas",
+      "text": "Jayden Daniels entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-12"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.players:in:David Pastrnak",
@@ -266,24 +311,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-06"
     },
     {
-      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Tyler Shough",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-road-to-glory",
-      "text": "Tyler Shough entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-06"
-    },
-    {
-      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Lamar Jackson",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-road-to-glory",
-      "text": "Lamar Jackson entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-05"
-    },
-    {
       "id": "rank:mlb:ROAD_TO_GLORY.youngProspects:in:James Wood",
       "sport": "mlb",
       "detail": "MLB",
@@ -392,15 +419,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-01"
     },
     {
-      "id": "rank:nfl:ROAD_TO_GLORY.players:in:Bryce Young",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-road-to-glory",
-      "text": "Bryce Young entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-01"
-    },
-    {
       "id": "tennis:out:ATP:Arthur Fils:20261001",
       "sport": "tennis",
       "detail": "Tenis",
@@ -444,15 +462,6 @@ window.GLORY_DATA = {
       "text": "CJ Abrams cae del top-10 · jóvenes promesas",
       "weight": 74,
       "firstSeen": "2026-10-04"
-    },
-    {
-      "id": "rank:nfl:ROAD_TO_GLORY.players:out:Jacoby Brissett",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-road-to-glory",
-      "text": "Jacoby Brissett cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-10-02"
     },
     {
       "id": "rank:cricket:ROAD_TO_GLORY.players:out:Mohammed Siraj",
@@ -550,24 +559,6 @@ window.GLORY_DATA = {
       "detail": "NFL",
       "anchor": "nfl-road-to-glory",
       "text": "Sam Darnold cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-10-01"
-    },
-    {
-      "id": "rank:nfl:ROAD_TO_GLORY.players:out:Trevor Lawrence",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-road-to-glory",
-      "text": "Trevor Lawrence cae del top-10 · Road to Glory",
-      "weight": 74,
-      "firstSeen": "2026-10-01"
-    },
-    {
-      "id": "rank:nfl:ROAD_TO_GLORY.youngProspects:out:Drake Maye",
-      "sport": "nfl",
-      "detail": "NFL",
-      "anchor": "nfl-jovenes-promesas",
-      "text": "Drake Maye cae del top-10 · jóvenes promesas",
       "weight": 74,
       "firstSeen": "2026-10-01"
     },
@@ -696,9 +687,9 @@ window.GLORY_DATA = {
     ],
     "nba:ROAD_TO_GLORY.teams": [
       "Boston Celtics",
+      "Denver Nuggets",
       "Los Angeles Lakers",
       "Golden State Warriors",
-      "Denver Nuggets",
       "Minnesota Timberwolves",
       "Indiana Pacers",
       "Milwaukee Bucks",
@@ -756,20 +747,22 @@ window.GLORY_DATA = {
     ],
     "nfl:ROAD_TO_GLORY.players": [
       "Jared Goff",
-      "Dak Prescott",
       "Kirk Cousins",
-      "Brock Purdy",
-      "Bryce Young",
-      "Tyler Shough",
-      "Geno Smith",
-      "Matthew Stafford",
+      "Dak Prescott",
       "Joe Burrow",
-      "Lamar Jackson"
+      "Brock Purdy",
+      "Geno Smith",
+      "Jordan Love",
+      "Jacoby Brissett",
+      "Matthew Stafford",
+      "Trevor Lawrence"
     ],
     "nfl:ROAD_TO_GLORY.youngProspects": [
       "Bryce Young",
       "C.J. Stroud",
-      "Cam Ward"
+      "Drake Maye",
+      "Cam Ward",
+      "Jayden Daniels"
     ],
     "tennis:ATP": [
       "Jannik Sinner",
@@ -788,12 +781,12 @@ window.GLORY_DATA = {
       "Elena Rybakina",
       "Mirra Andreeva",
       "Coco Gauff",
+      "Elina Svitolina",
       "Marta Kostyuk",
       "Iga Swiatek",
-      "Elina Svitolina",
       "Jessica Pegula",
-      "Sorana Cirstea",
-      "Karolina Muchova"
+      "Karolina Muchova",
+      "Sorana Cirstea"
     ],
     "tennis:ATP_LEGENDS": [
       "Novak Djokovic",
