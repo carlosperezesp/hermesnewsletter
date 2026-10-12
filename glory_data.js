@@ -1,6 +1,6 @@
 // Auto-generated Glory log — hechos de gloria e informes de cierre.
 window.GLORY_DATA = {
-  "UPDATED": "2026-10-12 15:47 UTC",
+  "UPDATED": "2026-10-12 21:26 UTC",
   "EVENTS": [
     {
       "id": "nascar:win:NASCAR Cup Series at Atlanta:Ryan Blaney",
@@ -131,6 +131,24 @@ window.GLORY_DATA = {
       "firstSeen": "2026-09-29"
     },
     {
+      "id": "rank:nhl:ROAD_TO_GLORY.players:in:Cale Makar",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-road-to-glory",
+      "text": "Cale Makar entra en el top-10 · Road to Glory",
+      "weight": 84,
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Owen Power",
+      "sport": "nhl",
+      "detail": "NHL",
+      "anchor": "nhl-jovenes-promesas",
+      "text": "Owen Power entra en el top-10 · jóvenes promesas",
+      "weight": 84,
+      "firstSeen": "2026-10-12"
+    },
+    {
       "id": "rank:nfl:ROAD_TO_GLORY.players:in:Jordan Love",
       "sport": "nfl",
       "detail": "NFL",
@@ -176,15 +194,6 @@ window.GLORY_DATA = {
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "rank:nhl:ROAD_TO_GLORY.players:in:David Pastrnak",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-road-to-glory",
-      "text": "David Pastrnak entra en el top-10 · Road to Glory",
-      "weight": 84,
-      "firstSeen": "2026-10-12"
-    },
-    {
       "id": "rank:cricket:ROAD_TO_GLORY.players:in:JNT Seales",
       "sport": "cricket",
       "detail": "Cricket",
@@ -219,15 +228,6 @@ window.GLORY_DATA = {
       "text": "Cole Perfetti entra en el top-10 · jóvenes promesas",
       "weight": 84,
       "firstSeen": "2026-10-11"
-    },
-    {
-      "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Lane Hutson",
-      "sport": "nhl",
-      "detail": "NHL",
-      "anchor": "nhl-jovenes-promesas",
-      "text": "Lane Hutson entra en el top-10 · jóvenes promesas",
-      "weight": 84,
-      "firstSeen": "2026-10-10"
     },
     {
       "id": "rank:nhl:ROAD_TO_GLORY.youngProspects:in:Ivan Demidov",
@@ -643,18 +643,18 @@ window.GLORY_DATA = {
       "Connor McDavid",
       "Leon Draisaitl",
       "Steven Stamkos",
-      "David Pastrnak",
       "Mikko Rantanen",
       "Auston Matthews",
       "Jake Guentzel",
-      "Roman Josi"
+      "Roman Josi",
+      "Cale Makar"
     ],
     "nhl:ROAD_TO_GLORY.teams": [
       "Vegas Golden Knights",
       "Colorado Avalanche",
-      "Florida Panthers",
       "St. Louis Blues",
       "Edmonton Oilers",
+      "Florida Panthers",
       "Carolina Hurricanes",
       "New York Rangers",
       "Minnesota Wild",
@@ -668,10 +668,10 @@ window.GLORY_DATA = {
       "Tim Stützle",
       "Vasily Podkolzin",
       "Matthew Schaefer",
+      "Owen Power",
       "Ivan Demidov",
       "Ben Kindel",
-      "Cole Perfetti",
-      "Lane Hutson"
+      "Cole Perfetti"
     ],
     "nba:ROAD_TO_GLORY.players": [
       "LeBron James",

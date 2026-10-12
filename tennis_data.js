@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-12 15:47 UTC
+// Auto-generated 2026-10-12 21:26 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-12 15:47 UTC",
+  "UPDATED": "2026-10-12 21:26 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -8045,7 +8045,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "RoveretOpen Città della Pace",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 52.3
@@ -9322,9 +9322,9 @@ window.TENNIS_DATA = {
       "prevListRank": 122,
       "tournamentStatus": {
         "tournament": "RoveretOpen Città della Pace",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 56.2
     },
@@ -11303,15 +11303,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Yasmine Kabbaj",
+          "w": "Andrea Lazaro Garcia",
           "w_logo": "",
-          "l": "Andrea Lazaro Garcia",
+          "l": "Yasmine Kabbaj",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (9-7) 6-0",
           "day": "hoy",
           "scheduled": false,
-          "w_score": null,
-          "l_score": 48.6,
+          "w_score": 48.6,
+          "l_score": null,
           "match_score": 48.6
         },
         {
@@ -11379,9 +11379,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Julia Avdeeva",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 6-4",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 52.3,
           "l_score": null,
           "match_score": 52.3
@@ -11392,9 +11392,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Mona Barthel",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "3-6 6-1 6-0",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 42.6,
           "l_score": null,
           "match_score": 42.6
@@ -11405,7 +11405,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Polina Iatcenko",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "2-6 6-4 6-0",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11431,9 +11431,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Linda Klimovicova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-4 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11451,9 +11451,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Alice Rame",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "4-6 6-2 7-5",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.9,
           "l_score": null,
           "match_score": 35.9
@@ -11477,7 +11477,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Barbora Palicova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-4 7-6 (7-1)",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11631,7 +11631,6 @@ window.TENNIS_DATA = {
     ],
     "alive": [
       "Adrienn Nagy",
-      "Alice Rame",
       "Alina Charaeva",
       "Analu Freitas",
       "Anastasiia Sobolieva",
@@ -11645,7 +11644,6 @@ window.TENNIS_DATA = {
       "Ariana Geerlings",
       "Ashlyn Krueger",
       "Aurora Zantedeschi",
-      "Barbora Palicova",
       "Beatriz Castro",
       "Belinda Bencic",
       "Bianca Andreescu",
@@ -11689,7 +11687,6 @@ window.TENNIS_DATA = {
       "Jessica Bouzas Maneiro",
       "Jil Teichmann",
       "Joelle Lilly Sophie Steur",
-      "Julia Avdeeva",
       "Julia Grabher",
       "Karolina Muchova",
       "Katerina Siniakova",
@@ -11705,7 +11702,6 @@ window.TENNIS_DATA = {
       "Leyre Romero Gormaz",
       "Lidia Encheva",
       "Lilli Tagger",
-      "Linda Klimovicova",
       "Lisa Pigato",
       "Lisa Zaar",
       "Liudmila Samsonova",
@@ -11732,13 +11728,11 @@ window.TENNIS_DATA = {
       "Mia Ristic",
       "Milana Ivantsiv",
       "Mina Hodzic",
-      "Mona Barthel",
       "Nikola Bartunkova",
       "Noemi Basiletti",
       "Noma Noha Akugue",
       "Nuria Brancaccio",
       "Oksana Selekhmeteva",
-      "Polina Iatcenko",
       "Polona Hercog",
       "Raluka Serban",
       "Rebeka Masarova",
@@ -11754,7 +11748,6 @@ window.TENNIS_DATA = {
       "Viktoria Hruncakova",
       "Viktoria Morvayova",
       "Wang Xiyu",
-      "Yasmine Kabbaj",
       "Yulia Putintseva",
       "Zeynep Sonmez",
       "Zhang Shuai",
@@ -11762,10 +11755,12 @@ window.TENNIS_DATA = {
     ],
     "out": [
       "Alexandra Eala",
+      "Alice Rame",
       "Anhelina Kalinina",
       "Anna Bondar",
       "Aoi Ito",
       "Aran Teixido Garcia",
+      "Barbora Palicova",
       "Clara Tauson",
       "Deborah Chiesa",
       "Diane Parry",
@@ -11775,14 +11770,19 @@ window.TENNIS_DATA = {
       "Eva Vedder",
       "Gaia Maduzzi",
       "Jennifer Ruggeri",
+      "Julia Avdeeva",
       "Lina Gjorcheska",
+      "Linda Klimovicova",
       "Mananchaya Sawangkaew",
+      "Mona Barthel",
+      "Polina Iatcenko",
       "Sara Bejlek",
       "Wang Xinyu",
+      "Yasmine Kabbaj",
       "Yuliia Starodubtseva"
     ],
-    "aliveCount": 129,
-    "matchesSeen": 79
+    "aliveCount": 122,
+    "matchesSeen": 80
   },
   "ATP_SCORE_LOG": {
     "206173": [
