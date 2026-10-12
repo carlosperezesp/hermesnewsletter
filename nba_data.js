@@ -974,7 +974,7 @@ window.NBA_DATA = {
           "primary": "#0e2240",
           "secondary": "#fec524"
         },
-        "prevRank": 4
+        "prevRank": 2
       },
       {
         "teamCode": "LAL",
@@ -990,7 +990,7 @@ window.NBA_DATA = {
           "primary": "#552583",
           "secondary": "#fdb927"
         },
-        "prevRank": 2
+        "prevRank": 3
       },
       {
         "teamCode": "GS",
@@ -1006,7 +1006,7 @@ window.NBA_DATA = {
           "primary": "#1d428a",
           "secondary": "#ffc72c"
         },
-        "prevRank": 3
+        "prevRank": 4
       },
       {
         "teamCode": "MIN",
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-12 13:10 UTC",
+  "LAST_UPDATE": "2026-10-12 15:44 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

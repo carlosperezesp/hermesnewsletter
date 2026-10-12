@@ -816,7 +816,7 @@ window.NFL_DATA = {
         "rushYds": 48,
         "rushTd": 0
       },
-      "prevRank": 8
+      "prevRank": 3
     },
     {
       "id": 14880,
@@ -842,7 +842,7 @@ window.NFL_DATA = {
         "rushYds": -2,
         "rushTd": 0
       },
-      "prevRank": 6
+      "prevRank": 4
     },
     {
       "id": 4036378,
@@ -868,7 +868,7 @@ window.NFL_DATA = {
         "rushYds": -2,
         "rushTd": 0
       },
-      "prevRank": 10
+      "prevRank": 5
     },
     {
       "id": 2577417,
@@ -894,7 +894,7 @@ window.NFL_DATA = {
         "rushYds": 66,
         "rushTd": 0
       },
-      "prevRank": 3
+      "prevRank": 6
     },
     {
       "id": 4685720,
@@ -920,7 +920,7 @@ window.NFL_DATA = {
         "rushYds": 19,
         "rushTd": 0
       },
-      "prevRank": 4
+      "prevRank": 7
     },
     {
       "id": 4432577,
@@ -946,7 +946,7 @@ window.NFL_DATA = {
         "rushYds": 71,
         "rushTd": 0
       },
-      "prevRank": 9
+      "prevRank": 8
     },
     {
       "id": 4360310,
@@ -972,7 +972,7 @@ window.NFL_DATA = {
         "rushYds": 59,
         "rushTd": 0
       },
-      "prevRank": 12
+      "prevRank": 9
     },
     {
       "id": 8439,
@@ -998,7 +998,7 @@ window.NFL_DATA = {
         "rushYds": 18,
         "rushTd": 0
       },
-      "prevRank": 16
+      "prevRank": 10
     },
     {
       "id": 3139477,
@@ -1798,7 +1798,7 @@ window.NFL_DATA = {
         "gap": 16.1,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 3
+        "prevRank": 2
       },
       {
         "id": 2577417,
@@ -1815,7 +1815,7 @@ window.NFL_DATA = {
         "gap": 20.0,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 2
+        "prevRank": 3
       },
       {
         "id": 3915511,
@@ -1832,7 +1832,7 @@ window.NFL_DATA = {
         "gap": 20.9,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 9
+        "prevRank": 4
       },
       {
         "id": 4361741,
@@ -1849,7 +1849,7 @@ window.NFL_DATA = {
         "gap": 21.9,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "id": 15864,
@@ -1866,7 +1866,7 @@ window.NFL_DATA = {
         "gap": 24.2,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 7
+        "prevRank": 6
       },
       {
         "id": 4036378,
@@ -1883,7 +1883,7 @@ window.NFL_DATA = {
         "gap": 25.4,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": null
+        "prevRank": 7
       },
       {
         "id": 2578570,
@@ -1900,7 +1900,7 @@ window.NFL_DATA = {
         "gap": 26.7,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": null
+        "prevRank": 8
       },
       {
         "id": 12483,
@@ -1917,7 +1917,7 @@ window.NFL_DATA = {
         "gap": 27.8,
         "rings": 1,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 8
+        "prevRank": 9
       },
       {
         "id": 4360310,
@@ -1934,7 +1934,7 @@ window.NFL_DATA = {
         "gap": 28.1,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": null
+        "prevRank": 10
       }
     ],
     "youngProspects": [
@@ -1987,7 +1987,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 22.5,
         "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": null
+        "prevRank": 3
       },
       {
         "id": 4688380,
@@ -2004,7 +2004,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 31.1,
         "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": 3
+        "prevRank": 4
       },
       {
         "id": 4426348,
@@ -2021,7 +2021,7 @@ window.NFL_DATA = {
         "threshold": 90.0,
         "gap": 36.8,
         "note": "Joven con pedigrí — salto a elite pendiente",
-        "prevRank": null
+        "prevRank": 5
       }
     ]
   },
@@ -2038,7 +2038,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-12 13:10 UTC",
+  "LAST_UPDATE": "2026-10-12 15:44 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"
