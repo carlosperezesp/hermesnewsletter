@@ -23,6 +23,26 @@ window.NBA_DATA = {
       }
     },
     {
+      "code": "MIN",
+      "city": "Minnesota Timberwolves",
+      "shortName": "Minnesota",
+      "commonName": "Timberwolves",
+      "conf": "W",
+      "gp": 4,
+      "w": 3,
+      "l": 1,
+      "winPct": 0.75,
+      "gf": 475,
+      "ga": 448,
+      "gd": 27,
+      "score": 74,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+      "colors": {
+        "primary": "#0c2340",
+        "secondary": "#236192"
+      }
+    },
+    {
       "code": "ATL",
       "city": "Atlanta Hawks",
       "shortName": "Atlanta",
@@ -140,26 +160,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#5d76a9",
         "secondary": "#12173f"
-      }
-    },
-    {
-      "code": "MIN",
-      "city": "Minnesota Timberwolves",
-      "shortName": "Minnesota",
-      "commonName": "Timberwolves",
-      "conf": "W",
-      "gp": 3,
-      "w": 2,
-      "l": 1,
-      "winPct": 0.667,
-      "gf": 353,
-      "ga": 344,
-      "gd": 9,
-      "score": 60,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
-      "colors": {
-        "primary": "#0c2340",
-        "secondary": "#236192"
       }
     },
     {
@@ -563,26 +563,6 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "NY",
-      "city": "New York Knicks",
-      "shortName": "New York",
-      "commonName": "Knicks",
-      "conf": "E",
-      "gp": 2,
-      "w": 0,
-      "l": 2,
-      "winPct": 0.0,
-      "gf": 206,
-      "ga": 231,
-      "gd": -25,
-      "score": 0,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
-      "colors": {
-        "primary": "#006bb6",
-        "secondary": "#f58426"
-      }
-    },
-    {
       "code": "SAC",
       "city": "Sacramento Kings",
       "shortName": "Sacramento",
@@ -600,6 +580,26 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#5a2d81",
         "secondary": "#63727a"
+      }
+    },
+    {
+      "code": "NY",
+      "city": "New York Knicks",
+      "shortName": "New York",
+      "commonName": "Knicks",
+      "conf": "E",
+      "gp": 3,
+      "w": 0,
+      "l": 3,
+      "winPct": 0.0,
+      "gf": 310,
+      "ga": 353,
+      "gd": -43,
+      "score": 0,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+      "colors": {
+        "primary": "#006bb6",
+        "secondary": "#f58426"
       }
     }
   ],
@@ -993,6 +993,22 @@ window.NBA_DATA = {
         "prevRank": 3
       },
       {
+        "teamCode": "MIN",
+        "city": "Minnesota Timberwolves",
+        "era": "2022–present",
+        "rings": 0,
+        "dynastyScore": 50.7,
+        "threshold": 89.4,
+        "gap": 38.7,
+        "note": "2025 Western Conference Finals · Edwards era",
+        "needs": "Needs at least one title + sustained dominance",
+        "colors": {
+          "primary": "#0c2340",
+          "secondary": "#236192"
+        },
+        "prevRank": 5
+      },
+      {
         "teamCode": "GS",
         "city": "Golden State Warriors",
         "era": "2021–present",
@@ -1007,22 +1023,6 @@ window.NBA_DATA = {
           "secondary": "#ffc72c"
         },
         "prevRank": 4
-      },
-      {
-        "teamCode": "MIN",
-        "city": "Minnesota Timberwolves",
-        "era": "2022–present",
-        "rings": 0,
-        "dynastyScore": 43.0,
-        "threshold": 89.4,
-        "gap": 46.4,
-        "note": "2025 Western Conference Finals · Edwards era",
-        "needs": "Needs at least one title + sustained dominance",
-        "colors": {
-          "primary": "#0c2340",
-          "secondary": "#236192"
-        },
-        "prevRank": 5
       },
       {
         "teamCode": "IND",
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-13 02:00 UTC",
+  "LAST_UPDATE": "2026-10-13 02:37 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"
