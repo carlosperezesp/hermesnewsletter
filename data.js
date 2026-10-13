@@ -23967,9 +23967,9 @@ window.NHL_DATA = {
       "name": "Dominic Toninato",
       "pos": "C",
       "teamCode": "CHI",
-      "age": null,
-      "country": "",
-      "birthCountry": null,
+      "age": 32,
+      "country": "United States",
+      "birthCountry": "USA",
       "colors": {
         "primary": "#cf0a2c",
         "secondary": "#111111"
@@ -35046,10 +35046,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-13 19:56 UTC",
+  "LAST_UPDATE": "2026-10-13 23:44 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-13T19:56:00Z"
+    "standingsDateTimeUtc": "2026-10-13T23:43:30Z"
   }
 };
