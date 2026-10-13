@@ -3,6 +3,66 @@
 window.NBA_DATA = {
   "TEAMS": [
     {
+      "code": "BKN",
+      "city": "Brooklyn Nets",
+      "shortName": "Brooklyn",
+      "commonName": "Nets",
+      "conf": "E",
+      "gp": 3,
+      "w": 3,
+      "l": 0,
+      "winPct": 1.0,
+      "gf": 369,
+      "ga": 320,
+      "gd": 49,
+      "score": 100,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#ffffff"
+      }
+    },
+    {
+      "code": "ATL",
+      "city": "Atlanta Hawks",
+      "shortName": "Atlanta",
+      "commonName": "Hawks",
+      "conf": "E",
+      "gp": 4,
+      "w": 3,
+      "l": 1,
+      "winPct": 0.75,
+      "gf": 478,
+      "ga": 475,
+      "gd": 3,
+      "score": 63,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+      "colors": {
+        "primary": "#e03a3e",
+        "secondary": "#c1d32f"
+      }
+    },
+    {
+      "code": "POR",
+      "city": "Portland Trail Blazers",
+      "shortName": "Portland",
+      "commonName": "Trail Blazers",
+      "conf": "W",
+      "gp": 2,
+      "w": 2,
+      "l": 0,
+      "winPct": 1.0,
+      "gf": 242,
+      "ga": 184,
+      "gd": 58,
+      "score": 100,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+      "colors": {
+        "primary": "#e03a3e",
+        "secondary": "#000000"
+      }
+    },
+    {
       "code": "BOS",
       "city": "Boston Celtics",
       "shortName": "Boston",
@@ -20,26 +80,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#007a33",
         "secondary": "#ba9653"
-      }
-    },
-    {
-      "code": "BKN",
-      "city": "Brooklyn Nets",
-      "shortName": "Brooklyn",
-      "commonName": "Nets",
-      "conf": "E",
-      "gp": 2,
-      "w": 2,
-      "l": 0,
-      "winPct": 1.0,
-      "gf": 238,
-      "ga": 198,
-      "gd": 40,
-      "score": 100,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
-      "colors": {
-        "primary": "#000000",
-        "secondary": "#ffffff"
       }
     },
     {
@@ -123,26 +163,6 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "WSH",
-      "city": "Washington Wizards",
-      "shortName": "Washington",
-      "commonName": "Wizards",
-      "conf": "E",
-      "gp": 2,
-      "w": 2,
-      "l": 0,
-      "winPct": 1.0,
-      "gf": 225,
-      "ga": 217,
-      "gd": 8,
-      "score": 89,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
-      "colors": {
-        "primary": "#002b5e",
-        "secondary": "#e31837"
-      }
-    },
-    {
       "code": "DEN",
       "city": "Denver Nuggets",
       "shortName": "Denver",
@@ -183,23 +203,23 @@ window.NBA_DATA = {
       }
     },
     {
-      "code": "ATL",
-      "city": "Atlanta Hawks",
-      "shortName": "Atlanta",
-      "commonName": "Hawks",
+      "code": "WSH",
+      "city": "Washington Wizards",
+      "shortName": "Washington",
+      "commonName": "Wizards",
       "conf": "E",
       "gp": 3,
       "w": 2,
       "l": 1,
       "winPct": 0.667,
-      "gf": 365,
-      "ga": 365,
-      "gd": 0,
-      "score": 55,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+      "gf": 347,
+      "ga": 348,
+      "gd": -1,
+      "score": 54,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
       "colors": {
-        "primary": "#e03a3e",
-        "secondary": "#c1d32f"
+        "primary": "#002b5e",
+        "secondary": "#e31837"
       }
     },
     {
@@ -220,26 +240,6 @@ window.NBA_DATA = {
       "colors": {
         "primary": "#002d62",
         "secondary": "#fdbb30"
-      }
-    },
-    {
-      "code": "POR",
-      "city": "Portland Trail Blazers",
-      "shortName": "Portland",
-      "commonName": "Trail Blazers",
-      "conf": "W",
-      "gp": 1,
-      "w": 1,
-      "l": 0,
-      "winPct": 1.0,
-      "gf": 123,
-      "ga": 118,
-      "gd": 5,
-      "score": 91,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
-      "colors": {
-        "primary": "#e03a3e",
-        "secondary": "#000000"
       }
     },
     {
@@ -528,13 +528,13 @@ window.NBA_DATA = {
       "shortName": "Oklahoma City",
       "commonName": "Thunder",
       "conf": "W",
-      "gp": 2,
+      "gp": 3,
       "w": 0,
-      "l": 2,
+      "l": 3,
       "winPct": 0.0,
-      "gf": 236,
-      "ga": 244,
-      "gd": -8,
+      "gf": 346,
+      "ga": 357,
+      "gd": -11,
       "score": 0,
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
       "colors": {
@@ -1148,7 +1148,7 @@ window.NBA_DATA = {
   "SEASON": "2026-27",
   "STATS_SCOPE": "regular season",
   "IMPORTANCE": 6.0,
-  "LAST_UPDATE": "2026-10-12 21:51 UTC",
+  "LAST_UPDATE": "2026-10-13 02:00 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "sports.core.api.espn.com"

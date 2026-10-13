@@ -69,6 +69,28 @@ window.NHL_DATA = {
       }
     },
     {
+      "code": "OTT",
+      "city": "Ottawa Senators",
+      "shortName": "Ottawa",
+      "commonName": "Senators",
+      "conf": "E",
+      "div": "Atlantic",
+      "gp": 6,
+      "w": 5,
+      "l": 1,
+      "ot": 0,
+      "pts": 10,
+      "gf": 19,
+      "ga": 12,
+      "gd": 7,
+      "score": 65,
+      "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+      "colors": {
+        "primary": "#c52032",
+        "secondary": "#c2912c"
+      }
+    },
+    {
       "code": "EDM",
       "city": "Edmonton Oilers",
       "shortName": "Edmonton",
@@ -176,28 +198,6 @@ window.NHL_DATA = {
       "colors": {
         "primary": "#f47a38",
         "secondary": "#b9975b"
-      }
-    },
-    {
-      "code": "OTT",
-      "city": "Ottawa Senators",
-      "shortName": "Ottawa",
-      "commonName": "Senators",
-      "conf": "E",
-      "div": "Atlantic",
-      "gp": 5,
-      "w": 4,
-      "l": 1,
-      "ot": 0,
-      "pts": 8,
-      "gf": 15,
-      "ga": 11,
-      "gd": 4,
-      "score": 63,
-      "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
-      "colors": {
-        "primary": "#c52032",
-        "secondary": "#c2912c"
       }
     },
     {
@@ -559,15 +559,15 @@ window.NHL_DATA = {
       "commonName": "Devils",
       "conf": "E",
       "div": "Metro",
-      "gp": 4,
+      "gp": 5,
       "w": 2,
-      "l": 2,
+      "l": 3,
       "ot": 0,
       "pts": 4,
-      "gf": 10,
-      "ga": 14,
-      "gd": -4,
-      "score": 46,
+      "gf": 11,
+      "ga": 18,
+      "gd": -7,
+      "score": 41,
       "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
       "colors": {
         "primary": "#ce1126",
@@ -35011,10 +35011,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-12 21:51 UTC",
+  "LAST_UPDATE": "2026-10-13 02:00 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-12T21:50:15Z"
+    "standingsDateTimeUtc": "2026-10-13T02:00:30Z"
   }
 };
