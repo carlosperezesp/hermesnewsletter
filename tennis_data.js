@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-13 12:46 UTC
+// Auto-generated 2026-10-13 14:25 UTC
 window.TENNIS_DATA = {
-  "UPDATED": "2026-10-13 12:46 UTC",
+  "UPDATED": "2026-10-13 14:25 UTC",
   "ATP": [
     {
       "id": "206173",
@@ -101,7 +101,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 87.5
@@ -441,7 +441,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R16",
+        "round": "Quarterfinal",
         "reason": ""
       },
       "prevActiveScore": 76.6
@@ -679,7 +679,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Rolex Shanghai Masters",
         "state": "alive",
-        "round": "R16",
+        "round": "R32",
         "reason": ""
       },
       "prevActiveScore": 74.8
@@ -8836,9 +8836,9 @@ window.TENNIS_DATA = {
       "prevListRank": 108,
       "tournamentStatus": {
         "tournament": "RoveretOpen Città della Pace",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 47.1
     },
@@ -9780,9 +9780,9 @@ window.TENNIS_DATA = {
       "prevListRank": 135,
       "tournamentStatus": {
         "tournament": "Lisboa Belem Open",
-        "state": "alive",
+        "state": "out",
         "round": "R128",
-        "reason": ""
+        "reason": "Eliminado en R128"
       },
       "prevActiveScore": 38.4
     },
@@ -9959,7 +9959,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Lisboa Belem Open",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 36.0
@@ -9993,7 +9993,7 @@ window.TENNIS_DATA = {
       "tournamentStatus": {
         "tournament": "Vanda Pharmaceuticals Mallorca Women's Championships",
         "state": "alive",
-        "round": "R128",
+        "round": "R64",
         "reason": ""
       },
       "prevActiveScore": 35.0
@@ -11004,15 +11004,15 @@ window.TENNIS_DATA = {
       "matches": [
         {
           "round": "R16",
-          "w": "Alexander Bublik",
+          "w": "Alexander Zverev",
           "w_logo": "",
-          "l": "Alexander Zverev",
+          "l": "Alexander Bublik",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (8-6) 4-6 7-6 (7-1)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 74.8,
-          "l_score": 87.5,
+          "w_score": 87.5,
+          "l_score": 74.8,
           "match_score": 87.5
         },
         {
@@ -11034,9 +11034,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Hubert Hurkacz",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 72.3,
           "l_score": 67.0,
           "match_score": 72.3
@@ -11509,9 +11509,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Rebeka Masarova",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 35.0,
           "l_score": null,
           "match_score": 35.0
@@ -11535,7 +11535,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Tea Kovacevic",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11561,9 +11561,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Lucia Cortez Llorca",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11587,7 +11587,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Aneta Kucmova",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11642,15 +11642,15 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Oksana Selekhmeteva",
+          "w": "Lea Boskovic",
           "w_logo": "",
-          "l": "Lea Boskovic",
+          "l": "Oksana Selekhmeteva",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-2 7-6 (7-2)",
           "day": "hoy",
           "scheduled": false,
-          "w_score": 47.0,
-          "l_score": null,
+          "w_score": null,
+          "l_score": 47.0,
           "match_score": 47.0
         },
         {
@@ -11659,9 +11659,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Laura Mair",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 40.3,
           "l_score": null,
           "match_score": 40.3
@@ -11685,9 +11685,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Anouk Koevermans",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11731,9 +11731,9 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Aurora Zantedeschi",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 42.7,
           "l_score": null,
           "match_score": 42.7
@@ -11757,7 +11757,7 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Darja Semenistaja",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "7-6 (7-5) 5-7 6-2",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11770,22 +11770,22 @@ window.TENNIS_DATA = {
           "w_logo": "",
           "l": "Gina Feistel",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "In Progress",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": 36.4,
           "l_score": null,
           "match_score": 36.4
         },
         {
           "round": "R128",
-          "w": "Beatriz Castro",
+          "w": "Dalma Galfi",
           "w_logo": "",
-          "l": "Dalma Galfi",
+          "l": "Beatriz Castro",
           "l_logo": "",
-          "score": "por jugar",
+          "score": "6-0 6-1",
           "day": "hoy",
-          "scheduled": true,
+          "scheduled": false,
           "w_score": null,
           "l_score": null,
           "match_score": 0.0
@@ -11805,11 +11805,11 @@ window.TENNIS_DATA = {
         },
         {
           "round": "R128",
-          "w": "Giorgia Pedone",
+          "w": "Martha Matoula",
           "w_logo": "",
-          "l": "Martha Matoula",
+          "l": "Giorgia Pedone",
           "l_logo": "",
-          "score": "In Progress",
+          "score": "6-3 6-4",
           "day": "hoy",
           "scheduled": false,
           "w_score": null,
@@ -11932,7 +11932,7 @@ window.TENNIS_DATA = {
       "Zhang Zhizhen"
     ],
     "aliveCount": 53,
-    "matchesSeen": 88
+    "matchesSeen": 89
   },
   "WTA_TOURNAMENT": {
     "name": "Dongfeng Voyah Wuhan Open · Vanda Pharmaceuticals Mallorca Women's Championships · RoveretOpen Città della Pace · Lisboa Belem Open",
@@ -11962,10 +11962,8 @@ window.TENNIS_DATA = {
       }
     ],
     "alive": [
-      "Analu Freitas",
       "Andrea Lazaro Garcia",
       "Ane Mintegi Del Olmo",
-      "Aneta Kucmova",
       "Ann Li",
       "Anouk Koevermans",
       "Antonia Ruzic",
@@ -11973,7 +11971,6 @@ window.TENNIS_DATA = {
       "Aryna Sabalenka",
       "Ashlyn Krueger",
       "Aurora Zantedeschi",
-      "Beatriz Castro",
       "Belinda Bencic",
       "Bianca Andreescu",
       "Carole Monnet",
@@ -11981,7 +11978,6 @@ window.TENNIS_DATA = {
       "Clara Burel",
       "Dalma Galfi",
       "Daria Snigur",
-      "Darja Semenistaja",
       "Dayana Yastremska",
       "Diana Shnaider",
       "Dominika Salkova",
@@ -11997,7 +11993,6 @@ window.TENNIS_DATA = {
       "Francisca Jorge",
       "Gabriela Knutson",
       "Gina Feistel",
-      "Giorgia Pedone",
       "Guiomar Maristany Zuleta De Reales",
       "Guo Hanyu",
       "Harmony Tan",
@@ -12045,7 +12040,6 @@ window.TENNIS_DATA = {
       "Nikola Bartunkova",
       "Noma Noha Akugue",
       "Nuria Brancaccio",
-      "Oksana Selekhmeteva",
       "Polona Hercog",
       "Raluka Serban",
       "Rebeka Masarova",
@@ -12054,7 +12048,6 @@ window.TENNIS_DATA = {
       "Sonay Kartal",
       "Susan Bandecchi",
       "Tamara Zidansek",
-      "Tea Kovacevic",
       "Teodora Kostovic",
       "Viktoria Hruncakova",
       "Viktoria Morvayova",
@@ -12067,18 +12060,22 @@ window.TENNIS_DATA = {
       "Alexandra Eala",
       "Alice Rame",
       "Alina Charaeva",
+      "Analu Freitas",
       "Anastasiia Sobolieva",
+      "Aneta Kucmova",
       "Anhelina Kalinina",
       "Anna Bondar",
       "Anna Siskova",
       "Aoi Ito",
       "Aran Teixido Garcia",
       "Barbora Palicova",
+      "Beatriz Castro",
       "Camila Osorio",
       "Clara Tauson",
       "Cristina Bucsa",
       "Daria Kasatkina",
       "Daria Yesypchuk",
+      "Darja Semenistaja",
       "Deborah Chiesa",
       "Despina Papamichail",
       "Diane Parry",
@@ -12089,6 +12086,7 @@ window.TENNIS_DATA = {
       "Eva Bennemann",
       "Eva Vedder",
       "Gaia Maduzzi",
+      "Giorgia Pedone",
       "Ida Wobker",
       "Jennifer Ruggeri",
       "Julia Avdeeva",
@@ -12107,9 +12105,11 @@ window.TENNIS_DATA = {
       "Mina Hodzic",
       "Mona Barthel",
       "Noemi Basiletti",
+      "Oksana Selekhmeteva",
       "Polina Iatcenko",
       "Sara Bejlek",
       "Sorana Cirstea",
+      "Tea Kovacevic",
       "Tessa Johanna Brockmann",
       "Wang Xinyu",
       "Yasmine Kabbaj",
@@ -12117,8 +12117,8 @@ window.TENNIS_DATA = {
       "Zeynep Sonmez",
       "Zhang Shuai"
     ],
-    "aliveCount": 99,
-    "matchesSeen": 96
+    "aliveCount": 92,
+    "matchesSeen": 100
   },
   "ATP_SCORE_LOG": {
     "206173": [

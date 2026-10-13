@@ -998,7 +998,7 @@ window.NFL_DATA = {
         "rushYds": 21,
         "rushTd": 0
       },
-      "prevRank": 21
+      "prevRank": 10
     },
     {
       "id": 8439,
@@ -1798,7 +1798,7 @@ window.NFL_DATA = {
         "gap": 15.6,
         "rings": 1,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 9
+        "prevRank": 2
       },
       {
         "id": 14880,
@@ -1815,7 +1815,7 @@ window.NFL_DATA = {
         "gap": 16.1,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 2
+        "prevRank": 3
       },
       {
         "id": 2577417,
@@ -1832,7 +1832,7 @@ window.NFL_DATA = {
         "gap": 20.0,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 3
+        "prevRank": 4
       },
       {
         "id": 3915511,
@@ -1849,7 +1849,7 @@ window.NFL_DATA = {
         "gap": 20.9,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 4
+        "prevRank": 5
       },
       {
         "id": 4361741,
@@ -1866,7 +1866,7 @@ window.NFL_DATA = {
         "gap": 21.9,
         "rings": 0,
         "note": "2–3 años de pico + varios anillos",
-        "prevRank": 5
+        "prevRank": 6
       },
       {
         "id": 15864,
@@ -1883,7 +1883,7 @@ window.NFL_DATA = {
         "gap": 24.2,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 6
+        "prevRank": 7
       },
       {
         "id": 4036378,
@@ -1900,7 +1900,7 @@ window.NFL_DATA = {
         "gap": 25.4,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "id": 2578570,
@@ -1917,7 +1917,7 @@ window.NFL_DATA = {
         "gap": 26.7,
         "rings": 0,
         "note": "Largo camino: años elite y títulos por delante",
-        "prevRank": 8
+        "prevRank": 9
       },
       {
         "id": 4360310,
@@ -2038,7 +2038,7 @@ window.NFL_DATA = {
   "SEASON": "2026",
   "SEASON_STATUS": "regular",
   "IMPORTANCE": 8.0,
-  "LAST_UPDATE": "2026-10-13 12:43 UTC",
+  "LAST_UPDATE": "2026-10-13 14:23 UTC",
   "SOURCE": {
     "name": "ESPN API",
     "baseUrl": "site.api.espn.com"

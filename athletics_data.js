@@ -1,6 +1,6 @@
-// Auto-generated 2026-10-13 12:46 UTC
+// Auto-generated 2026-10-13 14:25 UTC
 window.ATHLETICS_DATA = {
-  "UPDATED": "2026-10-13 12:46 UTC",
+  "UPDATED": "2026-10-13 14:25 UTC",
   "SEASON": 2026,
   "IMPORTANCE": 7,
   "GROUPS": [
@@ -557,7 +557,108 @@ window.ATHLETICS_DATA = {
               "year": 2024
             }
           ],
-          "season": []
+          "season": [
+            {
+              "rank": 1,
+              "mark": "19.52",
+              "athlete": "Kenneth Bednarek",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "13 SEP 2026"
+            },
+            {
+              "rank": 2,
+              "mark": "19.63",
+              "athlete": "Jaiden Reid",
+              "country": "CAY",
+              "flag": "",
+              "primary": "#4A4745",
+              "venue": "Hayward Field",
+              "date": "12 JUN 2026"
+            },
+            {
+              "rank": 3,
+              "mark": "19.67",
+              "athlete": "Gout Gout",
+              "country": "AUS",
+              "flag": "https://flagcdn.com/24x18/au.png",
+              "primary": "#00008B",
+              "venue": "Olympic Park",
+              "date": "12 APR 2026"
+            },
+            {
+              "rank": 4,
+              "mark": "19.74",
+              "athlete": "Sinesipho Dambile",
+              "country": "RSA",
+              "flag": "https://flagcdn.com/24x18/za.png",
+              "primary": "#007749",
+              "venue": "Suhaim bin Hamad Stadium",
+              "date": "19 JUN 2026"
+            },
+            {
+              "rank": 5,
+              "mark": "19.75",
+              "athlete": "Tate Taylor",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Hayward Field",
+              "date": "04 JUL 2026"
+            },
+            {
+              "rank": 6,
+              "mark": "19.76",
+              "athlete": "Jos&#233; Figueroa",
+              "country": "PUR",
+              "flag": "https://flagcdn.com/24x18/pr.png",
+              "primary": "#4A4745",
+              "venue": "Estadio Olimpico Juan Pablo Duarte",
+              "date": "05 AUG 2026"
+            },
+            {
+              "rank": 7,
+              "mark": "19.76",
+              "athlete": "Letsile Tebogo",
+              "country": "BOT",
+              "flag": "https://flagcdn.com/24x18/bw.png",
+              "primary": "#75AADB",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "13 SEP 2026"
+            },
+            {
+              "rank": 8,
+              "mark": "19.79",
+              "athlete": "Courtney Lindsey",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Nemzeti Atltikai Kzpont",
+              "date": "13 SEP 2026"
+            },
+            {
+              "rank": 9,
+              "mark": "19.84",
+              "athlete": "Andre De Grasse",
+              "country": "CAN",
+              "flag": "https://flagcdn.com/24x18/ca.png",
+              "primary": "#FF0000",
+              "venue": "National Stadium",
+              "date": "26 APR 2026"
+            },
+            {
+              "rank": 10,
+              "mark": "19.87",
+              "athlete": "Jelani Watkins",
+              "country": "USA",
+              "flag": "https://flagcdn.com/24x18/us.png",
+              "primary": "#B22234",
+              "venue": "Hutsell-Rosen Track",
+              "date": "16 MAY 2026"
+            }
+          ]
         },
         {
           "id": "200m_w",

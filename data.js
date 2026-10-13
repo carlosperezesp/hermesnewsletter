@@ -846,7 +846,7 @@ window.NHL_DATA = {
         86
       ],
       "legendScore": 47.8,
-      "prevRank": 5
+      "prevRank": 4
     },
     {
       "id": 8479977,
@@ -881,7 +881,7 @@ window.NHL_DATA = {
         83
       ],
       "legendScore": 42.9,
-      "prevRank": 6
+      "prevRank": 5
     },
     {
       "id": 8477934,
@@ -916,7 +916,7 @@ window.NHL_DATA = {
         83
       ],
       "legendScore": 63.8,
-      "prevRank": 7
+      "prevRank": 6
     },
     {
       "id": 8477939,
@@ -951,7 +951,7 @@ window.NHL_DATA = {
         83
       ],
       "legendScore": 54.9,
-      "prevRank": 8
+      "prevRank": 7
     },
     {
       "id": 8479979,
@@ -983,7 +983,7 @@ window.NHL_DATA = {
         60,
         82
       ],
-      "prevRank": 9
+      "prevRank": 8
     },
     {
       "id": 8478398,
@@ -1018,7 +1018,7 @@ window.NHL_DATA = {
         81
       ],
       "legendScore": 54.8,
-      "prevRank": 10
+      "prevRank": 9
     },
     {
       "id": 8479318,
@@ -1053,7 +1053,7 @@ window.NHL_DATA = {
         80
       ],
       "legendScore": 59.5,
-      "prevRank": 11
+      "prevRank": 10
     },
     {
       "id": 8479542,
@@ -34767,7 +34767,7 @@ window.NHL_DATA = {
           "primary": "#154734",
           "secondary": "#a6192e"
         },
-        "prevRank": 8
+        "prevRank": 7
       },
       {
         "teamCode": "NYR",
@@ -34783,7 +34783,7 @@ window.NHL_DATA = {
           "primary": "#0038a8",
           "secondary": "#ce1126"
         },
-        "prevRank": 7
+        "prevRank": 8
       },
       {
         "teamCode": "BOS",
@@ -35046,10 +35046,10 @@ window.NHL_DATA = {
   },
   "SEASON": "2026-27",
   "IMPORTANCE": 5.0,
-  "LAST_UPDATE": "2026-10-13 12:43 UTC",
+  "LAST_UPDATE": "2026-10-13 14:23 UTC",
   "SOURCE": {
     "name": "NHL API",
     "baseUrl": "https://api-web.nhle.com/v1",
-    "standingsDateTimeUtc": "2026-10-13T12:42:30Z"
+    "standingsDateTimeUtc": "2026-10-13T14:23:15Z"
   }
 };
